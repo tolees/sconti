@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'American Metalcraft 3512 35.5" Aluminum  al 52.68 % de descuento'
-date: 2020-09-17 11:07:56
+date: 2020-09-21 15:10:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ctUyhwsjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ctUyhwsjL._SL200_.jpg' ]
 comments: true

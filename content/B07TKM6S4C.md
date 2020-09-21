@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.49 % en iRobot Braava Jet 250 Wischroboter mit P'
-date: 2020-09-17 15:03:10
+date: 2020-09-21 15:21:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WyFDO5p7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WyFDO5p7L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.67 % en Amcrest ProHD 1080P WiFi Camera 2MP  192'
-date: 2020-09-17 23:36:12
+date: 2020-09-21 15:11:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41THVlwAuhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41THVlwAuhL._SL200_.jpg' ]
 comments: true
