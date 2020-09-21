@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.99 % en Thule Crossover Mochila tipo casual 47 c'
-date: 2020-09-20 00:01:23
+date: 2020-09-21 20:03:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z9kA-ZEaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z9kA-ZEaL._SL200_.jpg' ]
 comments: true
