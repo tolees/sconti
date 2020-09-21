@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Xiaomi Redmi Note 9 Pro Smartphone - 6.6 al 0.00 % de descuento'
+date: 2020-08-26 16:39:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/51TiBDgaAsL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51TiBDgaAsL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B0881TZRTZ
+description:
+actualPrice: 0 EUR
+comparePrice: 0 EUR
+inStock: true
+---
+
+Está [Xiaomi Redmi Note 9 Pro Smartphone - 6.67" DotDisplay 6GB 128GB 64MP AI Quad Camera 5020mAh  typ * NFC Grigio [Versione globale]](https://www.amazon.it/dp/B0881TZRTZ/?tag=redken00-21) con 0.00 de descuento por 0 EUR (original: 0 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/51TiBDgaAsL._SL200_.jpg)](https://www.amazon.it/dp/B0881TZRTZ/?tag=redken00-21)
+
+[Ver la oferta!!](https://www.amazon.it/dp/B0881TZRTZ/?tag=redken00-21)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

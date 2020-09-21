@@ -1,0 +1,11 @@
+baseURL = "https://pending.tole.es"
+languageCode = "es-es"
+title = "Soldes and risparmio online to be pending on!"
+theme = "hugo-shopping-product-catalogue-simple"
+[Params]
+description = "Latest deals"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
