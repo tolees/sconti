@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.01 % en Breville Deep Fill Sandwich Toaster and '
-date: 2020-04-22 09:02:07
+date: 2020-09-21 16:51:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UdcK0aOCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UdcK0aOCL._SL200_.jpg' ]
 comments: true
