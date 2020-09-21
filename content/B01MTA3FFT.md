@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.32 % en Sony FDR-X3000RFDI 4K Action Cam  mit RM'
-date: 2020-09-18 09:38:41
+date: 2020-09-21 14:47:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+QIzYOl2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+QIzYOl2L._SL200_.jpg' ]
 comments: true
