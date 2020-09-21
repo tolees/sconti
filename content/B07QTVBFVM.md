@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Star Wars The Rise of Skywalk al 57.99 % de descuento'
-date: 2020-09-20 07:40:11
+date: 2020-09-21 17:13:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MHImg67ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MHImg67ZL._SL200_.jpg' ]
 comments: true
