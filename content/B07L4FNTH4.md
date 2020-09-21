@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60227 - City Mond Raumstation  Baus al 26.51 % de descuento'
-date: 2020-09-18 16:20:41
+date: 2020-09-21 11:47:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51brJzGqexL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51brJzGqexL._SL200_.jpg' ]
 comments: true

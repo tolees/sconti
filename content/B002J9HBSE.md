@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.87 % en Case Logic VNB-217BLACK - Mochila para O'
-date: 2020-09-18 21:45:44
+date: 2020-09-21 11:56:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/513uLt+kWrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513uLt+kWrL._SL200_.jpg' ]
 comments: true

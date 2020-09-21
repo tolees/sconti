@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.80 % en Xiaomi Mi Band 4 Pulsera de Actividad Mo'
-date: 2020-09-19 16:32:32
+date: 2020-09-21 12:22:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rXtP5h3+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rXtP5h3+L._SL200_.jpg' ]
 comments: true

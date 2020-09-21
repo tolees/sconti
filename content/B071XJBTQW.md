@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jprnon Iron Shirt L/s Noos  al 40.01 % de descuento'
-date: 2020-09-17 20:03:20
+date: 2020-09-21 12:08:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WCG77r3CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WCG77r3CL._SL200_.jpg' ]
 comments: true

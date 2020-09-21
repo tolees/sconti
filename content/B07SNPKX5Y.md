@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Presentamos el Echo Show 8: mantén el co al 42.31 % de descuento'
-date: 2020-09-19 10:41:10
+date: 2020-09-21 11:59:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wKh06IJIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wKh06IJIL._SL200_.jpg' ]
 comments: true
