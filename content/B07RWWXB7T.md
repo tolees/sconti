@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.01 % en Cámara de Vigilancia WiFi Interior Alexa'
-date: 2020-09-19 17:31:00
+date: 2020-09-22 17:21:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31NA74+dYpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31NA74+dYpL._SL200_.jpg' ]
 comments: true

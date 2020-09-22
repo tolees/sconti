@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA ICRA Trainer SD  Zapatillas para Ho al 32.13 % de descuento'
-date: 2020-09-21 11:26:15
+date: 2020-09-22 17:04:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JuOlW06XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JuOlW06XL._SL200_.jpg' ]
 comments: true

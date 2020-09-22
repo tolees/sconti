@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.91 % en PUMA Smash V2 L  Zapatillas para Hombre '
-date: 2020-09-21 11:34:00
+date: 2020-09-22 17:18:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL200_.jpg' ]
 comments: true
