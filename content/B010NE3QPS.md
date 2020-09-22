@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra 64 GB microSDXC Class 10 M al 29.85 % de descuento'
-date: 2020-09-16 15:03:13
+date: 2020-09-22 06:46:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XINXIXCLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XINXIXCLL._SL200_.jpg' ]
 comments: true
