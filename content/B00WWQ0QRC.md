@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.95 % en Jack & Jones Jjprparma Shirt L/s Noos Ca'
-date: 2020-09-21 12:58:59
+date: 2020-09-22 18:06:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JGj0R2JWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JGj0R2JWL._SL200_.jpg' ]
 comments: true
