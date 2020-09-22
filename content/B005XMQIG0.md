@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.32 % en Dim - Pockets Coton - Slip - Quotidien -'
-date: 2020-09-18 15:25:07
+date: 2020-09-22 01:24:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41egSYW9IDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41egSYW9IDL._SL200_.jpg' ]
 comments: true
