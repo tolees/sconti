@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'JACK & JONES Jones - Camiseta de Manga C al 45.95 % de descuento'
-date: 2020-04-07 16:03:45
-thumbnailImage: 'https://m.media-amazon.com/images/I/41VkRUFoqML._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41VkRUFoqML._SL200_.jpg' ]
+title: 'Jack & Jones Jones - Camiseta de Manga C al 46.02 % de descuento'
+date: 2020-09-22 10:29:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/313qdViqzgL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/313qdViqzgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B0085SFZLS
 description:
-actualPrice: 7.0 EUR
+actualPrice: 6.99 EUR
 comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jones - Camiseta de Manga Corta con Cuello Pico para Hombre  Color Blanco  Optical White   Talla 50](https://www.amazon.com/dp/B0085SFZLS/?tag=redken08-20) con 45.95 de descuento por 7.0 EUR (original: 12.95 EUR) en el siguiente enlace!
+Está [Jack & Jones Jones - Camiseta de Manga Corta con Cuello Pico para Hombre  Color Blanco  Optical White   Talla 50](https://www.amazon.com/dp/B0085SFZLS/?tag=redken08-20) con 46.02 de descuento por 6.99 EUR (original: 12.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41VkRUFoqML._SL200_.jpg)](https://www.amazon.com/dp/B0085SFZLS/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/313qdViqzgL._SL200_.jpg)](https://www.amazon.com/dp/B0085SFZLS/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B0085SFZLS/?tag=redken08-20)
 
