@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.78 % en Adidas Fresh Desodorante para Hombre - 2'
-date: 2020-09-19 16:44:42
+date: 2020-09-22 13:47:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uFUaBTQJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uFUaBTQJL._SL200_.jpg' ]
 comments: true
