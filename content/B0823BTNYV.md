@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Smart Compact Projector Mini B al 30.05 % de descuento'
-date: 2020-09-21 19:12:28
+date: 2020-09-22 19:45:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SJgIDodML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SJgIDodML._SL200_.jpg' ]
 comments: true
