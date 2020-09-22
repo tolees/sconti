@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin fēnix 5S Plus  Smaller-Sized Mult al 41.33 % de descuento'
-date: 2020-09-21 15:26:25
+date: 2020-09-22 22:08:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Z3EicRboL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Z3EicRboL._SL200_.jpg' ]
 comments: true

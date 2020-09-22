@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.51 % en Apple Smart Battery Case  for iPhone 7  '
-date: 2020-09-21 15:17:41
+date: 2020-09-22 22:45:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31uduBBdvfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31uduBBdvfL._SL200_.jpg' ]
 comments: true
