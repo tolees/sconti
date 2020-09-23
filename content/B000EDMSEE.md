@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.12 % en Converse Chuck Taylor All Star Ox  Zapat'
-date: 2020-09-21 11:59:28
+date: 2020-09-23 00:19:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/21gdY8ARWoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21gdY8ARWoL._SL200_.jpg' ]
 comments: true
