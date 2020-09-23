@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.07 % en Hasbro Gaming Clasico Risk  Versión Espa'
-date: 2020-09-21 09:06:32
+date: 2020-09-23 15:18:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/519AzRJPoyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519AzRJPoyL._SL200_.jpg' ]
 comments: true
