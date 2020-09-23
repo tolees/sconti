@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.34 % en David Jones - Grand Sac à Main Femme - C'
-date: 2020-09-22 01:29:48
+date: 2020-09-23 01:47:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/413McffAtTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413McffAtTL._SL200_.jpg' ]
 comments: true

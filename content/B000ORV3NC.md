@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.08 % en Weleda Skin Food for Dry and Rough skin '
-date: 2020-09-16 08:24:21
+date: 2020-09-23 01:04:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31p5FB1FKdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31p5FB1FKdL._SL200_.jpg' ]
 comments: true

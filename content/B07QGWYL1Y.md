@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko POP! Bobble Vinyl Marvel: Holiday  al 33.52 % de descuento'
-date: 2020-09-21 19:14:40
+date: 2020-09-23 01:24:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31F9ph0c89L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31F9ph0c89L._SL200_.jpg' ]
 comments: true
