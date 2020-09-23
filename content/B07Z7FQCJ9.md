@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.93 % en Soporte de Pared para TV 13" - 42" - Gir'
-date: 2020-09-21 13:11:48
+date: 2020-09-23 06:33:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FM2tJltDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FM2tJltDL._SL200_.jpg' ]
 comments: true

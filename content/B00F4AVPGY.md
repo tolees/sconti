@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.18 % en Calvin Klein Carousel-Bikini Sujetador  '
-date: 2020-09-18 14:06:52
+date: 2020-09-23 06:20:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Csnyj5YvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Csnyj5YvL._SL200_.jpg' ]
 comments: true
