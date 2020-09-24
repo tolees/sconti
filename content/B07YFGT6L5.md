@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.11 % en WD BLACK P50 500Go - SSD NVMe externe po'
-date: 2020-09-22 07:19:32
+date: 2020-09-24 07:49:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tHjjo6L7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tHjjo6L7L._SL200_.jpg' ]
 comments: true
