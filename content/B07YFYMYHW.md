@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Luz Nocturna con Sensor de Movimiento  O al 26.10 % de descuento'
-date: 2020-09-18 20:14:20
+date: 2020-09-24 09:03:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/31u5eec4saL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31u5eec4saL._SL200_.jpg' ]
 comments: true
