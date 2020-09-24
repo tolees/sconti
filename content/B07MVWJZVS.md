@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD - My Passport Go 500GB - Disque SSD P al 30.40 % de descuento'
-date: 2020-09-23 01:40:19
+date: 2020-09-24 02:18:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KiCBW9SEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KiCBW9SEL._SL200_.jpg' ]
 comments: true
