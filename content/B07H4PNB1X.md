@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CubicFun National Geographic Puzzle 3D T al 27.76 % de descuento'
-date: 2020-09-22 18:44:46
+date: 2020-09-24 00:55:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XtqQNFiML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XtqQNFiML._SL200_.jpg' ]
 comments: true
