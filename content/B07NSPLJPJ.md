@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 61.63 % en Funko 39454 POP Town: Ghostbusters-Peter'
-date: 2020-09-23 01:15:15
+date: 2020-09-24 01:37:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GOi5tdJZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GOi5tdJZL._SL200_.jpg' ]
 comments: true

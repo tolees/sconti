@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 39333 POP Vinyl: Ghostbusters: Sli al 28.81 % de descuento'
-date: 2020-09-23 01:15:54
+date: 2020-09-24 01:37:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41b42BH6ByL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41b42BH6ByL._SL200_.jpg' ]
 comments: true

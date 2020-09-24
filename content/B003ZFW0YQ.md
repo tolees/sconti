@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OXO Good Grips Komposteimer Plastik Weiß al 30.02 % de descuento'
-date: 2020-09-18 15:06:05
+date: 2020-09-24 01:29:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/312lctIInKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312lctIInKL._SL200_.jpg' ]
 comments: true
