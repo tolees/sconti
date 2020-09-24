@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s LS Battery Hm Shirt Slim Camisa   al 39.18 % de descuento'
-date: 2020-09-17 08:00:06
+date: 2020-09-24 18:22:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31n0ylvZlyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31n0ylvZlyL._SL200_.jpg' ]
 comments: true

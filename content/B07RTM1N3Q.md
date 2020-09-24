@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.96 % en Funko Pop! Disney: Maleficent'
-date: 2020-09-23 12:50:03
+date: 2020-09-24 18:28:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OVUlpynYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OVUlpynYL._SL200_.jpg' ]
 comments: true
