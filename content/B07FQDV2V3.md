@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Iberica - Figurina Amiibo Inkli al 34.92 % de descuento'
-date: 2020-09-18 05:34:13
+date: 2020-09-24 08:17:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CZjaUE3hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CZjaUE3hL._SL200_.jpg' ]
 comments: true
