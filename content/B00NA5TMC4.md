@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.53 % en Calvin Klein Cotton Stretch-3er Calcetin'
-date: 2020-09-20 10:32:42
+date: 2020-09-25 14:15:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Wodc2aLNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Wodc2aLNL._SL200_.jpg' ]
 comments: true

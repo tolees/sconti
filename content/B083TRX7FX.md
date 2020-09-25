@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.88 % en Crucial Ballistix BL2K8G36C16U4W 3600 MH'
-date: 2020-09-22 10:26:40
+date: 2020-09-25 14:18:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ceg-5dP8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ceg-5dP8L._SL200_.jpg' ]
 comments: true
