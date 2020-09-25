@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.65 % en EACHINE E58 Drone con Camara HD 2.0MP 72'
-date: 2020-09-24 00:31:18
+date: 2020-09-25 00:33:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mks3pkFEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mks3pkFEL._SL200_.jpg' ]
 comments: true
