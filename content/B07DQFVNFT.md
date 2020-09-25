@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.01 % en 10M RGB Tira de LED 12V con Chip SMD 505'
-date: 2020-09-23 12:11:05
+date: 2020-09-25 08:26:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f9pV3EoVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f9pV3EoVL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10928 DUPLO Town Bakery Playset wit al 33.27 % de descuento'
-date: 2020-09-24 07:47:42
+date: 2020-09-25 08:23:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jDFYyOsYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jDFYyOsYL._SL200_.jpg' ]
 comments: true
