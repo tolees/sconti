@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'All for You al 29.87 % de descuento'
-date: 2020-09-24 09:47:49
+date: 2020-09-25 18:02:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YW1OEliKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YW1OEliKL._SL200_.jpg' ]
 comments: true
