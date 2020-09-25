@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LogiLink KAB0039 Kabel-Clip Selbstkleben al 39.48 % de descuento'
-date: 2020-09-24 09:46:57
+date: 2020-09-25 22:01:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r6bg5KTdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r6bg5KTdL._SL200_.jpg' ]
 comments: true

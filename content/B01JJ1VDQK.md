@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.78 % en Vanja Lector Tarjeta de Memoria SD/Micro'
-date: 2020-09-16 13:46:13
+date: 2020-09-25 22:07:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Cl5SAA68L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Cl5SAA68L._SL200_.jpg' ]
 comments: true
