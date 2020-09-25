@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75270 Star Wars Obi-Wan’s Hut Build al 33.57 % de descuento'
-date: 2020-09-23 15:42:52
+date: 2020-09-25 07:12:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51A9PfnryAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51A9PfnryAL._SL200_.jpg' ]
 comments: true
