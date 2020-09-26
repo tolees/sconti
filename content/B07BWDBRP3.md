@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calico Cat al 36.48 % de descuento'
-date: 2020-09-25 07:20:37
+date: 2020-09-26 08:26:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DULb9EKXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DULb9EKXL._SL200_.jpg' ]
 comments: true
