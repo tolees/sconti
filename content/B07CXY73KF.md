@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung EVO Select - Tarjeta de Memoria  al 36.38 % de descuento'
-date: 2020-09-21 06:41:13
+date: 2020-09-26 12:20:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LOfp8sv5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LOfp8sv5L._SL200_.jpg' ]
 comments: true
