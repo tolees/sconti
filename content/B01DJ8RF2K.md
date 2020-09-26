@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa Borrás Soy Luna - Juego de Mesa 16 al 60.15 % de descuento'
-date: 2020-09-21 17:35:51
+date: 2020-09-26 17:23:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/61ERYSlQJoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61ERYSlQJoL._SL200_.jpg' ]
 comments: true
