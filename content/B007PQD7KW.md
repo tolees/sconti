@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.88 % en Bulldog Gel Limpiador Facial - 150 ml'
-date: 2020-09-25 14:10:48
+date: 2020-09-26 14:43:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/414PTQaAMSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414PTQaAMSL._SL200_.jpg' ]
 comments: true
