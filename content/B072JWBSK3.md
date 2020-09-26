@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HASAKEE H1 FPV RC Drone with HD Live Vid al 27.76 % de descuento'
-date: 2020-09-25 07:10:58
+date: 2020-09-26 07:46:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EJ9aCNQGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EJ9aCNQGL._SL200_.jpg' ]
 comments: true
