@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 50.03 % en Asics Gel-Nimbus 22  Running Shoe Mens  '
-date: 2020-09-25 14:20:55
+title: 'Descuento del 25.00 % en Asics Gel-Nimbus 22  Running Shoe Mens  '
+date: 2020-09-26 20:35:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cC7mpS+cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cC7mpS+cL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SNQRY9Y
 description:
-actualPrice: 89.95 EUR
+actualPrice: 135.0 EUR
 comparePrice: 180.0 EUR
 inStock: true
 ---
 
-Tienes [Asics Gel-Nimbus 22  Running Shoe Mens  Tuna Blue/Pure Silver  41.5 EU](https://www.amazon.com/dp/B07SNQRY9Y/?tag=redken08-20) con un 50.03 % de descuento con precio de oferta de 89.95 EUR (original: 180.0 EUR) en el siguiente enlace!
+Tienes [Asics Gel-Nimbus 22  Running Shoe Mens  Tuna Blue/Pure Silver  41.5 EU](https://www.amazon.com/dp/B07SNQRY9Y/?tag=redken08-20) con un 25.00 % de descuento con precio de oferta de 135.0 EUR (original: 180.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41cC7mpS+cL._SL200_.jpg)](https://www.amazon.com/dp/B07SNQRY9Y/?tag=redken08-20)
 
