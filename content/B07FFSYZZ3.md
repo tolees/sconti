@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.58 % en HUANUO Soporte Monitor para 13-27 Pulgad'
-date: 2020-09-18 14:10:38
+date: 2020-09-26 00:30:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lTQCUXnXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lTQCUXnXL._SL200_.jpg' ]
 comments: true
