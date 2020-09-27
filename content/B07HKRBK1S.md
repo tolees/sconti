@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tefal Daily Cook - Juego de Sartenes y C al 39.86 % de descuento'
-date: 2020-09-17 19:44:21
+date: 2020-09-27 07:27:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BJee5nV1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BJee5nV1L._SL200_.jpg' ]
 comments: true

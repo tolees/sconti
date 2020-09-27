@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Tytan 2.1 GXT 628 - Altavoces Gami al 34.30 % de descuento'
-date: 2020-09-23 08:30:30
+date: 2020-09-27 07:50:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PlEDRPWfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PlEDRPWfL._SL200_.jpg' ]
 comments: true
