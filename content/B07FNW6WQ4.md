@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42093 Technic Chevrolet Corvette ZR al 40.01 % de descuento'
-date: 2020-09-25 07:22:23
+date: 2020-09-27 01:30:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51e75sTmGZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51e75sTmGZL._SL200_.jpg' ]
 comments: true
