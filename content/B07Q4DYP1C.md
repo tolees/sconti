@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Licor Picante de Guindilla Verde Dr Zas  al 50.00 % de descuento'
-date: 2020-09-26 15:22:42
+date: 2020-09-27 16:38:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51C0A3zlRhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51C0A3zlRhL._SL200_.jpg' ]
 comments: true
