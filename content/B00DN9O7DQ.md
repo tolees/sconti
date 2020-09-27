@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.14 % en Ana Maria Lajusticia - Colágeno con magn'
-date: 2020-09-20 13:32:34
+date: 2020-09-27 17:56:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41juZhHtbwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41juZhHtbwL._SL200_.jpg' ]
 comments: true
