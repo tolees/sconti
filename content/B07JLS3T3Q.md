@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'StarterPack Duel de Chevaliers al 44.68 % de descuento'
-date: 2020-09-26 14:24:54
+date: 2020-09-27 14:58:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/61sb4F0M1CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61sb4F0M1CL._SL200_.jpg' ]
 comments: true
