@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42106 Technic Stunt Show Truck & Bi al 33.32 % de descuento'
-date: 2020-09-26 08:15:02
+date: 2020-09-27 08:30:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RAnJt+YfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RAnJt+YfL._SL200_.jpg' ]
 comments: true
