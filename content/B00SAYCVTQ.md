@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX KHX-HSCP-GM Cloud II - Cascos de  al 34.98 % de descuento'
-date: 2020-09-18 06:33:12
+date: 2020-09-27 12:35:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41apEUfMVpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41apEUfMVpL._SL200_.jpg' ]
 comments: true

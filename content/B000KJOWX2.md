@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli Paper 1281 Etiquetas Adhesivas Blan al 25.81 % de descuento'
-date: 2020-09-26 06:44:08
+date: 2020-09-27 12:53:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg' ]
 comments: true
