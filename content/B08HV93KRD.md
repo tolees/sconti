@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Surttan Instr 50 paños de Cobertura para al 90.02 % de descuento'
-date: 2020-09-24 21:30:55
+date: 2020-09-27 11:08:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XQnVrIiuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XQnVrIiuL._SL200_.jpg' ]
 comments: true
