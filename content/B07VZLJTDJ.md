@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LITOM Luz de Lectura  Luz de Libro Recar al 29.43 % de descuento'
-date: 2020-09-26 11:26:14
+date: 2020-09-27 20:39:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41k7EtxT9HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41k7EtxT9HL._SL200_.jpg' ]
 comments: true
