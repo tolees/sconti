@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.42 % en LEGO 41381 Friends Rescue Mission Boat a'
-date: 2020-09-27 11:40:49
+date: 2020-09-28 17:22:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/519jtFTryGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519jtFTryGL._SL200_.jpg' ]
 comments: true
