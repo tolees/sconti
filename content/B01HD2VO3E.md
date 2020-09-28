@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.05 % en Salomon XA Pro 3D GTX W  Zapatillas de T'
-date: 2020-09-23 11:29:37
+date: 2020-09-28 19:39:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/419Cl1AZlLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419Cl1AZlLL._SL200_.jpg' ]
 comments: true
