@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.39 % en Barbie Video Game Hero  includes free 3D'
-date: 2020-09-27 07:54:33
+date: 2020-09-28 07:58:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/61NN3Gitd6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61NN3Gitd6L._SL200_.jpg' ]
 comments: true
