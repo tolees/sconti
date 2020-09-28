@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.14 % en Logitech G Pro Ratón Gaming Inalámbrico '
-date: 2020-09-16 06:14:58
+date: 2020-09-28 08:48:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31uyNiJjjyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31uyNiJjjyL._SL200_.jpg' ]
 comments: true
