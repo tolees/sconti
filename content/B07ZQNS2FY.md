@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bob s Red Mill Resealable Organic Extra  al 41.10 % de descuento'
-date: 2020-09-27 15:09:12
+date: 2020-09-28 18:02:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41S9CypsxbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41S9CypsxbL._SL200_.jpg' ]
 comments: true
