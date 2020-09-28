@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Signal Pasta de dientes gel Fresco - 75  al 28.06 % de descuento'
-date: 2020-09-21 20:08:20
+date: 2020-09-28 11:34:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a04GbEELL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a04GbEELL._SL200_.jpg' ]
 comments: true
