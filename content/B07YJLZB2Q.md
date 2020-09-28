@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.18 % en FORMIZON Apprentissage des Mathématiques'
-date: 2020-09-27 14:58:45
+date: 2020-09-28 20:35:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-3ISlPBkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-3ISlPBkL._SL200_.jpg' ]
 comments: true

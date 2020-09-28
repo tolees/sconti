@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Switch Ethernet  TL-SG108  Gigab al 35.68 % de descuento'
-date: 2020-09-27 14:39:10
+date: 2020-09-28 20:22:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg' ]
 comments: true
