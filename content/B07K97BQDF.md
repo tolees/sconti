@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Simple Mobile Prepaid - Apple iPhone XR  al 25.17 % de descuento'
-date: 2020-09-26 22:19:23
+date: 2020-09-28 02:47:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f3kTEmyzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f3kTEmyzL._SL200_.jpg' ]
 comments: true

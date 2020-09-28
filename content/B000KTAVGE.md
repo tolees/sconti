@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.94 % en Leibniz PiCK UP! Choco Single im 24er Pa'
-date: 2020-09-25 13:30:43
+date: 2020-09-28 02:13:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/514fMctCXvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514fMctCXvL._SL200_.jpg' ]
 comments: true

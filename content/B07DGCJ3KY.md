@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.65 % en SAMSUNG Electronics UN32M4500BFXZA 720P '
-date: 2020-09-23 07:07:53
+date: 2020-09-28 02:05:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ABQn4GqfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ABQn4GqfL._SL200_.jpg' ]
 comments: true
