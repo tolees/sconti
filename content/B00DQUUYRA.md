@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crema Regeneradora Rosa Mosqueta - Insti al 43.05 % de descuento'
-date: 2020-09-18 11:54:15
+date: 2020-09-28 10:56:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Txh4kzhOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Txh4kzhOL._SL200_.jpg' ]
 comments: true
