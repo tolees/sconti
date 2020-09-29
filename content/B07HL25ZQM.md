@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials - Juego de 6 baberos p al 68.16 % de descuento'
-date: 2020-09-28 08:51:33
+date: 2020-09-29 09:42:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pEX+vv5hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pEX+vv5hL._SL200_.jpg' ]
 comments: true
