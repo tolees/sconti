@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remington Beard Boss Styler MB4125 Barbe al 37.51 % de descuento'
-date: 2020-09-28 09:03:03
+date: 2020-09-29 14:46:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/5123rqsL1fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5123rqsL1fL._SL200_.jpg' ]
 comments: true

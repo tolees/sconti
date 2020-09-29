@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.10 % en LEGO NINJAGO - Le monastère de Spinjitzu'
-date: 2020-09-26 14:45:27
+date: 2020-09-29 14:55:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+m1CO6G0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+m1CO6G0L._SL200_.jpg' ]
 comments: true
