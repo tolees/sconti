@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.01 % en Jack & Jones Jjecorp Logo Sweat Hood Noo'
-date: 2020-09-28 13:08:15
+date: 2020-09-29 13:40:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/316gjIy2o5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316gjIy2o5L._SL200_.jpg' ]
 comments: true
