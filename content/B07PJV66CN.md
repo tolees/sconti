@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.72 % en TP-LINK AC600 High Gain USB Wi-Fi Dongle'
-date: 2020-09-28 17:19:09
+date: 2020-09-29 17:19:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ue6eqhk4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ue6eqhk4L._SL200_.jpg' ]
 comments: true

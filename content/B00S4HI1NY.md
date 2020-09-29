@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.22 % en My Arcade Retro Machine - 200 Juegos Vin'
-date: 2020-09-28 12:46:11
+date: 2020-09-29 17:42:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Pi7lymIxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Pi7lymIxL._SL200_.jpg' ]
 comments: true
