@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Le Magicobus Harry Potter Bus Viole al 25.01 % de descuento'
-date: 2020-09-27 14:47:12
+date: 2020-09-29 08:24:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg' ]
 comments: true
