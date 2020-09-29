@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 72.39 % en Hasbro Gaming - Juego de mesa Detector d'
-date: 2020-09-28 07:39:16
+date: 2020-09-29 10:32:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Q1DCBa78L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Q1DCBa78L._SL200_.jpg' ]
 comments: true

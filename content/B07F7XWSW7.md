@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en Aicook Cafetera  Cafetera Goteo Programa'
-date: 2020-09-23 11:29:36
+date: 2020-09-29 10:35:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u0Kcvc5+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u0Kcvc5+L._SL200_.jpg' ]
 comments: true
