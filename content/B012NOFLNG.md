@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.35 % en LEGO Architecture 21031 - Burj Khalifa  '
-date: 2020-09-29 14:16:43
+date: 2020-09-30 14:44:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fuvnJrxML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fuvnJrxML._SL200_.jpg' ]
 comments: true
