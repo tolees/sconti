@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Signal - Pasta de dientes Protección Ant al 28.06 % de descuento'
-date: 2020-09-17 13:02:20
+date: 2020-09-30 07:09:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JbtrRjivL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JbtrRjivL._SL200_.jpg' ]
 comments: true
