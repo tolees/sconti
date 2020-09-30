@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Fast Trek Fleece Vest Chaqueta  al 40.01 % de descuento'
-date: 2020-09-24 14:01:54
+date: 2020-09-30 12:04:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JFQr+7YvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JFQr+7YvL._SL200_.jpg' ]
 comments: true
