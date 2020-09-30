@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moulinex Perfect Mix+ LM811D - Batidora  al 29.17 % de descuento'
-date: 2020-09-29 10:30:55
+date: 2020-09-30 11:27:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z8hoo7TdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z8hoo7TdL._SL200_.jpg' ]
 comments: true
