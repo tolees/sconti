@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lijadora Eléctrica  Meterk 13500 RPM Máq al 44.01 % de descuento'
-date: 2020-09-27 15:09:27
+date: 2020-09-30 08:16:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uBd+hs1kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uBd+hs1kL._SL200_.jpg' ]
 comments: true

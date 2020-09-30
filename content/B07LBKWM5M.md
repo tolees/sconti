@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 71.54 % en Spa Luxetique Crème pour les Mains  6Pcs'
-date: 2020-09-28 20:22:56
+date: 2020-09-30 08:57:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JMY2KQvOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JMY2KQvOL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.00 % en Levi s Damen Perfect Vneck T-Shirt  Weiß'
-date: 2020-09-29 08:08:41
+date: 2020-09-30 08:30:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg' ]
 comments: true
