@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 61.54 % en BERSIGAR 100m medidor de Agua Resistente'
-date: 2020-09-17 23:35:10
+date: 2020-09-30 05:37:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ScpbGcB9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ScpbGcB9L._SL200_.jpg' ]
 comments: true
