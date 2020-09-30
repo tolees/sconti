@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Netac Carte mémoire microSDXC  256G Haut'
-date: 2020-09-28 20:33:33
+date: 2020-09-30 03:28:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41c18mSLTQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41c18mSLTQL._SL200_.jpg' ]
 comments: true
