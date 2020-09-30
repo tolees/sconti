@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.02 % en BEZOX Cortaúñas con mango de madera  jue'
-date: 2020-09-28 17:47:06
+date: 2020-09-30 17:26:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BYlKEV2nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BYlKEV2nL._SL200_.jpg' ]
 comments: true
