@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 711 Skinny Vaqueros  Azul  Med In al 47.83 % de descuento'
-date: 2020-09-28 17:39:57
+date: 2020-09-29 23:33:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41M-x8CNyqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41M-x8CNyqL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FCSDETAIL Botella de Agua de Cristal sin al 27.01 % de descuento'
-date: 2020-09-19 04:03:25
+date: 2020-09-29 23:37:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DqV071mkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DqV071mkL._SL200_.jpg' ]
 comments: true
