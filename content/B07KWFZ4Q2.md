@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin Boost Up Bold - Cargador inalámbr al 60.02 % de descuento'
-date: 2020-09-16 09:17:55
+date: 2020-10-01 10:02:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LuZWOVnzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LuZWOVnzL._SL200_.jpg' ]
 comments: true

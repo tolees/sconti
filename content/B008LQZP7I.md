@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Recambio de la afeitadora eléctric al 37.17 % de descuento'
-date: 2020-09-23 18:14:18
+date: 2020-10-01 10:35:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VZzsqge2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VZzsqge2L._SL200_.jpg' ]
 comments: true
