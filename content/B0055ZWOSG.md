@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft – Wired Keyboard 600 Español al 31.27 % de descuento'
-date: 2020-09-27 00:15:42
+date: 2020-10-01 17:23:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wUlFnt+XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wUlFnt+XL._SL200_.jpg' ]
 comments: true

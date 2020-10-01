@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eucerin Family Pack Ph5 Oleogel de Ducha al 38.08 % de descuento'
-date: 2020-09-30 16:45:38
+date: 2020-10-01 17:48:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-McPcIlOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-McPcIlOL._SL200_.jpg' ]
 comments: true
