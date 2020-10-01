@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calico Critters  Hopscotch Rabbit Family al 36.01 % de descuento'
-date: 2020-09-30 02:33:56
+date: 2020-10-01 14:30:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cF1TXtBPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cF1TXtBPL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edding 1200-8+2S - Bolsa con 8 rotulador al 48.13 % de descuento'
-date: 2020-09-30 10:10:24
+date: 2020-10-01 14:44:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eJzNKxeAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eJzNKxeAL._SL200_.jpg' ]
 comments: true
