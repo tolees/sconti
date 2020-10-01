@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Estantería Metálica de Almacenamiento y  al 34.79 % de descuento'
-date: 2020-09-29 18:34:59
+date: 2020-10-01 12:10:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aNniiVOiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aNniiVOiL._SL200_.jpg' ]
 comments: true

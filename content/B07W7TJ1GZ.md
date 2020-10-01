@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO NINJAGO 71706 4+ Coles Speeder  Pri al 32.55 % de descuento'
-date: 2020-09-26 09:14:45
+title: 'LEGO NINJAGO 71706 4+ Coles Speeder  Pri al 26.08 % de descuento'
+date: 2020-10-01 12:20:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hUCIbxDsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hUCIbxDsL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07W7TJ1GZ
 description:
-actualPrice: 6.57 EUR
+actualPrice: 7.2 EUR
 comparePrice: 9.74 EUR
 inStock: true
 ---
 
-Está [LEGO NINJAGO 71706 4+ Coles Speeder  Prime Empire Rennwagen](https://www.amazon.com/dp/B07W7TJ1GZ/?tag=redken08-20) con 32.55 de descuento por 6.57 EUR (original: 9.74 EUR) en el siguiente enlace!
+Está [LEGO NINJAGO 71706 4+ Coles Speeder  Prime Empire Rennwagen](https://www.amazon.com/dp/B07W7TJ1GZ/?tag=redken08-20) con 26.08 de descuento por 7.2 EUR (original: 9.74 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51hUCIbxDsL._SL200_.jpg)](https://www.amazon.com/dp/B07W7TJ1GZ/?tag=redken08-20)
 
