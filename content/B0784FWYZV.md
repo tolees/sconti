@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Swarovski Colgante Ginger  Blanco  Baño  al 25.42 % de descuento'
-date: 2020-09-26 14:43:47
+date: 2020-10-01 13:31:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31uUgpC-pxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31uUgpC-pxL._SL200_.jpg' ]
 comments: true
