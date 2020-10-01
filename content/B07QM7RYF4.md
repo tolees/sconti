@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Richgv LCD Writing Tablet with Stylus  8 al 35.03 % de descuento'
-date: 2020-09-28 08:03:49
+date: 2020-10-01 02:45:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41l7OsrQShL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41l7OsrQShL._SL200_.jpg' ]
 comments: true
