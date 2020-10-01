@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 35.97 % en TP-Link Tapo L510E smarte WLAN Glühbirne'
-date: 2020-09-16 10:06:02
+title: 'Descuento del 35.02 % en TP-Link -Bombilla LED Inteligente  Bombi'
+date: 2020-10-01 20:38:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+KjVYMbVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+KjVYMbVL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B087RZVBQW
 description:
-actualPrice: 8.9 EUR
-comparePrice: 13.9 EUR
+actualPrice: 12.99 EUR
+comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [TP-Link Tapo L510E smarte WLAN Glühbirne E27  dimmbar 8.7 W  kein Hub notwendig  kompatibel mit Alexa，Google Assistant  Abläufe und Zeitpläne  Abwesenheitmodus  Tapo App  energiesparend](https://www.amazon.com/dp/B087RZVBQW/?tag=redken08-20) con un 35.97 % de descuento con precio de oferta de 8.9 EUR (original: 13.9 EUR) en el siguiente enlace!
+Tienes [TP-Link -Bombilla LED Inteligente  Bombilla WiFi sin necesidad de Hub  Blanco Cálido Regulable E27  8.7W 806lm  Compatible Alexa  Echo y Google Home  [Clase de eficiencia energética A+]  Tapo L510E ](https://www.amazon.com/dp/B087RZVBQW/?tag=redken08-20) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31+KjVYMbVL._SL200_.jpg)](https://www.amazon.com/dp/B087RZVBQW/?tag=redken08-20)
 
