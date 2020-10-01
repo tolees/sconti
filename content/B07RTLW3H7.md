@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Pop! TV: Game of Thrones - Sansa S al 32.31 % de descuento'
-date: 2020-09-26 13:26:06
+title: 'Descuento del 32.10 % en Funko 44447 POP. TV: Game of Thrones-San'
+date: 2020-03-24 20:43:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41H9GbudrgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41H9GbudrgL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07RTLW3H7
 description:
-actualPrice: 10.12 EUR
-comparePrice: 14.95 EUR
+actualPrice: 7.0 GBP
+comparePrice: 10.31 GBP
 inStock: true
 ---
 
-Está [Funko Pop! TV: Game of Thrones - Sansa Stark](https://www.amazon.com/dp/B07RTLW3H7/?tag=redken08-20) con 32.31 de descuento por 10.12 EUR (original: 14.95 EUR) en el siguiente enlace!
+Tienes [Funko 44447 POP. TV: Game of Thrones-Sansa Stark Collectible Figure  Multicolour](https://www.amazon.com/dp/B07RTLW3H7/?tag=redken08-20) con un 32.10 % de descuento con precio de oferta de 7.0 GBP (original: 10.31 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41H9GbudrgL._SL200_.jpg)](https://www.amazon.com/dp/B07RTLW3H7/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07RTLW3H7/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07RTLW3H7/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AUKEY Auriculares Inalámbricos Bluetooth al 44.76 % de descuento'
-date: 2020-09-30 07:29:33
+date: 2020-10-01 08:08:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31L4-Ug6WML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31L4-Ug6WML._SL200_.jpg' ]
 comments: true
