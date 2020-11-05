@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung Galaxy A30s  Smartphone  Display al 28.82 % de descuento'
-date: 2020-11-03 15:32:37
+title: 'Samsung Galaxy A30s  Smartphone  Display al 31.13 % de descuento'
+date: 2020-11-05 16:48:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/411McDHjF3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411McDHjF3L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B086LZTGZ1
 description:
-actualPrice: 185.0 EUR
+actualPrice: 179.0 EUR
 comparePrice: 259.9 EUR
 inStock: true
 ---
 
-Está [Samsung Galaxy A30s  Smartphone  Display 6.4" Super AMOLED  128 GB Espandibili  RAM 4 GB  Batteria 4000 mAh  4G  Dual SIM  Android 9 Pie [Versione Italiana]  White](https://www.amazon.it/dp/B086LZTGZ1/?tag=redken03-21) con 28.82 de descuento por 185.0 EUR (original: 259.9 EUR) en el siguiente enlace!
+Está [Samsung Galaxy A30s  Smartphone  Display 6.4" Super AMOLED  128 GB Espandibili  RAM 4 GB  Batteria 4000 mAh  4G  Dual SIM  Android 9 Pie [Versione Italiana]  White](https://www.amazon.it/dp/B086LZTGZ1/?tag=redken03-21) con 31.13 de descuento por 179.0 EUR (original: 259.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/411McDHjF3L._SL200_.jpg)](https://www.amazon.it/dp/B086LZTGZ1/?tag=redken03-21)
 
