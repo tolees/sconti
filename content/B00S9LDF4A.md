@@ -14,11 +14,11 @@ comparePrice: 41.0 EUR
 inStock: true
 ---
 
-Está [Omega 3 A.C. - 120 Perle](https://www.amazon.it/dp/B00S9LDF4A/?tag=redken03-21) con 60.98 de descuento por 16.0 EUR (original: 41.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Omega 3 A.C. - 120 Perle](https://www.amazon.it/dp/B00S9LDF4A/?tag=redken03-21) a 16.0 EUR (original: 41.0 EUR) (60.98 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51OHz7kvDsL._SL200_.jpg)](https://www.amazon.it/dp/B00S9LDF4A/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00S9LDF4A/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B00S9LDF4A/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
