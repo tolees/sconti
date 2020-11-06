@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.02 % en Sharp Aquos LC-32Bi3E - 32" HD Ready Sma'
-date: 2020-11-05 16:50:36
+date: 2020-11-06 17:30:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/4105H1lfZAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4105H1lfZAL._SL200_.jpg' ]
 comments: true
