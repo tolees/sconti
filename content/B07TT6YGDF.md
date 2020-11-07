@@ -14,11 +14,11 @@ comparePrice: 30.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s The Perfect Tee Maglietta  White  Floral Filled Batwing White+ 0794   Small Donna](https://www.amazon.it/dp/B07TT6YGDF/?tag=redken03-21) a 16.99 EUR (original: 30.0 EUR) (43.37 %  de descuento) en el siguiente enlace!
+Está [Levi s The Perfect Tee Maglietta  White  Floral Filled Batwing White+ 0794   Small Donna](https://www.amazon.it/dp/B07TT6YGDF/?tag=redken03-21) con 43.37 de descuento por 16.99 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ocg5emEBL._SL200_.jpg)](https://www.amazon.it/dp/B07TT6YGDF/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07TT6YGDF/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07TT6YGDF/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
