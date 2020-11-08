@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein CK Adj.Logo Belt 3.5cm Cint al 29.88 % de descuento'
-date: 2020-11-07 16:32:49
+date: 2020-11-08 16:43:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xV9dW8BvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xV9dW8BvL._SL200_.jpg' ]
 comments: true

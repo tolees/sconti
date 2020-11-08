@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Unisex - Adulto 574v2 Core S al 54.99 % de descuento'
-date: 2020-11-07 04:34:40
+date: 2020-11-08 16:35:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg' ]
 comments: true
