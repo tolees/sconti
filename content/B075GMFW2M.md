@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.68 % en LEGO- Speed Champions Ford Mustang Fastb'
-date: 2020-11-07 04:36:14
+date: 2020-11-08 10:40:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zgSgQyf4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zgSgQyf4L._SL200_.jpg' ]
 comments: true

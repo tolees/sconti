@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.47 % en LEGO 75880 - Speed Champions  Mclaren 72'
-date: 2020-11-07 04:30:36
+date: 2020-11-08 10:43:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nzo03korL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nzo03korL._SL200_.jpg' ]
 comments: true
