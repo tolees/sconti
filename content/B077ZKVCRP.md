@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.36 % en Diadora - Sneakers Jog Light C per Uomo '
-date: 2020-11-08 04:22:24
+date: 2020-11-09 04:28:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aW9k0EbmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aW9k0EbmL._SL200_.jpg' ]
 comments: true
