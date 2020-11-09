@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Doom Eternal - Deluxe - Xbox One al 33.01 % de descuento'
-date: 2020-11-08 07:33:48
+date: 2020-11-09 22:24:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XzGGa0BIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XzGGa0BIL._SL200_.jpg' ]
 comments: true
