@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Fire Elicottero dei Pompieri   al 34.84 % de descuento'
-date: 2020-11-09 14:49:58
+date: 2020-11-10 15:07:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ijLmZL55L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ijLmZL55L._SL200_.jpg' ]
 comments: true

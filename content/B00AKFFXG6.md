@@ -14,11 +14,11 @@ comparePrice: 28.17 EUR
 inStock: true
 ---
 
-Está [Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml](https://www.amazon.it/dp/B00AKFFXG6/?tag=redken03-21) con 26.34 de descuento por 20.75 EUR (original: 28.17 EUR) en el siguiente enlace!
+Ahora mismo tienes [Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml](https://www.amazon.it/dp/B00AKFFXG6/?tag=redken03-21) a 20.75 EUR (original: 28.17 EUR) (26.34 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41szkuoYsUL._SL200_.jpg)](https://www.amazon.it/dp/B00AKFFXG6/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00AKFFXG6/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B00AKFFXG6/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
