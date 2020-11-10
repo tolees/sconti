@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Regina di Cuori Carta Cucina | Confezion al 32.77 % de descuento'
-date: 2020-11-09 04:35:15
+date: 2020-11-10 05:17:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51umq96EWXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51umq96EWXL._SL200_.jpg' ]
 comments: true
