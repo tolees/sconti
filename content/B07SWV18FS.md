@@ -14,11 +14,11 @@ comparePrice: 115.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox D LEELU  E  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   35 EU](https://www.amazon.it/dp/B07SWV18FS/?tag=redken03-21) a 17.46 EUR (original: 115.0 EUR) (84.82 %  de descuento) en el siguiente enlace!
+Está [Geox D LEELU  E  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   35 EU](https://www.amazon.it/dp/B07SWV18FS/?tag=redken03-21) con 84.82 de descuento por 17.46 EUR (original: 115.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41rQSBIY6GL._SL200_.jpg)](https://www.amazon.it/dp/B07SWV18FS/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07SWV18FS/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07SWV18FS/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
