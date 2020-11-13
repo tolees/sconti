@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips HR2052/90 Daily Collection Frull al 35.50 % de descuento'
-date: 2020-11-12 10:33:17
+date: 2020-11-13 16:15:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kFEnEvlPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kFEnEvlPL._SL200_.jpg' ]
 comments: true
