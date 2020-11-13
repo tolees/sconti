@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-RF855RK - Cuffie TV wireless ov al 32.23 % de descuento'
-date: 2020-11-11 11:45:32
+date: 2020-11-13 05:46:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wwZ+L5hoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wwZ+L5hoL._SL200_.jpg' ]
 comments: true
