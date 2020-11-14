@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.46 % en Samsung Monitor BET-H Business Tv da 50 '
-date: 2020-11-13 13:58:31
+date: 2020-11-14 14:10:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Br8ymtHkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Br8ymtHkL._SL200_.jpg' ]
 comments: true
