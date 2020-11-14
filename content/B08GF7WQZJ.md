@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.68 % en OUKITEL C21 Smartphone  Display 6.4" FHD'
-date: 2020-11-12 05:45:03
+date: 2020-11-14 06:12:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eHE1kmjqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eHE1kmjqL._SL200_.jpg' ]
 comments: true
