@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electraline 49019 Prolunga Elettrica con al 25.77 % de descuento'
-date: 2020-11-09 11:16:06
+date: 2020-11-14 16:28:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZRQK6ac0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZRQK6ac0L._SL200_.jpg' ]
 comments: true
