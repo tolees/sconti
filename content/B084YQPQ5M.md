@@ -14,11 +14,11 @@ comparePrice: 299.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Huawei P40 Lite Crush Green 6.4" 6gb/128gb Dual Sim](https://www.amazon.it/dp/B084YQPQ5M/?tag=redken03-21) a 179.98 EUR (original: 299.9 EUR) (39.99 %  de descuento) en el siguiente enlace!
+Está [Huawei P40 Lite Crush Green 6.4" 6gb/128gb Dual Sim](https://www.amazon.it/dp/B084YQPQ5M/?tag=redken03-21) con 39.99 de descuento por 179.98 EUR (original: 299.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/316f9jH19BL._SL200_.jpg)](https://www.amazon.it/dp/B084YQPQ5M/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B084YQPQ5M/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B084YQPQ5M/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
