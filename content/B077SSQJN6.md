@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.04 % en Puma 655771 Liga Casuals Hoody  Felpa co'
-date: 2020-11-14 05:59:43
+date: 2020-11-15 06:20:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31TQsri-XKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31TQsri-XKL._SL200_.jpg' ]
 comments: true

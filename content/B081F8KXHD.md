@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Technic Catamarano  Set di Costru al 30.01 % de descuento'
-date: 2020-11-14 06:12:07
+date: 2020-11-15 06:32:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg' ]
 comments: true
