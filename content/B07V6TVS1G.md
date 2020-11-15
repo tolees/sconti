@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Just Dance 2020 - Nintendo Switch al 50.99 % de descuento'
-date: 2020-11-11 17:44:55
+date: 2020-11-15 00:29:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hNKS9rL2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hNKS9rL2L._SL200_.jpg' ]
 comments: true
