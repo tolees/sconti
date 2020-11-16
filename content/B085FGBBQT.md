@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 29.86 % en Samsung Memorie MB-ME256HA Evo Select Sc'
-date: 2020-10-06 21:40:12
+title: 'Descuento del 37.90 % en Samsung Memorie MB-ME256HA Evo Select Sc'
+date: 2020-11-16 21:43:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XkHV2rmrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XkHV2rmrL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B085FGBBQT
 description:
-actualPrice: 42.99 EUR
-comparePrice: 61.29 EUR
+actualPrice: 32.99 EUR
+comparePrice: 53.12 EUR
 inStock: true
 ---
 
-Tienes [Samsung Memorie MB-ME256HA Evo Select Scheda MicroSD da 256 GB  UHS-I U3  Fino a 100 MB/s  Adattatore SD Incluso](https://www.amazon.it/dp/B085FGBBQT/?tag=redken03-21) con un 29.86 % de descuento con precio de oferta de 42.99 EUR (original: 61.29 EUR) en el siguiente enlace!
+Tienes [Samsung Memorie MB-ME256HA Evo Select Scheda MicroSD da 256 GB  UHS-I U3  Fino a 100 MB/s  Adattatore SD Incluso](https://www.amazon.it/dp/B085FGBBQT/?tag=redken03-21) con un 37.90 % de descuento con precio de oferta de 32.99 EUR (original: 53.12 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41XkHV2rmrL._SL200_.jpg)](https://www.amazon.it/dp/B085FGBBQT/?tag=redken03-21)
 
