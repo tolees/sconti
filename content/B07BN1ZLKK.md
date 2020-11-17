@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Ward Platform  Sneaker Donna  Canva al 30.68 % de descuento'
-date: 2020-11-16 06:34:35
+date: 2020-11-17 06:57:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg' ]
 comments: true
