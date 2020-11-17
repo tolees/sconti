@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.03 % en Western Digital WD My Passport Go SSD Po'
-date: 2020-11-16 06:43:35
+date: 2020-11-17 07:04:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg' ]
 comments: true

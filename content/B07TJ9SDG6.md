@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.03 % en Levi s Sportswear Logo Graphic Maglietta'
-date: 2020-11-16 06:46:16
+date: 2020-11-17 07:08:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y3gYskt8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y3gYskt8L._SL200_.jpg' ]
 comments: true
