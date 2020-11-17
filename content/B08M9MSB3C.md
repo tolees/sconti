@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Fujinfeng Colosseo di Costruzioni Compat'
-date: 2020-11-15 06:37:36
+date: 2020-11-17 19:14:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZFGHr+vFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZFGHr+vFL._SL200_.jpg' ]
 comments: true

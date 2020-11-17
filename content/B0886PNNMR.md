@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HT-G700 - Soundbar TV Bluetooth a 3 al 33.56 % de descuento'
-date: 2020-11-15 06:40:05
+date: 2020-11-17 19:17:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/21QGALC3VmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21QGALC3VmL._SL200_.jpg' ]
 comments: true
