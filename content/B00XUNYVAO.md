@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Tavoletta Classica Fondente  100 g al 37.11 % de descuento'
-date: 2020-11-11 15:34:13
+date: 2020-11-18 15:04:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PHAGDx+4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PHAGDx+4L._SL200_.jpg' ]
 comments: true
