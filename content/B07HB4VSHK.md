@@ -14,11 +14,11 @@ comparePrice: 25.8 EUR
 inStock: true
 ---
 
-Está [SCRUBS - POP FUNKO VINYL FIGURE 737 J.D 9CM](https://www.amazon.it/dp/B07HB4VSHK/?tag=redken03-21) con 38.37 de descuento por 15.9 EUR (original: 25.8 EUR) en el siguiente enlace!
+Ahora mismo tienes [SCRUBS - POP FUNKO VINYL FIGURE 737 J.D 9CM](https://www.amazon.it/dp/B07HB4VSHK/?tag=redken03-21) a 15.9 EUR (original: 25.8 EUR) (38.37 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41YxbcCpRFL._SL200_.jpg)](https://www.amazon.it/dp/B07HB4VSHK/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07HB4VSHK/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B07HB4VSHK/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
