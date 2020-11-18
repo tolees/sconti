@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic HC-VX980EG-K Videocamera Ultra al 28.07 % de descuento'
-date: 2020-11-17 22:12:45
+date: 2020-11-18 22:39:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UprkStOyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UprkStOyL._SL200_.jpg' ]
 comments: true
