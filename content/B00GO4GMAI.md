@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'V-Moda XS Cuffie Sovraurali in Metallo c al 49.44 % de descuento'
-date: 2020-10-29 13:32:20
+date: 2020-11-19 06:45:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41efkgq7EJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41efkgq7EJL._SL200_.jpg' ]
 comments: true
