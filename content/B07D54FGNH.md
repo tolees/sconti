@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mpow EM18 Auricolare Bluetooth 5.0 da 24 al 44.46 % de descuento'
-date: 2020-11-17 07:06:53
+date: 2020-11-19 07:44:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eI4Vt758L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eI4Vt758L._SL200_.jpg' ]
 comments: true
