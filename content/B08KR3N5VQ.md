@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Need for Speed Hot Pursuit Remastered -  al 50.01 % de descuento'
-date: 2020-11-18 19:38:05
+date: 2020-11-19 19:51:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RZGVC72dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RZGVC72dL._SL200_.jpg' ]
 comments: true
