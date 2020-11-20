@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 61.74 % en YAMAMAY® Abito Donna Aderente con Scollo'
-date: 2020-11-05 19:44:38
+date: 2020-11-20 09:42:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RWLeF21iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RWLeF21iL._SL200_.jpg' ]
 comments: true
