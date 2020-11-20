@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 66.01 % en YAMAMAY® Poncho Donna Morbido e Caldo Ta'
-date: 2020-11-05 13:34:48
+date: 2020-11-20 00:06:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hb-NrrV7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hb-NrrV7L._SL200_.jpg' ]
 comments: true
