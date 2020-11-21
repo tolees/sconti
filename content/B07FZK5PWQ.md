@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.74 % en Polti Vaporella Simply VS10.10  Ferro da'
-date: 2020-09-07 08:55:44
+date: 2020-11-21 18:42:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31P7lb0KCML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31P7lb0KCML._SL200_.jpg' ]
 comments: true
