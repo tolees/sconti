@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.63 % en LAPASA Donna Set Termico - Ti Tiene al C'
-date: 2020-11-19 19:42:37
+date: 2020-11-21 08:07:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hGTL3D0iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hGTL3D0iL._SL200_.jpg' ]
 comments: true
