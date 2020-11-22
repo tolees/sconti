@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung TV QE65Q64TAUXZT Smart TV 65"  S al 34.95 % de descuento'
-date: 2020-11-21 08:22:31
+date: 2020-11-22 08:39:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zkhpn0CKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zkhpn0CKL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming - Indomimando  Gioco in Sc al 27.69 % de descuento'
-date: 2020-11-21 08:05:59
+date: 2020-11-22 08:29:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Pql5PWpJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Pql5PWpJL._SL200_.jpg' ]
 comments: true

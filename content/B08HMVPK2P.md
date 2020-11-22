@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smartphone Offerta del Giorno  OUKITEL C al 26.50 % de descuento'
-date: 2020-11-21 08:24:29
+date: 2020-11-22 08:41:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XvbDLro8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XvbDLro8L._SL200_.jpg' ]
 comments: true
