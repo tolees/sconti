@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Princess 182075 Forno  1800 W  11 Litri '
-date: 2020-11-20 07:51:14
+date: 2020-11-22 17:44:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+KWDeygWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+KWDeygWL._SL200_.jpg' ]
 comments: true
