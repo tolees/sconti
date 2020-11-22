@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aspirapolvere robot  ECOVACS DEEBOT 605  al 30.44 % de descuento'
-date: 2020-11-04 08:30:55
+date: 2020-11-22 11:53:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/414P-vGD8ML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414P-vGD8ML._SL200_.jpg' ]
 comments: true
