@@ -14,11 +14,11 @@ comparePrice: 6.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Equilibra Olio di Mandorle Dolci - 250 ml](https://www.amazon.it/dp/B00S9LR3CK/?tag=redken03-21) a 4.49 EUR (original: 6.9 EUR) (34.93 %  de descuento) en el siguiente enlace!
+Está [Equilibra Olio di Mandorle Dolci - 250 ml](https://www.amazon.it/dp/B00S9LR3CK/?tag=redken03-21) con 34.93 de descuento por 4.49 EUR (original: 6.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41QX42eA20L._SL200_.jpg)](https://www.amazon.it/dp/B00S9LR3CK/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00S9LR3CK/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00S9LR3CK/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
