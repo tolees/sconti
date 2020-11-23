@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 9 PRO -Smartphone 6.67 al 25.69 % de descuento'
-date: 2020-11-22 08:32:28
+date: 2020-11-23 16:15:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-UQkuNawL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-UQkuNawL._SL200_.jpg' ]
 comments: true

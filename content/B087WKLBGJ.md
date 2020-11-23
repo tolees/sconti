@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.56 % en AUKEY Cuffie Bluetooth 5 Bassi Potenziat'
-date: 2020-11-22 13:05:39
+date: 2020-11-23 16:08:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31L4-Ug6WML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31L4-Ug6WML._SL200_.jpg' ]
 comments: true

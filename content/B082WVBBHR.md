@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Indovina Chi?  gioco in scatola Hasbro G al 44.03 % de descuento'
-date: 2020-11-22 08:39:17
+date: 2020-11-23 16:11:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/511X21y54lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511X21y54lL._SL200_.jpg' ]
 comments: true

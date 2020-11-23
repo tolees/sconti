@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 7M2K - Kit Fotocamera Digital al 35.79 % de descuento'
-date: 2020-11-21 08:24:27
+date: 2020-11-23 16:03:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iZvLVpirL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iZvLVpirL._SL200_.jpg' ]
 comments: true

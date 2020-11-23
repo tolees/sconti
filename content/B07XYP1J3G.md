@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.98 % en Dixan Duo-Caps Classico Detersivo Lavatr'
-date: 2020-11-21 08:33:11
+date: 2020-11-23 16:05:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oyK1U329L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oyK1U329L._SL200_.jpg' ]
 comments: true
