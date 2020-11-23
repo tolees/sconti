@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.86 % en Grandi Giochi GG01300 - Occhio al Fantas'
-date: 2020-11-22 08:32:51
+date: 2020-11-23 15:54:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/61k7AX5SNIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61k7AX5SNIL._SL200_.jpg' ]
 comments: true

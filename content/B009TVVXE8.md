@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mulino Bianco Biscotti Baiocchi con Crem al 28.61 % de descuento'
-date: 2020-11-22 08:43:26
+date: 2020-11-23 15:53:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ae7zL9YRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ae7zL9YRL._SL200_.jpg' ]
 comments: true

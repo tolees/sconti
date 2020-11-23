@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.59 % en FITNESS Delice Cioccolato Fondente Barre'
-date: 2020-11-22 08:34:30
+date: 2020-11-23 15:42:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kW7Pr9FQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kW7Pr9FQL._SL200_.jpg' ]
 comments: true

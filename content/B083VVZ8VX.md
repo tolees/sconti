@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Presentiamo Fire TV Cube | Lettore multi al 33.34 % de descuento'
-date: 2020-11-21 08:08:31
+date: 2020-11-23 15:45:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/314zaBSgvvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/314zaBSgvvL._SL200_.jpg' ]
 comments: true

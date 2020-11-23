@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy Buds Live Auricolari True al 38.13 % de descuento'
-date: 2020-11-22 08:39:07
+date: 2020-11-23 15:50:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hUims7zwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hUims7zwL._SL200_.jpg' ]
 comments: true

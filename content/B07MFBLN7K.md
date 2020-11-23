@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Memorie MZ-V7S500 970 EVO Plus S al 45.06 % de descuento'
-date: 2020-11-22 08:42:16
+date: 2020-11-23 15:46:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/416rM0BbODL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416rM0BbODL._SL200_.jpg' ]
 comments: true
