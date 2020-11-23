@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clementoni 15136 Crazy Chic - My Beauty  al 31.14 % de descuento'
-date: 2020-11-22 08:29:51
+date: 2020-11-23 09:09:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WdjUJbzQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WdjUJbzQL._SL200_.jpg' ]
 comments: true
