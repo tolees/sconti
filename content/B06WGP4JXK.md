@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Frisk Clean Breath Caramelle al Gusto Pe al 39.32 % de descuento'
-date: 2020-10-05 13:32:47
+date: 2020-11-24 12:05:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XiPiuT7OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XiPiuT7OL._SL200_.jpg' ]
 comments: true
