@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Fire TV Stick 4K Ultra HD con telecomand'
-date: 2020-11-08 10:44:40
+date: 2020-11-24 18:55:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eZ0xzwDLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eZ0xzwDLL._SL200_.jpg' ]
 comments: true
