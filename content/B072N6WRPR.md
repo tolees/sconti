@@ -14,11 +14,11 @@ comparePrice: 64.81 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Star Trek Ds9 Stg.1 7  Box 48 Dvd ](https://www.amazon.it/dp/B072N6WRPR/?tag=redken03-21) a 39.99 EUR (original: 64.81 EUR) (38.30 %  de descuento) en el siguiente enlace!
+Está [Star Trek Ds9 Stg.1 7  Box 48 Dvd ](https://www.amazon.it/dp/B072N6WRPR/?tag=redken03-21) con 38.30 de descuento por 39.99 EUR (original: 64.81 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61wlWTVgX4L._SL200_.jpg)](https://www.amazon.it/dp/B072N6WRPR/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B072N6WRPR/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B072N6WRPR/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
