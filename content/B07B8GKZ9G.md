@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL GO 2 Speaker Bluetooth Portatile  Ca al 25.72 % de descuento'
-date: 2020-11-23 09:05:38
+date: 2020-11-24 09:43:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XeKYNuOyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XeKYNuOyL._SL200_.jpg' ]
 comments: true
