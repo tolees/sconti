@@ -14,11 +14,11 @@ comparePrice: 38.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DiRT Rally 2.0 GOTY - Game of The Year - PlayStation 4](https://www.amazon.it/dp/B085QXDMZ9/?tag=redken03-21) a 19.99 EUR (original: 38.4 EUR) (47.94 %  de descuento) en el siguiente enlace!
+Está [DiRT Rally 2.0 GOTY - Game of The Year - PlayStation 4](https://www.amazon.it/dp/B085QXDMZ9/?tag=redken03-21) con 47.94 de descuento por 19.99 EUR (original: 38.4 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51NXzY6XN3L._SL200_.jpg)](https://www.amazon.it/dp/B085QXDMZ9/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B085QXDMZ9/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B085QXDMZ9/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
