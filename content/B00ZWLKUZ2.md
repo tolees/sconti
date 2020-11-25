@@ -14,11 +14,11 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Disney Infinity 3.0: EU Han Solo Figurina](https://www.amazon.it/dp/B00ZWLKUZ2/?tag=redken03-21) con 73.45 de descuento por 3.98 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Disney Infinity 3.0: EU Han Solo Figurina](https://www.amazon.it/dp/B00ZWLKUZ2/?tag=redken03-21) a 3.98 EUR (original: 14.99 EUR) (73.45 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51DzgBzRhAL._SL200_.jpg)](https://www.amazon.it/dp/B00ZWLKUZ2/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00ZWLKUZ2/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B00ZWLKUZ2/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
