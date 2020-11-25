@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips BG7025/15 Bodygroom 7000 Depilat al 45.06 % de descuento'
-date: 2020-11-24 09:51:07
+date: 2020-11-25 22:24:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JrsQsOY+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JrsQsOY+L._SL200_.jpg' ]
 comments: true

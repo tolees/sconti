@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HT-S350 Soundbar 2.1 Canali con Sub al 38.85 % de descuento'
-date: 2020-11-23 15:42:44
+date: 2020-11-25 22:26:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg' ]
 comments: true
