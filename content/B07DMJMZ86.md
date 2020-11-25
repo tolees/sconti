@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Gears of War 5 Edizione Standard  Pegi 1 al 81.44 % de descuento'
-date: 2020-11-24 09:39:51
+title: 'Gears of War 5 Edizione Standard  Pegi 1 al 47.85 % de descuento'
+date: 2020-11-25 10:13:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51duB8cYpdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51duB8cYpdL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07DMJMZ86
 description:
-actualPrice: 12.99 EUR
+actualPrice: 36.5 EUR
 comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gears of War 5 Edizione Standard  Pegi 18  Xbox One  4K UKTRA HD  HDR  Microsoft](https://www.amazon.it/dp/B07DMJMZ86/?tag=redken03-21) a 12.99 EUR (original: 69.99 EUR) (81.44 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Gears of War 5 Edizione Standard  Pegi 18  Xbox One  4K UKTRA HD  HDR  Microsoft](https://www.amazon.it/dp/B07DMJMZ86/?tag=redken03-21) a 36.5 EUR (original: 69.99 EUR) (47.85 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51duB8cYpdL._SL200_.jpg)](https://www.amazon.it/dp/B07DMJMZ86/?tag=redken03-21)
 
