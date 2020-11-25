@@ -14,11 +14,11 @@ comparePrice: 45.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Eastpak Jr Borsa A Tracolla  33 cm  11.5 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCYOM/?tag=redken03-21) a 25.8 EUR (original: 45.0 EUR) (42.67 %  de descuento) en el siguiente enlace!
+Está [Eastpak Jr Borsa A Tracolla  33 cm  11.5 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCYOM/?tag=redken03-21) con 42.67 de descuento por 25.8 EUR (original: 45.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Nvm0aGiLL._SL200_.jpg)](https://www.amazon.it/dp/B003PPCYOM/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B003PPCYOM/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B003PPCYOM/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
