@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung QE55Q74TATXZT Serie Q74T QLED Sm al 26.24 % de descuento'
-date: 2020-11-21 11:50:20
+date: 2020-11-26 04:48:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xxoH4pwcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xxoH4pwcL._SL200_.jpg' ]
 comments: true
