@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 6100L - Kit Fotocamera Digita al 25.03 % de descuento'
-date: 2020-11-25 10:12:22
+date: 2020-11-26 10:44:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vDpeTLh8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vDpeTLh8L._SL200_.jpg' ]
 comments: true

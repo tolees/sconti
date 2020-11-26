@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.50 % en Samsung TV UE55TU7190UXZT Smart TV 55" S'
-date: 2020-11-25 10:13:18
+date: 2020-11-26 10:47:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pcrMENrgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pcrMENrgL._SL200_.jpg' ]
 comments: true

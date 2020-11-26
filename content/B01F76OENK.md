@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.30 % en VERO MODA VMMAXI MY LS SOFT LONG U-NECK '
-date: 2020-11-25 10:10:06
+date: 2020-11-26 10:35:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y++yxWx8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y++yxWx8L._SL200_.jpg' ]
 comments: true
