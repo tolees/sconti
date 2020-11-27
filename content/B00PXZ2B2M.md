@@ -14,11 +14,11 @@ comparePrice: 59.9 EUR
 inStock: true
 ---
 
-Está [Leone 1947 Fighter Casco  Nero  M](https://www.amazon.it/dp/B00PXZ2B2M/?tag=redken03-21) con 38.40 de descuento por 36.9 EUR (original: 59.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Leone 1947 Fighter Casco  Nero  M](https://www.amazon.it/dp/B00PXZ2B2M/?tag=redken03-21) a 36.9 EUR (original: 59.9 EUR) (38.40 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51-hZOoFKrL._SL200_.jpg)](https://www.amazon.it/dp/B00PXZ2B2M/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00PXZ2B2M/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B00PXZ2B2M/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
