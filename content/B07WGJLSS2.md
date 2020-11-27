@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tablet Fire HD 8 | Schermo HD da 8”  32  al 30.00 % de descuento'
-date: 2020-11-26 08:16:57
+date: 2020-11-27 15:26:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fog5v9mzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fog5v9mzL._SL200_.jpg' ]
 comments: true
