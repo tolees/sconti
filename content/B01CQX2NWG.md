@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.45 % en Rowenta CV8732F0 Infini Pro Asciugacapel'
-date: 2020-11-23 17:14:28
+date: 2020-11-27 07:50:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KHtWdKrGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KHtWdKrGL._SL200_.jpg' ]
 comments: true
