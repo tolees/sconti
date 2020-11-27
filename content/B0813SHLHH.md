@@ -14,11 +14,11 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Falcon W  Scarpe da Ginnastica Donna  off White/Raw White/Active Purple  38 EU](https://www.amazon.it/dp/B0813SHLHH/?tag=redken03-21) a 36.12 EUR (original: 99.95 EUR) (63.86 %  de descuento) en el siguiente enlace!
+Está [adidas Falcon W  Scarpe da Ginnastica Donna  off White/Raw White/Active Purple  38 EU](https://www.amazon.it/dp/B0813SHLHH/?tag=redken03-21) con 63.86 de descuento por 36.12 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31-ZO1dkfcL._SL200_.jpg)](https://www.amazon.it/dp/B0813SHLHH/?tag=redken03-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B0813SHLHH/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B0813SHLHH/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
