@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.04 % en Levi s Relaxed Graphic Tee T-Shirt  Grey'
-date: 2020-11-26 04:33:35
+date: 2020-11-27 11:03:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/312sbIQSJ3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312sbIQSJ3L._SL200_.jpg' ]
 comments: true
