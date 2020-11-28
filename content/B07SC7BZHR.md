@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Scheda di Memoria MicroSDX al 48.63 % de descuento'
-date: 2020-11-23 07:35:12
+date: 2020-11-28 19:49:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ikVLl+gpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ikVLl+gpL._SL200_.jpg' ]
 comments: true
