@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price Pianoforte di Cagnolino  Gi al 26.49 % de descuento'
-date: 2020-11-26 04:44:02
+date: 2020-11-28 05:10:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dmuU3ON-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dmuU3ON-L._SL200_.jpg' ]
 comments: true
