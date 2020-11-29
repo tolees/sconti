@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cressi Erogatore MC2/DIN + Octopus Compa al 53.80 % de descuento'
-date: 2020-11-28 14:24:22
+date: 2020-11-29 20:26:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MkBNdhSlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MkBNdhSlL._SL200_.jpg' ]
 comments: true

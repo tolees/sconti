@@ -14,11 +14,11 @@ comparePrice: 330.0 EUR
 inStock: true
 ---
 
-Está [Sony SEL-50F18F Obiettivo a Focale Fissa 50 mm F1.8  Mirrorless Full-Frame  Attacco E  SEL50F18F](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21) con 54.58 de descuento por 149.9 EUR (original: 330.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SEL-50F18F Obiettivo a Focale Fissa 50 mm F1.8  Mirrorless Full-Frame  Attacco E  SEL50F18F](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21) a 149.9 EUR (original: 330.0 EUR) (54.58 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg)](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
