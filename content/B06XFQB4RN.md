@@ -14,11 +14,11 @@ comparePrice: 80.0 EUR
 inStock: true
 ---
 
-Tienes [New Balance 373 Core  Trainers Uomo  Grigio  Grey   38 EU](https://www.amazon.it/dp/B06XFQB4RN/?tag=redken03-21) con un 68.05 % de descuento con precio de oferta de 25.56 EUR (original: 80.0 EUR) en el siguiente enlace!
+Tienes [New Balance 373 Core  Trainers Uomo  Grigio  Grey   38 EU](https://www.amazon.it/dp/B06XFQB4RN/?tag=tolees00-21) con un 68.05 % de descuento con precio de oferta de 25.56 EUR (original: 80.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41xd6tvYhXL._SL200_.jpg)](https://www.amazon.it/dp/B06XFQB4RN/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41xd6tvYhXL._SL200_.jpg)](https://www.amazon.it/dp/B06XFQB4RN/?tag=tolees00-21)
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B06XFQB4RN/?tag=redken03-21)
+[Accede a la oferta!!](https://www.amazon.it/dp/B06XFQB4RN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

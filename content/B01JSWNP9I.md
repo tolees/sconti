@@ -14,11 +14,11 @@ comparePrice: 50.88 EUR
 inStock: true
 ---
 
-Está [New Balance 500  Scarpe da Ginnastica Donna  Grigio  Grey   37 EU](https://www.amazon.it/dp/B01JSWNP9I/?tag=redken03-21) con 30.33 de descuento por 35.45 EUR (original: 50.88 EUR) en el siguiente enlace!
+Está [New Balance 500  Scarpe da Ginnastica Donna  Grigio  Grey   37 EU](https://www.amazon.it/dp/B01JSWNP9I/?tag=tolees00-21) con 30.33 de descuento por 35.45 EUR (original: 50.88 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/419ufh+0z5L._SL200_.jpg)](https://www.amazon.it/dp/B01JSWNP9I/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/419ufh+0z5L._SL200_.jpg)](https://www.amazon.it/dp/B01JSWNP9I/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01JSWNP9I/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01JSWNP9I/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

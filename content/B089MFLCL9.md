@@ -14,11 +14,11 @@ comparePrice: 40.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Meller - Kendi All Black - Sunglasses for Men and Women](https://www.amazon.it/dp/B089MFLCL9/?tag=redken03-21) a 22.4 EUR (original: 40.0 EUR) (44.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Meller - Kendi All Black - Sunglasses for Men and Women](https://www.amazon.it/dp/B089MFLCL9/?tag=tolees00-21) a 22.4 EUR (original: 40.0 EUR) (44.00 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31LU8iZl6gL._SL200_.jpg)](https://www.amazon.it/dp/B089MFLCL9/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/31LU8iZl6gL._SL200_.jpg)](https://www.amazon.it/dp/B089MFLCL9/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B089MFLCL9/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B089MFLCL9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

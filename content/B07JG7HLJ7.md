@@ -14,11 +14,11 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black-White-Silver  39 EU](https://www.amazon.it/dp/B07JG7HLJ7/?tag=redken03-21) con 33.41 de descuento por 39.95 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black-White-Silver  39 EU](https://www.amazon.it/dp/B07JG7HLJ7/?tag=tolees00-21) con 33.41 de descuento por 39.95 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/417fqWNcEfL._SL200_.jpg)](https://www.amazon.it/dp/B07JG7HLJ7/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/417fqWNcEfL._SL200_.jpg)](https://www.amazon.it/dp/B07JG7HLJ7/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07JG7HLJ7/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07JG7HLJ7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

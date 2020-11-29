@@ -14,11 +14,11 @@ comparePrice: 130.0 EUR
 inStock: true
 ---
 
-Está [Netgear GS116E Switch Smart Managed Plus a 16 Porte Gigabit Ethernet  Desktop](https://www.amazon.it/dp/B00GBULIIG/?tag=redken03-21) con 29.53 de descuento por 91.61 EUR (original: 130.0 EUR) en el siguiente enlace!
+Está [Netgear GS116E Switch Smart Managed Plus a 16 Porte Gigabit Ethernet  Desktop](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21) con 29.53 de descuento por 91.61 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31Zw6XWm2bL._SL200_.jpg)](https://www.amazon.it/dp/B00GBULIIG/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/31Zw6XWm2bL._SL200_.jpg)](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00GBULIIG/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

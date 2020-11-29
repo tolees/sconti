@@ -14,11 +14,11 @@ comparePrice: 70.0 EUR
 inStock: true
 ---
 
-Tienes [Levi s Sunset 1 Pocket Standard Camicia  Amelie Stripe Colony Blue  M Uomo](https://www.amazon.it/dp/B07ZVQJTWL/?tag=redken03-21) con un 50.00 % de descuento con precio de oferta de 35.0 EUR (original: 70.0 EUR) en el siguiente enlace!
+Tienes [Levi s Sunset 1 Pocket Standard Camicia  Amelie Stripe Colony Blue  M Uomo](https://www.amazon.it/dp/B07ZVQJTWL/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 35.0 EUR (original: 70.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41-cQmEXu6L._SL200_.jpg)](https://www.amazon.it/dp/B07ZVQJTWL/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41-cQmEXu6L._SL200_.jpg)](https://www.amazon.it/dp/B07ZVQJTWL/?tag=tolees00-21)
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B07ZVQJTWL/?tag=redken03-21)
+[Accede a la oferta!!](https://www.amazon.it/dp/B07ZVQJTWL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

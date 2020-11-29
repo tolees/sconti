@@ -14,11 +14,11 @@ comparePrice: 90.0 EUR
 inStock: true
 ---
 
-Está [New Balance 574v2  Sneaker Donna  Avorio  off Scb   37.5 EU](https://www.amazon.it/dp/B07S1MMHKS/?tag=redken03-21) con 47.78 de descuento por 47.0 EUR (original: 90.0 EUR) en el siguiente enlace!
+Está [New Balance 574v2  Sneaker Donna  Avorio  off Scb   37.5 EU](https://www.amazon.it/dp/B07S1MMHKS/?tag=tolees00-21) con 47.78 de descuento por 47.0 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41maVKpmLZL._SL200_.jpg)](https://www.amazon.it/dp/B07S1MMHKS/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41maVKpmLZL._SL200_.jpg)](https://www.amazon.it/dp/B07S1MMHKS/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07S1MMHKS/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07S1MMHKS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

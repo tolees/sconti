@@ -14,11 +14,11 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [Io Ballo Da Sola](https://www.amazon.it/dp/B000R5EYDW/?tag=redken03-21) con 37.94 de descuento por 6.2 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [Io Ballo Da Sola](https://www.amazon.it/dp/B000R5EYDW/?tag=tolees00-21) con 37.94 de descuento por 6.2 EUR (original: 9.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Uzc9J6ekL._SL200_.jpg)](https://www.amazon.it/dp/B000R5EYDW/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/51Uzc9J6ekL._SL200_.jpg)](https://www.amazon.it/dp/B000R5EYDW/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B000R5EYDW/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B000R5EYDW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

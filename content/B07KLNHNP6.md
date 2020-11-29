@@ -14,11 +14,11 @@ comparePrice: 5.9 EUR
 inStock: true
 ---
 
-Tienes [Hasbro Monopoly Deal  Gioco di Carte  Versione in Italiano  E3113](https://www.amazon.it/dp/B07KLNHNP6/?tag=redken03-21) con un 40.68 % de descuento con precio de oferta de 3.5 EUR (original: 5.9 EUR) en el siguiente enlace!
+Tienes [Hasbro Monopoly Deal  Gioco di Carte  Versione in Italiano  E3113](https://www.amazon.it/dp/B07KLNHNP6/?tag=tolees00-21) con un 40.68 % de descuento con precio de oferta de 3.5 EUR (original: 5.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51LC+YmHleL._SL200_.jpg)](https://www.amazon.it/dp/B07KLNHNP6/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/51LC+YmHleL._SL200_.jpg)](https://www.amazon.it/dp/B07KLNHNP6/?tag=tolees00-21)
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B07KLNHNP6/?tag=redken03-21)
+[Accede a la oferta!!](https://www.amazon.it/dp/B07KLNHNP6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

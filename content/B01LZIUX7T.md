@@ -14,11 +14,11 @@ comparePrice: 64.88 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Tanjun Mn  Scarpe Sportive Uomo  Bianco  Bianco/Nero   40.5 EU](https://www.amazon.it/dp/B01LZIUX7T/?tag=redken03-21) a 38.99 EUR (original: 64.88 EUR) (39.90 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Nike Tanjun Mn  Scarpe Sportive Uomo  Bianco  Bianco/Nero   40.5 EU](https://www.amazon.it/dp/B01LZIUX7T/?tag=tolees00-21) a 38.99 EUR (original: 64.88 EUR) (39.90 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41XrjIllntL._SL200_.jpg)](https://www.amazon.it/dp/B01LZIUX7T/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41XrjIllntL._SL200_.jpg)](https://www.amazon.it/dp/B01LZIUX7T/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B01LZIUX7T/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B01LZIUX7T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

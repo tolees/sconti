@@ -14,11 +14,11 @@ comparePrice: 11.8 EUR
 inStock: true
 ---
 
-Está [Garnier Maschera Viso Nera Pure Active  Azione 3 in 1: Gel detergente  Scrub e Maschera Purificante  Combatte i Punti Neri  con Carbone Vegetale  150 ml  Confezione da 2](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=redken03-21) con 28.05 de descuento por 8.49 EUR (original: 11.8 EUR) en el siguiente enlace!
+Está [Garnier Maschera Viso Nera Pure Active  Azione 3 in 1: Gel detergente  Scrub e Maschera Purificante  Combatte i Punti Neri  con Carbone Vegetale  150 ml  Confezione da 2](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=tolees00-21) con 28.05 de descuento por 8.49 EUR (original: 11.8 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/511GKA3YDHL._SL200_.jpg)](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/511GKA3YDHL._SL200_.jpg)](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

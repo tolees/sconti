@@ -14,11 +14,11 @@ comparePrice: 66.9 EUR
 inStock: true
 ---
 
-Tienes [adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  Footwear White/Core White/Green   43 1/3 EU](https://www.amazon.it/dp/B00LUIKOO8/?tag=redken03-21) con un 42.47 % de descuento con precio de oferta de 38.49 EUR (original: 66.9 EUR) en el siguiente enlace!
+Tienes [adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  Footwear White/Core White/Green   43 1/3 EU](https://www.amazon.it/dp/B00LUIKOO8/?tag=tolees00-21) con un 42.47 % de descuento con precio de oferta de 38.49 EUR (original: 66.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31wf0FteVXL._SL200_.jpg)](https://www.amazon.it/dp/B00LUIKOO8/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/31wf0FteVXL._SL200_.jpg)](https://www.amazon.it/dp/B00LUIKOO8/?tag=tolees00-21)
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00LUIKOO8/?tag=redken03-21)
+[Accede a la oferta!!](https://www.amazon.it/dp/B00LUIKOO8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

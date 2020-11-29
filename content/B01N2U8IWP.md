@@ -14,11 +14,11 @@ comparePrice: 7.56 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]](https://www.amazon.it/dp/B01N2U8IWP/?tag=redken03-21) a 4.0 EUR (original: 7.56 EUR) (47.09 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21) a 4.0 EUR (original: 7.56 EUR) (47.09 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51ol-NT73IL._SL200_.jpg)](https://www.amazon.it/dp/B01N2U8IWP/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/51ol-NT73IL._SL200_.jpg)](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B01N2U8IWP/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

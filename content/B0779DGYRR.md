@@ -14,11 +14,11 @@ comparePrice: 34.95 EUR
 inStock: true
 ---
 
-Está [adidas T-Shirt Alphaskin Sport  Maglia Manica Lunga Uomo  Blu  S](https://www.amazon.it/dp/B0779DGYRR/?tag=redken03-21) con 38.03 de descuento por 21.66 EUR (original: 34.95 EUR) en el siguiente enlace!
+Está [adidas T-Shirt Alphaskin Sport  Maglia Manica Lunga Uomo  Blu  S](https://www.amazon.it/dp/B0779DGYRR/?tag=tolees00-21) con 38.03 de descuento por 21.66 EUR (original: 34.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41W4TsaEX5L._SL200_.jpg)](https://www.amazon.it/dp/B0779DGYRR/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41W4TsaEX5L._SL200_.jpg)](https://www.amazon.it/dp/B0779DGYRR/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B0779DGYRR/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B0779DGYRR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

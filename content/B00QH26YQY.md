@@ -14,11 +14,11 @@ comparePrice: 6.96 EUR
 inStock: true
 ---
 
-Está [Pattex 1536101 SL 620 Serramenti e Edilizia  300 ml  Alluminio](https://www.amazon.it/dp/B00QH26YQY/?tag=redken03-21) con 42.67 de descuento por 3.99 EUR (original: 6.96 EUR) en el siguiente enlace!
+Está [Pattex 1536101 SL 620 Serramenti e Edilizia  300 ml  Alluminio](https://www.amazon.it/dp/B00QH26YQY/?tag=tolees00-21) con 42.67 de descuento por 3.99 EUR (original: 6.96 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41ud8Dsh23L._SL200_.jpg)](https://www.amazon.it/dp/B00QH26YQY/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41ud8Dsh23L._SL200_.jpg)](https://www.amazon.it/dp/B00QH26YQY/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00QH26YQY/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00QH26YQY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

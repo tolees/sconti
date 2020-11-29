@@ -14,11 +14,11 @@ comparePrice: 110.0 EUR
 inStock: true
 ---
 
-Tienes [Timberland Boroughs Project Mixed Super Oxford Sneaker  Uomo  Verde  Grape Leaf  Tb0a24sva581   40 EU  6.5 UK ](https://www.amazon.it/dp/B07T5PFW7F/?tag=redken03-21) con un 42.86 % de descuento con precio de oferta de 62.85 EUR (original: 110.0 EUR) en el siguiente enlace!
+Tienes [Timberland Boroughs Project Mixed Super Oxford Sneaker  Uomo  Verde  Grape Leaf  Tb0a24sva581   40 EU  6.5 UK ](https://www.amazon.it/dp/B07T5PFW7F/?tag=tolees00-21) con un 42.86 % de descuento con precio de oferta de 62.85 EUR (original: 110.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41m67k3OvKL._SL200_.jpg)](https://www.amazon.it/dp/B07T5PFW7F/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41m67k3OvKL._SL200_.jpg)](https://www.amazon.it/dp/B07T5PFW7F/?tag=tolees00-21)
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B07T5PFW7F/?tag=redken03-21)
+[Accede a la oferta!!](https://www.amazon.it/dp/B07T5PFW7F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

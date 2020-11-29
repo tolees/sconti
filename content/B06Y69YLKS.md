@@ -14,11 +14,11 @@ comparePrice: 1.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  1 x 75 ml](https://www.amazon.it/dp/B06Y69YLKS/?tag=redken03-21) a 0.99 EUR (original: 1.49 EUR) (33.56 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  1 x 75 ml](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21) a 0.99 EUR (original: 1.49 EUR) (33.56 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41RiU7nrl1L._SL200_.jpg)](https://www.amazon.it/dp/B06Y69YLKS/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41RiU7nrl1L._SL200_.jpg)](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B06Y69YLKS/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

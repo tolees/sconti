@@ -14,11 +14,11 @@ comparePrice: 21.72 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Havaianas Slim Flatform  Infradito Donna  Blu  Blue 0057   35/36 EU](https://www.amazon.it/dp/B07TQZB5XM/?tag=redken03-21) a 12.6 EUR (original: 21.72 EUR) (41.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Havaianas Slim Flatform  Infradito Donna  Blu  Blue 0057   35/36 EU](https://www.amazon.it/dp/B07TQZB5XM/?tag=tolees00-21) a 12.6 EUR (original: 21.72 EUR) (41.99 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL200_.jpg)](https://www.amazon.it/dp/B07TQZB5XM/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL200_.jpg)](https://www.amazon.it/dp/B07TQZB5XM/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07TQZB5XM/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B07TQZB5XM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 130.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Pandora Packable Jacket Giacca  Olive Night  L Donna](https://www.amazon.it/dp/B07ZVPV6LP/?tag=redken03-21) a 59.49 EUR (original: 130.0 EUR) (54.24 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Levi s Pandora Packable Jacket Giacca  Olive Night  L Donna](https://www.amazon.it/dp/B07ZVPV6LP/?tag=tolees00-21) a 59.49 EUR (original: 130.0 EUR) (54.24 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41tj76wtpkL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVPV6LP/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/41tj76wtpkL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVPV6LP/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07ZVPV6LP/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B07ZVPV6LP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

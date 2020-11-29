@@ -14,11 +14,11 @@ comparePrice: 21.99 EUR
 inStock: true
 ---
 
-Está [Hasbro Play-Doh- Play-Doh Gelato Drizzy  playset con Pasta da Modellare Kitchen Creations   E6688](https://www.amazon.it/dp/B07TFN6CHR/?tag=redken03-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!
+Está [Hasbro Play-Doh- Play-Doh Gelato Drizzy  playset con Pasta da Modellare Kitchen Creations   E6688](https://www.amazon.it/dp/B07TFN6CHR/?tag=tolees00-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51PNixOFjFL._SL200_.jpg)](https://www.amazon.it/dp/B07TFN6CHR/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/51PNixOFjFL._SL200_.jpg)](https://www.amazon.it/dp/B07TFN6CHR/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07TFN6CHR/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07TFN6CHR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

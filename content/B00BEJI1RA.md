@@ -14,11 +14,11 @@ comparePrice: 3.09 EUR
 inStock: true
 ---
 
-Está [Neutro Roberts Sapone Solido Idratante - 400 g](https://www.amazon.it/dp/B00BEJI1RA/?tag=redken03-21) con 50.49 de descuento por 1.53 EUR (original: 3.09 EUR) en el siguiente enlace!
+Está [Neutro Roberts Sapone Solido Idratante - 400 g](https://www.amazon.it/dp/B00BEJI1RA/?tag=tolees00-21) con 50.49 de descuento por 1.53 EUR (original: 3.09 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/413v2FNgwPL._SL200_.jpg)](https://www.amazon.it/dp/B00BEJI1RA/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/413v2FNgwPL._SL200_.jpg)](https://www.amazon.it/dp/B00BEJI1RA/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00BEJI1RA/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00BEJI1RA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
