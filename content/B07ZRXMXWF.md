@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Riso Scotti - Risotto alla Milanese - Ri al 48.43 % de descuento'
-date: 2020-11-22 16:22:41
+date: 2020-11-29 07:49:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RSR0+tCRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RSR0+tCRL._SL200_.jpg' ]
 comments: true
