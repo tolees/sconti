@@ -14,11 +14,11 @@ comparePrice: 22.41 EUR
 inStock: true
 ---
 
-Está [Funko Pop! Vinyl Rocks Queen - Freddy Mercury  Wembley 1986 ](https://www.amazon.it/dp/B07HJ81TMZ/?tag=redken03-21) con 25.44 de descuento por 16.71 EUR (original: 22.41 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop! Vinyl Rocks Queen - Freddy Mercury  Wembley 1986 ](https://www.amazon.it/dp/B07HJ81TMZ/?tag=redken03-21) a 16.71 EUR (original: 22.41 EUR) (25.44 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bVrUy598L._SL200_.jpg)](https://www.amazon.it/dp/B07HJ81TMZ/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07HJ81TMZ/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B07HJ81TMZ/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
