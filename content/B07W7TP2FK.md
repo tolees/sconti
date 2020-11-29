@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en LEGO Star Wars Landspeeder di Luke Skywa'
-date: 2020-11-27 23:59:32
+date: 2020-11-29 05:42:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51I+a6lbYQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51I+a6lbYQL._SL200_.jpg' ]
 comments: true

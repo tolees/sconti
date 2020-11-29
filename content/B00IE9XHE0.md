@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 6000L - Kit Fotocamera Digita al 49.00 % de descuento'
-date: 2020-11-28 05:10:11
+date: 2020-11-29 05:29:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg' ]
 comments: true

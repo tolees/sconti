@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.78 % en SALEWA Mtn Trainer Mid Gore-Tex  Scarpe '
-date: 2020-11-27 11:03:50
+date: 2020-11-29 05:38:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51S0uwF-VVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51S0uwF-VVL._SL200_.jpg' ]
 comments: true

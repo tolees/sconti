@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YABER Proiettore Bluetooth  5500 Lumens  al 60.00 % de descuento'
-date: 2020-11-26 04:51:20
+date: 2020-11-29 05:41:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xXxSPK5CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xXxSPK5CL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Potensic Mini Drone con Telecamera Telec al 26.91 % de descuento'
-date: 2020-11-28 05:09:38
+date: 2020-11-29 05:44:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QEPvqtSmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QEPvqtSmL._SL200_.jpg' ]
 comments: true

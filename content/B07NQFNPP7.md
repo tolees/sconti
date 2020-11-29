@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antimi Cuffie Bluetooth 5.0 Wireless Aur al 49.39 % de descuento'
-date: 2020-11-26 10:42:00
+date: 2020-11-29 05:33:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg' ]
 comments: true
