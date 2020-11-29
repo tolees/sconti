@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Saucony Jazz Original Vintage  Sneakers  al 27.57 % de descuento'
-date: 2020-11-22 20:55:48
+date: 2020-11-28 23:15:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/418e5aUJ98L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418e5aUJ98L._SL200_.jpg' ]
 comments: true
