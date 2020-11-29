@@ -14,11 +14,11 @@ comparePrice: 16.84 EUR
 inStock: true
 ---
 
-Está [Funko POP! Figura in Vinile Harry Potter - Cedric Diggory  Yule ](https://www.amazon.it/dp/B07QGWYPBR/?tag=redken03-21) con 28.80 de descuento por 11.99 EUR (original: 16.84 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko POP! Figura in Vinile Harry Potter - Cedric Diggory  Yule ](https://www.amazon.it/dp/B07QGWYPBR/?tag=redken03-21) a 11.99 EUR (original: 16.84 EUR) (28.80 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WDBFq3OmL._SL200_.jpg)](https://www.amazon.it/dp/B07QGWYPBR/?tag=redken03-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07QGWYPBR/?tag=redken03-21)
+[Visítala!!!](https://www.amazon.it/dp/B07QGWYPBR/?tag=redken03-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
