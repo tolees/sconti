@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-XB700 - Cuffie wireless on-ear c al 39.66 % de descuento'
-date: 2020-11-28 11:19:02
+date: 2020-11-29 11:36:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Frsba5qeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Frsba5qeL._SL200_.jpg' ]
 comments: true

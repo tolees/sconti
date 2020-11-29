@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.66 % en Salomon Speedcross 4 GTX Scarpe Da Trail'
-date: 2020-11-28 11:22:27
+date: 2020-11-29 11:33:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41shQ1cA28L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41shQ1cA28L._SL200_.jpg' ]
 comments: true
