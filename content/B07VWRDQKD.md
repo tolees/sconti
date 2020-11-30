@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ninja Air Fryer AF100EU 4 Funzioni di Co al 40.00 % de descuento'
-date: 2020-11-28 02:00:04
+date: 2020-11-30 16:49:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IEQPsE64L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IEQPsE64L._SL200_.jpg' ]
 comments: true
