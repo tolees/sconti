@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger 26856 Disney Villainous Wic al 25.03 % de descuento'
-date: 2020-11-29 05:33:32
+date: 2020-11-30 05:56:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HQBt8zWxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HQBt8zWxL._SL200_.jpg' ]
 comments: true

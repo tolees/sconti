@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuova Fire TV Stick con telecomando voca al 25.01 % de descuento'
-date: 2020-11-28 19:27:21
+date: 2020-11-30 05:55:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31t0m3cPrXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31t0m3cPrXL._SL200_.jpg' ]
 comments: true

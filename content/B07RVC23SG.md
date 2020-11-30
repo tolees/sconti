@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Wh-Xb900N - Cuffie Wireless Over-Ea al 32.00 % de descuento'
-date: 2020-11-29 05:43:33
+date: 2020-11-30 05:50:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07RVC23SG
 description:
-actualPrice: 170.0 EUR
+actualPrice: 169.99 EUR
 comparePrice: 250.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony Wh-Xb900N - Cuffie Wireless Over-Ear con Noise Cancellig Ed Extra Bass  Alexa Built-In  Compatibile con Google Assistant E Siri  Batteria Fino a 30 Ore  Bluetooth  Nfc  Nero](https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21) a 170.0 EUR (original: 250.0 EUR) (32.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony Wh-Xb900N - Cuffie Wireless Over-Ear con Noise Cancellig Ed Extra Bass  Alexa Built-In  Compatibile con Google Assistant E Siri  Batteria Fino a 30 Ore  Bluetooth  Nfc  Nero](https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21) a 169.99 EUR (original: 250.0 EUR) (32.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg)](https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21)
 

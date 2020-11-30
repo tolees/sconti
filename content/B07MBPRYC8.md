@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MHC-V02 Sistema audio All in One co al 35.22 % de descuento'
-date: 2020-11-29 05:41:49
+date: 2020-11-30 05:52:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LbtZ1h0gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LbtZ1h0gL._SL200_.jpg' ]
 comments: true

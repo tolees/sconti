@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate Game Drive per Xbox  Unità Disco al 27.14 % de descuento'
-date: 2020-11-29 05:31:11
+date: 2020-11-30 05:41:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JBZ6LExzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JBZ6LExzL._SL200_.jpg' ]
 comments: true
