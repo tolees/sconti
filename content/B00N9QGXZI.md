@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Helly Hansen Hh Duffel Bag 2 70l - Borse al 50.58 % de descuento'
-date: 2020-09-07 16:05:26
+title: 'Helly Hansen Hh Duffel Bag 2 70l - Borse al 58.22 % de descuento'
+date: 2020-11-30 09:24:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/414WlxOmZaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414WlxOmZaL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00N9QGXZI
 description:
-actualPrice: 49.42 EUR
+actualPrice: 41.78 EUR
 comparePrice: 100.0 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Hh Duffel Bag 2 70l - Borse a spalla Unisex Adulto  Nero  Black   35x35x65 cm  B x H T ](https://www.amazon.it/dp/B00N9QGXZI/?tag=tolees00-21) con 50.58 de descuento por 49.42 EUR (original: 100.0 EUR) en el siguiente enlace!
+Está [Helly Hansen Hh Duffel Bag 2 70l - Borse a spalla Unisex Adulto  Nero  Black   35x35x65 cm  B x H T ](https://www.amazon.it/dp/B00N9QGXZI/?tag=tolees00-21) con 58.22 de descuento por 41.78 EUR (original: 100.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/414WlxOmZaL._SL200_.jpg)](https://www.amazon.it/dp/B00N9QGXZI/?tag=tolees00-21)
 
