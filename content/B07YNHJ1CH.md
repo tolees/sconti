@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en PlayStation Now - Abbonamento 12 Mesi | '
-date: 2020-11-28 23:13:40
+date: 2020-11-29 23:46:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pxGYwNKfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pxGYwNKfL._SL200_.jpg' ]
 comments: true
