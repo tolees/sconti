@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter Magical Collection  8 Blu R al 33.34 % de descuento'
-date: 2020-11-29 11:35:35
+date: 2020-11-30 11:48:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/410Tv39tecL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410Tv39tecL._SL200_.jpg' ]
 comments: true
