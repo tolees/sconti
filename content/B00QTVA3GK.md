@@ -14,11 +14,11 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Está [Kappa  Polo Uomo Peleot  Blu  Navy   M](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21) con 50.68 de descuento por 9.84 EUR (original: 19.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kappa  Polo Uomo Peleot  Blu  Navy   M](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21) a 9.84 EUR (original: 19.95 EUR) (50.68 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/416tg1CN4DL._SL200_.jpg)](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

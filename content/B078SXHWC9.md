@@ -14,11 +14,11 @@ comparePrice: 65.0 EUR
 inStock: true
 ---
 
-Está [Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Nero  Black Canvas   44.5 EU](https://www.amazon.it/dp/B078SXHWC9/?tag=tolees00-21) con 53.92 de descuento por 29.95 EUR (original: 65.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Nero  Black Canvas   44.5 EU](https://www.amazon.it/dp/B078SXHWC9/?tag=tolees00-21) a 29.95 EUR (original: 65.0 EUR) (53.92 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31QC-RfwP2L._SL200_.jpg)](https://www.amazon.it/dp/B078SXHWC9/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B078SXHWC9/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B078SXHWC9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
