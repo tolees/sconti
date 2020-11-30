@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Silk-épil 9 Beauty Set Deluxe 9-99 al 40.18 % de descuento'
-date: 2020-11-21 08:06:48
+date: 2020-11-30 17:49:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51boHjsgM8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51boHjsgM8L._SL200_.jpg' ]
 comments: true
