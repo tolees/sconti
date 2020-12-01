@@ -14,11 +14,11 @@ comparePrice: 4.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lysoform On the Go Gel Detergente Igienizzante Mani  100 ml](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21) a 2.99 EUR (original: 4.99 EUR) (40.08 %  de descuento) en el siguiente enlace!
+Está [Lysoform On the Go Gel Detergente Igienizzante Mani  100 ml](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21) con 40.08 de descuento por 2.99 EUR (original: 4.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41hQ5JoIEjL._SL200_.jpg)](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -14,11 +14,11 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil City Action 9464 - Autopompa dei Vigili del Fuoco  dai 4 anni](https://www.amazon.it/dp/B079MNQTNZ/?tag=tolees00-21) a 36.94 EUR (original: 59.99 EUR) (38.42 %  de descuento) en el siguiente enlace!
+Está [Playmobil City Action 9464 - Autopompa dei Vigili del Fuoco  dai 4 anni](https://www.amazon.it/dp/B079MNQTNZ/?tag=tolees00-21) con 38.42 de descuento por 36.94 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51hEOUpdXyL._SL200_.jpg)](https://www.amazon.it/dp/B079MNQTNZ/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B079MNQTNZ/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B079MNQTNZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
