@@ -14,11 +14,11 @@ comparePrice: 249.99 EUR
 inStock: true
 ---
 
-Está [Columbia Lay D Down II  Giacca da Sci Donna  Bianco  White   M](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21) con 36.41 de descuento por 158.98 EUR (original: 249.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Lay D Down II  Giacca da Sci Donna  Bianco  White   M](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21) a 158.98 EUR (original: 249.99 EUR) (36.41 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4137CixWctL._SL200_.jpg)](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
