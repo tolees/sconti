@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Trono Di Spade Stagione 8  3 Blu Ray  al 58.02 % de descuento'
-date: 2020-11-30 11:42:35
+title: 'Trono Di Spade Stagione 8  3 Blu Ray  al 59.62 % de descuento'
+date: 2020-12-01 11:51:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CGwSM01WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CGwSM01WL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SLFS58R
 description:
-actualPrice: 20.99 EUR
+actualPrice: 20.19 EUR
 comparePrice: 50.0 EUR
 inStock: true
 ---
 
-Está [Trono Di Spade Stagione 8  3 Blu Ray ](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21) con 58.02 de descuento por 20.99 EUR (original: 50.0 EUR) en el siguiente enlace!
+Está [Trono Di Spade Stagione 8  3 Blu Ray ](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21) con 59.62 de descuento por 20.19 EUR (original: 50.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51CGwSM01WL._SL200_.jpg)](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21)
 
