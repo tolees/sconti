@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.55 % en Levi s Graphic Crew B Felpa  HM Ssnl Fil'
-date: 2020-11-30 11:55:45
+date: 2020-12-01 12:02:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gnE9mKiQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gnE9mKiQL._SL200_.jpg' ]
 comments: true
