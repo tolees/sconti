@@ -14,11 +14,11 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Está [LEGO Friends](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21) con 62.46 de descuento por 14.98 EUR (original: 39.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Friends](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21) a 14.98 EUR (original: 39.9 EUR) (62.46 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61y-9yMzdqL._SL200_.jpg)](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
