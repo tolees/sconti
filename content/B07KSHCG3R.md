@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Memorie MZ-76Q1T0 860 QVO SSD In al 32.40 % de descuento'
-date: 2020-11-30 05:41:48
+date: 2020-12-01 05:53:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dNXsA2avL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dNXsA2avL._SL200_.jpg' ]
 comments: true

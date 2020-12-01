@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.21 % en LEGO City Trasportatore di Elicotteri de'
-date: 2020-11-30 05:43:12
+date: 2020-12-01 05:57:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D4jv2+N6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D4jv2+N6L._SL200_.jpg' ]
 comments: true

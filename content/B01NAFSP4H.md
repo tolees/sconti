@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corona Bobina Monorotolo  1 pezzo al 29.55 % de descuento'
-date: 2020-11-30 05:42:26
+date: 2020-12-01 05:52:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f3w7+FvpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f3w7+FvpL._SL200_.jpg' ]
 comments: true
