@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.60 % en Barilla Sugo Pesto alla Genovese Senza A'
-date: 2020-11-30 05:48:56
+date: 2020-12-01 06:01:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zzH-0wbdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zzH-0wbdL._SL200_.jpg' ]
 comments: true

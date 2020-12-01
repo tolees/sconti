@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Wh-Xb900N - Cuffie Wireless Over-Ea al 32.00 % de descuento'
-date: 2020-11-30 05:50:02
+date: 2020-12-01 06:03:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg' ]
 comments: true
