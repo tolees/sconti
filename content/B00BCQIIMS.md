@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.48 % en Philips HP8230/00 ThermoProtect Asciugac'
-date: 2020-12-01 10:08:29
+date: 2020-12-02 15:01:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31gsExCuooL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31gsExCuooL._SL200_.jpg' ]
 comments: true

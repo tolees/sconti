@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.12 % en LEGO Disney Frozen II Il villaggio del C'
-date: 2020-11-27 07:10:03
+date: 2020-12-02 15:04:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ijWY3BBlL._SL200_.jpg' ]
 comments: true
