@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.94 % en Sony UBP-X800M2 Lettore Blu-Ray 4K HDR  '
-date: 2020-11-30 05:50:09
+date: 2020-12-02 06:12:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/21DLFSZ45XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21DLFSZ45XL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SALEWA MS Dropline  Scarpe da Trail Runn al 30.34 % de descuento'
-date: 2020-12-01 06:04:40
+date: 2020-12-02 06:20:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dUTkMnIsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dUTkMnIsL._SL200_.jpg' ]
 comments: true
