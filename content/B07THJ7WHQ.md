@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung TV QE49LS03RAUXZT The Frame 2019 al 53.89 % de descuento'
-date: 2020-11-29 23:46:00
+date: 2020-12-01 23:53:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/518Loo90Y2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518Loo90Y2L._SL200_.jpg' ]
 comments: true

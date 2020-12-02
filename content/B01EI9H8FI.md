@@ -14,11 +14,11 @@ comparePrice: 99.74 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Blu  Collegiate Navy/White/Gold Met   40 2/3 EU](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21) a 61.7 EUR (original: 99.74 EUR) (38.14 %  de descuento) en el siguiente enlace!
+Está [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Blu  Collegiate Navy/White/Gold Met   40 2/3 EU](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21) con 38.14 de descuento por 61.7 EUR (original: 99.74 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WUyQ9DkFL._SL200_.jpg)](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
