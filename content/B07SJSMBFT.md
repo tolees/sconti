@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.82 % en Ravensburger 26275 Disney Villainous  Gi'
-date: 2020-12-02 06:24:30
+date: 2020-12-03 12:29:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JzdBqwGjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JzdBqwGjL._SL200_.jpg' ]
 comments: true
