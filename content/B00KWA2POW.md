@@ -14,11 +14,11 @@ comparePrice: 25.44 EUR
 inStock: true
 ---
 
-Está [Feudi Lacryma Christi Del Vesuvio Doc Rosso - 3 Bottiglie da 750 ml](https://www.amazon.it/dp/B00KWA2POW/?tag=tolees00-21) con 29.36 de descuento por 17.97 EUR (original: 25.44 EUR) en el siguiente enlace!
+Ahora mismo tienes [Feudi Lacryma Christi Del Vesuvio Doc Rosso - 3 Bottiglie da 750 ml](https://www.amazon.it/dp/B00KWA2POW/?tag=tolees00-21) a 17.97 EUR (original: 25.44 EUR) (29.36 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31vKk+x-YHL._SL200_.jpg)](https://www.amazon.it/dp/B00KWA2POW/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00KWA2POW/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B00KWA2POW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
