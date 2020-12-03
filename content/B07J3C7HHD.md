@@ -14,11 +14,11 @@ comparePrice: 44.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Scrimmage 2.0 Sacco da Montagna  Unisex Adulto  Blu](https://www.amazon.it/dp/B07J3C7HHD/?tag=tolees00-21) a 17.49 EUR (original: 44.98 EUR) (61.12 %  de descuento) en el siguiente enlace!
+Está [Under Armour Scrimmage 2.0 Sacco da Montagna  Unisex Adulto  Blu](https://www.amazon.it/dp/B07J3C7HHD/?tag=tolees00-21) con 61.12 de descuento por 17.49 EUR (original: 44.98 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WpgEz8DIL._SL200_.jpg)](https://www.amazon.it/dp/B07J3C7HHD/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07J3C7HHD/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07J3C7HHD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
