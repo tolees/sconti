@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.31 % en Levi s Graphic Tee B Maglietta a Maniche'
-date: 2020-12-02 06:10:07
+date: 2020-12-03 06:26:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/410je8eT8BL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410je8eT8BL._SL200_.jpg' ]
 comments: true

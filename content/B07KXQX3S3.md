@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk MicroSDXC UHS-I 128 GB - Scheda  al 47.21 % de descuento'
-date: 2020-12-02 06:10:43
+date: 2020-12-03 06:24:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg' ]
 comments: true
