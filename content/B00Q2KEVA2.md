@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony Alpha 7M2K - Kit Fotocamera Digital al 29.29 % de descuento'
-date: 2020-11-30 17:43:03
+title: 'Sony Alpha 7M2K - Kit Fotocamera Digital al 28.58 % de descuento'
+date: 2020-12-03 00:14:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iZvLVpirL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iZvLVpirL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00Q2KEVA2
 description:
-actualPrice: 990.0 EUR
+actualPrice: 999.9 EUR
 comparePrice: 1400.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony Alpha 7M2K - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile SEL 28-70mm  Sensore CMOS Exmor Full-Frame da 24.3 MP  Stabilizzazione Integrata  ILCE7B + SEL2870  Nero](https://www.amazon.it/dp/B00Q2KEVA2/?tag=tolees00-21) a 990.0 EUR (original: 1400.0 EUR) (29.29 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony Alpha 7M2K - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile SEL 28-70mm  Sensore CMOS Exmor Full-Frame da 24.3 MP  Stabilizzazione Integrata  ILCE7B + SEL2870  Nero](https://www.amazon.it/dp/B00Q2KEVA2/?tag=tolees00-21) a 999.9 EUR (original: 1400.0 EUR) (28.58 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41iZvLVpirL._SL200_.jpg)](https://www.amazon.it/dp/B00Q2KEVA2/?tag=tolees00-21)
 

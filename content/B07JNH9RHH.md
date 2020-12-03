@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'American Tourister Tracklite - Bagaglio  al 35.70 % de descuento'
-date: 2020-12-01 11:54:18
+date: 2020-12-03 00:24:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KU8PSj-IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KU8PSj-IL._SL200_.jpg' ]
 comments: true
