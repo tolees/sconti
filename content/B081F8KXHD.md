@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Catamarano e Barca a Vela 2 al 30.01 % de descuento'
-date: 2020-12-03 00:07:19
+date: 2020-12-04 13:33:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg' ]
 comments: true

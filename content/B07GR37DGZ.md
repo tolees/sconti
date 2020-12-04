@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel SES15 Sign Pen Brush "Touch" - Ha al 44.05 % de descuento'
-date: 2020-12-02 06:09:47
+date: 2020-12-04 13:42:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31J3nbw2T-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31J3nbw2T-L._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'SALEWA WS Wildfire Gore-Tex  Scarpe Trek al 32.95 % de descuento'
-date: 2020-12-03 06:26:19
-thumbnailImage: 'https://m.media-amazon.com/images/I/41qMGX936FL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41qMGX936FL._SL200_.jpg' ]
+date: 2020-12-04 13:53:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/41nF+0F2aQL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41nF+0F2aQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [SALEWA WS Wildfire Gore-Tex  Scarpe Trekking Donna  Nero Bianco  39 EU](https://www.amazon.it/dp/B07DVMY8S3/?tag=tolees00-21) a 113.98 EUR (original: 170.0 EUR) (32.95 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41qMGX936FL._SL200_.jpg)](https://www.amazon.it/dp/B07DVMY8S3/?tag=tolees00-21)
+[![](https://m.media-amazon.com/images/I/41nF+0F2aQL._SL200_.jpg)](https://www.amazon.it/dp/B07DVMY8S3/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B07DVMY8S3/?tag=tolees00-21)
 

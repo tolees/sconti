@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-XB700 - Cuffie Bluetooth senza f al 54.01 % de descuento'
-date: 2020-12-03 00:22:24
+date: 2020-12-04 13:56:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Rl22wk8nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Rl22wk8nL._SL200_.jpg' ]
 comments: true

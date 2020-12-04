@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 61.99 % en Red Dead Redemption 2 - Xbox One'
-date: 2020-11-15 06:34:54
+title: 'Red Dead Redemption 2 - Xbox One al 62.66 % de descuento'
+date: 2020-12-04 13:45:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: B01M8MO8XS
 description:
-actualPrice: 28.5 EUR
+actualPrice: 28.0 EUR
 comparePrice: 74.98 EUR
 inStock: true
 ---
 
-Tienes [Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B01M8MO8XS/?tag=redken03-21) con un 61.99 % de descuento con precio de oferta de 28.5 EUR (original: 74.98 EUR) en el siguiente enlace!
+Está [Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21) con 62.66 de descuento por 28.0 EUR (original: 74.98 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg)](https://www.amazon.it/dp/B01M8MO8XS/?tag=redken03-21)
+[![](https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg)](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21)
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B01M8MO8XS/?tag=redken03-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 8t Mooshadow Grey 6 3" al 33.28 % de descuento'
-date: 2020-12-03 00:09:23
+date: 2020-12-04 13:38:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xVVtLJC5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xVVtLJC5L._SL200_.jpg' ]
 comments: true

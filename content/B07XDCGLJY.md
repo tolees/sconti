@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Drone Championship League - The Game - P al 51.59 % de descuento'
-date: 2020-12-02 06:29:11
+title: 'Drone Championship League - The Game - P al 52.11 % de descuento'
+date: 2020-12-04 13:46:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lcAGWvJwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lcAGWvJwL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07XDCGLJY
 description:
-actualPrice: 19.36 EUR
+actualPrice: 19.15 EUR
 comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Drone Championship League - The Game - PlayStation 4](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21) a 19.36 EUR (original: 39.99 EUR) (51.59 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Drone Championship League - The Game - PlayStation 4](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21) a 19.15 EUR (original: 39.99 EUR) (52.11 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51lcAGWvJwL._SL200_.jpg)](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21)
 
