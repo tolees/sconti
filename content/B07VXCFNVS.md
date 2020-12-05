@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.46 % en Kingston A2000  SA2000M8/500G  NVMe PCIe'
-date: 2020-12-04 13:34:58
+date: 2020-12-05 13:45:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41td60tG3IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41td60tG3IL._SL200_.jpg' ]
 comments: true
