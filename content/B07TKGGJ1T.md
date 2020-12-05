@@ -14,11 +14,11 @@ comparePrice: 27.62 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Unità a Stato Solido SATA III da 2 5 " 6 Gb/s  128GB Lexar NS100](https://www.amazon.it/dp/B07TKGGJ1T/?tag=tolees00-21) a 18.99 EUR (original: 27.62 EUR) (31.25 %  de descuento) en el siguiente enlace!
+Está [Unità a Stato Solido SATA III da 2 5 " 6 Gb/s  128GB Lexar NS100](https://www.amazon.it/dp/B07TKGGJ1T/?tag=tolees00-21) con 31.25 de descuento por 18.99 EUR (original: 27.62 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4175AZN37OL._SL200_.jpg)](https://www.amazon.it/dp/B07TKGGJ1T/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07TKGGJ1T/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07TKGGJ1T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
