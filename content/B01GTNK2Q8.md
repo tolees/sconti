@@ -14,11 +14,11 @@ comparePrice: 150.0 EUR
 inStock: true
 ---
 
-Está [Spine VPD Air Slim](https://www.amazon.it/dp/B01GTNK2Q8/?tag=tolees00-21) con 48.03 de descuento por 77.95 EUR (original: 150.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Spine VPD Air Slim](https://www.amazon.it/dp/B01GTNK2Q8/?tag=tolees00-21) a 77.95 EUR (original: 150.0 EUR) (48.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/413maQrMtrL._SL200_.jpg)](https://www.amazon.it/dp/B01GTNK2Q8/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01GTNK2Q8/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B01GTNK2Q8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
