@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A41  Smartphone  Display  al 36.79 % de descuento'
-date: 2020-12-04 13:54:00
+date: 2020-12-05 14:05:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-9OxALBbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-9OxALBbL._SL200_.jpg' ]
 comments: true
