@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Prolife Integratore Alimentare Fermenti  al 64.50 % de descuento'
-date: 2020-11-22 18:40:02
+date: 2020-12-05 18:12:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/415B8S5vkTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415B8S5vkTL._SL200_.jpg' ]
 comments: true
