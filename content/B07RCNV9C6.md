@@ -14,11 +14,11 @@ comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Está [Columbia Columbia Lodge  Giaccia a vento  Uomo](https://www.amazon.it/dp/B07RCNV9C6/?tag=tolees00-21) con 45.78 de descuento por 86.74 EUR (original: 159.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Columbia Lodge  Giaccia a vento  Uomo](https://www.amazon.it/dp/B07RCNV9C6/?tag=tolees00-21) a 86.74 EUR (original: 159.99 EUR) (45.78 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4159avt+dWL._SL200_.jpg)](https://www.amazon.it/dp/B07RCNV9C6/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07RCNV9C6/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07RCNV9C6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
