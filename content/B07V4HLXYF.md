@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haier HTF-540DGG7 Frigorifero 4 Porte al 43.78 % de descuento'
-date: 2020-11-26 17:13:43
+date: 2020-12-05 11:38:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jVNEGkrVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jVNEGkrVL._SL200_.jpg' ]
 comments: true
