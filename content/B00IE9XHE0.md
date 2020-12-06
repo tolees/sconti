@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony Alpha 6000L - Kit Fotocamera Digita al 46.47 % de descuento'
-date: 2020-12-05 13:40:13
+title: 'Sony Alpha 6000L - Kit Fotocamera Digita al 45.57 % de descuento'
+date: 2020-12-06 13:52:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00IE9XHE0
 description:
-actualPrice: 481.8 EUR
+actualPrice: 489.9 EUR
 comparePrice: 900.0 EUR
 inStock: true
 ---
 
-Está [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile Selp 16-50Mm  Sensore Aps-C  Video Avchd  Eye Af  Ilce6000B + Selp1650  Nero](https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21) con 46.47 de descuento por 481.8 EUR (original: 900.0 EUR) en el siguiente enlace!
+Está [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile Selp 16-50Mm  Sensore Aps-C  Video Avchd  Eye Af  Ilce6000B + Selp1650  Nero](https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21) con 45.57 de descuento por 489.9 EUR (original: 900.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg)](https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21)
 

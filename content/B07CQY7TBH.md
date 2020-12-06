@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Potensic Drone GPS Telecamera 1080P Dron'
-date: 2020-12-05 07:47:07
+date: 2020-12-06 13:56:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cGGQav5wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cGGQav5wL._SL200_.jpg' ]
 comments: true
