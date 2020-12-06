@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.76 % en SuperZings- Giocattoli  PST6D850IN01'
-date: 2020-12-05 13:58:58
+date: 2020-12-06 14:00:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/513fP0I01FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513fP0I01FL._SL200_.jpg' ]
 comments: true
