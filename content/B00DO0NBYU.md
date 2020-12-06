@@ -14,11 +14,11 @@ comparePrice: 140.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21) a 82.0 EUR (original: 140.0 EUR) (41.43 %  de descuento) en el siguiente enlace!
+Está [Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21) con 41.43 de descuento por 82.0 EUR (original: 140.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41I9BkbzvUL._SL200_.jpg)](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
