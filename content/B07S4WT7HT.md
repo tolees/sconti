@@ -14,11 +14,11 @@ comparePrice: 110.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Haight Harrington Jacket Giacca  Nero  Mineral Black 0000   Medium Uomo](https://www.amazon.it/dp/B07S4WT7HT/?tag=tolees00-21) a 55.0 EUR (original: 110.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Levi s Haight Harrington Jacket Giacca  Nero  Mineral Black 0000   Medium Uomo](https://www.amazon.it/dp/B07S4WT7HT/?tag=tolees00-21) con 50.00 de descuento por 55.0 EUR (original: 110.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31PZr0knUjL._SL200_.jpg)](https://www.amazon.it/dp/B07S4WT7HT/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07S4WT7HT/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07S4WT7HT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
