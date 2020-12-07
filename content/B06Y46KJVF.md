@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.01 % en Cars 3 - Nintendo Switch'
-date: 2020-12-06 14:01:22
+date: 2020-12-07 14:20:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/514FHeFRquL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514FHeFRquL._SL200_.jpg' ]
 comments: true
