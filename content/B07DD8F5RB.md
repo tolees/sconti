@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jumanji Edizione in Legno  il Classico G al 26.74 % de descuento'
-date: 2020-12-05 13:54:17
+date: 2020-12-07 01:51:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51N8NBtNSGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51N8NBtNSGL._SL200_.jpg' ]
 comments: true
