@@ -14,11 +14,11 @@ comparePrice: 150.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen W Crew Midlayer Jacket  Giacca Tecnica da Vela Donna  Blu  Blue Navy   L](https://www.amazon.it/dp/B00XRFPEZG/?tag=tolees00-21) a 58.82 EUR (original: 150.0 EUR) (60.79 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen W Crew Midlayer Jacket  Giacca Tecnica da Vela Donna  Blu  Blue Navy   L](https://www.amazon.it/dp/B00XRFPEZG/?tag=tolees00-21) con 60.79 de descuento por 58.82 EUR (original: 150.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dv8uTNIvL._SL200_.jpg)](https://www.amazon.it/dp/B00XRFPEZG/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00XRFPEZG/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00XRFPEZG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
