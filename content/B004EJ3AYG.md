@@ -14,11 +14,11 @@ comparePrice: 1.19 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pavesi Ringo Biscotti Farciti con Crema al Cacao  165g](https://www.amazon.it/dp/B004EJ3AYG/?tag=tolees00-21) a 0.85 EUR (original: 1.19 EUR) (28.57 %  de descuento) en el siguiente enlace!
+Está [Pavesi Ringo Biscotti Farciti con Crema al Cacao  165g](https://www.amazon.it/dp/B004EJ3AYG/?tag=tolees00-21) con 28.57 de descuento por 0.85 EUR (original: 1.19 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41BQNWC9vQL._SL200_.jpg)](https://www.amazon.it/dp/B004EJ3AYG/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B004EJ3AYG/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B004EJ3AYG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
