@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Milka Tavoletta Oreo  100g al 32.00 % de descuento'
-date: 2020-12-01 09:07:50
+date: 2020-12-07 11:23:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IWoUoehbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IWoUoehbL._SL200_.jpg' ]
 comments: true
