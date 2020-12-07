@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.10 % en Hoover SB 01 Scopa Elettrica senza Sacco'
-date: 2020-11-25 21:08:10
+date: 2020-12-07 16:31:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pT3VkYpNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pT3VkYpNL._SL200_.jpg' ]
 comments: true

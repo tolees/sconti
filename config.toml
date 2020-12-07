@@ -6,6 +6,8 @@ theme = "hugo-shopping-product-catalogue-simple"
 [Params]
 description = "Latest deals"
 channel = "https://t.me/s/dsconti"
+ga = ""
+yandex = ""
 
 [sitemap]
   changefreq = "daily"
