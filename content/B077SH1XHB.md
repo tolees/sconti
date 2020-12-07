@@ -14,11 +14,11 @@ comparePrice: 95.0 EUR
 inStock: true
 ---
 
-Está [Lacoste L1212  T-Shirt Polo  Uomo  Blu  Electrique Z7Z   FR 2](https://www.amazon.it/dp/B077SH1XHB/?tag=tolees00-21) con 40.05 de descuento por 56.95 EUR (original: 95.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste L1212  T-Shirt Polo  Uomo  Blu  Electrique Z7Z   FR 2](https://www.amazon.it/dp/B077SH1XHB/?tag=tolees00-21) a 56.95 EUR (original: 95.0 EUR) (40.05 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31wlqJlEkiL._SL200_.jpg)](https://www.amazon.it/dp/B077SH1XHB/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B077SH1XHB/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B077SH1XHB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
