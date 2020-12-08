@@ -14,10 +14,12 @@ comparePrice: 70.09 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hermes Jour d Hermes Eau de Parfum  Donna  50 ml](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21) a 39.29 EUR (original: 70.09 EUR) (43.94 %  de descuento) en el siguiente enlace!
+Está [Hermes Jour d Hermes Eau de Parfum  Donna  50 ml](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21) con 43.94 de descuento por 39.29 EUR (original: 70.09 EUR) en el siguiente enlace!
 
 [![Hermes Jour d Hermes Eau de Parfum  Donn](https://m.media-amazon.com/images/I/41snAAUUAWL._SL200_.jpg)](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
