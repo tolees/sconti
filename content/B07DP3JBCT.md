@@ -14,11 +14,11 @@ comparePrice: 50.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Eastpak Padded Pak R Zaino  40 Cm  24 L  Blu  Triple Denim ](https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21) a 29.9 EUR (original: 50.0 EUR) (40.20 %  de descuento) en el siguiente enlace!
+Está [Eastpak Padded Pak R Zaino  40 Cm  24 L  Blu  Triple Denim ](https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21) con 40.20 de descuento por 29.9 EUR (original: 50.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41xlVUp8ffL._SL200_.jpg)](https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
