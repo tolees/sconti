@@ -14,12 +14,10 @@ comparePrice: 1.29 EUR
 inStock: true
 ---
 
-Está [Petti "Il delicato" Passata di Pomodoro Extrafine - 700g](https://www.amazon.it/dp/B01F75APAC/?tag=tolees00-21) con 43.41 de descuento por 0.73 EUR (original: 1.29 EUR) en el siguiente enlace!
+Ahora mismo tienes [Petti "Il delicato" Passata di Pomodoro Extrafine - 700g](https://www.amazon.it/dp/B01F75APAC/?tag=tolees00-21) a 0.73 EUR (original: 1.29 EUR) (43.41 %  de descuento) en el siguiente enlace!
 
 [![Petti "Il delicato" Passata di Pomodoro ](https://m.media-amazon.com/images/I/41L6BMRh+DL._SL200_.jpg)](https://www.amazon.it/dp/B01F75APAC/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01F75APAC/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B01F75APAC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
