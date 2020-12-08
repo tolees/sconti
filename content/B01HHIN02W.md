@@ -16,10 +16,10 @@ inStock: true
 
 Está [Lo Squalo 3](https://www.amazon.it/dp/B01HHIN02W/?tag=tolees00-21) con 43.83 de descuento por 7.19 EUR (original: 12.8 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51II0FrwqvL._SL200_.jpg)](https://www.amazon.it/dp/B01HHIN02W/?tag=tolees00-21)
+[![Lo Squalo 3](https://m.media-amazon.com/images/I/51II0FrwqvL._SL200_.jpg)](https://www.amazon.it/dp/B01HHIN02W/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01HHIN02W/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

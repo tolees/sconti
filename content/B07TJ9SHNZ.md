@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Levi s The Jacket Giacca  Blu  Pale Shade Indigo Stretch Trucker 0468   X-Small Uomo](https://www.amazon.it/dp/B07TJ9SHNZ/?tag=tolees00-21) a 50.98 EUR (original: 120.0 EUR) (57.52 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41iybT-KIoL._SL200_.jpg)](https://www.amazon.it/dp/B07TJ9SHNZ/?tag=tolees00-21)
+[![Levi s The Jacket Giacca  Blu  Pale Shad](https://m.media-amazon.com/images/I/41iybT-KIoL._SL200_.jpg)](https://www.amazon.it/dp/B07TJ9SHNZ/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B07TJ9SHNZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

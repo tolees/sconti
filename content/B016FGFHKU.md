@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Philips Lighting Burlap Lampada Faretti a Spirale 4 Luci Orientabili Senza Lampadina  Cromato  4 x 40 W](https://www.amazon.it/dp/B016FGFHKU/?tag=tolees00-21) con un 25.04 % de descuento con precio de oferta de 29.99 EUR (original: 40.01 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/213tZnlwvrL._SL200_.jpg)](https://www.amazon.it/dp/B016FGFHKU/?tag=tolees00-21)
+[![Philips Lighting Burlap Lampada Faretti ](https://m.media-amazon.com/images/I/213tZnlwvrL._SL200_.jpg)](https://www.amazon.it/dp/B016FGFHKU/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B016FGFHKU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

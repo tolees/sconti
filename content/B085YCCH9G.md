@@ -16,10 +16,10 @@ inStock: true
 
 Está [YAMAMAY® Abito Donna Aderente con Scollo Morbido e Inserti in Lurex - Party](https://www.amazon.it/dp/B085YCCH9G/?tag=tolees00-21) con 61.74 de descuento por 19.11 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41RWLeF21iL._SL200_.jpg)](https://www.amazon.it/dp/B085YCCH9G/?tag=tolees00-21)
+[![YAMAMAY® Abito Donna Aderente con Scollo](https://m.media-amazon.com/images/I/41RWLeF21iL._SL200_.jpg)](https://www.amazon.it/dp/B085YCCH9G/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085YCCH9G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

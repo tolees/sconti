@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [goldenpoint Slip Fianco Basso Intimo Donna in Pizzo e Tulle](https://www.amazon.it/dp/B08FDN8RKQ/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 4.55 EUR (original: 6.5 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41lPR2toaPL._SL200_.jpg)](https://www.amazon.it/dp/B08FDN8RKQ/?tag=tolees00-21)
+[![goldenpoint Slip Fianco Basso Intimo Don](https://m.media-amazon.com/images/I/41lPR2toaPL._SL200_.jpg)](https://www.amazon.it/dp/B08FDN8RKQ/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08FDN8RKQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Superdry Donna T-Shirt Floccata Sporty Ochre 40](https://www.amazon.it/dp/B083ZTK9KN/?tag=tolees00-21) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41KvMg3sIjL._SL200_.jpg)](https://www.amazon.it/dp/B083ZTK9KN/?tag=tolees00-21)
+[![Superdry Donna T-Shirt Floccata Sporty O](https://m.media-amazon.com/images/I/41KvMg3sIjL._SL200_.jpg)](https://www.amazon.it/dp/B083ZTK9KN/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B083ZTK9KN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

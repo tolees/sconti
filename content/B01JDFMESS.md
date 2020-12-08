@@ -16,10 +16,10 @@ inStock: true
 
 Está [Candy CMXG25DCS Microonde con grill e app Cook-in  25 litri  51x31x43cm  colore Acciaio](https://www.amazon.it/dp/B01JDFMESS/?tag=tolees00-21) con 29.83 de descuento por 79.99 EUR (original: 113.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/411q3oNISZL._SL200_.jpg)](https://www.amazon.it/dp/B01JDFMESS/?tag=tolees00-21)
+[![Candy CMXG25DCS Microonde con grill e ap](https://m.media-amazon.com/images/I/411q3oNISZL._SL200_.jpg)](https://www.amazon.it/dp/B01JDFMESS/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01JDFMESS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

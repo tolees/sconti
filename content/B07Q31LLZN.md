@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Fossil Collana di Perle Donna Acciaio Inossidabile JF03143040](https://www.amazon.it/dp/B07Q31LLZN/?tag=tolees00-21) a 19.0 EUR (original: 49.0 EUR) (61.22 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31cFuO1ttzL._SL200_.jpg)](https://www.amazon.it/dp/B07Q31LLZN/?tag=tolees00-21)
+[![Fossil Collana di Perle Donna Acciaio In](https://m.media-amazon.com/images/I/31cFuO1ttzL._SL200_.jpg)](https://www.amazon.it/dp/B07Q31LLZN/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B07Q31LLZN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -16,10 +16,10 @@ inStock: true
 
 Está [PlayStation 4 - Dualshock 4 Controller Wireless V2  Rosso  Magma Red ](https://www.amazon.it/dp/B01M4KLNE6/?tag=tolees00-21) con 46.32 de descuento por 39.99 EUR (original: 74.5 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31YjhFzCyuL._SL200_.jpg)](https://www.amazon.it/dp/B01M4KLNE6/?tag=tolees00-21)
+[![PlayStation 4 - Dualshock 4 Controller W](https://m.media-amazon.com/images/I/31YjhFzCyuL._SL200_.jpg)](https://www.amazon.it/dp/B01M4KLNE6/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01M4KLNE6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

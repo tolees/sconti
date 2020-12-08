@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Mulino Bianco Biscotti Frollini Campagnole  Colazione Ricca di Gusto  700g](https://www.amazon.it/dp/B009SJ7LPG/?tag=tolees00-21) a 2.57 EUR (original: 3.46 EUR) (25.72 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51muDSrcSUL._SL200_.jpg)](https://www.amazon.it/dp/B009SJ7LPG/?tag=tolees00-21)
+[![Mulino Bianco Biscotti Frollini Campagno](https://m.media-amazon.com/images/I/51muDSrcSUL._SL200_.jpg)](https://www.amazon.it/dp/B009SJ7LPG/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B009SJ7LPG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Matrix Massa Totale Mass Gainer di THE PROTEIN WORKS | Frullato di Proteine in Polvere per Fare Massa  Alto Contenuto Calorie  Proteine  Carboidrati e TCM | Panna & Fragole | 2kg](https://www.amazon.it/dp/B00LESYNFK/?tag=tolees00-21) a 20.82 EUR (original: 32.99 EUR) (36.89 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41yRwyEk5UL._SL200_.jpg)](https://www.amazon.it/dp/B00LESYNFK/?tag=tolees00-21)
+[![Matrix Massa Totale Mass Gainer di THE P](https://m.media-amazon.com/images/I/41yRwyEk5UL._SL200_.jpg)](https://www.amazon.it/dp/B00LESYNFK/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B00LESYNFK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

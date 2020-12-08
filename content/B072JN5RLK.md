@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Crocs Isabella Huarache 2 Flat W  Ballerine Punta Aperta Donna  Nero  Black/Black 060   42/43 EU](https://www.amazon.it/dp/B072JN5RLK/?tag=tolees00-21) a 7.49 EUR (original: 64.9 EUR) (88.46 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41tvcBLVELL._SL200_.jpg)](https://www.amazon.it/dp/B072JN5RLK/?tag=tolees00-21)
+[![Crocs Isabella Huarache 2 Flat W  Baller](https://m.media-amazon.com/images/I/41tvcBLVELL._SL200_.jpg)](https://www.amazon.it/dp/B072JN5RLK/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B072JN5RLK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

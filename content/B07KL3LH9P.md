@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Adidas Must Haves Badge of Sport Tee  T-Shirts Uomo  Black/White  L](https://www.amazon.it/dp/B07KL3LH9P/?tag=tolees00-21) con un 55.76 % de descuento con precio de oferta de 11.48 EUR (original: 25.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41UeLqjyliL._SL200_.jpg)](https://www.amazon.it/dp/B07KL3LH9P/?tag=tolees00-21)
+[![Adidas Must Haves Badge of Sport Tee  T-](https://m.media-amazon.com/images/I/41UeLqjyliL._SL200_.jpg)](https://www.amazon.it/dp/B07KL3LH9P/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KL3LH9P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

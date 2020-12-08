@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Levi s 501 Crop Jeans  Black Heart  29W / 30L Donna](https://www.amazon.it/dp/B07KF5L6HN/?tag=tolees00-21) con un 36.83 % de descuento con precio de oferta de 69.49 EUR (original: 110.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31G1PNRHGGL._SL200_.jpg)](https://www.amazon.it/dp/B07KF5L6HN/?tag=tolees00-21)
+[![Levi s 501 Crop Jeans  Black Heart  29W ](https://m.media-amazon.com/images/I/31G1PNRHGGL._SL200_.jpg)](https://www.amazon.it/dp/B07KF5L6HN/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KF5L6HN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [UGG Female Classic Short II Classic Boot  Grey  6  UK ](https://www.amazon.it/dp/B01AIHYVN6/?tag=tolees00-21) a 149.99 EUR (original: 218.0 EUR) (31.20 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51rGyfzjFrL._SL200_.jpg)](https://www.amazon.it/dp/B01AIHYVN6/?tag=tolees00-21)
+[![UGG Female Classic Short II Classic Boot](https://m.media-amazon.com/images/I/51rGyfzjFrL._SL200_.jpg)](https://www.amazon.it/dp/B01AIHYVN6/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B01AIHYVN6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Salvatore Ferragamo 53343 Acqua di Colonia](https://www.amazon.it/dp/B00DH99SGI/?tag=tolees00-21) a 33.5 EUR (original: 49.42 EUR) (32.21 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41g3W62AikL._SL200_.jpg)](https://www.amazon.it/dp/B00DH99SGI/?tag=tolees00-21)
+[![Salvatore Ferragamo 53343 Acqua di Colon](https://m.media-amazon.com/images/I/41g3W62AikL._SL200_.jpg)](https://www.amazon.it/dp/B00DH99SGI/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B00DH99SGI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

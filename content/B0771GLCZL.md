@@ -16,10 +16,10 @@ inStock: true
 
 Está [Eastpak Tranverz S Valigia  51 Cm  42 L  Grigio  Black Denim ](https://www.amazon.it/dp/B0771GLCZL/?tag=tolees00-21) con 55.31 de descuento por 58.1 EUR (original: 130.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41dJx+zr6NL._SL200_.jpg)](https://www.amazon.it/dp/B0771GLCZL/?tag=tolees00-21)
+[![Eastpak Tranverz S Valigia  51 Cm  42 L ](https://m.media-amazon.com/images/I/41dJx+zr6NL._SL200_.jpg)](https://www.amazon.it/dp/B0771GLCZL/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0771GLCZL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

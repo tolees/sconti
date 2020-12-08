@@ -16,10 +16,10 @@ inStock: true
 
 Está [Acutil Fosforo Advance - 50 compresse da 250 mg  Totale: 12.50 g](https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21) con 37.17 de descuento por 9.99 EUR (original: 15.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41c6fCjCxpL._SL200_.jpg)](https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21)
+[![Acutil Fosforo Advance - 50 compresse da](https://m.media-amazon.com/images/I/41c6fCjCxpL._SL200_.jpg)](https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

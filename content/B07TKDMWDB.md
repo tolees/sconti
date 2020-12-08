@@ -14,12 +14,12 @@ comparePrice: 50.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Original Batwing Maglietta  Bianco  HM Patch Polo White + 0000   Small Uomo](https://www.amazon.it/dp/B07TKDMWDB/?tag=tolees00-21) a 25.0 EUR (original: 50.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Levi s Original Batwing Maglietta  Bianco  HM Patch Polo White + 0000   Small Uomo](https://www.amazon.it/dp/B07TKDMWDB/?tag=tolees00-21) con 50.00 de descuento por 25.0 EUR (original: 50.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31dILJsFibL._SL200_.jpg)](https://www.amazon.it/dp/B07TKDMWDB/?tag=tolees00-21)
+[![Levi s Original Batwing Maglietta  Bianc](https://m.media-amazon.com/images/I/31dILJsFibL._SL200_.jpg)](https://www.amazon.it/dp/B07TKDMWDB/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07TKDMWDB/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07TKDMWDB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

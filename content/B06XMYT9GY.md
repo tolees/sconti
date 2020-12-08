@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [PHILIP WATCH Orologio Analogico Automatico Donna con Cinturino in Pelle R8221596501](https://www.amazon.it/dp/B06XMYT9GY/?tag=tolees00-21) a 240.0 EUR (original: 690.0 EUR) (65.22 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41aXljfDurL._SL200_.jpg)](https://www.amazon.it/dp/B06XMYT9GY/?tag=tolees00-21)
+[![PHILIP WATCH Orologio Analogico Automati](https://m.media-amazon.com/images/I/41aXljfDurL._SL200_.jpg)](https://www.amazon.it/dp/B06XMYT9GY/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B06XMYT9GY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

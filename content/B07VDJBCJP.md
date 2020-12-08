@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Desigual Vest atenas Vestito  Blu  Azul Dali 5054   42  Taglia Produttore: 36  Donna](https://www.amazon.it/dp/B07VDJBCJP/?tag=tolees00-21) a 46.52 EUR (original: 109.95 EUR) (57.69 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51y3fgE95KL._SL200_.jpg)](https://www.amazon.it/dp/B07VDJBCJP/?tag=tolees00-21)
+[![Desigual Vest atenas Vestito  Blu  Azul ](https://m.media-amazon.com/images/I/51y3fgE95KL._SL200_.jpg)](https://www.amazon.it/dp/B07VDJBCJP/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B07VDJBCJP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

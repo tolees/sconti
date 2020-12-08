@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [find. Scarpe Derby Uomo  Nero  Black   39/40 EU](https://www.amazon.it/dp/B06XGGCKLK/?tag=tolees00-21) a 27.74 EUR (original: 47.32 EUR) (41.38 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41v-qGvIpQL._SL200_.jpg)](https://www.amazon.it/dp/B06XGGCKLK/?tag=tolees00-21)
+[![find. Scarpe Derby Uomo  Nero  Black   3](https://m.media-amazon.com/images/I/41v-qGvIpQL._SL200_.jpg)](https://www.amazon.it/dp/B06XGGCKLK/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B06XGGCKLK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

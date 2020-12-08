@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Final Fantasy VII Remake - Standard - PlayStation 4](https://www.amazon.it/dp/B06ZY9MG8J/?tag=tolees00-21) a 34.99 EUR (original: 54.99 EUR) (36.37 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51vrdb9vVIL._SL200_.jpg)](https://www.amazon.it/dp/B06ZY9MG8J/?tag=tolees00-21)
+[![Final Fantasy VII Remake - Standard - Pl](https://m.media-amazon.com/images/I/51vrdb9vVIL._SL200_.jpg)](https://www.amazon.it/dp/B06ZY9MG8J/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B06ZY9MG8J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

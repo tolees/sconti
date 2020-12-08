@@ -16,10 +16,10 @@ inStock: true
 
 Está [Funko- Pop Vinile Hellboy S1 Rasputin  9 cm  22720](https://www.amazon.it/dp/B071KFZFY9/?tag=tolees00-21) con 44.96 de descuento por 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41+BC2zoY+L._SL200_.jpg)](https://www.amazon.it/dp/B071KFZFY9/?tag=tolees00-21)
+[![Funko- Pop Vinile Hellboy S1 Rasputin  9](https://m.media-amazon.com/images/I/41+BC2zoY+L._SL200_.jpg)](https://www.amazon.it/dp/B071KFZFY9/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B071KFZFY9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

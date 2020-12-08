@@ -16,10 +16,10 @@ inStock: true
 
 Está [Maybelline New York Mascara Ciglia Sensazionali  Volumizzante  Effetto Ventaglio sulle Ciglia  Luscious  Confezione da 1](https://www.amazon.it/dp/B01E3ETMUW/?tag=tolees00-21) con 32.39 de descuento por 7.43 EUR (original: 10.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31akYcnm1PL._SL200_.jpg)](https://www.amazon.it/dp/B01E3ETMUW/?tag=tolees00-21)
+[![Maybelline New York Mascara Ciglia Sensa](https://m.media-amazon.com/images/I/31akYcnm1PL._SL200_.jpg)](https://www.amazon.it/dp/B01E3ETMUW/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01E3ETMUW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

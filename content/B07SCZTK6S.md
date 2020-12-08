@@ -16,10 +16,10 @@ inStock: true
 
 Está [PUMA Ralph Sampson Lo Vintage  Scarpe da Ginnastica Unisex Adulto  Bianco White-Dazzling Blue-High Risk Red  46 EU](https://www.amazon.it/dp/B07SCZTK6S/?tag=tolees00-21) con 44.98 de descuento por 43.99 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41i38ScTf0L._SL200_.jpg)](https://www.amazon.it/dp/B07SCZTK6S/?tag=tolees00-21)
+[![PUMA Ralph Sampson Lo Vintage  Scarpe da](https://m.media-amazon.com/images/I/41i38ScTf0L._SL200_.jpg)](https://www.amazon.it/dp/B07SCZTK6S/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07SCZTK6S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

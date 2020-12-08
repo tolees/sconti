@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Clarks Nature Three 20340682  Scarpe stringate basse uomo  Marron  Mahogany Leather   45](https://www.amazon.it/dp/B002SNAYCG/?tag=tolees00-21) a 52.16 EUR (original: 130.0 EUR) (59.88 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41tvR6rl2BL._SL200_.jpg)](https://www.amazon.it/dp/B002SNAYCG/?tag=tolees00-21)
+[![Clarks Nature Three 20340682  Scarpe str](https://m.media-amazon.com/images/I/41tvR6rl2BL._SL200_.jpg)](https://www.amazon.it/dp/B002SNAYCG/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B002SNAYCG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

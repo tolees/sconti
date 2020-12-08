@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Birkenstock Arizona  Sandali a Punta Aperta Donna  Nero  Washed Metallic Black Washed Metallic Black   37 EU](https://www.amazon.it/dp/B07MYLX9WZ/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 45.0 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41RebqgF3CL._SL200_.jpg)](https://www.amazon.it/dp/B07MYLX9WZ/?tag=tolees00-21)
+[![Birkenstock Arizona  Sandali a Punta Ape](https://m.media-amazon.com/images/I/41RebqgF3CL._SL200_.jpg)](https://www.amazon.it/dp/B07MYLX9WZ/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07MYLX9WZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

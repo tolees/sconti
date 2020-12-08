@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Saucony Shadow Original Vintage  Scarpe da Ginnastica Basse Uomo  Blu  Nvy/Wht 3   46.5 EU](https://www.amazon.it/dp/B07DR5XDX8/?tag=tolees00-21) con un 28.49 % de descuento con precio de oferta de 70.0 EUR (original: 97.89 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/417W0FrjcPL._SL200_.jpg)](https://www.amazon.it/dp/B07DR5XDX8/?tag=tolees00-21)
+[![Saucony Shadow Original Vintage  Scarpe ](https://m.media-amazon.com/images/I/417W0FrjcPL._SL200_.jpg)](https://www.amazon.it/dp/B07DR5XDX8/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DR5XDX8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

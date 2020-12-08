@@ -16,10 +16,10 @@ inStock: true
 
 Está [Nutella - Crema da spalmare alle nocciole e al cacao  64 mini vasetti da 25 g ognuno](https://www.amazon.it/dp/B07JHKLYXC/?tag=tolees00-21) con 30.01 de descuento por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31ZD+HWfmPL._SL200_.jpg)](https://www.amazon.it/dp/B07JHKLYXC/?tag=tolees00-21)
+[![Nutella - Crema da spalmare alle nocciol](https://m.media-amazon.com/images/I/31ZD+HWfmPL._SL200_.jpg)](https://www.amazon.it/dp/B07JHKLYXC/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07JHKLYXC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

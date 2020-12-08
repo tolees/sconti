@@ -16,10 +16,10 @@ inStock: true
 
 Está [Kitchen Craft KCMCTORCH2 Torcia Cucina Professionale  Rame  Argento/Nero/Rosso](https://www.amazon.it/dp/B007NIVYHA/?tag=tolees00-21) con 26.12 de descuento por 16.49 EUR (original: 22.32 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41DX3kLRu1L._SL200_.jpg)](https://www.amazon.it/dp/B007NIVYHA/?tag=tolees00-21)
+[![Kitchen Craft KCMCTORCH2 Torcia Cucina P](https://m.media-amazon.com/images/I/41DX3kLRu1L._SL200_.jpg)](https://www.amazon.it/dp/B007NIVYHA/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B007NIVYHA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Grigio Light Grey Canvas  50 EU](https://www.amazon.it/dp/B07F1ZQQND/?tag=tolees00-21) con un 44.63 % de descuento con precio de oferta de 35.99 EUR (original: 65.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31cQ6cLXsnL._SL200_.jpg)](https://www.amazon.it/dp/B07F1ZQQND/?tag=tolees00-21)
+[![Timberland Union Wharf Lace Oxford  Snea](https://m.media-amazon.com/images/I/31cQ6cLXsnL._SL200_.jpg)](https://www.amazon.it/dp/B07F1ZQQND/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07F1ZQQND/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

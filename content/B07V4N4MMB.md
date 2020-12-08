@@ -16,10 +16,10 @@ inStock: true
 
 Está [Tommy Hilfiger Rope Sole S M  Mocassini Uomo  Rosso  RWB 0kp   40 EU](https://www.amazon.it/dp/B07V4N4MMB/?tag=tolees00-21) con 75.19 de descuento por 13.62 EUR (original: 54.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31KV+MK0n3L._SL200_.jpg)](https://www.amazon.it/dp/B07V4N4MMB/?tag=tolees00-21)
+[![Tommy Hilfiger Rope Sole S M  Mocassini ](https://m.media-amazon.com/images/I/31KV+MK0n3L._SL200_.jpg)](https://www.amazon.it/dp/B07V4N4MMB/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07V4N4MMB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

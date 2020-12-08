@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Lacoste PH4012  T-shirt Polo Uomo  Blu  Marine   XX-Large  Taglia Produttore: 7 ](https://www.amazon.it/dp/B00Y4XVOO0/?tag=tolees00-21) a 46.85 EUR (original: 95.0 EUR) (50.68 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31f6TJ4hUZL._SL200_.jpg)](https://www.amazon.it/dp/B00Y4XVOO0/?tag=tolees00-21)
+[![Lacoste PH4012  T-shirt Polo Uomo  Blu  ](https://m.media-amazon.com/images/I/31f6TJ4hUZL._SL200_.jpg)](https://www.amazon.it/dp/B00Y4XVOO0/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B00Y4XVOO0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

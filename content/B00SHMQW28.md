@@ -16,10 +16,10 @@ inStock: true
 
 Está [Durex Contatto Comfort Preservativi Sottili ad Alta Sensibilità  12 Profilattici](https://www.amazon.it/dp/B00SHMQW28/?tag=tolees00-21) con 34.97 de descuento por 10.73 EUR (original: 16.5 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51c9tzPtlaL._SL200_.jpg)](https://www.amazon.it/dp/B00SHMQW28/?tag=tolees00-21)
+[![Durex Contatto Comfort Preservativi Sott](https://m.media-amazon.com/images/I/51c9tzPtlaL._SL200_.jpg)](https://www.amazon.it/dp/B00SHMQW28/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00SHMQW28/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

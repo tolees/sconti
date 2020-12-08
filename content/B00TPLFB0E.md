@@ -16,10 +16,10 @@ inStock: true
 
 Está [Listerine Collutorio  Total Care  Menta Pura  6 benefici in 1  1 L](https://www.amazon.it/dp/B00TPLFB0E/?tag=tolees00-21) con 33.38 de descuento por 4.63 EUR (original: 6.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/418ThspH96L._SL200_.jpg)](https://www.amazon.it/dp/B00TPLFB0E/?tag=tolees00-21)
+[![Listerine Collutorio  Total Care  Menta ](https://m.media-amazon.com/images/I/418ThspH96L._SL200_.jpg)](https://www.amazon.it/dp/B00TPLFB0E/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00TPLFB0E/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

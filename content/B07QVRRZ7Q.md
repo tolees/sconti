@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Marvel Avengers endgame bluray  2 Blu Ray ](https://www.amazon.it/dp/B07QVRRZ7Q/?tag=tolees00-21) a 14.98 EUR (original: 21.99 EUR) (31.88 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51HSbDodMJL._SL200_.jpg)](https://www.amazon.it/dp/B07QVRRZ7Q/?tag=tolees00-21)
+[![Marvel Avengers endgame bluray  2 Blu Ra](https://m.media-amazon.com/images/I/51HSbDodMJL._SL200_.jpg)](https://www.amazon.it/dp/B07QVRRZ7Q/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B07QVRRZ7Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

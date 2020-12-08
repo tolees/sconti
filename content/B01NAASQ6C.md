@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Swarovski Pendente Iconic Swan  Multicolore  Placcatura Rodio](https://www.amazon.it/dp/B01NAASQ6C/?tag=tolees00-21) a 42.18 EUR (original: 79.0 EUR) (46.61 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/311p6Jv2vUL._SL200_.jpg)](https://www.amazon.it/dp/B01NAASQ6C/?tag=tolees00-21)
+[![Swarovski Pendente Iconic Swan  Multicol](https://m.media-amazon.com/images/I/311p6Jv2vUL._SL200_.jpg)](https://www.amazon.it/dp/B01NAASQ6C/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B01NAASQ6C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

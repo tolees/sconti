@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Carhartt – Giacca impermeabile da uomo  XX-Large  Black  1](https://www.amazon.it/dp/B00ASKSCUC/?tag=tolees00-21) con un 42.63 % de descuento con precio de oferta de 98.38 EUR (original: 171.47 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41o7PsqGE4L._SL200_.jpg)](https://www.amazon.it/dp/B00ASKSCUC/?tag=tolees00-21)
+[![Carhartt – Giacca impermeabile da uomo  ](https://m.media-amazon.com/images/I/41o7PsqGE4L._SL200_.jpg)](https://www.amazon.it/dp/B00ASKSCUC/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00ASKSCUC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

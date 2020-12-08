@@ -16,10 +16,10 @@ inStock: true
 
 Está [Bvlgari Man in Black Eau de Parfum  Uomo  100 ml](https://www.amazon.it/dp/B00NAVOEJY/?tag=tolees00-21) con 31.31 de descuento por 62.0 EUR (original: 90.26 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41q+++bHQ2L._SL200_.jpg)](https://www.amazon.it/dp/B00NAVOEJY/?tag=tolees00-21)
+[![Bvlgari Man in Black Eau de Parfum  Uomo](https://m.media-amazon.com/images/I/41q+++bHQ2L._SL200_.jpg)](https://www.amazon.it/dp/B00NAVOEJY/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00NAVOEJY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

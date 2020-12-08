@@ -16,10 +16,10 @@ inStock: true
 
 Está [adidas W SL Graph Tee Canottiera Sportiva  Donna  Black  XS](https://www.amazon.it/dp/B081TPFVHS/?tag=tolees00-21) con 72.32 de descuento por 8.29 EUR (original: 29.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31fdwqrTjJL._SL200_.jpg)](https://www.amazon.it/dp/B081TPFVHS/?tag=tolees00-21)
+[![adidas W SL Graph Tee Canottiera Sportiv](https://m.media-amazon.com/images/I/31fdwqrTjJL._SL200_.jpg)](https://www.amazon.it/dp/B081TPFVHS/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B081TPFVHS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

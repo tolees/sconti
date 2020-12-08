@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Adidas Superstar  Scarpe da ginnastica Uomo  nero  Core Black/Ftwr White/Core Black   44 EU](https://www.amazon.it/dp/B0813TTXBP/?tag=tolees00-21) con un 45.98 % de descuento con precio de oferta de 53.99 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41TryvUYsbL._SL200_.jpg)](https://www.amazon.it/dp/B0813TTXBP/?tag=tolees00-21)
+[![Adidas Superstar  Scarpe da ginnastica U](https://m.media-amazon.com/images/I/41TryvUYsbL._SL200_.jpg)](https://www.amazon.it/dp/B0813TTXBP/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0813TTXBP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

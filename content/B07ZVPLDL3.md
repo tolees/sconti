@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Levi s Ex-BF Sherpa Trucker Giacca in Jeans  Rough And Tumble  S Donna](https://www.amazon.it/dp/B07ZVPLDL3/?tag=tolees00-21) con un 29.47 % de descuento con precio de oferta de 60.65 EUR (original: 85.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/519x57IK7PL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVPLDL3/?tag=tolees00-21)
+[![Levi s Ex-BF Sherpa Trucker Giacca in Je](https://m.media-amazon.com/images/I/519x57IK7PL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVPLDL3/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07ZVPLDL3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

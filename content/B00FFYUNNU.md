@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Brabantia Perfume Your Bin Ricariche Profumazione  Flower  Plastica  Rosa  3 Ricariche](https://www.amazon.it/dp/B00FFYUNNU/?tag=tolees00-21) a 4.9 EUR (original: 9.8 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41wvseQOuyL._SL200_.jpg)](https://www.amazon.it/dp/B00FFYUNNU/?tag=tolees00-21)
+[![Brabantia Perfume Your Bin Ricariche Pro](https://m.media-amazon.com/images/I/41wvseQOuyL._SL200_.jpg)](https://www.amazon.it/dp/B00FFYUNNU/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B00FFYUNNU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

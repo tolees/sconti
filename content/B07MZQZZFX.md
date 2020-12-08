@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Vans Doheny  Scarpe da Ginnastica Uomo  Checkerboard Black Pewter Eo0  45 EU](https://www.amazon.it/dp/B07MZQZZFX/?tag=tolees00-21) a 38.16 EUR (original: 55.0 EUR) (30.62 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41h9RuSvfcL._SL200_.jpg)](https://www.amazon.it/dp/B07MZQZZFX/?tag=tolees00-21)
+[![Vans Doheny  Scarpe da Ginnastica Uomo  ](https://m.media-amazon.com/images/I/41h9RuSvfcL._SL200_.jpg)](https://www.amazon.it/dp/B07MZQZZFX/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B07MZQZZFX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

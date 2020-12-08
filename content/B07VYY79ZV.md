@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Ultima Cibo per Cani Mini Adulti con Pollo  Pack 4 x 1 5kg](https://www.amazon.it/dp/B07VYY79ZV/?tag=tolees00-21) a 14.93 EUR (original: 23.83 EUR) (37.35 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51gQHV9TgcL._SL200_.jpg)](https://www.amazon.it/dp/B07VYY79ZV/?tag=tolees00-21)
+[![Ultima Cibo per Cani Mini Adulti con Pol](https://m.media-amazon.com/images/I/51gQHV9TgcL._SL200_.jpg)](https://www.amazon.it/dp/B07VYY79ZV/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B07VYY79ZV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

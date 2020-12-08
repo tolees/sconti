@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [REXEL Auto+ 60X Distruggidocumenti - 2103060EU  fino a 60 fogli per volta  80 gsm  o 100 fogli  70 gsm ](https://www.amazon.it/dp/B006CV1CVW/?tag=tolees00-21) a 156.59 EUR (original: 220.75 EUR) (29.06 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31XK9s8d0SL._SL200_.jpg)](https://www.amazon.it/dp/B006CV1CVW/?tag=tolees00-21)
+[![REXEL Auto+ 60X Distruggidocumenti - 210](https://m.media-amazon.com/images/I/31XK9s8d0SL._SL200_.jpg)](https://www.amazon.it/dp/B006CV1CVW/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B006CV1CVW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

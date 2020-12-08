@@ -16,10 +16,10 @@ inStock: true
 
 Está [SALEWA Alp Trainer Mid Gtx  Scarpe da Arrampicata Alta Uomo  Blu/Verde  Dark Denim/Cactus 0361   43 EU](https://www.amazon.it/dp/B01HZ6CLEY/?tag=tolees00-21) con 52.53 de descuento por 90.19 EUR (original: 190.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/4128ZWFULJL._SL200_.jpg)](https://www.amazon.it/dp/B01HZ6CLEY/?tag=tolees00-21)
+[![SALEWA Alp Trainer Mid Gtx  Scarpe da Ar](https://m.media-amazon.com/images/I/4128ZWFULJL._SL200_.jpg)](https://www.amazon.it/dp/B01HZ6CLEY/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01HZ6CLEY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

@@ -16,10 +16,10 @@ inStock: true
 
 Está [Levi s 501 Original Fit Jeans  Blu Stonewash  33W / 32L Uomo](https://www.amazon.it/dp/B001QOE5EG/?tag=tolees00-21) con 37.79 de descuento por 55.99 EUR (original: 90.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/4185bbHF7-L._SL200_.jpg)](https://www.amazon.it/dp/B001QOE5EG/?tag=tolees00-21)
+[![Levi s 501 Original Fit Jeans  Blu Stone](https://m.media-amazon.com/images/I/4185bbHF7-L._SL200_.jpg)](https://www.amazon.it/dp/B001QOE5EG/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B001QOE5EG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

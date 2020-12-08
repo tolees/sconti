@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Kellogg s Corn Flakes Originali  375g](https://www.amazon.it/dp/B00BPANBTG/?tag=tolees00-21) a 1.25 EUR (original: 1.89 EUR) (33.86 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51uXtQ-vOZL._SL200_.jpg)](https://www.amazon.it/dp/B00BPANBTG/?tag=tolees00-21)
+[![Kellogg s Corn Flakes Originali  375g](https://m.media-amazon.com/images/I/51uXtQ-vOZL._SL200_.jpg)](https://www.amazon.it/dp/B00BPANBTG/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B00BPANBTG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

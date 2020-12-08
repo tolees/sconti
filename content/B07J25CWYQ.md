@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [HUGO Orologio Analogico Quarzo Uomo con Cinturino in Pelle 1530029](https://www.amazon.it/dp/B07J25CWYQ/?tag=tolees00-21) a 93.05 EUR (original: 129.0 EUR) (27.87 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41aAcmcRaRL._SL200_.jpg)](https://www.amazon.it/dp/B07J25CWYQ/?tag=tolees00-21)
+[![HUGO Orologio Analogico Quarzo Uomo con ](https://m.media-amazon.com/images/I/41aAcmcRaRL._SL200_.jpg)](https://www.amazon.it/dp/B07J25CWYQ/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B07J25CWYQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

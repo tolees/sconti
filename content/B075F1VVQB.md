@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Trust Mouse Gaming GXT 138 X-Ray  Sensore Ottico 4000 DPI  10 Pulsanti Programmabili  Illuminazione RGB Personalizzabile  Nero](https://www.amazon.it/dp/B075F1VVQB/?tag=tolees00-21) con un 32.34 % de descuento con precio de oferta de 19.5 EUR (original: 28.82 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41vbiY0ZBgL._SL200_.jpg)](https://www.amazon.it/dp/B075F1VVQB/?tag=tolees00-21)
+[![Trust Mouse Gaming GXT 138 X-Ray  Sensor](https://m.media-amazon.com/images/I/41vbiY0ZBgL._SL200_.jpg)](https://www.amazon.it/dp/B075F1VVQB/?tag=tolees00-21)
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B075F1VVQB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

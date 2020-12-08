@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Super Smash Bros. Ultimate - Nintendo Switch - Nintendo Switch [Edizione: Spagna]](https://www.amazon.it/dp/B07BDYT58L/?tag=tolees00-21) a 42.82 EUR (original: 58.09 EUR) (26.29 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61S9ecasK2L._SL200_.jpg)](https://www.amazon.it/dp/B07BDYT58L/?tag=tolees00-21)
+[![Super Smash Bros. Ultimate - Nintendo Sw](https://m.media-amazon.com/images/I/61S9ecasK2L._SL200_.jpg)](https://www.amazon.it/dp/B07BDYT58L/?tag=tolees00-21)
 
 [Visítala!!!](https://www.amazon.it/dp/B07BDYT58L/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

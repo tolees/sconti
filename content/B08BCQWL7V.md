@@ -16,10 +16,10 @@ inStock: true
 
 Está [Levi s Graphic Boxy Tee T-Shirt  Snoopy Torch Runner White +  S Donna](https://www.amazon.it/dp/B08BCQWL7V/?tag=tolees00-21) con 50.00 de descuento por 15.0 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41rSfmWpanL._SL200_.jpg)](https://www.amazon.it/dp/B08BCQWL7V/?tag=tolees00-21)
+[![Levi s Graphic Boxy Tee T-Shirt  Snoopy ](https://m.media-amazon.com/images/I/41rSfmWpanL._SL200_.jpg)](https://www.amazon.it/dp/B08BCQWL7V/?tag=tolees00-21)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08BCQWL7V/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+
