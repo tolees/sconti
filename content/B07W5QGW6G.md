@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.46 % en LEGO Technic Camion da Gara Trasformabil'
-date: 2020-11-28 15:05:47
+date: 2020-12-08 02:28:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IHLRV8ZgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IHLRV8ZgL._SL200_.jpg' ]
 comments: true

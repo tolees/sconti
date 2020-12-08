@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SALEWA WS Wildfire Gore-Tex  Scarpe Trek al 32.95 % de descuento'
-date: 2020-12-07 02:02:01
+date: 2020-12-08 02:43:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qMGX936FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qMGX936FL._SL200_.jpg' ]
 comments: true
