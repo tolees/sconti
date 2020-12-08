@@ -14,10 +14,12 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ravensburger 27597 Gravitrax Starter Kit  8+ Anni  Gioco Logico-Creativo  Gioco STEM](https://www.amazon.it/dp/B07B7HNLMG/?tag=tolees00-21) a 39.9 EUR (original: 69.99 EUR) (42.99 %  de descuento) en el siguiente enlace!
+Está [Ravensburger 27597 Gravitrax Starter Kit  8+ Anni  Gioco Logico-Creativo  Gioco STEM](https://www.amazon.it/dp/B07B7HNLMG/?tag=tolees00-21) con 42.99 de descuento por 39.9 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Ravensburger 27597 Gravitrax Starter Kit](https://m.media-amazon.com/images/I/51lMuGESLwL._SL200_.jpg)](https://www.amazon.it/dp/B07B7HNLMG/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07B7HNLMG/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07B7HNLMG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

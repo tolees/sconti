@@ -14,10 +14,12 @@ comparePrice: 75.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SUPERGA 2578-cotu  Scarpe da Ginnastica Unisex-Adulto  Bianco  White 901   40 EU](https://www.amazon.it/dp/B07TTDCL5T/?tag=tolees00-21) a 18.78 EUR (original: 75.0 EUR) (74.96 %  de descuento) en el siguiente enlace!
+Está [SUPERGA 2578-cotu  Scarpe da Ginnastica Unisex-Adulto  Bianco  White 901   40 EU](https://www.amazon.it/dp/B07TTDCL5T/?tag=tolees00-21) con 74.96 de descuento por 18.78 EUR (original: 75.0 EUR) en el siguiente enlace!
 
 [![SUPERGA 2578-cotu  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/316DXhhWOQL._SL200_.jpg)](https://www.amazon.it/dp/B07TTDCL5T/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07TTDCL5T/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07TTDCL5T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
