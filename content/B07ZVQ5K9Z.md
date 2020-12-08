@@ -14,10 +14,12 @@ comparePrice: 30.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Graphic Crewneck Tee T-Shirt  Ssnl Serif White  M Uomo](https://www.amazon.it/dp/B07ZVQ5K9Z/?tag=tolees00-21) a 18.92 EUR (original: 30.0 EUR) (36.93 %  de descuento) en el siguiente enlace!
+Está [Levi s Graphic Crewneck Tee T-Shirt  Ssnl Serif White  M Uomo](https://www.amazon.it/dp/B07ZVQ5K9Z/?tag=tolees00-21) con 36.93 de descuento por 18.92 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![Levi s Graphic Crewneck Tee T-Shirt  Ssn](https://m.media-amazon.com/images/I/31qmMfJsYrL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVQ5K9Z/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07ZVQ5K9Z/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07ZVQ5K9Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
