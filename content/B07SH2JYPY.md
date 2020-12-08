@@ -14,10 +14,12 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FIFA 20 - Legacy - Nintendo Switch](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21) a 19.98 EUR (original: 49.99 EUR) (60.03 %  de descuento) en el siguiente enlace!
+Está [FIFA 20 - Legacy - Nintendo Switch](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21) con 60.03 de descuento por 19.98 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![FIFA 20 - Legacy - Nintendo Switch](https://m.media-amazon.com/images/I/41YCZzUUqqL._SL200_.jpg)](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
