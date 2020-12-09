@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.23 % en LEGO Disney Frozen II Il Portagioielli d'
-date: 2020-12-08 02:25:24
+date: 2020-12-09 02:35:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/5187mGb+7lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5187mGb+7lL._SL200_.jpg' ]
 comments: true

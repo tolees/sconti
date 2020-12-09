@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming B2176 L Allegro Chirurgo   al 36.05 % de descuento'
-date: 2020-12-07 14:18:22
+date: 2020-12-09 02:34:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/616NY9gHduL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/616NY9gHduL._SL200_.jpg' ]
 comments: true
