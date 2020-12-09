@@ -10,8 +10,11 @@ author: ring
 slug: B013GEUVAA
 description:
 actualPrice: 62.99 EUR
+currency: EUR
+price: 62.99
 comparePrice: 121.99 EUR
 inStock: true
+prodname: Philips AquaTouch S5420/06 Rasoio Elettrico AquaTec Wet & Dry con Lame MultiPrecision Testina Flex 5 Direzioni e Sistema di Protezione della Pelle + Rifinitore Precisione  Impermeabile  Batteria  Blu
 ---
 
 Ahora mismo tienes [Philips AquaTouch S5420/06 Rasoio Elettrico AquaTec Wet & Dry con Lame MultiPrecision Testina Flex 5 Direzioni e Sistema di Protezione della Pelle + Rifinitore Precisione  Impermeabile  Batteria  Blu](https://www.amazon.it/dp/B013GEUVAA/?tag=tolees00-21) a 62.99 EUR (original: 121.99 EUR) (48.36 %  de descuento) en el siguiente enlace!

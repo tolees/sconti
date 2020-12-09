@@ -10,8 +10,11 @@ author: ring
 slug: B08CDNHWSC
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 112.29 EUR
 inStock: true
+prodname: FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Laptop  MacBook. 2TB Nero 
 ---
 
 Ahora mismo tienes [FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Laptop  MacBook. 2TB Nero ](https://www.amazon.it/dp/B08CDNHWSC/?tag=tolees00-21) a 63.99 EUR (original: 112.29 EUR) (43.01 %  de descuento) en el siguiente enlace!

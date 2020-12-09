@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVPFB4X
 description:
 actualPrice: 104.99 EUR
+currency: EUR
+price: 104.99
 comparePrice: 250.0 EUR
 inStock: true
+prodname: Levi s Core Down Mid Lngth Puffer Giacca  Tofu  S Donna
 ---
 
 Ahora mismo tienes [Levi s Core Down Mid Lngth Puffer Giacca  Tofu  S Donna](https://www.amazon.it/dp/B07ZVPFB4X/?tag=tolees00-21) a 104.99 EUR (original: 250.0 EUR) (58.00 %  de descuento) en el siguiente enlace!

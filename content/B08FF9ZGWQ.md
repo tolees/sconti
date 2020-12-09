@@ -10,8 +10,11 @@ author: ring
 slug: B08FF9ZGWQ
 description:
 actualPrice: 8.49 EUR
+currency: EUR
+price: 8.49
 comparePrice: 12.99 EUR
 inStock: true
+prodname: AZ Dentifricio Pro Expert Prevenzione Superiore  Pulizia Denti Completa  4 x 75ml
 ---
 
 Tienes [AZ Dentifricio Pro Expert Prevenzione Superiore  Pulizia Denti Completa  4 x 75ml](https://www.amazon.it/dp/B08FF9ZGWQ/?tag=tolees00-21) con un 34.64 % de descuento con precio de oferta de 8.49 EUR (original: 12.99 EUR) en el siguiente enlace!

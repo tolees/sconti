@@ -10,8 +10,11 @@ author: ring
 slug: B08JHJ49XW
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 17.99 EUR
 inStock: true
+prodname: L Oréal Paris Idea Regalo Donna Natale 2020  Pochette con Mascara Volumizzante Voluminous e Matita Occhi Nera Le Khol
 ---
 
 Está [L Oréal Paris Idea Regalo Donna Natale 2020  Pochette con Mascara Volumizzante Voluminous e Matita Occhi Nera Le Khol](https://www.amazon.it/dp/B08JHJ49XW/?tag=tolees00-21) con 38.91 de descuento por 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!

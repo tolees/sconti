@@ -10,8 +10,11 @@ author: ring
 slug: B004DBFPNE
 description:
 actualPrice: 2.5 EUR
+currency: EUR
+price: 2.5
 comparePrice: 5.11 EUR
 inStock: true
+prodname: BIC Cristal Original Penne A Sfera Punta Media  1 0 mm  Blu  Pacco da 10
 ---
 
 Tienes [BIC Cristal Original Penne A Sfera Punta Media  1 0 mm  Blu  Pacco da 10](https://www.amazon.it/dp/B004DBFPNE/?tag=tolees00-21) con un 51.08 % de descuento con precio de oferta de 2.5 EUR (original: 5.11 EUR) en el siguiente enlace!

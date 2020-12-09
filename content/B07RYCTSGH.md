@@ -10,8 +10,11 @@ author: ring
 slug: B07RYCTSGH
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 80.0 EUR
 inStock: true
+prodname: LIGHTAILING Set di Luci per  Architecture Las Vegas  Modello da Costruire - Kit Luce LED Compatibile con Lego 21047  Non Incluso nel Modello 
 ---
 
 Tienes [LIGHTAILING Set di Luci per  Architecture Las Vegas  Modello da Costruire - Kit Luce LED Compatibile con Lego 21047  Non Incluso nel Modello ](https://www.amazon.it/dp/B07RYCTSGH/?tag=tolees00-21) con un 58.76 % de descuento con precio de oferta de 32.99 EUR (original: 80.0 EUR) en el siguiente enlace!

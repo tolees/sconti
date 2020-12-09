@@ -10,8 +10,11 @@ author: ring
 slug: B07ZDBZDR9
 description:
 actualPrice: 40.99 EUR
+currency: EUR
+price: 40.99
 comparePrice: 62.99 EUR
 inStock: true
+prodname: Kingston KC600 SSD  SKC600/256 G  Interne SSD  2.5" SATA Rev 3.0  3D TLC  Crittografia XTS AES a 256-bit  Solo Drive
 ---
 
 Está [Kingston KC600 SSD  SKC600/256 G  Interne SSD  2.5" SATA Rev 3.0  3D TLC  Crittografia XTS AES a 256-bit  Solo Drive](https://www.amazon.it/dp/B07ZDBZDR9/?tag=tolees00-21) con 34.93 de descuento por 40.99 EUR (original: 62.99 EUR) en el siguiente enlace!

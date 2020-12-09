@@ -10,8 +10,11 @@ author: ring
 slug: B07GZTM9RQ
 description:
 actualPrice: 31.57 EUR
+currency: EUR
+price: 31.57
 comparePrice: 199.0 EUR
 inStock: true
+prodname: HP Tango X Stampante a Colori  Wi-Fi  Multifunzione per Dispositivi Mobile  Stampe  Scansioni e Copie  Utilizzando l app HP Smart  Instant Ink con 2 Mesi di Servizio Inclusi  Bianco
 ---
 
 Está [HP Tango X Stampante a Colori  Wi-Fi  Multifunzione per Dispositivi Mobile  Stampe  Scansioni e Copie  Utilizzando l app HP Smart  Instant Ink con 2 Mesi di Servizio Inclusi  Bianco](https://www.amazon.it/dp/B07GZTM9RQ/?tag=tolees00-21) con 84.14 de descuento por 31.57 EUR (original: 199.0 EUR) en el siguiente enlace!

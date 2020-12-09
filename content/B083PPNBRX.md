@@ -10,8 +10,11 @@ author: ring
 slug: B083PPNBRX
 description:
 actualPrice: 15.98 EUR
+currency: EUR
+price: 15.98
 comparePrice: 21.98 EUR
 inStock: true
+prodname: DERCLIVE Dispenser di Sapone da 350 Ml Contenitori Automatici a Parete per Disinfettante per Mani da Bagno in Cucina con Shampoo
 ---
 
 Está [DERCLIVE Dispenser di Sapone da 350 Ml Contenitori Automatici a Parete per Disinfettante per Mani da Bagno in Cucina con Shampoo](https://www.amazon.it/dp/B083PPNBRX/?tag=tolees00-21) con 27.30 de descuento por 15.98 EUR (original: 21.98 EUR) en el siguiente enlace!

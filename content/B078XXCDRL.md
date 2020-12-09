@@ -10,8 +10,11 @@ author: ring
 slug: B078XXCDRL
 description:
 actualPrice: 120.23 EUR
+currency: EUR
+price: 120.23
 comparePrice: 349.0 EUR
 inStock: true
+prodname: Emporio Armani Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox AR11104
 ---
 
 Tienes [Emporio Armani Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox AR11104](https://www.amazon.it/dp/B078XXCDRL/?tag=tolees00-21) con un 65.55 % de descuento con precio de oferta de 120.23 EUR (original: 349.0 EUR) en el siguiente enlace!

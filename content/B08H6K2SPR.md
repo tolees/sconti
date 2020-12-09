@@ -10,8 +10,11 @@ author: ring
 slug: B08H6K2SPR
 description:
 actualPrice: 74.99 EUR
+currency: EUR
+price: 74.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Nuovo Echo  4ª generazione   Antracite + Philips Hue White Lampadina
 ---
 
 Está [Nuovo Echo  4ª generazione   Antracite + Philips Hue White Lampadina](https://www.amazon.it/dp/B08H6K2SPR/?tag=tolees00-21) con 25.00 de descuento por 74.99 EUR (original: 99.99 EUR) en el siguiente enlace!

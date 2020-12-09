@@ -10,8 +10,11 @@ author: ring
 slug: B088P8JSSZ
 description:
 actualPrice: 104.99 EUR
+currency: EUR
+price: 104.99
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Princess 182075 Forno  1800 W  11 Litri  Acciaio Inossidabile  Friggitrice ad Aria Deluxe
 ---
 
 Está [Princess 182075 Forno  1800 W  11 Litri  Acciaio Inossidabile  Friggitrice ad Aria Deluxe](https://www.amazon.it/dp/B088P8JSSZ/?tag=tolees00-21) con 30.00 de descuento por 104.99 EUR (original: 149.99 EUR) en el siguiente enlace!

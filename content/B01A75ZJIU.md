@@ -10,8 +10,11 @@ author: ring
 slug: B01A75ZJIU
 description:
 actualPrice: 7.9 EUR
+currency: EUR
+price: 7.9
 comparePrice: 11.0 EUR
 inStock: true
+prodname: Bios Line Solari Natures Stick Spf50+ - 50 gr
 ---
 
 Está [Bios Line Solari Natures Stick Spf50+ - 50 gr](https://www.amazon.it/dp/B01A75ZJIU/?tag=tolees00-21) con 28.18 de descuento por 7.9 EUR (original: 11.0 EUR) en el siguiente enlace!

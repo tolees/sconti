@@ -10,8 +10,11 @@ author: ring
 slug: B07PBXW3S9
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Philips BHC010/10 DryCare EssentialCare Asciugacapelli Compatto  Potenza 1200 W
 ---
 
 Ahora mismo tienes [Philips BHC010/10 DryCare EssentialCare Asciugacapelli Compatto  Potenza 1200 W](https://www.amazon.it/dp/B07PBXW3S9/?tag=tolees00-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

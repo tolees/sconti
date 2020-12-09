@@ -10,8 +10,11 @@ author: ring
 slug: B07VF7C9HY
 description:
 actualPrice: 21.29 EUR
+currency: EUR
+price: 21.29
 comparePrice: 28.99 EUR
 inStock: true
+prodname: Calvin Klein Trunk 3pk Pantaloncini  Bianco  White/Black/Grey Heather Mp1   Large Uomo
 ---
 
 Tienes [Calvin Klein Trunk 3pk Pantaloncini  Bianco  White/Black/Grey Heather Mp1   Large Uomo](https://www.amazon.it/dp/B07VF7C9HY/?tag=tolees00-21) con un 26.56 % de descuento con precio de oferta de 21.29 EUR (original: 28.99 EUR) en el siguiente enlace!

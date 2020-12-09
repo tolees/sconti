@@ -10,8 +10,11 @@ author: ring
 slug: B07TYFG7CS
 description:
 actualPrice: 10.9 EUR
+currency: EUR
+price: 10.9
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Boss T-Shirt RN 24  Grigio  Medium Grey 32   Small Uomo
 ---
 
 Está [Boss T-Shirt RN 24  Grigio  Medium Grey 32   Small Uomo](https://www.amazon.it/dp/B07TYFG7CS/?tag=tolees00-21) con 63.61 de descuento por 10.9 EUR (original: 29.95 EUR) en el siguiente enlace!

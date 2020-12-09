@@ -10,8 +10,11 @@ author: ring
 slug: B00DH99SGI
 description:
 actualPrice: 33.5 EUR
+currency: EUR
+price: 33.5
 comparePrice: 49.42 EUR
 inStock: true
+prodname: Salvatore Ferragamo 53343 Acqua di Colonia
 ---
 
 Ahora mismo tienes [Salvatore Ferragamo 53343 Acqua di Colonia](https://www.amazon.it/dp/B00DH99SGI/?tag=tolees00-21) a 33.5 EUR (original: 49.42 EUR) (32.21 %  de descuento) en el siguiente enlace!

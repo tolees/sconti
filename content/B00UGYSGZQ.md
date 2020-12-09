@@ -10,8 +10,11 @@ author: ring
 slug: B00UGYSGZQ
 description:
 actualPrice: 13.87 EUR
+currency: EUR
+price: 13.87
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Anself Diffusore di Aromi Umidificatore - 160 ML Diffusore di Olio Essenziale con Lampada 7 Colori LED  Auto Spegnimento Muto
 ---
 
 Tienes [Anself Diffusore di Aromi Umidificatore - 160 ML Diffusore di Olio Essenziale con Lampada 7 Colori LED  Auto Spegnimento Muto](https://www.amazon.it/dp/B00UGYSGZQ/?tag=tolees00-21) con un 46.63 % de descuento con precio de oferta de 13.87 EUR (original: 25.99 EUR) en el siguiente enlace!

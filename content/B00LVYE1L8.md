@@ -10,8 +10,11 @@ author: ring
 slug: B00LVYE1L8
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 58.39 EUR
 inStock: true
+prodname: Giochi Uniti - Eldritch Horror  Set Base  GU193
 ---
 
 Está [Giochi Uniti - Eldritch Horror  Set Base  GU193](https://www.amazon.it/dp/B00LVYE1L8/?tag=tolees00-21) con 33.22 de descuento por 38.99 EUR (original: 58.39 EUR) en el siguiente enlace!

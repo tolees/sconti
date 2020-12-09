@@ -10,8 +10,11 @@ author: ring
 slug: B077XPZS6Q
 description:
 actualPrice: 25.53 EUR
+currency: EUR
+price: 25.53
 comparePrice: 35.95 EUR
 inStock: true
+prodname: Under Armour Charged Cotton Scramble Polo  Uomo  Nero  Black   L
 ---
 
 Está [Under Armour Charged Cotton Scramble Polo  Uomo  Nero  Black   L](https://www.amazon.it/dp/B077XPZS6Q/?tag=tolees00-21) con 28.98 de descuento por 25.53 EUR (original: 35.95 EUR) en el siguiente enlace!

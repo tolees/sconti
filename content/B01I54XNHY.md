@@ -10,8 +10,11 @@ author: ring
 slug: B01I54XNHY
 description:
 actualPrice: 4.97 EUR
+currency: EUR
+price: 4.97
 comparePrice: 6.99 EUR
 inStock: true
+prodname: Scottex Pulito Completo Carta Igienica  Confezione da 12 Rotoli Maxi
 ---
 
 Tienes [Scottex Pulito Completo Carta Igienica  Confezione da 12 Rotoli Maxi](https://www.amazon.it/dp/B01I54XNHY/?tag=tolees00-21) con un 28.90 % de descuento con precio de oferta de 4.97 EUR (original: 6.99 EUR) en el siguiente enlace!

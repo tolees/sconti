@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVRCQTJ
 description:
 actualPrice: 25.0 EUR
+currency: EUR
+price: 25.0
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Levi s S/S Sunset 1 Pkt Standrd Camicia  Garment Dye Ueprint  L Uomo
 ---
 
 Ahora mismo tienes [Levi s S/S Sunset 1 Pkt Standrd Camicia  Garment Dye Ueprint  L Uomo](https://www.amazon.it/dp/B07ZVRCQTJ/?tag=tolees00-21) a 25.0 EUR (original: 50.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

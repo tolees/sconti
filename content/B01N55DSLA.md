@@ -10,8 +10,11 @@ author: ring
 slug: B01N55DSLA
 description:
 actualPrice: 43.36 EUR
+currency: EUR
+price: 43.36
 comparePrice: 89.95 EUR
 inStock: true
+prodname: PUMA Basket Heart Patent Wn s  Scarpe da Ginnastica Donna  Nero Black Black  39 EU
 ---
 
 Tienes [PUMA Basket Heart Patent Wn s  Scarpe da Ginnastica Donna  Nero Black Black  39 EU](https://www.amazon.it/dp/B01N55DSLA/?tag=tolees00-21) con un 51.80 % de descuento con precio de oferta de 43.36 EUR (original: 89.95 EUR) en el siguiente enlace!

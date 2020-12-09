@@ -10,8 +10,11 @@ author: ring
 slug: B009RJLWR0
 description:
 actualPrice: 9.94 EUR
+currency: EUR
+price: 9.94
 comparePrice: 21.1 EUR
 inStock: true
+prodname: Max Factor Facefinity All Day Flawless 3 in 1 Fondotinta Liquido a Lunga Durata 50 Natural  30 ml
 ---
 
 Ahora mismo tienes [Max Factor Facefinity All Day Flawless 3 in 1 Fondotinta Liquido a Lunga Durata 50 Natural  30 ml](https://www.amazon.it/dp/B009RJLWR0/?tag=tolees00-21) a 9.94 EUR (original: 21.1 EUR) (52.89 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07T6LGHYC
 description:
 actualPrice: 8.1 EUR
+currency: EUR
+price: 8.1
 comparePrice: 14.49 EUR
 inStock: true
+prodname: Extrastar Multipresa ciabatta elettrica 6 Posti 10/16A Bipasso Schuko 250V Max:2500W con interruttori indipendenti 1 5MT
 ---
 
 Ahora mismo tienes [Extrastar Multipresa ciabatta elettrica 6 Posti 10/16A Bipasso Schuko 250V Max:2500W con interruttori indipendenti 1 5MT](https://www.amazon.it/dp/B07T6LGHYC/?tag=tolees00-21) a 8.1 EUR (original: 14.49 EUR) (44.10 %  de descuento) en el siguiente enlace!

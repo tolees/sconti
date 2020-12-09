@@ -10,8 +10,11 @@ author: ring
 slug: B008JVQ8RG
 description:
 actualPrice: 140.34 EUR
+currency: EUR
+price: 140.34
 comparePrice: 550.57 EUR
 inStock: true
+prodname: VidaXL 40426 Barbecue Zona cottura Gas 2900W Nero  Acciaio inossidabile barbecue e bistecchiera
 ---
 
 Tienes [VidaXL 40426 Barbecue Zona cottura Gas 2900W Nero  Acciaio inossidabile barbecue e bistecchiera](https://www.amazon.it/dp/B008JVQ8RG/?tag=tolees00-21) con un 74.51 % de descuento con precio de oferta de 140.34 EUR (original: 550.57 EUR) en el siguiente enlace!

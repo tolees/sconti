@@ -10,8 +10,11 @@ author: ring
 slug: B07Y8NWNVB
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: F1 2019 - Xbox One
 ---
 
 Ahora mismo tienes [F1 2019 - Xbox One](https://www.amazon.it/dp/B07Y8NWNVB/?tag=tolees00-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

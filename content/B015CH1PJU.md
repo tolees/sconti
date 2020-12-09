@@ -10,8 +10,11 @@ author: ring
 slug: B015CH1PJU
 description:
 actualPrice: 21.28 EUR
+currency: EUR
+price: 21.28
 comparePrice: 57.99 EUR
 inStock: true
+prodname: Sandisk Ultra Flair 128 GB  Chiavetta USB 3.0  Velocità di Lettura fino a 150 MB/s  Nero
 ---
 
 Tienes [Sandisk Ultra Flair 128 GB  Chiavetta USB 3.0  Velocità di Lettura fino a 150 MB/s  Nero](https://www.amazon.it/dp/B015CH1PJU/?tag=tolees00-21) con un 63.30 % de descuento con precio de oferta de 21.28 EUR (original: 57.99 EUR) en el siguiente enlace!

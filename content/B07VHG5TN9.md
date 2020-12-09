@@ -10,8 +10,11 @@ author: ring
 slug: B07VHG5TN9
 description:
 actualPrice: 17.66 EUR
+currency: EUR
+price: 17.66
 comparePrice: 32.72 EUR
 inStock: true
+prodname: Calvin Klein Trunk 2pk Pantaloncini  Bianco  White with/Black WB Wbe   Large Uomo
 ---
 
 Tienes [Calvin Klein Trunk 2pk Pantaloncini  Bianco  White with/Black WB Wbe   Large Uomo](https://www.amazon.it/dp/B07VHG5TN9/?tag=tolees00-21) con un 46.03 % de descuento con precio de oferta de 17.66 EUR (original: 32.72 EUR) en el siguiente enlace!

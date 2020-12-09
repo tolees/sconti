@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVPJC2Z
 description:
 actualPrice: 35.0 EUR
+currency: EUR
+price: 35.0
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Levi s Zip Up Maglia di Tuta  Charcoal Heather XX  M Uomo
 ---
 
 Tienes [Levi s Zip Up Maglia di Tuta  Charcoal Heather XX  M Uomo](https://www.amazon.it/dp/B07ZVPJC2Z/?tag=tolees00-21) con un 29.99 % de descuento con precio de oferta de 35.0 EUR (original: 49.99 EUR) en el siguiente enlace!

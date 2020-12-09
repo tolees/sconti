@@ -10,8 +10,11 @@ author: ring
 slug: B01MZAUN5E
 description:
 actualPrice: 21.02 EUR
+currency: EUR
+price: 21.02
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Hori Stand di Ricarica per 4 Joy-con - Nintendo Switch
 ---
 
 Tienes [Hori Stand di Ricarica per 4 Joy-con - Nintendo Switch](https://www.amazon.it/dp/B01MZAUN5E/?tag=tolees00-21) con un 29.93 % de descuento con precio de oferta de 21.02 EUR (original: 30.0 EUR) en el siguiente enlace!

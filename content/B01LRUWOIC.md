@@ -10,8 +10,11 @@ author: ring
 slug: B01LRUWOIC
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Hauck Citi Neo II Passeggino a 3 Ruote Leggero  7.5 kg da 0 Mesi a 25 kg  con Porta Bibite e Accessori  Posizione Nanna  Grande Cesto  Tasca nella Cappotta  Pieghevole  Compatto  Nero
 ---
 
 Ahora mismo tienes [Hauck Citi Neo II Passeggino a 3 Ruote Leggero  7.5 kg da 0 Mesi a 25 kg  con Porta Bibite e Accessori  Posizione Nanna  Grande Cesto  Tasca nella Cappotta  Pieghevole  Compatto  Nero](https://www.amazon.it/dp/B01LRUWOIC/?tag=tolees00-21) a 59.99 EUR (original: 89.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

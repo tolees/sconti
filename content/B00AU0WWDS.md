@@ -10,8 +10,11 @@ author: ring
 slug: B00AU0WWDS
 description:
 actualPrice: 98.38 EUR
+currency: EUR
+price: 98.38
 comparePrice: 171.47 EUR
 inStock: true
+prodname: Carhartt – Giacca impermeabile da uomo  L  Black  1
 ---
 
 Ahora mismo tienes [Carhartt – Giacca impermeabile da uomo  L  Black  1](https://www.amazon.it/dp/B00AU0WWDS/?tag=tolees00-21) a 98.38 EUR (original: 171.47 EUR) (42.63 %  de descuento) en el siguiente enlace!

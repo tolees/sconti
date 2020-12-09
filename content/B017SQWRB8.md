@@ -10,8 +10,11 @@ author: ring
 slug: B017SQWRB8
 description:
 actualPrice: 81.98 EUR
+currency: EUR
+price: 81.98
 comparePrice: 119.95 EUR
 inStock: true
+prodname: SALOMON Speedcross 4  Scarpe da Trail Running Uomo  Nero  Black/Black/Black Metallic   41 1/3 EU
 ---
 
 Está [SALOMON Speedcross 4  Scarpe da Trail Running Uomo  Nero  Black/Black/Black Metallic   41 1/3 EU](https://www.amazon.it/dp/B017SQWRB8/?tag=tolees00-21) con 31.65 de descuento por 81.98 EUR (original: 119.95 EUR) en el siguiente enlace!

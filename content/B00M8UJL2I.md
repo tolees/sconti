@@ -10,8 +10,11 @@ author: ring
 slug: B00M8UJL2I
 description:
 actualPrice: 0.69 EUR
+currency: EUR
+price: 0.69
 comparePrice: 1.19 EUR
 inStock: true
+prodname: Vicenzi Millefoglie Glassate  Albicocca - 125 g
 ---
 
 Tienes [Vicenzi Millefoglie Glassate  Albicocca - 125 g](https://www.amazon.it/dp/B00M8UJL2I/?tag=tolees00-21) con un 42.02 % de descuento con precio de oferta de 0.69 EUR (original: 1.19 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07N9HGQPM
 description:
 actualPrice: 32.61 EUR
+currency: EUR
+price: 32.61
 comparePrice: 45.98 EUR
 inStock: true
+prodname: X-Bionic Invent Light Shirt Round Neck Short Sleeve Men  T Uomo  Arctic White/Dolomite Grey  XL
 ---
 
 Tienes [X-Bionic Invent Light Shirt Round Neck Short Sleeve Men  T Uomo  Arctic White/Dolomite Grey  XL](https://www.amazon.it/dp/B07N9HGQPM/?tag=tolees00-21) con un 29.08 % de descuento con precio de oferta de 32.61 EUR (original: 45.98 EUR) en el siguiente enlace!

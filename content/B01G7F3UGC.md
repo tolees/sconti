@@ -10,8 +10,11 @@ author: ring
 slug: B01G7F3UGC
 description:
 actualPrice: 23.34 EUR
+currency: EUR
+price: 23.34
 comparePrice: 31.2 EUR
 inStock: true
+prodname: Red Bull Energy Drink  250 ml  24 Lattine 
 ---
 
 Está [Red Bull Energy Drink  250 ml  24 Lattine ](https://www.amazon.it/dp/B01G7F3UGC/?tag=tolees00-21) con 25.19 de descuento por 23.34 EUR (original: 31.2 EUR) en el siguiente enlace!

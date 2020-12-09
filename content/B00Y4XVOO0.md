@@ -10,8 +10,11 @@ author: ring
 slug: B00Y4XVOO0
 description:
 actualPrice: 46.85 EUR
+currency: EUR
+price: 46.85
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Lacoste PH4012  T-shirt Polo Uomo  Blu  Marine   XX-Large  Taglia Produttore: 7 
 ---
 
 Tienes [Lacoste PH4012  T-shirt Polo Uomo  Blu  Marine   XX-Large  Taglia Produttore: 7 ](https://www.amazon.it/dp/B00Y4XVOO0/?tag=tolees00-21) con un 50.68 % de descuento con precio de oferta de 46.85 EUR (original: 95.0 EUR) en el siguiente enlace!

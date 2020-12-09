@@ -10,8 +10,11 @@ author: ring
 slug: B07JPJY86Q
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas Tiro 19  Maglia da Allenamento Uomo  Bold Blue/Dark Blue/White  M
 ---
 
 Ahora mismo tienes [adidas Tiro 19  Maglia da Allenamento Uomo  Bold Blue/Dark Blue/White  M](https://www.amazon.it/dp/B07JPJY86Q/?tag=tolees00-21) a 24.95 EUR (original: 49.95 EUR) (50.05 %  de descuento) en el siguiente enlace!

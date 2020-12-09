@@ -10,8 +10,11 @@ author: ring
 slug: B07S7QVV6N
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 19.95 EUR
 inStock: true
+prodname: PUMA Epic Flip v2  Scarpe da Spiaggia e Piscina Unisex-Adulto  Blu  Dark Denim-Palace Blue   42 EU
 ---
 
 Tienes [PUMA Epic Flip v2  Scarpe da Spiaggia e Piscina Unisex-Adulto  Blu  Dark Denim-Palace Blue   42 EU](https://www.amazon.it/dp/B07S7QVV6N/?tag=tolees00-21) con un 39.90 % de descuento con precio de oferta de 11.99 EUR (original: 19.95 EUR) en el siguiente enlace!

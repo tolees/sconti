@@ -10,8 +10,11 @@ author: ring
 slug: B07RXB2YX9
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 50.0 EUR
 inStock: true
+prodname: LIGHTAILING Set di Luci per  Architecture Venezia  Modello da Costruire - Kit Luce LED Compatibile con Lego 21026  Non Incluso nel Modello 
 ---
 
 Tienes [LIGHTAILING Set di Luci per  Architecture Venezia  Modello da Costruire - Kit Luce LED Compatibile con Lego 21026  Non Incluso nel Modello ](https://www.amazon.it/dp/B07RXB2YX9/?tag=tolees00-21) con un 34.02 % de descuento con precio de oferta de 32.99 EUR (original: 50.0 EUR) en el siguiente enlace!

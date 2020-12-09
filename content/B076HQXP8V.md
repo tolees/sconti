@@ -10,8 +10,11 @@ author: ring
 slug: B076HQXP8V
 description:
 actualPrice: 28.48 EUR
+currency: EUR
+price: 28.48
 comparePrice: 70.95 EUR
 inStock: true
+prodname: adidas Core18 Rain Jacket  Giacca Sportiva. Uomo  Power Red/White  2XL
 ---
 
 Ahora mismo tienes [adidas Core18 Rain Jacket  Giacca Sportiva. Uomo  Power Red/White  2XL](https://www.amazon.it/dp/B076HQXP8V/?tag=tolees00-21) a 28.48 EUR (original: 70.95 EUR) (59.86 %  de descuento) en el siguiente enlace!

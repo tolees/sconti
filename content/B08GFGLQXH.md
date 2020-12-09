@@ -10,8 +10,11 @@ author: ring
 slug: B08GFGLQXH
 description:
 actualPrice: 8.49 EUR
+currency: EUR
+price: 8.49
 comparePrice: 12.14 EUR
 inStock: true
+prodname: E-Hamii [3 Pezzi Vetro Temperato Infrangibile 9H Compatibile con Sony Xperia 1 II [Cristallo HD Chiaro] Pellicola Salvaschermo da 0 33 mm per Sony Xperia 1 II
 ---
 
 Tienes [E-Hamii [3 Pezzi Vetro Temperato Infrangibile 9H Compatibile con Sony Xperia 1 II [Cristallo HD Chiaro] Pellicola Salvaschermo da 0 33 mm per Sony Xperia 1 II](https://www.amazon.it/dp/B08GFGLQXH/?tag=tolees00-21) con un 30.07 % de descuento con precio de oferta de 8.49 EUR (original: 12.14 EUR) en el siguiente enlace!

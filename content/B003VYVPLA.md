@@ -10,8 +10,11 @@ author: ring
 slug: B003VYVPLA
 description:
 actualPrice: 0.99 EUR
+currency: EUR
+price: 0.99
 comparePrice: 1.39 EUR
 inStock: true
+prodname: Loacker Wafer Napolitaner  175g
 ---
 
 Ahora mismo tienes [Loacker Wafer Napolitaner  175g](https://www.amazon.it/dp/B003VYVPLA/?tag=tolees00-21) a 0.99 EUR (original: 1.39 EUR) (28.78 %  de descuento) en el siguiente enlace!

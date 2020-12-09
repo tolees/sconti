@@ -10,8 +10,11 @@ author: ring
 slug: B07PDHSPXT
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Echo Dot  3ª generazione  - Altoparlante intelligente con integrazione Alexa - Tessuto grigio chiaro
 ---
 
 Tienes [Echo Dot  3ª generazione  - Altoparlante intelligente con integrazione Alexa - Tessuto grigio chiaro](https://www.amazon.it/dp/B07PDHSPXT/?tag=tolees00-21) con un 60.01 % de descuento con precio de oferta de 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QPXS2YN
 description:
 actualPrice: 32.12 EUR
+currency: EUR
+price: 32.12
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Columbia Fast Trek II Giacca in Pile con Chiusura Integrale a Zip  Uomo  Blu  Dark Mountain   S
 ---
 
 Tienes [Columbia Fast Trek II Giacca in Pile con Chiusura Integrale a Zip  Uomo  Blu  Dark Mountain   S](https://www.amazon.it/dp/B07QPXS2YN/?tag=tolees00-21) con un 35.75 % de descuento con precio de oferta de 32.12 EUR (original: 49.99 EUR) en el siguiente enlace!

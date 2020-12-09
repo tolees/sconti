@@ -10,8 +10,11 @@ author: ring
 slug: B084BHMTXS
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 54.52 EUR
 inStock: true
+prodname: Levi s Standard Hoodie Felpa con Cappuccio  Caviar  S Donna
 ---
 
 Tienes [Levi s Standard Hoodie Felpa con Cappuccio  Caviar  S Donna](https://www.amazon.it/dp/B084BHMTXS/?tag=tolees00-21) con un 35.82 % de descuento con precio de oferta de 34.99 EUR (original: 54.52 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01HFWHWZQ
 description:
 actualPrice: 51.89 EUR
+currency: EUR
+price: 51.89
 comparePrice: 73.44 EUR
 inStock: true
+prodname: Geox J Casey Girl N  Scarpe Stringate Basse Brogue  Nero  Black   37 EU
 ---
 
 Ahora mismo tienes [Geox J Casey Girl N  Scarpe Stringate Basse Brogue  Nero  Black   37 EU](https://www.amazon.it/dp/B01HFWHWZQ/?tag=tolees00-21) a 51.89 EUR (original: 73.44 EUR) (29.34 %  de descuento) en el siguiente enlace!

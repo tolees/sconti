@@ -10,8 +10,11 @@ author: ring
 slug: B07GZB4JRV
 description:
 actualPrice: 21.56 EUR
+currency: EUR
+price: 21.56
 comparePrice: 30.26 EUR
 inStock: true
+prodname: Marchio Amazon - MERAKI Blazer Casual Uomo  Nero  Black   48  Label: 38
 ---
 
 Tienes [Marchio Amazon - MERAKI Blazer Casual Uomo  Nero  Black   48  Label: 38](https://www.amazon.it/dp/B07GZB4JRV/?tag=tolees00-21) con un 28.75 % de descuento con precio de oferta de 21.56 EUR (original: 30.26 EUR) en el siguiente enlace!

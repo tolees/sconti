@@ -10,8 +10,11 @@ author: ring
 slug: B009SJ7ISQ
 description:
 actualPrice: 1.89 EUR
+currency: EUR
+price: 1.89
 comparePrice: 2.81 EUR
 inStock: true
+prodname: Mulino Bianco Crostatine con Confettura di Albicocca - Colazione e Snack Dolce per Merenda - 10 Crostatine
 ---
 
 Ahora mismo tienes [Mulino Bianco Crostatine con Confettura di Albicocca - Colazione e Snack Dolce per Merenda - 10 Crostatine](https://www.amazon.it/dp/B009SJ7ISQ/?tag=tolees00-21) a 1.89 EUR (original: 2.81 EUR) (32.74 %  de descuento) en el siguiente enlace!

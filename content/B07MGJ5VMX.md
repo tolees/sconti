@@ -10,8 +10,11 @@ author: ring
 slug: B07MGJ5VMX
 description:
 actualPrice: 29.1 EUR
+currency: EUR
+price: 29.1
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  XL
 ---
 
 Está [Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  XL](https://www.amazon.it/dp/B07MGJ5VMX/?tag=tolees00-21) con 51.50 de descuento por 29.1 EUR (original: 60.0 EUR) en el siguiente enlace!

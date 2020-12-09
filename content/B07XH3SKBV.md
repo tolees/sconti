@@ -10,8 +10,11 @@ author: ring
 slug: B07XH3SKBV
 description:
 actualPrice: 37.86 EUR
+currency: EUR
+price: 37.86
 comparePrice: 50.48 EUR
 inStock: true
+prodname: X-Bionic Invent 4.0 Round Neck Long Sleeves  Strato Base Camicia Funzionale Unisex Bambini  Green Lime/Black  L
 ---
 
 Ahora mismo tienes [X-Bionic Invent 4.0 Round Neck Long Sleeves  Strato Base Camicia Funzionale Unisex Bambini  Green Lime/Black  L](https://www.amazon.it/dp/B07XH3SKBV/?tag=tolees00-21) a 37.86 EUR (original: 50.48 EUR) (25.00 %  de descuento) en el siguiente enlace!

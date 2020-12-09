@@ -10,8 +10,11 @@ author: ring
 slug: B078MQPZY4
 description:
 actualPrice: 35.49 EUR
+currency: EUR
+price: 35.49
 comparePrice: 69.95 EUR
 inStock: true
+prodname: adidas Nizza  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core Black/Ftwr White Ftwr White/Core Black/Ftwr White   45 1/3 EU
 ---
 
 Ahora mismo tienes [adidas Nizza  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core Black/Ftwr White Ftwr White/Core Black/Ftwr White   45 1/3 EU](https://www.amazon.it/dp/B078MQPZY4/?tag=tolees00-21) a 35.49 EUR (original: 69.95 EUR) (49.26 %  de descuento) en el siguiente enlace!

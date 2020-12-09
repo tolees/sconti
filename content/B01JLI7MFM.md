@@ -10,8 +10,11 @@ author: ring
 slug: B01JLI7MFM
 description:
 actualPrice: 113.9 EUR
+currency: EUR
+price: 113.9
 comparePrice: 189.0 EUR
 inStock: true
+prodname: Orologio da uomo Tommy Hilfiger 1791309.
 ---
 
 Tienes [Orologio da uomo Tommy Hilfiger 1791309.](https://www.amazon.it/dp/B01JLI7MFM/?tag=tolees00-21) con un 39.74 % de descuento con precio de oferta de 113.9 EUR (original: 189.0 EUR) en el siguiente enlace!

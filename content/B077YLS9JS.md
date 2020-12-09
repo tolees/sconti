@@ -10,8 +10,11 @@ author: ring
 slug: B077YLS9JS
 description:
 actualPrice: 12.45 EUR
+currency: EUR
+price: 12.45
 comparePrice: 16.68 EUR
 inStock: true
+prodname: Aquafresh Dentifricio Intense White - Pacco da 12 x 75 ml
 ---
 
 Tienes [Aquafresh Dentifricio Intense White - Pacco da 12 x 75 ml](https://www.amazon.it/dp/B077YLS9JS/?tag=tolees00-21) con un 25.36 % de descuento con precio de oferta de 12.45 EUR (original: 16.68 EUR) en el siguiente enlace!

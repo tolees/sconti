@@ -10,8 +10,11 @@ author: ring
 slug: B07STLYBLN
 description:
 actualPrice: 37.56 EUR
+currency: EUR
+price: 37.56
 comparePrice: 139.9 EUR
 inStock: true
+prodname: Geox D NYDAME D  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   40 EU
 ---
 
 Está [Geox D NYDAME D  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   40 EU](https://www.amazon.it/dp/B07STLYBLN/?tag=tolees00-21) con 73.15 de descuento por 37.56 EUR (original: 139.9 EUR) en el siguiente enlace!

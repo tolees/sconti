@@ -10,8 +10,11 @@ author: ring
 slug: B00OVJDCQ0
 description:
 actualPrice: 39.9 EUR
+currency: EUR
+price: 39.9
 comparePrice: 69.99 EUR
 inStock: true
+prodname: D-Link DWR-932 Pocket Hotspot 4G LTE via SIM  Wi-Fi N150 Mbps  SIM e Micro SD Card Slot  Porta Micro USB  Inclusa Batteria Ricaricabile da 2020 mAh  Nero/Antracite
 ---
 
 Está [D-Link DWR-932 Pocket Hotspot 4G LTE via SIM  Wi-Fi N150 Mbps  SIM e Micro SD Card Slot  Porta Micro USB  Inclusa Batteria Ricaricabile da 2020 mAh  Nero/Antracite](https://www.amazon.it/dp/B00OVJDCQ0/?tag=tolees00-21) con 42.99 de descuento por 39.9 EUR (original: 69.99 EUR) en el siguiente enlace!

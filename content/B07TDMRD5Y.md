@@ -10,8 +10,11 @@ author: ring
 slug: B07TDMRD5Y
 description:
 actualPrice: 11.93 EUR
+currency: EUR
+price: 11.93
 comparePrice: 16.09 EUR
 inStock: true
+prodname: Marchio Amazon - find. - Phrm3748  pullover uomo Uomo  Nero  Black   XL  Label: XL
 ---
 
 Está [Marchio Amazon - find. - Phrm3748  pullover uomo Uomo  Nero  Black   XL  Label: XL](https://www.amazon.it/dp/B07TDMRD5Y/?tag=tolees00-21) con 25.85 de descuento por 11.93 EUR (original: 16.09 EUR) en el siguiente enlace!

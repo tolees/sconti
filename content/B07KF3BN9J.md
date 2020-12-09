@@ -10,8 +10,11 @@ author: ring
 slug: B07KF3BN9J
 description:
 actualPrice: 66.09 EUR
+currency: EUR
+price: 66.09
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Levi s 502 Regular Taper Jeans  Blu Baltic  40W / 34L Uomo
 ---
 
 Está [Levi s 502 Regular Taper Jeans  Blu Baltic  40W / 34L Uomo](https://www.amazon.it/dp/B07KF3BN9J/?tag=tolees00-21) con 39.92 de descuento por 66.09 EUR (original: 110.0 EUR) en el siguiente enlace!

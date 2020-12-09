@@ -10,8 +10,11 @@ author: ring
 slug: B07RTYSJ82
 description:
 actualPrice: 29.98 EUR
+currency: EUR
+price: 29.98
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Ravensburger Frozen Ice Castle 3D Puzzle  Multicolore  11156
 ---
 
 Está [Ravensburger Frozen Ice Castle 3D Puzzle  Multicolore  11156](https://www.amazon.it/dp/B07RTYSJ82/?tag=tolees00-21) con 70.02 de descuento por 29.98 EUR (original: 99.99 EUR) en el siguiente enlace!

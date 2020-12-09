@@ -10,8 +10,11 @@ author: ring
 slug: B00UJNPU2G
 description:
 actualPrice: 46.0 EUR
+currency: EUR
+price: 46.0
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Diadora - Sneakers Game L Low Waxed per Uomo e Donna  EU 40.5 
 ---
 
 Está [Diadora - Sneakers Game L Low Waxed per Uomo e Donna  EU 40.5 ](https://www.amazon.it/dp/B00UJNPU2G/?tag=tolees00-21) con 48.89 de descuento por 46.0 EUR (original: 90.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08JDP2XQK
 description:
 actualPrice: 11.1 EUR
+currency: EUR
+price: 11.1
 comparePrice: 14.9 EUR
 inStock: true
+prodname: Bref Bref WC Power Activ Oceano  Detergente WC  Formato Scorta 10 Pezzi 500 gr
 ---
 
 Está [Bref Bref WC Power Activ Oceano  Detergente WC  Formato Scorta 10 Pezzi 500 gr](https://www.amazon.it/dp/B08JDP2XQK/?tag=tolees00-21) con 25.50 de descuento por 11.1 EUR (original: 14.9 EUR) en el siguiente enlace!

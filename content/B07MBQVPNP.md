@@ -10,8 +10,11 @@ author: ring
 slug: B07MBQVPNP
 description:
 actualPrice: 109.0 EUR
+currency: EUR
+price: 109.0
 comparePrice: 219.0 EUR
 inStock: true
+prodname: MICHAEL KORS Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox MK6641
 ---
 
 Tienes [MICHAEL KORS Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox MK6641](https://www.amazon.it/dp/B07MBQVPNP/?tag=tolees00-21) con un 50.23 % de descuento con precio de oferta de 109.0 EUR (original: 219.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00LUIKRHC
 description:
 actualPrice: 66.5 EUR
+currency: EUR
+price: 66.5
 comparePrice: 99.99 EUR
 inStock: true
+prodname: adidas Adidas Stan Smith M20324 Sneaker Basse Unisex – Adulto  Bianco  Running White Ftw/Running White/Fairway   44 2/3 EU  10 UK 
 ---
 
 Tienes [adidas Adidas Stan Smith M20324 Sneaker Basse Unisex – Adulto  Bianco  Running White Ftw/Running White/Fairway   44 2/3 EU  10 UK ](https://www.amazon.it/dp/B00LUIKRHC/?tag=tolees00-21) con un 33.49 % de descuento con precio de oferta de 66.5 EUR (original: 99.99 EUR) en el siguiente enlace!

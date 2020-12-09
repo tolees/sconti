@@ -10,8 +10,11 @@ author: ring
 slug: B00ECANXVM
 description:
 actualPrice: 14.39 EUR
+currency: EUR
+price: 14.39
 comparePrice: 21.4 EUR
 inStock: true
+prodname: Macdue Essere  Multicolore  32538
 ---
 
 Está [Macdue Essere  Multicolore  32538](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21) con 32.76 de descuento por 14.39 EUR (original: 21.4 EUR) en el siguiente enlace!

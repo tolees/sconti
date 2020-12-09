@@ -10,8 +10,11 @@ author: ring
 slug: B07KJGZ74Q
 description:
 actualPrice: 13.93 EUR
+currency: EUR
+price: 13.93
 comparePrice: 23.5 EUR
 inStock: true
+prodname: Fitburner+ | Brucia Grassi Potente | Pillole Dimagranti per Dimagrire in Fretta | Riduce l’Appetito per una Perdita di Peso Efficace | Il Miglior Termogenico | 90 Pillole Vegane
 ---
 
 Tienes [Fitburner+ | Brucia Grassi Potente | Pillole Dimagranti per Dimagrire in Fretta | Riduce l’Appetito per una Perdita di Peso Efficace | Il Miglior Termogenico | 90 Pillole Vegane](https://www.amazon.it/dp/B07KJGZ74Q/?tag=tolees00-21) con un 40.72 % de descuento con precio de oferta de 13.93 EUR (original: 23.5 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B072KN7BCC
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 31.76 EUR
 inStock: true
+prodname: Philips Strisce LED da 2 metri  Luce Bianca Naturale
 ---
 
 Tienes [Philips Strisce LED da 2 metri  Luce Bianca Naturale](https://www.amazon.it/dp/B072KN7BCC/?tag=tolees00-21) con un 37.19 % de descuento con precio de oferta de 19.95 EUR (original: 31.76 EUR) en el siguiente enlace!

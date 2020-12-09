@@ -10,8 +10,11 @@ author: ring
 slug: B01MYN0BHB
 description:
 actualPrice: 19.21 EUR
+currency: EUR
+price: 19.21
 comparePrice: 29.0 EUR
 inStock: true
+prodname: Samsonite Success Portamonete  100% Pelle  10 cm  Nero
 ---
 
 Tienes [Samsonite Success Portamonete  100% Pelle  10 cm  Nero](https://www.amazon.it/dp/B01MYN0BHB/?tag=tolees00-21) con un 33.76 % de descuento con precio de oferta de 19.21 EUR (original: 29.0 EUR) en el siguiente enlace!

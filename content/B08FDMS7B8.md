@@ -10,8 +10,11 @@ author: ring
 slug: B08FDMS7B8
 description:
 actualPrice: 4.55 EUR
+currency: EUR
+price: 4.55
 comparePrice: 6.5 EUR
 inStock: true
+prodname: goldenpoint Slip Brasiliana Intimo Donna in Pizzo e Tulle
 ---
 
 Tienes [goldenpoint Slip Brasiliana Intimo Donna in Pizzo e Tulle](https://www.amazon.it/dp/B08FDMS7B8/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 4.55 EUR (original: 6.5 EUR) en el siguiente enlace!

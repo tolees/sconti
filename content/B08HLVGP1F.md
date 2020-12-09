@@ -10,8 +10,11 @@ author: ring
 slug: B08HLVGP1F
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 99.0 EUR
 inStock: true
+prodname: FFTH Hard Disk 2 TB Esterno  Hard Disk Esterno USB-C 3.1 Portatile per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook.  2TB Argento 
 ---
 
 Ahora mismo tienes [FFTH Hard Disk 2 TB Esterno  Hard Disk Esterno USB-C 3.1 Portatile per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook.  2TB Argento ](https://www.amazon.it/dp/B08HLVGP1F/?tag=tolees00-21) a 63.99 EUR (original: 99.0 EUR) (35.36 %  de descuento) en el siguiente enlace!

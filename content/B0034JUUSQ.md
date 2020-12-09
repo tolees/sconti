@@ -10,8 +10,11 @@ author: ring
 slug: B0034JUUSQ
 description:
 actualPrice: 1.05 EUR
+currency: EUR
+price: 1.05
 comparePrice: 2.71 EUR
 inStock: true
+prodname: Pavesi Pavesini Classici  Biscotto Leggero per Colazione o Gustoso Break  Confezione da 200 g
 ---
 
 Tienes [Pavesi Pavesini Classici  Biscotto Leggero per Colazione o Gustoso Break  Confezione da 200 g](https://www.amazon.it/dp/B0034JUUSQ/?tag=tolees00-21) con un 61.25 % de descuento con precio de oferta de 1.05 EUR (original: 2.71 EUR) en el siguiente enlace!

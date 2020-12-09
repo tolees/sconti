@@ -10,8 +10,11 @@ author: ring
 slug: B000NRULCM
 description:
 actualPrice: 37.45 EUR
+currency: EUR
+price: 37.45
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Converse Chuck Taylor all Star Hi  Scarpe da Ginnastica Unisex-Adulto  Bianco  40 EU
 ---
 
 Ahora mismo tienes [Converse Chuck Taylor all Star Hi  Scarpe da Ginnastica Unisex-Adulto  Bianco  40 EU](https://www.amazon.it/dp/B000NRULCM/?tag=tolees00-21) a 37.45 EUR (original: 70.0 EUR) (46.50 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DHNMFP4
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 35.68 EUR
 inStock: true
+prodname: Wreckfest - Xbox One
 ---
 
 Tienes [Wreckfest - Xbox One](https://www.amazon.it/dp/B07DHNMFP4/?tag=tolees00-21) con un 43.97 % de descuento con precio de oferta de 19.99 EUR (original: 35.68 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FD5VTRZ
 description:
 actualPrice: 115.9 EUR
+currency: EUR
+price: 115.9
 comparePrice: 159.9 EUR
 inStock: true
+prodname: Black+Decker BXPW2200PE Idropulitrice ad Alta Pressione 150 bar  440 l/h  con Patio Cleaner e Spazzola Fissa  2200 W  Plus
 ---
 
 Está [Black+Decker BXPW2200PE Idropulitrice ad Alta Pressione 150 bar  440 l/h  con Patio Cleaner e Spazzola Fissa  2200 W  Plus](https://www.amazon.it/dp/B07FD5VTRZ/?tag=tolees00-21) con 27.52 de descuento por 115.9 EUR (original: 159.9 EUR) en el siguiente enlace!

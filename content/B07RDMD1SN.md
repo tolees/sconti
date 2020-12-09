@@ -10,8 +10,11 @@ author: ring
 slug: B07RDMD1SN
 description:
 actualPrice: 33.75 EUR
+currency: EUR
+price: 33.75
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Nike Downshifter 9  Scarpe da Corsa Uomo  Black/White/Particle Grey/Dk Smoke Grey/Ghost Green/Sapphire  39 EU
 ---
 
 Está [Nike Downshifter 9  Scarpe da Corsa Uomo  Black/White/Particle Grey/Dk Smoke Grey/Ghost Green/Sapphire  39 EU](https://www.amazon.it/dp/B07RDMD1SN/?tag=tolees00-21) con 43.75 de descuento por 33.75 EUR (original: 60.0 EUR) en el siguiente enlace!

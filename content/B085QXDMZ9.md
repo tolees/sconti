@@ -10,8 +10,11 @@ author: ring
 slug: B085QXDMZ9
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: DiRT Rally 2.0 GOTY - Game of The Year - PlayStation 4
 ---
 
 Tienes [DiRT Rally 2.0 GOTY - Game of The Year - PlayStation 4](https://www.amazon.it/dp/B085QXDMZ9/?tag=tolees00-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

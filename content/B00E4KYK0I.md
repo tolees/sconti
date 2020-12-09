@@ -10,8 +10,11 @@ author: ring
 slug: B00E4KYK0I
 description:
 actualPrice: 1.99 EUR
+currency: EUR
+price: 1.99
 comparePrice: 3.29 EUR
 inStock: true
+prodname: Neutro Roberts Deodorante Dermazero Stick - 40 ml
 ---
 
 Ahora mismo tienes [Neutro Roberts Deodorante Dermazero Stick - 40 ml](https://www.amazon.it/dp/B00E4KYK0I/?tag=tolees00-21) a 1.99 EUR (original: 3.29 EUR) (39.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07R5STZQW
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.95 EUR
 inStock: true
+prodname: PUMA Phase Backpack  Zaino Unisex Adulto  Grigio  Castlerock   Taglia Unica
 ---
 
 Tienes [PUMA Phase Backpack  Zaino Unisex Adulto  Grigio  Castlerock   Taglia Unica](https://www.amazon.it/dp/B07R5STZQW/?tag=tolees00-21) con un 34.89 % de descuento con precio de oferta de 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!

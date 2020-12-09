@@ -10,8 +10,11 @@ author: ring
 slug: B006ZZ7OYO
 description:
 actualPrice: 7.9 EUR
+currency: EUR
+price: 7.9
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Vileda 142473 Rapid Copriasse da Stiro Universale  in Cotone e Alluminio  Termoriflettente  con Fermacorda  Grigio  Lunghezza 100-130 cm  Larghezza 30-45 cm
 ---
 
 Ahora mismo tienes [Vileda 142473 Rapid Copriasse da Stiro Universale  in Cotone e Alluminio  Termoriflettente  con Fermacorda  Grigio  Lunghezza 100-130 cm  Larghezza 30-45 cm](https://www.amazon.it/dp/B006ZZ7OYO/?tag=tolees00-21) a 7.9 EUR (original: 11.99 EUR) (34.11 %  de descuento) en el siguiente enlace!

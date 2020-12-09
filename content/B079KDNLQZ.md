@@ -10,8 +10,11 @@ author: ring
 slug: B079KDNLQZ
 description:
 actualPrice: 16.74 EUR
+currency: EUR
+price: 16.74
 comparePrice: 28.99 EUR
 inStock: true
+prodname: Mattel Games FWW30 Acchiappa la Cacca con Toilet Incluso  Gioco da Tavolo per Bambini  5 + Anni  Versione Italiana
 ---
 
 Tienes [Mattel Games FWW30 Acchiappa la Cacca con Toilet Incluso  Gioco da Tavolo per Bambini  5 + Anni  Versione Italiana](https://www.amazon.it/dp/B079KDNLQZ/?tag=tolees00-21) con un 42.26 % de descuento con precio de oferta de 16.74 EUR (original: 28.99 EUR) en el siguiente enlace!

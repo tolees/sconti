@@ -10,8 +10,11 @@ author: ring
 slug: B081ZFNLLZ
 description:
 actualPrice: 18.49 EUR
+currency: EUR
+price: 18.49
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Kimbo Capsule di Caffè Intenso  Compatibile con Nespresso  10 Pacchi da 10 Capsule  Totale 100 Capsule 
 ---
 
 Está [Kimbo Capsule di Caffè Intenso  Compatibile con Nespresso  10 Pacchi da 10 Capsule  Totale 100 Capsule ](https://www.amazon.it/dp/B081ZFNLLZ/?tag=tolees00-21) con 38.16 de descuento por 18.49 EUR (original: 29.9 EUR) en el siguiente enlace!

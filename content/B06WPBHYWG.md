@@ -10,8 +10,11 @@ author: ring
 slug: B06WPBHYWG
 description:
 actualPrice: 29.61 EUR
+currency: EUR
+price: 29.61
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Adidas Vs Pace  Scarpe da Ginnastica Uomo  Blu  Maruni/Ftwbla/Azul 000   39 1/3 EU
 ---
 
 Tienes [Adidas Vs Pace  Scarpe da Ginnastica Uomo  Blu  Maruni/Ftwbla/Azul 000   39 1/3 EU](https://www.amazon.it/dp/B06WPBHYWG/?tag=tolees00-21) con un 40.72 % de descuento con precio de oferta de 29.61 EUR (original: 49.95 EUR) en el siguiente enlace!

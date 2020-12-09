@@ -10,8 +10,11 @@ author: ring
 slug: B07SKWLTTP
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 22.0 EUR
 inStock: true
+prodname: Havaianas Top Nautical  Infradito Uomo  Multicolore  White/Navy/White 5035   37/38 EU
 ---
 
 Tienes [Havaianas Top Nautical  Infradito Uomo  Multicolore  White/Navy/White 5035   37/38 EU](https://www.amazon.it/dp/B07SKWLTTP/?tag=tolees00-21) con un 55.00 % de descuento con precio de oferta de 9.9 EUR (original: 22.0 EUR) en el siguiente enlace!

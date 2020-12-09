@@ -10,8 +10,11 @@ author: ring
 slug: B07KK1XTB7
 description:
 actualPrice: 13.0 EUR
+currency: EUR
+price: 13.0
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Under Armour Patterson Backpack  Zaino Unisex  Nero  Black/Black/White  001   Taglia Unica
 ---
 
 Tienes [Under Armour Patterson Backpack  Zaino Unisex  Nero  Black/Black/White  001   Taglia Unica](https://www.amazon.it/dp/B07KK1XTB7/?tag=tolees00-21) con un 56.65 % de descuento con precio de oferta de 13.0 EUR (original: 29.99 EUR) en el siguiente enlace!

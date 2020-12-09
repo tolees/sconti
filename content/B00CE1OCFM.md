@@ -10,8 +10,11 @@ author: ring
 slug: B00CE1OCFM
 description:
 actualPrice: 11.0 EUR
+currency: EUR
+price: 11.0
 comparePrice: 16.35 EUR
 inStock: true
+prodname: Dermacol DC Fondotinta a Copertura Totale | Correttore in Crema Impermeabile a Lunga Durata SPF30 | Concealer Ipoallergenico e Leggero | Copri Tattoo  Acne e Occhiaie | 209  30g
 ---
 
 Está [Dermacol DC Fondotinta a Copertura Totale | Correttore in Crema Impermeabile a Lunga Durata SPF30 | Concealer Ipoallergenico e Leggero | Copri Tattoo  Acne e Occhiaie | 209  30g](https://www.amazon.it/dp/B00CE1OCFM/?tag=tolees00-21) con 32.72 de descuento por 11.0 EUR (original: 16.35 EUR) en el siguiente enlace!

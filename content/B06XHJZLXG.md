@@ -10,8 +10,11 @@ author: ring
 slug: B06XHJZLXG
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 35.09 EUR
 inStock: true
+prodname: GoPro AGXTS-001 El Grande Asta di prolunga da 38 - 97 cm  Nero
 ---
 
 Está [GoPro AGXTS-001 El Grande Asta di prolunga da 38 - 97 cm  Nero](https://www.amazon.it/dp/B06XHJZLXG/?tag=tolees00-21) con 43.03 de descuento por 19.99 EUR (original: 35.09 EUR) en el siguiente enlace!

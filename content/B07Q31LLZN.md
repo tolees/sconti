@@ -10,8 +10,11 @@ author: ring
 slug: B07Q31LLZN
 description:
 actualPrice: 19.0 EUR
+currency: EUR
+price: 19.0
 comparePrice: 49.0 EUR
 inStock: true
+prodname: Fossil Collana di Perle Donna Acciaio Inossidabile JF03143040
 ---
 
 Ahora mismo tienes [Fossil Collana di Perle Donna Acciaio Inossidabile JF03143040](https://www.amazon.it/dp/B07Q31LLZN/?tag=tolees00-21) a 19.0 EUR (original: 49.0 EUR) (61.22 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00BMMJV9G
 description:
 actualPrice: 59.5 EUR
+currency: EUR
+price: 59.5
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox U Dublin B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   42.5 EU
 ---
 
 Tienes [Geox U Dublin B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   42.5 EU](https://www.amazon.it/dp/B00BMMJV9G/?tag=tolees00-21) con un 40.44 % de descuento con precio de oferta de 59.5 EUR (original: 99.9 EUR) en el siguiente enlace!

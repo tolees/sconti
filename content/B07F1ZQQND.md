@@ -10,8 +10,11 @@ author: ring
 slug: B07F1ZQQND
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Grigio Light Grey Canvas  50 EU
 ---
 
 Tienes [Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Grigio Light Grey Canvas  50 EU](https://www.amazon.it/dp/B07F1ZQQND/?tag=tolees00-21) con un 44.63 % de descuento con precio de oferta de 35.99 EUR (original: 65.0 EUR) en el siguiente enlace!

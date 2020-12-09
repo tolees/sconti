@@ -10,8 +10,11 @@ author: ring
 slug: B07HNMN7TM
 description:
 actualPrice: 209.9 EUR
+currency: EUR
+price: 209.9
 comparePrice: 288.0 EUR
 inStock: true
+prodname: Cecotec Robot Aspirapolvere Conga Serie 3090. 2000 Pa  Alexa e Google Assistant  App  aspira  escopa  Lava e Passa Il Panno 10 Modi Pulizia
 ---
 
 Ahora mismo tienes [Cecotec Robot Aspirapolvere Conga Serie 3090. 2000 Pa  Alexa e Google Assistant  App  aspira  escopa  Lava e Passa Il Panno 10 Modi Pulizia](https://www.amazon.it/dp/B07HNMN7TM/?tag=tolees00-21) a 209.9 EUR (original: 288.0 EUR) (27.12 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BL19QGK
 description:
 actualPrice: 40.6 EUR
+currency: EUR
+price: 40.6
 comparePrice: 71.06 EUR
 inStock: true
+prodname: Prada Profumo - 50 Ml
 ---
 
 Ahora mismo tienes [Prada Profumo - 50 Ml](https://www.amazon.it/dp/B07BL19QGK/?tag=tolees00-21) a 40.6 EUR (original: 71.06 EUR) (42.87 %  de descuento) en el siguiente enlace!

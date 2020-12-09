@@ -10,8 +10,11 @@ author: ring
 slug: B06ZYRPVZY
 description:
 actualPrice: 12.35 EUR
+currency: EUR
+price: 12.35
 comparePrice: 18.9 EUR
 inStock: true
+prodname: L Oréal Paris Crema Viso Giorno Revitalift Laser X3  Azione Antirughe Anti-Età con Acido Ialuronico e Pro-Xylane  Protezione SPF 20  50 ml
 ---
 
 Tienes [L Oréal Paris Crema Viso Giorno Revitalift Laser X3  Azione Antirughe Anti-Età con Acido Ialuronico e Pro-Xylane  Protezione SPF 20  50 ml](https://www.amazon.it/dp/B06ZYRPVZY/?tag=tolees00-21) con un 34.66 % de descuento con precio de oferta de 12.35 EUR (original: 18.9 EUR) en el siguiente enlace!

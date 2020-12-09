@@ -10,8 +10,11 @@ author: ring
 slug: B07NFLM13P
 description:
 actualPrice: 12.0 EUR
+currency: EUR
+price: 12.0
 comparePrice: 19.7 EUR
 inStock: true
+prodname: Vivident Xylit Spearmint Gomme da Masticare Senza Zucchero Multipack Stick  Chewing Gum Gusto Menta  6 Confezioni da 5 Stick  30 Stick in Totale
 ---
 
 Ahora mismo tienes [Vivident Xylit Spearmint Gomme da Masticare Senza Zucchero Multipack Stick  Chewing Gum Gusto Menta  6 Confezioni da 5 Stick  30 Stick in Totale](https://www.amazon.it/dp/B07NFLM13P/?tag=tolees00-21) a 12.0 EUR (original: 19.7 EUR) (39.09 %  de descuento) en el siguiente enlace!

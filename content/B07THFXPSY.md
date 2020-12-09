@@ -10,8 +10,11 @@ author: ring
 slug: B07THFXPSY
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 100.0 EUR
 inStock: true
+prodname: Lacoste PF5462 Polo  Rosa  Nidus   46  Taglia Unica: 42  Donna
 ---
 
 Tienes [Lacoste PF5462 Polo  Rosa  Nidus   46  Taglia Unica: 42  Donna](https://www.amazon.it/dp/B07THFXPSY/?tag=tolees00-21) con un 65.01 % de descuento con precio de oferta de 34.99 EUR (original: 100.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B083KNXBK3
 description:
 actualPrice: 22.73 EUR
+currency: EUR
+price: 22.73
 comparePrice: 31.8 EUR
 inStock: true
+prodname: Samsung  Cover originale per Galaxy
 ---
 
 Está [Samsung  Cover originale per Galaxy](https://www.amazon.it/dp/B083KNXBK3/?tag=tolees00-21) con 28.52 de descuento por 22.73 EUR (original: 31.8 EUR) en el siguiente enlace!

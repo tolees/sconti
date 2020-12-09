@@ -10,8 +10,11 @@ author: ring
 slug: B07T4D3RLD
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Dragon Ball Z: Kakarot - Xbox One  12 anni+
 ---
 
 Está [Dragon Ball Z: Kakarot - Xbox One  12 anni+](https://www.amazon.it/dp/B07T4D3RLD/?tag=tolees00-21) con 37.15 de descuento por 43.99 EUR (original: 69.99 EUR) en el siguiente enlace!

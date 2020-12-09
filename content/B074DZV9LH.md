@@ -10,8 +10,11 @@ author: ring
 slug: B074DZV9LH
 description:
 actualPrice: 5.84 EUR
+currency: EUR
+price: 5.84
 comparePrice: 12.49 EUR
 inStock: true
+prodname: Pavesi Ringo Espositore Biscotti Snack al Cacao - Pacco da 24 Pezzi da 55 g  Totale: 1320 g
 ---
 
 Tienes [Pavesi Ringo Espositore Biscotti Snack al Cacao - Pacco da 24 Pezzi da 55 g  Totale: 1320 g](https://www.amazon.it/dp/B074DZV9LH/?tag=tolees00-21) con un 53.24 % de descuento con precio de oferta de 5.84 EUR (original: 12.49 EUR) en el siguiente enlace!

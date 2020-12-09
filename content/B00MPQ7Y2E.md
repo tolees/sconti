@@ -10,8 +10,11 @@ author: ring
 slug: B00MPQ7Y2E
 description:
 actualPrice: 26.5 EUR
+currency: EUR
+price: 26.5
 comparePrice: 120.65 EUR
 inStock: true
+prodname: LEITZ Borsa Messenger  15 6    - Smart Traveller - Nero - 60190095
 ---
 
 Tienes [LEITZ Borsa Messenger  15 6    - Smart Traveller - Nero - 60190095](https://www.amazon.it/dp/B00MPQ7Y2E/?tag=tolees00-21) con un 78.04 % de descuento con precio de oferta de 26.5 EUR (original: 120.65 EUR) en el siguiente enlace!

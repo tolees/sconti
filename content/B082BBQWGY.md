@@ -10,8 +10,11 @@ author: ring
 slug: B082BBQWGY
 description:
 actualPrice: 38.9 EUR
+currency: EUR
+price: 38.9
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Geographical Norway  Pile da uomo  RIAKOLO Blu navy XL
 ---
 
 Tienes [Geographical Norway  Pile da uomo  RIAKOLO Blu navy XL](https://www.amazon.it/dp/B082BBQWGY/?tag=tolees00-21) con un 43.62 % de descuento con precio de oferta de 38.9 EUR (original: 69.0 EUR) en el siguiente enlace!

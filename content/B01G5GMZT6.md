@@ -10,8 +10,11 @@ author: ring
 slug: B01G5GMZT6
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.9 EUR
 inStock: true
+prodname: Clementoni 12064 - My English Bus
 ---
 
 Está [Clementoni 12064 - My English Bus](https://www.amazon.it/dp/B01G5GMZT6/?tag=tolees00-21) con 37.17 de descuento por 9.99 EUR (original: 15.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L6FKXJ5
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 21.56 EUR
 inStock: true
+prodname: Kärcher 2.633-132.0 KV 4-Panno  Bianco   B x H x T  265 x 20 x 110 mm
 ---
 
 Está [Kärcher 2.633-132.0 KV 4-Panno  Bianco   B x H x T  265 x 20 x 110 mm](https://www.amazon.it/dp/B07L6FKXJ5/?tag=tolees00-21) con 35.11 de descuento por 13.99 EUR (original: 21.56 EUR) en el siguiente enlace!

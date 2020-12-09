@@ -10,8 +10,11 @@ author: ring
 slug: B089LSBTG4
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 28.99 EUR
 inStock: true
+prodname: Puzzle in Legno Forme Geometriche Tangram Puzzles Giocattolo 180 Pezzi Portatile Classico Giochi Matematici Interattivo Montessori Giocattoli Educativi Puzzle Regalo Bambini 3 4 5 Anni Ragazzi Ragazze
 ---
 
 Ahora mismo tienes [Puzzle in Legno Forme Geometriche Tangram Puzzles Giocattolo 180 Pezzi Portatile Classico Giochi Matematici Interattivo Montessori Giocattoli Educativi Puzzle Regalo Bambini 3 4 5 Anni Ragazzi Ragazze](https://www.amazon.it/dp/B089LSBTG4/?tag=tolees00-21) a 18.99 EUR (original: 28.99 EUR) (34.49 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RRZBRB3
 description:
 actualPrice: 149.99 EUR
+currency: EUR
+price: 149.99
 comparePrice: 319.0 EUR
 inStock: true
+prodname: Oral-B Genius X Luxe Edition Spazzolino Elettrico Ricaricabile  1 Spazzolino Premium Nero con Intelligenza Artificiale  4 Testine di Ricambio  1 Custodia da Viaggio con Caricatore
 ---
 
 Tienes [Oral-B Genius X Luxe Edition Spazzolino Elettrico Ricaricabile  1 Spazzolino Premium Nero con Intelligenza Artificiale  4 Testine di Ricambio  1 Custodia da Viaggio con Caricatore](https://www.amazon.it/dp/B07RRZBRB3/?tag=tolees00-21) con un 52.98 % de descuento con precio de oferta de 149.99 EUR (original: 319.0 EUR) en el siguiente enlace!

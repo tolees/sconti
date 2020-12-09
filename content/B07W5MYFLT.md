@@ -10,8 +10,11 @@ author: ring
 slug: B07W5MYFLT
 description:
 actualPrice: 31.0 EUR
+currency: EUR
+price: 31.0
 comparePrice: 93.09 EUR
 inStock: true
+prodname: Tommy Hilfiger Basic Embroidered Hoody Felpa  Blu  Desert Sky   Large  Taglia Unica:  Uomo
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Basic Embroidered Hoody Felpa  Blu  Desert Sky   Large  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07W5MYFLT/?tag=tolees00-21) a 31.0 EUR (original: 93.09 EUR) (66.70 %  de descuento) en el siguiente enlace!

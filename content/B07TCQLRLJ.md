@@ -10,8 +10,11 @@ author: ring
 slug: B07TCQLRLJ
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Clementoni- Scienza e Gioco-Azione e Reazione-Effetto Caos  Multicolore  19121
 ---
 
 Tienes [Clementoni- Scienza e Gioco-Azione e Reazione-Effetto Caos  Multicolore  19121](https://www.amazon.it/dp/B07TCQLRLJ/?tag=tolees00-21) con un 33.44 % de descuento con precio de oferta de 19.9 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06WPBMY6L
 description:
 actualPrice: 16.66 EUR
+currency: EUR
+price: 16.66
 comparePrice: 59.99 EUR
 inStock: true
+prodname: The Surge - PlayStation 4
 ---
 
 Ahora mismo tienes [The Surge - PlayStation 4](https://www.amazon.it/dp/B06WPBMY6L/?tag=tolees00-21) a 16.66 EUR (original: 59.99 EUR) (72.23 %  de descuento) en el siguiente enlace!

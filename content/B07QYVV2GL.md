@@ -10,8 +10,11 @@ author: ring
 slug: B07QYVV2GL
 description:
 actualPrice: 2.95 EUR
+currency: EUR
+price: 2.95
 comparePrice: 7.45 EUR
 inStock: true
+prodname: Pyramid Crash Bandicoot - Llavero Aku Aku [Edizione: Spagna]
 ---
 
 Tienes [Pyramid Crash Bandicoot - Llavero Aku Aku [Edizione: Spagna]](https://www.amazon.it/dp/B07QYVV2GL/?tag=tolees00-21) con un 60.40 % de descuento con precio de oferta de 2.95 EUR (original: 7.45 EUR) en el siguiente enlace!

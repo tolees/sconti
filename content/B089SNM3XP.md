@@ -10,8 +10,11 @@ author: ring
 slug: B089SNM3XP
 description:
 actualPrice: 13.51 EUR
+currency: EUR
+price: 13.51
 comparePrice: 19.3 EUR
 inStock: true
+prodname: Zoë Ayla - Rullo elettrico vibrante in cristallo di quarzo rosa  ideale per massaggio viso e stimola la produzione di collagene
 ---
 
 Tienes [Zoë Ayla - Rullo elettrico vibrante in cristallo di quarzo rosa  ideale per massaggio viso e stimola la produzione di collagene](https://www.amazon.it/dp/B089SNM3XP/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 13.51 EUR (original: 19.3 EUR) en el siguiente enlace!

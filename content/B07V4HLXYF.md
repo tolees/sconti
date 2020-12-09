@@ -10,8 +10,11 @@ author: ring
 slug: B07V4HLXYF
 description:
 actualPrice: 899.0 EUR
+currency: EUR
+price: 899.0
 comparePrice: 1599.0 EUR
 inStock: true
+prodname: Haier HTF-540DGG7 Frigorifero 4 Porte
 ---
 
 Tienes [Haier HTF-540DGG7 Frigorifero 4 Porte](https://www.amazon.it/dp/B07V4HLXYF/?tag=tolees00-21) con un 43.78 % de descuento con precio de oferta de 899.0 EUR (original: 1599.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00U7CM4QY
 description:
 actualPrice: 92.61 EUR
+currency: EUR
+price: 92.61
 comparePrice: 135.0 EUR
 inStock: true
+prodname: Geox U Brayden 2FIT ABX D  Stivali Desert Boots Uomo  Marrone  Coffee C6009   43 EU
 ---
 
 Tienes [Geox U Brayden 2FIT ABX D  Stivali Desert Boots Uomo  Marrone  Coffee C6009   43 EU](https://www.amazon.it/dp/B00U7CM4QY/?tag=tolees00-21) con un 31.40 % de descuento con precio de oferta de 92.61 EUR (original: 135.0 EUR) en el siguiente enlace!

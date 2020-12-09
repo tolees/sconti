@@ -10,8 +10,11 @@ author: ring
 slug: B01N8OOB5J
 description:
 actualPrice: 10.95 EUR
+currency: EUR
+price: 10.95
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Asmodee 8731-Blood Rage: Dèi di Asgard  Ed. Italiana  8731
 ---
 
 Está [Asmodee 8731-Blood Rage: Dèi di Asgard  Ed. Italiana  8731](https://www.amazon.it/dp/B01N8OOB5J/?tag=tolees00-21) con 44.97 de descuento por 10.95 EUR (original: 19.9 EUR) en el siguiente enlace!

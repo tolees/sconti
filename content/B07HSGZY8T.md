@@ -10,8 +10,11 @@ author: ring
 slug: B07HSGZY8T
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Matrix Reloaded  4K Ultra HD + 2 Blu-Ray 
 ---
 
 Ahora mismo tienes [Matrix Reloaded  4K Ultra HD + 2 Blu-Ray ](https://www.amazon.it/dp/B07HSGZY8T/?tag=tolees00-21) a 14.9 EUR (original: 29.99 EUR) (50.32 %  de descuento) en el siguiente enlace!

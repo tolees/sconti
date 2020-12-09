@@ -10,8 +10,11 @@ author: ring
 slug: B000M3DQTC
 description:
 actualPrice: 145.99 EUR
+currency: EUR
+price: 145.99
 comparePrice: 209.99 EUR
 inStock: true
+prodname: Hoover Polisher F38PQ Lucidatrice con Funzione aspirazione Integrata  con sacco  800 W  4 Litri  95 Decibel  Altezza: 1 m  Raggio d azione: 5 5 metri  spazzole “parquet”  Marrone
 ---
 
 Está [Hoover Polisher F38PQ Lucidatrice con Funzione aspirazione Integrata  con sacco  800 W  4 Litri  95 Decibel  Altezza: 1 m  Raggio d azione: 5 5 metri  spazzole “parquet”  Marrone](https://www.amazon.it/dp/B000M3DQTC/?tag=tolees00-21) con 30.48 de descuento por 145.99 EUR (original: 209.99 EUR) en el siguiente enlace!

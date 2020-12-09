@@ -10,8 +10,11 @@ author: ring
 slug: B00DY2SKUS
 description:
 actualPrice: 49.27 EUR
+currency: EUR
+price: 49.27
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox Uomo Snake K  Scarpe da Ginnastica Basse  Grigio  Dark Grey/off White C1300   46 EU
 ---
 
 Está [Geox Uomo Snake K  Scarpe da Ginnastica Basse  Grigio  Dark Grey/off White C1300   46 EU](https://www.amazon.it/dp/B00DY2SKUS/?tag=tolees00-21) con 50.68 de descuento por 49.27 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01FE6GTDQ
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Laica PC1017 Idromassaggio Plantare  Fondo Riscaldato
 ---
 
 Ahora mismo tienes [Laica PC1017 Idromassaggio Plantare  Fondo Riscaldato](https://www.amazon.it/dp/B01FE6GTDQ/?tag=tolees00-21) a 17.99 EUR (original: 29.9 EUR) (39.83 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07VGYYC63
 description:
 actualPrice: 74.0 EUR
+currency: EUR
+price: 74.0
 comparePrice: 149.9 EUR
 inStock: true
+prodname: Calvin Klein Hooded Blocking Nylon Jacket Bomber  Rosso  Fiery Red/CK Black Xa7   Medium Uomo
 ---
 
 Ahora mismo tienes [Calvin Klein Hooded Blocking Nylon Jacket Bomber  Rosso  Fiery Red/CK Black Xa7   Medium Uomo](https://www.amazon.it/dp/B07VGYYC63/?tag=tolees00-21) a 74.0 EUR (original: 149.9 EUR) (50.63 %  de descuento) en el siguiente enlace!

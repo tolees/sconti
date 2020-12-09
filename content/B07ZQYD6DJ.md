@@ -10,8 +10,11 @@ author: ring
 slug: B07ZQYD6DJ
 description:
 actualPrice: 110.0 EUR
+currency: EUR
+price: 110.0
 comparePrice: 279.0 EUR
 inStock: true
+prodname: Emporio Armani Orologio Analogico Quarzo Donna con Cinturino in Vera Pelle AR11270
 ---
 
 Ahora mismo tienes [Emporio Armani Orologio Analogico Quarzo Donna con Cinturino in Vera Pelle AR11270](https://www.amazon.it/dp/B07ZQYD6DJ/?tag=tolees00-21) a 110.0 EUR (original: 279.0 EUR) (60.57 %  de descuento) en el siguiente enlace!

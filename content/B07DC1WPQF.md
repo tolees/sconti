@@ -10,8 +10,11 @@ author: ring
 slug: B07DC1WPQF
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 42.65 EUR
 inStock: true
+prodname: PUMA Smash v2  Scarpe da Ginnastica Unisex Adulto  Blu  Peacoat-Gold-Whisper White   37 EU
 ---
 
 Ahora mismo tienes [PUMA Smash v2  Scarpe da Ginnastica Unisex Adulto  Blu  Peacoat-Gold-Whisper White   37 EU](https://www.amazon.it/dp/B07DC1WPQF/?tag=tolees00-21) a 24.99 EUR (original: 42.65 EUR) (41.41 %  de descuento) en el siguiente enlace!

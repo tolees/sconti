@@ -10,8 +10,11 @@ author: ring
 slug: B00D2OQ7CQ
 description:
 actualPrice: 141.36 EUR
+currency: EUR
+price: 141.36
 comparePrice: 305.98 EUR
 inStock: true
+prodname: Cressi Erogatore MC2/DIN + Octopus Compact  Bambino  Giallo/Nero/Metallo
 ---
 
 Ahora mismo tienes [Cressi Erogatore MC2/DIN + Octopus Compact  Bambino  Giallo/Nero/Metallo](https://www.amazon.it/dp/B00D2OQ7CQ/?tag=tolees00-21) a 141.36 EUR (original: 305.98 EUR) (53.80 %  de descuento) en el siguiente enlace!

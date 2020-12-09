@@ -10,8 +10,11 @@ author: ring
 slug: B07NJJ9QPG
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 40.66 EUR
 inStock: true
+prodname: Assassin s Creed III Liberation Remastered - Xbox One
 ---
 
 Tienes [Assassin s Creed III Liberation Remastered - Xbox One](https://www.amazon.it/dp/B07NJJ9QPG/?tag=tolees00-21) con un 50.84 % de descuento con precio de oferta de 19.99 EUR (original: 40.66 EUR) en el siguiente enlace!

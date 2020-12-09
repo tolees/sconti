@@ -10,8 +10,11 @@ author: ring
 slug: B00PYDT2N4
 description:
 actualPrice: 32.5 EUR
+currency: EUR
+price: 32.5
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Nike MD Runner 2  Scarpe da Running Uomo  Nero  Black/White/Anthracite   40 EU
 ---
 
 Está [Nike MD Runner 2  Scarpe da Running Uomo  Nero  Black/White/Anthracite   40 EU](https://www.amazon.it/dp/B00PYDT2N4/?tag=tolees00-21) con 49.99 de descuento por 32.5 EUR (original: 64.99 EUR) en el siguiente enlace!

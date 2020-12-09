@@ -10,8 +10,11 @@ author: ring
 slug: B08F5PD5JY
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Fairy Platinum Gel Detersivo per Lavastoviglie Limone  384 Lavaggi  Maxi Formato da 12 x 32 Lavaggi  100% Dissoluzione e una Pulizia Ottimale
 ---
 
 Tienes [Fairy Platinum Gel Detersivo per Lavastoviglie Limone  384 Lavaggi  Maxi Formato da 12 x 32 Lavaggi  100% Dissoluzione e una Pulizia Ottimale](https://www.amazon.it/dp/B08F5PD5JY/?tag=tolees00-21) con un 26.01 % de descuento con precio de oferta de 36.99 EUR (original: 49.99 EUR) en el siguiente enlace!

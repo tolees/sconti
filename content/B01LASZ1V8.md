@@ -10,8 +10,11 @@ author: ring
 slug: B01LASZ1V8
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Pacific Rim  4K Ultra HD + Blu-Ray 
 ---
 
 Tienes [Pacific Rim  4K Ultra HD + Blu-Ray ](https://www.amazon.it/dp/B01LASZ1V8/?tag=tolees00-21) con un 50.32 % de descuento con precio de oferta de 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B072JT5MSJ
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 30.56 EUR
 inStock: true
+prodname: EKKONG Zanzariera Magnetica per Porte - Dimensioni 90 x 210 cm  Si Adatta a Porte di 86 x 210 cm - Rete di Ottima Qualità  Tenda Zanzariera per Porte d Ingresso Porte  Cortili  90cm X 210cm 
 ---
 
 Está [EKKONG Zanzariera Magnetica per Porte - Dimensioni 90 x 210 cm  Si Adatta a Porte di 86 x 210 cm - Rete di Ottima Qualità  Tenda Zanzariera per Porte d Ingresso Porte  Cortili  90cm X 210cm ](https://www.amazon.it/dp/B072JT5MSJ/?tag=tolees00-21) con 47.68 de descuento por 15.99 EUR (original: 30.56 EUR) en el siguiente enlace!

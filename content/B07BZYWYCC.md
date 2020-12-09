@@ -10,8 +10,11 @@ author: ring
 slug: B07BZYWYCC
 description:
 actualPrice: 364.8 EUR
+currency: EUR
+price: 364.8
 comparePrice: 512.93 EUR
 inStock: true
+prodname: TomTom Rider 550 Navigatore per Moto
 ---
 
 Está [TomTom Rider 550 Navigatore per Moto](https://www.amazon.it/dp/B07BZYWYCC/?tag=tolees00-21) con 28.88 de descuento por 364.8 EUR (original: 512.93 EUR) en el siguiente enlace!

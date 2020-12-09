@@ -10,8 +10,11 @@ author: ring
 slug: B016VZNU5O
 description:
 actualPrice: 49.9 EUR
+currency: EUR
+price: 49.9
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Parrot Zaino per Drone Bebop & Skycontroller  Nero
 ---
 
 Tienes [Parrot Zaino per Drone Bebop & Skycontroller  Nero](https://www.amazon.it/dp/B016VZNU5O/?tag=tolees00-21) con un 50.05 % de descuento con precio de oferta de 49.9 EUR (original: 99.9 EUR) en el siguiente enlace!

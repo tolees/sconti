@@ -10,8 +10,11 @@ author: ring
 slug: B077MMSWXZ
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 79.99 EUR
 inStock: true
+prodname: PUMA Ignite Flash Evoknit  Scarpe da Corsa Uomo  Nero  Black-Asphalt-White   43 EU
 ---
 
 Tienes [PUMA Ignite Flash Evoknit  Scarpe da Corsa Uomo  Nero  Black-Asphalt-White   43 EU](https://www.amazon.it/dp/B077MMSWXZ/?tag=tolees00-21) con un 50.06 % de descuento con precio de oferta de 39.95 EUR (original: 79.99 EUR) en el siguiente enlace!

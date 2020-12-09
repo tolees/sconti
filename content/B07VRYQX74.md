@@ -10,8 +10,11 @@ author: ring
 slug: B07VRYQX74
 description:
 actualPrice: 12.15 EUR
+currency: EUR
+price: 12.15
 comparePrice: 32.72 EUR
 inStock: true
+prodname: Calvin Klein Hip Brief 2pk Slip  Nero  Black with/White WB Bnm   X-Large Uomo
 ---
 
 Ahora mismo tienes [Calvin Klein Hip Brief 2pk Slip  Nero  Black with/White WB Bnm   X-Large Uomo](https://www.amazon.it/dp/B07VRYQX74/?tag=tolees00-21) a 12.15 EUR (original: 32.72 EUR) (62.87 %  de descuento) en el siguiente enlace!

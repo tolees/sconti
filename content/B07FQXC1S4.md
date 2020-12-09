@@ -10,8 +10,11 @@ author: ring
 slug: B07FQXC1S4
 description:
 actualPrice: 41.0 EUR
+currency: EUR
+price: 41.0
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Landry Edge  Mocassini Uomo  Nero  Black Combination Suede-   44 EU
 ---
 
 Tienes [Clarks Landry Edge  Mocassini Uomo  Nero  Black Combination Suede-   44 EU](https://www.amazon.it/dp/B07FQXC1S4/?tag=tolees00-21) con un 48.72 % de descuento con precio de oferta de 41.0 EUR (original: 79.95 EUR) en el siguiente enlace!

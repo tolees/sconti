@@ -10,8 +10,11 @@ author: ring
 slug: B01LPT85CE
 description:
 actualPrice: 17.9 EUR
+currency: EUR
+price: 17.9
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Hasbro Gaming B2176 L Allegro Chirurgo  Gioco in Scatola  Età 6+
 ---
 
 Está [Hasbro Gaming B2176 L Allegro Chirurgo  Gioco in Scatola  Età 6+](https://www.amazon.it/dp/B01LPT85CE/?tag=tolees00-21) con 36.05 de descuento por 17.9 EUR (original: 27.99 EUR) en el siguiente enlace!

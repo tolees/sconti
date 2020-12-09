@@ -10,8 +10,11 @@ author: ring
 slug: B076H7HVJH
 description:
 actualPrice: 26.98 EUR
+currency: EUR
+price: 26.98
 comparePrice: 46.2 EUR
 inStock: true
+prodname: Kipling Clas Seoul Zaino  25 Litri  Nero  True Black 
 ---
 
 Tienes [Kipling Clas Seoul Zaino  25 Litri  Nero  True Black ](https://www.amazon.it/dp/B076H7HVJH/?tag=tolees00-21) con un 41.60 % de descuento con precio de oferta de 26.98 EUR (original: 46.2 EUR) en el siguiente enlace!

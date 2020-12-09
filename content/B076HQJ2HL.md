@@ -10,8 +10,11 @@ author: ring
 slug: B076HQJ2HL
 description:
 actualPrice: 24.76 EUR
+currency: EUR
+price: 24.76
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Adidas Football App Generic  Tracksuit Jacket Uomo  Blu  Azzurro/Bianco   L
 ---
 
 Está [Adidas Football App Generic  Tracksuit Jacket Uomo  Blu  Azzurro/Bianco   L](https://www.amazon.it/dp/B076HQJ2HL/?tag=tolees00-21) con 38.02 de descuento por 24.76 EUR (original: 39.95 EUR) en el siguiente enlace!

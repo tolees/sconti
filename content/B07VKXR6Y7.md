@@ -10,8 +10,11 @@ author: ring
 slug: B07VKXR6Y7
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 39.95 EUR
 inStock: true
+prodname: PUMA FIGC Training Jersey  Maglietta Uomo  Ponderosa Pine/Peacoat  XL
 ---
 
 Está [PUMA FIGC Training Jersey  Maglietta Uomo  Ponderosa Pine/Peacoat  XL](https://www.amazon.it/dp/B07VKXR6Y7/?tag=tolees00-21) con 47.46 de descuento por 20.99 EUR (original: 39.95 EUR) en el siguiente enlace!

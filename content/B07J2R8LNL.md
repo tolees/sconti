@@ -10,8 +10,11 @@ author: ring
 slug: B07J2R8LNL
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JBL Tune 500 Cuffie Sovraurali  Cuffia On Ear con Microfono e Comando Remoto ad 1 Pulsante  JBL Pure Bass Sound  Compatibile con Siri e Google  Leggere e Pieghevoli  Da Viaggio  Bianco
 ---
 
 Ahora mismo tienes [JBL Tune 500 Cuffie Sovraurali  Cuffia On Ear con Microfono e Comando Remoto ad 1 Pulsante  JBL Pure Bass Sound  Compatibile con Siri e Google  Leggere e Pieghevoli  Da Viaggio  Bianco](https://www.amazon.it/dp/B07J2R8LNL/?tag=tolees00-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

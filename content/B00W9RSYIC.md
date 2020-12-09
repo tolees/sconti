@@ -10,8 +10,11 @@ author: ring
 slug: B00W9RSYIC
 description:
 actualPrice: 8.49 EUR
+currency: EUR
+price: 8.49
 comparePrice: 16.0 EUR
 inStock: true
+prodname: Calvin Klein underwear - RADIANT COTTON - BIKINI  Intimo da donna  bianco  white 100   M
 ---
 
 Ahora mismo tienes [Calvin Klein underwear - RADIANT COTTON - BIKINI  Intimo da donna  bianco  white 100   M](https://www.amazon.it/dp/B00W9RSYIC/?tag=tolees00-21) a 8.49 EUR (original: 16.0 EUR) (46.94 %  de descuento) en el siguiente enlace!

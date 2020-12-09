@@ -10,8 +10,11 @@ author: ring
 slug: B00DSKSGKK
 description:
 actualPrice: 103.49 EUR
+currency: EUR
+price: 103.49
 comparePrice: 143.54 EUR
 inStock: true
+prodname: Cybex Silver Solution X-Fix  Seggiolino Auto per Bambini  Gruppo 2/3/15-36 kg  da 3 fino a 12 Anni Circa  per Auto Con e Senza ISOFIX  Blu/Navy Blue/Blue Moon
 ---
 
 Está [Cybex Silver Solution X-Fix  Seggiolino Auto per Bambini  Gruppo 2/3/15-36 kg  da 3 fino a 12 Anni Circa  per Auto Con e Senza ISOFIX  Blu/Navy Blue/Blue Moon](https://www.amazon.it/dp/B00DSKSGKK/?tag=tolees00-21) con 27.90 de descuento por 103.49 EUR (original: 143.54 EUR) en el siguiente enlace!

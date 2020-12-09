@@ -10,8 +10,11 @@ author: ring
 slug: B01B7HVW7O
 description:
 actualPrice: 179.99 EUR
+currency: EUR
+price: 179.99
 comparePrice: 253.81 EUR
 inStock: true
+prodname: Bosch MUM5 CreationLine MUM58243  Planetaria Robot da Cucina  Bianco  700 W  4 velocità + Pulse
 ---
 
 Está [Bosch MUM5 CreationLine MUM58243  Planetaria Robot da Cucina  Bianco  700 W  4 velocità + Pulse](https://www.amazon.it/dp/B01B7HVW7O/?tag=tolees00-21) con 29.08 de descuento por 179.99 EUR (original: 253.81 EUR) en el siguiente enlace!

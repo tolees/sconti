@@ -10,8 +10,11 @@ author: ring
 slug: B07JZSXJPK
 description:
 actualPrice: 19.0 EUR
+currency: EUR
+price: 19.0
 comparePrice: 27.3 EUR
 inStock: true
+prodname: Fossil Collana con barra in ottone tonalità argento
 ---
 
 Ahora mismo tienes [Fossil Collana con barra in ottone tonalità argento](https://www.amazon.it/dp/B07JZSXJPK/?tag=tolees00-21) a 19.0 EUR (original: 27.3 EUR) (30.40 %  de descuento) en el siguiente enlace!

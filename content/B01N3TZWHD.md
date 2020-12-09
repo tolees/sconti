@@ -10,8 +10,11 @@ author: ring
 slug: B01N3TZWHD
 description:
 actualPrice: 57.73 EUR
+currency: EUR
+price: 57.73
 comparePrice: 94.4 EUR
 inStock: true
+prodname: Tognana Rock Batteria 8 Pezzi  Rame  Rosso
 ---
 
 Tienes [Tognana Rock Batteria 8 Pezzi  Rame  Rosso](https://www.amazon.it/dp/B01N3TZWHD/?tag=tolees00-21) con un 38.85 % de descuento con precio de oferta de 57.73 EUR (original: 94.4 EUR) en el siguiente enlace!

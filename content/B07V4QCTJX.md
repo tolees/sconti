@@ -10,8 +10,11 @@ author: ring
 slug: B07V4QCTJX
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Superdry Classic Trunk Triple Pack Boxer  Blu  Cobalt Multipack T3U   XS Uomo
 ---
 
 Está [Superdry Classic Trunk Triple Pack Boxer  Blu  Cobalt Multipack T3U   XS Uomo](https://www.amazon.it/dp/B07V4QCTJX/?tag=tolees00-21) con 77.28 de descuento por 7.95 EUR (original: 34.99 EUR) en el siguiente enlace!

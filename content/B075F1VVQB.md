@@ -10,8 +10,11 @@ author: ring
 slug: B075F1VVQB
 description:
 actualPrice: 19.5 EUR
+currency: EUR
+price: 19.5
 comparePrice: 28.82 EUR
 inStock: true
+prodname: Trust Mouse Gaming GXT 138 X-Ray  Sensore Ottico 4000 DPI  10 Pulsanti Programmabili  Illuminazione RGB Personalizzabile  Nero
 ---
 
 Ahora mismo tienes [Trust Mouse Gaming GXT 138 X-Ray  Sensore Ottico 4000 DPI  10 Pulsanti Programmabili  Illuminazione RGB Personalizzabile  Nero](https://www.amazon.it/dp/B075F1VVQB/?tag=tolees00-21) a 19.5 EUR (original: 28.82 EUR) (32.34 %  de descuento) en el siguiente enlace!

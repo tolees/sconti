@@ -10,8 +10,11 @@ author: ring
 slug: B085CXY4DB
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Braun Series 5 50-B1200s Rasoio Elettrico Barba con Rifinitore di Precisione  Wet&Dry  Ricaricabile  Rasoio a Lamina senza Fili  Blu  Idea Regalo Natale
 ---
 
 Está [Braun Series 5 50-B1200s Rasoio Elettrico Barba con Rifinitore di Precisione  Wet&Dry  Ricaricabile  Rasoio a Lamina senza Fili  Blu  Idea Regalo Natale](https://www.amazon.it/dp/B085CXY4DB/?tag=tolees00-21) con 41.67 de descuento por 69.99 EUR (original: 119.99 EUR) en el siguiente enlace!

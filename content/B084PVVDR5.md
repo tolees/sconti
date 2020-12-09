@@ -10,8 +10,11 @@ author: ring
 slug: B084PVVDR5
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 67.99 EUR
 inStock: true
+prodname: Marvel s Avengers - COMIC Book [Esclusiva Amazon.It] - Day-One Limited - PlayStation 4
 ---
 
 Está [Marvel s Avengers - COMIC Book [Esclusiva Amazon.It] - Day-One Limited - PlayStation 4](https://www.amazon.it/dp/B084PVVDR5/?tag=tolees00-21) con 48.54 de descuento por 34.99 EUR (original: 67.99 EUR) en el siguiente enlace!

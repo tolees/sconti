@@ -10,8 +10,11 @@ author: ring
 slug: B07XRXVSBL
 description:
 actualPrice: 19.35 EUR
+currency: EUR
+price: 19.35
 comparePrice: 25.9 EUR
 inStock: true
+prodname: Dixan Discs Classico Detersivo Lavatrice Predosato in Capsule 4 in 1  3 x 36 Lavaggi
 ---
 
 Está [Dixan Discs Classico Detersivo Lavatrice Predosato in Capsule 4 in 1  3 x 36 Lavaggi](https://www.amazon.it/dp/B07XRXVSBL/?tag=tolees00-21) con 25.29 de descuento por 19.35 EUR (original: 25.9 EUR) en el siguiente enlace!

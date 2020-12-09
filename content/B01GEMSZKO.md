@@ -10,8 +10,11 @@ author: ring
 slug: B01GEMSZKO
 description:
 actualPrice: 3.12 EUR
+currency: EUR
+price: 3.12
 comparePrice: 5.65 EUR
 inStock: true
+prodname: Mulino Bianco Barilla Torta al Cacao con Farcitura di Albicocche - 570 g
 ---
 
 Está [Mulino Bianco Barilla Torta al Cacao con Farcitura di Albicocche - 570 g](https://www.amazon.it/dp/B01GEMSZKO/?tag=tolees00-21) con 44.78 de descuento por 3.12 EUR (original: 5.65 EUR) en el siguiente enlace!

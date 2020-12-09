@@ -10,8 +10,11 @@ author: ring
 slug: B07RXWGTM4
 description:
 actualPrice: 20.48 EUR
+currency: EUR
+price: 20.48
 comparePrice: 30.1 EUR
 inStock: true
+prodname: Diesel Discover-me Oderzo  Borsa a Tracolla Uomo  Blu  Blue Nights   1 x 22 x 18 cm  W x H x L 
 ---
 
 Tienes [Diesel Discover-me Oderzo  Borsa a Tracolla Uomo  Blu  Blue Nights   1 x 22 x 18 cm  W x H x L ](https://www.amazon.it/dp/B07RXWGTM4/?tag=tolees00-21) con un 31.96 % de descuento con precio de oferta de 20.48 EUR (original: 30.1 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RML11PB
 description:
 actualPrice: 15.8 EUR
+currency: EUR
+price: 15.8
 comparePrice: 24.99 EUR
 inStock: true
+prodname: L.O.L Surprise! - LOL Sparkle con Sorprese e Accessori - Giochi Preziosi  LLU77000 [Versione Italiana]
 ---
 
 Ahora mismo tienes [L.O.L Surprise! - LOL Sparkle con Sorprese e Accessori - Giochi Preziosi  LLU77000 [Versione Italiana]](https://www.amazon.it/dp/B07RML11PB/?tag=tolees00-21) a 15.8 EUR (original: 24.99 EUR) (36.77 %  de descuento) en el siguiente enlace!

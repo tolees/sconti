@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ32KKC
 description:
 actualPrice: 26.77 EUR
+currency: EUR
+price: 26.77
 comparePrice: 50.49 EUR
 inStock: true
+prodname: Set da Ping Pong Set Racchette Ping Pong  2 Racchette Ping Pong 1 Borsa Portatile
 ---
 
 Tienes [Set da Ping Pong Set Racchette Ping Pong  2 Racchette Ping Pong 1 Borsa Portatile](https://www.amazon.it/dp/B07DJ32KKC/?tag=tolees00-21) con un 46.98 % de descuento con precio de oferta de 26.77 EUR (original: 50.49 EUR) en el siguiente enlace!

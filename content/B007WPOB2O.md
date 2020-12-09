@@ -10,8 +10,11 @@ author: ring
 slug: B007WPOB2O
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 24.0 EUR
 inStock: true
+prodname: Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Marine Blue   43/44 EU
 ---
 
 Tienes [Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Marine Blue   43/44 EU](https://www.amazon.it/dp/B007WPOB2O/?tag=tolees00-21) con un 25.04 % de descuento con precio de oferta de 17.99 EUR (original: 24.0 EUR) en el siguiente enlace!

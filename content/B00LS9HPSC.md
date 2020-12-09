@@ -10,8 +10,11 @@ author: ring
 slug: B00LS9HPSC
 description:
 actualPrice: 53.99 EUR
+currency: EUR
+price: 53.99
 comparePrice: 90.0 EUR
 inStock: true
+prodname: K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Blu  Blue Depht   Small  Taglia produttore: S 
 ---
 
 Está [K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Blu  Blue Depht   Small  Taglia produttore: S ](https://www.amazon.it/dp/B00LS9HPSC/?tag=tolees00-21) con 40.01 de descuento por 53.99 EUR (original: 90.0 EUR) en el siguiente enlace!

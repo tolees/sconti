@@ -10,8 +10,11 @@ author: ring
 slug: B07PMTLQV7
 description:
 actualPrice: 11.62 EUR
+currency: EUR
+price: 11.62
 comparePrice: 26.0 EUR
 inStock: true
+prodname: Under Armour Challenger III Knit  Pantaloncini Uomo  Nero  Black - 001   MD
 ---
 
 Está [Under Armour Challenger III Knit  Pantaloncini Uomo  Nero  Black - 001   MD](https://www.amazon.it/dp/B07PMTLQV7/?tag=tolees00-21) con 55.31 de descuento por 11.62 EUR (original: 26.0 EUR) en el siguiente enlace!

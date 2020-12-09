@@ -10,8 +10,11 @@ author: ring
 slug: B07M5Q3ZRC
 description:
 actualPrice: 40.71 EUR
+currency: EUR
+price: 40.71
 comparePrice: 80.61 EUR
 inStock: true
+prodname: Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Purple Black 53  44.5 EU
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Purple Black 53  44.5 EU](https://www.amazon.it/dp/B07M5Q3ZRC/?tag=tolees00-21) a 40.71 EUR (original: 80.61 EUR) (49.50 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B003PPCZRI
 description:
 actualPrice: 9.8 EUR
+currency: EUR
+price: 9.8
 comparePrice: 20.0 EUR
 inStock: true
+prodname: Eastpak Crew Single Portafoglio  13 Cm  Grigio  Sunday Grey 
 ---
 
 Ahora mismo tienes [Eastpak Crew Single Portafoglio  13 Cm  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCZRI/?tag=tolees00-21) a 9.8 EUR (original: 20.0 EUR) (51.00 %  de descuento) en el siguiente enlace!

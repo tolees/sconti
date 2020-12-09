@@ -10,8 +10,11 @@ author: ring
 slug: B004XKRO6Q
 description:
 actualPrice: 35.01 EUR
+currency: EUR
+price: 35.01
 comparePrice: 59.99 EUR
 inStock: true
+prodname: The Lord of the Rings - The Motion Picture Trilogy  Extended Edition  6 Blu-Ray+9 DVD 
 ---
 
 Está [The Lord of the Rings - The Motion Picture Trilogy  Extended Edition  6 Blu-Ray+9 DVD ](https://www.amazon.it/dp/B004XKRO6Q/?tag=tolees00-21) con 41.64 de descuento por 35.01 EUR (original: 59.99 EUR) en el siguiente enlace!

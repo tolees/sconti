@@ -10,8 +10,11 @@ author: ring
 slug: B07DDS2YDQ
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Only Onlvida Faux Fur Jacket Otw Giacca  Nero  Black   42  Taglia Produttore: Small  Donna
 ---
 
 Ahora mismo tienes [Only Onlvida Faux Fur Jacket Otw Giacca  Nero  Black   42  Taglia Produttore: Small  Donna](https://www.amazon.it/dp/B07DDS2YDQ/?tag=tolees00-21) a 27.99 EUR (original: 39.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

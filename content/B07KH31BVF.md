@@ -10,8 +10,11 @@ author: ring
 slug: B07KH31BVF
 description:
 actualPrice: 10.0 EUR
+currency: EUR
+price: 10.0
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Under Armour Blitzing II  Cappello Uomo  Blu  Midnight Navy/White 417   M/L
 ---
 
 Tienes [Under Armour Blitzing II  Cappello Uomo  Blu  Midnight Navy/White 417   M/L](https://www.amazon.it/dp/B07KH31BVF/?tag=tolees00-21) con un 49.97 % de descuento con precio de oferta de 10.0 EUR (original: 19.99 EUR) en el siguiente enlace!

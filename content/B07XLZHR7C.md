@@ -10,8 +10,11 @@ author: ring
 slug: B07XLZHR7C
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 28.99 EUR
 inStock: true
+prodname: WESCO Cacciavite Elettrico 3.6V  3.5N.m Avvitatore a Batteria 1500mAh Li-ion Ricaricabile con 6 Punti WS2013
 ---
 
 Está [WESCO Cacciavite Elettrico 3.6V  3.5N.m Avvitatore a Batteria 1500mAh Li-ion Ricaricabile con 6 Punti WS2013](https://www.amazon.it/dp/B07XLZHR7C/?tag=tolees00-21) con 65.54 de descuento por 9.99 EUR (original: 28.99 EUR) en el siguiente enlace!

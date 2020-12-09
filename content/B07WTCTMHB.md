@@ -10,8 +10,11 @@ author: ring
 slug: B07WTCTMHB
 description:
 actualPrice: 10.19 EUR
+currency: EUR
+price: 10.19
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Note D Espresso Brasile  Capsule per caffè  esclusivamente compatibili con macchine Nescafé* e Dolce Gusto* 7 g x 96
 ---
 
 Está [Note D Espresso Brasile  Capsule per caffè  esclusivamente compatibili con macchine Nescafé* e Dolce Gusto* 7 g x 96](https://www.amazon.it/dp/B07WTCTMHB/?tag=tolees00-21) con 40.02 de descuento por 10.19 EUR (original: 16.99 EUR) en el siguiente enlace!

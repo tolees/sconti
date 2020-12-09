@@ -10,8 +10,11 @@ author: ring
 slug: B077TVQF9T
 description:
 actualPrice: 18.14 EUR
+currency: EUR
+price: 18.14
 comparePrice: 31.52 EUR
 inStock: true
+prodname: BabyCalin DIS510801 Mat Wechseln  50cm x 70cm  Disney Winnie Hallo Funshine  mehrfarbig  1 Stück  DISNEY BABY
 ---
 
 Está [BabyCalin DIS510801 Mat Wechseln  50cm x 70cm  Disney Winnie Hallo Funshine  mehrfarbig  1 Stück  DISNEY BABY](https://www.amazon.it/dp/B077TVQF9T/?tag=tolees00-21) con 42.45 de descuento por 18.14 EUR (original: 31.52 EUR) en el siguiente enlace!

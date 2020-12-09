@@ -10,8 +10,11 @@ author: ring
 slug: B071RM4YKX
 description:
 actualPrice: 5.4 EUR
+currency: EUR
+price: 5.4
 comparePrice: 12.29 EUR
 inStock: true
+prodname: Activewear Canotta Sportiva con Stampa Donna  Blu  Graduated Pixel Print Aop   42  Taglia Produttore: Small 
 ---
 
 Ahora mismo tienes [Activewear Canotta Sportiva con Stampa Donna  Blu  Graduated Pixel Print Aop   42  Taglia Produttore: Small ](https://www.amazon.it/dp/B071RM4YKX/?tag=tolees00-21) a 5.4 EUR (original: 12.29 EUR) (56.06 %  de descuento) en el siguiente enlace!

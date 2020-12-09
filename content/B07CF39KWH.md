@@ -10,8 +10,11 @@ author: ring
 slug: B07CF39KWH
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Marvel s Spider-Man - PlayStation 4
 ---
 
 Ahora mismo tienes [Marvel s Spider-Man - PlayStation 4](https://www.amazon.it/dp/B07CF39KWH/?tag=tolees00-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

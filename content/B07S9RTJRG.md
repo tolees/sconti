@@ -10,8 +10,11 @@ author: ring
 slug: B07S9RTJRG
 description:
 actualPrice: 31.41 EUR
+currency: EUR
+price: 31.41
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  White Black  37 EU
 ---
 
 Ahora mismo tienes [Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  White Black  37 EU](https://www.amazon.it/dp/B07S9RTJRG/?tag=tolees00-21) a 31.41 EUR (original: 49.95 EUR) (37.12 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GZ4BWZ2
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 59.95 EUR
 inStock: true
+prodname: BLACK+DECKER BEH710K-QS Trapano a Percussione a Filo Compact  4 Extra Punte in Valigetta  710 W  Arancione/Nero
 ---
 
 Está [BLACK+DECKER BEH710K-QS Trapano a Percussione a Filo Compact  4 Extra Punte in Valigetta  710 W  Arancione/Nero](https://www.amazon.it/dp/B07GZ4BWZ2/?tag=tolees00-21) con 41.63 de descuento por 34.99 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07SYPCXVL
 description:
 actualPrice: 22.63 EUR
+currency: EUR
+price: 22.63
 comparePrice: 45.0 EUR
 inStock: true
+prodname: ARMANI EXCHANGE Icon T T-Shirt  Bianco  White W/Saint Tropez 7141   X-Large Uomo
 ---
 
 Tienes [ARMANI EXCHANGE Icon T T-Shirt  Bianco  White W/Saint Tropez 7141   X-Large Uomo](https://www.amazon.it/dp/B07SYPCXVL/?tag=tolees00-21) con un 49.71 % de descuento con precio de oferta de 22.63 EUR (original: 45.0 EUR) en el siguiente enlace!

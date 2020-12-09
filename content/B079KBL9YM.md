@@ -10,8 +10,11 @@ author: ring
 slug: B079KBL9YM
 description:
 actualPrice: 18.27 EUR
+currency: EUR
+price: 18.27
 comparePrice: 26.5 EUR
 inStock: true
+prodname: MOTOPOWER MP00205A 12V 800mA Completamente Automatico Caricabatterie/manutentore per Auto  Moto  ATV  Camper  Powersports  Barca e Altro Ancora. Intelligente  Compatto ed Ecologico
 ---
 
 Ahora mismo tienes [MOTOPOWER MP00205A 12V 800mA Completamente Automatico Caricabatterie/manutentore per Auto  Moto  ATV  Camper  Powersports  Barca e Altro Ancora. Intelligente  Compatto ed Ecologico](https://www.amazon.it/dp/B079KBL9YM/?tag=tolees00-21) a 18.27 EUR (original: 26.5 EUR) (31.06 %  de descuento) en el siguiente enlace!

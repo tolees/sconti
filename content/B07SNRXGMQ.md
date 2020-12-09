@@ -10,8 +10,11 @@ author: ring
 slug: B07SNRXGMQ
 description:
 actualPrice: 39.98 EUR
+currency: EUR
+price: 39.98
 comparePrice: 79.95 EUR
 inStock: true
+prodname: adidas Forest Grove  Scarpe da Ginnastica Uomo  Gris Blanc Noir  44 EU
 ---
 
 Tienes [adidas Forest Grove  Scarpe da Ginnastica Uomo  Gris Blanc Noir  44 EU](https://www.amazon.it/dp/B07SNRXGMQ/?tag=tolees00-21) con un 49.99 % de descuento con precio de oferta de 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!

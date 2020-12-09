@@ -10,8 +10,11 @@ author: ring
 slug: B07BVXW4B2
 description:
 actualPrice: 89.9 EUR
+currency: EUR
+price: 89.9
 comparePrice: 159.9 EUR
 inStock: true
+prodname: Tomtom Navigatore Satellitare per Auto GO Basic  Traffico  Tutor e Autovelox di Prova  Mappe Europa  Aggiornamenti Tramite WiFi  Supporto Reversibile Integrato  5 Pollici
 ---
 
 Tienes [Tomtom Navigatore Satellitare per Auto GO Basic  Traffico  Tutor e Autovelox di Prova  Mappe Europa  Aggiornamenti Tramite WiFi  Supporto Reversibile Integrato  5 Pollici](https://www.amazon.it/dp/B07BVXW4B2/?tag=tolees00-21) con un 43.78 % de descuento con precio de oferta de 89.9 EUR (original: 159.9 EUR) en el siguiente enlace!

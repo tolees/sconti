@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVPQ85J
 description:
 actualPrice: 35.36 EUR
+currency: EUR
+price: 35.36
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Levi s Crew Maglia di Tuta  White  XL Uomo
 ---
 
 Está [Levi s Crew Maglia di Tuta  White  XL Uomo](https://www.amazon.it/dp/B07ZVPQ85J/?tag=tolees00-21) con 45.60 de descuento por 35.36 EUR (original: 65.0 EUR) en el siguiente enlace!

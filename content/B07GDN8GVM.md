@@ -10,8 +10,11 @@ author: ring
 slug: B07GDN8GVM
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Body & Earth Set Crema Mani in 6 Pezzi  Confezione Regalo da Viaggio  Cofanetto per Donna Compleanno o Feste-6 Profumi
 ---
 
 Está [Body & Earth Set Crema Mani in 6 Pezzi  Confezione Regalo da Viaggio  Cofanetto per Donna Compleanno o Feste-6 Profumi](https://www.amazon.it/dp/B07GDN8GVM/?tag=tolees00-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!

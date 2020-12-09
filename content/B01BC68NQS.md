@@ -10,8 +10,11 @@ author: ring
 slug: B01BC68NQS
 description:
 actualPrice: 29.0 EUR
+currency: EUR
+price: 29.0
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Lego Star Wars: Il Risveglio della Forza - PlayStation 3
 ---
 
 Tienes [Lego Star Wars: Il Risveglio della Forza - PlayStation 3](https://www.amazon.it/dp/B01BC68NQS/?tag=tolees00-21) con un 41.99 % de descuento con precio de oferta de 29.0 EUR (original: 49.99 EUR) en el siguiente enlace!

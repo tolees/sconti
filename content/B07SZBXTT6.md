@@ -10,8 +10,11 @@ author: ring
 slug: B07SZBXTT6
 description:
 actualPrice: 17.2 EUR
+currency: EUR
+price: 17.2
 comparePrice: 40.19 EUR
 inStock: true
+prodname: Marchio Amazon - Peak Velocity Pantaloni da Jogging Intrecciati. Athletic-Pants  Evelina  US M  EU M 
 ---
 
 Tienes [Marchio Amazon - Peak Velocity Pantaloni da Jogging Intrecciati. Athletic-Pants  Evelina  US M  EU M ](https://www.amazon.it/dp/B07SZBXTT6/?tag=tolees00-21) con un 57.20 % de descuento con precio de oferta de 17.2 EUR (original: 40.19 EUR) en el siguiente enlace!

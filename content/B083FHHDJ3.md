@@ -10,8 +10,11 @@ author: ring
 slug: B083FHHDJ3
 description:
 actualPrice: 53.82 EUR
+currency: EUR
+price: 53.82
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Lacoste L1212 Polo  Nidus  XL Uomo
 ---
 
 Ahora mismo tienes [Lacoste L1212 Polo  Nidus  XL Uomo](https://www.amazon.it/dp/B083FHHDJ3/?tag=tolees00-21) a 53.82 EUR (original: 95.0 EUR) (43.35 %  de descuento) en el siguiente enlace!

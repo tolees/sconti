@@ -10,8 +10,11 @@ author: ring
 slug: B00UEMF9TG
 description:
 actualPrice: 34.0 EUR
+currency: EUR
+price: 34.0
 comparePrice: 62.99 EUR
 inStock: true
+prodname: Philips Lighting Robin Lampada da Parete LED Up con Sensore di movimento per Esterni Giardino  Nero
 ---
 
 Ahora mismo tienes [Philips Lighting Robin Lampada da Parete LED Up con Sensore di movimento per Esterni Giardino  Nero](https://www.amazon.it/dp/B00UEMF9TG/?tag=tolees00-21) a 34.0 EUR (original: 62.99 EUR) (46.02 %  de descuento) en el siguiente enlace!

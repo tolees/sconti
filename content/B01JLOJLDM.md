@@ -10,8 +10,11 @@ author: ring
 slug: B01JLOJLDM
 description:
 actualPrice: 108.0 EUR
+currency: EUR
+price: 108.0
 comparePrice: 195.0 EUR
 inStock: true
+prodname: Scuderia Ferrari Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox 830357
 ---
 
 Ahora mismo tienes [Scuderia Ferrari Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox 830357](https://www.amazon.it/dp/B01JLOJLDM/?tag=tolees00-21) a 108.0 EUR (original: 195.0 EUR) (44.62 %  de descuento) en el siguiente enlace!

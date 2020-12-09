@@ -10,8 +10,11 @@ author: ring
 slug: B07DJFNFFN
 description:
 actualPrice: 12.4 EUR
+currency: EUR
+price: 12.4
 comparePrice: 50.0 EUR
 inStock: true
+prodname: New Balance 411  Scarpe da Corsa Bambina  Nero Black White  35 EU
 ---
 
 Está [New Balance 411  Scarpe da Corsa Bambina  Nero Black White  35 EU](https://www.amazon.it/dp/B07DJFNFFN/?tag=tolees00-21) con 75.20 de descuento por 12.4 EUR (original: 50.0 EUR) en el siguiente enlace!

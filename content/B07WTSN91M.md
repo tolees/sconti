@@ -10,8 +10,11 @@ author: ring
 slug: B07WTSN91M
 description:
 actualPrice: 9.77 EUR
+currency: EUR
+price: 9.77
 comparePrice: 15.99 EUR
 inStock: true
+prodname: TopMate Batteria Esterna da 10000 mAh per Caricabatterie Portatile Power Bank con Ingresso e Uscita di Tipo C | Design Ultra Sottile per Cellulare e Pad ECC. | Bianco
 ---
 
 Tienes [TopMate Batteria Esterna da 10000 mAh per Caricabatterie Portatile Power Bank con Ingresso e Uscita di Tipo C | Design Ultra Sottile per Cellulare e Pad ECC. | Bianco](https://www.amazon.it/dp/B07WTSN91M/?tag=tolees00-21) con un 38.90 % de descuento con precio de oferta de 9.77 EUR (original: 15.99 EUR) en el siguiente enlace!

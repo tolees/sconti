@@ -10,8 +10,11 @@ author: ring
 slug: B07KF5FCMS
 description:
 actualPrice: 76.93 EUR
+currency: EUR
+price: 76.93
 comparePrice: 130.0 EUR
 inStock: true
+prodname: Levi s Ex-BF Sherpa Trucker Giacca in Jeans  Strangerways  XL Donna
 ---
 
 Está [Levi s Ex-BF Sherpa Trucker Giacca in Jeans  Strangerways  XL Donna](https://www.amazon.it/dp/B07KF5FCMS/?tag=tolees00-21) con 40.82 de descuento por 76.93 EUR (original: 130.0 EUR) en el siguiente enlace!

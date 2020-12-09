@@ -10,8 +10,11 @@ author: ring
 slug: B01LXJICO0
 description:
 actualPrice: 3.1 EUR
+currency: EUR
+price: 3.1
 comparePrice: 5.46 EUR
 inStock: true
+prodname: BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori + 1 mina HB da 0.7 mm  Pacco da 1 Penna + 12 Ricariche   Ottime per l Ufficio
 ---
 
 Está [BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori + 1 mina HB da 0.7 mm  Pacco da 1 Penna + 12 Ricariche   Ottime per l Ufficio](https://www.amazon.it/dp/B01LXJICO0/?tag=tolees00-21) con 43.22 de descuento por 3.1 EUR (original: 5.46 EUR) en el siguiente enlace!

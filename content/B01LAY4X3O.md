@@ -10,8 +10,11 @@ author: ring
 slug: B01LAY4X3O
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 9.89 EUR
 inStock: true
+prodname: Oh My My
 ---
 
 Está [Oh My My](https://www.amazon.it/dp/B01LAY4X3O/?tag=tolees00-21) con 49.54 de descuento por 4.99 EUR (original: 9.89 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B001GLKDRW
 description:
 actualPrice: 9.08 EUR
+currency: EUR
+price: 9.08
 comparePrice: 12.9 EUR
 inStock: true
+prodname: Antica Distilleria Caffo Liquore d Erbe di Calabria  700ml
 ---
 
 Ahora mismo tienes [Antica Distilleria Caffo Liquore d Erbe di Calabria  700ml](https://www.amazon.it/dp/B001GLKDRW/?tag=tolees00-21) a 9.08 EUR (original: 12.9 EUR) (29.61 %  de descuento) en el siguiente enlace!

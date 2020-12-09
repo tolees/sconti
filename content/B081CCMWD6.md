@@ -10,8 +10,11 @@ author: ring
 slug: B081CCMWD6
 description:
 actualPrice: 29.88 EUR
+currency: EUR
+price: 29.88
 comparePrice: 49.8 EUR
 inStock: true
+prodname: DADYPET Giocattolo per Gatti Automatico  Giocattolo per Gatti con Topo Meccanico con Coda di Piume  Giocattolo per Gatti Interattivo con Ratto Cigolante - Ricaricabile Tramite USB
 ---
 
 Está [DADYPET Giocattolo per Gatti Automatico  Giocattolo per Gatti con Topo Meccanico con Coda di Piume  Giocattolo per Gatti Interattivo con Ratto Cigolante - Ricaricabile Tramite USB](https://www.amazon.it/dp/B081CCMWD6/?tag=tolees00-21) con 40.00 de descuento por 29.88 EUR (original: 49.8 EUR) en el siguiente enlace!

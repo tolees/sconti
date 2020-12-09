@@ -10,8 +10,11 @@ author: ring
 slug: B01N2BJRBJ
 description:
 actualPrice: 57.83 EUR
+currency: EUR
+price: 57.83
 comparePrice: 109.0 EUR
 inStock: true
+prodname: Orologio Uomo - Festina F20205-4
 ---
 
 Ahora mismo tienes [Orologio Uomo - Festina F20205-4](https://www.amazon.it/dp/B01N2BJRBJ/?tag=tolees00-21) a 57.83 EUR (original: 109.0 EUR) (46.94 %  de descuento) en el siguiente enlace!

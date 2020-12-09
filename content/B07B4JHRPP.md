@@ -10,8 +10,11 @@ author: ring
 slug: B07B4JHRPP
 description:
 actualPrice: 76.99 EUR
+currency: EUR
+price: 76.99
 comparePrice: 130.0 EUR
 inStock: true
+prodname: Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker  Uomo  Blu  Dark Sapphire  Tb0a1u634331   43 EU  8.5 UK 
 ---
 
 Ahora mismo tienes [Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker  Uomo  Blu  Dark Sapphire  Tb0a1u634331   43 EU  8.5 UK ](https://www.amazon.it/dp/B07B4JHRPP/?tag=tolees00-21) a 76.99 EUR (original: 130.0 EUR) (40.78 %  de descuento) en el siguiente enlace!

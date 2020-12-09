@@ -10,8 +10,11 @@ author: ring
 slug: B077YFTKB3
 description:
 actualPrice: 24.2 EUR
+currency: EUR
+price: 24.2
 comparePrice: 41.39 EUR
 inStock: true
+prodname: HIKARO Felpa con Cappuccio Uomo  Nero  Black   50  Taglia Produttore: Medium 
 ---
 
 Está [HIKARO Felpa con Cappuccio Uomo  Nero  Black   50  Taglia Produttore: Medium ](https://www.amazon.it/dp/B077YFTKB3/?tag=tolees00-21) con 41.53 de descuento por 24.2 EUR (original: 41.39 EUR) en el siguiente enlace!

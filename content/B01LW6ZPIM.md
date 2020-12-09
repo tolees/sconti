@@ -10,8 +10,11 @@ author: ring
 slug: B01LW6ZPIM
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Beats EP Cuffie con filo – Senza batteria per ascoltare musica non stop  controlli e microfono integrati – Bianco
 ---
 
 Ahora mismo tienes [Beats EP Cuffie con filo – Senza batteria per ascoltare musica non stop  controlli e microfono integrati – Bianco](https://www.amazon.it/dp/B01LW6ZPIM/?tag=tolees00-21) a 49.99 EUR (original: 99.95 EUR) (49.98 %  de descuento) en el siguiente enlace!

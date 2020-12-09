@@ -10,8 +10,11 @@ author: ring
 slug: B07L9RLKRP
 description:
 actualPrice: 128.2 EUR
+currency: EUR
+price: 128.2
 comparePrice: 179.0 EUR
 inStock: true
+prodname: NAPAPIJRI Rainforest M Sum 1 Giacca  Verde  New Olive Green Gd6   XX-Large Uomo
 ---
 
 Tienes [NAPAPIJRI Rainforest M Sum 1 Giacca  Verde  New Olive Green Gd6   XX-Large Uomo](https://www.amazon.it/dp/B07L9RLKRP/?tag=tolees00-21) con un 28.38 % de descuento con precio de oferta de 128.2 EUR (original: 179.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BNX3ZJ1
 description:
 actualPrice: 89.0 EUR
+currency: EUR
+price: 89.0
 comparePrice: 128.93 EUR
 inStock: true
+prodname: Tommy Hilfiger Multi-quadrante Quarzo Orologio da Polso 1791489
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Multi-quadrante Quarzo Orologio da Polso 1791489](https://www.amazon.it/dp/B07BNX3ZJ1/?tag=tolees00-21) a 89.0 EUR (original: 128.93 EUR) (30.97 %  de descuento) en el siguiente enlace!

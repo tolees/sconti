@@ -10,8 +10,11 @@ author: ring
 slug: B00BMQ7WDO
 description:
 actualPrice: 21.49 EUR
+currency: EUR
+price: 21.49
 comparePrice: 37.58 EUR
 inStock: true
+prodname: Plein Air ZAP 30 - Sterminainsetti 30 W  Argento
 ---
 
 Está [Plein Air ZAP 30 - Sterminainsetti 30 W  Argento](https://www.amazon.it/dp/B00BMQ7WDO/?tag=tolees00-21) con 42.82 de descuento por 21.49 EUR (original: 37.58 EUR) en el siguiente enlace!

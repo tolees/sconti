@@ -10,8 +10,11 @@ author: ring
 slug: B07W5MZYZR
 description:
 actualPrice: 30.66 EUR
+currency: EUR
+price: 30.66
 comparePrice: 76.66 EUR
 inStock: true
+prodname: Tommy Hilfiger Tommy Tipped Slim Polo  Blu  Sail Blue   Small  Taglia Unica:  Uomo
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Tommy Tipped Slim Polo  Blu  Sail Blue   Small  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07W5MZYZR/?tag=tolees00-21) a 30.66 EUR (original: 76.66 EUR) (60.01 %  de descuento) en el siguiente enlace!

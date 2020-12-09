@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ1VDHN
 description:
 actualPrice: 36.47 EUR
+currency: EUR
+price: 36.47
 comparePrice: 90.0 EUR
 inStock: true
+prodname: New Balance 997H Core  Scarpe da Ginnastica Uomo  Nero  Black/Black   38.5 EU
 ---
 
 Está [New Balance 997H Core  Scarpe da Ginnastica Uomo  Nero  Black/Black   38.5 EU](https://www.amazon.it/dp/B07DJ1VDHN/?tag=tolees00-21) con 59.48 de descuento por 36.47 EUR (original: 90.0 EUR) en el siguiente enlace!

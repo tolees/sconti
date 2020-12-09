@@ -10,8 +10,11 @@ author: ring
 slug: B078WST5RK
 description:
 actualPrice: 81.19 EUR
+currency: EUR
+price: 81.19
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Samsung MZ-76E1T0B / EU 860 EVO - SSD. Interno da 1 TB  550 megabyte / s  nero
 ---
 
 Tienes [Samsung MZ-76E1T0B / EU 860 EVO - SSD. Interno da 1 TB  550 megabyte / s  nero](https://www.amazon.it/dp/B078WST5RK/?tag=tolees00-21) con un 26.19 % de descuento con precio de oferta de 81.19 EUR (original: 110.0 EUR) en el siguiente enlace!

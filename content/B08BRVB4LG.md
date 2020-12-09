@@ -10,8 +10,11 @@ author: ring
 slug: B08BRVB4LG
 description:
 actualPrice: 15.9 EUR
+currency: EUR
+price: 15.9
 comparePrice: 21.9 EUR
 inStock: true
+prodname: Trust Gaming GXT 212 Mico Microfono USB PC  Connessioni da 3 5 mm e USB  Treppiede con angolo regolabile  Cavo da 1 80 m  per Streaming  Youtube  Twitch  Nero
 ---
 
 Está [Trust Gaming GXT 212 Mico Microfono USB PC  Connessioni da 3 5 mm e USB  Treppiede con angolo regolabile  Cavo da 1 80 m  per Streaming  Youtube  Twitch  Nero](https://www.amazon.it/dp/B08BRVB4LG/?tag=tolees00-21) con 27.40 de descuento por 15.9 EUR (original: 21.9 EUR) en el siguiente enlace!

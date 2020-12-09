@@ -10,8 +10,11 @@ author: ring
 slug: B07VDJBCJP
 description:
 actualPrice: 46.52 EUR
+currency: EUR
+price: 46.52
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Desigual Vest atenas Vestito  Blu  Azul Dali 5054   42  Taglia Produttore: 36  Donna
 ---
 
 Está [Desigual Vest atenas Vestito  Blu  Azul Dali 5054   42  Taglia Produttore: 36  Donna](https://www.amazon.it/dp/B07VDJBCJP/?tag=tolees00-21) con 57.69 de descuento por 46.52 EUR (original: 109.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07W7F4PVM
 description:
 actualPrice: 9.64 EUR
+currency: EUR
+price: 9.64
 comparePrice: 13.54 EUR
 inStock: true
+prodname: Funko- Pop Artists: Leonardo Davinci Collectible Toy  Multicolore  Standard  45251
 ---
 
 Tienes [Funko- Pop Artists: Leonardo Davinci Collectible Toy  Multicolore  Standard  45251](https://www.amazon.it/dp/B07W7F4PVM/?tag=tolees00-21) con un 28.80 % de descuento con precio de oferta de 9.64 EUR (original: 13.54 EUR) en el siguiente enlace!

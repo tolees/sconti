@@ -10,8 +10,11 @@ author: ring
 slug: B07NBP7P9N
 description:
 actualPrice: 11.23 EUR
+currency: EUR
+price: 11.23
 comparePrice: 24.95 EUR
 inStock: true
+prodname: adidas Adilette Shower  Scarpe da Spiaggia e Piscina Uomo  Blu  True Blue/Ftwr White/True Blue   42 EU
 ---
 
 Ahora mismo tienes [adidas Adilette Shower  Scarpe da Spiaggia e Piscina Uomo  Blu  True Blue/Ftwr White/True Blue   42 EU](https://www.amazon.it/dp/B07NBP7P9N/?tag=tolees00-21) a 11.23 EUR (original: 24.95 EUR) (54.99 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B073HBNC2D
 description:
 actualPrice: 6.3 EUR
+currency: EUR
+price: 6.3
 comparePrice: 10.23 EUR
 inStock: true
+prodname: Maybelline New York Superstay Matte Ink Rossetto Matte Liquido Tinta Labbra a Lunga Tenuta  15 Lover
 ---
 
 Ahora mismo tienes [Maybelline New York Superstay Matte Ink Rossetto Matte Liquido Tinta Labbra a Lunga Tenuta  15 Lover](https://www.amazon.it/dp/B073HBNC2D/?tag=tolees00-21) a 6.3 EUR (original: 10.23 EUR) (38.42 %  de descuento) en el siguiente enlace!

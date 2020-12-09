@@ -10,8 +10,11 @@ author: ring
 slug: B000MJZOPK
 description:
 actualPrice: 50.49 EUR
+currency: EUR
+price: 50.49
 comparePrice: 97.1 EUR
 inStock: true
+prodname: Issey Miyake Eau De Toilette Donna  100 ml
 ---
 
 Está [Issey Miyake Eau De Toilette Donna  100 ml](https://www.amazon.it/dp/B000MJZOPK/?tag=tolees00-21) con 48.00 de descuento por 50.49 EUR (original: 97.1 EUR) en el siguiente enlace!

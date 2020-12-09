@@ -10,8 +10,11 @@ author: ring
 slug: B01N7VW7PM
 description:
 actualPrice: 50.31 EUR
+currency: EUR
+price: 50.31
 comparePrice: 74.9 EUR
 inStock: true
+prodname: Durex Love Preservativi Comfort Facili da Indossare  144 Profilattici
 ---
 
 Ahora mismo tienes [Durex Love Preservativi Comfort Facili da Indossare  144 Profilattici](https://www.amazon.it/dp/B01N7VW7PM/?tag=tolees00-21) a 50.31 EUR (original: 74.9 EUR) (32.83 %  de descuento) en el siguiente enlace!

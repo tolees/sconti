@@ -10,8 +10,11 @@ author: ring
 slug: B0173APHAM
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Electrolux 9029795540 Accessorio e Componente per Lavastoviglie
 ---
 
 Está [Electrolux 9029795540 Accessorio e Componente per Lavastoviglie](https://www.amazon.it/dp/B0173APHAM/?tag=tolees00-21) con 66.59 de descuento por 9.99 EUR (original: 29.9 EUR) en el siguiente enlace!

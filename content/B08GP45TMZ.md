@@ -10,8 +10,11 @@ author: ring
 slug: B08GP45TMZ
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Cuffie Wireless TV con Trasmissione   Senza Fili Cuffia con Base di Ricarica e Porta 3.5mm AUX
 ---
 
 Está [Cuffie Wireless TV con Trasmissione   Senza Fili Cuffia con Base di Ricarica e Porta 3.5mm AUX](https://www.amazon.it/dp/B08GP45TMZ/?tag=tolees00-21) con 33.34 de descuento por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

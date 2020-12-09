@@ -10,8 +10,11 @@ author: ring
 slug: B07QPS8KBX
 description:
 actualPrice: 17.59 EUR
+currency: EUR
+price: 17.59
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Telecamera Wi-Fi Interno  CACAGOO 1080P Videocamera Sorveglianza Interno Wifi con Visione Notturna  Baby Monitor con Audio Bidirezionale e Visione Notturna  Activity Alert  Ruotato
 ---
 
 Tienes [Telecamera Wi-Fi Interno  CACAGOO 1080P Videocamera Sorveglianza Interno Wifi con Visione Notturna  Baby Monitor con Audio Bidirezionale e Visione Notturna  Activity Alert  Ruotato](https://www.amazon.it/dp/B07QPS8KBX/?tag=tolees00-21) con un 32.32 % de descuento con precio de oferta de 17.59 EUR (original: 25.99 EUR) en el siguiente enlace!

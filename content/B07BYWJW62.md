@@ -10,8 +10,11 @@ author: ring
 slug: B07BYWJW62
 description:
 actualPrice: 37.09 EUR
+currency: EUR
+price: 37.09
 comparePrice: 49.65 EUR
 inStock: true
+prodname: Paco Rabanne Profumo - 100 Ml
 ---
 
 Tienes [Paco Rabanne Profumo - 100 Ml](https://www.amazon.it/dp/B07BYWJW62/?tag=tolees00-21) con un 25.30 % de descuento con precio de oferta de 37.09 EUR (original: 49.65 EUR) en el siguiente enlace!

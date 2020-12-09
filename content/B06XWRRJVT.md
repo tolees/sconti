@@ -10,8 +10,11 @@ author: ring
 slug: B06XWRRJVT
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 31.14 EUR
 inStock: true
+prodname: Phd Barrette Diet Smart Bar Brownie Al Cioccolato  12 X 64G  31% Proteiche - 820 Gr
 ---
 
 Tienes [Phd Barrette Diet Smart Bar Brownie Al Cioccolato  12 X 64G  31% Proteiche - 820 Gr](https://www.amazon.it/dp/B06XWRRJVT/?tag=tolees00-21) con un 35.81 % de descuento con precio de oferta de 19.99 EUR (original: 31.14 EUR) en el siguiente enlace!

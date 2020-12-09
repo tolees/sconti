@@ -10,8 +10,11 @@ author: ring
 slug: B082DM8KZM
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 69.94 EUR
 inStock: true
+prodname: Echo Dot  3ª generazione  tessuto grigio chiaro  + Philips Hue White Lampadina LED Connessa  Attacco E27  Dimmerabile  Luce Bianca Calda
 ---
 
 Ahora mismo tienes [Echo Dot  3ª generazione  tessuto grigio chiaro  + Philips Hue White Lampadina LED Connessa  Attacco E27  Dimmerabile  Luce Bianca Calda](https://www.amazon.it/dp/B082DM8KZM/?tag=tolees00-21) a 24.99 EUR (original: 69.94 EUR) (64.27 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B084HXPN5Z
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Fallout 76  Wastelanders  PlayStation 4
 ---
 
 Tienes [Fallout 76  Wastelanders  PlayStation 4](https://www.amazon.it/dp/B084HXPN5Z/?tag=tolees00-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

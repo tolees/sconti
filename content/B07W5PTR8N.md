@@ -10,8 +10,11 @@ author: ring
 slug: B07W5PTR8N
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: LEGO Hidden Side La Metropolitana di Newbury  App per Giochi AR  Playset Multigiocatore Interattivo a Realtà Aumentata per iPhone/Android  70430
 ---
 
 Está [LEGO Hidden Side La Metropolitana di Newbury  App per Giochi AR  Playset Multigiocatore Interattivo a Realtà Aumentata per iPhone/Android  70430](https://www.amazon.it/dp/B07W5PTR8N/?tag=tolees00-21) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

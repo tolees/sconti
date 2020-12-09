@@ -10,8 +10,11 @@ author: ring
 slug: B06X3XSV5Y
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Adidas Adilette Shower  Scarpe da Squash Uomo  Blu Conavy Ftwwht Conavy Conavy Ftwwht Conavy  43 EU
 ---
 
 Está [Adidas Adilette Shower  Scarpe da Squash Uomo  Blu Conavy Ftwwht Conavy Conavy Ftwwht Conavy  43 EU](https://www.amazon.it/dp/B06X3XSV5Y/?tag=tolees00-21) con 31.90 de descuento por 16.99 EUR (original: 24.95 EUR) en el siguiente enlace!

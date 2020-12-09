@@ -10,8 +10,11 @@ author: ring
 slug: B00EVS4EY0
 description:
 actualPrice: 14.98 EUR
+currency: EUR
+price: 14.98
 comparePrice: 39.9 EUR
 inStock: true
+prodname: LEGO Friends
 ---
 
 Ahora mismo tienes [LEGO Friends](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21) a 14.98 EUR (original: 39.9 EUR) (62.46 %  de descuento) en el siguiente enlace!

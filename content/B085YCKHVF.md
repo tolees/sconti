@@ -10,8 +10,11 @@ author: ring
 slug: B085YCKHVF
 description:
 actualPrice: 11.46 EUR
+currency: EUR
+price: 11.46
 comparePrice: 29.95 EUR
 inStock: true
+prodname: YAMAMAY® Pantaloncino Donna Effetto Pelle - Party
 ---
 
 Ahora mismo tienes [YAMAMAY® Pantaloncino Donna Effetto Pelle - Party](https://www.amazon.it/dp/B085YCKHVF/?tag=tolees00-21) a 11.46 EUR (original: 29.95 EUR) (61.74 %  de descuento) en el siguiente enlace!

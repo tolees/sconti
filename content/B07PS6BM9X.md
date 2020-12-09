@@ -10,8 +10,11 @@ author: ring
 slug: B07PS6BM9X
 description:
 actualPrice: 15.43 EUR
+currency: EUR
+price: 15.43
 comparePrice: 41.9 EUR
 inStock: true
+prodname: Marchio Amazon - MERAKI Maglione in Cotone con Chiusura a Zip Uomo  Grigio  Charcoal   M  Label: M
 ---
 
 Está [Marchio Amazon - MERAKI Maglione in Cotone con Chiusura a Zip Uomo  Grigio  Charcoal   M  Label: M](https://www.amazon.it/dp/B07PS6BM9X/?tag=tolees00-21) con 63.17 de descuento por 15.43 EUR (original: 41.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00C6PIJPA
 description:
 actualPrice: 96.0 EUR
+currency: EUR
+price: 96.0
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK3197
 ---
 
 Está [Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK3197](https://www.amazon.it/dp/B00C6PIJPA/?tag=tolees00-21) con 51.76 de descuento por 96.0 EUR (original: 199.0 EUR) en el siguiente enlace!

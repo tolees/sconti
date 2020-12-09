@@ -10,8 +10,11 @@ author: ring
 slug: B00XAEXV1I
 description:
 actualPrice: 1.95 EUR
+currency: EUR
+price: 1.95
 comparePrice: 4.85 EUR
 inStock: true
+prodname: Carefree Protege-slip transpirante  cotone  44 pezzi
 ---
 
 Tienes [Carefree Protege-slip transpirante  cotone  44 pezzi](https://www.amazon.it/dp/B00XAEXV1I/?tag=tolees00-21) con un 59.79 % de descuento con precio de oferta de 1.95 EUR (original: 4.85 EUR) en el siguiente enlace!

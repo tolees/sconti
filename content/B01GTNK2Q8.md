@@ -10,8 +10,11 @@ author: ring
 slug: B01GTNK2Q8
 description:
 actualPrice: 77.95 EUR
+currency: EUR
+price: 77.95
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Spine VPD Air Slim
 ---
 
 Está [Spine VPD Air Slim](https://www.amazon.it/dp/B01GTNK2Q8/?tag=tolees00-21) con 48.03 de descuento por 77.95 EUR (original: 150.0 EUR) en el siguiente enlace!

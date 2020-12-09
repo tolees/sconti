@@ -10,8 +10,11 @@ author: ring
 slug: B07CZFPZHD
 description:
 actualPrice: 98.99 EUR
+currency: EUR
+price: 98.99
 comparePrice: 149.95 EUR
 inStock: true
+prodname: Salomon Speedcross 4 GTX Scarpe Da Trail Running Impermeabile Per Uomo
 ---
 
 Tienes [Salomon Speedcross 4 GTX Scarpe Da Trail Running Impermeabile Per Uomo](https://www.amazon.it/dp/B07CZFPZHD/?tag=tolees00-21) con un 33.98 % de descuento con precio de oferta de 98.99 EUR (original: 149.95 EUR) en el siguiente enlace!

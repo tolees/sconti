@@ -10,8 +10,11 @@ author: ring
 slug: B07F1WZ8FH
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Blu  Dark Blue Canvas   45.5 EU
 ---
 
 Tienes [Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Blu  Dark Blue Canvas   45.5 EU](https://www.amazon.it/dp/B07F1WZ8FH/?tag=tolees00-21) con un 50.78 % de descuento con precio de oferta de 31.99 EUR (original: 65.0 EUR) en el siguiente enlace!

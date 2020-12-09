@@ -10,8 +10,11 @@ author: ring
 slug: B003PPCYAQ
 description:
 actualPrice: 9.0 EUR
+currency: EUR
+price: 9.0
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Eastpak Orbit Mini Zaino  34 Cm  10 L  Grigio  Sunday Grey 
 ---
 
 Ahora mismo tienes [Eastpak Orbit Mini Zaino  34 Cm  10 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCYAQ/?tag=tolees00-21) a 9.0 EUR (original: 45.0 EUR) (80.00 %  de descuento) en el siguiente enlace!

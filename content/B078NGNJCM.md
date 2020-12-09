@@ -10,8 +10,11 @@ author: ring
 slug: B078NGNJCM
 description:
 actualPrice: 76.99 EUR
+currency: EUR
+price: 76.99
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Merrell Vapor Glove 3 Luna LTR  Scarpe da Ginnastica Uomo  Dusty Olive  44.5 EU
 ---
 
 Tienes [Merrell Vapor Glove 3 Luna LTR  Scarpe da Ginnastica Uomo  Dusty Olive  44.5 EU](https://www.amazon.it/dp/B078NGNJCM/?tag=tolees00-21) con un 35.84 % de descuento con precio de oferta de 76.99 EUR (original: 120.0 EUR) en el siguiente enlace!

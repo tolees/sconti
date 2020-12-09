@@ -10,8 +10,11 @@ author: ring
 slug: B086XWHC4N
 description:
 actualPrice: 15.49 EUR
+currency: EUR
+price: 15.49
 comparePrice: 26.99 EUR
 inStock: true
+prodname: FM London 310 Heavyweight Felpa con cappuccio  Grigio  L Uomo
 ---
 
 Ahora mismo tienes [FM London 310 Heavyweight Felpa con cappuccio  Grigio  L Uomo](https://www.amazon.it/dp/B086XWHC4N/?tag=tolees00-21) a 15.49 EUR (original: 26.99 EUR) (42.61 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B084DWG2VQ
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Nuovo Echo Dot  4ª generazione  - Altoparlante intelligente con Alexa - Antracite
 ---
 
 Tienes [Nuovo Echo Dot  4ª generazione  - Altoparlante intelligente con Alexa - Antracite](https://www.amazon.it/dp/B084DWG2VQ/?tag=tolees00-21) con un 50.01 % de descuento con precio de oferta de 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B019CEZS8S
 description:
 actualPrice: 469.0 EUR
+currency: EUR
+price: 469.0
 comparePrice: 640.0 EUR
 inStock: true
+prodname: Nikon Coolpix P900 Fotocamera Digitale Compatta  Sensore CMOS 16 Megapixel  Zoom 83X  VR  LCD 3"  Full HD  Wi-Fi  GPS  GLONASS  QZSS  Nero [Nital Card: 4 Anni di Garanzia]
 ---
 
 Tienes [Nikon Coolpix P900 Fotocamera Digitale Compatta  Sensore CMOS 16 Megapixel  Zoom 83X  VR  LCD 3"  Full HD  Wi-Fi  GPS  GLONASS  QZSS  Nero [Nital Card: 4 Anni di Garanzia]](https://www.amazon.it/dp/B019CEZS8S/?tag=tolees00-21) con un 26.72 % de descuento con precio de oferta de 469.0 EUR (original: 640.0 EUR) en el siguiente enlace!

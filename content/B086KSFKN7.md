@@ -10,8 +10,11 @@ author: ring
 slug: B086KSFKN7
 description:
 actualPrice: 1.59 EUR
+currency: EUR
+price: 1.59
 comparePrice: 2.69 EUR
 inStock: true
+prodname: Pringles Pringles Sour Cream & Onion - 175 g
 ---
 
 Ahora mismo tienes [Pringles Pringles Sour Cream & Onion - 175 g](https://www.amazon.it/dp/B086KSFKN7/?tag=tolees00-21) a 1.59 EUR (original: 2.69 EUR) (40.89 %  de descuento) en el siguiente enlace!

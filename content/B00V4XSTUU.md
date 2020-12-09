@@ -10,8 +10,11 @@ author: ring
 slug: B00V4XSTUU
 description:
 actualPrice: 13.32 EUR
+currency: EUR
+price: 13.32
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Scholl Gel Activ Work Solette da Lavoro per Uomo   40-46.5 EU  1 Paio  Modelli e Colori Assortiti
 ---
 
 Ahora mismo tienes [Scholl Gel Activ Work Solette da Lavoro per Uomo   40-46.5 EU  1 Paio  Modelli e Colori Assortiti](https://www.amazon.it/dp/B00V4XSTUU/?tag=tolees00-21) a 13.32 EUR (original: 18.99 EUR) (29.86 %  de descuento) en el siguiente enlace!

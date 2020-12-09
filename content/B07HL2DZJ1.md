@@ -10,8 +10,11 @@ author: ring
 slug: B07HL2DZJ1
 description:
 actualPrice: 5.32 EUR
+currency: EUR
+price: 5.32
 comparePrice: 26.67 EUR
 inStock: true
+prodname: Ffish Cover Custodia per Honor 9 Lite  Specchio [Tecnologia di Placcatura in Metallo] [Vetrata Traslucida] Custodia Protettiva Magnetica Ultra Sottile Cover per Huawei Honor 9 Lite  Blu
 ---
 
 Ahora mismo tienes [Ffish Cover Custodia per Honor 9 Lite  Specchio [Tecnologia di Placcatura in Metallo] [Vetrata Traslucida] Custodia Protettiva Magnetica Ultra Sottile Cover per Huawei Honor 9 Lite  Blu](https://www.amazon.it/dp/B07HL2DZJ1/?tag=tolees00-21) a 5.32 EUR (original: 26.67 EUR) (80.05 %  de descuento) en el siguiente enlace!

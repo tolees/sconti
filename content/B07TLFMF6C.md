@@ -10,8 +10,11 @@ author: ring
 slug: B07TLFMF6C
 description:
 actualPrice: 32.5 EUR
+currency: EUR
+price: 32.5
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Levi s Colorblock Crew Felpa  Red  Logo Colorblcok Earth Red/White/Black 0003   Small Uomo
 ---
 
 Tienes [Levi s Colorblock Crew Felpa  Red  Logo Colorblcok Earth Red/White/Black 0003   Small Uomo](https://www.amazon.it/dp/B07TLFMF6C/?tag=tolees00-21) con un 53.57 % de descuento con precio de oferta de 32.5 EUR (original: 70.0 EUR) en el siguiente enlace!

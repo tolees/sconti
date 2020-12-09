@@ -10,8 +10,11 @@ author: ring
 slug: B01BESQMYE
 description:
 actualPrice: 114.9 EUR
+currency: EUR
+price: 114.9
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK3514
 ---
 
 Ahora mismo tienes [Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK3514](https://www.amazon.it/dp/B01BESQMYE/?tag=tolees00-21) a 114.9 EUR (original: 199.0 EUR) (42.26 %  de descuento) en el siguiente enlace!

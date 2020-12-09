@@ -10,8 +10,11 @@ author: ring
 slug: B00CSB3ZX8
 description:
 actualPrice: 12.87 EUR
+currency: EUR
+price: 12.87
 comparePrice: 22.95 EUR
 inStock: true
+prodname: Laken Thermo Classic Bottiglia d Acqua  Isolamento sottovuoto  Acciaio Inossidabile  Bocca Larga  350ml  Nero
 ---
 
 Ahora mismo tienes [Laken Thermo Classic Bottiglia d Acqua  Isolamento sottovuoto  Acciaio Inossidabile  Bocca Larga  350ml  Nero](https://www.amazon.it/dp/B00CSB3ZX8/?tag=tolees00-21) a 12.87 EUR (original: 22.95 EUR) (43.92 %  de descuento) en el siguiente enlace!

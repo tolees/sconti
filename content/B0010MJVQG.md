@@ -10,8 +10,11 @@ author: ring
 slug: B0010MJVQG
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 24.9 EUR
 inStock: true
+prodname: Casio Sveglia Collection TQ-369-1EF
 ---
 
 Tienes [Casio Sveglia Collection TQ-369-1EF](https://www.amazon.it/dp/B0010MJVQG/?tag=tolees00-21) con un 35.78 % de descuento con precio de oferta de 15.99 EUR (original: 24.9 EUR) en el siguiente enlace!

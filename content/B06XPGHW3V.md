@@ -10,8 +10,11 @@ author: ring
 slug: B06XPGHW3V
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Kong: Skull Island  4K Ultra HD + Blu-Ray Disc + Copia Digitale   2 Blu-Ray 
 ---
 
 Está [Kong: Skull Island  4K Ultra HD + Blu-Ray Disc + Copia Digitale   2 Blu-Ray ](https://www.amazon.it/dp/B06XPGHW3V/?tag=tolees00-21) con 50.32 de descuento por 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

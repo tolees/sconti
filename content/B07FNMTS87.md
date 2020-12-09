@@ -10,8 +10,11 @@ author: ring
 slug: B07FNMTS87
 description:
 actualPrice: 34.9 EUR
+currency: EUR
+price: 34.9
 comparePrice: 49.99 EUR
 inStock: true
+prodname: LEGO DUPLO Town Caserma dei Pompieri  Luci e Suoni  Autopompa e 2 Figure dei Pompieri  Giocattoli per Bambini dai 2 ai 5 Anni  10903
 ---
 
 Está [LEGO DUPLO Town Caserma dei Pompieri  Luci e Suoni  Autopompa e 2 Figure dei Pompieri  Giocattoli per Bambini dai 2 ai 5 Anni  10903](https://www.amazon.it/dp/B07FNMTS87/?tag=tolees00-21) con 30.19 de descuento por 34.9 EUR (original: 49.99 EUR) en el siguiente enlace!

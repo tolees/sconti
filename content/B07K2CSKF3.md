@@ -10,8 +10,11 @@ author: ring
 slug: B07K2CSKF3
 description:
 actualPrice: 50.98 EUR
+currency: EUR
+price: 50.98
 comparePrice: 109.89 EUR
 inStock: true
+prodname: Timberland Adventure 2.0 Cupsole Modern Oxford  Sneaker Uomo  Nero  Black Full Grain   47.5 EU
 ---
 
 Está [Timberland Adventure 2.0 Cupsole Modern Oxford  Sneaker Uomo  Nero  Black Full Grain   47.5 EU](https://www.amazon.it/dp/B07K2CSKF3/?tag=tolees00-21) con 53.61 de descuento por 50.98 EUR (original: 109.89 EUR) en el siguiente enlace!

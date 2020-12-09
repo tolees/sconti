@@ -10,8 +10,11 @@ author: ring
 slug: B002LU1HNQ
 description:
 actualPrice: 48.99 EUR
+currency: EUR
+price: 48.99
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   FR 5
 ---
 
 Tienes [Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   FR 5](https://www.amazon.it/dp/B002LU1HNQ/?tag=tolees00-21) con un 48.43 % de descuento con precio de oferta de 48.99 EUR (original: 95.0 EUR) en el siguiente enlace!

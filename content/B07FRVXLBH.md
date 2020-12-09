@@ -10,8 +10,11 @@ author: ring
 slug: B07FRVXLBH
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: VEESUN Zaino Porta PC 15.6 Pollici  Zaino Computer Portatile con Porta USB Impermeabile Borsa Zaino Uomo Donna Lavoro università Scuola Business Viaggio  Classico Nero
 ---
 
 Ahora mismo tienes [VEESUN Zaino Porta PC 15.6 Pollici  Zaino Computer Portatile con Porta USB Impermeabile Borsa Zaino Uomo Donna Lavoro università Scuola Business Viaggio  Classico Nero](https://www.amazon.it/dp/B07FRVXLBH/?tag=tolees00-21) a 13.99 EUR (original: 25.99 EUR) (46.17 %  de descuento) en el siguiente enlace!

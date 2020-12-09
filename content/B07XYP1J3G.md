@@ -10,8 +10,11 @@ author: ring
 slug: B07XYP1J3G
 description:
 actualPrice: 18.6 EUR
+currency: EUR
+price: 18.6
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Dixan Duo-Caps Classico Detersivo Lavatrice Predosato in Caps  Pulito Profondo  Confezione da 112 Lavaggi
 ---
 
 Está [Dixan Duo-Caps Classico Detersivo Lavatrice Predosato in Caps  Pulito Profondo  Confezione da 112 Lavaggi](https://www.amazon.it/dp/B07XYP1J3G/?tag=tolees00-21) con 37.98 de descuento por 18.6 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TKNMXX6
 description:
 actualPrice: 18.49 EUR
+currency: EUR
+price: 18.49
 comparePrice: 28.0 EUR
 inStock: true
+prodname: Havaianas Slim Animals  Infradito Donna  Multicolore  Grey/Olive Green 7807   41/42 EU
 ---
 
 Ahora mismo tienes [Havaianas Slim Animals  Infradito Donna  Multicolore  Grey/Olive Green 7807   41/42 EU](https://www.amazon.it/dp/B07TKNMXX6/?tag=tolees00-21) a 18.49 EUR (original: 28.0 EUR) (33.96 %  de descuento) en el siguiente enlace!

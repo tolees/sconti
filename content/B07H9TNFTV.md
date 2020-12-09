@@ -10,8 +10,11 @@ author: ring
 slug: B07H9TNFTV
 description:
 actualPrice: 30.86 EUR
+currency: EUR
+price: 30.86
 comparePrice: 49.82 EUR
 inStock: true
+prodname: Laura Biagiotti Profumo - 75 Ml
 ---
 
 Ahora mismo tienes [Laura Biagiotti Profumo - 75 Ml](https://www.amazon.it/dp/B07H9TNFTV/?tag=tolees00-21) a 30.86 EUR (original: 49.82 EUR) (38.06 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00OPVS8MM
 description:
 actualPrice: 3.87 EUR
+currency: EUR
+price: 3.87
 comparePrice: 7.49 EUR
 inStock: true
+prodname: Grey L Acchiappacolore Fogli Cattura Colore Lavatrice Evita Incidenti Lavaggio  Foglietti Acchiappacolore e Anti-Sporco  Confezione 40 Fogli
 ---
 
 Está [Grey L Acchiappacolore Fogli Cattura Colore Lavatrice Evita Incidenti Lavaggio  Foglietti Acchiappacolore e Anti-Sporco  Confezione 40 Fogli](https://www.amazon.it/dp/B00OPVS8MM/?tag=tolees00-21) con 48.33 de descuento por 3.87 EUR (original: 7.49 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07XGDYVJK
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 70.99 EUR
 inStock: true
+prodname: Nba 2K20 - Standard - PlayStation 4
 ---
 
 Tienes [Nba 2K20 - Standard - PlayStation 4](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21) con un 70.43 % de descuento con precio de oferta de 20.99 EUR (original: 70.99 EUR) en el siguiente enlace!

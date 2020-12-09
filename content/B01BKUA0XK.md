@@ -10,8 +10,11 @@ author: ring
 slug: B01BKUA0XK
 description:
 actualPrice: 43.1 EUR
+currency: EUR
+price: 43.1
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Birkenstock Arizona - Sandali a Punta Aperta Uomo  Grigio  Brushed Emerald   42 EU
 ---
 
 Tienes [Birkenstock Arizona - Sandali a Punta Aperta Uomo  Grigio  Brushed Emerald   42 EU](https://www.amazon.it/dp/B01BKUA0XK/?tag=tolees00-21) con un 28.15 % de descuento con precio de oferta de 43.1 EUR (original: 59.99 EUR) en el siguiente enlace!

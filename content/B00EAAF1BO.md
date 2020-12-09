@@ -10,8 +10,11 @@ author: ring
 slug: B00EAAF1BO
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 47.99 EUR
 inStock: true
+prodname: Rowenta CV6030E0 Instant Dry Phon Asciugacapelli Diffusore per Capelli Sani e Lucenti
 ---
 
 Tienes [Rowenta CV6030E0 Instant Dry Phon Asciugacapelli Diffusore per Capelli Sani e Lucenti](https://www.amazon.it/dp/B00EAAF1BO/?tag=tolees00-21) con un 37.51 % de descuento con precio de oferta de 29.99 EUR (original: 47.99 EUR) en el siguiente enlace!

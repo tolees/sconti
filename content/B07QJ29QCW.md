@@ -10,8 +10,11 @@ author: ring
 slug: B07QJ29QCW
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 16.84 EUR
 inStock: true
+prodname: Funko- Pop Figura in Vinile Games Bandicoot-Crash Collezione  Multicolore  43343
 ---
 
 Ahora mismo tienes [Funko- Pop Figura in Vinile Games Bandicoot-Crash Collezione  Multicolore  43343](https://www.amazon.it/dp/B07QJ29QCW/?tag=tolees00-21) a 10.99 EUR (original: 16.84 EUR) (34.74 %  de descuento) en el siguiente enlace!

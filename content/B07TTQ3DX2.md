@@ -10,8 +10,11 @@ author: ring
 slug: B07TTQ3DX2
 description:
 actualPrice: 9.98 EUR
+currency: EUR
+price: 9.98
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Wrangler SS Logo Tee T-Shirt  Blu  Directoire Blue XKL   Small Uomo
 ---
 
 Tienes [Wrangler SS Logo Tee T-Shirt  Blu  Directoire Blue XKL   Small Uomo](https://www.amazon.it/dp/B07TTQ3DX2/?tag=tolees00-21) con un 49.97 % de descuento con precio de oferta de 9.98 EUR (original: 19.95 EUR) en el siguiente enlace!

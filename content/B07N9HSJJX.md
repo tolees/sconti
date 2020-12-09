@@ -10,8 +10,11 @@ author: ring
 slug: B07N9HSJJX
 description:
 actualPrice: 34.78 EUR
+currency: EUR
+price: 34.78
 comparePrice: 55.0 EUR
 inStock: true
+prodname: X-Bionic Invent Light Shirt Round Neck Short Sleeve Men  T Uomo  Opal Black/Arctic White  XL
 ---
 
 Tienes [X-Bionic Invent Light Shirt Round Neck Short Sleeve Men  T Uomo  Opal Black/Arctic White  XL](https://www.amazon.it/dp/B07N9HSJJX/?tag=tolees00-21) con un 36.76 % de descuento con precio de oferta de 34.78 EUR (original: 55.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BDYT58L
 description:
 actualPrice: 42.82 EUR
+currency: EUR
+price: 42.82
 comparePrice: 58.09 EUR
 inStock: true
+prodname: Super Smash Bros. Ultimate - Nintendo Switch - Nintendo Switch [Edizione: Spagna]
 ---
 
 Está [Super Smash Bros. Ultimate - Nintendo Switch - Nintendo Switch [Edizione: Spagna]](https://www.amazon.it/dp/B07BDYT58L/?tag=tolees00-21) con 26.29 de descuento por 42.82 EUR (original: 58.09 EUR) en el siguiente enlace!

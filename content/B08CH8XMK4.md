@@ -10,8 +10,11 @@ author: ring
 slug: B08CH8XMK4
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Mini Drone per Bambini e Principianti AT-66 RC Quadcopter Droni Elicottero Giocattolo  3D Flip modalità Headless 2 Due Batterie  Nero 
 ---
 
 Está [Mini Drone per Bambini e Principianti AT-66 RC Quadcopter Droni Elicottero Giocattolo  3D Flip modalità Headless 2 Due Batterie  Nero ](https://www.amazon.it/dp/B08CH8XMK4/?tag=tolees00-21) con 32.51 de descuento por 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!

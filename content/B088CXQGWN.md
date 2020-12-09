@@ -10,8 +10,11 @@ author: ring
 slug: B088CXQGWN
 description:
 actualPrice: 6.79 EUR
+currency: EUR
+price: 6.79
 comparePrice: 9.79 EUR
 inStock: true
+prodname: Reshias Cover per Sony Xperia L4 Morbido Trasparente TPU Silicone Protettiva Custodia con Due [9H Durezza] Vetro Temperato Pellicola Protettiva per Sony Xperia L4 6.2"
 ---
 
 Está [Reshias Cover per Sony Xperia L4 Morbido Trasparente TPU Silicone Protettiva Custodia con Due [9H Durezza] Vetro Temperato Pellicola Protettiva per Sony Xperia L4 6.2"](https://www.amazon.it/dp/B088CXQGWN/?tag=tolees00-21) con 30.64 de descuento por 6.79 EUR (original: 9.79 EUR) en el siguiente enlace!

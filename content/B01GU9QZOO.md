@@ -10,8 +10,11 @@ author: ring
 slug: B01GU9QZOO
 description:
 actualPrice: 179.0 EUR
+currency: EUR
+price: 179.0
 comparePrice: 399.9 EUR
 inStock: true
+prodname: Xtreme 90450 Sedile Racing con Supporto Cambio  Pedaliera e Volante  Compatibile con Tutte le Console  Playstation 4
 ---
 
 Está [Xtreme 90450 Sedile Racing con Supporto Cambio  Pedaliera e Volante  Compatibile con Tutte le Console  Playstation 4](https://www.amazon.it/dp/B01GU9QZOO/?tag=tolees00-21) con 55.24 de descuento por 179.0 EUR (original: 399.9 EUR) en el siguiente enlace!

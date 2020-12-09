@@ -10,8 +10,11 @@ author: ring
 slug: B01M9GVS1B
 description:
 actualPrice: 35.45 EUR
+currency: EUR
+price: 35.45
 comparePrice: 64.95 EUR
 inStock: true
+prodname: hummel Slimmer Stadil Tonal Low  Scarpe da Ginnastica Basse Unisex-Adulto  Nero  Black 2001   45 EU
 ---
 
 Está [hummel Slimmer Stadil Tonal Low  Scarpe da Ginnastica Basse Unisex-Adulto  Nero  Black 2001   45 EU](https://www.amazon.it/dp/B01M9GVS1B/?tag=tolees00-21) con 45.42 de descuento por 35.45 EUR (original: 64.95 EUR) en el siguiente enlace!

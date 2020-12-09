@@ -10,8 +10,11 @@ author: ring
 slug: B06Y46KJVF
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Cars 3 - Nintendo Switch
 ---
 
 Está [Cars 3 - Nintendo Switch](https://www.amazon.it/dp/B06Y46KJVF/?tag=tolees00-21) con 55.01 de descuento por 26.99 EUR (original: 59.99 EUR) en el siguiente enlace!

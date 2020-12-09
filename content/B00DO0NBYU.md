@@ -10,8 +10,11 @@ author: ring
 slug: B00DO0NBYU
 description:
 actualPrice: 82.0 EUR
+currency: EUR
+price: 82.0
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5
 ---
 
 Está [Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21) con 41.43 de descuento por 82.0 EUR (original: 140.0 EUR) en el siguiente enlace!

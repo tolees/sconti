@@ -10,8 +10,11 @@ author: ring
 slug: B00QX5FPVU
 description:
 actualPrice: 8.7 EUR
+currency: EUR
+price: 8.7
 comparePrice: 12.49 EUR
 inStock: true
+prodname: WD-40 Specialist Lubrificante  Alte Prestazioni al PTFE  400 Ml
 ---
 
 Tienes [WD-40 Specialist Lubrificante  Alte Prestazioni al PTFE  400 Ml](https://www.amazon.it/dp/B00QX5FPVU/?tag=tolees00-21) con un 30.34 % de descuento con precio de oferta de 8.7 EUR (original: 12.49 EUR) en el siguiente enlace!

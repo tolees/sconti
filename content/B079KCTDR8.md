@@ -10,8 +10,11 @@ author: ring
 slug: B079KCTDR8
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: JACK & JONES Jacjens Sock 10 Pack Noos Calze  Nero  Black   Taglia unica  Pacco da 10  Uomo
 ---
 
 Tienes [JACK & JONES Jacjens Sock 10 Pack Noos Calze  Nero  Black   Taglia unica  Pacco da 10  Uomo](https://www.amazon.it/dp/B079KCTDR8/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01N7CMUOY
 description:
 actualPrice: 17.43 EUR
+currency: EUR
+price: 17.43
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta  Nero  Flag Black 083   Large Uomo
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta  Nero  Flag Black 083   Large Uomo](https://www.amazon.it/dp/B01N7CMUOY/?tag=tolees00-21) a 17.43 EUR (original: 39.9 EUR) (56.32 %  de descuento) en el siguiente enlace!

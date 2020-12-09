@@ -10,8 +10,11 @@ author: ring
 slug: B00G9W4RSO
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Bosch MSM66155 Mixer a Immersione  Frullatore con 4 Accessori  600 W  Plastica  Bianco
 ---
 
 Tienes [Bosch MSM66155 Mixer a Immersione  Frullatore con 4 Accessori  600 W  Plastica  Bianco](https://www.amazon.it/dp/B00G9W4RSO/?tag=tolees00-21) con un 44.94 % de descuento con precio de oferta de 43.99 EUR (original: 79.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07X2Y1HGQ
 description:
 actualPrice: 7.7 EUR
+currency: EUR
+price: 7.7
 comparePrice: 10.85 EUR
 inStock: true
+prodname: Rimmel London Confezione Regalo Velvet Revolution Collection  Pochette con Set Smalti 60 Seconds e Top Coat
 ---
 
 Ahora mismo tienes [Rimmel London Confezione Regalo Velvet Revolution Collection  Pochette con Set Smalti 60 Seconds e Top Coat](https://www.amazon.it/dp/B07X2Y1HGQ/?tag=tolees00-21) a 7.7 EUR (original: 10.85 EUR) (29.03 %  de descuento) en el siguiente enlace!

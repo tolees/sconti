@@ -10,8 +10,11 @@ author: ring
 slug: B07TTRPJ8F
 description:
 actualPrice: 78.94 EUR
+currency: EUR
+price: 78.94
 comparePrice: 159.0 EUR
 inStock: true
+prodname: Trussardi Jeans  FRIDA TOTE LG QUILTED ECOLEATH Donna  W200  NR
 ---
 
 Está [Trussardi Jeans  FRIDA TOTE LG QUILTED ECOLEATH Donna  W200  NR](https://www.amazon.it/dp/B07TTRPJ8F/?tag=tolees00-21) con 50.35 de descuento por 78.94 EUR (original: 159.0 EUR) en el siguiente enlace!

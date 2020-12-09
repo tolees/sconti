@@ -10,8 +10,11 @@ author: ring
 slug: B08N6K5DKY
 description:
 actualPrice: 27.97 EUR
+currency: EUR
+price: 27.97
 comparePrice: 39.95 EUR
 inStock: true
+prodname: goldenpoint Poncho da Donna Micropile Collo Alto
 ---
 
 Está [goldenpoint Poncho da Donna Micropile Collo Alto](https://www.amazon.it/dp/B08N6K5DKY/?tag=tolees00-21) con 29.99 de descuento por 27.97 EUR (original: 39.95 EUR) en el siguiente enlace!

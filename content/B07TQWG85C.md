@@ -10,8 +10,11 @@ author: ring
 slug: B07TQWG85C
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 104.95 EUR
 inStock: true
+prodname: Clarks Un Costa Lace  Scarpe da Ginnastica Basse Uomo  Marrone  British Tan Lea British Tan Lea   42 EU
 ---
 
 Tienes [Clarks Un Costa Lace  Scarpe da Ginnastica Basse Uomo  Marrone  British Tan Lea British Tan Lea   42 EU](https://www.amazon.it/dp/B07TQWG85C/?tag=tolees00-21) con un 52.37 % de descuento con precio de oferta de 49.99 EUR (original: 104.95 EUR) en el siguiente enlace!

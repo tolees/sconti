@@ -10,8 +10,11 @@ author: ring
 slug: B00WG40MCO
 description:
 actualPrice: 0.69 EUR
+currency: EUR
+price: 0.69
 comparePrice: 1.45 EUR
 inStock: true
+prodname: Voiello Pasta Spaghetti Scanalati N.107  Pasta Lunga di Semola Grano Aureo 100% - 500 g
 ---
 
 Tienes [Voiello Pasta Spaghetti Scanalati N.107  Pasta Lunga di Semola Grano Aureo 100% - 500 g](https://www.amazon.it/dp/B00WG40MCO/?tag=tolees00-21) con un 52.41 % de descuento con precio de oferta de 0.69 EUR (original: 1.45 EUR) en el siguiente enlace!

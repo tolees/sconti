@@ -10,8 +10,11 @@ author: ring
 slug: B077ZYQ2NN
 description:
 actualPrice: 436.2 EUR
+currency: EUR
+price: 436.2
 comparePrice: 649.0 EUR
 inStock: true
+prodname: Candy CS4 H7A1DE-S Asciugatrice  7 kg  85x60x46 5 cm  Connettività NFC  Bianco
 ---
 
 Tienes [Candy CS4 H7A1DE-S Asciugatrice  7 kg  85x60x46 5 cm  Connettività NFC  Bianco](https://www.amazon.it/dp/B077ZYQ2NN/?tag=tolees00-21) con un 32.79 % de descuento con precio de oferta de 436.2 EUR (original: 649.0 EUR) en el siguiente enlace!

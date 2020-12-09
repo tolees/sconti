@@ -10,8 +10,11 @@ author: ring
 slug: B000EIA0LW
 description:
 actualPrice: 85.0 EUR
+currency: EUR
+price: 85.0
 comparePrice: 115.0 EUR
 inStock: true
+prodname: Invicta 8928 Pro Diver Orologio da Unisex acciaio inossidabile Automatico quadrante blu
 ---
 
 Ahora mismo tienes [Invicta 8928 Pro Diver Orologio da Unisex acciaio inossidabile Automatico quadrante blu](https://www.amazon.it/dp/B000EIA0LW/?tag=tolees00-21) a 85.0 EUR (original: 115.0 EUR) (26.09 %  de descuento) en el siguiente enlace!

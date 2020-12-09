@@ -10,8 +10,11 @@ author: ring
 slug: B01MUDOR25
 description:
 actualPrice: 99.68 EUR
+currency: EUR
+price: 99.68
 comparePrice: 178.0 EUR
 inStock: true
+prodname: Foppapedretti Lovely Completo Piumone con Paracolpi  Bianco
 ---
 
 Tienes [Foppapedretti Lovely Completo Piumone con Paracolpi  Bianco](https://www.amazon.it/dp/B01MUDOR25/?tag=tolees00-21) con un 44.00 % de descuento con precio de oferta de 99.68 EUR (original: 178.0 EUR) en el siguiente enlace!

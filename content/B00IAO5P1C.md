@@ -10,8 +10,11 @@ author: ring
 slug: B00IAO5P1C
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 22.0 EUR
 inStock: true
+prodname: Havaianas Flash Urban  Sandali Donna  Oro  Rose Gold 3581   35/36 EU
 ---
 
 Tienes [Havaianas Flash Urban  Sandali Donna  Oro  Rose Gold 3581   35/36 EU](https://www.amazon.it/dp/B00IAO5P1C/?tag=tolees00-21) con un 31.86 % de descuento con precio de oferta de 14.99 EUR (original: 22.0 EUR) en el siguiente enlace!

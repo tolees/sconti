@@ -10,8 +10,11 @@ author: ring
 slug: B07MCSPMX4
 description:
 actualPrice: 91.95 EUR
+currency: EUR
+price: 91.95
 comparePrice: 239.0 EUR
 inStock: true
+prodname: Napapijri Rainforest Pocket Giacca Uomo  100% Poliammide  Verde  Green Forest 2 GE3   M
 ---
 
 Ahora mismo tienes [Napapijri Rainforest Pocket Giacca Uomo  100% Poliammide  Verde  Green Forest 2 GE3   M](https://www.amazon.it/dp/B07MCSPMX4/?tag=tolees00-21) a 91.95 EUR (original: 239.0 EUR) (61.53 %  de descuento) en el siguiente enlace!

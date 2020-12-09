@@ -10,8 +10,11 @@ author: ring
 slug: B00ET40HZG
 description:
 actualPrice: 55.5 EUR
+currency: EUR
+price: 55.5
 comparePrice: 74.0 EUR
 inStock: true
+prodname: Salewa Alpinist Walk Ramponi a 12 Punte  Unisex adulto  Acciaio  Taglia Unica
 ---
 
 Está [Salewa Alpinist Walk Ramponi a 12 Punte  Unisex adulto  Acciaio  Taglia Unica](https://www.amazon.it/dp/B00ET40HZG/?tag=tolees00-21) con 25.00 de descuento por 55.5 EUR (original: 74.0 EUR) en el siguiente enlace!

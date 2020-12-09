@@ -10,8 +10,11 @@ author: ring
 slug: B072N6WRPR
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 64.81 EUR
 inStock: true
+prodname: Star Trek Ds9 Stg.1 7  Box 48 Dvd 
 ---
 
 Está [Star Trek Ds9 Stg.1 7  Box 48 Dvd ](https://www.amazon.it/dp/B072N6WRPR/?tag=tolees00-21) con 38.30 de descuento por 39.99 EUR (original: 64.81 EUR) en el siguiente enlace!

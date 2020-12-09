@@ -10,8 +10,11 @@ author: ring
 slug: B008HRFFJE
 description:
 actualPrice: 9.39 EUR
+currency: EUR
+price: 9.39
 comparePrice: 18.08 EUR
 inStock: true
+prodname: Bosch 2 607 017 082  Set punte per trapani  7 pezzi  Grigio
 ---
 
 Ahora mismo tienes [Bosch 2 607 017 082  Set punte per trapani  7 pezzi  Grigio](https://www.amazon.it/dp/B008HRFFJE/?tag=tolees00-21) a 9.39 EUR (original: 18.08 EUR) (48.06 %  de descuento) en el siguiente enlace!

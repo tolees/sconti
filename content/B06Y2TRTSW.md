@@ -10,8 +10,11 @@ author: ring
 slug: B06Y2TRTSW
 description:
 actualPrice: 69.0 EUR
+currency: EUR
+price: 69.0
 comparePrice: 129.0 EUR
 inStock: true
+prodname: Samsung VC07M3150VU Aspirapolvere a Traino senza Sacco Cyclone Force Animal  190 W  3 Spazzole  Rumorosità 80 dB  Earth Blu
 ---
 
 Tienes [Samsung VC07M3150VU Aspirapolvere a Traino senza Sacco Cyclone Force Animal  190 W  3 Spazzole  Rumorosità 80 dB  Earth Blu](https://www.amazon.it/dp/B06Y2TRTSW/?tag=tolees00-21) con un 46.51 % de descuento con precio de oferta de 69.0 EUR (original: 129.0 EUR) en el siguiente enlace!

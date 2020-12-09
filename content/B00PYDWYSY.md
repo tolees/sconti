@@ -10,8 +10,11 @@ author: ring
 slug: B00PYDWYSY
 description:
 actualPrice: 43.49 EUR
+currency: EUR
+price: 43.49
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Nike MD Runner 2  Scarpe da Running Uomo  Blu  Midnight Navy/White-Wolf Grey   47 EU
 ---
 
 Ahora mismo tienes [Nike MD Runner 2  Scarpe da Running Uomo  Blu  Midnight Navy/White-Wolf Grey   47 EU](https://www.amazon.it/dp/B00PYDWYSY/?tag=tolees00-21) a 43.49 EUR (original: 64.99 EUR) (33.08 %  de descuento) en el siguiente enlace!

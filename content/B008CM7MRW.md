@@ -10,8 +10,11 @@ author: ring
 slug: B008CM7MRW
 description:
 actualPrice: 177.88 EUR
+currency: EUR
+price: 177.88
 comparePrice: 262.0 EUR
 inStock: true
+prodname: Foppapedretti Ursus Stendibiancheria  Naturale
 ---
 
 Está [Foppapedretti Ursus Stendibiancheria  Naturale](https://www.amazon.it/dp/B008CM7MRW/?tag=tolees00-21) con 32.11 de descuento por 177.88 EUR (original: 262.0 EUR) en el siguiente enlace!

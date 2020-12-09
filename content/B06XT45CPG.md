@@ -10,8 +10,11 @@ author: ring
 slug: B06XT45CPG
 description:
 actualPrice: 22.52 EUR
+currency: EUR
+price: 22.52
 comparePrice: 31.0 EUR
 inStock: true
+prodname: Phd Barrette Diet Smart Bar Crunch Al Caramello  12 X 64G  31% Proteiche - 820 Gr
 ---
 
 Ahora mismo tienes [Phd Barrette Diet Smart Bar Crunch Al Caramello  12 X 64G  31% Proteiche - 820 Gr](https://www.amazon.it/dp/B06XT45CPG/?tag=tolees00-21) a 22.52 EUR (original: 31.0 EUR) (27.35 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00EDTCHJ6
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: LEGO DUPLO My First I Miei Primi Veicoli  Set di Mattoncini da Costruzione con 4 Veicoli  per Bambini di 1 5 anni  10886
 ---
 
 Está [LEGO DUPLO My First I Miei Primi Veicoli  Set di Mattoncini da Costruzione con 4 Veicoli  per Bambini di 1 5 anni  10886](https://www.amazon.it/dp/B00EDTCHJ6/?tag=tolees00-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

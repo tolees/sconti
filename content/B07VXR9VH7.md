@@ -10,8 +10,11 @@ author: ring
 slug: B07VXR9VH7
 description:
 actualPrice: 62.9 EUR
+currency: EUR
+price: 62.9
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Playmobil 70222 - Castello Di Novelmore  214 pezzi  dagli 8 anni
 ---
 
 Ahora mismo tienes [Playmobil 70222 - Castello Di Novelmore  214 pezzi  dagli 8 anni](https://www.amazon.it/dp/B07VXR9VH7/?tag=tolees00-21) a 62.9 EUR (original: 89.99 EUR) (30.10 %  de descuento) en el siguiente enlace!

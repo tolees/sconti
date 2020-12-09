@@ -10,8 +10,11 @@ author: ring
 slug: B07L8QSPJ9
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Readaeer AB Roller Ruota per Addominali Rullo Abdominal Roller
 ---
 
 Ahora mismo tienes [Readaeer AB Roller Ruota per Addominali Rullo Abdominal Roller](https://www.amazon.it/dp/B07L8QSPJ9/?tag=tolees00-21) a 12.99 EUR (original: 18.99 EUR) (31.60 %  de descuento) en el siguiente enlace!

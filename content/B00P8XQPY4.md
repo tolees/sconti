@@ -10,8 +10,11 @@ author: ring
 slug: B00P8XQPY4
 description:
 actualPrice: 20.82 EUR
+currency: EUR
+price: 20.82
 comparePrice: 55.99 EUR
 inStock: true
+prodname: Sandisk Cruzer Ultra Pen Drive USB 3.0  128 GB  Nero
 ---
 
 Ahora mismo tienes [Sandisk Cruzer Ultra Pen Drive USB 3.0  128 GB  Nero](https://www.amazon.it/dp/B00P8XQPY4/?tag=tolees00-21) a 20.82 EUR (original: 55.99 EUR) (62.81 %  de descuento) en el siguiente enlace!

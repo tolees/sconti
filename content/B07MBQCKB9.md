@@ -10,8 +10,11 @@ author: ring
 slug: B07MBQCKB9
 description:
 actualPrice: 25.94 EUR
+currency: EUR
+price: 25.94
 comparePrice: 41.6 EUR
 inStock: true
+prodname: Funko- Pop Vinile: Games: Fortnite: Loot Llama 10" Figura da Collezione  Multicolore  39049
 ---
 
 Está [Funko- Pop Vinile: Games: Fortnite: Loot Llama 10" Figura da Collezione  Multicolore  39049](https://www.amazon.it/dp/B07MBQCKB9/?tag=tolees00-21) con 37.64 de descuento por 25.94 EUR (original: 41.6 EUR) en el siguiente enlace!

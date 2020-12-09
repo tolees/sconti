@@ -10,8 +10,11 @@ author: ring
 slug: B00NABTGY2
 description:
 actualPrice: 17.98 EUR
+currency: EUR
+price: 17.98
 comparePrice: 27.79 EUR
 inStock: true
+prodname: AmazonBasics - Sacchetti per bisogni dei cani  con dispenser e clip per guinzaglio  confezione da 900
 ---
 
 Tienes [AmazonBasics - Sacchetti per bisogni dei cani  con dispenser e clip per guinzaglio  confezione da 900](https://www.amazon.it/dp/B00NABTGY2/?tag=tolees00-21) con un 35.30 % de descuento con precio de oferta de 17.98 EUR (original: 27.79 EUR) en el siguiente enlace!

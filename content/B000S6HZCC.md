@@ -10,8 +10,11 @@ author: ring
 slug: B000S6HZCC
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 27.9 EUR
 inStock: true
+prodname: Crank Brothers Multiutensile 17 funzioni  Nero  Schwarz   Taglia Unica
 ---
 
 Ahora mismo tienes [Crank Brothers Multiutensile 17 funzioni  Nero  Schwarz   Taglia Unica](https://www.amazon.it/dp/B000S6HZCC/?tag=tolees00-21) a 19.99 EUR (original: 27.9 EUR) (28.35 %  de descuento) en el siguiente enlace!

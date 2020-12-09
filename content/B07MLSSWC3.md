@@ -10,8 +10,11 @@ author: ring
 slug: B07MLSSWC3
 description:
 actualPrice: 54.15 EUR
+currency: EUR
+price: 54.15
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Clarks Batcombe Hall  Scarpe Stringate Derby Uomo  Marrone  Dark Brown Nub Dark Brown Nub   42.5 EU
 ---
 
 Está [Clarks Batcombe Hall  Scarpe Stringate Derby Uomo  Marrone  Dark Brown Nub Dark Brown Nub   42.5 EU](https://www.amazon.it/dp/B07MLSSWC3/?tag=tolees00-21) con 50.77 de descuento por 54.15 EUR (original: 110.0 EUR) en el siguiente enlace!

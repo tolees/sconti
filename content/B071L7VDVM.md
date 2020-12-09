@@ -10,8 +10,11 @@ author: ring
 slug: B071L7VDVM
 description:
 actualPrice: 30.05 EUR
+currency: EUR
+price: 30.05
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Lacoste Sport TH0123 T-Shirt  Nero  Noir   Small  Taglia Produttore: 3  Uomo
 ---
 
 Está [Lacoste Sport TH0123 T-Shirt  Nero  Noir   Small  Taglia Produttore: 3  Uomo](https://www.amazon.it/dp/B071L7VDVM/?tag=tolees00-21) con 33.22 de descuento por 30.05 EUR (original: 45.0 EUR) en el siguiente enlace!

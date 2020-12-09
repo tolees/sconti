@@ -10,8 +10,11 @@ author: ring
 slug: B08BHLRYG6
 description:
 actualPrice: 61.99 EUR
+currency: EUR
+price: 61.99
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Argento 
 ---
 
 Está [Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Argento ](https://www.amazon.it/dp/B08BHLRYG6/?tag=tolees00-21) con 37.38 de descuento por 61.99 EUR (original: 99.0 EUR) en el siguiente enlace!

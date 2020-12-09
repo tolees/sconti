@@ -10,8 +10,11 @@ author: ring
 slug: B07NVQNMVL
 description:
 actualPrice: 349.0 EUR
+currency: EUR
+price: 349.0
 comparePrice: 699.0 EUR
 inStock: true
+prodname: H.Koenig MSX254 Affettatrice elettrica per prosciuttie carni professionale di precisionelama 250 mm metallo acciaio inox salumi pane salumi rosso
 ---
 
 Está [H.Koenig MSX254 Affettatrice elettrica per prosciuttie carni professionale di precisionelama 250 mm metallo acciaio inox salumi pane salumi rosso](https://www.amazon.it/dp/B07NVQNMVL/?tag=tolees00-21) con 50.07 de descuento por 349.0 EUR (original: 699.0 EUR) en el siguiente enlace!

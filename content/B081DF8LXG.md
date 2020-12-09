@@ -10,8 +10,11 @@ author: ring
 slug: B081DF8LXG
 description:
 actualPrice: 2.13 EUR
+currency: EUR
+price: 2.13
 comparePrice: 2.95 EUR
 inStock: true
+prodname: Rio Mare  Filetti di Sgombro Grigliati Piccanti con Olio di Oliva  Ricchi di Omega 3  1 Lattina da 120 g
 ---
 
 Está [Rio Mare  Filetti di Sgombro Grigliati Piccanti con Olio di Oliva  Ricchi di Omega 3  1 Lattina da 120 g](https://www.amazon.it/dp/B081DF8LXG/?tag=tolees00-21) con 27.80 de descuento por 2.13 EUR (original: 2.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07VWL9CZB
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 34.9 EUR
 inStock: true
+prodname: Tommy Jeans Tjm Corp Logo Tee Camicia Sportiva  Blu  Twilight Navy C87   Large Uomo
 ---
 
 Tienes [Tommy Jeans Tjm Corp Logo Tee Camicia Sportiva  Blu  Twilight Navy C87   Large Uomo](https://www.amazon.it/dp/B07VWL9CZB/?tag=tolees00-21) con un 34.13 % de descuento con precio de oferta de 22.99 EUR (original: 34.9 EUR) en el siguiente enlace!

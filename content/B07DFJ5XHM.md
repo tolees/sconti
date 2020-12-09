@@ -10,8 +10,11 @@ author: ring
 slug: B07DFJ5XHM
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 15.9 EUR
 inStock: true
+prodname: THE LORD OF THE RINGS - POP FUNKO VINYL FIGURE 631 GALADRIEL 9CM
 ---
 
 Ahora mismo tienes [THE LORD OF THE RINGS - POP FUNKO VINYL FIGURE 631 GALADRIEL 9CM](https://www.amazon.it/dp/B07DFJ5XHM/?tag=tolees00-21) a 8.99 EUR (original: 15.9 EUR) (43.46 %  de descuento) en el siguiente enlace!

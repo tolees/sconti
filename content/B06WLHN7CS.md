@@ -10,8 +10,11 @@ author: ring
 slug: B06WLHN7CS
 description:
 actualPrice: 39.9 EUR
+currency: EUR
+price: 39.9
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Hoover SB 01 Scopa Elettrica senza Sacco Syrene  700W  Verde
 ---
 
 Tienes [Hoover SB 01 Scopa Elettrica senza Sacco Syrene  700W  Verde](https://www.amazon.it/dp/B06WLHN7CS/?tag=tolees00-21) con un 60.10 % de descuento con precio de oferta de 39.9 EUR (original: 99.99 EUR) en el siguiente enlace!

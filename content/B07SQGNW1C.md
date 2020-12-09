@@ -10,8 +10,11 @@ author: ring
 slug: B07SQGNW1C
 description:
 actualPrice: 38.76 EUR
+currency: EUR
+price: 38.76
 comparePrice: 109.9 EUR
 inStock: true
+prodname: Geox U Kennet B  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4064   44 EU
 ---
 
 Está [Geox U Kennet B  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4064   44 EU](https://www.amazon.it/dp/B07SQGNW1C/?tag=tolees00-21) con 64.73 de descuento por 38.76 EUR (original: 109.9 EUR) en el siguiente enlace!

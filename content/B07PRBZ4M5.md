@@ -10,8 +10,11 @@ author: ring
 slug: B07PRBZ4M5
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 74.39 EUR
 inStock: true
+prodname: Carrera Toys Carrera GO Max Speed – Set pista da corsa e due macchinine  una Mercedes e una Red Bull – Gioco adatto per bambini dai 6 anni  Colore Colorato  20062484
 ---
 
 Tienes [Carrera Toys Carrera GO Max Speed – Set pista da corsa e due macchinine  una Mercedes e una Red Bull – Gioco adatto per bambini dai 6 anni  Colore Colorato  20062484](https://www.amazon.it/dp/B07PRBZ4M5/?tag=tolees00-21) con un 32.80 % de descuento con precio de oferta de 49.99 EUR (original: 74.39 EUR) en el siguiente enlace!

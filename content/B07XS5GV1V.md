@@ -10,8 +10,11 @@ author: ring
 slug: B07XS5GV1V
 description:
 actualPrice: 89.99 EUR
+currency: EUR
+price: 89.99
 comparePrice: 179.0 EUR
 inStock: true
+prodname: Polti SR90B Forzaspira SLIM - Scopa Elettrica senza Fili  Ricaricabile  con Doppia Funzione  Tecnologia Ciclonica  Autonomia fino a 40 min  Parcheggio Verticale  Bianco/Blu
 ---
 
 Tienes [Polti SR90B Forzaspira SLIM - Scopa Elettrica senza Fili  Ricaricabile  con Doppia Funzione  Tecnologia Ciclonica  Autonomia fino a 40 min  Parcheggio Verticale  Bianco/Blu](https://www.amazon.it/dp/B07XS5GV1V/?tag=tolees00-21) con un 49.73 % de descuento con precio de oferta de 89.99 EUR (original: 179.0 EUR) en el siguiente enlace!

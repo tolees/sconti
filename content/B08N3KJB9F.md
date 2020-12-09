@@ -10,8 +10,11 @@ author: ring
 slug: B08N3KJB9F
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 49.94 EUR
 inStock: true
+prodname: Echo Flex + Philips Hue White Lampadina Connessa  E27   compatibile con Alexa
 ---
 
 Tienes [Echo Flex + Philips Hue White Lampadina Connessa  E27   compatibile con Alexa](https://www.amazon.it/dp/B08N3KJB9F/?tag=tolees00-21) con un 59.97 % de descuento con precio de oferta de 19.99 EUR (original: 49.94 EUR) en el siguiente enlace!

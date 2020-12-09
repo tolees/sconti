@@ -10,8 +10,11 @@ author: ring
 slug: B072HLKLMM
 description:
 actualPrice: 1.96 EUR
+currency: EUR
+price: 1.96
 comparePrice: 3.85 EUR
 inStock: true
+prodname: Vape Piastrine Verdessenza  Protezione contro le Zanzare con Componenti di Origine Vegetale  20 Pezzi
 ---
 
 Ahora mismo tienes [Vape Piastrine Verdessenza  Protezione contro le Zanzare con Componenti di Origine Vegetale  20 Pezzi](https://www.amazon.it/dp/B072HLKLMM/?tag=tolees00-21) a 1.96 EUR (original: 3.85 EUR) (49.09 %  de descuento) en el siguiente enlace!

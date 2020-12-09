@@ -10,8 +10,11 @@ author: ring
 slug: B08K9BLCGP
 description:
 actualPrice: 12.59 EUR
+currency: EUR
+price: 12.59
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Head & Shoulders Menthol Fresh 2In1 Shampoo e Balsamo Antiforfora Rinfrescante 3 x 540 ml
 ---
 
 Tienes [Head & Shoulders Menthol Fresh 2In1 Shampoo e Balsamo Antiforfora Rinfrescante 3 x 540 ml](https://www.amazon.it/dp/B08K9BLCGP/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 12.59 EUR (original: 17.99 EUR) en el siguiente enlace!

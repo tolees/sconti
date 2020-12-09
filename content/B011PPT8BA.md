@@ -10,8 +10,11 @@ author: ring
 slug: B011PPT8BA
 description:
 actualPrice: 11.5 EUR
+currency: EUR
+price: 11.5
 comparePrice: 22.98 EUR
 inStock: true
+prodname: Nightmare - La Collezione Completa  4 Blu-Ray 
 ---
 
 Está [Nightmare - La Collezione Completa  4 Blu-Ray ](https://www.amazon.it/dp/B011PPT8BA/?tag=tolees00-21) con 49.96 de descuento por 11.5 EUR (original: 22.98 EUR) en el siguiente enlace!

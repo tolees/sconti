@@ -10,8 +10,11 @@ author: ring
 slug: B07RRXJMVH
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Clementoni- Scienza e Gioco-Maker Lab-Animali in Movimento  Multicolore  19098
 ---
 
 Tienes [Clementoni- Scienza e Gioco-Maker Lab-Animali in Movimento  Multicolore  19098](https://www.amazon.it/dp/B07RRXJMVH/?tag=tolees00-21) con un 50.17 % de descuento con precio de oferta de 14.9 EUR (original: 29.9 EUR) en el siguiente enlace!

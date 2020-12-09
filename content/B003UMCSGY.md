@@ -10,8 +10,11 @@ author: ring
 slug: B003UMCSGY
 description:
 actualPrice: 1.69 EUR
+currency: EUR
+price: 1.69
 comparePrice: 2.56 EUR
 inStock: true
+prodname: Barilla - Sugo all Amatriciana - Salsa Pronta al Pomodoro con Pancetta  Cipolla e Peperoncino - 400 gr
 ---
 
 Está [Barilla - Sugo all Amatriciana - Salsa Pronta al Pomodoro con Pancetta  Cipolla e Peperoncino - 400 gr](https://www.amazon.it/dp/B003UMCSGY/?tag=tolees00-21) con 33.98 de descuento por 1.69 EUR (original: 2.56 EUR) en el siguiente enlace!

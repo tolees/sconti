@@ -10,8 +10,11 @@ author: ring
 slug: B07FCRLPJC
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: KODAK PRINTOMATIC Fotocamera istantanea  Verde  Foto a colori su carta fotografica Zink Zero Ink 2x3 con retro autoadesivo.
 ---
 
 Ahora mismo tienes [KODAK PRINTOMATIC Fotocamera istantanea  Verde  Foto a colori su carta fotografica Zink Zero Ink 2x3 con retro autoadesivo.](https://www.amazon.it/dp/B07FCRLPJC/?tag=tolees00-21) a 49.99 EUR (original: 99.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

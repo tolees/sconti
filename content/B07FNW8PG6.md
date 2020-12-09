@@ -10,8 +10,11 @@ author: ring
 slug: B07FNW8PG6
 description:
 actualPrice: 13.39 EUR
+currency: EUR
+price: 13.39
 comparePrice: 20.6 EUR
 inStock: true
+prodname: LEGO City - Auto da rally del deserto  60218
 ---
 
 Está [LEGO City - Auto da rally del deserto  60218](https://www.amazon.it/dp/B07FNW8PG6/?tag=tolees00-21) con 35.00 de descuento por 13.39 EUR (original: 20.6 EUR) en el siguiente enlace!

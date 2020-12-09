@@ -10,8 +10,11 @@ author: ring
 slug: B00F2J3UYW
 description:
 actualPrice: 2.58 EUR
+currency: EUR
+price: 2.58
 comparePrice: 4.66 EUR
 inStock: true
+prodname: SKYN Original  preservativi ultramorbidi senza lattice  6 pezzi
 ---
 
 Está [SKYN Original  preservativi ultramorbidi senza lattice  6 pezzi](https://www.amazon.it/dp/B00F2J3UYW/?tag=tolees00-21) con 44.64 de descuento por 2.58 EUR (original: 4.66 EUR) en el siguiente enlace!

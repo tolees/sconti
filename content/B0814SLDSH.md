@@ -10,8 +10,11 @@ author: ring
 slug: B0814SLDSH
 description:
 actualPrice: 13.0 EUR
+currency: EUR
+price: 13.0
 comparePrice: 21.95 EUR
 inStock: true
+prodname: Under Armour Patterson Sports Backpack Sacco Da Montagna  Unisex – Adulto  Verde  Taglia Unica
 ---
 
 Tienes [Under Armour Patterson Sports Backpack Sacco Da Montagna  Unisex – Adulto  Verde  Taglia Unica](https://www.amazon.it/dp/B0814SLDSH/?tag=tolees00-21) con un 40.77 % de descuento con precio de oferta de 13.0 EUR (original: 21.95 EUR) en el siguiente enlace!

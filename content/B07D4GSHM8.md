@@ -10,8 +10,11 @@ author: ring
 slug: B07D4GSHM8
 description:
 actualPrice: 11.0 EUR
+currency: EUR
+price: 11.0
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Acqua Di Parma Colonia Club Eau de Cologne  20 ml
 ---
 
 Está [Acqua Di Parma Colonia Club Eau de Cologne  20 ml](https://www.amazon.it/dp/B07D4GSHM8/?tag=tolees00-21) con 80.00 de descuento por 11.0 EUR (original: 55.0 EUR) en el siguiente enlace!

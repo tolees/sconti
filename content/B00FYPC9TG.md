@@ -10,8 +10,11 @@ author: ring
 slug: B00FYPC9TG
 description:
 actualPrice: 6.93 EUR
+currency: EUR
+price: 6.93
 comparePrice: 9.9 EUR
 inStock: true
+prodname: Leone 1947 PR321 Conchiglia Uomo  Nero  S
 ---
 
 Está [Leone 1947 PR321 Conchiglia Uomo  Nero  S](https://www.amazon.it/dp/B00FYPC9TG/?tag=tolees00-21) con 30.00 de descuento por 6.93 EUR (original: 9.9 EUR) en el siguiente enlace!

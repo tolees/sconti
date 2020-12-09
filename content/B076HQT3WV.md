@@ -10,8 +10,11 @@ author: ring
 slug: B076HQT3WV
 description:
 actualPrice: 26.5 EUR
+currency: EUR
+price: 26.5
 comparePrice: 39.99 EUR
 inStock: true
+prodname: adidas Core 18 SS  Felpa Uomo  Grigio  Dark Grey Heather/Black   S
 ---
 
 Ahora mismo tienes [adidas Core 18 SS  Felpa Uomo  Grigio  Dark Grey Heather/Black   S](https://www.amazon.it/dp/B076HQT3WV/?tag=tolees00-21) a 26.5 EUR (original: 39.99 EUR) (33.73 %  de descuento) en el siguiente enlace!

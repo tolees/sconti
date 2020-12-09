@@ -10,8 +10,11 @@ author: ring
 slug: B07NC67YVL
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: The Sims 4 - Vampiri DLC | Codice Origin per PC
 ---
 
 Tienes [The Sims 4 - Vampiri DLC | Codice Origin per PC](https://www.amazon.it/dp/B07NC67YVL/?tag=tolees00-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

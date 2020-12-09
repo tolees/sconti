@@ -10,8 +10,11 @@ author: ring
 slug: B08FCM9WTS
 description:
 actualPrice: 23.97 EUR
+currency: EUR
+price: 23.97
 comparePrice: 39.95 EUR
 inStock: true
+prodname: goldenpoint Leggings Wide Leg Crêpe
 ---
 
 Está [goldenpoint Leggings Wide Leg Crêpe](https://www.amazon.it/dp/B08FCM9WTS/?tag=tolees00-21) con 40.00 de descuento por 23.97 EUR (original: 39.95 EUR) en el siguiente enlace!

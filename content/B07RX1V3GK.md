@@ -10,8 +10,11 @@ author: ring
 slug: B07RX1V3GK
 description:
 actualPrice: 25.79 EUR
+currency: EUR
+price: 25.79
 comparePrice: 49.39 EUR
 inStock: true
+prodname: adidas Stan Smith J  Scarpe da Ginnastica  Ftwr White/Ftwr White/Core Black  35.5 EU
 ---
 
 Está [adidas Stan Smith J  Scarpe da Ginnastica  Ftwr White/Ftwr White/Core Black  35.5 EU](https://www.amazon.it/dp/B07RX1V3GK/?tag=tolees00-21) con 47.78 de descuento por 25.79 EUR (original: 49.39 EUR) en el siguiente enlace!

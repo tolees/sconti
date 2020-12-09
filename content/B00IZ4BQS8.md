@@ -10,8 +10,11 @@ author: ring
 slug: B00IZ4BQS8
 description:
 actualPrice: 19.15 EUR
+currency: EUR
+price: 19.15
 comparePrice: 39.34 EUR
 inStock: true
+prodname: Geomag Mechanics Gioco di Costruzione  Multicolore  86 pezzi
 ---
 
 Ahora mismo tienes [Geomag Mechanics Gioco di Costruzione  Multicolore  86 pezzi](https://www.amazon.it/dp/B00IZ4BQS8/?tag=tolees00-21) a 19.15 EUR (original: 39.34 EUR) (51.32 %  de descuento) en el siguiente enlace!

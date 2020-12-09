@@ -10,8 +10,11 @@ author: ring
 slug: B083FVNWDN
 description:
 actualPrice: 6.79 EUR
+currency: EUR
+price: 6.79
 comparePrice: 10.43 EUR
 inStock: true
+prodname: BIC  Cristal Exact  Penne a sfera  a punta fine Nero
 ---
 
 Ahora mismo tienes [BIC  Cristal Exact  Penne a sfera  a punta fine Nero](https://www.amazon.it/dp/B083FVNWDN/?tag=tolees00-21) a 6.79 EUR (original: 10.43 EUR) (34.90 %  de descuento) en el siguiente enlace!

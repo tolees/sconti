@@ -10,8 +10,11 @@ author: ring
 slug: B00PNUI5CC
 description:
 actualPrice: 59.8 EUR
+currency: EUR
+price: 59.8
 comparePrice: 99.74 EUR
 inStock: true
+prodname: adidas Superstar  Scarpe da Ginnastica Unisex Adulto  Nero  Core Black/Ftwr White/Core Black   44 EU
 ---
 
 Tienes [adidas Superstar  Scarpe da Ginnastica Unisex Adulto  Nero  Core Black/Ftwr White/Core Black   44 EU](https://www.amazon.it/dp/B00PNUI5CC/?tag=tolees00-21) con un 40.04 % de descuento con precio de oferta de 59.8 EUR (original: 99.74 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PXRDJS8
 description:
 actualPrice: 179.99 EUR
+currency: EUR
+price: 179.99
 comparePrice: 300.99 EUR
 inStock: true
+prodname: Epson EcoTank ET-2720 Stampante Inkjet 3-in-1  Display LCD 3.7 cm  Stampa da Mobile  Riduci i Costi del 90%  Flaconi di Inchiostro ad Alto Rendimento
 ---
 
 Tienes [Epson EcoTank ET-2720 Stampante Inkjet 3-in-1  Display LCD 3.7 cm  Stampa da Mobile  Riduci i Costi del 90%  Flaconi di Inchiostro ad Alto Rendimento](https://www.amazon.it/dp/B07PXRDJS8/?tag=tolees00-21) con un 40.20 % de descuento con precio de oferta de 179.99 EUR (original: 300.99 EUR) en el siguiente enlace!

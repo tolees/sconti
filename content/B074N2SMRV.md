@@ -10,8 +10,11 @@ author: ring
 slug: B074N2SMRV
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: L Oréal Paris Detergenza Maschera per il Viso Argilla Pura Anti-Imperfezioni con Alghe Marine  Agisce sui Punti Neri e Ristringe Pori  50 ml
 ---
 
 Está [L Oréal Paris Detergenza Maschera per il Viso Argilla Pura Anti-Imperfezioni con Alghe Marine  Agisce sui Punti Neri e Ristringe Pori  50 ml](https://www.amazon.it/dp/B074N2SMRV/?tag=tolees00-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!

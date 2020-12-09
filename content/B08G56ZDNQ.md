@@ -10,8 +10,11 @@ author: ring
 slug: B08G56ZDNQ
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Bottega Verde  Astuccio Stick Stupore della Neve Magia delle Stelle
 ---
 
 Está [Bottega Verde  Astuccio Stick Stupore della Neve Magia delle Stelle](https://www.amazon.it/dp/B08G56ZDNQ/?tag=tolees00-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DVM3SJB
 description:
 actualPrice: 96.49 EUR
+currency: EUR
+price: 96.49
 comparePrice: 130.0 EUR
 inStock: true
+prodname: Levi s Type 3 Sherpa Giacca  Blu  Rockridge Trucker 0084   Large Uomo
 ---
 
 Tienes [Levi s Type 3 Sherpa Giacca  Blu  Rockridge Trucker 0084   Large Uomo](https://www.amazon.it/dp/B07DVM3SJB/?tag=tolees00-21) con un 25.78 % de descuento con precio de oferta de 96.49 EUR (original: 130.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TQZB5XM
 description:
 actualPrice: 12.6 EUR
+currency: EUR
+price: 12.6
 comparePrice: 21.72 EUR
 inStock: true
+prodname: Havaianas Slim Flatform  Infradito Donna  Blu  Blue 0057   35/36 EU
 ---
 
 Está [Havaianas Slim Flatform  Infradito Donna  Blu  Blue 0057   35/36 EU](https://www.amazon.it/dp/B07TQZB5XM/?tag=tolees00-21) con 41.99 de descuento por 12.6 EUR (original: 21.72 EUR) en el siguiente enlace!

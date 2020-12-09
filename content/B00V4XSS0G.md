@@ -10,8 +10,11 @@ author: ring
 slug: B00V4XSS0G
 description:
 actualPrice: 13.22 EUR
+currency: EUR
+price: 13.22
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Scholl Gel Activ Sport - Solette per scarpe da Uomo  Con tecnologia antiodore  40-46.5 EU  1 Paio
 ---
 
 Está [Scholl Gel Activ Sport - Solette per scarpe da Uomo  Con tecnologia antiodore  40-46.5 EU  1 Paio](https://www.amazon.it/dp/B00V4XSS0G/?tag=tolees00-21) con 30.38 de descuento por 13.22 EUR (original: 18.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08DL15WHZ
 description:
 actualPrice: 119.9 EUR
+currency: EUR
+price: 119.9
 comparePrice: 169.9 EUR
 inStock: true
+prodname: Acer KB272HLHbi Monitor FreeSync da 27"  Display VA FHD  75 Hz  1 ms  16:9  VGA  HDMI  Schermo PC con Contrasto 100M:1  Lum 250 cd/m2  Zero Frame  Cavo VGA Incluso
 ---
 
 Está [Acer KB272HLHbi Monitor FreeSync da 27"  Display VA FHD  75 Hz  1 ms  16:9  VGA  HDMI  Schermo PC con Contrasto 100M:1  Lum 250 cd/m2  Zero Frame  Cavo VGA Incluso](https://www.amazon.it/dp/B08DL15WHZ/?tag=tolees00-21) con 29.43 de descuento por 119.9 EUR (original: 169.9 EUR) en el siguiente enlace!

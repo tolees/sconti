@@ -10,8 +10,11 @@ author: ring
 slug: B07C2G7HNC
 description:
 actualPrice: 27.88 EUR
+currency: EUR
+price: 27.88
 comparePrice: 78.47 EUR
 inStock: true
+prodname: Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo a V Donna  Nero  Black Black   48  Label: XL
 ---
 
 Ahora mismo tienes [Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo a V Donna  Nero  Black Black   48  Label: XL](https://www.amazon.it/dp/B07C2G7HNC/?tag=tolees00-21) a 27.88 EUR (original: 78.47 EUR) (64.47 %  de descuento) en el siguiente enlace!

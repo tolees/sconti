@@ -10,8 +10,11 @@ author: ring
 slug: B004ALKLR2
 description:
 actualPrice: 10.1 EUR
+currency: EUR
+price: 10.1
 comparePrice: 16.45 EUR
 inStock: true
+prodname: Learning Resources Playfoam Combo  Pack of 8 
 ---
 
 Está [Learning Resources Playfoam Combo  Pack of 8 ](https://www.amazon.it/dp/B004ALKLR2/?tag=tolees00-21) con 38.60 de descuento por 10.1 EUR (original: 16.45 EUR) en el siguiente enlace!

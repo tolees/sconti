@@ -10,8 +10,11 @@ author: ring
 slug: B00M7NEKOA
 description:
 actualPrice: 79.0 EUR
+currency: EUR
+price: 79.0
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Fossil Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile ES3712
 ---
 
 Ahora mismo tienes [Fossil Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile ES3712](https://www.amazon.it/dp/B00M7NEKOA/?tag=tolees00-21) a 79.0 EUR (original: 109.99 EUR) (28.18 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KBNB5J4
 description:
 actualPrice: 441.47 EUR
+currency: EUR
+price: 441.47
 comparePrice: 619.99 EUR
 inStock: true
+prodname: Airoh AVIATOR 2.3 BIGGER BLUE GLOSS M
 ---
 
 Tienes [Airoh AVIATOR 2.3 BIGGER BLUE GLOSS M](https://www.amazon.it/dp/B07KBNB5J4/?tag=tolees00-21) con un 28.79 % de descuento con precio de oferta de 441.47 EUR (original: 619.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PNDD3VZ
 description:
 actualPrice: 30.09 EUR
+currency: EUR
+price: 30.09
 comparePrice: 75.0 EUR
 inStock: true
+prodname: SUPERGA 2802-Cotw  Scarpe da Ginnastica con Piattaforma Donna  Nero  Full Black 996   41.5 EU
 ---
 
 Está [SUPERGA 2802-Cotw  Scarpe da Ginnastica con Piattaforma Donna  Nero  Full Black 996   41.5 EU](https://www.amazon.it/dp/B07PNDD3VZ/?tag=tolees00-21) con 59.88 de descuento por 30.09 EUR (original: 75.0 EUR) en el siguiente enlace!

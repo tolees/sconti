@@ -10,8 +10,11 @@ author: ring
 slug: B01G5GMRGM
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 28.9 EUR
 inStock: true
+prodname: Clementoni 15136 Crazy Chic - My Beauty World Set  Nail Art Studio
 ---
 
 Tienes [Clementoni 15136 Crazy Chic - My Beauty World Set  Nail Art Studio](https://www.amazon.it/dp/B01G5GMRGM/?tag=tolees00-21) con un 31.14 % de descuento con precio de oferta de 19.9 EUR (original: 28.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06XMX7R4D
 description:
 actualPrice: 4.59 EUR
+currency: EUR
+price: 4.59
 comparePrice: 8.43 EUR
 inStock: true
+prodname: SIKU- Blister Moto Ducati Panigale 1299  Colore Rosso  1385
 ---
 
 Tienes [SIKU- Blister Moto Ducati Panigale 1299  Colore Rosso  1385](https://www.amazon.it/dp/B06XMX7R4D/?tag=tolees00-21) con un 45.55 % de descuento con precio de oferta de 4.59 EUR (original: 8.43 EUR) en el siguiente enlace!

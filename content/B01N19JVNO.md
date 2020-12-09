@@ -10,8 +10,11 @@ author: ring
 slug: B01N19JVNO
 description:
 actualPrice: 11.5 EUR
+currency: EUR
+price: 11.5
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Famosa 700013480 Pinypon Sirene  Pacco 6 Figure
 ---
 
 Ahora mismo tienes [Famosa 700013480 Pinypon Sirene  Pacco 6 Figure](https://www.amazon.it/dp/B01N19JVNO/?tag=tolees00-21) a 11.5 EUR (original: 19.9 EUR) (42.21 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B018LLLV7U
 description:
 actualPrice: 25.49 EUR
+currency: EUR
+price: 25.49
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Tommy Hilfiger New ALY Belt Cintura  Schwarz Black 090   110 Uomo
 ---
 
 Tienes [Tommy Hilfiger New ALY Belt Cintura  Schwarz Black 090   110 Uomo](https://www.amazon.it/dp/B018LLLV7U/?tag=tolees00-21) con un 36.12 % de descuento con precio de oferta de 25.49 EUR (original: 39.9 EUR) en el siguiente enlace!

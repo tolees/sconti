@@ -10,8 +10,11 @@ author: ring
 slug: B07K8XP1HX
 description:
 actualPrice: 10.57 EUR
+currency: EUR
+price: 10.57
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Crocs Serena Flip Women  Sandali a Punta Aperta Donna  Rosso  Poppy 611   42/43 EU
 ---
 
 Ahora mismo tienes [Crocs Serena Flip Women  Sandali a Punta Aperta Donna  Rosso  Poppy 611   42/43 EU](https://www.amazon.it/dp/B07K8XP1HX/?tag=tolees00-21) a 10.57 EUR (original: 29.99 EUR) (64.75 %  de descuento) en el siguiente enlace!

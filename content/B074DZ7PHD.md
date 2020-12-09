@@ -10,8 +10,11 @@ author: ring
 slug: B074DZ7PHD
 description:
 actualPrice: 1.67 EUR
+currency: EUR
+price: 1.67
 comparePrice: 2.79 EUR
 inStock: true
+prodname: Felce Azzurra Bagno Schiuma Liquido - 650 ml
 ---
 
 Tienes [Felce Azzurra Bagno Schiuma Liquido - 650 ml](https://www.amazon.it/dp/B074DZ7PHD/?tag=tolees00-21) con un 40.14 % de descuento con precio de oferta de 1.67 EUR (original: 2.79 EUR) en el siguiente enlace!

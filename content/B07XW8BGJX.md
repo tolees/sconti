@@ -10,8 +10,11 @@ author: ring
 slug: B07XW8BGJX
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 41.68 EUR
 inStock: true
+prodname: Trials of Mana - Nintendo Switch
 ---
 
 Tienes [Trials of Mana - Nintendo Switch](https://www.amazon.it/dp/B07XW8BGJX/?tag=tolees00-21) con un 40.04 % de descuento con precio de oferta de 24.99 EUR (original: 41.68 EUR) en el siguiente enlace!

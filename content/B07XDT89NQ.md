@@ -10,8 +10,11 @@ author: ring
 slug: B07XDT89NQ
 description:
 actualPrice: 6.78 EUR
+currency: EUR
+price: 6.78
 comparePrice: 9.9 EUR
 inStock: true
+prodname: BACI PERUGINA CLASSICO Cioccolatini fondenti ripieni al gianduia e nocciola intera sacchetto 400g
 ---
 
 Está [BACI PERUGINA CLASSICO Cioccolatini fondenti ripieni al gianduia e nocciola intera sacchetto 400g](https://www.amazon.it/dp/B07XDT89NQ/?tag=tolees00-21) con 31.52 de descuento por 6.78 EUR (original: 9.9 EUR) en el siguiente enlace!

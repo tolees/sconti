@@ -10,8 +10,11 @@ author: ring
 slug: B07QC8CBW9
 description:
 actualPrice: 14.02 EUR
+currency: EUR
+price: 14.02
 comparePrice: 18.84 EUR
 inStock: true
+prodname: Puma Studio Yogini Lux Tight  Leggins Donna  Medium Gray Heather  L
 ---
 
 Está [Puma Studio Yogini Lux Tight  Leggins Donna  Medium Gray Heather  L](https://www.amazon.it/dp/B07QC8CBW9/?tag=tolees00-21) con 25.58 de descuento por 14.02 EUR (original: 18.84 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GQ89JKC
 description:
 actualPrice: 29.48 EUR
+currency: EUR
+price: 29.48
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Desperados 3 - Xbox One
 ---
 
 Está [Desperados 3 - Xbox One](https://www.amazon.it/dp/B07GQ89JKC/?tag=tolees00-21) con 50.86 de descuento por 29.48 EUR (original: 59.99 EUR) en el siguiente enlace!

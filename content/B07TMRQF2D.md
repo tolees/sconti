@@ -10,8 +10,11 @@ author: ring
 slug: B07TMRQF2D
 description:
 actualPrice: 37.0 EUR
+currency: EUR
+price: 37.0
 comparePrice: 104.95 EUR
 inStock: true
+prodname: Clarks Ronnie Limit  Scarpe Stringate Derby Uomo  Marrone  Tan Leather Tan Leather   41 EU
 ---
 
 Tienes [Clarks Ronnie Limit  Scarpe Stringate Derby Uomo  Marrone  Tan Leather Tan Leather   41 EU](https://www.amazon.it/dp/B07TMRQF2D/?tag=tolees00-21) con un 64.75 % de descuento con precio de oferta de 37.0 EUR (original: 104.95 EUR) en el siguiente enlace!

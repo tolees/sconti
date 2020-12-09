@@ -10,8 +10,11 @@ author: ring
 slug: B07T1DCY9X
 description:
 actualPrice: 72.13 EUR
+currency: EUR
+price: 72.13
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Timberland Boroughs Project Mixed Super Oxford Sneaker  Uomo  Verde  Grape Leaf  Tb0a24sva581   44 EU  9.5 UK 
 ---
 
 Está [Timberland Boroughs Project Mixed Super Oxford Sneaker  Uomo  Verde  Grape Leaf  Tb0a24sva581   44 EU  9.5 UK ](https://www.amazon.it/dp/B07T1DCY9X/?tag=tolees00-21) con 34.43 de descuento por 72.13 EUR (original: 110.0 EUR) en el siguiente enlace!

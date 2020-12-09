@@ -10,8 +10,11 @@ author: ring
 slug: B07JP7SZ3S
 description:
 actualPrice: 19.23 EUR
+currency: EUR
+price: 19.23
 comparePrice: 26.38 EUR
 inStock: true
+prodname: Lucchetto Yale a U di massima sicurezza per biciclette e moto
 ---
 
 Tienes [Lucchetto Yale a U di massima sicurezza per biciclette e moto](https://www.amazon.it/dp/B07JP7SZ3S/?tag=tolees00-21) con un 27.10 % de descuento con precio de oferta de 19.23 EUR (original: 26.38 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0856TLMTD
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 8.99 EUR
 inStock: true
+prodname: [2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5 pollici Staffa di montaggio in metallo  2x25Rack 
 ---
 
 Ahora mismo tienes [[2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5 pollici Staffa di montaggio in metallo  2x25Rack ](https://www.amazon.it/dp/B0856TLMTD/?tag=tolees00-21) a 5.99 EUR (original: 8.99 EUR) (33.37 %  de descuento) en el siguiente enlace!

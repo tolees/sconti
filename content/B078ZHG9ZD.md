@@ -10,8 +10,11 @@ author: ring
 slug: B078ZHG9ZD
 description:
 actualPrice: 13.59 EUR
+currency: EUR
+price: 13.59
 comparePrice: 19.49 EUR
 inStock: true
+prodname: POMPEA Costa Slip  Nero  Nero 0071   Large  Taglia Produttore:L/XL   Pacco da 4  Uomo
 ---
 
 Ahora mismo tienes [POMPEA Costa Slip  Nero  Nero 0071   Large  Taglia Produttore:L/XL   Pacco da 4  Uomo](https://www.amazon.it/dp/B078ZHG9ZD/?tag=tolees00-21) a 13.59 EUR (original: 19.49 EUR) (30.27 %  de descuento) en el siguiente enlace!

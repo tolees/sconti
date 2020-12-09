@@ -10,8 +10,11 @@ author: ring
 slug: B01NCS45TV
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Severin ES 3566 Centrifuga Professionale Inox  400 W  Nero
 ---
 
 Ahora mismo tienes [Severin ES 3566 Centrifuga Professionale Inox  400 W  Nero](https://www.amazon.it/dp/B01NCS45TV/?tag=tolees00-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

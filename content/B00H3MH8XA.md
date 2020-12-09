@@ -10,8 +10,11 @@ author: ring
 slug: B00H3MH8XA
 description:
 actualPrice: 5.0 EUR
+currency: EUR
+price: 5.0
 comparePrice: 6.99 EUR
 inStock: true
+prodname: Captain Phillips - Attacco In Mare Aperto
 ---
 
 Está [Captain Phillips - Attacco In Mare Aperto](https://www.amazon.it/dp/B00H3MH8XA/?tag=tolees00-21) con 28.47 de descuento por 5.0 EUR (original: 6.99 EUR) en el siguiente enlace!

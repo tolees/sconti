@@ -10,8 +10,11 @@ author: ring
 slug: B07FY6HLVM
 description:
 actualPrice: 15.6 EUR
+currency: EUR
+price: 15.6
 comparePrice: 26.0 EUR
 inStock: true
+prodname: Havaianas Slim 4000030 Infradito Donna  Arancione  Bronze Orange 7185   37/38 EU
 ---
 
 Está [Havaianas Slim 4000030 Infradito Donna  Arancione  Bronze Orange 7185   37/38 EU](https://www.amazon.it/dp/B07FY6HLVM/?tag=tolees00-21) con 40.00 de descuento por 15.6 EUR (original: 26.0 EUR) en el siguiente enlace!

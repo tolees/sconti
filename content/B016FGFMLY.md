@@ -10,8 +10,11 @@ author: ring
 slug: B016FGFMLY
 description:
 actualPrice: 4.29 EUR
+currency: EUR
+price: 4.29
 comparePrice: 6.4 EUR
 inStock: true
+prodname: Philips Essentials Faretto Limbali Cromato Opaco  Bianco  1 x 50 W  Attacco: GU10
 ---
 
 Está [Philips Essentials Faretto Limbali Cromato Opaco  Bianco  1 x 50 W  Attacco: GU10](https://www.amazon.it/dp/B016FGFMLY/?tag=tolees00-21) con 32.97 de descuento por 4.29 EUR (original: 6.4 EUR) en el siguiente enlace!

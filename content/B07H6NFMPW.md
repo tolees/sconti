@@ -10,8 +10,11 @@ author: ring
 slug: B07H6NFMPW
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 10.09 EUR
 inStock: true
+prodname: Ariasana Spray Disinfettante Multiuso 2-in-1  Presidio Medico Chirurgico  Germicida spray per igienizzare aria e superfici  Disinfettante spray con profumazione eucalipto e mentolo  1x150ml
 ---
 
 Ahora mismo tienes [Ariasana Spray Disinfettante Multiuso 2-in-1  Presidio Medico Chirurgico  Germicida spray per igienizzare aria e superfici  Disinfettante spray con profumazione eucalipto e mentolo  1x150ml](https://www.amazon.it/dp/B07H6NFMPW/?tag=tolees00-21) a 6.99 EUR (original: 10.09 EUR) (30.72 %  de descuento) en el siguiente enlace!

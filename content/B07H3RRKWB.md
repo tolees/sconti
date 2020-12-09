@@ -10,8 +10,11 @@ author: ring
 slug: B07H3RRKWB
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Gillette Mach3 Rasoio Uomo + 7 Lamette di Ricarica Con Lame Forti che durano nel tempo
 ---
 
 Ahora mismo tienes [Gillette Mach3 Rasoio Uomo + 7 Lamette di Ricarica Con Lame Forti che durano nel tempo](https://www.amazon.it/dp/B07H3RRKWB/?tag=tolees00-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

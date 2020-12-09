@@ -10,8 +10,11 @@ author: ring
 slug: B07D4QRHYH
 description:
 actualPrice: 7.59 EUR
+currency: EUR
+price: 7.59
 comparePrice: 14.08 EUR
 inStock: true
+prodname: Marchio Amazon - find. Cable Knitted  Felpa Uomo  Nero  Black   L  Label: L
 ---
 
 Está [Marchio Amazon - find. Cable Knitted  Felpa Uomo  Nero  Black   L  Label: L](https://www.amazon.it/dp/B07D4QRHYH/?tag=tolees00-21) con 46.09 de descuento por 7.59 EUR (original: 14.08 EUR) en el siguiente enlace!

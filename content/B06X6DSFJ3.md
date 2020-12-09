@@ -10,8 +10,11 @@ author: ring
 slug: B06X6DSFJ3
 description:
 actualPrice: 17.49 EUR
+currency: EUR
+price: 17.49
 comparePrice: 24.95 EUR
 inStock: true
+prodname: adidas Adilette Shower  Scarpe da Spiaggia e Piscina Uomo  Nero  Cblack/Ftwwht/Cblack Cblack/Ftwwht/Cblack   44.5 EU
 ---
 
 Tienes [adidas Adilette Shower  Scarpe da Spiaggia e Piscina Uomo  Nero  Cblack/Ftwwht/Cblack Cblack/Ftwwht/Cblack   44.5 EU](https://www.amazon.it/dp/B06X6DSFJ3/?tag=tolees00-21) con un 29.90 % de descuento con precio de oferta de 17.49 EUR (original: 24.95 EUR) en el siguiente enlace!

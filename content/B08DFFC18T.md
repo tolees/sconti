@@ -10,8 +10,11 @@ author: ring
 slug: B08DFFC18T
 description:
 actualPrice: 79.92 EUR
+currency: EUR
+price: 79.92
 comparePrice: 139.0 EUR
 inStock: true
+prodname: 4G Tablet 10 Pollici con Wifi Offerte Android 9.0 Certificato Google GMS 3GB RAM 32GB/128GB Tablet PC in Offerta 8500mAh Dual SIM 8MP Camera Tablet Android Offerta Del Giorno con Netflix OTG Rosa 
 ---
 
 Está [4G Tablet 10 Pollici con Wifi Offerte Android 9.0 Certificato Google GMS 3GB RAM 32GB/128GB Tablet PC in Offerta 8500mAh Dual SIM 8MP Camera Tablet Android Offerta Del Giorno con Netflix OTG Rosa ](https://www.amazon.it/dp/B08DFFC18T/?tag=tolees00-21) con 42.50 de descuento por 79.92 EUR (original: 139.0 EUR) en el siguiente enlace!

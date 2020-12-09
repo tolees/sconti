@@ -10,8 +10,11 @@ author: ring
 slug: B01I1N7CQC
 description:
 actualPrice: 38.11 EUR
+currency: EUR
+price: 38.11
 comparePrice: 57.49 EUR
 inStock: true
+prodname: Adidas Vs Pace  Scarpe da Ginnastica Uomo  Nero  Negbas/Azul/Ftwbla   39 1/3 EU
 ---
 
 Está [Adidas Vs Pace  Scarpe da Ginnastica Uomo  Nero  Negbas/Azul/Ftwbla   39 1/3 EU](https://www.amazon.it/dp/B01I1N7CQC/?tag=tolees00-21) con 33.71 de descuento por 38.11 EUR (original: 57.49 EUR) en el siguiente enlace!

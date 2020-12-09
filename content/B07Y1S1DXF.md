@@ -10,8 +10,11 @@ author: ring
 slug: B07Y1S1DXF
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 21.9 EUR
 inStock: true
+prodname: Ardes AR4F01N Termoventilatore TEPO DESIGN con 2 Potenze  Termostato Temperatura  Spia Funzionamento e Impugnatura Posteriore  Bianco
 ---
 
 Ahora mismo tienes [Ardes AR4F01N Termoventilatore TEPO DESIGN con 2 Potenze  Termostato Temperatura  Spia Funzionamento e Impugnatura Posteriore  Bianco](https://www.amazon.it/dp/B07Y1S1DXF/?tag=tolees00-21) a 13.99 EUR (original: 21.9 EUR) (36.12 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01EYSS22Q
 description:
 actualPrice: 13.9 EUR
+currency: EUR
+price: 13.9
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Creed Nato Per Combattere  4K Ultra Hd + Blu-Ray + Copia Digitale 
 ---
 
 Tienes [Creed Nato Per Combattere  4K Ultra Hd + Blu-Ray + Copia Digitale ](https://www.amazon.it/dp/B01EYSS22Q/?tag=tolees00-21) con un 53.65 % de descuento con precio de oferta de 13.9 EUR (original: 29.99 EUR) en el siguiente enlace!

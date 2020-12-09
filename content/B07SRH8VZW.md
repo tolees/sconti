@@ -10,8 +10,11 @@ author: ring
 slug: B07SRH8VZW
 description:
 actualPrice: 21.68 EUR
+currency: EUR
+price: 21.68
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Lisciani Giochi - 77113 Gioco per Bambini I m a Genius Happy Coding Robot
 ---
 
 Está [Lisciani Giochi - 77113 Gioco per Bambini I m a Genius Happy Coding Robot](https://www.amazon.it/dp/B07SRH8VZW/?tag=tolees00-21) con 27.71 de descuento por 21.68 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HW2LW7J
 description:
 actualPrice: 9.8 EUR
+currency: EUR
+price: 9.8
 comparePrice: 21.9 EUR
 inStock: true
+prodname: NYX Professional Makeup Palette Ombretti Away We Glow  10 Ombretti Ultra Vellutati  Nuance: Lovebeam  Taglia unica
 ---
 
 Está [NYX Professional Makeup Palette Ombretti Away We Glow  10 Ombretti Ultra Vellutati  Nuance: Lovebeam  Taglia unica](https://www.amazon.it/dp/B07HW2LW7J/?tag=tolees00-21) con 55.25 de descuento por 9.8 EUR (original: 21.9 EUR) en el siguiente enlace!

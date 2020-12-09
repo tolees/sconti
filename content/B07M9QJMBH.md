@@ -10,8 +10,11 @@ author: ring
 slug: B07M9QJMBH
 description:
 actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Uten Barbecue Griglia a Carbone Professionale per 5-10 Persone  Barbecue Carbone Barbecue Pieghevole per BBQ  Utensile BBQ Grill  Giardino Terrazza Campeggio Picnic
 ---
 
 Tienes [Uten Barbecue Griglia a Carbone Professionale per 5-10 Persone  Barbecue Carbone Barbecue Pieghevole per BBQ  Utensile BBQ Grill  Giardino Terrazza Campeggio Picnic](https://www.amazon.it/dp/B07M9QJMBH/?tag=tolees00-21) con un 27.51 % de descuento con precio de oferta de 28.99 EUR (original: 39.99 EUR) en el siguiente enlace!

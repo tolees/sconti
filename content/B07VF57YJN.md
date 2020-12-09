@@ -10,8 +10,11 @@ author: ring
 slug: B07VF57YJN
 description:
 actualPrice: 119.9 EUR
+currency: EUR
+price: 119.9
 comparePrice: 229.99 EUR
 inStock: true
+prodname: Hoover HF222UPT 39400926  H-Free 200  Nero E Blu  22 W  CASA & ANIMALI
 ---
 
 Está [Hoover HF222UPT 39400926  H-Free 200  Nero E Blu  22 W  CASA & ANIMALI](https://www.amazon.it/dp/B07VF57YJN/?tag=tolees00-21) con 47.87 de descuento por 119.9 EUR (original: 229.99 EUR) en el siguiente enlace!

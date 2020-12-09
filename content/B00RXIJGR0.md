@@ -10,8 +10,11 @@ author: ring
 slug: B00RXIJGR0
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 13.0 EUR
 inStock: true
+prodname: Pyrex Irresistible Teglia rettangolare in vetro borosilicato  31x20x6 5cm - 2 2 L
 ---
 
 Tienes [Pyrex Irresistible Teglia rettangolare in vetro borosilicato  31x20x6 5cm - 2 2 L](https://www.amazon.it/dp/B00RXIJGR0/?tag=tolees00-21) con un 46.23 % de descuento con precio de oferta de 6.99 EUR (original: 13.0 EUR) en el siguiente enlace!

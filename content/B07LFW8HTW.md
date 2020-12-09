@@ -10,8 +10,11 @@ author: ring
 slug: B07LFW8HTW
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 51.99 EUR
 inStock: true
+prodname: Geox J Casey Girl G  Stivali Combat Bambina  Nero  Black C9999   36 EU
 ---
 
 Tienes [Geox J Casey Girl G  Stivali Combat Bambina  Nero  Black C9999   36 EU](https://www.amazon.it/dp/B07LFW8HTW/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 38.99 EUR (original: 51.99 EUR) en el siguiente enlace!

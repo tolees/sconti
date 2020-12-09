@@ -10,8 +10,11 @@ author: ring
 slug: B000BYD4JY
 description:
 actualPrice: 1.81 EUR
+currency: EUR
+price: 1.81
 comparePrice: 7.2 EUR
 inStock: true
+prodname: Bosch 3 397 004 559 Spazzola Posteriore
 ---
 
 Está [Bosch 3 397 004 559 Spazzola Posteriore](https://www.amazon.it/dp/B000BYD4JY/?tag=tolees00-21) con 74.86 de descuento por 1.81 EUR (original: 7.2 EUR) en el siguiente enlace!

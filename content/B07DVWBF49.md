@@ -10,8 +10,11 @@ author: ring
 slug: B07DVWBF49
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 36.92 EUR
 inStock: true
+prodname: Holly & Benji - La Serie Classica  Vol. 1  10 DVD 
 ---
 
 Tienes [Holly & Benji - La Serie Classica  Vol. 1  10 DVD ](https://www.amazon.it/dp/B07DVWBF49/?tag=tolees00-21) con un 48.56 % de descuento con precio de oferta de 18.99 EUR (original: 36.92 EUR) en el siguiente enlace!

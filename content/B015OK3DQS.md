@@ -10,8 +10,11 @@ author: ring
 slug: B015OK3DQS
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 24.95 EUR
 inStock: true
+prodname: PUMA Leadcat  Scarpe da Spiaggia e Piscina Unisex-Adulto  Nero  Black-White   46 EU
 ---
 
 Ahora mismo tienes [PUMA Leadcat  Scarpe da Spiaggia e Piscina Unisex-Adulto  Nero  Black-White   46 EU](https://www.amazon.it/dp/B015OK3DQS/?tag=tolees00-21) a 13.95 EUR (original: 24.95 EUR) (44.09 %  de descuento) en el siguiente enlace!

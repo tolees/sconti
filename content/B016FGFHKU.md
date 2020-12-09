@@ -10,8 +10,11 @@ author: ring
 slug: B016FGFHKU
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 40.01 EUR
 inStock: true
+prodname: Philips Lighting Burlap Lampada Faretti a Spirale 4 Luci Orientabili Senza Lampadina  Cromato  4 x 40 W
 ---
 
 Ahora mismo tienes [Philips Lighting Burlap Lampada Faretti a Spirale 4 Luci Orientabili Senza Lampadina  Cromato  4 x 40 W](https://www.amazon.it/dp/B016FGFHKU/?tag=tolees00-21) a 29.99 EUR (original: 40.01 EUR) (25.04 %  de descuento) en el siguiente enlace!

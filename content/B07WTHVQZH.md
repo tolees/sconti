@@ -10,8 +10,11 @@ author: ring
 slug: B07WTHVQZH
 description:
 actualPrice: 129.0 EUR
+currency: EUR
+price: 129.0
 comparePrice: 269.99 EUR
 inStock: true
+prodname: Philips Airfryer XL HD9260/90 Friggitrice ad aria  1900W  capacità 1 2 Kg  Con schermo digitale
 ---
 
 Está [Philips Airfryer XL HD9260/90 Friggitrice ad aria  1900W  capacità 1 2 Kg  Con schermo digitale](https://www.amazon.it/dp/B07WTHVQZH/?tag=tolees00-21) con 52.22 de descuento por 129.0 EUR (original: 269.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BN1XGD6
 description:
 actualPrice: 38.24 EUR
+currency: EUR
+price: 38.24
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Dress Blues/Vintage Indigo T2L  43 EU
 ---
 
 Ahora mismo tienes [Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Dress Blues/Vintage Indigo T2L  43 EU](https://www.amazon.it/dp/B07BN1XGD6/?tag=tolees00-21) a 38.24 EUR (original: 65.0 EUR) (41.17 %  de descuento) en el siguiente enlace!

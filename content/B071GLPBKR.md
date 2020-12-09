@@ -10,8 +10,11 @@ author: ring
 slug: B071GLPBKR
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 25.95 EUR
 inStock: true
+prodname: Savel - Proteggi Materasso Antiacaro Impermeabile e Traspirante | Antiallergico| Anallergico | Trattamento Antibatterico Sanitized. Tessuto a Maglia 100% Cotone. Coprimaterasso  105x190/200cm 
 ---
 
 Está [Savel - Proteggi Materasso Antiacaro Impermeabile e Traspirante | Antiallergico| Anallergico | Trattamento Antibatterico Sanitized. Tessuto a Maglia 100% Cotone. Coprimaterasso  105x190/200cm ](https://www.amazon.it/dp/B071GLPBKR/?tag=tolees00-21) con 38.54 de descuento por 15.95 EUR (original: 25.95 EUR) en el siguiente enlace!

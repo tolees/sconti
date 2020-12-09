@@ -10,8 +10,11 @@ author: ring
 slug: B00Y4XVP0I
 description:
 actualPrice: 46.85 EUR
+currency: EUR
+price: 46.85
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Lacoste PH4012  T-shirt Polo Uomo  Blu  Marine   Medium  Taglia Produttore: 4 
 ---
 
 Está [Lacoste PH4012  T-shirt Polo Uomo  Blu  Marine   Medium  Taglia Produttore: 4 ](https://www.amazon.it/dp/B00Y4XVP0I/?tag=tolees00-21) con 50.68 de descuento por 46.85 EUR (original: 95.0 EUR) en el siguiente enlace!

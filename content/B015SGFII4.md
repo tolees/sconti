@@ -10,8 +10,11 @@ author: ring
 slug: B015SGFII4
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 24.0 EUR
 inStock: true
+prodname: Havaianas Luna  Sandali Donna  Oro  Rose Gold/Rose Gold 5282   41/42 EU
 ---
 
 Tienes [Havaianas Luna  Sandali Donna  Oro  Rose Gold/Rose Gold 5282   41/42 EU](https://www.amazon.it/dp/B015SGFII4/?tag=tolees00-21) con un 45.88 % de descuento con precio de oferta de 12.99 EUR (original: 24.0 EUR) en el siguiente enlace!

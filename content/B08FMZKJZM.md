@@ -10,8 +10,11 @@ author: ring
 slug: B08FMZKJZM
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Gillette Fusion5 ProGlide Rasoio Da Uomo Set Regalo Premium  4 Lame + Supporto Magnetico  Imballaggio Riciclabile  Nero  Rasoio In Edizione Limitata Luxury
 ---
 
 Ahora mismo tienes [Gillette Fusion5 ProGlide Rasoio Da Uomo Set Regalo Premium  4 Lame + Supporto Magnetico  Imballaggio Riciclabile  Nero  Rasoio In Edizione Limitata Luxury](https://www.amazon.it/dp/B08FMZKJZM/?tag=tolees00-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

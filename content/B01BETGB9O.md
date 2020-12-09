@@ -10,8 +10,11 @@ author: ring
 slug: B01BETGB9O
 description:
 actualPrice: 115.0 EUR
+currency: EUR
+price: 115.0
 comparePrice: 279.0 EUR
 inStock: true
+prodname: Michael Kors Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inossidabile MK6359
 ---
 
 Está [Michael Kors Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inossidabile MK6359](https://www.amazon.it/dp/B01BETGB9O/?tag=tolees00-21) con 58.78 de descuento por 115.0 EUR (original: 279.0 EUR) en el siguiente enlace!

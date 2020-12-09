@@ -10,8 +10,11 @@ author: ring
 slug: B088HQSKCD
 description:
 actualPrice: 274.9 EUR
+currency: EUR
+price: 274.9
 comparePrice: 369.9 EUR
 inStock: true
+prodname: Xiaomi Mi 10 Lite -Smartphone 6.57" FHD+ DotDisplay  6GB RAM  64GB ROM  Quad Camera   4160mah Batteria  2020 [Versione Italiana] - Colore Dream White
 ---
 
 Ahora mismo tienes [Xiaomi Mi 10 Lite -Smartphone 6.57" FHD+ DotDisplay  6GB RAM  64GB ROM  Quad Camera   4160mah Batteria  2020 [Versione Italiana] - Colore Dream White](https://www.amazon.it/dp/B088HQSKCD/?tag=tolees00-21) a 274.9 EUR (original: 369.9 EUR) (25.68 %  de descuento) en el siguiente enlace!

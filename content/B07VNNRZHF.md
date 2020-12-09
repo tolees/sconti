@@ -10,8 +10,11 @@ author: ring
 slug: B07VNNRZHF
 description:
 actualPrice: 25.74 EUR
+currency: EUR
+price: 25.74
 comparePrice: 64.35 EUR
 inStock: true
+prodname: Calvin Klein Medium Drawstring Pantaloncini  Blu  Black Iris CBK   Uomo
 ---
 
 Tienes [Calvin Klein Medium Drawstring Pantaloncini  Blu  Black Iris CBK   Uomo](https://www.amazon.it/dp/B07VNNRZHF/?tag=tolees00-21) con un 60.00 % de descuento con precio de oferta de 25.74 EUR (original: 64.35 EUR) en el siguiente enlace!

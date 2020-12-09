@@ -10,8 +10,11 @@ author: ring
 slug: B00DKXSCPE
 description:
 actualPrice: 7.49 EUR
+currency: EUR
+price: 7.49
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Capsule Lavazza A Modo Mio Espresso Intenso - Confezione da 36 capsule
 ---
 
 Está [Capsule Lavazza A Modo Mio Espresso Intenso - Confezione da 36 capsule](https://www.amazon.it/dp/B00DKXSCPE/?tag=tolees00-21) con 37.53 de descuento por 7.49 EUR (original: 11.99 EUR) en el siguiente enlace!

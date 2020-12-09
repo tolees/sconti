@@ -10,8 +10,11 @@ author: ring
 slug: B00EAA6IZW
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 63.99 EUR
 inStock: true
+prodname: Rowenta CF4132 Ferro Arricciacapelli Multistyler 14-in-1  14 Accessori per 7 Stili Differenti  Rivestimento in Ceramica
 ---
 
 Está [Rowenta CF4132 Ferro Arricciacapelli Multistyler 14-in-1  14 Accessori per 7 Stili Differenti  Rivestimento in Ceramica](https://www.amazon.it/dp/B00EAA6IZW/?tag=tolees00-21) con 43.76 de descuento por 35.99 EUR (original: 63.99 EUR) en el siguiente enlace!

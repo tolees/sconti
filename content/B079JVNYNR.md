@@ -10,8 +10,11 @@ author: ring
 slug: B079JVNYNR
 description:
 actualPrice: 96.51 EUR
+currency: EUR
+price: 96.51
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Rosso  Red Bourgogne R69   Medium Uomo
 ---
 
 Está [Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Rosso  Red Bourgogne R69   Medium Uomo](https://www.amazon.it/dp/B079JVNYNR/?tag=tolees00-21) con 51.50 de descuento por 96.51 EUR (original: 199.0 EUR) en el siguiente enlace!

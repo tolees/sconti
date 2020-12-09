@@ -10,8 +10,11 @@ author: ring
 slug: B07PRCF6N7
 description:
 actualPrice: 49.93 EUR
+currency: EUR
+price: 49.93
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Kipling Myrte - Borse a tracolla Donna  Multicolore  Camo Large   24x14.5x4.5 cm  B x H T 
 ---
 
 Ahora mismo tienes [Kipling Myrte - Borse a tracolla Donna  Multicolore  Camo Large   24x14.5x4.5 cm  B x H T ](https://www.amazon.it/dp/B07PRCF6N7/?tag=tolees00-21) a 49.93 EUR (original: 69.0 EUR) (27.64 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06XX8MNMV
 description:
 actualPrice: 5.77 EUR
+currency: EUR
+price: 5.77
 comparePrice: 9.27 EUR
 inStock: true
+prodname: Fischer Cromato Bicicletta Campana  Argento/Cromato  One Size
 ---
 
 Está [Fischer Cromato Bicicletta Campana  Argento/Cromato  One Size](https://www.amazon.it/dp/B06XX8MNMV/?tag=tolees00-21) con 37.76 de descuento por 5.77 EUR (original: 9.27 EUR) en el siguiente enlace!

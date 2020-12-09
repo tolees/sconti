@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVPRN4V
 description:
 actualPrice: 29.63 EUR
+currency: EUR
+price: 29.63
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Levi s Standard Crew Maglia di Tuta  Cyprine Tofu  S Donna
 ---
 
 Está [Levi s Standard Crew Maglia di Tuta  Cyprine Tofu  S Donna](https://www.amazon.it/dp/B07ZVPRN4V/?tag=tolees00-21) con 54.42 de descuento por 29.63 EUR (original: 65.0 EUR) en el siguiente enlace!

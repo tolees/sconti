@@ -10,8 +10,11 @@ author: ring
 slug: B089WVYMWQ
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 11.97 EUR
 inStock: true
+prodname: Pril Gold Gel Lavastoviglie Limone Detersivo Gel  3 Confezioni da 33 Lavaggi
 ---
 
 Ahora mismo tienes [Pril Gold Gel Lavastoviglie Limone Detersivo Gel  3 Confezioni da 33 Lavaggi](https://www.amazon.it/dp/B089WVYMWQ/?tag=tolees00-21) a 7.99 EUR (original: 11.97 EUR) (33.25 %  de descuento) en el siguiente enlace!

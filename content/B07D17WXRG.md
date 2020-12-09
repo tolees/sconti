@@ -10,8 +10,11 @@ author: ring
 slug: B07D17WXRG
 description:
 actualPrice: 7.52 EUR
+currency: EUR
+price: 7.52
 comparePrice: 23.88 EUR
 inStock: true
+prodname: Marchio Amazon - find. Gonna Donna  Nero  Black   40  Label: XS
 ---
 
 Tienes [Marchio Amazon - find. Gonna Donna  Nero  Black   40  Label: XS](https://www.amazon.it/dp/B07D17WXRG/?tag=tolees00-21) con un 68.51 % de descuento con precio de oferta de 7.52 EUR (original: 23.88 EUR) en el siguiente enlace!

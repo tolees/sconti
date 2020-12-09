@@ -10,8 +10,11 @@ author: ring
 slug: B07TXDWZVS
 description:
 actualPrice: 36.74 EUR
+currency: EUR
+price: 36.74
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Levi s 511 Slim Jeans  Harvest Gold Sueded Sateen Wt B  33W / 34L Uomo
 ---
 
 Está [Levi s 511 Slim Jeans  Harvest Gold Sueded Sateen Wt B  33W / 34L Uomo](https://www.amazon.it/dp/B07TXDWZVS/?tag=tolees00-21) con 59.18 de descuento por 36.74 EUR (original: 90.0 EUR) en el siguiente enlace!

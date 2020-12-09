@@ -10,8 +10,11 @@ author: ring
 slug: B07FYK2QYS
 description:
 actualPrice: 169.9 EUR
+currency: EUR
+price: 169.9
 comparePrice: 279.99 EUR
 inStock: true
+prodname: tado° Testa Termostatica Intelligente  Quattro Pack  Prodotto Aggiuntivo per il Controllo Multi-Stanza  Installazione Fai da Te  Progettato in Germania
 ---
 
 Tienes [tado° Testa Termostatica Intelligente  Quattro Pack  Prodotto Aggiuntivo per il Controllo Multi-Stanza  Installazione Fai da Te  Progettato in Germania](https://www.amazon.it/dp/B07FYK2QYS/?tag=tolees00-21) con un 39.32 % de descuento con precio de oferta de 169.9 EUR (original: 279.99 EUR) en el siguiente enlace!

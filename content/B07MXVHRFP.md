@@ -10,8 +10,11 @@ author: ring
 slug: B07MXVHRFP
 description:
 actualPrice: 49.9 EUR
+currency: EUR
+price: 49.9
 comparePrice: 78.78 EUR
 inStock: true
+prodname: Severin FR 2455 Friggitrice ad Aria Calda  900 W  1.8 L  Nero/Grigio
 ---
 
 Está [Severin FR 2455 Friggitrice ad Aria Calda  900 W  1.8 L  Nero/Grigio](https://www.amazon.it/dp/B07MXVHRFP/?tag=tolees00-21) con 36.66 de descuento por 49.9 EUR (original: 78.78 EUR) en el siguiente enlace!

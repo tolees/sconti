@@ -10,8 +10,11 @@ author: ring
 slug: B00D5QQFOG
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 108.6 EUR
 inStock: true
+prodname: New Plast AMB1319 - Altalena Pieghevole Libellula con Parasole e Seggiolino di Sicurezza 3 in 1
 ---
 
 Ahora mismo tienes [New Plast AMB1319 - Altalena Pieghevole Libellula con Parasole e Seggiolino di Sicurezza 3 in 1](https://www.amazon.it/dp/B00D5QQFOG/?tag=tolees00-21) a 79.99 EUR (original: 108.6 EUR) (26.34 %  de descuento) en el siguiente enlace!

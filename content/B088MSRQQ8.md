@@ -10,8 +10,11 @@ author: ring
 slug: B088MSRQQ8
 description:
 actualPrice: 23.45 EUR
+currency: EUR
+price: 23.45
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Giochi Preziosi - Gormiti S3 Alpha Gauntlet  GRA11110
 ---
 
 Tienes [Giochi Preziosi - Gormiti S3 Alpha Gauntlet  GRA11110](https://www.amazon.it/dp/B088MSRQQ8/?tag=tolees00-21) con un 41.36 % de descuento con precio de oferta de 23.45 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LZL7JTJ
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 15.9 EUR
 inStock: true
+prodname: Your Name
 ---
 
 Ahora mismo tienes [Your Name](https://www.amazon.it/dp/B01LZL7JTJ/?tag=tolees00-21) a 8.99 EUR (original: 15.9 EUR) (43.46 %  de descuento) en el siguiente enlace!

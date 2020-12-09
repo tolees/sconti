@@ -10,8 +10,11 @@ author: ring
 slug: B07QSK8B4F
 description:
 actualPrice: 136.06 EUR
+currency: EUR
+price: 136.06
 comparePrice: 199.9 EUR
 inStock: true
+prodname: NORTH SAILS Giacca Sailor Slim  Rivisitato E Eco-Friendly  XL
 ---
 
 Tienes [NORTH SAILS Giacca Sailor Slim  Rivisitato E Eco-Friendly  XL](https://www.amazon.it/dp/B07QSK8B4F/?tag=tolees00-21) con un 31.94 % de descuento con precio de oferta de 136.06 EUR (original: 199.9 EUR) en el siguiente enlace!

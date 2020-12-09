@@ -10,8 +10,11 @@ author: ring
 slug: B08CBKPRZB
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 44.55 EUR
 inStock: true
+prodname: adidas Hoops Mid 2.0 K  Scarpe da Basket  Ftwr White/Ftwr White/Signal Pink  32 EU
 ---
 
 Tienes [adidas Hoops Mid 2.0 K  Scarpe da Basket  Ftwr White/Ftwr White/Signal Pink  32 EU](https://www.amazon.it/dp/B08CBKPRZB/?tag=tolees00-21) con un 48.40 % de descuento con precio de oferta de 22.99 EUR (original: 44.55 EUR) en el siguiente enlace!

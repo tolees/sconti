@@ -10,8 +10,11 @@ author: ring
 slug: B08D3R2TBG
 description:
 actualPrice: 490.0 EUR
+currency: EUR
+price: 490.0
 comparePrice: 899.0 EUR
 inStock: true
+prodname: Scrambler Ducati Monopattino elettrico Cross-E  nero e giallo  Taglia universale
 ---
 
 Ahora mismo tienes [Scrambler Ducati Monopattino elettrico Cross-E  nero e giallo  Taglia universale](https://www.amazon.it/dp/B08D3R2TBG/?tag=tolees00-21) a 490.0 EUR (original: 899.0 EUR) (45.49 %  de descuento) en el siguiente enlace!

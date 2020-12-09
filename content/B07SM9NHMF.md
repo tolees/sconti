@@ -10,8 +10,11 @@ author: ring
 slug: B07SM9NHMF
 description:
 actualPrice: 28.8 EUR
+currency: EUR
+price: 28.8
 comparePrice: 48.88 EUR
 inStock: true
+prodname: Trecce giganti  10 pezzi.
 ---
 
 Está [Trecce giganti  10 pezzi.](https://www.amazon.it/dp/B07SM9NHMF/?tag=tolees00-21) con 41.08 de descuento por 28.8 EUR (original: 48.88 EUR) en el siguiente enlace!

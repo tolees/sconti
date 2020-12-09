@@ -10,8 +10,11 @@ author: ring
 slug: B07C2KLQW7
 description:
 actualPrice: 17.58 EUR
+currency: EUR
+price: 17.58
 comparePrice: 29.98 EUR
 inStock: true
+prodname: TOUCHBeauty - Spazzola per la pulizia del viso  set di spazzola rotante impermeabile viso con 3 testine - Spazzola portatile per esfoliazione del viso per una pulizia delicata e una esfoliazione profonda AG-14838
 ---
 
 Tienes [TOUCHBeauty - Spazzola per la pulizia del viso  set di spazzola rotante impermeabile viso con 3 testine - Spazzola portatile per esfoliazione del viso per una pulizia delicata e una esfoliazione profonda AG-14838](https://www.amazon.it/dp/B07C2KLQW7/?tag=tolees00-21) con un 41.36 % de descuento con precio de oferta de 17.58 EUR (original: 29.98 EUR) en el siguiente enlace!

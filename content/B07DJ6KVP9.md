@@ -10,14 +10,19 @@ author: ring
 slug: B07DJ6KVP9
 description:
 actualPrice: 17.18 EUR
+currency: EUR
+price: 17.18
 comparePrice: 50.0 EUR
 inStock: true
+prodname: New Balance 411  Scarpe da Corsa Donna  Nero Black White  44 EU
 ---
 
-Ahora mismo tienes [New Balance 411  Scarpe da Corsa Donna  Nero Black White  44 EU](https://www.amazon.it/dp/B07DJ6KVP9/?tag=tolees00-21) a 17.18 EUR (original: 50.0 EUR) (65.64 %  de descuento) en el siguiente enlace!
+Está [New Balance 411  Scarpe da Corsa Donna  Nero Black White  44 EU](https://www.amazon.it/dp/B07DJ6KVP9/?tag=tolees00-21) con 65.64 de descuento por 17.18 EUR (original: 50.0 EUR) en el siguiente enlace!
 
 [![New Balance 411  Scarpe da Corsa Donna  ](https://m.media-amazon.com/images/I/41nDCezF5AL._SL200_.jpg)](https://www.amazon.it/dp/B07DJ6KVP9/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07DJ6KVP9/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07DJ6KVP9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

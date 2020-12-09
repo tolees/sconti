@@ -10,8 +10,11 @@ author: ring
 slug: B073NTCT4Q
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 159.0 EUR
 inStock: true
+prodname: BenQ GW2480 Monitor LED Eye-Care da 23.8 Pollici  Full HD  1920 x 1080  Slim Bezel  Sensore Brightness HDMI/DP  nero
 ---
 
 Tienes [BenQ GW2480 Monitor LED Eye-Care da 23.8 Pollici  Full HD  1920 x 1080  Slim Bezel  Sensore Brightness HDMI/DP  nero](https://www.amazon.it/dp/B073NTCT4Q/?tag=tolees00-21) con un 37.11 % de descuento con precio de oferta de 99.99 EUR (original: 159.0 EUR) en el siguiente enlace!

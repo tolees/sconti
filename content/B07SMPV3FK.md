@@ -10,8 +10,11 @@ author: ring
 slug: B07SMPV3FK
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 120.0 EUR
 inStock: true
+prodname: ASICS GT-1000 9  Scarpe da Corsa Uomo  Electric Blue/Black  42 EU
 ---
 
 Ahora mismo tienes [ASICS GT-1000 9  Scarpe da Corsa Uomo  Electric Blue/Black  42 EU](https://www.amazon.it/dp/B07SMPV3FK/?tag=tolees00-21) a 39.95 EUR (original: 120.0 EUR) (66.71 %  de descuento) en el siguiente enlace!

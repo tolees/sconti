@@ -10,8 +10,11 @@ author: ring
 slug: B07TBBTK65
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Havaianas Slim Tropical  Infradito Donna  Multicolore  Beige 7907   37/38 EU
 ---
 
 Ahora mismo tienes [Havaianas Slim Tropical  Infradito Donna  Multicolore  Beige 7907   37/38 EU](https://www.amazon.it/dp/B07TBBTK65/?tag=tolees00-21) a 19.99 EUR (original: 30.0 EUR) (33.37 %  de descuento) en el siguiente enlace!

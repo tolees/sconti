@@ -10,8 +10,11 @@ author: ring
 slug: B07QZTNS4K
 description:
 actualPrice: 26.07 EUR
+currency: EUR
+price: 26.07
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Under Armour Challenger III Midlayer  Maglia a Maniche Lunghe Uomo  Nero  Black - 001   MD
 ---
 
 Tienes [Under Armour Challenger III Midlayer  Maglia a Maniche Lunghe Uomo  Nero  Black - 001   MD](https://www.amazon.it/dp/B07QZTNS4K/?tag=tolees00-21) con un 47.86 % de descuento con precio de oferta de 26.07 EUR (original: 50.0 EUR) en el siguiente enlace!

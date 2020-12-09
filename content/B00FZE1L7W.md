@@ -10,8 +10,11 @@ author: ring
 slug: B00FZE1L7W
 description:
 actualPrice: 94.9 EUR
+currency: EUR
+price: 94.9
 comparePrice: 279.0 EUR
 inStock: true
+prodname: Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK5865
 ---
 
 Ahora mismo tienes [Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK5865](https://www.amazon.it/dp/B00FZE1L7W/?tag=tolees00-21) a 94.9 EUR (original: 279.0 EUR) (65.99 %  de descuento) en el siguiente enlace!

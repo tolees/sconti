@@ -10,8 +10,11 @@ author: ring
 slug: B07W8YKM1D
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Need for Speed Heat - PlayStation 4 Standard
 ---
 
 Tienes [Need for Speed Heat - PlayStation 4 Standard](https://www.amazon.it/dp/B07W8YKM1D/?tag=tolees00-21) con un 57.15 % de descuento con precio de oferta de 29.99 EUR (original: 69.99 EUR) en el siguiente enlace!

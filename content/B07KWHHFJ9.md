@@ -10,8 +10,11 @@ author: ring
 slug: B07KWHHFJ9
 description:
 actualPrice: 10.89 EUR
+currency: EUR
+price: 10.89
 comparePrice: 15.58 EUR
 inStock: true
+prodname: Paranoia Airlines
 ---
 
 Tienes [Paranoia Airlines](https://www.amazon.it/dp/B07KWHHFJ9/?tag=tolees00-21) con un 30.10 % de descuento con precio de oferta de 10.89 EUR (original: 15.58 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TPPTJ8J
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Levi s Crewneck 1 T-Shirt  Blu  2pk Slim Crew Dress Blues X Riverside S 0009   X-Large  Pacco da 2  Uomo
 ---
 
 Ahora mismo tienes [Levi s Crewneck 1 T-Shirt  Blu  2pk Slim Crew Dress Blues X Riverside S 0009   X-Large  Pacco da 2  Uomo](https://www.amazon.it/dp/B07TPPTJ8J/?tag=tolees00-21) a 17.5 EUR (original: 35.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

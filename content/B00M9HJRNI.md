@@ -10,8 +10,11 @@ author: ring
 slug: B00M9HJRNI
 description:
 actualPrice: 11.98 EUR
+currency: EUR
+price: 11.98
 comparePrice: 18.98 EUR
 inStock: true
+prodname: Alla Scoperta Del Vaticano
 ---
 
 Está [Alla Scoperta Del Vaticano](https://www.amazon.it/dp/B00M9HJRNI/?tag=tolees00-21) con 36.88 de descuento por 11.98 EUR (original: 18.98 EUR) en el siguiente enlace!

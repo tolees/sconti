@@ -10,8 +10,11 @@ author: ring
 slug: B00S9LR3CK
 description:
 actualPrice: 4.49 EUR
+currency: EUR
+price: 4.49
 comparePrice: 6.9 EUR
 inStock: true
+prodname: Equilibra Olio di Mandorle Dolci - 250 ml
 ---
 
 Ahora mismo tienes [Equilibra Olio di Mandorle Dolci - 250 ml](https://www.amazon.it/dp/B00S9LR3CK/?tag=tolees00-21) a 4.49 EUR (original: 6.9 EUR) (34.93 %  de descuento) en el siguiente enlace!

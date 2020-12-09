@@ -10,8 +10,11 @@ author: ring
 slug: B00XOTU1W6
 description:
 actualPrice: 499.9 EUR
+currency: EUR
+price: 499.9
 comparePrice: 729.99 EUR
 inStock: true
+prodname: Moulinex HF802AA1 Cuisine Companion Robot da Cucina Multifunzione con 6 Programmi Automatici  1550 watt  Bianco/Argento
 ---
 
 Está [Moulinex HF802AA1 Cuisine Companion Robot da Cucina Multifunzione con 6 Programmi Automatici  1550 watt  Bianco/Argento](https://www.amazon.it/dp/B00XOTU1W6/?tag=tolees00-21) con 31.52 de descuento por 499.9 EUR (original: 729.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08CRH6YPF
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: TUTUO Protezione Cover per Switch  Silicone PU Portatile Sottile Custodia Viaggio e 10 Cartucce di Gioco Giochi e Console Accessori  per Switch/Switch Lite
 ---
 
 Tienes [TUTUO Protezione Cover per Switch  Silicone PU Portatile Sottile Custodia Viaggio e 10 Cartucce di Gioco Giochi e Console Accessori  per Switch/Switch Lite](https://www.amazon.it/dp/B08CRH6YPF/?tag=tolees00-21) con un 30.78 % de descuento con precio de oferta de 17.99 EUR (original: 25.99 EUR) en el siguiente enlace!

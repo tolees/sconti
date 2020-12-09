@@ -10,8 +10,11 @@ author: ring
 slug: B07TYHM67R
 description:
 actualPrice: 32.5 EUR
+currency: EUR
+price: 32.5
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Levi s Lady Luck Felpa  Blu  Crew Feminine Logo Marina 0004   Small Donna
 ---
 
 Tienes [Levi s Lady Luck Felpa  Blu  Crew Feminine Logo Marina 0004   Small Donna](https://www.amazon.it/dp/B07TYHM67R/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 32.5 EUR (original: 65.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NXBH6Y2
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Superdry Premium Goods Puff Entry Tee Maglietta  Blu  Supermarine Navy JZD   L  Taglia Produttore:14  Donna
 ---
 
 Tienes [Superdry Premium Goods Puff Entry Tee Maglietta  Blu  Supermarine Navy JZD   L  Taglia Produttore:14  Donna](https://www.amazon.it/dp/B07NXBH6Y2/?tag=tolees00-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

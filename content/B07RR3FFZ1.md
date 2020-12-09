@@ -10,8 +10,11 @@ author: ring
 slug: B07RR3FFZ1
 description:
 actualPrice: 60.56 EUR
+currency: EUR
+price: 60.56
 comparePrice: 82.18 EUR
 inStock: true
+prodname: Timberland Lafayette Park  Stivali Chukka Uomo  Nero  Black Full Grain   46 EU
 ---
 
 Tienes [Timberland Lafayette Park  Stivali Chukka Uomo  Nero  Black Full Grain   46 EU](https://www.amazon.it/dp/B07RR3FFZ1/?tag=tolees00-21) con un 26.31 % de descuento con precio de oferta de 60.56 EUR (original: 82.18 EUR) en el siguiente enlace!

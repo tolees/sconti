@@ -10,8 +10,11 @@ author: ring
 slug: B07CKTJF17
 description:
 actualPrice: 9.34 EUR
+currency: EUR
+price: 9.34
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Body & Earth Set Bagno Donna Confezione Regalo  Kit da Bagno o Doccia in 6 Pezzi  Cofanetto Regalo per Compleanno o Feste- Profumo Lavanda
 ---
 
 Está [Body & Earth Set Bagno Donna Confezione Regalo  Kit da Bagno o Doccia in 6 Pezzi  Cofanetto Regalo per Compleanno o Feste- Profumo Lavanda](https://www.amazon.it/dp/B07CKTJF17/?tag=tolees00-21) con 41.59 de descuento por 9.34 EUR (original: 15.99 EUR) en el siguiente enlace!

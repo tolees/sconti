@@ -10,8 +10,11 @@ author: ring
 slug: B088TRGW4W
 description:
 actualPrice: 17.59 EUR
+currency: EUR
+price: 17.59
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Zexrow Controller per Nintendo Switch  Wireless Bluetooth Switch Pro Controller  Switch Joystick Gamepad con Turbo Regolabile Dual Shock Gyro Axi
 ---
 
 Está [Zexrow Controller per Nintendo Switch  Wireless Bluetooth Switch Pro Controller  Switch Joystick Gamepad con Turbo Regolabile Dual Shock Gyro Axi](https://www.amazon.it/dp/B088TRGW4W/?tag=tolees00-21) con 26.68 de descuento por 17.59 EUR (original: 23.99 EUR) en el siguiente enlace!

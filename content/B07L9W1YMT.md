@@ -10,8 +10,11 @@ author: ring
 slug: B07L9W1YMT
 description:
 actualPrice: 10.61 EUR
+currency: EUR
+price: 10.61
 comparePrice: 17.4 EUR
 inStock: true
+prodname: Head Above Water
 ---
 
 Ahora mismo tienes [Head Above Water](https://www.amazon.it/dp/B07L9W1YMT/?tag=tolees00-21) a 10.61 EUR (original: 17.4 EUR) (39.02 %  de descuento) en el siguiente enlace!

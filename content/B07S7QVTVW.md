@@ -10,8 +10,11 @@ author: ring
 slug: B07S7QVTVW
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 49.95 EUR
 inStock: true
+prodname: PUMA Carina L Jr  Scarpe da Ginnastica Unisex Adulto  Bianco White/Gulf Stream  37.5 EU
 ---
 
 Está [PUMA Carina L Jr  Scarpe da Ginnastica Unisex Adulto  Bianco White/Gulf Stream  37.5 EU](https://www.amazon.it/dp/B07S7QVTVW/?tag=tolees00-21) con 50.05 de descuento por 24.95 EUR (original: 49.95 EUR) en el siguiente enlace!

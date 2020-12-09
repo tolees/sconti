@@ -10,8 +10,11 @@ author: ring
 slug: B078LJX5GY
 description:
 actualPrice: 114.0 EUR
+currency: EUR
+price: 114.0
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Imetec Bellissima Zero Pro Compact Epilatore a Luce Pulsata per la Riduzione Permanente dei Peli Superflui di Viso e Corpo  300.000 Impulsi  Utilizzabile anche su Pelle Abbronzata
 ---
 
 Ahora mismo tienes [Imetec Bellissima Zero Pro Compact Epilatore a Luce Pulsata per la Riduzione Permanente dei Peli Superflui di Viso e Corpo  300.000 Impulsi  Utilizzabile anche su Pelle Abbronzata](https://www.amazon.it/dp/B078LJX5GY/?tag=tolees00-21) a 114.0 EUR (original: 179.99 EUR) (36.66 %  de descuento) en el siguiente enlace!

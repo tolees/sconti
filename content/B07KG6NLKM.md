@@ -10,8 +10,11 @@ author: ring
 slug: B07KG6NLKM
 description:
 actualPrice: 40.49 EUR
+currency: EUR
+price: 40.49
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma Smash V2 Sneaker Unisex - Adulto  Rhubarb/Puma Team Gold/Puma White 29   46 EU
 ---
 
 Tienes [Puma Smash V2 Sneaker Unisex - Adulto  Rhubarb/Puma Team Gold/Puma White 29   46 EU](https://www.amazon.it/dp/B07KG6NLKM/?tag=tolees00-21) con un 26.31 % de descuento con precio de oferta de 40.49 EUR (original: 54.95 EUR) en el siguiente enlace!

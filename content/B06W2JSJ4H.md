@@ -10,8 +10,11 @@ author: ring
 slug: B06W2JSJ4H
 description:
 actualPrice: 63.0 EUR
+currency: EUR
+price: 63.0
 comparePrice: 119.0 EUR
 inStock: true
+prodname: Fossil Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile FS5304
 ---
 
 Está [Fossil Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile FS5304](https://www.amazon.it/dp/B06W2JSJ4H/?tag=tolees00-21) con 47.06 de descuento por 63.0 EUR (original: 119.0 EUR) en el siguiente enlace!

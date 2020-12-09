@@ -10,8 +10,11 @@ author: ring
 slug: B07GJGKMVR
 description:
 actualPrice: 154.0 EUR
+currency: EUR
+price: 154.0
 comparePrice: 249.0 EUR
 inStock: true
+prodname: Chicco Next2Me Dream Culla Fianco Letto  0 m+  Grigio
 ---
 
 Tienes [Chicco Next2Me Dream Culla Fianco Letto  0 m+  Grigio](https://www.amazon.it/dp/B07GJGKMVR/?tag=tolees00-21) con un 38.15 % de descuento con precio de oferta de 154.0 EUR (original: 249.0 EUR) en el siguiente enlace!

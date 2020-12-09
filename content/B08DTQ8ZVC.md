@@ -10,8 +10,11 @@ author: ring
 slug: B08DTQ8ZVC
 description:
 actualPrice: 32.24 EUR
+currency: EUR
+price: 32.24
 comparePrice: 42.99 EUR
 inStock: true
+prodname: Motast Smartwatch Orologio Fitness Uomo Donna Smart Watch Contapassi Cardiofrequenzimetro da Polso  Smartband Sportivo Activity Tracker Cronometro  Notifiche Messaggi  Controller Fotocamera Musicale
 ---
 
 Está [Motast Smartwatch Orologio Fitness Uomo Donna Smart Watch Contapassi Cardiofrequenzimetro da Polso  Smartband Sportivo Activity Tracker Cronometro  Notifiche Messaggi  Controller Fotocamera Musicale](https://www.amazon.it/dp/B08DTQ8ZVC/?tag=tolees00-21) con 25.01 de descuento por 32.24 EUR (original: 42.99 EUR) en el siguiente enlace!

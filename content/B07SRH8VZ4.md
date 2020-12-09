@@ -10,8 +10,11 @@ author: ring
 slug: B07SRH8VZ4
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Lisciani Giochi - 76710 Gioco per Bambini Carotina  Penna Parlante  50 Giochi
 ---
 
 Está [Lisciani Giochi - 76710 Gioco per Bambini Carotina  Penna Parlante  50 Giochi](https://www.amazon.it/dp/B07SRH8VZ4/?tag=tolees00-21) con 47.09 de descuento por 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!

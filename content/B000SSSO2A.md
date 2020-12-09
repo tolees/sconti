@@ -10,8 +10,11 @@ author: ring
 slug: B000SSSO2A
 description:
 actualPrice: 14.49 EUR
+currency: EUR
+price: 14.49
 comparePrice: 26.0 EUR
 inStock: true
+prodname: Elizabeth Arden Visible Difference Refining Moisture Cream Complex Crema Viso Giorno - 75 ml
 ---
 
 Ahora mismo tienes [Elizabeth Arden Visible Difference Refining Moisture Cream Complex Crema Viso Giorno - 75 ml](https://www.amazon.it/dp/B000SSSO2A/?tag=tolees00-21) a 14.49 EUR (original: 26.0 EUR) (44.27 %  de descuento) en el siguiente enlace!

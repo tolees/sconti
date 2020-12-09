@@ -10,8 +10,11 @@ author: ring
 slug: B00KGTVZY0
 description:
 actualPrice: 55.0 EUR
+currency: EUR
+price: 55.0
 comparePrice: 139.0 EUR
 inStock: true
+prodname: Fossil Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inossidabile ES3625
 ---
 
 Está [Fossil Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inossidabile ES3625](https://www.amazon.it/dp/B00KGTVZY0/?tag=tolees00-21) con 60.43 de descuento por 55.0 EUR (original: 139.0 EUR) en el siguiente enlace!

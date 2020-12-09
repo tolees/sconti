@@ -10,8 +10,11 @@ author: ring
 slug: B00HHRKOTG
 description:
 actualPrice: 32.45 EUR
+currency: EUR
+price: 32.45
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Les Tropéziennes  Monaco  Sandali da Donna  Marrone  tan/or   38 EU
 ---
 
 Ahora mismo tienes [Les Tropéziennes  Monaco  Sandali da Donna  Marrone  tan/or   38 EU](https://www.amazon.it/dp/B00HHRKOTG/?tag=tolees00-21) a 32.45 EUR (original: 49.9 EUR) (34.97 %  de descuento) en el siguiente enlace!

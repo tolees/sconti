@@ -10,8 +10,11 @@ author: ring
 slug: B00FBH2VM2
 description:
 actualPrice: 20.5 EUR
+currency: EUR
+price: 20.5
 comparePrice: 64.0 EUR
 inStock: true
+prodname: Burberry for Women Eau de Parfum spray 50 ml
 ---
 
 Está [Burberry for Women Eau de Parfum spray 50 ml](https://www.amazon.it/dp/B00FBH2VM2/?tag=tolees00-21) con 67.97 de descuento por 20.5 EUR (original: 64.0 EUR) en el siguiente enlace!

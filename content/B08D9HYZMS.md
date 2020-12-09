@@ -10,8 +10,11 @@ author: ring
 slug: B08D9HYZMS
 description:
 actualPrice: 116.99 EUR
+currency: EUR
+price: 116.99
 comparePrice: 159.99 EUR
 inStock: true
+prodname: Philips Airfryer Essential HD9252/90 Friggitrice ad Aria  1400W  capacità 800 g / 4 1 L  con Touch Screen e 7 programmi preimpostati  Plastica
 ---
 
 Está [Philips Airfryer Essential HD9252/90 Friggitrice ad Aria  1400W  capacità 800 g / 4 1 L  con Touch Screen e 7 programmi preimpostati  Plastica](https://www.amazon.it/dp/B08D9HYZMS/?tag=tolees00-21) con 26.88 de descuento por 116.99 EUR (original: 159.99 EUR) en el siguiente enlace!

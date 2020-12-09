@@ -10,8 +10,11 @@ author: ring
 slug: B074WD8TCF
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 8.99 EUR
 inStock: true
+prodname: PUMA Sneaker Plain 3p Calze sportive  Blu Navy  35/38  Pacco da 3  Unisex – Adulto
 ---
 
 Está [PUMA Sneaker Plain 3p Calze sportive  Blu Navy  35/38  Pacco da 3  Unisex – Adulto](https://www.amazon.it/dp/B074WD8TCF/?tag=tolees00-21) con 44.49 de descuento por 4.99 EUR (original: 8.99 EUR) en el siguiente enlace!

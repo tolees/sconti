@@ -10,8 +10,11 @@ author: ring
 slug: B06VSC4SCP
 description:
 actualPrice: 34.5 EUR
+currency: EUR
+price: 34.5
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Sector No Limits Orologio Digitale Uomo con Cinturino in Silicone R3251571003
 ---
 
 Tienes [Sector No Limits Orologio Digitale Uomo con Cinturino in Silicone R3251571003](https://www.amazon.it/dp/B06VSC4SCP/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 34.5 EUR (original: 69.0 EUR) en el siguiente enlace!

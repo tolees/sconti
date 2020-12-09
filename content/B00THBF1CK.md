@@ -10,8 +10,11 @@ author: ring
 slug: B00THBF1CK
 description:
 actualPrice: 33.98 EUR
+currency: EUR
+price: 33.98
 comparePrice: 89.99 EUR
 inStock: true
+prodname: uhlsport  Giacca Trapuntata Essential  Nero  Schwarz   XXL
 ---
 
 Tienes [uhlsport  Giacca Trapuntata Essential  Nero  Schwarz   XXL](https://www.amazon.it/dp/B00THBF1CK/?tag=tolees00-21) con un 62.24 % de descuento con precio de oferta de 33.98 EUR (original: 89.99 EUR) en el siguiente enlace!

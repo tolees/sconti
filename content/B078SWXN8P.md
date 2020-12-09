@@ -10,8 +10,11 @@ author: ring
 slug: B078SWXN8P
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 100.0 EUR
 inStock: true
+prodname: Timberland Capri Sunset Wedge  Sandali Donna  Nero Black Nubuck  38 EU
 ---
 
 Está [Timberland Capri Sunset Wedge  Sandali Donna  Nero Black Nubuck  38 EU](https://www.amazon.it/dp/B078SWXN8P/?tag=tolees00-21) con 60.05 de descuento por 39.95 EUR (original: 100.0 EUR) en el siguiente enlace!

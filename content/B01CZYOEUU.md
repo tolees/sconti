@@ -10,8 +10,11 @@ author: ring
 slug: B01CZYOEUU
 description:
 actualPrice: 12.8 EUR
+currency: EUR
+price: 12.8
 comparePrice: 24.49 EUR
 inStock: true
+prodname: Disney Princess - Vaiana Fashion Doll
 ---
 
 Está [Disney Princess - Vaiana Fashion Doll](https://www.amazon.it/dp/B01CZYOEUU/?tag=tolees00-21) con 47.73 de descuento por 12.8 EUR (original: 24.49 EUR) en el siguiente enlace!

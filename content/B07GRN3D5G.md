@@ -10,8 +10,11 @@ author: ring
 slug: B07GRN3D5G
 description:
 actualPrice: 7.48 EUR
+currency: EUR
+price: 7.48
 comparePrice: 12.74 EUR
 inStock: true
+prodname: Il Comm.Montalbano 9  Box 2 Dvd   Stagione 2018 
 ---
 
 Tienes [Il Comm.Montalbano 9  Box 2 Dvd   Stagione 2018 ](https://www.amazon.it/dp/B07GRN3D5G/?tag=tolees00-21) con un 41.29 % de descuento con precio de oferta de 7.48 EUR (original: 12.74 EUR) en el siguiente enlace!

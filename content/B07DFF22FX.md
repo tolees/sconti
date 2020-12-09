@@ -10,8 +10,11 @@ author: ring
 slug: B07DFF22FX
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Funko- Disney: Wreck-It-Ralph 2: Pop 1  Multicolore  33403
 ---
 
 Ahora mismo tienes [Funko- Disney: Wreck-It-Ralph 2: Pop 1  Multicolore  33403](https://www.amazon.it/dp/B07DFF22FX/?tag=tolees00-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

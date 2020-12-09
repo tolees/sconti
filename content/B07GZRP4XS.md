@@ -10,8 +10,11 @@ author: ring
 slug: B07GZRP4XS
 description:
 actualPrice: 14.03 EUR
+currency: EUR
+price: 14.03
 comparePrice: 24.72 EUR
 inStock: true
+prodname: Marchio Amazon - MERAKI Blazer Casual Uomo  Grigio  Grey Marl   50  Label: 40
 ---
 
 Está [Marchio Amazon - MERAKI Blazer Casual Uomo  Grigio  Grey Marl   50  Label: 40](https://www.amazon.it/dp/B07GZRP4XS/?tag=tolees00-21) con 43.24 de descuento por 14.03 EUR (original: 24.72 EUR) en el siguiente enlace!

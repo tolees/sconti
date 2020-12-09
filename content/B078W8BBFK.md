@@ -10,8 +10,11 @@ author: ring
 slug: B078W8BBFK
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 59.9 EUR
 inStock: true
+prodname: TIPPY PAD dispositivo anti abbandono
 ---
 
 Está [TIPPY PAD dispositivo anti abbandono](https://www.amazon.it/dp/B078W8BBFK/?tag=tolees00-21) con 41.59 de descuento por 34.99 EUR (original: 59.9 EUR) en el siguiente enlace!

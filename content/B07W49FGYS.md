@@ -10,8 +10,11 @@ author: ring
 slug: B07W49FGYS
 description:
 actualPrice: 84.9 EUR
+currency: EUR
+price: 84.9
 comparePrice: 129.9 EUR
 inStock: true
+prodname: Imetec Piuma Extreme++ SC3-600 Aspirapolvere con Tecnologia Ciclonica Senza Sacco  Regolazione Elettronica della Potenza  Leggera 4 kg  Spazzola multisuperficie e Parquet  Multiaccessoriata
 ---
 
 Está [Imetec Piuma Extreme++ SC3-600 Aspirapolvere con Tecnologia Ciclonica Senza Sacco  Regolazione Elettronica della Potenza  Leggera 4 kg  Spazzola multisuperficie e Parquet  Multiaccessoriata](https://www.amazon.it/dp/B07W49FGYS/?tag=tolees00-21) con 34.64 de descuento por 84.9 EUR (original: 129.9 EUR) en el siguiente enlace!

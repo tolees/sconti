@@ -10,8 +10,11 @@ author: ring
 slug: B07H5SLC4V
 description:
 actualPrice: 0.99 EUR
+currency: EUR
+price: 0.99
 comparePrice: 1.75 EUR
 inStock: true
+prodname: Barilla Sugo con Pomodori Datterini e Olio di Oliva  Salsa Pronta Classica  senza Glutine  300 gr
 ---
 
 Tienes [Barilla Sugo con Pomodori Datterini e Olio di Oliva  Salsa Pronta Classica  senza Glutine  300 gr](https://www.amazon.it/dp/B07H5SLC4V/?tag=tolees00-21) con un 43.43 % de descuento con precio de oferta de 0.99 EUR (original: 1.75 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0751BFKRV
 description:
 actualPrice: 52.99 EUR
+currency: EUR
+price: 52.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: GREPRO Avviatore Batteria Auto  Motori Benzina Fino a 10.0L e Diesel da 7.0L  21000mAh Avviatore di Emergenza Portatile per 12V Auto con Doppie Porte USB e Torcia Elettrica a LED
 ---
 
 Tienes [GREPRO Avviatore Batteria Auto  Motori Benzina Fino a 10.0L e Diesel da 7.0L  21000mAh Avviatore di Emergenza Portatile per 12V Auto con Doppie Porte USB e Torcia Elettrica a LED](https://www.amazon.it/dp/B0751BFKRV/?tag=tolees00-21) con un 41.12 % de descuento con precio de oferta de 52.99 EUR (original: 89.99 EUR) en el siguiente enlace!

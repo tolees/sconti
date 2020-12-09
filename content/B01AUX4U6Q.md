@@ -10,8 +10,11 @@ author: ring
 slug: B01AUX4U6Q
 description:
 actualPrice: 32.0 EUR
+currency: EUR
+price: 32.0
 comparePrice: 49.0 EUR
 inStock: true
+prodname: Swarovski Orecchini Creativity Circle  Bianco  Placcatura Rodio
 ---
 
 Ahora mismo tienes [Swarovski Orecchini Creativity Circle  Bianco  Placcatura Rodio](https://www.amazon.it/dp/B01AUX4U6Q/?tag=tolees00-21) a 32.0 EUR (original: 49.0 EUR) (34.69 %  de descuento) en el siguiente enlace!

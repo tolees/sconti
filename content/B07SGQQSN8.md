@@ -10,8 +10,11 @@ author: ring
 slug: B07SGQQSN8
 description:
 actualPrice: 13.86 EUR
+currency: EUR
+price: 13.86
 comparePrice: 18.82 EUR
 inStock: true
+prodname: TCL MTRO200BT Wireless On-Ear Headphones con microfono  Bluetooth 4.2  isolamento acustico  cuscinetti auricolari in pelle  20 ore di gioco  ricarica rapida  pieghevole  comandi integrati   Nero
 ---
 
 Ahora mismo tienes [TCL MTRO200BT Wireless On-Ear Headphones con microfono  Bluetooth 4.2  isolamento acustico  cuscinetti auricolari in pelle  20 ore di gioco  ricarica rapida  pieghevole  comandi integrati   Nero](https://www.amazon.it/dp/B07SGQQSN8/?tag=tolees00-21) a 13.86 EUR (original: 18.82 EUR) (26.35 %  de descuento) en el siguiente enlace!

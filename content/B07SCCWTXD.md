@@ -10,8 +10,11 @@ author: ring
 slug: B07SCCWTXD
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 17.85 EUR
 inStock: true
+prodname: Peace & Love [Vinile 45 giri color Lime  Autografato e Numerato]  Esclusiva Amazon.it 
 ---
 
 Tienes [Peace & Love [Vinile 45 giri color Lime  Autografato e Numerato]  Esclusiva Amazon.it ](https://www.amazon.it/dp/B07SCCWTXD/?tag=tolees00-21) con un 44.03 % de descuento con precio de oferta de 9.99 EUR (original: 17.85 EUR) en el siguiente enlace!

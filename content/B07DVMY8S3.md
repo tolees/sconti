@@ -10,8 +10,11 @@ author: ring
 slug: B07DVMY8S3
 description:
 actualPrice: 113.98 EUR
+currency: EUR
+price: 113.98
 comparePrice: 170.0 EUR
 inStock: true
+prodname: SALEWA WS Wildfire Gore-Tex  Scarpe Trekking Donna  Nero Bianco  39 EU
 ---
 
 Está [SALEWA WS Wildfire Gore-Tex  Scarpe Trekking Donna  Nero Bianco  39 EU](https://www.amazon.it/dp/B07DVMY8S3/?tag=tolees00-21) con 32.95 de descuento por 113.98 EUR (original: 170.0 EUR) en el siguiente enlace!

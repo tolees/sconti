@@ -10,8 +10,11 @@ author: ring
 slug: B07MVBTSHG
 description:
 actualPrice: 72.86 EUR
+currency: EUR
+price: 72.86
 comparePrice: 118.02 EUR
 inStock: true
+prodname: NAPAPIJRI Avalon Wint Giacca  Blu  Blu Marine 176   Medium Uomo
 ---
 
 Está [NAPAPIJRI Avalon Wint Giacca  Blu  Blu Marine 176   Medium Uomo](https://www.amazon.it/dp/B07MVBTSHG/?tag=tolees00-21) con 38.26 de descuento por 72.86 EUR (original: 118.02 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PBBM8SW
 description:
 actualPrice: 134.99 EUR
+currency: EUR
+price: 134.99
 comparePrice: 189.0 EUR
 inStock: true
+prodname: Samsung C27R502 Monitor Curvo Borderless  27 Pollici  FHD  1920 x 1080  4 ms  16:9  60 Hz  1080p  1800R  LED  1 HDMI  Base a Doppio Snodo  Vesa  Blu/Grigio
 ---
 
 Está [Samsung C27R502 Monitor Curvo Borderless  27 Pollici  FHD  1920 x 1080  4 ms  16:9  60 Hz  1080p  1800R  LED  1 HDMI  Base a Doppio Snodo  Vesa  Blu/Grigio](https://www.amazon.it/dp/B07PBBM8SW/?tag=tolees00-21) con 28.58 de descuento por 134.99 EUR (original: 189.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01N20DLBG
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 189.0 EUR
 inStock: true
+prodname: Canon IXUS 190 Fotocamera Digitale Compatta  20 MP  1/2.3"  CCD  5152 x 3864 Pixel  Nero
 ---
 
 Tienes [Canon IXUS 190 Fotocamera Digitale Compatta  20 MP  1/2.3"  CCD  5152 x 3864 Pixel  Nero](https://www.amazon.it/dp/B01N20DLBG/?tag=tolees00-21) con un 47.10 % de descuento con precio de oferta de 99.99 EUR (original: 189.0 EUR) en el siguiente enlace!

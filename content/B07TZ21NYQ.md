@@ -10,8 +10,11 @@ author: ring
 slug: B07TZ21NYQ
 description:
 actualPrice: 46.79 EUR
+currency: EUR
+price: 46.79
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Wrangler Larston Jeans  Blu Mistral Green  32W / 32L Uomo
 ---
 
 Está [Wrangler Larston Jeans  Blu Mistral Green  32W / 32L Uomo](https://www.amazon.it/dp/B07TZ21NYQ/?tag=tolees00-21) con 41.48 de descuento por 46.79 EUR (original: 79.95 EUR) en el siguiente enlace!

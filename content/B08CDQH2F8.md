@@ -10,8 +10,11 @@ author: ring
 slug: B08CDQH2F8
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 78.9 EUR
 inStock: true
+prodname: Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Nero 
 ---
 
 Tienes [Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Nero ](https://www.amazon.it/dp/B08CDQH2F8/?tag=tolees00-21) con un 39.18 % de descuento con precio de oferta de 47.99 EUR (original: 78.9 EUR) en el siguiente enlace!

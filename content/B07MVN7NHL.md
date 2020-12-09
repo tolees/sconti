@@ -10,8 +10,11 @@ author: ring
 slug: B07MVN7NHL
 description:
 actualPrice: 74.39 EUR
+currency: EUR
+price: 74.39
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Ducati Panigale V4 S Upriser  Moto Radiocomandata In Scala 1:6  Raggiunge 20 Km/H
 ---
 
 Está [Ducati Panigale V4 S Upriser  Moto Radiocomandata In Scala 1:6  Raggiunge 20 Km/H](https://www.amazon.it/dp/B07MVN7NHL/?tag=tolees00-21) con 50.40 de descuento por 74.39 EUR (original: 149.99 EUR) en el siguiente enlace!

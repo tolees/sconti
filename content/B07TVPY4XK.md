@@ -10,8 +10,11 @@ author: ring
 slug: B07TVPY4XK
 description:
 actualPrice: 10.19 EUR
+currency: EUR
+price: 10.19
 comparePrice: 37.0 EUR
 inStock: true
+prodname: Kipling KiplingTopsDonnaPortafogliArgento  Metallic Glow  7.5x10x2.5 Centimeters  B x H x T 
 ---
 
 Está [Kipling KiplingTopsDonnaPortafogliArgento  Metallic Glow  7.5x10x2.5 Centimeters  B x H x T ](https://www.amazon.it/dp/B07TVPY4XK/?tag=tolees00-21) con 72.46 de descuento por 10.19 EUR (original: 37.0 EUR) en el siguiente enlace!

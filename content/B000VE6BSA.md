@@ -10,8 +10,11 @@ author: ring
 slug: B000VE6BSA
 description:
 actualPrice: 20.48 EUR
+currency: EUR
+price: 20.48
 comparePrice: 38.3 EUR
 inStock: true
+prodname: Kitchen Craft Glacette Grande  47 cm x 28 cm x 23 cm  Trasparente
 ---
 
 Está [Kitchen Craft Glacette Grande  47 cm x 28 cm x 23 cm  Trasparente](https://www.amazon.it/dp/B000VE6BSA/?tag=tolees00-21) con 46.53 de descuento por 20.48 EUR (original: 38.3 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B003PPCYHO
 description:
 actualPrice: 30.8 EUR
+currency: EUR
+price: 30.8
 comparePrice: 57.35 EUR
 inStock: true
+prodname: Eastpak Pinnacle Zaino  42 cm  38 L  Grigio  Sunday Grey 
 ---
 
 Está [Eastpak Pinnacle Zaino  42 cm  38 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCYHO/?tag=tolees00-21) con 46.29 de descuento por 30.8 EUR (original: 57.35 EUR) en el siguiente enlace!

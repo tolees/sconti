@@ -10,8 +10,11 @@ author: ring
 slug: B07SKWM8WF
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 22.0 EUR
 inStock: true
+prodname: Havaianas Top Nautical  Infradito Uomo  Multicolore  Navy Blue/White/Apache Red 3116   45/46 EU
 ---
 
 Tienes [Havaianas Top Nautical  Infradito Uomo  Multicolore  Navy Blue/White/Apache Red 3116   45/46 EU](https://www.amazon.it/dp/B07SKWM8WF/?tag=tolees00-21) con un 40.95 % de descuento con precio de oferta de 12.99 EUR (original: 22.0 EUR) en el siguiente enlace!

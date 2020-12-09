@@ -10,8 +10,11 @@ author: ring
 slug: B07RWMBX1N
 description:
 actualPrice: 16.74 EUR
+currency: EUR
+price: 16.74
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Clementoni- Laboratorio di Meccanica-Luna Park Set di Gioco  Multicolore  19100
 ---
 
 Tienes [Clementoni- Laboratorio di Meccanica-Luna Park Set di Gioco  Multicolore  19100](https://www.amazon.it/dp/B07RWMBX1N/?tag=tolees00-21) con un 44.01 % de descuento con precio de oferta de 16.74 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00BMMJOLQ
 description:
 actualPrice: 49.27 EUR
+currency: EUR
+price: 49.27
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox U Dublin A  Scarpe Stringate Derby Uomo  Nero  Black C9999   39 EU
 ---
 
 Está [Geox U Dublin A  Scarpe Stringate Derby Uomo  Nero  Black C9999   39 EU](https://www.amazon.it/dp/B00BMMJOLQ/?tag=tolees00-21) con 50.68 de descuento por 49.27 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B000KD9OSG
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 39.38 EUR
 inStock: true
+prodname: Casio Orologio Digitale al Quarzo Uomo con Cinturino in Resina F-105W-1AWYEF
 ---
 
 Está [Casio Orologio Digitale al Quarzo Uomo con Cinturino in Resina F-105W-1AWYEF](https://www.amazon.it/dp/B000KD9OSG/?tag=tolees00-21) con 59.40 de descuento por 15.99 EUR (original: 39.38 EUR) en el siguiente enlace!

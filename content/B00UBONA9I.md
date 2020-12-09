@@ -10,8 +10,11 @@ author: ring
 slug: B00UBONA9I
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Cotton CN Tee SS Icon Maglietta  Bianco  Classic White 100   S Uomo
 ---
 
 Está [Tommy Hilfiger Cotton CN Tee SS Icon Maglietta  Bianco  Classic White 100   S Uomo](https://www.amazon.it/dp/B00UBONA9I/?tag=tolees00-21) con 50.17 de descuento por 14.9 EUR (original: 29.9 EUR) en el siguiente enlace!

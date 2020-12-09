@@ -10,8 +10,11 @@ author: ring
 slug: B07SFJBC7T
 description:
 actualPrice: 16.49 EUR
+currency: EUR
+price: 16.49
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Levi s June L  Infradito Uomo  Rosso  Regular Red 87   43 EU
 ---
 
 Ahora mismo tienes [Levi s June L  Infradito Uomo  Rosso  Regular Red 87   43 EU](https://www.amazon.it/dp/B07SFJBC7T/?tag=tolees00-21) a 16.49 EUR (original: 25.0 EUR) (34.04 %  de descuento) en el siguiente enlace!

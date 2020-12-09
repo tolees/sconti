@@ -10,8 +10,11 @@ author: ring
 slug: B07Q9MJKBV
 description:
 actualPrice: 280.7 EUR
+currency: EUR
+price: 280.7
 comparePrice: 399.95 EUR
 inStock: true
+prodname: Bose Noise Cancelling Headphones 700  Nero  Black   con Alexa integrata
 ---
 
 Tienes [Bose Noise Cancelling Headphones 700  Nero  Black   con Alexa integrata](https://www.amazon.it/dp/B07Q9MJKBV/?tag=tolees00-21) con un 29.82 % de descuento con precio de oferta de 280.7 EUR (original: 399.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B077TV8ZPY
 description:
 actualPrice: 26.6 EUR
+currency: EUR
+price: 26.6
 comparePrice: 37.53 EUR
 inStock: true
+prodname: Marchio Amazon - MERAKI Giacca da Pioggia Uomo  Rosso  Red   XXL  Label: XXL
 ---
 
 Está [Marchio Amazon - MERAKI Giacca da Pioggia Uomo  Rosso  Red   XXL  Label: XXL](https://www.amazon.it/dp/B077TV8ZPY/?tag=tolees00-21) con 29.12 de descuento por 26.6 EUR (original: 37.53 EUR) en el siguiente enlace!

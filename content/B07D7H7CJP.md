@@ -10,8 +10,11 @@ author: ring
 slug: B07D7H7CJP
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Havaianas Slim Tropical  Infradito Donna   Salmon Nude 7183   35/36 EU
 ---
 
 Está [Havaianas Slim Tropical  Infradito Donna   Salmon Nude 7183   35/36 EU](https://www.amazon.it/dp/B07D7H7CJP/?tag=tolees00-21) con 33.37 de descuento por 19.99 EUR (original: 30.0 EUR) en el siguiente enlace!

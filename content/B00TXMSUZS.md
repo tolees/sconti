@@ -10,8 +10,11 @@ author: ring
 slug: B00TXMSUZS
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Mad Max Collection  Box 3 Br 
 ---
 
 Ahora mismo tienes [Mad Max Collection  Box 3 Br ](https://www.amazon.it/dp/B00TXMSUZS/?tag=tolees00-21) a 7.99 EUR (original: 16.99 EUR) (52.97 %  de descuento) en el siguiente enlace!

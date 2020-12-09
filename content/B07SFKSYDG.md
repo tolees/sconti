@@ -10,8 +10,11 @@ author: ring
 slug: B07SFKSYDG
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Olaz Regenerist Cofanetto Regalo  Crema Viso Antirughe Giorno  50 ml e Ultimate Eyes Crema Contorno Occhi  15 ml  Idee Regalo Donna Natale 2020
 ---
 
 Tienes [Olaz Regenerist Cofanetto Regalo  Crema Viso Antirughe Giorno  50 ml e Ultimate Eyes Crema Contorno Occhi  15 ml  Idee Regalo Donna Natale 2020](https://www.amazon.it/dp/B07SFKSYDG/?tag=tolees00-21) con un 40.01 % de descuento con precio de oferta de 20.99 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07K2NTDT4
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 39.95 EUR
 inStock: true
+prodname: adidas VL Court 2.0 K  Scarpe da Tennis Unisex-Adulto  Nero  Core Black/Grey Five/Hi/RES Yellow Core Black/Grey Five/Hi/RES Yellow   36.5 EU
 ---
 
 Ahora mismo tienes [adidas VL Court 2.0 K  Scarpe da Tennis Unisex-Adulto  Nero  Core Black/Grey Five/Hi/RES Yellow Core Black/Grey Five/Hi/RES Yellow   36.5 EU](https://www.amazon.it/dp/B07K2NTDT4/?tag=tolees00-21) a 26.99 EUR (original: 39.95 EUR) (32.44 %  de descuento) en el siguiente enlace!

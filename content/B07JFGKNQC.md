@@ -10,8 +10,11 @@ author: ring
 slug: B07JFGKNQC
 description:
 actualPrice: 113.5 EUR
+currency: EUR
+price: 113.5
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Pioneer S9 Over-Ear Auricolare Bluetooth  Cuffie antirumore  Assistente vocale  Durata della batteria fino a 24 ore  vivavoce  NFC  audio ad alta risoluzione  confortevole   Oro
 ---
 
 Tienes [Pioneer S9 Over-Ear Auricolare Bluetooth  Cuffie antirumore  Assistente vocale  Durata della batteria fino a 24 ore  vivavoce  NFC  audio ad alta risoluzione  confortevole   Oro](https://www.amazon.it/dp/B07JFGKNQC/?tag=tolees00-21) con un 42.96 % de descuento con precio de oferta de 113.5 EUR (original: 199.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01AWNSNEE
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 8.11 EUR
 inStock: true
+prodname: Listerine - Collutorio Advanced white  2 pezzi  500 ml x 2 
 ---
 
 Tienes [Listerine - Collutorio Advanced white  2 pezzi  500 ml x 2 ](https://www.amazon.it/dp/B01AWNSNEE/?tag=tolees00-21) con un 26.14 % de descuento con precio de oferta de 5.99 EUR (original: 8.11 EUR) en el siguiente enlace!

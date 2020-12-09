@@ -10,8 +10,11 @@ author: ring
 slug: B0831QBMFY
 description:
 actualPrice: 27.3 EUR
+currency: EUR
+price: 27.3
 comparePrice: 39.0 EUR
 inStock: true
+prodname: Canadian Peak  felpa da donna modello Gyrelle. Bleu Marine Medium
 ---
 
 Está [Canadian Peak  felpa da donna modello Gyrelle. Bleu Marine Medium](https://www.amazon.it/dp/B0831QBMFY/?tag=tolees00-21) con 30.00 de descuento por 27.3 EUR (original: 39.0 EUR) en el siguiente enlace!

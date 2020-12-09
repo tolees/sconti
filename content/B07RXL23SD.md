@@ -10,8 +10,11 @@ author: ring
 slug: B07RXL23SD
 description:
 actualPrice: 49.13 EUR
+currency: EUR
+price: 49.13
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Levi s The Jacket Giacca  Blu  Pale Shade Indigo Stretch Trucker 0468   Medium Uomo
 ---
 
 Tienes [Levi s The Jacket Giacca  Blu  Pale Shade Indigo Stretch Trucker 0468   Medium Uomo](https://www.amazon.it/dp/B07RXL23SD/?tag=tolees00-21) con un 59.06 % de descuento con precio de oferta de 49.13 EUR (original: 120.0 EUR) en el siguiente enlace!

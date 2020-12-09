@@ -10,8 +10,11 @@ author: ring
 slug: B073GY3DMZ
 description:
 actualPrice: 48.11 EUR
+currency: EUR
+price: 48.11
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Clarks Batcombe Hall  Scarpe Stringate Derby Uomo  Nero  Black Leather   42.5 EU
 ---
 
 Está [Clarks Batcombe Hall  Scarpe Stringate Derby Uomo  Nero  Black Leather   42.5 EU](https://www.amazon.it/dp/B073GY3DMZ/?tag=tolees00-21) con 56.26 de descuento por 48.11 EUR (original: 110.0 EUR) en el siguiente enlace!

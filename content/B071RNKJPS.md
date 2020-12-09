@@ -10,8 +10,11 @@ author: ring
 slug: B071RNKJPS
 description:
 actualPrice: 9.63 EUR
+currency: EUR
+price: 9.63
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Funko Pop! TV Il trono di spade  Game of Thrones  - Tyrion Lannister Figura del vinile
 ---
 
 Ahora mismo tienes [Funko Pop! TV Il trono di spade  Game of Thrones  - Tyrion Lannister Figura del vinile](https://www.amazon.it/dp/B071RNKJPS/?tag=tolees00-21) a 9.63 EUR (original: 14.99 EUR) (35.76 %  de descuento) en el siguiente enlace!

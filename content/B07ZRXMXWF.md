@@ -10,8 +10,11 @@ author: ring
 slug: B07ZRXMXWF
 description:
 actualPrice: 0.82 EUR
+currency: EUR
+price: 0.82
 comparePrice: 1.59 EUR
 inStock: true
+prodname: Riso Scotti - Risotto alla Milanese - Riso Carnaroli con Zafferano Ambrato Senza Glutine - 210 gr
 ---
 
 Está [Riso Scotti - Risotto alla Milanese - Riso Carnaroli con Zafferano Ambrato Senza Glutine - 210 gr](https://www.amazon.it/dp/B07ZRXMXWF/?tag=tolees00-21) con 48.43 de descuento por 0.82 EUR (original: 1.59 EUR) en el siguiente enlace!

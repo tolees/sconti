@@ -10,8 +10,11 @@ author: ring
 slug: B07TKX3LLD
 description:
 actualPrice: 10.28 EUR
+currency: EUR
+price: 10.28
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Superdry Alchemy Cargo Mini Skirt Gonna  Blu  Atlantic Navy Gkv   L  Taglia Produttore:14  Donna
 ---
 
 Está [Superdry Alchemy Cargo Mini Skirt Gonna  Blu  Atlantic Navy Gkv   L  Taglia Produttore:14  Donna](https://www.amazon.it/dp/B07TKX3LLD/?tag=tolees00-21) con 82.86 de descuento por 10.28 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07WKMMK3Y
 description:
 actualPrice: 13.89 EUR
+currency: EUR
+price: 13.89
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Pepe Jeans Jude T-Shirt  Blu  Indigo 561   Medium Uomo
 ---
 
 Ahora mismo tienes [Pepe Jeans Jude T-Shirt  Blu  Indigo 561   Medium Uomo](https://www.amazon.it/dp/B07WKMMK3Y/?tag=tolees00-21) a 13.89 EUR (original: 39.9 EUR) (65.19 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07S4YNSGR
 description:
 actualPrice: 87.48 EUR
+currency: EUR
+price: 87.48
 comparePrice: 180.0 EUR
 inStock: true
+prodname: SALEWA MS Dropline Gore-Tex  Scarpe da Trail Running Uomo  Nero  Black out/Blue Danube 953   44 EU
 ---
 
 Tienes [SALEWA MS Dropline Gore-Tex  Scarpe da Trail Running Uomo  Nero  Black out/Blue Danube 953   44 EU](https://www.amazon.it/dp/B07S4YNSGR/?tag=tolees00-21) con un 51.40 % de descuento con precio de oferta de 87.48 EUR (original: 180.0 EUR) en el siguiente enlace!

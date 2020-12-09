@@ -10,8 +10,11 @@ author: ring
 slug: B07DB1YP1B
 description:
 actualPrice: 79.5 EUR
+currency: EUR
+price: 79.5
 comparePrice: 159.0 EUR
 inStock: true
+prodname: Daniel Wellington Classic Roselyn Orologio Uomo  40mm  in NATO  Rosso/Oro Rosa
 ---
 
 Tienes [Daniel Wellington Classic Roselyn Orologio Uomo  40mm  in NATO  Rosso/Oro Rosa](https://www.amazon.it/dp/B07DB1YP1B/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 79.5 EUR (original: 159.0 EUR) en el siguiente enlace!

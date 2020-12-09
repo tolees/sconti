@@ -10,8 +10,11 @@ author: ring
 slug: B08J44VLNR
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Pellicola Xiaomi Mi 10T / Xiaomi 10T Pro 5G Vetro Temperato Camera Pellicola  9H Durezza Protezione Schermo  Anti Graffi HD Trasparenza Protettiva Film for Xiaomi Mi 10T 5G
 ---
 
 Está [Pellicola Xiaomi Mi 10T / Xiaomi 10T Pro 5G Vetro Temperato Camera Pellicola  9H Durezza Protezione Schermo  Anti Graffi HD Trasparenza Protettiva Film for Xiaomi Mi 10T 5G](https://www.amazon.it/dp/B08J44VLNR/?tag=tolees00-21) con 36.40 de descuento por 6.99 EUR (original: 10.99 EUR) en el siguiente enlace!

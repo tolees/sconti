@@ -10,8 +10,11 @@ author: ring
 slug: B00SVF1EUG
 description:
 actualPrice: 3.3 EUR
+currency: EUR
+price: 3.3
 comparePrice: 8.1 EUR
 inStock: true
+prodname: VERDEMAX 634574 Tubetto in PVC gomitolo 77 Metri  Verde
 ---
 
 Ahora mismo tienes [VERDEMAX 634574 Tubetto in PVC gomitolo 77 Metri  Verde](https://www.amazon.it/dp/B00SVF1EUG/?tag=tolees00-21) a 3.3 EUR (original: 8.1 EUR) (59.26 %  de descuento) en el siguiente enlace!

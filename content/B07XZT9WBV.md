@@ -10,8 +10,11 @@ author: ring
 slug: B07XZT9WBV
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 115.22 EUR
 inStock: true
+prodname: Philips Hue White and Color Ambiance  Lampadine LED Intelligenti  Attacco E27  9 W  2 Pezzi + Philips Hue Smart Button  Telecomando Controllo Illuminazione Hue
 ---
 
 Tienes [Philips Hue White and Color Ambiance  Lampadine LED Intelligenti  Attacco E27  9 W  2 Pezzi + Philips Hue Smart Button  Telecomando Controllo Illuminazione Hue](https://www.amazon.it/dp/B07XZT9WBV/?tag=tolees00-21) con un 39.26 % de descuento con precio de oferta de 69.99 EUR (original: 115.22 EUR) en el siguiente enlace!

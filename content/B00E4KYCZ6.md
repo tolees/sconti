@@ -10,8 +10,11 @@ author: ring
 slug: B00E4KYCZ6
 description:
 actualPrice: 8.11 EUR
+currency: EUR
+price: 8.11
 comparePrice: 15.49 EUR
 inStock: true
+prodname: L Oréal Paris Crema Viso Giorno Age Perfect Golden Age  Trattamento Fortificante  Adatto a Pelli Mature  50 ml
 ---
 
 Tienes [L Oréal Paris Crema Viso Giorno Age Perfect Golden Age  Trattamento Fortificante  Adatto a Pelli Mature  50 ml](https://www.amazon.it/dp/B00E4KYCZ6/?tag=tolees00-21) con un 47.64 % de descuento con precio de oferta de 8.11 EUR (original: 15.49 EUR) en el siguiente enlace!

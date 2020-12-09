@@ -10,16 +10,17 @@ author: ring
 slug: B07DRBB62M
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 62.43 EUR
 inStock: true
+prodname: Disney Tradition - Storybook Aladdin "Romance Takes Flight" Jim Shore s
 ---
 
-Está [Disney Tradition - Storybook Aladdin "Romance Takes Flight" Jim Shore s](https://www.amazon.it/dp/B07DRBB62M/?tag=tolees00-21) con 40.75 de descuento por 36.99 EUR (original: 62.43 EUR) en el siguiente enlace!
+Ahora mismo tienes [Disney Tradition - Storybook Aladdin "Romance Takes Flight" Jim Shore s](https://www.amazon.it/dp/B07DRBB62M/?tag=tolees00-21) a 36.99 EUR (original: 62.43 EUR) (40.75 %  de descuento) en el siguiente enlace!
 
 [![Disney Tradition - Storybook Aladdin "Ro](https://m.media-amazon.com/images/I/51O2ioa6R3L._SL200_.jpg)](https://www.amazon.it/dp/B07DRBB62M/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07DRBB62M/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07DRBB62M/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

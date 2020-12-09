@@ -10,8 +10,11 @@ author: ring
 slug: B0793JVKKK
 description:
 actualPrice: 53.43 EUR
+currency: EUR
+price: 53.43
 comparePrice: 83.84 EUR
 inStock: true
+prodname: Saucony Jazz Original Vintage  Sneakers Uomo  Blu Nvy Gld 22  44.5 EU
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vintage  Sneakers Uomo  Blu Nvy Gld 22  44.5 EU](https://www.amazon.it/dp/B0793JVKKK/?tag=tolees00-21) a 53.43 EUR (original: 83.84 EUR) (36.27 %  de descuento) en el siguiente enlace!

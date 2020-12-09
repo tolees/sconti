@@ -10,8 +10,11 @@ author: ring
 slug: B07SCZST9F
 description:
 actualPrice: 46.38 EUR
+currency: EUR
+price: 46.38
 comparePrice: 79.95 EUR
 inStock: true
+prodname: PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianca White-Rosewater White  36 EU
 ---
 
 Tienes [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianca White-Rosewater White  36 EU](https://www.amazon.it/dp/B07SCZST9F/?tag=tolees00-21) con un 41.99 % de descuento con precio de oferta de 46.38 EUR (original: 79.95 EUR) en el siguiente enlace!

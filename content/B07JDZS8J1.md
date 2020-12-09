@@ -10,8 +10,11 @@ author: ring
 slug: B07JDZS8J1
 description:
 actualPrice: 58.09 EUR
+currency: EUR
+price: 58.09
 comparePrice: 92.99 EUR
 inStock: true
+prodname: Friggitrice Senza olio con 6 diversi programmi di cottura VPCOK  Friggitrice ad Aria calda Multifunzione per 2-4 persone XL 1300W 5kg  con LED digital Senza BPA PFOA e Ricettario
 ---
 
 Está [Friggitrice Senza olio con 6 diversi programmi di cottura VPCOK  Friggitrice ad Aria calda Multifunzione per 2-4 persone XL 1300W 5kg  con LED digital Senza BPA PFOA e Ricettario](https://www.amazon.it/dp/B07JDZS8J1/?tag=tolees00-21) con 37.53 de descuento por 58.09 EUR (original: 92.99 EUR) en el siguiente enlace!

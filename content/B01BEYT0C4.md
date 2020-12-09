@@ -10,8 +10,11 @@ author: ring
 slug: B01BEYT0C4
 description:
 actualPrice: 99.0 EUR
+currency: EUR
+price: 99.0
 comparePrice: 195.0 EUR
 inStock: true
+prodname: Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in Pelle 1513331
 ---
 
 Ahora mismo tienes [Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in Pelle 1513331](https://www.amazon.it/dp/B01BEYT0C4/?tag=tolees00-21) a 99.0 EUR (original: 195.0 EUR) (49.23 %  de descuento) en el siguiente enlace!

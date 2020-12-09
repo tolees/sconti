@@ -10,8 +10,11 @@ author: ring
 slug: B085YCCH9G
 description:
 actualPrice: 19.11 EUR
+currency: EUR
+price: 19.11
 comparePrice: 49.95 EUR
 inStock: true
+prodname: YAMAMAY® Abito Donna Aderente con Scollo Morbido e Inserti in Lurex - Party
 ---
 
 Tienes [YAMAMAY® Abito Donna Aderente con Scollo Morbido e Inserti in Lurex - Party](https://www.amazon.it/dp/B085YCCH9G/?tag=tolees00-21) con un 61.74 % de descuento con precio de oferta de 19.11 EUR (original: 49.95 EUR) en el siguiente enlace!

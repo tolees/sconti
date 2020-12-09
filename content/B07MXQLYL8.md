@@ -10,8 +10,11 @@ author: ring
 slug: B07MXQLYL8
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Hasbro Marvel Spider-Man - Titan Hero Power FX con Lanciacolpi da Braccio  Multicolore
 ---
 
 Ahora mismo tienes [Hasbro Marvel Spider-Man - Titan Hero Power FX con Lanciacolpi da Braccio  Multicolore](https://www.amazon.it/dp/B07MXQLYL8/?tag=tolees00-21) a 9.9 EUR (original: 29.99 EUR) (66.99 %  de descuento) en el siguiente enlace!

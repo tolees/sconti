@@ -10,8 +10,11 @@ author: ring
 slug: B07VNQ2NN2
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Astuccio Scuola con 3 Scomparti  lunaoo Grande Multifunzione Astucci Penne con Cerniera per Ragazzo & Ragazza  22CM Camouflage blu 
 ---
 
 Está [Astuccio Scuola con 3 Scomparti  lunaoo Grande Multifunzione Astucci Penne con Cerniera per Ragazzo & Ragazza  22CM Camouflage blu ](https://www.amazon.it/dp/B07VNQ2NN2/?tag=tolees00-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

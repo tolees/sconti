@@ -10,8 +10,11 @@ author: ring
 slug: B089ZWKMJL
 description:
 actualPrice: 24.97 EUR
+currency: EUR
+price: 24.97
 comparePrice: 44.81 EUR
 inStock: true
+prodname: Tastiera meccanica da gioco a basso profilo  ultra sottile  interruttore blu clicky retroilluminato  pannello in alluminio TKL 87 tasti  US-Layout  tastiera per PC Gamer Typist
 ---
 
 Está [Tastiera meccanica da gioco a basso profilo  ultra sottile  interruttore blu clicky retroilluminato  pannello in alluminio TKL 87 tasti  US-Layout  tastiera per PC Gamer Typist](https://www.amazon.it/dp/B089ZWKMJL/?tag=tolees00-21) con 44.28 de descuento por 24.97 EUR (original: 44.81 EUR) en el siguiente enlace!

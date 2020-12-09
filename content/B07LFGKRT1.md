@@ -10,8 +10,11 @@ author: ring
 slug: B07LFGKRT1
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Levi s Graphic Crew B Felpa  HM Ssnl Fill 2 Dress Blues  M Uomo
 ---
 
 Ahora mismo tienes [Levi s Graphic Crew B Felpa  HM Ssnl Fill 2 Dress Blues  M Uomo](https://www.amazon.it/dp/B07LFGKRT1/?tag=tolees00-21) a 39.99 EUR (original: 65.0 EUR) (38.48 %  de descuento) en el siguiente enlace!

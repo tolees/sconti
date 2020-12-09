@@ -10,8 +10,11 @@ author: ring
 slug: B07SHGX7H7
 description:
 actualPrice: 94.9 EUR
+currency: EUR
+price: 94.9
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Xiaomi Mi Air Purifier 2H Purificatore d Aria  Rimozione Polline  Fumo  Polveri e Peli degli Animali  Copertura 18 - 31 m²  Compatibile con Google Assistance e Alexa  Modalità Notte  Bianco
 ---
 
 Tienes [Xiaomi Mi Air Purifier 2H Purificatore d Aria  Rimozione Polline  Fumo  Polveri e Peli degli Animali  Copertura 18 - 31 m²  Compatibile con Google Assistance e Alexa  Modalità Notte  Bianco](https://www.amazon.it/dp/B07SHGX7H7/?tag=tolees00-21) con un 36.73 % de descuento con precio de oferta de 94.9 EUR (original: 149.99 EUR) en el siguiente enlace!

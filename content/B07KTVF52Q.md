@@ -10,8 +10,11 @@ author: ring
 slug: B07KTVF52Q
 description:
 actualPrice: 38.84 EUR
+currency: EUR
+price: 38.84
 comparePrice: 54.99 EUR
 inStock: true
+prodname: LEGO Duplo Disney - Gioco per Bambini La Casa delle Vacanze di Topolino  Multicolore  6250697
 ---
 
 Está [LEGO Duplo Disney - Gioco per Bambini La Casa delle Vacanze di Topolino  Multicolore  6250697](https://www.amazon.it/dp/B07KTVF52Q/?tag=tolees00-21) con 29.37 de descuento por 38.84 EUR (original: 54.99 EUR) en el siguiente enlace!

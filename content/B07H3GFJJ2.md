@@ -10,8 +10,11 @@ author: ring
 slug: B07H3GFJJ2
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: HyperX HX-MC004B Pulsefire Core  Mouse Gaming RGB
 ---
 
 Está [HyperX HX-MC004B Pulsefire Core  Mouse Gaming RGB](https://www.amazon.it/dp/B07H3GFJJ2/?tag=tolees00-21) con 42.51 de descuento por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

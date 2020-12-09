@@ -10,8 +10,11 @@ author: ring
 slug: B07NFJS1RH
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.0 EUR
 inStock: true
+prodname: Vigorsol Air Action Gomme da Masticare Senza Zucchero  Barattolo Chewing Gum Gusto Menta Original  Confezione da 6 Mini Barattoli  46 Gomme Ognuno
 ---
 
 Ahora mismo tienes [Vigorsol Air Action Gomme da Masticare Senza Zucchero  Barattolo Chewing Gum Gusto Menta Original  Confezione da 6 Mini Barattoli  46 Gomme Ognuno](https://www.amazon.it/dp/B07NFJS1RH/?tag=tolees00-21) a 9.99 EUR (original: 15.0 EUR) (33.40 %  de descuento) en el siguiente enlace!

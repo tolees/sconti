@@ -10,8 +10,11 @@ author: ring
 slug: B07T4GYSSC
 description:
 actualPrice: 81.99 EUR
+currency: EUR
+price: 81.99
 comparePrice: 152.0 EUR
 inStock: true
+prodname: Guess Digital Shopper Borsa a Spalla da Donna  Nero  Taglia Unica
 ---
 
 Está [Guess Digital Shopper Borsa a Spalla da Donna  Nero  Taglia Unica](https://www.amazon.it/dp/B07T4GYSSC/?tag=tolees00-21) con 46.06 de descuento por 81.99 EUR (original: 152.0 EUR) en el siguiente enlace!

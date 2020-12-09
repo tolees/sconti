@@ -10,8 +10,11 @@ author: ring
 slug: B07SSJW3GG
 description:
 actualPrice: 40.63 EUR
+currency: EUR
+price: 40.63
 comparePrice: 119.9 EUR
 inStock: true
+prodname: Geox U EOLO B  Scarpe da Ginnastica Basse Uomo  Grigio  White/Lt Grey C1236   44 EU
 ---
 
 Está [Geox U EOLO B  Scarpe da Ginnastica Basse Uomo  Grigio  White/Lt Grey C1236   44 EU](https://www.amazon.it/dp/B07SSJW3GG/?tag=tolees00-21) con 66.11 de descuento por 40.63 EUR (original: 119.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07K2R9DSW
 description:
 actualPrice: 56.1 EUR
+currency: EUR
+price: 56.1
 comparePrice: 99.95 EUR
 inStock: true
+prodname: adidas Continental 80  Scarpe da Ginnastica Uomo  Nero  Black G27707   38 EU
 ---
 
 Tienes [adidas Continental 80  Scarpe da Ginnastica Uomo  Nero  Black G27707   38 EU](https://www.amazon.it/dp/B07K2R9DSW/?tag=tolees00-21) con un 43.87 % de descuento con precio de oferta de 56.1 EUR (original: 99.95 EUR) en el siguiente enlace!

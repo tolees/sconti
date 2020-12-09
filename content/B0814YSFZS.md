@@ -10,8 +10,11 @@ author: ring
 slug: B0814YSFZS
 description:
 actualPrice: 66.0 EUR
+currency: EUR
+price: 66.0
 comparePrice: 119.0 EUR
 inStock: true
+prodname: Swarovski Set Eternal Flower Dragonfly  Rosa  Placcato Oro Rosa
 ---
 
 Está [Swarovski Set Eternal Flower Dragonfly  Rosa  Placcato Oro Rosa](https://www.amazon.it/dp/B0814YSFZS/?tag=tolees00-21) con 44.54 de descuento por 66.0 EUR (original: 119.0 EUR) en el siguiente enlace!

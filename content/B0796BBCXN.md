@@ -10,8 +10,11 @@ author: ring
 slug: B0796BBCXN
 description:
 actualPrice: 78.99 EUR
+currency: EUR
+price: 78.99
 comparePrice: 179.0 EUR
 inStock: true
+prodname: NAPAPIJRI Rainforest M Sum 1 Giacca  Nero  Black 041   Small Uomo
 ---
 
 Tienes [NAPAPIJRI Rainforest M Sum 1 Giacca  Nero  Black 041   Small Uomo](https://www.amazon.it/dp/B0796BBCXN/?tag=tolees00-21) con un 55.87 % de descuento con precio de oferta de 78.99 EUR (original: 179.0 EUR) en el siguiente enlace!

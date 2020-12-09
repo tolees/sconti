@@ -10,8 +10,11 @@ author: ring
 slug: B0060VIQLI
 description:
 actualPrice: 2.29 EUR
+currency: EUR
+price: 2.29
 comparePrice: 4.24 EUR
 inStock: true
+prodname: Pan di Stelle Biscotti Frollini con Cacao  700g
 ---
 
 Ahora mismo tienes [Pan di Stelle Biscotti Frollini con Cacao  700g](https://www.amazon.it/dp/B0060VIQLI/?tag=tolees00-21) a 2.29 EUR (original: 4.24 EUR) (45.99 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06ZYJC98G
 description:
 actualPrice: 10.49 EUR
+currency: EUR
+price: 10.49
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Funko- Pop Vinile Rocks Joey Ramone  14350
 ---
 
 Tienes [Funko- Pop Vinile Rocks Joey Ramone  14350](https://www.amazon.it/dp/B06ZYJC98G/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

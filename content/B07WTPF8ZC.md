@@ -10,8 +10,11 @@ author: ring
 slug: B07WTPF8ZC
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Simple Modern Wanderer Zaino Donna  Uomo  o Bambini con Tasca per laptop - per Scuola  Lavoro  Escursioni o Viaggi. Cerniera a 4 vie  Porta PC o Borsa Zaino Donna - Nero Mezzanotte
 ---
 
 Ahora mismo tienes [Simple Modern Wanderer Zaino Donna  Uomo  o Bambini con Tasca per laptop - per Scuola  Lavoro  Escursioni o Viaggi. Cerniera a 4 vie  Porta PC o Borsa Zaino Donna - Nero Mezzanotte](https://www.amazon.it/dp/B07WTPF8ZC/?tag=tolees00-21) a 12.99 EUR (original: 34.99 EUR) (62.88 %  de descuento) en el siguiente enlace!

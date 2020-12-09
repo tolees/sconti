@@ -10,8 +10,11 @@ author: ring
 slug: B07RD7NWNW
 description:
 actualPrice: 129.99 EUR
+currency: EUR
+price: 129.99
 comparePrice: 229.99 EUR
 inStock: true
+prodname: Bissell 2240N SpinWave Cordless  Mocio Elettrico ad Azione Rotante con Spray Integrato  Sistema di Pulizia per Pavimenti Duri
 ---
 
 Está [Bissell 2240N SpinWave Cordless  Mocio Elettrico ad Azione Rotante con Spray Integrato  Sistema di Pulizia per Pavimenti Duri](https://www.amazon.it/dp/B07RD7NWNW/?tag=tolees00-21) con 43.48 de descuento por 129.99 EUR (original: 229.99 EUR) en el siguiente enlace!

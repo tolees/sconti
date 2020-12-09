@@ -10,8 +10,11 @@ author: ring
 slug: B0813RTRJC
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: LEGO DC Batman All’inseguimento del tre-ruote di Joker  con le minifigure di Harley Quinn e Robin  76159
 ---
 
 Está [LEGO DC Batman All’inseguimento del tre-ruote di Joker  con le minifigure di Harley Quinn e Robin  76159](https://www.amazon.it/dp/B0813RTRJC/?tag=tolees00-21) con 30.01 de descuento por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B085YC9MRN
 description:
 actualPrice: 15.28 EUR
+currency: EUR
+price: 15.28
 comparePrice: 39.95 EUR
 inStock: true
+prodname: YAMAMAY® Top Donna con Paillettes - Party
 ---
 
 Ahora mismo tienes [YAMAMAY® Top Donna con Paillettes - Party](https://www.amazon.it/dp/B085YC9MRN/?tag=tolees00-21) a 15.28 EUR (original: 39.95 EUR) (61.75 %  de descuento) en el siguiente enlace!

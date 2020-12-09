@@ -10,8 +10,11 @@ author: ring
 slug: B08GYHKLZZ
 description:
 actualPrice: 35.49 EUR
+currency: EUR
+price: 35.49
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Hurley M Portland Stripe Flannel Hood Shirt  Seaweed  L Mens
 ---
 
 Tienes [Hurley M Portland Stripe Flannel Hood Shirt  Seaweed  L Mens](https://www.amazon.it/dp/B08GYHKLZZ/?tag=tolees00-21) con un 45.40 % de descuento con precio de oferta de 35.49 EUR (original: 65.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01J7OV4EU
 description:
 actualPrice: 74.9 EUR
+currency: EUR
+price: 74.9
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Candy CMXG 22 DS Forno Microonde con Grill  22 Litri  Argento
 ---
 
 Tienes [Candy CMXG 22 DS Forno Microonde con Grill  22 Litri  Argento](https://www.amazon.it/dp/B01J7OV4EU/?tag=tolees00-21) con un 42.38 % de descuento con precio de oferta de 74.9 EUR (original: 129.99 EUR) en el siguiente enlace!

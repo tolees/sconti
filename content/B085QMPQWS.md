@@ -10,8 +10,11 @@ author: ring
 slug: B085QMPQWS
 description:
 actualPrice: 293.86 EUR
+currency: EUR
+price: 293.86
 comparePrice: 423.88 EUR
 inStock: true
+prodname: Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV: Netflix  Youtube  Prime/WiFi/Bluetooth/3 HDMI/PC/USB
 ---
 
 Está [Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV: Netflix  Youtube  Prime/WiFi/Bluetooth/3 HDMI/PC/USB](https://www.amazon.it/dp/B085QMPQWS/?tag=tolees00-21) con 30.67 de descuento por 293.86 EUR (original: 423.88 EUR) en el siguiente enlace!

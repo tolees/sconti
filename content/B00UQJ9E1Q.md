@@ -10,8 +10,11 @@ author: ring
 slug: B00UQJ9E1Q
 description:
 actualPrice: 110.09 EUR
+currency: EUR
+price: 110.09
 comparePrice: 209.0 EUR
 inStock: true
+prodname: Orologio da uomo  Collezione Epoca  movimento al quarzo  tempo e data   in acciaio - R8853118002
 ---
 
 Está [Orologio da uomo  Collezione Epoca  movimento al quarzo  tempo e data   in acciaio - R8853118002](https://www.amazon.it/dp/B00UQJ9E1Q/?tag=tolees00-21) con 47.33 de descuento por 110.09 EUR (original: 209.0 EUR) en el siguiente enlace!

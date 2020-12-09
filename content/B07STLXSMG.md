@@ -10,8 +10,11 @@ author: ring
 slug: B07STLXSMG
 description:
 actualPrice: 45.52 EUR
+currency: EUR
+price: 45.52
 comparePrice: 115.0 EUR
 inStock: true
+prodname: Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Nero  Black/Lt Gold C9258   38 EU
 ---
 
 Tienes [Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Nero  Black/Lt Gold C9258   38 EU](https://www.amazon.it/dp/B07STLXSMG/?tag=tolees00-21) con un 60.42 % de descuento con precio de oferta de 45.52 EUR (original: 115.0 EUR) en el siguiente enlace!

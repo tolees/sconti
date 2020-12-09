@@ -10,8 +10,11 @@ author: ring
 slug: B085FGJDP9
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 118.39 EUR
 inStock: true
+prodname: Samsung Memorie MB-ME512HA Evo Select Scheda MicroSD da 512 GB  UHS-I U3  Fino a 100 MB/s  Adattatore SD Incluso
 ---
 
 Ahora mismo tienes [Samsung Memorie MB-ME512HA Evo Select Scheda MicroSD da 512 GB  UHS-I U3  Fino a 100 MB/s  Adattatore SD Incluso](https://www.amazon.it/dp/B085FGJDP9/?tag=tolees00-21) a 69.99 EUR (original: 118.39 EUR) (40.88 %  de descuento) en el siguiente enlace!

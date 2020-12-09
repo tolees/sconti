@@ -10,8 +10,11 @@ author: ring
 slug: B01LZ4W0ER
 description:
 actualPrice: 1.75 EUR
+currency: EUR
+price: 1.75
 comparePrice: 2.56 EUR
 inStock: true
+prodname: Barilla - Sugo Ragù alla Bolognese - Salsa Pronta al Pomodoro Italiano e Carne Selezionata - Senza Glutine - 400 g
 ---
 
 Ahora mismo tienes [Barilla - Sugo Ragù alla Bolognese - Salsa Pronta al Pomodoro Italiano e Carne Selezionata - Senza Glutine - 400 g](https://www.amazon.it/dp/B01LZ4W0ER/?tag=tolees00-21) a 1.75 EUR (original: 2.56 EUR) (31.64 %  de descuento) en el siguiente enlace!

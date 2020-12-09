@@ -10,8 +10,11 @@ author: ring
 slug: B07J2BQV4R
 description:
 actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
 comparePrice: 349.0 EUR
 inStock: true
+prodname: Diesel Orologio Digitale Uomo con Cinturino in Pelle DZT2009
 ---
 
 Ahora mismo tienes [Diesel Orologio Digitale Uomo con Cinturino in Pelle DZT2009](https://www.amazon.it/dp/B07J2BQV4R/?tag=tolees00-21) a 149.0 EUR (original: 349.0 EUR) (57.31 %  de descuento) en el siguiente enlace!

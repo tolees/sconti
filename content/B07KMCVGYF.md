@@ -10,8 +10,11 @@ author: ring
 slug: B07KMCVGYF
 description:
 actualPrice: 6.92 EUR
+currency: EUR
+price: 6.92
 comparePrice: 14.44 EUR
 inStock: true
+prodname: Marchio Amazon - find. Blazer di Lino Donna  Multicolore  Black/White stripe   50  Label: XXL
 ---
 
 Está [Marchio Amazon - find. Blazer di Lino Donna  Multicolore  Black/White stripe   50  Label: XXL](https://www.amazon.it/dp/B07KMCVGYF/?tag=tolees00-21) con 52.08 de descuento por 6.92 EUR (original: 14.44 EUR) en el siguiente enlace!

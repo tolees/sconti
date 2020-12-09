@@ -10,8 +10,11 @@ author: ring
 slug: B00B9GWVR4
 description:
 actualPrice: 239.99 EUR
+currency: EUR
+price: 239.99
 comparePrice: 539.99 EUR
 inStock: true
+prodname: Braun Series 9 9395cc Rasoio Elettrico Barba di Ultima Generazione  Ricaricabile e Senza Fili  Cromato  Base di Ricarica e Custodia da Viaggio In Pelle  Wet&Dry  Rasoio a Lamina  Batteria Li-Ion
 ---
 
 Tienes [Braun Series 9 9395cc Rasoio Elettrico Barba di Ultima Generazione  Ricaricabile e Senza Fili  Cromato  Base di Ricarica e Custodia da Viaggio In Pelle  Wet&Dry  Rasoio a Lamina  Batteria Li-Ion](https://www.amazon.it/dp/B00B9GWVR4/?tag=tolees00-21) con un 55.56 % de descuento con precio de oferta de 239.99 EUR (original: 539.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B007MCT2QC
 description:
 actualPrice: 0.81 EUR
+currency: EUR
+price: 0.81
 comparePrice: 1.49 EUR
 inStock: true
+prodname: AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr
 ---
 
 Ahora mismo tienes [AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21) a 0.81 EUR (original: 1.49 EUR) (45.64 %  de descuento) en el siguiente enlace!

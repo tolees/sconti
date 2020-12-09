@@ -10,8 +10,11 @@ author: ring
 slug: B07QXXT7G1
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Pistola ad Aria Calda 2000W  Ginour Pistola Termica Elettrica 230V  350℃-250L/min  550℃-500L/min  4 Ugelli  Spatola  Raschietto  PVC termoretraibile  Rimuovere la vernice
 ---
 
 Ahora mismo tienes [Pistola ad Aria Calda 2000W  Ginour Pistola Termica Elettrica 230V  350℃-250L/min  550℃-500L/min  4 Ugelli  Spatola  Raschietto  PVC termoretraibile  Rimuovere la vernice](https://www.amazon.it/dp/B07QXXT7G1/?tag=tolees00-21) a 20.99 EUR (original: 29.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

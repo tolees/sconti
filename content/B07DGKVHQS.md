@@ -10,8 +10,11 @@ author: ring
 slug: B07DGKVHQS
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 53.52 EUR
 inStock: true
+prodname: Oral-B SmartSeries Teen Sensi Ultrathin Spazzolino Elettrico Ricaricabile per Adolescenti con 1 Manico e 2 Testine di Ricambio  Nero  Idea Regalo Natale
 ---
 
 Tienes [Oral-B SmartSeries Teen Sensi Ultrathin Spazzolino Elettrico Ricaricabile per Adolescenti con 1 Manico e 2 Testine di Ricambio  Nero  Idea Regalo Natale](https://www.amazon.it/dp/B07DGKVHQS/?tag=tolees00-21) con un 25.28 % de descuento con precio de oferta de 39.99 EUR (original: 53.52 EUR) en el siguiente enlace!

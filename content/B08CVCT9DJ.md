@@ -10,8 +10,11 @@ author: ring
 slug: B08CVCT9DJ
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: ATOYX Drone con Fotocamera， RC Quadricottero WiFi Trasmissione Posizionamento Preciso del Flusso Ottico G-sensore Facile da Controllare Mini Drone per Principianti Giocattolo  Bianca 
 ---
 
 Ahora mismo tienes [ATOYX Drone con Fotocamera， RC Quadricottero WiFi Trasmissione Posizionamento Preciso del Flusso Ottico G-sensore Facile da Controllare Mini Drone per Principianti Giocattolo  Bianca ](https://www.amazon.it/dp/B08CVCT9DJ/?tag=tolees00-21) a 59.99 EUR (original: 99.99 EUR) (40.00 %  de descuento) en el siguiente enlace!

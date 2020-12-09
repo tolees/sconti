@@ -10,8 +10,11 @@ author: ring
 slug: B01NCQY12W
 description:
 actualPrice: 174.0 EUR
+currency: EUR
+price: 174.0
 comparePrice: 349.0 EUR
 inStock: true
+prodname: Swarovski Orologio Crystalline Pure  Bracciale di Metallo  Bianco  PVD Oro Rosa
 ---
 
 Está [Swarovski Orologio Crystalline Pure  Bracciale di Metallo  Bianco  PVD Oro Rosa](https://www.amazon.it/dp/B01NCQY12W/?tag=tolees00-21) con 50.14 de descuento por 174.0 EUR (original: 349.0 EUR) en el siguiente enlace!

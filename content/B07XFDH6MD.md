@@ -10,8 +10,11 @@ author: ring
 slug: B07XFDH6MD
 description:
 actualPrice: 149.99 EUR
+currency: EUR
+price: 149.99
 comparePrice: 249.9 EUR
 inStock: true
+prodname: HUAWEI Watch GT 2 Smartwatch 46 mm  Durata Batteria fino a 2 Settimane  GPS  15 Modalità di Allenamento  Display del Quadrante in Vetro 3D  Chiamata Tramite Bluetooth  Pebble Brown
 ---
 
 Ahora mismo tienes [HUAWEI Watch GT 2 Smartwatch 46 mm  Durata Batteria fino a 2 Settimane  GPS  15 Modalità di Allenamento  Display del Quadrante in Vetro 3D  Chiamata Tramite Bluetooth  Pebble Brown](https://www.amazon.it/dp/B07XFDH6MD/?tag=tolees00-21) a 149.99 EUR (original: 249.9 EUR) (39.98 %  de descuento) en el siguiente enlace!

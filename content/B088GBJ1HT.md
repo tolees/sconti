@@ -10,8 +10,11 @@ author: ring
 slug: B088GBJ1HT
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Oral-B Design Edition Smart 4-4500 Spazzolino Elettrico Ricaricabile  1 Spazzolino Bianco Connesso con Bluetooth  1 Testina  1 Custodia da Viaggio  Idea Regalo Natale
 ---
 
 Ahora mismo tienes [Oral-B Design Edition Smart 4-4500 Spazzolino Elettrico Ricaricabile  1 Spazzolino Bianco Connesso con Bluetooth  1 Testina  1 Custodia da Viaggio  Idea Regalo Natale](https://www.amazon.it/dp/B088GBJ1HT/?tag=tolees00-21) a 59.99 EUR (original: 99.99 EUR) (40.00 %  de descuento) en el siguiente enlace!

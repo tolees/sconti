@@ -10,8 +10,11 @@ author: ring
 slug: B077VH3VGQ
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 26.99 EUR
 inStock: true
+prodname: POWERADD Apollo2 Powerbank Solare Caricabatteria Portatile 12000mAh con Pannello Solare e Torcia a 2 LED SOS 2 Uscita USB e Accendisigari Integrato Ricarica Rapida per iPhone/iPad/Smartphone/Tablet
 ---
 
 Está [POWERADD Apollo2 Powerbank Solare Caricabatteria Portatile 12000mAh con Pannello Solare e Torcia a 2 LED SOS 2 Uscita USB e Accendisigari Integrato Ricarica Rapida per iPhone/iPad/Smartphone/Tablet](https://www.amazon.it/dp/B077VH3VGQ/?tag=tolees00-21) con 25.94 de descuento por 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

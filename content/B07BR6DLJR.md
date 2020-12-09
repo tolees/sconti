@@ -10,8 +10,11 @@ author: ring
 slug: B07BR6DLJR
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.0 EUR
 inStock: true
+prodname: Levi s Oversized Batwing Beanie Cuffia  Nero  Noir Regular Black 59   Taglia Unica Uomo
 ---
 
 Tienes [Levi s Oversized Batwing Beanie Cuffia  Nero  Noir Regular Black 59   Taglia Unica Uomo](https://www.amazon.it/dp/B07BR6DLJR/?tag=tolees00-21) con un 31.63 % de descuento con precio de oferta de 12.99 EUR (original: 19.0 EUR) en el siguiente enlace!

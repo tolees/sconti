@@ -10,8 +10,11 @@ author: ring
 slug: B0792HCFDR
 description:
 actualPrice: 25.32 EUR
+currency: EUR
+price: 25.32
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Diesel UMBR-ANDRETHREEPACK  Slip Uomo  Nero  Black/Black/Black E4101-0Jkkb   XXL  Pacco da 3
 ---
 
 Está [Diesel UMBR-ANDRETHREEPACK  Slip Uomo  Nero  Black/Black/Black E4101-0Jkkb   XXL  Pacco da 3](https://www.amazon.it/dp/B0792HCFDR/?tag=tolees00-21) con 27.66 de descuento por 25.32 EUR (original: 35.0 EUR) en el siguiente enlace!

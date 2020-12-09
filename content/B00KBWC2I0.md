@@ -10,8 +10,11 @@ author: ring
 slug: B00KBWC2I0
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Oral-B 052722 Testina per Spazzolino
 ---
 
 Está [Oral-B 052722 Testina per Spazzolino](https://www.amazon.it/dp/B00KBWC2I0/?tag=tolees00-21) con 52.02 de descuento por 11.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DD43XRQ
 description:
 actualPrice: 16.49 EUR
+currency: EUR
+price: 16.49
 comparePrice: 46.4 EUR
 inStock: true
+prodname: Marchio Amazon - find. - Parka  Giacca Uomo  Blu  Navy   XS  Label: XS
 ---
 
 Ahora mismo tienes [Marchio Amazon - find. - Parka  Giacca Uomo  Blu  Navy   XS  Label: XS](https://www.amazon.it/dp/B07DD43XRQ/?tag=tolees00-21) a 16.49 EUR (original: 46.4 EUR) (64.46 %  de descuento) en el siguiente enlace!

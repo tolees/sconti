@@ -10,8 +10,11 @@ author: ring
 slug: B003KQZ0PG
 description:
 actualPrice: 1.99 EUR
+currency: EUR
+price: 1.99
 comparePrice: 3.9 EUR
 inStock: true
+prodname: Goobay 93990 Telaio di Installazione per Hard Disk da 2  5" in 3  5"  Nero
 ---
 
 Tienes [Goobay 93990 Telaio di Installazione per Hard Disk da 2  5" in 3  5"  Nero](https://www.amazon.it/dp/B003KQZ0PG/?tag=tolees00-21) con un 48.97 % de descuento con precio de oferta de 1.99 EUR (original: 3.9 EUR) en el siguiente enlace!

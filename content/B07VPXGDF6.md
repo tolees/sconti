@@ -10,8 +10,11 @@ author: ring
 slug: B07VPXGDF6
 description:
 actualPrice: 13.48 EUR
+currency: EUR
+price: 13.48
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Lee Elongated Tee T-Shirt  Nero  Black 01   L Uomo
 ---
 
 Está [Lee Elongated Tee T-Shirt  Nero  Black 01   L Uomo](https://www.amazon.it/dp/B07VPXGDF6/?tag=tolees00-21) con 54.99 de descuento por 13.48 EUR (original: 29.95 EUR) en el siguiente enlace!

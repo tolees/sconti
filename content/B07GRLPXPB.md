@@ -10,8 +10,11 @@ author: ring
 slug: B07GRLPXPB
 description:
 actualPrice: 7.19 EUR
+currency: EUR
+price: 7.19
 comparePrice: 9.99 EUR
 inStock: true
+prodname: A Star Is Born  Colonna Sonora 
 ---
 
 Está [A Star Is Born  Colonna Sonora ](https://www.amazon.it/dp/B07GRLPXPB/?tag=tolees00-21) con 28.03 de descuento por 7.19 EUR (original: 9.99 EUR) en el siguiente enlace!

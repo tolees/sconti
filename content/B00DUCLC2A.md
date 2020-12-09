@@ -10,8 +10,11 @@ author: ring
 slug: B00DUCLC2A
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Black+Decker RS890K-QS Sega Multifunzione Autoselect Scorpion con Tre Lame in Valigetta  500 W  0-2700 giri/min  Nero
 ---
 
 Tienes [Black+Decker RS890K-QS Sega Multifunzione Autoselect Scorpion con Tre Lame in Valigetta  500 W  0-2700 giri/min  Nero](https://www.amazon.it/dp/B00DUCLC2A/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

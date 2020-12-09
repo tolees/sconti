@@ -10,8 +10,11 @@ author: ring
 slug: B082VTD3LY
 description:
 actualPrice: 2.99 EUR
+currency: EUR
+price: 2.99
 comparePrice: 3.99 EUR
 inStock: true
+prodname: Pril Gold Gel lavastoviglie Sciogli Grasso  Detersivo lavastoviglie con sgrassatore attivo  33 lavaggi  600 ml
 ---
 
 Ahora mismo tienes [Pril Gold Gel lavastoviglie Sciogli Grasso  Detersivo lavastoviglie con sgrassatore attivo  33 lavaggi  600 ml](https://www.amazon.it/dp/B082VTD3LY/?tag=tolees00-21) a 2.99 EUR (original: 3.99 EUR) (25.06 %  de descuento) en el siguiente enlace!

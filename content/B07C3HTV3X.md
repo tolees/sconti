@@ -10,8 +10,11 @@ author: ring
 slug: B07C3HTV3X
 description:
 actualPrice: 32.51 EUR
+currency: EUR
+price: 32.51
 comparePrice: 69.87 EUR
 inStock: true
+prodname: AmazonBasics - Trolley rigido Premium con rotelle pivotanti e lucchetto TSA integrato  bagaglio a mano 55 cm  Verde
 ---
 
 Tienes [AmazonBasics - Trolley rigido Premium con rotelle pivotanti e lucchetto TSA integrato  bagaglio a mano 55 cm  Verde](https://www.amazon.it/dp/B07C3HTV3X/?tag=tolees00-21) con un 53.47 % de descuento con precio de oferta de 32.51 EUR (original: 69.87 EUR) en el siguiente enlace!

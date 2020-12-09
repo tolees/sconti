@@ -10,8 +10,11 @@ author: ring
 slug: B008COYB6K
 description:
 actualPrice: 14.92 EUR
+currency: EUR
+price: 14.92
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Giochi Uniti- Passa la Bomba Gioco di Divertimento  Multicolore  GU034/2
 ---
 
 Está [Giochi Uniti- Passa la Bomba Gioco di Divertimento  Multicolore  GU034/2](https://www.amazon.it/dp/B008COYB6K/?tag=tolees00-21) con 25.03 de descuento por 14.92 EUR (original: 19.9 EUR) en el siguiente enlace!

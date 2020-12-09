@@ -10,8 +10,11 @@ author: ring
 slug: B07FSDV52Z
 description:
 actualPrice: 47.49 EUR
+currency: EUR
+price: 47.49
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Grandin Plain  Scarpe Stringate Derby Uomo  Marrone  Dark Brown Tumbled   44 EU
 ---
 
 Está [Clarks Grandin Plain  Scarpe Stringate Derby Uomo  Marrone  Dark Brown Tumbled   44 EU](https://www.amazon.it/dp/B07FSDV52Z/?tag=tolees00-21) con 40.60 de descuento por 47.49 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B075VYCJBM
 description:
 actualPrice: 2.09 EUR
+currency: EUR
+price: 2.09
 comparePrice: 2.99 EUR
 inStock: true
+prodname: Findus Minestrone Tradizione Il Passato  600g  Surgelato 
 ---
 
 Está [Findus Minestrone Tradizione Il Passato  600g  Surgelato ](https://www.amazon.it/dp/B075VYCJBM/?tag=tolees00-21) con 30.10 de descuento por 2.09 EUR (original: 2.99 EUR) en el siguiente enlace!

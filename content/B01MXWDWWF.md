@@ -10,8 +10,11 @@ author: ring
 slug: B01MXWDWWF
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 145.0 EUR
 inStock: true
+prodname: Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Nero Black Nubuck  41.5 EU
 ---
 
 Ahora mismo tienes [Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Nero Black Nubuck  41.5 EU](https://www.amazon.it/dp/B01MXWDWWF/?tag=tolees00-21) a 79.99 EUR (original: 145.0 EUR) (44.83 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08FDN6X8R
 description:
 actualPrice: 5.25 EUR
+currency: EUR
+price: 5.25
 comparePrice: 7.5 EUR
 inStock: true
+prodname: goldenpoint Slip Brasiliana Intimo Donna in Pizzo macramé
 ---
 
 Tienes [goldenpoint Slip Brasiliana Intimo Donna in Pizzo macramé](https://www.amazon.it/dp/B08FDN6X8R/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 5.25 EUR (original: 7.5 EUR) en el siguiente enlace!

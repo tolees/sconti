@@ -10,8 +10,11 @@ author: ring
 slug: B08HS7B2CN
 description:
 actualPrice: 99.0 EUR
+currency: EUR
+price: 99.0
 comparePrice: 180.0 EUR
 inStock: true
+prodname: Nespresso Vertuo ENV150B Macchina per Espresso di De Longhi  Colore Ink Black  Capsule Vertuo System  Nero
 ---
 
 Ahora mismo tienes [Nespresso Vertuo ENV150B Macchina per Espresso di De Longhi  Colore Ink Black  Capsule Vertuo System  Nero](https://www.amazon.it/dp/B08HS7B2CN/?tag=tolees00-21) a 99.0 EUR (original: 180.0 EUR) (45.00 %  de descuento) en el siguiente enlace!

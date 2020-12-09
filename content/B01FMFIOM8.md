@@ -10,8 +10,11 @@ author: ring
 slug: B01FMFIOM8
 description:
 actualPrice: 1.67 EUR
+currency: EUR
+price: 1.67
 comparePrice: 3.49 EUR
 inStock: true
+prodname: Dove Bagnodoccia Go Fresh Cetriolo & Tè Verde 700 ml
 ---
 
 Está [Dove Bagnodoccia Go Fresh Cetriolo & Tè Verde 700 ml](https://www.amazon.it/dp/B01FMFIOM8/?tag=tolees00-21) con 52.15 de descuento por 1.67 EUR (original: 3.49 EUR) en el siguiente enlace!

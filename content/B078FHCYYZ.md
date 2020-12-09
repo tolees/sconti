@@ -10,8 +10,11 @@ author: ring
 slug: B078FHCYYZ
 description:
 actualPrice: 16.61 EUR
+currency: EUR
+price: 16.61
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Puma Liga Zaino  Unisex-Adulto  Nero Black   Taglia Unica
 ---
 
 Tienes [Puma Liga Zaino  Unisex-Adulto  Nero Black   Taglia Unica](https://www.amazon.it/dp/B078FHCYYZ/?tag=tolees00-21) con un 52.47 % de descuento con precio de oferta de 16.61 EUR (original: 34.95 EUR) en el siguiente enlace!

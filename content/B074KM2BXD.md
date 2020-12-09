@@ -10,8 +10,11 @@ author: ring
 slug: B074KM2BXD
 description:
 actualPrice: 30.0 EUR
+currency: EUR
+price: 30.0
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Lavazza Capsule Caffè A Modo Mio Gingseng  10 Confezioni da 12 Capsule [120 Capsule]
 ---
 
 Está [Lavazza Capsule Caffè A Modo Mio Gingseng  10 Confezioni da 12 Capsule [120 Capsule]](https://www.amazon.it/dp/B074KM2BXD/?tag=tolees00-21) con 39.88 de descuento por 30.0 EUR (original: 49.9 EUR) en el siguiente enlace!

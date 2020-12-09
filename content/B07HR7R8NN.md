@@ -10,8 +10,11 @@ author: ring
 slug: B07HR7R8NN
 description:
 actualPrice: 7.33 EUR
+currency: EUR
+price: 7.33
 comparePrice: 16.99 EUR
 inStock: true
+prodname: L Oréal Paris MakeUp Gel Sopraccigia Unbelievabrow  Lunga Tenuta  Formula Waterproof No Transfer  Sopracciglia Piene e Definite per Giorni  Smudge-Proof  109 Ebony  Confezione da 1
 ---
 
 Tienes [L Oréal Paris MakeUp Gel Sopraccigia Unbelievabrow  Lunga Tenuta  Formula Waterproof No Transfer  Sopracciglia Piene e Definite per Giorni  Smudge-Proof  109 Ebony  Confezione da 1](https://www.amazon.it/dp/B07HR7R8NN/?tag=tolees00-21) con un 56.86 % de descuento con precio de oferta de 7.33 EUR (original: 16.99 EUR) en el siguiente enlace!

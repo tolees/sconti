@@ -10,8 +10,11 @@ author: ring
 slug: B01DUX6P0C
 description:
 actualPrice: 2.09 EUR
+currency: EUR
+price: 2.09
 comparePrice: 3.2 EUR
 inStock: true
+prodname: Kellogg s Extra Cioccolato e Nocciole - 0.375 kg
 ---
 
 Tienes [Kellogg s Extra Cioccolato e Nocciole - 0.375 kg](https://www.amazon.it/dp/B01DUX6P0C/?tag=tolees00-21) con un 34.69 % de descuento con precio de oferta de 2.09 EUR (original: 3.2 EUR) en el siguiente enlace!

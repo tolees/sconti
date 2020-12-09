@@ -10,8 +10,11 @@ author: ring
 slug: B00FBEDRTG
 description:
 actualPrice: 6.6 EUR
+currency: EUR
+price: 6.6
 comparePrice: 11.55 EUR
 inStock: true
+prodname: Rosi 3508730 Adattatore Industriale  Grigio/Blu
 ---
 
 Tienes [Rosi 3508730 Adattatore Industriale  Grigio/Blu](https://www.amazon.it/dp/B00FBEDRTG/?tag=tolees00-21) con un 42.86 % de descuento con precio de oferta de 6.6 EUR (original: 11.55 EUR) en el siguiente enlace!

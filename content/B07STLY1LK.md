@@ -10,8 +10,11 @@ author: ring
 slug: B07STLY1LK
 description:
 actualPrice: 30.04 EUR
+currency: EUR
+price: 30.04
 comparePrice: 115.0 EUR
 inStock: true
+prodname: Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Bianco  White/Silver C0007   36 EU
 ---
 
 Está [Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Bianco  White/Silver C0007   36 EU](https://www.amazon.it/dp/B07STLY1LK/?tag=tolees00-21) con 73.88 de descuento por 30.04 EUR (original: 115.0 EUR) en el siguiente enlace!

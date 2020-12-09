@@ -10,8 +10,11 @@ author: ring
 slug: B06XBDXDRM
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Lettore di carte SumUp Air per pagamenti con carta di debito  credito  Apple Pay  Google Pay. Dispositivo portatile contactless - avvicina soltanto la carta  il telefono o in modalità Chip & Pin
 ---
 
 Tienes [Lettore di carte SumUp Air per pagamenti con carta di debito  credito  Apple Pay  Google Pay. Dispositivo portatile contactless - avvicina soltanto la carta  il telefono o in modalità Chip & Pin](https://www.amazon.it/dp/B06XBDXDRM/?tag=tolees00-21) con un 40.02 % de descuento con precio de oferta de 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

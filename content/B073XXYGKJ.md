@@ -10,8 +10,11 @@ author: ring
 slug: B073XXYGKJ
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.0 EUR
 inStock: true
+prodname: Morellato Pendente Donna Acciaio Inossidabile - SAKI01
 ---
 
 Ahora mismo tienes [Morellato Pendente Donna Acciaio Inossidabile - SAKI01](https://www.amazon.it/dp/B073XXYGKJ/?tag=tolees00-21) a 19.99 EUR (original: 39.0 EUR) (48.74 %  de descuento) en el siguiente enlace!

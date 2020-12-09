@@ -10,8 +10,11 @@ author: ring
 slug: B00I9X2KLW
 description:
 actualPrice: 222.99 EUR
+currency: EUR
+price: 222.99
 comparePrice: 410.0 EUR
 inStock: true
+prodname: Sony DSC-HX60 Fotocamera Digitale Compatta Travel con Sensore CMOS Exmor R da 20.4 MP  Ottica Sony G 24-720 mm  Zoom Ottico 30x  Supporto Multi-interfaccia  Nero
 ---
 
 Tienes [Sony DSC-HX60 Fotocamera Digitale Compatta Travel con Sensore CMOS Exmor R da 20.4 MP  Ottica Sony G 24-720 mm  Zoom Ottico 30x  Supporto Multi-interfaccia  Nero](https://www.amazon.it/dp/B00I9X2KLW/?tag=tolees00-21) con un 45.61 % de descuento con precio de oferta de 222.99 EUR (original: 410.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KLVST56
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: EZVIZ Telecamera da Interno IP Camera HD Telecamera Wi-Fi Interno Visione Notturna Eccellente Avviso Movimento Audio ad Due Vie Grandangolare App Mobile Compatibile con Alexa Modello CTQ2C
 ---
 
 Ahora mismo tienes [EZVIZ Telecamera da Interno IP Camera HD Telecamera Wi-Fi Interno Visione Notturna Eccellente Avviso Movimento Audio ad Due Vie Grandangolare App Mobile Compatibile con Alexa Modello CTQ2C](https://www.amazon.it/dp/B07KLVST56/?tag=tolees00-21) a 22.99 EUR (original: 39.99 EUR) (42.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B082VVSJTK
 description:
 actualPrice: 96.99 EUR
+currency: EUR
+price: 96.99
 comparePrice: 168.79 EUR
 inStock: true
+prodname: Samsung Memorie T7 Touch MU-PC500S SSD Esterno Portatile da 500 GB  USB 3.2 Gen 2  10 Gbps  Tipo-C  Silver
 ---
 
 Tienes [Samsung Memorie T7 Touch MU-PC500S SSD Esterno Portatile da 500 GB  USB 3.2 Gen 2  10 Gbps  Tipo-C  Silver](https://www.amazon.it/dp/B082VVSJTK/?tag=tolees00-21) con un 42.54 % de descuento con precio de oferta de 96.99 EUR (original: 168.79 EUR) en el siguiente enlace!

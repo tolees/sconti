@@ -10,8 +10,11 @@ author: ring
 slug: B071RZY4QH
 description:
 actualPrice: 44.92 EUR
+currency: EUR
+price: 44.92
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Lacoste TH6712 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo
 ---
 
 Tienes [Lacoste TH6712 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo](https://www.amazon.it/dp/B071RZY4QH/?tag=tolees00-21) con un 30.89 % de descuento con precio de oferta de 44.92 EUR (original: 65.0 EUR) en el siguiente enlace!

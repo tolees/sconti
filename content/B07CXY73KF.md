@@ -10,8 +10,11 @@ author: ring
 slug: B07CXY73KF
 description:
 actualPrice: 16.89 EUR
+currency: EUR
+price: 16.89
 comparePrice: 25.89 EUR
 inStock: true
+prodname: Samsung Memorie MB-ME64GA EVO Select Scheda microSD da 64 GB  UHS-I U3  Fino a 100MB/s  con Adattatore SD
 ---
 
 Ahora mismo tienes [Samsung Memorie MB-ME64GA EVO Select Scheda microSD da 64 GB  UHS-I U3  Fino a 100MB/s  con Adattatore SD](https://www.amazon.it/dp/B07CXY73KF/?tag=tolees00-21) a 16.89 EUR (original: 25.89 EUR) (34.76 %  de descuento) en el siguiente enlace!

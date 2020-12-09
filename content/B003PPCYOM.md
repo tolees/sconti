@@ -10,8 +10,11 @@ author: ring
 slug: B003PPCYOM
 description:
 actualPrice: 25.8 EUR
+currency: EUR
+price: 25.8
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Eastpak Jr Borsa A Tracolla  33 cm  11.5 L  Grigio  Sunday Grey 
 ---
 
 Está [Eastpak Jr Borsa A Tracolla  33 cm  11.5 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCYOM/?tag=tolees00-21) con 42.67 de descuento por 25.8 EUR (original: 45.0 EUR) en el siguiente enlace!

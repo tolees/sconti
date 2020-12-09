@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVQYKDY
 description:
 actualPrice: 89.57 EUR
+currency: EUR
+price: 89.57
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Levi s 511 Slim Fit Jeans  Richmond Power ADV  32W / 32L Uomo
 ---
 
 Está [Levi s 511 Slim Fit Jeans  Richmond Power ADV  32W / 32L Uomo](https://www.amazon.it/dp/B07ZVQYKDY/?tag=tolees00-21) con 25.36 de descuento por 89.57 EUR (original: 120.0 EUR) en el siguiente enlace!

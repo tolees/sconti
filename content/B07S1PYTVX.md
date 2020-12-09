@@ -10,8 +10,11 @@ author: ring
 slug: B07S1PYTVX
 description:
 actualPrice: 41.18 EUR
+currency: EUR
+price: 41.18
 comparePrice: 155.0 EUR
 inStock: true
+prodname: SALEWA MS Dropline  Scarpe da Trail Running Uomo  Blu  Blue Danube/Ombre Blue 8376   39 EU
 ---
 
 Ahora mismo tienes [SALEWA MS Dropline  Scarpe da Trail Running Uomo  Blu  Blue Danube/Ombre Blue 8376   39 EU](https://www.amazon.it/dp/B07S1PYTVX/?tag=tolees00-21) a 41.18 EUR (original: 155.0 EUR) (73.43 %  de descuento) en el siguiente enlace!

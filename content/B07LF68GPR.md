@@ -10,8 +10,11 @@ author: ring
 slug: B07LF68GPR
 description:
 actualPrice: 8.59 EUR
+currency: EUR
+price: 8.59
 comparePrice: 12.3 EUR
 inStock: true
+prodname: BIC Cristal - Penne a sfera multicolore  colori assortiti  confezione da 15  punta larga  1 6 mm   per scrivere e molto altro ancora
 ---
 
 Está [BIC Cristal - Penne a sfera multicolore  colori assortiti  confezione da 15  punta larga  1 6 mm   per scrivere e molto altro ancora](https://www.amazon.it/dp/B07LF68GPR/?tag=tolees00-21) con 30.16 de descuento por 8.59 EUR (original: 12.3 EUR) en el siguiente enlace!

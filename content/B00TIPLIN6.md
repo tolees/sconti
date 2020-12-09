@@ -10,8 +10,11 @@ author: ring
 slug: B00TIPLIN6
 description:
 actualPrice: 8.12 EUR
+currency: EUR
+price: 8.12
 comparePrice: 12.49 EUR
 inStock: true
+prodname: Pavesi Ringo Espositore Biscotti Snack alla Vaniglia - Pacco da 24
 ---
 
 Ahora mismo tienes [Pavesi Ringo Espositore Biscotti Snack alla Vaniglia - Pacco da 24](https://www.amazon.it/dp/B00TIPLIN6/?tag=tolees00-21) a 8.12 EUR (original: 12.49 EUR) (34.99 %  de descuento) en el siguiente enlace!

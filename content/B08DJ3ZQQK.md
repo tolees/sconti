@@ -10,8 +10,11 @@ author: ring
 slug: B08DJ3ZQQK
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Hunty Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Rosso 
 ---
 
 Está [Hunty Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Rosso ](https://www.amazon.it/dp/B08DJ3ZQQK/?tag=tolees00-21) con 35.36 de descuento por 63.99 EUR (original: 99.0 EUR) en el siguiente enlace!

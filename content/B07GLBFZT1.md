@@ -10,8 +10,11 @@ author: ring
 slug: B07GLBFZT1
 description:
 actualPrice: 149.8 EUR
+currency: EUR
+price: 149.8
 comparePrice: 279.0 EUR
 inStock: true
+prodname: Fossil Orologio Digitale Donna FTW6014P
 ---
 
 Ahora mismo tienes [Fossil Orologio Digitale Donna FTW6014P](https://www.amazon.it/dp/B07GLBFZT1/?tag=tolees00-21) a 149.8 EUR (original: 279.0 EUR) (46.31 %  de descuento) en el siguiente enlace!

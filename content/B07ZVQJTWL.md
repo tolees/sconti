@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVQJTWL
 description:
 actualPrice: 35.0 EUR
+currency: EUR
+price: 35.0
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Levi s Sunset 1 Pocket Standard Camicia  Amelie Stripe Colony Blue  M Uomo
 ---
 
 Tienes [Levi s Sunset 1 Pocket Standard Camicia  Amelie Stripe Colony Blue  M Uomo](https://www.amazon.it/dp/B07ZVQJTWL/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 35.0 EUR (original: 70.0 EUR) en el siguiente enlace!

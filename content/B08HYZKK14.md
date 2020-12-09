@@ -10,8 +10,11 @@ author: ring
 slug: B08HYZKK14
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: eXtremeRate Soft Grip Cover Copertura Frontale Joystick Custodia Guscio Case Ricambio per Xbox One S X Controller Model 1708 Rosso Nero 
 ---
 
 Tienes [eXtremeRate Soft Grip Cover Copertura Frontale Joystick Custodia Guscio Case Ricambio per Xbox One S X Controller Model 1708 Rosso Nero ](https://www.amazon.it/dp/B08HYZKK14/?tag=tolees00-21) con un 43.50 % de descuento con precio de oferta de 12.99 EUR (original: 22.99 EUR) en el siguiente enlace!

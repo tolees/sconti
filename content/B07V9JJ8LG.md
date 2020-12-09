@@ -10,8 +10,11 @@ author: ring
 slug: B07V9JJ8LG
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Calvin Klein Washed Stripe Stretch Shirt  f  Camicia  Blu  Night Sky Chw   X-Large Uomo
 ---
 
 Está [Calvin Klein Washed Stripe Stretch Shirt  f  Camicia  Blu  Night Sky Chw   X-Large Uomo](https://www.amazon.it/dp/B07V9JJ8LG/?tag=tolees00-21) con 50.00 de descuento por 34.95 EUR (original: 69.9 EUR) en el siguiente enlace!

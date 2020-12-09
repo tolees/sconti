@@ -10,8 +10,11 @@ author: ring
 slug: B089CHPHLY
 description:
 actualPrice: 13.49 EUR
+currency: EUR
+price: 13.49
 comparePrice: 23.99 EUR
 inStock: true
+prodname: eXtremeRate Adesivo Skin Pellicola Protettiva per Nintendo Switch Lite Sticker Pelle con Protezioni per Schermo per NSL Console-Sakura Rosa
 ---
 
 Ahora mismo tienes [eXtremeRate Adesivo Skin Pellicola Protettiva per Nintendo Switch Lite Sticker Pelle con Protezioni per Schermo per NSL Console-Sakura Rosa](https://www.amazon.it/dp/B089CHPHLY/?tag=tolees00-21) a 13.49 EUR (original: 23.99 EUR) (43.77 %  de descuento) en el siguiente enlace!

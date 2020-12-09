@@ -10,8 +10,11 @@ author: ring
 slug: B082LGWKT8
 description:
 actualPrice: 44.95 EUR
+currency: EUR
+price: 44.95
 comparePrice: 100.0 EUR
 inStock: true
+prodname: Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo
 ---
 
 Ahora mismo tienes [Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21) a 44.95 EUR (original: 100.0 EUR) (55.05 %  de descuento) en el siguiente enlace!

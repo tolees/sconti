@@ -10,8 +10,11 @@ author: ring
 slug: B07V6BNT5F
 description:
 actualPrice: 11.46 EUR
+currency: EUR
+price: 11.46
 comparePrice: 29.95 EUR
 inStock: true
+prodname: CARPISA® Borsa con tracolla catenina metallica pochette da sera con strass elegante clutch da cerimonia - MAY CRUZ
 ---
 
 Está [CARPISA® Borsa con tracolla catenina metallica pochette da sera con strass elegante clutch da cerimonia - MAY CRUZ](https://www.amazon.it/dp/B07V6BNT5F/?tag=tolees00-21) con 61.74 de descuento por 11.46 EUR (original: 29.95 EUR) en el siguiente enlace!

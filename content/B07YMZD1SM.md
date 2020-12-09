@@ -10,8 +10,11 @@ author: ring
 slug: B07YMZD1SM
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 56.32 EUR
 inStock: true
+prodname: Hurley M Dri-Fit Marwick Stretch S/S Maglie  Obsidian  XL Mens
 ---
 
 Está [Hurley M Dri-Fit Marwick Stretch S/S Maglie  Obsidian  XL Mens](https://www.amazon.it/dp/B07YMZD1SM/?tag=tolees00-21) con 41.42 de descuento por 32.99 EUR (original: 56.32 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MZ0UCQX
 description:
 actualPrice: 19.6 EUR
+currency: EUR
+price: 19.6
 comparePrice: 43.0 EUR
 inStock: true
+prodname: Laura Biagiotti Roma Uomo Lozione Dopobarba - 75 ml
 ---
 
 Está [Laura Biagiotti Roma Uomo Lozione Dopobarba - 75 ml](https://www.amazon.it/dp/B01MZ0UCQX/?tag=tolees00-21) con 54.42 de descuento por 19.6 EUR (original: 43.0 EUR) en el siguiente enlace!

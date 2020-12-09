@@ -10,8 +10,11 @@ author: ring
 slug: B07N21TBRX
 description:
 actualPrice: 7.39 EUR
+currency: EUR
+price: 7.39
 comparePrice: 10.49 EUR
 inStock: true
+prodname: Gillette Series Schiuma da Barba Uomo per Pelli Sensibili  Pacco da 6 x 100 ml  Formato da Viaggio
 ---
 
 Tienes [Gillette Series Schiuma da Barba Uomo per Pelli Sensibili  Pacco da 6 x 100 ml  Formato da Viaggio](https://www.amazon.it/dp/B07N21TBRX/?tag=tolees00-21) con un 29.55 % de descuento con precio de oferta de 7.39 EUR (original: 10.49 EUR) en el siguiente enlace!

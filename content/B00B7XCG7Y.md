@@ -10,8 +10,11 @@ author: ring
 slug: B00B7XCG7Y
 description:
 actualPrice: 48.0 EUR
+currency: EUR
+price: 48.0
 comparePrice: 80.0 EUR
 inStock: true
+prodname: The North Face M Drew Peak Plv HD  Felpa con Cappuccio Uomo  Nero  TNF Black   M
 ---
 
 Está [The North Face M Drew Peak Plv HD  Felpa con Cappuccio Uomo  Nero  TNF Black   M](https://www.amazon.it/dp/B00B7XCG7Y/?tag=tolees00-21) con 40.00 de descuento por 48.0 EUR (original: 80.0 EUR) en el siguiente enlace!

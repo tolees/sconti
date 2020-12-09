@@ -10,8 +10,11 @@ author: ring
 slug: B00RTL9IME
 description:
 actualPrice: 2.39 EUR
+currency: EUR
+price: 2.39
 comparePrice: 3.46 EUR
 inStock: true
+prodname: Mulino Bianco Biscotti Frollini Galletti  Colazione Ricca di Gusto  800g
 ---
 
 Tienes [Mulino Bianco Biscotti Frollini Galletti  Colazione Ricca di Gusto  800g](https://www.amazon.it/dp/B00RTL9IME/?tag=tolees00-21) con un 30.92 % de descuento con precio de oferta de 2.39 EUR (original: 3.46 EUR) en el siguiente enlace!

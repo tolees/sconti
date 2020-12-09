@@ -10,8 +10,11 @@ author: ring
 slug: B07B4Y4NSX
 description:
 actualPrice: 13.28 EUR
+currency: EUR
+price: 13.28
 comparePrice: 18.98 EUR
 inStock: true
+prodname: TOUCHBeauty - Massaggiatore sonico anti-aging 2 in 1 per il viso e contorno occhi  impermeabile  testina a setole ultra-morbide  pulizia esfoliante per il viso  AG-1581
 ---
 
 Está [TOUCHBeauty - Massaggiatore sonico anti-aging 2 in 1 per il viso e contorno occhi  impermeabile  testina a setole ultra-morbide  pulizia esfoliante per il viso  AG-1581](https://www.amazon.it/dp/B07B4Y4NSX/?tag=tolees00-21) con 30.03 de descuento por 13.28 EUR (original: 18.98 EUR) en el siguiente enlace!

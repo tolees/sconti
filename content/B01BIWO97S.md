@@ -10,8 +10,11 @@ author: ring
 slug: B01BIWO97S
 description:
 actualPrice: 229.92 EUR
+currency: EUR
+price: 229.92
 comparePrice: 399.99 EUR
 inStock: true
+prodname: Gardena 19103-20 Smart Water Control Set Sistema di Irrigazione Intelligente Tramite Smart App  Incluso Smart Water Control e Smart Gateway
 ---
 
 Ahora mismo tienes [Gardena 19103-20 Smart Water Control Set Sistema di Irrigazione Intelligente Tramite Smart App  Incluso Smart Water Control e Smart Gateway](https://www.amazon.it/dp/B01BIWO97S/?tag=tolees00-21) a 229.92 EUR (original: 399.99 EUR) (42.52 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08N4K1QMX
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: eXtremeRate Kit Pulsanti SR SL L R ZR ZL ABXY Tasti Direzionali Trigger Grilletto Pezzi di Ricambio per Nintendo Switch Joy-Con Ciano Chiaro con Cacciaviti-NON Inlcude JoyCon
 ---
 
 Ahora mismo tienes [eXtremeRate Kit Pulsanti SR SL L R ZR ZL ABXY Tasti Direzionali Trigger Grilletto Pezzi di Ricambio per Nintendo Switch Joy-Con Ciano Chiaro con Cacciaviti-NON Inlcude JoyCon](https://www.amazon.it/dp/B08N4K1QMX/?tag=tolees00-21) a 12.99 EUR (original: 22.99 EUR) (43.50 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01I3KFFKS
 description:
 actualPrice: 16.7 EUR
+currency: EUR
+price: 16.7
 comparePrice: 24.41 EUR
 inStock: true
+prodname: Ravensburger Porsche 911 - Puzzle 3D Veicoli
 ---
 
 Ahora mismo tienes [Ravensburger Porsche 911 - Puzzle 3D Veicoli](https://www.amazon.it/dp/B01I3KFFKS/?tag=tolees00-21) a 16.7 EUR (original: 24.41 EUR) (31.59 %  de descuento) en el siguiente enlace!

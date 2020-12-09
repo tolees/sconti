@@ -10,8 +10,11 @@ author: ring
 slug: B07D3TDJJ4
 description:
 actualPrice: 17.4 EUR
+currency: EUR
+price: 17.4
 comparePrice: 24.0 EUR
 inStock: true
+prodname: Quercetti- Gioco con Palline Colorate  Multi-Colore  1015
 ---
 
 Tienes [Quercetti- Gioco con Palline Colorate  Multi-Colore  1015](https://www.amazon.it/dp/B07D3TDJJ4/?tag=tolees00-21) con un 27.50 % de descuento con precio de oferta de 17.4 EUR (original: 24.0 EUR) en el siguiente enlace!

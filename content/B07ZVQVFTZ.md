@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVQVFTZ
 description:
 actualPrice: 74.46 EUR
+currency: EUR
+price: 74.46
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Levi s 511 Slim Fit Jeans  Caboose ADV  30W / 30L Uomo
 ---
 
 Está [Levi s 511 Slim Fit Jeans  Caboose ADV  30W / 30L Uomo](https://www.amazon.it/dp/B07ZVQVFTZ/?tag=tolees00-21) con 37.95 de descuento por 74.46 EUR (original: 120.0 EUR) en el siguiente enlace!

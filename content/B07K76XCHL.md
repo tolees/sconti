@@ -10,8 +10,11 @@ author: ring
 slug: B07K76XCHL
 description:
 actualPrice: 40.0 EUR
+currency: EUR
+price: 40.0
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Levi s Original Trucker Giacca in Jeans  Soft As Butter Dark  S Donna
 ---
 
 Está [Levi s Original Trucker Giacca in Jeans  Soft As Butter Dark  S Donna](https://www.amazon.it/dp/B07K76XCHL/?tag=tolees00-21) con 63.64 de descuento por 40.0 EUR (original: 110.0 EUR) en el siguiente enlace!

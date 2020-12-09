@@ -10,8 +10,11 @@ author: ring
 slug: B00XUNYZIC
 description:
 actualPrice: 1.0 EUR
+currency: EUR
+price: 1.0
 comparePrice: 1.59 EUR
 inStock: true
+prodname: Lindt Tavoletta Classica Latte  100g
 ---
 
 Está [Lindt Tavoletta Classica Latte  100g](https://www.amazon.it/dp/B00XUNYZIC/?tag=tolees00-21) con 37.11 de descuento por 1.0 EUR (original: 1.59 EUR) en el siguiente enlace!

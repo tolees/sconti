@@ -10,8 +10,11 @@ author: ring
 slug: B07KWMNC9X
 description:
 actualPrice: 7.49 EUR
+currency: EUR
+price: 7.49
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Gotti - Il Primo Padrino
 ---
 
 Está [Gotti - Il Primo Padrino](https://www.amazon.it/dp/B07KWMNC9X/?tag=tolees00-21) con 42.34 de descuento por 7.49 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07ZJW1YTK
 description:
 actualPrice: 133.9 EUR
+currency: EUR
+price: 133.9
 comparePrice: 320.0 EUR
 inStock: true
+prodname: Wink Design Libreria  Pannelli Ecologici di Particelle di Legno  Unica
 ---
 
 Está [Wink Design Libreria  Pannelli Ecologici di Particelle di Legno  Unica](https://www.amazon.it/dp/B07ZJW1YTK/?tag=tolees00-21) con 58.16 de descuento por 133.9 EUR (original: 320.0 EUR) en el siguiente enlace!

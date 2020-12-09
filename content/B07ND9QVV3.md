@@ -10,8 +10,11 @@ author: ring
 slug: B07ND9QVV3
 description:
 actualPrice: 27.9 EUR
+currency: EUR
+price: 27.9
 comparePrice: 39.99 EUR
 inStock: true
+prodname: LEGO Disney Frozen II Il Portagioielli di Elsa con Mini-doll della Principessa Elsa e Figura di Nokk  Cassetto con Chiusura  Piattaforma Girevole  Giocattoli da Collezione per Bambini  41168
 ---
 
 Está [LEGO Disney Frozen II Il Portagioielli di Elsa con Mini-doll della Principessa Elsa e Figura di Nokk  Cassetto con Chiusura  Piattaforma Girevole  Giocattoli da Collezione per Bambini  41168](https://www.amazon.it/dp/B07ND9QVV3/?tag=tolees00-21) con 30.23 de descuento por 27.9 EUR (original: 39.99 EUR) en el siguiente enlace!

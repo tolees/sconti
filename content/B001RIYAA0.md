@@ -10,8 +10,11 @@ author: ring
 slug: B001RIYAA0
 description:
 actualPrice: 34.71 EUR
+currency: EUR
+price: 34.71
 comparePrice: 49.0 EUR
 inStock: true
+prodname: Fossil Gioielli Uomo Acciaio Inossidabile JF84196040
 ---
 
 Tienes [Fossil Gioielli Uomo Acciaio Inossidabile JF84196040](https://www.amazon.it/dp/B001RIYAA0/?tag=tolees00-21) con un 29.16 % de descuento con precio de oferta de 34.71 EUR (original: 49.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NJLZWQL
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.98 EUR
 inStock: true
+prodname: World War Z - PlayStation 4
 ---
 
 Tienes [World War Z - PlayStation 4](https://www.amazon.it/dp/B07NJLZWQL/?tag=tolees00-21) con un 33.32 % de descuento con precio de oferta de 19.99 EUR (original: 29.98 EUR) en el siguiente enlace!

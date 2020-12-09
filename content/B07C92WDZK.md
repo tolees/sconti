@@ -10,8 +10,11 @@ author: ring
 slug: B07C92WDZK
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 9.5 EUR
 inStock: true
+prodname: Tomb Raider
 ---
 
 Está [Tomb Raider](https://www.amazon.it/dp/B07C92WDZK/?tag=tolees00-21) con 26.42 de descuento por 6.99 EUR (original: 9.5 EUR) en el siguiente enlace!

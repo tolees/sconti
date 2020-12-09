@@ -10,8 +10,11 @@ author: ring
 slug: B07Q2GBSQM
 description:
 actualPrice: 42.74 EUR
+currency: EUR
+price: 42.74
 comparePrice: 62.0 EUR
 inStock: true
+prodname: Arena Core Soft Robe  Accappatoio Unisex Adulto  Blu  Navy White   XL
 ---
 
 Ahora mismo tienes [Arena Core Soft Robe  Accappatoio Unisex Adulto  Blu  Navy White   XL](https://www.amazon.it/dp/B07Q2GBSQM/?tag=tolees00-21) a 42.74 EUR (original: 62.0 EUR) (31.06 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MDU2HL6
 description:
 actualPrice: 34.9 EUR
+currency: EUR
+price: 34.9
 comparePrice: 54.98 EUR
 inStock: true
+prodname: Ferrino Rando  Mantella Impermeabile Unisex  Blu  Taglia unica
 ---
 
 Ahora mismo tienes [Ferrino Rando  Mantella Impermeabile Unisex  Blu  Taglia unica](https://www.amazon.it/dp/B01MDU2HL6/?tag=tolees00-21) a 34.9 EUR (original: 54.98 EUR) (36.52 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B004CRSM4S
 description:
 actualPrice: 62.9 EUR
+currency: EUR
+price: 62.9
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Corsair CMZ12GX3M3A1600C9 Vengeance Kit di Memoria Triple Channel da 12 GB  3x4 GB   DDR3  1600 MHz  CL9  1.5 V  Nero
 ---
 
 Tienes [Corsair CMZ12GX3M3A1600C9 Vengeance Kit di Memoria Triple Channel da 12 GB  3x4 GB   DDR3  1600 MHz  CL9  1.5 V  Nero](https://www.amazon.it/dp/B004CRSM4S/?tag=tolees00-21) con un 30.11 % de descuento con precio de oferta de 62.9 EUR (original: 90.0 EUR) en el siguiente enlace!

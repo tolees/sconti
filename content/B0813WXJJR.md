@@ -10,8 +10,11 @@ author: ring
 slug: B0813WXJJR
 description:
 actualPrice: 46.68 EUR
+currency: EUR
+price: 46.68
 comparePrice: 89.95 EUR
 inStock: true
+prodname: adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  40 EU
 ---
 
 Tienes [adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  40 EU](https://www.amazon.it/dp/B0813WXJJR/?tag=tolees00-21) con un 48.10 % de descuento con precio de oferta de 46.68 EUR (original: 89.95 EUR) en el siguiente enlace!

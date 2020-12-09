@@ -10,8 +10,11 @@ author: ring
 slug: B07SDGMTB3
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Levi s Woodward L  Sneaker Uomo  Bianco  Regular White 51   43 EU
 ---
 
 Tienes [Levi s Woodward L  Sneaker Uomo  Bianco  Regular White 51   43 EU](https://www.amazon.it/dp/B07SDGMTB3/?tag=tolees00-21) con un 35.02 % de descuento con precio de oferta de 38.99 EUR (original: 60.0 EUR) en el siguiente enlace!

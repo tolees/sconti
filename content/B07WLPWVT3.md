@@ -10,8 +10,11 @@ author: ring
 slug: B07WLPWVT3
 description:
 actualPrice: 24.25 EUR
+currency: EUR
+price: 24.25
 comparePrice: 43.81 EUR
 inStock: true
+prodname: Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva  Arancione  Washed Vermillion   XX-Large  Taglia Unica:  Uomo
 ---
 
 Está [Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva  Arancione  Washed Vermillion   XX-Large  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07WLPWVT3/?tag=tolees00-21) con 44.65 de descuento por 24.25 EUR (original: 43.81 EUR) en el siguiente enlace!

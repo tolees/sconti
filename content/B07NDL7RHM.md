@@ -10,8 +10,11 @@ author: ring
 slug: B07NDL7RHM
 description:
 actualPrice: 7.1 EUR
+currency: EUR
+price: 7.1
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Ravensburger GraviTrax Cascata Accessorio  Gioco  Versione Multilingue  27620
 ---
 
 Ahora mismo tienes [Ravensburger GraviTrax Cascata Accessorio  Gioco  Versione Multilingue  27620](https://www.amazon.it/dp/B07NDL7RHM/?tag=tolees00-21) a 7.1 EUR (original: 9.99 EUR) (28.93 %  de descuento) en el siguiente enlace!

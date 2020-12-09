@@ -10,8 +10,11 @@ author: ring
 slug: B000FNFSPY
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug & Play
 ---
 
 Tienes [TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug & Play](https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21) con un 46.19 % de descuento con precio de oferta de 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!

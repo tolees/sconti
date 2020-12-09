@@ -10,8 +10,11 @@ author: ring
 slug: B085CYPYMK
 description:
 actualPrice: 76.99 EUR
+currency: EUR
+price: 76.99
 comparePrice: 124.99 EUR
 inStock: true
+prodname: Braun Serie 5 50-W1500s Rasoio Elettrico Uomo Con Regolabarba  Wet & Dry  Ricaricabile  Lamina Senza Fili  Bianco
 ---
 
 Está [Braun Serie 5 50-W1500s Rasoio Elettrico Uomo Con Regolabarba  Wet & Dry  Ricaricabile  Lamina Senza Fili  Bianco](https://www.amazon.it/dp/B085CYPYMK/?tag=tolees00-21) con 38.40 de descuento por 76.99 EUR (original: 124.99 EUR) en el siguiente enlace!

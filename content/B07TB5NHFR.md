@@ -10,8 +10,11 @@ author: ring
 slug: B07TB5NHFR
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 55.99 EUR
 inStock: true
+prodname: NAVANINO Set Tagliacapelli Elettrico Multifunzionale Impermeabile Kit per la Barba Trimmer per il Corpo e Tagliacapelli per Naso e Orecchie Adatto a Bambini  Adulti e Anziani
 ---
 
 Está [NAVANINO Set Tagliacapelli Elettrico Multifunzionale Impermeabile Kit per la Barba Trimmer per il Corpo e Tagliacapelli per Naso e Orecchie Adatto a Bambini  Adulti e Anziani](https://www.amazon.it/dp/B07TB5NHFR/?tag=tolees00-21) con 35.72 de descuento por 35.99 EUR (original: 55.99 EUR) en el siguiente enlace!

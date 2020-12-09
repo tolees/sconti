@@ -10,8 +10,11 @@ author: ring
 slug: B01ID9TH5S
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Puma Basic Brief 2P Slip  Blu  XL
 ---
 
 Tienes [Puma Basic Brief 2P Slip  Blu  XL](https://www.amazon.it/dp/B01ID9TH5S/?tag=tolees00-21) con un 28.59 % de descuento con precio de oferta de 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

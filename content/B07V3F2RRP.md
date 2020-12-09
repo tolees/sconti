@@ -10,8 +10,11 @@ author: ring
 slug: B07V3F2RRP
 description:
 actualPrice: 3.38 EUR
+currency: EUR
+price: 3.38
 comparePrice: 7.95 EUR
 inStock: true
+prodname: YAMAMAY® Brasiliana - Minimalist
 ---
 
 Ahora mismo tienes [YAMAMAY® Brasiliana - Minimalist](https://www.amazon.it/dp/B07V3F2RRP/?tag=tolees00-21) a 3.38 EUR (original: 7.95 EUR) (57.48 %  de descuento) en el siguiente enlace!

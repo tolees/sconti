@@ -10,8 +10,11 @@ author: ring
 slug: B089DYG2QL
 description:
 actualPrice: 22.45 EUR
+currency: EUR
+price: 22.45
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Ace Salviette Igienizzanti con Alcool  400 salviette
 ---
 
 Ahora mismo tienes [Ace Salviette Igienizzanti con Alcool  400 salviette](https://www.amazon.it/dp/B089DYG2QL/?tag=tolees00-21) a 22.45 EUR (original: 39.9 EUR) (43.73 %  de descuento) en el siguiente enlace!

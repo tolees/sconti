@@ -10,8 +10,11 @@ author: ring
 slug: B079NFSMQC
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Liscianigiochi- I m a Genius Gioco per Bambini Laboratorio dei Rossetti  66872  8 - 12 anni
 ---
 
 Ahora mismo tienes [Liscianigiochi- I m a Genius Gioco per Bambini Laboratorio dei Rossetti  66872  8 - 12 anni](https://www.amazon.it/dp/B079NFSMQC/?tag=tolees00-21) a 9.9 EUR (original: 16.99 EUR) (41.73 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FN8SWCM
 description:
 actualPrice: 21.32 EUR
+currency: EUR
+price: 21.32
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Clarks Crown STEM T  Sandali a Punta Chiusa Bambina  Blu  Navy Leather-   20 EU
 ---
 
 Tienes [Clarks Crown STEM T  Sandali a Punta Chiusa Bambina  Blu  Navy Leather-   20 EU](https://www.amazon.it/dp/B07FN8SWCM/?tag=tolees00-21) con un 61.20 % de descuento con precio de oferta de 21.32 EUR (original: 54.95 EUR) en el siguiente enlace!

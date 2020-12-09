@@ -10,8 +10,11 @@ author: ring
 slug: B07C8CSJJ5
 description:
 actualPrice: 84.97 EUR
+currency: EUR
+price: 84.97
 comparePrice: 219.0 EUR
 inStock: true
+prodname: Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Silicone DZ4483
 ---
 
 Está [Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Silicone DZ4483](https://www.amazon.it/dp/B07C8CSJJ5/?tag=tolees00-21) con 61.20 de descuento por 84.97 EUR (original: 219.0 EUR) en el siguiente enlace!

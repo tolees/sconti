@@ -10,8 +10,11 @@ author: ring
 slug: B00BEJI1RA
 description:
 actualPrice: 1.53 EUR
+currency: EUR
+price: 1.53
 comparePrice: 3.09 EUR
 inStock: true
+prodname: Neutro Roberts Sapone Solido Idratante - 400 g
 ---
 
 Ahora mismo tienes [Neutro Roberts Sapone Solido Idratante - 400 g](https://www.amazon.it/dp/B00BEJI1RA/?tag=tolees00-21) a 1.53 EUR (original: 3.09 EUR) (50.49 %  de descuento) en el siguiente enlace!

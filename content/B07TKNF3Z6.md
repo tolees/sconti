@@ -10,8 +10,11 @@ author: ring
 slug: B07TKNF3Z6
 description:
 actualPrice: 21.53 EUR
+currency: EUR
+price: 21.53
 comparePrice: 36.55 EUR
 inStock: true
+prodname: Clarks Stanford Walk  Scarpe Stringate Derby Uomo  Marrone  Tan Leather Tan Leather   40 EU
 ---
 
 Ahora mismo tienes [Clarks Stanford Walk  Scarpe Stringate Derby Uomo  Marrone  Tan Leather Tan Leather   40 EU](https://www.amazon.it/dp/B07TKNF3Z6/?tag=tolees00-21) a 21.53 EUR (original: 36.55 EUR) (41.09 %  de descuento) en el siguiente enlace!

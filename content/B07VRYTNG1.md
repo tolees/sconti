@@ -10,8 +10,11 @@ author: ring
 slug: B07VRYTNG1
 description:
 actualPrice: 21.57 EUR
+currency: EUR
+price: 21.57
 comparePrice: 58.9 EUR
 inStock: true
+prodname: Calvin Klein Medium Drawstring Pantaloncini  Bianco  PVH Classic White YCD   X-Large Uomo
 ---
 
 Está [Calvin Klein Medium Drawstring Pantaloncini  Bianco  PVH Classic White YCD   X-Large Uomo](https://www.amazon.it/dp/B07VRYTNG1/?tag=tolees00-21) con 63.38 de descuento por 21.57 EUR (original: 58.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07W7TN6GW
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 19.99 EUR
 inStock: true
+prodname: LEGO City Great Vehicles Bulldozer da Cantiere  Set da Costruzione con Mattoni e Gru per Bambini dai 4 Anni in su  60252
 ---
 
 Tienes [LEGO City Great Vehicles Bulldozer da Cantiere  Set da Costruzione con Mattoni e Gru per Bambini dai 4 Anni in su  60252](https://www.amazon.it/dp/B07W7TN6GW/?tag=tolees00-21) con un 25.46 % de descuento con precio de oferta de 14.9 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B071HJR5BG
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Multimetro Digitale Classico  Tacklife DM02A Multi Tester con Rilevamento di Voltaggio Senza Contatto  Display LCD Retroilluminato  Test per Tensione  Corrente  Resistenza e Continuità  Nero 
 ---
 
 Ahora mismo tienes [Multimetro Digitale Classico  Tacklife DM02A Multi Tester con Rilevamento di Voltaggio Senza Contatto  Display LCD Retroilluminato  Test per Tensione  Corrente  Resistenza e Continuità  Nero ](https://www.amazon.it/dp/B071HJR5BG/?tag=tolees00-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

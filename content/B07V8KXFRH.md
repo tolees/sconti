@@ -10,8 +10,11 @@ author: ring
 slug: B07V8KXFRH
 description:
 actualPrice: 19.67 EUR
+currency: EUR
+price: 19.67
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Calvin Klein Vegetable Dye Monogram Slim Tee T-Shirt  Viola  Brandied Apricot VAZ   Medium Uomo
 ---
 
 Ahora mismo tienes [Calvin Klein Vegetable Dye Monogram Slim Tee T-Shirt  Viola  Brandied Apricot VAZ   Medium Uomo](https://www.amazon.it/dp/B07V8KXFRH/?tag=tolees00-21) a 19.67 EUR (original: 49.9 EUR) (60.58 %  de descuento) en el siguiente enlace!

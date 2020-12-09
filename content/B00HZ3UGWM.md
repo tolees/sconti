@@ -10,8 +10,11 @@ author: ring
 slug: B00HZ3UGWM
 description:
 actualPrice: 23.43 EUR
+currency: EUR
+price: 23.43
 comparePrice: 50.51 EUR
 inStock: true
+prodname: Calvin Klein Acqua Profumata - 100 ml
 ---
 
 Tienes [Calvin Klein Acqua Profumata - 100 ml](https://www.amazon.it/dp/B00HZ3UGWM/?tag=tolees00-21) con un 53.61 % de descuento con precio de oferta de 23.43 EUR (original: 50.51 EUR) en el siguiente enlace!

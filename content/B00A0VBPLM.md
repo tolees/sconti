@@ -10,8 +10,11 @@ author: ring
 slug: B00A0VBPLM
 description:
 actualPrice: 28.39 EUR
+currency: EUR
+price: 28.39
 comparePrice: 39.9 EUR
 inStock: true
+prodname: TP-Link TL-PA4010 Kit Powerline  AV600 Mbps su Powerline  1 Porta Ethernet  Plug and Play  HomePlug AV  Solamente per connessioni a filo  Soluzione per dispositivi cablati come PC  decoder Sky  PS4
 ---
 
 Tienes [TP-Link TL-PA4010 Kit Powerline  AV600 Mbps su Powerline  1 Porta Ethernet  Plug and Play  HomePlug AV  Solamente per connessioni a filo  Soluzione per dispositivi cablati come PC  decoder Sky  PS4](https://www.amazon.it/dp/B00A0VBPLM/?tag=tolees00-21) con un 28.85 % de descuento con precio de oferta de 28.39 EUR (original: 39.9 EUR) en el siguiente enlace!

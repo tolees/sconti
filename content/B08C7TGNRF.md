@@ -10,8 +10,11 @@ author: ring
 slug: B08C7TGNRF
 description:
 actualPrice: 26.21 EUR
+currency: EUR
+price: 26.21
 comparePrice: 34.95 EUR
 inStock: true
+prodname: IKOHS Shaky – Mini frullatore personale per frullati e smoothie  USB ricaricabile  80 W  350 ml  senza BPA  6 lame  Juicer Smoothie Maker  fruste a bicchiere singolo
 ---
 
 Ahora mismo tienes [IKOHS Shaky – Mini frullatore personale per frullati e smoothie  USB ricaricabile  80 W  350 ml  senza BPA  6 lame  Juicer Smoothie Maker  fruste a bicchiere singolo](https://www.amazon.it/dp/B08C7TGNRF/?tag=tolees00-21) a 26.21 EUR (original: 34.95 EUR) (25.01 %  de descuento) en el siguiente enlace!

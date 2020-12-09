@@ -10,8 +10,11 @@ author: ring
 slug: B07V8TZD2Q
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 47.99 EUR
 inStock: true
+prodname: Trust Tecla-2 Tastiera e Mouse Wireless [Layout Italiano]  Nero
 ---
 
 Ahora mismo tienes [Trust Tecla-2 Tastiera e Mouse Wireless [Layout Italiano]  Nero](https://www.amazon.it/dp/B07V8TZD2Q/?tag=tolees00-21) a 24.99 EUR (original: 47.99 EUR) (47.93 %  de descuento) en el siguiente enlace!

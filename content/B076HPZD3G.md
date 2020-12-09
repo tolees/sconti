@@ -10,8 +10,11 @@ author: ring
 slug: B076HPZD3G
 description:
 actualPrice: 27.06 EUR
+currency: EUR
+price: 27.06
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Adidas Core 18 SS  Felpa Uomo  Rosso  Power Red/White   S
 ---
 
 Está [Adidas Core 18 SS  Felpa Uomo  Rosso  Power Red/White   S](https://www.amazon.it/dp/B076HPZD3G/?tag=tolees00-21) con 32.33 de descuento por 27.06 EUR (original: 39.99 EUR) en el siguiente enlace!

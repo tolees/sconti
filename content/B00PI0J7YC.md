@@ -10,8 +10,11 @@ author: ring
 slug: B00PI0J7YC
 description:
 actualPrice: 15.3 EUR
+currency: EUR
+price: 15.3
 comparePrice: 21.05 EUR
 inStock: true
+prodname: Fisher Price CDR52 - Dolci Sogni Cuscino
 ---
 
 Tienes [Fisher Price CDR52 - Dolci Sogni Cuscino](https://www.amazon.it/dp/B00PI0J7YC/?tag=tolees00-21) con un 27.32 % de descuento con precio de oferta de 15.3 EUR (original: 21.05 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00XURZXYS
 description:
 actualPrice: 1.19 EUR
+currency: EUR
+price: 1.19
 comparePrice: 1.59 EUR
 inStock: true
+prodname: Tuc Cracker Salato con Rosmarino ed Erbe Aromatiche  250g
 ---
 
 Ahora mismo tienes [Tuc Cracker Salato con Rosmarino ed Erbe Aromatiche  250g](https://www.amazon.it/dp/B00XURZXYS/?tag=tolees00-21) a 1.19 EUR (original: 1.59 EUR) (25.16 %  de descuento) en el siguiente enlace!

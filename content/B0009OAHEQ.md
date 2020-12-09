@@ -10,8 +10,11 @@ author: ring
 slug: B0009OAHEQ
 description:
 actualPrice: 24.69 EUR
+currency: EUR
+price: 24.69
 comparePrice: 46.85 EUR
 inStock: true
+prodname: Joop! JOOP! Homme Eau de Toilette  Uomo  125 ml
 ---
 
 Ahora mismo tienes [Joop! JOOP! Homme Eau de Toilette  Uomo  125 ml](https://www.amazon.it/dp/B0009OAHEQ/?tag=tolees00-21) a 24.69 EUR (original: 46.85 EUR) (47.30 %  de descuento) en el siguiente enlace!

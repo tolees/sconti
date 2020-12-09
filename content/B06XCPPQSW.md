@@ -10,8 +10,11 @@ author: ring
 slug: B06XCPPQSW
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Burton Formula  Guanti Uomo  True Black  L
 ---
 
 Ahora mismo tienes [Burton Formula  Guanti Uomo  True Black  L](https://www.amazon.it/dp/B06XCPPQSW/?tag=tolees00-21) a 24.99 EUR (original: 35.0 EUR) (28.60 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QJLYF92
 description:
 actualPrice: 144.99 EUR
+currency: EUR
+price: 144.99
 comparePrice: 402.22 EUR
 inStock: true
+prodname: Profi Cook PC-ICM 1091 N - Macchina per gelato e yogurt 2 in 1  per fino a 1500 ml di gelato o yogurt  raffreddamento professionale a compressore  display LCD  alloggiamento in acciaio INOX
 ---
 
 Ahora mismo tienes [Profi Cook PC-ICM 1091 N - Macchina per gelato e yogurt 2 in 1  per fino a 1500 ml di gelato o yogurt  raffreddamento professionale a compressore  display LCD  alloggiamento in acciaio INOX](https://www.amazon.it/dp/B07QJLYF92/?tag=tolees00-21) a 144.99 EUR (original: 402.22 EUR) (63.95 %  de descuento) en el siguiente enlace!

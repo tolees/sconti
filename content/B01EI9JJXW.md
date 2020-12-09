@@ -10,8 +10,11 @@ author: ring
 slug: B01EI9JJXW
 description:
 actualPrice: 52.4 EUR
+currency: EUR
+price: 52.4
 comparePrice: 99.74 EUR
 inStock: true
+prodname: adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Nero  Core Black/White/Gold Met   39 1/3 EU
 ---
 
 Está [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Nero  Core Black/White/Gold Met   39 1/3 EU](https://www.amazon.it/dp/B01EI9JJXW/?tag=tolees00-21) con 47.46 de descuento por 52.4 EUR (original: 99.74 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KKLLZ96
 description:
 actualPrice: 67.19 EUR
+currency: EUR
+price: 67.19
 comparePrice: 169.95 EUR
 inStock: true
+prodname: Lifeprint Slim Stampante Foto e Video Portatile 2x3  Bluetooth  Trasforma il Tuo Smartphone in Una Fotocamera Istantanea  Compatibilità Apple e Android  Bianco
 ---
 
 Tienes [Lifeprint Slim Stampante Foto e Video Portatile 2x3  Bluetooth  Trasforma il Tuo Smartphone in Una Fotocamera Istantanea  Compatibilità Apple e Android  Bianco](https://www.amazon.it/dp/B07KKLLZ96/?tag=tolees00-21) con un 60.46 % de descuento con precio de oferta de 67.19 EUR (original: 169.95 EUR) en el siguiente enlace!

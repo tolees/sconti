@@ -10,8 +10,11 @@ author: ring
 slug: B077K5PNYB
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 15.0 EUR
 inStock: true
+prodname: Justice League  Digibook 
 ---
 
 Tienes [Justice League  Digibook ](https://www.amazon.it/dp/B077K5PNYB/?tag=tolees00-21) con un 26.73 % de descuento con precio de oferta de 10.99 EUR (original: 15.0 EUR) en el siguiente enlace!

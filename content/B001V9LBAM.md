@@ -10,8 +10,11 @@ author: ring
 slug: B001V9LBAM
 description:
 actualPrice: 4.2 EUR
+currency: EUR
+price: 4.2
 comparePrice: 9.1 EUR
 inStock: true
+prodname: Rimmel Matita Occhi Automatica Exaggerate  Matita Waterproof a Lunga Tenuta  Nero
 ---
 
 Está [Rimmel Matita Occhi Automatica Exaggerate  Matita Waterproof a Lunga Tenuta  Nero](https://www.amazon.it/dp/B001V9LBAM/?tag=tolees00-21) con 53.85 de descuento por 4.2 EUR (original: 9.1 EUR) en el siguiente enlace!

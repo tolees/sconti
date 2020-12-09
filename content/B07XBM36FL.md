@@ -10,8 +10,11 @@ author: ring
 slug: B07XBM36FL
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 15.0 EUR
 inStock: true
+prodname: Perugina Dolci Scoperte Cioccolatini Assortiti Scatola Regalo - 400 gr
 ---
 
 Tienes [Perugina Dolci Scoperte Cioccolatini Assortiti Scatola Regalo - 400 gr](https://www.amazon.it/dp/B07XBM36FL/?tag=tolees00-21) con un 34.00 % de descuento con precio de oferta de 9.9 EUR (original: 15.0 EUR) en el siguiente enlace!

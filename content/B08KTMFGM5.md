@@ -10,8 +10,11 @@ author: ring
 slug: B08KTMFGM5
 description:
 actualPrice: 349.0 EUR
+currency: EUR
+price: 349.0
 comparePrice: 649.0 EUR
 inStock: true
+prodname: Samsung Elettrodomestici WW70TA026AE/ET Lavatrice 7 kg  Crystal Clean  1200 Giri  Bianco
 ---
 
 Tienes [Samsung Elettrodomestici WW70TA026AE/ET Lavatrice 7 kg  Crystal Clean  1200 Giri  Bianco](https://www.amazon.it/dp/B08KTMFGM5/?tag=tolees00-21) con un 46.22 % de descuento con precio de oferta de 349.0 EUR (original: 649.0 EUR) en el siguiente enlace!

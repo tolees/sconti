@@ -10,8 +10,11 @@ author: ring
 slug: B013IFPXVY
 description:
 actualPrice: 30.29 EUR
+currency: EUR
+price: 30.29
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Level Trend Suburban Line  Guanto Uomo  Nero  10
 ---
 
 Está [Level Trend Suburban Line  Guanto Uomo  Nero  10](https://www.amazon.it/dp/B013IFPXVY/?tag=tolees00-21) con 49.52 de descuento por 30.29 EUR (original: 60.0 EUR) en el siguiente enlace!

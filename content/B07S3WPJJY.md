@@ -10,8 +10,11 @@ author: ring
 slug: B07S3WPJJY
 description:
 actualPrice: 35.0 EUR
+currency: EUR
+price: 35.0
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Levi s Sunset 1 Pkt Slim Camicia  Blu  Alfonso Indigo 0006   Small Uomo
 ---
 
 Tienes [Levi s Sunset 1 Pkt Slim Camicia  Blu  Alfonso Indigo 0006   Small Uomo](https://www.amazon.it/dp/B07S3WPJJY/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 35.0 EUR (original: 70.0 EUR) en el siguiente enlace!

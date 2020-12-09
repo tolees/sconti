@@ -10,8 +10,11 @@ author: ring
 slug: B07SH2JYPY
 description:
 actualPrice: 19.98 EUR
+currency: EUR
+price: 19.98
 comparePrice: 49.99 EUR
 inStock: true
+prodname: FIFA 20 - Legacy - Nintendo Switch
 ---
 
 Ahora mismo tienes [FIFA 20 - Legacy - Nintendo Switch](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21) a 19.98 EUR (original: 49.99 EUR) (60.03 %  de descuento) en el siguiente enlace!

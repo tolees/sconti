@@ -10,8 +10,11 @@ author: ring
 slug: B07JQBXKMR
 description:
 actualPrice: 16.55 EUR
+currency: EUR
+price: 16.55
 comparePrice: 39.99 EUR
 inStock: true
+prodname: JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny  Blu  Blue Denim Blue Denim   W33/L32  Taglia Produttore: 33  Uomo
 ---
 
 Tienes [JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny  Blu  Blue Denim Blue Denim   W33/L32  Taglia Produttore: 33  Uomo](https://www.amazon.it/dp/B07JQBXKMR/?tag=tolees00-21) con un 58.61 % de descuento con precio de oferta de 16.55 EUR (original: 39.99 EUR) en el siguiente enlace!

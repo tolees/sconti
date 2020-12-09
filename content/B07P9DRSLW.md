@@ -10,8 +10,11 @@ author: ring
 slug: B07P9DRSLW
 description:
 actualPrice: 22.76 EUR
+currency: EUR
+price: 22.76
 comparePrice: 35.37 EUR
 inStock: true
+prodname: Bandai - Dragon Ball Super - Action figure Dragon Star da 17 cm - Super Saiyan 4 Goku - 36180
 ---
 
 Ahora mismo tienes [Bandai - Dragon Ball Super - Action figure Dragon Star da 17 cm - Super Saiyan 4 Goku - 36180](https://www.amazon.it/dp/B07P9DRSLW/?tag=tolees00-21) a 22.76 EUR (original: 35.37 EUR) (35.65 %  de descuento) en el siguiente enlace!

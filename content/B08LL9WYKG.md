@@ -10,8 +10,11 @@ author: ring
 slug: B08LL9WYKG
 description:
 actualPrice: 13.97 EUR
+currency: EUR
+price: 13.97
 comparePrice: 19.95 EUR
 inStock: true
+prodname: goldenpoint Leggings Skinny Velluto Microcosta e lurex
 ---
 
 Ahora mismo tienes [goldenpoint Leggings Skinny Velluto Microcosta e lurex](https://www.amazon.it/dp/B08LL9WYKG/?tag=tolees00-21) a 13.97 EUR (original: 19.95 EUR) (29.97 %  de descuento) en el siguiente enlace!

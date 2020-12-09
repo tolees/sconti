@@ -10,8 +10,11 @@ author: ring
 slug: B074ZNZDHH
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Giacca  Nero  Black Black   48  Taglia Produttore: X-Large  Donna
 ---
 
 Tienes [Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Giacca  Nero  Black Black   48  Taglia Produttore: X-Large  Donna](https://www.amazon.it/dp/B074ZNZDHH/?tag=tolees00-21) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

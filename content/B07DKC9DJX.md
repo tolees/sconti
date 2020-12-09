@@ -10,8 +10,11 @@ author: ring
 slug: B07DKC9DJX
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Puma Ess Crew TR Big Logo  Felpa Uomo  Nero Black  M
 ---
 
 Ahora mismo tienes [Puma Ess Crew TR Big Logo  Felpa Uomo  Nero Black  M](https://www.amazon.it/dp/B07DKC9DJX/?tag=tolees00-21) a 19.99 EUR (original: 44.95 EUR) (55.53 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01AUBKC6K
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Philips HR2052/90 Daily Collection Frullatore
 ---
 
 Tienes [Philips HR2052/90 Daily Collection Frullatore](https://www.amazon.it/dp/B01AUBKC6K/?tag=tolees00-21) con un 35.50 % de descuento con precio de oferta de 19.99 EUR (original: 30.99 EUR) en el siguiente enlace!

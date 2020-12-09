@@ -10,8 +10,11 @@ author: ring
 slug: B00HFUAD14
 description:
 actualPrice: 2.19 EUR
+currency: EUR
+price: 2.19
 comparePrice: 3.49 EUR
 inStock: true
+prodname: FITNESS Original Cereali con Frumento e Avena Integrale 375g
 ---
 
 Tienes [FITNESS Original Cereali con Frumento e Avena Integrale 375g](https://www.amazon.it/dp/B00HFUAD14/?tag=tolees00-21) con un 37.25 % de descuento con precio de oferta de 2.19 EUR (original: 3.49 EUR) en el siguiente enlace!

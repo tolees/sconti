@@ -10,8 +10,11 @@ author: ring
 slug: B07QD9PDXM
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 20.0 EUR
 inStock: true
+prodname: Adidas EC Org  Apparel Accessories Uomo  Black  Taglia Unica
 ---
 
 Ahora mismo tienes [Adidas EC Org  Apparel Accessories Uomo  Black  Taglia Unica](https://www.amazon.it/dp/B07QD9PDXM/?tag=tolees00-21) a 14.95 EUR (original: 20.0 EUR) (25.25 %  de descuento) en el siguiente enlace!

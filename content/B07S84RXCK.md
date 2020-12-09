@@ -10,8 +10,11 @@ author: ring
 slug: B07S84RXCK
 description:
 actualPrice: 13.65 EUR
+currency: EUR
+price: 13.65
 comparePrice: 24.9 EUR
 inStock: true
+prodname: CONTROL Profilattici - 24 pezzi
 ---
 
 Tienes [CONTROL Profilattici - 24 pezzi](https://www.amazon.it/dp/B07S84RXCK/?tag=tolees00-21) con un 45.18 % de descuento con precio de oferta de 13.65 EUR (original: 24.9 EUR) en el siguiente enlace!

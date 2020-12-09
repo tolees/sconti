@@ -10,8 +10,11 @@ author: ring
 slug: B0735DQGQX
 description:
 actualPrice: 109.0 EUR
+currency: EUR
+price: 109.0
 comparePrice: 229.0 EUR
 inStock: true
+prodname: Napapijri Rainforest Pocket  Giacca Uomo  100% Poliammide  Blu  Blu Marine 176   3XL
 ---
 
 Tienes [Napapijri Rainforest Pocket  Giacca Uomo  100% Poliammide  Blu  Blu Marine 176   3XL](https://www.amazon.it/dp/B0735DQGQX/?tag=tolees00-21) con un 52.40 % de descuento con precio de oferta de 109.0 EUR (original: 229.0 EUR) en el siguiente enlace!

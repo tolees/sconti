@@ -10,8 +10,11 @@ author: ring
 slug: B01BGFLW9K
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Braun HC5030 Tagliacapelli  Regolabarba Uomo  Rasoio Elettrico Barba con 17 Impostazioni di Lunghezza  Idea Regalo Natale
 ---
 
 Tienes [Braun HC5030 Tagliacapelli  Regolabarba Uomo  Rasoio Elettrico Barba con 17 Impostazioni di Lunghezza  Idea Regalo Natale](https://www.amazon.it/dp/B01BGFLW9K/?tag=tolees00-21) con un 37.73 % de descuento con precio de oferta de 24.9 EUR (original: 39.99 EUR) en el siguiente enlace!

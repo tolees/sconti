@@ -10,8 +10,11 @@ author: ring
 slug: B07SPHKZKY
 description:
 actualPrice: 46.49 EUR
+currency: EUR
+price: 46.49
 comparePrice: 69.98 EUR
 inStock: true
+prodname: Hurley M Siege Anorak Jacket  Giacche Uomo  Black  XL
 ---
 
 Tienes [Hurley M Siege Anorak Jacket  Giacche Uomo  Black  XL](https://www.amazon.it/dp/B07SPHKZKY/?tag=tolees00-21) con un 33.57 % de descuento con precio de oferta de 46.49 EUR (original: 69.98 EUR) en el siguiente enlace!

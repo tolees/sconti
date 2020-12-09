@@ -10,8 +10,11 @@ author: ring
 slug: B01MDPC2LT
 description:
 actualPrice: 8.94 EUR
+currency: EUR
+price: 8.94
 comparePrice: 16.5 EUR
 inStock: true
+prodname: Ajax - Detersivo Crystal Clean  per Vetri  Con Ammoniaca  100% Anti-Alone - 6 pezzi da 750 ml [4500 ml]
 ---
 
 Está [Ajax - Detersivo Crystal Clean  per Vetri  Con Ammoniaca  100% Anti-Alone - 6 pezzi da 750 ml [4500 ml]](https://www.amazon.it/dp/B01MDPC2LT/?tag=tolees00-21) con 45.82 de descuento por 8.94 EUR (original: 16.5 EUR) en el siguiente enlace!

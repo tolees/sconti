@@ -10,8 +10,11 @@ author: ring
 slug: B00IAQ3BCA
 description:
 actualPrice: 60.0 EUR
+currency: EUR
+price: 60.0
 comparePrice: 103.0 EUR
 inStock: true
+prodname: Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano Raccolta 17 l  Plastica Dura  200 Air Watt  1000 W - Due Tubi Rigidi D Aspirazione  2 Bocchette  Filtro  Sacchetto  Tubo 2 m
 ---
 
 Está [Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano Raccolta 17 l  Plastica Dura  200 Air Watt  1000 W - Due Tubi Rigidi D Aspirazione  2 Bocchette  Filtro  Sacchetto  Tubo 2 m](https://www.amazon.it/dp/B00IAQ3BCA/?tag=tolees00-21) con 41.75 de descuento por 60.0 EUR (original: 103.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B002T9VKFE
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Converse M9613C  Sneaker Unisex – Adulto  Rosso  Bordeaux   41.5 EU
 ---
 
 Ahora mismo tienes [Converse M9613C  Sneaker Unisex – Adulto  Rosso  Bordeaux   41.5 EU](https://www.amazon.it/dp/B002T9VKFE/?tag=tolees00-21) a 39.99 EUR (original: 70.0 EUR) (42.87 %  de descuento) en el siguiente enlace!

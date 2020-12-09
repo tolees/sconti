@@ -10,8 +10,11 @@ author: ring
 slug: B07VSZ4KCR
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Marchio Amazon - Lifelong Alimento completo con pollo fresco  ricetta senza grano per cani anziani di razza piccola - 3kg*3
 ---
 
 Tienes [Marchio Amazon - Lifelong Alimento completo con pollo fresco  ricetta senza grano per cani anziani di razza piccola - 3kg*3](https://www.amazon.it/dp/B07VSZ4KCR/?tag=tolees00-21) con un 40.01 % de descuento con precio de oferta de 32.99 EUR (original: 54.99 EUR) en el siguiente enlace!

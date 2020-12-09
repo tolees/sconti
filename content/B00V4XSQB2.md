@@ -10,8 +10,11 @@ author: ring
 slug: B00V4XSQB2
 description:
 actualPrice: 12.83 EUR
+currency: EUR
+price: 12.83
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Scholl Solette Scarpe Quotidiane Gel Activ Everyday per Uomo  40-46.5 EU  1 Paio
 ---
 
 Tienes [Scholl Solette Scarpe Quotidiane Gel Activ Everyday per Uomo  40-46.5 EU  1 Paio](https://www.amazon.it/dp/B00V4XSQB2/?tag=tolees00-21) con un 32.44 % de descuento con precio de oferta de 12.83 EUR (original: 18.99 EUR) en el siguiente enlace!

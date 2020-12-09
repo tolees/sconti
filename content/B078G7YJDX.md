@@ -10,8 +10,11 @@ author: ring
 slug: B078G7YJDX
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Yankee Candle Candela profumata in giara grande | Paroline dolci | Durata Fino a 150 Ore
 ---
 
 Tienes [Yankee Candle Candela profumata in giara grande | Paroline dolci | Durata Fino a 150 Ore](https://www.amazon.it/dp/B078G7YJDX/?tag=tolees00-21) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

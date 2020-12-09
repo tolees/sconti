@@ -10,8 +10,11 @@ author: ring
 slug: B07TTD9VKB
 description:
 actualPrice: 23.74 EUR
+currency: EUR
+price: 23.74
 comparePrice: 59.0 EUR
 inStock: true
+prodname: SUPERGA 2750-COT3STRAPU  Sneaker Unisex Adulto  Nero  Black 999   37.5 EU
 ---
 
 Tienes [SUPERGA 2750-COT3STRAPU  Sneaker Unisex Adulto  Nero  Black 999   37.5 EU](https://www.amazon.it/dp/B07TTD9VKB/?tag=tolees00-21) con un 59.76 % de descuento con precio de oferta de 23.74 EUR (original: 59.0 EUR) en el siguiente enlace!

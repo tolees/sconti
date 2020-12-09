@@ -10,8 +10,11 @@ author: ring
 slug: B01JDFMESS
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 113.99 EUR
 inStock: true
+prodname: Candy CMXG25DCS Microonde con grill e app Cook-in  25 litri  51x31x43cm  colore Acciaio
 ---
 
 Tienes [Candy CMXG25DCS Microonde con grill e app Cook-in  25 litri  51x31x43cm  colore Acciaio](https://www.amazon.it/dp/B01JDFMESS/?tag=tolees00-21) con un 29.83 % de descuento con precio de oferta de 79.99 EUR (original: 113.99 EUR) en el siguiente enlace!

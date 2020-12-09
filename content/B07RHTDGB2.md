@@ -10,8 +10,11 @@ author: ring
 slug: B07RHTDGB2
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 29.8 EUR
 inStock: true
+prodname: Ghost Recon Breakpoint - Limited [Esclusiva Amazon] - PlayStation 4
 ---
 
 Tienes [Ghost Recon Breakpoint - Limited [Esclusiva Amazon] - PlayStation 4](https://www.amazon.it/dp/B07RHTDGB2/?tag=tolees00-21) con un 66.48 % de descuento con precio de oferta de 9.99 EUR (original: 29.8 EUR) en el siguiente enlace!

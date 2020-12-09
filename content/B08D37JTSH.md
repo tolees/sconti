@@ -10,8 +10,11 @@ author: ring
 slug: B08D37JTSH
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Cover Xiaomi Mi Note 10 Lite 360 Gradi Full Body Antiurto Protezione Caso [Trasparente Silicone TPU Anteriore e Rigida Plastica Back ] 2 in 1 Dual Layer Caso Cover per Xiaomi Mi Note 10 Lite
 ---
 
 Ahora mismo tienes [Cover Xiaomi Mi Note 10 Lite 360 Gradi Full Body Antiurto Protezione Caso [Trasparente Silicone TPU Anteriore e Rigida Plastica Back ] 2 in 1 Dual Layer Caso Cover per Xiaomi Mi Note 10 Lite](https://www.amazon.it/dp/B08D37JTSH/?tag=tolees00-21) a 8.99 EUR (original: 19.99 EUR) (55.03 %  de descuento) en el siguiente enlace!

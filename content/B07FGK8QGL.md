@@ -10,8 +10,11 @@ author: ring
 slug: B07FGK8QGL
 description:
 actualPrice: 68.99 EUR
+currency: EUR
+price: 68.99
 comparePrice: 130.0 EUR
 inStock: true
+prodname: SALEWA MS Lite Train Knitted  Scarpe da Trail Running Uomo  Blu  Ombre Blue/Tender Shot 3865   43 EU
 ---
 
 Ahora mismo tienes [SALEWA MS Lite Train Knitted  Scarpe da Trail Running Uomo  Blu  Ombre Blue/Tender Shot 3865   43 EU](https://www.amazon.it/dp/B07FGK8QGL/?tag=tolees00-21) a 68.99 EUR (original: 130.0 EUR) (46.93 %  de descuento) en el siguiente enlace!

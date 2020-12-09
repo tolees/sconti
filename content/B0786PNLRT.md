@@ -10,8 +10,11 @@ author: ring
 slug: B0786PNLRT
 description:
 actualPrice: 11.69 EUR
+currency: EUR
+price: 11.69
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Puma Liga Shorts  Pantaloncini Uomo  Nero Black White  L
 ---
 
 Está [Puma Liga Shorts  Pantaloncini Uomo  Nero Black White  L](https://www.amazon.it/dp/B0786PNLRT/?tag=tolees00-21) con 34.87 de descuento por 11.69 EUR (original: 17.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07XH9XRNJ
 description:
 actualPrice: 13.0 EUR
+currency: EUR
+price: 13.0
 comparePrice: 20.99 EUR
 inStock: true
+prodname: Giochi Preziosi Pinypon Action 2 Pompieri con Personaggio e Accessori
 ---
 
 Está [Giochi Preziosi Pinypon Action 2 Pompieri con Personaggio e Accessori](https://www.amazon.it/dp/B07XH9XRNJ/?tag=tolees00-21) con 38.07 de descuento por 13.0 EUR (original: 20.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LZWK5FG
 description:
 actualPrice: 559.8 EUR
+currency: EUR
+price: 559.8
 comparePrice: 949.99 EUR
 inStock: true
+prodname: AEG L7FBE841 Lavatrice a Carica Frontale  1400 Giri/min  8 Kg  51 dB  A+++ -30%  Bianco
 ---
 
 Tienes [AEG L7FBE841 Lavatrice a Carica Frontale  1400 Giri/min  8 Kg  51 dB  A+++ -30%  Bianco](https://www.amazon.it/dp/B01LZWK5FG/?tag=tolees00-21) con un 41.07 % de descuento con precio de oferta de 559.8 EUR (original: 949.99 EUR) en el siguiente enlace!

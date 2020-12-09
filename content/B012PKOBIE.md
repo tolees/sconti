@@ -10,8 +10,11 @@ author: ring
 slug: B012PKOBIE
 description:
 actualPrice: 107.4 EUR
+currency: EUR
+price: 107.4
 comparePrice: 254.9 EUR
 inStock: true
+prodname: Lexar 64GB 3500x Pro CFast Compact Flash Card -  LC64GCRBEU3500
 ---
 
 Ahora mismo tienes [Lexar 64GB 3500x Pro CFast Compact Flash Card -  LC64GCRBEU3500](https://www.amazon.it/dp/B012PKOBIE/?tag=tolees00-21) a 107.4 EUR (original: 254.9 EUR) (57.87 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MQUQTBR
 description:
 actualPrice: 59.0 EUR
+currency: EUR
+price: 59.0
 comparePrice: 89.99 EUR
 inStock: true
+prodname: AVM FRITZ Box 4040 AC 1300 International Router Wi-Fi  Dual Band  Rete Mesh  Interfaccia Italiano
 ---
 
 Ahora mismo tienes [AVM FRITZ Box 4040 AC 1300 International Router Wi-Fi  Dual Band  Rete Mesh  Interfaccia Italiano](https://www.amazon.it/dp/B01MQUQTBR/?tag=tolees00-21) a 59.0 EUR (original: 89.99 EUR) (34.44 %  de descuento) en el siguiente enlace!

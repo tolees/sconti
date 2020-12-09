@@ -10,8 +10,11 @@ author: ring
 slug: B01HZN09VO
 description:
 actualPrice: 20.98 EUR
+currency: EUR
+price: 20.98
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Dragon Ball Xenoverse 2 - Xbox One
 ---
 
 Tienes [Dragon Ball Xenoverse 2 - Xbox One](https://www.amazon.it/dp/B01HZN09VO/?tag=tolees00-21) con un 30.04 % de descuento con precio de oferta de 20.98 EUR (original: 29.99 EUR) en el siguiente enlace!

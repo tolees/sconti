@@ -10,8 +10,11 @@ author: ring
 slug: B07JMXN3GG
 description:
 actualPrice: 79.9 EUR
+currency: EUR
+price: 79.9
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Foppapedretti Birbante Completo Piumone con Paracolpi  Beige
 ---
 
 Está [Foppapedretti Birbante Completo Piumone con Paracolpi  Beige](https://www.amazon.it/dp/B07JMXN3GG/?tag=tolees00-21) con 46.73 de descuento por 79.9 EUR (original: 150.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01NAHBWE1
 description:
 actualPrice: 4.01 EUR
+currency: EUR
+price: 4.01
 comparePrice: 8.45 EUR
 inStock: true
+prodname: Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere vie urinarie ● Formula concentrata ● Registrato Ministero Salute Italiano
 ---
 
 Ahora mismo tienes [Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere vie urinarie ● Formula concentrata ● Registrato Ministero Salute Italiano](https://www.amazon.it/dp/B01NAHBWE1/?tag=tolees00-21) a 4.01 EUR (original: 8.45 EUR) (52.54 %  de descuento) en el siguiente enlace!

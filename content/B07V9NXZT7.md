@@ -10,8 +10,11 @@ author: ring
 slug: B07V9NXZT7
 description:
 actualPrice: 6.1 EUR
+currency: EUR
+price: 6.1
 comparePrice: 15.95 EUR
 inStock: true
+prodname: CARPISA® Portamonete donna tascabile - Sheila Wallet Summer
 ---
 
 Está [CARPISA® Portamonete donna tascabile - Sheila Wallet Summer](https://www.amazon.it/dp/B07V9NXZT7/?tag=tolees00-21) con 61.76 de descuento por 6.1 EUR (original: 15.95 EUR) en el siguiente enlace!

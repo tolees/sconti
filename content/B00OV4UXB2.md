@@ -10,8 +10,11 @@ author: ring
 slug: B00OV4UXB2
 description:
 actualPrice: 58.45 EUR
+currency: EUR
+price: 58.45
 comparePrice: 90.0 EUR
 inStock: true
+prodname: K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Rosso  Red   Small  Taglia produttore: S 
 ---
 
 Tienes [K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Rosso  Red   Small  Taglia produttore: S ](https://www.amazon.it/dp/B00OV4UXB2/?tag=tolees00-21) con un 35.06 % de descuento con precio de oferta de 58.45 EUR (original: 90.0 EUR) en el siguiente enlace!

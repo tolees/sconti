@@ -10,8 +10,11 @@ author: ring
 slug: B071V2FKMP
 description:
 actualPrice: 35.59 EUR
+currency: EUR
+price: 35.59
 comparePrice: 50.83 EUR
 inStock: true
+prodname: AmazonBasics - Piumino singolo in microfibra  4 stagioni  155 x 200 cm
 ---
 
 Tienes [AmazonBasics - Piumino singolo in microfibra  4 stagioni  155 x 200 cm](https://www.amazon.it/dp/B071V2FKMP/?tag=tolees00-21) con un 29.98 % de descuento con precio de oferta de 35.59 EUR (original: 50.83 EUR) en el siguiente enlace!

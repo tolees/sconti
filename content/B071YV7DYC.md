@@ -10,8 +10,11 @@ author: ring
 slug: B071YV7DYC
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 149.99 EUR
 inStock: true
+prodname: TACKLIFE SC-L04 Livella Laser Classica a Croce con Gamma di Misurazione 30m e Funzione di Inclinazione  Linea Laser a 360 gradi  IP 54  Custodia Protettiva e Staffa Girevole Magnetica
 ---
 
 Está [TACKLIFE SC-L04 Livella Laser Classica a Croce con Gamma di Misurazione 30m e Funzione di Inclinazione  Linea Laser a 360 gradi  IP 54  Custodia Protettiva e Staffa Girevole Magnetica](https://www.amazon.it/dp/B071YV7DYC/?tag=tolees00-21) con 33.34 de descuento por 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!

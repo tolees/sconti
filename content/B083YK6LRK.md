@@ -10,8 +10,11 @@ author: ring
 slug: B083YK6LRK
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 11.04 EUR
 inStock: true
+prodname: Piccole Donne
 ---
 
 Está [Piccole Donne](https://www.amazon.it/dp/B083YK6LRK/?tag=tolees00-21) con 41.12 de descuento por 6.5 EUR (original: 11.04 EUR) en el siguiente enlace!

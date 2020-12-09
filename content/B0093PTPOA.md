@@ -10,8 +10,11 @@ author: ring
 slug: B0093PTPOA
 description:
 actualPrice: 17.0 EUR
+currency: EUR
+price: 17.0
 comparePrice: 22.95 EUR
 inStock: true
+prodname: Laken Futura Thermo  Borraccia  Nero  Black   500 ml
 ---
 
 Tienes [Laken Futura Thermo  Borraccia  Nero  Black   500 ml](https://www.amazon.it/dp/B0093PTPOA/?tag=tolees00-21) con un 25.93 % de descuento con precio de oferta de 17.0 EUR (original: 22.95 EUR) en el siguiente enlace!

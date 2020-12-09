@@ -10,8 +10,11 @@ author: ring
 slug: B082HSVKL1
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 30.77 EUR
 inStock: true
+prodname: Sedhoom 12 in 1 Affettaverdure Taglia Verdure e Tagliaverdure a Cubetti Mandolino Verdure Grattuggia Verdure Mandolina Affettatrice Affetta Verdure Professionale con 5 Lame Taglia Patate/Aglio/Uova
 ---
 
 Está [Sedhoom 12 in 1 Affettaverdure Taglia Verdure e Tagliaverdure a Cubetti Mandolino Verdure Grattuggia Verdure Mandolina Affettatrice Affetta Verdure Professionale con 5 Lame Taglia Patate/Aglio/Uova](https://www.amazon.it/dp/B082HSVKL1/?tag=tolees00-21) con 31.78 de descuento por 20.99 EUR (original: 30.77 EUR) en el siguiente enlace!

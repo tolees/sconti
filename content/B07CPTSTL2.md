@@ -10,8 +10,11 @@ author: ring
 slug: B07CPTSTL2
 description:
 actualPrice: 70.0 EUR
+currency: EUR
+price: 70.0
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Sector No Limits Orologio da uomo  Collezione MASTER  in Acciaio  Silicone - R3271615003
 ---
 
 Tienes [Sector No Limits Orologio da uomo  Collezione MASTER  in Acciaio  Silicone - R3271615003](https://www.amazon.it/dp/B07CPTSTL2/?tag=tolees00-21) con un 64.82 % de descuento con precio de oferta de 70.0 EUR (original: 199.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MVHZ11L
 description:
 actualPrice: 27.46 EUR
+currency: EUR
+price: 27.46
 comparePrice: 42.0 EUR
 inStock: true
+prodname: NAPAPIJRI Semiury 2 Cuffia  Nero  Black 041    Taglia Unica: OS  Uomo
 ---
 
 Está [NAPAPIJRI Semiury 2 Cuffia  Nero  Black 041    Taglia Unica: OS  Uomo](https://www.amazon.it/dp/B07MVHZ11L/?tag=tolees00-21) con 34.62 de descuento por 27.46 EUR (original: 42.0 EUR) en el siguiente enlace!

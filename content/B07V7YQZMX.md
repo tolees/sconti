@@ -10,8 +10,11 @@ author: ring
 slug: B07V7YQZMX
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 25.95 EUR
 inStock: true
+prodname: CARPISA® Borsello tracolla unisex simil-pelle con chiusura zip - DRAGONFLY
 ---
 
 Ahora mismo tienes [CARPISA® Borsello tracolla unisex simil-pelle con chiusura zip - DRAGONFLY](https://www.amazon.it/dp/B07V7YQZMX/?tag=tolees00-21) a 5.95 EUR (original: 25.95 EUR) (77.07 %  de descuento) en el siguiente enlace!

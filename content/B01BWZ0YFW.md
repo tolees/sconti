@@ -10,8 +10,11 @@ author: ring
 slug: B01BWZ0YFW
 description:
 actualPrice: 16.85 EUR
+currency: EUR
+price: 16.85
 comparePrice: 34.0 EUR
 inStock: true
+prodname: Havaianas Slim Crystal Glamour SW  Infradito Donna  Grigio  Steel Grey 5178   41/42 EU
 ---
 
 Ahora mismo tienes [Havaianas Slim Crystal Glamour SW  Infradito Donna  Grigio  Steel Grey 5178   41/42 EU](https://www.amazon.it/dp/B01BWZ0YFW/?tag=tolees00-21) a 16.85 EUR (original: 34.0 EUR) (50.44 %  de descuento) en el siguiente enlace!

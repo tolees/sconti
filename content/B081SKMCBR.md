@@ -10,8 +10,11 @@ author: ring
 slug: B081SKMCBR
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 28.99 EUR
 inStock: true
+prodname: 150 Pezzi Pokemon Carte  Pokemon Carta Collezionabile  GX Ex Gioco di Carte  XY Series Steam Siege
 ---
 
 Ahora mismo tienes [150 Pezzi Pokemon Carte  Pokemon Carta Collezionabile  GX Ex Gioco di Carte  XY Series Steam Siege](https://www.amazon.it/dp/B081SKMCBR/?tag=tolees00-21) a 20.99 EUR (original: 28.99 EUR) (27.60 %  de descuento) en el siguiente enlace!

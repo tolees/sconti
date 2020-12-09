@@ -10,8 +10,11 @@ author: ring
 slug: B07VHMG2CB
 description:
 actualPrice: 33.18 EUR
+currency: EUR
+price: 33.18
 comparePrice: 99.0 EUR
 inStock: true
+prodname: NAPAPIJRI Dueville C Maglia a Maniche Lunghe  Verde  Green Way Gw11   XX-Large Uomo
 ---
 
 Ahora mismo tienes [NAPAPIJRI Dueville C Maglia a Maniche Lunghe  Verde  Green Way Gw11   XX-Large Uomo](https://www.amazon.it/dp/B07VHMG2CB/?tag=tolees00-21) a 33.18 EUR (original: 99.0 EUR) (66.48 %  de descuento) en el siguiente enlace!

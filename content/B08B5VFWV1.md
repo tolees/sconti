@@ -10,8 +10,11 @@ author: ring
 slug: B08B5VFWV1
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: ORICO Case Esterno per Disco Rigido 2 5     Custodia Esterna Portatile da USB3.0 a SATA per Supporto di Progettazione Senza Attrezzi da 7 mm / 9 5 mm HDD/SSD Max 4 TB con UASP （Nero）
 ---
 
 Ahora mismo tienes [ORICO Case Esterno per Disco Rigido 2 5     Custodia Esterna Portatile da USB3.0 a SATA per Supporto di Progettazione Senza Attrezzi da 7 mm / 9 5 mm HDD/SSD Max 4 TB con UASP （Nero）](https://www.amazon.it/dp/B08B5VFWV1/?tag=tolees00-21) a 7.99 EUR (original: 16.99 EUR) (52.97 %  de descuento) en el siguiente enlace!

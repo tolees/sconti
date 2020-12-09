@@ -10,8 +10,11 @@ author: ring
 slug: B07HP9F5XQ
 description:
 actualPrice: 41.97 EUR
+currency: EUR
+price: 41.97
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Skechers Men s STATUS 2.0- PEXTON Trainers  Blue  Navy NVY   9.5  44 EU 
 ---
 
 Está [Skechers Men s STATUS 2.0- PEXTON Trainers  Blue  Navy NVY   9.5  44 EU ](https://www.amazon.it/dp/B07HP9F5XQ/?tag=tolees00-21) con 29.99 de descuento por 41.97 EUR (original: 59.95 EUR) en el siguiente enlace!

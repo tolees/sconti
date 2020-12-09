@@ -10,8 +10,11 @@ author: ring
 slug: B017UQGLSG
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 36.5 EUR
 inStock: true
+prodname: Ferrino Rider  Sacco da bivacco Verde  230x80x50 cm
 ---
 
 Está [Ferrino Rider  Sacco da bivacco Verde  230x80x50 cm](https://www.amazon.it/dp/B017UQGLSG/?tag=tolees00-21) con 45.48 de descuento por 19.9 EUR (original: 36.5 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00YHE5SDO
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Vetril - Multiuso e Vetri  Igienizzante - 650ml x 12 pezzi - 7800ml
 ---
 
 Ahora mismo tienes [Vetril - Multiuso e Vetri  Igienizzante - 650ml x 12 pezzi - 7800ml](https://www.amazon.it/dp/B00YHE5SDO/?tag=tolees00-21) a 21.99 EUR (original: 39.99 EUR) (45.01 %  de descuento) en el siguiente enlace!

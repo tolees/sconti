@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVPW5Q3
 description:
 actualPrice: 29.39 EUR
+currency: EUR
+price: 29.39
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Levi s Hoodie Felpa con Cappuccio  Blue Indigo  L Uomo
 ---
 
 Ahora mismo tienes [Levi s Hoodie Felpa con Cappuccio  Blue Indigo  L Uomo](https://www.amazon.it/dp/B07ZVPW5Q3/?tag=tolees00-21) a 29.39 EUR (original: 70.0 EUR) (58.01 %  de descuento) en el siguiente enlace!

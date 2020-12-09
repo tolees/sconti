@@ -10,16 +10,17 @@ author: ring
 slug: B01CQUYJ3A
 description:
 actualPrice: 22.73 EUR
+currency: EUR
+price: 22.73
 comparePrice: 80.0 EUR
 inStock: true
+prodname: Diadora - Sneakers B. Elite per Uomo e Donna  EU 37 
 ---
 
-Está [Diadora - Sneakers B. Elite per Uomo e Donna  EU 37 ](https://www.amazon.it/dp/B01CQUYJ3A/?tag=tolees00-21) con 71.59 de descuento por 22.73 EUR (original: 80.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Diadora - Sneakers B. Elite per Uomo e Donna  EU 37 ](https://www.amazon.it/dp/B01CQUYJ3A/?tag=tolees00-21) a 22.73 EUR (original: 80.0 EUR) (71.59 %  de descuento) en el siguiente enlace!
 
 [![Diadora - Sneakers B. Elite per Uomo e D](https://m.media-amazon.com/images/I/31agdcazYaL._SL200_.jpg)](https://www.amazon.it/dp/B01CQUYJ3A/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01CQUYJ3A/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B01CQUYJ3A/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

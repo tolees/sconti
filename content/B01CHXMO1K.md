@@ -10,8 +10,11 @@ author: ring
 slug: B01CHXMO1K
 description:
 actualPrice: 14.0 EUR
+currency: EUR
+price: 14.0
 comparePrice: 149.5 EUR
 inStock: true
+prodname: Nilox Bodyguard Smartwatch e Tracker GPS  Nero
 ---
 
 Tienes [Nilox Bodyguard Smartwatch e Tracker GPS  Nero](https://www.amazon.it/dp/B01CHXMO1K/?tag=tolees00-21) con un 90.64 % de descuento con precio de oferta de 14.0 EUR (original: 149.5 EUR) en el siguiente enlace!

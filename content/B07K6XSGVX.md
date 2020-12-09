@@ -10,8 +10,11 @@ author: ring
 slug: B07K6XSGVX
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Levi s Original HM Tee Maglietta a Maniche Lunghe  Blu  LS Cotton + Patch Dress Blues 0001   Small Uomo
 ---
 
 Está [Levi s Original HM Tee Maglietta a Maniche Lunghe  Blu  LS Cotton + Patch Dress Blues 0001   Small Uomo](https://www.amazon.it/dp/B07K6XSGVX/?tag=tolees00-21) con 37.17 de descuento por 21.99 EUR (original: 35.0 EUR) en el siguiente enlace!

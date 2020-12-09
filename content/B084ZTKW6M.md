@@ -10,8 +10,11 @@ author: ring
 slug: B084ZTKW6M
 description:
 actualPrice: 24.0 EUR
+currency: EUR
+price: 24.0
 comparePrice: 32.0 EUR
 inStock: true
+prodname: Kit 3x Durex Pleasuremax Preservativi Stimolanti con Nervature  36 Profilattici
 ---
 
 Tienes [Kit 3x Durex Pleasuremax Preservativi Stimolanti con Nervature  36 Profilattici](https://www.amazon.it/dp/B084ZTKW6M/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 24.0 EUR (original: 32.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08DXZ6RS6
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 68.02 EUR
 inStock: true
+prodname: FYFLY Lampadario Industriale Lampada Vintage Edison a Sospensione 3 Teste E27 Edison Luce di Soffitto Lampadario per cucina  bar  ristorante  caffetteria  Cafe  Bronzo 
 ---
 
 Ahora mismo tienes [FYFLY Lampadario Industriale Lampada Vintage Edison a Sospensione 3 Teste E27 Edison Luce di Soffitto Lampadario per cucina  bar  ristorante  caffetteria  Cafe  Bronzo ](https://www.amazon.it/dp/B08DXZ6RS6/?tag=tolees00-21) a 27.99 EUR (original: 68.02 EUR) (58.85 %  de descuento) en el siguiente enlace!

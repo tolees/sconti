@@ -10,8 +10,11 @@ author: ring
 slug: B07NQGB4HG
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 52.79 EUR
 inStock: true
+prodname: Polly Pocket  Playset Mega Centro Commericale con Bambole e Accessori  Giocattolo per Bambini 4+ Anni  GFP89  Imballaggio Standard
 ---
 
 Está [Polly Pocket  Playset Mega Centro Commericale con Bambole e Accessori  Giocattolo per Bambini 4+ Anni  GFP89  Imballaggio Standard](https://www.amazon.it/dp/B07NQGB4HG/?tag=tolees00-21) con 43.36 de descuento por 29.9 EUR (original: 52.79 EUR) en el siguiente enlace!

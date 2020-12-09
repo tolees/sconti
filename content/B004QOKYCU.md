@@ -10,8 +10,11 @@ author: ring
 slug: B004QOKYCU
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Yankee Candle - Candela profumata  Bastoncino di cannella  Giara grande
 ---
 
 Ahora mismo tienes [Yankee Candle - Candela profumata  Bastoncino di cannella  Giara grande](https://www.amazon.it/dp/B004QOKYCU/?tag=tolees00-21) a 18.99 EUR (original: 27.99 EUR) (32.15 %  de descuento) en el siguiente enlace!

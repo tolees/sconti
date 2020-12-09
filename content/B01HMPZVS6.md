@@ -10,8 +10,11 @@ author: ring
 slug: B01HMPZVS6
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 44.9 EUR
 inStock: true
+prodname: Chicco - Gioco Tavolo Cresci e Impara  Bilingue  1-4 Anni
 ---
 
 Está [Chicco - Gioco Tavolo Cresci e Impara  Bilingue  1-4 Anni](https://www.amazon.it/dp/B01HMPZVS6/?tag=tolees00-21) con 44.54 de descuento por 24.9 EUR (original: 44.9 EUR) en el siguiente enlace!

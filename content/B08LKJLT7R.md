@@ -10,8 +10,11 @@ author: ring
 slug: B08LKJLT7R
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Trimmer professionale per capelli e razza  kit di taglio capelli impermeabile e ricaricabile  tagliacapelli da uomo con display a LED  regalo per uomo e padre
 ---
 
 Está [Trimmer professionale per capelli e razza  kit di taglio capelli impermeabile e ricaricabile  tagliacapelli da uomo con display a LED  regalo per uomo e padre](https://www.amazon.it/dp/B08LKJLT7R/?tag=tolees00-21) con 60.01 de descuento por 23.99 EUR (original: 59.99 EUR) en el siguiente enlace!

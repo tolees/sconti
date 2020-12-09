@@ -10,8 +10,11 @@ author: ring
 slug: B084YXN9MH
 description:
 actualPrice: 18.79 EUR
+currency: EUR
+price: 18.79
 comparePrice: 54.35 EUR
 inStock: true
+prodname: Mastertop - Set di 18 utensili per barbecue  utensili da barbecue  in acciaio inossidabile  strumenti multifunzione per grigliare  con una scatola in alluminio  campeggio all aria aperta  per uomo
 ---
 
 Está [Mastertop - Set di 18 utensili per barbecue  utensili da barbecue  in acciaio inossidabile  strumenti multifunzione per grigliare  con una scatola in alluminio  campeggio all aria aperta  per uomo](https://www.amazon.it/dp/B084YXN9MH/?tag=tolees00-21) con 65.43 de descuento por 18.79 EUR (original: 54.35 EUR) en el siguiente enlace!

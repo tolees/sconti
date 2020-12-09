@@ -10,8 +10,11 @@ author: ring
 slug: B01G5GO3KA
 description:
 actualPrice: 10.7 EUR
+currency: EUR
+price: 10.7
 comparePrice: 17.9 EUR
 inStock: true
+prodname: Clementoni 17140 - Il Mio Primo Tablet
 ---
 
 Está [Clementoni 17140 - Il Mio Primo Tablet](https://www.amazon.it/dp/B01G5GO3KA/?tag=tolees00-21) con 40.22 de descuento por 10.7 EUR (original: 17.9 EUR) en el siguiente enlace!

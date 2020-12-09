@@ -10,8 +10,11 @@ author: ring
 slug: B06WGMDSBL
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 40.99 EUR
 inStock: true
+prodname: Inkbird IBT-2X Bluetooth Termometro Digitale Barbecue Termometro e Timer con Sonda di Temperatura per Carne Grigliate BBQ Fumatore Forno di Cottura 2 sensori
 ---
 
 Tienes [Inkbird IBT-2X Bluetooth Termometro Digitale Barbecue Termometro e Timer con Sonda di Temperatura per Carne Grigliate BBQ Fumatore Forno di Cottura 2 sensori](https://www.amazon.it/dp/B06WGMDSBL/?tag=tolees00-21) con un 26.84 % de descuento con precio de oferta de 29.99 EUR (original: 40.99 EUR) en el siguiente enlace!

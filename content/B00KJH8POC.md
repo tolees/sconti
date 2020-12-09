@@ -10,8 +10,11 @@ author: ring
 slug: B00KJH8POC
 description:
 actualPrice: 1.69 EUR
+currency: EUR
+price: 1.69
 comparePrice: 2.59 EUR
 inStock: true
+prodname: Cif Crema Limone Detergente per Superfici Dure  500 ml
 ---
 
 Tienes [Cif Crema Limone Detergente per Superfici Dure  500 ml](https://www.amazon.it/dp/B00KJH8POC/?tag=tolees00-21) con un 34.75 % de descuento con precio de oferta de 1.69 EUR (original: 2.59 EUR) en el siguiente enlace!

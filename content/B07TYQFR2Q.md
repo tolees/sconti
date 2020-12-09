@@ -10,8 +10,11 @@ author: ring
 slug: B07TYQFR2Q
 description:
 actualPrice: 11.46 EUR
+currency: EUR
+price: 11.46
 comparePrice: 59.0 EUR
 inStock: true
+prodname: SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Unisex Adulto  Blu  Blue Lt Sky 354   43 EU
 ---
 
 Está [SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Unisex Adulto  Blu  Blue Lt Sky 354   43 EU](https://www.amazon.it/dp/B07TYQFR2Q/?tag=tolees00-21) con 80.58 de descuento por 11.46 EUR (original: 59.0 EUR) en el siguiente enlace!

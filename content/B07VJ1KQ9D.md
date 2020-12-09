@@ -10,8 +10,11 @@ author: ring
 slug: B07VJ1KQ9D
 description:
 actualPrice: 8.18 EUR
+currency: EUR
+price: 8.18
 comparePrice: 15.37 EUR
 inStock: true
+prodname: Dove Men+Care - Gel doccia da uomo minerali e salvia  idratante e rinfrescante  confezione da 6 x 250 ml
 ---
 
 Tienes [Dove Men+Care - Gel doccia da uomo minerali e salvia  idratante e rinfrescante  confezione da 6 x 250 ml](https://www.amazon.it/dp/B07VJ1KQ9D/?tag=tolees00-21) con un 46.78 % de descuento con precio de oferta de 8.18 EUR (original: 15.37 EUR) en el siguiente enlace!

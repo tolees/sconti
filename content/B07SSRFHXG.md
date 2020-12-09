@@ -10,8 +10,11 @@ author: ring
 slug: B07SSRFHXG
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Zaino da viaggio per computer portatile  scuola  con porta di ricarica USB e interfaccia cuffie  impermeabile  per donne e uomini  adatto per laptop e notebook da 14 a 17 5 pollici
 ---
 
 Ahora mismo tienes [Zaino da viaggio per computer portatile  scuola  con porta di ricarica USB e interfaccia cuffie  impermeabile  per donne e uomini  adatto per laptop e notebook da 14 a 17 5 pollici](https://www.amazon.it/dp/B07SSRFHXG/?tag=tolees00-21) a 12.99 EUR (original: 29.99 EUR) (56.69 %  de descuento) en el siguiente enlace!

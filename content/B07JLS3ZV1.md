@@ -10,8 +10,11 @@ author: ring
 slug: B07JLS3ZV1
 description:
 actualPrice: 35.0 EUR
+currency: EUR
+price: 35.0
 comparePrice: 49.99 EUR
 inStock: true
+prodname: PLAYMOBIL 70150 - COVO DEI PIRATI PORTATILE
 ---
 
 Tienes [PLAYMOBIL 70150 - COVO DEI PIRATI PORTATILE](https://www.amazon.it/dp/B07JLS3ZV1/?tag=tolees00-21) con un 29.99 % de descuento con precio de oferta de 35.0 EUR (original: 49.99 EUR) en el siguiente enlace!

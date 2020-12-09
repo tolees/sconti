@@ -10,8 +10,11 @@ author: ring
 slug: B08DDN6S7R
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 26.92 EUR
 inStock: true
+prodname: Dash Detersivo Lavatrice Liquido Primavera  Formato Convenienza 95 Lavaggi  5 Confezioni da 19 Lavaggi
 ---
 
 Ahora mismo tienes [Dash Detersivo Lavatrice Liquido Primavera  Formato Convenienza 95 Lavaggi  5 Confezioni da 19 Lavaggi](https://www.amazon.it/dp/B08DDN6S7R/?tag=tolees00-21) a 19.99 EUR (original: 26.92 EUR) (25.74 %  de descuento) en el siguiente enlace!

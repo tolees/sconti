@@ -10,8 +10,11 @@ author: ring
 slug: B07VYTNKLT
 description:
 actualPrice: 139.99 EUR
+currency: EUR
+price: 139.99
 comparePrice: 249.99 EUR
 inStock: true
+prodname: Ninja Foodi  OP300EU  Pentola a Pressione Multifunzione  Fornello Lento  Nero
 ---
 
 Está [Ninja Foodi  OP300EU  Pentola a Pressione Multifunzione  Fornello Lento  Nero](https://www.amazon.it/dp/B07VYTNKLT/?tag=tolees00-21) con 44.00 de descuento por 139.99 EUR (original: 249.99 EUR) en el siguiente enlace!

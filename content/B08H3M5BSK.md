@@ -10,8 +10,11 @@ author: ring
 slug: B08H3M5BSK
 description:
 actualPrice: 69.75 EUR
+currency: EUR
+price: 69.75
 comparePrice: 139.5 EUR
 inStock: true
+prodname: NEROGIARDINI A946107U 100
 ---
 
 Tienes [NEROGIARDINI A946107U 100](https://www.amazon.it/dp/B08H3M5BSK/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 69.75 EUR (original: 139.5 EUR) en el siguiente enlace!

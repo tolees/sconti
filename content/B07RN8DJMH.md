@@ -10,8 +10,11 @@ author: ring
 slug: B07RN8DJMH
 description:
 actualPrice: 6.56 EUR
+currency: EUR
+price: 6.56
 comparePrice: 17.32 EUR
 inStock: true
+prodname: Funko- Pop Holiday-Mayor Patty Noble Figura da Collezione  Multicolore  44467
 ---
 
 Está [Funko- Pop Holiday-Mayor Patty Noble Figura da Collezione  Multicolore  44467](https://www.amazon.it/dp/B07RN8DJMH/?tag=tolees00-21) con 62.12 de descuento por 6.56 EUR (original: 17.32 EUR) en el siguiente enlace!

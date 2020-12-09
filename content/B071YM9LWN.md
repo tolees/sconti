@@ -10,8 +10,11 @@ author: ring
 slug: B071YM9LWN
 description:
 actualPrice: 3.7 EUR
+currency: EUR
+price: 3.7
 comparePrice: 6.7 EUR
 inStock: true
+prodname: Rimmel London Stay Matte Rossetto Opaco Lunga Durata  Formula Liquida Waterproof No Transfer  110 Blush  5.5 ml
 ---
 
 Tienes [Rimmel London Stay Matte Rossetto Opaco Lunga Durata  Formula Liquida Waterproof No Transfer  110 Blush  5.5 ml](https://www.amazon.it/dp/B071YM9LWN/?tag=tolees00-21) con un 44.78 % de descuento con precio de oferta de 3.7 EUR (original: 6.7 EUR) en el siguiente enlace!

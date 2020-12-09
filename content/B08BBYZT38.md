@@ -10,8 +10,11 @@ author: ring
 slug: B08BBYZT38
 description:
 actualPrice: 14.89 EUR
+currency: EUR
+price: 14.89
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Mini Telecamera Spia Nascosta con Micro sd 32GB  Full HD 1080P Microcamera Spia con Rilevamento di Movimento Portatile Videocamera di Sorveglianza Video per Esterno/Interno
 ---
 
 Tienes [Mini Telecamera Spia Nascosta con Micro sd 32GB  Full HD 1080P Microcamera Spia con Rilevamento di Movimento Portatile Videocamera di Sorveglianza Video per Esterno/Interno](https://www.amazon.it/dp/B08BBYZT38/?tag=tolees00-21) con un 42.71 % de descuento con precio de oferta de 14.89 EUR (original: 25.99 EUR) en el siguiente enlace!

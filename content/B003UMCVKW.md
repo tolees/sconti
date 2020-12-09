@@ -10,8 +10,11 @@ author: ring
 slug: B003UMCVKW
 description:
 actualPrice: 1.28 EUR
+currency: EUR
+price: 1.28
 comparePrice: 1.75 EUR
 inStock: true
+prodname: Barilla Pasta all Uovo Ripiena Le Emiliane Tortellini con Prosciutto Crudo - 250 g
 ---
 
 Tienes [Barilla Pasta all Uovo Ripiena Le Emiliane Tortellini con Prosciutto Crudo - 250 g](https://www.amazon.it/dp/B003UMCVKW/?tag=tolees00-21) con un 26.86 % de descuento con precio de oferta de 1.28 EUR (original: 1.75 EUR) en el siguiente enlace!

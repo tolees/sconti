@@ -10,8 +10,11 @@ author: ring
 slug: B07DFQCQ5D
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.95 EUR
 inStock: true
+prodname: PUMA Ess TR Cl  Pantaloni Donna  Grigio  Light Grey Heather   S
 ---
 
 Está [PUMA Ess TR Cl  Pantaloni Donna  Grigio  Light Grey Heather   S](https://www.amazon.it/dp/B07DFQCQ5D/?tag=tolees00-21) con 49.96 de descuento por 19.99 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B014SPNQV2
 description:
 actualPrice: 87.3 EUR
+currency: EUR
+price: 87.3
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Hoover MBC 500UV Batti Materasso Ultra Vortex  500 Watt  3 Programmi  multicolore
 ---
 
 Tienes [Hoover MBC 500UV Batti Materasso Ultra Vortex  500 Watt  3 Programmi  multicolore](https://www.amazon.it/dp/B014SPNQV2/?tag=tolees00-21) con un 32.84 % de descuento con precio de oferta de 87.3 EUR (original: 129.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06Y2R4XSW
 description:
 actualPrice: 54.32 EUR
+currency: EUR
+price: 54.32
 comparePrice: 90.0 EUR
 inStock: true
+prodname: New Balance Unisex - Adulto 574v2 Core Scarpe da Ginnastica  Rosso  Burgundy   44.5 EU
 ---
 
 Está [New Balance Unisex - Adulto 574v2 Core Scarpe da Ginnastica  Rosso  Burgundy   44.5 EU](https://www.amazon.it/dp/B06Y2R4XSW/?tag=tolees00-21) con 39.64 de descuento por 54.32 EUR (original: 90.0 EUR) en el siguiente enlace!

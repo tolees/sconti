@@ -10,8 +10,11 @@ author: ring
 slug: B01MAZNLZZ
 description:
 actualPrice: 7.81 EUR
+currency: EUR
+price: 7.81
 comparePrice: 21.67 EUR
 inStock: true
+prodname: Redford Nizza  Camicia Uomo  Blu  Blau   Misura Collo: 44 cm   X-Large 
 ---
 
 Ahora mismo tienes [Redford Nizza  Camicia Uomo  Blu  Blau   Misura Collo: 44 cm   X-Large ](https://www.amazon.it/dp/B01MAZNLZZ/?tag=tolees00-21) a 7.81 EUR (original: 21.67 EUR) (63.96 %  de descuento) en el siguiente enlace!

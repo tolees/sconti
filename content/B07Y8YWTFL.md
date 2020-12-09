@@ -10,8 +10,11 @@ author: ring
 slug: B07Y8YWTFL
 description:
 actualPrice: 181.99 EUR
+currency: EUR
+price: 181.99
 comparePrice: 249.9 EUR
 inStock: true
+prodname: Xiaomi Redmi Note 8 Pro 64 + 6 GB  Mineral Grey
 ---
 
 Está [Xiaomi Redmi Note 8 Pro 64 + 6 GB  Mineral Grey](https://www.amazon.it/dp/B07Y8YWTFL/?tag=tolees00-21) con 27.17 de descuento por 181.99 EUR (original: 249.9 EUR) en el siguiente enlace!

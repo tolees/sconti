@@ -10,8 +10,11 @@ author: ring
 slug: B07KG2RWFL
 description:
 actualPrice: 31.59 EUR
+currency: EUR
+price: 31.59
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Puma Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco  Weiß White White Jaffa Orange   36 EU
 ---
 
 Tienes [Puma Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco  Weiß White White Jaffa Orange   36 EU](https://www.amazon.it/dp/B07KG2RWFL/?tag=tolees00-21) con un 60.49 % de descuento con precio de oferta de 31.59 EUR (original: 79.95 EUR) en el siguiente enlace!

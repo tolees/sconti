@@ -10,8 +10,11 @@ author: ring
 slug: B01NBJX1NL
 description:
 actualPrice: 94.0 EUR
+currency: EUR
+price: 94.0
 comparePrice: 135.39 EUR
 inStock: true
+prodname: Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK2659
 ---
 
 Ahora mismo tienes [Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK2659](https://www.amazon.it/dp/B01NBJX1NL/?tag=tolees00-21) a 94.0 EUR (original: 135.39 EUR) (30.57 %  de descuento) en el siguiente enlace!

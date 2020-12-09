@@ -10,8 +10,11 @@ author: ring
 slug: B01LY3SSMN
 description:
 actualPrice: 38.3 EUR
+currency: EUR
+price: 38.3
 comparePrice: 76.0 EUR
 inStock: true
+prodname: Foppapedretti Go! Evolution  Seggiolino auto Gruppo 0/1  0-18 Kg  per Bambini dalla Nascita Fino a 4 Anni Circa  Carbon
 ---
 
 Ahora mismo tienes [Foppapedretti Go! Evolution  Seggiolino auto Gruppo 0/1  0-18 Kg  per Bambini dalla Nascita Fino a 4 Anni Circa  Carbon](https://www.amazon.it/dp/B01LY3SSMN/?tag=tolees00-21) a 38.3 EUR (original: 76.0 EUR) (49.61 %  de descuento) en el siguiente enlace!

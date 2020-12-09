@@ -10,8 +10,11 @@ author: ring
 slug: B004S2PFRO
 description:
 actualPrice: 55.74 EUR
+currency: EUR
+price: 55.74
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Berndes Vario Click Induction Padella 28 cm  Alluminio Pressofuso
 ---
 
 Ahora mismo tienes [Berndes Vario Click Induction Padella 28 cm  Alluminio Pressofuso](https://www.amazon.it/dp/B004S2PFRO/?tag=tolees00-21) a 55.74 EUR (original: 109.95 EUR) (49.30 %  de descuento) en el siguiente enlace!
