@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Ella & John  The Leisure Seeker '
 ---
 
-Ahora mismo tienes [Ella & John  The Leisure Seeker ](https://www.amazon.it/dp/B079YTPBVC/?tag=tolees00-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!
+Está [Ella & John  The Leisure Seeker ](https://www.amazon.it/dp/B079YTPBVC/?tag=tolees00-21) con 40.04 de descuento por 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Ella & John  The Leisure Seeker ](https://m.media-amazon.com/images/I/516vYnGmgEL._SL200_.jpg)](https://www.amazon.it/dp/B079YTPBVC/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B079YTPBVC/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B079YTPBVC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
