@@ -14,12 +14,10 @@ comparePrice: 1.48 EUR
 inStock: true
 ---
 
-Está [Heinz Ketchup Top Down 250Gr](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21) con 33.11 de descuento por 0.99 EUR (original: 1.48 EUR) en el siguiente enlace!
+Ahora mismo tienes [Heinz Ketchup Top Down 250Gr](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21) a 0.99 EUR (original: 1.48 EUR) (33.11 %  de descuento) en el siguiente enlace!
 
 [![Heinz Ketchup Top Down 250Gr](https://m.media-amazon.com/images/I/41SqcHP8LaL._SL200_.jpg)](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
