@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Just Dance 2020 - PlayStation 4'
 ---
 
-Ahora mismo tienes [Just Dance 2020 - PlayStation 4](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21) a 24.98 EUR (original: 50.82 EUR) (50.85 %  de descuento) en el siguiente enlace!
+Está [Just Dance 2020 - PlayStation 4](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21) con 50.85 de descuento por 24.98 EUR (original: 50.82 EUR) en el siguiente enlace!
 
 [![Just Dance 2020 - PlayStation 4](https://m.media-amazon.com/images/I/51KL9mt7sdL._SL200_.jpg)](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
