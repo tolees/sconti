@@ -17,10 +17,12 @@ inStock: true
 prodname: 'WD-40 Specialist Lubrificante  Alte Prestazioni al PTFE  400 Ml'
 ---
 
-Ahora mismo tienes [WD-40 Specialist Lubrificante  Alte Prestazioni al PTFE  400 Ml](https://www.amazon.it/dp/B00QX5FPVU/?tag=tolees00-21) a 8.7 EUR (original: 12.49 EUR) (30.34 %  de descuento) en el siguiente enlace!
+Está [WD-40 Specialist Lubrificante  Alte Prestazioni al PTFE  400 Ml](https://www.amazon.it/dp/B00QX5FPVU/?tag=tolees00-21) con 30.34 de descuento por 8.7 EUR (original: 12.49 EUR) en el siguiente enlace!
 
 [![WD-40 Specialist Lubrificante  Alte Pres](https://m.media-amazon.com/images/I/41Etc0zH2sL._SL200_.jpg)](https://www.amazon.it/dp/B00QX5FPVU/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00QX5FPVU/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00QX5FPVU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

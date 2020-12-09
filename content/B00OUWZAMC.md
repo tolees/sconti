@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Furiosa Eau de Parfum 50 ml Spray Donna'
 ---
 
-Ahora mismo tienes [Furiosa Eau de Parfum 50 ml Spray Donna](https://www.amazon.it/dp/B00OUWZAMC/?tag=tolees00-21) a 39.78 EUR (original: 57.0 EUR) (30.21 %  de descuento) en el siguiente enlace!
+Está [Furiosa Eau de Parfum 50 ml Spray Donna](https://www.amazon.it/dp/B00OUWZAMC/?tag=tolees00-21) con 30.21 de descuento por 39.78 EUR (original: 57.0 EUR) en el siguiente enlace!
 
 [![Furiosa Eau de Parfum 50 ml Spray Donna](https://m.media-amazon.com/images/I/419xANg44TL._SL200_.jpg)](https://www.amazon.it/dp/B00OUWZAMC/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00OUWZAMC/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00OUWZAMC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
