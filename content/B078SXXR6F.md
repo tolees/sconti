@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Timberland Union Wharf 2 Eye Oxford  Scarpe da Barca Uomo  Nero Black Canvas  42 EU'
 ---
 
-Ahora mismo tienes [Timberland Union Wharf 2 Eye Oxford  Scarpe da Barca Uomo  Nero Black Canvas  42 EU](https://www.amazon.it/dp/B078SXXR6F/?tag=tolees00-21) a 41.49 EUR (original: 65.0 EUR) (36.17 %  de descuento) en el siguiente enlace!
+Está [Timberland Union Wharf 2 Eye Oxford  Scarpe da Barca Uomo  Nero Black Canvas  42 EU](https://www.amazon.it/dp/B078SXXR6F/?tag=tolees00-21) con 36.17 de descuento por 41.49 EUR (original: 65.0 EUR) en el siguiente enlace!
 
 [![Timberland Union Wharf 2 Eye Oxford  Sca](https://m.media-amazon.com/images/I/31QC-RfwP2L._SL200_.jpg)](https://www.amazon.it/dp/B078SXXR6F/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B078SXXR6F/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B078SXXR6F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
