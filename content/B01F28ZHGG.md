@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Call of Duty: Infinite Warfare - Legacy Edition - PlayStation 4'
 ---
 
-Ahora mismo tienes [Call of Duty: Infinite Warfare - Legacy Edition - PlayStation 4](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21) a 4.98 EUR (original: 12.5 EUR) (60.16 %  de descuento) en el siguiente enlace!
+Está [Call of Duty: Infinite Warfare - Legacy Edition - PlayStation 4](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21) con 60.16 de descuento por 4.98 EUR (original: 12.5 EUR) en el siguiente enlace!
 
 [![Call of Duty: Infinite Warfare - Legacy ](https://m.media-amazon.com/images/I/51ugBK-qJDL._SL200_.jpg)](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

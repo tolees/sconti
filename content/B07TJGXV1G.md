@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BONTEC Staffa TV per Televisori da 23-55 al 48.40 % de descuento'
-date: 2020-11-26 13:14:25
+date: 2020-12-09 17:10:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nALw1egDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nALw1egDL._SL200_.jpg' ]
 comments: true

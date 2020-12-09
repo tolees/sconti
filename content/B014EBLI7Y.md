@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Osprey Farpoint 55  Zaino Uomo  Grigio  Volcanic Grey   M/L'
 ---
 
-Ahora mismo tienes [Osprey Farpoint 55  Zaino Uomo  Grigio  Volcanic Grey   M/L](https://www.amazon.it/dp/B014EBLI7Y/?tag=tolees00-21) a 76.22 EUR (original: 170.0 EUR) (55.16 %  de descuento) en el siguiente enlace!
+Está [Osprey Farpoint 55  Zaino Uomo  Grigio  Volcanic Grey   M/L](https://www.amazon.it/dp/B014EBLI7Y/?tag=tolees00-21) con 55.16 de descuento por 76.22 EUR (original: 170.0 EUR) en el siguiente enlace!
 
 [![Osprey Farpoint 55  Zaino Uomo  Grigio  ](https://m.media-amazon.com/images/I/31GLo5nCJ3L._SL200_.jpg)](https://www.amazon.it/dp/B014EBLI7Y/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B014EBLI7Y/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B014EBLI7Y/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
