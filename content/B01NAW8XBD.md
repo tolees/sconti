@@ -14,12 +14,10 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Está [Head & Shoulders Classic Clean Antiforfora Shampoo  Maxi Formato da 1000 ml](https://www.amazon.it/dp/B01NAW8XBD/?tag=tolees00-21) con 46.21 de descuento por 6.45 EUR (original: 11.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Head & Shoulders Classic Clean Antiforfora Shampoo  Maxi Formato da 1000 ml](https://www.amazon.it/dp/B01NAW8XBD/?tag=tolees00-21) a 6.45 EUR (original: 11.99 EUR) (46.21 %  de descuento) en el siguiente enlace!
 
 [![Head & Shoulders Classic Clean Antiforfo](https://m.media-amazon.com/images/I/413zAAk-e7L._SL200_.jpg)](https://www.amazon.it/dp/B01NAW8XBD/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01NAW8XBD/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B01NAW8XBD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
