@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 6.99 EUR
 inStock: true
-prodname: La Roche-Posay Lipikar Xerand Crema Mani Riparatrice - 50 ml
+prodname: 'La Roche-Posay Lipikar Xerand Crema Mani Riparatrice - 50 ml'
 ---
 
 Tienes [La Roche-Posay Lipikar Xerand Crema Mani Riparatrice - 50 ml](https://www.amazon.it/dp/B0042HXMJI/?tag=tolees00-21) con un 42.92 % de descuento con precio de oferta de 3.99 EUR (original: 6.99 EUR) en el siguiente enlace!

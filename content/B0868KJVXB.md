@@ -14,7 +14,7 @@ currency: EUR
 price: 10.98
 comparePrice: 15.98 EUR
 inStock: true
-prodname: LED Specchio Ingranditore Tascabile Illuminato per Trucco  Normale e 2X - Grande Diametro Specchio Compatto Portatile da Borsetta con Luce a LED Naturale AG-1275B
+prodname: 'LED Specchio Ingranditore Tascabile Illuminato per Trucco  Normale e 2X - Grande Diametro Specchio Compatto Portatile da Borsetta con Luce a LED Naturale AG-1275B'
 ---
 
 Ahora mismo tienes [LED Specchio Ingranditore Tascabile Illuminato per Trucco  Normale e 2X - Grande Diametro Specchio Compatto Portatile da Borsetta con Luce a LED Naturale AG-1275B](https://www.amazon.it/dp/B0868KJVXB/?tag=tolees00-21) a 10.98 EUR (original: 15.98 EUR) (31.29 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.08
 comparePrice: 12.9 EUR
 inStock: true
-prodname: Pernigotti  Confezione Regalo Latta Vintage con Praline Cremini Classici e Fondenti  al Cioccolato Gianduia Classico e Fondente  Senza Olio di Palma  Senza Glutine  Confezione da 190 gr
+prodname: 'Pernigotti  Confezione Regalo Latta Vintage con Praline Cremini Classici e Fondenti  al Cioccolato Gianduia Classico e Fondente  Senza Olio di Palma  Senza Glutine  Confezione da 190 gr'
 ---
 
 Está [Pernigotti  Confezione Regalo Latta Vintage con Praline Cremini Classici e Fondenti  al Cioccolato Gianduia Classico e Fondente  Senza Olio di Palma  Senza Glutine  Confezione da 190 gr](https://www.amazon.it/dp/B016Q6NWLK/?tag=tolees00-21) con 45.12 de descuento por 7.08 EUR (original: 12.9 EUR) en el siguiente enlace!

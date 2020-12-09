@@ -14,7 +14,7 @@ currency: EUR
 price: 6.49
 comparePrice: 12.0 EUR
 inStock: true
-prodname: Baci Perugina Gold Cioccolatini al Caramello Ripieni al Gianduia e Nocciola Intera Scatola Regalo 150G
+prodname: 'Baci Perugina Gold Cioccolatini al Caramello Ripieni al Gianduia e Nocciola Intera Scatola Regalo 150G'
 ---
 
 Ahora mismo tienes [Baci Perugina Gold Cioccolatini al Caramello Ripieni al Gianduia e Nocciola Intera Scatola Regalo 150G](https://www.amazon.it/dp/B08DL9HLBY/?tag=tolees00-21) a 6.49 EUR (original: 12.0 EUR) (45.92 %  de descuento) en el siguiente enlace!

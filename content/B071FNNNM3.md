@@ -14,7 +14,7 @@ currency: EUR
 price: 50.1
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Tommy Hilfiger O2285TIS 1C  Scarpe da Ginnastica Basse Uomo  Nero  Black   40 EU
+prodname: 'Tommy Hilfiger O2285TIS 1C  Scarpe da Ginnastica Basse Uomo  Nero  Black   40 EU'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger O2285TIS 1C  Scarpe da Ginnastica Basse Uomo  Nero  Black   40 EU](https://www.amazon.it/dp/B071FNNNM3/?tag=tolees00-21) a 50.1 EUR (original: 99.9 EUR) (49.85 %  de descuento) en el siguiente enlace!

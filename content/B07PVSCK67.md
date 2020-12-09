@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: INPHIC Tappetino per Mouse Gaming Keyboard Mouse Pad da Gioco XL  700 * 300 * 3mm   Superficie Strutturata Confortevole per Computer Portatile PC Mac - Nero
+prodname: 'INPHIC Tappetino per Mouse Gaming Keyboard Mouse Pad da Gioco XL  700 * 300 * 3mm   Superficie Strutturata Confortevole per Computer Portatile PC Mac - Nero'
 ---
 
 Está [INPHIC Tappetino per Mouse Gaming Keyboard Mouse Pad da Gioco XL  700 * 300 * 3mm   Superficie Strutturata Confortevole per Computer Portatile PC Mac - Nero](https://www.amazon.it/dp/B07PVSCK67/?tag=tolees00-21) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

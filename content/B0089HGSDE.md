@@ -14,7 +14,7 @@ currency: EUR
 price: 27.18
 comparePrice: 85.0 EUR
 inStock: true
-prodname: Burberry Acqua di profumo per le donne  100 ml
+prodname: 'Burberry Acqua di profumo per le donne  100 ml'
 ---
 
 Tienes [Burberry Acqua di profumo per le donne  100 ml](https://www.amazon.it/dp/B0089HGSDE/?tag=tolees00-21) con un 68.02 % de descuento con precio de oferta de 27.18 EUR (original: 85.0 EUR) en el siguiente enlace!

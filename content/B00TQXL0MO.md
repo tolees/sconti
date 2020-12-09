@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Philips Sonicare HX6231/01 DailyClean 3100 Spazzolino Elettrico con Tecnologia Sonica  1 Modalità di Pulizia
+prodname: 'Philips Sonicare HX6231/01 DailyClean 3100 Spazzolino Elettrico con Tecnologia Sonica  1 Modalità di Pulizia'
 ---
 
 Ahora mismo tienes [Philips Sonicare HX6231/01 DailyClean 3100 Spazzolino Elettrico con Tecnologia Sonica  1 Modalità di Pulizia](https://www.amazon.it/dp/B00TQXL0MO/?tag=tolees00-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

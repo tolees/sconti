@@ -14,7 +14,7 @@ currency: EUR
 price: 35.2
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Nike T-Lite XI  Scarpe da Ginnastica Uomo  Bianco  White/Obsidian/Black/Metallic Silver 101   40.5 EU  6.5 UK 
+prodname: 'Nike T-Lite XI  Scarpe da Ginnastica Uomo  Bianco  White/Obsidian/Black/Metallic Silver 101   40.5 EU  6.5 UK '
 ---
 
 Ahora mismo tienes [Nike T-Lite XI  Scarpe da Ginnastica Uomo  Bianco  White/Obsidian/Black/Metallic Silver 101   40.5 EU  6.5 UK ](https://www.amazon.it/dp/B00BYG3TWU/?tag=tolees00-21) a 35.2 EUR (original: 50.0 EUR) (29.60 %  de descuento) en el siguiente enlace!

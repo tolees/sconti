@@ -14,7 +14,7 @@ currency: EUR
 price: 79.99
 comparePrice: 178.5 EUR
 inStock: true
-prodname: Foppapedretti Go Up Carrello Portaspesa  Rosso  Red 
+prodname: 'Foppapedretti Go Up Carrello Portaspesa  Rosso  Red '
 ---
 
 Ahora mismo tienes [Foppapedretti Go Up Carrello Portaspesa  Rosso  Red ](https://www.amazon.it/dp/B008OHVJ3I/?tag=tolees00-21) a 79.99 EUR (original: 178.5 EUR) (55.19 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 37.5
 comparePrice: 75.0 EUR
 inStock: true
-prodname: Levi s Relaxed T2 Graphic Crew Maglia di Tuta  Serif Relax Fit Bianco  L Uomo
+prodname: 'Levi s Relaxed T2 Graphic Crew Maglia di Tuta  Serif Relax Fit Bianco  L Uomo'
 ---
 
 Ahora mismo tienes [Levi s Relaxed T2 Graphic Crew Maglia di Tuta  Serif Relax Fit Bianco  L Uomo](https://www.amazon.it/dp/B07ZVPRT4D/?tag=tolees00-21) a 37.5 EUR (original: 75.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

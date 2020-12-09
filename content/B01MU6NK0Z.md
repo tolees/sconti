@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Tommy Hilfiger New Denton 3.5 Belt Cintura  Marrone  Dark Tan 257   100 Uomo
+prodname: 'Tommy Hilfiger New Denton 3.5 Belt Cintura  Marrone  Dark Tan 257   100 Uomo'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger New Denton 3.5 Belt Cintura  Marrone  Dark Tan 257   100 Uomo](https://www.amazon.it/dp/B01MU6NK0Z/?tag=tolees00-21) a 25.99 EUR (original: 39.9 EUR) (34.86 %  de descuento) en el siguiente enlace!

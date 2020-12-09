@@ -14,7 +14,7 @@ currency: EUR
 price: 78.25
 comparePrice: 134.99 EUR
 inStock: true
-prodname: Western Digital WD My Passport Go SSD Portatile  500 GB  Blu Bordo Cobalto
+prodname: 'Western Digital WD My Passport Go SSD Portatile  500 GB  Blu Bordo Cobalto'
 ---
 
 Está [Western Digital WD My Passport Go SSD Portatile  500 GB  Blu Bordo Cobalto](https://www.amazon.it/dp/B07MVWJZVS/?tag=tolees00-21) con 42.03 de descuento por 78.25 EUR (original: 134.99 EUR) en el siguiente enlace!

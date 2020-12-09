@@ -14,7 +14,7 @@ currency: EUR
 price: 249.9
 comparePrice: 399.99 EUR
 inStock: true
-prodname: Philips Serie 2200 EP2220/10 Macchina da Caffè Automatica  2 Bevande  con Macine in Ceramica  Filtro AquaClean  Pannarello Classico  15 bar  1500 W  1.8 Litri  Nero Satinato
+prodname: 'Philips Serie 2200 EP2220/10 Macchina da Caffè Automatica  2 Bevande  con Macine in Ceramica  Filtro AquaClean  Pannarello Classico  15 bar  1500 W  1.8 Litri  Nero Satinato'
 ---
 
 Ahora mismo tienes [Philips Serie 2200 EP2220/10 Macchina da Caffè Automatica  2 Bevande  con Macine in Ceramica  Filtro AquaClean  Pannarello Classico  15 bar  1500 W  1.8 Litri  Nero Satinato](https://www.amazon.it/dp/B07MMSHC4R/?tag=tolees00-21) a 249.9 EUR (original: 399.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

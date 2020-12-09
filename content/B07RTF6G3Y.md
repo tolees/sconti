@@ -14,7 +14,7 @@ currency: EUR
 price: 109.99
 comparePrice: 189.99 EUR
 inStock: true
-prodname: KidKraft 53445 Cucina Giocattolo in Legno per Bambini Vintage con 27 accessori per cucinare incluso  Moderna Bianca  Colore
+prodname: 'KidKraft 53445 Cucina Giocattolo in Legno per Bambini Vintage con 27 accessori per cucinare incluso  Moderna Bianca  Colore'
 ---
 
 Tienes [KidKraft 53445 Cucina Giocattolo in Legno per Bambini Vintage con 27 accessori per cucinare incluso  Moderna Bianca  Colore](https://www.amazon.it/dp/B07RTF6G3Y/?tag=tolees00-21) con un 42.11 % de descuento con precio de oferta de 109.99 EUR (original: 189.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 79.99
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Ariete 2763 Cordless 22V - Scopa Elettrica e Aspirapolvere Portatile  Tecnologia Ciclonica senza Sacco  Batteria al Litio Ricaricabile  120 W  0.8 Litri  Plastica  Rosso / Nero
+prodname: 'Ariete 2763 Cordless 22V - Scopa Elettrica e Aspirapolvere Portatile  Tecnologia Ciclonica senza Sacco  Batteria al Litio Ricaricabile  120 W  0.8 Litri  Plastica  Rosso / Nero'
 ---
 
 Tienes [Ariete 2763 Cordless 22V - Scopa Elettrica e Aspirapolvere Portatile  Tecnologia Ciclonica senza Sacco  Batteria al Litio Ricaricabile  120 W  0.8 Litri  Plastica  Rosso / Nero](https://www.amazon.it/dp/B07BXVXNMW/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 79.99 EUR (original: 120.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.36
 comparePrice: 54.95 EUR
 inStock: true
-prodname: adidas Stan Smith C  Scarpe da Ginnastica Basse Unisex-Bambini  Bianco  Footwear White/footwear White/green   31 EU
+prodname: 'adidas Stan Smith C  Scarpe da Ginnastica Basse Unisex-Bambini  Bianco  Footwear White/footwear White/green   31 EU'
 ---
 
 Tienes [adidas Stan Smith C  Scarpe da Ginnastica Basse Unisex-Bambini  Bianco  Footwear White/footwear White/green   31 EU](https://www.amazon.it/dp/B01GUZJE2S/?tag=tolees00-21) con un 53.85 % de descuento con precio de oferta de 25.36 EUR (original: 54.95 EUR) en el siguiente enlace!

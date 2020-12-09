@@ -14,7 +14,7 @@ currency: EUR
 price: 22.5
 comparePrice: 45.0 EUR
 inStock: true
-prodname: Under Armour Undeniable Duffle 4.0 Borsa Unisex  Nero  Black/Black/Silver  001    M
+prodname: 'Under Armour Undeniable Duffle 4.0 Borsa Unisex  Nero  Black/Black/Silver  001    M'
 ---
 
 Tienes [Under Armour Undeniable Duffle 4.0 Borsa Unisex  Nero  Black/Black/Silver  001    M](https://www.amazon.it/dp/B07J37SYBW/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 22.5 EUR (original: 45.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 46.92
 comparePrice: 77.0 EUR
 inStock: true
-prodname: Hape E0101 - Quadriciclo Scooter
+prodname: 'Hape E0101 - Quadriciclo Scooter'
 ---
 
 Tienes [Hape E0101 - Quadriciclo Scooter](https://www.amazon.it/dp/B00BHEEHP2/?tag=tolees00-21) con un 39.06 % de descuento con precio de oferta de 46.92 EUR (original: 77.0 EUR) en el siguiente enlace!

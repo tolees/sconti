@@ -14,7 +14,7 @@ currency: EUR
 price: 15.69
 comparePrice: 22.25 EUR
 inStock: true
-prodname: Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9  Multicolore  6.5x6.5x5.6 cm  6 unità
+prodname: 'Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9  Multicolore  6.5x6.5x5.6 cm  6 unità'
 ---
 
 Tienes [Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9  Multicolore  6.5x6.5x5.6 cm  6 unità](https://www.amazon.it/dp/B01MFCPXH4/?tag=tolees00-21) con un 29.48 % de descuento con precio de oferta de 15.69 EUR (original: 22.25 EUR) en el siguiente enlace!

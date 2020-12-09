@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 69.9 EUR
 inStock: true
-prodname: ITALNIC Orologio Fitness Activity Tracker Smartwatch Bluetooth Uomo Donna Saturimetro Cardiofrequenzimetro da Polso SmartBand Sportivo Contapassi Calorie GPS ECG Sveglia Impermeabile IP68 Android iOS
+prodname: 'ITALNIC Orologio Fitness Activity Tracker Smartwatch Bluetooth Uomo Donna Saturimetro Cardiofrequenzimetro da Polso SmartBand Sportivo Contapassi Calorie GPS ECG Sveglia Impermeabile IP68 Android iOS'
 ---
 
 Está [ITALNIC Orologio Fitness Activity Tracker Smartwatch Bluetooth Uomo Donna Saturimetro Cardiofrequenzimetro da Polso SmartBand Sportivo Contapassi Calorie GPS ECG Sveglia Impermeabile IP68 Android iOS](https://www.amazon.it/dp/B08P1SWSLN/?tag=tolees00-21) con 64.38 de descuento por 24.9 EUR (original: 69.9 EUR) en el siguiente enlace!

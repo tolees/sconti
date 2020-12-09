@@ -14,7 +14,7 @@ currency: EUR
 price: 16.7
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Hasbro Monopoly - Speed  gioco in scatola  Hasbro Gaming 
+prodname: 'Hasbro Monopoly - Speed  gioco in scatola  Hasbro Gaming '
 ---
 
 Ahora mismo tienes [Hasbro Monopoly - Speed  gioco in scatola  Hasbro Gaming ](https://www.amazon.it/dp/B082QJKCN7/?tag=tolees00-21) a 16.7 EUR (original: 29.99 EUR) (44.31 %  de descuento) en el siguiente enlace!

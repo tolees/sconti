@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.5 EUR
 inStock: true
-prodname: Calvin Klein Thong 539E  Tanga Donna  Bianco  White 100   38  Taglia Produttore: Medium 
+prodname: 'Calvin Klein Thong 539E  Tanga Donna  Bianco  White 100   38  Taglia Produttore: Medium '
 ---
 
 Tienes [Calvin Klein Thong 539E  Tanga Donna  Bianco  White 100   38  Taglia Produttore: Medium ](https://www.amazon.it/dp/B00W9QRGIC/?tag=tolees00-21) con un 35.55 % de descuento con precio de oferta de 9.99 EUR (original: 15.5 EUR) en el siguiente enlace!

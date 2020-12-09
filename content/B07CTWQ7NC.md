@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Playfun - Macchina delle Bugie  96967
+prodname: 'Playfun - Macchina delle Bugie  96967'
 ---
 
 Está [Playfun - Macchina delle Bugie  96967](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21) con 25.06 de descuento por 29.9 EUR (original: 39.9 EUR) en el siguiente enlace!

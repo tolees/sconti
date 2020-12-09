@@ -14,7 +14,7 @@ currency: EUR
 price: 9.2
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Lights by TENA Proteggi-slip discreto  Pacco Scorta Mensile - Proteggi-slip per piccole perdite femminili  discreti e confortevoli  5 confezioni x 28 pezzi
+prodname: 'Lights by TENA Proteggi-slip discreto  Pacco Scorta Mensile - Proteggi-slip per piccole perdite femminili  discreti e confortevoli  5 confezioni x 28 pezzi'
 ---
 
 Ahora mismo tienes [Lights by TENA Proteggi-slip discreto  Pacco Scorta Mensile - Proteggi-slip per piccole perdite femminili  discreti e confortevoli  5 confezioni x 28 pezzi](https://www.amazon.it/dp/B06XYDRJDN/?tag=tolees00-21) a 9.2 EUR (original: 13.99 EUR) (34.24 %  de descuento) en el siguiente enlace!

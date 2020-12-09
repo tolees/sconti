@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Nero  Navy Blazer   Large Uomo
+prodname: 'JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Nero  Navy Blazer   Large Uomo'
 ---
 
 Está [JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Nero  Navy Blazer   Large Uomo](https://www.amazon.it/dp/B07C5LJF6S/?tag=tolees00-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

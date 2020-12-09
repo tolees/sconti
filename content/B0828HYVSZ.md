@@ -14,7 +14,7 @@ currency: EUR
 price: 8.49
 comparePrice: 14.69 EUR
 inStock: true
-prodname: Cip!
+prodname: 'Cip!'
 ---
 
 Está [Cip!](https://www.amazon.it/dp/B0828HYVSZ/?tag=tolees00-21) con 42.21 de descuento por 8.49 EUR (original: 14.69 EUR) en el siguiente enlace!

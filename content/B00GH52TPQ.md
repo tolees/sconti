@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Nespresso Inissia Macchina per caffé espresso  a capsule  1260 W  0.7 L  Rosso  Ruby Red 
+prodname: 'Nespresso Inissia Macchina per caffé espresso  a capsule  1260 W  0.7 L  Rosso  Ruby Red '
 ---
 
 Ahora mismo tienes [Nespresso Inissia Macchina per caffé espresso  a capsule  1260 W  0.7 L  Rosso  Ruby Red ](https://www.amazon.it/dp/B00GH52TPQ/?tag=tolees00-21) a 59.9 EUR (original: 99.99 EUR) (40.09 %  de descuento) en el siguiente enlace!

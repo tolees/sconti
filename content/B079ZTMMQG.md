@@ -14,7 +14,7 @@ currency: EUR
 price: 48.0
 comparePrice: 118.49 EUR
 inStock: true
-prodname: Timberland Berlin Park  Stivali Donna  Nero  Black Nubuck   41 EU
+prodname: 'Timberland Berlin Park  Stivali Donna  Nero  Black Nubuck   41 EU'
 ---
 
 Está [Timberland Berlin Park  Stivali Donna  Nero  Black Nubuck   41 EU](https://www.amazon.it/dp/B079ZTMMQG/?tag=tolees00-21) con 59.49 de descuento por 48.0 EUR (original: 118.49 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.19
 comparePrice: 33.73 EUR
 inStock: true
-prodname: find. Round Toe Block Heel Leather Court Scarpe con Tacco  Beige   37 EU
+prodname: 'find. Round Toe Block Heel Leather Court Scarpe con Tacco  Beige   37 EU'
 ---
 
 Ahora mismo tienes [find. Round Toe Block Heel Leather Court Scarpe con Tacco  Beige   37 EU](https://www.amazon.it/dp/B07KMR5SV7/?tag=tolees00-21) a 22.19 EUR (original: 33.73 EUR) (34.21 %  de descuento) en el siguiente enlace!

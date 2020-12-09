@@ -14,7 +14,7 @@ currency: EUR
 price: 1.19
 comparePrice: 1.79 EUR
 inStock: true
-prodname: Nelsen  Detersivo Liquido Piatti 900 ml con Cristalli di sale
+prodname: 'Nelsen  Detersivo Liquido Piatti 900 ml con Cristalli di sale'
 ---
 
 Está [Nelsen  Detersivo Liquido Piatti 900 ml con Cristalli di sale](https://www.amazon.it/dp/B01KCJKJMM/?tag=tolees00-21) con 33.52 de descuento por 1.19 EUR (original: 1.79 EUR) en el siguiente enlace!

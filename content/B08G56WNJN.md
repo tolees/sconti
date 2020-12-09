@@ -14,7 +14,7 @@ currency: EUR
 price: 9.09
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Bottega Verde  Stupore della Neve Pallina di Natale
+prodname: 'Bottega Verde  Stupore della Neve Pallina di Natale'
 ---
 
 Ahora mismo tienes [Bottega Verde  Stupore della Neve Pallina di Natale](https://www.amazon.it/dp/B08G56WNJN/?tag=tolees00-21) a 9.09 EUR (original: 12.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.1
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox D Myria D  Scarpe da Ginnastica Basse Donna  Blu  Navy C4002   36 EU
+prodname: 'Geox D Myria D  Scarpe da Ginnastica Basse Donna  Blu  Navy C4002   36 EU'
 ---
 
 Ahora mismo tienes [Geox D Myria D  Scarpe da Ginnastica Basse Donna  Blu  Navy C4002   36 EU](https://www.amazon.it/dp/B07SXTHMFD/?tag=tolees00-21) a 24.1 EUR (original: 99.9 EUR) (75.88 %  de descuento) en el siguiente enlace!

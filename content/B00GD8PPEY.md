@@ -14,7 +14,7 @@ currency: EUR
 price: 6.2
 comparePrice: 12.07 EUR
 inStock: true
-prodname: Solaris  1972 
+prodname: 'Solaris  1972 '
 ---
 
 Está [Solaris  1972 ](https://www.amazon.it/dp/B00GD8PPEY/?tag=tolees00-21) con 48.63 de descuento por 6.2 EUR (original: 12.07 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.96
 comparePrice: 36.66 EUR
 inStock: true
-prodname: Swiffer XXL Panni di Ricambio per Scopa  per Catturare e Intrappolare la Polvere  6 x 16   96 Pezzi  
+prodname: 'Swiffer XXL Panni di Ricambio per Scopa  per Catturare e Intrappolare la Polvere  6 x 16   96 Pezzi  '
 ---
 
 Está [Swiffer XXL Panni di Ricambio per Scopa  per Catturare e Intrappolare la Polvere  6 x 16   96 Pezzi  ](https://www.amazon.it/dp/B01N4WNDY8/?tag=tolees00-21) con 40.10 de descuento por 21.96 EUR (original: 36.66 EUR) en el siguiente enlace!

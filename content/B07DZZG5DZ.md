@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Levi s Turner  Sneaker Uomo  Nero  Regular Black 159   44 EU
+prodname: 'Levi s Turner  Sneaker Uomo  Nero  Regular Black 159   44 EU'
 ---
 
 Tienes [Levi s Turner  Sneaker Uomo  Nero  Regular Black 159   44 EU](https://www.amazon.it/dp/B07DZZG5DZ/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 34.99 EUR (original: 50.0 EUR) en el siguiente enlace!

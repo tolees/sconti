@@ -14,7 +14,7 @@ currency: EUR
 price: 53.02
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Timberland Boroughs Project Leather Oxford Sneaker  Uomo  Verde  Canteen  Tb0a2ajp9011   41 EU  7 UK 
+prodname: 'Timberland Boroughs Project Leather Oxford Sneaker  Uomo  Verde  Canteen  Tb0a2ajp9011   41 EU  7 UK '
 ---
 
 Está [Timberland Boroughs Project Leather Oxford Sneaker  Uomo  Verde  Canteen  Tb0a2ajp9011   41 EU  7 UK ](https://www.amazon.it/dp/B07T3GZT8N/?tag=tolees00-21) con 51.80 de descuento por 53.02 EUR (original: 110.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 239.99
 comparePrice: 339.99 EUR
 inStock: true
-prodname: WD BLACK D10 Game Drive for Xbox One 12 TB  HDD desktop da 7200RPM con raffreddamento attivo  per archiviare i tuoi giochi per Xbox
+prodname: 'WD BLACK D10 Game Drive for Xbox One 12 TB  HDD desktop da 7200RPM con raffreddamento attivo  per archiviare i tuoi giochi per Xbox'
 ---
 
 Está [WD BLACK D10 Game Drive for Xbox One 12 TB  HDD desktop da 7200RPM con raffreddamento attivo  per archiviare i tuoi giochi per Xbox](https://www.amazon.it/dp/B07WF8LQL5/?tag=tolees00-21) con 29.41 de descuento por 239.99 EUR (original: 339.99 EUR) en el siguiente enlace!

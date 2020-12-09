@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Invicta 8935 Pro Diver Orologio da Unisex acciaio inossidabile Quarzo quadrante blu
+prodname: 'Invicta 8935 Pro Diver Orologio da Unisex acciaio inossidabile Quarzo quadrante blu'
 ---
 
 Ahora mismo tienes [Invicta 8935 Pro Diver Orologio da Unisex acciaio inossidabile Quarzo quadrante blu](https://www.amazon.it/dp/B000GX3IKK/?tag=tolees00-21) a 45.0 EUR (original: 65.0 EUR) (30.77 %  de descuento) en el siguiente enlace!

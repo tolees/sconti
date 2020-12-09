@@ -14,7 +14,7 @@ currency: EUR
 price: 13.45
 comparePrice: 23.9 EUR
 inStock: true
-prodname: Crocs Classic Clog Kids  Zoccoli Unisex - Bambini  Blu  Ocean 456   33/34 EU
+prodname: 'Crocs Classic Clog Kids  Zoccoli Unisex - Bambini  Blu  Ocean 456   33/34 EU'
 ---
 
 Está [Crocs Classic Clog Kids  Zoccoli Unisex - Bambini  Blu  Ocean 456   33/34 EU](https://www.amazon.it/dp/B01HEXG15S/?tag=tolees00-21) con 43.72 de descuento por 13.45 EUR (original: 23.9 EUR) en el siguiente enlace!

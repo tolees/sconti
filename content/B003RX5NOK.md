@@ -14,7 +14,7 @@ currency: EUR
 price: 43.0
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Vans Atwood  Scarpe da Ginnastica Uomo  Nero  Canvas  Black/Black  41 EU
+prodname: 'Vans Atwood  Scarpe da Ginnastica Uomo  Nero  Canvas  Black/Black  41 EU'
 ---
 
 Está [Vans Atwood  Scarpe da Ginnastica Uomo  Nero  Canvas  Black/Black  41 EU](https://www.amazon.it/dp/B003RX5NOK/?tag=tolees00-21) con 33.85 de descuento por 43.0 EUR (original: 65.0 EUR) en el siguiente enlace!

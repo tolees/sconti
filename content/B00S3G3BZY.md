@@ -14,7 +14,7 @@ currency: EUR
 price: 13.0
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Philips NT3160/10 Serie 3000 Rifinitore di Precisione per Naso  Orecchie e Sopracciglia
+prodname: 'Philips NT3160/10 Serie 3000 Rifinitore di Precisione per Naso  Orecchie e Sopracciglia'
 ---
 
 Está [Philips NT3160/10 Serie 3000 Rifinitore di Precisione per Naso  Orecchie e Sopracciglia](https://www.amazon.it/dp/B00S3G3BZY/?tag=tolees00-21) con 38.07 de descuento por 13.0 EUR (original: 20.99 EUR) en el siguiente enlace!

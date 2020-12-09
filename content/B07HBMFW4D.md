@@ -14,7 +14,7 @@ currency: EUR
 price: 64.99
 comparePrice: 109.99 EUR
 inStock: true
-prodname: SteelSeries Rival 710 Mouse da Gioco  Sensore Ottico TrueMove3 da 16.000 CPI  Display OLED  Cablata  Segnalazioni Tattili  Nero
+prodname: 'SteelSeries Rival 710 Mouse da Gioco  Sensore Ottico TrueMove3 da 16.000 CPI  Display OLED  Cablata  Segnalazioni Tattili  Nero'
 ---
 
 Tienes [SteelSeries Rival 710 Mouse da Gioco  Sensore Ottico TrueMove3 da 16.000 CPI  Display OLED  Cablata  Segnalazioni Tattili  Nero](https://www.amazon.it/dp/B07HBMFW4D/?tag=tolees00-21) con un 40.91 % de descuento con precio de oferta de 64.99 EUR (original: 109.99 EUR) en el siguiente enlace!

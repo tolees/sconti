@@ -14,7 +14,7 @@ currency: EUR
 price: 30.75
 comparePrice: 45.9 EUR
 inStock: true
-prodname: Crocs Crocband Clogs  Ciabatte Unisex – Adulto  Blu  Navy   42/43 EU
+prodname: 'Crocs Crocband Clogs  Ciabatte Unisex – Adulto  Blu  Navy   42/43 EU'
 ---
 
 Está [Crocs Crocband Clogs  Ciabatte Unisex – Adulto  Blu  Navy   42/43 EU](https://www.amazon.it/dp/B002JCST0U/?tag=tolees00-21) con 33.01 de descuento por 30.75 EUR (original: 45.9 EUR) en el siguiente enlace!

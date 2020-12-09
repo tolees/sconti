@@ -14,7 +14,7 @@ currency: EUR
 price: 56.99
 comparePrice: 84.0 EUR
 inStock: true
-prodname: De Longhi Alicia PLUS EMKP 42.B Caffettiera Moka Elettrica 2-4 Tazze  450 W  Grigio/Nero
+prodname: 'De Longhi Alicia PLUS EMKP 42.B Caffettiera Moka Elettrica 2-4 Tazze  450 W  Grigio/Nero'
 ---
 
 Ahora mismo tienes [De Longhi Alicia PLUS EMKP 42.B Caffettiera Moka Elettrica 2-4 Tazze  450 W  Grigio/Nero](https://www.amazon.it/dp/B009ERJHKO/?tag=tolees00-21) a 56.99 EUR (original: 84.0 EUR) (32.15 %  de descuento) en el siguiente enlace!

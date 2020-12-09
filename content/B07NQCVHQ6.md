@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Echo Dot  3ª generazione  - Altoparlante intelligente con orologio e Alexa - Tessuto grigio chiaro
+prodname: 'Echo Dot  3ª generazione  - Altoparlante intelligente con orologio e Alexa - Tessuto grigio chiaro'
 ---
 
 Ahora mismo tienes [Echo Dot  3ª generazione  - Altoparlante intelligente con orologio e Alexa - Tessuto grigio chiaro](https://www.amazon.it/dp/B07NQCVHQ6/?tag=tolees00-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

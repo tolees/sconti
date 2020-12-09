@@ -14,7 +14,7 @@ currency: EUR
 price: 153.99
 comparePrice: 312.99 EUR
 inStock: true
-prodname: Marcapiuma - Materasso Matrimoniale Memory 160x190 alto 22 cm - RAINBOW - Grado Rigidità H2 Medio Dispositivo Medico effetto massaggio Relax Rivestimento Sfoderabile Aloe Vera Antiacaro Made in Italy
+prodname: 'Marcapiuma - Materasso Matrimoniale Memory 160x190 alto 22 cm - RAINBOW - Grado Rigidità H2 Medio Dispositivo Medico effetto massaggio Relax Rivestimento Sfoderabile Aloe Vera Antiacaro Made in Italy'
 ---
 
 Está [Marcapiuma - Materasso Matrimoniale Memory 160x190 alto 22 cm - RAINBOW - Grado Rigidità H2 Medio Dispositivo Medico effetto massaggio Relax Rivestimento Sfoderabile Aloe Vera Antiacaro Made in Italy](https://www.amazon.it/dp/B00JQ39GFM/?tag=tolees00-21) con 50.80 de descuento por 153.99 EUR (original: 312.99 EUR) en el siguiente enlace!

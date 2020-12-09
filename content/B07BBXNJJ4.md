@@ -14,7 +14,7 @@ currency: EUR
 price: 8.45
 comparePrice: 21.21 EUR
 inStock: true
-prodname: Finish Tutto in 1 plus lavastoviglie Gel limone 85 Pastillas
+prodname: 'Finish Tutto in 1 plus lavastoviglie Gel limone 85 Pastillas'
 ---
 
 Está [Finish Tutto in 1 plus lavastoviglie Gel limone 85 Pastillas](https://www.amazon.it/dp/B07BBXNJJ4/?tag=tolees00-21) con 60.16 de descuento por 8.45 EUR (original: 21.21 EUR) en el siguiente enlace!

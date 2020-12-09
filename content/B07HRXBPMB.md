@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 89.0 EUR
 inStock: true
-prodname: Lenovo Tab E7 TB-7104F Tablet  Display 7" 1024 x 600 pixels  Processore Qualcomm  8 GB Espandibili fino a 128 GB  RAM 1 GB  WiFi  Android Nougat  Nero
+prodname: 'Lenovo Tab E7 TB-7104F Tablet  Display 7" 1024 x 600 pixels  Processore Qualcomm  8 GB Espandibili fino a 128 GB  RAM 1 GB  WiFi  Android Nougat  Nero'
 ---
 
 Tienes [Lenovo Tab E7 TB-7104F Tablet  Display 7" 1024 x 600 pixels  Processore Qualcomm  8 GB Espandibili fino a 128 GB  RAM 1 GB  WiFi  Android Nougat  Nero](https://www.amazon.it/dp/B07HRXBPMB/?tag=tolees00-21) con un 55.07 % de descuento con precio de oferta de 39.99 EUR (original: 89.0 EUR) en el siguiente enlace!

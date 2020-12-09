@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 124.26 EUR
 inStock: true
-prodname: FFTH Hard Disk 2 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Rosso 
+prodname: 'FFTH Hard Disk 2 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Rosso '
 ---
 
 Tienes [FFTH Hard Disk 2 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Rosso ](https://www.amazon.it/dp/B08BHZWXZW/?tag=tolees00-21) con un 48.50 % de descuento con precio de oferta de 63.99 EUR (original: 124.26 EUR) en el siguiente enlace!

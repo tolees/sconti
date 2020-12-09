@@ -14,7 +14,7 @@ currency: EUR
 price: 8.1
 comparePrice: 20.47 EUR
 inStock: true
-prodname: Marchio Amazon - MERAKI Pantaloni  Uomo  Grigio  30W / 32L
+prodname: 'Marchio Amazon - MERAKI Pantaloni  Uomo  Grigio  30W / 32L'
 ---
 
 Tienes [Marchio Amazon - MERAKI Pantaloni  Uomo  Grigio  30W / 32L](https://www.amazon.it/dp/B07PRCKK82/?tag=tolees00-21) con un 60.43 % de descuento con precio de oferta de 8.1 EUR (original: 20.47 EUR) en el siguiente enlace!

@@ -14,15 +14,13 @@ currency: EUR
 price: 1.95
 comparePrice: 5.0 EUR
 inStock: true
-prodname: BTicino S2496TG Spina Volante 2porti+T 16A  Salvaspazio  Uscita Cavo Regolabile su 3 Posizioni  Grigio
+prodname: 'BTicino S2496TG Spina Volante 2porti+T 16A  Salvaspazio  Uscita Cavo Regolabile su 3 Posizioni  Grigio'
 ---
 
-Está [BTicino S2496TG Spina Volante 2porti+T 16A  Salvaspazio  Uscita Cavo Regolabile su 3 Posizioni  Grigio](https://www.amazon.it/dp/B00OU0I4AY/?tag=tolees00-21) con 61.00 de descuento por 1.95 EUR (original: 5.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [BTicino S2496TG Spina Volante 2porti+T 16A  Salvaspazio  Uscita Cavo Regolabile su 3 Posizioni  Grigio](https://www.amazon.it/dp/B00OU0I4AY/?tag=tolees00-21) a 1.95 EUR (original: 5.0 EUR) (61.00 %  de descuento) en el siguiente enlace!
 
 [![BTicino S2496TG Spina Volante 2porti+T 1](https://m.media-amazon.com/images/I/41E1ALimEcL._SL200_.jpg)](https://www.amazon.it/dp/B00OU0I4AY/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00OU0I4AY/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B00OU0I4AY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.33
 comparePrice: 32.88 EUR
 inStock: true
-prodname: adidas Falcon W  Scarpe da Ginnastica Donna  Nero  Core Black/Core Black/Grey Five   36 2/3 EU
+prodname: 'adidas Falcon W  Scarpe da Ginnastica Donna  Nero  Core Black/Core Black/Grey Five   36 2/3 EU'
 ---
 
 Está [adidas Falcon W  Scarpe da Ginnastica Donna  Nero  Core Black/Core Black/Grey Five   36 2/3 EU](https://www.amazon.it/dp/B07K4RV7SB/?tag=tolees00-21) con 32.09 de descuento por 22.33 EUR (original: 32.88 EUR) en el siguiente enlace!

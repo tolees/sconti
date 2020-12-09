@@ -14,7 +14,7 @@ currency: EUR
 price: 23.6
 comparePrice: 59.0 EUR
 inStock: true
-prodname: MORELLATO Orologio Analogico Quarzo Donna con Cinturino in Silicone R0151152504
+prodname: 'MORELLATO Orologio Analogico Quarzo Donna con Cinturino in Silicone R0151152504'
 ---
 
 Está [MORELLATO Orologio Analogico Quarzo Donna con Cinturino in Silicone R0151152504](https://www.amazon.it/dp/B07B3GJ5ZD/?tag=tolees00-21) con 60.00 de descuento por 23.6 EUR (original: 59.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 17.9 EUR
 inStock: true
-prodname: Tescoma 630496 Beccucci Decoratori per Sac a Poche  21 Pezzi "Delicia"
+prodname: 'Tescoma 630496 Beccucci Decoratori per Sac a Poche  21 Pezzi "Delicia"'
 ---
 
 Ahora mismo tienes [Tescoma 630496 Beccucci Decoratori per Sac a Poche  21 Pezzi "Delicia"](https://www.amazon.it/dp/B00VIFVA6Y/?tag=tolees00-21) a 9.99 EUR (original: 17.9 EUR) (44.19 %  de descuento) en el siguiente enlace!

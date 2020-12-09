@@ -14,7 +14,7 @@ currency: EUR
 price: 27.51
 comparePrice: 38.9 EUR
 inStock: true
-prodname: Rotoloni Regina - Carta Igienica  500 strappi per rotolo  Carta 100% certificata FSC  confezione da 6 x 7  total 42 rotoli
+prodname: 'Rotoloni Regina - Carta Igienica  500 strappi per rotolo  Carta 100% certificata FSC  confezione da 6 x 7  total 42 rotoli'
 ---
 
 Tienes [Rotoloni Regina - Carta Igienica  500 strappi per rotolo  Carta 100% certificata FSC  confezione da 6 x 7  total 42 rotoli](https://www.amazon.it/dp/B07JYZ68YT/?tag=tolees00-21) con un 29.28 % de descuento con precio de oferta de 27.51 EUR (original: 38.9 EUR) en el siguiente enlace!

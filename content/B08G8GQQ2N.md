@@ -14,7 +14,7 @@ currency: EUR
 price: 12.75
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Supporto per laptop  supporto per laptop pieghevole regolabile in altezza a 8 altezze con borsa per il trasporto  supporto per laptop e salvaspazio da scrivania in ventilato per laptop  telefono e pad
+prodname: 'Supporto per laptop  supporto per laptop pieghevole regolabile in altezza a 8 altezze con borsa per il trasporto  supporto per laptop e salvaspazio da scrivania in ventilato per laptop  telefono e pad'
 ---
 
 Tienes [Supporto per laptop  supporto per laptop pieghevole regolabile in altezza a 8 altezze con borsa per il trasporto  supporto per laptop e salvaspazio da scrivania in ventilato per laptop  telefono e pad](https://www.amazon.it/dp/B08G8GQQ2N/?tag=tolees00-21) con un 36.22 % de descuento con precio de oferta de 12.75 EUR (original: 19.99 EUR) en el siguiente enlace!

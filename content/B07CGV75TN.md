@@ -14,7 +14,7 @@ currency: EUR
 price: 26.22
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Yespresso compatibili Nescafe Dolce gusto Cremoso - 10 confezione da 16 capsule  160 capsule
+prodname: 'Yespresso compatibili Nescafe Dolce gusto Cremoso - 10 confezione da 16 capsule  160 capsule'
 ---
 
 Está [Yespresso compatibili Nescafe Dolce gusto Cremoso - 10 confezione da 16 capsule  160 capsule](https://www.amazon.it/dp/B07CGV75TN/?tag=tolees00-21) con 34.29 de descuento por 26.22 EUR (original: 39.9 EUR) en el siguiente enlace!

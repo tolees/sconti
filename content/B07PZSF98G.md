@@ -14,7 +14,7 @@ currency: EUR
 price: 43.39
 comparePrice: 80.61 EUR
 inStock: true
-prodname: Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black Navy 68  40 EU
+prodname: 'Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black Navy 68  40 EU'
 ---
 
 Está [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black Navy 68  40 EU](https://www.amazon.it/dp/B07PZSF98G/?tag=tolees00-21) con 46.17 de descuento por 43.39 EUR (original: 80.61 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.09
 comparePrice: 60.73 EUR
 inStock: true
-prodname: Marchio Amazon - find. Trench con Cintura Donna  Marrone  Rust   40  Label: XS
+prodname: 'Marchio Amazon - find. Trench con Cintura Donna  Marrone  Rust   40  Label: XS'
 ---
 
 Ahora mismo tienes [Marchio Amazon - find. Trench con Cintura Donna  Marrone  Rust   40  Label: XS](https://www.amazon.it/dp/B07KMD5LMZ/?tag=tolees00-21) a 15.09 EUR (original: 60.73 EUR) (75.15 %  de descuento) en el siguiente enlace!

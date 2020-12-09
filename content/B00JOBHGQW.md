@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 63.34 EUR
 inStock: true
-prodname: Casio Orologio Analogico al Quarzo Uomo con Cinturino in Nylon MTP-1314PL-8AVEF
+prodname: 'Casio Orologio Analogico al Quarzo Uomo con Cinturino in Nylon MTP-1314PL-8AVEF'
 ---
 
 Ahora mismo tienes [Casio Orologio Analogico al Quarzo Uomo con Cinturino in Nylon MTP-1314PL-8AVEF](https://www.amazon.it/dp/B00JOBHGQW/?tag=tolees00-21) a 30.99 EUR (original: 63.34 EUR) (51.07 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 2.57
 comparePrice: 3.46 EUR
 inStock: true
-prodname: Mulino Bianco Biscotti Frollini Campagnole  Colazione Ricca di Gusto  700g
+prodname: 'Mulino Bianco Biscotti Frollini Campagnole  Colazione Ricca di Gusto  700g'
 ---
 
 Está [Mulino Bianco Biscotti Frollini Campagnole  Colazione Ricca di Gusto  700g](https://www.amazon.it/dp/B009SJ7LPG/?tag=tolees00-21) con 25.72 de descuento por 2.57 EUR (original: 3.46 EUR) en el siguiente enlace!

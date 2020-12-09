@@ -14,7 +14,7 @@ currency: EUR
 price: 9.96
 comparePrice: 13.65 EUR
 inStock: true
-prodname: Jolly pastelli Crazy scatola in cartone 3000-0503 -12-3000-0503
+prodname: 'Jolly pastelli Crazy scatola in cartone 3000-0503 -12-3000-0503'
 ---
 
 Tienes [Jolly pastelli Crazy scatola in cartone 3000-0503 -12-3000-0503](https://www.amazon.it/dp/B01ETOULF6/?tag=tolees00-21) con un 27.03 % de descuento con precio de oferta de 9.96 EUR (original: 13.65 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.09
 comparePrice: 22.25 EUR
 inStock: true
-prodname: Campari Bitter Ml.1000
+prodname: 'Campari Bitter Ml.1000'
 ---
 
 Ahora mismo tienes [Campari Bitter Ml.1000](https://www.amazon.it/dp/B0029ZCLOC/?tag=tolees00-21) a 15.09 EUR (original: 22.25 EUR) (32.18 %  de descuento) en el siguiente enlace!

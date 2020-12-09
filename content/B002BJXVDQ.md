@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 45.0 EUR
 inStock: true
-prodname: Chupa Chups Lecca Lecca Latta  Confezione da 150 Lollipop Monopezzo  Lollipop Gusti Assortiti  Fragola  Panna-Fragola  Vaniglia  Cola  Lampone  Ciliegia  Arancia  Ottimo come Idea Regalo
+prodname: 'Chupa Chups Lecca Lecca Latta  Confezione da 150 Lollipop Monopezzo  Lollipop Gusti Assortiti  Fragola  Panna-Fragola  Vaniglia  Cola  Lampone  Ciliegia  Arancia  Ottimo come Idea Regalo'
 ---
 
 Está [Chupa Chups Lecca Lecca Latta  Confezione da 150 Lollipop Monopezzo  Lollipop Gusti Assortiti  Fragola  Panna-Fragola  Vaniglia  Cola  Lampone  Ciliegia  Arancia  Ottimo come Idea Regalo](https://www.amazon.it/dp/B002BJXVDQ/?tag=tolees00-21) con 44.47 de descuento por 24.99 EUR (original: 45.0 EUR) en el siguiente enlace!

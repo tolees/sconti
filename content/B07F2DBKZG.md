@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 90.0 EUR
 inStock: true
-prodname: Timberland Gateway Pier Casual  Scarpe Oxford Uomo  Grigio Medium Grey Canvas  43.5 EU
+prodname: 'Timberland Gateway Pier Casual  Scarpe Oxford Uomo  Grigio Medium Grey Canvas  43.5 EU'
 ---
 
 Está [Timberland Gateway Pier Casual  Scarpe Oxford Uomo  Grigio Medium Grey Canvas  43.5 EU](https://www.amazon.it/dp/B07F2DBKZG/?tag=tolees00-21) con 50.00 de descuento por 45.0 EUR (original: 90.0 EUR) en el siguiente enlace!

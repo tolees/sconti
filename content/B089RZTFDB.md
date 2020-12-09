@@ -14,7 +14,7 @@ currency: EUR
 price: 22.47
 comparePrice: 44.95 EUR
 inStock: true
-prodname: goldenpoint Leggings Straight con borchie tonde Fantasia Principe di Galles
+prodname: 'goldenpoint Leggings Straight con borchie tonde Fantasia Principe di Galles'
 ---
 
 Ahora mismo tienes [goldenpoint Leggings Straight con borchie tonde Fantasia Principe di Galles](https://www.amazon.it/dp/B089RZTFDB/?tag=tolees00-21) a 22.47 EUR (original: 44.95 EUR) (50.01 %  de descuento) en el siguiente enlace!

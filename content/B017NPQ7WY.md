@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 13.0 EUR
 inStock: true
-prodname: Pampers Sole e Luna Salviettine  540 Pezzi
+prodname: 'Pampers Sole e Luna Salviettine  540 Pezzi'
 ---
 
 Ahora mismo tienes [Pampers Sole e Luna Salviettine  540 Pezzi](https://www.amazon.it/dp/B017NPQ7WY/?tag=tolees00-21) a 6.99 EUR (original: 13.0 EUR) (46.23 %  de descuento) en el siguiente enlace!

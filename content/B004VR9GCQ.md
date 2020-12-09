@@ -14,7 +14,7 @@ currency: EUR
 price: 24.0
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Timex T2N647 Orologio da Polso al Quarzo  Analogico  Uomo  Tessuto  Nero/Nero
+prodname: 'Timex T2N647 Orologio da Polso al Quarzo  Analogico  Uomo  Tessuto  Nero/Nero'
 ---
 
 Ahora mismo tienes [Timex T2N647 Orologio da Polso al Quarzo  Analogico  Uomo  Tessuto  Nero/Nero](https://www.amazon.it/dp/B004VR9GCQ/?tag=tolees00-21) a 24.0 EUR (original: 34.95 EUR) (31.33 %  de descuento) en el siguiente enlace!

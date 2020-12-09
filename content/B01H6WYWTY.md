@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Morellato Bracciale da Uomo in Acciaio Inossidabile
+prodname: 'Morellato Bracciale da Uomo in Acciaio Inossidabile'
 ---
 
 Está [Morellato Bracciale da Uomo in Acciaio Inossidabile](https://www.amazon.it/dp/B01H6WYWTY/?tag=tolees00-21) con 35.73 de descuento por 17.99 EUR (original: 27.99 EUR) en el siguiente enlace!

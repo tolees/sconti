@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Pillars of Eternity II: Deadfire Ultimate Collector s Edition - Collector s Limited - PlayStation 4
+prodname: 'Pillars of Eternity II: Deadfire Ultimate Collector s Edition - Collector s Limited - PlayStation 4'
 ---
 
 Está [Pillars of Eternity II: Deadfire Ultimate Collector s Edition - Collector s Limited - PlayStation 4](https://www.amazon.it/dp/B07YG7Q9RF/?tag=tolees00-21) con 57.70 de descuento por 54.99 EUR (original: 129.99 EUR) en el siguiente enlace!

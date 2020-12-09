@@ -14,7 +14,7 @@ currency: EUR
 price: 69.9
 comparePrice: 115.0 EUR
 inStock: true
-prodname: Ferrino X-Track  Zaino da Trekking Unisex  Nero  20 L
+prodname: 'Ferrino X-Track  Zaino da Trekking Unisex  Nero  20 L'
 ---
 
 Está [Ferrino X-Track  Zaino da Trekking Unisex  Nero  20 L](https://www.amazon.it/dp/B01M0LWPAM/?tag=tolees00-21) con 39.22 de descuento por 69.9 EUR (original: 115.0 EUR) en el siguiente enlace!

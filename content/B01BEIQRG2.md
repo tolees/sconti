@@ -14,7 +14,7 @@ currency: EUR
 price: 8.95
 comparePrice: 16.09 EUR
 inStock: true
-prodname: Eucerin Duplo Crema per le mani 2 x 75 ml
+prodname: 'Eucerin Duplo Crema per le mani 2 x 75 ml'
 ---
 
 Ahora mismo tienes [Eucerin Duplo Crema per le mani 2 x 75 ml](https://www.amazon.it/dp/B01BEIQRG2/?tag=tolees00-21) a 8.95 EUR (original: 16.09 EUR) (44.38 %  de descuento) en el siguiente enlace!

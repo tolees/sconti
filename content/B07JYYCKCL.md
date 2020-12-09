@@ -14,7 +14,7 @@ currency: EUR
 price: 28.0
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Lampadina LED Alexa E27  Novostella Lampadina Intelligente Wifi LED RGB+2700-6500K Multicolore Dimmerabile  7W 600lm Lampadina Smart Compatibile con Amazon Alexa/Google Home - 3Pack
+prodname: 'Lampadina LED Alexa E27  Novostella Lampadina Intelligente Wifi LED RGB+2700-6500K Multicolore Dimmerabile  7W 600lm Lampadina Smart Compatibile con Amazon Alexa/Google Home - 3Pack'
 ---
 
 Está [Lampadina LED Alexa E27  Novostella Lampadina Intelligente Wifi LED RGB+2700-6500K Multicolore Dimmerabile  7W 600lm Lampadina Smart Compatibile con Amazon Alexa/Google Home - 3Pack](https://www.amazon.it/dp/B07JYYCKCL/?tag=tolees00-21) con 43.99 de descuento por 28.0 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.39
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Head & Shoulders Citrus Fresh Shampoo Antiforfora per Capelli Grassi 2 in 1  Maxi Formato Pacco da 3 x 540 ml
+prodname: 'Head & Shoulders Citrus Fresh Shampoo Antiforfora per Capelli Grassi 2 in 1  Maxi Formato Pacco da 3 x 540 ml'
 ---
 
 Ahora mismo tienes [Head & Shoulders Citrus Fresh Shampoo Antiforfora per Capelli Grassi 2 in 1  Maxi Formato Pacco da 3 x 540 ml](https://www.amazon.it/dp/B07XYNHZWQ/?tag=tolees00-21) a 10.39 EUR (original: 17.99 EUR) (42.25 %  de descuento) en el siguiente enlace!

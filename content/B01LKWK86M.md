@@ -14,7 +14,7 @@ currency: EUR
 price: 367.53
 comparePrice: 609.28 EUR
 inStock: true
-prodname: Scanner Ds-530 A4 50Pag 600X600Dpi 24Bit
+prodname: 'Scanner Ds-530 A4 50Pag 600X600Dpi 24Bit'
 ---
 
 Ahora mismo tienes [Scanner Ds-530 A4 50Pag 600X600Dpi 24Bit](https://www.amazon.it/dp/B01LKWK86M/?tag=tolees00-21) a 367.53 EUR (original: 609.28 EUR) (39.68 %  de descuento) en el siguiente enlace!

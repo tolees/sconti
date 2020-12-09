@@ -14,7 +14,7 @@ currency: EUR
 price: 56.37
 comparePrice: 169.99 EUR
 inStock: true
-prodname: Columbia Lake 22  Piumino lungo con Cappuccio Donna  Blu  Nocturnal   S
+prodname: 'Columbia Lake 22  Piumino lungo con Cappuccio Donna  Blu  Nocturnal   S'
 ---
 
 Tienes [Columbia Lake 22  Piumino lungo con Cappuccio Donna  Blu  Nocturnal   S](https://www.amazon.it/dp/B07R7XNT8H/?tag=tolees00-21) con un 66.84 % de descuento con precio de oferta de 56.37 EUR (original: 169.99 EUR) en el siguiente enlace!

@@ -14,13 +14,15 @@ currency: EUR
 price: 12.49
 comparePrice: 18.81 EUR
 inStock: true
-prodname: Un Altra Vita
+prodname: 'Un Altra Vita'
 ---
 
-Ahora mismo tienes [Un Altra Vita](https://www.amazon.it/dp/B00PWLSBZI/?tag=tolees00-21) a 12.49 EUR (original: 18.81 EUR) (33.60 %  de descuento) en el siguiente enlace!
+Está [Un Altra Vita](https://www.amazon.it/dp/B00PWLSBZI/?tag=tolees00-21) con 33.60 de descuento por 12.49 EUR (original: 18.81 EUR) en el siguiente enlace!
 
 [![Un Altra Vita](https://m.media-amazon.com/images/I/51IeLYS+13L._SL200_.jpg)](https://www.amazon.it/dp/B00PWLSBZI/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00PWLSBZI/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00PWLSBZI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

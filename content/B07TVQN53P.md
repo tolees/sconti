@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Wrangler SS Logo Tee T-Shirt  Rosso  Formula Red XWO   X-Large Uomo
+prodname: 'Wrangler SS Logo Tee T-Shirt  Rosso  Formula Red XWO   X-Large Uomo'
 ---
 
 Está [Wrangler SS Logo Tee T-Shirt  Rosso  Formula Red XWO   X-Large Uomo](https://www.amazon.it/dp/B07TVQN53P/?tag=tolees00-21) con 44.91 de descuento por 10.99 EUR (original: 19.95 EUR) en el siguiente enlace!

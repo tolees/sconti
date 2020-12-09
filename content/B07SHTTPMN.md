@@ -14,7 +14,7 @@ currency: EUR
 price: 18.0
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Havaianas Slim Logo Metallic  Infradito Donna  Grigio  Steel Grey/Rainbow Grey Glitter 7864   39/40 EU
+prodname: 'Havaianas Slim Logo Metallic  Infradito Donna  Grigio  Steel Grey/Rainbow Grey Glitter 7864   39/40 EU'
 ---
 
 Tienes [Havaianas Slim Logo Metallic  Infradito Donna  Grigio  Steel Grey/Rainbow Grey Glitter 7864   39/40 EU](https://www.amazon.it/dp/B07SHTTPMN/?tag=tolees00-21) con un 40.00 % de descuento con precio de oferta de 18.0 EUR (original: 30.0 EUR) en el siguiente enlace!

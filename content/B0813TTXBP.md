@@ -14,7 +14,7 @@ currency: EUR
 price: 53.99
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Adidas Superstar  Scarpe da ginnastica Uomo  nero  Core Black/Ftwr White/Core Black   44 EU
+prodname: 'Adidas Superstar  Scarpe da ginnastica Uomo  nero  Core Black/Ftwr White/Core Black   44 EU'
 ---
 
 Tienes [Adidas Superstar  Scarpe da ginnastica Uomo  nero  Core Black/Ftwr White/Core Black   44 EU](https://www.amazon.it/dp/B0813TTXBP/?tag=tolees00-21) con un 45.98 % de descuento con precio de oferta de 53.99 EUR (original: 99.95 EUR) en el siguiente enlace!

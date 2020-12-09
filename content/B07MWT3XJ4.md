@@ -14,7 +14,7 @@ currency: EUR
 price: 154.0
 comparePrice: 240.99 EUR
 inStock: true
-prodname: Philips HR2375/05 Avance Macchina per la Pasta  200 W  Design Premium  Plastica
+prodname: 'Philips HR2375/05 Avance Macchina per la Pasta  200 W  Design Premium  Plastica'
 ---
 
 Está [Philips HR2375/05 Avance Macchina per la Pasta  200 W  Design Premium  Plastica](https://www.amazon.it/dp/B07MWT3XJ4/?tag=tolees00-21) con 36.10 de descuento por 154.0 EUR (original: 240.99 EUR) en el siguiente enlace!

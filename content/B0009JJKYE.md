@@ -14,7 +14,7 @@ currency: EUR
 price: 2.5
 comparePrice: 4.0 EUR
 inStock: true
-prodname: Hama 207-05 - Perle  1000 Pezzi  Colore: Rosso
+prodname: 'Hama 207-05 - Perle  1000 Pezzi  Colore: Rosso'
 ---
 
 Está [Hama 207-05 - Perle  1000 Pezzi  Colore: Rosso](https://www.amazon.it/dp/B0009JJKYE/?tag=tolees00-21) con 37.50 de descuento por 2.5 EUR (original: 4.0 EUR) en el siguiente enlace!

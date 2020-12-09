@@ -14,7 +14,7 @@ currency: EUR
 price: 26.57
 comparePrice: 47.99 EUR
 inStock: true
-prodname: Thomas & Friends Il Trenino Thomas  Fuga dal Dragone  Playset con Trenino Thomas Motorizzato e Pista  Giocattolo per Bambini da 3 + Anni  FXX66
+prodname: 'Thomas & Friends Il Trenino Thomas  Fuga dal Dragone  Playset con Trenino Thomas Motorizzato e Pista  Giocattolo per Bambini da 3 + Anni  FXX66'
 ---
 
 Tienes [Thomas & Friends Il Trenino Thomas  Fuga dal Dragone  Playset con Trenino Thomas Motorizzato e Pista  Giocattolo per Bambini da 3 + Anni  FXX66](https://www.amazon.it/dp/B07DK4LGVP/?tag=tolees00-21) con un 44.63 % de descuento con precio de oferta de 26.57 EUR (original: 47.99 EUR) en el siguiente enlace!

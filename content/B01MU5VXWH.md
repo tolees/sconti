@@ -14,7 +14,7 @@ currency: EUR
 price: 36.0
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Salewa Pura Casco Robusto  Unisex adulto  Yellow  S/M
+prodname: 'Salewa Pura Casco Robusto  Unisex adulto  Yellow  S/M'
 ---
 
 Ahora mismo tienes [Salewa Pura Casco Robusto  Unisex adulto  Yellow  S/M](https://www.amazon.it/dp/B01MU5VXWH/?tag=tolees00-21) a 36.0 EUR (original: 60.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.68
 comparePrice: 38.89 EUR
 inStock: true
-prodname: Calvin Klein 35mm Essential Belt Cintura  Marrone  Dark Tan Gae   2  Taglia Produttore: 80  Uomo
+prodname: 'Calvin Klein 35mm Essential Belt Cintura  Marrone  Dark Tan Gae   2  Taglia Produttore: 80  Uomo'
 ---
 
 Tienes [Calvin Klein 35mm Essential Belt Cintura  Marrone  Dark Tan Gae   2  Taglia Produttore: 80  Uomo](https://www.amazon.it/dp/B07VC3YGML/?tag=tolees00-21) con un 59.68 % de descuento con precio de oferta de 15.68 EUR (original: 38.89 EUR) en el siguiente enlace!

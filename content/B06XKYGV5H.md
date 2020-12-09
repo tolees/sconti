@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Swarovski Bracciale rigido Ginger  Bianco  Placcato Oro Rosa
+prodname: 'Swarovski Bracciale rigido Ginger  Bianco  Placcato Oro Rosa'
 ---
 
 Está [Swarovski Bracciale rigido Ginger  Bianco  Placcato Oro Rosa](https://www.amazon.it/dp/B06XKYGV5H/?tag=tolees00-21) con 43.04 de descuento por 45.0 EUR (original: 79.0 EUR) en el siguiente enlace!

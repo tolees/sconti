@@ -14,7 +14,7 @@ currency: EUR
 price: 28.76
 comparePrice: 70.03 EUR
 inStock: true
-prodname: KÖNIG CB-12 020 - Catene da Neve  1 paio
+prodname: 'KÖNIG CB-12 020 - Catene da Neve  1 paio'
 ---
 
 Tienes [KÖNIG CB-12 020 - Catene da Neve  1 paio](https://www.amazon.it/dp/B009PIBQTC/?tag=tolees00-21) con un 58.93 % de descuento con precio de oferta de 28.76 EUR (original: 70.03 EUR) en el siguiente enlace!

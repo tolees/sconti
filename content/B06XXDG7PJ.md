@@ -14,7 +14,7 @@ currency: EUR
 price: 56.85
 comparePrice: 90.0 EUR
 inStock: true
-prodname: New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Verde  Olive Night   42.5 EU
+prodname: 'New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Verde  Olive Night   42.5 EU'
 ---
 
 Ahora mismo tienes [New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Verde  Olive Night   42.5 EU](https://www.amazon.it/dp/B06XXDG7PJ/?tag=tolees00-21) a 56.85 EUR (original: 90.0 EUR) (36.83 %  de descuento) en el siguiente enlace!

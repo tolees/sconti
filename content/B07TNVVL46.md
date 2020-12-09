@@ -14,7 +14,7 @@ currency: EUR
 price: 22.13
 comparePrice: 32.94 EUR
 inStock: true
-prodname: Clarks Un Globe Sport  Scarpe da Ginnastica Basse Uomo  Blu  Navy Combi Navy Combi   43 EU
+prodname: 'Clarks Un Globe Sport  Scarpe da Ginnastica Basse Uomo  Blu  Navy Combi Navy Combi   43 EU'
 ---
 
 Ahora mismo tienes [Clarks Un Globe Sport  Scarpe da Ginnastica Basse Uomo  Blu  Navy Combi Navy Combi   43 EU](https://www.amazon.it/dp/B07TNVVL46/?tag=tolees00-21) a 22.13 EUR (original: 32.94 EUR) (32.82 %  de descuento) en el siguiente enlace!

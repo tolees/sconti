@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 20.11 EUR
 inStock: true
-prodname: Braveheart  4K Ultra Hd + Blu-Ray 
+prodname: 'Braveheart  4K Ultra Hd + Blu-Ray '
 ---
 
 Ahora mismo tienes [Braveheart  4K Ultra Hd + Blu-Ray ](https://www.amazon.it/dp/B07JJLXVZR/?tag=tolees00-21) a 12.99 EUR (original: 20.11 EUR) (35.41 %  de descuento) en el siguiente enlace!

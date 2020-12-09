@@ -14,7 +14,7 @@ currency: EUR
 price: 6.65
 comparePrice: 11.49 EUR
 inStock: true
-prodname: DR ORGANIC Tea Tree Dentifricio 100 ml
+prodname: 'DR ORGANIC Tea Tree Dentifricio 100 ml'
 ---
 
 Ahora mismo tienes [DR ORGANIC Tea Tree Dentifricio 100 ml](https://www.amazon.it/dp/B00FW7UUI8/?tag=tolees00-21) a 6.65 EUR (original: 11.49 EUR) (42.12 %  de descuento) en el siguiente enlace!

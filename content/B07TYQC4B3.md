@@ -14,7 +14,7 @@ currency: EUR
 price: 17.26
 comparePrice: 75.0 EUR
 inStock: true
-prodname: SUPERGA 2736-cotu Dbl3  Scarpe da Ginnastica Unisex-Adulto  Nero  Black/Fwhite F83   37 EU
+prodname: 'SUPERGA 2736-cotu Dbl3  Scarpe da Ginnastica Unisex-Adulto  Nero  Black/Fwhite F83   37 EU'
 ---
 
 Está [SUPERGA 2736-cotu Dbl3  Scarpe da Ginnastica Unisex-Adulto  Nero  Black/Fwhite F83   37 EU](https://www.amazon.it/dp/B07TYQC4B3/?tag=tolees00-21) con 76.99 de descuento por 17.26 EUR (original: 75.0 EUR) en el siguiente enlace!

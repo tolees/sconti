@@ -14,7 +14,7 @@ currency: EUR
 price: 6.4
 comparePrice: 8.6 EUR
 inStock: true
-prodname: A Star Is Born
+prodname: 'A Star Is Born'
 ---
 
 Está [A Star Is Born](https://www.amazon.it/dp/B07JQ7DKB4/?tag=tolees00-21) con 25.58 de descuento por 6.4 EUR (original: 8.6 EUR) en el siguiente enlace!

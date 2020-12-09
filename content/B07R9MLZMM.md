@@ -14,7 +14,7 @@ currency: EUR
 price: 31.85
 comparePrice: 50.0 EUR
 inStock: true
-prodname: CARE OF by PUMA Sneaker basse casual da uomo in pelle  Nero Black   46 EU
+prodname: 'CARE OF by PUMA Sneaker basse casual da uomo in pelle  Nero Black   46 EU'
 ---
 
 Tienes [CARE OF by PUMA Sneaker basse casual da uomo in pelle  Nero Black   46 EU](https://www.amazon.it/dp/B07R9MLZMM/?tag=tolees00-21) con un 36.30 % de descuento con precio de oferta de 31.85 EUR (original: 50.0 EUR) en el siguiente enlace!

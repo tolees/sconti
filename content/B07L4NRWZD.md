@@ -14,7 +14,7 @@ currency: EUR
 price: 12.95
 comparePrice: 18.45 EUR
 inStock: true
-prodname: NYX Professional Makeup Palette Ombretti Ultimate Shadow Palette  Pigmenti Pressati  16 Tonalità  Effetto Opaco  Satinato  Metallico  Phoenix  Confezione da 1
+prodname: 'NYX Professional Makeup Palette Ombretti Ultimate Shadow Palette  Pigmenti Pressati  16 Tonalità  Effetto Opaco  Satinato  Metallico  Phoenix  Confezione da 1'
 ---
 
 Tienes [NYX Professional Makeup Palette Ombretti Ultimate Shadow Palette  Pigmenti Pressati  16 Tonalità  Effetto Opaco  Satinato  Metallico  Phoenix  Confezione da 1](https://www.amazon.it/dp/B07L4NRWZD/?tag=tolees00-21) con un 29.81 % de descuento con precio de oferta de 12.95 EUR (original: 18.45 EUR) en el siguiente enlace!

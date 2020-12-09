@@ -14,7 +14,7 @@ currency: EUR
 price: 74.25
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Naturehike Tagar tenda da campeggio ultra leggera 1-2 persona escursioni a piedi  Verde chiaro  1 persona 
+prodname: 'Naturehike Tagar tenda da campeggio ultra leggera 1-2 persona escursioni a piedi  Verde chiaro  1 persona '
 ---
 
 Tienes [Naturehike Tagar tenda da campeggio ultra leggera 1-2 persona escursioni a piedi  Verde chiaro  1 persona ](https://www.amazon.it/dp/B06XY2JNN6/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 74.25 EUR (original: 99.0 EUR) en el siguiente enlace!

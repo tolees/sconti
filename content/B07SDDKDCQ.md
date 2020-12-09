@@ -14,7 +14,7 @@ currency: EUR
 price: 54.51
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Levi s 512 Slim Taper Jeans  Azul Biologia  31W / 34L Uomo
+prodname: 'Levi s 512 Slim Taper Jeans  Azul Biologia  31W / 34L Uomo'
 ---
 
 Ahora mismo tienes [Levi s 512 Slim Taper Jeans  Azul Biologia  31W / 34L Uomo](https://www.amazon.it/dp/B07SDDKDCQ/?tag=tolees00-21) a 54.51 EUR (original: 120.0 EUR) (54.57 %  de descuento) en el siguiente enlace!

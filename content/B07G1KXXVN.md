@@ -14,7 +14,7 @@ currency: EUR
 price: 70.97
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Polaroid Mint Fotocamera digitale Instant Print  Giallo   stampa su carta fotografica Zink 2x3 adesiva
+prodname: 'Polaroid Mint Fotocamera digitale Instant Print  Giallo   stampa su carta fotografica Zink 2x3 adesiva'
 ---
 
 Ahora mismo tienes [Polaroid Mint Fotocamera digitale Instant Print  Giallo   stampa su carta fotografica Zink 2x3 adesiva](https://www.amazon.it/dp/B07G1KXXVN/?tag=tolees00-21) a 70.97 EUR (original: 129.99 EUR) (45.40 %  de descuento) en el siguiente enlace!

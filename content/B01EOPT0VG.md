@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Creative Sound BlasterX G1 Scheda Audio Portatile 7.1  Nero
+prodname: 'Creative Sound BlasterX G1 Scheda Audio Portatile 7.1  Nero'
 ---
 
 Está [Creative Sound BlasterX G1 Scheda Audio Portatile 7.1  Nero](https://www.amazon.it/dp/B01EOPT0VG/?tag=tolees00-21) con 50.01 de descuento por 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

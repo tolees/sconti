@@ -14,7 +14,7 @@ currency: EUR
 price: 371.1
 comparePrice: 699.0 EUR
 inStock: true
-prodname: De Longhi PAC EL98 ECO Real Feel Climatizzatore Portatile Pinguino  Bianco e nero
+prodname: 'De Longhi PAC EL98 ECO Real Feel Climatizzatore Portatile Pinguino  Bianco e nero'
 ---
 
 Ahora mismo tienes [De Longhi PAC EL98 ECO Real Feel Climatizzatore Portatile Pinguino  Bianco e nero](https://www.amazon.it/dp/B083VCKKPN/?tag=tolees00-21) a 371.1 EUR (original: 699.0 EUR) (46.91 %  de descuento) en el siguiente enlace!

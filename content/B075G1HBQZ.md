@@ -14,7 +14,7 @@ currency: EUR
 price: 18.36
 comparePrice: 32.4 EUR
 inStock: true
-prodname: Corona Birra Bottiglia - Confezione da 24 x 330 ml
+prodname: 'Corona Birra Bottiglia - Confezione da 24 x 330 ml'
 ---
 
 Ahora mismo tienes [Corona Birra Bottiglia - Confezione da 24 x 330 ml](https://www.amazon.it/dp/B075G1HBQZ/?tag=tolees00-21) a 18.36 EUR (original: 32.4 EUR) (43.33 %  de descuento) en el siguiente enlace!

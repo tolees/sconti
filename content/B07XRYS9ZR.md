@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 65.98 EUR
 inStock: true
-prodname: FAIRY TAIL - Nintendo Switch
+prodname: 'FAIRY TAIL - Nintendo Switch'
 ---
 
 Ahora mismo tienes [FAIRY TAIL - Nintendo Switch](https://www.amazon.it/dp/B07XRYS9ZR/?tag=tolees00-21) a 39.99 EUR (original: 65.98 EUR) (39.39 %  de descuento) en el siguiente enlace!

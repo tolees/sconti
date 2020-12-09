@@ -14,7 +14,7 @@ currency: EUR
 price: 17.5
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Under Armour UA Undeniable 4.0 Duffle MD  Borsa Uomo  Blu  OSFA
+prodname: 'Under Armour UA Undeniable 4.0 Duffle MD  Borsa Uomo  Blu  OSFA'
 ---
 
 Tienes [Under Armour UA Undeniable 4.0 Duffle MD  Borsa Uomo  Blu  OSFA](https://www.amazon.it/dp/B07RGRDKD5/?tag=tolees00-21) con un 41.57 % de descuento con precio de oferta de 17.5 EUR (original: 29.95 EUR) en el siguiente enlace!

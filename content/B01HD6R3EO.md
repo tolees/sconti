@@ -14,7 +14,7 @@ currency: EUR
 price: 90.49
 comparePrice: 159.95 EUR
 inStock: true
-prodname: Salomon Xa Pro 3D Gtx  Scarpe da Corsa Uomo  Nero  40 2/3 EU
+prodname: 'Salomon Xa Pro 3D Gtx  Scarpe da Corsa Uomo  Nero  40 2/3 EU'
 ---
 
 Tienes [Salomon Xa Pro 3D Gtx  Scarpe da Corsa Uomo  Nero  40 2/3 EU](https://www.amazon.it/dp/B01HD6R3EO/?tag=tolees00-21) con un 43.43 % de descuento con precio de oferta de 90.49 EUR (original: 159.95 EUR) en el siguiente enlace!

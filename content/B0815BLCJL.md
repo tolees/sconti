@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 169.99 EUR
 inStock: true
-prodname: Ninja Frullatore e Cuoci Zuppe con Caraffa in Vetro HB150EU  Elemento Riscaldante Integrato  1000 Watts  1.7 Litri  Nero
+prodname: 'Ninja Frullatore e Cuoci Zuppe con Caraffa in Vetro HB150EU  Elemento Riscaldante Integrato  1000 Watts  1.7 Litri  Nero'
 ---
 
 Tienes [Ninja Frullatore e Cuoci Zuppe con Caraffa in Vetro HB150EU  Elemento Riscaldante Integrato  1000 Watts  1.7 Litri  Nero](https://www.amazon.it/dp/B0815BLCJL/?tag=tolees00-21) con un 41.18 % de descuento con precio de oferta de 99.99 EUR (original: 169.99 EUR) en el siguiente enlace!

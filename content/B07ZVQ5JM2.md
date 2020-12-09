@@ -14,7 +14,7 @@ currency: EUR
 price: 34.7
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Levi s Crew Maglia di Tuta  White  S Uomo
+prodname: 'Levi s Crew Maglia di Tuta  White  S Uomo'
 ---
 
 Ahora mismo tienes [Levi s Crew Maglia di Tuta  White  S Uomo](https://www.amazon.it/dp/B07ZVQ5JM2/?tag=tolees00-21) a 34.7 EUR (original: 65.0 EUR) (46.62 %  de descuento) en el siguiente enlace!

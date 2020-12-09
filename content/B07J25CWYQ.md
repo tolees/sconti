@@ -14,7 +14,7 @@ currency: EUR
 price: 93.05
 comparePrice: 129.0 EUR
 inStock: true
-prodname: HUGO Orologio Analogico Quarzo Uomo con Cinturino in Pelle 1530029
+prodname: 'HUGO Orologio Analogico Quarzo Uomo con Cinturino in Pelle 1530029'
 ---
 
 Está [HUGO Orologio Analogico Quarzo Uomo con Cinturino in Pelle 1530029](https://www.amazon.it/dp/B07J25CWYQ/?tag=tolees00-21) con 27.87 de descuento por 93.05 EUR (original: 129.0 EUR) en el siguiente enlace!

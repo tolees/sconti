@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Tommy Hilfiger X Bralette Brassière  Nero  Black 990   X-Small Donna
+prodname: 'Tommy Hilfiger X Bralette Brassière  Nero  Black 990   X-Small Donna'
 ---
 
 Tienes [Tommy Hilfiger X Bralette Brassière  Nero  Black 990   X-Small Donna](https://www.amazon.it/dp/B07B6JMXB4/?tag=tolees00-21) con un 42.38 % de descuento con precio de oferta de 22.99 EUR (original: 39.9 EUR) en el siguiente enlace!

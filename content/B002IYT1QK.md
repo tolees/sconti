@@ -14,7 +14,7 @@ currency: EUR
 price: 10.66
 comparePrice: 18.6 EUR
 inStock: true
-prodname: Pentel LR7 ricarica per penna roller EnerGel 0 35 mm tratto  Ø 0 7 mm  12 pezzi nero
+prodname: 'Pentel LR7 ricarica per penna roller EnerGel 0 35 mm tratto  Ø 0 7 mm  12 pezzi nero'
 ---
 
 Ahora mismo tienes [Pentel LR7 ricarica per penna roller EnerGel 0 35 mm tratto  Ø 0 7 mm  12 pezzi nero](https://www.amazon.it/dp/B002IYT1QK/?tag=tolees00-21) a 10.66 EUR (original: 18.6 EUR) (42.69 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 155.0
 comparePrice: 350.0 EUR
 inStock: true
-prodname: Bang & Olufsen Beoplay E8 2.0 Auricolari Bluetooth True Wireless  Custodia di Ricarica  Naturale
+prodname: 'Bang & Olufsen Beoplay E8 2.0 Auricolari Bluetooth True Wireless  Custodia di Ricarica  Naturale'
 ---
 
 Tienes [Bang & Olufsen Beoplay E8 2.0 Auricolari Bluetooth True Wireless  Custodia di Ricarica  Naturale](https://www.amazon.it/dp/B07MRWKRBT/?tag=tolees00-21) con un 55.71 % de descuento con precio de oferta de 155.0 EUR (original: 350.0 EUR) en el siguiente enlace!

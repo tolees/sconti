@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 38.9 EUR
 inStock: true
-prodname: Clementoni 17085 - Conta Canestro  età consigliata 18+ mesi
+prodname: 'Clementoni 17085 - Conta Canestro  età consigliata 18+ mesi'
 ---
 
 Está [Clementoni 17085 - Conta Canestro  età consigliata 18+ mesi](https://www.amazon.it/dp/B010VB7ANM/?tag=tolees00-21) con 48.84 de descuento por 19.9 EUR (original: 38.9 EUR) en el siguiente enlace!

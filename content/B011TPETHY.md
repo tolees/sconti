@@ -14,7 +14,7 @@ currency: EUR
 price: 46.87
 comparePrice: 66.95 EUR
 inStock: true
-prodname: Outsunny HOMCOM Cavalletto Supporto Manutenzione per Bicicletta Riparazione Bici Pieghevole
+prodname: 'Outsunny HOMCOM Cavalletto Supporto Manutenzione per Bicicletta Riparazione Bici Pieghevole'
 ---
 
 Está [Outsunny HOMCOM Cavalletto Supporto Manutenzione per Bicicletta Riparazione Bici Pieghevole](https://www.amazon.it/dp/B011TPETHY/?tag=tolees00-21) con 29.99 de descuento por 46.87 EUR (original: 66.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.25
 comparePrice: 21.54 EUR
 inStock: true
-prodname: Puma Rebel Bold Crew TR  Felpa Uomo  Dark Denim  M
+prodname: 'Puma Rebel Bold Crew TR  Felpa Uomo  Dark Denim  M'
 ---
 
 Ahora mismo tienes [Puma Rebel Bold Crew TR  Felpa Uomo  Dark Denim  M](https://www.amazon.it/dp/B07X9T4VCM/?tag=tolees00-21) a 15.25 EUR (original: 21.54 EUR) (29.20 %  de descuento) en el siguiente enlace!

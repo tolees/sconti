@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Wrangler Greensboro Indigood Jeans Straight  Blu  The Legend 11L   W33/L32  Taglia Produttore: 33/32  Uomo
+prodname: 'Wrangler Greensboro Indigood Jeans Straight  Blu  The Legend 11L   W33/L32  Taglia Produttore: 33/32  Uomo'
 ---
 
 Está [Wrangler Greensboro Indigood Jeans Straight  Blu  The Legend 11L   W33/L32  Taglia Produttore: 33/32  Uomo](https://www.amazon.it/dp/B07TTQ2XYK/?tag=tolees00-21) con 59.99 de descuento por 35.99 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.9
 comparePrice: 25.31 EUR
 inStock: true
-prodname: Eastpak The One Borsa A Tracolla  21 Cm  2.5 L  Rosso  Sailor Red 
+prodname: 'Eastpak The One Borsa A Tracolla  21 Cm  2.5 L  Rosso  Sailor Red '
 ---
 
 Está [Eastpak The One Borsa A Tracolla  21 Cm  2.5 L  Rosso  Sailor Red ](https://www.amazon.it/dp/B07X6WRBRW/?tag=tolees00-21) con 41.13 de descuento por 14.9 EUR (original: 25.31 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 89.95 EUR
 inStock: true
-prodname: New Balance Ml574 D  Scarpe da Ginnastica Basse Uomo  Nero  Egn Black Iris Egn Black Iris   44 EU
+prodname: 'New Balance Ml574 D  Scarpe da Ginnastica Basse Uomo  Nero  Egn Black Iris Egn Black Iris   44 EU'
 ---
 
 Tienes [New Balance Ml574 D  Scarpe da Ginnastica Basse Uomo  Nero  Egn Black Iris Egn Black Iris   44 EU](https://www.amazon.it/dp/B07N4CV1BG/?tag=tolees00-21) con un 49.98 % de descuento con precio de oferta de 44.99 EUR (original: 89.95 EUR) en el siguiente enlace!

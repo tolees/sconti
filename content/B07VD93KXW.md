@@ -14,7 +14,7 @@ currency: EUR
 price: 8.48
 comparePrice: 19.95 EUR
 inStock: true
-prodname: CARPISA® Portafoglio donna  chiusura zip per porta carte di credito con portamonete - PERLA SPRING
+prodname: 'CARPISA® Portafoglio donna  chiusura zip per porta carte di credito con portamonete - PERLA SPRING'
 ---
 
 Está [CARPISA® Portafoglio donna  chiusura zip per porta carte di credito con portamonete - PERLA SPRING](https://www.amazon.it/dp/B07VD93KXW/?tag=tolees00-21) con 57.49 de descuento por 8.48 EUR (original: 19.95 EUR) en el siguiente enlace!

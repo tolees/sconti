@@ -14,7 +14,7 @@ currency: EUR
 price: 129.99
 comparePrice: 219.99 EUR
 inStock: true
-prodname: BISSELL EV675  Aspirapolvere Robot  18 V  Multisuperficie  2601N
+prodname: 'BISSELL EV675  Aspirapolvere Robot  18 V  Multisuperficie  2601N'
 ---
 
 Tienes [BISSELL EV675  Aspirapolvere Robot  18 V  Multisuperficie  2601N](https://www.amazon.it/dp/B07NZ7KMF5/?tag=tolees00-21) con un 40.91 % de descuento con precio de oferta de 129.99 EUR (original: 219.99 EUR) en el siguiente enlace!

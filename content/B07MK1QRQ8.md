@@ -14,7 +14,7 @@ currency: EUR
 price: 109.67
 comparePrice: 399.0 EUR
 inStock: true
-prodname: NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo
+prodname: 'NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo'
 ---
 
 Ahora mismo tienes [NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21) a 109.67 EUR (original: 399.0 EUR) (72.51 %  de descuento) en el siguiente enlace!

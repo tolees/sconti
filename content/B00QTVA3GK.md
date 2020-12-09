@@ -14,7 +14,7 @@ currency: EUR
 price: 9.84
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Kappa  Polo Uomo Peleot  Blu  Navy   M
+prodname: 'Kappa  Polo Uomo Peleot  Blu  Navy   M'
 ---
 
 Tienes [Kappa  Polo Uomo Peleot  Blu  Navy   M](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21) con un 50.68 % de descuento con precio de oferta de 9.84 EUR (original: 19.95 EUR) en el siguiente enlace!

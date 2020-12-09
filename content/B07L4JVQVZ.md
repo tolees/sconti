@@ -14,7 +14,7 @@ currency: EUR
 price: 4.75
 comparePrice: 11.9 EUR
 inStock: true
-prodname: Funko-36025 Fortnite Valor  Multicolore  36025
+prodname: 'Funko-36025 Fortnite Valor  Multicolore  36025'
 ---
 
 Está [Funko-36025 Fortnite Valor  Multicolore  36025](https://www.amazon.it/dp/B07L4JVQVZ/?tag=tolees00-21) con 60.08 de descuento por 4.75 EUR (original: 11.9 EUR) en el siguiente enlace!

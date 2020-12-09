@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 66.0 EUR
 inStock: true
-prodname: Logitech G502 HERO Special Edition Mouse Gaming dalle Prestazioni Elevate  Sensore HERO 16K  16000 DPI  RGB  Pesi Regolabili  11 Pulsanti Programmabili  Memoria Integrata  Mano destra  Bianco/Nero
+prodname: 'Logitech G502 HERO Special Edition Mouse Gaming dalle Prestazioni Elevate  Sensore HERO 16K  16000 DPI  RGB  Pesi Regolabili  11 Pulsanti Programmabili  Memoria Integrata  Mano destra  Bianco/Nero'
 ---
 
 Tienes [Logitech G502 HERO Special Edition Mouse Gaming dalle Prestazioni Elevate  Sensore HERO 16K  16000 DPI  RGB  Pesi Regolabili  11 Pulsanti Programmabili  Memoria Integrata  Mano destra  Bianco/Nero](https://www.amazon.it/dp/B07W7MQMD9/?tag=tolees00-21) con un 45.47 % de descuento con precio de oferta de 35.99 EUR (original: 66.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 399.0
 comparePrice: 679.0 EUR
 inStock: true
-prodname: Samsung Galaxy S10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  Batteria 4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Prism White
+prodname: 'Samsung Galaxy S10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  Batteria 4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Prism White'
 ---
 
 Está [Samsung Galaxy S10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  Batteria 4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Prism White](https://www.amazon.it/dp/B083KXDJS4/?tag=tolees00-21) con 41.24 de descuento por 399.0 EUR (original: 679.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Gears of War 5 Standard - Xbox One Codice download
+prodname: 'Gears of War 5 Standard - Xbox One Codice download'
 ---
 
 Está [Gears of War 5 Standard - Xbox One Codice download](https://www.amazon.it/dp/B07VPNNMPZ/?tag=tolees00-21) con 85.73 de descuento por 9.99 EUR (original: 69.99 EUR) en el siguiente enlace!

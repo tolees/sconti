@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Fire TV Stick 4K Ultra HD con telecomando vocale Alexa di ultima generazione | Lettore multimediale
+prodname: 'Fire TV Stick 4K Ultra HD con telecomando vocale Alexa di ultima generazione | Lettore multimediale'
 ---
 
 Está [Fire TV Stick 4K Ultra HD con telecomando vocale Alexa di ultima generazione | Lettore multimediale](https://www.amazon.it/dp/B07PW9VBK5/?tag=tolees00-21) con 33.34 de descuento por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

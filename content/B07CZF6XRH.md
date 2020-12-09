@@ -14,7 +14,7 @@ currency: EUR
 price: 26.15
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Under Armour Playoff 2.0  Polo Uomo  Nero  Black/Jet Gray/Pitch Gray 003   L
+prodname: 'Under Armour Playoff 2.0  Polo Uomo  Nero  Black/Jet Gray/Pitch Gray 003   L'
 ---
 
 Tienes [Under Armour Playoff 2.0  Polo Uomo  Nero  Black/Jet Gray/Pitch Gray 003   L](https://www.amazon.it/dp/B07CZF6XRH/?tag=tolees00-21) con un 41.82 % de descuento con precio de oferta de 26.15 EUR (original: 44.95 EUR) en el siguiente enlace!

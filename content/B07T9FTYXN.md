@@ -14,7 +14,7 @@ currency: EUR
 price: 10.32
 comparePrice: 15.7 EUR
 inStock: true
-prodname: Marchio Amazon - find. - Phrm3748  pullover uomo Uomo  Blu  Navy   XL  Label: XL
+prodname: 'Marchio Amazon - find. - Phrm3748  pullover uomo Uomo  Blu  Navy   XL  Label: XL'
 ---
 
 Está [Marchio Amazon - find. - Phrm3748  pullover uomo Uomo  Blu  Navy   XL  Label: XL](https://www.amazon.it/dp/B07T9FTYXN/?tag=tolees00-21) con 34.27 de descuento por 10.32 EUR (original: 15.7 EUR) en el siguiente enlace!

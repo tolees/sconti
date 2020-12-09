@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: JACK & JONES Jcorocky Jacket Noos Giacca  Nero  Black Pattern: Pu   X-Large Uomo
+prodname: 'JACK & JONES Jcorocky Jacket Noos Giacca  Nero  Black Pattern: Pu   X-Large Uomo'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcorocky Jacket Noos Giacca  Nero  Black Pattern: Pu   X-Large Uomo](https://www.amazon.it/dp/B07JZVVJJZ/?tag=tolees00-21) a 33.99 EUR (original: 59.99 EUR) (43.34 %  de descuento) en el siguiente enlace!

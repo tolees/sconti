@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 170.45 EUR
 inStock: true
-prodname: Philips X2HR/00 Fidelio Cuffie Auricolari Over Ear ad Alta Risoluzione  Over Ear  Cuscinetti morbidi di Gommapiuma Deluxe  Clip per Cavo  Nero
+prodname: 'Philips X2HR/00 Fidelio Cuffie Auricolari Over Ear ad Alta Risoluzione  Over Ear  Cuscinetti morbidi di Gommapiuma Deluxe  Clip per Cavo  Nero'
 ---
 
 Tienes [Philips X2HR/00 Fidelio Cuffie Auricolari Over Ear ad Alta Risoluzione  Over Ear  Cuscinetti morbidi di Gommapiuma Deluxe  Clip per Cavo  Nero](https://www.amazon.it/dp/B01N5VHLUG/?tag=tolees00-21) con un 41.34 % de descuento con precio de oferta de 99.99 EUR (original: 170.45 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.93
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Grandi Giochi Nè si Nè No  MB678552
+prodname: 'Grandi Giochi Nè si Nè No  MB678552'
 ---
 
 Está [Grandi Giochi Nè si Nè No  MB678552](https://www.amazon.it/dp/B00ECBDZSM/?tag=tolees00-21) con 30.00 de descuento por 13.93 EUR (original: 19.9 EUR) en el siguiente enlace!

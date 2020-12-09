@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Wrangler 80´s Retro Sweat Felpa  Blu  Navy 114   Medium Donna
+prodname: 'Wrangler 80´s Retro Sweat Felpa  Blu  Navy 114   Medium Donna'
 ---
 
 Tienes [Wrangler 80´s Retro Sweat Felpa  Blu  Navy 114   Medium Donna](https://www.amazon.it/dp/B07R2BYKTG/?tag=tolees00-21) con un 58.32 % de descuento con precio de oferta de 24.99 EUR (original: 59.95 EUR) en el siguiente enlace!

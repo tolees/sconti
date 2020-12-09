@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 21.89 EUR
 inStock: true
-prodname: Zep TY3846 Cornice portafoto  Multicolore  10 x 15 cm
+prodname: 'Zep TY3846 Cornice portafoto  Multicolore  10 x 15 cm'
 ---
 
 Está [Zep TY3846 Cornice portafoto  Multicolore  10 x 15 cm](https://www.amazon.it/dp/B01LYYBLFK/?tag=tolees00-21) con 45.23 de descuento por 11.99 EUR (original: 21.89 EUR) en el siguiente enlace!

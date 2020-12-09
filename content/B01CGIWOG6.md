@@ -14,7 +14,7 @@ currency: EUR
 price: 6.39
 comparePrice: 9.23 EUR
 inStock: true
-prodname: Brennenstuhl 1081025 Presa angolare per Caravan 400V/16A Schuko  IP44 
+prodname: 'Brennenstuhl 1081025 Presa angolare per Caravan 400V/16A Schuko  IP44 '
 ---
 
 Ahora mismo tienes [Brennenstuhl 1081025 Presa angolare per Caravan 400V/16A Schuko  IP44 ](https://www.amazon.it/dp/B01CGIWOG6/?tag=tolees00-21) a 6.39 EUR (original: 9.23 EUR) (30.77 %  de descuento) en el siguiente enlace!

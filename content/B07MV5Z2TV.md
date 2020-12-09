@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 56.99 EUR
 inStock: true
-prodname: Smerigliatrice Angolare da 900W  TACKLIFE 125mm e 12000 giri/min con Impugnatura Antivibrante  3 Ruote per Levigatura/Lucidatura/Taglio  2 Coperture Protettive per Ruote  P9AG125
+prodname: 'Smerigliatrice Angolare da 900W  TACKLIFE 125mm e 12000 giri/min con Impugnatura Antivibrante  3 Ruote per Levigatura/Lucidatura/Taglio  2 Coperture Protettive per Ruote  P9AG125'
 ---
 
 Ahora mismo tienes [Smerigliatrice Angolare da 900W  TACKLIFE 125mm e 12000 giri/min con Impugnatura Antivibrante  3 Ruote per Levigatura/Lucidatura/Taglio  2 Coperture Protettive per Ruote  P9AG125](https://www.amazon.it/dp/B07MV5Z2TV/?tag=tolees00-21) a 33.99 EUR (original: 56.99 EUR) (40.36 %  de descuento) en el siguiente enlace!

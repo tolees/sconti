@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 35.97 EUR
 inStock: true
-prodname: Dixan Discs Freschezza Di Vernel  Detersivo Lavatrice Predosato In Capsule  3X36 Lavaggi - 2700 Gr
+prodname: 'Dixan Discs Freschezza Di Vernel  Detersivo Lavatrice Predosato In Capsule  3X36 Lavaggi - 2700 Gr'
 ---
 
 Está [Dixan Discs Freschezza Di Vernel  Detersivo Lavatrice Predosato In Capsule  3X36 Lavaggi - 2700 Gr](https://www.amazon.it/dp/B08BVBRPML/?tag=tolees00-21) con 44.43 de descuento por 19.99 EUR (original: 35.97 EUR) en el siguiente enlace!

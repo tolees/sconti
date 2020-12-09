@@ -14,7 +14,7 @@ currency: EUR
 price: 7.49
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Maybelline New York Tattoo Brow Pomade Pot Cera per Sopracciglia Pigmentata Effetto Matte  Tenuta fino a 24h  Resistente all Acqua  05 Dark Brown
+prodname: 'Maybelline New York Tattoo Brow Pomade Pot Cera per Sopracciglia Pigmentata Effetto Matte  Tenuta fino a 24h  Resistente all Acqua  05 Dark Brown'
 ---
 
 Tienes [Maybelline New York Tattoo Brow Pomade Pot Cera per Sopracciglia Pigmentata Effetto Matte  Tenuta fino a 24h  Resistente all Acqua  05 Dark Brown](https://www.amazon.it/dp/B07DFVQ88J/?tag=tolees00-21) con un 50.03 % de descuento con precio de oferta de 7.49 EUR (original: 14.99 EUR) en el siguiente enlace!

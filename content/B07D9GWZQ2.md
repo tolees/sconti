@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 17.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Thong Slip Corda  Blu  Navy Blazer 416   44  Taglia Produttore: MD  Donna
+prodname: 'Tommy Hilfiger Thong Slip Corda  Blu  Navy Blazer 416   44  Taglia Produttore: MD  Donna'
 ---
 
 Está [Tommy Hilfiger Thong Slip Corda  Blu  Navy Blazer 416   44  Taglia Produttore: MD  Donna](https://www.amazon.it/dp/B07D9GWZQ2/?tag=tolees00-21) con 33.02 de descuento por 11.99 EUR (original: 17.9 EUR) en el siguiente enlace!

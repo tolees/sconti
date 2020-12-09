@@ -14,7 +14,7 @@ currency: EUR
 price: 29.98
 comparePrice: 49.0 EUR
 inStock: true
-prodname: Yespresso NESPRESSO compatibili  Cremoso Napoli - 200 Capsule
+prodname: 'Yespresso NESPRESSO compatibili  Cremoso Napoli - 200 Capsule'
 ---
 
 Ahora mismo tienes [Yespresso NESPRESSO compatibili  Cremoso Napoli - 200 Capsule](https://www.amazon.it/dp/B07CLQ2DDM/?tag=tolees00-21) a 29.98 EUR (original: 49.0 EUR) (38.82 %  de descuento) en el siguiente enlace!

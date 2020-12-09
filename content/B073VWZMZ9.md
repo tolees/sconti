@@ -14,7 +14,7 @@ currency: EUR
 price: 18.2
 comparePrice: 26.0 EUR
 inStock: true
-prodname: Havaianas Slim 4000030 Infradito Donna  Giallo  Banana Yellow   39/40 EU
+prodname: 'Havaianas Slim 4000030 Infradito Donna  Giallo  Banana Yellow   39/40 EU'
 ---
 
 Ahora mismo tienes [Havaianas Slim 4000030 Infradito Donna  Giallo  Banana Yellow   39/40 EU](https://www.amazon.it/dp/B073VWZMZ9/?tag=tolees00-21) a 18.2 EUR (original: 26.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

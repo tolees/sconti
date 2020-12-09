@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: SmartDevil Hub USB 3.0 4 Porte 5Gbps con Cavo USB 3.0 da 2M LED  Hub Multiporta USB Supporta Windows  Mac OS  Linux Compatibile con MacBook  PS4  Xbox 360 One One S ECC  Bianco 
+prodname: 'SmartDevil Hub USB 3.0 4 Porte 5Gbps con Cavo USB 3.0 da 2M LED  Hub Multiporta USB Supporta Windows  Mac OS  Linux Compatibile con MacBook  PS4  Xbox 360 One One S ECC  Bianco '
 ---
 
 Está [SmartDevil Hub USB 3.0 4 Porte 5Gbps con Cavo USB 3.0 da 2M LED  Hub Multiporta USB Supporta Windows  Mac OS  Linux Compatibile con MacBook  PS4  Xbox 360 One One S ECC  Bianco ](https://www.amazon.it/dp/B07WTVDMC3/?tag=tolees00-21) con 27.29 de descuento por 15.99 EUR (original: 21.99 EUR) en el siguiente enlace!

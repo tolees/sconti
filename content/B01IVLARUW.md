@@ -14,7 +14,7 @@ currency: EUR
 price: 38.36
 comparePrice: 76.8 EUR
 inStock: true
-prodname: Paco Rabanne 1 Million Privé Profumo - 50 Ml
+prodname: 'Paco Rabanne 1 Million Privé Profumo - 50 Ml'
 ---
 
 Tienes [Paco Rabanne 1 Million Privé Profumo - 50 Ml](https://www.amazon.it/dp/B01IVLARUW/?tag=tolees00-21) con un 50.05 % de descuento con precio de oferta de 38.36 EUR (original: 76.8 EUR) en el siguiente enlace!

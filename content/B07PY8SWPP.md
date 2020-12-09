@@ -14,7 +14,7 @@ currency: EUR
 price: 1.79
 comparePrice: 3.36 EUR
 inStock: true
-prodname: Motta Girella al Cacao  l Originale Merenda con Nuova Ricetta - 8 Merendine
+prodname: 'Motta Girella al Cacao  l Originale Merenda con Nuova Ricetta - 8 Merendine'
 ---
 
 Tienes [Motta Girella al Cacao  l Originale Merenda con Nuova Ricetta - 8 Merendine](https://www.amazon.it/dp/B07PY8SWPP/?tag=tolees00-21) con un 46.73 % de descuento con precio de oferta de 1.79 EUR (original: 3.36 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.0
 comparePrice: 26.0 EUR
 inStock: true
-prodname: Leifheit Portarotoli Parat ComfortLine per 3 Rotoli  Taglia Rotoli Preciso e Sempre Pulito  Portarotolo Cucina per Carta  Pellicola e Alluminio
+prodname: 'Leifheit Portarotoli Parat ComfortLine per 3 Rotoli  Taglia Rotoli Preciso e Sempre Pulito  Portarotolo Cucina per Carta  Pellicola e Alluminio'
 ---
 
 Tienes [Leifheit Portarotoli Parat ComfortLine per 3 Rotoli  Taglia Rotoli Preciso e Sempre Pulito  Portarotolo Cucina per Carta  Pellicola e Alluminio](https://www.amazon.it/dp/B001HHACHG/?tag=tolees00-21) con un 30.77 % de descuento con precio de oferta de 18.0 EUR (original: 26.0 EUR) en el siguiente enlace!

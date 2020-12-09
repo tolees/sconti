@@ -14,7 +14,7 @@ currency: EUR
 price: 18.94
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Mandarina Duck Essential  Portafoglio Donna  Argento  Silver   1.5x9x12 cm  W x H x L 
+prodname: 'Mandarina Duck Essential  Portafoglio Donna  Argento  Silver   1.5x9x12 cm  W x H x L '
 ---
 
 Está [Mandarina Duck Essential  Portafoglio Donna  Argento  Silver   1.5x9x12 cm  W x H x L ](https://www.amazon.it/dp/B07VC9BH2V/?tag=tolees00-21) con 72.94 de descuento por 18.94 EUR (original: 70.0 EUR) en el siguiente enlace!

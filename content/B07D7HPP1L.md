@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Havaianas Slim Tropical  Infradito Donna   Black/Graphite 1164   39/40 EU
+prodname: 'Havaianas Slim Tropical  Infradito Donna   Black/Graphite 1164   39/40 EU'
 ---
 
 Está [Havaianas Slim Tropical  Infradito Donna   Black/Graphite 1164   39/40 EU](https://www.amazon.it/dp/B07D7HPP1L/?tag=tolees00-21) con 33.37 de descuento por 19.99 EUR (original: 30.0 EUR) en el siguiente enlace!

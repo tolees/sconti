@@ -14,7 +14,7 @@ currency: EUR
 price: 53.95
 comparePrice: 135.0 EUR
 inStock: true
-prodname: Timberland Bradstreet 3 Eye  Scarpe da Barca Uomo  Marrone MD Brown Full Grain  43 EU
+prodname: 'Timberland Bradstreet 3 Eye  Scarpe da Barca Uomo  Marrone MD Brown Full Grain  43 EU'
 ---
 
 Tienes [Timberland Bradstreet 3 Eye  Scarpe da Barca Uomo  Marrone MD Brown Full Grain  43 EU](https://www.amazon.it/dp/B078SXWZNW/?tag=tolees00-21) con un 60.04 % de descuento con precio de oferta de 53.95 EUR (original: 135.0 EUR) en el siguiente enlace!

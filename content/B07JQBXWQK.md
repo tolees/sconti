@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny  Blu  Blue Denim Blue Denim   W30/L34  Taglia Produttore: 30  Uomo
+prodname: 'JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny  Blu  Blue Denim Blue Denim   W30/L34  Taglia Produttore: 30  Uomo'
 ---
 
 Tienes [JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny  Blu  Blue Denim Blue Denim   W30/L34  Taglia Produttore: 30  Uomo](https://www.amazon.it/dp/B07JQBXWQK/?tag=tolees00-21) con un 62.62 % de descuento con precio de oferta de 14.95 EUR (original: 39.99 EUR) en el siguiente enlace!

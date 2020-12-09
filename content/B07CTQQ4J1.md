@@ -14,7 +14,7 @@ currency: EUR
 price: 3.67
 comparePrice: 7.86 EUR
 inStock: true
-prodname: FIND - Classic Choice  Rossetto effetto lucido n.1 + Matita labbra n.9 
+prodname: 'FIND - Classic Choice  Rossetto effetto lucido n.1 + Matita labbra n.9 '
 ---
 
 Ahora mismo tienes [FIND - Classic Choice  Rossetto effetto lucido n.1 + Matita labbra n.9 ](https://www.amazon.it/dp/B07CTQQ4J1/?tag=tolees00-21) a 3.67 EUR (original: 7.86 EUR) (53.31 %  de descuento) en el siguiente enlace!

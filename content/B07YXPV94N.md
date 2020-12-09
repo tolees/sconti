@@ -14,7 +14,7 @@ currency: EUR
 price: 8.49
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Diyife Selfie Ring Light  [Ultima Versione] Ricaricabile Luce Dell Anello Selfie 3 Livelli di Luminosità 36 LED con Clip di Regolazione su Telefono Cellulare per Youtube  Facebook  Live Stream ECC
+prodname: 'Diyife Selfie Ring Light  [Ultima Versione] Ricaricabile Luce Dell Anello Selfie 3 Livelli di Luminosità 36 LED con Clip di Regolazione su Telefono Cellulare per Youtube  Facebook  Live Stream ECC'
 ---
 
 Tienes [Diyife Selfie Ring Light  [Ultima Versione] Ricaricabile Luce Dell Anello Selfie 3 Livelli di Luminosità 36 LED con Clip di Regolazione su Telefono Cellulare per Youtube  Facebook  Live Stream ECC](https://www.amazon.it/dp/B07YXPV94N/?tag=tolees00-21) con un 57.53 % de descuento con precio de oferta de 8.49 EUR (original: 19.99 EUR) en el siguiente enlace!

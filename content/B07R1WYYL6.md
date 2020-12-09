@@ -14,7 +14,7 @@ currency: EUR
 price: 11.47
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Catena Luminosa  22M 200 LED Luci Solari Natalizie  Luci Stringa Solare Interni ed Esterni Illuminazione per Decorazione Natale Giardino Patio Bianco Caldo [Classe di efficienza energetica A+++]
+prodname: 'Catena Luminosa  22M 200 LED Luci Solari Natalizie  Luci Stringa Solare Interni ed Esterni Illuminazione per Decorazione Natale Giardino Patio Bianco Caldo [Classe di efficienza energetica A+++]'
 ---
 
 Tienes [Catena Luminosa  22M 200 LED Luci Solari Natalizie  Luci Stringa Solare Interni ed Esterni Illuminazione per Decorazione Natale Giardino Patio Bianco Caldo [Classe di efficienza energetica A+++]](https://www.amazon.it/dp/B07R1WYYL6/?tag=tolees00-21) con un 28.27 % de descuento con precio de oferta de 11.47 EUR (original: 15.99 EUR) en el siguiente enlace!

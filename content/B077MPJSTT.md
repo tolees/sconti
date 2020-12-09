@@ -14,7 +14,7 @@ currency: EUR
 price: 36.97
 comparePrice: 54.95 EUR
 inStock: true
-prodname: PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Nero Black White  42.5 EU
+prodname: 'PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Nero Black White  42.5 EU'
 ---
 
 Ahora mismo tienes [PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Nero Black White  42.5 EU](https://www.amazon.it/dp/B077MPJSTT/?tag=tolees00-21) a 36.97 EUR (original: 54.95 EUR) (32.72 %  de descuento) en el siguiente enlace!

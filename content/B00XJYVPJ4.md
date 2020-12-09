@@ -14,7 +14,7 @@ currency: EUR
 price: 38.2
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  45.5 EU
+prodname: 'Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  45.5 EU'
 ---
 
 Tienes [Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  45.5 EU](https://www.amazon.it/dp/B00XJYVPJ4/?tag=tolees00-21) con un 57.53 % de descuento con precio de oferta de 38.2 EUR (original: 89.95 EUR) en el siguiente enlace!

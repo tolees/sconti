@@ -14,7 +14,7 @@ currency: EUR
 price: 38.5
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Nike Wmns Revolution 5  Scarpe da Corsa Womens  Black/White-Anthracite  40.5 EU
+prodname: 'Nike Wmns Revolution 5  Scarpe da Corsa Womens  Black/White-Anthracite  40.5 EU'
 ---
 
 Tienes [Nike Wmns Revolution 5  Scarpe da Corsa Womens  Black/White-Anthracite  40.5 EU](https://www.amazon.it/dp/B07NLVRH2Z/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 38.5 EUR (original: 55.0 EUR) en el siguiente enlace!

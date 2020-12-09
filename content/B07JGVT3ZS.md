@@ -14,7 +14,7 @@ currency: EUR
 price: 39.9
 comparePrice: 61.99 EUR
 inStock: true
-prodname: D-Link DCS-P6000LH Mini Telecamera  Wi-Fi  Visualizzazione Grandangolare 120°  Streaming 720p HD  Registrazione Cloud Gratuita  Funziona con Alexa  Nero
+prodname: 'D-Link DCS-P6000LH Mini Telecamera  Wi-Fi  Visualizzazione Grandangolare 120°  Streaming 720p HD  Registrazione Cloud Gratuita  Funziona con Alexa  Nero'
 ---
 
 Ahora mismo tienes [D-Link DCS-P6000LH Mini Telecamera  Wi-Fi  Visualizzazione Grandangolare 120°  Streaming 720p HD  Registrazione Cloud Gratuita  Funziona con Alexa  Nero](https://www.amazon.it/dp/B07JGVT3ZS/?tag=tolees00-21) a 39.9 EUR (original: 61.99 EUR) (35.63 %  de descuento) en el siguiente enlace!

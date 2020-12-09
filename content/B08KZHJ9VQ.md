@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 78.43 EUR
 inStock: true
-prodname: Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 HDD per PC  Mac  Xbox  Desktop  Laptop  MacBook 1TB Nero 
+prodname: 'Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 HDD per PC  Mac  Xbox  Desktop  Laptop  MacBook 1TB Nero '
 ---
 
 Tienes [Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 HDD per PC  Mac  Xbox  Desktop  Laptop  MacBook 1TB Nero ](https://www.amazon.it/dp/B08KZHJ9VQ/?tag=tolees00-21) con un 38.81 % de descuento con precio de oferta de 47.99 EUR (original: 78.43 EUR) en el siguiente enlace!

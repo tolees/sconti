@@ -14,7 +14,7 @@ currency: EUR
 price: 16.08
 comparePrice: 23.49 EUR
 inStock: true
-prodname: SNICKERS pz 24
+prodname: 'SNICKERS pz 24'
 ---
 
 Ahora mismo tienes [SNICKERS pz 24](https://www.amazon.it/dp/B00OBWB6BK/?tag=tolees00-21) a 16.08 EUR (original: 23.49 EUR) (31.55 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Eastor  supporto per tablet  supporto da scrivania con angolazione regolabile  per Samsung  Nexus 6P  Google Pixel  Sony  One Plus e Google More
+prodname: 'Eastor  supporto per tablet  supporto da scrivania con angolazione regolabile  per Samsung  Nexus 6P  Google Pixel  Sony  One Plus e Google More'
 ---
 
 Está [Eastor  supporto per tablet  supporto da scrivania con angolazione regolabile  per Samsung  Nexus 6P  Google Pixel  Sony  One Plus e Google More](https://www.amazon.it/dp/B08CL4CGJW/?tag=tolees00-21) con 53.37 de descuento por 6.99 EUR (original: 14.99 EUR) en el siguiente enlace!

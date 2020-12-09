@@ -14,7 +14,7 @@ currency: EUR
 price: 65.45
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Swarovski Collana Sparkling Dance Heart  Rosa  Placcatura Rodio
+prodname: 'Swarovski Collana Sparkling Dance Heart  Rosa  Placcatura Rodio'
 ---
 
 Tienes [Swarovski Collana Sparkling Dance Heart  Rosa  Placcatura Rodio](https://www.amazon.it/dp/B07KWLMJ5W/?tag=tolees00-21) con un 33.89 % de descuento con precio de oferta de 65.45 EUR (original: 99.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.3
 comparePrice: 22.69 EUR
 inStock: true
-prodname: Jodorowsky  Box 2 Br  La Montanga Sacra  El Topo 
+prodname: 'Jodorowsky  Box 2 Br  La Montanga Sacra  El Topo '
 ---
 
 Ahora mismo tienes [Jodorowsky  Box 2 Br  La Montanga Sacra  El Topo ](https://www.amazon.it/dp/B075MRGN6K/?tag=tolees00-21) a 10.3 EUR (original: 22.69 EUR) (54.61 %  de descuento) en el siguiente enlace!

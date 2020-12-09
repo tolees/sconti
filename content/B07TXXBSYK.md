@@ -14,7 +14,7 @@ currency: EUR
 price: 37.34
 comparePrice: 119.95 EUR
 inStock: true
-prodname: Wrangler Bomber Jacket  Beige  Sand 58N   Small Uomo
+prodname: 'Wrangler Bomber Jacket  Beige  Sand 58N   Small Uomo'
 ---
 
 Tienes [Wrangler Bomber Jacket  Beige  Sand 58N   Small Uomo](https://www.amazon.it/dp/B07TXXBSYK/?tag=tolees00-21) con un 68.87 % de descuento con precio de oferta de 37.34 EUR (original: 119.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 75.0
 comparePrice: 100.04 EUR
 inStock: true
-prodname: Seiko Orologio Analogico Automatico Uomo con Cinturino in Acciaio Inox SNKK07K1
+prodname: 'Seiko Orologio Analogico Automatico Uomo con Cinturino in Acciaio Inox SNKK07K1'
 ---
 
 Ahora mismo tienes [Seiko Orologio Analogico Automatico Uomo con Cinturino in Acciaio Inox SNKK07K1](https://www.amazon.it/dp/B004PBZIA2/?tag=tolees00-21) a 75.0 EUR (original: 100.04 EUR) (25.03 %  de descuento) en el siguiente enlace!

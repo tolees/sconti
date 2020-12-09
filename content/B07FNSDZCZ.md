@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LEGO Duplo Movie 2 - I visitatori dal pianeta DUPLO di Emmet e Lucy  10895
+prodname: 'LEGO Duplo Movie 2 - I visitatori dal pianeta DUPLO di Emmet e Lucy  10895'
 ---
 
 Ahora mismo tienes [LEGO Duplo Movie 2 - I visitatori dal pianeta DUPLO di Emmet e Lucy  10895](https://www.amazon.it/dp/B07FNSDZCZ/?tag=tolees00-21) a 21.99 EUR (original: 29.99 EUR) (26.68 %  de descuento) en el siguiente enlace!

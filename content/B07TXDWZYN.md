@@ -14,7 +14,7 @@ currency: EUR
 price: 41.74
 comparePrice: 90.0 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit Jeans  Baltic Navy Sueded Sateen WT B  28W / 32L Uomo
+prodname: 'Levi s 511 Slim Fit Jeans  Baltic Navy Sueded Sateen WT B  28W / 32L Uomo'
 ---
 
 Está [Levi s 511 Slim Fit Jeans  Baltic Navy Sueded Sateen WT B  28W / 32L Uomo](https://www.amazon.it/dp/B07TXDWZYN/?tag=tolees00-21) con 53.62 de descuento por 41.74 EUR (original: 90.0 EUR) en el siguiente enlace!

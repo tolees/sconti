@@ -14,7 +14,7 @@ currency: EUR
 price: 42.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: BRIKSMAX Kit di Illuminazione a LED per Lego Architecture Paris  Compatibile con Il Modello Lego 21044 Mattoncini da Costruzioni - Non Include Il Set Lego
+prodname: 'BRIKSMAX Kit di Illuminazione a LED per Lego Architecture Paris  Compatibile con Il Modello Lego 21044 Mattoncini da Costruzioni - Non Include Il Set Lego'
 ---
 
 Ahora mismo tienes [BRIKSMAX Kit di Illuminazione a LED per Lego Architecture Paris  Compatibile con Il Modello Lego 21044 Mattoncini da Costruzioni - Non Include Il Set Lego](https://www.amazon.it/dp/B07SQ1BS7X/?tag=tolees00-21) a 42.99 EUR (original: 99.99 EUR) (57.01 %  de descuento) en el siguiente enlace!

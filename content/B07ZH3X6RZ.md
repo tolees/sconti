@@ -14,7 +14,7 @@ currency: EUR
 price: 7.11
 comparePrice: 12.99 EUR
 inStock: true
-prodname: L Oréal Paris MakeUp Mascara Ciglia Finte Bambi Eye  Effetto Ciglia Finte  Volumizzante e Incurvante  Scovolino che Apre lo Sguardo  Extra Black  8.9 ml Confezione da 1
+prodname: 'L Oréal Paris MakeUp Mascara Ciglia Finte Bambi Eye  Effetto Ciglia Finte  Volumizzante e Incurvante  Scovolino che Apre lo Sguardo  Extra Black  8.9 ml Confezione da 1'
 ---
 
 Está [L Oréal Paris MakeUp Mascara Ciglia Finte Bambi Eye  Effetto Ciglia Finte  Volumizzante e Incurvante  Scovolino che Apre lo Sguardo  Extra Black  8.9 ml Confezione da 1](https://www.amazon.it/dp/B07ZH3X6RZ/?tag=tolees00-21) con 45.27 de descuento por 7.11 EUR (original: 12.99 EUR) en el siguiente enlace!

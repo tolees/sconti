@@ -14,7 +14,7 @@ currency: EUR
 price: 21.59
 comparePrice: 45.0 EUR
 inStock: true
-prodname: Diadora - Sneakers Jog Light C per Uomo e Donna  EU 44 
+prodname: 'Diadora - Sneakers Jog Light C per Uomo e Donna  EU 44 '
 ---
 
 Tienes [Diadora - Sneakers Jog Light C per Uomo e Donna  EU 44 ](https://www.amazon.it/dp/B07N1ZWYQQ/?tag=tolees00-21) con un 52.02 % de descuento con precio de oferta de 21.59 EUR (original: 45.0 EUR) en el siguiente enlace!

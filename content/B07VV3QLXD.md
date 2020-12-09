@@ -14,7 +14,7 @@ currency: EUR
 price: 20.62
 comparePrice: 28.43 EUR
 inStock: true
-prodname: bugatti 311896013500  Scarpe Stringate Derby Uomo  Marrone  Cognac 6300   40 EU
+prodname: 'bugatti 311896013500  Scarpe Stringate Derby Uomo  Marrone  Cognac 6300   40 EU'
 ---
 
 Tienes [bugatti 311896013500  Scarpe Stringate Derby Uomo  Marrone  Cognac 6300   40 EU](https://www.amazon.it/dp/B07VV3QLXD/?tag=tolees00-21) con un 27.47 % de descuento con precio de oferta de 20.62 EUR (original: 28.43 EUR) en el siguiente enlace!

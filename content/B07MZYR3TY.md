@@ -14,7 +14,7 @@ currency: EUR
 price: 23.94
 comparePrice: 34.29 EUR
 inStock: true
-prodname: Nescafé Dolce Gusto Espresso Napoli Caffè  6 Confezioni da 16 Capsule  96 Capsule 
+prodname: 'Nescafé Dolce Gusto Espresso Napoli Caffè  6 Confezioni da 16 Capsule  96 Capsule '
 ---
 
 Tienes [Nescafé Dolce Gusto Espresso Napoli Caffè  6 Confezioni da 16 Capsule  96 Capsule ](https://www.amazon.it/dp/B07MZYR3TY/?tag=tolees00-21) con un 30.18 % de descuento con precio de oferta de 23.94 EUR (original: 34.29 EUR) en el siguiente enlace!

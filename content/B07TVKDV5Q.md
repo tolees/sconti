@@ -14,7 +14,7 @@ currency: EUR
 price: 34.0
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Swarovski Braccialetto Power Collection  Grigio Scuro
+prodname: 'Swarovski Braccialetto Power Collection  Grigio Scuro'
 ---
 
 Está [Swarovski Braccialetto Power Collection  Grigio Scuro](https://www.amazon.it/dp/B07TVKDV5Q/?tag=tolees00-21) con 50.72 de descuento por 34.0 EUR (original: 69.0 EUR) en el siguiente enlace!

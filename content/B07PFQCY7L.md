@@ -14,7 +14,7 @@ currency: EUR
 price: 54.9
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Moulinex FP2461 Easy Force  Robot da Cucina All-in-One  6 Accessori per 25 Diverse Funzioni  Capacità Recipiente 2.4 L
+prodname: 'Moulinex FP2461 Easy Force  Robot da Cucina All-in-One  6 Accessori per 25 Diverse Funzioni  Capacità Recipiente 2.4 L'
 ---
 
 Ahora mismo tienes [Moulinex FP2461 Easy Force  Robot da Cucina All-in-One  6 Accessori per 25 Diverse Funzioni  Capacità Recipiente 2.4 L](https://www.amazon.it/dp/B07PFQCY7L/?tag=tolees00-21) a 54.9 EUR (original: 79.99 EUR) (31.37 %  de descuento) en el siguiente enlace!

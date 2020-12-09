@@ -14,7 +14,7 @@ currency: EUR
 price: 26.56
 comparePrice: 39.55 EUR
 inStock: true
-prodname: Geox D Ophira C  Scarpe da Ginnastica Basse Donna  Argento  Lt Grey/Silver C1355   40 EU
+prodname: 'Geox D Ophira C  Scarpe da Ginnastica Basse Donna  Argento  Lt Grey/Silver C1355   40 EU'
 ---
 
 Tienes [Geox D Ophira C  Scarpe da Ginnastica Basse Donna  Argento  Lt Grey/Silver C1355   40 EU](https://www.amazon.it/dp/B07SSK31DX/?tag=tolees00-21) con un 32.84 % de descuento con precio de oferta de 26.56 EUR (original: 39.55 EUR) en el siguiente enlace!

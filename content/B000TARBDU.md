@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 16.0 EUR
 inStock: true
-prodname: Pyrex Essentials Tegame Rettangolare  40x27cm
+prodname: 'Pyrex Essentials Tegame Rettangolare  40x27cm'
 ---
 
 Está [Pyrex Essentials Tegame Rettangolare  40x27cm](https://www.amazon.it/dp/B000TARBDU/?tag=tolees00-21) con 43.81 de descuento por 8.99 EUR (original: 16.0 EUR) en el siguiente enlace!

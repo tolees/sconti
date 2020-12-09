@@ -14,7 +14,7 @@ currency: EUR
 price: 1.49
 comparePrice: 2.19 EUR
 inStock: true
-prodname: Tigullio GranPesto Pomodori Secchi e Pistacchi - 190 g
+prodname: 'Tigullio GranPesto Pomodori Secchi e Pistacchi - 190 g'
 ---
 
 Ahora mismo tienes [Tigullio GranPesto Pomodori Secchi e Pistacchi - 190 g](https://www.amazon.it/dp/B07GRZ4MWC/?tag=tolees00-21) a 1.49 EUR (original: 2.19 EUR) (31.96 %  de descuento) en el siguiente enlace!

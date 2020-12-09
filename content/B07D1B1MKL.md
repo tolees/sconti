@@ -14,7 +14,7 @@ currency: EUR
 price: 5.4
 comparePrice: 23.88 EUR
 inStock: true
-prodname: Marchio Amazon - find. Gonna Donna  Rosso  Red   48  Label: XL
+prodname: 'Marchio Amazon - find. Gonna Donna  Rosso  Red   48  Label: XL'
 ---
 
 Tienes [Marchio Amazon - find. Gonna Donna  Rosso  Red   48  Label: XL](https://www.amazon.it/dp/B07D1B1MKL/?tag=tolees00-21) con un 77.39 % de descuento con precio de oferta de 5.4 EUR (original: 23.88 EUR) en el siguiente enlace!

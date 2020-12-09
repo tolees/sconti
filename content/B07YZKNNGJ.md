@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Head & Shoulders Shampoo e Balsamo Antiforfora Suprême Idrata  con Olio di Argan e Ingredienti Sublimatori  2 x 225 ml + 2 x 220 ml
+prodname: 'Head & Shoulders Shampoo e Balsamo Antiforfora Suprême Idrata  con Olio di Argan e Ingredienti Sublimatori  2 x 225 ml + 2 x 220 ml'
 ---
 
 Tienes [Head & Shoulders Shampoo e Balsamo Antiforfora Suprême Idrata  con Olio di Argan e Ingredienti Sublimatori  2 x 225 ml + 2 x 220 ml](https://www.amazon.it/dp/B07YZKNNGJ/?tag=tolees00-21) con un 26.68 % de descuento con precio de oferta de 10.99 EUR (original: 14.99 EUR) en el siguiente enlace!

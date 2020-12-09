@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Telecamera di sicurezza a cupola da interni per sorveglianza domestica Imou dotata di Wi-Fi risoluzione 1080P  rilevamento antintrusione  tracking intelligente  modalità privacy
+prodname: 'Telecamera di sicurezza a cupola da interni per sorveglianza domestica Imou dotata di Wi-Fi risoluzione 1080P  rilevamento antintrusione  tracking intelligente  modalità privacy'
 ---
 
 Tienes [Telecamera di sicurezza a cupola da interni per sorveglianza domestica Imou dotata di Wi-Fi risoluzione 1080P  rilevamento antintrusione  tracking intelligente  modalità privacy](https://www.amazon.it/dp/B07RWTH99Q/?tag=tolees00-21) con un 27.28 % de descuento con precio de oferta de 39.99 EUR (original: 54.99 EUR) en el siguiente enlace!

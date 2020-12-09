@@ -14,7 +14,7 @@ currency: EUR
 price: 11.57
 comparePrice: 22.7 EUR
 inStock: true
-prodname: Marchio Amazon - Meraki Maglione in Cotone Uomo  Nero  Black   S  Label: S
+prodname: 'Marchio Amazon - Meraki Maglione in Cotone Uomo  Nero  Black   S  Label: S'
 ---
 
 Tienes [Marchio Amazon - Meraki Maglione in Cotone Uomo  Nero  Black   S  Label: S](https://www.amazon.it/dp/B07TD6FYH6/?tag=tolees00-21) con un 49.03 % de descuento con precio de oferta de 11.57 EUR (original: 22.7 EUR) en el siguiente enlace!

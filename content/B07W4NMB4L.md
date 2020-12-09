@@ -14,7 +14,7 @@ currency: EUR
 price: 20.32
 comparePrice: 43.81 EUR
 inStock: true
-prodname: Tommy Hilfiger Squares Tee Maglietta  Blu  Blue Ink   XX-Large Uomo
+prodname: 'Tommy Hilfiger Squares Tee Maglietta  Blu  Blue Ink   XX-Large Uomo'
 ---
 
 Está [Tommy Hilfiger Squares Tee Maglietta  Blu  Blue Ink   XX-Large Uomo](https://www.amazon.it/dp/B07W4NMB4L/?tag=tolees00-21) con 53.62 de descuento por 20.32 EUR (original: 43.81 EUR) en el siguiente enlace!

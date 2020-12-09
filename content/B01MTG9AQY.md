@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 37.9 EUR
 inStock: true
-prodname: Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904   Small Uomo
+prodname: 'Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904   Small Uomo'
 ---
 
 Está [Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904   Small Uomo](https://www.amazon.it/dp/B01MTG9AQY/?tag=tolees00-21) con 34.06 de descuento por 24.99 EUR (original: 37.9 EUR) en el siguiente enlace!

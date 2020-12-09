@@ -14,7 +14,7 @@ currency: EUR
 price: 44.5
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Ravensburger 26275 Disney Villainous  Gioco da Tavolo  per 2-6 Giocatori  Età Consigliata 10+  Versione in Italiano 
+prodname: 'Ravensburger 26275 Disney Villainous  Gioco da Tavolo  per 2-6 Giocatori  Età Consigliata 10+  Versione in Italiano '
 ---
 
 Tienes [Ravensburger 26275 Disney Villainous  Gioco da Tavolo  per 2-6 Giocatori  Età Consigliata 10+  Versione in Italiano ](https://www.amazon.it/dp/B07SJSMBFT/?tag=tolees00-21) con un 25.82 % de descuento con precio de oferta de 44.5 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.23
 comparePrice: 36.17 EUR
 inStock: true
-prodname: Lark & Ro Stretch Twill Gathered Sleeve Dress Dresses  Cruz V2 Fresh Foam  US 12  EU L 
+prodname: 'Lark & Ro Stretch Twill Gathered Sleeve Dress Dresses  Cruz V2 Fresh Foam  US 12  EU L '
 ---
 
 Tienes [Lark & Ro Stretch Twill Gathered Sleeve Dress Dresses  Cruz V2 Fresh Foam  US 12  EU L ](https://www.amazon.it/dp/B07PMBDH3S/?tag=tolees00-21) con un 60.66 % de descuento con precio de oferta de 14.23 EUR (original: 36.17 EUR) en el siguiente enlace!

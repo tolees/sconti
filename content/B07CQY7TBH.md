@@ -14,7 +14,7 @@ currency: EUR
 price: 108.71
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Potensic Drone GPS Telecamera 1080P Drone Professionale T25 Dual GPS con Grandangolare Regolabile Camera HD WiFi FPV Quadricottero Funzione Seguimi modalità Senza Testa
+prodname: 'Potensic Drone GPS Telecamera 1080P Drone Professionale T25 Dual GPS con Grandangolare Regolabile Camera HD WiFi FPV Quadricottero Funzione Seguimi modalità Senza Testa'
 ---
 
 Está [Potensic Drone GPS Telecamera 1080P Drone Professionale T25 Dual GPS con Grandangolare Regolabile Camera HD WiFi FPV Quadricottero Funzione Seguimi modalità Senza Testa](https://www.amazon.it/dp/B07CQY7TBH/?tag=tolees00-21) con 45.64 de descuento por 108.71 EUR (original: 199.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 115.0 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit Jeans  Blu Spears ADV  31W / 32L Uomo
+prodname: 'Levi s 511 Slim Fit Jeans  Blu Spears ADV  31W / 32L Uomo'
 ---
 
 Está [Levi s 511 Slim Fit Jeans  Blu Spears ADV  31W / 32L Uomo](https://www.amazon.it/dp/B07RXL16KK/?tag=tolees00-21) con 47.83 de descuento por 59.99 EUR (original: 115.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 327.0
 comparePrice: 479.9 EUR
 inStock: true
-prodname: Samsung Galaxy A71 Smartphone  Metallic Silver
+prodname: 'Samsung Galaxy A71 Smartphone  Metallic Silver'
 ---
 
 Ahora mismo tienes [Samsung Galaxy A71 Smartphone  Metallic Silver](https://www.amazon.it/dp/B08FXN8TSM/?tag=tolees00-21) a 327.0 EUR (original: 479.9 EUR) (31.86 %  de descuento) en el siguiente enlace!

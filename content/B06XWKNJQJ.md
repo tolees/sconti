@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Imetec Bellissima Magic Straight Brush PB5 100 Spazzola Elettrica Lisciante per Capelli  Effetto Liscio Naturale  Setole Rivestite in Ceramica  Fino a 200° C  Technologia Ioni
+prodname: 'Imetec Bellissima Magic Straight Brush PB5 100 Spazzola Elettrica Lisciante per Capelli  Effetto Liscio Naturale  Setole Rivestite in Ceramica  Fino a 200° C  Technologia Ioni'
 ---
 
 Está [Imetec Bellissima Magic Straight Brush PB5 100 Spazzola Elettrica Lisciante per Capelli  Effetto Liscio Naturale  Setole Rivestite in Ceramica  Fino a 200° C  Technologia Ioni](https://www.amazon.it/dp/B06XWKNJQJ/?tag=tolees00-21) con 49.93 de descuento por 29.99 EUR (original: 59.9 EUR) en el siguiente enlace!

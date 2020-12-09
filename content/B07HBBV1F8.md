@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 429.0 EUR
 inStock: true
-prodname: Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza Filo  Rosa
+prodname: 'Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza Filo  Rosa'
 ---
 
 Está [Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza Filo  Rosa](https://www.amazon.it/dp/B07HBBV1F8/?tag=tolees00-21) con 53.61 de descuento por 199.0 EUR (original: 429.0 EUR) en el siguiente enlace!

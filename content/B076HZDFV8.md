@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Lego Ninjago - Il Film  4K+Br 
+prodname: 'Lego Ninjago - Il Film  4K+Br '
 ---
 
 Ahora mismo tienes [Lego Ninjago - Il Film  4K+Br ](https://www.amazon.it/dp/B076HZDFV8/?tag=tolees00-21) a 10.99 EUR (original: 29.99 EUR) (63.35 %  de descuento) en el siguiente enlace!

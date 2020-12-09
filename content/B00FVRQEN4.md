@@ -14,7 +14,7 @@ currency: EUR
 price: 48.0
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Swarovski Collana Swan  Bianco  Placcatura Rodio
+prodname: 'Swarovski Collana Swan  Bianco  Placcatura Rodio'
 ---
 
 Ahora mismo tienes [Swarovski Collana Swan  Bianco  Placcatura Rodio](https://www.amazon.it/dp/B00FVRQEN4/?tag=tolees00-21) a 48.0 EUR (original: 79.0 EUR) (39.24 %  de descuento) en el siguiente enlace!

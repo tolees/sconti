@@ -14,7 +14,7 @@ currency: EUR
 price: 64.9
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Imetec ZeroCalc PS1 2000  Ferro da Stiro Compatto  fino a 3.8 BAR di Pressione alla Pompa  Tecnologia Anticalcare e a Risparmio Energetico  Ricarica Continua  Vapore Pronto in Un Minuto  2100 W
+prodname: 'Imetec ZeroCalc PS1 2000  Ferro da Stiro Compatto  fino a 3.8 BAR di Pressione alla Pompa  Tecnologia Anticalcare e a Risparmio Energetico  Ricarica Continua  Vapore Pronto in Un Minuto  2100 W'
 ---
 
 Ahora mismo tienes [Imetec ZeroCalc PS1 2000  Ferro da Stiro Compatto  fino a 3.8 BAR di Pressione alla Pompa  Tecnologia Anticalcare e a Risparmio Energetico  Ricarica Continua  Vapore Pronto in Un Minuto  2100 W](https://www.amazon.it/dp/B07P35DTPJ/?tag=tolees00-21) a 64.9 EUR (original: 99.9 EUR) (35.04 %  de descuento) en el siguiente enlace!

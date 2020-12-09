@@ -14,7 +14,7 @@ currency: EUR
 price: 1.83
 comparePrice: 2.99 EUR
 inStock: true
-prodname: Chilly Detergente Intimo Delicato  200 ml
+prodname: 'Chilly Detergente Intimo Delicato  200 ml'
 ---
 
 Tienes [Chilly Detergente Intimo Delicato  200 ml](https://www.amazon.it/dp/B00XI1NJBK/?tag=tolees00-21) con un 38.80 % de descuento con precio de oferta de 1.83 EUR (original: 2.99 EUR) en el siguiente enlace!

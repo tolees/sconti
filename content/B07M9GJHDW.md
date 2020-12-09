@@ -14,7 +14,7 @@ currency: EUR
 price: 45.72
 comparePrice: 80.61 EUR
 inStock: true
-prodname: Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Orchid 69  42 EU
+prodname: 'Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Orchid 69  42 EU'
 ---
 
 Tienes [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Orchid 69  42 EU](https://www.amazon.it/dp/B07M9GJHDW/?tag=tolees00-21) con un 43.28 % de descuento con precio de oferta de 45.72 EUR (original: 80.61 EUR) en el siguiente enlace!

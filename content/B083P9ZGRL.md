@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Rowenta RO2913  Aspirapolvere a Traino Senza Sacco  750 W  Tecnologia Ciclonica  Design Compatto  Leggero  Filtro ad Alta efficienza  Colore Rosso  RO2913EA
+prodname: 'Rowenta RO2913  Aspirapolvere a Traino Senza Sacco  750 W  Tecnologia Ciclonica  Design Compatto  Leggero  Filtro ad Alta efficienza  Colore Rosso  RO2913EA'
 ---
 
 Está [Rowenta RO2913  Aspirapolvere a Traino Senza Sacco  750 W  Tecnologia Ciclonica  Design Compatto  Leggero  Filtro ad Alta efficienza  Colore Rosso  RO2913EA](https://www.amazon.it/dp/B083P9ZGRL/?tag=tolees00-21) con 40.09 de descuento por 59.9 EUR (original: 99.99 EUR) en el siguiente enlace!

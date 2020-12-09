@@ -14,7 +14,7 @@ currency: EUR
 price: 38.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Star Wars Jedi Fallen Order - Xbox One
+prodname: 'Star Wars Jedi Fallen Order - Xbox One'
 ---
 
 Tienes [Star Wars Jedi Fallen Order - Xbox One](https://www.amazon.it/dp/B07QKV3GZP/?tag=tolees00-21) con un 44.29 % de descuento con precio de oferta de 38.99 EUR (original: 69.99 EUR) en el siguiente enlace!

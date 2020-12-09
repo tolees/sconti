@@ -14,7 +14,7 @@ currency: EUR
 price: 17.97
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Under Armour Rival Fleece Po Felpa  Uomo  Grigio  XL
+prodname: 'Under Armour Rival Fleece Po Felpa  Uomo  Grigio  XL'
 ---
 
 Tienes [Under Armour Rival Fleece Po Felpa  Uomo  Grigio  XL](https://www.amazon.it/dp/B077XNBKQY/?tag=tolees00-21) con un 64.05 % de descuento con precio de oferta de 17.97 EUR (original: 49.99 EUR) en el siguiente enlace!

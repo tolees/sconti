@@ -14,7 +14,7 @@ currency: EUR
 price: 21.95
 comparePrice: 59.99 EUR
 inStock: true
-prodname: McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento di 1 anno | PC/Mac/Smartphone/Tablet | Codice di attivazione via posta
+prodname: 'McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento di 1 anno | PC/Mac/Smartphone/Tablet | Codice di attivazione via posta'
 ---
 
 Tienes [McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento di 1 anno | PC/Mac/Smartphone/Tablet | Codice di attivazione via posta](https://www.amazon.it/dp/B078XXGHP7/?tag=tolees00-21) con un 63.41 % de descuento con precio de oferta de 21.95 EUR (original: 59.99 EUR) en el siguiente enlace!

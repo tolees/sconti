@@ -14,7 +14,7 @@ currency: EUR
 price: 11.22
 comparePrice: 15.13 EUR
 inStock: true
-prodname: Marchio Amazon - find. Vestito Mini a Portafoglio in Cotone Donna  Verde  Sea Foam Green   42  Label: S
+prodname: 'Marchio Amazon - find. Vestito Mini a Portafoglio in Cotone Donna  Verde  Sea Foam Green   42  Label: S'
 ---
 
 Está [Marchio Amazon - find. Vestito Mini a Portafoglio in Cotone Donna  Verde  Sea Foam Green   42  Label: S](https://www.amazon.it/dp/B07WDYJ4T1/?tag=tolees00-21) con 25.84 de descuento por 11.22 EUR (original: 15.13 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.05
 comparePrice: 45.0 EUR
 inStock: true
-prodname: Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   X-Small  Taglia Produttore: 2  Uomo
+prodname: 'Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   X-Small  Taglia Produttore: 2  Uomo'
 ---
 
 Ahora mismo tienes [Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   X-Small  Taglia Produttore: 2  Uomo](https://www.amazon.it/dp/B074GVZLYX/?tag=tolees00-21) a 30.05 EUR (original: 45.0 EUR) (33.22 %  de descuento) en el siguiente enlace!

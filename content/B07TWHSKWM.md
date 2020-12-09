@@ -14,7 +14,7 @@ currency: EUR
 price: 25.28
 comparePrice: 59.0 EUR
 inStock: true
-prodname: SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Uomo  Blu  Blue Royal M29   48 EU
+prodname: 'SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Uomo  Blu  Blue Royal M29   48 EU'
 ---
 
 Está [SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Uomo  Blu  Blue Royal M29   48 EU](https://www.amazon.it/dp/B07TWHSKWM/?tag=tolees00-21) con 57.15 de descuento por 25.28 EUR (original: 59.0 EUR) en el siguiente enlace!

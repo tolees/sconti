@@ -14,7 +14,7 @@ currency: EUR
 price: 35.93
 comparePrice: 54.45 EUR
 inStock: true
-prodname: Metaltex Thunder - Stendibiancheria Verticale a 3 Piani -  405850 
+prodname: 'Metaltex Thunder - Stendibiancheria Verticale a 3 Piani -  405850 '
 ---
 
 Tienes [Metaltex Thunder - Stendibiancheria Verticale a 3 Piani -  405850 ](https://www.amazon.it/dp/B01LW09RYZ/?tag=tolees00-21) con un 34.01 % de descuento con precio de oferta de 35.93 EUR (original: 54.45 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.47
 comparePrice: 14.95 EUR
 inStock: true
-prodname: goldenpoint Slipper Donna Pon Pon
+prodname: 'goldenpoint Slipper Donna Pon Pon'
 ---
 
 Está [goldenpoint Slipper Donna Pon Pon](https://www.amazon.it/dp/B08N6WC5CH/?tag=tolees00-21) con 29.97 de descuento por 10.47 EUR (original: 14.95 EUR) en el siguiente enlace!

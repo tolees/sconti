@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Under Armour UA Roland Backpack  Borsa Unisex  Nero  Black/Black/Silver   Taglia unica
+prodname: 'Under Armour UA Roland Backpack  Borsa Unisex  Nero  Black/Black/Silver   Taglia unica'
 ---
 
 Está [Under Armour UA Roland Backpack  Borsa Unisex  Nero  Black/Black/Silver   Taglia unica](https://www.amazon.it/dp/B07CZBR5LV/?tag=tolees00-21) con 49.98 de descuento por 15.0 EUR (original: 29.99 EUR) en el siguiente enlace!

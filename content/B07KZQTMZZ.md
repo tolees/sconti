@@ -14,7 +14,7 @@ currency: EUR
 price: 46.19
 comparePrice: 115.48 EUR
 inStock: true
-prodname: Sharplace Baldacchino per Bambini con Zanzariera Appesa Tenda da Gioco -S -Pink Pom Pom Net
+prodname: 'Sharplace Baldacchino per Bambini con Zanzariera Appesa Tenda da Gioco -S -Pink Pom Pom Net'
 ---
 
 Ahora mismo tienes [Sharplace Baldacchino per Bambini con Zanzariera Appesa Tenda da Gioco -S -Pink Pom Pom Net](https://www.amazon.it/dp/B07KZQTMZZ/?tag=tolees00-21) a 46.19 EUR (original: 115.48 EUR) (60.00 %  de descuento) en el siguiente enlace!

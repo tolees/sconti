@@ -14,7 +14,7 @@ currency: EUR
 price: 0.99
 comparePrice: 1.32 EUR
 inStock: true
-prodname: Gran Cereale Biscotti Gran Cereale al Cioccolato  Biscotti dal Gusto Pieno Ricchi di Fibra e Fosforo - 230 g
+prodname: 'Gran Cereale Biscotti Gran Cereale al Cioccolato  Biscotti dal Gusto Pieno Ricchi di Fibra e Fosforo - 230 g'
 ---
 
 Está [Gran Cereale Biscotti Gran Cereale al Cioccolato  Biscotti dal Gusto Pieno Ricchi di Fibra e Fosforo - 230 g](https://www.amazon.it/dp/B001OHWAA6/?tag=tolees00-21) con 25.00 de descuento por 0.99 EUR (original: 1.32 EUR) en el siguiente enlace!

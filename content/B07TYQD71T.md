@@ -14,7 +14,7 @@ currency: EUR
 price: 14.31
 comparePrice: 65.0 EUR
 inStock: true
-prodname: SUPERGA 2750-COTCONTRASTU  Sneaker Unisex-Adult  Bianco  White/Violet Purple A0b   37.5 EU
+prodname: 'SUPERGA 2750-COTCONTRASTU  Sneaker Unisex-Adult  Bianco  White/Violet Purple A0b   37.5 EU'
 ---
 
 Tienes [SUPERGA 2750-COTCONTRASTU  Sneaker Unisex-Adult  Bianco  White/Violet Purple A0b   37.5 EU](https://www.amazon.it/dp/B07TYQD71T/?tag=tolees00-21) con un 77.98 % de descuento con precio de oferta de 14.31 EUR (original: 65.0 EUR) en el siguiente enlace!

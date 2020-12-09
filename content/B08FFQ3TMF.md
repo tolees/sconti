@@ -14,7 +14,7 @@ currency: EUR
 price: 33.9
 comparePrice: 48.6 EUR
 inStock: true
-prodname: JANRSTIC Calzini Riscaldati  Calzini Termici Caldi Ricaricabili Elettrici  Calzini Termici Riscaldanti per Uomo Donna Scaldapiedi da Campeggio per Equitazione  Sci  Motociclismo  Spalare la Neve
+prodname: 'JANRSTIC Calzini Riscaldati  Calzini Termici Caldi Ricaricabili Elettrici  Calzini Termici Riscaldanti per Uomo Donna Scaldapiedi da Campeggio per Equitazione  Sci  Motociclismo  Spalare la Neve'
 ---
 
 Ahora mismo tienes [JANRSTIC Calzini Riscaldati  Calzini Termici Caldi Ricaricabili Elettrici  Calzini Termici Riscaldanti per Uomo Donna Scaldapiedi da Campeggio per Equitazione  Sci  Motociclismo  Spalare la Neve](https://www.amazon.it/dp/B08FFQ3TMF/?tag=tolees00-21) a 33.9 EUR (original: 48.6 EUR) (30.25 %  de descuento) en el siguiente enlace!

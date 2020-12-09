@@ -14,7 +14,7 @@ currency: EUR
 price: 48.33
 comparePrice: 80.0 EUR
 inStock: true
-prodname: New Balance 373 Core  Sneaker Uomo  Verde  Green/White Cb2 
+prodname: 'New Balance 373 Core  Sneaker Uomo  Verde  Green/White Cb2 '
 ---
 
 Ahora mismo tienes [New Balance 373 Core  Sneaker Uomo  Verde  Green/White Cb2 ](https://www.amazon.it/dp/B07S2QMG8D/?tag=tolees00-21) a 48.33 EUR (original: 80.0 EUR) (39.59 %  de descuento) en el siguiente enlace!

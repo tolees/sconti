@@ -14,7 +14,7 @@ currency: EUR
 price: 197.99
 comparePrice: 299.0 EUR
 inStock: true
-prodname: Audio Technica ATH-ANC900BTUS QuietPoint Wireless Active Noise-Cancelling Headphones  Black 
+prodname: 'Audio Technica ATH-ANC900BTUS QuietPoint Wireless Active Noise-Cancelling Headphones  Black '
 ---
 
 Ahora mismo tienes [Audio Technica ATH-ANC900BTUS QuietPoint Wireless Active Noise-Cancelling Headphones  Black ](https://www.amazon.it/dp/B07N3RPPB7/?tag=tolees00-21) a 197.99 EUR (original: 299.0 EUR) (33.78 %  de descuento) en el siguiente enlace!

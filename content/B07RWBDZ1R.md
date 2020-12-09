@@ -14,7 +14,7 @@ currency: EUR
 price: 13.15
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Havaianas Top Logomania  Infradito Unisex-Adulto  Blu  Navy Blue 0555   43/44 EU
+prodname: 'Havaianas Top Logomania  Infradito Unisex-Adulto  Blu  Navy Blue 0555   43/44 EU'
 ---
 
 Tienes [Havaianas Top Logomania  Infradito Unisex-Adulto  Blu  Navy Blue 0555   43/44 EU](https://www.amazon.it/dp/B07RWBDZ1R/?tag=tolees00-21) con un 34.25 % de descuento con precio de oferta de 13.15 EUR (original: 20.0 EUR) en el siguiente enlace!

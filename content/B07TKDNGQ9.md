@@ -14,7 +14,7 @@ currency: EUR
 price: 12.5
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010   X-Small Uomo
+prodname: 'Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010   X-Small Uomo'
 ---
 
 Tienes [Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010   X-Small Uomo](https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 12.5 EUR (original: 25.0 EUR) en el siguiente enlace!

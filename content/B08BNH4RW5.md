@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Auricolari Bluetooth Cuffie Bluetooth 5.0 Auricolari Del Rumore 3D Lsolamento Acustico Stereo Impermeabile IPX7 per iPhone Android Apple Airpods
+prodname: 'Auricolari Bluetooth Cuffie Bluetooth 5.0 Auricolari Del Rumore 3D Lsolamento Acustico Stereo Impermeabile IPX7 per iPhone Android Apple Airpods'
 ---
 
 Ahora mismo tienes [Auricolari Bluetooth Cuffie Bluetooth 5.0 Auricolari Del Rumore 3D Lsolamento Acustico Stereo Impermeabile IPX7 per iPhone Android Apple Airpods](https://www.amazon.it/dp/B08BNH4RW5/?tag=tolees00-21) a 35.99 EUR (original: 59.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

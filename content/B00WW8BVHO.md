@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Braun Series 3 ProSkin 3040s Rasoio da Barba Elettrico a Lamina  Rasoio Elettrico da Uomo Ricaricabile e senza Fili  Wet&Dry  con Rifinitore di Precisione Estraibile  Nero/Blu
+prodname: 'Braun Series 3 ProSkin 3040s Rasoio da Barba Elettrico a Lamina  Rasoio Elettrico da Uomo Ricaricabile e senza Fili  Wet&Dry  con Rifinitore di Precisione Estraibile  Nero/Blu'
 ---
 
 Está [Braun Series 3 ProSkin 3040s Rasoio da Barba Elettrico a Lamina  Rasoio Elettrico da Uomo Ricaricabile e senza Fili  Wet&Dry  con Rifinitore di Precisione Estraibile  Nero/Blu](https://www.amazon.it/dp/B00WW8BVHO/?tag=tolees00-21) con 53.85 de descuento por 59.99 EUR (original: 129.99 EUR) en el siguiente enlace!

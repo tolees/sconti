@@ -14,7 +14,7 @@ currency: EUR
 price: 14.89
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Hasbro Twister Gioco in Scatola Hasbro Gaming - versione 2020 in Italiano
+prodname: 'Hasbro Twister Gioco in Scatola Hasbro Gaming - versione 2020 in Italiano'
 ---
 
 Ahora mismo tienes [Hasbro Twister Gioco in Scatola Hasbro Gaming - versione 2020 in Italiano](https://www.amazon.it/dp/B082WV8TCZ/?tag=tolees00-21) a 14.89 EUR (original: 22.99 EUR) (35.23 %  de descuento) en el siguiente enlace!

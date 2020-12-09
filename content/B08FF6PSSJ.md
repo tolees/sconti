@@ -14,7 +14,7 @@ currency: EUR
 price: 124.9
 comparePrice: 186.83 EUR
 inStock: true
-prodname: SAMSUNG Galaxy Buds Live - Wireless Earphones Mystic Black
+prodname: 'SAMSUNG Galaxy Buds Live - Wireless Earphones Mystic Black'
 ---
 
 Está [SAMSUNG Galaxy Buds Live - Wireless Earphones Mystic Black](https://www.amazon.it/dp/B08FF6PSSJ/?tag=tolees00-21) con 33.15 de descuento por 124.9 EUR (original: 186.83 EUR) en el siguiente enlace!

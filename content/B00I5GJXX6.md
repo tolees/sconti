@@ -14,7 +14,7 @@ currency: EUR
 price: 259.0
 comparePrice: 399.9 EUR
 inStock: true
-prodname: Electrolux EKM4100 Impastatrice Planetaria  10 velocità 1000W  struttura in acciaio inox e alluminio pressofuso  color Bianco  Panna 
+prodname: 'Electrolux EKM4100 Impastatrice Planetaria  10 velocità 1000W  struttura in acciaio inox e alluminio pressofuso  color Bianco  Panna '
 ---
 
 Está [Electrolux EKM4100 Impastatrice Planetaria  10 velocità 1000W  struttura in acciaio inox e alluminio pressofuso  color Bianco  Panna ](https://www.amazon.it/dp/B00I5GJXX6/?tag=tolees00-21) con 35.23 de descuento por 259.0 EUR (original: 399.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.05
 comparePrice: 36.3 EUR
 inStock: true
-prodname: Marchio Amazon - find. Cardigan in Cotone Uomo  Nero  Black   L  Label: L
+prodname: 'Marchio Amazon - find. Cardigan in Cotone Uomo  Nero  Black   L  Label: L'
 ---
 
 Está [Marchio Amazon - find. Cardigan in Cotone Uomo  Nero  Black   L  Label: L](https://www.amazon.it/dp/B07ZKNYCGD/?tag=tolees00-21) con 58.54 de descuento por 15.05 EUR (original: 36.3 EUR) en el siguiente enlace!

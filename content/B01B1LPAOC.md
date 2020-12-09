@@ -14,7 +14,7 @@ currency: EUR
 price: 9.57
 comparePrice: 16.5 EUR
 inStock: true
-prodname: Scholl Velvet Soft Ricarica Roll per Pedicure  Extra Esfoliante  2 Pezzi  Confezione Singola
+prodname: 'Scholl Velvet Soft Ricarica Roll per Pedicure  Extra Esfoliante  2 Pezzi  Confezione Singola'
 ---
 
 Está [Scholl Velvet Soft Ricarica Roll per Pedicure  Extra Esfoliante  2 Pezzi  Confezione Singola](https://www.amazon.it/dp/B01B1LPAOC/?tag=tolees00-21) con 42.00 de descuento por 9.57 EUR (original: 16.5 EUR) en el siguiente enlace!

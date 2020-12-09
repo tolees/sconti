@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 40.99 EUR
 inStock: true
-prodname: Logitech M330 Silent Plus Mouse Wireless  2.4 GHz con Ricevitore USB Nano  1 000 DPI  3 Pulsanti  Batteria Lunga Durata Fino a 24 Mesi  PC/Mac/Laptop  Nero
+prodname: 'Logitech M330 Silent Plus Mouse Wireless  2.4 GHz con Ricevitore USB Nano  1 000 DPI  3 Pulsanti  Batteria Lunga Durata Fino a 24 Mesi  PC/Mac/Laptop  Nero'
 ---
 
 Tienes [Logitech M330 Silent Plus Mouse Wireless  2.4 GHz con Ricevitore USB Nano  1 000 DPI  3 Pulsanti  Batteria Lunga Durata Fino a 24 Mesi  PC/Mac/Laptop  Nero](https://www.amazon.it/dp/B01K7GEAFC/?tag=tolees00-21) con un 58.55 % de descuento con precio de oferta de 16.99 EUR (original: 40.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.99
 comparePrice: 15.99 EUR
 inStock: true
-prodname: MySound Speak Street Cuffie Stereo Extra Bass  Microfono e Tasto di Risposta  Nero
+prodname: 'MySound Speak Street Cuffie Stereo Extra Bass  Microfono e Tasto di Risposta  Nero'
 ---
 
 Está [MySound Speak Street Cuffie Stereo Extra Bass  Microfono e Tasto di Risposta  Nero](https://www.amazon.it/dp/B0187CDYLO/?tag=tolees00-21) con 68.79 de descuento por 4.99 EUR (original: 15.99 EUR) en el siguiente enlace!

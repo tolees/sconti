@@ -14,7 +14,7 @@ currency: EUR
 price: 614.2
 comparePrice: 899.0 EUR
 inStock: true
-prodname: Bosch Elettrodomestici WAT28749IT Serie 6  Lavatrice Active Oxygen   9 kg  Centrifuga 1400 Giri  Classe A+++
+prodname: 'Bosch Elettrodomestici WAT28749IT Serie 6  Lavatrice Active Oxygen   9 kg  Centrifuga 1400 Giri  Classe A+++'
 ---
 
 Tienes [Bosch Elettrodomestici WAT28749IT Serie 6  Lavatrice Active Oxygen   9 kg  Centrifuga 1400 Giri  Classe A+++](https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21) con un 31.68 % de descuento con precio de oferta de 614.2 EUR (original: 899.0 EUR) en el siguiente enlace!

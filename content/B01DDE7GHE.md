@@ -14,7 +14,7 @@ currency: EUR
 price: 10.05
 comparePrice: 17.79 EUR
 inStock: true
-prodname: Emuca - Set di 4 rotelle pivotanti per mobile Ø50mm con filettatura M8x15 e cuscinetti a sfere  ruote girevoli in gomma colore grigio
+prodname: 'Emuca - Set di 4 rotelle pivotanti per mobile Ø50mm con filettatura M8x15 e cuscinetti a sfere  ruote girevoli in gomma colore grigio'
 ---
 
 Está [Emuca - Set di 4 rotelle pivotanti per mobile Ø50mm con filettatura M8x15 e cuscinetti a sfere  ruote girevoli in gomma colore grigio](https://www.amazon.it/dp/B01DDE7GHE/?tag=tolees00-21) con 43.51 de descuento por 10.05 EUR (original: 17.79 EUR) en el siguiente enlace!

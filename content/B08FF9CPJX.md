@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 16.0 EUR
 inStock: true
-prodname: Dixan Discs Pulito & Igiene Detersivo Lavatrice Predosato in Capsule 4 in 1  2 x 25 Lavaggi
+prodname: 'Dixan Discs Pulito & Igiene Detersivo Lavatrice Predosato in Capsule 4 in 1  2 x 25 Lavaggi'
 ---
 
 Tienes [Dixan Discs Pulito & Igiene Detersivo Lavatrice Predosato in Capsule 4 in 1  2 x 25 Lavaggi](https://www.amazon.it/dp/B08FF9CPJX/?tag=tolees00-21) con un 37.81 % de descuento con precio de oferta de 9.95 EUR (original: 16.0 EUR) en el siguiente enlace!

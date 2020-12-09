@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: PlayStation Plus Abbonamento 12 Mesi | Codice download per PSN - Account italiano
+prodname: 'PlayStation Plus Abbonamento 12 Mesi | Codice download per PSN - Account italiano'
 ---
 
 Está [PlayStation Plus Abbonamento 12 Mesi | Codice download per PSN - Account italiano](https://www.amazon.it/dp/B07JFPVJRJ/?tag=tolees00-21) con 25.00 de descuento por 44.99 EUR (original: 59.99 EUR) en el siguiente enlace!

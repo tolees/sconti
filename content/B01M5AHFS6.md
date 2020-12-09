@@ -14,7 +14,7 @@ currency: EUR
 price: 51.1
 comparePrice: 80.0 EUR
 inStock: true
-prodname: New Balance 373 Core U  Scarpe Trainers Uomo  Nero  Black   45.5 EU
+prodname: 'New Balance 373 Core U  Scarpe Trainers Uomo  Nero  Black   45.5 EU'
 ---
 
 Ahora mismo tienes [New Balance 373 Core U  Scarpe Trainers Uomo  Nero  Black   45.5 EU](https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21) a 51.1 EUR (original: 80.0 EUR) (36.12 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.94
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Rosso Red White  L
+prodname: 'Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Rosso Red White  L'
 ---
 
 Ahora mismo tienes [Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Rosso Red White  L](https://www.amazon.it/dp/B077SJ1YZH/?tag=tolees00-21) a 34.94 EUR (original: 49.95 EUR) (30.05 %  de descuento) en el siguiente enlace!

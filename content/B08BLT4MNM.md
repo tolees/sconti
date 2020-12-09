@@ -14,7 +14,7 @@ currency: EUR
 price: 15.78
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Dash Pods Allin1 Detersivo Lavatrice in Capsule Igienizzante  Maxi Formato da 43 x 2 Pezzi  86 Lavaggi
+prodname: 'Dash Pods Allin1 Detersivo Lavatrice in Capsule Igienizzante  Maxi Formato da 43 x 2 Pezzi  86 Lavaggi'
 ---
 
 Está [Dash Pods Allin1 Detersivo Lavatrice in Capsule Igienizzante  Maxi Formato da 43 x 2 Pezzi  86 Lavaggi](https://www.amazon.it/dp/B08BLT4MNM/?tag=tolees00-21) con 41.53 de descuento por 15.78 EUR (original: 26.99 EUR) en el siguiente enlace!

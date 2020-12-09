@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: 24pz Pompon Pelliccia Volpe Sintetica per Fai da Te PON PON Pelliccia per Berretti o Cappelli in Lana Borsa Portachiavi Cappotti Scarpe Sciarpe 12 Colori 10cm Pelo 14cm Circonferenza
+prodname: '24pz Pompon Pelliccia Volpe Sintetica per Fai da Te PON PON Pelliccia per Berretti o Cappelli in Lana Borsa Portachiavi Cappotti Scarpe Sciarpe 12 Colori 10cm Pelo 14cm Circonferenza'
 ---
 
 Tienes [24pz Pompon Pelliccia Volpe Sintetica per Fai da Te PON PON Pelliccia per Berretti o Cappelli in Lana Borsa Portachiavi Cappotti Scarpe Sciarpe 12 Colori 10cm Pelo 14cm Circonferenza](https://www.amazon.it/dp/B07ZX76CXG/?tag=tolees00-21) con un 62.01 % de descuento con precio de oferta de 18.99 EUR (original: 49.99 EUR) en el siguiente enlace!

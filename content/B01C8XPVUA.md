@@ -14,7 +14,7 @@ currency: EUR
 price: 27.3
 comparePrice: 39.0 EUR
 inStock: true
-prodname: bracciale uomo gioielli Morellato Solomia trendy cod. SAFZ140
+prodname: 'bracciale uomo gioielli Morellato Solomia trendy cod. SAFZ140'
 ---
 
 Está [bracciale uomo gioielli Morellato Solomia trendy cod. SAFZ140](https://www.amazon.it/dp/B01C8XPVUA/?tag=tolees00-21) con 30.00 de descuento por 27.3 EUR (original: 39.0 EUR) en el siguiente enlace!

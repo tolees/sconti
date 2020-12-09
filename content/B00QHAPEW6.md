@@ -14,7 +14,7 @@ currency: EUR
 price: 15.9
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Under Armour ColdGear Armour Mock  Maglia Uomo  Blanco  White   M
+prodname: 'Under Armour ColdGear Armour Mock  Maglia Uomo  Blanco  White   M'
 ---
 
 Ahora mismo tienes [Under Armour ColdGear Armour Mock  Maglia Uomo  Blanco  White   M](https://www.amazon.it/dp/B00QHAPEW6/?tag=tolees00-21) a 15.9 EUR (original: 54.99 EUR) (71.09 %  de descuento) en el siguiente enlace!

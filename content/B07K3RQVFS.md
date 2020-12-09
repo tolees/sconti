@@ -14,7 +14,7 @@ currency: EUR
 price: 30.0
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas Continental 80 W  Scarpe da Fitness Donna  Multicolore  Ftwbla/Rosaut/Ros Cl A 000   39 1/3 EU
+prodname: 'adidas Continental 80 W  Scarpe da Fitness Donna  Multicolore  Ftwbla/Rosaut/Ros Cl A 000   39 1/3 EU'
 ---
 
 Ahora mismo tienes [adidas Continental 80 W  Scarpe da Fitness Donna  Multicolore  Ftwbla/Rosaut/Ros Cl A 000   39 1/3 EU](https://www.amazon.it/dp/B07K3RQVFS/?tag=tolees00-21) a 30.0 EUR (original: 99.95 EUR) (69.98 %  de descuento) en el siguiente enlace!

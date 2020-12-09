@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Levi s The Perfect Tee T-Shirt  Logo Serie Bok Choy  XXS Donna
+prodname: 'Levi s The Perfect Tee T-Shirt  Logo Serie Bok Choy  XXS Donna'
 ---
 
 Ahora mismo tienes [Levi s The Perfect Tee T-Shirt  Logo Serie Bok Choy  XXS Donna](https://www.amazon.it/dp/B07ZVQQ16D/?tag=tolees00-21) a 14.99 EUR (original: 30.0 EUR) (50.03 %  de descuento) en el siguiente enlace!

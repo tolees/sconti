@@ -14,7 +14,7 @@ currency: EUR
 price: 77.47
 comparePrice: 110.67 EUR
 inStock: true
-prodname: ARMANI EXCHANGE Leather Suede Sneakers  Scarpe da Ginnastica Uomo  Black Optic White  45 EU
+prodname: 'ARMANI EXCHANGE Leather Suede Sneakers  Scarpe da Ginnastica Uomo  Black Optic White  45 EU'
 ---
 
 Ahora mismo tienes [ARMANI EXCHANGE Leather Suede Sneakers  Scarpe da Ginnastica Uomo  Black Optic White  45 EU](https://www.amazon.it/dp/B0817LCXQC/?tag=tolees00-21) a 77.47 EUR (original: 110.67 EUR) (30.00 %  de descuento) en el siguiente enlace!

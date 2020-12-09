@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: NWOUIIAY Kit Tosatrice Professionale per Cani Tagliacapelli Animali Gatto Ricaricabile Tosatore Elettrico per Impermeabile IPX7 Lavabile Ricaricabile
+prodname: 'NWOUIIAY Kit Tosatrice Professionale per Cani Tagliacapelli Animali Gatto Ricaricabile Tosatore Elettrico per Impermeabile IPX7 Lavabile Ricaricabile'
 ---
 
 Tienes [NWOUIIAY Kit Tosatrice Professionale per Cani Tagliacapelli Animali Gatto Ricaricabile Tosatore Elettrico per Impermeabile IPX7 Lavabile Ricaricabile](https://www.amazon.it/dp/B0825PCMHG/?tag=tolees00-21) con un 53.34 % de descuento con precio de oferta de 27.99 EUR (original: 59.99 EUR) en el siguiente enlace!

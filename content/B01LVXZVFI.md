@@ -14,7 +14,7 @@ currency: EUR
 price: 49.0
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Beats EP Cuffie con filo – Senza batteria per ascoltare musica non stop  controlli e microfono integrati – Rosso
+prodname: 'Beats EP Cuffie con filo – Senza batteria per ascoltare musica non stop  controlli e microfono integrati – Rosso'
 ---
 
 Está [Beats EP Cuffie con filo – Senza batteria per ascoltare musica non stop  controlli e microfono integrati – Rosso](https://www.amazon.it/dp/B01LVXZVFI/?tag=tolees00-21) con 50.98 de descuento por 49.0 EUR (original: 99.95 EUR) en el siguiente enlace!

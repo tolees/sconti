@@ -14,7 +14,7 @@ currency: EUR
 price: 37.62
 comparePrice: 82.0 EUR
 inStock: true
-prodname: ARMANI EXCHANGE 9 5 Ounces Stretch Mid Wash Jeans Skinny  Blu  Indigo Denim 1500   42/L28  Taglia Unica: 29  Donna
+prodname: 'ARMANI EXCHANGE 9 5 Ounces Stretch Mid Wash Jeans Skinny  Blu  Indigo Denim 1500   42/L28  Taglia Unica: 29  Donna'
 ---
 
 Tienes [ARMANI EXCHANGE 9 5 Ounces Stretch Mid Wash Jeans Skinny  Blu  Indigo Denim 1500   42/L28  Taglia Unica: 29  Donna](https://www.amazon.it/dp/B07SZSLCVL/?tag=tolees00-21) con un 54.12 % de descuento con precio de oferta de 37.62 EUR (original: 82.0 EUR) en el siguiente enlace!

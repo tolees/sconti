@@ -14,7 +14,7 @@ currency: EUR
 price: 28.0
 comparePrice: 40.0 EUR
 inStock: true
-prodname: Levi s Pillsbury  Sneaker Uomo  Bianco  Regular White 51   42 EU
+prodname: 'Levi s Pillsbury  Sneaker Uomo  Bianco  Regular White 51   42 EU'
 ---
 
 Está [Levi s Pillsbury  Sneaker Uomo  Bianco  Regular White 51   42 EU](https://www.amazon.it/dp/B07SHYN1FX/?tag=tolees00-21) con 30.00 de descuento por 28.0 EUR (original: 40.0 EUR) en el siguiente enlace!

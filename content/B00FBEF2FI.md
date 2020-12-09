@@ -14,7 +14,7 @@ currency: EUR
 price: 30.9
 comparePrice: 49.9 EUR
 inStock: true
-prodname: TERRY 1000955 Scaffale Modulare a 5 Ripiani  da Interno Esterno  Nero  Dimensioni: 93x45.3x188.5 cm
+prodname: 'TERRY 1000955 Scaffale Modulare a 5 Ripiani  da Interno Esterno  Nero  Dimensioni: 93x45.3x188.5 cm'
 ---
 
 Está [TERRY 1000955 Scaffale Modulare a 5 Ripiani  da Interno Esterno  Nero  Dimensioni: 93x45.3x188.5 cm](https://www.amazon.it/dp/B00FBEF2FI/?tag=tolees00-21) con 38.08 de descuento por 30.9 EUR (original: 49.9 EUR) en el siguiente enlace!

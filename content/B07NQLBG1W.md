@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 43.24 EUR
 inStock: true
-prodname: Marchio Amazon - find. Maglione Girocollo Uomo  Blu  NAVY / LIGHT GREY MARL / TOFFEE   L  Label: L
+prodname: 'Marchio Amazon - find. Maglione Girocollo Uomo  Blu  NAVY / LIGHT GREY MARL / TOFFEE   L  Label: L'
 ---
 
 Ahora mismo tienes [Marchio Amazon - find. Maglione Girocollo Uomo  Blu  NAVY / LIGHT GREY MARL / TOFFEE   L  Label: L](https://www.amazon.it/dp/B07NQLBG1W/?tag=tolees00-21) a 15.99 EUR (original: 43.24 EUR) (63.02 %  de descuento) en el siguiente enlace!

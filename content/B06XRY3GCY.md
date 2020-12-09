@@ -14,7 +14,7 @@ currency: EUR
 price: 33.0
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Under Armour Mojo  Scarpe da Corsa Uomo  Nero  Black/White/White  003   44 EU
+prodname: 'Under Armour Mojo  Scarpe da Corsa Uomo  Nero  Black/White/White  003   44 EU'
 ---
 
 Tienes [Under Armour Mojo  Scarpe da Corsa Uomo  Nero  Black/White/White  003   44 EU](https://www.amazon.it/dp/B06XRY3GCY/?tag=tolees00-21) con un 40.00 % de descuento con precio de oferta de 33.0 EUR (original: 55.0 EUR) en el siguiente enlace!

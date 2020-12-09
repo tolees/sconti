@@ -14,7 +14,7 @@ currency: EUR
 price: 26.31
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Fila Disruptor  Scarpe da Ginnastica Basse Uomo  Bianco  43 EU
+prodname: 'Fila Disruptor  Scarpe da Ginnastica Basse Uomo  Bianco  43 EU'
 ---
 
 Tienes [Fila Disruptor  Scarpe da Ginnastica Basse Uomo  Bianco  43 EU](https://www.amazon.it/dp/B07B3ZLMD4/?tag=tolees00-21) con un 73.68 % de descuento con precio de oferta de 26.31 EUR (original: 99.95 EUR) en el siguiente enlace!

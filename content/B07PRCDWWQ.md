@@ -14,7 +14,7 @@ currency: EUR
 price: 19.3
 comparePrice: 27.91 EUR
 inStock: true
-prodname: Kipling Izir - Zaini Donna  Multicolore  Camo Large   34x41x17 cm  B x H T 
+prodname: 'Kipling Izir - Zaini Donna  Multicolore  Camo Large   34x41x17 cm  B x H T '
 ---
 
 Está [Kipling Izir - Zaini Donna  Multicolore  Camo Large   34x41x17 cm  B x H T ](https://www.amazon.it/dp/B07PRCDWWQ/?tag=tolees00-21) con 30.85 de descuento por 19.3 EUR (original: 27.91 EUR) en el siguiente enlace!

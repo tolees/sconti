@@ -14,7 +14,7 @@ currency: EUR
 price: 0.89
 comparePrice: 1.25 EUR
 inStock: true
-prodname: Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai Cereali - tubo 225g
+prodname: 'Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai Cereali - tubo 225g'
 ---
 
 Está [Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai Cereali - tubo 225g](https://www.amazon.it/dp/B07PZDK2S7/?tag=tolees00-21) con 28.80 de descuento por 0.89 EUR (original: 1.25 EUR) en el siguiente enlace!

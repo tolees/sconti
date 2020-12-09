@@ -14,7 +14,7 @@ currency: EUR
 price: 21.04
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Ardes Penny AR5AM40 Ventilatore da Tavolo  3 Pale 40 cm con Oscillazione e Inclinazione Regolabile  3 velocità
+prodname: 'Ardes Penny AR5AM40 Ventilatore da Tavolo  3 Pale 40 cm con Oscillazione e Inclinazione Regolabile  3 velocità'
 ---
 
 Tienes [Ardes Penny AR5AM40 Ventilatore da Tavolo  3 Pale 40 cm con Oscillazione e Inclinazione Regolabile  3 velocità](https://www.amazon.it/dp/B07PNCGXHK/?tag=tolees00-21) con un 29.87 % de descuento con precio de oferta de 21.04 EUR (original: 30.0 EUR) en el siguiente enlace!

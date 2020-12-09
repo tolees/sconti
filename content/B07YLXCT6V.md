@@ -14,7 +14,7 @@ currency: EUR
 price: 16.45
 comparePrice: 29.81 EUR
 inStock: true
-prodname: Superdry Superstate LS Top Maglia a Maniche Lunghe  Bianco  Optic 01c   L Uomo
+prodname: 'Superdry Superstate LS Top Maglia a Maniche Lunghe  Bianco  Optic 01c   L Uomo'
 ---
 
 Está [Superdry Superstate LS Top Maglia a Maniche Lunghe  Bianco  Optic 01c   L Uomo](https://www.amazon.it/dp/B07YLXCT6V/?tag=tolees00-21) con 44.82 de descuento por 16.45 EUR (original: 29.81 EUR) en el siguiente enlace!

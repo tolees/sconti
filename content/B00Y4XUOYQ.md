@@ -14,7 +14,7 @@ currency: EUR
 price: 45.45
 comparePrice: 105.0 EUR
 inStock: true
-prodname: Lacoste PH4014  Polo Uomo  Nero  Noir   Small  Taglia Produttore: 3 
+prodname: 'Lacoste PH4014  Polo Uomo  Nero  Noir   Small  Taglia Produttore: 3 '
 ---
 
 Ahora mismo tienes [Lacoste PH4014  Polo Uomo  Nero  Noir   Small  Taglia Produttore: 3 ](https://www.amazon.it/dp/B00Y4XUOYQ/?tag=tolees00-21) a 45.45 EUR (original: 105.0 EUR) (56.71 %  de descuento) en el siguiente enlace!

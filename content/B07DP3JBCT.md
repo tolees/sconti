@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Eastpak Padded Pak R Zaino  40 Cm  24 L  Blu  Triple Denim 
+prodname: 'Eastpak Padded Pak R Zaino  40 Cm  24 L  Blu  Triple Denim '
 ---
 
 Está [Eastpak Padded Pak R Zaino  40 Cm  24 L  Blu  Triple Denim ](https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21) con 40.20 de descuento por 29.9 EUR (original: 50.0 EUR) en el siguiente enlace!

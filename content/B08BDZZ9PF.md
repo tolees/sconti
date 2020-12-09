@@ -14,7 +14,7 @@ currency: EUR
 price: 19.49
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Lisciani Giochi- Kids Love Monsters Castello Stregato Gioco  Multicolore  82711
+prodname: 'Lisciani Giochi- Kids Love Monsters Castello Stregato Gioco  Multicolore  82711'
 ---
 
 Está [Lisciani Giochi- Kids Love Monsters Castello Stregato Gioco  Multicolore  82711](https://www.amazon.it/dp/B08BDZZ9PF/?tag=tolees00-21) con 27.79 de descuento por 19.49 EUR (original: 26.99 EUR) en el siguiente enlace!

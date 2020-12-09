@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 159.99 EUR
 inStock: true
-prodname: Philips HD9216/80 Airfryer Friggitrice Low-Oil e Multicooker con Tecnologia RapidAir  800 g  Bianco
+prodname: 'Philips HD9216/80 Airfryer Friggitrice Low-Oil e Multicooker con Tecnologia RapidAir  800 g  Bianco'
 ---
 
 Está [Philips HD9216/80 Airfryer Friggitrice Low-Oil e Multicooker con Tecnologia RapidAir  800 g  Bianco](https://www.amazon.it/dp/B06W5JQG6T/?tag=tolees00-21) con 43.75 de descuento por 89.99 EUR (original: 159.99 EUR) en el siguiente enlace!

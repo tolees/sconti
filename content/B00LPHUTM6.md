@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 54.9 EUR
 inStock: true
-prodname: Vileda 146752 Windo MATIC Aspiragocce Elettrico Senza Fili  12 W  Plastica  Rosso
+prodname: 'Vileda 146752 Windo MATIC Aspiragocce Elettrico Senza Fili  12 W  Plastica  Rosso'
 ---
 
 Está [Vileda 146752 Windo MATIC Aspiragocce Elettrico Senza Fili  12 W  Plastica  Rosso](https://www.amazon.it/dp/B00LPHUTM6/?tag=tolees00-21) con 45.37 de descuento por 29.99 EUR (original: 54.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 21.6 EUR
 inStock: true
-prodname: Carhartt Odessa cap Cappellino da Baseball  Soft Blu  Taglia Unica Donna
+prodname: 'Carhartt Odessa cap Cappellino da Baseball  Soft Blu  Taglia Unica Donna'
 ---
 
 Tienes [Carhartt Odessa cap Cappellino da Baseball  Soft Blu  Taglia Unica Donna](https://www.amazon.it/dp/B083TJ7HQV/?tag=tolees00-21) con un 32.92 % de descuento con precio de oferta de 14.49 EUR (original: 21.6 EUR) en el siguiente enlace!

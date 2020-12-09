@@ -14,7 +14,7 @@ currency: EUR
 price: 21.24
 comparePrice: 51.99 EUR
 inStock: true
-prodname: Willful Smartwatch Orologio Fitness Uomo Donna Fitness Tracker Cardiofrequenzimetro da polso Contapassi Calorie Sonno Orologio Sportivo Impermeabile IP68 WhatsAPP Notifiche per Android iOS Telefon
+prodname: 'Willful Smartwatch Orologio Fitness Uomo Donna Fitness Tracker Cardiofrequenzimetro da polso Contapassi Calorie Sonno Orologio Sportivo Impermeabile IP68 WhatsAPP Notifiche per Android iOS Telefon'
 ---
 
 Tienes [Willful Smartwatch Orologio Fitness Uomo Donna Fitness Tracker Cardiofrequenzimetro da polso Contapassi Calorie Sonno Orologio Sportivo Impermeabile IP68 WhatsAPP Notifiche per Android iOS Telefon](https://www.amazon.it/dp/B07BWGQH3R/?tag=tolees00-21) con un 59.15 % de descuento con precio de oferta de 21.24 EUR (original: 51.99 EUR) en el siguiente enlace!

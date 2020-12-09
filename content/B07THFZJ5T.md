@@ -14,7 +14,7 @@ currency: EUR
 price: 27.25
 comparePrice: 38.99 EUR
 inStock: true
-prodname: Lacoste Th2038 T-Shirt  Verde  Aucuba Xzd   Large  Taglia Unica: 5  Uomo
+prodname: 'Lacoste Th2038 T-Shirt  Verde  Aucuba Xzd   Large  Taglia Unica: 5  Uomo'
 ---
 
 Está [Lacoste Th2038 T-Shirt  Verde  Aucuba Xzd   Large  Taglia Unica: 5  Uomo](https://www.amazon.it/dp/B07THFZJ5T/?tag=tolees00-21) con 30.11 de descuento por 27.25 EUR (original: 38.99 EUR) en el siguiente enlace!

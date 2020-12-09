@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 64.95 EUR
 inStock: true
-prodname: urBeats3 Auricolari con filo e connettore Lightning – Cavo antigroviglio  auricolari magnetici  controlli e microfono integrati – Giallo
+prodname: 'urBeats3 Auricolari con filo e connettore Lightning – Cavo antigroviglio  auricolari magnetici  controlli e microfono integrati – Giallo'
 ---
 
 Ahora mismo tienes [urBeats3 Auricolari con filo e connettore Lightning – Cavo antigroviglio  auricolari magnetici  controlli e microfono integrati – Giallo](https://www.amazon.it/dp/B07K2MSLW7/?tag=tolees00-21) a 32.99 EUR (original: 64.95 EUR) (49.21 %  de descuento) en el siguiente enlace!

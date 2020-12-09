@@ -14,7 +14,7 @@ currency: EUR
 price: 51.99
 comparePrice: 75.0 EUR
 inStock: true
-prodname: Vans Ward Platform  Sneaker Donna  Canvas Black/White 187  36 EU
+prodname: 'Vans Ward Platform  Sneaker Donna  Canvas Black/White 187  36 EU'
 ---
 
 Está [Vans Ward Platform  Sneaker Donna  Canvas Black/White 187  36 EU](https://www.amazon.it/dp/B07BN1ZLKK/?tag=tolees00-21) con 30.68 de descuento por 51.99 EUR (original: 75.0 EUR) en el siguiente enlace!

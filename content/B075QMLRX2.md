@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Moneta Etnea Set 3 Padelle per Induzione  Alluminio  Grigio/Nero  20- 24 - 28 cm
+prodname: 'Moneta Etnea Set 3 Padelle per Induzione  Alluminio  Grigio/Nero  20- 24 - 28 cm'
 ---
 
 Ahora mismo tienes [Moneta Etnea Set 3 Padelle per Induzione  Alluminio  Grigio/Nero  20- 24 - 28 cm](https://www.amazon.it/dp/B075QMLRX2/?tag=tolees00-21) a 30.99 EUR (original: 44.99 EUR) (31.12 %  de descuento) en el siguiente enlace!

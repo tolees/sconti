@@ -14,7 +14,7 @@ currency: EUR
 price: 10.5
 comparePrice: 25.93 EUR
 inStock: true
-prodname: Marchio Amazon - find. Stitched Crew  Felpa Uomo  Rosso  Mulberry   L  Label: L
+prodname: 'Marchio Amazon - find. Stitched Crew  Felpa Uomo  Rosso  Mulberry   L  Label: L'
 ---
 
 Ahora mismo tienes [Marchio Amazon - find. Stitched Crew  Felpa Uomo  Rosso  Mulberry   L  Label: L](https://www.amazon.it/dp/B07D4QQPNY/?tag=tolees00-21) a 10.5 EUR (original: 25.93 EUR) (59.51 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 40.72
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox UOMO SNAKE L  Sneakers Base  Grigio Dk Grey Off Whitec1300  46 EU
+prodname: 'Geox UOMO SNAKE L  Sneakers Base  Grigio Dk Grey Off Whitec1300  46 EU'
 ---
 
 Está [Geox UOMO SNAKE L  Sneakers Base  Grigio Dk Grey Off Whitec1300  46 EU](https://www.amazon.it/dp/B00DY2TWBE/?tag=tolees00-21) con 59.24 de descuento por 40.72 EUR (original: 99.9 EUR) en el siguiente enlace!

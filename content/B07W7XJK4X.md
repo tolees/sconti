@@ -14,7 +14,7 @@ currency: EUR
 price: 25.31
 comparePrice: 82.14 EUR
 inStock: true
-prodname: Tommy Hilfiger Regular Fit Pantaloncini  Blu  Desert Sky   XL Uomo
+prodname: 'Tommy Hilfiger Regular Fit Pantaloncini  Blu  Desert Sky   XL Uomo'
 ---
 
 Tienes [Tommy Hilfiger Regular Fit Pantaloncini  Blu  Desert Sky   XL Uomo](https://www.amazon.it/dp/B07W7XJK4X/?tag=tolees00-21) con un 69.19 % de descuento con precio de oferta de 25.31 EUR (original: 82.14 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.98
 comparePrice: 49.96 EUR
 inStock: true
-prodname: Cuffie Bluetooth con custodia di ricarica  bianca 
+prodname: 'Cuffie Bluetooth con custodia di ricarica  bianca '
 ---
 
 Tienes [Cuffie Bluetooth con custodia di ricarica  bianca ](https://www.amazon.it/dp/B08K8ZYSP9/?tag=tolees00-21) con un 74.02 % de descuento con precio de oferta de 12.98 EUR (original: 49.96 EUR) en el siguiente enlace!

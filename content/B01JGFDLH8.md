@@ -14,7 +14,7 @@ currency: EUR
 price: 3.8
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Bourjois Ombretti le Palette les Nude - 4.5 g
+prodname: 'Bourjois Ombretti le Palette les Nude - 4.5 g'
 ---
 
 Está [Bourjois Ombretti le Palette les Nude - 4.5 g](https://www.amazon.it/dp/B01JGFDLH8/?tag=tolees00-21) con 80.90 de descuento por 3.8 EUR (original: 19.9 EUR) en el siguiente enlace!

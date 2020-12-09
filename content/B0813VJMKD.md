@@ -14,7 +14,7 @@ currency: EUR
 price: 41.15
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas EG4958  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core Black/Ftwr White   43.3333333333333
+prodname: 'adidas EG4958  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core Black/Ftwr White   43.3333333333333'
 ---
 
 Está [adidas EG4958  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core Black/Ftwr White   43.3333333333333](https://www.amazon.it/dp/B0813VJMKD/?tag=tolees00-21) con 58.83 de descuento por 41.15 EUR (original: 99.95 EUR) en el siguiente enlace!

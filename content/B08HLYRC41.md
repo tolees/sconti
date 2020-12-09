@@ -14,7 +14,7 @@ currency: EUR
 price: 13.59
 comparePrice: 23.99 EUR
 inStock: true
-prodname: eXtremeRate Tasti Pulsanti Ricambio per Xbox One Elite Series 2 Controller V2 Joystick Model 1797  LB RB LT RT Bumper Grilletti ABXY Pulsante Start Back Sync Profile Switch-Argento Cromo
+prodname: 'eXtremeRate Tasti Pulsanti Ricambio per Xbox One Elite Series 2 Controller V2 Joystick Model 1797  LB RB LT RT Bumper Grilletti ABXY Pulsante Start Back Sync Profile Switch-Argento Cromo'
 ---
 
 Tienes [eXtremeRate Tasti Pulsanti Ricambio per Xbox One Elite Series 2 Controller V2 Joystick Model 1797  LB RB LT RT Bumper Grilletti ABXY Pulsante Start Back Sync Profile Switch-Argento Cromo](https://www.amazon.it/dp/B08HLYRC41/?tag=tolees00-21) con un 43.35 % de descuento con precio de oferta de 13.59 EUR (original: 23.99 EUR) en el siguiente enlace!

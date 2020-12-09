@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 24.0 EUR
 inStock: true
-prodname: Giochi Uniti- Gioco Fuggi Tavolo  Multicolore  GU519
+prodname: 'Giochi Uniti- Gioco Fuggi Tavolo  Multicolore  GU519'
 ---
 
 Está [Giochi Uniti- Gioco Fuggi Tavolo  Multicolore  GU519](https://www.amazon.it/dp/B01H1IGKCA/?tag=tolees00-21) con 25.04 de descuento por 17.99 EUR (original: 24.0 EUR) en el siguiente enlace!

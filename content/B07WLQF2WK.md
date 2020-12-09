@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 10.99 EUR
 inStock: true
-prodname: AZ Dentifricio 3D White Luxe Bianco Brillante con Azione Sbiancante 3 x 75 ml
+prodname: 'AZ Dentifricio 3D White Luxe Bianco Brillante con Azione Sbiancante 3 x 75 ml'
 ---
 
 Tienes [AZ Dentifricio 3D White Luxe Bianco Brillante con Azione Sbiancante 3 x 75 ml](https://www.amazon.it/dp/B07WLQF2WK/?tag=tolees00-21) con un 36.40 % de descuento con precio de oferta de 6.99 EUR (original: 10.99 EUR) en el siguiente enlace!

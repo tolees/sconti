@@ -14,7 +14,7 @@ currency: EUR
 price: 82.25
 comparePrice: 230.0 EUR
 inStock: true
-prodname: Helly Hansen Blume Piumino Giacca Resistente all Acqua Isolato Eskimo Parka  Giacca Invernale Donna  Black  S
+prodname: 'Helly Hansen Blume Piumino Giacca Resistente all Acqua Isolato Eskimo Parka  Giacca Invernale Donna  Black  S'
 ---
 
 Ahora mismo tienes [Helly Hansen Blume Piumino Giacca Resistente all Acqua Isolato Eskimo Parka  Giacca Invernale Donna  Black  S](https://www.amazon.it/dp/B07LBHJGC5/?tag=tolees00-21) a 82.25 EUR (original: 230.0 EUR) (64.24 %  de descuento) en el siguiente enlace!

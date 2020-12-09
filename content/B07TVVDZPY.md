@@ -14,7 +14,7 @@ currency: EUR
 price: 38.45
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Flex Advantage 3.0  Sneaker Uomo  Blu  Navy Mesh/Red Trim Nvrd   41.5 EU
+prodname: 'Skechers Flex Advantage 3.0  Sneaker Uomo  Blu  Navy Mesh/Red Trim Nvrd   41.5 EU'
 ---
 
 Tienes [Skechers Flex Advantage 3.0  Sneaker Uomo  Blu  Navy Mesh/Red Trim Nvrd   41.5 EU](https://www.amazon.it/dp/B07TVVDZPY/?tag=tolees00-21) con un 45.03 % de descuento con precio de oferta de 38.45 EUR (original: 69.95 EUR) en el siguiente enlace!

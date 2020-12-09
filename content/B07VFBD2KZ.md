@@ -14,7 +14,7 @@ currency: EUR
 price: 44.79
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Lifeprint Stampante Foto e Video Portatile 2x3  per Dispositivi iOS e Android  dai Vita alle Tue Foto con la Realtà Aumentata  Bianco
+prodname: 'Lifeprint Stampante Foto e Video Portatile 2x3  per Dispositivi iOS e Android  dai Vita alle Tue Foto con la Realtà Aumentata  Bianco'
 ---
 
 Está [Lifeprint Stampante Foto e Video Portatile 2x3  per Dispositivi iOS e Android  dai Vita alle Tue Foto con la Realtà Aumentata  Bianco](https://www.amazon.it/dp/B07VFBD2KZ/?tag=tolees00-21) con 36.01 de descuento por 44.79 EUR (original: 69.99 EUR) en el siguiente enlace!

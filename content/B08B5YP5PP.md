@@ -14,7 +14,7 @@ currency: EUR
 price: 74.99
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Echo Plus  2ª generazione  - Tessuto antracite + Philips Hue White Lampadina
+prodname: 'Echo Plus  2ª generazione  - Tessuto antracite + Philips Hue White Lampadina'
 ---
 
 Ahora mismo tienes [Echo Plus  2ª generazione  - Tessuto antracite + Philips Hue White Lampadina](https://www.amazon.it/dp/B08B5YP5PP/?tag=tolees00-21) a 74.99 EUR (original: 149.99 EUR) (50.00 %  de descuento) en el siguiente enlace!

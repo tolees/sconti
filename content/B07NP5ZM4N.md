@@ -14,7 +14,7 @@ currency: EUR
 price: 899.0
 comparePrice: 1199.0 EUR
 inStock: true
-prodname: I-Bike  Mountain Mud Unisex adulto  Nero Bianco Giallo  Unica
+prodname: 'I-Bike  Mountain Mud Unisex adulto  Nero Bianco Giallo  Unica'
 ---
 
 Está [I-Bike  Mountain Mud Unisex adulto  Nero Bianco Giallo  Unica](https://www.amazon.it/dp/B07NP5ZM4N/?tag=tolees00-21) con 25.02 de descuento por 899.0 EUR (original: 1199.0 EUR) en el siguiente enlace!

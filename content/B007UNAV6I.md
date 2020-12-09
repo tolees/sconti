@@ -14,7 +14,7 @@ currency: EUR
 price: 27.67
 comparePrice: 50.63 EUR
 inStock: true
-prodname: Casio Orologio Digitale Donna con Cinturino in Acciaio Inox LA670WEA-7EF
+prodname: 'Casio Orologio Digitale Donna con Cinturino in Acciaio Inox LA670WEA-7EF'
 ---
 
 Está [Casio Orologio Digitale Donna con Cinturino in Acciaio Inox LA670WEA-7EF](https://www.amazon.it/dp/B007UNAV6I/?tag=tolees00-21) con 45.35 de descuento por 27.67 EUR (original: 50.63 EUR) en el siguiente enlace!

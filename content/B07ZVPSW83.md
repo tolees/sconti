@@ -14,7 +14,7 @@ currency: EUR
 price: 62.99
 comparePrice: 102.99 EUR
 inStock: true
-prodname: Levi s Woodside Utility Parka Giacca  Olive Night  L Uomo
+prodname: 'Levi s Woodside Utility Parka Giacca  Olive Night  L Uomo'
 ---
 
 Está [Levi s Woodside Utility Parka Giacca  Olive Night  L Uomo](https://www.amazon.it/dp/B07ZVPSW83/?tag=tolees00-21) con 38.84 de descuento por 62.99 EUR (original: 102.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.9 EUR
 inStock: true
-prodname: The Sims 4 - PC
+prodname: 'The Sims 4 - PC'
 ---
 
 Está [The Sims 4 - PC](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21) con 49.90 de descuento por 19.99 EUR (original: 39.9 EUR) en el siguiente enlace!

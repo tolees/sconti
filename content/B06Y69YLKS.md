@@ -14,7 +14,7 @@ currency: EUR
 price: 0.99
 comparePrice: 1.49 EUR
 inStock: true
-prodname: Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  1 x 75 ml
+prodname: 'Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  1 x 75 ml'
 ---
 
 Ahora mismo tienes [Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  1 x 75 ml](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21) a 0.99 EUR (original: 1.49 EUR) (33.56 %  de descuento) en el siguiente enlace!

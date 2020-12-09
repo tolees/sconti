@@ -14,7 +14,7 @@ currency: EUR
 price: 7.49
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Brimstone
+prodname: 'Brimstone'
 ---
 
 Tienes [Brimstone](https://www.amazon.it/dp/B07LDN93XL/?tag=tolees00-21) con un 42.34 % de descuento con precio de oferta de 7.49 EUR (original: 12.99 EUR) en el siguiente enlace!

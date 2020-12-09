@@ -14,7 +14,7 @@ currency: EUR
 price: 34.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: BOSS Schino-Slim D  Pantaloni Uomo  Beige  Open Beige 280   W36/L36  Taglia Produttore: 3636 
+prodname: 'BOSS Schino-Slim D  Pantaloni Uomo  Beige  Open Beige 280   W36/L36  Taglia Produttore: 3636 '
 ---
 
 Tienes [BOSS Schino-Slim D  Pantaloni Uomo  Beige  Open Beige 280   W36/L36  Taglia Produttore: 3636 ](https://www.amazon.it/dp/B07K3PBQKW/?tag=tolees00-21) con un 65.03 % de descuento con precio de oferta de 34.95 EUR (original: 99.95 EUR) en el siguiente enlace!

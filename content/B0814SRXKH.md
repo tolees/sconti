@@ -14,7 +14,7 @@ currency: EUR
 price: 21.91
 comparePrice: 41.95 EUR
 inStock: true
-prodname: Under Armour Challenger III Midlayer  Maglia a maniche lunghe Uomo  Grigio  Halo Gray   S
+prodname: 'Under Armour Challenger III Midlayer  Maglia a maniche lunghe Uomo  Grigio  Halo Gray   S'
 ---
 
 Tienes [Under Armour Challenger III Midlayer  Maglia a maniche lunghe Uomo  Grigio  Halo Gray   S](https://www.amazon.it/dp/B0814SRXKH/?tag=tolees00-21) con un 47.77 % de descuento con precio de oferta de 21.91 EUR (original: 41.95 EUR) en el siguiente enlace!

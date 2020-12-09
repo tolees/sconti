@@ -14,7 +14,7 @@ currency: EUR
 price: 5.9
 comparePrice: 8.39 EUR
 inStock: true
-prodname: NYX Professional Makeup Gel Sopracciglia Tame & Frame Tinted Brow Pomade  Espresso
+prodname: 'NYX Professional Makeup Gel Sopracciglia Tame & Frame Tinted Brow Pomade  Espresso'
 ---
 
 Está [NYX Professional Makeup Gel Sopracciglia Tame & Frame Tinted Brow Pomade  Espresso](https://www.amazon.it/dp/B00XK2LIBA/?tag=tolees00-21) con 29.68 de descuento por 5.9 EUR (original: 8.39 EUR) en el siguiente enlace!

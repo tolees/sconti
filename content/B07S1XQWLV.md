@@ -14,7 +14,7 @@ currency: EUR
 price: 39.73
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Columbia Street Elite  Zaino Monospalla Unisex Adulto  Grigio  Cool Grey   Taglia Unica
+prodname: 'Columbia Street Elite  Zaino Monospalla Unisex Adulto  Grigio  Cool Grey   Taglia Unica'
 ---
 
 Tienes [Columbia Street Elite  Zaino Monospalla Unisex Adulto  Grigio  Cool Grey   Taglia Unica](https://www.amazon.it/dp/B07S1XQWLV/?tag=tolees00-21) con un 50.33 % de descuento con precio de oferta de 39.73 EUR (original: 79.99 EUR) en el siguiente enlace!

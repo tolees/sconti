@@ -14,7 +14,7 @@ currency: EUR
 price: 18.91
 comparePrice: 59.0 EUR
 inStock: true
-prodname: SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Uomo  Marrone  Brown Sierra 751   44 EU
+prodname: 'SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Uomo  Marrone  Brown Sierra 751   44 EU'
 ---
 
 Tienes [SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Uomo  Marrone  Brown Sierra 751   44 EU](https://www.amazon.it/dp/B07TXLPP76/?tag=tolees00-21) con un 67.95 % de descuento con precio de oferta de 18.91 EUR (original: 59.0 EUR) en el siguiente enlace!

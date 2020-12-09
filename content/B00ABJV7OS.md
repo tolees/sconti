@@ -14,7 +14,7 @@ currency: EUR
 price: 17.84
 comparePrice: 26.85 EUR
 inStock: true
-prodname: Giotto 519600 - Naturale
+prodname: 'Giotto 519600 - Naturale'
 ---
 
 Tienes [Giotto 519600 - Naturale](https://www.amazon.it/dp/B00ABJV7OS/?tag=tolees00-21) con un 33.56 % de descuento con precio de oferta de 17.84 EUR (original: 26.85 EUR) en el siguiente enlace!

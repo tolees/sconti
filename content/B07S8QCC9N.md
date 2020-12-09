@@ -14,7 +14,7 @@ currency: EUR
 price: 34.69
 comparePrice: 49.95 EUR
 inStock: true
-prodname: PUMA Smash V2 L  Scarpe da Ginnastica Unisex-Adulto  Blu Peacoat Tapioca Team Gold White  37 EU
+prodname: 'PUMA Smash V2 L  Scarpe da Ginnastica Unisex-Adulto  Blu Peacoat Tapioca Team Gold White  37 EU'
 ---
 
 Ahora mismo tienes [PUMA Smash V2 L  Scarpe da Ginnastica Unisex-Adulto  Blu Peacoat Tapioca Team Gold White  37 EU](https://www.amazon.it/dp/B07S8QCC9N/?tag=tolees00-21) a 34.69 EUR (original: 49.95 EUR) (30.55 %  de descuento) en el siguiente enlace!

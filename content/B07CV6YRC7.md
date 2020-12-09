@@ -14,7 +14,7 @@ currency: EUR
 price: 91.99
 comparePrice: 139.0 EUR
 inStock: true
-prodname: Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto Formato Quadrato 62 x 62 mm  Pearl White
+prodname: 'Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto Formato Quadrato 62 x 62 mm  Pearl White'
 ---
 
 Tienes [Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto Formato Quadrato 62 x 62 mm  Pearl White](https://www.amazon.it/dp/B07CV6YRC7/?tag=tolees00-21) con un 33.82 % de descuento con precio de oferta de 91.99 EUR (original: 139.0 EUR) en el siguiente enlace!

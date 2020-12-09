@@ -14,7 +14,7 @@ currency: EUR
 price: 18.89
 comparePrice: 26.71 EUR
 inStock: true
-prodname: The Slow Rush
+prodname: 'The Slow Rush'
 ---
 
 Tienes [The Slow Rush](https://www.amazon.it/dp/B07ZKV1WHJ/?tag=tolees00-21) con un 29.28 % de descuento con precio de oferta de 18.89 EUR (original: 26.71 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 89.0
 comparePrice: 189.0 EUR
 inStock: true
-prodname: Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4931
+prodname: 'Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4931'
 ---
 
 Está [Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4931](https://www.amazon.it/dp/B00N1UCVIA/?tag=tolees00-21) con 52.91 de descuento por 89.0 EUR (original: 189.0 EUR) en el siguiente enlace!

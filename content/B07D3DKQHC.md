@@ -14,7 +14,7 @@ currency: EUR
 price: 77.99
 comparePrice: 109.99 EUR
 inStock: true
-prodname: Panasonic NN-K10JWMEPG Forno a microonde compatto 20 L  800 W  2 manopole rotanti  con quarzo gratinato da 1.000 W  piatto girevole in vetro 255 mm  5 livelli di regolazione della potenza   Bianco
+prodname: 'Panasonic NN-K10JWMEPG Forno a microonde compatto 20 L  800 W  2 manopole rotanti  con quarzo gratinato da 1.000 W  piatto girevole in vetro 255 mm  5 livelli di regolazione della potenza   Bianco'
 ---
 
 Ahora mismo tienes [Panasonic NN-K10JWMEPG Forno a microonde compatto 20 L  800 W  2 manopole rotanti  con quarzo gratinato da 1.000 W  piatto girevole in vetro 255 mm  5 livelli di regolazione della potenza   Bianco](https://www.amazon.it/dp/B07D3DKQHC/?tag=tolees00-21) a 77.99 EUR (original: 109.99 EUR) (29.09 %  de descuento) en el siguiente enlace!

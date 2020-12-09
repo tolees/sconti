@@ -14,7 +14,7 @@ currency: EUR
 price: 6.9
 comparePrice: 11.04 EUR
 inStock: true
-prodname: La Casa Di Jack
+prodname: 'La Casa Di Jack'
 ---
 
 Está [La Casa Di Jack](https://www.amazon.it/dp/B07QK7X1QN/?tag=tolees00-21) con 37.50 de descuento por 6.9 EUR (original: 11.04 EUR) en el siguiente enlace!

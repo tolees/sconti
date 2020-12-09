@@ -14,7 +14,7 @@ currency: EUR
 price: 98.15
 comparePrice: 209.99 EUR
 inStock: true
-prodname: TCL TS8011 Soundbar 2.1 canali con subwoofer integrato – Fire TV Edition
+prodname: 'TCL TS8011 Soundbar 2.1 canali con subwoofer integrato – Fire TV Edition'
 ---
 
 Está [TCL TS8011 Soundbar 2.1 canali con subwoofer integrato – Fire TV Edition](https://www.amazon.it/dp/B07WGM6RB4/?tag=tolees00-21) con 53.26 de descuento por 98.15 EUR (original: 209.99 EUR) en el siguiente enlace!

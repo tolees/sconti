@@ -14,7 +14,7 @@ currency: EUR
 price: 42.42
 comparePrice: 89.95 EUR
 inStock: true
-prodname: adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  39 1/3 EU
+prodname: 'adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  39 1/3 EU'
 ---
 
 Ahora mismo tienes [adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  39 1/3 EU](https://www.amazon.it/dp/B0813XZJKZ/?tag=tolees00-21) a 42.42 EUR (original: 89.95 EUR) (52.84 %  de descuento) en el siguiente enlace!

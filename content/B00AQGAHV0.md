@@ -14,7 +14,7 @@ currency: EUR
 price: 2.85
 comparePrice: 6.38 EUR
 inStock: true
-prodname: Arexons Spray Lubrificante Multiuso  Sb 731 
+prodname: 'Arexons Spray Lubrificante Multiuso  Sb 731 '
 ---
 
 Tienes [Arexons Spray Lubrificante Multiuso  Sb 731 ](https://www.amazon.it/dp/B00AQGAHV0/?tag=tolees00-21) con un 55.33 % de descuento con precio de oferta de 2.85 EUR (original: 6.38 EUR) en el siguiente enlace!

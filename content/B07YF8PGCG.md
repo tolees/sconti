@@ -14,7 +14,7 @@ currency: EUR
 price: 13.46
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Marchio Amazon - find. Cardigan Lungo Donna  Grigio  argento grigio marl .  52  Label: 3XL
+prodname: 'Marchio Amazon - find. Cardigan Lungo Donna  Grigio  argento grigio marl .  52  Label: 3XL'
 ---
 
 Ahora mismo tienes [Marchio Amazon - find. Cardigan Lungo Donna  Grigio  argento grigio marl .  52  Label: 3XL](https://www.amazon.it/dp/B07YF8PGCG/?tag=tolees00-21) a 13.46 EUR (original: 35.0 EUR) (61.54 %  de descuento) en el siguiente enlace!

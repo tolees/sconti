@@ -14,7 +14,7 @@ currency: EUR
 price: 62.2
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Clarks Batcombe Lord  Stivali Chelsea Uomo  Marrone  Dark Tan Leather   41.5 EU
+prodname: 'Clarks Batcombe Lord  Stivali Chelsea Uomo  Marrone  Dark Tan Leather   41.5 EU'
 ---
 
 Tienes [Clarks Batcombe Lord  Stivali Chelsea Uomo  Marrone  Dark Tan Leather   41.5 EU](https://www.amazon.it/dp/B074N6SQFL/?tag=tolees00-21) con un 58.53 % de descuento con precio de oferta de 62.2 EUR (original: 150.0 EUR) en el siguiente enlace!

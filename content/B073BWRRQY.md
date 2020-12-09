@@ -14,7 +14,7 @@ currency: EUR
 price: 59.49
 comparePrice: 82.14 EUR
 inStock: true
-prodname: Saucony Jazz Original Vintage  Sneakers Uomo  Blue Navy Silver 4  44 EU
+prodname: 'Saucony Jazz Original Vintage  Sneakers Uomo  Blue Navy Silver 4  44 EU'
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vintage  Sneakers Uomo  Blue Navy Silver 4  44 EU](https://www.amazon.it/dp/B073BWRRQY/?tag=tolees00-21) a 59.49 EUR (original: 82.14 EUR) (27.57 %  de descuento) en el siguiente enlace!

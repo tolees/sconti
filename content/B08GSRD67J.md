@@ -14,7 +14,7 @@ currency: EUR
 price: 7.9
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Entweg Sensore a infrarossi IR Senza Contatto Fronte Corpo/Oggetto Termometro Misurazione della Temperatura Display Digitale LCD unità di Design per Impugnatura Batterie sostituibili
+prodname: 'Entweg Sensore a infrarossi IR Senza Contatto Fronte Corpo/Oggetto Termometro Misurazione della Temperatura Display Digitale LCD unità di Design per Impugnatura Batterie sostituibili'
 ---
 
 Ahora mismo tienes [Entweg Sensore a infrarossi IR Senza Contatto Fronte Corpo/Oggetto Termometro Misurazione della Temperatura Display Digitale LCD unità di Design per Impugnatura Batterie sostituibili](https://www.amazon.it/dp/B08GSRD67J/?tag=tolees00-21) a 7.9 EUR (original: 39.95 EUR) (80.23 %  de descuento) en el siguiente enlace!

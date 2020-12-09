@@ -14,7 +14,7 @@ currency: EUR
 price: 55.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Fresh ’n Rebel Clam - Headphones Ice Grey  Cuffie Bluetooth over-ear  Circumaurali  Con cavo di riserva  Grigio Ghiaccio
+prodname: 'Fresh ’n Rebel Clam - Headphones Ice Grey  Cuffie Bluetooth over-ear  Circumaurali  Con cavo di riserva  Grigio Ghiaccio'
 ---
 
 Está [Fresh ’n Rebel Clam - Headphones Ice Grey  Cuffie Bluetooth over-ear  Circumaurali  Con cavo di riserva  Grigio Ghiaccio](https://www.amazon.it/dp/B07HXJN8TK/?tag=tolees00-21) con 44.00 de descuento por 55.99 EUR (original: 99.99 EUR) en el siguiente enlace!

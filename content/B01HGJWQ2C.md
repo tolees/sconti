@@ -14,7 +14,7 @@ currency: EUR
 price: 32.29
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Aigostar Hett 30HHJ - Panini Maker/Griglia  Pressa a sandwich  Griglia elettrica  1000 Watt  Fredda al tocco  Antiaderente  Indicatore luminoso  Argento. Design esclusivo.
+prodname: 'Aigostar Hett 30HHJ - Panini Maker/Griglia  Pressa a sandwich  Griglia elettrica  1000 Watt  Fredda al tocco  Antiaderente  Indicatore luminoso  Argento. Design esclusivo.'
 ---
 
 Está [Aigostar Hett 30HHJ - Panini Maker/Griglia  Pressa a sandwich  Griglia elettrica  1000 Watt  Fredda al tocco  Antiaderente  Indicatore luminoso  Argento. Design esclusivo.](https://www.amazon.it/dp/B01HGJWQ2C/?tag=tolees00-21) con 46.17 de descuento por 32.29 EUR (original: 59.99 EUR) en el siguiente enlace!

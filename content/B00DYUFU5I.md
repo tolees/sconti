@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 26.11 EUR
 inStock: true
-prodname: BTicino 3680GBF Multipresa Poker 4 Prese Universali con Interruttore Luminoso e Salvafulmine  3500 W  250 V  Nero
+prodname: 'BTicino 3680GBF Multipresa Poker 4 Prese Universali con Interruttore Luminoso e Salvafulmine  3500 W  250 V  Nero'
 ---
 
 Tienes [BTicino 3680GBF Multipresa Poker 4 Prese Universali con Interruttore Luminoso e Salvafulmine  3500 W  250 V  Nero](https://www.amazon.it/dp/B00DYUFU5I/?tag=tolees00-21) con un 34.93 % de descuento con precio de oferta de 16.99 EUR (original: 26.11 EUR) en el siguiente enlace!

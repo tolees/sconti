@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Brazilian Brasiliana  Bianco  White 100   44  Taglia Produttore: 38 Medium  Donna
+prodname: 'Tommy Hilfiger Brazilian Brasiliana  Bianco  White 100   44  Taglia Produttore: 38 Medium  Donna'
 ---
 
 Está [Tommy Hilfiger Brazilian Brasiliana  Bianco  White 100   44  Taglia Produttore: 38 Medium  Donna](https://www.amazon.it/dp/B078GDLFNP/?tag=tolees00-21) con 39.75 de descuento por 11.99 EUR (original: 19.9 EUR) en el siguiente enlace!

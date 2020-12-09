@@ -14,7 +14,7 @@ currency: EUR
 price: 44.59
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox U DUBLIN A  Scarpe Stringate Derby Uomo  Nero  Black C9999   47 EU
+prodname: 'Geox U DUBLIN A  Scarpe Stringate Derby Uomo  Nero  Black C9999   47 EU'
 ---
 
 Está [Geox U DUBLIN A  Scarpe Stringate Derby Uomo  Nero  Black C9999   47 EU](https://www.amazon.it/dp/B00DZJI9ZQ/?tag=tolees00-21) con 55.37 de descuento por 44.59 EUR (original: 99.9 EUR) en el siguiente enlace!

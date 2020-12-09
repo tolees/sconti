@@ -14,7 +14,7 @@ currency: EUR
 price: 159.06
 comparePrice: 229.9 EUR
 inStock: true
-prodname: HUAWEI T5 Mediapad Tablet con Display da 10.1"  32 GB Espandibili  3 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero
+prodname: 'HUAWEI T5 Mediapad Tablet con Display da 10.1"  32 GB Espandibili  3 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero'
 ---
 
 Tienes [HUAWEI T5 Mediapad Tablet con Display da 10.1"  32 GB Espandibili  3 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero](https://www.amazon.it/dp/B07G46LGKN/?tag=tolees00-21) con un 30.81 % de descuento con precio de oferta de 159.06 EUR (original: 229.9 EUR) en el siguiente enlace!

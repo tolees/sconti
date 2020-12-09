@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Timberland Lafayette Park  Stivali Chukka Uomo  Nero  Black Full Grain   44 EU
+prodname: 'Timberland Lafayette Park  Stivali Chukka Uomo  Nero  Black Full Grain   44 EU'
 ---
 
 Tienes [Timberland Lafayette Park  Stivali Chukka Uomo  Nero  Black Full Grain   44 EU](https://www.amazon.it/dp/B07RPZHBKR/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

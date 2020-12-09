@@ -14,7 +14,7 @@ currency: EUR
 price: 7.7
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Nymphomaniac  Director S Cut 
+prodname: 'Nymphomaniac  Director S Cut '
 ---
 
 Ahora mismo tienes [Nymphomaniac  Director S Cut ](https://www.amazon.it/dp/B00SJWY8WC/?tag=tolees00-21) a 7.7 EUR (original: 11.99 EUR) (35.78 %  de descuento) en el siguiente enlace!

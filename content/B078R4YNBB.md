@@ -14,7 +14,7 @@ currency: EUR
 price: 46.0
 comparePrice: 83.84 EUR
 inStock: true
-prodname: Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Teal Olive 14  44 EU
+prodname: 'Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Teal Olive 14  44 EU'
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Teal Olive 14  44 EU](https://www.amazon.it/dp/B078R4YNBB/?tag=tolees00-21) a 46.0 EUR (original: 83.84 EUR) (45.13 %  de descuento) en el siguiente enlace!

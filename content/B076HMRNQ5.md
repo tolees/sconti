@@ -14,7 +14,7 @@ currency: EUR
 price: 25.95
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Adidas Football App Generic  Jacket Uomo  Black/White  L
+prodname: 'Adidas Football App Generic  Jacket Uomo  Black/White  L'
 ---
 
 Está [Adidas Football App Generic  Jacket Uomo  Black/White  L](https://www.amazon.it/dp/B076HMRNQ5/?tag=tolees00-21) con 35.04 de descuento por 25.95 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Vitamina B12 1000 mcg - 365 Compresse  Fornitura 12 mesi di Metilcobalamina Vegana  - Contribuisce alla Riduzione di Stanchezza e Affaticamento - Prodotto da Nutravita
+prodname: 'Vitamina B12 1000 mcg - 365 Compresse  Fornitura 12 mesi di Metilcobalamina Vegana  - Contribuisce alla Riduzione di Stanchezza e Affaticamento - Prodotto da Nutravita'
 ---
 
 Ahora mismo tienes [Vitamina B12 1000 mcg - 365 Compresse  Fornitura 12 mesi di Metilcobalamina Vegana  - Contribuisce alla Riduzione di Stanchezza e Affaticamento - Prodotto da Nutravita](https://www.amazon.it/dp/B01N5RGV8U/?tag=tolees00-21) a 18.95 EUR (original: 29.99 EUR) (36.81 %  de descuento) en el siguiente enlace!

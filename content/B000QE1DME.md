@@ -14,7 +14,7 @@ currency: EUR
 price: 45.95
 comparePrice: 67.49 EUR
 inStock: true
-prodname: Birkenstock Arizona Birko-Flor  ciabatte unisex per adulti  nere  nere   44 EU
+prodname: 'Birkenstock Arizona Birko-Flor  ciabatte unisex per adulti  nere  nere   44 EU'
 ---
 
 Ahora mismo tienes [Birkenstock Arizona Birko-Flor  ciabatte unisex per adulti  nere  nere   44 EU](https://www.amazon.it/dp/B000QE1DME/?tag=tolees00-21) a 45.95 EUR (original: 67.49 EUR) (31.92 %  de descuento) en el siguiente enlace!

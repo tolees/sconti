@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 12.68 EUR
 inStock: true
-prodname: Maglev Essentials Bdx004m5 t Shirt Uomo  Nero  Black   5  Taglia Produttore: Small   Pacco da 5
+prodname: 'Maglev Essentials Bdx004m5 t Shirt Uomo  Nero  Black   5  Taglia Produttore: Small   Pacco da 5'
 ---
 
 Ahora mismo tienes [Maglev Essentials Bdx004m5 t Shirt Uomo  Nero  Black   5  Taglia Produttore: Small   Pacco da 5](https://www.amazon.it/dp/B07K6G6BNF/?tag=tolees00-21) a 6.99 EUR (original: 12.68 EUR) (44.87 %  de descuento) en el siguiente enlace!

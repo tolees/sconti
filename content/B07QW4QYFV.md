@@ -14,7 +14,7 @@ currency: EUR
 price: 50.99
 comparePrice: 115.0 EUR
 inStock: true
-prodname: Levi s Innovation Super Skinny Jeans  Blu  Globe Trotter 0065   25W / 32L Donna
+prodname: 'Levi s Innovation Super Skinny Jeans  Blu  Globe Trotter 0065   25W / 32L Donna'
 ---
 
 Está [Levi s Innovation Super Skinny Jeans  Blu  Globe Trotter 0065   25W / 32L Donna](https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21) con 55.66 de descuento por 50.99 EUR (original: 115.0 EUR) en el siguiente enlace!

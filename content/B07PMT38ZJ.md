@@ -14,7 +14,7 @@ currency: EUR
 price: 29.18
 comparePrice: 38.94 EUR
 inStock: true
-prodname: Marchio Amazon - MERAKI Maglione in Cotone con Chiusura a Zip Uomo  Nero  Black   S  Label: S
+prodname: 'Marchio Amazon - MERAKI Maglione in Cotone con Chiusura a Zip Uomo  Nero  Black   S  Label: S'
 ---
 
 Ahora mismo tienes [Marchio Amazon - MERAKI Maglione in Cotone con Chiusura a Zip Uomo  Nero  Black   S  Label: S](https://www.amazon.it/dp/B07PMT38ZJ/?tag=tolees00-21) a 29.18 EUR (original: 38.94 EUR) (25.06 %  de descuento) en el siguiente enlace!

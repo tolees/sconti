@@ -14,7 +14,7 @@ currency: EUR
 price: 12.37
 comparePrice: 21.95 EUR
 inStock: true
-prodname: WHATLEES Whatless Gilet Slim Elegante Uomo - Doppio Petto Testurizzato Formale Scollo V Beige
+prodname: 'WHATLEES Whatless Gilet Slim Elegante Uomo - Doppio Petto Testurizzato Formale Scollo V Beige'
 ---
 
 Tienes [WHATLEES Whatless Gilet Slim Elegante Uomo - Doppio Petto Testurizzato Formale Scollo V Beige](https://www.amazon.it/dp/B07BT9YKMM/?tag=tolees00-21) con un 43.64 % de descuento con precio de oferta de 12.37 EUR (original: 21.95 EUR) en el siguiente enlace!

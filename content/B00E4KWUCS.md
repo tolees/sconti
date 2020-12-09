@@ -14,7 +14,7 @@ currency: EUR
 price: 7.39
 comparePrice: 14.9 EUR
 inStock: true
-prodname: L Oréal Paris Dermo Expertise Soin  Revitalift Trattamento Rimagliante Anti-Rughe e Rassodante  50 ml
+prodname: 'L Oréal Paris Dermo Expertise Soin  Revitalift Trattamento Rimagliante Anti-Rughe e Rassodante  50 ml'
 ---
 
 Ahora mismo tienes [L Oréal Paris Dermo Expertise Soin  Revitalift Trattamento Rimagliante Anti-Rughe e Rassodante  50 ml](https://www.amazon.it/dp/B00E4KWUCS/?tag=tolees00-21) a 7.39 EUR (original: 14.9 EUR) (50.40 %  de descuento) en el siguiente enlace!

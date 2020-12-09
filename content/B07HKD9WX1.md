@@ -14,7 +14,7 @@ currency: EUR
 price: 57.1
 comparePrice: 82.76 EUR
 inStock: true
-prodname: National Geographic Multi Colour Stazione meteorologica Radio  Nero
+prodname: 'National Geographic Multi Colour Stazione meteorologica Radio  Nero'
 ---
 
 Tienes [National Geographic Multi Colour Stazione meteorologica Radio  Nero](https://www.amazon.it/dp/B07HKD9WX1/?tag=tolees00-21) con un 31.01 % de descuento con precio de oferta de 57.1 EUR (original: 82.76 EUR) en el siguiente enlace!

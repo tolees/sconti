@@ -14,7 +14,7 @@ currency: EUR
 price: 18.9
 comparePrice: 29.94 EUR
 inStock: true
-prodname: Bio Presto Liquido Classico Detersivo Lavatrice  Formula Potenziata 6 x 19 Lavaggi
+prodname: 'Bio Presto Liquido Classico Detersivo Lavatrice  Formula Potenziata 6 x 19 Lavaggi'
 ---
 
 Tienes [Bio Presto Liquido Classico Detersivo Lavatrice  Formula Potenziata 6 x 19 Lavaggi](https://www.amazon.it/dp/B085JGYWKY/?tag=tolees00-21) con un 36.87 % de descuento con precio de oferta de 18.9 EUR (original: 29.94 EUR) en el siguiente enlace!

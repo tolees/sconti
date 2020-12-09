@@ -14,7 +14,7 @@ currency: EUR
 price: 38.99
 comparePrice: 73.81 EUR
 inStock: true
-prodname: ONEMIX Scarpe da Running Uomo  Leggero e Traspirante Scarpe da Ginnastica Sportive Outdoor Fitness Sneakers 1309 Greyblack 40
+prodname: 'ONEMIX Scarpe da Running Uomo  Leggero e Traspirante Scarpe da Ginnastica Sportive Outdoor Fitness Sneakers 1309 Greyblack 40'
 ---
 
 Tienes [ONEMIX Scarpe da Running Uomo  Leggero e Traspirante Scarpe da Ginnastica Sportive Outdoor Fitness Sneakers 1309 Greyblack 40](https://www.amazon.it/dp/B083XZJP4V/?tag=tolees00-21) con un 47.18 % de descuento con precio de oferta de 38.99 EUR (original: 73.81 EUR) en el siguiente enlace!

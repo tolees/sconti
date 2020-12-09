@@ -14,7 +14,7 @@ currency: EUR
 price: 4.45
 comparePrice: 9.32 EUR
 inStock: true
-prodname: Rimmel – Mascara Wonder luxe Volume – Volume istantaneo  senza confezione – 002 Brown – 11 ml
+prodname: 'Rimmel – Mascara Wonder luxe Volume – Volume istantaneo  senza confezione – 002 Brown – 11 ml'
 ---
 
 Está [Rimmel – Mascara Wonder luxe Volume – Volume istantaneo  senza confezione – 002 Brown – 11 ml](https://www.amazon.it/dp/B07QL7DZFQ/?tag=tolees00-21) con 52.25 de descuento por 4.45 EUR (original: 9.32 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.61
 comparePrice: 7.81 EUR
 inStock: true
-prodname: Max Factor Mascara Volumizzante 2000 Calorie  a Lunga Durata  Nero
+prodname: 'Max Factor Mascara Volumizzante 2000 Calorie  a Lunga Durata  Nero'
 ---
 
 Está [Max Factor Mascara Volumizzante 2000 Calorie  a Lunga Durata  Nero](https://www.amazon.it/dp/B001GNBW0W/?tag=tolees00-21) con 53.78 de descuento por 3.61 EUR (original: 7.81 EUR) en el siguiente enlace!

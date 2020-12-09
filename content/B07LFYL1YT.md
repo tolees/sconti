@@ -14,7 +14,7 @@ currency: EUR
 price: 54.32
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox D HOARA B  Stivali da Motociclista Donna  Nero  Black C9999   38 EU
+prodname: 'Geox D HOARA B  Stivali da Motociclista Donna  Nero  Black C9999   38 EU'
 ---
 
 Tienes [Geox D HOARA B  Stivali da Motociclista Donna  Nero  Black C9999   38 EU](https://www.amazon.it/dp/B07LFYL1YT/?tag=tolees00-21) con un 50.57 % de descuento con precio de oferta de 54.32 EUR (original: 109.9 EUR) en el siguiente enlace!

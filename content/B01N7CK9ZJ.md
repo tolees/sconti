@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 249.99 EUR
 inStock: true
-prodname: BISSELL HydroClean ProHeat Complete - Aspirapolvere/Pulitore per tappezzeria  moquettes e pavimenti duri
+prodname: 'BISSELL HydroClean ProHeat Complete - Aspirapolvere/Pulitore per tappezzeria  moquettes e pavimenti duri'
 ---
 
 Está [BISSELL HydroClean ProHeat Complete - Aspirapolvere/Pulitore per tappezzeria  moquettes e pavimenti duri](https://www.amazon.it/dp/B01N7CK9ZJ/?tag=tolees00-21) con 40.00 de descuento por 149.99 EUR (original: 249.99 EUR) en el siguiente enlace!

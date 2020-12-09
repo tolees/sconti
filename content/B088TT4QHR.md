@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Massaggiatore Cervicale  cervicale massaggiatore homedics Multifunzionale Massaggiatore Cervicale cervicale massaggi Fisioterapia Elettromagnetica Profonda  allevia il dolore
+prodname: 'Massaggiatore Cervicale  cervicale massaggiatore homedics Multifunzionale Massaggiatore Cervicale cervicale massaggi Fisioterapia Elettromagnetica Profonda  allevia il dolore'
 ---
 
 Está [Massaggiatore Cervicale  cervicale massaggiatore homedics Multifunzionale Massaggiatore Cervicale cervicale massaggi Fisioterapia Elettromagnetica Profonda  allevia il dolore](https://www.amazon.it/dp/B088TT4QHR/?tag=tolees00-21) con 57.22 de descuento por 29.9 EUR (original: 69.9 EUR) en el siguiente enlace!

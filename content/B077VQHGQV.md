@@ -14,7 +14,7 @@ currency: EUR
 price: 42.22
 comparePrice: 64.95 EUR
 inStock: true
-prodname: adidas VL Court 2.0  Scarpe da Fitness Uomo  Blu  Maruni/Ftwbla 000   41 1/3 EU
+prodname: 'adidas VL Court 2.0  Scarpe da Fitness Uomo  Blu  Maruni/Ftwbla 000   41 1/3 EU'
 ---
 
 Tienes [adidas VL Court 2.0  Scarpe da Fitness Uomo  Blu  Maruni/Ftwbla 000   41 1/3 EU](https://www.amazon.it/dp/B077VQHGQV/?tag=tolees00-21) con un 35.00 % de descuento con precio de oferta de 42.22 EUR (original: 64.95 EUR) en el siguiente enlace!

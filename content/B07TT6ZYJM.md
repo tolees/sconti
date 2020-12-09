@@ -14,7 +14,7 @@ currency: EUR
 price: 48.99
 comparePrice: 80.0 EUR
 inStock: true
-prodname: Levi s Essential Western Camicia  Blu  Cool out  2  0001   Medium Donna
+prodname: 'Levi s Essential Western Camicia  Blu  Cool out  2  0001   Medium Donna'
 ---
 
 Ahora mismo tienes [Levi s Essential Western Camicia  Blu  Cool out  2  0001   Medium Donna](https://www.amazon.it/dp/B07TT6ZYJM/?tag=tolees00-21) a 48.99 EUR (original: 80.0 EUR) (38.76 %  de descuento) en el siguiente enlace!

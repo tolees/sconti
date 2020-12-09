@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 64.95 EUR
 inStock: true
-prodname: adidas 8K 2020  Scarpe da Corsa Uomo  Core Black/Ftwr White/Core Black  43 1/3 EU
+prodname: 'adidas 8K 2020  Scarpe da Corsa Uomo  Core Black/Ftwr White/Core Black  43 1/3 EU'
 ---
 
 Está [adidas 8K 2020  Scarpe da Corsa Uomo  Core Black/Ftwr White/Core Black  43 1/3 EU](https://www.amazon.it/dp/B07ZQG4FD5/?tag=tolees00-21) con 47.67 de descuento por 33.99 EUR (original: 64.95 EUR) en el siguiente enlace!

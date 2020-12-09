@@ -14,7 +14,7 @@ currency: EUR
 price: 9.79
 comparePrice: 20.66 EUR
 inStock: true
-prodname: find. Hiking Style Sneaker a Collo Alto  Nero Black   41 EU
+prodname: 'find. Hiking Style Sneaker a Collo Alto  Nero Black   41 EU'
 ---
 
 Está [find. Hiking Style Sneaker a Collo Alto  Nero Black   41 EU](https://www.amazon.it/dp/B07DWFXY5Z/?tag=tolees00-21) con 52.61 de descuento por 9.79 EUR (original: 20.66 EUR) en el siguiente enlace!

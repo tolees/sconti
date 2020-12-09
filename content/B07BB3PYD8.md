@@ -14,7 +14,7 @@ currency: EUR
 price: 23.01
 comparePrice: 39.99 EUR
 inStock: true
-prodname: HyperX HX-HSCSC-BK Cloud Stinger Core  Cuffie Gaming per Console PlayStation 4/4 Pro
+prodname: 'HyperX HX-HSCSC-BK Cloud Stinger Core  Cuffie Gaming per Console PlayStation 4/4 Pro'
 ---
 
 Está [HyperX HX-HSCSC-BK Cloud Stinger Core  Cuffie Gaming per Console PlayStation 4/4 Pro](https://www.amazon.it/dp/B07BB3PYD8/?tag=tolees00-21) con 42.46 de descuento por 23.01 EUR (original: 39.99 EUR) en el siguiente enlace!

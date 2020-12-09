@@ -14,7 +14,7 @@ currency: EUR
 price: 20.0
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Bluetooth senza fili Cuffie Sport Auricolari bluetooth con 4 microfoni 40 ore di riproduzione riduzione dei rumori CVC 8.0 6D stereo cuffie wireless per lavoro e viaggio per iPhone Android ecc.
+prodname: 'Bluetooth senza fili Cuffie Sport Auricolari bluetooth con 4 microfoni 40 ore di riproduzione riduzione dei rumori CVC 8.0 6D stereo cuffie wireless per lavoro e viaggio per iPhone Android ecc.'
 ---
 
 Ahora mismo tienes [Bluetooth senza fili Cuffie Sport Auricolari bluetooth con 4 microfoni 40 ore di riproduzione riduzione dei rumori CVC 8.0 6D stereo cuffie wireless per lavoro e viaggio per iPhone Android ecc.](https://www.amazon.it/dp/B08CXND4TR/?tag=tolees00-21) a 20.0 EUR (original: 39.99 EUR) (49.99 %  de descuento) en el siguiente enlace!

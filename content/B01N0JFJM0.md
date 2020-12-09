@@ -14,7 +14,7 @@ currency: EUR
 price: 33.99
 comparePrice: 59.51 EUR
 inStock: true
-prodname: Tommy Hilfiger H2285ARLOW 1D  Scarpe da Ginnastica Basse Uomo  Grigio  42 EU
+prodname: 'Tommy Hilfiger H2285ARLOW 1D  Scarpe da Ginnastica Basse Uomo  Grigio  42 EU'
 ---
 
 Tienes [Tommy Hilfiger H2285ARLOW 1D  Scarpe da Ginnastica Basse Uomo  Grigio  42 EU](https://www.amazon.it/dp/B01N0JFJM0/?tag=tolees00-21) con un 42.88 % de descuento con precio de oferta de 33.99 EUR (original: 59.51 EUR) en el siguiente enlace!

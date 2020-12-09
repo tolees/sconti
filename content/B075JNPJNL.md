@@ -14,7 +14,7 @@ currency: EUR
 price: 159.99
 comparePrice: 309.99 EUR
 inStock: true
-prodname: Philips Sonicare HX9903/03 DiamondClean Smart  Spazzolino Elettrico con Tecnologia Sonicare  Connesso all Applicazione  4 Programmi di Pulizia  Bianco
+prodname: 'Philips Sonicare HX9903/03 DiamondClean Smart  Spazzolino Elettrico con Tecnologia Sonicare  Connesso all Applicazione  4 Programmi di Pulizia  Bianco'
 ---
 
 Tienes [Philips Sonicare HX9903/03 DiamondClean Smart  Spazzolino Elettrico con Tecnologia Sonicare  Connesso all Applicazione  4 Programmi di Pulizia  Bianco](https://www.amazon.it/dp/B075JNPJNL/?tag=tolees00-21) con un 48.39 % de descuento con precio de oferta de 159.99 EUR (original: 309.99 EUR) en el siguiente enlace!

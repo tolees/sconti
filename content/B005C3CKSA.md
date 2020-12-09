@@ -14,7 +14,7 @@ currency: EUR
 price: 21.66
 comparePrice: 31.07 EUR
 inStock: true
-prodname: Unitec 10920 Compressore Ad Alto Rendimento  Manometro Fino a 7 Bar
+prodname: 'Unitec 10920 Compressore Ad Alto Rendimento  Manometro Fino a 7 Bar'
 ---
 
 Ahora mismo tienes [Unitec 10920 Compressore Ad Alto Rendimento  Manometro Fino a 7 Bar](https://www.amazon.it/dp/B005C3CKSA/?tag=tolees00-21) a 21.66 EUR (original: 31.07 EUR) (30.29 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 96.16
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Timberland Classic Boat 2 Eye Scarpe da Barca  Uomo  Marrone  Saddle  Tb0a2afnf131   41.5 EU  7.5 UK 
+prodname: 'Timberland Classic Boat 2 Eye Scarpe da Barca  Uomo  Marrone  Saddle  Tb0a2afnf131   41.5 EU  7.5 UK '
 ---
 
 Ahora mismo tienes [Timberland Classic Boat 2 Eye Scarpe da Barca  Uomo  Marrone  Saddle  Tb0a2afnf131   41.5 EU  7.5 UK ](https://www.amazon.it/dp/B07T3GZH6C/?tag=tolees00-21) a 96.16 EUR (original: 140.0 EUR) (31.31 %  de descuento) en el siguiente enlace!

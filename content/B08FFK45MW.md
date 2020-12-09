@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 10.99 EUR
 inStock: true
-prodname: Pellicola Xiaomi Mi Note 10 Lite Vetro Temperato  9H Durezza Protezione Schermo  Anti Graffi HD Trasparenza Protettiva Screen Protector Film
+prodname: 'Pellicola Xiaomi Mi Note 10 Lite Vetro Temperato  9H Durezza Protezione Schermo  Anti Graffi HD Trasparenza Protettiva Screen Protector Film'
 ---
 
 Ahora mismo tienes [Pellicola Xiaomi Mi Note 10 Lite Vetro Temperato  9H Durezza Protezione Schermo  Anti Graffi HD Trasparenza Protettiva Screen Protector Film](https://www.amazon.it/dp/B08FFK45MW/?tag=tolees00-21) a 7.99 EUR (original: 10.99 EUR) (27.30 %  de descuento) en el siguiente enlace!

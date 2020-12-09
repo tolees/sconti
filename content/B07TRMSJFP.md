@@ -14,7 +14,7 @@ currency: EUR
 price: 22.0
 comparePrice: 35.4 EUR
 inStock: true
-prodname: Levi s 501 Long Pantaloncini  Blu  Montgomery Mended Short 0013   W25  Taglia Unica: 25  Donna
+prodname: 'Levi s 501 Long Pantaloncini  Blu  Montgomery Mended Short 0013   W25  Taglia Unica: 25  Donna'
 ---
 
 Está [Levi s 501 Long Pantaloncini  Blu  Montgomery Mended Short 0013   W25  Taglia Unica: 25  Donna](https://www.amazon.it/dp/B07TRMSJFP/?tag=tolees00-21) con 37.85 de descuento por 22.0 EUR (original: 35.4 EUR) en el siguiente enlace!

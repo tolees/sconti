@@ -14,7 +14,7 @@ currency: EUR
 price: 50.0
 comparePrice: 148.75 EUR
 inStock: true
-prodname: Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione  Bassi Potenti con Driver da 40 mm  24 Ore di Riproduzione Wireless  Noise Cancelling  Comandi Vocali  Design Rétro Contemporaneo  Nero
+prodname: 'Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione  Bassi Potenti con Driver da 40 mm  24 Ore di Riproduzione Wireless  Noise Cancelling  Comandi Vocali  Design Rétro Contemporaneo  Nero'
 ---
 
 Tienes [Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione  Bassi Potenti con Driver da 40 mm  24 Ore di Riproduzione Wireless  Noise Cancelling  Comandi Vocali  Design Rétro Contemporaneo  Nero](https://www.amazon.it/dp/B07NLQ4P8W/?tag=tolees00-21) con un 66.39 % de descuento con precio de oferta de 50.0 EUR (original: 148.75 EUR) en el siguiente enlace!

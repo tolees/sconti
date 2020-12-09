@@ -14,7 +14,7 @@ currency: EUR
 price: 49.12
 comparePrice: 179.0 EUR
 inStock: true
-prodname: NAPAPIJRI AGARD Bomber  Verde  Green Way Gw11   L Uomo
+prodname: 'NAPAPIJRI AGARD Bomber  Verde  Green Way Gw11   L Uomo'
 ---
 
 Tienes [NAPAPIJRI AGARD Bomber  Verde  Green Way Gw11   L Uomo](https://www.amazon.it/dp/B07VCC9PZ4/?tag=tolees00-21) con un 72.56 % de descuento con precio de oferta de 49.12 EUR (original: 179.0 EUR) en el siguiente enlace!

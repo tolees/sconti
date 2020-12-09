@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 18.91 EUR
 inStock: true
-prodname: UniqueMe [2+2 Pezzi Pellicola Protettiva per xiaomi Mi Note 10 TPU Film + Pellicola Fotocamera per xiaomi Mi Note 10 Vetro [Bubble-Free][Facile installare].
+prodname: 'UniqueMe [2+2 Pezzi Pellicola Protettiva per xiaomi Mi Note 10 TPU Film + Pellicola Fotocamera per xiaomi Mi Note 10 Vetro [Bubble-Free][Facile installare].'
 ---
 
 Tienes [UniqueMe [2+2 Pezzi Pellicola Protettiva per xiaomi Mi Note 10 TPU Film + Pellicola Fotocamera per xiaomi Mi Note 10 Vetro [Bubble-Free][Facile installare].](https://www.amazon.it/dp/B08GPVMHBF/?tag=tolees00-21) con un 52.46 % de descuento con precio de oferta de 8.99 EUR (original: 18.91 EUR) en el siguiente enlace!

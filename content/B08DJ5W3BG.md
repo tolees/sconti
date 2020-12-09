@@ -14,7 +14,7 @@ currency: EUR
 price: 5.88
 comparePrice: 7.91 EUR
 inStock: true
-prodname: Ferilinso Cover per Xiaomi Mi 10T 5G / 10T PRO 5G + 2 Pezzi Pellicola Protettiva Vetro Temperato  [Transparente TPU Custodia] [10X Anti-Yellowing] [Anti-Antiurto] [Anti-Scratch]
+prodname: 'Ferilinso Cover per Xiaomi Mi 10T 5G / 10T PRO 5G + 2 Pezzi Pellicola Protettiva Vetro Temperato  [Transparente TPU Custodia] [10X Anti-Yellowing] [Anti-Antiurto] [Anti-Scratch]'
 ---
 
 Ahora mismo tienes [Ferilinso Cover per Xiaomi Mi 10T 5G / 10T PRO 5G + 2 Pezzi Pellicola Protettiva Vetro Temperato  [Transparente TPU Custodia] [10X Anti-Yellowing] [Anti-Antiurto] [Anti-Scratch]](https://www.amazon.it/dp/B08DJ5W3BG/?tag=tolees00-21) a 5.88 EUR (original: 7.91 EUR) (25.66 %  de descuento) en el siguiente enlace!

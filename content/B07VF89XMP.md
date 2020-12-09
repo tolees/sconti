@@ -14,7 +14,7 @@ currency: EUR
 price: 3.38
 comparePrice: 7.95 EUR
 inStock: true
-prodname: YAMAMAY® Brasiliana - Minimalist
+prodname: 'YAMAMAY® Brasiliana - Minimalist'
 ---
 
 Está [YAMAMAY® Brasiliana - Minimalist](https://www.amazon.it/dp/B07VF89XMP/?tag=tolees00-21) con 57.48 de descuento por 3.38 EUR (original: 7.95 EUR) en el siguiente enlace!

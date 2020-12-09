@@ -14,7 +14,7 @@ currency: EUR
 price: 48.95
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Levi s Hoodie Felpa con Cappuccio  Mineral Black  M Uomo
+prodname: 'Levi s Hoodie Felpa con Cappuccio  Mineral Black  M Uomo'
 ---
 
 Tienes [Levi s Hoodie Felpa con Cappuccio  Mineral Black  M Uomo](https://www.amazon.it/dp/B07ZVPBTPW/?tag=tolees00-21) con un 30.07 % de descuento con precio de oferta de 48.95 EUR (original: 70.0 EUR) en el siguiente enlace!

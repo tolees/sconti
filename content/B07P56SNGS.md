@@ -14,7 +14,7 @@ currency: EUR
 price: 15.75
 comparePrice: 33.0 EUR
 inStock: true
-prodname: Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  all Hours  Button-Down-Shirts  Olive Bengal Stripe  US  EU XL-XXL 
+prodname: 'Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  all Hours  Button-Down-Shirts  Olive Bengal Stripe  US  EU XL-XXL '
 ---
 
 Ahora mismo tienes [Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  all Hours  Button-Down-Shirts  Olive Bengal Stripe  US  EU XL-XXL ](https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21) a 15.75 EUR (original: 33.0 EUR) (52.27 %  de descuento) en el siguiente enlace!

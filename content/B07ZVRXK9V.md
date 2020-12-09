@@ -14,7 +14,7 @@ currency: EUR
 price: 67.61
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit Jeans  Manilla Leaves Adapt  34W / 30L Uomo
+prodname: 'Levi s 511 Slim Fit Jeans  Manilla Leaves Adapt  34W / 30L Uomo'
 ---
 
 Tienes [Levi s 511 Slim Fit Jeans  Manilla Leaves Adapt  34W / 30L Uomo](https://www.amazon.it/dp/B07ZVRXK9V/?tag=tolees00-21) con un 43.66 % de descuento con precio de oferta de 67.61 EUR (original: 120.0 EUR) en el siguiente enlace!

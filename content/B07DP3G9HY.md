@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Doom Eternal - - PlayStation 4
+prodname: 'Doom Eternal - - PlayStation 4'
 ---
 
 Ahora mismo tienes [Doom Eternal - - PlayStation 4](https://www.amazon.it/dp/B07DP3G9HY/?tag=tolees00-21) a 19.99 EUR (original: 69.99 EUR) (71.44 %  de descuento) en el siguiente enlace!

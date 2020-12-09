@@ -14,7 +14,7 @@ currency: EUR
 price: 14.98
 comparePrice: 24.99 EUR
 inStock: true
-prodname: LEGO City Elicottero dei Pompieri  Set da Costruzione con Pompiere e Quad ATV  60248
+prodname: 'LEGO City Elicottero dei Pompieri  Set da Costruzione con Pompiere e Quad ATV  60248'
 ---
 
 Tienes [LEGO City Elicottero dei Pompieri  Set da Costruzione con Pompiere e Quad ATV  60248](https://www.amazon.it/dp/B07W8XYZ1P/?tag=tolees00-21) con un 40.06 % de descuento con precio de oferta de 14.98 EUR (original: 24.99 EUR) en el siguiente enlace!

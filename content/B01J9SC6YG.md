@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: SALCAR Tenda Luminosa tenda catena LED 3 * 3 metro 300 LEDs illuminano tenda per le feste di Natale  Decorare  Party  8 programmi scelta di  bianco caldo 
+prodname: 'SALCAR Tenda Luminosa tenda catena LED 3 * 3 metro 300 LEDs illuminano tenda per le feste di Natale  Decorare  Party  8 programmi scelta di  bianco caldo '
 ---
 
 Ahora mismo tienes [SALCAR Tenda Luminosa tenda catena LED 3 * 3 metro 300 LEDs illuminano tenda per le feste di Natale  Decorare  Party  8 programmi scelta di  bianco caldo ](https://www.amazon.it/dp/B01J9SC6YG/?tag=tolees00-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

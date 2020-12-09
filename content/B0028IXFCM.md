@@ -14,7 +14,7 @@ currency: EUR
 price: 6.9
 comparePrice: 12.0 EUR
 inStock: true
-prodname: GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema corpo
+prodname: 'GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema corpo'
 ---
 
 Ahora mismo tienes [GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema corpo](https://www.amazon.it/dp/B0028IXFCM/?tag=tolees00-21) a 6.9 EUR (original: 12.0 EUR) (42.50 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.09
 comparePrice: 28.12 EUR
 inStock: true
-prodname: Superdry Frankie Relaxed Jeans  Blu  Dark Blue Diamond 2sh   W33/L34  Taglia Produttore: 33/34  Uomo
+prodname: 'Superdry Frankie Relaxed Jeans  Blu  Dark Blue Diamond 2sh   W33/L34  Taglia Produttore: 33/34  Uomo'
 ---
 
 Tienes [Superdry Frankie Relaxed Jeans  Blu  Dark Blue Diamond 2sh   W33/L34  Taglia Produttore: 33/34  Uomo](https://www.amazon.it/dp/B07Q9S2RJL/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 21.09 EUR (original: 28.12 EUR) en el siguiente enlace!

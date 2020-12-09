@@ -14,7 +14,7 @@ currency: EUR
 price: 72.95
 comparePrice: 145.0 EUR
 inStock: true
-prodname: Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone  MD Brown Full Grain   44.5 EU
+prodname: 'Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone  MD Brown Full Grain   44.5 EU'
 ---
 
 Tienes [Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone  MD Brown Full Grain   44.5 EU](https://www.amazon.it/dp/B07F2BWH5X/?tag=tolees00-21) con un 49.69 % de descuento con precio de oferta de 72.95 EUR (original: 145.0 EUR) en el siguiente enlace!

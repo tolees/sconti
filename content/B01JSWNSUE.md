@@ -14,7 +14,7 @@ currency: EUR
 price: 33.64
 comparePrice: 54.21 EUR
 inStock: true
-prodname: New Balance 500  Scarpe da Ginnastica Donna  Grigio  Grey   37.5 EU
+prodname: 'New Balance 500  Scarpe da Ginnastica Donna  Grigio  Grey   37.5 EU'
 ---
 
 Está [New Balance 500  Scarpe da Ginnastica Donna  Grigio  Grey   37.5 EU](https://www.amazon.it/dp/B01JSWNSUE/?tag=tolees00-21) con 37.95 de descuento por 33.64 EUR (original: 54.21 EUR) en el siguiente enlace!

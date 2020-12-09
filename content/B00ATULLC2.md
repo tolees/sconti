@@ -14,7 +14,7 @@ currency: EUR
 price: 50.0
 comparePrice: 84.68 EUR
 inStock: true
-prodname: Invicta 14397 Angel Orologio da Donna acciaio inossidabile Quarzo quadrante oro
+prodname: 'Invicta 14397 Angel Orologio da Donna acciaio inossidabile Quarzo quadrante oro'
 ---
 
 Tienes [Invicta 14397 Angel Orologio da Donna acciaio inossidabile Quarzo quadrante oro](https://www.amazon.it/dp/B00ATULLC2/?tag=tolees00-21) con un 40.95 % de descuento con precio de oferta de 50.0 EUR (original: 84.68 EUR) en el siguiente enlace!

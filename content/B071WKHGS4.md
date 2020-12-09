@@ -14,7 +14,7 @@ currency: EUR
 price: 2.49
 comparePrice: 5.49 EUR
 inStock: true
-prodname: Lenor Ammorbidente Oro & Fiori di Vaniglia  Maxi Formato da 70 Lavaggi
+prodname: 'Lenor Ammorbidente Oro & Fiori di Vaniglia  Maxi Formato da 70 Lavaggi'
 ---
 
 Tienes [Lenor Ammorbidente Oro & Fiori di Vaniglia  Maxi Formato da 70 Lavaggi](https://www.amazon.it/dp/B071WKHGS4/?tag=tolees00-21) con un 54.64 % de descuento con precio de oferta de 2.49 EUR (original: 5.49 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.5
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Swarovski Braccialetto Power Collection  Verde
+prodname: 'Swarovski Braccialetto Power Collection  Verde'
 ---
 
 Tienes [Swarovski Braccialetto Power Collection  Verde](https://www.amazon.it/dp/B07TXR8FST/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 34.5 EUR (original: 69.0 EUR) en el siguiente enlace!

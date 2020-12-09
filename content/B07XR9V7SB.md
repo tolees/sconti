@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 45.99 EUR
 inStock: true
-prodname: Apple Custodia in Pelle  per iPhone 11 Pro Max  - Blu Notte
+prodname: 'Apple Custodia in Pelle  per iPhone 11 Pro Max  - Blu Notte'
 ---
 
 Ahora mismo tienes [Apple Custodia in Pelle  per iPhone 11 Pro Max  - Blu Notte](https://www.amazon.it/dp/B07XR9V7SB/?tag=tolees00-21) a 32.99 EUR (original: 45.99 EUR) (28.27 %  de descuento) en el siguiente enlace!

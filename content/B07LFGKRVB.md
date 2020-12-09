@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Levi s 2pk Crewneck Graphic T-Shirt  Multicolore  2 Pack SW White/Mineral Black 0000   Small Uomo
+prodname: 'Levi s 2pk Crewneck Graphic T-Shirt  Multicolore  2 Pack SW White/Mineral Black 0000   Small Uomo'
 ---
 
 Tienes [Levi s 2pk Crewneck Graphic T-Shirt  Multicolore  2 Pack SW White/Mineral Black 0000   Small Uomo](https://www.amazon.it/dp/B07LFGKRVB/?tag=tolees00-21) con un 31.46 % de descuento con precio de oferta de 23.99 EUR (original: 35.0 EUR) en el siguiente enlace!

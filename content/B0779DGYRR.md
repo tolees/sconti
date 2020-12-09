@@ -14,7 +14,7 @@ currency: EUR
 price: 21.66
 comparePrice: 34.95 EUR
 inStock: true
-prodname: adidas T-Shirt Alphaskin Sport  Maglia Manica Lunga Uomo  Blu  S
+prodname: 'adidas T-Shirt Alphaskin Sport  Maglia Manica Lunga Uomo  Blu  S'
 ---
 
 Está [adidas T-Shirt Alphaskin Sport  Maglia Manica Lunga Uomo  Blu  S](https://www.amazon.it/dp/B0779DGYRR/?tag=tolees00-21) con 38.03 de descuento por 21.66 EUR (original: 34.95 EUR) en el siguiente enlace!

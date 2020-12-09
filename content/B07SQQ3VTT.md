@@ -14,7 +14,7 @@ currency: EUR
 price: 96.47
 comparePrice: 176.98 EUR
 inStock: true
-prodname: Marchio Amazon - Alkove - Materasso singolo a tripla densità  double face  in memory foam e lattice  con coprimaterasso Sanitized® rimovibile  80 x 190 x 23 cm
+prodname: 'Marchio Amazon - Alkove - Materasso singolo a tripla densità  double face  in memory foam e lattice  con coprimaterasso Sanitized® rimovibile  80 x 190 x 23 cm'
 ---
 
 Tienes [Marchio Amazon - Alkove - Materasso singolo a tripla densità  double face  in memory foam e lattice  con coprimaterasso Sanitized® rimovibile  80 x 190 x 23 cm](https://www.amazon.it/dp/B07SQQ3VTT/?tag=tolees00-21) con un 45.49 % de descuento con precio de oferta de 96.47 EUR (original: 176.98 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 149.9 EUR
 inStock: true
-prodname: BaByliss BAB2665E Mira Curl Ferro Arricciacappelli  fino a 230 Gradi Celsius  colore: Nero
+prodname: 'BaByliss BAB2665E Mira Curl Ferro Arricciacappelli  fino a 230 Gradi Celsius  colore: Nero'
 ---
 
 Está [BaByliss BAB2665E Mira Curl Ferro Arricciacappelli  fino a 230 Gradi Celsius  colore: Nero](https://www.amazon.it/dp/B00CW9TVH0/?tag=tolees00-21) con 53.31 de descuento por 69.99 EUR (original: 149.9 EUR) en el siguiente enlace!

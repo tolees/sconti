@@ -14,7 +14,7 @@ currency: EUR
 price: 15.81
 comparePrice: 21.31 EUR
 inStock: true
-prodname: Puma Iconic MCS Track Pt  Giacca Tuta Uomo  Nero Black  XL
+prodname: 'Puma Iconic MCS Track Pt  Giacca Tuta Uomo  Nero Black  XL'
 ---
 
 Está [Puma Iconic MCS Track Pt  Giacca Tuta Uomo  Nero Black  XL](https://www.amazon.it/dp/B07XCWWRT8/?tag=tolees00-21) con 25.81 de descuento por 15.81 EUR (original: 21.31 EUR) en el siguiente enlace!

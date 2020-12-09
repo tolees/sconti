@@ -14,7 +14,7 @@ currency: EUR
 price: 28.76
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  SM
+prodname: 'Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  SM'
 ---
 
 Tienes [Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  SM](https://www.amazon.it/dp/B07MQXQY86/?tag=tolees00-21) con un 52.07 % de descuento con precio de oferta de 28.76 EUR (original: 60.0 EUR) en el siguiente enlace!

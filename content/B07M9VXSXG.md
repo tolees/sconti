@@ -14,7 +14,7 @@ currency: EUR
 price: 338.43
 comparePrice: 529.99 EUR
 inStock: true
-prodname: Western Digital WD Black SN750 NVMe SSD Interno per Gaming ad Elevate Prestazioni  M.2 PCIe Gen 3 x 4  Senza Dissipatore di Calore  2 TB
+prodname: 'Western Digital WD Black SN750 NVMe SSD Interno per Gaming ad Elevate Prestazioni  M.2 PCIe Gen 3 x 4  Senza Dissipatore di Calore  2 TB'
 ---
 
 Tienes [Western Digital WD Black SN750 NVMe SSD Interno per Gaming ad Elevate Prestazioni  M.2 PCIe Gen 3 x 4  Senza Dissipatore di Calore  2 TB](https://www.amazon.it/dp/B07M9VXSXG/?tag=tolees00-21) con un 36.14 % de descuento con precio de oferta de 338.43 EUR (original: 529.99 EUR) en el siguiente enlace!

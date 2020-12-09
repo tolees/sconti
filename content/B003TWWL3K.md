@@ -14,7 +14,7 @@ currency: EUR
 price: 18.98
 comparePrice: 25.42 EUR
 inStock: true
-prodname: Claber Tubo Collettore da 50m
+prodname: 'Claber Tubo Collettore da 50m'
 ---
 
 Está [Claber Tubo Collettore da 50m](https://www.amazon.it/dp/B003TWWL3K/?tag=tolees00-21) con 25.33 de descuento por 18.98 EUR (original: 25.42 EUR) en el siguiente enlace!

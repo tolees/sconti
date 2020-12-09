@@ -14,7 +14,7 @@ currency: EUR
 price: 11.96
 comparePrice: 43.33 EUR
 inStock: true
-prodname: Marchio Amazon - find. Cotton Cagoule  Giacca Uomo  Blu  M  Label: M
+prodname: 'Marchio Amazon - find. Cotton Cagoule  Giacca Uomo  Blu  M  Label: M'
 ---
 
 Tienes [Marchio Amazon - find. Cotton Cagoule  Giacca Uomo  Blu  M  Label: M](https://www.amazon.it/dp/B07GSJDRBR/?tag=tolees00-21) con un 72.40 % de descuento con precio de oferta de 11.96 EUR (original: 43.33 EUR) en el siguiente enlace!

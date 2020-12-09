@@ -14,7 +14,7 @@ currency: EUR
 price: 17.8
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Hasbro Gaming - Forza 4 Al Volo  Gioco in Scatola
+prodname: 'Hasbro Gaming - Forza 4 Al Volo  Gioco in Scatola'
 ---
 
 Está [Hasbro Gaming - Forza 4 Al Volo  Gioco in Scatola](https://www.amazon.it/dp/B07KLQRP2K/?tag=tolees00-21) con 28.77 de descuento por 17.8 EUR (original: 24.99 EUR) en el siguiente enlace!

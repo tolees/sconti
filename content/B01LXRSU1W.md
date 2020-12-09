@@ -14,7 +14,7 @@ currency: EUR
 price: 35.3
 comparePrice: 64.99 EUR
 inStock: true
-prodname: GoPro Supercharger Caricabatteria a Doppia Porta Internazionale  Nero
+prodname: 'GoPro Supercharger Caricabatteria a Doppia Porta Internazionale  Nero'
 ---
 
 Está [GoPro Supercharger Caricabatteria a Doppia Porta Internazionale  Nero](https://www.amazon.it/dp/B01LXRSU1W/?tag=tolees00-21) con 45.68 de descuento por 35.3 EUR (original: 64.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.49
 comparePrice: 11.88 EUR
 inStock: true
-prodname: X-Dision [3 Pezzi Compatibile con Sony Xperia X Compact Proteggi Schermo Pellicola Protettiva 2.5D[Durezza 9H Installazione Facile Infrangibile] Accessori Premium Pellicola in Vetro Temperato
+prodname: 'X-Dision [3 Pezzi Compatibile con Sony Xperia X Compact Proteggi Schermo Pellicola Protettiva 2.5D[Durezza 9H Installazione Facile Infrangibile] Accessori Premium Pellicola in Vetro Temperato'
 ---
 
 Está [X-Dision [3 Pezzi Compatibile con Sony Xperia X Compact Proteggi Schermo Pellicola Protettiva 2.5D[Durezza 9H Installazione Facile Infrangibile] Accessori Premium Pellicola in Vetro Temperato](https://www.amazon.it/dp/B08GNZ4JQR/?tag=tolees00-21) con 28.54 de descuento por 8.49 EUR (original: 11.88 EUR) en el siguiente enlace!

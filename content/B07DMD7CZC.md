@@ -14,7 +14,7 @@ currency: EUR
 price: 52.45
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Lacoste ESPARRE BL 1 CMA  Sneaker Uomo  Bianco  White/White   45 EU
+prodname: 'Lacoste ESPARRE BL 1 CMA  Sneaker Uomo  Bianco  White/White   45 EU'
 ---
 
 Está [Lacoste ESPARRE BL 1 CMA  Sneaker Uomo  Bianco  White/White   45 EU](https://www.amazon.it/dp/B07DMD7CZC/?tag=tolees00-21) con 44.79 de descuento por 52.45 EUR (original: 95.0 EUR) en el siguiente enlace!

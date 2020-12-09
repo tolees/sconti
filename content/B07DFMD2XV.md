@@ -14,7 +14,7 @@ currency: EUR
 price: 29.5
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Guess Vikky Slg Large Zip Around Portamonete  Donna  Nero  Taglia Unica
+prodname: 'Guess Vikky Slg Large Zip Around Portamonete  Donna  Nero  Taglia Unica'
 ---
 
 Ahora mismo tienes [Guess Vikky Slg Large Zip Around Portamonete  Donna  Nero  Taglia Unica](https://www.amazon.it/dp/B07DFMD2XV/?tag=tolees00-21) a 29.5 EUR (original: 65.0 EUR) (54.62 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.11
 comparePrice: 35.63 EUR
 inStock: true
-prodname: Marchio Amazon - find. Blazer di Lino Donna  Multicolore  Black/White stripe   44  Label: M
+prodname: 'Marchio Amazon - find. Blazer di Lino Donna  Multicolore  Black/White stripe   44  Label: M'
 ---
 
 Tienes [Marchio Amazon - find. Blazer di Lino Donna  Multicolore  Black/White stripe   44  Label: M](https://www.amazon.it/dp/B07KMDWTCP/?tag=tolees00-21) con un 66.01 % de descuento con precio de oferta de 12.11 EUR (original: 35.63 EUR) en el siguiente enlace!

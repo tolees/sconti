@@ -14,7 +14,7 @@ currency: EUR
 price: 27.38
 comparePrice: 74.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Basse Uomo  Bianco  White Ybs   43 EU
+prodname: 'Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Basse Uomo  Bianco  White Ybs   43 EU'
 ---
 
 Tienes [Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Basse Uomo  Bianco  White Ybs   43 EU](https://www.amazon.it/dp/B07V8VL7VV/?tag=tolees00-21) con un 63.44 % de descuento con precio de oferta de 27.38 EUR (original: 74.9 EUR) en el siguiente enlace!

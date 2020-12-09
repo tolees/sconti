@@ -14,7 +14,7 @@ currency: EUR
 price: 56.04
 comparePrice: 80.0 EUR
 inStock: true
-prodname: Converse Chuck Taylor Core Lea Ox  Sneaker unisex adulto  Bianco  Blanc   44
+prodname: 'Converse Chuck Taylor Core Lea Ox  Sneaker unisex adulto  Bianco  Blanc   44'
 ---
 
 Tienes [Converse Chuck Taylor Core Lea Ox  Sneaker unisex adulto  Bianco  Blanc   44](https://www.amazon.it/dp/B006M6AZVU/?tag=tolees00-21) con un 29.95 % de descuento con precio de oferta de 56.04 EUR (original: 80.0 EUR) en el siguiente enlace!

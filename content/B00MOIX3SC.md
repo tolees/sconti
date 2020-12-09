@@ -14,7 +14,7 @@ currency: EUR
 price: 199.99
 comparePrice: 549.99 EUR
 inStock: true
-prodname: Beurer IPL 10000+ SalonPro System Epilatore a Luce Pulsata con 250.000 Impulsi Luminosi
+prodname: 'Beurer IPL 10000+ SalonPro System Epilatore a Luce Pulsata con 250.000 Impulsi Luminosi'
 ---
 
 Ahora mismo tienes [Beurer IPL 10000+ SalonPro System Epilatore a Luce Pulsata con 250.000 Impulsi Luminosi](https://www.amazon.it/dp/B00MOIX3SC/?tag=tolees00-21) a 199.99 EUR (original: 549.99 EUR) (63.64 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.79
 comparePrice: 33.05 EUR
 inStock: true
-prodname: RD9 Catene da Neve Metalliche  9 mm  Guanti Inclusi  Taglia n. 100  Set da 2
+prodname: 'RD9 Catene da Neve Metalliche  9 mm  Guanti Inclusi  Taglia n. 100  Set da 2'
 ---
 
 Está [RD9 Catene da Neve Metalliche  9 mm  Guanti Inclusi  Taglia n. 100  Set da 2](https://www.amazon.it/dp/B07DWFP1FW/?tag=tolees00-21) con 34.07 de descuento por 21.79 EUR (original: 33.05 EUR) en el siguiente enlace!

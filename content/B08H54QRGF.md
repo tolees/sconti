@@ -14,7 +14,7 @@ currency: EUR
 price: 3.2
 comparePrice: 7.98 EUR
 inStock: true
-prodname: MMLsure 6 Pezzi indossabili all Interno e all Esterno  6 Pezzi Neri 
+prodname: 'MMLsure 6 Pezzi indossabili all Interno e all Esterno  6 Pezzi Neri '
 ---
 
 Ahora mismo tienes [MMLsure 6 Pezzi indossabili all Interno e all Esterno  6 Pezzi Neri ](https://www.amazon.it/dp/B08H54QRGF/?tag=tolees00-21) a 3.2 EUR (original: 7.98 EUR) (59.90 %  de descuento) en el siguiente enlace!

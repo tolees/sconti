@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Vans Left Chest Logo Tee T-Shirt Uomo  Bianco  White   X-Large  113 - 122 cm 
+prodname: 'Vans Left Chest Logo Tee T-Shirt Uomo  Bianco  White   X-Large  113 - 122 cm '
 ---
 
 Está [Vans Left Chest Logo Tee T-Shirt Uomo  Bianco  White   X-Large  113 - 122 cm ](https://www.amazon.it/dp/B07F2QMJHR/?tag=tolees00-21) con 30.05 de descuento por 13.99 EUR (original: 20.0 EUR) en el siguiente enlace!

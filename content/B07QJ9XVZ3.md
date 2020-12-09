@@ -14,7 +14,7 @@ currency: EUR
 price: 13.19
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Hawiton Donna Pantaloncini Corti a Quadretti in Cotone al 95% Pigiama Pantaloni Corti Estivi per Casa con Vita Elasticizzata  S  C-Viola 
+prodname: 'Hawiton Donna Pantaloncini Corti a Quadretti in Cotone al 95% Pigiama Pantaloni Corti Estivi per Casa con Vita Elasticizzata  S  C-Viola '
 ---
 
 Tienes [Hawiton Donna Pantaloncini Corti a Quadretti in Cotone al 95% Pigiama Pantaloni Corti Estivi per Casa con Vita Elasticizzata  S  C-Viola ](https://www.amazon.it/dp/B07QJ9XVZ3/?tag=tolees00-21) con un 56.02 % de descuento con precio de oferta de 13.19 EUR (original: 29.99 EUR) en el siguiente enlace!

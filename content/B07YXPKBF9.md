@@ -14,7 +14,7 @@ currency: EUR
 price: 21.66
 comparePrice: 33.99 EUR
 inStock: true
-prodname: HOMIEE Zaino da Trekking 45 Litri  Resistente all Acqua  Zaino da Escursione per Trekking Alpinismo  Multifunzione Zaino da Campeggio per Sport Viaggio Donna e Uomo Verde
+prodname: 'HOMIEE Zaino da Trekking 45 Litri  Resistente all Acqua  Zaino da Escursione per Trekking Alpinismo  Multifunzione Zaino da Campeggio per Sport Viaggio Donna e Uomo Verde'
 ---
 
 Ahora mismo tienes [HOMIEE Zaino da Trekking 45 Litri  Resistente all Acqua  Zaino da Escursione per Trekking Alpinismo  Multifunzione Zaino da Campeggio per Sport Viaggio Donna e Uomo Verde](https://www.amazon.it/dp/B07YXPKBF9/?tag=tolees00-21) a 21.66 EUR (original: 33.99 EUR) (36.28 %  de descuento) en el siguiente enlace!

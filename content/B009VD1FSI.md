@@ -14,7 +14,7 @@ currency: EUR
 price: 21.29
 comparePrice: 29.0 EUR
 inStock: true
-prodname: Intex 68579 Sedia gonfiabile  Grigio  107 x 104 x 69 cm  Vinile
+prodname: 'Intex 68579 Sedia gonfiabile  Grigio  107 x 104 x 69 cm  Vinile'
 ---
 
 Tienes [Intex 68579 Sedia gonfiabile  Grigio  107 x 104 x 69 cm  Vinile](https://www.amazon.it/dp/B009VD1FSI/?tag=tolees00-21) con un 26.59 % de descuento con precio de oferta de 21.29 EUR (original: 29.0 EUR) en el siguiente enlace!

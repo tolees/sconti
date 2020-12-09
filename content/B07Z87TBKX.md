@@ -14,7 +14,7 @@ currency: EUR
 price: 9.49
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Joker
+prodname: 'Joker'
 ---
 
 Está [Joker](https://www.amazon.it/dp/B07Z87TBKX/?tag=tolees00-21) con 44.14 de descuento por 9.49 EUR (original: 16.99 EUR) en el siguiente enlace!

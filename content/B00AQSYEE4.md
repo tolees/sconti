@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Gangster  4 Grandi Film  Box 4 Dv 
+prodname: 'Gangster  4 Grandi Film  Box 4 Dv '
 ---
 
 Tienes [Gangster  4 Grandi Film  Box 4 Dv ](https://www.amazon.it/dp/B00AQSYEE4/?tag=tolees00-21) con un 53.89 % de descuento con precio de oferta de 5.99 EUR (original: 12.99 EUR) en el siguiente enlace!

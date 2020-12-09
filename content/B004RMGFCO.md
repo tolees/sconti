@@ -14,7 +14,7 @@ currency: EUR
 price: 29.0
 comparePrice: 43.22 EUR
 inStock: true
-prodname: Fossil Bracciale da Uomo in Pelle/Acciaio Inossidabile
+prodname: 'Fossil Bracciale da Uomo in Pelle/Acciaio Inossidabile'
 ---
 
 Está [Fossil Bracciale da Uomo in Pelle/Acciaio Inossidabile](https://www.amazon.it/dp/B004RMGFCO/?tag=tolees00-21) con 32.90 de descuento por 29.0 EUR (original: 43.22 EUR) en el siguiente enlace!

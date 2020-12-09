@@ -14,7 +14,7 @@ currency: EUR
 price: 1.19
 comparePrice: 1.75 EUR
 inStock: true
-prodname: Milka Tuc - 87 g
+prodname: 'Milka Tuc - 87 g'
 ---
 
 Está [Milka Tuc - 87 g](https://www.amazon.it/dp/B00XA0YW4M/?tag=tolees00-21) con 32.00 de descuento por 1.19 EUR (original: 1.75 EUR) en el siguiente enlace!

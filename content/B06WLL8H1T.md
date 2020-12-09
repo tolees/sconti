@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 22.0 EUR
 inStock: true
-prodname: Havaianas Logo Metallic  Infradito Donna Bianco  White 0001   Taglia Produttore 39/40
+prodname: 'Havaianas Logo Metallic  Infradito Donna Bianco  White 0001   Taglia Produttore 39/40'
 ---
 
 Está [Havaianas Logo Metallic  Infradito Donna Bianco  White 0001   Taglia Produttore 39/40](https://www.amazon.it/dp/B06WLL8H1T/?tag=tolees00-21) con 40.95 de descuento por 12.99 EUR (original: 22.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 68.45 EUR
 inStock: true
-prodname: Star Trek Ente.St.1 4  Box 24 Br 
+prodname: 'Star Trek Ente.St.1 4  Box 24 Br '
 ---
 
 Tienes [Star Trek Ente.St.1 4  Box 24 Br ](https://www.amazon.it/dp/B071KFDDC7/?tag=tolees00-21) con un 56.19 % de descuento con precio de oferta de 29.99 EUR (original: 68.45 EUR) en el siguiente enlace!

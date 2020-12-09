@@ -14,7 +14,7 @@ currency: EUR
 price: 15.38
 comparePrice: 34.9 EUR
 inStock: true
-prodname: Calvin Klein Monogram Modern Straight Crop T-Shirt  Grigio  Light Grey Heather P   44  Taglia Produttore: Large  Donna
+prodname: 'Calvin Klein Monogram Modern Straight Crop T-Shirt  Grigio  Light Grey Heather P   44  Taglia Produttore: Large  Donna'
 ---
 
 Está [Calvin Klein Monogram Modern Straight Crop T-Shirt  Grigio  Light Grey Heather P   44  Taglia Produttore: Large  Donna](https://www.amazon.it/dp/B07V7GHHK4/?tag=tolees00-21) con 55.93 de descuento por 15.38 EUR (original: 34.9 EUR) en el siguiente enlace!

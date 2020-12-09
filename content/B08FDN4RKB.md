@@ -14,7 +14,7 @@ currency: EUR
 price: 15.37
 comparePrice: 21.95 EUR
 inStock: true
-prodname: goldenpoint Reggiseno Intimo Donna con Ferretto in Pizzo macramé
+prodname: 'goldenpoint Reggiseno Intimo Donna con Ferretto in Pizzo macramé'
 ---
 
 Tienes [goldenpoint Reggiseno Intimo Donna con Ferretto in Pizzo macramé](https://www.amazon.it/dp/B08FDN4RKB/?tag=tolees00-21) con un 29.98 % de descuento con precio de oferta de 15.37 EUR (original: 21.95 EUR) en el siguiente enlace!

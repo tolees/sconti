@@ -14,7 +14,7 @@ currency: EUR
 price: 39.23
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Nike Hoodie Po Fleece TM Club19  Felpa Uomo  Nero  Black/Black/White/White 010   Medium
+prodname: 'Nike Hoodie Po Fleece TM Club19  Felpa Uomo  Nero  Black/Black/White/White 010   Medium'
 ---
 
 Ahora mismo tienes [Nike Hoodie Po Fleece TM Club19  Felpa Uomo  Nero  Black/Black/White/White 010   Medium](https://www.amazon.it/dp/B000VE6LSA/?tag=tolees00-21) a 39.23 EUR (original: 55.0 EUR) (28.67 %  de descuento) en el siguiente enlace!

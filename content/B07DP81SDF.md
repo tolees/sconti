@@ -14,7 +14,7 @@ currency: EUR
 price: 36.98
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas Falcon W  Sneaker Donna  Multicolore  Black Cblack/Cblack/Ftwwht   40 EU
+prodname: 'adidas Falcon W  Sneaker Donna  Multicolore  Black Cblack/Cblack/Ftwwht   40 EU'
 ---
 
 Tienes [adidas Falcon W  Sneaker Donna  Multicolore  Black Cblack/Cblack/Ftwwht   40 EU](https://www.amazon.it/dp/B07DP81SDF/?tag=tolees00-21) con un 63.00 % de descuento con precio de oferta de 36.98 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.72
 comparePrice: 22.71 EUR
 inStock: true
-prodname: Clarks Pawley Springs  Scarpe da Ginnastica Basse Donna  Blu  Navy Suede Navy Suede   38 EU
+prodname: 'Clarks Pawley Springs  Scarpe da Ginnastica Basse Donna  Blu  Navy Suede Navy Suede   38 EU'
 ---
 
 Está [Clarks Pawley Springs  Scarpe da Ginnastica Basse Donna  Blu  Navy Suede Navy Suede   38 EU](https://www.amazon.it/dp/B07TKN86NZ/?tag=tolees00-21) con 35.18 de descuento por 14.72 EUR (original: 22.71 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 35.02
 comparePrice: 50.5 EUR
 inStock: true
-prodname: Polaroid Eyewear PLD 2062/S Occhiali da Sole  Matt HVNA  50 Uomo
+prodname: 'Polaroid Eyewear PLD 2062/S Occhiali da Sole  Matt HVNA  50 Uomo'
 ---
 
 Tienes [Polaroid Eyewear PLD 2062/S Occhiali da Sole  Matt HVNA  50 Uomo](https://www.amazon.it/dp/B07B3WKRFM/?tag=tolees00-21) con un 30.65 % de descuento con precio de oferta de 35.02 EUR (original: 50.5 EUR) en el siguiente enlace!

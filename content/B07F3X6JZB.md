@@ -14,7 +14,7 @@ currency: EUR
 price: 23.96
 comparePrice: 46.56 EUR
 inStock: true
-prodname: Marchio Amazon - find. Giacca Bomber con Maniche in Nylon Uomo  Nero  Black/Khaki Black/Khaki   L  Label: L
+prodname: 'Marchio Amazon - find. Giacca Bomber con Maniche in Nylon Uomo  Nero  Black/Khaki Black/Khaki   L  Label: L'
 ---
 
 Está [Marchio Amazon - find. Giacca Bomber con Maniche in Nylon Uomo  Nero  Black/Khaki Black/Khaki   L  Label: L](https://www.amazon.it/dp/B07F3X6JZB/?tag=tolees00-21) con 48.54 de descuento por 23.96 EUR (original: 46.56 EUR) en el siguiente enlace!

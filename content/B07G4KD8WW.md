@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Razer Kraken Tournament Edition  Cuffie da Gioco e-Sports Completamente Cablate con Controllo Audio Completo e THX Spacial Audio  Nero
+prodname: 'Razer Kraken Tournament Edition  Cuffie da Gioco e-Sports Completamente Cablate con Controllo Audio Completo e THX Spacial Audio  Nero'
 ---
 
 Está [Razer Kraken Tournament Edition  Cuffie da Gioco e-Sports Completamente Cablate con Controllo Audio Completo e THX Spacial Audio  Nero](https://www.amazon.it/dp/B07G4KD8WW/?tag=tolees00-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

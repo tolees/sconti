@@ -14,7 +14,7 @@ currency: EUR
 price: 18.23
 comparePrice: 45.9 EUR
 inStock: true
-prodname: Crocs Crocband Clogs  Ciabatte Unisex-Adulto  Black  39/40 EU
+prodname: 'Crocs Crocband Clogs  Ciabatte Unisex-Adulto  Black  39/40 EU'
 ---
 
 Tienes [Crocs Crocband Clogs  Ciabatte Unisex-Adulto  Black  39/40 EU](https://www.amazon.it/dp/B002JCSSRE/?tag=tolees00-21) con un 60.28 % de descuento con precio de oferta de 18.23 EUR (original: 45.9 EUR) en el siguiente enlace!

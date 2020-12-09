@@ -14,7 +14,7 @@ currency: EUR
 price: 40.65
 comparePrice: 77.0 EUR
 inStock: true
-prodname: Foppapedretti Babyroad - Seggiolino Auto  Gruppo 1-2-3  9-36 Kg  per Bambini da 9 Mesi a 12 Anni Circa  Gris
+prodname: 'Foppapedretti Babyroad - Seggiolino Auto  Gruppo 1-2-3  9-36 Kg  per Bambini da 9 Mesi a 12 Anni Circa  Gris'
 ---
 
 Tienes [Foppapedretti Babyroad - Seggiolino Auto  Gruppo 1-2-3  9-36 Kg  per Bambini da 9 Mesi a 12 Anni Circa  Gris](https://www.amazon.it/dp/B01LWSWXVI/?tag=tolees00-21) con un 47.21 % de descuento con precio de oferta de 40.65 EUR (original: 77.0 EUR) en el siguiente enlace!

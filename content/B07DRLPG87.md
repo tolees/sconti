@@ -14,7 +14,7 @@ currency: EUR
 price: 17.97
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Under Armour UA Streaker 2.0  Maglietta Uomo  Nero  Pitch Gray   S
+prodname: 'Under Armour UA Streaker 2.0  Maglietta Uomo  Nero  Pitch Gray   S'
 ---
 
 Ahora mismo tienes [Under Armour UA Streaker 2.0  Maglietta Uomo  Nero  Pitch Gray   S](https://www.amazon.it/dp/B07DRLPG87/?tag=tolees00-21) a 17.97 EUR (original: 34.99 EUR) (48.64 %  de descuento) en el siguiente enlace!

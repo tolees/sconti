@@ -14,7 +14,7 @@ currency: EUR
 price: 135.0
 comparePrice: 229.95 EUR
 inStock: true
-prodname: Hugo Boss 1513282 - Orologio da uomo con movimento al quarzo  funzione di cronografo e cinturino in pelle
+prodname: 'Hugo Boss 1513282 - Orologio da uomo con movimento al quarzo  funzione di cronografo e cinturino in pelle'
 ---
 
 Ahora mismo tienes [Hugo Boss 1513282 - Orologio da uomo con movimento al quarzo  funzione di cronografo e cinturino in pelle](https://www.amazon.it/dp/B013PIDCU8/?tag=tolees00-21) a 135.0 EUR (original: 229.95 EUR) (41.29 %  de descuento) en el siguiente enlace!

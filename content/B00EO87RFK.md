@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Harry Potter Anni 1 4  4 Grandi Film   Box 4 Dv 
+prodname: 'Harry Potter Anni 1 4  4 Grandi Film   Box 4 Dv '
 ---
 
 Está [Harry Potter Anni 1 4  4 Grandi Film   Box 4 Dv ](https://www.amazon.it/dp/B00EO87RFK/?tag=tolees00-21) con 53.37 de descuento por 6.99 EUR (original: 14.99 EUR) en el siguiente enlace!

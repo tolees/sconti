@@ -14,7 +14,7 @@ currency: EUR
 price: 99.95
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Bianco  Bright White 002   Large Uomo
+prodname: 'Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Bianco  Bright White 002   Large Uomo'
 ---
 
 Ahora mismo tienes [Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Bianco  Bright White 002   Large Uomo](https://www.amazon.it/dp/B0735BCSFT/?tag=tolees00-21) a 99.95 EUR (original: 199.0 EUR) (49.77 %  de descuento) en el siguiente enlace!

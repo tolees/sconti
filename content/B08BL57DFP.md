@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Striscia LED RGB 5M 8 Colori 18 Modalità Più Colori insieme IP65 con 24 Tasti Telecomando IR per Giardino Bar Festa Facile Installazione OUSFOT
+prodname: 'Striscia LED RGB 5M 8 Colori 18 Modalità Più Colori insieme IP65 con 24 Tasti Telecomando IR per Giardino Bar Festa Facile Installazione OUSFOT'
 ---
 
 Tienes [Striscia LED RGB 5M 8 Colori 18 Modalità Più Colori insieme IP65 con 24 Tasti Telecomando IR per Giardino Bar Festa Facile Installazione OUSFOT](https://www.amazon.it/dp/B08BL57DFP/?tag=tolees00-21) con un 28.59 % de descuento con precio de oferta de 14.99 EUR (original: 20.99 EUR) en el siguiente enlace!

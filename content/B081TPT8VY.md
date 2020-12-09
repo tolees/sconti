@@ -14,7 +14,7 @@ currency: EUR
 price: 13.98
 comparePrice: 21.27 EUR
 inStock: true
-prodname: adidas Ripple TS  Maglietta Uomo  Bianco  White/Shock Pink   M
+prodname: 'adidas Ripple TS  Maglietta Uomo  Bianco  White/Shock Pink   M'
 ---
 
 Ahora mismo tienes [adidas Ripple TS  Maglietta Uomo  Bianco  White/Shock Pink   M](https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21) a 13.98 EUR (original: 21.27 EUR) (34.27 %  de descuento) en el siguiente enlace!

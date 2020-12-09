@@ -14,7 +14,7 @@ currency: EUR
 price: 14.0
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Under Armour UA Tech 2.0 Short Sleeve Tee  Maglietta Uomo  Rosso  Red/Graphite 600   M
+prodname: 'Under Armour UA Tech 2.0 Short Sleeve Tee  Maglietta Uomo  Rosso  Red/Graphite 600   M'
 ---
 
 Tienes [Under Armour UA Tech 2.0 Short Sleeve Tee  Maglietta Uomo  Rosso  Red/Graphite 600   M](https://www.amazon.it/dp/B077XPFPD5/?tag=tolees00-21) con un 49.98 % de descuento con precio de oferta de 14.0 EUR (original: 27.99 EUR) en el siguiente enlace!

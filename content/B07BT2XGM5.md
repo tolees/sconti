@@ -14,7 +14,7 @@ currency: EUR
 price: 19.59
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Set di rasoi multifunzione Y.F.M. Tagliacapelli professionale regolabarba e tagliacapelli  Pettine per i capelli o barba  Display LCD  Pettine di limite Red
+prodname: 'Set di rasoi multifunzione Y.F.M. Tagliacapelli professionale regolabarba e tagliacapelli  Pettine per i capelli o barba  Display LCD  Pettine di limite Red'
 ---
 
 Está [Set di rasoi multifunzione Y.F.M. Tagliacapelli professionale regolabarba e tagliacapelli  Pettine per i capelli o barba  Display LCD  Pettine di limite Red](https://www.amazon.it/dp/B07BT2XGM5/?tag=tolees00-21) con 40.62 de descuento por 19.59 EUR (original: 32.99 EUR) en el siguiente enlace!

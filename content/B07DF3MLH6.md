@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 19.8 EUR
 inStock: true
-prodname: Maybelline New York Mascara Volumizzante Ciglia Sensazionali  Effetto Ventaglio per Ciglia Folte  Confezione da 2 Pezzi  Nero
+prodname: 'Maybelline New York Mascara Volumizzante Ciglia Sensazionali  Effetto Ventaglio per Ciglia Folte  Confezione da 2 Pezzi  Nero'
 ---
 
 Está [Maybelline New York Mascara Volumizzante Ciglia Sensazionali  Effetto Ventaglio per Ciglia Folte  Confezione da 2 Pezzi  Nero](https://www.amazon.it/dp/B07DF3MLH6/?tag=tolees00-21) con 50.00 de descuento por 9.9 EUR (original: 19.8 EUR) en el siguiente enlace!

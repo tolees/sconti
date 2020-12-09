@@ -14,7 +14,7 @@ currency: EUR
 price: 73.45
 comparePrice: 104.98 EUR
 inStock: true
-prodname: Timberland Ashwood Park Leather  Stivali Chukka Uomo  Marrone  Dk Brown Full Grain   43 EU
+prodname: 'Timberland Ashwood Park Leather  Stivali Chukka Uomo  Marrone  Dk Brown Full Grain   43 EU'
 ---
 
 Ahora mismo tienes [Timberland Ashwood Park Leather  Stivali Chukka Uomo  Marrone  Dk Brown Full Grain   43 EU](https://www.amazon.it/dp/B07VMWZGGQ/?tag=tolees00-21) a 73.45 EUR (original: 104.98 EUR) (30.03 %  de descuento) en el siguiente enlace!

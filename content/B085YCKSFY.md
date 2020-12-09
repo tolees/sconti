@@ -14,7 +14,7 @@ currency: EUR
 price: 15.28
 comparePrice: 39.95 EUR
 inStock: true
-prodname: YAMAMAY® Pantalone Classico - Party
+prodname: 'YAMAMAY® Pantalone Classico - Party'
 ---
 
 Ahora mismo tienes [YAMAMAY® Pantalone Classico - Party](https://www.amazon.it/dp/B085YCKSFY/?tag=tolees00-21) a 15.28 EUR (original: 39.95 EUR) (61.75 %  de descuento) en el siguiente enlace!

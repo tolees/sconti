@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Hori Controller Horipad Wireless  Grigio  - Ufficiale Nintendo - Nintendo Switch
+prodname: 'Hori Controller Horipad Wireless  Grigio  - Ufficiale Nintendo - Nintendo Switch'
 ---
 
 Tienes [Hori Controller Horipad Wireless  Grigio  - Ufficiale Nintendo - Nintendo Switch](https://www.amazon.it/dp/B01C6X5GMU/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 34.99 EUR (original: 50.0 EUR) en el siguiente enlace!

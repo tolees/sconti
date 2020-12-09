@@ -14,7 +14,7 @@ currency: EUR
 price: 5.0
 comparePrice: 7.99 EUR
 inStock: true
-prodname: Scusate Se Esisto
+prodname: 'Scusate Se Esisto'
 ---
 
 Está [Scusate Se Esisto](https://www.amazon.it/dp/B00UU0B6AI/?tag=tolees00-21) con 37.42 de descuento por 5.0 EUR (original: 7.99 EUR) en el siguiente enlace!

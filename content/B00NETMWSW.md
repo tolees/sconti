@@ -14,7 +14,7 @@ currency: EUR
 price: 1.28
 comparePrice: 2.99 EUR
 inStock: true
-prodname: Borotalco Bagnodoccia Vaniglia e Ambra - 500 ml
+prodname: 'Borotalco Bagnodoccia Vaniglia e Ambra - 500 ml'
 ---
 
 Está [Borotalco Bagnodoccia Vaniglia e Ambra - 500 ml](https://www.amazon.it/dp/B00NETMWSW/?tag=tolees00-21) con 57.19 de descuento por 1.28 EUR (original: 2.99 EUR) en el siguiente enlace!

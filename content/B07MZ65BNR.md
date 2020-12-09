@@ -14,7 +14,7 @@ currency: EUR
 price: 14.96
 comparePrice: 43.82 EUR
 inStock: true
-prodname: Marchio Amazon - find. Maglione Girocollo Uomo  Multicolour  Black / Grey   M  Label: M
+prodname: 'Marchio Amazon - find. Maglione Girocollo Uomo  Multicolour  Black / Grey   M  Label: M'
 ---
 
 Tienes [Marchio Amazon - find. Maglione Girocollo Uomo  Multicolour  Black / Grey   M  Label: M](https://www.amazon.it/dp/B07MZ65BNR/?tag=tolees00-21) con un 65.86 % de descuento con precio de oferta de 14.96 EUR (original: 43.82 EUR) en el siguiente enlace!

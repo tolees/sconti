@@ -14,7 +14,7 @@ currency: EUR
 price: 7.28
 comparePrice: 23.88 EUR
 inStock: true
-prodname: Marchio Amazon - find. Blusa in Velluto con Punto Smock Donna  Nero  Schwarz   40  Label: XS
+prodname: 'Marchio Amazon - find. Blusa in Velluto con Punto Smock Donna  Nero  Schwarz   40  Label: XS'
 ---
 
 Tienes [Marchio Amazon - find. Blusa in Velluto con Punto Smock Donna  Nero  Schwarz   40  Label: XS](https://www.amazon.it/dp/B073JHMDWS/?tag=tolees00-21) con un 69.51 % de descuento con precio de oferta de 7.28 EUR (original: 23.88 EUR) en el siguiente enlace!

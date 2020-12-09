@@ -14,7 +14,7 @@ currency: EUR
 price: 16.19
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s The Perfect Tee Maglietta  Bianco  90 s Serif T2 Multicolor White+ 0969   Small  Herstellergröße: S  Donna
+prodname: 'Levi s The Perfect Tee Maglietta  Bianco  90 s Serif T2 Multicolor White+ 0969   Small  Herstellergröße: S  Donna'
 ---
 
 Tienes [Levi s The Perfect Tee Maglietta  Bianco  90 s Serif T2 Multicolor White+ 0969   Small  Herstellergröße: S  Donna](https://www.amazon.it/dp/B07TT6YGDG/?tag=tolees00-21) con un 35.24 % de descuento con precio de oferta de 16.19 EUR (original: 25.0 EUR) en el siguiente enlace!

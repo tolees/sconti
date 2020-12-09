@@ -14,7 +14,7 @@ currency: EUR
 price: 46.36
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Lacoste TH6712 T-Shirt  Grigio  Argent Chine   XX-Large  Taglia Produttore: 7  Uomo
+prodname: 'Lacoste TH6712 T-Shirt  Grigio  Argent Chine   XX-Large  Taglia Produttore: 7  Uomo'
 ---
 
 Tienes [Lacoste TH6712 T-Shirt  Grigio  Argent Chine   XX-Large  Taglia Produttore: 7  Uomo](https://www.amazon.it/dp/B01MPY2TNU/?tag=tolees00-21) con un 28.68 % de descuento con precio de oferta de 46.36 EUR (original: 65.0 EUR) en el siguiente enlace!

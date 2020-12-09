@@ -14,7 +14,7 @@ currency: EUR
 price: 7.49
 comparePrice: 10.33 EUR
 inStock: true
-prodname: Trolls  B9526EU40  Mini Set casa di Poppy
+prodname: 'Trolls  B9526EU40  Mini Set casa di Poppy'
 ---
 
 Tienes [Trolls  B9526EU40  Mini Set casa di Poppy](https://www.amazon.it/dp/B01MTQXGDG/?tag=tolees00-21) con un 27.49 % de descuento con precio de oferta de 7.49 EUR (original: 10.33 EUR) en el siguiente enlace!

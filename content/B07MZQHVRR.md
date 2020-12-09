@@ -14,7 +14,7 @@ currency: EUR
 price: 29.76
 comparePrice: 40.99 EUR
 inStock: true
-prodname: Funko 39894 POP! Rides: Il Signore degli Anelli S5: Il re Strega w/Fellbeast The Collectible Figure  Multicolore
+prodname: 'Funko 39894 POP! Rides: Il Signore degli Anelli S5: Il re Strega w/Fellbeast The Collectible Figure  Multicolore'
 ---
 
 Ahora mismo tienes [Funko 39894 POP! Rides: Il Signore degli Anelli S5: Il re Strega w/Fellbeast The Collectible Figure  Multicolore](https://www.amazon.it/dp/B07MZQHVRR/?tag=tolees00-21) a 29.76 EUR (original: 40.99 EUR) (27.40 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 42.31 EUR
 inStock: true
-prodname: Gimi Tris Floral Carrello Portaspesa  56 litri  Sistema 3+3 Ruote  Saliscale  Portata 30 kg  Acciaio/Tessuto  Blu  51 x 41 x 102 cm
+prodname: 'Gimi Tris Floral Carrello Portaspesa  56 litri  Sistema 3+3 Ruote  Saliscale  Portata 30 kg  Acciaio/Tessuto  Blu  51 x 41 x 102 cm'
 ---
 
 Tienes [Gimi Tris Floral Carrello Portaspesa  56 litri  Sistema 3+3 Ruote  Saliscale  Portata 30 kg  Acciaio/Tessuto  Blu  51 x 41 x 102 cm](https://www.amazon.it/dp/B00F61MRVI/?tag=tolees00-21) con un 29.12 % de descuento con precio de oferta de 29.99 EUR (original: 42.31 EUR) en el siguiente enlace!

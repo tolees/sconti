@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Timberland Nellie Chukka Leather Sde  Stivali Donna  Giallo Wheat Nubuck  38.5 EU
+prodname: 'Timberland Nellie Chukka Leather Sde  Stivali Donna  Giallo Wheat Nubuck  38.5 EU'
 ---
 
 Ahora mismo tienes [Timberland Nellie Chukka Leather Sde  Stivali Donna  Giallo Wheat Nubuck  38.5 EU](https://www.amazon.it/dp/B073XHYXX7/?tag=tolees00-21) a 89.99 EUR (original: 140.0 EUR) (35.72 %  de descuento) en el siguiente enlace!

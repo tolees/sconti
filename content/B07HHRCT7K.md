@@ -14,7 +14,7 @@ currency: EUR
 price: 24.47
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Crocs Literide Clog  Zoccoli Unisex-Adulto  Navy/Pepper  41/42 EU
+prodname: 'Crocs Literide Clog  Zoccoli Unisex-Adulto  Navy/Pepper  41/42 EU'
 ---
 
 Tienes [Crocs Literide Clog  Zoccoli Unisex-Adulto  Navy/Pepper  41/42 EU](https://www.amazon.it/dp/B07HHRCT7K/?tag=tolees00-21) con un 55.50 % de descuento con precio de oferta de 24.47 EUR (original: 54.99 EUR) en el siguiente enlace!

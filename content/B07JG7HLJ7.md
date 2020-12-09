@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 59.99 EUR
 inStock: true
-prodname: PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black-White-Silver  39 EU
+prodname: 'PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black-White-Silver  39 EU'
 ---
 
 Ahora mismo tienes [PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black-White-Silver  39 EU](https://www.amazon.it/dp/B07JG7HLJ7/?tag=tolees00-21) a 39.95 EUR (original: 59.99 EUR) (33.41 %  de descuento) en el siguiente enlace!

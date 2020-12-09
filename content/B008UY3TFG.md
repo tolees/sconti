@@ -14,7 +14,7 @@ currency: EUR
 price: 105.0
 comparePrice: 250.0 EUR
 inStock: true
-prodname: Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Pelle SNAF09P1
+prodname: 'Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Pelle SNAF09P1'
 ---
 
 Está [Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Pelle SNAF09P1](https://www.amazon.it/dp/B008UY3TFG/?tag=tolees00-21) con 58.00 de descuento por 105.0 EUR (original: 250.0 EUR) en el siguiente enlace!

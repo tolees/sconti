@@ -14,7 +14,7 @@ currency: EUR
 price: 25.16
 comparePrice: 89.0 EUR
 inStock: true
-prodname: ssc napoli  Maglia Gara Home 2019/2020 Uomo  Blu  M
+prodname: 'ssc napoli  Maglia Gara Home 2019/2020 Uomo  Blu  M'
 ---
 
 Tienes [ssc napoli  Maglia Gara Home 2019/2020 Uomo  Blu  M](https://www.amazon.it/dp/B07SFZKGNH/?tag=tolees00-21) con un 71.73 % de descuento con precio de oferta de 25.16 EUR (original: 89.0 EUR) en el siguiente enlace!

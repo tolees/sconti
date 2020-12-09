@@ -14,7 +14,7 @@ currency: EUR
 price: 13.83
 comparePrice: 21.19 EUR
 inStock: true
-prodname: NAPAPIJRI Sishop T-Shirt  Grigio  Med Grey Mel 1601   Medium Uomo
+prodname: 'NAPAPIJRI Sishop T-Shirt  Grigio  Med Grey Mel 1601   Medium Uomo'
 ---
 
 Tienes [NAPAPIJRI Sishop T-Shirt  Grigio  Med Grey Mel 1601   Medium Uomo](https://www.amazon.it/dp/B07VGKQJXX/?tag=tolees00-21) con un 34.73 % de descuento con precio de oferta de 13.83 EUR (original: 21.19 EUR) en el siguiente enlace!

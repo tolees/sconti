@@ -14,7 +14,7 @@ currency: EUR
 price: 89.71
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Polaroid Mint Fotocamera digitale Instant Print  Blu   stampa su carta fotografica Zink 2x3 adesiva
+prodname: 'Polaroid Mint Fotocamera digitale Instant Print  Blu   stampa su carta fotografica Zink 2x3 adesiva'
 ---
 
 Está [Polaroid Mint Fotocamera digitale Instant Print  Blu   stampa su carta fotografica Zink 2x3 adesiva](https://www.amazon.it/dp/B07G1XZQSV/?tag=tolees00-21) con 30.99 de descuento por 89.71 EUR (original: 129.99 EUR) en el siguiente enlace!

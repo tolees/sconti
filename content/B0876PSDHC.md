@@ -14,7 +14,7 @@ currency: EUR
 price: 39.9
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Mumm Grand Cordon Rosè Champagne - 0.75 cl
+prodname: 'Mumm Grand Cordon Rosè Champagne - 0.75 cl'
 ---
 
 Ahora mismo tienes [Mumm Grand Cordon Rosè Champagne - 0.75 cl](https://www.amazon.it/dp/B0876PSDHC/?tag=tolees00-21) a 39.9 EUR (original: 59.0 EUR) (32.37 %  de descuento) en el siguiente enlace!

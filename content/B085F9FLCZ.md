@@ -14,7 +14,7 @@ currency: EUR
 price: 40.99
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Panasonic ER-GB62-H503 Regolabarba e Tagliacapelli per la Cura di Barba  Capelli e Corpo  Taglio 1-20 mm  Lame in Acciaio Inox  3 Pettini Accessori  Lavabile  Nero
+prodname: 'Panasonic ER-GB62-H503 Regolabarba e Tagliacapelli per la Cura di Barba  Capelli e Corpo  Taglio 1-20 mm  Lame in Acciaio Inox  3 Pettini Accessori  Lavabile  Nero'
 ---
 
 Tienes [Panasonic ER-GB62-H503 Regolabarba e Tagliacapelli per la Cura di Barba  Capelli e Corpo  Taglio 1-20 mm  Lame in Acciaio Inox  3 Pettini Accessori  Lavabile  Nero](https://www.amazon.it/dp/B085F9FLCZ/?tag=tolees00-21) con un 36.93 % de descuento con precio de oferta de 40.99 EUR (original: 64.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.63
 comparePrice: 6.95 EUR
 inStock: true
-prodname: Listerine Collutorio  Total Care  Menta Pura  6 benefici in 1  1 L
+prodname: 'Listerine Collutorio  Total Care  Menta Pura  6 benefici in 1  1 L'
 ---
 
 Tienes [Listerine Collutorio  Total Care  Menta Pura  6 benefici in 1  1 L](https://www.amazon.it/dp/B00TPLFB0E/?tag=tolees00-21) con un 33.38 % de descuento con precio de oferta de 4.63 EUR (original: 6.95 EUR) en el siguiente enlace!

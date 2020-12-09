@@ -14,7 +14,7 @@ currency: EUR
 price: 27.55
 comparePrice: 80.0 EUR
 inStock: true
-prodname: Diadora - Sneakers B. Elite per Uomo e Donna  EU 36 
+prodname: 'Diadora - Sneakers B. Elite per Uomo e Donna  EU 36 '
 ---
 
 Tienes [Diadora - Sneakers B. Elite per Uomo e Donna  EU 36 ](https://www.amazon.it/dp/B01CQUYN2M/?tag=tolees00-21) con un 65.56 % de descuento con precio de oferta de 27.55 EUR (original: 80.0 EUR) en el siguiente enlace!

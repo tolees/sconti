@@ -14,7 +14,7 @@ currency: EUR
 price: 195.69
 comparePrice: 299.0 EUR
 inStock: true
-prodname: Samsung Galaxy A31  Smartphone  Display 6.4” Full HD+ Super AMOLED  4 Fotocamere Posteriori  64 GB Espandibili  RAM 4 GB  Batteria 5000 mAh  4G  Dual Sim  Android 10  185 g  [Versione Italiana]  Nero
+prodname: 'Samsung Galaxy A31  Smartphone  Display 6.4” Full HD+ Super AMOLED  4 Fotocamere Posteriori  64 GB Espandibili  RAM 4 GB  Batteria 5000 mAh  4G  Dual Sim  Android 10  185 g  [Versione Italiana]  Nero'
 ---
 
 Está [Samsung Galaxy A31  Smartphone  Display 6.4” Full HD+ Super AMOLED  4 Fotocamere Posteriori  64 GB Espandibili  RAM 4 GB  Batteria 5000 mAh  4G  Dual Sim  Android 10  185 g  [Versione Italiana]  Nero](https://www.amazon.it/dp/B08BG5GMB3/?tag=tolees00-21) con 34.55 de descuento por 195.69 EUR (original: 299.0 EUR) en el siguiente enlace!

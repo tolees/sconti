@@ -14,7 +14,7 @@ currency: EUR
 price: 129.58
 comparePrice: 339.99 EUR
 inStock: true
-prodname: Marchio Amazon - Alkove - Materasso matrimoniale a tripla densità  double face  in memory foam e lattice  con coprimaterasso Sanitized® rimovibile  160 x 190 x 23 cm
+prodname: 'Marchio Amazon - Alkove - Materasso matrimoniale a tripla densità  double face  in memory foam e lattice  con coprimaterasso Sanitized® rimovibile  160 x 190 x 23 cm'
 ---
 
 Está [Marchio Amazon - Alkove - Materasso matrimoniale a tripla densità  double face  in memory foam e lattice  con coprimaterasso Sanitized® rimovibile  160 x 190 x 23 cm](https://www.amazon.it/dp/B07SSSBKPQ/?tag=tolees00-21) con 61.89 de descuento por 129.58 EUR (original: 339.99 EUR) en el siguiente enlace!

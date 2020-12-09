@@ -14,7 +14,7 @@ currency: EUR
 price: 14.98
 comparePrice: 29.95 EUR
 inStock: true
-prodname: YAMAMAY® Kimono in Chiffon Stampato - Eufrasia II
+prodname: 'YAMAMAY® Kimono in Chiffon Stampato - Eufrasia II'
 ---
 
 Tienes [YAMAMAY® Kimono in Chiffon Stampato - Eufrasia II](https://www.amazon.it/dp/B07XY4CHW6/?tag=tolees00-21) con un 49.98 % de descuento con precio de oferta de 14.98 EUR (original: 29.95 EUR) en el siguiente enlace!

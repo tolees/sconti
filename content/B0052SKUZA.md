@@ -14,7 +14,7 @@ currency: EUR
 price: 1.99
 comparePrice: 7.44 EUR
 inStock: true
-prodname: Giotto Pisaki Turbo Color 12 sztuk
+prodname: 'Giotto Pisaki Turbo Color 12 sztuk'
 ---
 
 Está [Giotto Pisaki Turbo Color 12 sztuk](https://www.amazon.it/dp/B0052SKUZA/?tag=tolees00-21) con 73.25 de descuento por 1.99 EUR (original: 7.44 EUR) en el siguiente enlace!

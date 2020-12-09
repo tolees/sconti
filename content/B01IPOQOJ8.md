@@ -14,7 +14,7 @@ currency: EUR
 price: 26.19
 comparePrice: 40.6 EUR
 inStock: true
-prodname: FANGHI D ALGA GUAM CELLULITE RADICATA E OSTINATA 500gr
+prodname: 'FANGHI D ALGA GUAM CELLULITE RADICATA E OSTINATA 500gr'
 ---
 
 Ahora mismo tienes [FANGHI D ALGA GUAM CELLULITE RADICATA E OSTINATA 500gr](https://www.amazon.it/dp/B01IPOQOJ8/?tag=tolees00-21) a 26.19 EUR (original: 40.6 EUR) (35.49 %  de descuento) en el siguiente enlace!

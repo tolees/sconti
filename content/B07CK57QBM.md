@@ -14,7 +14,7 @@ currency: EUR
 price: 44.11
 comparePrice: 279.0 EUR
 inStock: true
-prodname: HUGO Jeffery181s Blazer  Nero  Black 001   94 Uomo
+prodname: 'HUGO Jeffery181s Blazer  Nero  Black 001   94 Uomo'
 ---
 
 Tienes [HUGO Jeffery181s Blazer  Nero  Black 001   94 Uomo](https://www.amazon.it/dp/B07CK57QBM/?tag=tolees00-21) con un 84.19 % de descuento con precio de oferta de 44.11 EUR (original: 279.0 EUR) en el siguiente enlace!

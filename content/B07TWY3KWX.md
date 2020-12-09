@@ -14,7 +14,7 @@ currency: EUR
 price: 32.45
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers Flex Advantage 3.0  Sneaker Uomo  Nero  Black Mesh/Trim Blk   40 EU
+prodname: 'Skechers Flex Advantage 3.0  Sneaker Uomo  Nero  Black Mesh/Trim Blk   40 EU'
 ---
 
 Ahora mismo tienes [Skechers Flex Advantage 3.0  Sneaker Uomo  Nero  Black Mesh/Trim Blk   40 EU](https://www.amazon.it/dp/B07TWY3KWX/?tag=tolees00-21) a 32.45 EUR (original: 69.95 EUR) (53.61 %  de descuento) en el siguiente enlace!

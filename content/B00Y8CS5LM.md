@@ -14,7 +14,7 @@ currency: EUR
 price: 2.08
 comparePrice: 2.99 EUR
 inStock: true
-prodname: Mulino Bianco Merendine Pane + Cioccolato al Latte  Snack Dolce per la Merenda  Senza Olio di Palma - 300 g
+prodname: 'Mulino Bianco Merendine Pane + Cioccolato al Latte  Snack Dolce per la Merenda  Senza Olio di Palma - 300 g'
 ---
 
 Está [Mulino Bianco Merendine Pane + Cioccolato al Latte  Snack Dolce per la Merenda  Senza Olio di Palma - 300 g](https://www.amazon.it/dp/B00Y8CS5LM/?tag=tolees00-21) con 30.43 de descuento por 2.08 EUR (original: 2.99 EUR) en el siguiente enlace!

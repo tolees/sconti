@@ -14,7 +14,7 @@ currency: EUR
 price: 11.19
 comparePrice: 15.99 EUR
 inStock: true
-prodname: atFoliX Pellicola Protettiva per Mediacom SmartPad HX 10 HD Protezione Pellicola dello Schermo  antiriflesso e Ammortizzante FX Pellicola Proteggi  2X 
+prodname: 'atFoliX Pellicola Protettiva per Mediacom SmartPad HX 10 HD Protezione Pellicola dello Schermo  antiriflesso e Ammortizzante FX Pellicola Proteggi  2X '
 ---
 
 Ahora mismo tienes [atFoliX Pellicola Protettiva per Mediacom SmartPad HX 10 HD Protezione Pellicola dello Schermo  antiriflesso e Ammortizzante FX Pellicola Proteggi  2X ](https://www.amazon.it/dp/B078VTLK4W/?tag=tolees00-21) a 11.19 EUR (original: 15.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

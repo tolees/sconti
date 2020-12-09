@@ -14,7 +14,7 @@ currency: EUR
 price: 3.85
 comparePrice: 10.99 EUR
 inStock: true
-prodname: Yamamoto Research Vitamina B3 30 Compresse - 30 Gr
+prodname: 'Yamamoto Research Vitamina B3 30 Compresse - 30 Gr'
 ---
 
 Ahora mismo tienes [Yamamoto Research Vitamina B3 30 Compresse - 30 Gr](https://www.amazon.it/dp/B07XFC7BHD/?tag=tolees00-21) a 3.85 EUR (original: 10.99 EUR) (64.97 %  de descuento) en el siguiente enlace!

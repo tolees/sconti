@@ -14,7 +14,7 @@ currency: EUR
 price: 5.9
 comparePrice: 9.49 EUR
 inStock: true
-prodname: LEGO DUPLO Town Chiosco della Pizza  Playset con Pizzaiolo e Cane  Giochi con Grandi Mattoncini per Bimbi di 2 Anni  10927
+prodname: 'LEGO DUPLO Town Chiosco della Pizza  Playset con Pizzaiolo e Cane  Giochi con Grandi Mattoncini per Bimbi di 2 Anni  10927'
 ---
 
 Está [LEGO DUPLO Town Chiosco della Pizza  Playset con Pizzaiolo e Cane  Giochi con Grandi Mattoncini per Bimbi di 2 Anni  10927](https://www.amazon.it/dp/B07W7TKVQ5/?tag=tolees00-21) con 37.83 de descuento por 5.9 EUR (original: 9.49 EUR) en el siguiente enlace!

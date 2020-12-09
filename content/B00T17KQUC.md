@@ -14,7 +14,7 @@ currency: EUR
 price: 37.58
 comparePrice: 57.54 EUR
 inStock: true
-prodname: Honeywell Home  HR90WE  Cronotermostato settimanale elettronico da termosifone  Bianco
+prodname: 'Honeywell Home  HR90WE  Cronotermostato settimanale elettronico da termosifone  Bianco'
 ---
 
 Tienes [Honeywell Home  HR90WE  Cronotermostato settimanale elettronico da termosifone  Bianco](https://www.amazon.it/dp/B00T17KQUC/?tag=tolees00-21) con un 34.69 % de descuento con precio de oferta de 37.58 EUR (original: 57.54 EUR) en el siguiente enlace!

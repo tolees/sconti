@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 36.99 EUR
 inStock: true
-prodname: Termometro infrarossi  Termometri Frontale Infrarossi Senza Contatto  Termometri Medico con Display a LED per Febbre per Neonati  Bambini  Adulti
+prodname: 'Termometro infrarossi  Termometri Frontale Infrarossi Senza Contatto  Termometri Medico con Display a LED per Febbre per Neonati  Bambini  Adulti'
 ---
 
 Está [Termometro infrarossi  Termometri Frontale Infrarossi Senza Contatto  Termometri Medico con Display a LED per Febbre per Neonati  Bambini  Adulti](https://www.amazon.it/dp/B08FDKG69J/?tag=tolees00-21) con 32.44 de descuento por 24.99 EUR (original: 36.99 EUR) en el siguiente enlace!

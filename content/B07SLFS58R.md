@@ -14,7 +14,7 @@ currency: EUR
 price: 24.2
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Trono Di Spade Stagione 8  3 Blu Ray 
+prodname: 'Trono Di Spade Stagione 8  3 Blu Ray '
 ---
 
 Está [Trono Di Spade Stagione 8  3 Blu Ray ](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21) con 51.60 de descuento por 24.2 EUR (original: 50.0 EUR) en el siguiente enlace!

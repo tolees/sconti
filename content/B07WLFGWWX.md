@@ -14,7 +14,7 @@ currency: EUR
 price: 10.44
 comparePrice: 14.26 EUR
 inStock: true
-prodname: LOVABLE Sublim Reggiseno con Ferretto  Blu  Blu 007   4C IT  Taglia Produttore: 36 C  Donna
+prodname: 'LOVABLE Sublim Reggiseno con Ferretto  Blu  Blu 007   4C IT  Taglia Produttore: 36 C  Donna'
 ---
 
 Ahora mismo tienes [LOVABLE Sublim Reggiseno con Ferretto  Blu  Blu 007   4C IT  Taglia Produttore: 36 C  Donna](https://www.amazon.it/dp/B07WLFGWWX/?tag=tolees00-21) a 10.44 EUR (original: 14.26 EUR) (26.79 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 40.19
 comparePrice: 54.95 EUR
 inStock: true
-prodname: PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Black White Silver   44 EU
+prodname: 'PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Black White Silver   44 EU'
 ---
 
 Ahora mismo tienes [PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Black White Silver   44 EU](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21) a 40.19 EUR (original: 54.95 EUR) (26.86 %  de descuento) en el siguiente enlace!

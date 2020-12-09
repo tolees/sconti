@@ -14,7 +14,7 @@ currency: EUR
 price: 23.9
 comparePrice: 33.24 EUR
 inStock: true
-prodname: Barbie Bambola con Capelli Lunghi Arcobaleno e Tanti Accessori  Giocattolo per Bambini 3 + Anni  FXN96
+prodname: 'Barbie Bambola con Capelli Lunghi Arcobaleno e Tanti Accessori  Giocattolo per Bambini 3 + Anni  FXN96'
 ---
 
 Tienes [Barbie Bambola con Capelli Lunghi Arcobaleno e Tanti Accessori  Giocattolo per Bambini 3 + Anni  FXN96](https://www.amazon.it/dp/B07GLP7BT7/?tag=tolees00-21) con un 28.10 % de descuento con precio de oferta de 23.9 EUR (original: 33.24 EUR) en el siguiente enlace!

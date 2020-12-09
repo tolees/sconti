@@ -14,7 +14,7 @@ currency: EUR
 price: 37.48
 comparePrice: 74.95 EUR
 inStock: true
-prodname: adidas CRAZYCHAOS  Scarpe da Corsa Donna  Core Black/Core Black/Real Pink S18  40 2/3 EU
+prodname: 'adidas CRAZYCHAOS  Scarpe da Corsa Donna  Core Black/Core Black/Real Pink S18  40 2/3 EU'
 ---
 
 Está [adidas CRAZYCHAOS  Scarpe da Corsa Donna  Core Black/Core Black/Real Pink S18  40 2/3 EU](https://www.amazon.it/dp/B07PRCGFZZ/?tag=tolees00-21) con 49.99 de descuento por 37.48 EUR (original: 74.95 EUR) en el siguiente enlace!

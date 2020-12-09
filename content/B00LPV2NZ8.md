@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: iRobot Batteria Lunga Durata Xlife  Parti Originali  Compatibile con Roomba Serie 600/700/800  Blu
+prodname: 'iRobot Batteria Lunga Durata Xlife  Parti Originali  Compatibile con Roomba Serie 600/700/800  Blu'
 ---
 
 Tienes [iRobot Batteria Lunga Durata Xlife  Parti Originali  Compatibile con Roomba Serie 600/700/800  Blu](https://www.amazon.it/dp/B00LPV2NZ8/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

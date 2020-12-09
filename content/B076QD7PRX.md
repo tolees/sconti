@@ -14,7 +14,7 @@ currency: EUR
 price: 44.59
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Pampers Baby Dry Maxi  208 Pannolini  Taglia 4 Maxi  7-18 kg 
+prodname: 'Pampers Baby Dry Maxi  208 Pannolini  Taglia 4 Maxi  7-18 kg '
 ---
 
 Ahora mismo tienes [Pampers Baby Dry Maxi  208 Pannolini  Taglia 4 Maxi  7-18 kg ](https://www.amazon.it/dp/B076QD7PRX/?tag=tolees00-21) a 44.59 EUR (original: 70.0 EUR) (36.30 %  de descuento) en el siguiente enlace!

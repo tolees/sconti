@@ -14,7 +14,7 @@ currency: EUR
 price: 117.7
 comparePrice: 179.0 EUR
 inStock: true
-prodname: HUAWEI Freebuds 3 Auricolare  Bluetooth  Bianco
+prodname: 'HUAWEI Freebuds 3 Auricolare  Bluetooth  Bianco'
 ---
 
 Ahora mismo tienes [HUAWEI Freebuds 3 Auricolare  Bluetooth  Bianco](https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21) a 117.7 EUR (original: 179.0 EUR) (34.25 %  de descuento) en el siguiente enlace!

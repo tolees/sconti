@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 43.99 EUR
 inStock: true
-prodname: AUKEY Power Bank USB C da 20000mAh  Caricatore Portatile con 18W Power Delivery  Quick Charge 3.0  Batteria Compatibile con Phones Nintendo Switch  Tablet e Molti Altri dispositivi
+prodname: 'AUKEY Power Bank USB C da 20000mAh  Caricatore Portatile con 18W Power Delivery  Quick Charge 3.0  Batteria Compatibile con Phones Nintendo Switch  Tablet e Molti Altri dispositivi'
 ---
 
 Ahora mismo tienes [AUKEY Power Bank USB C da 20000mAh  Caricatore Portatile con 18W Power Delivery  Quick Charge 3.0  Batteria Compatibile con Phones Nintendo Switch  Tablet e Molti Altri dispositivi](https://www.amazon.it/dp/B07K7C6RDL/?tag=tolees00-21) a 29.99 EUR (original: 43.99 EUR) (31.83 %  de descuento) en el siguiente enlace!

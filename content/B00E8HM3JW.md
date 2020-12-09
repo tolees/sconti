@@ -14,7 +14,7 @@ currency: EUR
 price: 116.18
 comparePrice: 243.42 EUR
 inStock: true
-prodname: Assortimento Kraftform Kompakt Micro ESD/20 SB  20 pezzi
+prodname: 'Assortimento Kraftform Kompakt Micro ESD/20 SB  20 pezzi'
 ---
 
 Tienes [Assortimento Kraftform Kompakt Micro ESD/20 SB  20 pezzi](https://www.amazon.it/dp/B00E8HM3JW/?tag=tolees00-21) con un 52.27 % de descuento con precio de oferta de 116.18 EUR (original: 243.42 EUR) en el siguiente enlace!

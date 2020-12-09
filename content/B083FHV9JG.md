@@ -14,7 +14,7 @@ currency: EUR
 price: 28.99
 comparePrice: 47.0 EUR
 inStock: true
-prodname: Lacoste 5h1803 Intimo  THYM/Marine-Blanc  M Uomo
+prodname: 'Lacoste 5h1803 Intimo  THYM/Marine-Blanc  M Uomo'
 ---
 
 Está [Lacoste 5h1803 Intimo  THYM/Marine-Blanc  M Uomo](https://www.amazon.it/dp/B083FHV9JG/?tag=tolees00-21) con 38.32 de descuento por 28.99 EUR (original: 47.0 EUR) en el siguiente enlace!

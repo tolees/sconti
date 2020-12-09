@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Hunty Hard Disk 2 TB Esterno USB 3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Nero 
+prodname: 'Hunty Hard Disk 2 TB Esterno USB 3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Nero '
 ---
 
 Está [Hunty Hard Disk 2 TB Esterno USB 3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Nero ](https://www.amazon.it/dp/B08D6CCQ4C/?tag=tolees00-21) con 35.36 de descuento por 63.99 EUR (original: 99.0 EUR) en el siguiente enlace!

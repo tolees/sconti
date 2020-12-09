@@ -14,7 +14,7 @@ currency: EUR
 price: 31.44
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Mini Telecamera Spia Nascosta NIYPS Full HD 1080P Portatile Micro Spy Cam Sorveglianza con Visione Notturna Sensore di Movimento y Batteria Senza Fili Piccola Microcamere Spia per Esterno/Interno
+prodname: 'Mini Telecamera Spia Nascosta NIYPS Full HD 1080P Portatile Micro Spy Cam Sorveglianza con Visione Notturna Sensore di Movimento y Batteria Senza Fili Piccola Microcamere Spia per Esterno/Interno'
 ---
 
 Tienes [Mini Telecamera Spia Nascosta NIYPS Full HD 1080P Portatile Micro Spy Cam Sorveglianza con Visione Notturna Sensore di Movimento y Batteria Senza Fili Piccola Microcamere Spia per Esterno/Interno](https://www.amazon.it/dp/B07WNVK6P3/?tag=tolees00-21) con un 55.08 % de descuento con precio de oferta de 31.44 EUR (original: 69.99 EUR) en el siguiente enlace!

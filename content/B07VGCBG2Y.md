@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 41.44 EUR
 inStock: true
-prodname: Calvin Klein 3p Trunk Boxer  Nero  B-Blue Whale/Wildflower/Bubblegum Whb   Small  Pacco da 3  Uomo
+prodname: 'Calvin Klein 3p Trunk Boxer  Nero  B-Blue Whale/Wildflower/Bubblegum Whb   Small  Pacco da 3  Uomo'
 ---
 
 Está [Calvin Klein 3p Trunk Boxer  Nero  B-Blue Whale/Wildflower/Bubblegum Whb   Small  Pacco da 3  Uomo](https://www.amazon.it/dp/B07VGCBG2Y/?tag=tolees00-21) con 37.28 de descuento por 25.99 EUR (original: 41.44 EUR) en el siguiente enlace!

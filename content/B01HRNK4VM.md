@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 8.99 EUR
 inStock: true
-prodname: Puma Invisible Calzini Sport Uomo  Pink Lady  39/42
+prodname: 'Puma Invisible Calzini Sport Uomo  Pink Lady  39/42'
 ---
 
 Tienes [Puma Invisible Calzini Sport Uomo  Pink Lady  39/42](https://www.amazon.it/dp/B01HRNK4VM/?tag=tolees00-21) con un 33.37 % de descuento con precio de oferta de 5.99 EUR (original: 8.99 EUR) en el siguiente enlace!

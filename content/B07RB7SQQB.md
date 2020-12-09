@@ -14,7 +14,7 @@ currency: EUR
 price: 77.43
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Columbia Evolution Valley  Giubbino impermeabile  Uomo  Nero  Black   L
+prodname: 'Columbia Evolution Valley  Giubbino impermeabile  Uomo  Nero  Black   L'
 ---
 
 Ahora mismo tienes [Columbia Evolution Valley  Giubbino impermeabile  Uomo  Nero  Black   L](https://www.amazon.it/dp/B07RB7SQQB/?tag=tolees00-21) a 77.43 EUR (original: 149.99 EUR) (48.38 %  de descuento) en el siguiente enlace!

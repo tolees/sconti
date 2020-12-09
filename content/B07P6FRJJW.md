@@ -14,7 +14,7 @@ currency: EUR
 price: 419.0
 comparePrice: 599.0 EUR
 inStock: true
-prodname: Sony KD-43XG7005 TV Smart da 43"  4K Ultra HD  HDR  Slim Design  Nero
+prodname: 'Sony KD-43XG7005 TV Smart da 43"  4K Ultra HD  HDR  Slim Design  Nero'
 ---
 
 Tienes [Sony KD-43XG7005 TV Smart da 43"  4K Ultra HD  HDR  Slim Design  Nero](https://www.amazon.it/dp/B07P6FRJJW/?tag=tolees00-21) con un 30.05 % de descuento con precio de oferta de 419.0 EUR (original: 599.0 EUR) en el siguiente enlace!

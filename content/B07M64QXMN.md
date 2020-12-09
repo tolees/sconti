@@ -14,7 +14,7 @@ currency: EUR
 price: 162.95
 comparePrice: 299.99 EUR
 inStock: true
-prodname: WD BLACK SN750 NVMe SSD Interno per Gaming ad Alte Prestazioni  1 TB
+prodname: 'WD BLACK SN750 NVMe SSD Interno per Gaming ad Alte Prestazioni  1 TB'
 ---
 
 Está [WD BLACK SN750 NVMe SSD Interno per Gaming ad Alte Prestazioni  1 TB](https://www.amazon.it/dp/B07M64QXMN/?tag=tolees00-21) con 45.68 de descuento por 162.95 EUR (original: 299.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.95
 comparePrice: 38.95 EUR
 inStock: true
-prodname: NAPAPIJRI Eovico Polo  Bianco  Bright White 0021   X-Large Uomo
+prodname: 'NAPAPIJRI Eovico Polo  Bianco  Bright White 0021   X-Large Uomo'
 ---
 
 Ahora mismo tienes [NAPAPIJRI Eovico Polo  Bianco  Bright White 0021   X-Large Uomo](https://www.amazon.it/dp/B07VFGMY89/?tag=tolees00-21) a 25.95 EUR (original: 38.95 EUR) (33.38 %  de descuento) en el siguiente enlace!

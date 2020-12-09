@@ -14,7 +14,7 @@ currency: EUR
 price: 38.85
 comparePrice: 80.0 EUR
 inStock: true
-prodname: New Balance 373 Core  Sneaker Uomo  Nero  Black/White Ca2 
+prodname: 'New Balance 373 Core  Sneaker Uomo  Nero  Black/White Ca2 '
 ---
 
 Está [New Balance 373 Core  Sneaker Uomo  Nero  Black/White Ca2 ](https://www.amazon.it/dp/B07RZJY56N/?tag=tolees00-21) con 51.44 de descuento por 38.85 EUR (original: 80.0 EUR) en el siguiente enlace!

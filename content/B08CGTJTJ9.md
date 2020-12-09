@@ -14,7 +14,7 @@ currency: EUR
 price: 12.94
 comparePrice: 19.94 EUR
 inStock: true
-prodname: YQHbe Apriscatole Manuale Go Swing  apriscatole Manuale di Sicurezza Facile  Utensili da Cucina Domestici per Uso Professionale
+prodname: 'YQHbe Apriscatole Manuale Go Swing  apriscatole Manuale di Sicurezza Facile  Utensili da Cucina Domestici per Uso Professionale'
 ---
 
 Ahora mismo tienes [YQHbe Apriscatole Manuale Go Swing  apriscatole Manuale di Sicurezza Facile  Utensili da Cucina Domestici per Uso Professionale](https://www.amazon.it/dp/B08CGTJTJ9/?tag=tolees00-21) a 12.94 EUR (original: 19.94 EUR) (35.11 %  de descuento) en el siguiente enlace!

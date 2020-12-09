@@ -14,7 +14,7 @@ currency: EUR
 price: 37.45
 comparePrice: 54.95 EUR
 inStock: true
-prodname: PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex Adulto  Blu  Peacoat White   44.5 EU
+prodname: 'PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex Adulto  Blu  Peacoat White   44.5 EU'
 ---
 
 Ahora mismo tienes [PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex Adulto  Blu  Peacoat White   44.5 EU](https://www.amazon.it/dp/B07CZ59DYF/?tag=tolees00-21) a 37.45 EUR (original: 54.95 EUR) (31.85 %  de descuento) en el siguiente enlace!

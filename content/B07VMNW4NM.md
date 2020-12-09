@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 54.53 EUR
 inStock: true
-prodname: Calvin Klein Medium Drawstring Pantaloncini  Verde  Dark Green LC0   Large Uomo
+prodname: 'Calvin Klein Medium Drawstring Pantaloncini  Verde  Dark Green LC0   Large Uomo'
 ---
 
 Tienes [Calvin Klein Medium Drawstring Pantaloncini  Verde  Dark Green LC0   Large Uomo](https://www.amazon.it/dp/B07VMNW4NM/?tag=tolees00-21) con un 50.50 % de descuento con precio de oferta de 26.99 EUR (original: 54.53 EUR) en el siguiente enlace!

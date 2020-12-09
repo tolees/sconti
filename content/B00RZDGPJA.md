@@ -14,7 +14,7 @@ currency: EUR
 price: 118.4
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Orologio da uomo al quarzo Tommy Hilfiger 1791141  con visualizzazione multi-quadrante e cinturino in acciaio inox  Argento
+prodname: 'Orologio da uomo al quarzo Tommy Hilfiger 1791141  con visualizzazione multi-quadrante e cinturino in acciaio inox  Argento'
 ---
 
 Ahora mismo tienes [Orologio da uomo al quarzo Tommy Hilfiger 1791141  con visualizzazione multi-quadrante e cinturino in acciaio inox  Argento](https://www.amazon.it/dp/B00RZDGPJA/?tag=tolees00-21) a 118.4 EUR (original: 199.0 EUR) (40.50 %  de descuento) en el siguiente enlace!

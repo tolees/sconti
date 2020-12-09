@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 49.39 EUR
 inStock: true
-prodname: Ferplast Cuscino Cuccia Cani e Gatti Sofa  Cushion 10 Rivestimento Ricambio Imbottito per Lettino Animali Cesta in Plastica  Cotone Lavabile  Regolabile con Cordino Elastico  96 X 71 X 32 cm Marrone
+prodname: 'Ferplast Cuscino Cuccia Cani e Gatti Sofa  Cushion 10 Rivestimento Ricambio Imbottito per Lettino Animali Cesta in Plastica  Cotone Lavabile  Regolabile con Cordino Elastico  96 X 71 X 32 cm Marrone'
 ---
 
 Tienes [Ferplast Cuscino Cuccia Cani e Gatti Sofa  Cushion 10 Rivestimento Ricambio Imbottito per Lettino Animali Cesta in Plastica  Cotone Lavabile  Regolabile con Cordino Elastico  96 X 71 X 32 cm Marrone](https://www.amazon.it/dp/B00BXFR1MG/?tag=tolees00-21) con un 29.16 % de descuento con precio de oferta de 34.99 EUR (original: 49.39 EUR) en el siguiente enlace!

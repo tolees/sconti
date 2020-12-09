@@ -14,7 +14,7 @@ currency: EUR
 price: 199.99
 comparePrice: 399.99 EUR
 inStock: true
-prodname: Logitech Z906 5.1 Sistema di Altoparlanti Audio Dolby Surround  Certificato THX  Dolby e DTS  Potenza 1000 Watt  Multidispositivo  Con Telecomando  Presa EU/IT  PC/PS4/Xbox/TV/Smartphone/Tablet
+prodname: 'Logitech Z906 5.1 Sistema di Altoparlanti Audio Dolby Surround  Certificato THX  Dolby e DTS  Potenza 1000 Watt  Multidispositivo  Con Telecomando  Presa EU/IT  PC/PS4/Xbox/TV/Smartphone/Tablet'
 ---
 
 Tienes [Logitech Z906 5.1 Sistema di Altoparlanti Audio Dolby Surround  Certificato THX  Dolby e DTS  Potenza 1000 Watt  Multidispositivo  Con Telecomando  Presa EU/IT  PC/PS4/Xbox/TV/Smartphone/Tablet](https://www.amazon.it/dp/B004PGM9KY/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 199.99 EUR (original: 399.99 EUR) en el siguiente enlace!

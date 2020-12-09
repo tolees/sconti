@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 33.29 EUR
 inStock: true
-prodname: Samsung Memorie MB-ME128HA Evo Select Scheda MicroSD da 128 GB  UHS-I U3  Fino a 100 MB/s  Adattatore SD Incluso
+prodname: 'Samsung Memorie MB-ME128HA Evo Select Scheda MicroSD da 128 GB  UHS-I U3  Fino a 100 MB/s  Adattatore SD Incluso'
 ---
 
 Está [Samsung Memorie MB-ME128HA Evo Select Scheda MicroSD da 128 GB  UHS-I U3  Fino a 100 MB/s  Adattatore SD Incluso](https://www.amazon.it/dp/B085FGMQS6/?tag=tolees00-21) con 39.95 de descuento por 19.99 EUR (original: 33.29 EUR) en el siguiente enlace!

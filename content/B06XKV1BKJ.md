@@ -14,7 +14,7 @@ currency: EUR
 price: 12.49
 comparePrice: 23.5 EUR
 inStock: true
-prodname: Carrera Toys GO!!! Disney Pixar Cars  Lightning Mcqueen Auto da Corsa per Piste Elettriche  Gioco Adatto per Bambini dai 6 Anni in Su  Multicolore  20064082
+prodname: 'Carrera Toys GO!!! Disney Pixar Cars  Lightning Mcqueen Auto da Corsa per Piste Elettriche  Gioco Adatto per Bambini dai 6 Anni in Su  Multicolore  20064082'
 ---
 
 Está [Carrera Toys GO!!! Disney Pixar Cars  Lightning Mcqueen Auto da Corsa per Piste Elettriche  Gioco Adatto per Bambini dai 6 Anni in Su  Multicolore  20064082](https://www.amazon.it/dp/B06XKV1BKJ/?tag=tolees00-21) con 46.85 de descuento por 12.49 EUR (original: 23.5 EUR) en el siguiente enlace!

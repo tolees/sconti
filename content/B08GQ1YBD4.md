@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: QHOHQ Cover per Samsung Galaxy M31S con 2 Pezzi Pellicola Protettiva  Silicone Morbido TPU Anti-Buttare Custodia - Vetro Temperato Membrana - [Anti-Graffio] - [Durezza 9H]
+prodname: 'QHOHQ Cover per Samsung Galaxy M31S con 2 Pezzi Pellicola Protettiva  Silicone Morbido TPU Anti-Buttare Custodia - Vetro Temperato Membrana - [Anti-Graffio] - [Durezza 9H]'
 ---
 
 Ahora mismo tienes [QHOHQ Cover per Samsung Galaxy M31S con 2 Pezzi Pellicola Protettiva  Silicone Morbido TPU Anti-Buttare Custodia - Vetro Temperato Membrana - [Anti-Graffio] - [Durezza 9H]](https://www.amazon.it/dp/B08GQ1YBD4/?tag=tolees00-21) a 6.99 EUR (original: 12.99 EUR) (46.19 %  de descuento) en el siguiente enlace!

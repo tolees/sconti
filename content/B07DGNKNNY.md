@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 19.9 EUR
 inStock: true
-prodname: GoPro ACSST-003 Guaina e Cordino  Blu
+prodname: 'GoPro ACSST-003 Guaina e Cordino  Blu'
 ---
 
 Ahora mismo tienes [GoPro ACSST-003 Guaina e Cordino  Blu](https://www.amazon.it/dp/B07DGNKNNY/?tag=tolees00-21) a 11.99 EUR (original: 19.9 EUR) (39.75 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 62.99
 comparePrice: 117.99 EUR
 inStock: true
-prodname: Kingston A2000  SA2000M8/500G  NVMe PCIe SSD 500G  500 GB
+prodname: 'Kingston A2000  SA2000M8/500G  NVMe PCIe SSD 500G  500 GB'
 ---
 
 Ahora mismo tienes [Kingston A2000  SA2000M8/500G  NVMe PCIe SSD 500G  500 GB](https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21) a 62.99 EUR (original: 117.99 EUR) (46.61 %  de descuento) en el siguiente enlace!

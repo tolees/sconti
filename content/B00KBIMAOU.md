@@ -14,7 +14,7 @@ currency: EUR
 price: 119.0
 comparePrice: 179.0 EUR
 inStock: true
-prodname: Samsung MC28H5015CS Forno a Microonde Combinato  SmartOven  900 W  Grill 1500 W  28 L  51.7 x 31 x 47.6 cm  Argento
+prodname: 'Samsung MC28H5015CS Forno a Microonde Combinato  SmartOven  900 W  Grill 1500 W  28 L  51.7 x 31 x 47.6 cm  Argento'
 ---
 
 Tienes [Samsung MC28H5015CS Forno a Microonde Combinato  SmartOven  900 W  Grill 1500 W  28 L  51.7 x 31 x 47.6 cm  Argento](https://www.amazon.it/dp/B00KBIMAOU/?tag=tolees00-21) con un 33.52 % de descuento con precio de oferta de 119.0 EUR (original: 179.0 EUR) en el siguiente enlace!

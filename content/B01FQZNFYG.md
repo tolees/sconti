@@ -14,7 +14,7 @@ currency: EUR
 price: 33.7
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Niré Beauty Artistry Set: Pennelli Make up Vegani con Niré Beauty Blender  Porta Pennelli Make up  e Pulitore Pennelli Trucco
+prodname: 'Niré Beauty Artistry Set: Pennelli Make up Vegani con Niré Beauty Blender  Porta Pennelli Make up  e Pulitore Pennelli Trucco'
 ---
 
 Tienes [Niré Beauty Artistry Set: Pennelli Make up Vegani con Niré Beauty Blender  Porta Pennelli Make up  e Pulitore Pennelli Trucco](https://www.amazon.it/dp/B01FQZNFYG/?tag=tolees00-21) con un 25.03 % de descuento con precio de oferta de 33.7 EUR (original: 44.95 EUR) en el siguiente enlace!

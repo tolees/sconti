@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Sony WF-XB700 - Cuffie Bluetooth senza fili  True Wireless  Extra Bass con microfono integrato e autonomia fino a 18 ore  Blu 
+prodname: 'Sony WF-XB700 - Cuffie Bluetooth senza fili  True Wireless  Extra Bass con microfono integrato e autonomia fino a 18 ore  Blu '
 ---
 
 Está [Sony WF-XB700 - Cuffie Bluetooth senza fili  True Wireless  Extra Bass con microfono integrato e autonomia fino a 18 ore  Blu ](https://www.amazon.it/dp/B086LMMS4Y/?tag=tolees00-21) con 54.00 de descuento por 69.0 EUR (original: 150.0 EUR) en el siguiente enlace!

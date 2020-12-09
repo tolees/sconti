@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Timex Orologio Analogico Classico Quarzo Unisex Adulto con Cinturino in Nylon TW2R41100
+prodname: 'Timex Orologio Analogico Classico Quarzo Unisex Adulto con Cinturino in Nylon TW2R41100'
 ---
 
 Ahora mismo tienes [Timex Orologio Analogico Classico Quarzo Unisex Adulto con Cinturino in Nylon TW2R41100](https://www.amazon.it/dp/B0755RXWJZ/?tag=tolees00-21) a 39.95 EUR (original: 69.0 EUR) (42.10 %  de descuento) en el siguiente enlace!

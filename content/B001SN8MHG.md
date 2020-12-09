@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 58.0 EUR
 inStock: true
-prodname: Morellato Anello da Donna in Acciaio Inox  Argento  10
+prodname: 'Morellato Anello da Donna in Acciaio Inox  Argento  10'
 ---
 
 Está [Morellato Anello da Donna in Acciaio Inox  Argento  10](https://www.amazon.it/dp/B001SN8MHG/?tag=tolees00-21) con 77.60 de descuento por 12.99 EUR (original: 58.0 EUR) en el siguiente enlace!

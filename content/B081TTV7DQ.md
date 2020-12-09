@@ -14,7 +14,7 @@ currency: EUR
 price: 38.82
 comparePrice: 59.95 EUR
 inStock: true
-prodname: adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  L
+prodname: 'adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  L'
 ---
 
 Ahora mismo tienes [adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  L](https://www.amazon.it/dp/B081TTV7DQ/?tag=tolees00-21) a 38.82 EUR (original: 59.95 EUR) (35.25 %  de descuento) en el siguiente enlace!

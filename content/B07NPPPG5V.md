@@ -14,7 +14,7 @@ currency: EUR
 price: 17.49
 comparePrice: 24.95 EUR
 inStock: true
-prodname: adidas Adilette Shower  Scarpe da Spiaggia e Piscina Uomo  Nero  Negro 000   50 EU
+prodname: 'adidas Adilette Shower  Scarpe da Spiaggia e Piscina Uomo  Nero  Negro 000   50 EU'
 ---
 
 Está [adidas Adilette Shower  Scarpe da Spiaggia e Piscina Uomo  Nero  Negro 000   50 EU](https://www.amazon.it/dp/B07NPPPG5V/?tag=tolees00-21) con 29.90 de descuento por 17.49 EUR (original: 24.95 EUR) en el siguiente enlace!

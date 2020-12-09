@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 49.95 EUR
 inStock: true
-prodname: PUMA ICRA Trainer SD  Scarpe da Ginnastica Unisex Adulto  Nero  Black-White   42.5 EU
+prodname: 'PUMA ICRA Trainer SD  Scarpe da Ginnastica Unisex Adulto  Nero  Black-White   42.5 EU'
 ---
 
 Ahora mismo tienes [PUMA ICRA Trainer SD  Scarpe da Ginnastica Unisex Adulto  Nero  Black-White   42.5 EU](https://www.amazon.it/dp/B015OJSDQ4/?tag=tolees00-21) a 29.99 EUR (original: 49.95 EUR) (39.96 %  de descuento) en el siguiente enlace!

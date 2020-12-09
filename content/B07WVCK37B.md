@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Note D Espresso Extremo  Capsule per caffè  esclusivamente compatibili con macchine Nescafé* e Dolce Gusto*  7 g x 96
+prodname: 'Note D Espresso Extremo  Capsule per caffè  esclusivamente compatibili con macchine Nescafé* e Dolce Gusto*  7 g x 96'
 ---
 
 Tienes [Note D Espresso Extremo  Capsule per caffè  esclusivamente compatibili con macchine Nescafé* e Dolce Gusto*  7 g x 96](https://www.amazon.it/dp/B07WVCK37B/?tag=tolees00-21) con un 40.03 % de descuento con precio de oferta de 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!

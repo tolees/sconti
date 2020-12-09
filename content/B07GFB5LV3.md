@@ -14,7 +14,7 @@ currency: EUR
 price: 79.0
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Canon Italia ZoeMini Stampante Portatile  314 dpi x 400 dpi  Rosa
+prodname: 'Canon Italia ZoeMini Stampante Portatile  314 dpi x 400 dpi  Rosa'
 ---
 
 Está [Canon Italia ZoeMini Stampante Portatile  314 dpi x 400 dpi  Rosa](https://www.amazon.it/dp/B07GFB5LV3/?tag=tolees00-21) con 47.33 de descuento por 79.0 EUR (original: 149.99 EUR) en el siguiente enlace!

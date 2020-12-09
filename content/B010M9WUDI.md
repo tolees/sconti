@@ -14,7 +14,7 @@ currency: EUR
 price: 99.2
 comparePrice: 160.0 EUR
 inStock: true
-prodname: Timberland Euro Sprint Hiker  Stivali Uomo  Giallo Wheat  41.5 EU
+prodname: 'Timberland Euro Sprint Hiker  Stivali Uomo  Giallo Wheat  41.5 EU'
 ---
 
 Está [Timberland Euro Sprint Hiker  Stivali Uomo  Giallo Wheat  41.5 EU](https://www.amazon.it/dp/B010M9WUDI/?tag=tolees00-21) con 38.00 de descuento por 99.2 EUR (original: 160.0 EUR) en el siguiente enlace!

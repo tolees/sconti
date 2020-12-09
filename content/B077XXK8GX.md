@@ -14,7 +14,7 @@ currency: EUR
 price: 59.94
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Fila Disruptor  Scarpe da Ginnastica Basse Donna  Nero  40 EU
+prodname: 'Fila Disruptor  Scarpe da Ginnastica Basse Donna  Nero  40 EU'
 ---
 
 Ahora mismo tienes [Fila Disruptor  Scarpe da Ginnastica Basse Donna  Nero  40 EU](https://www.amazon.it/dp/B077XXK8GX/?tag=tolees00-21) a 59.94 EUR (original: 99.95 EUR) (40.03 %  de descuento) en el siguiente enlace!

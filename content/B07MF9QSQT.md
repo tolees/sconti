@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 260.0 EUR
 inStock: true
-prodname: Sony HT-S350 Soundbar 2.1 Canali con Subwoofer Wireless  Bluetooth  Nero
+prodname: 'Sony HT-S350 Soundbar 2.1 Canali con Subwoofer Wireless  Bluetooth  Nero'
 ---
 
 Tienes [Sony HT-S350 Soundbar 2.1 Canali con Subwoofer Wireless  Bluetooth  Nero](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21) con un 42.31 % de descuento con precio de oferta de 149.99 EUR (original: 260.0 EUR) en el siguiente enlace!

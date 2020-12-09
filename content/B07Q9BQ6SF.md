@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Superdry VL Premium Goods Heat Sealed Tee T-Shirt  Blu  Princedom Blue Marl Bcy   S Uomo
+prodname: 'Superdry VL Premium Goods Heat Sealed Tee T-Shirt  Blu  Princedom Blue Marl Bcy   S Uomo'
 ---
 
 Está [Superdry VL Premium Goods Heat Sealed Tee T-Shirt  Blu  Princedom Blue Marl Bcy   S Uomo](https://www.amazon.it/dp/B07Q9BQ6SF/?tag=tolees00-21) con 51.44 de descuento por 16.99 EUR (original: 34.99 EUR) en el siguiente enlace!

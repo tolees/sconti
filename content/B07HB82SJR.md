@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 16.0 EUR
 inStock: true
-prodname: Brooklyn Cinnamon Gomme da Masticare  Gusto Cannella  Confezione da 20 Stick da 9 Lastrine Monopezzi
+prodname: 'Brooklyn Cinnamon Gomme da Masticare  Gusto Cannella  Confezione da 20 Stick da 9 Lastrine Monopezzi'
 ---
 
 Ahora mismo tienes [Brooklyn Cinnamon Gomme da Masticare  Gusto Cannella  Confezione da 20 Stick da 9 Lastrine Monopezzi](https://www.amazon.it/dp/B07HB82SJR/?tag=tolees00-21) a 11.99 EUR (original: 16.0 EUR) (25.06 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.44
 comparePrice: 94.95 EUR
 inStock: true
-prodname: Clarks Sheer Rose  Scarpe con Tacco Donna  Beige  Navy Suede Navy Suede   40 EU
+prodname: 'Clarks Sheer Rose  Scarpe con Tacco Donna  Beige  Navy Suede Navy Suede   40 EU'
 ---
 
 Tienes [Clarks Sheer Rose  Scarpe con Tacco Donna  Beige  Navy Suede Navy Suede   40 EU](https://www.amazon.it/dp/B07TJPLCVK/?tag=tolees00-21) con un 63.73 % de descuento con precio de oferta de 34.44 EUR (original: 94.95 EUR) en el siguiente enlace!

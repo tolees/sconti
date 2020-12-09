@@ -14,7 +14,7 @@ currency: EUR
 price: 62.83
 comparePrice: 90.62 EUR
 inStock: true
-prodname: ARMANI EXCHANGE All Over  Allover Bucket. Donna  Black  One Size
+prodname: 'ARMANI EXCHANGE All Over  Allover Bucket. Donna  Black  One Size'
 ---
 
 Ahora mismo tienes [ARMANI EXCHANGE All Over  Allover Bucket. Donna  Black  One Size](https://www.amazon.it/dp/B081ZVCRRB/?tag=tolees00-21) a 62.83 EUR (original: 90.62 EUR) (30.67 %  de descuento) en el siguiente enlace!

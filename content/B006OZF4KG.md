@@ -14,7 +14,7 @@ currency: EUR
 price: 9.49
 comparePrice: 12.69 EUR
 inStock: true
-prodname: Revlon ColorStay  colore per sopracciglia
+prodname: 'Revlon ColorStay  colore per sopracciglia'
 ---
 
 Está [Revlon ColorStay  colore per sopracciglia](https://www.amazon.it/dp/B006OZF4KG/?tag=tolees00-21) con 25.22 de descuento por 9.49 EUR (original: 12.69 EUR) en el siguiente enlace!

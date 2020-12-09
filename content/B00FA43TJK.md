@@ -14,7 +14,7 @@ currency: EUR
 price: 1.98
 comparePrice: 3.69 EUR
 inStock: true
-prodname: SUNSILK Ricci da Domare  Balsamo  200 ml
+prodname: 'SUNSILK Ricci da Domare  Balsamo  200 ml'
 ---
 
 Ahora mismo tienes [SUNSILK Ricci da Domare  Balsamo  200 ml](https://www.amazon.it/dp/B00FA43TJK/?tag=tolees00-21) a 1.98 EUR (original: 3.69 EUR) (46.34 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.1
 comparePrice: 18.0 EUR
 inStock: true
-prodname: Havaianas Brasil Logo  Infradito Unisex-Bambini  Blu  Navy Blue 0555   25/26 EU
+prodname: 'Havaianas Brasil Logo  Infradito Unisex-Bambini  Blu  Navy Blue 0555   25/26 EU'
 ---
 
 Tienes [Havaianas Brasil Logo  Infradito Unisex-Bambini  Blu  Navy Blue 0555   25/26 EU](https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21) con un 55.00 % de descuento con precio de oferta de 8.1 EUR (original: 18.0 EUR) en el siguiente enlace!

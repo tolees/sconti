@@ -14,7 +14,7 @@ currency: EUR
 price: 7.7
 comparePrice: 10.39 EUR
 inStock: true
-prodname: 8 1/2
+prodname: '8 1/2'
 ---
 
 Está [8 1/2](https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21) con 25.89 de descuento por 7.7 EUR (original: 10.39 EUR) en el siguiente enlace!

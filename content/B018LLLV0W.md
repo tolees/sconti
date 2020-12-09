@@ -14,7 +14,7 @@ currency: EUR
 price: 25.49
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Tommy Hilfiger New ALY Belt Cintura  Schwarz Black 090   85 Uomo
+prodname: 'Tommy Hilfiger New ALY Belt Cintura  Schwarz Black 090   85 Uomo'
 ---
 
 Está [Tommy Hilfiger New ALY Belt Cintura  Schwarz Black 090   85 Uomo](https://www.amazon.it/dp/B018LLLV0W/?tag=tolees00-21) con 36.12 de descuento por 25.49 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 38.99
 comparePrice: 55.7 EUR
 inStock: true
-prodname: Funko Pop Advent Calendar: Dragon Ball Z  Multicolore  49660
+prodname: 'Funko Pop Advent Calendar: Dragon Ball Z  Multicolore  49660'
 ---
 
 Tienes [Funko Pop Advent Calendar: Dragon Ball Z  Multicolore  49660](https://www.amazon.it/dp/B084R1RPQM/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 38.99 EUR (original: 55.7 EUR) en el siguiente enlace!

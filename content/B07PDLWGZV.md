@@ -14,7 +14,7 @@ currency: EUR
 price: 59.95
 comparePrice: 104.06 EUR
 inStock: true
-prodname: IKOHS STONE GRILL PRO - Sandwichera Grill
+prodname: 'IKOHS STONE GRILL PRO - Sandwichera Grill'
 ---
 
 Ahora mismo tienes [IKOHS STONE GRILL PRO - Sandwichera Grill](https://www.amazon.it/dp/B07PDLWGZV/?tag=tolees00-21) a 59.95 EUR (original: 104.06 EUR) (42.39 %  de descuento) en el siguiente enlace!

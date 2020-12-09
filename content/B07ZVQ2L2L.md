@@ -14,7 +14,7 @@ currency: EUR
 price: 30.39
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Levi s Crew Maglia di Tuta  Mineral Black  S Uomo
+prodname: 'Levi s Crew Maglia di Tuta  Mineral Black  S Uomo'
 ---
 
 Está [Levi s Crew Maglia di Tuta  Mineral Black  S Uomo](https://www.amazon.it/dp/B07ZVQ2L2L/?tag=tolees00-21) con 53.25 de descuento por 30.39 EUR (original: 65.0 EUR) en el siguiente enlace!

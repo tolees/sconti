@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 64.38 EUR
 inStock: true
-prodname: Invicta 9204 Pro Diver Orologio da Unisex acciaio inossidabile Quarzo quadrante blu
+prodname: 'Invicta 9204 Pro Diver Orologio da Unisex acciaio inossidabile Quarzo quadrante blu'
 ---
 
 Está [Invicta 9204 Pro Diver Orologio da Unisex acciaio inossidabile Quarzo quadrante blu](https://www.amazon.it/dp/B000GX8WAG/?tag=tolees00-21) con 30.10 de descuento por 45.0 EUR (original: 64.38 EUR) en el siguiente enlace!

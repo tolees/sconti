@@ -14,7 +14,7 @@ currency: EUR
 price: 23.23
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Lacoste Tf5627 T-Shirt  Bianco  Blanc/Methylene Bed   46  Taglia Unica: 42  Donna
+prodname: 'Lacoste Tf5627 T-Shirt  Bianco  Blanc/Methylene Bed   46  Taglia Unica: 42  Donna'
 ---
 
 Está [Lacoste Tf5627 T-Shirt  Bianco  Blanc/Methylene Bed   46  Taglia Unica: 42  Donna](https://www.amazon.it/dp/B07TJXVT68/?tag=tolees00-21) con 61.28 de descuento por 23.23 EUR (original: 60.0 EUR) en el siguiente enlace!

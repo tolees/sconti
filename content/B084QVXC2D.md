@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 21.24 EUR
 inStock: true
-prodname: Star Wars 2 L Attacco Dei Cloni Uhd 4K   3 Blu Ray 
+prodname: 'Star Wars 2 L Attacco Dei Cloni Uhd 4K   3 Blu Ray '
 ---
 
 Está [Star Wars 2 L Attacco Dei Cloni Uhd 4K   3 Blu Ray ](https://www.amazon.it/dp/B084QVXC2D/?tag=tolees00-21) con 38.84 de descuento por 12.99 EUR (original: 21.24 EUR) en el siguiente enlace!

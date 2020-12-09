@@ -14,7 +14,7 @@ currency: EUR
 price: 109.99
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Ariete 2718 Xclean Robot Aspirapolvere  Partenza Ritardata  Filtro HEPA  Autonomia 1.5 h  65 dB  diametro: 30 cm  Capacità 300 ml  25W  Nero
+prodname: 'Ariete 2718 Xclean Robot Aspirapolvere  Partenza Ritardata  Filtro HEPA  Autonomia 1.5 h  65 dB  diametro: 30 cm  Capacità 300 ml  25W  Nero'
 ---
 
 Tienes [Ariete 2718 Xclean Robot Aspirapolvere  Partenza Ritardata  Filtro HEPA  Autonomia 1.5 h  65 dB  diametro: 30 cm  Capacità 300 ml  25W  Nero](https://www.amazon.it/dp/B073HBQPFC/?tag=tolees00-21) con un 26.67 % de descuento con precio de oferta de 109.99 EUR (original: 149.99 EUR) en el siguiente enlace!

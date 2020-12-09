@@ -14,7 +14,7 @@ currency: EUR
 price: 47.18
 comparePrice: 119.95 EUR
 inStock: true
-prodname: Desigual Chaq whaii Giubbotto  Blu  Jeans Bleach 5058   44  Taglia Produttore: 38  Donna
+prodname: 'Desigual Chaq whaii Giubbotto  Blu  Jeans Bleach 5058   44  Taglia Produttore: 38  Donna'
 ---
 
 Ahora mismo tienes [Desigual Chaq whaii Giubbotto  Blu  Jeans Bleach 5058   44  Taglia Produttore: 38  Donna](https://www.amazon.it/dp/B07VCJCZZD/?tag=tolees00-21) a 47.18 EUR (original: 119.95 EUR) (60.67 %  de descuento) en el siguiente enlace!

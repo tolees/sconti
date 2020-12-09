@@ -14,7 +14,7 @@ currency: EUR
 price: 40.98
 comparePrice: 70.77 EUR
 inStock: true
-prodname: Hugo Boss Boss Bottled Eau de Toilette  Uomo  100 ml
+prodname: 'Hugo Boss Boss Bottled Eau de Toilette  Uomo  100 ml'
 ---
 
 Ahora mismo tienes [Hugo Boss Boss Bottled Eau de Toilette  Uomo  100 ml](https://www.amazon.it/dp/B000RPLZAM/?tag=tolees00-21) a 40.98 EUR (original: 70.77 EUR) (42.09 %  de descuento) en el siguiente enlace!

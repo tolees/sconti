@@ -14,7 +14,7 @@ currency: EUR
 price: 31.01
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas 3stripe Wrap TT Felpa  Uomo  Black/White  S
+prodname: 'adidas 3stripe Wrap TT Felpa  Uomo  Black/White  S'
 ---
 
 Ahora mismo tienes [adidas 3stripe Wrap TT Felpa  Uomo  Black/White  S](https://www.amazon.it/dp/B081TPMPZS/?tag=tolees00-21) a 31.01 EUR (original: 69.95 EUR) (55.67 %  de descuento) en el siguiente enlace!

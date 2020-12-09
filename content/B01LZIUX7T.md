@@ -14,7 +14,7 @@ currency: EUR
 price: 45.49
 comparePrice: 64.88 EUR
 inStock: true
-prodname: Nike Tanjun Mn  Scarpe Sportive Uomo  Bianco  Bianco/Nero   40.5 EU
+prodname: 'Nike Tanjun Mn  Scarpe Sportive Uomo  Bianco  Bianco/Nero   40.5 EU'
 ---
 
 Tienes [Nike Tanjun Mn  Scarpe Sportive Uomo  Bianco  Bianco/Nero   40.5 EU](https://www.amazon.it/dp/B01LZIUX7T/?tag=tolees00-21) con un 29.89 % de descuento con precio de oferta de 45.49 EUR (original: 64.88 EUR) en el siguiente enlace!

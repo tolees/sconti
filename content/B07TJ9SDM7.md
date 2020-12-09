@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Levi s LS Battery HM Shirt Slim Camicia  Blu  Redcast Stone Mid Flat T2 H2 19 0004   Medium Uomo
+prodname: 'Levi s LS Battery HM Shirt Slim Camicia  Blu  Redcast Stone Mid Flat T2 H2 19 0004   Medium Uomo'
 ---
 
 Ahora mismo tienes [Levi s LS Battery HM Shirt Slim Camicia  Blu  Redcast Stone Mid Flat T2 H2 19 0004   Medium Uomo](https://www.amazon.it/dp/B07TJ9SDM7/?tag=tolees00-21) a 29.99 EUR (original: 60.0 EUR) (50.02 %  de descuento) en el siguiente enlace!

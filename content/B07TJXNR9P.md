@@ -14,7 +14,7 @@ currency: EUR
 price: 35.0
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Lacoste Pj2909 Polo  Viola  Corsaire 68t   12 anni  Taglia Produttore: 12A  Bambino
+prodname: 'Lacoste Pj2909 Polo  Viola  Corsaire 68t   12 anni  Taglia Produttore: 12A  Bambino'
 ---
 
 Tienes [Lacoste Pj2909 Polo  Viola  Corsaire 68t   12 anni  Taglia Produttore: 12A  Bambino](https://www.amazon.it/dp/B07TJXNR9P/?tag=tolees00-21) con un 36.36 % de descuento con precio de oferta de 35.0 EUR (original: 55.0 EUR) en el siguiente enlace!

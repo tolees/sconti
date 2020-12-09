@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Crocs Classic II Flip  Infradito Unisex-Adulto  Blu  Navy 410   38/39 EU
+prodname: 'Crocs Classic II Flip  Infradito Unisex-Adulto  Blu  Navy 410   38/39 EU'
 ---
 
 Ahora mismo tienes [Crocs Classic II Flip  Infradito Unisex-Adulto  Blu  Navy 410   38/39 EU](https://www.amazon.it/dp/B07SBB8B2W/?tag=tolees00-21) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 69.9
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Trevi XFEST XF 450 Altoparlante Amplificato Portatile con Trolley  Mp3  USB  Bluetooth e Batteria Integrata  Karaoke Party Speaker con Microfono Incluso
+prodname: 'Trevi XFEST XF 450 Altoparlante Amplificato Portatile con Trolley  Mp3  USB  Bluetooth e Batteria Integrata  Karaoke Party Speaker con Microfono Incluso'
 ---
 
 Está [Trevi XFEST XF 450 Altoparlante Amplificato Portatile con Trolley  Mp3  USB  Bluetooth e Batteria Integrata  Karaoke Party Speaker con Microfono Incluso](https://www.amazon.it/dp/B07BY4H5MG/?tag=tolees00-21) con 29.39 de descuento por 69.9 EUR (original: 99.0 EUR) en el siguiente enlace!

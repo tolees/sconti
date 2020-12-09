@@ -14,7 +14,7 @@ currency: EUR
 price: 719.0
 comparePrice: 1206.36 EUR
 inStock: true
-prodname: LG GBB72SADXN Frigorifero Smart Combinato Total No Frost con Congelatore  384 L  Classe A+++ -10%  36 dB - Frigo con Freezer  Wi-Fi e Display LED Esterno
+prodname: 'LG GBB72SADXN Frigorifero Smart Combinato Total No Frost con Congelatore  384 L  Classe A+++ -10%  36 dB - Frigo con Freezer  Wi-Fi e Display LED Esterno'
 ---
 
 Está [LG GBB72SADXN Frigorifero Smart Combinato Total No Frost con Congelatore  384 L  Classe A+++ -10%  36 dB - Frigo con Freezer  Wi-Fi e Display LED Esterno](https://www.amazon.it/dp/B08D9NS4DX/?tag=tolees00-21) con 40.40 de descuento por 719.0 EUR (original: 1206.36 EUR) en el siguiente enlace!

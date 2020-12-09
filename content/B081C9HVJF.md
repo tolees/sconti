@@ -14,7 +14,7 @@ currency: EUR
 price: 53.23
 comparePrice: 98.99 EUR
 inStock: true
-prodname: 10.1 Tablet Android 7.0 Nougat  Slot per schede Dual SIM sbloccate 3G  Processore Octa-Core  DDR3 da 4 GB  Archiviazione da 64 GB  White 
+prodname: '10.1 Tablet Android 7.0 Nougat  Slot per schede Dual SIM sbloccate 3G  Processore Octa-Core  DDR3 da 4 GB  Archiviazione da 64 GB  White '
 ---
 
 Ahora mismo tienes [10.1 Tablet Android 7.0 Nougat  Slot per schede Dual SIM sbloccate 3G  Processore Octa-Core  DDR3 da 4 GB  Archiviazione da 64 GB  White ](https://www.amazon.it/dp/B081C9HVJF/?tag=tolees00-21) a 53.23 EUR (original: 98.99 EUR) (46.23 %  de descuento) en el siguiente enlace!

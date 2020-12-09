@@ -14,7 +14,7 @@ currency: EUR
 price: 20.88
 comparePrice: 46.28 EUR
 inStock: true
-prodname: Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml
+prodname: 'Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml'
 ---
 
 Tienes [Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml](https://www.amazon.it/dp/B00AKFFXG6/?tag=tolees00-21) con un 54.88 % de descuento con precio de oferta de 20.88 EUR (original: 46.28 EUR) en el siguiente enlace!

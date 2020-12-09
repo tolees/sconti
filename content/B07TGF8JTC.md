@@ -14,7 +14,7 @@ currency: EUR
 price: 5.3
 comparePrice: 7.2 EUR
 inStock: true
-prodname: Marchio Amazon - Meraki Maglione in Cotone Uomo  Blu  Navy   S  Label: S
+prodname: 'Marchio Amazon - Meraki Maglione in Cotone Uomo  Blu  Navy   S  Label: S'
 ---
 
 Ahora mismo tienes [Marchio Amazon - Meraki Maglione in Cotone Uomo  Blu  Navy   S  Label: S](https://www.amazon.it/dp/B07TGF8JTC/?tag=tolees00-21) a 5.3 EUR (original: 7.2 EUR) (26.39 %  de descuento) en el siguiente enlace!

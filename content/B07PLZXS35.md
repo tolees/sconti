@@ -14,7 +14,7 @@ currency: EUR
 price: 5.9
 comparePrice: 7.9 EUR
 inStock: true
-prodname: Sapientino Mimo  Multicolore  16174
+prodname: 'Sapientino Mimo  Multicolore  16174'
 ---
 
 Ahora mismo tienes [Sapientino Mimo  Multicolore  16174](https://www.amazon.it/dp/B07PLZXS35/?tag=tolees00-21) a 5.9 EUR (original: 7.9 EUR) (25.32 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.98
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Rocco Giocattoli- Batuffoli Cerca Casa Vero Amore  Colore Assortito  638SED/P
+prodname: 'Rocco Giocattoli- Batuffoli Cerca Casa Vero Amore  Colore Assortito  638SED/P'
 ---
 
 Ahora mismo tienes [Rocco Giocattoli- Batuffoli Cerca Casa Vero Amore  Colore Assortito  638SED/P](https://www.amazon.it/dp/B07RPYPRV8/?tag=tolees00-21) a 19.98 EUR (original: 54.99 EUR) (63.67 %  de descuento) en el siguiente enlace!

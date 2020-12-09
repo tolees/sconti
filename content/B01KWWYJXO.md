@@ -14,7 +14,7 @@ currency: EUR
 price: 229.0
 comparePrice: 349.99 EUR
 inStock: true
-prodname: Philips AC2887/10 Purificatore d Aria con Tecnologia VitalShield IPS e Filtro Advanced Nanoprotect  antiallergico
+prodname: 'Philips AC2887/10 Purificatore d Aria con Tecnologia VitalShield IPS e Filtro Advanced Nanoprotect  antiallergico'
 ---
 
 Ahora mismo tienes [Philips AC2887/10 Purificatore d Aria con Tecnologia VitalShield IPS e Filtro Advanced Nanoprotect  antiallergico](https://www.amazon.it/dp/B01KWWYJXO/?tag=tolees00-21) a 229.0 EUR (original: 349.99 EUR) (34.57 %  de descuento) en el siguiente enlace!

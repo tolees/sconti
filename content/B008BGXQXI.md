@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 11.13 EUR
 inStock: true
-prodname: Pattex Millechiodi Esterni & Interni  Adesivo Forte in Cartuccia per Montaggi Esterni  Resistente per Legno  Ceramica  Metallo  con Presa Ottima  1 x 450 g
+prodname: 'Pattex Millechiodi Esterni & Interni  Adesivo Forte in Cartuccia per Montaggi Esterni  Resistente per Legno  Ceramica  Metallo  con Presa Ottima  1 x 450 g'
 ---
 
 Ahora mismo tienes [Pattex Millechiodi Esterni & Interni  Adesivo Forte in Cartuccia per Montaggi Esterni  Resistente per Legno  Ceramica  Metallo  con Presa Ottima  1 x 450 g](https://www.amazon.it/dp/B008BGXQXI/?tag=tolees00-21) a 5.99 EUR (original: 11.13 EUR) (46.18 %  de descuento) en el siguiente enlace!

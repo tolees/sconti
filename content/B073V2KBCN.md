@@ -14,7 +14,7 @@ currency: EUR
 price: 139.75
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Swarovski Collana Angelic  Bianco  Placcato Oro Rosa
+prodname: 'Swarovski Collana Angelic  Bianco  Placcato Oro Rosa'
 ---
 
 Está [Swarovski Collana Angelic  Bianco  Placcato Oro Rosa](https://www.amazon.it/dp/B073V2KBCN/?tag=tolees00-21) con 29.77 de descuento por 139.75 EUR (original: 199.0 EUR) en el siguiente enlace!

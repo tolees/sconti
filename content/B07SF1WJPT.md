@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 79.95 EUR
 inStock: true
-prodname: PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black White  36 EU
+prodname: 'PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black White  36 EU'
 ---
 
 Tienes [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black White  36 EU](https://www.amazon.it/dp/B07SF1WJPT/?tag=tolees00-21) con un 50.03 % de descuento con precio de oferta de 39.95 EUR (original: 79.95 EUR) en el siguiente enlace!

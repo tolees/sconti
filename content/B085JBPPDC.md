@@ -14,7 +14,7 @@ currency: EUR
 price: 15.49
 comparePrice: 23.28 EUR
 inStock: true
-prodname: Calvin Klein Sneakersocken  6er Pack  White/Grey/Black  40/46 Calzini  Nero  Taglia unica Uomo
+prodname: 'Calvin Klein Sneakersocken  6er Pack  White/Grey/Black  40/46 Calzini  Nero  Taglia unica Uomo'
 ---
 
 Ahora mismo tienes [Calvin Klein Sneakersocken  6er Pack  White/Grey/Black  40/46 Calzini  Nero  Taglia unica Uomo](https://www.amazon.it/dp/B085JBPPDC/?tag=tolees00-21) a 15.49 EUR (original: 23.28 EUR) (33.46 %  de descuento) en el siguiente enlace!

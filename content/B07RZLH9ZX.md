@@ -14,7 +14,7 @@ currency: EUR
 price: 40.0
 comparePrice: 80.0 EUR
 inStock: true
-prodname: Levi s Cameron Hoodie Felpa con Cappuccio  Multicolour  Levi Chest Hit White/Baby Blue 0000   S Donna
+prodname: 'Levi s Cameron Hoodie Felpa con Cappuccio  Multicolour  Levi Chest Hit White/Baby Blue 0000   S Donna'
 ---
 
 Ahora mismo tienes [Levi s Cameron Hoodie Felpa con Cappuccio  Multicolour  Levi Chest Hit White/Baby Blue 0000   S Donna](https://www.amazon.it/dp/B07RZLH9ZX/?tag=tolees00-21) a 40.0 EUR (original: 80.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

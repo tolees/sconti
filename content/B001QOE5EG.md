@@ -14,7 +14,7 @@ currency: EUR
 price: 55.99
 comparePrice: 90.0 EUR
 inStock: true
-prodname: Levi s 501 Original Fit Jeans  Blu Stonewash  33W / 32L Uomo
+prodname: 'Levi s 501 Original Fit Jeans  Blu Stonewash  33W / 32L Uomo'
 ---
 
 Ahora mismo tienes [Levi s 501 Original Fit Jeans  Blu Stonewash  33W / 32L Uomo](https://www.amazon.it/dp/B001QOE5EG/?tag=tolees00-21) a 55.99 EUR (original: 90.0 EUR) (37.79 %  de descuento) en el siguiente enlace!

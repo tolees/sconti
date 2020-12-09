@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Landove Donna A spalle Ruffle allentato Batwing Mantello Jumper orlo asimmetrico casuale elegante colore solido lavoro Tunica Camicetta Trendy Affumicato Top inverno scialle UK8 / M Rosso scuro
+prodname: 'Landove Donna A spalle Ruffle allentato Batwing Mantello Jumper orlo asimmetrico casuale elegante colore solido lavoro Tunica Camicetta Trendy Affumicato Top inverno scialle UK8 / M Rosso scuro'
 ---
 
 Ahora mismo tienes [Landove Donna A spalle Ruffle allentato Batwing Mantello Jumper orlo asimmetrico casuale elegante colore solido lavoro Tunica Camicetta Trendy Affumicato Top inverno scialle UK8 / M Rosso scuro](https://www.amazon.it/dp/B07GYTDSSL/?tag=tolees00-21) a 13.99 EUR (original: 29.99 EUR) (53.35 %  de descuento) en el siguiente enlace!

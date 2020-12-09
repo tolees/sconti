@@ -14,7 +14,7 @@ currency: EUR
 price: 60.99
 comparePrice: 99.95 EUR
 inStock: true
-prodname: New Balance Unisex - Adulto 574v2 Core Scarpe da Ginnastica  Blu  Navy   46.5 EU
+prodname: 'New Balance Unisex - Adulto 574v2 Core Scarpe da Ginnastica  Blu  Navy   46.5 EU'
 ---
 
 Está [New Balance Unisex - Adulto 574v2 Core Scarpe da Ginnastica  Blu  Navy   46.5 EU](https://www.amazon.it/dp/B06Y2Y5NPW/?tag=tolees00-21) con 38.98 de descuento por 60.99 EUR (original: 99.95 EUR) en el siguiente enlace!

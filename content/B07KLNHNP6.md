@@ -14,7 +14,7 @@ currency: EUR
 price: 3.5
 comparePrice: 5.9 EUR
 inStock: true
-prodname: Hasbro Monopoly Deal  Gioco di Carte  Versione in Italiano  E3113
+prodname: 'Hasbro Monopoly Deal  Gioco di Carte  Versione in Italiano  E3113'
 ---
 
 Está [Hasbro Monopoly Deal  Gioco di Carte  Versione in Italiano  E3113](https://www.amazon.it/dp/B07KLNHNP6/?tag=tolees00-21) con 40.68 de descuento por 3.5 EUR (original: 5.9 EUR) en el siguiente enlace!

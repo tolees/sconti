@@ -14,7 +14,7 @@ currency: EUR
 price: 35.49
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Columbia Fast Trek II  Giacca in pile con cerniera  Uomo
+prodname: 'Columbia Fast Trek II  Giacca in pile con cerniera  Uomo'
 ---
 
 Está [Columbia Fast Trek II  Giacca in pile con cerniera  Uomo](https://www.amazon.it/dp/B07V6N7MRF/?tag=tolees00-21) con 29.01 de descuento por 35.49 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 50.15
 comparePrice: 85.0 EUR
 inStock: true
-prodname: K-Way Le Vrai 3.0 Victor Unisex Felpa  Rosso  Small  Taglia Produttore:S  Uomo
+prodname: 'K-Way Le Vrai 3.0 Victor Unisex Felpa  Rosso  Small  Taglia Produttore:S  Uomo'
 ---
 
 Está [K-Way Le Vrai 3.0 Victor Unisex Felpa  Rosso  Small  Taglia Produttore:S  Uomo](https://www.amazon.it/dp/B01M0IYKPC/?tag=tolees00-21) con 41.00 de descuento por 50.15 EUR (original: 85.0 EUR) en el siguiente enlace!

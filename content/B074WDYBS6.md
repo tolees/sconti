@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 84.99 EUR
 inStock: true
-prodname: Philips MG7720 Groming Kit Serie 7000 Rifinitore Impermeabile in Acciaio 14 in 1 Barba  Capelli e Corpo
+prodname: 'Philips MG7720 Groming Kit Serie 7000 Rifinitore Impermeabile in Acciaio 14 in 1 Barba  Capelli e Corpo'
 ---
 
 Ahora mismo tienes [Philips MG7720 Groming Kit Serie 7000 Rifinitore Impermeabile in Acciaio 14 in 1 Barba  Capelli e Corpo](https://www.amazon.it/dp/B074WDYBS6/?tag=tolees00-21) a 39.99 EUR (original: 84.99 EUR) (52.95 %  de descuento) en el siguiente enlace!

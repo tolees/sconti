@@ -14,7 +14,7 @@ currency: EUR
 price: 48.95
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Skechers DARLOW REMEGO  Sneaker Uomo  Blu  Denim Canvas den   39.5 EU
+prodname: 'Skechers DARLOW REMEGO  Sneaker Uomo  Blu  Denim Canvas den   39.5 EU'
 ---
 
 Tienes [Skechers DARLOW REMEGO  Sneaker Uomo  Blu  Denim Canvas den   39.5 EU](https://www.amazon.it/dp/B07XGLFT9T/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 48.95 EUR (original: 69.95 EUR) en el siguiente enlace!

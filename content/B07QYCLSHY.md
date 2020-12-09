@@ -14,7 +14,7 @@ currency: EUR
 price: 0.99
 comparePrice: 1.99 EUR
 inStock: true
-prodname: NESQUIK ALL NATURAL Cacao Solubile per Latte  168 g
+prodname: 'NESQUIK ALL NATURAL Cacao Solubile per Latte  168 g'
 ---
 
 Tienes [NESQUIK ALL NATURAL Cacao Solubile per Latte  168 g](https://www.amazon.it/dp/B07QYCLSHY/?tag=tolees00-21) con un 50.25 % de descuento con precio de oferta de 0.99 EUR (original: 1.99 EUR) en el siguiente enlace!

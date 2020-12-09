@@ -14,7 +14,7 @@ currency: EUR
 price: 43.26
 comparePrice: 58.87 EUR
 inStock: true
-prodname: Beggars Banquet Remastered  50Th Annyversary Edt.Lp+12"+Flexy Disc 
+prodname: 'Beggars Banquet Remastered  50Th Annyversary Edt.Lp+12"+Flexy Disc '
 ---
 
 Está [Beggars Banquet Remastered  50Th Annyversary Edt.Lp+12"+Flexy Disc ](https://www.amazon.it/dp/B07F7RSQMT/?tag=tolees00-21) con 26.52 de descuento por 43.26 EUR (original: 58.87 EUR) en el siguiente enlace!

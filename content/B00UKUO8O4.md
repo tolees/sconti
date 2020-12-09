@@ -14,7 +14,7 @@ currency: EUR
 price: 7.32
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Smartwares 6000.631 Manou Lampada da tavolo – Attacco ES/E27 – Flessibile – Grigia e bianca
+prodname: 'Smartwares 6000.631 Manou Lampada da tavolo – Attacco ES/E27 – Flessibile – Grigia e bianca'
 ---
 
 Está [Smartwares 6000.631 Manou Lampada da tavolo – Attacco ES/E27 – Flessibile – Grigia e bianca](https://www.amazon.it/dp/B00UKUO8O4/?tag=tolees00-21) con 47.68 de descuento por 7.32 EUR (original: 13.99 EUR) en el siguiente enlace!

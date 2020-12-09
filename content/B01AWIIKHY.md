@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Yankee Candle Vanilla Candela Profumata in Giara Grande  Fino a 150 ore di combustione
+prodname: 'Yankee Candle Vanilla Candela Profumata in Giara Grande  Fino a 150 ore di combustione'
 ---
 
 Tienes [Yankee Candle Vanilla Candela Profumata in Giara Grande  Fino a 150 ore di combustione](https://www.amazon.it/dp/B01AWIIKHY/?tag=tolees00-21) con un 29.80 % de descuento con precio de oferta de 20.99 EUR (original: 29.9 EUR) en el siguiente enlace!

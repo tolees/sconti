@@ -14,7 +14,7 @@ currency: EUR
 price: 59.25
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Salewa Alpinist Combi Ramponi  Unisex adulto  Blu  Steel/Blue   Taglia Unica
+prodname: 'Salewa Alpinist Combi Ramponi  Unisex adulto  Blu  Steel/Blue   Taglia Unica'
 ---
 
 Tienes [Salewa Alpinist Combi Ramponi  Unisex adulto  Blu  Steel/Blue   Taglia Unica](https://www.amazon.it/dp/B00ET40HYC/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 59.25 EUR (original: 79.0 EUR) en el siguiente enlace!

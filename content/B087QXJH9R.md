@@ -14,7 +14,7 @@ currency: EUR
 price: 13.93
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Monopoly - La rivincita dei perdenti  Gioco in scatola  Hasbro Gaming 
+prodname: 'Monopoly - La rivincita dei perdenti  Gioco in scatola  Hasbro Gaming '
 ---
 
 Ahora mismo tienes [Monopoly - La rivincita dei perdenti  Gioco in scatola  Hasbro Gaming ](https://www.amazon.it/dp/B087QXJH9R/?tag=tolees00-21) a 13.93 EUR (original: 29.99 EUR) (53.55 %  de descuento) en el siguiente enlace!

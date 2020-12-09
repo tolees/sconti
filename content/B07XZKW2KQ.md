@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lacoste Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox 2011031
+prodname: 'Lacoste Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox 2011031'
 ---
 
 Está [Lacoste Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox 2011031](https://www.amazon.it/dp/B07XZKW2KQ/?tag=tolees00-21) con 30.97 de descuento por 69.0 EUR (original: 99.95 EUR) en el siguiente enlace!

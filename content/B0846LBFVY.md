@@ -14,7 +14,7 @@ currency: EUR
 price: 61.79
 comparePrice: 102.73 EUR
 inStock: true
-prodname: Calvin Klein Satchels  Borse Donna  Nero  One Size
+prodname: 'Calvin Klein Satchels  Borse Donna  Nero  One Size'
 ---
 
 Está [Calvin Klein Satchels  Borse Donna  Nero  One Size](https://www.amazon.it/dp/B0846LBFVY/?tag=tolees00-21) con 39.85 de descuento por 61.79 EUR (original: 102.73 EUR) en el siguiente enlace!

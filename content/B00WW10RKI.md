@@ -14,7 +14,7 @@ currency: EUR
 price: 442.59
 comparePrice: 3182.98 EUR
 inStock: true
-prodname: Stampante Multifunzione 4 in 1  a colori  A3  fronte/retro  23 pagine al minuto  con mobiletto  2° cassetto e software gestione documentale
+prodname: 'Stampante Multifunzione 4 in 1  a colori  A3  fronte/retro  23 pagine al minuto  con mobiletto  2° cassetto e software gestione documentale'
 ---
 
 Ahora mismo tienes [Stampante Multifunzione 4 in 1  a colori  A3  fronte/retro  23 pagine al minuto  con mobiletto  2° cassetto e software gestione documentale](https://www.amazon.it/dp/B00WW10RKI/?tag=tolees00-21) a 442.59 EUR (original: 3182.98 EUR) (86.10 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 66.12
 comparePrice: 89.01 EUR
 inStock: true
-prodname: Ultratec Frullatore mixer 2 litri - Mixer cucina e per smoothie 1.500 Watt o 2 PS - Mixer con 32.000 giri/min  incl. ricettario smoothie  tritatutto  frullatore  utensile cucina
+prodname: 'Ultratec Frullatore mixer 2 litri - Mixer cucina e per smoothie 1.500 Watt o 2 PS - Mixer con 32.000 giri/min  incl. ricettario smoothie  tritatutto  frullatore  utensile cucina'
 ---
 
 Tienes [Ultratec Frullatore mixer 2 litri - Mixer cucina e per smoothie 1.500 Watt o 2 PS - Mixer con 32.000 giri/min  incl. ricettario smoothie  tritatutto  frullatore  utensile cucina](https://www.amazon.it/dp/B00OXVUHKU/?tag=tolees00-21) con un 25.72 % de descuento con precio de oferta de 66.12 EUR (original: 89.01 EUR) en el siguiente enlace!

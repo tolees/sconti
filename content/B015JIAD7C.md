@@ -14,7 +14,7 @@ currency: EUR
 price: 50.0
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Polaroid Fotocamera Digitale a Scatto Istantaneo  con Tecnologia Di Stampa a Zero Inchiostro Zink  Bianco
+prodname: 'Polaroid Fotocamera Digitale a Scatto Istantaneo  con Tecnologia Di Stampa a Zero Inchiostro Zink  Bianco'
 ---
 
 Tienes [Polaroid Fotocamera Digitale a Scatto Istantaneo  con Tecnologia Di Stampa a Zero Inchiostro Zink  Bianco](https://www.amazon.it/dp/B015JIAD7C/?tag=tolees00-21) con un 58.33 % de descuento con precio de oferta de 50.0 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 31.21 EUR
 inStock: true
-prodname: iNeego Giochi Bambini 2 Anni - Giochi matematici Giochi Montessori 2 Anni Giochi Bambina Giochi Educativi 2-8 Anni Giochi di Carte Giochi Interattivi per Rana Bilancia per Bambini STEM Learning
+prodname: 'iNeego Giochi Bambini 2 Anni - Giochi matematici Giochi Montessori 2 Anni Giochi Bambina Giochi Educativi 2-8 Anni Giochi di Carte Giochi Interattivi per Rana Bilancia per Bambini STEM Learning'
 ---
 
 Está [iNeego Giochi Bambini 2 Anni - Giochi matematici Giochi Montessori 2 Anni Giochi Bambina Giochi Educativi 2-8 Anni Giochi di Carte Giochi Interattivi per Rana Bilancia per Bambini STEM Learning](https://www.amazon.it/dp/B08GKJ6VQ7/?tag=tolees00-21) con 42.36 de descuento por 17.99 EUR (original: 31.21 EUR) en el siguiente enlace!

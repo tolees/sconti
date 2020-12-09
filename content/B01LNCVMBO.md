@@ -14,7 +14,7 @@ currency: EUR
 price: 8.9
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Lisciani Giochi Ludoteca Giochi Riuniti 57023 Più di 60  6 anni +
+prodname: 'Lisciani Giochi Ludoteca Giochi Riuniti 57023 Più di 60  6 anni +'
 ---
 
 Ahora mismo tienes [Lisciani Giochi Ludoteca Giochi Riuniti 57023 Più di 60  6 anni +](https://www.amazon.it/dp/B01LNCVMBO/?tag=tolees00-21) a 8.9 EUR (original: 11.99 EUR) (25.77 %  de descuento) en el siguiente enlace!

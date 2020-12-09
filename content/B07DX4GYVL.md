@@ -14,7 +14,7 @@ currency: EUR
 price: 45.5
 comparePrice: 65.66 EUR
 inStock: true
-prodname: CARTIER Profumo - 100 ml
+prodname: 'CARTIER Profumo - 100 ml'
 ---
 
 Ahora mismo tienes [CARTIER Profumo - 100 ml](https://www.amazon.it/dp/B07DX4GYVL/?tag=tolees00-21) a 45.5 EUR (original: 65.66 EUR) (30.70 %  de descuento) en el siguiente enlace!

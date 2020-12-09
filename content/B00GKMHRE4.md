@@ -14,7 +14,7 @@ currency: EUR
 price: 519.99
 comparePrice: 699.0 EUR
 inStock: true
-prodname: Haier WS50GA  Cantinetta Vino 50 Bottiglie  Libera Installazione
+prodname: 'Haier WS50GA  Cantinetta Vino 50 Bottiglie  Libera Installazione'
 ---
 
 Ahora mismo tienes [Haier WS50GA  Cantinetta Vino 50 Bottiglie  Libera Installazione](https://www.amazon.it/dp/B00GKMHRE4/?tag=tolees00-21) a 519.99 EUR (original: 699.0 EUR) (25.61 %  de descuento) en el siguiente enlace!

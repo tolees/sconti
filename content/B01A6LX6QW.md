@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Crocs ClassicSlipper Ciabatte Unisex – Adulto  Nero  Black/Black   36-37 EU  M3/W4 UK 
+prodname: 'Crocs ClassicSlipper Ciabatte Unisex – Adulto  Nero  Black/Black   36-37 EU  M3/W4 UK '
 ---
 
 Ahora mismo tienes [Crocs ClassicSlipper Ciabatte Unisex – Adulto  Nero  Black/Black   36-37 EU  M3/W4 UK ](https://www.amazon.it/dp/B01A6LX6QW/?tag=tolees00-21) a 19.95 EUR (original: 29.99 EUR) (33.48 %  de descuento) en el siguiente enlace!

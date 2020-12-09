@@ -14,7 +14,7 @@ currency: EUR
 price: 179.99
 comparePrice: 259.9 EUR
 inStock: true
-prodname: HUAWEI T5 Mediapad Tablet  Display da 10.1"  1080p Full HD  64 GB Espandibili  4 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero
+prodname: 'HUAWEI T5 Mediapad Tablet  Display da 10.1"  1080p Full HD  64 GB Espandibili  4 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero'
 ---
 
 Tienes [HUAWEI T5 Mediapad Tablet  Display da 10.1"  1080p Full HD  64 GB Espandibili  4 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero](https://www.amazon.it/dp/B07VWS9V3M/?tag=tolees00-21) con un 30.75 % de descuento con precio de oferta de 179.99 EUR (original: 259.9 EUR) en el siguiente enlace!

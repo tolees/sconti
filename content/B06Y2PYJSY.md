@@ -14,7 +14,7 @@ currency: EUR
 price: 89.94
 comparePrice: 149.9 EUR
 inStock: true
-prodname: Geox U Mattias B ABX B  Stivali Chukka Uomo  Marrone  Chestnut/Taupe   40 EU
+prodname: 'Geox U Mattias B ABX B  Stivali Chukka Uomo  Marrone  Chestnut/Taupe   40 EU'
 ---
 
 Ahora mismo tienes [Geox U Mattias B ABX B  Stivali Chukka Uomo  Marrone  Chestnut/Taupe   40 EU](https://www.amazon.it/dp/B06Y2PYJSY/?tag=tolees00-21) a 89.94 EUR (original: 149.9 EUR) (40.00 %  de descuento) en el siguiente enlace!

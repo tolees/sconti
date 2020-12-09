@@ -14,7 +14,7 @@ currency: EUR
 price: 52.16
 comparePrice: 130.0 EUR
 inStock: true
-prodname: Clarks Nature Three 20340682  Scarpe stringate basse uomo  Marron  Mahogany Leather   45
+prodname: 'Clarks Nature Three 20340682  Scarpe stringate basse uomo  Marron  Mahogany Leather   45'
 ---
 
 Tienes [Clarks Nature Three 20340682  Scarpe stringate basse uomo  Marron  Mahogany Leather   45](https://www.amazon.it/dp/B002SNAYCG/?tag=tolees00-21) con un 59.88 % de descuento con precio de oferta de 52.16 EUR (original: 130.0 EUR) en el siguiente enlace!

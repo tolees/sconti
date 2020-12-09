@@ -14,7 +14,7 @@ currency: EUR
 price: 6.2
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Lo Squalo 2
+prodname: 'Lo Squalo 2'
 ---
 
 Ahora mismo tienes [Lo Squalo 2](https://www.amazon.it/dp/B01EGY8S9K/?tag=tolees00-21) a 6.2 EUR (original: 12.99 EUR) (52.27 %  de descuento) en el siguiente enlace!

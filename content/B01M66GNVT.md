@@ -14,7 +14,7 @@ currency: EUR
 price: 29.97
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Acrylic Paint Set By Color Technik  Artist Quality  LARGE SET - 18x59ml  2-Ounce  Bottles  Best Colors For Painting Canvas  Wood  Clay  Fabric  Nail Art & Ceramic  Rich Pigments  Heavy Body  GIFT BOX
+prodname: 'Acrylic Paint Set By Color Technik  Artist Quality  LARGE SET - 18x59ml  2-Ounce  Bottles  Best Colors For Painting Canvas  Wood  Clay  Fabric  Nail Art & Ceramic  Rich Pigments  Heavy Body  GIFT BOX'
 ---
 
 Tienes [Acrylic Paint Set By Color Technik  Artist Quality  LARGE SET - 18x59ml  2-Ounce  Bottles  Best Colors For Painting Canvas  Wood  Clay  Fabric  Nail Art & Ceramic  Rich Pigments  Heavy Body  GIFT BOX](https://www.amazon.it/dp/B01M66GNVT/?tag=tolees00-21) con un 40.05 % de descuento con precio de oferta de 29.97 EUR (original: 49.99 EUR) en el siguiente enlace!

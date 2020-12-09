@@ -14,7 +14,7 @@ currency: EUR
 price: 36.37
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Playmobil City Action 70335 - Missione Antincendio con Elicottero e Gommone  dai 4 anni
+prodname: 'Playmobil City Action 70335 - Missione Antincendio con Elicottero e Gommone  dai 4 anni'
 ---
 
 Tienes [Playmobil City Action 70335 - Missione Antincendio con Elicottero e Gommone  dai 4 anni](https://www.amazon.it/dp/B07ZTX6ZLT/?tag=tolees00-21) con un 27.25 % de descuento con precio de oferta de 36.37 EUR (original: 49.99 EUR) en el siguiente enlace!

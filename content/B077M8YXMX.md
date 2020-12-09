@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 49.95 EUR
 inStock: true
-prodname: PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black  38.5 EU
+prodname: 'PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black  38.5 EU'
 ---
 
 Tienes [PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black  38.5 EU](https://www.amazon.it/dp/B077M8YXMX/?tag=tolees00-21) con un 43.96 % de descuento con precio de oferta de 27.99 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.3
 comparePrice: 18.0 EUR
 inStock: true
-prodname: Activewear Canotta Sportiva con Stampa Donna  Blu  Abstract Print Aop   46  Taglia Produttore: Large 
+prodname: 'Activewear Canotta Sportiva con Stampa Donna  Blu  Abstract Print Aop   46  Taglia Produttore: Large '
 ---
 
 Tienes [Activewear Canotta Sportiva con Stampa Donna  Blu  Abstract Print Aop   46  Taglia Produttore: Large ](https://www.amazon.it/dp/B06ZZF5FGL/?tag=tolees00-21) con un 59.44 % de descuento con precio de oferta de 7.3 EUR (original: 18.0 EUR) en el siguiente enlace!

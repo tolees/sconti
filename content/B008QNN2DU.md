@@ -14,7 +14,7 @@ currency: EUR
 price: 5.95
 comparePrice: 14.0 EUR
 inStock: true
-prodname: Neutrogena  Crema Comfort ad Idratazione Intensa  300 ml
+prodname: 'Neutrogena  Crema Comfort ad Idratazione Intensa  300 ml'
 ---
 
 Está [Neutrogena  Crema Comfort ad Idratazione Intensa  300 ml](https://www.amazon.it/dp/B008QNN2DU/?tag=tolees00-21) con 57.50 de descuento por 5.95 EUR (original: 14.0 EUR) en el siguiente enlace!

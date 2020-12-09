@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Nero  43/46 - Confezione da 2
+prodname: 'Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Nero  43/46 - Confezione da 2'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Nero  43/46 - Confezione da 2](https://www.amazon.it/dp/B00FU4ZEQG/?tag=tolees00-21) a 6.99 EUR (original: 9.99 EUR) (30.03 %  de descuento) en el siguiente enlace!

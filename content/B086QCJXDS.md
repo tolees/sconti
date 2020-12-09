@@ -14,7 +14,7 @@ currency: EUR
 price: 357.99
 comparePrice: 499.0 EUR
 inStock: true
-prodname: TCL 10PRO  6.47” FHD+ AMOLED Curved  Quad Cam 64+16+5+2MP  6GB+128GB  Octa Core  Ember Gray [Versione Italiana]
+prodname: 'TCL 10PRO  6.47” FHD+ AMOLED Curved  Quad Cam 64+16+5+2MP  6GB+128GB  Octa Core  Ember Gray [Versione Italiana]'
 ---
 
 Está [TCL 10PRO  6.47” FHD+ AMOLED Curved  Quad Cam 64+16+5+2MP  6GB+128GB  Octa Core  Ember Gray [Versione Italiana]](https://www.amazon.it/dp/B086QCJXDS/?tag=tolees00-21) con 28.26 de descuento por 357.99 EUR (original: 499.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.12
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Carioca Roller Birello | Astuccio Giallo con Pennarelli Doppia Punta Super Lavabili  Pennarelli Punta Fine e Punta Media  con Chiusura Velcro  24 Pezzi
+prodname: 'Carioca Roller Birello | Astuccio Giallo con Pennarelli Doppia Punta Super Lavabili  Pennarelli Punta Fine e Punta Media  con Chiusura Velcro  24 Pezzi'
 ---
 
 Está [Carioca Roller Birello | Astuccio Giallo con Pennarelli Doppia Punta Super Lavabili  Pennarelli Punta Fine e Punta Media  con Chiusura Velcro  24 Pezzi](https://www.amazon.it/dp/B07VKGQ6WN/?tag=tolees00-21) con 56.12 de descuento por 13.12 EUR (original: 29.9 EUR) en el siguiente enlace!

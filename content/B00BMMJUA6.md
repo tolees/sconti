@@ -14,7 +14,7 @@ currency: EUR
 price: 56.0
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox U DUBLIN B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   42 EU
+prodname: 'Geox U DUBLIN B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   42 EU'
 ---
 
 Ahora mismo tienes [Geox U DUBLIN B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   42 EU](https://www.amazon.it/dp/B00BMMJUA6/?tag=tolees00-21) a 56.0 EUR (original: 99.9 EUR) (43.94 %  de descuento) en el siguiente enlace!

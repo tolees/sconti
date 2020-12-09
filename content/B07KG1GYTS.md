@@ -14,7 +14,7 @@ currency: EUR
 price: 39.5
 comparePrice: 79.95 EUR
 inStock: true
-prodname: PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Nero Blk Wht Wht  38 EU
+prodname: 'PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Nero Blk Wht Wht  38 EU'
 ---
 
 Tienes [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Nero Blk Wht Wht  38 EU](https://www.amazon.it/dp/B07KG1GYTS/?tag=tolees00-21) con un 50.59 % de descuento con precio de oferta de 39.5 EUR (original: 79.95 EUR) en el siguiente enlace!

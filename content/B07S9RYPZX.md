@@ -14,7 +14,7 @@ currency: EUR
 price: 32.29
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  Bianco White Black 24  46 EU
+prodname: 'Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  Bianco White Black 24  46 EU'
 ---
 
 Ahora mismo tienes [Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  Bianco White Black 24  46 EU](https://www.amazon.it/dp/B07S9RYPZX/?tag=tolees00-21) a 32.29 EUR (original: 49.95 EUR) (35.36 %  de descuento) en el siguiente enlace!

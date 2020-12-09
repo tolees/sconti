@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Polti Vaporella Simply VS10.10  Ferro da Stiro Generatore di Vapore con Serbatoio Estraibile da 1.5 L  Max Pump 6.5 BAR  Funzione ECO  Riscaldamento 2 Minuti  2200 W  Bianco/Grigio
+prodname: 'Polti Vaporella Simply VS10.10  Ferro da Stiro Generatore di Vapore con Serbatoio Estraibile da 1.5 L  Max Pump 6.5 BAR  Funzione ECO  Riscaldamento 2 Minuti  2200 W  Bianco/Grigio'
 ---
 
 Tienes [Polti Vaporella Simply VS10.10  Ferro da Stiro Generatore di Vapore con Serbatoio Estraibile da 1.5 L  Max Pump 6.5 BAR  Funzione ECO  Riscaldamento 2 Minuti  2200 W  Bianco/Grigio](https://www.amazon.it/dp/B07FZK5PWQ/?tag=tolees00-21) con un 45.74 % de descuento con precio de oferta de 69.99 EUR (original: 129.0 EUR) en el siguiente enlace!

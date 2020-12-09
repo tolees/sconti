@@ -14,7 +14,7 @@ currency: EUR
 price: 35.0
 comparePrice: 78.0 EUR
 inStock: true
-prodname: Burberry Weekend Edp 100 Ml
+prodname: 'Burberry Weekend Edp 100 Ml'
 ---
 
 Está [Burberry Weekend Edp 100 Ml](https://www.amazon.it/dp/B00BOJGITI/?tag=tolees00-21) con 55.13 de descuento por 35.0 EUR (original: 78.0 EUR) en el siguiente enlace!

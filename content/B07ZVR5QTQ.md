@@ -14,7 +14,7 @@ currency: EUR
 price: 47.65
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit Jeans  Richmond Blue Black Od ADV  36W / 36L Uomo
+prodname: 'Levi s 511 Slim Fit Jeans  Richmond Blue Black Od ADV  36W / 36L Uomo'
 ---
 
 Está [Levi s 511 Slim Fit Jeans  Richmond Blue Black Od ADV  36W / 36L Uomo](https://www.amazon.it/dp/B07ZVR5QTQ/?tag=tolees00-21) con 60.29 de descuento por 47.65 EUR (original: 120.0 EUR) en el siguiente enlace!

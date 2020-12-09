@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Levi s Housemark Graphic Tee T-Shirt  Rosso  HM Ssnl EMB Farallon X 0259   Large Uomo
+prodname: 'Levi s Housemark Graphic Tee T-Shirt  Rosso  HM Ssnl EMB Farallon X 0259   Large Uomo'
 ---
 
 Tienes [Levi s Housemark Graphic Tee T-Shirt  Rosso  HM Ssnl EMB Farallon X 0259   Large Uomo](https://www.amazon.it/dp/B07TPPYTY3/?tag=tolees00-21) con un 50.03 % de descuento con precio de oferta de 14.99 EUR (original: 30.0 EUR) en el siguiente enlace!

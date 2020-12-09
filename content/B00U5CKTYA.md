@@ -14,7 +14,7 @@ currency: EUR
 price: 79.9
 comparePrice: 124.0 EUR
 inStock: true
-prodname: Alpina Motosega Elettrica C 2.0 ET  2000 W  Bianco  Lunghezza della Barra 40 cm  16" 
+prodname: 'Alpina Motosega Elettrica C 2.0 ET  2000 W  Bianco  Lunghezza della Barra 40 cm  16" '
 ---
 
 Está [Alpina Motosega Elettrica C 2.0 ET  2000 W  Bianco  Lunghezza della Barra 40 cm  16" ](https://www.amazon.it/dp/B00U5CKTYA/?tag=tolees00-21) con 35.56 de descuento por 79.9 EUR (original: 124.0 EUR) en el siguiente enlace!

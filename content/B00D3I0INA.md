@@ -14,7 +14,7 @@ currency: EUR
 price: 114.9
 comparePrice: 210.0 EUR
 inStock: true
-prodname: TESMED Max 830 con 20 elettrodi elettrostimolatore Muscolare Professionale : Massima Potenza  Addominali  Glutei  potenziamento Muscolare  inestetismi  Massaggi tens
+prodname: 'TESMED Max 830 con 20 elettrodi elettrostimolatore Muscolare Professionale : Massima Potenza  Addominali  Glutei  potenziamento Muscolare  inestetismi  Massaggi tens'
 ---
 
 Ahora mismo tienes [TESMED Max 830 con 20 elettrodi elettrostimolatore Muscolare Professionale : Massima Potenza  Addominali  Glutei  potenziamento Muscolare  inestetismi  Massaggi tens](https://www.amazon.it/dp/B00D3I0INA/?tag=tolees00-21) a 114.9 EUR (original: 210.0 EUR) (45.29 %  de descuento) en el siguiente enlace!

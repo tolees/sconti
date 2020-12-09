@@ -14,7 +14,7 @@ currency: EUR
 price: 21.38
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Controller PS4 wireless per laptop Playstation 4 / Pro/Slim/PC  pannello a sfioramento Joypad con doppia vibrazione  modo tempestivo per condividere il joystick
+prodname: 'Controller PS4 wireless per laptop Playstation 4 / Pro/Slim/PC  pannello a sfioramento Joypad con doppia vibrazione  modo tempestivo per condividere il joystick'
 ---
 
 Tienes [Controller PS4 wireless per laptop Playstation 4 / Pro/Slim/PC  pannello a sfioramento Joypad con doppia vibrazione  modo tempestivo per condividere il joystick](https://www.amazon.it/dp/B08HY3HQS8/?tag=tolees00-21) con un 57.23 % de descuento con precio de oferta de 21.38 EUR (original: 49.99 EUR) en el siguiente enlace!

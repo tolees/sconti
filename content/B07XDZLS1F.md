@@ -14,7 +14,7 @@ currency: EUR
 price: 17.2
 comparePrice: 37.96 EUR
 inStock: true
-prodname: Puma CB  Giacca A Vento Uomo  Black  L
+prodname: 'Puma CB  Giacca A Vento Uomo  Black  L'
 ---
 
 Está [Puma CB  Giacca A Vento Uomo  Black  L](https://www.amazon.it/dp/B07XDZLS1F/?tag=tolees00-21) con 54.69 de descuento por 17.2 EUR (original: 37.96 EUR) en el siguiente enlace!

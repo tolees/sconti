@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 52.99 EUR
 inStock: true
-prodname: Motast Cuffie Bluetooth  Auricolari Bluetooth 5.0 Noise Cancelling  Auricolari Wireless Stereo Bassi Profondi HIFI  Ricarica Rapida USB-C  Cuffie con Microfono Impermeabile IP7 Tocca Controllo
+prodname: 'Motast Cuffie Bluetooth  Auricolari Bluetooth 5.0 Noise Cancelling  Auricolari Wireless Stereo Bassi Profondi HIFI  Ricarica Rapida USB-C  Cuffie con Microfono Impermeabile IP7 Tocca Controllo'
 ---
 
 Está [Motast Cuffie Bluetooth  Auricolari Bluetooth 5.0 Noise Cancelling  Auricolari Wireless Stereo Bassi Profondi HIFI  Ricarica Rapida USB-C  Cuffie con Microfono Impermeabile IP7 Tocca Controllo](https://www.amazon.it/dp/B08CXST2G2/?tag=tolees00-21) con 37.74 de descuento por 32.99 EUR (original: 52.99 EUR) en el siguiente enlace!

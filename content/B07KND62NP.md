@@ -14,7 +14,7 @@ currency: EUR
 price: 69.9
 comparePrice: 124.9 EUR
 inStock: true
-prodname: Ferrino Finisterre 38  Zaino Trekking Unisex  Blu  38 Litri  67 x 40 x 32 cm
+prodname: 'Ferrino Finisterre 38  Zaino Trekking Unisex  Blu  38 Litri  67 x 40 x 32 cm'
 ---
 
 Está [Ferrino Finisterre 38  Zaino Trekking Unisex  Blu  38 Litri  67 x 40 x 32 cm](https://www.amazon.it/dp/B07KND62NP/?tag=tolees00-21) con 44.04 de descuento por 69.9 EUR (original: 124.9 EUR) en el siguiente enlace!

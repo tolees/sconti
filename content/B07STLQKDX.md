@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox U Renan B  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4064   42 EU
+prodname: 'Geox U Renan B  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4064   42 EU'
 ---
 
 Ahora mismo tienes [Geox U Renan B  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4064   42 EU](https://www.amazon.it/dp/B07STLQKDX/?tag=tolees00-21) a 59.9 EUR (original: 99.9 EUR) (40.04 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.0 EUR
 inStock: true
-prodname: Sony MDR-ZX110 - Cuffie on-ear  Nero
+prodname: 'Sony MDR-ZX110 - Cuffie on-ear  Nero'
 ---
 
 Tienes [Sony MDR-ZX110 - Cuffie on-ear  Nero](https://www.amazon.it/dp/B00NBR70DO/?tag=tolees00-21) con un 33.40 % de descuento con precio de oferta de 9.99 EUR (original: 15.0 EUR) en el siguiente enlace!

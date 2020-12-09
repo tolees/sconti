@@ -14,7 +14,7 @@ currency: EUR
 price: 21.85
 comparePrice: 49.99 EUR
 inStock: true
-prodname: WhiteVision ultra effetto Xenon H7 lampada fari  4.200K  confezione doppia
+prodname: 'WhiteVision ultra effetto Xenon H7 lampada fari  4.200K  confezione doppia'
 ---
 
 Está [WhiteVision ultra effetto Xenon H7 lampada fari  4.200K  confezione doppia](https://www.amazon.it/dp/B07H4NYVCD/?tag=tolees00-21) con 56.29 de descuento por 21.85 EUR (original: 49.99 EUR) en el siguiente enlace!

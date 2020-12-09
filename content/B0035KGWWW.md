@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 10.9 EUR
 inStock: true
-prodname: Sola Scriptura
+prodname: 'Sola Scriptura'
 ---
 
 Tienes [Sola Scriptura](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21) con un 26.70 % de descuento con precio de oferta de 7.99 EUR (original: 10.9 EUR) en el siguiente enlace!

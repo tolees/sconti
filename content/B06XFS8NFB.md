@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 27.95 EUR
 inStock: true
-prodname: Yankee Candle Candela profumata in giara grande | Magia natalizia | Durata Fino a 150 Ore
+prodname: 'Yankee Candle Candela profumata in giara grande | Magia natalizia | Durata Fino a 150 Ore'
 ---
 
 Ahora mismo tienes [Yankee Candle Candela profumata in giara grande | Magia natalizia | Durata Fino a 150 Ore](https://www.amazon.it/dp/B06XFS8NFB/?tag=tolees00-21) a 19.99 EUR (original: 27.95 EUR) (28.48 %  de descuento) en el siguiente enlace!

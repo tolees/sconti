@@ -14,7 +14,7 @@ currency: EUR
 price: 32.21
 comparePrice: 68.07 EUR
 inStock: true
-prodname: IKOHS EXIGES - Bilancia da Bagno  Bianco 
+prodname: 'IKOHS EXIGES - Bilancia da Bagno  Bianco '
 ---
 
 Tienes [IKOHS EXIGES - Bilancia da Bagno  Bianco ](https://www.amazon.it/dp/B07NYZPGWN/?tag=tolees00-21) con un 52.68 % de descuento con precio de oferta de 32.21 EUR (original: 68.07 EUR) en el siguiente enlace!

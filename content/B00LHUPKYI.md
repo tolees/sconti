@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 24.9 EUR
 inStock: true
-prodname: Belkin Surge Stripe Protezione dalle Sovracorrenti fino a 650 Joules con 6 Prese  Cavo da 2 m  Bianco
+prodname: 'Belkin Surge Stripe Protezione dalle Sovracorrenti fino a 650 Joules con 6 Prese  Cavo da 2 m  Bianco'
 ---
 
 Está [Belkin Surge Stripe Protezione dalle Sovracorrenti fino a 650 Joules con 6 Prese  Cavo da 2 m  Bianco](https://www.amazon.it/dp/B00LHUPKYI/?tag=tolees00-21) con 27.75 de descuento por 17.99 EUR (original: 24.9 EUR) en el siguiente enlace!

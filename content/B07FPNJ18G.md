@@ -14,7 +14,7 @@ currency: EUR
 price: 23.55
 comparePrice: 49.99 EUR
 inStock: true
-prodname: JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos Jeans Slim  Blu  Blue Denim Blue Denim   W33/L32 Uomo
+prodname: 'JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos Jeans Slim  Blu  Blue Denim Blue Denim   W33/L32 Uomo'
 ---
 
 Tienes [JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos Jeans Slim  Blu  Blue Denim Blue Denim   W33/L32 Uomo](https://www.amazon.it/dp/B07FPNJ18G/?tag=tolees00-21) con un 52.89 % de descuento con precio de oferta de 23.55 EUR (original: 49.99 EUR) en el siguiente enlace!

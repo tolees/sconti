@@ -14,7 +14,7 @@ currency: EUR
 price: 22.5
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Levi s LS Graphic Tee - B Maglia a Maniche Lunghe  Bianco  Better White-White   Medium Uomo
+prodname: 'Levi s LS Graphic Tee - B Maglia a Maniche Lunghe  Bianco  Better White-White   Medium Uomo'
 ---
 
 Ahora mismo tienes [Levi s LS Graphic Tee - B Maglia a Maniche Lunghe  Bianco  Better White-White   Medium Uomo](https://www.amazon.it/dp/B076Y9CZFC/?tag=tolees00-21) a 22.5 EUR (original: 35.0 EUR) (35.71 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 28.09
 comparePrice: 79.95 EUR
 inStock: true
-prodname: PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Rosa White Pink Rosewater White  44 EU
+prodname: 'PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Rosa White Pink Rosewater White  44 EU'
 ---
 
 Tienes [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Rosa White Pink Rosewater White  44 EU](https://www.amazon.it/dp/B07S6NBK2K/?tag=tolees00-21) con un 64.87 % de descuento con precio de oferta de 28.09 EUR (original: 79.95 EUR) en el siguiente enlace!

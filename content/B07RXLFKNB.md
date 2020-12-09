@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 90.0 EUR
 inStock: true
-prodname: New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   40.5 EU
+prodname: 'New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   40.5 EU'
 ---
 
 Tienes [New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   40.5 EU](https://www.amazon.it/dp/B07RXLFKNB/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 59.99 EUR (original: 90.0 EUR) en el siguiente enlace!

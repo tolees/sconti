@@ -14,7 +14,7 @@ currency: EUR
 price: 64.53
 comparePrice: 170.0 EUR
 inStock: true
-prodname: Osprey Farpoint 55  Zaino Uomo  Grigio  Volcanic Grey   S/M
+prodname: 'Osprey Farpoint 55  Zaino Uomo  Grigio  Volcanic Grey   S/M'
 ---
 
 Ahora mismo tienes [Osprey Farpoint 55  Zaino Uomo  Grigio  Volcanic Grey   S/M](https://www.amazon.it/dp/B014EBLREI/?tag=tolees00-21) a 64.53 EUR (original: 170.0 EUR) (62.04 %  de descuento) en el siguiente enlace!

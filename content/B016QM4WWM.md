@@ -14,7 +14,7 @@ currency: EUR
 price: 58.14
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Core Stretch Slim Poplin Shirt Camicia Sportiva  Blu  Sky Captain 403   X-Large Uomo
+prodname: 'Tommy Hilfiger Core Stretch Slim Poplin Shirt Camicia Sportiva  Blu  Sky Captain 403   X-Large Uomo'
 ---
 
 Tienes [Tommy Hilfiger Core Stretch Slim Poplin Shirt Camicia Sportiva  Blu  Sky Captain 403   X-Large Uomo](https://www.amazon.it/dp/B016QM4WWM/?tag=tolees00-21) con un 35.33 % de descuento con precio de oferta de 58.14 EUR (original: 89.9 EUR) en el siguiente enlace!

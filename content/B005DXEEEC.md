@@ -14,7 +14,7 @@ currency: EUR
 price: 40.0
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox U Federico Y  Scarpe Stringate Basse Derby Uomo  Nero  Black C9999   44 EU
+prodname: 'Geox U Federico Y  Scarpe Stringate Basse Derby Uomo  Nero  Black C9999   44 EU'
 ---
 
 Tienes [Geox U Federico Y  Scarpe Stringate Basse Derby Uomo  Nero  Black C9999   44 EU](https://www.amazon.it/dp/B005DXEEEC/?tag=tolees00-21) con un 63.60 % de descuento con precio de oferta de 40.0 EUR (original: 109.9 EUR) en el siguiente enlace!

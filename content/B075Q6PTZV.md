@@ -14,7 +14,7 @@ currency: EUR
 price: 54.95
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Clarks Atticus Lace  Scarpe Stringate Derby Uomo  Blu  Navy Nubuck -   41 EU
+prodname: 'Clarks Atticus Lace  Scarpe Stringate Derby Uomo  Blu  Navy Nubuck -   41 EU'
 ---
 
 Ahora mismo tienes [Clarks Atticus Lace  Scarpe Stringate Derby Uomo  Blu  Navy Nubuck -   41 EU](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21) a 54.95 EUR (original: 110.0 EUR) (50.05 %  de descuento) en el siguiente enlace!

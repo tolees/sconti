@@ -14,7 +14,7 @@ currency: EUR
 price: 24.84
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Levi s Vintage Two Horse Bifold  Portamonete Uomo  Marrone  Dark Brown   2x10x11 Centimeters  W x H x L 
+prodname: 'Levi s Vintage Two Horse Bifold  Portamonete Uomo  Marrone  Dark Brown   2x10x11 Centimeters  W x H x L '
 ---
 
 Ahora mismo tienes [Levi s Vintage Two Horse Bifold  Portamonete Uomo  Marrone  Dark Brown   2x10x11 Centimeters  W x H x L ](https://www.amazon.it/dp/B00JGMK7MY/?tag=tolees00-21) a 24.84 EUR (original: 50.0 EUR) (50.32 %  de descuento) en el siguiente enlace!

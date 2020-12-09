@@ -14,7 +14,7 @@ currency: EUR
 price: 26.95
 comparePrice: 40.82 EUR
 inStock: true
-prodname: Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Nero Black White  L
+prodname: 'Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Nero Black White  L'
 ---
 
 Está [Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Nero Black White  L](https://www.amazon.it/dp/B0784TDHYH/?tag=tolees00-21) con 33.98 de descuento por 26.95 EUR (original: 40.82 EUR) en el siguiente enlace!

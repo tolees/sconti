@@ -14,7 +14,7 @@ currency: EUR
 price: 29.94
 comparePrice: 53.99 EUR
 inStock: true
-prodname: SanDisk MicroSDXC UHS-I 128 GB - Scheda per Nintendo Switch  Official Nintendo Licensed Product
+prodname: 'SanDisk MicroSDXC UHS-I 128 GB - Scheda per Nintendo Switch  Official Nintendo Licensed Product'
 ---
 
 Ahora mismo tienes [SanDisk MicroSDXC UHS-I 128 GB - Scheda per Nintendo Switch  Official Nintendo Licensed Product](https://www.amazon.it/dp/B07KXQX3S3/?tag=tolees00-21) a 29.94 EUR (original: 53.99 EUR) (44.55 %  de descuento) en el siguiente enlace!

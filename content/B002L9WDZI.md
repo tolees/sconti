@@ -14,7 +14,7 @@ currency: EUR
 price: 54.2
 comparePrice: 124.47 EUR
 inStock: true
-prodname: Christian Dior Miss Dior Blooming Bouquet Eau de Toilette  Donna  50 ml
+prodname: 'Christian Dior Miss Dior Blooming Bouquet Eau de Toilette  Donna  50 ml'
 ---
 
 Ahora mismo tienes [Christian Dior Miss Dior Blooming Bouquet Eau de Toilette  Donna  50 ml](https://www.amazon.it/dp/B002L9WDZI/?tag=tolees00-21) a 54.2 EUR (original: 124.47 EUR) (56.46 %  de descuento) en el siguiente enlace!

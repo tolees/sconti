@@ -14,7 +14,7 @@ currency: EUR
 price: 50.0
 comparePrice: 100.0 EUR
 inStock: true
-prodname: adidas Continental 80  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Escarl/Maruni 000   42 EU
+prodname: 'adidas Continental 80  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Escarl/Maruni 000   42 EU'
 ---
 
 Tienes [adidas Continental 80  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Escarl/Maruni 000   42 EU](https://www.amazon.it/dp/B07K1GYHWN/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 50.0 EUR (original: 100.0 EUR) en el siguiente enlace!

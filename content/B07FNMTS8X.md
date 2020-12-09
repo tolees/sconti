@@ -14,7 +14,7 @@ currency: EUR
 price: 52.99
 comparePrice: 74.99 EUR
 inStock: true
-prodname: LEGO City Base della Polizia Aerea  Aereo con Paracadutista e Jetpack  Moto e Automobile  Set di Costruzioni per Inseguimenti per Bambini  60210
+prodname: 'LEGO City Base della Polizia Aerea  Aereo con Paracadutista e Jetpack  Moto e Automobile  Set di Costruzioni per Inseguimenti per Bambini  60210'
 ---
 
 Ahora mismo tienes [LEGO City Base della Polizia Aerea  Aereo con Paracadutista e Jetpack  Moto e Automobile  Set di Costruzioni per Inseguimenti per Bambini  60210](https://www.amazon.it/dp/B07FNMTS8X/?tag=tolees00-21) a 52.99 EUR (original: 74.99 EUR) (29.34 %  de descuento) en el siguiente enlace!

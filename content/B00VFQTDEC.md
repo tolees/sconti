@@ -14,7 +14,7 @@ currency: EUR
 price: 257.95
 comparePrice: 469.0 EUR
 inStock: true
-prodname: Samsonite Lite-Shock Spinner L Valigia  75 cm  98.5 L  Blu  Petrol Blue 
+prodname: 'Samsonite Lite-Shock Spinner L Valigia  75 cm  98.5 L  Blu  Petrol Blue '
 ---
 
 Tienes [Samsonite Lite-Shock Spinner L Valigia  75 cm  98.5 L  Blu  Petrol Blue ](https://www.amazon.it/dp/B00VFQTDEC/?tag=tolees00-21) con un 45.00 % de descuento con precio de oferta de 257.95 EUR (original: 469.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.7
 comparePrice: 10.99 EUR
 inStock: true
-prodname: Arca Russa
+prodname: 'Arca Russa'
 ---
 
 Tienes [Arca Russa](https://www.amazon.it/dp/B07KZ4H7WH/?tag=tolees00-21) con un 29.94 % de descuento con precio de oferta de 7.7 EUR (original: 10.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 45.9 EUR
 inStock: true
-prodname: Crocs Crocband Clogs  Ciabatte Unisex – Adulto  Rosso  Pepper   36/37 EU
+prodname: 'Crocs Crocband Clogs  Ciabatte Unisex – Adulto  Rosso  Pepper   36/37 EU'
 ---
 
 Ahora mismo tienes [Crocs Crocband Clogs  Ciabatte Unisex – Adulto  Rosso  Pepper   36/37 EU](https://www.amazon.it/dp/B01HQAMFCW/?tag=tolees00-21) a 23.99 EUR (original: 45.9 EUR) (47.73 %  de descuento) en el siguiente enlace!

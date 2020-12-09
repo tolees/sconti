@@ -14,7 +14,7 @@ currency: EUR
 price: 115.0
 comparePrice: 159.0 EUR
 inStock: true
-prodname: Samsonite S Cure - Bagaglio a Mano  34 l  S  55 cm - 34 L   Rosso  Crimson Red 
+prodname: 'Samsonite S Cure - Bagaglio a Mano  34 l  S  55 cm - 34 L   Rosso  Crimson Red '
 ---
 
 Está [Samsonite S Cure - Bagaglio a Mano  34 l  S  55 cm - 34 L   Rosso  Crimson Red ](https://www.amazon.it/dp/B009SIVCNO/?tag=tolees00-21) con 27.67 de descuento por 115.0 EUR (original: 159.0 EUR) en el siguiente enlace!

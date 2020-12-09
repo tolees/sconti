@@ -14,7 +14,7 @@ currency: EUR
 price: 11.94
 comparePrice: 23.34 EUR
 inStock: true
-prodname: STARBUCKS HOUSE BLEND Caffè macinato dalla tostatura media 6 sacchetti da 200g
+prodname: 'STARBUCKS HOUSE BLEND Caffè macinato dalla tostatura media 6 sacchetti da 200g'
 ---
 
 Ahora mismo tienes [STARBUCKS HOUSE BLEND Caffè macinato dalla tostatura media 6 sacchetti da 200g](https://www.amazon.it/dp/B07X63LCXL/?tag=tolees00-21) a 11.94 EUR (original: 23.34 EUR) (48.84 %  de descuento) en el siguiente enlace!

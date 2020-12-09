@@ -14,7 +14,7 @@ currency: EUR
 price: 19.25
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Svelto Expert Pastiglie per Lavastoviglie Extra Igiene  Confezione Risparmio  140 Lavaggi  20 Unità  Confezione da 7 
+prodname: 'Svelto Expert Pastiglie per Lavastoviglie Extra Igiene  Confezione Risparmio  140 Lavaggi  20 Unità  Confezione da 7 '
 ---
 
 Tienes [Svelto Expert Pastiglie per Lavastoviglie Extra Igiene  Confezione Risparmio  140 Lavaggi  20 Unità  Confezione da 7 ](https://www.amazon.it/dp/B084GPR4BW/?tag=tolees00-21) con un 35.81 % de descuento con precio de oferta de 19.25 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 32.36
 comparePrice: 54.95 EUR
 inStock: true
-prodname: adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore  Core Black/Core Black/Ftwr White   Fraction 41 And 1 Third
+prodname: 'adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore  Core Black/Core Black/Ftwr White   Fraction 41 And 1 Third'
 ---
 
 Ahora mismo tienes [adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore  Core Black/Core Black/Ftwr White   Fraction 41 And 1 Third](https://www.amazon.it/dp/B0813WXJTN/?tag=tolees00-21) a 32.36 EUR (original: 54.95 EUR) (41.11 %  de descuento) en el siguiente enlace!

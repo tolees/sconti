@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 249.0 EUR
 inStock: true
-prodname: LG 27ML600S Monitor 27" FULL HD LED IPS  1920x1080  1ms MBR  AMD FreeSync 75Hz  Audio Stereo 10W  HDMI  HDCP 1.4   VGA  Uscita Audio  Flicker Safe  Bianco
+prodname: 'LG 27ML600S Monitor 27" FULL HD LED IPS  1920x1080  1ms MBR  AMD FreeSync 75Hz  Audio Stereo 10W  HDMI  HDCP 1.4   VGA  Uscita Audio  Flicker Safe  Bianco'
 ---
 
 Está [LG 27ML600S Monitor 27" FULL HD LED IPS  1920x1080  1ms MBR  AMD FreeSync 75Hz  Audio Stereo 10W  HDMI  HDCP 1.4   VGA  Uscita Audio  Flicker Safe  Bianco](https://www.amazon.it/dp/B086BLZZC8/?tag=tolees00-21) con 39.76 de descuento por 149.99 EUR (original: 249.0 EUR) en el siguiente enlace!

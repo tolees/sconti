@@ -14,7 +14,7 @@ currency: EUR
 price: 6.04
 comparePrice: 12.54 EUR
 inStock: true
-prodname: Calvin Klein Slip Bikini  Verde  Ivy Gate IG7    Taglia Produttore: X-Large  Donna
+prodname: 'Calvin Klein Slip Bikini  Verde  Ivy Gate IG7    Taglia Produttore: X-Large  Donna'
 ---
 
 Tienes [Calvin Klein Slip Bikini  Verde  Ivy Gate IG7    Taglia Produttore: X-Large  Donna](https://www.amazon.it/dp/B07VPQV53T/?tag=tolees00-21) con un 51.83 % de descuento con precio de oferta de 6.04 EUR (original: 12.54 EUR) en el siguiente enlace!

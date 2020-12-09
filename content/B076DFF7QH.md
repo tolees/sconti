@@ -14,7 +14,7 @@ currency: EUR
 price: 144.99
 comparePrice: 399.99 EUR
 inStock: true
-prodname: Philips S9711/41 Series 9000 Rasoio Elettrico Wet & Dry con Lame di Precisione  Regolabarba di Precisione SmartClick  Cromo spazzolato
+prodname: 'Philips S9711/41 Series 9000 Rasoio Elettrico Wet & Dry con Lame di Precisione  Regolabarba di Precisione SmartClick  Cromo spazzolato'
 ---
 
 Ahora mismo tienes [Philips S9711/41 Series 9000 Rasoio Elettrico Wet & Dry con Lame di Precisione  Regolabarba di Precisione SmartClick  Cromo spazzolato](https://www.amazon.it/dp/B076DFF7QH/?tag=tolees00-21) a 144.99 EUR (original: 399.99 EUR) (63.75 %  de descuento) en el siguiente enlace!

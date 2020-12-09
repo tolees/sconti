@@ -14,7 +14,7 @@ currency: EUR
 price: 62.0
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Tommy Hilfiger Orologio Analogico Quarzo Uomo con Cinturino in Silicone 1791622
+prodname: 'Tommy Hilfiger Orologio Analogico Quarzo Uomo con Cinturino in Silicone 1791622'
 ---
 
 Está [Tommy Hilfiger Orologio Analogico Quarzo Uomo con Cinturino in Silicone 1791622](https://www.amazon.it/dp/B07ND8XRYX/?tag=tolees00-21) con 51.94 de descuento por 62.0 EUR (original: 129.0 EUR) en el siguiente enlace!

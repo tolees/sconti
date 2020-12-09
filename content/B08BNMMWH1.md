@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 56.89 EUR
 inStock: true
-prodname: FLYFLY Vintage Lampade da parete  E27 Portalampada Regolabile Industriale/Moderno Applique da parete interno per Casa  Camera da Letto  Cucina  Bar  Caffè  Ristorante lampadina non inclusa 
+prodname: 'FLYFLY Vintage Lampade da parete  E27 Portalampada Regolabile Industriale/Moderno Applique da parete interno per Casa  Camera da Letto  Cucina  Bar  Caffè  Ristorante lampadina non inclusa '
 ---
 
 Ahora mismo tienes [FLYFLY Vintage Lampade da parete  E27 Portalampada Regolabile Industriale/Moderno Applique da parete interno per Casa  Camera da Letto  Cucina  Bar  Caffè  Ristorante lampadina non inclusa ](https://www.amazon.it/dp/B08BNMMWH1/?tag=tolees00-21) a 18.99 EUR (original: 56.89 EUR) (66.62 %  de descuento) en el siguiente enlace!

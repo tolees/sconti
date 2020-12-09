@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Striscia LED RGB 10M Musica  ALED LIGHT LED Strip Bluetooth RGB Striscia  IP65 Impermeabile 12V Striscia  Bluetooth + 24 Tasti Telecomando  Nastri Led Smartphone Android e IOS Controllato da APP
+prodname: 'Striscia LED RGB 10M Musica  ALED LIGHT LED Strip Bluetooth RGB Striscia  IP65 Impermeabile 12V Striscia  Bluetooth + 24 Tasti Telecomando  Nastri Led Smartphone Android e IOS Controllato da APP'
 ---
 
 Ahora mismo tienes [Striscia LED RGB 10M Musica  ALED LIGHT LED Strip Bluetooth RGB Striscia  IP65 Impermeabile 12V Striscia  Bluetooth + 24 Tasti Telecomando  Nastri Led Smartphone Android e IOS Controllato da APP](https://www.amazon.it/dp/B07H2RYBSW/?tag=tolees00-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 51.95
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Reebok Club C 85  Sneaker Uomo  Bianco  Int/White/Green   43 EU
+prodname: 'Reebok Club C 85  Sneaker Uomo  Bianco  Int/White/Green   43 EU'
 ---
 
 Está [Reebok Club C 85  Sneaker Uomo  Bianco  Int/White/Green   43 EU](https://www.amazon.it/dp/B01MY0QEQG/?tag=tolees00-21) con 35.02 de descuento por 51.95 EUR (original: 79.95 EUR) en el siguiente enlace!

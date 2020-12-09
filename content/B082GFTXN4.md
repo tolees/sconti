@@ -14,7 +14,7 @@ currency: EUR
 price: 49.98
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas Nite Jogger J  Scarpe da Ginnastica Unisex-Bambini  Core Black/Core Black/Carbon  40 EU
+prodname: 'adidas Nite Jogger J  Scarpe da Ginnastica Unisex-Bambini  Core Black/Core Black/Carbon  40 EU'
 ---
 
 Tienes [adidas Nite Jogger J  Scarpe da Ginnastica Unisex-Bambini  Core Black/Core Black/Carbon  40 EU](https://www.amazon.it/dp/B082GFTXN4/?tag=tolees00-21) con un 49.99 % de descuento con precio de oferta de 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!

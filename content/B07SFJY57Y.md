@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 69.99 EUR
 inStock: true
-prodname: FIFA 20 - Standard - Xbox One
+prodname: 'FIFA 20 - Standard - Xbox One'
 ---
 
 Ahora mismo tienes [FIFA 20 - Standard - Xbox One](https://www.amazon.it/dp/B07SFJY57Y/?tag=tolees00-21) a 9.9 EUR (original: 69.99 EUR) (85.86 %  de descuento) en el siguiente enlace!

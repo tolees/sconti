@@ -14,7 +14,7 @@ currency: EUR
 price: 20.0
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Under Armour Tech  Polo Uomo  NavyBlu  Midnight Navy/Graphite/Graphite 410   M
+prodname: 'Under Armour Tech  Polo Uomo  NavyBlu  Midnight Navy/Graphite/Graphite 410   M'
 ---
 
 Está [Under Armour Tech  Polo Uomo  NavyBlu  Midnight Navy/Graphite/Graphite 410   M](https://www.amazon.it/dp/B01GH5JNRW/?tag=tolees00-21) con 49.99 de descuento por 20.0 EUR (original: 39.99 EUR) en el siguiente enlace!

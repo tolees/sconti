@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Massaggiatore Cervicale e da Collo Pedi Schiena Shiatsu 4D Massaggiatore Elettrico Tre Velocità Terapia Riscaldamento Cambio Direzione con Cintura Cavo Accendisigari ELEHOT
+prodname: 'Massaggiatore Cervicale e da Collo Pedi Schiena Shiatsu 4D Massaggiatore Elettrico Tre Velocità Terapia Riscaldamento Cambio Direzione con Cintura Cavo Accendisigari ELEHOT'
 ---
 
 Tienes [Massaggiatore Cervicale e da Collo Pedi Schiena Shiatsu 4D Massaggiatore Elettrico Tre Velocità Terapia Riscaldamento Cambio Direzione con Cintura Cavo Accendisigari ELEHOT](https://www.amazon.it/dp/B07RTH5KND/?tag=tolees00-21) con un 45.46 % de descuento con precio de oferta de 29.99 EUR (original: 54.99 EUR) en el siguiente enlace!

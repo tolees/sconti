@@ -14,7 +14,7 @@ currency: EUR
 price: 289.99
 comparePrice: 399.0 EUR
 inStock: true
-prodname: Hisense WFGE8014V Lavatrice freestanding a carica frontale  Capacità 8 Kg  2000 W  1400 giri  Bianco  60 x 54.5 x 85 cm
+prodname: 'Hisense WFGE8014V Lavatrice freestanding a carica frontale  Capacità 8 Kg  2000 W  1400 giri  Bianco  60 x 54.5 x 85 cm'
 ---
 
 Ahora mismo tienes [Hisense WFGE8014V Lavatrice freestanding a carica frontale  Capacità 8 Kg  2000 W  1400 giri  Bianco  60 x 54.5 x 85 cm](https://www.amazon.it/dp/B07YVH7YKK/?tag=tolees00-21) a 289.99 EUR (original: 399.0 EUR) (27.32 %  de descuento) en el siguiente enlace!

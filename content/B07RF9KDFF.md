@@ -14,7 +14,7 @@ currency: EUR
 price: 249.99
 comparePrice: 399.99 EUR
 inStock: true
-prodname: Rowenta RY8534 Clean & Steam Multi Scopa Lavapavimenti  Aspira e Igienizza Contemporaneamente tutte le superfici  Elimina Germi e Batteri  Serbatoio Portatile Amovibile  Senza Sacco  Bianca
+prodname: 'Rowenta RY8534 Clean & Steam Multi Scopa Lavapavimenti  Aspira e Igienizza Contemporaneamente tutte le superfici  Elimina Germi e Batteri  Serbatoio Portatile Amovibile  Senza Sacco  Bianca'
 ---
 
 Tienes [Rowenta RY8534 Clean & Steam Multi Scopa Lavapavimenti  Aspira e Igienizza Contemporaneamente tutte le superfici  Elimina Germi e Batteri  Serbatoio Portatile Amovibile  Senza Sacco  Bianca](https://www.amazon.it/dp/B07RF9KDFF/?tag=tolees00-21) con un 37.50 % de descuento con precio de oferta de 249.99 EUR (original: 399.99 EUR) en el siguiente enlace!

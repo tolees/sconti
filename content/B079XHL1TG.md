@@ -14,7 +14,7 @@ currency: EUR
 price: 2.94
 comparePrice: 4.49 EUR
 inStock: true
-prodname: Colgate Dentifricio Triple Action  Tripla Azione Per Protezione Carie  Denti Bianchi e Alito Fresco - 4 Confezioni da 75 ml
+prodname: 'Colgate Dentifricio Triple Action  Tripla Azione Per Protezione Carie  Denti Bianchi e Alito Fresco - 4 Confezioni da 75 ml'
 ---
 
 Ahora mismo tienes [Colgate Dentifricio Triple Action  Tripla Azione Per Protezione Carie  Denti Bianchi e Alito Fresco - 4 Confezioni da 75 ml](https://www.amazon.it/dp/B079XHL1TG/?tag=tolees00-21) a 2.94 EUR (original: 4.49 EUR) (34.52 %  de descuento) en el siguiente enlace!

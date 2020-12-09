@@ -14,7 +14,7 @@ currency: EUR
 price: 48.99
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   M
+prodname: 'Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   M'
 ---
 
 Está [Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   M](https://www.amazon.it/dp/B00C24ZPMU/?tag=tolees00-21) con 48.43 de descuento por 48.99 EUR (original: 95.0 EUR) en el siguiente enlace!

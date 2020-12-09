@@ -14,7 +14,7 @@ currency: EUR
 price: 11.55
 comparePrice: 16.5 EUR
 inStock: true
-prodname: Sperlari - Mezzo Metro: 24 Torroncini Assortiti in 12 Gusti Differenti  Confezione da 300 g
+prodname: 'Sperlari - Mezzo Metro: 24 Torroncini Assortiti in 12 Gusti Differenti  Confezione da 300 g'
 ---
 
 Ahora mismo tienes [Sperlari - Mezzo Metro: 24 Torroncini Assortiti in 12 Gusti Differenti  Confezione da 300 g](https://www.amazon.it/dp/B08KWJ71PM/?tag=tolees00-21) a 11.55 EUR (original: 16.5 EUR) (30.00 %  de descuento) en el siguiente enlace!

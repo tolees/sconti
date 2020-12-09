@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Joker  4K+Br 
+prodname: 'Joker  4K+Br '
 ---
 
 Tienes [Joker  4K+Br ](https://www.amazon.it/dp/B07Z87LRZT/?tag=tolees00-21) con un 55.58 % de descuento con precio de oferta de 11.99 EUR (original: 26.99 EUR) en el siguiente enlace!

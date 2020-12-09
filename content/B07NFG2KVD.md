@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.0 EUR
 inStock: true
-prodname: Daygum Protex Gomme da Masticare Senza Zucchero  Barattolo Chewing Gum Gusto Menta  Confezione da 6 Mini Barattoli  46 Gomme Ognuno
+prodname: 'Daygum Protex Gomme da Masticare Senza Zucchero  Barattolo Chewing Gum Gusto Menta  Confezione da 6 Mini Barattoli  46 Gomme Ognuno'
 ---
 
 Ahora mismo tienes [Daygum Protex Gomme da Masticare Senza Zucchero  Barattolo Chewing Gum Gusto Menta  Confezione da 6 Mini Barattoli  46 Gomme Ognuno](https://www.amazon.it/dp/B07NFG2KVD/?tag=tolees00-21) a 9.99 EUR (original: 15.0 EUR) (33.40 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 1.19
 comparePrice: 1.75 EUR
 inStock: true
-prodname: Milka Tavoletta Oreo  100g
+prodname: 'Milka Tavoletta Oreo  100g'
 ---
 
 Tienes [Milka Tavoletta Oreo  100g](https://www.amazon.it/dp/B00JKPPRCC/?tag=tolees00-21) con un 32.00 % de descuento con precio de oferta de 1.19 EUR (original: 1.75 EUR) en el siguiente enlace!

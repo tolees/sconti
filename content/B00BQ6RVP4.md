@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 20.41 EUR
 inStock: true
-prodname: M&M s 280042 Choco Confetti Colorati Cioccolato al Latte  24 Bustine X45G  1800G 
+prodname: 'M&M s 280042 Choco Confetti Colorati Cioccolato al Latte  24 Bustine X45G  1800G '
 ---
 
 Está [M&M s 280042 Choco Confetti Colorati Cioccolato al Latte  24 Bustine X45G  1800G ](https://www.amazon.it/dp/B00BQ6RVP4/?tag=tolees00-21) con 29.01 de descuento por 14.49 EUR (original: 20.41 EUR) en el siguiente enlace!

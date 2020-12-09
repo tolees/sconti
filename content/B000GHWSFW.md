@@ -14,7 +14,7 @@ currency: EUR
 price: 43.35
 comparePrice: 109.0 EUR
 inStock: true
-prodname: Chanel  Coco - Eau De Toilette Spray  Donna  100 ml
+prodname: 'Chanel  Coco - Eau De Toilette Spray  Donna  100 ml'
 ---
 
 Está [Chanel  Coco - Eau De Toilette Spray  Donna  100 ml](https://www.amazon.it/dp/B000GHWSFW/?tag=tolees00-21) con 60.23 de descuento por 43.35 EUR (original: 109.0 EUR) en el siguiente enlace!

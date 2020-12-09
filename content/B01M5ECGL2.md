@@ -14,7 +14,7 @@ currency: EUR
 price: 14.31
 comparePrice: 19.65 EUR
 inStock: true
-prodname: Knorr - Risotteria  alla Milanese - 15 pezzi da 175 g [2625 g]
+prodname: 'Knorr - Risotteria  alla Milanese - 15 pezzi da 175 g [2625 g]'
 ---
 
 Ahora mismo tienes [Knorr - Risotteria  alla Milanese - 15 pezzi da 175 g [2625 g]](https://www.amazon.it/dp/B01M5ECGL2/?tag=tolees00-21) a 14.31 EUR (original: 19.65 EUR) (27.18 %  de descuento) en el siguiente enlace!

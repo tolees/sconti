@@ -14,7 +14,7 @@ currency: EUR
 price: 2.09
 comparePrice: 3.2 EUR
 inStock: true
-prodname: Kellogg S Extra Classico - 375 G
+prodname: 'Kellogg S Extra Classico - 375 G'
 ---
 
 Está [Kellogg S Extra Classico - 375 G](https://www.amazon.it/dp/B01DUX6Q6U/?tag=tolees00-21) con 34.69 de descuento por 2.09 EUR (original: 3.2 EUR) en el siguiente enlace!

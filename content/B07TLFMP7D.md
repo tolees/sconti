@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Levi s Original Batwing Maglietta  Bianco  HM Patch Polo White + 0000   Large Uomo
+prodname: 'Levi s Original Batwing Maglietta  Bianco  HM Patch Polo White + 0000   Large Uomo'
 ---
 
 Está [Levi s Original Batwing Maglietta  Bianco  HM Patch Polo White + 0000   Large Uomo](https://www.amazon.it/dp/B07TLFMP7D/?tag=tolees00-21) con 40.02 de descuento por 29.99 EUR (original: 50.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.19
 comparePrice: 23.74 EUR
 inStock: true
-prodname: K -Cheratina - Liscio Perfetto 4 Giorni - Trattamento Spray Professionale Lisciante e Stirante Temporaneo per Capelli Ricci  Crespi e Sfibrati - Per ogni Tipo di Capelli e per Uso con Piastra - 150 ml
+prodname: 'K -Cheratina - Liscio Perfetto 4 Giorni - Trattamento Spray Professionale Lisciante e Stirante Temporaneo per Capelli Ricci  Crespi e Sfibrati - Per ogni Tipo di Capelli e per Uso con Piastra - 150 ml'
 ---
 
 Tienes [K -Cheratina - Liscio Perfetto 4 Giorni - Trattamento Spray Professionale Lisciante e Stirante Temporaneo per Capelli Ricci  Crespi e Sfibrati - Per ogni Tipo di Capelli e per Uso con Piastra - 150 ml](https://www.amazon.it/dp/B00NOR4CVE/?tag=tolees00-21) con un 36.02 % de descuento con precio de oferta de 15.19 EUR (original: 23.74 EUR) en el siguiente enlace!

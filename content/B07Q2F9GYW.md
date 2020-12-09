@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 62.0 EUR
 inStock: true
-prodname: Arena Core Soft Robe  Accappatoio Unisex Adulto  Blu  Navy White   S
+prodname: 'Arena Core Soft Robe  Accappatoio Unisex Adulto  Blu  Navy White   S'
 ---
 
 Tienes [Arena Core Soft Robe  Accappatoio Unisex Adulto  Blu  Navy White   S](https://www.amazon.it/dp/B07Q2F9GYW/?tag=tolees00-21) con un 27.42 % de descuento con precio de oferta de 45.0 EUR (original: 62.0 EUR) en el siguiente enlace!

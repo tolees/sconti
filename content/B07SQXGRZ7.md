@@ -14,7 +14,7 @@ currency: EUR
 price: 32.45
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Funko- Pop TV: Umbrella Academy-Klaus Hargreeves Collectible Figure  Multicolore  44513
+prodname: 'Funko- Pop TV: Umbrella Academy-Klaus Hargreeves Collectible Figure  Multicolore  44513'
 ---
 
 Está [Funko- Pop TV: Umbrella Academy-Klaus Hargreeves Collectible Figure  Multicolore  44513](https://www.amazon.it/dp/B07SQXGRZ7/?tag=tolees00-21) con 35.09 de descuento por 32.45 EUR (original: 49.99 EUR) en el siguiente enlace!

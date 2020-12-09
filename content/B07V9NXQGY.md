@@ -14,7 +14,7 @@ currency: EUR
 price: 11.01
 comparePrice: 25.95 EUR
 inStock: true
-prodname: CARPISA® Mini pattina pitone con tracolla a catena - Cindy
+prodname: 'CARPISA® Mini pattina pitone con tracolla a catena - Cindy'
 ---
 
 Ahora mismo tienes [CARPISA® Mini pattina pitone con tracolla a catena - Cindy](https://www.amazon.it/dp/B07V9NXQGY/?tag=tolees00-21) a 11.01 EUR (original: 25.95 EUR) (57.57 %  de descuento) en el siguiente enlace!

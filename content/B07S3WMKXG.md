@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s Housemark Graphic Tee T-Shirt  White  Ssnl HM Camo White 0249   Small Uomo
+prodname: 'Levi s Housemark Graphic Tee T-Shirt  White  Ssnl HM Camo White 0249   Small Uomo'
 ---
 
 Está [Levi s Housemark Graphic Tee T-Shirt  White  Ssnl HM Camo White 0249   Small Uomo](https://www.amazon.it/dp/B07S3WMKXG/?tag=tolees00-21) con 40.04 de descuento por 14.99 EUR (original: 25.0 EUR) en el siguiente enlace!

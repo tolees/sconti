@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: The Sims 4 Usciamo Insieme! - Espansione - PC
+prodname: 'The Sims 4 Usciamo Insieme! - Espansione - PC'
 ---
 
 Ahora mismo tienes [The Sims 4 Usciamo Insieme! - Espansione - PC](https://www.amazon.it/dp/B014WEJ1QS/?tag=tolees00-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

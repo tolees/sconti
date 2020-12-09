@@ -14,7 +14,7 @@ currency: EUR
 price: 21.9
 comparePrice: 36.99 EUR
 inStock: true
-prodname: Editrice Giochi  Risiko Gioco Di Strategia  Gioco Da Tavolo  Dai 10 Anni In Su  6033849
+prodname: 'Editrice Giochi  Risiko Gioco Di Strategia  Gioco Da Tavolo  Dai 10 Anni In Su  6033849'
 ---
 
 Tienes [Editrice Giochi  Risiko Gioco Di Strategia  Gioco Da Tavolo  Dai 10 Anni In Su  6033849](https://www.amazon.it/dp/B073H8PGZW/?tag=tolees00-21) con un 40.79 % de descuento con precio de oferta de 21.9 EUR (original: 36.99 EUR) en el siguiente enlace!

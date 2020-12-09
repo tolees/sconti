@@ -14,7 +14,7 @@ currency: EUR
 price: 56.92
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Reebok Classic Leather  Scarpe da Fitness Uomo  Nero  43 EU
+prodname: 'Reebok Classic Leather  Scarpe da Fitness Uomo  Nero  43 EU'
 ---
 
 Tienes [Reebok Classic Leather  Scarpe da Fitness Uomo  Nero  43 EU](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21) con un 36.72 % de descuento con precio de oferta de 56.92 EUR (original: 89.95 EUR) en el siguiente enlace!

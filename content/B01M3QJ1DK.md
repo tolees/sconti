@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 16.9 EUR
 inStock: true
-prodname: L Allieva
+prodname: 'L Allieva'
 ---
 
 Tienes [L Allieva](https://www.amazon.it/dp/B01M3QJ1DK/?tag=tolees00-21) con un 40.89 % de descuento con precio de oferta de 9.99 EUR (original: 16.9 EUR) en el siguiente enlace!

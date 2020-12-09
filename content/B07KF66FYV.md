@@ -14,7 +14,7 @@ currency: EUR
 price: 53.99
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Levi s 511 Slim Jeans  Thresher Warp Cool  30W / 32L Uomo
+prodname: 'Levi s 511 Slim Jeans  Thresher Warp Cool  30W / 32L Uomo'
 ---
 
 Tienes [Levi s 511 Slim Jeans  Thresher Warp Cool  30W / 32L Uomo](https://www.amazon.it/dp/B07KF66FYV/?tag=tolees00-21) con un 50.92 % de descuento con precio de oferta de 53.99 EUR (original: 110.0 EUR) en el siguiente enlace!

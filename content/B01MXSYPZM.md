@@ -14,7 +14,7 @@ currency: EUR
 price: 11.5
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Lower East impermeable Uomo  Blu  Navy   Medium
+prodname: 'Lower East impermeable Uomo  Blu  Navy   Medium'
 ---
 
 Está [Lower East impermeable Uomo  Blu  Navy   Medium](https://www.amazon.it/dp/B01MXSYPZM/?tag=tolees00-21) con 52.06 de descuento por 11.5 EUR (original: 23.99 EUR) en el siguiente enlace!

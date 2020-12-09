@@ -14,7 +14,7 @@ currency: EUR
 price: 349.0
 comparePrice: 499.0 EUR
 inStock: true
-prodname: Samsung VS80N8046K2 POWERstick PRO 150 Aspirapolvere senza Filo  Nero/Argento
+prodname: 'Samsung VS80N8046K2 POWERstick PRO 150 Aspirapolvere senza Filo  Nero/Argento'
 ---
 
 Tienes [Samsung VS80N8046K2 POWERstick PRO 150 Aspirapolvere senza Filo  Nero/Argento](https://www.amazon.it/dp/B07LBB6BV7/?tag=tolees00-21) con un 30.06 % de descuento con precio de oferta de 349.0 EUR (original: 499.0 EUR) en el siguiente enlace!

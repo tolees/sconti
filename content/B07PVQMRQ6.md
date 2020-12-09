@@ -14,7 +14,7 @@ currency: EUR
 price: 17.53
 comparePrice: 26.9 EUR
 inStock: true
-prodname: Havaianas Top Mix  Infradito Unisex-Adulto  Nero  Black/Steel Grey/Black 7938   43/44 EU
+prodname: 'Havaianas Top Mix  Infradito Unisex-Adulto  Nero  Black/Steel Grey/Black 7938   43/44 EU'
 ---
 
 Ahora mismo tienes [Havaianas Top Mix  Infradito Unisex-Adulto  Nero  Black/Steel Grey/Black 7938   43/44 EU](https://www.amazon.it/dp/B07PVQMRQ6/?tag=tolees00-21) a 17.53 EUR (original: 26.9 EUR) (34.83 %  de descuento) en el siguiente enlace!

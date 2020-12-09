@@ -14,7 +14,7 @@ currency: EUR
 price: 31.47
 comparePrice: 44.95 EUR
 inStock: true
-prodname: goldenpoint Giacca da Donna Micropile Rombi
+prodname: 'goldenpoint Giacca da Donna Micropile Rombi'
 ---
 
 Está [goldenpoint Giacca da Donna Micropile Rombi](https://www.amazon.it/dp/B08N6KKFHY/?tag=tolees00-21) con 29.99 de descuento por 31.47 EUR (original: 44.95 EUR) en el siguiente enlace!

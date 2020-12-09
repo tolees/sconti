@@ -14,7 +14,7 @@ currency: EUR
 price: 6.38
 comparePrice: 8.94 EUR
 inStock: true
-prodname: Cuscino Da Viaggio Memory Foam Sidias Cuscino Cervicale Ortopedico Con Omaggio Tappi Maschera Fodera Cuscino Bambini Auto Treno Aereo Cuscino Sfoderabile Lavabile 100% Cotone Velluto 2A Generazione
+prodname: 'Cuscino Da Viaggio Memory Foam Sidias Cuscino Cervicale Ortopedico Con Omaggio Tappi Maschera Fodera Cuscino Bambini Auto Treno Aereo Cuscino Sfoderabile Lavabile 100% Cotone Velluto 2A Generazione'
 ---
 
 Está [Cuscino Da Viaggio Memory Foam Sidias Cuscino Cervicale Ortopedico Con Omaggio Tappi Maschera Fodera Cuscino Bambini Auto Treno Aereo Cuscino Sfoderabile Lavabile 100% Cotone Velluto 2A Generazione](https://www.amazon.it/dp/B07WWX2TQD/?tag=tolees00-21) con 28.64 de descuento por 6.38 EUR (original: 8.94 EUR) en el siguiente enlace!

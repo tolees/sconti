@@ -14,7 +14,7 @@ currency: EUR
 price: 40.5
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Nike Revolution 5  Scarpe da Corsa Mens  Black/White-Anthracite  47.5 EU
+prodname: 'Nike Revolution 5  Scarpe da Corsa Mens  Black/White-Anthracite  47.5 EU'
 ---
 
 Tienes [Nike Revolution 5  Scarpe da Corsa Mens  Black/White-Anthracite  47.5 EU](https://www.amazon.it/dp/B07NLVRC63/?tag=tolees00-21) con un 26.36 % de descuento con precio de oferta de 40.5 EUR (original: 55.0 EUR) en el siguiente enlace!

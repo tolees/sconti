@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Braun Series 5 50-B4650cs Rasoio Elettrico Barba con Base di Ricarica  Regolabarba  Rifinitore Corpo  Wet&Dry  Ricaricabile  Rasoio a Lamina senza Fili  Blu  Idea Regalo Natale
+prodname: 'Braun Series 5 50-B4650cs Rasoio Elettrico Barba con Base di Ricarica  Regolabarba  Rifinitore Corpo  Wet&Dry  Ricaricabile  Rasoio a Lamina senza Fili  Blu  Idea Regalo Natale'
 ---
 
 Está [Braun Series 5 50-B4650cs Rasoio Elettrico Barba con Base di Ricarica  Regolabarba  Rifinitore Corpo  Wet&Dry  Ricaricabile  Rasoio a Lamina senza Fili  Blu  Idea Regalo Natale](https://www.amazon.it/dp/B085CY4ZVQ/?tag=tolees00-21) con 44.45 de descuento por 99.99 EUR (original: 179.99 EUR) en el siguiente enlace!

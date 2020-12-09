@@ -14,7 +14,7 @@ currency: EUR
 price: 4.98
 comparePrice: 10.28 EUR
 inStock: true
-prodname: Pritt 1969769 – Stick asta adesivo bambini
+prodname: 'Pritt 1969769 – Stick asta adesivo bambini'
 ---
 
 Tienes [Pritt 1969769 – Stick asta adesivo bambini](https://www.amazon.it/dp/B07DD3ZGS2/?tag=tolees00-21) con un 51.56 % de descuento con precio de oferta de 4.98 EUR (original: 10.28 EUR) en el siguiente enlace!

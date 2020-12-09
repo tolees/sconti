@@ -14,7 +14,7 @@ currency: EUR
 price: 42.42
 comparePrice: 75.0 EUR
 inStock: true
-prodname: SUPERGA 2578-cotu  Scarpe da Ginnastica Unisex-Adulto  Bianco  White 901   44.5 EU
+prodname: 'SUPERGA 2578-cotu  Scarpe da Ginnastica Unisex-Adulto  Bianco  White 901   44.5 EU'
 ---
 
 Está [SUPERGA 2578-cotu  Scarpe da Ginnastica Unisex-Adulto  Bianco  White 901   44.5 EU](https://www.amazon.it/dp/B07TTDBG8C/?tag=tolees00-21) con 43.44 de descuento por 42.42 EUR (original: 75.0 EUR) en el siguiente enlace!

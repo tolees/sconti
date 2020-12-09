@@ -14,7 +14,7 @@ currency: EUR
 price: 189.99
 comparePrice: 279.9 EUR
 inStock: true
-prodname: Brother MFCL2710DW Stampante Multifunzione Laser 4 in 1 Bianco e Nero  Velocità Stampa 30 ppm  Scheda di Rete Cablata  Wi-Fi  Stampa Fronte/Retro Automatica  ADF 50 Fogli  Display LCD
+prodname: 'Brother MFCL2710DW Stampante Multifunzione Laser 4 in 1 Bianco e Nero  Velocità Stampa 30 ppm  Scheda di Rete Cablata  Wi-Fi  Stampa Fronte/Retro Automatica  ADF 50 Fogli  Display LCD'
 ---
 
 Ahora mismo tienes [Brother MFCL2710DW Stampante Multifunzione Laser 4 in 1 Bianco e Nero  Velocità Stampa 30 ppm  Scheda di Rete Cablata  Wi-Fi  Stampa Fronte/Retro Automatica  ADF 50 Fogli  Display LCD](https://www.amazon.it/dp/B076PSNNDB/?tag=tolees00-21) a 189.99 EUR (original: 279.9 EUR) (32.12 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 47.0
 comparePrice: 90.0 EUR
 inStock: true
-prodname: New Balance 574v2  Sneaker Donna  Avorio  off Scb   37.5 EU
+prodname: 'New Balance 574v2  Sneaker Donna  Avorio  off Scb   37.5 EU'
 ---
 
 Ahora mismo tienes [New Balance 574v2  Sneaker Donna  Avorio  off Scb   37.5 EU](https://www.amazon.it/dp/B07S1MMHKS/?tag=tolees00-21) a 47.0 EUR (original: 90.0 EUR) (47.78 %  de descuento) en el siguiente enlace!

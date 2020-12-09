@@ -14,7 +14,7 @@ currency: EUR
 price: 59.0
 comparePrice: 129.0 EUR
 inStock: true
-prodname: HUGO Orologio Analogico Quarzo Unisex-Adulto con Cinturino in Pelle 1530100
+prodname: 'HUGO Orologio Analogico Quarzo Unisex-Adulto con Cinturino in Pelle 1530100'
 ---
 
 Está [HUGO Orologio Analogico Quarzo Unisex-Adulto con Cinturino in Pelle 1530100](https://www.amazon.it/dp/B07VCKLJ3M/?tag=tolees00-21) con 54.26 de descuento por 59.0 EUR (original: 129.0 EUR) en el siguiente enlace!

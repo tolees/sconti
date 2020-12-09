@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: VBIGER Zaino Porta PC Uomo 17.3 Pollici Impermeabile con Porta di Carica USB e Foro Cuffie per Lavoro Scuola Viaggio università  Nero 
+prodname: 'VBIGER Zaino Porta PC Uomo 17.3 Pollici Impermeabile con Porta di Carica USB e Foro Cuffie per Lavoro Scuola Viaggio università  Nero '
 ---
 
 Tienes [VBIGER Zaino Porta PC Uomo 17.3 Pollici Impermeabile con Porta di Carica USB e Foro Cuffie per Lavoro Scuola Viaggio università  Nero ](https://www.amazon.it/dp/B07V3RZZ3X/?tag=tolees00-21) con un 28.01 % de descuento con precio de oferta de 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!

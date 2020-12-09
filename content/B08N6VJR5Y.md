@@ -14,7 +14,7 @@ currency: EUR
 price: 10.47
 comparePrice: 18.95 EUR
 inStock: true
-prodname: goldenpoint Slipper Boot Donna Coniglio
+prodname: 'goldenpoint Slipper Boot Donna Coniglio'
 ---
 
 Tienes [goldenpoint Slipper Boot Donna Coniglio](https://www.amazon.it/dp/B08N6VJR5Y/?tag=tolees00-21) con un 44.75 % de descuento con precio de oferta de 10.47 EUR (original: 18.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.09
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Bottega Verde  Confezione Metal Box Dolcezza
+prodname: 'Bottega Verde  Confezione Metal Box Dolcezza'
 ---
 
 Tienes [Bottega Verde  Confezione Metal Box Dolcezza](https://www.amazon.it/dp/B08GCMK9ZW/?tag=tolees00-21) con un 30.01 % de descuento con precio de oferta de 16.09 EUR (original: 22.99 EUR) en el siguiente enlace!

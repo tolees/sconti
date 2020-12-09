@@ -14,7 +14,7 @@ currency: EUR
 price: 17.16
 comparePrice: 26.18 EUR
 inStock: true
-prodname: Milka Milka e Oreo  confezione da 22  22 x 100 G 
+prodname: 'Milka Milka e Oreo  confezione da 22  22 x 100 G '
 ---
 
 Tienes [Milka Milka e Oreo  confezione da 22  22 x 100 G ](https://www.amazon.it/dp/B005QVC0OC/?tag=tolees00-21) con un 34.45 % de descuento con precio de oferta de 17.16 EUR (original: 26.18 EUR) en el siguiente enlace!

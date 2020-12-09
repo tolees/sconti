@@ -14,7 +14,7 @@ currency: EUR
 price: 6.4
 comparePrice: 10.16 EUR
 inStock: true
-prodname: Max Factor Smokey Eye Drama  kit ombretti opachi
+prodname: 'Max Factor Smokey Eye Drama  kit ombretti opachi'
 ---
 
 Está [Max Factor Smokey Eye Drama  kit ombretti opachi](https://www.amazon.it/dp/B07B9NM2GC/?tag=tolees00-21) con 37.01 de descuento por 6.4 EUR (original: 10.16 EUR) en el siguiente enlace!

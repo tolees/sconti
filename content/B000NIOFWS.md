@@ -14,7 +14,7 @@ currency: EUR
 price: 14.28
 comparePrice: 20.67 EUR
 inStock: true
-prodname: Paderno 11161-28 Coperchio  in Acciaio Inox  28 cm
+prodname: 'Paderno 11161-28 Coperchio  in Acciaio Inox  28 cm'
 ---
 
 Está [Paderno 11161-28 Coperchio  in Acciaio Inox  28 cm](https://www.amazon.it/dp/B000NIOFWS/?tag=tolees00-21) con 30.91 de descuento por 14.28 EUR (original: 20.67 EUR) en el siguiente enlace!

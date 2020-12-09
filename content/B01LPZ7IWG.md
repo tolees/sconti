@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 31.53 EUR
 inStock: true
-prodname: SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  Doppio Pacco fino a 90 MB/sec  Classe 10  U3  V30
+prodname: 'SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  Doppio Pacco fino a 90 MB/sec  Classe 10  U3  V30'
 ---
 
 Tienes [SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  Doppio Pacco fino a 90 MB/sec  Classe 10  U3  V30](https://www.amazon.it/dp/B01LPZ7IWG/?tag=tolees00-21) con un 36.60 % de descuento con precio de oferta de 19.99 EUR (original: 31.53 EUR) en el siguiente enlace!

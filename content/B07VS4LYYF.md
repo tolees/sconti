@@ -14,7 +14,7 @@ currency: EUR
 price: 40.21
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Bugatti 431877025058  Scarpe da Ginnastica Donna  Bianco Bianco Chiaro Blu 2042  39 EU
+prodname: 'Bugatti 431877025058  Scarpe da Ginnastica Donna  Bianco Bianco Chiaro Blu 2042  39 EU'
 ---
 
 Está [Bugatti 431877025058  Scarpe da Ginnastica Donna  Bianco Bianco Chiaro Blu 2042  39 EU](https://www.amazon.it/dp/B07VS4LYYF/?tag=tolees00-21) con 42.52 de descuento por 40.21 EUR (original: 69.95 EUR) en el siguiente enlace!

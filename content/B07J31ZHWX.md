@@ -14,7 +14,7 @@ currency: EUR
 price: 20.0
 comparePrice: 40.0 EUR
 inStock: true
-prodname: Under Armour Scrimmage 2.0 Sacco da Montagna  Unisex Adulto  Nero  Taglia unica
+prodname: 'Under Armour Scrimmage 2.0 Sacco da Montagna  Unisex Adulto  Nero  Taglia unica'
 ---
 
 Ahora mismo tienes [Under Armour Scrimmage 2.0 Sacco da Montagna  Unisex Adulto  Nero  Taglia unica](https://www.amazon.it/dp/B07J31ZHWX/?tag=tolees00-21) a 20.0 EUR (original: 40.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Levi s Woodward L  Sneaker Uomo  Blu  Navy Blue 17   43 EU
+prodname: 'Levi s Woodward L  Sneaker Uomo  Blu  Navy Blue 17   43 EU'
 ---
 
 Está [Levi s Woodward L  Sneaker Uomo  Blu  Navy Blue 17   43 EU](https://www.amazon.it/dp/B07SFJB7XG/?tag=tolees00-21) con 33.35 de descuento por 39.99 EUR (original: 60.0 EUR) en el siguiente enlace!

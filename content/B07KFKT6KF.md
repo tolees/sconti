@@ -14,7 +14,7 @@ currency: EUR
 price: 25.63
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas Grand Court  Scarpe Sportive Uomo  Bianco  Cloud White/Core Black/Cloud White   36 1/3 EU
+prodname: 'adidas Grand Court  Scarpe Sportive Uomo  Bianco  Cloud White/Core Black/Cloud White   36 1/3 EU'
 ---
 
 Ahora mismo tienes [adidas Grand Court  Scarpe Sportive Uomo  Bianco  Cloud White/Core Black/Cloud White   36 1/3 EU](https://www.amazon.it/dp/B07KFKT6KF/?tag=tolees00-21) a 25.63 EUR (original: 69.95 EUR) (63.36 %  de descuento) en el siguiente enlace!

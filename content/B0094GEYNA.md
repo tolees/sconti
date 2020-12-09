@@ -14,7 +14,7 @@ currency: EUR
 price: 11.9
 comparePrice: 15.9 EUR
 inStock: true
-prodname: Asmodee - Dobble Divertente Gioco da Tavolo per Tutta la Famiglia Edizione in Italiano  8230
+prodname: 'Asmodee - Dobble Divertente Gioco da Tavolo per Tutta la Famiglia Edizione in Italiano  8230'
 ---
 
 Está [Asmodee - Dobble Divertente Gioco da Tavolo per Tutta la Famiglia Edizione in Italiano  8230](https://www.amazon.it/dp/B0094GEYNA/?tag=tolees00-21) con 25.16 de descuento por 11.9 EUR (original: 15.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.24
 comparePrice: 60.73 EUR
 inStock: true
-prodname: Marchio Amazon - find. Trench con Cintura Donna  Verde  Khaki   42  Label: S
+prodname: 'Marchio Amazon - find. Trench con Cintura Donna  Verde  Khaki   42  Label: S'
 ---
 
 Ahora mismo tienes [Marchio Amazon - find. Trench con Cintura Donna  Verde  Khaki   42  Label: S](https://www.amazon.it/dp/B07KM4NQQ4/?tag=tolees00-21) a 21.24 EUR (original: 60.73 EUR) (65.03 %  de descuento) en el siguiente enlace!

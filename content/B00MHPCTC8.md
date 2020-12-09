@@ -14,7 +14,7 @@ currency: EUR
 price: 65.0
 comparePrice: 94.95 EUR
 inStock: true
-prodname: adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  Core White/Dark Blue   42 EU
+prodname: 'adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  Core White/Dark Blue   42 EU'
 ---
 
 Está [adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  Core White/Dark Blue   42 EU](https://www.amazon.it/dp/B00MHPCTC8/?tag=tolees00-21) con 31.54 de descuento por 65.0 EUR (original: 94.95 EUR) en el siguiente enlace!

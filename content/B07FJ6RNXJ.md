@@ -14,7 +14,7 @@ currency: EUR
 price: 38.99
 comparePrice: 80.61 EUR
 inStock: true
-prodname: Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black Pink 45  43 EU
+prodname: 'Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black Pink 45  43 EU'
 ---
 
 Está [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black Pink 45  43 EU](https://www.amazon.it/dp/B07FJ6RNXJ/?tag=tolees00-21) con 51.63 de descuento por 38.99 EUR (original: 80.61 EUR) en el siguiente enlace!

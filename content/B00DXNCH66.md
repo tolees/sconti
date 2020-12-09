@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Hasbro Gaming A4626103 Taboo  Gioco in Scatola 
+prodname: 'Hasbro Gaming A4626103 Taboo  Gioco in Scatola '
 ---
 
 Ahora mismo tienes [Hasbro Gaming A4626103 Taboo  Gioco in Scatola ](https://www.amazon.it/dp/B00DXNCH66/?tag=tolees00-21) a 15.99 EUR (original: 27.99 EUR) (42.87 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 159.0 EUR
 inStock: true
-prodname: Tommy Hilfiger Orologio Multi-quadrante Quarzo Donna con Cinturino in Acciaio Inox 1782020
+prodname: 'Tommy Hilfiger Orologio Multi-quadrante Quarzo Donna con Cinturino in Acciaio Inox 1782020'
 ---
 
 Tienes [Tommy Hilfiger Orologio Multi-quadrante Quarzo Donna con Cinturino in Acciaio Inox 1782020](https://www.amazon.it/dp/B07KTQFQ86/?tag=tolees00-21) con un 56.60 % de descuento con precio de oferta de 69.0 EUR (original: 159.0 EUR) en el siguiente enlace!

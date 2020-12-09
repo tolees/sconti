@@ -14,7 +14,7 @@ currency: EUR
 price: 25.52
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Under Armour Challenger III Midlayer  Maglia a Maniche Lunghe Uomo  Nero  Black - 001   LG
+prodname: 'Under Armour Challenger III Midlayer  Maglia a Maniche Lunghe Uomo  Nero  Black - 001   LG'
 ---
 
 Está [Under Armour Challenger III Midlayer  Maglia a Maniche Lunghe Uomo  Nero  Black - 001   LG](https://www.amazon.it/dp/B07R2YJPQK/?tag=tolees00-21) con 48.96 de descuento por 25.52 EUR (original: 50.0 EUR) en el siguiente enlace!

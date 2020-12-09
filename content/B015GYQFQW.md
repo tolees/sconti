@@ -14,7 +14,7 @@ currency: EUR
 price: 13.49
 comparePrice: 22.53 EUR
 inStock: true
-prodname: L Oréal Paris MakeUp Fondotinta Accord Parfait  Effetto Naturale  Arricchito con Acido Ialuronico  2.N Vanille/Vanilla  30 ml  Confezione da 1
+prodname: 'L Oréal Paris MakeUp Fondotinta Accord Parfait  Effetto Naturale  Arricchito con Acido Ialuronico  2.N Vanille/Vanilla  30 ml  Confezione da 1'
 ---
 
 Ahora mismo tienes [L Oréal Paris MakeUp Fondotinta Accord Parfait  Effetto Naturale  Arricchito con Acido Ialuronico  2.N Vanille/Vanilla  30 ml  Confezione da 1](https://www.amazon.it/dp/B015GYQFQW/?tag=tolees00-21) a 13.49 EUR (original: 22.53 EUR) (40.12 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.5
 comparePrice: 34.98 EUR
 inStock: true
-prodname: Under Armour UA HeatGear Long Sleeve  Maglia A Maniche Lunghe Uomo  Nero  Black/Steel  001   S
+prodname: 'Under Armour UA HeatGear Long Sleeve  Maglia A Maniche Lunghe Uomo  Nero  Black/Steel  001   S'
 ---
 
 Tienes [Under Armour UA HeatGear Long Sleeve  Maglia A Maniche Lunghe Uomo  Nero  Black/Steel  001   S](https://www.amazon.it/dp/B00KHTNICQ/?tag=tolees00-21) con un 49.97 % de descuento con precio de oferta de 17.5 EUR (original: 34.98 EUR) en el siguiente enlace!

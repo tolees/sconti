@@ -14,7 +14,7 @@ currency: EUR
 price: 4.5
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Cicogne In Missione Storks
+prodname: 'Cicogne In Missione Storks'
 ---
 
 Ahora mismo tienes [Cicogne In Missione Storks](https://www.amazon.it/dp/B01MA4ODOW/?tag=tolees00-21) a 4.5 EUR (original: 12.99 EUR) (65.36 %  de descuento) en el siguiente enlace!

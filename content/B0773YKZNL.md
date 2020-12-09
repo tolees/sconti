@@ -14,7 +14,7 @@ currency: EUR
 price: 56.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: adidas Stan Smith  Scarpe da Fitness Uomo  Bianco  Ftwbla/Ftwbla/Tinnob 000   45 1/3 EU
+prodname: 'adidas Stan Smith  Scarpe da Fitness Uomo  Bianco  Ftwbla/Ftwbla/Tinnob 000   45 1/3 EU'
 ---
 
 Tienes [adidas Stan Smith  Scarpe da Fitness Uomo  Bianco  Ftwbla/Ftwbla/Tinnob 000   45 1/3 EU](https://www.amazon.it/dp/B0773YKZNL/?tag=tolees00-21) con un 43.02 % de descuento con precio de oferta de 56.95 EUR (original: 99.95 EUR) en el siguiente enlace!

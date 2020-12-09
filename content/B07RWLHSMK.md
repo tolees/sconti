@@ -14,7 +14,7 @@ currency: EUR
 price: 11.9
 comparePrice: 16.9 EUR
 inStock: true
-prodname: Clementoni - 18540 - Crazy Chic Wow Creations Bracciali Modulari  bracciali per Bambina
+prodname: 'Clementoni - 18540 - Crazy Chic Wow Creations Bracciali Modulari  bracciali per Bambina'
 ---
 
 Está [Clementoni - 18540 - Crazy Chic Wow Creations Bracciali Modulari  bracciali per Bambina](https://www.amazon.it/dp/B07RWLHSMK/?tag=tolees00-21) con 29.59 de descuento por 11.9 EUR (original: 16.9 EUR) en el siguiente enlace!

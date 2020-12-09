@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Yagte Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  MacBook  Xbox One 1TB Blu 
+prodname: 'Yagte Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  MacBook  Xbox One 1TB Blu '
 ---
 
 Ahora mismo tienes [Yagte Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  MacBook  Xbox One 1TB Blu ](https://www.amazon.it/dp/B08HLTPTFT/?tag=tolees00-21) a 47.99 EUR (original: 69.0 EUR) (30.45 %  de descuento) en el siguiente enlace!

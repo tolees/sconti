@@ -14,7 +14,7 @@ currency: EUR
 price: 1.25
 comparePrice: 1.89 EUR
 inStock: true
-prodname: Kellogg s Corn Flakes Originali  375g
+prodname: 'Kellogg s Corn Flakes Originali  375g'
 ---
 
 Tienes [Kellogg s Corn Flakes Originali  375g](https://www.amazon.it/dp/B00BPANBTG/?tag=tolees00-21) con un 33.86 % de descuento con precio de oferta de 1.25 EUR (original: 1.89 EUR) en el siguiente enlace!

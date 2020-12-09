@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 35.0 EUR
 inStock: true
-prodname: INBIKE Occhiali da Sole polarizzati da Ciclismo per Uomo  Nero 
+prodname: 'INBIKE Occhiali da Sole polarizzati da Ciclismo per Uomo  Nero '
 ---
 
 Ahora mismo tienes [INBIKE Occhiali da Sole polarizzati da Ciclismo per Uomo  Nero ](https://www.amazon.it/dp/B01J9RU4LO/?tag=tolees00-21) a 25.99 EUR (original: 35.0 EUR) (25.74 %  de descuento) en el siguiente enlace!

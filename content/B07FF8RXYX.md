@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 16.89 EUR
 inStock: true
-prodname: HUAWEI Mediapad T5 Custodia Protettiva  Nero
+prodname: 'HUAWEI Mediapad T5 Custodia Protettiva  Nero'
 ---
 
 Ahora mismo tienes [HUAWEI Mediapad T5 Custodia Protettiva  Nero](https://www.amazon.it/dp/B07FF8RXYX/?tag=tolees00-21) a 11.99 EUR (original: 16.89 EUR) (29.01 %  de descuento) en el siguiente enlace!

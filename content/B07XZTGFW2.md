@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 160.09 EUR
 inStock: true
-prodname: Philips Hue White and Color Ambiance  3 Faretti LED Smart  con Bluetooth  Attacco GU10  6 W  fino a 16 Milioni di Colori
+prodname: 'Philips Hue White and Color Ambiance  3 Faretti LED Smart  con Bluetooth  Attacco GU10  6 W  fino a 16 Milioni di Colori'
 ---
 
 Está [Philips Hue White and Color Ambiance  3 Faretti LED Smart  con Bluetooth  Attacco GU10  6 W  fino a 16 Milioni di Colori](https://www.amazon.it/dp/B07XZTGFW2/?tag=tolees00-21) con 37.54 de descuento por 99.99 EUR (original: 160.09 EUR) en el siguiente enlace!

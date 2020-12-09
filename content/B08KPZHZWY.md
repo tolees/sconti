@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: eXtremeRate Tasti Pulsanti Ricambio per Xbox One S X Controller Joystick Model 1708  Trigger LB RB LT RT Bumper Grilletti D-pad Pulsante Start Back Sync con Cacciaviti-Nero
+prodname: 'eXtremeRate Tasti Pulsanti Ricambio per Xbox One S X Controller Joystick Model 1708  Trigger LB RB LT RT Bumper Grilletti D-pad Pulsante Start Back Sync con Cacciaviti-Nero'
 ---
 
 Ahora mismo tienes [eXtremeRate Tasti Pulsanti Ricambio per Xbox One S X Controller Joystick Model 1708  Trigger LB RB LT RT Bumper Grilletti D-pad Pulsante Start Back Sync con Cacciaviti-Nero](https://www.amazon.it/dp/B08KPZHZWY/?tag=tolees00-21) a 12.99 EUR (original: 24.99 EUR) (48.02 %  de descuento) en el siguiente enlace!

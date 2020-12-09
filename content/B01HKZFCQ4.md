@@ -14,7 +14,7 @@ currency: EUR
 price: 15.08
 comparePrice: 25.5 EUR
 inStock: true
-prodname: Salewa Alpine Tuber Belay Strumento Alpino di Assicurazione  Unisex adulto  Blu  Midnight Blue   Taglia Unica
+prodname: 'Salewa Alpine Tuber Belay Strumento Alpino di Assicurazione  Unisex adulto  Blu  Midnight Blue   Taglia Unica'
 ---
 
 Está [Salewa Alpine Tuber Belay Strumento Alpino di Assicurazione  Unisex adulto  Blu  Midnight Blue   Taglia Unica](https://www.amazon.it/dp/B01HKZFCQ4/?tag=tolees00-21) con 40.86 de descuento por 15.08 EUR (original: 25.5 EUR) en el siguiente enlace!

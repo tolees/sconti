@@ -14,7 +14,7 @@ currency: EUR
 price: 6.79
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Netac 32G Scheda Micro SD  Scheda di Memoria A1  U1  C10  V10  FHD  600X  UHS-I velocità Fino a 90/10 MB/Sec R/W  Micro SD Card per Telefono  Videocamera  Switch  Gopro  Tablet
+prodname: 'Netac 32G Scheda Micro SD  Scheda di Memoria A1  U1  C10  V10  FHD  600X  UHS-I velocità Fino a 90/10 MB/Sec R/W  Micro SD Card per Telefono  Videocamera  Switch  Gopro  Tablet'
 ---
 
 Está [Netac 32G Scheda Micro SD  Scheda di Memoria A1  U1  C10  V10  FHD  600X  UHS-I velocità Fino a 90/10 MB/Sec R/W  Micro SD Card per Telefono  Videocamera  Switch  Gopro  Tablet](https://www.amazon.it/dp/B0833XXLJR/?tag=tolees00-21) con 47.73 de descuento por 6.79 EUR (original: 12.99 EUR) en el siguiente enlace!

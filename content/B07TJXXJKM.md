@@ -14,7 +14,7 @@ currency: EUR
 price: 55.95
 comparePrice: 80.0 EUR
 inStock: true
-prodname: Lacoste L1230 Polo  Blu  Cuba Aaf   Medium  Taglia Unica: 4  Uomo
+prodname: 'Lacoste L1230 Polo  Blu  Cuba Aaf   Medium  Taglia Unica: 4  Uomo'
 ---
 
 Tienes [Lacoste L1230 Polo  Blu  Cuba Aaf   Medium  Taglia Unica: 4  Uomo](https://www.amazon.it/dp/B07TJXXJKM/?tag=tolees00-21) con un 30.06 % de descuento con precio de oferta de 55.95 EUR (original: 80.0 EUR) en el siguiente enlace!

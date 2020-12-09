@@ -14,7 +14,7 @@ currency: EUR
 price: 6.49
 comparePrice: 8.99 EUR
 inStock: true
-prodname: Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze  Multicolore  White/Grey 062   43/46  Taglia Produttore: 043  Uomo
+prodname: 'Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze  Multicolore  White/Grey 062   43/46  Taglia Produttore: 043  Uomo'
 ---
 
 Está [Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze  Multicolore  White/Grey 062   43/46  Taglia Produttore: 043  Uomo](https://www.amazon.it/dp/B07VTGCBMN/?tag=tolees00-21) con 27.81 de descuento por 6.49 EUR (original: 8.99 EUR) en el siguiente enlace!

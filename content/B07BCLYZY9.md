@@ -14,7 +14,7 @@ currency: EUR
 price: 5.85
 comparePrice: 8.99 EUR
 inStock: true
-prodname: Maybelline New York Rossetto Matita SuperStay Ink Crayon Colore Matte a Lunga Tenuta  25 Stay Exceptional
+prodname: 'Maybelline New York Rossetto Matita SuperStay Ink Crayon Colore Matte a Lunga Tenuta  25 Stay Exceptional'
 ---
 
 Está [Maybelline New York Rossetto Matita SuperStay Ink Crayon Colore Matte a Lunga Tenuta  25 Stay Exceptional](https://www.amazon.it/dp/B07BCLYZY9/?tag=tolees00-21) con 34.93 de descuento por 5.85 EUR (original: 8.99 EUR) en el siguiente enlace!

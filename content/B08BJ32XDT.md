@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 81.41 EUR
 inStock: true
-prodname: FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Nero 
+prodname: 'FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Nero '
 ---
 
 Ahora mismo tienes [FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Nero ](https://www.amazon.it/dp/B08BJ32XDT/?tag=tolees00-21) a 47.99 EUR (original: 81.41 EUR) (41.05 %  de descuento) en el siguiente enlace!

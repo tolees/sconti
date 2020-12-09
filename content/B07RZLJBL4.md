@@ -14,7 +14,7 @@ currency: EUR
 price: 47.89
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Levi s Type 3 Giacca in Jeans  Blu  Firework Sherpa Trucker 0123   XX-Large Uomo
+prodname: 'Levi s Type 3 Giacca in Jeans  Blu  Firework Sherpa Trucker 0123   XX-Large Uomo'
 ---
 
 Ahora mismo tienes [Levi s Type 3 Giacca in Jeans  Blu  Firework Sherpa Trucker 0123   XX-Large Uomo](https://www.amazon.it/dp/B07RZLJBL4/?tag=tolees00-21) a 47.89 EUR (original: 140.0 EUR) (65.79 %  de descuento) en el siguiente enlace!

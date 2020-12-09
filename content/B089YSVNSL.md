@@ -14,7 +14,7 @@ currency: EUR
 price: 19.45
 comparePrice: 33.88 EUR
 inStock: true
-prodname: Only ONLMELISA Faux Leather Biker CC Otw Giacca  Nero  42 Donna
+prodname: 'Only ONLMELISA Faux Leather Biker CC Otw Giacca  Nero  42 Donna'
 ---
 
 Tienes [Only ONLMELISA Faux Leather Biker CC Otw Giacca  Nero  42 Donna](https://www.amazon.it/dp/B089YSVNSL/?tag=tolees00-21) con un 42.59 % de descuento con precio de oferta de 19.45 EUR (original: 33.88 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.5
 comparePrice: 12.88 EUR
 inStock: true
-prodname: Max Factor Mascara Volumizzante False Lash Effect  Velvet Volume  Effetto Ciglia Finte  Nero/Black  13 ml
+prodname: 'Max Factor Mascara Volumizzante False Lash Effect  Velvet Volume  Effetto Ciglia Finte  Nero/Black  13 ml'
 ---
 
 Tienes [Max Factor Mascara Volumizzante False Lash Effect  Velvet Volume  Effetto Ciglia Finte  Nero/Black  13 ml](https://www.amazon.it/dp/B010NUXC6U/?tag=tolees00-21) con un 49.53 % de descuento con precio de oferta de 6.5 EUR (original: 12.88 EUR) en el siguiente enlace!

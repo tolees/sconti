@@ -14,7 +14,7 @@ currency: EUR
 price: 104.72
 comparePrice: 220.0 EUR
 inStock: true
-prodname: SALEWA Mtn Trainer Mid Gore-Tex  Scarpe da Arrampicata Alta Uomo  Multicolore  charcoal/Papavero 4720   42.5 EU
+prodname: 'SALEWA Mtn Trainer Mid Gore-Tex  Scarpe da Arrampicata Alta Uomo  Multicolore  charcoal/Papavero 4720   42.5 EU'
 ---
 
 Está [SALEWA Mtn Trainer Mid Gore-Tex  Scarpe da Arrampicata Alta Uomo  Multicolore  charcoal/Papavero 4720   42.5 EU](https://www.amazon.it/dp/B01HTMBB6S/?tag=tolees00-21) con 52.40 de descuento por 104.72 EUR (original: 220.0 EUR) en el siguiente enlace!

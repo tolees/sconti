@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Amazon Echo Spot - Sveglia intelligente con Alexa - Bianco
+prodname: 'Amazon Echo Spot - Sveglia intelligente con Alexa - Bianco'
 ---
 
 Está [Amazon Echo Spot - Sveglia intelligente con Alexa - Bianco](https://www.amazon.it/dp/B07BRCJSVK/?tag=tolees00-21) con 30.77 de descuento por 89.99 EUR (original: 129.99 EUR) en el siguiente enlace!

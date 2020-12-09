@@ -14,7 +14,7 @@ currency: EUR
 price: 549.0
 comparePrice: 899.0 EUR
 inStock: true
-prodname: Bulova Orologio Cronografo Quarzo Uomo con Cinturino in Gomma 98A162
+prodname: 'Bulova Orologio Cronografo Quarzo Uomo con Cinturino in Gomma 98A162'
 ---
 
 Tienes [Bulova Orologio Cronografo Quarzo Uomo con Cinturino in Gomma 98A162](https://www.amazon.it/dp/B01M0QEU6M/?tag=tolees00-21) con un 38.93 % de descuento con precio de oferta de 549.0 EUR (original: 899.0 EUR) en el siguiente enlace!

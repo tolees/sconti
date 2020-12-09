@@ -14,7 +14,7 @@ currency: EUR
 price: 55.99
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Reebok Exofit Lo Clean Logo Int  Scarpe da Ginnastica Basse Uomo  Bianco  AR3169 39 EU White/Royal Blue/Royal Blue   44 EU
+prodname: 'Reebok Exofit Lo Clean Logo Int  Scarpe da Ginnastica Basse Uomo  Bianco  AR3169 39 EU White/Royal Blue/Royal Blue   44 EU'
 ---
 
 Tienes [Reebok Exofit Lo Clean Logo Int  Scarpe da Ginnastica Basse Uomo  Bianco  AR3169 39 EU White/Royal Blue/Royal Blue   44 EU](https://www.amazon.it/dp/B01IY4G9WQ/?tag=tolees00-21) con un 29.97 % de descuento con precio de oferta de 55.99 EUR (original: 79.95 EUR) en el siguiente enlace!

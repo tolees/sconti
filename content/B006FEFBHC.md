@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 51.7 EUR
 inStock: true
-prodname: RICOO R23-S Supporto TV Parete Girevole Inclinabile Televisore 31-65"  79-165cm  Staffa Universale Televisione LED Curvo VESA 200x200-400x400
+prodname: 'RICOO R23-S Supporto TV Parete Girevole Inclinabile Televisore 31-65"  79-165cm  Staffa Universale Televisione LED Curvo VESA 200x200-400x400'
 ---
 
 Está [RICOO R23-S Supporto TV Parete Girevole Inclinabile Televisore 31-65"  79-165cm  Staffa Universale Televisione LED Curvo VESA 200x200-400x400](https://www.amazon.it/dp/B006FEFBHC/?tag=tolees00-21) con 47.79 de descuento por 26.99 EUR (original: 51.7 EUR) en el siguiente enlace!

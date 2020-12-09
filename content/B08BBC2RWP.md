@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: FIFA 21 Xbox One Ultimate Ed  include upgrade per Xbox Series X
+prodname: 'FIFA 21 Xbox One Ultimate Ed  include upgrade per Xbox Series X'
 ---
 
 Tienes [FIFA 21 Xbox One Ultimate Ed  include upgrade per Xbox Series X](https://www.amazon.it/dp/B08BBC2RWP/?tag=tolees00-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

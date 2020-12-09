@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Lacoste L1264 Polo  Vite Cinese  S Uomo
+prodname: 'Lacoste L1264 Polo  Vite Cinese  S Uomo'
 ---
 
 Ahora mismo tienes [Lacoste L1264 Polo  Vite Cinese  S Uomo](https://www.amazon.it/dp/B07V2JXBBT/?tag=tolees00-21) a 59.99 EUR (original: 95.0 EUR) (36.85 %  de descuento) en el siguiente enlace!

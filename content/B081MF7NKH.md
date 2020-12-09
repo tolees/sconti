@@ -14,7 +14,7 @@ currency: EUR
 price: 31.56
 comparePrice: 51.53 EUR
 inStock: true
-prodname: New Balance 311 Core  Scarpe da Ginnastica Uomo  Grigio  Marblehead   40 EU
+prodname: 'New Balance 311 Core  Scarpe da Ginnastica Uomo  Grigio  Marblehead   40 EU'
 ---
 
 Tienes [New Balance 311 Core  Scarpe da Ginnastica Uomo  Grigio  Marblehead   40 EU](https://www.amazon.it/dp/B081MF7NKH/?tag=tolees00-21) con un 38.75 % de descuento con precio de oferta de 31.56 EUR (original: 51.53 EUR) en el siguiente enlace!

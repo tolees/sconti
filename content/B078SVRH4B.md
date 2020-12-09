@@ -14,7 +14,7 @@ currency: EUR
 price: 69.8
 comparePrice: 129.99 EUR
 inStock: true
-prodname: SanDisk SDSSDE60-250G-G25 Extreme SSD Portatile 250GB  Velocità di Lettura Fino a 550MB/s  Nero
+prodname: 'SanDisk SDSSDE60-250G-G25 Extreme SSD Portatile 250GB  Velocità di Lettura Fino a 550MB/s  Nero'
 ---
 
 Está [SanDisk SDSSDE60-250G-G25 Extreme SSD Portatile 250GB  Velocità di Lettura Fino a 550MB/s  Nero](https://www.amazon.it/dp/B078SVRH4B/?tag=tolees00-21) con 46.30 de descuento por 69.8 EUR (original: 129.99 EUR) en el siguiente enlace!

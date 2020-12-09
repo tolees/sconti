@@ -14,7 +14,7 @@ currency: EUR
 price: 17.1
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Crocs  Baya Summer Flip U  Sandali  Uomo  Blu  Blau  Navy 410    42-43
+prodname: 'Crocs  Baya Summer Flip U  Sandali  Uomo  Blu  Blau  Navy 410    42-43'
 ---
 
 Ahora mismo tienes [Crocs  Baya Summer Flip U  Sandali  Uomo  Blu  Blau  Navy 410    42-43](https://www.amazon.it/dp/B005HV2PZK/?tag=tolees00-21) a 17.1 EUR (original: 29.9 EUR) (42.81 %  de descuento) en el siguiente enlace!

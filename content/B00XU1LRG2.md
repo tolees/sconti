@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 18.9 EUR
 inStock: true
-prodname: L Oréal Paris Crema Viso Giorno Revitalift Filler  Azione Antirughe Rivolumizzante con Acido Ialuronico Concentrato  50 ml
+prodname: 'L Oréal Paris Crema Viso Giorno Revitalift Filler  Azione Antirughe Rivolumizzante con Acido Ialuronico Concentrato  50 ml'
 ---
 
 Está [L Oréal Paris Crema Viso Giorno Revitalift Filler  Azione Antirughe Rivolumizzante con Acido Ialuronico Concentrato  50 ml](https://www.amazon.it/dp/B00XU1LRG2/?tag=tolees00-21) con 47.35 de descuento por 9.95 EUR (original: 18.9 EUR) en el siguiente enlace!

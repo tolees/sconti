@@ -14,7 +14,7 @@ currency: EUR
 price: 35.2
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Clarks Step Allena Go  Scarpe da Ginnastica Basse Donna  Beige  Black Black   37.5 EU
+prodname: 'Clarks Step Allena Go  Scarpe da Ginnastica Basse Donna  Beige  Black Black   37.5 EU'
 ---
 
 Ahora mismo tienes [Clarks Step Allena Go  Scarpe da Ginnastica Basse Donna  Beige  Black Black   37.5 EU](https://www.amazon.it/dp/B07TQ3W5XN/?tag=tolees00-21) a 35.2 EUR (original: 74.95 EUR) (53.04 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 131.07
 comparePrice: 230.0 EUR
 inStock: true
-prodname: Sony MHC-V02 Sistema audio All in One con JET BASS BOOSTER  Effetti Luminosi  Lettore CD  Bluetooth  USB  Nero
+prodname: 'Sony MHC-V02 Sistema audio All in One con JET BASS BOOSTER  Effetti Luminosi  Lettore CD  Bluetooth  USB  Nero'
 ---
 
 Está [Sony MHC-V02 Sistema audio All in One con JET BASS BOOSTER  Effetti Luminosi  Lettore CD  Bluetooth  USB  Nero](https://www.amazon.it/dp/B07MBPRYC8/?tag=tolees00-21) con 43.01 de descuento por 131.07 EUR (original: 230.0 EUR) en el siguiente enlace!

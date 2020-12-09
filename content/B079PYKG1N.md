@@ -14,7 +14,7 @@ currency: EUR
 price: 479.0
 comparePrice: 799.99 EUR
 inStock: true
-prodname: Philips Macchine da caffè Automatiche Saeco PicoBaristo Macchina da caffè Automatica  10 Bevande  con Macine in Ceramica  Filtro AquaClean  Caraffa Latte Integrata  Nero
+prodname: 'Philips Macchine da caffè Automatiche Saeco PicoBaristo Macchina da caffè Automatica  10 Bevande  con Macine in Ceramica  Filtro AquaClean  Caraffa Latte Integrata  Nero'
 ---
 
 Ahora mismo tienes [Philips Macchine da caffè Automatiche Saeco PicoBaristo Macchina da caffè Automatica  10 Bevande  con Macine in Ceramica  Filtro AquaClean  Caraffa Latte Integrata  Nero](https://www.amazon.it/dp/B079PYKG1N/?tag=tolees00-21) a 479.0 EUR (original: 799.99 EUR) (40.12 %  de descuento) en el siguiente enlace!

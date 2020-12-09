@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Timberland Union Wharf Derby  Sneakers Basse Uomo  Verde Dark Green Canvas  46 EU
+prodname: 'Timberland Union Wharf Derby  Sneakers Basse Uomo  Verde Dark Green Canvas  46 EU'
 ---
 
 Ahora mismo tienes [Timberland Union Wharf Derby  Sneakers Basse Uomo  Verde Dark Green Canvas  46 EU](https://www.amazon.it/dp/B07F2DKSNL/?tag=tolees00-21) a 25.99 EUR (original: 65.0 EUR) (60.02 %  de descuento) en el siguiente enlace!

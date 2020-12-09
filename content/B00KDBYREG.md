@@ -14,7 +14,7 @@ currency: EUR
 price: 42.84
 comparePrice: 68.91 EUR
 inStock: true
-prodname: Brembo Max 09.7806.75 - Disco Freno Baffato  Set di 2  - Anteriore
+prodname: 'Brembo Max 09.7806.75 - Disco Freno Baffato  Set di 2  - Anteriore'
 ---
 
 Está [Brembo Max 09.7806.75 - Disco Freno Baffato  Set di 2  - Anteriore](https://www.amazon.it/dp/B00KDBYREG/?tag=tolees00-21) con 37.83 de descuento por 42.84 EUR (original: 68.91 EUR) en el siguiente enlace!

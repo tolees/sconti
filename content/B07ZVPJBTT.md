@@ -14,7 +14,7 @@ currency: EUR
 price: 34.96
 comparePrice: 75.0 EUR
 inStock: true
-prodname: Levi s Graphic PO Hoodie B Felpa con Cappuccio  HM Pop Co Black  L Uomo
+prodname: 'Levi s Graphic PO Hoodie B Felpa con Cappuccio  HM Pop Co Black  L Uomo'
 ---
 
 Tienes [Levi s Graphic PO Hoodie B Felpa con Cappuccio  HM Pop Co Black  L Uomo](https://www.amazon.it/dp/B07ZVPJBTT/?tag=tolees00-21) con un 53.39 % de descuento con precio de oferta de 34.96 EUR (original: 75.0 EUR) en el siguiente enlace!

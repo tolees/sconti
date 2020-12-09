@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Grigio  Navy Blazer Detail: Twisted With Jet Stream   Large Uomo
+prodname: 'JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Grigio  Navy Blazer Detail: Twisted With Jet Stream   Large Uomo'
 ---
 
 Tienes [JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Grigio  Navy Blazer Detail: Twisted With Jet Stream   Large Uomo](https://www.amazon.it/dp/B07C2CF6TT/?tag=tolees00-21) con un 40.02 % de descuento con precio de oferta de 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.9
 comparePrice: 12.54 EUR
 inStock: true
-prodname: Procos Pinata Lovely Minions  Multicolore  10116999
+prodname: 'Procos Pinata Lovely Minions  Multicolore  10116999'
 ---
 
 Ahora mismo tienes [Procos Pinata Lovely Minions  Multicolore  10116999](https://www.amazon.it/dp/B01HXY32TQ/?tag=tolees00-21) a 6.9 EUR (original: 12.54 EUR) (44.98 %  de descuento) en el siguiente enlace!

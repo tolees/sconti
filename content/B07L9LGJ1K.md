@@ -14,7 +14,7 @@ currency: EUR
 price: 47.49
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Lacoste Court-Master 319 6 CMA  Sneaker Uomo  Bianco  White/Black   42 EU
+prodname: 'Lacoste Court-Master 319 6 CMA  Sneaker Uomo  Bianco  White/Black   42 EU'
 ---
 
 Tienes [Lacoste Court-Master 319 6 CMA  Sneaker Uomo  Bianco  White/Black   42 EU](https://www.amazon.it/dp/B07L9LGJ1K/?tag=tolees00-21) con un 50.01 % de descuento con precio de oferta de 47.49 EUR (original: 95.0 EUR) en el siguiente enlace!

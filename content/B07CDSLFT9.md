@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 329.0 EUR
 inStock: true
-prodname: Hugo Boss Multi-quadrante Quarzo Orologio da Polso 1513596
+prodname: 'Hugo Boss Multi-quadrante Quarzo Orologio da Polso 1513596'
 ---
 
 Ahora mismo tienes [Hugo Boss Multi-quadrante Quarzo Orologio da Polso 1513596](https://www.amazon.it/dp/B07CDSLFT9/?tag=tolees00-21) a 199.0 EUR (original: 329.0 EUR) (39.51 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 159.99
 comparePrice: 214.99 EUR
 inStock: true
-prodname: Philips Sonicare HX9911/03 DiamondClean 9000  Spazzolino Elettrico con Tecnologia Sonica  4 modalità di pulizia e 3 intensità  Bianco
+prodname: 'Philips Sonicare HX9911/03 DiamondClean 9000  Spazzolino Elettrico con Tecnologia Sonica  4 modalità di pulizia e 3 intensità  Bianco'
 ---
 
 Tienes [Philips Sonicare HX9911/03 DiamondClean 9000  Spazzolino Elettrico con Tecnologia Sonica  4 modalità di pulizia e 3 intensità  Bianco](https://www.amazon.it/dp/B07YCF1SDV/?tag=tolees00-21) con un 25.58 % de descuento con precio de oferta de 159.99 EUR (original: 214.99 EUR) en el siguiente enlace!

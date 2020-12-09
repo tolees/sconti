@@ -14,7 +14,7 @@ currency: EUR
 price: 55.39
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Rider Jeans Slim Uomo  Blu  Blue Days Ib  W31/L32
+prodname: 'Lee Rider Jeans Slim Uomo  Blu  Blue Days Ib  W31/L32'
 ---
 
 Está [Lee Rider Jeans Slim Uomo  Blu  Blue Days Ib  W31/L32](https://www.amazon.it/dp/B07FTKHYSP/?tag=tolees00-21) con 44.58 de descuento por 55.39 EUR (original: 99.95 EUR) en el siguiente enlace!

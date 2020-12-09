@@ -14,7 +14,7 @@ currency: EUR
 price: 36.03
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Boss Tee 4 T-Shirt  Blu  Navy 410   Large Uomo
+prodname: 'Boss Tee 4 T-Shirt  Blu  Navy 410   Large Uomo'
 ---
 
 Está [Boss Tee 4 T-Shirt  Blu  Navy 410   Large Uomo](https://www.amazon.it/dp/B07V9W8LPG/?tag=tolees00-21) con 39.90 de descuento por 36.03 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Puma Deck Waist Bag  Marsupio Unisex-Adult  Black  OSFA
+prodname: 'Puma Deck Waist Bag  Marsupio Unisex-Adult  Black  OSFA'
 ---
 
 Está [Puma Deck Waist Bag  Marsupio Unisex-Adult  Black  OSFA](https://www.amazon.it/dp/B07XKTRCMH/?tag=tolees00-21) con 49.92 de descuento por 9.99 EUR (original: 19.95 EUR) en el siguiente enlace!

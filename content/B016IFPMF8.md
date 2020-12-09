@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Philips Lighting Piantana Himroo  Lampada da Terra per Soggiorno  Salotto  Camera da Letto  Design Moderno ed Elegante  Attacco E27
+prodname: 'Philips Lighting Piantana Himroo  Lampada da Terra per Soggiorno  Salotto  Camera da Letto  Design Moderno ed Elegante  Attacco E27'
 ---
 
 Tienes [Philips Lighting Piantana Himroo  Lampada da Terra per Soggiorno  Salotto  Camera da Letto  Design Moderno ed Elegante  Attacco E27](https://www.amazon.it/dp/B016IFPMF8/?tag=tolees00-21) con un 29.88 % de descuento con precio de oferta de 34.99 EUR (original: 49.9 EUR) en el siguiente enlace!

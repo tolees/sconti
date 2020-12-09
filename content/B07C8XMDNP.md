@@ -14,7 +14,7 @@ currency: EUR
 price: 51.81
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Vans Ward  Sneaker Uomo  Nero   Canvas  Black 186   48 EU
+prodname: 'Vans Ward  Sneaker Uomo  Nero   Canvas  Black 186   48 EU'
 ---
 
 Tienes [Vans Ward  Sneaker Uomo  Nero   Canvas  Black 186   48 EU](https://www.amazon.it/dp/B07C8XMDNP/?tag=tolees00-21) con un 25.99 % de descuento con precio de oferta de 51.81 EUR (original: 70.0 EUR) en el siguiente enlace!

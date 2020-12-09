@@ -14,7 +14,7 @@ currency: EUR
 price: 17.52
 comparePrice: 28.0 EUR
 inStock: true
-prodname: Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri 
+prodname: 'Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri '
 ---
 
 Ahora mismo tienes [Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri ](https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21) a 17.52 EUR (original: 28.0 EUR) (37.43 %  de descuento) en el siguiente enlace!

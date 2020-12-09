@@ -14,7 +14,7 @@ currency: EUR
 price: 25.48
 comparePrice: 39.95 EUR
 inStock: true
-prodname: adidas Core18 Rain Jacket  Uomo  Dark Blue/White  L
+prodname: 'adidas Core18 Rain Jacket  Uomo  Dark Blue/White  L'
 ---
 
 Ahora mismo tienes [adidas Core18 Rain Jacket  Uomo  Dark Blue/White  L](https://www.amazon.it/dp/B076HMS3ZH/?tag=tolees00-21) a 25.48 EUR (original: 39.95 EUR) (36.22 %  de descuento) en el siguiente enlace!

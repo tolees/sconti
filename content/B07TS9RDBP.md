@@ -14,7 +14,7 @@ currency: EUR
 price: 57.63
 comparePrice: 80.0 EUR
 inStock: true
-prodname: SALEWA Pedroc Cargo 2 Durastretch  Pantaloncini Uomo  Nero  Black Out/3860   48/M
+prodname: 'SALEWA Pedroc Cargo 2 Durastretch  Pantaloncini Uomo  Nero  Black Out/3860   48/M'
 ---
 
 Tienes [SALEWA Pedroc Cargo 2 Durastretch  Pantaloncini Uomo  Nero  Black Out/3860   48/M](https://www.amazon.it/dp/B07TS9RDBP/?tag=tolees00-21) con un 27.96 % de descuento con precio de oferta de 57.63 EUR (original: 80.0 EUR) en el siguiente enlace!

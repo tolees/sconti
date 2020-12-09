@@ -14,7 +14,7 @@ currency: EUR
 price: 16.74
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Mattel Games Pictionary Air Gioco per Disegnare in Aria  Gioco per Famiglie  8+Anni  GPR22
+prodname: 'Mattel Games Pictionary Air Gioco per Disegnare in Aria  Gioco per Famiglie  8+Anni  GPR22'
 ---
 
 Tienes [Mattel Games Pictionary Air Gioco per Disegnare in Aria  Gioco per Famiglie  8+Anni  GPR22](https://www.amazon.it/dp/B07SZ82JNP/?tag=tolees00-21) con un 35.59 % de descuento con precio de oferta de 16.74 EUR (original: 25.99 EUR) en el siguiente enlace!

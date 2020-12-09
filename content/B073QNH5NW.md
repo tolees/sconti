@@ -14,7 +14,7 @@ currency: EUR
 price: 7.44
 comparePrice: 18.23 EUR
 inStock: true
-prodname: NIVEA Docciaschiuma Crema Creme Soft in Confezione da 6 x 250 ml  Bagnoschiuma Cremoso Arricchito con Olio di Mandorla  Delicato e Idratante
+prodname: 'NIVEA Docciaschiuma Crema Creme Soft in Confezione da 6 x 250 ml  Bagnoschiuma Cremoso Arricchito con Olio di Mandorla  Delicato e Idratante'
 ---
 
 Ahora mismo tienes [NIVEA Docciaschiuma Crema Creme Soft in Confezione da 6 x 250 ml  Bagnoschiuma Cremoso Arricchito con Olio di Mandorla  Delicato e Idratante](https://www.amazon.it/dp/B073QNH5NW/?tag=tolees00-21) a 7.44 EUR (original: 18.23 EUR) (59.19 %  de descuento) en el siguiente enlace!

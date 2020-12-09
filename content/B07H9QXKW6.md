@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 55.0 EUR
 inStock: true
-prodname: Apple Custodia in pelle  per iPhone XS  -  PRODUCT RED
+prodname: 'Apple Custodia in pelle  per iPhone XS  -  PRODUCT RED'
 ---
 
 Está [Apple Custodia in pelle  per iPhone XS  -  PRODUCT RED](https://www.amazon.it/dp/B07H9QXKW6/?tag=tolees00-21) con 30.93 de descuento por 37.99 EUR (original: 55.0 EUR) en el siguiente enlace!

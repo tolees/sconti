@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: LEGO City Great Vehicles Gatto delle Nevi  Giocattolo con Pala Spazzaneve  Set di Costruzioni per Bambini  60222
+prodname: 'LEGO City Great Vehicles Gatto delle Nevi  Giocattolo con Pala Spazzaneve  Set di Costruzioni per Bambini  60222'
 ---
 
 Ahora mismo tienes [LEGO City Great Vehicles Gatto delle Nevi  Giocattolo con Pala Spazzaneve  Set di Costruzioni per Bambini  60222](https://www.amazon.it/dp/B07FNS6P6C/?tag=tolees00-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

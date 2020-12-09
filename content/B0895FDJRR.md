@@ -14,7 +14,7 @@ currency: EUR
 price: 20.98
 comparePrice: 33.99 EUR
 inStock: true
-prodname: Automatico Dispenser di Sapone  JUSTDOLIFE Erogatore di Sapone Dispenser di Liquidi Per Sensori  Ipx3 Dispenser Impermeabile  Dispenser di Sapone Elettrico Ideale per Bambini  Adulti  Cucina etc
+prodname: 'Automatico Dispenser di Sapone  JUSTDOLIFE Erogatore di Sapone Dispenser di Liquidi Per Sensori  Ipx3 Dispenser Impermeabile  Dispenser di Sapone Elettrico Ideale per Bambini  Adulti  Cucina etc'
 ---
 
 Ahora mismo tienes [Automatico Dispenser di Sapone  JUSTDOLIFE Erogatore di Sapone Dispenser di Liquidi Per Sensori  Ipx3 Dispenser Impermeabile  Dispenser di Sapone Elettrico Ideale per Bambini  Adulti  Cucina etc](https://www.amazon.it/dp/B0895FDJRR/?tag=tolees00-21) a 20.98 EUR (original: 33.99 EUR) (38.28 %  de descuento) en el siguiente enlace!

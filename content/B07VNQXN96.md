@@ -14,7 +14,7 @@ currency: EUR
 price: 34.19
 comparePrice: 56.99 EUR
 inStock: true
-prodname: Marchio Amazon - Lifelong Alimento secco completo per cani di razza piccola con agnello fresco  ricetta senza grano - 3kg*3
+prodname: 'Marchio Amazon - Lifelong Alimento secco completo per cani di razza piccola con agnello fresco  ricetta senza grano - 3kg*3'
 ---
 
 Ahora mismo tienes [Marchio Amazon - Lifelong Alimento secco completo per cani di razza piccola con agnello fresco  ricetta senza grano - 3kg*3](https://www.amazon.it/dp/B07VNQXN96/?tag=tolees00-21) a 34.19 EUR (original: 56.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

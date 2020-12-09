@@ -14,7 +14,7 @@ currency: EUR
 price: 45.0
 comparePrice: 90.0 EUR
 inStock: true
-prodname: Birkenstock Arizona  Sandali a Punta Aperta Donna  Nero  Washed Metallic Black Washed Metallic Black   37 EU
+prodname: 'Birkenstock Arizona  Sandali a Punta Aperta Donna  Nero  Washed Metallic Black Washed Metallic Black   37 EU'
 ---
 
 Está [Birkenstock Arizona  Sandali a Punta Aperta Donna  Nero  Washed Metallic Black Washed Metallic Black   37 EU](https://www.amazon.it/dp/B07MYLX9WZ/?tag=tolees00-21) con 50.00 de descuento por 45.0 EUR (original: 90.0 EUR) en el siguiente enlace!

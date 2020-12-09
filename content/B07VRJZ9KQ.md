@@ -14,7 +14,7 @@ currency: EUR
 price: 17.5
 comparePrice: 27.08 EUR
 inStock: true
-prodname: Vans Flying V Classic LS BF Maglia a Maniche Lunghe  Nero  Black Blk   38  Taglia Produttore: X-Small  Donna
+prodname: 'Vans Flying V Classic LS BF Maglia a Maniche Lunghe  Nero  Black Blk   38  Taglia Produttore: X-Small  Donna'
 ---
 
 Está [Vans Flying V Classic LS BF Maglia a Maniche Lunghe  Nero  Black Blk   38  Taglia Produttore: X-Small  Donna](https://www.amazon.it/dp/B07VRJZ9KQ/?tag=tolees00-21) con 35.38 de descuento por 17.5 EUR (original: 27.08 EUR) en el siguiente enlace!

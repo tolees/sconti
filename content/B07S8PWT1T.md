@@ -14,7 +14,7 @@ currency: EUR
 price: 30.23
 comparePrice: 54.95 EUR
 inStock: true
-prodname: PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Rosa  Rosewater White-Gray Violet   47 EU
+prodname: 'PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Rosa  Rosewater White-Gray Violet   47 EU'
 ---
 
 Tienes [PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Rosa  Rosewater White-Gray Violet   47 EU](https://www.amazon.it/dp/B07S8PWT1T/?tag=tolees00-21) con un 44.99 % de descuento con precio de oferta de 30.23 EUR (original: 54.95 EUR) en el siguiente enlace!
