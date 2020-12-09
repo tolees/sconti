@@ -14,12 +14,10 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Está [KitKat Original Wafer Ricoperto di Cioccolato al Latte  Confezione da 24 Snack](https://www.amazon.it/dp/B01LOASKK6/?tag=tolees00-21) con 28.64 de descuento por 14.2 EUR (original: 19.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [KitKat Original Wafer Ricoperto di Cioccolato al Latte  Confezione da 24 Snack](https://www.amazon.it/dp/B01LOASKK6/?tag=tolees00-21) a 14.2 EUR (original: 19.9 EUR) (28.64 %  de descuento) en el siguiente enlace!
 
 [![KitKat Original Wafer Ricoperto di Ciocc](https://m.media-amazon.com/images/I/51CQzJcwXSL._SL200_.jpg)](https://www.amazon.it/dp/B01LOASKK6/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01LOASKK6/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B01LOASKK6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
