@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Football Manager 2020 - PC'
 ---
 
-Ahora mismo tienes [Football Manager 2020 - PC](https://www.amazon.it/dp/B07X41YYRL/?tag=tolees00-21) a 19.99 EUR (original: 44.99 EUR) (55.57 %  de descuento) en el siguiente enlace!
+Está [Football Manager 2020 - PC](https://www.amazon.it/dp/B07X41YYRL/?tag=tolees00-21) con 55.57 de descuento por 19.99 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![Football Manager 2020 - PC](https://m.media-amazon.com/images/I/51jE9H0+6KL._SL200_.jpg)](https://www.amazon.it/dp/B07X41YYRL/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07X41YYRL/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07X41YYRL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
