@@ -14,10 +14,12 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [This Is Where I Live](https://www.amazon.it/dp/B01DD02CZY/?tag=tolees00-21) a 8.84 EUR (original: 17.95 EUR) (50.75 %  de descuento) en el siguiente enlace!
+Está [This Is Where I Live](https://www.amazon.it/dp/B01DD02CZY/?tag=tolees00-21) con 50.75 de descuento por 8.84 EUR (original: 17.95 EUR) en el siguiente enlace!
 
 [![This Is Where I Live](https://m.media-amazon.com/images/I/51cmMfDLMoL._SL200_.jpg)](https://www.amazon.it/dp/B01DD02CZY/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B01DD02CZY/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01DD02CZY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
