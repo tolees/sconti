@@ -14,10 +14,12 @@ comparePrice: 39.89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brandit Savage Vintage Shorts Pantaloncini  Schwarz  M Uomo](https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21) a 29.86 EUR (original: 39.89 EUR) (25.14 %  de descuento) en el siguiente enlace!
+Está [Brandit Savage Vintage Shorts Pantaloncini  Schwarz  M Uomo](https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21) con 25.14 de descuento por 29.86 EUR (original: 39.89 EUR) en el siguiente enlace!
 
 [![Brandit Savage Vintage Shorts Pantalonci](https://m.media-amazon.com/images/I/5149CtxO6vL._SL200_.jpg)](https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
