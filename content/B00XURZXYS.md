@@ -14,10 +14,12 @@ comparePrice: 1.59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tuc Cracker Salato con Rosmarino ed Erbe Aromatiche  250g](https://www.amazon.it/dp/B00XURZXYS/?tag=tolees00-21) a 1.19 EUR (original: 1.59 EUR) (25.16 %  de descuento) en el siguiente enlace!
+Está [Tuc Cracker Salato con Rosmarino ed Erbe Aromatiche  250g](https://www.amazon.it/dp/B00XURZXYS/?tag=tolees00-21) con 25.16 de descuento por 1.19 EUR (original: 1.59 EUR) en el siguiente enlace!
 
 [![Tuc Cracker Salato con Rosmarino ed Erbe](https://m.media-amazon.com/images/I/518GuGQPGnL._SL200_.jpg)](https://www.amazon.it/dp/B00XURZXYS/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00XURZXYS/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00XURZXYS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

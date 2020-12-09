@@ -14,10 +14,12 @@ comparePrice: 69.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox J Casey Girl N  Scarpe Stringate Basse Brogue  Nero  Black   35 EU](https://www.amazon.it/dp/B06XG6YNB7/?tag=tolees00-21) a 45.56 EUR (original: 69.9 EUR) (34.82 %  de descuento) en el siguiente enlace!
+Está [Geox J Casey Girl N  Scarpe Stringate Basse Brogue  Nero  Black   35 EU](https://www.amazon.it/dp/B06XG6YNB7/?tag=tolees00-21) con 34.82 de descuento por 45.56 EUR (original: 69.9 EUR) en el siguiente enlace!
 
 [![Geox J Casey Girl N  Scarpe Stringate Ba](https://m.media-amazon.com/images/I/41JVcGKeXeL._SL200_.jpg)](https://www.amazon.it/dp/B06XG6YNB7/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B06XG6YNB7/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B06XG6YNB7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
