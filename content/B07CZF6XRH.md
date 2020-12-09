@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Under Armour Playoff 2.0  Polo Uomo  Nero  Black/Jet Gray/Pitch Gray 003   L'
 ---
 
-Ahora mismo tienes [Under Armour Playoff 2.0  Polo Uomo  Nero  Black/Jet Gray/Pitch Gray 003   L](https://www.amazon.it/dp/B07CZF6XRH/?tag=tolees00-21) a 26.15 EUR (original: 44.95 EUR) (41.82 %  de descuento) en el siguiente enlace!
+Está [Under Armour Playoff 2.0  Polo Uomo  Nero  Black/Jet Gray/Pitch Gray 003   L](https://www.amazon.it/dp/B07CZF6XRH/?tag=tolees00-21) con 41.82 de descuento por 26.15 EUR (original: 44.95 EUR) en el siguiente enlace!
 
 [![Under Armour Playoff 2.0  Polo Uomo  Ner](https://m.media-amazon.com/images/I/51UzOErl7iL._SL200_.jpg)](https://www.amazon.it/dp/B07CZF6XRH/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07CZF6XRH/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07CZF6XRH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

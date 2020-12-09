@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Timberland Nellie Chukka Leather Sde  Stivali Donna  Giallo Wheat Nubuck  38.5 EU'
 ---
 
-Ahora mismo tienes [Timberland Nellie Chukka Leather Sde  Stivali Donna  Giallo Wheat Nubuck  38.5 EU](https://www.amazon.it/dp/B073XHYXX7/?tag=tolees00-21) a 89.99 EUR (original: 140.0 EUR) (35.72 %  de descuento) en el siguiente enlace!
+Está [Timberland Nellie Chukka Leather Sde  Stivali Donna  Giallo Wheat Nubuck  38.5 EU](https://www.amazon.it/dp/B073XHYXX7/?tag=tolees00-21) con 35.72 de descuento por 89.99 EUR (original: 140.0 EUR) en el siguiente enlace!
 
 [![Timberland Nellie Chukka Leather Sde  St](https://m.media-amazon.com/images/I/41Hw7I2dRgL._SL200_.jpg)](https://www.amazon.it/dp/B073XHYXX7/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B073XHYXX7/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B073XHYXX7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
