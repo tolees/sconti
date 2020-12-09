@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Solaris  1972 '
 ---
 
-Está [Solaris  1972 ](https://www.amazon.it/dp/B00GD8PPEY/?tag=tolees00-21) con 48.63 de descuento por 6.2 EUR (original: 12.07 EUR) en el siguiente enlace!
+Ahora mismo tienes [Solaris  1972 ](https://www.amazon.it/dp/B00GD8PPEY/?tag=tolees00-21) a 6.2 EUR (original: 12.07 EUR) (48.63 %  de descuento) en el siguiente enlace!
 
 [![Solaris  1972 ](https://m.media-amazon.com/images/I/51j4nqTAIEL._SL200_.jpg)](https://www.amazon.it/dp/B00GD8PPEY/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00GD8PPEY/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B00GD8PPEY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
