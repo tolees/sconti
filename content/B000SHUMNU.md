@@ -14,12 +14,10 @@ comparePrice: 24.8 EUR
 inStock: true
 ---
 
-Está [Pentel Pen N50 Marcatore Permanente Punta Conica Nero 12 Pezzi](https://www.amazon.it/dp/B000SHUMNU/?tag=tolees00-21) con 30.81 de descuento por 17.16 EUR (original: 24.8 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pentel Pen N50 Marcatore Permanente Punta Conica Nero 12 Pezzi](https://www.amazon.it/dp/B000SHUMNU/?tag=tolees00-21) a 17.16 EUR (original: 24.8 EUR) (30.81 %  de descuento) en el siguiente enlace!
 
 [![Pentel Pen N50 Marcatore Permanente Punt](https://m.media-amazon.com/images/I/31PZKU9l+EL._SL200_.jpg)](https://www.amazon.it/dp/B000SHUMNU/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B000SHUMNU/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B000SHUMNU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
