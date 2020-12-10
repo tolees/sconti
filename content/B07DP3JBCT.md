@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.20 % en Eastpak Padded Pak R Zaino  40 Cm  24 L '
-date: 2020-12-08 02:41:30
+date: 2020-12-10 02:59:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xlVUp8ffL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xlVUp8ffL._SL200_.jpg' ]
 comments: true
