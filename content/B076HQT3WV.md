@@ -17,12 +17,10 @@ inStock: true
 prodname: 'adidas Core 18 SS  Felpa Uomo  Grigio  Dark Grey Heather/Black   S'
 ---
 
-Está [adidas Core 18 SS  Felpa Uomo  Grigio  Dark Grey Heather/Black   S](https://www.amazon.it/dp/B076HQT3WV/?tag=tolees00-21) con 33.73 de descuento por 26.5 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Core 18 SS  Felpa Uomo  Grigio  Dark Grey Heather/Black   S](https://www.amazon.it/dp/B076HQT3WV/?tag=tolees00-21) a 26.5 EUR (original: 39.99 EUR) (33.73 %  de descuento) en el siguiente enlace!
 
 [![adidas Core 18 SS  Felpa Uomo  Grigio  D](https://m.media-amazon.com/images/I/516q61AOW2L._SL200_.jpg)](https://www.amazon.it/dp/B076HQT3WV/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B076HQT3WV/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B076HQT3WV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

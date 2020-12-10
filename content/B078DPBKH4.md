@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato - 1 confezione da 6 Pezzi'
 ---
 
-Ahora mismo tienes [Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato - 1 confezione da 6 Pezzi](https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21) a 1.49 EUR (original: 1.99 EUR) (25.13 %  de descuento) en el siguiente enlace!
+Está [Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato - 1 confezione da 6 Pezzi](https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21) con 25.13 de descuento por 1.49 EUR (original: 1.99 EUR) en el siguiente enlace!
 
 [![Nutella B-ready T6 Cialda di Pane Ripien](https://m.media-amazon.com/images/I/518YMWOaxFL._SL200_.jpg)](https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

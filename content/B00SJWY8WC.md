@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Nymphomaniac  Director S Cut '
 ---
 
-Está [Nymphomaniac  Director S Cut ](https://www.amazon.it/dp/B00SJWY8WC/?tag=tolees00-21) con 35.78 de descuento por 7.7 EUR (original: 11.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nymphomaniac  Director S Cut ](https://www.amazon.it/dp/B00SJWY8WC/?tag=tolees00-21) a 7.7 EUR (original: 11.99 EUR) (35.78 %  de descuento) en el siguiente enlace!
 
 [![Nymphomaniac  Director S Cut ](https://m.media-amazon.com/images/I/41pX5ltInzL._SL200_.jpg)](https://www.amazon.it/dp/B00SJWY8WC/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00SJWY8WC/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B00SJWY8WC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
