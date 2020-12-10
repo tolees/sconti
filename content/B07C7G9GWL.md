@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Beerbongs & Bentleys'
 ---
 
-Ahora mismo tienes [Beerbongs & Bentleys](https://www.amazon.it/dp/B07C7G9GWL/?tag=tolees00-21) a 7.19 EUR (original: 9.99 EUR) (28.03 %  de descuento) en el siguiente enlace!
+Está [Beerbongs & Bentleys](https://www.amazon.it/dp/B07C7G9GWL/?tag=tolees00-21) con 28.03 de descuento por 7.19 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Beerbongs & Bentleys](https://m.media-amazon.com/images/I/51gemPi9G+L._SL200_.jpg)](https://www.amazon.it/dp/B07C7G9GWL/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07C7G9GWL/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07C7G9GWL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

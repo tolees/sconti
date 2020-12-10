@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Joker'
 ---
 
-Ahora mismo tienes [Joker](https://www.amazon.it/dp/B07Z87TBKX/?tag=tolees00-21) a 9.49 EUR (original: 16.99 EUR) (44.14 %  de descuento) en el siguiente enlace!
+Está [Joker](https://www.amazon.it/dp/B07Z87TBKX/?tag=tolees00-21) con 44.14 de descuento por 9.49 EUR (original: 16.99 EUR) en el siguiente enlace!
 
 [![Joker](https://m.media-amazon.com/images/I/51K+z1fn-7L._SL200_.jpg)](https://www.amazon.it/dp/B07Z87TBKX/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07Z87TBKX/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07Z87TBKX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
