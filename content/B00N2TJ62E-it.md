@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yankee Candle Angels Wings - Candela Pro al 43.40 % de descuento'
-date: 2020-12-07 08:47:35
+date: 2020-12-10 22:52:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+3gNp716L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+3gNp716L._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,14 @@ country: 'it'
 Está [Yankee Candle Angels Wings - Candela Profumata  Vaniglia  Giara grande  10.7 x 16.8 cm ](https://www.amazon.it/dp/B00N2TJ62E/?tag=tolees00-21) con 43.40 de descuento por 19.99 EUR (original: 35.32 EUR) en el siguiente enlace!
 
 [![Yankee Candle Angels Wings - Candela Pro](https://m.media-amazon.com/images/I/41+3gNp716L._SL200_.jpg)](https://www.amazon.it/dp/B00N2TJ62E/?tag=tolees00-21)
+
+Principales características:
+
+- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- Durata della candela: da 110 a 150 ore di piacevole profumazione
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Il morale va alle stelle con questo arioso aroma di dolce zucchero filato, petali di fiori celesti e vaniglia divinamente vellutata
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00N2TJ62E/?tag=tolees00-21)
 

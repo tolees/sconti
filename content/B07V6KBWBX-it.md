@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spider-Man: Far From Home al 48.02 % de descuento'
-date: 2020-12-09 02:42:28
+date: 2020-12-10 22:51:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Dlfe1m+NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Dlfe1m+NL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,12 @@ country: 'it'
 Está [Spider-Man: Far From Home](https://www.amazon.it/dp/B07V6KBWBX/?tag=tolees00-21) con 48.02 de descuento por 10.39 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Spider-Man: Far From Home](https://m.media-amazon.com/images/I/51Dlfe1m+NL._SL200_.jpg)](https://www.amazon.it/dp/B07V6KBWBX/?tag=tolees00-21)
+
+Principales características:
+
+- Blu-Ray disco singolo
+- contiene oltre 1 ora di Contenuti Speciali
+- “Uno dei migliori traguardi del Marvel Cinematic Universe”
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07V6KBWBX/?tag=tolees00-21)
 
