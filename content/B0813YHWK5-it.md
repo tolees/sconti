@@ -18,12 +18,10 @@ prodname: 'adidas Lite Racer 2.0  Scarpe da Corsa Mens  Core Black/Ftwr White/Co
 country: 'it'
 ---
 
-Está [adidas Lite Racer 2.0  Scarpe da Corsa Mens  Core Black/Ftwr White/Core Black  45 1/3 EU](https://www.amazon.it/dp/B0813YHWK5/?tag=tolees00-21) con 49.55 de descuento por 27.72 EUR (original: 54.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Lite Racer 2.0  Scarpe da Corsa Mens  Core Black/Ftwr White/Core Black  45 1/3 EU](https://www.amazon.it/dp/B0813YHWK5/?tag=tolees00-21) a 27.72 EUR (original: 54.95 EUR) (49.55 %  de descuento) en el siguiente enlace!
 
 [![adidas Lite Racer 2.0  Scarpe da Corsa M](https://m.media-amazon.com/images/I/41IHdw3d7xL._SL200_.jpg)](https://www.amazon.it/dp/B0813YHWK5/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B0813YHWK5/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B0813YHWK5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

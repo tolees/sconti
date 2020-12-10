@@ -18,12 +18,10 @@ prodname: 'Yves Saint Laurent e Eau de Toilette 100 ml'
 country: 'it'
 ---
 
-Está [Yves Saint Laurent e Eau de Toilette 100 ml](https://www.amazon.it/dp/B072K2K3SB/?tag=tolees00-21) con 42.44 de descuento por 59.0 EUR (original: 102.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Yves Saint Laurent e Eau de Toilette 100 ml](https://www.amazon.it/dp/B072K2K3SB/?tag=tolees00-21) a 59.0 EUR (original: 102.5 EUR) (42.44 %  de descuento) en el siguiente enlace!
 
 [![Yves Saint Laurent e Eau de Toilette 100](https://m.media-amazon.com/images/I/412b5kAcPCL._SL200_.jpg)](https://www.amazon.it/dp/B072K2K3SB/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B072K2K3SB/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B072K2K3SB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

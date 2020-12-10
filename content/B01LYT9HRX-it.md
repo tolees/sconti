@@ -18,10 +18,12 @@ prodname: 'Rio Mare  Filetti di Tonno all Olio Extravergine di Oliva  Lavorati a
 country: 'it'
 ---
 
-Ahora mismo tienes [Rio Mare  Filetti di Tonno all Olio Extravergine di Oliva  Lavorati a Mano  1 Vasetto da 180 g](https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21) a 2.99 EUR (original: 5.49 EUR) (45.54 %  de descuento) en el siguiente enlace!
+Está [Rio Mare  Filetti di Tonno all Olio Extravergine di Oliva  Lavorati a Mano  1 Vasetto da 180 g](https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21) con 45.54 de descuento por 2.99 EUR (original: 5.49 EUR) en el siguiente enlace!
 
 [![Rio Mare  Filetti di Tonno all Olio Extr](https://m.media-amazon.com/images/I/51Kcex7rtjL._SL200_.jpg)](https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

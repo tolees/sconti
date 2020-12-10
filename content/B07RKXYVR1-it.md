@@ -18,12 +18,10 @@ prodname: 'adidas Stan Smith J  Scarpe da Ginnastica  Ftwr White/Ftwr White/Core
 country: 'it'
 ---
 
-Está [adidas Stan Smith J  Scarpe da Ginnastica  Ftwr White/Ftwr White/Core Black  36 2/3 EU](https://www.amazon.it/dp/B07RKXYVR1/?tag=tolees00-21) con 60.29 de descuento por 25.79 EUR (original: 64.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Stan Smith J  Scarpe da Ginnastica  Ftwr White/Ftwr White/Core Black  36 2/3 EU](https://www.amazon.it/dp/B07RKXYVR1/?tag=tolees00-21) a 25.79 EUR (original: 64.95 EUR) (60.29 %  de descuento) en el siguiente enlace!
 
 [![adidas Stan Smith J  Scarpe da Ginnastic](https://m.media-amazon.com/images/I/319glUP5hvL._SL200_.jpg)](https://www.amazon.it/dp/B07RKXYVR1/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07RKXYVR1/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07RKXYVR1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

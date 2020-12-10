@@ -18,10 +18,12 @@ prodname: 'Doria Atene Biscotti Frollini Classici Il Frollino  500g'
 country: 'it'
 ---
 
-Ahora mismo tienes [Doria Atene Biscotti Frollini Classici Il Frollino  500g](https://www.amazon.it/dp/B00F7P4RY8/?tag=tolees00-21) a 1.08 EUR (original: 3.26 EUR) (66.87 %  de descuento) en el siguiente enlace!
+Está [Doria Atene Biscotti Frollini Classici Il Frollino  500g](https://www.amazon.it/dp/B00F7P4RY8/?tag=tolees00-21) con 66.87 de descuento por 1.08 EUR (original: 3.26 EUR) en el siguiente enlace!
 
 [![Doria Atene Biscotti Frollini Classici I](https://m.media-amazon.com/images/I/41jze1uHxVL._SL200_.jpg)](https://www.amazon.it/dp/B00F7P4RY8/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00F7P4RY8/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00F7P4RY8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

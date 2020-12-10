@@ -18,10 +18,12 @@ prodname: '17Tek STEM Educational Solar Robot - Green Energy Kit di energia sola
 country: 'it'
 ---
 
-Ahora mismo tienes [17Tek STEM Educational Solar Robot - Green Energy Kit di energia solare di scienza  B ](https://www.amazon.it/dp/B083QFV8M6/?tag=tolees00-21) a 24.85 EUR (original: 42.77 EUR) (41.90 %  de descuento) en el siguiente enlace!
+Está [17Tek STEM Educational Solar Robot - Green Energy Kit di energia solare di scienza  B ](https://www.amazon.it/dp/B083QFV8M6/?tag=tolees00-21) con 41.90 de descuento por 24.85 EUR (original: 42.77 EUR) en el siguiente enlace!
 
 [![17Tek STEM Educational Solar Robot - Gre](https://m.media-amazon.com/images/I/51NROPHT7RL._SL200_.jpg)](https://www.amazon.it/dp/B083QFV8M6/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B083QFV8M6/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B083QFV8M6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

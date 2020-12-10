@@ -18,10 +18,12 @@ prodname: 'LEGO Disney Frozen II Il villaggio del Castello di Arendelle c
 country: 'it'
 ---
 
-Ahora mismo tienes [LEGO Disney Frozen II Il villaggio del Castello di Arendelle con Mini-doll della Principessa Anna  Elsa e Kristoff  Mercato e Barca a Remi  Gatto e 2 Uccelli  Set di Costruzioni per Bambini  41167](https://www.amazon.it/dp/B07ND9RDRV/?tag=tolees00-21) a 59.9 EUR (original: 79.99 EUR) (25.12 %  de descuento) en el siguiente enlace!
+Está [LEGO Disney Frozen II Il villaggio del Castello di Arendelle con Mini-doll della Principessa Anna  Elsa e Kristoff  Mercato e Barca a Remi  Gatto e 2 Uccelli  Set di Costruzioni per Bambini  41167](https://www.amazon.it/dp/B07ND9RDRV/?tag=tolees00-21) con 25.12 de descuento por 59.9 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![LEGO Disney Frozen II Il villaggio del C](https://m.media-amazon.com/images/I/51ijWY3BBlL._SL200_.jpg)](https://www.amazon.it/dp/B07ND9RDRV/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07ND9RDRV/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07ND9RDRV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
