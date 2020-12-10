@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lee Luke Jeans Slim  Blu  Dark Stonewash 46   W31/L34  Taglia Unica: 31/34  Uomo'
 ---
 
-Ahora mismo tienes [Lee Luke Jeans Slim  Blu  Dark Stonewash 46   W31/L34  Taglia Unica: 31/34  Uomo](https://www.amazon.it/dp/B07VLPBH7X/?tag=tolees00-21) a 35.99 EUR (original: 85.0 EUR) (57.66 %  de descuento) en el siguiente enlace!
+Está [Lee Luke Jeans Slim  Blu  Dark Stonewash 46   W31/L34  Taglia Unica: 31/34  Uomo](https://www.amazon.it/dp/B07VLPBH7X/?tag=tolees00-21) con 57.66 de descuento por 35.99 EUR (original: 85.0 EUR) en el siguiente enlace!
 
 [![Lee Luke Jeans Slim  Blu  Dark Stonewash](https://m.media-amazon.com/images/I/41E+eiUS2OL._SL200_.jpg)](https://www.amazon.it/dp/B07VLPBH7X/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07VLPBH7X/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07VLPBH7X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
