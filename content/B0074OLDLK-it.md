@@ -18,10 +18,12 @@ prodname: 'Katy Perry Meow  Eau de Parfum spray  100 ml'
 country: 'it'
 ---
 
-Ahora mismo tienes [Katy Perry Meow  Eau de Parfum spray  100 ml](https://www.amazon.it/dp/B0074OLDLK/?tag=tolees00-21) a 13.44 EUR (original: 18.8 EUR) (28.51 %  de descuento) en el siguiente enlace!
+Está [Katy Perry Meow  Eau de Parfum spray  100 ml](https://www.amazon.it/dp/B0074OLDLK/?tag=tolees00-21) con 28.51 de descuento por 13.44 EUR (original: 18.8 EUR) en el siguiente enlace!
 
 [![Katy Perry Meow  Eau de Parfum spray  10](https://m.media-amazon.com/images/I/41vlncXko5L._SL200_.jpg)](https://www.amazon.it/dp/B0074OLDLK/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B0074OLDLK/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B0074OLDLK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

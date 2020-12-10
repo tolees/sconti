@@ -18,10 +18,12 @@ prodname: 'The Town'
 country: 'it'
 ---
 
-Ahora mismo tienes [The Town](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21) a 11.9 EUR (original: 29.99 EUR) (60.32 %  de descuento) en el siguiente enlace!
+Está [The Town](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21) con 60.32 de descuento por 11.9 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![The Town](https://m.media-amazon.com/images/I/51FxcM69FjL._SL200_.jpg)](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

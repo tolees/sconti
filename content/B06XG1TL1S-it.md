@@ -18,12 +18,10 @@ prodname: 'Barilla - Sugo Salsa Classica  con Pomodoro e Olio Extra Vergine di O
 country: 'it'
 ---
 
-Está [Barilla - Sugo Salsa Classica  con Pomodoro e Olio Extra Vergine di Oliva  Senza Glutine - 300 g](https://www.amazon.it/dp/B06XG1TL1S/?tag=tolees00-21) con 28.78 de descuento por 0.99 EUR (original: 1.39 EUR) en el siguiente enlace!
+Ahora mismo tienes [Barilla - Sugo Salsa Classica  con Pomodoro e Olio Extra Vergine di Oliva  Senza Glutine - 300 g](https://www.amazon.it/dp/B06XG1TL1S/?tag=tolees00-21) a 0.99 EUR (original: 1.39 EUR) (28.78 %  de descuento) en el siguiente enlace!
 
 [![Barilla - Sugo Salsa Classica  con Pomod](https://m.media-amazon.com/images/I/41muxeyZ-wL._SL200_.jpg)](https://www.amazon.it/dp/B06XG1TL1S/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B06XG1TL1S/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B06XG1TL1S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

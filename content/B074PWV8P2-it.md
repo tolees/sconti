@@ -18,10 +18,12 @@ prodname: 'Vino Spumante Rosé Royal Montresor'
 country: 'it'
 ---
 
-Ahora mismo tienes [Vino Spumante Rosé Royal Montresor](https://www.amazon.it/dp/B074PWV8P2/?tag=tolees00-21) a 5.7 EUR (original: 9.5 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Está [Vino Spumante Rosé Royal Montresor](https://www.amazon.it/dp/B074PWV8P2/?tag=tolees00-21) con 40.00 de descuento por 5.7 EUR (original: 9.5 EUR) en el siguiente enlace!
 
 [![Vino Spumante Rosé Royal Montresor](https://m.media-amazon.com/images/I/41aSbveo-PL._SL200_.jpg)](https://www.amazon.it/dp/B074PWV8P2/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B074PWV8P2/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B074PWV8P2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Aigostar Lampadina LED GU10 6W  Luce Bianca Fredda 6400K 440 Lumen  A
 country: 'it'
 ---
 
-Ahora mismo tienes [Aigostar Lampadina LED GU10 6W  Luce Bianca Fredda 6400K 440 Lumen  Angolo a Fascio 120-160 Gradi  Nessun Sfarfallio Non Dimmerabile  Pacco da 5](https://www.amazon.it/dp/B010QX7KF8/?tag=tolees00-21) a 9.89 EUR (original: 13.19 EUR) (25.02 %  de descuento) en el siguiente enlace!
+Está [Aigostar Lampadina LED GU10 6W  Luce Bianca Fredda 6400K 440 Lumen  Angolo a Fascio 120-160 Gradi  Nessun Sfarfallio Non Dimmerabile  Pacco da 5](https://www.amazon.it/dp/B010QX7KF8/?tag=tolees00-21) con 25.02 de descuento por 9.89 EUR (original: 13.19 EUR) en el siguiente enlace!
 
 [![Aigostar Lampadina LED GU10 6W  Luce Bia](https://m.media-amazon.com/images/I/41Bvm3VjVjL._SL200_.jpg)](https://www.amazon.it/dp/B010QX7KF8/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B010QX7KF8/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B010QX7KF8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
