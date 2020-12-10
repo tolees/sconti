@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 40.00 % en Braun Series 6 60-B4500cs Rasoio Elettri'
+date: 2020-10-11 08:07:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/51VXugdCjdL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51VXugdCjdL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B085CXTV68-it'
+description:
+actualPrice: 126.0 EUR
+currency: EUR
+price: 126.0
+comparePrice: 209.99 EUR
+inStock: true
+prodname: 'Braun Series 6 60-B4500cs Rasoio Elettrico Barba con Base di Ricarica  Regolabarba  Wet&Dry  Ricaricabile  Rasoio a Lamina senza Fili  Blu'
+country: 'it'
+---
+
+Tienes [Braun Series 6 60-B4500cs Rasoio Elettrico Barba con Base di Ricarica  Regolabarba  Wet&Dry  Ricaricabile  Rasoio a Lamina senza Fili  Blu](https://www.amazon.it/dp/B085CXTV68/?tag=tolees00-21) con un 40.00 % de descuento con precio de oferta de 126.0 EUR (original: 209.99 EUR) en el siguiente enlace!
+
+[![Braun Series 6 60-B4500cs Rasoio Elettri](https://m.media-amazon.com/images/I/51VXugdCjdL._SL200_.jpg)](https://www.amazon.it/dp/B085CXTV68/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B085CXTV68/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

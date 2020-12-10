@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 40.00 % en Essse Caffè PF 2061 Macchina da caffè S.'
+date: 2020-12-02 10:09:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/410bMolOE0L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/410bMolOE0L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01KA05N2Y-it'
+description:
+actualPrice: 47.4 EUR
+currency: EUR
+price: 47.4
+comparePrice: 79.0 EUR
+inStock: true
+prodname: 'Essse Caffè PF 2061 Macchina da caffè S.12  1100 W  1 Liter  Plastica  Bianca'
+country: 'it'
+---
+
+Tienes [Essse Caffè PF 2061 Macchina da caffè S.12  1100 W  1 Liter  Plastica  Bianca](https://www.amazon.it/dp/B01KA05N2Y/?tag=tolees00-21) con un 40.00 % de descuento con precio de oferta de 47.4 EUR (original: 79.0 EUR) en el siguiente enlace!
+
+[![Essse Caffè PF 2061 Macchina da caffè S.](https://m.media-amazon.com/images/I/410bMolOE0L._SL200_.jpg)](https://www.amazon.it/dp/B01KA05N2Y/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B01KA05N2Y/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

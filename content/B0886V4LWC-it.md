@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Helly Hansen Verglas Icefall Down Jacket al 40.00 % de descuento'
+date: 2020-11-20 18:25:52
+thumbnailImage: 'https://m.media-amazon.com/images/I/41PXz7kWA+L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41PXz7kWA+L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0886V4LWC-it'
+description:
+actualPrice: 145.52 EUR
+currency: EUR
+price: 145.52
+comparePrice: 242.53 EUR
+inStock: true
+prodname: 'Helly Hansen Verglas Icefall Down Jacket  Doudoune Uomo  Black  L'
+country: 'it'
+---
+
+Está [Helly Hansen Verglas Icefall Down Jacket  Doudoune Uomo  Black  L](https://www.amazon.it/dp/B0886V4LWC/?tag=tolees00-21) con 40.00 de descuento por 145.52 EUR (original: 242.53 EUR) en el siguiente enlace!
+
+[![Helly Hansen Verglas Icefall Down Jacket](https://m.media-amazon.com/images/I/41PXz7kWA+L._SL200_.jpg)](https://www.amazon.it/dp/B0886V4LWC/?tag=tolees00-21)
+
+[Ver la oferta!!](https://www.amazon.it/dp/B0886V4LWC/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

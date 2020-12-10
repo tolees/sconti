@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Vans Colorblock Tee T-Shirt  Multicolore al 40.00 % de descuento'
+date: 2020-07-22 06:40:48
+thumbnailImage: 'https://m.media-amazon.com/images/I/31ixlDh8EkL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31ixlDh8EkL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07YCHT464-it'
+description:
+actualPrice: 15.0 EUR
+currency: EUR
+price: 15.0
+comparePrice: 25.0 EUR
+inStock: true
+prodname: 'Vans Colorblock Tee T-Shirt  Multicolore  Ash Heather/Black Rp5   Medium Uomo'
+country: 'it'
+---
+
+Está [Vans Colorblock Tee T-Shirt  Multicolore  Ash Heather/Black Rp5   Medium Uomo](https://www.amazon.it/dp/B07YCHT464/?tag=tolees00-21) con 40.00 de descuento por 15.0 EUR (original: 25.0 EUR) en el siguiente enlace!
+
+[![Vans Colorblock Tee T-Shirt  Multicolore](https://m.media-amazon.com/images/I/31ixlDh8EkL._SL200_.jpg)](https://www.amazon.it/dp/B07YCHT464/?tag=tolees00-21)
+
+[Ver la oferta!!](https://www.amazon.it/dp/B07YCHT464/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

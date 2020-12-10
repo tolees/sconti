@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Xiaomi Mi 10 Lite -Smartphone 6.57" FHD+ al 25.23 % de descuento'
+date: 2020-12-03 18:59:47
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Va1J1Qq-L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Va1J1Qq-L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B086R5SS7S-it'
+description:
+actualPrice: 298.99 EUR
+currency: EUR
+price: 298.99
+comparePrice: 399.9 EUR
+inStock: true
+prodname: 'Xiaomi Mi 10 Lite -Smartphone 6.57" FHD+ DotDisplay  6GB RAM  128GB ROM  Quad Camera   4160mah Batteria  2020 [Versione Italiana] - Colore Dream White'
+country: 'it'
+---
+
+Está [Xiaomi Mi 10 Lite -Smartphone 6.57" FHD+ DotDisplay  6GB RAM  128GB ROM  Quad Camera   4160mah Batteria  2020 [Versione Italiana] - Colore Dream White](https://www.amazon.it/dp/B086R5SS7S/?tag=tolees00-21) con 25.23 de descuento por 298.99 EUR (original: 399.9 EUR) en el siguiente enlace!
+
+[![Xiaomi Mi 10 Lite -Smartphone 6.57" FHD+](https://m.media-amazon.com/images/I/41Va1J1Qq-L._SL200_.jpg)](https://www.amazon.it/dp/B086R5SS7S/?tag=tolees00-21)
+
+[Ver la oferta!!](https://www.amazon.it/dp/B086R5SS7S/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

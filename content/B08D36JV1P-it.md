@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'BOMIZI Cover Xiaomi Mi 9 Custodia Traspa al 45.48 % de descuento'
+date: 2020-08-19 16:33:11
+thumbnailImage: 'https://m.media-amazon.com/images/I/41khHn3m1lL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41khHn3m1lL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B08D36JV1P-it'
+description:
+actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
+comparePrice: 21.99 EUR
+inStock: true
+prodname: 'BOMIZI Cover Xiaomi Mi 9 Custodia Trasparente TPU Morbido Flessibile Silicone Antiurto Sottile con Anello Girevole per Supporto Magnetica Auto Slim Case per Xiaomi Mi9 6 39 Pollici - Rosso'
+country: 'it'
+---
+
+Está [BOMIZI Cover Xiaomi Mi 9 Custodia Trasparente TPU Morbido Flessibile Silicone Antiurto Sottile con Anello Girevole per Supporto Magnetica Auto Slim Case per Xiaomi Mi9 6 39 Pollici - Rosso](https://www.amazon.it/dp/B08D36JV1P/?tag=tolees00-21) con 45.48 de descuento por 11.99 EUR (original: 21.99 EUR) en el siguiente enlace!
+
+[![BOMIZI Cover Xiaomi Mi 9 Custodia Traspa](https://m.media-amazon.com/images/I/41khHn3m1lL._SL200_.jpg)](https://www.amazon.it/dp/B08D36JV1P/?tag=tolees00-21)
+
+[Ver la oferta!!](https://www.amazon.it/dp/B08D36JV1P/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

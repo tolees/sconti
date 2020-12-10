@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 32.84 % en Geox D Ophira C  Scarpe da Ginnastica Ba'
+date: 2020-10-08 10:09:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/419mBbidUhL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/419mBbidUhL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07SSK31DX-it'
+description:
+actualPrice: 26.56 EUR
+currency: EUR
+price: 26.56
+comparePrice: 39.55 EUR
+inStock: true
+prodname: 'Geox D Ophira C  Scarpe da Ginnastica Basse Donna  Argento  Lt Grey/Silver C1355   40 EU'
+country: 'it'
+---
+
+Tienes [Geox D Ophira C  Scarpe da Ginnastica Basse Donna  Argento  Lt Grey/Silver C1355   40 EU](https://www.amazon.it/dp/B07SSK31DX/?tag=tolees00-21) con un 32.84 % de descuento con precio de oferta de 26.56 EUR (original: 39.55 EUR) en el siguiente enlace!
+
+[![Geox D Ophira C  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/419mBbidUhL._SL200_.jpg)](https://www.amazon.it/dp/B07SSK31DX/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B07SSK31DX/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

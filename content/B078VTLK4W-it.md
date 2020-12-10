@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 30.02 % en atFoliX Pellicola Protettiva per Mediaco'
+date: 2020-10-27 12:02:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/51SwqexaS7L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51SwqexaS7L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B078VTLK4W-it'
+description:
+actualPrice: 11.19 EUR
+currency: EUR
+price: 11.19
+comparePrice: 15.99 EUR
+inStock: true
+prodname: 'atFoliX Pellicola Protettiva per Mediacom SmartPad HX 10 HD Protezione Pellicola dello Schermo  antiriflesso e Ammortizzante FX Pellicola Proteggi  2X '
+country: 'it'
+---
+
+Tienes [atFoliX Pellicola Protettiva per Mediacom SmartPad HX 10 HD Protezione Pellicola dello Schermo  antiriflesso e Ammortizzante FX Pellicola Proteggi  2X ](https://www.amazon.it/dp/B078VTLK4W/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 11.19 EUR (original: 15.99 EUR) en el siguiente enlace!
+
+[![atFoliX Pellicola Protettiva per Mediaco](https://m.media-amazon.com/images/I/51SwqexaS7L._SL200_.jpg)](https://www.amazon.it/dp/B078VTLK4W/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B078VTLK4W/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 47.19 % en Rapid 40107334 Set di ugelli con Le inco'
+date: 2020-10-09 03:53:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/51t3qyHSjBL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51t3qyHSjBL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00C7QSI1S-it'
+description:
+actualPrice: 12.49 EUR
+currency: EUR
+price: 12.49
+comparePrice: 23.65 EUR
+inStock: true
+prodname: 'Rapid 40107334 Set di ugelli con Le incollatrici  240 V  Blu  Accessori'
+country: 'it'
+---
+
+Tienes [Rapid 40107334 Set di ugelli con Le incollatrici  240 V  Blu  Accessori](https://www.amazon.it/dp/B00C7QSI1S/?tag=tolees00-21) con un 47.19 % de descuento con precio de oferta de 12.49 EUR (original: 23.65 EUR) en el siguiente enlace!
+
+[![Rapid 40107334 Set di ugelli con Le inco](https://m.media-amazon.com/images/I/51t3qyHSjBL._SL200_.jpg)](https://www.amazon.it/dp/B00C7QSI1S/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B00C7QSI1S/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

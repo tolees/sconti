@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Levi s 502 Taper Jeans  Stonewash Stretc al 37.79 % de descuento'
+date: 2020-11-09 16:58:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/41o8oQGo60L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41o8oQGo60L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07RXKZSM6-it'
+description:
+actualPrice: 55.99 EUR
+currency: EUR
+price: 55.99
+comparePrice: 90.0 EUR
+inStock: true
+prodname: 'Levi s 502 Taper Jeans  Stonewash Stretch T2  34W / 34L Uomo'
+country: 'it'
+---
+
+Ahora mismo tienes [Levi s 502 Taper Jeans  Stonewash Stretch T2  34W / 34L Uomo](https://www.amazon.it/dp/B07RXKZSM6/?tag=tolees00-21) a 55.99 EUR (original: 90.0 EUR) (37.79 %  de descuento) en el siguiente enlace!
+
+[![Levi s 502 Taper Jeans  Stonewash Stretc](https://m.media-amazon.com/images/I/41o8oQGo60L._SL200_.jpg)](https://www.amazon.it/dp/B07RXKZSM6/?tag=tolees00-21)
+
+[Visítala!!!](https://www.amazon.it/dp/B07RXKZSM6/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 76.98 % en Io sono leggenda  Heroes Collection '
+date: 2020-11-13 10:56:25
+thumbnailImage: 'https://m.media-amazon.com/images/I/51k0dfyi+ZL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51k0dfyi+ZL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0041KW0WG-it'
+description:
+actualPrice: 2.99 EUR
+currency: EUR
+price: 2.99
+comparePrice: 12.99 EUR
+inStock: true
+prodname: 'Io sono leggenda  Heroes Collection '
+country: 'it'
+---
+
+Tienes [Io sono leggenda  Heroes Collection ](https://www.amazon.it/dp/B0041KW0WG/?tag=tolees00-21) con un 76.98 % de descuento con precio de oferta de 2.99 EUR (original: 12.99 EUR) en el siguiente enlace!
+
+[![Io sono leggenda  Heroes Collection ](https://m.media-amazon.com/images/I/51k0dfyi+ZL._SL200_.jpg)](https://www.amazon.it/dp/B0041KW0WG/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B0041KW0WG/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

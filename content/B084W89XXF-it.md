@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Viakal Detersivo Anticalcare Liquido Ace al 45.49 % de descuento'
+date: 2020-08-17 15:06:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/41up4LR9fVL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41up4LR9fVL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B084W89XXF-it'
+description:
+actualPrice: 4.9 EUR
+currency: EUR
+price: 4.9
+comparePrice: 8.99 EUR
+inStock: true
+prodname: 'Viakal Detersivo Anticalcare Liquido Aceto  Maxi Formato 2 Pezzi da 700 ml'
+country: 'it'
+---
+
+Está [Viakal Detersivo Anticalcare Liquido Aceto  Maxi Formato 2 Pezzi da 700 ml](https://www.amazon.it/dp/B084W89XXF/?tag=tolees00-21) con 45.49 de descuento por 4.9 EUR (original: 8.99 EUR) en el siguiente enlace!
+
+[![Viakal Detersivo Anticalcare Liquido Ace](https://m.media-amazon.com/images/I/41up4LR9fVL._SL200_.jpg)](https://www.amazon.it/dp/B084W89XXF/?tag=tolees00-21)
+
+[Ver la oferta!!](https://www.amazon.it/dp/B084W89XXF/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

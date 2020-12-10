@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Giotto Stilnovo pastelli colorati in ast al 44.97 % de descuento'
+date: 2020-09-05 11:56:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/51RqL3V3oDL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51RqL3V3oDL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B005DSU8I8-it'
+description:
+actualPrice: 8.2 EUR
+currency: EUR
+price: 8.2
+comparePrice: 14.9 EUR
+inStock: true
+prodname: 'Giotto Stilnovo pastelli colorati in astuccio 36 colori'
+country: 'it'
+---
+
+Ahora mismo tienes [Giotto Stilnovo pastelli colorati in astuccio 36 colori](https://www.amazon.it/dp/B005DSU8I8/?tag=tolees00-21) a 8.2 EUR (original: 14.9 EUR) (44.97 %  de descuento) en el siguiente enlace!
+
+[![Giotto Stilnovo pastelli colorati in ast](https://m.media-amazon.com/images/I/51RqL3V3oDL._SL200_.jpg)](https://www.amazon.it/dp/B005DSU8I8/?tag=tolees00-21)
+
+[Visítala!!!](https://www.amazon.it/dp/B005DSU8I8/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

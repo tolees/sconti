@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Invision Supporto TV per 26-60 Pollici S al 27.15 % de descuento'
+date: 2020-10-29 15:36:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/41btggWRMnL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41btggWRMnL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00393KNVQ-it'
+description:
+actualPrice: 25.49 EUR
+currency: EUR
+price: 25.49
+comparePrice: 34.99 EUR
+inStock: true
+prodname: 'Invision Supporto TV per 26-60 Pollici Schermi Staffa TV a Parete Ultra Forte Inclinazione e Girevole a Braccio Singolo per LED HD 4K HDR UHD Smart - Max. VESA 400x400mm - Fino a 40 kg  HDTV-L '
+country: 'it'
+---
+
+Está [Invision Supporto TV per 26-60 Pollici Schermi Staffa TV a Parete Ultra Forte Inclinazione e Girevole a Braccio Singolo per LED HD 4K HDR UHD Smart - Max. VESA 400x400mm - Fino a 40 kg  HDTV-L ](https://www.amazon.it/dp/B00393KNVQ/?tag=tolees00-21) con 27.15 de descuento por 25.49 EUR (original: 34.99 EUR) en el siguiente enlace!
+
+[![Invision Supporto TV per 26-60 Pollici S](https://m.media-amazon.com/images/I/41btggWRMnL._SL200_.jpg)](https://www.amazon.it/dp/B00393KNVQ/?tag=tolees00-21)
+
+[Ver la oferta!!](https://www.amazon.it/dp/B00393KNVQ/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

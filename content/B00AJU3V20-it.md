@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 37.09 % en Brembo P 85 072 - Pastiglia Freno - Ante'
+date: 2020-11-01 18:02:31
+thumbnailImage: 'https://m.media-amazon.com/images/I/417ogr9WRLL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/417ogr9WRLL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00AJU3V20-it'
+description:
+actualPrice: 13.4 EUR
+currency: EUR
+price: 13.4
+comparePrice: 21.3 EUR
+inStock: true
+prodname: 'Brembo P 85 072 - Pastiglia Freno - Anteriore'
+country: 'it'
+---
+
+Tienes [Brembo P 85 072 - Pastiglia Freno - Anteriore](https://www.amazon.it/dp/B00AJU3V20/?tag=tolees00-21) con un 37.09 % de descuento con precio de oferta de 13.4 EUR (original: 21.3 EUR) en el siguiente enlace!
+
+[![Brembo P 85 072 - Pastiglia Freno - Ante](https://m.media-amazon.com/images/I/417ogr9WRLL._SL200_.jpg)](https://www.amazon.it/dp/B00AJU3V20/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B00AJU3V20/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

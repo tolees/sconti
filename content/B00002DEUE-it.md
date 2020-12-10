@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 29.21 % en At Folsom Prison'
+date: 2020-10-30 02:31:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/61vqYbtW4aL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61vqYbtW4aL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00002DEUE-it'
+description:
+actualPrice: 5.5 EUR
+currency: EUR
+price: 5.5
+comparePrice: 7.77 EUR
+inStock: true
+prodname: 'At Folsom Prison'
+country: 'it'
+---
+
+Tienes [At Folsom Prison](https://www.amazon.it/dp/B00002DEUE/?tag=tolees00-21) con un 29.21 % de descuento con precio de oferta de 5.5 EUR (original: 7.77 EUR) en el siguiente enlace!
+
+[![At Folsom Prison](https://m.media-amazon.com/images/I/61vqYbtW4aL._SL200_.jpg)](https://www.amazon.it/dp/B00002DEUE/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B00002DEUE/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

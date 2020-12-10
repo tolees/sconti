@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'YAMAMAY® Boxer da uomo divertenti - Midn al 49.96 % de descuento'
+date: 2020-11-22 09:38:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41I4tqTCGxL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41I4tqTCGxL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B082LWZ8R8-it'
+description:
+actualPrice: 6.48 EUR
+currency: EUR
+price: 6.48
+comparePrice: 12.95 EUR
+inStock: true
+prodname: 'YAMAMAY® Boxer da uomo divertenti - Midnight'
+country: 'it'
+---
+
+Está [YAMAMAY® Boxer da uomo divertenti - Midnight](https://www.amazon.it/dp/B082LWZ8R8/?tag=tolees00-21) con 49.96 de descuento por 6.48 EUR (original: 12.95 EUR) en el siguiente enlace!
+
+[![YAMAMAY® Boxer da uomo divertenti - Midn](https://m.media-amazon.com/images/I/41I4tqTCGxL._SL200_.jpg)](https://www.amazon.it/dp/B082LWZ8R8/?tag=tolees00-21)
+
+[Ver la oferta!!](https://www.amazon.it/dp/B082LWZ8R8/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

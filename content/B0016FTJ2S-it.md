@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Barilla - Sugo Pronto al Tonno all Olio  al 41.80 % de descuento'
+date: 2020-11-24 17:20:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/51ZzzSVBTqL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51ZzzSVBTqL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0016FTJ2S-it'
+description:
+actualPrice: 1.49 EUR
+currency: EUR
+price: 1.49
+comparePrice: 2.56 EUR
+inStock: true
+prodname: 'Barilla - Sugo Pronto al Tonno all Olio di Oliva e Pomodoro Italiano - 400 g'
+country: 'it'
+---
+
+Ahora mismo tienes [Barilla - Sugo Pronto al Tonno all Olio di Oliva e Pomodoro Italiano - 400 g](https://www.amazon.it/dp/B0016FTJ2S/?tag=tolees00-21) a 1.49 EUR (original: 2.56 EUR) (41.80 %  de descuento) en el siguiente enlace!
+
+[![Barilla - Sugo Pronto al Tonno all Olio ](https://m.media-amazon.com/images/I/51ZzzSVBTqL._SL200_.jpg)](https://www.amazon.it/dp/B0016FTJ2S/?tag=tolees00-21)
+
+[Visítala!!!](https://www.amazon.it/dp/B0016FTJ2S/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

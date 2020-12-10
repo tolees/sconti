@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 38.32 % en Lacoste 5h1803 Intimo  THYM/Marine-Blanc'
+date: 2020-10-12 08:45:45
+thumbnailImage: 'https://m.media-amazon.com/images/I/41zikNHTxqL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41zikNHTxqL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B083FHV9JG-it'
+description:
+actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
+comparePrice: 47.0 EUR
+inStock: true
+prodname: 'Lacoste 5h1803 Intimo  THYM/Marine-Blanc  M Uomo'
+country: 'it'
+---
+
+Tienes [Lacoste 5h1803 Intimo  THYM/Marine-Blanc  M Uomo](https://www.amazon.it/dp/B083FHV9JG/?tag=tolees00-21) con un 38.32 % de descuento con precio de oferta de 28.99 EUR (original: 47.0 EUR) en el siguiente enlace!
+
+[![Lacoste 5h1803 Intimo  THYM/Marine-Blanc](https://m.media-amazon.com/images/I/41zikNHTxqL._SL200_.jpg)](https://www.amazon.it/dp/B083FHV9JG/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B083FHV9JG/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

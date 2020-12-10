@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 26.53 % en Alessi Plissè MDL06/1 B - Bollitore Elet'
+date: 2020-12-09 16:14:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/31+Gugw8EkL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31+Gugw8EkL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07X1ML45M-it'
+description:
+actualPrice: 55.1 EUR
+currency: EUR
+price: 55.1
+comparePrice: 75.0 EUR
+inStock: true
+prodname: 'Alessi Plissè MDL06/1 B - Bollitore Elettrico di Design in Resina Termoplastica  100 cl  Nero'
+country: 'it'
+---
+
+Tienes [Alessi Plissè MDL06/1 B - Bollitore Elettrico di Design in Resina Termoplastica  100 cl  Nero](https://www.amazon.it/dp/B07X1ML45M/?tag=tolees00-21) con un 26.53 % de descuento con precio de oferta de 55.1 EUR (original: 75.0 EUR) en el siguiente enlace!
+
+[![Alessi Plissè MDL06/1 B - Bollitore Elet](https://m.media-amazon.com/images/I/31+Gugw8EkL._SL200_.jpg)](https://www.amazon.it/dp/B07X1ML45M/?tag=tolees00-21)
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B07X1ML45M/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

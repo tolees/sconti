@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Tampax Pearl Compak Super  tampone con a al 64.22 % de descuento'
+date: 2020-12-01 13:14:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/51dx5z1x8mL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51dx5z1x8mL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B086HF73DR-it'
+description:
+actualPrice: 11.94 EUR
+currency: EUR
+price: 11.94
+comparePrice: 33.37 EUR
+inStock: true
+prodname: 'Tampax Pearl Compak Super  tampone con applicatore  offre comfort  protezione e discrezione  128 pezzi'
+country: 'it'
+---
+
+Está [Tampax Pearl Compak Super  tampone con applicatore  offre comfort  protezione e discrezione  128 pezzi](https://www.amazon.it/dp/B086HF73DR/?tag=tolees00-21) con 64.22 de descuento por 11.94 EUR (original: 33.37 EUR) en el siguiente enlace!
+
+[![Tampax Pearl Compak Super  tampone con a](https://m.media-amazon.com/images/I/51dx5z1x8mL._SL200_.jpg)](https://www.amazon.it/dp/B086HF73DR/?tag=tolees00-21)
+
+[Ver la oferta!!](https://www.amazon.it/dp/B086HF73DR/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

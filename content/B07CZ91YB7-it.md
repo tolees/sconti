@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Puma Epic Flip V2  Infradito Unisex – Ad al 34.99 % de descuento'
+date: 2020-08-23 15:37:25
+thumbnailImage: 'https://m.media-amazon.com/images/I/3161qRaSrAL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/3161qRaSrAL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07CZ91YB7-it'
+description:
+actualPrice: 12.97 EUR
+currency: EUR
+price: 12.97
+comparePrice: 19.95 EUR
+inStock: true
+prodname: 'Puma Epic Flip V2  Infradito Unisex – Adulto  Rosa  Winsome Orchid-Puma White 26   47 EU'
+country: 'it'
+---
+
+Ahora mismo tienes [Puma Epic Flip V2  Infradito Unisex – Adulto  Rosa  Winsome Orchid-Puma White 26   47 EU](https://www.amazon.it/dp/B07CZ91YB7/?tag=tolees00-21) a 12.97 EUR (original: 19.95 EUR) (34.99 %  de descuento) en el siguiente enlace!
+
+[![Puma Epic Flip V2  Infradito Unisex – Ad](https://m.media-amazon.com/images/I/3161qRaSrAL._SL200_.jpg)](https://www.amazon.it/dp/B07CZ91YB7/?tag=tolees00-21)
+
+[Visítala!!!](https://www.amazon.it/dp/B07CZ91YB7/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Gran Pavesi Cracker Salati I Classici  S al 38.50 % de descuento'
+date: 2020-11-17 16:03:37
+thumbnailImage: 'https://m.media-amazon.com/images/I/51-hjlU2PCL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51-hjlU2PCL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B006J5GI4W-it'
+description:
+actualPrice: 1.39 EUR
+currency: EUR
+price: 1.39
+comparePrice: 2.26 EUR
+inStock: true
+prodname: 'Gran Pavesi Cracker Salati I Classici  Senza Olio di Palma - 18 Pacchetti  560 g '
+country: 'it'
+---
+
+Ahora mismo tienes [Gran Pavesi Cracker Salati I Classici  Senza Olio di Palma - 18 Pacchetti  560 g ](https://www.amazon.it/dp/B006J5GI4W/?tag=tolees00-21) a 1.39 EUR (original: 2.26 EUR) (38.50 %  de descuento) en el siguiente enlace!
+
+[![Gran Pavesi Cracker Salati I Classici  S](https://m.media-amazon.com/images/I/51-hjlU2PCL._SL200_.jpg)](https://www.amazon.it/dp/B006J5GI4W/?tag=tolees00-21)
+
+[Visítala!!!](https://www.amazon.it/dp/B006J5GI4W/?tag=tolees00-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
