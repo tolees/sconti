@@ -17,12 +17,10 @@ inStock: true
 prodname: '8 1/2'
 ---
 
-Está [8 1/2](https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21) con 25.89 de descuento por 7.7 EUR (original: 10.39 EUR) en el siguiente enlace!
+Ahora mismo tienes [8 1/2](https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21) a 7.7 EUR (original: 10.39 EUR) (25.89 %  de descuento) en el siguiente enlace!
 
 [![8 1/2](https://m.media-amazon.com/images/I/51xjMd+UGZL._SL200_.jpg)](https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
