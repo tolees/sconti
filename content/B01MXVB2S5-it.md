@@ -22,6 +22,9 @@ Ahora mismo tienes [Fossil Orologio Quarzo Uomo con Cinturino in Acciaio Inox FS
 
 [![Fossil Orologio Quarzo Uomo con Cinturin](https://m.media-amazon.com/images/I/41RSn1ZXdEL._SL200_.jpg)](https://www.amazon.it/dp/B01MXVB2S5/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01MXVB2S5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

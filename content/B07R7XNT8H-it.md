@@ -22,6 +22,9 @@ Está [Columbia Lake 22  Piumino lungo con Cappuccio Donna  Blu  Nocturnal   S](
 
 [![Columbia Lake 22  Piumino lungo con Capp](https://m.media-amazon.com/images/I/41W4wtULbRL._SL200_.jpg)](https://www.amazon.it/dp/B07R7XNT8H/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07R7XNT8H/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

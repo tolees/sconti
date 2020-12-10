@@ -22,6 +22,9 @@ Tienes [D&G 3 L IMPERATRICE EDT 100ML](https://www.amazon.it/dp/B002Z7FVTQ/?tag=
 
 [![D&G 3 L IMPERATRICE EDT 100ML](https://m.media-amazon.com/images/I/31ovFz1OxEL._SL200_.jpg)](https://www.amazon.it/dp/B002Z7FVTQ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B002Z7FVTQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

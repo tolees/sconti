@@ -22,6 +22,9 @@ Está [Diadora - Sneakers Game P per Uomo e Donna  EU 42 ](https://www.amazon.it
 
 [![Diadora - Sneakers Game P per Uomo e Don](https://m.media-amazon.com/images/I/31c5HtM2spL._SL200_.jpg)](https://www.amazon.it/dp/B01C9X1VU8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01C9X1VU8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

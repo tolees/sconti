@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s T-Shirt  Multicolore  2 Pack Tee White +/Mineral Blac
 
 [![Levi s T-Shirt  Multicolore  2 Pack Tee ](https://m.media-amazon.com/images/I/31sIAc60nVL._SL200_.jpg)](https://www.amazon.it/dp/B07KF52DX6/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07KF52DX6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

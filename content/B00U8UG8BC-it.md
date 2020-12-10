@@ -22,6 +22,9 @@ Está [Frisk Peppermint Caramelle alla Menta  Mentine Senza Zucchero e Senza Glu
 
 [![Frisk Peppermint Caramelle alla Menta  M](https://m.media-amazon.com/images/I/51thrgrIKTL._SL200_.jpg)](https://www.amazon.it/dp/B00U8UG8BC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00U8UG8BC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

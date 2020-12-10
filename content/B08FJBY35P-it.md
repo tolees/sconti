@@ -22,6 +22,9 @@ Está [OUPOD Controller wireless  Bluetooth  per Nintendo Switch Pro collegato a
 
 [![OUPOD Controller wireless  Bluetooth  pe](https://m.media-amazon.com/images/I/31dlq3gw-hL._SL200_.jpg)](https://www.amazon.it/dp/B08FJBY35P/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08FJBY35P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

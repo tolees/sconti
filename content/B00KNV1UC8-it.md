@@ -22,6 +22,9 @@ Tienes [SUNSILK Liscio Perfetto  Balsamo  200 ml](https://www.amazon.it/dp/B00KN
 
 [![SUNSILK Liscio Perfetto  Balsamo  200 ml](https://m.media-amazon.com/images/I/41Ux3JDSPsL._SL200_.jpg)](https://www.amazon.it/dp/B00KNV1UC8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00KNV1UC8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

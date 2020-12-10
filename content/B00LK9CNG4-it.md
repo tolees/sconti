@@ -22,6 +22,9 @@ Está [Bialetti Moka Induction Caffettiera in Alluminio  Adatta all induzione  G
 
 [![Bialetti Moka Induction Caffettiera in A](https://m.media-amazon.com/images/I/31Oo3n+MgiL._SL200_.jpg)](https://www.amazon.it/dp/B00LK9CNG4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00LK9CNG4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

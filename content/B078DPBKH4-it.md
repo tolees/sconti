@@ -22,6 +22,9 @@ Está [Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato - 1 confezione da
 
 [![Nutella B-ready T6 Cialda di Pane Ripien](https://m.media-amazon.com/images/I/518YMWOaxFL._SL200_.jpg)](https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

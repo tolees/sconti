@@ -22,6 +22,9 @@ Tienes [Vansuny Ultra Slim Super Mini Portable SSD 1 TB 550 MB/s USB 3.1 & Type 
 
 [![Vansuny Ultra Slim Super Mini Portable S](https://m.media-amazon.com/images/I/313cIGGH3WL._SL200_.jpg)](https://www.amazon.it/dp/B08BZ9HNP7/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08BZ9HNP7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

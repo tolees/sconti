@@ -22,6 +22,9 @@ Tienes [Beurer 66200 EM 80 Apparecchio TENS/EMS Digitale](https://www.amazon.it/
 
 [![Beurer 66200 EM 80 Apparecchio TENS/EMS ](https://m.media-amazon.com/images/I/41iLjZ4eLcL._SL200_.jpg)](https://www.amazon.it/dp/B000NNPX3I/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B000NNPX3I/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

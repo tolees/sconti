@@ -22,6 +22,9 @@ Está [Levi s Original Batwing Maglietta  Multicolore  HM Patch Polo Riverside/W
 
 [![Levi s Original Batwing Maglietta  Multi](https://m.media-amazon.com/images/I/41mJfKd4JvL._SL200_.jpg)](https://www.amazon.it/dp/B07TPPPTJF/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TPPPTJF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

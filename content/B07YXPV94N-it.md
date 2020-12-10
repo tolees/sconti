@@ -22,6 +22,9 @@ Ahora mismo tienes [Diyife Selfie Ring Light  [Ultima Versione] Ricaricabile Luc
 
 [![Diyife Selfie Ring Light  [Ultima Versio](https://m.media-amazon.com/images/I/41jev0hnorL._SL200_.jpg)](https://www.amazon.it/dp/B07YXPV94N/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07YXPV94N/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

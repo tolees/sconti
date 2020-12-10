@@ -22,6 +22,9 @@ Está [Hunty Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  
 
 [![Hunty Hard Disk 1 TB Esterno Hard Disk E](https://m.media-amazon.com/images/I/41dndfM6dTL._SL200_.jpg)](https://www.amazon.it/dp/B08HZ2SCKX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08HZ2SCKX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

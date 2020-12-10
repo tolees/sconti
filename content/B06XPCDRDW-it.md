@@ -22,6 +22,9 @@ Tienes [Rowenta CF5712 Instant Straight Spazzola Elettrica Lisciante e Termica c
 
 [![Rowenta CF5712 Instant Straight Spazzola](https://m.media-amazon.com/images/I/31vblALq29L._SL200_.jpg)](https://www.amazon.it/dp/B06XPCDRDW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XPCDRDW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

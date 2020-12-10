@@ -22,6 +22,9 @@ Ahora mismo tienes [Ultima Cibo per Cani Mini Adult con Pollo  3 kg](https://www
 
 [![Ultima Cibo per Cani Mini Adult con Poll](https://m.media-amazon.com/images/I/413nTG65baL._SL200_.jpg)](https://www.amazon.it/dp/B01IUP5EZ2/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01IUP5EZ2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

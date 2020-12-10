@@ -22,6 +22,9 @@ Está [Portafoglio Uomo Vera Pelle Blocco RFID con fermasoldi  Piccolo Portafogl
 
 [![Portafoglio Uomo Vera Pelle Blocco RFID ](https://m.media-amazon.com/images/I/51F8LrWvdlL._SL200_.jpg)](https://www.amazon.it/dp/B07G7ZC5BS/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07G7ZC5BS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

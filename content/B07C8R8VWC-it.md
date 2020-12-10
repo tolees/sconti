@@ -22,6 +22,9 @@ Ahora mismo tienes [AKAI TV AKTV3215 Ethernet Televisore 32 Pollici TV LED HD So
 
 [![AKAI TV AKTV3215 Ethernet Televisore 32 ](https://m.media-amazon.com/images/I/41PV7rmjljL._SL200_.jpg)](https://www.amazon.it/dp/B07C8R8VWC/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07C8R8VWC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Ariete 2759 Handy Force RBT  Scopa elettrica con Filo 2 in 1
 
 [![Ariete 2759 Handy Force RBT  Scopa elett](https://m.media-amazon.com/images/I/31X5cQJsyxL._SL200_.jpg)](https://www.amazon.it/dp/B07X5C2KWD/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07X5C2KWD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

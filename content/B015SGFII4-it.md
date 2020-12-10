@@ -22,6 +22,9 @@ Está [Havaianas Luna  Sandali Donna  Oro  Rose Gold/Rose Gold 5282   41/42 EU](
 
 [![Havaianas Luna  Sandali Donna  Oro  Rose](https://m.media-amazon.com/images/I/41tFxkAlE3L._SL200_.jpg)](https://www.amazon.it/dp/B015SGFII4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B015SGFII4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

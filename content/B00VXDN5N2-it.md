@@ -22,6 +22,9 @@ Está [NATURANDO ENERGIA FORTE PLUS 40 PERLE Integratore alimentare per contrast
 
 [![NATURANDO ENERGIA FORTE PLUS 40 PERLE In](https://m.media-amazon.com/images/I/51Wz5oA+GwL._SL200_.jpg)](https://www.amazon.it/dp/B00VXDN5N2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00VXDN5N2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

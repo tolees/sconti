@@ -22,6 +22,9 @@ Tienes [Lacoste Th2038 T-Shirt  Verde  Aucuba Xzd   Large  Taglia Unica: 5  Uomo
 
 [![Lacoste Th2038 T-Shirt  Verde  Aucuba Xz](https://m.media-amazon.com/images/I/41jvv3ENRtL._SL200_.jpg)](https://www.amazon.it/dp/B07THFZJ5T/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07THFZJ5T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [VZATT Go Swing Topless Can Opener  2020 Nuova Apriscatole Manuale  Apri d
 
 [![VZATT Go Swing Topless Can Opener  2020 ](https://m.media-amazon.com/images/I/51gTdZUbQWL._SL200_.jpg)](https://www.amazon.it/dp/B08CDL3BD2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CDL3BD2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

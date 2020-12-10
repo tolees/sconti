@@ -22,6 +22,9 @@ Tienes [SanDisk Scheda di Memoria MicroSDHC 32 GB Classe 4](https://www.amazon.i
 
 [![SanDisk Scheda di Memoria MicroSDHC 32 G](https://m.media-amazon.com/images/I/41O7JRJmMHL._SL200_.jpg)](https://www.amazon.it/dp/B003HIWHN0/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B003HIWHN0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

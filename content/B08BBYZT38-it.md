@@ -22,6 +22,9 @@ Está [Mini Telecamera Spia Nascosta con Micro sd 32GB  Full HD 1080P Microcamer
 
 [![Mini Telecamera Spia Nascosta con Micro ](https://m.media-amazon.com/images/I/412uFPOtrCL._SL200_.jpg)](https://www.amazon.it/dp/B08BBYZT38/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08BBYZT38/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

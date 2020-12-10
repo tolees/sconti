@@ -22,6 +22,9 @@ Está [HP Custodia Sleeve Reversibile in Neoprene per Notebook fino a 14"  Nero/
 
 [![HP Custodia Sleeve Reversibile in Neopre](https://m.media-amazon.com/images/I/31ceNBVSiqL._SL200_.jpg)](https://www.amazon.it/dp/B077PMK1T1/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B077PMK1T1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

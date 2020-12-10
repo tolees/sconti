@@ -22,6 +22,9 @@ Tienes [KLIM™ Cool Universal Raffreddatore per PC Portatile – Ventola ad Alt
 
 [![KLIM™ Cool Universal Raffreddatore per P](https://m.media-amazon.com/images/I/51AeasQ64IL._SL200_.jpg)](https://www.amazon.it/dp/B00ZA0HFSA/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00ZA0HFSA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

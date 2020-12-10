@@ -22,6 +22,9 @@ Está [Calvin Klein 35mm Essential Belt Cintura  Marrone  Dark Tan Gae   2  Tagl
 
 [![Calvin Klein 35mm Essential Belt Cintura](https://m.media-amazon.com/images/I/31P6VUdNdCL._SL200_.jpg)](https://www.amazon.it/dp/B07VC3YGML/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VC3YGML/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

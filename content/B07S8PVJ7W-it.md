@@ -22,6 +22,9 @@ Está [Puma Vista Sneaker Unisex - Adulto  Grigio  High Rise-Puma White-Castlero
 
 [![Puma Vista Sneaker Unisex - Adulto  Grig](https://m.media-amazon.com/images/I/41CqDtp63BL._SL200_.jpg)](https://www.amazon.it/dp/B07S8PVJ7W/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07S8PVJ7W/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

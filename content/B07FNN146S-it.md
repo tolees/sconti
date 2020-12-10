@@ -22,6 +22,9 @@ Tienes [LEGO Movie 2 - Movie Maker  70820](https://www.amazon.it/dp/B07FNN146S/?
 
 [![LEGO Movie 2 - Movie Maker  70820](https://m.media-amazon.com/images/I/5101A82wpbL._SL200_.jpg)](https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Casio Orologio Analogico al Quarzo Donna con Cinturino in Acciaio Inox L
 
 [![Casio Orologio Analogico al Quarzo Donna](https://m.media-amazon.com/images/I/51wjdeIS0hL._SL200_.jpg)](https://www.amazon.it/dp/B000NM0MR6/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B000NM0MR6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

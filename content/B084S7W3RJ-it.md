@@ -22,6 +22,9 @@ Está [Samsung Galaxy S20 Smartphone  Display 6.2" Dynamic AMOLED 2X  3 Fotocame
 
 [![Samsung Galaxy S20 Smartphone  Display 6](https://m.media-amazon.com/images/I/41nl737LuCL._SL200_.jpg)](https://www.amazon.it/dp/B084S7W3RJ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B084S7W3RJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

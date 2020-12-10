@@ -22,6 +22,9 @@ Está [takestop® Barbecue Tondo 36x55cm GRIGLIA Rimovibile Acciaio SCALDA PIETA
 
 [![takestop® Barbecue Tondo 36x55cm GRIGLIA](https://m.media-amazon.com/images/I/41sd82wdMHL._SL200_.jpg)](https://www.amazon.it/dp/B089QT5B6S/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B089QT5B6S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

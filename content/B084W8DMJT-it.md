@@ -22,6 +22,9 @@ Ahora mismo tienes [Viakal Detersivo Anticalcare Spray Fresco Profumo  Maxi Form
 
 [![Viakal Detersivo Anticalcare Spray Fresc](https://m.media-amazon.com/images/I/41-kVuTIfeL._SL200_.jpg)](https://www.amazon.it/dp/B084W8DMJT/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B084W8DMJT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

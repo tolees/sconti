@@ -22,6 +22,9 @@ Ahora mismo tienes [Sandisk Ultra Dual USB Drive 3.0 16GB  Velocità di lettura 
 
 [![Sandisk Ultra Dual USB Drive 3.0 16GB  V](https://m.media-amazon.com/images/I/31wH3k8gLuL._SL200_.jpg)](https://www.amazon.it/dp/B01GK98YE8/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01GK98YE8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

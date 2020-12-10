@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Sozy Plus B  Sandali Punta Aperta Donna  Marrone  36 
 
 [![Geox D Sozy Plus B  Sandali Punta Aperta](https://m.media-amazon.com/images/I/51shrYEkrtL._SL200_.jpg)](https://www.amazon.it/dp/B07SWV1Z9W/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SWV1Z9W/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

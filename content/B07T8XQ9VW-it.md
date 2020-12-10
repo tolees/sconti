@@ -22,6 +22,9 @@ Tienes [Coltello Santoku MOSFiATA 7 "con protezione dita e temperamatite  EN1. 4
 
 [![Coltello Santoku MOSFiATA 7 "con protezi](https://m.media-amazon.com/images/I/51o9y91q2WL._SL200_.jpg)](https://www.amazon.it/dp/B07T8XQ9VW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07T8XQ9VW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

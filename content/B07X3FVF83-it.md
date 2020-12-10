@@ -22,6 +22,9 @@ Tienes [Aspirapolvere Senza Fili 9500pa Scopa Elettrica  ciclonica Aspirapolvere
 
 [![Aspirapolvere Senza Fili 9500pa Scopa El](https://m.media-amazon.com/images/I/41mZ2QbnGkL._SL200_.jpg)](https://www.amazon.it/dp/B07X3FVF83/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07X3FVF83/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

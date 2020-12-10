@@ -22,6 +22,9 @@ Está [XIDU Tour Pro 12 5" Notebook Portatile  4K Touchscreen  Intel 3867U  8 GB
 
 [![XIDU Tour Pro 12 5" Notebook Portatile  ](https://m.media-amazon.com/images/I/51A-4lp7q2L._SL200_.jpg)](https://www.amazon.it/dp/B08CDMV722/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CDMV722/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

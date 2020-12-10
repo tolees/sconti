@@ -22,6 +22,9 @@ Está [LOVABLE Sublim Reggiseno con Ferretto  Blu  Blu 007   4C IT  Taglia Produ
 
 [![LOVABLE Sublim Reggiseno con Ferretto  B](https://m.media-amazon.com/images/I/41Xlrxg4u5L._SL200_.jpg)](https://www.amazon.it/dp/B07WLFGWWX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07WLFGWWX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

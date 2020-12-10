@@ -22,6 +22,9 @@ Está [BRIKSMAX Kit di Illuminazione a LED per Lego Ideas Voltron  Compatibile c
 
 [![BRIKSMAX Kit di Illuminazione a LED per ](https://m.media-amazon.com/images/I/41E6Fn-bCTL._SL200_.jpg)](https://www.amazon.it/dp/B07TXVSGVV/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TXVSGVV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

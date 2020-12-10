@@ -22,6 +22,9 @@ Está [Intex 68579 Sedia gonfiabile  Grigio  107 x 104 x 69 cm  Vinile](https://
 
 [![Intex 68579 Sedia gonfiabile  Grigio  10](https://m.media-amazon.com/images/I/41aL0sHFFQL._SL200_.jpg)](https://www.amazon.it/dp/B009VD1FSI/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B009VD1FSI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

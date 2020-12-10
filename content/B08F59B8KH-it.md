@@ -22,6 +22,9 @@ Tienes [BAITITON 2 5 pollici SATA III Unità a Stato Solido Interno 128GB Disco 
 
 [![BAITITON 2 5 pollici SATA III Unità a St](https://m.media-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg)](https://www.amazon.it/dp/B08F59B8KH/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08F59B8KH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

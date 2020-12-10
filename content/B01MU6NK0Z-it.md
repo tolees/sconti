@@ -22,6 +22,9 @@ Está [Tommy Hilfiger New Denton 3.5 Belt Cintura  Marrone  Dark Tan 257   100 U
 
 [![Tommy Hilfiger New Denton 3.5 Belt Cintu](https://m.media-amazon.com/images/I/31ZLDzaEEhL._SL200_.jpg)](https://www.amazon.it/dp/B01MU6NK0Z/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01MU6NK0Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

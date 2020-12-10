@@ -22,6 +22,9 @@ Está [Hunty Hard Disk 2 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Ma
 
 [![Hunty Hard Disk 2 TB Esterno  Hard Disk ](https://m.media-amazon.com/images/I/31ERiY0hshL._SL200_.jpg)](https://www.amazon.it/dp/B08B3RJ5NR/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08B3RJ5NR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

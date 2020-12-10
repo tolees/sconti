@@ -22,6 +22,9 @@ Está [Havaianas Slim Logo Metallic  Infradito Donna  Grigio  Steel Grey/Rainbow
 
 [![Havaianas Slim Logo Metallic  Infradito ](https://m.media-amazon.com/images/I/315fe7nvBXL._SL200_.jpg)](https://www.amazon.it/dp/B07SHTTPMN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SHTTPMN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

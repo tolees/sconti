@@ -22,6 +22,9 @@ Tienes [LEONE 1947 Flash Guantoni  Nero  12 Oz](https://www.amazon.it/dp/B015EFQ
 
 [![LEONE 1947 Flash Guantoni  Nero  12 Oz](https://m.media-amazon.com/images/I/41SWWVLFcqL._SL200_.jpg)](https://www.amazon.it/dp/B015EFQX42/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B015EFQX42/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

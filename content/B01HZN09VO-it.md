@@ -22,6 +22,9 @@ Está [Dragon Ball Xenoverse 2 - Xbox One](https://www.amazon.it/dp/B01HZN09VO/?
 
 [![Dragon Ball Xenoverse 2 - Xbox One](https://m.media-amazon.com/images/I/61KLeJOBVzL._SL200_.jpg)](https://www.amazon.it/dp/B01HZN09VO/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01HZN09VO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

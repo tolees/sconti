@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Essential Leather Sneaker  Scarpe da Ginnastica Basse Uomo
 
 [![Tommy Hilfiger Essential Leather Sneaker](https://m.media-amazon.com/images/I/31cVCmkhuWL._SL200_.jpg)](https://www.amazon.it/dp/B07DJJNSBT/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07DJJNSBT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Cuffie Wireless Over-Ear  Mixcder HD901 Cuffie Senza Fili Bluetooth 4.2 S
 
 [![Cuffie Wireless Over-Ear  Mixcder HD901 ](https://m.media-amazon.com/images/I/41ZKKiwnfVL._SL200_.jpg)](https://www.amazon.it/dp/B07MZYCDKQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07MZYCDKQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

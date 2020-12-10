@@ -22,6 +22,9 @@ Está [Olimpia Splendid 99447 Caldodesign Termoventilatore Ceramico 1800 W  Bian
 
 [![Olimpia Splendid 99447 Caldodesign Termo](https://m.media-amazon.com/images/I/51n+LXbJdHL._SL200_.jpg)](https://www.amazon.it/dp/B074KLRCN2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B074KLRCN2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Ba
 
 [![Tommy Hilfiger Lightweight Stripes Knit ](https://m.media-amazon.com/images/I/31KW0Gq7afL._SL200_.jpg)](https://www.amazon.it/dp/B07V5QPKLC/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07V5QPKLC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

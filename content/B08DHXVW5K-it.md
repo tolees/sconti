@@ -22,6 +22,9 @@ Está [PENG Auricolare Bluetooth  Cuffie Senza Fili  Cuffie Wireless Stereo 3D w
 
 [![PENG Auricolare Bluetooth  Cuffie Senza ](https://m.media-amazon.com/images/I/41VWDZlxQIL._SL200_.jpg)](https://www.amazon.it/dp/B08DHXVW5K/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08DHXVW5K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

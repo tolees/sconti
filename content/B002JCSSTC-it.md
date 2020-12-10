@@ -22,6 +22,9 @@ Ahora mismo tienes [Crocs Crocband Clogs  Ciabatte Unisex  Gomma – Adulto  Ner
 
 [![Crocs Crocband Clogs  Ciabatte Unisex  G](https://m.media-amazon.com/images/I/41bQk1C11xL._SL200_.jpg)](https://www.amazon.it/dp/B002JCSSTC/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B002JCSSTC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

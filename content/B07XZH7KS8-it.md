@@ -22,6 +22,9 @@ Está [HUAWEI T5 Mediapad 10 Tablet LTE con Display Full HD  1920 x 1200 da 10.1
 
 [![HUAWEI T5 Mediapad 10 Tablet LTE con Dis](https://m.media-amazon.com/images/I/517mS79VMOL._SL200_.jpg)](https://www.amazon.it/dp/B07XZH7KS8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07XZH7KS8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

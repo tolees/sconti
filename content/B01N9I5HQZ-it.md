@@ -22,6 +22,9 @@ Tienes [Linksys WHW0301 Velop Sistema WiFi Mesh Tri-Band per Casa  Router AC2200
 
 [![Linksys WHW0301 Velop Sistema WiFi Mesh ](https://m.media-amazon.com/images/I/21CeKfiI6OL._SL200_.jpg)](https://www.amazon.it/dp/B01N9I5HQZ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N9I5HQZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

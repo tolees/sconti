@@ -22,6 +22,9 @@ Está [Geox U EOLO B  Scarpe da Ginnastica Basse Uomo  Grigio  White/Lt Grey C12
 
 [![Geox U EOLO B  Scarpe da Ginnastica Bass](https://m.media-amazon.com/images/I/41VVXb7KizL._SL200_.jpg)](https://www.amazon.it/dp/B07SSJW3GG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SSJW3GG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

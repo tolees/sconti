@@ -22,6 +22,9 @@ Tienes [Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  all Hours  Bu
 
 [![Goodthreads Standard-Fit Long-Sleeve Str](https://m.media-amazon.com/images/I/51TD2qNMFUL._SL200_.jpg)](https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

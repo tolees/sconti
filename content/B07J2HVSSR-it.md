@@ -22,6 +22,9 @@ Tienes [Marchio Amazon - Goodthreads  giacca aderente in twill elasticizzato  da
 
 [![Marchio Amazon - Goodthreads  giacca ade](https://m.media-amazon.com/images/I/4148sZRBc7L._SL200_.jpg)](https://www.amazon.it/dp/B07J2HVSSR/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07J2HVSSR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

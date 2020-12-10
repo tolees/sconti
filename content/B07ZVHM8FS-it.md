@@ -22,6 +22,9 @@ Tienes [DADYPET Ciotole per Cani  Distributori di Cibo per Gatti -Ciotole per Ca
 
 [![DADYPET Ciotole per Cani  Distributori d](https://m.media-amazon.com/images/I/41XORhrJ4fL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVHM8FS/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07ZVHM8FS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

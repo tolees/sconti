@@ -22,6 +22,9 @@ Está [Sandisk Ultra Flair 128 GB  Chiavetta USB 3.0  Velocità di Lettura fino 
 
 [![Sandisk Ultra Flair 128 GB  Chiavetta US](https://m.media-amazon.com/images/I/41uMfxnNmYL._SL200_.jpg)](https://www.amazon.it/dp/B015CH1PJU/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B015CH1PJU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

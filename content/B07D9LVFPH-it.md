@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Bikini Mutande  Rosa  Pale Blush 612   40  Taglia Produtto
 
 [![Tommy Hilfiger Bikini Mutande  Rosa  Pal](https://m.media-amazon.com/images/I/41+kPTjb7zL._SL200_.jpg)](https://www.amazon.it/dp/B07D9LVFPH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07D9LVFPH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

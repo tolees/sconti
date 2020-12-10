@@ -22,6 +22,9 @@ Está [Marchio Amazon - MERAKI Slip a Vita Bassa in Cotone Uomo  Pacco da 4  Whi
 
 [![Marchio Amazon - MERAKI Slip a Vita Bass](https://m.media-amazon.com/images/I/31an05mRSwL._SL200_.jpg)](https://www.amazon.it/dp/B07MVQKXNS/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07MVQKXNS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

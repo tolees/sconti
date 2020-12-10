@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsung U28H750 Monitor 28   4K Ultra HD  3840 x 2160  Panne
 
 [![Samsung U28H750 Monitor 28   4K Ultra HD](https://m.media-amazon.com/images/I/41UZcPl+K-L._SL200_.jpg)](https://www.amazon.it/dp/B0711S2JHQ/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0711S2JHQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

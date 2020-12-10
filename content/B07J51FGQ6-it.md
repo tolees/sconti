@@ -22,6 +22,9 @@ Está [SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV Pieghevole Quadricotte
 
 [![SIMREX X300C Mini Drone con Fotocamera W](https://m.media-amazon.com/images/I/418s75rZ9rL._SL200_.jpg)](https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

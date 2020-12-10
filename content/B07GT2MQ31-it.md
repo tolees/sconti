@@ -22,6 +22,9 @@ Está [Desigual Bag Apolo Rotterdam Women - Borse a spalla Donna  Bianco  Crudo 
 
 [![Desigual Bag Apolo Rotterdam Women - Bor](https://m.media-amazon.com/images/I/51ZnWwkzY5L._SL200_.jpg)](https://www.amazon.it/dp/B07GT2MQ31/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07GT2MQ31/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

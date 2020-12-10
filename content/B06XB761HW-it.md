@@ -22,6 +22,9 @@ Ahora mismo tienes [EasySMX ESM-9100-Gray Joystick controller con cavo  Doppial-
 
 [![EasySMX ESM-9100-Gray Joystick controlle](https://m.media-amazon.com/images/I/41tQhZRFNgL._SL200_.jpg)](https://www.amazon.it/dp/B06XB761HW/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B06XB761HW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

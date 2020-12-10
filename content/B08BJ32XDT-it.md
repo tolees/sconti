@@ -22,6 +22,9 @@ Está [FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac
 
 [![FFTH Hard Disk 1 TB Esterno Portatile US](https://m.media-amazon.com/images/I/317A9Kb3OiL._SL200_.jpg)](https://www.amazon.it/dp/B08BJ32XDT/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08BJ32XDT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

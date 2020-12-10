@@ -22,6 +22,9 @@ Está [UGG Female Classic Short II Classic Boot  Black  5  UK ](https://www.amaz
 
 [![UGG Female Classic Short II Classic Boot](https://m.media-amazon.com/images/I/31fNn1nMsUL._SL200_.jpg)](https://www.amazon.it/dp/B01AIHY66I/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01AIHY66I/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

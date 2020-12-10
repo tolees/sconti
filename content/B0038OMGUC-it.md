@@ -22,6 +22,9 @@ Ahora mismo tienes [Camper Peu Cami 20848  Scarpe da Ginnastica Donna  Dark Brow
 
 [![Camper Peu Cami 20848  Scarpe da Ginnast](https://m.media-amazon.com/images/I/41zmAiQ0pGL._SL200_.jpg)](https://www.amazon.it/dp/B0038OMGUC/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0038OMGUC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

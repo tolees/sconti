@@ -22,6 +22,9 @@ Está [Head & Shoulders Shampoo e Balsamo Antiforfora Suprême Idrata  con Olio 
 
 [![Head & Shoulders Shampoo e Balsamo Antif](https://m.media-amazon.com/images/I/41TBgbcMelL._SL200_.jpg)](https://www.amazon.it/dp/B07YZKNNGJ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07YZKNNGJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

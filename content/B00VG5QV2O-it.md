@@ -22,6 +22,9 @@ Está [Tè bianco imperiale dell’Himalaya in foglie – Il tè più sano al mo
 
 [![Tè bianco imperiale dell’Himalaya in fog](https://m.media-amazon.com/images/I/51V-Mu6PW0L._SL200_.jpg)](https://www.amazon.it/dp/B00VG5QV2O/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00VG5QV2O/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

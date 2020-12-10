@@ -22,6 +22,9 @@ Está [Salewa  Fanes 2 Ptx/Tw Clt M Jkt  Giacca  Uomo  Nero  Black Out Melange  
 
 [![Salewa  Fanes 2 Ptx/Tw Clt M Jkt  Giacca](https://m.media-amazon.com/images/I/41cSjM5Bn2L._SL200_.jpg)](https://www.amazon.it/dp/B07DWWFJF3/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07DWWFJF3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

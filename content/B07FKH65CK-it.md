@@ -22,6 +22,9 @@ Tienes [find. Slouch Stivaletti  Nero Black   38 EU](https://www.amazon.it/dp/B0
 
 [![find. Slouch Stivaletti  Nero Black   38](https://m.media-amazon.com/images/I/31vBcop+87L._SL200_.jpg)](https://www.amazon.it/dp/B07FKH65CK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07FKH65CK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Risoli Piastra Adattatore Per Induzione  Diametro 260 Mm](https://www.am
 
 [![Risoli Piastra Adattatore Per Induzione ](https://m.media-amazon.com/images/I/41pCglWH+zL._SL200_.jpg)](https://www.amazon.it/dp/B00TRTL6D0/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00TRTL6D0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Under Armour UA Undeniable SP 2.0  Borsa Unisex  Nero  OSFA](https://www.
 
 [![Under Armour UA Undeniable SP 2.0  Borsa](https://m.media-amazon.com/images/I/41+qnM1PyPL._SL200_.jpg)](https://www.amazon.it/dp/B07JK6XP6G/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07JK6XP6G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

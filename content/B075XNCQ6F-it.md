@@ -22,6 +22,9 @@ Tienes [AhaStyle - Supporto per cellulare 3 in 1  in silicone  compatibile con A
 
 [![AhaStyle - Supporto per cellulare 3 in 1](https://m.media-amazon.com/images/I/41eFgGV+QgL._SL200_.jpg)](https://www.amazon.it/dp/B075XNCQ6F/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B075XNCQ6F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Napapijri Voyage  Zaino Unisex Adulto  Grau  Dark Grey Solid   32x40x13 
 
 [![Napapijri Voyage  Zaino Unisex Adulto  G](https://m.media-amazon.com/images/I/41Z6CyZyyML._SL200_.jpg)](https://www.amazon.it/dp/B073D5GTZK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B073D5GTZK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

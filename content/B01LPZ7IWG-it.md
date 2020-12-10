@@ -22,6 +22,9 @@ Ahora mismo tienes [SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  Doppio Pac
 
 [![SanDisk Extreme Scheda di Memoria  SDHC ](https://m.media-amazon.com/images/I/51xP2CqgEHL._SL200_.jpg)](https://www.amazon.it/dp/B01LPZ7IWG/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01LPZ7IWG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

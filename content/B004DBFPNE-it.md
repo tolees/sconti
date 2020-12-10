@@ -22,6 +22,9 @@ Está [BIC Cristal Original Penne A Sfera Punta Media  1 0 mm  Blu  Pacco da 10]
 
 [![BIC Cristal Original Penne A Sfera Punta](https://m.media-amazon.com/images/I/51t8p2QSHEL._SL200_.jpg)](https://www.amazon.it/dp/B004DBFPNE/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B004DBFPNE/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

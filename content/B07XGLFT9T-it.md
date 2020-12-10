@@ -22,6 +22,9 @@ Está [Skechers DARLOW REMEGO  Sneaker Uomo  Blu  Denim Canvas den   39.5 EU](ht
 
 [![Skechers DARLOW REMEGO  Sneaker Uomo  Bl](https://m.media-amazon.com/images/I/41uH+4c8+CL._SL200_.jpg)](https://www.amazon.it/dp/B07XGLFT9T/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07XGLFT9T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

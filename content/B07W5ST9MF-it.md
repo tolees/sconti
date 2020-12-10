@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Squares Tee Maglietta  Blu  Blue Ink   X-Large Uomo](http
 
 [![Tommy Hilfiger Squares Tee Maglietta  Bl](https://m.media-amazon.com/images/I/31CPgD4nrZL._SL200_.jpg)](https://www.amazon.it/dp/B07W5ST9MF/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07W5ST9MF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

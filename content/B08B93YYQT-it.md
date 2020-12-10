@@ -22,6 +22,9 @@ Ahora mismo tienes [Dash Pods Allin1 Detersivo Lavatrice in Capsule Regolare  Ma
 
 [![Dash Pods Allin1 Detersivo Lavatrice in ](https://m.media-amazon.com/images/I/51MXdNPQS0L._SL200_.jpg)](https://www.amazon.it/dp/B08B93YYQT/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08B93YYQT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

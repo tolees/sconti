@@ -22,6 +22,9 @@ Está [CARPISA® Borsa a secchiello - Jordy](https://www.amazon.it/dp/B07XRXBXP9
 
 [![CARPISA® Borsa a secchiello - Jordy](https://m.media-amazon.com/images/I/31Wt1PRN3yL._SL200_.jpg)](https://www.amazon.it/dp/B07XRXBXP9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07XRXBXP9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Crewneck 1 T-Shirt  Blu  2pk Slim Crew Dress Blues X 
 
 [![Levi s Crewneck 1 T-Shirt  Blu  2pk Slim](https://m.media-amazon.com/images/I/41FHpGRbyuL._SL200_.jpg)](https://www.amazon.it/dp/B07TKDNG7Z/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07TKDNG7Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

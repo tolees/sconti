@@ -22,6 +22,9 @@ Está [Superga 2750-cotu Classic Sneaker  Uomo  Nero  Full Black S996   42.5 EU]
 
 [![Superga 2750-cotu Classic Sneaker  Uomo ](https://m.media-amazon.com/images/I/31bOz06WqpL._SL200_.jpg)](https://www.amazon.it/dp/B00CA0E76G/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00CA0E76G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

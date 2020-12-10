@@ -22,6 +22,9 @@ Ahora mismo tienes [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black
 
 [![Saucony Jazz Original Vintage  Sneakers ](https://m.media-amazon.com/images/I/41PvXpwbkjL._SL200_.jpg)](https://www.amazon.it/dp/B07F79GWWK/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07F79GWWK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

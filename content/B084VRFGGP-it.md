@@ -22,6 +22,9 @@ Tienes [MS Windows 10 Pro 32 bit e 64 bit - Chiave di Licenza Originale per Post
 
 [![MS Windows 10 Pro 32 bit e 64 bit - Chia](https://m.media-amazon.com/images/I/4152mDU284L._SL200_.jpg)](https://www.amazon.it/dp/B084VRFGGP/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B084VRFGGP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

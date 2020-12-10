@@ -22,6 +22,9 @@ Tienes [Levi s Graphic Tee T-Shirt  Nero  Boxtab SS T2 Mineral Black 0002   Larg
 
 [![Levi s Graphic Tee T-Shirt  Nero  Boxtab](https://m.media-amazon.com/images/I/41ec8cP+XxL._SL200_.jpg)](https://www.amazon.it/dp/B07TRM78S5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TRM78S5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

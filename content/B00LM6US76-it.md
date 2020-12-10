@@ -22,6 +22,9 @@ Está [Havaianas Slim 4000030 Infradito Donna  Grigio  Steel Grey   37/38 EU](ht
 
 [![Havaianas Slim 4000030 Infradito Donna  ](https://m.media-amazon.com/images/I/31lPn5WxhwL._SL200_.jpg)](https://www.amazon.it/dp/B00LM6US76/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00LM6US76/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

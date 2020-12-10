@@ -22,6 +22,9 @@ Ahora mismo tienes [eXtremeRate Pulsante ABXY D-pad Croci Direzionali Tasti ZR Z
 
 [![eXtremeRate Pulsante ABXY D-pad Croci Di](https://m.media-amazon.com/images/I/41VdPRyJ-iL._SL200_.jpg)](https://www.amazon.it/dp/B08HS2JQQ1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08HS2JQQ1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

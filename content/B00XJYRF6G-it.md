@@ -22,6 +22,9 @@ Tienes [Reebok CL LTHR  Scarpe da Ginnastica Donna  Bianco  White/Gum   36 EU](h
 
 [![Reebok CL LTHR  Scarpe da Ginnastica Don](https://m.media-amazon.com/images/I/313ClchY2nL._SL200_.jpg)](https://www.amazon.it/dp/B00XJYRF6G/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00XJYRF6G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

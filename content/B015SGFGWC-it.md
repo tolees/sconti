@@ -22,6 +22,9 @@ Tienes [Havaianas Luna  Sandali Donna  Blu  Navy Blue 0555   37/38 EU](https://w
 
 [![Havaianas Luna  Sandali Donna  Blu  Navy](https://m.media-amazon.com/images/I/51CotKJOYkL._SL200_.jpg)](https://www.amazon.it/dp/B015SGFGWC/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B015SGFGWC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Claber 87335 Inter. POZZETTO Grande 90510  Nero/Arancione/Grigio  500x640
 
 [![Claber 87335 Inter. POZZETTO Grande 9051](https://m.media-amazon.com/images/I/41EV-+gUduL._SL200_.jpg)](https://www.amazon.it/dp/B007VDJ06O/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B007VDJ06O/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Pinypon Famosa Casa delle Favole  700012406](https://www.amazon.it/dp/B00
 
 [![Pinypon Famosa Casa delle Favole  700012](https://m.media-amazon.com/images/I/61EQ8gjtT2L._SL200_.jpg)](https://www.amazon.it/dp/B00Z6YGB94/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00Z6YGB94/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

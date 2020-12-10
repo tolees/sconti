@@ -22,6 +22,9 @@ Ahora mismo tienes [Timberland Allington 6 inch Lace Up  Stivali Donna  Giallo  
 
 [![Timberland Allington 6 inch Lace Up  Sti](https://m.media-amazon.com/images/I/417JCcFqtvL._SL200_.jpg)](https://www.amazon.it/dp/B073PYY3T4/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B073PYY3T4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

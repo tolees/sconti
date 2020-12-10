@@ -22,6 +22,9 @@ Ahora mismo tienes [Lavazza Caffè Macinato - Pacco da 6 x 250 g](https://www.am
 
 [![Lavazza Caffè Macinato - Pacco da 6 x 25](https://m.media-amazon.com/images/I/51jmRGrwcAL._SL200_.jpg)](https://www.amazon.it/dp/B0761YRHXY/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0761YRHXY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Neoviva - Cuscino imbottito a forma di margherita  con 7 petali  Tessuto
 
 [![Neoviva - Cuscino imbottito a forma di m](https://m.media-amazon.com/images/I/51p9wkK7B7L._SL200_.jpg)](https://www.amazon.it/dp/B01D2YFNOS/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01D2YFNOS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

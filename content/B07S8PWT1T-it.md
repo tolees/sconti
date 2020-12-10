@@ -22,6 +22,9 @@ Está [PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Rosa  Rosewater
 
 [![PUMA ST Runner v2 NL  Scarpe da Ginnasti](https://m.media-amazon.com/images/I/31uaYtOUl9L._SL200_.jpg)](https://www.amazon.it/dp/B07S8PWT1T/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07S8PWT1T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

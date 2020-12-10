@@ -22,6 +22,9 @@ Está [Set Pittura ad Acquerello  36 Colori professionale portatile 12 Colori Me
 
 [![Set Pittura ad Acquerello  36 Colori pro](https://m.media-amazon.com/images/I/51MUJs0GSaL._SL200_.jpg)](https://www.amazon.it/dp/B08CDY9Q53/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CDY9Q53/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

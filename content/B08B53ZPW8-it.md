@@ -22,6 +22,9 @@ Tienes [Mascherina Lavabile Regolabile  nero ](https://www.amazon.it/dp/B08B53ZP
 
 [![Mascherina Lavabile Regolabile  nero ](https://m.media-amazon.com/images/I/31YSvESNHGL._SL200_.jpg)](https://www.amazon.it/dp/B08B53ZPW8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08B53ZPW8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

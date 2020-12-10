@@ -22,6 +22,9 @@ Está [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Blue Navy Silver 4
 
 [![Saucony Jazz Original Vintage  Sneakers ](https://m.media-amazon.com/images/I/51Z49yrbt1L._SL200_.jpg)](https://www.amazon.it/dp/B073Q6HYPT/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B073Q6HYPT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

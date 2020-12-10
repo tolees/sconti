@@ -22,6 +22,9 @@ Ahora mismo tienes [HP - Gaming OMEN 15-dh0052nl Notebook  Intel Core i7-9750H  
 
 [![HP - Gaming OMEN 15-dh0052nl Notebook  I](https://m.media-amazon.com/images/I/41gRwT9En+L._SL200_.jpg)](https://www.amazon.it/dp/B086HGWKGL/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B086HGWKGL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

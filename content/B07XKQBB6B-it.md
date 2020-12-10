@@ -22,6 +22,9 @@ Está [Chiave del prodotto Office Professional Plus 2019 a 32/64 bit con istruzi
 
 [![Chiave del prodotto Office Professional ](https://m.media-amazon.com/images/I/41jWyzriBnL._SL200_.jpg)](https://www.amazon.it/dp/B07XKQBB6B/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07XKQBB6B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Havaianas Slim Brasil Logo  Infradito  Donna  Nero  39/40 EU](https://www
 
 [![Havaianas Slim Brasil Logo  Infradito  D](https://m.media-amazon.com/images/I/513xxCT64RL._SL200_.jpg)](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

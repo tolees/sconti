@@ -22,6 +22,9 @@ Está [Garmin Forerunner 45s  Orologio Smart GPS per la Corsa e Altri Sport Unis
 
 [![Garmin Forerunner 45s  Orologio Smart GP](https://m.media-amazon.com/images/I/41PLKQ9nF1L._SL200_.jpg)](https://www.amazon.it/dp/B07PXZ8W76/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07PXZ8W76/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

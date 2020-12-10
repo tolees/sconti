@@ -22,6 +22,9 @@ Ahora mismo tienes [BLACK+DECKER BHHV315J-QW  Aspiratore Ricaricabile Aspirabric
 
 [![BLACK+DECKER BHHV315J-QW  Aspiratore Ric](https://m.media-amazon.com/images/I/41peLU0f1zL._SL200_.jpg)](https://www.amazon.it/dp/B07PH28CRB/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07PH28CRB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

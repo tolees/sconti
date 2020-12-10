@@ -22,6 +22,9 @@ Está [Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Blu  Dark Blue C
 
 [![Timberland Union Wharf Lace Oxford  Snea](https://m.media-amazon.com/images/I/31Pa5f3w3nL._SL200_.jpg)](https://www.amazon.it/dp/B07F1WZ8FH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07F1WZ8FH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

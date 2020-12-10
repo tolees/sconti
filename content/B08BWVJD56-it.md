@@ -22,6 +22,9 @@ Está [eXtremeRate Tasti Ricambio per Playstation 4 PS4 Pro Slim Controller Trig
 
 [![eXtremeRate Tasti Ricambio per Playstati](https://m.media-amazon.com/images/I/316IX89I8SL._SL200_.jpg)](https://www.amazon.it/dp/B08BWVJD56/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08BWVJD56/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

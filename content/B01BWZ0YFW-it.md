@@ -22,6 +22,9 @@ Está [Havaianas Slim Crystal Glamour SW  Infradito Donna  Grigio  Steel Grey 51
 
 [![Havaianas Slim Crystal Glamour SW  Infra](https://m.media-amazon.com/images/I/31Wd0TsltAL._SL200_.jpg)](https://www.amazon.it/dp/B01BWZ0YFW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01BWZ0YFW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

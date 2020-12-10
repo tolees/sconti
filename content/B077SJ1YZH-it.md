@@ -22,6 +22,9 @@ Tienes [Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Rosso Red White  L](h
 
 [![Puma Liga Casuals Hoody  Felpa con Cappu](https://m.media-amazon.com/images/I/41cCMIgTfaL._SL200_.jpg)](https://www.amazon.it/dp/B077SJ1YZH/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B077SJ1YZH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [ARMANI EXCHANGE Icon T T-Shirt  Bianco  White W/Saint Tropez
 
 [![ARMANI EXCHANGE Icon T T-Shirt  Bianco  ](https://m.media-amazon.com/images/I/41rAqdtCJbL._SL200_.jpg)](https://www.amazon.it/dp/B07SYNN8P8/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SYNN8P8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

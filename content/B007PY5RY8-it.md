@@ -22,6 +22,9 @@ Ahora mismo tienes [Crocs  Winter Puff Boot K  Stivaletti  Unisex - bambino  Blu
 
 [![Crocs  Winter Puff Boot K  Stivaletti  U](https://m.media-amazon.com/images/I/41ziyKz8iDL._SL200_.jpg)](https://www.amazon.it/dp/B007PY5RY8/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B007PY5RY8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

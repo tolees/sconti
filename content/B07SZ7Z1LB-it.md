@@ -22,6 +22,9 @@ Tienes [Geox U Nebula Y A  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4002   46
 
 [![Geox U Nebula Y A  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/313MEKTLvVL._SL200_.jpg)](https://www.amazon.it/dp/B07SZ7Z1LB/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07SZ7Z1LB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

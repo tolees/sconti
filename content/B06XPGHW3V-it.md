@@ -22,6 +22,9 @@ Tienes [Kong: Skull Island  4K Ultra HD + Blu-Ray Disc + Copia Digitale   2 Blu-
 
 [![Kong: Skull Island  4K Ultra HD + Blu-Ra](https://m.media-amazon.com/images/I/518PghpMywL._SL200_.jpg)](https://www.amazon.it/dp/B06XPGHW3V/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XPGHW3V/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

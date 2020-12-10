@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsung Memorie MB-ME64GA EVO Select Scheda microSD da 64 GB
 
 [![Samsung Memorie MB-ME64GA EVO Select Sch](https://m.media-amazon.com/images/I/31LOfp8sv5L._SL200_.jpg)](https://www.amazon.it/dp/B07CXY73KF/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07CXY73KF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

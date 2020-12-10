@@ -22,6 +22,9 @@ Está [keeeper Set da 5 Contenitori per Congelare Alimenti  Coperchio Scrivibile
 
 [![keeeper Set da 5 Contenitori per Congela](https://m.media-amazon.com/images/I/51Zb52qXIbL._SL200_.jpg)](https://www.amazon.it/dp/B01CPHRSYQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01CPHRSYQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

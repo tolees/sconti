@@ -22,6 +22,9 @@ Está [Tommy Hilfiger TH Ess Skinny Rib Tee LS Maglia a Maniche Lunghe  Blu  Bre
 
 [![Tommy Hilfiger TH Ess Skinny Rib Tee LS ](https://m.media-amazon.com/images/I/41-EUB0pXhL._SL200_.jpg)](https://www.amazon.it/dp/B07VR3XRHX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VR3XRHX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

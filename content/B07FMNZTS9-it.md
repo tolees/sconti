@@ -22,6 +22,9 @@ Está [Calvin Klein 3p Low Rise Trunk Boxer  Blu  Black/Blue Shadow/Cobalt Water
 
 [![Calvin Klein 3p Low Rise Trunk Boxer  Bl](https://m.media-amazon.com/images/I/41wpm5TQYwL._SL200_.jpg)](https://www.amazon.it/dp/B07FMNZTS9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07FMNZTS9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

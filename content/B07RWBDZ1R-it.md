@@ -22,6 +22,9 @@ Ahora mismo tienes [Havaianas Top Logomania  Infradito Unisex-Adulto  Blu  Navy 
 
 [![Havaianas Top Logomania  Infradito Unise](https://m.media-amazon.com/images/I/51m72wukMqL._SL200_.jpg)](https://www.amazon.it/dp/B07RWBDZ1R/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07RWBDZ1R/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

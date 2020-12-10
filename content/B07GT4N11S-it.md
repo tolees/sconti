@@ -22,6 +22,9 @@ Está [Razer Mamba Wireless Mouse da Gaming  Nero](https://www.amazon.it/dp/B07G
 
 [![Razer Mamba Wireless Mouse da Gaming  Ne](https://m.media-amazon.com/images/I/31pmRG4OJxL._SL200_.jpg)](https://www.amazon.it/dp/B07GT4N11S/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07GT4N11S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

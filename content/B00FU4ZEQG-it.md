@@ -22,6 +22,9 @@ Está [Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Nero  43/46 - Confezione da
 
 [![Tommy Hilfiger TH Men Quarter 2P  Calze ](https://m.media-amazon.com/images/I/4158s9d3yeL._SL200_.jpg)](https://www.amazon.it/dp/B00FU4ZEQG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00FU4ZEQG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

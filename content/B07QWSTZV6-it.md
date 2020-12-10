@@ -22,6 +22,9 @@ Está [YINSAN TM5  Cuffie Gaming per PS4  Cuffie PS4 Over Ear con Microfono  RGB
 
 [![YINSAN TM5  Cuffie Gaming per PS4  Cuffi](https://m.media-amazon.com/images/I/51WhwD22dmL._SL200_.jpg)](https://www.amazon.it/dp/B07QWSTZV6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07QWSTZV6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

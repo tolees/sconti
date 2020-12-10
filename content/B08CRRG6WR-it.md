@@ -22,6 +22,9 @@ Ahora mismo tienes [Dokkita Spazzolino da Denti per Cani  Dog Brushing Stick-Bas
 
 [![Dokkita Spazzolino da Denti per Cani  Do](https://m.media-amazon.com/images/I/41GBhULdIuL._SL200_.jpg)](https://www.amazon.it/dp/B08CRRG6WR/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08CRRG6WR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Vernel Blu Oxygen Ammorbidente Concentrato Profumato per Lavatrice  8 x 
 
 [![Vernel Blu Oxygen Ammorbidente Concentra](https://m.media-amazon.com/images/I/51udLHOxnlL._SL200_.jpg)](https://www.amazon.it/dp/B081BF4P2Z/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B081BF4P2Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

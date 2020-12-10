@@ -22,6 +22,9 @@ Está [Shuliancable Cavo HDMI  Cavo HDMI Alta Velocità con Ethernet Supporta HD
 
 [![Shuliancable Cavo HDMI  Cavo HDMI Alta V](https://m.media-amazon.com/images/I/41P6MZFz0CL._SL200_.jpg)](https://www.amazon.it/dp/B07LBPR3HQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07LBPR3HQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

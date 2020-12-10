@@ -22,6 +22,9 @@ Tienes [Pigna Monocromo 02298871R  Quaderno Formato A4  Rigatura 1R  Righe per M
 
 [![Pigna Monocromo 02298871R  Quaderno Form](https://m.media-amazon.com/images/I/41f1+pkBcmL._SL200_.jpg)](https://www.amazon.it/dp/B07BR2CSKS/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07BR2CSKS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

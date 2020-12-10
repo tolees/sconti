@@ -22,6 +22,9 @@ Ahora mismo tienes [Vans Herren Colorblock Tee T - Shirt  Schwarz  Black/athleti
 
 [![Vans Herren Colorblock Tee T - Shirt  Sc](https://m.media-amazon.com/images/I/41yLp9RCU2L._SL200_.jpg)](https://www.amazon.it/dp/B06W9M74TB/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B06W9M74TB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

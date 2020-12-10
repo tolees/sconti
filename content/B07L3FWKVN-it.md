@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Dress Casual Leather Shoe  Scarpe Stringate Oxford Uomo  N
 
 [![Tommy Hilfiger Dress Casual Leather Shoe](https://m.media-amazon.com/images/I/31-4P1x2KDL._SL200_.jpg)](https://www.amazon.it/dp/B07L3FWKVN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07L3FWKVN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

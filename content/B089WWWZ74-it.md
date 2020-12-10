@@ -22,6 +22,9 @@ Está [Finish Detersivo Per Lavastoviglie  100 Lavaggi  Powergel  2 Confezioni D
 
 [![Finish Detersivo Per Lavastoviglie  100 ](https://m.media-amazon.com/images/I/51lMb2c2iSL._SL200_.jpg)](https://www.amazon.it/dp/B089WWWZ74/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B089WWWZ74/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

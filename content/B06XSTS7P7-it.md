@@ -22,6 +22,9 @@ Ahora mismo tienes [Phd Barrette Diet Smart Bar Lampone Al Cioccolato Fondente  
 
 [![Phd Barrette Diet Smart Bar Lampone Al C](https://m.media-amazon.com/images/I/51T-b7MFTzL._SL200_.jpg)](https://www.amazon.it/dp/B06XSTS7P7/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B06XSTS7P7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

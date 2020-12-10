@@ -22,6 +22,9 @@ Está [Colgate Dentifricio Expert White - Pacco da 12 x 75 ml - Totale: 900 ml](
 
 [![Colgate Dentifricio Expert White - Pacco](https://m.media-amazon.com/images/I/41k48LlaVdL._SL200_.jpg)](https://www.amazon.it/dp/B074F1P4SZ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B074F1P4SZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

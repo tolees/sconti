@@ -22,6 +22,9 @@ Está [Arena M Fundamentals Logo  Pantaloncini da Bagno Uomo  Blu  Navy/Turquois
 
 [![Arena M Fundamentals Logo  Pantaloncini ](https://m.media-amazon.com/images/I/413+2vTtj0L._SL200_.jpg)](https://www.amazon.it/dp/B01EEQUOEC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01EEQUOEC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

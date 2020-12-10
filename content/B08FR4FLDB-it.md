@@ -22,6 +22,9 @@ Tienes [eXtremeRate 2 Pellicole Protettive Vetro Temperato Protezione Schermo pe
 
 [![eXtremeRate 2 Pellicole Protettive Vetro](https://m.media-amazon.com/images/I/41ZTTrx9CdL._SL200_.jpg)](https://www.amazon.it/dp/B08FR4FLDB/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08FR4FLDB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

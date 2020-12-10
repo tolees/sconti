@@ -22,6 +22,9 @@ Ahora mismo tienes [Cuffie senza fili per TV  con stazione di ricarica digitale 
 
 [![Cuffie senza fili per TV  con stazione d](https://m.media-amazon.com/images/I/41yqOdMkn-L._SL200_.jpg)](https://www.amazon.it/dp/B08CRDXBHD/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08CRDXBHD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [K-Way Le Vrai 3.0 Victor Unisex Felpa  Rosso  Small  Taglia Produttore:S 
 
 [![K-Way Le Vrai 3.0 Victor Unisex Felpa  R](https://m.media-amazon.com/images/I/41WX6PTtXNL._SL200_.jpg)](https://www.amazon.it/dp/B01M0IYKPC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01M0IYKPC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Widamin 6 Pezzi  Pellicola Protettiva per Mi Band 5  Ultra Sottile TPU Ma
 
 [![Widamin 6 Pezzi  Pellicola Protettiva pe](https://m.media-amazon.com/images/I/41C--U3NKxL._SL200_.jpg)](https://www.amazon.it/dp/B08B5PJLN9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08B5PJLN9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

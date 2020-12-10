@@ -22,6 +22,9 @@ Ahora mismo tienes [BTRONGROUP Caricatore per iPhone 11 XS XR X 8 7 Plus 6s 6 SE
 
 [![BTRONGROUP Caricatore per iPhone 11 XS X](https://m.media-amazon.com/images/I/31GPLQ5aweL._SL200_.jpg)](https://www.amazon.it/dp/B08K3KYCV3/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08K3KYCV3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

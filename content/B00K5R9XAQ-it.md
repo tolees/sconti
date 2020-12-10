@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Stretch V Neck 3 Pack Premium Ess Maglietta  
 
 [![Tommy Hilfiger Stretch V Neck 3 Pack Pre](https://m.media-amazon.com/images/I/31wKpYZLZ0L._SL200_.jpg)](https://www.amazon.it/dp/B00K5R9XAQ/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00K5R9XAQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

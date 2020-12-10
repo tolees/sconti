@@ -22,6 +22,9 @@ Ahora mismo tienes [Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker  Uomo  Blu 
 
 [![Timberland Adv 2.0 Cupsole Alpine Oxford](https://m.media-amazon.com/images/I/31PXdWykVrL._SL200_.jpg)](https://www.amazon.it/dp/B07B4JK3SS/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07B4JK3SS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

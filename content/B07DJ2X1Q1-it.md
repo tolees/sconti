@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox U KENNET B  Scarpe da Ginnastica Basse Uomo  Bianco  Wh
 
 [![Geox U KENNET B  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/31ndetLcSML._SL200_.jpg)](https://www.amazon.it/dp/B07DJ2X1Q1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07DJ2X1Q1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

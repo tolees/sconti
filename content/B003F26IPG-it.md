@@ -22,6 +22,9 @@ Ahora mismo tienes [Lacoste L1212  T-Shirt Polo  Uomo  Rosa  Flamant T03   FR 2]
 
 [![Lacoste L1212  T-Shirt Polo  Uomo  Rosa ](https://m.media-amazon.com/images/I/31aVavceNSL._SL200_.jpg)](https://www.amazon.it/dp/B003F26IPG/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B003F26IPG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

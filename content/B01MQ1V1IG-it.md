@@ -22,6 +22,9 @@ Tienes [Lacoste Sport Sh2128 Felpa con Cappuccio  Grigio  Argent Chine/Marine   
 
 [![Lacoste Sport Sh2128 Felpa con Cappuccio](https://m.media-amazon.com/images/I/41xyO+p8mcL._SL200_.jpg)](https://www.amazon.it/dp/B01MQ1V1IG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01MQ1V1IG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

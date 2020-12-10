@@ -22,6 +22,9 @@ Está [Guess Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox W0836
 
 [![Guess Orologio Analogico Quarzo Donna co](https://m.media-amazon.com/images/I/51R0hSwiTVL._SL200_.jpg)](https://www.amazon.it/dp/B06XGKVK4S/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B06XGKVK4S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

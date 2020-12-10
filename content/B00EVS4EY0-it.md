@@ -22,6 +22,9 @@ Está [LEGO Friends](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21) con 6
 
 [![LEGO Friends](https://m.media-amazon.com/images/I/61y-9yMzdqL._SL200_.jpg)](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

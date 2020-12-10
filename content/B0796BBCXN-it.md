@@ -22,6 +22,9 @@ Está [NAPAPIJRI Rainforest M Sum 1 Giacca  Nero  Black 041   Small Uomo](https:
 
 [![NAPAPIJRI Rainforest M Sum 1 Giacca  Ner](https://m.media-amazon.com/images/I/31Yp1W2jEzL._SL200_.jpg)](https://www.amazon.it/dp/B0796BBCXN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0796BBCXN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

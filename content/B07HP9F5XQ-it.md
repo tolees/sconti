@@ -22,6 +22,9 @@ Tienes [Skechers Men s STATUS 2.0- PEXTON Trainers  Blue  Navy NVY   9.5  44 EU 
 
 [![Skechers Men s STATUS 2.0- PEXTON Traine](https://m.media-amazon.com/images/I/41icFjJxzEL._SL200_.jpg)](https://www.amazon.it/dp/B07HP9F5XQ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07HP9F5XQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

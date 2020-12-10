@@ -22,6 +22,9 @@ Tienes [18W Caricabatterie Caricatore Per Xiaomi Redmi Note 7 8 9S 9 Pro Max 8T 
 
 [![18W Caricabatterie Caricatore Per Xiaomi](https://m.media-amazon.com/images/I/41uzSm3vMSL._SL200_.jpg)](https://www.amazon.it/dp/B085BFQ8KW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B085BFQ8KW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

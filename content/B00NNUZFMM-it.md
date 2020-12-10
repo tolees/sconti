@@ -22,6 +22,9 @@ Tienes [The Sims 4 - PC](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21) c
 
 [![The Sims 4 - PC](https://m.media-amazon.com/images/I/41Fqig2vgRL._SL500_._SL200_.jpg)](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

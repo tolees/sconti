@@ -22,6 +22,9 @@ Está [NAPAPIJRI Elbas 3 Polo  Verde  Green Way Gw11   Medium Uomo](https://www.
 
 [![NAPAPIJRI Elbas 3 Polo  Verde  Green Way](https://m.media-amazon.com/images/I/41Fzh--RroL._SL200_.jpg)](https://www.amazon.it/dp/B07VCCHFBL/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VCCHFBL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

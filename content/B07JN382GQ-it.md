@@ -22,6 +22,9 @@ Ahora mismo tienes [Timberland Adventure 2.0 Cupsole Modern Oxford  Sneaker Uomo
 
 [![Timberland Adventure 2.0 Cupsole Modern ](https://m.media-amazon.com/images/I/311E+BCXRFL._SL200_.jpg)](https://www.amazon.it/dp/B07JN382GQ/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07JN382GQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

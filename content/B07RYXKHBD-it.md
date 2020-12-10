@@ -22,6 +22,9 @@ Está [Pepe Jeans Hatch Jeans  Medium Used Hb6  29 W - 32 L Uomo](https://www.am
 
 [![Pepe Jeans Hatch Jeans  Medium Used Hb6 ](https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL200_.jpg)](https://www.amazon.it/dp/B07RYXKHBD/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07RYXKHBD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

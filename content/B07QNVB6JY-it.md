@@ -22,6 +22,9 @@ Está [Set da Bagno o Doccia Donna Regali in 8 Pezzi  Bagnoschiuma  Shampoo Bar 
 
 [![Set da Bagno o Doccia Donna Regali in 8 ](https://m.media-amazon.com/images/I/51gAGREP-mL._SL200_.jpg)](https://www.amazon.it/dp/B07QNVB6JY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07QNVB6JY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

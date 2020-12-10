@@ -22,6 +22,9 @@ Ahora mismo tienes [Vetril Igienizzante  650 ml](https://www.amazon.it/dp/B07WL6
 
 [![Vetril Igienizzante  650 ml](https://m.media-amazon.com/images/I/41prtQZujDL._SL200_.jpg)](https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

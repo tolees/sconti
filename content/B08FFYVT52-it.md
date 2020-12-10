@@ -22,6 +22,9 @@ Tienes [TOCOL [3 Pezzi] Pellicola Protettiva per Xiaomi Redmi 9A Schermo Protett
 
 [![TOCOL [3 Pezzi] Pellicola Protettiva per](https://m.media-amazon.com/images/I/51l2bcekYYL._SL200_.jpg)](https://www.amazon.it/dp/B08FFYVT52/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08FFYVT52/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Crocs  Baya Summer Flip U  Sandali  Uomo  Blu  Blau  Navy 410    42-43](h
 
 [![Crocs  Baya Summer Flip U  Sandali  Uomo](https://m.media-amazon.com/images/I/41S9cast9eL._SL200_.jpg)](https://www.amazon.it/dp/B005HV2PZK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B005HV2PZK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

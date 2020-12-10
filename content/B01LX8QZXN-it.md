@@ -22,6 +22,9 @@ Tienes [APLI Kids 13337 – Confezione di 36 rotoli di K60 senza rumore  48�
 
 [![APLI Kids 13337 – Confezione di 36 rotol](https://m.media-amazon.com/images/I/41fsoKvfNiL._SL200_.jpg)](https://www.amazon.it/dp/B01LX8QZXN/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01LX8QZXN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

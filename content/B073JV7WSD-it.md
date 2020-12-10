@@ -22,6 +22,9 @@ Ahora mismo tienes [Marchio Amazon - find. Bomber Imbottito Uomo  Blu  Navy   M 
 
 [![Marchio Amazon - find. Bomber Imbottito ](https://m.media-amazon.com/images/I/417RRYdDRLL._SL200_.jpg)](https://www.amazon.it/dp/B073JV7WSD/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B073JV7WSD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

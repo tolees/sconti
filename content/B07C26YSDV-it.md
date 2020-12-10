@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jjecorp Logo Sweat Hood Noos Cappuccio  Nero  Black Detail:
 
 [![JACK & JONES Jjecorp Logo Sweat Hood Noo](https://m.media-amazon.com/images/I/316gjIy2o5L._SL200_.jpg)](https://www.amazon.it/dp/B07C26YSDV/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07C26YSDV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

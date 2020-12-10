@@ -22,6 +22,9 @@ Está [Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Ma
 
 [![Riyth Hard Disk 1 TB Esterno  Hard Disk ](https://m.media-amazon.com/images/I/31iChg-93yL._SL200_.jpg)](https://www.amazon.it/dp/B08DJ3JJ2R/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08DJ3JJ2R/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

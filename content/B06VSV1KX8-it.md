@@ -22,6 +22,9 @@ Tienes [Hoover La71 La10011 Lander - Aspirapolvere a Traino Senza Sacco  700 W  
 
 [![Hoover La71 La10011 Lander - Aspirapolve](https://m.media-amazon.com/images/I/319emt2hUuL._SL200_.jpg)](https://www.amazon.it/dp/B06VSV1KX8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06VSV1KX8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

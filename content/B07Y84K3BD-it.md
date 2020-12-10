@@ -22,6 +22,9 @@ Está [Zacro Ring Light LED  LED Luce ad Anello for YouTube Video and Makeup  LE
 
 [![Zacro Ring Light LED  LED Luce ad Anello](https://m.media-amazon.com/images/I/51GR6TrSE5L._SL200_.jpg)](https://www.amazon.it/dp/B07Y84K3BD/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07Y84K3BD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

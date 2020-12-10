@@ -22,6 +22,9 @@ Está [Superdry Desert Alchemy Quilted Hoody Giacca  Arancione  Baja Orange 7sq 
 
 [![Superdry Desert Alchemy Quilted Hoody Gi](https://m.media-amazon.com/images/I/41x40ETE9ML._SL200_.jpg)](https://www.amazon.it/dp/B07TP417MD/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TP417MD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

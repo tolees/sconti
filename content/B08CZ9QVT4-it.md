@@ -22,6 +22,9 @@ Tienes [UniqueMe [3 Pezzi] Vetro Temperato per Xiaomi Redmi 9 Pellicola Vetro co
 
 [![UniqueMe [3 Pezzi] Vetro Temperato per X](https://m.media-amazon.com/images/I/515W2XVik4L._SL200_.jpg)](https://www.amazon.it/dp/B08CZ9QVT4/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08CZ9QVT4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

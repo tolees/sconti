@@ -22,6 +22,9 @@ Ahora mismo tienes [Toozey Gioco per Cani Giocattolo per masticatori - Giochi pe
 
 [![Toozey Gioco per Cani Giocattolo per mas](https://m.media-amazon.com/images/I/51uGn4pdj-L._SL200_.jpg)](https://www.amazon.it/dp/B089N3MV3K/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B089N3MV3K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

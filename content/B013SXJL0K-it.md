@@ -22,6 +22,9 @@ Está [Calvin Klein Eternity for Men Eau de Toilette  30 ml](https://www.amazon.
 
 [![Calvin Klein Eternity for Men Eau de Toi](https://m.media-amazon.com/images/I/41fkvOlYExL._SL200_.jpg)](https://www.amazon.it/dp/B013SXJL0K/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B013SXJL0K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

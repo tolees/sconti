@@ -22,6 +22,9 @@ Tienes [Custodia per Samsung Galaxy Tab A 10.1 T510 / T515 / T517 2019  Custodia
 
 [![Custodia per Samsung Galaxy Tab A 10.1 T](https://m.media-amazon.com/images/I/51OpbaD-hrL._SL200_.jpg)](https://www.amazon.it/dp/B07T5KZR9J/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07T5KZR9J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

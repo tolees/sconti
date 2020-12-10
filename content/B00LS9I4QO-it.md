@@ -22,6 +22,9 @@ Está [K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Verde  Torba   Small 
 
 [![K-Way le Vrai 3.0 Claude  Giacca Imperme](https://m.media-amazon.com/images/I/418acCkmfsL._SL200_.jpg)](https://www.amazon.it/dp/B00LS9I4QO/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00LS9I4QO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

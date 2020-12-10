@@ -22,6 +22,9 @@ Está [Tester di Rete e Cavi Telefonici  Tacklife CT03 Rilevatore di Rete e Cavi
 
 [![Tester di Rete e Cavi Telefonici  Tackli](https://m.media-amazon.com/images/I/515H0DTl01L._SL200_.jpg)](https://www.amazon.it/dp/B07R5M6L1C/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07R5M6L1C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

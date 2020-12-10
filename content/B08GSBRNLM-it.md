@@ -22,6 +22,9 @@ Ahora mismo tienes [Syxinn Anello Castone per Samsung Galaxy Watch 3 45mm Anello
 
 [![Syxinn Anello Castone per Samsung Galaxy](https://m.media-amazon.com/images/I/51wLNZfha7L._SL200_.jpg)](https://www.amazon.it/dp/B08GSBRNLM/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08GSBRNLM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

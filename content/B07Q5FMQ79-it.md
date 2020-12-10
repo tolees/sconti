@@ -22,6 +22,9 @@ Está [Samsung UE49RU8000U Smart TV 4K Ultra HD 49" Wi-Fi DVB-T2CS2  Serie RU800
 
 [![Samsung UE49RU8000U Smart TV 4K Ultra HD](https://m.media-amazon.com/images/I/511SC+UT1KL._SL200_.jpg)](https://www.amazon.it/dp/B07Q5FMQ79/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07Q5FMQ79/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel Discover-me Oderzo  Borsa a Tracolla Uomo  Blu  Blue 
 
 [![Diesel Discover-me Oderzo  Borsa a Traco](https://m.media-amazon.com/images/I/417XkHIOWOL._SL200_.jpg)](https://www.amazon.it/dp/B07RXWGTM4/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07RXWGTM4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

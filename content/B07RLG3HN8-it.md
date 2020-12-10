@@ -22,6 +22,9 @@ Tienes [Viakal Detersivo Anticalcare WC Gel  Maxi Formato 2 Pezzi da 750 ml](htt
 
 [![Viakal Detersivo Anticalcare WC Gel  Max](https://m.media-amazon.com/images/I/41Rk2GqZCRL._SL200_.jpg)](https://www.amazon.it/dp/B07RLG3HN8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RLG3HN8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vans Herren Otw Raglan T-Shirt  Mehrfarbig  WHITE-BLACK YB2   Small](http
 
 [![Vans Herren Otw Raglan T-Shirt  Mehrfarb](https://m.media-amazon.com/images/I/41tPAyvQ2CL._SL200_.jpg)](https://www.amazon.it/dp/B00I3G46MQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00I3G46MQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

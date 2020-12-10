@@ -22,6 +22,9 @@ Está [Kingston Canvas Select Plus SDCS2/128GB Scheda microSD Classe 10 con Adat
 
 [![Kingston Canvas Select Plus SDCS2/128GB ](https://m.media-amazon.com/images/I/41iqLNmpPWL._SL200_.jpg)](https://www.amazon.it/dp/B07YGZ7JD5/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07YGZ7JD5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

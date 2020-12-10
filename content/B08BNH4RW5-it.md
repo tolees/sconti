@@ -22,6 +22,9 @@ Ahora mismo tienes [Auricolari Bluetooth Cuffie Bluetooth 5.0 Auricolari Del Rum
 
 [![Auricolari Bluetooth Cuffie Bluetooth 5.](https://m.media-amazon.com/images/I/41Q0uC5mrCL._SL200_.jpg)](https://www.amazon.it/dp/B08BNH4RW5/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08BNH4RW5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

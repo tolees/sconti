@@ -22,6 +22,9 @@ Está [Lampada UV LED Unghie  Carttiya Asciuga Unghie per Smalto UV LED in Gel  
 
 [![Lampada UV LED Unghie  Carttiya Asciuga ](https://m.media-amazon.com/images/I/41zZXabBTjL._SL200_.jpg)](https://www.amazon.it/dp/B0797GBRP8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0797GBRP8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

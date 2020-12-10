@@ -22,6 +22,9 @@ Tienes [Elyco Wireless Controller per Nintendo Switch  Bluetooth Joycon Joystick
 
 [![Elyco Wireless Controller per Nintendo S](https://m.media-amazon.com/images/I/41haQ7GLIEL._SL200_.jpg)](https://www.amazon.it/dp/B08CZ43WW9/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08CZ43WW9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

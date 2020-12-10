@@ -22,6 +22,9 @@ Está [[2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5 pollici Staffa
 
 [![[2 confezioni] GLOTRENDS Supporto per HD](https://m.media-amazon.com/images/I/31mElUVVsPL._SL200_.jpg)](https://www.amazon.it/dp/B0856TLMTD/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0856TLMTD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Britax Römer seggiolino auto da 9 mesi a 12 anni  9-36 Kg   EVOLVA 123 
 
 [![Britax Römer seggiolino auto da 9 mesi a](https://m.media-amazon.com/images/I/41SbrBmI87L._SL200_.jpg)](https://www.amazon.it/dp/B076CM26HH/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B076CM26HH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Cuffie Gaming PS4 PC Xbox One  Maegoo Over Ear Cuffie da Gam
 
 [![Cuffie Gaming PS4 PC Xbox One  Maegoo Ov](https://m.media-amazon.com/images/I/41UzXuMLY4L._SL200_.jpg)](https://www.amazon.it/dp/B087JSJX8D/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B087JSJX8D/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

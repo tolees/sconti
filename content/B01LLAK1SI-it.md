@@ -22,6 +22,9 @@ Ahora mismo tienes [TP-Link Archer C1200 Gigabit Router Wi-Fi Dual Band AC1200 W
 
 [![TP-Link Archer C1200 Gigabit Router Wi-F](https://m.media-amazon.com/images/I/41ZSvwrJdkL._SL200_.jpg)](https://www.amazon.it/dp/B01LLAK1SI/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01LLAK1SI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

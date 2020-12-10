@@ -22,6 +22,9 @@ Tienes [AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr](https://www.ama
 
 [![AIA Wudy Classico 3 Wurstel di Pollo e T](https://m.media-amazon.com/images/I/518xh2BBk+L._SL200_.jpg)](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

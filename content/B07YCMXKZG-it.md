@@ -22,6 +22,9 @@ Está [TACKLIFE Tagliabordi  350W Tagliabordi Elettrico  25 cm Larghezza Taglio 
 
 [![TACKLIFE Tagliabordi  350W Tagliabordi E](https://m.media-amazon.com/images/I/41d3f-9fPxL._SL200_.jpg)](https://www.amazon.it/dp/B07YCMXKZG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07YCMXKZG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

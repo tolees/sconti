@@ -22,6 +22,9 @@ Está [Custodia per Nintendo Switch - Protettivo Trasporto Case Rigido Originale
 
 [![Custodia per Nintendo Switch - Protettiv](https://m.media-amazon.com/images/I/41ELofxcsLL._SL200_.jpg)](https://www.amazon.it/dp/B089G2CSNK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B089G2CSNK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

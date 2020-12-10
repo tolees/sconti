@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva  N
 
 [![Tommy Hilfiger Block Stripe Hilfiger Tee](https://m.media-amazon.com/images/I/41npVZzfZiL._SL200_.jpg)](https://www.amazon.it/dp/B07W4NMDQX/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07W4NMDQX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

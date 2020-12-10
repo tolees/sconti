@@ -22,6 +22,9 @@ Tienes [L Oréal Paris  Rossetto Matte Liquido Tinta Labbra a Lunga Tenuta  Coll
 
 [![L Oréal Paris  Rossetto Matte Liquido Ti](https://m.media-amazon.com/images/I/31V6Pk8iqIL._SL200_.jpg)](https://www.amazon.it/dp/B07CJCXG47/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07CJCXG47/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

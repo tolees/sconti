@@ -22,6 +22,9 @@ Tienes [ArtWay - Piegatore in Osso Vero - per Piegare con precisione Carta e car
 
 [![ArtWay - Piegatore in Osso Vero - per Pi](https://m.media-amazon.com/images/I/21FzsQnn4VL._SL200_.jpg)](https://www.amazon.it/dp/B00WI75MEW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00WI75MEW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

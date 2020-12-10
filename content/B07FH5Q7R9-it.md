@@ -22,6 +22,9 @@ Está [Havaianas Slim Brasil Logo  Infradito Donna  Rosa  Rose Nude 7939   33/34
 
 [![Havaianas Slim Brasil Logo  Infradito Do](https://m.media-amazon.com/images/I/31jCLspw6cL._SL200_.jpg)](https://www.amazon.it/dp/B07FH5Q7R9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07FH5Q7R9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

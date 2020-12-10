@@ -22,6 +22,9 @@ Está [D-Link DIR-882  Router Wi-Fi AC2600 Dual band  5 Porte Gigabit  1 Porta U
 
 [![D-Link DIR-882  Router Wi-Fi AC2600 Dual](https://m.media-amazon.com/images/I/31I73sMGpeL._SL200_.jpg)](https://www.amazon.it/dp/B075FZR9M4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B075FZR9M4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

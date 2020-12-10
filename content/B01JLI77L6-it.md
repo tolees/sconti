@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger - Orologio da donna  Impermeabile fino a 3 atm  30 metri 
 
 [![Tommy Hilfiger - Orologio da donna  Impe](https://m.media-amazon.com/images/I/41AX0QMBfJL._SL200_.jpg)](https://www.amazon.it/dp/B01JLI77L6/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01JLI77L6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

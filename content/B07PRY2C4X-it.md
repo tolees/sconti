@@ -22,6 +22,9 @@ Está [Curcuma Bio 1440 mg con Piperina e Zenzero - 180 Capsule di Curcuma e Pip
 
 [![Curcuma Bio 1440 mg con Piperina e Zenze](https://m.media-amazon.com/images/I/51uXAZ682AL._SL200_.jpg)](https://www.amazon.it/dp/B07PRY2C4X/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07PRY2C4X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto Formato Quadrat
 
 [![Fujifilm Instax Square SQ6 Fotocamera Is](https://m.media-amazon.com/images/I/517CHo+5X6L._SL200_.jpg)](https://www.amazon.it/dp/B07CV6XRBD/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07CV6XRBD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Only Onlroyal Reg SK DNM Jeans Bj312 Noos Skinny  Grigio  Da
 
 [![Only Onlroyal Reg SK DNM Jeans Bj312 Noo](https://m.media-amazon.com/images/I/31h+pqBYAxL._SL200_.jpg)](https://www.amazon.it/dp/B07CJRP4XV/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07CJRP4XV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

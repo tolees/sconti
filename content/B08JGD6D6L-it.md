@@ -22,6 +22,9 @@ Ahora mismo tienes [Lasuki Supporto per Tablet Regolabile a 360° con Braccio in
 
 [![Lasuki Supporto per Tablet Regolabile a ](https://m.media-amazon.com/images/I/41avfrO3HEL._SL200_.jpg)](https://www.amazon.it/dp/B08JGD6D6L/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08JGD6D6L/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

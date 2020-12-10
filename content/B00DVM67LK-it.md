@@ -22,6 +22,9 @@ Está [AVM FRITZ!Repeater 310 International  Range Extender Universale Wireless 
 
 [![AVM FRITZ!Repeater 310 International  Ra](https://m.media-amazon.com/images/I/31b8ycmf7FL._SL200_.jpg)](https://www.amazon.it/dp/B00DVM67LK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00DVM67LK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [eXtremeRate Cover Scocca Joycon Guscio Custodia Case DIY Ricambio per Nin
 
 [![eXtremeRate Cover Scocca Joycon Guscio C](https://m.media-amazon.com/images/I/41en2I4Z5EL._SL200_.jpg)](https://www.amazon.it/dp/B08B5T9D9P/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08B5T9D9P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

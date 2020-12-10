@@ -22,6 +22,9 @@ Está [Gioco impilabile in legno Torre traballante Pisa Tower Building Blocks Gi
 
 [![Gioco impilabile in legno Torre traballa](https://m.media-amazon.com/images/I/51gflQyvF3L._SL200_.jpg)](https://www.amazon.it/dp/B07ZP3HKGW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZP3HKGW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Lenor Ammorbidente Ametista & Bouquet 208 Lavaggi  Maxi Form
 
 [![Lenor Ammorbidente Ametista & Bouquet 20](https://m.media-amazon.com/images/I/51zrkTpIVRL._SL200_.jpg)](https://www.amazon.it/dp/B071V5GPX7/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B071V5GPX7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

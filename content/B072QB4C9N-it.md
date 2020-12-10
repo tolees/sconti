@@ -22,6 +22,9 @@ Está [VINCITORE 06/20* BIO Siero Viso all’Acido Ialuronico Puro 100% - Alto D
 
 [![VINCITORE 06/20* BIO Siero Viso all’Acid](https://m.media-amazon.com/images/I/41ajGa8LPgL._SL200_.jpg)](https://www.amazon.it/dp/B072QB4C9N/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B072QB4C9N/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

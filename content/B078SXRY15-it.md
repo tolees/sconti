@@ -22,6 +22,9 @@ Tienes [Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Nero  Black Can
 
 [![Timberland Union Wharf Lace Oxford  Snea](https://m.media-amazon.com/images/I/31S-g3NCJ8L._SL200_.jpg)](https://www.amazon.it/dp/B078SXRY15/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B078SXRY15/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

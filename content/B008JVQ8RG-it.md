@@ -22,6 +22,9 @@ Está [VidaXL 40426 Barbecue Zona cottura Gas 2900W Nero  Acciaio inossidabile b
 
 [![VidaXL 40426 Barbecue Zona cottura Gas 2](https://m.media-amazon.com/images/I/41sCHbaY9nL._SL200_.jpg)](https://www.amazon.it/dp/B008JVQ8RG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B008JVQ8RG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

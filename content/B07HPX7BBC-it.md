@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsung Memorie Duo Plus USB Flash Drive  USB 3.1  Type-C  V
 
 [![Samsung Memorie Duo Plus USB Flash Drive](https://m.media-amazon.com/images/I/21DUHzGfZoL._SL200_.jpg)](https://www.amazon.it/dp/B07HPX7BBC/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07HPX7BBC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

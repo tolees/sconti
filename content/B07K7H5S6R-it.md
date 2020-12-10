@@ -22,6 +22,9 @@ Está [TACKLIFE Pistola da Giardino  10 modalità di Spruzzo  Pistola per autola
 
 [![TACKLIFE Pistola da Giardino  10 modalit](https://m.media-amazon.com/images/I/41vsbtIjQ9L._SL200_.jpg)](https://www.amazon.it/dp/B07K7H5S6R/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07K7H5S6R/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

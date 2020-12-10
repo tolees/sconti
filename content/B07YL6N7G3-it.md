@@ -22,6 +22,9 @@ Ahora mismo tienes [Wrangler SS Small Logo Tee T-Shirt  Blu  Blue Graphite X15  
 
 [![Wrangler SS Small Logo Tee T-Shirt  Blu ](https://m.media-amazon.com/images/I/312hwNSsQcL._SL200_.jpg)](https://www.amazon.it/dp/B07YL6N7G3/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07YL6N7G3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [APLI 13580-Feltro nero A4 10 fogli](https://www.amazon.it/dp/B00JS48WT0/
 
 [![APLI 13580-Feltro nero A4 10 fogli](https://m.media-amazon.com/images/I/41DucvF3P2L._SL200_.jpg)](https://www.amazon.it/dp/B00JS48WT0/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00JS48WT0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

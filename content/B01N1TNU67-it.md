@@ -22,6 +22,9 @@ Tienes [Arteza Pennarelli Acquerello Professionali  Set da 24 Colori Acquerellab
 
 [![Arteza Pennarelli Acquerello Professiona](https://m.media-amazon.com/images/I/51ZsykTEwmL._SL200_.jpg)](https://www.amazon.it/dp/B01N1TNU67/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N1TNU67/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

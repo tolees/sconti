@@ -22,6 +22,9 @@ Ahora mismo tienes [OTHA Scheda di acquisizione Video  Dispositivo di acquisizio
 
 [![OTHA Scheda di acquisizione Video  Dispo](https://m.media-amazon.com/images/I/31BzCq1B4pL._SL200_.jpg)](https://www.amazon.it/dp/B08FDM6N6H/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08FDM6N6H/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

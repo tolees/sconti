@@ -22,6 +22,9 @@ Está [Oral-B Pro 2 2000 Cross Action Spazzolino Elettrico Ricaricabile   1 Spaz
 
 [![Oral-B Pro 2 2000 Cross Action Spazzolin](https://m.media-amazon.com/images/I/41tP5odM6zL._SL200_.jpg)](https://www.amazon.it/dp/B07W3LKCLW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07W3LKCLW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

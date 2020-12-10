@@ -22,6 +22,9 @@ Tienes [Finish  72 Pastiglie Per Lavastoviglie  All In One Max - 7250 Ml](https:
 
 [![Finish  72 Pastiglie Per Lavastoviglie  ](https://m.media-amazon.com/images/I/51seh2jYdlL._SL200_.jpg)](https://www.amazon.it/dp/B089WW4R3Q/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B089WW4R3Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Calvin Klein Punched Lrg Dbl Ziparound - Portafogli Donna  Verde  Drk Oli
 
 [![Calvin Klein Punched Lrg Dbl Ziparound -](https://m.media-amazon.com/images/I/31EbcECwlJL._SL200_.jpg)](https://www.amazon.it/dp/B07RMLGC45/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07RMLGC45/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

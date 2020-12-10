@@ -22,6 +22,9 @@ Ahora mismo tienes [National Geographic Travel Kit Treppiede con Monopiede  Allu
 
 [![National Geographic Travel Kit Treppiede](https://m.media-amazon.com/images/I/51-YMSjwglL._SL200_.jpg)](https://www.amazon.it/dp/B0825BP5HG/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0825BP5HG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

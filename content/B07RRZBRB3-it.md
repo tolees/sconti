@@ -22,6 +22,9 @@ Está [Oral-B Genius X Luxe Edition Spazzolino Elettrico Ricaricabile  1 Spazzol
 
 [![Oral-B Genius X Luxe Edition Spazzolino ](https://m.media-amazon.com/images/I/51h4N7a+srL._SL200_.jpg)](https://www.amazon.it/dp/B07RRZBRB3/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07RRZBRB3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

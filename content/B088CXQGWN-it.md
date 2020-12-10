@@ -22,6 +22,9 @@ Está [Reshias Cover per Sony Xperia L4 Morbido Trasparente TPU Silicone Protett
 
 [![Reshias Cover per Sony Xperia L4 Morbido](https://m.media-amazon.com/images/I/51JbK6YUt-L._SL200_.jpg)](https://www.amazon.it/dp/B088CXQGWN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B088CXQGWN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

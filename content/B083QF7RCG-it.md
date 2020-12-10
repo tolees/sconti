@@ -22,6 +22,9 @@ Tienes [Joyjoz Tappetino Acqua per Bambini TummyTime Gonfiabile  Tappeto per Gio
 
 [![Joyjoz Tappetino Acqua per Bambini Tummy](https://m.media-amazon.com/images/I/51FsZ026HvL._SL200_.jpg)](https://www.amazon.it/dp/B083QF7RCG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B083QF7RCG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

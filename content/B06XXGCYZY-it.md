@@ -22,6 +22,9 @@ Tienes [Rowenta CV7920 Silence AC Premium Care Asciugacapelli Silenzioso  2300 W
 
 [![Rowenta CV7920 Silence AC Premium Care A](https://m.media-amazon.com/images/I/41Cu7bMyPWL._SL200_.jpg)](https://www.amazon.it/dp/B06XXGCYZY/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XXGCYZY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

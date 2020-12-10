@@ -22,6 +22,9 @@ Ahora mismo tienes [Dixan Classico Detersivo Liquido Lavatrice  Tecnologia Pulit
 
 [![Dixan Classico Detersivo Liquido Lavatri](https://m.media-amazon.com/images/I/519vaVyR67L._SL200_.jpg)](https://www.amazon.it/dp/B089WWC6JV/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B089WWC6JV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

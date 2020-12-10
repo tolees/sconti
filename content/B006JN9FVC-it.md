@@ -22,6 +22,9 @@ Tienes [Ardes AR2480 Paiolo In Rame Per Polenta e Marmellata Porzioni Per 8/12 P
 
 [![Ardes AR2480 Paiolo In Rame Per Polenta ](https://m.media-amazon.com/images/I/51TPOL7kjEL._SL200_.jpg)](https://www.amazon.it/dp/B006JN9FVC/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B006JN9FVC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

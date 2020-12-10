@@ -22,6 +22,9 @@ Está [PawHut Carrellino Rimorchio per Cani Animali Domestici da Bicicletta Ross
 
 [![PawHut Carrellino Rimorchio per Cani Ani](https://m.media-amazon.com/images/I/51sZgekSPLL._SL200_.jpg)](https://www.amazon.it/dp/B018JM5A2S/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B018JM5A2S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

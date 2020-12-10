@@ -22,6 +22,9 @@ Está [È Pura - Maschera Salt Free Care - Trattamento Professionale Intensivo S
 
 [![È Pura - Maschera Salt Free Care - Tratt](https://m.media-amazon.com/images/I/31J8lbhDCdL._SL200_.jpg)](https://www.amazon.it/dp/B07D2DH7BN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07D2DH7BN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

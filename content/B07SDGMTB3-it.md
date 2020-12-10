@@ -22,6 +22,9 @@ Está [Levi s Woodward L  Sneaker Uomo  Bianco  Regular White 51   43 EU](https:
 
 [![Levi s Woodward L  Sneaker Uomo  Bianco ](https://m.media-amazon.com/images/I/41odBMS+YuL._SL200_.jpg)](https://www.amazon.it/dp/B07SDGMTB3/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SDGMTB3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

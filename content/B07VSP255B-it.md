@@ -22,6 +22,9 @@ Está [Bonio 360° Girevole Seggiolino Auto ISOFIX Gruppo 0+/1/2/3  0-36 kg  con
 
 [![Bonio 360° Girevole Seggiolino Auto ISOF](https://m.media-amazon.com/images/I/41frnZ53OpL._SL200_.jpg)](https://www.amazon.it/dp/B07VSP255B/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VSP255B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

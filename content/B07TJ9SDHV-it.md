@@ -22,6 +22,9 @@ Está [Levi s Original Batwing Maglietta  Blu  HM Patch Polo Dress Blues 0001   
 
 [![Levi s Original Batwing Maglietta  Blu  ](https://m.media-amazon.com/images/I/41QYt4-BfHL._SL200_.jpg)](https://www.amazon.it/dp/B07TJ9SDHV/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TJ9SDHV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

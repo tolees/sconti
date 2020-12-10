@@ -22,6 +22,9 @@ Está [ESDDI Studio Fotografico Kit di Illuminazione 3x2.6M con Sistema di Suppo
 
 [![ESDDI Studio Fotografico Kit di Illumina](https://m.media-amazon.com/images/I/51FoRSdri6L._SL200_.jpg)](https://www.amazon.it/dp/B0799BQJWX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0799BQJWX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

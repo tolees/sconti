@@ -22,6 +22,9 @@ Está [TP-Link Presa Intelligente WiFi Smart Plug  Compatibile con Alexa e Googl
 
 [![TP-Link Presa Intelligente WiFi Smart Pl](https://m.media-amazon.com/images/I/41JJ56qP+gL._SL200_.jpg)](https://www.amazon.it/dp/B07Z5JD3T4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07Z5JD3T4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

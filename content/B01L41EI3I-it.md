@@ -22,6 +22,9 @@ Tienes [Havaianas Origine III  Espadrillas Unisex-Adulto  Verde  Green   45 EU](
 
 [![Havaianas Origine III  Espadrillas Unise](https://m.media-amazon.com/images/I/31dVoA1CdOL._SL200_.jpg)](https://www.amazon.it/dp/B01L41EI3I/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01L41EI3I/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

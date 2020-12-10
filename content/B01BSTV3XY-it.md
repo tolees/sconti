@@ -22,6 +22,9 @@ Está [Scholl Velvet Smooth Roll Pedicure Elettrico Professionale per Pelle Secc
 
 [![Scholl Velvet Smooth Roll Pedicure Elett](https://m.media-amazon.com/images/I/41RVwq7XIFL._SL200_.jpg)](https://www.amazon.it/dp/B01BSTV3XY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01BSTV3XY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

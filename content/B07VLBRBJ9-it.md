@@ -22,6 +22,9 @@ Está [ARTEZA Penne a Sfera Roller con Inchiostro a Gel Nero  Set di 50 Penne a 
 
 [![ARTEZA Penne a Sfera Roller con Inchiost](https://m.media-amazon.com/images/I/513wEconh3L._SL200_.jpg)](https://www.amazon.it/dp/B07VLBRBJ9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VLBRBJ9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

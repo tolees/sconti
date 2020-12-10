@@ -22,6 +22,9 @@ Tienes [Boss Tee 4 T-Shirt  Blu  Navy 410   Medium Uomo](https://www.amazon.it/d
 
 [![Boss Tee 4 T-Shirt  Blu  Navy 410   Medi](https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg)](https://www.amazon.it/dp/B07V8HGDDC/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07V8HGDDC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

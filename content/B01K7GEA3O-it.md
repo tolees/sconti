@@ -22,6 +22,9 @@ Ahora mismo tienes [Logitech M330 Silent Plus Mouse Wireless  2.4 GHz con Ricevi
 
 [![Logitech M330 Silent Plus Mouse Wireless](https://m.media-amazon.com/images/I/41YJOlYFzWL._SL200_.jpg)](https://www.amazon.it/dp/B01K7GEA3O/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01K7GEA3O/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

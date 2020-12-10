@@ -22,6 +22,9 @@ Tienes [Kenwood KM631 Impastatrice Planetaria Classic Major  Robot da Cucina Mix
 
 [![Kenwood KM631 Impastatrice Planetaria Cl](https://m.media-amazon.com/images/I/31aEerff7WL._SL200_.jpg)](https://www.amazon.it/dp/B00P96R9FE/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00P96R9FE/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

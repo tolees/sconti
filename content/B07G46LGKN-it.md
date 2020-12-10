@@ -22,6 +22,9 @@ Ahora mismo tienes [HUAWEI T5 Mediapad Tablet con Display da 10.1"  32 GB Espand
 
 [![HUAWEI T5 Mediapad Tablet con Display da](https://m.media-amazon.com/images/I/41TniwC94rL._SL200_.jpg)](https://www.amazon.it/dp/B07G46LGKN/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07G46LGKN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

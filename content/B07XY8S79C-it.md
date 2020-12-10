@@ -22,6 +22,9 @@ Está [Birra Peroni Gran Riserva Bianca - Birra Italiana Premium - 12 Bottiglie 
 
 [![Birra Peroni Gran Riserva Bianca - Birra](https://m.media-amazon.com/images/I/416M7mg6adL._SL200_.jpg)](https://www.amazon.it/dp/B07XY8S79C/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07XY8S79C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

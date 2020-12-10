@@ -22,6 +22,9 @@ Tienes [Kimbo Capsule di Caffè Intenso  Compatibile con Nespresso  10 Pacchi da
 
 [![Kimbo Capsule di Caffè Intenso  Compatib](https://m.media-amazon.com/images/I/41OQE1fxwDL._SL200_.jpg)](https://www.amazon.it/dp/B081ZFNLLZ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B081ZFNLLZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lampada Proiettore Stelle  Luce Notturna Bambini con Altoparlante Bluetoo
 
 [![Lampada Proiettore Stelle  Luce Notturna](https://m.media-amazon.com/images/I/51BNFF2h27L._SL200_.jpg)](https://www.amazon.it/dp/B08CDTVK5B/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CDTVK5B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

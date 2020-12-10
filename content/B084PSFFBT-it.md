@@ -22,6 +22,9 @@ Tienes [Mastro Lindo Detersivo Multiuso Candeggina  Maxi Formato 6 Pezzi da 950 
 
 [![Mastro Lindo Detersivo Multiuso Candeggi](https://m.media-amazon.com/images/I/515bULzqJjL._SL200_.jpg)](https://www.amazon.it/dp/B084PSFFBT/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B084PSFFBT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

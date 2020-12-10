@@ -22,6 +22,9 @@ Está [Gricol Mensola da Doccia Angolare Senza Foratura in Alluminio Aeronautico
 
 [![Gricol Mensola da Doccia Angolare Senza ](https://m.media-amazon.com/images/I/41sb9kccCeL._SL200_.jpg)](https://www.amazon.it/dp/B07WRYKNPW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07WRYKNPW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

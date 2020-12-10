@@ -22,6 +22,9 @@ Está [New Balance 520v6  Scarpe da Corsa Uomo  Blu Blue Lv6  45.5 EU](https://w
 
 [![New Balance 520v6  Scarpe da Corsa Uomo ](https://m.media-amazon.com/images/I/41XlAU4DBoL._SL200_.jpg)](https://www.amazon.it/dp/B07S3V36FN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07S3V36FN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

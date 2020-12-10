@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Arctic Expedition Giacca  Nero  Dk Black 6484   X-Small Uomo]
 
 [![G-STAR RAW Arctic Expedition Giacca  Ner](https://m.media-amazon.com/images/I/41jKv+4vspL._SL200_.jpg)](https://www.amazon.it/dp/B07NDMP29T/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07NDMP29T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

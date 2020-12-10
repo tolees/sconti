@@ -22,6 +22,9 @@ Tienes [Winnes - Smartwatch per bambini con 7 giochi  funzione musica e sveglia 
 
 [![Winnes - Smartwatch per bambini con 7 gi](https://m.media-amazon.com/images/I/51TpeIwdZ3L._SL200_.jpg)](https://www.amazon.it/dp/B07SK7D4N9/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07SK7D4N9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

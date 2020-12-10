@@ -22,6 +22,9 @@ Tienes [Timberland Newport Bay Bumper Toe Oxford Sneaker  Donna  Blu  Vintage In
 
 [![Timberland Newport Bay Bumper Toe Oxford](https://m.media-amazon.com/images/I/31xNhA6rB5L._SL200_.jpg)](https://www.amazon.it/dp/B07T2DXWCM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07T2DXWCM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

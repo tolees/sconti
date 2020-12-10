@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy 
 
 [![JACK & JONES Jjeholmen Sweat Zip Hood No](https://m.media-amazon.com/images/I/41FWQXU6MZL._SL200_.jpg)](https://www.amazon.it/dp/B07B655RRN/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07B655RRN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

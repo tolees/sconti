@@ -22,6 +22,9 @@ Ahora mismo tienes [Timberland Union Wharf Plain Toe  Sneaker Infilare Uomo  Ner
 
 [![Timberland Union Wharf Plain Toe  Sneake](https://m.media-amazon.com/images/I/31jJZ7OqmWL._SL200_.jpg)](https://www.amazon.it/dp/B07FH9K34N/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07FH9K34N/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

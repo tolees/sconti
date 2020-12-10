@@ -22,6 +22,9 @@ Tienes [Smartwares 6000.631 Manou Lampada da tavolo – Attacco ES/E27 – Fless
 
 [![Smartwares 6000.631 Manou Lampada da tav](https://m.media-amazon.com/images/I/31luxOkx3AL._SL200_.jpg)](https://www.amazon.it/dp/B00UKUO8O4/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00UKUO8O4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

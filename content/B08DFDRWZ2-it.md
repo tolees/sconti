@@ -22,6 +22,9 @@ Está [Auricolari Bluetooth TWS i12 Suono Stereo 3D Tocca Controllo Pop-Ups Auto
 
 [![Auricolari Bluetooth TWS i12 Suono Stere](https://m.media-amazon.com/images/I/41l3JP4lH6L._SL200_.jpg)](https://www.amazon.it/dp/B08DFDRWZ2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08DFDRWZ2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [United Colors of Benetton 6HEDUB0A2 Cintura  Nero  Nero 901   95  Taglia
 
 [![United Colors of Benetton 6HEDUB0A2 Cint](https://m.media-amazon.com/images/I/31Bh5HBRjWL._SL200_.jpg)](https://www.amazon.it/dp/B075JNZJDM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B075JNZJDM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

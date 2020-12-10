@@ -22,6 +22,9 @@ Está [Imetec Piuma Extreme++ SC3-100 Aspirapolvere con Tecnologia Ciclonica Sen
 
 [![Imetec Piuma Extreme++ SC3-100 Aspirapol](https://m.media-amazon.com/images/I/41o0EFmTEmL._SL200_.jpg)](https://www.amazon.it/dp/B07W5FS4ZL/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07W5FS4ZL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

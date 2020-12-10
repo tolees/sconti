@@ -22,6 +22,9 @@ Está [G-STAR RAW Eyben Slim V T Wmn S/s T-Shirt  Bianco  White 110   Medium Don
 
 [![G-STAR RAW Eyben Slim V T Wmn S/s T-Shir](https://m.media-amazon.com/images/I/31Esv6hLKiL._SL200_.jpg)](https://www.amazon.it/dp/B01MYY7VL5/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01MYY7VL5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Marvel Ultimate Alliance 3: The Black Order - Nintendo Switch](https://w
 
 [![Marvel Ultimate Alliance 3: The Black Or](https://m.media-amazon.com/images/I/51-jdV5IObL._SL200_.jpg)](https://www.amazon.it/dp/B07NX5HBLH/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07NX5HBLH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

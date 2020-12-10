@@ -22,6 +22,9 @@ Tienes [Asus ROG Strix GeForce RTX 2080 SUPER Advanced Edition 8 GB GDDR6  Sched
 
 [![Asus ROG Strix GeForce RTX 2080 SUPER Ad](https://m.media-amazon.com/images/I/51REyHOH2XL._SL200_.jpg)](https://www.amazon.it/dp/B07VM9V59H/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07VM9V59H/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

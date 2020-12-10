@@ -22,6 +22,9 @@ Está [Philips AC2887/10 Purificatore d Aria con Tecnologia VitalShield IPS e Fi
 
 [![Philips AC2887/10 Purificatore d Aria co](https://m.media-amazon.com/images/I/413psjCvyVL._SL200_.jpg)](https://www.amazon.it/dp/B01KWWYJXO/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01KWWYJXO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

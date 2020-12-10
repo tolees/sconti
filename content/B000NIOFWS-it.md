@@ -22,6 +22,9 @@ Tienes [Paderno 11161-28 Coperchio  in Acciaio Inox  28 cm](https://www.amazon.i
 
 [![Paderno 11161-28 Coperchio  in Acciaio I](https://m.media-amazon.com/images/I/513ZN8NZAUL._SL200_.jpg)](https://www.amazon.it/dp/B000NIOFWS/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B000NIOFWS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

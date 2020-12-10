@@ -22,6 +22,9 @@ Está [Rimmel Smalto Unghie Super Gel  Nail Polish Effetto Gel a Lunga Durata  0
 
 [![Rimmel Smalto Unghie Super Gel  Nail Pol](https://m.media-amazon.com/images/I/41f1K+uFpSL._SL200_.jpg)](https://www.amazon.it/dp/B01BNK0VWM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01BNK0VWM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

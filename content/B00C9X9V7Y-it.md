@@ -22,6 +22,9 @@ Está [Songmics LSF702 - Pouf Contenitore Ottomane e poggiapiedi  120 L  Bianco 
 
 [![Songmics LSF702 - Pouf Contenitore Ottom](https://m.media-amazon.com/images/I/21Y3jBXbjmL._SL200_.jpg)](https://www.amazon.it/dp/B00C9X9V7Y/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00C9X9V7Y/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

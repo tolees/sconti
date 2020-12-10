@@ -22,6 +22,9 @@ Tienes [Cover Xiaomi Redmi 8 360 Gradi Full Body Antiurto Protezione Caso [Trasp
 
 [![Cover Xiaomi Redmi 8 360 Gradi Full Body](https://m.media-amazon.com/images/I/51BKQTpVIvL._SL200_.jpg)](https://www.amazon.it/dp/B08D32P8LT/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08D32P8LT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

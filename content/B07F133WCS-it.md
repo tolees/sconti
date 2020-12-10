@@ -22,6 +22,9 @@ Ahora mismo tienes [Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Turquoi
 
 [![Havaianas Brasil Logo  Infradito Unisex-](https://m.media-amazon.com/images/I/31WwKjTcZLL._SL200_.jpg)](https://www.amazon.it/dp/B07F133WCS/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07F133WCS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

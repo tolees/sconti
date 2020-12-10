@@ -22,6 +22,9 @@ Tienes [Palmolive Sapone Liquido Latte e Miele Erogatore - Pacco da 12 x 300 ml 
 
 [![Palmolive Sapone Liquido Latte e Miele E](https://m.media-amazon.com/images/I/41rT38HJkcL._SL200_.jpg)](https://www.amazon.it/dp/B06WVHTNK9/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06WVHTNK9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

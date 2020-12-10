@@ -22,6 +22,9 @@ Tienes [Marchio Amazon - MERAKI Cardigan Lana Merino Uomo Scollo a V  Grigio  Ch
 
 [![Marchio Amazon - MERAKI Cardigan Lana Me](https://m.media-amazon.com/images/I/41AmFZTonSL._SL200_.jpg)](https://www.amazon.it/dp/B074WJN13Q/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B074WJN13Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

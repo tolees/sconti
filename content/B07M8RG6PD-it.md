@@ -22,6 +22,9 @@ Tienes [Hasbro Spider-Man Marvel - Far From Home Titan Hero Power FX  Multicolor
 
 [![Hasbro Spider-Man Marvel - Far From Home](https://m.media-amazon.com/images/I/41x5DJdt8JL._SL200_.jpg)](https://www.amazon.it/dp/B07M8RG6PD/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07M8RG6PD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

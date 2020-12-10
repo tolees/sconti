@@ -22,6 +22,9 @@ Está [VEESUN Zaino Porta PC 15.6 Pollici  Zaino Computer Portatile con Porta US
 
 [![VEESUN Zaino Porta PC 15.6 Pollici  Zain](https://m.media-amazon.com/images/I/41YFLErnoVL._SL200_.jpg)](https://www.amazon.it/dp/B07FRVXLBH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07FRVXLBH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Pampero Especial Rum  L 1](https://www.amazon.it/dp/B009RUMT76/?tag=tolee
 
 [![Pampero Especial Rum  L 1](https://m.media-amazon.com/images/I/41iEVypmerL._SL200_.jpg)](https://www.amazon.it/dp/B009RUMT76/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B009RUMT76/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

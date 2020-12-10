@@ -22,6 +22,9 @@ Está [QUEEN ROSE Cuscino per la Gravidanza - Cuscino per Allattamento a Forma d
 
 [![QUEEN ROSE Cuscino per la Gravidanza - C](https://m.media-amazon.com/images/I/41+CLeTdBHL._SL200_.jpg)](https://www.amazon.it/dp/B06XKYCHD1/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B06XKYCHD1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

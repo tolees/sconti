@@ -22,6 +22,9 @@ Está [Wrangler Icons Giacca in Jeans  Blu  Blue Rhapsody 13i   XX-Large Uomo](h
 
 [![Wrangler Icons Giacca in Jeans  Blu  Blu](https://m.media-amazon.com/images/I/3112LAQ8R+L._SL200_.jpg)](https://www.amazon.it/dp/B07TVQNJTW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TVQNJTW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

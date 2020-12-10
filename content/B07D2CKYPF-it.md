@@ -22,6 +22,9 @@ Tienes [Argan Oil - Crema Styling Anticrespo - Trattamento Balsamo Professionale
 
 [![Argan Oil - Crema Styling Anticrespo - T](https://m.media-amazon.com/images/I/418hLD6hCnL._SL200_.jpg)](https://www.amazon.it/dp/B07D2CKYPF/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07D2CKYPF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

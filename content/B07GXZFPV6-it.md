@@ -22,6 +22,9 @@ Está [Olimpia Splendid 99409 Caldo Crystal Termoventilatore Ceramico a Parete c
 
 [![Olimpia Splendid 99409 Caldo Crystal Ter](https://m.media-amazon.com/images/I/312BTHL3jJL._SL200_.jpg)](https://www.amazon.it/dp/B07GXZFPV6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07GXZFPV6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Oral-B Teen Spazzolino Elettrico Ricaricabile  1 Manico Nero e 1 Custodi
 
 [![Oral-B Teen Spazzolino Elettrico Ricaric](https://m.media-amazon.com/images/I/510wo2SZNxL._SL200_.jpg)](https://www.amazon.it/dp/B088GC1XF1/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B088GC1XF1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

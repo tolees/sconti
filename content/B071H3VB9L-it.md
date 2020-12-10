@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Stivaletti Stringati in Pelle Uomo  Nero  Black   44 E
 
 [![find. Stivaletti Stringati in Pelle Uomo](https://m.media-amazon.com/images/I/41gOA8IZ6HL._SL200_.jpg)](https://www.amazon.it/dp/B071H3VB9L/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B071H3VB9L/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Jump Force - PlayStation 4](https://www.amazon.it/dp/B07P4H2HJG/?tag=tole
 
 [![Jump Force - PlayStation 4](https://m.media-amazon.com/images/I/51G4nTDueLL._SL200_.jpg)](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

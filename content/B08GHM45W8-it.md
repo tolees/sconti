@@ -22,6 +22,9 @@ Está [GEEMEE Controller Wireless per PS4  Controller Touch Panel con Doppia Vib
 
 [![GEEMEE Controller Wireless per PS4  Cont](https://m.media-amazon.com/images/I/41EiaTDhVIL._SL200_.jpg)](https://www.amazon.it/dp/B08GHM45W8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08GHM45W8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

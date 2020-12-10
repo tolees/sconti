@@ -22,6 +22,9 @@ Tienes [Lacoste TH6712 T-Shirt  Grigio  Argent Chine   XX-Large  Taglia Produtto
 
 [![Lacoste TH6712 T-Shirt  Grigio  Argent C](https://m.media-amazon.com/images/I/41M0dufIv8L._SL200_.jpg)](https://www.amazon.it/dp/B01MPY2TNU/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01MPY2TNU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

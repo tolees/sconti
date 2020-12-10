@@ -22,6 +22,9 @@ Está [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Nero  Core Black/White/G
 
 [![adidas Gazelle  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/4152AllJu5L._SL200_.jpg)](https://www.amazon.it/dp/B01EI9JJXW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01EI9JJXW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [HUAWEI P40 Lite con Cover  Display Punch FullView da 6.4”  Kirin 810 Oc
 
 [![HUAWEI P40 Lite con Cover  Display Punch](https://m.media-amazon.com/images/I/41EKqXBnGOL._SL200_.jpg)](https://www.amazon.it/dp/B086VPL2W3/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B086VPL2W3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

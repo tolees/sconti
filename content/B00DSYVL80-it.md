@@ -22,6 +22,9 @@ Ahora mismo tienes [Casio Orologio Digitale al Quarzo Donna con Cinturino in Acc
 
 [![Casio Orologio Digitale al Quarzo Donna ](https://m.media-amazon.com/images/I/51cby0RJUFL._SL200_.jpg)](https://www.amazon.it/dp/B00DSYVL80/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00DSYVL80/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

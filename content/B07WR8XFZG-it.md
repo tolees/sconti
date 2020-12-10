@@ -22,6 +22,9 @@ Tienes [TACKLIFE Sega Circolare Avanzata  750 W  6 Velocità  125 mm e 115 mm pe
 
 [![TACKLIFE Sega Circolare Avanzata  750 W ](https://m.media-amazon.com/images/I/51JuEXz+PSL._SL200_.jpg)](https://www.amazon.it/dp/B07WR8XFZG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07WR8XFZG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

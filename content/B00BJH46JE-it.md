@@ -22,6 +22,9 @@ Está [BaByliss For Men E837E X-10 Kit multiaccessoriato per rasatura e depilazi
 
 [![BaByliss For Men E837E X-10 Kit multiacc](https://m.media-amazon.com/images/I/41sSH+GJmjL._SL200_.jpg)](https://www.amazon.it/dp/B00BJH46JE/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00BJH46JE/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

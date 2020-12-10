@@ -22,6 +22,9 @@ Tienes [Samsung DV80N62532W/ET Asciugatrice  8 kg  Bianco](https://www.amazon.it
 
 [![Samsung DV80N62532W/ET Asciugatrice  8 k](https://m.media-amazon.com/images/I/31YgUZ3szqL._SL200_.jpg)](https://www.amazon.it/dp/B07HNTCG71/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07HNTCG71/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

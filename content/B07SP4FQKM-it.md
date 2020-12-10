@@ -22,6 +22,9 @@ Ahora mismo tienes [Havaianas Slim Floral  Infradito Donna  Multicolore  Blue 00
 
 [![Havaianas Slim Floral  Infradito Donna  ](https://m.media-amazon.com/images/I/31fOz6o0XzL._SL200_.jpg)](https://www.amazon.it/dp/B07SP4FQKM/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SP4FQKM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

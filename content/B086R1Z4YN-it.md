@@ -22,6 +22,9 @@ Está [Samsung TV UE55TU8070UXZT Smart TV 55" Serie TU8070  Crystal UHD 4K  Wi-F
 
 [![Samsung TV UE55TU8070UXZT Smart TV 55" S](https://m.media-amazon.com/images/I/51wlMyTMG8L._SL200_.jpg)](https://www.amazon.it/dp/B086R1Z4YN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B086R1Z4YN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

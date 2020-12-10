@@ -22,6 +22,9 @@ Está [adidas Core18 Rain Jacket  Uomo  Dark Blue/White  L](https://www.amazon.i
 
 [![adidas Core18 Rain Jacket  Uomo  Dark Bl](https://m.media-amazon.com/images/I/41m2Vp5rv9L._SL200_.jpg)](https://www.amazon.it/dp/B076HMS3ZH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B076HMS3ZH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

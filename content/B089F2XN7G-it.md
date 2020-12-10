@@ -22,6 +22,9 @@ Ahora mismo tienes [Coca-Cola Original Taste 330ml x24  Lattina ](https://www.am
 
 [![Coca-Cola Original Taste 330ml x24  Latt](https://m.media-amazon.com/images/I/41bgyprsmJL._SL200_.jpg)](https://www.amazon.it/dp/B089F2XN7G/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B089F2XN7G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

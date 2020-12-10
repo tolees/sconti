@@ -22,6 +22,9 @@ Tienes [VAVA Hub USB C  8 in 1 Hub Type C Adattatore con HDMI 4K  Porta Ethernet
 
 [![VAVA Hub USB C  8 in 1 Hub Type C Adatta](https://m.media-amazon.com/images/I/41vOUckr-tL._SL200_.jpg)](https://www.amazon.it/dp/B07R5HDJFG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07R5HDJFG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

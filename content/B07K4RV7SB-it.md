@@ -22,6 +22,9 @@ Tienes [adidas Falcon W  Scarpe da Ginnastica Donna  Nero  Core Black/Core Black
 
 [![adidas Falcon W  Scarpe da Ginnastica Do](https://m.media-amazon.com/images/I/31sEb+GvWsL._SL200_.jpg)](https://www.amazon.it/dp/B07K4RV7SB/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07K4RV7SB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

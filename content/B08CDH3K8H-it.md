@@ -22,6 +22,9 @@ Está [BAITITON NVME 1TB Unità SSD M.2 2280 PCIe Express GEN3.0x4 Unità a Stat
 
 [![BAITITON NVME 1TB Unità SSD M.2 2280 PCI](https://m.media-amazon.com/images/I/41v1vwCm2+L._SL200_.jpg)](https://www.amazon.it/dp/B08CDH3K8H/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CDH3K8H/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

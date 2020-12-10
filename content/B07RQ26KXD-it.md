@@ -22,6 +22,9 @@ Tienes [L.O.L Surprise! - LOL Lils Winter Disco Series con 5 Sorprese - Giochi P
 
 [![L.O.L Surprise! - LOL Lils Winter Disco ](https://m.media-amazon.com/images/I/51QCTDc7yPL._SL200_.jpg)](https://www.amazon.it/dp/B07RQ26KXD/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RQ26KXD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

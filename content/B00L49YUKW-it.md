@@ -22,6 +22,9 @@ Está [Poly Pool PP1615 Racchetta Elettronica Fulmina Insetti](https://www.amazo
 
 [![Poly Pool PP1615 Racchetta Elettronica F](https://m.media-amazon.com/images/I/417GWPAAw2L._SL200_.jpg)](https://www.amazon.it/dp/B00L49YUKW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00L49YUKW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

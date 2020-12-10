@@ -22,6 +22,9 @@ Está [NAPAPIJRI Bishop Fzh Cappuccio  Rosso  Bright Red R471   Small Uomo](http
 
 [![NAPAPIJRI Bishop Fzh Cappuccio  Rosso  B](https://m.media-amazon.com/images/I/41RLFs5gOQL._SL200_.jpg)](https://www.amazon.it/dp/B07VDCJFYL/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VDCJFYL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

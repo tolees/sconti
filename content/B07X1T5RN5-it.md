@@ -22,6 +22,9 @@ Tienes [Eastpak The One Borsa A Tracolla  21 cm  2.5 L  Rosa  Salty Pink ](https
 
 [![Eastpak The One Borsa A Tracolla  21 cm ](https://m.media-amazon.com/images/I/412IExgK1OL._SL200_.jpg)](https://www.amazon.it/dp/B07X1T5RN5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07X1T5RN5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [McNory Set di 8 Candele Citronella Anti-zanzare 100% Cera di
 
 [![McNory Set di 8 Candele Citronella Anti-](https://m.media-amazon.com/images/I/417qgHwV7uL._SL200_.jpg)](https://www.amazon.it/dp/B08675QXDM/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08675QXDM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

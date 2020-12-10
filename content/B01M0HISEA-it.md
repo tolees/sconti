@@ -22,6 +22,9 @@ Está [Dainese Snow Team Jr Evo Casco da Sci  Vibrant-Yellow  JS](https://www.am
 
 [![Dainese Snow Team Jr Evo Casco da Sci  V](https://m.media-amazon.com/images/I/41GcxiwO-+L._SL200_.jpg)](https://www.amazon.it/dp/B01M0HISEA/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01M0HISEA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

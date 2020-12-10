@@ -22,6 +22,9 @@ Tienes [TOPTRO Bluetooth Proiettore Nativo 1080P e 350 ” 7000 Lux Videoproiett
 
 [![TOPTRO Bluetooth Proiettore Nativo 1080P](https://m.media-amazon.com/images/I/51jVdMOkqVL._SL200_.jpg)](https://www.amazon.it/dp/B086ZJHD85/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B086ZJHD85/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

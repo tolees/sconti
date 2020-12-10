@@ -22,6 +22,9 @@ Tienes [Lower East impermeable Uomo  Blu  Navy   Large](https://www.amazon.it/dp
 
 [![Lower East impermeable Uomo  Blu  Navy  ](https://m.media-amazon.com/images/I/41bUPSnasKL._SL200_.jpg)](https://www.amazon.it/dp/B01N6BJZ5M/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N6BJZ5M/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

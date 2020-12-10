@@ -22,6 +22,9 @@ Tienes [Strumento Multifunzione Senza Fili  TECCPO 12V Utensile Rotante Senza Fi
 
 [![Strumento Multifunzione Senza Fili  TECC](https://m.media-amazon.com/images/I/51bTVV03UcL._SL200_.jpg)](https://www.amazon.it/dp/B07PW73MW7/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07PW73MW7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

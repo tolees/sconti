@@ -22,6 +22,9 @@ Está [Bedsure Piumino Matrimoniale Primaverile/Estivo 250 x 200 cm - Piumone Le
 
 [![Bedsure Piumino Matrimoniale Primaverile](https://m.media-amazon.com/images/I/51jAwTlqaJL._SL200_.jpg)](https://www.amazon.it/dp/B07QLQNXYW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07QLQNXYW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

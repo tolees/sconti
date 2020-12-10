@@ -22,6 +22,9 @@ Está [Trevi XFEST XF 450 Altoparlante Amplificato Portatile con Trolley  Mp3  U
 
 [![Trevi XFEST XF 450 Altoparlante Amplific](https://m.media-amazon.com/images/I/413JSbVkcKL._SL200_.jpg)](https://www.amazon.it/dp/B07BY4H5MG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07BY4H5MG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

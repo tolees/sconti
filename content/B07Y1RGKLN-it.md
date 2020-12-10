@@ -22,6 +22,9 @@ Ahora mismo tienes [OnNuvo Materasso New Gel Memory Foam Alta Densità 60-65 kg/
 
 [![OnNuvo Materasso New Gel Memory Foam Alt](https://m.media-amazon.com/images/I/41v+k85is2L._SL200_.jpg)](https://www.amazon.it/dp/B07Y1RGKLN/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07Y1RGKLN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

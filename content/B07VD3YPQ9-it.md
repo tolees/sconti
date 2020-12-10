@@ -22,6 +22,9 @@ Está [Calvin Klein Nylon Harrington Giacca Sportiva  Bianco  Bright White Yaf  
 
 [![Calvin Klein Nylon Harrington Giacca Spo](https://m.media-amazon.com/images/I/41IXfqRxP6L._SL200_.jpg)](https://www.amazon.it/dp/B07VD3YPQ9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VD3YPQ9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

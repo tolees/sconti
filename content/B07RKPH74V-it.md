@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Leeds 10a2  Scarpe da Ginnastica Uomo  Beige  White YBS  
 
 [![Tommy Hilfiger Leeds 10a2  Scarpe da Gin](https://m.media-amazon.com/images/I/31SqoflMoCL._SL200_.jpg)](https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

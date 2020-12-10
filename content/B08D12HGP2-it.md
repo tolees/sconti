@@ -22,6 +22,9 @@ Está [Fitness Tracker + Smart Watch  Vincitore 2020  | Contatore di passi  atti
 
 [![Fitness Tracker + Smart Watch  Vincitore](https://m.media-amazon.com/images/I/31krEY-ivzL._SL200_.jpg)](https://www.amazon.it/dp/B08D12HGP2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08D12HGP2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

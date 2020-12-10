@@ -22,6 +22,9 @@ Tienes [Rybozen Switch KVM 4K HDMI Switch 2 Port Box Tastiera Mouse Switcher Inc
 
 [![Rybozen Switch KVM 4K HDMI Switch 2 Port](https://m.media-amazon.com/images/I/51JFHGFIQiL._SL200_.jpg)](https://www.amazon.it/dp/B08FBDD37B/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08FBDD37B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

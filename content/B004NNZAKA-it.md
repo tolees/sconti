@@ -22,6 +22,9 @@ Está [My.Size - Profilattici  69 mm  36 pezzi](https://www.amazon.it/dp/B004NNZ
 
 [![My.Size - Profilattici  69 mm  36 pezzi](https://m.media-amazon.com/images/I/31tZb107sHL._SL200_.jpg)](https://www.amazon.it/dp/B004NNZAKA/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B004NNZAKA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

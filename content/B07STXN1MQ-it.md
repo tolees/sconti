@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Energy Timeless Vision  Sneaker Donna  Bianco Bianc
 
 [![Skechers Energy Timeless Vision  Sneaker](https://m.media-amazon.com/images/I/41EguubwP5L._SL200_.jpg)](https://www.amazon.it/dp/B07STXN1MQ/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07STXN1MQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

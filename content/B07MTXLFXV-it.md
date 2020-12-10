@@ -22,6 +22,9 @@ Está [Logitech G432 Cuffie Gaming Cablate  Audio Surround 7.1  Cuffie DTS: X 2.
 
 [![Logitech G432 Cuffie Gaming Cablate  Aud](https://m.media-amazon.com/images/I/41uAh7q0AlL._SL200_.jpg)](https://www.amazon.it/dp/B07MTXLFXV/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07MTXLFXV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

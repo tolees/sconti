@@ -22,6 +22,9 @@ Está [Bosch UniversalChain 18 Sega a Catena a Batteria  senza Batteria  Scatola
 
 [![Bosch UniversalChain 18 Sega a Catena a ](https://m.media-amazon.com/images/I/51YAehY2YCL._SL200_.jpg)](https://www.amazon.it/dp/B077TFT1P4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B077TFT1P4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

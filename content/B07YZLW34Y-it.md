@@ -22,6 +22,9 @@ Ahora mismo tienes [Gillette SkinGuard Sensitive Lamette di Ricarica per Rasoio 
 
 [![Gillette SkinGuard Sensitive Lamette di ](https://m.media-amazon.com/images/I/51gbnwo9XLL._SL200_.jpg)](https://www.amazon.it/dp/B07YZLW34Y/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07YZLW34Y/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

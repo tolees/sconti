@@ -22,6 +22,9 @@ Ahora mismo tienes [h.koenig V5i Ferro da Stiro  2400 W  1.7 Litri  90  plastica
 
 [![h.koenig V5i Ferro da Stiro  2400 W  1.7](https://m.media-amazon.com/images/I/41HECjr21cL._SL200_.jpg)](https://www.amazon.it/dp/B008DCOW6A/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B008DCOW6A/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

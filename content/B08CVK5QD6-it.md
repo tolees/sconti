@@ -22,6 +22,9 @@ Está [KLAS REMO Dispenser di Sapone Automatico 400ML Erogatore di Sapone Touchl
 
 [![KLAS REMO Dispenser di Sapone Automatico](https://m.media-amazon.com/images/I/41M7WBC2UDL._SL200_.jpg)](https://www.amazon.it/dp/B08CVK5QD6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CVK5QD6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

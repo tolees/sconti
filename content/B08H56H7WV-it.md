@@ -22,6 +22,9 @@ Ahora mismo tienes [Aerku Cover Silicone per Samsung Galaxy M51  Morbido Silicon
 
 [![Aerku Cover Silicone per Samsung Galaxy ](https://m.media-amazon.com/images/I/41A4BKjG+ML._SL200_.jpg)](https://www.amazon.it/dp/B08H56H7WV/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08H56H7WV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

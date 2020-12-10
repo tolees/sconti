@@ -22,6 +22,9 @@ Está [Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione  Bassi Potenti con Driv
 
 [![Panasonic RP-HTX90N Cuffie Bluetooth a P](https://m.media-amazon.com/images/I/31xbQmR0riL._SL200_.jpg)](https://www.amazon.it/dp/B07NLQ4P8W/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07NLQ4P8W/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

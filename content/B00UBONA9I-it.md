@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Cotton CN Tee SS Icon Maglietta  Bianco  Classic White 10
 
 [![Tommy Hilfiger Cotton CN Tee SS Icon Mag](https://m.media-amazon.com/images/I/315ibfZYlGL._SL200_.jpg)](https://www.amazon.it/dp/B00UBONA9I/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00UBONA9I/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

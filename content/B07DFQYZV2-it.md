@@ -22,6 +22,9 @@ Tienes [Puma Luxe Mesh Tight Pants  Donna  Fig-Puma Black  M](https://www.amazon
 
 [![Puma Luxe Mesh Tight Pants  Donna  Fig-P](https://m.media-amazon.com/images/I/31Vd3BOnbUL._SL200_.jpg)](https://www.amazon.it/dp/B07DFQYZV2/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DFQYZV2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

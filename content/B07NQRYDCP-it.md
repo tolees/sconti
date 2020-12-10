@@ -22,6 +22,9 @@ Está [SYLVANIAN FAMILIES - Casa Grande con Luci  Sistema di Gioco  Pacchetto St
 
 [![SYLVANIAN FAMILIES - Casa Grande con Luc](https://m.media-amazon.com/images/I/51v+WYY6tmL._SL200_.jpg)](https://www.amazon.it/dp/B07NQRYDCP/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07NQRYDCP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

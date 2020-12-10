@@ -22,6 +22,9 @@ Está [Electrolux PA91-404GY Purificatore d aria connesso con protezione antibat
 
 [![Electrolux PA91-404GY Purificatore d ari](https://m.media-amazon.com/images/I/51hQ-LqTs+L._SL200_.jpg)](https://www.amazon.it/dp/B085XY4N2S/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B085XY4N2S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

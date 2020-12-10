@@ -22,6 +22,9 @@ Está [Remington Nano Series NE3870 Tagliapeli Igienico per Naso e Orecchie  Lit
 
 [![Remington Nano Series NE3870 Tagliapeli ](https://m.media-amazon.com/images/I/51Koo0+fAFL._SL200_.jpg)](https://www.amazon.it/dp/B073ZDGXJM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B073ZDGXJM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Pepe Jeans Jude T-Shirt  Blu  Indigo 561   X- L arge Uomo](https://www.am
 
 [![Pepe Jeans Jude T-Shirt  Blu  Indigo 561](https://m.media-amazon.com/images/I/41DpqHef6uL._SL200_.jpg)](https://www.amazon.it/dp/B07VWX78QP/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VWX78QP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

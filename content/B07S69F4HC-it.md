@@ -22,6 +22,9 @@ Ahora mismo tienes [Logitech G403 HERO 16K  Mouse Gaming  Lightsync RGB  Leggero
 
 [![Logitech G403 HERO 16K  Mouse Gaming  Li](https://m.media-amazon.com/images/I/31dsKeo-3BL._SL200_.jpg)](https://www.amazon.it/dp/B07S69F4HC/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07S69F4HC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

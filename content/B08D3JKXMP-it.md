@@ -22,6 +22,9 @@ Ahora mismo tienes [Tmore Custodia Ultrasottile Compatibile con Samsung Galaxy T
 
 [![Tmore Custodia Ultrasottile Compatibile ](https://m.media-amazon.com/images/I/51aD6ZbUZpL._SL200_.jpg)](https://www.amazon.it/dp/B08D3JKXMP/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08D3JKXMP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

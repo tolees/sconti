@@ -22,6 +22,9 @@ Ahora mismo tienes [HoMedics Duo Quartz Epilatore Elettrico con Luce Pulsata e F
 
 [![HoMedics Duo Quartz Epilatore Elettrico ](https://m.media-amazon.com/images/I/31xUNZ3sT8L._SL200_.jpg)](https://www.amazon.it/dp/B01D4QAUME/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01D4QAUME/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

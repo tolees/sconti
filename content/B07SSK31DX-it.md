@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Ophira C  Scarpe da Ginnastica Basse Donna  Argento  
 
 [![Geox D Ophira C  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/419mBbidUhL._SL200_.jpg)](https://www.amazon.it/dp/B07SSK31DX/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SSK31DX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

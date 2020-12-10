@@ -22,6 +22,9 @@ Tienes [Hermes Jour d Hermes Eau de Parfum  Donna  50 ml](https://www.amazon.it/
 
 [![Hermes Jour d Hermes Eau de Parfum  Donn](https://m.media-amazon.com/images/I/41snAAUUAWL._SL200_.jpg)](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

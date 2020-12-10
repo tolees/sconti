@@ -22,6 +22,9 @@ Ahora mismo tienes [Savel - Proteggi Materasso Antiacaro Impermeabile e Traspira
 
 [![Savel - Proteggi Materasso Antiacaro Imp](https://m.media-amazon.com/images/I/41iw0osBMeL._SL200_.jpg)](https://www.amazon.it/dp/B071GLPBKR/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B071GLPBKR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

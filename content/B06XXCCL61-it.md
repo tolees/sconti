@@ -22,6 +22,9 @@ Está [New Balance 574v2 Core  Scarpa da Tennis Donna  Grigio  Grey   38 EU](htt
 
 [![New Balance 574v2 Core  Scarpa da Tennis](https://m.media-amazon.com/images/I/41Esz8t+uOL._SL200_.jpg)](https://www.amazon.it/dp/B06XXCCL61/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B06XXCCL61/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

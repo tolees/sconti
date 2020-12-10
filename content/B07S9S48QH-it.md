@@ -22,6 +22,9 @@ Está [PUMA Vikky Stacked L  Sneakers Donna  Grigio  Silver Cloud-Rosewater   40
 
 [![PUMA Vikky Stacked L  Sneakers Donna  Gr](https://m.media-amazon.com/images/I/31DGxc0CHML._SL200_.jpg)](https://www.amazon.it/dp/B07S9S48QH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07S9S48QH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

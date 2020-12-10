@@ -22,6 +22,9 @@ Tienes [eXtremeRate Cover Grip per Xbox One S X Controller Model 1708  Custodia 
 
 [![eXtremeRate Cover Grip per Xbox One S X ](https://m.media-amazon.com/images/I/41s+xdz5ScL._SL200_.jpg)](https://www.amazon.it/dp/B08JQGPLV1/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08JQGPLV1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

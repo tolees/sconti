@@ -22,6 +22,9 @@ Tienes [Giotto Stilnovo pastelli colorati in astuccio 36 colori](https://www.ama
 
 [![Giotto Stilnovo pastelli colorati in ast](https://m.media-amazon.com/images/I/51RqL3V3oDL._SL200_.jpg)](https://www.amazon.it/dp/B005DSU8I8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B005DSU8I8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Fossil Collana Donna con Cinturino in Acciaio Inossidabile JFS00472998](h
 
 [![Fossil Collana Donna con Cinturino in Ac](https://m.media-amazon.com/images/I/31Tmho5DBKL._SL200_.jpg)](https://www.amazon.it/dp/B07VPKRD6C/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VPKRD6C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

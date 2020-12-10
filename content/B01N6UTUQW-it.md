@@ -22,6 +22,9 @@ Está [Sully  4K + Br + Dig.Copy ](https://www.amazon.it/dp/B01N6UTUQW/?tag=tole
 
 [![Sully  4K + Br + Dig.Copy ](https://m.media-amazon.com/images/I/51vmmw-BMeL._SL200_.jpg)](https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

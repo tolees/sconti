@@ -22,6 +22,9 @@ Está [Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze  Multicolore  White/Grey
 
 [![Levi s Levis 168ndl Mid Cut Sprtwr Logo ](https://m.media-amazon.com/images/I/41MpP98VMQL._SL200_.jpg)](https://www.amazon.it/dp/B07VTGCBMN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VTGCBMN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

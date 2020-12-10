@@ -22,6 +22,9 @@ Está [CAMTOA Portatile Impermeabile Busta Sacco a Pelo  Ultra Leggero Sacchi a 
 
 [![CAMTOA Portatile Impermeabile Busta Sacc](https://m.media-amazon.com/images/I/51FsnxjwRmL._SL200_.jpg)](https://www.amazon.it/dp/B013QOAQKA/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B013QOAQKA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

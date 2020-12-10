@@ -22,6 +22,9 @@ Está [Garofalo - Fusilli Bucati Corti  Pasta di Semola di Grano Duro - pezzo da
 
 [![Garofalo - Fusilli Bucati Corti  Pasta d](https://m.media-amazon.com/images/I/51ulIiWtmeL._SL200_.jpg)](https://www.amazon.it/dp/B07SMHRGSH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SMHRGSH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

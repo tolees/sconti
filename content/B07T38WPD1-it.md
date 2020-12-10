@@ -22,6 +22,9 @@ Está [Pepe Jeans Daniela Zaino Casual 32 Centimeters 9.6 Multicolore  Multicolo
 
 [![Pepe Jeans Daniela Zaino Casual 32 Centi](https://m.media-amazon.com/images/I/51lbUpI3NOL._SL200_.jpg)](https://www.amazon.it/dp/B07T38WPD1/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07T38WPD1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

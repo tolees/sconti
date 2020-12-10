@@ -22,6 +22,9 @@ Ahora mismo tienes [Desigual Mone rhapsody Zip Around Portafoglio da donna  marr
 
 [![Desigual Mone rhapsody Zip Around Portaf](https://m.media-amazon.com/images/I/31+mMQHbcNL._SL200_.jpg)](https://www.amazon.it/dp/B07VGRWW7J/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07VGRWW7J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

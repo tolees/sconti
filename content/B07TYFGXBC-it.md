@@ -22,6 +22,9 @@ Está [BOSS Brief 3p Co/El Boxer  Multicolore  Open Miscellaneous   S  Pacco da 
 
 [![BOSS Brief 3p Co/El Boxer  Multicolore  ](https://m.media-amazon.com/images/I/41OCcT9REcL._SL200_.jpg)](https://www.amazon.it/dp/B07TYFGXBC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TYFGXBC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

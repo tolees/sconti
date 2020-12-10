@@ -22,6 +22,9 @@ Tienes [Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ing
 
 [![Antica Erboristeria  Dentifricio Antibat](https://m.media-amazon.com/images/I/41RiU7nrl1L._SL200_.jpg)](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

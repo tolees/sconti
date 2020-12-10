@@ -22,6 +22,9 @@ Tienes [Skechers Flex Advantage 3.0  Sneaker Uomo  Blu  Navy Mesh/Red Trim Nvrd 
 
 [![Skechers Flex Advantage 3.0  Sneaker Uom](https://m.media-amazon.com/images/I/418uVMRFDkL._SL200_.jpg)](https://www.amazon.it/dp/B07TSQ8HBZ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TSQ8HBZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

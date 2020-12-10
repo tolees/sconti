@@ -22,6 +22,9 @@ Tienes [Xiaomi Trolley Bagaglio a Mano con 8 Ruote  55 cm  20”  Dimensioni Sta
 
 [![Xiaomi Trolley Bagaglio a Mano con 8 Ruo](https://m.media-amazon.com/images/I/31ZnIqm2w2L._SL200_.jpg)](https://www.amazon.it/dp/B07Z5HQ3C9/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07Z5HQ3C9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

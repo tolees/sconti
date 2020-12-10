@@ -22,6 +22,9 @@ Tienes [Campingaz Y980000000 Regolatore di Pressione del Gas Accessorio per Barb
 
 [![Campingaz Y980000000 Regolatore di Press](https://m.media-amazon.com/images/I/412vGSYHpiL._SL200_.jpg)](https://www.amazon.it/dp/B00CG5KG7E/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00CG5KG7E/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

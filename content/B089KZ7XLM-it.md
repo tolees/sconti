@@ -22,6 +22,9 @@ Tienes [Oral-B Precision Clean Testine di Ricambio per Spazzolino Elettrico con 
 
 [![Oral-B Precision Clean Testine di Ricamb](https://m.media-amazon.com/images/I/41hzG7NzNoL._SL200_.jpg)](https://www.amazon.it/dp/B089KZ7XLM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B089KZ7XLM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

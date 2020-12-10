@@ -22,6 +22,9 @@ Está [Corona Birra Bottiglia - Confezione da 24 x 330 ml](https://www.amazon.it
 
 [![Corona Birra Bottiglia - Confezione da 2](https://m.media-amazon.com/images/I/51kh4PBNT9L._SL200_.jpg)](https://www.amazon.it/dp/B075G1HBQZ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B075G1HBQZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

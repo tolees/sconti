@@ -22,6 +22,9 @@ Está [Souke Sports - Guanti da Ciclismo Uomo Donna Guanti da Bicicletta a Dito 
 
 [![Souke Sports - Guanti da Ciclismo Uomo D](https://m.media-amazon.com/images/I/51ZvcVJZjQL._SL200_.jpg)](https://www.amazon.it/dp/B08CZQ3DF2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CZQ3DF2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

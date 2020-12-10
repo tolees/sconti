@@ -22,6 +22,9 @@ Tienes [Lacoste L1264 Polo  Vite Cinese  S Uomo](https://www.amazon.it/dp/B07V2J
 
 [![Lacoste L1264 Polo  Vite Cinese  S Uomo](https://m.media-amazon.com/images/I/31Uv-4QxTuL._SL200_.jpg)](https://www.amazon.it/dp/B07V2JXBBT/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07V2JXBBT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

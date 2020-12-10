@@ -22,6 +22,9 @@ Está [Veet Men  Crema Depilatoria Uomo  Pelli Normali  200 ml](https://www.amaz
 
 [![Veet Men  Crema Depilatoria Uomo  Pelli ](https://m.media-amazon.com/images/I/31vzt3KMR1L._SL200_.jpg)](https://www.amazon.it/dp/B00KX3PF22/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00KX3PF22/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

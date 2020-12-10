@@ -22,6 +22,9 @@ Tienes [Levi s Relaxed Graphic Crew  Felpa Donna  Grigio  Medium](https://www.am
 
 [![Levi s Relaxed Graphic Crew  Felpa Donna](https://m.media-amazon.com/images/I/41AIA4jn6EL._SL200_.jpg)](https://www.amazon.it/dp/B0716LRT1P/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0716LRT1P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

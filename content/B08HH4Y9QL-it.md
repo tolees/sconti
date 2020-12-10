@@ -22,6 +22,9 @@ Tienes [YUES Controller per PS4  DUALSHOCK 4 Wireless Controller per Playstation
 
 [![YUES Controller per PS4  DUALSHOCK 4 Wir](https://m.media-amazon.com/images/I/41PTBAffmwL._SL200_.jpg)](https://www.amazon.it/dp/B08HH4Y9QL/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08HH4Y9QL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

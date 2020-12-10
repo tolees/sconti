@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein Medium Drawstring Pantaloncini  Verde  Dark Gre
 
 [![Calvin Klein Medium Drawstring Pantalonc](https://m.media-amazon.com/images/I/41evVpqKoSL._SL200_.jpg)](https://www.amazon.it/dp/B07VMNW4NM/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07VMNW4NM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

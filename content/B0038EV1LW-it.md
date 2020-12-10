@@ -22,6 +22,9 @@ Tienes [Homedics SP-39HW-EU Cuscino Massaggiante Shiatsu a Due Velocità  Vibraz
 
 [![Homedics SP-39HW-EU Cuscino Massaggiante](https://m.media-amazon.com/images/I/411msKFKPfL._SL200_.jpg)](https://www.amazon.it/dp/B0038EV1LW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0038EV1LW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

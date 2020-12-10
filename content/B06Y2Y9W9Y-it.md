@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 574v2 Core  Scarpe da Ginnastica Unisex-Adulto  
 
 [![New Balance 574v2 Core  Scarpe da Ginnas](https://m.media-amazon.com/images/I/41vmanq4rNL._SL200_.jpg)](https://www.amazon.it/dp/B06Y2Y9W9Y/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B06Y2Y9W9Y/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

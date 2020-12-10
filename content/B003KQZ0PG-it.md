@@ -22,6 +22,9 @@ Tienes [Goobay 93990 Telaio di Installazione per Hard Disk da 2  5" in 3  5"  Ne
 
 [![Goobay 93990 Telaio di Installazione per](https://m.media-amazon.com/images/I/31YDF+8GMbL._SL200_.jpg)](https://www.amazon.it/dp/B003KQZ0PG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B003KQZ0PG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

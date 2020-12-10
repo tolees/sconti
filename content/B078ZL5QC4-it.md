@@ -22,6 +22,9 @@ Tienes [Techly 103113 Multipresa 6 Posti Italiana Bipasso con Protezione da sovr
 
 [![Techly 103113 Multipresa 6 Posti Italian](https://m.media-amazon.com/images/I/31J3rotyQkL._SL200_.jpg)](https://www.amazon.it/dp/B078ZL5QC4/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B078ZL5QC4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

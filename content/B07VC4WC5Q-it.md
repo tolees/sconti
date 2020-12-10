@@ -22,6 +22,9 @@ Está [Calvin Klein Nylon Harrington Giacca sportiva  Nero  Ck Black Bae   Small
 
 [![Calvin Klein Nylon Harrington Giacca spo](https://m.media-amazon.com/images/I/41indAXuaoL._SL200_.jpg)](https://www.amazon.it/dp/B07VC4WC5Q/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VC4WC5Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

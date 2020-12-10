@@ -22,6 +22,9 @@ Tienes [Optima Capelli  Pelle e Unghie 60 Compresse  Taglia Unica](https://www.a
 
 [![Optima Capelli  Pelle e Unghie 60 Compre](https://m.media-amazon.com/images/I/41lX9MFhgsL._SL200_.jpg)](https://www.amazon.it/dp/B00I8J0CJ4/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00I8J0CJ4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

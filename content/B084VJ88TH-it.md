@@ -22,6 +22,9 @@ Está [Motast Cassa Bluetooth Portatile  10W Speaker Bluetooth con NFC  IP67 Imp
 
 [![Motast Cassa Bluetooth Portatile  10W Sp](https://m.media-amazon.com/images/I/519OhuacHCL._SL200_.jpg)](https://www.amazon.it/dp/B084VJ88TH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B084VJ88TH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Grsta Borraccia Termica Isolante in Acciaio Inox per Acqua  Portatile Bo
 
 [![Grsta Borraccia Termica Isolante in Acci](https://m.media-amazon.com/images/I/41ohOEUP7rL._SL200_.jpg)](https://www.amazon.it/dp/B083B7VQJR/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B083B7VQJR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

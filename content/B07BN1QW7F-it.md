@@ -22,6 +22,9 @@ Tienes [Vans Ward Platform  Scarpe da Ginnastica Donna  Canvas Black/White 187  
 
 [![Vans Ward Platform  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg)](https://www.amazon.it/dp/B07BN1QW7F/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07BN1QW7F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

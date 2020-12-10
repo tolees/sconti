@@ -22,6 +22,9 @@ Tienes [Eastpak OUT OF OFFICE Zaino Casual  44 cm  27 liters  Multicolore  Scrib
 
 [![Eastpak OUT OF OFFICE Zaino Casual  44 c](https://m.media-amazon.com/images/I/41uK6+FsLbL._SL200_.jpg)](https://www.amazon.it/dp/B07KY8TCYN/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KY8TCYN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

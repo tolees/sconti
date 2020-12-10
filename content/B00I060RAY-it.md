@@ -22,6 +22,9 @@ Tienes [givova Visa Fluo  Tuta da Ginnastica Uomo  Nero/Bianco  L](https://www.a
 
 [![givova Visa Fluo  Tuta da Ginnastica Uom](https://m.media-amazon.com/images/I/41hDYD4xYKL._SL200_.jpg)](https://www.amazon.it/dp/B00I060RAY/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00I060RAY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

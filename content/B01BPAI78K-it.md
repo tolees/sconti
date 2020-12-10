@@ -22,6 +22,9 @@ Está [Boss Profumo - 100 Ml](https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-
 
 [![Boss Profumo - 100 Ml](https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL200_.jpg)](https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Entweg Sensore a infrarossi IR Senza Contatto Fronte Corpo/Oggetto Termo
 
 [![Entweg Sensore a infrarossi IR Senza Con](https://m.media-amazon.com/images/I/31aJJocvR9L._SL200_.jpg)](https://www.amazon.it/dp/B08GSRD67J/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08GSRD67J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

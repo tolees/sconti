@@ -22,6 +22,9 @@ Está [Adidas Must Haves Badge of Sport Tee  T-Shirts Uomo  Black/White  L](http
 
 [![Adidas Must Haves Badge of Sport Tee  T-](https://m.media-amazon.com/images/I/41UeLqjyliL._SL200_.jpg)](https://www.amazon.it/dp/B07KL3LH9P/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07KL3LH9P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

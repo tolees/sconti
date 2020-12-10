@@ -22,6 +22,9 @@ Está [Hoco - 50 pezzi monouso formato per viso libero  colore: blu](https://www
 
 [![Hoco - 50 pezzi monouso formato per viso](https://m.media-amazon.com/images/I/51INUVka2LL._SL200_.jpg)](https://www.amazon.it/dp/B087X94BBQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B087X94BBQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

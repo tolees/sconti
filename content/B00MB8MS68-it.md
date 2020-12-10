@@ -22,6 +22,9 @@ Está [Kenwood HDP404WH Mixer ad Immersione  800 W  Tritatutto da 0 5 l  Bicchie
 
 [![Kenwood HDP404WH Mixer ad Immersione  80](https://m.media-amazon.com/images/I/41qLau8EFhL._SL200_.jpg)](https://www.amazon.it/dp/B00MB8MS68/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00MB8MS68/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

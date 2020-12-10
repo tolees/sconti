@@ -22,6 +22,9 @@ Tienes [Clarks Ronnie Limit  Scarpe Stringate Derby Uomo  Marrone  Tan Leather T
 
 [![Clarks Ronnie Limit  Scarpe Stringate De](https://m.media-amazon.com/images/I/31Gocwmy0tL._SL200_.jpg)](https://www.amazon.it/dp/B07TMRQR86/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TMRQR86/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

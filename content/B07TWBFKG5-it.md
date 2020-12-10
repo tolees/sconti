@@ -22,6 +22,9 @@ Tienes [Levi s Deconstructed PL Gonna  Blu  Gateway Skirt Plus 0013   20 Donna](
 
 [![Levi s Deconstructed PL Gonna  Blu  Gate](https://m.media-amazon.com/images/I/41OaZAZakpL._SL200_.jpg)](https://www.amazon.it/dp/B07TWBFKG5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TWBFKG5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

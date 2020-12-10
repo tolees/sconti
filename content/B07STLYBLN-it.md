@@ -22,6 +22,9 @@ Está [Geox D NYDAME D  Scarpe da Ginnastica Basse Donna  Bianco  White/off Whit
 
 [![Geox D NYDAME D  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/41w13Jp1inL._SL200_.jpg)](https://www.amazon.it/dp/B07STLYBLN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07STLYBLN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

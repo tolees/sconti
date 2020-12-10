@@ -22,6 +22,9 @@ Está [Laelr Ultimi controller wireless per Nintendo Switch Mini controller sini
 
 [![Laelr Ultimi controller wireless per Nin](https://m.media-amazon.com/images/I/41knqliBOqL._SL200_.jpg)](https://www.amazon.it/dp/B0871WXNWD/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0871WXNWD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

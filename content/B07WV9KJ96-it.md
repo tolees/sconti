@@ -22,6 +22,9 @@ Está [Tablet 10 Pollici YESTEL 4GB RAM+64GB ROM +Espanso 128GB con Schermo IPS 
 
 [![Tablet 10 Pollici YESTEL 4GB RAM+64GB RO](https://m.media-amazon.com/images/I/51Jjy5XAtqL._SL200_.jpg)](https://www.amazon.it/dp/B07WV9KJ96/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07WV9KJ96/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

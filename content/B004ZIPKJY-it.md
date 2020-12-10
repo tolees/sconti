@@ -22,6 +22,9 @@ Está [Helly Hansen New Driftline Maglia T-Shirt con UPF 30+ e Tessuto Tactel a 
 
 [![Helly Hansen New Driftline Maglia T-Shir](https://m.media-amazon.com/images/I/41jozfR9+LL._SL200_.jpg)](https://www.amazon.it/dp/B004ZIPKJY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B004ZIPKJY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

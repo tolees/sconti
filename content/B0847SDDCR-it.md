@@ -22,6 +22,9 @@ Está [ghd platinum+ Styler Piastra per capelli  Edizione Limitata con custodia 
 
 [![ghd platinum+ Styler Piastra per capelli](https://m.media-amazon.com/images/I/411U5Wa9aZL._SL200_.jpg)](https://www.amazon.it/dp/B0847SDDCR/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0847SDDCR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

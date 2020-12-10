@@ -22,6 +22,9 @@ Ahora mismo tienes [Versus Versace Dress Watch VSP490318](https://www.amazon.it/
 
 [![Versus Versace Dress Watch VSP490318](https://m.media-amazon.com/images/I/31zAxF-3xvL._SL200_.jpg)](https://www.amazon.it/dp/B07C931NRN/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07C931NRN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

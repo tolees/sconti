@@ -22,6 +22,9 @@ Ahora mismo tienes [Akokie Giocattoli Puzzle di Animali in Legno Giochi Montesso
 
 [![Akokie Giocattoli Puzzle di Animali in L](https://m.media-amazon.com/images/I/51KES7K5QAL._SL200_.jpg)](https://www.amazon.it/dp/B087RMR92F/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B087RMR92F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

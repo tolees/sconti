@@ -22,6 +22,9 @@ Tienes [Les Tropéziennes  Monaco  Sandali da Donna  Marrone  tan/or   38 EU](ht
 
 [![Les Tropéziennes  Monaco  Sandali da Don](https://m.media-amazon.com/images/I/41Hqh3zIPDL._SL200_.jpg)](https://www.amazon.it/dp/B00HHRKOTG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00HHRKOTG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

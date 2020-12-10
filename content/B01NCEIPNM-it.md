@@ -22,6 +22,9 @@ Está [Brita Marella - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ 
 
 [![Brita Marella - Caraffa Filtrante per Ac](https://m.media-amazon.com/images/I/517iTppIw9L._SL200_.jpg)](https://www.amazon.it/dp/B01NCEIPNM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01NCEIPNM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

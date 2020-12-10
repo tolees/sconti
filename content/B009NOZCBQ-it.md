@@ -22,6 +22,9 @@ Tienes [Craghoppers Kiwi Pro Action Pantaloni  Uomo  Nero   56 EU  40 UK - Regul
 
 [![Craghoppers Kiwi Pro Action Pantaloni  U](https://m.media-amazon.com/images/I/41g7cPS1sPL._SL200_.jpg)](https://www.amazon.it/dp/B009NOZCBQ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B009NOZCBQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

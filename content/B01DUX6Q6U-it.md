@@ -22,6 +22,9 @@ Está [Kellogg S Extra Classico - 375 G](https://www.amazon.it/dp/B01DUX6Q6U/?ta
 
 [![Kellogg S Extra Classico - 375 G](https://m.media-amazon.com/images/I/51LdOKOEvQL._SL200_.jpg)](https://www.amazon.it/dp/B01DUX6Q6U/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01DUX6Q6U/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Giochi Preziosi - L.O.L Surprise! Glitter Globe Winter Disco
 
 [![Giochi Preziosi - L.O.L Surprise! Glitte](https://m.media-amazon.com/images/I/51fZ1GalHML._SL200_.jpg)](https://www.amazon.it/dp/B07RS229RC/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07RS229RC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

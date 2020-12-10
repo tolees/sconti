@@ -22,6 +22,9 @@ Está [Samsung WW90J5356MW Lavatrice 9 kg Caricamento Frontale Ecolavaggio  1200
 
 [![Samsung WW90J5356MW Lavatrice 9 kg Caric](https://m.media-amazon.com/images/I/31DzNs4dJjL._SL200_.jpg)](https://www.amazon.it/dp/B07C5R73JR/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07C5R73JR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

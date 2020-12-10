@@ -22,6 +22,9 @@ Está [Joop! Cortina Tea Handbag ShzDonnaBorsa a manoRosa  Rose  13x23x35 Centim
 
 [![Joop! Cortina Tea Handbag ShzDonnaBorsa ](https://m.media-amazon.com/images/I/41bjQdAMhzL._SL200_.jpg)](https://www.amazon.it/dp/B07WBZVV9G/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07WBZVV9G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Hoover SM156WD4 Aspirabriciole da cucina senza sacco  15.6 W  0.2 Liters
 
 [![Hoover SM156WD4 Aspirabriciole da cucina](https://m.media-amazon.com/images/I/41h1RYSqEYL._SL200_.jpg)](https://www.amazon.it/dp/B00SWCLM6Y/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00SWCLM6Y/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

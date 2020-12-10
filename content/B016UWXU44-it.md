@@ -22,6 +22,9 @@ Tienes [iRobot Braava 390T Lavapavimenti 2 in 1: Pulizia a Secco e a Umido  Adat
 
 [![iRobot Braava 390T Lavapavimenti 2 in 1:](https://m.media-amazon.com/images/I/41BmTnKIvoL._SL200_.jpg)](https://www.amazon.it/dp/B016UWXU44/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B016UWXU44/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

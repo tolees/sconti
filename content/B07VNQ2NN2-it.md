@@ -22,6 +22,9 @@ Ahora mismo tienes [Astuccio Scuola con 3 Scomparti  lunaoo Grande Multifunzione
 
 [![Astuccio Scuola con 3 Scomparti  lunaoo ](https://m.media-amazon.com/images/I/41dllfHogJL._SL200_.jpg)](https://www.amazon.it/dp/B07VNQ2NN2/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07VNQ2NN2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

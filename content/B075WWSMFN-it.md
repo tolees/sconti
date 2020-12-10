@@ -22,6 +22,9 @@ Tienes [Kodak PRINTOMATIC Fotocamera istantanea  Grigio  Foto a colori su carta 
 
 [![Kodak PRINTOMATIC Fotocamera istantanea ](https://m.media-amazon.com/images/I/31rLOOfbldL._SL200_.jpg)](https://www.amazon.it/dp/B075WWSMFN/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B075WWSMFN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

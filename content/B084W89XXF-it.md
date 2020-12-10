@@ -22,6 +22,9 @@ Ahora mismo tienes [Viakal Detersivo Anticalcare Liquido Aceto  Maxi Formato 2 P
 
 [![Viakal Detersivo Anticalcare Liquido Ace](https://m.media-amazon.com/images/I/41up4LR9fVL._SL200_.jpg)](https://www.amazon.it/dp/B084W89XXF/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B084W89XXF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

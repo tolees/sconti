@@ -22,6 +22,9 @@ Ahora mismo tienes [Call of Duty: Infinite Warfare - Legacy Edition - PlayStatio
 
 [![Call of Duty: Infinite Warfare - Legacy ](https://m.media-amazon.com/images/I/51ugBK-qJDL._SL200_.jpg)](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

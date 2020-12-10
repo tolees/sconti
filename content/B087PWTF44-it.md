@@ -22,6 +22,9 @@ Ahora mismo tienes [Maegoo Controller PC PS3 TV Wireless  2.4GHz Wireless Gaming
 
 [![Maegoo Controller PC PS3 TV Wireless  2.](https://m.media-amazon.com/images/I/41o3j-PbVjL._SL200_.jpg)](https://www.amazon.it/dp/B087PWTF44/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B087PWTF44/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

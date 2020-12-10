@@ -22,6 +22,9 @@ Ahora mismo tienes [Ocean S Eight  4K+Br ](https://www.amazon.it/dp/B07G496PFW/?
 
 [![Ocean S Eight  4K+Br ](https://m.media-amazon.com/images/I/51Vf-DTvVsL._SL200_.jpg)](https://www.amazon.it/dp/B07G496PFW/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07G496PFW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

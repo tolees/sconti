@@ -22,6 +22,9 @@ Está [Lacoste L1230 Polo  Blu  Cuba Aaf   Medium  Taglia Unica: 4  Uomo](https:
 
 [![Lacoste L1230 Polo  Blu  Cuba Aaf   Medi](https://m.media-amazon.com/images/I/313-GVuY-sL._SL200_.jpg)](https://www.amazon.it/dp/B07TJXXJKM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TJXXJKM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

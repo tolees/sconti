@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Original Batwing Maglietta  Bianco  HM Patch Polo Whi
 
 [![Levi s Original Batwing Maglietta  Bianc](https://m.media-amazon.com/images/I/31dILJsFibL._SL200_.jpg)](https://www.amazon.it/dp/B07TLFMP7D/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07TLFMP7D/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [4x Spazzolini da denti in bamboo naturale ecologico l Manico in legno 100
 
 [![4x Spazzolini da denti in bamboo natural](https://m.media-amazon.com/images/I/41UDTU5pjvL._SL200_.jpg)](https://www.amazon.it/dp/B07PVCLWQX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07PVCLWQX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

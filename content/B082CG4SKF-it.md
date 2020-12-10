@@ -22,6 +22,9 @@ Ahora mismo tienes [ONLYOILY Glitter Powder trucco opaco lucido a prova di sbava
 
 [![ONLYOILY Glitter Powder trucco opaco luc](https://m.media-amazon.com/images/I/51acRYAKygL._SL200_.jpg)](https://www.amazon.it/dp/B082CG4SKF/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B082CG4SKF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

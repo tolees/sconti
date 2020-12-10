@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox U Kennet B  Scarpe da Ginnastica Basse Uomo  Blu  Navy 
 
 [![Geox U Kennet B  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/31C0rnz0jZL._SL200_.jpg)](https://www.amazon.it/dp/B07SQGNW1C/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SQGNW1C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

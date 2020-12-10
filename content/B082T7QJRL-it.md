@@ -22,6 +22,9 @@ Ahora mismo tienes [Brooklyn Mega Stick Gomme da Masticare  Chewing Gum Gusti As
 
 [![Brooklyn Mega Stick Gomme da Masticare  ](https://m.media-amazon.com/images/I/41bmkhlkkSL._SL200_.jpg)](https://www.amazon.it/dp/B082T7QJRL/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B082T7QJRL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

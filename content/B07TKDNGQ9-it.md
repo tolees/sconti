@@ -22,6 +22,9 @@ Está [Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010  
 
 [![Levi s The Original T-Shirt  Verde  HM P](https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg)](https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

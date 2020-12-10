@@ -22,6 +22,9 @@ Tienes [D-Link DIR-809 Router Wireless  Tecnologia AC750  4 Porte Gigabit + WAN 
 
 [![D-Link DIR-809 Router Wireless  Tecnolog](https://m.media-amazon.com/images/I/41u2TQaF-ML._SL200_.jpg)](https://www.amazon.it/dp/B00PVDTKRK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00PVDTKRK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

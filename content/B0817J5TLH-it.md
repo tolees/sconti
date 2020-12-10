@@ -22,6 +22,9 @@ Tienes [Columbia Silver Ridge II  Pantaloni Cargo Uomo  Blu  Collegiate Navy   W
 
 [![Columbia Silver Ridge II  Pantaloni Carg](https://m.media-amazon.com/images/I/31V9xqIig9L._SL200_.jpg)](https://www.amazon.it/dp/B0817J5TLH/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0817J5TLH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

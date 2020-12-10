@@ -22,6 +22,9 @@ Ahora mismo tienes [Entweg Termometro  Termometro Frontale Senza Contatto Termom
 
 [![Entweg Termometro  Termometro Frontale S](https://m.media-amazon.com/images/I/4114jdwCo7L._SL200_.jpg)](https://www.amazon.it/dp/B08HYSVDZR/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08HYSVDZR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

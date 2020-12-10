@@ -22,6 +22,9 @@ Tienes [Fanta Original 330 ml - 4 lattine](https://www.amazon.it/dp/B0752DYT4W/?
 
 [![Fanta Original 330 ml - 4 lattine](https://m.media-amazon.com/images/I/41C1lWT47cL._SL200_.jpg)](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

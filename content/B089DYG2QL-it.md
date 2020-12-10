@@ -22,6 +22,14 @@ Está [Ace Salviette Igienizzanti con Alcool  400 salviette](https://www.amazon.
 
 [![Ace Salviette Igienizzanti con Alcool  4](https://m.media-amazon.com/images/I/51pKzfseu-L._SL200_.jpg)](https://www.amazon.it/dp/B089DYG2QL/?tag=tolees00-21)
 
+Principales características:
+
+- Salviette senza candeggina
+- Grazie alla formula Igienizzante con alcool, rimuovono germi e batteri e puliscono a fondo le superfici, dentro e fuori casa, senza bisogno di risciacquo
+- In più, diffondono nellambiente un gradevole profumo agrumato
+- Adatto alle piccole superfici, passa la salvietta sulla superficie da pulire
+- Non necessita di risciacquo, né dellutilizzo di un panno asciutto
+
 [Ver la oferta!!](https://www.amazon.it/dp/B089DYG2QL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

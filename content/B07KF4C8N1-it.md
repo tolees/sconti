@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s HR Decon Iconic BF Skirt Gonna  Blu  Meer in The Midd
 
 [![Levi s HR Decon Iconic BF Skirt Gonna  B](https://m.media-amazon.com/images/I/41ysx+FD2HL._SL200_.jpg)](https://www.amazon.it/dp/B07KF4C8N1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07KF4C8N1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

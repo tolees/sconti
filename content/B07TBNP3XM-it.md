@@ -22,6 +22,9 @@ Está [adidas Grand Court I  Scarpe da Ginnastica Unisex-Bambini  Ftwwht/coppmt/
 
 [![adidas Grand Court I  Scarpe da Ginnasti](https://m.media-amazon.com/images/I/215g7lfUCHL._SL200_.jpg)](https://www.amazon.it/dp/B07TBNP3XM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TBNP3XM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [easypix Aquapix W1400 Active](https://www.amazon.it/dp/B00KZJVETM/?tag=t
 
 [![easypix Aquapix W1400 Active](https://m.media-amazon.com/images/I/51mgB5UA2-L._SL200_.jpg)](https://www.amazon.it/dp/B00KZJVETM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00KZJVETM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

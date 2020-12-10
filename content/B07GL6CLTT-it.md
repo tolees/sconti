@@ -22,6 +22,9 @@ Está [HyperX Predator HX432C16PB3AK2/16 Memoria DDR4 16 GB  Kit da 2x8 GB  3200
 
 [![HyperX Predator HX432C16PB3AK2/16 Memori](https://m.media-amazon.com/images/I/41rp9ywIOqL._SL200_.jpg)](https://www.amazon.it/dp/B07GL6CLTT/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07GL6CLTT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

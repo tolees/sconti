@@ -22,6 +22,9 @@ Tienes [PARTU Purificatore d Aria HEPA Filtro con Filtro Aria a Carboni Attivi  
 
 [![PARTU Purificatore d Aria HEPA Filtro co](https://m.media-amazon.com/images/I/41vJV2BZigL._SL200_.jpg)](https://www.amazon.it/dp/B07BY3H53B/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07BY3H53B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

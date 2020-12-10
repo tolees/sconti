@@ -22,6 +22,9 @@ Está [ssc napoli  Maglia Gara Home 2019/2020 Uomo  Blu  M](https://www.amazon.i
 
 [![ssc napoli  Maglia Gara Home 2019/2020 U](https://m.media-amazon.com/images/I/41Xx5yofx3L._SL200_.jpg)](https://www.amazon.it/dp/B07SFZKGNH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SFZKGNH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

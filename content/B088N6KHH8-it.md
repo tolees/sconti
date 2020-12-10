@@ -22,6 +22,9 @@ Tienes [Oral-B iO - 8n Spazzolino Elettrico Ricaricabile  1 Spazzolino Nero con 
 
 [![Oral-B iO - 8n Spazzolino Elettrico Rica](https://m.media-amazon.com/images/I/41GgfS0QaZL._SL200_.jpg)](https://www.amazon.it/dp/B088N6KHH8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B088N6KHH8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

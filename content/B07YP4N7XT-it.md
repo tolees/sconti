@@ -22,6 +22,9 @@ Tienes [Motorola Moto E6 Play  Display Max Vision HD+ da 5 5"  32GB/2GB RAM  Slo
 
 [![Motorola Moto E6 Play  Display Max Visio](https://m.media-amazon.com/images/I/41Qd7Zh06hL._SL200_.jpg)](https://www.amazon.it/dp/B07YP4N7XT/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07YP4N7XT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

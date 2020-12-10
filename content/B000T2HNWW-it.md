@@ -22,6 +22,9 @@ Ahora mismo tienes [Metaltex Babatex  - Cestello sottoripiano -  363840 ](https:
 
 [![Metaltex Babatex  - Cestello sottoripian](https://m.media-amazon.com/images/I/419pd4kXEXL._SL200_.jpg)](https://www.amazon.it/dp/B000T2HNWW/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B000T2HNWW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

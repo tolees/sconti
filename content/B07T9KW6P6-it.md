@@ -22,6 +22,9 @@ Está [Dustgo Tester PH/TDS&EC 4 in 1 Set Misuratore Digitale della qualità del
 
 [![Dustgo Tester PH/TDS&EC 4 in 1 Set Misur](https://m.media-amazon.com/images/I/414OeiISOuL._SL200_.jpg)](https://www.amazon.it/dp/B07T9KW6P6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07T9KW6P6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

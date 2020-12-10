@@ -22,6 +22,9 @@ Está [The Accountant  4K+ Br+ Copia Digitale  ](https://www.amazon.it/dp/B01NAM
 
 [![The Accountant  4K+ Br+ Copia Digitale  ](https://m.media-amazon.com/images/I/51jB5jtHkLL._SL200_.jpg)](https://www.amazon.it/dp/B01NAM3TWU/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01NAM3TWU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

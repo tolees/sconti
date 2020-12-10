@@ -22,6 +22,9 @@ Está [Bosch Professional Smerigliatrice Angolare GWS 7-125  Ø Disco: 125 mm  I
 
 [![Bosch Professional Smerigliatrice Angola](https://m.media-amazon.com/images/I/41viIb+SIlL._SL200_.jpg)](https://www.amazon.it/dp/B018YPAKS4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B018YPAKS4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

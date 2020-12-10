@@ -22,6 +22,9 @@ Está [LEGO Duplo Movie 2 - I visitatori dal pianeta DUPLO di Emmet e Lucy  1089
 
 [![LEGO Duplo Movie 2 - I visitatori dal pi](https://m.media-amazon.com/images/I/51HySUSGGiL._SL200_.jpg)](https://www.amazon.it/dp/B07FNSDZCZ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07FNSDZCZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Axis  Sneaker Unisex-Adulto  Blu  Peacoat-Puma White 07   36 EU](htt
 
 [![Puma Axis  Sneaker Unisex-Adulto  Blu  P](https://m.media-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg)](https://www.amazon.it/dp/B07KG39N6X/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07KG39N6X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

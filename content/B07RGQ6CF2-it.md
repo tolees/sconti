@@ -22,6 +22,9 @@ Tienes [adidas Streetcheck  Scarpe da Basketball Uomo  Multicolore  Core Black/C
 
 [![adidas Streetcheck  Scarpe da Basketball](https://m.media-amazon.com/images/I/31S+z8DqEsL._SL200_.jpg)](https://www.amazon.it/dp/B07RGQ6CF2/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RGQ6CF2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

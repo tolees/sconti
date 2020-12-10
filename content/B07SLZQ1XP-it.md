@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Forest Grove  Scarpe da Ginnastica Uomo  Gris Blanc N
 
 [![adidas Forest Grove  Scarpe da Ginnastic](https://m.media-amazon.com/images/I/31503Yp1jnL._SL200_.jpg)](https://www.amazon.it/dp/B07SLZQ1XP/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SLZQ1XP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

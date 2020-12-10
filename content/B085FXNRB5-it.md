@@ -22,6 +22,9 @@ Tienes [TACKLIFE 2000W Sega da Tavolo  4800 giri/min  Lama per Sega 254 × 30 ×
 
 [![TACKLIFE 2000W Sega da Tavolo  4800 giri](https://m.media-amazon.com/images/I/41v3J-LRsiL._SL200_.jpg)](https://www.amazon.it/dp/B085FXNRB5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B085FXNRB5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

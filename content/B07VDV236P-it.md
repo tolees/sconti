@@ -22,6 +22,9 @@ Tienes [MROTY Italia | Striscia LED RGB  Strisce LED 10mt  Luci LED 5050  300 LE
 
 [![MROTY Italia | Striscia LED RGB  Strisce](https://m.media-amazon.com/images/I/51OAYSgfnoL._SL200_.jpg)](https://www.amazon.it/dp/B07VDV236P/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07VDV236P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

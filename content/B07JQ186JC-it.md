@@ -22,6 +22,9 @@ Está [adidas Tiro 19  Maglia da Allenamento Uomo  Bold Blue/Dark Blue/White  S]
 
 [![adidas Tiro 19  Maglia da Allenamento Uo](https://m.media-amazon.com/images/I/41FFku6-GoL._SL200_.jpg)](https://www.amazon.it/dp/B07JQ186JC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07JQ186JC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

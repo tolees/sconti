@@ -22,6 +22,9 @@ Tienes [Levi s Type 3 Giacca in Jeans  Blu  Stonebridge Sherpa Trucker 0070   X-
 
 [![Levi s Type 3 Giacca in Jeans  Blu  Ston](https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg)](https://www.amazon.it/dp/B07J6H29JJ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07J6H29JJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

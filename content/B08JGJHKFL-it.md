@@ -22,6 +22,9 @@ Ahora mismo tienes [Android TV Box  Android 10.0 TV BOX H616 Quad core 1 GB RAM 
 
 [![Android TV Box  Android 10.0 TV BOX H616](https://m.media-amazon.com/images/I/41E3iGbPVSL._SL200_.jpg)](https://www.amazon.it/dp/B08JGJHKFL/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08JGJHKFL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

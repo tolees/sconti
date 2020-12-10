@@ -22,6 +22,9 @@ Está [Havaianas Slim 4000030 Infradito Donna  Arancione  Bronze Orange 7185   3
 
 [![Havaianas Slim 4000030 Infradito Donna  ](https://m.media-amazon.com/images/I/514Yt-ZH5kL._SL200_.jpg)](https://www.amazon.it/dp/B07FY6HLVM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07FY6HLVM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

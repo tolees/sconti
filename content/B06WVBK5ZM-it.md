@@ -22,6 +22,9 @@ Ahora mismo tienes [Procos- Pignatta 30 cm Cars 3  Multicolore  5PR87933](https:
 
 [![Procos- Pignatta 30 cm Cars 3  Multicolo](https://m.media-amazon.com/images/I/51dSP0a8zGL._SL200_.jpg)](https://www.amazon.it/dp/B06WVBK5ZM/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B06WVBK5ZM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

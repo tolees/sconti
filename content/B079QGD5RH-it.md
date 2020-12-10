@@ -22,6 +22,9 @@ Tienes [Levi s 502 Regular Taper Jeans  Blu Prewash  31W / 34L Uomo](https://www
 
 [![Levi s 502 Regular Taper Jeans  Blu Prew](https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg)](https://www.amazon.it/dp/B079QGD5RH/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B079QGD5RH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva  Nero  Black Bbu 
 
 [![Tommy Hilfiger Essential Hooded Jacket G](https://m.media-amazon.com/images/I/41RB+e5aBiL._SL200_.jpg)](https://www.amazon.it/dp/B07RL2R3CM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RL2R3CM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

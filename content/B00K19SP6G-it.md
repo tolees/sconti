@@ -22,6 +22,9 @@ Está [Supradyn Magnesio e Potassio - Integratore Multiminerali per Afa  Caldo e
 
 [![Supradyn Magnesio e Potassio - Integrato](https://m.media-amazon.com/images/I/41MnQX1D7gL._SL200_.jpg)](https://www.amazon.it/dp/B00K19SP6G/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00K19SP6G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

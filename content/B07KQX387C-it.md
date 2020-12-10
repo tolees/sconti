@@ -22,6 +22,9 @@ Está [Piastra Capelli Kealive Piastra per Capelli for Styling Liscio o Mosso  I
 
 [![Piastra Capelli Kealive Piastra per Cape](https://m.media-amazon.com/images/I/41x8ReaM9eL._SL200_.jpg)](https://www.amazon.it/dp/B07KQX387C/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07KQX387C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

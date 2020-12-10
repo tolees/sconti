@@ -22,6 +22,9 @@ Está [Pic Vedoeco Termometro con Lente - 10 ml](https://www.amazon.it/dp/B008LV
 
 [![Pic Vedoeco Termometro con Lente - 10 ml](https://m.media-amazon.com/images/I/41szXycsaaL._SL200_.jpg)](https://www.amazon.it/dp/B008LVMB5M/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B008LVMB5M/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lacoste L1212 Polo  Panorama  M Uomo](https://www.amazon.it/dp/B083FHJ5SK
 
 [![Lacoste L1212 Polo  Panorama  M Uomo](https://m.media-amazon.com/images/I/410Yl-zZHhL._SL200_.jpg)](https://www.amazon.it/dp/B083FHJ5SK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B083FHJ5SK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

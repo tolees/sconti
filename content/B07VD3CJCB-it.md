@@ -22,6 +22,9 @@ Está [Calvin Klein Washed Stripe Stretch Shirt  f  Camicia  Blu  Night Sky Chw 
 
 [![Calvin Klein Washed Stripe Stretch Shirt](https://m.media-amazon.com/images/I/51h46g5TO3L._SL200_.jpg)](https://www.amazon.it/dp/B07VD3CJCB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VD3CJCB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

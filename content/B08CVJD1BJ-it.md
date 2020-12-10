@@ -22,6 +22,9 @@ Tienes [Hard Disk Esterno  Hard Disk 1 tb Esterno USB3.1/Type C Hard Disk per Ma
 
 [![Hard Disk Esterno  Hard Disk 1 tb Estern](https://m.media-amazon.com/images/I/31jtKFvyESL._SL200_.jpg)](https://www.amazon.it/dp/B08CVJD1BJ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08CVJD1BJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

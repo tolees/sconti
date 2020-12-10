@@ -22,6 +22,9 @@ Está [Samsonite Success Portamonete  100% Pelle  10 cm  Nero](https://www.amazo
 
 [![Samsonite Success Portamonete  100% Pell](https://m.media-amazon.com/images/I/51KIsu9SdVL._SL200_.jpg)](https://www.amazon.it/dp/B01MYN0BHB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01MYN0BHB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

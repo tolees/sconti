@@ -22,6 +22,9 @@ Tienes [Aquafresh Clean Spazzolino e flex Medium  12 confezioni da 3 spazzolini 
 
 [![Aquafresh Clean Spazzolino e flex Medium](https://m.media-amazon.com/images/I/51wrtGD0yxL._SL200_.jpg)](https://www.amazon.it/dp/B01N9HHX86/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N9HHX86/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

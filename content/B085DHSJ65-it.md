@@ -22,6 +22,9 @@ Tienes [Lampada Portatile UVC Germicida Lampada UV Sterilizzazione Senza Prodott
 
 [![Lampada Portatile UVC Germicida Lampada ](https://m.media-amazon.com/images/I/31mcI6y-YLL._SL200_.jpg)](https://www.amazon.it/dp/B085DHSJ65/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B085DHSJ65/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

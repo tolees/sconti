@@ -22,6 +22,9 @@ Tienes [Dalmo Soffione Doccia Ad Alta Pressione Soffione Per Doccia Universale D
 
 [![Dalmo Soffione Doccia Ad Alta Pressione ](https://m.media-amazon.com/images/I/41n7M4patxL._SL200_.jpg)](https://www.amazon.it/dp/B081DT6FGV/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B081DT6FGV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

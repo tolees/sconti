@@ -22,6 +22,9 @@ Tienes [PUMA Cilia  Scarpe da Ginnastica Donna  Bianca  White-Gray Violet-Silver
 
 [![PUMA Cilia  Scarpe da Ginnastica Donna  ](https://m.media-amazon.com/images/I/31u8MzGjjoL._SL200_.jpg)](https://www.amazon.it/dp/B07F2YPWKJ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07F2YPWKJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

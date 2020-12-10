@@ -22,6 +22,9 @@ Está [find. Slouch Stivaletti  Marrone Caramel   39 EU](https://www.amazon.it/d
 
 [![find. Slouch Stivaletti  Marrone Caramel](https://m.media-amazon.com/images/I/31ZvMbdrojL._SL200_.jpg)](https://www.amazon.it/dp/B07FKCQ6NN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07FKCQ6NN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

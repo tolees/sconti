@@ -22,6 +22,9 @@ Está [Levi s Sunset 1 Pkt Slim Camicia  Blu  Alfonso Indigo 0006   Small Uomo](
 
 [![Levi s Sunset 1 Pkt Slim Camicia  Blu  A](https://m.media-amazon.com/images/I/41Eui+kKjVL._SL200_.jpg)](https://www.amazon.it/dp/B07S3WPJJY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07S3WPJJY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

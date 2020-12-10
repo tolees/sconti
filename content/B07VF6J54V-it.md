@@ -22,6 +22,9 @@ Está [Hackett Continuity WSH/Oxford Camicia  Rosa  Pink 325   44  Taglia Produt
 
 [![Hackett Continuity WSH/Oxford Camicia  R](https://m.media-amazon.com/images/I/31y5iFtMg7L._SL200_.jpg)](https://www.amazon.it/dp/B07VF6J54V/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VF6J54V/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Boys Basic CN Knit S/s Maglietta  Bianco  Bri
 
 [![Tommy Hilfiger Boys Basic CN Knit S/s Ma](https://m.media-amazon.com/images/I/31MP1IW1JIL._SL200_.jpg)](https://www.amazon.it/dp/B07F3L1SK9/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07F3L1SK9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

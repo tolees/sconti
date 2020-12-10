@@ -22,6 +22,9 @@ Ahora mismo tienes [Massaggiatore Cervicale  cervicale massaggiatore homedics Mu
 
 [![Massaggiatore Cervicale  cervicale massa](https://m.media-amazon.com/images/I/41ZVQlJPT3L._SL200_.jpg)](https://www.amazon.it/dp/B088TT4QHR/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B088TT4QHR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

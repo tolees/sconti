@@ -22,6 +22,9 @@ Ahora mismo tienes [Black+Decker BXPW2500DTS Idropulitrice ad Alta Pressione con
 
 [![Black+Decker BXPW2500DTS Idropulitrice a](https://m.media-amazon.com/images/I/41LT8KcTOzL._SL200_.jpg)](https://www.amazon.it/dp/B07SMHQW88/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SMHQW88/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

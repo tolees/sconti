@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Shoulder GS Insert Slim Polo Maglietta  Blu  Desert Sky   
 
 [![Tommy Hilfiger Shoulder GS Insert Slim P](https://m.media-amazon.com/images/I/411Yzgx2gWL._SL200_.jpg)](https://www.amazon.it/dp/B07W4HWC77/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07W4HWC77/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

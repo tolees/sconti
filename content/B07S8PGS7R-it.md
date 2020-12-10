@@ -22,6 +22,9 @@ Está [Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  Bianco White Black 24  
 
 [![Puma Flyer Runner  Scarpe da Corsa Unise](https://m.media-amazon.com/images/I/31soPwUIW5L._SL200_.jpg)](https://www.amazon.it/dp/B07S8PGS7R/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07S8PGS7R/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

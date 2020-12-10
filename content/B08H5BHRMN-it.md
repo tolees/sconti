@@ -22,6 +22,9 @@ Está [Genericn - Scheda di memoria Micro SD SDXC ad alta velocità classe 10 SD
 
 [![Genericn - Scheda di memoria Micro SD SD](https://m.media-amazon.com/images/I/41eew9NIY6L._SL200_.jpg)](https://www.amazon.it/dp/B08H5BHRMN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08H5BHRMN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

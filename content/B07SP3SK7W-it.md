@@ -22,6 +22,9 @@ Ahora mismo tienes [Havaianas Brasil Logo  Infradito Unisex-Bambini  Rosa  Holly
 
 [![Havaianas Brasil Logo  Infradito Unisex-](https://m.media-amazon.com/images/I/41DgcOfV3PL._SL200_.jpg)](https://www.amazon.it/dp/B07SP3SK7W/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SP3SK7W/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

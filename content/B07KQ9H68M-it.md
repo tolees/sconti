@@ -22,6 +22,9 @@ Tienes [Tognana Set 3 padelle 20-24-28 cm  Alluminio  anche a Induzione  Nero](h
 
 [![Tognana Set 3 padelle 20-24-28 cm  Allum](https://m.media-amazon.com/images/I/41W-AbIbzRL._SL200_.jpg)](https://www.amazon.it/dp/B07KQ9H68M/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KQ9H68M/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

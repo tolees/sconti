@@ -22,6 +22,9 @@ Tienes [Hasbro Marvel Spider-Man - Titan Hero Power FX con Lanciacolpi da Bracci
 
 [![Hasbro Marvel Spider-Man - Titan Hero Po](https://m.media-amazon.com/images/I/51KaRybwCuL._SL200_.jpg)](https://www.amazon.it/dp/B07MXQLYL8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07MXQLYL8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

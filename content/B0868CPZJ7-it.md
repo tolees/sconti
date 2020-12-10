@@ -22,6 +22,9 @@ Ahora mismo tienes [Lampada UV Aigostar Lampada sterilizzante a raggi Ultraviole
 
 [![Lampada UV Aigostar Lampada sterilizzant](https://m.media-amazon.com/images/I/51qGe+Xzu4L._SL200_.jpg)](https://www.amazon.it/dp/B0868CPZJ7/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0868CPZJ7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

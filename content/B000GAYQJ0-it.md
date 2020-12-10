@@ -22,6 +22,9 @@ Tienes [Casio Vintage A158WA-1CR - Orologio da Polso Digitale  Argento](https://
 
 [![Casio Vintage A158WA-1CR - Orologio da P](https://m.media-amazon.com/images/I/41x15maipiL._SL200_.jpg)](https://www.amazon.it/dp/B000GAYQJ0/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B000GAYQJ0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

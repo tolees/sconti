@@ -22,6 +22,9 @@ Tienes [Philips HP6341/00 Ladyshave Rasoio Femminile  Wet&Dry  Bianco/Fucsia](ht
 
 [![Philips HP6341/00 Ladyshave Rasoio Femmi](https://m.media-amazon.com/images/I/31-zkZXaukL._SL200_.jpg)](https://www.amazon.it/dp/B004JQOJ08/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B004JQOJ08/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

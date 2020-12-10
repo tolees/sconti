@@ -22,6 +22,9 @@ Está [Crosstour Action Cam  Sport WiFi Camera 14MP 2”LCD Full HD Impermeabile
 
 [![Crosstour Action Cam  Sport WiFi Camera ](https://m.media-amazon.com/images/I/512vyi4TBBL._SL200_.jpg)](https://www.amazon.it/dp/B073WWSYJK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B073WWSYJK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

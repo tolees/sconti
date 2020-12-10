@@ -22,6 +22,9 @@ Está [Gillette Mach3 Rasoio Uomo + 7 Lamette di Ricarica Con Lame Forti che dur
 
 [![Gillette Mach3 Rasoio Uomo + 7 Lamette d](https://m.media-amazon.com/images/I/41YrOkNQvdL._SL200_.jpg)](https://www.amazon.it/dp/B07H3RRKWB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07H3RRKWB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

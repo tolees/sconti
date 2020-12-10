@@ -22,6 +22,9 @@ Ahora mismo tienes [Pen Drive 128 gb USB 3.0 Philips FM12FD75B chiavetta flash d
 
 [![Pen Drive 128 gb USB 3.0 Philips FM12FD7](https://m.media-amazon.com/images/I/41QxYWdTKtL._SL200_.jpg)](https://www.amazon.it/dp/B00M6TJMT8/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00M6TJMT8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [[2+3 pezzi] UniqueMe Vetro Temperato per Xiaomi Poco X3 NFC +[Bubble-Fre
 
 [![[2+3 pezzi] UniqueMe Vetro Temperato per](https://m.media-amazon.com/images/I/51G8iTpo-TL._SL200_.jpg)](https://www.amazon.it/dp/B08JM1PLYC/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08JM1PLYC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

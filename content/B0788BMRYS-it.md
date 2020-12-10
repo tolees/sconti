@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger RN Tee SS Maglietta  Bianco  White 100   X-La
 
 [![Tommy Hilfiger RN Tee SS Maglietta  Bian](https://m.media-amazon.com/images/I/41sQj-72PSL._SL200_.jpg)](https://www.amazon.it/dp/B0788BMRYS/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0788BMRYS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

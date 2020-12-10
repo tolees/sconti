@@ -22,6 +22,9 @@ Está [Levi s Relaxed Graphic Tee T-Shirt  Bianco  90 s Serif Logo White 0026   
 
 [![Levi s Relaxed Graphic Tee T-Shirt  Bian](https://m.media-amazon.com/images/I/3108lPXRybL._SL200_.jpg)](https://www.amazon.it/dp/B07RZLJDB9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07RZLJDB9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

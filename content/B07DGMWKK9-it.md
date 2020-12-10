@@ -22,6 +22,9 @@ Está [Oral-B Vitality 100 Spazzolino Elettrico Ricaricabile  1 Manico Nero  1 T
 
 [![Oral-B Vitality 100 Spazzolino Elettrico](https://m.media-amazon.com/images/I/41JXEOPPWEL._SL200_.jpg)](https://www.amazon.it/dp/B07DGMWKK9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07DGMWKK9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

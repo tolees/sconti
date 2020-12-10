@@ -22,6 +22,9 @@ Está [Levi s Tank Top Canottiera Sportiva  Bianco  White + 0000   Small Donna](
 
 [![Levi s Tank Top Canottiera Sportiva  Bia](https://m.media-amazon.com/images/I/41vbnBZswKL._SL200_.jpg)](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

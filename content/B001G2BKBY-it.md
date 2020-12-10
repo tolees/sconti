@@ -22,6 +22,9 @@ Tienes [Birkenstock Mayari 71791  Infradito donna - Nero  39 EU](https://www.ama
 
 [![Birkenstock Mayari 71791  Infradito donn](https://m.media-amazon.com/images/I/41vouQmk9FL._SL200_.jpg)](https://www.amazon.it/dp/B001G2BKBY/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B001G2BKBY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

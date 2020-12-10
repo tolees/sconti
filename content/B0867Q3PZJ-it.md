@@ -22,6 +22,9 @@ Tienes [StillCool Dispenser per sapone da 700 ml  con sensore automatico gel e l
 
 [![StillCool Dispenser per sapone da 700 ml](https://m.media-amazon.com/images/I/31-1h6Vaw1L._SL200_.jpg)](https://www.amazon.it/dp/B0867Q3PZJ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0867Q3PZJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vans Otw Raglan Maglietta  Bianco  White/Black   X-Small Uomo](https://ww
 
 [![Vans Otw Raglan Maglietta  Bianco  White](https://m.media-amazon.com/images/I/41tPAyvQ2CL._SL200_.jpg)](https://www.amazon.it/dp/B0198J4WVQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0198J4WVQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

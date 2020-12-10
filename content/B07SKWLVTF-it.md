@@ -22,6 +22,9 @@ Está [Havaianas High Light  Infradito Donna  Nero  Black/Dark Grey/Ice Grey 790
 
 [![Havaianas High Light  Infradito Donna  N](https://m.media-amazon.com/images/I/41r8EFvu7LL._SL200_.jpg)](https://www.amazon.it/dp/B07SKWLVTF/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SKWLVTF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

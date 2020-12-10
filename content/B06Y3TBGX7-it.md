@@ -22,6 +22,9 @@ Está [Ardes AR5EA40PB Ventilatore Piantana  Nero  Pala 40 cm](https://www.amazo
 
 [![Ardes AR5EA40PB Ventilatore Piantana  Ne](https://m.media-amazon.com/images/I/41+VjkJCGtL._SL200_.jpg)](https://www.amazon.it/dp/B06Y3TBGX7/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B06Y3TBGX7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

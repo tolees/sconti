@@ -22,6 +22,9 @@ Está [Bombe da bagno a forma di unicorno.](https://www.amazon.it/dp/B07CRMSBWR/
 
 [![Bombe da bagno a forma di unicorno.](https://m.media-amazon.com/images/I/41hoBA45VOL._SL200_.jpg)](https://www.amazon.it/dp/B07CRMSBWR/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07CRMSBWR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

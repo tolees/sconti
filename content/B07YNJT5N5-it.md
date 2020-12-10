@@ -22,6 +22,9 @@ Ahora mismo tienes [Kenwood KHC29.H0WH Impastatrice Planetaria Prospero  1000 W 
 
 [![Kenwood KHC29.H0WH Impastatrice Planetar](https://m.media-amazon.com/images/I/31vgg-0aItL._SL200_.jpg)](https://www.amazon.it/dp/B07YNJT5N5/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07YNJT5N5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Track Top Ls Hwk Felpa  Blu  Navy Blazer 416   Large Uomo]
 
 [![Tommy Hilfiger Track Top Ls Hwk Felpa  B](https://m.media-amazon.com/images/I/414VKUz2uxL._SL200_.jpg)](https://www.amazon.it/dp/B0788CC8DR/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0788CC8DR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

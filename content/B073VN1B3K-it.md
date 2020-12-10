@@ -22,6 +22,9 @@ Ahora mismo tienes [Maybelline New York Tinta per Sopracciglia Peel-off Tattoo B
 
 [![Maybelline New York Tinta per Sopraccigl](https://m.media-amazon.com/images/I/31BHNjNhHFL._SL200_.jpg)](https://www.amazon.it/dp/B073VN1B3K/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B073VN1B3K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

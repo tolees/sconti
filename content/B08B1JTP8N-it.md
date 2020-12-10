@@ -22,6 +22,9 @@ Ahora mismo tienes [jpantech Smartwatch Orologio Fitness Uomo Donna Impermeabile
 
 [![jpantech Smartwatch Orologio Fitness Uom](https://m.media-amazon.com/images/I/41xsKTk76yL._SL200_.jpg)](https://www.amazon.it/dp/B08B1JTP8N/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08B1JTP8N/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

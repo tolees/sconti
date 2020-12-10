@@ -22,6 +22,9 @@ Está [BLACK+DECKER ASD184KB-QW Trapano/avvitatore Autosense 18V - 1.5AH  con do
 
 [![BLACK+DECKER ASD184KB-QW Trapano/avvitat](https://m.media-amazon.com/images/I/41FteOkzfSL._SL200_.jpg)](https://www.amazon.it/dp/B00M85DOD0/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00M85DOD0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

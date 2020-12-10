@@ -22,6 +22,9 @@ Está [Bialetti Venus Caffettiera in Acciaio Inox  Adatta all Induzione  Inossid
 
 [![Bialetti Venus Caffettiera in Acciaio In](https://m.media-amazon.com/images/I/31ONHxUuyqL._SL200_.jpg)](https://www.amazon.it/dp/B0009Q1DNS/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0009Q1DNS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

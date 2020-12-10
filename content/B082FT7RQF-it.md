@@ -22,6 +22,9 @@ Ahora mismo tienes [Moschino Donna Borsa Nero MOD. MOS4085](https://www.amazon.i
 
 [![Moschino Donna Borsa Nero MOD. MOS4085](https://m.media-amazon.com/images/I/41pghLFps9L._SL200_.jpg)](https://www.amazon.it/dp/B082FT7RQF/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B082FT7RQF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [HOMCOM Schermo Proiezione Motorizzato Home Cinema 120 Pollici  Bianco](h
 
 [![HOMCOM Schermo Proiezione Motorizzato Ho](https://m.media-amazon.com/images/I/31JjCWG9f6L._SL200_.jpg)](https://www.amazon.it/dp/B01N0TDWO2/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N0TDWO2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

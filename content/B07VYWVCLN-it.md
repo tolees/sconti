@@ -22,6 +22,9 @@ Está [Massaggiatore Plantare Massaggio Piedi - Tecnologia SME Fisioterapia e De
 
 [![Massaggiatore Plantare Massaggio Piedi -](https://m.media-amazon.com/images/I/41MFf269mcL._SL200_.jpg)](https://www.amazon.it/dp/B07VYWVCLN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VYWVCLN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

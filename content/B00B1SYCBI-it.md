@@ -22,6 +22,9 @@ Está [Brandit Savage Vintage Shorts Pantaloncini  Schwarz  M Uomo](https://www.
 
 [![Brandit Savage Vintage Shorts Pantalonci](https://m.media-amazon.com/images/I/5149CtxO6vL._SL200_.jpg)](https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

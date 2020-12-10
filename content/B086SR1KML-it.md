@@ -22,6 +22,9 @@ Tienes [Asciugacapelli  Slopehill 1800W AC Phon Professionale Ioni Compatto per 
 
 [![Asciugacapelli  Slopehill 1800W AC Phon ](https://m.media-amazon.com/images/I/41kfSGWzIdL._SL200_.jpg)](https://www.amazon.it/dp/B086SR1KML/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B086SR1KML/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

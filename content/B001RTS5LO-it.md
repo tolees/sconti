@@ -22,6 +22,9 @@ Tienes [Lagostina I Cucinieri Rotella Pizza con Anello  Acciaio Inox 18/10  21 c
 
 [![Lagostina I Cucinieri Rotella Pizza con ](https://m.media-amazon.com/images/I/21vL823qFCL._SL200_.jpg)](https://www.amazon.it/dp/B001RTS5LO/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B001RTS5LO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

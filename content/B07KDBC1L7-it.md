@@ -22,6 +22,9 @@ Tienes [Echo Show 5 – Resta sempre in contatto con l aiuto di Alexa  Bianco](h
 
 [![Echo Show 5 – Resta sempre in contatto c](https://m.media-amazon.com/images/I/313zX4qti6L._SL200_.jpg)](https://www.amazon.it/dp/B07KDBC1L7/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KDBC1L7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

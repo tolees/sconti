@@ -22,6 +22,9 @@ Tienes [eXtremeRate DAWN Remap Kit Programmabile per Playstation 4 Joystick Modd
 
 [![eXtremeRate DAWN Remap Kit Programmabile](https://m.media-amazon.com/images/I/51MT-7YfTzL._SL200_.jpg)](https://www.amazon.it/dp/B08CS76HRB/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08CS76HRB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

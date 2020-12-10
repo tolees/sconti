@@ -22,6 +22,9 @@ Está [Cuffie Bluetooth 5.0 Senza Fili 30H Playtime 3D Stereo HD TWS Ear-In Auri
 
 [![Cuffie Bluetooth 5.0 Senza Fili 30H Play](https://m.media-amazon.com/images/I/41plmffiVVL._SL200_.jpg)](https://www.amazon.it/dp/B083MXXTR8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B083MXXTR8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

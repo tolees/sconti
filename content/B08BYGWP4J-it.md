@@ -22,6 +22,9 @@ Tienes [INNZA Epilatore Luce Pulsata IPL Hair Removal 999 000 Impulsi di Luce Ep
 
 [![INNZA Epilatore Luce Pulsata IPL Hair Re](https://m.media-amazon.com/images/I/41bgMkLP6lL._SL200_.jpg)](https://www.amazon.it/dp/B08BYGWP4J/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08BYGWP4J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

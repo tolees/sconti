@@ -22,6 +22,9 @@ Está [Birkenstock Arizona - Sandali a Punta Aperta Uomo  Grigio  Brushed Emeral
 
 [![Birkenstock Arizona - Sandali a Punta Ap](https://m.media-amazon.com/images/I/41B8JlstFUL._SL200_.jpg)](https://www.amazon.it/dp/B01BKUA0XK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01BKUA0XK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

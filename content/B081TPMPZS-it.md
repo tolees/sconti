@@ -22,6 +22,9 @@ Tienes [adidas 3stripe Wrap TT Felpa  Uomo  Black/White  S](https://www.amazon.i
 
 [![adidas 3stripe Wrap TT Felpa  Uomo  Blac](https://m.media-amazon.com/images/I/413jZzeAeUL._SL200_.jpg)](https://www.amazon.it/dp/B081TPMPZS/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B081TPMPZS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Amazon Echo  3ª generazione   Tessuto grigio mélange + Amazon Smart Pl
 
 [![Amazon Echo  3ª generazione   Tessuto gr](https://m.media-amazon.com/images/I/41D4sQfl-NL._SL200_.jpg)](https://www.amazon.it/dp/B08D1KWX1J/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08D1KWX1J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

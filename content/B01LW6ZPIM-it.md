@@ -22,6 +22,9 @@ Está [Beats EP Cuffie con filo – Senza batteria per ascoltare musica non stop
 
 [![Beats EP Cuffie con filo – Senza batteri](https://m.media-amazon.com/images/I/41VUNMWC+PL._SL200_.jpg)](https://www.amazon.it/dp/B01LW6ZPIM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01LW6ZPIM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

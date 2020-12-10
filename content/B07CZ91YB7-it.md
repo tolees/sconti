@@ -22,6 +22,9 @@ Tienes [Puma Epic Flip V2  Infradito Unisex – Adulto  Rosa  Winsome Orchid-Pum
 
 [![Puma Epic Flip V2  Infradito Unisex – Ad](https://m.media-amazon.com/images/I/3161qRaSrAL._SL200_.jpg)](https://www.amazon.it/dp/B07CZ91YB7/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07CZ91YB7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lenor Ammorbidente Lavanda & Camomilla 208 Lavaggi  Maxi Formato 8 x 26 L
 
 [![Lenor Ammorbidente Lavanda & Camomilla 2](https://m.media-amazon.com/images/I/51wz4bRpO7L._SL200_.jpg)](https://www.amazon.it/dp/B072HFPP4Y/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B072HFPP4Y/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

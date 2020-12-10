@@ -22,6 +22,9 @@ Está [Levi s The Perfect Tee Maglietta  Bianco  Floral Filled Batwing White+ 07
 
 [![Levi s The Perfect Tee Maglietta  Bianco](https://m.media-amazon.com/images/I/41ocg5emEBL._SL200_.jpg)](https://www.amazon.it/dp/B07TT71V7C/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TT71V7C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

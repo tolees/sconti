@@ -22,6 +22,9 @@ Está [Xtreme 90450 Sedile Racing con Supporto Cambio  Pedaliera e Volante  Comp
 
 [![Xtreme 90450 Sedile Racing con Supporto ](https://m.media-amazon.com/images/I/41HGWWmSqHL._SL200_.jpg)](https://www.amazon.it/dp/B01GU9QZOO/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01GU9QZOO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

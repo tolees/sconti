@@ -22,6 +22,9 @@ Tienes [Eastpak Tranverz M Valigia  67 cm  78 L  Blu  Triple Denim ](https://www
 
 [![Eastpak Tranverz M Valigia  67 cm  78 L ](https://m.media-amazon.com/images/I/31NMY9mDrqL._SL200_.jpg)](https://www.amazon.it/dp/B07DP764GY/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DP764GY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

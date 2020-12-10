@@ -22,6 +22,9 @@ Ahora mismo tienes [eXtremeRate Tasti Pulsanti Ricambio per Xbox One Elite Serie
 
 [![eXtremeRate Tasti Pulsanti Ricambio per ](https://m.media-amazon.com/images/I/410tuJ-3W6L._SL200_.jpg)](https://www.amazon.it/dp/B08HLXGGXD/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08HLXGGXD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

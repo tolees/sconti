@@ -22,6 +22,9 @@ Está [Neutro Roberts Sapone Solido Idratante - 400 g](https://www.amazon.it/dp/
 
 [![Neutro Roberts Sapone Solido Idratante -](https://m.media-amazon.com/images/I/413v2FNgwPL._SL200_.jpg)](https://www.amazon.it/dp/B00BEJI1RA/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00BEJI1RA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

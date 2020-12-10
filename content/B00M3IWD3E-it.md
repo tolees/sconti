@@ -22,6 +22,9 @@ Tienes [Nixon Analogico Quarzo Orologio da Polso A045-1920-00](https://www.amazo
 
 [![Nixon Analogico Quarzo Orologio da Polso](https://m.media-amazon.com/images/I/41NJ7OY99JL._SL200_.jpg)](https://www.amazon.it/dp/B00M3IWD3E/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00M3IWD3E/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

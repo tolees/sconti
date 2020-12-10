@@ -22,6 +22,9 @@ Está [Speedo Solid Leis 16 Wsht Am  Pantaloncini da Bagno Uomo  Blu  Dark Blue 
 
 [![Speedo Solid Leis 16 Wsht Am  Pantalonci](https://m.media-amazon.com/images/I/415T7-25vGL._SL200_.jpg)](https://www.amazon.it/dp/B006OZW4WM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B006OZW4WM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

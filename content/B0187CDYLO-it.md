@@ -22,6 +22,9 @@ Está [MySound Speak Street Cuffie Stereo Extra Bass  Microfono e Tasto di Rispo
 
 [![MySound Speak Street Cuffie Stereo Extra](https://m.media-amazon.com/images/I/416fL0Y+qsL._SL200_.jpg)](https://www.amazon.it/dp/B0187CDYLO/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0187CDYLO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

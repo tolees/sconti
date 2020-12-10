@@ -22,6 +22,9 @@ Tienes [TCL | 43EP641 | Android TV con Assistente Google: Risoluzione 4k HDR  Ac
 
 [![TCL | 43EP641 | Android TV con Assistent](https://m.media-amazon.com/images/I/41nMfkTsHrL._SL200_.jpg)](https://www.amazon.it/dp/B07TC5DZTS/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TC5DZTS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

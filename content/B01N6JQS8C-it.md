@@ -22,6 +22,9 @@ Tienes [Kingston A400 SSD SA400S37/120G Unità a Stato Solido Interne 2.5" SATA 
 
 [![Kingston A400 SSD SA400S37/120G Unità a ](https://m.media-amazon.com/images/I/41xE5H4zsSL._SL200_.jpg)](https://www.amazon.it/dp/B01N6JQS8C/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N6JQS8C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [INPHIC Tappetino per Mouse Gaming Keyboard Mouse Pad da Gioc
 
 [![INPHIC Tappetino per Mouse Gaming Keyboa](https://m.media-amazon.com/images/I/31JXUMxEaML._SL200_.jpg)](https://www.amazon.it/dp/B07PVSCK67/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07PVSCK67/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

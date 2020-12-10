@@ -22,6 +22,9 @@ Ahora mismo tienes [D-Link DUB-E100 Adattatore di Rete con Porta USB 2.0 e Porta
 
 [![D-Link DUB-E100 Adattatore di Rete con P](https://m.media-amazon.com/images/I/31FEIOWoC5L._SL200_.jpg)](https://www.amazon.it/dp/B0000ATAD5/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0000ATAD5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

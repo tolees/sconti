@@ -22,6 +22,9 @@ Está [VERO MODA VMJULIA LS BLAZER DNM NOOS  Blazer Donna  Blu  Total Eclipse   
 
 [![VERO MODA VMJULIA LS BLAZER DNM NOOS  Bl](https://m.media-amazon.com/images/I/31ewhyibNoL._SL200_.jpg)](https://www.amazon.it/dp/B01E2B4WWY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01E2B4WWY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

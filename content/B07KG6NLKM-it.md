@@ -22,6 +22,9 @@ Está [Puma Smash V2 Sneaker Unisex - Adulto  Rhubarb/Puma Team Gold/Puma White 
 
 [![Puma Smash V2 Sneaker Unisex - Adulto  R](https://m.media-amazon.com/images/I/41o8BFPiliL._SL200_.jpg)](https://www.amazon.it/dp/B07KG6NLKM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07KG6NLKM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

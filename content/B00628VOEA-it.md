@@ -22,6 +22,9 @@ Está [Ghd Air - Asciugacapelli professionale  Finish come appena uscita dal sal
 
 [![Ghd Air - Asciugacapelli professionale  ](https://m.media-amazon.com/images/I/41INrGN1FYL._SL200_.jpg)](https://www.amazon.it/dp/B00628VOEA/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00628VOEA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

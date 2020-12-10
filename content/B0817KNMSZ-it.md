@@ -22,6 +22,9 @@ Está [HP Envy Urban Sleeve per Notebook fino a 15.6"  Vano Imbottito  Tasca Ott
 
 [![HP Envy Urban Sleeve per Notebook fino a](https://m.media-amazon.com/images/I/31yvczd+uBL._SL200_.jpg)](https://www.amazon.it/dp/B0817KNMSZ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0817KNMSZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

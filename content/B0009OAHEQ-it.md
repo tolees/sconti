@@ -22,6 +22,9 @@ Tienes [Joop! JOOP! Homme Eau de Toilette  Uomo  125 ml](https://www.amazon.it/d
 
 [![Joop! JOOP! Homme Eau de Toilette  Uomo ](https://m.media-amazon.com/images/I/31ikk2OoUCL._SL200_.jpg)](https://www.amazon.it/dp/B0009OAHEQ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0009OAHEQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

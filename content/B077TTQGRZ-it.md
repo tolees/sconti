@@ -22,6 +22,9 @@ Ahora mismo tienes [Superga 2750-NAPPALEAU  Sneaker Unisex Adulto  Nero  Black/W
 
 [![Superga 2750-NAPPALEAU  Sneaker Unisex A](https://m.media-amazon.com/images/I/312qEEJ1wYL._SL200_.jpg)](https://www.amazon.it/dp/B077TTQGRZ/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B077TTQGRZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

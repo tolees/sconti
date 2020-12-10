@@ -22,6 +22,9 @@ Está [Acqua alle Rose Tonico Rinfrescante - 4 x 300 ml](https://www.amazon.it/d
 
 [![Acqua alle Rose Tonico Rinfrescante - 4 ](https://m.media-amazon.com/images/I/51vaubhsoxL._SL200_.jpg)](https://www.amazon.it/dp/B08968MJWN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08968MJWN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

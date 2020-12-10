@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta  Grigio  Cloud Htr 5
 
 [![Tommy Hilfiger Core Stretch Slim Cneck T](https://m.media-amazon.com/images/I/417r9k5oUcL._SL200_.jpg)](https://www.amazon.it/dp/B073ZCVCZN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B073ZCVCZN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

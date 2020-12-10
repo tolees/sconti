@@ -22,6 +22,9 @@ Está [Levi s 501 Long Pantaloncini  Blu  Montgomery Mended Short 0013   W25  Ta
 
 [![Levi s 501 Long Pantaloncini  Blu  Montg](https://m.media-amazon.com/images/I/51Ve0o6gWLL._SL200_.jpg)](https://www.amazon.it/dp/B07TRMSJFP/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TRMSJFP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

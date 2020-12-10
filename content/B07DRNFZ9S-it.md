@@ -22,6 +22,9 @@ Está [Michael Kors Voyager Crossgrain Leather Tote - Borse Donna  Nero  Black  
 
 [![Michael Kors Voyager Crossgrain Leather ](https://m.media-amazon.com/images/I/41kI0AL2ypL._SL200_.jpg)](https://www.amazon.it/dp/B07DRNFZ9S/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07DRNFZ9S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

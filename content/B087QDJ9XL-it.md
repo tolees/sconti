@@ -22,6 +22,9 @@ Tienes [realme Band 1 Smartwatch con Ampio Display a Colori  Fitness Tracker  Ba
 
 [![realme Band 1 Smartwatch con Ampio Displ](https://m.media-amazon.com/images/I/41en2ctmL-L._SL200_.jpg)](https://www.amazon.it/dp/B087QDJ9XL/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B087QDJ9XL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [TQGOLD Scarpe Antinfortunistica Uomo Donna S3 Estive Scarpe da Lavoro co
 
 [![TQGOLD Scarpe Antinfortunistica Uomo Don](https://m.media-amazon.com/images/I/41APThh7O-L._SL200_.jpg)](https://www.amazon.it/dp/B07W5NMHRT/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07W5NMHRT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Oral-B Testine di Ricambio KIDS Frozen per Spazzolino Elettrico Ricaricab
 
 [![Oral-B Testine di Ricambio KIDS Frozen p](https://m.media-amazon.com/images/I/51M0qymqmDL._SL200_.jpg)](https://www.amazon.it/dp/B07RQV3CYK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07RQV3CYK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

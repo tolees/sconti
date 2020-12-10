@@ -22,6 +22,9 @@ Ahora mismo tienes [Ponkor Alimentatore per Xbox One [Versione QUIETEST] Xbox On
 
 [![Ponkor Alimentatore per Xbox One [Versio](https://m.media-amazon.com/images/I/41Fy5ZV-2JL._SL200_.jpg)](https://www.amazon.it/dp/B079BPP9D7/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B079BPP9D7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

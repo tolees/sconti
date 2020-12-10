@@ -22,6 +22,9 @@ Está [Manfrotto Befree Advanced Camo  Kit Treppiede Adavnced Travel  con Testa 
 
 [![Manfrotto Befree Advanced Camo  Kit Trep](https://m.media-amazon.com/images/I/31YoHzjuhTL._SL200_.jpg)](https://www.amazon.it/dp/B083XSNX8S/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B083XSNX8S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

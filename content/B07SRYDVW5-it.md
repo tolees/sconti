@@ -22,6 +22,9 @@ Tienes [Lacoste Gripshot 120 2 CMA  Sneaker Uomo  Bianco  Wht/Grn 082   41 EU](h
 
 [![Lacoste Gripshot 120 2 CMA  Sneaker Uomo](https://m.media-amazon.com/images/I/31-CmdZ4S6L._SL200_.jpg)](https://www.amazon.it/dp/B07SRYDVW5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07SRYDVW5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

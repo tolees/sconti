@@ -22,6 +22,9 @@ Está [Geographical Norway  Pile da uomo  RIAKOLO Blu navy XL](https://www.amazo
 
 [![Geographical Norway  Pile da uomo  RIAKO](https://m.media-amazon.com/images/I/51+RD0nALhL._SL200_.jpg)](https://www.amazon.it/dp/B082BBQWGY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B082BBQWGY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

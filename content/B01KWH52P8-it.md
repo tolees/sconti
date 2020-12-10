@@ -22,6 +22,9 @@ Está [Geox J Sandal Karly Girl D  Punta Aperta Bambina  Bianco  White C1000   4
 
 [![Geox J Sandal Karly Girl D  Punta Aperta](https://m.media-amazon.com/images/I/41UkRwusnfL._SL200_.jpg)](https://www.amazon.it/dp/B01KWH52P8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01KWH52P8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

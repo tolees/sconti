@@ -22,6 +22,9 @@ Tienes [Samsung Galaxy S10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocam
 
 [![Samsung Galaxy S10 Lite Smartphone  Disp](https://m.media-amazon.com/images/I/41UzJArEZ2L._SL200_.jpg)](https://www.amazon.it/dp/B083KXDJS4/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B083KXDJS4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

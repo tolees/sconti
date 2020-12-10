@@ -22,6 +22,9 @@ Está [eFootball PES 2020 - Playstation 4 [Versione EU Multilingua]](https://www
 
 [![eFootball PES 2020 - Playstation 4 [Vers](https://m.media-amazon.com/images/I/61c516aZhBL._SL200_.jpg)](https://www.amazon.it/dp/B07VG8Y9C7/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VG8Y9C7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

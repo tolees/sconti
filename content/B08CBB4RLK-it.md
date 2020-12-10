@@ -22,6 +22,9 @@ Tienes [Tau-Marin Spazzolino Professional 27 Medio Edizione Limitata by Alessand
 
 [![Tau-Marin Spazzolino Professional 27 Med](https://m.media-amazon.com/images/I/41Il6mJgF7L._SL500_._SL200_.jpg)](https://www.amazon.it/dp/B08CBB4RLK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08CBB4RLK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

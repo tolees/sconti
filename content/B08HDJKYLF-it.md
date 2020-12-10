@@ -22,6 +22,9 @@ Ahora mismo tienes [eXtremeRate Cover Grip per Xbox One S X Controller Model 170
 
 [![eXtremeRate Cover Grip per Xbox One S X ](https://m.media-amazon.com/images/I/410uY1kc9NL._SL200_.jpg)](https://www.amazon.it/dp/B08HDJKYLF/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08HDJKYLF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Trust Gaming GXT 707G Resto Sedia da PC  Grigio/Nero](https://www.amazon.
 
 [![Trust Gaming GXT 707G Resto Sedia da PC ](https://m.media-amazon.com/images/I/41LGkwRBOuL._SL200_.jpg)](https://www.amazon.it/dp/B079FQJYHH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B079FQJYHH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

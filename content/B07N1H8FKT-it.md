@@ -22,6 +22,9 @@ Está [Clarks Sheer Rose  Scarpe con Tacco Donna  Multicolore  Leopard Print Leo
 
 [![Clarks Sheer Rose  Scarpe con Tacco Donn](https://m.media-amazon.com/images/I/41lY9Rhz8wL._SL200_.jpg)](https://www.amazon.it/dp/B07N1H8FKT/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07N1H8FKT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

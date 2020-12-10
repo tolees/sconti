@@ -22,6 +22,9 @@ Tienes [MINI Proiettore AUN W18C Proiettore Portatile Per Smartphone  Supporto 2
 
 [![MINI Proiettore AUN W18C Proiettore Port](https://m.media-amazon.com/images/I/319SZInaM5L._SL200_.jpg)](https://www.amazon.it/dp/B08HV7B9TV/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08HV7B9TV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

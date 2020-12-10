@@ -22,6 +22,9 @@ Tienes [SanDisk Extreme micro SDSQXA1-128G-GN6AA per Action Camera e Droni + Ada
 
 [![SanDisk Extreme micro SDSQXA1-128G-GN6AA](https://m.media-amazon.com/images/I/41pU+q9xbDL._SL200_.jpg)](https://www.amazon.it/dp/B07HBB5YQR/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07HBB5YQR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

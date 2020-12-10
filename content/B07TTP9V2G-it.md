@@ -22,6 +22,9 @@ Tienes [Kipling KiplingTopsDonnaPortafogliNero  Charcoal  7.5x10x2.5 Centimeters
 
 [![Kipling KiplingTopsDonnaPortafogliNero  ](https://m.media-amazon.com/images/I/51WwwZ0xQOL._SL200_.jpg)](https://www.amazon.it/dp/B07TTP9V2G/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TTP9V2G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

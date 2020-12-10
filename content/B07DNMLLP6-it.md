@@ -22,6 +22,9 @@ Está [Angel Wing ciondolo collana Swarovski zircone gioielli per donne ragazze 
 
 [![Angel Wing ciondolo collana Swarovski zi](https://m.media-amazon.com/images/I/41hWN366zwL._SL200_.jpg)](https://www.amazon.it/dp/B07DNMLLP6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07DNMLLP6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

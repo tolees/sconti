@@ -22,6 +22,9 @@ Tienes [Starbucks CAFFÈ VERONA Caffè macinato dalla tostatura forte 6 sacchett
 
 [![Starbucks CAFFÈ VERONA Caffè macinato da](https://m.media-amazon.com/images/I/51dUtSTuEnL._SL200_.jpg)](https://www.amazon.it/dp/B07X63KLL5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07X63KLL5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

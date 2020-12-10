@@ -22,6 +22,9 @@ Tienes [Kenwood KMX750WH Impastatrice Planetaria Kitchen Machine kMix  Robot da 
 
 [![Kenwood KMX750WH Impastatrice Planetaria](https://m.media-amazon.com/images/I/31l+FPg5SWL._SL200_.jpg)](https://www.amazon.it/dp/B06W5KYR22/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06W5KYR22/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

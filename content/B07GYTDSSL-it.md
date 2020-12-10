@@ -22,6 +22,9 @@ Está [Landove Donna A spalle Ruffle allentato Batwing Mantello Jumper orlo asim
 
 [![Landove Donna A spalle Ruffle allentato ](https://m.media-amazon.com/images/I/31xqVSmH1jL._SL200_.jpg)](https://www.amazon.it/dp/B07GYTDSSL/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07GYTDSSL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

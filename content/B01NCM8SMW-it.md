@@ -22,6 +22,9 @@ Tienes [Omino Bianco - Idrocaps White Sbianca E Smacchia  Ultra Efficace  12 Cap
 
 [![Omino Bianco - Idrocaps White Sbianca E ](https://m.media-amazon.com/images/I/51T772p4ftL._SL200_.jpg)](https://www.amazon.it/dp/B01NCM8SMW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01NCM8SMW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

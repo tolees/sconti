@@ -22,6 +22,9 @@ Tienes [Capsule Lavazza A Modo Mio Espresso Intenso - Confezione da 36 capsule](
 
 [![Capsule Lavazza A Modo Mio Espresso Inte](https://m.media-amazon.com/images/I/51NGVyUUHkL._SL200_.jpg)](https://www.amazon.it/dp/B00DKXSCPE/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00DKXSCPE/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Boss Identity T-Shirt RN  Blu  Dark Blue 403   Medium Uomo](https://www.
 
 [![Boss Identity T-Shirt RN  Blu  Dark Blue](https://m.media-amazon.com/images/I/41Mon3sndML._SL200_.jpg)](https://www.amazon.it/dp/B07V1J82XS/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07V1J82XS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

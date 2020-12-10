@@ -22,6 +22,9 @@ Está [Reebok Club C 85  Sneaker Uomo  Bianco  Int/White/Navy   44.5 EU](https:/
 
 [![Reebok Club C 85  Sneaker Uomo  Bianco  ](https://m.media-amazon.com/images/I/41mzJstHMmL._SL200_.jpg)](https://www.amazon.it/dp/B01MXWA54F/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01MXWA54F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

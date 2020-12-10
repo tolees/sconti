@@ -22,6 +22,9 @@ Tienes [GPC Image Cartucce Toner Compatibili per HP CF244A 44A Con Chip per HP L
 
 [![GPC Image Cartucce Toner Compatibili per](https://m.media-amazon.com/images/I/51GPl75DdAL._SL200_.jpg)](https://www.amazon.it/dp/B07D5QDZTY/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07D5QDZTY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

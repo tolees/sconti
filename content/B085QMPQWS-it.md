@@ -22,6 +22,9 @@ Está [Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV: Netflix  Youtube 
 
 [![Hitachi TV LED 32" 80 01 cm Full HD con ](https://m.media-amazon.com/images/I/51IX16+ZvRL._SL200_.jpg)](https://www.amazon.it/dp/B085QMPQWS/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B085QMPQWS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

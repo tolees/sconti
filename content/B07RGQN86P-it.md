@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Logo Trim Quilted Jct W Giacca  Verde  Green Mrv   36  Ta
 
 [![Tommy Hilfiger Logo Trim Quilted Jct W G](https://m.media-amazon.com/images/I/41v8dSIp3QL._SL200_.jpg)](https://www.amazon.it/dp/B07RGQN86P/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RGQN86P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

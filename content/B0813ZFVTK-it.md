@@ -22,6 +22,9 @@ Tienes [adidas Superstar C  Scarpe da Ginnastica Unisex-Bambini  Ftwr White/Core
 
 [![adidas Superstar C  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/41Fd+9U-MqL._SL200_.jpg)](https://www.amazon.it/dp/B0813ZFVTK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0813ZFVTK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

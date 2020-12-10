@@ -22,6 +22,9 @@ Está [Lacoste Pj2909 Polo  Viola  Corsaire 68t   12 anni  Taglia Produttore: 12
 
 [![Lacoste Pj2909 Polo  Viola  Corsaire 68t](https://m.media-amazon.com/images/I/31YVIimMqxL._SL200_.jpg)](https://www.amazon.it/dp/B07TJXNR9P/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TJXNR9P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Tropical Print Maglietta  Blu  Faded Indigo  
 
 [![Tommy Hilfiger Tropical Print Maglietta ](https://m.media-amazon.com/images/I/51LAJKndiHL._SL200_.jpg)](https://www.amazon.it/dp/B07W91YJTJ/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07W91YJTJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

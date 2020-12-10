@@ -22,6 +22,9 @@ Está [Philips Ferri a vapore Ferro da stiro con caldaia PerfectCare Aqua PRO  T
 
 [![Philips Ferri a vapore Ferro da stiro co](https://m.media-amazon.com/images/I/41hgDzVBbPL._SL200_.jpg)](https://www.amazon.it/dp/B01H54SAOQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01H54SAOQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

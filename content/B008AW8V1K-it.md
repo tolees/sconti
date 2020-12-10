@@ -22,6 +22,9 @@ Ahora mismo tienes [Lacoste Sport L1230 Polo Sport Ultraleggera  Nero  Black 031
 
 [![Lacoste Sport L1230 Polo Sport Ultralegg](https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg)](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

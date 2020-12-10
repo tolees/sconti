@@ -22,6 +22,9 @@ Tienes [adidas Tight T  Maglietta Donna  Nero  Black/White   40](https://www.ama
 
 [![adidas Tight T  Maglietta Donna  Nero  B](https://m.media-amazon.com/images/I/31tNFSLzu-L._SL200_.jpg)](https://www.amazon.it/dp/B081TTQ39T/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B081TTQ39T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

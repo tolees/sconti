@@ -22,6 +22,9 @@ Ahora mismo tienes [TANSUNG Coltello da Cucina  Coltello da Chef e Cuoco  Lama 1
 
 [![TANSUNG Coltello da Cucina  Coltello da ](https://m.media-amazon.com/images/I/51GZIUaTvSL._SL200_.jpg)](https://www.amazon.it/dp/B08FMHMQTM/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08FMHMQTM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

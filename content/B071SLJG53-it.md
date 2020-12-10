@@ -22,6 +22,9 @@ Está [New Balance Pc574v1 Sneaker Unisex - Bambini  Nero  Black/grey   29 EU  1
 
 [![New Balance Pc574v1 Sneaker Unisex - Bam](https://m.media-amazon.com/images/I/41Iz28xxaUL._SL200_.jpg)](https://www.amazon.it/dp/B071SLJG53/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B071SLJG53/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

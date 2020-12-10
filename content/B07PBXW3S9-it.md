@@ -22,6 +22,9 @@ Está [Philips BHC010/10 DryCare EssentialCare Asciugacapelli Compatto  Potenza 
 
 [![Philips BHC010/10 DryCare EssentialCare ](https://m.media-amazon.com/images/I/31cYrCeMjJL._SL200_.jpg)](https://www.amazon.it/dp/B07PBXW3S9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07PBXW3S9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

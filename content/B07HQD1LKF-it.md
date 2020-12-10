@@ -22,6 +22,9 @@ Ahora mismo tienes [LIGHTAILING Set di Luci per  Architecture Buckingham Palace 
 
 [![LIGHTAILING Set di Luci per  Architectur](https://m.media-amazon.com/images/I/416Psm0SamL._SL200_.jpg)](https://www.amazon.it/dp/B07HQD1LKF/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07HQD1LKF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

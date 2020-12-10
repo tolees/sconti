@@ -22,6 +22,9 @@ Está [Claber 87321 Inter. IRR. TURBINA 670 mq 90478  Nero/Arancione/Grigio  90x
 
 [![Claber 87321 Inter. IRR. TURBINA 670 mq ](https://m.media-amazon.com/images/I/41HdGhS3FwL._SL200_.jpg)](https://www.amazon.it/dp/B007VDIZTW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B007VDIZTW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

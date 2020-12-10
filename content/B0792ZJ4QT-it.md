@@ -22,6 +22,9 @@ Está [Aicok Spremiagrumi Elettrico Professionale 100W Spremiagrumi in Acciaio I
 
 [![Aicok Spremiagrumi Elettrico Professiona](https://m.media-amazon.com/images/I/41GlOOj5DFL._SL200_.jpg)](https://www.amazon.it/dp/B0792ZJ4QT/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0792ZJ4QT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

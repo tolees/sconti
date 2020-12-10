@@ -22,6 +22,9 @@ Está [Calvin Klein  Down Town  Eau de Parfum da donna  50 ml](https://www.amazo
 
 [![Calvin Klein  Down Town  Eau de Parfum d](https://m.media-amazon.com/images/I/51-n4XqxH9L._SL200_.jpg)](https://www.amazon.it/dp/B00EQ52LXE/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00EQ52LXE/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

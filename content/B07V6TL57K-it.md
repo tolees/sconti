@@ -22,6 +22,9 @@ Está [Tommy Jeans Essential  Scarpe da Ginnastica Basse Uomo  Blu  Twilight Nav
 
 [![Tommy Jeans Essential  Scarpe da Ginnast](https://m.media-amazon.com/images/I/31DPOZNcULL._SL200_.jpg)](https://www.amazon.it/dp/B07V6TL57K/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07V6TL57K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

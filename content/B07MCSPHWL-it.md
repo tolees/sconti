@@ -22,6 +22,9 @@ Está [Napapijri Rainforest Pocket Giacca Uomo  100% Poliammide  Verde  Green Fo
 
 [![Napapijri Rainforest Pocket Giacca Uomo ](https://m.media-amazon.com/images/I/318DmmNCywL._SL200_.jpg)](https://www.amazon.it/dp/B07MCSPHWL/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07MCSPHWL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

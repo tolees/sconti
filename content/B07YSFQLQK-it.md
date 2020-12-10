@@ -22,6 +22,9 @@ Está [De Cecco Pasta Integrale Fusilli - 500 g](https://www.amazon.it/dp/B07YSF
 
 [![De Cecco Pasta Integrale Fusilli - 500 g](https://m.media-amazon.com/images/I/51JvkCth4hL._SL200_.jpg)](https://www.amazon.it/dp/B07YSFQLQK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07YSFQLQK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

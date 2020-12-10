@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta  Nero  Flag Black 08
 
 [![Tommy Hilfiger Core Stretch Slim Vneck T](https://m.media-amazon.com/images/I/31yAywjUdOL._SL200_.jpg)](https://www.amazon.it/dp/B076Q99RLK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B076Q99RLK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

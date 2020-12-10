@@ -22,6 +22,9 @@ Está [Tommy Hilfiger John Cargo Short Light Twill Jeans Relaxed  Blu  Faded Ind
 
 [![Tommy Hilfiger John Cargo Short Light Tw](https://m.media-amazon.com/images/I/41KI7+i2ZwL._SL200_.jpg)](https://www.amazon.it/dp/B07WC45Q6F/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07WC45Q6F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [YUES Controller Wireless per Nintendo Switch Pro/Lite  Gamepad con Doppio
 
 [![YUES Controller Wireless per Nintendo Sw](https://m.media-amazon.com/images/I/415oIh6x89L._SL200_.jpg)](https://www.amazon.it/dp/B08FHSSV53/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08FHSSV53/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

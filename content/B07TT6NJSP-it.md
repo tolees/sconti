@@ -22,6 +22,9 @@ Está [Levi s 721 High Rise Skinny Jeans  Hyper Soft T2 Sepia Rose 0271  25W / 3
 
 [![Levi s 721 High Rise Skinny Jeans  Hyper](https://m.media-amazon.com/images/I/31z9tKXRL1L._SL200_.jpg)](https://www.amazon.it/dp/B07TT6NJSP/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TT6NJSP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

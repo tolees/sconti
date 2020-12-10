@@ -22,6 +22,9 @@ Ahora mismo tienes [Tastiera meccanica da gioco a basso profilo  ultra sottile  
 
 [![Tastiera meccanica da gioco a basso prof](https://m.media-amazon.com/images/I/518NsisctvL._SL200_.jpg)](https://www.amazon.it/dp/B089ZWKMJL/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B089ZWKMJL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [1Mii Ricevitore Bluetooth 5.0  Adattatore Audio Bluetooth Hi
 
 [![1Mii Ricevitore Bluetooth 5.0  Adattator](https://m.media-amazon.com/images/I/51uZnGmgiRL._SL200_.jpg)](https://www.amazon.it/dp/B081Q7FKD1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B081Q7FKD1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

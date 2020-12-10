@@ -22,6 +22,9 @@ Está [Hurley M Phtm Vagabond Elite  Cappelli Uomo  Dk Smoke Grey  L/XL](https:/
 
 [![Hurley M Phtm Vagabond Elite  Cappelli U](https://m.media-amazon.com/images/I/31fdXz--EaL._SL200_.jpg)](https://www.amazon.it/dp/B07ZPRX3KX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZPRX3KX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

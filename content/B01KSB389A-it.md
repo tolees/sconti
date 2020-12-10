@@ -22,6 +22,9 @@ Tienes [Samsung MG23K3515AW Forno Microonde Grill Combinato  23 Litri  800 W  Gr
 
 [![Samsung MG23K3515AW Forno Microonde Gril](https://m.media-amazon.com/images/I/318VZkYZ4QL._SL200_.jpg)](https://www.amazon.it/dp/B01KSB389A/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01KSB389A/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

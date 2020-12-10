@@ -22,6 +22,9 @@ Ahora mismo tienes [Unique Party 55856 - Palloncino Gigante - Numero 6 - 86cm - 
 
 [![Unique Party 55856 - Palloncino Gigante ](https://m.media-amazon.com/images/I/41aOTAJepUL._SL200_.jpg)](https://www.amazon.it/dp/B072XT6Y8G/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B072XT6Y8G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

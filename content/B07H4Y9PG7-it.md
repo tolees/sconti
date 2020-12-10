@@ -22,6 +22,9 @@ Tienes [HUAWEI Watch GT Smartwatch  Touchscreen 1.39"  Bluetooth 4.2  Autonomia 
 
 [![HUAWEI Watch GT Smartwatch  Touchscreen ](https://m.media-amazon.com/images/I/51NmLjdi0hL._SL200_.jpg)](https://www.amazon.it/dp/B07H4Y9PG7/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07H4Y9PG7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

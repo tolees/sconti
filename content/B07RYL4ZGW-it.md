@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 373 Core  Sneaker Uomo  Rosso  Red/White Cd2 ](h
 
 [![New Balance 373 Core  Sneaker Uomo  Ross](https://m.media-amazon.com/images/I/31NVAQaF4UL._SL200_.jpg)](https://www.amazon.it/dp/B07RYL4ZGW/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07RYL4ZGW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

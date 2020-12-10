@@ -22,6 +22,9 @@ Ahora mismo tienes [HERSITY Cucina Giocattolo per Bambini Piano Cottura con Luci
 
 [![HERSITY Cucina Giocattolo per Bambini Pi](https://m.media-amazon.com/images/I/51vCrW3K5FL._SL200_.jpg)](https://www.amazon.it/dp/B0851DWXQY/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0851DWXQY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

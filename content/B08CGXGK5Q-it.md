@@ -22,6 +22,9 @@ Está [Auricolari Bluetooth 5.0 Senza Fili  Wireless Sportivi in Ear Cuffie con 
 
 [![Auricolari Bluetooth 5.0 Senza Fili  Wir](https://m.media-amazon.com/images/I/41uv-V2BRLL._SL200_.jpg)](https://www.amazon.it/dp/B08CGXGK5Q/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CGXGK5Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

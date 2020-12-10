@@ -22,6 +22,9 @@ Tienes [CAVO AV COMPOSITO VIDEO AUDIO 1 8MT RCA PER Nintendo Wii](https://www.am
 
 [![CAVO AV COMPOSITO VIDEO AUDIO 1 8MT RCA ](https://m.media-amazon.com/images/I/41gjM0LUMAL._SL200_.jpg)](https://www.amazon.it/dp/B00F34SPD2/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00F34SPD2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

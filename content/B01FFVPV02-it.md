@@ -22,6 +22,9 @@ Tienes [Garnier Ultra Dolce Olio d Argan e di Camelia Bagnodoccia Satinante Pell
 
 [![Garnier Ultra Dolce Olio d Argan e di Ca](https://m.media-amazon.com/images/I/41+O6BQ18KL._SL200_.jpg)](https://www.amazon.it/dp/B01FFVPV02/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01FFVPV02/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

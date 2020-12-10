@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmava Plain SS Top Ga Noos T-Shirt  Grigio  Asphalt Asphalt   
 
 [![Vero Moda Vmava Plain SS Top Ga Noos T-S](https://m.media-amazon.com/images/I/41igbEO33NL._SL200_.jpg)](https://www.amazon.it/dp/B075R9M3BK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B075R9M3BK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

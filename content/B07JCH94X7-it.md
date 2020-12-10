@@ -22,6 +22,9 @@ Tienes [Cesar Scelta dello Chef Cibo per Cane  Pollo alla Griglia con Riso Integ
 
 [![Cesar Scelta dello Chef Cibo per Cane  P](https://m.media-amazon.com/images/I/41W4BQu6fML._SL200_.jpg)](https://www.amazon.it/dp/B07JCH94X7/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07JCH94X7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

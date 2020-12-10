@@ -22,6 +22,9 @@ Está [Crocs Classic  Sabot Unisex Adulto  Grigio  Slate Grey   43/44 EU](https:
 
 [![Crocs Classic  Sabot Unisex Adulto  Grig](https://m.media-amazon.com/images/I/414Lv6fizKL._SL200_.jpg)](https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

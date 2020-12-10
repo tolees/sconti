@@ -22,6 +22,9 @@ Tienes [Gillette Fusion5 ProGlide Lamette di Ricambio per Rasoio da Uomo con Tec
 
 [![Gillette Fusion5 ProGlide Lamette di Ric](https://m.media-amazon.com/images/I/51QEl1ZlYGL._SL200_.jpg)](https://www.amazon.it/dp/B079X62CKW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B079X62CKW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

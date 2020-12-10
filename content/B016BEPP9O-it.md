@@ -22,6 +22,9 @@ Está [Kingston DataTraveler 100 G3-DT100G3/128GB USB 3.0  PenDrive  128 GB  1 P
 
 [![Kingston DataTraveler 100 G3-DT100G3/128](https://m.media-amazon.com/images/I/41PoyJs-n0L._SL200_.jpg)](https://www.amazon.it/dp/B016BEPP9O/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B016BEPP9O/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

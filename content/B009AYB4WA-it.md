@@ -22,6 +22,9 @@ Está [Enerzona Enervit  Integratore Alimentare per il Controllo del Colesterolo
 
 [![Enerzona Enervit  Integratore Alimentare](https://m.media-amazon.com/images/I/41ssgKOoz+L._SL200_.jpg)](https://www.amazon.it/dp/B009AYB4WA/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B009AYB4WA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

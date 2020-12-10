@@ -22,6 +22,9 @@ Ahora mismo tienes [Entweg Termometro Frontale Termometro Digitale Portatile a i
 
 [![Entweg Termometro Frontale Termometro Di](https://m.media-amazon.com/images/I/31ZnMxQlMhL._SL200_.jpg)](https://www.amazon.it/dp/B08HRPL3ZV/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08HRPL3ZV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

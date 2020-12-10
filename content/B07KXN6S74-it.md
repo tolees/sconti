@@ -22,6 +22,16 @@ Tienes [Xiaomi Mi Kit di Sicurezza  Automazione Domotica Casa  Smart Home  Versi
 
 [![Xiaomi Mi Kit di Sicurezza  Automazione ](https://m.media-amazon.com/images/I/31mvxlRzUkL._SL200_.jpg)](https://www.amazon.it/dp/B07KXN6S74/?tag=tolees00-21)
 
+Características principales:
+
+- Temperatura di funzionamento: -5°C - +40°C
+- Mi Control Hub: centro di controllo della tua casa smart
+- Campanello di allarme per porte e finestre
+- Mini telecomando di controlli degli oggetti collegati
+- Compatibile con sistemi e dispositivi Mi Home
+- Rileva i movimenti umani e degli animali
+- Installazione semplice
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KXN6S74/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

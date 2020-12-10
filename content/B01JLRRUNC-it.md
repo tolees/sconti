@@ -22,6 +22,9 @@ Está [Hotpoint AQ97D 49D IT  Lavatrice a Carica Frontale  9 kg  A+++-40%  1400 
 
 [![Hotpoint AQ97D 49D IT  Lavatrice a Caric](https://m.media-amazon.com/images/I/41a1yO8ehwL._SL200_.jpg)](https://www.amazon.it/dp/B01JLRRUNC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01JLRRUNC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

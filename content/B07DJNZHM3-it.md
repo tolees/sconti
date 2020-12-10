@@ -22,6 +22,9 @@ Está [Nivea Men Dry Impact Plus  Deodorante Extra Protezione  50 ml  Confezione
 
 [![Nivea Men Dry Impact Plus  Deodorante Ex](https://m.media-amazon.com/images/I/41+VnSRtGlL._SL200_.jpg)](https://www.amazon.it/dp/B07DJNZHM3/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07DJNZHM3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Olimpia Splendid 01914 Dolceclima Compact 9 P Climatizzatore
 
 [![Olimpia Splendid 01914 Dolceclima Compac](https://m.media-amazon.com/images/I/31H07lQ7iZL._SL200_.jpg)](https://www.amazon.it/dp/B07NDRL37H/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07NDRL37H/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

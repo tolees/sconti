@@ -22,6 +22,9 @@ Ahora mismo tienes [Ciabatta Intelligente Multipresa Wifi 4 Prese AC 4 Porte USB
 
 [![Ciabatta Intelligente Multipresa Wifi 4 ](https://m.media-amazon.com/images/I/41SQ7qtakWL._SL200_.jpg)](https://www.amazon.it/dp/B07X1H3NWF/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07X1H3NWF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

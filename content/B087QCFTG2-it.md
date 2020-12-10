@@ -22,6 +22,9 @@ Ahora mismo tienes [Auricolari bluetooth Orit Cuffie Bluetooth 5.0 Senza Fili co
 
 [![Auricolari bluetooth Orit Cuffie Bluetoo](https://m.media-amazon.com/images/I/51iv0RgMHtL._SL200_.jpg)](https://www.amazon.it/dp/B087QCFTG2/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B087QCFTG2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

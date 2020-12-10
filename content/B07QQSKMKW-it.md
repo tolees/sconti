@@ -22,6 +22,9 @@ Está [TACKLIFE T8 Avviatore di Emergenza - 18000 mAh  800A Avviatore Auto Porta
 
 [![TACKLIFE T8 Avviatore di Emergenza - 180](https://m.media-amazon.com/images/I/41PXgjmM2SL._SL200_.jpg)](https://www.amazon.it/dp/B07QQSKMKW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07QQSKMKW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

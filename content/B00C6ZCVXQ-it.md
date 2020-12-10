@@ -22,6 +22,9 @@ Tienes [Apli 12115 Porta Porta Carte Polipropilene  Rosso  160 Carte x 12115](ht
 
 [![Apli 12115 Porta Porta Carte Polipropile](https://m.media-amazon.com/images/I/31ptnqAbmwL._SL200_.jpg)](https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

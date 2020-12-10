@@ -22,6 +22,9 @@ Tienes [Smartwatch  Orologio Fitness Tracker Uomo Donna Smart Watch Sonno Cardio
 
 [![Smartwatch  Orologio Fitness Tracker Uom](https://m.media-amazon.com/images/I/41Lt9PAwgkL._SL200_.jpg)](https://www.amazon.it/dp/B08535PMWM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08535PMWM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

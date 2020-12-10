@@ -22,6 +22,9 @@ Tienes [Samsung Galaxy A71 Smartphone  Display 6.7" Super AMOLED  4 Fotocamere P
 
 [![Samsung Galaxy A71 Smartphone  Display 6](https://m.media-amazon.com/images/I/41FSmPa4ElL._SL200_.jpg)](https://www.amazon.it/dp/B00JC8MD7Y/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00JC8MD7Y/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

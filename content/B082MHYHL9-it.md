@@ -22,6 +22,9 @@ Está [LIGHTAILING Set di Luci per  Creator Auto da Corsa  Modello da Costruire 
 
 [![LIGHTAILING Set di Luci per  Creator Aut](https://m.media-amazon.com/images/I/4185MgUA3OL._SL200_.jpg)](https://www.amazon.it/dp/B082MHYHL9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B082MHYHL9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Lee Wobbly Logo Tee T-Shirt  Blu  Navy Drop EE   Large Uomo](https://www
 
 [![Lee Wobbly Logo Tee T-Shirt  Blu  Navy D](https://m.media-amazon.com/images/I/4144WGYhg1L._SL200_.jpg)](https://www.amazon.it/dp/B07V13CHB1/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07V13CHB1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

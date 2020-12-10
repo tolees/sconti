@@ -22,6 +22,9 @@ Tienes [AUTO HIGH - Coprisedili Universali per Auto  Set Completo di Fodere per 
 
 [![AUTO HIGH - Coprisedili Universali per A](https://m.media-amazon.com/images/I/41wXaFYB3SL._SL200_.jpg)](https://www.amazon.it/dp/B07HB1B4T3/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07HB1B4T3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [NAPAPIJRI Elli Polo  Blu  Medieval Blue Bb61   Medium Uomo](https://www.a
 
 [![NAPAPIJRI Elli Polo  Blu  Medieval Blue ](https://m.media-amazon.com/images/I/41L1hOd4YvL._SL200_.jpg)](https://www.amazon.it/dp/B07V9QYRPR/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07V9QYRPR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

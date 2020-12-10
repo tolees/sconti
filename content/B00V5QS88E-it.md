@@ -22,6 +22,9 @@ Tienes [Umidificatore Ambiente Ultrasuoni TaoTronics  Purificatore d Aria  Grand
 
 [![Umidificatore Ambiente Ultrasuoni TaoTro](https://m.media-amazon.com/images/I/41mKc8C+iBL._SL200_.jpg)](https://www.amazon.it/dp/B00V5QS88E/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00V5QS88E/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Grand Court  Scarpe Sportive Mens  Bianco  Cloud Whit
 
 [![Adidas Grand Court  Scarpe Sportive Mens](https://m.media-amazon.com/images/I/31cmvMSzJTL._SL200_.jpg)](https://www.amazon.it/dp/B07KFKNR7C/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07KFKNR7C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Scrimmage 2.0 Sacco da Montagna  Unisex Adulto 
 
 [![Under Armour Scrimmage 2.0 Sacco da Mont](https://m.media-amazon.com/images/I/41KW0JU5JXL._SL200_.jpg)](https://www.amazon.it/dp/B07J3C7MKT/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07J3C7MKT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

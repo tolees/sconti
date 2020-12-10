@@ -22,6 +22,9 @@ Tienes [Oral-B Genius 8900 Spazzolini Elettrici Ricaricabili con Connessione Blu
 
 [![Oral-B Genius 8900 Spazzolini Elettrici ](https://m.media-amazon.com/images/I/51eh-5RTU4L._SL200_.jpg)](https://www.amazon.it/dp/B01EY8LKCK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01EY8LKCK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

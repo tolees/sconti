@@ -22,6 +22,9 @@ Está [Cuffie Wireless Bluetooth 5.0 Cancellazione Attiva del Rumore Srhythm NC7
 
 [![Cuffie Wireless Bluetooth 5.0 Cancellazi](https://m.media-amazon.com/images/I/41kUZ2OYIbL._SL200_.jpg)](https://www.amazon.it/dp/B07BQQDSSB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07BQQDSSB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

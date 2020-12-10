@@ -22,6 +22,9 @@ Ahora mismo tienes [Crocs Crocband Clogs  Ciabatte Unisex – Adulto  Blu  Navy 
 
 [![Crocs Crocband Clogs  Ciabatte Unisex – ](https://m.media-amazon.com/images/I/31BoZ-DftuL._SL200_.jpg)](https://www.amazon.it/dp/B002JCST0U/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B002JCST0U/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

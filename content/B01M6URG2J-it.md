@@ -22,6 +22,9 @@ Tienes [New Balance 373 Core   Trainers Uomo  Verde  Olive   44.5 EU](https://ww
 
 [![New Balance 373 Core   Trainers Uomo  Ve](https://m.media-amazon.com/images/I/41q+HyzNh1L._SL200_.jpg)](https://www.amazon.it/dp/B01M6URG2J/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01M6URG2J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

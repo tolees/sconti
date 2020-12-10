@@ -22,6 +22,9 @@ Está [Philips Sonicare HX6322/04 ForKids Spazzolino Elettrico per Bambini con T
 
 [![Philips Sonicare HX6322/04 ForKids Spazz](https://m.media-amazon.com/images/I/41cerL8EplL._SL200_.jpg)](https://www.amazon.it/dp/B01BSO6NZW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01BSO6NZW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Desigual Chaq whaii Giubbotto  Blu  Jeans Bleach 5058   44  Taglia Produt
 
 [![Desigual Chaq whaii Giubbotto  Blu  Jean](https://m.media-amazon.com/images/I/41nMAhjwMJL._SL200_.jpg)](https://www.amazon.it/dp/B07VCJCZZD/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VCJCZZD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

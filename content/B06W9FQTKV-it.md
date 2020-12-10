@@ -22,6 +22,9 @@ Tienes [Hoover LA 30 Traino senza Sacco Lander  Rosso/Nero](https://www.amazon.i
 
 [![Hoover LA 30 Traino senza Sacco Lander  ](https://m.media-amazon.com/images/I/31ag2zzhjML._SL200_.jpg)](https://www.amazon.it/dp/B06W9FQTKV/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06W9FQTKV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

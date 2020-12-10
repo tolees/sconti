@@ -22,6 +22,9 @@ Está [Sega a Gattuccio Brushless  POPOMAN 18V Sega Universale con LED  4000mAh 
 
 [![Sega a Gattuccio Brushless  POPOMAN 18V ](https://m.media-amazon.com/images/I/51V7qus8pEL._SL200_.jpg)](https://www.amazon.it/dp/B084D7JVV6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B084D7JVV6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

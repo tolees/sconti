@@ -22,6 +22,9 @@ Está [Panasonic NN-GD38HSSUG Forno a Microonde  1000 W  23 Litri  Nero  Banda F
 
 [![Panasonic NN-GD38HSSUG Forno a Microonde](https://m.media-amazon.com/images/I/31NDO10DbnL._SL200_.jpg)](https://www.amazon.it/dp/B074Y8VV6B/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B074Y8VV6B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

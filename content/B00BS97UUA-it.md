@@ -22,6 +22,9 @@ Está [Philips HD9240/90 Airfryer XL Friggitrice Low-Oil e Multicooker con Tecno
 
 [![Philips HD9240/90 Airfryer XL Friggitric](https://m.media-amazon.com/images/I/41v5au-aeFL._SL200_.jpg)](https://www.amazon.it/dp/B00BS97UUA/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00BS97UUA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

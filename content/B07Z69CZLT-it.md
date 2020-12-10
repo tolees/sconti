@@ -22,6 +22,9 @@ Está [Pennelli Trucco oro Rosa 18 Pezzi Pennelli Trucco Premium Set Viso e Occh
 
 [![Pennelli Trucco oro Rosa 18 Pezzi Pennel](https://m.media-amazon.com/images/I/51Dei3ld7rL._SL200_.jpg)](https://www.amazon.it/dp/B07Z69CZLT/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07Z69CZLT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [SALOMON Speedcross 4  Scarpe da Trail Running Uomo  Nero  Black/Black/Bla
 
 [![SALOMON Speedcross 4  Scarpe da Trail Ru](https://m.media-amazon.com/images/I/31jfeOwoYqL._SL200_.jpg)](https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

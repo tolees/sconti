@@ -22,6 +22,9 @@ Está [Aigoss Altoparlante Bluetooth Portatile Cassa Bluetooth 5 0 Senza Fili de
 
 [![Aigoss Altoparlante Bluetooth Portatile ](https://m.media-amazon.com/images/I/41aVkbZemvL._SL200_.jpg)](https://www.amazon.it/dp/B07WFM21SS/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07WFM21SS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,14 @@ Tienes [Ace Spray Mouse Candeggina con Ricarica  Cartone da 5 Confezioni 2 x 750
 
 [![Ace Spray Mouse Candeggina con Ricarica ](https://m.media-amazon.com/images/I/512ZfFYHxQL._SL200_.jpg)](https://www.amazon.it/dp/B08BVMGCG4/?tag=tolees00-21)
 
+Características principales:
+
+- Grazie al cloro igienizza, rimuovendo germi e batteri
+- Rimuove la muffa e sbianca le fughe tra le piastrelle
+- Ace Spray Mousse unisce il potere della candeggina Ace allefficacia dello sgrassatore con una mousse precisa che non schizza
+- Elimina anche le macchie ostinate del bucato bianco
+- Sgrassa le superfici della casa
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08BVMGCG4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

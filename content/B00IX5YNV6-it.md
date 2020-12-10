@@ -22,6 +22,9 @@ Ahora mismo tienes [Brother Cabldp1 Scan-N-Cut - Punta da Taglio per Taglio Stan
 
 [![Brother Cabldp1 Scan-N-Cut - Punta da Ta](https://m.media-amazon.com/images/I/51Xor1muGVL._SL200_.jpg)](https://www.amazon.it/dp/B00IX5YNV6/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00IX5YNV6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Cor
 
 [![adidas Sleek W  Scarpe da Ginnastica Don](https://m.media-amazon.com/images/I/31LHlTksKgL._SL200_.jpg)](https://www.amazon.it/dp/B0813WKF3P/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0813WKF3P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

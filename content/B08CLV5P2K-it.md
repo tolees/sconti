@@ -22,6 +22,9 @@ Tienes [Philips Cuffie Sovrauricolari On Ear H4105RD/00 con Microfono  Telecoman
 
 [![Philips Cuffie Sovrauricolari On Ear H41](https://m.media-amazon.com/images/I/31DSL6cnr+L._SL200_.jpg)](https://www.amazon.it/dp/B08CLV5P2K/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08CLV5P2K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

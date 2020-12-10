@@ -22,6 +22,9 @@ Está [Occhialini da Nuoto da Piscina  Anti-Appannamento Specchio Occhiali Nuoto
 
 [![Occhialini da Nuoto da Piscina  Anti-App](https://m.media-amazon.com/images/I/41GUrSGFfnL._SL200_.jpg)](https://www.amazon.it/dp/B07ZP2RDD7/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZP2RDD7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Superdry Classic Trunk Triple Pack Boxer  Arancione  Orange Multipack J6
 
 [![Superdry Classic Trunk Triple Pack Boxer](https://m.media-amazon.com/images/I/31LLdmP08DL._SL200_.jpg)](https://www.amazon.it/dp/B07V3Q8DH3/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07V3Q8DH3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

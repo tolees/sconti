@@ -22,6 +22,9 @@ Está [Seagate IronWolf  Unità SATA da 6 Gbit/s da 2 TB  HDD  CMR 3 5" 5.900 gi
 
 [![Seagate IronWolf  Unità SATA da 6 Gbit/s](https://m.media-amazon.com/images/I/41cQt5LLy3L._SL200_.jpg)](https://www.amazon.it/dp/B01LWVCZ6N/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01LWVCZ6N/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

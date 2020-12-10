@@ -22,6 +22,9 @@ Está [Wrangler Bomber Jacket  Beige  Sand 58N   Small Uomo](https://www.amazon.
 
 [![Wrangler Bomber Jacket  Beige  Sand 58N ](https://m.media-amazon.com/images/I/41LSlknn0EL._SL200_.jpg)](https://www.amazon.it/dp/B07TXXBSYK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TXXBSYK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

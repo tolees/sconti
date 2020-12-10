@@ -22,6 +22,9 @@ Está [Gillette Fusion5 ProGlide 1 Rasoio da Uomo + 5 Lamette  Pacchetto per Cas
 
 [![Gillette Fusion5 ProGlide 1 Rasoio da Uo](https://m.media-amazon.com/images/I/51NkWd6zsDL._SL200_.jpg)](https://www.amazon.it/dp/B07H3RRKW9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07H3RRKW9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

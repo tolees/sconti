@@ -22,6 +22,9 @@ Ahora mismo tienes [Controller per switch/switch Lite  controller wireless per N
 
 [![Controller per switch/switch Lite  contr](https://m.media-amazon.com/images/I/41FXux8T3EL._SL200_.jpg)](https://www.amazon.it/dp/B07Z6CNGF1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07Z6CNGF1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Lagostina Ingenio Essential Batteria di Pentole  10 Pezzi  Manico Amovib
 
 [![Lagostina Ingenio Essential Batteria di ](https://m.media-amazon.com/images/I/31rQhQ+O+7L._SL200_.jpg)](https://www.amazon.it/dp/B07ZVZ47WQ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07ZVZ47WQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

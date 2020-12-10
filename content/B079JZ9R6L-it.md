@@ -22,6 +22,9 @@ Está [Philips Serie 5000 EP5310/10 Macchina da Caffè Automatica con Macine in 
 
 [![Philips Serie 5000 EP5310/10 Macchina da](https://m.media-amazon.com/images/I/41Dr8qLmSgL._SL200_.jpg)](https://www.amazon.it/dp/B079JZ9R6L/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B079JZ9R6L/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

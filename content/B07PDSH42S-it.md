@@ -22,6 +22,9 @@ Está [AmazonBasics - Evidenziatori a forma piatta allungata  colori assortiti  
 
 [![AmazonBasics - Evidenziatori a forma pia](https://m.media-amazon.com/images/I/416H6fxGHpL._SL200_.jpg)](https://www.amazon.it/dp/B07PDSH42S/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07PDSH42S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

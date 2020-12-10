@@ -22,6 +22,9 @@ Ahora mismo tienes [Parker 1931664 IM Penna Roller  Punta Fine e Ricarica di Inc
 
 [![Parker 1931664 IM Penna Roller  Punta Fi](https://m.media-amazon.com/images/I/31N1j9wJjnL._SL200_.jpg)](https://www.amazon.it/dp/B01M0NES91/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01M0NES91/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

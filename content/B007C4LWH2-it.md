@@ -22,6 +22,9 @@ Está [Binary Domain](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21) con 
 
 [![Binary Domain](https://m.media-amazon.com/images/I/512gLX1KHOL._SL200_.jpg)](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

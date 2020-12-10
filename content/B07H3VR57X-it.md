@@ -22,6 +22,9 @@ Está [homcom Moto da Cross Elettrica con Rotelle Bambini 107 × 53 × 70cm Verd
 
 [![homcom Moto da Cross Elettrica con Rotel](https://m.media-amazon.com/images/I/51AixFUEsxL._SL200_.jpg)](https://www.amazon.it/dp/B07H3VR57X/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07H3VR57X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

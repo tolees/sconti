@@ -22,6 +22,9 @@ Está [Xiaomi Desk Lamp 1S  Lampada Smart a LED da Scrivania  4 Modalità di Luc
 
 [![Xiaomi Desk Lamp 1S  Lampada Smart a LED](https://m.media-amazon.com/images/I/21GUgKyplvL._SL200_.jpg)](https://www.amazon.it/dp/B07XHCDR3M/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07XHCDR3M/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

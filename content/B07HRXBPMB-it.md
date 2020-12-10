@@ -22,6 +22,9 @@ Está [Lenovo Tab E7 TB-7104F Tablet  Display 7" 1024 x 600 pixels  Processore Q
 
 [![Lenovo Tab E7 TB-7104F Tablet  Display 7](https://m.media-amazon.com/images/I/31Q5ZbRK9LL._SL200_.jpg)](https://www.amazon.it/dp/B07HRXBPMB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07HRXBPMB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

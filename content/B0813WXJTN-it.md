@@ -22,6 +22,9 @@ Tienes [adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore  Core Black/Cor
 
 [![adidas Lite Racer 2.0  Scarpe da Corsa U](https://m.media-amazon.com/images/I/41e3nI0W6AL._SL200_.jpg)](https://www.amazon.it/dp/B0813WXJTN/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0813WXJTN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

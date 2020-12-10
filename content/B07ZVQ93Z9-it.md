@@ -22,6 +22,9 @@ Está [Levi s Graphic Crewneck Tee T-Shirt  Ssnl Serif White  XXL Uomo](https://
 
 [![Levi s Graphic Crewneck Tee T-Shirt  Ssn](https://m.media-amazon.com/images/I/31qmMfJsYrL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVQ93Z9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZVQ93Z9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

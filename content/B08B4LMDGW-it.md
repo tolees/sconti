@@ -22,6 +22,9 @@ Tienes [HAYLOU LS02 Smartwatch Orologio Fitness Tracker Global Version 2 Schermo
 
 [![HAYLOU LS02 Smartwatch Orologio Fitness ](https://m.media-amazon.com/images/I/41mGxBpVZXL._SL200_.jpg)](https://www.amazon.it/dp/B08B4LMDGW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08B4LMDGW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

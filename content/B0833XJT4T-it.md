@@ -22,6 +22,9 @@ Tienes [Netac 32G Scheda Micro SD Set da 2  Scheda di Memoria A1  U1  C10  V10  
 
 [![Netac 32G Scheda Micro SD Set da 2  Sche](https://m.media-amazon.com/images/I/41UvqBB9kjL._SL200_.jpg)](https://www.amazon.it/dp/B0833XJT4T/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0833XJT4T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

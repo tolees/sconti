@@ -22,6 +22,9 @@ Ahora mismo tienes [PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Ne
 
 [![PUMA ST Runner v2 NL  Scarpe da Ginnasti](https://m.media-amazon.com/images/I/31iAbDOz1EL._SL200_.jpg)](https://www.amazon.it/dp/B077MPJSTT/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B077MPJSTT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

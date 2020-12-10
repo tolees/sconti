@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 574v2 Core  Scarpa da Tennis Donna  Bianco  Whit
 
 [![New Balance 574v2 Core  Scarpa da Tennis](https://m.media-amazon.com/images/I/41cGa5shehL._SL200_.jpg)](https://www.amazon.it/dp/B06XX596VF/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B06XX596VF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

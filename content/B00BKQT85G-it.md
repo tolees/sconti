@@ -22,6 +22,9 @@ Está [Daniel Wellington Analogico Quarzo Giapponese Orologio da Polso DW0010002
 
 [![Daniel Wellington Analogico Quarzo Giapp](https://m.media-amazon.com/images/I/41wmyjVQi1L._SL200_.jpg)](https://www.amazon.it/dp/B00BKQT85G/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00BKQT85G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

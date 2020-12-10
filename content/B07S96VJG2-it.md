@@ -22,6 +22,9 @@ Tienes [Control Chocolate  24 Profilattici al Cioccolato  Standard](https://www.
 
 [![Control Chocolate  24 Profilattici al Ci](https://m.media-amazon.com/images/I/417cZuX757L._SL200_.jpg)](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

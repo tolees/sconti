@@ -22,6 +22,9 @@ Está [Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Blu  Navy Canvas   4
 
 [![Timberland Union Wharf 2 Eye Oxford  Moc](https://m.media-amazon.com/images/I/41dP36QalyL._SL200_.jpg)](https://www.amazon.it/dp/B0779PQD5P/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0779PQD5P/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

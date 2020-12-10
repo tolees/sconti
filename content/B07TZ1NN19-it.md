@@ -22,6 +22,9 @@ Tienes [Kipling KiplingTotepackDonnaBorse a secchielloVerde  Fro Mint Light  57x
 
 [![Kipling KiplingTotepackDonnaBorse a secc](https://m.media-amazon.com/images/I/41EXrG83KEL._SL200_.jpg)](https://www.amazon.it/dp/B07TZ1NN19/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TZ1NN19/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

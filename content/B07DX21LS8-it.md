@@ -22,6 +22,9 @@ Tienes [Salewa  00-0000027165  Giacca  Uomo  Blu  Ombre Blue   46/S](https://www
 
 [![Salewa  00-0000027165  Giacca  Uomo  Blu](https://m.media-amazon.com/images/I/418dBChasEL._SL200_.jpg)](https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

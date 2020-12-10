@@ -22,6 +22,9 @@ Está [Mattel W2085 Uno - Gioco di Carte  Versione Standard](https://www.amazon.
 
 [![Mattel W2085 Uno - Gioco di Carte  Versi](https://m.media-amazon.com/images/I/51zEKZ3nJJL._SL200_.jpg)](https://www.amazon.it/dp/B00CTH0A1Q/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00CTH0A1Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

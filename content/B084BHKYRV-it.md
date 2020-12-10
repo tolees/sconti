@@ -22,6 +22,9 @@ Tienes [Levi s Housemark Graphic Tee T-Shirt  Ssnl HM Outline Python Green  L Uo
 
 [![Levi s Housemark Graphic Tee T-Shirt  Ss](https://m.media-amazon.com/images/I/41NAFNXI9qL._SL200_.jpg)](https://www.amazon.it/dp/B084BHKYRV/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B084BHKYRV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

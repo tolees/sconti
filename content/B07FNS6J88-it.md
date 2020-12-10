@@ -22,6 +22,9 @@ Ahora mismo tienes [LEGO Creator - Aereo da corsa  31094](https://www.amazon.it/
 
 [![LEGO Creator - Aereo da corsa  31094](https://m.media-amazon.com/images/I/51FI4qQCqHL._SL200_.jpg)](https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

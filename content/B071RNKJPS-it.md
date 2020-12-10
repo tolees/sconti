@@ -22,6 +22,9 @@ Ahora mismo tienes [Funko Pop! TV Il trono di spade  Game of Thrones  - Tyrion L
 
 [![Funko Pop! TV Il trono di spade  Game of](https://m.media-amazon.com/images/I/41TLzp6Of+L._SL200_.jpg)](https://www.amazon.it/dp/B071RNKJPS/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B071RNKJPS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

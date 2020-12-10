@@ -22,6 +22,9 @@ Ahora mismo tienes [VATOS Set di Costruzioni  568 Pezzi Castello da Principessa 
 
 [![VATOS Set di Costruzioni  568 Pezzi Cast](https://m.media-amazon.com/images/I/51BRw-kaolL._SL200_.jpg)](https://www.amazon.it/dp/B085ZFM4WT/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B085ZFM4WT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

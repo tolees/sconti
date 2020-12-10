@@ -22,6 +22,9 @@ Está [Paco Rabanne 1 Million Eau de Toilette  Uomo  50 ml](https://www.amazon.i
 
 [![Paco Rabanne 1 Million Eau de Toilette  ](https://m.media-amazon.com/images/I/413j-kDXbxL._SL500_._SL200_.jpg)](https://www.amazon.it/dp/B002LSTMB2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B002LSTMB2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

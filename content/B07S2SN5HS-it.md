@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   37 EU](http
 
 [![New Balance 997h  Sneaker Uomo  Rosso  R](https://m.media-amazon.com/images/I/41lV4mrOrhL._SL200_.jpg)](https://www.amazon.it/dp/B07S2SN5HS/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07S2SN5HS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

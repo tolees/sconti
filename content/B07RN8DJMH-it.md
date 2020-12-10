@@ -22,6 +22,9 @@ Tienes [Funko- Pop Holiday-Mayor Patty Noble Figura da Collezione  Multicolore  
 
 [![Funko- Pop Holiday-Mayor Patty Noble Fig](https://m.media-amazon.com/images/I/316TlXxSx1L._SL200_.jpg)](https://www.amazon.it/dp/B07RN8DJMH/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RN8DJMH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

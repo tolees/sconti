@@ -22,6 +22,9 @@ Tienes [Cover Xiaomi Mi Note 10 Lite 360 Gradi Full Body Antiurto Protezione Cas
 
 [![Cover Xiaomi Mi Note 10 Lite 360 Gradi F](https://m.media-amazon.com/images/I/51mzNkXv6wL._SL200_.jpg)](https://www.amazon.it/dp/B08D37JTSH/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08D37JTSH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

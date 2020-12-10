@@ -22,6 +22,9 @@ Está [XLTOK Cavo USB Type C  [3Pezzi  1m+1m+2m] Cavo tipo C di Ricarica Trasmis
 
 [![XLTOK Cavo USB Type C  [3Pezzi  1m+1m+2m](https://m.media-amazon.com/images/I/41quLeFtJVL._SL200_.jpg)](https://www.amazon.it/dp/B088CYKQCN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B088CYKQCN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

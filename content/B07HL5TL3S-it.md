@@ -22,6 +22,9 @@ Tienes [Skagen Orologio Digitale Uomo con Cinturino in Silicone SKT5100](https:/
 
 [![Skagen Orologio Digitale Uomo con Cintur](https://m.media-amazon.com/images/I/31NT0F+2BzL._SL200_.jpg)](https://www.amazon.it/dp/B07HL5TL3S/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07HL5TL3S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

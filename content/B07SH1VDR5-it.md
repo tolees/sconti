@@ -22,6 +22,9 @@ Está [Levi s Woodward L  Sneaker Uomo  Grigio  Regular Grey 55   43 EU](https:/
 
 [![Levi s Woodward L  Sneaker Uomo  Grigio ](https://m.media-amazon.com/images/I/41sHJJntytL._SL200_.jpg)](https://www.amazon.it/dp/B07SH1VDR5/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SH1VDR5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

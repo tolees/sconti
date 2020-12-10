@@ -22,6 +22,9 @@ Tienes [LK Pellicola Protettiva per Xiaomi Mi 10 Lite 5G Vetro Temperato  [3-Pez
 
 [![LK Pellicola Protettiva per Xiaomi Mi 10](https://m.media-amazon.com/images/I/51EGtUN2rZL._SL200_.jpg)](https://www.amazon.it/dp/B08FC7G3QM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08FC7G3QM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

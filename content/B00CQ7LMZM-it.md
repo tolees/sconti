@@ -22,6 +22,9 @@ Está [Optimum Nutrition Olio di Pesce con Capsule Omega 3  non Aromatizzato  10
 
 [![Optimum Nutrition Olio di Pesce con Caps](https://m.media-amazon.com/images/I/413oRD-2AOL._SL200_.jpg)](https://www.amazon.it/dp/B00CQ7LMZM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00CQ7LMZM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

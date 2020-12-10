@@ -22,6 +22,9 @@ Tienes [Boss Tee 4 T-Shirt  Blu  Navy 410   Small Uomo](https://www.amazon.it/dp
 
 [![Boss Tee 4 T-Shirt  Blu  Navy 410   Smal](https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg)](https://www.amazon.it/dp/B07V7D4XJW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07V7D4XJW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

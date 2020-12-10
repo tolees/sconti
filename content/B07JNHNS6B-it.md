@@ -22,6 +22,9 @@ Está [NIVEA Micellair Professional Acqua Micellare Bifase  per Trucco Waterproo
 
 [![NIVEA Micellair Professional Acqua Micel](https://m.media-amazon.com/images/I/41yhOBrOCQL._SL200_.jpg)](https://www.amazon.it/dp/B07JNHNS6B/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07JNHNS6B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

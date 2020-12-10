@@ -22,6 +22,9 @@ Tienes [Russell Hobbs Bicchiere in Vetro Frullatore Professionale Velocity PRO 2
 
 [![Russell Hobbs Bicchiere in Vetro Frullat](https://m.media-amazon.com/images/I/41IEQYtu0TL._SL200_.jpg)](https://www.amazon.it/dp/B07W6JK2FB/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07W6JK2FB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

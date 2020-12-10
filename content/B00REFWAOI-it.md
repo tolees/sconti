@@ -22,6 +22,9 @@ Tienes [Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  42 EU](https://
 
 [![Reebok Classic Leather  Scarpe da Ginnas](https://m.media-amazon.com/images/I/41uVy5qTHkL._SL200_.jpg)](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Jade Roller Rose Quarzo Viso Giada Roller Gua Sha massaggio strumento di 
 
 [![Jade Roller Rose Quarzo Viso Giada Rolle](https://m.media-amazon.com/images/I/51-cfEBPlWL._SL200_.jpg)](https://www.amazon.it/dp/B07JZ18X3Z/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07JZ18X3Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

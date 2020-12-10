@@ -22,6 +22,9 @@ Está [Braun 3-270 Silk-épil 3 Epilatore con Cavo e 3 Accessori  Rosa](https://
 
 [![Braun 3-270 Silk-épil 3 Epilatore con Ca](https://m.media-amazon.com/images/I/41TvOuQc-EL._SL200_.jpg)](https://www.amazon.it/dp/B006J1SA6A/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B006J1SA6A/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

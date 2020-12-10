@@ -22,6 +22,9 @@ Está [Western Digital WD My Book Hard Disk Desktop USB 3.0  Software di Backup 
 
 [![Western Digital WD My Book Hard Disk Des](https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg)](https://www.amazon.it/dp/B01LWVT81X/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01LWVT81X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

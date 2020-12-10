@@ -22,6 +22,9 @@ Ahora mismo tienes [Tristar Fr-6996 Crispy Fryer XXL  1500 W  5.2 Litri  18/8 St
 
 [![Tristar Fr-6996 Crispy Fryer XXL  1500 W](https://m.media-amazon.com/images/I/41b5zoFIRjL._SL200_.jpg)](https://www.amazon.it/dp/B0741DWT2H/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0741DWT2H/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

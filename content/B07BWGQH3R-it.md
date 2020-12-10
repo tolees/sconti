@@ -22,6 +22,9 @@ Está [Willful Smartwatch Orologio Fitness Uomo Donna Fitness Tracker Cardiofreq
 
 [![Willful Smartwatch Orologio Fitness Uomo](https://m.media-amazon.com/images/I/41F6aLYEkbL._SL200_.jpg)](https://www.amazon.it/dp/B07BWGQH3R/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07BWGQH3R/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Tablet Bambini 9.0 Pollici con Wifi Offerte Android 9.0 Cert
 
 [![Tablet Bambini 9.0 Pollici con Wifi Offe](https://m.media-amazon.com/images/I/51PTa9Vo8ZL._SL200_.jpg)](https://www.amazon.it/dp/B08CKK4WG2/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08CKK4WG2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

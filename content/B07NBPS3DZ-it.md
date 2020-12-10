@@ -22,6 +22,9 @@ Está [adidas Adilette Shower  Scarpe da Ginnastica Uomo  Blu  True Blue/Ftwr Wh
 
 [![adidas Adilette Shower  Scarpe da Ginnas](https://m.media-amazon.com/images/I/41yotsvfkEL._SL200_.jpg)](https://www.amazon.it/dp/B07NBPS3DZ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07NBPS3DZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

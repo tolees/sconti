@@ -22,6 +22,9 @@ Está [Samsung WW10N64MRQW Lavatrice 10 kg AddWash  1400 rpm  Bianco](https://ww
 
 [![Samsung WW10N64MRQW Lavatrice 10 kg AddW](https://m.media-amazon.com/images/I/31dIhPZ8zIL._SL200_.jpg)](https://www.amazon.it/dp/B07LBL9RVG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07LBL9RVG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

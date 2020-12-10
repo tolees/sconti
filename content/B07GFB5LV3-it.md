@@ -22,6 +22,9 @@ Tienes [Canon Italia ZoeMini Stampante Portatile  314 dpi x 400 dpi  Rosa](https
 
 [![Canon Italia ZoeMini Stampante Portatile](https://m.media-amazon.com/images/I/31aANY+tDVL._SL200_.jpg)](https://www.amazon.it/dp/B07GFB5LV3/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07GFB5LV3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

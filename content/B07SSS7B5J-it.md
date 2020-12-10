@@ -22,6 +22,9 @@ Está [Geox D Hiver B  Sandali con Chiusura a T Donna  Marrone  Cognac C6001   3
 
 [![Geox D Hiver B  Sandali con Chiusura a T](https://m.media-amazon.com/images/I/41aRrFdDJ-L._SL200_.jpg)](https://www.amazon.it/dp/B07SSS7B5J/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SSS7B5J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

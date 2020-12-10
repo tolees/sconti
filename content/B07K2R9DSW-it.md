@@ -22,6 +22,9 @@ Tienes [adidas Continental 80  Scarpe da Ginnastica Uomo  Nero  Black G27707   3
 
 [![adidas Continental 80  Scarpe da Ginnast](https://m.media-amazon.com/images/I/31aR0HHDziL._SL200_.jpg)](https://www.amazon.it/dp/B07K2R9DSW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07K2R9DSW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Rowenta CV6030E0 Instant Dry Phon Asciugacapelli Diffusore per Capelli Sa
 
 [![Rowenta CV6030E0 Instant Dry Phon Asciug](https://m.media-amazon.com/images/I/41c7sczPstL._SL200_.jpg)](https://www.amazon.it/dp/B00EAAF1BO/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00EAAF1BO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Philips Lighting Robin Lampada da Parete LED Up con Sensore di movimento
 
 [![Philips Lighting Robin Lampada da Parete](https://m.media-amazon.com/images/I/41eXrG+STqL._SL200_.jpg)](https://www.amazon.it/dp/B00UEMF9TG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00UEMF9TG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

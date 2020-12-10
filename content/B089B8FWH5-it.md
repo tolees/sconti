@@ -22,6 +22,9 @@ Tienes [CARPISA® Borsa lavoro con doppi manici - Soya](https://www.amazon.it/dp
 
 [![CARPISA® Borsa lavoro con doppi manici -](https://m.media-amazon.com/images/I/31fpluvnrJL._SL200_.jpg)](https://www.amazon.it/dp/B089B8FWH5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B089B8FWH5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

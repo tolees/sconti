@@ -22,6 +22,9 @@ Tienes [Clarks Sheer Rose  Scarpe con Tacco Donna  Beige  Navy Suede Navy Suede 
 
 [![Clarks Sheer Rose  Scarpe con Tacco Donn](https://m.media-amazon.com/images/I/31NlvbX+PZL._SL200_.jpg)](https://www.amazon.it/dp/B07TPYPWT2/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TPYPWT2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

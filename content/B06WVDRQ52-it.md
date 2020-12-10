@@ -22,6 +22,9 @@ Está [Maximo Exercise Mat NBR Fitness Mat - Multi Purpose - 183 x 60 x 1.2 cent
 
 [![Maximo Exercise Mat NBR Fitness Mat - Mu](https://m.media-amazon.com/images/I/418h65W7IKL._SL200_.jpg)](https://www.amazon.it/dp/B06WVDRQ52/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B06WVDRQ52/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

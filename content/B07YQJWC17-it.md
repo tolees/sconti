@@ -22,6 +22,9 @@ Tienes [INPHIC Mouse Wireless Ricaricabile  Mouse Senza Fili Silenzioso 2 4G 160
 
 [![INPHIC Mouse Wireless Ricaricabile  Mous](https://m.media-amazon.com/images/I/4116D6ADLDL._SL200_.jpg)](https://www.amazon.it/dp/B07YQJWC17/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07YQJWC17/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Braun TS745A TexStyle 7  Ferro da Stiro a Vapore  Piastra in Eloxal  Colp
 
 [![Braun TS745A TexStyle 7  Ferro da Stiro ](https://m.media-amazon.com/images/I/41qRxYg3LZL._SL200_.jpg)](https://www.amazon.it/dp/B00EW49AVK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00EW49AVK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

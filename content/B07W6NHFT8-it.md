@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Slim F in Puro Cotone M Maglietta Polo  Grigio  Medium Gr
 
 [![Tommy Hilfiger Slim F in Puro Cotone M M](https://m.media-amazon.com/images/I/41JndGPqR3L._SL200_.jpg)](https://www.amazon.it/dp/B07W6NHFT8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07W6NHFT8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

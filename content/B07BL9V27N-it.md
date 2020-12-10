@@ -22,6 +22,9 @@ Está [FRANCK PROVOST Expert Protection Cura professionale 230°C 300 ml – Set
 
 [![FRANCK PROVOST Expert Protection Cura pr](https://m.media-amazon.com/images/I/51o4vJ4KFKL._SL200_.jpg)](https://www.amazon.it/dp/B07BL9V27N/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07BL9V27N/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

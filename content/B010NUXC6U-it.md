@@ -22,6 +22,9 @@ Está [Max Factor Mascara Volumizzante False Lash Effect  Velvet Volume  Effetto
 
 [![Max Factor Mascara Volumizzante False La](https://m.media-amazon.com/images/I/41k82YBELiL._SL200_.jpg)](https://www.amazon.it/dp/B010NUXC6U/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B010NUXC6U/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [adidas Stan Smith C  Scarpe da Ginnastica Basse Unisex-Bambini  Bianco  
 
 [![adidas Stan Smith C  Scarpe da Ginnastic](https://m.media-amazon.com/images/I/41BiFl2KYTL._SL200_.jpg)](https://www.amazon.it/dp/B01GUZJE2S/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01GUZJE2S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

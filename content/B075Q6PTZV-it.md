@@ -22,6 +22,9 @@ Tienes [Clarks Atticus Lace  Scarpe Stringate Derby Uomo  Blu  Navy Nubuck -   4
 
 [![Clarks Atticus Lace  Scarpe Stringate De](https://m.media-amazon.com/images/I/31C5Es4LrTL._SL200_.jpg)](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

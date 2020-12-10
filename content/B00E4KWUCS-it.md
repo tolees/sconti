@@ -22,6 +22,9 @@ Está [L Oréal Paris Dermo Expertise Soin  Revitalift Trattamento Rimagliante A
 
 [![L Oréal Paris Dermo Expertise Soin  Revi](https://m.media-amazon.com/images/I/51uF8R9SPkL._SL200_.jpg)](https://www.amazon.it/dp/B00E4KWUCS/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00E4KWUCS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

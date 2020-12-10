@@ -22,6 +22,9 @@ Está [Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control Plus Home  14
 
 [![Kärcher 1.324-633.0 Idropulitrice K 5 Pr](https://m.media-amazon.com/images/I/411lJMLLVpL._SL200_.jpg)](https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

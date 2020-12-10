@@ -22,6 +22,9 @@ Tienes [adidas Condivo 18 Jacket  Giacca Uomo  Blu  Blu Scuro/Azzurro/Bianco   L
 
 [![adidas Condivo 18 Jacket  Giacca Uomo  B](https://m.media-amazon.com/images/I/41VH4rmh-NL._SL200_.jpg)](https://www.amazon.it/dp/B076HPCY5F/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B076HPCY5F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

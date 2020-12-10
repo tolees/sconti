@@ -22,6 +22,9 @@ Está [THE PROTEIN WORKS Proteine Whey 80  Concentrate  In Polvere | 82% Di Prot
 
 [![THE PROTEIN WORKS Proteine Whey 80  Conc](https://m.media-amazon.com/images/I/41owmBuJhPL._SL200_.jpg)](https://www.amazon.it/dp/B00G2A5F9S/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00G2A5F9S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

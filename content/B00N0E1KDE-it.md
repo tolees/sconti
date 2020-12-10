@@ -22,6 +22,9 @@ Está [Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0  Micro Quattro Terzi  per
 
 [![Olympus M.Zuiko Digital ED Obiettivo 12m](https://m.media-amazon.com/images/I/41geBB9NrcL._SL200_.jpg)](https://www.amazon.it/dp/B00N0E1KDE/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00N0E1KDE/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

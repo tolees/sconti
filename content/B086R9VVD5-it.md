@@ -22,6 +22,9 @@ Está [Tennent s Super Birra - Pacco da 24 x 355 ml](https://www.amazon.it/dp/B0
 
 [![Tennent s Super Birra - Pacco da 24 x 35](https://m.media-amazon.com/images/I/41YfbijpNzL._SL200_.jpg)](https://www.amazon.it/dp/B086R9VVD5/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B086R9VVD5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

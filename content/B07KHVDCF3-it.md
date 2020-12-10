@@ -22,6 +22,9 @@ Está [ALLPOWERS Caricabatterie Solare 24000mAh Solare Powerbank Batteria Estern
 
 [![ALLPOWERS Caricabatterie Solare 24000mAh](https://m.media-amazon.com/images/I/41eFMKlkMCL._SL200_.jpg)](https://www.amazon.it/dp/B07KHVDCF3/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07KHVDCF3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

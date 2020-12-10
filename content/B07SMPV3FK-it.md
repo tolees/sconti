@@ -22,6 +22,9 @@ Está [ASICS GT-1000 9  Scarpe da Corsa Uomo  Electric Blue/Black  42 EU](https:
 
 [![ASICS GT-1000 9  Scarpe da Corsa Uomo  E](https://m.media-amazon.com/images/I/412JlK9lQ+L._SL200_.jpg)](https://www.amazon.it/dp/B07SMPV3FK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SMPV3FK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

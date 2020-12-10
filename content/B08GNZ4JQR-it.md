@@ -22,6 +22,9 @@ Tienes [X-Dision [3 Pezzi Compatibile con Sony Xperia X Compact Proteggi Schermo
 
 [![X-Dision [3 Pezzi Compatibile con Sony X](https://m.media-amazon.com/images/I/41Z8PTTPwtL._SL200_.jpg)](https://www.amazon.it/dp/B08GNZ4JQR/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08GNZ4JQR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

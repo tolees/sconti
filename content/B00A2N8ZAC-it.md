@@ -22,6 +22,9 @@ Está [Keter Baule Rockwood Marrone 570 Lt In Resina Cm 155X72.4X64.4 H](https:/
 
 [![Keter Baule Rockwood Marrone 570 Lt In R](https://m.media-amazon.com/images/I/41vdUz20EeL._SL200_.jpg)](https://www.amazon.it/dp/B00A2N8ZAC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00A2N8ZAC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [DERCLIVE Dispenser di Sapone da 350 Ml Contenitori Automatic
 
 [![DERCLIVE Dispenser di Sapone da 350 Ml C](https://m.media-amazon.com/images/I/41vP2OJSj3L._SL200_.jpg)](https://www.amazon.it/dp/B083PPNBRX/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B083PPNBRX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

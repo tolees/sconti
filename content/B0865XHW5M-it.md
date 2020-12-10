@@ -22,6 +22,9 @@ Tienes [MMCRRX M.2 Nvme SSD Ultraspeed Adapter Pcie](https://www.amazon.it/dp/B0
 
 [![MMCRRX M.2 Nvme SSD Ultraspeed Adapter P](https://m.media-amazon.com/images/I/51RKebfJsOL._SL200_.jpg)](https://www.amazon.it/dp/B0865XHW5M/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0865XHW5M/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

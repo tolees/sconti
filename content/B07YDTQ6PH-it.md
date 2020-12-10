@@ -22,6 +22,9 @@ Está [10.1“ pollici Tablet Android 8.1 Phablet Octa Core 4 GB RAM 64 GB ROM 3
 
 [![10.1“ pollici Tablet Android 8.1 Phablet](https://m.media-amazon.com/images/I/41TPL9gtEXL._SL200_.jpg)](https://www.amazon.it/dp/B07YDTQ6PH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07YDTQ6PH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

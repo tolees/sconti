@@ -22,6 +22,9 @@ Está [THE G-LAB Korp HELIUM - Auricolari In-ear di alta qualità con Microfono 
 
 [![THE G-LAB Korp HELIUM - Auricolari In-ea](https://m.media-amazon.com/images/I/41p7k+PYeJL._SL200_.jpg)](https://www.amazon.it/dp/B08425HJRB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08425HJRB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

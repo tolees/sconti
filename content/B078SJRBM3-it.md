@@ -22,6 +22,9 @@ Tienes [Santa Teresa 1796 Rum  Ambrato Scuro  700 ml](https://www.amazon.it/dp/B
 
 [![Santa Teresa 1796 Rum  Ambrato Scuro  70](https://m.media-amazon.com/images/I/41rP1peLO2L._SL200_.jpg)](https://www.amazon.it/dp/B078SJRBM3/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B078SJRBM3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

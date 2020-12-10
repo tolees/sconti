@@ -22,6 +22,9 @@ Está [Salomon Xa Pro 3D Gtx  Scarpe da Corsa Uomo  Nero  47 1/3 EU](https://www
 
 [![Salomon Xa Pro 3D Gtx  Scarpe da Corsa U](https://m.media-amazon.com/images/I/41T-RdeRjmL._SL200_.jpg)](https://www.amazon.it/dp/B01HD6RHTK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01HD6RHTK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

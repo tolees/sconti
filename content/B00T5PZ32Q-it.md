@@ -22,6 +22,9 @@ Está [Biorepair Collutorio Denti Sensibili 3 in1 -  500 ml](https://www.amazon.
 
 [![Biorepair Collutorio Denti Sensibili 3 i](https://m.media-amazon.com/images/I/41lJo8ra9AL._SL200_.jpg)](https://www.amazon.it/dp/B00T5PZ32Q/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00T5PZ32Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

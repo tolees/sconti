@@ -22,6 +22,9 @@ Está [Auricolare Bluetooth Touch  Cuffie Bluetooth 5.0  24h Playtime 3D stereo 
 
 [![Auricolare Bluetooth Touch  Cuffie Bluet](https://m.media-amazon.com/images/I/41cwwuDyJRL._SL200_.jpg)](https://www.amazon.it/dp/B08FBWQK5X/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08FBWQK5X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Clarks Step Welt Free  Scarpe da Ginnastica Uomo  Verde Kaki  39.5 EU](ht
 
 [![Clarks Step Welt Free  Scarpe da Ginnast](https://m.media-amazon.com/images/I/41znhCe54iL._SL200_.jpg)](https://www.amazon.it/dp/B07MC12VPX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07MC12VPX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

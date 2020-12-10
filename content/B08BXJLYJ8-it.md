@@ -22,6 +22,9 @@ Está [Lysoform On the Go Gel Detergente Igienizzante Mani  100 ml](https://www.
 
 [![Lysoform On the Go Gel Detergente Igieni](https://m.media-amazon.com/images/I/41hQ5JoIEjL._SL200_.jpg)](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

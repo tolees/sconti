@@ -22,6 +22,9 @@ Está [Birkenstock Arizona Birko-Flor  ciabatte unisex per adulti  nere  nere   
 
 [![Birkenstock Arizona Birko-Flor  ciabatte](https://m.media-amazon.com/images/I/31EnT2RdE2L._SL200_.jpg)](https://www.amazon.it/dp/B000QE1DME/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B000QE1DME/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

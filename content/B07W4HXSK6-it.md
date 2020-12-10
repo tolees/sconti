@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Basic Embroidered Hoody Felpa  Verde  Faded O
 
 [![Tommy Hilfiger Basic Embroidered Hoody F](https://m.media-amazon.com/images/I/41fJQ0XICeL._SL200_.jpg)](https://www.amazon.it/dp/B07W4HXSK6/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07W4HXSK6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

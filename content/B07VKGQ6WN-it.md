@@ -22,6 +22,9 @@ Está [Carioca Roller Birello | Astuccio Giallo con Pennarelli Doppia Punta Supe
 
 [![Carioca Roller Birello | Astuccio Giallo](https://m.media-amazon.com/images/I/41jJWl5LHkL._SL200_.jpg)](https://www.amazon.it/dp/B07VKGQ6WN/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VKGQ6WN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

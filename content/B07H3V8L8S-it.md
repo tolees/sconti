@@ -22,6 +22,9 @@ Ahora mismo tienes [homcom Cyclette Elettrica Compatto Altezza Regolabile in 6 L
 
 [![homcom Cyclette Elettrica Compatto Altez](https://m.media-amazon.com/images/I/31GTY-zQDEL._SL200_.jpg)](https://www.amazon.it/dp/B07H3V8L8S/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07H3V8L8S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

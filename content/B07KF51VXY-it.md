@@ -22,6 +22,9 @@ Está [Levi s Type 3 Giacca in Jeans  Nero  Berk Sherpa Trucker 0100   Small Uom
 
 [![Levi s Type 3 Giacca in Jeans  Nero  Ber](https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg)](https://www.amazon.it/dp/B07KF51VXY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07KF51VXY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vape Piastrine Extra  Protezione Rapida contro le Zanzare fino a 12 Ore  
 
 [![Vape Piastrine Extra  Protezione Rapida ](https://m.media-amazon.com/images/I/51uuqisHsmL._SL200_.jpg)](https://www.amazon.it/dp/B01HO0UD78/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01HO0UD78/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

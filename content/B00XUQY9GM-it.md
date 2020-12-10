@@ -22,6 +22,9 @@ Tienes [Skipper - Succo Di Ananas Da Concentrato - 1000 Ml](https://www.amazon.i
 
 [![Skipper - Succo Di Ananas Da Concentrato](https://m.media-amazon.com/images/I/416co+MttFL._SL200_.jpg)](https://www.amazon.it/dp/B00XUQY9GM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00XUQY9GM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

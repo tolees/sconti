@@ -22,6 +22,9 @@ Tienes [Veetop Case Hard Disk SSD Esterno M2 NVME USB 3.1 Gen 2 Tipo C  Box per 
 
 [![Veetop Case Hard Disk SSD Esterno M2 NVM](https://m.media-amazon.com/images/I/41AEU+dcbkL._SL200_.jpg)](https://www.amazon.it/dp/B08G89N8KJ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08G89N8KJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

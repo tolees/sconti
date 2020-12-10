@@ -22,6 +22,9 @@ Está [adidas Cush CRW 3pp  Calzini Uomo  Multicolore  Black/Grey/White   M](htt
 
 [![adidas Cush CRW 3pp  Calzini Uomo  Multi](https://m.media-amazon.com/images/I/41h742gsXGL._SL200_.jpg)](https://www.amazon.it/dp/B07RXYVDTY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07RXYVDTY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

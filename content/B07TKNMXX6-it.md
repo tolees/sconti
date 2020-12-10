@@ -22,6 +22,9 @@ Está [Havaianas Slim Animals  Infradito Donna  Multicolore  Grey/Olive Green 78
 
 [![Havaianas Slim Animals  Infradito Donna ](https://m.media-amazon.com/images/I/512n7e2M8RL._SL200_.jpg)](https://www.amazon.it/dp/B07TKNMXX6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TKNMXX6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

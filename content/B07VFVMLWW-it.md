@@ -22,6 +22,9 @@ Está [Calvin Klein Embroidery Regular Short Shorts  Nero  CK Black Bae   42  Ta
 
 [![Calvin Klein Embroidery Regular Short Sh](https://m.media-amazon.com/images/I/312fuVHp3QL._SL200_.jpg)](https://www.amazon.it/dp/B07VFVMLWW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VFVMLWW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

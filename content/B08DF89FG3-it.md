@@ -22,6 +22,9 @@ Está [HolyHigh Cuffie Bluetooth 5.0 Auricolari Bluetooth True Wireless TWS per 
 
 [![HolyHigh Cuffie Bluetooth 5.0 Auricolari](https://m.media-amazon.com/images/I/41G428P952L._SL200_.jpg)](https://www.amazon.it/dp/B08DF89FG3/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08DF89FG3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

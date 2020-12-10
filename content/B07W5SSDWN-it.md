@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Rope Stripe Tee Camicia Sportiva  Blu  Sail Blue   Large 
 
 [![Tommy Hilfiger Rope Stripe Tee Camicia S](https://m.media-amazon.com/images/I/31UDhAUb2-L._SL200_.jpg)](https://www.amazon.it/dp/B07W5SSDWN/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07W5SSDWN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

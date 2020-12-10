@@ -22,6 +22,9 @@ Está [Alcatel 3L 2020  6.22”  4G  64 GB ROM + 4 GB RAM  tripla fotocamera  40
 
 [![Alcatel 3L 2020  6.22”  4G  64 GB ROM + ](https://m.media-amazon.com/images/I/41TSb6tFtVL._SL200_.jpg)](https://www.amazon.it/dp/B0867PLS4Z/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0867PLS4Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

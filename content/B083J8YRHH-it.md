@@ -22,6 +22,9 @@ Está [LED Luce Solari Giardino Esterno MUZEY 4 Pezzi 8Led Lampada Solare da Gia
 
 [![LED Luce Solari Giardino Esterno MUZEY 4](https://m.media-amazon.com/images/I/51QdmYwUoeL._SL200_.jpg)](https://www.amazon.it/dp/B083J8YRHH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B083J8YRHH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

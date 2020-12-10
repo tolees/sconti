@@ -22,6 +22,9 @@ Está [Ardes Penny AR5AM40 Ventilatore da Tavolo  3 Pale 40 cm con Oscillazione 
 
 [![Ardes Penny AR5AM40 Ventilatore da Tavol](https://m.media-amazon.com/images/I/51kqv0yRyTL._SL200_.jpg)](https://www.amazon.it/dp/B07PNCGXHK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07PNCGXHK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

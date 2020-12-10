@@ -22,6 +22,9 @@ Tienes [Kodak Pixpro FZ102-BK Fotocamera digitale 16.44 megapixel  zoom Ottico 1
 
 [![Kodak Pixpro FZ102-BK Fotocamera digital](https://m.media-amazon.com/images/I/41tnHwF5LmL._SL200_.jpg)](https://www.amazon.it/dp/B075QLXNKK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B075QLXNKK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Perfect Vneck T-Shirt  Multicolore  Annalise Stripe T
 
 [![Levi s Perfect Vneck T-Shirt  Multicolor](https://m.media-amazon.com/images/I/414KFTZTWpL._SL200_.jpg)](https://www.amazon.it/dp/B07TV7MDKR/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07TV7MDKR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

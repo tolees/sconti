@@ -22,6 +22,9 @@ Está [Haier HTF-456DM6  Frigorifero Cube 4 Porte  Libera installazione  ABT luc
 
 [![Haier HTF-456DM6  Frigorifero Cube 4 Por](https://m.media-amazon.com/images/I/31dCB8wxkZL._SL200_.jpg)](https://www.amazon.it/dp/B01EW6L72W/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01EW6L72W/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

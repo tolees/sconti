@@ -22,6 +22,9 @@ Ahora mismo tienes [Guanti usa e getta  in plastica  100 pezzi  per uso alimenta
 
 [![Guanti usa e getta  in plastica  100 pez](https://m.media-amazon.com/images/I/51F8gTjSTAL._SL200_.jpg)](https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

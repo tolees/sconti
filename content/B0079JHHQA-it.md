@@ -22,6 +22,9 @@ Está [Arena Classic Silicone  Cuffia Unisex Adulto  Grigio  Silver/Black   Tagl
 
 [![Arena Classic Silicone  Cuffia Unisex Ad](https://m.media-amazon.com/images/I/31O46rIlDoL._SL200_.jpg)](https://www.amazon.it/dp/B0079JHHQA/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0079JHHQA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [GORE WEAR C5 Giacca da ciclismo per uomo GORE-TEX  S  Nero/R
 
 [![GORE WEAR C5 Giacca da ciclismo per uomo](https://m.media-amazon.com/images/I/41Bm9RmNKvL._SL200_.jpg)](https://www.amazon.it/dp/B075S3NNK5/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B075S3NNK5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

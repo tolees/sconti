@@ -22,6 +22,9 @@ Está [Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo  Pacco da 2  Meh
 
 [![Marchio Amazon - find. Camicia a Quadri ](https://m.media-amazon.com/images/I/31YxfBUC0hL._SL200_.jpg)](https://www.amazon.it/dp/B07G57CKB9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07G57CKB9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny  Blu  Blue Denim B
 
 [![JACK & JONES Jjitom Jjoriginal Am 815 ST](https://m.media-amazon.com/images/I/31TGC9k2FNL._SL200_.jpg)](https://www.amazon.it/dp/B07JQBXWQK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07JQBXWQK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

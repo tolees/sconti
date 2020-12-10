@@ -22,6 +22,9 @@ Tienes [Plafoniera LED Lampada a Soffitto Bianco Naturale 4000K 18W 1500 Lumens 
 
 [![Plafoniera LED Lampada a Soffitto Bianco](https://m.media-amazon.com/images/I/31XhdkfidxL._SL200_.jpg)](https://www.amazon.it/dp/B07M76NBB4/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07M76NBB4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

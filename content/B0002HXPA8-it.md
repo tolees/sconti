@@ -22,6 +22,9 @@ Está [Sigikid 49520 - Gioco di birilli con 6 figure di animali  Multicolore](ht
 
 [![Sigikid 49520 - Gioco di birilli con 6 f](https://m.media-amazon.com/images/I/51EuiHHyrqL._SL200_.jpg)](https://www.amazon.it/dp/B0002HXPA8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0002HXPA8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

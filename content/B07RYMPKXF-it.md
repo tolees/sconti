@@ -22,6 +22,9 @@ Está [Levi s Housemark Graphic Tee T-Shirt  Bianco  Ssnl HM Camo White 0249   X
 
 [![Levi s Housemark Graphic Tee T-Shirt  Bi](https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL200_.jpg)](https://www.amazon.it/dp/B07RYMPKXF/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07RYMPKXF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

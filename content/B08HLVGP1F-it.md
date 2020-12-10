@@ -22,6 +22,9 @@ Tienes [FFTH Hard Disk 2 TB Esterno  Hard Disk Esterno USB-C 3.1 Portatile per P
 
 [![FFTH Hard Disk 2 TB Esterno  Hard Disk E](https://m.media-amazon.com/images/I/21LiAu4zjcL._SL200_.jpg)](https://www.amazon.it/dp/B08HLVGP1F/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08HLVGP1F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

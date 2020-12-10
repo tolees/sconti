@@ -22,6 +22,9 @@ Ahora mismo tienes [ALLPOWERS 45W Portable Power Bank 26800mAh PD  USB C Caricab
 
 [![ALLPOWERS 45W Portable Power Bank 26800m](https://m.media-amazon.com/images/I/41AGPgRjGVL._SL200_.jpg)](https://www.amazon.it/dp/B07T1WL24Y/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07T1WL24Y/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

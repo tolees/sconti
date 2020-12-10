@@ -22,6 +22,9 @@ Está [Havaianas Twist  Sandali con Chiusura a T Donna  Beige  Sand Grey 0154   
 
 [![Havaianas Twist  Sandali con Chiusura a ](https://m.media-amazon.com/images/I/31J2IleEK7L._SL200_.jpg)](https://www.amazon.it/dp/B07SLZKL9Q/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SLZKL9Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

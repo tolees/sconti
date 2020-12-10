@@ -22,6 +22,9 @@ Tienes [Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo a V D
 
 [![Marchio Amazon - TRUTH & FABLE Vestito M](https://m.media-amazon.com/images/I/31uYc7bBVuL._SL200_.jpg)](https://www.amazon.it/dp/B07C2H1RY2/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07C2H1RY2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

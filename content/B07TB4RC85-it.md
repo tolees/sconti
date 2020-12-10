@@ -22,6 +22,9 @@ Tienes [Avvitatore ad Impulsi  TECCPO 350Nm Avvitatori a Massa Battente 18V  4.0
 
 [![Avvitatore ad Impulsi  TECCPO 350Nm Avvi](https://m.media-amazon.com/images/I/51l6bLnV4OL._SL200_.jpg)](https://www.amazon.it/dp/B07TB4RC85/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TB4RC85/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

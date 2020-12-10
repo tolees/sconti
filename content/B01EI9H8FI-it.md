@@ -22,6 +22,9 @@ Tienes [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Blu  Collegiate Navy/Wh
 
 [![adidas Gazelle  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/41WUyQ9DkFL._SL200_.jpg)](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

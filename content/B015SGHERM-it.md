@@ -22,6 +22,9 @@ Tienes [Havaianas You Metallic  Infradito Donna   Sand Grey/Light Golden   41/42
 
 [![Havaianas You Metallic  Infradito Donna ](https://m.media-amazon.com/images/I/41J7SD5olWL._SL200_.jpg)](https://www.amazon.it/dp/B015SGHERM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B015SGHERM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

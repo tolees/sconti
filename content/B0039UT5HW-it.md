@@ -22,6 +22,9 @@ Ahora mismo tienes [Casio Orologio Analogico al Quarzo Uomo con Cinturino in Acc
 
 [![Casio Orologio Analogico al Quarzo Uomo ](https://m.media-amazon.com/images/I/41T1w7uXCKL._SL200_.jpg)](https://www.amazon.it/dp/B0039UT5HW/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0039UT5HW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

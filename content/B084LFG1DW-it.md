@@ -22,6 +22,9 @@ Está [Samsung Galaxy S20+ Smartphone  4G  Display 6.7" Dynamic AMOLED 2X  4 Fot
 
 [![Samsung Galaxy S20+ Smartphone  4G  Disp](https://m.media-amazon.com/images/I/41incevJDXL._SL200_.jpg)](https://www.amazon.it/dp/B084LFG1DW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B084LFG1DW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

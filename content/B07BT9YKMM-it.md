@@ -22,6 +22,9 @@ Está [WHATLEES Whatless Gilet Slim Elegante Uomo - Doppio Petto Testurizzato Fo
 
 [![WHATLEES Whatless Gilet Slim Elegante Uo](https://m.media-amazon.com/images/I/51I98OpIZnL._SL200_.jpg)](https://www.amazon.it/dp/B07BT9YKMM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07BT9YKMM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

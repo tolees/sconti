@@ -22,6 +22,9 @@ Está [HyperX Predator HX430C15PB3K4/64 Memoria 3000 MHz DDR4 CL15 DIMM XMP 64 G
 
 [![HyperX Predator HX430C15PB3K4/64 Memoria](https://m.media-amazon.com/images/I/41kAJb53O5L._SL200_.jpg)](https://www.amazon.it/dp/B01GCWQ72O/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01GCWQ72O/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

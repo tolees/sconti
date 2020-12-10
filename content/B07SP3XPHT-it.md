@@ -22,6 +22,9 @@ Está [Havaianas Top Nautical  Infradito Uomo  Multicolore  Navy Blue/White/Apac
 
 [![Havaianas Top Nautical  Infradito Uomo  ](https://m.media-amazon.com/images/I/31N7BQpFJAL._SL200_.jpg)](https://www.amazon.it/dp/B07SP3XPHT/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SP3XPHT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

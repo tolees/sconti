@@ -22,6 +22,9 @@ Tienes [Spigen SteadiBoost Caricatore Wireless Veloce 15W Qi Certificato per iPh
 
 [![Spigen SteadiBoost Caricatore Wireless V](https://m.media-amazon.com/images/I/412S1JlFoQL._SL200_.jpg)](https://www.amazon.it/dp/B07M9GMFF5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07M9GMFF5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [VBIGER Guanti Invernali Uomo Donna Guanti Ciclismo Guanti Sportivi con Si
 
 [![VBIGER Guanti Invernali Uomo Donna Guant](https://m.media-amazon.com/images/I/41LAwr3ipYL._SL200_.jpg)](https://www.amazon.it/dp/B08C5CG7H8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08C5CG7H8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

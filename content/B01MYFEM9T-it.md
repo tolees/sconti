@@ -22,6 +22,9 @@ Está [Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904  
 
 [![Tommy Hilfiger 3p Brief Slip-pacco da 3 ](https://m.media-amazon.com/images/I/41tZJdExv6L._SL200_.jpg)](https://www.amazon.it/dp/B01MYFEM9T/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01MYFEM9T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

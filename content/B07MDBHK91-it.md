@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim Shirt Camicia in Jeans  Nero  Rinsed 08
 
 [![G-STAR RAW 3301 Slim Shirt Camicia in Je](https://m.media-amazon.com/images/I/41webrYi8jL._SL200_.jpg)](https://www.amazon.it/dp/B07MDBHK91/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07MDBHK91/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

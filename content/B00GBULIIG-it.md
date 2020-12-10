@@ -22,6 +22,9 @@ Tienes [Netgear GS116E Switch Smart Managed Plus a 16 Porte Gigabit Ethernet  De
 
 [![Netgear GS116E Switch Smart Managed Plus](https://m.media-amazon.com/images/I/31Zw6XWm2bL._SL200_.jpg)](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

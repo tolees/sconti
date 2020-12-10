@@ -22,6 +22,9 @@ Está [STAEDTLER matite colorate Noris Colour  confezione da 24 colori con tonal
 
 [![STAEDTLER matite colorate Noris Colour  ](https://m.media-amazon.com/images/I/51kWj1Vs7wL._SL200_.jpg)](https://www.amazon.it/dp/B00SF4NTF6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00SF4NTF6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

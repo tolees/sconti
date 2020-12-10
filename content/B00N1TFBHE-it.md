@@ -22,6 +22,9 @@ Está [Tescoma 642773 Vitamino Oliera  Vetro  Verde  500 ml  1 Pezzo](https://ww
 
 [![Tescoma 642773 Vitamino Oliera  Vetro  V](https://m.media-amazon.com/images/I/310VKhOulDL._SL200_.jpg)](https://www.amazon.it/dp/B00N1TFBHE/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00N1TFBHE/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

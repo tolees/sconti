@@ -22,6 +22,9 @@ Ahora mismo tienes [Aigostar Lampada Solare Giardino Esterno LED Luci Solari Gia
 
 [![Aigostar Lampada Solare Giardino Esterno](https://m.media-amazon.com/images/I/41SuCZsIyqL._SL200_.jpg)](https://www.amazon.it/dp/B085GB9WN7/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B085GB9WN7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

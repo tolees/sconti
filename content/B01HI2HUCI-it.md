@@ -22,6 +22,9 @@ Tienes [Level Fly  Guanto da Snowboard Uomo  PK Nero  8.5 - ML](https://www.amaz
 
 [![Level Fly  Guanto da Snowboard Uomo  PK ](https://m.media-amazon.com/images/I/41ZOTzoypYL._SL200_.jpg)](https://www.amazon.it/dp/B01HI2HUCI/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01HI2HUCI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

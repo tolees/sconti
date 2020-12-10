@@ -22,6 +22,9 @@ Ahora mismo tienes [Beggars Banquet Remastered  50Th Annyversary Edt.Lp+12"+Flex
 
 [![Beggars Banquet Remastered  50Th Annyver](https://m.media-amazon.com/images/I/31VAlyzc+9L._SL200_.jpg)](https://www.amazon.it/dp/B07F7RSQMT/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07F7RSQMT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

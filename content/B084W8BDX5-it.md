@@ -22,6 +22,9 @@ Está [Pantene Pro-V Balsamo  Rigenera e Protegge  per Capelli Danneggiati  Maxi
 
 [![Pantene Pro-V Balsamo  Rigenera e Proteg](https://m.media-amazon.com/images/I/41KkXO0EZ+L._SL200_.jpg)](https://www.amazon.it/dp/B084W8BDX5/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B084W8BDX5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

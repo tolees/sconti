@@ -22,6 +22,9 @@ Tienes [TECCPO 120 Pezzi Dischi Abrasivi  ø125 mm Carta Abrasiva Velcro Resiste
 
 [![TECCPO 120 Pezzi Dischi Abrasivi  ø125 m](https://m.media-amazon.com/images/I/51q4gone1OL._SL200_.jpg)](https://www.amazon.it/dp/B07VM8YQXR/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07VM8YQXR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [LYITP Cavo per Hard Drive SATA da USB 3.0 a SSD/2 5 Pollici [Ottimizzato 
 
 [![LYITP Cavo per Hard Drive SATA da USB 3.](https://m.media-amazon.com/images/I/41ufn+BgVML._SL200_.jpg)](https://www.amazon.it/dp/B08BY95SGF/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08BY95SGF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

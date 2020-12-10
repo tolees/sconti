@@ -22,6 +22,9 @@ Ahora mismo tienes [24pz Pompon Pelliccia Volpe Sintetica per Fai da Te PON PON 
 
 [![24pz Pompon Pelliccia Volpe Sintetica pe](https://m.media-amazon.com/images/I/51IT4KpjfsL._SL200_.jpg)](https://www.amazon.it/dp/B07ZX76CXG/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07ZX76CXG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

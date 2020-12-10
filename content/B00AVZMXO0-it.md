@@ -22,6 +22,9 @@ Tienes [Vans Atwood  Scarpe da Ginnastica Uomo  Nero  Canvas/Black/White   42 EU
 
 [![Vans Atwood  Scarpe da Ginnastica Uomo  ](https://m.media-amazon.com/images/I/3142PfoZvXL._SL200_.jpg)](https://www.amazon.it/dp/B00AVZMXO0/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00AVZMXO0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Smartphone Offerta del Giorno  Cellulari Offerte 4G Smartphone 6.2 Pollic
 
 [![Smartphone Offerta del Giorno  Cellulari](https://m.media-amazon.com/images/I/41uKNg9aybL._SL200_.jpg)](https://www.amazon.it/dp/B08BLH53TV/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08BLH53TV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

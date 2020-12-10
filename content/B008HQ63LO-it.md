@@ -22,6 +22,9 @@ Ahora mismo tienes [Russell Hobbs 18780 2fetta/e Grigio tostapane](https://www.a
 
 [![Russell Hobbs 18780 2fetta/e Grigio tost](https://m.media-amazon.com/images/I/312Jp+0ROhL._SL200_.jpg)](https://www.amazon.it/dp/B008HQ63LO/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B008HQ63LO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

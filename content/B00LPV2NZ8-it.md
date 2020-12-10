@@ -22,6 +22,9 @@ Está [iRobot Batteria Lunga Durata Xlife  Parti Originali  Compatibile con Room
 
 [![iRobot Batteria Lunga Durata Xlife  Part](https://m.media-amazon.com/images/I/312iBAGZ0FL._SL200_.jpg)](https://www.amazon.it/dp/B00LPV2NZ8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00LPV2NZ8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

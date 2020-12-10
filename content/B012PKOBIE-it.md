@@ -22,6 +22,9 @@ Tienes [Lexar 64GB 3500x Pro CFast Compact Flash Card -  LC64GCRBEU3500](https:/
 
 [![Lexar 64GB 3500x Pro CFast Compact Flash](https://m.media-amazon.com/images/I/517A+dzuGwL._SL200_.jpg)](https://www.amazon.it/dp/B012PKOBIE/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B012PKOBIE/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

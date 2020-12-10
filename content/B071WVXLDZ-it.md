@@ -22,6 +22,9 @@ Ahora mismo tienes [Braun Series 5 5147s Rasoio da Barba Elettrico Ricaricabile 
 
 [![Braun Series 5 5147s Rasoio da Barba Ele](https://m.media-amazon.com/images/I/51+SRGsTnhL._SL200_.jpg)](https://www.amazon.it/dp/B071WVXLDZ/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B071WVXLDZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

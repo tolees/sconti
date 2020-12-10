@@ -22,6 +22,9 @@ Está [FIFA 20 - Champions - Xbox One  3 anni +](https://www.amazon.it/dp/B07SJ1
 
 [![FIFA 20 - Champions - Xbox One  3 anni +](https://m.media-amazon.com/images/I/51PfHl-QVuL._SL200_.jpg)](https://www.amazon.it/dp/B07SJ138HC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SJ138HC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [PUMA Cilia Lux  Sneakers Donna  Nero Black/Plein Air/Bright Rose Silver W
 
 [![PUMA Cilia Lux  Sneakers Donna  Nero Bla](https://m.media-amazon.com/images/I/41IHnNvwHOL._SL200_.jpg)](https://www.amazon.it/dp/B07S9S9P6H/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07S9S9P6H/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Samsung HW-R530/ZF Soundbar da 290 W  2.1 Canali  Nero](https://www.amaz
 
 [![Samsung HW-R530/ZF Soundbar da 290 W  2.](https://m.media-amazon.com/images/I/21brYC41CCL._SL200_.jpg)](https://www.amazon.it/dp/B07RXG89S3/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RXG89S3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Levi s Ex-BF Sherpa Trucker Giacca in Jeans  Nero  Forever Black 0015   L
 
 [![Levi s Ex-BF Sherpa Trucker Giacca in Je](https://m.media-amazon.com/images/I/41Go0iSNpKL._SL200_.jpg)](https://www.amazon.it/dp/B07LFJVPTX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07LFJVPTX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

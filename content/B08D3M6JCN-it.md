@@ -22,6 +22,9 @@ Ahora mismo tienes [INTEY Porte da Calcio 2 Pezzi Gabbia di Calcio Bambino Pop U
 
 [![INTEY Porte da Calcio 2 Pezzi Gabbia di ](https://m.media-amazon.com/images/I/61+v4A69BxL._SL200_.jpg)](https://www.amazon.it/dp/B08D3M6JCN/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08D3M6JCN/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

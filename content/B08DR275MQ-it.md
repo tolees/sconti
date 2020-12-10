@@ -22,6 +22,9 @@ Está [Rybozen Audio Video Scheda di acquisizione HDMI con Loop Out  USB 2.0 4K 
 
 [![Rybozen Audio Video Scheda di acquisizio](https://m.media-amazon.com/images/I/41q7OX04KyL._SL200_.jpg)](https://www.amazon.it/dp/B08DR275MQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08DR275MQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

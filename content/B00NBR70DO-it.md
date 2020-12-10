@@ -22,6 +22,9 @@ Está [Sony MDR-ZX110 - Cuffie on-ear  Nero](https://www.amazon.it/dp/B00NBR70DO
 
 [![Sony MDR-ZX110 - Cuffie on-ear  Nero](https://m.media-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg)](https://www.amazon.it/dp/B00NBR70DO/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00NBR70DO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

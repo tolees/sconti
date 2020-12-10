@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein Medium Drawstring Pantaloncini  Blu  Air Blue C
 
 [![Calvin Klein Medium Drawstring Pantalonc](https://m.media-amazon.com/images/I/41tSW0z4I1L._SL200_.jpg)](https://www.amazon.it/dp/B07VQWCF4B/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07VQWCF4B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

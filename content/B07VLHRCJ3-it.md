@@ -22,6 +22,9 @@ Está [Calvin Klein Scoop One Piece-RP Reggiseno Bikini  Nero  PVH Black BEH    
 
 [![Calvin Klein Scoop One Piece-RP Reggisen](https://m.media-amazon.com/images/I/31rdqtwMVtL._SL200_.jpg)](https://www.amazon.it/dp/B07VLHRCJ3/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VLHRCJ3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

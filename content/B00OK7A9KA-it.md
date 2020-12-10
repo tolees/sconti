@@ -22,6 +22,9 @@ Está [Worx WX372 Trapano Avvitatore con Percussione  Mandrino in Metallo Autose
 
 [![Worx WX372 Trapano Avvitatore con Percus](https://m.media-amazon.com/images/I/51y7cU-qawL._SL200_.jpg)](https://www.amazon.it/dp/B00OK7A9KA/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00OK7A9KA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

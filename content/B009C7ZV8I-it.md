@@ -22,6 +22,9 @@ Tienes [JBL  biocondizionatore per Pesci Rossi Biotopol R  Confezione da 250 ml
 
 [![JBL  biocondizionatore per Pesci Rossi B](https://m.media-amazon.com/images/I/51Na5C5whML._SL200_.jpg)](https://www.amazon.it/dp/B009C7ZV8I/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B009C7ZV8I/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

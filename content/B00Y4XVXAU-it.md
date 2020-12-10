@@ -22,6 +22,9 @@ Está [Lacoste PH4012  T-shirt Polo Uomo  Bianco  Blanc   Medium  Taglia Produtt
 
 [![Lacoste PH4012  T-shirt Polo Uomo  Bianc](https://m.media-amazon.com/images/I/31QVyTrKnGL._SL200_.jpg)](https://www.amazon.it/dp/B00Y4XVXAU/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00Y4XVXAU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

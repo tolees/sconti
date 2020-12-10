@@ -22,6 +22,9 @@ Está [Rimmel London Smalto Flip Flop Fashion  Be Red-Y - 8 ml](https://www.amaz
 
 [![Rimmel London Smalto Flip Flop Fashion  ](https://m.media-amazon.com/images/I/41uwsISsh3L._SL200_.jpg)](https://www.amazon.it/dp/B0793N9ZKZ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0793N9ZKZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

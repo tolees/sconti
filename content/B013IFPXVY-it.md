@@ -22,6 +22,9 @@ Está [Level Trend Suburban Line  Guanto Uomo  Nero  10](https://www.amazon.it/d
 
 [![Level Trend Suburban Line  Guanto Uomo  ](https://m.media-amazon.com/images/I/414QUwyFqzL._SL200_.jpg)](https://www.amazon.it/dp/B013IFPXVY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B013IFPXVY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

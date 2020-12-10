@@ -22,6 +22,9 @@ Está [Zilong - tappetino antiaderente in Teflon  per griglia del forno e barbec
 
 [![Zilong - tappetino antiaderente in Teflo](https://m.media-amazon.com/images/I/61QrNU0tl2L._SL200_.jpg)](https://www.amazon.it/dp/B07DH3MR96/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07DH3MR96/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

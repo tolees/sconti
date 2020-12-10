@@ -22,6 +22,9 @@ Tienes [Levi s LS Baby Tee Maglia a Maniche Lunghe  Multicolore  Agnes Stripe Cl
 
 [![Levi s LS Baby Tee Maglia a Maniche Lung](https://m.media-amazon.com/images/I/418556TOzzL._SL200_.jpg)](https://www.amazon.it/dp/B07S3WMT74/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07S3WMT74/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

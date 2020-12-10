@@ -22,6 +22,9 @@ Tienes [Max Factor Facefinity All Day Flawless 3 in 1 Fondotinta Liquido a Lunga
 
 [![Max Factor Facefinity All Day Flawless 3](https://m.media-amazon.com/images/I/31DqWF+XtEL._SL200_.jpg)](https://www.amazon.it/dp/B009RJLWR0/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B009RJLWR0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

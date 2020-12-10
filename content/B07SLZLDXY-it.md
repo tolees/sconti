@@ -22,6 +22,9 @@ Está [Havaianas Twist  Sandali con Chiusura a T Donna  Verde  Mineral Green 299
 
 [![Havaianas Twist  Sandali con Chiusura a ](https://m.media-amazon.com/images/I/318z02GqoXL._SL200_.jpg)](https://www.amazon.it/dp/B07SLZLDXY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SLZLDXY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

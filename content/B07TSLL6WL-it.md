@@ -22,6 +22,9 @@ Está [Wrangler LS 1 Pkt Shirt Camicia  Bianco  Real White Xw1   Medium Uomo](ht
 
 [![Wrangler LS 1 Pkt Shirt Camicia  Bianco ](https://m.media-amazon.com/images/I/41XU4RFLhhL._SL200_.jpg)](https://www.amazon.it/dp/B07TSLL6WL/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TSLL6WL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

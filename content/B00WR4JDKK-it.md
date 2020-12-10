@@ -22,6 +22,9 @@ Está [Garnier Ambre Solaire Crema Protezione Solare UV Sport  Ottima per lo Spo
 
 [![Garnier Ambre Solaire Crema Protezione S](https://m.media-amazon.com/images/I/41fxkXxtDRL._SL200_.jpg)](https://www.amazon.it/dp/B00WR4JDKK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00WR4JDKK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

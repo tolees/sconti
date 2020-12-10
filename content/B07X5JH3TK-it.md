@@ -22,6 +22,9 @@ Tienes [Muzili Aspirapolvere Scopa Elettrica Senza Fili 3 in 1 con Aspirazione P
 
 [![Muzili Aspirapolvere Scopa Elettrica Sen](https://m.media-amazon.com/images/I/41hwqHjioZL._SL200_.jpg)](https://www.amazon.it/dp/B07X5JH3TK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07X5JH3TK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

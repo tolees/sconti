@@ -22,6 +22,9 @@ Tienes [American Tourister Wavebreaker Bagaglio a Mano Disney  Spinner S  55 cm 
 
 [![American Tourister Wavebreaker Bagaglio ](https://m.media-amazon.com/images/I/41jmElJg8CL._SL200_.jpg)](https://www.amazon.it/dp/B07P5MSQCY/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07P5MSQCY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

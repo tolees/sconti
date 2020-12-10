@@ -22,6 +22,9 @@ Está [Timberland Boroughs Project Leather Oxford Sneaker  Uomo  Verde  Canteen 
 
 [![Timberland Boroughs Project Leather Oxfo](https://m.media-amazon.com/images/I/31Lqf384daL._SL200_.jpg)](https://www.amazon.it/dp/B07SZ8WJ13/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SZ8WJ13/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

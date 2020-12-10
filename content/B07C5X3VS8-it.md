@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Verde  Oli
 
 [![JACK & JONES Jjeholmen Sweat Zip Hood No](https://m.media-amazon.com/images/I/4169c8djiwL._SL200_.jpg)](https://www.amazon.it/dp/B07C5X3VS8/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07C5X3VS8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

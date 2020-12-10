@@ -22,6 +22,9 @@ Tienes [Canon IXUS 190 Fotocamera Digitale Compatta  20 MP  1/2.3"  CCD  5152 x 
 
 [![Canon IXUS 190 Fotocamera Digitale Compa](https://m.media-amazon.com/images/I/41aFxqugXdL._SL200_.jpg)](https://www.amazon.it/dp/B01N20DLBG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N20DLBG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

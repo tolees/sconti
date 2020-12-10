@@ -22,6 +22,9 @@ Tienes [L3 Tech Custodia Rigida per SSD SanDisk Extreme PRO da 1 TB / 2 TB / 250
 
 [![L3 Tech Custodia Rigida per SSD SanDisk ](https://m.media-amazon.com/images/I/51biHF-nA-L._SL200_.jpg)](https://www.amazon.it/dp/B0872WMBK1/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0872WMBK1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

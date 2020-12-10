@@ -22,6 +22,9 @@ Ahora mismo tienes [Laken Thermo Classic Bottiglia d Acqua  Isolamento sottovuot
 
 [![Laken Thermo Classic Bottiglia d Acqua  ](https://m.media-amazon.com/images/I/318PmP4Y48L._SL200_.jpg)](https://www.amazon.it/dp/B00CSB3ZX8/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00CSB3ZX8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

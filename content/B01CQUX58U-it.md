@@ -22,6 +22,9 @@ Ahora mismo tienes [Diadora - Sneakers B. Elite per Uomo e Donna  EU 40.5 ](http
 
 [![Diadora - Sneakers B. Elite per Uomo e D](https://m.media-amazon.com/images/I/31EX4AKpVAL._SL200_.jpg)](https://www.amazon.it/dp/B01CQUX58U/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01CQUX58U/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

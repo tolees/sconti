@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Original Triblend V Neck T-Shirt  Rosso  Formula One 645 
 
 [![Tommy Hilfiger Original Triblend V Neck ](https://m.media-amazon.com/images/I/41mppO0L3mL._SL200_.jpg)](https://www.amazon.it/dp/B0777PZ6XM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0777PZ6XM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

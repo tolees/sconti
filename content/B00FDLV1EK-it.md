@@ -22,6 +22,9 @@ Está [SONGMICS LLR01L Appendiabiti Estensibile con rotelle  in Metallo  150 x 4
 
 [![SONGMICS LLR01L Appendiabiti Estensibile](https://m.media-amazon.com/images/I/31mMbPpxU4L._SL200_.jpg)](https://www.amazon.it/dp/B00FDLV1EK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00FDLV1EK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Casio Orologio Analogico Quarzo Unisex Adulto con Cinturino in Acciaio In
 
 [![Casio Orologio Analogico Quarzo Unisex A](https://m.media-amazon.com/images/I/51Khwf2Hv3L._SL200_.jpg)](https://www.amazon.it/dp/B07NFCN9ZQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07NFCN9ZQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

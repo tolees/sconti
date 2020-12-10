@@ -22,6 +22,9 @@ Está [Polaroid Fotocamera Digitale a Scatto Istantaneo  con Tecnologia Di Stamp
 
 [![Polaroid Fotocamera Digitale a Scatto Is](https://m.media-amazon.com/images/I/31CBLe5nZTL._SL200_.jpg)](https://www.amazon.it/dp/B015JIAD7C/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B015JIAD7C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Lacoste YH4801 Polo  Bianco  Blanc   X-Small  Taglia Produttore: 2  Uomo
 
 [![Lacoste YH4801 Polo  Bianco  Blanc   X-S](https://m.media-amazon.com/images/I/31zWCEYZ8pL._SL200_.jpg)](https://www.amazon.it/dp/B00XFB12GC/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00XFB12GC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

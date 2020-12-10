@@ -22,6 +22,9 @@ Está [Pedigree Vital Protection cani Cibo di Alta Qualità con pollo  manzo  po
 
 [![Pedigree Vital Protection cani Cibo di A](https://m.media-amazon.com/images/I/51Mb0+WQ7DL._SL200_.jpg)](https://www.amazon.it/dp/B077M8CKRV/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B077M8CKRV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

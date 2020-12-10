@@ -22,6 +22,9 @@ Tienes [Ferrolin C - 24 Pocket Drink](https://www.amazon.it/dp/B00MBIJ9LU/?tag=t
 
 [![Ferrolin C - 24 Pocket Drink](https://m.media-amazon.com/images/I/51suF+sd3qL._SL200_.jpg)](https://www.amazon.it/dp/B00MBIJ9LU/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00MBIJ9LU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

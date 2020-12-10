@@ -22,6 +22,9 @@ Está [STANLEY - 1-93-330 Borsa porta utensili  30 x 25 x 13 cm  il design può 
 
 [![STANLEY - 1-93-330 Borsa porta utensili ](https://m.media-amazon.com/images/I/5167a3kHvXL._SL200_.jpg)](https://www.amazon.it/dp/B000Y8XYE2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B000Y8XYE2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

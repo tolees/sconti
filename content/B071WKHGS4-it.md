@@ -22,6 +22,9 @@ Tienes [Lenor Ammorbidente Oro & Fiori di Vaniglia  Maxi Formato da 70 Lavaggi](
 
 [![Lenor Ammorbidente Oro & Fiori di Vanigl](https://m.media-amazon.com/images/I/41oRDw8HMqL._SL200_.jpg)](https://www.amazon.it/dp/B071WKHGS4/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B071WKHGS4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

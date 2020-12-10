@@ -22,6 +22,9 @@ Está [Eastpak Crew Single Portafoglio  13 cm  Rosso  Sailor Red ](https://www.a
 
 [![Eastpak Crew Single Portafoglio  13 cm  ](https://m.media-amazon.com/images/I/31eRyl5RaKL._SL200_.jpg)](https://www.amazon.it/dp/B07X2SWWZ1/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07X2SWWZ1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

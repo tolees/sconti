@@ -22,6 +22,9 @@ Ahora mismo tienes [Gillette Fusion5 ProGlide Rasoio Da Uomo Set Regalo Premium 
 
 [![Gillette Fusion5 ProGlide Rasoio Da Uomo](https://m.media-amazon.com/images/I/414EWRyqcYL._SL200_.jpg)](https://www.amazon.it/dp/B08FMZKJZM/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08FMZKJZM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

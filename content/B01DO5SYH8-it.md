@@ -22,6 +22,9 @@ Ahora mismo tienes [Scottex Balsam Fazzoletti  1 Confezione da 24 Pezzi](https:/
 
 [![Scottex Balsam Fazzoletti  1 Confezione ](https://m.media-amazon.com/images/I/51QZfVt-YKL._SL200_.jpg)](https://www.amazon.it/dp/B01DO5SYH8/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01DO5SYH8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

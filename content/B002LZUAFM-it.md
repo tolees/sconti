@@ -22,6 +22,9 @@ Ahora mismo tienes [Orologio Emporio Armani AR2434](https://www.amazon.it/dp/B00
 
 [![Orologio Emporio Armani AR2434](https://m.media-amazon.com/images/I/41L8Mlu1DjL._SL200_.jpg)](https://www.amazon.it/dp/B002LZUAFM/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B002LZUAFM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

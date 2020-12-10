@@ -22,6 +22,9 @@ Ahora mismo tienes [SAWAKE Ventilatore Manuale  Ventola USB Portatile con Base  
 
 [![SAWAKE Ventilatore Manuale  Ventola USB ](https://m.media-amazon.com/images/I/41S2sgoIORL._SL200_.jpg)](https://www.amazon.it/dp/B07PT4SKCQ/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07PT4SKCQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Io Sono Leggenda](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21) c
 
 [![Io Sono Leggenda](https://m.media-amazon.com/images/I/61TmL+tEV6L._SL200_.jpg)](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

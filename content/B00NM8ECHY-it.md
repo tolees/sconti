@@ -22,6 +22,9 @@ Ahora mismo tienes [Diadora Fitness Forty Tapis Roulant Magnetico](https://www.a
 
 [![Diadora Fitness Forty Tapis Roulant Magn](https://m.media-amazon.com/images/I/41FIuNtYFcL._SL200_.jpg)](https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Fineliner - STABILO point 88 - Pack da 3 - Nero/Blu/Rosso](https://www.am
 
 [![Fineliner - STABILO point 88 - Pack da 3](https://m.media-amazon.com/images/I/41fvj8noJIL._SL200_.jpg)](https://www.amazon.it/dp/B007JTBONC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B007JTBONC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [New Balance 997h  Sneaker Uomo  Giallo  Yellow Hbr   45 EU](https://www.
 
 [![New Balance 997h  Sneaker Uomo  Giallo  ](https://m.media-amazon.com/images/I/419RoOqzWkL._SL200_.jpg)](https://www.amazon.it/dp/B07RZLY14T/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RZLY14T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Assassin s Creed 4 Black Flag - Hits-PlayStation 4](https://www.amazon.i
 
 [![Assassin s Creed 4 Black Flag - Hits-Pla](https://m.media-amazon.com/images/I/61SMbcgC-KL._SL200_.jpg)](https://www.amazon.it/dp/B07FB17ZK9/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07FB17ZK9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

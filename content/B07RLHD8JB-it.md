@@ -22,6 +22,9 @@ Tienes [Levi s 501 Crop Jeans Boyfriend  Jive Stonewash 0073  27W / 28L Donna](h
 
 [![Levi s 501 Crop Jeans Boyfriend  Jive St](https://m.media-amazon.com/images/I/41W+wq3EHYL._SL200_.jpg)](https://www.amazon.it/dp/B07RLHD8JB/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RLHD8JB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Satechi Adattatore Multiporta Sottile Tipo-C in Alluminio con porta di ri
 
 [![Satechi Adattatore Multiporta Sottile Ti](https://m.media-amazon.com/images/I/41FbppoK18L._SL200_.jpg)](https://www.amazon.it/dp/B01J4BO0X8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01J4BO0X8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

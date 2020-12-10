@@ -22,6 +22,9 @@ Está [Levi s Down Dehon Pkbl Puffer Giacca  Nero  Mineral Black 0000   Medium U
 
 [![Levi s Down Dehon Pkbl Puffer Giacca  Ne](https://m.media-amazon.com/images/I/41cP-hzrbLL._SL200_.jpg)](https://www.amazon.it/dp/B07RZLJLGX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07RZLJLGX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

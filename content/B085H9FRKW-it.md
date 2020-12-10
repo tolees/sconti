@@ -22,6 +22,9 @@ Está [Striscia LED 5M RGB LED  24V Striscia di Colore Variabile Con Pulsante 44
 
 [![Striscia LED 5M RGB LED  24V Striscia di](https://m.media-amazon.com/images/I/51gzMJOBNOL._SL200_.jpg)](https://www.amazon.it/dp/B085H9FRKW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B085H9FRKW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

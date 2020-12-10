@@ -22,6 +22,9 @@ Ahora mismo tienes [National Geographic Multi Colour Stazione meteorologica Radi
 
 [![National Geographic Multi Colour Stazion](https://m.media-amazon.com/images/I/41ezaSVVY-L._SL200_.jpg)](https://www.amazon.it/dp/B07HKD9WX1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07HKD9WX1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

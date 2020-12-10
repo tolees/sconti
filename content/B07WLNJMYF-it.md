@@ -22,6 +22,9 @@ Está [Tommy Hilfiger RWB Pocket Flex Tee Camicia Sportiva  Blu  Desert Sky   Sm
 
 [![Tommy Hilfiger RWB Pocket Flex Tee Camic](https://m.media-amazon.com/images/I/41-ewYr2gtL._SL200_.jpg)](https://www.amazon.it/dp/B07WLNJMYF/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07WLNJMYF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

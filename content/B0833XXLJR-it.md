@@ -22,6 +22,9 @@ Ahora mismo tienes [Netac 32G Scheda Micro SD  Scheda di Memoria A1  U1  C10  V1
 
 [![Netac 32G Scheda Micro SD  Scheda di Mem](https://m.media-amazon.com/images/I/41sgeFonMGL._SL200_.jpg)](https://www.amazon.it/dp/B0833XXLJR/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0833XXLJR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lorus Orologio Analogico-Digitale Quarzo Uomo con Cinturino in Acciaio In
 
 [![Lorus Orologio Analogico-Digitale Quarzo](https://m.media-amazon.com/images/I/51Edx1Sd2bL._SL200_.jpg)](https://www.amazon.it/dp/B0154B6TAY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0154B6TAY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

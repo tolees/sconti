@@ -22,6 +22,9 @@ Está [Swarovski Pendente Iconic Swan  Multicolore  Placcatura Rodio](https://ww
 
 [![Swarovski Pendente Iconic Swan  Multicol](https://m.media-amazon.com/images/I/311p6Jv2vUL._SL200_.jpg)](https://www.amazon.it/dp/B01NAASQ6C/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01NAASQ6C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

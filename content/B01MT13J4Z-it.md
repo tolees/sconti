@@ -22,6 +22,9 @@ Tienes [Lacoste Lerond BL 2 Cam  Sneaker Uomo  Nero  Black   39.5 EU](https://ww
 
 [![Lacoste Lerond BL 2 Cam  Sneaker Uomo  N](https://m.media-amazon.com/images/I/31Ril9qCLTL._SL200_.jpg)](https://www.amazon.it/dp/B01MT13J4Z/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01MT13J4Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

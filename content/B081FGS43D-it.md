@@ -22,6 +22,9 @@ Está [HP Color LaserJet Pro M283fdw  Stampante Wi-Fi Multifunzione  Fino a 21 p
 
 [![HP Color LaserJet Pro M283fdw  Stampante](https://m.media-amazon.com/images/I/41M5m830JqL._SL200_.jpg)](https://www.amazon.it/dp/B081FGS43D/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B081FGS43D/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [adidas Stan Smith  Scarpe Uomo  Bianco  Cloud White/Cloud White/Lush Red
 
 [![adidas Stan Smith  Scarpe Uomo  Bianco  ](https://m.media-amazon.com/images/I/316C4tGqnML._SL200_.jpg)](https://www.amazon.it/dp/B0813VVQ9M/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0813VVQ9M/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

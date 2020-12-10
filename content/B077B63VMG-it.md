@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein 3p Low Rise Trunk Boxer  Nero  Black W. Black W
 
 [![Calvin Klein 3p Low Rise Trunk Boxer  Ne](https://m.media-amazon.com/images/I/41JUiFjwxxL._SL200_.jpg)](https://www.amazon.it/dp/B077B63VMG/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B077B63VMG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

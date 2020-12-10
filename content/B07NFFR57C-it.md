@@ -22,6 +22,9 @@ Está [Daygum Protex Gomme da Masticare Senza Zucchero  Chewing Gum Gusto Menta 
 
 [![Daygum Protex Gomme da Masticare Senza Z](https://m.media-amazon.com/images/I/51nPSAnG3bL._SL200_.jpg)](https://www.amazon.it/dp/B07NFFR57C/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07NFFR57C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

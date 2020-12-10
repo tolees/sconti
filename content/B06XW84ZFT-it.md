@@ -22,6 +22,9 @@ Tienes [LE 15W Plafoniera LED  Lampada da Soffitto LED 1400lm  Lampada da Bagno 
 
 [![LE 15W Plafoniera LED  Lampada da Soffit](https://m.media-amazon.com/images/I/41W48mkcrYL._SL200_.jpg)](https://www.amazon.it/dp/B06XW84ZFT/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XW84ZFT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

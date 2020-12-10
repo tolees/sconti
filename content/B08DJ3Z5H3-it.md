@@ -22,6 +22,9 @@ Está [Yagte Hard Disk 2 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  MacBo
 
 [![Yagte Hard Disk 2 TB Esterno  Hard Disk ](https://m.media-amazon.com/images/I/31fsgk0rCaL._SL200_.jpg)](https://www.amazon.it/dp/B08DJ3Z5H3/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08DJ3Z5H3/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BURBERRY Brit Rhythm for Her Eau de Toilette Femme  90 ml spray](https://
 
 [![BURBERRY Brit Rhythm for Her Eau de Toil](https://m.media-amazon.com/images/I/41nOFZT50EL._SL200_.jpg)](https://www.amazon.it/dp/B00HSR0S1E/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00HSR0S1E/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

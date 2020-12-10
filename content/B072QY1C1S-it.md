@@ -22,6 +22,9 @@ Ahora mismo tienes [Fossil Orologio Da Polso Donna Ftw1202](https://www.amazon.i
 
 [![Fossil Orologio Da Polso Donna Ftw1202](https://m.media-amazon.com/images/I/41ctnxFRpBL._SL200_.jpg)](https://www.amazon.it/dp/B072QY1C1S/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B072QY1C1S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

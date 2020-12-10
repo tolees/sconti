@@ -22,6 +22,9 @@ Está [Girmi TR02 Tritatutto  250 W  Plastic  Bianco](https://www.amazon.it/dp/B
 
 [![Girmi TR02 Tritatutto  250 W  Plastic  B](https://m.media-amazon.com/images/I/41lWp7re8TL._SL200_.jpg)](https://www.amazon.it/dp/B01MQJUAGL/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01MQJUAGL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Collana con ciondolo rosa Swarovski zircone gioielli per donne ragazze id
 
 [![Collana con ciondolo rosa Swarovski zirc](https://m.media-amazon.com/images/I/41aA-3vlNZL._SL200_.jpg)](https://www.amazon.it/dp/B07DNBK93B/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07DNBK93B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

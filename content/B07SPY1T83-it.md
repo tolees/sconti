@@ -22,6 +22,9 @@ Está [Levi s Malibu Beach S  Sneaker Donna  Bianco  B White 50   38 EU](https:/
 
 [![Levi s Malibu Beach S  Sneaker Donna  Bi](https://m.media-amazon.com/images/I/31eVx7DGpyL._SL200_.jpg)](https://www.amazon.it/dp/B07SPY1T83/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SPY1T83/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

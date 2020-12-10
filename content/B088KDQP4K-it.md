@@ -22,6 +22,9 @@ Ahora mismo tienes [LK Pellicola Protettiva per Xiaomi Mi Note 10 Lite Pellicola
 
 [![LK Pellicola Protettiva per Xiaomi Mi No](https://m.media-amazon.com/images/I/51bMkQa92fL._SL200_.jpg)](https://www.amazon.it/dp/B088KDQP4K/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B088KDQP4K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

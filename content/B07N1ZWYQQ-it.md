@@ -22,6 +22,9 @@ Ahora mismo tienes [Diadora - Sneakers Jog Light C per Uomo e Donna  EU 44 ](htt
 
 [![Diadora - Sneakers Jog Light C per Uomo ](https://m.media-amazon.com/images/I/41hn7KCiT4L._SL200_.jpg)](https://www.amazon.it/dp/B07N1ZWYQQ/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07N1ZWYQQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Ralph Sampson Lo   Sneaker Unisex – Adulto  Bianco White-Peacoat W
 
 [![Puma Ralph Sampson Lo   Sneaker Unisex –](https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg)](https://www.amazon.it/dp/B07KG48NQC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07KG48NQC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

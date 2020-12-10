@@ -22,6 +22,9 @@ Está [Fitbit Ace 2  Activity Tracker Unisex Bambino  Rosso Anguria/Verde  Tagli
 
 [![Fitbit Ace 2  Activity Tracker Unisex Ba](https://m.media-amazon.com/images/I/31XSKd5n4BL._SL200_.jpg)](https://www.amazon.it/dp/B07M7PBCS2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07M7PBCS2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Game of Thronos - Replica Figura Drogon 33 cm  multicolore  Mc Farlane MC
 
 [![Game of Thronos - Replica Figura Drogon ](https://m.media-amazon.com/images/I/31q+q+37WkL._SL200_.jpg)](https://www.amazon.it/dp/B07NDYKDPH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07NDYKDPH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

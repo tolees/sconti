@@ -22,6 +22,9 @@ Tienes [Desigual Mone azabache Mini Zip Portafoglio da donna  Nero  Nero  Nero  
 
 [![Desigual Mone azabache Mini Zip Portafog](https://m.media-amazon.com/images/I/31iVdCqFyZL._SL200_.jpg)](https://www.amazon.it/dp/B07VGRW62L/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07VGRW62L/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

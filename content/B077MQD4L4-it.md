@@ -22,6 +22,9 @@ Está [Puma Smash V2 Scape per Sport Outdoor Unisex - Adulto  Nero  Puma Black  
 
 [![Puma Smash V2 Scape per Sport Outdoor Un](https://m.media-amazon.com/images/I/41k26gXY0cL._SL200_.jpg)](https://www.amazon.it/dp/B077MQD4L4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B077MQD4L4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

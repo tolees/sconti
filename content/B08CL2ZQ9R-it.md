@@ -22,6 +22,9 @@ Está [Smartphone 4G Android 10  Ulefone Note 8P Telefonia Mobile Cellulari 16GB
 
 [![Smartphone 4G Android 10  Ulefone Note 8](https://m.media-amazon.com/images/I/415d-OR-7CL._SL200_.jpg)](https://www.amazon.it/dp/B08CL2ZQ9R/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CL2ZQ9R/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

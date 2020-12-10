@@ -22,6 +22,9 @@ Ahora mismo tienes [Roffie Alimentatore Automatico per Cani e Gatti e Animali Do
 
 [![Roffie Alimentatore Automatico per Cani ](https://m.media-amazon.com/images/I/41JZR4bOQrL._SL200_.jpg)](https://www.amazon.it/dp/B08576ZQDW/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08576ZQDW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

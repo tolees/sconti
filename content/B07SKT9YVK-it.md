@@ -22,6 +22,9 @@ Está [YAMAY Smartwatch Orologio Fitness Uomo Donna Impermeabile IP68 Smart Watc
 
 [![YAMAY Smartwatch Orologio Fitness Uomo D](https://m.media-amazon.com/images/I/41Fo+6XM2bL._SL200_.jpg)](https://www.amazon.it/dp/B07SKT9YVK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SKT9YVK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

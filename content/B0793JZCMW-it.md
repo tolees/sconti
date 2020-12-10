@@ -22,6 +22,9 @@ Está [Saucony Jazz Original Vintage  Sneakers Uomo  Castlerock Teal 20  44.5 EU
 
 [![Saucony Jazz Original Vintage  Sneakers ](https://m.media-amazon.com/images/I/41ZBV3ezS8L._SL200_.jpg)](https://www.amazon.it/dp/B0793JZCMW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0793JZCMW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Audio-Technica ATHDSR7BT cuffia](https://www.amazon.it/dp/B06XY4TSGP/?tag
 
 [![Audio-Technica ATHDSR7BT cuffia](https://m.media-amazon.com/images/I/41H1iD34pmL._SL200_.jpg)](https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Cif Crema Limone Detergente per Superfici Dure  500 ml](http
 
 [![Cif Crema Limone Detergente per Superfic](https://m.media-amazon.com/images/I/41olZ4wFe4L._SL200_.jpg)](https://www.amazon.it/dp/B00KJH8POC/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00KJH8POC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

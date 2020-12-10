@@ -22,6 +22,9 @@ Está [Philips Sonicare ExpertClean 7300 HX9601/02 Spazzolino Elettrico con Tecn
 
 [![Philips Sonicare ExpertClean 7300 HX9601](https://m.media-amazon.com/images/I/41sm82p6olL._SL200_.jpg)](https://www.amazon.it/dp/B07S57QRPB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07S57QRPB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

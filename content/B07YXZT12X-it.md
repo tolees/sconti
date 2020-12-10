@@ -22,6 +22,9 @@ Está [HUAWEI Freebuds 3 Auricolare  Bluetooth  Bianco](https://www.amazon.it/dp
 
 [![HUAWEI Freebuds 3 Auricolare  Bluetooth ](https://m.media-amazon.com/images/I/319cPxI5VvL._SL200_.jpg)](https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

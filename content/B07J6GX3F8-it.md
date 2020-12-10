@@ -22,6 +22,9 @@ Tienes [Alex Perry Regalo Collana Donna Argento Punto Luce Collana Idee Regalo p
 
 [![Alex Perry Regalo Collana Donna Argento ](https://m.media-amazon.com/images/I/51O2Ol2KJRL._SL200_.jpg)](https://www.amazon.it/dp/B07J6GX3F8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07J6GX3F8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

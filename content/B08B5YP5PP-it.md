@@ -22,6 +22,9 @@ Tienes [Echo Plus  2ª generazione  - Tessuto antracite + Philips Hue White Lamp
 
 [![Echo Plus  2ª generazione  - Tessuto ant](https://m.media-amazon.com/images/I/41GDuQbAx+L._SL200_.jpg)](https://www.amazon.it/dp/B08B5YP5PP/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08B5YP5PP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

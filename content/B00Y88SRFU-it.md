@@ -22,6 +22,9 @@ Está [NIVEA Sun Protect & Hydrate Latte Solare Idratante FP20  Protezione Media
 
 [![NIVEA Sun Protect & Hydrate Latte Solare](https://m.media-amazon.com/images/I/41AEB1qMK3L._SL200_.jpg)](https://www.amazon.it/dp/B00Y88SRFU/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00Y88SRFU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

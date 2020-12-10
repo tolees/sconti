@@ -22,6 +22,9 @@ Tienes [Victure 1080P Baby Monitor Telecamera WiFi Interno  Telecamera IP per Ba
 
 [![Victure 1080P Baby Monitor Telecamera Wi](https://m.media-amazon.com/images/I/41+dFZvlPfL._SL200_.jpg)](https://www.amazon.it/dp/B07T96BQM8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07T96BQM8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

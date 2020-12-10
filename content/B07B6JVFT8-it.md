@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger X Bralette Brassière  Nero  Black 990   Medium Donna](ht
 
 [![Tommy Hilfiger X Bralette Brassière  Ner](https://m.media-amazon.com/images/I/41RkE-1zS9L._SL200_.jpg)](https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

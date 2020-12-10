@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Pillsbury  Sneaker Uomo  Bianco  Regular White 51   4
 
 [![Levi s Pillsbury  Sneaker Uomo  Bianco  ](https://m.media-amazon.com/images/I/31lBfuXIEYL._SL200_.jpg)](https://www.amazon.it/dp/B07SHYN1FX/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SHYN1FX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

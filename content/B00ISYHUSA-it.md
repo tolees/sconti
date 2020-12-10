@@ -22,6 +22,9 @@ Tienes [Set Accessori Aria Compressa Kit 8 Pneumatic Stanley](https://www.amazon
 
 [![Set Accessori Aria Compressa Kit 8 Pneum](https://m.media-amazon.com/images/I/51yknCYr8QL._SL200_.jpg)](https://www.amazon.it/dp/B00ISYHUSA/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00ISYHUSA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

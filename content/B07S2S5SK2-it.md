@@ -22,6 +22,9 @@ Está [Levi s Relaxed Graphic Hoodie Cappuccio  Nero  90 s Serif Logo Pop Minera
 
 [![Levi s Relaxed Graphic Hoodie Cappuccio ](https://m.media-amazon.com/images/I/41L3+OVvpuL._SL200_.jpg)](https://www.amazon.it/dp/B07S2S5SK2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07S2S5SK2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

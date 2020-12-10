@@ -22,6 +22,9 @@ Está [Homever Coltelli da cucina  Ceppo Coltelli  Coltelli da Chef Professional
 
 [![Homever Coltelli da cucina  Ceppo Coltel](https://m.media-amazon.com/images/I/41x9fDMiYFL._SL200_.jpg)](https://www.amazon.it/dp/B07FC9HBHX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07FC9HBHX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

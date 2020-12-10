@@ -22,6 +22,9 @@ Está [Vero Moda Vmava Plain SS Top Ga Noos T-Shirt  Bianco  Snow White Snow Whi
 
 [![Vero Moda Vmava Plain SS Top Ga Noos T-S](https://m.media-amazon.com/images/I/41Eov7TdHOL._SL200_.jpg)](https://www.amazon.it/dp/B0731KJGM2/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0731KJGM2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

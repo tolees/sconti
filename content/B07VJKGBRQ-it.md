@@ -22,6 +22,9 @@ Está [Calvin Klein 3p Trunk Boxer  Nero  B-Alligator/Grey Heather/Black Bal   S
 
 [![Calvin Klein 3p Trunk Boxer  Nero  B-All](https://m.media-amazon.com/images/I/31bzqpVgvTL._SL200_.jpg)](https://www.amazon.it/dp/B07VJKGBRQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VJKGBRQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

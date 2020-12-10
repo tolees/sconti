@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel Orologio Analogico Quarzo Uomo con Cinturino in Accia
 
 [![Diesel Orologio Analogico Quarzo Uomo co](https://m.media-amazon.com/images/I/311c043IW9L._SL200_.jpg)](https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

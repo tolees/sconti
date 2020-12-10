@@ -22,6 +22,9 @@ Tienes [Fruittella Good For You Mix Sport Bio  Snack di Frutta Secca e Disidrata
 
 [![Fruittella Good For You Mix Sport Bio  S](https://m.media-amazon.com/images/I/51HkryQICKL._SL200_.jpg)](https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

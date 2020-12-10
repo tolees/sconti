@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsung TV QE43LS03RAUXZT The Frame 2019 Cornice TV  4K 43" 
 
 [![Samsung TV QE43LS03RAUXZT The Frame 2019](https://m.media-amazon.com/images/I/518Loo90Y2L._SL200_.jpg)](https://www.amazon.it/dp/B07TD8ZS8N/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07TD8ZS8N/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

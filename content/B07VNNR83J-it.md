@@ -22,6 +22,9 @@ Tienes [Calvin Klein Medium Drawstring Pantaloncini  Bianco  PVH Classic White Y
 
 [![Calvin Klein Medium Drawstring Pantalonc](https://m.media-amazon.com/images/I/41DPJQZPAnL._SL200_.jpg)](https://www.amazon.it/dp/B07VNNR83J/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07VNNR83J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Calvin Klein Uomo - Boxer aderenti in confezione da 3 vita media - Cotto
 
 [![Calvin Klein Uomo - Boxer aderenti in co](https://m.media-amazon.com/images/I/31B8UbndPgL._SL200_.jpg)](https://www.amazon.it/dp/B00FWSZHBC/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00FWSZHBC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

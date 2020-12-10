@@ -22,6 +22,9 @@ Tienes [PUMA Ralph Sampson Lo  Sneakers Unisex-Adulto  Nero  Schwarz Black White
 
 [![PUMA Ralph Sampson Lo  Sneakers Unisex-A](https://m.media-amazon.com/images/I/411TpcPeJdL._SL200_.jpg)](https://www.amazon.it/dp/B07KG6Z71S/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KG6Z71S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Maybelline New York Superstay Matte Ink Rossetto Matte Liquido Tinta Lab
 
 [![Maybelline New York Superstay Matte Ink ](https://m.media-amazon.com/images/I/31WUUoxcNKL._SL200_.jpg)](https://www.amazon.it/dp/B073HBNC2D/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B073HBNC2D/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

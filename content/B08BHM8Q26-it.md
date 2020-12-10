@@ -22,6 +22,9 @@ Tienes [Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari Cancellazione del r
 
 [![Auricolari Bluetooth Cuffia Bluetooth 5.](https://m.media-amazon.com/images/I/41VxxyLXQvL._SL200_.jpg)](https://www.amazon.it/dp/B08BHM8Q26/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08BHM8Q26/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

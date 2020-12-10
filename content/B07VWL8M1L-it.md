@@ -22,6 +22,9 @@ Está [Tommy Jeans Tjm Chest Logo Tee Maglietta  Grigio  Lt Grey Htr P01   Large
 
 [![Tommy Jeans Tjm Chest Logo Tee Maglietta](https://m.media-amazon.com/images/I/41DATVQ-xsL._SL200_.jpg)](https://www.amazon.it/dp/B07VWL8M1L/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VWL8M1L/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

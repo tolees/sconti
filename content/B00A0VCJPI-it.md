@@ -22,6 +22,9 @@ Tienes [TP-Link TL-WA850RE Ripetitore Wireless Wifi Extender e Access Point  Vel
 
 [![TP-Link TL-WA850RE Ripetitore Wireless W](https://m.media-amazon.com/images/I/31eWvF+Z0-L._SL200_.jpg)](https://www.amazon.it/dp/B00A0VCJPI/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00A0VCJPI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Resident Evil Origins Collection - PlayStation 4](https://www.amazon.it/d
 
 [![Resident Evil Origins Collection - PlayS](https://m.media-amazon.com/images/I/51P7u+HYIRL._SL200_.jpg)](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

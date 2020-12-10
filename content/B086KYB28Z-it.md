@@ -22,6 +22,9 @@ Tienes [Aigostar Doreen 300109LYD - Macchina sottovuoto per alimenti freschi sia
 
 [![Aigostar Doreen 300109LYD - Macchina sot](https://m.media-amazon.com/images/I/51JlqoGA8KL._SL200_.jpg)](https://www.amazon.it/dp/B086KYB28Z/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B086KYB28Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s The Perfect Tee Maglietta  Bianco  90 s Serif T2 Mult
 
 [![Levi s The Perfect Tee Maglietta  Bianco](https://m.media-amazon.com/images/I/41Jlyo0uxwL._SL200_.jpg)](https://www.amazon.it/dp/B07TWBGL1R/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07TWBGL1R/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

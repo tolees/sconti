@@ -22,6 +22,9 @@ Ahora mismo tienes [Smartwatch Donna Uomo GOKOO Impermeabile Orologio Intelligen
 
 [![Smartwatch Donna Uomo GOKOO Impermeabile](https://m.media-amazon.com/images/I/51xgAdFSENL._SL200_.jpg)](https://www.amazon.it/dp/B082XYFGK1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B082XYFGK1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

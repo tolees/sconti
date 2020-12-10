@@ -22,6 +22,9 @@ Está [La Crema del Caffè - Aroma e Gusto  12 Astucci da 10 Capsule  Totale 120
 
 [![La Crema del Caffè - Aroma e Gusto  12 A](https://m.media-amazon.com/images/I/31gqkF09qgL._SL200_.jpg)](https://www.amazon.it/dp/B06XPK4GDY/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B06XPK4GDY/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

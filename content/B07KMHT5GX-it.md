@@ -22,6 +22,9 @@ Tienes [find. Round Toe Block Heel Leather Court Scarpe con Tacco  Blu Navy   36
 
 [![find. Round Toe Block Heel Leather Court](https://m.media-amazon.com/images/I/31MZx4O-IPL._SL200_.jpg)](https://www.amazon.it/dp/B07KMHT5GX/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KMHT5GX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

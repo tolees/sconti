@@ -22,6 +22,9 @@ Tienes [Cuffie Bluetooth  Auricolari Bluetooth5.0 Senza Fili Auricolari Wireless
 
 [![Cuffie Bluetooth  Auricolari Bluetooth5.](https://m.media-amazon.com/images/I/41EHEf2OdyL._SL200_.jpg)](https://www.amazon.it/dp/B0824VJ4GB/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0824VJ4GB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

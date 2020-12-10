@@ -22,6 +22,9 @@ Está [Logitech G604 LIGHTSPEED Mouse Gaming Wireless con 15 Controlli Programma
 
 [![Logitech G604 LIGHTSPEED Mouse Gaming Wi](https://m.media-amazon.com/images/I/41G+zo7Hq8L._SL200_.jpg)](https://www.amazon.it/dp/B07W6JKL78/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07W6JKL78/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

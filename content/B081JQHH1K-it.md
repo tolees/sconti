@@ -22,6 +22,9 @@ Está [Moleskine Classic Match Portafoglio in Pelle Pochette con Manico  Clutch 
 
 [![Moleskine Classic Match Portafoglio in P](https://m.media-amazon.com/images/I/41bNQGJQ0bL._SL200_.jpg)](https://www.amazon.it/dp/B081JQHH1K/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B081JQHH1K/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Foppapedretti Gulliver Stendibiancheria Pieghevole  Bianco](https://www.a
 
 [![Foppapedretti Gulliver Stendibiancheria ](https://m.media-amazon.com/images/I/319BysO5SrL._SL200_.jpg)](https://www.amazon.it/dp/B005D47PEC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B005D47PEC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

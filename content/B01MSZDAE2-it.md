@@ -22,6 +22,9 @@ Tienes [Fabuloso Ammorbidente Concentrato 1000 Vaniglia - [confezione da 6]](htt
 
 [![Fabuloso Ammorbidente Concentrato 1000 V](https://m.media-amazon.com/images/I/41itQBHhpdL._SL200_.jpg)](https://www.amazon.it/dp/B01MSZDAE2/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01MSZDAE2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

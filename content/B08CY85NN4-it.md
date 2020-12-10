@@ -22,6 +22,9 @@ Está [homcom Libreria Scaffale Portagiochi per Cameretta Bimbi e Ragazzi con Me
 
 [![homcom Libreria Scaffale Portagiochi per](https://m.media-amazon.com/images/I/31UNo3JaBqL._SL200_.jpg)](https://www.amazon.it/dp/B08CY85NN4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CY85NN4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

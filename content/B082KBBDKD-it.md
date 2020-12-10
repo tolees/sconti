@@ -22,6 +22,9 @@ Está [Aigostar Betty 31QUC – Ferro da stiro verticale 80ml  stiratore portati
 
 [![Aigostar Betty 31QUC – Ferro da stiro ve](https://m.media-amazon.com/images/I/31pkiTs-rBL._SL200_.jpg)](https://www.amazon.it/dp/B082KBBDKD/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B082KBBDKD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

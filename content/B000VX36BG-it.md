@@ -22,6 +22,9 @@ Tienes [Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone Rootbeer Smooth 
 
 [![Timberland Classic 2 Eye  Scarpe da Barc](https://m.media-amazon.com/images/I/41rlmDu11XL._SL200_.jpg)](https://www.amazon.it/dp/B000VX36BG/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B000VX36BG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

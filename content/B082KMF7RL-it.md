@@ -22,6 +22,9 @@ Ahora mismo tienes [Fajiabao Giochi Montessori Banco da Martellare in Legno per 
 
 [![Fajiabao Giochi Montessori Banco da Mart](https://m.media-amazon.com/images/I/51rpJG88wHL._SL200_.jpg)](https://www.amazon.it/dp/B082KMF7RL/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B082KMF7RL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

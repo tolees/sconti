@@ -22,6 +22,9 @@ Está [Calvin Klein Medium Drawstring Pantaloncini  Blu  Black Iris CBK   Uomo](
 
 [![Calvin Klein Medium Drawstring Pantalonc](https://m.media-amazon.com/images/I/41sMGSdKOZL._SL200_.jpg)](https://www.amazon.it/dp/B07VNNRZHF/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07VNNRZHF/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

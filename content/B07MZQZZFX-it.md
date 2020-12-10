@@ -22,6 +22,9 @@ Está [Vans Doheny  Scarpe da Ginnastica Uomo  Checkerboard Black Pewter Eo0  45
 
 [![Vans Doheny  Scarpe da Ginnastica Uomo  ](https://m.media-amazon.com/images/I/41h9RuSvfcL._SL200_.jpg)](https://www.amazon.it/dp/B07MZQZZFX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07MZQZZFX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

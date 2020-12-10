@@ -22,6 +22,9 @@ Ahora mismo tienes [Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Dress 
 
 [![Vans Filmore  Scarpe da Ginnastica Uomo ](https://m.media-amazon.com/images/I/41PJDLpWFNL._SL200_.jpg)](https://www.amazon.it/dp/B07BN1XGD6/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07BN1XGD6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

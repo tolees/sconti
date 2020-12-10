@@ -22,6 +22,9 @@ Está [Levi s Housemark Graphic Tee T-Shirt  Ssnl HM Outline White  Large Uomo](
 
 [![Levi s Housemark Graphic Tee T-Shirt  Ss](https://m.media-amazon.com/images/I/41ZX4sRL1UL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVQK3LV/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZVQK3LV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

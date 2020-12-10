@@ -22,6 +22,9 @@ Está [Polaroid Eyewear PLD 2062/S Occhiali da Sole  Matt HVNA  50 Uomo](https:/
 
 [![Polaroid Eyewear PLD 2062/S Occhiali da ](https://m.media-amazon.com/images/I/31rZSyIO66L._SL200_.jpg)](https://www.amazon.it/dp/B07B3WKRFM/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07B3WKRFM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

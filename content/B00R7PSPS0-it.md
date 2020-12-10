@@ -22,6 +22,9 @@ Está [Citizen Orologio Cronografo Quarzo Uomo con Cinturino in Pelle CA4210-16E
 
 [![Citizen Orologio Cronografo Quarzo Uomo ](https://m.media-amazon.com/images/I/51wqEI03GTL._SL200_.jpg)](https://www.amazon.it/dp/B00R7PSPS0/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00R7PSPS0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

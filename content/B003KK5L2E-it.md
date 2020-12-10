@@ -22,6 +22,9 @@ Está [Ray-Ban RB3025 Aviator Occhiali da Sole Unisex Adulto  Oro  Gold 001/3F  
 
 [![Ray-Ban RB3025 Aviator Occhiali da Sole ](https://m.media-amazon.com/images/I/31dTVa0qnQL._SL200_.jpg)](https://www.amazon.it/dp/B003KK5L2E/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B003KK5L2E/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

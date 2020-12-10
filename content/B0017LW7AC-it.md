@@ -22,6 +22,9 @@ Tienes [Guerlain Habit Rouge 21867 Acqua di Colonia spray 100 ml](https://www.am
 
 [![Guerlain Habit Rouge 21867 Acqua di Colo](https://m.media-amazon.com/images/I/41svMMx2f3L._SL200_.jpg)](https://www.amazon.it/dp/B0017LW7AC/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0017LW7AC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

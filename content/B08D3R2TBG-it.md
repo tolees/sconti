@@ -22,6 +22,9 @@ Está [Scrambler Ducati Monopattino elettrico Cross-E  nero e giallo  Taglia uni
 
 [![Scrambler Ducati Monopattino elettrico C](https://m.media-amazon.com/images/I/41qWyagDmdL._SL200_.jpg)](https://www.amazon.it/dp/B08D3R2TBG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08D3R2TBG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Auricolari Senza Fili Bluetooth 5.0 IPX8 Impermeabile Accoppiamento autom
 
 [![Auricolari Senza Fili Bluetooth 5.0 IPX8](https://m.media-amazon.com/images/I/41GuC0NhraL._SL200_.jpg)](https://www.amazon.it/dp/B08GQMV2HJ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08GQMV2HJ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

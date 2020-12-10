@@ -22,6 +22,9 @@ Está [Hot Mom Barriera letto extra-large 150 cm  dark green ](https://www.amazo
 
 [![Hot Mom Barriera letto extra-large 150 c](https://m.media-amazon.com/images/I/4151Bxx0yFL._SL200_.jpg)](https://www.amazon.it/dp/B08977CRLX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08977CRLX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

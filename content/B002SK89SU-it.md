@@ -22,6 +22,9 @@ Está [Tovagliette all Americana Parisian Scenes di Pimpernel - Set di 4  Grandi
 
 [![Tovagliette all Americana Parisian Scene](https://m.media-amazon.com/images/I/61NN5AtrKML._SL200_.jpg)](https://www.amazon.it/dp/B002SK89SU/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B002SK89SU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

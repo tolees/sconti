@@ -22,6 +22,9 @@ Ahora mismo tienes [Asmodee 8731-Blood Rage: Dèi di Asgard  Ed. Italiana  8731]
 
 [![Asmodee 8731-Blood Rage: Dèi di Asgard  ](https://m.media-amazon.com/images/I/51N4hO+aBLL._SL200_.jpg)](https://www.amazon.it/dp/B01N8OOB5J/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01N8OOB5J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [18 Pezzi Pennelli Trucco Set di Pennelli Trucco Con Custodia da Viaggio M
 
 [![18 Pezzi Pennelli Trucco Set di Pennelli](https://m.media-amazon.com/images/I/41HbdD+5stL._SL200_.jpg)](https://www.amazon.it/dp/B07Z7C2Y9Z/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07Z7C2Y9Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

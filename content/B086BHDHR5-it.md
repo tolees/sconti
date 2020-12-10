@@ -22,6 +22,9 @@ Está [LG 34WN750 Monitor 34" QuadHD UltraWide 21:9 LED IPS HDR  3440x1440  Rade
 
 [![LG 34WN750 Monitor 34" QuadHD UltraWide ](https://m.media-amazon.com/images/I/41OSij5uaEL._SL200_.jpg)](https://www.amazon.it/dp/B086BHDHR5/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B086BHDHR5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

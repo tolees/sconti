@@ -22,6 +22,9 @@ Tienes [HP - Gaming Omen 400 Mouse Gaming  6 Tasti Programmabili  DPI da 1600 a 
 
 [![HP - Gaming Omen 400 Mouse Gaming  6 Tas](https://m.media-amazon.com/images/I/31ra3U628NL._SL200_.jpg)](https://www.amazon.it/dp/B07DZ62JRZ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DZ62JRZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

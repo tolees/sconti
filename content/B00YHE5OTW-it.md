@@ -22,6 +22,9 @@ Ahora mismo tienes [Smac - Sgrassatore Trigger Cucina Limone - 650ml x 12 pezzi 
 
 [![Smac - Sgrassatore Trigger Cucina Limone](https://m.media-amazon.com/images/I/515sV-ObKAL._SL200_.jpg)](https://www.amazon.it/dp/B00YHE5OTW/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00YHE5OTW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

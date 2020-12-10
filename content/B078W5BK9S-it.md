@@ -22,6 +22,9 @@ Ahora mismo tienes [Vano portaoggetti secondario da bracciolo per auto  colore n
 
 [![Vano portaoggetti secondario da bracciol](https://m.media-amazon.com/images/I/51c9dDBpAwL._SL200_.jpg)](https://www.amazon.it/dp/B078W5BK9S/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B078W5BK9S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

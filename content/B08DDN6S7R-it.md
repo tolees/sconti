@@ -22,6 +22,9 @@ Tienes [Dash Detersivo Lavatrice Liquido Primavera  Formato Convenienza 95 Lavag
 
 [![Dash Detersivo Lavatrice Liquido Primave](https://m.media-amazon.com/images/I/51UUa9ovD5L._SL200_.jpg)](https://www.amazon.it/dp/B08DDN6S7R/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08DDN6S7R/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

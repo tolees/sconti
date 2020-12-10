@@ -22,6 +22,9 @@ Está [Purificatore d Aria Portatile con Filtro HEPA  USB Desktop Filtro dell Ar
 
 [![Purificatore d Aria Portatile con Filtro](https://m.media-amazon.com/images/I/41vRb0pyPIL._SL200_.jpg)](https://www.amazon.it/dp/B07WZWXDYQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07WZWXDYQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

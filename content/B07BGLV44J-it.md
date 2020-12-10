@@ -22,6 +22,9 @@ Tienes [HyperX Impact DDR4 HX432S20IB2K2/16 Memoria  3200 MHz  CL20 SODIMM  16 G
 
 [![HyperX Impact DDR4 HX432S20IB2K2/16 Memo](https://m.media-amazon.com/images/I/41Fm712y+8L._SL200_.jpg)](https://www.amazon.it/dp/B07BGLV44J/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07BGLV44J/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

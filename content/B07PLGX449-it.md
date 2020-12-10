@@ -22,6 +22,9 @@ Tienes [BLADE HAWKS Tappetino Mouse Gaming  RGB Gaming Tappetino per Mouse di Gr
 
 [![BLADE HAWKS Tappetino Mouse Gaming  RGB ](https://m.media-amazon.com/images/I/41gLdAVJPCL._SL200_.jpg)](https://www.amazon.it/dp/B07PLGX449/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07PLGX449/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

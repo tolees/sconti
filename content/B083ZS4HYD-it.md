@@ -22,6 +22,9 @@ Tienes [SanDisk Ultra Fit Unità Flash  USB 3.1 da 512 GB con Velocità fino a 1
 
 [![SanDisk Ultra Fit Unità Flash  USB 3.1 d](https://m.media-amazon.com/images/I/415zTxPFnfL._SL200_.jpg)](https://www.amazon.it/dp/B083ZS4HYD/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B083ZS4HYD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

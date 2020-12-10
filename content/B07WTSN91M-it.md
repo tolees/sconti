@@ -22,6 +22,9 @@ Ahora mismo tienes [TopMate Batteria Esterna da 10000 mAh per Caricabatterie Por
 
 [![TopMate Batteria Esterna da 10000 mAh pe](https://m.media-amazon.com/images/I/31y6wTycRYL._SL200_.jpg)](https://www.amazon.it/dp/B07WTSN91M/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07WTSN91M/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Blu  Navy Blazer   Larg
 
 [![JACK & JONES Jjebasic Knit Crew Neck Noo](https://m.media-amazon.com/images/I/316upk7s1nL._SL200_.jpg)](https://www.amazon.it/dp/B07C635HZZ/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07C635HZZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

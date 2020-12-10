@@ -22,6 +22,9 @@ Ahora mismo tienes [ASICS Patriot 11  Scarpe da Corsa Uomo  Nero  Black/White 00
 
 [![ASICS Patriot 11  Scarpe da Corsa Uomo  ](https://m.media-amazon.com/images/I/41rjwjyKiJL._SL200_.jpg)](https://www.amazon.it/dp/B07L346ZRD/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07L346ZRD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

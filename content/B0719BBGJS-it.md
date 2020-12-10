@@ -22,6 +22,9 @@ Ahora mismo tienes [Lacoste Sport TH0123 T-Shirt  Nero  Noir   Large  Taglia Pro
 
 [![Lacoste Sport TH0123 T-Shirt  Nero  Noir](https://m.media-amazon.com/images/I/41dqoFne9SL._SL200_.jpg)](https://www.amazon.it/dp/B0719BBGJS/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0719BBGJS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

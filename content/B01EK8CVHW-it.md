@@ -22,6 +22,9 @@ Tienes [TP-Link M7350 Mobile Router Hotspot Portatile  4G LTE Cat4 150Mbps  SIM 
 
 [![TP-Link M7350 Mobile Router Hotspot Port](https://m.media-amazon.com/images/I/41DGkbWVMSL._SL200_.jpg)](https://www.amazon.it/dp/B01EK8CVHW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01EK8CVHW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

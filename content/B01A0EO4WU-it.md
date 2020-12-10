@@ -22,6 +22,9 @@ Ahora mismo tienes [Hotpoint CS1A 300 H  Congelatore Orizziontale  Libera Instal
 
 [![Hotpoint CS1A 300 H  Congelatore Orizzio](https://m.media-amazon.com/images/I/31ATHyG4x4L._SL200_.jpg)](https://www.amazon.it/dp/B01A0EO4WU/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01A0EO4WU/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

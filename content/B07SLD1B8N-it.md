@@ -22,6 +22,9 @@ Está [Equilibra - Pappa Reale Fresca](https://www.amazon.it/dp/B07SLD1B8N/?tag=
 
 [![Equilibra - Pappa Reale Fresca](https://m.media-amazon.com/images/I/51V5dliZH+L._SL200_.jpg)](https://www.amazon.it/dp/B07SLD1B8N/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07SLD1B8N/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [JBL CLIP 3 Speaker Wireless Bluetooth  Altoparlante Portatile Impermeabil
 
 [![JBL CLIP 3 Speaker Wireless Bluetooth  A](https://m.media-amazon.com/images/I/41IHvp0cp0L._SL200_.jpg)](https://www.amazon.it/dp/B07B9LL9NQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07B9LL9NQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

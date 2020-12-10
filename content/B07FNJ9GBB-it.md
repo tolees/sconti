@@ -22,6 +22,9 @@ Está [The North Face W TBL Sport Jkt  Piumino Donna  Blu  Urban Navy   XS](http
 
 [![The North Face W TBL Sport Jkt  Piumino ](https://m.media-amazon.com/images/I/41mLLxJ3pPL._SL200_.jpg)](https://www.amazon.it/dp/B07FNJ9GBB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07FNJ9GBB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

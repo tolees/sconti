@@ -22,6 +22,9 @@ Está [AZ Ricerca Dentifricio Pro-Expert Prevenzione Superiore  Confezione da 6 
 
 [![AZ Ricerca Dentifricio Pro-Expert Preven](https://m.media-amazon.com/images/I/51bQrdDLddL._SL200_.jpg)](https://www.amazon.it/dp/B08BS67QM7/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08BS67QM7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Calvin Klein CK Adj.Logo Belt 3.5cm Cintura  Nero  Black Leather & Light
 
 [![Calvin Klein CK Adj.Logo Belt 3.5cm Cint](https://m.media-amazon.com/images/I/31xV9dW8BvL._SL200_.jpg)](https://www.amazon.it/dp/B07QWV47VL/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07QWV47VL/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

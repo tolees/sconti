@@ -22,6 +22,9 @@ Está [Lacoste Th3377 T-Shirt  Bianco  Blanc/Noir Au8   Medium  Taglia Produttor
 
 [![Lacoste Th3377 T-Shirt  Bianco  Blanc/No](https://m.media-amazon.com/images/I/31LZF54bnuL._SL200_.jpg)](https://www.amazon.it/dp/B07JWX7RN5/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07JWX7RN5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

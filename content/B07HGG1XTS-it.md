@@ -22,6 +22,9 @@ Ahora mismo tienes [JBL Tune500BT Cuffie Wireless Sovraurali con funzione Multip
 
 [![JBL Tune500BT Cuffie Wireless Sovraurali](https://m.media-amazon.com/images/I/31TYK107uHL._SL200_.jpg)](https://www.amazon.it/dp/B07HGG1XTS/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07HGG1XTS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

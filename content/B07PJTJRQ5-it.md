@@ -22,6 +22,9 @@ Tienes [Momo Design Monaco 65 Monopattino Elettrico  Velocità massima 25km/h co
 
 [![Momo Design Monaco 65 Monopattino Elettr](https://m.media-amazon.com/images/I/318kPZ0PelL._SL200_.jpg)](https://www.amazon.it/dp/B07PJTJRQ5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07PJTJRQ5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

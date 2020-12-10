@@ -22,6 +22,9 @@ Ahora mismo tienes [VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido  Maxi Form
 
 [![VIAKAL Detersivo Anticalcare Bagno 3 in ](https://m.media-amazon.com/images/I/41GJOt+HSAL._SL200_.jpg)](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

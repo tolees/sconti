@@ -22,6 +22,9 @@ Está [Synology DiskStation DS220j - Server NAS a 2 vani e 2 dischi rigidi da 2 
 
 [![Synology DiskStation DS220j - Server NAS](https://m.media-amazon.com/images/I/31j7ufMVeTL._SL200_.jpg)](https://www.amazon.it/dp/B085S87YDX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B085S87YDX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

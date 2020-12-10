@@ -22,6 +22,9 @@ Ahora mismo tienes [Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]](h
 
 [![Colussi Gran Turchese Biscotti Gr.400 - ](https://m.media-amazon.com/images/I/51ol-NT73IL._SL200_.jpg)](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

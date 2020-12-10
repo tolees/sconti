@@ -22,6 +22,9 @@ Tienes [Clarks Tri Solar  Scarpe da Ginnastica Basse Uomo  Nero  Black Leather B
 
 [![Clarks Tri Solar  Scarpe da Ginnastica B](https://m.media-amazon.com/images/I/31T+YKi7ioL._SL200_.jpg)](https://www.amazon.it/dp/B07MFM1W4Z/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07MFM1W4Z/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

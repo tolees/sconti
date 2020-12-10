@@ -22,6 +22,9 @@ Tienes [Philips Sonicare HX9903/13 DiamondClean Smart  Spazzolino Elettrico con 
 
 [![Philips Sonicare HX9903/13 DiamondClean ](https://m.media-amazon.com/images/I/41TxxQPVW6L._SL200_.jpg)](https://www.amazon.it/dp/B075JGJJSV/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B075JGJJSV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

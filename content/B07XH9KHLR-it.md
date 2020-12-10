@@ -22,6 +22,9 @@ Está [HUAWEI Watch GT 2 Smartwatch 46 mm  Durata Batteria fino a 2 Settimane  G
 
 [![HUAWEI Watch GT 2 Smartwatch 46 mm  Dura](https://m.media-amazon.com/images/I/41TNZqAgSmL._SL200_.jpg)](https://www.amazon.it/dp/B07XH9KHLR/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07XH9KHLR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

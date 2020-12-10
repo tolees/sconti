@@ -22,6 +22,9 @@ Está [Windows 10 Professional 32/64 bit | Chiave di licenza originale | Garanzi
 
 [![Windows 10 Professional 32/64 bit | Chia](https://m.media-amazon.com/images/I/41YvCKCxluL._SL200_.jpg)](https://www.amazon.it/dp/B08DVF386B/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08DVF386B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

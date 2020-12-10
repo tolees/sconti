@@ -22,6 +22,9 @@ Está [adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  S](https://www.amazon.
 
 [![adidas Lock Up TP  Pantaloni Sportivi Uo](https://m.media-amazon.com/images/I/31Y+nuGw1pL._SL200_.jpg)](https://www.amazon.it/dp/B081TV1NTX/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B081TV1NTX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

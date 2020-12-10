@@ -22,6 +22,9 @@ Está [Tiralatte elettrico  pompa per allattamento al seno ricaricabile a doppia
 
 [![Tiralatte elettrico  pompa per allattame](https://m.media-amazon.com/images/I/41iII1uqoAL._SL200_.jpg)](https://www.amazon.it/dp/B07MTXGXKB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07MTXGXKB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

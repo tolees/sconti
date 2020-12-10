@@ -22,6 +22,9 @@ Está [Saucony Jazz Original Vintage  Sneakers Uomo  Blu Nvy Gld 22  44.5 EU](ht
 
 [![Saucony Jazz Original Vintage  Sneakers ](https://m.media-amazon.com/images/I/41hUtN89CVL._SL200_.jpg)](https://www.amazon.it/dp/B0793JVKKK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0793JVKKK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

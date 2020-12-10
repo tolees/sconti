@@ -22,6 +22,9 @@ Tienes [Samsung C27RG50 Monitor Gaming Curvo  27 Pollici  240 Hz  G-sync  FHD  1
 
 [![Samsung C27RG50 Monitor Gaming Curvo  27](https://m.media-amazon.com/images/I/41bP8tyR85L._SL200_.jpg)](https://www.amazon.it/dp/B07T2Y5ZG7/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07T2Y5ZG7/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

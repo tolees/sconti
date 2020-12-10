@@ -22,6 +22,9 @@ Está [Kingston KC600 SSD  SKC600/256 G  Interne SSD  2.5" SATA Rev 3.0  3D TLC 
 
 [![Kingston KC600 SSD  SKC600/256 G  Intern](https://m.media-amazon.com/images/I/31DFVnY5YML._SL200_.jpg)](https://www.amazon.it/dp/B07ZDBZDR9/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZDBZDR9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

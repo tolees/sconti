@@ -22,6 +22,9 @@ Ahora mismo tienes [BEAUTURAL Manicure e Pedicure Elettrico Professionale Kit  P
 
 [![BEAUTURAL Manicure e Pedicure Elettrico ](https://m.media-amazon.com/images/I/41LgyN7cxCL._SL200_.jpg)](https://www.amazon.it/dp/B07D538TWK/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07D538TWK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

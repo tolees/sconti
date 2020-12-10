@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 373 Core  Sneaker Uomo  Verde  Green/White Cb2 ]
 
 [![New Balance 373 Core  Sneaker Uomo  Verd](https://m.media-amazon.com/images/I/316jVPbek9L._SL200_.jpg)](https://www.amazon.it/dp/B07S2QMG8D/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07S2QMG8D/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

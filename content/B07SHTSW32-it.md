@@ -22,6 +22,9 @@ Tienes [Havaianas Urban Basic II  Infradito Uomo  Marrone  Dark Brown 0727   39/
 
 [![Havaianas Urban Basic II  Infradito Uomo](https://m.media-amazon.com/images/I/31+tdPlABFL._SL200_.jpg)](https://www.amazon.it/dp/B07SHTSW32/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07SHTSW32/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

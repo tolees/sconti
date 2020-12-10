@@ -22,6 +22,9 @@ Está [Geox D BIBBIANA A  Scarpe con Tacco Donna  Nero  Black C9997   35 EU](htt
 
 [![Geox D BIBBIANA A  Scarpe con Tacco Donn](https://m.media-amazon.com/images/I/31sqD9v5wVL._SL200_.jpg)](https://www.amazon.it/dp/B07LFZC6JC/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07LFZC6JC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

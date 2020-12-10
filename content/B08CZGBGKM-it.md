@@ -22,6 +22,9 @@ Ahora mismo tienes [Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB 3.1 Type
 
 [![Riyth Hard Disk 1 TB Esterno  Hard Disk ](https://m.media-amazon.com/images/I/31mRLdTc6IL._SL200_.jpg)](https://www.amazon.it/dp/B08CZGBGKM/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B08CZGBGKM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

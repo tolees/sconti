@@ -22,6 +22,9 @@ Tienes [Alessi AKK80/13 Mini Girotondo - Sottobicchiere anti-umidità in acciaio
 
 [![Alessi AKK80/13 Mini Girotondo - Sottobi](https://m.media-amazon.com/images/I/41clySx4NnL._SL200_.jpg)](https://www.amazon.it/dp/B004F7OI7U/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B004F7OI7U/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

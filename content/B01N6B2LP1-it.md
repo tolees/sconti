@@ -22,6 +22,9 @@ Está [Brita Aluna - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ In
 
 [![Brita Aluna - Caraffa Filtrante per Acqu](https://m.media-amazon.com/images/I/31XlgaQtV-L._SL200_.jpg)](https://www.amazon.it/dp/B01N6B2LP1/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01N6B2LP1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

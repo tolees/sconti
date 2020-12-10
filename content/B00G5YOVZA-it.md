@@ -22,6 +22,9 @@ Ahora mismo tienes [De Longhi Nespresso Inissia EN80.B Macchina per caffè espre
 
 [![De Longhi Nespresso Inissia EN80.B Macch](https://m.media-amazon.com/images/I/51WUZ8jNBRL._SL200_.jpg)](https://www.amazon.it/dp/B00G5YOVZA/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00G5YOVZA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

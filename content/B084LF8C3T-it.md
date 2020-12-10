@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsung Galaxy S20 Smartphone  Display 6.2" Dynamic AMOLED 2
 
 [![Samsung Galaxy S20 Smartphone  Display 6](https://m.media-amazon.com/images/I/41KNitaaI6L._SL200_.jpg)](https://www.amazon.it/dp/B084LF8C3T/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B084LF8C3T/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

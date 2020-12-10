@@ -22,6 +22,9 @@ Tienes [Timberland Adventure 2.0 Cupsole Chukka  Stivali Uomo  Nero  Black Nubuc
 
 [![Timberland Adventure 2.0 Cupsole Chukka ](https://m.media-amazon.com/images/I/31FTyr4k6WL._SL200_.jpg)](https://www.amazon.it/dp/B01N5DL3F6/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N5DL3F6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

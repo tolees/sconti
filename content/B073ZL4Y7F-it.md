@@ -22,6 +22,9 @@ Tienes [Nespresso Essenza Mini De Longhi EN85.R Macchine del Caffe  1370 watt  R
 
 [![Nespresso Essenza Mini De Longhi EN85.R ](https://m.media-amazon.com/images/I/418D4GdQbgL._SL200_.jpg)](https://www.amazon.it/dp/B073ZL4Y7F/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B073ZL4Y7F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

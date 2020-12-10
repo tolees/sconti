@@ -22,6 +22,9 @@ Está [Havaianas Brasil Logo  Infradito Unisex-Bambini  Blu  Navy Blue 0555   25
 
 [![Havaianas Brasil Logo  Infradito Unisex-](https://m.media-amazon.com/images/I/31fDVZH8LnL._SL200_.jpg)](https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

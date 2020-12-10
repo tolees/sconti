@@ -22,6 +22,9 @@ Está [Reebok Classic Leather  Scarpe da Fitness Uomo  Nero  43 EU](https://www.
 
 [![Reebok Classic Leather  Scarpe da Fitnes](https://m.media-amazon.com/images/I/41uVy5qTHkL._SL200_.jpg)](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

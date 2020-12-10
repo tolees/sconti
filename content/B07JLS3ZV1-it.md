@@ -22,6 +22,9 @@ Ahora mismo tienes [PLAYMOBIL 70150 - COVO DEI PIRATI PORTATILE](https://www.ama
 
 [![PLAYMOBIL 70150 - COVO DEI PIRATI PORTAT](https://m.media-amazon.com/images/I/51TKZdOTYSL._SL200_.jpg)](https://www.amazon.it/dp/B07JLS3ZV1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07JLS3ZV1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

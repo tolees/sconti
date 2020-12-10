@@ -22,6 +22,9 @@ Tienes [Burton Formula  Guanti Uomo  True Black  L](https://www.amazon.it/dp/B06
 
 [![Burton Formula  Guanti Uomo  True Black ](https://m.media-amazon.com/images/I/418YVHjLMWL._SL200_.jpg)](https://www.amazon.it/dp/B06XCPPQSW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XCPPQSW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

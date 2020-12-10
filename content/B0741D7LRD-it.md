@@ -22,6 +22,9 @@ Está [Princess Friggitrice ad Aria Calda Family XXL 182050  1700 watt  5.2 litr
 
 [![Princess Friggitrice ad Aria Calda Famil](https://m.media-amazon.com/images/I/41AQ3llQwEL._SL200_.jpg)](https://www.amazon.it/dp/B0741D7LRD/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B0741D7LRD/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

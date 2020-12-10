@@ -22,6 +22,9 @@ Tienes [Scotch Nastro Adesivo 3M  Trasparente Acrilico  15 mm x 33 m  Confezione
 
 [![Scotch Nastro Adesivo 3M  Trasparente Ac](https://m.media-amazon.com/images/I/31RRjtf-kcL._SL200_.jpg)](https://www.amazon.it/dp/B000KJPAZ6/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B000KJPAZ6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

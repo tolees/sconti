@@ -22,6 +22,9 @@ Tienes [HEYB Cover Xiaomi Redmi 9C Custodia Premium Vera Pelle Flip Custodia a L
 
 [![HEYB Cover Xiaomi Redmi 9C Custodia Prem](https://m.media-amazon.com/images/I/61U6vdkAfWL._SL200_.jpg)](https://www.amazon.it/dp/B08GSS4M3B/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B08GSS4M3B/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

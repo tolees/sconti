@@ -22,6 +22,9 @@ Está [Jolly pastelli Crazy scatola in cartone 3000-0503 -12-3000-0503](https://
 
 [![Jolly pastelli Crazy scatola in cartone ](https://m.media-amazon.com/images/I/51tbizpfsTL._SL200_.jpg)](https://www.amazon.it/dp/B01ETOULF6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01ETOULF6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

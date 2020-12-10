@@ -22,6 +22,9 @@ Está [Lark & Ro Stretch Poplin 3/4 Sleeve Shirt Dress-Shirts  French Blue  US 2
 
 [![Lark & Ro Stretch Poplin 3/4 Sleeve Shir](https://m.media-amazon.com/images/I/31qZ6160pwL._SL200_.jpg)](https://www.amazon.it/dp/B07PR21YDZ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07PR21YDZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

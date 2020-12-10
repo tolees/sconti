@@ -22,6 +22,9 @@ Está [Chicco Next2Me Dream Culla Fianco Letto  0 m+  Grigio](https://www.amazon
 
 [![Chicco Next2Me Dream Culla Fianco Letto ](https://m.media-amazon.com/images/I/41maWoNvOFL._SL200_.jpg)](https://www.amazon.it/dp/B07GJGKMVR/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07GJGKMVR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Pantene Pro-V Shampoo Rigenera & Protegge per Capelli Deboli
 
 [![Pantene Pro-V Shampoo Rigenera & Protegg](https://m.media-amazon.com/images/I/41fxhxZ2iVL._SL200_.jpg)](https://www.amazon.it/dp/B084W8JFFH/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B084W8JFFH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

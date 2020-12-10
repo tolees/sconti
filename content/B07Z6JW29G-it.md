@@ -22,6 +22,9 @@ Tienes [TIBEK Tritatutto da Cucina Elettrico 200W Grattugia Elettrica con 5 Acce
 
 [![TIBEK Tritatutto da Cucina Elettrico 200](https://m.media-amazon.com/images/I/51IdOKk-P0L._SL200_.jpg)](https://www.amazon.it/dp/B07Z6JW29G/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07Z6JW29G/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

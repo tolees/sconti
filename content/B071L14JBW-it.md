@@ -22,6 +22,9 @@ Está [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black Black 9  40.
 
 [![Saucony Jazz Original Vintage  Sneakers ](https://m.media-amazon.com/images/I/319w9U7ffiL._SL200_.jpg)](https://www.amazon.it/dp/B071L14JBW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B071L14JBW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

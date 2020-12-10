@@ -22,6 +22,9 @@ Ahora mismo tienes [KingDian 2 5 pollici SATA III 1TB 3D NAND Performance SSD in
 
 [![KingDian 2 5 pollici SATA III 1TB 3D NAN](https://m.media-amazon.com/images/I/41Mm8TGxF-L._SL200_.jpg)](https://www.amazon.it/dp/B07H5DHKK2/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07H5DHKK2/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Nike Downshifter 9  Scarpe da Corsa Uomo  Black/White/Particle Grey/Dk Sm
 
 [![Nike Downshifter 9  Scarpe da Corsa Uomo](https://m.media-amazon.com/images/I/41iJWZFDIhL._SL200_.jpg)](https://www.amazon.it/dp/B07RFNNDJQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07RFNNDJQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

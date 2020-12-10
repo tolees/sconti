@@ -22,6 +22,9 @@ Está [HNOOM Supporto Telefono  Supporto Tablet da Tavolo  Supporto per Cellular
 
 [![HNOOM Supporto Telefono  Supporto Tablet](https://m.media-amazon.com/images/I/41lwb03ZXML._SL200_.jpg)](https://www.amazon.it/dp/B08GCK5DTV/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08GCK5DTV/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

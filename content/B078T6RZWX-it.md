@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Essential TH Beach Sandal  Infradito Uomo  Nero  Black 99
 
 [![Tommy Hilfiger Essential TH Beach Sandal](https://m.media-amazon.com/images/I/31Noc4BxwXL._SL200_.jpg)](https://www.amazon.it/dp/B078T6RZWX/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B078T6RZWX/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

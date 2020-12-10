@@ -22,6 +22,9 @@ Está [Maybelline New York Mascara Ciglia Sensazionali  Volumizzante  Effetto Ve
 
 [![Maybelline New York Mascara Ciglia Sensa](https://m.media-amazon.com/images/I/31akYcnm1PL._SL200_.jpg)](https://www.amazon.it/dp/B01E3ETMUW/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01E3ETMUW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

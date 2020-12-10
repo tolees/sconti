@@ -22,6 +22,9 @@ Está [NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo](https://www.amaz
 
 [![NAPAPIJRI Avio Giacca  Rosso  Red Scarle](https://m.media-amazon.com/images/I/41yhBh6YzNL._SL200_.jpg)](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

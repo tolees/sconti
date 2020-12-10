@@ -22,6 +22,9 @@ Está [Imetec ZeroCalc Ferro da Stiro Z1 2500  Tecnologia Anticalcare  Piastra I
 
 [![Imetec ZeroCalc Ferro da Stiro Z1 2500  ](https://m.media-amazon.com/images/I/417UP3hKZwL._SL200_.jpg)](https://www.amazon.it/dp/B07CKY9SNZ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07CKY9SNZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

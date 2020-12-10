@@ -22,6 +22,9 @@ Tienes [BIC Comfort 2 - Rasoio da uomo  1 confezione da 10+5 pezzi](https://www.
 
 [![BIC Comfort 2 - Rasoio da uomo  1 confez](https://m.media-amazon.com/images/I/416YpkssGqL._SL200_.jpg)](https://www.amazon.it/dp/B00ESXJXFI/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00ESXJXFI/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

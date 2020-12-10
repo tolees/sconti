@@ -22,6 +22,9 @@ Tienes [Spazzolino Elettrici Sonic con 6 Modalità Opzionali 3 Spazzolini Testin
 
 [![Spazzolino Elettrici Sonic con 6 Modalit](https://m.media-amazon.com/images/I/51W8o+BQwBL._SL200_.jpg)](https://www.amazon.it/dp/B07QDL1ZQ4/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07QDL1ZQ4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

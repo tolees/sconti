@@ -22,6 +22,9 @@ Está [Diadora - Sneakers Camaro per Uomo e Donna  EU 38.5 ](https://www.amazon.
 
 [![Diadora - Sneakers Camaro per Uomo e Don](https://m.media-amazon.com/images/I/41nQ1lSJ3pL._SL200_.jpg)](https://www.amazon.it/dp/B07L1L62LB/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07L1L62LB/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

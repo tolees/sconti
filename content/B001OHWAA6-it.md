@@ -22,6 +22,9 @@ Está [Gran Cereale Biscotti Gran Cereale al Cioccolato  Biscotti dal Gusto Pien
 
 [![Gran Cereale Biscotti Gran Cereale al Ci](https://m.media-amazon.com/images/I/51zKxqJdHJL._SL200_.jpg)](https://www.amazon.it/dp/B001OHWAA6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B001OHWAA6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

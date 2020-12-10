@@ -22,6 +22,9 @@ Tienes [Lark & Ro Stretch Poplin Shirt Dress-Shirts  Cruz V2 Fresh Foam  US 8  E
 
 [![Lark & Ro Stretch Poplin Shirt Dress-Shi](https://m.media-amazon.com/images/I/31S-t5pA3ZL._SL200_.jpg)](https://www.amazon.it/dp/B07PR1Z5D5/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07PR1Z5D5/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

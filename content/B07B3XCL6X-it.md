@@ -22,6 +22,9 @@ Está [Polaroid Eyewear PLD 6041/S Occhiali da Sole  Black  56 Unisex Adulto](ht
 
 [![Polaroid Eyewear PLD 6041/S Occhiali da ](https://m.media-amazon.com/images/I/31jJ2PeC5TL._SL200_.jpg)](https://www.amazon.it/dp/B07B3XCL6X/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07B3XCL6X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

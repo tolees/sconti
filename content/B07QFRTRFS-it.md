@@ -22,6 +22,9 @@ Está [Pesoforma Barrette Tre Cioccolati  Pasti Sostitutivi Dimagranti  Ricco In
 
 [![Pesoforma Barrette Tre Cioccolati  Pasti](https://m.media-amazon.com/images/I/51En5nnoIYL._SL200_.jpg)](https://www.amazon.it/dp/B07QFRTRFS/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07QFRTRFS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

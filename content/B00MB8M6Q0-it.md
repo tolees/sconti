@@ -22,6 +22,9 @@ Ahora mismo tienes [Kenwood FDM781BA MultiPro Food Processor  Robot da Cucina co
 
 [![Kenwood FDM781BA MultiPro Food Processor](https://m.media-amazon.com/images/I/41l39oIRFYL._SL200_.jpg)](https://www.amazon.it/dp/B00MB8M6Q0/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00MB8M6Q0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Soundcore Strike 1 Cuffie per videogiochi Anker  cuffie per PS4  Xbox  P
 
 [![Soundcore Strike 1 Cuffie per videogioch](https://m.media-amazon.com/images/I/41jyKDVphWL._SL200_.jpg)](https://www.amazon.it/dp/B07ZPN563F/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B07ZPN563F/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

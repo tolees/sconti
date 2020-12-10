@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Hiver B  Sandali con Chiusura a T Donna  Marrone  Cog
 
 [![Geox D Hiver B  Sandali con Chiusura a T](https://m.media-amazon.com/images/I/41aRrFdDJ-L._SL200_.jpg)](https://www.amazon.it/dp/B07SXZF7FS/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07SXZF7FS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

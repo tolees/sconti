@@ -22,6 +22,9 @@ Está [Foppapedretti Babyroad - Seggiolino Auto  Gruppo 1-2-3  9-36 Kg  per Bamb
 
 [![Foppapedretti Babyroad - Seggiolino Auto](https://m.media-amazon.com/images/I/417G3nWXnvL._SL200_.jpg)](https://www.amazon.it/dp/B01LY3SSCO/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01LY3SSCO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

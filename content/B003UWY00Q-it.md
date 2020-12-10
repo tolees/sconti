@@ -22,6 +22,9 @@ Tienes [Swiffer Wet Panni Umidi Lavapavimenti per Scopa  Maxi Formato 72 Pezzi  
 
 [![Swiffer Wet Panni Umidi Lavapavimenti pe](https://m.media-amazon.com/images/I/51QJvPiuaEL._SL200_.jpg)](https://www.amazon.it/dp/B003UWY00Q/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B003UWY00Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

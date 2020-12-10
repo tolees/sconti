@@ -22,6 +22,9 @@ Está [PUMA ICRA Trainer SD  Scarpe da Ginnastica Unisex Adulto  Nero  Black-Whi
 
 [![PUMA ICRA Trainer SD  Scarpe da Ginnasti](https://m.media-amazon.com/images/I/31JuOlW06XL._SL200_.jpg)](https://www.amazon.it/dp/B015OJSDQ4/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B015OJSDQ4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori + 1 mina HB da
 
 [![BIC 4 Colori Multifunzione Penna a Sfera](https://m.media-amazon.com/images/I/416uSUxfpuL._SL200_.jpg)](https://www.amazon.it/dp/B01LXJICO0/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01LXJICO0/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

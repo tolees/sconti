@@ -22,6 +22,9 @@ Tienes [Vileda Steam Scopa a Vapore con 2 Panni in Microfibra  Filo di 6 m  per 
 
 [![Vileda Steam Scopa a Vapore con 2 Panni ](https://m.media-amazon.com/images/I/41lHpx2vOkL._SL200_.jpg)](https://www.amazon.it/dp/B00LPHUTOO/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00LPHUTOO/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

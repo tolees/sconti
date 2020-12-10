@@ -22,6 +22,9 @@ Está [Calvin Klein Hip Brief 3pk Boxer Uomo  Confezione da 3  Nero  B -NAVY SEA
 
 [![Calvin Klein Hip Brief 3pk Boxer Uomo  C](https://m.media-amazon.com/images/I/41Zbk767pqL._SL200_.jpg)](https://www.amazon.it/dp/B07NGT3YH6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07NGT3YH6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

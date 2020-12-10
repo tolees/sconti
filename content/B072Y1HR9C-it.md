@@ -22,6 +22,9 @@ Está [Level  Guanto Suburban Uomo  Verde  9.5-XL](https://www.amazon.it/dp/B072
 
 [![Level  Guanto Suburban Uomo  Verde  9.5-](https://m.media-amazon.com/images/I/41QvChjub9L._SL200_.jpg)](https://www.amazon.it/dp/B072Y1HR9C/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B072Y1HR9C/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

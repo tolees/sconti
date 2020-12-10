@@ -22,6 +22,9 @@ Ahora mismo tienes [Kingdom Hearts: The Story so far - PlayStation 4 [Edizione: 
 
 [![Kingdom Hearts: The Story so far - PlayS](https://m.media-amazon.com/images/I/61J4g8BwJML._SL200_.jpg)](https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

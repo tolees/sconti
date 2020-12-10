@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein Upscale Monogram Crew Neck Felpa  Bianco  Brigh
 
 [![Calvin Klein Upscale Monogram Crew Neck ](https://m.media-amazon.com/images/I/41-k7tLe3VL._SL200_.jpg)](https://www.amazon.it/dp/B07VD3GSD1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B07VD3GSD1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

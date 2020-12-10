@@ -22,6 +22,9 @@ Tienes [Karcher Aspiratore solidi-Liquidi - WD 3  Versione Spagnola ](https://ww
 
 [![Karcher Aspiratore solidi-Liquidi - WD 3](https://m.media-amazon.com/images/I/41r1U4feHEL._SL200_.jpg)](https://www.amazon.it/dp/B00JBNZPFM/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B00JBNZPFM/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

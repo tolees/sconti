@@ -22,6 +22,9 @@ Tienes [Intex 28003 Deluxe Kit di Pulizia per Piscine fino a 5.49 m  Grigio/Blu 
 
 [![Intex 28003 Deluxe Kit di Pulizia per Pi](https://m.media-amazon.com/images/I/31BUdm9tvoL._SL200_.jpg)](https://www.amazon.it/dp/B005DUW6Z4/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B005DUW6Z4/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

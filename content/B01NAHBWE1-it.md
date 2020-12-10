@@ -22,6 +22,9 @@ Ahora mismo tienes [Vitarmonyl Cranberry Integratore ● 60 capsule ● Benesser
 
 [![Vitarmonyl Cranberry Integratore ● 60 ca](https://m.media-amazon.com/images/I/417Xp02r+vL._SL200_.jpg)](https://www.amazon.it/dp/B01NAHBWE1/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B01NAHBWE1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

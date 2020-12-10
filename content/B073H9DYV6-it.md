@@ -22,6 +22,9 @@ Está [Parasole per Parabrezza - Tessuto 210T Il Migliore sul Mercato  Massima P
 
 [![Parasole per Parabrezza - Tessuto 210T I](https://m.media-amazon.com/images/I/41qI2nbD++L._SL200_.jpg)](https://www.amazon.it/dp/B073H9DYV6/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B073H9DYV6/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

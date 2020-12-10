@@ -22,6 +22,9 @@ Tienes [Lacoste Sport L1230 Polo Sport Ultraleggera  Bianco  White 001   Large U
 
 [![Lacoste Sport L1230 Polo Sport Ultralegg](https://m.media-amazon.com/images/I/314SLVkj1oL._SL200_.jpg)](https://www.amazon.it/dp/B003S5F1VW/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B003S5F1VW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

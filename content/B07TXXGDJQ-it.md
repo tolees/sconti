@@ -22,6 +22,9 @@ Está [Wrangler SS Logo Tee T-Shirt  Giallo  Lemon Chrome   XX-Large Uomo](https
 
 [![Wrangler SS Logo Tee T-Shirt  Giallo  Le](https://m.media-amazon.com/images/I/41B6gdPHslL._SL200_.jpg)](https://www.amazon.it/dp/B07TXXGDJQ/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07TXXGDJQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

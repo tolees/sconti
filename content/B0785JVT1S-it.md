@@ -22,6 +22,9 @@ Tienes [Canna per giardino Flexi Hose  estendibile fino a 15 metri  extra-forte 
 
 [![Canna per giardino Flexi Hose  estendibi](https://m.media-amazon.com/images/I/51rh3fl31dL._SL200_.jpg)](https://www.amazon.it/dp/B0785JVT1S/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B0785JVT1S/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

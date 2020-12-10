@@ -22,6 +22,9 @@ Tienes [Casio Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox LTP-E
 
 [![Casio Orologio Analogico Quarzo Uomo con](https://m.media-amazon.com/images/I/41xQbLUGwcL._SL200_.jpg)](https://www.amazon.it/dp/B073K2YZKK/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B073K2YZKK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

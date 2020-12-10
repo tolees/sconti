@@ -22,6 +22,9 @@ Está [Uten Barbecue Griglia a Carbone Professionale per 5-10 Persone  Barbecue 
 
 [![Uten Barbecue Griglia a Carbone Professi](https://m.media-amazon.com/images/I/51Wfsaa-xjL._SL200_.jpg)](https://www.amazon.it/dp/B07M9QJMBH/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B07M9QJMBH/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

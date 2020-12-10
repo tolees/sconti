@@ -22,6 +22,9 @@ Tienes [New Balance 500  Scarpe Sportive Uomo  Grigio  Grey/White Gry   43 EU](h
 
 [![New Balance 500  Scarpe Sportive Uomo  G](https://m.media-amazon.com/images/I/41QrVGy0r8L._SL200_.jpg)](https://www.amazon.it/dp/B01AZLN686/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B01AZLN686/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

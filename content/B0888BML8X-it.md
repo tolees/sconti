@@ -22,6 +22,9 @@ Ahora mismo tienes [Auricolari Bluetooth  Cuffie Bluetooth Senza Fili Wireless S
 
 [![Auricolari Bluetooth  Cuffie Bluetooth S](https://m.media-amazon.com/images/I/41DL4N6QgVL._SL200_.jpg)](https://www.amazon.it/dp/B0888BML8X/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B0888BML8X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

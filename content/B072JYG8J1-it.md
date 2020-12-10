@@ -22,6 +22,9 @@ Tienes [OMEN by HP Omen 800 Cuffia Gaming con Microfono Regolabile e Retrattile 
 
 [![OMEN by HP Omen 800 Cuffia Gaming con Mi](https://m.media-amazon.com/images/I/41ZyX-3Wt2L._SL200_.jpg)](https://www.amazon.it/dp/B072JYG8J1/?tag=tolees00-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.it/dp/B072JYG8J1/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

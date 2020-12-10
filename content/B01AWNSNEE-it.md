@@ -22,6 +22,9 @@ Está [Listerine - Collutorio Advanced white  2 pezzi  500 ml x 2 ](https://www.
 
 [![Listerine - Collutorio Advanced white  2](https://m.media-amazon.com/images/I/414xpPJe2DL._SL200_.jpg)](https://www.amazon.it/dp/B01AWNSNEE/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B01AWNSNEE/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

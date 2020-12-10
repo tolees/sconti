@@ -22,6 +22,9 @@ Está [Eastpak Padded Pak r Zaino  40 cm  24 L  Grigio  Black Denim ](https://ww
 
 [![Eastpak Padded Pak r Zaino  40 cm  24 L ](https://m.media-amazon.com/images/I/415VujhAwYL._SL200_.jpg)](https://www.amazon.it/dp/B00MGON1SG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B00MGON1SG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

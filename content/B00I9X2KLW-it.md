@@ -22,6 +22,9 @@ Ahora mismo tienes [Sony DSC-HX60 Fotocamera Digitale Compatta Travel con Sensor
 
 [![Sony DSC-HX60 Fotocamera Digitale Compat](https://m.media-amazon.com/images/I/41WpzG--e9L._SL200_.jpg)](https://www.amazon.it/dp/B00I9X2KLW/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B00I9X2KLW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

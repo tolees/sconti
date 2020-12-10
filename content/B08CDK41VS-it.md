@@ -22,6 +22,9 @@ Está [Auricolari Bluetooth 5.0 Cuffie Wireless In Ear con Mic-Incorporato  Live
 
 [![Auricolari Bluetooth 5.0 Cuffie Wireless](https://m.media-amazon.com/images/I/41mgauRZXKL._SL200_.jpg)](https://www.amazon.it/dp/B08CDK41VS/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B08CDK41VS/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

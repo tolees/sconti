@@ -22,6 +22,9 @@ Ahora mismo tienes [ORICO Adattatore Trasparente Esterno M.2  Custodia USB3.1 da
 
 [![ORICO Adattatore Trasparente Esterno M.2](https://m.media-amazon.com/images/I/51vLOFATVTL._SL200_.jpg)](https://www.amazon.it/dp/B089K6YSYT/?tag=tolees00-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.it/dp/B089K6YSYT/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tas
 
 [![Napapijri Rainforest Winter - Giacca con](https://m.media-amazon.com/images/I/41IHcgt5H3L._SL200_.jpg)](https://www.amazon.it/dp/B079JVNYNR/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B079JVNYNR/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

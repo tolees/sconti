@@ -22,6 +22,9 @@ Está [Multimetro Digitale Classico  Tacklife DM02A Multi Tester con Rilevamento
 
 [![Multimetro Digitale Classico  Tacklife D](https://m.media-amazon.com/images/I/51009D76R-L._SL200_.jpg)](https://www.amazon.it/dp/B071HJR5BG/?tag=tolees00-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.it/dp/B071HJR5BG/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
