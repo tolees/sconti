@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Gotti - Il Primo Padrino'
 ---
 
-Ahora mismo tienes [Gotti - Il Primo Padrino](https://www.amazon.it/dp/B07KWMNC9X/?tag=tolees00-21) a 7.49 EUR (original: 12.99 EUR) (42.34 %  de descuento) en el siguiente enlace!
+Está [Gotti - Il Primo Padrino](https://www.amazon.it/dp/B07KWMNC9X/?tag=tolees00-21) con 42.34 de descuento por 7.49 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![Gotti - Il Primo Padrino](https://m.media-amazon.com/images/I/41NPVXBT3vL._SL200_.jpg)](https://www.amazon.it/dp/B07KWMNC9X/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07KWMNC9X/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07KWMNC9X/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

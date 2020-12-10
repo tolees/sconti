@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Chanel  Coco - Eau De Toilette Spray  Donna  100 ml'
 ---
 
-Ahora mismo tienes [Chanel  Coco - Eau De Toilette Spray  Donna  100 ml](https://www.amazon.it/dp/B000GHWSFW/?tag=tolees00-21) a 43.35 EUR (original: 109.0 EUR) (60.23 %  de descuento) en el siguiente enlace!
+Está [Chanel  Coco - Eau De Toilette Spray  Donna  100 ml](https://www.amazon.it/dp/B000GHWSFW/?tag=tolees00-21) con 60.23 de descuento por 43.35 EUR (original: 109.0 EUR) en el siguiente enlace!
 
 [![Chanel  Coco - Eau De Toilette Spray  Do](https://m.media-amazon.com/images/I/31EBePN8g5L._SL200_.jpg)](https://www.amazon.it/dp/B000GHWSFW/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B000GHWSFW/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B000GHWSFW/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
