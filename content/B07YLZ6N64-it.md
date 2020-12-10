@@ -18,10 +18,12 @@ prodname: 'Superdry Tech Colourblock Elite Giacca  Rosso  Port 04p   L Uomo'
 country: 'it'
 ---
 
-Ahora mismo tienes [Superdry Tech Colourblock Elite Giacca  Rosso  Port 04p   L Uomo](https://www.amazon.it/dp/B07YLZ6N64/?tag=tolees00-21) a 28.22 EUR (original: 60.49 EUR) (53.35 %  de descuento) en el siguiente enlace!
+Está [Superdry Tech Colourblock Elite Giacca  Rosso  Port 04p   L Uomo](https://www.amazon.it/dp/B07YLZ6N64/?tag=tolees00-21) con 53.35 de descuento por 28.22 EUR (original: 60.49 EUR) en el siguiente enlace!
 
 [![Superdry Tech Colourblock Elite Giacca  ](https://m.media-amazon.com/images/I/41NfUOxT5HL._SL200_.jpg)](https://www.amazon.it/dp/B07YLZ6N64/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07YLZ6N64/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07YLZ6N64/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

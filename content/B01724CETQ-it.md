@@ -18,12 +18,10 @@ prodname: 'Equilibra - Ferro con Vitamin C e Acido Folico  60 Perle Vegicaps'
 country: 'it'
 ---
 
-Está [Equilibra - Ferro con Vitamin C e Acido Folico  60 Perle Vegicaps](https://www.amazon.it/dp/B01724CETQ/?tag=tolees00-21) con 26.60 de descuento por 3.89 EUR (original: 5.3 EUR) en el siguiente enlace!
+Ahora mismo tienes [Equilibra - Ferro con Vitamin C e Acido Folico  60 Perle Vegicaps](https://www.amazon.it/dp/B01724CETQ/?tag=tolees00-21) a 3.89 EUR (original: 5.3 EUR) (26.60 %  de descuento) en el siguiente enlace!
 
 [![Equilibra - Ferro con Vitamin C e Acido ](https://m.media-amazon.com/images/I/51jL+jZB7EL._SL200_.jpg)](https://www.amazon.it/dp/B01724CETQ/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01724CETQ/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B01724CETQ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

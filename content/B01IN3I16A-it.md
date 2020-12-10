@@ -18,10 +18,12 @@ prodname: 'Star Trek Beyond'
 country: 'it'
 ---
 
-Ahora mismo tienes [Star Trek Beyond](https://www.amazon.it/dp/B01IN3I16A/?tag=tolees00-21) a 5.0 EUR (original: 8.69 EUR) (42.46 %  de descuento) en el siguiente enlace!
+Está [Star Trek Beyond](https://www.amazon.it/dp/B01IN3I16A/?tag=tolees00-21) con 42.46 de descuento por 5.0 EUR (original: 8.69 EUR) en el siguiente enlace!
 
 [![Star Trek Beyond](https://m.media-amazon.com/images/I/51kGtTSRWoL._SL200_.jpg)](https://www.amazon.it/dp/B01IN3I16A/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B01IN3I16A/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01IN3I16A/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Trussardi Jeans  SOPHIE CACCIATORA SM ECOLEATHE Donna  W001  NR'
 country: 'it'
 ---
 
-Ahora mismo tienes [Trussardi Jeans  SOPHIE CACCIATORA SM ECOLEATHE Donna  W001  NR](https://www.amazon.it/dp/B07TWW43Z9/?tag=tolees00-21) a 41.2 EUR (original: 56.51 EUR) (27.09 %  de descuento) en el siguiente enlace!
+Está [Trussardi Jeans  SOPHIE CACCIATORA SM ECOLEATHE Donna  W001  NR](https://www.amazon.it/dp/B07TWW43Z9/?tag=tolees00-21) con 27.09 de descuento por 41.2 EUR (original: 56.51 EUR) en el siguiente enlace!
 
 [![Trussardi Jeans  SOPHIE CACCIATORA SM EC](https://m.media-amazon.com/images/I/31OzBAmnHQL._SL200_.jpg)](https://www.amazon.it/dp/B07TWW43Z9/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07TWW43Z9/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07TWW43Z9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

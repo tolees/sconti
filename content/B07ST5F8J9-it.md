@@ -18,10 +18,12 @@ prodname: 'Tenjaku Whisky - 700 ml'
 country: 'it'
 ---
 
-Ahora mismo tienes [Tenjaku Whisky - 700 ml](https://www.amazon.it/dp/B07ST5F8J9/?tag=tolees00-21) a 25.29 EUR (original: 36.0 EUR) (29.75 %  de descuento) en el siguiente enlace!
+Está [Tenjaku Whisky - 700 ml](https://www.amazon.it/dp/B07ST5F8J9/?tag=tolees00-21) con 29.75 de descuento por 25.29 EUR (original: 36.0 EUR) en el siguiente enlace!
 
 [![Tenjaku Whisky - 700 ml](https://m.media-amazon.com/images/I/31mb8I7nVWL._SL200_.jpg)](https://www.amazon.it/dp/B07ST5F8J9/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07ST5F8J9/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07ST5F8J9/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

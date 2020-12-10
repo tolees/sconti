@@ -18,10 +18,12 @@ prodname: 'PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White Whi
 country: 'it'
 ---
 
-Ahora mismo tienes [PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White White  39 EU](https://www.amazon.it/dp/B077MJHS35/?tag=tolees00-21) a 26.24 EUR (original: 49.95 EUR) (47.47 %  de descuento) en el siguiente enlace!
+Está [PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White White  39 EU](https://www.amazon.it/dp/B077MJHS35/?tag=tolees00-21) con 47.47 de descuento por 26.24 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![PUMA Smash v2 L  Scarpe da Ginnastica Un](https://m.media-amazon.com/images/I/31y7F2VGUxL._SL200_.jpg)](https://www.amazon.it/dp/B077MJHS35/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B077MJHS35/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B077MJHS35/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
