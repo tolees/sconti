@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL-50F18F Obiettivo a Focale Fissa al 41.97 % de descuento'
-date: 2020-12-05 07:54:43
+date: 2020-12-10 03:16:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg' ]
 comments: true

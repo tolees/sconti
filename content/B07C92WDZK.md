@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Tomb Raider'
 ---
 
-Ahora mismo tienes [Tomb Raider](https://www.amazon.it/dp/B07C92WDZK/?tag=tolees00-21) a 6.99 EUR (original: 9.5 EUR) (26.42 %  de descuento) en el siguiente enlace!
+Está [Tomb Raider](https://www.amazon.it/dp/B07C92WDZK/?tag=tolees00-21) con 26.42 de descuento por 6.99 EUR (original: 9.5 EUR) en el siguiente enlace!
 
 [![Tomb Raider](https://m.media-amazon.com/images/I/51OjBJ5fH8L._SL200_.jpg)](https://www.amazon.it/dp/B07C92WDZK/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07C92WDZK/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07C92WDZK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.28 % en Rotoloni Regina - Carta Igienica  500 st'
-date: 2020-12-09 02:33:37
+date: 2020-12-10 03:15:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TCedHSrtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TCedHSrtL._SL200_.jpg' ]
 comments: true
