@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Captain Phillips - Attacco In Mare Aperto'
 ---
 
-Ahora mismo tienes [Captain Phillips - Attacco In Mare Aperto](https://www.amazon.it/dp/B00H3MH8XA/?tag=tolees00-21) a 5.0 EUR (original: 6.99 EUR) (28.47 %  de descuento) en el siguiente enlace!
+Está [Captain Phillips - Attacco In Mare Aperto](https://www.amazon.it/dp/B00H3MH8XA/?tag=tolees00-21) con 28.47 de descuento por 5.0 EUR (original: 6.99 EUR) en el siguiente enlace!
 
 [![Captain Phillips - Attacco In Mare Apert](https://m.media-amazon.com/images/I/51+a3umv62L._SL200_.jpg)](https://www.amazon.it/dp/B00H3MH8XA/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B00H3MH8XA/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B00H3MH8XA/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
