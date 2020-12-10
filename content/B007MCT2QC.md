@@ -17,12 +17,10 @@ inStock: true
 prodname: 'AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr'
 ---
 
-Está [AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21) con 45.64 de descuento por 0.81 EUR (original: 1.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21) a 0.81 EUR (original: 1.49 EUR) (45.64 %  de descuento) en el siguiente enlace!
 
 [![AIA Wudy Classico 3 Wurstel di Pollo e T](https://m.media-amazon.com/images/I/518xh2BBk+L._SL200_.jpg)](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21)
 
-[Ver la oferta!!](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

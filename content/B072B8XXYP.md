@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Rimmel London Stay Matte Rossetto Opaco Lunga Durata  Formula Liquida Waterproof No Transfer  810 Plum This Show  5.5 ml'
 ---
 
-Ahora mismo tienes [Rimmel London Stay Matte Rossetto Opaco Lunga Durata  Formula Liquida Waterproof No Transfer  810 Plum This Show  5.5 ml](https://www.amazon.it/dp/B072B8XXYP/?tag=tolees00-21) a 3.23 EUR (original: 10.5 EUR) (69.24 %  de descuento) en el siguiente enlace!
+Está [Rimmel London Stay Matte Rossetto Opaco Lunga Durata  Formula Liquida Waterproof No Transfer  810 Plum This Show  5.5 ml](https://www.amazon.it/dp/B072B8XXYP/?tag=tolees00-21) con 69.24 de descuento por 3.23 EUR (original: 10.5 EUR) en el siguiente enlace!
 
 [![Rimmel London Stay Matte Rossetto Opaco ](https://m.media-amazon.com/images/I/31LgeVZgk1L._SL200_.jpg)](https://www.amazon.it/dp/B072B8XXYP/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B072B8XXYP/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B072B8XXYP/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
