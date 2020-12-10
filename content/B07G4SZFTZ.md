@@ -17,10 +17,12 @@ inStock: true
 prodname: 'It  2017  + Funko Keychain'
 ---
 
-Ahora mismo tienes [It  2017  + Funko Keychain](https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21) a 12.29 EUR (original: 20.0 EUR) (38.55 %  de descuento) en el siguiente enlace!
+Está [It  2017  + Funko Keychain](https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21) con 38.55 de descuento por 12.29 EUR (original: 20.0 EUR) en el siguiente enlace!
 
 [![It  2017  + Funko Keychain](https://m.media-amazon.com/images/I/4180BWixmgL._SL200_.jpg)](https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

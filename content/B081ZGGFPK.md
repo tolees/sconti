@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Black Diamond Revolt 350 HEADLAMP  Unisex-Adult  Graphite  all'
 ---
 
-Ahora mismo tienes [Black Diamond Revolt 350 HEADLAMP  Unisex-Adult  Graphite  all](https://www.amazon.it/dp/B081ZGGFPK/?tag=tolees00-21) a 35.5 EUR (original: 60.0 EUR) (40.83 %  de descuento) en el siguiente enlace!
+Está [Black Diamond Revolt 350 HEADLAMP  Unisex-Adult  Graphite  all](https://www.amazon.it/dp/B081ZGGFPK/?tag=tolees00-21) con 40.83 de descuento por 35.5 EUR (original: 60.0 EUR) en el siguiente enlace!
 
 [![Black Diamond Revolt 350 HEADLAMP  Unise](https://m.media-amazon.com/images/I/41zxbIMokcL._SL200_.jpg)](https://www.amazon.it/dp/B081ZGGFPK/?tag=tolees00-21)
 
-[Visítala!!!](https://www.amazon.it/dp/B081ZGGFPK/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B081ZGGFPK/?tag=tolees00-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
