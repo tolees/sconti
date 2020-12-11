@@ -24,9 +24,9 @@ Está [goldenpoint Slipper Boot Donna Coniglio](https://www.amazon.it/dp/B08N6VJ
 
 Principales características:
 
+- Fantasia coniglio
 - Con soletta
 - Slipper boot in filato morbido
-- Fantasia coniglio
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08N6VJR5Y/?tag=tolees00-21)
 
