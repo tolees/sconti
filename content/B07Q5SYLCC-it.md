@@ -24,9 +24,9 @@ Tienes [Meliconi Fully 8.1 Telecomando Universale 8 In 1 Per Tv  Decoder  SKY  D
 
 Características principales:
 
-- Facile da programmare (guida veloce inclusa nella confezione)
 - Supporto web completo (programma di ricerca codici, videoguide, istruzioni complete) consultabile da PC smartphone e tablet su cme.it
 - Tutte le funzioni originali a infrarossi disponibili
+- Facile da programmare (guida veloce inclusa nella confezione)
 - Assistenza tecnica telefonica 100% italiana - specializzata nei telecomandi
 - Comanda fino ad 8 apparecchi in 1; è garantita la compatibilità con 80000 apparecchi di 1500 marche diverse
 
