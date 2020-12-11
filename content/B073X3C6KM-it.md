@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Eastpak The One Borsa A Tracolla  21 Cm  al 41.00 % de descuento'
-date: 2020-12-10 02:51:16
+title: 'Eastpak The One Borsa A Tracolla  21 Cm  al 30.57 % de descuento'
+date: 2020-12-11 04:34:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vzuoOOC9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vzuoOOC9L._SL200_.jpg' ]
 comments: true
@@ -9,18 +9,25 @@ category: ofertas
 author: ring
 slug: 'B073X3C6KM-it'
 description:
-actualPrice: 17.7 EUR
+actualPrice: 20.83 EUR
 currency: EUR
-price: 17.7
+price: 20.83
 comparePrice: 30.0 EUR
 inStock: true
 prodname: 'Eastpak The One Borsa A Tracolla  21 Cm  2.5 L  Blu  Cloud Navy '
 country: 'it'
 ---
 
-Está [Eastpak The One Borsa A Tracolla  21 Cm  2.5 L  Blu  Cloud Navy ](https://www.amazon.it/dp/B073X3C6KM/?tag=tolees00-21) con 41.00 de descuento por 17.7 EUR (original: 30.0 EUR) en el siguiente enlace!
+Está [Eastpak The One Borsa A Tracolla  21 Cm  2.5 L  Blu  Cloud Navy ](https://www.amazon.it/dp/B073X3C6KM/?tag=tolees00-21) con 30.57 de descuento por 20.83 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![Eastpak The One Borsa A Tracolla  21 Cm ](https://m.media-amazon.com/images/I/41vzuoOOC9L._SL200_.jpg)](https://www.amazon.it/dp/B073X3C6KM/?tag=tolees00-21)
+
+Principales características:
+
+- Realizzato in misto nylon 60% e poliestere 40%
+- Altezza: 33.5 cm, Larghezza: 23 cm, Profondità: 15 cm
+- Uno scomparto principale in cui riporre l’essenziale
+- Tracolla regolabile
 
 [Ver la oferta!!](https://www.amazon.it/dp/B073X3C6KM/?tag=tolees00-21)
 

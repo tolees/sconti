@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Orologio Cronografo Quarzo  al 42.05 % de descuento'
-date: 2020-12-10 03:13:31
+date: 2020-12-11 04:29:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41htBDnbyiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41htBDnbyiL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,13 @@ country: 'it'
 Está [Michael Kors Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inossidabile MK5896](https://www.amazon.it/dp/B00FZE1AZU/?tag=tolees00-21) con 42.05 de descuento por 190.67 EUR (original: 329.0 EUR) en el siguiente enlace!
 
 [![Michael Kors Orologio Cronografo Quarzo ](https://m.media-amazon.com/images/I/41htBDnbyiL._SL200_.jpg)](https://www.amazon.it/dp/B00FZE1AZU/?tag=tolees00-21)
+
+Principales características:
+
+- Quadrante rosa chiaro con cristalli lucidi come indici, numeri arabi a ore 12 e lunetta interna rosa chiaro - Movimento cronografo con data e modalità 24 ore - Lancette oro rosa e luminose - Vetro minerale
+- Bracciale in acciaio inox con finitura levigata oro rosa con maglie in acetato rosa al centro - Chiusura a pulsante
+- Confezionato in scatola regalo MICHAEL KORS
+- Orologio da donna MICHAEL KORS - Cassa rotonda in acciaio inox (diam. 39 mm) in finitura oro rosa levigata - 2 pulsanti oro rosa - Struttura resistente alla pressione dell’acqua di 5 ATM - Lunetta con cristalli lucidi
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00FZE1AZU/?tag=tolees00-21)
 

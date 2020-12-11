@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Catamarano e Barca a Vela 2 al 25.01 % de descuento'
-date: 2020-12-10 03:09:25
+date: 2020-12-11 04:31:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,14 @@ country: 'it'
 Ahora mismo tienes [LEGO Technic Catamarano e Barca a Vela 2 in 1  Giocattolo Galleggiante  42105](https://www.amazon.it/dp/B081F8KXHD/?tag=tolees00-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
 [![LEGO Technic Catamarano e Barca a Vela 2](https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg)](https://www.amazon.it/dp/B081F8KXHD/?tag=tolees00-21)
+
+Características:
+
+- Features 2in1 Catamaran model toy which really floats on water It rebuilds into a cool power speed boat toy, inspired by real race boats.
+- Fans can angle the sails for a racing position, raise and lower the 2 daggerboards to maximise stability, then use the rudder to steer.
+- For the first time ever both models float on water - check this classic 2-hull catamaran design, working sails, daggerboards and rudder
+- Ideal for developing engineering skills, these fantastic floating models feature a green-blue-orange colour scheme for an impressive display.
+- At over 12” (32cm) long, 8” (22cm) wide and 17” (44cm) high, this awesome model sailboat is made for easy handling in the bathtub.
 
 [Visítala!!!](https://www.amazon.it/dp/B081F8KXHD/?tag=tolees00-21)
 
