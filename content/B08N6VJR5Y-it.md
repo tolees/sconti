@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'goldenpoint Slipper Boot Donna Coniglio al 44.75 % de descuento'
-date: 2020-11-24 09:55:25
+date: 2020-12-11 14:46:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31QUy2aaadL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31QUy2aaadL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,12 @@ country: 'it'
 Está [goldenpoint Slipper Boot Donna Coniglio](https://www.amazon.it/dp/B08N6VJR5Y/?tag=tolees00-21) con 44.75 de descuento por 10.47 EUR (original: 18.95 EUR) en el siguiente enlace!
 
 [![goldenpoint Slipper Boot Donna Coniglio](https://m.media-amazon.com/images/I/31QUy2aaadL._SL200_.jpg)](https://www.amazon.it/dp/B08N6VJR5Y/?tag=tolees00-21)
+
+Principales características:
+
+- Slipper boot in filato morbido
+- Fantasia coniglio
+- Con soletta
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08N6VJR5Y/?tag=tolees00-21)
 

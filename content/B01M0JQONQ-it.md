@@ -26,8 +26,8 @@ Principales características:
 
 - Materiale cinturino: pelle
 - Colore quadrante: rose
-- Colore cinturino: nero
 - Durata garanzia: due anni
+- Colore cinturino: nero
 - Grandezza cassa: 31 mm
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01M0JQONQ/?tag=tolees00-21)
