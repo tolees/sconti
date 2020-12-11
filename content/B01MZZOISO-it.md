@@ -26,8 +26,8 @@ Principales características:
 
 - Intenso tratto di colore, ideale per colorare i dettagli e le superfici più grandi
 - Colore brillante e luminoso
-- Resiste fino a 24 ore senza cappuccio
 - Punta robusta M (tratto 1 mm) ideale per lapplicazione dellinchiostro
+- Resiste fino a 24 ore senza cappuccio
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MZZOISO/?tag=tolees00-21)
 
