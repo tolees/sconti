@@ -24,15 +24,15 @@ Ahora mismo tienes [TCL 10PRO  6.47” FHD+ AMOLED Curved  Quad Cam 64+16+5+2MP 
 
 Características:
 
-- Batteria 4500mah con reverse charging
 - Sensore dimpronte digitali su display e riconoscimento facciale
+- Super bluetooth fino a 4 device collegati
+- Sistema operativo android 10; processore qualcomm snapdragon 675
+- Display 6.47” fhd+ amoled curved 19.5:9, nxtvision technology
+- Batteria 4500mah con reverse charging
 - Quad camera 64mp + 16mp super wide + 5mp macro + 2mp low-light, dual flash, hdr, video 4k
 - Fotocamera anteriore 24mp
-- Display 6.47” fhd+ amoled curved 19.5:9, nxtvision technology
 - Inclusi in confezione: back cover e pellicola protettiva
-- Super bluetooth fino a 4 device collegati
 - Ram 6gb, memoria interna 128gb
-- Sistema operativo android 10; processore qualcomm snapdragon 675
 
 [Visítala!!!](https://www.amazon.it/dp/B086QCJXDS/?tag=tolees00-21)
 
