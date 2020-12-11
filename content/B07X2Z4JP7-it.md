@@ -25,9 +25,9 @@ Ahora mismo tienes [Olivia Burton Orologio Quarzo con Cinturino in Pelle OB16CB2
 Características:
 
 - Quadrante a raggiera in oro rosa con numeri romani in oro rosa
+- Movimento al quarzo giapponese a tre lancette
 - Cassa in acciaio inossidabile con placcatura ionica oro rosa
 - Diametro della cassa: 30 mm
-- Movimento al quarzo giapponese a tre lancette
 - Cinturino in pelle scamosciata effetto velluto vinaccia
 
 [Visítala!!!](https://www.amazon.it/dp/B07X2Z4JP7/?tag=tolees00-21)
