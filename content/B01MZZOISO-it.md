@@ -24,10 +24,10 @@ Está [Pennarello Premium - STABILO Pen 68 - Astuccio da 8 - Colori Pastello](ht
 
 Principales características:
 
-- Resiste fino a 24 ore senza cappuccio
 - Intenso tratto di colore, ideale per colorare i dettagli e le superfici più grandi
-- Punta robusta M (tratto 1 mm) ideale per lapplicazione dellinchiostro
 - Colore brillante e luminoso
+- Resiste fino a 24 ore senza cappuccio
+- Punta robusta M (tratto 1 mm) ideale per lapplicazione dellinchiostro
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MZZOISO/?tag=tolees00-21)
 

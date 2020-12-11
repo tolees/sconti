@@ -25,10 +25,10 @@ Está [NORTH SAILS Giacca Sailor Slim  Rivisitato E Eco-Friendly  XXL](https://w
 Principales características:
 
 - Linterno in pile garantisce protezione e calore
-- Vestibilità slim
-- Il collo alto, le tasche con zip e la chiusura con zip a doppio cursore sono dettagli funzionali
-- I bordi in maglia stretch assicurano aderenza e definiscono il design del capo
 - Realizzato in nylon riciclato resistente allacqua
+- Il collo alto, le tasche con zip e la chiusura con zip a doppio cursore sono dettagli funzionali
+- Vestibilità slim
+- I bordi in maglia stretch assicurano aderenza e definiscono il design del capo
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07QN6F4H8/?tag=tolees00-21)
 

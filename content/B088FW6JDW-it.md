@@ -24,10 +24,10 @@ Está [Parker Jotter Originals collezione pastello di penne a sfera | finiture i
 
 Principales características:
 
-- Con Jotter Originals Pastel gli intramontabili anni ’50 non sono mai stati così trendy
-- Da utilizzare con le ricariche Quickflow per penne a sfera per un eccezionale flusso di inchiostro e una scrittura scorrevole; punta media; compatibile anche con le ricariche gel Parker
-- Il caratteristico design retrattile si apre e si chiude con un irresistibile scatto
 - Questo set include penne a sfera nei rosa pastello e celeste
+- Il caratteristico design retrattile si apre e si chiude con un irresistibile scatto
+- Da utilizzare con le ricariche Quickflow per penne a sfera per un eccezionale flusso di inchiostro e una scrittura scorrevole; punta media; compatibile anche con le ricariche gel Parker
+- Con Jotter Originals Pastel gli intramontabili anni ’50 non sono mai stati così trendy
 - Lo stile aerodinamico e le linee nette dell’iconico design Parker Jotter combinati con un resistente fusto in plastica anti-graffio
 
 [Ver la oferta!!](https://www.amazon.it/dp/B088FW6JDW/?tag=tolees00-21)
