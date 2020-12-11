@@ -24,8 +24,8 @@ Ahora mismo tienes [SALOMON XA PRO 3D v8 GTX  Scarpe da Trail Running Uomo  Grig
 
 Características:
 
-- Xa Pro 3D V8 GTX
 - Salomon
+- Xa Pro 3D V8 GTX
 - Colore: Urban Chic/Black/Lime Punch
 
 [Visítala!!!](https://www.amazon.it/dp/B081KGKWD2/?tag=tolees00-21)

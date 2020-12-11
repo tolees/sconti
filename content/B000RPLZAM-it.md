@@ -25,8 +25,8 @@ Tienes [Hugo Boss Boss Bottled Eau de Toilette  Uomo  100 ml](https://www.amazon
 Características principales:
 
 - EDT
-- Uomo
 - 100 ml
+- Uomo
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000RPLZAM/?tag=tolees00-21)
 
