@@ -25,10 +25,10 @@ Ahora mismo tienes [Levi s Batwing Hoodie  cappuccio Donna  Avorio  Sportswear H
 Características:
 
 - Orli a coste
-- Pile
-- Cappuccio con coulisse
-- Tasca a marsupio
 - Stile sportivo e comfort casual
+- Tasca a marsupio
+- Cappuccio con coulisse
+- Pile
 
 [Visítala!!!](https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21)
 

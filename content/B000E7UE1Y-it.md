@@ -24,9 +24,9 @@ Ahora mismo tienes [Laura Biagiotti Roma Eau de Toilette  Uomo  125 ml](https://
 
 Características:
 
+- EDT
 - Uomo
 - 125 ml
-- EDT
 
 [Visítala!!!](https://www.amazon.it/dp/B000E7UE1Y/?tag=tolees00-21)
 
