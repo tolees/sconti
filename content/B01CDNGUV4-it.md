@@ -24,12 +24,12 @@ Ahora mismo tienes [Rowenta CF3710 So Curls Arricciacapelli Automatico con Rives
 
 Características:
 
-- Spegnimento automatico dopo 1h di inutilizzo
-- Abbassamento di sicurezza della temperatura a 150°C dopo 20 minuti di inutilizzo
-- L`arricciacapelli Istantaneo avvolge automaticamente la ciocca intorno alla canna riscaldata
-- Rotazione alternata per un risultato più naturale
-- Il rivestimento in ceramica tormalina garantisce unelevata lucentezza
 - Con tre impostazioni di temperatura
+- Abbassamento di sicurezza della temperatura a 150°C dopo 20 minuti di inutilizzo
+- Il rivestimento in ceramica tormalina garantisce unelevata lucentezza
+- Spegnimento automatico dopo 1h di inutilizzo
+- Rotazione alternata per un risultato più naturale
+- L`arricciacapelli Istantaneo avvolge automaticamente la ciocca intorno alla canna riscaldata
 
 [Visítala!!!](https://www.amazon.it/dp/B01CDNGUV4/?tag=tolees00-21)
 
