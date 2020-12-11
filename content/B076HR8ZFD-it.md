@@ -24,9 +24,9 @@ Tienes [adidas Giacca Regista 18](https://www.amazon.it/dp/B076HR8ZFD/?tag=tolee
 
 Características principales:
 
-- Allontana lumidità dalla pelle
 - Tessuto aeroready
 - Giacca sportiva da uomo
+- Allontana lumidità dalla pelle
 - 3 strisce lungo i fianchi
 - Dotata di zip integrale e collo alla coreana
 
