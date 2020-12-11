@@ -24,10 +24,10 @@ Ahora mismo tienes [Tommy Hilfiger 3p Trunk Boxer  Bianco  White/Tango Red/Peaco
 
 Características:
 
-- In cotone elastico
-- Con logo Tommy Hilfiger in vita
 - Boxer aderenti da uomo, confezione da 3, multicolore
 - Vestibilità comoda e moderna
+- In cotone elastico
+- Con logo Tommy Hilfiger in vita
 
 [Visítala!!!](https://www.amazon.it/dp/B00UBOIZ5W/?tag=tolees00-21)
 

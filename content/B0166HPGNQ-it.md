@@ -25,8 +25,8 @@ Está [Gloss! Mallette de Maquillage Luxurious Collection - 87pcs](https://www.a
 Principales características:
 
 - Makeup Case - lussuosa collezione - 87 Pz
-- Contenuto: ombre 42 Eye, 6 Blush, 2 Rossetto, tubo gloss Lip 2, 24 Lucidalabbra, 4 matita occhi, 7 pennelli trucco
 - Questo caso di trucco di lucentezza! Offre un assortimento di cosmetici e applicatori
+- Contenuto: ombre 42 Eye, 6 Blush, 2 Rossetto, tubo gloss Lip 2, 24 Lucidalabbra, 4 matita occhi, 7 pennelli trucco
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0166HPGNQ/?tag=tolees00-21)
 
