@@ -24,8 +24,8 @@ Tienes [Mulino Bianco Cracker con Meno Grassi  250g](https://www.amazon.it/dp/B0
 
 Características principales:
 
-- FIORI DACQUA - preparati senza lievito di birra e con olio doliva, hanno il 45% di grassi in meno, grazie al particolare metodo di preparazione che utilizza molta acqua nellimpasto
 - PER LA PAUSA - ottimale per la tua pausa: 2 Fiori dAcqua, prosciutto cotto e mozzarella; per un totale di calorie pari al 6% del tuo fabbisogno energetico giornaliero
+- FIORI DACQUA - preparati senza lievito di birra e con olio doliva, hanno il 45% di grassi in meno, grazie al particolare metodo di preparazione che utilizza molta acqua nellimpasto
 - PANI CROCCANTI E CRACKER - una linea di Mulino Bianco che comprende ricette croccanti e friabili; provali tutti: Panetti, Grissini, Cracker e Pangrattato
 - MULINO BIANCO - al Mulino Bianco si ricerca da sempre la qualità; Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 

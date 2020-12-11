@@ -24,8 +24,8 @@ Está [Kinder Mezzo Metro - 24 Barrette](https://www.amazon.it/dp/B0034MLBKO/?ta
 
 Principales características:
 
-- Cioccolato ripieno
 - Confezione da 300 g
+- Cioccolato ripieno
 - 24 barrette di cioccolato al latte
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0034MLBKO/?tag=tolees00-21)
