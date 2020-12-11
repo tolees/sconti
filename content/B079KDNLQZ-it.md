@@ -26,9 +26,9 @@ Principales características:
 
 - Game night fun and big laughs for 2 to 4 players, age 5 and older.
 - The player who earns the most tokens wins!
-- When the poop flies out of the toilet, be the first player to grab it. If you can catch it in MIDAIR, you earn two tokens!
 - You have to plunge the toilet the number of times on the die.
 - Flushing Frenzy game guarantees big laughs and big fun!
+- When the poop flies out of the toilet, be the first player to grab it. If you can catch it in MIDAIR, you earn two tokens!
 
 [Ver la oferta!!](https://www.amazon.it/dp/B079KDNLQZ/?tag=tolees00-21)
 

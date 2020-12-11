@@ -24,8 +24,8 @@ Ahora mismo tienes [Bottega Verde  Confezione Regalo Uomo"Essenza di Bosco"  con
 
 Características:
 
-- Scatola a valigetta in metallo.
 - Bagnodoccia con estratto di Pino marittimo di Palazzo Massaini (200 ml)
+- Scatola a valigetta in metallo.
 - Eau de toilette (50 ml)
 - Dopobarba con estratto di Pino marittimo di Palazzo massaini (75 ml)
 - Calze natalizie da uomo

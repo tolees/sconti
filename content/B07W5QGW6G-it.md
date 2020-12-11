@@ -25,14 +25,14 @@ Tienes [LEGO Technic Camion da Gara Trasformabile in Auto da Corsa  Set da Co
 Características principales:
 
 - I set LEGO Technic offrono ai costruttori in erba un mondo di divertimento; grazie a veicoli dal design realistico e dotati di funzioni ottime, con questi set il divertimento può continuare a lungo
+- I set vengono forniti con istruzioni stampate, per semplificare la realizzazione dei modelli; a questo camion sono associate anche le Instructions PLUS digitali, disponibili nellapp LEGO Life
 - Ottimo per i bambini e le bambine che amano i giocattoli da gara, può essere trasformato in un’auto da corsa 2 in 1 per una nuova sfida di costruzione
+- Una volta costruito, il camion giocattolo è lungo 17 cm, alto 8 cm largo 9 cm, dimensioni ottimali per organizzare gare e giochi di ruolo
+- Creare velocità è facile con lazione di pull-back e rilascio del camion; questo camion da gara è dotato di grandi scarichi, un enorme spoiler e una livrea sbalorditiva
+- I set costruibili LEGO soddisfano elevati standard del settore, per garantire sempre un montaggio e uno smontaggio ottimali, sin dal 1958
 - I kit costruibili LEGO Technic vengono sottoposti a test accurati, per verificare che ogni set soddisfi elevati standard globali di sicurezza e qualità
 - Sei alla ricerca di regali per bambini e bambine dai 7 anni in su che amano i camion? Beh, se sono appassionati di costruzioni e sono pronti ad affrontare una nuova sfida, questa è la scelta ottimo.
-- I set costruibili LEGO soddisfano elevati standard del settore, per garantire sempre un montaggio e uno smontaggio ottimali, sin dal 1958
-- Creare velocità è facile con lazione di pull-back e rilascio del camion; questo camion da gara è dotato di grandi scarichi, un enorme spoiler e una livrea sbalorditiva
-- Una volta costruito, il camion giocattolo è lungo 17 cm, alto 8 cm largo 9 cm, dimensioni ottimali per organizzare gare e giochi di ruolo
 - Alimentato dal motore pull-back, questo camion da gara non richiede batterie e permette di iniziare subito a divertirsi
-- I set vengono forniti con istruzioni stampate, per semplificare la realizzazione dei modelli; a questo camion sono associate anche le Instructions PLUS digitali, disponibili nellapp LEGO Life
 - La realizzazione di questo camion LEGO Technic permette ai i giovani costruttori di sviluppare le proprie capacità di risoluzione dei problemi; costruisci, gareggia e ricostruisci il modello 2 in 1
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07W5QGW6G/?tag=tolees00-21)

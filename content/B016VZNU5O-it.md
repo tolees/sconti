@@ -24,9 +24,9 @@ Tienes [Parrot Zaino per Drone Bebop & Skycontroller  Nero](https://www.amazon.i
 
 Características principales:
 
+- Colore nero
 - Compatibile anche con i modelli precedenti di Bebop Drone e Skycontroller
 - Zaino per trasportare Bebop 2 e Skycontroller
-- Colore nero
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B016VZNU5O/?tag=tolees00-21)
 

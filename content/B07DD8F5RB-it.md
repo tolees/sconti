@@ -24,9 +24,9 @@ Ahora mismo tienes [Jumanji Edizione in Legno  il Classico Gioco Vintage Anni  9
 
 Características:
 
-- Include: tabellone in legno, pedine, rinoceronte, cronometro, 1 dado numerato, 4 dadi salvataggio, 30 carte pericolo, decodificatore, foglio di adesivi, istruzioni
 - Un gioco che sa trasportar chi questo mondo vuol lasciar
 - Vincitore del Toy Industry Awards "Game of the Year" (2018)
+- Include: tabellone in legno, pedine, rinoceronte, cronometro, 1 dado numerato, 4 dadi salvataggio, 30 carte pericolo, decodificatore, foglio di adesivi, istruzioni
 - Gioca al gioco che ti insegue ma attenzione, se iniziare vorrai terminare dovrai
 - La confezione in legno che si apre a modi scrigno e i tutti i dettagli riproducono il gioco originale protagonista del Film
 
