@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ALLUFLON Set 2 Lasagnere Vesuvia  34x25  al 48.90 % de descuento'
-date: 2020-11-23 18:48:41
+date: 2020-12-11 17:44:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/4112FmzU15L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4112FmzU15L._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,15 @@ country: 'it'
 Ahora mismo tienes [ALLUFLON Set 2 Lasagnere Vesuvia  34x25 cm e 24x18 cm  Alluminio](https://www.amazon.it/dp/B07P298CWX/?tag=tolees00-21) a 16.99 EUR (original: 33.25 EUR) (48.90 %  de descuento) en el siguiente enlace!
 
 [![ALLUFLON Set 2 Lasagnere Vesuvia  34x25 ](https://m.media-amazon.com/images/I/4112FmzU15L._SL200_.jpg)](https://www.amazon.it/dp/B07P298CWX/?tag=tolees00-21)
+
+Características:
+
+- Lasagnera 24x18 cm: altezza 6.0 cm, capacità 2.4 litri
+- Corpo in alluminio per uso alimentare, per utilizzo in forno
+- 100% made in Italy. Lavabile in lavastoviglie
+- Set 2 lasagnere 24x18 cm e 34x25 cm; con antiaderente Hardoise effetto pietra
+- Non contiene PFOA, non contiene Nickel e metalli pesanti, non contiene Bisfenolo A (BPA free)
+- Lasagnera 34x25 cm: altezza 6.8 cm, capacità 5.1 litri
 
 [Visítala!!!](https://www.amazon.it/dp/B07P298CWX/?tag=tolees00-21)
 
