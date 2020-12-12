@@ -29,10 +29,10 @@ Ahora mismo tienes [OPPO A72 Smartphone   Display 6.5   LCD  4  Fotocamere 128GB
 Características:
 
 - Il modulo delle fotocamere posteriori è composto da una fotocamera frontale da 48MP AI (con ampia apertura f/1.7), un grandangolo da 119° e due lenti specifiche per i ritratti.
-- OPPO A72 è caratterizzato da un design 3D Quad-curve, con una linea ulteriormente ottimizzata per fornire una presa più confortevole
-- OPPO A72 è dotato di 128GB/UFS 2.1 di spazio di archiviazione. La RAM da 4GB/LPDDR4x supporta lutilizzo di più applicazioni e giochi allo stesso tempo.
-- Snapdragon + Hyper Boost, Fluidità in ogni passaggio
 - OPPO A72 è dotato di Neo-Display in alta definizione, caratterizzato da uno spessore di soli 1.73mm. Risoluzione 1080P, 2400×1080 FHD+
+- Snapdragon + Hyper Boost, Fluidità in ogni passaggio
+- OPPO A72 è dotato di 128GB/UFS 2.1 di spazio di archiviazione. La RAM da 4GB/LPDDR4x supporta lutilizzo di più applicazioni e giochi allo stesso tempo.
+- OPPO A72 è caratterizzato da un design 3D Quad-curve, con una linea ulteriormente ottimizzata per fornire una presa più confortevole
 
 [Visítala!!!](https://www.amazon.it/dp/B088KQ7TVS/?tag=tolees00-21)
 

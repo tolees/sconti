@@ -29,8 +29,8 @@ Está [Mattel Games FWW30 Acchiappa la Cacca con Toilet Incluso  Gioco da Tavolo
 Principales características:
 
 - Vince chi ottiene più gettoni
-- Gioco per serate allinsegna delle risate e del divertimento, da 2 a 4 giocatori da 5 anni in su
 - Quando la cacca salta fuori dallo scarico, afferrala per primo; Se riesci a prenderla AL VOLO, guadagni due gettoni
+- Gioco per serate allinsegna delle risate e del divertimento, da 2 a 4 giocatori da 5 anni in su
 - Il gioco Stura e acchiappa! assicura tante risate e molto divertimento
 - Devi spingere lo sturalavandini sul water per il numero di volte indicato sul dado
 

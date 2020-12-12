@@ -28,11 +28,11 @@ Está [Zenacolor - 120 Matite Colorate  Numerato  con Scatola in Metallo - 120 C
 
 Principales características:
 
-- 120 COLORI UNICI & MAGNIFICI, Zero doppioni - Set di matite colorate di alta qualità : Colori ricchi e dal pigmento vivace con una varietà di tonalità e un vasto assortimento a prezzo scontato - Un arcobaleno di tonalità tra Rosso, Arancione, Giallo, Verde, Blu, Viola, Bianco, Nero e molte altre
 - MINA LISCIA DI PRECISIONE - Progettate per artisti professionisti e studenti darte, le nostre matite pre-temperate contengono una mina di 3,3 mm per accurata creatività visuale e per linee precise : Non importa che tu sia un Professionista, un Dilettante o un Principiante, sarai completamente soddisfatto del nostro prodotto
-- COMODO ASTUCCIO PER LA CONSERVAZIONE - Scatola metallica perfetta con 3 custodie di fissaggio con singoli scomparti per riporre ordinatamente tutte le tue matite : Occupa poco spazio ed è molto utile su qualsiasi scrivania o scaffale, oppure nello zaino quando sei indaffarato
+- 120 COLORI UNICI & MAGNIFICI, Zero doppioni - Set di matite colorate di alta qualità : Colori ricchi e dal pigmento vivace con una varietà di tonalità e un vasto assortimento a prezzo scontato - Un arcobaleno di tonalità tra Rosso, Arancione, Giallo, Verde, Blu, Viola, Bianco, Nero e molte altre
 - INCREDIBILMENTE VERSATILI - Sono perfette per Colorare, fare Bozzetti, Disegnare, Ombreggiare, Decorare gli Album, creare Diari tipo "Bullet Journal", Mandala, per Arteterapia e Album da Colorare per Adulti, per la Scrittura, per le Sfumature, la Stampa, lEvidenziazione, il Tratteggio, lo Sfregazzo, il Puntinismo, la Stratificazione e per la Brunitura - Sono ideali anche per Insegnanti, Studenti e Artisti : Un regalo perfetto per incoraggiare la creatività
 - 100% DI SODDISFAZIONE GARANTITA: Acquista con fiducia, grazie al nostro RIMBORSO GARANTITO SENZA RISCHI - Siamo sicuri che adorerai la nostra Confezione da 120 Matite Colorate, ma se non dovessi essere soddisfatto, potrai farcelo sapere in qualsiasi momento e noi ti offriamo immediatamente una sostituzione o il rimborso completo : Nessuna scocciatura e assolutamente nessun rischio per te.
+- COMODO ASTUCCIO PER LA CONSERVAZIONE - Scatola metallica perfetta con 3 custodie di fissaggio con singoli scomparti per riporre ordinatamente tutte le tue matite : Occupa poco spazio ed è molto utile su qualsiasi scrivania o scaffale, oppure nello zaino quando sei indaffarato
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01N7WO14Y/?tag=tolees00-21)
 

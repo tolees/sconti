@@ -28,9 +28,9 @@ Tienes [Levi s Graphic Tee B Maglietta a Maniche Lunghe  HM LS Better Black  XL 
 
 Características principales:
 
+- Non elasticizzato
 - Jersey
 - Logo Hausmark sul petto
-- Non elasticizzato
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B076YCSZN8/?tag=tolees00-21)
 

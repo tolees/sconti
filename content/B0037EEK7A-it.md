@@ -29,10 +29,10 @@ Ahora mismo tienes [Yankee Candle Candela profumata in giara grande | Cupcake al
 Características:
 
 - Housed in the classic glass jar with lid to preserve the fragrance; removable label for a custom look
-- Scented candle burn time: Up to 150 hours; 17 cm height x 10 cm width (623 g)
-- 100 percent natural fibre cotton wick straightened and centred for a clean, even burn
-- Authentic ingredients and premium wax deliver clean, consistent, room-filling aroma
 - The rich, creamy aroma of vanilla cupcakes with hints of lemon and lots of buttery icing
+- 100 percent natural fibre cotton wick straightened and centred for a clean, even burn
+- Scented candle burn time: Up to 150 hours; 17 cm height x 10 cm width (623 g)
+- Authentic ingredients and premium wax deliver clean, consistent, room-filling aroma
 
 [Visítala!!!](https://www.amazon.it/dp/B0037EEK7A/?tag=tolees00-21)
 

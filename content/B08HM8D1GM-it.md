@@ -28,10 +28,10 @@ Ahora mismo tienes [DeFacto - Giacca da uomo Slim Fit blu navy S](https://www.am
 
 Características:
 
-- Prodotto in Turchia.
-- Acrilico al 100%.
 - DeFacto.
 - Colore: blu navy
+- Prodotto in Turchia.
+- Acrilico al 100%.
 
 [Visítala!!!](https://www.amazon.it/dp/B08HM8D1GM/?tag=tolees00-21)
 

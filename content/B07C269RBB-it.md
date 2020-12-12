@@ -28,8 +28,8 @@ Tienes [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy Blazer Fit: 
 
 Características principales:
 
-- Long-sleeved
 - Comfortable to wear
+- Long-sleeved
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21)
 

@@ -28,9 +28,9 @@ Está [Michael Kors Orologio Cronografo Quarzo Donna con Cinturino in Acciaio In
 
 Principales características:
 
-- Stainless steel bracelet in polished rose gold finish with rose acetate links at the center - Locking clasp with push button
 - MICHAEL KORS women watch - Round stainless steel case (diam. 39 mm) in polished rose gold finish - Two rose gold pushers - 5 ATM water pressure resistance - Bezel with clear crystals
 - Light rose dial with clear crystals as indexes, Arabic number at 12 and light rose inner bezel - Chronograph movement with date and 24 h mode - Rose gold and luminous hands - Mineral glass
+- Stainless steel bracelet in polished rose gold finish with rose acetate links at the center - Locking clasp with push button
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00FZE1AZU/?tag=tolees00-21)
 

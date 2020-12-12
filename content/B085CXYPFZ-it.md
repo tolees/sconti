@@ -28,11 +28,11 @@ Está [Braun Series 5 50-M4500cs Rasoio Elettrico Barba con Base di Ricarica  Re
 
 Principales características:
 
-- Rasoio barba elettrico uomo 100% impermeabile per l’utilizzo Wet&Dry
-- Il sistema EasyClean consente una pulizia rapida e semplice senza rimuovere la testina del rasoio elettrico uomo
-- Include: Base di ricarica, regolabarba uomo
 - Rasoio elettrico barba uomo con 3 lame flessibili che si adattano ai contorni del viso per facilitare la rasatura efficace e rapida
 - Batteria Li-Ion che offre fino a 3 settimane di rasatura (50 min); Ricarica rapida in 5 minuti per una rasatura completa
+- Il sistema EasyClean consente una pulizia rapida e semplice senza rimuovere la testina del rasoio elettrico uomo
+- Rasoio barba elettrico uomo 100% impermeabile per l’utilizzo Wet&Dry
+- Include: Base di ricarica, regolabarba uomo
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085CXYPFZ/?tag=tolees00-21)
 

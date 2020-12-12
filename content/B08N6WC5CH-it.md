@@ -28,8 +28,8 @@ Está [goldenpoint Slipper Donna Pon Pon](https://www.amazon.it/dp/B08N6WC5CH/?t
 
 Principales características:
 
-- Applicazione pon pon frontale
 - Motivo a costa
+- Applicazione pon pon frontale
 - Applicazione antiscivolo
 - Slipper in maglia
 

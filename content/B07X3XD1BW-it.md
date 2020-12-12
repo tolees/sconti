@@ -28,10 +28,10 @@ Ahora mismo tienes [Sony NW-A55 - Lettore musicale Walkman 16GB con Display 3 1"
 
 Características:
 
-- Memoria interna da 16gb e slot per scheda microsd
-- Touch screen da 3.1 pollici e pulsanti laterali
 - Sound incredibilmente genuino con hi-res audio
 - Fino a 45 ore di riproduzione (mp3 128 kbps)
+- Touch screen da 3.1 pollici e pulsanti laterali
+- Memoria interna da 16gb e slot per scheda microsd
 - Tecnologia bluetooth con ldac per preservare la qualità audio wireless
 
 [Visítala!!!](https://www.amazon.it/dp/B07X3XD1BW/?tag=tolees00-21)

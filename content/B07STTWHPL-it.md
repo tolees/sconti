@@ -28,11 +28,11 @@ Está [Xiaomi Band 4 - Smart watch e fitness tracker  con cardiofrequenzimetro  
 
 Principales características:
 
-- Monitoraggio della frequenza cardiaca 24/7 e monitor del sonno: salvaguardare la salute in ogni momento, avvisa quando la frequenza cardiaca è troppo alta
-- Display a colori: il display touch amoled a colori, più grande del 39.9% e più luminoso della band 3
 - Resistente allacqua 5atm: funziona bene 50 m sottacqua, non devi preoccuparti quando fai la doccia, lavati, corri sotto la pioggia, nuota e fai surf
+- Display a colori: il display touch amoled a colori, più grande del 39.9% e più luminoso della band 3
 - Convenienza: visualizza chiamate, messaggi di testo, notifiche di app e musica in gioco; mi band 4 terrà traccia di ritmo, conteggio dei passi, frequenza cardiaca, calorie bruciate e altro ancora
 - Riconosce 5 diversi stili di nuoto, registra 12 set di dati tra cui ritmo di nuoto e conteggio dei colpi
+- Monitoraggio della frequenza cardiaca 24/7 e monitor del sonno: salvaguardare la salute in ogni momento, avvisa quando la frequenza cardiaca è troppo alta
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07STTWHPL/?tag=tolees00-21)
 

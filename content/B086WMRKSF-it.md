@@ -28,9 +28,9 @@ Ahora mismo tienes [CARPISA® Mini zaino argento - Demetra](https://www.amazon.i
 
 Características:
 
-- Composizione: Sintetico
-- Dimensioni: 21.00x23.50x9.50
 - Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
+- Dimensioni: 21.00x23.50x9.50
+- Composizione: Sintetico
 
 [Visítala!!!](https://www.amazon.it/dp/B086WMRKSF/?tag=tolees00-21)
 

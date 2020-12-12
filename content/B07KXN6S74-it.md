@@ -28,13 +28,13 @@ Tienes [Xiaomi Mi Kit di Sicurezza  Automazione Domotica Casa  Smart Home  Versi
 
 Características principales:
 
-- Mi Control Hub: centro di controllo della tua casa smart
+- Temperatura di funzionamento: -5°C - +40°C
+- Compatibile con sistemi e dispositivi Mi Home
 - Installazione semplice
 - Campanello di allarme per porte e finestre
-- Rileva i movimenti umani e degli animali
 - Mini telecomando di controlli degli oggetti collegati
-- Compatibile con sistemi e dispositivi Mi Home
-- Temperatura di funzionamento: -5°C - +40°C
+- Mi Control Hub: centro di controllo della tua casa smart
+- Rileva i movimenti umani e degli animali
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KXN6S74/?tag=tolees00-21)
 

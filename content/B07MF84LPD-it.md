@@ -28,11 +28,11 @@ Está [Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidab
 
 Principales características:
 
-- Spessore della cassa: 12 mm; dimensioni della cassa: 48 mm
 - Resistente AllAcqua: 5 ATM
-- Confezionato nella gift box Diesel
 - Larghezza del cinturino: 22 mm; circonferenza del cinturino: 200 +/-5 mm
 - Materiale del cinturino: Silicone
+- Confezionato nella gift box Diesel
+- Spessore della cassa: 12 mm; dimensioni della cassa: 48 mm
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MF84LPD/?tag=tolees00-21)
 

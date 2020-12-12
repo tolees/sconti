@@ -28,9 +28,9 @@ Tienes [The Last of Us 2 - Playstation 4](https://www.amazon.it/dp/B07DLS9N8V/?t
 
 Características principales:
 
+- Uno dei franchise più famosi ed amati del mondo PlayStation con ottimi risultati di vendita in Italia
 - Sistema di gameplay rivoluzionato che rende ogni sfida, ogni scontro più realistico, coinvolgente ed appaga
 - Edizione Standard del gioco
-- Uno dei franchise più famosi ed amati del mondo PlayStation con ottimi risultati di vendita in Italia
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DLS9N8V/?tag=tolees00-21)
 

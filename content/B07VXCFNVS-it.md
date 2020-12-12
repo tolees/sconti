@@ -28,9 +28,9 @@ Está [Kingston A2000  SA2000M8/500G  NVMe PCIe SSD 500G  500 GB](https://www.am
 
 Principales características:
 
-- Opzioni di upgrade fino a 1tb
 - Ideale per dispositivi ultrabook e per sistemi pc sff (small form factor)
 - Supporto completo per le suite di sicurezza (tcg opal, xts-aes 256-bit, edrive)
+- Opzioni di upgrade fino a 1tb
 - Prestazioni pcie nvme a una frazione del costo
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21)

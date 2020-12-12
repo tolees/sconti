@@ -30,9 +30,9 @@ Características principales:
 
 - 3 strisce lungo i fianchi
 - Giacca sportiva da uomo
+- Allontana lumidità dalla pelle
 - Tessuto aeroready
 - Dotata di zip integrale e collo alla coreana
-- Allontana lumidità dalla pelle
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B076HR8ZFD/?tag=tolees00-21)
 

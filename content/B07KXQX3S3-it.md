@@ -28,8 +28,8 @@ Está [SanDisk MicroSDXC UHS-I 128 GB - Scheda per Nintendo Switch  Official Nin
 
 Principales características:
 
-- Archivia giochi digitali e contenuti aggiuntivi in un unico spazio e consente di utilizzarli ovunque
 - Scheda di memoria con licenza Nintendo per il sistema Nintendo Switch
+- Archivia giochi digitali e contenuti aggiuntivi in un unico spazio e consente di utilizzarli ovunque
 - Consente di aggiungere immediatamente fino a 128 GB di ulteriore spazio di archiviazione
 - Velocità di trasferimento fino a 100 MB/sec per un rapido caricamento dei giochi
 

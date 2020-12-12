@@ -28,10 +28,10 @@ Está [Sector No Limits Orologio Analogico Quarzo da Donna con Cinturino in Pell
 
 Principales características:
 
-- Durata garanzia: due anni
-- Colore quadrante: rose
 - Grandezza cassa: 31 mm
 - Materiale cinturino: pelle
+- Durata garanzia: due anni
+- Colore quadrante: rose
 - Colore cinturino: nero
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01M0JQONQ/?tag=tolees00-21)

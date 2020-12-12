@@ -28,9 +28,9 @@ Ahora mismo tienes [Olivia Burton Orologio Quarzo con Cinturino in Pelle OB16CB2
 
 Características:
 
-- Cinturino in pelle scamosciata effetto velluto vinaccia
-- Diametro della cassa: 30 mm
 - Quadrante a raggiera in oro rosa con numeri romani in oro rosa
+- Diametro della cassa: 30 mm
+- Cinturino in pelle scamosciata effetto velluto vinaccia
 - Movimento al quarzo giapponese a tre lancette
 - Cassa in acciaio inossidabile con placcatura ionica oro rosa
 

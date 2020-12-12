@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.04 % en Sony Wh-Xb900N - Cuffie Wireless Over-Ea'
-date: 2020-12-10 02:53:45
+date: 2020-12-12 11:21:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg' ]
@@ -28,6 +28,11 @@ Tienes [Sony Wh-Xb900N - Cuffie Wireless Over-Ear con Noise Cancellig Ed Extra B
 
 Características principales:
 
+- Design raffinato e confortevole per un lungo ascolto
+- Cuffia wireless con sistema di eliminazione del rumore
+- Bassi intensi grazie alla tecnologia extra bass
+- Fino a 35 ore di riproduzione musicale wireless
+- Ottimizzata per google assistant e alexa
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21)
 

@@ -28,12 +28,12 @@ Tienes [Hoover FD22RP011 Freedom Scopa Elettrica Senza Filo  ALLERGY & PETS  Aut
 
 Características principales:
 
-- Accessorio 2 in 1: spazzola a pennello per imbottiti
-- Bocchetta per fessure
-- Autonomia fino a 25 min
-- Tempo di ricarica: 6 ore
-- Scopa e aspirapolvere portatile
 - Mini Turbo spazzola trattata agli oni dargento
+- Tempo di ricarica: 6 ore
+- Autonomia fino a 25 min
+- Accessorio 2 in 1: spazzola a pennello per imbottiti
+- Scopa e aspirapolvere portatile
+- Bocchetta per fessure
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XGJK4T2/?tag=tolees00-21)
 

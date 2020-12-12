@@ -28,12 +28,12 @@ Tienes [Sony SEL-50F18F Obiettivo a Focale Fissa 50 mm F1.8  Mirrorless Full-Fra
 
 Características principales:
 
-- F1.8 maximum aperture for low-light shots. 7 blade circular aperture for beautiful defocus effects
-- Hood (ALC-SH146), lens front cap (ALC-F49S), lens rear cap (ALC-R1EM)
-- 75mm (35mm equivalent) focal length with APS-C sensor. Aspherical lens
 - Compact, lightweight, easy to carry, Lens front cap, Lens rear cap
 - Three ways focus. Auto focus: The camera focuses automatically. Operating sounds may also be recorded during movie recording
+- Hood (ALC-SH146), lens front cap (ALC-F49S), lens rear cap (ALC-R1EM)
 - DMF (Direct manual focus):After the camera focuses in auto focus, you can make a fine adjustment manually. Manual focus: Focus manually.
+- F1.8 maximum aperture for low-light shots. 7 blade circular aperture for beautiful defocus effects
+- 75mm (35mm equivalent) focal length with APS-C sensor. Aspherical lens
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21)
 

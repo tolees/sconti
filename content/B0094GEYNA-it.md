@@ -28,9 +28,9 @@ Está [Asmodee - Dobble Divertente Gioco da Tavolo per Tutta la Famiglia Edizion
 
 Principales características:
 
-- Dobble è un gioco di rapidità in cui dovete essere i più rapidi a trovare il simbolo identico tra due carte!
-- Lingua: edizione interamente in italiano
 - Numero di giocatori: da 2 a 8
+- Lingua: edizione interamente in italiano
+- Dobble è un gioco di rapidità in cui dovete essere i più rapidi a trovare il simbolo identico tra due carte!
 - Durata media: 15 min.
 - Età suggerita: da 6 anni in su
 
