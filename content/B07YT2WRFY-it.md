@@ -25,7 +25,7 @@ Tienes [God of War Hits - PlayStation 4](https://www.amazon.it/dp/B07YT2WRFY/?ta
 ℹ️:
 
 - Circa 30 ore di gioco da vivere immerso negli incontaminati regni del folklore nordico
-- Un rinnovato inizio in grado di appassionare nuovi giocatori e fan della saga
 - Sfrutta appieno il potenziale di PS4 e PS4 Pro
+- Un rinnovato inizio in grado di appassionare nuovi giocatori e fan della saga
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07YT2WRFY/?tag=tolees00-21)

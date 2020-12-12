@@ -24,9 +24,9 @@ Ahora mismo tienes [Nioh Hits - PlayStation 4](https://www.amazon.it/dp/B07TLY1L
 
 🔎:
 
-- Dai creatori di ninja gaiden
 - Longevo e coinvolgente
 - Narrativa avvincente ispirata ad una storia vera
+- Dai creatori di ninja gaiden
 - Gameplay profondo ispirato allo stile unico di darksouls e bloodborne
 
 [Visítala!!!](https://www.amazon.it/dp/B07TLY1L3M/?tag=tolees00-21)

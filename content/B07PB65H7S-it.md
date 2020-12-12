@@ -24,9 +24,9 @@ Está [Days Gone - PlayStation 4](https://www.amazon.it/dp/B07PB65H7S/?tag=tolee
 
 ℹ️:
 
-- Un’eroe tormentato capacedi non arrendersimai, che evolverà assieme alla narrazione
 - La moto; chiave per la sopravvivenza, andrà domatae potenziata; trascurarla vuol dire ritrovarsia piedi all’infern0
 - Dinamiche di gioco uniche grazie all’interazione tra Deacone la sua moto; un’esperienza longeva grazie alle numerose sfide e missioni secondarie
+- Un’eroe tormentato capacedi non arrendersimai, che evolverà assieme alla narrazione
 - Un Open World, vivo come non mai, che ti terrà sempre sul chi vive; ambienti e meteo dinamici che rendono il gameplay sempre vario ed immersivo
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07PB65H7S/?tag=tolees00-21)
