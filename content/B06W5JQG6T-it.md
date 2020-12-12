@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips HD9216/80 Airfryer Friggitrice Low-Oil e Multicooker
 
 [![Philips HD9216/80 Airfryer Friggitrice L](https://m.media-amazon.com/images/I/41Te7Sy5xgL._SL200_.jpg)](https://www.amazon.it/dp/B06W5JQG6T/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B06W5JQG6T/?tag=tolees00-21)

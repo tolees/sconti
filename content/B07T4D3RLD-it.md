@@ -22,7 +22,7 @@ Ahora mismo tienes [Dragon Ball Z: Kakarot - Xbox One  12 anni+](https://www.ama
 
 [![Dragon Ball Z: Kakarot - Xbox One  12 an](https://m.media-amazon.com/images/I/518B3gMjSkL._SL200_.jpg)](https://www.amazon.it/dp/B07T4D3RLD/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07T4D3RLD/?tag=tolees00-21)

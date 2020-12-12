@@ -22,7 +22,7 @@ Ahora mismo tienes [Havaianas Slim 4000030  Infradito Donna  Rosa  Hollywood Ros
 
 [![Havaianas Slim 4000030  Infradito Donna ](https://m.media-amazon.com/images/I/31KvSSiE30L._SL200_.jpg)](https://www.amazon.it/dp/B07FH589SH/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07FH589SH/?tag=tolees00-21)

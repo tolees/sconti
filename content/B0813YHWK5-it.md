@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Lite Racer 2.0  Scarpe da Corsa Mens  Core Black/Ftwr
 
 [![adidas Lite Racer 2.0  Scarpe da Corsa M](https://m.media-amazon.com/images/I/41IHdw3d7xL._SL200_.jpg)](https://www.amazon.it/dp/B0813YHWK5/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0813YHWK5/?tag=tolees00-21)

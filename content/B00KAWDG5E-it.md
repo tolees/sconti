@@ -22,7 +22,7 @@ Ahora mismo tienes [Burton Powerstretch Liner  Guanti Uomo  Nero  ML](https://ww
 
 [![Burton Powerstretch Liner  Guanti Uomo  ](https://m.media-amazon.com/images/I/41QOjUzJxdL._SL200_.jpg)](https://www.amazon.it/dp/B00KAWDG5E/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00KAWDG5E/?tag=tolees00-21)

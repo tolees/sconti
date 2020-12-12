@@ -22,7 +22,7 @@ Ahora mismo tienes [Auricolari Bluetooth Cuffie Bluetooth Pro 5.0 Cuffie Wireles
 
 [![Auricolari Bluetooth Cuffie Bluetooth Pr](https://m.media-amazon.com/images/I/41KoypLNwnL._SL200_.jpg)](https://www.amazon.it/dp/B08CSL3DKD/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08CSL3DKD/?tag=tolees00-21)

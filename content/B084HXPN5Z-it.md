@@ -22,7 +22,7 @@ Ahora mismo tienes [Fallout 76  Wastelanders  PlayStation 4](https://www.amazon.
 
 [![Fallout 76  Wastelanders  PlayStation 4](https://m.media-amazon.com/images/I/51y6Mqbm5uL._SL200_.jpg)](https://www.amazon.it/dp/B084HXPN5Z/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B084HXPN5Z/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Love Moschino Jc4256pp0a  Borsa Tote Donna  Avorio  Ivory   
 
 [![Love Moschino Jc4256pp0a  Borsa Tote Don](https://m.media-amazon.com/images/I/31aAYjJWD2L._SL200_.jpg)](https://www.amazon.it/dp/B07V4M4R8F/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07V4M4R8F/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW CPO Slim Camicia in Jeans  Multicolore  Medium Ag
 
 [![G-STAR RAW CPO Slim Camicia in Jeans  Mu](https://m.media-amazon.com/images/I/41qXdQvijYL._SL200_.jpg)](https://www.amazon.it/dp/B07NDL5B68/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07NDL5B68/?tag=tolees00-21)

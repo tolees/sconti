@@ -22,7 +22,7 @@ Ahora mismo tienes [NEWHEY Borsa Donna Borsa Porta PC 15.6 Pollici Grande Imperm
 
 [![NEWHEY Borsa Donna Borsa Porta PC 15.6 P](https://m.media-amazon.com/images/I/51ID96mx78L._SL200_.jpg)](https://www.amazon.it/dp/B08DJ6YNW3/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DJ6YNW3/?tag=tolees00-21)

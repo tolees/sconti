@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica 
 
 [![New Balance Unisex - Adulto 574v2 Core S](https://m.media-amazon.com/images/I/515fzcFMtcL._SL200_.jpg)](https://www.amazon.it/dp/B06XX8PXML/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B06XX8PXML/?tag=tolees00-21)

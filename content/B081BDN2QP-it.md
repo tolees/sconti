@@ -22,7 +22,7 @@ Ahora mismo tienes [Vernel Supreme Rosa Romance Ammorbidente Concentrato Lavatri
 
 [![Vernel Supreme Rosa Romance Ammorbidente](https://m.media-amazon.com/images/I/51XSA9RP28L._SL200_.jpg)](https://www.amazon.it/dp/B081BDN2QP/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B081BDN2QP/?tag=tolees00-21)

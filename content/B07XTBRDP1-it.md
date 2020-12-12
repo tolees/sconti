@@ -22,7 +22,7 @@ Ahora mismo tienes [FOXONU Power Bank 26800mAh  Carica Veloce Caricabatterie Por
 
 [![FOXONU Power Bank 26800mAh  Carica Veloc](https://m.media-amazon.com/images/I/41uNwgWQipL._SL200_.jpg)](https://www.amazon.it/dp/B07XTBRDP1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07XTBRDP1/?tag=tolees00-21)

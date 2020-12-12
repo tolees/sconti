@@ -22,7 +22,7 @@ Ahora mismo tienes [Wc Net - Tavoletta Solida Profumoso Lavanda - 4 pezzi x 12 c
 
 [![Wc Net - Tavoletta Solida Profumoso Lava](https://m.media-amazon.com/images/I/41P07uTxQnL._SL200_.jpg)](https://www.amazon.it/dp/B06WW7MVT7/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B06WW7MVT7/?tag=tolees00-21)

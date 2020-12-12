@@ -22,7 +22,7 @@ Ahora mismo tienes [Thorlo Thorlos Crew-Calzini da tennis  taglia M  colore: Bia
 
 [![Thorlo Thorlos Crew-Calzini da tennis  t](https://m.media-amazon.com/images/I/41zCPbRiy4L._SL200_.jpg)](https://www.amazon.it/dp/B0009MZXI8/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0009MZXI8/?tag=tolees00-21)

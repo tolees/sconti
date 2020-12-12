@@ -22,7 +22,7 @@ Ahora mismo tienes [Ravensburger Puzzle - Krypt Gold 631 Pezzi  15152 3](https:/
 
 [![Ravensburger Puzzle - Krypt Gold 631 Pez](https://m.media-amazon.com/images/I/61732WtpEsL._SL200_.jpg)](https://www.amazon.it/dp/B06XCP2C3S/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B06XCP2C3S/?tag=tolees00-21)

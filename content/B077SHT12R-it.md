@@ -22,7 +22,7 @@ Ahora mismo tienes [Yankee Candle candela profumata in giara media  Un luogo cal
 
 [![Yankee Candle candela profumata in giara](https://m.media-amazon.com/images/I/41umqZgZbdL._SL200_.jpg)](https://www.amazon.it/dp/B077SHT12R/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B077SHT12R/?tag=tolees00-21)

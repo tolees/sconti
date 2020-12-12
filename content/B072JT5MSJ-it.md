@@ -22,7 +22,7 @@ Ahora mismo tienes [EKKONG Zanzariera Magnetica per Porte - Dimensioni 90 x 210 
 
 [![EKKONG Zanzariera Magnetica per Porte - ](https://m.media-amazon.com/images/I/617-pO4Cy0L._SL200_.jpg)](https://www.amazon.it/dp/B072JT5MSJ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B072JT5MSJ/?tag=tolees00-21)

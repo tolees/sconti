@@ -22,7 +22,7 @@ Ahora mismo tienes [Calvin Klein Racer Back One Piece Reggiseno Bikini  Rosso  H
 
 [![Calvin Klein Racer Back One Piece Reggis](https://m.media-amazon.com/images/I/41vFoyXsS9L._SL200_.jpg)](https://www.amazon.it/dp/B07VLHS58N/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VLHS58N/?tag=tolees00-21)

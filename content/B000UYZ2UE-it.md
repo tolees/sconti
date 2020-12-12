@@ -22,7 +22,7 @@ Ahora mismo tienes [Makita KP312S - Cepillo 2200W 12000 rpm 18.4 kg ancho 312 mm
 
 [![Makita KP312S - Cepillo 2200W 12000 rpm ](https://m.media-amazon.com/images/I/51DBxEeblML._SL200_.jpg)](https://www.amazon.it/dp/B000UYZ2UE/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B000UYZ2UE/?tag=tolees00-21)

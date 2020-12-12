@@ -22,7 +22,7 @@ Ahora mismo tienes [Elyco Corda Saltare per Nintendo Switch Jump Rope Challenge 
 
 [![Elyco Corda Saltare per Nintendo Switch ](https://m.media-amazon.com/images/I/51fElVlCrdL._SL200_.jpg)](https://www.amazon.it/dp/B08C4Y5GHY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08C4Y5GHY/?tag=tolees00-21)

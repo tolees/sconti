@@ -22,7 +22,7 @@ Ahora mismo tienes [Controller wireless PS4 per laptop Playstation 4 / Pro/Slim/
 
 [![Controller wireless PS4 per laptop Plays](https://m.media-amazon.com/images/I/21MGhAh6A4L._SL200_.jpg)](https://www.amazon.it/dp/B07PXC1JRV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07PXC1JRV/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Cuffie Wireless TV con Trasmissione   Senza Fili Cuffia con 
 
 [![Cuffie Wireless TV con Trasmissione   Se](https://m.media-amazon.com/images/I/41RzYFDZv3L._SL200_.jpg)](https://www.amazon.it/dp/B08GP45TMZ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08GP45TMZ/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Huawei P40 Lite Crush Green 6.4" 6gb/128gb Dual Sim](https:/
 
 [![Huawei P40 Lite Crush Green 6.4" 6gb/128](https://m.media-amazon.com/images/I/316f9jH19BL._SL200_.jpg)](https://www.amazon.it/dp/B084YQPQ5M/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B084YQPQ5M/?tag=tolees00-21)

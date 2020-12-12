@@ -22,7 +22,7 @@ Ahora mismo tienes [Cowin E7 Active Noise Cancelling Cuffie Bluetooth con microf
 
 [![Cowin E7 Active Noise Cancelling Cuffie ](https://m.media-amazon.com/images/I/41oedUdiI6L._SL200_.jpg)](https://www.amazon.it/dp/B07LBC1RBB/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07LBC1RBB/?tag=tolees00-21)

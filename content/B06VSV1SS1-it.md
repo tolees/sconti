@@ -22,7 +22,7 @@ Ahora mismo tienes [Hoover SR 01 Scopa Elettrica con Sacco 1 5 litri  Syrene  Bl
 
 [![Hoover SR 01 Scopa Elettrica con Sacco 1](https://m.media-amazon.com/images/I/31TtTys83cL._SL200_.jpg)](https://www.amazon.it/dp/B06VSV1SS1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B06VSV1SS1/?tag=tolees00-21)

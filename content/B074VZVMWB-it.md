@@ -22,7 +22,7 @@ Ahora mismo tienes [Michael Kors Orologio Analogico Quarzo Da Uomo Con Cinturino
 
 [![Michael Kors Orologio Analogico Quarzo D](https://m.media-amazon.com/images/I/41DwAAloXUL._SL200_.jpg)](https://www.amazon.it/dp/B074VZVMWB/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B074VZVMWB/?tag=tolees00-21)

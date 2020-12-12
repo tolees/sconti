@@ -22,7 +22,7 @@ Ahora mismo tienes [Kärcher K 4 - Idropulitrice a Freddo  130 Bar  420 L/H  30 
 
 [![Kärcher K 4 - Idropulitrice a Freddo  13](https://m.media-amazon.com/images/I/4119VOhGquL._SL200_.jpg)](https://www.amazon.it/dp/B00INX005Q/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00INX005Q/?tag=tolees00-21)

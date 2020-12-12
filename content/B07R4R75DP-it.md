@@ -22,7 +22,7 @@ Ahora mismo tienes [Cuffie per giochi per PS4  Cuffie per giocatori a LED  blu  
 
 [![Cuffie per giochi per PS4  Cuffie per gi](https://m.media-amazon.com/images/I/41HRKwcUFJL._SL200_.jpg)](https://www.amazon.it/dp/B07R4R75DP/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07R4R75DP/?tag=tolees00-21)

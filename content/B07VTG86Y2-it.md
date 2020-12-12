@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Levis 168sf Mid Cut 3p Calze  Blu  Navy 321   43/46  
 
 [![Levi s Levis 168sf Mid Cut 3p Calze  Blu](https://m.media-amazon.com/images/I/412ib4EwZyL._SL200_.jpg)](https://www.amazon.it/dp/B07VTG86Y2/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VTG86Y2/?tag=tolees00-21)

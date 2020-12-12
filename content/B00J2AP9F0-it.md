@@ -22,7 +22,7 @@ Ahora mismo tienes [Gillette Fusion Proglide Flexball Rasatura](https://www.amaz
 
 [![Gillette Fusion Proglide Flexball Rasatu](https://m.media-amazon.com/images/I/41gy3uBbMrL._SL200_.jpg)](https://www.amazon.it/dp/B00J2AP9F0/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00J2AP9F0/?tag=tolees00-21)

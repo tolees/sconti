@@ -22,7 +22,7 @@ Ahora mismo tienes [Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con 
 
 [![Marchio Amazon - TRUTH & FABLE Vestito M](https://m.media-amazon.com/images/I/31uYc7bBVuL._SL200_.jpg)](https://www.amazon.it/dp/B07CBYJBL1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07CBYJBL1/?tag=tolees00-21)

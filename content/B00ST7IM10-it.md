@@ -22,7 +22,7 @@ Ahora mismo tienes [Urban Classics Block Swim Shorts Pantaloncini da Bagno  Mult
 
 [![Urban Classics Block Swim Shorts Pantalo](https://m.media-amazon.com/images/I/419oG3nR5lL._SL200_.jpg)](https://www.amazon.it/dp/B00ST7IM10/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00ST7IM10/?tag=tolees00-21)

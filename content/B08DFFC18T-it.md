@@ -22,7 +22,7 @@ Ahora mismo tienes [4G Tablet 10 Pollici con Wifi Offerte Android 9.0 Certificat
 
 [![4G Tablet 10 Pollici con Wifi Offerte An](https://m.media-amazon.com/images/I/41tnmepwZkL._SL200_.jpg)](https://www.amazon.it/dp/B08DFFC18T/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DFFC18T/?tag=tolees00-21)

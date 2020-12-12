@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Adilette Shower  Scarpe da Ginnastica Uomo  Blu  True
 
 [![adidas Adilette Shower  Scarpe da Ginnas](https://m.media-amazon.com/images/I/41yotsvfkEL._SL200_.jpg)](https://www.amazon.it/dp/B07NBPM7D9/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07NBPM7D9/?tag=tolees00-21)

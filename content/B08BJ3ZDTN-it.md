@@ -22,7 +22,7 @@ Ahora mismo tienes [Aigostar - Lampada da scrivania con protezione degli occhi 1
 
 [![Aigostar - Lampada da scrivania con prot](https://m.media-amazon.com/images/I/31O+YkFKBAL._SL200_.jpg)](https://www.amazon.it/dp/B08BJ3ZDTN/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08BJ3ZDTN/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s LS Battery HM Shirt Slim Camicia  Blu  Redcast Stone 
 
 [![Levi s LS Battery HM Shirt Slim Camicia ](https://m.media-amazon.com/images/I/41roCUEXYzL._SL200_.jpg)](https://www.amazon.it/dp/B07TJ9SDM7/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07TJ9SDM7/?tag=tolees00-21)

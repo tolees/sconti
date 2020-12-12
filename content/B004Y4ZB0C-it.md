@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel Orologio Analogico Quarzo Uomo con Cinturino in Accia
 
 [![Diesel Orologio Analogico Quarzo Uomo co](https://m.media-amazon.com/images/I/311c043IW9L._SL200_.jpg)](https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21)

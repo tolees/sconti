@@ -22,7 +22,7 @@ Ahora mismo tienes [OUPOD Controller wireless  Bluetooth  per Nintendo Switch Pr
 
 [![OUPOD Controller wireless  Bluetooth  pe](https://m.media-amazon.com/images/I/41wpwroMTJL._SL200_.jpg)](https://www.amazon.it/dp/B08BMLZKVV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08BMLZKVV/?tag=tolees00-21)

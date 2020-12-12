@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Hilfiger O2285TIS 1C  Scarpe da Ginnastica Basse Uomo 
 
 [![Tommy Hilfiger O2285TIS 1C  Scarpe da Gi](https://m.media-amazon.com/images/I/31Ml5Jxn8LL._SL200_.jpg)](https://www.amazon.it/dp/B071FNNNM3/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B071FNNNM3/?tag=tolees00-21)

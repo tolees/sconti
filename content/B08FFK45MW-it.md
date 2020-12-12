@@ -22,7 +22,7 @@ Ahora mismo tienes [Pellicola Xiaomi Mi Note 10 Lite Vetro Temperato  9H Durezza
 
 [![Pellicola Xiaomi Mi Note 10 Lite Vetro T](https://m.media-amazon.com/images/I/41xjAXdR5lL._SL200_.jpg)](https://www.amazon.it/dp/B08FFK45MW/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08FFK45MW/?tag=tolees00-21)

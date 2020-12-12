@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Capri Sunset Wedge  Sandali Donna  Nero Black Nub
 
 [![Timberland Capri Sunset Wedge  Sandali D](https://m.media-amazon.com/images/I/41A-1hndRTL._SL200_.jpg)](https://www.amazon.it/dp/B078SWXN8P/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B078SWXN8P/?tag=tolees00-21)

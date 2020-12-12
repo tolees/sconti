@@ -22,7 +22,7 @@ Ahora mismo tienes [SALOMON Speedcross 4  Scarpe da Trail Running Uomo  Nero  Bl
 
 [![SALOMON Speedcross 4  Scarpe da Trail Ru](https://m.media-amazon.com/images/I/31jfeOwoYqL._SL200_.jpg)](https://www.amazon.it/dp/B017SQX3M0/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B017SQX3M0/?tag=tolees00-21)

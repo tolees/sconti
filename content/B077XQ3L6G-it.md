@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Tech 2.0 Short Sleeve Tee  Maglietta Uomo  R
 
 [![Under Armour UA Tech 2.0 Short Sleeve Te](https://m.media-amazon.com/images/I/41spBHcdTdL._SL200_.jpg)](https://www.amazon.it/dp/B077XQ3L6G/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B077XQ3L6G/?tag=tolees00-21)

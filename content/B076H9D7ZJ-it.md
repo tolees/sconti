@@ -22,7 +22,7 @@ Ahora mismo tienes [Daniel Wellington DW00100217 Orologio Analogico Quarzo Unise
 
 [![Daniel Wellington DW00100217 Orologio An](https://m.media-amazon.com/images/I/41JTBQOcLeL._SL200_.jpg)](https://www.amazon.it/dp/B076H9D7ZJ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B076H9D7ZJ/?tag=tolees00-21)

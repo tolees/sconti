@@ -22,7 +22,7 @@ Ahora mismo tienes [Fjällräven Kånken - Zaino Unisex  13 cm x 27 cm x 38 cm  
 
 [![Fjällräven Kånken - Zaino Unisex  13 cm ](https://m.media-amazon.com/images/I/414N-NLQYHL._SL200_.jpg)](https://www.amazon.it/dp/B002P3P9XS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B002P3P9XS/?tag=tolees00-21)

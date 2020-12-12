@@ -22,7 +22,7 @@ Ahora mismo tienes [TERRY 1000955 Scaffale Modulare a 5 Ripiani  da Interno Este
 
 [![TERRY 1000955 Scaffale Modulare a 5 Ripi](https://m.media-amazon.com/images/I/41as4xr0g9L._SL200_.jpg)](https://www.amazon.it/dp/B00FBEF2FI/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00FBEF2FI/?tag=tolees00-21)

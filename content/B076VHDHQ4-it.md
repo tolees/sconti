@@ -22,7 +22,7 @@ Ahora mismo tienes [Aicok Sacchetti per Sottovuoto Alimenti  Sottovuoto Sacchett
 
 [![Aicok Sacchetti per Sottovuoto Alimenti ](https://m.media-amazon.com/images/I/41uUEGuFzKL._SL200_.jpg)](https://www.amazon.it/dp/B076VHDHQ4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B076VHDHQ4/?tag=tolees00-21)

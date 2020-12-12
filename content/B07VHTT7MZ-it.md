@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Vest Portland Vestito  Nero  Negro 2000   Large Don
 
 [![Desigual Vest Portland Vestito  Nero  Ne](https://m.media-amazon.com/images/I/41S6F1K2vNL._SL200_.jpg)](https://www.amazon.it/dp/B07VHTT7MZ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VHTT7MZ/?tag=tolees00-21)

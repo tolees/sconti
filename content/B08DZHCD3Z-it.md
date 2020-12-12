@@ -22,7 +22,7 @@ Ahora mismo tienes [Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari Wireles
 
 [![Auricolari Bluetooth Cuffia Bluetooth 5.](https://m.media-amazon.com/images/I/41SvD7w6cOL._SL200_.jpg)](https://www.amazon.it/dp/B08DZHCD3Z/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DZHCD3Z/?tag=tolees00-21)

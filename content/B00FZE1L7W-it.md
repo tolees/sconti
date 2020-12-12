@@ -22,7 +22,7 @@ Ahora mismo tienes [Michael Kors Orologio Analogico Quarzo Donna con Cinturino i
 
 [![Michael Kors Orologio Analogico Quarzo D](https://m.media-amazon.com/images/I/41w11TTQvfL._SL200_.jpg)](https://www.amazon.it/dp/B00FZE1L7W/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00FZE1L7W/?tag=tolees00-21)

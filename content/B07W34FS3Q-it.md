@@ -22,7 +22,7 @@ Ahora mismo tienes [Remington Asciugacapelli Curl&Straight Confidence  2200 Watt
 
 [![Remington Asciugacapelli Curl&Straight C](https://m.media-amazon.com/images/I/41ButV5kXtL._SL200_.jpg)](https://www.amazon.it/dp/B07W34FS3Q/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07W34FS3Q/?tag=tolees00-21)

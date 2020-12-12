@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Rush HeatGear Compression Maglietta A Maniche C
 
 [![Under Armour Rush HeatGear Compression M](https://m.media-amazon.com/images/I/31h3WExj2ML._SL200_.jpg)](https://www.amazon.it/dp/B07SN5G8QW/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07SN5G8QW/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Air Max 270 React  Scarpe da Ginnastica Uomo  Nero  Bla
 
 [![Nike Air Max 270 React  Scarpe da Ginnas](https://m.media-amazon.com/images/I/3100oTQBAaL._SL200_.jpg)](https://www.amazon.it/dp/B07ZTV1BWD/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07ZTV1BWD/?tag=tolees00-21)

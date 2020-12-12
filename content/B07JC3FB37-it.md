@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO Juniors Buzz e Woody e La Mania del Carnevale  Gioco pe
 
 [![LEGO Juniors Buzz e Woody e La Mania del](https://m.media-amazon.com/images/I/51wq7ntanjL._SL200_.jpg)](https://www.amazon.it/dp/B07JC3FB37/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07JC3FB37/?tag=tolees00-21)

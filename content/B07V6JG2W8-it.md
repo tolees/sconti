@@ -22,7 +22,7 @@ Ahora mismo tienes [YAMAMAY® Costume da Bagno Slip Mare Tinta Unita - Essential
 
 [![YAMAMAY® Costume da Bagno Slip Mare Tint](https://m.media-amazon.com/images/I/51FBsoltdOL._SL200_.jpg)](https://www.amazon.it/dp/B07V6JG2W8/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07V6JG2W8/?tag=tolees00-21)

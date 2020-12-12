@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Urban Rain.RDY  Giacca Sportiva Uomo  Black  M](https
 
 [![adidas Urban Rain.RDY  Giacca Sportiva U](https://m.media-amazon.com/images/I/31WNSkjvRvL._SL200_.jpg)](https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21)

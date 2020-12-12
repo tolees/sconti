@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Ripple TS  Maglietta Uomo  Bianco  White/Shock Pink  
 
 [![adidas Ripple TS  Maglietta Uomo  Bianco](https://m.media-amazon.com/images/I/31qTAqYx61L._SL200_.jpg)](https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21)

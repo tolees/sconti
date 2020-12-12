@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Exofit Lo Clean Logo Int  Scarpe da Ginnastica Basse 
 
 [![Reebok Exofit Lo Clean Logo Int  Scarpe ](https://m.media-amazon.com/images/I/31LTCe0AzZL._SL200_.jpg)](https://www.amazon.it/dp/B01IY4G9WQ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01IY4G9WQ/?tag=tolees00-21)

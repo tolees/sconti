@@ -22,7 +22,7 @@ Ahora mismo tienes [Michael Kors Orologio Cronografo Quarzo Uomo con Cinturino i
 
 [![Michael Kors Orologio Cronografo Quarzo ](https://m.media-amazon.com/images/I/41svzmTh4RL._SL200_.jpg)](https://www.amazon.it/dp/B00GJNL0D8/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00GJNL0D8/?tag=tolees00-21)

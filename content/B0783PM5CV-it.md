@@ -22,7 +22,7 @@ Ahora mismo tienes [PUMA Smash Wns V2 L  Scarpe da Ginnastica Donna  Nero Black 
 
 [![PUMA Smash Wns V2 L  Scarpe da Ginnastic](https://m.media-amazon.com/images/I/41+BEP4zcuL._SL200_.jpg)](https://www.amazon.it/dp/B0783PM5CV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0783PM5CV/?tag=tolees00-21)

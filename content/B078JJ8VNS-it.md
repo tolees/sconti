@@ -22,7 +22,7 @@ Ahora mismo tienes [Huion Inspiroy H430P Tavoletta grafica da disegno Tavoletta 
 
 [![Huion Inspiroy H430P Tavoletta grafica d](https://m.media-amazon.com/images/I/41Mx6ZBPGqL._SL200_.jpg)](https://www.amazon.it/dp/B078JJ8VNS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B078JJ8VNS/?tag=tolees00-21)

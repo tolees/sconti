@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia SANTIAM 2 Strap  Sandali Uomo  Grigio  Dark Grey Ru
 
 [![Columbia SANTIAM 2 Strap  Sandali Uomo  ](https://m.media-amazon.com/images/I/31lb5zLbN4L._SL200_.jpg)](https://www.amazon.it/dp/B073RNWD7Z/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B073RNWD7Z/?tag=tolees00-21)

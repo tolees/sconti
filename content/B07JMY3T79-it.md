@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Adventure 2.0 Cupsole Alpine Oxford  Sneakers Bas
 
 [![Timberland Adventure 2.0 Cupsole Alpine ](https://m.media-amazon.com/images/I/31WTF+eisiL._SL200_.jpg)](https://www.amazon.it/dp/B07JMY3T79/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07JMY3T79/?tag=tolees00-21)

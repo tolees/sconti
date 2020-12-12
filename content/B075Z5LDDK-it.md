@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmhot Nine HW DNM Pencil Skirt Mix Noos Gonna  Blu
 
 [![Vero Moda Vmhot Nine HW DNM Pencil Skirt](https://m.media-amazon.com/images/I/41nCE3b0xFL._SL200_.jpg)](https://www.amazon.it/dp/B075Z5LDDK/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B075Z5LDDK/?tag=tolees00-21)

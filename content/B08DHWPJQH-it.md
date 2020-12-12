@@ -22,7 +22,7 @@ Ahora mismo tienes [Huawei 55030701 Nano Memory Card  128 GB Con Lettore Di Sche
 
 [![Huawei 55030701 Nano Memory Card  128 GB](https://m.media-amazon.com/images/I/31cpRzJAglL._SL200_.jpg)](https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21)

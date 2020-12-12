@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B Pro 2 2500 Spazzolino Elettrico Ricaricabile  1 Spazz
 
 [![Oral-B Pro 2 2500 Spazzolino Elettrico R](https://m.media-amazon.com/images/I/51hh4rXqEcL._SL200_.jpg)](https://www.amazon.it/dp/B07FSTKJ4Z/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07FSTKJ4Z/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Seanshow - Set di 3 trolley in ABS di alta qualità  con luc
 
 [![Seanshow - Set di 3 trolley in ABS di al](https://m.media-amazon.com/images/I/41iXziyIOmL._SL200_.jpg)](https://www.amazon.it/dp/B07X2FVRZ2/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07X2FVRZ2/?tag=tolees00-21)

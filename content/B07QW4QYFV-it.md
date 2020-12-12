@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Innovation Super Skinny Jeans  Blu  Globe Trotter 006
 
 [![Levi s Innovation Super Skinny Jeans  Bl](https://m.media-amazon.com/images/I/31I948RB7kL._SL200_.jpg)](https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21)

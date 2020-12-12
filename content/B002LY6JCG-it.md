@@ -22,7 +22,7 @@ Ahora mismo tienes [Star GranPesto alla Genovese  senza Aglio - 190 g](https://w
 
 [![Star GranPesto alla Genovese  senza Agli](https://m.media-amazon.com/images/I/513vr6AwhOL._SL200_.jpg)](https://www.amazon.it/dp/B002LY6JCG/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B002LY6JCG/?tag=tolees00-21)

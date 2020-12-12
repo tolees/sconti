@@ -22,7 +22,7 @@ Ahora mismo tienes [Xiaomi Redmi Airdots 2  Timoom Cuffie Bluetooth 5.0  Origina
 
 [![Xiaomi Redmi Airdots 2  Timoom Cuffie Bl](https://m.media-amazon.com/images/I/41ClPgDU6-L._SL200_.jpg)](https://www.amazon.it/dp/B08F1X6ZH2/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08F1X6ZH2/?tag=tolees00-21)

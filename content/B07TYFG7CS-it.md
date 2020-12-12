@@ -22,7 +22,7 @@ Ahora mismo tienes [Boss T-Shirt RN 24  Grigio  Medium Grey 32   Small Uomo](htt
 
 [![Boss T-Shirt RN 24  Grigio  Medium Grey ](https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL200_.jpg)](https://www.amazon.it/dp/B07TYFG7CS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07TYFG7CS/?tag=tolees00-21)

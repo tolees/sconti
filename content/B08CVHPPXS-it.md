@@ -22,7 +22,7 @@ Ahora mismo tienes [Hard Disk Esterno  Hard Disk 2 tb Esterno USB3.1/Type C Hard
 
 [![Hard Disk Esterno  Hard Disk 2 tb Estern](https://m.media-amazon.com/images/I/21-o91unJHL._SL200_.jpg)](https://www.amazon.it/dp/B08CVHPPXS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08CVHPPXS/?tag=tolees00-21)

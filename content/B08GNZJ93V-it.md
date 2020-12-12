@@ -22,7 +22,7 @@ Ahora mismo tienes [BAITITON NVME 120GB Unità SSD M.2 2280 PCIe Express GEN3.0x
 
 [![BAITITON NVME 120GB Unità SSD M.2 2280 P](https://m.media-amazon.com/images/I/41T0KUB2bQL._SL200_.jpg)](https://www.amazon.it/dp/B08GNZJ93V/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08GNZJ93V/?tag=tolees00-21)

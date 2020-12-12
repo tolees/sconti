@@ -22,7 +22,7 @@ Ahora mismo tienes [Calvin Klein 3p Trunk Boxer  Nero  B-Minnow/Horoscope/Infern
 
 [![Calvin Klein 3p Trunk Boxer  Nero  B-Min](https://m.media-amazon.com/images/I/31PdiN-klhL._SL200_.jpg)](https://www.amazon.it/dp/B07VKJ7W48/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VKJ7W48/?tag=tolees00-21)

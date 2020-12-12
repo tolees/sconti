@@ -22,7 +22,7 @@ Ahora mismo tienes [EasySMX Controller per Switch / Switch Lite  Controller swit
 
 [![EasySMX Controller per Switch / Switch L](https://m.media-amazon.com/images/I/51FgUYcv9qL._SL200_.jpg)](https://www.amazon.it/dp/B08DNZNLZV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DNZNLZV/?tag=tolees00-21)

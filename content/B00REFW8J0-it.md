@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  Bla
 
 [![Reebok Classic Leather  Scarpe da Ginnas](https://m.media-amazon.com/images/I/41fL8zQKIML._SL200_.jpg)](https://www.amazon.it/dp/B00REFW8J0/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00REFW8J0/?tag=tolees00-21)

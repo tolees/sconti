@@ -22,7 +22,7 @@ Ahora mismo tienes [Mini Drone per Bambini e Principianti AT-66 RC Quadcopter Dr
 
 [![Mini Drone per Bambini e Principianti AT](https://m.media-amazon.com/images/I/41FdUoNnlaL._SL200_.jpg)](https://www.amazon.it/dp/B08CH8XMK4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08CH8XMK4/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  B
 
 [![PUMA Ralph Sampson Lo  Scarpe da Ginnast](https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg)](https://www.amazon.it/dp/B07KG7L6JT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07KG7L6JT/?tag=tolees00-21)

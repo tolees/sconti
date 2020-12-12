@@ -22,7 +22,7 @@ Ahora mismo tienes [Calvin Klein Boxer Brief 2pk  Nero  Black with/White WB Bnm 
 
 [![Calvin Klein Boxer Brief 2pk  Nero  Blac](https://m.media-amazon.com/images/I/41IzZDDkRLL._SL200_.jpg)](https://www.amazon.it/dp/B07VJL1PX6/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VJL1PX6/?tag=tolees00-21)

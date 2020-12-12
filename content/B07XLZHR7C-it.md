@@ -22,7 +22,7 @@ Ahora mismo tienes [WESCO Cacciavite Elettrico 3.6V  3.5N.m Avvitatore a Batteri
 
 [![WESCO Cacciavite Elettrico 3.6V  3.5N.m ](https://m.media-amazon.com/images/I/41uWXUhHylL._SL200_.jpg)](https://www.amazon.it/dp/B07XLZHR7C/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07XLZHR7C/?tag=tolees00-21)

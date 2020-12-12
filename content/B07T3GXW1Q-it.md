@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Boroughs Project Leather Oxford Sneaker  Uomo  Ve
 
 [![Timberland Boroughs Project Leather Oxfo](https://m.media-amazon.com/images/I/31Lqf384daL._SL200_.jpg)](https://www.amazon.it/dp/B07T3GXW1Q/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07T3GXW1Q/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Havaianas Flash Urban  Sandali Donna  Oro  Rose Gold 3581   
 
 [![Havaianas Flash Urban  Sandali Donna  Or](https://m.media-amazon.com/images/I/315IfnXLZAL._SL200_.jpg)](https://www.amazon.it/dp/B00IAO5OVS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00IAO5OVS/?tag=tolees00-21)

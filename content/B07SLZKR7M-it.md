@@ -22,7 +22,7 @@ Ahora mismo tienes [Havaianas Urban Basic II  Infradito Uomo  Blu  Marine/Blue I
 
 [![Havaianas Urban Basic II  Infradito Uomo](https://m.media-amazon.com/images/I/41D-UDNu8AL._SL200_.jpg)](https://www.amazon.it/dp/B07SLZKR7M/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07SLZKR7M/?tag=tolees00-21)

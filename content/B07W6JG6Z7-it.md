@@ -22,7 +22,7 @@ Ahora mismo tienes [Logitech MX Master 3 Mouse Wireless Avanzato  Ricevitore Blu
 
 [![Logitech MX Master 3 Mouse Wireless Avan](https://m.media-amazon.com/images/I/41a-hd-W1LL._SL200_.jpg)](https://www.amazon.it/dp/B07W6JG6Z7/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07W6JG6Z7/?tag=tolees00-21)

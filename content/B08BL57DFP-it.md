@@ -22,7 +22,7 @@ Ahora mismo tienes [Striscia LED RGB 5M 8 Colori 18 Modalità Più Colori insiem
 
 [![Striscia LED RGB 5M 8 Colori 18 Modalità](https://m.media-amazon.com/images/I/51mUArTDWML._SL200_.jpg)](https://www.amazon.it/dp/B08BL57DFP/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08BL57DFP/?tag=tolees00-21)

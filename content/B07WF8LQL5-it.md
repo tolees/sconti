@@ -22,7 +22,7 @@ Ahora mismo tienes [WD BLACK D10 Game Drive for Xbox One 12 TB  HDD desktop da 7
 
 [![WD BLACK D10 Game Drive for Xbox One 12 ](https://m.media-amazon.com/images/I/414+6I6i7nL._SL200_.jpg)](https://www.amazon.it/dp/B07WF8LQL5/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07WF8LQL5/?tag=tolees00-21)

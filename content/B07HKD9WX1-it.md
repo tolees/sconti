@@ -22,7 +22,7 @@ Ahora mismo tienes [National Geographic Multi Colour Stazione meteorologica Radi
 
 [![National Geographic Multi Colour Stazion](https://m.media-amazon.com/images/I/41ezaSVVY-L._SL200_.jpg)](https://www.amazon.it/dp/B07HKD9WX1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07HKD9WX1/?tag=tolees00-21)

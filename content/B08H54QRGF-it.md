@@ -22,7 +22,7 @@ Ahora mismo tienes [MMLsure 6 Pezzi indossabili all Interno e all Esterno  6 Pez
 
 [![MMLsure 6 Pezzi indossabili all Interno ](https://m.media-amazon.com/images/I/41OiOSQpe+L._SL200_.jpg)](https://www.amazon.it/dp/B08H54QRGF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08H54QRGF/?tag=tolees00-21)

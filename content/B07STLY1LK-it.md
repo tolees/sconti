@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Bianco 
 
 [![Geox D PONTOISE D  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/31kU7Qfm2rL._SL200_.jpg)](https://www.amazon.it/dp/B07STLY1LK/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07STLY1LK/?tag=tolees00-21)

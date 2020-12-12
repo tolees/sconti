@@ -22,7 +22,7 @@ Ahora mismo tienes [KiplingIaka L WristletDonnaPortamoneteMulticolore  Speckled 
 
 [![KiplingIaka L WristletDonnaPortamoneteMu](https://m.media-amazon.com/images/I/41oeg5K5VxL._SL200_.jpg)](https://www.amazon.it/dp/B07TTPCZ7D/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07TTPCZ7D/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [ORICO Case Esterno per Disco Rigido 2 5     Custodia Esterna
 
 [![ORICO Case Esterno per Disco Rigido 2 5 ](https://m.media-amazon.com/images/I/41huo7oeuEL._SL200_.jpg)](https://www.amazon.it/dp/B08B5VFWV1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08B5VFWV1/?tag=tolees00-21)

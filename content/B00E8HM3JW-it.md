@@ -22,7 +22,7 @@ Ahora mismo tienes [Assortimento Kraftform Kompakt Micro ESD/20 SB  20 pezzi](ht
 
 [![Assortimento Kraftform Kompakt Micro ESD](https://m.media-amazon.com/images/I/416qatJADaL._SL200_.jpg)](https://www.amazon.it/dp/B00E8HM3JW/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00E8HM3JW/?tag=tolees00-21)

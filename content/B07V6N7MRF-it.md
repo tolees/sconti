@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Fast Trek II  Giacca in pile con cerniera  Uomo](ht
 
 [![Columbia Fast Trek II  Giacca in pile co](https://m.media-amazon.com/images/I/31ROJkDabSL._SL200_.jpg)](https://www.amazon.it/dp/B07V6N7MRF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07V6N7MRF/?tag=tolees00-21)

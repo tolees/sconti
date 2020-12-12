@@ -22,7 +22,7 @@ Ahora mismo tienes [Yamaha MusicCast BAR 400  YAS-408  Soundbar e Subwoofer – 
 
 [![Yamaha MusicCast BAR 400  YAS-408  Sound](https://m.media-amazon.com/images/I/31vU8O0uHPL._SL200_.jpg)](https://www.amazon.it/dp/B07F7HWKMZ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07F7HWKMZ/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Sunset 1 Pkt Slim Camicia  Blu  Alfonso Indigo 0006  
 
 [![Levi s Sunset 1 Pkt Slim Camicia  Blu  A](https://m.media-amazon.com/images/I/41Eui+kKjVL._SL200_.jpg)](https://www.amazon.it/dp/B07RXL1BTV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07RXL1BTV/?tag=tolees00-21)

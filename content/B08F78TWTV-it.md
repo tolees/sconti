@@ -22,7 +22,7 @@ Ahora mismo tienes [eXtremeRate Dawn 2.0 Remap kit Trigger Stop per Playstation 
 
 [![eXtremeRate Dawn 2.0 Remap kit Trigger S](https://m.media-amazon.com/images/I/51FimsgVHPL._SL200_.jpg)](https://www.amazon.it/dp/B08F78TWTV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08F78TWTV/?tag=tolees00-21)

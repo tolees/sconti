@@ -22,7 +22,7 @@ Ahora mismo tienes [Cuffie senza fili per TV  con stazione di ricarica digitale 
 
 [![Cuffie senza fili per TV  con stazione d](https://m.media-amazon.com/images/I/41yqOdMkn-L._SL200_.jpg)](https://www.amazon.it/dp/B08CRDXBHD/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08CRDXBHD/?tag=tolees00-21)

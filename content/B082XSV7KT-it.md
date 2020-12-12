@@ -22,7 +22,7 @@ Ahora mismo tienes [Autoradio Bluetooth RDS Stereo ieGeek  Luce dei Tasti a 7 Co
 
 [![Autoradio Bluetooth RDS Stereo ieGeek  L](https://m.media-amazon.com/images/I/41bW0WStItL._SL200_.jpg)](https://www.amazon.it/dp/B082XSV7KT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B082XSV7KT/?tag=tolees00-21)

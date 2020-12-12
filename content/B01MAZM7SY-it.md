@@ -22,7 +22,7 @@ Ahora mismo tienes [Misura Fette Integrali - 8 pezzi da 320 g [2560 g]](https://
 
 [![Misura Fette Integrali - 8 pezzi da 320 ](https://m.media-amazon.com/images/I/41a4wwk0PfL._SL200_.jpg)](https://www.amazon.it/dp/B01MAZM7SY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01MAZM7SY/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [EZONTEQ Tastiera da Gioco RGB LED Retroilluminazione Scelta 
 
 [![EZONTEQ Tastiera da Gioco RGB LED Retroi](https://m.media-amazon.com/images/I/51t1LuGDtwL._SL200_.jpg)](https://www.amazon.it/dp/B08933WPTB/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08933WPTB/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Polar Vantage M  Sportwatch per Allenamenti Multisport  Cors
 
 [![Polar Vantage M  Sportwatch per Allename](https://m.media-amazon.com/images/I/41nm6JpNjtL._SL200_.jpg)](https://www.amazon.it/dp/B07G82FHP9/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07G82FHP9/?tag=tolees00-21)

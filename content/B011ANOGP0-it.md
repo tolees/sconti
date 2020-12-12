@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Monitor 243V5LHSB Gaming Monitor per PC Desktop 23.6
 
 [![Philips Monitor 243V5LHSB Gaming Monitor](https://m.media-amazon.com/images/I/41VBf9clpFL._SL200_.jpg)](https://www.amazon.it/dp/B011ANOGP0/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B011ANOGP0/?tag=tolees00-21)

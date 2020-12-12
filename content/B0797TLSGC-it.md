@@ -22,7 +22,7 @@ Ahora mismo tienes [Dardaruga VENTILATORE DIGITALE WFD a Piantana con NEBULIZZAT
 
 [![Dardaruga VENTILATORE DIGITALE WFD a Pia](https://m.media-amazon.com/images/I/51FzEyseF1L._SL200_.jpg)](https://www.amazon.it/dp/B0797TLSGC/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0797TLSGC/?tag=tolees00-21)

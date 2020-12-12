@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Dublin B  Scarpe Stringate Basse Brogue Uomo  Nero  B
 
 [![Geox U Dublin B  Scarpe Stringate Basse ](https://m.media-amazon.com/images/I/41ZKmK54V2L._SL200_.jpg)](https://www.amazon.it/dp/B00CV6JIC2/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00CV6JIC2/?tag=tolees00-21)

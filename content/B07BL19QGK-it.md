@@ -22,7 +22,7 @@ Ahora mismo tienes [Prada Profumo - 50 Ml](https://www.amazon.it/dp/B07BL19QGK/?
 
 [![Prada Profumo - 50 Ml](https://m.media-amazon.com/images/I/41hzrI+PijL._SL200_.jpg)](https://www.amazon.it/dp/B07BL19QGK/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07BL19QGK/?tag=tolees00-21)

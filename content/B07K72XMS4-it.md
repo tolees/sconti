@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Original HM Tee Maglietta a Maniche Lunghe  Blu  LS C
 
 [![Levi s Original HM Tee Maglietta a Manic](https://m.media-amazon.com/images/I/41iR6KXnbIL._SL200_.jpg)](https://www.amazon.it/dp/B07K72XMS4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07K72XMS4/?tag=tolees00-21)

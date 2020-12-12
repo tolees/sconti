@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B 052722 Testina per Spazzolino](https://www.amazon.it/
 
 [![Oral-B 052722 Testina per Spazzolino](https://m.media-amazon.com/images/I/51tvDOGAOiL._SL200_.jpg)](https://www.amazon.it/dp/B00KBWC2I0/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00KBWC2I0/?tag=tolees00-21)

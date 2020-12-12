@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO La Festa In Piscina Di Andrea Costruzioni Piccole](http
 
 [![LEGO La Festa In Piscina Di Andrea Costr](https://m.media-amazon.com/images/I/51Z6FRvVQoL._SL200_.jpg)](https://www.amazon.it/dp/B07KTK94T6/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07KTK94T6/?tag=tolees00-21)

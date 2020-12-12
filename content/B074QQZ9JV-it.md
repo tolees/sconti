@@ -22,7 +22,7 @@ Ahora mismo tienes [Telecomando sostitutivo per TV TELEFUNKEN di One For All –
 
 [![Telecomando sostitutivo per TV TELEFUNKE](https://m.media-amazon.com/images/I/31FrMm7MKrL._SL200_.jpg)](https://www.amazon.it/dp/B074QQZ9JV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B074QQZ9JV/?tag=tolees00-21)

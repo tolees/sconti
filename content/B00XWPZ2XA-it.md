@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Tanjun Mn  Scarpe Sportive Uomo  Blu  Midnight Navy/Whi
 
 [![Nike Tanjun Mn  Scarpe Sportive Uomo  Bl](https://m.media-amazon.com/images/I/41DefMB32FL._SL200_.jpg)](https://www.amazon.it/dp/B00XWPZ2XA/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00XWPZ2XA/?tag=tolees00-21)

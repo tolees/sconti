@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung DV80M5010KW Asciugatrice 8 kg  1200 rpm  Bianco](htt
 
 [![Samsung DV80M5010KW Asciugatrice 8 kg  1](https://m.media-amazon.com/images/I/31wQYHGMTtL._SL200_.jpg)](https://www.amazon.it/dp/B07TTDPBJ4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07TTDPBJ4/?tag=tolees00-21)

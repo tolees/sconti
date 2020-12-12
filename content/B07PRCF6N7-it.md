@@ -22,7 +22,7 @@ Ahora mismo tienes [Kipling Myrte - Borse a tracolla Donna  Multicolore  Camo La
 
 [![Kipling Myrte - Borse a tracolla Donna  ](https://m.media-amazon.com/images/I/411Uvp-UX4L._SL200_.jpg)](https://www.amazon.it/dp/B07PRCF6N7/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07PRCF6N7/?tag=tolees00-21)

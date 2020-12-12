@@ -22,7 +22,7 @@ Ahora mismo tienes [Sandisk Extreme Go Sdcz800  064G  G46  Chiavetta USB 3.1  64
 
 [![Sandisk Extreme Go Sdcz800  064G  G46  C](https://m.media-amazon.com/images/I/31hbPwe+bEL._SL200_.jpg)](https://www.amazon.it/dp/B01NARBPI7/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01NARBPI7/?tag=tolees00-21)

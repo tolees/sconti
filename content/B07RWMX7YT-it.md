@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B CrossAction Testine di Ricambio  Confezione da 10 Pez
 
 [![Oral-B CrossAction Testine di Ricambio  ](https://m.media-amazon.com/images/I/51FZXPwKK4L._SL200_.jpg)](https://www.amazon.it/dp/B07RWMX7YT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07RWMX7YT/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [UniqueMe [2+2 Pezzi Pellicola Protettiva per xiaomi Mi Note 
 
 [![UniqueMe [2+2 Pezzi Pellicola Protettiva](https://m.media-amazon.com/images/I/51TEMtURCcL._SL200_.jpg)](https://www.amazon.it/dp/B08GPVMHBF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08GPVMHBF/?tag=tolees00-21)

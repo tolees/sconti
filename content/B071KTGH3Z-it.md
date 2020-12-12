@@ -22,7 +22,7 @@ Ahora mismo tienes [Rimmel London Stay Matte Rossetto Opaco Lunga Durata  Formul
 
 [![Rimmel London Stay Matte Rossetto Opaco ](https://m.media-amazon.com/images/I/31pU19ry3nL._SL200_.jpg)](https://www.amazon.it/dp/B071KTGH3Z/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B071KTGH3Z/?tag=tolees00-21)

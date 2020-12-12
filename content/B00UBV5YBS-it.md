@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Superstar  Scarpe da Ginnastica Unisex Adulto  Nero  
 
 [![adidas Superstar  Scarpe da Ginnastica U](https://m.media-amazon.com/images/I/41wfJT9R5fL._SL200_.jpg)](https://www.amazon.it/dp/B00UBV5YBS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00UBV5YBS/?tag=tolees00-21)

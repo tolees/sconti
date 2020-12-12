@@ -22,7 +22,7 @@ Ahora mismo tienes [IWAVION Caricatore USB C da Muro con Cavo USB Type C 2M 18W 
 
 [![IWAVION Caricatore USB C da Muro con Cav](https://m.media-amazon.com/images/I/41dqohEtHOL._SL200_.jpg)](https://www.amazon.it/dp/B08DFXQCYH/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DFXQCYH/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [goldenpoint Leggings Straight con borchie tonde Fantasia Pri
 
 [![goldenpoint Leggings Straight con borchi](https://m.media-amazon.com/images/I/41ZBVdE0pSL._SL200_.jpg)](https://www.amazon.it/dp/B089RZTFDB/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B089RZTFDB/?tag=tolees00-21)

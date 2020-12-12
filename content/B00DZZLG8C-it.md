@@ -22,7 +22,7 @@ Ahora mismo tienes [Keter Casetta Manor 6X5 Dd Grigia In Resina Cm 185X152X226 H
 
 [![Keter Casetta Manor 6X5 Dd Grigia In Res](https://m.media-amazon.com/images/I/4124qe2iamL._SL200_.jpg)](https://www.amazon.it/dp/B00DZZLG8C/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00DZZLG8C/?tag=tolees00-21)

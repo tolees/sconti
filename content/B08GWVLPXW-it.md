@@ -22,7 +22,7 @@ Ahora mismo tienes [Aerku Fotocamera Posteriore Pellicola Vetro Temperato per Sa
 
 [![Aerku Fotocamera Posteriore Pellicola Ve](https://m.media-amazon.com/images/I/41svulRR7HL._SL200_.jpg)](https://www.amazon.it/dp/B08GWVLPXW/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08GWVLPXW/?tag=tolees00-21)

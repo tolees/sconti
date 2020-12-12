@@ -22,7 +22,7 @@ Ahora mismo tienes [HUGO Orologio Quarzo con Cinturino in Acciaio Inox 1530131](
 
 [![HUGO Orologio Quarzo con Cinturino in Ac](https://m.media-amazon.com/images/I/41uPQnhWd3L._SL200_.jpg)](https://www.amazon.it/dp/B084R38ZSF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B084R38ZSF/?tag=tolees00-21)

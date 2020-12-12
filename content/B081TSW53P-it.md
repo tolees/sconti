@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Track SST  Giacca Donna  Black/White  40](https://www
 
 [![adidas Track SST  Giacca Donna  Black/Wh](https://m.media-amazon.com/images/I/41N0v-Vv+GL._SL200_.jpg)](https://www.amazon.it/dp/B081TSW53P/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B081TSW53P/?tag=tolees00-21)

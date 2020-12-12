@@ -22,7 +22,7 @@ Ahora mismo tienes [Allibert 201310 Ice Cube  Sgabello Frigorifero in plastica  
 
 [![Allibert 201310 Ice Cube  Sgabello Frigo](https://m.media-amazon.com/images/I/41sVfm1vqOL._SL200_.jpg)](https://www.amazon.it/dp/B006LXSOP8/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B006LXSOP8/?tag=tolees00-21)

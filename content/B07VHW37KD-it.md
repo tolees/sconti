@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Bols Luna Rock Loverty - Borsa con manico  14 x 24 
 
 [![Desigual Bols Luna Rock Loverty - Borsa ](https://m.media-amazon.com/images/I/41U+e-wgarL._SL200_.jpg)](https://www.amazon.it/dp/B07VHW37KD/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VHW37KD/?tag=tolees00-21)

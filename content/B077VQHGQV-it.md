@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas VL Court 2.0  Scarpe da Fitness Uomo  Blu  Maruni/Ftw
 
 [![adidas VL Court 2.0  Scarpe da Fitness U](https://m.media-amazon.com/images/I/41i3wjqkZlL._SL200_.jpg)](https://www.amazon.it/dp/B077VQHGQV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B077VQHGQV/?tag=tolees00-21)

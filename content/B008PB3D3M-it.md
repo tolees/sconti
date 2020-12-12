@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips HR2100/00 Frullatore con ProBlend 4 - Daily Collecti
 
 [![Philips HR2100/00 Frullatore con ProBlen](https://m.media-amazon.com/images/I/31v3S8qhziL._SL200_.jpg)](https://www.amazon.it/dp/B008PB3D3M/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B008PB3D3M/?tag=tolees00-21)

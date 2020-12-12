@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung Galaxy Buds 2019 Auricolari Wireless  Bluetooth5.0  
 
 [![Samsung Galaxy Buds 2019 Auricolari Wire](https://m.media-amazon.com/images/I/31edaq8RneL._SL200_.jpg)](https://www.amazon.it/dp/B07PB121XL/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07PB121XL/?tag=tolees00-21)

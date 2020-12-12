@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Ronnie Limit  Scarpe Stringate Derby Uomo  Marrone  T
 
 [![Clarks Ronnie Limit  Scarpe Stringate De](https://m.media-amazon.com/images/I/31Gocwmy0tL._SL200_.jpg)](https://www.amazon.it/dp/B07TJKB1GF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07TJKB1GF/?tag=tolees00-21)

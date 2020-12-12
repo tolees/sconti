@@ -22,7 +22,7 @@ Ahora mismo tienes [Cuffie da Gioco per PS4 Cuffie Gaming con 3.5mm Jack LED Cuf
 
 [![Cuffie da Gioco per PS4 Cuffie Gaming co](https://m.media-amazon.com/images/I/51uYz3fV-sL._SL200_.jpg)](https://www.amazon.it/dp/B07H1HYVGG/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07H1HYVGG/?tag=tolees00-21)

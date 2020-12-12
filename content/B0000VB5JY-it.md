@@ -22,7 +22,7 @@ Ahora mismo tienes [Gillette Usa E Getta Rasoio Da Uomo - 150 Gr](https://www.am
 
 [![Gillette Usa E Getta Rasoio Da Uomo - 15](https://m.media-amazon.com/images/I/51IPwPSevAL._SL200_.jpg)](https://www.amazon.it/dp/B0000VB5JY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0000VB5JY/?tag=tolees00-21)

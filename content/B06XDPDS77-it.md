@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung WW80K5210VW  Lavatrice Slim 8 kg AddWash  Profondit
 
 [![Samsung WW80K5210VW  Lavatrice Slim 8 kg](https://m.media-amazon.com/images/I/41nKDJDAYjL._SL200_.jpg)](https://www.amazon.it/dp/B06XDPDS77/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B06XDPDS77/?tag=tolees00-21)

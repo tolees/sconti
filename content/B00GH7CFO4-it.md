@@ -22,7 +22,7 @@ Ahora mismo tienes [Kleenex 8826 Scatole di fazzoletti ovali  10 scatole da 64 f
 
 [![Kleenex 8826 Scatole di fazzoletti ovali](https://m.media-amazon.com/images/I/41-Lk9iL+WL._SL200_.jpg)](https://www.amazon.it/dp/B00GH7CFO4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00GH7CFO4/?tag=tolees00-21)

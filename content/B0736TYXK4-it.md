@@ -22,7 +22,7 @@ Ahora mismo tienes [VERO MODA Vmava Plain Ss Top Ga Noos  T-Shirt Donna  Bianco 
 
 [![VERO MODA Vmava Plain Ss Top Ga Noos  T-](https://m.media-amazon.com/images/I/41Eov7TdHOL._SL200_.jpg)](https://www.amazon.it/dp/B0736TYXK4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0736TYXK4/?tag=tolees00-21)

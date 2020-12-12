@@ -22,7 +22,7 @@ Ahora mismo tienes [Det. Liquido Yogurt Aloe 300 Ml](https://www.amazon.it/dp/B0
 
 [![Det. Liquido Yogurt Aloe 300 Ml](https://m.media-amazon.com/images/I/41tCAvFqgzL._SL200_.jpg)](https://www.amazon.it/dp/B00XHSDZ5E/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00XHSDZ5E/?tag=tolees00-21)

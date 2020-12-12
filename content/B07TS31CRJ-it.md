@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Housemark Graphic Tee T-Shirt  Rosso  HM Ssnl Tonal E
 
 [![Levi s Housemark Graphic Tee T-Shirt  Ro](https://m.media-amazon.com/images/I/418xZBNbb3L._SL200_.jpg)](https://www.amazon.it/dp/B07TS31CRJ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07TS31CRJ/?tag=tolees00-21)

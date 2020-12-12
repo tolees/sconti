@@ -22,7 +22,7 @@ Ahora mismo tienes [Imetec CH 1000 Tritatutto  4 Lame in Acciaio Inox  Capiente 
 
 [![Imetec CH 1000 Tritatutto  4 Lame in Acc](https://m.media-amazon.com/images/I/51wziUPtWaL._SL200_.jpg)](https://www.amazon.it/dp/B06X1D31QX/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B06X1D31QX/?tag=tolees00-21)

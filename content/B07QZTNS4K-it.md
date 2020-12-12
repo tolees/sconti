@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Challenger III Midlayer  Maglia a Maniche Lungh
 
 [![Under Armour Challenger III Midlayer  Ma](https://m.media-amazon.com/images/I/31DrKnqgE3L._SL200_.jpg)](https://www.amazon.it/dp/B07QZTNS4K/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07QZTNS4K/?tag=tolees00-21)

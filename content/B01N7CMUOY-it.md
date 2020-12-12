@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta  Nero  
 
 [![Tommy Hilfiger Core Stretch Slim Vneck T](https://m.media-amazon.com/images/I/41yNMLlW0QL._SL200_.jpg)](https://www.amazon.it/dp/B01N7CMUOY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01N7CMUOY/?tag=tolees00-21)

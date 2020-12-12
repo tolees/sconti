@@ -22,7 +22,7 @@ Ahora mismo tienes [Imetec Bellissima Zero Pro Compact Epilatore a Luce Pulsata 
 
 [![Imetec Bellissima Zero Pro Compact Epila](https://m.media-amazon.com/images/I/31mY10BurZL._SL200_.jpg)](https://www.amazon.it/dp/B078LJX5GY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B078LJX5GY/?tag=tolees00-21)

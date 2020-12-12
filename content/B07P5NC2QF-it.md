@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Regolabarba Uomo BT5509/16 S5000 Utilizzo Con e Senz
 
 [![Philips Regolabarba Uomo BT5509/16 S5000](https://m.media-amazon.com/images/I/41RWi2GJlIL._SL200_.jpg)](https://www.amazon.it/dp/B07P5NC2QF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07P5NC2QF/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Swiffer Kit con 1 Scopa + 8 Panni per Pavimenti e 1 Piumino 
 
 [![Swiffer Kit con 1 Scopa + 8 Panni per Pa](https://m.media-amazon.com/images/I/41B8KCFvvnL._SL200_.jpg)](https://www.amazon.it/dp/B01BD7GM00/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01BD7GM00/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Flex Advantage 3.0  Sneaker Uomo  Blu  Navy Mesh/Re
 
 [![Skechers Flex Advantage 3.0  Sneaker Uom](https://m.media-amazon.com/images/I/418uVMRFDkL._SL200_.jpg)](https://www.amazon.it/dp/B07TZ5R47V/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07TZ5R47V/?tag=tolees00-21)

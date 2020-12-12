@@ -22,7 +22,7 @@ Ahora mismo tienes [eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con C
 
 [![eXtremeRate Cover con Pulsanti per Ninte](https://m.media-amazon.com/images/I/41PV2-xpfWL._SL200_.jpg)](https://www.amazon.it/dp/B08C9T3CGL/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08C9T3CGL/?tag=tolees00-21)

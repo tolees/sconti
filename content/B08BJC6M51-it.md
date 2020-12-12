@@ -22,7 +22,7 @@ Ahora mismo tienes [Ossimetro/pulsossimetro di precisione](https://www.amazon.it
 
 [![Ossimetro/pulsossimetro di precisione](https://m.media-amazon.com/images/I/41iqK+d0MxL._SL200_.jpg)](https://www.amazon.it/dp/B08BJC6M51/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08BJC6M51/?tag=tolees00-21)

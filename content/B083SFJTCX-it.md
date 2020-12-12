@@ -22,7 +22,7 @@ Ahora mismo tienes [TZAMLI - Scarpiera con 10 Ganci in Metallo per Closet Pantry
 
 [![TZAMLI - Scarpiera con 10 Ganci in Metal](https://m.media-amazon.com/images/I/51Q3fXHpihL._SL200_.jpg)](https://www.amazon.it/dp/B083SFJTCX/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B083SFJTCX/?tag=tolees00-21)

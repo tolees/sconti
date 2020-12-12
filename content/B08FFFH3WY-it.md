@@ -22,7 +22,7 @@ Ahora mismo tienes [UniqueMe [6 Pack Pellicola Protettiva per Xiaomi Mi Band 5 P
 
 [![UniqueMe [6 Pack Pellicola Protettiva pe](https://m.media-amazon.com/images/I/510QoAv45mL._SL200_.jpg)](https://www.amazon.it/dp/B08FFFH3WY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08FFFH3WY/?tag=tolees00-21)

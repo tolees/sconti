@@ -22,7 +22,7 @@ Ahora mismo tienes [Apple MacBook Pro  16"  16GB RAM  Archiviazione 512GB  - Arg
 
 [![Apple MacBook Pro  16"  16GB RAM  Archiv](https://m.media-amazon.com/images/I/31Kkzr2dyqL._SL200_.jpg)](https://www.amazon.it/dp/B081FZZ8N3/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B081FZZ8N3/?tag=tolees00-21)

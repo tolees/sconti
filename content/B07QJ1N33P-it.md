@@ -22,7 +22,7 @@ Ahora mismo tienes [TOPERSUN 10PCS Marcatori Evidenziatori metallici a mezzo pun
 
 [![TOPERSUN 10PCS Marcatori Evidenziatori m](https://m.media-amazon.com/images/I/51qjmh1QJLL._SL200_.jpg)](https://www.amazon.it/dp/B07QJ1N33P/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07QJ1N33P/?tag=tolees00-21)

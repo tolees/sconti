@@ -22,7 +22,7 @@ Ahora mismo tienes [Fossil Orologio Analogico Quarzo Uomo con Cinturino in Accia
 
 [![Fossil Orologio Analogico Quarzo Uomo co](https://m.media-amazon.com/images/I/41qvIoQ-sbL._SL200_.jpg)](https://www.amazon.it/dp/B01N9V7YKV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01N9V7YKV/?tag=tolees00-21)

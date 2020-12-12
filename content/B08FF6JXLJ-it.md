@@ -22,7 +22,7 @@ Ahora mismo tienes [Dixan Discs Antiodore Detersivo Lavatrice Predosato in Capsu
 
 [![Dixan Discs Antiodore Detersivo Lavatric](https://m.media-amazon.com/images/I/51njeppYlzL._SL200_.jpg)](https://www.amazon.it/dp/B08FF6JXLJ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08FF6JXLJ/?tag=tolees00-21)

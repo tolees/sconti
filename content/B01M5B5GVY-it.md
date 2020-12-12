@@ -22,7 +22,7 @@ Ahora mismo tienes [Roccobarocco White Eau De Parfum Donna - 100 gr](https://www
 
 [![Roccobarocco White Eau De Parfum Donna -](https://m.media-amazon.com/images/I/31TM7vOviHL._SL200_.jpg)](https://www.amazon.it/dp/B01M5B5GVY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01M5B5GVY/?tag=tolees00-21)

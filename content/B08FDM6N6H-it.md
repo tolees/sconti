@@ -22,7 +22,7 @@ Ahora mismo tienes [OTHA Scheda di acquisizione Video  Dispositivo di acquisizio
 
 [![OTHA Scheda di acquisizione Video  Dispo](https://m.media-amazon.com/images/I/31BzCq1B4pL._SL200_.jpg)](https://www.amazon.it/dp/B08FDM6N6H/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08FDM6N6H/?tag=tolees00-21)

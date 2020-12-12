@@ -22,7 +22,7 @@ Ahora mismo tienes [Braun MGK5080 Rifinitore 9-In-1 RegolaBarba Uomo  Rasoio Ele
 
 [![Braun MGK5080 Rifinitore 9-In-1 RegolaBa](https://m.media-amazon.com/images/I/41GMmwZh0kL._SL200_.jpg)](https://www.amazon.it/dp/B07M8NJK8C/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07M8NJK8C/?tag=tolees00-21)

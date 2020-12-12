@@ -22,7 +22,7 @@ Ahora mismo tienes [Forbici a cricchetto GARDENA SmartCut: Stabili forbici con t
 
 [![Forbici a cricchetto GARDENA SmartCut: S](https://m.media-amazon.com/images/I/41WbEF0jxsL._SL200_.jpg)](https://www.amazon.it/dp/B0030BEIL8/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0030BEIL8/?tag=tolees00-21)

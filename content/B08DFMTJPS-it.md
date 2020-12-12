@@ -22,7 +22,7 @@ Ahora mismo tienes [MOONESS Custodia Samsung Galaxy A21s Blu Custodia Flip Premi
 
 [![MOONESS Custodia Samsung Galaxy A21s Blu](https://m.media-amazon.com/images/I/51G7xzgkMOL._SL200_.jpg)](https://www.amazon.it/dp/B08DFMTJPS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DFMTJPS/?tag=tolees00-21)

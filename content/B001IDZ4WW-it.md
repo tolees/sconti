@@ -22,7 +22,7 @@ Ahora mismo tienes [Max Factor Lipfinity Lip Colour  Rossetto Lunga Durata e Glo
 
 [![Max Factor Lipfinity Lip Colour  Rossett](https://m.media-amazon.com/images/I/31Al9CuBY5L._SL200_.jpg)](https://www.amazon.it/dp/B001IDZ4WW/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B001IDZ4WW/?tag=tolees00-21)

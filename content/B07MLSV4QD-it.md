@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Step Welt Free  Scarpe da Ginnastica Uomo  Verde Kaki
 
 [![Clarks Step Welt Free  Scarpe da Ginnast](https://m.media-amazon.com/images/I/41znhCe54iL._SL200_.jpg)](https://www.amazon.it/dp/B07MLSV4QD/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07MLSV4QD/?tag=tolees00-21)

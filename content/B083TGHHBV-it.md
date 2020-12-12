@@ -22,7 +22,7 @@ Ahora mismo tienes [Tosbess Technic Auto Sportiva Ford Mustang  2 4Ghz 1:10 RC A
 
 [![Tosbess Technic Auto Sportiva Ford Musta](https://m.media-amazon.com/images/I/51piiqN5VsL._SL200_.jpg)](https://www.amazon.it/dp/B083TGHHBV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B083TGHHBV/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [TP-Link T9UH Archer Scheda Wireless Dual Band AC1900Mbps  4 
 
 [![TP-Link T9UH Archer Scheda Wireless Dual](https://m.media-amazon.com/images/I/31Rie5W507L._SL200_.jpg)](https://www.amazon.it/dp/B01MT7D9Q9/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01MT7D9Q9/?tag=tolees00-21)

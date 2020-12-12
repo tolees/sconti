@@ -22,7 +22,7 @@ Ahora mismo tienes [Tablet 10 Pollici con Wifi Offerte  RAM da 3GB 32GB ROM espa
 
 [![Tablet 10 Pollici con Wifi Offerte  RAM ](https://m.media-amazon.com/images/I/515wp7XgzHL._SL200_.jpg)](https://www.amazon.it/dp/B07YFYK7ND/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07YFYK7ND/?tag=tolees00-21)

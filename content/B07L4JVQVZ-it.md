@@ -22,7 +22,7 @@ Ahora mismo tienes [Funko-36025 Fortnite Valor  Multicolore  36025](https://www.
 
 [![Funko-36025 Fortnite Valor  Multicolore ](https://m.media-amazon.com/images/I/517qBmAj48L._SL200_.jpg)](https://www.amazon.it/dp/B07L4JVQVZ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07L4JVQVZ/?tag=tolees00-21)

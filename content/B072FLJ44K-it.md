@@ -22,7 +22,7 @@ Ahora mismo tienes [PUMA Active Brief 2p Packed Intimo Sportivo  Grigio  Grey Ye
 
 [![PUMA Active Brief 2p Packed Intimo Sport](https://m.media-amazon.com/images/I/31lnyeMArVL._SL200_.jpg)](https://www.amazon.it/dp/B072FLJ44K/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B072FLJ44K/?tag=tolees00-21)

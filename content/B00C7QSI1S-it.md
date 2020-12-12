@@ -22,7 +22,7 @@ Ahora mismo tienes [Rapid 40107334 Set di ugelli con Le incollatrici  240 V  Blu
 
 [![Rapid 40107334 Set di ugelli con Le inco](https://m.media-amazon.com/images/I/51t3qyHSjBL._SL200_.jpg)](https://www.amazon.it/dp/B00C7QSI1S/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00C7QSI1S/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Proiettore WiFi WiMiUS 7200 Lumen Videoproiettore Full HD Na
 
 [![Proiettore WiFi WiMiUS 7200 Lumen Videop](https://m.media-amazon.com/images/I/51HurAa-cRL._SL200_.jpg)](https://www.amazon.it/dp/B08BHMWNYQ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08BHMWNYQ/?tag=tolees00-21)

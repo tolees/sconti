@@ -22,7 +22,7 @@ Ahora mismo tienes [HP Sprocket Z3Z92A Stampante Fotografica Istantanea Portatil
 
 [![HP Sprocket Z3Z92A Stampante Fotografica](https://m.media-amazon.com/images/I/41fQ0LozceL._SL200_.jpg)](https://www.amazon.it/dp/B07C7BWDWM/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07C7BWDWM/?tag=tolees00-21)

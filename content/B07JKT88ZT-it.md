@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Roland Backpack  Borsa Unisex  Blu  OSFA](ht
 
 [![Under Armour UA Roland Backpack  Borsa U](https://m.media-amazon.com/images/I/41t8VcfMmKL._SL200_.jpg)](https://www.amazon.it/dp/B07JKT88ZT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07JKT88ZT/?tag=tolees00-21)

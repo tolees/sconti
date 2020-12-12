@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Type 3 Sherpa Trucker Giacca  Beige  True Chino Cord 
 
 [![Levi s Type 3 Sherpa Trucker Giacca  Bei](https://m.media-amazon.com/images/I/41OwVDJCWAL._SL200_.jpg)](https://www.amazon.it/dp/B07D6ZTDN4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07D6ZTDN4/?tag=tolees00-21)

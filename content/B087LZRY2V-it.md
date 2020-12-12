@@ -22,7 +22,7 @@ Ahora mismo tienes [Auricolare Bluetooth Senza Fili  Cuffie Wireless Stereo 3D w
 
 [![Auricolare Bluetooth Senza Fili  Cuffie ](https://m.media-amazon.com/images/I/51UDePtELoL._SL200_.jpg)](https://www.amazon.it/dp/B087LZRY2V/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B087LZRY2V/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lecone Mini Ventilatore USB Portatile con LED Colorate Luci 
 
 [![Lecone Mini Ventilatore USB Portatile co](https://m.media-amazon.com/images/I/41cAtG2az1L._SL200_.jpg)](https://www.amazon.it/dp/B07R3JS6Y1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07R3JS6Y1/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  XL](https
 
 [![adidas Lock Up TP  Pantaloni Sportivi Uo](https://m.media-amazon.com/images/I/31Y+nuGw1pL._SL200_.jpg)](https://www.amazon.it/dp/B081TTQT2Z/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B081TTQT2Z/?tag=tolees00-21)

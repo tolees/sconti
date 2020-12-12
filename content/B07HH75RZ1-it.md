@@ -22,7 +22,7 @@ Ahora mismo tienes [FITTOO Pantaloni Sauna Dimagranti Donna Leggins Sportivi Fit
 
 [![FITTOO Pantaloni Sauna Dimagranti Donna ](https://m.media-amazon.com/images/I/31WFwGkKHmL._SL200_.jpg)](https://www.amazon.it/dp/B07HH75RZ1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07HH75RZ1/?tag=tolees00-21)

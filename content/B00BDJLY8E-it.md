@@ -22,7 +22,7 @@ Ahora mismo tienes [Accurist Orologio Analogico Quarzo Donna con Cinturino in Ac
 
 [![Accurist Orologio Analogico Quarzo Donna](https://m.media-amazon.com/images/I/41xbSJrAOIL._SL200_.jpg)](https://www.amazon.it/dp/B00BDJLY8E/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00BDJLY8E/?tag=tolees00-21)

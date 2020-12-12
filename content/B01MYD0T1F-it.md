@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Hilfiger SS Tee Maglietta con Logo  Bianco  White 100 
 
 [![Tommy Hilfiger SS Tee Maglietta con Logo](https://m.media-amazon.com/images/I/419WHxiryRL._SL200_.jpg)](https://www.amazon.it/dp/B01MYD0T1F/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01MYD0T1F/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [TRENINO THOMAS- Mega  DXH55](https://www.amazon.it/dp/B01KLJ
 
 [![TRENINO THOMAS- Mega  DXH55](https://m.media-amazon.com/images/I/51i5Zw631zL._SL200_.jpg)](https://www.amazon.it/dp/B01KLJ574S/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01KLJ574S/?tag=tolees00-21)

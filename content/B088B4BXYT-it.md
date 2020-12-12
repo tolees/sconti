@@ -22,7 +22,7 @@ Ahora mismo tienes [Dittzz Technic Fuoristrada Set di Costruzioni  1:10 2 4Ghz R
 
 [![Dittzz Technic Fuoristrada Set di Costru](https://m.media-amazon.com/images/I/517uIMkXTCL._SL200_.jpg)](https://www.amazon.it/dp/B088B4BXYT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B088B4BXYT/?tag=tolees00-21)

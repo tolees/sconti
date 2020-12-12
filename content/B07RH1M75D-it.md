@@ -22,7 +22,7 @@ Ahora mismo tienes [Honor 20 Lite Smartphone  4 GB RAM  Memoria Espandibile da 1
 
 [![Honor 20 Lite Smartphone  4 GB RAM  Memo](https://m.media-amazon.com/images/I/41Lz-WJ54dL._SL200_.jpg)](https://www.amazon.it/dp/B07RH1M75D/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07RH1M75D/?tag=tolees00-21)

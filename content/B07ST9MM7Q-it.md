@@ -22,7 +22,7 @@ Ahora mismo tienes [Sottovuoto Macchina  ZUZPAO Cibo professionale per macchine 
 
 [![Sottovuoto Macchina  ZUZPAO Cibo profess](https://m.media-amazon.com/images/I/51KZJHtjXFL._SL200_.jpg)](https://www.amazon.it/dp/B07ST9MM7Q/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07ST9MM7Q/?tag=tolees00-21)

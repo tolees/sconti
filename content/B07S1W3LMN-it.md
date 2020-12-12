@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 373 Core  Sneaker Uomo  Blu  Navy/White Cc2 ](ht
 
 [![New Balance 373 Core  Sneaker Uomo  Blu ](https://m.media-amazon.com/images/I/419SmYzTVwL._SL200_.jpg)](https://www.amazon.it/dp/B07S1W3LMN/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07S1W3LMN/?tag=tolees00-21)

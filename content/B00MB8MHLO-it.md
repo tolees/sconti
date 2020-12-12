@@ -22,7 +22,7 @@ Ahora mismo tienes [Kenwood FDM780BA MultiPro Classic Food Processor  Robot da C
 
 [![Kenwood FDM780BA MultiPro Classic Food P](https://m.media-amazon.com/images/I/41niappdmmL._SL200_.jpg)](https://www.amazon.it/dp/B00MB8MHLO/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00MB8MHLO/?tag=tolees00-21)

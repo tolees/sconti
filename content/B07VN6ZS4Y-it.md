@@ -22,7 +22,7 @@ Ahora mismo tienes [YAMAMAY® Slip Costume Brasiliana Tinta Unita con Inserti in
 
 [![YAMAMAY® Slip Costume Brasiliana Tinta U](https://m.media-amazon.com/images/I/419ve9eu8dL._SL200_.jpg)](https://www.amazon.it/dp/B07VN6ZS4Y/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VN6ZS4Y/?tag=tolees00-21)

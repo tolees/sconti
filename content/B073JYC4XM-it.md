@@ -22,7 +22,7 @@ Ahora mismo tienes [SanDisk Ultra Scheda di Memoria MicroSDXC e Adattatore  con 
 
 [![SanDisk Ultra Scheda di Memoria MicroSDX](https://m.media-amazon.com/images/I/41tF51Ka9iL._SL200_.jpg)](https://www.amazon.it/dp/B073JYC4XM/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B073JYC4XM/?tag=tolees00-21)

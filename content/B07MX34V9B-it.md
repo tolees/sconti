@@ -22,7 +22,7 @@ Ahora mismo tienes [Far Cry New Dawn - Xbox One](https://www.amazon.it/dp/B07MX3
 
 [![Far Cry New Dawn - Xbox One](https://m.media-amazon.com/images/I/51xtFNXhbhL._SL200_.jpg)](https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21)

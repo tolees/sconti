@@ -22,7 +22,7 @@ Ahora mismo tienes [Auricolari Bluetooth 5.0 Senza Fili Cancellazione del rumore
 
 [![Auricolari Bluetooth 5.0 Senza Fili Canc](https://m.media-amazon.com/images/I/31EB1aILUQL._SL200_.jpg)](https://www.amazon.it/dp/B08DTHFVJZ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DTHFVJZ/?tag=tolees00-21)

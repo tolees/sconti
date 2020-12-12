@@ -22,7 +22,7 @@ Ahora mismo tienes [BRIKSMAX Kit di Illuminazione a LED per Lego Technic Land Ro
 
 [![BRIKSMAX Kit di Illuminazione a LED per ](https://m.media-amazon.com/images/I/51oeqBli15L._SL200_.jpg)](https://www.amazon.it/dp/B081RJTX8G/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B081RJTX8G/?tag=tolees00-21)

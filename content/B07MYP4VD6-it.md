@@ -22,7 +22,7 @@ Ahora mismo tienes [Act Omega 3 con 1 gr Olio di Pesce - 60 Perle](https://www.a
 
 [![Act Omega 3 con 1 gr Olio di Pesce - 60 ](https://m.media-amazon.com/images/I/51cn3DXDZ6L._SL200_.jpg)](https://www.amazon.it/dp/B07MYP4VD6/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07MYP4VD6/?tag=tolees00-21)

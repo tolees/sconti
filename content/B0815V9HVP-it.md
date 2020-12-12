@@ -22,7 +22,7 @@ Ahora mismo tienes [Hdmi Switch  mrocioa 3 porte ingresso 1 out 4K Hdmi Switcher
 
 [![Hdmi Switch  mrocioa 3 porte ingresso 1 ](https://m.media-amazon.com/images/I/411TTg9EGIL._SL200_.jpg)](https://www.amazon.it/dp/B0815V9HVP/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0815V9HVP/?tag=tolees00-21)

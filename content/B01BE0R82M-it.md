@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch Professional 0.601.9F2.000 Smerigliatrice Angolare GWS
 
 [![Bosch Professional 0.601.9F2.000 Smerigl](https://m.media-amazon.com/images/I/41F2Y3vqM3L._SL200_.jpg)](https://www.amazon.it/dp/B01BE0R82M/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01BE0R82M/?tag=tolees00-21)

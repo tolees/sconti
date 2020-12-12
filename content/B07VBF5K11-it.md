@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Bols inés Cortland - Borsa da donna  15 x 29 5 x 3
 
 [![Desigual Bols inés Cortland - Borsa da d](https://m.media-amazon.com/images/I/31tz+tjUePL._SL200_.jpg)](https://www.amazon.it/dp/B07VBF5K11/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VBF5K11/?tag=tolees00-21)

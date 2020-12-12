@@ -22,7 +22,7 @@ Ahora mismo tienes [ANSIO Ventilatore a torre oscillante con telecomando e 3 imp
 
 [![ANSIO Ventilatore a torre oscillante con](https://m.media-amazon.com/images/I/418JaUJ7MZL._SL200_.jpg)](https://www.amazon.it/dp/B07HSZ7MKP/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07HSZ7MKP/?tag=tolees00-21)

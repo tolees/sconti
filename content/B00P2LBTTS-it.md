@@ -22,7 +22,7 @@ Ahora mismo tienes [Tescoma 695432 Uno Vino Collare Salvagoccia](https://www.ama
 
 [![Tescoma 695432 Uno Vino Collare Salvagoc](https://m.media-amazon.com/images/I/31t52hcwgFL._SL200_.jpg)](https://www.amazon.it/dp/B00P2LBTTS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00P2LBTTS/?tag=tolees00-21)

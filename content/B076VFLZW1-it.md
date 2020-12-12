@@ -22,7 +22,7 @@ Ahora mismo tienes [Contenitori per Sottovuoto  Aicok Set Universale con 2 Conte
 
 [![Contenitori per Sottovuoto  Aicok Set Un](https://m.media-amazon.com/images/I/41cyOVJiB6L._SL200_.jpg)](https://www.amazon.it/dp/B076VFLZW1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B076VFLZW1/?tag=tolees00-21)

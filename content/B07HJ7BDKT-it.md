@@ -22,7 +22,7 @@ Ahora mismo tienes [Gillette Fusion5 Proshield Rasoio da Uomo  1 Manico 5 lamett
 
 [![Gillette Fusion5 Proshield Rasoio da Uom](https://m.media-amazon.com/images/I/41RGntjIAqL._SL200_.jpg)](https://www.amazon.it/dp/B07HJ7BDKT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07HJ7BDKT/?tag=tolees00-21)

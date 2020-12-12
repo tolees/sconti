@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Lady Luck Felpa  Blu  Crew Feminine Logo Marina 0004 
 
 [![Levi s Lady Luck Felpa  Blu  Crew Femini](https://m.media-amazon.com/images/I/41eRUVxWqBL._SL200_.jpg)](https://www.amazon.it/dp/B07TV7NFNQ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07TV7NFNQ/?tag=tolees00-21)

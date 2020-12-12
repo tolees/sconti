@@ -22,7 +22,7 @@ Ahora mismo tienes [Fila Disruptor Low  Scarpe da Ginnastica Basse Uomo  Bianco 
 
 [![Fila Disruptor Low  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/41QdRdXr4XL._SL200_.jpg)](https://www.amazon.it/dp/B07B8MJ2KP/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07B8MJ2KP/?tag=tolees00-21)

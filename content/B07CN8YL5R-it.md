@@ -22,7 +22,7 @@ Ahora mismo tienes [Crocs Crocband Flip  Infradito Unisex – Adulto  Verde  Ver
 
 [![Crocs Crocband Flip  Infradito Unisex – ](https://m.media-amazon.com/images/I/31yh1i9aIBL._SL200_.jpg)](https://www.amazon.it/dp/B07CN8YL5R/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07CN8YL5R/?tag=tolees00-21)

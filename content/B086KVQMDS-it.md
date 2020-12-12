@@ -22,7 +22,7 @@ Ahora mismo tienes [Xiaomi Mi 10 16 9 cm  6.67"  8 GB 256 GB Doppia SIM 5G USB T
 
 [![Xiaomi Mi 10 16 9 cm  6.67"  8 GB 256 GB](https://m.media-amazon.com/images/I/317WXpOOkOL._SL200_.jpg)](https://www.amazon.it/dp/B086KVQMDS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B086KVQMDS/?tag=tolees00-21)

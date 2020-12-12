@@ -22,7 +22,7 @@ Ahora mismo tienes [TUTUO Protezione Cover per Switch  Silicone PU Portatile Sot
 
 [![TUTUO Protezione Cover per Switch  Silic](https://m.media-amazon.com/images/I/51JaHWn2zGL._SL200_.jpg)](https://www.amazon.it/dp/B08CRH6YPF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08CRH6YPF/?tag=tolees00-21)

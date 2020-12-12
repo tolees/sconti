@@ -22,7 +22,7 @@ Ahora mismo tienes [Moulinex FP2461 Easy Force  Robot da Cucina All-in-One  6 Ac
 
 [![Moulinex FP2461 Easy Force  Robot da Cuc](https://m.media-amazon.com/images/I/41C3adM8VRL._SL200_.jpg)](https://www.amazon.it/dp/B07PFQCY7L/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07PFQCY7L/?tag=tolees00-21)

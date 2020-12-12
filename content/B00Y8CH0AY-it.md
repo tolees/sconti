@@ -22,7 +22,7 @@ Ahora mismo tienes [Heinz Ketchup Top Down 250Gr](https://www.amazon.it/dp/B00Y8
 
 [![Heinz Ketchup Top Down 250Gr](https://m.media-amazon.com/images/I/41SqcHP8LaL._SL200_.jpg)](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21)

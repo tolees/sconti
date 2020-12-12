@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Adilette  Ciabatte Unisex – Adulto  Blu  Adiblue G1
 
 [![adidas Adilette  Ciabatte Unisex – Adult](https://m.media-amazon.com/images/I/41UcWvIecSL._SL200_.jpg)](https://www.amazon.it/dp/B00368ONYC/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00368ONYC/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Logitech G332 Cuffie Gaming Cablate  Audio Stereo  Driver da
 
 [![Logitech G332 Cuffie Gaming Cablate  Aud](https://m.media-amazon.com/images/I/410A1YNFh-L._SL200_.jpg)](https://www.amazon.it/dp/B07MTWHWZ1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07MTWHWZ1/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga 2750-cotu Classic Sneaker  Unisex – Adulto  Bianco
 
 [![Superga 2750-cotu Classic Sneaker  Unise](https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg)](https://www.amazon.it/dp/B001FU1ECM/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B001FU1ECM/?tag=tolees00-21)

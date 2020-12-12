@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Qualifier HeatGear Tight  Pantaloni a Compre
 
 [![Under Armour UA Qualifier HeatGear Tight](https://m.media-amazon.com/images/I/41jr+WdjXiL._SL200_.jpg)](https://www.amazon.it/dp/B07KR769MS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07KR769MS/?tag=tolees00-21)

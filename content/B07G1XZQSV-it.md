@@ -22,7 +22,7 @@ Ahora mismo tienes [Polaroid Mint Fotocamera digitale Instant Print  Blu   stamp
 
 [![Polaroid Mint Fotocamera digitale Instan](https://m.media-amazon.com/images/I/41xLR3CdxpL._SL200_.jpg)](https://www.amazon.it/dp/B07G1XZQSV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07G1XZQSV/?tag=tolees00-21)

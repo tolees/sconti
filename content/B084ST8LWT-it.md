@@ -22,7 +22,7 @@ Ahora mismo tienes [TACKLIFE Sega Circolare Compatta  6 Lame  120 mm e 115 mm   
 
 [![TACKLIFE Sega Circolare Compatta  6 Lame](https://m.media-amazon.com/images/I/51SLuKwEoeL._SL200_.jpg)](https://www.amazon.it/dp/B084ST8LWT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B084ST8LWT/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Apple Smart Battery Case  for iPhone XR  - Black](https://ww
 
 [![Apple Smart Battery Case  for iPhone XR ](https://m.media-amazon.com/images/I/216QzJbwocL._SL200_.jpg)](https://www.amazon.it/dp/B07MX892VV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07MX892VV/?tag=tolees00-21)

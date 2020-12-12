@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Sue Giacca in Jeans  Nero  Archive Black Used 000
 
 [![Pepe Jeans Sue Giacca in Jeans  Nero  Ar](https://m.media-amazon.com/images/I/41OvYSUv19L._SL200_.jpg)](https://www.amazon.it/dp/B07RXXXY7P/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07RXXXY7P/?tag=tolees00-21)

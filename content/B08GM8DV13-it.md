@@ -22,7 +22,7 @@ Ahora mismo tienes [eXtremeRate Cover Grip Scocca Impugnatura Manopola DIY Gusci
 
 [![eXtremeRate Cover Grip Scocca Impugnatur](https://m.media-amazon.com/images/I/41D3q2qD3cL._SL200_.jpg)](https://www.amazon.it/dp/B08GM8DV13/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08GM8DV13/?tag=tolees00-21)

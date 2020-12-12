@@ -22,7 +22,7 @@ Ahora mismo tienes [Apple Custodia folio in pelle  per iPhone 11 Pro  - Melanzan
 
 [![Apple Custodia folio in pelle  per iPhon](https://m.media-amazon.com/images/I/31tOPTthVRL._SL200_.jpg)](https://www.amazon.it/dp/B07XQYCGX7/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07XQYCGX7/?tag=tolees00-21)

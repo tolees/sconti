@@ -22,7 +22,7 @@ Ahora mismo tienes [Yagte Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per P
 
 [![Yagte Hard Disk 1 TB Esterno  Hard Disk ](https://m.media-amazon.com/images/I/51corhlEikL._SL200_.jpg)](https://www.amazon.it/dp/B08HLTPTFT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08HLTPTFT/?tag=tolees00-21)

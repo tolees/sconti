@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Graphic Crewneck Tee T-Shirt  Ssnl Serif White  L Uom
 
 [![Levi s Graphic Crewneck Tee T-Shirt  Ssn](https://m.media-amazon.com/images/I/31qmMfJsYrL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVRVJX1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07ZVRVJX1/?tag=tolees00-21)

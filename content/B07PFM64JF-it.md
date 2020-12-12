@@ -22,7 +22,7 @@ Ahora mismo tienes [GoPetee Tappetino Refrigerante Rinfrescante per Cane Gatto  
 
 [![GoPetee Tappetino Refrigerante Rinfresca](https://m.media-amazon.com/images/I/41uuBDlOngL._SL200_.jpg)](https://www.amazon.it/dp/B07PFM64JF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07PFM64JF/?tag=tolees00-21)

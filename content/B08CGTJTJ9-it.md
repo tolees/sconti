@@ -22,7 +22,7 @@ Ahora mismo tienes [YQHbe Apriscatole Manuale Go Swing  apriscatole Manuale di S
 
 [![YQHbe Apriscatole Manuale Go Swing  apri](https://m.media-amazon.com/images/I/41v2QwJe-dL._SL200_.jpg)](https://www.amazon.it/dp/B08CGTJTJ9/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08CGTJTJ9/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Rejane Oil - Gocce di Splendore dell Amazzonia - Trattamento
 
 [![Rejane Oil - Gocce di Splendore dell Ama](https://m.media-amazon.com/images/I/31GXCSmH4dL._SL200_.jpg)](https://www.amazon.it/dp/B07D2CQ23R/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07D2CQ23R/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Hunty Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  
 
 [![Hunty Hard Disk 2 TB Esterno Hard Disk E](https://m.media-amazon.com/images/I/41dndfM6dTL._SL200_.jpg)](https://www.amazon.it/dp/B08DJ3ZQQK/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DJ3ZQQK/?tag=tolees00-21)

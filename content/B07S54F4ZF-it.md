@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel Umbx-damienthreepack Slip  Multicolore  Bright White/
 
 [![Diesel Umbx-damienthreepack Slip  Multic](https://m.media-amazon.com/images/I/51HD55Up9sL._SL200_.jpg)](https://www.amazon.it/dp/B07S54F4ZF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07S54F4ZF/?tag=tolees00-21)

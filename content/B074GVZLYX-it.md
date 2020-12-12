@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   X-Small  Tagli
 
 [![Lacoste Sport TH0123 T-Shirt  Bianco  Bl](https://m.media-amazon.com/images/I/31s-yfIlMfL._SL200_.jpg)](https://www.amazon.it/dp/B074GVZLYX/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B074GVZLYX/?tag=tolees00-21)

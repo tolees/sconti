@@ -22,7 +22,7 @@ Ahora mismo tienes [Volante Pace Wheel PS4](https://www.amazon.it/dp/B07BX5J2CC/
 
 [![Volante Pace Wheel PS4](https://m.media-amazon.com/images/I/51SxAju4dFL._SL200_.jpg)](https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21)

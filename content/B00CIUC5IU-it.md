@@ -22,7 +22,7 @@ Ahora mismo tienes [Candy CMG2071DS Microonde 20L  700W  Argento](https://www.am
 
 [![Candy CMG2071DS Microonde 20L  700W  Arg](https://m.media-amazon.com/images/I/41VuNtBBW5L._SL200_.jpg)](https://www.amazon.it/dp/B00CIUC5IU/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00CIUC5IU/?tag=tolees00-21)

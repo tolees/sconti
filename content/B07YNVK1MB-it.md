@@ -22,7 +22,7 @@ Ahora mismo tienes [CURCUMA E PIPERINA + ZENZERO  Formula Extra-Forte 1500mg  An
 
 [![CURCUMA E PIPERINA + ZENZERO  Formula Ex](https://m.media-amazon.com/images/I/41RXYkyZS5L._SL200_.jpg)](https://www.amazon.it/dp/B07YNVK1MB/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07YNVK1MB/?tag=tolees00-21)

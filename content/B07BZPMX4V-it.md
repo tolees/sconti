@@ -22,7 +22,7 @@ Ahora mismo tienes [Hasbro Pistola Laser Modello: Nerf Ops Alphapoint  Confezion
 
 [![Hasbro Pistola Laser Modello: Nerf Ops A](https://m.media-amazon.com/images/I/51EgAvStsbL._SL200_.jpg)](https://www.amazon.it/dp/B07BZPMX4V/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07BZPMX4V/?tag=tolees00-21)

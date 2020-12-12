@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Type 3 Giacca in Jeans  Blu  Stonebridge Sherpa Truck
 
 [![Levi s Type 3 Giacca in Jeans  Blu  Ston](https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg)](https://www.amazon.it/dp/B07HK66M1H/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07HK66M1H/?tag=tolees00-21)

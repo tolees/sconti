@@ -22,7 +22,7 @@ Ahora mismo tienes [SEAC Driver  Computer da Polso per Immersioni in Apnea con D
 
 [![SEAC Driver  Computer da Polso per Immer](https://m.media-amazon.com/images/I/41i3am7xWcL._SL200_.jpg)](https://www.amazon.it/dp/B07J178KBH/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07J178KBH/?tag=tolees00-21)

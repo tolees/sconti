@@ -22,7 +22,7 @@ Ahora mismo tienes [Fossil Collana con Ciondolo da Donna  Oro](https://www.amazo
 
 [![Fossil Collana con Ciondolo da Donna  Or](https://m.media-amazon.com/images/I/31-p8GmEVRL._SL200_.jpg)](https://www.amazon.it/dp/B07VQN7TRQ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VQN7TRQ/?tag=tolees00-21)

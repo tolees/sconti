@@ -22,7 +22,7 @@ Ahora mismo tienes [Marchio Amazon - TRUTH & FABLE Tuta Intera Donna  Multicolor
 
 [![Marchio Amazon - TRUTH & FABLE Tuta Inte](https://m.media-amazon.com/images/I/41gf8tXzDWL._SL200_.jpg)](https://www.amazon.it/dp/B07FF211RQ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07FF211RQ/?tag=tolees00-21)

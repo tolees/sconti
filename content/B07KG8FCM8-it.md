@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Smash V2 Sneaker Unisex - Adulto  Rhubarb/Puma Team Gol
 
 [![Puma Smash V2 Sneaker Unisex - Adulto  R](https://m.media-amazon.com/images/I/41o8BFPiliL._SL200_.jpg)](https://www.amazon.it/dp/B07KG8FCM8/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07KG8FCM8/?tag=tolees00-21)

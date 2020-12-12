@@ -22,7 +22,7 @@ Ahora mismo tienes [Red Bull Energy Drink  250 ml  24 Lattine ](https://www.amaz
 
 [![Red Bull Energy Drink  250 ml  24 Lattin](https://m.media-amazon.com/images/I/51J9KWBXc4L._SL200_.jpg)](https://www.amazon.it/dp/B01G7F3UGC/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01G7F3UGC/?tag=tolees00-21)

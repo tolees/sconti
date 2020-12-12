@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung Galaxy S10 Lite Smartphone  Display 6.7" Super AMOLE
 
 [![Samsung Galaxy S10 Lite Smartphone  Disp](https://m.media-amazon.com/images/I/41IgSKjBWyL._SL200_.jpg)](https://www.amazon.it/dp/B083KQKRHC/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B083KQKRHC/?tag=tolees00-21)

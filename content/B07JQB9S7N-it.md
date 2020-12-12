@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny  Blu 
 
 [![JACK & JONES Jjitom Jjoriginal Am 815 ST](https://m.media-amazon.com/images/I/31TGC9k2FNL._SL200_.jpg)](https://www.amazon.it/dp/B07JQB9S7N/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07JQB9S7N/?tag=tolees00-21)

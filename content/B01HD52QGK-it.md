@@ -22,7 +22,7 @@ Ahora mismo tienes [Osram Lampadina LED Star Pin con attacco G4  =28W  luce cald
 
 [![Osram Lampadina LED Star Pin con attacco](https://m.media-amazon.com/images/I/31MRrMTEPDL._SL200_.jpg)](https://www.amazon.it/dp/B01HD52QGK/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01HD52QGK/?tag=tolees00-21)

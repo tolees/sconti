@@ -22,7 +22,7 @@ Ahora mismo tienes [Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per P
 
 [![Riyth Hard Disk 1 TB Esterno  Hard Disk ](https://m.media-amazon.com/images/I/419m2OqqcDL._SL200_.jpg)](https://www.amazon.it/dp/B08CKDVYTL/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08CKDVYTL/?tag=tolees00-21)

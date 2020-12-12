@@ -22,7 +22,7 @@ Ahora mismo tienes [Tester PH/TDS&EC  Eletorot 4 in 1 tester elettronico di qual
 
 [![Tester PH/TDS&EC  Eletorot 4 in 1 tester](https://m.media-amazon.com/images/I/41wI9-zgH5L._SL200_.jpg)](https://www.amazon.it/dp/B0831BGM2J/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0831BGM2J/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Brother Cabldp1 Scan-N-Cut - Punta da Taglio per Taglio Stan
 
 [![Brother Cabldp1 Scan-N-Cut - Punta da Ta](https://m.media-amazon.com/images/I/51Xor1muGVL._SL200_.jpg)](https://www.amazon.it/dp/B00IX5YNV6/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00IX5YNV6/?tag=tolees00-21)

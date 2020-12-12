@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Ward Canvas Sneaker  Unisex – Bambini  Multicolore   
 
 [![Vans Ward Canvas Sneaker  Unisex – Bambi](https://m.media-amazon.com/images/I/319rxhNyc9L._SL200_.jpg)](https://www.amazon.it/dp/B07VBFZN4P/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VBFZN4P/?tag=tolees00-21)

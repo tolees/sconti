@@ -22,7 +22,7 @@ Ahora mismo tienes [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Blu 
 
 [![Havaianas Brasil Logo 4110850  Infradito](https://m.media-amazon.com/images/I/31WwKjTcZLL._SL200_.jpg)](https://www.amazon.it/dp/B07FYCQ97G/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07FYCQ97G/?tag=tolees00-21)

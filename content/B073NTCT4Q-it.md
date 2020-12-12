@@ -22,7 +22,7 @@ Ahora mismo tienes [BenQ GW2480 Monitor LED Eye-Care da 23.8 Pollici  Full HD  1
 
 [![BenQ GW2480 Monitor LED Eye-Care da 23.8](https://m.media-amazon.com/images/I/41SFi6TEKhL._SL200_.jpg)](https://www.amazon.it/dp/B073NTCT4Q/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B073NTCT4Q/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [FLYLINKTECH Avviatore di Emergenza per Auto  2500A Peak 2400
 
 [![FLYLINKTECH Avviatore di Emergenza per A](https://m.media-amazon.com/images/I/516ul9QbiaL._SL200_.jpg)](https://www.amazon.it/dp/B087FFF5WP/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B087FFF5WP/?tag=tolees00-21)

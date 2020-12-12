@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Rider  Jeans Slim  Bleu  Lt Vintage Worn Lp   32W / 30L 
 
 [![Lee Rider  Jeans Slim  Bleu  Lt Vintage ](https://m.media-amazon.com/images/I/41EHkQ5Hi+L._SL200_.jpg)](https://www.amazon.it/dp/B07VR2JLP8/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VR2JLP8/?tag=tolees00-21)

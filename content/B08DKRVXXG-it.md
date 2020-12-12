@@ -22,7 +22,7 @@ Ahora mismo tienes [QHOHQ Cinturino Metallo per Xiaomi Mi Band 5  Sostituibile -
 
 [![QHOHQ Cinturino Metallo per Xiaomi Mi Ba](https://m.media-amazon.com/images/I/51Z3AeWcwaL._SL200_.jpg)](https://www.amazon.it/dp/B08DKRVXXG/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DKRVXXG/?tag=tolees00-21)

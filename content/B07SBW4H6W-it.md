@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Vista Sneaker Unisex - Adulto  Grigio  High Rise-Puma W
 
 [![Puma Vista Sneaker Unisex - Adulto  Grig](https://m.media-amazon.com/images/I/41CqDtp63BL._SL200_.jpg)](https://www.amazon.it/dp/B07SBW4H6W/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07SBW4H6W/?tag=tolees00-21)

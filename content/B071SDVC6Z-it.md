@@ -22,7 +22,7 @@ Ahora mismo tienes [Gillette Series Pelli Sensibili Gel da Barba  Pacco da 6 x 7
 
 [![Gillette Series Pelli Sensibili Gel da B](https://m.media-amazon.com/images/I/41kp7BDdHRL._SL200_.jpg)](https://www.amazon.it/dp/B071SDVC6Z/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B071SDVC6Z/?tag=tolees00-21)

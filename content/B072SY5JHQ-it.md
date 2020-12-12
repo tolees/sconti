@@ -22,7 +22,7 @@ Ahora mismo tienes [MyHeritage DNA - Kit per il test del DNA - Analisi genetiche
 
 [![MyHeritage DNA - Kit per il test del DNA](https://m.media-amazon.com/images/I/41wQVyj6niL._SL200_.jpg)](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21)

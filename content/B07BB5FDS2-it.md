@@ -22,7 +22,7 @@ Ahora mismo tienes [Kodak PRINTOMATIC Fotocamera istantanea  Blu  Foto a colori 
 
 [![Kodak PRINTOMATIC Fotocamera istantanea ](https://m.media-amazon.com/images/I/410GJFaJfnL._SL200_.jpg)](https://www.amazon.it/dp/B07BB5FDS2/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07BB5FDS2/?tag=tolees00-21)

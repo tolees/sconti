@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D Jaysen A  Scarpe da Ginnastica Basse Donna  Bianco  W
 
 [![Geox D Jaysen A  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/31lJmsSLN6L._SL200_.jpg)](https://www.amazon.it/dp/B07SRKBF7S/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07SRKBF7S/?tag=tolees00-21)

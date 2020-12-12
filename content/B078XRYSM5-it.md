@@ -22,7 +22,7 @@ Ahora mismo tienes [TACKLIFE Telemetro Laser da Golf  Telescopio Monoculare Ingr
 
 [![TACKLIFE Telemetro Laser da Golf  Telesc](https://m.media-amazon.com/images/I/51mk0oIOcRL._SL200_.jpg)](https://www.amazon.it/dp/B078XRYSM5/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B078XRYSM5/?tag=tolees00-21)

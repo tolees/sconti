@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Nebula Y A  Scarpe da Ginnastica Basse Uomo  Blu  Nav
 
 [![Geox U Nebula Y A  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/313MEKTLvVL._SL200_.jpg)](https://www.amazon.it/dp/B07T4K4GK5/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07T4K4GK5/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [De Longhi EDG 250.W Macchina per caffè Espresso e Altre Bev
 
 [![De Longhi EDG 250.W Macchina per caffè E](https://m.media-amazon.com/images/I/418VJyzI3QL._SL200_.jpg)](https://www.amazon.it/dp/B00J5ERYEW/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00J5ERYEW/?tag=tolees00-21)

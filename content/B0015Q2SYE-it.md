@@ -22,7 +22,7 @@ Ahora mismo tienes [Havaianas Top  Infradito Unisex-Adulto  Bianco  White 0001  
 
 [![Havaianas Top  Infradito Unisex-Adulto  ](https://m.media-amazon.com/images/I/31K4BLnNpYL._SL200_.jpg)](https://www.amazon.it/dp/B0015Q2SYE/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0015Q2SYE/?tag=tolees00-21)

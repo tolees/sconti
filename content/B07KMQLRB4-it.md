@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Paris Rossetto Liquido Rouge Signature  Tinta Labbr
 
 [![L Oréal Paris Rossetto Liquido Rouge Sig](https://m.media-amazon.com/images/I/31UzwnZu-7L._SL200_.jpg)](https://www.amazon.it/dp/B07KMQLRB4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07KMQLRB4/?tag=tolees00-21)

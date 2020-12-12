@@ -22,7 +22,7 @@ Ahora mismo tienes [OtterBox Defender Series Custodia per iPad 5th Gen  Nero](ht
 
 [![OtterBox Defender Series Custodia per iP](https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg)](https://www.amazon.it/dp/B00Z7TT7RG/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00Z7TT7RG/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [NACHO LIBRE - POP FUNKO VINYL FIGURE 647 NACHO 9CM](https://
 
 [![NACHO LIBRE - POP FUNKO VINYL FIGURE 647](https://m.media-amazon.com/images/I/411P6ONIDBL._SL200_.jpg)](https://www.amazon.it/dp/B07H9Z4JP3/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07H9Z4JP3/?tag=tolees00-21)

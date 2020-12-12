@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Sili
 
 [![Diesel Orologio Cronografo Quarzo Uomo c](https://m.media-amazon.com/images/I/41OYZWTb1iL._SL200_.jpg)](https://www.amazon.it/dp/B07C8CSJJ5/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07C8CSJJ5/?tag=tolees00-21)

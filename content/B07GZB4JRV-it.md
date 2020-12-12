@@ -22,7 +22,7 @@ Ahora mismo tienes [Marchio Amazon - MERAKI Blazer Casual Uomo  Nero  Black   48
 
 [![Marchio Amazon - MERAKI Blazer Casual Uo](https://m.media-amazon.com/images/I/31Qhs0TsyhL._SL200_.jpg)](https://www.amazon.it/dp/B07GZB4JRV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07GZB4JRV/?tag=tolees00-21)

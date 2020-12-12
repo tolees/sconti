@@ -22,7 +22,7 @@ Ahora mismo tienes [Smartwatch Orologio con Auricolare Sportivo Bluetooth  Smart
 
 [![Smartwatch Orologio con Auricolare Sport](https://m.media-amazon.com/images/I/519A8Tn6vhL._SL200_.jpg)](https://www.amazon.it/dp/B086PGLHHB/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B086PGLHHB/?tag=tolees00-21)

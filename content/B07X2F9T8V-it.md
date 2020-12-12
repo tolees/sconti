@@ -22,7 +22,7 @@ Ahora mismo tienes [SHAN ZU Coltelli Santoku  Coltello da Cucina Damasco  Coltel
 
 [![SHAN ZU Coltelli Santoku  Coltello da Cu](https://m.media-amazon.com/images/I/51ilDkiTVZL._SL200_.jpg)](https://www.amazon.it/dp/B07X2F9T8V/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07X2F9T8V/?tag=tolees00-21)

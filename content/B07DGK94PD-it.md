@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B SmartSeries Teen Sensi Ultrathin Spazzolino Elettrico
 
 [![Oral-B SmartSeries Teen Sensi Ultrathin ](https://m.media-amazon.com/images/I/41mBh8LRNIL._SL200_.jpg)](https://www.amazon.it/dp/B07DGK94PD/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07DGK94PD/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pistola Colla a Caldo 60W  Wiecok Pistola Incollatrice con 2
 
 [![Pistola Colla a Caldo 60W  Wiecok Pistol](https://m.media-amazon.com/images/I/41w+WPi2i4L._SL200_.jpg)](https://www.amazon.it/dp/B086ZQ33WV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B086ZQ33WV/?tag=tolees00-21)

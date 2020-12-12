@@ -22,7 +22,7 @@ Ahora mismo tienes [Powerbank ALLPOWERS 24000mAh Batteria Esterna Portatile Cari
 
 [![Powerbank ALLPOWERS 24000mAh Batteria Es](https://m.media-amazon.com/images/I/31et6v8dNCL._SL200_.jpg)](https://www.amazon.it/dp/B07M841QNF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07M841QNF/?tag=tolees00-21)

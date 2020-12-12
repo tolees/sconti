@@ -22,7 +22,7 @@ Ahora mismo tienes [Listerine Collutorio  Total Care  Gusto Delicato  6 Benefici
 
 [![Listerine Collutorio  Total Care  Gusto ](https://m.media-amazon.com/images/I/41nNB3D6C3L._SL200_.jpg)](https://www.amazon.it/dp/B0158NRMY0/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0158NRMY0/?tag=tolees00-21)

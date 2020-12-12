@@ -22,7 +22,7 @@ Ahora mismo tienes [PISEN ColorPower PRO Portable Power Bank 10000mAh  Oro  Cari
 
 [![PISEN ColorPower PRO Portable Power Bank](https://m.media-amazon.com/images/I/31-uWzsXGZL._SL200_.jpg)](https://www.amazon.it/dp/B083G2TX1C/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B083G2TX1C/?tag=tolees00-21)

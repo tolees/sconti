@@ -22,7 +22,7 @@ Ahora mismo tienes [Grsta Bottiglia per Acqua in Acciaio Inox  Borraccia Termica
 
 [![Grsta Bottiglia per Acqua in Acciaio Ino](https://m.media-amazon.com/images/I/41xdUZInUTL._SL200_.jpg)](https://www.amazon.it/dp/B083BCBQRT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B083BCBQRT/?tag=tolees00-21)

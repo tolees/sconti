@@ -22,7 +22,7 @@ Ahora mismo tienes [TUTUO Wireless Controller per Nintendo Switch  Bluetooth Joy
 
 [![TUTUO Wireless Controller per Nintendo S](https://m.media-amazon.com/images/I/41p0+ESyFcL._SL200_.jpg)](https://www.amazon.it/dp/B08CVNXNXF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08CVNXNXF/?tag=tolees00-21)

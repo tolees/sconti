@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Ariam D  Scarpe da Ginnastica Basse Uomo  Grigio  Ant
 
 [![Geox U Ariam D  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/31DbL0AtbnL._SL200_.jpg)](https://www.amazon.it/dp/B0792H8KLV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0792H8KLV/?tag=tolees00-21)

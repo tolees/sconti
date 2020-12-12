@@ -22,7 +22,7 @@ Ahora mismo tienes [Cassa Bluetooth Portatile  20W Motast Speaker Bluetooth Port
 
 [![Cassa Bluetooth Portatile  20W Motast Sp](https://m.media-amazon.com/images/I/51C3VJPtNqL._SL200_.jpg)](https://www.amazon.it/dp/B084VJ5NRY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B084VJ5NRY/?tag=tolees00-21)

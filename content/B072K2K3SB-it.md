@@ -22,7 +22,7 @@ Ahora mismo tienes [Yves Saint Laurent e Eau de Toilette 100 ml](https://www.ama
 
 [![Yves Saint Laurent e Eau de Toilette 100](https://m.media-amazon.com/images/I/412b5kAcPCL._SL200_.jpg)](https://www.amazon.it/dp/B072K2K3SB/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B072K2K3SB/?tag=tolees00-21)

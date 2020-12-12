@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Challenger III Knit  Pantaloncini Uomo  Nero  B
 
 [![Under Armour Challenger III Knit  Pantal](https://m.media-amazon.com/images/I/31e5oe4wLOL._SL200_.jpg)](https://www.amazon.it/dp/B07PMTLQV7/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07PMTLQV7/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Regista 18  Giacca da Rappresentanza Uomo  Black/Whit
 
 [![adidas Regista 18  Giacca da Rappresenta](https://m.media-amazon.com/images/I/31NB+IIbr9L._SL200_.jpg)](https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Turtle Beach Stealth 700P Cuffie Gaming con Suono Surround p
 
 [![Turtle Beach Stealth 700P Cuffie Gaming ](https://m.media-amazon.com/images/I/41+qpWFiebL._SL200_.jpg)](https://www.amazon.it/dp/B071FSRJXV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B071FSRJXV/?tag=tolees00-21)

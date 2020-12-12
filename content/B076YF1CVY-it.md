@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s LS Graphic Tee-B Maglietta a Maniche Lunghe  Nero  Be
 
 [![Levi s LS Graphic Tee-B Maglietta a Mani](https://m.media-amazon.com/images/I/410je8eT8BL._SL200_.jpg)](https://www.amazon.it/dp/B076YF1CVY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B076YF1CVY/?tag=tolees00-21)

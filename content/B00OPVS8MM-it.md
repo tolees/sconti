@@ -22,7 +22,7 @@ Ahora mismo tienes [Grey L Acchiappacolore Fogli Cattura Colore Lavatrice Evita 
 
 [![Grey L Acchiappacolore Fogli Cattura Col](https://m.media-amazon.com/images/I/51zB2V06ZXL._SL200_.jpg)](https://www.amazon.it/dp/B00OPVS8MM/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00OPVS8MM/?tag=tolees00-21)

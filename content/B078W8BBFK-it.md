@@ -22,7 +22,7 @@ Ahora mismo tienes [TIPPY PAD dispositivo anti abbandono](https://www.amazon.it/
 
 [![TIPPY PAD dispositivo anti abbandono](https://m.media-amazon.com/images/I/31hcDY-FVJL._SL200_.jpg)](https://www.amazon.it/dp/B078W8BBFK/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B078W8BBFK/?tag=tolees00-21)

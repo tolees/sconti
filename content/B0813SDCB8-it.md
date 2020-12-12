@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Continental 80  Scarpe da Ginnastica Uomo  Crystal Wh
 
 [![adidas Continental 80  Scarpe da Ginnast](https://m.media-amazon.com/images/I/31YDjKW8KTL._SL200_.jpg)](https://www.amazon.it/dp/B0813SDCB8/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0813SDCB8/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Outsunny HOMCOM Cavalletto Supporto Manutenzione per Bicicle
 
 [![Outsunny HOMCOM Cavalletto Supporto Manu](https://m.media-amazon.com/images/I/41yYbWUNlIL._SL200_.jpg)](https://www.amazon.it/dp/B011TPETHY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B011TPETHY/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Sonicare HX9911/03 DiamondClean 9000  Spazzolino Ele
 
 [![Philips Sonicare HX9911/03 DiamondClean ](https://m.media-amazon.com/images/I/3145I-jAbKL._SL200_.jpg)](https://www.amazon.it/dp/B07YCF1SDV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07YCF1SDV/?tag=tolees00-21)

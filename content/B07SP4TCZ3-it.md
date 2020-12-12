@@ -22,7 +22,7 @@ Ahora mismo tienes [Havaianas Slim Animals  Infradito Donna  Multicolore  White/
 
 [![Havaianas Slim Animals  Infradito Donna ](https://m.media-amazon.com/images/I/41RHnZL0AwL._SL200_.jpg)](https://www.amazon.it/dp/B07SP4TCZ3/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07SP4TCZ3/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Nilox Bodyguard Smartwatch e Tracker GPS  Nero](https://www.
 
 [![Nilox Bodyguard Smartwatch e Tracker GPS](https://m.media-amazon.com/images/I/41p2GsrLptL._SL200_.jpg)](https://www.amazon.it/dp/B01CHXMO1K/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01CHXMO1K/?tag=tolees00-21)

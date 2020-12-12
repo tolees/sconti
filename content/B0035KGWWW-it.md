@@ -22,7 +22,7 @@ Ahora mismo tienes [Sola Scriptura](https://www.amazon.it/dp/B0035KGWWW/?tag=tol
 
 [![Sola Scriptura](https://m.media-amazon.com/images/I/41kN5Kd2JZL._SL200_.jpg)](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21)

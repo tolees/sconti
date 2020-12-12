@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s SS Original HM Tee T-Shirt  Blu  Cotton + Patch Dress
 
 [![Levi s SS Original HM Tee T-Shirt  Blu  ](https://m.media-amazon.com/images/I/41ySA9fIzEL._SL200_.jpg)](https://www.amazon.it/dp/B07K76XD3B/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07K76XD3B/?tag=tolees00-21)

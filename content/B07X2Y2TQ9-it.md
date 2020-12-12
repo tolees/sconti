@@ -22,7 +22,7 @@ Ahora mismo tienes [Rimmel London Confezione Regalo Velvet Revolution Collection
 
 [![Rimmel London Confezione Regalo Velvet R](https://m.media-amazon.com/images/I/41Y8Iz-at6L._SL200_.jpg)](https://www.amazon.it/dp/B07X2Y2TQ9/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07X2Y2TQ9/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Funko- Pop Vinile Rocks Joey Ramone  14350](https://www.amaz
 
 [![Funko- Pop Vinile Rocks Joey Ramone  143](https://m.media-amazon.com/images/I/51qJR1+rpVL._SL200_.jpg)](https://www.amazon.it/dp/B06ZYJC98G/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B06ZYJC98G/?tag=tolees00-21)

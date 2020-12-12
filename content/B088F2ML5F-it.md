@@ -22,7 +22,7 @@ Ahora mismo tienes [QHOHQ Cover per Xiaomi Redmi 9 con 2 Pezzi Pellicola Protett
 
 [![QHOHQ Cover per Xiaomi Redmi 9 con 2 Pez](https://m.media-amazon.com/images/I/410-WUtFcyL._SL200_.jpg)](https://www.amazon.it/dp/B088F2ML5F/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B088F2ML5F/?tag=tolees00-21)

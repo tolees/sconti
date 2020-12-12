@@ -22,7 +22,7 @@ Ahora mismo tienes [Neewer Luce 192 LED Ultra Sottile con LCD Display  Batteria 
 
 [![Neewer Luce 192 LED Ultra Sottile con LC](https://m.media-amazon.com/images/I/41-gDgqXVEL._SL200_.jpg)](https://www.amazon.it/dp/B086HKVDHC/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B086HKVDHC/?tag=tolees00-21)

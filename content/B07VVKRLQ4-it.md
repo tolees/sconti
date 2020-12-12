@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch Elettrodomestici WAT28749IT Serie 6  Lavatrice Active 
 
 [![Bosch Elettrodomestici WAT28749IT Serie ](https://m.media-amazon.com/images/I/41cYIujQK8L._SL200_.jpg)](https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21)

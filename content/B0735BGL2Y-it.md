@@ -22,7 +22,7 @@ Ahora mismo tienes [Napapijri Rainforest Winter - Giacca con cappuccio  100 % Po
 
 [![Napapijri Rainforest Winter - Giacca con](https://m.media-amazon.com/images/I/412IfEvjfvL._SL200_.jpg)](https://www.amazon.it/dp/B0735BGL2Y/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0735BGL2Y/?tag=tolees00-21)

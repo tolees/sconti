@@ -22,7 +22,7 @@ Ahora mismo tienes [Tablet Bambini 7 Pollici con Wifi Offerte Android 9.0 Certif
 
 [![Tablet Bambini 7 Pollici con Wifi Offert](https://m.media-amazon.com/images/I/51Vhji+tePL._SL200_.jpg)](https://www.amazon.it/dp/B08F7F8SSN/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08F7F8SSN/?tag=tolees00-21)

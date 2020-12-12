@@ -22,7 +22,7 @@ Ahora mismo tienes [Kalawen Binocolo 10x42 Azoto Professionale Potente Compatto 
 
 [![Kalawen Binocolo 10x42 Azoto Professiona](https://m.media-amazon.com/images/I/51AKYYT49vL._SL200_.jpg)](https://www.amazon.it/dp/B07R5JFD11/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07R5JFD11/?tag=tolees00-21)

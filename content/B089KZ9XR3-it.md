@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B Precision Clean Testine di Ricambio per Spazzolino El
 
 [![Oral-B Precision Clean Testine di Ricamb](https://m.media-amazon.com/images/I/51AisPMTD2L._SL200_.jpg)](https://www.amazon.it/dp/B089KZ9XR3/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B089KZ9XR3/?tag=tolees00-21)

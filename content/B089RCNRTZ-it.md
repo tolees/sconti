@@ -22,7 +22,7 @@ Ahora mismo tienes [Auricolare Bluetooth 5.0  Auricolare Wireless  Microfono e S
 
 [![Auricolare Bluetooth 5.0  Auricolare Wir](https://m.media-amazon.com/images/I/41BwbEPJOPL._SL200_.jpg)](https://www.amazon.it/dp/B089RCNRTZ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B089RCNRTZ/?tag=tolees00-21)

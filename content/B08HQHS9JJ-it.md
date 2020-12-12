@@ -22,7 +22,7 @@ Ahora mismo tienes [Cuffie Bluetooth 5.0  3D Stereo Cuffie Auricolare Senza Fili
 
 [![Cuffie Bluetooth 5.0  3D Stereo Cuffie A](https://m.media-amazon.com/images/I/31IovzseMbL._SL200_.jpg)](https://www.amazon.it/dp/B08HQHS9JJ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08HQHS9JJ/?tag=tolees00-21)

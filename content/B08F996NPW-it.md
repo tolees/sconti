@@ -22,7 +22,7 @@ Ahora mismo tienes [ANKEWAY Android 9.1 Autoradio 2 Din GPS Navigation 7 Pollici
 
 [![ANKEWAY Android 9.1 Autoradio 2 Din GPS ](https://m.media-amazon.com/images/I/51u0ciRDmJL._SL200_.jpg)](https://www.amazon.it/dp/B08F996NPW/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08F996NPW/?tag=tolees00-21)

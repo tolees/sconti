@@ -22,7 +22,7 @@ Ahora mismo tienes [Proiettore WiFi  2020 Aggiornato Videoproiettore HD Wireless
 
 [![Proiettore WiFi  2020 Aggiornato Videopr](https://m.media-amazon.com/images/I/51EUUq8GQAL._SL200_.jpg)](https://www.amazon.it/dp/B083FL9C3P/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B083FL9C3P/?tag=tolees00-21)

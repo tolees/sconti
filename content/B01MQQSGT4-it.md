@@ -22,7 +22,7 @@ Ahora mismo tienes [Lower East impermeable Uomo  Blu  Navy   Small](https://www.
 
 [![Lower East impermeable Uomo  Blu  Navy  ](https://m.media-amazon.com/images/I/41bUPSnasKL._SL200_.jpg)](https://www.amazon.it/dp/B01MQQSGT4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01MQQSGT4/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Adilette Shower  Scarpe da Spiaggia e Piscina Uomo  B
 
 [![adidas Adilette Shower  Scarpe da Spiagg](https://m.media-amazon.com/images/I/41yotsvfkEL._SL200_.jpg)](https://www.amazon.it/dp/B07NBP7P9N/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07NBP7P9N/?tag=tolees00-21)

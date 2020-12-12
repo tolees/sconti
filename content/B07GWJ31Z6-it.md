@@ -22,7 +22,7 @@ Ahora mismo tienes [Hauck Citi Neo II Passeggino da 0 Mesi a 25 kg  con 2 Porta 
 
 [![Hauck Citi Neo II Passeggino da 0 Mesi a](https://m.media-amazon.com/images/I/41HVuHm0jeL._SL200_.jpg)](https://www.amazon.it/dp/B07GWJ31Z6/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07GWJ31Z6/?tag=tolees00-21)

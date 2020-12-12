@@ -22,7 +22,7 @@ Ahora mismo tienes [Pillars of Eternity II: Deadfire Ultimate Collector s Editio
 
 [![Pillars of Eternity II: Deadfire Ultimat](https://m.media-amazon.com/images/I/51w6tRxgFVL._SL200_.jpg)](https://www.amazon.it/dp/B07YG7Q9RF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07YG7Q9RF/?tag=tolees00-21)

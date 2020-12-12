@@ -22,7 +22,7 @@ Ahora mismo tienes [Diadora - Sneakers Game L Low Waxed per Uomo e Donna  EU 40.
 
 [![Diadora - Sneakers Game L Low Waxed per ](https://m.media-amazon.com/images/I/31IiTfpkOnL._SL200_.jpg)](https://www.amazon.it/dp/B00UJNPU2G/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00UJNPU2G/?tag=tolees00-21)

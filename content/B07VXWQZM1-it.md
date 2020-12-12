@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Edison T-Shirt  Bianco  Optic White 802   SMA L L
 
 [![Pepe Jeans Edison T-Shirt  Bianco  Optic](https://m.media-amazon.com/images/I/41-pIR5gJnL._SL200_.jpg)](https://www.amazon.it/dp/B07VXWQZM1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VXWQZM1/?tag=tolees00-21)

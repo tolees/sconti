@@ -22,7 +22,7 @@ Ahora mismo tienes [Orient Orologio Analogico Automatico Uomo con Cinturino in P
 
 [![Orient Orologio Analogico Automatico Uom](https://m.media-amazon.com/images/I/51TSCUBMcqL._SL200_.jpg)](https://www.amazon.it/dp/B074CSGVHT/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B074CSGVHT/?tag=tolees00-21)

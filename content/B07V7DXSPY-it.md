@@ -22,7 +22,7 @@ Ahora mismo tienes [2 batterie per controller Xbox One/Xbox One S/Xbox One X 120
 
 [![2 batterie per controller Xbox One/Xbox ](https://m.media-amazon.com/images/I/41-IW35qCcL._SL200_.jpg)](https://www.amazon.it/dp/B07V7DXSPY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07V7DXSPY/?tag=tolees00-21)

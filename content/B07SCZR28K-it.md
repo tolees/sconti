@@ -22,7 +22,7 @@ Ahora mismo tienes [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Bianca Whi
 
 [![PUMA Ralph Sampson Lo  Scarpe da Ginnast](https://m.media-amazon.com/images/I/41kVoONHRgL._SL200_.jpg)](https://www.amazon.it/dp/B07SCZR28K/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07SCZR28K/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pavesi Ringo Biscotti Farciti con Crema al Gusto Vaniglia  S
 
 [![Pavesi Ringo Biscotti Farciti con Crema ](https://m.media-amazon.com/images/I/41Htld-2j-L._SL200_.jpg)](https://www.amazon.it/dp/B0035AQPOM/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0035AQPOM/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Candy CMGE23BS Microonde con Grill  23 Litri  Colore Nero  P
 
 [![Candy CMGE23BS Microonde con Grill  23 L](https://m.media-amazon.com/images/I/31NRk3sukJL._SL200_.jpg)](https://www.amazon.it/dp/B077YSMZGV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B077YSMZGV/?tag=tolees00-21)

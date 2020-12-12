@@ -22,7 +22,7 @@ Ahora mismo tienes [Meller - Kendi All Black - Sunglasses for Men and Women](htt
 
 [![Meller - Kendi All Black - Sunglasses fo](https://m.media-amazon.com/images/I/31LU8iZl6gL._SL200_.jpg)](https://www.amazon.it/dp/B089MFLCL9/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B089MFLCL9/?tag=tolees00-21)

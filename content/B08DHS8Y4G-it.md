@@ -22,7 +22,7 @@ Ahora mismo tienes [Smartphone Offerta 4G  DOOGEE N20 Pro Cellulari Offerte  202
 
 [![Smartphone Offerta 4G  DOOGEE N20 Pro Ce](https://m.media-amazon.com/images/I/51yMtJP4oyL._SL200_.jpg)](https://www.amazon.it/dp/B08DHS8Y4G/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08DHS8Y4G/?tag=tolees00-21)

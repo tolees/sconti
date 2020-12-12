@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Giacca  Nero  
 
 [![Vero Moda Vmhot SOYA LS Denim Jacket Mix](https://m.media-amazon.com/images/I/41FpqteCKcL._SL200_.jpg)](https://www.amazon.it/dp/B074ZNZDHH/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B074ZNZDHH/?tag=tolees00-21)

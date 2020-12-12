@@ -22,7 +22,7 @@ Ahora mismo tienes [Controller wireless per Nintendo Switch  Maegoo Mini Control
 
 [![Controller wireless per Nintendo Switch ](https://m.media-amazon.com/images/I/41Pjxs8McbL._SL200_.jpg)](https://www.amazon.it/dp/B08CSBGBP3/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08CSBGBP3/?tag=tolees00-21)

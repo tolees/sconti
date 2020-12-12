@@ -22,7 +22,7 @@ Ahora mismo tienes [Cuffie Bluetooth  Auricolari Bluetooth 5.0 Senza Fili Cancel
 
 [![Cuffie Bluetooth  Auricolari Bluetooth 5](https://m.media-amazon.com/images/I/31tsVje8SiL._SL200_.jpg)](https://www.amazon.it/dp/B08BL8J2Q2/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08BL8J2Q2/?tag=tolees00-21)

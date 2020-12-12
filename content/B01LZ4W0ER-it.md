@@ -22,7 +22,7 @@ Ahora mismo tienes [Barilla - Sugo Ragù alla Bolognese - Salsa Pronta al Pomodo
 
 [![Barilla - Sugo Ragù alla Bolognese - Sal](https://m.media-amazon.com/images/I/41ukD1hvryL._SL200_.jpg)](https://www.amazon.it/dp/B01LZ4W0ER/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01LZ4W0ER/?tag=tolees00-21)

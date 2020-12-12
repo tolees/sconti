@@ -22,7 +22,7 @@ Ahora mismo tienes [Casio Orologio Analogico Quarzo Uomo con Cinturino in Plasti
 
 [![Casio Orologio Analogico Quarzo Uomo con](https://m.media-amazon.com/images/I/410hfosSEoL._SL200_.jpg)](https://www.amazon.it/dp/B01BMG1PI6/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01BMG1PI6/?tag=tolees00-21)

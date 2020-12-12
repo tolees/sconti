@@ -22,7 +22,7 @@ Ahora mismo tienes [PUMA Epic Flip v2  Scarpe da Spiaggia e Piscina Unisex-Adult
 
 [![PUMA Epic Flip v2  Scarpe da Spiaggia e ](https://m.media-amazon.com/images/I/31lw8w085BL._SL200_.jpg)](https://www.amazon.it/dp/B07S7QVV6N/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07S7QVV6N/?tag=tolees00-21)

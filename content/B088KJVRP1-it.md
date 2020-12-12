@@ -22,7 +22,7 @@ Ahora mismo tienes [PUPPY KITTY Distributore Automatico di Cibo per Gatti  Cani 
 
 [![PUPPY KITTY Distributore Automatico di C](https://m.media-amazon.com/images/I/41sMHD-Bg3L._SL200_.jpg)](https://www.amazon.it/dp/B088KJVRP1/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B088KJVRP1/?tag=tolees00-21)

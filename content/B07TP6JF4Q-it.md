@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjecorp Logo Sweat Hood Noos Cappuccio  Grigio 
 
 [![JACK & JONES Jjecorp Logo Sweat Hood Noo](https://m.media-amazon.com/images/I/41Lr-xoH9uL._SL200_.jpg)](https://www.amazon.it/dp/B07TP6JF4Q/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 - Cotton mixture
 - Sweater with logo

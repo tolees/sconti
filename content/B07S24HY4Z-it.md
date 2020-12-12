@@ -22,7 +22,7 @@ Ahora mismo tienes [MSI GS75 Stealth 9SE-493IT Notebook Gaming  17.3" FHD Intel 
 
 [![MSI GS75 Stealth 9SE-493IT Notebook Gami](https://m.media-amazon.com/images/I/319a0xbK9XL._SL200_.jpg)](https://www.amazon.it/dp/B07S24HY4Z/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07S24HY4Z/?tag=tolees00-21)

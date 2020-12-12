@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Invisible Calzini Sport Uomo  Pink Lady  39/42](https:/
 
 [![Puma Invisible Calzini Sport Uomo  Pink ](https://m.media-amazon.com/images/I/31NE1TcaKvL._SL200_.jpg)](https://www.amazon.it/dp/B01HRNK4VM/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01HRNK4VM/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Imetec Piuma Extreme++ SC3-600 Aspirapolvere con Tecnologia 
 
 [![Imetec Piuma Extreme++ SC3-600 Aspirapol](https://m.media-amazon.com/images/I/41n3WMBkBAL._SL200_.jpg)](https://www.amazon.it/dp/B07W49FGYS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07W49FGYS/?tag=tolees00-21)

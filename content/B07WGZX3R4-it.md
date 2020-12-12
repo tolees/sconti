@@ -22,7 +22,7 @@ Ahora mismo tienes [LIEBE721 Giacche Giacca Donna Manica Lunga Cardigan Eleganti
 
 [![LIEBE721 Giacche Giacca Donna Manica Lun](https://m.media-amazon.com/images/I/51Ck8w1426L._SL200_.jpg)](https://www.amazon.it/dp/B07WGZX3R4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07WGZX3R4/?tag=tolees00-21)

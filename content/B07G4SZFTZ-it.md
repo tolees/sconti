@@ -22,7 +22,7 @@ Ahora mismo tienes [It  2017  + Funko Keychain](https://www.amazon.it/dp/B07G4SZ
 
 [![It  2017  + Funko Keychain](https://m.media-amazon.com/images/I/4180BWixmgL._SL200_.jpg)](https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21)

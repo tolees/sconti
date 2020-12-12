@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Continental 80  Scarpe da Ginnastica Uomo  Bianco  Ft
 
 [![adidas Continental 80  Scarpe da Ginnast](https://m.media-amazon.com/images/I/21Fhz++glCL._SL200_.jpg)](https://www.amazon.it/dp/B07K1LGBVV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07K1LGBVV/?tag=tolees00-21)

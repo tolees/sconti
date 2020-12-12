@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Woodward L  Sneaker Uomo  Grigio  Regular Grey 55   4
 
 [![Levi s Woodward L  Sneaker Uomo  Grigio ](https://m.media-amazon.com/images/I/31nneb4yYAL._SL200_.jpg)](https://www.amazon.it/dp/B07SFJ9JP7/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07SFJ9JP7/?tag=tolees00-21)

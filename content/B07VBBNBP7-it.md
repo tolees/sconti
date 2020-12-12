@@ -22,7 +22,7 @@ Ahora mismo tienes [HUGO Dolive202 T-Shirt  Giallo  Light/Pastel Yellow 741   M 
 
 [![HUGO Dolive202 T-Shirt  Giallo  Light/Pa](https://m.media-amazon.com/images/I/41HSrTQkf7L._SL200_.jpg)](https://www.amazon.it/dp/B07VBBNBP7/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VBBNBP7/?tag=tolees00-21)

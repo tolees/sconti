@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Smash V2 Sneaker Unisex - Adulto  Castlerock/Puma Black
 
 [![Puma Smash V2 Sneaker Unisex - Adulto  C](https://m.media-amazon.com/images/I/41-YNrLa--L._SL200_.jpg)](https://www.amazon.it/dp/B07KG1LLGQ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07KG1LLGQ/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Cerchietto Per Capelli Donna 10 Pezzi Antiscivolo Pelle Sint
 
 [![Cerchietto Per Capelli Donna 10 Pezzi An](https://m.media-amazon.com/images/I/51cv3O0oaFL._SL200_.jpg)](https://www.amazon.it/dp/B08F54RHWM/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08F54RHWM/?tag=tolees00-21)

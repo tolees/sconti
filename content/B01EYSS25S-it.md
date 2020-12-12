@@ -22,7 +22,7 @@ Ahora mismo tienes [Batman V Superman: Dawn of Justice  Blu-Ray 4K UltraHD + Blu
 
 [![Batman V Superman: Dawn of Justice  Blu-](https://m.media-amazon.com/images/I/518UTC22GjL._SL200_.jpg)](https://www.amazon.it/dp/B01EYSS25S/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01EYSS25S/?tag=tolees00-21)

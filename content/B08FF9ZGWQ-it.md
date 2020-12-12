@@ -22,7 +22,7 @@ Ahora mismo tienes [AZ Dentifricio Pro Expert Prevenzione Superiore  Pulizia Den
 
 [![AZ Dentifricio Pro Expert Prevenzione Su](https://m.media-amazon.com/images/I/41mH-f-Pj1L._SL200_.jpg)](https://www.amazon.it/dp/B08FF9ZGWQ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08FF9ZGWQ/?tag=tolees00-21)

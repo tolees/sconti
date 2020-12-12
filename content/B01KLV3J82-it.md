@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Hustle 3.0  Zaino Unisex  Rosso  Red/Graphit
 
 [![Under Armour UA Hustle 3.0  Zaino Unisex](https://m.media-amazon.com/images/I/41cz9VPEKlL._SL200_.jpg)](https://www.amazon.it/dp/B01KLV3J82/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01KLV3J82/?tag=tolees00-21)

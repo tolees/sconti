@@ -22,7 +22,7 @@ Ahora mismo tienes [Panasonic KX-TG6811JTB Telefono Cordless DECT  Schermo LCD d
 
 [![Panasonic KX-TG6811JTB Telefono Cordless](https://m.media-amazon.com/images/I/41dL+rdjgiL._SL200_.jpg)](https://www.amazon.it/dp/B00D2NVCIQ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00D2NVCIQ/?tag=tolees00-21)

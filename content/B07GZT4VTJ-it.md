@@ -22,7 +22,7 @@ Ahora mismo tienes [Marchio Amazon - MERAKI Blazer Casual Uomo  Grigio  Grey Mar
 
 [![Marchio Amazon - MERAKI Blazer Casual Uo](https://m.media-amazon.com/images/I/41ezjmeBRWL._SL200_.jpg)](https://www.amazon.it/dp/B07GZT4VTJ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07GZT4VTJ/?tag=tolees00-21)

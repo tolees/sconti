@@ -22,7 +22,7 @@ Ahora mismo tienes [Bottiglia d Acqua Sportiva 850ml Borraccia Senza BPA in Plas
 
 [![Bottiglia d Acqua Sportiva 850ml Borracc](https://m.media-amazon.com/images/I/41l6xgbZTTL._SL200_.jpg)](https://www.amazon.it/dp/B08BZ44K4X/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08BZ44K4X/?tag=tolees00-21)

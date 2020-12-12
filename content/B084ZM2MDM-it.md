@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Frullatore a Immersione HR2543/00  nuova Daily+ coll
 
 [![Philips Frullatore a Immersione HR2543/0](https://m.media-amazon.com/images/I/41hwJ0K-3pL._SL200_.jpg)](https://www.amazon.it/dp/B084ZM2MDM/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B084ZM2MDM/?tag=tolees00-21)

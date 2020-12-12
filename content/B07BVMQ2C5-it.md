@@ -22,7 +22,7 @@ Ahora mismo tienes [Frontline | TriAct Spot On Cani| Protezione da pulci  zecche
 
 [![Frontline | TriAct Spot On Cani| Protezi](https://m.media-amazon.com/images/I/51KRpcHnUUL._SL200_.jpg)](https://www.amazon.it/dp/B07BVMQ2C5/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07BVMQ2C5/?tag=tolees00-21)

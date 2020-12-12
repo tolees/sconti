@@ -22,7 +22,7 @@ Ahora mismo tienes [eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY Ric
 
 [![eXtremeRate Cover Joycon Scocca Guscio C](https://m.media-amazon.com/images/I/41eampUqXsL._SL200_.jpg)](https://www.amazon.it/dp/B08C9TJPGP/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B08C9TJPGP/?tag=tolees00-21)

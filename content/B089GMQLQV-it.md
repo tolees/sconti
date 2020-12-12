@@ -22,7 +22,7 @@ Ahora mismo tienes [SHULIANCABLE Cavo Ethernet Cat 8  di Rete Cat 8 40Gbps 2000M
 
 [![SHULIANCABLE Cavo Ethernet Cat 8  di Ret](https://m.media-amazon.com/images/I/414Mxsctz5L._SL200_.jpg)](https://www.amazon.it/dp/B089GMQLQV/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B089GMQLQV/?tag=tolees00-21)

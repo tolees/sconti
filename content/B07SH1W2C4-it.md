@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s June L S  Infradito Donna  Rosa  Light Pink 81   39 E
 
 [![Levi s June L S  Infradito Donna  Rosa  ](https://m.media-amazon.com/images/I/31vgApyAKDL._SL200_.jpg)](https://www.amazon.it/dp/B07SH1W2C4/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07SH1W2C4/?tag=tolees00-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste L1212 Polo  ALIZARINE  S Uomo](https://www.amazon.it
 
 [![Lacoste L1212 Polo  ALIZARINE  S Uomo](https://m.media-amazon.com/images/I/416IAoWR8eL._SL200_.jpg)](https://www.amazon.it/dp/B07VTPXW19/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07VTPXW19/?tag=tolees00-21)

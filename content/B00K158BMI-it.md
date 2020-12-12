@@ -22,7 +22,7 @@ Ahora mismo tienes [Orologio da Donna Casio H5LTP-1259PD-2AEF](https://www.amazo
 
 [![Orologio da Donna Casio H5LTP-1259PD-2AE](https://m.media-amazon.com/images/I/41mG55DDTmL._SL200_.jpg)](https://www.amazon.it/dp/B00K158BMI/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B00K158BMI/?tag=tolees00-21)
