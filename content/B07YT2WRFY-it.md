@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.41 % en God of War Hits - PlayStation 4'
-date: 2020-11-26 23:17:09
+date: 2020-12-12 16:03:07
 image: 'https://m.media-amazon.com/images/I/51N7WnbO3SL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Tienes [God of War Hits - PlayStation 4](https://www.amazon.it/dp/B07YT2WRFY/?ta
 
 ℹ️:
 
+- Circa 30 ore di gioco da vivere immerso negli incontaminati regni del folklore nordico
+- Un rinnovato inizio in grado di appassionare nuovi giocatori e fan della saga
+- Sfrutta appieno il potenziale di PS4 e PS4 Pro
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07YT2WRFY/?tag=tolees00-21)

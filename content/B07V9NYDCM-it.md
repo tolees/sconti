@@ -24,8 +24,8 @@ Está [CARPISA® Tracollina da donna - Bana](https://www.amazon.it/dp/B07V9NYDCM
 
 ℹ️:
 
-- Composizione: Sintetico
 - Dimensioni: 19.50x15.50x8.00
 - Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
+- Composizione: Sintetico
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07V9NYDCM/?tag=tolees00-21)
