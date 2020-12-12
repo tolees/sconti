@@ -2,33 +2,27 @@
 layout: post
 title: 'YI Camera IP 1080p Videocamera di Sorveg al 51.01 % de descuento'
 date: 2020-11-23 08:51:31
-thumbnailImage: 'https://m.media-amazon.com/images/I/41sa+JBBrQL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41sa+JBBrQL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41sa+JBBrQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B01N4Q24VG-it'
-description:
 actualPrice: 29.39 EUR
 currency: EUR
 price: 29.39
 comparePrice: 59.99 EUR
-inStock: true
 prodname: 'YI Camera IP 1080p Videocamera di Sorveglianza da Interno Compatibile con Alexa per Casa  360 gradi  Visione Notturna non Invasiva  Notifiche push Supporta Micro SD a 64gb YI HOME App per iOS Android'
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N4Q24VG/?tag=tolees00-21'
 descuento: '51.01'
-titulo: 'YI Camera IP 1080p Videocamera di Sorveg'
 ---
 
 Ahora mismo tienes [YI Camera IP 1080p Videocamera di Sorveglianza da Interno Compatibile con Alexa per Casa  360 gradi  Visione Notturna non Invasiva  Notifiche push Supporta Micro SD a 64gb YI HOME App per iOS Android](https://www.amazon.it/dp/B01N4Q24VG/?tag=tolees00-21) a 29.39 EUR (original: 59.99 EUR) (51.01 %  de descuento) en el siguiente enlace!
 
 [![YI Camera IP 1080p Videocamera di Sorveg](https://m.media-amazon.com/images/I/41sa+JBBrQL._SL200_.jpg)](https://www.amazon.it/dp/B01N4Q24VG/?tag=tolees00-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01N4Q24VG/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

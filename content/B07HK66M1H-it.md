@@ -2,33 +2,27 @@
 layout: post
 title: 'Levi s Type 3 Giacca in Jeans  Blu  Ston al 59.12 % de descuento'
 date: 2020-08-29 11:35:45
-thumbnailImage: 'https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07HK66M1H-it'
-description:
 actualPrice: 57.23 EUR
 currency: EUR
 price: 57.23
 comparePrice: 140.0 EUR
-inStock: true
 prodname: 'Levi s Type 3 Giacca in Jeans  Blu  Stonebridge Sherpa Trucker 0070   XXX-Large Uomo'
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HK66M1H/?tag=tolees00-21'
 descuento: '59.12'
-titulo: 'Levi s Type 3 Giacca in Jeans  Blu  Ston'
 ---
 
 Ahora mismo tienes [Levi s Type 3 Giacca in Jeans  Blu  Stonebridge Sherpa Trucker 0070   XXX-Large Uomo](https://www.amazon.it/dp/B07HK66M1H/?tag=tolees00-21) a 57.23 EUR (original: 140.0 EUR) (59.12 %  de descuento) en el siguiente enlace!
 
 [![Levi s Type 3 Giacca in Jeans  Blu  Ston](https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg)](https://www.amazon.it/dp/B07HK66M1H/?tag=tolees00-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07HK66M1H/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

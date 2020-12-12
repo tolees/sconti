@@ -2,35 +2,27 @@
 layout: post
 title: 'Adidas Core 18 SS  Felpa Uomo  Grigio  D al 33.73 % de descuento'
 date: 2020-11-26 15:18:22
-thumbnailImage: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/516q61AOW2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B076HR1T8G-it'
-description:
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5
 comparePrice: 39.99 EUR
-inStock: true
 prodname: 'Adidas Core 18 SS  Felpa Uomo  Grigio  Dark Grey Heather/Black   XL'
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B076HR1T8G/?tag=tolees00-21'
 descuento: '33.73'
-titulo: 'Adidas Core 18 SS  Felpa Uomo  Grigio  D'
 ---
 
 Está [Adidas Core 18 SS  Felpa Uomo  Grigio  Dark Grey Heather/Black   XL](https://www.amazon.it/dp/B076HR1T8G/?tag=tolees00-21) con 33.73 de descuento por 26.5 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Adidas Core 18 SS  Felpa Uomo  Grigio  D](https://m.media-amazon.com/images/I/516q61AOW2L._SL200_.jpg)](https://www.amazon.it/dp/B076HR1T8G/?tag=tolees00-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.it/dp/B076HR1T8G/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

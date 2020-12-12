@@ -2,35 +2,27 @@
 layout: post
 title: 'Game of Thronos - Replica Figura Drogon  al 33.23 % de descuento'
 date: 2020-10-06 21:39:57
-thumbnailImage: 'https://m.media-amazon.com/images/I/31q+q+37WkL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31q+q+37WkL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31q+q+37WkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07NDYKDPH-it'
-description:
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2
 comparePrice: 46.73 EUR
-inStock: true
 prodname: 'Game of Thronos - Replica Figura Drogon 33 cm  multicolore  Mc Farlane MCF10656-5 '
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NDYKDPH/?tag=tolees00-21'
 descuento: '33.23'
-titulo: 'Game of Thronos - Replica Figura Drogon '
 ---
 
 Está [Game of Thronos - Replica Figura Drogon 33 cm  multicolore  Mc Farlane MCF10656-5 ](https://www.amazon.it/dp/B07NDYKDPH/?tag=tolees00-21) con 33.23 de descuento por 31.2 EUR (original: 46.73 EUR) en el siguiente enlace!
 
 [![Game of Thronos - Replica Figura Drogon ](https://m.media-amazon.com/images/I/31q+q+37WkL._SL200_.jpg)](https://www.amazon.it/dp/B07NDYKDPH/?tag=tolees00-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07NDYKDPH/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

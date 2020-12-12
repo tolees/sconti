@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 50.15 % en 17Tek STEM 13-in-1 Educational Solar Rob'
 date: 2020-12-09 02:42:13
-thumbnailImage: 'https://m.media-amazon.com/images/I/516yWR1CElL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/516yWR1CElL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/516yWR1CElL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B083QGF4C9-it'
-description:
 actualPrice: 23.46 EUR
 currency: EUR
 price: 23.46
 comparePrice: 47.06 EUR
-inStock: true
 prodname: '17Tek STEM 13-in-1 Educational Solar Robot Giocattoli – 190 Pezzi DIY Building Science Experiment Kit Alimentato dal Sole'
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083QGF4C9/?tag=tolees00-21'
 descuento: '50.15'
-titulo: '17Tek STEM 13-in-1 Educational Solar Rob'
 ---
 
 Tienes [17Tek STEM 13-in-1 Educational Solar Robot Giocattoli – 190 Pezzi DIY Building Science Experiment Kit Alimentato dal Sole](https://www.amazon.it/dp/B083QGF4C9/?tag=tolees00-21) con un 50.15 % de descuento con precio de oferta de 23.46 EUR (original: 47.06 EUR) en el siguiente enlace!
 
 [![17Tek STEM 13-in-1 Educational Solar Rob](https://m.media-amazon.com/images/I/516yWR1CElL._SL200_.jpg)](https://www.amazon.it/dp/B083QGF4C9/?tag=tolees00-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B083QGF4C9/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

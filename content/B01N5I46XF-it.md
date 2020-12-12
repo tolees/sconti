@@ -2,35 +2,27 @@
 layout: post
 title: 'Kärcher 1.324-633.0 Idropulitrice K 5 Pr al 32.79 % de descuento'
 date: 2020-07-21 14:37:08
-thumbnailImage: 'https://m.media-amazon.com/images/I/411lJMLLVpL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/411lJMLLVpL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/411lJMLLVpL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B01N5I46XF-it'
-description:
 actualPrice: 335.36 EUR
 currency: EUR
 price: 335.36
 comparePrice: 499.0 EUR
-inStock: true
 prodname: 'Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control Plus Home  145 Bar  500 L/H  Resa 40 M²/H  Pistola Alta Pressione  Lancia 3-in-1  Lavasuperfici  Tubo 8m  220 V  Giallo'
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21'
 descuento: '32.79'
-titulo: 'Kärcher 1.324-633.0 Idropulitrice K 5 Pr'
 ---
 
 Está [Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control Plus Home  145 Bar  500 L/H  Resa 40 M²/H  Pistola Alta Pressione  Lancia 3-in-1  Lavasuperfici  Tubo 8m  220 V  Giallo](https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21) con 32.79 de descuento por 335.36 EUR (original: 499.0 EUR) en el siguiente enlace!
 
 [![Kärcher 1.324-633.0 Idropulitrice K 5 Pr](https://m.media-amazon.com/images/I/411lJMLLVpL._SL200_.jpg)](https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

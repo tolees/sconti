@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 63.85 % en Adidas Superstar  Scarpe da Ginnastica U'
 date: 2020-09-10 09:49:24
-thumbnailImage: 'https://m.media-amazon.com/images/I/31iyyw7dFBL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31iyyw7dFBL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31iyyw7dFBL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B0813XNHG3-it'
-description:
 actualPrice: 39.75 EUR
 currency: EUR
 price: 39.75
 comparePrice: 109.95 EUR
-inStock: true
 prodname: 'Adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Core Black  41 1/3 EU'
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0813XNHG3/?tag=tolees00-21'
 descuento: '63.85'
-titulo: 'Adidas Superstar  Scarpe da Ginnastica U'
 ---
 
 Tienes [Adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Core Black  41 1/3 EU](https://www.amazon.it/dp/B0813XNHG3/?tag=tolees00-21) con un 63.85 % de descuento con precio de oferta de 39.75 EUR (original: 109.95 EUR) en el siguiente enlace!
 
 [![Adidas Superstar  Scarpe da Ginnastica U](https://m.media-amazon.com/images/I/31iyyw7dFBL._SL200_.jpg)](https://www.amazon.it/dp/B0813XNHG3/?tag=tolees00-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0813XNHG3/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

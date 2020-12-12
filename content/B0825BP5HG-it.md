@@ -2,33 +2,27 @@
 layout: post
 title: 'National Geographic Travel Kit Treppiede al 61.32 % de descuento'
 date: 2020-09-01 10:02:54
-thumbnailImage: 'https://m.media-amazon.com/images/I/51-YMSjwglL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51-YMSjwglL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51-YMSjwglL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B0825BP5HG-it'
-description:
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99
 comparePrice: 85.28 EUR
-inStock: true
 prodname: 'National Geographic Travel Kit Treppiede con Monopiede  Alluminio  Gambe 5 Sezioni  Twist Lock  Sacca Trasporto  Carico Fino a 8 kg  Testa a Sfera  Sgancio Rapido  NGTR002T'
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0825BP5HG/?tag=tolees00-21'
 descuento: '61.32'
-titulo: 'National Geographic Travel Kit Treppiede'
 ---
 
 Ahora mismo tienes [National Geographic Travel Kit Treppiede con Monopiede  Alluminio  Gambe 5 Sezioni  Twist Lock  Sacca Trasporto  Carico Fino a 8 kg  Testa a Sfera  Sgancio Rapido  NGTR002T](https://www.amazon.it/dp/B0825BP5HG/?tag=tolees00-21) a 32.99 EUR (original: 85.28 EUR) (61.32 %  de descuento) en el siguiente enlace!
 
 [![National Geographic Travel Kit Treppiede](https://m.media-amazon.com/images/I/51-YMSjwglL._SL200_.jpg)](https://www.amazon.it/dp/B0825BP5HG/?tag=tolees00-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B0825BP5HG/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

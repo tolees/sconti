@@ -2,33 +2,27 @@
 layout: post
 title: 'Puma Axis  Scarpe da Ginnastica Unisex-A al 63.69 % de descuento'
 date: 2020-08-19 09:21:55
-thumbnailImage: 'https://m.media-amazon.com/images/I/417Q6-PuKcL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/417Q6-PuKcL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/417Q6-PuKcL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07F2PZ2Z9-it'
-description:
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95
 comparePrice: 54.95 EUR
-inStock: true
 prodname: 'Puma Axis  Scarpe da Ginnastica Unisex-Adulto  Nero Black/Asphalt  45 EU'
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F2PZ2Z9/?tag=tolees00-21'
 descuento: '63.69'
-titulo: 'Puma Axis  Scarpe da Ginnastica Unisex-A'
 ---
 
 Ahora mismo tienes [Puma Axis  Scarpe da Ginnastica Unisex-Adulto  Nero Black/Asphalt  45 EU](https://www.amazon.it/dp/B07F2PZ2Z9/?tag=tolees00-21) a 19.95 EUR (original: 54.95 EUR) (63.69 %  de descuento) en el siguiente enlace!
 
 [![Puma Axis  Scarpe da Ginnastica Unisex-A](https://m.media-amazon.com/images/I/417Q6-PuKcL._SL200_.jpg)](https://www.amazon.it/dp/B07F2PZ2Z9/?tag=tolees00-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07F2PZ2Z9/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

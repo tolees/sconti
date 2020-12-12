@@ -2,33 +2,27 @@
 layout: post
 title: 'Geox D PONTOISE D  Scarpe da Ginnastica  al 73.88 % de descuento'
 date: 2020-08-13 18:01:37
-thumbnailImage: 'https://m.media-amazon.com/images/I/31kU7Qfm2rL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31kU7Qfm2rL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31kU7Qfm2rL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07STLY1LK-it'
-description:
 actualPrice: 30.04 EUR
 currency: EUR
 price: 30.04
 comparePrice: 115.0 EUR
-inStock: true
 prodname: 'Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Bianco  White/Silver C0007   36 EU'
 country: 'it'
+flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07STLY1LK/?tag=tolees00-21'
 descuento: '73.88'
-titulo: 'Geox D PONTOISE D  Scarpe da Ginnastica '
 ---
 
 Ahora mismo tienes [Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Bianco  White/Silver C0007   36 EU](https://www.amazon.it/dp/B07STLY1LK/?tag=tolees00-21) a 30.04 EUR (original: 115.0 EUR) (73.88 %  de descuento) en el siguiente enlace!
 
 [![Geox D PONTOISE D  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/31kU7Qfm2rL._SL200_.jpg)](https://www.amazon.it/dp/B07STLY1LK/?tag=tolees00-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B07STLY1LK/?tag=tolees00-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
