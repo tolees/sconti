@@ -25,7 +25,7 @@ Tienes [Diplomatico Rhum  Reserva Exclusiva  0.70 lt - Versione senza astuccio](
 ℹ️:
 
 - Il rum che travolge anche chi non ama i distillati: delicato raffinato e morbido
-- Bottiglia da 700 ml
 - Ciliegia marasca, caffè, cacao dolce, arancia, sciroppo dacero, meringa
+- Bottiglia da 700 ml
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0090I3YSS/?tag=tolees00-21)

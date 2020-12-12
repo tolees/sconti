@@ -24,9 +24,9 @@ Está [Antica Distilleria Caffo Liquore d Erbe di Calabria  700ml](https://www.a
 
 ℹ️:
 
-- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
-- Si tratta di un liquore piena di terreno, meravigliosamente sapori amari
 - liquore aromatico Riccamente
+- Si tratta di un liquore piena di terreno, meravigliosamente sapori amari
+- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
 - Caratterizzato da 29 diverse erbe e radici calabresi
 
 [Ver la oferta!!](https://www.amazon.it/dp/B001GLKDRW/?tag=tolees00-21)
