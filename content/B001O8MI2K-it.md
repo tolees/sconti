@@ -3,6 +3,7 @@ layout: post
 title: 'Hugo Boss Eau de Toilette Spray [200 ml] al 57.86 % de descuento'
 date: 2020-08-27 09:08:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ax9bThxDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ax9bThxDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ax9bThxDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 113.9 EUR
 inStock: true
 prodname: 'Hugo Boss Eau de Toilette Spray [200 ml]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B001O8MI2K/?tag=tolees00-21'
+descuento: '57.86'
+titulo: 'Hugo Boss Eau de Toilette Spray [200 ml]'
 ---
 
 Ahora mismo tienes [Hugo Boss Eau de Toilette Spray [200 ml]](https://www.amazon.it/dp/B001O8MI2K/?tag=tolees00-21) a 48.0 EUR (original: 113.9 EUR) (57.86 %  de descuento) en el siguiente enlace!

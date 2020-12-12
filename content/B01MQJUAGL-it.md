@@ -3,6 +3,7 @@ layout: post
 title: 'Girmi TR02 Tritatutto  250 W  Plastic  B al 42.31 % de descuento'
 date: 2020-09-07 08:53:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lWp7re8TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lWp7re8TL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lWp7re8TL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23.4 EUR
 inStock: true
 prodname: 'Girmi TR02 Tritatutto  250 W  Plastic  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MQJUAGL/?tag=tolees00-21'
+descuento: '42.31'
+titulo: 'Girmi TR02 Tritatutto  250 W  Plastic  B'
 ---
 
 Está [Girmi TR02 Tritatutto  250 W  Plastic  Bianco](https://www.amazon.it/dp/B01MQJUAGL/?tag=tolees00-21) con 42.31 de descuento por 13.5 EUR (original: 23.4 EUR) en el siguiente enlace!

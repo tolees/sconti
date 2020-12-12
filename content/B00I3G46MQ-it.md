@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Herren Otw Raglan T-Shirt  Mehrfarb al 34.31 % de descuento'
 date: 2020-10-08 15:09:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tPAyvQ2CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tPAyvQ2CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tPAyvQ2CL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35.0 EUR
 inStock: true
 prodname: 'Vans Herren Otw Raglan T-Shirt  Mehrfarbig  WHITE-BLACK YB2   Small'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00I3G46MQ/?tag=tolees00-21'
+descuento: '34.31'
+titulo: 'Vans Herren Otw Raglan T-Shirt  Mehrfarb'
 ---
 
 Está [Vans Herren Otw Raglan T-Shirt  Mehrfarbig  WHITE-BLACK YB2   Small](https://www.amazon.it/dp/B00I3G46MQ/?tag=tolees00-21) con 34.31 de descuento por 22.99 EUR (original: 35.0 EUR) en el siguiente enlace!

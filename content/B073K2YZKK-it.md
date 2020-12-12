@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.08 % en Casio Orologio Analogico Quarzo Uomo con'
 date: 2020-08-22 11:33:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xQbLUGwcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xQbLUGwcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xQbLUGwcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 127.76 EUR
 inStock: true
 prodname: 'Casio Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox LTP-E140B-1AEF'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B073K2YZKK/?tag=tolees00-21'
+descuento: '53.08'
+titulo: 'Casio Orologio Analogico Quarzo Uomo con'
 ---
 
 Tienes [Casio Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox LTP-E140B-1AEF](https://www.amazon.it/dp/B073K2YZKK/?tag=tolees00-21) con un 53.08 % de descuento con precio de oferta de 59.95 EUR (original: 127.76 EUR) en el siguiente enlace!

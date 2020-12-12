@@ -3,6 +3,7 @@ layout: post
 title: 'Tennent s Super Birra - Pacco da 24 x 35 al 31.45 % de descuento'
 date: 2020-08-14 14:53:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YfbijpNzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YfbijpNzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YfbijpNzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.16 EUR
 inStock: true
 prodname: 'Tennent s Super Birra - Pacco da 24 x 355 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B086R9VVD5/?tag=tolees00-21'
+descuento: '31.45'
+titulo: 'Tennent s Super Birra - Pacco da 24 x 35'
 ---
 
 Está [Tennent s Super Birra - Pacco da 24 x 355 ml](https://www.amazon.it/dp/B086R9VVD5/?tag=tolees00-21) con 31.45 de descuento por 26.16 EUR (original: 38.16 EUR) en el siguiente enlace!

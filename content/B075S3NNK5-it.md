@@ -3,6 +3,7 @@ layout: post
 title: 'GORE WEAR C5 Giacca da ciclismo per uomo al 34.71 % de descuento'
 date: 2020-10-12 20:28:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Bm9RmNKvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Bm9RmNKvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Bm9RmNKvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 209.95 EUR
 inStock: true
 prodname: 'GORE WEAR C5 Giacca da ciclismo per uomo GORE-TEX  S  Nero/Rosso'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B075S3NNK5/?tag=tolees00-21'
+descuento: '34.71'
+titulo: 'GORE WEAR C5 Giacca da ciclismo per uomo'
 ---
 
 Ahora mismo tienes [GORE WEAR C5 Giacca da ciclismo per uomo GORE-TEX  S  Nero/Rosso](https://www.amazon.it/dp/B075S3NNK5/?tag=tolees00-21) a 137.08 EUR (original: 209.95 EUR) (34.71 %  de descuento) en el siguiente enlace!

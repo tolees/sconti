@@ -3,6 +3,7 @@ layout: post
 title: 'Hugo Boss Hugo Eau de Toilette  Uomo  75 al 59.28 % de descuento'
 date: 2020-10-12 07:41:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YtdPYA7UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YtdPYA7UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YtdPYA7UL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 58.32 EUR
 inStock: true
 prodname: 'Hugo Boss Hugo Eau de Toilette  Uomo  75 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00BIO10NS/?tag=tolees00-21'
+descuento: '59.28'
+titulo: 'Hugo Boss Hugo Eau de Toilette  Uomo  75'
 ---
 
 Está [Hugo Boss Hugo Eau de Toilette  Uomo  75 ml](https://www.amazon.it/dp/B00BIO10NS/?tag=tolees00-21) con 59.28 de descuento por 23.75 EUR (original: 58.32 EUR) en el siguiente enlace!

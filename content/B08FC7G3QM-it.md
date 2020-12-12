@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.03 % en LK Pellicola Protettiva per Xiaomi Mi 10'
 date: 2020-08-30 17:39:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EGtUN2rZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EGtUN2rZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EGtUN2rZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'LK Pellicola Protettiva per Xiaomi Mi 10 Lite 5G Vetro Temperato  [3-Pezzi] [Alta Trasparente][9H Durezza] Protezione Schermo Protettivo Pellicola per Xiaomi Mi 10 Lite 5G'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08FC7G3QM/?tag=tolees00-21'
+descuento: '25.03'
+titulo: 'LK Pellicola Protettiva per Xiaomi Mi 10'
 ---
 
 Tienes [LK Pellicola Protettiva per Xiaomi Mi 10 Lite 5G Vetro Temperato  [3-Pezzi] [Alta Trasparente][9H Durezza] Protezione Schermo Protettivo Pellicola per Xiaomi Mi 10 Lite 5G](https://www.amazon.it/dp/B08FC7G3QM/?tag=tolees00-21) con un 25.03 % de descuento con precio de oferta de 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!

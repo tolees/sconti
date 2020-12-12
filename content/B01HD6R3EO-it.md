@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Xa Pro 3D Gtx  Scarpe da Corsa U al 43.43 % de descuento'
 date: 2020-09-23 23:28:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T-RdeRjmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T-RdeRjmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T-RdeRjmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'Salomon Xa Pro 3D Gtx  Scarpe da Corsa Uomo  Nero  40 2/3 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01HD6R3EO/?tag=tolees00-21'
+descuento: '43.43'
+titulo: 'Salomon Xa Pro 3D Gtx  Scarpe da Corsa U'
 ---
 
 Está [Salomon Xa Pro 3D Gtx  Scarpe da Corsa Uomo  Nero  40 2/3 EU](https://www.amazon.it/dp/B01HD6R3EO/?tag=tolees00-21) con 43.43 de descuento por 90.49 EUR (original: 159.95 EUR) en el siguiente enlace!

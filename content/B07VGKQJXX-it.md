@@ -3,6 +3,7 @@ layout: post
 title: 'NAPAPIJRI Sishop T-Shirt  Grigio  Med Gr al 34.73 % de descuento'
 date: 2020-10-08 06:32:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41l2ZXVJIlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l2ZXVJIlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41l2ZXVJIlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.19 EUR
 inStock: true
 prodname: 'NAPAPIJRI Sishop T-Shirt  Grigio  Med Grey Mel 1601   Medium Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VGKQJXX/?tag=tolees00-21'
+descuento: '34.73'
+titulo: 'NAPAPIJRI Sishop T-Shirt  Grigio  Med Gr'
 ---
 
 Está [NAPAPIJRI Sishop T-Shirt  Grigio  Med Grey Mel 1601   Medium Uomo](https://www.amazon.it/dp/B07VGKQJXX/?tag=tolees00-21) con 34.73 de descuento por 13.83 EUR (original: 21.19 EUR) en el siguiente enlace!

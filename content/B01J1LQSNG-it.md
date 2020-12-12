@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Crocband Kids  Sandali con Cinturi al 63.53 % de descuento'
 date: 2020-10-08 19:49:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41R5Ns+kP2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R5Ns+kP2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41R5Ns+kP2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.9 EUR
 inStock: true
 prodname: 'Crocs Crocband Kids  Sandali con Cinturino alla Caviglia Unisex-Bambini  Volt Green/Smoke  20/21 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01J1LQSNG/?tag=tolees00-21'
+descuento: '63.53'
+titulo: 'Crocs Crocband Kids  Sandali con Cinturi'
 ---
 
 Ahora mismo tienes [Crocs Crocband Kids  Sandali con Cinturino alla Caviglia Unisex-Bambini  Volt Green/Smoke  20/21 EU](https://www.amazon.it/dp/B01J1LQSNG/?tag=tolees00-21) a 12.0 EUR (original: 32.9 EUR) (63.53 %  de descuento) en el siguiente enlace!

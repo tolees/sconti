@@ -3,6 +3,7 @@ layout: post
 title: 'Kellogg s Extra Cioccolato e Nocciole -  al 34.69 % de descuento'
 date: 2020-09-15 11:05:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IZCiYeHZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IZCiYeHZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IZCiYeHZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 3.2 EUR
 inStock: true
 prodname: 'Kellogg s Extra Cioccolato e Nocciole - 0.375 kg'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01DUX6P0C/?tag=tolees00-21'
+descuento: '34.69'
+titulo: 'Kellogg s Extra Cioccolato e Nocciole - '
 ---
 
 Está [Kellogg s Extra Cioccolato e Nocciole - 0.375 kg](https://www.amazon.it/dp/B01DUX6P0C/?tag=tolees00-21) con 34.69 de descuento por 2.09 EUR (original: 3.2 EUR) en el siguiente enlace!

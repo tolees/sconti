@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Lady Luck Felpa  Blu  Crew Femini al 50.00 % de descuento'
 date: 2020-08-20 15:28:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eRUVxWqBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eRUVxWqBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eRUVxWqBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Levi s Lady Luck Felpa  Blu  Crew Feminine Logo Marina 0004   Small Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TYHM67R/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'Levi s Lady Luck Felpa  Blu  Crew Femini'
 ---
 
 Ahora mismo tienes [Levi s Lady Luck Felpa  Blu  Crew Feminine Logo Marina 0004   Small Donna](https://www.amazon.it/dp/B07TYHM67R/?tag=tolees00-21) a 32.5 EUR (original: 65.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

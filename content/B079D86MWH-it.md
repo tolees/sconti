@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.57 % en Lysoform Detersivo Igienizzante per Buca'
 date: 2020-08-15 07:30:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XQZzUiV9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XQZzUiV9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XQZzUiV9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.24 EUR
 inStock: true
 prodname: 'Lysoform Detersivo Igienizzante per Bucato  Detersivo Classico 25 Lavaggi x3'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B079D86MWH/?tag=tolees00-21'
+descuento: '47.57'
+titulo: 'Lysoform Detersivo Igienizzante per Buca'
 ---
 
 Tienes [Lysoform Detersivo Igienizzante per Bucato  Detersivo Classico 25 Lavaggi x3](https://www.amazon.it/dp/B079D86MWH/?tag=tolees00-21) con un 47.57 % de descuento con precio de oferta de 7.99 EUR (original: 15.24 EUR) en el siguiente enlace!

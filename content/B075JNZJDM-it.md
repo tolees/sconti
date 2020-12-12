@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.01 % en United Colors of Benetton 6HEDUB0A2 Cint'
 date: 2020-09-15 18:17:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Bh5HBRjWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Bh5HBRjWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Bh5HBRjWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton 6HEDUB0A2 Cintura  Nero  Nero 901   95  Taglia produttore:M  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B075JNZJDM/?tag=tolees00-21'
+descuento: '65.01'
+titulo: 'United Colors of Benetton 6HEDUB0A2 Cint'
 ---
 
 Tienes [United Colors of Benetton 6HEDUB0A2 Cintura  Nero  Nero 901   95  Taglia produttore:M  Uomo](https://www.amazon.it/dp/B075JNZJDM/?tag=tolees00-21) con un 65.01 % de descuento con precio de oferta de 10.48 EUR (original: 29.95 EUR) en el siguiente enlace!

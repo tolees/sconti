@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.10 % en Elyco Wireless Controller per Nintendo S'
 date: 2020-08-08 23:49:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41haQ7GLIEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41haQ7GLIEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41haQ7GLIEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Elyco Wireless Controller per Nintendo Switch  Bluetooth Joycon Joystick Joypad Gamepad Interruttore Controller Sostituzione Compatibile con Nintendo Switch'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08CZ43WW9/?tag=tolees00-21'
+descuento: '29.10'
+titulo: 'Elyco Wireless Controller per Nintendo S'
 ---
 
 Tienes [Elyco Wireless Controller per Nintendo Switch  Bluetooth Joycon Joystick Joypad Gamepad Interruttore Controller Sostituzione Compatibile con Nintendo Switch](https://www.amazon.it/dp/B08CZ43WW9/?tag=tolees00-21) con un 29.10 % de descuento con precio de oferta de 38.99 EUR (original: 54.99 EUR) en el siguiente enlace!

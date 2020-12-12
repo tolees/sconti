@@ -3,6 +3,7 @@ layout: post
 title: 'eXtremeRate Cover Scocca Joycon Guscio C al 36.68 % de descuento'
 date: 2020-08-05 17:46:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41en2I4Z5EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41en2I4Z5EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41en2I4Z5EL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'eXtremeRate Cover Scocca Joycon Guscio Custodia Case DIY Ricambio per Nintendo Switch Joy-Con Controller Rapsodia Viola  con Pulsanti ABXY Tasti Direzionali-Joycon NON Incluso'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08B5T9D9P/?tag=tolees00-21'
+descuento: '36.68'
+titulo: 'eXtremeRate Cover Scocca Joycon Guscio C'
 ---
 
 Está [eXtremeRate Cover Scocca Joycon Guscio Custodia Case DIY Ricambio per Nintendo Switch Joy-Con Controller Rapsodia Viola  con Pulsanti ABXY Tasti Direzionali-Joycon NON Incluso](https://www.amazon.it/dp/B08B5T9D9P/?tag=tolees00-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Ex-BF Sherpa Trucker Giacca in Je al 78.16 % de descuento'
 date: 2020-09-04 17:02:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Go0iSNpKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Go0iSNpKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Go0iSNpKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140.0 EUR
 inStock: true
 prodname: 'Levi s Ex-BF Sherpa Trucker Giacca in Jeans  Nero  Forever Black 0015   Large Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07LFJVPTX/?tag=tolees00-21'
+descuento: '78.16'
+titulo: 'Levi s Ex-BF Sherpa Trucker Giacca in Je'
 ---
 
 Está [Levi s Ex-BF Sherpa Trucker Giacca in Jeans  Nero  Forever Black 0015   Large Donna](https://www.amazon.it/dp/B07LFJVPTX/?tag=tolees00-21) con 78.16 de descuento por 30.58 EUR (original: 140.0 EUR) en el siguiente enlace!

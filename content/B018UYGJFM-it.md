@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.29 % en Guess Orologio Analogico Quarzo Donna co'
 date: 2020-08-28 10:57:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jn2YGsFlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jn2YGsFlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jn2YGsFlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 189.0 EUR
 inStock: true
 prodname: 'Guess Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox W1009L1'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B018UYGJFM/?tag=tolees00-21'
+descuento: '55.29'
+titulo: 'Guess Orologio Analogico Quarzo Donna co'
 ---
 
 Tienes [Guess Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox W1009L1](https://www.amazon.it/dp/B018UYGJFM/?tag=tolees00-21) con un 55.29 % de descuento con precio de oferta de 84.5 EUR (original: 189.0 EUR) en el siguiente enlace!

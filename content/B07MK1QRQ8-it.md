@@ -3,6 +3,7 @@ layout: post
 title: 'NAPAPIJRI Avio Giacca  Rosso  Red Scarle al 72.51 % de descuento'
 date: 2020-10-10 17:42:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 399.0 EUR
 inStock: true
 prodname: 'NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21'
+descuento: '72.51'
+titulo: 'NAPAPIJRI Avio Giacca  Rosso  Red Scarle'
 ---
 
 Está [NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21) con 72.51 de descuento por 109.67 EUR (original: 399.0 EUR) en el siguiente enlace!

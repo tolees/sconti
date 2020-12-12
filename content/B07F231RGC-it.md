@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Classic 2 Eye  Scarpe da Barc al 49.69 % de descuento'
 date: 2020-09-29 22:57:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gcejGY7ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gcejGY7ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gcejGY7ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 145.0 EUR
 inStock: true
 prodname: 'Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone Brown Sahara  42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07F231RGC/?tag=tolees00-21'
+descuento: '49.69'
+titulo: 'Timberland Classic 2 Eye  Scarpe da Barc'
 ---
 
 Está [Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone Brown Sahara  42 EU](https://www.amazon.it/dp/B07F231RGC/?tag=tolees00-21) con 49.69 de descuento por 72.95 EUR (original: 145.0 EUR) en el siguiente enlace!

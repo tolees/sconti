@@ -3,6 +3,7 @@ layout: post
 title: 'Beggars Banquet Remastered  50Th Annyver al 26.52 % de descuento'
 date: 2020-10-12 20:29:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VAlyzc+9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VAlyzc+9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VAlyzc+9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 58.87 EUR
 inStock: true
 prodname: 'Beggars Banquet Remastered  50Th Annyversary Edt.Lp+12"+Flexy Disc '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07F7RSQMT/?tag=tolees00-21'
+descuento: '26.52'
+titulo: 'Beggars Banquet Remastered  50Th Annyver'
 ---
 
 Ahora mismo tienes [Beggars Banquet Remastered  50Th Annyversary Edt.Lp+12"+Flexy Disc ](https://www.amazon.it/dp/B07F7RSQMT/?tag=tolees00-21) a 43.26 EUR (original: 58.87 EUR) (26.52 %  de descuento) en el siguiente enlace!

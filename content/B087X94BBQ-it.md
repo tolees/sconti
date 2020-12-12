@@ -3,6 +3,7 @@ layout: post
 title: 'Hoco - 50 pezzi monouso formato per viso al 60.05 % de descuento'
 date: 2020-08-18 09:33:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51INUVka2LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51INUVka2LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51INUVka2LL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.49 EUR
 inStock: true
 prodname: 'Hoco - 50 pezzi monouso formato per viso libero  colore: blu'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B087X94BBQ/?tag=tolees00-21'
+descuento: '60.05'
+titulo: 'Hoco - 50 pezzi monouso formato per viso'
 ---
 
 Está [Hoco - 50 pezzi monouso formato per viso libero  colore: blu](https://www.amazon.it/dp/B087X94BBQ/?tag=tolees00-21) con 60.05 de descuento por 4.99 EUR (original: 12.49 EUR) en el siguiente enlace!

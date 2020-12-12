@@ -3,6 +3,7 @@ layout: post
 title: 'Coccolino - Ammorbidente Concentrato - A al 56.11 % de descuento'
 date: 2020-07-24 09:21:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fr37MoEEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fr37MoEEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fr37MoEEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 2.21 EUR
 inStock: true
 prodname: 'Coccolino - Ammorbidente Concentrato - Aria di Primavera - 750 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B002TF08TC/?tag=tolees00-21'
+descuento: '56.11'
+titulo: 'Coccolino - Ammorbidente Concentrato - A'
 ---
 
 Está [Coccolino - Ammorbidente Concentrato - Aria di Primavera - 750 ml](https://www.amazon.it/dp/B002TF08TC/?tag=tolees00-21) con 56.11 de descuento por 0.97 EUR (original: 2.21 EUR) en el siguiente enlace!

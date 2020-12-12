@@ -3,6 +3,7 @@ layout: post
 title: 'SmartDevil Hub USB 3.0 4 Porte 5Gbps con al 27.29 % de descuento'
 date: 2020-07-17 11:56:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31AkeKB1faL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AkeKB1faL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31AkeKB1faL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'SmartDevil Hub USB 3.0 4 Porte 5Gbps con Cavo USB 3.0 da 2M LED  Hub Multiporta USB Supporta Windows  Mac OS  Linux Compatibile con MacBook  PS4  Xbox 360 One One S ECC  Bianco '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07WTVDMC3/?tag=tolees00-21'
+descuento: '27.29'
+titulo: 'SmartDevil Hub USB 3.0 4 Porte 5Gbps con'
 ---
 
 Está [SmartDevil Hub USB 3.0 4 Porte 5Gbps con Cavo USB 3.0 da 2M LED  Hub Multiporta USB Supporta Windows  Mac OS  Linux Compatibile con MacBook  PS4  Xbox 360 One One S ECC  Bianco ](https://www.amazon.it/dp/B07WTVDMC3/?tag=tolees00-21) con 27.29 de descuento por 15.99 EUR (original: 21.99 EUR) en el siguiente enlace!

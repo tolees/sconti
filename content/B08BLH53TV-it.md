@@ -3,6 +3,7 @@ layout: post
 title: 'Smartphone Offerta del Giorno  Cellulari al 43.85 % de descuento'
 date: 2020-07-23 23:32:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uKNg9aybL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uKNg9aybL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uKNg9aybL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Smartphone Offerta del Giorno  Cellulari Offerte 4G Smartphone 6.2 Pollici 3 GB RAM 32 GB ROM - Dual SIM'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08BLH53TV/?tag=tolees00-21'
+descuento: '43.85'
+titulo: 'Smartphone Offerta del Giorno  Cellulari'
 ---
 
 Está [Smartphone Offerta del Giorno  Cellulari Offerte 4G Smartphone 6.2 Pollici 3 GB RAM 32 GB ROM - Dual SIM](https://www.amazon.it/dp/B08BLH53TV/?tag=tolees00-21) con 43.85 de descuento por 72.99 EUR (original: 129.99 EUR) en el siguiente enlace!

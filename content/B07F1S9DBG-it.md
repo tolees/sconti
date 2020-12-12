@@ -3,6 +3,7 @@ layout: post
 title: 'EVERGREENWEB Kit Rete e Materasso Singol al 70.00 % de descuento'
 date: 2020-08-05 09:41:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/514Z+215kcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514Z+215kcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514Z+215kcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 530.0 EUR
 inStock: true
 prodname: 'EVERGREENWEB Kit Rete e Materasso Singolo 80x190 Alto 20 cm con Cuscino Memory Foam Gratis  Set Letto Materasso Effetto MASSAGGIANTE e Rete Singola a Doghe in Legno Modello Apple Ortopedica Offerta'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07F1S9DBG/?tag=tolees00-21'
+descuento: '70.00'
+titulo: 'EVERGREENWEB Kit Rete e Materasso Singol'
 ---
 
 Ahora mismo tienes [EVERGREENWEB Kit Rete e Materasso Singolo 80x190 Alto 20 cm con Cuscino Memory Foam Gratis  Set Letto Materasso Effetto MASSAGGIANTE e Rete Singola a Doghe in Legno Modello Apple Ortopedica Offerta](https://www.amazon.it/dp/B07F1S9DBG/?tag=tolees00-21) a 158.98 EUR (original: 530.0 EUR) (70.00 %  de descuento) en el siguiente enlace!

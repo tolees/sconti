@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch MSM66155 Mixer a Immersione  Frull al 44.94 % de descuento'
 date: 2020-08-26 07:53:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ORV-I20bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ORV-I20bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ORV-I20bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Bosch MSM66155 Mixer a Immersione  Frullatore con 4 Accessori  600 W  Plastica  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00G9W4RSO/?tag=tolees00-21'
+descuento: '44.94'
+titulo: 'Bosch MSM66155 Mixer a Immersione  Frull'
 ---
 
 Está [Bosch MSM66155 Mixer a Immersione  Frullatore con 4 Accessori  600 W  Plastica  Bianco](https://www.amazon.it/dp/B00G9W4RSO/?tag=tolees00-21) con 44.94 de descuento por 43.99 EUR (original: 79.9 EUR) en el siguiente enlace!

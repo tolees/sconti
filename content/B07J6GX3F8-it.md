@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.52 % en Alex Perry Regalo Collana Donna Argento '
 date: 2020-07-22 07:15:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51O2Ol2KJRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51O2Ol2KJRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51O2Ol2KJRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Alex Perry Regalo Collana Donna Argento Punto Luce Collana Idee Regalo per Regali Originali Gioielli Donna Offerta Regalo Mamma maestra Fidanzata Regali Divertenti Compleanno'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07J6GX3F8/?tag=tolees00-21'
+descuento: '52.52'
+titulo: 'Alex Perry Regalo Collana Donna Argento '
 ---
 
 Tienes [Alex Perry Regalo Collana Donna Argento Punto Luce Collana Idee Regalo per Regali Originali Gioielli Donna Offerta Regalo Mamma maestra Fidanzata Regali Divertenti Compleanno](https://www.amazon.it/dp/B07J6GX3F8/?tag=tolees00-21) con un 52.52 % de descuento con precio de oferta de 12.34 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Fossil Orologio Cronografo Quarzo Uomo c al 51.89 % de descuento'
 date: 2020-10-10 09:55:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NXdtB3KWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NXdtB3KWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NXdtB3KWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4778'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00B4VRFM0/?tag=tolees00-21'
+descuento: '51.89'
+titulo: 'Fossil Orologio Cronografo Quarzo Uomo c'
 ---
 
 Está [Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4778](https://www.amazon.it/dp/B00B4VRFM0/?tag=tolees00-21) con 51.89 de descuento por 95.74 EUR (original: 199.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.31 % en Marchio Amazon - Goodthreads  giacca ade'
 date: 2020-09-29 17:50:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/4148sZRBc7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4148sZRBc7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4148sZRBc7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 62.99 EUR
 inStock: true
 prodname: 'Marchio Amazon - Goodthreads  giacca aderente in twill elasticizzato  da uomo  Cruz V2 Fresh Foam  US XL Tall  EU XL - XXL '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07J2HVSWK/?tag=tolees00-21'
+descuento: '49.31'
+titulo: 'Marchio Amazon - Goodthreads  giacca ade'
 ---
 
 Tienes [Marchio Amazon - Goodthreads  giacca aderente in twill elasticizzato  da uomo  Cruz V2 Fresh Foam  US XL Tall  EU XL - XXL ](https://www.amazon.it/dp/B07J2HVSWK/?tag=tolees00-21) con un 49.31 % de descuento con precio de oferta de 31.93 EUR (original: 62.99 EUR) en el siguiente enlace!

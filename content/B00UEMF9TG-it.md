@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.02 % en Philips Lighting Robin Lampada da Parete'
 date: 2020-10-10 14:02:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eXrG+STqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eXrG+STqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eXrG+STqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 62.99 EUR
 inStock: true
 prodname: 'Philips Lighting Robin Lampada da Parete LED Up con Sensore di movimento per Esterni Giardino  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00UEMF9TG/?tag=tolees00-21'
+descuento: '46.02'
+titulo: 'Philips Lighting Robin Lampada da Parete'
 ---
 
 Tienes [Philips Lighting Robin Lampada da Parete LED Up con Sensore di movimento per Esterni Giardino  Nero](https://www.amazon.it/dp/B00UEMF9TG/?tag=tolees00-21) con un 46.02 % de descuento con precio de oferta de 34.0 EUR (original: 62.99 EUR) en el siguiente enlace!

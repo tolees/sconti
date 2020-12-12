@@ -3,6 +3,7 @@ layout: post
 title: 'D-Link DUB-E100 Adattatore di Rete con P al 28.19 % de descuento'
 date: 2020-09-28 06:33:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FEIOWoC5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FEIOWoC5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FEIOWoC5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.89 EUR
 inStock: true
 prodname: 'D-Link DUB-E100 Adattatore di Rete con Porta USB 2.0 e Porta LAN 10/100 Mbps  Connettore RJ45  Fast Ethernet  Nero e Antracite'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0000ATAD5/?tag=tolees00-21'
+descuento: '28.19'
+titulo: 'D-Link DUB-E100 Adattatore di Rete con P'
 ---
 
 Ahora mismo tienes [D-Link DUB-E100 Adattatore di Rete con Porta USB 2.0 e Porta LAN 10/100 Mbps  Connettore RJ45  Fast Ethernet  Nero e Antracite](https://www.amazon.it/dp/B0000ATAD5/?tag=tolees00-21) a 22.9 EUR (original: 31.89 EUR) (28.19 %  de descuento) en el siguiente enlace!

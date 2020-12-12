@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.44 % en Argan Oil - Crema Styling Anticrespo - T'
 date: 2020-08-10 06:43:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/418hLD6hCnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418hLD6hCnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418hLD6hCnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Argan Oil - Crema Styling Anticrespo - Trattamento Balsamo Professionale per Capelli Secchi e Crespi con Olio di Argan - Per Pieghe Lisce e Ricce - 125 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07D2CKYPF/?tag=tolees00-21'
+descuento: '28.44'
+titulo: 'Argan Oil - Crema Styling Anticrespo - T'
 ---
 
 Tienes [Argan Oil - Crema Styling Anticrespo - Trattamento Balsamo Professionale per Capelli Secchi e Crespi con Olio di Argan - Per Pieghe Lisce e Ricce - 125 ml](https://www.amazon.it/dp/B07D2CKYPF/?tag=tolees00-21) con un 28.44 % de descuento con precio de oferta de 13.59 EUR (original: 18.99 EUR) en el siguiente enlace!

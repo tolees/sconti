@@ -3,6 +3,7 @@ layout: post
 title: 'Tristar Fr-6996 Crispy Fryer XXL  1500 W al 45.84 % de descuento'
 date: 2020-10-11 16:13:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41b5zoFIRjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b5zoFIRjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41b5zoFIRjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Tristar Fr-6996 Crispy Fryer XXL  1500 W  5.2 Litri  18/8 Stainless Steel  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0741DWT2H/?tag=tolees00-21'
+descuento: '45.84'
+titulo: 'Tristar Fr-6996 Crispy Fryer XXL  1500 W'
 ---
 
 Ahora mismo tienes [Tristar Fr-6996 Crispy Fryer XXL  1500 W  5.2 Litri  18/8 Stainless Steel  Nero](https://www.amazon.it/dp/B0741DWT2H/?tag=tolees00-21) a 64.99 EUR (original: 119.99 EUR) (45.84 %  de descuento) en el siguiente enlace!

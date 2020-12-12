@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.99 % en Skechers Men s STATUS 2.0- PEXTON Traine'
 date: 2020-10-10 06:29:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41icFjJxzEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41icFjJxzEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41icFjJxzEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Skechers Men s STATUS 2.0- PEXTON Trainers  Blue  Navy NVY   9.5  44 EU '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07HP9F5XQ/?tag=tolees00-21'
+descuento: '29.99'
+titulo: 'Skechers Men s STATUS 2.0- PEXTON Traine'
 ---
 
 Tienes [Skechers Men s STATUS 2.0- PEXTON Trainers  Blue  Navy NVY   9.5  44 EU ](https://www.amazon.it/dp/B07HP9F5XQ/?tag=tolees00-21) con un 29.99 % de descuento con precio de oferta de 41.97 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Tescoma 695432 Uno Vino Collare Salvagoc al 56.33 % de descuento'
 date: 2020-10-06 15:34:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31t52hcwgFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31t52hcwgFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31t52hcwgFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 6.32 EUR
 inStock: true
 prodname: 'Tescoma 695432 Uno Vino Collare Salvagoccia'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00P2LBTTS/?tag=tolees00-21'
+descuento: '56.33'
+titulo: 'Tescoma 695432 Uno Vino Collare Salvagoc'
 ---
 
 Ahora mismo tienes [Tescoma 695432 Uno Vino Collare Salvagoccia](https://www.amazon.it/dp/B00P2LBTTS/?tag=tolees00-21) a 2.76 EUR (original: 6.32 EUR) (56.33 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Multimetro Digitale Classico  Tacklife D al 36.68 % de descuento'
 date: 2020-07-29 09:50:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51009D76R-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51009D76R-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51009D76R-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Multimetro Digitale Classico  Tacklife DM02A Multi Tester con Rilevamento di Voltaggio Senza Contatto  Display LCD Retroilluminato  Test per Tensione  Corrente  Resistenza e Continuità  Nero '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B071HJR5BG/?tag=tolees00-21'
+descuento: '36.68'
+titulo: 'Multimetro Digitale Classico  Tacklife D'
 ---
 
 Está [Multimetro Digitale Classico  Tacklife DM02A Multi Tester con Rilevamento di Voltaggio Senza Contatto  Display LCD Retroilluminato  Test per Tensione  Corrente  Resistenza e Continuità  Nero ](https://www.amazon.it/dp/B071HJR5BG/?tag=tolees00-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

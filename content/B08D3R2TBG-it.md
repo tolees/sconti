@@ -3,6 +3,7 @@ layout: post
 title: 'Scrambler Ducati Monopattino elettrico C al 45.49 % de descuento'
 date: 2020-10-07 19:19:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qWyagDmdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qWyagDmdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qWyagDmdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 899.0 EUR
 inStock: true
 prodname: 'Scrambler Ducati Monopattino elettrico Cross-E  nero e giallo  Taglia universale'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08D3R2TBG/?tag=tolees00-21'
+descuento: '45.49'
+titulo: 'Scrambler Ducati Monopattino elettrico C'
 ---
 
 Está [Scrambler Ducati Monopattino elettrico Cross-E  nero e giallo  Taglia universale](https://www.amazon.it/dp/B08D3R2TBG/?tag=tolees00-21) con 45.49 de descuento por 490.0 EUR (original: 899.0 EUR) en el siguiente enlace!

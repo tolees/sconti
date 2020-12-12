@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.45 % en Fujifilm Instax Square SQ6 Fotocamera Is'
 date: 2020-08-03 14:51:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51M8RUZLkkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51M8RUZLkkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51M8RUZLkkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139.0 EUR
 inStock: true
 prodname: 'Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto Formato Quadrato 62 x 62 mm  Graphite Grey'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07CV5WP9Q/?tag=tolees00-21'
+descuento: '42.45'
+titulo: 'Fujifilm Instax Square SQ6 Fotocamera Is'
 ---
 
 Tienes [Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto Formato Quadrato 62 x 62 mm  Graphite Grey](https://www.amazon.it/dp/B07CV5WP9Q/?tag=tolees00-21) con un 42.45 % de descuento con precio de oferta de 79.99 EUR (original: 139.0 EUR) en el siguiente enlace!

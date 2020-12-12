@@ -3,6 +3,7 @@ layout: post
 title: 'SIMREX X300C Mini Drone con Fotocamera W al 41.42 % de descuento'
 date: 2020-08-27 16:46:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/418s75rZ9rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418s75rZ9rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418s75rZ9rL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 68.26 EUR
 inStock: true
 prodname: 'SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV Pieghevole Quadricottero RC Rtf 4CH 2 4 GHz Telecomando Senza Testa [Altitude Hold] Super Easy Fly per Allenamento - Arancio'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21'
+descuento: '41.42'
+titulo: 'SIMREX X300C Mini Drone con Fotocamera W'
 ---
 
 Está [SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV Pieghevole Quadricottero RC Rtf 4CH 2 4 GHz Telecomando Senza Testa [Altitude Hold] Super Easy Fly per Allenamento - Arancio](https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21) con 41.42 de descuento por 39.99 EUR (original: 68.26 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'SEAC Driver  Computer da Polso per Immer al 65.58 % de descuento'
 date: 2020-09-07 07:06:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i3am7xWcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i3am7xWcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i3am7xWcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'SEAC Driver  Computer da Polso per Immersioni in Apnea con Download Dati Unisex Adulto  Nero  Standard'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07J178KBH/?tag=tolees00-21'
+descuento: '65.58'
+titulo: 'SEAC Driver  Computer da Polso per Immer'
 ---
 
 Ahora mismo tienes [SEAC Driver  Computer da Polso per Immersioni in Apnea con Download Dati Unisex Adulto  Nero  Standard](https://www.amazon.it/dp/B07J178KBH/?tag=tolees00-21) a 68.49 EUR (original: 199.0 EUR) (65.58 %  de descuento) en el siguiente enlace!

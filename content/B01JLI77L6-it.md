@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.00 % en Tommy Hilfiger - Orologio da donna  Impe'
 date: 2020-09-01 16:43:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AX0QMBfJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AX0QMBfJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AX0QMBfJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'Tommy Hilfiger - Orologio da donna  Impermeabile fino a 3 atm  30 metri  - 1781742'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01JLI77L6/?tag=tolees00-21'
+descuento: '70.00'
+titulo: 'Tommy Hilfiger - Orologio da donna  Impe'
 ---
 
 Tienes [Tommy Hilfiger - Orologio da donna  Impermeabile fino a 3 atm  30 metri  - 1781742](https://www.amazon.it/dp/B01JLI77L6/?tag=tolees00-21) con un 70.00 % de descuento con precio de oferta de 59.7 EUR (original: 199.0 EUR) en el siguiente enlace!

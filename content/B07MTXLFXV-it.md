@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech G432 Cuffie Gaming Cablate  Aud al 26.83 % de descuento'
 date: 2020-09-06 11:21:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uAh7q0AlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uAh7q0AlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uAh7q0AlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 81.99 EUR
 inStock: true
 prodname: 'Logitech G432 Cuffie Gaming Cablate  Audio Surround 7.1  Cuffie DTS: X 2.0  Driver Audio 50 mm  Jack Audio USB 3.5 mm  Microfono Flip-to-Mute  Leggere  PC/Mac/Xbox One/PS4/Nintendo Switch  Nero/Blu'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MTXLFXV/?tag=tolees00-21'
+descuento: '26.83'
+titulo: 'Logitech G432 Cuffie Gaming Cablate  Aud'
 ---
 
 Está [Logitech G432 Cuffie Gaming Cablate  Audio Surround 7.1  Cuffie DTS: X 2.0  Driver Audio 50 mm  Jack Audio USB 3.5 mm  Microfono Flip-to-Mute  Leggere  PC/Mac/Xbox One/PS4/Nintendo Switch  Nero/Blu](https://www.amazon.it/dp/B07MTXLFXV/?tag=tolees00-21) con 26.83 de descuento por 59.99 EUR (original: 81.99 EUR) en el siguiente enlace!

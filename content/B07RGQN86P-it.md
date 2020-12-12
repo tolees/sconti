@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.42 % en Tommy Hilfiger Logo Trim Quilted Jct W G'
 date: 2020-07-24 10:18:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41v8dSIp3QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v8dSIp3QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41v8dSIp3QL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.0 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Logo Trim Quilted Jct W Giacca  Verde  Green Mrv   36  Taglia Produttore: XX-Small  Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RGQN86P/?tag=tolees00-21'
+descuento: '80.42'
+titulo: 'Tommy Hilfiger Logo Trim Quilted Jct W G'
 ---
 
 Tienes [Tommy Hilfiger Logo Trim Quilted Jct W Giacca  Verde  Green Mrv   36  Taglia Produttore: XX-Small  Donna](https://www.amazon.it/dp/B07RGQN86P/?tag=tolees00-21) con un 80.42 % de descuento con precio de oferta de 31.14 EUR (original: 159.0 EUR) en el siguiente enlace!

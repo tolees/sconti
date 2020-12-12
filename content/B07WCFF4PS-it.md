@@ -3,6 +3,7 @@ layout: post
 title: 'Az Ricerca Dentifricio Pro-Expert Preven al 63.69 % de descuento'
 date: 2020-10-07 15:23:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JwcjpVB3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JwcjpVB3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JwcjpVB3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'Az Ricerca Dentifricio Pro-Expert Prevenzione Superiore 3 x 75ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07WCFF4PS/?tag=tolees00-21'
+descuento: '63.69'
+titulo: 'Az Ricerca Dentifricio Pro-Expert Preven'
 ---
 
 Ahora mismo tienes [Az Ricerca Dentifricio Pro-Expert Prevenzione Superiore 3 x 75ml](https://www.amazon.it/dp/B07WCFF4PS/?tag=tolees00-21) a 3.99 EUR (original: 10.99 EUR) (63.69 %  de descuento) en el siguiente enlace!

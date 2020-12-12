@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.39 % en L Oréal Paris Unlimited Mascara Allungan'
 date: 2020-10-02 15:24:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/318Uey7xdjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318Uey7xdjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318Uey7xdjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.82 EUR
 inStock: true
 prodname: 'L Oréal Paris Unlimited Mascara Allungante  Scovolino Pieghevole Risultato fino a 24 Ore  Effetto Lunga Durata  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07DSW4LN1/?tag=tolees00-21'
+descuento: '52.39'
+titulo: 'L Oréal Paris Unlimited Mascara Allungan'
 ---
 
 Tienes [L Oréal Paris Unlimited Mascara Allungante  Scovolino Pieghevole Risultato fino a 24 Ore  Effetto Lunga Durata  Nero](https://www.amazon.it/dp/B07DSW4LN1/?tag=tolees00-21) con un 52.39 % de descuento con precio de oferta de 6.58 EUR (original: 13.82 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D LEELU  E  Scarpe da Ginnastica Ba al 84.82 % de descuento'
 date: 2020-09-02 15:01:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rQSBIY6GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rQSBIY6GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rQSBIY6GL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 115.0 EUR
 inStock: true
 prodname: 'Geox D LEELU  E  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   35 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SWV18FS/?tag=tolees00-21'
+descuento: '84.82'
+titulo: 'Geox D LEELU  E  Scarpe da Ginnastica Ba'
 ---
 
 Está [Geox D LEELU  E  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   35 EU](https://www.amazon.it/dp/B07SWV18FS/?tag=tolees00-21) con 84.82 de descuento por 17.46 EUR (original: 115.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung VC05K51F0VP Aspirapolvere a Trai al 34.75 % de descuento'
 date: 2020-09-04 07:07:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pZGK4hGoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pZGK4hGoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pZGK4hGoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 259.0 EUR
 inStock: true
 prodname: 'Samsung VC05K51F0VP Aspirapolvere a Traino Senza Sacco Cyclone Force VC5100  3 Spazzole  170 W  Porpora'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B079NVDQXS/?tag=tolees00-21'
+descuento: '34.75'
+titulo: 'Samsung VC05K51F0VP Aspirapolvere a Trai'
 ---
 
 Está [Samsung VC05K51F0VP Aspirapolvere a Traino Senza Sacco Cyclone Force VC5100  3 Spazzole  170 W  Porpora](https://www.amazon.it/dp/B079NVDQXS/?tag=tolees00-21) con 34.75 de descuento por 169.0 EUR (original: 259.0 EUR) en el siguiente enlace!

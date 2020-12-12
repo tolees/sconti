@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.33 % en Imetec Dolcevita HB2 Frullatore a Immers'
 date: 2020-08-19 12:44:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31uS1VrczhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uS1VrczhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31uS1VrczhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.9 EUR
 inStock: true
 prodname: 'Imetec Dolcevita HB2 Frullatore a Immersione  Lame in Acciaio Inox  Funzionamento a Impulsi  170 W'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0050IHCT4/?tag=tolees00-21'
+descuento: '42.33'
+titulo: 'Imetec Dolcevita HB2 Frullatore a Immers'
 ---
 
 Tienes [Imetec Dolcevita HB2 Frullatore a Immersione  Lame in Acciaio Inox  Funzionamento a Impulsi  170 W](https://www.amazon.it/dp/B0050IHCT4/?tag=tolees00-21) con un 42.33 % de descuento con precio de oferta de 10.9 EUR (original: 18.9 EUR) en el siguiente enlace!

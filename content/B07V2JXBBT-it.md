@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.85 % en Lacoste L1264 Polo  Vite Cinese  S Uomo'
 date: 2020-08-08 15:04:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Uv-4QxTuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Uv-4QxTuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Uv-4QxTuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95.0 EUR
 inStock: true
 prodname: 'Lacoste L1264 Polo  Vite Cinese  S Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07V2JXBBT/?tag=tolees00-21'
+descuento: '36.85'
+titulo: 'Lacoste L1264 Polo  Vite Cinese  S Uomo'
 ---
 
 Tienes [Lacoste L1264 Polo  Vite Cinese  S Uomo](https://www.amazon.it/dp/B07V2JXBBT/?tag=tolees00-21) con un 36.85 % de descuento con precio de oferta de 59.99 EUR (original: 95.0 EUR) en el siguiente enlace!

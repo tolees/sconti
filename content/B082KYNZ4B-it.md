@@ -3,6 +3,7 @@ layout: post
 title: 'KOLLIEE Aromaterapia Oli Essenziali Puri al 35.50 % de descuento'
 date: 2020-08-13 18:35:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XnwTDljDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XnwTDljDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XnwTDljDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'KOLLIEE Aromaterapia Oli Essenziali Puri Bio Oli Essenziali Per Diffusori Naturali Lavanda  Menta piperita  Limone  Arancia Dolce  Gelsomino Orchidea Rosmarino Eucalipto'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B082KYNZ4B/?tag=tolees00-21'
+descuento: '35.50'
+titulo: 'KOLLIEE Aromaterapia Oli Essenziali Puri'
 ---
 
 Ahora mismo tienes [KOLLIEE Aromaterapia Oli Essenziali Puri Bio Oli Essenziali Per Diffusori Naturali Lavanda  Menta piperita  Limone  Arancia Dolce  Gelsomino Orchidea Rosmarino Eucalipto](https://www.amazon.it/dp/B082KYNZ4B/?tag=tolees00-21) a 19.99 EUR (original: 30.99 EUR) (35.50 %  de descuento) en el siguiente enlace!

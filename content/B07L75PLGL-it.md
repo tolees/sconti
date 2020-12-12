@@ -3,6 +3,7 @@ layout: post
 title: 'GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubin al 25.01 % de descuento'
 date: 2020-08-27 16:44:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31exMw7z+HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31exMw7z+HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31exMw7z+HL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.67 EUR
 inStock: true
 prodname: 'GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina Nero con Beccuccio Flessibile  Miscelatore Monocomando per Cucina  G3/8 Pollici   Cromo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07L75PLGL/?tag=tolees00-21'
+descuento: '25.01'
+titulo: 'GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubin'
 ---
 
 Está [GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina Nero con Beccuccio Flessibile  Miscelatore Monocomando per Cucina  G3/8 Pollici   Cromo](https://www.amazon.it/dp/B07L75PLGL/?tag=tolees00-21) con 25.01 de descuento por 29.75 EUR (original: 39.67 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Telecomando sostitutivo per TV TELEFUNKE al 32.24 % de descuento'
 date: 2020-09-16 16:49:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FrMm7MKrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FrMm7MKrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FrMm7MKrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Telecomando sostitutivo per TV TELEFUNKEN di One For All – Funziona con TUTTI i televisori Telefunken – Il telecomando sostitutivo ideale - nero -URC1918'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B074QQZ9JV/?tag=tolees00-21'
+descuento: '32.24'
+titulo: 'Telecomando sostitutivo per TV TELEFUNKE'
 ---
 
 Ahora mismo tienes [Telecomando sostitutivo per TV TELEFUNKEN di One For All – Funziona con TUTTI i televisori Telefunken – Il telecomando sostitutivo ideale - nero -URC1918](https://www.amazon.it/dp/B074QQZ9JV/?tag=tolees00-21) a 14.9 EUR (original: 21.99 EUR) (32.24 %  de descuento) en el siguiente enlace!

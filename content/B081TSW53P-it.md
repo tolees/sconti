@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Track SST  Giacca Donna  Black/Wh al 44.80 % de descuento'
 date: 2020-09-07 08:35:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41N0v-Vv+GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41N0v-Vv+GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41N0v-Vv+GL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas Track SST  Giacca Donna  Black/White  40'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B081TSW53P/?tag=tolees00-21'
+descuento: '44.80'
+titulo: 'adidas Track SST  Giacca Donna  Black/Wh'
 ---
 
 Ahora mismo tienes [adidas Track SST  Giacca Donna  Black/White  40](https://www.amazon.it/dp/B081TSW53P/?tag=tolees00-21) a 33.09 EUR (original: 59.95 EUR) (44.80 %  de descuento) en el siguiente enlace!

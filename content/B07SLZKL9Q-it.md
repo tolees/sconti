@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Twist  Sandali con Chiusura a  al 35.63 % de descuento'
 date: 2020-08-23 12:03:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31J2IleEK7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31J2IleEK7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31J2IleEK7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.0 EUR
 inStock: true
 prodname: 'Havaianas Twist  Sandali con Chiusura a T Donna  Beige  Sand Grey 0154   33/34 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SLZKL9Q/?tag=tolees00-21'
+descuento: '35.63'
+titulo: 'Havaianas Twist  Sandali con Chiusura a '
 ---
 
 Está [Havaianas Twist  Sandali con Chiusura a T Donna  Beige  Sand Grey 0154   33/34 EU](https://www.amazon.it/dp/B07SLZKL9Q/?tag=tolees00-21) con 35.63 de descuento por 15.45 EUR (original: 24.0 EUR) en el siguiente enlace!

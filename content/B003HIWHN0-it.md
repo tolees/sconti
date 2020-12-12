@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.56 % en SanDisk Scheda di Memoria MicroSDHC 32 G'
 date: 2020-09-26 09:07:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O7JRJmMHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O7JRJmMHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O7JRJmMHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'SanDisk Scheda di Memoria MicroSDHC 32 GB Classe 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B003HIWHN0/?tag=tolees00-21'
+descuento: '63.56'
+titulo: 'SanDisk Scheda di Memoria MicroSDHC 32 G'
 ---
 
 Tienes [SanDisk Scheda di Memoria MicroSDHC 32 GB Classe 4](https://www.amazon.it/dp/B003HIWHN0/?tag=tolees00-21) con un 63.56 % de descuento con precio de oferta de 6.92 EUR (original: 18.99 EUR) en el siguiente enlace!

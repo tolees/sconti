@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.30 % en PUMA Carina L  Scarpe da Ginnastica Donn'
 date: 2020-08-25 13:31:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ogu1IOrxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ogu1IOrxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ogu1IOrxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black White White  39 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07S8PPNMT/?tag=tolees00-21'
+descuento: '43.30'
+titulo: 'PUMA Carina L  Scarpe da Ginnastica Donn'
 ---
 
 Tienes [PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black White White  39 EU](https://www.amazon.it/dp/B07S8PPNMT/?tag=tolees00-21) con un 43.30 % de descuento con precio de oferta de 33.99 EUR (original: 59.95 EUR) en el siguiente enlace!

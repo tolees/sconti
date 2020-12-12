@@ -3,6 +3,7 @@ layout: post
 title: 'Revlon ColorStay  colore per sopraccigli al 25.22 % de descuento'
 date: 2020-10-07 09:03:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XXcQhPLwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XXcQhPLwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XXcQhPLwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.69 EUR
 inStock: true
 prodname: 'Revlon ColorStay  colore per sopracciglia'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B006OZF4KG/?tag=tolees00-21'
+descuento: '25.22'
+titulo: 'Revlon ColorStay  colore per sopraccigli'
 ---
 
 Está [Revlon ColorStay  colore per sopracciglia](https://www.amazon.it/dp/B006OZF4KG/?tag=tolees00-21) con 25.22 de descuento por 9.49 EUR (original: 12.69 EUR) en el siguiente enlace!

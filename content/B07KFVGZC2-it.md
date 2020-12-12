@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en adidas Grand Court  Scarpe Sportive Mens'
 date: 2020-09-15 08:48:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pmQl+5S2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pmQl+5S2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pmQl+5S2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas Grand Court  Scarpe Sportive Mens  Bianco  Cloud White/Core Black/Cloud White   40 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KFVGZC2/?tag=tolees00-21'
+descuento: '40.00'
+titulo: 'adidas Grand Court  Scarpe Sportive Mens'
 ---
 
 Tienes [adidas Grand Court  Scarpe Sportive Mens  Bianco  Cloud White/Core Black/Cloud White   40 EU](https://www.amazon.it/dp/B07KFVGZC2/?tag=tolees00-21) con un 40.00 % de descuento con precio de oferta de 41.97 EUR (original: 69.95 EUR) en el siguiente enlace!

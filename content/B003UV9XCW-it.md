@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.33 % en De Longhi HVY1020.O Verticale Young Term'
 date: 2020-09-26 09:33:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41N1-IxHQBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41N1-IxHQBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41N1-IxHQBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30.0 EUR
 inStock: true
 prodname: 'De Longhi HVY1020.O Verticale Young Termoventilatore Compatto  2000 W  Grigio/Arancio'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B003UV9XCW/?tag=tolees00-21'
+descuento: '35.33'
+titulo: 'De Longhi HVY1020.O Verticale Young Term'
 ---
 
 Tienes [De Longhi HVY1020.O Verticale Young Termoventilatore Compatto  2000 W  Grigio/Arancio](https://www.amazon.it/dp/B003UV9XCW/?tag=tolees00-21) con un 35.33 % de descuento con precio de oferta de 19.4 EUR (original: 30.0 EUR) en el siguiente enlace!

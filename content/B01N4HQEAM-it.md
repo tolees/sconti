@@ -3,6 +3,7 @@ layout: post
 title: 'Multicentrum Uomo Integratore - 30 Compr al 34.91 % de descuento'
 date: 2020-09-18 10:03:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+X0g7hkvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+X0g7hkvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+X0g7hkvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.9 EUR
 inStock: true
 prodname: 'Multicentrum Uomo Integratore - 30 Compresse'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21'
+descuento: '34.91'
+titulo: 'Multicentrum Uomo Integratore - 30 Compr'
 ---
 
 Ahora mismo tienes [Multicentrum Uomo Integratore - 30 Compresse](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21) a 10.35 EUR (original: 15.9 EUR) (34.91 %  de descuento) en el siguiente enlace!

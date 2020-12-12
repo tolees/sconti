@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.95 % en Havaianas Logo Metallic  Infradito Donna'
 date: 2020-09-01 12:08:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JPq8etomL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JPq8etomL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JPq8etomL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.0 EUR
 inStock: true
 prodname: 'Havaianas Logo Metallic  Infradito Donna Bianco  White 0001   Taglia Produttore 39/40'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06WLL8H1T/?tag=tolees00-21'
+descuento: '40.95'
+titulo: 'Havaianas Logo Metallic  Infradito Donna'
 ---
 
 Tienes [Havaianas Logo Metallic  Infradito Donna Bianco  White 0001   Taglia Produttore 39/40](https://www.amazon.it/dp/B06WLL8H1T/?tag=tolees00-21) con un 40.95 % de descuento con precio de oferta de 12.99 EUR (original: 22.0 EUR) en el siguiente enlace!

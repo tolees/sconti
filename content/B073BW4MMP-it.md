@@ -3,6 +3,7 @@ layout: post
 title: 'Saucony Jazz Original Vintage  Sneakers  al 37.38 % de descuento'
 date: 2020-08-19 05:43:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eCUSVYfPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eCUSVYfPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eCUSVYfPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 82.14 EUR
 inStock: true
 prodname: 'Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Blue Navy Silver 4  41 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B073BW4MMP/?tag=tolees00-21'
+descuento: '37.38'
+titulo: 'Saucony Jazz Original Vintage  Sneakers '
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Blue Navy Silver 4  41 EU](https://www.amazon.it/dp/B073BW4MMP/?tag=tolees00-21) a 51.44 EUR (original: 82.14 EUR) (37.38 %  de descuento) en el siguiente enlace!

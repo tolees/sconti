@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U EOLO B  Scarpe da Ginnastica Bass al 66.11 % de descuento'
 date: 2020-09-14 12:33:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VVXb7KizL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VVXb7KizL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VVXb7KizL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Geox U EOLO B  Scarpe da Ginnastica Basse Uomo  Grigio  White/Lt Grey C1236   44 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SSJW3GG/?tag=tolees00-21'
+descuento: '66.11'
+titulo: 'Geox U EOLO B  Scarpe da Ginnastica Bass'
 ---
 
 Está [Geox U EOLO B  Scarpe da Ginnastica Basse Uomo  Grigio  White/Lt Grey C1236   44 EU](https://www.amazon.it/dp/B07SSJW3GG/?tag=tolees00-21) con 66.11 de descuento por 40.63 EUR (original: 119.9 EUR) en el siguiente enlace!

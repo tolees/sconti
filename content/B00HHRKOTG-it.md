@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.97 % en Les Tropéziennes  Monaco  Sandali da Don'
 date: 2020-10-04 12:56:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Hqh3zIPDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Hqh3zIPDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Hqh3zIPDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Les Tropéziennes  Monaco  Sandali da Donna  Marrone  tan/or   38 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00HHRKOTG/?tag=tolees00-21'
+descuento: '34.97'
+titulo: 'Les Tropéziennes  Monaco  Sandali da Don'
 ---
 
 Tienes [Les Tropéziennes  Monaco  Sandali da Donna  Marrone  tan/or   38 EU](https://www.amazon.it/dp/B00HHRKOTG/?tag=tolees00-21) con un 34.97 % de descuento con precio de oferta de 32.45 EUR (original: 49.9 EUR) en el siguiente enlace!

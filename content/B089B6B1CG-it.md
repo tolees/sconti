@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en CARPISA® Borsa a sacca con manici e trac'
 date: 2020-09-04 17:22:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41c9N4L3G1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c9N4L3G1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41c9N4L3G1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.96 EUR
 inStock: true
 prodname: 'CARPISA® Borsa a sacca con manici e tracolla - Nantes'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B089B6B1CG/?tag=tolees00-21'
+descuento: '25.00'
+titulo: 'CARPISA® Borsa a sacca con manici e trac'
 ---
 
 Tienes [CARPISA® Borsa a sacca con manici e tracolla - Nantes](https://www.amazon.it/dp/B089B6B1CG/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 23.97 EUR (original: 31.96 EUR) en el siguiente enlace!

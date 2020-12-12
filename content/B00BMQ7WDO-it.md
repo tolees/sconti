@@ -3,6 +3,7 @@ layout: post
 title: 'Plein Air ZAP 30 - Sterminainsetti 30 W  al 42.82 % de descuento'
 date: 2020-09-14 07:00:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gKctEQXSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gKctEQXSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gKctEQXSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 37.58 EUR
 inStock: true
 prodname: 'Plein Air ZAP 30 - Sterminainsetti 30 W  Argento'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00BMQ7WDO/?tag=tolees00-21'
+descuento: '42.82'
+titulo: 'Plein Air ZAP 30 - Sterminainsetti 30 W '
 ---
 
 Está [Plein Air ZAP 30 - Sterminainsetti 30 W  Argento](https://www.amazon.it/dp/B00BMQ7WDO/?tag=tolees00-21) con 42.82 de descuento por 21.49 EUR (original: 37.58 EUR) en el siguiente enlace!

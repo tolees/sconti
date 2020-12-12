@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.34 % en Michael Kors Orologio Analogico Quarzo D'
 date: 2020-08-17 13:35:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31OjvwRVIPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OjvwRVIPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31OjvwRVIPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 169.0 EUR
 inStock: true
 prodname: 'Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK2797'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MBGTZ5Y/?tag=tolees00-21'
+descuento: '47.34'
+titulo: 'Michael Kors Orologio Analogico Quarzo D'
 ---
 
 Tienes [Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK2797](https://www.amazon.it/dp/B07MBGTZ5Y/?tag=tolees00-21) con un 47.34 % de descuento con precio de oferta de 89.0 EUR (original: 169.0 EUR) en el siguiente enlace!

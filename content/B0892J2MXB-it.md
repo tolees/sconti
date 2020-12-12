@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.02 % en WesKimed Convertitore digitale a analogi'
 date: 2020-07-23 11:54:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hTbt6FejL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hTbt6FejL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hTbt6FejL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'WesKimed Convertitore digitale a analogico  adattatore audio ottico Toslink coassiale a RCA L/R  3 5 mm  jack digitale a analogico supporto Pcm/lpcm per HDTV Ps3 Ps4 Xbox  HDTV DVD BLU-RayAV'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0892J2MXB/?tag=tolees00-21'
+descuento: '30.02'
+titulo: 'WesKimed Convertitore digitale a analogi'
 ---
 
 Tienes [WesKimed Convertitore digitale a analogico  adattatore audio ottico Toslink coassiale a RCA L/R  3 5 mm  jack digitale a analogico supporto Pcm/lpcm per HDTV Ps3 Ps4 Xbox  HDTV DVD BLU-RayAV](https://www.amazon.it/dp/B0892J2MXB/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

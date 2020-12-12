@@ -3,6 +3,7 @@ layout: post
 title: 'SAWAKE Ventilatore Manuale  Ventola USB  al 50.97 % de descuento'
 date: 2020-09-04 08:12:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41S2sgoIORL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S2sgoIORL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41S2sgoIORL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'SAWAKE Ventilatore Manuale  Ventola USB Portatile con Base  Mini Ventola Ricaricabile con 3 velocità Regolabili  Ventola da Tavolo Portatile Adatta per Ufficio  Casa  Viaggi  ECC.'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07PT4SKCQ/?tag=tolees00-21'
+descuento: '50.97'
+titulo: 'SAWAKE Ventilatore Manuale  Ventola USB '
 ---
 
 Ahora mismo tienes [SAWAKE Ventilatore Manuale  Ventola USB Portatile con Base  Mini Ventola Ricaricabile con 3 velocità Regolabili  Ventola da Tavolo Portatile Adatta per Ufficio  Casa  Viaggi  ECC.](https://www.amazon.it/dp/B07PT4SKCQ/?tag=tolees00-21) a 9.31 EUR (original: 18.99 EUR) (50.97 %  de descuento) en el siguiente enlace!

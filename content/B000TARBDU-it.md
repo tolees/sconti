@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.81 % en Pyrex Essentials Tegame Rettangolare  40'
 date: 2020-10-09 00:12:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31sLj-BBebL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sLj-BBebL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31sLj-BBebL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.0 EUR
 inStock: true
 prodname: 'Pyrex Essentials Tegame Rettangolare  40x27cm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B000TARBDU/?tag=tolees00-21'
+descuento: '43.81'
+titulo: 'Pyrex Essentials Tegame Rettangolare  40'
 ---
 
 Tienes [Pyrex Essentials Tegame Rettangolare  40x27cm](https://www.amazon.it/dp/B000TARBDU/?tag=tolees00-21) con un 43.81 % de descuento con precio de oferta de 8.99 EUR (original: 16.0 EUR) en el siguiente enlace!

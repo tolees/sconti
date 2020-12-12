@@ -3,6 +3,7 @@ layout: post
 title: 'Aigostar Multipresa Ciabatta Elettrica a al 25.02 % de descuento'
 date: 2020-08-06 08:47:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/3112hjSyM5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3112hjSyM5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3112hjSyM5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Aigostar Multipresa Ciabatta Elettrica a 5 Posti  250v/2500W Cavo 5m. Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B077DYKN93/?tag=tolees00-21'
+descuento: '25.02'
+titulo: 'Aigostar Multipresa Ciabatta Elettrica a'
 ---
 
 Ahora mismo tienes [Aigostar Multipresa Ciabatta Elettrica a 5 Posti  250v/2500W Cavo 5m. Bianco](https://www.amazon.it/dp/B077DYKN93/?tag=tolees00-21) a 10.49 EUR (original: 13.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.95 % en Autan Active Vapo Bipacco  Insetto Repel'
 date: 2020-08-05 22:19:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/511AmZ3Kq1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511AmZ3Kq1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511AmZ3Kq1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'Autan Active Vapo Bipacco  Insetto Repellente e Antizanzare  Lunga Durata  2 Confezioni da100 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21'
+descuento: '40.95'
+titulo: 'Autan Active Vapo Bipacco  Insetto Repel'
 ---
 
 Tienes [Autan Active Vapo Bipacco  Insetto Repellente e Antizanzare  Lunga Durata  2 Confezioni da100 ml](https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21) con un 40.95 % de descuento con precio de oferta de 6.49 EUR (original: 10.99 EUR) en el siguiente enlace!

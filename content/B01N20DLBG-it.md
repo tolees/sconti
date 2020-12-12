@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.10 % en Canon IXUS 190 Fotocamera Digitale Compa'
 date: 2020-09-01 14:26:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aFxqugXdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aFxqugXdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aFxqugXdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 189.0 EUR
 inStock: true
 prodname: 'Canon IXUS 190 Fotocamera Digitale Compatta  20 MP  1/2.3"  CCD  5152 x 3864 Pixel  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01N20DLBG/?tag=tolees00-21'
+descuento: '47.10'
+titulo: 'Canon IXUS 190 Fotocamera Digitale Compa'
 ---
 
 Tienes [Canon IXUS 190 Fotocamera Digitale Compatta  20 MP  1/2.3"  CCD  5152 x 3864 Pixel  Nero](https://www.amazon.it/dp/B01N20DLBG/?tag=tolees00-21) con un 47.10 % de descuento con precio de oferta de 99.99 EUR (original: 189.0 EUR) en el siguiente enlace!

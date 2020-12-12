@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s SS Battery HM Slim Camicia  Blu   al 50.00 % de descuento'
 date: 2020-08-08 11:36:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41k6FLCFGaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k6FLCFGaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41k6FLCFGaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50.0 EUR
 inStock: true
 prodname: 'Levi s SS Battery HM Slim Camicia  Blu  Dress Blues 0001   Large Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TNLTSXT/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'Levi s SS Battery HM Slim Camicia  Blu  '
 ---
 
 Está [Levi s SS Battery HM Slim Camicia  Blu  Dress Blues 0001   Large Uomo](https://www.amazon.it/dp/B07TNLTSXT/?tag=tolees00-21) con 50.00 de descuento por 25.0 EUR (original: 50.0 EUR) en el siguiente enlace!

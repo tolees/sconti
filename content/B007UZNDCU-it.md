@@ -3,6 +3,7 @@ layout: post
 title: 'Pasta del Capitano Spazzolino Whitening  al 45.00 % de descuento'
 date: 2020-08-03 06:28:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31N9g5w81VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31N9g5w81VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31N9g5w81VL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 1.8 EUR
 inStock: true
 prodname: 'Pasta del Capitano Spazzolino Whitening  Medio'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B007UZNDCU/?tag=tolees00-21'
+descuento: '45.00'
+titulo: 'Pasta del Capitano Spazzolino Whitening '
 ---
 
 Está [Pasta del Capitano Spazzolino Whitening  Medio](https://www.amazon.it/dp/B007UZNDCU/?tag=tolees00-21) con 45.00 de descuento por 0.99 EUR (original: 1.8 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.87 % en Levi s 502 Regular Taper Jeans  Blu Prew'
 date: 2020-08-12 19:32:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'Levi s 502 Regular Taper Jeans  Blu Prewash  31W / 34L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B079QGD5RH/?tag=tolees00-21'
+descuento: '40.87'
+titulo: 'Levi s 502 Regular Taper Jeans  Blu Prew'
 ---
 
 Tienes [Levi s 502 Regular Taper Jeans  Blu Prewash  31W / 34L Uomo](https://www.amazon.it/dp/B079QGD5RH/?tag=tolees00-21) con un 40.87 % de descuento con precio de oferta de 53.22 EUR (original: 90.0 EUR) en el siguiente enlace!

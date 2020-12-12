@@ -3,6 +3,7 @@ layout: post
 title: 'Apple Custodia in pelle  per iPhone XS   al 30.93 % de descuento'
 date: 2020-09-15 12:32:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31NJalRXCNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NJalRXCNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31NJalRXCNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 55.0 EUR
 inStock: true
 prodname: 'Apple Custodia in pelle  per iPhone XS  -  PRODUCT RED'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07H9QXKW6/?tag=tolees00-21'
+descuento: '30.93'
+titulo: 'Apple Custodia in pelle  per iPhone XS  '
 ---
 
 Está [Apple Custodia in pelle  per iPhone XS  -  PRODUCT RED](https://www.amazon.it/dp/B07H9QXKW6/?tag=tolees00-21) con 30.93 de descuento por 37.99 EUR (original: 55.0 EUR) en el siguiente enlace!

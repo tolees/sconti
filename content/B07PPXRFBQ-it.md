@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Challenger III Knit  Pantal al 52.38 % de descuento'
 date: 2020-09-23 16:34:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31e5oe4wLOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e5oe4wLOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31e5oe4wLOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.0 EUR
 inStock: true
 prodname: 'Under Armour Challenger III Knit  Pantaloncini Uomo  Nero  Black - 001   LG'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07PPXRFBQ/?tag=tolees00-21'
+descuento: '52.38'
+titulo: 'Under Armour Challenger III Knit  Pantal'
 ---
 
 Está [Under Armour Challenger III Knit  Pantaloncini Uomo  Nero  Black - 001   LG](https://www.amazon.it/dp/B07PPXRFBQ/?tag=tolees00-21) con 52.38 de descuento por 12.38 EUR (original: 26.0 EUR) en el siguiente enlace!

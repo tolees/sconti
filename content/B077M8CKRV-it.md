@@ -3,6 +3,7 @@ layout: post
 title: 'Pedigree Vital Protection cani Cibo di A al 49.58 % de descuento'
 date: 2020-10-08 13:46:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Mb0+WQ7DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Mb0+WQ7DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Mb0+WQ7DL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.03 EUR
 inStock: true
 prodname: 'Pedigree Vital Protection cani Cibo di Alta Qualità con pollo  manzo  pollame e agnello  40 x 100 g '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B077M8CKRV/?tag=tolees00-21'
+descuento: '49.58'
+titulo: 'Pedigree Vital Protection cani Cibo di A'
 ---
 
 Está [Pedigree Vital Protection cani Cibo di Alta Qualità con pollo  manzo  pollame e agnello  40 x 100 g ](https://www.amazon.it/dp/B077M8CKRV/?tag=tolees00-21) con 49.58 de descuento por 12.62 EUR (original: 25.03 EUR) en el siguiente enlace!

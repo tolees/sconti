@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s SS Original HM Tee T-Shirt  Blu   al 36.04 % de descuento'
 date: 2020-08-04 09:23:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ySA9fIzEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ySA9fIzEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ySA9fIzEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Levi s SS Original HM Tee T-Shirt  Blu  Cotton + Patch Dress Blues 0017   X-Small Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07K76XD3B/?tag=tolees00-21'
+descuento: '36.04'
+titulo: 'Levi s SS Original HM Tee T-Shirt  Blu  '
 ---
 
 Ahora mismo tienes [Levi s SS Original HM Tee T-Shirt  Blu  Cotton + Patch Dress Blues 0017   X-Small Uomo](https://www.amazon.it/dp/B07K76XD3B/?tag=tolees00-21) a 15.99 EUR (original: 25.0 EUR) (36.04 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Unisex - Adulto 574v2 Core S al 36.83 % de descuento'
 date: 2020-08-28 04:26:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/515fzcFMtcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515fzcFMtcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515fzcFMtcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Verde  Olive Night   44 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06XX8PXML/?tag=tolees00-21'
+descuento: '36.83'
+titulo: 'New Balance Unisex - Adulto 574v2 Core S'
 ---
 
 Ahora mismo tienes [New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Verde  Olive Night   44 EU](https://www.amazon.it/dp/B06XX8PXML/?tag=tolees00-21) a 56.85 EUR (original: 90.0 EUR) (36.83 %  de descuento) en el siguiente enlace!

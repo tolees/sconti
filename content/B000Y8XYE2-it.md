@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY - 1-93-330 Borsa porta utensili  al 44.29 % de descuento'
 date: 2020-09-10 17:27:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/5167a3kHvXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5167a3kHvXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5167a3kHvXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.77 EUR
 inStock: true
 prodname: 'STANLEY - 1-93-330 Borsa porta utensili  30 x 25 x 13 cm  il design può variare  1 pezzo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B000Y8XYE2/?tag=tolees00-21'
+descuento: '44.29'
+titulo: 'STANLEY - 1-93-330 Borsa porta utensili '
 ---
 
 Está [STANLEY - 1-93-330 Borsa porta utensili  30 x 25 x 13 cm  il design può variare  1 pezzo](https://www.amazon.it/dp/B000Y8XYE2/?tag=tolees00-21) con 44.29 de descuento por 9.9 EUR (original: 17.77 EUR) en el siguiente enlace!

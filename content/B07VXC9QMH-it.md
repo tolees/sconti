@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston A2000  SA2000M8/1000G  NVMe PCI al 51.78 % de descuento'
 date: 2020-09-03 08:19:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41td60tG3IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41td60tG3IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41td60tG3IL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 202.99 EUR
 inStock: true
 prodname: 'Kingston A2000  SA2000M8/1000G  NVMe PCIe SSD 1000G'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VXC9QMH/?tag=tolees00-21'
+descuento: '51.78'
+titulo: 'Kingston A2000  SA2000M8/1000G  NVMe PCI'
 ---
 
 Está [Kingston A2000  SA2000M8/1000G  NVMe PCIe SSD 1000G](https://www.amazon.it/dp/B07VXC9QMH/?tag=tolees00-21) con 51.78 de descuento por 97.89 EUR (original: 202.99 EUR) en el siguiente enlace!

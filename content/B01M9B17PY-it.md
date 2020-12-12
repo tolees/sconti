@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.27 % en Lagostina Ingenio Induction Coperchio in'
 date: 2020-09-13 11:39:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31F063SWhgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31F063SWhgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31F063SWhgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20.5 EUR
 inStock: true
 prodname: 'Lagostina Ingenio Induction Coperchio in Vetro  24 cm  Nero/Trasparente'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01M9B17PY/?tag=tolees00-21'
+descuento: '51.27'
+titulo: 'Lagostina Ingenio Induction Coperchio in'
 ---
 
 Tienes [Lagostina Ingenio Induction Coperchio in Vetro  24 cm  Nero/Trasparente](https://www.amazon.it/dp/B01M9B17PY/?tag=tolees00-21) con un 51.27 % de descuento con precio de oferta de 9.99 EUR (original: 20.5 EUR) en el siguiente enlace!

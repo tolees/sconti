@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Slim Floral  Infradito Donna   al 28.57 % de descuento'
 date: 2020-08-23 12:46:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fOz6o0XzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fOz6o0XzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fOz6o0XzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.0 EUR
 inStock: true
 prodname: 'Havaianas Slim Floral  Infradito Donna  Multicolore  Blue 0031   33/34 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SP4FQKM/?tag=tolees00-21'
+descuento: '28.57'
+titulo: 'Havaianas Slim Floral  Infradito Donna  '
 ---
 
 Ahora mismo tienes [Havaianas Slim Floral  Infradito Donna  Multicolore  Blue 0031   33/34 EU](https://www.amazon.it/dp/B07SP4FQKM/?tag=tolees00-21) a 20.0 EUR (original: 28.0 EUR) (28.57 %  de descuento) en el siguiente enlace!

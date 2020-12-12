@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid Fotocamera Digitale a Scatto Is al 58.33 % de descuento'
 date: 2020-10-04 07:32:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CBLe5nZTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CBLe5nZTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CBLe5nZTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Polaroid Fotocamera Digitale a Scatto Istantaneo  con Tecnologia Di Stampa a Zero Inchiostro Zink  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B015JIAD7C/?tag=tolees00-21'
+descuento: '58.33'
+titulo: 'Polaroid Fotocamera Digitale a Scatto Is'
 ---
 
 Está [Polaroid Fotocamera Digitale a Scatto Istantaneo  con Tecnologia Di Stampa a Zero Inchiostro Zink  Bianco](https://www.amazon.it/dp/B015JIAD7C/?tag=tolees00-21) con 58.33 de descuento por 50.0 EUR (original: 119.99 EUR) en el siguiente enlace!

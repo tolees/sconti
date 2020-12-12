@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.51 % en Generico Mascherina Lavabile  2 Pezzi  N'
 date: 2020-09-05 12:52:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vExCmQhfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vExCmQhfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vExCmQhfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Generico Mascherina Lavabile  2 Pezzi  Nera + Blu Regolabili '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08C1WG8J4/?tag=tolees00-21'
+descuento: '61.51'
+titulo: 'Generico Mascherina Lavabile  2 Pezzi  N'
 ---
 
 Tienes [Generico Mascherina Lavabile  2 Pezzi  Nera + Blu Regolabili ](https://www.amazon.it/dp/B08C1WG8J4/?tag=tolees00-21) con un 61.51 % de descuento con precio de oferta de 5.0 EUR (original: 12.99 EUR) en el siguiente enlace!

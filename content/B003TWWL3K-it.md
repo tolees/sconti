@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.33 % en Claber Tubo Collettore da 50m'
 date: 2020-09-22 08:46:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/512t-OSs4VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512t-OSs4VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512t-OSs4VL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.42 EUR
 inStock: true
 prodname: 'Claber Tubo Collettore da 50m'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B003TWWL3K/?tag=tolees00-21'
+descuento: '25.33'
+titulo: 'Claber Tubo Collettore da 50m'
 ---
 
 Tienes [Claber Tubo Collettore da 50m](https://www.amazon.it/dp/B003TWWL3K/?tag=tolees00-21) con un 25.33 % de descuento con precio de oferta de 18.98 EUR (original: 25.42 EUR) en el siguiente enlace!

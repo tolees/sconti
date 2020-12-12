@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.78 % en Calvin Klein Ckj Uniform Workman Belt 35'
 date: 2020-10-05 14:17:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KYqwjkDCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KYqwjkDCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KYqwjkDCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.89 EUR
 inStock: true
 prodname: 'Calvin Klein Ckj Uniform Workman Belt 35mm Cintura  Marrone  Bitter Brown BAP   4  Taglia Produttore: 90  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VC4LM1L/?tag=tolees00-21'
+descuento: '41.78'
+titulo: 'Calvin Klein Ckj Uniform Workman Belt 35'
 ---
 
 Tienes [Calvin Klein Ckj Uniform Workman Belt 35mm Cintura  Marrone  Bitter Brown BAP   4  Taglia Produttore: 90  Uomo](https://www.amazon.it/dp/B07VC4LM1L/?tag=tolees00-21) con un 41.78 % de descuento con precio de oferta de 22.64 EUR (original: 38.89 EUR) en el siguiente enlace!

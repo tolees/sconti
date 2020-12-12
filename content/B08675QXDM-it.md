@@ -3,6 +3,7 @@ layout: post
 title: 'McNory Set di 8 Candele Citronella Anti- al 37.76 % de descuento'
 date: 2020-09-07 13:16:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/417qgHwV7uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417qgHwV7uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417qgHwV7uL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.89 EUR
 inStock: true
 prodname: 'McNory Set di 8 Candele Citronella Anti-zanzare 100% Cera di Soia Naturale Candele Profumate Estive per Interno & Esterno Giardino Terrazza Picnic per Tenere Lontane Mosche e Insettire'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08675QXDM/?tag=tolees00-21'
+descuento: '37.76'
+titulo: 'McNory Set di 8 Candele Citronella Anti-'
 ---
 
 Ahora mismo tienes [McNory Set di 8 Candele Citronella Anti-zanzare 100% Cera di Soia Naturale Candele Profumate Estive per Interno & Esterno Giardino Terrazza Picnic per Tenere Lontane Mosche e Insettire](https://www.amazon.it/dp/B08675QXDM/?tag=tolees00-21) a 9.89 EUR (original: 15.89 EUR) (37.76 %  de descuento) en el siguiente enlace!

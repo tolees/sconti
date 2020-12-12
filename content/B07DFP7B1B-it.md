@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.00 % en PUMA Rebel Up Hoody FL  Sweatshirt Uomo '
 date: 2020-09-13 09:13:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xRgyskFML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xRgyskFML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xRgyskFML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'PUMA Rebel Up Hoody FL  Sweatshirt Uomo  Dark Gray Heather  M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07DFP7B1B/?tag=tolees00-21'
+descuento: '46.00'
+titulo: 'PUMA Rebel Up Hoody FL  Sweatshirt Uomo '
 ---
 
 Tienes [PUMA Rebel Up Hoody FL  Sweatshirt Uomo  Dark Gray Heather  M](https://www.amazon.it/dp/B07DFP7B1B/?tag=tolees00-21) con un 46.00 % de descuento con precio de oferta de 35.07 EUR (original: 64.95 EUR) en el siguiente enlace!

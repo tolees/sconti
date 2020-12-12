@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.79 % en The Protein Works Matrix Massa Totale Ex'
 date: 2020-09-27 10:05:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zOnbSkB6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zOnbSkB6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zOnbSkB6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 77.39 EUR
 inStock: true
 prodname: 'The Protein Works Matrix Massa Totale Extreme  Tiramisu Italiano - 4240 Gr'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08232KNLX/?tag=tolees00-21'
+descuento: '48.79'
+titulo: 'The Protein Works Matrix Massa Totale Ex'
 ---
 
 Tienes [The Protein Works Matrix Massa Totale Extreme  Tiramisu Italiano - 4240 Gr](https://www.amazon.it/dp/B08232KNLX/?tag=tolees00-21) con un 48.79 % de descuento con precio de oferta de 39.63 EUR (original: 77.39 EUR) en el siguiente enlace!

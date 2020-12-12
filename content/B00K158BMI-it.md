@@ -3,6 +3,7 @@ layout: post
 title: 'Orologio da Donna Casio H5LTP-1259PD-2AE al 51.24 % de descuento'
 date: 2020-08-27 16:54:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mG55DDTmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mG55DDTmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mG55DDTmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.0 EUR
 inStock: true
 prodname: 'Orologio da Donna Casio H5LTP-1259PD-2AEF'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00K158BMI/?tag=tolees00-21'
+descuento: '51.24'
+titulo: 'Orologio da Donna Casio H5LTP-1259PD-2AE'
 ---
 
 Ahora mismo tienes [Orologio da Donna Casio H5LTP-1259PD-2AEF](https://www.amazon.it/dp/B00K158BMI/?tag=tolees00-21) a 20.48 EUR (original: 42.0 EUR) (51.24 %  de descuento) en el siguiente enlace!

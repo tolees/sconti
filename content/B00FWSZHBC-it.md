@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.49 % en Calvin Klein Uomo - Boxer aderenti in co'
 date: 2020-09-14 13:25:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31B8UbndPgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31B8UbndPgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31B8UbndPgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.5 EUR
 inStock: true
 prodname: 'Calvin Klein Uomo - Boxer aderenti in confezione da 3 vita media - Cotton Stretch  Nero  Black/White/Grey Heather 998   S   Pacco da 3 '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00FWSZHBC/?tag=tolees00-21'
+descuento: '36.49'
+titulo: 'Calvin Klein Uomo - Boxer aderenti in co'
 ---
 
 Tienes [Calvin Klein Uomo - Boxer aderenti in confezione da 3 vita media - Cotton Stretch  Nero  Black/White/Grey Heather 998   S   Pacco da 3 ](https://www.amazon.it/dp/B00FWSZHBC/?tag=tolees00-21) con un 36.49 % de descuento con precio de oferta de 26.99 EUR (original: 42.5 EUR) en el siguiente enlace!

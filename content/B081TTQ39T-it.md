@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.98 % en adidas Tight T  Maglietta Donna  Nero  B'
 date: 2020-10-01 13:25:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31tNFSLzu-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tNFSLzu-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31tNFSLzu-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'adidas Tight T  Maglietta Donna  Nero  Black/White   40'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B081TTQ39T/?tag=tolees00-21'
+descuento: '49.98'
+titulo: 'adidas Tight T  Maglietta Donna  Nero  B'
 ---
 
 Tienes [adidas Tight T  Maglietta Donna  Nero  Black/White   40](https://www.amazon.it/dp/B081TTQ39T/?tag=tolees00-21) con un 49.98 % de descuento con precio de oferta de 12.48 EUR (original: 24.95 EUR) en el siguiente enlace!

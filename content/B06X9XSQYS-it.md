@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.99 % en Marchio Amazon - Iris & Lilly Mutande Do'
 date: 2020-09-29 16:19:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GGv6DGrwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GGv6DGrwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GGv6DGrwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Marchio Amazon - Iris & Lilly Mutande Donna  Pacco da 3  Beige  Pale Nude   M  Label: M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06X9XSQYS/?tag=tolees00-21'
+descuento: '79.99'
+titulo: 'Marchio Amazon - Iris & Lilly Mutande Do'
 ---
 
 Tienes [Marchio Amazon - Iris & Lilly Mutande Donna  Pacco da 3  Beige  Pale Nude   M  Label: M](https://www.amazon.it/dp/B06X9XSQYS/?tag=tolees00-21) con un 79.99 % de descuento con precio de oferta de 3.0 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face M Drew Peak Plv HD  Felpa al 40.00 % de descuento'
 date: 2020-10-07 23:03:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'The North Face M Drew Peak Plv HD  Felpa con Cappuccio Uomo  Nero  TNF Black   M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00B7XCG7Y/?tag=tolees00-21'
+descuento: '40.00'
+titulo: 'The North Face M Drew Peak Plv HD  Felpa'
 ---
 
 Ahora mismo tienes [The North Face M Drew Peak Plv HD  Felpa con Cappuccio Uomo  Nero  TNF Black   M](https://www.amazon.it/dp/B00B7XCG7Y/?tag=tolees00-21) a 48.0 EUR (original: 80.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.43 % en Nastro Azzurro - Cassa da 24 x 33 cl  7.'
 date: 2020-10-06 12:35:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rB46wsPIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rB46wsPIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rB46wsPIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.0 EUR
 inStock: true
 prodname: 'Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21'
+descuento: '37.43'
+titulo: 'Nastro Azzurro - Cassa da 24 x 33 cl  7.'
 ---
 
 Tienes [Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri ](https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21) con un 37.43 % de descuento con precio de oferta de 17.52 EUR (original: 28.0 EUR) en el siguiente enlace!

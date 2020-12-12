@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.04 % en Havaianas Brasil Logo  Infradito Unisex-'
 date: 2020-09-25 19:22:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fUNnnFgCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fUNnnFgCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fUNnnFgCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.0 EUR
 inStock: true
 prodname: 'Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Marine Blue   43/44 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B007WPOB2O/?tag=tolees00-21'
+descuento: '25.04'
+titulo: 'Havaianas Brasil Logo  Infradito Unisex-'
 ---
 
 Tienes [Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Marine Blue   43/44 EU](https://www.amazon.it/dp/B007WPOB2O/?tag=tolees00-21) con un 25.04 % de descuento con precio de oferta de 17.99 EUR (original: 24.0 EUR) en el siguiente enlace!

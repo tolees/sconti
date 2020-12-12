@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Timberland Gateway Pier Casual  Scarpe O'
 date: 2020-10-09 06:41:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zUM+KV9oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zUM+KV9oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zUM+KV9oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'Timberland Gateway Pier Casual  Scarpe Oxford Uomo  Grigio Medium Grey Canvas  43.5 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07F2DBKZG/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'Timberland Gateway Pier Casual  Scarpe O'
 ---
 
 Tienes [Timberland Gateway Pier Casual  Scarpe Oxford Uomo  Grigio Medium Grey Canvas  43.5 EU](https://www.amazon.it/dp/B07F2DBKZG/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 45.0 EUR (original: 90.0 EUR) en el siguiente enlace!

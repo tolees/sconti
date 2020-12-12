@@ -3,6 +3,7 @@ layout: post
 title: 'Autan Tropical Spray Secco  Insetto Repe al 44.25 % de descuento'
 date: 2020-09-05 17:06:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ww-kfxg1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ww-kfxg1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ww-kfxg1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 8.95 EUR
 inStock: true
 prodname: 'Autan Tropical Spray Secco  Insetto Repellente e Antizanzare Tigre  Comuni e Tropicali  1 Confezione da 100 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00E4KZ6C4/?tag=tolees00-21'
+descuento: '44.25'
+titulo: 'Autan Tropical Spray Secco  Insetto Repe'
 ---
 
 Ahora mismo tienes [Autan Tropical Spray Secco  Insetto Repellente e Antizanzare Tigre  Comuni e Tropicali  1 Confezione da 100 ml](https://www.amazon.it/dp/B00E4KZ6C4/?tag=tolees00-21) a 4.99 EUR (original: 8.95 EUR) (44.25 %  de descuento) en el siguiente enlace!

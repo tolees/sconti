@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Lerond BL 2 Cam  Sneaker Uomo  B al 51.25 % de descuento'
 date: 2020-07-27 07:19:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/315vR3Dvu2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315vR3Dvu2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315vR3Dvu2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'Lacoste Lerond BL 2 Cam  Sneaker Uomo  Blu  Navy   44.5 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MT13GU6/?tag=tolees00-21'
+descuento: '51.25'
+titulo: 'Lacoste Lerond BL 2 Cam  Sneaker Uomo  B'
 ---
 
 Ahora mismo tienes [Lacoste Lerond BL 2 Cam  Sneaker Uomo  Blu  Navy   44.5 EU](https://www.amazon.it/dp/B01MT13GU6/?tag=tolees00-21) a 39.0 EUR (original: 80.0 EUR) (51.25 %  de descuento) en el siguiente enlace!

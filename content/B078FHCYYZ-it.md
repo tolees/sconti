@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.47 % en Puma Liga Zaino  Unisex-Adulto  Nero Bla'
 date: 2020-10-05 12:39:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31B0xT9dytL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31B0xT9dytL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31B0xT9dytL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Puma Liga Zaino  Unisex-Adulto  Nero Black   Taglia Unica'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B078FHCYYZ/?tag=tolees00-21'
+descuento: '52.47'
+titulo: 'Puma Liga Zaino  Unisex-Adulto  Nero Bla'
 ---
 
 Tienes [Puma Liga Zaino  Unisex-Adulto  Nero Black   Taglia Unica](https://www.amazon.it/dp/B078FHCYYZ/?tag=tolees00-21) con un 52.47 % de descuento con precio de oferta de 16.61 EUR (original: 34.95 EUR) en el siguiente enlace!

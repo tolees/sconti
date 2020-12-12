@@ -3,6 +3,7 @@ layout: post
 title: 'Autan Botanicals Vapo  Insetto Repellent al 36.85 % de descuento'
 date: 2020-08-03 14:12:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HkxZtPbpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HkxZtPbpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HkxZtPbpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 7.11 EUR
 inStock: true
 prodname: 'Autan Botanicals Vapo  Insetto Repellente e Antizanzare a Base di Olio di Eucalipto  1 Confezione da 100 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B084PRYB1M/?tag=tolees00-21'
+descuento: '36.85'
+titulo: 'Autan Botanicals Vapo  Insetto Repellent'
 ---
 
 Está [Autan Botanicals Vapo  Insetto Repellente e Antizanzare a Base di Olio di Eucalipto  1 Confezione da 100 ml](https://www.amazon.it/dp/B084PRYB1M/?tag=tolees00-21) con 36.85 de descuento por 4.49 EUR (original: 7.11 EUR) en el siguiente enlace!

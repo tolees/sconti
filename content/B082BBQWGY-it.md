@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway  Pile da uomo  RIAKO al 43.62 % de descuento'
 date: 2020-09-17 09:43:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+RD0nALhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+RD0nALhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+RD0nALhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Geographical Norway  Pile da uomo  RIAKOLO Blu navy XL'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B082BBQWGY/?tag=tolees00-21'
+descuento: '43.62'
+titulo: 'Geographical Norway  Pile da uomo  RIAKO'
 ---
 
 Está [Geographical Norway  Pile da uomo  RIAKOLO Blu navy XL](https://www.amazon.it/dp/B082BBQWGY/?tag=tolees00-21) con 43.62 de descuento por 38.9 EUR (original: 69.0 EUR) en el siguiente enlace!

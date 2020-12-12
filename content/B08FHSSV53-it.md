@@ -3,6 +3,7 @@ layout: post
 title: 'YUES Controller Wireless per Nintendo Sw al 40.84 % de descuento'
 date: 2020-09-26 19:21:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/415oIh6x89L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415oIh6x89L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415oIh6x89L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.79 EUR
 inStock: true
 prodname: 'YUES Controller Wireless per Nintendo Switch Pro/Lite  Gamepad con Doppio Ammortizzatore / Motore di Vibrazione / Motore a 6 assi Giroscopio / Turbo regolabile / Joystick a distanza '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08FHSSV53/?tag=tolees00-21'
+descuento: '40.84'
+titulo: 'YUES Controller Wireless per Nintendo Sw'
 ---
 
 Está [YUES Controller Wireless per Nintendo Switch Pro/Lite  Gamepad con Doppio Ammortizzatore / Motore di Vibrazione / Motore a 6 assi Giroscopio / Turbo regolabile / Joystick a distanza ](https://www.amazon.it/dp/B08FHSSV53/?tag=tolees00-21) con 40.84 de descuento por 19.99 EUR (original: 33.79 EUR) en el siguiente enlace!

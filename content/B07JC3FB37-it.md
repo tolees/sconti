@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Juniors Buzz e Woody e La Mania del al 32.21 % de descuento'
 date: 2020-10-07 06:15:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wq7ntanjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wq7ntanjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wq7ntanjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'LEGO Juniors Buzz e Woody e La Mania del Carnevale  Gioco per Bambini  Multicolore  382 x 262 x 56.5 mm  10770'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07JC3FB37/?tag=tolees00-21'
+descuento: '32.21'
+titulo: 'LEGO Juniors Buzz e Woody e La Mania del'
 ---
 
 Ahora mismo tienes [LEGO Juniors Buzz e Woody e La Mania del Carnevale  Gioco per Bambini  Multicolore  382 x 262 x 56.5 mm  10770](https://www.amazon.it/dp/B07JC3FB37/?tag=tolees00-21) a 33.89 EUR (original: 49.99 EUR) (32.21 %  de descuento) en el siguiente enlace!

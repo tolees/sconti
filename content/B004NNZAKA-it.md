@@ -3,6 +3,7 @@ layout: post
 title: 'My.Size - Profilattici  69 mm  36 pezzi al 89.91 % de descuento'
 date: 2020-09-18 07:46:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31tZb107sHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tZb107sHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31tZb107sHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.85 EUR
 inStock: true
 prodname: 'My.Size - Profilattici  69 mm  36 pezzi'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B004NNZAKA/?tag=tolees00-21'
+descuento: '89.91'
+titulo: 'My.Size - Profilattici  69 mm  36 pezzi'
 ---
 
 Está [My.Size - Profilattici  69 mm  36 pezzi](https://www.amazon.it/dp/B004NNZAKA/?tag=tolees00-21) con 89.91 de descuento por 3.92 EUR (original: 38.85 EUR) en el siguiente enlace!

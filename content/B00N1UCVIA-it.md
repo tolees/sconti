@@ -3,6 +3,7 @@ layout: post
 title: 'Fossil Orologio Cronografo Quarzo Uomo c al 52.91 % de descuento'
 date: 2020-08-21 10:26:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lqCnmXj6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lqCnmXj6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lqCnmXj6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 189.0 EUR
 inStock: true
 prodname: 'Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4931'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00N1UCVIA/?tag=tolees00-21'
+descuento: '52.91'
+titulo: 'Fossil Orologio Cronografo Quarzo Uomo c'
 ---
 
 Está [Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4931](https://www.amazon.it/dp/B00N1UCVIA/?tag=tolees00-21) con 52.91 de descuento por 89.0 EUR (original: 189.0 EUR) en el siguiente enlace!

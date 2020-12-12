@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.86 % en MMCRRX M.2 Nvme SSD Ultraspeed Adapter P'
 date: 2020-08-21 04:20:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RKebfJsOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RKebfJsOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RKebfJsOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'MMCRRX M.2 Nvme SSD Ultraspeed Adapter Pcie'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0865XHW5M/?tag=tolees00-21'
+descuento: '36.86'
+titulo: 'MMCRRX M.2 Nvme SSD Ultraspeed Adapter P'
 ---
 
 Tienes [MMCRRX M.2 Nvme SSD Ultraspeed Adapter Pcie](https://www.amazon.it/dp/B0865XHW5M/?tag=tolees00-21) con un 36.86 % de descuento con precio de oferta de 11.99 EUR (original: 18.99 EUR) en el siguiente enlace!

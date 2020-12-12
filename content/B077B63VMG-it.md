@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein 3p Low Rise Trunk Boxer  Ne al 37.23 % de descuento'
 date: 2020-10-05 04:08:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JUiFjwxxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JUiFjwxxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JUiFjwxxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 43.0 EUR
 inStock: true
 prodname: 'Calvin Klein 3p Low Rise Trunk Boxer  Nero  Black W. Black WB   Medium  Pacco da 3  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B077B63VMG/?tag=tolees00-21'
+descuento: '37.23'
+titulo: 'Calvin Klein 3p Low Rise Trunk Boxer  Ne'
 ---
 
 Ahora mismo tienes [Calvin Klein 3p Low Rise Trunk Boxer  Nero  Black W. Black WB   Medium  Pacco da 3  Uomo](https://www.amazon.it/dp/B077B63VMG/?tag=tolees00-21) a 26.99 EUR (original: 43.0 EUR) (37.23 %  de descuento) en el siguiente enlace!

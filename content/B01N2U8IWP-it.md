@@ -3,6 +3,7 @@ layout: post
 title: 'Colussi Gran Turchese Biscotti Gr.400 -  al 47.09 % de descuento'
 date: 2020-09-03 13:05:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ol-NT73IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ol-NT73IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ol-NT73IL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 7.56 EUR
 inStock: true
 prodname: 'Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21'
+descuento: '47.09'
+titulo: 'Colussi Gran Turchese Biscotti Gr.400 - '
 ---
 
 Ahora mismo tienes [Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21) a 4.0 EUR (original: 7.56 EUR) (47.09 %  de descuento) en el siguiente enlace!

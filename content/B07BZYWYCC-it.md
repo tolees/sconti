@@ -3,6 +3,7 @@ layout: post
 title: 'TomTom Rider 550 Navigatore per Moto al 28.88 % de descuento'
 date: 2020-09-27 11:10:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TkM1MaWbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TkM1MaWbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TkM1MaWbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 512.93 EUR
 inStock: true
 prodname: 'TomTom Rider 550 Navigatore per Moto'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07BZYWYCC/?tag=tolees00-21'
+descuento: '28.88'
+titulo: 'TomTom Rider 550 Navigatore per Moto'
 ---
 
 Está [TomTom Rider 550 Navigatore per Moto](https://www.amazon.it/dp/B07BZYWYCC/?tag=tolees00-21) con 28.88 de descuento por 364.8 EUR (original: 512.93 EUR) en el siguiente enlace!

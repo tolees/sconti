@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.48 % en adidas Superstar J  Scarpe da Ginnastica'
 date: 2020-08-31 19:11:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31trdVqeGNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31trdVqeGNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31trdVqeGNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas Superstar J  Scarpe da Ginnastica Unisex-Baby  Ftwr White/Ftwr White/Ftwr White  38 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0813WLZJZ/?tag=tolees00-21'
+descuento: '49.48'
+titulo: 'adidas Superstar J  Scarpe da Ginnastica'
 ---
 
 Tienes [adidas Superstar J  Scarpe da Ginnastica Unisex-Baby  Ftwr White/Ftwr White/Ftwr White  38 EU](https://www.amazon.it/dp/B0813WLZJZ/?tag=tolees00-21) con un 49.48 % de descuento con precio de oferta de 35.34 EUR (original: 69.95 EUR) en el siguiente enlace!

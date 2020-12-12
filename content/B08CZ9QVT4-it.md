@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.61 % en UniqueMe [3 Pezzi] Vetro Temperato per X'
 date: 2020-08-18 04:39:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/515W2XVik4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515W2XVik4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515W2XVik4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 6.99 EUR
 inStock: true
 prodname: 'UniqueMe [3 Pezzi] Vetro Temperato per Xiaomi Redmi 9 Pellicola Vetro con Un Perfetto Servizio Post-Vendita.'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08CZ9QVT4/?tag=tolees00-21'
+descuento: '28.61'
+titulo: 'UniqueMe [3 Pezzi] Vetro Temperato per X'
 ---
 
 Tienes [UniqueMe [3 Pezzi] Vetro Temperato per Xiaomi Redmi 9 Pellicola Vetro con Un Perfetto Servizio Post-Vendita.](https://www.amazon.it/dp/B08CZ9QVT4/?tag=tolees00-21) con un 28.61 % de descuento con precio de oferta de 4.99 EUR (original: 6.99 EUR) en el siguiente enlace!

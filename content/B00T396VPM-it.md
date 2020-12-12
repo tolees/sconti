@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.77 % en Nintendo MW1PX3SMB - Portafoglio Bowser '
 date: 2020-08-20 06:52:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/61RgmRA-6PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61RgmRA-6PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61RgmRA-6PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 36.59 EUR
 inStock: true
 prodname: 'Nintendo MW1PX3SMB - Portafoglio Bowser Kanji Bifold'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00T396VPM/?tag=tolees00-21'
+descuento: '54.77'
+titulo: 'Nintendo MW1PX3SMB - Portafoglio Bowser '
 ---
 
 Tienes [Nintendo MW1PX3SMB - Portafoglio Bowser Kanji Bifold](https://www.amazon.it/dp/B00T396VPM/?tag=tolees00-21) con un 54.77 % de descuento con precio de oferta de 16.55 EUR (original: 36.59 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.56 % en Lark & Ro Stretch Poplin Shirt Dress-Shi'
 date: 2020-09-30 11:11:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31S-t5pA3ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S-t5pA3ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31S-t5pA3ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.15 EUR
 inStock: true
 prodname: 'Lark & Ro Stretch Poplin Shirt Dress-Shirts  Cruz V2 Fresh Foam  US 8  EU M '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07PR1Z5D5/?tag=tolees00-21'
+descuento: '68.56'
+titulo: 'Lark & Ro Stretch Poplin Shirt Dress-Shi'
 ---
 
 Tienes [Lark & Ro Stretch Poplin Shirt Dress-Shirts  Cruz V2 Fresh Foam  US 8  EU M ](https://www.amazon.it/dp/B07PR1Z5D5/?tag=tolees00-21) con un 68.56 % de descuento con precio de oferta de 6.65 EUR (original: 21.15 EUR) en el siguiente enlace!

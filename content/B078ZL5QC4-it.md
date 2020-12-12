@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.20 % en Techly 103113 Multipresa 6 Posti Italian'
 date: 2020-08-02 08:16:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31J3rotyQkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31J3rotyQkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31J3rotyQkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.85 EUR
 inStock: true
 prodname: 'Techly 103113 Multipresa 6 Posti Italiana Bipasso con Protezione da sovraccarico Bianca Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B078ZL5QC4/?tag=tolees00-21'
+descuento: '46.20'
+titulo: 'Techly 103113 Multipresa 6 Posti Italian'
 ---
 
 Tienes [Techly 103113 Multipresa 6 Posti Italiana Bipasso con Protezione da sovraccarico Bianca Bianco](https://www.amazon.it/dp/B078ZL5QC4/?tag=tolees00-21) con un 46.20 % de descuento con precio de oferta de 7.99 EUR (original: 14.85 EUR) en el siguiente enlace!

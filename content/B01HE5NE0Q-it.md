@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.66 % en Adidas Vs Pace  Scarpe da Ginnastica Uom'
 date: 2020-08-19 15:54:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rW6oDtBSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rW6oDtBSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rW6oDtBSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 57.49 EUR
 inStock: true
 prodname: 'Adidas Vs Pace  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Negbás/Azul 000   44 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01HE5NE0Q/?tag=tolees00-21'
+descuento: '27.66'
+titulo: 'Adidas Vs Pace  Scarpe da Ginnastica Uom'
 ---
 
 Tienes [Adidas Vs Pace  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Negbás/Azul 000   44 EU](https://www.amazon.it/dp/B01HE5NE0Q/?tag=tolees00-21) con un 27.66 % de descuento con precio de oferta de 41.59 EUR (original: 57.49 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Levis 168ndl Mid Cut Sprtwr Logo  al 27.81 % de descuento'
 date: 2020-10-01 06:59:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MpP98VMQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MpP98VMQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MpP98VMQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 8.99 EUR
 inStock: true
 prodname: 'Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze  Multicolore  White/Grey 062   43/46  Taglia Produttore: 043  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VTGCBMN/?tag=tolees00-21'
+descuento: '27.81'
+titulo: 'Levi s Levis 168ndl Mid Cut Sprtwr Logo '
 ---
 
 Está [Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze  Multicolore  White/Grey 062   43/46  Taglia Produttore: 043  Uomo](https://www.amazon.it/dp/B07VTGCBMN/?tag=tolees00-21) con 27.81 de descuento por 6.49 EUR (original: 8.99 EUR) en el siguiente enlace!

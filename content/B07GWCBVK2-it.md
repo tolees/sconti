@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.79 % en Bilancia Impedenziometrica iTeknic Bilan'
 date: 2020-08-19 12:20:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XCKb-ijIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XCKb-ijIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XCKb-ijIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 52.0 EUR
 inStock: true
 prodname: 'Bilancia Impedenziometrica iTeknic Bilancia Pesa Persona Digitale Massa Grassa Bluetooth Misura Precisa di Peso  Massa Magra  Massa Muscolare  BMI  Massa Ossea per Dispositivi iOS e Android'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07GWCBVK2/?tag=tolees00-21'
+descuento: '30.79'
+titulo: 'Bilancia Impedenziometrica iTeknic Bilan'
 ---
 
 Tienes [Bilancia Impedenziometrica iTeknic Bilancia Pesa Persona Digitale Massa Grassa Bluetooth Misura Precisa di Peso  Massa Magra  Massa Muscolare  BMI  Massa Ossea per Dispositivi iOS e Android](https://www.amazon.it/dp/B07GWCBVK2/?tag=tolees00-21) con un 30.79 % de descuento con precio de oferta de 35.99 EUR (original: 52.0 EUR) en el siguiente enlace!

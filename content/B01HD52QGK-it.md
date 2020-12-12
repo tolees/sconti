@@ -3,6 +3,7 @@ layout: post
 title: 'Osram Lampadina LED Star Pin con attacco al 42.84 % de descuento'
 date: 2020-10-10 14:03:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MRrMTEPDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MRrMTEPDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MRrMTEPDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 6.98 EUR
 inStock: true
 prodname: 'Osram Lampadina LED Star Pin con attacco G4  =28W  luce calda  non dimmerabile  dritta  plastica'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01HD52QGK/?tag=tolees00-21'
+descuento: '42.84'
+titulo: 'Osram Lampadina LED Star Pin con attacco'
 ---
 
 Ahora mismo tienes [Osram Lampadina LED Star Pin con attacco G4  =28W  luce calda  non dimmerabile  dritta  plastica](https://www.amazon.it/dp/B01HD52QGK/?tag=tolees00-21) a 3.99 EUR (original: 6.98 EUR) (42.84 %  de descuento) en el siguiente enlace!

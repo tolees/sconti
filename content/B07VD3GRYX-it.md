@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Washed Stripe Stretch Shirt al 57.31 % de descuento'
 date: 2020-10-10 17:40:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51h46g5TO3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51h46g5TO3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51h46g5TO3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Calvin Klein Washed Stripe Stretch Shirt  f  Camicia  Blu  Night Sky Chw   Medium Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VD3GRYX/?tag=tolees00-21'
+descuento: '57.31'
+titulo: 'Calvin Klein Washed Stripe Stretch Shirt'
 ---
 
 Está [Calvin Klein Washed Stripe Stretch Shirt  f  Camicia  Blu  Night Sky Chw   Medium Uomo](https://www.amazon.it/dp/B07VD3GRYX/?tag=tolees00-21) con 57.31 de descuento por 29.84 EUR (original: 69.9 EUR) en el siguiente enlace!

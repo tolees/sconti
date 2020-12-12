@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.58 % en Kodak Pixpro FZ102-BK Fotocamera digital'
 date: 2020-08-08 07:08:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tnHwF5LmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tnHwF5LmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tnHwF5LmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 132.09 EUR
 inStock: true
 prodname: 'Kodak Pixpro FZ102-BK Fotocamera digitale 16.44 megapixel  zoom Ottico 10X. Batteria al Litio. Colore Nera'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B075QLXNKK/?tag=tolees00-21'
+descuento: '54.58'
+titulo: 'Kodak Pixpro FZ102-BK Fotocamera digital'
 ---
 
 Tienes [Kodak Pixpro FZ102-BK Fotocamera digitale 16.44 megapixel  zoom Ottico 10X. Batteria al Litio. Colore Nera](https://www.amazon.it/dp/B075QLXNKK/?tag=tolees00-21) con un 54.58 % de descuento con precio de oferta de 59.99 EUR (original: 132.09 EUR) en el siguiente enlace!

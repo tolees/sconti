@@ -3,6 +3,7 @@ layout: post
 title: 'TP-Link T9UH Archer Scheda Wireless Dual al 35.26 % de descuento'
 date: 2020-08-25 06:19:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Rie5W507L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Rie5W507L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Rie5W507L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'TP-Link T9UH Archer Scheda Wireless Dual Band AC1900Mbps  4 Antenne Interne  USB 3.0  Pulsante WPS  Beamforming  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MT7D9Q9/?tag=tolees00-21'
+descuento: '35.26'
+titulo: 'TP-Link T9UH Archer Scheda Wireless Dual'
 ---
 
 Ahora mismo tienes [TP-Link T9UH Archer Scheda Wireless Dual Band AC1900Mbps  4 Antenne Interne  USB 3.0  Pulsante WPS  Beamforming  Nero](https://www.amazon.it/dp/B01MT7D9Q9/?tag=tolees00-21) a 38.84 EUR (original: 59.99 EUR) (35.26 %  de descuento) en el siguiente enlace!

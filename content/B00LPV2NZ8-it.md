@@ -3,6 +3,7 @@ layout: post
 title: 'iRobot Batteria Lunga Durata Xlife  Part al 33.34 % de descuento'
 date: 2020-09-25 17:07:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/312iBAGZ0FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312iBAGZ0FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312iBAGZ0FL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'iRobot Batteria Lunga Durata Xlife  Parti Originali  Compatibile con Roomba Serie 600/700/800  Blu'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00LPV2NZ8/?tag=tolees00-21'
+descuento: '33.34'
+titulo: 'iRobot Batteria Lunga Durata Xlife  Part'
 ---
 
 Está [iRobot Batteria Lunga Durata Xlife  Parti Originali  Compatibile con Roomba Serie 600/700/800  Blu](https://www.amazon.it/dp/B00LPV2NZ8/?tag=tolees00-21) con 33.34 de descuento por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

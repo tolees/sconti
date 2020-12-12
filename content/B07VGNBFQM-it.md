@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual Tshirt Devore Black T-Shirt  Ne al 50.05 % de descuento'
 date: 2020-08-05 13:39:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QSFa3rkOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QSFa3rkOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QSFa3rkOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'Desigual Tshirt Devore Black T-Shirt  Nero  Negro 2000   46  Taglia Produttore: Large  Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VGNBFQM/?tag=tolees00-21'
+descuento: '50.05'
+titulo: 'Desigual Tshirt Devore Black T-Shirt  Ne'
 ---
 
 Está [Desigual Tshirt Devore Black T-Shirt  Nero  Negro 2000   46  Taglia Produttore: Large  Donna](https://www.amazon.it/dp/B07VGNBFQM/?tag=tolees00-21) con 50.05 de descuento por 22.95 EUR (original: 45.95 EUR) en el siguiente enlace!

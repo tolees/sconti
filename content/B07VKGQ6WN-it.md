@@ -3,6 +3,7 @@ layout: post
 title: 'Carioca Roller Birello | Astuccio Giallo al 56.12 % de descuento'
 date: 2020-09-03 13:02:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jJWl5LHkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jJWl5LHkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jJWl5LHkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Carioca Roller Birello | Astuccio Giallo con Pennarelli Doppia Punta Super Lavabili  Pennarelli Punta Fine e Punta Media  con Chiusura Velcro  24 Pezzi'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VKGQ6WN/?tag=tolees00-21'
+descuento: '56.12'
+titulo: 'Carioca Roller Birello | Astuccio Giallo'
 ---
 
 Está [Carioca Roller Birello | Astuccio Giallo con Pennarelli Doppia Punta Super Lavabili  Pennarelli Punta Fine e Punta Media  con Chiusura Velcro  24 Pezzi](https://www.amazon.it/dp/B07VKGQ6WN/?tag=tolees00-21) con 56.12 de descuento por 13.12 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.61 % en Boss Tee 4 T-Shirt  Blu  Navy 410   Smal'
 date: 2020-09-19 07:36:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Boss Tee 4 T-Shirt  Blu  Navy 410   Small Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07V7D4XJW/?tag=tolees00-21'
+descuento: '48.61'
+titulo: 'Boss Tee 4 T-Shirt  Blu  Navy 410   Smal'
 ---
 
 Tienes [Boss Tee 4 T-Shirt  Blu  Navy 410   Small Uomo](https://www.amazon.it/dp/B07V7D4XJW/?tag=tolees00-21) con un 48.61 % de descuento con precio de oferta de 30.81 EUR (original: 59.95 EUR) en el siguiente enlace!

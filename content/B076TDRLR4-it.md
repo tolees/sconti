@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Og 85-Old School Cool-699  Scar al 52.32 % de descuento'
 date: 2020-08-21 15:12:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/319FzoFDIAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319FzoFDIAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319FzoFDIAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Skechers Og 85-Old School Cool-699  Scarpe da Ginnastica Basse Donna  Bianco  White Wht   35.5 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B076TDRLR4/?tag=tolees00-21'
+descuento: '52.32'
+titulo: 'Skechers Og 85-Old School Cool-699  Scar'
 ---
 
 Ahora mismo tienes [Skechers Og 85-Old School Cool-699  Scarpe da Ginnastica Basse Donna  Bianco  White Wht   35.5 EU](https://www.amazon.it/dp/B076TDRLR4/?tag=tolees00-21) a 26.2 EUR (original: 54.95 EUR) (52.32 %  de descuento) en el siguiente enlace!

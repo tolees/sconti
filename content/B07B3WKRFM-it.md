@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid Eyewear PLD 2062/S Occhiali da  al 30.65 % de descuento'
 date: 2020-09-05 18:05:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rZSyIO66L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rZSyIO66L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rZSyIO66L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50.5 EUR
 inStock: true
 prodname: 'Polaroid Eyewear PLD 2062/S Occhiali da Sole  Matt HVNA  50 Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07B3WKRFM/?tag=tolees00-21'
+descuento: '30.65'
+titulo: 'Polaroid Eyewear PLD 2062/S Occhiali da '
 ---
 
 Está [Polaroid Eyewear PLD 2062/S Occhiali da Sole  Matt HVNA  50 Uomo](https://www.amazon.it/dp/B07B3WKRFM/?tag=tolees00-21) con 30.65 de descuento por 35.02 EUR (original: 50.5 EUR) en el siguiente enlace!

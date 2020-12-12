@@ -3,6 +3,7 @@ layout: post
 title: 'Goodstè Porta Carte Di Credito Tascabile al 70.34 % de descuento'
 date: 2020-07-20 15:15:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RTghFx9zL._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RTghFx9zL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RTghFx9zL._SL500_._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Goodstè Porta Carte Di Credito Tascabile Portatessere Donna Blocco NFC RFID Protection Mini Portafoglio Uomo Secrid Portamonete Zip/Cerniera Tessere monete schermato Rigido Slim In Pelle  Nero Liscio '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07N48KYHH/?tag=tolees00-21'
+descuento: '70.34'
+titulo: 'Goodstè Porta Carte Di Credito Tascabile'
 ---
 
 Está [Goodstè Porta Carte Di Credito Tascabile Portatessere Donna Blocco NFC RFID Protection Mini Portafoglio Uomo Secrid Portamonete Zip/Cerniera Tessere monete schermato Rigido Slim In Pelle  Nero Liscio ](https://www.amazon.it/dp/B07N48KYHH/?tag=tolees00-21) con 70.34 de descuento por 5.93 EUR (original: 19.99 EUR) en el siguiente enlace!

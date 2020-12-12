@@ -3,6 +3,7 @@ layout: post
 title: 'eXtremeRate Cover Grip Scocca Impugnatur al 50.02 % de descuento'
 date: 2020-09-09 18:52:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41D3q2qD3cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D3q2qD3cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41D3q2qD3cL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'eXtremeRate Cover Grip Scocca Impugnatura Manopola DIY Guscio Case Ricambio per Nintendo Switch Pro Controller Joystick Trasparente Verde -NON Include Controller'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08GM8DV13/?tag=tolees00-21'
+descuento: '50.02'
+titulo: 'eXtremeRate Cover Grip Scocca Impugnatur'
 ---
 
 Ahora mismo tienes [eXtremeRate Cover Grip Scocca Impugnatura Manopola DIY Guscio Case Ricambio per Nintendo Switch Pro Controller Joystick Trasparente Verde -NON Include Controller](https://www.amazon.it/dp/B08GM8DV13/?tag=tolees00-21) a 11.49 EUR (original: 22.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

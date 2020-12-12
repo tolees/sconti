@@ -3,6 +3,7 @@ layout: post
 title: 'Sega a Gattuccio Brushless  POPOMAN 18V  al 40.00 % de descuento'
 date: 2020-08-26 07:29:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51V7qus8pEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51V7qus8pEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51V7qus8pEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Sega a Gattuccio Brushless  POPOMAN 18V Sega Universale con LED  4000mAh Batterie  Caricabatterie Veloce  Corsa di Taglio 28 mm  Velocità 0-2500 SPM  2 Lame per Taglio Legno e Metallo - MTW200B'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B084D7JVV6/?tag=tolees00-21'
+descuento: '40.00'
+titulo: 'Sega a Gattuccio Brushless  POPOMAN 18V '
 ---
 
 Está [Sega a Gattuccio Brushless  POPOMAN 18V Sega Universale con LED  4000mAh Batterie  Caricabatterie Veloce  Corsa di Taglio 28 mm  Velocità 0-2500 SPM  2 Lame per Taglio Legno e Metallo - MTW200B](https://www.amazon.it/dp/B084D7JVV6/?tag=tolees00-21) con 40.00 de descuento por 119.99 EUR (original: 199.99 EUR) en el siguiente enlace!

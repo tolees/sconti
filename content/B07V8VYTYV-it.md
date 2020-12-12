@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.88 % en Enterogermina Gonfiore Integratore alime'
 date: 2020-07-19 12:10:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Eex7FL+iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Eex7FL+iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Eex7FL+iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.9 EUR
 inStock: true
 prodname: 'Enterogermina Gonfiore Integratore alimentare contro il gonfiore addominale  10 bustine da 2+2 g  senza lattosio e senza glutine'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07V8VYTYV/?tag=tolees00-21'
+descuento: '52.88'
+titulo: 'Enterogermina Gonfiore Integratore alime'
 ---
 
 Tienes [Enterogermina Gonfiore Integratore alimentare contro il gonfiore addominale  10 bustine da 2+2 g  senza lattosio e senza glutine](https://www.amazon.it/dp/B07V8VYTYV/?tag=tolees00-21) con un 52.88 % de descuento con precio de oferta de 6.55 EUR (original: 13.9 EUR) en el siguiente enlace!

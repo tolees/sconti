@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Relaxed Graphic Hoodie Cappuccio  al 65.77 % de descuento'
 date: 2020-09-02 17:32:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L3+OVvpuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L3+OVvpuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L3+OVvpuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75.0 EUR
 inStock: true
 prodname: 'Levi s Relaxed Graphic Hoodie Cappuccio  Nero  90 s Serif Logo Pop Mineral Black 0018   X-Large Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07S2S5SK2/?tag=tolees00-21'
+descuento: '65.77'
+titulo: 'Levi s Relaxed Graphic Hoodie Cappuccio '
 ---
 
 Está [Levi s Relaxed Graphic Hoodie Cappuccio  Nero  90 s Serif Logo Pop Mineral Black 0018   X-Large Uomo](https://www.amazon.it/dp/B07S2S5SK2/?tag=tolees00-21) con 65.77 de descuento por 25.67 EUR (original: 75.0 EUR) en el siguiente enlace!

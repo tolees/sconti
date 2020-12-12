@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech M330 Silent Plus Mouse Wireless al 51.23 % de descuento'
 date: 2020-09-03 09:34:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YJOlYFzWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YJOlYFzWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YJOlYFzWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40.99 EUR
 inStock: true
 prodname: 'Logitech M330 Silent Plus Mouse Wireless  2.4 GHz con Ricevitore USB Nano  1 000 DPI  3 Pulsanti  Batteria Lunga Durata Fino a 24 Mesi  PC/Mac/Laptop  Rosso'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01K7GEA3O/?tag=tolees00-21'
+descuento: '51.23'
+titulo: 'Logitech M330 Silent Plus Mouse Wireless'
 ---
 
 Ahora mismo tienes [Logitech M330 Silent Plus Mouse Wireless  2.4 GHz con Ricevitore USB Nano  1 000 DPI  3 Pulsanti  Batteria Lunga Durata Fino a 24 Mesi  PC/Mac/Laptop  Rosso](https://www.amazon.it/dp/B01K7GEA3O/?tag=tolees00-21) a 19.99 EUR (original: 40.99 EUR) (51.23 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.39 % en Risoli Piastra Adattatore Per Induzione '
 date: 2020-10-10 14:03:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pCglWH+zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pCglWH+zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pCglWH+zL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.0 EUR
 inStock: true
 prodname: 'Risoli Piastra Adattatore Per Induzione  Diametro 260 Mm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00TRTL6D0/?tag=tolees00-21'
+descuento: '30.39'
+titulo: 'Risoli Piastra Adattatore Per Induzione '
 ---
 
 Tienes [Risoli Piastra Adattatore Per Induzione  Diametro 260 Mm](https://www.amazon.it/dp/B00TRTL6D0/?tag=tolees00-21) con un 30.39 % de descuento con precio de oferta de 19.49 EUR (original: 28.0 EUR) en el siguiente enlace!

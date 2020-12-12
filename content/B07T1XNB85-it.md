@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.48 % en Cornice digitale'
 date: 2020-09-28 10:31:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uqATUS-aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uqATUS-aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uqATUS-aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.88 EUR
 inStock: true
 prodname: 'Cornice digitale'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21'
+descuento: '63.48'
+titulo: 'Cornice digitale'
 ---
 
 Tienes [Cornice digitale](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21) con un 63.48 % de descuento con precio de oferta de 21.87 EUR (original: 59.88 EUR) en el siguiente enlace!

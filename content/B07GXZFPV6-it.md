@@ -3,6 +3,7 @@ layout: post
 title: 'Olimpia Splendid 99409 Caldo Crystal Ter al 39.97 % de descuento'
 date: 2020-09-27 11:58:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/312BTHL3jJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312BTHL3jJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312BTHL3jJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.9 EUR
 inStock: true
 prodname: 'Olimpia Splendid 99409 Caldo Crystal Termoventilatore Ceramico a Parete con Ionizzatore  ProtezioneIP23 e Telecomando  2000 W  230 V  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07GXZFPV6/?tag=tolees00-21'
+descuento: '39.97'
+titulo: 'Olimpia Splendid 99409 Caldo Crystal Ter'
 ---
 
 Está [Olimpia Splendid 99409 Caldo Crystal Termoventilatore Ceramico a Parete con Ionizzatore  ProtezioneIP23 e Telecomando  2000 W  230 V  Nero](https://www.amazon.it/dp/B07GXZFPV6/?tag=tolees00-21) con 39.97 de descuento por 77.98 EUR (original: 129.9 EUR) en el siguiente enlace!

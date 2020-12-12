@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.73 % en Rybozen Switch KVM 4K HDMI Switch 2 Port'
 date: 2020-08-18 16:19:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JFHGFIQiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JFHGFIQiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JFHGFIQiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 57.38 EUR
 inStock: true
 prodname: 'Rybozen Switch KVM 4K HDMI Switch 2 Port Box Tastiera Mouse Switcher Include 2 Cavi USB Type-B Supporto 4k @ 30HZ 3D per Laptop PS4 Xbox One HDTV Monitor'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08FBDD37B/?tag=tolees00-21'
+descuento: '47.73'
+titulo: 'Rybozen Switch KVM 4K HDMI Switch 2 Port'
 ---
 
 Tienes [Rybozen Switch KVM 4K HDMI Switch 2 Port Box Tastiera Mouse Switcher Include 2 Cavi USB Type-B Supporto 4k @ 30HZ 3D per Laptop PS4 Xbox One HDTV Monitor](https://www.amazon.it/dp/B08FBDD37B/?tag=tolees00-21) con un 47.73 % de descuento con precio de oferta de 29.99 EUR (original: 57.38 EUR) en el siguiente enlace!

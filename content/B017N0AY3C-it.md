@@ -3,6 +3,7 @@ layout: post
 title: '100 Cialde Capsule caffè ROSSOMOKA Espre al 50.02 % de descuento'
 date: 2020-07-30 06:42:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51HF0lkuGIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HF0lkuGIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51HF0lkuGIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: '100 Cialde Capsule caffè ROSSOMOKA Espresso compatibili NESPRESSO gusto INTENSO'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B017N0AY3C/?tag=tolees00-21'
+descuento: '50.02'
+titulo: '100 Cialde Capsule caffè ROSSOMOKA Espre'
 ---
 
 Ahora mismo tienes [100 Cialde Capsule caffè ROSSOMOKA Espresso compatibili NESPRESSO gusto INTENSO](https://www.amazon.it/dp/B017N0AY3C/?tag=tolees00-21) a 13.99 EUR (original: 27.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste PH4014  Polo Uomo  Nero  Noir    al 56.71 % de descuento'
 date: 2020-10-09 06:41:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vRz4Jj35L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vRz4Jj35L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vRz4Jj35L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 105.0 EUR
 inStock: true
 prodname: 'Lacoste PH4014  Polo Uomo  Nero  Noir   Small  Taglia Produttore: 3 '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00Y4XUOYQ/?tag=tolees00-21'
+descuento: '56.71'
+titulo: 'Lacoste PH4014  Polo Uomo  Nero  Noir   '
 ---
 
 Está [Lacoste PH4014  Polo Uomo  Nero  Noir   Small  Taglia Produttore: 3 ](https://www.amazon.it/dp/B00Y4XUOYQ/?tag=tolees00-21) con 56.71 de descuento por 45.45 EUR (original: 105.0 EUR) en el siguiente enlace!

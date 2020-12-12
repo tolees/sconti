@@ -3,6 +3,7 @@ layout: post
 title: 'Hard Disk 2 TB Esterno Hard Disk Esterno al 37.38 % de descuento'
 date: 2020-07-20 05:17:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cqDf3Yy7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cqDf3Yy7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cqDf3Yy7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Argento '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08BHLRYG6/?tag=tolees00-21'
+descuento: '37.38'
+titulo: 'Hard Disk 2 TB Esterno Hard Disk Esterno'
 ---
 
 Ahora mismo tienes [Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Argento ](https://www.amazon.it/dp/B08BHLRYG6/?tag=tolees00-21) a 61.99 EUR (original: 99.0 EUR) (37.38 %  de descuento) en el siguiente enlace!

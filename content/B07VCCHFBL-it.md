@@ -3,6 +3,7 @@ layout: post
 title: 'NAPAPIJRI Elbas 3 Polo  Verde  Green Way al 30.24 % de descuento'
 date: 2020-08-19 09:32:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Fzh--RroL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fzh--RroL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Fzh--RroL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.45 EUR
 inStock: true
 prodname: 'NAPAPIJRI Elbas 3 Polo  Verde  Green Way Gw11   Medium Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VCCHFBL/?tag=tolees00-21'
+descuento: '30.24'
+titulo: 'NAPAPIJRI Elbas 3 Polo  Verde  Green Way'
 ---
 
 Está [NAPAPIJRI Elbas 3 Polo  Verde  Green Way Gw11   Medium Uomo](https://www.amazon.it/dp/B07VCCHFBL/?tag=tolees00-21) con 30.24 de descuento por 19.15 EUR (original: 27.45 EUR) en el siguiente enlace!

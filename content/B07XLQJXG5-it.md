@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.92 % en Tristar FR-6998 Forno per friggere  1500'
 date: 2020-10-06 21:40:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41raMgThH7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41raMgThH7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41raMgThH7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 112.99 EUR
 inStock: true
 prodname: 'Tristar FR-6998 Forno per friggere  1500 W  10 Litri  Plastica'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07XLQJXG5/?tag=tolees00-21'
+descuento: '25.92'
+titulo: 'Tristar FR-6998 Forno per friggere  1500'
 ---
 
 Tienes [Tristar FR-6998 Forno per friggere  1500 W  10 Litri  Plastica](https://www.amazon.it/dp/B07XLQJXG5/?tag=tolees00-21) con un 25.92 % de descuento con precio de oferta de 83.7 EUR (original: 112.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES JJIBOWIE JJSHORTS Solid SA  al 42.87 % de descuento'
 date: 2020-08-12 16:46:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31r-dovkUoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31r-dovkUoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31r-dovkUoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini  Drizzle  M Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B083ZS5VJ9/?tag=tolees00-21'
+descuento: '42.87'
+titulo: 'JACK & JONES JJIBOWIE JJSHORTS Solid SA '
 ---
 
 Está [JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini  Drizzle  M Uomo](https://www.amazon.it/dp/B083ZS5VJ9/?tag=tolees00-21) con 42.87 de descuento por 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!

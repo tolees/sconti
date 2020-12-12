@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.74 % en Dash Detersivo Lavatrice Liquido Primave'
 date: 2020-09-27 08:38:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UUa9ovD5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UUa9ovD5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UUa9ovD5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.92 EUR
 inStock: true
 prodname: 'Dash Detersivo Lavatrice Liquido Primavera  Formato Convenienza 95 Lavaggi  5 Confezioni da 19 Lavaggi'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08DDN6S7R/?tag=tolees00-21'
+descuento: '25.74'
+titulo: 'Dash Detersivo Lavatrice Liquido Primave'
 ---
 
 Tienes [Dash Detersivo Lavatrice Liquido Primavera  Formato Convenienza 95 Lavaggi  5 Confezioni da 19 Lavaggi](https://www.amazon.it/dp/B08DDN6S7R/?tag=tolees00-21) con un 25.74 % de descuento con precio de oferta de 19.99 EUR (original: 26.92 EUR) en el siguiente enlace!

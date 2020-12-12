@@ -3,6 +3,7 @@ layout: post
 title: 'Veet Men  Crema Depilatoria Uomo  Pelli  al 53.25 % de descuento'
 date: 2020-07-21 10:05:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vzt3KMR1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vzt3KMR1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vzt3KMR1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Veet Men  Crema Depilatoria Uomo  Pelli Normali  200 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00KX3PF22/?tag=tolees00-21'
+descuento: '53.25'
+titulo: 'Veet Men  Crema Depilatoria Uomo  Pelli '
 ---
 
 Está [Veet Men  Crema Depilatoria Uomo  Pelli Normali  200 ml](https://www.amazon.it/dp/B00KX3PF22/?tag=tolees00-21) con 53.25 de descuento por 4.67 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'BAITITON NVME 120GB Unità SSD M.2 2280 P al 26.29 % de descuento'
 date: 2020-10-03 20:22:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T0KUB2bQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T0KUB2bQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T0KUB2bQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.19 EUR
 inStock: true
 prodname: 'BAITITON NVME 120GB Unità SSD M.2 2280 PCIe Express GEN3.0x4 Unità a Stato Solido Interno Lettura 1800MB/s  Scrittura 600MB/s'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08GNZJ93V/?tag=tolees00-21'
+descuento: '26.29'
+titulo: 'BAITITON NVME 120GB Unità SSD M.2 2280 P'
 ---
 
 Ahora mismo tienes [BAITITON NVME 120GB Unità SSD M.2 2280 PCIe Express GEN3.0x4 Unità a Stato Solido Interno Lettura 1800MB/s  Scrittura 600MB/s](https://www.amazon.it/dp/B08GNZJ93V/?tag=tolees00-21) a 22.99 EUR (original: 31.19 EUR) (26.29 %  de descuento) en el siguiente enlace!

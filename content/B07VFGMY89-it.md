@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.38 % en NAPAPIJRI Eovico Polo  Bianco  Bright Wh'
 date: 2020-08-19 16:35:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BK4WmclyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BK4WmclyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BK4WmclyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.95 EUR
 inStock: true
 prodname: 'NAPAPIJRI Eovico Polo  Bianco  Bright White 0021   X-Large Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VFGMY89/?tag=tolees00-21'
+descuento: '33.38'
+titulo: 'NAPAPIJRI Eovico Polo  Bianco  Bright Wh'
 ---
 
 Tienes [NAPAPIJRI Eovico Polo  Bianco  Bright White 0021   X-Large Uomo](https://www.amazon.it/dp/B07VFGMY89/?tag=tolees00-21) con un 33.38 % de descuento con precio de oferta de 25.95 EUR (original: 38.95 EUR) en el siguiente enlace!

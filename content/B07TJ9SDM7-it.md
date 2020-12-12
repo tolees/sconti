@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s LS Battery HM Shirt Slim Camicia  al 50.02 % de descuento'
 date: 2020-10-07 06:17:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41roCUEXYzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41roCUEXYzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41roCUEXYzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60.0 EUR
 inStock: true
 prodname: 'Levi s LS Battery HM Shirt Slim Camicia  Blu  Redcast Stone Mid Flat T2 H2 19 0004   Medium Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TJ9SDM7/?tag=tolees00-21'
+descuento: '50.02'
+titulo: 'Levi s LS Battery HM Shirt Slim Camicia '
 ---
 
 Ahora mismo tienes [Levi s LS Battery HM Shirt Slim Camicia  Blu  Redcast Stone Mid Flat T2 H2 19 0004   Medium Uomo](https://www.amazon.it/dp/B07TJ9SDM7/?tag=tolees00-21) a 29.99 EUR (original: 60.0 EUR) (50.02 %  de descuento) en el siguiente enlace!

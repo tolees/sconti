@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.61 % en Geox U Nebula Y A  Scarpe da Ginnastica '
 date: 2020-08-30 16:11:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/313MEKTLvVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313MEKTLvVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313MEKTLvVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.9 EUR
 inStock: true
 prodname: 'Geox U Nebula Y A  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4002   41 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07T4K6GJ4/?tag=tolees00-21'
+descuento: '57.61'
+titulo: 'Geox U Nebula Y A  Scarpe da Ginnastica '
 ---
 
 Tienes [Geox U Nebula Y A  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4002   41 EU](https://www.amazon.it/dp/B07T4K6GJ4/?tag=tolees00-21) con un 57.61 % de descuento con precio de oferta de 55.07 EUR (original: 129.9 EUR) en el siguiente enlace!

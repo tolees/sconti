@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.65 % en Lenor Ammorbidente Risveglio Primaverile'
 date: 2020-10-10 15:02:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/514lOJRKF+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514lOJRKF+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514lOJRKF+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Lenor Ammorbidente Risveglio Primaverile 208 Lavaggi  Maxi Formato 8 x 26 Lavaggi'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0722GZMD1/?tag=tolees00-21'
+descuento: '42.65'
+titulo: 'Lenor Ammorbidente Risveglio Primaverile'
 ---
 
 Tienes [Lenor Ammorbidente Risveglio Primaverile 208 Lavaggi  Maxi Formato 8 x 26 Lavaggi](https://www.amazon.it/dp/B0722GZMD1/?tag=tolees00-21) con un 42.65 % de descuento con precio de oferta de 10.89 EUR (original: 18.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.70 % en Elegoo Scheda Starter Ultimate Kit Piu C'
 date: 2020-09-01 06:34:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/61OH+VUDlsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61OH+VUDlsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61OH+VUDlsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 145.99 EUR
 inStock: true
 prodname: 'Elegoo Scheda Starter Ultimate Kit Piu Completo per Progetto Principianti con Tutorial in Italiano Learning Kit di Apprendimento Compatibile con progetti IDE Arduino 63 Articoli '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01JJ23CI6/?tag=tolees00-21'
+descuento: '63.70'
+titulo: 'Elegoo Scheda Starter Ultimate Kit Piu C'
 ---
 
 Tienes [Elegoo Scheda Starter Ultimate Kit Piu Completo per Progetto Principianti con Tutorial in Italiano Learning Kit di Apprendimento Compatibile con progetti IDE Arduino 63 Articoli ](https://www.amazon.it/dp/B01JJ23CI6/?tag=tolees00-21) con un 63.70 % de descuento con precio de oferta de 52.99 EUR (original: 145.99 EUR) en el siguiente enlace!

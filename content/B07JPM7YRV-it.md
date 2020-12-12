@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Tiro 19  Maglia da Allenamento Uo al 57.06 % de descuento'
 date: 2020-10-08 12:18:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41px9bichTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41px9bichTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41px9bichTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Tiro 19  Maglia da Allenamento Uomo  Dark Blue/Bold Blue/White  S'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07JPM7YRV/?tag=tolees00-21'
+descuento: '57.06'
+titulo: 'adidas Tiro 19  Maglia da Allenamento Uo'
 ---
 
 Ahora mismo tienes [adidas Tiro 19  Maglia da Allenamento Uomo  Dark Blue/Bold Blue/White  S](https://www.amazon.it/dp/B07JPM7YRV/?tag=tolees00-21) a 21.45 EUR (original: 49.95 EUR) (57.06 %  de descuento) en el siguiente enlace!

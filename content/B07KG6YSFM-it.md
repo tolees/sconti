@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Ralph Sampson Lo  Scarpe da Ginnast al 31.27 % de descuento'
 date: 2020-10-01 20:07:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Bianca Wht-Peacoat Wht  41 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KG6YSFM/?tag=tolees00-21'
+descuento: '31.27'
+titulo: 'PUMA Ralph Sampson Lo  Scarpe da Ginnast'
 ---
 
 Está [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Bianca Wht-Peacoat Wht  41 EU](https://www.amazon.it/dp/B07KG6YSFM/?tag=tolees00-21) con 31.27 de descuento por 54.95 EUR (original: 79.95 EUR) en el siguiente enlace!

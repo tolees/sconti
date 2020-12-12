@@ -3,6 +3,7 @@ layout: post
 title: 'Oral-B Testine di Ricambio KIDS Frozen p al 37.37 % de descuento'
 date: 2020-09-06 09:56:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51M0qymqmDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51M0qymqmDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51M0qymqmDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Oral-B Testine di Ricambio KIDS Frozen per Spazzolino Elettrico Ricaricabile  Confezione da 8'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RQV3CYK/?tag=tolees00-21'
+descuento: '37.37'
+titulo: 'Oral-B Testine di Ricambio KIDS Frozen p'
 ---
 
 Está [Oral-B Testine di Ricambio KIDS Frozen per Spazzolino Elettrico Ricaricabile  Confezione da 8](https://www.amazon.it/dp/B07RQV3CYK/?tag=tolees00-21) con 37.37 de descuento por 24.99 EUR (original: 39.9 EUR) en el siguiente enlace!

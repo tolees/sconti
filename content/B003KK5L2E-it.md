@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban RB3025 Aviator Occhiali da Sole  al 60.38 % de descuento'
 date: 2020-08-08 09:06:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dTVa0qnQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dTVa0qnQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dTVa0qnQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 212.0 EUR
 inStock: true
 prodname: 'Ray-Ban RB3025 Aviator Occhiali da Sole Unisex Adulto  Oro  Gold 001/3F   58 mm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B003KK5L2E/?tag=tolees00-21'
+descuento: '60.38'
+titulo: 'Ray-Ban RB3025 Aviator Occhiali da Sole '
 ---
 
 Está [Ray-Ban RB3025 Aviator Occhiali da Sole Unisex Adulto  Oro  Gold 001/3F   58 mm](https://www.amazon.it/dp/B003KK5L2E/?tag=tolees00-21) con 60.38 de descuento por 84.0 EUR (original: 212.0 EUR) en el siguiente enlace!

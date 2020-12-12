@@ -3,6 +3,7 @@ layout: post
 title: 'NAPAPIJRI Burgee 2 Felpa con Cappuccio   al 66.90 % de descuento'
 date: 2020-09-09 16:54:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WRw9MWSvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WRw9MWSvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WRw9MWSvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'NAPAPIJRI Burgee 2 Felpa con Cappuccio  Viola  Purple Wine V01   XXS Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MGFRSG1/?tag=tolees00-21'
+descuento: '66.90'
+titulo: 'NAPAPIJRI Burgee 2 Felpa con Cappuccio  '
 ---
 
 Ahora mismo tienes [NAPAPIJRI Burgee 2 Felpa con Cappuccio  Viola  Purple Wine V01   XXS Uomo](https://www.amazon.it/dp/B07MGFRSG1/?tag=tolees00-21) a 32.77 EUR (original: 99.0 EUR) (66.90 %  de descuento) en el siguiente enlace!

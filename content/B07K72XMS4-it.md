@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Original HM Tee Maglietta a Manic al 37.17 % de descuento'
 date: 2020-10-03 10:16:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iR6KXnbIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iR6KXnbIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iR6KXnbIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35.0 EUR
 inStock: true
 prodname: 'Levi s Original HM Tee Maglietta a Maniche Lunghe  Blu  LS Cotton + Patch Dress Blues 0001   X-Large Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07K72XMS4/?tag=tolees00-21'
+descuento: '37.17'
+titulo: 'Levi s Original HM Tee Maglietta a Manic'
 ---
 
 Ahora mismo tienes [Levi s Original HM Tee Maglietta a Maniche Lunghe  Blu  LS Cotton + Patch Dress Blues 0001   X-Large Uomo](https://www.amazon.it/dp/B07K72XMS4/?tag=tolees00-21) a 21.99 EUR (original: 35.0 EUR) (37.17 %  de descuento) en el siguiente enlace!

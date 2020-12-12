@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.39 % en Hape- Race to The Finish Marble Run Game'
 date: 2020-09-12 10:19:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zx0FrvyFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zx0FrvyFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zx0FrvyFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.67 EUR
 inStock: true
 prodname: 'Hape- Race to The Finish Marble Run Game  Multicolore  E6021'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B079NLL5RC/?tag=tolees00-21'
+descuento: '28.39'
+titulo: 'Hape- Race to The Finish Marble Run Game'
 ---
 
 Tienes [Hape- Race to The Finish Marble Run Game  Multicolore  E6021](https://www.amazon.it/dp/B079NLL5RC/?tag=tolees00-21) con un 28.39 % de descuento con precio de oferta de 24.11 EUR (original: 33.67 EUR) en el siguiente enlace!

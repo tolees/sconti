@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Orologio Analogico Quarzo Uomo co al 48.36 % de descuento'
 date: 2020-10-01 06:30:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/311c043IW9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311c043IW9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311c043IW9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 122.0 EUR
 inStock: true
 prodname: 'Diesel Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile DZ1436'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21'
+descuento: '48.36'
+titulo: 'Diesel Orologio Analogico Quarzo Uomo co'
 ---
 
 Ahora mismo tienes [Diesel Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile DZ1436](https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21) a 63.0 EUR (original: 122.0 EUR) (48.36 %  de descuento) en el siguiente enlace!

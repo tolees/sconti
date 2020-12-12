@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Slim Logo Metallic  Infradito  al 40.00 % de descuento'
 date: 2020-08-18 19:10:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/315fe7nvBXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315fe7nvBXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315fe7nvBXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30.0 EUR
 inStock: true
 prodname: 'Havaianas Slim Logo Metallic  Infradito Donna  Grigio  Steel Grey/Rainbow Grey Glitter 7864   39/40 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SHTTPMN/?tag=tolees00-21'
+descuento: '40.00'
+titulo: 'Havaianas Slim Logo Metallic  Infradito '
 ---
 
 Está [Havaianas Slim Logo Metallic  Infradito Donna  Grigio  Steel Grey/Rainbow Grey Glitter 7864   39/40 EU](https://www.amazon.it/dp/B07SHTTPMN/?tag=tolees00-21) con 40.00 de descuento por 18.0 EUR (original: 30.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.23 % en Chanel  Coco - Eau De Toilette Spray  Do'
 date: 2020-07-26 09:37:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EBePN8g5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EBePN8g5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EBePN8g5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109.0 EUR
 inStock: true
 prodname: 'Chanel  Coco - Eau De Toilette Spray  Donna  100 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B000GHWSFW/?tag=tolees00-21'
+descuento: '60.23'
+titulo: 'Chanel  Coco - Eau De Toilette Spray  Do'
 ---
 
 Tienes [Chanel  Coco - Eau De Toilette Spray  Donna  100 ml](https://www.amazon.it/dp/B000GHWSFW/?tag=tolees00-21) con un 60.23 % de descuento con precio de oferta de 43.35 EUR (original: 109.0 EUR) en el siguiente enlace!

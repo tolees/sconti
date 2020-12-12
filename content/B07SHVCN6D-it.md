@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Rush HeatGear Compression M al 29.28 % de descuento'
 date: 2020-08-30 18:48:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31h3WExj2ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31h3WExj2ML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31h3WExj2ML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Under Armour Rush HeatGear Compression Maglietta A Maniche Corte  Uomo  Nero  SM'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SHVCN6D/?tag=tolees00-21'
+descuento: '29.28'
+titulo: 'Under Armour Rush HeatGear Compression M'
 ---
 
 Está [Under Armour Rush HeatGear Compression Maglietta A Maniche Corte  Uomo  Nero  SM](https://www.amazon.it/dp/B07SHVCN6D/?tag=tolees00-21) con 29.28 de descuento por 31.79 EUR (original: 44.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Birra Peroni Gran Riserva Bianca - Birra al 35.29 % de descuento'
 date: 2020-09-10 06:44:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/416M7mg6adL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416M7mg6adL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416M7mg6adL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.36 EUR
 inStock: true
 prodname: 'Birra Peroni Gran Riserva Bianca - Birra Italiana Premium - 12 Bottiglie x 50 cl  6 litri '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07XY8S79C/?tag=tolees00-21'
+descuento: '35.29'
+titulo: 'Birra Peroni Gran Riserva Bianca - Birra'
 ---
 
 Está [Birra Peroni Gran Riserva Bianca - Birra Italiana Premium - 12 Bottiglie x 50 cl  6 litri ](https://www.amazon.it/dp/B07XY8S79C/?tag=tolees00-21) con 35.29 de descuento por 11.88 EUR (original: 18.36 EUR) en el siguiente enlace!

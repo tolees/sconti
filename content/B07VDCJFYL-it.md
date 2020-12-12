@@ -3,6 +3,7 @@ layout: post
 title: 'NAPAPIJRI Bishop Fzh Cappuccio  Rosso  B al 70.00 % de descuento'
 date: 2020-10-03 06:55:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RLFs5gOQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RLFs5gOQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RLFs5gOQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 179.0 EUR
 inStock: true
 prodname: 'NAPAPIJRI Bishop Fzh Cappuccio  Rosso  Bright Red R471   Small Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VDCJFYL/?tag=tolees00-21'
+descuento: '70.00'
+titulo: 'NAPAPIJRI Bishop Fzh Cappuccio  Rosso  B'
 ---
 
 Está [NAPAPIJRI Bishop Fzh Cappuccio  Rosso  Bright Red R471   Small Uomo](https://www.amazon.it/dp/B07VDCJFYL/?tag=tolees00-21) con 70.00 de descuento por 53.7 EUR (original: 179.0 EUR) en el siguiente enlace!

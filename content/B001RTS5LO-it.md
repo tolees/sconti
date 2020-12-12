@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.28 % en Lagostina I Cucinieri Rotella Pizza con '
 date: 2020-08-10 14:37:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/21vL823qFCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21vL823qFCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21vL823qFCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.9 EUR
 inStock: true
 prodname: 'Lagostina I Cucinieri Rotella Pizza con Anello  Acciaio Inox 18/10  21 cm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B001RTS5LO/?tag=tolees00-21'
+descuento: '46.28'
+titulo: 'Lagostina I Cucinieri Rotella Pizza con '
 ---
 
 Tienes [Lagostina I Cucinieri Rotella Pizza con Anello  Acciaio Inox 18/10  21 cm](https://www.amazon.it/dp/B001RTS5LO/?tag=tolees00-21) con un 46.28 % de descuento con precio de oferta de 6.93 EUR (original: 12.9 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Pacific Rim  4K Ultra HD + Blu-Ray  al 50.32 % de descuento'
 date: 2020-09-22 20:26:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Pt77yFSHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Pt77yFSHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Pt77yFSHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Pacific Rim  4K Ultra HD + Blu-Ray '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01LASZ1V8/?tag=tolees00-21'
+descuento: '50.32'
+titulo: 'Pacific Rim  4K Ultra HD + Blu-Ray '
 ---
 
 Está [Pacific Rim  4K Ultra HD + Blu-Ray ](https://www.amazon.it/dp/B01LASZ1V8/?tag=tolees00-21) con 50.32 de descuento por 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

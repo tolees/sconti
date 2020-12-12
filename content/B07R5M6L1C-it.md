@@ -3,6 +3,7 @@ layout: post
 title: 'Tester di Rete e Cavi Telefonici  Tackli al 30.01 % de descuento'
 date: 2020-07-23 14:01:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/515H0DTl01L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515H0DTl01L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515H0DTl01L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Tester di Rete e Cavi Telefonici  Tacklife CT03 Rilevatore di Rete e Cavi Telefonici RJ45/RJ11 Verifica del cablaggio con Cuffie e L avviso con Recettore e Trasmettitore'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07R5M6L1C/?tag=tolees00-21'
+descuento: '30.01'
+titulo: 'Tester di Rete e Cavi Telefonici  Tackli'
 ---
 
 Está [Tester di Rete e Cavi Telefonici  Tacklife CT03 Rilevatore di Rete e Cavi Telefonici RJ45/RJ11 Verifica del cablaggio con Cuffie e L avviso con Recettore e Trasmettitore](https://www.amazon.it/dp/B07R5M6L1C/?tag=tolees00-21) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

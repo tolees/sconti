@@ -3,6 +3,7 @@ layout: post
 title: 'Sandisk Ultra Flair 128 GB  Chiavetta US al 63.30 % de descuento'
 date: 2020-10-11 02:11:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uMfxnNmYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uMfxnNmYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uMfxnNmYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 57.99 EUR
 inStock: true
 prodname: 'Sandisk Ultra Flair 128 GB  Chiavetta USB 3.0  Velocità di Lettura fino a 150 MB/s  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B015CH1PJU/?tag=tolees00-21'
+descuento: '63.30'
+titulo: 'Sandisk Ultra Flair 128 GB  Chiavetta US'
 ---
 
 Está [Sandisk Ultra Flair 128 GB  Chiavetta USB 3.0  Velocità di Lettura fino a 150 MB/s  Nero](https://www.amazon.it/dp/B015CH1PJU/?tag=tolees00-21) con 63.30 de descuento por 21.28 EUR (original: 57.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.59 % en Body & Earth Set Bagno Donna Confezione '
 date: 2020-09-04 10:58:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51b7brWbpAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51b7brWbpAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51b7brWbpAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Body & Earth Set Bagno Donna Confezione Regalo  Kit da Bagno o Doccia in 6 Pezzi  Cofanetto Regalo per Compleanno o Feste- Profumo Lavanda'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07CKTJF17/?tag=tolees00-21'
+descuento: '41.59'
+titulo: 'Body & Earth Set Bagno Donna Confezione '
 ---
 
 Tienes [Body & Earth Set Bagno Donna Confezione Regalo  Kit da Bagno o Doccia in 6 Pezzi  Cofanetto Regalo per Compleanno o Feste- Profumo Lavanda](https://www.amazon.it/dp/B07CKTJF17/?tag=tolees00-21) con un 41.59 % de descuento con precio de oferta de 9.34 EUR (original: 15.99 EUR) en el siguiente enlace!

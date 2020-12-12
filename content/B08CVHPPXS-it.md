@@ -3,6 +3,7 @@ layout: post
 title: 'Hard Disk Esterno  Hard Disk 2 tb Estern al 26.45 % de descuento'
 date: 2020-08-20 04:04:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/21-o91unJHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21-o91unJHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21-o91unJHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 87.0 EUR
 inStock: true
 prodname: 'Hard Disk Esterno  Hard Disk 2 tb Esterno USB3.1/Type C Hard Disk per Mac  PC  PS4  Desktop  Laptop  MacBook  Xbox One  2TB Nero '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08CVHPPXS/?tag=tolees00-21'
+descuento: '26.45'
+titulo: 'Hard Disk Esterno  Hard Disk 2 tb Estern'
 ---
 
 Ahora mismo tienes [Hard Disk Esterno  Hard Disk 2 tb Esterno USB3.1/Type C Hard Disk per Mac  PC  PS4  Desktop  Laptop  MacBook  Xbox One  2TB Nero ](https://www.amazon.it/dp/B08CVHPPXS/?tag=tolees00-21) a 63.99 EUR (original: 87.0 EUR) (26.45 %  de descuento) en el siguiente enlace!

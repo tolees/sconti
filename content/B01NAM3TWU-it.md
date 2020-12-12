@@ -3,6 +3,7 @@ layout: post
 title: 'The Accountant  4K+ Br+ Copia Digitale   al 50.32 % de descuento'
 date: 2020-09-22 20:27:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jB5jtHkLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jB5jtHkLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jB5jtHkLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'The Accountant  4K+ Br+ Copia Digitale  '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01NAM3TWU/?tag=tolees00-21'
+descuento: '50.32'
+titulo: 'The Accountant  4K+ Br+ Copia Digitale  '
 ---
 
 Está [The Accountant  4K+ Br+ Copia Digitale  ](https://www.amazon.it/dp/B01NAM3TWU/?tag=tolees00-21) con 50.32 de descuento por 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

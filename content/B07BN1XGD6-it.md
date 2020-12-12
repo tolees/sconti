@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Filmore  Scarpe da Ginnastica Uomo  al 41.17 % de descuento'
 date: 2020-08-18 12:05:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PJDLpWFNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PJDLpWFNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PJDLpWFNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Dress Blues/Vintage Indigo T2L  43 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07BN1XGD6/?tag=tolees00-21'
+descuento: '41.17'
+titulo: 'Vans Filmore  Scarpe da Ginnastica Uomo '
 ---
 
 Ahora mismo tienes [Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Dress Blues/Vintage Indigo T2L  43 EU](https://www.amazon.it/dp/B07BN1XGD6/?tag=tolees00-21) a 38.24 EUR (original: 65.0 EUR) (41.17 %  de descuento) en el siguiente enlace!

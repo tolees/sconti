@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Sandal Karly Girl D  Punta Aperta al 52.07 % de descuento'
 date: 2020-08-24 14:04:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UkRwusnfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UkRwusnfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UkRwusnfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 62.9 EUR
 inStock: true
 prodname: 'Geox J Sandal Karly Girl D  Punta Aperta Bambina  Bianco  White C1000   40 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01KWH52P8/?tag=tolees00-21'
+descuento: '52.07'
+titulo: 'Geox J Sandal Karly Girl D  Punta Aperta'
 ---
 
 Está [Geox J Sandal Karly Girl D  Punta Aperta Bambina  Bianco  White C1000   40 EU](https://www.amazon.it/dp/B01KWH52P8/?tag=tolees00-21) con 52.07 de descuento por 30.15 EUR (original: 62.9 EUR) en el siguiente enlace!

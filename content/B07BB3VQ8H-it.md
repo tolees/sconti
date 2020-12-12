@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.09 % en The North Face M TBL Sport HD  Piumino U'
 date: 2020-10-02 11:23:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wOh+XsjBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wOh+XsjBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wOh+XsjBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 190.0 EUR
 inStock: true
 prodname: 'The North Face M TBL Sport HD  Piumino Uomo  Rosso  Rage Red/Bitter   S'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07BB3VQ8H/?tag=tolees00-21'
+descuento: '34.09'
+titulo: 'The North Face M TBL Sport HD  Piumino U'
 ---
 
 Tienes [The North Face M TBL Sport HD  Piumino Uomo  Rosso  Rage Red/Bitter   S](https://www.amazon.it/dp/B07BB3VQ8H/?tag=tolees00-21) con un 34.09 % de descuento con precio de oferta de 125.23 EUR (original: 190.0 EUR) en el siguiente enlace!

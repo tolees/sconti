@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger John Cargo Short Light Tw al 82.76 % de descuento'
 date: 2020-09-14 10:17:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KI7+i2ZwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KI7+i2ZwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KI7+i2ZwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 82.14 EUR
 inStock: true
 prodname: 'Tommy Hilfiger John Cargo Short Light Twill Jeans Relaxed  Blu  Faded Indigo   W28/L30  Taglia Unica:  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07WC45Q6F/?tag=tolees00-21'
+descuento: '82.76'
+titulo: 'Tommy Hilfiger John Cargo Short Light Tw'
 ---
 
 Está [Tommy Hilfiger John Cargo Short Light Twill Jeans Relaxed  Blu  Faded Indigo   W28/L30  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07WC45Q6F/?tag=tolees00-21) con 82.76 de descuento por 14.16 EUR (original: 82.14 EUR) en el siguiente enlace!

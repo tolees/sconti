@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Cilia Lux  Sneakers Donna  Nero Bla al 53.89 % de descuento'
 date: 2020-07-23 12:09:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IHnNvwHOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IHnNvwHOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IHnNvwHOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'PUMA Cilia Lux  Sneakers Donna  Nero Black/Plein Air/Bright Rose Silver White  38 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07S9S9P6H/?tag=tolees00-21'
+descuento: '53.89'
+titulo: 'PUMA Cilia Lux  Sneakers Donna  Nero Bla'
 ---
 
 Está [PUMA Cilia Lux  Sneakers Donna  Nero Black/Plein Air/Bright Rose Silver White  38 EU](https://www.amazon.it/dp/B07S9S9P6H/?tag=tolees00-21) con 53.89 de descuento por 29.95 EUR (original: 64.95 EUR) en el siguiente enlace!

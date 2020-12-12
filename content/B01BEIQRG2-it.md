@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.38 % en Eucerin Duplo Crema per le mani 2 x 75 m'
 date: 2020-09-21 09:37:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qY1aS624L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qY1aS624L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qY1aS624L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.09 EUR
 inStock: true
 prodname: 'Eucerin Duplo Crema per le mani 2 x 75 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01BEIQRG2/?tag=tolees00-21'
+descuento: '44.38'
+titulo: 'Eucerin Duplo Crema per le mani 2 x 75 m'
 ---
 
 Tienes [Eucerin Duplo Crema per le mani 2 x 75 ml](https://www.amazon.it/dp/B01BEIQRG2/?tag=tolees00-21) con un 44.38 % de descuento con precio de oferta de 8.95 EUR (original: 16.09 EUR) en el siguiente enlace!

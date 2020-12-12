@@ -3,6 +3,7 @@ layout: post
 title: 'Manfrotto Befree Advanced Camo  Kit Trep al 30.00 % de descuento'
 date: 2020-09-30 05:55:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mepO3El+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mepO3El+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mepO3El+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 192.85 EUR
 inStock: true
 prodname: 'Manfrotto Befree Advanced Camo  Kit Treppiede Advanced Travel  con Testa a Sfera con Controlli Ergonomici  Chiusure Twist Lock  Treppiede Fotografico  Cavalletto per Videocamera e Fotocamera  Grigio'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B083XC5G9X/?tag=tolees00-21'
+descuento: '30.00'
+titulo: 'Manfrotto Befree Advanced Camo  Kit Trep'
 ---
 
 Está [Manfrotto Befree Advanced Camo  Kit Treppiede Advanced Travel  con Testa a Sfera con Controlli Ergonomici  Chiusure Twist Lock  Treppiede Fotografico  Cavalletto per Videocamera e Fotocamera  Grigio](https://www.amazon.it/dp/B083XC5G9X/?tag=tolees00-21) con 30.00 de descuento por 135.0 EUR (original: 192.85 EUR) en el siguiente enlace!

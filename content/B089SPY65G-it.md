@@ -3,6 +3,7 @@ layout: post
 title: 'MOSFiATA Set di Attrezzi da Giardino  Ki al 33.34 % de descuento'
 date: 2020-07-31 10:20:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oYr3PuitL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oYr3PuitL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oYr3PuitL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'MOSFiATA Set di Attrezzi da Giardino  Kit di Attrezzi da Giardinaggio per impieghi gravosi in Acciaio ad Alto tenore di Carbonio  cazzuola per trapianto e rastrello a Mano per coltivatore'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B089SPY65G/?tag=tolees00-21'
+descuento: '33.34'
+titulo: 'MOSFiATA Set di Attrezzi da Giardino  Ki'
 ---
 
 Está [MOSFiATA Set di Attrezzi da Giardino  Kit di Attrezzi da Giardinaggio per impieghi gravosi in Acciaio ad Alto tenore di Carbonio  cazzuola per trapianto e rastrello a Mano per coltivatore](https://www.amazon.it/dp/B089SPY65G/?tag=tolees00-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

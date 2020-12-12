@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.04 % en LEITZ Borsa Messenger  15 6    - Smart T'
 date: 2020-10-07 08:48:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fPXojSlDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fPXojSlDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fPXojSlDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 120.65 EUR
 inStock: true
 prodname: 'LEITZ Borsa Messenger  15 6    - Smart Traveller - Nero - 60190095'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00MPQ7Y2E/?tag=tolees00-21'
+descuento: '78.04'
+titulo: 'LEITZ Borsa Messenger  15 6    - Smart T'
 ---
 
 Tienes [LEITZ Borsa Messenger  15 6    - Smart Traveller - Nero - 60190095](https://www.amazon.it/dp/B00MPQ7Y2E/?tag=tolees00-21) con un 78.04 % de descuento con precio de oferta de 26.5 EUR (original: 120.65 EUR) en el siguiente enlace!

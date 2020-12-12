@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.04 % en Narhinel Aspiratore Nasale e Ricambi Sof'
 date: 2020-10-05 15:20:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rsZSRirrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rsZSRirrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rsZSRirrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 6.99 EUR
 inStock: true
 prodname: 'Narhinel Aspiratore Nasale e Ricambi Soft - 70 Gr'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00D3I00JC/?tag=tolees00-21'
+descuento: '30.04'
+titulo: 'Narhinel Aspiratore Nasale e Ricambi Sof'
 ---
 
 Tienes [Narhinel Aspiratore Nasale e Ricambi Soft - 70 Gr](https://www.amazon.it/dp/B00D3I00JC/?tag=tolees00-21) con un 30.04 % de descuento con precio de oferta de 4.89 EUR (original: 6.99 EUR) en el siguiente enlace!

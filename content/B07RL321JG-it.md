@@ -3,6 +3,7 @@ layout: post
 title: 'American Tourister Urban Groove Zaino Po al 40.00 % de descuento'
 date: 2020-07-29 09:52:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31iWCCFM3GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iWCCFM3GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31iWCCFM3GL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.9 EUR
 inStock: true
 prodname: 'American Tourister Urban Groove Zaino Porta PC  15.6 pollici  48 cm  26 L  Blu  True Navy '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RL321JG/?tag=tolees00-21'
+descuento: '40.00'
+titulo: 'American Tourister Urban Groove Zaino Po'
 ---
 
 Está [American Tourister Urban Groove Zaino Porta PC  15.6 pollici  48 cm  26 L  Blu  True Navy ](https://www.amazon.it/dp/B07RL321JG/?tag=tolees00-21) con 40.00 de descuento por 25.74 EUR (original: 42.9 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.89 % en Pringles Pringles Sour Cream & Onion - 1'
 date: 2020-09-23 11:31:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/410GU9Bzs8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410GU9Bzs8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410GU9Bzs8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 2.69 EUR
 inStock: true
 prodname: 'Pringles Pringles Sour Cream & Onion - 175 g'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B086KSFKN7/?tag=tolees00-21'
+descuento: '40.89'
+titulo: 'Pringles Pringles Sour Cream & Onion - 1'
 ---
 
 Tienes [Pringles Pringles Sour Cream & Onion - 175 g](https://www.amazon.it/dp/B086KSFKN7/?tag=tolees00-21) con un 40.89 % de descuento con precio de oferta de 1.59 EUR (original: 2.69 EUR) en el siguiente enlace!

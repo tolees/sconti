@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Hatch Jeans  Medium Used Hb6  al 60.00 % de descuento'
 date: 2020-09-05 16:14:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Pepe Jeans Hatch Jeans  Medium Used Hb6  29 W - 32 L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RYXKHBD/?tag=tolees00-21'
+descuento: '60.00'
+titulo: 'Pepe Jeans Hatch Jeans  Medium Used Hb6 '
 ---
 
 Está [Pepe Jeans Hatch Jeans  Medium Used Hb6  29 W - 32 L Uomo](https://www.amazon.it/dp/B07RYXKHBD/?tag=tolees00-21) con 60.00 de descuento por 34.0 EUR (original: 85.0 EUR) en el siguiente enlace!

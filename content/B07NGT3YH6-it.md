@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Hip Brief 3pk Boxer Uomo  C al 35.26 % de descuento'
 date: 2020-09-28 10:04:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Zbk767pqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Zbk767pqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Zbk767pqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Calvin Klein Hip Brief 3pk Boxer Uomo  Confezione da 3  Nero  B -NAVY SEAL /RASP JAM /WHITE WB KL5   Medium'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07NGT3YH6/?tag=tolees00-21'
+descuento: '35.26'
+titulo: 'Calvin Klein Hip Brief 3pk Boxer Uomo  C'
 ---
 
 Está [Calvin Klein Hip Brief 3pk Boxer Uomo  Confezione da 3  Nero  B -NAVY SEAL /RASP JAM /WHITE WB KL5   Medium](https://www.amazon.it/dp/B07NGT3YH6/?tag=tolees00-21) con 35.26 de descuento por 29.1 EUR (original: 44.95 EUR) en el siguiente enlace!

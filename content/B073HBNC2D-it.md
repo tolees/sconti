@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.42 % en Maybelline New York Superstay Matte Ink '
 date: 2020-08-27 14:04:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WUUoxcNKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WUUoxcNKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WUUoxcNKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 10.23 EUR
 inStock: true
 prodname: 'Maybelline New York Superstay Matte Ink Rossetto Matte Liquido Tinta Labbra a Lunga Tenuta  15 Lover'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B073HBNC2D/?tag=tolees00-21'
+descuento: '38.42'
+titulo: 'Maybelline New York Superstay Matte Ink '
 ---
 
 Tienes [Maybelline New York Superstay Matte Ink Rossetto Matte Liquido Tinta Labbra a Lunga Tenuta  15 Lover](https://www.amazon.it/dp/B073HBNC2D/?tag=tolees00-21) con un 38.42 % de descuento con precio de oferta de 6.3 EUR (original: 10.23 EUR) en el siguiente enlace!

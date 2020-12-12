@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Qualifier HeatGear Tight al 56.76 % de descuento'
 date: 2020-09-21 15:30:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jr+WdjXiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jr+WdjXiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jr+WdjXiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'Under Armour UA Qualifier HeatGear Tight  Pantaloni a Compressione Uomo  Nero  Black/Black/Reflective   S'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KR769MS/?tag=tolees00-21'
+descuento: '56.76'
+titulo: 'Under Armour UA Qualifier HeatGear Tight'
 ---
 
 Ahora mismo tienes [Under Armour UA Qualifier HeatGear Tight  Pantaloni a Compressione Uomo  Nero  Black/Black/Reflective   S](https://www.amazon.it/dp/B07KR769MS/?tag=tolees00-21) a 28.1 EUR (original: 64.99 EUR) (56.76 %  de descuento) en el siguiente enlace!

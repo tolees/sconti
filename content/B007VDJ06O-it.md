@@ -3,6 +3,7 @@ layout: post
 title: 'Claber 87335 Inter. POZZETTO Grande 9051 al 30.05 % de descuento'
 date: 2020-09-14 12:28:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EV-+gUduL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EV-+gUduL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EV-+gUduL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50.02 EUR
 inStock: true
 prodname: 'Claber 87335 Inter. POZZETTO Grande 90510  Nero/Arancione/Grigio  500x640x310 cm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B007VDJ06O/?tag=tolees00-21'
+descuento: '30.05'
+titulo: 'Claber 87335 Inter. POZZETTO Grande 9051'
 ---
 
 Está [Claber 87335 Inter. POZZETTO Grande 90510  Nero/Arancione/Grigio  500x640x310 cm](https://www.amazon.it/dp/B007VDJ06O/?tag=tolees00-21) con 30.05 de descuento por 34.99 EUR (original: 50.02 EUR) en el siguiente enlace!

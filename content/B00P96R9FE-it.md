@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.50 % en Kenwood KM631 Impastatrice Planetaria Cl'
 date: 2020-09-07 16:58:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31aEerff7WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aEerff7WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31aEerff7WL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 400.0 EUR
 inStock: true
 prodname: 'Kenwood KM631 Impastatrice Planetaria Classic Major  Robot da Cucina Mixer  900 W  6.7 Litri  Metallo Pressofuso  Argento'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00P96R9FE/?tag=tolees00-21'
+descuento: '42.50'
+titulo: 'Kenwood KM631 Impastatrice Planetaria Cl'
 ---
 
 Tienes [Kenwood KM631 Impastatrice Planetaria Classic Major  Robot da Cucina Mixer  900 W  6.7 Litri  Metallo Pressofuso  Argento](https://www.amazon.it/dp/B00P96R9FE/?tag=tolees00-21) con un 42.50 % de descuento con precio de oferta de 229.99 EUR (original: 400.0 EUR) en el siguiente enlace!

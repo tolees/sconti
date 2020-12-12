@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.68 % en AUTO HIGH - Coprisedili Universali per A'
 date: 2020-08-08 11:56:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wXaFYB3SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wXaFYB3SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wXaFYB3SL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'AUTO HIGH - Coprisedili Universali per Auto  Set Completo di Fodere per Seggiolino Auto  Protezioni per la Parte Anteriore e Posteriore del Sedile in Pelle Sintetica Premium  11 Pezzi  Nero #3'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07HB1B4T3/?tag=tolees00-21'
+descuento: '66.68'
+titulo: 'AUTO HIGH - Coprisedili Universali per A'
 ---
 
 Tienes [AUTO HIGH - Coprisedili Universali per Auto  Set Completo di Fodere per Seggiolino Auto  Protezioni per la Parte Anteriore e Posteriore del Sedile in Pelle Sintetica Premium  11 Pezzi  Nero #3](https://www.amazon.it/dp/B07HB1B4T3/?tag=tolees00-21) con un 66.68 % de descuento con precio de oferta de 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

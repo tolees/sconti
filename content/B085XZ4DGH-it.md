@@ -3,6 +3,7 @@ layout: post
 title: 'Maschere per il viso  confezione da 50 m al 36.11 % de descuento'
 date: 2020-08-20 12:17:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aPRiJuDaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aPRiJuDaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aPRiJuDaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 10.94 EUR
 inStock: true
 prodname: 'Maschere per il viso  confezione da 50 maschere sigillate standard  per la salute  3 strati  blu'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B085XZ4DGH/?tag=tolees00-21'
+descuento: '36.11'
+titulo: 'Maschere per il viso  confezione da 50 m'
 ---
 
 Ahora mismo tienes [Maschere per il viso  confezione da 50 maschere sigillate standard  per la salute  3 strati  blu](https://www.amazon.it/dp/B085XZ4DGH/?tag=tolees00-21) a 6.99 EUR (original: 10.94 EUR) (36.11 %  de descuento) en el siguiente enlace!

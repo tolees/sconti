@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Herren Colorblock Tee T - Shirt  Sc al 45.40 % de descuento'
 date: 2020-09-19 07:18:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yLp9RCU2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yLp9RCU2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yLp9RCU2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Vans Herren Colorblock Tee T - Shirt  Schwarz  Black/athletic Heather   Large'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06W9M74TB/?tag=tolees00-21'
+descuento: '45.40'
+titulo: 'Vans Herren Colorblock Tee T - Shirt  Sc'
 ---
 
 Ahora mismo tienes [Vans Herren Colorblock Tee T - Shirt  Schwarz  Black/athletic Heather   Large](https://www.amazon.it/dp/B06W9M74TB/?tag=tolees00-21) a 13.65 EUR (original: 25.0 EUR) (45.40 %  de descuento) en el siguiente enlace!

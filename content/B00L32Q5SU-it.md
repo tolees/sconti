@@ -3,6 +3,7 @@ layout: post
 title: 'Salvatore Ferragamo Acqua di Colonia al 62.73 % de descuento'
 date: 2020-07-20 17:51:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EAC+r1BkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EAC+r1BkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EAC+r1BkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 83.45 EUR
 inStock: true
 prodname: 'Salvatore Ferragamo Acqua di Colonia'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00L32Q5SU/?tag=tolees00-21'
+descuento: '62.73'
+titulo: 'Salvatore Ferragamo Acqua di Colonia'
 ---
 
 Está [Salvatore Ferragamo Acqua di Colonia](https://www.amazon.it/dp/B00L32Q5SU/?tag=tolees00-21) con 62.73 de descuento por 31.1 EUR (original: 83.45 EUR) en el siguiente enlace!

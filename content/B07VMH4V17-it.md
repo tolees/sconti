@@ -3,6 +3,7 @@ layout: post
 title: 'Fossil Collana con ciondolo da Donna  Or al 71.43 % de descuento'
 date: 2020-09-14 13:05:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nYJC6HoQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nYJC6HoQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nYJC6HoQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.0 EUR
 inStock: true
 prodname: 'Fossil Collana con ciondolo da Donna  Oro'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VMH4V17/?tag=tolees00-21'
+descuento: '71.43'
+titulo: 'Fossil Collana con ciondolo da Donna  Or'
 ---
 
 Está [Fossil Collana con ciondolo da Donna  Oro](https://www.amazon.it/dp/B07VMH4V17/?tag=tolees00-21) con 71.43 de descuento por 14.0 EUR (original: 49.0 EUR) en el siguiente enlace!

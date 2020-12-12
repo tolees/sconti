@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Turner  Sneaker Uomo  Nero  Regul al 30.02 % de descuento'
 date: 2020-09-16 10:20:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31QEydtPY0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QEydtPY0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31QEydtPY0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50.0 EUR
 inStock: true
 prodname: 'Levi s Turner  Sneaker Uomo  Nero  Regular Black 159   43 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07DZX89T4/?tag=tolees00-21'
+descuento: '30.02'
+titulo: 'Levi s Turner  Sneaker Uomo  Nero  Regul'
 ---
 
 Está [Levi s Turner  Sneaker Uomo  Nero  Regular Black 159   43 EU](https://www.amazon.it/dp/B07DZX89T4/?tag=tolees00-21) con 30.02 de descuento por 34.99 EUR (original: 50.0 EUR) en el siguiente enlace!

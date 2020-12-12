@@ -3,6 +3,7 @@ layout: post
 title: 'Metaltex Babatex  - Cestello sottoripian al 51.58 % de descuento'
 date: 2020-10-09 03:53:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/419pd4kXEXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419pd4kXEXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419pd4kXEXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.37 EUR
 inStock: true
 prodname: 'Metaltex Babatex  - Cestello sottoripiano -  363840 '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B000T2HNWW/?tag=tolees00-21'
+descuento: '51.58'
+titulo: 'Metaltex Babatex  - Cestello sottoripian'
 ---
 
 Ahora mismo tienes [Metaltex Babatex  - Cestello sottoripiano -  363840 ](https://www.amazon.it/dp/B000T2HNWW/?tag=tolees00-21) a 5.99 EUR (original: 12.37 EUR) (51.58 %  de descuento) en el siguiente enlace!

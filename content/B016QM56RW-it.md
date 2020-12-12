@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.94 % en Tommy Hilfiger Core Stretch Slim Cneck T'
 date: 2020-09-30 02:11:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41s2SMMbTyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s2SMMbTyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41s2SMMbTyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta  Bianco  Bright White 100   Large Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B016QM56RW/?tag=tolees00-21'
+descuento: '46.94'
+titulo: 'Tommy Hilfiger Core Stretch Slim Cneck T'
 ---
 
 Tienes [Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta  Bianco  Bright White 100   Large Uomo](https://www.amazon.it/dp/B016QM56RW/?tag=tolees00-21) con un 46.94 % de descuento con precio de oferta de 21.17 EUR (original: 39.9 EUR) en el siguiente enlace!

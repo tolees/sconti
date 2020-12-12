@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en David Jones - Borsa Tracolla Piccola Don'
 date: 2020-08-28 07:48:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uDjLTdVxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uDjLTdVxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uDjLTdVxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'David Jones - Borsa Tracolla Piccola Donna - Borsa a Spalla Catena - Crossbody Messenger Bag PU Pelle - Borsetta Mano Borsello Sera Noche Clutch Pochette Elegante Moda Città Lavoro - Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07H4K1BQ6/?tag=tolees00-21'
+descuento: '30.01'
+titulo: 'David Jones - Borsa Tracolla Piccola Don'
 ---
 
 Tienes [David Jones - Borsa Tracolla Piccola Donna - Borsa a Spalla Catena - Crossbody Messenger Bag PU Pelle - Borsetta Mano Borsello Sera Noche Clutch Pochette Elegante Moda Città Lavoro - Nero](https://www.amazon.it/dp/B07H4K1BQ6/?tag=tolees00-21) con un 30.01 % de descuento con precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

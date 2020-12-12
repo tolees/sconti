@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.80 % en Funko- Pop Artists: Leonardo Davinci Col'
 date: 2020-07-23 11:51:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gCTBzpQtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gCTBzpQtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gCTBzpQtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.54 EUR
 inStock: true
 prodname: 'Funko- Pop Artists: Leonardo Davinci Collectible Toy  Multicolore  Standard  45251'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07W7F4PVM/?tag=tolees00-21'
+descuento: '28.80'
+titulo: 'Funko- Pop Artists: Leonardo Davinci Col'
 ---
 
 Tienes [Funko- Pop Artists: Leonardo Davinci Collectible Toy  Multicolore  Standard  45251](https://www.amazon.it/dp/B07W7F4PVM/?tag=tolees00-21) con un 28.80 % de descuento con precio de oferta de 9.64 EUR (original: 13.54 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.63 % en Timberland Union Wharf Lace Oxford  Snea'
 date: 2020-09-18 06:11:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Pa5f3w3nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Pa5f3w3nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Pa5f3w3nL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Blu  Dark Blue Canvas   43 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07F1ZQ19J/?tag=tolees00-21'
+descuento: '34.63'
+titulo: 'Timberland Union Wharf Lace Oxford  Snea'
 ---
 
 Tienes [Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Blu  Dark Blue Canvas   43 EU](https://www.amazon.it/dp/B07F1ZQ19J/?tag=tolees00-21) con un 34.63 % de descuento con precio de oferta de 42.49 EUR (original: 65.0 EUR) en el siguiente enlace!

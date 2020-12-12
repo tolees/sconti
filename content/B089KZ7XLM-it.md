@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.31 % en Oral-B Precision Clean Testine di Ricamb'
 date: 2020-10-01 08:20:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hzG7NzNoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hzG7NzNoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hzG7NzNoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Oral-B Precision Clean Testine di Ricambio per Spazzolino Elettrico con Tecnologia CleanMaximiser  Confezione da 6 Pezzi'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B089KZ7XLM/?tag=tolees00-21'
+descuento: '43.31'
+titulo: 'Oral-B Precision Clean Testine di Ricamb'
 ---
 
 Tienes [Oral-B Precision Clean Testine di Ricambio per Spazzolino Elettrico con Tecnologia CleanMaximiser  Confezione da 6 Pezzi](https://www.amazon.it/dp/B089KZ7XLM/?tag=tolees00-21) con un 43.31 % de descuento con precio de oferta de 17.0 EUR (original: 29.99 EUR) en el siguiente enlace!

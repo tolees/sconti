@@ -3,6 +3,7 @@ layout: post
 title: 'Pampero Especial Rum  L 1 al 34.39 % de descuento'
 date: 2020-09-28 09:51:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iEVypmerL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iEVypmerL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iEVypmerL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.29 EUR
 inStock: true
 prodname: 'Pampero Especial Rum  L 1'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B009RUMT76/?tag=tolees00-21'
+descuento: '34.39'
+titulo: 'Pampero Especial Rum  L 1'
 ---
 
 Está [Pampero Especial Rum  L 1](https://www.amazon.it/dp/B009RUMT76/?tag=tolees00-21) con 34.39 de descuento por 12.0 EUR (original: 18.29 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'eFootball PES 2020 - Playstation 4 [Vers al 64.71 % de descuento'
 date: 2020-09-16 02:25:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/61c516aZhBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61c516aZhBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61c516aZhBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.61 EUR
 inStock: true
 prodname: 'eFootball PES 2020 - Playstation 4 [Versione EU Multilingua]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VG8Y9C7/?tag=tolees00-21'
+descuento: '64.71'
+titulo: 'eFootball PES 2020 - Playstation 4 [Vers'
 ---
 
 Está [eFootball PES 2020 - Playstation 4 [Versione EU Multilingua]](https://www.amazon.it/dp/B07VG8Y9C7/?tag=tolees00-21) con 64.71 de descuento por 19.98 EUR (original: 56.61 EUR) en el siguiente enlace!

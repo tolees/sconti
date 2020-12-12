@@ -3,6 +3,7 @@ layout: post
 title: 'WESCO Cacciavite Elettrico 3.6V  3.5N.m  al 65.54 % de descuento'
 date: 2020-08-10 17:22:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uWXUhHylL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uWXUhHylL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uWXUhHylL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'WESCO Cacciavite Elettrico 3.6V  3.5N.m Avvitatore a Batteria 1500mAh Li-ion Ricaricabile con 6 Punti WS2013'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07XLZHR7C/?tag=tolees00-21'
+descuento: '65.54'
+titulo: 'WESCO Cacciavite Elettrico 3.6V  3.5N.m '
 ---
 
 Ahora mismo tienes [WESCO Cacciavite Elettrico 3.6V  3.5N.m Avvitatore a Batteria 1500mAh Li-ion Ricaricabile con 6 Punti WS2013](https://www.amazon.it/dp/B07XLZHR7C/?tag=tolees00-21) a 9.99 EUR (original: 28.99 EUR) (65.54 %  de descuento) en el siguiente enlace!

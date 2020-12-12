@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.86 % en OMEN by HP Omen 800 Cuffia Gaming con Mi'
 date: 2020-08-12 23:28:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZyX-3Wt2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZyX-3Wt2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZyX-3Wt2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'OMEN by HP Omen 800 Cuffia Gaming con Microfono Regolabile e Retrattile  Rivestita in Pelle  Multipiattaforma  Jack 3 5 mm  Compatibile con PC  PS4 e Xbox 1  Cavo Resistente a Maglia Intrecciata'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B072JYG8J1/?tag=tolees00-21'
+descuento: '32.86'
+titulo: 'OMEN by HP Omen 800 Cuffia Gaming con Mi'
 ---
 
 Tienes [OMEN by HP Omen 800 Cuffia Gaming con Microfono Regolabile e Retrattile  Rivestita in Pelle  Multipiattaforma  Jack 3 5 mm  Compatibile con PC  PS4 e Xbox 1  Cavo Resistente a Maglia Intrecciata](https://www.amazon.it/dp/B072JYG8J1/?tag=tolees00-21) con un 32.86 % de descuento con precio de oferta de 46.99 EUR (original: 69.99 EUR) en el siguiente enlace!

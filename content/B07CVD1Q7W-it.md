@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.98 % en Felix AS Good AS it Looks Misto varietà '
 date: 2020-10-07 08:15:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mvfCgHGSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mvfCgHGSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mvfCgHGSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.39 EUR
 inStock: true
 prodname: 'Felix AS Good AS it Looks Misto varietà Cat Food  100 g  Confezione da 120'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07CVD1Q7W/?tag=tolees00-21'
+descuento: '33.98'
+titulo: 'Felix AS Good AS it Looks Misto varietà '
 ---
 
 Tienes [Felix AS Good AS it Looks Misto varietà Cat Food  100 g  Confezione da 120](https://www.amazon.it/dp/B07CVD1Q7W/?tag=tolees00-21) con un 33.98 % de descuento con precio de oferta de 37.23 EUR (original: 56.39 EUR) en el siguiente enlace!

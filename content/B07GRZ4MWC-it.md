@@ -3,6 +3,7 @@ layout: post
 title: 'Tigullio GranPesto Pomodori Secchi e Pis al 31.96 % de descuento'
 date: 2020-08-19 16:45:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51V330RJANL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51V330RJANL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51V330RJANL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 2.19 EUR
 inStock: true
 prodname: 'Tigullio GranPesto Pomodori Secchi e Pistacchi - 190 g'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07GRZ4MWC/?tag=tolees00-21'
+descuento: '31.96'
+titulo: 'Tigullio GranPesto Pomodori Secchi e Pis'
 ---
 
 Ahora mismo tienes [Tigullio GranPesto Pomodori Secchi e Pistacchi - 190 g](https://www.amazon.it/dp/B07GRZ4MWC/?tag=tolees00-21) a 1.49 EUR (original: 2.19 EUR) (31.96 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Frisk Peppermint Caramelle al Gusto Ment al 25.04 % de descuento'
 date: 2020-08-31 07:14:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ynClzW3jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ynClzW3jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ynClzW3jL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.0 EUR
 inStock: true
 prodname: 'Frisk Peppermint Caramelle al Gusto Menta  Senza Zucchero e Senza Glutine  Confezione da 12 Astucci in Metallo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0088XO7IW/?tag=tolees00-21'
+descuento: '25.04'
+titulo: 'Frisk Peppermint Caramelle al Gusto Ment'
 ---
 
 Ahora mismo tienes [Frisk Peppermint Caramelle al Gusto Menta  Senza Zucchero e Senza Glutine  Confezione da 12 Astucci in Metallo](https://www.amazon.it/dp/B0088XO7IW/?tag=tolees00-21) a 17.99 EUR (original: 24.0 EUR) (25.04 %  de descuento) en el siguiente enlace!

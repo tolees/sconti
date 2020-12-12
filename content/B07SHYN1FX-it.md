@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Pillsbury  Sneaker Uomo  Bianco   al 30.00 % de descuento'
 date: 2020-08-17 14:40:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lBfuXIEYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lBfuXIEYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lBfuXIEYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40.0 EUR
 inStock: true
 prodname: 'Levi s Pillsbury  Sneaker Uomo  Bianco  Regular White 51   42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SHYN1FX/?tag=tolees00-21'
+descuento: '30.00'
+titulo: 'Levi s Pillsbury  Sneaker Uomo  Bianco  '
 ---
 
 Ahora mismo tienes [Levi s Pillsbury  Sneaker Uomo  Bianco  Regular White 51   42 EU](https://www.amazon.it/dp/B07SHYN1FX/?tag=tolees00-21) a 28.0 EUR (original: 40.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

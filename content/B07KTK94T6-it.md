@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO La Festa In Piscina Di Andrea Costr al 28.19 % de descuento'
 date: 2020-09-07 14:05:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Z6FRvVQoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Z6FRvVQoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Z6FRvVQoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'LEGO La Festa In Piscina Di Andrea Costruzioni Piccole'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KTK94T6/?tag=tolees00-21'
+descuento: '28.19'
+titulo: 'LEGO La Festa In Piscina Di Andrea Costr'
 ---
 
 Ahora mismo tienes [LEGO La Festa In Piscina Di Andrea Costruzioni Piccole](https://www.amazon.it/dp/B07KTK94T6/?tag=tolees00-21) a 35.9 EUR (original: 49.99 EUR) (28.19 %  de descuento) en el siguiente enlace!

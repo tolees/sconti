@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.03 % en Seiko Orologio Analogico Automatico Uomo'
 date: 2020-10-01 06:29:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a0DFo-bYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a0DFo-bYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a0DFo-bYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100.04 EUR
 inStock: true
 prodname: 'Seiko Orologio Analogico Automatico Uomo con Cinturino in Acciaio Inox SNKK07K1'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B004PBZIA2/?tag=tolees00-21'
+descuento: '25.03'
+titulo: 'Seiko Orologio Analogico Automatico Uomo'
 ---
 
 Tienes [Seiko Orologio Analogico Automatico Uomo con Cinturino in Acciaio Inox SNKK07K1](https://www.amazon.it/dp/B004PBZIA2/?tag=tolees00-21) con un 25.03 % de descuento con precio de oferta de 75.0 EUR (original: 100.04 EUR) en el siguiente enlace!

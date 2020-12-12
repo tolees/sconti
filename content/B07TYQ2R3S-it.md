@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.63 % en SUPERGA 2750 Cotu Classic  Scarpe da Gin'
 date: 2020-08-13 16:41:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wOUxcw+XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wOUxcw+XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wOUxcw+XL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.0 EUR
 inStock: true
 prodname: 'SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Unisex Adulto  Bianco  White/Gold A15   46 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TYQ2R3S/?tag=tolees00-21'
+descuento: '59.63'
+titulo: 'SUPERGA 2750 Cotu Classic  Scarpe da Gin'
 ---
 
 Tienes [SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Unisex Adulto  Bianco  White/Gold A15   46 EU](https://www.amazon.it/dp/B07TYQ2R3S/?tag=tolees00-21) con un 59.63 % de descuento con precio de oferta de 23.82 EUR (original: 59.0 EUR) en el siguiente enlace!

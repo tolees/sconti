@@ -3,6 +3,7 @@ layout: post
 title: 'SONGMICS Appendiabiti  Metallo  Nero  68 al 38.21 % de descuento'
 date: 2020-09-03 16:46:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41M39243QkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41M39243QkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41M39243QkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 61.48 EUR
 inStock: true
 prodname: 'SONGMICS Appendiabiti  Metallo  Nero  68.8 x 35.2 x 187 cm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01DSXA0JQ/?tag=tolees00-21'
+descuento: '38.21'
+titulo: 'SONGMICS Appendiabiti  Metallo  Nero  68'
 ---
 
 Está [SONGMICS Appendiabiti  Metallo  Nero  68.8 x 35.2 x 187 cm](https://www.amazon.it/dp/B01DSXA0JQ/?tag=tolees00-21) con 38.21 de descuento por 37.99 EUR (original: 61.48 EUR) en el siguiente enlace!

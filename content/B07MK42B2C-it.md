@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.65 % en Under Armour Sportstyle Terry Logo Felpa'
 date: 2020-09-22 06:07:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60.0 EUR
 inStock: true
 prodname: 'Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  XXL'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MK42B2C/?tag=tolees00-21'
+descuento: '43.65'
+titulo: 'Under Armour Sportstyle Terry Logo Felpa'
 ---
 
 Tienes [Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  XXL](https://www.amazon.it/dp/B07MK42B2C/?tag=tolees00-21) con un 43.65 % de descuento con precio de oferta de 33.81 EUR (original: 60.0 EUR) en el siguiente enlace!

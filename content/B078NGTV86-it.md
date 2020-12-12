@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Therma Hoodie Po  Felpa con Cappucc al 49.84 % de descuento'
 date: 2020-08-23 13:51:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ipQzVL5OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ipQzVL5OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ipQzVL5OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50.0 EUR
 inStock: true
 prodname: 'Nike Therma Hoodie Po  Felpa con Cappuccio Uomo  Black/Dark Grey  L'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B078NGTV86/?tag=tolees00-21'
+descuento: '49.84'
+titulo: 'Nike Therma Hoodie Po  Felpa con Cappucc'
 ---
 
 Ahora mismo tienes [Nike Therma Hoodie Po  Felpa con Cappuccio Uomo  Black/Dark Grey  L](https://www.amazon.it/dp/B078NGTV86/?tag=tolees00-21) a 25.08 EUR (original: 50.0 EUR) (49.84 %  de descuento) en el siguiente enlace!

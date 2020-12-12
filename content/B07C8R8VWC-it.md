@@ -3,6 +3,7 @@ layout: post
 title: 'AKAI TV AKTV3215 Ethernet Televisore 32  al 26.89 % de descuento'
 date: 2020-08-30 17:45:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PV7rmjljL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PV7rmjljL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PV7rmjljL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'AKAI TV AKTV3215 Ethernet Televisore 32 Pollici TV LED HD Soundbar integrata'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07C8R8VWC/?tag=tolees00-21'
+descuento: '26.89'
+titulo: 'AKAI TV AKTV3215 Ethernet Televisore 32 '
 ---
 
 Ahora mismo tienes [AKAI TV AKTV3215 Ethernet Televisore 32 Pollici TV LED HD Soundbar integrata](https://www.amazon.it/dp/B07C8R8VWC/?tag=tolees00-21) a 145.49 EUR (original: 199.0 EUR) (26.89 %  de descuento) en el siguiente enlace!

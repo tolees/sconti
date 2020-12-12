@@ -3,6 +3,7 @@ layout: post
 title: 'Brita Marella - Caraffa Filtrante per Ac al 32.24 % de descuento'
 date: 2020-09-11 17:11:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/517iTppIw9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517iTppIw9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517iTppIw9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Brita Marella - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ Incluso'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01NCEIPNM/?tag=tolees00-21'
+descuento: '32.24'
+titulo: 'Brita Marella - Caraffa Filtrante per Ac'
 ---
 
 Está [Brita Marella - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ Incluso](https://www.amazon.it/dp/B01NCEIPNM/?tag=tolees00-21) con 32.24 de descuento por 14.9 EUR (original: 21.99 EUR) en el siguiente enlace!

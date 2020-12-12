@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.07 % en Lacoste Sport L1230 Polo Sport Ultralegg'
 date: 2020-08-23 16:14:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/314SLVkj1oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314SLVkj1oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/314SLVkj1oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70.0 EUR
 inStock: true
 prodname: 'Lacoste Sport L1230 Polo Sport Ultraleggera  Bianco  White 001   Large Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B003S5F1VW/?tag=tolees00-21'
+descuento: '25.07'
+titulo: 'Lacoste Sport L1230 Polo Sport Ultralegg'
 ---
 
 Tienes [Lacoste Sport L1230 Polo Sport Ultraleggera  Bianco  White 001   Large Uomo](https://www.amazon.it/dp/B003S5F1VW/?tag=tolees00-21) con un 25.07 % de descuento con precio de oferta de 52.45 EUR (original: 70.0 EUR) en el siguiente enlace!

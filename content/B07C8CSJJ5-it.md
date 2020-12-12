@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Orologio Cronografo Quarzo Uomo c al 61.20 % de descuento'
 date: 2020-08-31 06:53:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OYZWTb1iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OYZWTb1iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OYZWTb1iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 219.0 EUR
 inStock: true
 prodname: 'Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Silicone DZ4483'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07C8CSJJ5/?tag=tolees00-21'
+descuento: '61.20'
+titulo: 'Diesel Orologio Cronografo Quarzo Uomo c'
 ---
 
 Ahora mismo tienes [Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Silicone DZ4483](https://www.amazon.it/dp/B07C8CSJJ5/?tag=tolees00-21) a 84.97 EUR (original: 219.0 EUR) (61.20 %  de descuento) en el siguiente enlace!

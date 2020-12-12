@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.02 % en GIARIDE Cavo HDMI a VGA HDMI D-Sub 15 Pi'
 date: 2020-09-05 17:01:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Jk3iY878L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jk3iY878L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Jk3iY878L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'GIARIDE Cavo HDMI a VGA HDMI D-Sub 15 Pin M/M Adattatore Video Supporto Completo 1080P Converti Segnale con trasferimento Dati da Ingresso HDMI Laptop HDTV a Uscita VGA Monitor proiettore  TV'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07W3Z9S2D/?tag=tolees00-21'
+descuento: '35.02'
+titulo: 'GIARIDE Cavo HDMI a VGA HDMI D-Sub 15 Pi'
 ---
 
 Tienes [GIARIDE Cavo HDMI a VGA HDMI D-Sub 15 Pin M/M Adattatore Video Supporto Completo 1080P Converti Segnale con trasferimento Dati da Ingresso HDMI Laptop HDTV a Uscita VGA Monitor proiettore  TV](https://www.amazon.it/dp/B07W3Z9S2D/?tag=tolees00-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

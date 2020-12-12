@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Slim Brasil Logo  Infradito Do al 63.62 % de descuento'
 date: 2020-07-19 06:36:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dF6fEesoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dF6fEesoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dF6fEesoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.4 EUR
 inStock: true
 prodname: 'Havaianas Slim Brasil Logo  Infradito Donna  Rosa  Crocus Rose 3544   41/42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SHTTT45/?tag=tolees00-21'
+descuento: '63.62'
+titulo: 'Havaianas Slim Brasil Logo  Infradito Do'
 ---
 
 Está [Havaianas Slim Brasil Logo  Infradito Donna  Rosa  Crocus Rose 3544   41/42 EU](https://www.amazon.it/dp/B07SHTTT45/?tag=tolees00-21) con 63.62 de descuento por 8.15 EUR (original: 22.4 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.86 % en Havaianas Flash Urban  Sandali Donna  Mu'
 date: 2020-07-29 06:52:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FGqhK3ikL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FGqhK3ikL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FGqhK3ikL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.0 EUR
 inStock: true
 prodname: 'Havaianas Flash Urban  Sandali Donna  Multicolor  Black/Silver 2976   35/36 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01L416NVS/?tag=tolees00-21'
+descuento: '31.86'
+titulo: 'Havaianas Flash Urban  Sandali Donna  Mu'
 ---
 
 Tienes [Havaianas Flash Urban  Sandali Donna  Multicolor  Black/Silver 2976   35/36 EU](https://www.amazon.it/dp/B01L416NVS/?tag=tolees00-21) con un 31.86 % de descuento con precio de oferta de 14.99 EUR (original: 22.0 EUR) en el siguiente enlace!

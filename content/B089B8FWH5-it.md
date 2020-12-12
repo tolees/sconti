@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.99 % en CARPISA® Borsa lavoro con doppi manici -'
 date: 2020-07-24 12:41:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fpluvnrJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fpluvnrJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fpluvnrJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'CARPISA® Borsa lavoro con doppi manici - Soya'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B089B8FWH5/?tag=tolees00-21'
+descuento: '54.99'
+titulo: 'CARPISA® Borsa lavoro con doppi manici -'
 ---
 
 Tienes [CARPISA® Borsa lavoro con doppi manici - Soya](https://www.amazon.it/dp/B089B8FWH5/?tag=tolees00-21) con un 54.99 % de descuento con precio de oferta de 22.48 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.74 % en Funko- Pop Figura in Vinile Games Bandic'
 date: 2020-09-28 01:37:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XIaTgdAnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XIaTgdAnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XIaTgdAnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.84 EUR
 inStock: true
 prodname: 'Funko- Pop Figura in Vinile Games Bandicoot-Crash Collezione  Multicolore  43343'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07QJ29QCW/?tag=tolees00-21'
+descuento: '34.74'
+titulo: 'Funko- Pop Figura in Vinile Games Bandic'
 ---
 
 Tienes [Funko- Pop Figura in Vinile Games Bandicoot-Crash Collezione  Multicolore  43343](https://www.amazon.it/dp/B07QJ29QCW/?tag=tolees00-21) con un 34.74 % de descuento con precio de oferta de 10.99 EUR (original: 16.84 EUR) en el siguiente enlace!

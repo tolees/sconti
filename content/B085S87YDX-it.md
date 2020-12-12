@@ -3,6 +3,7 @@ layout: post
 title: 'Synology DiskStation DS220j - Server NAS al 31.48 % de descuento'
 date: 2020-09-04 06:53:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31j7ufMVeTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31j7ufMVeTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31j7ufMVeTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 269.99 EUR
 inStock: true
 prodname: 'Synology DiskStation DS220j - Server NAS a 2 vani e 2 dischi rigidi da 2 TB'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B085S87YDX/?tag=tolees00-21'
+descuento: '31.48'
+titulo: 'Synology DiskStation DS220j - Server NAS'
 ---
 
 Está [Synology DiskStation DS220j - Server NAS a 2 vani e 2 dischi rigidi da 2 TB](https://www.amazon.it/dp/B085S87YDX/?tag=tolees00-21) con 31.48 de descuento por 184.99 EUR (original: 269.99 EUR) en el siguiente enlace!

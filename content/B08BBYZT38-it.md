@@ -3,6 +3,7 @@ layout: post
 title: 'Mini Telecamera Spia Nascosta con Micro  al 42.71 % de descuento'
 date: 2020-08-24 11:13:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/412uFPOtrCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412uFPOtrCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412uFPOtrCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Mini Telecamera Spia Nascosta con Micro sd 32GB  Full HD 1080P Microcamera Spia con Rilevamento di Movimento Portatile Videocamera di Sorveglianza Video per Esterno/Interno'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08BBYZT38/?tag=tolees00-21'
+descuento: '42.71'
+titulo: 'Mini Telecamera Spia Nascosta con Micro '
 ---
 
 Está [Mini Telecamera Spia Nascosta con Micro sd 32GB  Full HD 1080P Microcamera Spia con Rilevamento di Movimento Portatile Videocamera di Sorveglianza Video per Esterno/Interno](https://www.amazon.it/dp/B08BBYZT38/?tag=tolees00-21) con 42.71 de descuento por 14.89 EUR (original: 25.99 EUR) en el siguiente enlace!

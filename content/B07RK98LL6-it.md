@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.00 % en riverso - Pantaloncini Cargo da Uomo RIV'
 date: 2020-08-28 06:21:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31HfXWTiE+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HfXWTiE+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31HfXWTiE+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.72 EUR
 inStock: true
 prodname: 'riverso - Pantaloncini Cargo da Uomo RIVAnton  con Cintura  100% Cotone  Blu  Grigio  Verde Oliva  Nero  Beige  a Quadretti w30 - w46 Grigio Dawn  23200 . 44W'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RK98LL6/?tag=tolees00-21'
+descuento: '46.00'
+titulo: 'riverso - Pantaloncini Cargo da Uomo RIV'
 ---
 
 Tienes [riverso - Pantaloncini Cargo da Uomo RIVAnton  con Cintura  100% Cotone  Blu  Grigio  Verde Oliva  Nero  Beige  a Quadretti w30 - w46 Grigio Dawn  23200 . 44W](https://www.amazon.it/dp/B07RK98LL6/?tag=tolees00-21) con un 46.00 % de descuento con precio de oferta de 34.95 EUR (original: 64.72 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.18 % en Vansuny Ultra Slim Super Mini Portable S'
 date: 2020-08-21 04:19:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/313cIGGH3WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313cIGGH3WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313cIGGH3WL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 229.99 EUR
 inStock: true
 prodname: 'Vansuny Ultra Slim Super Mini Portable SSD 1 TB 550 MB/s USB 3.1 & Type C Solid State Drive Disco rigido esterno per smartphone  tablet  laptop  Mac OS  Windows  iPad Pro  MacBook Pro  Xbox  nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08BZ9HNP7/?tag=tolees00-21'
+descuento: '52.18'
+titulo: 'Vansuny Ultra Slim Super Mini Portable S'
 ---
 
 Tienes [Vansuny Ultra Slim Super Mini Portable SSD 1 TB 550 MB/s USB 3.1 & Type C Solid State Drive Disco rigido esterno per smartphone  tablet  laptop  Mac OS  Windows  iPad Pro  MacBook Pro  Xbox  nero](https://www.amazon.it/dp/B08BZ9HNP7/?tag=tolees00-21) con un 52.18 % de descuento con precio de oferta de 109.99 EUR (original: 229.99 EUR) en el siguiente enlace!

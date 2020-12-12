@@ -3,6 +3,7 @@ layout: post
 title: 'EasySMX ESM-9100-Gray Joystick controlle al 27.79 % de descuento'
 date: 2020-08-27 08:22:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tQhZRFNgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tQhZRFNgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tQhZRFNgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'EasySMX ESM-9100-Gray Joystick controller con cavo  Doppial-vibrazione  Turbo e Pulsanti Anteriori  Nero/Grigio'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06XB761HW/?tag=tolees00-21'
+descuento: '27.79'
+titulo: 'EasySMX ESM-9100-Gray Joystick controlle'
 ---
 
 Ahora mismo tienes [EasySMX ESM-9100-Gray Joystick controller con cavo  Doppial-vibrazione  Turbo e Pulsanti Anteriori  Nero/Grigio](https://www.amazon.it/dp/B06XB761HW/?tag=tolees00-21) a 25.99 EUR (original: 35.99 EUR) (27.79 %  de descuento) en el siguiente enlace!

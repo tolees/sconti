@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en American Tourister Wavebreaker Bagaglio '
 date: 2020-07-17 10:26:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jmElJg8CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jmElJg8CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jmElJg8CL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 115.9 EUR
 inStock: true
 prodname: 'American Tourister Wavebreaker Bagaglio a Mano Disney  Spinner S  55 cm  36 L  Grigio  Animal Sparkle '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07P5MSQCY/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'American Tourister Wavebreaker Bagaglio '
 ---
 
 Tienes [American Tourister Wavebreaker Bagaglio a Mano Disney  Spinner S  55 cm  36 L  Grigio  Animal Sparkle ](https://www.amazon.it/dp/B07P5MSQCY/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 57.95 EUR (original: 115.9 EUR) en el siguiente enlace!

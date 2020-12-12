@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.34 % en Philips HR2345/29 Viva Collection Pastam'
 date: 2020-09-01 07:38:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/410Nd+BgL-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410Nd+BgL-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410Nd+BgL-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 210.99 EUR
 inStock: true
 prodname: 'Philips HR2345/29 Viva Collection Pastamaker - Macchina con 4 trafile per preparare da zero pasta e spaghetti  150 W  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21'
+descuento: '48.34'
+titulo: 'Philips HR2345/29 Viva Collection Pastam'
 ---
 
 Tienes [Philips HR2345/29 Viva Collection Pastamaker - Macchina con 4 trafile per preparare da zero pasta e spaghetti  150 W  Nero](https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21) con un 48.34 % de descuento con precio de oferta de 109.0 EUR (original: 210.99 EUR) en el siguiente enlace!

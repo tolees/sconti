@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.56 % en Desigual Mone azabache Mini Zip Portafog'
 date: 2020-09-04 15:37:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31iVdCqFyZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iVdCqFyZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31iVdCqFyZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.22 EUR
 inStock: true
 prodname: 'Desigual Mone azabache Mini Zip Portafoglio da donna  Nero  Nero  Nero     2x9x15 cm  B x H x T '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VGRW62L/?tag=tolees00-21'
+descuento: '32.56'
+titulo: 'Desigual Mone azabache Mini Zip Portafog'
 ---
 
 Tienes [Desigual Mone azabache Mini Zip Portafoglio da donna  Nero  Nero  Nero     2x9x15 cm  B x H x T ](https://www.amazon.it/dp/B07VGRW62L/?tag=tolees00-21) con un 32.56 % de descuento con precio de oferta de 14.31 EUR (original: 21.22 EUR) en el siguiente enlace!

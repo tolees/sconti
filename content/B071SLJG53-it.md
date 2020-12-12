@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Pc574v1 Sneaker Unisex - Bam al 48.62 % de descuento'
 date: 2020-08-30 15:45:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Iz28xxaUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Iz28xxaUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Iz28xxaUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60.0 EUR
 inStock: true
 prodname: 'New Balance Pc574v1 Sneaker Unisex - Bambini  Nero  Black/grey   29 EU  11 UK '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B071SLJG53/?tag=tolees00-21'
+descuento: '48.62'
+titulo: 'New Balance Pc574v1 Sneaker Unisex - Bam'
 ---
 
 Está [New Balance Pc574v1 Sneaker Unisex - Bambini  Nero  Black/grey   29 EU  11 UK ](https://www.amazon.it/dp/B071SLJG53/?tag=tolees00-21) con 48.62 de descuento por 30.83 EUR (original: 60.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.62 % en Levi s Type 3 Sherpa Trucker Giacca  Ner'
 date: 2020-10-11 04:59:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vMA+HQQ0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vMA+HQQ0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vMA+HQQ0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 130.0 EUR
 inStock: true
 prodname: 'Levi s Type 3 Sherpa Trucker Giacca  Nero  Black Cord Better 0068   Small Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07D76R7TP/?tag=tolees00-21'
+descuento: '41.62'
+titulo: 'Levi s Type 3 Sherpa Trucker Giacca  Ner'
 ---
 
 Tienes [Levi s Type 3 Sherpa Trucker Giacca  Nero  Black Cord Better 0068   Small Uomo](https://www.amazon.it/dp/B07D76R7TP/?tag=tolees00-21) con un 41.62 % de descuento con precio de oferta de 75.89 EUR (original: 130.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Barbie la Pizzeria con Bambola  Tavolo p al 33.30 % de descuento'
 date: 2020-08-24 10:20:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MPQ7F13jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MPQ7F13jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MPQ7F13jL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 47.99 EUR
 inStock: true
 prodname: 'Barbie la Pizzeria con Bambola  Tavolo per Le Pizze  Forno e Pasta da Modellare  Giocattolo per Bambini 3 + Anni  FHR09  Multicolore'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0751RGXLR/?tag=tolees00-21'
+descuento: '33.30'
+titulo: 'Barbie la Pizzeria con Bambola  Tavolo p'
 ---
 
 Está [Barbie la Pizzeria con Bambola  Tavolo per Le Pizze  Forno e Pasta da Modellare  Giocattolo per Bambini 3 + Anni  FHR09  Multicolore](https://www.amazon.it/dp/B0751RGXLR/?tag=tolees00-21) con 33.30 de descuento por 32.01 EUR (original: 47.99 EUR) en el siguiente enlace!

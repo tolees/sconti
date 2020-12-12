@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.34 % en Calvin Klein 3p Trunk Boxer  Multicolore'
 date: 2020-08-21 12:53:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31qNvnt2RWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qNvnt2RWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31qNvnt2RWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 41.44 EUR
 inStock: true
 prodname: 'Calvin Klein 3p Trunk Boxer  Multicolore  Lost Blue/Wild Fern/Raisin Torte WFL   Small  Pacco da 3  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VLQ5NLS/?tag=tolees00-21'
+descuento: '36.34'
+titulo: 'Calvin Klein 3p Trunk Boxer  Multicolore'
 ---
 
 Tienes [Calvin Klein 3p Trunk Boxer  Multicolore  Lost Blue/Wild Fern/Raisin Torte WFL   Small  Pacco da 3  Uomo](https://www.amazon.it/dp/B07VLQ5NLS/?tag=tolees00-21) con un 36.34 % de descuento con precio de oferta de 26.38 EUR (original: 41.44 EUR) en el siguiente enlace!

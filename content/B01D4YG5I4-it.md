@@ -3,6 +3,7 @@ layout: post
 title: 'Science in Sport SiS Rego Rapid Recovery al 42.63 % de descuento'
 date: 2020-09-03 07:41:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Wmpa9AN3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Wmpa9AN3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Wmpa9AN3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 46.0 EUR
 inStock: true
 prodname: 'Science in Sport SiS Rego Rapid Recovery Polvere Proteica  1kg'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01D4YG5I4/?tag=tolees00-21'
+descuento: '42.63'
+titulo: 'Science in Sport SiS Rego Rapid Recovery'
 ---
 
 Ahora mismo tienes [Science in Sport SiS Rego Rapid Recovery Polvere Proteica  1kg](https://www.amazon.it/dp/B01D4YG5I4/?tag=tolees00-21) a 26.39 EUR (original: 46.0 EUR) (42.63 %  de descuento) en el siguiente enlace!

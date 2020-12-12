@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 997h  Sneaker Uomo  Rosso  R al 54.67 % de descuento'
 date: 2020-08-10 14:53:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lV4mrOrhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lV4mrOrhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lV4mrOrhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   40 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RZLXQDK/?tag=tolees00-21'
+descuento: '54.67'
+titulo: 'New Balance 997h  Sneaker Uomo  Rosso  R'
 ---
 
 Está [New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   40 EU](https://www.amazon.it/dp/B07RZLXQDK/?tag=tolees00-21) con 54.67 de descuento por 40.8 EUR (original: 90.0 EUR) en el siguiente enlace!

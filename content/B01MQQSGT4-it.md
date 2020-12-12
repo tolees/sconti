@@ -3,6 +3,7 @@ layout: post
 title: 'Lower East impermeable Uomo  Blu  Navy   al 61.56 % de descuento'
 date: 2020-10-12 12:06:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bUPSnasKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bUPSnasKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bUPSnasKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.25 EUR
 inStock: true
 prodname: 'Lower East impermeable Uomo  Blu  Navy   Small'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MQQSGT4/?tag=tolees00-21'
+descuento: '61.56'
+titulo: 'Lower East impermeable Uomo  Blu  Navy  '
 ---
 
 Ahora mismo tienes [Lower East impermeable Uomo  Blu  Navy   Small](https://www.amazon.it/dp/B01MQQSGT4/?tag=tolees00-21) a 7.4 EUR (original: 19.25 EUR) (61.56 %  de descuento) en el siguiente enlace!

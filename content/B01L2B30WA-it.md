@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.79 % en Caffè Borbone Respresso Miscela Decaffei'
 date: 2020-09-15 10:39:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RD-8b7itL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RD-8b7itL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RD-8b7itL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.78 EUR
 inStock: true
 prodname: 'Caffè Borbone Respresso Miscela Decaffeinata - Confezione da 100 Capsule - compatibili con le macchine Nespresso®* ad uso domestico'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01L2B30WA/?tag=tolees00-21'
+descuento: '40.79'
+titulo: 'Caffè Borbone Respresso Miscela Decaffei'
 ---
 
 Tienes [Caffè Borbone Respresso Miscela Decaffeinata - Confezione da 100 Capsule - compatibili con le macchine Nespresso®* ad uso domestico](https://www.amazon.it/dp/B01L2B30WA/?tag=tolees00-21) con un 40.79 % de descuento con precio de oferta de 20.0 EUR (original: 33.78 EUR) en el siguiente enlace!

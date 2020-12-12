@@ -3,6 +3,7 @@ layout: post
 title: 'Jump Force - PlayStation 4 al 29.49 % de descuento'
 date: 2020-07-21 17:50:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51G4nTDueLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51G4nTDueLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51G4nTDueLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.0 EUR
 inStock: true
 prodname: 'Jump Force - PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21'
+descuento: '29.49'
+titulo: 'Jump Force - PlayStation 4'
 ---
 
 Está [Jump Force - PlayStation 4](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21) con 29.49 de descuento por 27.5 EUR (original: 39.0 EUR) en el siguiente enlace!

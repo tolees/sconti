@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Luna  Sandali Donna  Oro  Rose al 45.88 % de descuento'
 date: 2020-10-09 07:57:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tFxkAlE3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tFxkAlE3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tFxkAlE3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.0 EUR
 inStock: true
 prodname: 'Havaianas Luna  Sandali Donna  Oro  Rose Gold/Rose Gold 5282   41/42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B015SGFII4/?tag=tolees00-21'
+descuento: '45.88'
+titulo: 'Havaianas Luna  Sandali Donna  Oro  Rose'
 ---
 
 Está [Havaianas Luna  Sandali Donna  Oro  Rose Gold/Rose Gold 5282   41/42 EU](https://www.amazon.it/dp/B015SGFII4/?tag=tolees00-21) con 45.88 de descuento por 12.99 EUR (original: 24.0 EUR) en el siguiente enlace!

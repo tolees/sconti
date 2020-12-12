@@ -3,6 +3,7 @@ layout: post
 title: 'Braun MGK5080 Rifinitore 9-In-1 RegolaBa al 31.25 % de descuento'
 date: 2020-09-28 01:33:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GMmwZh0kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GMmwZh0kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GMmwZh0kL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Braun MGK5080 Rifinitore 9-In-1 RegolaBarba Uomo  Rasoio Elettrico  Tagliacapelli  Rifinitore Corpo  Naso/Orecchie  di Precisione e Rasoio Gillette Fusion 5 ProGlide con Tecnologia Flexball  Blu/Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07M8NJK8C/?tag=tolees00-21'
+descuento: '31.25'
+titulo: 'Braun MGK5080 Rifinitore 9-In-1 RegolaBa'
 ---
 
 Ahora mismo tienes [Braun MGK5080 Rifinitore 9-In-1 RegolaBarba Uomo  Rasoio Elettrico  Tagliacapelli  Rifinitore Corpo  Naso/Orecchie  di Precisione e Rasoio Gillette Fusion 5 ProGlide con Tecnologia Flexball  Blu/Nero](https://www.amazon.it/dp/B07M8NJK8C/?tag=tolees00-21) a 54.99 EUR (original: 79.99 EUR) (31.25 %  de descuento) en el siguiente enlace!

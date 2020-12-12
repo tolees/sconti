@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.05 % en Lacoste Sport Sh2128 Felpa con Cappuccio'
 date: 2020-07-24 06:06:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xyO+p8mcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xyO+p8mcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xyO+p8mcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100.0 EUR
 inStock: true
 prodname: 'Lacoste Sport Sh2128 Felpa con Cappuccio  Grigio  Argent Chine/Marine   Medium  Taglia Produttore: 4  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MQ1V1IG/?tag=tolees00-21'
+descuento: '53.05'
+titulo: 'Lacoste Sport Sh2128 Felpa con Cappuccio'
 ---
 
 Tienes [Lacoste Sport Sh2128 Felpa con Cappuccio  Grigio  Argent Chine/Marine   Medium  Taglia Produttore: 4  Uomo](https://www.amazon.it/dp/B01MQ1V1IG/?tag=tolees00-21) con un 53.05 % de descuento con precio de oferta de 46.95 EUR (original: 100.0 EUR) en el siguiente enlace!

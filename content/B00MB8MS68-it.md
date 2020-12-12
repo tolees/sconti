@@ -3,6 +3,7 @@ layout: post
 title: 'Kenwood HDP404WH Mixer ad Immersione  80 al 29.52 % de descuento'
 date: 2020-10-12 22:20:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qLau8EFhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qLau8EFhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qLau8EFhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 105.0 EUR
 inStock: true
 prodname: 'Kenwood HDP404WH Mixer ad Immersione  800 W  Tritatutto da 0 5 l  Bicchiere graduato da 0 75 L  Plastica  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00MB8MS68/?tag=tolees00-21'
+descuento: '29.52'
+titulo: 'Kenwood HDP404WH Mixer ad Immersione  80'
 ---
 
 Está [Kenwood HDP404WH Mixer ad Immersione  800 W  Tritatutto da 0 5 l  Bicchiere graduato da 0 75 L  Plastica  Bianco](https://www.amazon.it/dp/B00MB8MS68/?tag=tolees00-21) con 29.52 de descuento por 74.0 EUR (original: 105.0 EUR) en el siguiente enlace!

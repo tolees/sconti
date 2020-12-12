@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston KC600 SSD  SKC600/256 G  Intern al 34.93 % de descuento'
 date: 2020-10-10 05:05:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31DFVnY5YML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DFVnY5YML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31DFVnY5YML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 62.99 EUR
 inStock: true
 prodname: 'Kingston KC600 SSD  SKC600/256 G  Interne SSD  2.5" SATA Rev 3.0  3D TLC  Crittografia XTS AES a 256-bit  Solo Drive'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZDBZDR9/?tag=tolees00-21'
+descuento: '34.93'
+titulo: 'Kingston KC600 SSD  SKC600/256 G  Intern'
 ---
 
 Está [Kingston KC600 SSD  SKC600/256 G  Interne SSD  2.5" SATA Rev 3.0  3D TLC  Crittografia XTS AES a 256-bit  Solo Drive](https://www.amazon.it/dp/B07ZDBZDR9/?tag=tolees00-21) con 34.93 de descuento por 40.99 EUR (original: 62.99 EUR) en el siguiente enlace!

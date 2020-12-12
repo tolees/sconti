@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.75 % en Kenwood KMX750WH Impastatrice Planetaria'
 date: 2020-10-02 15:41:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31l+FPg5SWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31l+FPg5SWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31l+FPg5SWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 400.0 EUR
 inStock: true
 prodname: 'Kenwood KMX750WH Impastatrice Planetaria Kitchen Machine kMix  Robot da Cucina Mixer  1000 W  6 velocità  5 Litri  Acciaio  Plastica  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06W5KYR22/?tag=tolees00-21'
+descuento: '32.75'
+titulo: 'Kenwood KMX750WH Impastatrice Planetaria'
 ---
 
 Tienes [Kenwood KMX750WH Impastatrice Planetaria Kitchen Machine kMix  Robot da Cucina Mixer  1000 W  6 velocità  5 Litri  Acciaio  Plastica  Bianco](https://www.amazon.it/dp/B06W5KYR22/?tag=tolees00-21) con un 32.75 % de descuento con precio de oferta de 269.0 EUR (original: 400.0 EUR) en el siguiente enlace!

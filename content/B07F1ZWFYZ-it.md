@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Union Wharf Plain Toe  Sneake al 35.92 % de descuento'
 date: 2020-08-22 15:20:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/311GSvlZyxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311GSvlZyxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311GSvlZyxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60.0 EUR
 inStock: true
 prodname: 'Timberland Union Wharf Plain Toe  Sneaker Infilare Uomo  Blu  Navy Canvas   42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07F1ZWFYZ/?tag=tolees00-21'
+descuento: '35.92'
+titulo: 'Timberland Union Wharf Plain Toe  Sneake'
 ---
 
 Ahora mismo tienes [Timberland Union Wharf Plain Toe  Sneaker Infilare Uomo  Blu  Navy Canvas   42 EU](https://www.amazon.it/dp/B07F1ZWFYZ/?tag=tolees00-21) a 38.45 EUR (original: 60.0 EUR) (35.92 %  de descuento) en el siguiente enlace!

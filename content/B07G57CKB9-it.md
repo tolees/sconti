@@ -3,6 +3,7 @@ layout: post
 title: 'Marchio Amazon - find. Camicia a Quadri  al 44.95 % de descuento'
 date: 2020-10-01 17:09:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YxfBUC0hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YxfBUC0hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YxfBUC0hL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.42 EUR
 inStock: true
 prodname: 'Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo  Pacco da 2  Mehrfarbig  Charcoal / Black   39 cm  Label: M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07G57CKB9/?tag=tolees00-21'
+descuento: '44.95'
+titulo: 'Marchio Amazon - find. Camicia a Quadri '
 ---
 
 Está [Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo  Pacco da 2  Mehrfarbig  Charcoal / Black   39 cm  Label: M](https://www.amazon.it/dp/B07G57CKB9/?tag=tolees00-21) con 44.95 de descuento por 9.04 EUR (original: 16.42 EUR) en el siguiente enlace!

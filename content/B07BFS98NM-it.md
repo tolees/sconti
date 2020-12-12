@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.14 % en AUKEY Caricatore Wireless in Grafite - C'
 date: 2020-08-26 11:28:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31g7g6nlONL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31g7g6nlONL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31g7g6nlONL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'AUKEY Caricatore Wireless in Grafite - Caricabatterie Wireless per iPhone X/8/8 Plus  Samsung S9/S9+Note8/S8/S8+ ed Altri dispositivi compatibili con la Tecnologia Qi  Include Un Cavo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07BFS98NM/?tag=tolees00-21'
+descuento: '53.14'
+titulo: 'AUKEY Caricatore Wireless in Grafite - C'
 ---
 
 Tienes [AUKEY Caricatore Wireless in Grafite - Caricabatterie Wireless per iPhone X/8/8 Plus  Samsung S9/S9+Note8/S8/S8+ ed Altri dispositivi compatibili con la Tecnologia Qi  Include Un Cavo](https://www.amazon.it/dp/B07BFS98NM/?tag=tolees00-21) con un 53.14 % de descuento con precio de oferta de 14.99 EUR (original: 31.99 EUR) en el siguiente enlace!

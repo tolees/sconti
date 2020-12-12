@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.02 % en Superdry Premium Goods Puff Entry Tee Ma'
 date: 2020-08-12 07:46:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FTGlduPaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FTGlduPaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FTGlduPaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Superdry Premium Goods Puff Entry Tee Maglietta  Blu  Supermarine Navy JZD   L  Taglia Produttore:14  Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07NXBH6Y2/?tag=tolees00-21'
+descuento: '50.02'
+titulo: 'Superdry Premium Goods Puff Entry Tee Ma'
 ---
 
 Tienes [Superdry Premium Goods Puff Entry Tee Maglietta  Blu  Supermarine Navy JZD   L  Taglia Produttore:14  Donna](https://www.amazon.it/dp/B07NXBH6Y2/?tag=tolees00-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

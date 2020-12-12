@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Adventure 2.0 Cupsole Modern  al 28.14 % de descuento'
 date: 2020-08-31 18:28:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/311E+BCXRFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311E+BCXRFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311E+BCXRFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109.89 EUR
 inStock: true
 prodname: 'Timberland Adventure 2.0 Cupsole Modern Oxford  Sneaker Uomo  Nero  Black Full Grain   41.5 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07JN382GQ/?tag=tolees00-21'
+descuento: '28.14'
+titulo: 'Timberland Adventure 2.0 Cupsole Modern '
 ---
 
 Ahora mismo tienes [Timberland Adventure 2.0 Cupsole Modern Oxford  Sneaker Uomo  Nero  Black Full Grain   41.5 EU](https://www.amazon.it/dp/B07JN382GQ/?tag=tolees00-21) a 78.97 EUR (original: 109.89 EUR) (28.14 %  de descuento) en el siguiente enlace!

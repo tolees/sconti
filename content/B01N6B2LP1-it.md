@@ -3,6 +3,7 @@ layout: post
 title: 'Brita Aluna - Caraffa Filtrante per Acqu al 34.02 % de descuento'
 date: 2020-09-16 16:17:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XlgaQtV-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XlgaQtV-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XlgaQtV-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Brita Aluna - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ Incluso'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01N6B2LP1/?tag=tolees00-21'
+descuento: '34.02'
+titulo: 'Brita Aluna - Caraffa Filtrante per Acqu'
 ---
 
 Está [Brita Aluna - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ Incluso](https://www.amazon.it/dp/B01N6B2LP1/?tag=tolees00-21) con 34.02 de descuento por 9.89 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Union Wharf 2 Eye Oxford  Moc al 50.08 % de descuento'
 date: 2020-08-19 14:13:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VjBKKo9hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VjBKKo9hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VjBKKo9hL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Bianco  Light Grey Canvas   41 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07FH9QLXH/?tag=tolees00-21'
+descuento: '50.08'
+titulo: 'Timberland Union Wharf 2 Eye Oxford  Moc'
 ---
 
 Está [Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Bianco  Light Grey Canvas   41 EU](https://www.amazon.it/dp/B07FH9QLXH/?tag=tolees00-21) con 50.08 de descuento por 32.45 EUR (original: 65.0 EUR) en el siguiente enlace!

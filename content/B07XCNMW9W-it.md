@@ -3,6 +3,7 @@ layout: post
 title: 'OSOYOO Starter Kit for BBC Micro:bit | E al 28.33 % de descuento'
 date: 2020-08-09 05:40:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/61WLq40Xj5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61WLq40Xj5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61WLq40Xj5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 83.63 EUR
 inStock: true
 prodname: 'OSOYOO Starter Kit for BBC Micro:bit | Early STEM Education for Beginners and Kids | Ultimate Bundle Includes Plug & Play Development Board  20 Sensors & More | Create Circuits and Integrate With Toys'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07XCNMW9W/?tag=tolees00-21'
+descuento: '28.33'
+titulo: 'OSOYOO Starter Kit for BBC Micro:bit | E'
 ---
 
 Está [OSOYOO Starter Kit for BBC Micro:bit | Early STEM Education for Beginners and Kids | Ultimate Bundle Includes Plug & Play Development Board  20 Sensors & More | Create Circuits and Integrate With Toys](https://www.amazon.it/dp/B07XCNMW9W/?tag=tolees00-21) con 28.33 de descuento por 59.94 EUR (original: 83.63 EUR) en el siguiente enlace!

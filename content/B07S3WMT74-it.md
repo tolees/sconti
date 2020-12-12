@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.29 % en Levi s LS Baby Tee Maglia a Maniche Lung'
 date: 2020-07-20 19:08:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/418556TOzzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418556TOzzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418556TOzzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35.0 EUR
 inStock: true
 prodname: 'Levi s LS Baby Tee Maglia a Maniche Lunghe  Multicolore  Agnes Stripe Cloud Dancer 0010   Small Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07S3WMT74/?tag=tolees00-21'
+descuento: '55.29'
+titulo: 'Levi s LS Baby Tee Maglia a Maniche Lung'
 ---
 
 Tienes [Levi s LS Baby Tee Maglia a Maniche Lunghe  Multicolore  Agnes Stripe Cloud Dancer 0010   Small Donna](https://www.amazon.it/dp/B07S3WMT74/?tag=tolees00-21) con un 55.29 % de descuento con precio de oferta de 15.65 EUR (original: 35.0 EUR) en el siguiente enlace!

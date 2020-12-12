@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.59 % en PUMA Ralph Sampson Lo  Sneakers Unisex-A'
 date: 2020-07-19 16:03:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/411TpcPeJdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411TpcPeJdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411TpcPeJdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'PUMA Ralph Sampson Lo  Sneakers Unisex-Adulto  Nero  Schwarz Black White White   44 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KG6Z71S/?tag=tolees00-21'
+descuento: '50.59'
+titulo: 'PUMA Ralph Sampson Lo  Sneakers Unisex-A'
 ---
 
 Tienes [PUMA Ralph Sampson Lo  Sneakers Unisex-Adulto  Nero  Schwarz Black White White   44 EU](https://www.amazon.it/dp/B07KG6Z71S/?tag=tolees00-21) con un 50.59 % de descuento con precio de oferta de 39.5 EUR (original: 79.95 EUR) en el siguiente enlace!

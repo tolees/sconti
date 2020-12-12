@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Larston Slim Jeans  Blu  Spaced al 70.63 % de descuento'
 date: 2020-08-28 04:21:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iQhoFOMwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iQhoFOMwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iQhoFOMwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 94.95 EUR
 inStock: true
 prodname: 'Wrangler Larston Slim Jeans  Blu  Spaced out 324   27W / 32L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TTK3HKQ/?tag=tolees00-21'
+descuento: '70.63'
+titulo: 'Wrangler Larston Slim Jeans  Blu  Spaced'
 ---
 
 Está [Wrangler Larston Slim Jeans  Blu  Spaced out 324   27W / 32L Uomo](https://www.amazon.it/dp/B07TTK3HKQ/?tag=tolees00-21) con 70.63 de descuento por 27.89 EUR (original: 94.95 EUR) en el siguiente enlace!

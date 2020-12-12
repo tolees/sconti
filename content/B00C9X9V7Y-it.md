@@ -3,6 +3,7 @@ layout: post
 title: 'Songmics LSF702 - Pouf Contenitore Ottom al 28.58 % de descuento'
 date: 2020-09-05 11:13:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/21Y3jBXbjmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21Y3jBXbjmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21Y3jBXbjmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 41.99 EUR
 inStock: true
 prodname: 'Songmics LSF702 - Pouf Contenitore Ottomane e poggiapiedi  120 L  Bianco  110 x 38 x 38 cm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00C9X9V7Y/?tag=tolees00-21'
+descuento: '28.58'
+titulo: 'Songmics LSF702 - Pouf Contenitore Ottom'
 ---
 
 Está [Songmics LSF702 - Pouf Contenitore Ottomane e poggiapiedi  120 L  Bianco  110 x 38 x 38 cm](https://www.amazon.it/dp/B00C9X9V7Y/?tag=tolees00-21) con 28.58 de descuento por 29.99 EUR (original: 41.99 EUR) en el siguiente enlace!

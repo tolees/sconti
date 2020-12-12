@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s The Original T-Shirt  Verde  HM P al 50.00 % de descuento'
 date: 2020-08-13 07:05:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010   X-Small Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'Levi s The Original T-Shirt  Verde  HM P'
 ---
 
 Está [Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010   X-Small Uomo](https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21) con 50.00 de descuento por 12.5 EUR (original: 25.0 EUR) en el siguiente enlace!

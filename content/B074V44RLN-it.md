@@ -3,6 +3,7 @@ layout: post
 title: 'YAMAY Smartwatch Braccialetto Fitness Ac al 33.34 % de descuento'
 date: 2020-08-17 22:02:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GiA32iZlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GiA32iZlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GiA32iZlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'YAMAY Smartwatch Braccialetto Fitness Activity Tracker Smart Watch Android iOS Orologio Cardiofrequenzimetro da Polso Contapassi Calorie Notifiche Sport Donna Uomo Bambini per Samsung Xiaomi Huawei'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B074V44RLN/?tag=tolees00-21'
+descuento: '33.34'
+titulo: 'YAMAY Smartwatch Braccialetto Fitness Ac'
 ---
 
 Está [YAMAY Smartwatch Braccialetto Fitness Activity Tracker Smart Watch Android iOS Orologio Cardiofrequenzimetro da Polso Contapassi Calorie Notifiche Sport Donna Uomo Bambini per Samsung Xiaomi Huawei](https://www.amazon.it/dp/B074V44RLN/?tag=tolees00-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

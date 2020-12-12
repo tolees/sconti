@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.29 % en Seiko Orologio Cronografo Quarzo Uomo co'
 date: 2020-10-07 09:49:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aJ1ph+F-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aJ1ph+F-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aJ1ph+F-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Pelle SNDC31P1'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B004JY0KP8/?tag=tolees00-21'
+descuento: '57.29'
+titulo: 'Seiko Orologio Cronografo Quarzo Uomo co'
 ---
 
 Tienes [Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Pelle SNDC31P1](https://www.amazon.it/dp/B004JY0KP8/?tag=tolees00-21) con un 57.29 % de descuento con precio de oferta de 85.0 EUR (original: 199.0 EUR) en el siguiente enlace!

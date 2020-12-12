@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider  Jeans Slim  Bleu  Lt Vintage  al 55.00 % de descuento'
 date: 2020-10-10 17:41:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EHkQ5Hi+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EHkQ5Hi+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EHkQ5Hi+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Rider  Jeans Slim  Bleu  Lt Vintage Worn Lp   32W / 30L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VR2JLP8/?tag=tolees00-21'
+descuento: '55.00'
+titulo: 'Lee Rider  Jeans Slim  Bleu  Lt Vintage '
 ---
 
 Ahora mismo tienes [Lee Rider  Jeans Slim  Bleu  Lt Vintage Worn Lp   32W / 30L Uomo](https://www.amazon.it/dp/B07VR2JLP8/?tag=tolees00-21) a 44.98 EUR (original: 99.95 EUR) (55.00 %  de descuento) en el siguiente enlace!

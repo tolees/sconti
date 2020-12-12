@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.17 % en HP - HP Stampanti Office Jet Pro 9022 St'
 date: 2020-07-28 17:36:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nntkSmf6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nntkSmf6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nntkSmf6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 235.0 EUR
 inStock: true
 prodname: 'HP - HP Stampanti Office Jet Pro 9022 Stampante Multifunzione  Stampa  Copia  Scansione  Fax  Bianco/Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00VAWFFPM/?tag=tolees00-21'
+descuento: '36.17'
+titulo: 'HP - HP Stampanti Office Jet Pro 9022 St'
 ---
 
 Tienes [HP - HP Stampanti Office Jet Pro 9022 Stampante Multifunzione  Stampa  Copia  Scansione  Fax  Bianco/Nero](https://www.amazon.it/dp/B00VAWFFPM/?tag=tolees00-21) con un 36.17 % de descuento con precio de oferta de 149.99 EUR (original: 235.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.01 % en Einhell 4513914 Trapano Avvitatore a Bat'
 date: 2020-07-20 07:03:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dG5hIeGKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dG5hIeGKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dG5hIeGKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 66.49 EUR
 inStock: true
 prodname: 'Einhell 4513914 Trapano Avvitatore a Batteria'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07GSD13P4/?tag=tolees00-21'
+descuento: '49.01'
+titulo: 'Einhell 4513914 Trapano Avvitatore a Bat'
 ---
 
 Tienes [Einhell 4513914 Trapano Avvitatore a Batteria](https://www.amazon.it/dp/B07GSD13P4/?tag=tolees00-21) con un 49.01 % de descuento con precio de oferta de 33.9 EUR (original: 66.49 EUR) en el siguiente enlace!

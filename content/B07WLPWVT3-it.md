@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Block Stripe Hilfiger Tee al 44.65 % de descuento'
 date: 2020-08-16 11:06:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+AhMKpgbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+AhMKpgbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+AhMKpgbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 43.81 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva  Arancione  Washed Vermillion   XX-Large  Taglia Unica:  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07WLPWVT3/?tag=tolees00-21'
+descuento: '44.65'
+titulo: 'Tommy Hilfiger Block Stripe Hilfiger Tee'
 ---
 
 Está [Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva  Arancione  Washed Vermillion   XX-Large  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07WLPWVT3/?tag=tolees00-21) con 44.65 de descuento por 24.25 EUR (original: 43.81 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmjulia Ls Dnm Noos  Blazer Do al 35.01 % de descuento'
 date: 2020-10-01 20:14:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nlq8dPN-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nlq8dPN-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nlq8dPN-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmjulia Ls Dnm Noos  Blazer Donna  38  Nero  Black Black   42'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01EFDH6CM/?tag=tolees00-21'
+descuento: '35.01'
+titulo: 'Vero Moda Vmjulia Ls Dnm Noos  Blazer Do'
 ---
 
 Está [Vero Moda Vmjulia Ls Dnm Noos  Blazer Donna  38  Nero  Black Black   42](https://www.amazon.it/dp/B01EFDH6CM/?tag=tolees00-21) con 35.01 de descuento por 25.99 EUR (original: 39.99 EUR) en el siguiente enlace!

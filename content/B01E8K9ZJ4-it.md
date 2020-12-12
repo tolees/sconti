@@ -3,6 +3,7 @@ layout: post
 title: 'Ayotu Custodia in Pelle PU per Kindle Pa al 65.23 % de descuento'
 date: 2020-08-27 11:21:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Ayotu Custodia in Pelle PU per Kindle Paperwhite-Custodia impermeabile dipinta per svegliarsi/dormire automaticamente solo per Kindle Paperwhite 10ªgen-modello 2018  Il ragazzo e la volpe'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01E8K9ZJ4/?tag=tolees00-21'
+descuento: '65.23'
+titulo: 'Ayotu Custodia in Pelle PU per Kindle Pa'
 ---
 
 Está [Ayotu Custodia in Pelle PU per Kindle Paperwhite-Custodia impermeabile dipinta per svegliarsi/dormire automaticamente solo per Kindle Paperwhite 10ªgen-modello 2018  Il ragazzo e la volpe](https://www.amazon.it/dp/B01E8K9ZJ4/?tag=tolees00-21) con 65.23 de descuento por 15.99 EUR (original: 45.99 EUR) en el siguiente enlace!

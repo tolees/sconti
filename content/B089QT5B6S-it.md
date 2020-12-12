@@ -3,6 +3,7 @@ layout: post
 title: 'takestop® Barbecue Tondo 36x55cm GRIGLIA al 38.48 % de descuento'
 date: 2020-09-21 15:00:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sd82wdMHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sd82wdMHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sd82wdMHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'takestop® Barbecue Tondo 36x55cm GRIGLIA Rimovibile Acciaio SCALDA PIETANZE Metallo Cottura CASA Cucina Giardino'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B089QT5B6S/?tag=tolees00-21'
+descuento: '38.48'
+titulo: 'takestop® Barbecue Tondo 36x55cm GRIGLIA'
 ---
 
 Está [takestop® Barbecue Tondo 36x55cm GRIGLIA Rimovibile Acciaio SCALDA PIETANZE Metallo Cottura CASA Cucina Giardino](https://www.amazon.it/dp/B089QT5B6S/?tag=tolees00-21) con 38.48 de descuento por 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!

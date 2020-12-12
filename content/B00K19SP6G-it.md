@@ -3,6 +3,7 @@ layout: post
 title: 'Supradyn Magnesio e Potassio - Integrato al 57.78 % de descuento'
 date: 2020-07-19 08:16:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MnQX1D7gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MnQX1D7gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MnQX1D7gL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 9.9 EUR
 inStock: true
 prodname: 'Supradyn Magnesio e Potassio - Integratore Multiminerali per Afa  Caldo e Attività Fisica - 14 Bustine Effervescenti Gusto Arancia'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00K19SP6G/?tag=tolees00-21'
+descuento: '57.78'
+titulo: 'Supradyn Magnesio e Potassio - Integrato'
 ---
 
 Está [Supradyn Magnesio e Potassio - Integratore Multiminerali per Afa  Caldo e Attività Fisica - 14 Bustine Effervescenti Gusto Arancia](https://www.amazon.it/dp/B00K19SP6G/?tag=tolees00-21) con 57.78 de descuento por 4.18 EUR (original: 9.9 EUR) en el siguiente enlace!

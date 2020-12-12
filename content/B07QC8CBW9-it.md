@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.58 % en Puma Studio Yogini Lux Tight  Leggins Do'
 date: 2020-10-11 06:47:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QsPnEmTRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QsPnEmTRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QsPnEmTRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.84 EUR
 inStock: true
 prodname: 'Puma Studio Yogini Lux Tight  Leggins Donna  Medium Gray Heather  L'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07QC8CBW9/?tag=tolees00-21'
+descuento: '25.58'
+titulo: 'Puma Studio Yogini Lux Tight  Leggins Do'
 ---
 
 Tienes [Puma Studio Yogini Lux Tight  Leggins Donna  Medium Gray Heather  L](https://www.amazon.it/dp/B07QC8CBW9/?tag=tolees00-21) con un 25.58 % de descuento con precio de oferta de 14.02 EUR (original: 18.84 EUR) en el siguiente enlace!

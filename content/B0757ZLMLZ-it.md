@@ -3,6 +3,7 @@ layout: post
 title: 'Gucci Bloom  Profumo Eau de Parfum  100  al 33.61 % de descuento'
 date: 2020-08-22 16:24:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+3ZfnChsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+3ZfnChsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+3ZfnChsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.0 EUR
 inStock: true
 prodname: 'Gucci Bloom  Profumo Eau de Parfum  100 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0757ZLMLZ/?tag=tolees00-21'
+descuento: '33.61'
+titulo: 'Gucci Bloom  Profumo Eau de Parfum  100 '
 ---
 
 Está [Gucci Bloom  Profumo Eau de Parfum  100 ml](https://www.amazon.it/dp/B0757ZLMLZ/?tag=tolees00-21) con 33.61 de descuento por 79.0 EUR (original: 119.0 EUR) en el siguiente enlace!

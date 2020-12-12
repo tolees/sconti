@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.12 % en MANN-FILTER HU7020Z Filtro Olio'
 date: 2020-09-17 11:07:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41SCpcNQXUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SCpcNQXUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41SCpcNQXUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 8.5 EUR
 inStock: true
 prodname: 'MANN-FILTER HU7020Z Filtro Olio'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21'
+descuento: '34.12'
+titulo: 'MANN-FILTER HU7020Z Filtro Olio'
 ---
 
 Tienes [MANN-FILTER HU7020Z Filtro Olio](https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21) con un 34.12 % de descuento con precio de oferta de 5.6 EUR (original: 8.5 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Massaggiatore Cervicale  cervicale massa al 57.22 % de descuento'
 date: 2020-08-26 16:39:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZVQlJPT3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZVQlJPT3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZVQlJPT3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Massaggiatore Cervicale  cervicale massaggiatore homedics Multifunzionale Massaggiatore Cervicale cervicale massaggi Fisioterapia Elettromagnetica Profonda  allevia il dolore'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B088TT4QHR/?tag=tolees00-21'
+descuento: '57.22'
+titulo: 'Massaggiatore Cervicale  cervicale massa'
 ---
 
 Ahora mismo tienes [Massaggiatore Cervicale  cervicale massaggiatore homedics Multifunzionale Massaggiatore Cervicale cervicale massaggi Fisioterapia Elettromagnetica Profonda  allevia il dolore](https://www.amazon.it/dp/B088TT4QHR/?tag=tolees00-21) a 29.9 EUR (original: 69.9 EUR) (57.22 %  de descuento) en el siguiente enlace!

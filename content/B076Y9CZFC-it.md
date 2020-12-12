@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s LS Graphic Tee - B Maglia a Manic al 35.71 % de descuento'
 date: 2020-08-21 13:05:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31yWcYFen5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yWcYFen5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31yWcYFen5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35.0 EUR
 inStock: true
 prodname: 'Levi s LS Graphic Tee - B Maglia a Maniche Lunghe  Bianco  Better White-White   Medium Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B076Y9CZFC/?tag=tolees00-21'
+descuento: '35.71'
+titulo: 'Levi s LS Graphic Tee - B Maglia a Manic'
 ---
 
 Está [Levi s LS Graphic Tee - B Maglia a Maniche Lunghe  Bianco  Better White-White   Medium Uomo](https://www.amazon.it/dp/B076Y9CZFC/?tag=tolees00-21) con 35.71 de descuento por 22.5 EUR (original: 35.0 EUR) en el siguiente enlace!

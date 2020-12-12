@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Regista 18  Giacca da Rappresenta al 52.57 % de descuento'
 date: 2020-09-01 13:36:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31NB+IIbr9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NB+IIbr9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31NB+IIbr9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Regista 18  Giacca da Rappresentanza Uomo  Black/White  S'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21'
+descuento: '52.57'
+titulo: 'adidas Regista 18  Giacca da Rappresenta'
 ---
 
 Ahora mismo tienes [adidas Regista 18  Giacca da Rappresentanza Uomo  Black/White  S](https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21) a 23.69 EUR (original: 49.95 EUR) (52.57 %  de descuento) en el siguiente enlace!

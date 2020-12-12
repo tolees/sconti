@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.13 % en Superdry Denim Goods Co Tee T-Shirt  Blu'
 date: 2020-08-25 12:31:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZFwiX4taL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZFwiX4taL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZFwiX4taL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Superdry Denim Goods Co Tee T-Shirt  Blu  True Indigo BDM   M Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07NY3RJ2L/?tag=tolees00-21'
+descuento: '57.13'
+titulo: 'Superdry Denim Goods Co Tee T-Shirt  Blu'
 ---
 
 Tienes [Superdry Denim Goods Co Tee T-Shirt  Blu  True Indigo BDM   M Uomo](https://www.amazon.it/dp/B07NY3RJ2L/?tag=tolees00-21) con un 57.13 % de descuento con precio de oferta de 15.0 EUR (original: 34.99 EUR) en el siguiente enlace!

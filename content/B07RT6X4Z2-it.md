@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel UMBX-SHAWNTHREEPACK  Slip Uomo  M al 66.85 % de descuento'
 date: 2020-07-18 07:29:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hV07+wxKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hV07+wxKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hV07+wxKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40.0 EUR
 inStock: true
 prodname: 'Diesel UMBX-SHAWNTHREEPACK  Slip Uomo  Multicolore  Black/Racing Red/Blue Depths E5066-0pawe   S  Pacco da 3'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RT6X4Z2/?tag=tolees00-21'
+descuento: '66.85'
+titulo: 'Diesel UMBX-SHAWNTHREEPACK  Slip Uomo  M'
 ---
 
 Está [Diesel UMBX-SHAWNTHREEPACK  Slip Uomo  Multicolore  Black/Racing Red/Blue Depths E5066-0pawe   S  Pacco da 3](https://www.amazon.it/dp/B07RT6X4Z2/?tag=tolees00-21) con 66.85 de descuento por 13.26 EUR (original: 40.0 EUR) en el siguiente enlace!

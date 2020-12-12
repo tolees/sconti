@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Forest Grove  Scarpe da Ginnastic al 49.99 % de descuento'
 date: 2020-09-12 07:07:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31503Yp1jnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31503Yp1jnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31503Yp1jnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'adidas Forest Grove  Scarpe da Ginnastica Uomo  Gris Blanc Noir  46 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SLZQ1XP/?tag=tolees00-21'
+descuento: '49.99'
+titulo: 'adidas Forest Grove  Scarpe da Ginnastic'
 ---
 
 Ahora mismo tienes [adidas Forest Grove  Scarpe da Ginnastica Uomo  Gris Blanc Noir  46 EU](https://www.amazon.it/dp/B07SLZQ1XP/?tag=tolees00-21) a 39.98 EUR (original: 79.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

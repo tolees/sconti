@@ -3,6 +3,7 @@ layout: post
 title: 'Citizen Orologio Cronografo Quarzo Uomo  al 34.67 % de descuento'
 date: 2020-10-02 09:13:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wqEI03GTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wqEI03GTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wqEI03GTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'Citizen Orologio Cronografo Quarzo Uomo con Cinturino in Pelle CA4210-16E'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00R7PSPS0/?tag=tolees00-21'
+descuento: '34.67'
+titulo: 'Citizen Orologio Cronografo Quarzo Uomo '
 ---
 
 Está [Citizen Orologio Cronografo Quarzo Uomo con Cinturino in Pelle CA4210-16E](https://www.amazon.it/dp/B00R7PSPS0/?tag=tolees00-21) con 34.67 de descuento por 130.0 EUR (original: 199.0 EUR) en el siguiente enlace!

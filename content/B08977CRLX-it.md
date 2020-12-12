@@ -3,6 +3,7 @@ layout: post
 title: 'Hot Mom Barriera letto extra-large 150 c al 41.06 % de descuento'
 date: 2020-10-01 05:47:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/4151Bxx0yFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4151Bxx0yFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4151Bxx0yFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.0 EUR
 inStock: true
 prodname: 'Hot Mom Barriera letto extra-large 150 cm  dark green '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08977CRLX/?tag=tolees00-21'
+descuento: '41.06'
+titulo: 'Hot Mom Barriera letto extra-large 150 c'
 ---
 
 Está [Hot Mom Barriera letto extra-large 150 cm  dark green ](https://www.amazon.it/dp/B08977CRLX/?tag=tolees00-21) con 41.06 de descuento por 28.88 EUR (original: 49.0 EUR) en el siguiente enlace!

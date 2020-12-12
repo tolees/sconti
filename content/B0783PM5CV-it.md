@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Smash Wns V2 L  Scarpe da Ginnastic al 29.95 % de descuento'
 date: 2020-08-14 09:13:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+BEP4zcuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+BEP4zcuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+BEP4zcuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'PUMA Smash Wns V2 L  Scarpe da Ginnastica Donna  Nero Black White  42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0783PM5CV/?tag=tolees00-21'
+descuento: '29.95'
+titulo: 'PUMA Smash Wns V2 L  Scarpe da Ginnastic'
 ---
 
 Ahora mismo tienes [PUMA Smash Wns V2 L  Scarpe da Ginnastica Donna  Nero Black White  42 EU](https://www.amazon.it/dp/B0783PM5CV/?tag=tolees00-21) a 34.99 EUR (original: 49.95 EUR) (29.95 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'MyHeritage DNA - Kit per il test del DNA al 37.97 % de descuento'
 date: 2020-08-19 06:00:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wQVyj6niL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wQVyj6niL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wQVyj6niL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.0 EUR
 inStock: true
 prodname: 'MyHeritage DNA - Kit per il test del DNA - Analisi genetiche di ascendenza ed etnia'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21'
+descuento: '37.97'
+titulo: 'MyHeritage DNA - Kit per il test del DNA'
 ---
 
 Ahora mismo tienes [MyHeritage DNA - Kit per il test del DNA - Analisi genetiche di ascendenza ed etnia](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21) a 49.0 EUR (original: 79.0 EUR) (37.97 %  de descuento) en el siguiente enlace!

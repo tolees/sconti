@@ -3,6 +3,7 @@ layout: post
 title: 'Kimbo - Macinato Fresco  Caffè di Napoli al 48.10 % de descuento'
 date: 2020-09-10 09:14:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mx+p+nbdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mx+p+nbdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mx+p+nbdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 2.89 EUR
 inStock: true
 prodname: 'Kimbo - Macinato Fresco  Caffè di Napoli  Tostatura Media - 250 g'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21'
+descuento: '48.10'
+titulo: 'Kimbo - Macinato Fresco  Caffè di Napoli'
 ---
 
 Ahora mismo tienes [Kimbo - Macinato Fresco  Caffè di Napoli  Tostatura Media - 250 g](https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21) a 1.5 EUR (original: 2.89 EUR) (48.10 %  de descuento) en el siguiente enlace!

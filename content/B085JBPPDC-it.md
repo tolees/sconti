@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Sneakersocken  6er Pack  Wh al 33.46 % de descuento'
 date: 2020-10-09 15:50:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OCmxt80kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OCmxt80kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OCmxt80kL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23.28 EUR
 inStock: true
 prodname: 'Calvin Klein Sneakersocken  6er Pack  White/Grey/Black  40/46 Calzini  Nero  Taglia unica Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B085JBPPDC/?tag=tolees00-21'
+descuento: '33.46'
+titulo: 'Calvin Klein Sneakersocken  6er Pack  Wh'
 ---
 
 Está [Calvin Klein Sneakersocken  6er Pack  White/Grey/Black  40/46 Calzini  Nero  Taglia unica Uomo](https://www.amazon.it/dp/B085JBPPDC/?tag=tolees00-21) con 33.46 de descuento por 15.49 EUR (original: 23.28 EUR) en el siguiente enlace!

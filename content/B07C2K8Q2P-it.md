@@ -3,6 +3,7 @@ layout: post
 title: 'Marchio Amazon - TRUTH & FABLE Vestito M al 64.24 % de descuento'
 date: 2020-10-02 21:22:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31uYc7bBVuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uYc7bBVuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31uYc7bBVuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 67.93 EUR
 inStock: true
 prodname: 'Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo a V Donna  Nero  Black Black   44  Label: M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07C2K8Q2P/?tag=tolees00-21'
+descuento: '64.24'
+titulo: 'Marchio Amazon - TRUTH & FABLE Vestito M'
 ---
 
 Está [Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo a V Donna  Nero  Black Black   44  Label: M](https://www.amazon.it/dp/B07C2K8Q2P/?tag=tolees00-21) con 64.24 de descuento por 24.29 EUR (original: 67.93 EUR) en el siguiente enlace!

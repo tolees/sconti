@@ -3,6 +3,7 @@ layout: post
 title: 'Keter Baule Rockwood Marrone 570 Lt In R al 26.35 % de descuento'
 date: 2020-08-21 08:08:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vdUz20EeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vdUz20EeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vdUz20EeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 219.9 EUR
 inStock: true
 prodname: 'Keter Baule Rockwood Marrone 570 Lt In Resina Cm 155X72.4X64.4 H'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00A2N8ZAC/?tag=tolees00-21'
+descuento: '26.35'
+titulo: 'Keter Baule Rockwood Marrone 570 Lt In R'
 ---
 
 Está [Keter Baule Rockwood Marrone 570 Lt In Resina Cm 155X72.4X64.4 H](https://www.amazon.it/dp/B00A2N8ZAC/?tag=tolees00-21) con 26.35 de descuento por 161.95 EUR (original: 219.9 EUR) en el siguiente enlace!

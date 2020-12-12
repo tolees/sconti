@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.03 % en FIFA 20 - Legacy - Nintendo Switch'
 date: 2020-08-04 17:11:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YCZzUUqqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YCZzUUqqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YCZzUUqqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'FIFA 20 - Legacy - Nintendo Switch'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21'
+descuento: '60.03'
+titulo: 'FIFA 20 - Legacy - Nintendo Switch'
 ---
 
 Tienes [FIFA 20 - Legacy - Nintendo Switch](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21) con un 60.03 % de descuento con precio de oferta de 19.98 EUR (original: 49.99 EUR) en el siguiente enlace!

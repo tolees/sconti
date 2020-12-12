@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.37 % en BAITITON 2 5 pollici SATA III Unità a St'
 date: 2020-08-25 10:32:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.99 EUR
 inStock: true
 prodname: 'BAITITON 2 5 pollici SATA III Unità a Stato Solido Interno 128GB Disco SSD Lettura 550MB/s  Scrittura 530MB/s'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08F59B8KH/?tag=tolees00-21'
+descuento: '42.37'
+titulo: 'BAITITON 2 5 pollici SATA III Unità a St'
 ---
 
 Tienes [BAITITON 2 5 pollici SATA III Unità a Stato Solido Interno 128GB Disco SSD Lettura 550MB/s  Scrittura 530MB/s](https://www.amazon.it/dp/B08F59B8KH/?tag=tolees00-21) con un 42.37 % de descuento con precio de oferta de 19.59 EUR (original: 33.99 EUR) en el siguiente enlace!

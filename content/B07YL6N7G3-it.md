@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler SS Small Logo Tee T-Shirt  Blu  al 36.43 % de descuento'
 date: 2020-09-06 16:44:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/312hwNSsQcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312hwNSsQcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312hwNSsQcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Wrangler SS Small Logo Tee T-Shirt  Blu  Blue Graphite X15   Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07YL6N7G3/?tag=tolees00-21'
+descuento: '36.43'
+titulo: 'Wrangler SS Small Logo Tee T-Shirt  Blu '
 ---
 
 Ahora mismo tienes [Wrangler SS Small Logo Tee T-Shirt  Blu  Blue Graphite X15   Uomo](https://www.amazon.it/dp/B07YL6N7G3/?tag=tolees00-21) a 15.86 EUR (original: 24.95 EUR) (36.43 %  de descuento) en el siguiente enlace!

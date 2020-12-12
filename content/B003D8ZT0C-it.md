@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech M90 Mouse USB Cablato  1000 DPI al 40.04 % de descuento'
 date: 2020-09-16 05:53:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wKuXTQ1QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wKuXTQ1QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wKuXTQ1QL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Logitech M90 Mouse USB Cablato  1000 DPI  Mouse Ambidestro  Compatibile con PC/Mac/Laptop  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B003D8ZT0C/?tag=tolees00-21'
+descuento: '40.04'
+titulo: 'Logitech M90 Mouse USB Cablato  1000 DPI'
 ---
 
 Ahora mismo tienes [Logitech M90 Mouse USB Cablato  1000 DPI  Mouse Ambidestro  Compatibile con PC/Mac/Laptop  Nero](https://www.amazon.it/dp/B003D8ZT0C/?tag=tolees00-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!

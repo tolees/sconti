@@ -3,6 +3,7 @@ layout: post
 title: 'Apli Kids 13067 Trapano Fantasia Fiore V al 60.17 % de descuento'
 date: 2020-08-09 05:29:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MvK7hBOBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MvK7hBOBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MvK7hBOBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.21 EUR
 inStock: true
 prodname: 'Apli Kids 13067 Trapano Fantasia Fiore Verde  16 mm x 13067'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00JC1S3ZM/?tag=tolees00-21'
+descuento: '60.17'
+titulo: 'Apli Kids 13067 Trapano Fantasia Fiore V'
 ---
 
 Está [Apli Kids 13067 Trapano Fantasia Fiore Verde  16 mm x 13067](https://www.amazon.it/dp/B00JC1S3ZM/?tag=tolees00-21) con 60.17 de descuento por 12.83 EUR (original: 32.21 EUR) en el siguiente enlace!

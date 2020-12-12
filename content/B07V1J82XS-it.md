@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.46 % en Boss Identity T-Shirt RN  Blu  Dark Blue'
 date: 2020-09-07 09:40:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mon3sndML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mon3sndML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mon3sndML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Boss Identity T-Shirt RN  Blu  Dark Blue 403   Medium Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07V1J82XS/?tag=tolees00-21'
+descuento: '57.46'
+titulo: 'Boss Identity T-Shirt RN  Blu  Dark Blue'
 ---
 
 Tienes [Boss Identity T-Shirt RN  Blu  Dark Blue 403   Medium Uomo](https://www.amazon.it/dp/B07V1J82XS/?tag=tolees00-21) con un 57.46 % de descuento con precio de oferta de 19.12 EUR (original: 44.95 EUR) en el siguiente enlace!

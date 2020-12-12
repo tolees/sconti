@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.53 % en Keter Porta Attrezzi Store It Out Arc Be'
 date: 2020-08-21 08:07:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W9dlnzI4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W9dlnzI4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W9dlnzI4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 219.0 EUR
 inStock: true
 prodname: 'Keter Porta Attrezzi Store It Out Arc Beige In Resina Cm 146X82X120 H'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00ILIVD9U/?tag=tolees00-21'
+descuento: '31.53'
+titulo: 'Keter Porta Attrezzi Store It Out Arc Be'
 ---
 
 Tienes [Keter Porta Attrezzi Store It Out Arc Beige In Resina Cm 146X82X120 H](https://www.amazon.it/dp/B00ILIVD9U/?tag=tolees00-21) con un 31.53 % de descuento con precio de oferta de 149.95 EUR (original: 219.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.22 % en Fast & Furious: Crossroads PS4 - PlaySta'
 date: 2020-08-24 04:21:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ozgaB24ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ozgaB24ML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ozgaB24ML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Fast & Furious: Crossroads PS4 - PlayStation 4 [versione UK]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0837FKZPD/?tag=tolees00-21'
+descuento: '26.22'
+titulo: 'Fast & Furious: Crossroads PS4 - PlaySta'
 ---
 
 Tienes [Fast & Furious: Crossroads PS4 - PlayStation 4 [versione UK]](https://www.amazon.it/dp/B0837FKZPD/?tag=tolees00-21) con un 26.22 % de descuento con precio de oferta de 51.64 EUR (original: 69.99 EUR) en el siguiente enlace!

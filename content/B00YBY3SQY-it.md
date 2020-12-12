@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.68 % en Maybelline New York Classic Volum  Expre'
 date: 2020-09-15 18:28:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mGmDeS6VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mGmDeS6VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mGmDeS6VL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 7.75 EUR
 inStock: true
 prodname: 'Maybelline New York Classic Volum  Express Mascara  Volume Naturale  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00YBY3SQY/?tag=tolees00-21'
+descuento: '49.68'
+titulo: 'Maybelline New York Classic Volum  Expre'
 ---
 
 Tienes [Maybelline New York Classic Volum  Express Mascara  Volume Naturale  Nero](https://www.amazon.it/dp/B00YBY3SQY/?tag=tolees00-21) con un 49.68 % de descuento con precio de oferta de 3.9 EUR (original: 7.75 EUR) en el siguiente enlace!

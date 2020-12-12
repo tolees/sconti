@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en PARTU Purificatore d Aria HEPA Filtro co'
 date: 2020-08-23 18:40:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vJV2BZigL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vJV2BZigL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vJV2BZigL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'PARTU Purificatore d Aria HEPA Filtro con Filtro Aria a Carboni Attivi  Adatto a Casa e Ufficio  Rimuove 99 97% di Allergeni  Fumo  Polvere  Polline  Dander di Pet  Odore  Germi  Muffa  Senza ozono'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07BY3H53B/?tag=tolees00-21'
+descuento: '33.34'
+titulo: 'PARTU Purificatore d Aria HEPA Filtro co'
 ---
 
 Tienes [PARTU Purificatore d Aria HEPA Filtro con Filtro Aria a Carboni Attivi  Adatto a Casa e Ufficio  Rimuove 99 97% di Allergeni  Fumo  Polvere  Polline  Dander di Pet  Odore  Germi  Muffa  Senza ozono](https://www.amazon.it/dp/B07BY3H53B/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 79.99 EUR (original: 119.99 EUR) en el siguiente enlace!

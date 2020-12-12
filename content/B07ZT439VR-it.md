@@ -3,6 +3,7 @@ layout: post
 title: 'TACKLIFE-Cacciavite  cacciavite di preci al 58.38 % de descuento'
 date: 2020-08-27 14:01:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-sCcBxrCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-sCcBxrCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-sCcBxrCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'TACKLIFE-Cacciavite  cacciavite di precisione 12 in 1 con punte di resistenza industriali intercambiabili  mini set multiutensile TACKLIFE-HSS5B'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZT439VR/?tag=tolees00-21'
+descuento: '58.38'
+titulo: 'TACKLIFE-Cacciavite  cacciavite di preci'
 ---
 
 Ahora mismo tienes [TACKLIFE-Cacciavite  cacciavite di precisione 12 in 1 con punte di resistenza industriali intercambiabili  mini set multiutensile TACKLIFE-HSS5B](https://www.amazon.it/dp/B07ZT439VR/?tag=tolees00-21) a 4.99 EUR (original: 11.99 EUR) (58.38 %  de descuento) en el siguiente enlace!

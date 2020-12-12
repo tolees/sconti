@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.54 % en Fila Disruptor Low  Scarpe da Ginnastica'
 date: 2020-08-04 17:16:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QdRdXr4XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QdRdXr4XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QdRdXr4XL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Fila Disruptor Low  Scarpe da Ginnastica Basse Uomo  Nero  Black 25y   42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07B8QK18L/?tag=tolees00-21'
+descuento: '53.54'
+titulo: 'Fila Disruptor Low  Scarpe da Ginnastica'
 ---
 
 Tienes [Fila Disruptor Low  Scarpe da Ginnastica Basse Uomo  Nero  Black 25y   42 EU](https://www.amazon.it/dp/B07B8QK18L/?tag=tolees00-21) con un 53.54 % de descuento con precio de oferta de 46.44 EUR (original: 99.95 EUR) en el siguiente enlace!

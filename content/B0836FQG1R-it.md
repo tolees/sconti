@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en Tagliacapelli e barba sei in uno  rasoio'
 date: 2020-08-18 11:44:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-BcsrbHHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-BcsrbHHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-BcsrbHHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Tagliacapelli e barba sei in uno  rasoio elettrico professionale per uomo per naso e orecchie  parrucchiere ricaricabile impermeabile con caricatore  nero '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0836FQG1R/?tag=tolees00-21'
+descuento: '50.03'
+titulo: 'Tagliacapelli e barba sei in uno  rasoio'
 ---
 
 Tienes [Tagliacapelli e barba sei in uno  rasoio elettrico professionale per uomo per naso e orecchie  parrucchiere ricaricabile impermeabile con caricatore  nero ](https://www.amazon.it/dp/B0836FQG1R/?tag=tolees00-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

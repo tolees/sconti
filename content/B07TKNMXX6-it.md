@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Slim Animals  Infradito Donna  al 33.96 % de descuento'
 date: 2020-08-29 17:27:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/512n7e2M8RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512n7e2M8RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512n7e2M8RL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.0 EUR
 inStock: true
 prodname: 'Havaianas Slim Animals  Infradito Donna  Multicolore  Grey/Olive Green 7807   41/42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TKNMXX6/?tag=tolees00-21'
+descuento: '33.96'
+titulo: 'Havaianas Slim Animals  Infradito Donna '
 ---
 
 Está [Havaianas Slim Animals  Infradito Donna  Multicolore  Grey/Olive Green 7807   41/42 EU](https://www.amazon.it/dp/B07TKNMXX6/?tag=tolees00-21) con 33.96 de descuento por 18.49 EUR (original: 28.0 EUR) en el siguiente enlace!

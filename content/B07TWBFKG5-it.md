@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Levi s Deconstructed PL Gonna  Blu  Gate'
 date: 2020-08-23 10:27:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OaZAZakpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OaZAZakpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OaZAZakpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Levi s Deconstructed PL Gonna  Blu  Gateway Skirt Plus 0013   20 Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TWBFKG5/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'Levi s Deconstructed PL Gonna  Blu  Gate'
 ---
 
 Tienes [Levi s Deconstructed PL Gonna  Blu  Gateway Skirt Plus 0013   20 Donna](https://www.amazon.it/dp/B07TWBFKG5/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 32.5 EUR (original: 65.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Orient Orologio Analogico Automatico Uom al 61.43 % de descuento'
 date: 2020-09-30 06:40:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TSCUBMcqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TSCUBMcqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TSCUBMcqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 280.0 EUR
 inStock: true
 prodname: 'Orient Orologio Analogico Automatico Uomo con Cinturino in Pelle FAC00004B0'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B074CSGVHT/?tag=tolees00-21'
+descuento: '61.43'
+titulo: 'Orient Orologio Analogico Automatico Uom'
 ---
 
 Ahora mismo tienes [Orient Orologio Analogico Automatico Uomo con Cinturino in Pelle FAC00004B0](https://www.amazon.it/dp/B074CSGVHT/?tag=tolees00-21) a 108.0 EUR (original: 280.0 EUR) (61.43 %  de descuento) en el siguiente enlace!

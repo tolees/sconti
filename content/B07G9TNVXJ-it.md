@@ -3,6 +3,7 @@ layout: post
 title: 'Moleskine  Borsa Porta PC per Laptop  Ta al 25.33 % de descuento'
 date: 2020-10-02 11:11:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31z-mOhX7ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31z-mOhX7ML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31z-mOhX7ML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.77 EUR
 inStock: true
 prodname: 'Moleskine  Borsa Porta PC per Laptop  Tablet  iPad e Notebook fino a 13    38 x 15 x 27 cm  Blu Zaffiro'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07G9TNVXJ/?tag=tolees00-21'
+descuento: '25.33'
+titulo: 'Moleskine  Borsa Porta PC per Laptop  Ta'
 ---
 
 Está [Moleskine  Borsa Porta PC per Laptop  Tablet  iPad e Notebook fino a 13    38 x 15 x 27 cm  Blu Zaffiro](https://www.amazon.it/dp/B07G9TNVXJ/?tag=tolees00-21) con 25.33 de descuento por 28.95 EUR (original: 38.77 EUR) en el siguiente enlace!

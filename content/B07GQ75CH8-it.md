@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.05 % en New Balance 574v2  Sneaker Uomo  Nero  B'
 date: 2020-08-13 10:30:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hSzCv8BUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hSzCv8BUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hSzCv8BUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'New Balance 574v2  Sneaker Uomo  Nero  Black Black   43 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07GQ75CH8/?tag=tolees00-21'
+descuento: '50.05'
+titulo: 'New Balance 574v2  Sneaker Uomo  Nero  B'
 ---
 
 Tienes [New Balance 574v2  Sneaker Uomo  Nero  Black Black   43 EU](https://www.amazon.it/dp/B07GQ75CH8/?tag=tolees00-21) con un 50.05 % de descuento con precio de oferta de 49.95 EUR (original: 99.99 EUR) en el siguiente enlace!

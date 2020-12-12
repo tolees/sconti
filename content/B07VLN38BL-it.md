@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.05 % en Xiaomi Mi Smart Scale 2  Bilancia Pesa P'
 date: 2020-09-28 11:25:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/21-C+UonP1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21-C+UonP1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21-C+UonP1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Xiaomi Mi Smart Scale 2  Bilancia Pesa Persona  bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21'
+descuento: '32.05'
+titulo: 'Xiaomi Mi Smart Scale 2  Bilancia Pesa P'
 ---
 
 Tienes [Xiaomi Mi Smart Scale 2  Bilancia Pesa Persona  bianco](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21) con un 32.05 % de descuento con precio de oferta de 16.98 EUR (original: 24.99 EUR) en el siguiente enlace!

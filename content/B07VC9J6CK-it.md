@@ -3,6 +3,7 @@ layout: post
 title: 'YAMAMAY® Triangolo - Nicely al 40.00 % de descuento'
 date: 2020-09-04 05:43:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wGx9knW9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wGx9knW9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wGx9knW9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'YAMAMAY® Triangolo - Nicely'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VC9J6CK/?tag=tolees00-21'
+descuento: '40.00'
+titulo: 'YAMAMAY® Triangolo - Nicely'
 ---
 
 Está [YAMAMAY® Triangolo - Nicely](https://www.amazon.it/dp/B07VC9J6CK/?tag=tolees00-21) con 40.00 de descuento por 10.77 EUR (original: 17.95 EUR) en el siguiente enlace!

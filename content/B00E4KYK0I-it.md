@@ -3,6 +3,7 @@ layout: post
 title: 'Neutro Roberts Deodorante Dermazero Stic al 39.51 % de descuento'
 date: 2020-07-21 08:18:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pj1N5VIWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pj1N5VIWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pj1N5VIWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 3.29 EUR
 inStock: true
 prodname: 'Neutro Roberts Deodorante Dermazero Stick - 40 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00E4KYK0I/?tag=tolees00-21'
+descuento: '39.51'
+titulo: 'Neutro Roberts Deodorante Dermazero Stic'
 ---
 
 Está [Neutro Roberts Deodorante Dermazero Stick - 40 ml](https://www.amazon.it/dp/B00E4KYK0I/?tag=tolees00-21) con 39.51 de descuento por 1.99 EUR (original: 3.29 EUR) en el siguiente enlace!

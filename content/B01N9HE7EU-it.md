@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Club C 85  Sneaker Uomo  Bianco   al 40.03 % de descuento'
 date: 2020-08-19 10:31:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mzJstHMmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mzJstHMmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mzJstHMmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Reebok Club C 85  Sneaker Uomo  Bianco  Int/White/Navy   44 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01N9HE7EU/?tag=tolees00-21'
+descuento: '40.03'
+titulo: 'Reebok Club C 85  Sneaker Uomo  Bianco  '
 ---
 
 Ahora mismo tienes [Reebok Club C 85  Sneaker Uomo  Bianco  Int/White/Navy   44 EU](https://www.amazon.it/dp/B01N9HE7EU/?tag=tolees00-21) a 47.95 EUR (original: 79.95 EUR) (40.03 %  de descuento) en el siguiente enlace!

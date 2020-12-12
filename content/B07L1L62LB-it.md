@@ -3,6 +3,7 @@ layout: post
 title: 'Diadora - Sneakers Camaro per Uomo e Don al 63.31 % de descuento'
 date: 2020-09-21 13:31:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nQ1lSJ3pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nQ1lSJ3pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nQ1lSJ3pL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'Diadora - Sneakers Camaro per Uomo e Donna  EU 38.5 '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07L1L62LB/?tag=tolees00-21'
+descuento: '63.31'
+titulo: 'Diadora - Sneakers Camaro per Uomo e Don'
 ---
 
 Está [Diadora - Sneakers Camaro per Uomo e Donna  EU 38.5 ](https://www.amazon.it/dp/B07L1L62LB/?tag=tolees00-21) con 63.31 de descuento por 29.35 EUR (original: 80.0 EUR) en el siguiente enlace!

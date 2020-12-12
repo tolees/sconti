@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U WALEE A  Scarpe da Ginnastica Bas al 69.50 % de descuento'
 date: 2020-10-07 09:46:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41z1WqvTGUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41z1WqvTGUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41z1WqvTGUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Geox U WALEE A  Scarpe da Ginnastica Basse Uomo  Rosso  Red C7000   42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07STLPY33/?tag=tolees00-21'
+descuento: '69.50'
+titulo: 'Geox U WALEE A  Scarpe da Ginnastica Bas'
 ---
 
 Está [Geox U WALEE A  Scarpe da Ginnastica Basse Uomo  Rosso  Red C7000   42 EU](https://www.amazon.it/dp/B07STLPY33/?tag=tolees00-21) con 69.50 de descuento por 27.42 EUR (original: 89.9 EUR) en el siguiente enlace!

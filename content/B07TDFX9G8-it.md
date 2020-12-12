@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.36 % en The North Face M Quest L/S  Maglia a Man'
 date: 2020-08-27 15:43:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FAcUCJjkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FAcUCJjkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FAcUCJjkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.0 EUR
 inStock: true
 prodname: 'The North Face M Quest L/S  Maglia a Maniche Corte Uomo  Blu  Acoustic Blue/T   S'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TDFX9G8/?tag=tolees00-21'
+descuento: '44.36'
+titulo: 'The North Face M Quest L/S  Maglia a Man'
 ---
 
 Tienes [The North Face M Quest L/S  Maglia a Maniche Corte Uomo  Blu  Acoustic Blue/T   S](https://www.amazon.it/dp/B07TDFX9G8/?tag=tolees00-21) con un 44.36 % de descuento con precio de oferta de 25.04 EUR (original: 45.0 EUR) en el siguiente enlace!

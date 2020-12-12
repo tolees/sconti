@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Boys Basic CN Knit S/s Ma al 29.70 % de descuento'
 date: 2020-09-29 01:42:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MP1IW1JIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MP1IW1JIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MP1IW1JIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Boys Basic CN Knit S/s Maglietta  Bianco  Bright White 123   176  Taglia Produttore: 16  Bambino'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07F3L1SK9/?tag=tolees00-21'
+descuento: '29.70'
+titulo: 'Tommy Hilfiger Boys Basic CN Knit S/s Ma'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Boys Basic CN Knit S/s Maglietta  Bianco  Bright White 123   176  Taglia Produttore: 16  Bambino](https://www.amazon.it/dp/B07F3L1SK9/?tag=tolees00-21) a 13.99 EUR (original: 19.9 EUR) (29.70 %  de descuento) en el siguiente enlace!

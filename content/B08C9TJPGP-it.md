@@ -3,6 +3,7 @@ layout: post
 title: 'eXtremeRate Cover Joycon Scocca Guscio C al 36.22 % de descuento'
 date: 2020-07-17 12:01:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eampUqXsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eampUqXsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eampUqXsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY Ricambio per Nintendo Switch Joy-Con Controller Trasparente Ambra  con Pulsanti-Joycon NON Incluso'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08C9TJPGP/?tag=tolees00-21'
+descuento: '36.22'
+titulo: 'eXtremeRate Cover Joycon Scocca Guscio C'
 ---
 
 Ahora mismo tienes [eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY Ricambio per Nintendo Switch Joy-Con Controller Trasparente Ambra  con Pulsanti-Joycon NON Incluso](https://www.amazon.it/dp/B08C9TJPGP/?tag=tolees00-21) a 18.49 EUR (original: 28.99 EUR) (36.22 %  de descuento) en el siguiente enlace!

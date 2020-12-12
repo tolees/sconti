@@ -3,6 +3,7 @@ layout: post
 title: 'Tosbess Technic Auto Sportiva Ford Musta al 50.00 % de descuento'
 date: 2020-08-05 17:32:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51piiqN5VsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51piiqN5VsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51piiqN5VsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 325.98 EUR
 inStock: true
 prodname: 'Tosbess Technic Auto Sportiva Ford Mustang  2 4Ghz 1:10 RC Auto con Motore e Telecomando  3181 Pezzi Blocchetti di Costruzione Compatibile con Lego Technic'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B083TGHHBV/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'Tosbess Technic Auto Sportiva Ford Musta'
 ---
 
 Ahora mismo tienes [Tosbess Technic Auto Sportiva Ford Mustang  2 4Ghz 1:10 RC Auto con Motore e Telecomando  3181 Pezzi Blocchetti di Costruzione Compatibile con Lego Technic](https://www.amazon.it/dp/B083TGHHBV/?tag=tolees00-21) a 162.99 EUR (original: 325.98 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.98 % en Calvin Klein Instit Chest Logo Reg Tee T'
 date: 2020-08-11 17:51:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Egz42sqsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Egz42sqsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Egz42sqsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Calvin Klein Instit Chest Logo Reg Tee T-Shirt  Rosso  Fiery Red Xa7   Small Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VC4WGP1/?tag=tolees00-21'
+descuento: '52.98'
+titulo: 'Calvin Klein Instit Chest Logo Reg Tee T'
 ---
 
 Tienes [Calvin Klein Instit Chest Logo Reg Tee T-Shirt  Rosso  Fiery Red Xa7   Small Uomo](https://www.amazon.it/dp/B07VC4WGP1/?tag=tolees00-21) con un 52.98 % de descuento con precio de oferta de 14.06 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Cush CRW 3pp  Calzini Uomo  Multi al 33.69 % de descuento'
 date: 2020-10-10 16:16:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41h742gsXGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h742gsXGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41h742gsXGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'adidas Cush CRW 3pp  Calzini Uomo  Multicolore  Black/Grey/White   M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RXYVDTY/?tag=tolees00-21'
+descuento: '33.69'
+titulo: 'adidas Cush CRW 3pp  Calzini Uomo  Multi'
 ---
 
 Está [adidas Cush CRW 3pp  Calzini Uomo  Multicolore  Black/Grey/White   M](https://www.amazon.it/dp/B07RXYVDTY/?tag=tolees00-21) con 33.69 de descuento por 7.95 EUR (original: 11.99 EUR) en el siguiente enlace!

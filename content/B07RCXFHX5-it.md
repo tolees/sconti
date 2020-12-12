@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.13 % en Columbia Marquam Peak Jacket  Giacca Uom'
 date: 2020-09-21 07:19:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tqnAjOPML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tqnAjOPML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tqnAjOPML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 229.99 EUR
 inStock: true
 prodname: 'Columbia Marquam Peak Jacket  Giacca Uomo  Blu  Collegiate Navy   XL'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RCXFHX5/?tag=tolees00-21'
+descuento: '77.13'
+titulo: 'Columbia Marquam Peak Jacket  Giacca Uom'
 ---
 
 Tienes [Columbia Marquam Peak Jacket  Giacca Uomo  Blu  Collegiate Navy   XL](https://www.amazon.it/dp/B07RCXFHX5/?tag=tolees00-21) con un 77.13 % de descuento con precio de oferta de 52.6 EUR (original: 229.99 EUR) en el siguiente enlace!

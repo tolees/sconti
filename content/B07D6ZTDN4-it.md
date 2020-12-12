@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Type 3 Sherpa Trucker Giacca  Bei al 29.81 % de descuento'
 date: 2020-09-15 15:19:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OwVDJCWAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OwVDJCWAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OwVDJCWAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 130.0 EUR
 inStock: true
 prodname: 'Levi s Type 3 Sherpa Trucker Giacca  Beige  True Chino Cord Better 0066   Medium Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07D6ZTDN4/?tag=tolees00-21'
+descuento: '29.81'
+titulo: 'Levi s Type 3 Sherpa Trucker Giacca  Bei'
 ---
 
 Ahora mismo tienes [Levi s Type 3 Sherpa Trucker Giacca  Beige  True Chino Cord Better 0066   Medium Uomo](https://www.amazon.it/dp/B07D6ZTDN4/?tag=tolees00-21) a 91.25 EUR (original: 130.0 EUR) (29.81 %  de descuento) en el siguiente enlace!

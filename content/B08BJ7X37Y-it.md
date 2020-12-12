@@ -3,6 +3,7 @@ layout: post
 title: 'SPIRIT OF GAMER - MY-JOY PLUS - Controll al 30.24 % de descuento'
 date: 2020-09-11 19:45:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YYUnjMCQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YYUnjMCQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YYUnjMCQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70.28 EUR
 inStock: true
 prodname: 'SPIRIT OF GAMER - MY-JOY PLUS - Controllore Bluetooth Switch & Switch Lite - Wireless - Supporto Incluso - Durata Della Batteria Di 20 Ore * - 2 Cavi USB-C Forniti'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08BJ7X37Y/?tag=tolees00-21'
+descuento: '30.24'
+titulo: 'SPIRIT OF GAMER - MY-JOY PLUS - Controll'
 ---
 
 Está [SPIRIT OF GAMER - MY-JOY PLUS - Controllore Bluetooth Switch & Switch Lite - Wireless - Supporto Incluso - Durata Della Batteria Di 20 Ore * - 2 Cavi USB-C Forniti](https://www.amazon.it/dp/B08BJ7X37Y/?tag=tolees00-21) con 30.24 de descuento por 49.03 EUR (original: 70.28 EUR) en el siguiente enlace!

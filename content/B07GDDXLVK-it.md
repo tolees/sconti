@@ -3,6 +3,7 @@ layout: post
 title: 'Tacklife 18PCS Estrattore di Viti Danneg al 42.32 % de descuento'
 date: 2020-09-15 09:55:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TWObZBLLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TWObZBLLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TWObZBLLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Tacklife 18PCS Estrattore di Viti Danneggiate con Punte di Brunitura Separate  Presa per Prolunga Magnetica e Adattatore Presa per Viti o Bulloni Danneggiati 2-12mm  Durezza 62HRC  DSE01'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07GDDXLVK/?tag=tolees00-21'
+descuento: '42.32'
+titulo: 'Tacklife 18PCS Estrattore di Viti Danneg'
 ---
 
 Está [Tacklife 18PCS Estrattore di Viti Danneggiate con Punte di Brunitura Separate  Presa per Prolunga Magnetica e Adattatore Presa per Viti o Bulloni Danneggiati 2-12mm  Durezza 62HRC  DSE01](https://www.amazon.it/dp/B07GDDXLVK/?tag=tolees00-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

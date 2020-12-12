@@ -3,6 +3,7 @@ layout: post
 title: 'Outsunny HOMCOM Cavalletto Supporto Manu al 29.99 % de descuento'
 date: 2020-10-02 06:06:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yYbWUNlIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yYbWUNlIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yYbWUNlIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 66.95 EUR
 inStock: true
 prodname: 'Outsunny HOMCOM Cavalletto Supporto Manutenzione per Bicicletta Riparazione Bici Pieghevole'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B011TPETHY/?tag=tolees00-21'
+descuento: '29.99'
+titulo: 'Outsunny HOMCOM Cavalletto Supporto Manu'
 ---
 
 Ahora mismo tienes [Outsunny HOMCOM Cavalletto Supporto Manutenzione per Bicicletta Riparazione Bici Pieghevole](https://www.amazon.it/dp/B011TPETHY/?tag=tolees00-21) a 46.87 EUR (original: 66.95 EUR) (29.99 %  de descuento) en el siguiente enlace!

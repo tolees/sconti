@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Smash v2 L Jr  Scarpe da Ginnastica al 41.55 % de descuento'
 date: 2020-09-25 11:28:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31gwpRz84zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gwpRz84zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31gwpRz84zL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'PUMA Smash v2 L Jr  Scarpe da Ginnastica Unisex-Adulto  Bianca White White  38 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B076G7M6DW/?tag=tolees00-21'
+descuento: '41.55'
+titulo: 'PUMA Smash v2 L Jr  Scarpe da Ginnastica'
 ---
 
 Ahora mismo tienes [PUMA Smash v2 L Jr  Scarpe da Ginnastica Unisex-Adulto  Bianca White White  38 EU](https://www.amazon.it/dp/B076G7M6DW/?tag=tolees00-21) a 23.35 EUR (original: 39.95 EUR) (41.55 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'McAfee Total Protection 2019 | 5 Disposi al 63.41 % de descuento'
 date: 2020-09-01 13:02:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-ZLlgHMxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-ZLlgHMxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-ZLlgHMxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento di 1 anno | PC/Mac/Smartphone/Tablet | Codice di attivazione via posta'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B078XXGHP7/?tag=tolees00-21'
+descuento: '63.41'
+titulo: 'McAfee Total Protection 2019 | 5 Disposi'
 ---
 
 Está [McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento di 1 anno | PC/Mac/Smartphone/Tablet | Codice di attivazione via posta](https://www.amazon.it/dp/B078XXGHP7/?tag=tolees00-21) con 63.41 de descuento por 21.95 EUR (original: 59.99 EUR) en el siguiente enlace!

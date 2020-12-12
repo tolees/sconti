@@ -3,6 +3,7 @@ layout: post
 title: 'Poly Pool PP1615 Racchetta Elettronica F al 57.39 % de descuento'
 date: 2020-09-15 05:22:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/417GWPAAw2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417GWPAAw2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417GWPAAw2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 11.71 EUR
 inStock: true
 prodname: 'Poly Pool PP1615 Racchetta Elettronica Fulmina Insetti'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00L49YUKW/?tag=tolees00-21'
+descuento: '57.39'
+titulo: 'Poly Pool PP1615 Racchetta Elettronica F'
 ---
 
 Está [Poly Pool PP1615 Racchetta Elettronica Fulmina Insetti](https://www.amazon.it/dp/B00L49YUKW/?tag=tolees00-21) con 57.39 de descuento por 4.99 EUR (original: 11.71 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.19 % en Assassin s Creed 4 Black Flag - Hits-Pla'
 date: 2020-09-30 04:27:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/61SMbcgC-KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61SMbcgC-KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61SMbcgC-KL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20.33 EUR
 inStock: true
 prodname: 'Assassin s Creed 4 Black Flag - Hits-PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07FB17ZK9/?tag=tolees00-21'
+descuento: '31.19'
+titulo: 'Assassin s Creed 4 Black Flag - Hits-Pla'
 ---
 
 Tienes [Assassin s Creed 4 Black Flag - Hits-PlayStation 4](https://www.amazon.it/dp/B07FB17ZK9/?tag=tolees00-21) con un 31.19 % de descuento con precio de oferta de 13.99 EUR (original: 20.33 EUR) en el siguiente enlace!

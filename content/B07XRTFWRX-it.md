@@ -3,6 +3,7 @@ layout: post
 title: 'CARPISA® Borsa shopper tracolla intersca al 49.99 % de descuento'
 date: 2020-07-21 08:34:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ysQapZZzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ysQapZZzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ysQapZZzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'CARPISA® Borsa shopper tracolla interscambiabile - Jinger'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07XRTFWRX/?tag=tolees00-21'
+descuento: '49.99'
+titulo: 'CARPISA® Borsa shopper tracolla intersca'
 ---
 
 Está [CARPISA® Borsa shopper tracolla interscambiabile - Jinger](https://www.amazon.it/dp/B07XRTFWRX/?tag=tolees00-21) con 49.99 de descuento por 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

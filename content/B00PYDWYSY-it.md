@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.08 % en Nike MD Runner 2  Scarpe da Running Uomo'
 date: 2020-08-26 11:29:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/419G6zWttPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419G6zWttPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419G6zWttPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'Nike MD Runner 2  Scarpe da Running Uomo  Blu  Midnight Navy/White-Wolf Grey   47 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00PYDWYSY/?tag=tolees00-21'
+descuento: '33.08'
+titulo: 'Nike MD Runner 2  Scarpe da Running Uomo'
 ---
 
 Tienes [Nike MD Runner 2  Scarpe da Running Uomo  Blu  Midnight Navy/White-Wolf Grey   47 EU](https://www.amazon.it/dp/B00PYDWYSY/?tag=tolees00-21) con un 33.08 % de descuento con precio de oferta de 43.49 EUR (original: 64.99 EUR) en el siguiente enlace!

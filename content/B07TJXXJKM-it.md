@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste L1230 Polo  Blu  Cuba Aaf   Medi al 30.06 % de descuento'
 date: 2020-08-21 13:29:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/313-GVuY-sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313-GVuY-sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313-GVuY-sL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'Lacoste L1230 Polo  Blu  Cuba Aaf   Medium  Taglia Unica: 4  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TJXXJKM/?tag=tolees00-21'
+descuento: '30.06'
+titulo: 'Lacoste L1230 Polo  Blu  Cuba Aaf   Medi'
 ---
 
 Está [Lacoste L1230 Polo  Blu  Cuba Aaf   Medium  Taglia Unica: 4  Uomo](https://www.amazon.it/dp/B07TJXXJKM/?tag=tolees00-21) con 30.06 de descuento por 55.95 EUR (original: 80.0 EUR) en el siguiente enlace!

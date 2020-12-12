@@ -3,6 +3,7 @@ layout: post
 title: 'K-Way Le Vrai 3.0 Victor Unisex Felpa  R al 41.00 % de descuento'
 date: 2020-09-20 08:34:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WX6PTtXNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WX6PTtXNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WX6PTtXNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'K-Way Le Vrai 3.0 Victor Unisex Felpa  Rosso  Small  Taglia Produttore:S  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01M0IYKPC/?tag=tolees00-21'
+descuento: '41.00'
+titulo: 'K-Way Le Vrai 3.0 Victor Unisex Felpa  R'
 ---
 
 Está [K-Way Le Vrai 3.0 Victor Unisex Felpa  Rosso  Small  Taglia Produttore:S  Uomo](https://www.amazon.it/dp/B01M0IYKPC/?tag=tolees00-21) con 41.00 de descuento por 50.15 EUR (original: 85.0 EUR) en el siguiente enlace!

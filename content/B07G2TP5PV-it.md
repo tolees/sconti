@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange Orologio Analogico Quarz al 39.03 % de descuento'
 date: 2020-08-31 14:01:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VCNDeC7XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VCNDeC7XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VCNDeC7XL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.0 EUR
 inStock: true
 prodname: 'Armani Exchange Orologio Analogico Quarzo Donna con Cinturino in Pelle AX5325'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07G2TP5PV/?tag=tolees00-21'
+descuento: '39.03'
+titulo: 'Armani Exchange Orologio Analogico Quarz'
 ---
 
 Ahora mismo tienes [Armani Exchange Orologio Analogico Quarzo Donna con Cinturino in Pelle AX5325](https://www.amazon.it/dp/B07G2TP5PV/?tag=tolees00-21) a 78.65 EUR (original: 129.0 EUR) (39.03 %  de descuento) en el siguiente enlace!

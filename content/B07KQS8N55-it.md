@@ -3,6 +3,7 @@ layout: post
 title: 'Vileda Steam XXL Scopa a Vapore  Rosso/N al 25.02 % de descuento'
 date: 2020-07-29 14:18:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/4130y0OGb1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4130y0OGb1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4130y0OGb1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Vileda Steam XXL Scopa a Vapore  Rosso/Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KQS8N55/?tag=tolees00-21'
+descuento: '25.02'
+titulo: 'Vileda Steam XXL Scopa a Vapore  Rosso/N'
 ---
 
 Está [Vileda Steam XXL Scopa a Vapore  Rosso/Nero](https://www.amazon.it/dp/B07KQS8N55/?tag=tolees00-21) con 25.02 de descuento por 89.9 EUR (original: 119.9 EUR) en el siguiente enlace!

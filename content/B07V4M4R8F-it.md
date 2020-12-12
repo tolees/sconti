@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Jc4256pp0a  Borsa Tote Don al 49.97 % de descuento'
 date: 2020-10-12 12:55:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31aAYjJWD2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aAYjJWD2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31aAYjJWD2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 162.5 EUR
 inStock: true
 prodname: 'Love Moschino Jc4256pp0a  Borsa Tote Donna  Avorio  Ivory   9x25x37 cm  W x H x L '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07V4M4R8F/?tag=tolees00-21'
+descuento: '49.97'
+titulo: 'Love Moschino Jc4256pp0a  Borsa Tote Don'
 ---
 
 Ahora mismo tienes [Love Moschino Jc4256pp0a  Borsa Tote Donna  Avorio  Ivory   9x25x37 cm  W x H x L ](https://www.amazon.it/dp/B07V4M4R8F/?tag=tolees00-21) a 81.3 EUR (original: 162.5 EUR) (49.97 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.12 % en Bic Cristal Original Punta Media 1 mm Co'
 date: 2020-09-21 15:30:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hYcJh160L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hYcJh160L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hYcJh160L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 5.57 EUR
 inStock: true
 prodname: 'Bic Cristal Original Punta Media 1 mm Confezione 10 Penne Colore Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B004DBHR2Q/?tag=tolees00-21'
+descuento: '55.12'
+titulo: 'Bic Cristal Original Punta Media 1 mm Co'
 ---
 
 Tienes [Bic Cristal Original Punta Media 1 mm Confezione 10 Penne Colore Nero](https://www.amazon.it/dp/B004DBHR2Q/?tag=tolees00-21) con un 55.12 % de descuento con precio de oferta de 2.5 EUR (original: 5.57 EUR) en el siguiente enlace!

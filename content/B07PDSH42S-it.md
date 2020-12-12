@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics - Evidenziatori a forma pia al 38.81 % de descuento'
 date: 2020-09-17 12:36:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/416H6fxGHpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416H6fxGHpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416H6fxGHpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 7.73 EUR
 inStock: true
 prodname: 'AmazonBasics - Evidenziatori a forma piatta allungata  colori assortiti  confezione da 8'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07PDSH42S/?tag=tolees00-21'
+descuento: '38.81'
+titulo: 'AmazonBasics - Evidenziatori a forma pia'
 ---
 
 Está [AmazonBasics - Evidenziatori a forma piatta allungata  colori assortiti  confezione da 8](https://www.amazon.it/dp/B07PDSH42S/?tag=tolees00-21) con 38.81 de descuento por 4.73 EUR (original: 7.73 EUR) en el siguiente enlace!

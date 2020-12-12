@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.29 % en Samsung C27RG50 Monitor Gaming Curvo  27'
 date: 2020-09-21 08:05:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bP8tyR85L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bP8tyR85L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bP8tyR85L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 429.0 EUR
 inStock: true
 prodname: 'Samsung C27RG50 Monitor Gaming Curvo  27 Pollici  240 Hz  G-sync  FHD  1920 x 1080  4 ms  16:9  1080p  1 Display Port  2 HDMI  Base a Doppio Snodo  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07T2Y5ZG7/?tag=tolees00-21'
+descuento: '37.29'
+titulo: 'Samsung C27RG50 Monitor Gaming Curvo  27'
 ---
 
 Tienes [Samsung C27RG50 Monitor Gaming Curvo  27 Pollici  240 Hz  G-sync  FHD  1920 x 1080  4 ms  16:9  1080p  1 Display Port  2 HDMI  Base a Doppio Snodo  Nero](https://www.amazon.it/dp/B07T2Y5ZG7/?tag=tolees00-21) con un 37.29 % de descuento con precio de oferta de 269.04 EUR (original: 429.0 EUR) en el siguiente enlace!

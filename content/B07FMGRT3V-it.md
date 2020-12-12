@@ -3,6 +3,7 @@ layout: post
 title: 'Hasbro Nerf Super Soaker - Barracuda  Bl al 33.17 % de descuento'
 date: 2020-07-27 10:16:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41e3TQIHibL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e3TQIHibL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41e3TQIHibL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Hasbro Nerf Super Soaker - Barracuda  Blaster Spruzza Acqua  E2770'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07FMGRT3V/?tag=tolees00-21'
+descuento: '33.17'
+titulo: 'Hasbro Nerf Super Soaker - Barracuda  Bl'
 ---
 
 Está [Hasbro Nerf Super Soaker - Barracuda  Blaster Spruzza Acqua  E2770](https://www.amazon.it/dp/B07FMGRT3V/?tag=tolees00-21) con 33.17 de descuento por 13.3 EUR (original: 19.9 EUR) en el siguiente enlace!
