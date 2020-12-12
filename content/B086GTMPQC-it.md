@@ -28,10 +28,10 @@ Ahora mismo tienes [LEGO 30342 Lamborghini Huracan Super Trofeo Evo Speed Champi
 
 Características:
 
-- Lamborghini Huracan Super Trofeo EVO
 - Small collectable item, not necessarily suitable as a childs gift
-- LEGO Speed Champions Polybag Set
 - Contains 70 pieces including Pull-back motor
+- Lamborghini Huracan Super Trofeo EVO
+- LEGO Speed Champions Polybag Set
 
 [Visítala!!!](https://www.amazon.it/dp/B086GTMPQC/?tag=tolees00-21)
 

@@ -28,9 +28,9 @@ Está [Xiaomi Redmi Note 9S 6GB 128GB Quad camera AI 48MP 6.67”FHD+ 5020mAh Ti
 
 Principales características:
 
-- Operating system: Android
 - Alexa Built-in phones let you make phone calls, open apps, control smart home devices, access the library of Alexa skills, and more using just your voice while on-the-go. Download the Alexa app and complete hands-free setup to get started. Just ask - and Alexa will respond instantly.
 - Included components: 1 x Redmi Note 9S
+- Operating system: Android
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085S45ZZS/?tag=tolees00-21)
 

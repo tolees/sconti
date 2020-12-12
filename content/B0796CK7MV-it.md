@@ -29,10 +29,10 @@ Ahora mismo tienes [Swarovski Collana Lilia  Cristallo Bianco  Piccola  Placcata
 Características:
 
 - Dal 1895 il taglio di precisione del cristallo introdotto dal fondatore Daniel Swarovski connota l’azienda. La sua passione per l’innovazione e il design ne ha fatto il marchio leader del comparto gioielli e accessori a livello globale.
-- Placcata oro rosa, presenta un accumulo di naturalistici motivi di farfalle in pavé.
 - I gioielli Swarovski sono sinonimo di creatività e originalità.
-- Porta una disinvolta eleganza sugli outfit estivi con questa collana senza tempo.
 - Un design romantico e femminile, mette in mostra lesclusivo scintillio firmato Swarovski. Sono disponibili articoli abbinati.
+- Placcata oro rosa, presenta un accumulo di naturalistici motivi di farfalle in pavé.
+- Porta una disinvolta eleganza sugli outfit estivi con questa collana senza tempo.
 
 [Visítala!!!](https://www.amazon.it/dp/B0796CK7MV/?tag=tolees00-21)
 

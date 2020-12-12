@@ -29,11 +29,11 @@ Ahora mismo tienes [Jumanji Edizione in Legno  il Classico Gioco Vintage Anni  9
 Características:
 
 - A game for those who seek to find… a way to leave their world behind
-- Italian language
-- Winner of The Toy Industry Awards ‘Game of the Year’ (2018)
 - Includes: Gameboard, Pawns, Rhino figure, Timer, Number Die, 4 Rescue Dice, 30 Danger Cards, Gameboard Centre, Decoder, Label Sheet, Instructions
-- Play the game that pursues you
 - Features a high-quality wooden case
+- Winner of The Toy Industry Awards ‘Game of the Year’ (2018)
+- Play the game that pursues you
+- Italian language
 
 [Visítala!!!](https://www.amazon.it/dp/B07DD8F5RB/?tag=tolees00-21)
 
