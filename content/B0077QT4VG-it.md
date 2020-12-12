@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 30.23 % en Playmobil Dollhouse 5167 - Casa delle Ba'
-date: 2020-12-11 04:41:09
+date: 2020-12-12 05:09:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/61sq9Ns0bZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61sq9Ns0bZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61sq9Ns0bZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Playmobil Dollhouse 5167 - Casa delle Bambole Portatile  dai 4 anni'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0077QT4VG/?tag=tolees00-21'
+descuento: '30.23'
+titulo: 'Playmobil Dollhouse 5167 - Casa delle Ba'
 ---
 
 Tienes [Playmobil Dollhouse 5167 - Casa delle Bambole Portatile  dai 4 anni](https://www.amazon.it/dp/B0077QT4VG/?tag=tolees00-21) con un 30.23 % de descuento con precio de oferta de 27.9 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Tienes [Playmobil Dollhouse 5167 - Casa delle Bambole Portatile  dai 4 anni](htt
 
 Características principales:
 
-- Per il montaggio consultare il manuale distruzioni allinterno della confezione; è possibile effettuare una pulizia dei pezzi avendo cura di utilizzare acqua e senza luso di prodotti chimici
-- Contiene personaggi Playmobil adatti ai bambini a partire da 4 anni: ottimi per le loro mani grazie alle dimensioni adeguate alletà, alla superficie piacevole al tatto e con bordi arrotondati
-- Divertimento per ragazze: Casa delle bambole portatile Playmobil con tanti personaggi e accessori per giocare in casa o da portare con sé
-- Contenuto: 1x PLAYMOBIL Dollhouse Casa delle Bambole Portatile, Play set da 129 pezzi con istruzioni: 1 casa delle bambole, 3 personaggi, 125 accessori, Materiale: plastica, LxPxA: 26,5x24x27 cm, Peso: 1313, 5167
-- Facile da portare con sé: tanto spazio dove riporre i singoli pezzi (arredamento e accessori), semplice meccanismo di chiusura e pratica maniglia per il trasporto
+- Contents: 1 x Playmobil Dollhouse Take Along Modern Doll house, 129-piece playset with instructions: 1 x Dollhouse, 3 x figures, 125 x accessories, material: Plastic, L x W x H: 26.5 x 24 x 27 cm, weight: 1313 g, 5167
+- Easy to take with you: Sufficient storage space for the individual parts (furnishings and doll accessories), smooth-running locking mechanism and practical carrying handle
+- Playset for children ages 4+, ideal for childrens hands due to age-appropriate size, pleasant feel with rounded edges
+- Playmobil Take Along Dollhouse with many figures and accessories to play in your own childrens room and on-the-go
+- Can be used every day: Manual for easy and stable construction, high-quality, easy cleaning with a damp cloth
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0077QT4VG/?tag=tolees00-21)
 

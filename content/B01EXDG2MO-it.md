@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 29.26 % en TP-Link TL-SG108 Switch 8 Porte Gigabit '
-date: 2020-12-10 22:47:36
+date: 2020-12-12 05:01:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.5 EUR
 inStock: true
 prodname: 'TP-Link TL-SG108 Switch 8 Porte Gigabit  10/100/1000 Mbps  Plug & Play  Nessuna Configurazione Richiesta  Struttura in Acciaio'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01EXDG2MO/?tag=tolees00-21'
+descuento: '29.26'
+titulo: 'TP-Link TL-SG108 Switch 8 Porte Gigabit '
 ---
 
 Tienes [TP-Link TL-SG108 Switch 8 Porte Gigabit  10/100/1000 Mbps  Plug & Play  Nessuna Configurazione Richiesta  Struttura in Acciaio](https://www.amazon.it/dp/B01EXDG2MO/?tag=tolees00-21) con un 29.26 % de descuento con precio de oferta de 22.99 EUR (original: 32.5 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Tienes [TP-Link TL-SG108 Switch 8 Porte Gigabit  10/100/1000 Mbps  Plug & Play  
 
 Características principales:
 
-- Plug and play, nessuna configurazione richiesta
 - ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
+- Plug and play, nessuna configurazione richiesta
+- Spegnimento automatico delle porte inutilizzate per risparmiare energia
 - Guscio in acciaio, predisposto per linstallazione sul desktop o a parete
 - 8 porte RJ45 Gigabit con auto-negoziazione, supporta auto MDI / MDIX
-- Spegnimento automatico delle porte inutilizzate per risparmiare energia
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01EXDG2MO/?tag=tolees00-21)
 
