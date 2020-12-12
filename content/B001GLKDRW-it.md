@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antica Distilleria Caffo Liquore d Erbe  al 29.61 % de descuento'
-date: 2020-12-04 17:37:59
+date: 2020-12-12 18:09:30
 image: 'https://m.media-amazon.com/images/I/41gXXN-q2HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Está [Antica Distilleria Caffo Liquore d Erbe di Calabria  700ml](https://www.a
 
 ℹ️:
 
+- Si tratta di un liquore piena di terreno, meravigliosamente sapori amari
+- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
+- Caratterizzato da 29 diverse erbe e radici calabresi
+- liquore aromatico Riccamente
 
 [Ver la oferta!!](https://www.amazon.it/dp/B001GLKDRW/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack Daniel s Tennessee Honey 70 cl al 34.83 % de descuento'
-date: 2020-12-09 18:37:41
+date: 2020-12-12 18:09:33
 image: 'https://m.media-amazon.com/images/I/41GMdaqpcSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Está [Jack Daniel s Tennessee Honey 70 cl](https://www.amazon.it/dp/B0089E2OJE/
 
 ℹ️:
 
+- Vista: colore ambrato con riflessi dorati.
+- Gusto: morbido, con note di miele di acero e castagno, arancia e mela; di media lungheza con moderate note di zucchero bruciato.
+- Olfatto: note di caramello, sciroppo e fumo dacero, miele dacerlo, melassa, castagna e vaniglia.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0089E2OJE/?tag=tolees00-21)
