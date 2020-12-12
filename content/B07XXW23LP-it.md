@@ -24,9 +24,9 @@ Tienes [TACKLIFE T6 12V Avviatore di Emergenza - 18000mAh  800A Avviatore Batter
 
 ℹ️:
 
-- 🚗Il prodotto verrà spedito entro 24 ore🚗 POTENTE E PORTATILE: Questo pacchetto di avvio salto 22.5×13×11.5 cm può essere facilmente posto nel vano portaoggetti. Capacità 18000 mAh, corrente di picco 800A può avviare motore a benzina da 6.5L e diesel 5.5L fino a 30 volte dopo caricato completamente (in 5 ore)
 - 🚗 24 MESI DI GARANZIA: Se abbia alcuni domande o problemi, per favore contattarci tramite Amazon o la nostra e-mail ufficiale (support@autotacklife.com). Il nostro team professionale ti aiuterà a risolverei problemi al più presto.
 - 🚗 POTENTE LED SISTEMA DELLILLIMINAZIONE: SOS, strobo, luce stabile. La torcia elettrica si consente di avviare la Sua auto più facilmente di notte. Le luci del segnale stroboscopico e SOS potrebbero essere un salvavita in caso di emergenza. Questo jump starter è un ottimo compagno per lavventura, le attività allaria aperta
+- 🚗Il prodotto verrà spedito entro 24 ore🚗 POTENTE E PORTATILE: Questo pacchetto di avvio salto 22.5×13×11.5 cm può essere facilmente posto nel vano portaoggetti. Capacità 18000 mAh, corrente di picco 800A può avviare motore a benzina da 6.5L e diesel 5.5L fino a 30 volte dopo caricato completamente (in 5 ore)
 - 🚗 CARICA MULTIFUNZIONE: Questa batteria può caricare contemporaneamente il telefono, il computer o il Kindle con due porte di ricarica USB(5V/2.4A 9V/2A; 5V/2A). La DC porta da 10 V/12 V può alimentare prodotti automobilistici come compressore daria, purificatore daria, aspirapolvere, GPS, DVR per auto, frigorifero per auto tramite un adattatore incluso
 - 🚗 PROTEZIONE INTELLIGENTE POTENZIATA: Dotato di 8 protezioni, i cavi jumper di questo kit di avviamento per auto sono in grado di rilevare la tensione della batteria dellauto prima della erogazione corrente e vi saranno lampeggianti e bip per notificare operazioni errate.Questo avviatore di emergenza è a prova di fuoco
 

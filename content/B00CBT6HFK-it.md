@@ -24,10 +24,10 @@ Tienes [Irish Mist Whiskey Irlandese al Miele  Bilanciato con Erbe Aromatiche e 
 
 ℹ️:
 
-- Colore: caratterizzato da un colore ambrato con riflessi dorati
 - Profilo sensoriale: al naso presenta un mix intrigante di aromi di erbe aromatiche, spezie, miele e frutta secca, al palato è armonico, erbaceo, dolce e con una persistenza speziata
-- Metodo di produzione: ottenuto dalla miscela di whiskey irlandese, miele e spezie aromatiche naturali
-- Irish Mist: whiskey raffinato dal gusto elegante e morbido prodotto in Irlanda, frutto di un’accurata miscela di miele, varie erbe aromatiche, erica, trifoglio ed acquavite
 - Come servirlo: ottimo da gustare liscio, sia ghiacciato che caldo e per creare long drink o il tradizionale Irish Coffee
+- Irish Mist: whiskey raffinato dal gusto elegante e morbido prodotto in Irlanda, frutto di un’accurata miscela di miele, varie erbe aromatiche, erica, trifoglio ed acquavite
+- Colore: caratterizzato da un colore ambrato con riflessi dorati
+- Metodo di produzione: ottenuto dalla miscela di whiskey irlandese, miele e spezie aromatiche naturali
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00CBT6HFK/?tag=tolees00-21)
