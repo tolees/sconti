@@ -30,8 +30,8 @@ Principales características:
 
 - Spalline regolabili
 - Coppa leggermente imbottita
-- Fianco e sottoseno in tulle e pizzo floreale
 - Reggiseno con ferretto
+- Fianco e sottoseno in tulle e pizzo floreale
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08FDN3V83/?tag=tolees00-21)
 

@@ -28,12 +28,12 @@ Tienes [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Inte
 
 Características principales:
 
-- Special feature : shutter priority; aperture priority
-- Removable memory : memory stick; secure digital card
-- 16-50 mm power zoom lens included
 - Sony’s 24.3 MP Exmor APS HD CMOS sensor. Versatile E-mount interchangeable lens system
 - Fast hybrid autofocus system. Dioptre adjustment: -4.0 to +3.0/m
 - Sharp SVGA Tru-Finder OLED viewfinder
+- 16-50 mm power zoom lens included
+- Removable memory : memory stick; secure digital card
+- Special feature : shutter priority; aperture priority
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21)
 

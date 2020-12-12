@@ -28,11 +28,11 @@ Está [Samsung Memorie T7 Touch MU-PC500S SSD Esterno Portatile da 500 GB  USB 3
 
 Principales características:
 
-- Sicuro: grazie al lettore di impronte digitale integrato; protezione opzionale con password basata sul sistema di crittografia hardware AES a 256 bit
 - Resistente: il robusto telaio interno lo protegge da cadute da altezze fino a 2 metri
+- Velocità di trasferimento fino a 1.050 MB/s; fino a 9.5 più veloce di un hard disk esterno
 - Interfaccia USB 3.2 di seconda generazione
 - Compatibilità: Windows 7 e versioni successive, Mac OS X 10.10 e versioni successive o Android 5.1 (Lollipop) e versioni successive.; le versioni precedenti di questi sistemi non sono supportate
-- Velocità di trasferimento fino a 1.050 MB/s; fino a 9.5 più veloce di un hard disk esterno
+- Sicuro: grazie al lettore di impronte digitale integrato; protezione opzionale con password basata sul sistema di crittografia hardware AES a 256 bit
 
 [Ver la oferta!!](https://www.amazon.it/dp/B082VVSJTK/?tag=tolees00-21)
 

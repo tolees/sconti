@@ -28,9 +28,9 @@ Tienes [adidas COURTSMASH  Scarpe da Tennis Uomo  Ftwr White/Core Black/Grey Two
 
 Características principales:
 
-- Stile classico
-- Scarpe sportive
 - Tomaia in pelle sintetica
+- Scarpe sportive
+- Stile classico
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07J4JYBG4/?tag=tolees00-21)
 

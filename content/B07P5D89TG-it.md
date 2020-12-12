@@ -28,10 +28,10 @@ Ahora mismo tienes [THUN - Bracciale da Donna con Segno Zodiacale Toro - Oroscop
 
 Características:
 
+- DIMENSIONI - 16 cm (+2 cm)
+- PRODOTTO - Bracciale segno zodiacale Toro con ciondolo in ceramica
 - CATEGORIA - Persona, Gioielli
 - MATERIALI - Ottone placcato oro, ceramica, colorazioni con smalto a freddo
-- PRODOTTO - Bracciale segno zodiacale Toro con ciondolo in ceramica
-- DIMENSIONI - 16 cm (+2 cm)
 - CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
 
 [Visítala!!!](https://www.amazon.it/dp/B07P5D89TG/?tag=tolees00-21)

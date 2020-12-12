@@ -30,8 +30,8 @@ Características:
 
 - Vista, tatto, udito
 - Grande alfabetiere touch
-- Gioco elettronico, manuale di istruzioni
 - con le lettere smerigliate: lettere e parole, suoni e filastrocche, quiz
+- Gioco elettronico, manuale di istruzioni
 
 [Visítala!!!](https://www.amazon.it/dp/B084MY5WLJ/?tag=tolees00-21)
 

@@ -29,8 +29,8 @@ Tienes [Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml](http
 Características principales:
 
 - EDT
-- Donna
 - 75 ml
+- Donna
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00AKFFXG6/?tag=tolees00-21)
 

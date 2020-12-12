@@ -28,11 +28,11 @@ Tienes [OPPO A52 Smartphone   Display 6.5   LCD  4  Fotocamere 64GB Espandibili 
 
 Características principales:
 
-- Lampia batteria da 5000mAh ti consente di utilizzare il tuo smartphone per tutto il giorno, anche con un utilizzo intenso. La ricarica da 18W ti consente di fare il pieno di energia in pochi istanti
-- Il modulo delle fotocamere posteriori è composto da una fotocamera frontale da AI, un grandangolo da 119° e due lenti specifiche per i ritratti
-- Potenziato dal processore Qualcomm Snapdragon con una CPU octa-core a 64 bit, Hyper Boost di OPPO aumenta la velocità di app e giochi, consentendo allintero sistema un funzionamento più fluido
-- OPPO A52 è dotato di Neo-Display in alta definizione, caratterizzato da uno spessore di soli 1.73mm. Risoluzione 1080P, 2400×1080 FHD+
 - OPPO A52 è caratterizzato da un design 3D Quad-curve, con una linea ulteriormente ottimizzata per fornire una presa più confortevole
+- Potenziato dal processore Qualcomm Snapdragon con una CPU octa-core a 64 bit, Hyper Boost di OPPO aumenta la velocità di app e giochi, consentendo allintero sistema un funzionamento più fluido
+- Il modulo delle fotocamere posteriori è composto da una fotocamera frontale da AI, un grandangolo da 119° e due lenti specifiche per i ritratti
+- OPPO A52 è dotato di Neo-Display in alta definizione, caratterizzato da uno spessore di soli 1.73mm. Risoluzione 1080P, 2400×1080 FHD+
+- Lampia batteria da 5000mAh ti consente di utilizzare il tuo smartphone per tutto il giorno, anche con un utilizzo intenso. La ricarica da 18W ti consente di fare il pieno di energia in pochi istanti
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B088KNRL77/?tag=tolees00-21)
 

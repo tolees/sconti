@@ -30,8 +30,8 @@ Características principales:
 
 - Materiale esterno: pelle
 - Fodera: maglia
-- Pelle
 - Materiale suola: gomma
+- Pelle
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B077MPN7KG/?tag=tolees00-21)
 

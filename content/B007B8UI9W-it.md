@@ -28,9 +28,9 @@ Tienes [Maybelline New York Fit Me  Cipria  220 Natural Beige](https://www.amazo
 
 Características principales:
 
-- Cipria compatta opacizzante
-- Finish mat perfetto
 - Formula ultra-leggera per una testure vellutata
+- Finish mat perfetto
+- Cipria compatta opacizzante
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B007B8UI9W/?tag=tolees00-21)
 

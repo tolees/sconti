@@ -28,11 +28,11 @@ Está [CARPISA® Mini Borsa secchiello Donna con tracolla - Roxana](https://www.
 
 Principales características:
 
-- Fodera interna in tessuto con chiusura a strozzo, dotata di una pratica taschina interna con cerniera
-- Misure: 14 x15 x14 cm
-- Composizione: Materiale Sintetico
 - Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
+- Misure: 14 x15 x14 cm
 - Trendy e alla moda mini Borsa a secchiello con tracolla regolabile e removibile
+- Fodera interna in tessuto con chiusura a strozzo, dotata di una pratica taschina interna con cerniera
+- Composizione: Materiale Sintetico
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VD7VLX8/?tag=tolees00-21)
 

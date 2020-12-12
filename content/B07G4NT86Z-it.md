@@ -28,11 +28,11 @@ Está [Orologio Analogico Al Quarzo Da Donna Michael Kors Con Cinturino In Pelle
 
 Principales características:
 
-- In confezione regalo Michael Kors.
-- Larghezza cinturino: 12 mm; circonferenza interna: 175 +/-5 mm.
 - Spessore cassa: 7 mm. Dimensione cassa: 28 mm.
+- Larghezza cinturino: 12 mm; circonferenza interna: 175 +/-5 mm.
 - Materiale del cinturino: pelle.
 - Resistenza allacqua: 5 ATM.
+- In confezione regalo Michael Kors.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07G4NT86Z/?tag=tolees00-21)
 

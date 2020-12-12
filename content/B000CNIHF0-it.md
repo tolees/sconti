@@ -28,9 +28,9 @@ Tienes [Versace Woman Eau de Parfum spray 100 ml](https://www.amazon.it/dp/B000C
 
 Características principales:
 
-- Genero: Unisex
 - Tipo di prodotto: Acqua di colonia
 - Marca: Versace
+- Genero: Unisex
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000CNIHF0/?tag=tolees00-21)
 

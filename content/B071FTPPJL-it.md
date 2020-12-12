@@ -28,15 +28,15 @@ Ahora mismo tienes [Levi s Batwing Hoodie  cappuccio Donna  Avorio  Sportswear H
 
 Características:
 
-- Collar Style: Hooded
-- Machine Wash
-- Regular Fit
-- Graphic sport hoodie
-- Fastening: No closure
-- Long Sleeve
 - Regular
-- 35946
+- Long Sleeve
 - 100% Cotton
+- Collar Style: Hooded
+- 35946
+- Machine Wash
+- Graphic sport hoodie
+- Regular Fit
+- Fastening: No closure
 
 [Visítala!!!](https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21)
 

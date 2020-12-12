@@ -29,8 +29,8 @@ Tienes [CARPISA® Borsa shopping donna lucida - Consuelo](https://www.amazon.it/
 Características principales:
 
 - Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
-- Dimensioni: 32.50x29.50x14.00
 - Composizione: Sintetico
+- Dimensioni: 32.50x29.50x14.00
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07V9NY8RB/?tag=tolees00-21)
 

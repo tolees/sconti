@@ -31,8 +31,8 @@ Características principales:
 - Resistente Alla Collisione: Con corpo in lega di metallo di qualità e paraurti spessi, il camion Monster 1:14 è altamente resistente alla collisione consentendo tutti i tipi di gioco.
 - Supera Ostacoli Alti da 10cm: Potente motore, telaio alto e sistema 4WD permettono alla vettura di superare ostacoli alti 10 centimetri come rocce e marciapiedi.
 - 60 Min di Tempo di Gioco: Due batterie ricaricabili da 4.8V 600mAh garantiscono un funzionamento di 60 minuti totale, con infinito divertimento e intrattenimento.
-- Automobile Cingolata All-Terrain: Il sistema 4WD e la forte potenza assicurano che la auto RC riesca a salire sui pendii a 45° e a conquistare tutti i terreni come erba, spiaggia, neve, roccia e strada in cemento.
 - Giocare Insieme: Grazie al trasmettitore da 2.4Ghz, i bambini possono giocare con più auto insieme senza interruzioni di frequenza e rafforzare la loro amicizia e lavoro di squadra durante le gare.
+- Automobile Cingolata All-Terrain: Il sistema 4WD e la forte potenza assicurano che la auto RC riesca a salire sui pendii a 45° e a conquistare tutti i terreni come erba, spiaggia, neve, roccia e strada in cemento.
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B088LMJ5DM/?tag=tolees00-21)
 

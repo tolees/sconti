@@ -28,11 +28,11 @@ Tienes [Lacoste Orologio Analogico Quarzo Donna con Cinturino in Pelle 2000822](
 
 Características principales:
 
-- Cristalli di Swarovski
-- Movimento a tre lancette
+- Logo di coccodrillo sovradimensionato sul quadrante
 - Cassa in acciaio inossidabile
 - Cinturino in pelle
-- Logo di coccodrillo sovradimensionato sul quadrante
+- Cristalli di Swarovski
+- Movimento a tre lancette
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00ENWRPUY/?tag=tolees00-21)
 

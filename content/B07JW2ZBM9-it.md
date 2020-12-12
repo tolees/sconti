@@ -28,10 +28,10 @@ Tienes [Laica Ne3003 Aerosol con Microcompressore Portatile per Adulti e Bambini
 
 Características principales:
 
-- CARATTERISTICHE TECNICHE: Aerosol con microcompressore a pistone. Alimentazione con trasformatore – Input: 100-240V – 50/60Hz 0.35A / Output: 12V, 1A. Nebulizzazione: 0,2 ml/min. Capacità ampolla: min. 2 ml, max 8 ml. Peso: 510 g. Dimensioni: 7 x 14,5 x 7,8 cm. Rumorosità a 1 metro: 56 dB(A) +/-10dB.
-- Adatto per il trattamento di tracheiti, bronchiti, sinusiti, allergie e raffreddori. Il funzionamento a pistone permette una nebulizzazione ultrarapida e finissima con la maggior parte dei farmaci, anche quelli oleosi come cortisonici, oli essenziali, sospensioni
 - Laica NE3003 è garantito 24 mesi
+- Adatto per il trattamento di tracheiti, bronchiti, sinusiti, allergie e raffreddori. Il funzionamento a pistone permette una nebulizzazione ultrarapida e finissima con la maggior parte dei farmaci, anche quelli oleosi come cortisonici, oli essenziali, sospensioni
 - Ultra compatto, facile da usare, estremamente rapido e silenzioso è adatto per adulti e bambini grazie alle 2 diverse maschere in dotazione
+- CARATTERISTICHE TECNICHE: Aerosol con microcompressore a pistone. Alimentazione con trasformatore – Input: 100-240V – 50/60Hz 0.35A / Output: 12V, 1A. Nebulizzazione: 0,2 ml/min. Capacità ampolla: min. 2 ml, max 8 ml. Peso: 510 g. Dimensioni: 7 x 14,5 x 7,8 cm. Rumorosità a 1 metro: 56 dB(A) +/-10dB.
 - ACCESSORI INCLUSI: maschera adulto, maschera pediatrica, ampolla, tubo aria, boccaglio, 3 filtri, trasformatore. Compatibile con Rinowash
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07JW2ZBM9/?tag=tolees00-21)

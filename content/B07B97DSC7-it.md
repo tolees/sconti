@@ -29,14 +29,14 @@ Tienes [Netatmo NTH01-IT-EC Termostato Wifi Intelligente per caldaia individuale
 Características principales:
 
 - La temperaturaottima in ogni stanza: completa il tuo Termostato Intelligente con le Valvole Termostatiche Intelligenti Aggiuntive, in grado di attivare da sole il riscaldamento da un termosifone
-- Informazioni e suggerimenti sui consumi : visualizza la tua cronologia e consulta il tuo Bilancio sul Risparmio Energetico personalizzato, per monitorare e ottimizzare i tuoi consumi energetici
 - Un termostato intelligente: la funzione Auto-Adapt integra le condizioni atmosferiche con le caratteristiche termiche dell’abitazione, per garantire la temperatura desiderata
-- Assistenza NETATMO: hai bisogno di aiuto per installare/utilizzare il tuo prodotto? Contatta lassistenza su helpcenter.netatmo.com/it o scrivici allindirizzo: contact-amazon@netatmo.com
-- Design firmato Starck: sempre in armonia. Design firmato Philippe Starck e 4 adesivi di diversi colori in dotazione: il Termostato Intelligente Netatmo si fonde nel tuo spazio abitativo
+- Informazioni e suggerimenti sui consumi : visualizza la tua cronologia e consulta il tuo Bilancio sul Risparmio Energetico personalizzato, per monitorare e ottimizzare i tuoi consumi energetici
 - Compatibilita: il Termostato Intelligente Netatmo è compatibile con la maggior parte dei modelli di caldaia (elettricità, gas, kerosene, legna, pompa di calore)
-- Controllo a distanza e con la voce: comanda a distanza il tuo Termostato Intelligente da smartphone, tablet o computer. Regalati la libertà del comando vocale con compatibilità Apple HomeKit, Alexa e Assistente Google
-- Risparmia senza pensieri: risparmia con un programma di riscaldamento domestico basato sui tuoi bisogni. Vai in vacanza? Programma le modalità Assente e Antigelo
+- Design firmato Starck: sempre in armonia. Design firmato Philippe Starck e 4 adesivi di diversi colori in dotazione: il Termostato Intelligente Netatmo si fonde nel tuo spazio abitativo
 - Installazione rapida e semplice : installazione facile fai da te, con il Termostato Intelligente Netatmo in meno di un’ora
+- Risparmia senza pensieri: risparmia con un programma di riscaldamento domestico basato sui tuoi bisogni. Vai in vacanza? Programma le modalità Assente e Antigelo
+- Assistenza NETATMO: hai bisogno di aiuto per installare/utilizzare il tuo prodotto? Contatta lassistenza su helpcenter.netatmo.com/it o scrivici allindirizzo: contact-amazon@netatmo.com
+- Controllo a distanza e con la voce: comanda a distanza il tuo Termostato Intelligente da smartphone, tablet o computer. Regalati la libertà del comando vocale con compatibilità Apple HomeKit, Alexa e Assistente Google
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07B97DSC7/?tag=tolees00-21)
 

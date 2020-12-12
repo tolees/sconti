@@ -28,11 +28,11 @@ Está [tech rc Mini Drone con Telecamera con Due Batterie Funzione di Sospension
 
 Principales características:
 
-- Modalità senza testa:non bisogna di identificare la direzione ,si può pilotare facilmente il drone,adatto per bambini e principianti. Nota: drone è adatto solo per il volo in interni, è facile perdere drone quando si vola allaperto.
-- Promemoria di bassa tensione:Quando le luci dei droni passano da solide a lampeggianti , è lavviso di bassa potenza, il giocatore dovrebbe comandare il drone di tornare in tempo.
-- 20 minuti di volo:ci sono due batterie,una batteria nel corpo di drone,una batteria nella confezione,drone ha un tempo di volo più lungo per circa 20 minuti.Si può godere pienamente del volo!
-- WiFi FPV:Drone con telecamera,puoi utilizzare il cellulare per ricevere limmagine e registrare video e foto. Le foto sono salvate automaticamente nel vostro cellulare, in modo da poter condividerle o modificarle.
 - Decollo / Atterraggio a un pulsante:premere decollo / atterraggio a un pulsante,il drone decolla o atterra automaticamente,facile da giocare,perfetto per bambini e principianti.
+- Promemoria di bassa tensione:Quando le luci dei droni passano da solide a lampeggianti , è lavviso di bassa potenza, il giocatore dovrebbe comandare il drone di tornare in tempo.
+- Modalità senza testa:non bisogna di identificare la direzione ,si può pilotare facilmente il drone,adatto per bambini e principianti. Nota: drone è adatto solo per il volo in interni, è facile perdere drone quando si vola allaperto.
+- WiFi FPV:Drone con telecamera,puoi utilizzare il cellulare per ricevere limmagine e registrare video e foto. Le foto sono salvate automaticamente nel vostro cellulare, in modo da poter condividerle o modificarle.
+- 20 minuti di volo:ci sono due batterie,una batteria nel corpo di drone,una batteria nella confezione,drone ha un tempo di volo più lungo per circa 20 minuti.Si può godere pienamente del volo!
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07SW3YYTQ/?tag=tolees00-21)
 
