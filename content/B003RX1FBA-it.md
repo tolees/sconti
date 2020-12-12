@@ -28,11 +28,11 @@ Está [Vans Atwood  Scarpe da Ginnastica Uomo  Nero  Canvas  Black/Black  42 EU]
 
 Principales características:
 
+- Chiusura: Stringata
 - Tipo di tacco: Senza tacco
 - Fodera: Tessuto
-- Materiale suola: Gomma
-- Chiusura: Stringata
 - Materiale esterno: Sintetico
+- Materiale suola: Gomma
 
 [Ver la oferta!!](https://www.amazon.it/dp/B003RX1FBA/?tag=tolees00-21)
 

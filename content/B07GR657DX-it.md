@@ -28,11 +28,11 @@ Está [Bottega Verde - Confezione Regalo con Scatola Decorativa in Latta - Prime
 
 Principales características:
 
-- Bottega Verde crea da oltre 40 anni prodotti cosmetici e di bellezza a base di principi naturali, combinando la tradizione delleccellenza italiana con uno spirito di continua innovazione
-- Il matitone illuminante per gli occhi regala allo sguardo un tocco magnetico e luminoso. Questa morbida matita è ideale da sfumare sotto le sopracciglia, per donare brillantezza e luminosità ma sempre con un effetto naturale
-- La base trucco perlescente è una crema leggera e a rapido assorbimento che dona al viso un aspetto radioso, luminoso ed omogeneo. Nasconde le imperfezioni, uniforma lincarnato, ha proprietà antiossidanti e idratanti grazie alla Vitamina E e al glicerolo vegetale.
 - Questa è lidea regalo perfetta per il periodo natalizio. I trucchi al suo interno sono per un make-up luminoso e scintillante in tema Natale e Capodanno, da mettere a feste, cene, pranzi e cenoni
 - La confezione regalo include una base trucco perlescente illuminante 30 ml, un matitone illuminante ed un tempera matite per il trucco, e una scatola in latta riutilizzabile come decorazione di Natale o porta oggetti
+- La base trucco perlescente è una crema leggera e a rapido assorbimento che dona al viso un aspetto radioso, luminoso ed omogeneo. Nasconde le imperfezioni, uniforma lincarnato, ha proprietà antiossidanti e idratanti grazie alla Vitamina E e al glicerolo vegetale.
+- Il matitone illuminante per gli occhi regala allo sguardo un tocco magnetico e luminoso. Questa morbida matita è ideale da sfumare sotto le sopracciglia, per donare brillantezza e luminosità ma sempre con un effetto naturale
+- Bottega Verde crea da oltre 40 anni prodotti cosmetici e di bellezza a base di principi naturali, combinando la tradizione delleccellenza italiana con uno spirito di continua innovazione
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07GR657DX/?tag=tolees00-21)
 

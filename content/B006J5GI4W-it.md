@@ -28,11 +28,11 @@ Tienes [Gran Pavesi Cracker Salati I Classici  Senza Olio di Palma  18 Pacchetti
 
 Características principales:
 
-- PER LA TUA MERENDA - Ideali come snack al mattino o come merenda nel pomeriggio: un pacchetto di crackers per avere la giusta energia per affrontare la giornata
-- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
-- CRACKER SALATI - I crackers di Pavesi, croccanti e friabili, con una ricetta tradizionale da oltre 50 anni. Pochi e semplici ingredienti per un gusto unico
 - GRAN PAVESI - Scegli lo snack che più desideri: i classici cracker salati e non salati, arricchiti al pomodoro e formaggio, alle olive, alle patate e rosmarino o tutti gli snack in monoporzione
+- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - INGREDIENTI - Farina di frumento, farina di orzo maltato, lievito e sale. Pochi ingredienti che danno vita ad un crackers buono e croccante. Conservare in luogo fresco ed asciutto
+- PER LA TUA MERENDA - Ideali come snack al mattino o come merenda nel pomeriggio: un pacchetto di crackers per avere la giusta energia per affrontare la giornata
+- CRACKER SALATI - I crackers di Pavesi, croccanti e friabili, con una ricetta tradizionale da oltre 50 anni. Pochi e semplici ingredienti per un gusto unico
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B006J5GI4W/?tag=tolees00-21)
 

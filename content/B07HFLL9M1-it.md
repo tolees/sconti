@@ -28,8 +28,8 @@ Ahora mismo tienes [Only onlSKY Reg DNM Skirt BB PIM992 Noos Gonna  Blu  Light B
 
 Características:
 
-- Light blue wash
 - Denimskirt with raw edge at hemline
+- Light blue wash
 
 [Visítala!!!](https://www.amazon.it/dp/B07HFLL9M1/?tag=tolees00-21)
 

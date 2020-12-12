@@ -28,11 +28,11 @@ Tienes [Barilla Sugo alla Salsiccia e Carni Selezionate senza Glutine  2 x 180g]
 
 Características principales:
 
-- IDEALE CON - Ottimo con le fettuccine ricce Emiliane, il ragù alla salsiccia Barilla è pronto da versare direttamente sulla pasta scolata
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - SUGHI BARILLA - Tutti i sughi Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
 - INGREDIENTI - Carne selezionata da filiera controllata, salsiccia e pomodori 100% italiani, il segreto della sua bontà è la semplicità della ricetta, con la dolcezza del pomodoro maturato al sole
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - CARATTERISTICHE - I sughi Barilla sono totalmente di provenienza italiana, senza conservanti e gluten free
+- IDEALE CON - Ottimo con le fettuccine ricce Emiliane, il ragù alla salsiccia Barilla è pronto da versare direttamente sulla pasta scolata
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00XUH2G7U/?tag=tolees00-21)
 

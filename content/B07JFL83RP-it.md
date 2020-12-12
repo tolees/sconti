@@ -28,9 +28,9 @@ Tienes [PUMA Carina L  Scarpe da Ginnastica Donna  Bianco White/White/Silver  40
 
 Características principales:
 
+- Practico
 - Chic Design
 - Materiale leggero
-- Practico
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07JFL83RP/?tag=tolees00-21)
 

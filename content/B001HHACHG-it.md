@@ -29,8 +29,8 @@ Está [Leifheit Portarotoli Parat ComfortLine per 3 Rotoli  Taglia Rotoli Precis
 Principales características:
 
 - 3 rolls – The Leifheit wall-mounted roll holder conveniently holds and dispenses paper roll holder, plastic film and aluminium foil, its sliding cutters make dispensing and cutting easy
-- Always at hand – Thanks to the clever design of the cling film and foil holder the roll ends are left easily accessible at all times No more hunting for the end of the cling film
 - Clean edges – The razor-sharp blades in the wall mounted kitchen roll holder are safely hidden behind the ergonomic cutting slides, cutting to the required length with no tangled waste
+- Always at hand – Thanks to the clever design of the cling film and foil holder the roll ends are left easily accessible at all times No more hunting for the end of the cling film
 - Product details – White Leifheit wall-mounted roll holder, 38 x 26 x 7 cm, holds Kitchen Towel, Cling Film and Foil, takes rolls up to 30 5x5 cm, item number: 25703
 - Simple & Convenient – We made our kitchen roll holder wall mounted for extra convenience, and it is also simple to mount on the wall, with screws and wall plugs included
 

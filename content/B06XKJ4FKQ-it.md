@@ -28,10 +28,10 @@ Está [CARRERA GO!!! - 20062416 - Disney/Pixar Cars 3 - Fast Not Last](https://w
 
 Principales características:
 
-- Corse dazione in scala 1: 43
-- Raccomandato per 2 giocatori
-- Montaggio semplice
 - Lunghezza pista montata 6.2 m
+- Corse dazione in scala 1: 43
+- Montaggio semplice
+- Raccomandato per 2 giocatori
 
 [Ver la oferta!!](https://www.amazon.it/dp/B06XKJ4FKQ/?tag=tolees00-21)
 

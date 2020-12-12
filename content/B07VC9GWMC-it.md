@@ -28,8 +28,8 @@ Está [CARPISA® Borsa mini secchiello - Roxana](https://www.amazon.it/dp/B07VC9
 
 Principales características:
 
-- Composizione: Sintetico
 - Misure: 14 x15 x14 cm
+- Composizione: Sintetico
 - Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VC9GWMC/?tag=tolees00-21)

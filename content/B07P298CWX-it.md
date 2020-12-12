@@ -28,12 +28,12 @@ Ahora mismo tienes [ALLUFLON Set 2 Lasagnere Vesuvia  34x25 cm e 24x18 cm  Allum
 
 Características:
 
-- 100% made in Italy. Lavabile in lavastoviglie
-- Lasagnera 34x25 cm: altezza 6.8 cm, capacità 5.1 litri
 - Set 2 lasagnere 24x18 cm e 34x25 cm; con antiaderente Hardoise effetto pietra
 - Lasagnera 24x18 cm: altezza 6.0 cm, capacità 2.4 litri
-- Corpo in alluminio per uso alimentare, per utilizzo in forno
+- Lasagnera 34x25 cm: altezza 6.8 cm, capacità 5.1 litri
 - Non contiene PFOA, non contiene Nickel e metalli pesanti, non contiene Bisfenolo A (BPA free)
+- Corpo in alluminio per uso alimentare, per utilizzo in forno
+- 100% made in Italy. Lavabile in lavastoviglie
 
 [Visítala!!!](https://www.amazon.it/dp/B07P298CWX/?tag=tolees00-21)
 

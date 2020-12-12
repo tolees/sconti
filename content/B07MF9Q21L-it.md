@@ -28,11 +28,11 @@ Está [SRS-XB12 - Speaker wireless portatile con EXTRA BASS  Impermeabile e resi
 
 Principales características:
 
-- Facile trasporto grazie al design compatto e leggero, cordino removibile incluso
-- Design resistente: resistente ad acqua, polvere, sabbia e fango (ip67) e incredibile durata della batteria fino a 16 ore
-- EXTRA BASS per suono potente
-- Design resistente: resistente ad acqua, polvere, sabbia e fango (IP67) e incredibile durata della batteria fino a 16 ore
 - Compatibilità bluetooth per ascoltare la musica con facilità
+- EXTRA BASS per suono potente
+- Design resistente: resistente ad acqua, polvere, sabbia e fango (ip67) e incredibile durata della batteria fino a 16 ore
+- Design resistente: resistente ad acqua, polvere, sabbia e fango (IP67) e incredibile durata della batteria fino a 16 ore
+- Facile trasporto grazie al design compatto e leggero, cordino removibile incluso
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MF9Q21L/?tag=tolees00-21)
 

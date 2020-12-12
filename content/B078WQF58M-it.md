@@ -28,9 +28,9 @@ Está [Fila Disruptor Low Wmn  Scarpe da Ginnastica Basse Donna  Bianco  White 1
 
 Principales características:
 
-- Rivenditore auorizzato FILA
 - Sneakers comoda e confortevole
 - Si consiglia di prendere un numero in piu rispetto a Adidas.
+- Rivenditore auorizzato FILA
 
 [Ver la oferta!!](https://www.amazon.it/dp/B078WQF58M/?tag=tolees00-21)
 

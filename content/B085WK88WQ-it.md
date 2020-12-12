@@ -28,11 +28,11 @@ Ahora mismo tienes [Haier HW120-B14876  Lavatrice 12 kg A+++-40%  Opzione Vapore
 
 Características:
 
-- Steam wash: opzione vapore, garantisce risultati perfetti contro qualsiasi macchia
-- Capacità di lavaggio: 12 kg
-- Classe energetica a+++ -40%: risparmia fino al 40% rispetto alla classe a+++
 - Motore garantito a vita: motore direct motion, direttamente collegato al cestello offre una durata senza pari
+- Classe energetica a+++ -40%: risparmia fino al 40% rispetto alla classe a+++
+- Capacità di lavaggio: 12 kg
 - Abt: trattamento brevettato sul cassetto del detersivo e sulle guarnizioni
+- Steam wash: opzione vapore, garantisce risultati perfetti contro qualsiasi macchia
 
 [Visítala!!!](https://www.amazon.it/dp/B085WK88WQ/?tag=tolees00-21)
 

@@ -28,10 +28,10 @@ Tienes [Hot Wheels Set Macchinine da 10 Veicoli in Scala 1:64  con Decorazioni M
 
 Características principales:
 
+- Da collezionare
 - Set da 10 veicoli
 - Ottimo giocattolo per bambini
 - Età: da tre anni in su
-- Da collezionare
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000B6MKMO/?tag=tolees00-21)
 

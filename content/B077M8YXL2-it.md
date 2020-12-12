@@ -28,11 +28,11 @@ Tienes [PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White White 
 
 Características principales:
 
-- ArticleType: Low Boot
-- ActivityGroup: Basics
-- MidSole: Rubber
 - AgeGroup: Adults
 - BusinessUnit: Athletic / Sport Leisure
+- ActivityGroup: Basics
+- MidSole: Rubber
+- ArticleType: Low Boot
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B077M8YXL2/?tag=tolees00-21)
 

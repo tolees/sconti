@@ -28,11 +28,11 @@ Está [Yankee Candle Angels Wings - Candela Profumata  Vaniglia  Giara grande  1
 
 Principales características:
 
+- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 - Durata della candela: da 110 a 150 ore di piacevole profumazione
 - Il morale va alle stelle con questo arioso aroma di dolce zucchero filato, petali di fiori celesti e vaniglia divinamente vellutata
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00N2TJ62E/?tag=tolees00-21)
 

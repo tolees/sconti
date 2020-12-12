@@ -28,9 +28,9 @@ Tienes [adidas Grand Court K  Scarpe da Tennis  Ftwwht/Coppmt/Glopnk  36 2/3 EU]
 
 Características principales:
 
+- 3 strisce sui lati
 - Scarpe sportive
 - Tomaia in similpelle
-- 3 strisce sui lati
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RL2J84V/?tag=tolees00-21)
 

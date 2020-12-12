@@ -28,9 +28,9 @@ Tienes [Parrot Zaino per Drone Bebop & Skycontroller  Nero](https://www.amazon.i
 
 Características principales:
 
+- The manufacturers recommended Backpack for the Parrot Bebop Drone and Bebop 2 with Skycontroller
 - Every component of the Parrot Bebop Drone 2 remote controlled quadricopter is replaceable, using the appropriate spare part
 - Always purchase genuine Parrot replacement parts, as the substitution of alternative spares will invalidate the warranty
-- The manufacturers recommended Backpack for the Parrot Bebop Drone and Bebop 2 with Skycontroller
 - Dimensions: 44 x 34 x 23 cm.
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B016VZNU5O/?tag=tolees00-21)

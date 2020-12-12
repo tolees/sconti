@@ -29,8 +29,8 @@ Ahora mismo tienes [Birra Peroni Gran Riserva Doppio Malto - Cassa da 12 x 50 cl
 Características:
 
 - Abbinamento: Carne rossa, selvaggina, pasta condita con sughi saporiti
-- Gusto: Intenso ed equilibrato con aroma di cereali
 - Bottiglia: 12 x 50 cl
+- Gusto: Intenso ed equilibrato con aroma di cereali
 - Gradazione alcolica: 6,6% vol.
 
 [Visítala!!!](https://www.amazon.it/dp/B01F8PCAM2/?tag=tolees00-21)

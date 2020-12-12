@@ -28,10 +28,10 @@ Está [Logitech M705 Marathon Mouse Wireless  Imballaggio Business  2.4 GHz Mini
 
 Principales características:
 
-- Scorrimento iperveloce – Scorri in un lampo lunghi documenti e pagine Web con un solo movimento dello scroll metallico, praticamente privo di attrito.
 - Durata delle batterie tre anni – Clicca di più. Scorri di più. Fai di più. Logitech M705 Marathon Mouse consuma meno dei mouse wireless simili di altri produttori, il che significa che possono passare fino a tre anni prima di dover sostituire le batterie.* * La durata delle batterie varia a seconda delluso.
-- Ricevitore Logitech Unifying – Il minuscolo ricevitore wireless rimane sempre inserito nel laptop. Non è necessario rimuoverlo durante gli spostamenti, riducendo il rischio di smarrirlo o romperlo. Inoltre è possibile controllare facilmente con lo stesso ricevitore anche tastiere e mouse senza fili compatibili.
 - Progettato per il controllo – La forma anatomica per mano destra favorisce una posizione comoda e naturale della mano con controlli personalizzabili facilmente accessibili. Due pulsanti azionabili con il pollice ti permettono di consultare rapidamente le pagine Web.** ** Richiede linstallazione di software.
+- Ricevitore Logitech Unifying – Il minuscolo ricevitore wireless rimane sempre inserito nel laptop. Non è necessario rimuoverlo durante gli spostamenti, riducendo il rischio di smarrirlo o romperlo. Inoltre è possibile controllare facilmente con lo stesso ricevitore anche tastiere e mouse senza fili compatibili.
+- Scorrimento iperveloce – Scorri in un lampo lunghi documenti e pagine Web con un solo movimento dello scroll metallico, praticamente privo di attrito.
 - Tracciamento di qualità laser – Scorrimento del cursore uniforme, immediato e preciso sulle superfici problematiche per i mouse ottici standard, come i tavoli di legno grezzo o lucidi.*** *** Utilizzabile praticamente su qualsiasi superficie, tranne vetro e specchi.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07W4DHT47/?tag=tolees00-21)

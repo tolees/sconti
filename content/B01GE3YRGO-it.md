@@ -29,8 +29,8 @@ Está [Tommy Hilfiger Microfiber Thong Iconic Perizoma  Blu  Navy Blazer 416   M
 Principales características:
 
 - Vestibilità leggera
-- Vita elastica
 - Logo ripetuto sulla vita
+- Vita elastica
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01GE3YRGO/?tag=tolees00-21)
 
