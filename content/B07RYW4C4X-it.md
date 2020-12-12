@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.05 % en Grid Day one edition Edition - PlayStati'
 date: 2020-11-18 22:49:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UCGItMEYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UCGItMEYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UCGItMEYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'Grid Day one edition Edition - PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RYW4C4X/?tag=tolees00-21'
+descuento: '31.05'
+titulo: 'Grid Day one edition Edition - PlayStati'
 ---
 
 Tienes [Grid Day one edition Edition - PlayStation 4](https://www.amazon.it/dp/B07RYW4C4X/?tag=tolees00-21) con un 31.05 % de descuento con precio de oferta de 19.99 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![Grid Day one edition Edition - PlayStati](https://m.media-amazon.com/images/I/51UCGItMEYL._SL200_.jpg)](https://www.amazon.it/dp/B07RYW4C4X/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RYW4C4X/?tag=tolees00-21)
 

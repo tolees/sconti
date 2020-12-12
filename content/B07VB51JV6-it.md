@@ -3,6 +3,7 @@ layout: post
 title: 'CARPISA® Bosa shopping donna - Balmira al 68.09 % de descuento'
 date: 2020-11-26 20:12:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31AAPD25xkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AAPD25xkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31AAPD25xkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'CARPISA® Bosa shopping donna - Balmira'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VB51JV6/?tag=tolees00-21'
+descuento: '68.09'
+titulo: 'CARPISA® Bosa shopping donna - Balmira'
 ---
 
 Está [CARPISA® Bosa shopping donna - Balmira](https://www.amazon.it/dp/B07VB51JV6/?tag=tolees00-21) con 68.09 de descuento por 12.75 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![CARPISA® Bosa shopping donna - Balmira](https://m.media-amazon.com/images/I/31AAPD25xkL._SL200_.jpg)](https://www.amazon.it/dp/B07VB51JV6/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VB51JV6/?tag=tolees00-21)
 

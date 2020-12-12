@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung MG23F301TCK Forno Microonde Gril al 37.99 % de descuento'
 date: 2020-11-26 15:10:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-wuF8feXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-wuF8feXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-wuF8feXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 129.0 EUR
 inStock: true
 prodname: 'Samsung MG23F301TCK Forno Microonde Grill  Combinato 23 Litri  800 W  con Piatto Doratore Crusty  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00CAVYQO8/?tag=tolees00-21'
+descuento: '37.99'
+titulo: 'Samsung MG23F301TCK Forno Microonde Gril'
 ---
 
 Ahora mismo tienes [Samsung MG23F301TCK Forno Microonde Grill  Combinato 23 Litri  800 W  con Piatto Doratore Crusty  Nero](https://www.amazon.it/dp/B00CAVYQO8/?tag=tolees00-21) a 79.99 EUR (original: 129.0 EUR) (37.99 %  de descuento) en el siguiente enlace!
 
 [![Samsung MG23F301TCK Forno Microonde Gril](https://m.media-amazon.com/images/I/31-wuF8feXL._SL200_.jpg)](https://www.amazon.it/dp/B00CAVYQO8/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B00CAVYQO8/?tag=tolees00-21)
 

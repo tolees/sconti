@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.45 % en Nike MD Valiant  GS   Scarpe da Corsa  P'
 date: 2020-12-02 17:01:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41y31g3AurL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y31g3AurL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41y31g3AurL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Nike MD Valiant  GS   Scarpe da Corsa  Particle Grey/White  40 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08CXKV1FB/?tag=tolees00-21'
+descuento: '36.45'
+titulo: 'Nike MD Valiant  GS   Scarpe da Corsa  P'
 ---
 
 Tienes [Nike MD Valiant  GS   Scarpe da Corsa  Particle Grey/White  40 EU](https://www.amazon.it/dp/B08CXKV1FB/?tag=tolees00-21) con un 36.45 % de descuento con precio de oferta de 28.59 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![Nike MD Valiant  GS   Scarpe da Corsa  P](https://m.media-amazon.com/images/I/41y31g3AurL._SL200_.jpg)](https://www.amazon.it/dp/B08CXKV1FB/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08CXKV1FB/?tag=tolees00-21)
 

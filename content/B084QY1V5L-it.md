@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.34 % en Sakura Wars - Other - PlayStation 4'
 date: 2020-11-24 13:31:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yXCB51r+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51yXCB51r+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yXCB51r+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Sakura Wars - Other - PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B084QY1V5L/?tag=tolees00-21'
+descuento: '58.34'
+titulo: 'Sakura Wars - Other - PlayStation 4'
 ---
 
 Tienes [Sakura Wars - Other - PlayStation 4](https://www.amazon.it/dp/B084QY1V5L/?tag=tolees00-21) con un 58.34 % de descuento con precio de oferta de 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Sakura Wars - Other - PlayStation 4](https://m.media-amazon.com/images/I/51yXCB51r+L._SL200_.jpg)](https://www.amazon.it/dp/B084QY1V5L/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B084QY1V5L/?tag=tolees00-21)
 

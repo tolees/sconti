@@ -3,6 +3,7 @@ layout: post
 title: 'Salewa Alpinist Walk Ramponi a 12 Punte  al 25.00 % de descuento'
 date: 2020-11-04 10:49:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SfSnQtwQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SfSnQtwQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SfSnQtwQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 74.0 EUR
 inStock: true
 prodname: 'Salewa Alpinist Walk Ramponi a 12 Punte  Unisex adulto  Acciaio  Taglia Unica'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00ET40HZG/?tag=tolees00-21'
+descuento: '25.00'
+titulo: 'Salewa Alpinist Walk Ramponi a 12 Punte '
 ---
 
 Está [Salewa Alpinist Walk Ramponi a 12 Punte  Unisex adulto  Acciaio  Taglia Unica](https://www.amazon.it/dp/B00ET40HZG/?tag=tolees00-21) con 25.00 de descuento por 55.5 EUR (original: 74.0 EUR) en el siguiente enlace!
 
 [![Salewa Alpinist Walk Ramponi a 12 Punte ](https://m.media-amazon.com/images/I/51SfSnQtwQL._SL200_.jpg)](https://www.amazon.it/dp/B00ET40HZG/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00ET40HZG/?tag=tolees00-21)
 

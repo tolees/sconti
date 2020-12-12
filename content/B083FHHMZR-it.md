@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste L1212 Polo  Nidus  XS Uomo al 52.49 % de descuento'
 date: 2020-12-03 11:34:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31v2vxSoZDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31v2vxSoZDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31v2vxSoZDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 95.0 EUR
 inStock: true
 prodname: 'Lacoste L1212 Polo  Nidus  XS Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B083FHHMZR/?tag=tolees00-21'
+descuento: '52.49'
+titulo: 'Lacoste L1212 Polo  Nidus  XS Uomo'
 ---
 
 Ahora mismo tienes [Lacoste L1212 Polo  Nidus  XS Uomo](https://www.amazon.it/dp/B083FHHMZR/?tag=tolees00-21) a 45.13 EUR (original: 95.0 EUR) (52.49 %  de descuento) en el siguiente enlace!
 
 [![Lacoste L1212 Polo  Nidus  XS Uomo](https://m.media-amazon.com/images/I/31v2vxSoZDL._SL200_.jpg)](https://www.amazon.it/dp/B083FHHMZR/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B083FHHMZR/?tag=tolees00-21)
 

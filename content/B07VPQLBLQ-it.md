@@ -3,6 +3,7 @@ layout: post
 title: 'TECCPO Levigatrice Mouse 14000 RPM  12 C al 50.01 % de descuento'
 date: 2020-11-27 09:17:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UaquULqdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UaquULqdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UaquULqdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'TECCPO Levigatrice Mouse 14000 RPM  12 Carte Vetrate  6 * 60 Grana  6 * 120 Grana   Sacchetto per la Polvere Lavabile  Basse Vibrazioni  130W  per Levigare il Legno e Rimuovere la Vernice - TAMS22P'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VPQLBLQ/?tag=tolees00-21'
+descuento: '50.01'
+titulo: 'TECCPO Levigatrice Mouse 14000 RPM  12 C'
 ---
 
 Está [TECCPO Levigatrice Mouse 14000 RPM  12 Carte Vetrate  6 * 60 Grana  6 * 120 Grana   Sacchetto per la Polvere Lavabile  Basse Vibrazioni  130W  per Levigare il Legno e Rimuovere la Vernice - TAMS22P](https://www.amazon.it/dp/B07VPQLBLQ/?tag=tolees00-21) con 50.01 de descuento por 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![TECCPO Levigatrice Mouse 14000 RPM  12 C](https://m.media-amazon.com/images/I/51UaquULqdL._SL200_.jpg)](https://www.amazon.it/dp/B07VPQLBLQ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VPQLBLQ/?tag=tolees00-21)
 

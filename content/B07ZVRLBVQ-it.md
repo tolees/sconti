@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 511 Slim Jeans  Harvest Gold STR  al 41.76 % de descuento'
 date: 2020-11-03 15:07:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/419qMdeWXiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419qMdeWXiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419qMdeWXiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'Levi s 511 Slim Jeans  Harvest Gold STR 14W Cord GD  31W / 32L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZVRLBVQ/?tag=tolees00-21'
+descuento: '41.76'
+titulo: 'Levi s 511 Slim Jeans  Harvest Gold STR '
 ---
 
 Está [Levi s 511 Slim Jeans  Harvest Gold STR 14W Cord GD  31W / 32L Uomo](https://www.amazon.it/dp/B07ZVRLBVQ/?tag=tolees00-21) con 41.76 de descuento por 52.42 EUR (original: 90.0 EUR) en el siguiente enlace!
 
 [![Levi s 511 Slim Jeans  Harvest Gold STR ](https://m.media-amazon.com/images/I/419qMdeWXiL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVRLBVQ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZVRLBVQ/?tag=tolees00-21)
 

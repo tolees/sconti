@@ -3,6 +3,7 @@ layout: post
 title: 'SALEWA Pedroc Cargo 2 Durastretch  Panta al 27.96 % de descuento'
 date: 2020-12-03 17:12:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31k9NWz+nPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31k9NWz+nPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31k9NWz+nPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'SALEWA Pedroc Cargo 2 Durastretch  Pantaloncini Uomo  Nero  Black Out/3860   48/M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TS9RDBP/?tag=tolees00-21'
+descuento: '27.96'
+titulo: 'SALEWA Pedroc Cargo 2 Durastretch  Panta'
 ---
 
 Está [SALEWA Pedroc Cargo 2 Durastretch  Pantaloncini Uomo  Nero  Black Out/3860   48/M](https://www.amazon.it/dp/B07TS9RDBP/?tag=tolees00-21) con 27.96 de descuento por 57.63 EUR (original: 80.0 EUR) en el siguiente enlace!
 
 [![SALEWA Pedroc Cargo 2 Durastretch  Panta](https://m.media-amazon.com/images/I/31k9NWz+nPL._SL200_.jpg)](https://www.amazon.it/dp/B07TS9RDBP/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07TS9RDBP/?tag=tolees00-21)
 

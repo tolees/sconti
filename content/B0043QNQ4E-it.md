@@ -3,6 +3,7 @@ layout: post
 title: 'Level Half Pipe Mitt Gore-Tex Guanto Hal al 52.78 % de descuento'
 date: 2020-11-26 21:32:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eF5DbvlHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eF5DbvlHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eF5DbvlHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 130.0 EUR
 inStock: true
 prodname: 'Level Half Pipe Mitt Gore-Tex Guanto Half Pipe Mitt Gore-tex®  Uomo  Nero  9 - L'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0043QNQ4E/?tag=tolees00-21'
+descuento: '52.78'
+titulo: 'Level Half Pipe Mitt Gore-Tex Guanto Hal'
 ---
 
 Ahora mismo tienes [Level Half Pipe Mitt Gore-Tex Guanto Half Pipe Mitt Gore-tex®  Uomo  Nero  9 - L](https://www.amazon.it/dp/B0043QNQ4E/?tag=tolees00-21) a 61.38 EUR (original: 130.0 EUR) (52.78 %  de descuento) en el siguiente enlace!
 
 [![Level Half Pipe Mitt Gore-Tex Guanto Hal](https://m.media-amazon.com/images/I/41eF5DbvlHL._SL200_.jpg)](https://www.amazon.it/dp/B0043QNQ4E/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B0043QNQ4E/?tag=tolees00-21)
 

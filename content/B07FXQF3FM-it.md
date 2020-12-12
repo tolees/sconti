@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Filmore Decon  Scarpe da Ginnastica al 48.24 % de descuento'
 date: 2020-11-27 09:49:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tZ8TdXJWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tZ8TdXJWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tZ8TdXJWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 55.0 EUR
 inStock: true
 prodname: 'Vans Filmore Decon  Scarpe da Ginnastica Uomo  Rosso   Canvas  Port Royale/White 8j7   46 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07FXQF3FM/?tag=tolees00-21'
+descuento: '48.24'
+titulo: 'Vans Filmore Decon  Scarpe da Ginnastica'
 ---
 
 Está [Vans Filmore Decon  Scarpe da Ginnastica Uomo  Rosso   Canvas  Port Royale/White 8j7   46 EU](https://www.amazon.it/dp/B07FXQF3FM/?tag=tolees00-21) con 48.24 de descuento por 28.47 EUR (original: 55.0 EUR) en el siguiente enlace!
 
 [![Vans Filmore Decon  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/41tZ8TdXJWL._SL200_.jpg)](https://www.amazon.it/dp/B07FXQF3FM/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07FXQF3FM/?tag=tolees00-21)
 

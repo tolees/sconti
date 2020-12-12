@@ -3,6 +3,7 @@ layout: post
 title: 'Fisher Price CDR52 - Dolci Sogni Cuscino al 27.32 % de descuento'
 date: 2020-10-23 16:08:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/416frxiQN1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416frxiQN1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416frxiQN1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.05 EUR
 inStock: true
 prodname: 'Fisher Price CDR52 - Dolci Sogni Cuscino'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00PI0J7YC/?tag=tolees00-21'
+descuento: '27.32'
+titulo: 'Fisher Price CDR52 - Dolci Sogni Cuscino'
 ---
 
 Está [Fisher Price CDR52 - Dolci Sogni Cuscino](https://www.amazon.it/dp/B00PI0J7YC/?tag=tolees00-21) con 27.32 de descuento por 15.3 EUR (original: 21.05 EUR) en el siguiente enlace!
 
 [![Fisher Price CDR52 - Dolci Sogni Cuscino](https://m.media-amazon.com/images/I/416frxiQN1L._SL200_.jpg)](https://www.amazon.it/dp/B00PI0J7YC/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00PI0J7YC/?tag=tolees00-21)
 

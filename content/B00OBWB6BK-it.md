@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.55 % en SNICKERS pz 24'
 date: 2020-10-29 11:27:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zx-9bBxgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zx-9bBxgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zx-9bBxgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 23.49 EUR
 inStock: true
 prodname: 'SNICKERS pz 24'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00OBWB6BK/?tag=tolees00-21'
+descuento: '31.55'
+titulo: 'SNICKERS pz 24'
 ---
 
 Tienes [SNICKERS pz 24](https://www.amazon.it/dp/B00OBWB6BK/?tag=tolees00-21) con un 31.55 % de descuento con precio de oferta de 16.08 EUR (original: 23.49 EUR) en el siguiente enlace!
 
 [![SNICKERS pz 24](https://m.media-amazon.com/images/I/41zx-9bBxgL._SL200_.jpg)](https://www.amazon.it/dp/B00OBWB6BK/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00OBWB6BK/?tag=tolees00-21)
 

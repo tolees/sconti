@@ -3,6 +3,7 @@ layout: post
 title: 'Bose Solo 5 TV Sistema Audio  Nero al 42.85 % de descuento'
 date: 2020-11-24 09:43:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31gC3DZgiSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gC3DZgiSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31gC3DZgiSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 279.95 EUR
 inStock: true
 prodname: 'Bose Solo 5 TV Sistema Audio  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0117RGXC8/?tag=tolees00-21'
+descuento: '42.85'
+titulo: 'Bose Solo 5 TV Sistema Audio  Nero'
 ---
 
 Ahora mismo tienes [Bose Solo 5 TV Sistema Audio  Nero](https://www.amazon.it/dp/B0117RGXC8/?tag=tolees00-21) a 159.99 EUR (original: 279.95 EUR) (42.85 %  de descuento) en el siguiente enlace!
 
 [![Bose Solo 5 TV Sistema Audio  Nero](https://m.media-amazon.com/images/I/31gC3DZgiSL._SL200_.jpg)](https://www.amazon.it/dp/B0117RGXC8/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B0117RGXC8/?tag=tolees00-21)
 

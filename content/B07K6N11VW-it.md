@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.12 % en PHOTO MASTER NP-FZ100 - Batteria di rica'
 date: 2020-10-16 00:01:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41002mkrosL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41002mkrosL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41002mkrosL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 43.09 EUR
 inStock: true
 prodname: 'PHOTO MASTER NP-FZ100 - Batteria di ricambio  2280 mAh  per Sony Alpha 9  Alpha 9R  Alpha 9S  Sony A9  Sony A9R  Sony Alpha ILCE-9  Sony A7 III  Sony A7RIII  Sony A7R3  Sony 7RM3'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07K6N11VW/?tag=tolees00-21'
+descuento: '44.12'
+titulo: 'PHOTO MASTER NP-FZ100 - Batteria di rica'
 ---
 
 Tienes [PHOTO MASTER NP-FZ100 - Batteria di ricambio  2280 mAh  per Sony Alpha 9  Alpha 9R  Alpha 9S  Sony A9  Sony A9R  Sony Alpha ILCE-9  Sony A7 III  Sony A7RIII  Sony A7R3  Sony 7RM3](https://www.amazon.it/dp/B07K6N11VW/?tag=tolees00-21) con un 44.12 % de descuento con precio de oferta de 24.08 EUR (original: 43.09 EUR) en el siguiente enlace!
 
 [![PHOTO MASTER NP-FZ100 - Batteria di rica](https://m.media-amazon.com/images/I/41002mkrosL._SL200_.jpg)](https://www.amazon.it/dp/B07K6N11VW/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07K6N11VW/?tag=tolees00-21)
 

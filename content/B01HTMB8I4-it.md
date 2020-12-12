@@ -3,6 +3,7 @@ layout: post
 title: 'SALEWA Mtn Trainer Mid Gore-Tex  Scarpe  al 51.82 % de descuento'
 date: 2020-11-23 06:05:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51S0uwF-VVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51S0uwF-VVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51S0uwF-VVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 220.0 EUR
 inStock: true
 prodname: 'SALEWA Mtn Trainer Mid Gore-Tex  Scarpe da Arrampicata Alta Uomo  Multicolore  charcoal/Papavero 4720   42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01HTMB8I4/?tag=tolees00-21'
+descuento: '51.82'
+titulo: 'SALEWA Mtn Trainer Mid Gore-Tex  Scarpe '
 ---
 
 Está [SALEWA Mtn Trainer Mid Gore-Tex  Scarpe da Arrampicata Alta Uomo  Multicolore  charcoal/Papavero 4720   42 EU](https://www.amazon.it/dp/B01HTMB8I4/?tag=tolees00-21) con 51.82 de descuento por 106.0 EUR (original: 220.0 EUR) en el siguiente enlace!
 
 [![SALEWA Mtn Trainer Mid Gore-Tex  Scarpe ](https://m.media-amazon.com/images/I/51S0uwF-VVL._SL200_.jpg)](https://www.amazon.it/dp/B01HTMB8I4/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01HTMB8I4/?tag=tolees00-21)
 

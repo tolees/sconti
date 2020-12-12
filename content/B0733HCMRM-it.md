@@ -3,6 +3,7 @@ layout: post
 title: 'Il Signore del Male  Blu-Ray  - Rimaster al 40.03 % de descuento'
 date: 2020-10-27 07:20:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/5189XjTpqaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5189XjTpqaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5189XjTpqaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.49 EUR
 inStock: true
 prodname: 'Il Signore del Male  Blu-Ray  - Rimasterizzato'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0733HCMRM/?tag=tolees00-21'
+descuento: '40.03'
+titulo: 'Il Signore del Male  Blu-Ray  - Rimaster'
 ---
 
 Está [Il Signore del Male  Blu-Ray  - Rimasterizzato](https://www.amazon.it/dp/B0733HCMRM/?tag=tolees00-21) con 40.03 de descuento por 7.49 EUR (original: 12.49 EUR) en el siguiente enlace!
 
 [![Il Signore del Male  Blu-Ray  - Rimaster](https://m.media-amazon.com/images/I/5189XjTpqaL._SL200_.jpg)](https://www.amazon.it/dp/B0733HCMRM/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0733HCMRM/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'THUN - Set Tazze Colazione da 2 per tè   al 50.00 % de descuento'
 date: 2020-11-20 14:31:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dNb8ePZgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dNb8ePZgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dNb8ePZgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'THUN - Set Tazze Colazione da 2 per tè  caffè  Tisana e Latte  Decorate con Farfalle - Accessori Cucina - Linea Farfalle in Festa - Formato Grande - Porcellana - Piattino 17 5 x 2 5 cm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B088HFC2P8/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'THUN - Set Tazze Colazione da 2 per tè  '
 ---
 
 Ahora mismo tienes [THUN - Set Tazze Colazione da 2 per tè  caffè  Tisana e Latte  Decorate con Farfalle - Accessori Cucina - Linea Farfalle in Festa - Formato Grande - Porcellana - Piattino 17 5 x 2 5 cm](https://www.amazon.it/dp/B088HFC2P8/?tag=tolees00-21) a 19.95 EUR (original: 39.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![THUN - Set Tazze Colazione da 2 per tè  ](https://m.media-amazon.com/images/I/31dNb8ePZgL._SL200_.jpg)](https://www.amazon.it/dp/B088HFC2P8/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B088HFC2P8/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Duplo My First Autogrù Piccolo Mode al 41.88 % de descuento'
 date: 2020-11-05 06:40:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZFqzuQa1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZFqzuQa1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZFqzuQa1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 4.99 EUR
 inStock: true
 prodname: 'LEGO Duplo My First Autogrù Piccolo Modello per Ispirare Mille Storie  Set di Costruzioni Ricco di Dettagli per Bambini +1 Anno e Mezzo  10918'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07WC19KT3/?tag=tolees00-21'
+descuento: '41.88'
+titulo: 'LEGO Duplo My First Autogrù Piccolo Mode'
 ---
 
 Ahora mismo tienes [LEGO Duplo My First Autogrù Piccolo Modello per Ispirare Mille Storie  Set di Costruzioni Ricco di Dettagli per Bambini +1 Anno e Mezzo  10918](https://www.amazon.it/dp/B07WC19KT3/?tag=tolees00-21) a 2.9 EUR (original: 4.99 EUR) (41.88 %  de descuento) en el siguiente enlace!
 
 [![LEGO Duplo My First Autogrù Piccolo Mode](https://m.media-amazon.com/images/I/51ZFqzuQa1L._SL200_.jpg)](https://www.amazon.it/dp/B07WC19KT3/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07WC19KT3/?tag=tolees00-21)
 

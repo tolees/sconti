@@ -3,6 +3,7 @@ layout: post
 title: 'Hugo Boss Cronografo Quarzo Orologio da  al 45.18 % de descuento'
 date: 2020-10-27 07:20:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AyBi0FmJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AyBi0FmJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AyBi0FmJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 363.0 EUR
 inStock: true
 prodname: 'Hugo Boss Cronografo Quarzo Orologio da Polso 1513584'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07BWNMQKT/?tag=tolees00-21'
+descuento: '45.18'
+titulo: 'Hugo Boss Cronografo Quarzo Orologio da '
 ---
 
 Está [Hugo Boss Cronografo Quarzo Orologio da Polso 1513584](https://www.amazon.it/dp/B07BWNMQKT/?tag=tolees00-21) con 45.18 de descuento por 199.0 EUR (original: 363.0 EUR) en el siguiente enlace!
 
 [![Hugo Boss Cronografo Quarzo Orologio da ](https://m.media-amazon.com/images/I/41AyBi0FmJL._SL200_.jpg)](https://www.amazon.it/dp/B07BWNMQKT/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07BWNMQKT/?tag=tolees00-21)
 

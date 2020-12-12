@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.02 % en HEXBUG 50109805 - Giocattolo elettronico'
 date: 2020-11-26 13:33:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UFxH9a4UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UFxH9a4UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UFxH9a4UL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'HEXBUG 50109805 - Giocattolo elettronico \Nano\'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00F5Y4VV0/?tag=tolees00-21'
+descuento: '38.02'
+titulo: 'HEXBUG 50109805 - Giocattolo elettronico'
 ---
 
 Tienes [HEXBUG 50109805 - Giocattolo elettronico \Nano\](https://www.amazon.it/dp/B00F5Y4VV0/?tag=tolees00-21) con un 38.02 % de descuento con precio de oferta de 15.49 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![HEXBUG 50109805 - Giocattolo elettronico](https://m.media-amazon.com/images/I/41UFxH9a4UL._SL200_.jpg)](https://www.amazon.it/dp/B00F5Y4VV0/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00F5Y4VV0/?tag=tolees00-21)
 

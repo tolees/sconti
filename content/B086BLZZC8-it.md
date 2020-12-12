@@ -3,6 +3,7 @@ layout: post
 title: 'LG 27ML600S Monitor 27" FULL HD LED IPS  al 39.76 % de descuento'
 date: 2020-11-26 07:46:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yOsO-55xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yOsO-55xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yOsO-55xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 249.0 EUR
 inStock: true
 prodname: 'LG 27ML600S Monitor 27" FULL HD LED IPS  1920x1080  1ms MBR  AMD FreeSync 75Hz  Audio Stereo 10W  HDMI  HDCP 1.4   VGA  Uscita Audio  Flicker Safe  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B086BLZZC8/?tag=tolees00-21'
+descuento: '39.76'
+titulo: 'LG 27ML600S Monitor 27" FULL HD LED IPS '
 ---
 
 Está [LG 27ML600S Monitor 27" FULL HD LED IPS  1920x1080  1ms MBR  AMD FreeSync 75Hz  Audio Stereo 10W  HDMI  HDCP 1.4   VGA  Uscita Audio  Flicker Safe  Bianco](https://www.amazon.it/dp/B086BLZZC8/?tag=tolees00-21) con 39.76 de descuento por 149.99 EUR (original: 249.0 EUR) en el siguiente enlace!
 
 [![LG 27ML600S Monitor 27" FULL HD LED IPS ](https://m.media-amazon.com/images/I/41yOsO-55xL._SL200_.jpg)](https://www.amazon.it/dp/B086BLZZC8/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B086BLZZC8/?tag=tolees00-21)
 

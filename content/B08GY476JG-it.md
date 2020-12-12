@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley M Portland Stripe Flannel Hood Sh al 45.40 % de descuento'
 date: 2020-11-20 10:21:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QM-ZXjZEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QM-ZXjZEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QM-ZXjZEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Hurley M Portland Stripe Flannel Hood Shirt  Seaweed  XL Mens'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08GY476JG/?tag=tolees00-21'
+descuento: '45.40'
+titulo: 'Hurley M Portland Stripe Flannel Hood Sh'
 ---
 
 Está [Hurley M Portland Stripe Flannel Hood Shirt  Seaweed  XL Mens](https://www.amazon.it/dp/B08GY476JG/?tag=tolees00-21) con 45.40 de descuento por 35.49 EUR (original: 65.0 EUR) en el siguiente enlace!
 
 [![Hurley M Portland Stripe Flannel Hood Sh](https://m.media-amazon.com/images/I/41QM-ZXjZEL._SL200_.jpg)](https://www.amazon.it/dp/B08GY476JG/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08GY476JG/?tag=tolees00-21)
 

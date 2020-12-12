@@ -3,6 +3,7 @@ layout: post
 title: 'Iris & Lilly Pigiama Donna  Rosso  Fairi al 29.37 % de descuento'
 date: 2020-11-29 15:31:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Q8eCCb6gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q8eCCb6gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Q8eCCb6gL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 26.9 EUR
 inStock: true
 prodname: 'Iris & Lilly Pigiama Donna  Rosso  Fairisle   M  Label: M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0889WWYKK/?tag=tolees00-21'
+descuento: '29.37'
+titulo: 'Iris & Lilly Pigiama Donna  Rosso  Fairi'
 ---
 
 Está [Iris & Lilly Pigiama Donna  Rosso  Fairisle   M  Label: M](https://www.amazon.it/dp/B0889WWYKK/?tag=tolees00-21) con 29.37 de descuento por 19.0 EUR (original: 26.9 EUR) en el siguiente enlace!
 
 [![Iris & Lilly Pigiama Donna  Rosso  Fairi](https://m.media-amazon.com/images/I/41Q8eCCb6gL._SL200_.jpg)](https://www.amazon.it/dp/B0889WWYKK/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0889WWYKK/?tag=tolees00-21)
 

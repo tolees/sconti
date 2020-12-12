@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.52 % en Columbia Evolution Valley  Giubbino impe'
 date: 2020-11-27 07:48:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z+aCtf8oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z+aCtf8oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z+aCtf8oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Columbia Evolution Valley  Giubbino impermeabile  Uomo  Nero  Black   XXL'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RC8DQJF/?tag=tolees00-21'
+descuento: '59.52'
+titulo: 'Columbia Evolution Valley  Giubbino impe'
 ---
 
 Tienes [Columbia Evolution Valley  Giubbino impermeabile  Uomo  Nero  Black   XXL](https://www.amazon.it/dp/B07RC8DQJF/?tag=tolees00-21) con un 59.52 % de descuento con precio de oferta de 60.72 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![Columbia Evolution Valley  Giubbino impe](https://m.media-amazon.com/images/I/41Z+aCtf8oL._SL200_.jpg)](https://www.amazon.it/dp/B07RC8DQJF/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RC8DQJF/?tag=tolees00-21)
 

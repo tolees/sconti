@@ -28,9 +28,9 @@ Está [Eastpak The One Borsa A Tracolla  21 Cm  2.5 L  Blu  Cloud Navy ](https:/
 
 Principales características:
 
-- Tracolla regolabile
-- Uno scomparto principale in cui riporre l’essenziale
 - Altezza: 33.5 cm, Larghezza: 23 cm, Profondità: 15 cm
+- Uno scomparto principale in cui riporre l’essenziale
+- Tracolla regolabile
 - Realizzato in misto nylon 60% e poliestere 40%
 
 [Ver la oferta!!](https://www.amazon.it/dp/B073X3C6KM/?tag=tolees00-21)

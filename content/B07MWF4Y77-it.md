@@ -3,6 +3,7 @@ layout: post
 title: 'EZVIZ C3A 1080p Telecamera Wi-Fi a Batte al 43.07 % de descuento'
 date: 2020-11-21 17:19:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-3Zuq0cyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-3Zuq0cyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-3Zuq0cyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 349.0 EUR
 inStock: true
 prodname: 'EZVIZ C3A 1080p Telecamera Wi-Fi a Batteria Senza Fili Kit da 2 con Base  Rilevamento di Movimento PIR  Audio 2 Vie  Visione Notturna  Impermeabile IP65  Compatibile con Alexa per Esterno ed Interno'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MWF4Y77/?tag=tolees00-21'
+descuento: '43.07'
+titulo: 'EZVIZ C3A 1080p Telecamera Wi-Fi a Batte'
 ---
 
 Está [EZVIZ C3A 1080p Telecamera Wi-Fi a Batteria Senza Fili Kit da 2 con Base  Rilevamento di Movimento PIR  Audio 2 Vie  Visione Notturna  Impermeabile IP65  Compatibile con Alexa per Esterno ed Interno](https://www.amazon.it/dp/B07MWF4Y77/?tag=tolees00-21) con 43.07 de descuento por 198.68 EUR (original: 349.0 EUR) en el siguiente enlace!
 
 [![EZVIZ C3A 1080p Telecamera Wi-Fi a Batte](https://m.media-amazon.com/images/I/31-3Zuq0cyL._SL200_.jpg)](https://www.amazon.it/dp/B07MWF4Y77/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MWF4Y77/?tag=tolees00-21)
 

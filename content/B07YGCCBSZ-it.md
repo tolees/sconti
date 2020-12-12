@@ -3,6 +3,7 @@ layout: post
 title: 'THE G-LAB Combo ARGON E Pacchetto di Gio al 40.01 % de descuento'
 date: 2020-12-01 08:04:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/512asIhZmjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512asIhZmjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512asIhZmjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'THE G-LAB Combo ARGON E Pacchetto di Gioco 4 in 1 - Tastiera Gamer ITALIANA Retroilluminata  Mouse Gamer 3200 DPI  Cuffia da Gioco  Tappetino Mouse Antiscivolo - PC Mac PS4 Xbox'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07YGCCBSZ/?tag=tolees00-21'
+descuento: '40.01'
+titulo: 'THE G-LAB Combo ARGON E Pacchetto di Gio'
 ---
 
 Está [THE G-LAB Combo ARGON E Pacchetto di Gioco 4 in 1 - Tastiera Gamer ITALIANA Retroilluminata  Mouse Gamer 3200 DPI  Cuffia da Gioco  Tappetino Mouse Antiscivolo - PC Mac PS4 Xbox](https://www.amazon.it/dp/B07YGCCBSZ/?tag=tolees00-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![THE G-LAB Combo ARGON E Pacchetto di Gio](https://m.media-amazon.com/images/I/512asIhZmjL._SL200_.jpg)](https://www.amazon.it/dp/B07YGCCBSZ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07YGCCBSZ/?tag=tolees00-21)
 

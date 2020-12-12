@@ -3,6 +3,7 @@ layout: post
 title: 'Ninja Air Fryer AF100EU 4 Funzioni di Co al 40.00 % de descuento'
 date: 2020-11-30 16:49:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IEQPsE64L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IEQPsE64L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IEQPsE64L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Ninja Air Fryer AF100EU 4 Funzioni di Cottura  Antiaderente 1500 Watt  3.8 Litro  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VWRDQKD/?tag=tolees00-21'
+descuento: '40.00'
+titulo: 'Ninja Air Fryer AF100EU 4 Funzioni di Co'
 ---
 
 Está [Ninja Air Fryer AF100EU 4 Funzioni di Cottura  Antiaderente 1500 Watt  3.8 Litro  Nero](https://www.amazon.it/dp/B07VWRDQKD/?tag=tolees00-21) con 40.00 de descuento por 89.99 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![Ninja Air Fryer AF100EU 4 Funzioni di Co](https://m.media-amazon.com/images/I/41IEQPsE64L._SL200_.jpg)](https://www.amazon.it/dp/B07VWRDQKD/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VWRDQKD/?tag=tolees00-21)
 

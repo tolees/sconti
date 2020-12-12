@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.86 % en Kellogg s Corn Flakes Originali  375g'
 date: 2020-12-02 07:30:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uXtQ-vOZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uXtQ-vOZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uXtQ-vOZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 1.89 EUR
 inStock: true
 prodname: 'Kellogg s Corn Flakes Originali  375g'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00BPANBTG/?tag=tolees00-21'
+descuento: '33.86'
+titulo: 'Kellogg s Corn Flakes Originali  375g'
 ---
 
 Tienes [Kellogg s Corn Flakes Originali  375g](https://www.amazon.it/dp/B00BPANBTG/?tag=tolees00-21) con un 33.86 % de descuento con precio de oferta de 1.25 EUR (original: 1.89 EUR) en el siguiente enlace!
 
 [![Kellogg s Corn Flakes Originali  375g](https://m.media-amazon.com/images/I/51uXtQ-vOZL._SL200_.jpg)](https://www.amazon.it/dp/B00BPANBTG/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00BPANBTG/?tag=tolees00-21)
 

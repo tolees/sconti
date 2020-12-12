@@ -3,6 +3,7 @@ layout: post
 title: 'Philips S6680/26 Rasoio Elettrico Uomo S al 58.33 % de descuento'
 date: 2020-12-01 09:32:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mUKCiXftL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mUKCiXftL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mUKCiXftL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 179.99 EUR
 inStock: true
 prodname: 'Philips S6680/26 Rasoio Elettrico Uomo S6000  Wet&Dry  Testina MultiFlex 5 direzioni  Lame MultiPrecision  Modalità Skin Guard  Rifinitore di Precisione e Stazione Pulizia SmartClean'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07NVD769N/?tag=tolees00-21'
+descuento: '58.33'
+titulo: 'Philips S6680/26 Rasoio Elettrico Uomo S'
 ---
 
 Ahora mismo tienes [Philips S6680/26 Rasoio Elettrico Uomo S6000  Wet&Dry  Testina MultiFlex 5 direzioni  Lame MultiPrecision  Modalità Skin Guard  Rifinitore di Precisione e Stazione Pulizia SmartClean](https://www.amazon.it/dp/B07NVD769N/?tag=tolees00-21) a 75.0 EUR (original: 179.99 EUR) (58.33 %  de descuento) en el siguiente enlace!
 
 [![Philips S6680/26 Rasoio Elettrico Uomo S](https://m.media-amazon.com/images/I/41mUKCiXftL._SL200_.jpg)](https://www.amazon.it/dp/B07NVD769N/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07NVD769N/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Lark & Ro Stretch Twill Gathered Sleeve  al 55.13 % de descuento'
 date: 2020-10-27 07:54:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31DscgRdCRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DscgRdCRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31DscgRdCRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.0 EUR
 inStock: true
 prodname: 'Lark & Ro Stretch Twill Gathered Sleeve Dress Dresses  Cruz V2 Fresh Foam  US 6  EU S - M '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07PN78CYX/?tag=tolees00-21'
+descuento: '55.13'
+titulo: 'Lark & Ro Stretch Twill Gathered Sleeve '
 ---
 
 Está [Lark & Ro Stretch Twill Gathered Sleeve Dress Dresses  Cruz V2 Fresh Foam  US 6  EU S - M ](https://www.amazon.it/dp/B07PN78CYX/?tag=tolees00-21) con 55.13 de descuento por 24.23 EUR (original: 54.0 EUR) en el siguiente enlace!
 
 [![Lark & Ro Stretch Twill Gathered Sleeve ](https://m.media-amazon.com/images/I/31DscgRdCRL._SL200_.jpg)](https://www.amazon.it/dp/B07PN78CYX/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07PN78CYX/?tag=tolees00-21)
 

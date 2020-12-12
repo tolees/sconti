@@ -3,6 +3,7 @@ layout: post
 title: 'Carapelli Oro Verde Olio Extravergine di al 37.90 % de descuento'
 date: 2020-12-03 09:24:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uolE22ZmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uolE22ZmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uolE22ZmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 8.84 EUR
 inStock: true
 prodname: 'Carapelli Oro Verde Olio Extravergine di Oliva 100% Italiano - 1L'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00GEER79I/?tag=tolees00-21'
+descuento: '37.90'
+titulo: 'Carapelli Oro Verde Olio Extravergine di'
 ---
 
 Está [Carapelli Oro Verde Olio Extravergine di Oliva 100% Italiano - 1L](https://www.amazon.it/dp/B00GEER79I/?tag=tolees00-21) con 37.90 de descuento por 5.49 EUR (original: 8.84 EUR) en el siguiente enlace!
 
 [![Carapelli Oro Verde Olio Extravergine di](https://m.media-amazon.com/images/I/41uolE22ZmL._SL200_.jpg)](https://www.amazon.it/dp/B00GEER79I/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00GEER79I/?tag=tolees00-21)
 

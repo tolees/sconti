@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Ashwood Park Leather  Stivali al 30.03 % de descuento'
 date: 2020-11-30 10:35:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MAUOQrlRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MAUOQrlRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MAUOQrlRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 104.98 EUR
 inStock: true
 prodname: 'Timberland Ashwood Park Leather  Stivali Chukka Uomo  Marrone  Dk Brown Full Grain   43 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VMWZGGQ/?tag=tolees00-21'
+descuento: '30.03'
+titulo: 'Timberland Ashwood Park Leather  Stivali'
 ---
 
 Está [Timberland Ashwood Park Leather  Stivali Chukka Uomo  Marrone  Dk Brown Full Grain   43 EU](https://www.amazon.it/dp/B07VMWZGGQ/?tag=tolees00-21) con 30.03 de descuento por 73.45 EUR (original: 104.98 EUR) en el siguiente enlace!
 
 [![Timberland Ashwood Park Leather  Stivali](https://m.media-amazon.com/images/I/41MAUOQrlRL._SL200_.jpg)](https://www.amazon.it/dp/B07VMWZGGQ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VMWZGGQ/?tag=tolees00-21)
 

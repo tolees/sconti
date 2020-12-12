@@ -3,6 +3,7 @@ layout: post
 title: 'Ferilinso Cover per Xiaomi Mi 10T 5G / 1 al 25.66 % de descuento'
 date: 2020-10-22 02:54:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lgoR+FwvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lgoR+FwvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lgoR+FwvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 7.91 EUR
 inStock: true
 prodname: 'Ferilinso Cover per Xiaomi Mi 10T 5G / 10T PRO 5G + 2 Pezzi Pellicola Protettiva Vetro Temperato  [Transparente TPU Custodia] [10X Anti-Yellowing] [Anti-Antiurto] [Anti-Scratch]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08DJ5W3BG/?tag=tolees00-21'
+descuento: '25.66'
+titulo: 'Ferilinso Cover per Xiaomi Mi 10T 5G / 1'
 ---
 
 Está [Ferilinso Cover per Xiaomi Mi 10T 5G / 10T PRO 5G + 2 Pezzi Pellicola Protettiva Vetro Temperato  [Transparente TPU Custodia] [10X Anti-Yellowing] [Anti-Antiurto] [Anti-Scratch]](https://www.amazon.it/dp/B08DJ5W3BG/?tag=tolees00-21) con 25.66 de descuento por 5.88 EUR (original: 7.91 EUR) en el siguiente enlace!
 
 [![Ferilinso Cover per Xiaomi Mi 10T 5G / 1](https://m.media-amazon.com/images/I/51lgoR+FwvL._SL200_.jpg)](https://www.amazon.it/dp/B08DJ5W3BG/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08DJ5W3BG/?tag=tolees00-21)
 

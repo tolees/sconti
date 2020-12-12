@@ -3,6 +3,7 @@ layout: post
 title: 'Darksiders Genesis - PlayStation 4 al 35.50 % de descuento'
 date: 2020-11-18 18:38:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Sc8NFfVuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Sc8NFfVuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Sc8NFfVuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Darksiders Genesis - PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07STVZH3L/?tag=tolees00-21'
+descuento: '35.50'
+titulo: 'Darksiders Genesis - PlayStation 4'
 ---
 
 Está [Darksiders Genesis - PlayStation 4](https://www.amazon.it/dp/B07STVZH3L/?tag=tolees00-21) con 35.50 de descuento por 19.99 EUR (original: 30.99 EUR) en el siguiente enlace!
 
 [![Darksiders Genesis - PlayStation 4](https://m.media-amazon.com/images/I/51Sc8NFfVuL._SL200_.jpg)](https://www.amazon.it/dp/B07STVZH3L/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07STVZH3L/?tag=tolees00-21)
 

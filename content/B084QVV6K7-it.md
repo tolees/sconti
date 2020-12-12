@@ -3,6 +3,7 @@ layout: post
 title: 'Birds Of Prey al 49.97 % de descuento'
 date: 2020-11-26 04:49:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ohu2BXg3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ohu2BXg3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ohu2BXg3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Birds Of Prey'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B084QVV6K7/?tag=tolees00-21'
+descuento: '49.97'
+titulo: 'Birds Of Prey'
 ---
 
 Está [Birds Of Prey](https://www.amazon.it/dp/B084QVV6K7/?tag=tolees00-21) con 49.97 de descuento por 8.5 EUR (original: 16.99 EUR) en el siguiente enlace!
 
 [![Birds Of Prey](https://m.media-amazon.com/images/I/51Ohu2BXg3L._SL200_.jpg)](https://www.amazon.it/dp/B084QVV6K7/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B084QVV6K7/?tag=tolees00-21)
 

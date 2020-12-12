@@ -3,6 +3,7 @@ layout: post
 title: 'Nest T3028IT - Termostato intelligente   al 30.51 % de descuento'
 date: 2020-10-14 14:07:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41V7UMBoXvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41V7UMBoXvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41V7UMBoXvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 251.06 EUR
 inStock: true
 prodname: 'Nest T3028IT - Termostato intelligente  in acciaio inox'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08971WYRJ/?tag=tolees00-21'
+descuento: '30.51'
+titulo: 'Nest T3028IT - Termostato intelligente  '
 ---
 
 Está [Nest T3028IT - Termostato intelligente  in acciaio inox](https://www.amazon.it/dp/B08971WYRJ/?tag=tolees00-21) con 30.51 de descuento por 174.45 EUR (original: 251.06 EUR) en el siguiente enlace!
 
 [![Nest T3028IT - Termostato intelligente  ](https://m.media-amazon.com/images/I/41V7UMBoXvL._SL200_.jpg)](https://www.amazon.it/dp/B08971WYRJ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08971WYRJ/?tag=tolees00-21)
 

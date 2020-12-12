@@ -3,6 +3,7 @@ layout: post
 title: 'Seagate Game Drive per Xbox  Unità Disco al 27.14 % de descuento'
 date: 2020-11-30 05:41:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JBZ6LExzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JBZ6LExzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JBZ6LExzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Seagate Game Drive per Xbox  Unità Disco Esterna Portatile da 4 TB  USB 3.0  Bianco  Progettata per Xbox One  Abbonamento di 1 Mese a Xbox Game Pass  STEA4000407 '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B071HXZX2C/?tag=tolees00-21'
+descuento: '27.14'
+titulo: 'Seagate Game Drive per Xbox  Unità Disco'
 ---
 
 Está [Seagate Game Drive per Xbox  Unità Disco Esterna Portatile da 4 TB  USB 3.0  Bianco  Progettata per Xbox One  Abbonamento di 1 Mese a Xbox Game Pass  STEA4000407 ](https://www.amazon.it/dp/B071HXZX2C/?tag=tolees00-21) con 27.14 de descuento por 101.99 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![Seagate Game Drive per Xbox  Unità Disco](https://m.media-amazon.com/images/I/31JBZ6LExzL._SL200_.jpg)](https://www.amazon.it/dp/B071HXZX2C/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B071HXZX2C/?tag=tolees00-21)
 

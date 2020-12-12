@@ -3,6 +3,7 @@ layout: post
 title: 'Tecmate Optimate Cable O-11  Connettore  al 26.53 % de descuento'
 date: 2020-12-04 15:15:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DSfsglHjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DSfsglHjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DSfsglHjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.04 EUR
 inStock: true
 prodname: 'Tecmate Optimate Cable O-11  Connettore per Batteria Resistente alle intemperie  per Uso intensivo e per i settori automobilistico e Marittimo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B008S9LEU0/?tag=tolees00-21'
+descuento: '26.53'
+titulo: 'Tecmate Optimate Cable O-11  Connettore '
 ---
 
 Ahora mismo tienes [Tecmate Optimate Cable O-11  Connettore per Batteria Resistente alle intemperie  per Uso intensivo e per i settori automobilistico e Marittimo](https://www.amazon.it/dp/B008S9LEU0/?tag=tolees00-21) a 11.05 EUR (original: 15.04 EUR) (26.53 %  de descuento) en el siguiente enlace!
 
 [![Tecmate Optimate Cable O-11  Connettore ](https://m.media-amazon.com/images/I/41DSfsglHjL._SL200_.jpg)](https://www.amazon.it/dp/B008S9LEU0/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B008S9LEU0/?tag=tolees00-21)
 

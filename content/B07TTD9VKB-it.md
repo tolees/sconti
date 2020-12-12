@@ -3,6 +3,7 @@ layout: post
 title: 'SUPERGA 2750-COT3STRAPU  Sneaker Unisex  al 59.76 % de descuento'
 date: 2020-11-01 13:53:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31oSLrQxOxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oSLrQxOxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31oSLrQxOxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.0 EUR
 inStock: true
 prodname: 'SUPERGA 2750-COT3STRAPU  Sneaker Unisex Adulto  Nero  Black 999   37.5 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TTD9VKB/?tag=tolees00-21'
+descuento: '59.76'
+titulo: 'SUPERGA 2750-COT3STRAPU  Sneaker Unisex '
 ---
 
 Está [SUPERGA 2750-COT3STRAPU  Sneaker Unisex Adulto  Nero  Black 999   37.5 EU](https://www.amazon.it/dp/B07TTD9VKB/?tag=tolees00-21) con 59.76 de descuento por 23.74 EUR (original: 59.0 EUR) en el siguiente enlace!
 
 [![SUPERGA 2750-COT3STRAPU  Sneaker Unisex ](https://m.media-amazon.com/images/I/31oSLrQxOxL._SL200_.jpg)](https://www.amazon.it/dp/B07TTD9VKB/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07TTD9VKB/?tag=tolees00-21)
 

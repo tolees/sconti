@@ -3,6 +3,7 @@ layout: post
 title: 'adidas MTS ATHL Tiro  Tuta Uomo  Legend  al 35.00 % de descuento'
 date: 2020-11-27 13:09:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31uGKg6fMCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uGKg6fMCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31uGKg6fMCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas MTS ATHL Tiro  Tuta Uomo  Legend Ink  L'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B089Z4GM5K/?tag=tolees00-21'
+descuento: '35.00'
+titulo: 'adidas MTS ATHL Tiro  Tuta Uomo  Legend '
 ---
 
 Ahora mismo tienes [adidas MTS ATHL Tiro  Tuta Uomo  Legend Ink  L](https://www.amazon.it/dp/B089Z4GM5K/?tag=tolees00-21) a 45.47 EUR (original: 69.95 EUR) (35.00 %  de descuento) en el siguiente enlace!
 
 [![adidas MTS ATHL Tiro  Tuta Uomo  Legend ](https://m.media-amazon.com/images/I/31uGKg6fMCL._SL200_.jpg)](https://www.amazon.it/dp/B089Z4GM5K/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B089Z4GM5K/?tag=tolees00-21)
 

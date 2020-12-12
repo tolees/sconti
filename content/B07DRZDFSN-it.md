@@ -3,6 +3,7 @@ layout: post
 title: 'Carhartt Gilliam Jacket Giacca  Shadow   al 42.62 % de descuento'
 date: 2020-11-22 07:34:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41msFHTbPXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41msFHTbPXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41msFHTbPXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 102.11 EUR
 inStock: true
 prodname: 'Carhartt Gilliam Jacket Giacca  Shadow  L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07DRZDFSN/?tag=tolees00-21'
+descuento: '42.62'
+titulo: 'Carhartt Gilliam Jacket Giacca  Shadow  '
 ---
 
 Está [Carhartt Gilliam Jacket Giacca  Shadow  L Uomo](https://www.amazon.it/dp/B07DRZDFSN/?tag=tolees00-21) con 42.62 de descuento por 58.59 EUR (original: 102.11 EUR) en el siguiente enlace!
 
 [![Carhartt Gilliam Jacket Giacca  Shadow  ](https://m.media-amazon.com/images/I/41msFHTbPXL._SL200_.jpg)](https://www.amazon.it/dp/B07DRZDFSN/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07DRZDFSN/?tag=tolees00-21)
 

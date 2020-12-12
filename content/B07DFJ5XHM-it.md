@@ -28,8 +28,8 @@ Tienes [THE LORD OF THE RINGS - POP FUNKO VINYL FIGURE 631 GALADRIEL 9CM](https:
 
 Características principales:
 
-- Il prodotto viene venduto nella window box originale
 - Le riproduzioni misurano circa 9 cm, ma esistono anche versioni over-sized
+- Il prodotto viene venduto nella window box originale
 - I Funko Pop sono riproduzioni stilizzate di personaggi iconici di film, serie televisive, serie animate, fumetti, videogiochi e tanto altro
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DFJ5XHM/?tag=tolees00-21)

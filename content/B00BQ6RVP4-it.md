@@ -3,6 +3,7 @@ layout: post
 title: 'M&M s 280042 Choco Confetti Colorati Cio al 29.01 % de descuento'
 date: 2020-10-26 09:03:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fxhX1JIPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fxhX1JIPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fxhX1JIPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 20.41 EUR
 inStock: true
 prodname: 'M&M s 280042 Choco Confetti Colorati Cioccolato al Latte  24 Bustine X45G  1800G '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00BQ6RVP4/?tag=tolees00-21'
+descuento: '29.01'
+titulo: 'M&M s 280042 Choco Confetti Colorati Cio'
 ---
 
 Está [M&M s 280042 Choco Confetti Colorati Cioccolato al Latte  24 Bustine X45G  1800G ](https://www.amazon.it/dp/B00BQ6RVP4/?tag=tolees00-21) con 29.01 de descuento por 14.49 EUR (original: 20.41 EUR) en el siguiente enlace!
 
 [![M&M s 280042 Choco Confetti Colorati Cio](https://m.media-amazon.com/images/I/41fxhX1JIPL._SL200_.jpg)](https://www.amazon.it/dp/B00BQ6RVP4/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00BQ6RVP4/?tag=tolees00-21)
 

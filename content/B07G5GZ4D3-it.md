@@ -3,6 +3,7 @@ layout: post
 title: 'FITTOO Pantaloni Capri Donna Leggins Spo al 61.13 % de descuento'
 date: 2020-10-13 10:25:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CntSIdtoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CntSIdtoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CntSIdtoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'FITTOO Pantaloni Capri Donna Leggins Sportivi con Tasche Leggings da Corsa Yoga Pants Vita Alta Corti Fitness Dance Fitness Gym'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07G5GZ4D3/?tag=tolees00-21'
+descuento: '61.13'
+titulo: 'FITTOO Pantaloni Capri Donna Leggins Spo'
 ---
 
 Está [FITTOO Pantaloni Capri Donna Leggins Sportivi con Tasche Leggings da Corsa Yoga Pants Vita Alta Corti Fitness Dance Fitness Gym](https://www.amazon.it/dp/B07G5GZ4D3/?tag=tolees00-21) con 61.13 de descuento por 13.99 EUR (original: 35.99 EUR) en el siguiente enlace!
 
 [![FITTOO Pantaloni Capri Donna Leggins Spo](https://m.media-amazon.com/images/I/41CntSIdtoL._SL200_.jpg)](https://www.amazon.it/dp/B07G5GZ4D3/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07G5GZ4D3/?tag=tolees00-21)
 

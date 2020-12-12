@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ess Crew TR Big Logo  Felpa Uomo  N al 55.53 % de descuento'
 date: 2020-11-23 07:18:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31S2mR1lFBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S2mR1lFBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31S2mR1lFBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Puma Ess Crew TR Big Logo  Felpa Uomo  Nero Black  M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07DKC9DJX/?tag=tolees00-21'
+descuento: '55.53'
+titulo: 'Puma Ess Crew TR Big Logo  Felpa Uomo  N'
 ---
 
 Está [Puma Ess Crew TR Big Logo  Felpa Uomo  Nero Black  M](https://www.amazon.it/dp/B07DKC9DJX/?tag=tolees00-21) con 55.53 de descuento por 19.99 EUR (original: 44.95 EUR) en el siguiente enlace!
 
 [![Puma Ess Crew TR Big Logo  Felpa Uomo  N](https://m.media-amazon.com/images/I/31S2mR1lFBL._SL200_.jpg)](https://www.amazon.it/dp/B07DKC9DJX/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07DKC9DJX/?tag=tolees00-21)
 

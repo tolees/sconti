@@ -3,6 +3,7 @@ layout: post
 title: 'Echo Show 8  Tessuto antracite + Philips al 53.32 % de descuento'
 date: 2020-11-22 13:53:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jZM40os+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jZM40os+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jZM40os+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.94 EUR
 inStock: true
 prodname: 'Echo Show 8  Tessuto antracite + Philips Hue White Lampadina Connessa  E27   compatibile con Alexa'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08N36CM5G/?tag=tolees00-21'
+descuento: '53.32'
+titulo: 'Echo Show 8  Tessuto antracite + Philips'
 ---
 
 Está [Echo Show 8  Tessuto antracite + Philips Hue White Lampadina Connessa  E27   compatibile con Alexa](https://www.amazon.it/dp/B08N36CM5G/?tag=tolees00-21) con 53.32 de descuento por 69.99 EUR (original: 149.94 EUR) en el siguiente enlace!
 
 [![Echo Show 8  Tessuto antracite + Philips](https://m.media-amazon.com/images/I/41jZM40os+L._SL200_.jpg)](https://www.amazon.it/dp/B08N36CM5G/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08N36CM5G/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Standard Crew Maglia di Tuta  Cyp al 54.42 % de descuento'
 date: 2020-11-25 23:45:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PzziDJgvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PzziDJgvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PzziDJgvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Levi s Standard Crew Maglia di Tuta  Cyprine Tofu  L Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZVQC3Q4/?tag=tolees00-21'
+descuento: '54.42'
+titulo: 'Levi s Standard Crew Maglia di Tuta  Cyp'
 ---
 
 Ahora mismo tienes [Levi s Standard Crew Maglia di Tuta  Cyprine Tofu  L Donna](https://www.amazon.it/dp/B07ZVQC3Q4/?tag=tolees00-21) a 29.63 EUR (original: 65.0 EUR) (54.42 %  de descuento) en el siguiente enlace!
 
 [![Levi s Standard Crew Maglia di Tuta  Cyp](https://m.media-amazon.com/images/I/41PzziDJgvL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVQC3Q4/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07ZVQC3Q4/?tag=tolees00-21)
 

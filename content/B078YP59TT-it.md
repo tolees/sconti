@@ -3,6 +3,7 @@ layout: post
 title: 'Echo Auto - Porta Alexa in auto con te al 41.67 % de descuento'
 date: 2020-11-27 17:03:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vXV+12kWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vXV+12kWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vXV+12kWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Echo Auto - Porta Alexa in auto con te'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B078YP59TT/?tag=tolees00-21'
+descuento: '41.67'
+titulo: 'Echo Auto - Porta Alexa in auto con te'
 ---
 
 Ahora mismo tienes [Echo Auto - Porta Alexa in auto con te](https://www.amazon.it/dp/B078YP59TT/?tag=tolees00-21) a 34.99 EUR (original: 59.99 EUR) (41.67 %  de descuento) en el siguiente enlace!
 
 [![Echo Auto - Porta Alexa in auto con te](https://m.media-amazon.com/images/I/31vXV+12kWL._SL200_.jpg)](https://www.amazon.it/dp/B078YP59TT/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B078YP59TT/?tag=tolees00-21)
 

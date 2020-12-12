@@ -3,6 +3,7 @@ layout: post
 title: 'Hisense TV 50A7500F 50 LED UHD 4K WGC Sm al 36.42 % de descuento'
 date: 2020-10-15 14:03:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Fh7vvQpGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fh7vvQpGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Fh7vvQpGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 629.0 EUR
 inStock: true
 prodname: 'Hisense TV 50A7500F 50 LED UHD 4K WGC Smart WiFi HDMI MHOTEL Alex IA BT'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08BJH16Q8/?tag=tolees00-21'
+descuento: '36.42'
+titulo: 'Hisense TV 50A7500F 50 LED UHD 4K WGC Sm'
 ---
 
 Ahora mismo tienes [Hisense TV 50A7500F 50 LED UHD 4K WGC Smart WiFi HDMI MHOTEL Alex IA BT](https://www.amazon.it/dp/B08BJH16Q8/?tag=tolees00-21) a 399.9 EUR (original: 629.0 EUR) (36.42 %  de descuento) en el siguiente enlace!
 
 [![Hisense TV 50A7500F 50 LED UHD 4K WGC Sm](https://m.media-amazon.com/images/I/41Fh7vvQpGL._SL200_.jpg)](https://www.amazon.it/dp/B08BJH16Q8/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B08BJH16Q8/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.40 % en Pyramid Crash Bandicoot - Llavero Aku Ak'
 date: 2020-11-27 09:50:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41c4w-5vqOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c4w-5vqOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41c4w-5vqOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 7.45 EUR
 inStock: true
 prodname: 'Pyramid Crash Bandicoot - Llavero Aku Aku [Edizione: Spagna]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07QYVV2GL/?tag=tolees00-21'
+descuento: '60.40'
+titulo: 'Pyramid Crash Bandicoot - Llavero Aku Ak'
 ---
 
 Tienes [Pyramid Crash Bandicoot - Llavero Aku Aku [Edizione: Spagna]](https://www.amazon.it/dp/B07QYVV2GL/?tag=tolees00-21) con un 60.40 % de descuento con precio de oferta de 2.95 EUR (original: 7.45 EUR) en el siguiente enlace!
 
 [![Pyramid Crash Bandicoot - Llavero Aku Ak](https://m.media-amazon.com/images/I/41c4w-5vqOL._SL200_.jpg)](https://www.amazon.it/dp/B07QYVV2GL/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07QYVV2GL/?tag=tolees00-21)
 

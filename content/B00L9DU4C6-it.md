@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Trase Tx  Sneaker Uomo  Nero  n al 38.54 % de descuento'
 date: 2020-12-03 09:08:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31say7L0ptL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31say7L0ptL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31say7L0ptL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'DC Shoes Trase Tx  Sneaker Uomo  Nero  nero / gomma   44 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00L9DU4C6/?tag=tolees00-21'
+descuento: '38.54'
+titulo: 'DC Shoes Trase Tx  Sneaker Uomo  Nero  n'
 ---
 
 Está [DC Shoes Trase Tx  Sneaker Uomo  Nero  nero / gomma   44 EU](https://www.amazon.it/dp/B00L9DU4C6/?tag=tolees00-21) con 38.54 de descuento por 39.95 EUR (original: 65.0 EUR) en el siguiente enlace!
 
 [![DC Shoes Trase Tx  Sneaker Uomo  Nero  n](https://m.media-amazon.com/images/I/31say7L0ptL._SL200_.jpg)](https://www.amazon.it/dp/B00L9DU4C6/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00L9DU4C6/?tag=tolees00-21)
 

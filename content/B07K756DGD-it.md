@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Original Trucker Giacca in Jeans  al 63.64 % de descuento'
 date: 2020-12-09 09:33:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/418t1We02HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418t1We02HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418t1We02HL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Levi s Original Trucker Giacca in Jeans  Soft As Butter Dark  L Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07K756DGD/?tag=tolees00-21'
+descuento: '63.64'
+titulo: 'Levi s Original Trucker Giacca in Jeans '
 ---
 
 Está [Levi s Original Trucker Giacca in Jeans  Soft As Butter Dark  L Donna](https://www.amazon.it/dp/B07K756DGD/?tag=tolees00-21) con 63.64 de descuento por 40.0 EUR (original: 110.0 EUR) en el siguiente enlace!
 
 [![Levi s Original Trucker Giacca in Jeans ](https://m.media-amazon.com/images/I/418t1We02HL._SL200_.jpg)](https://www.amazon.it/dp/B07K756DGD/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07K756DGD/?tag=tolees00-21)
 

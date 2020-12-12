@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung  Cover originale per Galaxy al 28.52 % de descuento'
 date: 2020-12-06 06:48:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/21GocjakNlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21GocjakNlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21GocjakNlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 31.8 EUR
 inStock: true
 prodname: 'Samsung  Cover originale per Galaxy'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B083KNXBK3/?tag=tolees00-21'
+descuento: '28.52'
+titulo: 'Samsung  Cover originale per Galaxy'
 ---
 
 Ahora mismo tienes [Samsung  Cover originale per Galaxy](https://www.amazon.it/dp/B083KNXBK3/?tag=tolees00-21) a 22.73 EUR (original: 31.8 EUR) (28.52 %  de descuento) en el siguiente enlace!
 
 [![Samsung  Cover originale per Galaxy](https://m.media-amazon.com/images/I/21GocjakNlL._SL200_.jpg)](https://www.amazon.it/dp/B083KNXBK3/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B083KNXBK3/?tag=tolees00-21)
 

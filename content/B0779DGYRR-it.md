@@ -3,6 +3,7 @@ layout: post
 title: 'adidas T-Shirt Alphaskin Sport  Maglia M al 38.03 % de descuento'
 date: 2020-11-23 13:30:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W4TsaEX5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W4TsaEX5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W4TsaEX5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas T-Shirt Alphaskin Sport  Maglia Manica Lunga Uomo  Blu  S'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0779DGYRR/?tag=tolees00-21'
+descuento: '38.03'
+titulo: 'adidas T-Shirt Alphaskin Sport  Maglia M'
 ---
 
 Ahora mismo tienes [adidas T-Shirt Alphaskin Sport  Maglia Manica Lunga Uomo  Blu  S](https://www.amazon.it/dp/B0779DGYRR/?tag=tolees00-21) a 21.66 EUR (original: 34.95 EUR) (38.03 %  de descuento) en el siguiente enlace!
 
 [![adidas T-Shirt Alphaskin Sport  Maglia M](https://m.media-amazon.com/images/I/41W4TsaEX5L._SL200_.jpg)](https://www.amazon.it/dp/B0779DGYRR/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B0779DGYRR/?tag=tolees00-21)
 

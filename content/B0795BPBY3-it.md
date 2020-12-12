@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.86 % en CMP Feel Warm Flat 10.000  Pantaloni Uom'
 date: 2020-11-30 12:58:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rty8cVViL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rty8cVViL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rty8cVViL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'CMP Feel Warm Flat 10.000  Pantaloni Uomo  Nero  52'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0795BPBY3/?tag=tolees00-21'
+descuento: '56.86'
+titulo: 'CMP Feel Warm Flat 10.000  Pantaloni Uom'
 ---
 
 Tienes [CMP Feel Warm Flat 10.000  Pantaloni Uomo  Nero  52](https://www.amazon.it/dp/B0795BPBY3/?tag=tolees00-21) con un 56.86 % de descuento con precio de oferta de 43.12 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![CMP Feel Warm Flat 10.000  Pantaloni Uom](https://m.media-amazon.com/images/I/31rty8cVViL._SL200_.jpg)](https://www.amazon.it/dp/B0795BPBY3/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0795BPBY3/?tag=tolees00-21)
 

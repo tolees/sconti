@@ -3,6 +3,7 @@ layout: post
 title: 'Manfrotto MFXLA82 Adattatore per Obietti al 30.01 % de descuento'
 date: 2020-11-05 11:20:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/311NYs5gLPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311NYs5gLPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311NYs5gLPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.96 EUR
 inStock: true
 prodname: 'Manfrotto MFXLA82 Adattatore per Obiettivo Xume da 82 mm  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01N2NPXU5/?tag=tolees00-21'
+descuento: '30.01'
+titulo: 'Manfrotto MFXLA82 Adattatore per Obietti'
 ---
 
 Ahora mismo tienes [Manfrotto MFXLA82 Adattatore per Obiettivo Xume da 82 mm  Nero](https://www.amazon.it/dp/B01N2NPXU5/?tag=tolees00-21) a 24.47 EUR (original: 34.96 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
 [![Manfrotto MFXLA82 Adattatore per Obietti](https://m.media-amazon.com/images/I/311NYs5gLPL._SL200_.jpg)](https://www.amazon.it/dp/B01N2NPXU5/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01N2NPXU5/?tag=tolees00-21)
 

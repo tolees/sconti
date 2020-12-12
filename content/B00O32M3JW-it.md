@@ -3,6 +3,7 @@ layout: post
 title: 'Kippen 10004BS Cassetta postale in accia al 30.23 % de descuento'
 date: 2020-12-07 18:23:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/413lBzSQ4RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413lBzSQ4RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413lBzSQ4RL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.5 EUR
 inStock: true
 prodname: 'Kippen 10004BS Cassetta postale in acciaio verniciato colore silver  300 x 210 x 70 mm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00O32M3JW/?tag=tolees00-21'
+descuento: '30.23'
+titulo: 'Kippen 10004BS Cassetta postale in accia'
 ---
 
 Ahora mismo tienes [Kippen 10004BS Cassetta postale in acciaio verniciato colore silver  300 x 210 x 70 mm](https://www.amazon.it/dp/B00O32M3JW/?tag=tolees00-21) a 15.0 EUR (original: 21.5 EUR) (30.23 %  de descuento) en el siguiente enlace!
 
 [![Kippen 10004BS Cassetta postale in accia](https://m.media-amazon.com/images/I/413lBzSQ4RL._SL200_.jpg)](https://www.amazon.it/dp/B00O32M3JW/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B00O32M3JW/?tag=tolees00-21)
 

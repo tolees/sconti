@@ -3,6 +3,7 @@ layout: post
 title: 'Elizabeth Arden Green Tea Honey Drops Cr al 42.35 % de descuento'
 date: 2020-12-05 11:03:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/413mnF+KCsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413mnF+KCsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413mnF+KCsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 26.0 EUR
 inStock: true
 prodname: 'Elizabeth Arden Green Tea Honey Drops Crema Corpo 500ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B002SSDHUW/?tag=tolees00-21'
+descuento: '42.35'
+titulo: 'Elizabeth Arden Green Tea Honey Drops Cr'
 ---
 
 Ahora mismo tienes [Elizabeth Arden Green Tea Honey Drops Crema Corpo 500ml](https://www.amazon.it/dp/B002SSDHUW/?tag=tolees00-21) a 14.99 EUR (original: 26.0 EUR) (42.35 %  de descuento) en el siguiente enlace!
 
 [![Elizabeth Arden Green Tea Honey Drops Cr](https://m.media-amazon.com/images/I/413mnF+KCsL._SL200_.jpg)](https://www.amazon.it/dp/B002SSDHUW/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B002SSDHUW/?tag=tolees00-21)
 

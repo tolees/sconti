@@ -3,6 +3,7 @@ layout: post
 title: 'NAPAPIJRI Avalon Wint Giacca  Blu  Blu M al 38.26 % de descuento'
 date: 2020-10-17 08:25:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 118.02 EUR
 inStock: true
 prodname: 'NAPAPIJRI Avalon Wint Giacca  Blu  Blu Marine 176   Medium Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MVBTSHG/?tag=tolees00-21'
+descuento: '38.26'
+titulo: 'NAPAPIJRI Avalon Wint Giacca  Blu  Blu M'
 ---
 
 Está [NAPAPIJRI Avalon Wint Giacca  Blu  Blu Marine 176   Medium Uomo](https://www.amazon.it/dp/B07MVBTSHG/?tag=tolees00-21) con 38.26 de descuento por 72.86 EUR (original: 118.02 EUR) en el siguiente enlace!
 
 [![NAPAPIJRI Avalon Wint Giacca  Blu  Blu M](https://m.media-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg)](https://www.amazon.it/dp/B07MVBTSHG/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MVBTSHG/?tag=tolees00-21)
 

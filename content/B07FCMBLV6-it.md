@@ -3,6 +3,7 @@ layout: post
 title: 'Sandisk Extreme Scheda di Memoria Micros al 29.98 % de descuento'
 date: 2020-10-13 02:26:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41q4Op-xPrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q4Op-xPrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41q4Op-xPrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.98 EUR
 inStock: true
 prodname: 'Sandisk Extreme Scheda di Memoria Microsdxc da 64 GB e Adattatore SD con App Performance A2 e Rescue Pro Deluxe  Fino a 160 MB/Sec  Classe 10  Uhs-I  U3  V30'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07FCMBLV6/?tag=tolees00-21'
+descuento: '29.98'
+titulo: 'Sandisk Extreme Scheda di Memoria Micros'
 ---
 
 Está [Sandisk Extreme Scheda di Memoria Microsdxc da 64 GB e Adattatore SD con App Performance A2 e Rescue Pro Deluxe  Fino a 160 MB/Sec  Classe 10  Uhs-I  U3  V30](https://www.amazon.it/dp/B07FCMBLV6/?tag=tolees00-21) con 29.98 de descuento por 13.99 EUR (original: 19.98 EUR) en el siguiente enlace!
 
 [![Sandisk Extreme Scheda di Memoria Micros](https://m.media-amazon.com/images/I/41q4Op-xPrL._SL200_.jpg)](https://www.amazon.it/dp/B07FCMBLV6/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07FCMBLV6/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.66 % en The Sims 4 Cani & Gatti - Espansione - P'
 date: 2020-10-27 07:18:05
 thumbnailImage: 'None._SL200_'
+image: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 26.89 EUR
 inStock: true
 prodname: 'The Sims 4 Cani & Gatti - Espansione - PC [Codice digitale incluso nella confezione - CD non incluso]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07677LDMB/?tag=tolees00-21'
+descuento: '25.66'
+titulo: 'The Sims 4 Cani & Gatti - Espansione - P'
 ---
 
 Tienes [The Sims 4 Cani & Gatti - Espansione - PC [Codice digitale incluso nella confezione - CD non incluso]](https://www.amazon.it/dp/B07677LDMB/?tag=tolees00-21) con un 25.66 % de descuento con precio de oferta de 19.99 EUR (original: 26.89 EUR) en el siguiente enlace!
 
 [![The Sims 4 Cani & Gatti - Espansione - P](None._SL200_)](https://www.amazon.it/dp/B07677LDMB/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07677LDMB/?tag=tolees00-21)
 

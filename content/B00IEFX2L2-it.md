@@ -3,6 +3,7 @@ layout: post
 title: '8 1/2 al 25.89 % de descuento'
 date: 2020-12-05 18:42:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xjMd+UGZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xjMd+UGZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xjMd+UGZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.39 EUR
 inStock: true
 prodname: '8 1/2'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21'
+descuento: '25.89'
+titulo: '8 1/2'
 ---
 
 Está [8 1/2](https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21) con 25.89 de descuento por 7.7 EUR (original: 10.39 EUR) en el siguiente enlace!
 
 [![8 1/2](https://m.media-amazon.com/images/I/51xjMd+UGZL._SL200_.jpg)](https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00IEFX2L2/?tag=tolees00-21)
 

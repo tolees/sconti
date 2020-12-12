@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.59 % en Lenovo Yoga S940 Notebook  Display 14" F'
 date: 2020-12-06 06:49:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/412oZBBrIQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412oZBBrIQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412oZBBrIQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 1499.99 EUR
 inStock: true
 prodname: 'Lenovo Yoga S940 Notebook  Display 14" Full HD IPS  Processore Intel Core I5-1035G4 512GB SSD  RAM 8GB Windows 10  Iron Grey'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07Y3TLK59/?tag=tolees00-21'
+descuento: '33.59'
+titulo: 'Lenovo Yoga S940 Notebook  Display 14" F'
 ---
 
 Tienes [Lenovo Yoga S940 Notebook  Display 14" Full HD IPS  Processore Intel Core I5-1035G4 512GB SSD  RAM 8GB Windows 10  Iron Grey](https://www.amazon.it/dp/B07Y3TLK59/?tag=tolees00-21) con un 33.59 % de descuento con precio de oferta de 996.12 EUR (original: 1499.99 EUR) en el siguiente enlace!
 
 [![Lenovo Yoga S940 Notebook  Display 14" F](https://m.media-amazon.com/images/I/412oZBBrIQL._SL200_.jpg)](https://www.amazon.it/dp/B07Y3TLK59/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07Y3TLK59/?tag=tolees00-21)
 

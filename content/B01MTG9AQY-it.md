@@ -28,9 +28,9 @@ Está [Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904  
 
 Principales características:
 
-- Signature tape on waistband
 - Tommy Hilfiger repeat logo on waistband
 - Stretch cotton
+- Signature tape on waistband
 - Three pack
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MTG9AQY/?tag=tolees00-21)

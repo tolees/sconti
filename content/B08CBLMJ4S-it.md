@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.92 % en adidas Hoops Mid 2.0 K  Scarpe da Basket'
 date: 2020-12-01 08:45:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a7sMC2DsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a7sMC2DsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a7sMC2DsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 31.46 EUR
 inStock: true
 prodname: 'adidas Hoops Mid 2.0 K  Scarpe da Basket  Ftwr White/Ftwr White/Signal Pink  33 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08CBLMJ4S/?tag=tolees00-21'
+descuento: '26.92'
+titulo: 'adidas Hoops Mid 2.0 K  Scarpe da Basket'
 ---
 
 Tienes [adidas Hoops Mid 2.0 K  Scarpe da Basket  Ftwr White/Ftwr White/Signal Pink  33 EU](https://www.amazon.it/dp/B08CBLMJ4S/?tag=tolees00-21) con un 26.92 % de descuento con precio de oferta de 22.99 EUR (original: 31.46 EUR) en el siguiente enlace!
 
 [![adidas Hoops Mid 2.0 K  Scarpe da Basket](https://m.media-amazon.com/images/I/41a7sMC2DsL._SL200_.jpg)](https://www.amazon.it/dp/B08CBLMJ4S/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08CBLMJ4S/?tag=tolees00-21)
 

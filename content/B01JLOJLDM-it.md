@@ -3,6 +3,7 @@ layout: post
 title: 'Scuderia Ferrari Orologio Analogico Quar al 44.62 % de descuento'
 date: 2020-11-29 20:25:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LrHnuvCkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LrHnuvCkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LrHnuvCkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 195.0 EUR
 inStock: true
 prodname: 'Scuderia Ferrari Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox 830357'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01JLOJLDM/?tag=tolees00-21'
+descuento: '44.62'
+titulo: 'Scuderia Ferrari Orologio Analogico Quar'
 ---
 
 Está [Scuderia Ferrari Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox 830357](https://www.amazon.it/dp/B01JLOJLDM/?tag=tolees00-21) con 44.62 de descuento por 108.0 EUR (original: 195.0 EUR) en el siguiente enlace!
 
 [![Scuderia Ferrari Orologio Analogico Quar](https://m.media-amazon.com/images/I/41LrHnuvCkL._SL200_.jpg)](https://www.amazon.it/dp/B01JLOJLDM/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01JLOJLDM/?tag=tolees00-21)
 

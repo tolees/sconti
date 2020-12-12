@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 574v2 Core  Scarpa da Tennis al 50.01 % de descuento'
 date: 2020-10-15 06:43:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uy8MJJsLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uy8MJJsLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uy8MJJsLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'New Balance 574v2 Core  Scarpa da Tennis Donna  Nero  Black   44 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06XWSSX7F/?tag=tolees00-21'
+descuento: '50.01'
+titulo: 'New Balance 574v2 Core  Scarpa da Tennis'
 ---
 
 Está [New Balance 574v2 Core  Scarpa da Tennis Donna  Nero  Black   44 EU](https://www.amazon.it/dp/B06XWSSX7F/?tag=tolees00-21) con 50.01 de descuento por 44.99 EUR (original: 90.0 EUR) en el siguiente enlace!
 
 [![New Balance 574v2 Core  Scarpa da Tennis](https://m.media-amazon.com/images/I/41uy8MJJsLL._SL200_.jpg)](https://www.amazon.it/dp/B06XWSSX7F/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B06XWSSX7F/?tag=tolees00-21)
 

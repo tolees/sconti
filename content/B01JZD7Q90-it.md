@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Trunk Co/El Boxer  Nero  Black 001  al 26.13 % de descuento'
 date: 2020-10-26 04:06:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31NA3JvkNiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NA3JvkNiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31NA3JvkNiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 41.95 EUR
 inStock: true
 prodname: 'BOSS Trunk Co/El Boxer  Nero  Black 001   Medium  Pacco da 3  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01JZD7Q90/?tag=tolees00-21'
+descuento: '26.13'
+titulo: 'BOSS Trunk Co/El Boxer  Nero  Black 001 '
 ---
 
 Ahora mismo tienes [BOSS Trunk Co/El Boxer  Nero  Black 001   Medium  Pacco da 3  Uomo](https://www.amazon.it/dp/B01JZD7Q90/?tag=tolees00-21) a 30.99 EUR (original: 41.95 EUR) (26.13 %  de descuento) en el siguiente enlace!
 
 [![BOSS Trunk Co/El Boxer  Nero  Black 001 ](https://m.media-amazon.com/images/I/31NA3JvkNiL._SL200_.jpg)](https://www.amazon.it/dp/B01JZD7Q90/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01JZD7Q90/?tag=tolees00-21)
 

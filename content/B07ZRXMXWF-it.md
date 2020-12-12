@@ -3,6 +3,7 @@ layout: post
 title: 'Riso Scotti - Risotto alla Milanese - Ri al 48.43 % de descuento'
 date: 2020-11-29 07:49:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RSR0+tCRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RSR0+tCRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RSR0+tCRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 1.59 EUR
 inStock: true
 prodname: 'Riso Scotti - Risotto alla Milanese - Riso Carnaroli con Zafferano Ambrato Senza Glutine - 210 gr'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZRXMXWF/?tag=tolees00-21'
+descuento: '48.43'
+titulo: 'Riso Scotti - Risotto alla Milanese - Ri'
 ---
 
 Está [Riso Scotti - Risotto alla Milanese - Riso Carnaroli con Zafferano Ambrato Senza Glutine - 210 gr](https://www.amazon.it/dp/B07ZRXMXWF/?tag=tolees00-21) con 48.43 de descuento por 0.82 EUR (original: 1.59 EUR) en el siguiente enlace!
 
 [![Riso Scotti - Risotto alla Milanese - Ri](https://m.media-amazon.com/images/I/51RSR0+tCRL._SL200_.jpg)](https://www.amazon.it/dp/B07ZRXMXWF/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZRXMXWF/?tag=tolees00-21)
 

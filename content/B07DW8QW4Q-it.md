@@ -3,6 +3,7 @@ layout: post
 title: 'SALEWA MS Lite Train Knitted  Scarpe da  al 54.36 % de descuento'
 date: 2020-11-24 20:04:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/413EDCWaKFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413EDCWaKFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413EDCWaKFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 130.0 EUR
 inStock: true
 prodname: 'SALEWA MS Lite Train Knitted  Scarpe da Trail Running Uomo  Blu  Ombre Blue/Tender Shot 3865   45 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07DW8QW4Q/?tag=tolees00-21'
+descuento: '54.36'
+titulo: 'SALEWA MS Lite Train Knitted  Scarpe da '
 ---
 
 Está [SALEWA MS Lite Train Knitted  Scarpe da Trail Running Uomo  Blu  Ombre Blue/Tender Shot 3865   45 EU](https://www.amazon.it/dp/B07DW8QW4Q/?tag=tolees00-21) con 54.36 de descuento por 59.33 EUR (original: 130.0 EUR) en el siguiente enlace!
 
 [![SALEWA MS Lite Train Knitted  Scarpe da ](https://m.media-amazon.com/images/I/413EDCWaKFL._SL200_.jpg)](https://www.amazon.it/dp/B07DW8QW4Q/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07DW8QW4Q/?tag=tolees00-21)
 

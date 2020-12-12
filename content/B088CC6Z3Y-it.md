@@ -3,6 +3,7 @@ layout: post
 title: 'Xiaomi Redmi Note 9 PRO -Smartphone 6.67 al 25.69 % de descuento'
 date: 2020-11-20 12:32:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ju2U1cUYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ju2U1cUYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ju2U1cUYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 269.0 EUR
 inStock: true
 prodname: 'Xiaomi Redmi Note 9 PRO -Smartphone 6.67" FHD+ DotDisplay  6GB RAM  64GB ROM  Quad Camera   Alexa Hands-Free  5020mah Batteria  NFC  2020 [Versione Italiana]  Verde  Tropical Green '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B088CC6Z3Y/?tag=tolees00-21'
+descuento: '25.69'
+titulo: 'Xiaomi Redmi Note 9 PRO -Smartphone 6.67'
 ---
 
 Está [Xiaomi Redmi Note 9 PRO -Smartphone 6.67" FHD+ DotDisplay  6GB RAM  64GB ROM  Quad Camera   Alexa Hands-Free  5020mah Batteria  NFC  2020 [Versione Italiana]  Verde  Tropical Green ](https://www.amazon.it/dp/B088CC6Z3Y/?tag=tolees00-21) con 25.69 de descuento por 199.9 EUR (original: 269.0 EUR) en el siguiente enlace!
 
 [![Xiaomi Redmi Note 9 PRO -Smartphone 6.67](https://m.media-amazon.com/images/I/51ju2U1cUYL._SL200_.jpg)](https://www.amazon.it/dp/B088CC6Z3Y/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B088CC6Z3Y/?tag=tolees00-21)
 

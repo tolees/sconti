@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak Orbit Mini Zaino  34 cm  10 L  N al 30.00 % de descuento'
 date: 2020-11-17 08:31:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/318ZJbXR+7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318ZJbXR+7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318ZJbXR+7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 22.5 EUR
 inStock: true
 prodname: 'Eastpak Orbit Mini Zaino  34 cm  10 L  Nero  Black '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B000CRH95U/?tag=tolees00-21'
+descuento: '30.00'
+titulo: 'Eastpak Orbit Mini Zaino  34 cm  10 L  N'
 ---
 
 Ahora mismo tienes [Eastpak Orbit Mini Zaino  34 cm  10 L  Nero  Black ](https://www.amazon.it/dp/B000CRH95U/?tag=tolees00-21) a 15.75 EUR (original: 22.5 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
 [![Eastpak Orbit Mini Zaino  34 cm  10 L  N](https://m.media-amazon.com/images/I/318ZJbXR+7L._SL200_.jpg)](https://www.amazon.it/dp/B000CRH95U/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B000CRH95U/?tag=tolees00-21)
 

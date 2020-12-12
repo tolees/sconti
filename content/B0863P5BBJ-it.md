@@ -3,6 +3,7 @@ layout: post
 title: 'Proiettore FANGOR Mini Proiettore Portat al 29.00 % de descuento'
 date: 2020-11-12 10:48:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pDqoAd64L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pDqoAd64L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pDqoAd64L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Proiettore FANGOR Mini Proiettore Portatile 5500 Lumen Mini Videoproiettore Portatile Supporto 1080P Bluetooth Proiettore Casa Compatibile con TV Stick  PS4  HDMI'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0863P5BBJ/?tag=tolees00-21'
+descuento: '29.00'
+titulo: 'Proiettore FANGOR Mini Proiettore Portat'
 ---
 
 Está [Proiettore FANGOR Mini Proiettore Portatile 5500 Lumen Mini Videoproiettore Portatile Supporto 1080P Bluetooth Proiettore Casa Compatibile con TV Stick  PS4  HDMI](https://www.amazon.it/dp/B0863P5BBJ/?tag=tolees00-21) con 29.00 de descuento por 49.69 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Proiettore FANGOR Mini Proiettore Portat](https://m.media-amazon.com/images/I/41pDqoAd64L._SL200_.jpg)](https://www.amazon.it/dp/B0863P5BBJ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0863P5BBJ/?tag=tolees00-21)
 

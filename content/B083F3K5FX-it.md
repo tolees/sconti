@@ -3,6 +3,7 @@ layout: post
 title: 'Hisense RT267D4AB1 Frigorifero Doppia Po al 31.11 % de descuento'
 date: 2020-11-09 12:32:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31F35+HuvOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31F35+HuvOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31F35+HuvOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 275.78 EUR
 inStock: true
 prodname: 'Hisense RT267D4AB1 Frigorifero Doppia Porta  120 Litri  38 Decibel  Nero  54.2 x 55.0 x 143.4 cm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B083F3K5FX/?tag=tolees00-21'
+descuento: '31.11'
+titulo: 'Hisense RT267D4AB1 Frigorifero Doppia Po'
 ---
 
 Está [Hisense RT267D4AB1 Frigorifero Doppia Porta  120 Litri  38 Decibel  Nero  54.2 x 55.0 x 143.4 cm](https://www.amazon.it/dp/B083F3K5FX/?tag=tolees00-21) con 31.11 de descuento por 189.99 EUR (original: 275.78 EUR) en el siguiente enlace!
 
 [![Hisense RT267D4AB1 Frigorifero Doppia Po](https://m.media-amazon.com/images/I/31F35+HuvOL._SL200_.jpg)](https://www.amazon.it/dp/B083F3K5FX/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B083F3K5FX/?tag=tolees00-21)
 

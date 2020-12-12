@@ -3,6 +3,7 @@ layout: post
 title: 'Hangsun Termoforo Schiena Elettrico TP16 al 36.12 % de descuento'
 date: 2020-10-15 09:56:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zGSh8UIJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zGSh8UIJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zGSh8UIJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Hangsun Termoforo Schiena Elettrico TP160 Termoforo Multifunzione con 6 livelli di temperatura  100 Watt 40 * 30 cm  Lavabile'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B071F8MD4C/?tag=tolees00-21'
+descuento: '36.12'
+titulo: 'Hangsun Termoforo Schiena Elettrico TP16'
 ---
 
 Ahora mismo tienes [Hangsun Termoforo Schiena Elettrico TP160 Termoforo Multifunzione con 6 livelli di temperatura  100 Watt 40 * 30 cm  Lavabile](https://www.amazon.it/dp/B071F8MD4C/?tag=tolees00-21) a 22.99 EUR (original: 35.99 EUR) (36.12 %  de descuento) en el siguiente enlace!
 
 [![Hangsun Termoforo Schiena Elettrico TP16](https://m.media-amazon.com/images/I/41zGSh8UIJL._SL200_.jpg)](https://www.amazon.it/dp/B071F8MD4C/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B071F8MD4C/?tag=tolees00-21)
 

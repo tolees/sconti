@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.73 % en adidas Giacca Regista 18'
 date: 2020-12-11 11:31:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DotjA7yoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DotjA7yoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DotjA7yoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'adidas Giacca Regista 18'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B076HR8ZFD/?tag=tolees00-21'
+descuento: '30.73'
+titulo: 'adidas Giacca Regista 18'
 ---
 
 Tienes [adidas Giacca Regista 18](https://www.amazon.it/dp/B076HR8ZFD/?tag=tolees00-21) con un 30.73 % de descuento con precio de oferta de 24.21 EUR (original: 34.95 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Tienes [adidas Giacca Regista 18](https://www.amazon.it/dp/B076HR8ZFD/?tag=tolee
 
 Características principales:
 
-- Tessuto aeroready
-- Giacca sportiva da uomo
-- Allontana lumidità dalla pelle
 - 3 strisce lungo i fianchi
+- Giacca sportiva da uomo
+- Tessuto aeroready
 - Dotata di zip integrale e collo alla coreana
+- Allontana lumidità dalla pelle
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B076HR8ZFD/?tag=tolees00-21)
 

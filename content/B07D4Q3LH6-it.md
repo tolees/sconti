@@ -3,6 +3,7 @@ layout: post
 title: 'Marchio Amazon - find. Cable Knitted  Fe al 64.67 % de descuento'
 date: 2020-10-16 15:00:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ifNgYhj1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ifNgYhj1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ifNgYhj1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.93 EUR
 inStock: true
 prodname: 'Marchio Amazon - find. Cable Knitted  Felpa Uomo  Avorio  Ecru   M  Label: M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07D4Q3LH6/?tag=tolees00-21'
+descuento: '64.67'
+titulo: 'Marchio Amazon - find. Cable Knitted  Fe'
 ---
 
 Ahora mismo tienes [Marchio Amazon - find. Cable Knitted  Felpa Uomo  Avorio  Ecru   M  Label: M](https://www.amazon.it/dp/B07D4Q3LH6/?tag=tolees00-21) a 9.16 EUR (original: 25.93 EUR) (64.67 %  de descuento) en el siguiente enlace!
 
 [![Marchio Amazon - find. Cable Knitted  Fe](https://m.media-amazon.com/images/I/41ifNgYhj1L._SL200_.jpg)](https://www.amazon.it/dp/B07D4Q3LH6/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07D4Q3LH6/?tag=tolees00-21)
 

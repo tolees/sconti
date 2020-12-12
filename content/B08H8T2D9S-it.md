@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.78 % en Motorola moto g9 play  tripla fotocamera'
 date: 2020-11-28 13:34:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lbQRAzwNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lbQRAzwNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lbQRAzwNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 229.99 EUR
 inStock: true
 prodname: 'Motorola moto g9 play  tripla fotocamera 48MP  batteria 5000 mAh  display Max Vision 6.5"  Octa-core Qualcomm Snapdragon 662  Dual SIM  4/64GB  Android 10   Electric Blue'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08H8T2D9S/?tag=tolees00-21'
+descuento: '34.78'
+titulo: 'Motorola moto g9 play  tripla fotocamera'
 ---
 
 Tienes [Motorola moto g9 play  tripla fotocamera 48MP  batteria 5000 mAh  display Max Vision 6.5"  Octa-core Qualcomm Snapdragon 662  Dual SIM  4/64GB  Android 10   Electric Blue](https://www.amazon.it/dp/B08H8T2D9S/?tag=tolees00-21) con un 34.78 % de descuento con precio de oferta de 149.99 EUR (original: 229.99 EUR) en el siguiente enlace!
 
 [![Motorola moto g9 play  tripla fotocamera](https://m.media-amazon.com/images/I/41lbQRAzwNL._SL200_.jpg)](https://www.amazon.it/dp/B08H8T2D9S/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08H8T2D9S/?tag=tolees00-21)
 

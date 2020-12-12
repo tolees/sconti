@@ -3,6 +3,7 @@ layout: post
 title: 'Catena Luminosa  22M 200 LED Luci Solari al 28.27 % de descuento'
 date: 2020-12-05 17:24:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/61o7f4Ph1pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61o7f4Ph1pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61o7f4Ph1pL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Catena Luminosa  22M 200 LED Luci Solari Natalizie  Luci Stringa Solare Interni ed Esterni Illuminazione per Decorazione Natale Giardino Patio Bianco Caldo [Classe di efficienza energetica A+++]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07R1WYYL6/?tag=tolees00-21'
+descuento: '28.27'
+titulo: 'Catena Luminosa  22M 200 LED Luci Solari'
 ---
 
 Ahora mismo tienes [Catena Luminosa  22M 200 LED Luci Solari Natalizie  Luci Stringa Solare Interni ed Esterni Illuminazione per Decorazione Natale Giardino Patio Bianco Caldo [Classe di efficienza energetica A+++]](https://www.amazon.it/dp/B07R1WYYL6/?tag=tolees00-21) a 11.47 EUR (original: 15.99 EUR) (28.27 %  de descuento) en el siguiente enlace!
 
 [![Catena Luminosa  22M 200 LED Luci Solari](https://m.media-amazon.com/images/I/61o7f4Ph1pL._SL200_.jpg)](https://www.amazon.it/dp/B07R1WYYL6/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07R1WYYL6/?tag=tolees00-21)
 

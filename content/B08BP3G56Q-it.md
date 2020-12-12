@@ -3,6 +3,7 @@ layout: post
 title: 'LG Velvet smartphone 5G con vetro ricurv al 33.85 % de descuento'
 date: 2020-11-19 11:52:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zp+j9ACgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zp+j9ACgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zp+j9ACgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 649.9 EUR
 inStock: true
 prodname: 'LG Velvet smartphone 5G con vetro ricurvo  Display OLED 6.8    Sensore 48MP  Batteria 4300mAh con ricarica Wireless  IP68  128GB/6GB  Android 10  Aurora White [Italia]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08BP3G56Q/?tag=tolees00-21'
+descuento: '33.85'
+titulo: 'LG Velvet smartphone 5G con vetro ricurv'
 ---
 
 Está [LG Velvet smartphone 5G con vetro ricurvo  Display OLED 6.8    Sensore 48MP  Batteria 4300mAh con ricarica Wireless  IP68  128GB/6GB  Android 10  Aurora White [Italia]](https://www.amazon.it/dp/B08BP3G56Q/?tag=tolees00-21) con 33.85 de descuento por 429.9 EUR (original: 649.9 EUR) en el siguiente enlace!
 
 [![LG Velvet smartphone 5G con vetro ricurv](https://m.media-amazon.com/images/I/41zp+j9ACgL._SL200_.jpg)](https://www.amazon.it/dp/B08BP3G56Q/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08BP3G56Q/?tag=tolees00-21)
 

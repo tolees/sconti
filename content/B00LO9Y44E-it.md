@@ -3,6 +3,7 @@ layout: post
 title: 'Philips S9711/32 Serie 9000 Wet & Dry Ra al 65.56 % de descuento'
 date: 2020-11-26 07:37:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RD31KSO0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RD31KSO0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RD31KSO0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 449.99 EUR
 inStock: true
 prodname: 'Philips S9711/32 Serie 9000 Wet & Dry Rasoio Elettrico con Lame di Precisione  Regolabarba e Sistema di Pulizia SmartClean  Nero/Cromo spazzolato'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00LO9Y44E/?tag=tolees00-21'
+descuento: '65.56'
+titulo: 'Philips S9711/32 Serie 9000 Wet & Dry Ra'
 ---
 
 Ahora mismo tienes [Philips S9711/32 Serie 9000 Wet & Dry Rasoio Elettrico con Lame di Precisione  Regolabarba e Sistema di Pulizia SmartClean  Nero/Cromo spazzolato](https://www.amazon.it/dp/B00LO9Y44E/?tag=tolees00-21) a 154.99 EUR (original: 449.99 EUR) (65.56 %  de descuento) en el siguiente enlace!
 
 [![Philips S9711/32 Serie 9000 Wet & Dry Ra](https://m.media-amazon.com/images/I/41RD31KSO0L._SL200_.jpg)](https://www.amazon.it/dp/B00LO9Y44E/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B00LO9Y44E/?tag=tolees00-21)
 

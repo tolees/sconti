@@ -3,6 +3,7 @@ layout: post
 title: 'FITNESS Delice Cioccolato e Nocciola Bar al 28.59 % de descuento'
 date: 2020-11-27 10:04:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KhOebfGKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KhOebfGKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KhOebfGKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'FITNESS Delice Cioccolato e Nocciola Barretta di Cereali Cioccolato al Latte Gusto Nocciola  24 Pezzi'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01FMJ0S7S/?tag=tolees00-21'
+descuento: '28.59'
+titulo: 'FITNESS Delice Cioccolato e Nocciola Bar'
 ---
 
 Ahora mismo tienes [FITNESS Delice Cioccolato e Nocciola Barretta di Cereali Cioccolato al Latte Gusto Nocciola  24 Pezzi](https://www.amazon.it/dp/B01FMJ0S7S/?tag=tolees00-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!
 
 [![FITNESS Delice Cioccolato e Nocciola Bar](https://m.media-amazon.com/images/I/51KhOebfGKL._SL200_.jpg)](https://www.amazon.it/dp/B01FMJ0S7S/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01FMJ0S7S/?tag=tolees00-21)
 

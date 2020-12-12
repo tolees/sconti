@@ -3,6 +3,7 @@ layout: post
 title: 'Philips HR2052/90 Daily Collection Frull al 35.50 % de descuento'
 date: 2020-11-13 16:15:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kFEnEvlPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kFEnEvlPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kFEnEvlPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Philips HR2052/90 Daily Collection Frullatore'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01AUBKC6K/?tag=tolees00-21'
+descuento: '35.50'
+titulo: 'Philips HR2052/90 Daily Collection Frull'
 ---
 
 Está [Philips HR2052/90 Daily Collection Frullatore](https://www.amazon.it/dp/B01AUBKC6K/?tag=tolees00-21) con 35.50 de descuento por 19.99 EUR (original: 30.99 EUR) en el siguiente enlace!
 
 [![Philips HR2052/90 Daily Collection Frull](https://m.media-amazon.com/images/I/41kFEnEvlPL._SL200_.jpg)](https://www.amazon.it/dp/B01AUBKC6K/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01AUBKC6K/?tag=tolees00-21)
 

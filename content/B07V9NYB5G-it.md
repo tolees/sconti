@@ -28,8 +28,8 @@ Tienes [CARPISA® Mini zaino - Demetra](https://www.amazon.it/dp/B07V9NYB5G/?tag
 
 Características principales:
 
-- Dimensioni: 21.00x23.50x9.50
 - Composizione: Sintetico
+- Dimensioni: 21.00x23.50x9.50
 - Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07V9NYB5G/?tag=tolees00-21)

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.28 % en Samsung Memorie MZ-N6E2T0 860 EVO SSD In'
 date: 2020-10-29 11:43:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VWHKQbavL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VWHKQbavL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VWHKQbavL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 283.76 EUR
 inStock: true
 prodname: 'Samsung Memorie MZ-N6E2T0 860 EVO SSD Interno da 2 TB  SATA  M.2'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B078WRSSW6/?tag=tolees00-21'
+descuento: '31.28'
+titulo: 'Samsung Memorie MZ-N6E2T0 860 EVO SSD In'
 ---
 
 Tienes [Samsung Memorie MZ-N6E2T0 860 EVO SSD Interno da 2 TB  SATA  M.2](https://www.amazon.it/dp/B078WRSSW6/?tag=tolees00-21) con un 31.28 % de descuento con precio de oferta de 194.99 EUR (original: 283.76 EUR) en el siguiente enlace!
 
 [![Samsung Memorie MZ-N6E2T0 860 EVO SSD In](https://m.media-amazon.com/images/I/41VWHKQbavL._SL200_.jpg)](https://www.amazon.it/dp/B078WRSSW6/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B078WRSSW6/?tag=tolees00-21)
 

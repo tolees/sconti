@@ -3,6 +3,7 @@ layout: post
 title: 'Fairy Original Limone 255 Pastiglie per  al 26.93 % de descuento'
 date: 2020-11-09 12:48:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Hxpw8Co4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Hxpw8Co4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Hxpw8Co4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'Fairy Original Limone 255 Pastiglie per Lavastoviglie  Maxi Formato da 85x3 Caps di Detersivo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08DDN35J1/?tag=tolees00-21'
+descuento: '26.93'
+titulo: 'Fairy Original Limone 255 Pastiglie per '
 ---
 
 Ahora mismo tienes [Fairy Original Limone 255 Pastiglie per Lavastoviglie  Maxi Formato da 85x3 Caps di Detersivo](https://www.amazon.it/dp/B08DDN35J1/?tag=tolees00-21) a 28.49 EUR (original: 38.99 EUR) (26.93 %  de descuento) en el siguiente enlace!
 
 [![Fairy Original Limone 255 Pastiglie per ](https://m.media-amazon.com/images/I/51Hxpw8Co4L._SL200_.jpg)](https://www.amazon.it/dp/B08DDN35J1/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B08DDN35J1/?tag=tolees00-21)
 

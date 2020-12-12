@@ -3,6 +3,7 @@ layout: post
 title: 'Controller per switch  controller per Ni al 64.32 % de descuento'
 date: 2020-11-11 17:44:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VYSO8WB3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VYSO8WB3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VYSO8WB3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 124.44 EUR
 inStock: true
 prodname: 'Controller per switch  controller per Nintendo Switch  controller wireless Bluetooth  6 assi controller per switch Pro con doppio motore integrato per Nintendo Switch Pro/Lite e PC  schema elettrico'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08743XKZF/?tag=tolees00-21'
+descuento: '64.32'
+titulo: 'Controller per switch  controller per Ni'
 ---
 
 Está [Controller per switch  controller per Nintendo Switch  controller wireless Bluetooth  6 assi controller per switch Pro con doppio motore integrato per Nintendo Switch Pro/Lite e PC  schema elettrico](https://www.amazon.it/dp/B08743XKZF/?tag=tolees00-21) con 64.32 de descuento por 44.4 EUR (original: 124.44 EUR) en el siguiente enlace!
 
 [![Controller per switch  controller per Ni](https://m.media-amazon.com/images/I/51VYSO8WB3L._SL200_.jpg)](https://www.amazon.it/dp/B08743XKZF/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08743XKZF/?tag=tolees00-21)
 

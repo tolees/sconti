@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.00 % en Milka Tavoletta Oreo  100g'
 date: 2020-12-07 11:23:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IWoUoehbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IWoUoehbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IWoUoehbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 1.75 EUR
 inStock: true
 prodname: 'Milka Tavoletta Oreo  100g'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00JKPPRCC/?tag=tolees00-21'
+descuento: '32.00'
+titulo: 'Milka Tavoletta Oreo  100g'
 ---
 
 Tienes [Milka Tavoletta Oreo  100g](https://www.amazon.it/dp/B00JKPPRCC/?tag=tolees00-21) con un 32.00 % de descuento con precio de oferta de 1.19 EUR (original: 1.75 EUR) en el siguiente enlace!
 
 [![Milka Tavoletta Oreo  100g](https://m.media-amazon.com/images/I/41IWoUoehbL._SL200_.jpg)](https://www.amazon.it/dp/B00JKPPRCC/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00JKPPRCC/?tag=tolees00-21)
 

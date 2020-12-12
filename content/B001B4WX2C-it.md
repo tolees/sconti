@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch 3 397 004 757 Spazzola Posteriore al 67.63 % de descuento'
 date: 2020-10-31 23:59:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MAoAE8wNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MAoAE8wNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MAoAE8wNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 5.87 EUR
 inStock: true
 prodname: 'Bosch 3 397 004 757 Spazzola Posteriore'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B001B4WX2C/?tag=tolees00-21'
+descuento: '67.63'
+titulo: 'Bosch 3 397 004 757 Spazzola Posteriore'
 ---
 
 Está [Bosch 3 397 004 757 Spazzola Posteriore](https://www.amazon.it/dp/B001B4WX2C/?tag=tolees00-21) con 67.63 de descuento por 1.9 EUR (original: 5.87 EUR) en el siguiente enlace!
 
 [![Bosch 3 397 004 757 Spazzola Posteriore](https://m.media-amazon.com/images/I/31MAoAE8wNL._SL200_.jpg)](https://www.amazon.it/dp/B001B4WX2C/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B001B4WX2C/?tag=tolees00-21)
 

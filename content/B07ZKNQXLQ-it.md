@@ -3,6 +3,7 @@ layout: post
 title: 'Marchio Amazon - find. Maglione in Coton al 64.12 % de descuento'
 date: 2020-11-26 10:43:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/513FtbHEP-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513FtbHEP-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513FtbHEP-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.0 EUR
 inStock: true
 prodname: 'Marchio Amazon - find. Maglione in Cotone Uomo  Blu  Blue Twist .  M  Label: M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZKNQXLQ/?tag=tolees00-21'
+descuento: '64.12'
+titulo: 'Marchio Amazon - find. Maglione in Coton'
 ---
 
 Está [Marchio Amazon - find. Maglione in Cotone Uomo  Blu  Blue Twist .  M  Label: M](https://www.amazon.it/dp/B07ZKNQXLQ/?tag=tolees00-21) con 64.12 de descuento por 12.2 EUR (original: 34.0 EUR) en el siguiente enlace!
 
 [![Marchio Amazon - find. Maglione in Coton](https://m.media-amazon.com/images/I/513FtbHEP-L._SL200_.jpg)](https://www.amazon.it/dp/B07ZKNQXLQ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZKNQXLQ/?tag=tolees00-21)
 

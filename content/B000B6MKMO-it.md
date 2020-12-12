@@ -30,8 +30,8 @@ Características principales:
 
 - Da collezionare
 - Ottimo giocattolo per bambini
-- Set da 10 veicoli
 - Età: da tre anni in su
+- Set da 10 veicoli
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000B6MKMO/?tag=tolees00-21)
 

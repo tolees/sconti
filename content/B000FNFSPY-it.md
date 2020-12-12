@@ -28,10 +28,10 @@ Tienes [TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug & Play
 
 Características principales:
 
-- ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
+- Telaio in plastica, predisposto per linstallazione su scrivania
 - Nessuna configurazione richiesta
 - Con auto-negoziazione, supporta auto MDI/MDIX
-- Telaio in plastica, predisposto per linstallazione su scrivania
+- ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
 - Controllo di flusso IEEE 802.3x per un trasferimento dati affidabile
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21)

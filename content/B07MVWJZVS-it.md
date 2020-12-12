@@ -28,11 +28,11 @@ Está [Western Digital WD My Passport Go SSD Portatile  500 GB  Blu Bordo Cobalt
 
 Principales características:
 
-- Pocket-sized drive has a built-in cable for convenient portability
-- Works with PC and Mac computers, with included automatic backup software for Windows and compatibility for Time Machine (reformatting required)
 - Solid state drive with no moving parts, purposefully designed and manufactured by WD for high reliability and dependability
 - Drop-resistant up to 2 meters, with a rubber protective bumper to endure bumps and shakes even while the drive is plugged in
 - 2.5x faster than most portable hard drives with up to 400MB/s performance
+- Works with PC and Mac computers, with included automatic backup software for Windows and compatibility for Time Machine (reformatting required)
+- Pocket-sized drive has a built-in cable for convenient portability
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MVWJZVS/?tag=tolees00-21)
 

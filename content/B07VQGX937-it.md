@@ -3,6 +3,7 @@ layout: post
 title: 'Caffè Toraldo Gourmet Capsules Compatibi al 32.21 % de descuento'
 date: 2020-12-05 16:36:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nNrRSRRpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nNrRSRRpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nNrRSRRpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 28.0 EUR
 inStock: true
 prodname: 'Caffè Toraldo Gourmet Capsules Compatibili con  Nespresso  100 Capsule'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VQGX937/?tag=tolees00-21'
+descuento: '32.21'
+titulo: 'Caffè Toraldo Gourmet Capsules Compatibi'
 ---
 
 Ahora mismo tienes [Caffè Toraldo Gourmet Capsules Compatibili con  Nespresso  100 Capsule](https://www.amazon.it/dp/B07VQGX937/?tag=tolees00-21) a 18.98 EUR (original: 28.0 EUR) (32.21 %  de descuento) en el siguiente enlace!
 
 [![Caffè Toraldo Gourmet Capsules Compatibi](https://m.media-amazon.com/images/I/51nNrRSRRpL._SL200_.jpg)](https://www.amazon.it/dp/B07VQGX937/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07VQGX937/?tag=tolees00-21)
 

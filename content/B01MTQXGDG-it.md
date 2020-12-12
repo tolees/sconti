@@ -3,6 +3,7 @@ layout: post
 title: 'Trolls  B9526EU40  Mini Set casa di Popp al 27.49 % de descuento'
 date: 2020-12-07 21:23:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XdghGpQrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XdghGpQrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XdghGpQrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.33 EUR
 inStock: true
 prodname: 'Trolls  B9526EU40  Mini Set casa di Poppy'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MTQXGDG/?tag=tolees00-21'
+descuento: '27.49'
+titulo: 'Trolls  B9526EU40  Mini Set casa di Popp'
 ---
 
 Está [Trolls  B9526EU40  Mini Set casa di Poppy](https://www.amazon.it/dp/B01MTQXGDG/?tag=tolees00-21) con 27.49 de descuento por 7.49 EUR (original: 10.33 EUR) en el siguiente enlace!
 
 [![Trolls  B9526EU40  Mini Set casa di Popp](https://m.media-amazon.com/images/I/51XdghGpQrL._SL200_.jpg)](https://www.amazon.it/dp/B01MTQXGDG/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MTQXGDG/?tag=tolees00-21)
 

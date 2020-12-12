@@ -3,6 +3,7 @@ layout: post
 title: 'Glade Automatic Spray Base Con Ricarica  al 26.46 % de descuento'
 date: 2020-10-27 13:27:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C0hGjs+iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C0hGjs+iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C0hGjs+iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.9 EUR
 inStock: true
 prodname: 'Glade Automatic Spray Base Con Ricarica  Fragranza Relaxing Zen - Formato Scorta - 1 Confezione Con 4 Erogatori + 4 Ricariche - 540 Gr'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07M5KPJ92/?tag=tolees00-21'
+descuento: '26.46'
+titulo: 'Glade Automatic Spray Base Con Ricarica '
 ---
 
 Ahora mismo tienes [Glade Automatic Spray Base Con Ricarica  Fragranza Relaxing Zen - Formato Scorta - 1 Confezione Con 4 Erogatori + 4 Ricariche - 540 Gr](https://www.amazon.it/dp/B07M5KPJ92/?tag=tolees00-21) a 13.9 EUR (original: 18.9 EUR) (26.46 %  de descuento) en el siguiente enlace!
 
 [![Glade Automatic Spray Base Con Ricarica ](https://m.media-amazon.com/images/I/41C0hGjs+iL._SL200_.jpg)](https://www.amazon.it/dp/B07M5KPJ92/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07M5KPJ92/?tag=tolees00-21)
 

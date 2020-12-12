@@ -28,11 +28,11 @@ Tienes [Grandi Giochi- Cattura Le Stelle  Multicolore  GG01314](https://www.amaz
 
 Características principales:
 
+- 4 funnzioni: gioco, lampada, solo musica, musica con luci
+- Bacchetta magica con luci e suoni
 - Fatine magiche
 - Lampada nottura
 - 10 livelli di colore
-- 4 funnzioni: gioco, lampada, solo musica, musica con luci
-- Bacchetta magica con luci e suoni
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DD75RM8/?tag=tolees00-21)
 

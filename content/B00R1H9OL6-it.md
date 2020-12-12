@@ -3,6 +3,7 @@ layout: post
 title: 'Lavazza Caffè Macinato Crema e Gusto For al 55.40 % de descuento'
 date: 2020-11-17 15:15:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VqNyTTGKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VqNyTTGKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VqNyTTGKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.55 EUR
 inStock: true
 prodname: 'Lavazza Caffè Macinato Crema e Gusto Forte Tostatura Scura - Confezione da 1 Kg'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00R1H9OL6/?tag=tolees00-21'
+descuento: '55.40'
+titulo: 'Lavazza Caffè Macinato Crema e Gusto For'
 ---
 
 Está [Lavazza Caffè Macinato Crema e Gusto Forte Tostatura Scura - Confezione da 1 Kg](https://www.amazon.it/dp/B00R1H9OL6/?tag=tolees00-21) con 55.40 de descuento por 6.49 EUR (original: 14.55 EUR) en el siguiente enlace!
 
 [![Lavazza Caffè Macinato Crema e Gusto For](https://m.media-amazon.com/images/I/41VqNyTTGKL._SL200_.jpg)](https://www.amazon.it/dp/B00R1H9OL6/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00R1H9OL6/?tag=tolees00-21)
 

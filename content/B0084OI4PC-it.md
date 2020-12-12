@@ -3,6 +3,7 @@ layout: post
 title: 'Loctite Super Attak Precision  Colla liq al 38.85 % de descuento'
 date: 2020-10-23 16:09:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZrnJ4uYqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZrnJ4uYqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZrnJ4uYqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 4.89 EUR
 inStock: true
 prodname: 'Loctite Super Attak Precision  Colla liquida trasparente con beccuccio extra lungo  Colla universale istantanea multimateriale  Colla resistente e precisa  1 x 5g'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0084OI4PC/?tag=tolees00-21'
+descuento: '38.85'
+titulo: 'Loctite Super Attak Precision  Colla liq'
 ---
 
 Está [Loctite Super Attak Precision  Colla liquida trasparente con beccuccio extra lungo  Colla universale istantanea multimateriale  Colla resistente e precisa  1 x 5g](https://www.amazon.it/dp/B0084OI4PC/?tag=tolees00-21) con 38.85 de descuento por 2.99 EUR (original: 4.89 EUR) en el siguiente enlace!
 
 [![Loctite Super Attak Precision  Colla liq](https://m.media-amazon.com/images/I/51ZrnJ4uYqL._SL200_.jpg)](https://www.amazon.it/dp/B0084OI4PC/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0084OI4PC/?tag=tolees00-21)
 

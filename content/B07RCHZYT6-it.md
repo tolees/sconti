@@ -3,6 +3,7 @@ layout: post
 title: 'Dremel Lite 7760 Cordless Utensile Multi al 41.00 % de descuento'
 date: 2020-10-13 15:12:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/313rhYuBJxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313rhYuBJxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313rhYuBJxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 68.63 EUR
 inStock: true
 prodname: 'Dremel Lite 7760 Cordless Utensile Multifunzione Rotativo  Batteria al Litio 3.6 V  Kit con 15 Accessori e Caricatore USB  8.000-25.000 giri/min per Incidere  Tagliare  Levigare  Lucidare e Forare'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RCHZYT6/?tag=tolees00-21'
+descuento: '41.00'
+titulo: 'Dremel Lite 7760 Cordless Utensile Multi'
 ---
 
 Está [Dremel Lite 7760 Cordless Utensile Multifunzione Rotativo  Batteria al Litio 3.6 V  Kit con 15 Accessori e Caricatore USB  8.000-25.000 giri/min per Incidere  Tagliare  Levigare  Lucidare e Forare](https://www.amazon.it/dp/B07RCHZYT6/?tag=tolees00-21) con 41.00 de descuento por 40.49 EUR (original: 68.63 EUR) en el siguiente enlace!
 
 [![Dremel Lite 7760 Cordless Utensile Multi](https://m.media-amazon.com/images/I/313rhYuBJxL._SL200_.jpg)](https://www.amazon.it/dp/B07RCHZYT6/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07RCHZYT6/?tag=tolees00-21)
 

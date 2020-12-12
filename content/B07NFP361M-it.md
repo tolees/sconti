@@ -3,6 +3,7 @@ layout: post
 title: 'Cool Maker Kumikreator 2 in 1  Macchina  al 34.30 % de descuento'
 date: 2020-10-13 05:22:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/61Z70UyeMkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Z70UyeMkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61Z70UyeMkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Cool Maker Kumikreator 2 in 1  Macchina per Creare Braccialetti dell Amicizia e Collane  dagli 8 anni in su'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07NFP361M/?tag=tolees00-21'
+descuento: '34.30'
+titulo: 'Cool Maker Kumikreator 2 in 1  Macchina '
 ---
 
 Ahora mismo tienes [Cool Maker Kumikreator 2 in 1  Macchina per Creare Braccialetti dell Amicizia e Collane  dagli 8 anni in su](https://www.amazon.it/dp/B07NFP361M/?tag=tolees00-21) a 22.99 EUR (original: 34.99 EUR) (34.30 %  de descuento) en el siguiente enlace!
 
 [![Cool Maker Kumikreator 2 in 1  Macchina ](https://m.media-amazon.com/images/I/61Z70UyeMkL._SL200_.jpg)](https://www.amazon.it/dp/B07NFP361M/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07NFP361M/?tag=tolees00-21)
 

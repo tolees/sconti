@@ -3,6 +3,7 @@ layout: post
 title: 'Martini Aperitivo Fiero - 1000 ml al 34.45 % de descuento'
 date: 2020-12-03 09:24:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/413UlbLUkhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413UlbLUkhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413UlbLUkhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.9 EUR
 inStock: true
 prodname: 'Martini Aperitivo Fiero - 1000 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B081NLWR2X/?tag=tolees00-21'
+descuento: '34.45'
+titulo: 'Martini Aperitivo Fiero - 1000 ml'
 ---
 
 Ahora mismo tienes [Martini Aperitivo Fiero - 1000 ml](https://www.amazon.it/dp/B081NLWR2X/?tag=tolees00-21) a 7.8 EUR (original: 11.9 EUR) (34.45 %  de descuento) en el siguiente enlace!
 
 [![Martini Aperitivo Fiero - 1000 ml](https://m.media-amazon.com/images/I/413UlbLUkhL._SL200_.jpg)](https://www.amazon.it/dp/B081NLWR2X/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B081NLWR2X/?tag=tolees00-21)
 

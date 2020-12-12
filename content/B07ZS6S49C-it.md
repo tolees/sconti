@@ -3,6 +3,7 @@ layout: post
 title: 'Electraline 58114 Mini Programmatore Tim al 50.56 % de descuento'
 date: 2020-11-07 08:26:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zdp1uv0qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zdp1uv0qL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zdp1uv0qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Electraline 58114 Mini Programmatore Timer Meccanico Giornaliero  Spina Italiana piccola 10 A  Presa Schuko + 10A  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZS6S49C/?tag=tolees00-21'
+descuento: '50.56'
+titulo: 'Electraline 58114 Mini Programmatore Tim'
 ---
 
 Ahora mismo tienes [Electraline 58114 Mini Programmatore Timer Meccanico Giornaliero  Spina Italiana piccola 10 A  Presa Schuko + 10A  Bianco](https://www.amazon.it/dp/B07ZS6S49C/?tag=tolees00-21) a 3.95 EUR (original: 7.99 EUR) (50.56 %  de descuento) en el siguiente enlace!
 
 [![Electraline 58114 Mini Programmatore Tim](https://m.media-amazon.com/images/I/41zdp1uv0qL._SL200_.jpg)](https://www.amazon.it/dp/B07ZS6S49C/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07ZS6S49C/?tag=tolees00-21)
 

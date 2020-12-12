@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.72 % en Converse Ct as Lthr Hi  Sneaker Unisex –'
 date: 2020-11-21 01:13:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/417I-0jozCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417I-0jozCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417I-0jozCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Converse Ct as Lthr Hi  Sneaker Unisex – Adulto  Bianco  42.5 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B000BGN24Y/?tag=tolees00-21'
+descuento: '40.72'
+titulo: 'Converse Ct as Lthr Hi  Sneaker Unisex –'
 ---
 
 Tienes [Converse Ct as Lthr Hi  Sneaker Unisex – Adulto  Bianco  42.5 EU](https://www.amazon.it/dp/B000BGN24Y/?tag=tolees00-21) con un 40.72 % de descuento con precio de oferta de 50.39 EUR (original: 85.0 EUR) en el siguiente enlace!
 
 [![Converse Ct as Lthr Hi  Sneaker Unisex –](https://m.media-amazon.com/images/I/417I-0jozCL._SL200_.jpg)](https://www.amazon.it/dp/B000BGN24Y/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000BGN24Y/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Core Down Mid Lngth Puffer Giacca al 58.00 % de descuento'
 date: 2020-11-26 10:01:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/411KYIMWDkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411KYIMWDkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411KYIMWDkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 250.0 EUR
 inStock: true
 prodname: 'Levi s Core Down Mid Lngth Puffer Giacca  Tofu  S Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZVPFB4X/?tag=tolees00-21'
+descuento: '58.00'
+titulo: 'Levi s Core Down Mid Lngth Puffer Giacca'
 ---
 
 Ahora mismo tienes [Levi s Core Down Mid Lngth Puffer Giacca  Tofu  S Donna](https://www.amazon.it/dp/B07ZVPFB4X/?tag=tolees00-21) a 104.99 EUR (original: 250.0 EUR) (58.00 %  de descuento) en el siguiente enlace!
 
 [![Levi s Core Down Mid Lngth Puffer Giacca](https://m.media-amazon.com/images/I/411KYIMWDkL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVPFB4X/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07ZVPFB4X/?tag=tolees00-21)
 

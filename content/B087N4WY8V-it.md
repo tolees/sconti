@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.29 % en DJI Mavic Air 2 Fly More Combo Drone Qua'
 date: 2020-11-23 09:29:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ma6KiD2BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ma6KiD2BL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ma6KiD2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 1049.0 EUR
 inStock: true
 prodname: 'DJI Mavic Air 2 Fly More Combo Drone Quadcopter UAV con Telecamera 48MP 4K  Video 1/2"  Sensore CMOS  Stabilizzatore 3 Assi  34 min di Volo ActiveTrack 3.0  Grigio'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B087N4WY8V/?tag=tolees00-21'
+descuento: '53.29'
+titulo: 'DJI Mavic Air 2 Fly More Combo Drone Qua'
 ---
 
 Tienes [DJI Mavic Air 2 Fly More Combo Drone Quadcopter UAV con Telecamera 48MP 4K  Video 1/2"  Sensore CMOS  Stabilizzatore 3 Assi  34 min di Volo ActiveTrack 3.0  Grigio](https://www.amazon.it/dp/B087N4WY8V/?tag=tolees00-21) con un 53.29 % de descuento con precio de oferta de 490.0 EUR (original: 1049.0 EUR) en el siguiente enlace!
 
 [![DJI Mavic Air 2 Fly More Combo Drone Qua](https://m.media-amazon.com/images/I/41Ma6KiD2BL._SL200_.jpg)](https://www.amazon.it/dp/B087N4WY8V/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B087N4WY8V/?tag=tolees00-21)
 

@@ -29,8 +29,8 @@ Tienes [CARPISA® Portafoglio a fisarmonica - Mesha wallet](https://www.amazon.i
 Características principales:
 
 - Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
-- Composizione: Sintetico
 - Dimensioni: 15.00x9.50x3.50
+- Composizione: Sintetico
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07CQM2NTQ/?tag=tolees00-21)
 

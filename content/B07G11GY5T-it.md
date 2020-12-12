@@ -3,6 +3,7 @@ layout: post
 title: 'Hugo Boss Orologio Cronografo Quarzo Uom al 45.61 % de descuento'
 date: 2020-11-14 08:10:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gPV-DTDlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gPV-DTDlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gPV-DTDlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 421.0 EUR
 inStock: true
 prodname: 'Hugo Boss Orologio Cronografo Quarzo Uomo con Cinturino in Placcato Oro 1513631'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07G11GY5T/?tag=tolees00-21'
+descuento: '45.61'
+titulo: 'Hugo Boss Orologio Cronografo Quarzo Uom'
 ---
 
 Ahora mismo tienes [Hugo Boss Orologio Cronografo Quarzo Uomo con Cinturino in Placcato Oro 1513631](https://www.amazon.it/dp/B07G11GY5T/?tag=tolees00-21) a 229.0 EUR (original: 421.0 EUR) (45.61 %  de descuento) en el siguiente enlace!
 
 [![Hugo Boss Orologio Cronografo Quarzo Uom](https://m.media-amazon.com/images/I/41gPV-DTDlL._SL200_.jpg)](https://www.amazon.it/dp/B07G11GY5T/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07G11GY5T/?tag=tolees00-21)
 

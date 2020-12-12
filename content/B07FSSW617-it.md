@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.47 % en adidas Courtset  Scarpe da Fitness Donna'
 date: 2020-11-18 08:30:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31bOfB3qTAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31bOfB3qTAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31bOfB3qTAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'adidas Courtset  Scarpe da Fitness Donna  Nero Cblack Ftwwht Msilve Cblack Ftwwht Msilve  40 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07FSSW617/?tag=tolees00-21'
+descuento: '47.47'
+titulo: 'adidas Courtset  Scarpe da Fitness Donna'
 ---
 
 Tienes [adidas Courtset  Scarpe da Fitness Donna  Nero Cblack Ftwwht Msilve Cblack Ftwwht Msilve  40 EU](https://www.amazon.it/dp/B07FSSW617/?tag=tolees00-21) con un 47.47 % de descuento con precio de oferta de 31.49 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![adidas Courtset  Scarpe da Fitness Donna](https://m.media-amazon.com/images/I/31bOfB3qTAL._SL200_.jpg)](https://www.amazon.it/dp/B07FSSW617/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07FSSW617/?tag=tolees00-21)
 

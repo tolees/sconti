@@ -3,6 +3,7 @@ layout: post
 title: 'Stalker al 51.10 % de descuento'
 date: 2020-11-18 22:37:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t-S3v8GPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51t-S3v8GPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t-S3v8GPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.68 EUR
 inStock: true
 prodname: 'Stalker'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B072X7JGCC/?tag=tolees00-21'
+descuento: '51.10'
+titulo: 'Stalker'
 ---
 
 Está [Stalker](https://www.amazon.it/dp/B072X7JGCC/?tag=tolees00-21) con 51.10 de descuento por 6.2 EUR (original: 12.68 EUR) en el siguiente enlace!
 
 [![Stalker](https://m.media-amazon.com/images/I/51t-S3v8GPL._SL200_.jpg)](https://www.amazon.it/dp/B072X7JGCC/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B072X7JGCC/?tag=tolees00-21)
 

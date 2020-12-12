@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.12 % en Dr Organic Tea Tree Dentifricio  100ml'
 date: 2020-12-11 12:27:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ky7VaHKXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ky7VaHKXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ky7VaHKXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 11.49 EUR
 inStock: true
 prodname: 'Dr Organic Tea Tree Dentifricio  100ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00FW7UUI8/?tag=tolees00-21'
+descuento: '42.12'
+titulo: 'Dr Organic Tea Tree Dentifricio  100ml'
 ---
 
 Tienes [Dr Organic Tea Tree Dentifricio  100ml](https://www.amazon.it/dp/B00FW7UUI8/?tag=tolees00-21) con un 42.12 % de descuento con precio de oferta de 6.65 EUR (original: 11.49 EUR) en el siguiente enlace!

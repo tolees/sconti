@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.99 % en JACK & JONES Jprnon Iron Shirt L/s Noos '
 date: 2020-12-03 08:29:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MYEP6Yl4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MYEP6Yl4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MYEP6Yl4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jprnon Iron Shirt L/s Noos Camicia Formale  Bianco  White Fit:Slim Fit   X-Large Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B071GZ6ZD4/?tag=tolees00-21'
+descuento: '59.99'
+titulo: 'JACK & JONES Jprnon Iron Shirt L/s Noos '
 ---
 
 Tienes [JACK & JONES Jprnon Iron Shirt L/s Noos Camicia Formale  Bianco  White Fit:Slim Fit   X-Large Uomo](https://www.amazon.it/dp/B071GZ6ZD4/?tag=tolees00-21) con un 59.99 % de descuento con precio de oferta de 20.0 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![JACK & JONES Jprnon Iron Shirt L/s Noos ](https://m.media-amazon.com/images/I/31MYEP6Yl4L._SL200_.jpg)](https://www.amazon.it/dp/B071GZ6ZD4/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B071GZ6ZD4/?tag=tolees00-21)
 

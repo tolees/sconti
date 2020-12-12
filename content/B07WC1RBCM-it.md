@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Trolls World Tour Concerto a Vulcan al 27.51 % de descuento'
 date: 2020-11-28 00:01:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51H3gVd3uRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51H3gVd3uRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51H3gVd3uRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'LEGO Trolls World Tour Concerto a Vulcano Rock City  Playset con Poppy  Branch e Barb  Palcoscenico e Chitarre  41254'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07WC1RBCM/?tag=tolees00-21'
+descuento: '27.51'
+titulo: 'LEGO Trolls World Tour Concerto a Vulcan'
 ---
 
 Ahora mismo tienes [LEGO Trolls World Tour Concerto a Vulcano Rock City  Playset con Poppy  Branch e Barb  Palcoscenico e Chitarre  41254](https://www.amazon.it/dp/B07WC1RBCM/?tag=tolees00-21) a 28.99 EUR (original: 39.99 EUR) (27.51 %  de descuento) en el siguiente enlace!
 
 [![LEGO Trolls World Tour Concerto a Vulcan](https://m.media-amazon.com/images/I/51H3gVd3uRL._SL200_.jpg)](https://www.amazon.it/dp/B07WC1RBCM/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07WC1RBCM/?tag=tolees00-21)
 

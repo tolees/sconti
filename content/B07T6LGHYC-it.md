@@ -3,6 +3,7 @@ layout: post
 title: 'Extrastar Multipresa ciabatta elettrica  al 44.10 % de descuento'
 date: 2020-11-27 10:29:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/410DA0UPQoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410DA0UPQoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410DA0UPQoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.49 EUR
 inStock: true
 prodname: 'Extrastar Multipresa ciabatta elettrica 6 Posti 10/16A Bipasso Schuko 250V Max:2500W con interruttori indipendenti 1 5MT'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07T6LGHYC/?tag=tolees00-21'
+descuento: '44.10'
+titulo: 'Extrastar Multipresa ciabatta elettrica '
 ---
 
 Está [Extrastar Multipresa ciabatta elettrica 6 Posti 10/16A Bipasso Schuko 250V Max:2500W con interruttori indipendenti 1 5MT](https://www.amazon.it/dp/B07T6LGHYC/?tag=tolees00-21) con 44.10 de descuento por 8.1 EUR (original: 14.49 EUR) en el siguiente enlace!
 
 [![Extrastar Multipresa ciabatta elettrica ](https://m.media-amazon.com/images/I/410DA0UPQoL._SL200_.jpg)](https://www.amazon.it/dp/B07T6LGHYC/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07T6LGHYC/?tag=tolees00-21)
 

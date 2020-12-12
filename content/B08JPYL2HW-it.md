@@ -3,6 +3,7 @@ layout: post
 title: 'QULLOO Vetro Temperato per Xiaomi Mi 10T al 36.40 % de descuento'
 date: 2020-11-02 05:33:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51O7qkkq0DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51O7qkkq0DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51O7qkkq0DL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'QULLOO Vetro Temperato per Xiaomi Mi 10T 5G / 10T PRO 5G  Pellicola Protettiva Alta Definizione Anti Graffio Protezione per Schermo per Xiaomi Mi 10T 5G / 10T PRO 5G'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08JPYL2HW/?tag=tolees00-21'
+descuento: '36.40'
+titulo: 'QULLOO Vetro Temperato per Xiaomi Mi 10T'
 ---
 
 Está [QULLOO Vetro Temperato per Xiaomi Mi 10T 5G / 10T PRO 5G  Pellicola Protettiva Alta Definizione Anti Graffio Protezione per Schermo per Xiaomi Mi 10T 5G / 10T PRO 5G](https://www.amazon.it/dp/B08JPYL2HW/?tag=tolees00-21) con 36.40 de descuento por 6.99 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![QULLOO Vetro Temperato per Xiaomi Mi 10T](https://m.media-amazon.com/images/I/51O7qkkq0DL._SL200_.jpg)](https://www.amazon.it/dp/B08JPYL2HW/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08JPYL2HW/?tag=tolees00-21)
 

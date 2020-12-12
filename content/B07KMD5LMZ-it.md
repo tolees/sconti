@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.15 % en Marchio Amazon - find. Trench con Cintur'
 date: 2020-10-15 08:02:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hgCiE2lEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hgCiE2lEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hgCiE2lEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 60.73 EUR
 inStock: true
 prodname: 'Marchio Amazon - find. Trench con Cintura Donna  Marrone  Rust   40  Label: XS'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KMD5LMZ/?tag=tolees00-21'
+descuento: '75.15'
+titulo: 'Marchio Amazon - find. Trench con Cintur'
 ---
 
 Tienes [Marchio Amazon - find. Trench con Cintura Donna  Marrone  Rust   40  Label: XS](https://www.amazon.it/dp/B07KMD5LMZ/?tag=tolees00-21) con un 75.15 % de descuento con precio de oferta de 15.09 EUR (original: 60.73 EUR) en el siguiente enlace!
 
 [![Marchio Amazon - find. Trench con Cintur](https://m.media-amazon.com/images/I/41hgCiE2lEL._SL200_.jpg)](https://www.amazon.it/dp/B07KMD5LMZ/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KMD5LMZ/?tag=tolees00-21)
 

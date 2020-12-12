@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Smash V2  Scarpe da Ginnastica Unis al 36.32 % de descuento'
 date: 2020-11-06 08:51:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Blu  Peacoat White   48.5 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B077MG6FJY/?tag=tolees00-21'
+descuento: '36.32'
+titulo: 'PUMA Smash V2  Scarpe da Ginnastica Unis'
 ---
 
 Ahora mismo tienes [PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Blu  Peacoat White   48.5 EU](https://www.amazon.it/dp/B077MG6FJY/?tag=tolees00-21) a 34.99 EUR (original: 54.95 EUR) (36.32 %  de descuento) en el siguiente enlace!
 
 [![PUMA Smash V2  Scarpe da Ginnastica Unis](https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg)](https://www.amazon.it/dp/B077MG6FJY/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B077MG6FJY/?tag=tolees00-21)
 

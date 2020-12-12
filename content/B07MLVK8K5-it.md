@@ -3,6 +3,7 @@ layout: post
 title: 'Western Digital WD Black SN750 SSD NVMe  al 49.07 % de descuento'
 date: 2020-11-21 09:23:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tBG35fq7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tBG35fq7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tBG35fq7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 588.99 EUR
 inStock: true
 prodname: 'Western Digital WD Black SN750 SSD NVMe Interna per Gaming con Dissipatore di Calore  M.2 PCIe Gen 3 x 4  2 TB'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MLVK8K5/?tag=tolees00-21'
+descuento: '49.07'
+titulo: 'Western Digital WD Black SN750 SSD NVMe '
 ---
 
 Ahora mismo tienes [Western Digital WD Black SN750 SSD NVMe Interna per Gaming con Dissipatore di Calore  M.2 PCIe Gen 3 x 4  2 TB](https://www.amazon.it/dp/B07MLVK8K5/?tag=tolees00-21) a 299.99 EUR (original: 588.99 EUR) (49.07 %  de descuento) en el siguiente enlace!
 
 [![Western Digital WD Black SN750 SSD NVMe ](https://m.media-amazon.com/images/I/41tBG35fq7L._SL200_.jpg)](https://www.amazon.it/dp/B07MLVK8K5/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07MLVK8K5/?tag=tolees00-21)
 

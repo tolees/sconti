@@ -3,6 +3,7 @@ layout: post
 title: 'YAMAMAY® Poncho Donna Morbido e Caldo Ta al 66.01 % de descuento'
 date: 2020-11-20 00:06:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hb-NrrV7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hb-NrrV7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hb-NrrV7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'YAMAMAY® Poncho Donna Morbido e Caldo Taglia Unica - Loong Holiday'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B085YCJ7YQ/?tag=tolees00-21'
+descuento: '66.01'
+titulo: 'YAMAMAY® Poncho Donna Morbido e Caldo Ta'
 ---
 
 Ahora mismo tienes [YAMAMAY® Poncho Donna Morbido e Caldo Taglia Unica - Loong Holiday](https://www.amazon.it/dp/B085YCJ7YQ/?tag=tolees00-21) a 13.58 EUR (original: 39.95 EUR) (66.01 %  de descuento) en el siguiente enlace!
 
 [![YAMAMAY® Poncho Donna Morbido e Caldo Ta](https://m.media-amazon.com/images/I/41hb-NrrV7L._SL200_.jpg)](https://www.amazon.it/dp/B085YCJ7YQ/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B085YCJ7YQ/?tag=tolees00-21)
 

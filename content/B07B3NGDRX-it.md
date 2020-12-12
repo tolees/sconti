@@ -3,6 +3,7 @@ layout: post
 title: 'MORELLATO Orologio Analogico Quarzo Donn al 60.00 % de descuento'
 date: 2020-11-21 07:00:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/410Td9wnYFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410Td9wnYFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410Td9wnYFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.0 EUR
 inStock: true
 prodname: 'MORELLATO Orologio Analogico Quarzo Donna con Cinturino in Silicone R0151152507'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07B3NGDRX/?tag=tolees00-21'
+descuento: '60.00'
+titulo: 'MORELLATO Orologio Analogico Quarzo Donn'
 ---
 
 Está [MORELLATO Orologio Analogico Quarzo Donna con Cinturino in Silicone R0151152507](https://www.amazon.it/dp/B07B3NGDRX/?tag=tolees00-21) con 60.00 de descuento por 23.6 EUR (original: 59.0 EUR) en el siguiente enlace!
 
 [![MORELLATO Orologio Analogico Quarzo Donn](https://m.media-amazon.com/images/I/410Td9wnYFL._SL200_.jpg)](https://www.amazon.it/dp/B07B3NGDRX/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07B3NGDRX/?tag=tolees00-21)
 

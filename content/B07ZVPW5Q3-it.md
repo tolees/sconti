@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.01 % en Levi s Hoodie Felpa con Cappuccio  Blue '
 date: 2020-11-27 13:37:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iiyd09I-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iiyd09I-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iiyd09I-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 70.0 EUR
 inStock: true
 prodname: 'Levi s Hoodie Felpa con Cappuccio  Blue Indigo  L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZVPW5Q3/?tag=tolees00-21'
+descuento: '58.01'
+titulo: 'Levi s Hoodie Felpa con Cappuccio  Blue '
 ---
 
 Tienes [Levi s Hoodie Felpa con Cappuccio  Blue Indigo  L Uomo](https://www.amazon.it/dp/B07ZVPW5Q3/?tag=tolees00-21) con un 58.01 % de descuento con precio de oferta de 29.39 EUR (original: 70.0 EUR) en el siguiente enlace!
 
 [![Levi s Hoodie Felpa con Cappuccio  Blue ](https://m.media-amazon.com/images/I/41iiyd09I-L._SL200_.jpg)](https://www.amazon.it/dp/B07ZVPW5Q3/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07ZVPW5Q3/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Amarcord al 39.27 % de descuento'
 date: 2020-12-05 03:05:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Jh4-OVoYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Jh4-OVoYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Jh4-OVoYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.68 EUR
 inStock: true
 prodname: 'Amarcord'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01LY8H7G1/?tag=tolees00-21'
+descuento: '39.27'
+titulo: 'Amarcord'
 ---
 
 Ahora mismo tienes [Amarcord](https://www.amazon.it/dp/B01LY8H7G1/?tag=tolees00-21) a 7.7 EUR (original: 12.68 EUR) (39.27 %  de descuento) en el siguiente enlace!
 
 [![Amarcord](https://m.media-amazon.com/images/I/51Jh4-OVoYL._SL200_.jpg)](https://www.amazon.it/dp/B01LY8H7G1/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01LY8H7G1/?tag=tolees00-21)
 

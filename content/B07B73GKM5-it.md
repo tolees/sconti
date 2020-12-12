@@ -3,6 +3,7 @@ layout: post
 title: 'THUN - Bimbo a Cavallo della Cicogna - B al 50.00 % de descuento'
 date: 2020-11-20 14:31:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-nfa0lNHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-nfa0lNHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-nfa0lNHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.9 EUR
 inStock: true
 prodname: 'THUN - Bimbo a Cavallo della Cicogna - Bomboniera e Soprammobile - Formato Piccolo - Ceramica - 5 2 x 3 5 x 6 2 h cm'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07B73GKM5/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'THUN - Bimbo a Cavallo della Cicogna - B'
 ---
 
 Está [THUN - Bimbo a Cavallo della Cicogna - Bomboniera e Soprammobile - Formato Piccolo - Ceramica - 5 2 x 3 5 x 6 2 h cm](https://www.amazon.it/dp/B07B73GKM5/?tag=tolees00-21) con 50.00 de descuento por 8.45 EUR (original: 16.9 EUR) en el siguiente enlace!
 
 [![THUN - Bimbo a Cavallo della Cicogna - B](https://m.media-amazon.com/images/I/41-nfa0lNHL._SL200_.jpg)](https://www.amazon.it/dp/B07B73GKM5/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07B73GKM5/?tag=tolees00-21)
 

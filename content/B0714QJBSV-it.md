@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.40 % en New Balance 574  Scarpe da Ginnastica Un'
 date: 2020-12-10 03:03:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i9GPczTzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i9GPczTzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i9GPczTzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'New Balance 574  Scarpe da Ginnastica Unisex-Bambini  Blu  Navy   35.5 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0714QJBSV/?tag=tolees00-21'
+descuento: '26.40'
+titulo: 'New Balance 574  Scarpe da Ginnastica Un'
 ---
 
 Tienes [New Balance 574  Scarpe da Ginnastica Unisex-Bambini  Blu  Navy   35.5 EU](https://www.amazon.it/dp/B0714QJBSV/?tag=tolees00-21) con un 26.40 % de descuento con precio de oferta de 47.84 EUR (original: 65.0 EUR) en el siguiente enlace!
 
 [![New Balance 574  Scarpe da Ginnastica Un](https://m.media-amazon.com/images/I/41i9GPczTzL._SL200_.jpg)](https://www.amazon.it/dp/B0714QJBSV/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0714QJBSV/?tag=tolees00-21)
 

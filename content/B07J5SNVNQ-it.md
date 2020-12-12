@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.11 % en adidas COURTSMASH  Scarpe da Tennis Uomo'
 date: 2020-12-11 12:58:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/414j1Y+XIzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414j1Y+XIzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414j1Y+XIzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 55.0 EUR
 inStock: true
 prodname: 'adidas COURTSMASH  Scarpe da Tennis Uomo  Ftwr White/Core Black/Grey Two f17  43 1/3 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07J5SNVNQ/?tag=tolees00-21'
+descuento: '29.11'
+titulo: 'adidas COURTSMASH  Scarpe da Tennis Uomo'
 ---
 
 Tienes [adidas COURTSMASH  Scarpe da Tennis Uomo  Ftwr White/Core Black/Grey Two f17  43 1/3 EU](https://www.amazon.it/dp/B07J5SNVNQ/?tag=tolees00-21) con un 29.11 % de descuento con precio de oferta de 38.99 EUR (original: 55.0 EUR) en el siguiente enlace!
@@ -24,9 +28,9 @@ Tienes [adidas COURTSMASH  Scarpe da Tennis Uomo  Ftwr White/Core Black/Grey Two
 
 Características principales:
 
-- Tomaia in pelle sintetica
-- Scarpe sportive
 - Stile classico
+- Scarpe sportive
+- Tomaia in pelle sintetica
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07J5SNVNQ/?tag=tolees00-21)
 

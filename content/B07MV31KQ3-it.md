@@ -3,6 +3,7 @@ layout: post
 title: 'Kellogg s Coco Pops - 365 g al 42.98 % de descuento'
 date: 2020-11-17 16:45:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51HUFMcSQHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HUFMcSQHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51HUFMcSQHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 3.49 EUR
 inStock: true
 prodname: 'Kellogg s Coco Pops - 365 g'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MV31KQ3/?tag=tolees00-21'
+descuento: '42.98'
+titulo: 'Kellogg s Coco Pops - 365 g'
 ---
 
 Ahora mismo tienes [Kellogg s Coco Pops - 365 g](https://www.amazon.it/dp/B07MV31KQ3/?tag=tolees00-21) a 1.99 EUR (original: 3.49 EUR) (42.98 %  de descuento) en el siguiente enlace!
 
 [![Kellogg s Coco Pops - 365 g](https://m.media-amazon.com/images/I/51HUFMcSQHL._SL200_.jpg)](https://www.amazon.it/dp/B07MV31KQ3/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07MV31KQ3/?tag=tolees00-21)
 

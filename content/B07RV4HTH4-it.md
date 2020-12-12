@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.34 % en find. Myer Scarpe da Ginnastica Basse  M'
 date: 2020-10-27 07:20:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/3142e7dlLWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3142e7dlLWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3142e7dlLWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 56.98 EUR
 inStock: true
 prodname: 'find. Myer Scarpe da Ginnastica Basse  Marrone Tan   42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RV4HTH4/?tag=tolees00-21'
+descuento: '65.34'
+titulo: 'find. Myer Scarpe da Ginnastica Basse  M'
 ---
 
 Tienes [find. Myer Scarpe da Ginnastica Basse  Marrone Tan   42 EU](https://www.amazon.it/dp/B07RV4HTH4/?tag=tolees00-21) con un 65.34 % de descuento con precio de oferta de 19.75 EUR (original: 56.98 EUR) en el siguiente enlace!
 
 [![find. Myer Scarpe da Ginnastica Basse  M](https://m.media-amazon.com/images/I/3142e7dlLWL._SL200_.jpg)](https://www.amazon.it/dp/B07RV4HTH4/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RV4HTH4/?tag=tolees00-21)
 

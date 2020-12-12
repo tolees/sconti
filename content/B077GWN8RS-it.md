@@ -3,6 +3,7 @@ layout: post
 title: 'Trust Gaming GXT 830-RW Avonn Tastiera d al 43.38 % de descuento'
 date: 2020-12-09 18:47:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oOy-0nCkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oOy-0nCkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oOy-0nCkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Trust Gaming GXT 830-RW Avonn Tastiera da Gioco Illuminata  Nero [Layout Italiano]'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B077GWN8RS/?tag=tolees00-21'
+descuento: '43.38'
+titulo: 'Trust Gaming GXT 830-RW Avonn Tastiera d'
 ---
 
 Está [Trust Gaming GXT 830-RW Avonn Tastiera da Gioco Illuminata  Nero [Layout Italiano]](https://www.amazon.it/dp/B077GWN8RS/?tag=tolees00-21) con 43.38 de descuento por 16.98 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Trust Gaming GXT 830-RW Avonn Tastiera d](https://m.media-amazon.com/images/I/41oOy-0nCkL._SL200_.jpg)](https://www.amazon.it/dp/B077GWN8RS/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B077GWN8RS/?tag=tolees00-21)
 

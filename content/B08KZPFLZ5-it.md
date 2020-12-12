@@ -3,6 +3,7 @@ layout: post
 title: 'HTDELEC Custodia per Samsung Galaxy A20s al 47.02 % de descuento'
 date: 2020-11-02 11:25:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oNlXZIWWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oNlXZIWWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oNlXZIWWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.8 EUR
 inStock: true
 prodname: 'HTDELEC Custodia per Samsung Galaxy A20s Flip Cover a Libro Samsung Galaxy A20s Magnetica Portafoglio Protettiva in Pelle Samsung Galaxy A20s T-Rosso '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08KZPFLZ5/?tag=tolees00-21'
+descuento: '47.02'
+titulo: 'HTDELEC Custodia per Samsung Galaxy A20s'
 ---
 
 Está [HTDELEC Custodia per Samsung Galaxy A20s Flip Cover a Libro Samsung Galaxy A20s Magnetica Portafoglio Protettiva in Pelle Samsung Galaxy A20s T-Rosso ](https://www.amazon.it/dp/B08KZPFLZ5/?tag=tolees00-21) con 47.02 de descuento por 8.9 EUR (original: 16.8 EUR) en el siguiente enlace!
 
 [![HTDELEC Custodia per Samsung Galaxy A20s](https://m.media-amazon.com/images/I/51oNlXZIWWL._SL200_.jpg)](https://www.amazon.it/dp/B08KZPFLZ5/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08KZPFLZ5/?tag=tolees00-21)
 

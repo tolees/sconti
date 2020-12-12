@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.32 % en Wonder Woman'
 date: 2020-10-27 07:19:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51y2QEWlNlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51y2QEWlNlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51y2QEWlNlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.36 EUR
 inStock: true
 prodname: 'Wonder Woman'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B072LZZTR9/?tag=tolees00-21'
+descuento: '25.32'
+titulo: 'Wonder Woman'
 ---
 
 Tienes [Wonder Woman](https://www.amazon.it/dp/B072LZZTR9/?tag=tolees00-21) con un 25.32 % de descuento con precio de oferta de 6.99 EUR (original: 9.36 EUR) en el siguiente enlace!
 
 [![Wonder Woman](https://m.media-amazon.com/images/I/51y2QEWlNlL._SL200_.jpg)](https://www.amazon.it/dp/B072LZZTR9/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B072LZZTR9/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Uomo Symbol B  Scarpe Stringate Oxf al 29.94 % de descuento'
 date: 2020-12-10 22:58:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/313rTHoJv1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313rTHoJv1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313rTHoJv1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Geox Uomo Symbol B  Scarpe Stringate Oxford  Nero  Black C9999   47 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MUDTVQ9/?tag=tolees00-21'
+descuento: '29.94'
+titulo: 'Geox Uomo Symbol B  Scarpe Stringate Oxf'
 ---
 
 Está [Geox Uomo Symbol B  Scarpe Stringate Oxford  Nero  Black C9999   47 EU](https://www.amazon.it/dp/B01MUDTVQ9/?tag=tolees00-21) con 29.94 de descuento por 69.99 EUR (original: 99.9 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Está [Geox Uomo Symbol B  Scarpe Stringate Oxford  Nero  Black C9999   47 EU](h
 
 Principales características:
 
-- La U Symbol B for men di Geox è una scarpa bassa traspirante per il lavoro e la vita di tutti i giorni.
-- Occasione: casual
 - La pelle di alta qualità è resistente e di lunga durata
+- La U Symbol B for men di Geox è una scarpa bassa traspirante per il lavoro e la vita di tutti i giorni.
 - Ingresso imbottito per un facile accesso e spegnimento
 - Suola traforata con membrana interna - è traspirante e impermeabile
+- Occasione: casual
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MUDTVQ9/?tag=tolees00-21)
 

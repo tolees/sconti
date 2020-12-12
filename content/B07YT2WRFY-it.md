@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.41 % en God of War Hits - PlayStation 4'
 date: 2020-11-26 23:17:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51N7WnbO3SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51N7WnbO3SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51N7WnbO3SL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'God of War Hits - PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07YT2WRFY/?tag=tolees00-21'
+descuento: '52.41'
+titulo: 'God of War Hits - PlayStation 4'
 ---
 
 Tienes [God of War Hits - PlayStation 4](https://www.amazon.it/dp/B07YT2WRFY/?tag=tolees00-21) con un 52.41 % de descuento con precio de oferta de 9.99 EUR (original: 20.99 EUR) en el siguiente enlace!
 
 [![God of War Hits - PlayStation 4](https://m.media-amazon.com/images/I/51N7WnbO3SL._SL200_.jpg)](https://www.amazon.it/dp/B07YT2WRFY/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07YT2WRFY/?tag=tolees00-21)
 

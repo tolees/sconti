@@ -3,6 +3,7 @@ layout: post
 title: 'JBL Tune500BT Cuffie Wireless Sovraurali al 32.29 % de descuento'
 date: 2020-11-13 05:40:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31tC+Zx88kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tC+Zx88kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31tC+Zx88kL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JBL Tune500BT Cuffie Wireless Sovraurali con Funzione Multipoint e Ricarica Veloce  Cuffie On-Ear Bluetooth con Connessione a Siri e Google  fino a 16h di Autonomia  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07HGG85HL/?tag=tolees00-21'
+descuento: '32.29'
+titulo: 'JBL Tune500BT Cuffie Wireless Sovraurali'
 ---
 
 Ahora mismo tienes [JBL Tune500BT Cuffie Wireless Sovraurali con Funzione Multipoint e Ricarica Veloce  Cuffie On-Ear Bluetooth con Connessione a Siri e Google  fino a 16h di Autonomia  Nero](https://www.amazon.it/dp/B07HGG85HL/?tag=tolees00-21) a 33.85 EUR (original: 49.99 EUR) (32.29 %  de descuento) en el siguiente enlace!
 
 [![JBL Tune500BT Cuffie Wireless Sovraurali](https://m.media-amazon.com/images/I/31tC+Zx88kL._SL200_.jpg)](https://www.amazon.it/dp/B07HGG85HL/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07HGG85HL/?tag=tolees00-21)
 

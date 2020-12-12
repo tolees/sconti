@@ -28,11 +28,11 @@ Tienes [Playmobil Dollhouse 5167 - Casa delle Bambole Portatile  dai 4 anni](htt
 
 Características principales:
 
-- Playmobil Take Along Dollhouse with many figures and accessories to play in your own childrens room and on-the-go
 - Easy to take with you: Sufficient storage space for the individual parts (furnishings and doll accessories), smooth-running locking mechanism and practical carrying handle
 - Can be used every day: Manual for easy and stable construction, high-quality, easy cleaning with a damp cloth
 - Contents: 1 x Playmobil Dollhouse Take Along Modern Doll house, 129-piece playset with instructions: 1 x Dollhouse, 3 x figures, 125 x accessories, material: Plastic, L x W x H: 26.5 x 24 x 27 cm, weight: 1313 g, 5167
 - Playset for children ages 4+, ideal for childrens hands due to age-appropriate size, pleasant feel with rounded edges
+- Playmobil Take Along Dollhouse with many figures and accessories to play in your own childrens room and on-the-go
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0077QT4VG/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 511 Slim Fit Jeans  Manilla Leave al 43.66 % de descuento'
 date: 2020-10-23 08:12:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ryDleJ1tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ryDleJ1tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ryDleJ1tL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 120.0 EUR
 inStock: true
 prodname: 'Levi s 511 Slim Fit Jeans  Manilla Leaves Adapt  34W / 30L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZVRXK9V/?tag=tolees00-21'
+descuento: '43.66'
+titulo: 'Levi s 511 Slim Fit Jeans  Manilla Leave'
 ---
 
 Está [Levi s 511 Slim Fit Jeans  Manilla Leaves Adapt  34W / 30L Uomo](https://www.amazon.it/dp/B07ZVRXK9V/?tag=tolees00-21) con 43.66 de descuento por 67.61 EUR (original: 120.0 EUR) en el siguiente enlace!
 
 [![Levi s 511 Slim Fit Jeans  Manilla Leave](https://m.media-amazon.com/images/I/41ryDleJ1tL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVRXK9V/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZVRXK9V/?tag=tolees00-21)
 

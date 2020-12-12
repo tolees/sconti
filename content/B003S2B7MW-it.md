@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.66 % en Vans Herren OTW T-Shirt  Schwarz  BLACK-'
 date: 2020-11-24 03:51:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/316x7KfAJiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316x7KfAJiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316x7KfAJiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.25 EUR
 inStock: true
 prodname: 'Vans Herren OTW T-Shirt  Schwarz  BLACK-WHITE Y28   Large'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B003S2B7MW/?tag=tolees00-21'
+descuento: '37.66'
+titulo: 'Vans Herren OTW T-Shirt  Schwarz  BLACK-'
 ---
 
 Tienes [Vans Herren OTW T-Shirt  Schwarz  BLACK-WHITE Y28   Large](https://www.amazon.it/dp/B003S2B7MW/?tag=tolees00-21) con un 37.66 % de descuento con precio de oferta de 12.0 EUR (original: 19.25 EUR) en el siguiente enlace!
 
 [![Vans Herren OTW T-Shirt  Schwarz  BLACK-](https://m.media-amazon.com/images/I/316x7KfAJiL._SL200_.jpg)](https://www.amazon.it/dp/B003S2B7MW/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B003S2B7MW/?tag=tolees00-21)
 

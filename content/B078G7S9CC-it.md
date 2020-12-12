@@ -3,6 +3,7 @@ layout: post
 title: 'Yankee Candela in Giara Grande al 54.74 % de descuento'
 date: 2020-11-16 09:31:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/417t4+BYGiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417t4+BYGiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417t4+BYGiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 41.96 EUR
 inStock: true
 prodname: 'Yankee Candela in Giara Grande'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B078G7S9CC/?tag=tolees00-21'
+descuento: '54.74'
+titulo: 'Yankee Candela in Giara Grande'
 ---
 
 Está [Yankee Candela in Giara Grande](https://www.amazon.it/dp/B078G7S9CC/?tag=tolees00-21) con 54.74 de descuento por 18.99 EUR (original: 41.96 EUR) en el siguiente enlace!
 
 [![Yankee Candela in Giara Grande](https://m.media-amazon.com/images/I/417t4+BYGiL._SL200_.jpg)](https://www.amazon.it/dp/B078G7S9CC/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B078G7S9CC/?tag=tolees00-21)
 

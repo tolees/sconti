@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Luke Jeans Slim  Blu  Dark Stonewash al 57.66 % de descuento'
 date: 2020-12-09 16:23:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41E+eiUS2OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41E+eiUS2OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41E+eiUS2OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Lee Luke Jeans Slim  Blu  Dark Stonewash 46   W31/L32  Taglia Unica: 31/32  Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VLPBTDF/?tag=tolees00-21'
+descuento: '57.66'
+titulo: 'Lee Luke Jeans Slim  Blu  Dark Stonewash'
 ---
 
 Está [Lee Luke Jeans Slim  Blu  Dark Stonewash 46   W31/L32  Taglia Unica: 31/32  Uomo](https://www.amazon.it/dp/B07VLPBTDF/?tag=tolees00-21) con 57.66 de descuento por 35.99 EUR (original: 85.0 EUR) en el siguiente enlace!
 
 [![Lee Luke Jeans Slim  Blu  Dark Stonewash](https://m.media-amazon.com/images/I/41E+eiUS2OL._SL200_.jpg)](https://www.amazon.it/dp/B07VLPBTDF/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VLPBTDF/?tag=tolees00-21)
 

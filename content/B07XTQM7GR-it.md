@@ -3,6 +3,7 @@ layout: post
 title: 'Health Hack Whey Protein 80%  proteine d al 40.01 % de descuento'
 date: 2020-11-02 10:07:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rwctCYFiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rwctCYFiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rwctCYFiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Health Hack Whey Protein 80%  proteine del siero del latte  2 5 kg  torta di compleanno'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07XTQM7GR/?tag=tolees00-21'
+descuento: '40.01'
+titulo: 'Health Hack Whey Protein 80%  proteine d'
 ---
 
 Ahora mismo tienes [Health Hack Whey Protein 80%  proteine del siero del latte  2 5 kg  torta di compleanno](https://www.amazon.it/dp/B07XTQM7GR/?tag=tolees00-21) a 21.59 EUR (original: 35.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
 [![Health Hack Whey Protein 80%  proteine d](https://m.media-amazon.com/images/I/41rwctCYFiL._SL200_.jpg)](https://www.amazon.it/dp/B07XTQM7GR/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07XTQM7GR/?tag=tolees00-21)
 

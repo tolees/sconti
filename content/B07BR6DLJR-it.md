@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Oversized Batwing Beanie Cuffia   al 31.63 % de descuento'
 date: 2020-10-27 08:47:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lG85MCarL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lG85MCarL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lG85MCarL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.0 EUR
 inStock: true
 prodname: 'Levi s Oversized Batwing Beanie Cuffia  Nero  Noir Regular Black 59   Taglia Unica Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07BR6DLJR/?tag=tolees00-21'
+descuento: '31.63'
+titulo: 'Levi s Oversized Batwing Beanie Cuffia  '
 ---
 
 Está [Levi s Oversized Batwing Beanie Cuffia  Nero  Noir Regular Black 59   Taglia Unica Uomo](https://www.amazon.it/dp/B07BR6DLJR/?tag=tolees00-21) con 31.63 de descuento por 12.99 EUR (original: 19.0 EUR) en el siguiente enlace!
 
 [![Levi s Oversized Batwing Beanie Cuffia  ](https://m.media-amazon.com/images/I/51lG85MCarL._SL200_.jpg)](https://www.amazon.it/dp/B07BR6DLJR/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07BR6DLJR/?tag=tolees00-21)
 

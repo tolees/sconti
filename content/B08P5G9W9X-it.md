@@ -3,6 +3,7 @@ layout: post
 title: 'Riyth Hard Disk 2 TB Esterno Hard Disk E al 43.72 % de descuento'
 date: 2020-12-08 02:34:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+oDnAEfRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+oDnAEfRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+oDnAEfRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 113.7 EUR
 inStock: true
 prodname: 'Riyth Hard Disk 2 TB Esterno Hard Disk Esterno Portatile USB3.1 SATA HDD Storage per PC  Xbox  Desktop  Laptop 2TB Nero '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08P5G9W9X/?tag=tolees00-21'
+descuento: '43.72'
+titulo: 'Riyth Hard Disk 2 TB Esterno Hard Disk E'
 ---
 
 Está [Riyth Hard Disk 2 TB Esterno Hard Disk Esterno Portatile USB3.1 SATA HDD Storage per PC  Xbox  Desktop  Laptop 2TB Nero ](https://www.amazon.it/dp/B08P5G9W9X/?tag=tolees00-21) con 43.72 de descuento por 63.99 EUR (original: 113.7 EUR) en el siguiente enlace!
 
 [![Riyth Hard Disk 2 TB Esterno Hard Disk E](https://m.media-amazon.com/images/I/31+oDnAEfRL._SL200_.jpg)](https://www.amazon.it/dp/B08P5G9W9X/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08P5G9W9X/?tag=tolees00-21)
 

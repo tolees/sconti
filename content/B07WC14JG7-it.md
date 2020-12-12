@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO DUPLO Super Heroes Il Laboratorio d al 49.69 % de descuento'
 date: 2020-11-11 07:02:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51n7xTrrzuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51n7xTrrzuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51n7xTrrzuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.66 EUR
 inStock: true
 prodname: 'LEGO DUPLO Super Heroes Il Laboratorio dei Supereroi  Set di Costruzioni Ricco di Dettagli per Bambini 2+ Anni  con 3 Personaggi: Iron Man  Spider-Man e Captain America  più Veicoli e Accessori  10921'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07WC14JG7/?tag=tolees00-21'
+descuento: '49.69'
+titulo: 'LEGO DUPLO Super Heroes Il Laboratorio d'
 ---
 
 Está [LEGO DUPLO Super Heroes Il Laboratorio dei Supereroi  Set di Costruzioni Ricco di Dettagli per Bambini 2+ Anni  con 3 Personaggi: Iron Man  Spider-Man e Captain America  più Veicoli e Accessori  10921](https://www.amazon.it/dp/B07WC14JG7/?tag=tolees00-21) con 49.69 de descuento por 17.94 EUR (original: 35.66 EUR) en el siguiente enlace!
 
 [![LEGO DUPLO Super Heroes Il Laboratorio d](https://m.media-amazon.com/images/I/51n7xTrrzuL._SL200_.jpg)](https://www.amazon.it/dp/B07WC14JG7/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07WC14JG7/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas 8K 2020  Scarpe da Corsa Uomo  Co al 38.49 % de descuento'
 date: 2020-12-04 18:36:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fEpmBnTTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fEpmBnTTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fEpmBnTTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'adidas 8K 2020  Scarpe da Corsa Uomo  Core Black/Ftwr White/Core Black  42 2/3 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZQH34JN/?tag=tolees00-21'
+descuento: '38.49'
+titulo: 'adidas 8K 2020  Scarpe da Corsa Uomo  Co'
 ---
 
 Ahora mismo tienes [adidas 8K 2020  Scarpe da Corsa Uomo  Core Black/Ftwr White/Core Black  42 2/3 EU](https://www.amazon.it/dp/B07ZQH34JN/?tag=tolees00-21) a 39.95 EUR (original: 64.95 EUR) (38.49 %  de descuento) en el siguiente enlace!
 
 [![adidas 8K 2020  Scarpe da Corsa Uomo  Co](https://m.media-amazon.com/images/I/31fEpmBnTTL._SL200_.jpg)](https://www.amazon.it/dp/B07ZQH34JN/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07ZQH34JN/?tag=tolees00-21)
 

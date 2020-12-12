@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 527 Slim Boot Cut Jeans  Explorer al 34.46 % de descuento'
 date: 2020-12-11 09:54:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VizXBg5zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VizXBg5zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VizXBg5zL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.49 EUR
 inStock: true
 prodname: 'Levi s 527 Slim Boot Cut Jeans  Explorer  34W / 32L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00I7QKTRS/?tag=tolees00-21'
+descuento: '34.46'
+titulo: 'Levi s 527 Slim Boot Cut Jeans  Explorer'
 ---
 
 Está [Levi s 527 Slim Boot Cut Jeans  Explorer  34W / 32L Uomo](https://www.amazon.it/dp/B00I7QKTRS/?tag=tolees00-21) con 34.46 de descuento por 38.99 EUR (original: 59.49 EUR) en el siguiente enlace!

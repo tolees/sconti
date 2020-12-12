@@ -3,6 +3,7 @@ layout: post
 title: 'Energizer Alkaline Power Batterie Aa  24 al 29.64 % de descuento'
 date: 2020-11-02 11:28:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VeD0tP8jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VeD0tP8jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VeD0tP8jL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.9 EUR
 inStock: true
 prodname: 'Energizer Alkaline Power Batterie Aa  24 Pezzi'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07L49RDJH/?tag=tolees00-21'
+descuento: '29.64'
+titulo: 'Energizer Alkaline Power Batterie Aa  24'
 ---
 
 Ahora mismo tienes [Energizer Alkaline Power Batterie Aa  24 Pezzi](https://www.amazon.it/dp/B07L49RDJH/?tag=tolees00-21) a 9.78 EUR (original: 13.9 EUR) (29.64 %  de descuento) en el siguiente enlace!
 
 [![Energizer Alkaline Power Batterie Aa  24](https://m.media-amazon.com/images/I/41VeD0tP8jL._SL200_.jpg)](https://www.amazon.it/dp/B07L49RDJH/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07L49RDJH/?tag=tolees00-21)
 

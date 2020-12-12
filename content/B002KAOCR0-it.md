@@ -28,10 +28,10 @@ Ahora mismo tienes [Crocs Crocband Clogs  Ciabatte Unisex-Adulto  Navy  45/46 EU
 
 Características:
 
-- Comfortable fit with some space for the foot
-- Numerous ventilation openings
 - Fold-over heel strap
 - CROSLITE for feather-light padding and comfort
+- Comfortable fit with some space for the foot
+- Numerous ventilation openings
 
 [Visítala!!!](https://www.amazon.it/dp/B002KAOCR0/?tag=tolees00-21)
 

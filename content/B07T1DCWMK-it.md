@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Newport Bay Bumper Toe Oxford al 50.02 % de descuento'
 date: 2020-12-02 09:14:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31yP2KkDz8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yP2KkDz8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31yP2KkDz8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Timberland Newport Bay Bumper Toe Oxford Sneaker  Donna  Nero  Black  Tb0a28ky0011   39.5 EU  6.5 UK '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07T1DCWMK/?tag=tolees00-21'
+descuento: '50.02'
+titulo: 'Timberland Newport Bay Bumper Toe Oxford'
 ---
 
 Ahora mismo tienes [Timberland Newport Bay Bumper Toe Oxford Sneaker  Donna  Nero  Black  Tb0a28ky0011   39.5 EU  6.5 UK ](https://www.amazon.it/dp/B07T1DCWMK/?tag=tolees00-21) a 32.49 EUR (original: 65.0 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
 [![Timberland Newport Bay Bumper Toe Oxford](https://m.media-amazon.com/images/I/31yP2KkDz8L._SL200_.jpg)](https://www.amazon.it/dp/B07T1DCWMK/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07T1DCWMK/?tag=tolees00-21)
 

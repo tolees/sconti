@@ -3,6 +3,7 @@ layout: post
 title: 'SALOMON XA PRO 3D v8 GTX  Scarpe da Trai al 31.63 % de descuento'
 date: 2020-12-10 22:50:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wZDYvgPNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wZDYvgPNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wZDYvgPNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'SALOMON XA PRO 3D v8 GTX  Scarpe da Trail Running Uomo  Grigio  Urban Chic/Black/Lime Punch   45 1/3 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B081KGKWD2/?tag=tolees00-21'
+descuento: '31.63'
+titulo: 'SALOMON XA PRO 3D v8 GTX  Scarpe da Trai'
 ---
 
 Ahora mismo tienes [SALOMON XA PRO 3D v8 GTX  Scarpe da Trail Running Uomo  Grigio  Urban Chic/Black/Lime Punch   45 1/3 EU](https://www.amazon.it/dp/B081KGKWD2/?tag=tolees00-21) a 109.35 EUR (original: 159.95 EUR) (31.63 %  de descuento) en el siguiente enlace!
@@ -24,8 +28,8 @@ Ahora mismo tienes [SALOMON XA PRO 3D v8 GTX  Scarpe da Trail Running Uomo  Grig
 
 Características:
 
-- Colore: Urban Chic/Black/Lime Punch
 - Salomon
+- Colore: Urban Chic/Black/Lime Punch
 - Xa Pro 3D V8 GTX
 
 [Visítala!!!](https://www.amazon.it/dp/B081KGKWD2/?tag=tolees00-21)

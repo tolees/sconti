@@ -3,6 +3,7 @@ layout: post
 title: 'Giochi Uniti - Si  Oscuro Signore  Set B al 29.70 % de descuento'
 date: 2020-12-07 17:07:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AG+IT5VkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AG+IT5VkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AG+IT5VkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Giochi Uniti - Si  Oscuro Signore  Set Base  GU403'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B019CU51UC/?tag=tolees00-21'
+descuento: '29.70'
+titulo: 'Giochi Uniti - Si  Oscuro Signore  Set B'
 ---
 
 Está [Giochi Uniti - Si  Oscuro Signore  Set Base  GU403](https://www.amazon.it/dp/B019CU51UC/?tag=tolees00-21) con 29.70 de descuento por 13.99 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![Giochi Uniti - Si  Oscuro Signore  Set B](https://m.media-amazon.com/images/I/51AG+IT5VkL._SL200_.jpg)](https://www.amazon.it/dp/B019CU51UC/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B019CU51UC/?tag=tolees00-21)
 

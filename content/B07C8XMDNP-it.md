@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.99 % en Vans Ward  Sneaker Uomo  Nero   Canvas  '
 date: 2020-10-12 23:52:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a0HK+XPyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a0HK+XPyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a0HK+XPyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 70.0 EUR
 inStock: true
 prodname: 'Vans Ward  Sneaker Uomo  Nero   Canvas  Black 186   48 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07C8XMDNP/?tag=tolees00-21'
+descuento: '25.99'
+titulo: 'Vans Ward  Sneaker Uomo  Nero   Canvas  '
 ---
 
 Tienes [Vans Ward  Sneaker Uomo  Nero   Canvas  Black 186   48 EU](https://www.amazon.it/dp/B07C8XMDNP/?tag=tolees00-21) con un 25.99 % de descuento con precio de oferta de 51.81 EUR (original: 70.0 EUR) en el siguiente enlace!
 
 [![Vans Ward  Sneaker Uomo  Nero   Canvas  ](https://m.media-amazon.com/images/I/41a0HK+XPyL._SL200_.jpg)](https://www.amazon.it/dp/B07C8XMDNP/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07C8XMDNP/?tag=tolees00-21)
 

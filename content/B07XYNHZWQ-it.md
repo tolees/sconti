@@ -3,6 +3,7 @@ layout: post
 title: 'Head & Shoulders Citrus Fresh Shampoo An al 42.25 % de descuento'
 date: 2020-11-27 07:50:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rHEy2SsdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rHEy2SsdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rHEy2SsdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Head & Shoulders Citrus Fresh Shampoo Antiforfora per Capelli Grassi 2 in 1  Maxi Formato Pacco da 3 x 540 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07XYNHZWQ/?tag=tolees00-21'
+descuento: '42.25'
+titulo: 'Head & Shoulders Citrus Fresh Shampoo An'
 ---
 
 Está [Head & Shoulders Citrus Fresh Shampoo Antiforfora per Capelli Grassi 2 in 1  Maxi Formato Pacco da 3 x 540 ml](https://www.amazon.it/dp/B07XYNHZWQ/?tag=tolees00-21) con 42.25 de descuento por 10.39 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![Head & Shoulders Citrus Fresh Shampoo An](https://m.media-amazon.com/images/I/51rHEy2SsdL._SL200_.jpg)](https://www.amazon.it/dp/B07XYNHZWQ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07XYNHZWQ/?tag=tolees00-21)
 

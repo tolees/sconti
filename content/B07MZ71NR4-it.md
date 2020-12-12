@@ -3,6 +3,7 @@ layout: post
 title: 'Marchio Amazon - find. Maglione Girocoll al 61.49 % de descuento'
 date: 2020-11-12 10:10:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cMMdmHZ3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cMMdmHZ3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cMMdmHZ3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 43.81 EUR
 inStock: true
 prodname: 'Marchio Amazon - find. Maglione Girocollo Uomo  Multicolour  Black / Grey   L  Label: L'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MZ71NR4/?tag=tolees00-21'
+descuento: '61.49'
+titulo: 'Marchio Amazon - find. Maglione Girocoll'
 ---
 
 Está [Marchio Amazon - find. Maglione Girocollo Uomo  Multicolour  Black / Grey   L  Label: L](https://www.amazon.it/dp/B07MZ71NR4/?tag=tolees00-21) con 61.49 de descuento por 16.87 EUR (original: 43.81 EUR) en el siguiente enlace!
 
 [![Marchio Amazon - find. Maglione Girocoll](https://m.media-amazon.com/images/I/41cMMdmHZ3L._SL200_.jpg)](https://www.amazon.it/dp/B07MZ71NR4/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MZ71NR4/?tag=tolees00-21)
 

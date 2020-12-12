@@ -3,6 +3,7 @@ layout: post
 title: 'Philips 6800 series 50PUS6814/12 50" 4K  al 33.39 % de descuento'
 date: 2020-11-22 08:39:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qJTXySxJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qJTXySxJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qJTXySxJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 629.0 EUR
 inStock: true
 prodname: 'Philips 6800 series 50PUS6814/12 50" 4K UHD Smart TV  Amazon Alexa built-in  Ambilight  HDR 10+  Dolby Vision  Dolby Atmos'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07RM2QSB1/?tag=tolees00-21'
+descuento: '33.39'
+titulo: 'Philips 6800 series 50PUS6814/12 50" 4K '
 ---
 
 Está [Philips 6800 series 50PUS6814/12 50" 4K UHD Smart TV  Amazon Alexa built-in  Ambilight  HDR 10+  Dolby Vision  Dolby Atmos](https://www.amazon.it/dp/B07RM2QSB1/?tag=tolees00-21) con 33.39 de descuento por 419.0 EUR (original: 629.0 EUR) en el siguiente enlace!
 
 [![Philips 6800 series 50PUS6814/12 50" 4K ](https://m.media-amazon.com/images/I/41qJTXySxJL._SL200_.jpg)](https://www.amazon.it/dp/B07RM2QSB1/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07RM2QSB1/?tag=tolees00-21)
 

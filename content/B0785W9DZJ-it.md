@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour T-shirt Uomo Tech ADY/GPH M al 49.98 % de descuento'
 date: 2020-11-30 16:27:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nldmujZYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nldmujZYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nldmujZYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Under Armour T-shirt Uomo Tech ADY/GPH MD'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B0785W9DZJ/?tag=tolees00-21'
+descuento: '49.98'
+titulo: 'Under Armour T-shirt Uomo Tech ADY/GPH M'
 ---
 
 Ahora mismo tienes [Under Armour T-shirt Uomo Tech ADY/GPH MD](https://www.amazon.it/dp/B0785W9DZJ/?tag=tolees00-21) a 14.0 EUR (original: 27.99 EUR) (49.98 %  de descuento) en el siguiente enlace!
 
 [![Under Armour T-shirt Uomo Tech ADY/GPH M](https://m.media-amazon.com/images/I/41nldmujZYL._SL200_.jpg)](https://www.amazon.it/dp/B0785W9DZJ/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B0785W9DZJ/?tag=tolees00-21)
 

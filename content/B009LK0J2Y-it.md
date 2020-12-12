@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite S Cure DLX Spinner 75 Bagaglio al 38.69 % de descuento'
 date: 2020-12-08 09:53:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DKeZNbBkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DKeZNbBkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DKeZNbBkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 229.0 EUR
 inStock: true
 prodname: 'Samsonite S Cure DLX Spinner 75 Bagaglio a Mano  L  75cm-102L   Blu  Midnight Blue '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B009LK0J2Y/?tag=tolees00-21'
+descuento: '38.69'
+titulo: 'Samsonite S Cure DLX Spinner 75 Bagaglio'
 ---
 
 Ahora mismo tienes [Samsonite S Cure DLX Spinner 75 Bagaglio a Mano  L  75cm-102L   Blu  Midnight Blue ](https://www.amazon.it/dp/B009LK0J2Y/?tag=tolees00-21) a 140.4 EUR (original: 229.0 EUR) (38.69 %  de descuento) en el siguiente enlace!
 
 [![Samsonite S Cure DLX Spinner 75 Bagaglio](https://m.media-amazon.com/images/I/41DKeZNbBkL._SL200_.jpg)](https://www.amazon.it/dp/B009LK0J2Y/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B009LK0J2Y/?tag=tolees00-21)
 

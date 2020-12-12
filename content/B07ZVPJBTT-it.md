@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Graphic PO Hoodie B Felpa con Cap al 53.39 % de descuento'
 date: 2020-11-26 09:32:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NArm3WqGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NArm3WqGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NArm3WqGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 75.0 EUR
 inStock: true
 prodname: 'Levi s Graphic PO Hoodie B Felpa con Cappuccio  HM Pop Co Black  L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZVPJBTT/?tag=tolees00-21'
+descuento: '53.39'
+titulo: 'Levi s Graphic PO Hoodie B Felpa con Cap'
 ---
 
 Está [Levi s Graphic PO Hoodie B Felpa con Cappuccio  HM Pop Co Black  L Uomo](https://www.amazon.it/dp/B07ZVPJBTT/?tag=tolees00-21) con 53.39 de descuento por 34.96 EUR (original: 75.0 EUR) en el siguiente enlace!
 
 [![Levi s Graphic PO Hoodie B Felpa con Cap](https://m.media-amazon.com/images/I/41NArm3WqGL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVPJBTT/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZVPJBTT/?tag=tolees00-21)
 

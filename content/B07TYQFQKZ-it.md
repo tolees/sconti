@@ -3,6 +3,7 @@ layout: post
 title: 'SUPERGA 2750 Cotu Classic  Scarpe da Gin al 71.49 % de descuento'
 date: 2020-10-27 11:57:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EjfJtjBSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EjfJtjBSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EjfJtjBSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.0 EUR
 inStock: true
 prodname: 'SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Unisex Adulto  Arancione  Orange Melon 230   47 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TYQFQKZ/?tag=tolees00-21'
+descuento: '71.49'
+titulo: 'SUPERGA 2750 Cotu Classic  Scarpe da Gin'
 ---
 
 Está [SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Unisex Adulto  Arancione  Orange Melon 230   47 EU](https://www.amazon.it/dp/B07TYQFQKZ/?tag=tolees00-21) con 71.49 de descuento por 16.82 EUR (original: 59.0 EUR) en el siguiente enlace!
 
 [![SUPERGA 2750 Cotu Classic  Scarpe da Gin](https://m.media-amazon.com/images/I/41EjfJtjBSL._SL200_.jpg)](https://www.amazon.it/dp/B07TYQFQKZ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07TYQFQKZ/?tag=tolees00-21)
 

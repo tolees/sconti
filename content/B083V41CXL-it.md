@@ -3,6 +3,7 @@ layout: post
 title: 'Bottega Verde - Crema mani Karite d Afri al 48.18 % de descuento'
 date: 2020-12-10 11:20:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31BxGsygSjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BxGsygSjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31BxGsygSjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.49 EUR
 inStock: true
 prodname: 'Bottega Verde - Crema mani Karite d Africa idratante nutriente -con burro di Karite  75 ml  - pelli normali o secche'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B083V41CXL/?tag=tolees00-21'
+descuento: '48.18'
+titulo: 'Bottega Verde - Crema mani Karite d Afri'
 ---
 
 Está [Bottega Verde - Crema mani Karite d Africa idratante nutriente -con burro di Karite  75 ml  - pelli normali o secche](https://www.amazon.it/dp/B083V41CXL/?tag=tolees00-21) con 48.18 de descuento por 6.99 EUR (original: 13.49 EUR) en el siguiente enlace!
 
 [![Bottega Verde - Crema mani Karite d Afri](https://m.media-amazon.com/images/I/31BxGsygSjL._SL200_.jpg)](https://www.amazon.it/dp/B083V41CXL/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B083V41CXL/?tag=tolees00-21)
 

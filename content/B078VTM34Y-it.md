@@ -3,6 +3,7 @@ layout: post
 title: 'Bruni Pellicola Protettiva per Mediacom  al 41.42 % de descuento'
 date: 2020-12-03 08:30:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dGy6dphJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dGy6dphJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dGy6dphJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.59 EUR
 inStock: true
 prodname: 'Bruni Pellicola Protettiva per Mediacom SmartPad HX 10 HD Pellicola Proteggi  Cristallino Proteggi Schermo  2X '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B078VTM34Y/?tag=tolees00-21'
+descuento: '41.42'
+titulo: 'Bruni Pellicola Protettiva per Mediacom '
 ---
 
 Está [Bruni Pellicola Protettiva per Mediacom SmartPad HX 10 HD Pellicola Proteggi  Cristallino Proteggi Schermo  2X ](https://www.amazon.it/dp/B078VTM34Y/?tag=tolees00-21) con 41.42 de descuento por 6.79 EUR (original: 11.59 EUR) en el siguiente enlace!
 
 [![Bruni Pellicola Protettiva per Mediacom ](https://m.media-amazon.com/images/I/51dGy6dphJL._SL200_.jpg)](https://www.amazon.it/dp/B078VTM34Y/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B078VTM34Y/?tag=tolees00-21)
 

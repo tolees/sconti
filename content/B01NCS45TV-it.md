@@ -3,6 +3,7 @@ layout: post
 title: 'Severin ES 3566 Centrifuga Professionale al 25.01 % de descuento'
 date: 2020-11-21 17:54:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/410yKZmuLJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410yKZmuLJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410yKZmuLJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Severin ES 3566 Centrifuga Professionale Inox  400 W  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01NCS45TV/?tag=tolees00-21'
+descuento: '25.01'
+titulo: 'Severin ES 3566 Centrifuga Professionale'
 ---
 
 Está [Severin ES 3566 Centrifuga Professionale Inox  400 W  Nero](https://www.amazon.it/dp/B01NCS45TV/?tag=tolees00-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Severin ES 3566 Centrifuga Professionale](https://m.media-amazon.com/images/I/410yKZmuLJL._SL200_.jpg)](https://www.amazon.it/dp/B01NCS45TV/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01NCS45TV/?tag=tolees00-21)
 

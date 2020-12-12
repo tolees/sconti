@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.00 % en LEGO City - Auto da rally del deserto  6'
 date: 2020-11-19 19:58:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51U6Fyir4VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51U6Fyir4VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51U6Fyir4VL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 20.6 EUR
 inStock: true
 prodname: 'LEGO City - Auto da rally del deserto  60218'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07FNW8PG6/?tag=tolees00-21'
+descuento: '35.00'
+titulo: 'LEGO City - Auto da rally del deserto  6'
 ---
 
 Tienes [LEGO City - Auto da rally del deserto  60218](https://www.amazon.it/dp/B07FNW8PG6/?tag=tolees00-21) con un 35.00 % de descuento con precio de oferta de 13.39 EUR (original: 20.6 EUR) en el siguiente enlace!
 
 [![LEGO City - Auto da rally del deserto  6](https://m.media-amazon.com/images/I/51U6Fyir4VL._SL200_.jpg)](https://www.amazon.it/dp/B07FNW8PG6/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07FNW8PG6/?tag=tolees00-21)
 

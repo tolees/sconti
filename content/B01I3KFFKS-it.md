@@ -3,6 +3,7 @@ layout: post
 title: 'Ravensburger Porsche 911 - Puzzle 3D Vei al 31.59 % de descuento'
 date: 2020-11-08 03:32:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Hmuj54ozL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Hmuj54ozL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Hmuj54ozL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.41 EUR
 inStock: true
 prodname: 'Ravensburger Porsche 911 - Puzzle 3D Veicoli'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01I3KFFKS/?tag=tolees00-21'
+descuento: '31.59'
+titulo: 'Ravensburger Porsche 911 - Puzzle 3D Vei'
 ---
 
 Está [Ravensburger Porsche 911 - Puzzle 3D Veicoli](https://www.amazon.it/dp/B01I3KFFKS/?tag=tolees00-21) con 31.59 de descuento por 16.7 EUR (original: 24.41 EUR) en el siguiente enlace!
 
 [![Ravensburger Porsche 911 - Puzzle 3D Vei](https://m.media-amazon.com/images/I/51Hmuj54ozL._SL200_.jpg)](https://www.amazon.it/dp/B01I3KFFKS/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01I3KFFKS/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Bourjois Kit Sopracciglia Perfette Brow  al 73.84 % de descuento'
 date: 2020-11-24 10:50:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/414bYN1bNVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414bYN1bNVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414bYN1bNVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.19 EUR
 inStock: true
 prodname: 'Bourjois Kit Sopracciglia Perfette Brow Palette  Cera Modellante  Polvere e Illuminante  02 Brunette'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06XD7HNHR/?tag=tolees00-21'
+descuento: '73.84'
+titulo: 'Bourjois Kit Sopracciglia Perfette Brow '
 ---
 
 Está [Bourjois Kit Sopracciglia Perfette Brow Palette  Cera Modellante  Polvere e Illuminante  02 Brunette](https://www.amazon.it/dp/B06XD7HNHR/?tag=tolees00-21) con 73.84 de descuento por 5.02 EUR (original: 19.19 EUR) en el siguiente enlace!
 
 [![Bourjois Kit Sopracciglia Perfette Brow ](https://m.media-amazon.com/images/I/414bYN1bNVL._SL200_.jpg)](https://www.amazon.it/dp/B06XD7HNHR/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B06XD7HNHR/?tag=tolees00-21)
 

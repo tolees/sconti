@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.00 % en Eastpak Orbit Mini Zaino  34 Cm  10 L  G'
 date: 2020-11-26 12:38:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/412vCC82yfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412vCC82yfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412vCC82yfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.0 EUR
 inStock: true
 prodname: 'Eastpak Orbit Mini Zaino  34 Cm  10 L  Grigio  Sunday Grey '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B003PPCYAQ/?tag=tolees00-21'
+descuento: '80.00'
+titulo: 'Eastpak Orbit Mini Zaino  34 Cm  10 L  G'
 ---
 
 Tienes [Eastpak Orbit Mini Zaino  34 Cm  10 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCYAQ/?tag=tolees00-21) con un 80.00 % de descuento con precio de oferta de 9.0 EUR (original: 45.0 EUR) en el siguiente enlace!
 
 [![Eastpak Orbit Mini Zaino  34 Cm  10 L  G](https://m.media-amazon.com/images/I/412vCC82yfL._SL200_.jpg)](https://www.amazon.it/dp/B003PPCYAQ/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B003PPCYAQ/?tag=tolees00-21)
 

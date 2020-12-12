@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Sportswear Logo Graphic Maglietta al 40.03 % de descuento'
 date: 2020-11-17 07:08:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y3gYskt8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Y3gYskt8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y3gYskt8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 30.0 EUR
 inStock: true
 prodname: 'Levi s Sportswear Logo Graphic Maglietta  Black  Ssnl SW Gradient Mineral Black 0031   Medium Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TJ9SDG6/?tag=tolees00-21'
+descuento: '40.03'
+titulo: 'Levi s Sportswear Logo Graphic Maglietta'
 ---
 
 Está [Levi s Sportswear Logo Graphic Maglietta  Black  Ssnl SW Gradient Mineral Black 0031   Medium Uomo](https://www.amazon.it/dp/B07TJ9SDG6/?tag=tolees00-21) con 40.03 de descuento por 17.99 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![Levi s Sportswear Logo Graphic Maglietta](https://m.media-amazon.com/images/I/41Y3gYskt8L._SL200_.jpg)](https://www.amazon.it/dp/B07TJ9SDG6/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07TJ9SDG6/?tag=tolees00-21)
 

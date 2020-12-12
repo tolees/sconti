@@ -3,6 +3,7 @@ layout: post
 title: 'Carhartt Rockford Jacket Giacca  Militar al 42.62 % de descuento'
 date: 2020-11-21 19:32:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AEgZRuFuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AEgZRuFuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AEgZRuFuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Carhartt Rockford Jacket Giacca  Military Olive  S Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KBPDZ7Z/?tag=tolees00-21'
+descuento: '42.62'
+titulo: 'Carhartt Rockford Jacket Giacca  Militar'
 ---
 
 Ahora mismo tienes [Carhartt Rockford Jacket Giacca  Military Olive  S Uomo](https://www.amazon.it/dp/B07KBPDZ7Z/?tag=tolees00-21) a 39.59 EUR (original: 69.0 EUR) (42.62 %  de descuento) en el siguiente enlace!
 
 [![Carhartt Rockford Jacket Giacca  Militar](https://m.media-amazon.com/images/I/41AEgZRuFuL._SL200_.jpg)](https://www.amazon.it/dp/B07KBPDZ7Z/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07KBPDZ7Z/?tag=tolees00-21)
 

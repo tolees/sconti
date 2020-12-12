@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Basic Brief 2P Slip Uomo  Blu  L al 28.59 % de descuento'
 date: 2020-10-30 09:22:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Cew3zm3lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Cew3zm3lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Cew3zm3lL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Puma Basic Brief 2P Slip Uomo  Blu  L'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01ID9TD52/?tag=tolees00-21'
+descuento: '28.59'
+titulo: 'Puma Basic Brief 2P Slip Uomo  Blu  L'
 ---
 
 Ahora mismo tienes [Puma Basic Brief 2P Slip Uomo  Blu  L](https://www.amazon.it/dp/B01ID9TD52/?tag=tolees00-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!
 
 [![Puma Basic Brief 2P Slip Uomo  Blu  L](https://m.media-amazon.com/images/I/41Cew3zm3lL._SL200_.jpg)](https://www.amazon.it/dp/B01ID9TD52/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01ID9TD52/?tag=tolees00-21)
 

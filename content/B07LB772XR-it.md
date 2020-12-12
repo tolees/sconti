@@ -3,6 +3,7 @@ layout: post
 title: 'Bowflex PR1000 stazione fitness multifun al 25.72 % de descuento'
 date: 2020-10-26 09:46:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lrb+g4u8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lrb+g4u8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lrb+g4u8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 646.22 EUR
 inStock: true
 prodname: 'Bowflex PR1000 stazione fitness multifunzione compatta'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07LB772XR/?tag=tolees00-21'
+descuento: '25.72'
+titulo: 'Bowflex PR1000 stazione fitness multifun'
 ---
 
 Ahora mismo tienes [Bowflex PR1000 stazione fitness multifunzione compatta](https://www.amazon.it/dp/B07LB772XR/?tag=tolees00-21) a 479.99 EUR (original: 646.22 EUR) (25.72 %  de descuento) en el siguiente enlace!
 
 [![Bowflex PR1000 stazione fitness multifun](https://m.media-amazon.com/images/I/41lrb+g4u8L._SL200_.jpg)](https://www.amazon.it/dp/B07LB772XR/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07LB772XR/?tag=tolees00-21)
 

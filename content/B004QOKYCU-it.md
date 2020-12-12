@@ -3,6 +3,7 @@ layout: post
 title: 'Yankee Candle - Candela profumata  Basto al 32.15 % de descuento'
 date: 2020-11-12 17:37:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nXDqYskCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nXDqYskCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nXDqYskCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Yankee Candle - Candela profumata  Bastoncino di cannella  Giara grande'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B004QOKYCU/?tag=tolees00-21'
+descuento: '32.15'
+titulo: 'Yankee Candle - Candela profumata  Basto'
 ---
 
 Está [Yankee Candle - Candela profumata  Bastoncino di cannella  Giara grande](https://www.amazon.it/dp/B004QOKYCU/?tag=tolees00-21) con 32.15 de descuento por 18.99 EUR (original: 27.99 EUR) en el siguiente enlace!
 
 [![Yankee Candle - Candela profumata  Basto](https://m.media-amazon.com/images/I/41nXDqYskCL._SL200_.jpg)](https://www.amazon.it/dp/B004QOKYCU/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B004QOKYCU/?tag=tolees00-21)
 

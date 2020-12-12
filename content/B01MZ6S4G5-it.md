@@ -3,6 +3,7 @@ layout: post
 title: 'Diadora - Sneakers Game L High Waxed per al 50.01 % de descuento'
 date: 2020-10-17 06:23:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XJ9sEP+eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XJ9sEP+eL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XJ9sEP+eL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 100.0 EUR
 inStock: true
 prodname: 'Diadora - Sneakers Game L High Waxed per Uomo e Donna  EU 42 '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21'
+descuento: '50.01'
+titulo: 'Diadora - Sneakers Game L High Waxed per'
 ---
 
 Está [Diadora - Sneakers Game L High Waxed per Uomo e Donna  EU 42 ](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21) con 50.01 de descuento por 49.99 EUR (original: 100.0 EUR) en el siguiente enlace!
 
 [![Diadora - Sneakers Game L High Waxed per](https://m.media-amazon.com/images/I/31XJ9sEP+eL._SL200_.jpg)](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21)
 

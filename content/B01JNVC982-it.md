@@ -3,6 +3,7 @@ layout: post
 title: 'The Following Stg.3  Box 3 Br  al 73.36 % de descuento'
 date: 2020-11-23 06:05:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/61QAjOGGSGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61QAjOGGSGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61QAjOGGSGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'The Following Stg.3  Box 3 Br '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01JNVC982/?tag=tolees00-21'
+descuento: '73.36'
+titulo: 'The Following Stg.3  Box 3 Br '
 ---
 
 Ahora mismo tienes [The Following Stg.3  Box 3 Br ](https://www.amazon.it/dp/B01JNVC982/?tag=tolees00-21) a 7.99 EUR (original: 29.99 EUR) (73.36 %  de descuento) en el siguiente enlace!
 
 [![The Following Stg.3  Box 3 Br ](https://m.media-amazon.com/images/I/61QAjOGGSGL._SL200_.jpg)](https://www.amazon.it/dp/B01JNVC982/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01JNVC982/?tag=tolees00-21)
 

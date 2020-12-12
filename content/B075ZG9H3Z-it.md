@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.45 % en Fujifilm Instax Mini 9 + 10 Mini Film Is'
 date: 2020-12-01 08:07:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/4118igQRULL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4118igQRULL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4118igQRULL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Fujifilm Instax Mini 9 + 10 Mini Film Istantanea per Stampe Formato 62x46 mm  Rosa'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B075ZG9H3Z/?tag=tolees00-21'
+descuento: '44.45'
+titulo: 'Fujifilm Instax Mini 9 + 10 Mini Film Is'
 ---
 
 Tienes [Fujifilm Instax Mini 9 + 10 Mini Film Istantanea per Stampe Formato 62x46 mm  Rosa](https://www.amazon.it/dp/B075ZG9H3Z/?tag=tolees00-21) con un 44.45 % de descuento con precio de oferta de 49.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![Fujifilm Instax Mini 9 + 10 Mini Film Is](https://m.media-amazon.com/images/I/4118igQRULL._SL200_.jpg)](https://www.amazon.it/dp/B075ZG9H3Z/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B075ZG9H3Z/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Brennenstuhl 1081025 Presa angolare per  al 30.77 % de descuento'
 date: 2020-11-27 09:48:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/318B7ZpZbML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318B7ZpZbML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318B7ZpZbML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.23 EUR
 inStock: true
 prodname: 'Brennenstuhl 1081025 Presa angolare per Caravan 400V/16A Schuko  IP44 '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01CGIWOG6/?tag=tolees00-21'
+descuento: '30.77'
+titulo: 'Brennenstuhl 1081025 Presa angolare per '
 ---
 
 Está [Brennenstuhl 1081025 Presa angolare per Caravan 400V/16A Schuko  IP44 ](https://www.amazon.it/dp/B01CGIWOG6/?tag=tolees00-21) con 30.77 de descuento por 6.39 EUR (original: 9.23 EUR) en el siguiente enlace!
 
 [![Brennenstuhl 1081025 Presa angolare per ](https://m.media-amazon.com/images/I/318B7ZpZbML._SL200_.jpg)](https://www.amazon.it/dp/B01CGIWOG6/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01CGIWOG6/?tag=tolees00-21)
 

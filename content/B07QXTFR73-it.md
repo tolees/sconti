@@ -3,6 +3,7 @@ layout: post
 title: 'Western Stars al 29.55 % de descuento'
 date: 2020-10-18 10:41:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51X+esyfBuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X+esyfBuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51X+esyfBuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.49 EUR
 inStock: true
 prodname: 'Western Stars'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07QXTFR73/?tag=tolees00-21'
+descuento: '29.55'
+titulo: 'Western Stars'
 ---
 
 Ahora mismo tienes [Western Stars](https://www.amazon.it/dp/B07QXTFR73/?tag=tolees00-21) a 7.39 EUR (original: 10.49 EUR) (29.55 %  de descuento) en el siguiente enlace!
 
 [![Western Stars](https://m.media-amazon.com/images/I/51X+esyfBuL._SL200_.jpg)](https://www.amazon.it/dp/B07QXTFR73/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07QXTFR73/?tag=tolees00-21)
 

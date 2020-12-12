@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.76 % en SUPERGA 2802-Cotw  Scarpe da Ginnastica '
 date: 2020-10-27 15:48:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31G44HhPqGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G44HhPqGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31G44HhPqGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 75.0 EUR
 inStock: true
 prodname: 'SUPERGA 2802-Cotw  Scarpe da Ginnastica con Piattaforma Donna  Nero  Full Black 996   36 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07P74GF6L/?tag=tolees00-21'
+descuento: '66.76'
+titulo: 'SUPERGA 2802-Cotw  Scarpe da Ginnastica '
 ---
 
 Tienes [SUPERGA 2802-Cotw  Scarpe da Ginnastica con Piattaforma Donna  Nero  Full Black 996   36 EU](https://www.amazon.it/dp/B07P74GF6L/?tag=tolees00-21) con un 66.76 % de descuento con precio de oferta de 24.93 EUR (original: 75.0 EUR) en el siguiente enlace!
 
 [![SUPERGA 2802-Cotw  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/31G44HhPqGL._SL200_.jpg)](https://www.amazon.it/dp/B07P74GF6L/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07P74GF6L/?tag=tolees00-21)
 

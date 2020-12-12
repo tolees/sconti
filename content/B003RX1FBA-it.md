@@ -30,9 +30,9 @@ Principales características:
 
 - Tipo di tacco: Senza tacco
 - Chiusura: Stringata
+- Fodera: Tessuto
 - Materiale esterno: Sintetico
 - Materiale suola: Gomma
-- Fodera: Tessuto
 
 [Ver la oferta!!](https://www.amazon.it/dp/B003RX1FBA/?tag=tolees00-21)
 

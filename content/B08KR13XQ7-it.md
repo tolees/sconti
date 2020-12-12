@@ -3,6 +3,7 @@ layout: post
 title: 'Need for Speed Hot Pursuit Remastered -  al 50.01 % de descuento'
 date: 2020-11-16 06:44:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oBXuyf8SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oBXuyf8SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oBXuyf8SL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Need for Speed Hot Pursuit Remastered - PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08KR13XQ7/?tag=tolees00-21'
+descuento: '50.01'
+titulo: 'Need for Speed Hot Pursuit Remastered - '
 ---
 
 Está [Need for Speed Hot Pursuit Remastered - PlayStation 4](https://www.amazon.it/dp/B08KR13XQ7/?tag=tolees00-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Need for Speed Hot Pursuit Remastered - ](https://m.media-amazon.com/images/I/51oBXuyf8SL._SL200_.jpg)](https://www.amazon.it/dp/B08KR13XQ7/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08KR13XQ7/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Duracell - 2032  Batteria Bottone al lit al 39.31 % de descuento'
 date: 2020-11-24 09:46:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51swRCOv5SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51swRCOv5SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51swRCOv5SL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Duracell - 2032  Batteria Bottone al litio 3V  confezione da 8  con Tecnologia Baby Secure per l uso su chiavi con sensore magnetico  bilance  elementi indossabili DL2032/CR2032'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06VW5BH2K/?tag=tolees00-21'
+descuento: '39.31'
+titulo: 'Duracell - 2032  Batteria Bottone al lit'
 ---
 
 Está [Duracell - 2032  Batteria Bottone al litio 3V  confezione da 8  con Tecnologia Baby Secure per l uso su chiavi con sensore magnetico  bilance  elementi indossabili DL2032/CR2032](https://www.amazon.it/dp/B06VW5BH2K/?tag=tolees00-21) con 39.31 de descuento por 8.49 EUR (original: 13.99 EUR) en el siguiente enlace!
 
 [![Duracell - 2032  Batteria Bottone al lit](https://m.media-amazon.com/images/I/51swRCOv5SL._SL200_.jpg)](https://www.amazon.it/dp/B06VW5BH2K/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B06VW5BH2K/?tag=tolees00-21)
 

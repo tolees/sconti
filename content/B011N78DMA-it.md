@@ -28,10 +28,10 @@ Ahora mismo tienes [Logitech G920 Driving Force Racing Wheel Volante da Corsa  P
 
 Características:
 
-- Immersive Gaming Experience: Perfect for Xbox One and PC gaming titles, the Driving Force simulates the feeling of driving a real car with precision steering and pressure-sensitive pedals
-- 900° Rotation: Lock-to-lock rotation of the Driving Force means you can turn the wheel around two and a half times, hand over hand on wide turns
-- Premium Control: The Driving Force feedback racing wheel provides a detailed simulation of driving a real car, with helical gearing delivering smooth, quiet steering and a hand-stitched leather cover
 - Up Your Game: Take your racing simulation to the next level with Driving Force accessories like the Driving Force Shifter or desk and rig mounts
+- 900° Rotation: Lock-to-lock rotation of the Driving Force means you can turn the wheel around two and a half times, hand over hand on wide turns
+- Immersive Gaming Experience: Perfect for Xbox One and PC gaming titles, the Driving Force simulates the feeling of driving a real car with precision steering and pressure-sensitive pedals
+- Premium Control: The Driving Force feedback racing wheel provides a detailed simulation of driving a real car, with helical gearing delivering smooth, quiet steering and a hand-stitched leather cover
 - Customisable Pedals: These pressure-sensitive nonlinear brake pedals provide a responsive, accurate braking feel on a sturdy base - with adjustable pedal faces for finer control
 
 [Visítala!!!](https://www.amazon.it/dp/B011N78DMA/?tag=tolees00-21)

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en Collezione Pruviniano in cassetta di leg'
 date: 2020-11-20 16:46:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w-O4oV7eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w-O4oV7eL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w-O4oV7eL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 66.0 EUR
 inStock: true
 prodname: 'Collezione Pruviniano in cassetta di legno: Valpolicella  Amarone e Ripasso Domini Veneti 0 75 L Cassetta di legno'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07XVR8J6V/?tag=tolees00-21'
+descuento: '25.00'
+titulo: 'Collezione Pruviniano in cassetta di leg'
 ---
 
 Tienes [Collezione Pruviniano in cassetta di legno: Valpolicella  Amarone e Ripasso Domini Veneti 0 75 L Cassetta di legno](https://www.amazon.it/dp/B07XVR8J6V/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 49.5 EUR (original: 66.0 EUR) en el siguiente enlace!
 
 [![Collezione Pruviniano in cassetta di leg](https://m.media-amazon.com/images/I/41w-O4oV7eL._SL200_.jpg)](https://www.amazon.it/dp/B07XVR8J6V/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07XVR8J6V/?tag=tolees00-21)
 

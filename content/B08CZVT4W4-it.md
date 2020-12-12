@@ -3,6 +3,7 @@ layout: post
 title: 'YAMAMAY® Costume Fascia - Mislita al 59.92 % de descuento'
 date: 2020-11-26 20:11:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ppfWtz7XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ppfWtz7XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ppfWtz7XL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'YAMAMAY® Costume Fascia - Mislita'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08CZVT4W4/?tag=tolees00-21'
+descuento: '59.92'
+titulo: 'YAMAMAY® Costume Fascia - Mislita'
 ---
 
 Está [YAMAMAY® Costume Fascia - Mislita](https://www.amazon.it/dp/B08CZVT4W4/?tag=tolees00-21) con 59.92 de descuento por 14.41 EUR (original: 35.95 EUR) en el siguiente enlace!
 
 [![YAMAMAY® Costume Fascia - Mislita](https://m.media-amazon.com/images/I/41ppfWtz7XL._SL200_.jpg)](https://www.amazon.it/dp/B08CZVT4W4/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08CZVT4W4/?tag=tolees00-21)
 

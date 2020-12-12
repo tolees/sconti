@@ -3,6 +3,7 @@ layout: post
 title: 'YAMAMAY® Pantaloncino Donna Effetto Pell al 61.74 % de descuento'
 date: 2020-11-20 14:34:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MwG2AfUaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MwG2AfUaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MwG2AfUaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'YAMAMAY® Pantaloncino Donna Effetto Pelle - Party'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B085YCKHVF/?tag=tolees00-21'
+descuento: '61.74'
+titulo: 'YAMAMAY® Pantaloncino Donna Effetto Pell'
 ---
 
 Está [YAMAMAY® Pantaloncino Donna Effetto Pelle - Party](https://www.amazon.it/dp/B085YCKHVF/?tag=tolees00-21) con 61.74 de descuento por 11.46 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![YAMAMAY® Pantaloncino Donna Effetto Pell](https://m.media-amazon.com/images/I/51MwG2AfUaL._SL200_.jpg)](https://www.amazon.it/dp/B085YCKHVF/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085YCKHVF/?tag=tolees00-21)
 

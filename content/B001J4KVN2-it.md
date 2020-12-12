@@ -3,6 +3,7 @@ layout: post
 title: '3M - Perfect-it III Pasta abrasiva Sotti al 44.89 % de descuento'
 date: 2020-10-13 12:54:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31x4F9cg71L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x4F9cg71L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31x4F9cg71L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 38.83 EUR
 inStock: true
 prodname: '3M - Perfect-it III Pasta abrasiva Sottile 09375  1 litro '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B001J4KVN2/?tag=tolees00-21'
+descuento: '44.89'
+titulo: '3M - Perfect-it III Pasta abrasiva Sotti'
 ---
 
 Está [3M - Perfect-it III Pasta abrasiva Sottile 09375  1 litro ](https://www.amazon.it/dp/B001J4KVN2/?tag=tolees00-21) con 44.89 de descuento por 21.4 EUR (original: 38.83 EUR) en el siguiente enlace!
 
 [![3M - Perfect-it III Pasta abrasiva Sotti](https://m.media-amazon.com/images/I/31x4F9cg71L._SL200_.jpg)](https://www.amazon.it/dp/B001J4KVN2/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B001J4KVN2/?tag=tolees00-21)
 

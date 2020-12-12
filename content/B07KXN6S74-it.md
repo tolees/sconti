@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en Xiaomi Mi Kit di Sicurezza  Automazione '
 date: 2020-12-10 20:12:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mvxlRzUkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mvxlRzUkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mvxlRzUkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Xiaomi Mi Kit di Sicurezza  Automazione Domotica Casa  Smart Home  Versione Italiana  Compatibile con dispisitivi Mi Home  Mini telecomando  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07KXN6S74/?tag=tolees00-21'
+descuento: '25.00'
+titulo: 'Xiaomi Mi Kit di Sicurezza  Automazione '
 ---
 
 Tienes [Xiaomi Mi Kit di Sicurezza  Automazione Domotica Casa  Smart Home  Versione Italiana  Compatibile con dispisitivi Mi Home  Mini telecomando  Bianco](https://www.amazon.it/dp/B07KXN6S74/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!
@@ -24,13 +28,13 @@ Tienes [Xiaomi Mi Kit di Sicurezza  Automazione Domotica Casa  Smart Home  Versi
 
 Características principales:
 
-- Temperatura di funzionamento: -5°C - +40°C
-- Mini telecomando di controlli degli oggetti collegati
 - Mi Control Hub: centro di controllo della tua casa smart
-- Compatibile con sistemi e dispositivi Mi Home
-- Campanello di allarme per porte e finestre
 - Installazione semplice
+- Campanello di allarme per porte e finestre
 - Rileva i movimenti umani e degli animali
+- Mini telecomando di controlli degli oggetti collegati
+- Compatibile con sistemi e dispositivi Mi Home
+- Temperatura di funzionamento: -5°C - +40°C
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07KXN6S74/?tag=tolees00-21)
 

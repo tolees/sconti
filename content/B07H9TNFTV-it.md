@@ -3,6 +3,7 @@ layout: post
 title: 'Laura Biagiotti Profumo - 75 Ml al 38.06 % de descuento'
 date: 2020-11-12 11:04:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xyM37LfeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xyM37LfeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xyM37LfeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.82 EUR
 inStock: true
 prodname: 'Laura Biagiotti Profumo - 75 Ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07H9TNFTV/?tag=tolees00-21'
+descuento: '38.06'
+titulo: 'Laura Biagiotti Profumo - 75 Ml'
 ---
 
 Está [Laura Biagiotti Profumo - 75 Ml](https://www.amazon.it/dp/B07H9TNFTV/?tag=tolees00-21) con 38.06 de descuento por 30.86 EUR (original: 49.82 EUR) en el siguiente enlace!
 
 [![Laura Biagiotti Profumo - 75 Ml](https://m.media-amazon.com/images/I/41xyM37LfeL._SL200_.jpg)](https://www.amazon.it/dp/B07H9TNFTV/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07H9TNFTV/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 311 Core  Scarpe da Ginnasti al 32.96 % de descuento'
 date: 2020-11-26 12:18:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/411aJlONuEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411aJlONuEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411aJlONuEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 52.0 EUR
 inStock: true
 prodname: 'New Balance 311 Core  Scarpe da Ginnastica Uomo  Grigio  Marblehead   42 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B081MFPR19/?tag=tolees00-21'
+descuento: '32.96'
+titulo: 'New Balance 311 Core  Scarpe da Ginnasti'
 ---
 
 Está [New Balance 311 Core  Scarpe da Ginnastica Uomo  Grigio  Marblehead   42 EU](https://www.amazon.it/dp/B081MFPR19/?tag=tolees00-21) con 32.96 de descuento por 34.86 EUR (original: 52.0 EUR) en el siguiente enlace!
 
 [![New Balance 311 Core  Scarpe da Ginnasti](https://m.media-amazon.com/images/I/411aJlONuEL._SL200_.jpg)](https://www.amazon.it/dp/B081MFPR19/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B081MFPR19/?tag=tolees00-21)
 

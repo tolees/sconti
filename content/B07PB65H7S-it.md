@@ -3,6 +3,7 @@ layout: post
 title: 'Days Gone - PlayStation 4 al 73.34 % de descuento'
 date: 2020-11-26 23:19:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/519TlaJzCwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519TlaJzCwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519TlaJzCwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'Days Gone - PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07PB65H7S/?tag=tolees00-21'
+descuento: '73.34'
+titulo: 'Days Gone - PlayStation 4'
 ---
 
 Está [Days Gone - PlayStation 4](https://www.amazon.it/dp/B07PB65H7S/?tag=tolees00-21) con 73.34 de descuento por 19.99 EUR (original: 74.99 EUR) en el siguiente enlace!
 
 [![Days Gone - PlayStation 4](https://m.media-amazon.com/images/I/519TlaJzCwL._SL200_.jpg)](https://www.amazon.it/dp/B07PB65H7S/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07PB65H7S/?tag=tolees00-21)
 

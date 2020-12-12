@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.70 % en OPPO A52 Smartphone   Display 6.5   LCD '
 date: 2020-11-29 10:12:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pkEQJ4PYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pkEQJ4PYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pkEQJ4PYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'OPPO A52 Smartphone   Display 6.5   LCD  4  Fotocamere 64GB Espandibili  RAM 4GB  Batteria 5000mAh  Dual Sim  2020 [Versione italiana]  Stream white'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B088KNHH68/?tag=tolees00-21'
+descuento: '30.70'
+titulo: 'OPPO A52 Smartphone   Display 6.5   LCD '
 ---
 
 Tienes [OPPO A52 Smartphone   Display 6.5   LCD  4  Fotocamere 64GB Espandibili  RAM 4GB  Batteria 5000mAh  Dual Sim  2020 [Versione italiana]  Stream white](https://www.amazon.it/dp/B088KNHH68/?tag=tolees00-21) con un 30.70 % de descuento con precio de oferta de 137.9 EUR (original: 199.0 EUR) en el siguiente enlace!
 
 [![OPPO A52 Smartphone   Display 6.5   LCD ](https://m.media-amazon.com/images/I/41pkEQJ4PYL._SL200_.jpg)](https://www.amazon.it/dp/B088KNHH68/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B088KNHH68/?tag=tolees00-21)
 

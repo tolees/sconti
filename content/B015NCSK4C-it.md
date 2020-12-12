@@ -3,6 +3,7 @@ layout: post
 title: 'Giochi Uniti GU365 - Descent Seconda Edi al 36.99 % de descuento'
 date: 2020-12-08 01:32:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qAWMtKohL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qAWMtKohL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qAWMtKohL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Giochi Uniti GU365 - Descent Seconda Edizione: I Guardiani di Deephall'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B015NCSK4C/?tag=tolees00-21'
+descuento: '36.99'
+titulo: 'Giochi Uniti GU365 - Descent Seconda Edi'
 ---
 
 Está [Giochi Uniti GU365 - Descent Seconda Edizione: I Guardiani di Deephall](https://www.amazon.it/dp/B015NCSK4C/?tag=tolees00-21) con 36.99 de descuento por 21.99 EUR (original: 34.9 EUR) en el siguiente enlace!
 
 [![Giochi Uniti GU365 - Descent Seconda Edi](https://m.media-amazon.com/images/I/51qAWMtKohL._SL200_.jpg)](https://www.amazon.it/dp/B015NCSK4C/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B015NCSK4C/?tag=tolees00-21)
 

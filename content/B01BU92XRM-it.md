@@ -28,9 +28,9 @@ Tienes [Salvatore Ferragamo Signorina Misteriosa Profumo - 100 ml](https://www.a
 
 Características principales:
 
-- Contenuto - 100 ml
 - Marca - Salvatore Ferragamo
 - Prodotti di salute e cura personale originali ed esclusivi
+- Contenuto - 100 ml
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01BU92XRM/?tag=tolees00-21)
 

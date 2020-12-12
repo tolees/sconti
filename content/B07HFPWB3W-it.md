@@ -3,6 +3,7 @@ layout: post
 title: 'CanMixs Smart Watch CM07 Impermeabile IP al 31.38 % de descuento'
 date: 2020-11-17 11:30:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/413uVpvUsJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413uVpvUsJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413uVpvUsJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 50.99 EUR
 inStock: true
 prodname: 'CanMixs Smart Watch CM07 Impermeabile IP67 Activity Tracker Fitness con cardiofrequenzimetro Pedometro Sonno Monitor Cronometro SMS Chiamata Notifica Telecamera remota Musica iOS Telefono Android'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07HFPWB3W/?tag=tolees00-21'
+descuento: '31.38'
+titulo: 'CanMixs Smart Watch CM07 Impermeabile IP'
 ---
 
 Está [CanMixs Smart Watch CM07 Impermeabile IP67 Activity Tracker Fitness con cardiofrequenzimetro Pedometro Sonno Monitor Cronometro SMS Chiamata Notifica Telecamera remota Musica iOS Telefono Android](https://www.amazon.it/dp/B07HFPWB3W/?tag=tolees00-21) con 31.38 de descuento por 34.99 EUR (original: 50.99 EUR) en el siguiente enlace!
 
 [![CanMixs Smart Watch CM07 Impermeabile IP](https://m.media-amazon.com/images/I/413uVpvUsJL._SL200_.jpg)](https://www.amazon.it/dp/B07HFPWB3W/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07HFPWB3W/?tag=tolees00-21)
 

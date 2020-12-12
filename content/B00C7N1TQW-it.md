@@ -3,6 +3,7 @@ layout: post
 title: 'Nescafé Dolce Gusto Barista Caffè Espres al 36.70 % de descuento'
 date: 2020-10-14 17:36:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ERmGAkvBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ERmGAkvBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ERmGAkvBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.34 EUR
 inStock: true
 prodname: 'Nescafé Dolce Gusto Barista Caffè Espresso  6 Confezioni da 16 Capsule  96 Capsule   intensità 9/13'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00C7N1TQW/?tag=tolees00-21'
+descuento: '36.70'
+titulo: 'Nescafé Dolce Gusto Barista Caffè Espres'
 ---
 
 Ahora mismo tienes [Nescafé Dolce Gusto Barista Caffè Espresso  6 Confezioni da 16 Capsule  96 Capsule   intensità 9/13](https://www.amazon.it/dp/B00C7N1TQW/?tag=tolees00-21) a 22.37 EUR (original: 35.34 EUR) (36.70 %  de descuento) en el siguiente enlace!
 
 [![Nescafé Dolce Gusto Barista Caffè Espres](https://m.media-amazon.com/images/I/41ERmGAkvBL._SL200_.jpg)](https://www.amazon.it/dp/B00C7N1TQW/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B00C7N1TQW/?tag=tolees00-21)
 

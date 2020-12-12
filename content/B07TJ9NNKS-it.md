@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Icons Shirt  Blu  New   Large U al 45.69 % de descuento'
 date: 2020-10-14 13:06:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iwUIfs9JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iwUIfs9JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iwUIfs9JL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Wrangler Icons Shirt  Blu  New   Large Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TJ9NNKS/?tag=tolees00-21'
+descuento: '45.69'
+titulo: 'Wrangler Icons Shirt  Blu  New   Large U'
 ---
 
 Está [Wrangler Icons Shirt  Blu  New   Large Uomo](https://www.amazon.it/dp/B07TJ9NNKS/?tag=tolees00-21) con 45.69 de descuento por 37.99 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![Wrangler Icons Shirt  Blu  New   Large U](https://m.media-amazon.com/images/I/41iwUIfs9JL._SL200_.jpg)](https://www.amazon.it/dp/B07TJ9NNKS/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07TJ9NNKS/?tag=tolees00-21)
 

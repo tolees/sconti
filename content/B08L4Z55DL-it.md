@@ -3,6 +3,7 @@ layout: post
 title: 'celeste Hard Disk 1 TB Esterno USB-C Har al 40.82 % de descuento'
 date: 2020-10-30 16:32:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Di5TMYsZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Di5TMYsZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Di5TMYsZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 81.09 EUR
 inStock: true
 prodname: 'celeste Hard Disk 1 TB Esterno USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook. 1TB d oro '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08L4Z55DL/?tag=tolees00-21'
+descuento: '40.82'
+titulo: 'celeste Hard Disk 1 TB Esterno USB-C Har'
 ---
 
 Está [celeste Hard Disk 1 TB Esterno USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook. 1TB d oro ](https://www.amazon.it/dp/B08L4Z55DL/?tag=tolees00-21) con 40.82 de descuento por 47.99 EUR (original: 81.09 EUR) en el siguiente enlace!
 
 [![celeste Hard Disk 1 TB Esterno USB-C Har](https://m.media-amazon.com/images/I/31Di5TMYsZL._SL200_.jpg)](https://www.amazon.it/dp/B08L4Z55DL/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08L4Z55DL/?tag=tolees00-21)
 

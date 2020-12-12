@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.96 % en Vimar Unit Alimentazione Usb 5V1 5A 1 m '
 date: 2020-11-08 11:49:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31iGAbP75dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iGAbP75dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31iGAbP75dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.9 EUR
 inStock: true
 prodname: 'Vimar Unit Alimentazione Usb 5V1 5A 1 m  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06XHMDWVX/?tag=tolees00-21'
+descuento: '49.96'
+titulo: 'Vimar Unit Alimentazione Usb 5V1 5A 1 m '
 ---
 
 Tienes [Vimar Unit Alimentazione Usb 5V1 5A 1 m  Bianco](https://www.amazon.it/dp/B06XHMDWVX/?tag=tolees00-21) con un 49.96 % de descuento con precio de oferta de 13.96 EUR (original: 27.9 EUR) en el siguiente enlace!
 
 [![Vimar Unit Alimentazione Usb 5V1 5A 1 m ](https://m.media-amazon.com/images/I/31iGAbP75dL._SL200_.jpg)](https://www.amazon.it/dp/B06XHMDWVX/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XHMDWVX/?tag=tolees00-21)
 

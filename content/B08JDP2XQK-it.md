@@ -3,6 +3,7 @@ layout: post
 title: 'Bref Bref WC Power Activ Oceano  Deterge al 25.50 % de descuento'
 date: 2020-12-03 18:45:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aJN2xt2kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aJN2xt2kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aJN2xt2kL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.9 EUR
 inStock: true
 prodname: 'Bref Bref WC Power Activ Oceano  Detergente WC  Formato Scorta 10 Pezzi 500 gr'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08JDP2XQK/?tag=tolees00-21'
+descuento: '25.50'
+titulo: 'Bref Bref WC Power Activ Oceano  Deterge'
 ---
 
 Está [Bref Bref WC Power Activ Oceano  Detergente WC  Formato Scorta 10 Pezzi 500 gr](https://www.amazon.it/dp/B08JDP2XQK/?tag=tolees00-21) con 25.50 de descuento por 11.1 EUR (original: 14.9 EUR) en el siguiente enlace!
 
 [![Bref Bref WC Power Activ Oceano  Deterge](https://m.media-amazon.com/images/I/51aJN2xt2kL._SL200_.jpg)](https://www.amazon.it/dp/B08JDP2XQK/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08JDP2XQK/?tag=tolees00-21)
 

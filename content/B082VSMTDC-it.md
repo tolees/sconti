@@ -3,6 +3,7 @@ layout: post
 title: 'Marchio Amazon - Happy Belly Noci del Br al 40.19 % de descuento'
 date: 2020-11-11 15:50:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aNhSv2kAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aNhSv2kAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aNhSv2kAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.03 EUR
 inStock: true
 prodname: 'Marchio Amazon - Happy Belly Noci del Brasile sgusciate  7 x 100g'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B082VSMTDC/?tag=tolees00-21'
+descuento: '40.19'
+titulo: 'Marchio Amazon - Happy Belly Noci del Br'
 ---
 
 Está [Marchio Amazon - Happy Belly Noci del Brasile sgusciate  7 x 100g](https://www.amazon.it/dp/B082VSMTDC/?tag=tolees00-21) con 40.19 de descuento por 8.99 EUR (original: 15.03 EUR) en el siguiente enlace!
 
 [![Marchio Amazon - Happy Belly Noci del Br](https://m.media-amazon.com/images/I/41aNhSv2kAL._SL200_.jpg)](https://www.amazon.it/dp/B082VSMTDC/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B082VSMTDC/?tag=tolees00-21)
 

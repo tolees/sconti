@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Union Wharf Derby  Sneakers B al 60.02 % de descuento'
 date: 2020-11-30 11:38:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ecQpDBVuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ecQpDBVuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ecQpDBVuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Timberland Union Wharf Derby  Sneakers Basse Uomo  Verde Dark Green Canvas  45.5 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07FHB163Q/?tag=tolees00-21'
+descuento: '60.02'
+titulo: 'Timberland Union Wharf Derby  Sneakers B'
 ---
 
 Ahora mismo tienes [Timberland Union Wharf Derby  Sneakers Basse Uomo  Verde Dark Green Canvas  45.5 EU](https://www.amazon.it/dp/B07FHB163Q/?tag=tolees00-21) a 25.99 EUR (original: 65.0 EUR) (60.02 %  de descuento) en el siguiente enlace!
 
 [![Timberland Union Wharf Derby  Sneakers B](https://m.media-amazon.com/images/I/31ecQpDBVuL._SL200_.jpg)](https://www.amazon.it/dp/B07FHB163Q/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07FHB163Q/?tag=tolees00-21)
 

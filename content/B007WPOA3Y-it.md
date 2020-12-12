@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Brasil Logo 4110850  Infradito al 30.00 % de descuento'
 date: 2020-10-20 07:07:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aPpHaXc+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aPpHaXc+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aPpHaXc+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.0 EUR
 inStock: true
 prodname: 'Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Blu  Marine Blue   33/34 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B007WPOA3Y/?tag=tolees00-21'
+descuento: '30.00'
+titulo: 'Havaianas Brasil Logo 4110850  Infradito'
 ---
 
 Está [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Blu  Marine Blue   33/34 EU](https://www.amazon.it/dp/B007WPOA3Y/?tag=tolees00-21) con 30.00 de descuento por 12.6 EUR (original: 18.0 EUR) en el siguiente enlace!
 
 [![Havaianas Brasil Logo 4110850  Infradito](https://m.media-amazon.com/images/I/51aPpHaXc+L._SL200_.jpg)](https://www.amazon.it/dp/B007WPOA3Y/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B007WPOA3Y/?tag=tolees00-21)
 

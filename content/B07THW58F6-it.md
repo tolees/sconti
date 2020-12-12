@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Tf5627 T-Shirt  Bianco  Blanc/Me al 38.35 % de descuento'
 date: 2020-11-27 09:36:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/21YPGbtZT8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21YPGbtZT8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21YPGbtZT8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 60.0 EUR
 inStock: true
 prodname: 'Lacoste Tf5627 T-Shirt  Bianco  Blanc/Methylene Bed   44  Taglia Unica: 40  Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07THW58F6/?tag=tolees00-21'
+descuento: '38.35'
+titulo: 'Lacoste Tf5627 T-Shirt  Bianco  Blanc/Me'
 ---
 
 Ahora mismo tienes [Lacoste Tf5627 T-Shirt  Bianco  Blanc/Methylene Bed   44  Taglia Unica: 40  Donna](https://www.amazon.it/dp/B07THW58F6/?tag=tolees00-21) a 36.99 EUR (original: 60.0 EUR) (38.35 %  de descuento) en el siguiente enlace!
 
 [![Lacoste Tf5627 T-Shirt  Bianco  Blanc/Me](https://m.media-amazon.com/images/I/21YPGbtZT8L._SL200_.jpg)](https://www.amazon.it/dp/B07THW58F6/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07THW58F6/?tag=tolees00-21)
 

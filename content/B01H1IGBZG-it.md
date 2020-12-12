@@ -3,6 +3,7 @@ layout: post
 title: 'Giochi Uniti- Descent Viaggi nelle Teneb al 28.40 % de descuento'
 date: 2020-12-08 01:32:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/513dwFU-l6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513dwFU-l6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513dwFU-l6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Giochi Uniti- Descent Viaggi nelle Tenebre: Protettori della Natura Runebound Gioco da Tavolo  Multicolore  GU474'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01H1IGBZG/?tag=tolees00-21'
+descuento: '28.40'
+titulo: 'Giochi Uniti- Descent Viaggi nelle Teneb'
 ---
 
 Ahora mismo tienes [Giochi Uniti- Descent Viaggi nelle Tenebre: Protettori della Natura Runebound Gioco da Tavolo  Multicolore  GU474](https://www.amazon.it/dp/B01H1IGBZG/?tag=tolees00-21) a 24.99 EUR (original: 34.9 EUR) (28.40 %  de descuento) en el siguiente enlace!
 
 [![Giochi Uniti- Descent Viaggi nelle Teneb](https://m.media-amazon.com/images/I/513dwFU-l6L._SL200_.jpg)](https://www.amazon.it/dp/B01H1IGBZG/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01H1IGBZG/?tag=tolees00-21)
 

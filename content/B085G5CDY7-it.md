@@ -3,6 +3,7 @@ layout: post
 title: 'Xiaomi Mi Router 4A AC1200 Router Wi-Fi  al 30.33 % de descuento'
 date: 2020-10-17 13:32:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LPMWTeYrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LPMWTeYrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LPMWTeYrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Xiaomi Mi Router 4A AC1200 Router Wi-Fi 867 Mbps a 5 GHz e 300 Mbps a 2.4GHz  802.11a/b/g/n/ac  802.3/3u  RAM 64 MB  4 Antenne  Xiaomi App  Fino a 64 Dispositivi  Bianco'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B085G5CDY7/?tag=tolees00-21'
+descuento: '30.33'
+titulo: 'Xiaomi Mi Router 4A AC1200 Router Wi-Fi '
 ---
 
 Está [Xiaomi Mi Router 4A AC1200 Router Wi-Fi 867 Mbps a 5 GHz e 300 Mbps a 2.4GHz  802.11a/b/g/n/ac  802.3/3u  RAM 64 MB  4 Antenne  Xiaomi App  Fino a 64 Dispositivi  Bianco](https://www.amazon.it/dp/B085G5CDY7/?tag=tolees00-21) con 30.33 de descuento por 19.5 EUR (original: 27.99 EUR) en el siguiente enlace!
 
 [![Xiaomi Mi Router 4A AC1200 Router Wi-Fi ](https://m.media-amazon.com/images/I/31LPMWTeYrL._SL200_.jpg)](https://www.amazon.it/dp/B085G5CDY7/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085G5CDY7/?tag=tolees00-21)
 

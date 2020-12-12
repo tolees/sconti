@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.32 % en Wrangler 80´s Retro Sweat Felpa  Blu  Na'
 date: 2020-11-11 11:41:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31B4TJRJJlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31B4TJRJJlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31B4TJRJJlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Wrangler 80´s Retro Sweat Felpa  Blu  Navy 114   Medium Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07R2BYKTG/?tag=tolees00-21'
+descuento: '58.32'
+titulo: 'Wrangler 80´s Retro Sweat Felpa  Blu  Na'
 ---
 
 Tienes [Wrangler 80´s Retro Sweat Felpa  Blu  Navy 114   Medium Donna](https://www.amazon.it/dp/B07R2BYKTG/?tag=tolees00-21) con un 58.32 % de descuento con precio de oferta de 24.99 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Wrangler 80´s Retro Sweat Felpa  Blu  Na](https://m.media-amazon.com/images/I/31B4TJRJJlL._SL200_.jpg)](https://www.amazon.it/dp/B07R2BYKTG/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07R2BYKTG/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Marchio Amazon - find. Cotton Cagoule  G al 72.40 % de descuento'
 date: 2020-10-15 08:37:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41khOER9GSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41khOER9GSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41khOER9GSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 43.33 EUR
 inStock: true
 prodname: 'Marchio Amazon - find. Cotton Cagoule  Giacca Uomo  Blu  M  Label: M'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07GSJDRBR/?tag=tolees00-21'
+descuento: '72.40'
+titulo: 'Marchio Amazon - find. Cotton Cagoule  G'
 ---
 
 Está [Marchio Amazon - find. Cotton Cagoule  Giacca Uomo  Blu  M  Label: M](https://www.amazon.it/dp/B07GSJDRBR/?tag=tolees00-21) con 72.40 de descuento por 11.96 EUR (original: 43.33 EUR) en el siguiente enlace!
 
 [![Marchio Amazon - find. Cotton Cagoule  G](https://m.media-amazon.com/images/I/41khOER9GSL._SL200_.jpg)](https://www.amazon.it/dp/B07GSJDRBR/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07GSJDRBR/?tag=tolees00-21)
 

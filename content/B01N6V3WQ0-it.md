@@ -3,6 +3,7 @@ layout: post
 title: 'Campingaz BBQ a Roccia Lavica Xpert 100  al 29.12 % de descuento'
 date: 2020-11-29 07:33:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EpyKcfDJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EpyKcfDJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EpyKcfDJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Campingaz BBQ a Roccia Lavica Xpert 100 L Plus Rocky  Barbecue Grill Compatto a 2 Bruciatori  7.1kW di Potenza  2 Griglie Cromate  2 Ripiani Laterali e un Carrello con Ruote'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01N6V3WQ0/?tag=tolees00-21'
+descuento: '29.12'
+titulo: 'Campingaz BBQ a Roccia Lavica Xpert 100 '
 ---
 
 Está [Campingaz BBQ a Roccia Lavica Xpert 100 L Plus Rocky  Barbecue Grill Compatto a 2 Bruciatori  7.1kW di Potenza  2 Griglie Cromate  2 Ripiani Laterali e un Carrello con Ruote](https://www.amazon.it/dp/B01N6V3WQ0/?tag=tolees00-21) con 29.12 de descuento por 84.99 EUR (original: 119.9 EUR) en el siguiente enlace!
 
 [![Campingaz BBQ a Roccia Lavica Xpert 100 ](https://m.media-amazon.com/images/I/41EpyKcfDJL._SL200_.jpg)](https://www.amazon.it/dp/B01N6V3WQ0/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01N6V3WQ0/?tag=tolees00-21)
 

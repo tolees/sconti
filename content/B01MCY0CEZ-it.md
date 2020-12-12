@@ -3,6 +3,7 @@ layout: post
 title: 'Festina Orologio Analogico Unisex con Ci al 51.80 % de descuento'
 date: 2020-12-10 14:19:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EfT67EX0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EfT67EX0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EfT67EX0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.0 EUR
 inStock: true
 prodname: 'Festina Orologio Analogico Unisex con Cinturino in Pelle F20248/4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MCY0CEZ/?tag=tolees00-21'
+descuento: '51.80'
+titulo: 'Festina Orologio Analogico Unisex con Ci'
 ---
 
 Está [Festina Orologio Analogico Unisex con Cinturino in Pelle F20248/4](https://www.amazon.it/dp/B01MCY0CEZ/?tag=tolees00-21) con 51.80 de descuento por 67.0 EUR (original: 139.0 EUR) en el siguiente enlace!
 
 [![Festina Orologio Analogico Unisex con Ci](https://m.media-amazon.com/images/I/41EfT67EX0L._SL200_.jpg)](https://www.amazon.it/dp/B01MCY0CEZ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MCY0CEZ/?tag=tolees00-21)
 

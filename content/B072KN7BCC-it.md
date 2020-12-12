@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Strisce LED da 2 metri  Luce Bia al 37.19 % de descuento'
 date: 2020-10-27 07:19:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sYBDAx7xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sYBDAx7xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sYBDAx7xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 31.76 EUR
 inStock: true
 prodname: 'Philips Strisce LED da 2 metri  Luce Bianca Naturale'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B072KN7BCC/?tag=tolees00-21'
+descuento: '37.19'
+titulo: 'Philips Strisce LED da 2 metri  Luce Bia'
 ---
 
 Está [Philips Strisce LED da 2 metri  Luce Bianca Naturale](https://www.amazon.it/dp/B072KN7BCC/?tag=tolees00-21) con 37.19 de descuento por 19.95 EUR (original: 31.76 EUR) en el siguiente enlace!
 
 [![Philips Strisce LED da 2 metri  Luce Bia](https://m.media-amazon.com/images/I/41sYBDAx7xL._SL200_.jpg)](https://www.amazon.it/dp/B072KN7BCC/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B072KN7BCC/?tag=tolees00-21)
 

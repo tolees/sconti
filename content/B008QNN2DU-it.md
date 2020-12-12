@@ -3,6 +3,7 @@ layout: post
 title: 'Neutrogena  Crema Comfort ad Idratazione al 57.50 % de descuento'
 date: 2020-11-06 18:37:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CrHF5kGXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CrHF5kGXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CrHF5kGXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.0 EUR
 inStock: true
 prodname: 'Neutrogena  Crema Comfort ad Idratazione Intensa  300 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B008QNN2DU/?tag=tolees00-21'
+descuento: '57.50'
+titulo: 'Neutrogena  Crema Comfort ad Idratazione'
 ---
 
 Está [Neutrogena  Crema Comfort ad Idratazione Intensa  300 ml](https://www.amazon.it/dp/B008QNN2DU/?tag=tolees00-21) con 57.50 de descuento por 5.95 EUR (original: 14.0 EUR) en el siguiente enlace!
 
 [![Neutrogena  Crema Comfort ad Idratazione](https://m.media-amazon.com/images/I/41CrHF5kGXL._SL200_.jpg)](https://www.amazon.it/dp/B008QNN2DU/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B008QNN2DU/?tag=tolees00-21)
 

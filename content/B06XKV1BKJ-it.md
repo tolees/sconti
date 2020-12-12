@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera Toys GO!!! Disney Pixar Cars  Li al 46.85 % de descuento'
 date: 2020-12-05 03:06:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w2PxZ7PJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w2PxZ7PJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w2PxZ7PJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 23.5 EUR
 inStock: true
 prodname: 'Carrera Toys GO!!! Disney Pixar Cars  Lightning Mcqueen Auto da Corsa per Piste Elettriche  Gioco Adatto per Bambini dai 6 Anni in Su  Multicolore  20064082'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06XKV1BKJ/?tag=tolees00-21'
+descuento: '46.85'
+titulo: 'Carrera Toys GO!!! Disney Pixar Cars  Li'
 ---
 
 Está [Carrera Toys GO!!! Disney Pixar Cars  Lightning Mcqueen Auto da Corsa per Piste Elettriche  Gioco Adatto per Bambini dai 6 Anni in Su  Multicolore  20064082](https://www.amazon.it/dp/B06XKV1BKJ/?tag=tolees00-21) con 46.85 de descuento por 12.49 EUR (original: 23.5 EUR) en el siguiente enlace!
 
 [![Carrera Toys GO!!! Disney Pixar Cars  Li](https://m.media-amazon.com/images/I/41w2PxZ7PJL._SL200_.jpg)](https://www.amazon.it/dp/B06XKV1BKJ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B06XKV1BKJ/?tag=tolees00-21)
 

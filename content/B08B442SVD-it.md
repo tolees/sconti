@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en Sony SRS-XB43 - Speaker bluetooth waterp'
 date: 2020-12-03 00:22:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41M13lBDoHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41M13lBDoHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41M13lBDoHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 230.0 EUR
 inStock: true
 prodname: 'Sony SRS-XB43 - Speaker bluetooth waterproof  cassa portatile con autonomia fino a 24 ore e effetti luminosi  Blu '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08B442SVD/?tag=tolees00-21'
+descuento: '30.00'
+titulo: 'Sony SRS-XB43 - Speaker bluetooth waterp'
 ---
 
 Tienes [Sony SRS-XB43 - Speaker bluetooth waterproof  cassa portatile con autonomia fino a 24 ore e effetti luminosi  Blu ](https://www.amazon.it/dp/B08B442SVD/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 160.99 EUR (original: 230.0 EUR) en el siguiente enlace!
 
 [![Sony SRS-XB43 - Speaker bluetooth waterp](https://m.media-amazon.com/images/I/41M13lBDoHL._SL200_.jpg)](https://www.amazon.it/dp/B08B442SVD/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08B442SVD/?tag=tolees00-21)
 

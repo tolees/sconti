@@ -3,6 +3,7 @@ layout: post
 title: 'CARPISA® Pochette con tracolla a catenin al 30.02 % de descuento'
 date: 2020-11-26 00:07:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31tYVrLDjXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tYVrLDjXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31tYVrLDjXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'CARPISA® Pochette con tracolla a catenina - YULIKA'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08LP9K8LS/?tag=tolees00-21'
+descuento: '30.02'
+titulo: 'CARPISA® Pochette con tracolla a catenin'
 ---
 
 Está [CARPISA® Pochette con tracolla a catenina - YULIKA](https://www.amazon.it/dp/B08LP9K8LS/?tag=tolees00-21) con 30.02 de descuento por 11.19 EUR (original: 15.99 EUR) en el siguiente enlace!
 
 [![CARPISA® Pochette con tracolla a catenin](https://m.media-amazon.com/images/I/31tYVrLDjXL._SL200_.jpg)](https://www.amazon.it/dp/B08LP9K8LS/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08LP9K8LS/?tag=tolees00-21)
 

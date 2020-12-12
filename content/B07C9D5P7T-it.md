@@ -3,6 +3,7 @@ layout: post
 title: 'Jurassic Park  4K+Br  al 25.21 % de descuento'
 date: 2020-10-13 02:26:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51b36obLoOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51b36obLoOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51b36obLoOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.97 EUR
 inStock: true
 prodname: 'Jurassic Park  4K+Br '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07C9D5P7T/?tag=tolees00-21'
+descuento: '25.21'
+titulo: 'Jurassic Park  4K+Br '
 ---
 
 Está [Jurassic Park  4K+Br ](https://www.amazon.it/dp/B07C9D5P7T/?tag=tolees00-21) con 25.21 de descuento por 13.44 EUR (original: 17.97 EUR) en el siguiente enlace!
 
 [![Jurassic Park  4K+Br ](https://m.media-amazon.com/images/I/51b36obLoOL._SL200_.jpg)](https://www.amazon.it/dp/B07C9D5P7T/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07C9D5P7T/?tag=tolees00-21)
 

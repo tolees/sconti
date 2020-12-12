@@ -3,6 +3,7 @@ layout: post
 title: 'DiRT Rally 2.0 GOTY - Game of The Year - al 50.01 % de descuento'
 date: 2020-11-24 13:31:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NXzY6XN3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NXzY6XN3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NXzY6XN3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'DiRT Rally 2.0 GOTY - Game of The Year - PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B085QXDMZ9/?tag=tolees00-21'
+descuento: '50.01'
+titulo: 'DiRT Rally 2.0 GOTY - Game of The Year -'
 ---
 
 Está [DiRT Rally 2.0 GOTY - Game of The Year - PlayStation 4](https://www.amazon.it/dp/B085QXDMZ9/?tag=tolees00-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![DiRT Rally 2.0 GOTY - Game of The Year -](https://m.media-amazon.com/images/I/51NXzY6XN3L._SL200_.jpg)](https://www.amazon.it/dp/B085QXDMZ9/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085QXDMZ9/?tag=tolees00-21)
 

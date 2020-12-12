@@ -3,6 +3,7 @@ layout: post
 title: 'Justice League  Digibook  al 26.73 % de descuento'
 date: 2020-10-27 07:19:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/518r3blo74L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518r3blo74L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518r3blo74L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.0 EUR
 inStock: true
 prodname: 'Justice League  Digibook '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B077K5PNYB/?tag=tolees00-21'
+descuento: '26.73'
+titulo: 'Justice League  Digibook '
 ---
 
 Está [Justice League  Digibook ](https://www.amazon.it/dp/B077K5PNYB/?tag=tolees00-21) con 26.73 de descuento por 10.99 EUR (original: 15.0 EUR) en el siguiente enlace!
 
 [![Justice League  Digibook ](https://m.media-amazon.com/images/I/518r3blo74L._SL200_.jpg)](https://www.amazon.it/dp/B077K5PNYB/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B077K5PNYB/?tag=tolees00-21)
 

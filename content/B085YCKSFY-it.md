@@ -3,6 +3,7 @@ layout: post
 title: 'YAMAMAY® Pantalone Classico - Party al 61.75 % de descuento'
 date: 2020-11-05 19:18:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rgrrYOBBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rgrrYOBBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rgrrYOBBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'YAMAMAY® Pantalone Classico - Party'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B085YCKSFY/?tag=tolees00-21'
+descuento: '61.75'
+titulo: 'YAMAMAY® Pantalone Classico - Party'
 ---
 
 Está [YAMAMAY® Pantalone Classico - Party](https://www.amazon.it/dp/B085YCKSFY/?tag=tolees00-21) con 61.75 de descuento por 15.28 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![YAMAMAY® Pantalone Classico - Party](https://m.media-amazon.com/images/I/31rgrrYOBBL._SL200_.jpg)](https://www.amazon.it/dp/B085YCKSFY/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085YCKSFY/?tag=tolees00-21)
 

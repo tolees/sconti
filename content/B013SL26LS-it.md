@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.18 % en Logitech K380 Tastiera Bluetooth Wireles'
 date: 2020-11-26 09:47:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zu83rZ9mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zu83rZ9mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zu83rZ9mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 46.99 EUR
 inStock: true
 prodname: 'Logitech K380 Tastiera Bluetooth Wireless Multidispositivo per Windows  Apple iOS  Design Compatto  PC/Mac/Laptop/Smartphone/Tablet  Layout Italiano QWERTY  Blu'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B013SL26LS/?tag=tolees00-21'
+descuento: '36.18'
+titulo: 'Logitech K380 Tastiera Bluetooth Wireles'
 ---
 
 Tienes [Logitech K380 Tastiera Bluetooth Wireless Multidispositivo per Windows  Apple iOS  Design Compatto  PC/Mac/Laptop/Smartphone/Tablet  Layout Italiano QWERTY  Blu](https://www.amazon.it/dp/B013SL26LS/?tag=tolees00-21) con un 36.18 % de descuento con precio de oferta de 29.99 EUR (original: 46.99 EUR) en el siguiente enlace!
 
 [![Logitech K380 Tastiera Bluetooth Wireles](https://m.media-amazon.com/images/I/41zu83rZ9mL._SL200_.jpg)](https://www.amazon.it/dp/B013SL26LS/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B013SL26LS/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Rhodesy RT-01 Treppiede Portatile Octopu al 59.12 % de descuento'
 date: 2020-11-30 08:11:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EXygkGNgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EXygkGNgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EXygkGNgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 22.85 EUR
 inStock: true
 prodname: 'Rhodesy RT-01 Treppiede Portatile Octopus Style con Supporto per iPhone  Qualsiasi Smartphone  Videocamera con Clip Universale'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21'
+descuento: '59.12'
+titulo: 'Rhodesy RT-01 Treppiede Portatile Octopu'
 ---
 
 Ahora mismo tienes [Rhodesy RT-01 Treppiede Portatile Octopus Style con Supporto per iPhone  Qualsiasi Smartphone  Videocamera con Clip Universale](https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21) a 9.34 EUR (original: 22.85 EUR) (59.12 %  de descuento) en el siguiente enlace!
 
 [![Rhodesy RT-01 Treppiede Portatile Octopu](https://m.media-amazon.com/images/I/41EXygkGNgL._SL200_.jpg)](https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01LY8PG5H/?tag=tolees00-21)
 

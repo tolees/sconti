@@ -3,6 +3,7 @@ layout: post
 title: 'CARPISA® Portafoglio a tracollina animal al 57.59 % de descuento'
 date: 2020-11-21 09:14:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/512-Tf35wDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512-Tf35wDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512-Tf35wDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'CARPISA® Portafoglio a tracollina animalier - Cindy'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07VD9L6QB/?tag=tolees00-21'
+descuento: '57.59'
+titulo: 'CARPISA® Portafoglio a tracollina animal'
 ---
 
 Está [CARPISA® Portafoglio a tracollina animalier - Cindy](https://www.amazon.it/dp/B07VD9L6QB/?tag=tolees00-21) con 57.59 de descuento por 8.46 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![CARPISA® Portafoglio a tracollina animal](https://m.media-amazon.com/images/I/512-Tf35wDL._SL200_.jpg)](https://www.amazon.it/dp/B07VD9L6QB/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VD9L6QB/?tag=tolees00-21)
 

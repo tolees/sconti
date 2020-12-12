@@ -3,6 +3,7 @@ layout: post
 title: 'THUN ® - Bracciale Old Classic Marguerit al 50.00 % de descuento'
 date: 2020-11-22 16:50:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31G8afSt7OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G8afSt7OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31G8afSt7OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 56.0 EUR
 inStock: true
 prodname: 'THUN ® - Bracciale Old Classic Marguerite Dorée'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01MT7AU30/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'THUN ® - Bracciale Old Classic Marguerit'
 ---
 
 Ahora mismo tienes [THUN ® - Bracciale Old Classic Marguerite Dorée](https://www.amazon.it/dp/B01MT7AU30/?tag=tolees00-21) a 28.0 EUR (original: 56.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![THUN ® - Bracciale Old Classic Marguerit](https://m.media-amazon.com/images/I/31G8afSt7OL._SL200_.jpg)](https://www.amazon.it/dp/B01MT7AU30/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01MT7AU30/?tag=tolees00-21)
 

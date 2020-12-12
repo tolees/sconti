@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.54 % en La Tigre E La Neve'
 date: 2020-11-19 06:45:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BkIXkDphL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BkIXkDphL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BkIXkDphL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.79 EUR
 inStock: true
 prodname: 'La Tigre E La Neve'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00414PKCY/?tag=tolees00-21'
+descuento: '42.54'
+titulo: 'La Tigre E La Neve'
 ---
 
 Tienes [La Tigre E La Neve](https://www.amazon.it/dp/B00414PKCY/?tag=tolees00-21) con un 42.54 % de descuento con precio de oferta de 6.2 EUR (original: 10.79 EUR) en el siguiente enlace!
 
 [![La Tigre E La Neve](https://m.media-amazon.com/images/I/51BkIXkDphL._SL200_.jpg)](https://www.amazon.it/dp/B00414PKCY/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00414PKCY/?tag=tolees00-21)
 

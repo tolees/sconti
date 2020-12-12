@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 511 Slim Fit Jeans  Caboose ADV   al 37.95 % de descuento'
 date: 2020-11-01 12:05:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ShxiDCFfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ShxiDCFfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ShxiDCFfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 120.0 EUR
 inStock: true
 prodname: 'Levi s 511 Slim Fit Jeans  Caboose ADV  30W / 30L Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07ZVQVFTZ/?tag=tolees00-21'
+descuento: '37.95'
+titulo: 'Levi s 511 Slim Fit Jeans  Caboose ADV  '
 ---
 
 Está [Levi s 511 Slim Fit Jeans  Caboose ADV  30W / 30L Uomo](https://www.amazon.it/dp/B07ZVQVFTZ/?tag=tolees00-21) con 37.95 de descuento por 74.46 EUR (original: 120.0 EUR) en el siguiente enlace!
 
 [![Levi s 511 Slim Fit Jeans  Caboose ADV  ](https://m.media-amazon.com/images/I/41ShxiDCFfL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVQVFTZ/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZVQVFTZ/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'YUES Controller per Nintendo Switch PRO/ al 41.05 % de descuento'
 date: 2020-10-13 17:49:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-zzqjFmjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-zzqjFmjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-zzqjFmjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.0 EUR
 inStock: true
 prodname: 'YUES Controller per Nintendo Switch PRO/Lite  Wireless Gamepad con Doppio Ammortizzatore/Motore di Vibrazione/Motore a 6 Assi Giroscopio/Turbo Regolabile/Joystick a Distanza  Argento'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08HGMCC17/?tag=tolees00-21'
+descuento: '41.05'
+titulo: 'YUES Controller per Nintendo Switch PRO/'
 ---
 
 Está [YUES Controller per Nintendo Switch PRO/Lite  Wireless Gamepad con Doppio Ammortizzatore/Motore di Vibrazione/Motore a 6 Assi Giroscopio/Turbo Regolabile/Joystick a Distanza  Argento](https://www.amazon.it/dp/B08HGMCC17/?tag=tolees00-21) con 41.05 de descuento por 22.99 EUR (original: 39.0 EUR) en el siguiente enlace!
 
 [![YUES Controller per Nintendo Switch PRO/](https://m.media-amazon.com/images/I/41-zzqjFmjL._SL200_.jpg)](https://www.amazon.it/dp/B08HGMCC17/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08HGMCC17/?tag=tolees00-21)
 

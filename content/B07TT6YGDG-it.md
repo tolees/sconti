@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s The Perfect Tee Maglietta  Bianco al 35.24 % de descuento'
 date: 2020-10-18 13:48:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Jlyo0uxwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jlyo0uxwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Jlyo0uxwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Levi s The Perfect Tee Maglietta  Bianco  90 s Serif T2 Multicolor White+ 0969   Small  Herstellergröße: S  Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TT6YGDG/?tag=tolees00-21'
+descuento: '35.24'
+titulo: 'Levi s The Perfect Tee Maglietta  Bianco'
 ---
 
 Está [Levi s The Perfect Tee Maglietta  Bianco  90 s Serif T2 Multicolor White+ 0969   Small  Herstellergröße: S  Donna](https://www.amazon.it/dp/B07TT6YGDG/?tag=tolees00-21) con 35.24 de descuento por 16.19 EUR (original: 25.0 EUR) en el siguiente enlace!
 
 [![Levi s The Perfect Tee Maglietta  Bianco](https://m.media-amazon.com/images/I/41Jlyo0uxwL._SL200_.jpg)](https://www.amazon.it/dp/B07TT6YGDG/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07TT6YGDG/?tag=tolees00-21)
 

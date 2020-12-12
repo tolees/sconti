@@ -3,6 +3,7 @@ layout: post
 title: 'Garnier Maschera Viso Nera Pure Active   al 28.05 % de descuento'
 date: 2020-11-26 00:12:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/511GKA3YDHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511GKA3YDHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511GKA3YDHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.8 EUR
 inStock: true
 prodname: 'Garnier Maschera Viso Nera Pure Active  Azione 3 in 1: Gel detergente  Scrub e Maschera Purificante  Combatte i Punti Neri  con Carbone Vegetale  150 ml  Confezione da 2'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MNZ8Z7F/?tag=tolees00-21'
+descuento: '28.05'
+titulo: 'Garnier Maschera Viso Nera Pure Active  '
 ---
 
 Está [Garnier Maschera Viso Nera Pure Active  Azione 3 in 1: Gel detergente  Scrub e Maschera Purificante  Combatte i Punti Neri  con Carbone Vegetale  150 ml  Confezione da 2](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=tolees00-21) con 28.05 de descuento por 8.49 EUR (original: 11.8 EUR) en el siguiente enlace!
 
 [![Garnier Maschera Viso Nera Pure Active  ](https://m.media-amazon.com/images/I/511GKA3YDHL._SL200_.jpg)](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=tolees00-21)
 

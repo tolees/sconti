@@ -3,6 +3,7 @@ layout: post
 title: 'FIND - Maschera detergente e purificante al 54.95 % de descuento'
 date: 2020-11-18 09:07:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NxUxtSLtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NxUxtSLtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NxUxtSLtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.7 EUR
 inStock: true
 prodname: 'FIND - Maschera detergente e purificante con argilla bianca  6 unità x 15 ml'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07XZL81NN/?tag=tolees00-21'
+descuento: '54.95'
+titulo: 'FIND - Maschera detergente e purificante'
 ---
 
 Está [FIND - Maschera detergente e purificante con argilla bianca  6 unità x 15 ml](https://www.amazon.it/dp/B07XZL81NN/?tag=tolees00-21) con 54.95 de descuento por 4.82 EUR (original: 10.7 EUR) en el siguiente enlace!
 
 [![FIND - Maschera detergente e purificante](https://m.media-amazon.com/images/I/41NxUxtSLtL._SL200_.jpg)](https://www.amazon.it/dp/B07XZL81NN/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07XZL81NN/?tag=tolees00-21)
 

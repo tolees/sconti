@@ -3,6 +3,7 @@ layout: post
 title: 'goldenpoint Slip Brasiliana Intimo Donna al 30.00 % de descuento'
 date: 2020-11-30 12:53:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Zf8M7fCnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Zf8M7fCnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Zf8M7fCnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 7.5 EUR
 inStock: true
 prodname: 'goldenpoint Slip Brasiliana Intimo Donna in Microfibra e Pizzo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B08JV1B4HF/?tag=tolees00-21'
+descuento: '30.00'
+titulo: 'goldenpoint Slip Brasiliana Intimo Donna'
 ---
 
 Está [goldenpoint Slip Brasiliana Intimo Donna in Microfibra e Pizzo](https://www.amazon.it/dp/B08JV1B4HF/?tag=tolees00-21) con 30.00 de descuento por 5.25 EUR (original: 7.5 EUR) en el siguiente enlace!
 
 [![goldenpoint Slip Brasiliana Intimo Donna](https://m.media-amazon.com/images/I/41Zf8M7fCnL._SL200_.jpg)](https://www.amazon.it/dp/B08JV1B4HF/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08JV1B4HF/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'NAPAPIJRI Rainforest M Sum 1 Giacca  Ver al 28.38 % de descuento'
 date: 2020-11-13 07:54:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Y6N5yoSiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Y6N5yoSiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Y6N5yoSiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 179.0 EUR
 inStock: true
 prodname: 'NAPAPIJRI Rainforest M Sum 1 Giacca  Verde  New Olive Green Gd6   XX-Large Uomo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07L9RLKRP/?tag=tolees00-21'
+descuento: '28.38'
+titulo: 'NAPAPIJRI Rainforest M Sum 1 Giacca  Ver'
 ---
 
 Está [NAPAPIJRI Rainforest M Sum 1 Giacca  Verde  New Olive Green Gd6   XX-Large Uomo](https://www.amazon.it/dp/B07L9RLKRP/?tag=tolees00-21) con 28.38 de descuento por 128.2 EUR (original: 179.0 EUR) en el siguiente enlace!
 
 [![NAPAPIJRI Rainforest M Sum 1 Giacca  Ver](https://m.media-amazon.com/images/I/31Y6N5yoSiL._SL200_.jpg)](https://www.amazon.it/dp/B07L9RLKRP/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07L9RLKRP/?tag=tolees00-21)
 

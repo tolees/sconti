@@ -3,6 +3,7 @@ layout: post
 title: 'Ariete 4615 Airy Fryer Mini  Friggitrice al 32.23 % de descuento'
 date: 2020-10-15 17:02:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zogcfnuPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zogcfnuPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zogcfnuPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 48.68 EUR
 inStock: true
 prodname: 'Ariete 4615 Airy Fryer Mini  Friggitrice ad aria senza olio  1000 W  Capacità 2 Litri  Facile da pulire  Giallo'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07C7YZSRR/?tag=tolees00-21'
+descuento: '32.23'
+titulo: 'Ariete 4615 Airy Fryer Mini  Friggitrice'
 ---
 
 Ahora mismo tienes [Ariete 4615 Airy Fryer Mini  Friggitrice ad aria senza olio  1000 W  Capacità 2 Litri  Facile da pulire  Giallo](https://www.amazon.it/dp/B07C7YZSRR/?tag=tolees00-21) a 32.99 EUR (original: 48.68 EUR) (32.23 %  de descuento) en el siguiente enlace!
 
 [![Ariete 4615 Airy Fryer Mini  Friggitrice](https://m.media-amazon.com/images/I/41zogcfnuPL._SL200_.jpg)](https://www.amazon.it/dp/B07C7YZSRR/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07C7YZSRR/?tag=tolees00-21)
 

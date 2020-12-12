@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Swarovski Braccialetto Power Collection '
 date: 2020-11-09 13:55:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qyasDv7oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qyasDv7oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qyasDv7oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Swarovski Braccialetto Power Collection  Verde'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TXR8FST/?tag=tolees00-21'
+descuento: '50.00'
+titulo: 'Swarovski Braccialetto Power Collection '
 ---
 
 Tienes [Swarovski Braccialetto Power Collection  Verde](https://www.amazon.it/dp/B07TXR8FST/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 34.5 EUR (original: 69.0 EUR) en el siguiente enlace!
 
 [![Swarovski Braccialetto Power Collection ](https://m.media-amazon.com/images/I/51qyasDv7oL._SL200_.jpg)](https://www.amazon.it/dp/B07TXR8FST/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TXR8FST/?tag=tolees00-21)
 

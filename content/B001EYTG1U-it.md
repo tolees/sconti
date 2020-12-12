@@ -3,6 +3,7 @@ layout: post
 title: 'Intex 66928 Materasso  Pvc-Poliestere  V al 51.40 % de descuento'
 date: 2020-10-23 13:43:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41s9leOn2LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s9leOn2LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41s9leOn2LL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 47.0 EUR
 inStock: true
 prodname: 'Intex 66928 Materasso  Pvc-Poliestere  Verde  a Una Piazza E Mezza  30.5x15.9x36.8 cm  100 x 190 cm  resistente e maneggevole'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B001EYTG1U/?tag=tolees00-21'
+descuento: '51.40'
+titulo: 'Intex 66928 Materasso  Pvc-Poliestere  V'
 ---
 
 Ahora mismo tienes [Intex 66928 Materasso  Pvc-Poliestere  Verde  a Una Piazza E Mezza  30.5x15.9x36.8 cm  100 x 190 cm  resistente e maneggevole](https://www.amazon.it/dp/B001EYTG1U/?tag=tolees00-21) a 22.84 EUR (original: 47.0 EUR) (51.40 %  de descuento) en el siguiente enlace!
 
 [![Intex 66928 Materasso  Pvc-Poliestere  V](https://m.media-amazon.com/images/I/41s9leOn2LL._SL200_.jpg)](https://www.amazon.it/dp/B001EYTG1U/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B001EYTG1U/?tag=tolees00-21)
 

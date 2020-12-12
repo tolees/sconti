@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.37 % en Harry Potter Anni 1 4  4 Grandi Film   B'
 date: 2020-11-23 22:39:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/61oBqdBCv-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61oBqdBCv-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61oBqdBCv-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Harry Potter Anni 1 4  4 Grandi Film   Box 4 Dv '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00EO87RFK/?tag=tolees00-21'
+descuento: '53.37'
+titulo: 'Harry Potter Anni 1 4  4 Grandi Film   B'
 ---
 
 Tienes [Harry Potter Anni 1 4  4 Grandi Film   Box 4 Dv ](https://www.amazon.it/dp/B00EO87RFK/?tag=tolees00-21) con un 53.37 % de descuento con precio de oferta de 6.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Harry Potter Anni 1 4  4 Grandi Film   B](https://m.media-amazon.com/images/I/61oBqdBCv-L._SL200_.jpg)](https://www.amazon.it/dp/B00EO87RFK/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00EO87RFK/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Aigostar Lampadina LED GU10 6W  Luce Bia al 25.02 % de descuento'
 date: 2020-12-01 08:03:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Bvm3VjVjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Bvm3VjVjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Bvm3VjVjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.19 EUR
 inStock: true
 prodname: 'Aigostar Lampadina LED GU10 6W  Luce Bianca Fredda 6400K 440 Lumen  Angolo a Fascio 120-160 Gradi  Nessun Sfarfallio Non Dimmerabile  Pacco da 5'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B010QX7KF8/?tag=tolees00-21'
+descuento: '25.02'
+titulo: 'Aigostar Lampadina LED GU10 6W  Luce Bia'
 ---
 
 Está [Aigostar Lampadina LED GU10 6W  Luce Bianca Fredda 6400K 440 Lumen  Angolo a Fascio 120-160 Gradi  Nessun Sfarfallio Non Dimmerabile  Pacco da 5](https://www.amazon.it/dp/B010QX7KF8/?tag=tolees00-21) con 25.02 de descuento por 9.89 EUR (original: 13.19 EUR) en el siguiente enlace!
 
 [![Aigostar Lampadina LED GU10 6W  Luce Bia](https://m.media-amazon.com/images/I/41Bvm3VjVjL._SL200_.jpg)](https://www.amazon.it/dp/B010QX7KF8/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B010QX7KF8/?tag=tolees00-21)
 

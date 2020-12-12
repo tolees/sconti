@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.80 % en Marcapiuma - Materasso Matrimoniale Memo'
 date: 2020-11-14 09:02:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lShgNNdIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lShgNNdIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lShgNNdIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 312.99 EUR
 inStock: true
 prodname: 'Marcapiuma - Materasso Matrimoniale Memory 160x190 alto 22 cm - RAINBOW - Grado Rigidità H2 Medio Dispositivo Medico effetto massaggio Relax Rivestimento Sfoderabile Aloe Vera Antiacaro Made in Italy'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00JQ39GFM/?tag=tolees00-21'
+descuento: '50.80'
+titulo: 'Marcapiuma - Materasso Matrimoniale Memo'
 ---
 
 Tienes [Marcapiuma - Materasso Matrimoniale Memory 160x190 alto 22 cm - RAINBOW - Grado Rigidità H2 Medio Dispositivo Medico effetto massaggio Relax Rivestimento Sfoderabile Aloe Vera Antiacaro Made in Italy](https://www.amazon.it/dp/B00JQ39GFM/?tag=tolees00-21) con un 50.80 % de descuento con precio de oferta de 153.99 EUR (original: 312.99 EUR) en el siguiente enlace!
 
 [![Marcapiuma - Materasso Matrimoniale Memo](https://m.media-amazon.com/images/I/31lShgNNdIL._SL200_.jpg)](https://www.amazon.it/dp/B00JQ39GFM/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00JQ39GFM/?tag=tolees00-21)
 

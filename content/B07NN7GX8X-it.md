@@ -3,6 +3,7 @@ layout: post
 title: 'Jabra Move Style Edition Cuffie On-Ear   al 50.01 % de descuento'
 date: 2020-11-23 06:05:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WQjBVVWHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WQjBVVWHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WQjBVVWHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Jabra Move Style Edition Cuffie On-Ear  Cuffie Stereo con Connessione a Tablet  Computer e Telefono  Chiamate e Musica Wireless  Nere Titanio'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07NN7GX8X/?tag=tolees00-21'
+descuento: '50.01'
+titulo: 'Jabra Move Style Edition Cuffie On-Ear  '
 ---
 
 Está [Jabra Move Style Edition Cuffie On-Ear  Cuffie Stereo con Connessione a Tablet  Computer e Telefono  Chiamate e Musica Wireless  Nere Titanio](https://www.amazon.it/dp/B07NN7GX8X/?tag=tolees00-21) con 50.01 de descuento por 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Jabra Move Style Edition Cuffie On-Ear  ](https://m.media-amazon.com/images/I/41WQjBVVWHL._SL200_.jpg)](https://www.amazon.it/dp/B07NN7GX8X/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07NN7GX8X/?tag=tolees00-21)
 

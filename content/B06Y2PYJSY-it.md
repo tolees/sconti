@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Mattias B ABX B  Stivali Chukka U al 40.00 % de descuento'
 date: 2020-12-06 06:49:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fcMO8WneL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fcMO8WneL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fcMO8WneL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'Geox U Mattias B ABX B  Stivali Chukka Uomo  Marrone  Chestnut/Taupe   40 EU'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B06Y2PYJSY/?tag=tolees00-21'
+descuento: '40.00'
+titulo: 'Geox U Mattias B ABX B  Stivali Chukka U'
 ---
 
 Ahora mismo tienes [Geox U Mattias B ABX B  Stivali Chukka Uomo  Marrone  Chestnut/Taupe   40 EU](https://www.amazon.it/dp/B06Y2PYJSY/?tag=tolees00-21) a 89.94 EUR (original: 149.9 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![Geox U Mattias B ABX B  Stivali Chukka U](https://m.media-amazon.com/images/I/41fcMO8WneL._SL200_.jpg)](https://www.amazon.it/dp/B06Y2PYJSY/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B06Y2PYJSY/?tag=tolees00-21)
 

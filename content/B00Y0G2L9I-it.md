@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech K400 Plus Tastiera Wireless per al 39.14 % de descuento'
 date: 2020-10-14 13:36:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PUtS2Zd7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PUtS2Zd7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PUtS2Zd7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Logitech K400 Plus Tastiera Wireless per TV  PC  Home Theater  Tasti Multimediali Personalizzabili  Windows  Android  Laptop/Tablet  Layout Italiano QWERTY  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B00Y0G2L9I/?tag=tolees00-21'
+descuento: '39.14'
+titulo: 'Logitech K400 Plus Tastiera Wireless per'
 ---
 
 Ahora mismo tienes [Logitech K400 Plus Tastiera Wireless per TV  PC  Home Theater  Tasti Multimediali Personalizzabili  Windows  Android  Laptop/Tablet  Layout Italiano QWERTY  Nero](https://www.amazon.it/dp/B00Y0G2L9I/?tag=tolees00-21) a 27.99 EUR (original: 45.99 EUR) (39.14 %  de descuento) en el siguiente enlace!
 
 [![Logitech K400 Plus Tastiera Wireless per](https://m.media-amazon.com/images/I/41PUtS2Zd7L._SL200_.jpg)](https://www.amazon.it/dp/B00Y0G2L9I/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B00Y0G2L9I/?tag=tolees00-21)
 

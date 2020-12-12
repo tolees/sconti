@@ -3,6 +3,7 @@ layout: post
 title: 'Rio Mare  Filetti di Tonno all Olio Extr al 45.54 % de descuento'
 date: 2020-12-02 07:30:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Kcex7rtjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Kcex7rtjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Kcex7rtjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 5.49 EUR
 inStock: true
 prodname: 'Rio Mare  Filetti di Tonno all Olio Extravergine di Oliva  Lavorati a Mano  1 Vasetto da 180 g'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21'
+descuento: '45.54'
+titulo: 'Rio Mare  Filetti di Tonno all Olio Extr'
 ---
 
 Está [Rio Mare  Filetti di Tonno all Olio Extravergine di Oliva  Lavorati a Mano  1 Vasetto da 180 g](https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21) con 45.54 de descuento por 2.99 EUR (original: 5.49 EUR) en el siguiente enlace!
 
 [![Rio Mare  Filetti di Tonno all Olio Extr](https://m.media-amazon.com/images/I/51Kcex7rtjL._SL200_.jpg)](https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21)
 

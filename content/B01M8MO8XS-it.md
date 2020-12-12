@@ -3,6 +3,7 @@ layout: post
 title: 'Red Dead Redemption 2 - Xbox One al 59.99 % de descuento'
 date: 2020-12-08 02:43:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 74.98 EUR
 inStock: true
 prodname: 'Red Dead Redemption 2 - Xbox One'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21'
+descuento: '59.99'
+titulo: 'Red Dead Redemption 2 - Xbox One'
 ---
 
 Ahora mismo tienes [Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21) a 30.0 EUR (original: 74.98 EUR) (59.99 %  de descuento) en el siguiente enlace!
 
 [![Red Dead Redemption 2 - Xbox One](https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg)](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21)
 

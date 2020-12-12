@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Essential Western Camicia  Blu  C al 38.76 % de descuento'
 date: 2020-10-13 09:55:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/418X+V-Zc1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418X+V-Zc1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418X+V-Zc1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'Levi s Essential Western Camicia  Blu  Cool out  2  0001   Medium Donna'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07TT6ZYJM/?tag=tolees00-21'
+descuento: '38.76'
+titulo: 'Levi s Essential Western Camicia  Blu  C'
 ---
 
 Está [Levi s Essential Western Camicia  Blu  Cool out  2  0001   Medium Donna](https://www.amazon.it/dp/B07TT6ZYJM/?tag=tolees00-21) con 38.76 de descuento por 48.99 EUR (original: 80.0 EUR) en el siguiente enlace!
 
 [![Levi s Essential Western Camicia  Blu  C](https://m.media-amazon.com/images/I/418X+V-Zc1L._SL200_.jpg)](https://www.amazon.it/dp/B07TT6ZYJM/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07TT6ZYJM/?tag=tolees00-21)
 

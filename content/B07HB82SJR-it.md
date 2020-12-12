@@ -3,6 +3,7 @@ layout: post
 title: 'Brooklyn Cinnamon Gomme da Masticare  Gu al 25.06 % de descuento'
 date: 2020-11-17 10:29:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/519dvxoAHAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519dvxoAHAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519dvxoAHAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.0 EUR
 inStock: true
 prodname: 'Brooklyn Cinnamon Gomme da Masticare  Gusto Cannella  Confezione da 20 Stick da 9 Lastrine Monopezzi'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07HB82SJR/?tag=tolees00-21'
+descuento: '25.06'
+titulo: 'Brooklyn Cinnamon Gomme da Masticare  Gu'
 ---
 
 Ahora mismo tienes [Brooklyn Cinnamon Gomme da Masticare  Gusto Cannella  Confezione da 20 Stick da 9 Lastrine Monopezzi](https://www.amazon.it/dp/B07HB82SJR/?tag=tolees00-21) a 11.99 EUR (original: 16.0 EUR) (25.06 %  de descuento) en el siguiente enlace!
 
 [![Brooklyn Cinnamon Gomme da Masticare  Gu](https://m.media-amazon.com/images/I/519dvxoAHAL._SL200_.jpg)](https://www.amazon.it/dp/B07HB82SJR/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B07HB82SJR/?tag=tolees00-21)
 

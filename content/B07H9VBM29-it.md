@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.83 % en SanDisk Extreme PRO Scheda di Memoria da'
 date: 2020-12-04 01:48:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-aPXB6daL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-aPXB6daL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-aPXB6daL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 299.99 EUR
 inStock: true
 prodname: 'SanDisk Extreme PRO Scheda di Memoria da 512 GB  Velocità di Lettura fino a 170 MB/s  Classe 10  U3  V30'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07H9VBM29/?tag=tolees00-21'
+descuento: '34.83'
+titulo: 'SanDisk Extreme PRO Scheda di Memoria da'
 ---
 
 Tienes [SanDisk Extreme PRO Scheda di Memoria da 512 GB  Velocità di Lettura fino a 170 MB/s  Classe 10  U3  V30](https://www.amazon.it/dp/B07H9VBM29/?tag=tolees00-21) con un 34.83 % de descuento con precio de oferta de 195.51 EUR (original: 299.99 EUR) en el siguiente enlace!
 
 [![SanDisk Extreme PRO Scheda di Memoria da](https://m.media-amazon.com/images/I/51-aPXB6daL._SL200_.jpg)](https://www.amazon.it/dp/B07H9VBM29/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07H9VBM29/?tag=tolees00-21)
 

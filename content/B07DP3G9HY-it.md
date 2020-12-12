@@ -3,6 +3,7 @@ layout: post
 title: 'Doom Eternal - - PlayStation 4 al 71.44 % de descuento'
 date: 2020-12-02 11:18:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zp4l3PJ+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zp4l3PJ+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zp4l3PJ+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Doom Eternal - - PlayStation 4'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07DP3G9HY/?tag=tolees00-21'
+descuento: '71.44'
+titulo: 'Doom Eternal - - PlayStation 4'
 ---
 
 Está [Doom Eternal - - PlayStation 4](https://www.amazon.it/dp/B07DP3G9HY/?tag=tolees00-21) con 71.44 de descuento por 19.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Doom Eternal - - PlayStation 4](https://m.media-amazon.com/images/I/51zp4l3PJ+L._SL200_.jpg)](https://www.amazon.it/dp/B07DP3G9HY/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07DP3G9HY/?tag=tolees00-21)
 

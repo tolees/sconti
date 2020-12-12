@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.00 % en Eastpak Crew Single Portafoglio  13 Cm  '
 date: 2020-11-26 09:26:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f39aUHgnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f39aUHgnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f39aUHgnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 20.0 EUR
 inStock: true
 prodname: 'Eastpak Crew Single Portafoglio  13 Cm  Grigio  Sunday Grey '
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B003PPCZRI/?tag=tolees00-21'
+descuento: '51.00'
+titulo: 'Eastpak Crew Single Portafoglio  13 Cm  '
 ---
 
 Tienes [Eastpak Crew Single Portafoglio  13 Cm  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCZRI/?tag=tolees00-21) con un 51.00 % de descuento con precio de oferta de 9.8 EUR (original: 20.0 EUR) en el siguiente enlace!
 
 [![Eastpak Crew Single Portafoglio  13 Cm  ](https://m.media-amazon.com/images/I/41f39aUHgnL._SL200_.jpg)](https://www.amazon.it/dp/B003PPCZRI/?tag=tolees00-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B003PPCZRI/?tag=tolees00-21)
 

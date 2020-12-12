@@ -3,6 +3,7 @@ layout: post
 title: 'Sony HT-S350 Soundbar 2.1 Canali con Sub al 42.31 % de descuento'
 date: 2020-11-27 11:02:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 260.0 EUR
 inStock: true
 prodname: 'Sony HT-S350 Soundbar 2.1 Canali con Subwoofer Wireless  Bluetooth  Nero'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21'
+descuento: '42.31'
+titulo: 'Sony HT-S350 Soundbar 2.1 Canali con Sub'
 ---
 
 Está [Sony HT-S350 Soundbar 2.1 Canali con Subwoofer Wireless  Bluetooth  Nero](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21) con 42.31 de descuento por 149.99 EUR (original: 260.0 EUR) en el siguiente enlace!
 
 [![Sony HT-S350 Soundbar 2.1 Canali con Sub](https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg)](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'The Witch al 37.42 % de descuento'
 date: 2020-11-29 20:26:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51J7K5iyjAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51J7K5iyjAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51J7K5iyjAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'The Witch'
 country: 'it'
+buyurl: 'https://www.amazon.it/dp/B01K7GVW6W/?tag=tolees00-21'
+descuento: '37.42'
+titulo: 'The Witch'
 ---
 
 Ahora mismo tienes [The Witch](https://www.amazon.it/dp/B01K7GVW6W/?tag=tolees00-21) a 5.0 EUR (original: 7.99 EUR) (37.42 %  de descuento) en el siguiente enlace!
 
 [![The Witch](https://m.media-amazon.com/images/I/51J7K5iyjAL._SL200_.jpg)](https://www.amazon.it/dp/B01K7GVW6W/?tag=tolees00-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.it/dp/B01K7GVW6W/?tag=tolees00-21)
 
