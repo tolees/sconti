@@ -28,11 +28,11 @@ Tienes [Pentel Pen N50 Marcatore Permanente Punta Conica Nero 12 Pezzi](https://
 
 Características principales:
 
+- Alta indelebilità dellinchiostro
+- Punta sintetica extra forte
 - Adatto a tutte le superfici
 - Disponibile in vari colori
 - Fusto in metallo
-- Punta sintetica extra forte
-- Alta indelebilità dellinchiostro
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000SHUMNU/?tag=tolees00-21)
 

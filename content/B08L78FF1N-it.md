@@ -28,9 +28,9 @@ Tienes [Mortal Kombat 11 Ultimate - XBox Series X](https://www.amazon.it/dp/B08L
 
 Características principales:
 
-- Vesti i panni dei protettori del Regno della Terra nelle DUE storie del gioco acclamate dalla critica e parti per una missione a spasso nel tempo per fermare Kronika e riscrivere la storia
 - Amicizie verranno messe alla prova e nasceranno nuove alleanze
 - MK11 Ultimate contiene tutti e 37 i personaggi, incluse le nuove aggiunte Rain, Mileena e Rambo
+- Vesti i panni dei protettori del Regno della Terra nelle DUE storie del gioco acclamate dalla critica e parti per una missione a spasso nel tempo per fermare Kronika e riscrivere la storia
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08L78FF1N/?tag=tolees00-21)
 

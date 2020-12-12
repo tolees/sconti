@@ -28,8 +28,8 @@ Ahora mismo tienes [Lisciani Giochi- Kids Love Monsters Castello Stregato Gioco 
 
 Características:
 
-- Con iun teschio in plastica
 - Numeri, attenzione, rispetto delle regole, rapporto con gli altri
+- Con iun teschio in plastica
 - Castello tridimensionale, teschio in plastica, mostri segna posto in plastica, manuale di istruzioni
 - Un boardgame da brividi per mettere alla prova le abilità di logica, memoria e coordinazione
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [Lisciani Giochi Montessori Alfabetiere Tattile Elettronico](
 
 Características:
 
-- Gioco elettronico, manuale di istruzioni
 - Grande alfabetiere touch
-- con le lettere smerigliate: lettere e parole, suoni e filastrocche, quiz
 - Vista, tatto, udito
+- con le lettere smerigliate: lettere e parole, suoni e filastrocche, quiz
+- Gioco elettronico, manuale di istruzioni
 
 [Visítala!!!](https://www.amazon.it/dp/B084MY5WLJ/?tag=tolees00-21)
 
