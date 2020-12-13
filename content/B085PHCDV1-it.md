@@ -24,9 +24,9 @@ Ahora mismo tienes [Funko- Pop&Buddy Holiday DC Comics Holidays S1 Harley Quinn 
 
 🔎:
 
-- Harley quinn w/helper e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Funko pop è il giocattolo dellanno 2018
-- Uniconica statuina funko pop vinyl della serie dc holiday
+- Harley quinn w/helper e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Scopri tutte le altre statuine dc holiday di funko e collezionale tutte
+- Uniconica statuina funko pop vinyl della serie dc holiday
 
 [Visítala!!!](https://www.amazon.it/dp/B085PHCDV1/?tag=tolees00-21)
