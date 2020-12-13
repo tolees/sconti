@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.97 % en Sony SEL-50F18F Obiettivo a Focale Fissa'
-date: 2020-12-12 04:59:44
+date: 2020-12-13 05:20:05
 image: 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,11 +24,9 @@ Tienes [Sony SEL-50F18F Obiettivo a Focale Fissa 50 mm F1.8  Mirrorless Full-Fra
 
 ℹ️:
 
-- Compact, lightweight, easy to carry, Lens front cap, Lens rear cap
-- DMF (Direct manual focus):After the camera focuses in auto focus, you can make a fine adjustment manually. Manual focus: Focus manually.
-- Three ways focus. Auto focus: The camera focuses automatically. Operating sounds may also be recorded during movie recording
-- Hood (ALC-SH146), lens front cap (ALC-F49S), lens rear cap (ALC-R1EM)
-- F1.8 maximum aperture for low-light shots. 7 blade circular aperture for beautiful defocus effects
-- 75mm (35mm equivalent) focal length with APS-C sensor. Aspherical lens
+- Compatibilità con FE 50 mm F1,8: Fotocamere full frame con innesto E
+- Obiettivo con focale fissa 50 mm f 1.8 per fotocamere sony alpha con sensore full-frame
+- Apertura massima f1.8 per scattare con effetto bokeh anche in situazioni di scarsa luminosità
+- Compatto, leggero, facile da portare con sé grazie ai suoi soli 186 g
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21)

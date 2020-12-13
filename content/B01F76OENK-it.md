@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VERO MODA VMMAXI MY LS SOFT LONG U-NECK  al 38.30 % de descuento'
-date: 2020-12-12 05:03:57
+date: 2020-12-13 05:24:00
 image: 'https://m.media-amazon.com/images/I/41Y++yxWx8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [VERO MODA VMMAXI MY LS SOFT LONG U-NECK NOOS  Maglia a manic
 
 [![VERO MODA VMMAXI MY LS SOFT LONG U-NECK ](https://m.media-amazon.com/images/I/41Y++yxWx8L._SL200_.jpg)](https://www.amazon.it/dp/B01F76OENK/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.it/dp/B01F76OENK/?tag=tolees00-21)

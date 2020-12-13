@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.05 % en Parrot Zaino per Drone Bebop & Skycontro'
-date: 2020-12-12 05:18:58
+date: 2020-12-13 05:42:45
 image: 'https://m.media-amazon.com/images/I/41M3vBAKztL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,8 @@ Tienes [Parrot Zaino per Drone Bebop & Skycontroller  Nero](https://www.amazon.i
 
 ℹ️:
 
-- Dimensions: 44 x 34 x 23 cm.
-- Always purchase genuine Parrot replacement parts, as the substitution of alternative spares will invalidate the warranty
-- Every component of the Parrot Bebop Drone 2 remote controlled quadricopter is replaceable, using the appropriate spare part
-- The manufacturers recommended Backpack for the Parrot Bebop Drone and Bebop 2 with Skycontroller
+- Compatibile anche con i modelli precedenti di Bebop Drone e Skycontroller
+- Zaino per trasportare Bebop 2 e Skycontroller
+- Colore nero
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B016VZNU5O/?tag=tolees00-21)

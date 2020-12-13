@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.95 % en PUMA Smash v2 L  Scarpe da Ginnastica Un'
-date: 2020-12-12 05:06:16
+date: 2020-12-13 05:24:08
 image: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,9 @@ Tienes [PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White White 
 
 ℹ️:
 
-- BusinessUnit: Athletic / Sport Leisure
-- AgeGroup: Adults
-- ActivityGroup: Basics
-- ArticleType: Low Boot
-- MidSole: Rubber
+- Le calzature di puma sono la perfetta alternativa sportiva ad ogni look nel tempo libero; per calcio, pallavolo, fitness o altri sport: queste scarpe sportive migliorano sempre la performance
+- Materiale suola: gomma
+- Fodera: maglia
+- Materiale esterno: pelle
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B077M8YXL2/?tag=tolees00-21)

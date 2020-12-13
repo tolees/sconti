@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger 3p Brief Slip-pacco da 3  al 29.84 % de descuento'
-date: 2020-12-12 05:28:13
+date: 2020-12-13 05:50:49
 image: 'https://m.media-amazon.com/images/I/41tZJdExv6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,8 @@ Está [Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904  
 
 ℹ️:
 
-- Stretch cotton
-- Three pack
-- Tommy Hilfiger repeat logo on waistband
-- Signature tape on waistband
+- Logo Tommy Hilfiger ripetuto sullelastico in vita
+- Elastico iconico in vita
+- Vestibilità comoda e moderna
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MTG9AQY/?tag=tolees00-21)

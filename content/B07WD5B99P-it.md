@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.08 % en Sony WH-CH510 - Cuffie wireless on-ear  '
-date: 2020-12-10 23:02:31
+date: 2020-12-13 05:39:42
 image: 'https://m.media-amazon.com/images/I/3176rsELDaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Tienes [Sony WH-CH510 - Cuffie wireless on-ear  Compatibile con Google Assistant
 
 ℹ️:
 
-- Design on-ear compatto
 - Voice assistant
-- Durata della batteria fino a 35 ore
 - Quick charge: 90 minuti di riproduzione con 10 minuti di ricarica
+- Durata della batteria fino a 35 ore
 - Cuffie sony wireless bluetooth on-ear wh-ch510 bianco
+- Design on-ear compatto
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07WD5B99P/?tag=tolees00-21)
