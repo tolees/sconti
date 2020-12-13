@@ -24,10 +24,10 @@ Ahora mismo tienes [Controller PS4  gamepad per giochi wireless Joystick touch p
 
 🔎:
 
+- 🎮 【Design ergonomico】 Le maniglie in plastica di qualità e blocco in gomma antiscivolo. La disposizione dei tasti e langolazione dellimpugnatura sono ben progettati per un funzionamento confortevole per lunghe ore.
 - 🎮 【Nuova versione 2020】 Controller. Pienamente compatibile con PS4 / PS4Pro / PS4 Slim / PC (Windows 7/8/10). Connessione Bluetooth stabile per controllo remoto fino a 10 m.
+- 🎮 【Joystick a doppia vibrazione】 Ti consente di vivere le emozionanti scene di collisione, vibrazione e battaglia nel gioco.
 - 🎮 【Multi Player】 Supporta 4 persone per giocare contemporaneamente, ideale per giocare con la famiglia e gli amici.
 - 🎮 【Jack per auricolare stereo】 Goditi effetti sonori extra - direttamente dal controller e chatta con gli amici online tramite un auricolare, come lauricolare stereo incluso con il sistema PS4; feedback tramite vibrazione
-- 🎮 【Joystick a doppia vibrazione】 Ti consente di vivere le emozionanti scene di collisione, vibrazione e battaglia nel gioco.
-- 🎮 【Design ergonomico】 Le maniglie in plastica di qualità e blocco in gomma antiscivolo. La disposizione dei tasti e langolazione dellimpugnatura sono ben progettati per un funzionamento confortevole per lunghe ore.
 
 [Visítala!!!](https://www.amazon.it/dp/B08M6DBBND/?tag=tolees00-21)
