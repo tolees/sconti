@@ -24,9 +24,9 @@ Ahora mismo tienes [DeFacto - Cappotto da uomo Slim Fit Bomber Laci̇vert-210-13
 
 🔎:
 
+- 100% poliestere | poliestere Linning1 100%
 - DeFacto.
 - Colore: LACIVERT-210-13.
-- 100% poliestere | poliestere Linning1 100%
 - Prodotto in Turchia.
 
 [Visítala!!!](https://www.amazon.it/dp/B08HV87QDV/?tag=tolees00-21)

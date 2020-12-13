@@ -24,8 +24,8 @@ Tienes [Ovunque Proteggi  180 Gr. Remastered Edt. ](https://www.amazon.it/dp/B07
 
 ℹ️:
 
+- Ovunque
 - Vinicio
 - Proteggi
-- Ovunque
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07XR5GMNX/?tag=tolees00-21)

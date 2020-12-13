@@ -24,7 +24,7 @@ Está [Only Onlsedona Light Coat Otw Noos  Giubbotto Donna  Grigio  34  Taglia P
 
 ℹ️:
 
-- Cappotto di lana con cappuccio.
 - Cappotto lungo per mezza stagione.
+- Cappotto di lana con cappuccio.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07237KDZN/?tag=tolees00-21)

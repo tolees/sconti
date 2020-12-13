@@ -25,7 +25,7 @@ Está [Assassin s Creed The Ezio Collection - HD Collection - PlayStation 4](htt
 ℹ️:
 
 - Include i DLC dei tre prodotto e due filmati brevi
-- Rimasterizzati per la prima volta su console PS4 e Xbox One
 - Comprende la modalità per giocatore singolo di Assassins Creed 2, Assassins Creed Brotherhood e Assassins Creed Revelations
+- Rimasterizzati per la prima volta su console PS4 e Xbox One
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01LCF27VQ/?tag=tolees00-21)
