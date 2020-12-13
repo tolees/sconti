@@ -25,8 +25,8 @@ Tienes [Horizon Zero Dawn Hits - PlayStation 4](https://www.amazon.it/dp/B07TJV6
 ℹ️:
 
 - Gameplay arricchito da nuovi nemici e nuove dinamiche di caccia
-- Include oggetti di gioco bonus come armi, costumi e risorse
-- Contiene il gioco completo Horizon zero Dawn e l’espansione the Frozen Wilds
 - Nuove missioni e storia che aggiungono ore di divertimento all’esperienza di gioco
+- Contiene il gioco completo Horizon zero Dawn e l’espansione the Frozen Wilds
+- Include oggetti di gioco bonus come armi, costumi e risorse
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TJV6FN8/?tag=tolees00-21)

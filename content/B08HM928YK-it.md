@@ -25,8 +25,8 @@ Tienes [DeFacto - Pantaloni comodi da donna grigio XL](https://www.amazon.it/dp/
 ℹ️:
 
 - 30% cotone, 70% poliestere.
-- Made in Turchia.
 - Colore: antracite melange
 - DeFacto
+- Made in Turchia.
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08HM928YK/?tag=tolees00-21)

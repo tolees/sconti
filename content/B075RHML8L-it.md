@@ -24,9 +24,9 @@ Ahora mismo tienes [Nero Giardini A705311U Stringate Uomo in Pelle - Blu 43 EU](
 
 🔎:
 
-- Outer Material: Leather
-- Inner Material: Leather
 - Base Material: Rubber
 - Closure Type: Lace-up
+- Inner Material: Leather
+- Outer Material: Leather
 
 [Visítala!!!](https://www.amazon.it/dp/B075RHML8L/?tag=tolees00-21)

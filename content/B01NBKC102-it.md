@@ -24,8 +24,8 @@ Está [Reebok Club C 85  Sneaker Uomo  Bianco  Intense White/Royal-Gum   45 EU](
 
 ℹ️:
 
-- Tomaia in pelle
-- Scarpe sportive
 - Ammortizzazione
+- Scarpe sportive
+- Tomaia in pelle
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01NBKC102/?tag=tolees00-21)

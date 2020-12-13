@@ -24,8 +24,8 @@ Está [YAMAMAY® Maglia - Active Special](https://www.amazon.it/dp/B084Q61RVQ/?t
 
 ℹ️:
 
-- Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
 - Collezione Yamamay Passepartout-Season Spring/Summer 2019
+- Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
 - Composizione: 100%COTTON
 
 [Ver la oferta!!](https://www.amazon.it/dp/B084Q61RVQ/?tag=tolees00-21)

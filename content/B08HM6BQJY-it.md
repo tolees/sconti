@@ -24,9 +24,9 @@ Ahora mismo tienes [DeFacto - Felpa da donna rosso XS](https://www.amazon.it/dp/
 
 🔎:
 
+- DeFacto
 - Colore: rosso
 - Made in Turchia
-- DeFacto
 - Acrilico al 100%
 
 [Visítala!!!](https://www.amazon.it/dp/B08HM6BQJY/?tag=tolees00-21)

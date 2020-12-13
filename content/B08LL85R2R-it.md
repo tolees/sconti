@@ -24,9 +24,9 @@ Ahora mismo tienes [goldenpoint Leggings Skinny Velluto](https://www.amazon.it/d
 
 🔎:
 
-- Available in Size XS - S - M - L
-- Microrib Cotton Velvet Fabric
-- Elasticated waist
 - Skinny trousers
+- Microrib Cotton Velvet Fabric
+- Available in Size XS - S - M - L
+- Elasticated waist
 
 [Visítala!!!](https://www.amazon.it/dp/B08LL85R2R/?tag=tolees00-21)
