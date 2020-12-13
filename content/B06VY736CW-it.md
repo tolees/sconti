@@ -24,11 +24,11 @@ Está [Chicco - Miss Rodeo Cavallo a Dondolo  Gioco Interattivo Cavalcabile  Ada
 
 ℹ️:
 
-- Gioco educativo: aiuta ad aumentare il senso del ritmo e dellequilibrio
+- Facilmente trasformabile, maneggevole e sicuro; materiale robusto e resistente
 - Cavallo a dondolo interattivo per bambini da 1 anno
 - Tre funzioni di gioco: dondolo, cavalcabile e gioco interattivo
 - Nitrisce e muove gli occhi se il bambino gli dà la carota o lo coccola
-- Facilmente trasformabile, maneggevole e sicuro; materiale robusto e resistente
+- Gioco educativo: aiuta ad aumentare il senso del ritmo e dellequilibrio
 - Baby Rodeo è un ottimo allenamento per i muscoli delle gambe
 
 [Ver la oferta!!](https://www.amazon.it/dp/B06VY736CW/?tag=tolees00-21)
