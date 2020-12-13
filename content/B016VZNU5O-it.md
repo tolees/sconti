@@ -24,8 +24,8 @@ Tienes [Parrot Zaino per Drone Bebop & Skycontroller  Nero](https://www.amazon.i
 
 ℹ️:
 
-- Compatibile anche con i modelli precedenti di Bebop Drone e Skycontroller
-- Zaino per trasportare Bebop 2 e Skycontroller
 - Colore nero
+- Zaino per trasportare Bebop 2 e Skycontroller
+- Compatibile anche con i modelli precedenti di Bebop Drone e Skycontroller
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B016VZNU5O/?tag=tolees00-21)

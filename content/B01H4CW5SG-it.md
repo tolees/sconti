@@ -24,10 +24,10 @@ Está [PUMA Tazon 6 FM  Scarpe da Corsa Uomo  Bianco  White/Black Silver   42 EU
 
 ℹ️:
 
-- Materiale suola: Gomma
-- Materiale esterno: Sintetico
 - Marchio Puma sul ponticello
+- Materiale suola: Gomma
 - Suola esterna flessibile con buona aderenza
 - Fodera: Sintetico
+- Materiale esterno: Sintetico
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01H4CW5SG/?tag=tolees00-21)

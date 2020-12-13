@@ -24,8 +24,8 @@ Está [Tommy Hilfiger SS Tee Logo Maglietta  Bianco  White 100   Medium Uomo](ht
 
 ℹ️:
 
-- Nastro iconico allinterno del collo
 - Bandierina Tommy Hilfiger ricamata sulla manica
+- Nastro iconico allinterno del collo
 - Logo Tommy Hilfiger sul davanti
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01NAY0JVP/?tag=tolees00-21)

@@ -24,9 +24,9 @@ Ahora mismo tienes [GOLIATH Scarabocchio](https://www.amazon.it/dp/B089YWQZ6X/?t
 
 🔎:
 
-- Età consigliata: +7
-- Tempo di gioco: illimitato
 - Da 4 a 16 giocatori
+- Tempo di gioco: illimitato
 - I giocatori devono disegnare e indovinare, ma quando disegnano, indossano occhiali con lenti distorte; non è così facile disegnare correttamente senza errori
+- Età consigliata: +7
 
 [Visítala!!!](https://www.amazon.it/dp/B089YWQZ6X/?tag=tolees00-21)

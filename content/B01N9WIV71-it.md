@@ -25,7 +25,7 @@ Tienes [Tommy Hilfiger SS Tee Logo Maglietta  Bianco  White 100   Small Uomo](ht
 ℹ️:
 
 - Bandierina Tommy Hilfiger ricamata sulla manica
-- Logo Tommy Hilfiger sul davanti
 - Nastro iconico allinterno del collo
+- Logo Tommy Hilfiger sul davanti
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N9WIV71/?tag=tolees00-21)

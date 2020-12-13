@@ -24,8 +24,8 @@ Tienes [SuperThings PST6D850IN00 Secret Spies-One Pack](https://www.amazon.it/dp
 
 ℹ️:
 
-- Ognuno viene fornito con guida per collezionisti.
 - Riuscite a trovare le spie magiche che cambiano colore?
 - Oltre 80 da collezionare.
+- Ognuno viene fornito con guida per collezionisti.
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08FXS19C9/?tag=tolees00-21)
