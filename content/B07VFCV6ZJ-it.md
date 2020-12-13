@@ -24,8 +24,8 @@ Está [CARPISA® Porta passaporto borchie - Lilo](https://www.amazon.it/dp/B07VF
 
 ℹ️:
 
-- Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
 - Dimensioni: 19.50x10.00x2.00
+- Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
 - Composizione: Sintetico
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VFCV6ZJ/?tag=tolees00-21)
