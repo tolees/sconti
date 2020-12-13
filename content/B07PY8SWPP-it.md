@@ -24,8 +24,8 @@ Tienes [Motta Girella al Cacao Confezione da 8 Merendine](https://www.amazon.it/
 
 ℹ️:
 
-- SENZA conservanti e coloranti. Con solo aromi NATURALI
-- Girella al Cacao. Ora con una NUOVA RICETTA.
 - Confezione da 6 merendine.
+- Girella al Cacao. Ora con una NUOVA RICETTA.
+- SENZA conservanti e coloranti. Con solo aromi NATURALI
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07PY8SWPP/?tag=tolees00-21)
