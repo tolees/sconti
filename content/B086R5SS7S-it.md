@@ -24,9 +24,9 @@ Ahora mismo tienes [Xiaomi Mi 10 Lite -Smartphone 6.57" FHD+ DotDisplay  6GB RAM
 
 🔎:
 
+- Sistema operativo miui 11
 - Processore octa-core 7nm qualcomm snapdragon 765g; 5g leading flagship; 6.57 amoled truecolor display
 - Batteria da 4160 mAh; 20w fast charging
 - Frequenza fino a 2.4 ghz
-- Sistema operativo miui 11
 
 [Visítala!!!](https://www.amazon.it/dp/B086R5SS7S/?tag=tolees00-21)

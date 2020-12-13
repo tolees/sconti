@@ -24,10 +24,10 @@ Ahora mismo tienes [eXtremeRate Pulsante ABXY D-Pad Croci Direzionali Tasti ZR Z
 
 🔎:
 
-- La confezione include i pulsanti ABXY D-pad ZR ZL L R di ricambio per Nintendo Switch Pro controller(nessuna parte elettronica), 2MM cacciavite a croce e viti di ricambio
-- Sostituzione Unica per aggiungere più personalità al tuo Switch Pro. I tasti di ricambio renderanno il tuo controller Switch Pro distinto quando giochi con gli amici, non è più colore standard noioso
 - NON è controller. Kit di pulsanti personalizzati di ricambio compatibile con Switch Pro controller. Taglio Preciso per funzionare esattamente come i pulsanti originali
-- Il processo di installazione richiede i clienti con esperienza di modifica elettronica. Ottieni il video tutorial d’installazione su Youtube cercando "ExtremeRate Switch Pro Buttons Guide" o "hzpG7-VMiI0"
+- La confezione include i pulsanti ABXY D-pad ZR ZL L R di ricambio per Nintendo Switch Pro controller(nessuna parte elettronica), 2MM cacciavite a croce e viti di ricambio
 - Il colore camaleonte vibrante lucido; Quando guardi il guscio da diverse prospettive, sembrerà un camaleonte che cambia colore.
+- Il processo di installazione richiede i clienti con esperienza di modifica elettronica. Ottieni il video tutorial d’installazione su Youtube cercando "ExtremeRate Switch Pro Buttons Guide" o "hzpG7-VMiI0"
+- Sostituzione Unica per aggiungere più personalità al tuo Switch Pro. I tasti di ricambio renderanno il tuo controller Switch Pro distinto quando giochi con gli amici, non è più colore standard noioso
 
 [Visítala!!!](https://www.amazon.it/dp/B08P6K1FX8/?tag=tolees00-21)

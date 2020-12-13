@@ -25,7 +25,7 @@ Está [Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904  
 ℹ️:
 
 - Logo Tommy Hilfiger ripetuto sullelastico in vita
-- Elastico iconico in vita
 - Vestibilità comoda e moderna
+- Elastico iconico in vita
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MTG9AQY/?tag=tolees00-21)

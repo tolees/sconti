@@ -24,11 +24,11 @@ Tienes [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Inte
 
 ℹ️:
 
-- Fast hybrid autofocus system. Dioptre adjustment: -4.0 to +3.0/m
-- Sony’s 24.3 MP Exmor APS HD CMOS sensor. Versatile E-mount interchangeable lens system
-- Special feature : shutter priority; aperture priority
-- Sharp SVGA Tru-Finder OLED viewfinder
 - 16-50 mm power zoom lens included
+- Fast hybrid autofocus system. Dioptre adjustment: -4.0 to +3.0/m
+- Special feature : shutter priority; aperture priority
 - Removable memory : memory stick; secure digital card
+- Sharp SVGA Tru-Finder OLED viewfinder
+- Sony’s 24.3 MP Exmor APS HD CMOS sensor. Versatile E-mount interchangeable lens system
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21)

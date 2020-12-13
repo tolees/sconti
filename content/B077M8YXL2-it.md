@@ -26,7 +26,7 @@ Tienes [PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White White 
 
 - Le calzature di puma sono la perfetta alternativa sportiva ad ogni look nel tempo libero; per calcio, pallavolo, fitness o altri sport: queste scarpe sportive migliorano sempre la performance
 - Materiale suola: gomma
-- Materiale esterno: pelle
 - Fodera: maglia
+- Materiale esterno: pelle
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B077M8YXL2/?tag=tolees00-21)

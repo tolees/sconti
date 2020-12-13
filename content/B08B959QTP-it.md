@@ -24,9 +24,9 @@ Está [King C. Gillette Kit Regolabarba Uomo  Tagliacapelli senza Fili + Lame Af
 
 ℹ️:
 
-- Regolabarba progettato per aiutarti a ottenere il tuo look preferito
 - La confezione regolabarba uomo King C. Gillette include una testina lavabile, 3 pettini regolatori di lunghezza, spazzolina di pulizia e caricatore
 - I tre pettini regolatori di lunghezza sono adatti per tutti gli stili di barba: barba molto corta 1 mm, barba corta 3-11 mm e lunga 13-21 mm
+- Regolabarba progettato per aiutarti a ottenere il tuo look preferito
 - Batteria ricaricabile con 50 minuti di rasatura per ricarica
 - Oltre un secolo di esperienza e competenza
 - Lame affilate di lunga durata per ottenere ottimi risultati di regolazione, qualunque sia il tuo stile

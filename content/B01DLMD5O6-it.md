@@ -24,9 +24,9 @@ Tienes [Sony SEL-50F18F Obiettivo a Focale Fissa 50 mm F1.8  Mirrorless Full-Fra
 
 ℹ️:
 
-- Obiettivo con focale fissa 50 mm f 1.8 per fotocamere sony alpha con sensore full-frame
 - Compatto, leggero, facile da portare con sé grazie ai suoi soli 186 g
-- Apertura massima f1.8 per scattare con effetto bokeh anche in situazioni di scarsa luminosità
+- Obiettivo con focale fissa 50 mm f 1.8 per fotocamere sony alpha con sensore full-frame
 - Compatibilità con FE 50 mm F1,8: Fotocamere full frame con innesto E
+- Apertura massima f1.8 per scattare con effetto bokeh anche in situazioni di scarsa luminosità
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21)

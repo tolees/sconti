@@ -24,8 +24,8 @@ Ahora mismo tienes [Hugo Boss Eau de Toilette Spray [200 ml]](https://www.amazon
 
 🔎:
 
+- 200 ml
 - Uomo
 - EDT
-- 200 ml
 
 [Visítala!!!](https://www.amazon.it/dp/B001O8MI2K/?tag=tolees00-21)
