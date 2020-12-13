@@ -24,7 +24,7 @@ Está [Only Onlchris Fur Hooded Jacket Otw Noos Giacca  Grigio  Pumice Stone Pum
 
 ℹ️:
 
-- Fake faux jacket with zipper
 - Fake faux jacket with hood
+- Fake faux jacket with zipper
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07DJTS3RJ/?tag=tolees00-21)
