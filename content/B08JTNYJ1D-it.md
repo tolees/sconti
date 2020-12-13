@@ -24,9 +24,9 @@ Tienes [goldenpoint Leggings Cropped Viscosa](https://www.amazon.it/dp/B08JTNYJ1
 
 ℹ️:
 
+- Disponibile in Taglia XS - S - M - L - XL
+- Vita elasticizzata
 - Pantalone Cropped
 - Tessuto di viscosa
-- Vita elasticizzata
-- Disponibile in Taglia XS - S - M - L - XL
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08JTNYJ1D/?tag=tolees00-21)

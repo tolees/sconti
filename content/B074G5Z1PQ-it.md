@@ -24,13 +24,13 @@ Ahora mismo tienes [AVM FRITZ!Box 7590 International Modem Router  Wireless Velo
 
 🔎:
 
-- 4x porte lan gigabit ultraveloci per computer, televisori ed altri dispositivi di rete, 2 potenti porte USB 3.0 per supporti di memoria (nas), stampanti di rete e chiavette per rete mobile
-- Funzionamento router anche con modem via cavo, connessione a fibra ottica o chiavetta per rete mobile (lte/umts/hspa)
-- Attenzione verifica la compatibilita del prodotto con altri dispositivi e con i servizi del tuo operatore telefonico prima di acquistarlo (controlla il pdf “informazioni allineamento providers” nelle specifiche prodotto)
-- Media server con connettività nas integrato mette a disposizione della rete domestica musica, immagini e video
-- Contenuto: cavo telefono 4.00m, cavo lan 1.5m, alimentatore, istruzioni di installazione in italiano
-- Modem router che usa la tecnologia 4x4 multi-user-mimo 1.733 (5 ghz) + 800 MBit/s (2.4 ghz) contemporaneamente, inoltre supporta le connessioni vdsl da 300 MBit, incluso supervectoring
 - Centralino con base dect per 6 telefoni cordless e 2 porte a/b per collegare telefoni analogici, segreteria telefonica e fax
+- Attenzione verifica la compatibilita del prodotto con altri dispositivi e con i servizi del tuo operatore telefonico prima di acquistarlo (controlla il pdf “informazioni allineamento providers” nelle specifiche prodotto)
+- 4x porte lan gigabit ultraveloci per computer, televisori ed altri dispositivi di rete, 2 potenti porte USB 3.0 per supporti di memoria (nas), stampanti di rete e chiavette per rete mobile
+- Modem router che usa la tecnologia 4x4 multi-user-mimo 1.733 (5 ghz) + 800 MBit/s (2.4 ghz) contemporaneamente, inoltre supporta le connessioni vdsl da 300 MBit, incluso supervectoring
+- Media server con connettività nas integrato mette a disposizione della rete domestica musica, immagini e video
 - Compatibile con la fibra di Tiscali ed altri operatori
+- Funzionamento router anche con modem via cavo, connessione a fibra ottica o chiavetta per rete mobile (lte/umts/hspa)
+- Contenuto: cavo telefono 4.00m, cavo lan 1.5m, alimentatore, istruzioni di installazione in italiano
 
 [Visítala!!!](https://www.amazon.it/dp/B074G5Z1PQ/?tag=tolees00-21)

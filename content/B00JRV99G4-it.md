@@ -25,7 +25,7 @@ Está [Rimmel Kate Matte  Rossetto  Shade 30  Il packaging può variare ](https:
 ℹ️:
 
 - Creato da Kate Moss
-- Colore Shade 30
 - Formula morbida, liscia e confortevole
+- Colore Shade 30
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00JRV99G4/?tag=tolees00-21)
