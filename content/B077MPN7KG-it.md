@@ -24,9 +24,9 @@ Tienes [PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Blu  Peacoat White   
 
 ℹ️:
 
-- Materiale suola: gomma
-- Materiale esterno: pelle
 - Pelle
 - Fodera: maglia
+- Materiale esterno: pelle
+- Materiale suola: gomma
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B077MPN7KG/?tag=tolees00-21)

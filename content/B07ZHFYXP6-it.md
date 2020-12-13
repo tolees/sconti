@@ -24,12 +24,12 @@ Está [Xiaomi Redmi Note 8t Mooshadow Grey 6 3" 4gb/64gb Dual Sim](https://www.a
 
 ℹ️:
 
-- Camera macro da 2mp
 - Camera di profondità da 2mp
-- Scheda grafica adreno 610
 - Fotocamera ultra grandangolare da 8mp
-- Quad camera da 48mp per ogni tipo di scatto
+- Scheda grafica adreno 610
 - Risoluzione: 2340 x 1080 fhd+ 19.5:9
+- Camera macro da 2mp
 - Processore octa-core qualcomm snapdragon 665 frequenza: fino a 2.0ghz
+- Quad camera da 48mp per ogni tipo di scatto
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21)

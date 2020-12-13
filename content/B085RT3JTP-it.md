@@ -24,8 +24,8 @@ Está [Hunger Games - Capitol Collec.  Box 4 Br  ](https://www.amazon.it/dp/B085
 
 ℹ️:
 
-- Blu-Ray
 - da non perdere
+- Blu-Ray
 - Avventura
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085RT3JTP/?tag=tolees00-21)

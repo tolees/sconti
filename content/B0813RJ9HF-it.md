@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.85 % en LEGO Hidden Side Phantom Fire Truck 3000'
-date: 2020-12-11 15:09:49
+date: 2020-12-13 00:05:23
 image: 'https://m.media-amazon.com/images/I/51W2UQMDnpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Tienes [LEGO Hidden Side Phantom Fire Truck 3000  App per giochi AR  Playset
 
 ℹ️:
 
-- Il veicolo LEGO si trasforma se osservato attraverso l’app LEGO AR, grazie alla quale i bambini potranno arricchire la propria collezione di fantasmi in un mondo digitale stregato
+- Il kit comprende il modello digitale interattivo del camion dei pompieri (della serie LEGO Hidden Side), con un robot meccanico trasformabile e la statuetta di Nehmaar Reem The Harbinger
+- Insieme alle minifigure di Jack, Parker, J.B., TeeVee e Shadow-Walker, i ragazzi potranno sfidare gli amici in avventure, tra il mondo reale e le realtà digitali
 - I ragazzi potranno costruire il set, scansionarlo e dare la caccia ai fantasmi sui propri tablet/cellulari (non forniti in dotazione), per vivere unesperienza quantomai avvincente
 - Possibilità di esperienza multiplayer; compatibile con i dispositivo 180+ OS e Android – controlla la descrizione del prodotto per maggiori dettagli
-- Insieme alle minifigure di Jack, Parker, J.B., TeeVee e Shadow-Walker, i ragazzi potranno sfidare gli amici in avventure, tra il mondo reale e le realtà digitali
-- Il kit comprende il modello digitale interattivo del camion dei pompieri (della serie LEGO Hidden Side), con un robot meccanico trasformabile e la statuetta di Nehmaar Reem The Harbinger
+- Il veicolo LEGO si trasforma se osservato attraverso l’app LEGO AR, grazie alla quale i bambini potranno arricchire la propria collezione di fantasmi in un mondo digitale stregato
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0813RJ9HF/?tag=tolees00-21)
