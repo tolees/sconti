@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.51 % en Buffalo London 1339-14 2.0 V  Scarpe da '
-date: 2020-12-10 03:09:08
+date: 2020-12-12 23:30:14
 image: 'https://m.media-amazon.com/images/I/41uDvZ7EFTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,6 @@ Tienes [Buffalo London 1339-14 2.0 V  Scarpe da Ginnastica Donna  Nero  40 EU](h
 
 ℹ️:
 
+- ICONIC AND HERITAGE BUFFALO Design con prodotto in pelle di alta qualità, made in Europa, perfetta vestibilità con imbottitura in memory foam.
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07MXKDR5S/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash V2  Scarpe da Ginnastica Unis al 35.96 % de descuento'
-date: 2020-12-10 03:13:11
+date: 2020-12-12 23:27:22
 image: 'https://m.media-amazon.com/images/I/41ztqae-fAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,11 @@ Ahora mismo tienes [PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Bla
 
 [![PUMA Smash V2  Scarpe da Ginnastica Unis](https://m.media-amazon.com/images/I/41ztqae-fAL._SL200_.jpg)](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
+- Materiale esterno: pelle
+- Fodera: maglia
+- Pelle
+- Materiale suola: gomma
 
 [Visítala!!!](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21)
