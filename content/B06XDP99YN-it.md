@@ -25,8 +25,8 @@ Tienes [Kingdom Hearts III - Xbox One](https://www.amazon.it/dp/B06XDP99YN/?tag=
 ℹ️:
 
 - Piattaforma: Xbox One
-- Genere del gioco: azione, gioco di ruolo
 - Include nuovi mondi: Toy Story, Rapunzel, Big Hero 6, Monsters & Co e Frozen.
+- Genere del gioco: azione, gioco di ruolo
 - Edizione del gioco: standard
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XDP99YN/?tag=tolees00-21)
