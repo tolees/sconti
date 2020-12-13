@@ -24,8 +24,8 @@ Está [YAMAMAY® Costume Fascia - Mislita](https://www.amazon.it/dp/B08CZVT4W4/?
 
 ℹ️:
 
-- Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
 - Composizione: 82%NYLON 18%ELASTANE
 - Season: Estate 2019
+- Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08CZVT4W4/?tag=tolees00-21)

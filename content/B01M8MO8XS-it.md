@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Dead Redemption 2 - Xbox One al 66.79 % de descuento'
-date: 2020-12-12 11:14:50
+date: 2020-12-13 11:19:11
 image: 'https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B
 
 [![Red Dead Redemption 2 - Xbox One](https://m.media-amazon.com/images/I/615-stXzdKL._SL200_.jpg)](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 - Il mondo di gioco, vasto ed evocativo, sarà anche lambientazione per unesperienza multigiocatore online completamente nuova
 - Dai creatori di Grand Theft Auto V e Red Dead Redemption, Red Dead Redemption 2 è una storia epica che ci mostra unAmerica agli albori della modernità
