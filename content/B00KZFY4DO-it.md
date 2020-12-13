@@ -24,8 +24,8 @@ Está [Funko Pop Vinile Dragonball Z Super Saiyan Goku  Multicolore  3807](https
 
 ℹ️:
 
-- Queste miniature sono resistenti e curate nei minimi dettagli
 - Un oggetto da collezione moderno e simpatico, dallo stile inconfondibile
+- Queste miniature sono resistenti e curate nei minimi dettagli
 - Una versione stilizzata e ironica dei tuoi personaggi preferiti
 - Realizzate in PVC (Vinile), versione normale
 

@@ -24,10 +24,10 @@ Está [Sony ZS-PS55B Stereo Portatile con Lettore CD  FM/DAB  Porta USB per Regi
 
 ℹ️:
 
-- Contiene 2 altoparlanti da 2 W; imposta con il tasto di accesso diretto a tre emettitori
+- Contenuto della confezione: Sony zsps55b CED CD/USB DAB Radio VHS
 - Sintonizzatore radio digitale DAB/FM
+- Contiene 2 altoparlanti da 2 W; imposta con il tasto di accesso diretto a tre emettitori
 - Con riproduzione di CD/CD-R
 - Riproduzione tramite USB
-- Contenuto della confezione: Sony zsps55b CED CD/USB DAB Radio VHS
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00VIC1FVM/?tag=tolees00-21)

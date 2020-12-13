@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.41 % en Horizon Zero Dawn Hits - PlayStation 4'
-date: 2020-11-27 21:54:38
+date: 2020-12-13 12:25:01
 image: 'https://m.media-amazon.com/images/I/513H+-9I1TL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Tienes [Horizon Zero Dawn Hits - PlayStation 4](https://www.amazon.it/dp/B07TJV6
 
 ℹ️:
 
+- Gameplay arricchito da nuovi nemici e nuove dinamiche di caccia
+- Include oggetti di gioco bonus come armi, costumi e risorse
+- Contiene il gioco completo Horizon zero Dawn e l’espansione the Frozen Wilds
+- Nuove missioni e storia che aggiungono ore di divertimento all’esperienza di gioco
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07TJV6FN8/?tag=tolees00-21)
