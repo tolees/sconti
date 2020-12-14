@@ -24,10 +24,10 @@ Ahora mismo tienes [Hasbro FurReal  Poopalots Gattino  Peluche Gattino interatti
 
 🔎:
 
-- FANTASTICO REGALO PER COMPLEANNI O FESTE PER BAMBINI DAI 4 ANNI IN SU: Si divertiranno sicuramente con questo gattino che fa la cacca.
-- Scopri anche il cagnolino FurReal Pooalots!
-- FARE LA CACCA DIVERTENDOSI IN MOVIMENTO: Contiene una paletta per la cacca che funge anche da valigetta per i bocconcini.
-- MICIO ADORABILE CHE PUOI NUTRIRE E PORTARE A PASSEGGIO: E poi dovrai pulire la sua cacca.
 - COLLEGA I GUINZAGLI: Sistema di guinzagli assemblabili che ti permette di passeggiare con il tuo gattino da solo o con gli animali furReal Poopalots (venduti separatamente, secondo disponibilità).
+- FANTASTICO REGALO PER COMPLEANNI O FESTE PER BAMBINI DAI 4 ANNI IN SU: Si divertiranno sicuramente con questo gattino che fa la cacca.
+- FARE LA CACCA DIVERTENDOSI IN MOVIMENTO: Contiene una paletta per la cacca che funge anche da valigetta per i bocconcini.
+- Scopri anche il cagnolino FurReal Pooalots!
+- MICIO ADORABILE CHE PUOI NUTRIRE E PORTARE A PASSEGGIO: E poi dovrai pulire la sua cacca.
 
 [Visítala!!!](https://www.amazon.it/dp/B07VXC19LV/?tag=tolees00-21)
