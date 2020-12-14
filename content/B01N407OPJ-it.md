@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.91 % en Diadora - Sneakers Game P per Uomo e Don'
-date: 2020-12-12 04:54:52
+date: 2020-12-14 05:41:29
 image: 'https://m.media-amazon.com/images/I/31c5HtM2spL._SL200_.jpg'
 comments: true
 category: ofertas

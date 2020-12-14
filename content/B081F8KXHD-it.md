@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Catamarano e Barca a Vela 2 al 25.01 % de descuento'
-date: 2020-12-13 05:22:21
+date: 2020-12-14 05:51:47
 image: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Ahora mismo tienes [LEGO Technic Catamarano e Barca a Vela 2 in 1  Giocattolo Ga
 
 🔎:
 
-- Ideal for developing engineering skills, these fantastic floating models feature a green-blue-orange colour scheme for an impressive display.
-- At over 12” (32cm) long, 8” (22cm) wide and 17” (44cm) high, this awesome model sailboat is made for easy handling in the bathtub.
-- Fans can angle the sails for a racing position, raise and lower the 2 daggerboards to maximise stability, then use the rudder to steer.
-- For the first time ever both models float on water - check this classic 2-hull catamaran design, working sails, daggerboards and rudder
-- Features 2in1 Catamaran model toy which really floats on water It rebuilds into a cool power speed boat toy, inspired by real race boats.
+- Costruisci, ricostruisci, gioca, esponi. Con 2 modelli in 1, lapprendimento non ha fine
+- Adatto per gli appassionati di vela di qualsiasi età dagli 8 anni in su
+- Alto 44 cm (dalla punta del timone alla cima dellalbero)
+- Catamarano 2 in 1 galleggiante, ricostruibile in un fantastico yacht da gara
+- Il set è ricco di dettagli per la navigazione, come vele funzionanti, derive mobili e timone
 
 [Visítala!!!](https://www.amazon.it/dp/B081F8KXHD/?tag=tolees00-21)

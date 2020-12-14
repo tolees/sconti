@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.46 % en Levi s Graphic Tee B Maglietta a Maniche'
-date: 2020-12-13 05:22:45
+date: 2020-12-14 05:50:29
 image: 'https://m.media-amazon.com/images/I/410je8eT8BL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Tienes [Levi s Graphic Tee B Maglietta a Maniche Lunghe  HM LS Better Black  XL 
 ℹ️:
 
 - Logo Hausmark sul petto
-- Jersey
 - Non elasticizzato
+- Jersey
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B076YCSZN8/?tag=tolees00-21)

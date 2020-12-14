@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hunger Games - Capitol Collec.  Box 4 Br al 39.51 % de descuento'
-date: 2020-12-12 23:29:01
+date: 2020-12-14 05:45:26
 image: 'https://m.media-amazon.com/images/I/41bWmvXSHrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Está [Hunger Games - Capitol Collec.  Box 4 Br  ](https://www.amazon.it/dp/B085
 
 ℹ️:
 
-- Avventura
 - Blu-Ray
+- Avventura
 - da non perdere
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085RT3JTP/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Quarter Plain 3P  Calzini Unisex Ad al 44.49 % de descuento'
-date: 2020-12-13 05:21:08
+date: 2020-12-14 05:45:50
 image: 'https://m.media-amazon.com/images/I/417+SN4RwtL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - Dobble Divertente Gioco da Tav al 25.16 % de descuento'
-date: 2020-12-13 05:41:10
+date: 2020-12-14 05:54:03
 image: 'https://m.media-amazon.com/images/I/51gSnfTB6mL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Está [Asmodee - Dobble Divertente Gioco da Tavolo per Tutta la Famiglia Edizion
 
 ℹ️:
 
-- Dobble è un gioco di rapidità in cui dovete essere i più rapidi a trovare il simbolo identico tra due carte!
-- Lingua: edizione interamente in italiano
 - Età suggerita: da 6 anni in su
+- Lingua: edizione interamente in italiano
+- Dobble è un gioco di rapidità in cui dovete essere i più rapidi a trovare il simbolo identico tra due carte!
 - Numero di giocatori: da 2 a 8
 - Durata media: 15 min.
 
