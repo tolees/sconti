@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MAZM7SY/?tag=tolees00-21'
 descuento: '39.11'
+average: '8.72'
 ---
 
 Ahora mismo tienes [Misura Fette Integrali - 8 pezzi da 320 g [2560 g]](https://www.amazon.it/dp/B01MAZM7SY/?tag=tolees00-21) a 8.72 EUR (original: 14.32 EUR) (39.11 %  de descuento) en el siguiente enlace!

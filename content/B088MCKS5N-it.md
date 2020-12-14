@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088MCKS5N/?tag=tolees00-21'
 descuento: '40.51'
+average: '17.84'
 ---
 
 Tienes [Isincer Streaming Webcam HD 1080p con Microfono a riduzione del Rumore Videocamera per PC Laptop con Webcam e Microfono](https://www.amazon.it/dp/B088MCKS5N/?tag=tolees00-21) con un 40.51 % de descuento con precio de oferta de 17.84 EUR (original: 29.99 EUR) en el siguiente enlace!

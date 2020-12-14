@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086KSFKN7/?tag=tolees00-21'
 descuento: '40.89'
+average: '1.59'
 ---
 
 Tienes [Pringles Pringles Sour Cream & Onion - 175 g](https://www.amazon.it/dp/B086KSFKN7/?tag=tolees00-21) con un 40.89 % de descuento con precio de oferta de 1.59 EUR (original: 2.69 EUR) en el siguiente enlace!

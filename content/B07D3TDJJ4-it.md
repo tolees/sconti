@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07D3TDJJ4/?tag=tolees00-21'
 descuento: '27.50'
+average: '17.4'
 ---
 
 Ahora mismo tienes [Quercetti- Gioco con Palline Colorate  Multi-Colore  1015](https://www.amazon.it/dp/B07D3TDJJ4/?tag=tolees00-21) a 17.4 EUR (original: 24.0 EUR) (27.50 %  de descuento) en el siguiente enlace!

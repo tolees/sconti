@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BBYZT38/?tag=tolees00-21'
 descuento: '42.71'
+average: '14.89'
 ---
 
 Está [Mini Telecamera Spia Nascosta con Micro sd 32GB  Full HD 1080P Microcamera Spia con Rilevamento di Movimento Portatile Videocamera di Sorveglianza Video per Esterno/Interno](https://www.amazon.it/dp/B08BBYZT38/?tag=tolees00-21) con 42.71 de descuento por 14.89 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YCHT464/?tag=tolees00-21'
 descuento: '40.00'
+average: '15.0'
 ---
 
 Tienes [Vans Colorblock Tee T-Shirt  Multicolore  Ash Heather/Black Rp5   Medium Uomo](https://www.amazon.it/dp/B07YCHT464/?tag=tolees00-21) con un 40.00 % de descuento con precio de oferta de 15.0 EUR (original: 25.0 EUR) en el siguiente enlace!

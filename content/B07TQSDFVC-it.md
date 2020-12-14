@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TQSDFVC/?tag=tolees00-21'
 descuento: '53.37'
+average: '6.99'
 ---
 
 Está [Infreecs Mini Ventilatore USB Ventilatore Palmare USB 2 in 1 Ventilatore Portatile Umidificatore USB Ricaricabile Ventilatore 3 modalità con Umidificazione per Casa Ufficio Viaggio Campeggio](https://www.amazon.it/dp/B07TQSDFVC/?tag=tolees00-21) con 53.37 de descuento por 6.99 EUR (original: 14.99 EUR) en el siguiente enlace!

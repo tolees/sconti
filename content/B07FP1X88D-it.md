@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21'
 descuento: '51.32'
+average: '21.9'
 ---
 
 Tienes [LEGO Movie 2 - La scatola "costruisci quello che vuoi" della Regina Wello Ke Wuoglio!  70825](https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21) con un 51.32 % de descuento con precio de oferta de 21.9 EUR (original: 44.99 EUR) en el siguiente enlace!

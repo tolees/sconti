@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084VJ88TH/?tag=tolees00-21'
 descuento: '50.01'
+average: '39.99'
 ---
 
 Está [Motast Cassa Bluetooth Portatile  10W Speaker Bluetooth con NFC  IP67 Impermeabile Altoparlante Bluetooth Portatili con Doppio Driver  30H Ore di Riproduzione  Luce LED  Deep Bass HD Stereo Microfono](https://www.amazon.it/dp/B084VJ88TH/?tag=tolees00-21) con 50.01 de descuento por 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

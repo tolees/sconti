@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21'
 descuento: '38.50'
+average: '15.99'
 ---
 
 Tienes [Fruittella Good For You Mix Sport Bio  Snack di Frutta Secca e Disidratata Biologico - 20 Pacchetti Monodose da 32 gr](https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21) con un 38.50 % de descuento con precio de oferta de 15.99 EUR (original: 26.0 EUR) en el siguiente enlace!

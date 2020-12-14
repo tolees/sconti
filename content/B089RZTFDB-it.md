@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B089RZTFDB/?tag=tolees00-21'
 descuento: '50.01'
+average: '22.47'
 ---
 
 Ahora mismo tienes [goldenpoint Leggings Straight con borchie tonde Fantasia Principe di Galles](https://www.amazon.it/dp/B089RZTFDB/?tag=tolees00-21) a 22.47 EUR (original: 44.95 EUR) (50.01 %  de descuento) en el siguiente enlace!

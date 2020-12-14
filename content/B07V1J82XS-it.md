@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V1J82XS/?tag=tolees00-21'
 descuento: '57.46'
+average: '19.12'
 ---
 
 Tienes [Boss Identity T-Shirt RN  Blu  Dark Blue 403   Medium Uomo](https://www.amazon.it/dp/B07V1J82XS/?tag=tolees00-21) con un 57.46 % de descuento con precio de oferta de 19.12 EUR (original: 44.95 EUR) en el siguiente enlace!

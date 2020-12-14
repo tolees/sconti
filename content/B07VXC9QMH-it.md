@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VXC9QMH/?tag=tolees00-21'
 descuento: '51.78'
+average: '105.38599999999998'
 ---
 
 Está [Kingston A2000  SA2000M8/1000G  NVMe PCIe SSD 1000G](https://www.amazon.it/dp/B07VXC9QMH/?tag=tolees00-21) con 51.78 de descuento por 97.89 EUR (original: 202.99 EUR) en el siguiente enlace!

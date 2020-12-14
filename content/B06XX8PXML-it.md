@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XX8PXML/?tag=tolees00-21'
 descuento: '36.83'
+average: '56.85'
 ---
 
 Ahora mismo tienes [New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Verde  Olive Night   44 EU](https://www.amazon.it/dp/B06XX8PXML/?tag=tolees00-21) a 56.85 EUR (original: 90.0 EUR) (36.83 %  de descuento) en el siguiente enlace!

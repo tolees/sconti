@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07N48KYHH/?tag=tolees00-21'
 descuento: '70.34'
+average: '5.93'
 ---
 
 Está [Goodstè Porta Carte Di Credito Tascabile Portatessere Donna Blocco NFC RFID Protection Mini Portafoglio Uomo Secrid Portamonete Zip/Cerniera Tessere monete schermato Rigido Slim In Pelle  Nero Liscio ](https://www.amazon.it/dp/B07N48KYHH/?tag=tolees00-21) con 70.34 de descuento por 5.93 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21'
 descuento: '70.43'
+average: '20.99'
 ---
 
 Está [Nba 2K20 - Standard - PlayStation 4](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21) con 70.43 de descuento por 20.99 EUR (original: 70.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00TRTL6D0/?tag=tolees00-21'
 descuento: '30.39'
+average: '19.482'
 ---
 
 Tienes [Risoli Piastra Adattatore Per Induzione  Diametro 260 Mm](https://www.amazon.it/dp/B00TRTL6D0/?tag=tolees00-21) con un 30.39 % de descuento con precio de oferta de 19.49 EUR (original: 28.0 EUR) en el siguiente enlace!

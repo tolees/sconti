@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08JGL5PB4/?tag=tolees00-21'
 descuento: '61.33'
+average: '5.99'
 ---
 
 Ahora mismo tienes [Ajcoflt Smartwatch Braccialetto Intelligente Braccialetto Sportivo  Orologio Per Frequenza Cardiaca E Pressione Sanguigna  Rilevamento Calorie Ip67 Orologio Allarme Bt Impermeabile  per Android/iOS](https://www.amazon.it/dp/B08JGL5PB4/?tag=tolees00-21) a 5.99 EUR (original: 15.49 EUR) (61.33 %  de descuento) en el siguiente enlace!

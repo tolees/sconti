@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B079VV8F2N/?tag=tolees00-21'
 descuento: '44.68'
+average: '6.34'
 ---
 
 Ahora mismo tienes [L Oreal Paris Elvive- Dream Long Shampoo 370 ml  Paquete de 3 ](https://www.amazon.it/dp/B079VV8F2N/?tag=tolees00-21) a 6.34 EUR (original: 11.46 EUR) (44.68 %  de descuento) en el siguiente enlace!

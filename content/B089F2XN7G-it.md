@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B089F2XN7G/?tag=tolees00-21'
 descuento: '26.02'
+average: '11.94'
 ---
 
 Ahora mismo tienes [Coca-Cola Original Taste 330ml x24  Lattina ](https://www.amazon.it/dp/B089F2XN7G/?tag=tolees00-21) a 11.94 EUR (original: 16.14 EUR) (26.02 %  de descuento) en el siguiente enlace!

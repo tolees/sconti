@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F6ZMRY4/?tag=tolees00-21'
 descuento: '27.87'
+average: '41.04666666666667'
 ---
 
 Ahora mismo tienes [Ulmisfee Giochi Bimbi 1 Anno Educativi Giochi Legno Bambin Cubi Legno Giochi Montessori](https://www.amazon.it/dp/B07F6ZMRY4/?tag=tolees00-21) a 46.88 EUR (original: 64.99 EUR) (27.87 %  de descuento) en el siguiente enlace!

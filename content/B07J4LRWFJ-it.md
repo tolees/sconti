@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07J4LRWFJ/?tag=tolees00-21'
 descuento: '27.17'
+average: '284.04'
 ---
 
 Ahora mismo tienes [PHILIP WATCH Guarda R8253597543](https://www.amazon.it/dp/B07J4LRWFJ/?tag=tolees00-21) a 284.04 EUR (original: 390.0 EUR) (27.17 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LESVKG4/?tag=tolees00-21'
 descuento: '45.88'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Havaianas Luna  Sandali Donna  Multicolore  Navy Blue/Silver 0445   35/36 EU](https://www.amazon.it/dp/B01LESVKG4/?tag=tolees00-21) a 12.99 EUR (original: 24.0 EUR) (45.88 %  de descuento) en el siguiente enlace!

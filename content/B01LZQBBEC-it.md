@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LZQBBEC/?tag=tolees00-21'
 descuento: '36.58'
+average: '48.2'
 ---
 
 Está [Foppapedretti Go! Evolution  Seggiolino auto  Gruppo 0/1  0-18 Kg  per Bambini dalla Nascita Fino a 4 Anni Circa  Cherry](https://www.amazon.it/dp/B01LZQBBEC/?tag=tolees00-21) con 36.58 de descuento por 48.2 EUR (original: 76.0 EUR) en el siguiente enlace!

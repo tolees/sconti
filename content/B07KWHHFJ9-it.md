@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KWHHFJ9/?tag=tolees00-21'
 descuento: '30.10'
+average: '10.89'
 ---
 
 Está [Paranoia Airlines](https://www.amazon.it/dp/B07KWHHFJ9/?tag=tolees00-21) con 30.10 de descuento por 10.89 EUR (original: 15.58 EUR) en el siguiente enlace!

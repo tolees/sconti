@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000KD9OSG/?tag=tolees00-21'
 descuento: '59.40'
+average: '15.99'
 ---
 
 Tienes [Casio Orologio Digitale al Quarzo Uomo con Cinturino in Resina F-105W-1AWYEF](https://www.amazon.it/dp/B000KD9OSG/?tag=tolees00-21) con un 59.40 % de descuento con precio de oferta de 15.99 EUR (original: 39.38 EUR) en el siguiente enlace!

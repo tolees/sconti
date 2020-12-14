@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BR2CSKS/?tag=tolees00-21'
 descuento: '26.10'
+average: '9.6'
 ---
 
 Tienes [Pigna Monocromo 02298871R  Quaderno Formato A4  Rigatura 1R  Righe per Medie e Superiori  Carta 80G/Mq  Pacco da 10 Pezzi](https://www.amazon.it/dp/B07BR2CSKS/?tag=tolees00-21) con un 26.10 % de descuento con precio de oferta de 9.6 EUR (original: 12.99 EUR) en el siguiente enlace!

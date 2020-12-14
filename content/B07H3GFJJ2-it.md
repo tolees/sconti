@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07H3GFJJ2/?tag=tolees00-21'
 descuento: '42.51'
+average: '22.99'
 ---
 
 Tienes [HyperX HX-MC004B Pulsefire Core  Mouse Gaming RGB](https://www.amazon.it/dp/B07H3GFJJ2/?tag=tolees00-21) con un 42.51 % de descuento con precio de oferta de 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

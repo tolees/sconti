@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003XDU3XA/?tag=tolees00-21'
 descuento: '30.05'
+average: '13.99'
 ---
 
 Tienes [Vans Jungen Classic Boys T-Shirt  Schwarz  BLACK-WHITE Y28   S](https://www.amazon.it/dp/B003XDU3XA/?tag=tolees00-21) con un 30.05 % de descuento con precio de oferta de 13.99 EUR (original: 20.0 EUR) en el siguiente enlace!

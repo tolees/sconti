@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01KWH52P8/?tag=tolees00-21'
 descuento: '52.07'
+average: '30.15'
 ---
 
 Está [Geox J Sandal Karly Girl D  Punta Aperta Bambina  Bianco  White C1000   40 EU](https://www.amazon.it/dp/B01KWH52P8/?tag=tolees00-21) con 52.07 de descuento por 30.15 EUR (original: 62.9 EUR) en el siguiente enlace!

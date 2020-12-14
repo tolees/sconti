@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FTN3JRH/?tag=tolees00-21'
 descuento: '61.76'
+average: '22.256666666666664'
 ---
 
 Está [Avvitatore Elettrico  TECCPO 6Nm Cacciavite Elettrico  9+1 Coppia di Serraggio  45 Punte  2000mAh Li-ion 3 6V  2 Diversi Angolazione a Piegare  Luce a LED  Migliore Regalo di DIY -TDSC01P](https://www.amazon.it/dp/B07FTN3JRH/?tag=tolees00-21) con 61.76 de descuento por 22.79 EUR (original: 59.59 EUR) en el siguiente enlace!

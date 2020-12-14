@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00XUQY9GM/?tag=tolees00-21'
 descuento: '25.00'
+average: '0.99'
 ---
 
 Tienes [Skipper - Succo Di Ananas Da Concentrato - 1000 Ml](https://www.amazon.it/dp/B00XUQY9GM/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 0.99 EUR (original: 1.32 EUR) en el siguiente enlace!

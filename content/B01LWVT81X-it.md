@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LWVT81X/?tag=tolees00-21'
 descuento: '41.38'
+average: '170.0'
 ---
 
 Está [Western Digital WD My Book Hard Disk Desktop USB 3.0  Software di Backup Automatico  Protezione con Password  1 Disco  8 TB  Nero](https://www.amazon.it/dp/B01LWVT81X/?tag=tolees00-21) con 41.38 de descuento por 170.0 EUR (original: 289.99 EUR) en el siguiente enlace!

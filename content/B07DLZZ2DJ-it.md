@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07DLZZ2DJ/?tag=tolees00-21'
 descuento: '45.02'
+average: '10.99'
 ---
 
 Tienes [Toolove Lampada da Lettura a LED USB Ricaricabile  Luce Lettura Regolabile e Portatile Con Clip  Lampada da Libro Pieghevole per Studio  Letto  Viaggi  Tablet](https://www.amazon.it/dp/B07DLZZ2DJ/?tag=tolees00-21) con un 45.02 % de descuento con precio de oferta de 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

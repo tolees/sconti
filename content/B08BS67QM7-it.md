@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BS67QM7/?tag=tolees00-21'
 descuento: '26.68'
+average: '10.99'
 ---
 
 Está [AZ Ricerca Dentifricio Pro-Expert Prevenzione Superiore  Confezione da 6 Pezzi](https://www.amazon.it/dp/B08BS67QM7/?tag=tolees00-21) con 26.68 de descuento por 10.99 EUR (original: 14.99 EUR) en el siguiente enlace!

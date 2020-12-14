@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085XZ4DGH/?tag=tolees00-21'
 descuento: '36.11'
+average: '6.99'
 ---
 
 Ahora mismo tienes [Maschere per il viso  confezione da 50 maschere sigillate standard  per la salute  3 strati  blu](https://www.amazon.it/dp/B085XZ4DGH/?tag=tolees00-21) a 6.99 EUR (original: 10.94 EUR) (36.11 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21'
 descuento: '41.43'
+average: '82.0'
 ---
 
 Tienes [Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21) con un 41.43 % de descuento con precio de oferta de 82.0 EUR (original: 140.0 EUR) en el siguiente enlace!

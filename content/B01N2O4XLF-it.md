@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N2O4XLF/?tag=tolees00-21'
 descuento: '52.52'
+average: '14.24'
 ---
 
 Está [FLOUREON Ricetrasmittente PMR Radio Ricetrasmittenti 8 Canali Walkie Talkies per Bambini 2 Way Radio  Arancia](https://www.amazon.it/dp/B01N2O4XLF/?tag=tolees00-21) con 52.52 de descuento por 14.24 EUR (original: 29.99 EUR) en el siguiente enlace!

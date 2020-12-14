@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00Z6YGB94/?tag=tolees00-21'
 descuento: '26.07'
+average: '39.83'
 ---
 
 Está [Pinypon Famosa Casa delle Favole  700012406](https://www.amazon.it/dp/B00Z6YGB94/?tag=tolees00-21) con 26.07 de descuento por 34.0 EUR (original: 45.99 EUR) en el siguiente enlace!

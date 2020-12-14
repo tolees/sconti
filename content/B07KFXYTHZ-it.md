@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KFXYTHZ/?tag=tolees00-21'
 descuento: '55.43'
+average: '28.95'
 ---
 
 Está [Puma Caracal  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black  38.5 EU](https://www.amazon.it/dp/B07KFXYTHZ/?tag=tolees00-21) con 55.43 de descuento por 28.95 EUR (original: 64.95 EUR) en el siguiente enlace!

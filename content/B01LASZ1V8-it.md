@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LASZ1V8/?tag=tolees00-21'
 descuento: '50.32'
+average: '14.9'
 ---
 
 Está [Pacific Rim  4K Ultra HD + Blu-Ray ](https://www.amazon.it/dp/B01LASZ1V8/?tag=tolees00-21) con 50.32 de descuento por 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

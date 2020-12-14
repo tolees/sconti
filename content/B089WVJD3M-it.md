@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B089WVJD3M/?tag=tolees00-21'
 descuento: '48.82'
+average: '8.504999999999999'
 ---
 
 Ahora mismo tienes [Finish  72 Pastiglie Per Lavastoviglie  All In One Max  Limone - 7250 Ml](https://www.amazon.it/dp/B089WVJD3M/?tag=tolees00-21) a 7.16 EUR (original: 13.99 EUR) (48.82 %  de descuento) en el siguiente enlace!

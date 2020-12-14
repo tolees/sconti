@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B011ANOGP0/?tag=tolees00-21'
 descuento: '40.60'
+average: '59.99'
 ---
 
 Ahora mismo tienes [Philips Monitor 243V5LHSB Gaming Monitor per PC Desktop 23.6" LED Full HD  1920 x 1080  250 cd/m²  1 ms  HDMI  DVI  VGA  Attacco VESA  Nero](https://www.amazon.it/dp/B011ANOGP0/?tag=tolees00-21) a 59.99 EUR (original: 101.0 EUR) (40.60 %  de descuento) en el siguiente enlace!

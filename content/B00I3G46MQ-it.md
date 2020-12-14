@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00I3G46MQ/?tag=tolees00-21'
 descuento: '34.31'
+average: '22.99'
 ---
 
 Está [Vans Herren Otw Raglan T-Shirt  Mehrfarbig  WHITE-BLACK YB2   Small](https://www.amazon.it/dp/B00I3G46MQ/?tag=tolees00-21) con 34.31 de descuento por 22.99 EUR (original: 35.0 EUR) en el siguiente enlace!

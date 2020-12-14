@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N6BJZ5M/?tag=tolees00-21'
 descuento: '52.86'
+average: '11.31'
 ---
 
 Tienes [Lower East impermeable Uomo  Blu  Navy   Large](https://www.amazon.it/dp/B01N6BJZ5M/?tag=tolees00-21) con un 52.86 % de descuento con precio de oferta de 11.31 EUR (original: 23.99 EUR) en el siguiente enlace!

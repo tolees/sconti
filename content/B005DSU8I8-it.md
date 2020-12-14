@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B005DSU8I8/?tag=tolees00-21'
 descuento: '44.97'
+average: '8.2'
 ---
 
 Tienes [Giotto Stilnovo pastelli colorati in astuccio 36 colori](https://www.amazon.it/dp/B005DSU8I8/?tag=tolees00-21) con un 44.97 % de descuento con precio de oferta de 8.2 EUR (original: 14.9 EUR) en el siguiente enlace!

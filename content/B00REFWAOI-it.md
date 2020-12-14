@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21'
 descuento: '57.53'
+average: '38.2'
 ---
 
 Tienes [Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  42 EU](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21) con un 57.53 % de descuento con precio de oferta de 38.2 EUR (original: 89.95 EUR) en el siguiente enlace!

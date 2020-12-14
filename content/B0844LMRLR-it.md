@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0844LMRLR/?tag=tolees00-21'
 descuento: '27.08'
+average: '40.29'
 ---
 
 Está [Desigual Borsa Donna bols ada rotterdam 20saxpae unica marrone](https://www.amazon.it/dp/B0844LMRLR/?tag=tolees00-21) con 27.08 de descuento por 40.29 EUR (original: 55.25 EUR) en el siguiente enlace!

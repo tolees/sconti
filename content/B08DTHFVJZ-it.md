@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DTHFVJZ/?tag=tolees00-21'
 descuento: '51.44'
+average: '33.99'
 ---
 
 Ahora mismo tienes [Auricolari Bluetooth 5.0 Senza Fili Cancellazione del rumore 3D  Auricolari con Custodia da Ricarica 24 Ore di Tempo di Utilizzo  Mic-Incorporato per iPhone Android Apple Ear-In Cuffie](https://www.amazon.it/dp/B08DTHFVJZ/?tag=tolees00-21) a 33.99 EUR (original: 69.99 EUR) (51.44 %  de descuento) en el siguiente enlace!

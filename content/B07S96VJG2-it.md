@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21'
 descuento: '45.96'
+average: '11.78'
 ---
 
 Tienes [Control Chocolate  24 Profilattici al Cioccolato  Standard](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21) con un 45.96 % de descuento con precio de oferta de 11.78 EUR (original: 21.8 EUR) en el siguiente enlace!

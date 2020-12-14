@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00UNJWR18/?tag=tolees00-21'
 descuento: '35.40'
+average: '20.99'
 ---
 
 Tienes [DURAGADGET Borsa/Valigetta per Lettori Dvd Portatili - Adattabile Ai Poggiatesta Posteriore da Auto - Cinghie di Alta qualità](https://www.amazon.it/dp/B00UNJWR18/?tag=tolees00-21) con un 35.40 % de descuento con precio de oferta de 20.99 EUR (original: 32.49 EUR) en el siguiente enlace!

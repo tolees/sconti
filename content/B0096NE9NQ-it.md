@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0096NE9NQ/?tag=tolees00-21'
 descuento: '66.71'
+average: '10.23'
 ---
 
 Tienes [Lampa 32106 6899](https://www.amazon.it/dp/B0096NE9NQ/?tag=tolees00-21) con un 66.71 % de descuento con precio de oferta de 10.23 EUR (original: 30.73 EUR) en el siguiente enlace!

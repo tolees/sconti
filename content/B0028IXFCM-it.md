@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0028IXFCM/?tag=tolees00-21'
 descuento: '42.50'
+average: '6.9'
 ---
 
 Está [GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema corpo](https://www.amazon.it/dp/B0028IXFCM/?tag=tolees00-21) con 42.50 de descuento por 6.9 EUR (original: 12.0 EUR) en el siguiente enlace!

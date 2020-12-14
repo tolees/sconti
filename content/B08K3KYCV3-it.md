@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08K3KYCV3/?tag=tolees00-21'
 descuento: '60.06'
+average: '3.99'
 ---
 
 Ahora mismo tienes [BTRONGROUP Caricatore per iPhone 11 XS XR X 8 7 Plus 6s 6 SE 5s 5 Caricabatterie Spina USB Alimentatore + Cavo di Ricarica e sincronizzazione 1m](https://www.amazon.it/dp/B08K3KYCV3/?tag=tolees00-21) a 3.99 EUR (original: 9.99 EUR) (60.06 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0722GZMD1/?tag=tolees00-21'
 descuento: '42.65'
+average: '11.831428571428571'
 ---
 
 Tienes [Lenor Ammorbidente Risveglio Primaverile 208 Lavaggi  Maxi Formato 8 x 26 Lavaggi](https://www.amazon.it/dp/B0722GZMD1/?tag=tolees00-21) con un 42.65 % de descuento con precio de oferta de 10.89 EUR (original: 18.99 EUR) en el siguiente enlace!

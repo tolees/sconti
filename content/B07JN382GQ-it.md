@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JN382GQ/?tag=tolees00-21'
 descuento: '28.14'
+average: '78.97'
 ---
 
 Ahora mismo tienes [Timberland Adventure 2.0 Cupsole Modern Oxford  Sneaker Uomo  Nero  Black Full Grain   41.5 EU](https://www.amazon.it/dp/B07JN382GQ/?tag=tolees00-21) a 78.97 EUR (original: 109.89 EUR) (28.14 %  de descuento) en el siguiente enlace!

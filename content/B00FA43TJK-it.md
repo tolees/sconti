@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00FA43TJK/?tag=tolees00-21'
 descuento: '46.34'
+average: '1.98'
 ---
 
 Está [SUNSILK Ricci da Domare  Balsamo  200 ml](https://www.amazon.it/dp/B00FA43TJK/?tag=tolees00-21) con 46.34 de descuento por 1.98 EUR (original: 3.69 EUR) en el siguiente enlace!

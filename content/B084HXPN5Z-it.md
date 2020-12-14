@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084HXPN5Z/?tag=tolees00-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Fallout 76  Wastelanders  PlayStation 4](https://www.amazon.it/dp/B084HXPN5Z/?tag=tolees00-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

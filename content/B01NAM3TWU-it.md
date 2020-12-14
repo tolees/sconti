@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01NAM3TWU/?tag=tolees00-21'
 descuento: '50.32'
+average: '14.9'
 ---
 
 Está [The Accountant  4K+ Br+ Copia Digitale  ](https://www.amazon.it/dp/B01NAM3TWU/?tag=tolees00-21) con 50.32 de descuento por 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

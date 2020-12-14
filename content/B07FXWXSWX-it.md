@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FXWXSWX/?tag=tolees00-21'
 descuento: '29.96'
+average: '12.6'
 ---
 
 Está [Champion Performance Crew  Calze Sport Uomo  Multicolore  Blanc Logo Colore 8lv   43/46  Pacco da 6 ](https://www.amazon.it/dp/B07FXWXSWX/?tag=tolees00-21) con 29.96 de descuento por 12.6 EUR (original: 17.99 EUR) en el siguiente enlace!

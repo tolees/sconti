@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CKM18P7/?tag=tolees00-21'
 descuento: '39.70'
+average: '47.99'
 ---
 
 Tienes [Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook 1TB Nero ](https://www.amazon.it/dp/B08CKM18P7/?tag=tolees00-21) con un 39.70 % de descuento con precio de oferta de 47.99 EUR (original: 79.58 EUR) en el siguiente enlace!

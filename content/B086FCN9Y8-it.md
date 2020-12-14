@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086FCN9Y8/?tag=tolees00-21'
 descuento: '32.91'
+average: '0.53'
 ---
 
 Está [Fuze Tea Tè Verde alla Mela e Kiwi  PET  - 400 ml](https://www.amazon.it/dp/B086FCN9Y8/?tag=tolees00-21) con 32.91 de descuento por 0.53 EUR (original: 0.79 EUR) en el siguiente enlace!

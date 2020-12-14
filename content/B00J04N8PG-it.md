@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00J04N8PG/?tag=tolees00-21'
 descuento: '28.50'
+average: '142.99'
 ---
 
 Tienes [Hazet 9012M Avvitatore Ad Impulso Extra Corto  Multicolore  Attacco Quadro  Massiccio  12.5 mm 1/2 di Pollice](https://www.amazon.it/dp/B00J04N8PG/?tag=tolees00-21) con un 28.50 % de descuento con precio de oferta de 142.99 EUR (original: 200.0 EUR) en el siguiente enlace!

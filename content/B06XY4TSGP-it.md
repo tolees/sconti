@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21'
 descuento: '57.31'
+average: '149.0'
 ---
 
 Está [Audio-Technica ATHDSR7BT cuffia](https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21) con 57.31 de descuento por 149.0 EUR (original: 349.0 EUR) en el siguiente enlace!

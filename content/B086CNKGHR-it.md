@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21'
 descuento: '52.28'
+average: '4.19'
 ---
 
 Ahora mismo tienes [VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido  Maxi Formato 2 Pezzi da 700 ml](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21) a 4.29 EUR (original: 8.99 EUR) (52.28 %  de descuento) en el siguiente enlace!

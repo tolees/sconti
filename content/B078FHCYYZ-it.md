@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078FHCYYZ/?tag=tolees00-21'
 descuento: '52.47'
+average: '16.61'
 ---
 
 Tienes [Puma Liga Zaino  Unisex-Adulto  Nero Black   Taglia Unica](https://www.amazon.it/dp/B078FHCYYZ/?tag=tolees00-21) con un 52.47 % de descuento con precio de oferta de 16.61 EUR (original: 34.95 EUR) en el siguiente enlace!

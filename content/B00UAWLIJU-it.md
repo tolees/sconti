@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00UAWLIJU/?tag=tolees00-21'
 descuento: '45.38'
+average: '1.89'
 ---
 
 Tienes [Mulino Bianco Biscotti Frollini Spicchi di Sole  Colazione Ricca di Gusto - 900 g](https://www.amazon.it/dp/B00UAWLIJU/?tag=tolees00-21) con un 45.38 % de descuento con precio de oferta de 1.89 EUR (original: 3.46 EUR) en el siguiente enlace!

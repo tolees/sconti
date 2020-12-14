@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07P4G4GMR/?tag=tolees00-21'
 descuento: '55.59'
+average: '19.09'
 ---
 
 Tienes [Lark & Ro Corded Lace Puff Sleeve Dress Dresses  Cruz V2 Fresh Foam  US 4  EU S ](https://www.amazon.it/dp/B07P4G4GMR/?tag=tolees00-21) con un 55.59 % de descuento con precio de oferta de 19.09 EUR (original: 42.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21'
 descuento: '60.32'
+average: '11.9'
 ---
 
 Tienes [The Town](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21) con un 60.32 % de descuento con precio de oferta de 11.9 EUR (original: 29.99 EUR) en el siguiente enlace!

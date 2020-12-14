@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CJRP4XV/?tag=tolees00-21'
 descuento: '58.82'
+average: '12.35'
 ---
 
 Ahora mismo tienes [Only Onlroyal Reg SK DNM Jeans Bj312 Noos Skinny  Grigio  Dark Grey Denim   W29/L30  Taglia Produttore: Medium  Donna](https://www.amazon.it/dp/B07CJRP4XV/?tag=tolees00-21) a 12.35 EUR (original: 29.99 EUR) (58.82 %  de descuento) en el siguiente enlace!

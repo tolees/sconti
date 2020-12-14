@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084PSFFBT/?tag=tolees00-21'
 descuento: '26.42'
+average: '7.02'
 ---
 
 Tienes [Mastro Lindo Detersivo Multiuso Candeggina  Maxi Formato 6 Pezzi da 950 Ml  5.7 L](https://www.amazon.it/dp/B084PSFFBT/?tag=tolees00-21) con un 26.42 % de descuento con precio de oferta de 7.02 EUR (original: 9.54 EUR) en el siguiente enlace!

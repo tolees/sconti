@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B016UWXU44/?tag=tolees00-21'
 descuento: '36.97'
+average: '219.99'
 ---
 
 Tienes [iRobot Braava 390T Lavapavimenti 2 in 1: Pulizia a Secco e a Umido  Adatto per Pulire più stanze e Grandi spazi  fino a 92 mq  con Panni Usa e Getta e Lavabili  Silenzioso  Bianco](https://www.amazon.it/dp/B016UWXU44/?tag=tolees00-21) con un 36.97 % de descuento con precio de oferta de 219.99 EUR (original: 349.0 EUR) en el siguiente enlace!

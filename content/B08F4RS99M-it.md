@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08F4RS99M/?tag=tolees00-21'
 descuento: '27.79'
+average: '12.99'
 ---
 
 Tienes [ELYCO Go Swing Topless Apriscatole Bar Tool  Senza Bordi Taglienti in Uscita  Apribottiglie Apriscatole Professionale Senza Sforzo Strumento da Cucina  Apriporta Manuale di Sicurezza Facile](https://www.amazon.it/dp/B08F4RS99M/?tag=tolees00-21) con un 27.79 % de descuento con precio de oferta de 12.99 EUR (original: 17.99 EUR) en el siguiente enlace!

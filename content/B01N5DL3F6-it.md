@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N5DL3F6/?tag=tolees00-21'
 descuento: '56.90'
+average: '62.5'
 ---
 
 Tienes [Timberland Adventure 2.0 Cupsole Chukka  Stivali Uomo  Nero  Black Nubuck   46 EU](https://www.amazon.it/dp/B01N5DL3F6/?tag=tolees00-21) con un 56.90 % de descuento con precio de oferta de 62.5 EUR (original: 145.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BEIQRG2/?tag=tolees00-21'
 descuento: '44.38'
+average: '8.95'
 ---
 
 Tienes [Eucerin Duplo Crema per le mani 2 x 75 ml](https://www.amazon.it/dp/B01BEIQRG2/?tag=tolees00-21) con un 44.38 % de descuento con precio de oferta de 8.95 EUR (original: 16.09 EUR) en el siguiente enlace!

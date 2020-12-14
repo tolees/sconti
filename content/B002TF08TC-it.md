@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B002TF08TC/?tag=tolees00-21'
 descuento: '56.11'
+average: '0.97'
 ---
 
 Está [Coccolino - Ammorbidente Concentrato - Aria di Primavera - 750 ml](https://www.amazon.it/dp/B002TF08TC/?tag=tolees00-21) con 56.11 de descuento por 0.97 EUR (original: 2.21 EUR) en el siguiente enlace!

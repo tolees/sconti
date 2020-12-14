@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RML11PB/?tag=tolees00-21'
 descuento: '36.77'
+average: '20.638461538461538'
 ---
 
 Tienes [L.O.L Surprise! - LOL Sparkle con Sorprese e Accessori - Giochi Preziosi  LLU77000 [Versione Italiana]](https://www.amazon.it/dp/B07RML11PB/?tag=tolees00-21) con un 36.77 % de descuento con precio de oferta de 15.8 EUR (original: 24.99 EUR) en el siguiente enlace!

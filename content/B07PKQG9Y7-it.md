@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PKQG9Y7/?tag=tolees00-21'
 descuento: '35.49'
+average: '52.0'
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Red Yellow 56  45 EU](https://www.amazon.it/dp/B07PKQG9Y7/?tag=tolees00-21) a 52.0 EUR (original: 80.61 EUR) (35.49 %  de descuento) en el siguiente enlace!

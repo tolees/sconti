@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086KYB28Z/?tag=tolees00-21'
 descuento: '25.01'
+average: '37.49'
 ---
 
 Tienes [Aigostar Doreen 300109LYD - Macchina sottovuoto per alimenti freschi sia secchi che umidi  con tubo per vuoto e taglierino incorporato. Inclusi 10 sacchetti sottovuoto 20 * 30cm. Spia led.](https://www.amazon.it/dp/B086KYB28Z/?tag=tolees00-21) con un 25.01 % de descuento con precio de oferta de 37.49 EUR (original: 49.99 EUR) en el siguiente enlace!

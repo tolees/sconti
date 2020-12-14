@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BHM8Q26/?tag=tolees00-21'
 descuento: '52.36'
+average: '35.99'
 ---
 
 Tienes [Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari Cancellazione del rumore CVC 8.0 Stereo 3D Wireless Cuffie Sportive IPX7 Impermeabili Riduzione per Apple AirPods/Android/iPhone Cuffie In Ear](https://www.amazon.it/dp/B08BHM8Q26/?tag=tolees00-21) con un 52.36 % de descuento con precio de oferta de 35.99 EUR (original: 75.55 EUR) en el siguiente enlace!

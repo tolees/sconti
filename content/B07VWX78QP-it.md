@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VWX78QP/?tag=tolees00-21'
 descuento: '70.15'
+average: '11.91'
 ---
 
 Está [Pepe Jeans Jude T-Shirt  Blu  Indigo 561   X- L arge Uomo](https://www.amazon.it/dp/B07VWX78QP/?tag=tolees00-21) con 70.15 de descuento por 11.91 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01KLJ574S/?tag=tolees00-21'
 descuento: '62.35'
+average: '12.8'
 ---
 
 Ahora mismo tienes [TRENINO THOMAS- Mega  DXH55](https://www.amazon.it/dp/B01KLJ574S/?tag=tolees00-21) a 12.8 EUR (original: 34.0 EUR) (62.35 %  de descuento) en el siguiente enlace!

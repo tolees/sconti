@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07LFY8W5Z/?tag=tolees00-21'
 descuento: '27.74'
+average: '25.34'
 ---
 
 Ahora mismo tienes [Béaba Set Pranzo in Silicone con Robusta Ventosa  Composto da 4 Pezzi  Piatto  Ciotola  Tazza e Cucchiaio in Silicone di Alta Qualità  per Neonati e Bambini  Giallo](https://www.amazon.it/dp/B07LFY8W5Z/?tag=tolees00-21) a 25.34 EUR (original: 35.07 EUR) (27.74 %  de descuento) en el siguiente enlace!

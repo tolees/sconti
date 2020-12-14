@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08F78TWTV/?tag=tolees00-21'
 descuento: '25.59'
+average: '31.99'
 ---
 
 Ahora mismo tienes [eXtremeRate Dawn 2.0 Remap kit Trigger Stop per Playstation 4 Joystick CUH-ZCT2 Mod Chip&Cover Posteriore&2 Tasti Posteriori&Blocco Griletto per PS4 Controller JDM-040/050/055 Bianco Antiscivolo ](https://www.amazon.it/dp/B08F78TWTV/?tag=tolees00-21) a 31.99 EUR (original: 42.99 EUR) (25.59 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RLHD8JB/?tag=tolees00-21'
 descuento: '50.00'
+average: '57.5'
 ---
 
 Tienes [Levi s 501 Crop Jeans Boyfriend  Jive Stonewash 0073  27W / 28L Donna](https://www.amazon.it/dp/B07RLHD8JB/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 57.5 EUR (original: 115.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00L32Q5SU/?tag=tolees00-21'
 descuento: '62.73'
+average: '31.1'
 ---
 
 Está [Salvatore Ferragamo Acqua di Colonia](https://www.amazon.it/dp/B00L32Q5SU/?tag=tolees00-21) con 62.73 de descuento por 31.1 EUR (original: 83.45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZNDP8LS/?tag=tolees00-21'
 descuento: '49.62'
+average: '50.77'
 ---
 
 Tienes [VPCOK 7 in 1 Sous Vide Contenitore Set 12L con Coperchio Roner Cucina Professionale Compatibile Tutte Marche ANOVA  ECC Contenitore Sous Vide Multifunzione Trasparente per Cottura a Bassa Temperatura](https://www.amazon.it/dp/B07ZNDP8LS/?tag=tolees00-21) con un 49.62 % de descuento con precio de oferta de 50.77 EUR (original: 100.77 EUR) en el siguiente enlace!

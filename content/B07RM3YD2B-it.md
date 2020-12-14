@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RM3YD2B/?tag=tolees00-21'
 descuento: '31.17'
+average: '41.95'
 ---
 
 Tienes [Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva  Nero  Black Bbu   Medium Uomo](https://www.amazon.it/dp/B07RM3YD2B/?tag=tolees00-21) con un 31.17 % de descuento con precio de oferta de 41.95 EUR (original: 60.95 EUR) en el siguiente enlace!

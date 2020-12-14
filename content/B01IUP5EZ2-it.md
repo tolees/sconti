@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01IUP5EZ2/?tag=tolees00-21'
 descuento: '37.43'
+average: '10.9'
 ---
 
 Ahora mismo tienes [Ultima Cibo per Cani Mini Adult con Pollo  3 kg](https://www.amazon.it/dp/B01IUP5EZ2/?tag=tolees00-21) a 10.9 EUR (original: 17.42 EUR) (37.43 %  de descuento) en el siguiente enlace!

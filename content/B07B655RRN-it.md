@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07B655RRN/?tag=tolees00-21'
 descuento: '40.01'
+average: '17.99'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy Blazer Fit: Reg Fit   Medium Uomo](https://www.amazon.it/dp/B07B655RRN/?tag=tolees00-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

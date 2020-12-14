@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21'
 descuento: '42.23'
+average: '20.16'
 ---
 
 Ahora mismo tienes [Kingdom Hearts: The Story so far - PlayStation 4 [Edizione: Regno Unito]](https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21) a 20.16 EUR (original: 34.9 EUR) (42.23 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01HD52QGK/?tag=tolees00-21'
 descuento: '42.84'
+average: '3.99'
 ---
 
 Ahora mismo tienes [Osram Lampadina LED Star Pin con attacco G4  =28W  luce calda  non dimmerabile  dritta  plastica](https://www.amazon.it/dp/B01HD52QGK/?tag=tolees00-21) a 3.99 EUR (original: 6.98 EUR) (42.84 %  de descuento) en el siguiente enlace!

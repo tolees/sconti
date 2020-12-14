@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08GPVMHBF/?tag=tolees00-21'
 descuento: '52.46'
+average: '8.99'
 ---
 
 Ahora mismo tienes [UniqueMe [2+2 Pezzi Pellicola Protettiva per xiaomi Mi Note 10 TPU Film + Pellicola Fotocamera per xiaomi Mi Note 10 Vetro [Bubble-Free][Facile installare].](https://www.amazon.it/dp/B08GPVMHBF/?tag=tolees00-21) a 8.99 EUR (original: 18.91 EUR) (52.46 %  de descuento) en el siguiente enlace!

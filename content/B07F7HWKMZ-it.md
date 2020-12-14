@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F7HWKMZ/?tag=tolees00-21'
 descuento: '47.60'
+average: '382.0'
 ---
 
 Ahora mismo tienes [Yamaha MusicCast BAR 400  YAS-408  Soundbar e Subwoofer – Sistema Dolby Sorround con Diffusore Centrale e Subwoofer Wireless  per Home Cinema 3D 4k – Multiroom  WiFi  Airplay  Bluetooth 4.2  Nero](https://www.amazon.it/dp/B07F7HWKMZ/?tag=tolees00-21) a 382.0 EUR (original: 729.0 EUR) (47.60 %  de descuento) en el siguiente enlace!

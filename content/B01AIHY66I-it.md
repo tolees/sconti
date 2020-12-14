@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01AIHY66I/?tag=tolees00-21'
 descuento: '44.60'
+average: '120.78'
 ---
 
 Está [UGG Female Classic Short II Classic Boot  Black  5  UK ](https://www.amazon.it/dp/B01AIHY66I/?tag=tolees00-21) con 44.60 de descuento por 120.78 EUR (original: 218.0 EUR) en el siguiente enlace!

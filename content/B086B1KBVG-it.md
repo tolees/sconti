@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086B1KBVG/?tag=tolees00-21'
 descuento: '34.44'
+average: '590.0'
 ---
 
 Tienes [Xiaomi Mi 10 Smartphone  256 + 8 GB  Twilight Grey](https://www.amazon.it/dp/B086B1KBVG/?tag=tolees00-21) con un 34.44 % de descuento con precio de oferta de 590.0 EUR (original: 899.9 EUR) en el siguiente enlace!

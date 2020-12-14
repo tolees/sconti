@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VDV236P/?tag=tolees00-21'
 descuento: '33.34'
+average: '22.99'
 ---
 
 Tienes [MROTY Italia | Striscia LED RGB  Strisce LED 10mt  Luci LED 5050  300 LED - Decorazioni Interno ed Esterno  qualità e garanzia Italiana - Tecnologia Autunno 2020](https://www.amazon.it/dp/B07VDV236P/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 23.99 EUR (original: 35.99 EUR) en el siguiente enlace!

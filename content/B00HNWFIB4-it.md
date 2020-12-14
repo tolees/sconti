@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00HNWFIB4/?tag=tolees00-21'
 descuento: '50.77'
+average: '15.01'
 ---
 
 Está [Exponent T10200 Tetrax Smart Supporto per Auto  Nero](https://www.amazon.it/dp/B00HNWFIB4/?tag=tolees00-21) con 50.77 de descuento por 15.01 EUR (original: 30.49 EUR) en el siguiente enlace!

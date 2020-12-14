@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BNJNRQ5/?tag=tolees00-21'
 descuento: '56.99'
+average: '12.9'
 ---
 
 Tienes [Tomb Raider  4K+Br ](https://www.amazon.it/dp/B07BNJNRQ5/?tag=tolees00-21) con un 56.99 % de descuento con precio de oferta de 12.9 EUR (original: 29.99 EUR) en el siguiente enlace!

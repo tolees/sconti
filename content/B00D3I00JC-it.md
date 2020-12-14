@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00D3I00JC/?tag=tolees00-21'
 descuento: '30.04'
+average: '4.89'
 ---
 
 Tienes [Narhinel Aspiratore Nasale e Ricambi Soft - 70 Gr](https://www.amazon.it/dp/B00D3I00JC/?tag=tolees00-21) con un 30.04 % de descuento con precio de oferta de 4.89 EUR (original: 6.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084ZTKW6M/?tag=tolees00-21'
 descuento: '25.00'
+average: '24.0'
 ---
 
 Tienes [Kit 3x Durex Pleasuremax Preservativi Stimolanti con Nervature  36 Profilattici](https://www.amazon.it/dp/B084ZTKW6M/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 24.0 EUR (original: 32.0 EUR) en el siguiente enlace!

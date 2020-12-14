@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00F34SPD2/?tag=tolees00-21'
 descuento: '41.18'
+average: '5.0'
 ---
 
 Tienes [CAVO AV COMPOSITO VIDEO AUDIO 1 8MT RCA PER Nintendo Wii](https://www.amazon.it/dp/B00F34SPD2/?tag=tolees00-21) con un 41.18 % de descuento con precio de oferta de 5.0 EUR (original: 8.5 EUR) en el siguiente enlace!

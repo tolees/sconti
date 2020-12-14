@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X2SWWZ1/?tag=tolees00-21'
 descuento: '31.58'
+average: '12.0'
 ---
 
 Está [Eastpak Crew Single Portafoglio  13 cm  Rosso  Sailor Red ](https://www.amazon.it/dp/B07X2SWWZ1/?tag=tolees00-21) con 31.58 de descuento por 12.0 EUR (original: 17.54 EUR) en el siguiente enlace!

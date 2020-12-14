@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GFB5LV3/?tag=tolees00-21'
 descuento: '47.33'
+average: '79.0'
 ---
 
 Tienes [Canon Italia ZoeMini Stampante Portatile  314 dpi x 400 dpi  Rosa](https://www.amazon.it/dp/B07GFB5LV3/?tag=tolees00-21) con un 47.33 % de descuento con precio de oferta de 79.0 EUR (original: 149.99 EUR) en el siguiente enlace!

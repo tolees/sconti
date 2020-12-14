@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MX892VV/?tag=tolees00-21'
 descuento: '53.34'
+average: '69.99'
 ---
 
 Ahora mismo tienes [Apple Smart Battery Case  for iPhone XR  - Black](https://www.amazon.it/dp/B07MX892VV/?tag=tolees00-21) a 69.99 EUR (original: 149.99 EUR) (53.34 %  de descuento) en el siguiente enlace!

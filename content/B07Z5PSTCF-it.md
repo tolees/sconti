@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Z5PSTCF/?tag=tolees00-21'
 descuento: '25.90'
+average: '76.99'
 ---
 
 Tienes [OSOYOO Robot Car Starter Kit for Arduino UNO | STEM Remote Control App Educational Motorized Robotics for Building  Programming & Learning How to Code | IOT Mechanical DIY Coding for Kids Teens Adults](https://www.amazon.it/dp/B07Z5PSTCF/?tag=tolees00-21) con un 25.90 % de descuento con precio de oferta de 76.99 EUR (original: 103.9 EUR) en el siguiente enlace!

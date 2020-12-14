@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VN6ZS4Y/?tag=tolees00-21'
 descuento: '40.00'
+average: '10.17'
 ---
 
 Ahora mismo tienes [YAMAMAY® Slip Costume Brasiliana Tinta Unita con Inserti in Lurex  Doppi Lacci sui Fianchi- Mirage](https://www.amazon.it/dp/B07VN6ZS4Y/?tag=tolees00-21) a 10.17 EUR (original: 16.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZTV1BWD/?tag=tolees00-21'
 descuento: '72.81'
+average: '45.23666666666667'
 ---
 
 Ahora mismo tienes [Nike Air Max 270 React  Scarpe da Ginnastica Uomo  Nero  Black/Oil Grey/Oil Grey/Black/Black/White   38.5 EU](https://www.amazon.it/dp/B07ZTV1BWD/?tag=tolees00-21) a 43.78 EUR (original: 161.0 EUR) (72.81 %  de descuento) en el siguiente enlace!

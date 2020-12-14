@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01DSXA0JQ/?tag=tolees00-21'
 descuento: '38.21'
+average: '37.99'
 ---
 
 Está [SONGMICS Appendiabiti  Metallo  Nero  68.8 x 35.2 x 187 cm](https://www.amazon.it/dp/B01DSXA0JQ/?tag=tolees00-21) con 38.21 de descuento por 37.99 EUR (original: 61.48 EUR) en el siguiente enlace!

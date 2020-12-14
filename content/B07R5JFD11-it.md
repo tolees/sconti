@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07R5JFD11/?tag=tolees00-21'
 descuento: '32.01'
+average: '46.99'
 ---
 
 Ahora mismo tienes [Kalawen Binocolo 10x42 Azoto Professionale Potente Compatto Impermeabile BAK4 Prisma a Tetto Rivistimento Correzione di Fase FMC Migliorato da Birdwatching Teatro Viaggio Adulti Bambini con Accessori](https://www.amazon.it/dp/B07R5JFD11/?tag=tolees00-21) a 33.99 EUR (original: 49.99 EUR) (32.01 %  de descuento) en el siguiente enlace!

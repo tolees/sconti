@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XB761HW/?tag=tolees00-21'
 descuento: '27.79'
+average: '25.99'
 ---
 
 Ahora mismo tienes [EasySMX ESM-9100-Gray Joystick controller con cavo  Doppial-vibrazione  Turbo e Pulsanti Anteriori  Nero/Grigio](https://www.amazon.it/dp/B06XB761HW/?tag=tolees00-21) a 25.99 EUR (original: 35.99 EUR) (27.79 %  de descuento) en el siguiente enlace!

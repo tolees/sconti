@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RWCJ341/?tag=tolees00-21'
 descuento: '26.93'
+average: '18.99'
 ---
 
 Tienes [Zaino Donna  COOFIT Borsa Zainetto Donna Universita Elegante Backpack Ragazze](https://www.amazon.it/dp/B07RWCJ341/?tag=tolees00-21) con un 26.93 % de descuento con precio de oferta de 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!

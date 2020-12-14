@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CDH3K8H/?tag=tolees00-21'
 descuento: '26.99'
+average: '91.99'
 ---
 
 Está [BAITITON NVME 1TB Unità SSD M.2 2280 PCIe Express GEN3.0x4 Unità a Stato Solido Interno](https://www.amazon.it/dp/B08CDH3K8H/?tag=tolees00-21) con 26.99 de descuento por 91.99 EUR (original: 125.99 EUR) en el siguiente enlace!

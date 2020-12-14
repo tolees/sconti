@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CKK4WG2/?tag=tolees00-21'
 descuento: '25.26'
+average: '73.99'
 ---
 
 Ahora mismo tienes [Tablet Bambini 9.0 Pollici con Wifi Offerte Android 9.0 Certificato Google GMS 3GB RAM 32GB/128GB Tablet PC in Offerta OTG 1.5GHz Quad Core 6000mAh Tablet Android con Giochi Educativi Netflix Arancia ](https://www.amazon.it/dp/B08CKK4WG2/?tag=tolees00-21) a 73.99 EUR (original: 99.0 EUR) (25.26 %  de descuento) en el siguiente enlace!

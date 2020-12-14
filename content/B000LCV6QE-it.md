@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000LCV6QE/?tag=tolees00-21'
 descuento: '60.18'
+average: '31.5'
 ---
 
 Tienes [Casio Orologio Digitale Quarzo Uomo con Cinturino in Acciaio Inox DB-360N-1AEF](https://www.amazon.it/dp/B000LCV6QE/?tag=tolees00-21) con un 60.18 % de descuento con precio de oferta de 31.5 EUR (original: 79.11 EUR) en el siguiente enlace!

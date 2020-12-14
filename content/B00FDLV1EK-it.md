@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00FDLV1EK/?tag=tolees00-21'
 descuento: '45.68'
+average: '21.99'
 ---
 
 Está [SONGMICS LLR01L Appendiabiti Estensibile con rotelle  in Metallo  150 x 44 x 165 cm Blu](https://www.amazon.it/dp/B00FDLV1EK/?tag=tolees00-21) con 45.68 de descuento por 21.99 EUR (original: 40.48 EUR) en el siguiente enlace!

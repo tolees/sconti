@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00BYG3TWU/?tag=tolees00-21'
 descuento: '29.60'
+average: '35.2'
 ---
 
 Tienes [Nike T-Lite XI  Scarpe da Ginnastica Uomo  Bianco  White/Obsidian/Black/Metallic Silver 101   40.5 EU  6.5 UK ](https://www.amazon.it/dp/B00BYG3TWU/?tag=tolees00-21) con un 29.60 % de descuento con precio de oferta de 35.2 EUR (original: 50.0 EUR) en el siguiente enlace!

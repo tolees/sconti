@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GWJ31Z6/?tag=tolees00-21'
 descuento: '31.74'
+average: '81.9'
 ---
 
 Ahora mismo tienes [Hauck Citi Neo II Passeggino da 0 Mesi a 25 kg  con 2 Porta Bibite e Accessori  Posizione Nanna  Grande Cesto  Finestra Cucù  Pieghevole  Compatto  Doppie Ruote  Pooh Cuddles](https://www.amazon.it/dp/B07GWJ31Z6/?tag=tolees00-21) a 81.9 EUR (original: 119.99 EUR) (31.74 %  de descuento) en el siguiente enlace!

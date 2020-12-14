@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0009Q1DNS/?tag=tolees00-21'
 descuento: '27.75'
+average: '17.99'
 ---
 
 Está [Bialetti Venus Caffettiera in Acciaio Inox  Adatta all Induzione  Inossidabile  Argento  4 Tazze](https://www.amazon.it/dp/B0009Q1DNS/?tag=tolees00-21) con 27.75 de descuento por 17.99 EUR (original: 24.9 EUR) en el siguiente enlace!

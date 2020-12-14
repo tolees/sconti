@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21'
 descuento: '32.79'
+average: '335.36'
 ---
 
 Está [Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control Plus Home  145 Bar  500 L/H  Resa 40 M²/H  Pistola Alta Pressione  Lancia 3-in-1  Lavasuperfici  Tubo 8m  220 V  Giallo](https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21) con 32.79 de descuento por 335.36 EUR (original: 499.0 EUR) en el siguiente enlace!

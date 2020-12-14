@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077ZRYRN2/?tag=tolees00-21'
 descuento: '44.63'
+average: '16.55'
 ---
 
 Está [YUCUN 2 5 pollici SATA III Unità a Stato Solido Interno R570 120GB SSD](https://www.amazon.it/dp/B077ZRYRN2/?tag=tolees00-21) con 44.63 de descuento por 16.55 EUR (original: 29.89 EUR) en el siguiente enlace!

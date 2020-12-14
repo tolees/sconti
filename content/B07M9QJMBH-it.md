@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07M9QJMBH/?tag=tolees00-21'
 descuento: '27.51'
+average: '28.99'
 ---
 
 Está [Uten Barbecue Griglia a Carbone Professionale per 5-10 Persone  Barbecue Carbone Barbecue Pieghevole per BBQ  Utensile BBQ Grill  Giardino Terrazza Campeggio Picnic](https://www.amazon.it/dp/B07M9QJMBH/?tag=tolees00-21) con 27.51 de descuento por 28.99 EUR (original: 39.99 EUR) en el siguiente enlace!

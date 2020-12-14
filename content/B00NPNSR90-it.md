@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21'
 descuento: '42.31'
+average: '40.49'
 ---
 
 Tienes [Kenzo  Jungle  Eau de Toilette da uomo  100 ml](https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21) con un 42.31 % de descuento con precio de oferta de 40.49 EUR (original: 70.18 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083FL9C3P/?tag=tolees00-21'
 descuento: '29.41'
+average: '134.53545454545454'
 ---
 
 Ahora mismo tienes [Proiettore WiFi  2020 Aggiornato Videoproiettore HD Wireless Nativo 720P Proiettore Home Theater 6000 Lumens con 200"  Proiettore LED per 78000 ore Compatibile con Android iOS TV Stick HDMI AV USB](https://www.amazon.it/dp/B083FL9C3P/?tag=tolees00-21) a 119.99 EUR (original: 169.99 EUR) (29.41 %  de descuento) en el siguiente enlace!

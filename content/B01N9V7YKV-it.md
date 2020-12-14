@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N9V7YKV/?tag=tolees00-21'
 descuento: '50.25'
+average: '99.0'
 ---
 
 Ahora mismo tienes [Fossil Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox FTW1139](https://www.amazon.it/dp/B01N9V7YKV/?tag=tolees00-21) a 99.0 EUR (original: 199.0 EUR) (50.25 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MZX030M/?tag=tolees00-21'
 descuento: '37.25'
+average: '50.2'
 ---
 
 Está [New Balance 373 Core U  Scarpe Trainers Uomo  Rosso  Burgundy   42.5 EU](https://www.amazon.it/dp/B01MZX030M/?tag=tolees00-21) con 37.25 de descuento por 50.2 EUR (original: 80.0 EUR) en el siguiente enlace!

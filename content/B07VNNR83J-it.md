@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VNNR83J/?tag=tolees00-21'
 descuento: '31.43'
+average: '40.39'
 ---
 
 Tienes [Calvin Klein Medium Drawstring Pantaloncini  Bianco  PVH Classic White YCD   Large Uomo](https://www.amazon.it/dp/B07VNNR83J/?tag=tolees00-21) con un 31.43 % de descuento con precio de oferta de 40.39 EUR (original: 58.9 EUR) en el siguiente enlace!

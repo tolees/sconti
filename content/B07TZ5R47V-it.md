@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TZ5R47V/?tag=tolees00-21'
 descuento: '45.03'
+average: '38.45'
 ---
 
 Ahora mismo tienes [Skechers Flex Advantage 3.0  Sneaker Uomo  Blu  Navy Mesh/Red Trim Nvrd   43 EU](https://www.amazon.it/dp/B07TZ5R47V/?tag=tolees00-21) a 38.45 EUR (original: 69.95 EUR) (45.03 %  de descuento) en el siguiente enlace!

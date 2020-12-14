@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TXS3BD8/?tag=tolees00-21'
 descuento: '44.75'
+average: '38.12'
 ---
 
 Tienes [Swarovski Orecchini Stud Nice  Bianco  Placcato Oro](https://www.amazon.it/dp/B07TXS3BD8/?tag=tolees00-21) con un 44.75 % de descuento con precio de oferta de 38.12 EUR (original: 69.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08GSS4M3B/?tag=tolees00-21'
 descuento: '63.22'
+average: '3.88'
 ---
 
 Tienes [HEYB Cover Xiaomi Redmi 9C Custodia Premium Vera Pelle Flip Custodia a Libro Portafoglio Telefono con Magnetica per Xiaomi Redmi 9C Smartphone](https://www.amazon.it/dp/B08GSS4M3B/?tag=tolees00-21) con un 63.22 % de descuento con precio de oferta de 3.88 EUR (original: 10.55 EUR) en el siguiente enlace!

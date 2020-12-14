@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000KBKEFA/?tag=tolees00-21'
 descuento: '29.65'
+average: '42.21'
 ---
 
 Tienes [Birkenstock  Madrid BS 0040793  Sandali  Donna  Nero  35 EU](https://www.amazon.it/dp/B000KBKEFA/?tag=tolees00-21) con un 29.65 % de descuento con precio de oferta de 42.21 EUR (original: 60.0 EUR) en el siguiente enlace!

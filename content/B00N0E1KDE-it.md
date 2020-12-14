@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00N0E1KDE/?tag=tolees00-21'
 descuento: '30.05'
+average: '558.89'
 ---
 
 Está [Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0  Micro Quattro Terzi  per Fotocamere OM-D e PEN  Nero](https://www.amazon.it/dp/B00N0E1KDE/?tag=tolees00-21) con 30.05 de descuento por 558.89 EUR (original: 799.0 EUR) en el siguiente enlace!

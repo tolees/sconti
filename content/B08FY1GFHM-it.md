@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FY1GFHM/?tag=tolees00-21'
 descuento: '33.34'
+average: '39.99'
 ---
 
 Tienes [Souke Sports - Giacca Invernale Uomo Giacca da Ciclismo Giacca Sportiva Zip-off Giacca Trekking MTB Riflessivo Antivento Impermeabile Traspirante Termico](https://www.amazon.it/dp/B08FY1GFHM/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

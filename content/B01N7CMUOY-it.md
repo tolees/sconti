@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N7CMUOY/?tag=tolees00-21'
 descuento: '56.32'
+average: '17.43'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta  Nero  Flag Black 083   Large Uomo](https://www.amazon.it/dp/B01N7CMUOY/?tag=tolees00-21) a 17.43 EUR (original: 39.9 EUR) (56.32 %  de descuento) en el siguiente enlace!

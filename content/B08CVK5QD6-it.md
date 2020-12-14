@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CVK5QD6/?tag=tolees00-21'
 descuento: '36.38'
+average: '13.99'
 ---
 
 Está [KLAS REMO Dispenser di Sapone Automatico 400ML Erogatore di Sapone Touchless con Sensore di Infrarossi per Bagno  Cucina  Ufficio  Hotel - Bianco](https://www.amazon.it/dp/B08CVK5QD6/?tag=tolees00-21) con 36.38 de descuento por 13.99 EUR (original: 21.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TZ21NYQ/?tag=tolees00-21'
 descuento: '41.48'
+average: '46.79'
 ---
 
 Está [Wrangler Larston Jeans  Blu Mistral Green  32W / 32L Uomo](https://www.amazon.it/dp/B07TZ21NYQ/?tag=tolees00-21) con 41.48 de descuento por 46.79 EUR (original: 79.95 EUR) en el siguiente enlace!

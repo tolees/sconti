@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JK6XP6G/?tag=tolees00-21'
 descuento: '26.96'
+average: '18.99'
 ---
 
 Está [Under Armour UA Undeniable SP 2.0  Borsa Unisex  Nero  OSFA](https://www.amazon.it/dp/B07JK6XP6G/?tag=tolees00-21) con 26.96 de descuento por 18.99 EUR (original: 26.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QLQNXYW/?tag=tolees00-21'
 descuento: '31.72'
+average: '34.49'
 ---
 
 Está [Bedsure Piumino Matrimoniale Primaverile/Estivo 250 x 200 cm - Piumone Letto Matrimoniale Leggero Morbido Anallergico Certificato Oeko-Tex](https://www.amazon.it/dp/B07QLQNXYW/?tag=tolees00-21) con 31.72 de descuento por 27.99 EUR (original: 40.99 EUR) en el siguiente enlace!

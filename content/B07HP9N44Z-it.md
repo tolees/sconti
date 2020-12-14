@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HP9N44Z/?tag=tolees00-21'
 descuento: '39.99'
+average: '54.0'
 ---
 
 Tienes [Brondi Amico Fedele  Telefono cellulare GSM per anziani con tasti grandi  tasto SOS e funzione da remoto  dual SIM  volume alto  Dual Sim Nero](https://www.amazon.it/dp/B07HP9N44Z/?tag=tolees00-21) con un 39.99 % de descuento con precio de oferta de 54.0 EUR (original: 89.99 EUR) en el siguiente enlace!

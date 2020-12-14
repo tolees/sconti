@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01IVLARUW/?tag=tolees00-21'
 descuento: '50.05'
+average: '38.36'
 ---
 
 Está [Paco Rabanne 1 Million Privé Profumo - 50 Ml](https://www.amazon.it/dp/B01IVLARUW/?tag=tolees00-21) con 50.05 de descuento por 38.36 EUR (original: 76.8 EUR) en el siguiente enlace!

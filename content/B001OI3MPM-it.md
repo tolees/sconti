@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B001OI3MPM/?tag=tolees00-21'
 descuento: '53.75'
+average: '11.1'
 ---
 
 Está [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Blu  Navy Blue   37/38 EU](https://www.amazon.it/dp/B001OI3MPM/?tag=tolees00-21) con 53.75 de descuento por 11.1 EUR (original: 24.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0793DGSR5/?tag=tolees00-21'
 descuento: '30.99'
+average: '57.86'
 ---
 
 Tienes [Saucony Jazz Original Vintage  Sneakers Uomo  Blu Nvy Gld 22  44 EU](https://www.amazon.it/dp/B0793DGSR5/?tag=tolees00-21) con un 30.99 % de descuento con precio de oferta de 57.86 EUR (original: 83.84 EUR) en el siguiente enlace!

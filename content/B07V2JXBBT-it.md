@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V2JXBBT/?tag=tolees00-21'
 descuento: '36.85'
+average: '59.99'
 ---
 
 Tienes [Lacoste L1264 Polo  Vite Cinese  S Uomo](https://www.amazon.it/dp/B07V2JXBBT/?tag=tolees00-21) con un 36.85 % de descuento con precio de oferta de 59.99 EUR (original: 95.0 EUR) en el siguiente enlace!

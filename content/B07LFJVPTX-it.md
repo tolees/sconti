@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07LFJVPTX/?tag=tolees00-21'
 descuento: '78.16'
+average: '30.58'
 ---
 
 Está [Levi s Ex-BF Sherpa Trucker Giacca in Jeans  Nero  Forever Black 0015   Large Donna](https://www.amazon.it/dp/B07LFJVPTX/?tag=tolees00-21) con 78.16 de descuento por 30.58 EUR (original: 140.0 EUR) en el siguiente enlace!

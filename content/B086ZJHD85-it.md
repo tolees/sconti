@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086ZJHD85/?tag=tolees00-21'
 descuento: '28.08'
+average: '186.99'
 ---
 
 Tienes [TOPTRO Bluetooth Proiettore Nativo 1080P e 350 ” 7000 Lux Videoproiettore Supporto 4K Zoom e Correzione Trapezoidale ± 50 °4D Proiettore Home Theater Compatibile con Telefono/TV Stick/PC/USB/PS4/DVD](https://www.amazon.it/dp/B086ZJHD85/?tag=tolees00-21) con un 28.08 % de descuento con precio de oferta de 186.99 EUR (original: 259.99 EUR) en el siguiente enlace!

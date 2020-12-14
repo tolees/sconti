@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07L4JVQVZ/?tag=tolees00-21'
 descuento: '60.08'
+average: '4.75'
 ---
 
 Ahora mismo tienes [Funko-36025 Fortnite Valor  Multicolore  36025](https://www.amazon.it/dp/B07L4JVQVZ/?tag=tolees00-21) a 4.75 EUR (original: 11.9 EUR) (60.08 %  de descuento) en el siguiente enlace!

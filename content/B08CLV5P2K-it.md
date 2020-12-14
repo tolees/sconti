@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CLV5P2K/?tag=tolees00-21'
 descuento: '36.89'
+average: '11.99'
 ---
 
 Tienes [Philips Cuffie Sovrauricolari On Ear H4105RD/00 con Microfono  Telecomando in Linea  Design Pieghevole  Connettore Angolato  Fascia Imbottita  Isolamento Audio  Rosso - Modello 2020/2021](https://www.amazon.it/dp/B08CLV5P2K/?tag=tolees00-21) con un 36.89 % de descuento con precio de oferta de 11.99 EUR (original: 19.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TJ9SDM7/?tag=tolees00-21'
 descuento: '50.02'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Levi s LS Battery HM Shirt Slim Camicia  Blu  Redcast Stone Mid Flat T2 H2 19 0004   Medium Uomo](https://www.amazon.it/dp/B07TJ9SDM7/?tag=tolees00-21) a 29.99 EUR (original: 60.0 EUR) (50.02 %  de descuento) en el siguiente enlace!

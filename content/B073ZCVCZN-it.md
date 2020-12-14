@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073ZCVCZN/?tag=tolees00-21'
 descuento: '46.94'
+average: '21.294000000000004'
 ---
 
 Está [Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta  Grigio  Cloud Htr 501   Medium Uomo](https://www.amazon.it/dp/B073ZCVCZN/?tag=tolees00-21) con 46.94 de descuento por 21.17 EUR (original: 39.9 EUR) en el siguiente enlace!

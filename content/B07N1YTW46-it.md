@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07N1YTW46/?tag=tolees00-21'
 descuento: '35.00'
+average: '58.5'
 ---
 
 Tienes [Diadora - Sneakers Titan II per Uomo e Donna  EU 40 ](https://www.amazon.it/dp/B07N1YTW46/?tag=tolees00-21) con un 35.00 % de descuento con precio de oferta de 58.5 EUR (original: 90.0 EUR) en el siguiente enlace!

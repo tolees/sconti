@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06WLL8H1T/?tag=tolees00-21'
 descuento: '40.95'
+average: '12.99'
 ---
 
 Tienes [Havaianas Logo Metallic  Infradito Donna Bianco  White 0001   Taglia Produttore 39/40](https://www.amazon.it/dp/B06WLL8H1T/?tag=tolees00-21) con un 40.95 % de descuento con precio de oferta de 12.99 EUR (original: 22.0 EUR) en el siguiente enlace!

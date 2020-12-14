@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BYWJW62/?tag=tolees00-21'
 descuento: '25.30'
+average: '37.09'
 ---
 
 Tienes [Paco Rabanne Profumo - 100 Ml](https://www.amazon.it/dp/B07BYWJW62/?tag=tolees00-21) con un 25.30 % de descuento con precio de oferta de 37.09 EUR (original: 49.65 EUR) en el siguiente enlace!

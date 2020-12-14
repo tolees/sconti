@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B076TDRLR4/?tag=tolees00-21'
 descuento: '52.32'
+average: '26.2'
 ---
 
 Ahora mismo tienes [Skechers Og 85-Old School Cool-699  Scarpe da Ginnastica Basse Donna  Bianco  White Wht   35.5 EU](https://www.amazon.it/dp/B076TDRLR4/?tag=tolees00-21) a 26.2 EUR (original: 54.95 EUR) (52.32 %  de descuento) en el siguiente enlace!

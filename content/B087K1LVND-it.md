@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087K1LVND/?tag=tolees00-21'
 descuento: '29.36'
+average: '7.7'
 ---
 
 Está [Mag Ricarica 24 Ore Integratore Alimentare Contro la Stanchezza a Base di Sali di Magnesio Pidolato e Magnesio Ossido  con Vitamina B6 - 10 Bustine](https://www.amazon.it/dp/B087K1LVND/?tag=tolees00-21) con 29.36 de descuento por 7.7 EUR (original: 10.9 EUR) en el siguiente enlace!

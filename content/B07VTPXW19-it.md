@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VTPXW19/?tag=tolees00-21'
 descuento: '36.85'
+average: '59.99'
 ---
 
 Ahora mismo tienes [Lacoste L1212 Polo  ALIZARINE  S Uomo](https://www.amazon.it/dp/B07VTPXW19/?tag=tolees00-21) a 59.99 EUR (original: 95.0 EUR) (36.85 %  de descuento) en el siguiente enlace!

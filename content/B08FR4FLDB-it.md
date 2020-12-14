@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FR4FLDB/?tag=tolees00-21'
 descuento: '41.62'
+average: '14.59'
 ---
 
 Tienes [eXtremeRate 2 Pellicole Protettive Vetro Temperato Protezione Schermo per Nintendo Switch Lite-Bianco Bordo Trasparente HD Chiaro  Antigraffio Anti-Impronta Digitale Infrangibile Senza Bolle ](https://www.amazon.it/dp/B08FR4FLDB/?tag=tolees00-21) con un 41.62 % de descuento con precio de oferta de 14.59 EUR (original: 24.99 EUR) en el siguiente enlace!

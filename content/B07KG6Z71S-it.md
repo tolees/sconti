@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KG6Z71S/?tag=tolees00-21'
 descuento: '50.59'
+average: '39.5'
 ---
 
 Tienes [PUMA Ralph Sampson Lo  Sneakers Unisex-Adulto  Nero  Schwarz Black White White   44 EU](https://www.amazon.it/dp/B07KG6Z71S/?tag=tolees00-21) con un 50.59 % de descuento con precio de oferta de 39.5 EUR (original: 79.95 EUR) en el siguiente enlace!

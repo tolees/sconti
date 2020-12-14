@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084ZM2MDM/?tag=tolees00-21'
 descuento: '27.43'
+average: '47.09'
 ---
 
 Ahora mismo tienes [Philips Frullatore a Immersione HR2543/00  nuova Daily+ collection  700W  Bianco  Tecnologia ProMix  2 impostazioni di velocità + Turbo  barra in metallo  frusta  tritatutto compatto  bicchiere](https://www.amazon.it/dp/B084ZM2MDM/?tag=tolees00-21) a 47.09 EUR (original: 64.89 EUR) (27.43 %  de descuento) en el siguiente enlace!

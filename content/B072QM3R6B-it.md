@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072QM3R6B/?tag=tolees00-21'
 descuento: '61.82'
+average: '26.69'
 ---
 
 Tienes [Monster Hunter: World  UK ](https://www.amazon.it/dp/B072QM3R6B/?tag=tolees00-21) con un 61.82 % de descuento con precio de oferta de 26.69 EUR (original: 69.9 EUR) en el siguiente enlace!

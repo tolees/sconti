@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VSP255B/?tag=tolees00-21'
 descuento: '37.13'
+average: '187.99'
 ---
 
 Está [Bonio 360° Girevole Seggiolino Auto ISOFIX Gruppo 0+/1/2/3  0-36 kg  con UPF50+ Capotta Parasole  Nero ](https://www.amazon.it/dp/B07VSP255B/?tag=tolees00-21) con 37.13 de descuento por 187.99 EUR (original: 299.0 EUR) en el siguiente enlace!

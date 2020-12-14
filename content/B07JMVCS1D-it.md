@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JMVCS1D/?tag=tolees00-21'
 descuento: '99.22'
+average: '16.04333333333333'
 ---
 
 Ahora mismo tienes [Cuscino Termico  Arealer - 30 x 60 CM Termoforo Elettrico Lavabile con 2 Terapia Secca & Umido + 3 Livelli di Temperatura + 90min Auto-Off  Cuscino Riscaldante in Flanella Morbida](https://www.amazon.it/dp/B07JMVCS1D/?tag=tolees00-21) a 0.15 EUR (original: 19.21 EUR) (99.22 %  de descuento) en el siguiente enlace!

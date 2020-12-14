@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LPZ7IWG/?tag=tolees00-21'
 descuento: '36.60'
+average: '19.99'
 ---
 
 Ahora mismo tienes [SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  Doppio Pacco fino a 90 MB/sec  Classe 10  U3  V30](https://www.amazon.it/dp/B01LPZ7IWG/?tag=tolees00-21) a 19.99 EUR (original: 31.53 EUR) (36.60 %  de descuento) en el siguiente enlace!

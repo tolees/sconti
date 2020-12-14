@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07DNBK93B/?tag=tolees00-21'
 descuento: '47.05'
+average: '24.02'
 ---
 
 Está [Collana con ciondolo rosa Swarovski zircone gioielli per donne ragazze ideale regali di compleanno regalo per figlia nipote fidanzata madre moglie e Argento  colore: White  cod. G18S0002-1](https://www.amazon.it/dp/B07DNBK93B/?tag=tolees00-21) con 47.05 de descuento por 24.02 EUR (original: 45.36 EUR) en el siguiente enlace!

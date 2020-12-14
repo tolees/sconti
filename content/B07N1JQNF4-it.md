@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07N1JQNF4/?tag=tolees00-21'
 descuento: '56.06'
+average: '43.92'
 ---
 
 Tienes [Clarks Sheer Rose  Scarpe con Tacco Donna  Multicolore  Leopard Print Leopard Print   37 EU](https://www.amazon.it/dp/B07N1JQNF4/?tag=tolees00-21) con un 56.06 % de descuento con precio de oferta de 43.92 EUR (original: 99.95 EUR) en el siguiente enlace!

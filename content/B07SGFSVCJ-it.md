@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SGFSVCJ/?tag=tolees00-21'
 descuento: '49.99'
+average: '40.0'
 ---
 
 Está [Superdry Uomo Giubbotto Ripiegabile Offshore True Red L](https://www.amazon.it/dp/B07SGFSVCJ/?tag=tolees00-21) con 49.99 de descuento por 40.0 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F86XFF7/?tag=tolees00-21'
 descuento: '55.57'
+average: '19.99'
 ---
 
 Está [Superdry Low PRO Sneaker  Uomo  Blu  Navy 11s   44 EU](https://www.amazon.it/dp/B07F86XFF7/?tag=tolees00-21) con 55.57 de descuento por 19.99 EUR (original: 44.99 EUR) en el siguiente enlace!

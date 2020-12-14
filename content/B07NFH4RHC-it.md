@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NFH4RHC/?tag=tolees00-21'
 descuento: '33.90'
+average: '14.365'
 ---
 
 Ahora mismo tienes [Vigorsol Air Action Gomme da Masticare Senza Zucchero Multipack Stick  Chewing Gum Gusto Menta  6 Confezioni da 5 Stick  30 Stick](https://www.amazon.it/dp/B07NFH4RHC/?tag=tolees00-21) a 12.89 EUR (original: 19.5 EUR) (33.90 %  de descuento) en el siguiente enlace!

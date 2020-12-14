@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RL321JG/?tag=tolees00-21'
 descuento: '40.00'
+average: '25.74'
 ---
 
 Está [American Tourister Urban Groove Zaino Porta PC  15.6 pollici  48 cm  26 L  Blu  True Navy ](https://www.amazon.it/dp/B07RL321JG/?tag=tolees00-21) con 40.00 de descuento por 25.74 EUR (original: 42.9 EUR) en el siguiente enlace!

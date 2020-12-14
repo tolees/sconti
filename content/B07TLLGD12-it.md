@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TLLGD12/?tag=tolees00-21'
 descuento: '58.13'
+average: '33.49'
 ---
 
 Está [Superdry Zip Hood Cappuccio  Grigio  Collective Dark Grey Grit 9ss   L Uomo](https://www.amazon.it/dp/B07TLLGD12/?tag=tolees00-21) con 58.13 de descuento por 33.49 EUR (original: 79.99 EUR) en el siguiente enlace!

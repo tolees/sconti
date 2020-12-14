@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B006LXSOP8/?tag=tolees00-21'
 descuento: '32.88'
+average: '46.3'
 ---
 
 Ahora mismo tienes [Allibert 201310 Ice Cube  Sgabello Frigorifero in plastica  Colore: Marrone](https://www.amazon.it/dp/B006LXSOP8/?tag=tolees00-21) a 46.3 EUR (original: 68.98 EUR) (32.88 %  de descuento) en el siguiente enlace!

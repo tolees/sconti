@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SSJW3GG/?tag=tolees00-21'
 descuento: '66.11'
+average: '40.63'
 ---
 
 Está [Geox U EOLO B  Scarpe da Ginnastica Basse Uomo  Grigio  White/Lt Grey C1236   44 EU](https://www.amazon.it/dp/B07SSJW3GG/?tag=tolees00-21) con 66.11 de descuento por 40.63 EUR (original: 119.9 EUR) en el siguiente enlace!

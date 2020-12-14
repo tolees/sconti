@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083ZS4HYD/?tag=tolees00-21'
 descuento: '47.20'
+average: '65.99'
 ---
 
 Tienes [SanDisk Ultra Fit Unità Flash  USB 3.1 da 512 GB con Velocità fino a 130 MB/sec Tradizionale Nero 512 GB](https://www.amazon.it/dp/B083ZS4HYD/?tag=tolees00-21) con un 47.20 % de descuento con precio de oferta de 65.99 EUR (original: 124.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07H9Z4JP3/?tag=tolees00-21'
 descuento: '45.72'
+average: '8.594285714285714'
 ---
 
 Ahora mismo tienes [NACHO LIBRE - POP FUNKO VINYL FIGURE 647 NACHO 9CM](https://www.amazon.it/dp/B07H9Z4JP3/?tag=tolees00-21) a 8.63 EUR (original: 15.9 EUR) (45.72 %  de descuento) en el siguiente enlace!

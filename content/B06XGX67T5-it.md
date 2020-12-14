@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21'
 descuento: '40.95'
+average: '6.49'
 ---
 
 Tienes [Autan Active Vapo Bipacco  Insetto Repellente e Antizanzare  Lunga Durata  2 Confezioni da100 ml](https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21) con un 40.95 % de descuento con precio de oferta de 6.49 EUR (original: 10.99 EUR) en el siguiente enlace!

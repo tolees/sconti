@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JNHNS6B/?tag=tolees00-21'
 descuento: '39.24'
+average: '11.21'
 ---
 
 Está [NIVEA Micellair Professional Acqua Micellare Bifase  per Trucco Waterproof e di Lunga Durata  3 Confezioni](https://www.amazon.it/dp/B07JNHNS6B/?tag=tolees00-21) con 39.24 de descuento por 11.21 EUR (original: 18.45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SFJ9JMY/?tag=tolees00-21'
 descuento: '33.35'
+average: '39.99'
 ---
 
 Está [Levi s Woodward L  Sneaker Uomo  Blu  Navy Blue 17   44 EU](https://www.amazon.it/dp/B07SFJ9JMY/?tag=tolees00-21) con 33.35 de descuento por 39.99 EUR (original: 60.0 EUR) en el siguiente enlace!

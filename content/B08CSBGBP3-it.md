@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CSBGBP3/?tag=tolees00-21'
 descuento: '34.49'
+average: '37.99'
 ---
 
 Ahora mismo tienes [Controller wireless per Nintendo Switch  Maegoo Mini Controller Gamepad Joystick per Switch Joy Con  Gamepad Bluetooth per Nintendo Switch con Dual shock  Blu + Rosso ](https://www.amazon.it/dp/B08CSBGBP3/?tag=tolees00-21) a 37.99 EUR (original: 57.99 EUR) (34.49 %  de descuento) en el siguiente enlace!

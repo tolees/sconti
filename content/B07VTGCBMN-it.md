@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VTGCBMN/?tag=tolees00-21'
 descuento: '27.81'
+average: '6.49'
 ---
 
 Está [Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze  Multicolore  White/Grey 062   43/46  Taglia Produttore: 043  Uomo](https://www.amazon.it/dp/B07VTGCBMN/?tag=tolees00-21) con 27.81 de descuento por 6.49 EUR (original: 8.99 EUR) en el siguiente enlace!

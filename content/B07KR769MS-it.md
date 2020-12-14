@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KR769MS/?tag=tolees00-21'
 descuento: '56.76'
+average: '28.1'
 ---
 
 Ahora mismo tienes [Under Armour UA Qualifier HeatGear Tight  Pantaloni a Compressione Uomo  Nero  Black/Black/Reflective   S](https://www.amazon.it/dp/B07KR769MS/?tag=tolees00-21) a 28.1 EUR (original: 64.99 EUR) (56.76 %  de descuento) en el siguiente enlace!

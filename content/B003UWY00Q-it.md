@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003UWY00Q/?tag=tolees00-21'
 descuento: '25.13'
+average: '19.99'
 ---
 
 Tienes [Swiffer Wet Panni Umidi Lavapavimenti per Scopa  Maxi Formato 72 Pezzi  3 Confezioni da 24 Panni](https://www.amazon.it/dp/B003UWY00Q/?tag=tolees00-21) con un 25.13 % de descuento con precio de oferta de 19.99 EUR (original: 26.7 EUR) en el siguiente enlace!

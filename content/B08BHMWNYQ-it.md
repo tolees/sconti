@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BHMWNYQ/?tag=tolees00-21'
 descuento: '33.33'
+average: '259.99'
 ---
 
 Ahora mismo tienes [Proiettore WiFi WiMiUS 7200 Lumen Videoproiettore Full HD Nativa 1920x1080P LED Proiettore Supporto 4K Dolby Schermo 300" per Home Cinema Theater Compatibile con Smartphone Fire Stick TV Stick  PC PS4](https://www.amazon.it/dp/B08BHMWNYQ/?tag=tolees00-21) a 259.99 EUR (original: 389.99 EUR) (33.33 %  de descuento) en el siguiente enlace!

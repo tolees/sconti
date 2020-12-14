@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07C7BWDWM/?tag=tolees00-21'
 descuento: '53.31'
+average: '69.99'
 ---
 
 Ahora mismo tienes [HP Sprocket Z3Z92A Stampante Fotografica Istantanea Portatile  Bluetooth 3.0  Misura 5 x 7.6 cm  Compatibile con Android e IOS  Nero](https://www.amazon.it/dp/B07C7BWDWM/?tag=tolees00-21) a 69.99 EUR (original: 149.9 EUR) (53.31 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V7XT57C/?tag=tolees00-21'
 descuento: '57.84'
+average: '37.9'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Corporate Material Mix Runner  Scarpe da Ginnastica Basse Uomo  Bianco  White Ybs   46 EU](https://www.amazon.it/dp/B07V7XT57C/?tag=tolees00-21) a 37.9 EUR (original: 89.9 EUR) (57.84 %  de descuento) en el siguiente enlace!

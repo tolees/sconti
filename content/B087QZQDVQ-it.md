@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087QZQDVQ/?tag=tolees00-21'
 descuento: '25.01'
+average: '29.99'
 ---
 
 Tienes [DADYPET Tosatore Elettrico  Tosatrici per Toelettatura Gatti  Tosatrice per Cani Ricaricabile  Kit Tagliaunghie Elettrico Cordless a Basso Rumore](https://www.amazon.it/dp/B087QZQDVQ/?tag=tolees00-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

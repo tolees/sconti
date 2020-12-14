@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HL29RC8/?tag=tolees00-21'
 descuento: '29.96'
+average: '11.9'
 ---
 
 Ahora mismo tienes [Amazon Essentials - Confezione da 3 camicie da notte per neonati  Uni Stars  US 0-6M  EU 56-68 ](https://www.amazon.it/dp/B07HL29RC8/?tag=tolees00-21) a 11.9 EUR (original: 16.99 EUR) (29.96 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ON9ZN4M/?tag=tolees00-21'
 descuento: '29.84'
+average: '44.9'
 ---
 
 Está [Severin SEV1071 Piastra Induzione](https://www.amazon.it/dp/B00ON9ZN4M/?tag=tolees00-21) con 29.84 de descuento por 44.9 EUR (original: 64.0 EUR) en el siguiente enlace!

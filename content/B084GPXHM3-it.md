@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084GPXHM3/?tag=tolees00-21'
 descuento: '40.93'
+average: '13.64'
 ---
 
 Tienes [Svelto Expert Pastiglie per Lavastoviglie Extra Brillantezza  117 Lavaggi  13 Unità  Confezione da 9 ](https://www.amazon.it/dp/B084GPXHM3/?tag=tolees00-21) con un 40.93 % de descuento con precio de oferta de 13.64 EUR (original: 23.09 EUR) en el siguiente enlace!

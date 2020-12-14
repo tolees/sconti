@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0000ATAD5/?tag=tolees00-21'
 descuento: '28.19'
+average: '22.9'
 ---
 
 Ahora mismo tienes [D-Link DUB-E100 Adattatore di Rete con Porta USB 2.0 e Porta LAN 10/100 Mbps  Connettore RJ45  Fast Ethernet  Nero e Antracite](https://www.amazon.it/dp/B0000ATAD5/?tag=tolees00-21) a 22.9 EUR (original: 31.89 EUR) (28.19 %  de descuento) en el siguiente enlace!

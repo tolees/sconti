@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZNT2VTP/?tag=tolees00-21'
 descuento: '42.13'
+average: '10.99'
 ---
 
 Tienes [Oacvien 2L Umidificatore Ambiente Ultrasonicos 7 Colori Chiari LED 25Ore di Lavoro Diffusore Oli Essenziali Ambiente Bambini 23dB Modalità Sleep Notturna e Spegnimento Automatico Regalo](https://www.amazon.it/dp/B07ZNT2VTP/?tag=tolees00-21) con un 42.13 % de descuento con precio de oferta de 10.99 EUR (original: 18.99 EUR) en el siguiente enlace!

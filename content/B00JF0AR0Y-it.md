@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21'
 descuento: '54.82'
+average: '8.99'
 ---
 
 Tienes [Microsoft 1850 Mobile Mouse Wireless  Nero](https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21) con un 54.82 % de descuento con precio de oferta de 8.99 EUR (original: 19.9 EUR) en el siguiente enlace!

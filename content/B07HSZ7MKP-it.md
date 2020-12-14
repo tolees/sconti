@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HSZ7MKP/?tag=tolees00-21'
 descuento: '75.03'
+average: '21.97'
 ---
 
 Ahora mismo tienes [ANSIO Ventilatore a torre oscillante con telecomando e 3 impostazioni di velocità e di vento  con cavo lungo 1 75 m.36 pollici - Nero  batterie non incluse  2 anni di garanzia](https://www.amazon.it/dp/B07HSZ7MKP/?tag=tolees00-21) a 21.97 EUR (original: 87.97 EUR) (75.03 %  de descuento) en el siguiente enlace!

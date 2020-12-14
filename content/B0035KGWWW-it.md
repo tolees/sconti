@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21'
 descuento: '26.70'
+average: '7.99'
 ---
 
 Ahora mismo tienes [Sola Scriptura](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21) a 7.99 EUR (original: 10.9 EUR) (26.70 %  de descuento) en el siguiente enlace!

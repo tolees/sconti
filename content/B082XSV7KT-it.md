@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B082XSV7KT/?tag=tolees00-21'
 descuento: '33.34'
+average: '39.99'
 ---
 
 Ahora mismo tienes [Autoradio Bluetooth RDS Stereo ieGeek  Luce dei Tasti a 7 Colori  60WX4 Supporta FM/AM/AUX/MP3/WMA/WAV/USB/SD/Telecoman  Doppio Display LCD con Orologio domemorizza 30 stazioni radio  1DIN](https://www.amazon.it/dp/B082XSV7KT/?tag=tolees00-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

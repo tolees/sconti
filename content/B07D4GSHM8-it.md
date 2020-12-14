@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07D4GSHM8/?tag=tolees00-21'
 descuento: '80.00'
+average: '11.0'
 ---
 
 Está [Acqua Di Parma Colonia Club Eau de Cologne  20 ml](https://www.amazon.it/dp/B07D4GSHM8/?tag=tolees00-21) con 80.00 de descuento por 11.0 EUR (original: 55.0 EUR) en el siguiente enlace!

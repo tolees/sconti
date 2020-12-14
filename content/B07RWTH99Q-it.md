@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RWTH99Q/?tag=tolees00-21'
 descuento: '27.28'
+average: '39.99'
 ---
 
 Está [Telecamera di sicurezza a cupola da interni per sorveglianza domestica Imou dotata di Wi-Fi risoluzione 1080P  rilevamento antintrusione  tracking intelligente  modalità privacy](https://www.amazon.it/dp/B07RWTH99Q/?tag=tolees00-21) con 27.28 de descuento por 39.99 EUR (original: 54.99 EUR) en el siguiente enlace!

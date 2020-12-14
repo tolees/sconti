@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07P5MSQCY/?tag=tolees00-21'
 descuento: '50.00'
+average: '57.95'
 ---
 
 Tienes [American Tourister Wavebreaker Bagaglio a Mano Disney  Spinner S  55 cm  36 L  Grigio  Animal Sparkle ](https://www.amazon.it/dp/B07P5MSQCY/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 57.95 EUR (original: 115.9 EUR) en el siguiente enlace!

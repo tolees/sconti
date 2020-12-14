@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GXZFPV6/?tag=tolees00-21'
 descuento: '39.97'
+average: '77.98'
 ---
 
 Está [Olimpia Splendid 99409 Caldo Crystal Termoventilatore Ceramico a Parete con Ionizzatore  ProtezioneIP23 e Telecomando  2000 W  230 V  Nero](https://www.amazon.it/dp/B07GXZFPV6/?tag=tolees00-21) con 39.97 de descuento por 77.98 EUR (original: 129.9 EUR) en el siguiente enlace!

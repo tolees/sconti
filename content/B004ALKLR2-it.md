@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B004ALKLR2/?tag=tolees00-21'
 descuento: '38.60'
+average: '10.1'
 ---
 
 Tienes [Learning Resources Playfoam Combo  Pack of 8 ](https://www.amazon.it/dp/B004ALKLR2/?tag=tolees00-21) con un 38.60 % de descuento con precio de oferta de 10.1 EUR (original: 16.45 EUR) en el siguiente enlace!

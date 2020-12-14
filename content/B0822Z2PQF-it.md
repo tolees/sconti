@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0822Z2PQF/?tag=tolees00-21'
 descuento: '29.63'
+average: '98.58999999999999'
 ---
 
 Ahora mismo tienes [Braun Silk-épil 9 9-720 Epilatore Elettrico Donna Epilazione Duratura  Testina Radente e Rifinitore  Pinzette MicroGrip  Cappuccio Massaggiante Alta Frequenza  senza Fili  Wet&Dry](https://www.amazon.it/dp/B0822Z2PQF/?tag=tolees00-21) a 94.99 EUR (original: 134.99 EUR) (29.63 %  de descuento) en el siguiente enlace!

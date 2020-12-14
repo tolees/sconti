@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081Q7FKD1/?tag=tolees00-21'
 descuento: '27.51'
+average: '28.99'
 ---
 
 Ahora mismo tienes [1Mii Ricevitore Bluetooth 5.0  Adattatore Audio Bluetooth Hi-Fi con Jack Aux da 3 5mm e Rca  Ricevitore Audio Wireless con 3D Surround AptX LL per Altoparlante Casa e Stereo Domestico Lungo Raggio 50m](https://www.amazon.it/dp/B081Q7FKD1/?tag=tolees00-21) a 28.99 EUR (original: 39.99 EUR) (27.51 %  de descuento) en el siguiente enlace!

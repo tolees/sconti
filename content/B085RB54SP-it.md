@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085RB54SP/?tag=tolees00-21'
 descuento: '54.88'
+average: '3.7'
 ---
 
 Está [Hotroad Maschera per la Bocca alla Moda Unisex  Confortevole e Permeabile All aria per i Viaggi in Bicicletta  Uso Quotidiano  Confezione Lavabile Riutilizzabile da 3 Pezzi  Nero](https://www.amazon.it/dp/B085RB54SP/?tag=tolees00-21) con 54.88 de descuento por 3.7 EUR (original: 8.2 EUR) en el siguiente enlace!

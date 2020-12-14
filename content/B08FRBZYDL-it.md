@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FRBZYDL/?tag=tolees00-21'
 descuento: '41.62'
+average: '14.59'
 ---
 
 Ahora mismo tienes [eXtremeRate 2 Pellicole Protettive Vetro Temperato Protezione Schermo per Nintendo Switch Lite-Sakura Rosa Bordo Trasparente HD Chiaro  Antigraffio Anti-Impronta Digitale Infrangibile Senza Bolle ](https://www.amazon.it/dp/B08FRBZYDL/?tag=tolees00-21) a 14.59 EUR (original: 24.99 EUR) (41.62 %  de descuento) en el siguiente enlace!

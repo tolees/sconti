@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XZH7KS8/?tag=tolees00-21'
 descuento: '33.31'
+average: '199.99'
 ---
 
 Está [HUAWEI T5 Mediapad 10 Tablet LTE con Display Full HD  1920 x 1200 da 10.1" in 16:10  Processore da 2.3 GHz  Memoria RAM da 4 GB  Memoria Interno da 64 GB  Nero](https://www.amazon.it/dp/B07XZH7KS8/?tag=tolees00-21) con 33.31 de descuento por 199.99 EUR (original: 299.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XH973WN/?tag=tolees00-21'
 descuento: '49.08'
+average: '28.0'
 ---
 
 Ahora mismo tienes [Giochi Preziosi Pinypon Action Stazione di Polizia con 2 Personaggi Mix&Match e Accessori](https://www.amazon.it/dp/B07XH973WN/?tag=tolees00-21) a 28.0 EUR (original: 54.99 EUR) (49.08 %  de descuento) en el siguiente enlace!

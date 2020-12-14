@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SN4SR5W/?tag=tolees00-21'
 descuento: '33.39'
+average: '11.99'
 ---
 
 Está [Havaianas Top Animals  Infradito Donna  Multicolore  Sand Grey/Dark Cooper 9413   39/40 EU](https://www.amazon.it/dp/B07SN4SR5W/?tag=tolees00-21) con 33.39 de descuento por 11.99 EUR (original: 18.0 EUR) en el siguiente enlace!

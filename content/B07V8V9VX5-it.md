@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V8V9VX5/?tag=tolees00-21'
 descuento: '53.99'
+average: '41.36'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Corporate Material Mix Runner  Scarpe da Ginnastica Basse Uomo  Blu  Desert Sky Dw5   43 EU](https://www.amazon.it/dp/B07V8V9VX5/?tag=tolees00-21) a 41.36 EUR (original: 89.9 EUR) (53.99 %  de descuento) en el siguiente enlace!

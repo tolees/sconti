@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X4QRR12/?tag=tolees00-21'
 descuento: '31.26'
+average: '21.99'
 ---
 
 Ahora mismo tienes [Gillette Venus Extra Smooth Sensitive Rasoio da Donna  1 Manico + 6 Lamette di Ricarica](https://www.amazon.it/dp/B07X4QRR12/?tag=tolees00-21) a 21.99 EUR (original: 31.99 EUR) (31.26 %  de descuento) en el siguiente enlace!

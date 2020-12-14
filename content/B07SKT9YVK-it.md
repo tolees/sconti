@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SKT9YVK/?tag=tolees00-21'
 descuento: '33.52'
+average: '39.88'
 ---
 
 Está [YAMAY Smartwatch Orologio Fitness Uomo Donna Impermeabile IP68 Smart Watch Cardiofrequenzimetro da Polso Contapassi Smartband Activity Tracker Bambini Cronometro per Android Ios](https://www.amazon.it/dp/B07SKT9YVK/?tag=tolees00-21) con 33.52 de descuento por 39.88 EUR (original: 59.99 EUR) en el siguiente enlace!

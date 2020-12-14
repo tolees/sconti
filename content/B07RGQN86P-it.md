@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RGQN86P/?tag=tolees00-21'
 descuento: '80.42'
+average: '31.14'
 ---
 
 Tienes [Tommy Hilfiger Logo Trim Quilted Jct W Giacca  Verde  Green Mrv   36  Taglia Produttore: XX-Small  Donna](https://www.amazon.it/dp/B07RGQN86P/?tag=tolees00-21) con un 80.42 % de descuento con precio de oferta de 31.14 EUR (original: 159.0 EUR) en el siguiente enlace!

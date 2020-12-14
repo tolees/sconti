@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00LK9CNG4/?tag=tolees00-21'
 descuento: '37.66'
+average: '27.99'
 ---
 
 Está [Bialetti Moka Induction Caffettiera in Alluminio  Adatta all induzione  Grigio Antracite  3 Tazze](https://www.amazon.it/dp/B00LK9CNG4/?tag=tolees00-21) con 37.66 de descuento por 27.99 EUR (original: 44.9 EUR) en el siguiente enlace!

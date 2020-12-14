@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TBNP3XM/?tag=tolees00-21'
 descuento: '29.92'
+average: '20.99'
 ---
 
 Está [adidas Grand Court I  Scarpe da Ginnastica Unisex-Bambini  Ftwwht/coppmt/glopnk  27 EU](https://www.amazon.it/dp/B07TBNP3XM/?tag=tolees00-21) con 29.92 de descuento por 20.99 EUR (original: 29.95 EUR) en el siguiente enlace!

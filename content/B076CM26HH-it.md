@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B076CM26HH/?tag=tolees00-21'
 descuento: '33.76'
+average: '171.55'
 ---
 
 Tienes [Britax Römer seggiolino auto da 9 mesi a 12 anni  9-36 Kg   EVOLVA 123 SL SICT  ISOFIX  Gruppo 1/2/3  Storm Grey](https://www.amazon.it/dp/B076CM26HH/?tag=tolees00-21) con un 33.76 % de descuento con precio de oferta de 171.55 EUR (original: 259.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XRKNBHJ/?tag=tolees00-21'
 descuento: '40.01'
+average: '23.99'
 ---
 
 Está [Bilancia Pesapersone Digitali Vigorun Bilance Grassa Bluetooth BMI Analizzatore di Composizione Corporea con App  18 Indici di Corporea  lavorare con Fitbit Google Fit](https://www.amazon.it/dp/B07XRKNBHJ/?tag=tolees00-21) con 40.01 de descuento por 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

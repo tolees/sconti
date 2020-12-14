@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BHZTR6K/?tag=tolees00-21'
 descuento: '48.50'
+average: '63.99'
 ---
 
 Ahora mismo tienes [FFTH Hard Disk 2 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Argento ](https://www.amazon.it/dp/B08BHZTR6K/?tag=tolees00-21) a 63.99 EUR (original: 124.26 EUR) (48.50 %  de descuento) en el siguiente enlace!

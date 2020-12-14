@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZVPWMSL/?tag=tolees00-21'
 descuento: '30.07'
+average: '48.95'
 ---
 
 Está [Levi s Hoodie Felpa con Cappuccio  Mineral Black  L Uomo](https://www.amazon.it/dp/B07ZVPWMSL/?tag=tolees00-21) con 30.07 de descuento por 48.95 EUR (original: 70.0 EUR) en el siguiente enlace!

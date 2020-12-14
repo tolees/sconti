@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081S6XR3T/?tag=tolees00-21'
 descuento: '37.95'
+average: '8.06'
 ---
 
 Tienes [Burro di Arachidi Loaded Nuts | Senza Olio di Palma | Ricco di Proteine | Biscotto Alla Nocciola Croccante | THE PROTEIN WORKS | 500 g](https://www.amazon.it/dp/B081S6XR3T/?tag=tolees00-21) con un 37.95 % de descuento con precio de oferta de 8.06 EUR (original: 12.99 EUR) en el siguiente enlace!

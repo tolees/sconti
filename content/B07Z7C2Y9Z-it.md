@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Z7C2Y9Z/?tag=tolees00-21'
 descuento: '47.73'
+average: '6.79'
 ---
 
 Está [18 Pezzi Pennelli Trucco Set di Pennelli Trucco Con Custodia da Viaggio Manico in Legno Professionale Pennello Kabuki in Fibra Sintetica Premium per Fondotinta Blush Correttore Ombretto Viso Potere](https://www.amazon.it/dp/B07Z7C2Y9Z/?tag=tolees00-21) con 47.73 de descuento por 6.79 EUR (original: 12.99 EUR) en el siguiente enlace!

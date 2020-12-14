@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08B5YP5PP/?tag=tolees00-21'
 descuento: '50.00'
+average: '72.21222222222222'
 ---
 
 Tienes [Echo Plus  2ª generazione  - Tessuto antracite + Philips Hue White Lampadina](https://www.amazon.it/dp/B08B5YP5PP/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 74.99 EUR (original: 149.99 EUR) en el siguiente enlace!

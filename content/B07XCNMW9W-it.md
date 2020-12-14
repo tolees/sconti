@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XCNMW9W/?tag=tolees00-21'
 descuento: '28.33'
+average: '59.94'
 ---
 
 Está [OSOYOO Starter Kit for BBC Micro:bit | Early STEM Education for Beginners and Kids | Ultimate Bundle Includes Plug & Play Development Board  20 Sensors & More | Create Circuits and Integrate With Toys](https://www.amazon.it/dp/B07XCNMW9W/?tag=tolees00-21) con 28.33 de descuento por 59.94 EUR (original: 83.63 EUR) en el siguiente enlace!

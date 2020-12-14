@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00SFZ1AE2/?tag=tolees00-21'
 descuento: '35.90'
+average: '223.72'
 ---
 
 Tienes [BlackBerry Classic Smartphone  16 GB  Nero/Antracite [Italia]](https://www.amazon.it/dp/B00SFZ1AE2/?tag=tolees00-21) con un 35.90 % de descuento con precio de oferta de 223.72 EUR (original: 349.0 EUR) en el siguiente enlace!

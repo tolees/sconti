@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07C5X3VS8/?tag=tolees00-21'
 descuento: '32.01'
+average: '20.39'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Verde  Olive Night Fit: Reg Fit   Large Uomo](https://www.amazon.it/dp/B07C5X3VS8/?tag=tolees00-21) a 20.39 EUR (original: 29.99 EUR) (32.01 %  de descuento) en el siguiente enlace!

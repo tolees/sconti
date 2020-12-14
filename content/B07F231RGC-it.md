@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F231RGC/?tag=tolees00-21'
 descuento: '49.69'
+average: '72.95'
 ---
 
 Está [Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone Brown Sahara  42 EU](https://www.amazon.it/dp/B07F231RGC/?tag=tolees00-21) con 49.69 de descuento por 72.95 EUR (original: 145.0 EUR) en el siguiente enlace!

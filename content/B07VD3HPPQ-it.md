@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VD3HPPQ/?tag=tolees00-21'
 descuento: '35.34'
+average: '83.99'
 ---
 
 Está [Calvin Klein Nylon Harrington Giacca sportiva  Bianco  Bright White Yaf   Small Uomo](https://www.amazon.it/dp/B07VD3HPPQ/?tag=tolees00-21) con 35.34 de descuento por 83.99 EUR (original: 129.9 EUR) en el siguiente enlace!

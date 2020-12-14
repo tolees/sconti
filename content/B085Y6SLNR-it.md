@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085Y6SLNR/?tag=tolees00-21'
 descuento: '43.17'
+average: '7.9'
 ---
 
 Está [FlowerDas Termometro Frontale  Letture istantanee Accurate  Termometro Digitale a infrarossi Professionale Senza Contatto  per Neonati  Bambini  Adulti](https://www.amazon.it/dp/B085Y6SLNR/?tag=tolees00-21) con 43.17 de descuento por 7.9 EUR (original: 13.9 EUR) en el siguiente enlace!

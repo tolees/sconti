@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01JLI77L6/?tag=tolees00-21'
 descuento: '70.00'
+average: '59.7'
 ---
 
 Tienes [Tommy Hilfiger - Orologio da donna  Impermeabile fino a 3 atm  30 metri  - 1781742](https://www.amazon.it/dp/B01JLI77L6/?tag=tolees00-21) con un 70.00 % de descuento con precio de oferta de 59.7 EUR (original: 199.0 EUR) en el siguiente enlace!

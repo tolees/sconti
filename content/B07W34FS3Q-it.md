@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W34FS3Q/?tag=tolees00-21'
 descuento: '43.34'
+average: '33.99'
 ---
 
 Ahora mismo tienes [Remington Asciugacapelli Curl&Straight Confidence  2200 Watt  Concentratore Ricurvo  3 Temperature/ 2 Velocita  Generatore di Ioni  Spazzola Inclusa  D5706 - 830 g](https://www.amazon.it/dp/B07W34FS3Q/?tag=tolees00-21) a 33.99 EUR (original: 59.99 EUR) (43.34 %  de descuento) en el siguiente enlace!

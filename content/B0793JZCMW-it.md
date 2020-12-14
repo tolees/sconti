@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0793JZCMW/?tag=tolees00-21'
 descuento: '33.66'
+average: '55.62'
 ---
 
 Está [Saucony Jazz Original Vintage  Sneakers Uomo  Castlerock Teal 20  44.5 EU](https://www.amazon.it/dp/B0793JZCMW/?tag=tolees00-21) con 33.66 de descuento por 55.62 EUR (original: 83.84 EUR) en el siguiente enlace!

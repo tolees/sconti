@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RZLY173/?tag=tolees00-21'
 descuento: '36.26'
+average: '50.99'
 ---
 
 Tienes [New Balance 373 Core  Sneaker Uomo  Rosso  Red/White Cd2 ](https://www.amazon.it/dp/B07RZLY173/?tag=tolees00-21) con un 36.26 % de descuento con precio de oferta de 50.99 EUR (original: 80.0 EUR) en el siguiente enlace!

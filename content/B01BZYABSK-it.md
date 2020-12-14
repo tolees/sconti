@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21'
 descuento: '36.72'
+average: '56.92'
 ---
 
 Está [Reebok Classic Leather  Scarpe da Fitness Uomo  Nero  43 EU](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21) con 36.72 de descuento por 56.92 EUR (original: 89.95 EUR) en el siguiente enlace!

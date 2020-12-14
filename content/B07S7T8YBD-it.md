@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S7T8YBD/?tag=tolees00-21'
 descuento: '75.00'
+average: '39.99'
 ---
 
 Está [Beschoi Specchio Trucco con Luci LED  Specchio Ingranditore 1X/5X  Lampada da Scrivania  Altoparlante Bluetooth  Ricarica USB](https://www.amazon.it/dp/B07S7T8YBD/?tag=tolees00-21) con 75.00 de descuento por 39.99 EUR (original: 159.99 EUR) en el siguiente enlace!

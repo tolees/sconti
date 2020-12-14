@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084BGMTH1/?tag=tolees00-21'
 descuento: '42.59'
+average: '1.55'
 ---
 
 Está [Antica Erboristeria  Dentifricio Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  2 X 75 Ml](https://www.amazon.it/dp/B084BGMTH1/?tag=tolees00-21) con 42.59 de descuento por 1.55 EUR (original: 2.7 EUR) en el siguiente enlace!

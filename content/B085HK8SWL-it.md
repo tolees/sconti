@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085HK8SWL/?tag=tolees00-21'
 descuento: '45.01'
+average: '21.99'
 ---
 
 Tienes [Slip a Vita Bassa Donna Mutande Invisibile Senza Cuciture Culotte Striscia Mutandine Femminili Pantaloncini Pacco da 6  Beige S ](https://www.amazon.it/dp/B085HK8SWL/?tag=tolees00-21) con un 45.01 % de descuento con precio de oferta de 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!

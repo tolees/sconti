@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N7VW7PM/?tag=tolees00-21'
 descuento: '32.83'
+average: '50.31'
 ---
 
 Tienes [Durex Love Preservativi Comfort Facili da Indossare  144 Profilattici](https://www.amazon.it/dp/B01N7VW7PM/?tag=tolees00-21) con un 32.83 % de descuento con precio de oferta de 50.31 EUR (original: 74.9 EUR) en el siguiente enlace!

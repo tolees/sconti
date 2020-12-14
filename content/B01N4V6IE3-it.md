@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N4V6IE3/?tag=tolees00-21'
 descuento: '34.06'
+average: '24.99'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger 3p Brief Boxer-pacco da 3  Multicolore  Multi/Peacoat 904   Medium Uomo](https://www.amazon.it/dp/B01N4V6IE3/?tag=tolees00-21) a 24.99 EUR (original: 37.9 EUR) (34.06 %  de descuento) en el siguiente enlace!

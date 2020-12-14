@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B074F19CYR/?tag=tolees00-21'
 descuento: '57.40'
+average: '8.79'
 ---
 
 Tienes [Colgate Dentifricio Tripla Azione - Pacco da 12 x 75 ml - Totale: 900 ml](https://www.amazon.it/dp/B074F19CYR/?tag=tolees00-21) con un 57.40 % de descuento con precio de oferta de 8.64 EUR (original: 20.28 EUR) en el siguiente enlace!

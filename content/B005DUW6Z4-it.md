@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B005DUW6Z4/?tag=tolees00-21'
 descuento: '78.57'
+average: '12.0'
 ---
 
 Tienes [Intex 28003 Deluxe Kit di Pulizia per Piscine fino a 5.49 m  Grigio/Blu  113.03 x 29.84 x 12.38 cm  Sacco in poliestere](https://www.amazon.it/dp/B005DUW6Z4/?tag=tolees00-21) con un 78.57 % de descuento con precio de oferta de 12.0 EUR (original: 56.0 EUR) en el siguiente enlace!

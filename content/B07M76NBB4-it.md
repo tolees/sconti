@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07M76NBB4/?tag=tolees00-21'
 descuento: '51.87'
+average: '12.99'
 ---
 
 Tienes [Plafoniera LED Lampada a Soffitto Bianco Naturale 4000K 18W 1500 Lumens Ø28cm  EISFEU Plafoniere LED per cucina  bagno  camera da letto  corridoio  cantina  ufficio](https://www.amazon.it/dp/B07M76NBB4/?tag=tolees00-21) con un 51.87 % de descuento con precio de oferta de 12.99 EUR (original: 26.99 EUR) en el siguiente enlace!

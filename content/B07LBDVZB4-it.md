@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07LBDVZB4/?tag=tolees00-21'
 descuento: '35.55'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Calvin Klein Brazilian Brasiliana  Rosa  Nymph s Coscia 2nt   S Donna](https://www.amazon.it/dp/B07LBDVZB4/?tag=tolees00-21) a 9.99 EUR (original: 15.5 EUR) (35.55 %  de descuento) en el siguiente enlace!

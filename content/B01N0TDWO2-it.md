@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N0TDWO2/?tag=tolees00-21'
 descuento: '25.00'
+average: '77.21'
 ---
 
 Tienes [HOMCOM Schermo Proiezione Motorizzato Home Cinema 120 Pollici  Bianco](https://www.amazon.it/dp/B01N0TDWO2/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 77.21 EUR (original: 102.95 EUR) en el siguiente enlace!

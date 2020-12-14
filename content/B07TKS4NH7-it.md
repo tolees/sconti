@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TKS4NH7/?tag=tolees00-21'
 descuento: '54.82'
+average: '42.9'
 ---
 
 Tienes [Clarks Sheer Rose  Scarpe con Tacco Donna  Beige  Navy Suede Navy Suede   35.5 EU](https://www.amazon.it/dp/B07TKS4NH7/?tag=tolees00-21) con un 54.82 % de descuento con precio de oferta de 42.9 EUR (original: 94.95 EUR) en el siguiente enlace!

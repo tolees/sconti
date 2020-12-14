@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NLX68MY/?tag=tolees00-21'
 descuento: '26.36'
+average: '40.5'
 ---
 
 Tienes [Nike Revolution 5  Scarpe da Corsa Mens  Black/White-Anthracite  39 EU](https://www.amazon.it/dp/B07NLX68MY/?tag=tolees00-21) con un 26.36 % de descuento con precio de oferta de 40.5 EUR (original: 55.0 EUR) en el siguiente enlace!

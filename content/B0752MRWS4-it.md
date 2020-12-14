@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0752MRWS4/?tag=tolees00-21'
 descuento: '38.25'
+average: '14.82'
 ---
 
 Tienes [Havaianas Brasil Logo  Infradito Unisex-Adulto  Giallo  Banana Yellow   41/42 EU](https://www.amazon.it/dp/B0752MRWS4/?tag=tolees00-21) con un 38.25 % de descuento con precio de oferta de 14.82 EUR (original: 24.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RXL23SD/?tag=tolees00-21'
 descuento: '59.06'
+average: '49.13'
 ---
 
 Tienes [Levi s The Jacket Giacca  Blu  Pale Shade Indigo Stretch Trucker 0468   Medium Uomo](https://www.amazon.it/dp/B07RXL23SD/?tag=tolees00-21) con un 59.06 % de descuento con precio de oferta de 49.13 EUR (original: 120.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07D76R7TP/?tag=tolees00-21'
 descuento: '41.62'
+average: '75.89'
 ---
 
 Tienes [Levi s Type 3 Sherpa Trucker Giacca  Nero  Black Cord Better 0068   Small Uomo](https://www.amazon.it/dp/B07D76R7TP/?tag=tolees00-21) con un 41.62 % de descuento con precio de oferta de 75.89 EUR (original: 130.0 EUR) en el siguiente enlace!

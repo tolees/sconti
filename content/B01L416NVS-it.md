@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01L416NVS/?tag=tolees00-21'
 descuento: '31.86'
+average: '14.99'
 ---
 
 Tienes [Havaianas Flash Urban  Sandali Donna  Multicolor  Black/Silver 2976   35/36 EU](https://www.amazon.it/dp/B01L416NVS/?tag=tolees00-21) con un 31.86 % de descuento con precio de oferta de 14.99 EUR (original: 22.0 EUR) en el siguiente enlace!

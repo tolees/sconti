@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00EW49AVK/?tag=tolees00-21'
 descuento: '56.79'
+average: '38.89'
 ---
 
 Está [Braun TS745A TexStyle 7  Ferro da Stiro a Vapore  Piastra in Eloxal  Colpo Vapore 180 g  Serbatoio 400ml  2400 W  Acciaio inossidabile  Nero](https://www.amazon.it/dp/B00EW49AVK/?tag=tolees00-21) con 56.79 de descuento por 38.89 EUR (original: 90.0 EUR) en el siguiente enlace!

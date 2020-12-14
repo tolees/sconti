@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XXGCYZY/?tag=tolees00-21'
 descuento: '47.89'
+average: '36.99'
 ---
 
 Tienes [Rowenta CV7920 Silence AC Premium Care Asciugacapelli Silenzioso  2300 W  con Generatore di Ioni e Diffusore](https://www.amazon.it/dp/B06XXGCYZY/?tag=tolees00-21) con un 47.89 % de descuento con precio de oferta de 36.99 EUR (original: 70.99 EUR) en el siguiente enlace!

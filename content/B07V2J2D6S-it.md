@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V2J2D6S/?tag=tolees00-21'
 descuento: '43.92'
+average: '50.42'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Corporate Material Mix Runner  Scarpe da Ginnastica Basse Uomo  Blu  Blue Ink C7h   44 EU](https://www.amazon.it/dp/B07V2J2D6S/?tag=tolees00-21) a 50.42 EUR (original: 89.9 EUR) (43.92 %  de descuento) en el siguiente enlace!

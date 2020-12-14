@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081FZZ8N3/?tag=tolees00-21'
 descuento: '28.58'
+average: '1999.0'
 ---
 
 Ahora mismo tienes [Apple MacBook Pro  16"  16GB RAM  Archiviazione 512GB  - Argento](https://www.amazon.it/dp/B081FZZ8N3/?tag=tolees00-21) a 1999.0 EUR (original: 2799.0 EUR) (28.58 %  de descuento) en el siguiente enlace!

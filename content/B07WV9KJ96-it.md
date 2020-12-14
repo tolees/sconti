@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07WV9KJ96/?tag=tolees00-21'
 descuento: '31.88'
+average: '108.98'
 ---
 
 Está [Tablet 10 Pollici YESTEL 4GB RAM+64GB ROM +Espanso 128GB con Schermo IPS HD Quad Core Tablets Dual LTE SIM con WIFI | 8000mAh | Bluetooth | GPS | con Tastiera e Mouse – Nero](https://www.amazon.it/dp/B07WV9KJ96/?tag=tolees00-21) con 31.88 de descuento por 108.98 EUR (original: 159.99 EUR) en el siguiente enlace!

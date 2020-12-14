@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073ZCNJZH/?tag=tolees00-21'
 descuento: '42.13'
+average: '15.04'
 ---
 
 Está [Bastone Selfie Treppiede -BlitzWolf 3 in 1 Estensibile Selfie Stick con Bluetooth Remote Shutter Asta per Selfie per iPhone X  Samsung Galaxy s7 e Android 3.5- 6 Pollici Smartphone Rotazione di 360°](https://www.amazon.it/dp/B073ZCNJZH/?tag=tolees00-21) con 42.13 de descuento por 15.04 EUR (original: 25.99 EUR) en el siguiente enlace!

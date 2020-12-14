@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X6F69QX/?tag=tolees00-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Está [HolyHigh Cuffie Bluetooth Senza Fili Auricolari in Ear Bluetooth 5.0 Doppio Dinamico Driver 3000mAh Scatola di Ricarica 100H Playtime Hi-Fi Stereo Cancellazione del Rumore Tocco Controllo](https://www.amazon.it/dp/B07X6F69QX/?tag=tolees00-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

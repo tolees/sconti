@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07D538TWK/?tag=tolees00-21'
 descuento: '38.47'
+average: '23.99'
 ---
 
 Ahora mismo tienes [BEAUTURAL Manicure e Pedicure Elettrico Professionale Kit  Potente Fresa per Unghie con 7 Accessori  Sistema di Lucidatura per Unghie di Piedi e Mani](https://www.amazon.it/dp/B07D538TWK/?tag=tolees00-21) a 23.99 EUR (original: 38.99 EUR) (38.47 %  de descuento) en el siguiente enlace!

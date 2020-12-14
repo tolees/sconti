@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073J5HF8C/?tag=tolees00-21'
 descuento: '49.92'
+average: '24.99'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Not Applicable ](https://www.amazon.it/dp/B073J5HF8C/?tag=tolees00-21) a 24.99 EUR (original: 49.9 EUR) (49.92 %  de descuento) en el siguiente enlace!

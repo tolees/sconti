@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YBH5GST/?tag=tolees00-21'
 descuento: '28.04'
+average: '17.99'
 ---
 
 Tienes [Vans Colorblock Tee T-Shirt  Multicolore  Sulphur Spring/Black Ynd   Medium Uomo](https://www.amazon.it/dp/B07YBH5GST/?tag=tolees00-21) con un 28.04 % de descuento con precio de oferta de 17.99 EUR (original: 25.0 EUR) en el siguiente enlace!

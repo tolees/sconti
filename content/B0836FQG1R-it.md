@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0836FQG1R/?tag=tolees00-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Tienes [Tagliacapelli e barba sei in uno  rasoio elettrico professionale per uomo per naso e orecchie  parrucchiere ricaricabile impermeabile con caricatore  nero ](https://www.amazon.it/dp/B0836FQG1R/?tag=tolees00-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

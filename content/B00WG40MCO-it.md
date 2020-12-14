@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00WG40MCO/?tag=tolees00-21'
 descuento: '52.41'
+average: '0.69'
 ---
 
 Está [Voiello Pasta Spaghetti Scanalati N.107  Pasta Lunga di Semola Grano Aureo 100% - 500 g](https://www.amazon.it/dp/B00WG40MCO/?tag=tolees00-21) con 52.41 de descuento por 0.69 EUR (original: 1.45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086MGTF1Z/?tag=tolees00-21'
 descuento: '36.01'
+average: '25.59'
 ---
 
 Tienes [GoPetee Tappetino Refrigerante Rinfrescante per Cane Gatto  Tappetino in Gel Pet Caldo Estivo Tappetino Fresco Refrigerante per Animali Domestici  Pesce Mimetico  XL ](https://www.amazon.it/dp/B086MGTF1Z/?tag=tolees00-21) con un 36.01 % de descuento con precio de oferta de 25.59 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SDGMTB3/?tag=tolees00-21'
 descuento: '35.02'
+average: '38.99'
 ---
 
 Está [Levi s Woodward L  Sneaker Uomo  Bianco  Regular White 51   43 EU](https://www.amazon.it/dp/B07SDGMTB3/?tag=tolees00-21) con 35.02 de descuento por 38.99 EUR (original: 60.0 EUR) en el siguiente enlace!

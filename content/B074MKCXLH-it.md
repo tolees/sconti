@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B074MKCXLH/?tag=tolees00-21'
 descuento: '31.29'
+average: '16.49'
 ---
 
 Ahora mismo tienes [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Nero  Black Preto   41/42 EU](https://www.amazon.it/dp/B074MKCXLH/?tag=tolees00-21) a 16.49 EUR (original: 24.0 EUR) (31.29 %  de descuento) en el siguiente enlace!

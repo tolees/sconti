@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21'
 descuento: '56.93'
+average: '21.49'
 ---
 
 Está [Resident Evil Origins Collection - PlayStation 4](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21) con 56.93 de descuento por 21.49 EUR (original: 49.9 EUR) en el siguiente enlace!

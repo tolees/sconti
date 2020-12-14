@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000SHQO3W/?tag=tolees00-21'
 descuento: '65.04'
+average: '7.01'
 ---
 
 Tienes [Pilot G207 Penna  0 7 mm   confezione da 12  colore: Nero](https://www.amazon.it/dp/B000SHQO3W/?tag=tolees00-21) con un 65.04 % de descuento con precio de oferta de 7.01 EUR (original: 20.05 EUR) en el siguiente enlace!

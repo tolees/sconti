@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B071WVXLDZ/?tag=tolees00-21'
 descuento: '37.74'
+average: '117.99666666666667'
 ---
 
 Ahora mismo tienes [Braun Series 5 5147s Rasoio da Barba Elettrico Ricaricabile a Lamina Wet&Dry senza Fili da Uomo  con Motore AutoSense e Rifinitore di Precisione Estraibile  Nero/Blu/Cromato](https://www.amazon.it/dp/B071WVXLDZ/?tag=tolees00-21) a 99.0 EUR (original: 159.0 EUR) (37.74 %  de descuento) en el siguiente enlace!

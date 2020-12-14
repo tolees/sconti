@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VFNN2GY/?tag=tolees00-21'
 descuento: '34.06'
+average: '216.95'
 ---
 
 Tienes [Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in Silicone 1513718](https://www.amazon.it/dp/B07VFNN2GY/?tag=tolees00-21) con un 34.06 % de descuento con precio de oferta de 216.95 EUR (original: 329.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01GF3Y36W/?tag=tolees00-21'
 descuento: '50.44'
+average: '16.85'
 ---
 
 Está [Havaianas Slim Crystal Glamour Sw  Infradito Donna  Grigio  Steel Grey 5178   33/34 EU](https://www.amazon.it/dp/B01GF3Y36W/?tag=tolees00-21) con 50.44 de descuento por 16.85 EUR (original: 34.0 EUR) en el siguiente enlace!

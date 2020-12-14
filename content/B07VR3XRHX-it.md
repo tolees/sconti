@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VR3XRHX/?tag=tolees00-21'
 descuento: '51.12'
+average: '24.0'
 ---
 
 Está [Tommy Hilfiger TH Ess Skinny Rib Tee LS Maglia a Maniche Lunghe  Blu  Breton STP/White Desert Sky 0zc   40  Taglia Unica: Small  Donna](https://www.amazon.it/dp/B07VR3XRHX/?tag=tolees00-21) con 51.12 de descuento por 24.0 EUR (original: 49.1 EUR) en el siguiente enlace!

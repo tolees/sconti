@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088TT4QHR/?tag=tolees00-21'
 descuento: '57.22'
+average: '29.9'
 ---
 
 Ahora mismo tienes [Massaggiatore Cervicale  cervicale massaggiatore homedics Multifunzionale Massaggiatore Cervicale cervicale massaggi Fisioterapia Elettromagnetica Profonda  allevia il dolore](https://www.amazon.it/dp/B088TT4QHR/?tag=tolees00-21) a 29.9 EUR (original: 69.9 EUR) (57.22 %  de descuento) en el siguiente enlace!

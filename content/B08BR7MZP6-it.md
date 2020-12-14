@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BR7MZP6/?tag=tolees00-21'
 descuento: '27.99'
+average: '14.32'
 ---
 
 Tienes [Yoofoss Set di 5 Asciugamani Viso-Mani in Microfibra in Pile di Corallo 35 * 75 cm Asciugamani ad Asciugatura Rapida Leggeri e Altamente Assorbenti](https://www.amazon.it/dp/B08BR7MZP6/?tag=tolees00-21) con un 27.99 % de descuento con precio de oferta de 11.99 EUR (original: 16.65 EUR) en el siguiente enlace!

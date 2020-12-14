@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W6NHFT8/?tag=tolees00-21'
 descuento: '43.74'
+average: '43.13'
 ---
 
 Tienes [Tommy Hilfiger Slim F in Puro Cotone M Maglietta Polo  Grigio  Medium Grey Heather   Large Uomo](https://www.amazon.it/dp/B07W6NHFT8/?tag=tolees00-21) con un 43.74 % de descuento con precio de oferta de 43.13 EUR (original: 76.66 EUR) en el siguiente enlace!

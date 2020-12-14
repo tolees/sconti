@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00S9LDF4A/?tag=tolees00-21'
 descuento: '60.98'
+average: '16.0'
 ---
 
 Está [Omega 3 A.C. - 120 Perle](https://www.amazon.it/dp/B00S9LDF4A/?tag=tolees00-21) con 60.98 de descuento por 16.0 EUR (original: 41.0 EUR) en el siguiente enlace!

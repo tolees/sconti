@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SBDGSYC/?tag=tolees00-21'
 descuento: '27.91'
+average: '30.99'
 ---
 
 Está [Auricolari Bluetooth 5.0  Auricolari in TOUCH  Cuffie Bluetooth Wireless Senza Fili SoundPEATS Stereo Microfono Custodia di ricarica 24h sport per iOS/Android/Samsung/Huawei](https://www.amazon.it/dp/B07SBDGSYC/?tag=tolees00-21) con 27.91 de descuento por 30.99 EUR (original: 42.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084R38ZSF/?tag=tolees00-21'
 descuento: '52.39'
+average: '94.74'
 ---
 
 Ahora mismo tienes [HUGO Orologio Quarzo con Cinturino in Acciaio Inox 1530131](https://www.amazon.it/dp/B084R38ZSF/?tag=tolees00-21) a 94.74 EUR (original: 199.0 EUR) (52.39 %  de descuento) en el siguiente enlace!

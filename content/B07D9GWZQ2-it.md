@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07D9GWZQ2/?tag=tolees00-21'
 descuento: '33.02'
+average: '11.99'
 ---
 
 Tienes [Tommy Hilfiger Thong Slip Corda  Blu  Navy Blazer 416   44  Taglia Produttore: MD  Donna](https://www.amazon.it/dp/B07D9GWZQ2/?tag=tolees00-21) con un 33.02 % de descuento con precio de oferta de 11.99 EUR (original: 17.9 EUR) en el siguiente enlace!

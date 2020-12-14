@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0779H7YTF/?tag=tolees00-21'
 descuento: '57.30'
+average: '17.06'
 ---
 
 Tienes [Kappa Taino Authentic - Felpa da Uomo con Cappuccio  Stile retrò  a Maniche Lunghe  Taglia S-XXL  Uomo  705322  001 Bianco  XXL](https://www.amazon.it/dp/B0779H7YTF/?tag=tolees00-21) con un 57.30 % de descuento con precio de oferta de 17.06 EUR (original: 39.95 EUR) en el siguiente enlace!

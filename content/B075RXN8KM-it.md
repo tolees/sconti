@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B075RXN8KM/?tag=tolees00-21'
 descuento: '43.01'
+average: '56.99'
 ---
 
 Ahora mismo tienes [De Longhi XL130.21 Colombina Class Scopa Elettrica con Sacco](https://www.amazon.it/dp/B075RXN8KM/?tag=tolees00-21) a 56.99 EUR (original: 100.0 EUR) (43.01 %  de descuento) en el siguiente enlace!

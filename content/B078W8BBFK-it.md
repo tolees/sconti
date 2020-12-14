@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078W8BBFK/?tag=tolees00-21'
 descuento: '41.59'
+average: '37.49'
 ---
 
 Ahora mismo tienes [TIPPY PAD dispositivo anti abbandono](https://www.amazon.it/dp/B078W8BBFK/?tag=tolees00-21) a 34.99 EUR (original: 59.9 EUR) (41.59 %  de descuento) en el siguiente enlace!

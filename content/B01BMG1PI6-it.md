@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BMG1PI6/?tag=tolees00-21'
 descuento: '51.27'
+average: '17.08'
 ---
 
 Ahora mismo tienes [Casio Orologio Analogico Quarzo Uomo con Cinturino in Plastica MW-240-1BVEF](https://www.amazon.it/dp/B01BMG1PI6/?tag=tolees00-21) a 17.08 EUR (original: 35.05 EUR) (51.27 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S8SNV9R/?tag=tolees00-21'
 descuento: '39.63'
+average: '31.99'
 ---
 
 Tienes [Misuratore Laser 50m USB Carica Rapida  TECCPO telemetro laser  Decorazione d interni  Sensore Angolo Elettronico  99 dati  Funzione muto  2 25  LCD retroilluminato  Distanza  Area e Volume  Angolo](https://www.amazon.it/dp/B07S8SNV9R/?tag=tolees00-21) con un 39.63 % de descuento con precio de oferta de 31.99 EUR (original: 52.99 EUR) en el siguiente enlace!

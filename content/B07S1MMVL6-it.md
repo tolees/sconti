@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S1MMVL6/?tag=tolees00-21'
 descuento: '31.44'
+average: '47.99'
 ---
 
 Ahora mismo tienes [New Balance 520v6  Scarpe da Corsa Uomo  Blu Blue Lv6  43 EU](https://www.amazon.it/dp/B07S1MMVL6/?tag=tolees00-21) a 47.99 EUR (original: 70.0 EUR) (31.44 %  de descuento) en el siguiente enlace!

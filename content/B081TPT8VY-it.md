@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21'
 descuento: '34.27'
+average: '13.98'
 ---
 
 Ahora mismo tienes [adidas Ripple TS  Maglietta Uomo  Bianco  White/Shock Pink   M](https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21) a 13.98 EUR (original: 21.27 EUR) (34.27 %  de descuento) en el siguiente enlace!

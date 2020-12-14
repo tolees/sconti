@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087X94BBQ/?tag=tolees00-21'
 descuento: '60.05'
+average: '4.99'
 ---
 
 Está [Hoco - 50 pezzi monouso formato per viso libero  colore: blu](https://www.amazon.it/dp/B087X94BBQ/?tag=tolees00-21) con 60.05 de descuento por 4.99 EUR (original: 12.49 EUR) en el siguiente enlace!

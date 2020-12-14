@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01HRNK4VM/?tag=tolees00-21'
 descuento: '33.37'
+average: '5.99'
 ---
 
 Ahora mismo tienes [Puma Invisible Calzini Sport Uomo  Pink Lady  39/42](https://www.amazon.it/dp/B01HRNK4VM/?tag=tolees00-21) a 5.99 EUR (original: 8.99 EUR) (33.37 %  de descuento) en el siguiente enlace!

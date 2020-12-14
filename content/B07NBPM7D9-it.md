@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NBPM7D9/?tag=tolees00-21'
 descuento: '54.99'
+average: '11.23'
 ---
 
 Ahora mismo tienes [adidas Adilette Shower  Scarpe da Ginnastica Uomo  Blu  True Blue/Ftwr White/True Blue   44.5 EU](https://www.amazon.it/dp/B07NBPM7D9/?tag=tolees00-21) a 11.23 EUR (original: 24.95 EUR) (54.99 %  de descuento) en el siguiente enlace!

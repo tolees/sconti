@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088BZ3SML/?tag=tolees00-21'
 descuento: '55.55'
+average: '79.99'
 ---
 
 Está [Tablet 10 Pollici con Wifi Offerte Tablet PC Android 9.0 GO  Google Certificazione GMS   3GB RAM+32/128GB ROM   4G LTE Call  8MP Quad-Core Supporta Netflix /APK WiFi /Bluetooth/ GPS/OTG  grigio ](https://www.amazon.it/dp/B088BZ3SML/?tag=tolees00-21) con 55.55 de descuento por 79.99 EUR (original: 179.96 EUR) en el siguiente enlace!

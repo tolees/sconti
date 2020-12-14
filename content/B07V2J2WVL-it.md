@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V2J2WVL/?tag=tolees00-21'
 descuento: '59.92'
+average: '30.02'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Basse Uomo  Blu  Desert Sky Dw5   41 EU](https://www.amazon.it/dp/B07V2J2WVL/?tag=tolees00-21) a 30.02 EUR (original: 74.9 EUR) (59.92 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ZY96SGW/?tag=tolees00-21'
 descuento: '64.69'
+average: '16.37'
 ---
 
 Tienes [Givova Visa  Tuta Da Ginnastica Uomo  Multicolore  Granata/Nero   3XS](https://www.amazon.it/dp/B00ZY96SGW/?tag=tolees00-21) con un 64.69 % de descuento con precio de oferta de 16.37 EUR (original: 46.36 EUR) en el siguiente enlace!

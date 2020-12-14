@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KQX387C/?tag=tolees00-21'
 descuento: '66.72'
+average: '15.313333333333333'
 ---
 
 Está [Piastra Capelli Kealive Piastra per Capelli for Styling Liscio o Mosso  Innovativo Rivestimento in Ceramica  da 80°C a 230°C  Pronta all’uso in 10 sec e funzione di spegnimento automatico  Rosa rossa](https://www.amazon.it/dp/B07KQX387C/?tag=tolees00-21) con 66.72 de descuento por 9.98 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085DPH9J6/?tag=tolees00-21'
 descuento: '41.17'
+average: '15.29'
 ---
 
 Está [Lampada da Scrivania  lampada da tavolo con funzione di protezione degli occhi  lampada con 10 livelli di luminosità  5 modalità di illuminazione  tocca controllo  porta di ricarica USB](https://www.amazon.it/dp/B085DPH9J6/?tag=tolees00-21) con 41.17 de descuento por 15.29 EUR (original: 25.99 EUR) en el siguiente enlace!

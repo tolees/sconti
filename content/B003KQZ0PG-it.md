@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003KQZ0PG/?tag=tolees00-21'
 descuento: '48.97'
+average: '1.966521739130435'
 ---
 
 Tienes [Goobay 93990 Telaio di Installazione per Hard Disk da 2  5" in 3  5"  Nero](https://www.amazon.it/dp/B003KQZ0PG/?tag=tolees00-21) con un 48.97 % de descuento con precio de oferta de 1.99 EUR (original: 3.9 EUR) en el siguiente enlace!

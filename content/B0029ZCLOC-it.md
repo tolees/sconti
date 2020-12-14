@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0029ZCLOC/?tag=tolees00-21'
 descuento: '32.18'
+average: '13.844999999999999'
 ---
 
 Ahora mismo tienes [Campari Bitter Ml.1000](https://www.amazon.it/dp/B0029ZCLOC/?tag=tolees00-21) a 15.09 EUR (original: 22.25 EUR) (32.18 %  de descuento) en el siguiente enlace!

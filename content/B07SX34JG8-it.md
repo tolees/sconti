@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SX34JG8/?tag=tolees00-21'
 descuento: '75.56'
+average: '21.97'
 ---
 
 Está [Geox D Hiver B  Sandali con Chiusura a T Donna  Marrone  Cognac C6001   41 EU](https://www.amazon.it/dp/B07SX34JG8/?tag=tolees00-21) con 75.56 de descuento por 21.97 EUR (original: 89.9 EUR) en el siguiente enlace!

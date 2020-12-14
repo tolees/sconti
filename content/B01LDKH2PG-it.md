@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LDKH2PG/?tag=tolees00-21'
 descuento: '50.05'
+average: '9.99'
 ---
 
 Tienes [Sony MDRAS210B Cuffie In-Ear Sportive  Archetti ad Anello Regolabili  Resistenti a Umidità e Spruzzi  Nero](https://www.amazon.it/dp/B01LDKH2PG/?tag=tolees00-21) con un 50.05 % de descuento con precio de oferta de 9.99 EUR (original: 20.0 EUR) en el siguiente enlace!

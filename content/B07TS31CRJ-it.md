@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TS31CRJ/?tag=tolees00-21'
 descuento: '26.70'
+average: '21.99'
 ---
 
 Ahora mismo tienes [Levi s Housemark Graphic Tee T-Shirt  Rosso  HM Ssnl Tonal Earth Red 0276   Medium Uomo](https://www.amazon.it/dp/B07TS31CRJ/?tag=tolees00-21) a 21.99 EUR (original: 30.0 EUR) (26.70 %  de descuento) en el siguiente enlace!

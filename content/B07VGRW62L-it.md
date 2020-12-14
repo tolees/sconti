@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VGRW62L/?tag=tolees00-21'
 descuento: '32.56'
+average: '14.31'
 ---
 
 Tienes [Desigual Mone azabache Mini Zip Portafoglio da donna  Nero  Nero  Nero     2x9x15 cm  B x H x T ](https://www.amazon.it/dp/B07VGRW62L/?tag=tolees00-21) con un 32.56 % de descuento con precio de oferta de 14.31 EUR (original: 21.22 EUR) en el siguiente enlace!

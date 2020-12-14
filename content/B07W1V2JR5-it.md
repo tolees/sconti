@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21'
 descuento: '35.53'
+average: '19.98'
 ---
 
 Tienes [Concrete Genie - PlayStation 4](https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21) con un 35.53 % de descuento con precio de oferta de 19.98 EUR (original: 30.99 EUR) en el siguiente enlace!

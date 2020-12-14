@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B001SN8MHG/?tag=tolees00-21'
 descuento: '77.60'
+average: '12.99'
 ---
 
 Tienes [Morellato Anello da Donna in Acciaio Inox  Argento  10](https://www.amazon.it/dp/B001SN8MHG/?tag=tolees00-21) con un 77.60 % de descuento con precio de oferta de 12.99 EUR (original: 58.0 EUR) en el siguiente enlace!

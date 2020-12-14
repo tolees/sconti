@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BC68NQS/?tag=tolees00-21'
 descuento: '41.99'
+average: '29.0'
 ---
 
 Tienes [Lego Star Wars: Il Risveglio della Forza - PlayStation 3](https://www.amazon.it/dp/B01BC68NQS/?tag=tolees00-21) con un 41.99 % de descuento con precio de oferta de 29.0 EUR (original: 49.99 EUR) en el siguiente enlace!

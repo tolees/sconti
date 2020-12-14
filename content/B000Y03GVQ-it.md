@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000Y03GVQ/?tag=tolees00-21'
 descuento: '28.14'
+average: '114.98'
 ---
 
 Tienes [BLUNDSTONE Classic  Stivali Unisex  Nero  Black Premium   45 EU](https://www.amazon.it/dp/B000Y03GVQ/?tag=tolees00-21) con un 28.14 % de descuento con precio de oferta de 114.98 EUR (original: 160.0 EUR) en el siguiente enlace!

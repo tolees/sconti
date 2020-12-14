@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XDP99YN/?tag=tolees00-21'
 descuento: '65.87'
+average: '23.89'
 ---
 
 Tienes [Kingdom Hearts III - Xbox One](https://www.amazon.it/dp/B06XDP99YN/?tag=tolees00-21) con un 65.87 % de descuento con precio de oferta de 23.89 EUR (original: 69.99 EUR) en el siguiente enlace!
@@ -24,9 +25,9 @@ Tienes [Kingdom Hearts III - Xbox One](https://www.amazon.it/dp/B06XDP99YN/?tag=
 
 ℹ️:
 
-- Include nuovi mondi: Toy Story, Rapunzel, Big Hero 6, Monsters & Co e Frozen.
-- Piattaforma: Xbox One
-- Edizione del gioco: standard
 - Genere del gioco: azione, gioco di ruolo
+- Piattaforma: Xbox One
+- Include nuovi mondi: Toy Story, Rapunzel, Big Hero 6, Monsters & Co e Frozen.
+- Edizione del gioco: standard
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XDP99YN/?tag=tolees00-21)

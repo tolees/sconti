@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088BFZ8BZ/?tag=tolees00-21'
 descuento: '46.17'
+average: '13.99'
 ---
 
 Tienes [Elyco Propeller per DJI Mavic Air 2  2pcs Low Noise Volo Silenzioso Quick Release Elica Pezzo di Rilascio  Rapido Basso Rumore per DJI Mavic Air 2 Drone Accessori  Argento ](https://www.amazon.it/dp/B088BFZ8BZ/?tag=tolees00-21) con un 46.17 % de descuento con precio de oferta de 13.99 EUR (original: 25.99 EUR) en el siguiente enlace!

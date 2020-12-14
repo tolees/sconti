@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00N1UCVIA/?tag=tolees00-21'
 descuento: '52.91'
+average: '89.0'
 ---
 
 Está [Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4931](https://www.amazon.it/dp/B00N1UCVIA/?tag=tolees00-21) con 52.91 de descuento por 89.0 EUR (original: 189.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0813SHLHH/?tag=tolees00-21'
 descuento: '63.86'
+average: '36.12'
 ---
 
 Tienes [adidas Falcon W  Scarpe da Ginnastica Donna  off White/Raw White/Active Purple  38 EU](https://www.amazon.it/dp/B0813SHLHH/?tag=tolees00-21) con un 63.86 % de descuento con precio de oferta de 36.12 EUR (original: 99.95 EUR) en el siguiente enlace!

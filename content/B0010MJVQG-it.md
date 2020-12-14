@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0010MJVQG/?tag=tolees00-21'
 descuento: '35.78'
+average: '15.99'
 ---
 
 Está [Casio Sveglia Collection TQ-369-1EF](https://www.amazon.it/dp/B0010MJVQG/?tag=tolees00-21) con 35.78 de descuento por 15.99 EUR (original: 24.9 EUR) en el siguiente enlace!

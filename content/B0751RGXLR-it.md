@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0751RGXLR/?tag=tolees00-21'
 descuento: '33.30'
+average: '31.999999999999996'
 ---
 
 Está [Barbie la Pizzeria con Bambola  Tavolo per Le Pizze  Forno e Pasta da Modellare  Giocattolo per Bambini 3 + Anni  FHR09  Multicolore](https://www.amazon.it/dp/B0751RGXLR/?tag=tolees00-21) con 33.30 de descuento por 32.01 EUR (original: 47.99 EUR) en el siguiente enlace!

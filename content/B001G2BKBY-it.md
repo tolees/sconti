@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B001G2BKBY/?tag=tolees00-21'
 descuento: '32.99'
+average: '50.26'
 ---
 
 Tienes [Birkenstock Mayari 71791  Infradito donna - Nero  39 EU](https://www.amazon.it/dp/B001G2BKBY/?tag=tolees00-21) con un 32.99 % de descuento con precio de oferta de 50.26 EUR (original: 75.0 EUR) en el siguiente enlace!

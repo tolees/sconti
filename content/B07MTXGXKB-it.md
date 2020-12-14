@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MTXGXKB/?tag=tolees00-21'
 descuento: '47.78'
+average: '48.49'
 ---
 
 Está [Tiralatte elettrico  pompa per allattamento al seno ricaricabile a doppia aspirazione MOSFiATA con display a LED touch screen  3 modalità  9 livelli per modalità   senza BPA](https://www.amazon.it/dp/B07MTXGXKB/?tag=tolees00-21) con 47.78 de descuento por 46.99 EUR (original: 89.99 EUR) en el siguiente enlace!

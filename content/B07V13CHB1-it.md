@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V13CHB1/?tag=tolees00-21'
 descuento: '36.04'
+average: '15.99'
 ---
 
 Tienes [Lee Wobbly Logo Tee T-Shirt  Blu  Navy Drop EE   Large Uomo](https://www.amazon.it/dp/B07V13CHB1/?tag=tolees00-21) con un 36.04 % de descuento con precio de oferta de 15.99 EUR (original: 25.0 EUR) en el siguiente enlace!

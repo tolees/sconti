@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00T5PZ32Q/?tag=tolees00-21'
 descuento: '44.87'
+average: '3.28'
 ---
 
 Está [Biorepair Collutorio Denti Sensibili 3 in1 -  500 ml](https://www.amazon.it/dp/B00T5PZ32Q/?tag=tolees00-21) con 44.87 de descuento por 3.28 EUR (original: 5.95 EUR) en el siguiente enlace!

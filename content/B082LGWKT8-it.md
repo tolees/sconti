@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21'
 descuento: '55.05'
+average: '44.95'
 ---
 
 Tienes [Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21) con un 55.05 % de descuento con precio de oferta de 44.95 EUR (original: 100.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SHTSW32/?tag=tolees00-21'
 descuento: '42.32'
+average: '12.69'
 ---
 
 Tienes [Havaianas Urban Basic II  Infradito Uomo  Marrone  Dark Brown 0727   39/40 EU](https://www.amazon.it/dp/B07SHTSW32/?tag=tolees00-21) con un 42.32 % de descuento con precio de oferta de 12.69 EUR (original: 22.0 EUR) en el siguiente enlace!

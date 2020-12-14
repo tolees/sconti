@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072HFPP4Y/?tag=tolees00-21'
 descuento: '31.35'
+average: '8.95'
 ---
 
 Está [Lenor Ammorbidente Lavanda & Camomilla 208 Lavaggi  Maxi Formato 8 x 26 Lavaggi](https://www.amazon.it/dp/B072HFPP4Y/?tag=tolees00-21) con 31.35 de descuento por 10.29 EUR (original: 14.99 EUR) en el siguiente enlace!

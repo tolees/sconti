@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00EAAF1BO/?tag=tolees00-21'
 descuento: '37.51'
+average: '30.990000000000002'
 ---
 
 Está [Rowenta CV6030E0 Instant Dry Phon Asciugacapelli Diffusore per Capelli Sani e Lucenti](https://www.amazon.it/dp/B00EAAF1BO/?tag=tolees00-21) con 37.51 de descuento por 29.99 EUR (original: 47.99 EUR) en el siguiente enlace!

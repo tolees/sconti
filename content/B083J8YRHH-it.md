@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083J8YRHH/?tag=tolees00-21'
 descuento: '52.01'
+average: '23.99'
 ---
 
 Está [LED Luce Solari Giardino Esterno MUZEY 4 Pezzi 8Led Lampada Solare da Giardino Faretti Terra Incasso 100LM Batteria Integrata IP65 Impermeabile Luci Gialla per Scala Paesaggio Strade Aiuola Vialetto](https://www.amazon.it/dp/B083J8YRHH/?tag=tolees00-21) con 52.01 de descuento por 23.99 EUR (original: 49.99 EUR) en el siguiente enlace!

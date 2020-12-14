@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01C9X1V7Q/?tag=tolees00-21'
 descuento: '40.02'
+average: '32.99'
 ---
 
 Tienes [Diadora - Sneakers Game P per Uomo e Donna  EU 41 ](https://www.amazon.it/dp/B01C9X1V7Q/?tag=tolees00-21) con un 40.02 % de descuento con precio de oferta de 32.99 EUR (original: 55.0 EUR) en el siguiente enlace!

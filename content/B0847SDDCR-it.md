@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0847SDDCR/?tag=tolees00-21'
 descuento: '31.90'
+average: '225.3225'
 ---
 
 Está [ghd platinum+ Styler Piastra per capelli  Edizione Limitata con custodia abbinata  Rosso Deep Scarlet](https://www.amazon.it/dp/B0847SDDCR/?tag=tolees00-21) con 31.90 de descuento por 189.99 EUR (original: 279.0 EUR) en el siguiente enlace!

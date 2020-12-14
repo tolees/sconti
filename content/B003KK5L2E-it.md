@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003KK5L2E/?tag=tolees00-21'
 descuento: '60.38'
+average: '84.0'
 ---
 
 Está [Ray-Ban RB3025 Aviator Occhiali da Sole Unisex Adulto  Oro  Gold 001/3F   58 mm](https://www.amazon.it/dp/B003KK5L2E/?tag=tolees00-21) con 60.38 de descuento por 84.0 EUR (original: 212.0 EUR) en el siguiente enlace!

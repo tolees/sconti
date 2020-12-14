@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B079NVDQXS/?tag=tolees00-21'
 descuento: '34.75'
+average: '169.0'
 ---
 
 Está [Samsung VC05K51F0VP Aspirapolvere a Traino Senza Sacco Cyclone Force VC5100  3 Spazzole  170 W  Porpora](https://www.amazon.it/dp/B079NVDQXS/?tag=tolees00-21) con 34.75 de descuento por 169.0 EUR (original: 259.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S8PCXG3/?tag=tolees00-21'
 descuento: '56.00'
+average: '35.18'
 ---
 
 Tienes [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Rosa White Pink Rosewater White  47 EU](https://www.amazon.it/dp/B07S8PCXG3/?tag=tolees00-21) con un 56.00 % de descuento con precio de oferta de 35.18 EUR (original: 79.95 EUR) en el siguiente enlace!

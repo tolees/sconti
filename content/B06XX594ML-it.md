@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XX594ML/?tag=tolees00-21'
 descuento: '37.38'
+average: '56.36'
 ---
 
 Tienes [New Balance 574v2 Core  Scarpa da Tennis Donna  Blu  Navy   40 EU](https://www.amazon.it/dp/B06XX594ML/?tag=tolees00-21) con un 37.38 % de descuento con precio de oferta de 56.36 EUR (original: 90.0 EUR) en el siguiente enlace!

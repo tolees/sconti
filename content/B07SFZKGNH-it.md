@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SFZKGNH/?tag=tolees00-21'
 descuento: '71.73'
+average: '25.16'
 ---
 
 Está [ssc napoli  Maglia Gara Home 2019/2020 Uomo  Blu  M](https://www.amazon.it/dp/B07SFZKGNH/?tag=tolees00-21) con 71.73 de descuento por 25.16 EUR (original: 89.0 EUR) en el siguiente enlace!

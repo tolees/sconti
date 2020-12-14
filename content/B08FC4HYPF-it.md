@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FC4HYPF/?tag=tolees00-21'
 descuento: '43.77'
+average: '13.49'
 ---
 
 Tienes [eXtremeRate Soft Grip Cover Custodia Anteriore Copertura Frontale Scocca DIY Pezzo di Ricambio per Xbox One S X Controller Model 1708 Trasparente Nero Cristallo ](https://www.amazon.it/dp/B08FC4HYPF/?tag=tolees00-21) con un 43.77 % de descuento con precio de oferta de 13.49 EUR (original: 23.99 EUR) en el siguiente enlace!

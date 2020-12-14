@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0814SSZZJ/?tag=tolees00-21'
 descuento: '61.53'
+average: '21.14'
 ---
 
 Está [Under Armour UA Tech  Pantaloni Uomo  Blu  Taglia Unica](https://www.amazon.it/dp/B0814SSZZJ/?tag=tolees00-21) con 61.53 de descuento por 21.14 EUR (original: 54.95 EUR) en el siguiente enlace!

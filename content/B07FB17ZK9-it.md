@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FB17ZK9/?tag=tolees00-21'
 descuento: '31.19'
+average: '13.99'
 ---
 
 Tienes [Assassin s Creed 4 Black Flag - Hits-PlayStation 4](https://www.amazon.it/dp/B07FB17ZK9/?tag=tolees00-21) con un 31.19 % de descuento con precio de oferta de 13.99 EUR (original: 20.33 EUR) en el siguiente enlace!

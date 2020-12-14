@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01M0HISEA/?tag=tolees00-21'
 descuento: '63.56'
+average: '14.21'
 ---
 
 Está [Dainese Snow Team Jr Evo Casco da Sci  Vibrant-Yellow  JS](https://www.amazon.it/dp/B01M0HISEA/?tag=tolees00-21) con 63.56 de descuento por 14.21 EUR (original: 39.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GZM3NMM/?tag=tolees00-21'
 descuento: '53.85'
+average: '59.99'
 ---
 
 Está [【2020 Nuova Versione】CHORTAU Telecamera per Auto da 7 pollici Touchscreen Full HD 1080P  Telecamera Grandangolare Anteriore e Telecamera Posteriore impermeabile  con Sistema di Monitoraggio Inverso](https://www.amazon.it/dp/B07GZM3NMM/?tag=tolees00-21) con 53.85 de descuento por 59.99 EUR (original: 129.99 EUR) en el siguiente enlace!

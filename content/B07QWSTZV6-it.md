@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QWSTZV6/?tag=tolees00-21'
 descuento: '50.01'
+average: '24.99'
 ---
 
 Está [YINSAN TM5  Cuffie Gaming per PS4  Cuffie PS4 Over Ear con Microfono  RGB LED  Audio Cavo 3.5mm e Controllo del Volume  Gaming Headset per Xbox One  Nintendo Switch  PC  Mac  Laptop  Smartphone Blue](https://www.amazon.it/dp/B07QWSTZV6/?tag=tolees00-21) con 50.01 de descuento por 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GWCBVK2/?tag=tolees00-21'
 descuento: '30.79'
+average: '35.99'
 ---
 
 Tienes [Bilancia Impedenziometrica iTeknic Bilancia Pesa Persona Digitale Massa Grassa Bluetooth Misura Precisa di Peso  Massa Magra  Massa Muscolare  BMI  Massa Ossea per Dispositivi iOS e Android](https://www.amazon.it/dp/B07GWCBVK2/?tag=tolees00-21) con un 30.79 % de descuento con precio de oferta de 35.99 EUR (original: 52.0 EUR) en el siguiente enlace!

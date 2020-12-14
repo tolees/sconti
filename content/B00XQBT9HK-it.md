@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00XQBT9HK/?tag=tolees00-21'
 descuento: '30.06'
+average: '5.77'
 ---
 
 Tienes [Nivea - Sun  Latte Solare Carotene -  200 Ml](https://www.amazon.it/dp/B00XQBT9HK/?tag=tolees00-21) con un 30.06 % de descuento con precio de oferta de 5.77 EUR (original: 8.25 EUR) en el siguiente enlace!

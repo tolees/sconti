@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CDQH2F8/?tag=tolees00-21'
 descuento: '39.18'
+average: '47.99'
 ---
 
 Tienes [Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Nero ](https://www.amazon.it/dp/B08CDQH2F8/?tag=tolees00-21) con un 39.18 % de descuento con precio de oferta de 47.99 EUR (original: 78.9 EUR) en el siguiente enlace!

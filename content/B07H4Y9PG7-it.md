@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07H4Y9PG7/?tag=tolees00-21'
 descuento: '51.29'
+average: '96.22'
 ---
 
 Tienes [HUAWEI Watch GT Smartwatch  Touchscreen 1.39"  Bluetooth 4.2  Autonomia Batteria fino a 2 Settimane  Impermeabile 5 ATM  GPS  TruSeen 3.0 Monitoraggio della Frequenza Cardiaca  Nero Graphite Black](https://www.amazon.it/dp/B07H4Y9PG7/?tag=tolees00-21) con un 51.29 % de descuento con precio de oferta de 96.22 EUR (original: 197.54 EUR) en el siguiente enlace!

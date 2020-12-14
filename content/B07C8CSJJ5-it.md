@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07C8CSJJ5/?tag=tolees00-21'
 descuento: '61.20'
+average: '84.97'
 ---
 
 Ahora mismo tienes [Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Silicone DZ4483](https://www.amazon.it/dp/B07C8CSJJ5/?tag=tolees00-21) a 84.97 EUR (original: 219.0 EUR) (61.20 %  de descuento) en el siguiente enlace!

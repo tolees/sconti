@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RXG89S3/?tag=tolees00-21'
 descuento: '49.82'
+average: '139.99'
 ---
 
 Tienes [Samsung HW-R530/ZF Soundbar da 290 W  2.1 Canali  Nero](https://www.amazon.it/dp/B07RXG89S3/?tag=tolees00-21) con un 49.82 % de descuento con precio de oferta de 139.99 EUR (original: 279.0 EUR) en el siguiente enlace!

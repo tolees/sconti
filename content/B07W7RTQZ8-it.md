@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W7RTQZ8/?tag=tolees00-21'
 descuento: '60.01'
+average: '30.66'
 ---
 
 Está [Tommy Hilfiger Tommy Tipped Slim Polo  Nero  Black   Large  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07W7RTQZ8/?tag=tolees00-21) con 60.01 de descuento por 30.66 EUR (original: 76.66 EUR) en el siguiente enlace!

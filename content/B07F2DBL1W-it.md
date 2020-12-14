@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F2DBL1W/?tag=tolees00-21'
 descuento: '40.01'
+average: '59.99'
 ---
 
 Está [Timberland Los Angeles Wind Slingbac  Sandali Donna  Marrone  Light Beige Nubuck   37 EU](https://www.amazon.it/dp/B07F2DBL1W/?tag=tolees00-21) con 40.01 de descuento por 59.99 EUR (original: 100.0 EUR) en el siguiente enlace!

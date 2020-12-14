@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XXGLSYX/?tag=tolees00-21'
 descuento: '46.13'
+average: '48.48'
 ---
 
 Tienes [New Balance 574v2 Core  Scarpa da Tennis Donna  Grigio  Grey   36.5 EU](https://www.amazon.it/dp/B06XXGLSYX/?tag=tolees00-21) con un 46.13 % de descuento con precio de oferta de 48.48 EUR (original: 90.0 EUR) en el siguiente enlace!

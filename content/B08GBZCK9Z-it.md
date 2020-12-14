@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08GBZCK9Z/?tag=tolees00-21'
 descuento: '56.61'
+average: '5.19'
 ---
 
 Ahora mismo tienes [50PC Usa e getta Blu a 3 Strati  Blu ](https://www.amazon.it/dp/B08GBZCK9Z/?tag=tolees00-21) a 5.19 EUR (original: 11.96 EUR) (56.61 %  de descuento) en el siguiente enlace!

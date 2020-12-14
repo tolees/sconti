@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V8VYTYV/?tag=tolees00-21'
 descuento: '52.88'
+average: '6.55'
 ---
 
 Tienes [Enterogermina Gonfiore Integratore alimentare contro il gonfiore addominale  10 bustine da 2+2 g  senza lattosio e senza glutine](https://www.amazon.it/dp/B07V8VYTYV/?tag=tolees00-21) con un 52.88 % de descuento con precio de oferta de 6.55 EUR (original: 13.9 EUR) en el siguiente enlace!

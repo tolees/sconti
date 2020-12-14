@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07WC45Q6F/?tag=tolees00-21'
 descuento: '82.76'
+average: '14.16'
 ---
 
 Está [Tommy Hilfiger John Cargo Short Light Twill Jeans Relaxed  Blu  Faded Indigo   W28/L30  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07WC45Q6F/?tag=tolees00-21) con 82.76 de descuento por 14.16 EUR (original: 82.14 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00Y4XUOYQ/?tag=tolees00-21'
 descuento: '56.71'
+average: '45.45'
 ---
 
 Está [Lacoste PH4014  Polo Uomo  Nero  Noir   Small  Taglia Produttore: 3 ](https://www.amazon.it/dp/B00Y4XUOYQ/?tag=tolees00-21) con 56.71 de descuento por 45.45 EUR (original: 105.0 EUR) en el siguiente enlace!

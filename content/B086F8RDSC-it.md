@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086F8RDSC/?tag=tolees00-21'
 descuento: '29.68'
+average: '16.87'
 ---
 
 Está [Neutro Roberts Sapone Liquido Ecopouch Nutriente  400 ml  12 Pezzi](https://www.amazon.it/dp/B086F8RDSC/?tag=tolees00-21) con 29.68 de descuento por 16.87 EUR (original: 23.99 EUR) en el siguiente enlace!

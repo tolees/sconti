@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0783PM5CV/?tag=tolees00-21'
 descuento: '29.95'
+average: '35.0'
 ---
 
 Ahora mismo tienes [PUMA Smash Wns V2 L  Scarpe da Ginnastica Donna  Nero Black White  42 EU](https://www.amazon.it/dp/B0783PM5CV/?tag=tolees00-21) a 34.99 EUR (original: 49.95 EUR) (29.95 %  de descuento) en el siguiente enlace!

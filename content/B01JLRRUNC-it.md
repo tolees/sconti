@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01JLRRUNC/?tag=tolees00-21'
 descuento: '47.35'
+average: '315.37'
 ---
 
 Está [Hotpoint AQ97D 49D IT  Lavatrice a Carica Frontale  9 kg  A+++-40%  1400 Giri/Min  Bianco/Argento](https://www.amazon.it/dp/B01JLRRUNC/?tag=tolees00-21) con 47.35 de descuento por 315.37 EUR (original: 599.0 EUR) en el siguiente enlace!

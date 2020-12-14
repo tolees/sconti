@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01CQUYJ3A/?tag=tolees00-21'
 descuento: '71.59'
+average: '22.73'
 ---
 
 Está [Diadora - Sneakers B. Elite per Uomo e Donna  EU 37 ](https://www.amazon.it/dp/B01CQUYJ3A/?tag=tolees00-21) con 71.59 de descuento por 22.73 EUR (original: 80.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085CYPYMK/?tag=tolees00-21'
 descuento: '38.40'
+average: '83.49'
 ---
 
 Está [Braun Serie 5 50-W1500s Rasoio Elettrico Uomo Con Regolabarba  Wet & Dry  Ricaricabile  Lamina Senza Fili  Bianco](https://www.amazon.it/dp/B085CYPYMK/?tag=tolees00-21) con 38.40 de descuento por 76.99 EUR (original: 124.99 EUR) en el siguiente enlace!

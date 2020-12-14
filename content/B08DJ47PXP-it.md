@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DJ47PXP/?tag=tolees00-21'
 descuento: '41.96'
+average: '63.99'
 ---
 
 Está [Riyth Hard Disk 2 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Nero ](https://www.amazon.it/dp/B08DJ47PXP/?tag=tolees00-21) con 41.96 de descuento por 63.99 EUR (original: 110.26 EUR) en el siguiente enlace!

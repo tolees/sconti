@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KSYSS86/?tag=tolees00-21'
 descuento: '34.97'
+average: '130.0'
 ---
 
 Tienes [Electrolux E7TB1-4GB Explore 7 Blender  Nero Granite](https://www.amazon.it/dp/B07KSYSS86/?tag=tolees00-21) con un 34.97 % de descuento con precio de oferta de 130.0 EUR (original: 199.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077PMK1T1/?tag=tolees00-21'
 descuento: '46.30'
+average: '8.05'
 ---
 
 Está [HP Custodia Sleeve Reversibile in Neoprene per Notebook fino a 14"  Nero/Oro](https://www.amazon.it/dp/B077PMK1T1/?tag=tolees00-21) con 46.30 de descuento por 8.05 EUR (original: 14.99 EUR) en el siguiente enlace!

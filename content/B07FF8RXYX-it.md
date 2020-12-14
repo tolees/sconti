@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FF8RXYX/?tag=tolees00-21'
 descuento: '29.01'
+average: '11.99'
 ---
 
 Tienes [HUAWEI Mediapad T5 Custodia Protettiva  Nero](https://www.amazon.it/dp/B07FF8RXYX/?tag=tolees00-21) con un 29.01 % de descuento con precio de oferta de 11.99 EUR (original: 16.89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SFJY57Y/?tag=tolees00-21'
 descuento: '85.86'
+average: '15.953999999999999'
 ---
 
 Está [FIFA 20 - Standard - Xbox One](https://www.amazon.it/dp/B07SFJY57Y/?tag=tolees00-21) con 85.86 de descuento por 9.9 EUR (original: 69.99 EUR) en el siguiente enlace!

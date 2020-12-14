@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SYNN8P8/?tag=tolees00-21'
 descuento: '52.62'
+average: '21.32'
 ---
 
 Ahora mismo tienes [ARMANI EXCHANGE Icon T T-Shirt  Bianco  White W/Saint Tropez 7141   Small Uomo](https://www.amazon.it/dp/B07SYNN8P8/?tag=tolees00-21) a 21.32 EUR (original: 45.0 EUR) (52.62 %  de descuento) en el siguiente enlace!

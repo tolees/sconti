@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083G2TX1C/?tag=tolees00-21'
 descuento: '25.00'
+average: '17.25'
 ---
 
 Ahora mismo tienes [PISEN ColorPower PRO Portable Power Bank 10000mAh  Oro  Caricabatterie Portatile Portatile  Batteria Esterna  uscite USB 2  puoi Risparmiare Tempo  Utilizzare telefoni cellulari ](https://www.amazon.it/dp/B083G2TX1C/?tag=tolees00-21) a 17.25 EUR (original: 23.0 EUR) (25.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KTK94T6/?tag=tolees00-21'
 descuento: '28.19'
+average: '35.9'
 ---
 
 Ahora mismo tienes [LEGO La Festa In Piscina Di Andrea Costruzioni Piccole](https://www.amazon.it/dp/B07KTK94T6/?tag=tolees00-21) a 35.9 EUR (original: 49.99 EUR) (28.19 %  de descuento) en el siguiente enlace!

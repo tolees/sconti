@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B016BEPP9O/?tag=tolees00-21'
 descuento: '30.54'
+average: '15.97'
 ---
 
 Está [Kingston DataTraveler 100 G3-DT100G3/128GB USB 3.0  PenDrive  128 GB  1 Pezzo  Nero](https://www.amazon.it/dp/B016BEPP9O/?tag=tolees00-21) con 30.54 de descuento por 15.97 EUR (original: 22.99 EUR) en el siguiente enlace!

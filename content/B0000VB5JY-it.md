@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0000VB5JY/?tag=tolees00-21'
 descuento: '59.03'
+average: '3.79'
 ---
 
 Ahora mismo tienes [Gillette Usa E Getta Rasoio Da Uomo - 150 Gr](https://www.amazon.it/dp/B0000VB5JY/?tag=tolees00-21) a 3.79 EUR (original: 9.25 EUR) (59.03 %  de descuento) en el siguiente enlace!

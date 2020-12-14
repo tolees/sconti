@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B076HPCY5F/?tag=tolees00-21'
 descuento: '56.17'
+average: '29.2'
 ---
 
 Tienes [adidas Condivo 18 Jacket  Giacca Uomo  Blu  Blu Scuro/Azzurro/Bianco   L](https://www.amazon.it/dp/B076HPCY5F/?tag=tolees00-21) con un 56.17 % de descuento con precio de oferta de 29.2 EUR (original: 66.62 EUR) en el siguiente enlace!

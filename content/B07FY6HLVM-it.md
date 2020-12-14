@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FY6HLVM/?tag=tolees00-21'
 descuento: '40.00'
+average: '15.6'
 ---
 
 Está [Havaianas Slim 4000030 Infradito Donna  Arancione  Bronze Orange 7185   37/38 EU](https://www.amazon.it/dp/B07FY6HLVM/?tag=tolees00-21) con 40.00 de descuento por 15.6 EUR (original: 26.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QJ1N33P/?tag=tolees00-21'
 descuento: '45.02'
+average: '10.99'
 ---
 
 Ahora mismo tienes [TOPERSUN 10PCS Marcatori Evidenziatori metallici a mezzo punto Marcatori colorati per creare album di carte Album di foto in carta di pietra](https://www.amazon.it/dp/B07QJ1N33P/?tag=tolees00-21) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!

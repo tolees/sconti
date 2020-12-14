@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S2SVLCC/?tag=tolees00-21'
 descuento: '50.00'
+average: '35.0'
 ---
 
 Tienes [Levi s Sunset 1 Pkt Slim Camicia  Blu  Alfonso Indigo 0006   XX-Large Uomo](https://www.amazon.it/dp/B07S2SVLCC/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 35.0 EUR (original: 70.0 EUR) en el siguiente enlace!

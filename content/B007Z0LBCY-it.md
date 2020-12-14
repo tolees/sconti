@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B007Z0LBCY/?tag=tolees00-21'
 descuento: '33.06'
+average: '114.32000000000001'
 ---
 
 Está [Keter 223995 - Porta Attrezzi Store It Out Midi Beige In Resina 130x74x110 cm](https://www.amazon.it/dp/B007Z0LBCY/?tag=tolees00-21) con 33.06 de descuento por 99.74 EUR (original: 149.0 EUR) en el siguiente enlace!
@@ -24,9 +25,9 @@ Está [Keter 223995 - Porta Attrezzi Store It Out Midi Beige In Resina 130x74x11
 
 ℹ️:
 
-- Pareti e tetto con finitura effetto legno
-- Pavimento in resina incluso che protegge da fango e pioggia
-- Predisposizione per il lucchetto
 - Supporti interni integrati per montaggio di scaffalature
+- Pavimento in resina incluso che protegge da fango e pioggia
+- Pareti e tetto con finitura effetto legno
+- Predisposizione per il lucchetto
 
 [Ver la oferta!!](https://www.amazon.it/dp/B007Z0LBCY/?tag=tolees00-21)

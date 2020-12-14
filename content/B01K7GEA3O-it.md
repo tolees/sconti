@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01K7GEA3O/?tag=tolees00-21'
 descuento: '51.23'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Logitech M330 Silent Plus Mouse Wireless  2.4 GHz con Ricevitore USB Nano  1 000 DPI  3 Pulsanti  Batteria Lunga Durata Fino a 24 Mesi  PC/Mac/Laptop  Rosso](https://www.amazon.it/dp/B01K7GEA3O/?tag=tolees00-21) a 19.99 EUR (original: 40.99 EUR) (51.23 %  de descuento) en el siguiente enlace!

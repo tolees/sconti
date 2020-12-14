@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Y5CNHD6/?tag=tolees00-21'
 descuento: '30.00'
+average: '27.3'
 ---
 
 Tienes [Geographical Norway Felpa da uomo GYMCLASS A Grigio Scuro M](https://www.amazon.it/dp/B07Y5CNHD6/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 27.3 EUR (original: 39.0 EUR) en el siguiente enlace!

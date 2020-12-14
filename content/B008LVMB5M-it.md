@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B008LVMB5M/?tag=tolees00-21'
 descuento: '30.18'
+average: '7.89'
 ---
 
 Está [Pic Vedoeco Termometro con Lente - 10 ml](https://www.amazon.it/dp/B008LVMB5M/?tag=tolees00-21) con 30.18 de descuento por 7.89 EUR (original: 11.3 EUR) en el siguiente enlace!

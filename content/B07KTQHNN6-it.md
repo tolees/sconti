@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KTQHNN6/?tag=tolees00-21'
 descuento: '41.57'
+average: '92.9'
 ---
 
 Está [Tommy Hilfiger Orologio Multi-quadrante Quarzo Uomo con Cinturino in Pelle 1710381](https://www.amazon.it/dp/B07KTQHNN6/?tag=tolees00-21) con 41.57 de descuento por 92.9 EUR (original: 159.0 EUR) en el siguiente enlace!

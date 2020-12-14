@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07DFMD2XV/?tag=tolees00-21'
 descuento: '54.62'
+average: '29.5'
 ---
 
 Tienes [Guess Vikky Slg Large Zip Around Portamonete  Donna  Nero  Taglia Unica](https://www.amazon.it/dp/B07DFMD2XV/?tag=tolees00-21) con un 54.62 % de descuento con precio de oferta de 29.5 EUR (original: 65.0 EUR) en el siguiente enlace!

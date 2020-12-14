@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PBFMS75/?tag=tolees00-21'
 descuento: '37.02'
+average: '12.59'
 ---
 
 Está [INPHIC Mouse Wireless Ricaricabile  Mouse Senza Fili Silenzioso 2 4G 1600DPI Mouse USB Portatile da Viaggio Ottico con Ricevitore USB per PC Computer Mac MacBook  Spazio Argento](https://www.amazon.it/dp/B07PBFMS75/?tag=tolees00-21) con 37.02 de descuento por 12.59 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JG7HLJ7/?tag=tolees00-21'
 descuento: '33.41'
+average: '39.95'
 ---
 
 Tienes [PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black-White-Silver  39 EU](https://www.amazon.it/dp/B07JG7HLJ7/?tag=tolees00-21) con un 33.41 % de descuento con precio de oferta de 39.95 EUR (original: 59.99 EUR) en el siguiente enlace!

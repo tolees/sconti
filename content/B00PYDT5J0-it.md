@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00PYDT5J0/?tag=tolees00-21'
 descuento: '49.99'
+average: '32.5'
 ---
 
 Ahora mismo tienes [Nike MD Runner 2  Scarpe da Running Uomo  Nero  Black/White/Anthracite   40.5 EU](https://www.amazon.it/dp/B00PYDT5J0/?tag=tolees00-21) a 32.5 EUR (original: 64.99 EUR) (49.99 %  de descuento) en el siguiente enlace!

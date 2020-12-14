@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07B8QJLRB/?tag=tolees00-21'
 descuento: '54.85'
+average: '45.13'
 ---
 
 Tienes [Fila Disruptor Low  Scarpe da Ginnastica Basse Uomo  Bianco  White 1fg   44 EU](https://www.amazon.it/dp/B07B8QJLRB/?tag=tolees00-21) con un 54.85 % de descuento con precio de oferta de 45.13 EUR (original: 99.95 EUR) en el siguiente enlace!

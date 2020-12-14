@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GDDXLVK/?tag=tolees00-21'
 descuento: '42.32'
+average: '14.99'
 ---
 
 Está [Tacklife 18PCS Estrattore di Viti Danneggiate con Punte di Brunitura Separate  Presa per Prolunga Magnetica e Adattatore Presa per Viti o Bulloni Danneggiati 2-12mm  Durezza 62HRC  DSE01](https://www.amazon.it/dp/B07GDDXLVK/?tag=tolees00-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CXST2G2/?tag=tolees00-21'
 descuento: '37.74'
+average: '32.99'
 ---
 
 Tienes [Motast Cuffie Bluetooth  Auricolari Bluetooth 5.0 Noise Cancelling  Auricolari Wireless Stereo Bassi Profondi HIFI  Ricarica Rapida USB-C  Cuffie con Microfono Impermeabile IP7 Tocca Controllo](https://www.amazon.it/dp/B08CXST2G2/?tag=tolees00-21) con un 37.74 % de descuento con precio de oferta de 32.99 EUR (original: 52.99 EUR) en el siguiente enlace!

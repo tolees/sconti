@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01J3AMITS/?tag=tolees00-21'
 descuento: '46.19'
+average: '6.99'
 ---
 
 Está [iAmotus Adattatore Bluetooth  USB Bluetooth Stick 4.0 + EDR Mini Dongle Ricevitore Basso Consumo Energetico Plug And Play per PC con Windows 10 8 7 XP  Compatibile con Cuffie  Mouse  Tastiera](https://www.amazon.it/dp/B01J3AMITS/?tag=tolees00-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!

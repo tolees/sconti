@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0815V9HVP/?tag=tolees00-21'
 descuento: '40.95'
+average: '17.69'
 ---
 
 Ahora mismo tienes [Hdmi Switch  mrocioa 3 porte ingresso 1 out 4K Hdmi Switcher Box con telecomando. Hdmi Splitter 4K Hub. Supporto PS4/Xbox One/Fire TV/Apple TV/SKY BOX/STB/DVD/Laptop/Roku.](https://www.amazon.it/dp/B0815V9HVP/?tag=tolees00-21) a 17.69 EUR (original: 29.96 EUR) (40.95 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003UV9XCW/?tag=tolees00-21'
 descuento: '35.33'
+average: '19.4'
 ---
 
 Tienes [De Longhi HVY1020.O Verticale Young Termoventilatore Compatto  2000 W  Grigio/Arancio](https://www.amazon.it/dp/B003UV9XCW/?tag=tolees00-21) con un 35.33 % de descuento con precio de oferta de 19.4 EUR (original: 30.0 EUR) en el siguiente enlace!

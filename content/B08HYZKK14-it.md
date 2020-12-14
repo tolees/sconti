@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08HYZKK14/?tag=tolees00-21'
 descuento: '43.50'
+average: '12.99'
 ---
 
 Está [eXtremeRate Soft Grip Cover Copertura Frontale Joystick Custodia Guscio Case Ricambio per Xbox One S X Controller Model 1708 Rosso Nero ](https://www.amazon.it/dp/B08HYZKK14/?tag=tolees00-21) con 43.50 de descuento por 12.99 EUR (original: 22.99 EUR) en el siguiente enlace!

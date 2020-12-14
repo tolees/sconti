@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07M841QNF/?tag=tolees00-21'
 descuento: '64.19'
+average: '23.99'
 ---
 
 Ahora mismo tienes [Powerbank ALLPOWERS 24000mAh Batteria Esterna Portatile Caricabatterie USB C Ingresso Powerbank per iPhone XS/X/8/7/6s  iPad  Samsung  Huawei  Cellulare  Tablets](https://www.amazon.it/dp/B07M841QNF/?tag=tolees00-21) a 23.99 EUR (original: 66.99 EUR) (64.19 %  de descuento) en el siguiente enlace!

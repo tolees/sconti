@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CDL3BD2/?tag=tolees00-21'
 descuento: '45.07'
+average: '10.97'
 ---
 
 Está [VZATT Go Swing Topless Can Opener  2020 Nuova Apriscatole Manuale  Apri di Latta di Birra  Apriscatole Professionale Bordo Liscio per Strumento di Cucina Domestica](https://www.amazon.it/dp/B08CDL3BD2/?tag=tolees00-21) con 45.07 de descuento por 10.97 EUR (original: 19.97 EUR) en el siguiente enlace!

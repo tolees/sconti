@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZT439VR/?tag=tolees00-21'
 descuento: '58.38'
+average: '11.290000000000001'
 ---
 
 Ahora mismo tienes [TACKLIFE-Cacciavite  cacciavite di precisione 12 in 1 con punte di resistenza industriali intercambiabili  mini set multiutensile TACKLIFE-HSS5B](https://www.amazon.it/dp/B07ZT439VR/?tag=tolees00-21) a 4.99 EUR (original: 11.99 EUR) (58.38 %  de descuento) en el siguiente enlace!

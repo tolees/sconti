@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CZ43WW9/?tag=tolees00-21'
 descuento: '29.10'
+average: '38.99'
 ---
 
 Tienes [Elyco Wireless Controller per Nintendo Switch  Bluetooth Joycon Joystick Joypad Gamepad Interruttore Controller Sostituzione Compatibile con Nintendo Switch](https://www.amazon.it/dp/B08CZ43WW9/?tag=tolees00-21) con un 29.10 % de descuento con precio de oferta de 38.99 EUR (original: 54.99 EUR) en el siguiente enlace!

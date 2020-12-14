@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KF51VXY/?tag=tolees00-21'
 descuento: '40.03'
+average: '77.96'
 ---
 
 Está [Levi s Type 3 Giacca in Jeans  Nero  Berk Sherpa Trucker 0100   Small Uomo](https://www.amazon.it/dp/B07KF51VXY/?tag=tolees00-21) con 40.03 de descuento por 77.96 EUR (original: 130.0 EUR) en el siguiente enlace!

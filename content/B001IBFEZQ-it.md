@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B001IBFEZQ/?tag=tolees00-21'
 descuento: '46.19'
+average: '29.9'
 ---
 
 Está [STANLEY 1-93-968 Carrello porta utensili "2 in 1"](https://www.amazon.it/dp/B001IBFEZQ/?tag=tolees00-21) con 46.19 de descuento por 29.9 EUR (original: 55.57 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077MQD4L4/?tag=tolees00-21'
 descuento: '34.18'
+average: '36.17'
 ---
 
 Está [Puma Smash V2 Scape per Sport Outdoor Unisex - Adulto  Nero  Puma Black   37 EU](https://www.amazon.it/dp/B077MQD4L4/?tag=tolees00-21) con 34.18 de descuento por 36.17 EUR (original: 54.95 EUR) en el siguiente enlace!

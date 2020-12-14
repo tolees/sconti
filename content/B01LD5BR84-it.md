@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LD5BR84/?tag=tolees00-21'
 descuento: '63.85'
+average: '1.645'
 ---
 
 Tienes [Nivea Men Doccia Shampoo Energy  250 ml](https://www.amazon.it/dp/B01LD5BR84/?tag=tolees00-21) con un 63.85 % de descuento con precio de oferta de 1.24 EUR (original: 3.43 EUR) en el siguiente enlace!

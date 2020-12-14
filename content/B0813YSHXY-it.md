@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0813YSHXY/?tag=tolees00-21'
 descuento: '69.20'
+average: '33.87'
 ---
 
 Tienes [Adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Core Black](https://www.amazon.it/dp/B0813YSHXY/?tag=tolees00-21) con un 69.20 % de descuento con precio de oferta de 33.87 EUR (original: 109.95 EUR) en el siguiente enlace!

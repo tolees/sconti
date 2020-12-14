@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21'
 descuento: '50.85'
+average: '24.98'
 ---
 
 Tienes [Just Dance 2020 - PlayStation 4](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21) con un 50.85 % de descuento con precio de oferta de 24.98 EUR (original: 50.82 EUR) en el siguiente enlace!

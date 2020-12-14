@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21'
 descuento: '72.51'
+average: '109.67'
 ---
 
 Está [NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21) con 72.51 de descuento por 109.67 EUR (original: 399.0 EUR) en el siguiente enlace!

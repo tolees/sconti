@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XPGHW3V/?tag=tolees00-21'
 descuento: '50.32'
+average: '14.9'
 ---
 
 Tienes [Kong: Skull Island  4K Ultra HD + Blu-Ray Disc + Copia Digitale   2 Blu-Ray ](https://www.amazon.it/dp/B06XPGHW3V/?tag=tolees00-21) con un 50.32 % de descuento con precio de oferta de 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

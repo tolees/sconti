@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XRPDQPB/?tag=tolees00-21'
 descuento: '33.33'
+average: '160.0'
 ---
 
 Tienes [Bica 9017.4 Set Salottino Colorado 4 Posti 119x64x57 cm  Marrone  279x155x64 cm](https://www.amazon.it/dp/B06XRPDQPB/?tag=tolees00-21) con un 33.33 % de descuento con precio de oferta de 160.0 EUR (original: 239.99 EUR) en el siguiente enlace!

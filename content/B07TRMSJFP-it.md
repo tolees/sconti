@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TRMSJFP/?tag=tolees00-21'
 descuento: '37.85'
+average: '22.0'
 ---
 
 Está [Levi s 501 Long Pantaloncini  Blu  Montgomery Mended Short 0013   W25  Taglia Unica: 25  Donna](https://www.amazon.it/dp/B07TRMSJFP/?tag=tolees00-21) con 37.85 de descuento por 22.0 EUR (original: 35.4 EUR) en el siguiente enlace!

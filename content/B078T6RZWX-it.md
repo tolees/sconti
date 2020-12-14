@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078T6RZWX/?tag=tolees00-21'
 descuento: '35.56'
+average: '22.49'
 ---
 
 Tienes [Tommy Hilfiger Essential TH Beach Sandal  Infradito Uomo  Nero  Black 990   41 EU](https://www.amazon.it/dp/B078T6RZWX/?tag=tolees00-21) con un 35.56 % de descuento con precio de oferta de 22.49 EUR (original: 34.9 EUR) en el siguiente enlace!

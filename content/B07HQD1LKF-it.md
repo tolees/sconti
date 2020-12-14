@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HQD1LKF/?tag=tolees00-21'
 descuento: '26.02'
+average: '36.99'
 ---
 
 Ahora mismo tienes [LIGHTAILING Set di Luci per  Architecture Buckingham Palace  Modello da Costruire - Kit Luce LED Compatibile con Lego 21029  Non Incluso nel Modello ](https://www.amazon.it/dp/B07HQD1LKF/?tag=tolees00-21) a 36.99 EUR (original: 50.0 EUR) (26.02 %  de descuento) en el siguiente enlace!

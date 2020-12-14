@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07DZ62JRZ/?tag=tolees00-21'
 descuento: '49.98'
+average: '15.0'
 ---
 
 Tienes [HP - Gaming Omen 400 Mouse Gaming  6 Tasti Programmabili  DPI da 1600 a 5000  Funzione Sniper Mode  Rotella di Scorrimento con 24 Denti  LED Personalizzabile  Cavo USB Cablato  Nero](https://www.amazon.it/dp/B07DZ62JRZ/?tag=tolees00-21) con un 49.98 % de descuento con precio de oferta de 15.0 EUR (original: 29.99 EUR) en el siguiente enlace!

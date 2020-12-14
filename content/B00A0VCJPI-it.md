@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00A0VCJPI/?tag=tolees00-21'
 descuento: '30.02'
+average: '13.99'
 ---
 
 Tienes [TP-Link TL-WA850RE Ripetitore Wireless Wifi Extender e Access Point  Velocità Single Band 300Mbps  Porta LAN  Potenzia la tua copertura Wi-Fi  Compatibile con tutti i modem router wifi  Bianco](https://www.amazon.it/dp/B00A0VCJPI/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

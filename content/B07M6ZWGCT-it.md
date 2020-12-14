@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07M6ZWGCT/?tag=tolees00-21'
 descuento: '26.47'
+average: '8.75'
 ---
 
 Está [Clementoni- Baby Garden  Multicolore  17277](https://www.amazon.it/dp/B07M6ZWGCT/?tag=tolees00-21) con 26.47 de descuento por 8.75 EUR (original: 11.9 EUR) en el siguiente enlace!

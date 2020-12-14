@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PHXXJ74/?tag=tolees00-21'
 descuento: '25.01'
+average: '14.99'
 ---
 
 Tienes [Zanzariera Magnetica per Porte  NASUM Tenda Zanzariera per Porte d Ingresso Porte  Cortili](https://www.amazon.it/dp/B07PHXXJ74/?tag=tolees00-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

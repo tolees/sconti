@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YL6N7G3/?tag=tolees00-21'
 descuento: '36.43'
+average: '15.86'
 ---
 
 Ahora mismo tienes [Wrangler SS Small Logo Tee T-Shirt  Blu  Blue Graphite X15   Uomo](https://www.amazon.it/dp/B07YL6N7G3/?tag=tolees00-21) a 15.86 EUR (original: 24.95 EUR) (36.43 %  de descuento) en el siguiente enlace!

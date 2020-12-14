@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FH9K34N/?tag=tolees00-21'
 descuento: '54.25'
+average: '27.45'
 ---
 
 Ahora mismo tienes [Timberland Union Wharf Plain Toe  Sneaker Infilare Uomo  Nero  Black Canvas   44.5 EU](https://www.amazon.it/dp/B07FH9K34N/?tag=tolees00-21) a 27.45 EUR (original: 60.0 EUR) (54.25 %  de descuento) en el siguiente enlace!

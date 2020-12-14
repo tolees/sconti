@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VWL8M1L/?tag=tolees00-21'
 descuento: '50.00'
+average: '14.95'
 ---
 
 Está [Tommy Jeans Tjm Chest Logo Tee Maglietta  Grigio  Lt Grey Htr P01   Large Uomo](https://www.amazon.it/dp/B07VWL8M1L/?tag=tolees00-21) con 50.00 de descuento por 14.95 EUR (original: 29.9 EUR) en el siguiente enlace!

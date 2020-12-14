@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W5MYFLT/?tag=tolees00-21'
 descuento: '66.70'
+average: '31.0'
 ---
 
 Tienes [Tommy Hilfiger Basic Embroidered Hoody Felpa  Blu  Desert Sky   Large  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07W5MYFLT/?tag=tolees00-21) con un 66.70 % de descuento con precio de oferta de 31.0 EUR (original: 93.09 EUR) en el siguiente enlace!

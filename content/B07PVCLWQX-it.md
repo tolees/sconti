@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PVCLWQX/?tag=tolees00-21'
 descuento: '53.40'
+average: '6.99'
 ---
 
 Está [4x Spazzolini da denti in bamboo naturale ecologico l Manico in legno 100% biodegradabile riciclabile l Setole durezza media l Imballaggio riciclabile senza plastica l Confezione da 4 pezzi](https://www.amazon.it/dp/B07PVCLWQX/?tag=tolees00-21) con 53.40 de descuento por 6.99 EUR (original: 15.0 EUR) en el siguiente enlace!

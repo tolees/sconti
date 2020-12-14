@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073K2YZKK/?tag=tolees00-21'
 descuento: '53.08'
+average: '59.95'
 ---
 
 Tienes [Casio Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox LTP-E140B-1AEF](https://www.amazon.it/dp/B073K2YZKK/?tag=tolees00-21) con un 53.08 % de descuento con precio de oferta de 59.95 EUR (original: 127.76 EUR) en el siguiente enlace!

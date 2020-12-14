@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B001AO0OXI/?tag=tolees00-21'
 descuento: '63.25'
+average: '46.3'
 ---
 
 Está [Honeywell HO-5500RE4 Ventilatore a Torre](https://www.amazon.it/dp/B001AO0OXI/?tag=tolees00-21) con 63.25 de descuento por 46.3 EUR (original: 125.99 EUR) en el siguiente enlace!

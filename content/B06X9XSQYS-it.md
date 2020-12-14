@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06X9XSQYS/?tag=tolees00-21'
 descuento: '79.99'
+average: '3.0'
 ---
 
 Tienes [Marchio Amazon - Iris & Lilly Mutande Donna  Pacco da 3  Beige  Pale Nude   M  Label: M](https://www.amazon.it/dp/B06X9XSQYS/?tag=tolees00-21) con un 79.99 % de descuento con precio de oferta de 3.0 EUR (original: 14.99 EUR) en el siguiente enlace!

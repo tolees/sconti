@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21'
 descuento: '66.64'
+average: '50.0'
 ---
 
 Ahora mismo tienes [Volante Pace Wheel PS4](https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21) a 50.0 EUR (original: 149.9 EUR) (66.64 %  de descuento) en el siguiente enlace!

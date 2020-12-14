@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B074KM2BXD/?tag=tolees00-21'
 descuento: '39.88'
+average: '30.619999999999997'
 ---
 
 Está [Lavazza Capsule Caffè A Modo Mio Gingseng  10 Confezioni da 12 Capsule [120 Capsule]](https://www.amazon.it/dp/B074KM2BXD/?tag=tolees00-21) con 39.88 de descuento por 30.0 EUR (original: 49.9 EUR) en el siguiente enlace!

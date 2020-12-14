@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B074Q85BNF/?tag=tolees00-21'
 descuento: '33.87'
+average: '204.99'
 ---
 
 Tienes [Philips HD9652/90 Airfryer XXL - Friggitrice Low-Oil e Multicooker con Tecnologia Twin Turbo Star  2225 W  1.4 kg  Plastica  Nero 43.3x 32.2x31.6cm](https://www.amazon.it/dp/B074Q85BNF/?tag=tolees00-21) con un 33.87 % de descuento con precio de oferta de 204.99 EUR (original: 309.99 EUR) en el siguiente enlace!

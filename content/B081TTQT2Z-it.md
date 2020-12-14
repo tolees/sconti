@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081TTQT2Z/?tag=tolees00-21'
 descuento: '66.26'
+average: '20.23'
 ---
 
 Ahora mismo tienes [adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  XL](https://www.amazon.it/dp/B081TTQT2Z/?tag=tolees00-21) a 20.23 EUR (original: 59.95 EUR) (66.26 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00CTH0A1Q/?tag=tolees00-21'
 descuento: '65.75'
+average: '4.11'
 ---
 
 Está [Mattel W2085 Uno - Gioco di Carte  Versione Standard](https://www.amazon.it/dp/B00CTH0A1Q/?tag=tolees00-21) con 65.75 de descuento por 4.11 EUR (original: 12.0 EUR) en el siguiente enlace!

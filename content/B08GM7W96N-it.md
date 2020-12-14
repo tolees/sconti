@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08GM7W96N/?tag=tolees00-21'
 descuento: '31.83'
+average: '22.49'
 ---
 
 Tienes [eXtremeRate Cover Custodia Grip Case Guscio Joystick Scocca Ricambio per Nintendo Switch Pro Controller-Controller Non Incluso Trasparente Ciliegia Rosa ](https://www.amazon.it/dp/B08GM7W96N/?tag=tolees00-21) con un 31.83 % de descuento con precio de oferta de 22.49 EUR (original: 32.99 EUR) en el siguiente enlace!

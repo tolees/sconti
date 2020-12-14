@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00TYJ4L76/?tag=tolees00-21'
 descuento: '30.19'
+average: '34.9'
 ---
 
 Ahora mismo tienes [Minnie - Cucina di Minnie  181694](https://www.amazon.it/dp/B00TYJ4L76/?tag=tolees00-21) a 34.9 EUR (original: 49.99 EUR) (30.19 %  de descuento) en el siguiente enlace!

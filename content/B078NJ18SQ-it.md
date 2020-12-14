@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078NJ18SQ/?tag=tolees00-21'
 descuento: '33.39'
+average: '33.27'
 ---
 
 Tienes [Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Blu  Peacoat White   L](https://www.amazon.it/dp/B078NJ18SQ/?tag=tolees00-21) con un 33.39 % de descuento con precio de oferta de 33.27 EUR (original: 49.95 EUR) en el siguiente enlace!

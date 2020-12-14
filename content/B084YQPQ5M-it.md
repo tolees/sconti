@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084YQPQ5M/?tag=tolees00-21'
 descuento: '39.99'
+average: '179.39'
 ---
 
 Ahora mismo tienes [Huawei P40 Lite Crush Green 6.4" 6gb/128gb Dual Sim](https://www.amazon.it/dp/B084YQPQ5M/?tag=tolees00-21) a 179.98 EUR (original: 299.9 EUR) (39.99 %  de descuento) en el siguiente enlace!

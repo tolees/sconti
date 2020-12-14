@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21'
 descuento: '61.86'
+average: '83.91'
 ---
 
 Tienes [Salewa  00-0000027165  Giacca  Uomo  Blu  Ombre Blue   46/S](https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21) con un 61.86 % de descuento con precio de oferta de 83.91 EUR (original: 220.0 EUR) en el siguiente enlace!

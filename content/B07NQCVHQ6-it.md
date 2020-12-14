@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NQCVHQ6/?tag=tolees00-21'
 descuento: '42.86'
+average: '43.32333333333334'
 ---
 
 Está [Echo Dot  3ª generazione  - Altoparlante intelligente con orologio e Alexa - Tessuto grigio chiaro](https://www.amazon.it/dp/B07NQCVHQ6/?tag=tolees00-21) con 42.86 de descuento por 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!

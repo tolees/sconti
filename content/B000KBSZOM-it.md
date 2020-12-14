@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000KBSZOM/?tag=tolees00-21'
 descuento: '40.00'
+average: '48.0'
 ---
 
 Tienes [Birkenstock Classic Milano Birko-Flor Softfootbed - Sandali unisex - adulto  marrone  mocca nubuk   41  normale ](https://www.amazon.it/dp/B000KBSZOM/?tag=tolees00-21) con un 40.00 % de descuento con precio de oferta de 48.0 EUR (original: 80.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00BKQT54A/?tag=tolees00-21'
 descuento: '60.70'
+average: '58.55'
 ---
 
 Tienes [Daniel Wellington Classic Cambridge  Orologio da polso Uomo  ⌀ 40mm  Eggshell White](https://www.amazon.it/dp/B00BKQT54A/?tag=tolees00-21) con un 60.70 % de descuento con precio de oferta de 58.55 EUR (original: 149.0 EUR) en el siguiente enlace!

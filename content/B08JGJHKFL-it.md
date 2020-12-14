@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08JGJHKFL/?tag=tolees00-21'
 descuento: '45.01'
+average: '21.99'
 ---
 
 Ahora mismo tienes [Android TV Box  Android 10.0 TV BOX H616 Quad core 1 GB RAM 8 GB ROM Support 3D 6K Ultra HD H.265 WiFi 2.4 GHz 10/100 Ethernet HDMI Smart TV BOX](https://www.amazon.it/dp/B08JGJHKFL/?tag=tolees00-21) a 21.99 EUR (original: 39.99 EUR) (45.01 %  de descuento) en el siguiente enlace!

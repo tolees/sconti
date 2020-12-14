@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08F25GS9X/?tag=tolees00-21'
 descuento: '61.93'
+average: '7.99'
 ---
 
 Tienes [UniqueMe [3 Pack] Pellicola Protettiva per Xiaomi Mi Note 10 / Note 10 PRO/Note 10 Lite Pellicola  [Fingerprint Disponibile] HD TPU Clear Full Cover Film](https://www.amazon.it/dp/B08F25GS9X/?tag=tolees00-21) con un 61.93 % de descuento con precio de oferta de 7.99 EUR (original: 20.99 EUR) en el siguiente enlace!

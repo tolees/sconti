@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TPPPTJF/?tag=tolees00-21'
 descuento: '50.00'
+average: '27.5'
 ---
 
 Está [Levi s Original Batwing Maglietta  Multicolore  HM Patch Polo Riverside/White/Mello 0010   X-Large Uomo](https://www.amazon.it/dp/B07TPPPTJF/?tag=tolees00-21) con 50.00 de descuento por 27.5 EUR (original: 55.0 EUR) en el siguiente enlace!

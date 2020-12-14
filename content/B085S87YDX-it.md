@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085S87YDX/?tag=tolees00-21'
 descuento: '31.48'
+average: '184.99'
 ---
 
 Está [Synology DiskStation DS220j - Server NAS a 2 vani e 2 dischi rigidi da 2 TB](https://www.amazon.it/dp/B085S87YDX/?tag=tolees00-21) con 31.48 de descuento por 184.99 EUR (original: 269.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0773V1LRK/?tag=tolees00-21'
 descuento: '42.89'
+average: '19.97'
 ---
 
 Tienes [72 Matite Colorate  Numerato  con Scatola in Metallo da Zenacolor - 72 Colori Unici per Disegnare e Libri da Colorare Adulti - Facile Accesso con 3 Vassoi - Regalo Ideale per Artisti  Adulti e Bambini](https://www.amazon.it/dp/B0773V1LRK/?tag=tolees00-21) con un 42.89 % de descuento con precio de oferta de 19.97 EUR (original: 34.97 EUR) en el siguiente enlace!

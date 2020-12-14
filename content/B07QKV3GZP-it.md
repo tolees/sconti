@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QKV3GZP/?tag=tolees00-21'
 descuento: '44.29'
+average: '38.99'
 ---
 
 Está [Star Wars Jedi Fallen Order - Xbox One](https://www.amazon.it/dp/B07QKV3GZP/?tag=tolees00-21) con 44.29 de descuento por 38.99 EUR (original: 69.99 EUR) en el siguiente enlace!

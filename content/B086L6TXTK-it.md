@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086L6TXTK/?tag=tolees00-21'
 descuento: '40.89'
+average: '1.59'
 ---
 
 Ahora mismo tienes [Pringles Pringles Original - 175 g](https://www.amazon.it/dp/B086L6TXTK/?tag=tolees00-21) a 1.59 EUR (original: 2.69 EUR) (40.89 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NXBH6Y2/?tag=tolees00-21'
 descuento: '50.02'
+average: '14.99'
 ---
 
 Tienes [Superdry Premium Goods Puff Entry Tee Maglietta  Blu  Supermarine Navy JZD   L  Taglia Produttore:14  Donna](https://www.amazon.it/dp/B07NXBH6Y2/?tag=tolees00-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21'
 descuento: '52.27'
+average: '15.75'
 ---
 
 Tienes [Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  all Hours  Button-Down-Shirts  Olive Bengal Stripe  US  EU XL-XXL ](https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21) con un 52.27 % de descuento con precio de oferta de 15.75 EUR (original: 33.0 EUR) en el siguiente enlace!

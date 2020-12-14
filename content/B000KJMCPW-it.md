@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000KJMCPW/?tag=tolees00-21'
 descuento: '37.09'
+average: '25.27375'
 ---
 
 Tienes [APLI 809741 Etichetta Poliestere  Confezione da 20 Pezzi](https://www.amazon.it/dp/B000KJMCPW/?tag=tolees00-21) con un 37.09 % de descuento con precio de oferta de 20.64 EUR (original: 32.81 EUR) en el siguiente enlace!

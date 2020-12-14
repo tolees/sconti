@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TQW6BVF/?tag=tolees00-21'
 descuento: '42.93'
+average: '59.9'
 ---
 
 Está [Clarks Hero Limit  Scarpe Stringate Derby Uomo  Marrone  British Tan Lea British Tan Lea   42 EU](https://www.amazon.it/dp/B07TQW6BVF/?tag=tolees00-21) con 42.93 de descuento por 59.9 EUR (original: 104.95 EUR) en el siguiente enlace!

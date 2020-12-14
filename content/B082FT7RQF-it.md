@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B082FT7RQF/?tag=tolees00-21'
 descuento: '35.00'
+average: '64.35'
 ---
 
 Ahora mismo tienes [Moschino Donna Borsa Nero MOD. MOS4085](https://www.amazon.it/dp/B082FT7RQF/?tag=tolees00-21) a 64.35 EUR (original: 99.0 EUR) (35.00 %  de descuento) en el siguiente enlace!

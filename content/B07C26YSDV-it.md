@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07C26YSDV/?tag=tolees00-21'
 descuento: '45.02'
+average: '16.49'
 ---
 
 Tienes [JACK & JONES Jjecorp Logo Sweat Hood Noos Cappuccio  Nero  Black Detail:Reg Fit   Medium Uomo](https://www.amazon.it/dp/B07C26YSDV/?tag=tolees00-21) con un 45.02 % de descuento con precio de oferta de 16.49 EUR (original: 29.99 EUR) en el siguiente enlace!

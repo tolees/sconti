@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000CNME22/?tag=tolees00-21'
 descuento: '74.01'
+average: '19.42709677419355'
 ---
 
 Está [Davidoff Zino Eau de Toilette  Uomo  125 ml](https://www.amazon.it/dp/B000CNME22/?tag=tolees00-21) con 74.01 de descuento por 19.99 EUR (original: 76.92 EUR) en el siguiente enlace!

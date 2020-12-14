@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06VSC4SCP/?tag=tolees00-21'
 descuento: '50.00'
+average: '34.5'
 ---
 
 Está [Sector No Limits Orologio Digitale Uomo con Cinturino in Silicone R3251571003](https://www.amazon.it/dp/B06VSC4SCP/?tag=tolees00-21) con 50.00 de descuento por 34.5 EUR (original: 69.0 EUR) en el siguiente enlace!

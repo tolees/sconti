@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BY3H53B/?tag=tolees00-21'
 descuento: '33.34'
+average: '79.99'
 ---
 
 Tienes [PARTU Purificatore d Aria HEPA Filtro con Filtro Aria a Carboni Attivi  Adatto a Casa e Ufficio  Rimuove 99 97% di Allergeni  Fumo  Polvere  Polline  Dander di Pet  Odore  Germi  Muffa  Senza ozono](https://www.amazon.it/dp/B07BY3H53B/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 79.99 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000KJPAZ6/?tag=tolees00-21'
 descuento: '59.27'
+average: '2.44'
 ---
 
 Tienes [Scotch Nastro Adesivo 3M  Trasparente Acrilico  15 mm x 33 m  Confezione Torretta da 10 Pezzi](https://www.amazon.it/dp/B000KJPAZ6/?tag=tolees00-21) con un 59.27 % de descuento con precio de oferta de 2.44 EUR (original: 5.99 EUR) en el siguiente enlace!

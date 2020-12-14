@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00D3HYGTI/?tag=tolees00-21'
 descuento: '48.36'
+average: '5.68'
 ---
 
 Tienes [Scholl Talloniera Comfort in Gel  Large - 1 Prodotto](https://www.amazon.it/dp/B00D3HYGTI/?tag=tolees00-21) con un 48.36 % de descuento con precio de oferta de 5.68 EUR (original: 11.0 EUR) en el siguiente enlace!

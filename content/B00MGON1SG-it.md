@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00MGON1SG/?tag=tolees00-21'
 descuento: '27.76'
+average: '32.53118644067796'
 ---
 
 Está [Eastpak Padded Pak r Zaino  40 cm  24 L  Grigio  Black Denim ](https://www.amazon.it/dp/B00MGON1SG/?tag=tolees00-21) con 27.76 de descuento por 36.12 EUR (original: 50.0 EUR) en el siguiente enlace!

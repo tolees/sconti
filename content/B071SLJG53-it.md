@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B071SLJG53/?tag=tolees00-21'
 descuento: '48.62'
+average: '30.83'
 ---
 
 Está [New Balance Pc574v1 Sneaker Unisex - Bambini  Nero  Black/grey   29 EU  11 UK ](https://www.amazon.it/dp/B071SLJG53/?tag=tolees00-21) con 48.62 de descuento por 30.83 EUR (original: 60.0 EUR) en el siguiente enlace!

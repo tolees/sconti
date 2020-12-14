@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073ZDGXJM/?tag=tolees00-21'
 descuento: '36.01'
+average: '15.99'
 ---
 
 Está [Remington Nano Series NE3870 Tagliapeli Igienico per Naso e Orecchie  Lithium  batteria](https://www.amazon.it/dp/B073ZDGXJM/?tag=tolees00-21) con 36.01 de descuento por 15.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01A0EO4WU/?tag=tolees00-21'
 descuento: '29.18'
+average: '317.98'
 ---
 
 Ahora mismo tienes [Hotpoint CS1A 300 H  Congelatore Orizziontale  Libera Installazione  312L  A+  42 dB  Bianco](https://www.amazon.it/dp/B01A0EO4WU/?tag=tolees00-21) a 317.98 EUR (original: 449.0 EUR) (29.18 %  de descuento) en el siguiente enlace!

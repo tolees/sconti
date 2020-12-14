@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TPWWLMG/?tag=tolees00-21'
 descuento: '75.77'
+average: '28.83'
 ---
 
 Está [United Colors of Benetton 2BA2535T5 Giacca  Turchese  Campanula 0n1   48 Donna](https://www.amazon.it/dp/B07TPWWLMG/?tag=tolees00-21) con 75.77 de descuento por 28.83 EUR (original: 119.0 EUR) en el siguiente enlace!

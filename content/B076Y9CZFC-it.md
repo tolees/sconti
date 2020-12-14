@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B076Y9CZFC/?tag=tolees00-21'
 descuento: '35.71'
+average: '22.5'
 ---
 
 Está [Levi s LS Graphic Tee - B Maglia a Maniche Lunghe  Bianco  Better White-White   Medium Uomo](https://www.amazon.it/dp/B076Y9CZFC/?tag=tolees00-21) con 35.71 de descuento por 22.5 EUR (original: 35.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00M3IWD3E/?tag=tolees00-21'
 descuento: '29.39'
+average: '69.9'
 ---
 
 Tienes [Nixon Analogico Quarzo Orologio da Polso A045-1920-00](https://www.amazon.it/dp/B00M3IWD3E/?tag=tolees00-21) con un 29.39 % de descuento con precio de oferta de 69.9 EUR (original: 99.0 EUR) en el siguiente enlace!

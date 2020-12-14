@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TJ9R8C8/?tag=tolees00-21'
 descuento: '50.00'
+average: '17.5'
 ---
 
 Ahora mismo tienes [Levi s T-Shirt  Multicolore  Authentic Colorblock Tee M.Heather Grey 0001   Large Uomo](https://www.amazon.it/dp/B07TJ9R8C8/?tag=tolees00-21) a 17.5 EUR (original: 35.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

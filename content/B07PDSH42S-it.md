@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PDSH42S/?tag=tolees00-21'
 descuento: '38.81'
+average: '4.73'
 ---
 
 Está [AmazonBasics - Evidenziatori a forma piatta allungata  colori assortiti  confezione da 8](https://www.amazon.it/dp/B07PDSH42S/?tag=tolees00-21) con 38.81 de descuento por 4.73 EUR (original: 7.73 EUR) en el siguiente enlace!

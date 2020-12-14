@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07B3WKRFM/?tag=tolees00-21'
 descuento: '30.65'
+average: '35.02'
 ---
 
 Está [Polaroid Eyewear PLD 2062/S Occhiali da Sole  Matt HVNA  50 Uomo](https://www.amazon.it/dp/B07B3WKRFM/?tag=tolees00-21) con 30.65 de descuento por 35.02 EUR (original: 50.5 EUR) en el siguiente enlace!

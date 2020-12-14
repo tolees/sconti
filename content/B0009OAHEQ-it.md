@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0009OAHEQ/?tag=tolees00-21'
 descuento: '47.30'
+average: '26.724'
 ---
 
 Tienes [Joop! JOOP! Homme Eau de Toilette  Uomo  125 ml](https://www.amazon.it/dp/B0009OAHEQ/?tag=tolees00-21) con un 47.30 % de descuento con precio de oferta de 24.69 EUR (original: 46.85 EUR) en el siguiente enlace!

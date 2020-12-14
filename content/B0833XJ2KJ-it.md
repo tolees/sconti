@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0833XJ2KJ/?tag=tolees00-21'
 descuento: '35.74'
+average: '8.99'
 ---
 
 Está [Netac 64G Chiavetta USB 3.0，Rotazione a 360 ° Pen Drive，USB Flash Drive velocità di Lettura Fino a 90 MB/s，Thumb Drive Memoria Stick](https://www.amazon.it/dp/B0833XJ2KJ/?tag=tolees00-21) con 35.74 de descuento por 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!

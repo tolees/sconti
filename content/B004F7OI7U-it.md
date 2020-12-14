@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B004F7OI7U/?tag=tolees00-21'
 descuento: '64.76'
+average: '19.03'
 ---
 
 Tienes [Alessi AKK80/13 Mini Girotondo - Sottobicchiere anti-umidità in acciaio INOX 18/10 a finitura lucida](https://www.amazon.it/dp/B004F7OI7U/?tag=tolees00-21) con un 64.76 % de descuento con precio de oferta de 19.03 EUR (original: 54.0 EUR) en el siguiente enlace!

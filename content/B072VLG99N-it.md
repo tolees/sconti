@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072VLG99N/?tag=tolees00-21'
 descuento: '78.17'
+average: '5.0'
 ---
 
 Tienes [Bialetti Fiammetta Bialetti Moka Fiammetta  Caffettiera 1 Tazza  Azzurro Fluo  Alluminio  Azzurro Fluo  1 Tazza  1 Unità](https://www.amazon.it/dp/B072VLG99N/?tag=tolees00-21) con un 78.17 % de descuento con precio de oferta de 5.0 EUR (original: 22.9 EUR) en el siguiente enlace!

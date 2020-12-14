@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01L41IBQ8/?tag=tolees00-21'
 descuento: '30.20'
+average: '15.0'
 ---
 
 Ahora mismo tienes [Caffè Borbone Cialde Miscela Rossa - Confezione da 100 Cialde - 720 g](https://www.amazon.it/dp/B01L41IBQ8/?tag=tolees00-21) a 15.0 EUR (original: 21.49 EUR) (30.20 %  de descuento) en el siguiente enlace!

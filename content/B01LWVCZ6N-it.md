@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LWVCZ6N/?tag=tolees00-21'
 descuento: '25.00'
+average: '59.99'
 ---
 
 Está [Seagate IronWolf  Unità SATA da 6 Gbit/s da 2 TB  HDD  CMR 3 5" 5.900 giri/min  Cache da 256 MB per NAS con Sistema RAID  Pacchetto di Facile Apertura  ST2000VN004 ](https://www.amazon.it/dp/B01LWVCZ6N/?tag=tolees00-21) con 25.00 de descuento por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TYH6CZT/?tag=tolees00-21'
 descuento: '32.50'
+average: '13.5'
 ---
 
 Está [Levi s Graphic Tee T-Shirt  Bianco  Boxtab SS T2 White 0000   X-Large Uomo](https://www.amazon.it/dp/B07TYH6CZT/?tag=tolees00-21) con 32.50 de descuento por 13.5 EUR (original: 20.0 EUR) en el siguiente enlace!

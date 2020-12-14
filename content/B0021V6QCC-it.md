@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0021V6QCC/?tag=tolees00-21'
 descuento: '56.32'
+average: '2.8'
 ---
 
 Tienes [Giotto Stilnovo - Astuccio 12 Pastelli  Multicolore](https://www.amazon.it/dp/B0021V6QCC/?tag=tolees00-21) con un 56.32 % de descuento con precio de oferta de 2.8 EUR (original: 6.41 EUR) en el siguiente enlace!

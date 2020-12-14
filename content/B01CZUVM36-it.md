@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01CZUVM36/?tag=tolees00-21'
 descuento: '39.77'
+average: '47.49666666666667'
 ---
 
 Está [American Tourister - Funshine Spinner Bagaglio a mano  Unisex  Poliestere  Blu  Orion Blue   36 litri  55 cm](https://www.amazon.it/dp/B01CZUVM36/?tag=tolees00-21) con 39.77 de descuento por 48.12 EUR (original: 79.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086BHDHR5/?tag=tolees00-21'
 descuento: '33.22'
+average: '399.99'
 ---
 
 Está [LG 34WN750 Monitor 34" QuadHD UltraWide 21:9 LED IPS HDR  3440x1440  Radeon FreeSync 75Hz  Audio Stereo 14W  2x HDMI  1x Display Port 1.4  3x USB 3.0  Altezza Regolabile  Flicker Safe  Nero](https://www.amazon.it/dp/B086BHDHR5/?tag=tolees00-21) con 33.22 de descuento por 399.99 EUR (original: 599.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N8OOB5J/?tag=tolees00-21'
 descuento: '44.97'
+average: '10.95'
 ---
 
 Ahora mismo tienes [Asmodee 8731-Blood Rage: Dèi di Asgard  Ed. Italiana  8731](https://www.amazon.it/dp/B01N8OOB5J/?tag=tolees00-21) a 10.95 EUR (original: 19.9 EUR) (44.97 %  de descuento) en el siguiente enlace!

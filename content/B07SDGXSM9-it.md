@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SDGXSM9/?tag=tolees00-21'
 descuento: '56.37'
+average: '11.78'
 ---
 
 Está [Control Xtra Lube  24 Profilattici Extra Lubrificati  Standard](https://www.amazon.it/dp/B07SDGXSM9/?tag=tolees00-21) con 56.37 de descuento por 11.78 EUR (original: 27.0 EUR) en el siguiente enlace!

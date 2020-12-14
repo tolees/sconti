@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MYY7VL5/?tag=tolees00-21'
 descuento: '34.89'
+average: '12.99'
 ---
 
 Está [G-STAR RAW Eyben Slim V T Wmn S/s T-Shirt  Bianco  White 110   Medium Donna](https://www.amazon.it/dp/B01MYY7VL5/?tag=tolees00-21) con 34.89 de descuento por 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!

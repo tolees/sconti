@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078LTJ3HX/?tag=tolees00-21'
 descuento: '25.01'
+average: '37.46'
 ---
 
 Tienes [Outsunny Prato Sintetico per Giardino Set di 10pz Erba Finta Artificiale Esterno](https://www.amazon.it/dp/B078LTJ3HX/?tag=tolees00-21) con un 25.01 % de descuento con precio de oferta de 37.46 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S4LQ1CT/?tag=tolees00-21'
 descuento: '73.32'
+average: '7.2'
 ---
 
 Tienes [Hasbro Gaming Pierino il Porcospino Gioco in Scatola con Dardi  Multicolore  E5702](https://www.amazon.it/dp/B07S4LQ1CT/?tag=tolees00-21) con un 73.32 % de descuento con precio de oferta de 7.2 EUR (original: 26.99 EUR) en el siguiente enlace!

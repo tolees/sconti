@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00NBR70DO/?tag=tolees00-21'
 descuento: '33.40'
+average: '9.99'
 ---
 
 Está [Sony MDR-ZX110 - Cuffie on-ear  Nero](https://www.amazon.it/dp/B00NBR70DO/?tag=tolees00-21) con 33.40 de descuento por 9.99 EUR (original: 15.0 EUR) en el siguiente enlace!

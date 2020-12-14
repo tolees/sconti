@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081TPMPZS/?tag=tolees00-21'
 descuento: '55.67'
+average: '31.01'
 ---
 
 Tienes [adidas 3stripe Wrap TT Felpa  Uomo  Black/White  S](https://www.amazon.it/dp/B081TPMPZS/?tag=tolees00-21) con un 55.67 % de descuento con precio de oferta de 31.01 EUR (original: 69.95 EUR) en el siguiente enlace!

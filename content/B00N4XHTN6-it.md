@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00N4XHTN6/?tag=tolees00-21'
 descuento: '54.51'
+average: '54.54'
 ---
 
 Está [Keter 68X39X173H Stilo Tall - Armadio tuttopiani  3 ripiani regolabili  Grigio](https://www.amazon.it/dp/B00N4XHTN6/?tag=tolees00-21) con 54.51 de descuento por 54.54 EUR (original: 119.9 EUR) en el siguiente enlace!

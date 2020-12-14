@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073HBNC2D/?tag=tolees00-21'
 descuento: '38.42'
+average: '6.3'
 ---
 
 Tienes [Maybelline New York Superstay Matte Ink Rossetto Matte Liquido Tinta Labbra a Lunga Tenuta  15 Lover](https://www.amazon.it/dp/B073HBNC2D/?tag=tolees00-21) con un 38.42 % de descuento con precio de oferta de 6.3 EUR (original: 10.23 EUR) en el siguiente enlace!

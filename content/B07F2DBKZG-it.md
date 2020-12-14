@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F2DBKZG/?tag=tolees00-21'
 descuento: '50.00'
+average: '45.0'
 ---
 
 Tienes [Timberland Gateway Pier Casual  Scarpe Oxford Uomo  Grigio Medium Grey Canvas  43.5 EU](https://www.amazon.it/dp/B07F2DBKZG/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 45.0 EUR (original: 90.0 EUR) en el siguiente enlace!

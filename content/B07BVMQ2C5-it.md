@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BVMQ2C5/?tag=tolees00-21'
 descuento: '51.71'
+average: '32.5'
 ---
 
 Ahora mismo tienes [Frontline | TriAct Spot On Cani| Protezione da pulci  zecche  mosche cavalline pappataci | 6 Pipette | Cane XL  40 - 60 Kg ](https://www.amazon.it/dp/B07BVMQ2C5/?tag=tolees00-21) a 32.5 EUR (original: 67.3 EUR) (51.71 %  de descuento) en el siguiente enlace!

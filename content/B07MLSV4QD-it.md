@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MLSV4QD/?tag=tolees00-21'
 descuento: '56.21'
+average: '35.01'
 ---
 
 Ahora mismo tienes [Clarks Step Welt Free  Scarpe da Ginnastica Uomo  Verde Kaki  44 EU](https://www.amazon.it/dp/B07MLSV4QD/?tag=tolees00-21) a 35.01 EUR (original: 79.95 EUR) (56.21 %  de descuento) en el siguiente enlace!

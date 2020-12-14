@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21'
 descuento: '60.06'
+average: '3.99'
 ---
 
 Está [Binary Domain](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21) con 60.06 de descuento por 3.99 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QZTHMHC/?tag=tolees00-21'
 descuento: '56.10'
+average: '21.95'
 ---
 
 Está [Under Armour Challenger III Midlayer  Maglia a Maniche Lunghe Uomo  Nero  Black - 001   SM](https://www.amazon.it/dp/B07QZTHMHC/?tag=tolees00-21) con 56.10 de descuento por 21.95 EUR (original: 50.0 EUR) en el siguiente enlace!

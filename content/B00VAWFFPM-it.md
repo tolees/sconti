@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00VAWFFPM/?tag=tolees00-21'
 descuento: '36.17'
+average: '149.99'
 ---
 
 Tienes [HP - HP Stampanti Office Jet Pro 9022 Stampante Multifunzione  Stampa  Copia  Scansione  Fax  Bianco/Nero](https://www.amazon.it/dp/B00VAWFFPM/?tag=tolees00-21) con un 36.17 % de descuento con precio de oferta de 149.99 EUR (original: 235.0 EUR) en el siguiente enlace!

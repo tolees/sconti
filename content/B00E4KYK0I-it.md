@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00E4KYK0I/?tag=tolees00-21'
 descuento: '39.51'
+average: '1.99'
 ---
 
 Está [Neutro Roberts Deodorante Dermazero Stick - 40 ml](https://www.amazon.it/dp/B00E4KYK0I/?tag=tolees00-21) con 39.51 de descuento por 1.99 EUR (original: 3.29 EUR) en el siguiente enlace!

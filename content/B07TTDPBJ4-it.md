@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TTDPBJ4/?tag=tolees00-21'
 descuento: '46.73'
+average: '399.0'
 ---
 
 Ahora mismo tienes [Samsung DV80M5010KW Asciugatrice 8 kg  1200 rpm  Bianco](https://www.amazon.it/dp/B07TTDPBJ4/?tag=tolees00-21) a 399.0 EUR (original: 749.0 EUR) (46.73 %  de descuento) en el siguiente enlace!

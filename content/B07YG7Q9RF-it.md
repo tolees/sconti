@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YG7Q9RF/?tag=tolees00-21'
 descuento: '57.70'
+average: '54.99'
 ---
 
 Ahora mismo tienes [Pillars of Eternity II: Deadfire Ultimate Collector s Edition - Collector s Limited - PlayStation 4](https://www.amazon.it/dp/B07YG7Q9RF/?tag=tolees00-21) a 54.99 EUR (original: 129.99 EUR) (57.70 %  de descuento) en el siguiente enlace!

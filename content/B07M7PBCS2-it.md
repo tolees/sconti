@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07M7PBCS2/?tag=tolees00-21'
 descuento: '52.08'
+average: '47.9'
 ---
 
 Está [Fitbit Ace 2  Activity Tracker Unisex Bambino  Rosso Anguria/Verde  Taglia unica](https://www.amazon.it/dp/B07M7PBCS2/?tag=tolees00-21) con 52.08 de descuento por 47.9 EUR (original: 99.96 EUR) en el siguiente enlace!

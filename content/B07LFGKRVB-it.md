@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07LFGKRVB/?tag=tolees00-21'
 descuento: '31.46'
+average: '23.99'
 ---
 
 Está [Levi s 2pk Crewneck Graphic T-Shirt  Multicolore  2 Pack SW White/Mineral Black 0000   Small Uomo](https://www.amazon.it/dp/B07LFGKRVB/?tag=tolees00-21) con 31.46 de descuento por 23.99 EUR (original: 35.0 EUR) en el siguiente enlace!

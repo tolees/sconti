@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B002LZUAFM/?tag=tolees00-21'
 descuento: '41.35'
+average: '167.0'
 ---
 
 Ahora mismo tienes [Orologio Emporio Armani AR2434](https://www.amazon.it/dp/B002LZUAFM/?tag=tolees00-21) a 167.0 EUR (original: 284.74 EUR) (41.35 %  de descuento) en el siguiente enlace!

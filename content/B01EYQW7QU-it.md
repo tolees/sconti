@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01EYQW7QU/?tag=tolees00-21'
 descuento: '40.04'
+average: '5.965'
 ---
 
 Ahora mismo tienes [Bilboa Carrot Plus Latte Spf 6-200 ml](https://www.amazon.it/dp/B01EYQW7QU/?tag=tolees00-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!

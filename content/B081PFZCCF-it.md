@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081PFZCCF/?tag=tolees00-21'
 descuento: '59.20'
+average: '28.97'
 ---
 
 Tienes [Nike Dri-Fit Strike  Felpa con Cappuccio E Zip A Tutta Lunghezza Uomo  Black/Black/Black/Black  2XL](https://www.amazon.it/dp/B081PFZCCF/?tag=tolees00-21) con un 59.20 % de descuento con precio de oferta de 28.97 EUR (original: 71.0 EUR) en el siguiente enlace!

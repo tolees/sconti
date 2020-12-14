@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VHW37KD/?tag=tolees00-21'
 descuento: '36.10'
+average: '31.95'
 ---
 
 Ahora mismo tienes [Desigual Bols Luna Rock Loverty - Borsa con manico  14 x 24 x 33 cm  Blu  Blu  Marino    14x24x33 cm  B x H x T ](https://www.amazon.it/dp/B07VHW37KD/?tag=tolees00-21) a 31.95 EUR (original: 50.0 EUR) (36.10 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ECEVEP0/?tag=tolees00-21'
 descuento: '30.16'
+average: '46.49'
 ---
 
 Tienes [SanDisk Extreme Pro CompactFlash Scheda di Memoria 32 GB  160 MB/s](https://www.amazon.it/dp/B00ECEVEP0/?tag=tolees00-21) con un 30.16 % de descuento con precio de oferta de 43.99 EUR (original: 62.99 EUR) en el siguiente enlace!
@@ -25,9 +26,9 @@ Tienes [SanDisk Extreme Pro CompactFlash Scheda di Memoria 32 GB  160 MB/s](http
 ℹ️:
 
 - Capacità: 32 GB
-- Impermeabile, resistente agli urti e ai raggi X
 - Serie: SanDisk Extreme Pro Compact Flash
 - Fattore forma: CF
+- Impermeabile, resistente agli urti e ai raggi X
 - Ideale per fotografi professionisti, fotocamere reflex e tutti i professionisti che richiedono video in alta definizione e fanno uso intensivo delle proprie apparecchiature
 - Velocità di lettura: fino a 160 MB/s
 

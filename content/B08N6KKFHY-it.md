@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08N6KKFHY/?tag=tolees00-21'
 descuento: '29.99'
+average: '31.47'
 ---
 
 Ahora mismo tienes [goldenpoint Giacca da Donna Micropile Rombi](https://www.amazon.it/dp/B08N6KKFHY/?tag=tolees00-21) a 31.47 EUR (original: 44.95 EUR) (29.99 %  de descuento) en el siguiente enlace!
@@ -24,10 +25,10 @@ Ahora mismo tienes [goldenpoint Giacca da Donna Micropile Rombi](https://www.ama
 
 🔎:
 
+- Disponibile in taglia S-M-L
 - Giacca Homewear
 - Apertura con bottoni
-- Giacca con cappuccio
 - Tessuto in micropile
-- Disponibile in taglia S-M-L
+- Giacca con cappuccio
 
 [Visítala!!!](https://www.amazon.it/dp/B08N6KKFHY/?tag=tolees00-21)

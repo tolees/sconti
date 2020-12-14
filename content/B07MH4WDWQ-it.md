@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MH4WDWQ/?tag=tolees00-21'
 descuento: '36.84'
+average: '6.31'
 ---
 
 Ahora mismo tienes [Garnier Bio Crema Contorno Occhi Naturale Bio Lavanda Rigenerante  Contorno Occhi Anti-età  Formula alla Lavanda  15 ml  Confezione da 1](https://www.amazon.it/dp/B07MH4WDWQ/?tag=tolees00-21) a 6.31 EUR (original: 9.99 EUR) (36.84 %  de descuento) en el siguiente enlace!

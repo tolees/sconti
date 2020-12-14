@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072BM9MM9/?tag=tolees00-21'
 descuento: '29.99'
+average: '41.03666666666666'
 ---
 
 Tienes [homcom Outsunny Colonnine Separacode Colonnina Segnapercorso con Nastro Nero  in Acciaio Inox  Ф32 x 90CM](https://www.amazon.it/dp/B072BM9MM9/?tag=tolees00-21) con un 29.99 % de descuento con precio de oferta de 39.87 EUR (original: 56.95 EUR) en el siguiente enlace!

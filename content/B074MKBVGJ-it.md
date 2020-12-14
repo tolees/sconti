@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B074MKBVGJ/?tag=tolees00-21'
 descuento: '60.00'
+average: '7.2'
 ---
 
 Ahora mismo tienes [Havaianas Brasil Logo  Infradito Unisex-Bambini  Nero Black  25/26 EU](https://www.amazon.it/dp/B074MKBVGJ/?tag=tolees00-21) a 7.2 EUR (original: 18.0 EUR) (60.00 %  de descuento) en el siguiente enlace!

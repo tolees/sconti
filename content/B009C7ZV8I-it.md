@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B009C7ZV8I/?tag=tolees00-21'
 descuento: '38.99'
+average: '10.31'
 ---
 
 Tienes [JBL  biocondizionatore per Pesci Rossi Biotopol R  Confezione da 250 ml](https://www.amazon.it/dp/B009C7ZV8I/?tag=tolees00-21) con un 38.99 % de descuento con precio de oferta de 10.31 EUR (original: 16.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085XY4N2S/?tag=tolees00-21'
 descuento: '26.20'
+average: '389.495'
 ---
 
 Está [Electrolux PA91-404GY Purificatore d aria connesso con protezione antibatteria e filtro agli odori sgradevoli  fino a 92 mq  Grigio Chiaro](https://www.amazon.it/dp/B085XY4N2S/?tag=tolees00-21) con 26.20 de descuento por 369.0 EUR (original: 499.99 EUR) en el siguiente enlace!

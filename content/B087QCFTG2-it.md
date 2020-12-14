@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087QCFTG2/?tag=tolees00-21'
 descuento: '41.78'
+average: '45.99'
 ---
 
 Ahora mismo tienes [Auricolari bluetooth Orit Cuffie Bluetooth 5.0 Senza Fili con Lettore MP3 Multifunzione  Touchscreen LCD da 2 0"  Stereo HD Cuffie wireless con Microfono impermeabile IPX7 per Android  IOS](https://www.amazon.it/dp/B087QCFTG2/?tag=tolees00-21) a 45.99 EUR (original: 78.99 EUR) (41.78 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07B9LL9NQ/?tag=tolees00-21'
 descuento: '50.01'
+average: '29.99'
 ---
 
 Está [JBL CLIP 3 Speaker Wireless Bluetooth  Altoparlante Portatile Impermeabile  IPX7  con moschettone integrato  Microfono con cancellazione di eco e rumori  Rosso](https://www.amazon.it/dp/B07B9LL9NQ/?tag=tolees00-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

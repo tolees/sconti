@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21'
 descuento: '30.60'
+average: '39.9'
 ---
 
 Tienes [Ht25N Multimetro Digitale Multifunzione Com Hr0002](https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21) con un 30.60 % de descuento con precio de oferta de 39.9 EUR (original: 57.49 EUR) en el siguiente enlace!

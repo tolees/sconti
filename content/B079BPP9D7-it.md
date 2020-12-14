@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B079BPP9D7/?tag=tolees00-21'
 descuento: '52.55'
+average: '27.99'
 ---
 
 Ahora mismo tienes [Ponkor Alimentatore per Xbox One [Versione QUIETEST] Xbox One Power Supply Brick CA Adapter Cavo di Alimentazione Caricabatterie di Ricambio di per Microsoft Xbox 1](https://www.amazon.it/dp/B079BPP9D7/?tag=tolees00-21) a 27.99 EUR (original: 58.99 EUR) (52.55 %  de descuento) en el siguiente enlace!

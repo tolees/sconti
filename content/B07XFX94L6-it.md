@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XFX94L6/?tag=tolees00-21'
 descuento: '27.83'
+average: '36.05'
 ---
 
 Ahora mismo tienes [Puma Amplified Crew Sweat TR  Felpa Donna  Black  L](https://www.amazon.it/dp/B07XFX94L6/?tag=tolees00-21) a 36.05 EUR (original: 49.95 EUR) (27.83 %  de descuento) en el siguiente enlace!

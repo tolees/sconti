@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BD7GM00/?tag=tolees00-21'
 descuento: '44.47'
+average: '9.39'
 ---
 
 Ahora mismo tienes [Swiffer Kit con 1 Scopa + 8 Panni per Pavimenti e 1 Piumino + 1 Ricambio  Ottimo per Peli di Animali](https://www.amazon.it/dp/B01BD7GM00/?tag=tolees00-21) a 9.99 EUR (original: 17.99 EUR) (44.47 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01EYSS22Q/?tag=tolees00-21'
 descuento: '53.65'
+average: '13.9'
 ---
 
 Ahora mismo tienes [Creed Nato Per Combattere  4K Ultra Hd + Blu-Ray + Copia Digitale ](https://www.amazon.it/dp/B01EYSS22Q/?tag=tolees00-21) a 13.9 EUR (original: 29.99 EUR) (53.65 %  de descuento) en el siguiente enlace!

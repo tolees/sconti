@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21'
 descuento: '72.47'
+average: '13.99'
 ---
 
 Está [Assassin S Creed Origins](https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21) con 72.47 de descuento por 13.99 EUR (original: 50.82 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LW6ZPIM/?tag=tolees00-21'
 descuento: '49.98'
+average: '49.99'
 ---
 
 Está [Beats EP Cuffie con filo – Senza batteria per ascoltare musica non stop  controlli e microfono integrati – Bianco](https://www.amazon.it/dp/B01LW6ZPIM/?tag=tolees00-21) con 49.98 de descuento por 49.99 EUR (original: 99.95 EUR) en el siguiente enlace!

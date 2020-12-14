@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21'
 descuento: '55.66'
+average: '50.99'
 ---
 
 Ahora mismo tienes [Levi s Innovation Super Skinny Jeans  Blu  Globe Trotter 0065   25W / 32L Donna](https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21) a 50.99 EUR (original: 115.0 EUR) (55.66 %  de descuento) en el siguiente enlace!

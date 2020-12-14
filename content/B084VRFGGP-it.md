@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084VRFGGP/?tag=tolees00-21'
 descuento: '54.22'
+average: '4.99'
 ---
 
 Tienes [MS Windows 10 Pro 32 bit e 64 bit - Chiave di Licenza Originale per Posta e E-Mail + Guida di TPFNet® - Spedizione max. 60min](https://www.amazon.it/dp/B084VRFGGP/?tag=tolees00-21) con un 54.22 % de descuento con precio de oferta de 4.99 EUR (original: 10.9 EUR) en el siguiente enlace!

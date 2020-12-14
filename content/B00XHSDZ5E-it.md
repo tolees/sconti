@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00XHSDZ5E/?tag=tolees00-21'
 descuento: '25.13'
+average: '1.49'
 ---
 
 Ahora mismo tienes [Det. Liquido Yogurt Aloe 300 Ml](https://www.amazon.it/dp/B00XHSDZ5E/?tag=tolees00-21) a 1.49 EUR (original: 1.99 EUR) (25.13 %  de descuento) en el siguiente enlace!

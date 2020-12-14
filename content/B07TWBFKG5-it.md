@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TWBFKG5/?tag=tolees00-21'
 descuento: '50.00'
+average: '32.5'
 ---
 
 Tienes [Levi s Deconstructed PL Gonna  Blu  Gateway Skirt Plus 0013   20 Donna](https://www.amazon.it/dp/B07TWBFKG5/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 32.5 EUR (original: 65.0 EUR) en el siguiente enlace!

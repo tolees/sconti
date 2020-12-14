@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07J178KBH/?tag=tolees00-21'
 descuento: '65.58'
+average: '68.49'
 ---
 
 Ahora mismo tienes [SEAC Driver  Computer da Polso per Immersioni in Apnea con Download Dati Unisex Adulto  Nero  Standard](https://www.amazon.it/dp/B07J178KBH/?tag=tolees00-21) a 68.49 EUR (original: 199.0 EUR) (65.58 %  de descuento) en el siguiente enlace!

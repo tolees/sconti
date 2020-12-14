@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21'
 descuento: '54.98'
+average: '13.5'
 ---
 
 Está [Sully  4K + Br + Dig.Copy ](https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21) con 54.98 de descuento por 13.5 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00M6TJMT8/?tag=tolees00-21'
 descuento: '67.22'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Pen Drive 128 gb USB 3.0 Philips FM12FD75B chiavetta flash drive  128gb  pendrive memoria USB](https://www.amazon.it/dp/B00M6TJMT8/?tag=tolees00-21) a 19.99 EUR (original: 60.99 EUR) (67.22 %  de descuento) en el siguiente enlace!

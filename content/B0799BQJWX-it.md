@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0799BQJWX/?tag=tolees00-21'
 descuento: '25.02'
+average: '149.86'
 ---
 
 Está [ESDDI Studio Fotografico Kit di Illuminazione 3x2.6M con Sistema di Supporto per Sfondo  800W 5500K Ombrello  Softbox  Continua Fotografia Kit](https://www.amazon.it/dp/B0799BQJWX/?tag=tolees00-21) con 25.02 de descuento por 149.86 EUR (original: 199.86 EUR) en el siguiente enlace!

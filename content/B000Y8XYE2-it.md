@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000Y8XYE2/?tag=tolees00-21'
 descuento: '44.29'
+average: '9.9'
 ---
 
 Está [STANLEY - 1-93-330 Borsa porta utensili  30 x 25 x 13 cm  il design può variare  1 pezzo](https://www.amazon.it/dp/B000Y8XYE2/?tag=tolees00-21) con 44.29 de descuento por 9.9 EUR (original: 17.77 EUR) en el siguiente enlace!

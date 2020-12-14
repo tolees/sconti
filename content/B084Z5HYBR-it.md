@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084Z5HYBR/?tag=tolees00-21'
 descuento: '48.69'
+average: '61.5'
 ---
 
 Ahora mismo tienes [Set di 3 valigie rigide con manico estraibile e comode maniglie  valigetta da viaggio con ruote  leggera. Lampada a forma di pentola color oro rosa. M + L + XL](https://www.amazon.it/dp/B084Z5HYBR/?tag=tolees00-21) a 61.5 EUR (original: 119.87 EUR) (48.69 %  de descuento) en el siguiente enlace!

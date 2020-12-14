@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08232KNLX/?tag=tolees00-21'
 descuento: '48.79'
+average: '39.63'
 ---
 
 Tienes [The Protein Works Matrix Massa Totale Extreme  Tiramisu Italiano - 4240 Gr](https://www.amazon.it/dp/B08232KNLX/?tag=tolees00-21) con un 48.79 % de descuento con precio de oferta de 39.63 EUR (original: 77.39 EUR) en el siguiente enlace!

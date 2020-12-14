@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QD9PDXM/?tag=tolees00-21'
 descuento: '25.25'
+average: '14.95'
 ---
 
 Está [Adidas EC Org  Apparel Accessories Uomo  Black  Taglia Unica](https://www.amazon.it/dp/B07QD9PDXM/?tag=tolees00-21) con 25.25 de descuento por 14.95 EUR (original: 20.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06W5KYR22/?tag=tolees00-21'
 descuento: '32.75'
+average: '269.0'
 ---
 
 Tienes [Kenwood KMX750WH Impastatrice Planetaria Kitchen Machine kMix  Robot da Cucina Mixer  1000 W  6 velocità  5 Litri  Acciaio  Plastica  Bianco](https://www.amazon.it/dp/B06W5KYR22/?tag=tolees00-21) con un 32.75 % de descuento con precio de oferta de 269.0 EUR (original: 400.0 EUR) en el siguiente enlace!

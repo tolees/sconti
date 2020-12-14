@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073BXN2G5/?tag=tolees00-21'
 descuento: '31.88'
+average: '55.95'
 ---
 
 Ahora mismo tienes [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Blue Navy Silver 4  42.5 EU](https://www.amazon.it/dp/B073BXN2G5/?tag=tolees00-21) a 55.95 EUR (original: 82.14 EUR) (31.88 %  de descuento) en el siguiente enlace!

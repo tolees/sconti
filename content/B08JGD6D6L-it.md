@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08JGD6D6L/?tag=tolees00-21'
 descuento: '48.97'
+average: '19.9'
 ---
 
 Ahora mismo tienes [Lasuki Supporto per Tablet Regolabile a 360° con Braccio in Acciaio e Morsetto per Tablet da 4 a 10 6 cm per upporto per iPad/iPhone/Nintendo Switch/Samsung Tab/Huawei](https://www.amazon.it/dp/B08JGD6D6L/?tag=tolees00-21) a 19.9 EUR (original: 39.0 EUR) (48.97 %  de descuento) en el siguiente enlace!

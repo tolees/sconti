@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072K2G5XQ/?tag=tolees00-21'
 descuento: '33.62'
+average: '13.27'
 ---
 
 Está [Philips SHQ1255TBK/00 Cuffie Auricolari Sportive in Ear  Suono Potente  Stanghetta per Orecchio Stabile  Microfono Integrato  Design Acustico Aperto  Leggere  Nero](https://www.amazon.it/dp/B072K2G5XQ/?tag=tolees00-21) con 33.62 de descuento por 13.27 EUR (original: 19.99 EUR) en el siguiente enlace!

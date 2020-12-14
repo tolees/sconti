@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XHCDR3M/?tag=tolees00-21'
 descuento: '30.01'
+average: '34.99'
 ---
 
 Está [Xiaomi Desk Lamp 1S  Lampada Smart a LED da Scrivania  4 Modalità di Luce  Temperatura Colore Regolabile  Controllabile in Remoto](https://www.amazon.it/dp/B07XHCDR3M/?tag=tolees00-21) con 30.01 de descuento por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!

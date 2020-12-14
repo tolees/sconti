@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B079K2MCHH/?tag=tolees00-21'
 descuento: '42.61'
+average: '5.4'
 ---
 
 Tienes [rimmel FONDO TINTA - 1 pezzi](https://www.amazon.it/dp/B079K2MCHH/?tag=tolees00-21) con un 42.61 % de descuento con precio de oferta de 5.4 EUR (original: 9.41 EUR) en el siguiente enlace!

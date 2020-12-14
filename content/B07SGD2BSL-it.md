@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SGD2BSL/?tag=tolees00-21'
 descuento: '25.01'
+average: '28.989999999999995'
 ---
 
 Tienes [Compressore Portatile per Auto Aria Compressa Pompa Elettrica 150PSI Pressione Gonfiatore Digitale con Luce LED per Gonfiare Le Gomme delle Moto e delle Auto  Palloni  Canotti ECC  Style 1 ](https://www.amazon.it/dp/B07SGD2BSL/?tag=tolees00-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

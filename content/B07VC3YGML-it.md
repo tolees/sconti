@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VC3YGML/?tag=tolees00-21'
 descuento: '59.68'
+average: '16.015'
 ---
 
 Está [Calvin Klein 35mm Essential Belt Cintura  Marrone  Dark Tan Gae   2  Taglia Produttore: 80  Uomo](https://www.amazon.it/dp/B07VC3YGML/?tag=tolees00-21) con 59.68 de descuento por 15.68 EUR (original: 38.89 EUR) en el siguiente enlace!

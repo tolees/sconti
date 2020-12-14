@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BS63XQN/?tag=tolees00-21'
 descuento: '33.36'
+average: '10.323333333333334'
 ---
 
 Ahora mismo tienes [Az Ricerca Dentifricio 3D White Luxe Perfezione  Confezione da 6 Pezzi](https://www.amazon.it/dp/B08BS63XQN/?tag=tolees00-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

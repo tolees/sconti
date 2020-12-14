@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B013SXJL0K/?tag=tolees00-21'
 descuento: '33.27'
+average: '21.68'
 ---
 
 Está [Calvin Klein Eternity for Men Eau de Toilette  30 ml](https://www.amazon.it/dp/B013SXJL0K/?tag=tolees00-21) con 33.27 de descuento por 21.68 EUR (original: 32.49 EUR) en el siguiente enlace!

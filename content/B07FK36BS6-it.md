@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FK36BS6/?tag=tolees00-21'
 descuento: '44.57'
+average: '31.78'
 ---
 
 Está [find. Slouch Stivaletti  Marrone Caramel   41 EU](https://www.amazon.it/dp/B07FK36BS6/?tag=tolees00-21) con 44.57 de descuento por 31.78 EUR (original: 57.33 EUR) en el siguiente enlace!

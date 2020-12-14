@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01AWNSNEE/?tag=tolees00-21'
 descuento: '26.14'
+average: '5.99'
 ---
 
 Está [Listerine - Collutorio Advanced white  2 pezzi  500 ml x 2 ](https://www.amazon.it/dp/B01AWNSNEE/?tag=tolees00-21) con 26.14 de descuento por 5.99 EUR (original: 8.11 EUR) en el siguiente enlace!

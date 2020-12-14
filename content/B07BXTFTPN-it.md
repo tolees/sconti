@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BXTFTPN/?tag=tolees00-21'
 descuento: '60.32'
+average: '11.9'
 ---
 
 Está [Ready Player One  4K+Br ](https://www.amazon.it/dp/B07BXTFTPN/?tag=tolees00-21) con 60.32 de descuento por 11.9 EUR (original: 29.99 EUR) en el siguiente enlace!

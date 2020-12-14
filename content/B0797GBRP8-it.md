@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0797GBRP8/?tag=tolees00-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Está [Lampada UV LED Unghie  Carttiya Asciuga Unghie per Smalto UV LED in Gel  con Automatico Sensore a Infrarossi e Display LCD per Manicure/ Pedicure Nail art a Casa o Salone  12W  Bianco](https://www.amazon.it/dp/B0797GBRP8/?tag=tolees00-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

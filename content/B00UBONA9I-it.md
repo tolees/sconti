@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00UBONA9I/?tag=tolees00-21'
 descuento: '50.17'
+average: '14.9'
 ---
 
 Tienes [Tommy Hilfiger Cotton CN Tee SS Icon Maglietta  Bianco  Classic White 100   S Uomo](https://www.amazon.it/dp/B00UBONA9I/?tag=tolees00-21) con un 50.17 % de descuento con precio de oferta de 14.9 EUR (original: 29.9 EUR) en el siguiente enlace!

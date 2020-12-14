@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B079QGD5RH/?tag=tolees00-21'
 descuento: '40.87'
+average: '53.22'
 ---
 
 Tienes [Levi s 502 Regular Taper Jeans  Blu Prewash  31W / 34L Uomo](https://www.amazon.it/dp/B079QGD5RH/?tag=tolees00-21) con un 40.87 % de descuento con precio de oferta de 53.22 EUR (original: 90.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0783RFHLR/?tag=tolees00-21'
 descuento: '34.67'
+average: '39.95'
 ---
 
 Tienes [PUMA Ignite Flash Evoknit  Scarpe da Corsa Uomo  Nero Black Asphalt White  45 EU](https://www.amazon.it/dp/B0783RFHLR/?tag=tolees00-21) con un 34.67 % de descuento con precio de oferta de 39.95 EUR (original: 61.15 EUR) en el siguiente enlace!

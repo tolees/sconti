@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XRXBXP9/?tag=tolees00-21'
 descuento: '49.99'
+average: '19.98'
 ---
 
 Está [CARPISA® Borsa a secchiello - Jordy](https://www.amazon.it/dp/B07XRXBXP9/?tag=tolees00-21) con 49.99 de descuento por 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

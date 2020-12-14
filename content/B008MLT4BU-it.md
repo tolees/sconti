@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B008MLT4BU/?tag=tolees00-21'
 descuento: '35.71'
+average: '129.87'
 ---
 
 Tienes [Foppapedretti Assai Asse da Stiro  Bianco](https://www.amazon.it/dp/B008MLT4BU/?tag=tolees00-21) con un 35.71 % de descuento con precio de oferta de 129.87 EUR (original: 202.0 EUR) en el siguiente enlace!

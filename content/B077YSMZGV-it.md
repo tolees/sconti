@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077YSMZGV/?tag=tolees00-21'
 descuento: '32.89'
+average: '99.99'
 ---
 
 Ahora mismo tienes [Candy CMGE23BS Microonde con Grill  23 Litri  Colore Nero  Piatto girevole diametro 245 mm](https://www.amazon.it/dp/B077YSMZGV/?tag=tolees00-21) a 99.99 EUR (original: 149.0 EUR) (32.89 %  de descuento) en el siguiente enlace!

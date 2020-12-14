@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LX8QZXN/?tag=tolees00-21'
 descuento: '51.01'
+average: '68.6'
 ---
 
 Tienes [APLI Kids 13337 – Confezione di 36 rotoli di K60 senza rumore  48 mm x 132 m  28 µm  colore: marrone](https://www.amazon.it/dp/B01LX8QZXN/?tag=tolees00-21) con un 51.01 % de descuento con precio de oferta de 68.6 EUR (original: 140.04 EUR) en el siguiente enlace!

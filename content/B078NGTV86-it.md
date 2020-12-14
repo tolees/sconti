@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078NGTV86/?tag=tolees00-21'
 descuento: '49.84'
+average: '25.08'
 ---
 
 Ahora mismo tienes [Nike Therma Hoodie Po  Felpa con Cappuccio Uomo  Black/Dark Grey  L](https://www.amazon.it/dp/B078NGTV86/?tag=tolees00-21) a 25.08 EUR (original: 50.0 EUR) (49.84 %  de descuento) en el siguiente enlace!

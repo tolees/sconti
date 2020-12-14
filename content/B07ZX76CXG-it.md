@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZX76CXG/?tag=tolees00-21'
 descuento: '62.01'
+average: '18.99'
 ---
 
 Ahora mismo tienes [24pz Pompon Pelliccia Volpe Sintetica per Fai da Te PON PON Pelliccia per Berretti o Cappelli in Lana Borsa Portachiavi Cappotti Scarpe Sciarpe 12 Colori 10cm Pelo 14cm Circonferenza](https://www.amazon.it/dp/B07ZX76CXG/?tag=tolees00-21) a 18.99 EUR (original: 49.99 EUR) (62.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00TXSA6R2/?tag=tolees00-21'
 descuento: '41.22'
+average: '36.5'
 ---
 
 Ahora mismo tienes [Boucheron Quatre pour Femme Eau de Parfum spray 100 ml](https://www.amazon.it/dp/B00TXSA6R2/?tag=tolees00-21) a 36.5 EUR (original: 62.1 EUR) (41.22 %  de descuento) en el siguiente enlace!

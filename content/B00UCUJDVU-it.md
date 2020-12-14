@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00UCUJDVU/?tag=tolees00-21'
 descuento: '31.40'
+average: '261.5'
 ---
 
 Tienes [Samsung Galaxy A51 Smartphone  Display 6.5" Super AMOLED  4 Fotocamere Posteriori  128 GB Espandibili  RAM 4 GB  Batteria 4000 mAh  4G  Dual Sim  Android 10  [Versione Italiana]  Prism Crush White](https://www.amazon.it/dp/B00UCUJDVU/?tag=tolees00-21) con un 31.40 % de descuento con precio de oferta de 260.0 EUR (original: 379.0 EUR) en el siguiente enlace!

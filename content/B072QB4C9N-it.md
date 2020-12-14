@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072QB4C9N/?tag=tolees00-21'
 descuento: '75.73'
+average: '16.99'
 ---
 
 Está [VINCITORE 06/20* BIO Siero Viso all’Acido Ialuronico Puro 100% - Alto Dosaggio BIOLOGICO 50ml - Usalo come Crema Viso Antirughe con Aloe Vera - Illuminante Viso Concentrato Vegano - Made in Germany](https://www.amazon.it/dp/B072QB4C9N/?tag=tolees00-21) con 75.73 de descuento por 16.99 EUR (original: 69.99 EUR) en el siguiente enlace!

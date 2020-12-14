@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B007UNAV6I/?tag=tolees00-21'
 descuento: '45.35'
+average: '27.67'
 ---
 
 Está [Casio Orologio Digitale Donna con Cinturino in Acciaio Inox LA670WEA-7EF](https://www.amazon.it/dp/B007UNAV6I/?tag=tolees00-21) con 45.35 de descuento por 27.67 EUR (original: 50.63 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07R3JS6Y1/?tag=tolees00-21'
 descuento: '28.59'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Lecone Mini Ventilatore USB Portatile con LED Colorate Luci  USB Ventilatore Ricaricabile  Piccolo Ventilatore Elettrico con 2 Impostazioni di Velocità per Travel  Ufficio e Scrivania  Campeggio](https://www.amazon.it/dp/B07R3JS6Y1/?tag=tolees00-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!

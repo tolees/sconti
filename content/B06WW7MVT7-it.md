@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06WW7MVT7/?tag=tolees00-21'
 descuento: '37.31'
+average: '20.99'
 ---
 
 Ahora mismo tienes [Wc Net - Tavoletta Solida Profumoso Lavanda - 4 pezzi x 12 confezioni](https://www.amazon.it/dp/B06WW7MVT7/?tag=tolees00-21) a 20.99 EUR (original: 33.48 EUR) (37.31 %  de descuento) en el siguiente enlace!

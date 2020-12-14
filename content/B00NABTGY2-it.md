@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00NABTGY2/?tag=tolees00-21'
 descuento: '35.30'
+average: '17.98'
 ---
 
 Ahora mismo tienes [AmazonBasics - Sacchetti per bisogni dei cani  con dispenser e clip per guinzaglio  confezione da 900](https://www.amazon.it/dp/B00NABTGY2/?tag=tolees00-21) a 17.98 EUR (original: 27.79 EUR) (35.30 %  de descuento) en el siguiente enlace!

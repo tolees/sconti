@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Z6JW29G/?tag=tolees00-21'
 descuento: '27.31'
+average: '39.97'
 ---
 
 Tienes [TIBEK Tritatutto da Cucina Elettrico 200W Grattugia Elettrica con 5 Accessori e Ampio Tubo di Alimentazione per Sminuzzare/Affettare/Miscelare Alimenti  Formaggio/Cipolle/Pesto/Insalata/Carota ](https://www.amazon.it/dp/B07Z6JW29G/?tag=tolees00-21) con un 27.31 % de descuento con precio de oferta de 39.97 EUR (original: 54.99 EUR) en el siguiente enlace!

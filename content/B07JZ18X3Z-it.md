@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JZ18X3Z/?tag=tolees00-21'
 descuento: '43.35'
+average: '16.99'
 ---
 
 Está [Jade Roller Rose Quarzo Viso Giada Roller Gua Sha massaggio strumento di nuova versione naturale ringiovanisce pietra per anti-invecchiamento collo Wrinkgless](https://www.amazon.it/dp/B07JZ18X3Z/?tag=tolees00-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

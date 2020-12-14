@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CZLXWCS/?tag=tolees00-21'
 descuento: '40.20'
+average: '7.14'
 ---
 
 Está [Neutro Roberts Doccia Shampoo Energizzante - 6 Confezioni da 250 ml - Totale: 1500 ml](https://www.amazon.it/dp/B07CZLXWCS/?tag=tolees00-21) con 40.20 de descuento por 7.14 EUR (original: 11.94 EUR) en el siguiente enlace!

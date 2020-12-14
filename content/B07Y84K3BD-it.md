@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Y84K3BD/?tag=tolees00-21'
 descuento: '42.88'
+average: '17.99'
 ---
 
 Está [Zacro Ring Light LED  LED Luce ad Anello for YouTube Video and Makeup  LED Camera Light with Cell Phone Holder Desktop LED Lamp with 3 Light Modes & 10 Luminosità Regolabile](https://www.amazon.it/dp/B07Y84K3BD/?tag=tolees00-21) con 42.88 de descuento por 11.99 EUR (original: 20.99 EUR) en el siguiente enlace!

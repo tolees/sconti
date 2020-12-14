@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00DN9FW08/?tag=tolees00-21'
 descuento: '46.45'
+average: '5.89'
 ---
 
 Ahora mismo tienes [Multicomplex Sport - 10 Buste](https://www.amazon.it/dp/B00DN9FW08/?tag=tolees00-21) a 5.89 EUR (original: 11.0 EUR) (46.45 %  de descuento) en el siguiente enlace!

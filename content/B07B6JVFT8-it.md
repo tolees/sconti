@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21'
 descuento: '34.86'
+average: '25.99'
 ---
 
 Tienes [Tommy Hilfiger X Bralette Brassière  Nero  Black 990   Medium Donna](https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21) con un 34.86 % de descuento con precio de oferta de 25.99 EUR (original: 39.9 EUR) en el siguiente enlace!

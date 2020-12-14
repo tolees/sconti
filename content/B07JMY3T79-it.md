@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JMY3T79/?tag=tolees00-21'
 descuento: '59.27'
+average: '48.66'
 ---
 
 Ahora mismo tienes [Timberland Adventure 2.0 Cupsole Alpine Oxford  Sneakers Basse Uomo  Verde Dark Green TecTuff  47.5 EU](https://www.amazon.it/dp/B07JMY3T79/?tag=tolees00-21) a 48.66 EUR (original: 119.46 EUR) (59.27 %  de descuento) en el siguiente enlace!

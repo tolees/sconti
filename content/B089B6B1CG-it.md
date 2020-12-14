@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B089B6B1CG/?tag=tolees00-21'
 descuento: '25.00'
+average: '23.97'
 ---
 
 Tienes [CARPISA® Borsa a sacca con manici e tracolla - Nantes](https://www.amazon.it/dp/B089B6B1CG/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 23.97 EUR (original: 31.96 EUR) en el siguiente enlace!

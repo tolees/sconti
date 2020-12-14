@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081TTGZNF/?tag=tolees00-21'
 descuento: '50.00'
+average: '69.98'
 ---
 
 Tienes [adidas WB Karkaj  Giacca Sportiva Uomo  Glory Green  L](https://www.amazon.it/dp/B081TTGZNF/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 69.98 EUR (original: 139.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0825BLJ9L/?tag=tolees00-21'
 descuento: '56.52'
+average: '52.99'
 ---
 
 Tienes [National Geographic Travel Kit Treppiede con Monopiede  Fibra di Carbonio  Gambe 5 Sezioni  Twist Lock  Carico Fino a 8 kg  Sacca  Testa a Sfera  Sgancio Rapido  NGTR004TCF](https://www.amazon.it/dp/B0825BLJ9L/?tag=tolees00-21) con un 56.52 % de descuento con precio de oferta de 52.99 EUR (original: 121.88 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S69F4HC/?tag=tolees00-21'
 descuento: '30.56'
+average: '49.99'
 ---
 
 Ahora mismo tienes [Logitech G403 HERO 16K  Mouse Gaming  Lightsync RGB  Leggero 87 g + 10 g Opzionale  Cavo Intrecciato  16.000 DPI  Impugnature Laterali in Gomma  Imballaggio per l Europa dell Est](https://www.amazon.it/dp/B07S69F4HC/?tag=tolees00-21) a 49.99 EUR (original: 71.99 EUR) (30.56 %  de descuento) en el siguiente enlace!

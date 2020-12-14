@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21'
 descuento: '31.14'
+average: '1.99'
 ---
 
 Ahora mismo tienes [Vetril Igienizzante  650 ml](https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21) a 1.99 EUR (original: 2.89 EUR) (31.14 %  de descuento) en el siguiente enlace!

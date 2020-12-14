@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08GQMV2HJ/?tag=tolees00-21'
 descuento: '41.19'
+average: '26.656666666666666'
 ---
 
 Está [Auricolari Senza Fili Bluetooth 5.0 IPX8 Impermeabile Accoppiamento automatico Vero Wireless Cuffie Sport riduzione del rumore stereo 3D HD per cuffie Apple Airpods Pro/Android/iPhone/Samsung/Huawei](https://www.amazon.it/dp/B08GQMV2HJ/?tag=tolees00-21) con 41.19 de descuento por 19.99 EUR (original: 33.99 EUR) en el siguiente enlace!

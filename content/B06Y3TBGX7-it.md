@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06Y3TBGX7/?tag=tolees00-21'
 descuento: '48.70'
+average: '18.98'
 ---
 
 Está [Ardes AR5EA40PB Ventilatore Piantana  Nero  Pala 40 cm](https://www.amazon.it/dp/B06Y3TBGX7/?tag=tolees00-21) con 48.70 de descuento por 18.98 EUR (original: 37.0 EUR) en el siguiente enlace!

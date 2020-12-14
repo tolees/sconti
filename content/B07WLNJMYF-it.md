@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07WLNJMYF/?tag=tolees00-21'
 descuento: '64.59'
+average: '20.633333333333333'
 ---
 
 Está [Tommy Hilfiger RWB Pocket Flex Tee Camicia Sportiva  Blu  Desert Sky   Small  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07WLNJMYF/?tag=tolees00-21) con 64.59 de descuento por 17.45 EUR (original: 49.28 EUR) en el siguiente enlace!

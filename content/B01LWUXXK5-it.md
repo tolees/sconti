@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LWUXXK5/?tag=tolees00-21'
 descuento: '54.64'
+average: '3.13'
 ---
 
 Tienes [Nivea Clear-up Stip Zona T  Pelli da Normali a Miste](https://www.amazon.it/dp/B01LWUXXK5/?tag=tolees00-21) con un 54.64 % de descuento con precio de oferta de 3.13 EUR (original: 6.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003PPCYOM/?tag=tolees00-21'
 descuento: '42.67'
+average: '25.8'
 ---
 
 Tienes [Eastpak Jr Borsa A Tracolla  33 cm  11.5 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCYOM/?tag=tolees00-21) con un 42.67 % de descuento con precio de oferta de 25.8 EUR (original: 45.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B071V5GPX7/?tag=tolees00-21'
 descuento: '47.10'
+average: '7.93'
 ---
 
 Ahora mismo tienes [Lenor Ammorbidente Ametista & Bouquet 208 Lavaggi  Maxi Formato 8 x 26 Lavaggi](https://www.amazon.it/dp/B071V5GPX7/?tag=tolees00-21) a 7.93 EUR (original: 14.99 EUR) (47.10 %  de descuento) en el siguiente enlace!

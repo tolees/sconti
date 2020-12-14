@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07L46GPL6/?tag=tolees00-21'
 descuento: '65.66'
+average: '5.46'
 ---
 
 Ahora mismo tienes [Funko POP! Games: Fortnite - Burnout #457 Vinyl Figure](https://www.amazon.it/dp/B07L46GPL6/?tag=tolees00-21) a 5.46 EUR (original: 15.9 EUR) (65.66 %  de descuento) en el siguiente enlace!

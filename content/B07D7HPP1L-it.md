@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07D7HPP1L/?tag=tolees00-21'
 descuento: '33.37'
+average: '19.99'
 ---
 
 Tienes [Havaianas Slim Tropical  Infradito Donna   Black/Graphite 1164   39/40 EU](https://www.amazon.it/dp/B07D7HPP1L/?tag=tolees00-21) con un 33.37 % de descuento con precio de oferta de 19.99 EUR (original: 30.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MXQLYL8/?tag=tolees00-21'
 descuento: '66.99'
+average: '9.9'
 ---
 
 Tienes [Hasbro Marvel Spider-Man - Titan Hero Power FX con Lanciacolpi da Braccio  Multicolore](https://www.amazon.it/dp/B07MXQLYL8/?tag=tolees00-21) con un 66.99 % de descuento con precio de oferta de 9.9 EUR (original: 29.99 EUR) en el siguiente enlace!

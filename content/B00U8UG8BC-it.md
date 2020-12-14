@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00U8UG8BC/?tag=tolees00-21'
 descuento: '31.00'
+average: '8.28'
 ---
 
 Está [Frisk Peppermint Caramelle alla Menta  Mentine Senza Zucchero e Senza Glutine  Freschezza a Lungo  Confezione da 12 Astucci](https://www.amazon.it/dp/B00U8UG8BC/?tag=tolees00-21) con 31.00 de descuento por 8.28 EUR (original: 12.0 EUR) en el siguiente enlace!

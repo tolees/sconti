@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21'
 descuento: '50.00'
+average: '12.5'
 ---
 
 Está [Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010   X-Small Uomo](https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21) con 50.00 de descuento por 12.5 EUR (original: 25.0 EUR) en el siguiente enlace!

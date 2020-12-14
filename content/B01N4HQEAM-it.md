@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21'
 descuento: '34.91'
+average: '10.35'
 ---
 
 Ahora mismo tienes [Multicentrum Uomo Integratore - 30 Compresse](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21) a 10.35 EUR (original: 15.9 EUR) (34.91 %  de descuento) en el siguiente enlace!

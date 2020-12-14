@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21'
 descuento: '48.34'
+average: '129.495'
 ---
 
 Tienes [Philips HR2345/29 Viva Collection Pastamaker - Macchina con 4 trafile per preparare da zero pasta e spaghetti  150 W  Nero](https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21) con un 48.34 % de descuento con precio de oferta de 109.0 EUR (original: 210.99 EUR) en el siguiente enlace!

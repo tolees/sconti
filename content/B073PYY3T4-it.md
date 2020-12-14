@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073PYY3T4/?tag=tolees00-21'
 descuento: '36.08'
+average: '93.72'
 ---
 
 Ahora mismo tienes [Timberland Allington 6 inch Lace Up  Stivali Donna  Giallo  Wheat Nubuck   38 EU](https://www.amazon.it/dp/B073PYY3T4/?tag=tolees00-21) a 89.49 EUR (original: 140.0 EUR) (36.08 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0792HCFDR/?tag=tolees00-21'
 descuento: '27.66'
+average: '25.32'
 ---
 
 Tienes [Diesel UMBR-ANDRETHREEPACK  Slip Uomo  Nero  Black/Black/Black E4101-0Jkkb   XXL  Pacco da 3](https://www.amazon.it/dp/B0792HCFDR/?tag=tolees00-21) con un 27.66 % de descuento con precio de oferta de 25.32 EUR (original: 35.0 EUR) en el siguiente enlace!

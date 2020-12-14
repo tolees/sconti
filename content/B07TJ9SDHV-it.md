@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TJ9SDHV/?tag=tolees00-21'
 descuento: '50.00'
+average: '25.0'
 ---
 
 Está [Levi s Original Batwing Maglietta  Blu  HM Patch Polo Dress Blues 0001   Medium Uomo](https://www.amazon.it/dp/B07TJ9SDHV/?tag=tolees00-21) con 50.00 de descuento por 25.0 EUR (original: 50.0 EUR) en el siguiente enlace!

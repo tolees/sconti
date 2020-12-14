@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Z69CZLT/?tag=tolees00-21'
 descuento: '41.19'
+average: '7.64'
 ---
 
 Está [Pennelli Trucco oro Rosa 18 Pezzi Pennelli Trucco Premium Set Viso e Occhi  Pennelli Sintetici per Fondotinta Correttori in Polvere Ombretto Arrossito](https://www.amazon.it/dp/B07Z69CZLT/?tag=tolees00-21) con 41.19 de descuento por 7.64 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MDPC2LT/?tag=tolees00-21'
 descuento: '45.82'
+average: '8.94'
 ---
 
 Tienes [Ajax - Detersivo Crystal Clean  per Vetri  Con Ammoniaca  100% Anti-Alone - 6 pezzi da 750 ml [4500 ml]](https://www.amazon.it/dp/B01MDPC2LT/?tag=tolees00-21) con un 45.82 % de descuento con precio de oferta de 8.94 EUR (original: 16.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084W8JFFH/?tag=tolees00-21'
 descuento: '32.17'
+average: '10.825000000000001'
 ---
 
 Ahora mismo tienes [Pantene Pro-V Shampoo Rigenera & Protegge per Capelli Deboli o Danneggiati  Maxi Formato da 1000 ml](https://www.amazon.it/dp/B084W8JFFH/?tag=tolees00-21) a 9.49 EUR (original: 13.99 EUR) (32.17 %  de descuento) en el siguiente enlace!

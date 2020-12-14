@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B016OXGYX8/?tag=tolees00-21'
 descuento: '33.97'
+average: '154.9'
 ---
 
 Tienes [Ferrino Skykline  Tenda a Cupola Campeggio  Blu  3 Persone](https://www.amazon.it/dp/B016OXGYX8/?tag=tolees00-21) con un 33.97 % de descuento con precio de oferta de 154.9 EUR (original: 234.6 EUR) en el siguiente enlace!

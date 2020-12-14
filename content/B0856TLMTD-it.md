@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0856TLMTD/?tag=tolees00-21'
 descuento: '33.37'
+average: '5.99'
 ---
 
 Está [[2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5 pollici Staffa di montaggio in metallo  2x25Rack ](https://www.amazon.it/dp/B0856TLMTD/?tag=tolees00-21) con 33.37 de descuento por 5.99 EUR (original: 8.99 EUR) en el siguiente enlace!

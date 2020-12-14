@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0792ZJ4QT/?tag=tolees00-21'
 descuento: '41.68'
+average: '34.98'
 ---
 
 Está [Aicok Spremiagrumi Elettrico Professionale 100W Spremiagrumi in Acciaio Inox con Sistema Antigoccia Flusso Diretto 2 Coni Intercambiabili Motore Silenzios Senza BPA](https://www.amazon.it/dp/B0792ZJ4QT/?tag=tolees00-21) con 41.68 de descuento por 34.98 EUR (original: 59.98 EUR) en el siguiente enlace!

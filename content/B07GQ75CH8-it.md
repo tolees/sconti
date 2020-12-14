@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GQ75CH8/?tag=tolees00-21'
 descuento: '50.05'
+average: '49.95'
 ---
 
 Tienes [New Balance 574v2  Sneaker Uomo  Nero  Black Black   43 EU](https://www.amazon.it/dp/B07GQ75CH8/?tag=tolees00-21) con un 50.05 % de descuento con precio de oferta de 49.95 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0792R1RDP/?tag=tolees00-21'
 descuento: '35.74'
+average: '22.49'
 ---
 
 Está [Diesel UMBR-ANDRETHREEPACK  Slip Uomo  Multicolore  Dark Grey Melange/Black/Bright White E3843-0Jkkb   L  Pacco da 3](https://www.amazon.it/dp/B0792R1RDP/?tag=tolees00-21) con 35.74 de descuento por 22.49 EUR (original: 35.0 EUR) en el siguiente enlace!

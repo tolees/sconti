@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01M6URG2J/?tag=tolees00-21'
 descuento: '35.33'
+average: '54.94'
 ---
 
 Tienes [New Balance 373 Core   Trainers Uomo  Verde  Olive   44.5 EU](https://www.amazon.it/dp/B01M6URG2J/?tag=tolees00-21) con un 35.33 % de descuento con precio de oferta de 54.94 EUR (original: 84.95 EUR) en el siguiente enlace!

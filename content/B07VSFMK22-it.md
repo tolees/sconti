@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VSFMK22/?tag=tolees00-21'
 descuento: '58.65'
+average: '40.59'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Organic Cotton Silk Crew Neck Pantaloni  Verde  Faded Olive Heather MRF   X-Small Uomo](https://www.amazon.it/dp/B07VSFMK22/?tag=tolees00-21) a 40.59 EUR (original: 98.16 EUR) (58.65 %  de descuento) en el siguiente enlace!

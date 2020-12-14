@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V3F2VB1/?tag=tolees00-21'
 descuento: '49.97'
+average: '8.48'
 ---
 
 Está [YAMAMAY® Slip Costume con Lacci Regolabili  Tinta Unita con Inserti in Lurex- Mirage](https://www.amazon.it/dp/B07V3F2VB1/?tag=tolees00-21) con 49.97 de descuento por 8.48 EUR (original: 16.95 EUR) en el siguiente enlace!

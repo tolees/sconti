@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07C931NRN/?tag=tolees00-21'
 descuento: '41.42'
+average: '99.0'
 ---
 
 Ahora mismo tienes [Versus Versace Dress Watch VSP490318](https://www.amazon.it/dp/B07C931NRN/?tag=tolees00-21) a 99.0 EUR (original: 169.0 EUR) (41.42 %  de descuento) en el siguiente enlace!

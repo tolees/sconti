@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00LS9I4QO/?tag=tolees00-21'
 descuento: '31.98'
+average: '61.22'
 ---
 
 Está [K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Verde  Torba   Small  Taglia produttore: S ](https://www.amazon.it/dp/B00LS9I4QO/?tag=tolees00-21) con 31.98 de descuento por 61.22 EUR (original: 90.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21'
 descuento: '33.11'
+average: '0.99'
 ---
 
 Ahora mismo tienes [Heinz Ketchup Top Down 250Gr](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21) a 0.99 EUR (original: 1.48 EUR) (33.11 %  de descuento) en el siguiente enlace!

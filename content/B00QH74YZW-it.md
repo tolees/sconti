@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00QH74YZW/?tag=tolees00-21'
 descuento: '38.47'
+average: '45.99'
 ---
 
 Ahora mismo tienes [adidas Stan Smith J  Scarpe da Basket Unisex-Adulto  Nero  Black M20604   37 1/3 EU](https://www.amazon.it/dp/B00QH74YZW/?tag=tolees00-21) a 45.99 EUR (original: 74.74 EUR) (38.47 %  de descuento) en el siguiente enlace!

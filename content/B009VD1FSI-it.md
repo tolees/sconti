@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B009VD1FSI/?tag=tolees00-21'
 descuento: '26.59'
+average: '21.29'
 ---
 
 Está [Intex 68579 Sedia gonfiabile  Grigio  107 x 104 x 69 cm  Vinile](https://www.amazon.it/dp/B009VD1FSI/?tag=tolees00-21) con 26.59 de descuento por 21.29 EUR (original: 29.0 EUR) en el siguiente enlace!

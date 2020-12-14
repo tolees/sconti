@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073JKMRT9/?tag=tolees00-21'
 descuento: '43.73'
+average: '44.99'
 ---
 
 Está [Philips Lighting Aluminium LED Spot Light Philips Faretto Kosipo con 4 Punti Luce  Alluminio  Attacco GU10  Lampadina Non Inclusa  Grigio  7x62.8x9.2 cm](https://www.amazon.it/dp/B073JKMRT9/?tag=tolees00-21) con 43.73 de descuento por 44.99 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B075JNZJDM/?tag=tolees00-21'
 descuento: '65.01'
+average: '10.48'
 ---
 
 Tienes [United Colors of Benetton 6HEDUB0A2 Cintura  Nero  Nero 901   95  Taglia produttore:M  Uomo](https://www.amazon.it/dp/B075JNZJDM/?tag=tolees00-21) con un 65.01 % de descuento con precio de oferta de 10.48 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07G348FNH/?tag=tolees00-21'
 descuento: '34.53'
+average: '91.0'
 ---
 
 Está [Chicco Passeggino Ohlalà 2  Leggero  Compatto  Paprika  Rosso](https://www.amazon.it/dp/B07G348FNH/?tag=tolees00-21) con 34.53 de descuento por 91.0 EUR (original: 139.0 EUR) en el siguiente enlace!

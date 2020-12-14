@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N9HHX86/?tag=tolees00-21'
 descuento: '52.16'
+average: '8.865'
 ---
 
 Tienes [Aquafresh Clean Spazzolino e flex Medium  12 confezioni da 3 spazzolini per confezione](https://www.amazon.it/dp/B01N9HHX86/?tag=tolees00-21) con un 52.16 % de descuento con precio de oferta de 8.98 EUR (original: 18.77 EUR) en el siguiente enlace!

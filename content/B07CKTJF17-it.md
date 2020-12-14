@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CKTJF17/?tag=tolees00-21'
 descuento: '41.59'
+average: '11.556666666666667'
 ---
 
 Tienes [Body & Earth Set Bagno Donna Confezione Regalo  Kit da Bagno o Doccia in 6 Pezzi  Cofanetto Regalo per Compleanno o Feste- Profumo Lavanda](https://www.amazon.it/dp/B07CKTJF17/?tag=tolees00-21) con un 41.59 % de descuento con precio de oferta de 9.34 EUR (original: 15.99 EUR) en el siguiente enlace!

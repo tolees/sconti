@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QW71BSJ/?tag=tolees00-21'
 descuento: '53.37'
+average: '6.99'
 ---
 
 Tienes [Luce Posteriore per Bicicletta  Ricaricabile USB per Bicicletta a LED  Potente Faro a LED Luce Posteriore per Bici Lampada Impermeabile e Facile da installare](https://www.amazon.it/dp/B07QW71BSJ/?tag=tolees00-21) con un 53.37 % de descuento con precio de oferta de 6.99 EUR (original: 14.99 EUR) en el siguiente enlace!

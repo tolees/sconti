@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LLAK1SI/?tag=tolees00-21'
 descuento: '41.24'
+average: '47.0'
 ---
 
 Ahora mismo tienes [TP-Link Archer C1200 Gigabit Router Wi-Fi Dual Band AC1200 Wireless  5 Porte Gigabit  1 Porta USB  Tasto WPS  IPTV  Cloud Support  VPN Server  IPv6  Guest Network](https://www.amazon.it/dp/B01LLAK1SI/?tag=tolees00-21) a 47.0 EUR (original: 79.99 EUR) (41.24 %  de descuento) en el siguiente enlace!

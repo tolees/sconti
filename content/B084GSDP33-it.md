@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084GSDP33/?tag=tolees00-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Tienes [Ori And The Will of The Wisps - Xbox One](https://www.amazon.it/dp/B084GSDP33/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

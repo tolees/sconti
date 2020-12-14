@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01KLXFSUM/?tag=tolees00-21'
 descuento: '50.01'
+average: '39.99'
 ---
 
 Está [Remington XF8505 Capture Cut Rasoio a Lamina](https://www.amazon.it/dp/B01KLXFSUM/?tag=tolees00-21) con 50.01 de descuento por 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

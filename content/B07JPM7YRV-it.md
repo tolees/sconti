@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JPM7YRV/?tag=tolees00-21'
 descuento: '57.06'
+average: '21.45'
 ---
 
 Ahora mismo tienes [adidas Tiro 19  Maglia da Allenamento Uomo  Dark Blue/Bold Blue/White  S](https://www.amazon.it/dp/B07JPM7YRV/?tag=tolees00-21) a 21.45 EUR (original: 49.95 EUR) (57.06 %  de descuento) en el siguiente enlace!

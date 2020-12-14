@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083QF7RCG/?tag=tolees00-21'
 descuento: '34.64'
+average: '8.49'
 ---
 
 Tienes [Joyjoz Tappetino Acqua per Bambini TummyTime Gonfiabile  Tappeto per Giocare  Tappetino per Gioco Sensoriale  per Bambini ai Primi Passi  a Partire dai 3 Mesi](https://www.amazon.it/dp/B083QF7RCG/?tag=tolees00-21) con un 34.64 % de descuento con precio de oferta de 8.49 EUR (original: 12.99 EUR) en el siguiente enlace!

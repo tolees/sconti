@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00I98YPM4/?tag=tolees00-21'
 descuento: '37.22'
+average: '6.9'
 ---
 
 Tienes [Max Factor Lipfinity Lip Colour Rossetto Lunga Durata e Gloss Idratante con Applicazione Bifase  335 Just In Love  2.3 ml e 1.9 g](https://www.amazon.it/dp/B00I98YPM4/?tag=tolees00-21) con un 37.22 % de descuento con precio de oferta de 6.9 EUR (original: 10.99 EUR) en el siguiente enlace!

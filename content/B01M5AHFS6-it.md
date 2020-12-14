@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21'
 descuento: '36.12'
+average: '51.1'
 ---
 
 Tienes [New Balance 373 Core U  Scarpe Trainers Uomo  Nero  Black   45.5 EU](https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21) con un 36.12 % de descuento con precio de oferta de 51.1 EUR (original: 80.0 EUR) en el siguiente enlace!

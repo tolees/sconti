@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SRK2W5Q/?tag=tolees00-21'
 descuento: '66.11'
+average: '37.25'
 ---
 
 Ahora mismo tienes [Geox U Kennet B  Scarpe da Ginnastica Basse Uomo  Grigio  Lt Grey C1010   46 EU](https://www.amazon.it/dp/B07SRK2W5Q/?tag=tolees00-21) a 37.25 EUR (original: 109.9 EUR) (66.11 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V4N3ZK1/?tag=tolees00-21'
 descuento: '54.98'
+average: '13.46'
 ---
 
 Tienes [Tommy Hilfiger Nautical Print Beach Sandal  Punta Aperta Uomo  Bianco  White Ybs   41 EU](https://www.amazon.it/dp/B07V4N3ZK1/?tag=tolees00-21) con un 54.98 % de descuento con precio de oferta de 13.46 EUR (original: 29.9 EUR) en el siguiente enlace!

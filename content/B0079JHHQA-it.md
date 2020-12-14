@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0079JHHQA/?tag=tolees00-21'
 descuento: '61.29'
+average: '2.69'
 ---
 
 Está [Arena Classic Silicone  Cuffia Unisex Adulto  Grigio  Silver/Black   Taglia Unica](https://www.amazon.it/dp/B0079JHHQA/?tag=tolees00-21) con 61.29 de descuento por 2.69 EUR (original: 6.95 EUR) en el siguiente enlace!

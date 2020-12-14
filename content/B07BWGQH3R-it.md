@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BWGQH3R/?tag=tolees00-21'
 descuento: '59.15'
+average: '21.24'
 ---
 
 Está [Willful Smartwatch Orologio Fitness Uomo Donna Fitness Tracker Cardiofrequenzimetro da polso Contapassi Calorie Sonno Orologio Sportivo Impermeabile IP68 WhatsAPP Notifiche per Android iOS Telefon](https://www.amazon.it/dp/B07BWGQH3R/?tag=tolees00-21) con 59.15 de descuento por 21.24 EUR (original: 51.99 EUR) en el siguiente enlace!

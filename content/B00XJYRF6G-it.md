@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00XJYRF6G/?tag=tolees00-21'
 descuento: '53.75'
+average: '41.6'
 ---
 
 Tienes [Reebok CL LTHR  Scarpe da Ginnastica Donna  Bianco  White/Gum   36 EU](https://www.amazon.it/dp/B00XJYRF6G/?tag=tolees00-21) con un 53.75 % de descuento con precio de oferta de 41.6 EUR (original: 89.95 EUR) en el siguiente enlace!

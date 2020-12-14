@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YCF1SDV/?tag=tolees00-21'
 descuento: '25.58'
+average: '159.99'
 ---
 
 Ahora mismo tienes [Philips Sonicare HX9911/03 DiamondClean 9000  Spazzolino Elettrico con Tecnologia Sonica  4 modalità di pulizia e 3 intensità  Bianco](https://www.amazon.it/dp/B07YCF1SDV/?tag=tolees00-21) a 159.99 EUR (original: 214.99 EUR) (25.58 %  de descuento) en el siguiente enlace!

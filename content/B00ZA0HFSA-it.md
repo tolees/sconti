@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ZA0HFSA/?tag=tolees00-21'
 descuento: '34.81'
+average: '29.97'
 ---
 
 Tienes [KLIM™ Cool Universal Raffreddatore per PC Portatile – Ventola ad Alte Prestazioni per Una Veloce Azione di Raffreddamento – Estrattore di Aria Calda USB - Blu [ Nouva Versione 2020 ]](https://www.amazon.it/dp/B00ZA0HFSA/?tag=tolees00-21) con un 34.81 % de descuento con precio de oferta de 29.97 EUR (original: 45.97 EUR) en el siguiente enlace!

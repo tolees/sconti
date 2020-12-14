@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NJJ9QPG/?tag=tolees00-21'
 descuento: '50.84'
+average: '19.99'
 ---
 
 Está [Assassin s Creed III Liberation Remastered - Xbox One](https://www.amazon.it/dp/B07NJJ9QPG/?tag=tolees00-21) con 50.84 de descuento por 19.99 EUR (original: 40.66 EUR) en el siguiente enlace!

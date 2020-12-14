@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21'
 descuento: '32.44'
+average: '20.26'
 ---
 
 Ahora mismo tienes [LEGO Creator - Aereo da corsa  31094](https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21) a 20.26 EUR (original: 29.99 EUR) (32.44 %  de descuento) en el siguiente enlace!

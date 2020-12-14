@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08GM8DV13/?tag=tolees00-21'
 descuento: '50.02'
+average: '11.49'
 ---
 
 Ahora mismo tienes [eXtremeRate Cover Grip Scocca Impugnatura Manopola DIY Guscio Case Ricambio per Nintendo Switch Pro Controller Joystick Trasparente Verde -NON Include Controller](https://www.amazon.it/dp/B08GM8DV13/?tag=tolees00-21) a 11.49 EUR (original: 22.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

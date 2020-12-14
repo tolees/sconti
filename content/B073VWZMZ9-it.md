@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073VWZMZ9/?tag=tolees00-21'
 descuento: '30.00'
+average: '18.2'
 ---
 
 Está [Havaianas Slim 4000030 Infradito Donna  Giallo  Banana Yellow   39/40 EU](https://www.amazon.it/dp/B073VWZMZ9/?tag=tolees00-21) con 30.00 de descuento por 18.2 EUR (original: 26.0 EUR) en el siguiente enlace!

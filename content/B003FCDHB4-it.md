@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21'
 descuento: '55.00'
+average: '8.1'
 ---
 
 Está [Havaianas Brasil Logo  Infradito Unisex-Bambini  Blu  Navy Blue 0555   25/26 EU](https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21) con 55.00 de descuento por 8.1 EUR (original: 18.0 EUR) en el siguiente enlace!

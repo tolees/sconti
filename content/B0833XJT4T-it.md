@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0833XJT4T/?tag=tolees00-21'
 descuento: '30.02'
+average: '13.99'
 ---
 
 Tienes [Netac 32G Scheda Micro SD Set da 2  Scheda di Memoria A1  U1  C10  V10  FHD  600X  UHS-I velocità Fino a 90/10 MB/Sec R/W  Micro SD Card per Telefono  Videocamera  Switch  Gopro  Tablet](https://www.amazon.it/dp/B0833XJT4T/?tag=tolees00-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

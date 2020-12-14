@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06Y2WQLXM/?tag=tolees00-21'
 descuento: '55.03'
+average: '44.95'
 ---
 
 Ahora mismo tienes [New Balance Unisex - Adulto 574v2 Core Scarpe da Ginnastica  Blu  Navy   47.5 EU](https://www.amazon.it/dp/B06Y2WQLXM/?tag=tolees00-21) a 44.95 EUR (original: 99.95 EUR) (55.03 %  de descuento) en el siguiente enlace!

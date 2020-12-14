@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S8PB6L1/?tag=tolees00-21'
 descuento: '60.04'
+average: '31.95'
 ---
 
 Está [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Verde White Mist Green Whisper White  44.5 EU](https://www.amazon.it/dp/B07S8PB6L1/?tag=tolees00-21) con 60.04 de descuento por 31.95 EUR (original: 79.95 EUR) en el siguiente enlace!

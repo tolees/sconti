@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JPX38HL/?tag=tolees00-21'
 descuento: '57.51'
+average: '16.99'
 ---
 
 Tienes [JACK & JONES Jjimarco Jjbowie Sa Pantaloni  Beige  Beige Beige   W30/L30  Taglia Produttore: 30  Uomo](https://www.amazon.it/dp/B07JPX38HL/?tag=tolees00-21) con un 57.51 % de descuento con precio de oferta de 16.99 EUR (original: 39.99 EUR) en el siguiente enlace!

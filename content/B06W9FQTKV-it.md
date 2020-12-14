@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06W9FQTKV/?tag=tolees00-21'
 descuento: '61.61'
+average: '49.9'
 ---
 
 Tienes [Hoover LA 30 Traino senza Sacco Lander  Rosso/Nero](https://www.amazon.it/dp/B06W9FQTKV/?tag=tolees00-21) con un 61.61 % de descuento con precio de oferta de 49.9 EUR (original: 129.99 EUR) en el siguiente enlace!

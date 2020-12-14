@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0143IIP4W/?tag=tolees00-21'
 descuento: '47.26'
+average: '17.4'
 ---
 
 Tienes [SanDisk Ultra Scheda di Memoria SDXC Traditional  Velocità fino a 80 MB/sec  64 GB  Classe 10](https://www.amazon.it/dp/B0143IIP4W/?tag=tolees00-21) con un 47.26 % de descuento con precio de oferta de 17.4 EUR (original: 32.99 EUR) en el siguiente enlace!

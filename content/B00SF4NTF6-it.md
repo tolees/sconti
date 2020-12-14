@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00SF4NTF6/?tag=tolees00-21'
 descuento: '40.91'
+average: '6.5'
 ---
 
 Está [STAEDTLER matite colorate Noris Colour  confezione da 24 colori con tonalità differenti e mine resistenti in WOPEX  185 C24](https://www.amazon.it/dp/B00SF4NTF6/?tag=tolees00-21) con 40.91 de descuento por 6.5 EUR (original: 11.0 EUR) en el siguiente enlace!

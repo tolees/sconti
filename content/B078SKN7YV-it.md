@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078SKN7YV/?tag=tolees00-21'
 descuento: '48.81'
+average: '132.59'
 ---
 
 Está [Diesel Orologio Cronografo Da Uomo Quarzo Con Cinturino In Acciaio Inossidabile Dz4477](https://www.amazon.it/dp/B078SKN7YV/?tag=tolees00-21) con 48.81 de descuento por 132.59 EUR (original: 259.0 EUR) en el siguiente enlace!

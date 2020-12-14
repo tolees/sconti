@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00CSB3ZX8/?tag=tolees00-21'
 descuento: '43.92'
+average: '13.19'
 ---
 
 Ahora mismo tienes [Laken Thermo Classic Bottiglia d Acqua  Isolamento sottovuoto  Acciaio Inossidabile  Bocca Larga  350ml  Nero](https://www.amazon.it/dp/B00CSB3ZX8/?tag=tolees00-21) a 12.87 EUR (original: 22.95 EUR) (43.92 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07K4RV7SB/?tag=tolees00-21'
 descuento: '32.09'
+average: '25.13'
 ---
 
 Tienes [adidas Falcon W  Scarpe da Ginnastica Donna  Nero  Core Black/Core Black/Grey Five   36 2/3 EU](https://www.amazon.it/dp/B07K4RV7SB/?tag=tolees00-21) con un 32.09 % de descuento con precio de oferta de 22.33 EUR (original: 32.88 EUR) en el siguiente enlace!

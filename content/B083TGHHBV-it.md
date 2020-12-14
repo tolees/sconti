@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083TGHHBV/?tag=tolees00-21'
 descuento: '50.00'
+average: '162.99'
 ---
 
 Ahora mismo tienes [Tosbess Technic Auto Sportiva Ford Mustang  2 4Ghz 1:10 RC Auto con Motore e Telecomando  3181 Pezzi Blocchetti di Costruzione Compatibile con Lego Technic](https://www.amazon.it/dp/B083TGHHBV/?tag=tolees00-21) a 162.99 EUR (original: 325.98 EUR) (50.00 %  de descuento) en el siguiente enlace!

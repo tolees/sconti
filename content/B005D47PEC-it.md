@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B005D47PEC/?tag=tolees00-21'
 descuento: '47.25'
+average: '114.99'
 ---
 
 Está [Foppapedretti Gulliver Stendibiancheria Pieghevole  Bianco](https://www.amazon.it/dp/B005D47PEC/?tag=tolees00-21) con 47.25 de descuento por 114.99 EUR (original: 218.0 EUR) en el siguiente enlace!

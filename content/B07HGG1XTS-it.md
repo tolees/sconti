@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HGG1XTS/?tag=tolees00-21'
 descuento: '40.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [JBL Tune500BT Cuffie Wireless Sovraurali con funzione Multipoint e Ricarica veloce – Cuffie On-Ear Bluetooth con connessione a Siri e Google – Fino a 16h di autonomia  Bianco](https://www.amazon.it/dp/B07HGG1XTS/?tag=tolees00-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

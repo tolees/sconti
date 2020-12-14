@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01JJ23CI6/?tag=tolees00-21'
 descuento: '63.70'
+average: '52.99'
 ---
 
 Tienes [Elegoo Scheda Starter Ultimate Kit Piu Completo per Progetto Principianti con Tutorial in Italiano Learning Kit di Apprendimento Compatibile con progetti IDE Arduino 63 Articoli ](https://www.amazon.it/dp/B01JJ23CI6/?tag=tolees00-21) con un 63.70 % de descuento con precio de oferta de 52.99 EUR (original: 145.99 EUR) en el siguiente enlace!

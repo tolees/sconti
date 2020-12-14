@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GZB4JRV/?tag=tolees00-21'
 descuento: '28.75'
+average: '21.56'
 ---
 
 Ahora mismo tienes [Marchio Amazon - MERAKI Blazer Casual Uomo  Nero  Black   48  Label: 38](https://www.amazon.it/dp/B07GZB4JRV/?tag=tolees00-21) a 21.56 EUR (original: 30.26 EUR) (28.75 %  de descuento) en el siguiente enlace!

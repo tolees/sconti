@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PLGX449/?tag=tolees00-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Tienes [BLADE HAWKS Tappetino Mouse Gaming  RGB Gaming Tappetino per Mouse di Grande Taglia [ 800x300 mm ]  Tappeti di Mouse da Gaming con 9 RGB Effetti Luce per PC e Laptop](https://www.amazon.it/dp/B07PLGX449/?tag=tolees00-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

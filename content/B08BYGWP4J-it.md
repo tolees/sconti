@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BYGWP4J/?tag=tolees00-21'
 descuento: '42.55'
+average: '85.99'
 ---
 
 Tienes [INNZA Epilatore Luce Pulsata IPL Hair Removal 999 000 Impulsi di Luce Epilazione Definitiva Professionale Dispositivo Indolore Permanente di Rimozione per Ascella Facciale Bikiniline](https://www.amazon.it/dp/B08BYGWP4J/?tag=tolees00-21) con un 42.55 % de descuento con precio de oferta de 85.99 EUR (original: 149.68 EUR) en el siguiente enlace!

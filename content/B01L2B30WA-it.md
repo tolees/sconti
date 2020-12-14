@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01L2B30WA/?tag=tolees00-21'
 descuento: '40.79'
+average: '20.0'
 ---
 
 Tienes [Caffè Borbone Respresso Miscela Decaffeinata - Confezione da 100 Capsule - compatibili con le macchine Nespresso®* ad uso domestico](https://www.amazon.it/dp/B01L2B30WA/?tag=tolees00-21) con un 40.79 % de descuento con precio de oferta de 20.0 EUR (original: 33.78 EUR) en el siguiente enlace!

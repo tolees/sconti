@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086R9VVD5/?tag=tolees00-21'
 descuento: '31.45'
+average: '26.16'
 ---
 
 Está [Tennent s Super Birra - Pacco da 24 x 355 ml](https://www.amazon.it/dp/B086R9VVD5/?tag=tolees00-21) con 31.45 de descuento por 26.16 EUR (original: 38.16 EUR) en el siguiente enlace!

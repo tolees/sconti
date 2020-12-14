@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00628VOEA/?tag=tolees00-21'
 descuento: '35.26'
+average: '89.99'
 ---
 
 Está [Ghd Air - Asciugacapelli professionale  Finish come appena uscita dal salone in metà tempo  Nero/Argento](https://www.amazon.it/dp/B00628VOEA/?tag=tolees00-21) con 35.26 de descuento por 89.99 EUR (original: 139.0 EUR) en el siguiente enlace!

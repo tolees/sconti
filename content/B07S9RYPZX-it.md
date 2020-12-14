@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S9RYPZX/?tag=tolees00-21'
 descuento: '35.36'
+average: '32.29'
 ---
 
 Está [Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  Bianco White Black 24  46 EU](https://www.amazon.it/dp/B07S9RYPZX/?tag=tolees00-21) con 35.36 de descuento por 32.29 EUR (original: 49.95 EUR) en el siguiente enlace!

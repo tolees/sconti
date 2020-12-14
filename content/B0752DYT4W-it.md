@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21'
 descuento: '27.51'
+average: '1.97'
 ---
 
 Tienes [Fanta Original 330 ml - 4 lattine](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21) con un 27.51 % de descuento con precio de oferta de 1.95 EUR (original: 2.69 EUR) en el siguiente enlace!

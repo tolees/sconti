@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B075PKJW9M/?tag=tolees00-21'
 descuento: '37.41'
+average: '13.77'
 ---
 
 Tienes [Havaianas Logo Metallic  Infradito Donna Nero  Black/Black 1069   Taglia Produttore 33/34](https://www.amazon.it/dp/B075PKJW9M/?tag=tolees00-21) con un 37.41 % de descuento con precio de oferta de 13.77 EUR (original: 22.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FMZKJZM/?tag=tolees00-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Gillette Fusion5 ProGlide Rasoio Da Uomo Set Regalo Premium  4 Lame + Supporto Magnetico  Imballaggio Riciclabile  Nero  Rasoio In Edizione Limitata Luxury](https://www.amazon.it/dp/B08FMZKJZM/?tag=tolees00-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

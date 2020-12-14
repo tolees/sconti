@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00MHPCTC8/?tag=tolees00-21'
 descuento: '31.54'
+average: '65.0'
 ---
 
 Ahora mismo tienes [adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  Core White/Dark Blue   42 EU](https://www.amazon.it/dp/B00MHPCTC8/?tag=tolees00-21) a 65.0 EUR (original: 94.95 EUR) (31.54 %  de descuento) en el siguiente enlace!

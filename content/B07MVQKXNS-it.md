@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MVQKXNS/?tag=tolees00-21'
 descuento: '61.64'
+average: '8.44'
 ---
 
 Está [Marchio Amazon - MERAKI Slip a Vita Bassa in Cotone Uomo  Pacco da 4  White  White   L  Label: L](https://www.amazon.it/dp/B07MVQKXNS/?tag=tolees00-21) con 61.64 de descuento por 8.44 EUR (original: 22.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073RMCDN7/?tag=tolees00-21'
 descuento: '30.59'
+average: '55.49'
 ---
 
 Ahora mismo tienes [Reebok Club C 85  Sneaker Uomo  Bianco  Intense White/Royal-Gum   48.5 EU](https://www.amazon.it/dp/B073RMCDN7/?tag=tolees00-21) a 55.49 EUR (original: 79.95 EUR) (30.59 %  de descuento) en el siguiente enlace!

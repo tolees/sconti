@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XKLHVVK/?tag=tolees00-21'
 descuento: '33.33'
+average: '45.99'
 ---
 
 Tienes [ORICO Stazione di Ricarica Mobile USB  Dock di Ricarica USB a 7 Porte  70 W  per Smartphone e Tablet  con Interruttore ON/off per Uso Domestico e Commerciale](https://www.amazon.it/dp/B06XKLHVVK/?tag=tolees00-21) con un 33.33 % de descuento con precio de oferta de 45.99 EUR (original: 68.98 EUR) en el siguiente enlace!

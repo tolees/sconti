@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BSO6NZW/?tag=tolees00-21'
 descuento: '50.01'
+average: '34.99'
 ---
 
 Está [Philips Sonicare HX6322/04 ForKids Spazzolino Elettrico per Bambini con Tecnologia Sonica  Connesso all App per un Igiene Orale Divertente](https://www.amazon.it/dp/B01BSO6NZW/?tag=tolees00-21) con 50.01 de descuento por 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!

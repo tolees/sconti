@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0095LYRK4/?tag=tolees00-21'
 descuento: '26.91'
+average: '11.125'
 ---
 
 Tienes [Satya assortimento di Inciensos 12 scatole da 15 g](https://www.amazon.it/dp/B0095LYRK4/?tag=tolees00-21) con un 26.91 % de descuento con precio de oferta de 11.11 EUR (original: 15.2 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088KJVRP1/?tag=tolees00-21'
 descuento: '45.97'
+average: '66.99'
 ---
 
 Ahora mismo tienes [PUPPY KITTY Distributore Automatico di Cibo per Gatti  Cani  con Ciotola per Alimenti in Acciaio Inox  registratore vocale  Doppio Mantenimento della freschezza e Zero intasamenti](https://www.amazon.it/dp/B088KJVRP1/?tag=tolees00-21) a 66.99 EUR (original: 123.99 EUR) (45.97 %  de descuento) en el siguiente enlace!

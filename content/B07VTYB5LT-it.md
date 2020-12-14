@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VTYB5LT/?tag=tolees00-21'
 descuento: '74.33'
+average: '23.09'
 ---
 
 Tienes [Lee Luke Pantaloni  Blu  Dark Marine 37   W30/L34  Taglia Unica: 30/34  Uomo](https://www.amazon.it/dp/B07VTYB5LT/?tag=tolees00-21) con un 74.33 % de descuento con precio de oferta de 23.09 EUR (original: 89.95 EUR) en el siguiente enlace!

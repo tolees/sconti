@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VM9V59H/?tag=tolees00-21'
 descuento: '25.45'
+average: '808.89'
 ---
 
 Tienes [Asus ROG Strix GeForce RTX 2080 SUPER Advanced Edition 8 GB GDDR6  Scheda Video Gaming  LED RGB  Aura Sync e Dissipatore Triventola per Gaming  Alti Refresh Rate e VR](https://www.amazon.it/dp/B07VM9V59H/?tag=tolees00-21) con un 25.45 % de descuento con precio de oferta de 808.89 EUR (original: 1084.99 EUR) en el siguiente enlace!

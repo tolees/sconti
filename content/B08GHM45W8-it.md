@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08GHM45W8/?tag=tolees00-21'
 descuento: '26.09'
+average: '33.99'
 ---
 
 Está [GEEMEE Controller Wireless per PS4  Controller Touch Panel con Doppia Vibrazione a Sei Assi e Audio  Bluetooth Senza Fili Gamepad Joystick Gamepad Gaming Controller per Playstation 4 / PRO/Slim](https://www.amazon.it/dp/B08GHM45W8/?tag=tolees00-21) con 26.09 de descuento por 33.99 EUR (original: 45.99 EUR) en el siguiente enlace!

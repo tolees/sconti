@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VFNKR2N/?tag=tolees00-21'
 descuento: '31.43'
+average: '15.88'
 ---
 
 Tienes [Desigual Bols Intra Durban Borsa a tracolla da donna  beige  Camel   4 x 17 5 x 27 2 cm](https://www.amazon.it/dp/B07VFNKR2N/?tag=tolees00-21) con un 31.43 % de descuento con precio de oferta de 15.88 EUR (original: 23.16 EUR) en el siguiente enlace!

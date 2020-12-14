@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00L464KIM/?tag=tolees00-21'
 descuento: '53.95'
+average: '0.99'
 ---
 
 Ahora mismo tienes [Matt Le Mais Bio - 130 gr  Senza glutine](https://www.amazon.it/dp/B00L464KIM/?tag=tolees00-21) a 0.99 EUR (original: 2.15 EUR) (53.95 %  de descuento) en el siguiente enlace!

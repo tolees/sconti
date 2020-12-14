@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000GAYQJ0/?tag=tolees00-21'
 descuento: '38.57'
+average: '21.057307692307692'
 ---
 
 Tienes [Casio Vintage A158WA-1CR - Orologio da Polso Digitale  Argento](https://www.amazon.it/dp/B000GAYQJ0/?tag=tolees00-21) con un 38.57 % de descuento con precio de oferta de 21.5 EUR (original: 35.0 EUR) en el siguiente enlace!

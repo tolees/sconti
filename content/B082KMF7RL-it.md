@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B082KMF7RL/?tag=tolees00-21'
 descuento: '26.48'
+average: '24.99'
 ---
 
 Ahora mismo tienes [Fajiabao Giochi Montessori Banco da Martellare in Legno per Bambini con Martello Giocattolo Xilofono & Gioco del Labirinto 3 in 1 Giochi Educativi Giocattoli Regalo per Ragazzi Ragazze 2 3 4 Anni](https://www.amazon.it/dp/B082KMF7RL/?tag=tolees00-21) a 24.99 EUR (original: 33.99 EUR) (26.48 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CVB9LS5/?tag=tolees00-21'
 descuento: '30.00'
+average: '17.99'
 ---
 
 Está [Vimzone 1000 Pezzi Jigsaw Puzzle  Puzzle da Pavimento con Stampa ad Alta Definizione per Adulti Cresciuti  Giochi Educativi Ideali per Rilassamento  Meditazione  Hobby  Spazio Cosmico ](https://www.amazon.it/dp/B08CVB9LS5/?tag=tolees00-21) con 30.00 de descuento por 17.99 EUR (original: 25.7 EUR) en el siguiente enlace!

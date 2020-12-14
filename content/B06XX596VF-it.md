@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XX596VF/?tag=tolees00-21'
 descuento: '33.82'
+average: '59.56'
 ---
 
 Ahora mismo tienes [New Balance 574v2 Core  Scarpa da Tennis Donna  Bianco  White   44 EU](https://www.amazon.it/dp/B06XX596VF/?tag=tolees00-21) a 59.56 EUR (original: 90.0 EUR) (33.82 %  de descuento) en el siguiente enlace!

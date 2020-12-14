@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CSL3DKD/?tag=tolees00-21'
 descuento: '38.34'
+average: '36.99'
 ---
 
 Ahora mismo tienes [Auricolari Bluetooth Cuffie Bluetooth Pro 5.0 Cuffie Wireless Sportive IPX7 Impermeabili Riduzione del Rumore Stereo 3D HD Insonorizzato adatte per Apple AirPods Pro/Android/iPhone Cuffie In Ear](https://www.amazon.it/dp/B08CSL3DKD/?tag=tolees00-21) a 36.99 EUR (original: 59.99 EUR) (38.34 %  de descuento) en el siguiente enlace!

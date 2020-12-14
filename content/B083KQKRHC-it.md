@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083KQKRHC/?tag=tolees00-21'
 descuento: '31.93'
+average: '450.58'
 ---
 
 Ahora mismo tienes [Samsung Galaxy S10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Nero  Prism Black ](https://www.amazon.it/dp/B083KQKRHC/?tag=tolees00-21) a 462.17 EUR (original: 679.0 EUR) (31.93 %  de descuento) en el siguiente enlace!

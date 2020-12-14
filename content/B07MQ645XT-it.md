@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MQ645XT/?tag=tolees00-21'
 descuento: '39.70'
+average: '12.0'
 ---
 
 Está [Urban Classics Block Swim Shorts Costume Uomo con Tasche  Pantaloncini da Bagno con Chiusura a Coulisse ed Elastico in Vita  Boxer da Spiaggia  Piscina  Mare  Frozen Yellow](https://www.amazon.it/dp/B07MQ645XT/?tag=tolees00-21) con 39.70 de descuento por 12.0 EUR (original: 19.9 EUR) en el siguiente enlace!

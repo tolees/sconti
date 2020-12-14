@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00368ONYC/?tag=tolees00-21'
 descuento: '25.04'
+average: '26.2'
 ---
 
 Ahora mismo tienes [adidas Adilette  Ciabatte Unisex – Adulto  Blu  Adiblue G1/White/Adiblue G1   48.5 EU](https://www.amazon.it/dp/B00368ONYC/?tag=tolees00-21) a 26.2 EUR (original: 34.95 EUR) (25.04 %  de descuento) en el siguiente enlace!

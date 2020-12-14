@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B006WJNJL0/?tag=tolees00-21'
 descuento: '28.34'
+average: '103.9'
 ---
 
 Tienes [Timberland Classic 2 Eye  Scarpe da barca Uomo  Marrone  Brown Full Grain   43.5 EU](https://www.amazon.it/dp/B006WJNJL0/?tag=tolees00-21) con un 28.34 % de descuento con precio de oferta de 103.9 EUR (original: 145.0 EUR) en el siguiente enlace!

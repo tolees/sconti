@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GT2MQ31/?tag=tolees00-21'
 descuento: '31.03'
+average: '68.94'
 ---
 
 Está [Desigual Bag Apolo Rotterdam Women - Borse a spalla Donna  Bianco  Crudo   15x30x31 cm  B x H T ](https://www.amazon.it/dp/B07GT2MQ31/?tag=tolees00-21) con 31.03 de descuento por 68.94 EUR (original: 99.95 EUR) en el siguiente enlace!

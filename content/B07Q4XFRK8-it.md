@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Q4XFRK8/?tag=tolees00-21'
 descuento: '28.25'
+average: '64.5'
 ---
 
 Está [Trolley Fit Seven Colorflower  Nero  35 Lt  2in1 Zaino con Sollevamento Spallacci per uso Trolley  Scuola & Viaggio](https://www.amazon.it/dp/B07Q4XFRK8/?tag=tolees00-21) con 28.25 de descuento por 64.5 EUR (original: 89.9 EUR) en el siguiente enlace!

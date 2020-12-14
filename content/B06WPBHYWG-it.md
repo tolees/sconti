@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06WPBHYWG/?tag=tolees00-21'
 descuento: '40.72'
+average: '29.61'
 ---
 
 Tienes [Adidas Vs Pace  Scarpe da Ginnastica Uomo  Blu  Maruni/Ftwbla/Azul 000   39 1/3 EU](https://www.amazon.it/dp/B06WPBHYWG/?tag=tolees00-21) con un 40.72 % de descuento con precio de oferta de 29.61 EUR (original: 49.95 EUR) en el siguiente enlace!

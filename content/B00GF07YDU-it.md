@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00GF07YDU/?tag=tolees00-21'
 descuento: '34.49'
+average: '49.46'
 ---
 
 Está [Intex Dura Beam Plus Materasso Classic Gonfiabile  Comfort Plush  Tecnologia Fiber Tech  PVC-Poliestere  Multicolore  152 x 203 x 46 cm](https://www.amazon.it/dp/B00GF07YDU/?tag=tolees00-21) con 34.49 de descuento por 49.46 EUR (original: 75.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CVD1Q7W/?tag=tolees00-21'
 descuento: '33.98'
+average: '39.39'
 ---
 
 Tienes [Felix AS Good AS it Looks Misto varietà Cat Food  100 g  Confezione da 120](https://www.amazon.it/dp/B07CVD1Q7W/?tag=tolees00-21) con un 33.98 % de descuento con precio de oferta de 37.23 EUR (original: 56.39 EUR) en el siguiente enlace!

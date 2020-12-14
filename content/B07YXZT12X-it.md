@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21'
 descuento: '34.25'
+average: '109.65764705882354'
 ---
 
 Está [HUAWEI Freebuds 3 Auricolare  Bluetooth  Bianco](https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21) con 34.25 de descuento por 117.7 EUR (original: 179.0 EUR) en el siguiente enlace!

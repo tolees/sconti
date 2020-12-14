@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V9JJ8LG/?tag=tolees00-21'
 descuento: '50.00'
+average: '34.95'
 ---
 
 Tienes [Calvin Klein Washed Stripe Stretch Shirt  f  Camicia  Blu  Night Sky Chw   X-Large Uomo](https://www.amazon.it/dp/B07V9JJ8LG/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 34.95 EUR (original: 69.9 EUR) en el siguiente enlace!

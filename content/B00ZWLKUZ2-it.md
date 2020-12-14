@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ZWLKUZ2/?tag=tolees00-21'
 descuento: '73.45'
+average: '3.98'
 ---
 
 Ahora mismo tienes [Disney Infinity 3.0: EU Han Solo Figurina](https://www.amazon.it/dp/B00ZWLKUZ2/?tag=tolees00-21) a 3.98 EUR (original: 14.99 EUR) (73.45 %  de descuento) en el siguiente enlace!

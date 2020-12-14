@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21'
 descuento: '25.16'
+average: '29.93'
 ---
 
 Está [Crocs Classic  Sabot Unisex Adulto  Grigio  Slate Grey   43/44 EU](https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21) con 25.16 de descuento por 29.93 EUR (original: 39.99 EUR) en el siguiente enlace!

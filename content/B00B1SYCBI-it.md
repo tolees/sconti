@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21'
 descuento: '25.14'
+average: '29.77'
 ---
 
 Está [Brandit Savage Vintage Shorts Pantaloncini  Schwarz  M Uomo](https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21) con 25.14 de descuento por 29.86 EUR (original: 39.89 EUR) en el siguiente enlace!

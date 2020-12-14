@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077DYKN93/?tag=tolees00-21'
 descuento: '25.02'
+average: '10.49'
 ---
 
 Ahora mismo tienes [Aigostar Multipresa Ciabatta Elettrica a 5 Posti  250v/2500W Cavo 5m. Bianco](https://www.amazon.it/dp/B077DYKN93/?tag=tolees00-21) a 10.49 EUR (original: 13.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

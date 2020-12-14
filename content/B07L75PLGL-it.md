@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07L75PLGL/?tag=tolees00-21'
 descuento: '25.01'
+average: '29.75'
 ---
 
 Está [GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina Nero con Beccuccio Flessibile  Miscelatore Monocomando per Cucina  G3/8 Pollici   Cromo](https://www.amazon.it/dp/B07L75PLGL/?tag=tolees00-21) con 25.01 de descuento por 29.75 EUR (original: 39.67 EUR) en el siguiente enlace!

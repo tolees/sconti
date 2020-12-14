@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CT5VSTZ/?tag=tolees00-21'
 descuento: '25.72'
+average: '25.99'
 ---
 
 Tienes [Dash Allin1 Pods Detersivo Lavatrice in Capsule Lavanda e Camomilla  Maxi Formato da 3 x 39 Pezzi  117 Lavaggi](https://www.amazon.it/dp/B07CT5VSTZ/?tag=tolees00-21) con un 25.72 % de descuento con precio de oferta de 25.99 EUR (original: 34.99 EUR) en el siguiente enlace!

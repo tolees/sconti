@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TC5DZTS/?tag=tolees00-21'
 descuento: '25.00'
+average: '299.99'
 ---
 
 Tienes [TCL | 43EP641 | Android TV con Assistente Google: Risoluzione 4k HDR  Accesso a Google Play Store  Dolby Audio integrato. Colore: Titanio  43 Pollici  Classe energetica A+ ](https://www.amazon.it/dp/B07TC5DZTS/?tag=tolees00-21) con un 25.00 % de descuento con precio de oferta de 299.99 EUR (original: 399.99 EUR) en el siguiente enlace!

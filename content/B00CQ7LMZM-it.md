@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00CQ7LMZM/?tag=tolees00-21'
 descuento: '45.02'
+average: '10.99'
 ---
 
 Está [Optimum Nutrition Olio di Pesce con Capsule Omega 3  non Aromatizzato  100 Porzioni](https://www.amazon.it/dp/B00CQ7LMZM/?tag=tolees00-21) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01JGFDLH8/?tag=tolees00-21'
 descuento: '80.90'
+average: '3.8'
 ---
 
 Tienes [Bourjois Ombretti le Palette les Nude - 4.5 g](https://www.amazon.it/dp/B01JGFDLH8/?tag=tolees00-21) con un 80.90 % de descuento con precio de oferta de 3.8 EUR (original: 19.9 EUR) en el siguiente enlace!

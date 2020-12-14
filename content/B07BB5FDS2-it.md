@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BB5FDS2/?tag=tolees00-21'
 descuento: '49.86'
+average: '50.29'
 ---
 
 Ahora mismo tienes [Kodak PRINTOMATIC Fotocamera istantanea  Blu  Foto a colori su carta fotografica Zink Zero Ink 2x3 con retro autoadesivo.](https://www.amazon.it/dp/B07BB5FDS2/?tag=tolees00-21) a 50.13 EUR (original: 99.99 EUR) (49.86 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003VYTIZU/?tag=tolees00-21'
 descuento: '33.44'
+average: '1.7899999999999998'
 ---
 
 Tienes [Kinder Brioss  confezione da 10 merendine - 270 gr](https://www.amazon.it/dp/B003VYTIZU/?tag=tolees00-21) con un 33.44 % de descuento con precio de oferta de 1.99 EUR (original: 2.99 EUR) en el siguiente enlace!

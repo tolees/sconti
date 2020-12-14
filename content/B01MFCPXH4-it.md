@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MFCPXH4/?tag=tolees00-21'
 descuento: '29.48'
+average: '15.69'
 ---
 
 Ahora mismo tienes [Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9  Multicolore  6.5x6.5x5.6 cm  6 unità](https://www.amazon.it/dp/B01MFCPXH4/?tag=tolees00-21) a 15.69 EUR (original: 22.25 EUR) (29.48 %  de descuento) en el siguiente enlace!

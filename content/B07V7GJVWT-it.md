@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V7GJVWT/?tag=tolees00-21'
 descuento: '34.95'
+average: '19.45'
 ---
 
 Ahora mismo tienes [Calvin Klein Instit Chest Logo Reg Tee T-Shirt  Blu  Coastal Blue C2o   Small Uomo](https://www.amazon.it/dp/B07V7GJVWT/?tag=tolees00-21) a 19.45 EUR (original: 29.9 EUR) (34.95 %  de descuento) en el siguiente enlace!

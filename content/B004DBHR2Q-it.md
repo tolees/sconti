@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B004DBHR2Q/?tag=tolees00-21'
 descuento: '55.12'
+average: '2.5'
 ---
 
 Tienes [Bic Cristal Original Punta Media 1 mm Confezione 10 Penne Colore Nero](https://www.amazon.it/dp/B004DBHR2Q/?tag=tolees00-21) con un 55.12 % de descuento con precio de oferta de 2.5 EUR (original: 5.57 EUR) en el siguiente enlace!

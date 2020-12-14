@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KF663SN/?tag=tolees00-21'
 descuento: '68.35'
+average: '18.99'
 ---
 
 Está [Levi s HR Decon Iconic BF Skirt Gonna  Nero  Left Behind 0008   36  Taglia Produttore: 30  Donna](https://www.amazon.it/dp/B07KF663SN/?tag=tolees00-21) con 68.35 de descuento por 18.99 EUR (original: 60.0 EUR) en el siguiente enlace!

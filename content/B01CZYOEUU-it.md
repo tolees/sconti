@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01CZYOEUU/?tag=tolees00-21'
 descuento: '47.73'
+average: '12.8'
 ---
 
 Está [Disney Princess - Vaiana Fashion Doll](https://www.amazon.it/dp/B01CZYOEUU/?tag=tolees00-21) con 47.73 de descuento por 12.8 EUR (original: 24.49 EUR) en el siguiente enlace!

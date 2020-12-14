@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TYQ2R3S/?tag=tolees00-21'
 descuento: '59.63'
+average: '23.82'
 ---
 
 Tienes [SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Unisex Adulto  Bianco  White/Gold A15   46 EU](https://www.amazon.it/dp/B07TYQ2R3S/?tag=tolees00-21) con un 59.63 % de descuento con precio de oferta de 23.82 EUR (original: 59.0 EUR) en el siguiente enlace!

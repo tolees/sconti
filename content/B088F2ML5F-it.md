@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088F2ML5F/?tag=tolees00-21'
 descuento: '45.86'
+average: '5.95'
 ---
 
 Ahora mismo tienes [QHOHQ Cover per Xiaomi Redmi 9 con 2 Pezzi Pellicola Protettiva  Silicone Morbido TPU Anti-Buttare Custodia - Vetro Temperato Membrana - [Durezza 9H] - [Anti-Graffio]](https://www.amazon.it/dp/B088F2ML5F/?tag=tolees00-21) a 5.95 EUR (original: 10.99 EUR) (45.86 %  de descuento) en el siguiente enlace!

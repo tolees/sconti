@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TTQ3DX2/?tag=tolees00-21'
 descuento: '49.97'
+average: '9.98'
 ---
 
 Tienes [Wrangler SS Logo Tee T-Shirt  Blu  Directoire Blue XKL   Small Uomo](https://www.amazon.it/dp/B07TTQ3DX2/?tag=tolees00-21) con un 49.97 % de descuento con precio de oferta de 9.98 EUR (original: 19.95 EUR) en el siguiente enlace!

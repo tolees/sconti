@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08GFLRNC3/?tag=tolees00-21'
 descuento: '34.63'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Scheda Micro SD 512 GB ad alta velocità classe 10 Micro SD SDXC con adattatore  512 GB ](https://www.amazon.it/dp/B08GFLRNC3/?tag=tolees00-21) a 16.99 EUR (original: 25.99 EUR) (34.63 %  de descuento) en el siguiente enlace!

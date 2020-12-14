@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N2M1W2Y/?tag=tolees00-21'
 descuento: '60.35'
+average: '11.89'
 ---
 
 Tienes [Trafficanti-War Dogs  4K+Br+Copia Dig. ](https://www.amazon.it/dp/B01N2M1W2Y/?tag=tolees00-21) con un 60.35 % de descuento con precio de oferta de 11.89 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TZ3S9L9/?tag=tolees00-21'
 descuento: '25.94'
+average: '19.99'
 ---
 
 Está [Hoidokly Caricatore Wireless 3 in 1 Ricarica Wireless Supporto di Caricabatterie Senza Fili Docking Station per Apple Watch Series 5/4/3/2/1  iPhone SE2/11 PRO Max/11/XS/XR/X/8 Plus/8 e AirPods PRO/2](https://www.amazon.it/dp/B07TZ3S9L9/?tag=tolees00-21) con 25.94 de descuento por 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

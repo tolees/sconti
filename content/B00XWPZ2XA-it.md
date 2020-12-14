@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00XWPZ2XA/?tag=tolees00-21'
 descuento: '40.92'
+average: '38.99'
 ---
 
 Ahora mismo tienes [Nike Tanjun Mn  Scarpe Sportive Uomo  Blu  Midnight Navy/White-Game Royal   44 EU](https://www.amazon.it/dp/B00XWPZ2XA/?tag=tolees00-21) a 38.99 EUR (original: 66.0 EUR) (40.92 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081TTH2V4/?tag=tolees00-21'
 descuento: '44.48'
+average: '25.075000000000003'
 ---
 
 Tienes [adidas Cropped Hood](https://www.amazon.it/dp/B081TTH2V4/?tag=tolees00-21) con un 44.48 % de descuento con precio de oferta de 27.73 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B013QOAQKA/?tag=tolees00-21'
 descuento: '54.57'
+average: '9.99'
 ---
 
 Está [CAMTOA Portatile Impermeabile Busta Sacco a Pelo  Ultra Leggero Sacchi a Pelo Sleeping Bag per Campeggio Arrampicata All aperto](https://www.amazon.it/dp/B013QOAQKA/?tag=tolees00-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

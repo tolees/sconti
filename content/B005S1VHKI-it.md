@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B005S1VHKI/?tag=tolees00-21'
 descuento: '51.06'
+average: '69.0'
 ---
 
 Tienes [Aeg FDS 140 Levigatrice Orbitale](https://www.amazon.it/dp/B005S1VHKI/?tag=tolees00-21) con un 51.06 % de descuento con precio de oferta de 69.0 EUR (original: 140.99 EUR) en el siguiente enlace!

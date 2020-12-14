@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21'
 descuento: '29.53'
+average: '91.61'
 ---
 
 Tienes [Netgear GS116E Switch Smart Managed Plus a 16 Porte Gigabit Ethernet  Desktop](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21) con un 29.53 % de descuento con precio de oferta de 91.61 EUR (original: 130.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01JLI7MFM/?tag=tolees00-21'
 descuento: '39.74'
+average: '113.9'
 ---
 
 Ahora mismo tienes [Orologio da uomo Tommy Hilfiger 1791309.](https://www.amazon.it/dp/B01JLI7MFM/?tag=tolees00-21) a 113.9 EUR (original: 189.0 EUR) (39.74 %  de descuento) en el siguiente enlace!

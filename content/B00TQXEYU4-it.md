@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00TQXEYU4/?tag=tolees00-21'
 descuento: '50.17'
+average: '74.74'
 ---
 
 Está [Fjällräven Kaipak 28 Zaino Casual  57 cm  liters  Rosso  Redwood ](https://www.amazon.it/dp/B00TQXEYU4/?tag=tolees00-21) con 50.17 de descuento por 74.74 EUR (original: 149.99 EUR) en el siguiente enlace!

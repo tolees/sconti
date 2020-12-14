@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21'
 descuento: '29.09'
+average: '1.95'
 ---
 
 Ahora mismo tienes [Guanti usa e getta  in plastica  100 pezzi  per uso alimentare  trasparenti  taglia L](https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21) a 1.95 EUR (original: 2.75 EUR) (29.09 %  de descuento) en el siguiente enlace!

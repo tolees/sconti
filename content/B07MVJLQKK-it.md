@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MVJLQKK/?tag=tolees00-21'
 descuento: '46.43'
+average: '22.5'
 ---
 
 Está [NAPAPIJRI Semiury 2 Cuffia  Blu  Blu Marine 176    Taglia Unica: OS  Uomo](https://www.amazon.it/dp/B07MVJLQKK/?tag=tolees00-21) con 46.43 de descuento por 22.5 EUR (original: 42.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B009NOZCBQ/?tag=tolees00-21'
 descuento: '60.37'
+average: '27.72'
 ---
 
 Tienes [Craghoppers Kiwi Pro Action Pantaloni  Uomo  Nero   56 EU  40 UK - Regular](https://www.amazon.it/dp/B009NOZCBQ/?tag=tolees00-21) con un 60.37 % de descuento con precio de oferta de 27.72 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00IAQ3BCA/?tag=tolees00-21'
 descuento: '41.75'
+average: '60.0'
 ---
 
 Tienes [Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano Raccolta 17 l  Plastica Dura  200 Air Watt  1000 W - Due Tubi Rigidi D Aspirazione  2 Bocchette  Filtro  Sacchetto  Tubo 2 m](https://www.amazon.it/dp/B00IAQ3BCA/?tag=tolees00-21) con un 41.75 % de descuento con precio de oferta de 60.0 EUR (original: 103.0 EUR) en el siguiente enlace!

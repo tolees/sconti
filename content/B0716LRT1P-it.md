@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0716LRT1P/?tag=tolees00-21'
 descuento: '70.08'
+average: '17.95'
 ---
 
 Tienes [Levi s Relaxed Graphic Crew  Felpa Donna  Grigio  Medium](https://www.amazon.it/dp/B0716LRT1P/?tag=tolees00-21) con un 70.08 % de descuento con precio de oferta de 17.95 EUR (original: 60.0 EUR) en el siguiente enlace!

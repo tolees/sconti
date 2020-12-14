@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01HZN09VO/?tag=tolees00-21'
 descuento: '30.04'
+average: '20.98'
 ---
 
 Está [Dragon Ball Xenoverse 2 - Xbox One](https://www.amazon.it/dp/B01HZN09VO/?tag=tolees00-21) con 30.04 de descuento por 20.98 EUR (original: 29.99 EUR) en el siguiente enlace!

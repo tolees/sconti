@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TKDNG7Z/?tag=tolees00-21'
 descuento: '64.46'
+average: '12.44'
 ---
 
 Ahora mismo tienes [Levi s Crewneck 1 T-Shirt  Blu  2pk Slim Crew Dress Blues X Riverside S 0009   Small  Pacco da 2  Uomo](https://www.amazon.it/dp/B07TKDNG7Z/?tag=tolees00-21) a 12.44 EUR (original: 35.0 EUR) (64.46 %  de descuento) en el siguiente enlace!

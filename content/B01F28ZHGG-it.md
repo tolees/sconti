@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21'
 descuento: '60.16'
+average: '4.98'
 ---
 
 Ahora mismo tienes [Call of Duty: Infinite Warfare - Legacy Edition - PlayStation 4](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21) a 4.98 EUR (original: 12.5 EUR) (60.16 %  de descuento) en el siguiente enlace!

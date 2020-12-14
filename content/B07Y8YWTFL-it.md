@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Y8YWTFL/?tag=tolees00-21'
 descuento: '27.17'
+average: '181.99'
 ---
 
 Tienes [Xiaomi Redmi Note 8 Pro 64 + 6 GB  Mineral Grey](https://www.amazon.it/dp/B07Y8YWTFL/?tag=tolees00-21) con un 27.17 % de descuento con precio de oferta de 181.99 EUR (original: 249.9 EUR) en el siguiente enlace!

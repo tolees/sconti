@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B075S3NNK5/?tag=tolees00-21'
 descuento: '34.71'
+average: '137.08'
 ---
 
 Ahora mismo tienes [GORE WEAR C5 Giacca da ciclismo per uomo GORE-TEX  S  Nero/Rosso](https://www.amazon.it/dp/B075S3NNK5/?tag=tolees00-21) a 137.08 EUR (original: 209.95 EUR) (34.71 %  de descuento) en el siguiente enlace!

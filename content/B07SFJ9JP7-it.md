@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SFJ9JP7/?tag=tolees00-21'
 descuento: '31.68'
+average: '40.99'
 ---
 
 Ahora mismo tienes [Levi s Woodward L  Sneaker Uomo  Grigio  Regular Grey 55   42 EU](https://www.amazon.it/dp/B07SFJ9JP7/?tag=tolees00-21) a 40.99 EUR (original: 60.0 EUR) (31.68 %  de descuento) en el siguiente enlace!

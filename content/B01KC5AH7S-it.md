@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01KC5AH7S/?tag=tolees00-21'
 descuento: '75.72'
+average: '33.99'
 ---
 
 Está [Cuffie Bluetooth  Auricolari Bluetooth Wireless Con Microfono Hi-Fi Stereo Bassi Profondi  30 Ore di Tempo di Utilizzo  IP7 Impermeabile Cuffie Senza Fili con Display Digitale LED  Touch Controllo](https://www.amazon.it/dp/B01KC5AH7S/?tag=tolees00-21) con 75.72 de descuento por 33.99 EUR (original: 139.99 EUR) en el siguiente enlace!

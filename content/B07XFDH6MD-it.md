@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XFDH6MD/?tag=tolees00-21'
 descuento: '39.98'
+average: '149.99'
 ---
 
 Está [HUAWEI Watch GT 2 Smartwatch 46 mm  Durata Batteria fino a 2 Settimane  GPS  15 Modalità di Allenamento  Display del Quadrante in Vetro 3D  Chiamata Tramite Bluetooth  Pebble Brown](https://www.amazon.it/dp/B07XFDH6MD/?tag=tolees00-21) con 39.98 de descuento por 149.99 EUR (original: 249.9 EUR) en el siguiente enlace!

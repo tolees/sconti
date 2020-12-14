@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RXYVDTY/?tag=tolees00-21'
 descuento: '33.69'
+average: '7.95'
 ---
 
 Está [adidas Cush CRW 3pp  Calzini Uomo  Multicolore  Black/Grey/White   M](https://www.amazon.it/dp/B07RXYVDTY/?tag=tolees00-21) con 33.69 de descuento por 7.95 EUR (original: 11.99 EUR) en el siguiente enlace!

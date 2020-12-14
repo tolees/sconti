@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21'
 descuento: '45.88'
+average: '12.99'
 ---
 
 Tienes [Havaianas Luna  Sandali Donna  Blu  Navy Blue 0555   39/40 EU](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21) con un 45.88 % de descuento con precio de oferta de 12.99 EUR (original: 24.0 EUR) en el siguiente enlace!

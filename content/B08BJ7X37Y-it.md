@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BJ7X37Y/?tag=tolees00-21'
 descuento: '30.24'
+average: '49.03'
 ---
 
 Está [SPIRIT OF GAMER - MY-JOY PLUS - Controllore Bluetooth Switch & Switch Lite - Wireless - Supporto Incluso - Durata Della Batteria Di 20 Ore * - 2 Cavi USB-C Forniti](https://www.amazon.it/dp/B08BJ7X37Y/?tag=tolees00-21) con 30.24 de descuento por 49.03 EUR (original: 70.28 EUR) en el siguiente enlace!

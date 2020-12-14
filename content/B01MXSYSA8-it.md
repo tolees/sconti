@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MXSYSA8/?tag=tolees00-21'
 descuento: '32.99'
+average: '12.9'
 ---
 
 Tienes [Lower East impermeable Uomo  Nero  Schwarz   X-Large](https://www.amazon.it/dp/B01MXSYSA8/?tag=tolees00-21) con un 32.99 % de descuento con precio de oferta de 12.9 EUR (original: 19.25 EUR) en el siguiente enlace!

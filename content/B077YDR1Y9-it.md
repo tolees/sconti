@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077YDR1Y9/?tag=tolees00-21'
 descuento: '69.93'
+average: '82.23'
 ---
 
 Tienes [Accurist Orologio Analogico-Digitale Quarzo Uomo con Cinturino in Pelle 7101.01](https://www.amazon.it/dp/B077YDR1Y9/?tag=tolees00-21) con un 69.93 % de descuento con precio de oferta de 82.23 EUR (original: 273.48 EUR) en el siguiente enlace!

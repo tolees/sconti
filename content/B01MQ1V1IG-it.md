@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MQ1V1IG/?tag=tolees00-21'
 descuento: '53.05'
+average: '46.95'
 ---
 
 Tienes [Lacoste Sport Sh2128 Felpa con Cappuccio  Grigio  Argent Chine/Marine   Medium  Taglia Produttore: 4  Uomo](https://www.amazon.it/dp/B01MQ1V1IG/?tag=tolees00-21) con un 53.05 % de descuento con precio de oferta de 46.95 EUR (original: 100.0 EUR) en el siguiente enlace!

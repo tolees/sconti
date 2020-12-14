@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZPRX3KX/?tag=tolees00-21'
 descuento: '41.13'
+average: '26.49'
 ---
 
 Está [Hurley M Phtm Vagabond Elite  Cappelli Uomo  Dk Smoke Grey  L/XL](https://www.amazon.it/dp/B07ZPRX3KX/?tag=tolees00-21) con 41.13 de descuento por 26.49 EUR (original: 45.0 EUR) en el siguiente enlace!

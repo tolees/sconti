@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VHTT7MZ/?tag=tolees00-21'
 descuento: '64.99'
+average: '45.49'
 ---
 
 Ahora mismo tienes [Desigual Vest Portland Vestito  Nero  Negro 2000   Large Donna](https://www.amazon.it/dp/B07VHTT7MZ/?tag=tolees00-21) a 45.49 EUR (original: 129.95 EUR) (64.99 %  de descuento) en el siguiente enlace!

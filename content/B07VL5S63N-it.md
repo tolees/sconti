@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VL5S63N/?tag=tolees00-21'
 descuento: '40.00'
+average: '17.97'
 ---
 
 Tienes [YAMAMAY® Costume Push Push up Tinta Unita Mare Donna con Allacciatura al Collo Regolabile - Mirage](https://www.amazon.it/dp/B07VL5S63N/?tag=tolees00-21) con un 40.00 % de descuento con precio de oferta de 17.97 EUR (original: 29.95 EUR) en el siguiente enlace!

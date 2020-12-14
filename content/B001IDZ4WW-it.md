@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B001IDZ4WW/?tag=tolees00-21'
 descuento: '46.09'
+average: '6.9'
 ---
 
 Ahora mismo tienes [Max Factor Lipfinity Lip Colour  Rossetto Lunga Durata e Gloss Idratante con Applicazione Bifase  Nuance 020 Angelic  2.3 ml e 1.9 g](https://www.amazon.it/dp/B001IDZ4WW/?tag=tolees00-21) a 6.9 EUR (original: 12.8 EUR) (46.09 %  de descuento) en el siguiente enlace!

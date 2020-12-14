@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V7XTK5X/?tag=tolees00-21'
 descuento: '60.56'
+average: '29.54'
 ---
 
 Está [Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Basse Uomo  Bianco  White Ybs   42 EU](https://www.amazon.it/dp/B07V7XTK5X/?tag=tolees00-21) con 60.56 de descuento por 29.54 EUR (original: 74.9 EUR) en el siguiente enlace!

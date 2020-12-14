@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21'
 descuento: '47.09'
+average: '4.0'
 ---
 
 Ahora mismo tienes [Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21) a 4.0 EUR (original: 7.56 EUR) (47.09 %  de descuento) en el siguiente enlace!

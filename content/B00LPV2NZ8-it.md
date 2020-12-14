@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00LPV2NZ8/?tag=tolees00-21'
 descuento: '33.34'
+average: '59.99'
 ---
 
 Está [iRobot Batteria Lunga Durata Xlife  Parti Originali  Compatibile con Roomba Serie 600/700/800  Blu](https://www.amazon.it/dp/B00LPV2NZ8/?tag=tolees00-21) con 33.34 de descuento por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

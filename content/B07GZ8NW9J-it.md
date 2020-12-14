@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GZ8NW9J/?tag=tolees00-21'
 descuento: '62.21'
+average: '16.06'
 ---
 
 Tienes [Marchio Amazon - MERAKI Blazer Casual Uomo  Blu  Navy   46  Label: 36](https://www.amazon.it/dp/B07GZ8NW9J/?tag=tolees00-21) con un 62.21 % de descuento con precio de oferta de 16.06 EUR (original: 42.5 EUR) en el siguiente enlace!

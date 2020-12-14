@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S3DVJKB/?tag=tolees00-21'
 descuento: '40.03'
+average: '11.99'
 ---
 
 Está [Epilatore Sopracciglia Donna  Rasoio Sopracciglia  Eyebrow Trimmer  2019 Nuovo Portatile Elettrico Sopracciglia Rasoio Per Le Sopracciglia Rimodellante e Lisciatura  Oro Rosa](https://www.amazon.it/dp/B07S3DVJKB/?tag=tolees00-21) con 40.03 de descuento por 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!

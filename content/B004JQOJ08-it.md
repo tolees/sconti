@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B004JQOJ08/?tag=tolees00-21'
 descuento: '37.86'
+average: '17.067368421052628'
 ---
 
 Tienes [Philips HP6341/00 Ladyshave Rasoio Femminile  Wet&Dry  Bianco/Fucsia](https://www.amazon.it/dp/B004JQOJ08/?tag=tolees00-21) con un 37.86 % de descuento con precio de oferta de 16.15 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21'
 descuento: '29.49'
+average: '27.5'
 ---
 
 Está [Jump Force - PlayStation 4](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21) con 29.49 de descuento por 27.5 EUR (original: 39.0 EUR) en el siguiente enlace!

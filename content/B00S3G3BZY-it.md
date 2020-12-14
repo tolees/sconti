@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00S3G3BZY/?tag=tolees00-21'
 descuento: '38.07'
+average: '13.0'
 ---
 
 Tienes [Philips NT3160/10 Serie 3000 Rifinitore di Precisione per Naso  Orecchie e Sopracciglia](https://www.amazon.it/dp/B00S3G3BZY/?tag=tolees00-21) con un 38.07 % de descuento con precio de oferta de 13.0 EUR (original: 20.99 EUR) en el siguiente enlace!

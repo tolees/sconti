@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0741DWT2H/?tag=tolees00-21'
 descuento: '45.84'
+average: '64.99'
 ---
 
 Ahora mismo tienes [Tristar Fr-6996 Crispy Fryer XXL  1500 W  5.2 Litri  18/8 Stainless Steel  Nero](https://www.amazon.it/dp/B0741DWT2H/?tag=tolees00-21) a 64.99 EUR (original: 119.99 EUR) (45.84 %  de descuento) en el siguiente enlace!

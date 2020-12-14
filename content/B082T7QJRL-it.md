@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B082T7QJRL/?tag=tolees00-21'
 descuento: '32.86'
+average: '7.99'
 ---
 
 Ahora mismo tienes [Brooklyn Mega Stick Gomme da Masticare  Chewing Gum Gusti Assortiti Cinnamon  Chloro  Extramint  Liquorice  Spearmint  Confezione speciale da 8 Stick  Ottima come Idea Regalo](https://www.amazon.it/dp/B082T7QJRL/?tag=tolees00-21) a 7.99 EUR (original: 11.9 EUR) (32.86 %  de descuento) en el siguiente enlace!

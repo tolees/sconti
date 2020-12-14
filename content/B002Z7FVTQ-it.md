@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B002Z7FVTQ/?tag=tolees00-21'
 descuento: '54.90'
+average: '33.3575'
 ---
 
 Tienes [D&G 3 L IMPERATRICE EDT 100ML](https://www.amazon.it/dp/B002Z7FVTQ/?tag=tolees00-21) con un 54.90 % de descuento con precio de oferta de 31.95 EUR (original: 70.85 EUR) en el siguiente enlace!

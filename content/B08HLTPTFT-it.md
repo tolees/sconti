@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08HLTPTFT/?tag=tolees00-21'
 descuento: '30.45'
+average: '47.99'
 ---
 
 Ahora mismo tienes [Yagte Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  MacBook  Xbox One 1TB Blu ](https://www.amazon.it/dp/B08HLTPTFT/?tag=tolees00-21) a 47.99 EUR (original: 69.0 EUR) (30.45 %  de descuento) en el siguiente enlace!

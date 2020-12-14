@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07G1XZQSV/?tag=tolees00-21'
 descuento: '30.99'
+average: '89.71'
 ---
 
 Ahora mismo tienes [Polaroid Mint Fotocamera digitale Instant Print  Blu   stampa su carta fotografica Zink 2x3 adesiva](https://www.amazon.it/dp/B07G1XZQSV/?tag=tolees00-21) a 89.71 EUR (original: 129.99 EUR) (30.99 %  de descuento) en el siguiente enlace!

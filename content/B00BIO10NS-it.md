@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00BIO10NS/?tag=tolees00-21'
 descuento: '59.28'
+average: '23.75'
 ---
 
 Está [Hugo Boss Hugo Eau de Toilette  Uomo  75 ml](https://www.amazon.it/dp/B00BIO10NS/?tag=tolees00-21) con 59.28 de descuento por 23.75 EUR (original: 58.32 EUR) en el siguiente enlace!

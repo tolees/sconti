@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B008RAR9JA/?tag=tolees00-21'
 descuento: '62.58'
+average: '2.9'
 ---
 
 Ahora mismo tienes [Max Factor Matita Occhi Kohl Pencil  Eyeliner con Texture Morbida Facile da Sfumare  070 Olive](https://www.amazon.it/dp/B008RAR9JA/?tag=tolees00-21) a 2.9 EUR (original: 7.75 EUR) (62.58 %  de descuento) en el siguiente enlace!

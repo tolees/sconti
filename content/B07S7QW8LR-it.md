@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S7QW8LR/?tag=tolees00-21'
 descuento: '62.90'
+average: '27.81'
 ---
 
 Está [Puma Ascend  Scarpe da Ginnastica Unisex-Adulto  Nero Black White/High Risk Red  40.5 EU](https://www.amazon.it/dp/B07S7QW8LR/?tag=tolees00-21) con 62.90 de descuento por 27.81 EUR (original: 74.95 EUR) en el siguiente enlace!

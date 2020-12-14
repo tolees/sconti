@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08J6RZL5Z/?tag=tolees00-21'
 descuento: '56.68'
+average: '25.99'
 ---
 
 Está [Cuffie Bluetooth 5.0  cuffie Wireless integrate  microfono e scatola di ricarica  riduzione del rumore stereo 3D HD  per cuffie iPhone/Android/Apple Airpods Pro/Samsung/Huawei Xiaomi](https://www.amazon.it/dp/B08J6RZL5Z/?tag=tolees00-21) con 56.68 de descuento por 25.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00E4L0GZK/?tag=tolees00-21'
 descuento: '48.72'
+average: '1.0'
 ---
 
 Está [Nuvenia - Assorbenti con Ali  Normali con SecureFit -   16 Pezzi](https://www.amazon.it/dp/B00E4L0GZK/?tag=tolees00-21) con 48.72 de descuento por 1.0 EUR (original: 1.95 EUR) en el siguiente enlace!

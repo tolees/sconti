@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01HE5NE0Q/?tag=tolees00-21'
 descuento: '27.66'
+average: '41.59'
 ---
 
 Tienes [Adidas Vs Pace  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Negbás/Azul 000   44 EU](https://www.amazon.it/dp/B01HE5NE0Q/?tag=tolees00-21) con un 27.66 % de descuento con precio de oferta de 41.59 EUR (original: 57.49 EUR) en el siguiente enlace!

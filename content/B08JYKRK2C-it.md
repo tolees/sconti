@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08JYKRK2C/?tag=tolees00-21'
 descuento: '43.38'
+average: '63.99'
 ---
 
 Está [Hard Disk 2 TB Esterno Hard Disk Esterno 2 5" Ultrasottile HDD per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Blu ](https://www.amazon.it/dp/B08JYKRK2C/?tag=tolees00-21) con 43.38 de descuento por 63.99 EUR (original: 113.02 EUR) en el siguiente enlace!

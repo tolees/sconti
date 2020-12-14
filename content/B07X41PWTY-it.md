@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X41PWTY/?tag=tolees00-21'
 descuento: '39.01'
+average: '108.9'
 ---
 
 Tienes [WD Elements Hard Disk Esterno  Portatile  USB 3.0  5 TB  Nero](https://www.amazon.it/dp/B07X41PWTY/?tag=tolees00-21) con un 39.01 % de descuento con precio de oferta de 104.9 EUR (original: 171.99 EUR) en el siguiente enlace!

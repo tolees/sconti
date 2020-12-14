@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B089WWC6JV/?tag=tolees00-21'
 descuento: '39.18'
+average: '7.2175'
 ---
 
 Ahora mismo tienes [Dixan Classico Detersivo Liquido Lavatrice  Tecnologia Pulito Profondo  3 X 19 Lavaggi](https://www.amazon.it/dp/B089WWC6JV/?tag=tolees00-21) a 7.9 EUR (original: 12.99 EUR) (39.18 %  de descuento) en el siguiente enlace!

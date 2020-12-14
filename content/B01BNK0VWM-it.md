@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BNK0VWM/?tag=tolees00-21'
 descuento: '40.73'
+average: '3.1'
 ---
 
 Está [Rimmel Smalto Unghie Super Gel  Nail Polish Effetto Gel a Lunga Durata  041 Darling Dahlia  12 ml](https://www.amazon.it/dp/B01BNK0VWM/?tag=tolees00-21) con 40.73 de descuento por 3.1 EUR (original: 5.23 EUR) en el siguiente enlace!

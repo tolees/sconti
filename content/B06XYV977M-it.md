@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XYV977M/?tag=tolees00-21'
 descuento: '54.50'
+average: '7.69'
 ---
 
 Ahora mismo tienes [Angstrom Protect Latte Solare Ultra Idratante  Acceleratore Solare 30+ con Azione Nutriente e Prolungata  Indicata per Pelli Sensibili  200 ml](https://www.amazon.it/dp/B06XYV977M/?tag=tolees00-21) a 7.69 EUR (original: 16.9 EUR) (54.50 %  de descuento) en el siguiente enlace!

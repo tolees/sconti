@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07LGMP3G4/?tag=tolees00-21'
 descuento: '26.30'
+average: '1.99'
 ---
 
 Ahora mismo tienes [viakal Profumo Fresco anticalcare Spray – 700 ML](https://www.amazon.it/dp/B07LGMP3G4/?tag=tolees00-21) a 1.99 EUR (original: 2.7 EUR) (26.30 %  de descuento) en el siguiente enlace!

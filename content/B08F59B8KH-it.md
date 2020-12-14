@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08F59B8KH/?tag=tolees00-21'
 descuento: '42.37'
+average: '19.59'
 ---
 
 Tienes [BAITITON 2 5 pollici SATA III Unità a Stato Solido Interno 128GB Disco SSD Lettura 550MB/s  Scrittura 530MB/s](https://www.amazon.it/dp/B08F59B8KH/?tag=tolees00-21) con un 42.37 % de descuento con precio de oferta de 19.59 EUR (original: 33.99 EUR) en el siguiente enlace!

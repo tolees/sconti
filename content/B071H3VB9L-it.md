@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B071H3VB9L/?tag=tolees00-21'
 descuento: '66.18'
+average: '22.29'
 ---
 
 Ahora mismo tienes [find. Stivaletti Stringati in Pelle Uomo  Nero  Black   44 EU](https://www.amazon.it/dp/B071H3VB9L/?tag=tolees00-21) a 22.29 EUR (original: 65.9 EUR) (66.18 %  de descuento) en el siguiente enlace!

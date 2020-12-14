@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B074CSGVHT/?tag=tolees00-21'
 descuento: '61.43'
+average: '108.0'
 ---
 
 Ahora mismo tienes [Orient Orologio Analogico Automatico Uomo con Cinturino in Pelle FAC00004B0](https://www.amazon.it/dp/B074CSGVHT/?tag=tolees00-21) a 108.0 EUR (original: 280.0 EUR) (61.43 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XDZLS1F/?tag=tolees00-21'
 descuento: '54.69'
+average: '17.2'
 ---
 
 Ahora mismo tienes [Puma CB  Giacca A Vento Uomo  Black  L](https://www.amazon.it/dp/B07XDZLS1F/?tag=tolees00-21) a 17.2 EUR (original: 37.96 EUR) (54.69 %  de descuento) en el siguiente enlace!

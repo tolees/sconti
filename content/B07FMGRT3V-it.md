@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FMGRT3V/?tag=tolees00-21'
 descuento: '33.17'
+average: '13.3'
 ---
 
 Está [Hasbro Nerf Super Soaker - Barracuda  Blaster Spruzza Acqua  E2770](https://www.amazon.it/dp/B07FMGRT3V/?tag=tolees00-21) con 33.17 de descuento por 13.3 EUR (original: 19.9 EUR) en el siguiente enlace!

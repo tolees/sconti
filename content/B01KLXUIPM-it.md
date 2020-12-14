@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01KLXUIPM/?tag=tolees00-21'
 descuento: '30.07'
+average: '5.79'
 ---
 
 Está [Gillette Series - Gel da barba per pelli sensibili  200 ml  set da 3](https://www.amazon.it/dp/B01KLXUIPM/?tag=tolees00-21) con 30.07 de descuento por 5.79 EUR (original: 8.28 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TWBGL1R/?tag=tolees00-21'
 descuento: '48.04'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Levi s The Perfect Tee Maglietta  Bianco  90 s Serif T2 Multicolor White+ 0969   X-Small  Herstellergröße: XS  Donna](https://www.amazon.it/dp/B07TWBGL1R/?tag=tolees00-21) a 12.99 EUR (original: 25.0 EUR) (48.04 %  de descuento) en el siguiente enlace!

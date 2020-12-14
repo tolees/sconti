@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MZYCDKQ/?tag=tolees00-21'
 descuento: '25.01'
+average: '29.99'
 ---
 
 Está [Cuffie Wireless Over-Ear  Mixcder HD901 Cuffie Senza Fili Bluetooth 4.2 Supporto TF Card  Pieghevoli e Cablate Audio Stereo e Microfono Incorporato  Paraorecchie Proteici Morbida per iOS e Android](https://www.amazon.it/dp/B07MZYCDKQ/?tag=tolees00-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

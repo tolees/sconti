@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VJK92PT/?tag=tolees00-21'
 descuento: '25.31'
+average: '30.95'
 ---
 
 Tienes [Calvin Klein Uomo - Boxer aderenti in confezione da 3 vita media - Cotton Stretch  Blu  Blue Whale/Wildflower/Bubble Gum Wfp   S  Pacco da 3  Uomo](https://www.amazon.it/dp/B07VJK92PT/?tag=tolees00-21) con un 25.31 % de descuento con precio de oferta de 30.95 EUR (original: 41.44 EUR) en el siguiente enlace!

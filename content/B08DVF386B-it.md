@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DVF386B/?tag=tolees00-21'
 descuento: '34.07'
+average: '3.89'
 ---
 
 Está [Windows 10 Professional 32/64 bit | Chiave di licenza originale | Garanzia di attivazione al 100% | [Download] |valido per l aggiornamento da Windows 10 Home a 10 pro   1h-24h di consegna via e-mail](https://www.amazon.it/dp/B08DVF386B/?tag=tolees00-21) con 34.07 de descuento por 3.89 EUR (original: 5.9 EUR) en el siguiente enlace!

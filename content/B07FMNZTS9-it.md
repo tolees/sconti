@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FMNZTS9/?tag=tolees00-21'
 descuento: '26.42'
+average: '31.64'
 ---
 
 Está [Calvin Klein 3p Low Rise Trunk Boxer  Blu  Black/Blue Shadow/Cobalt Water DTM WB   Small  Pacco da 3  Uomo](https://www.amazon.it/dp/B07FMNZTS9/?tag=tolees00-21) con 26.42 de descuento por 31.64 EUR (original: 43.0 EUR) en el siguiente enlace!

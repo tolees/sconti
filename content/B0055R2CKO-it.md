@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0055R2CKO/?tag=tolees00-21'
 descuento: '31.97'
+average: '17.0'
 ---
 
 Tienes [Sodastream 1047200490  Caraffe in vetro per gasatore d acqua  compatibile con Crystal & Penguin  0.615 L x 2 pezzi](https://www.amazon.it/dp/B0055R2CKO/?tag=tolees00-21) con un 31.97 % de descuento con precio de oferta de 17.0 EUR (original: 24.99 EUR) en el siguiente enlace!

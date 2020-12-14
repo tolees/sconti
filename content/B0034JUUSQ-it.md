@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0034JUUSQ/?tag=tolees00-21'
 descuento: '61.25'
+average: '1.05'
 ---
 
 Está [Pavesi Pavesini Classici  Biscotto Leggero per Colazione o Gustoso Break  Confezione da 200 g](https://www.amazon.it/dp/B0034JUUSQ/?tag=tolees00-21) con 61.25 de descuento por 1.05 EUR (original: 2.71 EUR) en el siguiente enlace!

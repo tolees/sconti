@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08933WPTB/?tag=tolees00-21'
 descuento: '27.51'
+average: '28.99'
 ---
 
 Ahora mismo tienes [EZONTEQ Tastiera da Gioco RGB LED Retroilluminazione Scelta di 8 Colori 25 Tasti Anti-ghosting Layout Italiano QWERTY  Tastiera Cablata USB per PC PS4 Xbox Mac](https://www.amazon.it/dp/B08933WPTB/?tag=tolees00-21) a 28.99 EUR (original: 39.99 EUR) (27.51 %  de descuento) en el siguiente enlace!

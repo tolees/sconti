@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RLG3HN8/?tag=tolees00-21'
 descuento: '50.06'
+average: '3.99'
 ---
 
 Tienes [Viakal Detersivo Anticalcare WC Gel  Maxi Formato 2 Pezzi da 750 ml](https://www.amazon.it/dp/B07RLG3HN8/?tag=tolees00-21) con un 50.06 % de descuento con precio de oferta de 3.99 EUR (original: 7.99 EUR) en el siguiente enlace!

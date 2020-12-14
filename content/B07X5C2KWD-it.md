@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X5C2KWD/?tag=tolees00-21'
 descuento: '27.62'
+average: '57.9'
 ---
 
 Ahora mismo tienes [Ariete 2759 Handy Force RBT  Scopa elettrica con Filo 2 in 1 aspirapolvere e aspira briciole  Filtro HEPA  Tecnologia ciclonica Senza Sacco  Spazzola motorizzata  Rosso/Nero  600 W](https://www.amazon.it/dp/B07X5C2KWD/?tag=tolees00-21) a 57.9 EUR (original: 80.0 EUR) (27.62 %  de descuento) en el siguiente enlace!

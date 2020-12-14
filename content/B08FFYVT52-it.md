@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FFYVT52/?tag=tolees00-21'
 descuento: '71.39'
+average: '5.99'
 ---
 
 Tienes [TOCOL [3 Pezzi] Pellicola Protettiva per Xiaomi Redmi 9A Schermo Protettivo  [Telaio di Posizionamento] Protezione Vetro TemperatoXiaomi Redmi 9A](https://www.amazon.it/dp/B08FFYVT52/?tag=tolees00-21) con un 71.39 % de descuento con precio de oferta de 5.99 EUR (original: 20.94 EUR) en el siguiente enlace!

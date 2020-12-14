@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HH75RZ1/?tag=tolees00-21'
 descuento: '47.24'
+average: '18.99'
 ---
 
 Ahora mismo tienes [FITTOO Pantaloni Sauna Dimagranti Donna Leggins Sportivi Fitness Snellente Sauna Pants Shapers Neoprene Termico Hot Pantaloni Pantaloncino](https://www.amazon.it/dp/B07HH75RZ1/?tag=tolees00-21) a 18.99 EUR (original: 35.99 EUR) (47.24 %  de descuento) en el siguiente enlace!

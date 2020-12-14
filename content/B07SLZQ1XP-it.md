@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SLZQ1XP/?tag=tolees00-21'
 descuento: '49.99'
+average: '39.98'
 ---
 
 Ahora mismo tienes [adidas Forest Grove  Scarpe da Ginnastica Uomo  Gris Blanc Noir  46 EU](https://www.amazon.it/dp/B07SLZQ1XP/?tag=tolees00-21) a 39.98 EUR (original: 79.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0866FJL2M/?tag=tolees00-21'
 descuento: '29.80'
+average: '20.99'
 ---
 
 Está [Olaz Total Effects Whip Crema Viso Idratante Attiva  con Texture Leggera come l Aria  50 ml](https://www.amazon.it/dp/B0866FJL2M/?tag=tolees00-21) con 29.80 de descuento por 20.99 EUR (original: 29.9 EUR) en el siguiente enlace!

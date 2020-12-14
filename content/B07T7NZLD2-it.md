@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07T7NZLD2/?tag=tolees00-21'
 descuento: '46.57'
+average: '53.43'
 ---
 
 Está [The North Face M Croda Rossa FLC  Pile Uomo  Grigio  Asphalt Grey   L](https://www.amazon.it/dp/B07T7NZLD2/?tag=tolees00-21) con 46.57 de descuento por 53.43 EUR (original: 100.0 EUR) en el siguiente enlace!

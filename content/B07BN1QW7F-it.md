@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BN1QW7F/?tag=tolees00-21'
 descuento: '41.40'
+average: '43.95'
 ---
 
 Tienes [Vans Ward Platform  Scarpe da Ginnastica Donna  Canvas Black/White 187  37 EU](https://www.amazon.it/dp/B07BN1QW7F/?tag=tolees00-21) con un 41.40 % de descuento con precio de oferta de 43.95 EUR (original: 75.0 EUR) en el siguiente enlace!

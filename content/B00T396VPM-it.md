@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00T396VPM/?tag=tolees00-21'
 descuento: '54.77'
+average: '16.55'
 ---
 
 Tienes [Nintendo MW1PX3SMB - Portafoglio Bowser Kanji Bifold](https://www.amazon.it/dp/B00T396VPM/?tag=tolees00-21) con un 54.77 % de descuento con precio de oferta de 16.55 EUR (original: 36.59 EUR) en el siguiente enlace!

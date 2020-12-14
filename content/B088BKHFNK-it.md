@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088BKHFNK/?tag=tolees00-21'
 descuento: '43.14'
+average: '16.99'
 ---
 
 Está [Magicfun Cesto Portaoggetti a Sospensione  2 Pezzi Cestelli Sottomensola Metallo  Cestino da Appendere Multi Uso Organizzatore Sottoripiano per Scaffale Armadio Cucina Dispensa Bagno Ufficio](https://www.amazon.it/dp/B088BKHFNK/?tag=tolees00-21) con 43.14 de descuento por 16.99 EUR (original: 29.88 EUR) en el siguiente enlace!

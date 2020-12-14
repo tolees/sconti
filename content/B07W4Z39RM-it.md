@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W4Z39RM/?tag=tolees00-21'
 descuento: '63.69'
+average: '4.247142857142857'
 ---
 
 Ahora mismo tienes [AZ Dentifricio 3D White Luxe Perfezione con Azione Sbiancante Denti Professionale  Rimozione Macchie e Denti più bianchi in 3 Giorni  3 x 75ml](https://www.amazon.it/dp/B07W4Z39RM/?tag=tolees00-21) a 3.99 EUR (original: 10.99 EUR) (63.69 %  de descuento) en el siguiente enlace!

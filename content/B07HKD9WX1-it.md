@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HKD9WX1/?tag=tolees00-21'
 descuento: '31.01'
+average: '57.1'
 ---
 
 Ahora mismo tienes [National Geographic Multi Colour Stazione meteorologica Radio  Nero](https://www.amazon.it/dp/B07HKD9WX1/?tag=tolees00-21) a 57.1 EUR (original: 82.76 EUR) (31.01 %  de descuento) en el siguiente enlace!

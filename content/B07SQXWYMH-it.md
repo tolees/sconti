@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SQXWYMH/?tag=tolees00-21'
 descuento: '44.81'
+average: '57.95'
 ---
 
 Está [Lacoste Chaymon 120 1 CMA  Sneaker Uomo  Nero  Blk/Grn 1b4   42 EU](https://www.amazon.it/dp/B07SQXWYMH/?tag=tolees00-21) con 44.81 de descuento por 57.95 EUR (original: 105.0 EUR) en el siguiente enlace!

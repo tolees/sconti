@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0158NRMY0/?tag=tolees00-21'
 descuento: '49.42'
+average: '3.49'
 ---
 
 Ahora mismo tienes [Listerine Collutorio  Total Care  Gusto Delicato  6 Benefici in 1  Menta Delicata  Zero Alcol  Alito fresco  500 ml](https://www.amazon.it/dp/B0158NRMY0/?tag=tolees00-21) a 3.49 EUR (original: 6.9 EUR) (49.42 %  de descuento) en el siguiente enlace!

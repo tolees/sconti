@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083ZS5VJ9/?tag=tolees00-21'
 descuento: '42.87'
+average: '19.99'
 ---
 
 Está [JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini  Drizzle  M Uomo](https://www.amazon.it/dp/B083ZS5VJ9/?tag=tolees00-21) con 42.87 de descuento por 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08D6G6W8X/?tag=tolees00-21'
 descuento: '30.45'
+average: '47.99'
 ---
 
 Está [Hunty Hard Disk 1 TB Esterno USB 3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook 1TB Nero ](https://www.amazon.it/dp/B08D6G6W8X/?tag=tolees00-21) con 30.45 de descuento por 47.99 EUR (original: 69.0 EUR) en el siguiente enlace!

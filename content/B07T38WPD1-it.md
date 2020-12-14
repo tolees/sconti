@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07T38WPD1/?tag=tolees00-21'
 descuento: '28.91'
+average: '19.55'
 ---
 
 Está [Pepe Jeans Daniela Zaino Casual 32 Centimeters 9.6 Multicolore  Multicolore ](https://www.amazon.it/dp/B07T38WPD1/?tag=tolees00-21) con 28.91 de descuento por 19.55 EUR (original: 27.5 EUR) en el siguiente enlace!

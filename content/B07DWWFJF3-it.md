@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07DWWFJF3/?tag=tolees00-21'
 descuento: '64.75'
+average: '123.37'
 ---
 
 Está [Salewa  Fanes 2 Ptx/Tw Clt M Jkt  Giacca  Uomo  Nero  Black Out Melange   52/XL](https://www.amazon.it/dp/B07DWWFJF3/?tag=tolees00-21) con 64.75 de descuento por 123.37 EUR (original: 350.0 EUR) en el siguiente enlace!

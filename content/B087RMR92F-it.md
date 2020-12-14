@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087RMR92F/?tag=tolees00-21'
 descuento: '31.83'
+average: '14.99'
 ---
 
 Ahora mismo tienes [Akokie Giocattoli Puzzle di Animali in Legno Giochi Montessori Educativi Giochi Regalo Numeri Giocattoli 3 4 5 Anni Bambini Bambiba](https://www.amazon.it/dp/B087RMR92F/?tag=tolees00-21) a 14.99 EUR (original: 21.99 EUR) (31.83 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X5JH3TK/?tag=tolees00-21'
 descuento: '25.19'
+average: '119.69'
 ---
 
 Tienes [Muzili Aspirapolvere Scopa Elettrica Senza Fili 3 in 1 con Aspirazione Potente 20Kpa e Filtrazione HEPA  Fino a 30 Minuti di Tempo di Lavoro [Classe di efficienza energetica A+++]](https://www.amazon.it/dp/B07X5JH3TK/?tag=tolees00-21) con un 25.19 % de descuento con precio de oferta de 119.69 EUR (original: 159.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KBNB5J4/?tag=tolees00-21'
 descuento: '28.79'
+average: '441.47'
 ---
 
 Está [Airoh AVIATOR 2.3 BIGGER BLUE GLOSS M](https://www.amazon.it/dp/B07KBNB5J4/?tag=tolees00-21) con 28.79 de descuento por 441.47 EUR (original: 619.99 EUR) en el siguiente enlace!

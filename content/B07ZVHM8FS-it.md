@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZVHM8FS/?tag=tolees00-21'
 descuento: '48.66'
+average: '18.99'
 ---
 
 Tienes [DADYPET Ciotole per Cani  Distributori di Cibo per Gatti -Ciotole per Cani con Pesatura Intelligente Alimentatore Lento Antiscivolo](https://www.amazon.it/dp/B07ZVHM8FS/?tag=tolees00-21) con un 48.66 % de descuento con precio de oferta de 18.99 EUR (original: 36.99 EUR) en el siguiente enlace!

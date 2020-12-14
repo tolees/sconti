@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07H1HYVGG/?tag=tolees00-21'
 descuento: '35.50'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Cuffie da Gioco per PS4 Cuffie Gaming con 3.5mm Jack LED Cuffie da Gaming con Microfono Bass Stereo e Controllo Volume Gaming Headset per PS4/Xbox One X /S/Nintendo Switch/PC/Laptop/Tablet](https://www.amazon.it/dp/B07H1HYVGG/?tag=tolees00-21) a 19.99 EUR (original: 30.99 EUR) (35.50 %  de descuento) en el siguiente enlace!

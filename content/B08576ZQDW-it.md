@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08576ZQDW/?tag=tolees00-21'
 descuento: '71.68'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Roffie Alimentatore Automatico per Cani e Gatti e Animali Domestici  Distributore Automatico di Cibo  con Controllo della Porzione  con Registratore Vocale e Timer Programmabile Fino](https://www.amazon.it/dp/B08576ZQDW/?tag=tolees00-21) a 16.99 EUR (original: 59.99 EUR) (71.68 %  de descuento) en el siguiente enlace!

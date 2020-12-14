@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083B7VQJR/?tag=tolees00-21'
 descuento: '30.12'
+average: '13.97'
 ---
 
 Tienes [Grsta Borraccia Termica Isolante in Acciaio Inox per Acqua  Portatile Borracce Termiche 350ml/Viola Chiaro  Bottiglia per Acqua Senza BPA per Bambini  Scuola  Palestra  Sport  Bici  Lavoro e Viaggio](https://www.amazon.it/dp/B083B7VQJR/?tag=tolees00-21) con un 30.12 % de descuento con precio de oferta de 13.97 EUR (original: 19.99 EUR) en el siguiente enlace!

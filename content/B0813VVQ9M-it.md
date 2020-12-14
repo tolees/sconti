@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0813VVQ9M/?tag=tolees00-21'
 descuento: '28.06'
+average: '71.9'
 ---
 
 Tienes [adidas Stan Smith  Scarpe Uomo  Bianco  Cloud White/Cloud White/Lush Red   44 2/3 EU](https://www.amazon.it/dp/B0813VVQ9M/?tag=tolees00-21) con un 28.06 % de descuento con precio de oferta de 71.9 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003ET0D2O/?tag=tolees00-21'
 descuento: '59.97'
+average: '2.69'
 ---
 
 Ahora mismo tienes [NIVEA Soft Crema Idratante Multiuso per Viso  Mani e Corpo  1 x 300 ml  Crema Rinfrescantecon Vitamina E e Olio di Jojoba](https://www.amazon.it/dp/B003ET0D2O/?tag=tolees00-21) a 2.69 EUR (original: 6.72 EUR) (59.97 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FFFH3WY/?tag=tolees00-21'
 descuento: '63.19'
+average: '7.656666666666667'
 ---
 
 Ahora mismo tienes [UniqueMe [6 Pack Pellicola Protettiva per Xiaomi Mi Band 5 Pellicola  [Adsorbimento anidro] [Film Flessibile] Soft HD Clear Anti-Scratch per Xiaomi Mi Band 5](https://www.amazon.it/dp/B08FFFH3WY/?tag=tolees00-21) a 6.99 EUR (original: 18.99 EUR) (63.19 %  de descuento) en el siguiente enlace!

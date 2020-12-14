@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07T4D3RLD/?tag=tolees00-21'
 descuento: '37.15'
+average: '47.29333333333334'
 ---
 
 Ahora mismo tienes [Dragon Ball Z: Kakarot - Xbox One  12 anni+](https://www.amazon.it/dp/B07T4D3RLD/?tag=tolees00-21) a 43.99 EUR (original: 69.99 EUR) (37.15 %  de descuento) en el siguiente enlace!

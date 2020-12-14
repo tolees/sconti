@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07LFZC6JC/?tag=tolees00-21'
 descuento: '81.64'
+average: '22.01'
 ---
 
 Está [Geox D BIBBIANA A  Scarpe con Tacco Donna  Nero  Black C9997   35 EU](https://www.amazon.it/dp/B07LFZC6JC/?tag=tolees00-21) con 81.64 de descuento por 22.01 EUR (original: 119.9 EUR) en el siguiente enlace!

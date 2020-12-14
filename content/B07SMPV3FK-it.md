@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SMPV3FK/?tag=tolees00-21'
 descuento: '66.71'
+average: '39.95'
 ---
 
 Está [ASICS GT-1000 9  Scarpe da Corsa Uomo  Electric Blue/Black  42 EU](https://www.amazon.it/dp/B07SMPV3FK/?tag=tolees00-21) con 66.71 de descuento por 39.95 EUR (original: 120.0 EUR) en el siguiente enlace!

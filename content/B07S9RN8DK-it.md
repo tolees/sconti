@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S9RN8DK/?tag=tolees00-21'
 descuento: '46.65'
+average: '42.65'
 ---
 
 Tienes [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianca White-Rosewater White  37 EU](https://www.amazon.it/dp/B07S9RN8DK/?tag=tolees00-21) con un 46.65 % de descuento con precio de oferta de 42.65 EUR (original: 79.95 EUR) en el siguiente enlace!

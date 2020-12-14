@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01EEQUOEC/?tag=tolees00-21'
 descuento: '28.61'
+average: '19.99'
 ---
 
 Está [Arena M Fundamentals Logo  Pantaloncini da Bagno Uomo  Blu  Navy/Turquoise   XXL](https://www.amazon.it/dp/B01EEQUOEC/?tag=tolees00-21) con 28.61 de descuento por 19.99 EUR (original: 28.0 EUR) en el siguiente enlace!

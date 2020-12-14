@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N6B2LP1/?tag=tolees00-21'
 descuento: '34.02'
+average: '9.89'
 ---
 
 Está [Brita Aluna - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ Incluso](https://www.amazon.it/dp/B01N6B2LP1/?tag=tolees00-21) con 34.02 de descuento por 9.89 EUR (original: 14.99 EUR) en el siguiente enlace!

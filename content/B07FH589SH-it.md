@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FH589SH/?tag=tolees00-21'
 descuento: '53.88'
+average: '11.99'
 ---
 
 Ahora mismo tienes [Havaianas Slim 4000030  Infradito Donna  Rosa  Hollywood Rose 0064   37/38 EU](https://www.amazon.it/dp/B07FH589SH/?tag=tolees00-21) a 11.99 EUR (original: 26.0 EUR) (53.88 %  de descuento) en el siguiente enlace!

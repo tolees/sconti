@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VYWVCLN/?tag=tolees00-21'
 descuento: '45.56'
+average: '23.9'
 ---
 
 Está [Massaggiatore Plantare Massaggio Piedi - Tecnologia SME Fisioterapia e Design Ergonomico Rilassamento per Casa e Ufficio](https://www.amazon.it/dp/B07VYWVCLN/?tag=tolees00-21) con 45.56 de descuento por 23.9 EUR (original: 43.9 EUR) en el siguiente enlace!

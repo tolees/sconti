@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BJC6M51/?tag=tolees00-21'
 descuento: '26.11'
+average: '22.9'
 ---
 
 Ahora mismo tienes [Ossimetro/pulsossimetro di precisione](https://www.amazon.it/dp/B08BJC6M51/?tag=tolees00-21) a 22.9 EUR (original: 30.99 EUR) (26.11 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ESXJXFI/?tag=tolees00-21'
 descuento: '34.17'
+average: '4.99'
 ---
 
 Tienes [BIC Comfort 2 - Rasoio da uomo  1 confezione da 10+5 pezzi](https://www.amazon.it/dp/B00ESXJXFI/?tag=tolees00-21) con un 34.17 % de descuento con precio de oferta de 4.99 EUR (original: 7.58 EUR) en el siguiente enlace!

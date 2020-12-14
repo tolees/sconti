@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V3Q8DH3/?tag=tolees00-21'
 descuento: '41.44'
+average: '20.49'
 ---
 
 Tienes [Superdry Classic Trunk Triple Pack Boxer  Arancione  Orange Multipack J6E   M Uomo](https://www.amazon.it/dp/B07V3Q8DH3/?tag=tolees00-21) con un 41.44 % de descuento con precio de oferta de 20.49 EUR (original: 34.99 EUR) en el siguiente enlace!

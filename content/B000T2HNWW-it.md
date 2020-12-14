@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000T2HNWW/?tag=tolees00-21'
 descuento: '51.58'
+average: '5.99'
 ---
 
 Ahora mismo tienes [Metaltex Babatex  - Cestello sottoripiano -  363840 ](https://www.amazon.it/dp/B000T2HNWW/?tag=tolees00-21) a 5.99 EUR (original: 12.37 EUR) (51.58 %  de descuento) en el siguiente enlace!

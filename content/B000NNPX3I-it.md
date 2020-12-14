@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000NNPX3I/?tag=tolees00-21'
 descuento: '50.65'
+average: '37.99'
 ---
 
 Tienes [Beurer 66200 EM 80 Apparecchio TENS/EMS Digitale](https://www.amazon.it/dp/B000NNPX3I/?tag=tolees00-21) con un 50.65 % de descuento con precio de oferta de 37.99 EUR (original: 76.98 EUR) en el siguiente enlace!

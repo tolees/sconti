@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085ZFM4WT/?tag=tolees00-21'
 descuento: '40.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [VATOS Set di Costruzioni  568 Pezzi Castello da Principessa Giocattolo per Bambine  Mattoncini Rosa per Castello  STEM Kit di Costruzione  25 Modelli di Gioco  Giocattoli Regali per di 6 7 8 9 Anni](https://www.amazon.it/dp/B085ZFM4WT/?tag=tolees00-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

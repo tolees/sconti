@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01NC0P84V/?tag=tolees00-21'
 descuento: '55.24'
+average: '53.26'
 ---
 
 Está [Orologio Uomo - Festina F20204-1](https://www.amazon.it/dp/B01NC0P84V/?tag=tolees00-21) con 55.24 de descuento por 53.26 EUR (original: 119.0 EUR) en el siguiente enlace!

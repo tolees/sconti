@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00DSYVL80/?tag=tolees00-21'
 descuento: '32.22'
+average: '32.00333333333333'
 ---
 
 Ahora mismo tienes [Casio Orologio Digitale al Quarzo Donna con Cinturino in Acciaio Inox LA680WEA-1BEF](https://www.amazon.it/dp/B00DSYVL80/?tag=tolees00-21) a 33.21 EUR (original: 49.0 EUR) (32.22 %  de descuento) en el siguiente enlace!

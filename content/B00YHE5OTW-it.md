@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00YHE5OTW/?tag=tolees00-21'
 descuento: '46.53'
+average: '18.625'
 ---
 
 Ahora mismo tienes [Smac - Sgrassatore Trigger Cucina Limone - 650ml x 12 pezzi - 7800 ml](https://www.amazon.it/dp/B00YHE5OTW/?tag=tolees00-21) a 17.26 EUR (original: 32.28 EUR) (46.53 %  de descuento) en el siguiente enlace!

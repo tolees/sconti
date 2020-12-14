@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21'
 descuento: '45.64'
+average: '0.81'
 ---
 
 Tienes [AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21) con un 45.64 % de descuento con precio de oferta de 0.81 EUR (original: 1.49 EUR) en el siguiente enlace!

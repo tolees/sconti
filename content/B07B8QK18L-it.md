@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07B8QK18L/?tag=tolees00-21'
 descuento: '53.54'
+average: '46.44'
 ---
 
 Tienes [Fila Disruptor Low  Scarpe da Ginnastica Basse Uomo  Nero  Black 25y   42 EU](https://www.amazon.it/dp/B07B8QK18L/?tag=tolees00-21) con un 53.54 % de descuento con precio de oferta de 46.44 EUR (original: 99.95 EUR) en el siguiente enlace!

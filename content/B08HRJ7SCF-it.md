@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08HRJ7SCF/?tag=tolees00-21'
 descuento: '27.37'
+average: '9.79'
 ---
 
 Tienes [RIIMUHIR Vetro Temperato per Xiaomi Mi 10/10 PRO [2 Pezzi]  Protezioni per Lo Schermo [9D Copertura Completa] [Alta sensibilità] [Senza Bolle] Pellicola Protettiva per Xiaomi Mi 10/10 PRO](https://www.amazon.it/dp/B08HRJ7SCF/?tag=tolees00-21) con un 27.37 % de descuento con precio de oferta de 9.79 EUR (original: 13.48 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072VKSDYT/?tag=tolees00-21'
 descuento: '43.52'
+average: '12.99'
 ---
 
 Tienes [Aeternum Titanium Induction Piastra Multiuso Crepiere  Alluminio  Grigio  28 cm](https://www.amazon.it/dp/B072VKSDYT/?tag=tolees00-21) con un 43.52 % de descuento con precio de oferta de 12.99 EUR (original: 23.0 EUR) en el siguiente enlace!

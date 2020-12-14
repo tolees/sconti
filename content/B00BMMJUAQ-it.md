@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00BMMJUAQ/?tag=tolees00-21'
 descuento: '39.84'
+average: '60.1'
 ---
 
 Tienes [Geox U Dublin B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   41 EU](https://www.amazon.it/dp/B00BMMJUAQ/?tag=tolees00-21) con un 39.84 % de descuento con precio de oferta de 60.1 EUR (original: 99.9 EUR) en el siguiente enlace!

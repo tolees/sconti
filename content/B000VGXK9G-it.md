@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000VGXK9G/?tag=tolees00-21'
 descuento: '67.53'
+average: '17.77888888888889'
 ---
 
 Tienes [CASIO A158 - Orologio da polso  cinturino in acciaio inossidabile](https://www.amazon.it/dp/B000VGXK9G/?tag=tolees00-21) con un 67.53 % de descuento con precio de oferta de 12.99 EUR (original: 40.0 EUR) en el siguiente enlace!

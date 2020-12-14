@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CZGBGKM/?tag=tolees00-21'
 descuento: '29.43'
+average: '47.99'
 ---
 
 Ahora mismo tienes [Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Blu ](https://www.amazon.it/dp/B08CZGBGKM/?tag=tolees00-21) a 47.99 EUR (original: 68.0 EUR) (29.43 %  de descuento) en el siguiente enlace!

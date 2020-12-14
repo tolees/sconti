@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NT3SZKJ/?tag=tolees00-21'
 descuento: '25.01'
+average: '16.49'
 ---
 
 Está [3 Pack 7 Gallon Sacchetto di piantatura Patata Zilong Sacchi per Piante di Tessuto Non Tessuto con Finestra visualizzata  Grandi vasi per ortaggi e Piante da Giardino  36*28cm ](https://www.amazon.it/dp/B07NT3SZKJ/?tag=tolees00-21) con 25.01 de descuento por 16.49 EUR (original: 21.99 EUR) en el siguiente enlace!

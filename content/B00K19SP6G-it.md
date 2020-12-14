@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00K19SP6G/?tag=tolees00-21'
 descuento: '57.78'
+average: '4.18'
 ---
 
 Está [Supradyn Magnesio e Potassio - Integratore Multiminerali per Afa  Caldo e Attività Fisica - 14 Bustine Effervescenti Gusto Arancia](https://www.amazon.it/dp/B00K19SP6G/?tag=tolees00-21) con 57.78 de descuento por 4.18 EUR (original: 9.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V6N7MRF/?tag=tolees00-21'
 descuento: '29.01'
+average: '35.49'
 ---
 
 Ahora mismo tienes [Columbia Fast Trek II  Giacca in pile con cerniera  Uomo](https://www.amazon.it/dp/B07V6N7MRF/?tag=tolees00-21) a 35.49 EUR (original: 49.99 EUR) (29.01 %  de descuento) en el siguiente enlace!

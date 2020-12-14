@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088GC1XF1/?tag=tolees00-21'
 descuento: '50.01'
+average: '39.99'
 ---
 
 Tienes [Oral-B Teen Spazzolino Elettrico Ricaricabile  1 Manico Nero e 1 Custodia da Viaggio](https://www.amazon.it/dp/B088GC1XF1/?tag=tolees00-21) con un 50.01 % de descuento con precio de oferta de 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

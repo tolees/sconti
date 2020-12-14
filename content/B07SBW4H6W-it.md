@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SBW4H6W/?tag=tolees00-21'
 descuento: '46.90'
+average: '34.49'
 ---
 
 Ahora mismo tienes [Puma Vista Sneaker Unisex - Adulto  Grigio  High Rise-Puma White-Castlerock 11   37 EU  4 UK ](https://www.amazon.it/dp/B07SBW4H6W/?tag=tolees00-21) a 34.49 EUR (original: 64.95 EUR) (46.90 %  de descuento) en el siguiente enlace!

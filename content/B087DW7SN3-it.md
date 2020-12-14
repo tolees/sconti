@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087DW7SN3/?tag=tolees00-21'
 descuento: '31.05'
+average: '19.99'
 ---
 
 Está [Lampade Solari da Giardino Gonfiabili Stella  Luci Piscina Galleggianti LED Luce Solare  IP68 Impermeabile che Cambiano Colore Luce Solare LED Esterno da Appendere per Matrimoni Feste Decorazione](https://www.amazon.it/dp/B087DW7SN3/?tag=tolees00-21) con 31.05 de descuento por 19.99 EUR (original: 28.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07G7ZC5BS/?tag=tolees00-21'
 descuento: '29.18'
+average: '19.49'
 ---
 
 Está [Portafoglio Uomo Vera Pelle Blocco RFID con fermasoldi  Piccolo Portafogli con tessere tascabile documenti  porta carte di credito  finestra di ID  Portafoglio con confezione regalo -Nero e arancione](https://www.amazon.it/dp/B07G7ZC5BS/?tag=tolees00-21) con 29.18 de descuento por 16.99 EUR (original: 23.99 EUR) en el siguiente enlace!

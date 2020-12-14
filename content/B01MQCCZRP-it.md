@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MQCCZRP/?tag=tolees00-21'
 descuento: '75.25'
+average: '24.5'
 ---
 
 Está [MORELLATO Bracciale con Charm Donna argento - SAHP04](https://www.amazon.it/dp/B01MQCCZRP/?tag=tolees00-21) con 75.25 de descuento por 24.5 EUR (original: 99.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0814S4PVF/?tag=tolees00-21'
 descuento: '34.78'
+average: '27.36'
 ---
 
 Ahora mismo tienes [Under Armour Challenger III Midlayer  Maglia a maniche lunghe Uomo  Blu  Blue Ink   S](https://www.amazon.it/dp/B0814S4PVF/?tag=tolees00-21) a 27.36 EUR (original: 41.95 EUR) (34.78 %  de descuento) en el siguiente enlace!

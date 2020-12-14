@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XCPPQSW/?tag=tolees00-21'
 descuento: '28.60'
+average: '24.99'
 ---
 
 Tienes [Burton Formula  Guanti Uomo  True Black  L](https://www.amazon.it/dp/B06XCPPQSW/?tag=tolees00-21) con un 28.60 % de descuento con precio de oferta de 24.99 EUR (original: 35.0 EUR) en el siguiente enlace!

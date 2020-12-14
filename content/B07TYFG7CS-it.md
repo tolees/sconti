@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TYFG7CS/?tag=tolees00-21'
 descuento: '63.61'
+average: '10.9'
 ---
 
 Ahora mismo tienes [Boss T-Shirt RN 24  Grigio  Medium Grey 32   Small Uomo](https://www.amazon.it/dp/B07TYFG7CS/?tag=tolees00-21) a 10.9 EUR (original: 29.95 EUR) (63.61 %  de descuento) en el siguiente enlace!

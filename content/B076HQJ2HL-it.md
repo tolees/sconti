@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B076HQJ2HL/?tag=tolees00-21'
 descuento: '38.02'
+average: '24.76'
 ---
 
 Tienes [Adidas Football App Generic  Tracksuit Jacket Uomo  Blu  Azzurro/Bianco   L](https://www.amazon.it/dp/B076HQJ2HL/?tag=tolees00-21) con un 38.02 % de descuento con precio de oferta de 24.76 EUR (original: 39.95 EUR) en el siguiente enlace!

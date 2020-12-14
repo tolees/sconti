@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SJ138HC/?tag=tolees00-21'
 descuento: '77.79'
+average: '19.99'
 ---
 
 Está [FIFA 20 - Champions - Xbox One  3 anni +](https://www.amazon.it/dp/B07SJ138HC/?tag=tolees00-21) con 77.79 de descuento por 19.99 EUR (original: 89.99 EUR) en el siguiente enlace!

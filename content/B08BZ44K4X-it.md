@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BZ44K4X/?tag=tolees00-21'
 descuento: '53.37'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Bottiglia d Acqua Sportiva 850ml Borraccia Senza BPA in Plastica Tritan  a Prova di Perdite Borraccia Palestra per Scuola  Ciclismo  Ufficio  Yoga - Blu](https://www.amazon.it/dp/B08BZ44K4X/?tag=tolees00-21) a 13.99 EUR (original: 30.0 EUR) (53.37 %  de descuento) en el siguiente enlace!

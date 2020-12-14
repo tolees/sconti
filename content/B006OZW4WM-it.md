@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B006OZW4WM/?tag=tolees00-21'
 descuento: '30.91'
+average: '15.13'
 ---
 
 Está [Speedo Solid Leis 16 Wsht Am  Pantaloncini da Bagno Uomo  Blu  Dark Blue   M](https://www.amazon.it/dp/B006OZW4WM/?tag=tolees00-21) con 30.91 de descuento por 15.13 EUR (original: 21.9 EUR) en el siguiente enlace!

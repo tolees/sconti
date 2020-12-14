@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X2SX21J/?tag=tolees00-21'
 descuento: '25.20'
+average: '14.9'
 ---
 
 Tienes [Eastpak Springer Marsupio portasoldi  23 cm  2 L  Nero  Pix BW ](https://www.amazon.it/dp/B07X2SX21J/?tag=tolees00-21) con un 25.20 % de descuento con precio de oferta de 14.9 EUR (original: 19.92 EUR) en el siguiente enlace!

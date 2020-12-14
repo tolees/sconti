@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088WH2MWJ/?tag=tolees00-21'
 descuento: '54.44'
+average: '35.20285714285714'
 ---
 
 Tienes [DeniseM117 Cuffie Bluetooth Auricolari Bluetooth Senza Fili TWS Cuffie 5.0 Riduzione del Rumore Wireless Hi-Fi Stereo Senza Fili Sportivi in Ear con Custodia da Ricarica Microfono](https://www.amazon.it/dp/B088WH2MWJ/?tag=tolees00-21) con un 54.44 % de descuento con precio de oferta de 23.28 EUR (original: 51.1 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06VSV1SS1/?tag=tolees00-21'
 descuento: '55.66'
+average: '39.9'
 ---
 
 Ahora mismo tienes [Hoover SR 01 Scopa Elettrica con Sacco 1 5 litri  Syrene  Blu](https://www.amazon.it/dp/B06VSV1SS1/?tag=tolees00-21) a 39.9 EUR (original: 89.99 EUR) (55.66 %  de descuento) en el siguiente enlace!

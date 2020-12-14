@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TVDNVS5/?tag=tolees00-21'
 descuento: '31.69'
+average: '10.74625'
 ---
 
 Tienes [Funko- Pop Games: Dungeons & Dragons-Minsc & Boo Collectible Toy  Multicolore  45115](https://www.amazon.it/dp/B07TVDNVS5/?tag=tolees00-21) con un 31.69 % de descuento con precio de oferta de 10.24 EUR (original: 14.99 EUR) en el siguiente enlace!

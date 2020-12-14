@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TXXGDJQ/?tag=tolees00-21'
 descuento: '49.97'
+average: '9.98'
 ---
 
 Está [Wrangler SS Logo Tee T-Shirt  Giallo  Lemon Chrome   XX-Large Uomo](https://www.amazon.it/dp/B07TXXGDJQ/?tag=tolees00-21) con 49.97 de descuento por 9.98 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073WWSYJK/?tag=tolees00-21'
 descuento: '35.33'
+average: '29.74'
 ---
 
 Está [Crosstour Action Cam  Sport WiFi Camera 14MP 2”LCD Full HD Impermeabile 2 Batterie 1050mAh 170°Grandangolare e Kit Accessori per Ciclismo Nuoto e Altri Sport Esterni](https://www.amazon.it/dp/B073WWSYJK/?tag=tolees00-21) con 35.33 de descuento por 29.74 EUR (original: 45.99 EUR) en el siguiente enlace!

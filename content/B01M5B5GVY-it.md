@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01M5B5GVY/?tag=tolees00-21'
 descuento: '56.35'
+average: '19.83'
 ---
 
 Ahora mismo tienes [Roccobarocco White Eau De Parfum Donna - 100 gr](https://www.amazon.it/dp/B01M5B5GVY/?tag=tolees00-21) a 19.83 EUR (original: 45.43 EUR) (56.35 %  de descuento) en el siguiente enlace!

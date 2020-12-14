@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0866K8YSG/?tag=tolees00-21'
 descuento: '33.39'
+average: '3.99'
 ---
 
 Está [Pantene Pro-V Maschera Multi-Nutriente  Protezione Cheratina  Per Capelli Deboli E Danneggiati - 300 Gr](https://www.amazon.it/dp/B0866K8YSG/?tag=tolees00-21) con 33.39 de descuento por 3.99 EUR (original: 5.99 EUR) en el siguiente enlace!

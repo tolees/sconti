@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YTLYXC9/?tag=tolees00-21'
 descuento: '92.14'
+average: '11.0'
 ---
 
 Está [Pulsossimetro Bluetooth  monitor di saturazione di ossigeno  wireless con promemoria audio su dispositivo e smartphone APP gratuita  misuratore di frequenza cardiaca SpO2 ricaricabile per adulti](https://www.amazon.it/dp/B07YTLYXC9/?tag=tolees00-21) con 92.14 de descuento por 11.0 EUR (original: 139.99 EUR) en el siguiente enlace!

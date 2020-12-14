@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GL6CLTT/?tag=tolees00-21'
 descuento: '40.65'
+average: '91.99'
 ---
 
 Está [HyperX Predator HX432C16PB3AK2/16 Memoria DDR4 16 GB  Kit da 2x8 GB  3200MHz CL16 DIMM XMP RGB](https://www.amazon.it/dp/B07GL6CLTT/?tag=tolees00-21) con 40.65 de descuento por 91.99 EUR (original: 154.99 EUR) en el siguiente enlace!

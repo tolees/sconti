@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VPKT19C/?tag=tolees00-21'
 descuento: '51.02'
+average: '24.0'
 ---
 
 Ahora mismo tienes [Fossil Donna Acciaio Inossidabile Orecchini a Pendolo e Goccia Jf03191791  Oro/ rosa](https://www.amazon.it/dp/B07VPKT19C/?tag=tolees00-21) a 24.0 EUR (original: 49.0 EUR) (51.02 %  de descuento) en el siguiente enlace!

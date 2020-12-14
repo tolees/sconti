@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21'
 descuento: '34.12'
+average: '5.6'
 ---
 
 Tienes [MANN-FILTER HU7020Z Filtro Olio](https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21) con un 34.12 % de descuento con precio de oferta de 5.6 EUR (original: 8.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077TTQGRZ/?tag=tolees00-21'
 descuento: '64.17'
+average: '31.89'
 ---
 
 Ahora mismo tienes [Superga 2750-NAPPALEAU  Sneaker Unisex Adulto  Nero  Black/White C39    36 EU](https://www.amazon.it/dp/B077TTQGRZ/?tag=tolees00-21) a 31.89 EUR (original: 89.0 EUR) (64.17 %  de descuento) en el siguiente enlace!

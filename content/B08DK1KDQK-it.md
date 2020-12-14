@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DK1KDQK/?tag=tolees00-21'
 descuento: '26.48'
+average: '26.99'
 ---
 
 Tienes [Auricolare Bluetooth 5.0  Auricolare Wireless  Microfono e Scatola di Ricarica incorporati incorporati  riduzione del Rumore Stereo 3D HD  per Cuffie Apple Airpods Android/iPhone/Samsung/Apple Airpods](https://www.amazon.it/dp/B08DK1KDQK/?tag=tolees00-21) con un 26.48 % de descuento con precio de oferta de 24.99 EUR (original: 33.99 EUR) en el siguiente enlace!

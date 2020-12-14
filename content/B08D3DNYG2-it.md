@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08D3DNYG2/?tag=tolees00-21'
 descuento: '45.48'
+average: '11.99'
 ---
 
 Está [BOMIZI Cover Xiaomi Mi 9T  Mi9T PRO Custodia Trasparente TPU Morbido Flessibile Silicone Antiurto Sottile con Anello Girevole per Supporto Magnetica Auto Slim Case 6 39 Pollici - Nero](https://www.amazon.it/dp/B08D3DNYG2/?tag=tolees00-21) con 45.48 de descuento por 11.99 EUR (original: 21.99 EUR) en el siguiente enlace!

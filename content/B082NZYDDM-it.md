@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B082NZYDDM/?tag=tolees00-21'
 descuento: '64.38'
+average: '24.9'
 ---
 
 Está [Cudy AX3000 WiFi 6 Adattatore PCIe  Bluetooth 5.0 PCIe Card  2402Mbps + 574Mbps  AX200  Scheda WiFi pc Fisso  OFDMA WPA3 Security  Compatibile Bluetooth 5.0/4.2/4.0  Solo Sistema Windows 10  64-Bit ](https://www.amazon.it/dp/B082NZYDDM/?tag=tolees00-21) con 64.38 de descuento por 24.9 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MCQ9UI5/?tag=tolees00-21'
 descuento: '28.03'
+average: '150.514'
 ---
 
 Tienes [Altoparlante portatile Beats Pill+ - Bianco](https://www.amazon.it/dp/B01MCQ9UI5/?tag=tolees00-21) con un 28.03 % de descuento con precio de oferta de 143.9 EUR (original: 199.95 EUR) en el siguiente enlace!

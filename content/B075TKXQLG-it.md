@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B075TKXQLG/?tag=tolees00-21'
 descuento: '25.02'
+average: '22.42'
 ---
 
 Tienes [Contorno Occhi Antirughe Vovees Theia Gel con Acido Ialuronico Bio - 8 Principi Attivi Vegan - 30ml](https://www.amazon.it/dp/B075TKXQLG/?tag=tolees00-21) con un 25.02 % de descuento con precio de oferta de 22.42 EUR (original: 29.9 EUR) en el siguiente enlace!

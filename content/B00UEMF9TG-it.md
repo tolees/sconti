@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00UEMF9TG/?tag=tolees00-21'
 descuento: '46.02'
+average: '34.0'
 ---
 
 Tienes [Philips Lighting Robin Lampada da Parete LED Up con Sensore di movimento per Esterni Giardino  Nero](https://www.amazon.it/dp/B00UEMF9TG/?tag=tolees00-21) con un 46.02 % de descuento con precio de oferta de 34.0 EUR (original: 62.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FP17HNY/?tag=tolees00-21'
 descuento: '49.10'
+average: '55.99'
 ---
 
 Tienes [Sega Universale  TECCPO 1050W Seghe a Gattuccio Professionale  Velocità 0-2500SPM  3 Lame  Profondità di Taglio: 150mm  Legno   5mm  Metallo   Corsa di Taglio 28 mm -TARS24P](https://www.amazon.it/dp/B07FP17HNY/?tag=tolees00-21) con un 49.10 % de descuento con precio de oferta de 55.99 EUR (original: 109.99 EUR) en el siguiente enlace!

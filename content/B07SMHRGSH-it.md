@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SMHRGSH/?tag=tolees00-21'
 descuento: '41.86'
+average: '0.75'
 ---
 
 Está [Garofalo - Fusilli Bucati Corti  Pasta di Semola di Grano Duro - pezzo da 500 g](https://www.amazon.it/dp/B07SMHRGSH/?tag=tolees00-21) con 41.86 de descuento por 0.75 EUR (original: 1.29 EUR) en el siguiente enlace!

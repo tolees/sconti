@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0813ZFVTK/?tag=tolees00-21'
 descuento: '36.21'
+average: '38.24'
 ---
 
 Tienes [adidas Superstar C  Scarpe da Ginnastica Unisex-Bambini  Ftwr White/Core Black/Ftwr White  30.5 EU](https://www.amazon.it/dp/B0813ZFVTK/?tag=tolees00-21) con un 36.21 % de descuento con precio de oferta de 38.24 EUR (original: 59.95 EUR) en el siguiente enlace!

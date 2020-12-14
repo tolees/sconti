@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SWV18FS/?tag=tolees00-21'
 descuento: '84.82'
+average: '17.46'
 ---
 
 Está [Geox D LEELU  E  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   35 EU](https://www.amazon.it/dp/B07SWV18FS/?tag=tolees00-21) con 84.82 de descuento por 17.46 EUR (original: 115.0 EUR) en el siguiente enlace!

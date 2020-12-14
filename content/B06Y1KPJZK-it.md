@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06Y1KPJZK/?tag=tolees00-21'
 descuento: '44.67'
+average: '34.25'
 ---
 
 Está [Moleskine ID Collection Zaino da Lavoro Professionale Waterproof Device Backpack per Tablet  Laptop  PC  Notebook e iPad Fino a 15    Dimensioni 27 x 11 x 36 cm  Colore Giallo Ambra](https://www.amazon.it/dp/B06Y1KPJZK/?tag=tolees00-21) con 44.67 de descuento por 34.25 EUR (original: 61.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X1T5QZC/?tag=tolees00-21'
 descuento: '32.54'
+average: '25.56'
 ---
 
 Está [Eastpak Padded Pak R Zaino  40 cm  24 L  Rosa  Meshknit Pink ](https://www.amazon.it/dp/B07X1T5QZC/?tag=tolees00-21) con 32.54 de descuento por 25.56 EUR (original: 37.89 EUR) en el siguiente enlace!

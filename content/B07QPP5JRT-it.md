@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QPP5JRT/?tag=tolees00-21'
 descuento: '30.83'
+average: '19.99'
 ---
 
 Tienes [Durex Love Collection Preservativi Assortiti Stimolanti e Sottili  Cofanetto Passione e Intimità  30 Profilattici](https://www.amazon.it/dp/B07QPP5JRT/?tag=tolees00-21) con un 30.83 % de descuento con precio de oferta de 19.99 EUR (original: 28.9 EUR) en el siguiente enlace!

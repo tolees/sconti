@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RJ6S4XH/?tag=tolees00-21'
 descuento: '59.20'
+average: '16.28'
 ---
 
 Ahora mismo tienes [Calvin Klein K50k505179 Cintura  Blu  Navy/Black 0Gy   Unica  Taglia Produttore: 90  Uomo](https://www.amazon.it/dp/B07RJ6S4XH/?tag=tolees00-21) a 16.28 EUR (original: 39.9 EUR) (59.20 %  de descuento) en el siguiente enlace!

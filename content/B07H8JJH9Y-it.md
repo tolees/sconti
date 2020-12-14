@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07H8JJH9Y/?tag=tolees00-21'
 descuento: '33.00'
+average: '133.99'
 ---
 
 Tienes [Epson Expression Premium XP-7100 Stampante Multifunzionale 3-in-1  Stampa  Scansione  Copia  Display Touch da 10.9 cm  Ethernet  A4  Nero](https://www.amazon.it/dp/B07H8JJH9Y/?tag=tolees00-21) con un 33.00 % de descuento con precio de oferta de 133.99 EUR (original: 199.99 EUR) en el siguiente enlace!

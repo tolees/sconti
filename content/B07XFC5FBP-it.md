@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XFC5FBP/?tag=tolees00-21'
 descuento: '26.31'
+average: '19.89'
 ---
 
 Tienes [MROTY Italia | Orologio Fitness Uomo Donna  Fitness Tracker  Smartwatch  Cardiofrequenzimetro  Impermeabile IP68  Conta Passi  Activity Tracker - per Android ed iOS - Ultimo Modello  Design 2020](https://www.amazon.it/dp/B07XFC5FBP/?tag=tolees00-21) con un 26.31 % de descuento con precio de oferta de 19.89 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GT4N11S/?tag=tolees00-21'
 descuento: '57.01'
+average: '42.99'
 ---
 
 Está [Razer Mamba Wireless Mouse da Gaming  Nero](https://www.amazon.it/dp/B07GT4N11S/?tag=tolees00-21) con 57.01 de descuento por 42.99 EUR (original: 99.99 EUR) en el siguiente enlace!

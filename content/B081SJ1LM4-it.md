@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21'
 descuento: '61.92'
+average: '57.1'
 ---
 
 Ahora mismo tienes [adidas Urban Rain.RDY  Giacca Sportiva Uomo  Black  M](https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21) a 57.1 EUR (original: 149.95 EUR) (61.92 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087MZ6WB8/?tag=tolees00-21'
 descuento: '31.49'
+average: '3.22'
 ---
 
 Ahora mismo tienes [Uarter 50pcs bambino Formato Faccia Libera USA e Getta Blu 3-ply Adatto per 6-14 anni](https://www.amazon.it/dp/B087MZ6WB8/?tag=tolees00-21) a 3.22 EUR (original: 4.7 EUR) (31.49 %  de descuento) en el siguiente enlace!

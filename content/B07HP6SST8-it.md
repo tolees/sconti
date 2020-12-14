@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HP6SST8/?tag=tolees00-21'
 descuento: '26.59'
+average: '659.99'
 ---
 
 Tienes [Hoover AXI AWDPD 4138LH/1-S  Steel](https://www.amazon.it/dp/B07HP6SST8/?tag=tolees00-21) con un 26.59 % de descuento con precio de oferta de 659.99 EUR (original: 899.0 EUR) en el siguiente enlace!

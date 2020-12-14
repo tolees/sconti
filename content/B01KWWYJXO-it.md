@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01KWWYJXO/?tag=tolees00-21'
 descuento: '34.57'
+average: '229.0'
 ---
 
 Está [Philips AC2887/10 Purificatore d Aria con Tecnologia VitalShield IPS e Filtro Advanced Nanoprotect  antiallergico](https://www.amazon.it/dp/B01KWWYJXO/?tag=tolees00-21) con 34.57 de descuento por 229.0 EUR (original: 349.99 EUR) en el siguiente enlace!

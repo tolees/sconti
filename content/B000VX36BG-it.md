@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000VX36BG/?tag=tolees00-21'
 descuento: '33.09'
+average: '94.52'
 ---
 
 Tienes [Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone Rootbeer Smooth  44.5 EU](https://www.amazon.it/dp/B000VX36BG/?tag=tolees00-21) con un 33.09 % de descuento con precio de oferta de 97.02 EUR (original: 145.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21'
 descuento: '68.21'
+average: '6.99'
 ---
 
 Ahora mismo tienes [Far Cry New Dawn - Xbox One](https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21) a 6.99 EUR (original: 21.99 EUR) (68.21 %  de descuento) en el siguiente enlace!

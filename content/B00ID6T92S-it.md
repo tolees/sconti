@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ID6T92S/?tag=tolees00-21'
 descuento: '51.20'
+average: '147.23333333333335'
 ---
 
 Ahora mismo tienes [Emporio Armani Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile AR2473](https://www.amazon.it/dp/B00ID6T92S/?tag=tolees00-21) a 145.9 EUR (original: 299.0 EUR) (51.20 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06ZYJC98G/?tag=tolees00-21'
 descuento: '30.02'
+average: '10.49'
 ---
 
 Ahora mismo tienes [Funko- Pop Vinile Rocks Joey Ramone  14350](https://www.amazon.it/dp/B06ZYJC98G/?tag=tolees00-21) a 10.49 EUR (original: 14.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

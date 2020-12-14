@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08B3RJ5NR/?tag=tolees00-21'
 descuento: '36.37'
+average: '62.99'
 ---
 
 Está [Hunty Hard Disk 2 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop. 2TB Rosso ](https://www.amazon.it/dp/B08B3RJ5NR/?tag=tolees00-21) con 36.37 de descuento por 62.99 EUR (original: 99.0 EUR) en el siguiente enlace!

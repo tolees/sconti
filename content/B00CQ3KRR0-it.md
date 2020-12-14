@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00CQ3KRR0/?tag=tolees00-21'
 descuento: '42.44'
+average: '4.95'
 ---
 
 Tienes [Rimmel London Cipria Compatta Stay Matte  Polvere Opacizzante a Lunga Tenuta per Pelli Grasse e Miste  009 Amber  14 g](https://www.amazon.it/dp/B00CQ3KRR0/?tag=tolees00-21) con un 42.44 % de descuento con precio de oferta de 4.95 EUR (original: 8.6 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0814SRXKH/?tag=tolees00-21'
 descuento: '47.77'
+average: '21.91'
 ---
 
 Está [Under Armour Challenger III Midlayer  Maglia a maniche lunghe Uomo  Grigio  Halo Gray   S](https://www.amazon.it/dp/B0814SRXKH/?tag=tolees00-21) con 47.77 de descuento por 21.91 EUR (original: 41.95 EUR) en el siguiente enlace!

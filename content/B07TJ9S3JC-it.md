@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TJ9S3JC/?tag=tolees00-21'
 descuento: '46.50'
+average: '37.45'
 ---
 
 Está [Levi s Relaxed Graphic Hoodie Felpa  Bianco  Boxtab Pop White 0022   Large Uomo](https://www.amazon.it/dp/B07TJ9S3JC/?tag=tolees00-21) con 46.50 de descuento por 37.45 EUR (original: 70.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0785JVT1S/?tag=tolees00-21'
 descuento: '32.21'
+average: '27.11'
 ---
 
 Tienes [Canna per giardino Flexi Hose  estendibile fino a 15 metri  extra-forte  raccordi in puro ottone da 3/4   - Il top delle canne per acqua flessibili  senza intoppi  spray con 8 funzioni compreso](https://www.amazon.it/dp/B0785JVT1S/?tag=tolees00-21) con un 32.21 % de descuento con precio de oferta de 27.11 EUR (original: 39.99 EUR) en el siguiente enlace!

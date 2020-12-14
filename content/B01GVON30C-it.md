@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01GVON30C/?tag=tolees00-21'
 descuento: '60.30'
+average: '79.0'
 ---
 
 Está [Cyclette Cicletta Bici Da Camera Easy Belt Cardio Cardiofrequenzimentro Pulsazioni Computer Gym Fitness Dimagrire Muscoli Gambe Resistenza Cellulite Cosce](https://www.amazon.it/dp/B01GVON30C/?tag=tolees00-21) con 60.30 de descuento por 79.0 EUR (original: 199.0 EUR) en el siguiente enlace!

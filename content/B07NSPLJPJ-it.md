@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NSPLJPJ/?tag=tolees00-21'
 descuento: '30.09'
+average: '31.39'
 ---
 
 Está [Funko 39454 POP! Vinyl: Movies: Ghostbusters: Peter w/House Town Statuetta da collezione  multicolore](https://www.amazon.it/dp/B07NSPLJPJ/?tag=tolees00-21) con 30.09 de descuento por 31.39 EUR (original: 44.9 EUR) en el siguiente enlace!

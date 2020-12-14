@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B075JGJJSV/?tag=tolees00-21'
 descuento: '48.39'
+average: '159.99'
 ---
 
 Tienes [Philips Sonicare HX9903/13 DiamondClean Smart  Spazzolino Elettrico con Tecnologia Sonicare  Connesso all Applicazione  4 Programmi di Pulizia  Nero](https://www.amazon.it/dp/B075JGJJSV/?tag=tolees00-21) con un 48.39 % de descuento con precio de oferta de 159.99 EUR (original: 309.99 EUR) en el siguiente enlace!

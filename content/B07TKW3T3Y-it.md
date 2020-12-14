@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TKW3T3Y/?tag=tolees00-21'
 descuento: '60.06'
+average: '3.99'
 ---
 
 Está [DIYARTS Tirare Indietro Il Modello di Auto Kit Mini Veicoli in Lega Muffa Giocattolo Bambini Tasca Auto Giocattolo Bambino Regalo Boy Compleanno Gioco di Puzzle Regalo  C ](https://www.amazon.it/dp/B07TKW3T3Y/?tag=tolees00-21) con 60.06 de descuento por 3.99 EUR (original: 9.99 EUR) en el siguiente enlace!

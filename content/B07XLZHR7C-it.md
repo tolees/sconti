@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XLZHR7C/?tag=tolees00-21'
 descuento: '65.54'
+average: '22.656666666666666'
 ---
 
 Ahora mismo tienes [WESCO Cacciavite Elettrico 3.6V  3.5N.m Avvitatore a Batteria 1500mAh Li-ion Ricaricabile con 6 Punti WS2013](https://www.amazon.it/dp/B07XLZHR7C/?tag=tolees00-21) a 9.99 EUR (original: 28.99 EUR) (65.54 %  de descuento) en el siguiente enlace!

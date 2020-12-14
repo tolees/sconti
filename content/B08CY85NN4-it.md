@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CY85NN4/?tag=tolees00-21'
 descuento: '30.00'
+average: '83.96'
 ---
 
 Está [homcom Libreria Scaffale Portagiochi per Cameretta Bimbi e Ragazzi con Mensole a Cubi Bianca  Due Colori Cambiati  Azzurra e Rosa 82x30x126cm](https://www.amazon.it/dp/B08CY85NN4/?tag=tolees00-21) con 30.00 de descuento por 83.96 EUR (original: 119.95 EUR) en el siguiente enlace!

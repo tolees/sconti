@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VC9J6CK/?tag=tolees00-21'
 descuento: '40.00'
+average: '10.77'
 ---
 
 Está [YAMAMAY® Triangolo - Nicely](https://www.amazon.it/dp/B07VC9J6CK/?tag=tolees00-21) con 40.00 de descuento por 10.77 EUR (original: 17.95 EUR) en el siguiente enlace!

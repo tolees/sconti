@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B082NW2H1K/?tag=tolees00-21'
 descuento: '47.39'
+average: '9.99'
 ---
 
 Está [Sntieecr Elettronica Motore Circuiti  Giochi Educativi e Scientifici Kit per Bambini STEM Esperimenti Progetti Scientifici](https://www.amazon.it/dp/B082NW2H1K/?tag=tolees00-21) con 47.39 de descuento por 9.99 EUR (original: 18.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00D2NVCIQ/?tag=tolees00-21'
 descuento: '33.44'
+average: '19.9'
 ---
 
 Ahora mismo tienes [Panasonic KX-TG6811JTB Telefono Cordless DECT  Schermo LCD da 1 8   Base Design Sottile e Compatto  Nero](https://www.amazon.it/dp/B00D2NVCIQ/?tag=tolees00-21) a 19.9 EUR (original: 29.9 EUR) (33.44 %  de descuento) en el siguiente enlace!

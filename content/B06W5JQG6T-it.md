@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06W5JQG6T/?tag=tolees00-21'
 descuento: '43.75'
+average: '89.99'
 ---
 
 Ahora mismo tienes [Philips HD9216/80 Airfryer Friggitrice Low-Oil e Multicooker con Tecnologia RapidAir  800 g  Bianco](https://www.amazon.it/dp/B06W5JQG6T/?tag=tolees00-21) a 89.99 EUR (original: 159.99 EUR) (43.75 %  de descuento) en el siguiente enlace!

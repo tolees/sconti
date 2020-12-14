@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ST7IM10/?tag=tolees00-21'
 descuento: '39.70'
+average: '12.0'
 ---
 
 Ahora mismo tienes [Urban Classics Block Swim Shorts Pantaloncini da Bagno  Multicolore  Nvy/Burgundy 675   S Uomo](https://www.amazon.it/dp/B00ST7IM10/?tag=tolees00-21) a 12.0 EUR (original: 19.9 EUR) (39.70 %  de descuento) en el siguiente enlace!

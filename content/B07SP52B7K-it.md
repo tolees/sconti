@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SP52B7K/?tag=tolees00-21'
 descuento: '51.82'
+average: '13.49'
 ---
 
 Tienes [Havaianas Slim Animals  Infradito Donna  Multicolore  Ballet Rose 0076   33/34 EU](https://www.amazon.it/dp/B07SP52B7K/?tag=tolees00-21) con un 51.82 % de descuento con precio de oferta de 13.49 EUR (original: 28.0 EUR) en el siguiente enlace!

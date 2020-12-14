@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00BOJGITI/?tag=tolees00-21'
 descuento: '55.13'
+average: '35.0'
 ---
 
 Tienes [Burberry Weekend Edp 100 Ml](https://www.amazon.it/dp/B00BOJGITI/?tag=tolees00-21) con un 55.13 % de descuento con precio de oferta de 35.0 EUR (original: 78.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KP38CYB/?tag=tolees00-21'
 descuento: '54.63'
+average: '38.54'
 ---
 
 Tienes [adidas MTS WV Light  Tuta Uomo  Legend Ink/Legend Ink  S](https://www.amazon.it/dp/B07KP38CYB/?tag=tolees00-21) con un 54.63 % de descuento con precio de oferta de 38.54 EUR (original: 84.95 EUR) en el siguiente enlace!

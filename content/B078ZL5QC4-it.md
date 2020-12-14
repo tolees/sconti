@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078ZL5QC4/?tag=tolees00-21'
 descuento: '46.20'
+average: '7.99'
 ---
 
 Tienes [Techly 103113 Multipresa 6 Posti Italiana Bipasso con Protezione da sovraccarico Bianca Bianco](https://www.amazon.it/dp/B078ZL5QC4/?tag=tolees00-21) con un 46.20 % de descuento con precio de oferta de 7.99 EUR (original: 14.85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RXZ65P8/?tag=tolees00-21'
 descuento: '60.00'
+average: '34.0'
 ---
 
 Ahora mismo tienes [Pepe Jeans Hatch Jeans  Medium Used Hb6  32 W - 32 L Uomo](https://www.amazon.it/dp/B07RXZ65P8/?tag=tolees00-21) a 34.0 EUR (original: 85.0 EUR) (60.00 %  de descuento) en el siguiente enlace!

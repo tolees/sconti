@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0813XYGL9/?tag=tolees00-21'
 descuento: '47.07'
+average: '18.5'
 ---
 
 Tienes [adidas Adilette  Ciabatte Donna  Nero  Core Black/Blue Glow/Core Black   44.5 EU](https://www.amazon.it/dp/B0813XYGL9/?tag=tolees00-21) con un 47.07 % de descuento con precio de oferta de 18.5 EUR (original: 34.95 EUR) en el siguiente enlace!

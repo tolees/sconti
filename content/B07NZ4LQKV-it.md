@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NZ4LQKV/?tag=tolees00-21'
 descuento: '39.15'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Tendina Parasole Auto   otumixx 2 Pezzi Tendine Parasole Auto Bambini per Finestrino Laterale con Protezione UV  Universale misura 126x52cm Parasole  Protegge Bambini e Animali Domestici - Nero](https://www.amazon.it/dp/B07NZ4LQKV/?tag=tolees00-21) a 13.99 EUR (original: 22.99 EUR) (39.15 %  de descuento) en el siguiente enlace!

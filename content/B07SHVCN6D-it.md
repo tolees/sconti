@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SHVCN6D/?tag=tolees00-21'
 descuento: '29.28'
+average: '31.79'
 ---
 
 Está [Under Armour Rush HeatGear Compression Maglietta A Maniche Corte  Uomo  Nero  SM](https://www.amazon.it/dp/B07SHVCN6D/?tag=tolees00-21) con 29.28 de descuento por 31.79 EUR (original: 44.95 EUR) en el siguiente enlace!

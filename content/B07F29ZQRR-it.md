@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F29ZQRR/?tag=tolees00-21'
 descuento: '52.32'
+average: '30.99'
 ---
 
 Tienes [Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Blu  Dark Blue Canvas   41.5 EU](https://www.amazon.it/dp/B07F29ZQRR/?tag=tolees00-21) con un 52.32 % de descuento con precio de oferta de 30.99 EUR (original: 65.0 EUR) en el siguiente enlace!

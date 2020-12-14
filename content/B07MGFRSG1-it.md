@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MGFRSG1/?tag=tolees00-21'
 descuento: '66.90'
+average: '39.80368421052631'
 ---
 
 Ahora mismo tienes [NAPAPIJRI Burgee 2 Felpa con Cappuccio  Viola  Purple Wine V01   XXS Uomo](https://www.amazon.it/dp/B07MGFRSG1/?tag=tolees00-21) a 32.77 EUR (original: 99.0 EUR) (66.90 %  de descuento) en el siguiente enlace!

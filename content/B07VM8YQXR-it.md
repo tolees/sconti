@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VM8YQXR/?tag=tolees00-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Tienes [TECCPO 120 Pezzi Dischi Abrasivi  ø125 mm Carta Abrasiva Velcro Resistente per Levigatrice Orbitale  grana da 24 X 60/80/120/180/240  per Levigatura  Lucidatura  Spolveratura - TASP23A](https://www.amazon.it/dp/B07VM8YQXR/?tag=tolees00-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

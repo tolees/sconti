@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DNZ35NS/?tag=tolees00-21'
 descuento: '62.46'
+average: '35.97'
 ---
 
 Está [EasySMX Switch Controller  Switch Controller Controller Pro per Nintendo Switch / Nintendo Switch Lite con Bluetooth / 6 assi / doppio motore  controller PC per Windows XP / 10/7/8 / 8.1  giallo](https://www.amazon.it/dp/B08DNZ35NS/?tag=tolees00-21) con 62.46 de descuento por 35.97 EUR (original: 95.82 EUR) en el siguiente enlace!

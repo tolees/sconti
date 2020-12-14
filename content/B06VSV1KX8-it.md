@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06VSV1KX8/?tag=tolees00-21'
 descuento: '40.09'
+average: '49.9'
 ---
 
 Tienes [Hoover La71 La10011 Lander - Aspirapolvere a Traino Senza Sacco  700 W  1.2 Litri  78 Decibel  Bianco / Grigio](https://www.amazon.it/dp/B06VSV1KX8/?tag=tolees00-21) con un 40.09 % de descuento con precio de oferta de 59.9 EUR (original: 99.99 EUR) en el siguiente enlace!

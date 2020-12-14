@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08968MJWN/?tag=tolees00-21'
 descuento: '34.81'
+average: '9.12'
 ---
 
 Está [Acqua alle Rose Tonico Rinfrescante - 4 x 300 ml](https://www.amazon.it/dp/B08968MJWN/?tag=tolees00-21) con 34.81 de descuento por 9.12 EUR (original: 13.99 EUR) en el siguiente enlace!

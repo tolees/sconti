@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085H9FRKW/?tag=tolees00-21'
 descuento: '53.72'
+average: '13.88'
 ---
 
 Está [Striscia LED 5M RGB LED  24V Striscia di Colore Variabile Con Pulsante 44 RF Telecomando  Particolarmente Adatto a Salotti  Sale Di Ricevimento  Bar  TV  Feste  Festival](https://www.amazon.it/dp/B085H9FRKW/?tag=tolees00-21) con 53.72 de descuento por 13.88 EUR (original: 29.99 EUR) en el siguiente enlace!

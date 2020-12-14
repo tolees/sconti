@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21'
 descuento: '37.43'
+average: '16.8'
 ---
 
 Tienes [Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri ](https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21) con un 37.43 % de descuento con precio de oferta de 17.52 EUR (original: 28.0 EUR) en el siguiente enlace!

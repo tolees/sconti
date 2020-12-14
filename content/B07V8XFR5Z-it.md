@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V8XFR5Z/?tag=tolees00-21'
 descuento: '74.48'
+average: '11.46'
 ---
 
 Ahora mismo tienes [Calvin Klein Primary Washbag - Organizer borsa Donna  Nero  Black   1x1x1 cm  W x H L ](https://www.amazon.it/dp/B07V8XFR5Z/?tag=tolees00-21) a 11.46 EUR (original: 44.9 EUR) (74.48 %  de descuento) en el siguiente enlace!

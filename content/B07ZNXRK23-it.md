@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZNXRK23/?tag=tolees00-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Tienes [[FORZA ITALIA] HolyHigh Auricolari Cuffie Sportive Senza Fili Auricolari Bluetooth 5.0 Impermeabile IPX5 35 Ore di Autonomia per Riproduzione in Ear](https://www.amazon.it/dp/B07ZNXRK23/?tag=tolees00-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

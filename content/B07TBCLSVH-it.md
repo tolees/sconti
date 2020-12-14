@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TBCLSVH/?tag=tolees00-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Está [Souke Sports Pantaloncini da Ciclismo da Uomo Bici Mutande Biancheria Intima Imbottitie 4D Traspiranti Antiscivolo Antiurto](https://www.amazon.it/dp/B07TBCLSVH/?tag=tolees00-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

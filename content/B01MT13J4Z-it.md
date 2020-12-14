@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MT13J4Z/?tag=tolees00-21'
 descuento: '51.25'
+average: '39.0'
 ---
 
 Tienes [Lacoste Lerond BL 2 Cam  Sneaker Uomo  Nero  Black   39.5 EU](https://www.amazon.it/dp/B01MT13J4Z/?tag=tolees00-21) con un 51.25 % de descuento con precio de oferta de 39.0 EUR (original: 80.0 EUR) en el siguiente enlace!

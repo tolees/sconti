@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08C4Y5GHY/?tag=tolees00-21'
 descuento: '40.02'
+average: '11.99'
 ---
 
 Ahora mismo tienes [Elyco Corda Saltare per Nintendo Switch Jump Rope Challenge  Regolabile Jump Rope Senza Durevole Corda per Fitness e attività Fisica per Ragazzi e Ragazze per Switch Joy-con](https://www.amazon.it/dp/B08C4Y5GHY/?tag=tolees00-21) a 11.99 EUR (original: 19.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

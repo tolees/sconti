@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XPK4GDY/?tag=tolees00-21'
 descuento: '32.21'
+average: '13.49'
 ---
 
 Está [La Crema del Caffè - Aroma e Gusto  12 Astucci da 10 Capsule  Totale 120 Capsule   Compatibili Nespresso](https://www.amazon.it/dp/B06XPK4GDY/?tag=tolees00-21) con 32.21 de descuento por 13.49 EUR (original: 19.9 EUR) en el siguiente enlace!

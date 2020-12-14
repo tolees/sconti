@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081ZFNLLZ/?tag=tolees00-21'
 descuento: '38.16'
+average: '18.49'
 ---
 
 Tienes [Kimbo Capsule di Caffè Intenso  Compatibile con Nespresso  10 Pacchi da 10 Capsule  Totale 100 Capsule ](https://www.amazon.it/dp/B081ZFNLLZ/?tag=tolees00-21) con un 38.16 % de descuento con precio de oferta de 18.49 EUR (original: 29.9 EUR) en el siguiente enlace!

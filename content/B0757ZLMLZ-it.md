@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0757ZLMLZ/?tag=tolees00-21'
 descuento: '33.61'
+average: '79.0'
 ---
 
 Está [Gucci Bloom  Profumo Eau de Parfum  100 ml](https://www.amazon.it/dp/B0757ZLMLZ/?tag=tolees00-21) con 33.61 de descuento por 79.0 EUR (original: 119.0 EUR) en el siguiente enlace!

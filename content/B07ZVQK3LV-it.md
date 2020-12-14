@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZVQK3LV/?tag=tolees00-21'
 descuento: '33.37'
+average: '19.99'
 ---
 
 Está [Levi s Housemark Graphic Tee T-Shirt  Ssnl HM Outline White  Large Uomo](https://www.amazon.it/dp/B07ZVQK3LV/?tag=tolees00-21) con 33.37 de descuento por 19.99 EUR (original: 30.0 EUR) en el siguiente enlace!

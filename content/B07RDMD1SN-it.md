@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RDMD1SN/?tag=tolees00-21'
 descuento: '43.75'
+average: '33.75'
 ---
 
 Ahora mismo tienes [Nike Downshifter 9  Scarpe da Corsa Uomo  Black/White/Particle Grey/Dk Smoke Grey/Ghost Green/Sapphire  39 EU](https://www.amazon.it/dp/B07RDMD1SN/?tag=tolees00-21) a 33.75 EUR (original: 60.0 EUR) (43.75 %  de descuento) en el siguiente enlace!

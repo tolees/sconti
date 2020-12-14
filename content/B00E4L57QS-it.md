@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00E4L57QS/?tag=tolees00-21'
 descuento: '34.12'
+average: '1.12'
 ---
 
 Está [Svelto Piatti a Mano  Aceto  1 l](https://www.amazon.it/dp/B00E4L57QS/?tag=tolees00-21) con 34.12 de descuento por 1.12 EUR (original: 1.7 EUR) en el siguiente enlace!

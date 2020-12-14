@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08HZ4BW9H/?tag=tolees00-21'
 descuento: '37.69'
+average: '47.99'
 ---
 
 Tienes [Hard Disk 1 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop  1TB  D oro ](https://www.amazon.it/dp/B08HZ4BW9H/?tag=tolees00-21) con un 37.69 % de descuento con precio de oferta de 47.99 EUR (original: 77.02 EUR) en el siguiente enlace!

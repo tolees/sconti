@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S9S9P6H/?tag=tolees00-21'
 descuento: '53.89'
+average: '29.95'
 ---
 
 Está [PUMA Cilia Lux  Sneakers Donna  Nero Black/Plein Air/Bright Rose Silver White  38 EU](https://www.amazon.it/dp/B07S9S9P6H/?tag=tolees00-21) con 53.89 de descuento por 29.95 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00G9W4RSO/?tag=tolees00-21'
 descuento: '44.94'
+average: '43.99'
 ---
 
 Está [Bosch MSM66155 Mixer a Immersione  Frullatore con 4 Accessori  600 W  Plastica  Bianco](https://www.amazon.it/dp/B00G9W4RSO/?tag=tolees00-21) con 44.94 de descuento por 43.99 EUR (original: 79.9 EUR) en el siguiente enlace!

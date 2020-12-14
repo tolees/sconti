@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21'
 descuento: '33.56'
+average: '0.99'
 ---
 
 Tienes [Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  1 x 75 ml](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21) con un 33.56 % de descuento con precio de oferta de 0.99 EUR (original: 1.49 EUR) en el siguiente enlace!

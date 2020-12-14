@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08HRPL3ZV/?tag=tolees00-21'
 descuento: '38.49'
+average: '17.0'
 ---
 
 Ahora mismo tienes [Entweg Termometro Frontale Termometro Digitale Portatile a infrarossi Senza Contatto Indicatore di Temperatura dell oggetto Elevata precisione ℉ E ℉ Retroilluminazione a 3 Colori commutabile](https://www.amazon.it/dp/B08HRPL3ZV/?tag=tolees00-21) a 17.0 EUR (original: 27.64 EUR) (38.49 %  de descuento) en el siguiente enlace!

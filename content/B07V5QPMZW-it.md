@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V5QPMZW/?tag=tolees00-21'
 descuento: '29.93'
+average: '20.95'
 ---
 
 Tienes [Tommy Hilfiger Nautical Print Beach Sandal  Punta Aperta Uomo  Blu  Desert Sky Dw5   43 EU](https://www.amazon.it/dp/B07V5QPMZW/?tag=tolees00-21) con un 29.93 % de descuento con precio de oferta de 20.95 EUR (original: 29.9 EUR) en el siguiente enlace!

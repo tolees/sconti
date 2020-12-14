@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003ZIZ7QQ/?tag=tolees00-21'
 descuento: '37.42'
+average: '14.33'
 ---
 
 Está [Panasonic WER160L2504 - Batteria per rasoio professionale ER-1610 / ER-160 / ER-1611](https://www.amazon.it/dp/B003ZIZ7QQ/?tag=tolees00-21) con 37.42 de descuento por 14.33 EUR (original: 22.9 EUR) en el siguiente enlace!

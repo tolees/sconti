@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XQYCGX7/?tag=tolees00-21'
 descuento: '33.84'
+average: '98.58'
 ---
 
 Ahora mismo tienes [Apple Custodia folio in pelle  per iPhone 11 Pro  - Melanzana](https://www.amazon.it/dp/B07XQYCGX7/?tag=tolees00-21) a 98.58 EUR (original: 149.0 EUR) (33.84 %  de descuento) en el siguiente enlace!

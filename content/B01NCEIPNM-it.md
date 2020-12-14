@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01NCEIPNM/?tag=tolees00-21'
 descuento: '32.24'
+average: '14.9'
 ---
 
 Está [Brita Marella - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ Incluso](https://www.amazon.it/dp/B01NCEIPNM/?tag=tolees00-21) con 32.24 de descuento por 14.9 EUR (original: 21.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07D2DH7BN/?tag=tolees00-21'
 descuento: '28.01'
+average: '15.99'
 ---
 
 Está [È Pura - Maschera Salt Free Care - Trattamento Professionale Intensivo Senza Sale Aggiunto per Capelli Trattati Chimicamente - 300 ml](https://www.amazon.it/dp/B07D2DH7BN/?tag=tolees00-21) con 28.01 de descuento por 15.99 EUR (original: 22.21 EUR) en el siguiente enlace!

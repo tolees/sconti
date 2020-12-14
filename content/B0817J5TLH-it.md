@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0817J5TLH/?tag=tolees00-21'
 descuento: '58.53'
+average: '26.95'
 ---
 
 Tienes [Columbia Silver Ridge II  Pantaloni Cargo Uomo  Blu  Collegiate Navy   W28/L32](https://www.amazon.it/dp/B0817J5TLH/?tag=tolees00-21) con un 58.53 % de descuento con precio de oferta de 26.95 EUR (original: 64.99 EUR) en el siguiente enlace!

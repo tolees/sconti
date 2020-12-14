@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RXXXY7P/?tag=tolees00-21'
 descuento: '80.20'
+average: '23.76'
 ---
 
 Ahora mismo tienes [Pepe Jeans Sue Giacca in Jeans  Nero  Archive Black Used 000   L arge Donna](https://www.amazon.it/dp/B07RXXXY7P/?tag=tolees00-21) a 23.76 EUR (original: 120.0 EUR) (80.20 %  de descuento) en el siguiente enlace!

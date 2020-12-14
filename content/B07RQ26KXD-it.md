@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RQ26KXD/?tag=tolees00-21'
 descuento: '53.30'
+average: '10.565000000000001'
 ---
 
 Tienes [L.O.L Surprise! - LOL Lils Winter Disco Series con 5 Sorprese - Giochi Preziosi  LLU85000](https://www.amazon.it/dp/B07RQ26KXD/?tag=tolees00-21) con un 53.30 % de descuento con precio de oferta de 7.0 EUR (original: 14.99 EUR) en el siguiente enlace!

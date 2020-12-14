@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01J9RU4LO/?tag=tolees00-21'
 descuento: '25.74'
+average: '25.99'
 ---
 
 Ahora mismo tienes [INBIKE Occhiali da Sole polarizzati da Ciclismo per Uomo  Nero ](https://www.amazon.it/dp/B01J9RU4LO/?tag=tolees00-21) a 25.99 EUR (original: 35.0 EUR) (25.74 %  de descuento) en el siguiente enlace!

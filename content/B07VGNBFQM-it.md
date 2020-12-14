@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VGNBFQM/?tag=tolees00-21'
 descuento: '50.05'
+average: '22.95'
 ---
 
 Está [Desigual Tshirt Devore Black T-Shirt  Nero  Negro 2000   46  Taglia Produttore: Large  Donna](https://www.amazon.it/dp/B07VGNBFQM/?tag=tolees00-21) con 50.05 de descuento por 22.95 EUR (original: 45.95 EUR) en el siguiente enlace!

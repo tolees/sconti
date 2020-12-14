@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01A75ZJIU/?tag=tolees00-21'
 descuento: '28.18'
+average: '7.9'
 ---
 
 Está [Bios Line Solari Natures Stick Spf50+ - 50 gr](https://www.amazon.it/dp/B01A75ZJIU/?tag=tolees00-21) con 28.18 de descuento por 7.9 EUR (original: 11.0 EUR) en el siguiente enlace!

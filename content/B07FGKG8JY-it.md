@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FGKG8JY/?tag=tolees00-21'
 descuento: '27.36'
+average: '23.9'
 ---
 
 Tienes [Spazzolino Elettrico Ricaricabile Braun Oral-B Vitality 170 CrossAction Blu con 1 Manico 2 Testine](https://www.amazon.it/dp/B07FGKG8JY/?tag=tolees00-21) con un 27.36 % de descuento con precio de oferta de 23.9 EUR (original: 32.9 EUR) en el siguiente enlace!

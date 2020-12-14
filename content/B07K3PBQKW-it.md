@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07K3PBQKW/?tag=tolees00-21'
 descuento: '65.03'
+average: '34.95'
 ---
 
 Está [BOSS Schino-Slim D  Pantaloni Uomo  Beige  Open Beige 280   W36/L36  Taglia Produttore: 3636 ](https://www.amazon.it/dp/B07K3PBQKW/?tag=tolees00-21) con 65.03 de descuento por 34.95 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GJGKMVR/?tag=tolees00-21'
 descuento: '38.15'
+average: '154.0'
 ---
 
 Está [Chicco Next2Me Dream Culla Fianco Letto  0 m+  Grigio](https://www.amazon.it/dp/B07GJGKMVR/?tag=tolees00-21) con 38.15 de descuento por 154.0 EUR (original: 249.0 EUR) en el siguiente enlace!

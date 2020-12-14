@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B010UH5QJM/?tag=tolees00-21'
 descuento: '25.08'
+average: '119.86'
 ---
 
 Tienes [Meliconi Vision Line 300 Mobile Porta TV con 3 Ripiani in Vetro Temperato Flat  Nero](https://www.amazon.it/dp/B010UH5QJM/?tag=tolees00-21) con un 25.08 % de descuento con precio de oferta de 119.86 EUR (original: 159.99 EUR) en el siguiente enlace!

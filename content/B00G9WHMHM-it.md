@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00G9WHMHM/?tag=tolees00-21'
 descuento: '40.89'
+average: '13.59'
 ---
 
 Tienes [Kingston DataTraveler G4 DTIG4/128GB PenDrive  USB 3.0  128 GB  Bianco/Verde](https://www.amazon.it/dp/B00G9WHMHM/?tag=tolees00-21) con un 40.89 % de descuento con precio de oferta de 13.59 EUR (original: 22.99 EUR) en el siguiente enlace!

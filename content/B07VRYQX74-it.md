@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VRYQX74/?tag=tolees00-21'
 descuento: '62.87'
+average: '12.15'
 ---
 
 Tienes [Calvin Klein Hip Brief 2pk Slip  Nero  Black with/White WB Bnm   X-Large Uomo](https://www.amazon.it/dp/B07VRYQX74/?tag=tolees00-21) con un 62.87 % de descuento con precio de oferta de 12.15 EUR (original: 32.72 EUR) en el siguiente enlace!

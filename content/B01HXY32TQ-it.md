@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01HXY32TQ/?tag=tolees00-21'
 descuento: '44.98'
+average: '6.9'
 ---
 
 Tienes [Procos Pinata Lovely Minions  Multicolore  10116999](https://www.amazon.it/dp/B01HXY32TQ/?tag=tolees00-21) con un 44.98 % de descuento con precio de oferta de 6.9 EUR (original: 12.54 EUR) en el siguiente enlace!

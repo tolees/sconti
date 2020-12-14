@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B015SGFI6Q/?tag=tolees00-21'
 descuento: '45.88'
+average: '12.99'
 ---
 
 Tienes [Havaianas Luna  Sandali Donna  Oro  Rose Gold/Rose Gold 5282   37/38 EU](https://www.amazon.it/dp/B015SGFI6Q/?tag=tolees00-21) con un 45.88 % de descuento con precio de oferta de 12.99 EUR (original: 24.0 EUR) en el siguiente enlace!

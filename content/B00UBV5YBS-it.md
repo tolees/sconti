@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00UBV5YBS/?tag=tolees00-21'
 descuento: '39.91'
+average: '54.05'
 ---
 
 Ahora mismo tienes [adidas Superstar  Scarpe da Ginnastica Unisex Adulto  Nero  Core Black/Core Black/Core Black   37 1/3 EU](https://www.amazon.it/dp/B00UBV5YBS/?tag=tolees00-21) a 54.05 EUR (original: 89.95 EUR) (39.91 %  de descuento) en el siguiente enlace!

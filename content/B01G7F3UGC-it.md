@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01G7F3UGC/?tag=tolees00-21'
 descuento: '25.19'
+average: '22.939999999999998'
 ---
 
 Ahora mismo tienes [Red Bull Energy Drink  250 ml  24 Lattine ](https://www.amazon.it/dp/B01G7F3UGC/?tag=tolees00-21) a 23.34 EUR (original: 31.2 EUR) (25.19 %  de descuento) en el siguiente enlace!

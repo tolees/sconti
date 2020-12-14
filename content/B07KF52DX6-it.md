@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KF52DX6/?tag=tolees00-21'
 descuento: '37.43'
+average: '23.73'
 ---
 
 Ahora mismo tienes [Levi s T-Shirt  Multicolore  2 Pack Tee White +/Mineral Black 0000   Large Donna](https://www.amazon.it/dp/B07KF52DX6/?tag=tolees00-21) a 21.9 EUR (original: 35.0 EUR) (37.43 %  de descuento) en el siguiente enlace!

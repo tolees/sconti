@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081BDN2QP/?tag=tolees00-21'
 descuento: '33.46'
+average: '10.74'
 ---
 
 Ahora mismo tienes [Vernel Supreme Rosa Romance Ammorbidente Concentrato Lavatrice Profumato  6 Confezioni da 1.1 Litro](https://www.amazon.it/dp/B081BDN2QP/?tag=tolees00-21) a 10.74 EUR (original: 16.14 EUR) (33.46 %  de descuento) en el siguiente enlace!

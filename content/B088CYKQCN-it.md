@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088CYKQCN/?tag=tolees00-21'
 descuento: '44.71'
+average: '8.99'
 ---
 
 Está [XLTOK Cavo USB Type C  [3Pezzi  1m+1m+2m] Cavo tipo C di Ricarica Trasmissione per Samsung S10 / S9 / S8 / Note8  Huawei P20  P30  Honor 10  OnePlus 6T  Xiaomi MIX 2  Moto G6  Nintendo Switch](https://www.amazon.it/dp/B088CYKQCN/?tag=tolees00-21) con 44.71 de descuento por 8.99 EUR (original: 16.26 EUR) en el siguiente enlace!

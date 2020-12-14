@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08B1JTP8N/?tag=tolees00-21'
 descuento: '37.51'
+average: '24.99'
 ---
 
 Ahora mismo tienes [jpantech Smartwatch Orologio Fitness Uomo Donna Impermeabile IP68 Smart Watch Cardiofrequenzimetro da Polso Contapassi Smartband Activity Tracker Bambini Cronometro per Android iOS（Nero）](https://www.amazon.it/dp/B08B1JTP8N/?tag=tolees00-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

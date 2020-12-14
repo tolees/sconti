@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SKWLTTP/?tag=tolees00-21'
 descuento: '55.00'
+average: '9.9'
 ---
 
 Está [Havaianas Top Nautical  Infradito Uomo  Multicolore  White/Navy/White 5035   37/38 EU](https://www.amazon.it/dp/B07SKWLTTP/?tag=tolees00-21) con 55.00 de descuento por 9.9 EUR (original: 22.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07WWX2TQD/?tag=tolees00-21'
 descuento: '28.64'
+average: '6.38'
 ---
 
 Tienes [Cuscino Da Viaggio Memory Foam Sidias Cuscino Cervicale Ortopedico Con Omaggio Tappi Maschera Fodera Cuscino Bambini Auto Treno Aereo Cuscino Sfoderabile Lavabile 100% Cotone Velluto 2A Generazione](https://www.amazon.it/dp/B07WWX2TQD/?tag=tolees00-21) con un 28.64 % de descuento con precio de oferta de 6.38 EUR (original: 8.94 EUR) en el siguiente enlace!

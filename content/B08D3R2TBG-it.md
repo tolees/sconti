@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08D3R2TBG/?tag=tolees00-21'
 descuento: '45.49'
+average: '490.0'
 ---
 
 Está [Scrambler Ducati Monopattino elettrico Cross-E  nero e giallo  Taglia universale](https://www.amazon.it/dp/B08D3R2TBG/?tag=tolees00-21) con 45.49 de descuento por 490.0 EUR (original: 899.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00DZZLG8C/?tag=tolees00-21'
 descuento: '31.97'
+average: '407.47'
 ---
 
 Ahora mismo tienes [Keter Casetta Manor 6X5 Dd Grigia In Resina Cm 185X152X226 H](https://www.amazon.it/dp/B00DZZLG8C/?tag=tolees00-21) a 407.47 EUR (original: 599.0 EUR) (31.97 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08B8CXRLX/?tag=tolees00-21'
 descuento: '25.00'
+average: '119.99'
 ---
 
 Está [Smartphone Offerta del Giorno 4G  Blackview A80 Pro  2020  Cellulari Offerte con 13MP Quad Camera  6.49 Pollici  Helio P25 Octa-core 4GB/64GB  4680mAh Batteria Dual SIM Telefono Cellulare - Nero](https://www.amazon.it/dp/B08B8CXRLX/?tag=tolees00-21) con 25.00 de descuento por 119.99 EUR (original: 159.99 EUR) en el siguiente enlace!

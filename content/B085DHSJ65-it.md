@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085DHSJ65/?tag=tolees00-21'
 descuento: '51.89'
+average: '19.98'
 ---
 
 Tienes [Lampada Portatile UVC Germicida Lampada UV Sterilizzazione Senza Prodotti Chimici per Mascherare Telefono Hotel](https://www.amazon.it/dp/B085DHSJ65/?tag=tolees00-21) con un 51.89 % de descuento con precio de oferta de 12.98 EUR (original: 26.98 EUR) en el siguiente enlace!

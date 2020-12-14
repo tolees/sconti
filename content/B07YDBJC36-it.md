@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YDBJC36/?tag=tolees00-21'
 descuento: '28.52'
+average: '385.99'
 ---
 
 Está [Robot Aspirapolvere  Muzili Robot Aspirapolvere Navigazione Intelligente WLAN con Serbatoio d Acqua Potenza Aspirante Regolabile a 3 Livelli/Autonomia di 130 Minuti/Controllo APP e Ricarica Automatica](https://www.amazon.it/dp/B07YDBJC36/?tag=tolees00-21) con 28.52 de descuento por 385.99 EUR (original: 539.99 EUR) en el siguiente enlace!

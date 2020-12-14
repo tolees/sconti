@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B015JIAD7C/?tag=tolees00-21'
 descuento: '58.33'
+average: '50.0'
 ---
 
 Está [Polaroid Fotocamera Digitale a Scatto Istantaneo  con Tecnologia Di Stampa a Zero Inchiostro Zink  Bianco](https://www.amazon.it/dp/B015JIAD7C/?tag=tolees00-21) con 58.33 de descuento por 50.0 EUR (original: 119.99 EUR) en el siguiente enlace!

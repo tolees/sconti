@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00JBNZPFM/?tag=tolees00-21'
 descuento: '31.52'
+average: '60.0'
 ---
 
 Tienes [Karcher Aspiratore solidi-Liquidi - WD 3  Versione Spagnola ](https://www.amazon.it/dp/B00JBNZPFM/?tag=tolees00-21) con un 31.52 % de descuento con precio de oferta de 60.0 EUR (original: 87.62 EUR) en el siguiente enlace!

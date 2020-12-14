@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CLRSLK8/?tag=tolees00-21'
 descuento: '50.01'
+average: '39.99'
 ---
 
 Está [Lampada Proiettore Soffitto  Luce Notturna Bambini con Stella Luna Onda Acqua  Telecomando Altoparlante Bluetooth  Timer  LED Lampada Musicale con 42 Modalità  Regalo per Adulto Bambini  Nero ](https://www.amazon.it/dp/B08CLRSLK8/?tag=tolees00-21) con 50.01 de descuento por 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

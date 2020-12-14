@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0735BGL2Y/?tag=tolees00-21'
 descuento: '54.80'
+average: '89.95'
 ---
 
 Ahora mismo tienes [Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Bianco  Bright White 002   Small Uomo](https://www.amazon.it/dp/B0735BGL2Y/?tag=tolees00-21) a 89.95 EUR (original: 199.0 EUR) (54.80 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PBZ8Z94/?tag=tolees00-21'
 descuento: '47.58'
+average: '57.61'
 ---
 
 Está [American Tourister Disney Legends - Spinner S Valigia per Bambini  S  55 cm - 36 L   Blu  Take Me Away Mickey London ](https://www.amazon.it/dp/B07PBZ8Z94/?tag=tolees00-21) con 47.58 de descuento por 57.61 EUR (original: 109.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087GMS8PH/?tag=tolees00-21'
 descuento: '25.02'
+average: '11.99'
 ---
 
 Ahora mismo tienes [Ambi Pur Car Deodorante Auto Usa e Getta Anti Tabacco Mega Pack 6 x 2 ml](https://www.amazon.it/dp/B087GMS8PH/?tag=tolees00-21) a 11.99 EUR (original: 15.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

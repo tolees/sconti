@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072JYG8J1/?tag=tolees00-21'
 descuento: '32.86'
+average: '46.99'
 ---
 
 Tienes [OMEN by HP Omen 800 Cuffia Gaming con Microfono Regolabile e Retrattile  Rivestita in Pelle  Multipiattaforma  Jack 3 5 mm  Compatibile con PC  PS4 e Xbox 1  Cavo Resistente a Maglia Intrecciata](https://www.amazon.it/dp/B072JYG8J1/?tag=tolees00-21) con un 32.86 % de descuento con precio de oferta de 46.99 EUR (original: 69.99 EUR) en el siguiente enlace!

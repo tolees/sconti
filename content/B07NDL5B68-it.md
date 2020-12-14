@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NDL5B68/?tag=tolees00-21'
 descuento: '65.63'
+average: '37.79'
 ---
 
 Ahora mismo tienes [G-STAR RAW CPO Slim Camicia in Jeans  Multicolore  Medium Aged Restored 138 8399   Uomo](https://www.amazon.it/dp/B07NDL5B68/?tag=tolees00-21) a 37.79 EUR (original: 109.95 EUR) (65.63 %  de descuento) en el siguiente enlace!

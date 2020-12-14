@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0895FDJRR/?tag=tolees00-21'
 descuento: '38.28'
+average: '20.98'
 ---
 
 Está [Automatico Dispenser di Sapone  JUSTDOLIFE Erogatore di Sapone Dispenser di Liquidi Per Sensori  Ipx3 Dispenser Impermeabile  Dispenser di Sapone Elettrico Ideale per Bambini  Adulti  Cucina etc](https://www.amazon.it/dp/B0895FDJRR/?tag=tolees00-21) con 38.28 de descuento por 20.98 EUR (original: 33.99 EUR) en el siguiente enlace!

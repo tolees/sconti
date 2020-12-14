@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21'
 descuento: '51.01'
+average: '50.2'
 ---
 
 Está [Boss Profumo - 100 Ml](https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21) con 51.01 de descuento por 50.2 EUR (original: 102.46 EUR) en el siguiente enlace!

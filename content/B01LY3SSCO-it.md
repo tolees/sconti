@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01LY3SSCO/?tag=tolees00-21'
 descuento: '28.70'
+average: '54.9'
 ---
 
 Está [Foppapedretti Babyroad - Seggiolino Auto  Gruppo 1-2-3  9-36 Kg  per Bambini da 9 Mesi a 12 Anni Circa  Marron Glace](https://www.amazon.it/dp/B01LY3SSCO/?tag=tolees00-21) con 28.70 de descuento por 54.9 EUR (original: 77.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KZ6YYBC/?tag=tolees00-21'
 descuento: '27.52'
+average: '28.99'
 ---
 
 Está [PBN Siero di Latte in Polvere  2.27 Kg  Gusto Cioccolato](https://www.amazon.it/dp/B07KZ6YYBC/?tag=tolees00-21) con 27.52 de descuento por 28.99 EUR (original: 40.0 EUR) en el siguiente enlace!

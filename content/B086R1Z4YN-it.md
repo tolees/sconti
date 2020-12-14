@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086R1Z4YN/?tag=tolees00-21'
 descuento: '27.14'
+average: '472.89'
 ---
 
 Está [Samsung TV UE55TU8070UXZT Smart TV 55" Serie TU8070  Crystal UHD 4K  Wi-Fi  2020  Nero](https://www.amazon.it/dp/B086R1Z4YN/?tag=tolees00-21) con 27.14 de descuento por 472.89 EUR (original: 649.0 EUR) en el siguiente enlace!

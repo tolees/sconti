@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SHYN1FX/?tag=tolees00-21'
 descuento: '30.00'
+average: '28.0'
 ---
 
 Ahora mismo tienes [Levi s Pillsbury  Sneaker Uomo  Bianco  Regular White 51   42 EU](https://www.amazon.it/dp/B07SHYN1FX/?tag=tolees00-21) a 28.0 EUR (original: 40.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

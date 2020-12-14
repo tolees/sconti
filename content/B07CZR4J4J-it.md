@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CZR4J4J/?tag=tolees00-21'
 descuento: '47.42'
+average: '7.86'
 ---
 
 Tienes [NEUTRO ROBERTS Doccia Shampoo Tonificante - 6 Confezioni da 250 ml - Totale: 1500 ml](https://www.amazon.it/dp/B07CZR4J4J/?tag=tolees00-21) con un 47.42 % de descuento con precio de oferta de 7.86 EUR (original: 14.95 EUR) en el siguiente enlace!

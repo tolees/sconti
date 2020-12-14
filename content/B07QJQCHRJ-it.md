@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QJQCHRJ/?tag=tolees00-21'
 descuento: '27.28'
+average: '79.99'
 ---
 
 Está [Samsung MS23K3513AK Forno Microonde Grill Combinato  23 Litri  800 W  Grill 1100 W  Nero](https://www.amazon.it/dp/B07QJQCHRJ/?tag=tolees00-21) con 27.28 de descuento por 79.99 EUR (original: 109.99 EUR) en el siguiente enlace!

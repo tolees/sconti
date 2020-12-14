@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B018UYGJFM/?tag=tolees00-21'
 descuento: '55.29'
+average: '84.5'
 ---
 
 Tienes [Guess Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox W1009L1](https://www.amazon.it/dp/B018UYGJFM/?tag=tolees00-21) con un 55.29 % de descuento con precio de oferta de 84.5 EUR (original: 189.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VLBRBJ9/?tag=tolees00-21'
 descuento: '38.60'
+average: '20.44'
 ---
 
 Está [ARTEZA Penne a Sfera Roller con Inchiostro a Gel Nero  Set di 50 Penne a Gel Retrattili a Scatto ad Asciugatura Rapida per Lavoro  Scrittura  Appunti  Studio  Journaling e Schizzi](https://www.amazon.it/dp/B07VLBRBJ9/?tag=tolees00-21) con 38.60 de descuento por 20.44 EUR (original: 33.29 EUR) en el siguiente enlace!

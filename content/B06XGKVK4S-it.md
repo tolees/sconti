@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XGKVK4S/?tag=tolees00-21'
 descuento: '52.96'
+average: '79.5'
 ---
 
 Está [Guess Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox W0836L2](https://www.amazon.it/dp/B06XGKVK4S/?tag=tolees00-21) con 52.96 de descuento por 79.5 EUR (original: 169.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RN8DJMH/?tag=tolees00-21'
 descuento: '62.12'
+average: '6.56'
 ---
 
 Tienes [Funko- Pop Holiday-Mayor Patty Noble Figura da Collezione  Multicolore  44467](https://www.amazon.it/dp/B07RN8DJMH/?tag=tolees00-21) con un 62.12 % de descuento con precio de oferta de 6.56 EUR (original: 17.32 EUR) en el siguiente enlace!

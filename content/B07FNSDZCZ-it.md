@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FNSDZCZ/?tag=tolees00-21'
 descuento: '26.68'
+average: '21.99'
 ---
 
 Está [LEGO Duplo Movie 2 - I visitatori dal pianeta DUPLO di Emmet e Lucy  10895](https://www.amazon.it/dp/B07FNSDZCZ/?tag=tolees00-21) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

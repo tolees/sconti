@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01M0S9M0Y/?tag=tolees00-21'
 descuento: '32.00'
+average: '101.99'
 ---
 
 Está [Western Digital WD My Book Hard Disk Desktop USB 3.0  Software di Backup Automatico  Protezione con Password  1 Disco  3 TB  Nero](https://www.amazon.it/dp/B01M0S9M0Y/?tag=tolees00-21) con 32.00 de descuento por 101.99 EUR (original: 149.99 EUR) en el siguiente enlace!

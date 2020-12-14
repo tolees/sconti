@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KZ995GN/?tag=tolees00-21'
 descuento: '33.36'
+average: '9.99'
 ---
 
 Tienes [Ravensburger 11145 Dragons 3 Puzzle  Ball  3D](https://www.amazon.it/dp/B07KZ995GN/?tag=tolees00-21) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

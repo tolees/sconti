@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21'
 descuento: '31.68'
+average: '614.2'
 ---
 
 Ahora mismo tienes [Bosch Elettrodomestici WAT28749IT Serie 6  Lavatrice Active Oxygen   9 kg  Centrifuga 1400 Giri  Classe A+++](https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21) a 614.2 EUR (original: 899.0 EUR) (31.68 %  de descuento) en el siguiente enlace!

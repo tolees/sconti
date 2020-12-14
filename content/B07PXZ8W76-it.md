@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PXZ8W76/?tag=tolees00-21'
 descuento: '25.02'
+average: '149.95'
 ---
 
 Está [Garmin Forerunner 45s  Orologio Smart GPS per la Corsa e Altri Sport Unisex  Viola  S](https://www.amazon.it/dp/B07PXZ8W76/?tag=tolees00-21) con 25.02 de descuento por 149.95 EUR (original: 199.99 EUR) en el siguiente enlace!

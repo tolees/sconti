@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CV6XRBD/?tag=tolees00-21'
 descuento: '42.45'
+average: '79.99'
 ---
 
 Está [Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto Formato Quadrato 62 x 62 mm  Oro  Blush Gold ](https://www.amazon.it/dp/B07CV6XRBD/?tag=tolees00-21) con 42.45 de descuento por 79.99 EUR (original: 139.0 EUR) en el siguiente enlace!

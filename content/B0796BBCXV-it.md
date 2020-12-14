@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0796BBCXV/?tag=tolees00-21'
 descuento: '47.02'
+average: '94.84'
 ---
 
 Está [NAPAPIJRI Rainforest M Sum 1 Giacca  Nero  Black 041   Medium Uomo](https://www.amazon.it/dp/B0796BBCXV/?tag=tolees00-21) con 47.02 de descuento por 94.84 EUR (original: 179.0 EUR) en el siguiente enlace!

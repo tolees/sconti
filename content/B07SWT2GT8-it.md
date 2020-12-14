@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SWT2GT8/?tag=tolees00-21'
 descuento: '39.14'
+average: '27.99'
 ---
 
 Ahora mismo tienes [Gillette Fusion ProGlide  12 Lamette di Ricambio per Rasoio](https://www.amazon.it/dp/B07SWT2GT8/?tag=tolees00-21) a 27.99 EUR (original: 45.99 EUR) (39.14 %  de descuento) en el siguiente enlace!

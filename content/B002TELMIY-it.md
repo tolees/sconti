@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B002TELMIY/?tag=tolees00-21'
 descuento: '43.78'
+average: '26.8125'
 ---
 
 Ahora mismo tienes [Calvin Klein CK Free  Eau de Toilette da uomo  50 ml](https://www.amazon.it/dp/B002TELMIY/?tag=tolees00-21) a 29.46 EUR (original: 52.4 EUR) (43.78 %  de descuento) en el siguiente enlace!

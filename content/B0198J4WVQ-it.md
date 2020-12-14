@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0198J4WVQ/?tag=tolees00-21'
 descuento: '34.31'
+average: '22.99'
 ---
 
 Está [Vans Otw Raglan Maglietta  Bianco  White/Black   X-Small Uomo](https://www.amazon.it/dp/B0198J4WVQ/?tag=tolees00-21) con 34.31 de descuento por 22.99 EUR (original: 35.0 EUR) en el siguiente enlace!

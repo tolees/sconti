@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00IAO5OVS/?tag=tolees00-21'
 descuento: '31.86'
+average: '18.48666666666667'
 ---
 
 Ahora mismo tienes [Havaianas Flash Urban  Sandali Donna  Oro  Rose Gold 3581   39/40 EU](https://www.amazon.it/dp/B00IAO5OVS/?tag=tolees00-21) a 14.99 EUR (original: 22.0 EUR) (31.86 %  de descuento) en el siguiente enlace!

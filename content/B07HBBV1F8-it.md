@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HBBV1F8/?tag=tolees00-21'
 descuento: '53.61'
+average: '199.0'
 ---
 
 Está [Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza Filo  Rosa](https://www.amazon.it/dp/B07HBBV1F8/?tag=tolees00-21) con 53.61 de descuento por 199.0 EUR (original: 429.0 EUR) en el siguiente enlace!

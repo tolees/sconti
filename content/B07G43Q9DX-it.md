@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07G43Q9DX/?tag=tolees00-21'
 descuento: '26.84'
+average: '116.33'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Orologio Multi-quadrante Quarzo Uomo con Cinturino in Acciaio Inox 1791505](https://www.amazon.it/dp/B07G43Q9DX/?tag=tolees00-21) a 116.33 EUR (original: 159.0 EUR) (26.84 %  de descuento) en el siguiente enlace!

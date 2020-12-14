@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07LBKVYL2/?tag=tolees00-21'
 descuento: '43.51'
+average: '39.49'
 ---
 
 Tienes [Tommy Hilfiger Medium Drawstring Pantaloncini  Rosso  Red 611   X-Large Uomo](https://www.amazon.it/dp/B07LBKVYL2/?tag=tolees00-21) con un 43.51 % de descuento con precio de oferta de 39.49 EUR (original: 69.9 EUR) en el siguiente enlace!

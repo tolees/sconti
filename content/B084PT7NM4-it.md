@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084PT7NM4/?tag=tolees00-21'
 descuento: '30.72'
+average: '9.0'
 ---
 
 Ahora mismo tienes [Me Contro Te Il Film La Vendetta Del Signor S](https://www.amazon.it/dp/B084PT7NM4/?tag=tolees00-21) a 9.0 EUR (original: 12.99 EUR) (30.72 %  de descuento) en el siguiente enlace!

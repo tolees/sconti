@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YBCK14Y/?tag=tolees00-21'
 descuento: '60.27'
+average: '13.9'
 ---
 
 Tienes [JACK & JONES Jjarchie Knit Crew Neck KA Felpa  Blu  Total Eclipse Pattern: Cloud Dancer   XX-Large Uomo](https://www.amazon.it/dp/B07YBCK14Y/?tag=tolees00-21) con un 60.27 % de descuento con precio de oferta de 13.9 EUR (original: 34.99 EUR) en el siguiente enlace!

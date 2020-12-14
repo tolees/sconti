@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0020MMDHO/?tag=tolees00-21'
 descuento: '47.16'
+average: '36.79'
 ---
 
 Ahora mismo tienes [Dolce&Gabbana The One for Men Eau de Toilette  Uomo  50 ml](https://www.amazon.it/dp/B0020MMDHO/?tag=tolees00-21) a 36.79 EUR (original: 69.62 EUR) (47.16 %  de descuento) en el siguiente enlace!

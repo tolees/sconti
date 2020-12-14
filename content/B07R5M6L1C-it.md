@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07R5M6L1C/?tag=tolees00-21'
 descuento: '30.01'
+average: '27.99'
 ---
 
 Está [Tester di Rete e Cavi Telefonici  Tacklife CT03 Rilevatore di Rete e Cavi Telefonici RJ45/RJ11 Verifica del cablaggio con Cuffie e L avviso con Recettore e Trasmettitore](https://www.amazon.it/dp/B07R5M6L1C/?tag=tolees00-21) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

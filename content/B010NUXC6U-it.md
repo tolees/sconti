@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B010NUXC6U/?tag=tolees00-21'
 descuento: '49.53'
+average: '6.5'
 ---
 
 Está [Max Factor Mascara Volumizzante False Lash Effect  Velvet Volume  Effetto Ciglia Finte  Nero/Black  13 ml](https://www.amazon.it/dp/B010NUXC6U/?tag=tolees00-21) con 49.53 de descuento por 6.5 EUR (original: 12.88 EUR) en el siguiente enlace!

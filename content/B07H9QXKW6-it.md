@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07H9QXKW6/?tag=tolees00-21'
 descuento: '30.93'
+average: '37.99'
 ---
 
 Está [Apple Custodia in pelle  per iPhone XS  -  PRODUCT RED](https://www.amazon.it/dp/B07H9QXKW6/?tag=tolees00-21) con 30.93 de descuento por 37.99 EUR (original: 55.0 EUR) en el siguiente enlace!

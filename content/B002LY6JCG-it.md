@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B002LY6JCG/?tag=tolees00-21'
 descuento: '31.96'
+average: '1.49'
 ---
 
 Ahora mismo tienes [Star GranPesto alla Genovese  senza Aglio - 190 g](https://www.amazon.it/dp/B002LY6JCG/?tag=tolees00-21) a 1.49 EUR (original: 2.19 EUR) (31.96 %  de descuento) en el siguiente enlace!

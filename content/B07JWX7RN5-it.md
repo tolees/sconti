@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JWX7RN5/?tag=tolees00-21'
 descuento: '39.00'
+average: '27.45'
 ---
 
 Está [Lacoste Th3377 T-Shirt  Bianco  Blanc/Noir Au8   Medium  Taglia Produttore: 4  Uomo](https://www.amazon.it/dp/B07JWX7RN5/?tag=tolees00-21) con 39.00 de descuento por 27.45 EUR (original: 45.0 EUR) en el siguiente enlace!

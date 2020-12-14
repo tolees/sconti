@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X4R7WFF/?tag=tolees00-21'
 descuento: '26.48'
+average: '29.490000000000002'
 ---
 
 Tienes [Swiffer Duster Ricariche per Piumino Catturapolvere  63 Pezzi](https://www.amazon.it/dp/B07X4R7WFF/?tag=tolees00-21) con un 26.48 % de descuento con precio de oferta de 24.99 EUR (original: 33.99 EUR) en el siguiente enlace!

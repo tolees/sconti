@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000NIOFWS/?tag=tolees00-21'
 descuento: '30.91'
+average: '14.28'
 ---
 
 Tienes [Paderno 11161-28 Coperchio  in Acciaio Inox  28 cm](https://www.amazon.it/dp/B000NIOFWS/?tag=tolees00-21) con un 30.91 % de descuento con precio de oferta de 14.28 EUR (original: 20.67 EUR) en el siguiente enlace!

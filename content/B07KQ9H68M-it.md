@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KQ9H68M/?tag=tolees00-21'
 descuento: '53.67'
+average: '29.009999999999998'
 ---
 
 Tienes [Tognana Set 3 padelle 20-24-28 cm  Alluminio  anche a Induzione  Nero](https://www.amazon.it/dp/B07KQ9H68M/?tag=tolees00-21) con un 53.67 % de descuento con precio de oferta de 26.34 EUR (original: 56.85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SLD1B8N/?tag=tolees00-21'
 descuento: '28.98'
+average: '4.19'
 ---
 
 Está [Equilibra - Pappa Reale Fresca](https://www.amazon.it/dp/B07SLD1B8N/?tag=tolees00-21) con 28.98 de descuento por 4.19 EUR (original: 5.9 EUR) en el siguiente enlace!

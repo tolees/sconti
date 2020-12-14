@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077NZKNN9/?tag=tolees00-21'
 descuento: '49.98'
+average: '13.5'
 ---
 
 Ahora mismo tienes [Batman Begins  4K+Br ](https://www.amazon.it/dp/B077NZKNN9/?tag=tolees00-21) a 13.5 EUR (original: 26.99 EUR) (49.98 %  de descuento) en el siguiente enlace!

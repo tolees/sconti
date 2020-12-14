@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01GU9QZOO/?tag=tolees00-21'
 descuento: '55.24'
+average: '179.0'
 ---
 
 Está [Xtreme 90450 Sedile Racing con Supporto Cambio  Pedaliera e Volante  Compatibile con Tutte le Console  Playstation 4](https://www.amazon.it/dp/B01GU9QZOO/?tag=tolees00-21) con 55.24 de descuento por 179.0 EUR (original: 399.9 EUR) en el siguiente enlace!

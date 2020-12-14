@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01AZLN686/?tag=tolees00-21'
 descuento: '42.52'
+average: '34.95'
 ---
 
 Tienes [New Balance 500  Scarpe Sportive Uomo  Grigio  Grey/White Gry   43 EU](https://www.amazon.it/dp/B01AZLN686/?tag=tolees00-21) con un 42.52 % de descuento con precio de oferta de 34.95 EUR (original: 60.8 EUR) en el siguiente enlace!

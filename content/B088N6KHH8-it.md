@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B088N6KHH8/?tag=tolees00-21'
 descuento: '43.15'
+average: '169.99'
 ---
 
 Tienes [Oral-B iO - 8n Spazzolino Elettrico Ricaricabile  1 Spazzolino Nero con Tecnologia Magnetica  Display A Colori  1 Testina  1 Custodia Da Viaggio Premium](https://www.amazon.it/dp/B088N6KHH8/?tag=tolees00-21) con un 43.15 % de descuento con precio de oferta de 169.99 EUR (original: 299.0 EUR) en el siguiente enlace!

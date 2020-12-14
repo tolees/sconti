@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B082LHQXJK/?tag=tolees00-21'
 descuento: '55.05'
+average: '44.95'
 ---
 
 Está [ASICS Gel-Quantum 90 2  Scarpe da Corsa Uomo  Bianco  White/Piedmont Grey   47 EU](https://www.amazon.it/dp/B082LHQXJK/?tag=tolees00-21) con 55.05 de descuento por 44.95 EUR (original: 100.0 EUR) en el siguiente enlace!

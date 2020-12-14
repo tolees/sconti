@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000NM0MR6/?tag=tolees00-21'
 descuento: '69.37'
+average: '29.99'
 ---
 
 Tienes [Casio Orologio Analogico al Quarzo Donna con Cinturino in Acciaio Inox LTP-2069D-2AVEF](https://www.amazon.it/dp/B000NM0MR6/?tag=tolees00-21) con un 69.37 % de descuento con precio de oferta de 29.99 EUR (original: 97.9 EUR) en el siguiente enlace!

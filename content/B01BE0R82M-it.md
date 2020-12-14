@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BE0R82M/?tag=tolees00-21'
 descuento: '40.99'
+average: '89.25'
 ---
 
 Ahora mismo tienes [Bosch Professional 0.601.9F2.000 Smerigliatrice Angolare GWS 12V-76 12V System  3 Mole da Taglio  Diametro: 76 mm  Batterie e Caricabatteria Non Inclusi](https://www.amazon.it/dp/B01BE0R82M/?tag=tolees00-21) a 89.25 EUR (original: 151.25 EUR) (40.99 %  de descuento) en el siguiente enlace!

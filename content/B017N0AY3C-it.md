@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B017N0AY3C/?tag=tolees00-21'
 descuento: '50.02'
+average: '13.99'
 ---
 
 Ahora mismo tienes [100 Cialde Capsule caffè ROSSOMOKA Espresso compatibili NESPRESSO gusto INTENSO](https://www.amazon.it/dp/B017N0AY3C/?tag=tolees00-21) a 13.99 EUR (original: 27.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

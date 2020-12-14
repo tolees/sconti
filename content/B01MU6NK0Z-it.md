@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MU6NK0Z/?tag=tolees00-21'
 descuento: '34.86'
+average: '25.99'
 ---
 
 Está [Tommy Hilfiger New Denton 3.5 Belt Cintura  Marrone  Dark Tan 257   100 Uomo](https://www.amazon.it/dp/B01MU6NK0Z/?tag=tolees00-21) con 34.86 de descuento por 25.99 EUR (original: 39.9 EUR) en el siguiente enlace!

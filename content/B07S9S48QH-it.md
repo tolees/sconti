@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S9S48QH/?tag=tolees00-21'
 descuento: '38.52'
+average: '36.86'
 ---
 
 Está [PUMA Vikky Stacked L  Sneakers Donna  Grigio  Silver Cloud-Rosewater   40.5 EU](https://www.amazon.it/dp/B07S9S48QH/?tag=tolees00-21) con 38.52 de descuento por 36.86 EUR (original: 59.95 EUR) en el siguiente enlace!

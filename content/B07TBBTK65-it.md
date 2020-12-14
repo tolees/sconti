@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TBBTK65/?tag=tolees00-21'
 descuento: '33.37'
+average: '19.99'
 ---
 
 Tienes [Havaianas Slim Tropical  Infradito Donna  Multicolore  Beige 7907   37/38 EU](https://www.amazon.it/dp/B07TBBTK65/?tag=tolees00-21) con un 33.37 % de descuento con precio de oferta de 19.99 EUR (original: 30.0 EUR) en el siguiente enlace!

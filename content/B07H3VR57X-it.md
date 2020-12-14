@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07H3VR57X/?tag=tolees00-21'
 descuento: '35.00'
+average: '90.97'
 ---
 
 Está [homcom Moto da Cross Elettrica con Rotelle Bambini 107 × 53 × 70cm Verde](https://www.amazon.it/dp/B07H3VR57X/?tag=tolees00-21) con 35.00 de descuento por 90.97 EUR (original: 139.95 EUR) en el siguiente enlace!

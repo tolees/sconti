@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0741D7LRD/?tag=tolees00-21'
 descuento: '44.45'
+average: '99.99'
 ---
 
 Está [Princess Friggitrice ad Aria Calda Family XXL 182050  1700 watt  5.2 litri  7 impostazioni di cottura  Teglia per torte inclusa  Nero](https://www.amazon.it/dp/B0741D7LRD/?tag=tolees00-21) con 44.45 de descuento por 99.99 EUR (original: 179.99 EUR) en el siguiente enlace!

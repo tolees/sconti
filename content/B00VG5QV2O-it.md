@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00VG5QV2O/?tag=tolees00-21'
 descuento: '47.15'
+average: '8.45'
 ---
 
 Está [Tè bianco imperiale dell’Himalaya in foglie – Il tè più sano al mondo  ricco di POTENTI ANTIOSSIDANTI  raccolto fresco a mano nel da piantagioni di alta quota  floreale e invitante  25 Tazze](https://www.amazon.it/dp/B00VG5QV2O/?tag=tolees00-21) con 47.15 de descuento por 8.45 EUR (original: 15.99 EUR) en el siguiente enlace!

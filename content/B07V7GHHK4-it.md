@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V7GHHK4/?tag=tolees00-21'
 descuento: '55.93'
+average: '15.38'
 ---
 
 Tienes [Calvin Klein Monogram Modern Straight Crop T-Shirt  Grigio  Light Grey Heather P   44  Taglia Produttore: Large  Donna](https://www.amazon.it/dp/B07V7GHHK4/?tag=tolees00-21) con un 55.93 % de descuento con precio de oferta de 15.38 EUR (original: 34.9 EUR) en el siguiente enlace!

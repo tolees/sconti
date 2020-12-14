@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0788BMRYS/?tag=tolees00-21'
 descuento: '47.49'
+average: '20.95'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger RN Tee SS Maglietta  Bianco  White 100   X-Large Uomo](https://www.amazon.it/dp/B0788BMRYS/?tag=tolees00-21) a 20.95 EUR (original: 39.9 EUR) (47.49 %  de descuento) en el siguiente enlace!

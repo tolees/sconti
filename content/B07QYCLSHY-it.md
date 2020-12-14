@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QYCLSHY/?tag=tolees00-21'
 descuento: '50.25'
+average: '0.99'
 ---
 
 Está [NESQUIK ALL NATURAL Cacao Solubile per Latte  168 g](https://www.amazon.it/dp/B07QYCLSHY/?tag=tolees00-21) con 50.25 de descuento por 0.99 EUR (original: 1.99 EUR) en el siguiente enlace!

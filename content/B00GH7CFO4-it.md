@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00GH7CFO4/?tag=tolees00-21'
 descuento: '30.11'
+average: '24.74'
 ---
 
 Ahora mismo tienes [Kleenex 8826 Scatole di fazzoletti ovali  10 scatole da 64 fogli  3 veli  Morbidi e resistenti  Inodore  Collection  Bianco](https://www.amazon.it/dp/B00GH7CFO4/?tag=tolees00-21) a 24.74 EUR (original: 35.4 EUR) (30.11 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RXWGTM4/?tag=tolees00-21'
 descuento: '31.96'
+average: '20.48'
 ---
 
 Ahora mismo tienes [Diesel Discover-me Oderzo  Borsa a Tracolla Uomo  Blu  Blue Nights   1 x 22 x 18 cm  W x H x L ](https://www.amazon.it/dp/B07RXWGTM4/?tag=tolees00-21) a 20.48 EUR (original: 30.1 EUR) (31.96 %  de descuento) en el siguiente enlace!

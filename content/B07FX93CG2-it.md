@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FX93CG2/?tag=tolees00-21'
 descuento: '27.83'
+average: '14.42'
 ---
 
 Tienes [Set Manicure e Pedicure Elettrico TOUCHBeauty Kit di lime per unghie per Pedicure Potente Fresa per Unghie con 5 Accessori  Professionale Sistema di Lucidatura per Unghie con luce UV AG-1335C](https://www.amazon.it/dp/B07FX93CG2/?tag=tolees00-21) con un 27.83 % de descuento con precio de oferta de 14.42 EUR (original: 19.98 EUR) en el siguiente enlace!

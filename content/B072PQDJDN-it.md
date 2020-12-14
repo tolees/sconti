@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072PQDJDN/?tag=tolees00-21'
 descuento: '32.52'
+average: '13.49'
 ---
 
 Tienes [PUMA Active Brief 2p Packed Intimo Sportivo  Grigio  Grey Yellow   X-Large  Pacco da 2  Uomo](https://www.amazon.it/dp/B072PQDJDN/?tag=tolees00-21) con un 32.52 % de descuento con precio de oferta de 13.49 EUR (original: 19.99 EUR) en el siguiente enlace!

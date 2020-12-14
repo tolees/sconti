@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CBB4RLK/?tag=tolees00-21'
 descuento: '28.99'
+average: '4.9'
 ---
 
 Tienes [Tau-Marin Spazzolino Professional 27 Medio Edizione Limitata by Alessandro Enriquez  Giallo ](https://www.amazon.it/dp/B08CBB4RLK/?tag=tolees00-21) con un 28.99 % de descuento con precio de oferta de 4.9 EUR (original: 6.9 EUR) en el siguiente enlace!

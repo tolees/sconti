@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NQRYDCP/?tag=tolees00-21'
 descuento: '27.84'
+average: '75.47899999999998'
 ---
 
 Está [SYLVANIAN FAMILIES - Casa Grande con Luci  Sistema di Gioco  Pacchetto Standard  Multicolore  5302 ](https://www.amazon.it/dp/B07NQRYDCP/?tag=tolees00-21) con 27.84 de descuento por 64.94 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000NORUJW/?tag=tolees00-21'
 descuento: '27.46'
+average: '10.12'
 ---
 
 Tienes [Kryptonite KryptoFlex  Catena antifurto  Arancione  10 mm/120 cm](https://www.amazon.it/dp/B000NORUJW/?tag=tolees00-21) con un 27.46 % de descuento con precio de oferta de 10.12 EUR (original: 13.95 EUR) en el siguiente enlace!

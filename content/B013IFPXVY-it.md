@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B013IFPXVY/?tag=tolees00-21'
 descuento: '49.52'
+average: '30.29'
 ---
 
 Está [Level Trend Suburban Line  Guanto Uomo  Nero  10](https://www.amazon.it/dp/B013IFPXVY/?tag=tolees00-21) con 49.52 de descuento por 30.29 EUR (original: 60.0 EUR) en el siguiente enlace!

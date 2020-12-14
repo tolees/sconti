@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00HHRKOTG/?tag=tolees00-21'
 descuento: '34.97'
+average: '32.45'
 ---
 
 Tienes [Les Tropéziennes  Monaco  Sandali da Donna  Marrone  tan/or   38 EU](https://www.amazon.it/dp/B00HHRKOTG/?tag=tolees00-21) con un 34.97 % de descuento con precio de oferta de 32.45 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21'
 descuento: '66.66'
+average: '10.0'
 ---
 
 Tienes [Harry Potter 7 Pt.2  4K + Br ](https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21) con un 66.66 % de descuento con precio de oferta de 10.0 EUR (original: 29.99 EUR) en el siguiente enlace!

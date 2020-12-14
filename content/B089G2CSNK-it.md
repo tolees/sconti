@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B089G2CSNK/?tag=tolees00-21'
 descuento: '26.93'
+average: '18.99'
 ---
 
 Está [Custodia per Nintendo Switch - Protettivo Trasporto Case Rigido Originale per Console Joy-con 10 Cartucce e Accessori da Viaggio  Ultra Leggero Portatile Carry Case di PU Impermeabile  Diavolo Viola](https://www.amazon.it/dp/B089G2CSNK/?tag=tolees00-21) con 26.93 de descuento por 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!

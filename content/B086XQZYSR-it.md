@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086XQZYSR/?tag=tolees00-21'
 descuento: '30.08'
+average: '2.79'
 ---
 
 Ahora mismo tienes [Kellogg s Choco Krave  Cioccolato al Latte - 410 g](https://www.amazon.it/dp/B086XQZYSR/?tag=tolees00-21) a 2.79 EUR (original: 3.99 EUR) (30.08 %  de descuento) en el siguiente enlace!

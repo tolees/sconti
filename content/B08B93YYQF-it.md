@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08B93YYQF/?tag=tolees00-21'
 descuento: '25.94'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Dash Pods Allin1 Detersivo Lavatrice in Capsule Ambra  Maxi Formato da 48 x 2 Pezzi  96 Lavaggi](https://www.amazon.it/dp/B08B93YYQF/?tag=tolees00-21) a 19.99 EUR (original: 26.99 EUR) (25.94 %  de descuento) en el siguiente enlace!

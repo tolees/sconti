@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CRH6YPF/?tag=tolees00-21'
 descuento: '30.78'
+average: '17.99'
 ---
 
 Ahora mismo tienes [TUTUO Protezione Cover per Switch  Silicone PU Portatile Sottile Custodia Viaggio e 10 Cartucce di Gioco Giochi e Console Accessori  per Switch/Switch Lite](https://www.amazon.it/dp/B08CRH6YPF/?tag=tolees00-21) a 17.99 EUR (original: 25.99 EUR) (30.78 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07STV2Q4N/?tag=tolees00-21'
 descuento: '81.42'
+average: '20.42'
 ---
 
 Está [Geox D Genova Moc A  Mocassini Donna  Blu  Navy C4002   40 EU](https://www.amazon.it/dp/B07STV2Q4N/?tag=tolees00-21) con 81.42 de descuento por 20.42 EUR (original: 109.9 EUR) en el siguiente enlace!

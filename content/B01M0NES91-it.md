@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01M0NES91/?tag=tolees00-21'
 descuento: '54.01'
+average: '17.3'
 ---
 
 Ahora mismo tienes [Parker 1931664 IM Penna Roller  Punta Fine e Ricarica di Inchiostro Nero  Dark Espresso Chrome Trim](https://www.amazon.it/dp/B01M0NES91/?tag=tolees00-21) a 17.3 EUR (original: 37.62 EUR) (54.01 %  de descuento) en el siguiente enlace!

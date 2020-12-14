@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072QY1C1S/?tag=tolees00-21'
 descuento: '67.49'
+average: '64.7'
 ---
 
 Ahora mismo tienes [Fossil Orologio Da Polso Donna Ftw1202](https://www.amazon.it/dp/B072QY1C1S/?tag=tolees00-21) a 64.7 EUR (original: 199.0 EUR) (67.49 %  de descuento) en el siguiente enlace!

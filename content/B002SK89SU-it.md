@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B002SK89SU/?tag=tolees00-21'
 descuento: '25.73'
+average: '22.2'
 ---
 
 Está [Tovagliette all Americana Parisian Scenes di Pimpernel - Set di 4  Grandi ](https://www.amazon.it/dp/B002SK89SU/?tag=tolees00-21) con 25.73 de descuento por 22.2 EUR (original: 29.89 EUR) en el siguiente enlace!

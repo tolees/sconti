@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ZY5YWNC/?tag=tolees00-21'
 descuento: '27.32'
+average: '3.99'
 ---
 
 Ahora mismo tienes [RoC Doposole 200 ml](https://www.amazon.it/dp/B00ZY5YWNC/?tag=tolees00-21) a 3.99 EUR (original: 5.49 EUR) (27.32 %  de descuento) en el siguiente enlace!

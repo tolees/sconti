@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B008PB3D3M/?tag=tolees00-21'
 descuento: '39.37'
+average: '28.49'
 ---
 
 Ahora mismo tienes [Philips HR2100/00 Frullatore con ProBlend 4 - Daily Collection - Plastica](https://www.amazon.it/dp/B008PB3D3M/?tag=tolees00-21) a 28.49 EUR (original: 46.99 EUR) (39.37 %  de descuento) en el siguiente enlace!

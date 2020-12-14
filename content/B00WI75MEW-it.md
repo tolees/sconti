@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00WI75MEW/?tag=tolees00-21'
 descuento: '29.35'
+average: '9.05'
 ---
 
 Tienes [ArtWay - Piegatore in Osso Vero - per Piegare con precisione Carta e cartoncino - 6” Pezzo Singolo](https://www.amazon.it/dp/B00WI75MEW/?tag=tolees00-21) con un 29.35 % de descuento con precio de oferta de 9.05 EUR (original: 12.81 EUR) en el siguiente enlace!

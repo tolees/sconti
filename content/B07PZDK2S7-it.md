@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PZDK2S7/?tag=tolees00-21'
 descuento: '28.80'
+average: '0.89'
 ---
 
 Está [Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai Cereali - tubo 225g](https://www.amazon.it/dp/B07PZDK2S7/?tag=tolees00-21) con 28.80 de descuento por 0.89 EUR (original: 1.25 EUR) en el siguiente enlace!

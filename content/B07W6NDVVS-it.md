@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W6NDVVS/?tag=tolees00-21'
 descuento: '45.22'
+average: '54.0'
 ---
 
 Está [Tommy Hilfiger Uomo Bleecker Th Flex Satin Chino Gmd Loose Fit Jeans  Blu  Faded Indigo   W34/L30](https://www.amazon.it/dp/B07W6NDVVS/?tag=tolees00-21) con 45.22 de descuento por 54.0 EUR (original: 98.57 EUR) en el siguiente enlace!

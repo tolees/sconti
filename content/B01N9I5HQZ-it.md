@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N9I5HQZ/?tag=tolees00-21'
 descuento: '46.72'
+average: '108.26333333333334'
 ---
 
 Tienes [Linksys WHW0301 Velop Sistema WiFi Mesh Tri-Band per Casa  Router AC2200/Range Extender  Copre Fino a 175 mq  Tri-Band  1 Terminale Fino a 2.2 Gbps  Bianco](https://www.amazon.it/dp/B01N9I5HQZ/?tag=tolees00-21) con un 46.72 % de descuento con precio de oferta de 95.9 EUR (original: 179.99 EUR) en el siguiente enlace!

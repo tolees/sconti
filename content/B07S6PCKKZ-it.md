@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S6PCKKZ/?tag=tolees00-21'
 descuento: '37.96'
+average: '30.99'
 ---
 
 Está [PUMA Smash V2 L  Sneakers Unisex-Adulto  Weiß White High Risk Red Team Gold  46 EU](https://www.amazon.it/dp/B07S6PCKKZ/?tag=tolees00-21) con 37.96 de descuento por 30.99 EUR (original: 49.95 EUR) en el siguiente enlace!

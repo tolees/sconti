@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21'
 descuento: '33.38'
+average: '159.9'
 ---
 
 Ahora mismo tienes [Diadora Fitness Forty Tapis Roulant Magnetico](https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21) a 159.9 EUR (original: 240.0 EUR) (33.38 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00WR4JDKK/?tag=tolees00-21'
 descuento: '63.33'
+average: '1.83'
 ---
 
 Está [Garnier Ambre Solaire Crema Protezione Solare UV Sport  Ottima per lo Sport  Resiste al Sudore  non Cola sugli Occhi  IP30  50 ml  Confezione da 1](https://www.amazon.it/dp/B00WR4JDKK/?tag=tolees00-21) con 63.33 de descuento por 1.83 EUR (original: 4.99 EUR) en el siguiente enlace!

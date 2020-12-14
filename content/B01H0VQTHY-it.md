@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01H0VQTHY/?tag=tolees00-21'
 descuento: '34.14'
+average: '328.66'
 ---
 
 Está [Candy CS 1292D3-01 Lavatrice  9 kg  1200 rpm  Bianco](https://www.amazon.it/dp/B01H0VQTHY/?tag=tolees00-21) con 34.14 de descuento por 328.66 EUR (original: 499.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DHXVW5K/?tag=tolees00-21'
 descuento: '66.01'
+average: '33.99'
 ---
 
 Está [PENG Auricolare Bluetooth  Cuffie Senza Fili  Cuffie Wireless Stereo 3D with IPX5 Impermeabile  Accoppiamento Automatico per Chiamate Binaurali  Adatto Compatibile con iPhone/Samsung/AirPods/Android](https://www.amazon.it/dp/B08DHXVW5K/?tag=tolees00-21) con 66.01 de descuento por 33.99 EUR (original: 99.99 EUR) en el siguiente enlace!

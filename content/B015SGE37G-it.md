@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B015SGE37G/?tag=tolees00-21'
 descuento: '70.00'
+average: '7.2'
 ---
 
 Está [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Verde  Amazonia   39/40 EU](https://www.amazon.it/dp/B015SGE37G/?tag=tolees00-21) con 70.00 de descuento por 7.2 EUR (original: 24.0 EUR) en el siguiente enlace!

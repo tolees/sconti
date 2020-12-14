@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01J1LQSNG/?tag=tolees00-21'
 descuento: '63.53'
+average: '12.0'
 ---
 
 Ahora mismo tienes [Crocs Crocband Kids  Sandali con Cinturino alla Caviglia Unisex-Bambini  Volt Green/Smoke  20/21 EU](https://www.amazon.it/dp/B01J1LQSNG/?tag=tolees00-21) a 12.0 EUR (original: 32.9 EUR) (63.53 %  de descuento) en el siguiente enlace!

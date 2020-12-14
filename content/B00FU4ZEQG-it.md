@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00FU4ZEQG/?tag=tolees00-21'
 descuento: '30.03'
+average: '6.99'
 ---
 
 Está [Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Nero  43/46 - Confezione da 2](https://www.amazon.it/dp/B00FU4ZEQG/?tag=tolees00-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CL2ZQ9R/?tag=tolees00-21'
 descuento: '30.94'
+average: '55.24'
 ---
 
 Está [Smartphone 4G Android 10  Ulefone Note 8P Telefonia Mobile Cellulari 16GB ROM 2GB RAM  5 5" FW+ Schermo Waterdrop  Fotocamera 8MP+2MP+5MP  Dual SIM e Face ID  GPS-Nero](https://www.amazon.it/dp/B08CL2ZQ9R/?tag=tolees00-21) con 30.94 de descuento por 55.24 EUR (original: 79.99 EUR) en el siguiente enlace!

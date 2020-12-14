@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GSD13P4/?tag=tolees00-21'
 descuento: '49.01'
+average: '33.9'
 ---
 
 Tienes [Einhell 4513914 Trapano Avvitatore a Batteria](https://www.amazon.it/dp/B07GSD13P4/?tag=tolees00-21) con un 49.01 % de descuento con precio de oferta de 33.9 EUR (original: 66.49 EUR) en el siguiente enlace!

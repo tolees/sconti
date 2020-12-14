@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F2YPWKJ/?tag=tolees00-21'
 descuento: '54.98'
+average: '26.99'
 ---
 
 Tienes [PUMA Cilia  Scarpe da Ginnastica Donna  Bianca  White-Gray Violet-Silver   38 EU](https://www.amazon.it/dp/B07F2YPWKJ/?tag=tolees00-21) con un 54.98 % de descuento con precio de oferta de 26.99 EUR (original: 59.95 EUR) en el siguiente enlace!

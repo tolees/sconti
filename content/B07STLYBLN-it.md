@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07STLYBLN/?tag=tolees00-21'
 descuento: '73.15'
+average: '37.56'
 ---
 
 Está [Geox D NYDAME D  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   40 EU](https://www.amazon.it/dp/B07STLYBLN/?tag=tolees00-21) con 73.15 de descuento por 37.56 EUR (original: 139.9 EUR) en el siguiente enlace!

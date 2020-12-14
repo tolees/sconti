@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003D8ZT0C/?tag=tolees00-21'
 descuento: '40.04'
+average: '5.99'
 ---
 
 Ahora mismo tienes [Logitech M90 Mouse USB Cablato  1000 DPI  Mouse Ambidestro  Compatibile con PC/Mac/Laptop  Nero](https://www.amazon.it/dp/B003D8ZT0C/?tag=tolees00-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!

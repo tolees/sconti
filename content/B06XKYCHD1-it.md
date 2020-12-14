@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XKYCHD1/?tag=tolees00-21'
 descuento: '43.67'
+average: '48.44'
 ---
 
 Está [QUEEN ROSE Cuscino per la Gravidanza - Cuscino per Allattamento a Forma di U per Donne in Gravidanza - con Fodera in Peluche con Cuscino per Il Corpo  140 x 78 cm  Grigio ](https://www.amazon.it/dp/B06XKYCHD1/?tag=tolees00-21) con 43.67 de descuento por 48.44 EUR (original: 86.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TXXBSYK/?tag=tolees00-21'
 descuento: '68.87'
+average: '37.34'
 ---
 
 Está [Wrangler Bomber Jacket  Beige  Sand 58N   Small Uomo](https://www.amazon.it/dp/B07TXXBSYK/?tag=tolees00-21) con 68.87 de descuento por 37.34 EUR (original: 119.95 EUR) en el siguiente enlace!

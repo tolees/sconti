@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00VIFVA6Y/?tag=tolees00-21'
 descuento: '44.19'
+average: '9.99'
 ---
 
 Tienes [Tescoma 630496 Beccucci Decoratori per Sac a Poche  21 Pezzi "Delicia"](https://www.amazon.it/dp/B00VIFVA6Y/?tag=tolees00-21) con un 44.19 % de descuento con precio de oferta de 9.99 EUR (original: 17.9 EUR) en el siguiente enlace!

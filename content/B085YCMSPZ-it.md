@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085YCMSPZ/?tag=tolees00-21'
 descuento: '54.99'
+average: '17.98'
 ---
 
 Está [YAMAMAY® Cardigan Aperto Donna Loves LA](https://www.amazon.it/dp/B085YCMSPZ/?tag=tolees00-21) con 54.99 de descuento por 17.98 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XC9JB21/?tag=tolees00-21'
 descuento: '37.15'
+average: '43.970000000000006'
 ---
 
 Está [One Piece: Pirate Warriors 4 - PlayStation 4](https://www.amazon.it/dp/B07XC9JB21/?tag=tolees00-21) con 37.15 de descuento por 43.99 EUR (original: 69.99 EUR) en el siguiente enlace!

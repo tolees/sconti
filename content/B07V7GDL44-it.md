@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V7GDL44/?tag=tolees00-21'
 descuento: '51.99'
+average: '18.67'
 ---
 
 Está [Calvin Klein Ckj Uniform Workman Belt 35mm Cintura  Marrone  Bitter Brown BAP   3  Taglia Produttore: 85  Uomo](https://www.amazon.it/dp/B07V7GDL44/?tag=tolees00-21) con 51.99 de descuento por 18.67 EUR (original: 38.89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DQR6B9S/?tag=tolees00-21'
 descuento: '36.68'
+average: '18.99'
 ---
 
 Ahora mismo tienes [eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY Ricambio per Nintendo Switch Joy-Con Controller Sfumato Celeste Rosa  con Pulsanti ABXY Tasti Direzionali-Joycon NON Incluso](https://www.amazon.it/dp/B08DQR6B9S/?tag=tolees00-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

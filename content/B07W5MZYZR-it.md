@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W5MZYZR/?tag=tolees00-21'
 descuento: '60.01'
+average: '30.66'
 ---
 
 Tienes [Tommy Hilfiger Tommy Tipped Slim Polo  Blu  Sail Blue   Small  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07W5MZYZR/?tag=tolees00-21) con un 60.01 % de descuento con precio de oferta de 30.66 EUR (original: 76.66 EUR) en el siguiente enlace!

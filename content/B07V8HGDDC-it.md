@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V8HGDDC/?tag=tolees00-21'
 descuento: '67.24'
+average: '19.64'
 ---
 
 Tienes [Boss Tee 4 T-Shirt  Blu  Navy 410   Medium Uomo](https://www.amazon.it/dp/B07V8HGDDC/?tag=tolees00-21) con un 67.24 % de descuento con precio de oferta de 19.64 EUR (original: 59.95 EUR) en el siguiente enlace!

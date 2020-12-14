@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00SWCLM6Y/?tag=tolees00-21'
 descuento: '70.07'
+average: '29.9'
 ---
 
 Tienes [Hoover SM156WD4 Aspirabriciole da cucina senza sacco  15.6 W  0.2 Liters  65 Decibel  Plastica  Blu](https://www.amazon.it/dp/B00SWCLM6Y/?tag=tolees00-21) con un 70.07 % de descuento con precio de oferta de 29.9 EUR (original: 99.9 EUR) en el siguiente enlace!

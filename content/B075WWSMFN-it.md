@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B075WWSMFN/?tag=tolees00-21'
 descuento: '50.01'
+average: '49.99'
 ---
 
 Tienes [Kodak PRINTOMATIC Fotocamera istantanea  Grigio  Foto a colori su carta fotografica Zink Zero Ink 2x3 con retro autoadesivo.](https://www.amazon.it/dp/B075WWSMFN/?tag=tolees00-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01M9B17PY/?tag=tolees00-21'
 descuento: '51.27'
+average: '9.99'
 ---
 
 Tienes [Lagostina Ingenio Induction Coperchio in Vetro  24 cm  Nero/Trasparente](https://www.amazon.it/dp/B01M9B17PY/?tag=tolees00-21) con un 51.27 % de descuento con precio de oferta de 9.99 EUR (original: 20.5 EUR) en el siguiente enlace!

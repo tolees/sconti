@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0761YRHXY/?tag=tolees00-21'
 descuento: '40.56'
+average: '12.594999999999999'
 ---
 
 Ahora mismo tienes [Lavazza Caffè Macinato - Pacco da 6 x 250 g](https://www.amazon.it/dp/B0761YRHXY/?tag=tolees00-21) a 9.92 EUR (original: 16.69 EUR) (40.56 %  de descuento) en el siguiente enlace!

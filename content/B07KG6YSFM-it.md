@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KG6YSFM/?tag=tolees00-21'
 descuento: '31.27'
+average: '49.800000000000004'
 ---
 
 Está [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Bianca Wht-Peacoat Wht  41 EU](https://www.amazon.it/dp/B07KG6YSFM/?tag=tolees00-21) con 31.27 de descuento por 54.95 EUR (original: 79.95 EUR) en el siguiente enlace!

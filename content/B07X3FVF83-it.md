@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07X3FVF83/?tag=tolees00-21'
 descuento: '50.00'
+average: '59.99'
 ---
 
 Tienes [Aspirapolvere Senza Fili 9500pa Scopa Elettrica  ciclonica Aspirapolvere Ricaricabile  autonomia fino a 35 minuti  2 spazzole per Casa Peli Animali Auto](https://www.amazon.it/dp/B07X3FVF83/?tag=tolees00-21) con un 50.00 % de descuento con precio de oferta de 59.99 EUR (original: 119.99 EUR) en el siguiente enlace!

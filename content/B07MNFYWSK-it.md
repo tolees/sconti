@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MNFYWSK/?tag=tolees00-21'
 descuento: '25.02'
+average: '11.99'
 ---
 
 Está [Gebildet 3 pezzi Interruttore a Levetta con Luce a LED Rosso  20A 12VDC  SPST ON-OFF 2 Posizioni 3 Terminali Rocker Toggle Switch  Usato per Auto Camion Barca](https://www.amazon.it/dp/B07MNFYWSK/?tag=tolees00-21) con 25.02 de descuento por 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BLH53TV/?tag=tolees00-21'
 descuento: '43.85'
+average: '72.99'
 ---
 
 Está [Smartphone Offerta del Giorno  Cellulari Offerte 4G Smartphone 6.2 Pollici 3 GB RAM 32 GB ROM - Dual SIM](https://www.amazon.it/dp/B08BLH53TV/?tag=tolees00-21) con 43.85 de descuento por 72.99 EUR (original: 129.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RWWXB7T/?tag=tolees00-21'
 descuento: '52.64'
+average: '35.99'
 ---
 
 Ahora mismo tienes [Telecamera IP di sicurezza da interni Imou per sorveglianza domestica avanzata  dotata di risoluzione 1080P  rilevamento antintrusione  rilevamento di suoni anomali  audio bidirezionale](https://www.amazon.it/dp/B07RWWXB7T/?tag=tolees00-21) a 35.99 EUR (original: 75.99 EUR) (52.64 %  de descuento) en el siguiente enlace!

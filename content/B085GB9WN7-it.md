@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085GB9WN7/?tag=tolees00-21'
 descuento: '25.01'
+average: '14.99'
 ---
 
 Ahora mismo tienes [Aigostar Lampada Solare Giardino Esterno LED Luci Solari Giardino Lampade da Esterno per Prato LED Lampade Solari Terra IP44 Impermeabile Solari Luce Calda 3000K Paesaggio Strade Pacco da 2](https://www.amazon.it/dp/B085GB9WN7/?tag=tolees00-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

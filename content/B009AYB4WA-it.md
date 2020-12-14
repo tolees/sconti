@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B009AYB4WA/?tag=tolees00-21'
 descuento: '42.17'
+average: '57.75499999999999'
 ---
 
 Está [Enerzona Enervit  Integratore Alimentare per il Controllo del Colesterolo e Trigliceridi  Omega 3 RX - 240 Capsule](https://www.amazon.it/dp/B009AYB4WA/?tag=tolees00-21) con 42.17 de descuento por 57.77 EUR (original: 99.9 EUR) en el siguiente enlace!

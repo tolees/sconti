@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XFS4LR7/?tag=tolees00-21'
 descuento: '43.10'
+average: '0.99'
 ---
 
 Ahora mismo tienes [Mulino Bianco Grissini Rustici Classici Pangrì  Snack Salato per la Merenda- 250 g](https://www.amazon.it/dp/B06XFS4LR7/?tag=tolees00-21) a 0.99 EUR (original: 1.74 EUR) (43.10 %  de descuento) en el siguiente enlace!

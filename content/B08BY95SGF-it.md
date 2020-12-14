@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BY95SGF/?tag=tolees00-21'
 descuento: '43.74'
+average: '8.99'
 ---
 
 Está [LYITP Cavo per Hard Drive SATA da USB 3.0 a SSD/2 5 Pollici [Ottimizzato per SSD  Supporto UASP SATA III]  EC-SSHD ](https://www.amazon.it/dp/B08BY95SGF/?tag=tolees00-21) con 43.74 de descuento por 8.99 EUR (original: 15.98 EUR) en el siguiente enlace!

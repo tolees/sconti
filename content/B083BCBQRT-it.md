@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083BCBQRT/?tag=tolees00-21'
 descuento: '56.61'
+average: '9.97'
 ---
 
 Ahora mismo tienes [Grsta Bottiglia per Acqua in Acciaio Inox  Borraccia Termica 350ml/Cielo Blu  Borracce Isolante Sottovuoto per 24 Ore Freddo e 12 Ore Caldo  Portatile per Bambini  Scuola  Palestra  Sport e Lavoro](https://www.amazon.it/dp/B083BCBQRT/?tag=tolees00-21) a 9.97 EUR (original: 22.98 EUR) (56.61 %  de descuento) en el siguiente enlace!

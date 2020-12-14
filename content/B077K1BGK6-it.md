@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077K1BGK6/?tag=tolees00-21'
 descuento: '52.20'
+average: '12.9'
 ---
 
 Tienes [Justice League  4K+Br ](https://www.amazon.it/dp/B077K1BGK6/?tag=tolees00-21) con un 52.20 % de descuento con precio de oferta de 12.9 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B015OK3DQS/?tag=tolees00-21'
 descuento: '44.09'
+average: '13.95'
 ---
 
 Tienes [PUMA Leadcat  Scarpe da Spiaggia e Piscina Unisex-Adulto  Nero  Black-White   46 EU](https://www.amazon.it/dp/B015OK3DQS/?tag=tolees00-21) con un 44.09 % de descuento con precio de oferta de 13.95 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06X1D31QX/?tag=tolees00-21'
 descuento: '38.64'
+average: '27.55'
 ---
 
 Ahora mismo tienes [Imetec CH 1000 Tritatutto  4 Lame in Acciaio Inox  Capiente Contenitore 600 ml  Accessorio Frusta per Salse e Panna Montata  Funzionamento a Pressione  500 W](https://www.amazon.it/dp/B06X1D31QX/?tag=tolees00-21) a 27.55 EUR (original: 44.9 EUR) (38.64 %  de descuento) en el siguiente enlace!

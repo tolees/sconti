@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00KNV1UC8/?tag=tolees00-21'
 descuento: '57.99'
+average: '1.55'
 ---
 
 Tienes [SUNSILK Liscio Perfetto  Balsamo  200 ml](https://www.amazon.it/dp/B00KNV1UC8/?tag=tolees00-21) con un 57.99 % de descuento con precio de oferta de 1.55 EUR (original: 3.69 EUR) en el siguiente enlace!

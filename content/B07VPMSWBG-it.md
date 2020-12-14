@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VPMSWBG/?tag=tolees00-21'
 descuento: '74.62'
+average: '32.99'
 ---
 
 Está [LIGE Orologi Donna Moda Impermeabile Quarzo Orologio da Polso da Donna Acciaio Inossidabile per Ragazza Orologio](https://www.amazon.it/dp/B07VPMSWBG/?tag=tolees00-21) con 74.62 de descuento por 32.99 EUR (original: 129.99 EUR) en el siguiente enlace!

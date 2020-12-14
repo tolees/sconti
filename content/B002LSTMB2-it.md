@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B002LSTMB2/?tag=tolees00-21'
 descuento: '31.47'
+average: '47.97'
 ---
 
 Está [Paco Rabanne 1 Million Eau de Toilette  Uomo  50 ml](https://www.amazon.it/dp/B002LSTMB2/?tag=tolees00-21) con 31.47 de descuento por 47.97 EUR (original: 70.0 EUR) en el siguiente enlace!

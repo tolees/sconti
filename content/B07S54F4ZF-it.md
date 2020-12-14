@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S54F4ZF/?tag=tolees00-21'
 descuento: '39.00'
+average: '15.06'
 ---
 
 Ahora mismo tienes [Diesel Umbx-damienthreepack Slip  Multicolore  Bright White/Black/Harbor Blue E4968/0aaxx   Medium  Pacco da 3  Uomo](https://www.amazon.it/dp/B07S54F4ZF/?tag=tolees00-21) a 15.06 EUR (original: 24.69 EUR) (39.00 %  de descuento) en el siguiente enlace!

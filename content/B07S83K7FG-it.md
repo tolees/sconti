@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S83K7FG/?tag=tolees00-21'
 descuento: '33.34'
+average: '59.99'
 ---
 
 Está [ATMOKO Massaggiatore Plantare Impastamento Shiatu Profondo  Massaggiatore Piedi Elettrico con 26 Nodi Massaggianti  Funzione di calore  Ideale per la famiglia  insegnanti  ballerini  lavoratori](https://www.amazon.it/dp/B07S83K7FG/?tag=tolees00-21) con 33.34 de descuento por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0183NE8JY/?tag=tolees00-21'
 descuento: '40.04'
+average: '5.99'
 ---
 
 Ahora mismo tienes [Jivo Technology-Kit di parti GoGear Xtra-Spare per GoPro](https://www.amazon.it/dp/B0183NE8JY/?tag=tolees00-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!

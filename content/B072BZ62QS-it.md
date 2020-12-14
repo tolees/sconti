@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B072BZ62QS/?tag=tolees00-21'
 descuento: '63.67'
+average: '109.0'
 ---
 
 Ahora mismo tienes [TP-Link Deco M5 Wifi Mesh - Pacchetto da 3 Unità Fino a 400 ㎡  AC1300  per Case su 2 o 3 Piani  Velocità Dual-Band 1267Mbps  Sostituisci Router Tradizionali e Wifi Extender  Compatibile Alexa](https://www.amazon.it/dp/B072BZ62QS/?tag=tolees00-21) a 109.0 EUR (original: 299.99 EUR) (63.67 %  de descuento) en el siguiente enlace!

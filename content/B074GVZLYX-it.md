@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B074GVZLYX/?tag=tolees00-21'
 descuento: '33.22'
+average: '30.05'
 ---
 
 Ahora mismo tienes [Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   X-Small  Taglia Produttore: 2  Uomo](https://www.amazon.it/dp/B074GVZLYX/?tag=tolees00-21) a 30.05 EUR (original: 45.0 EUR) (33.22 %  de descuento) en el siguiente enlace!

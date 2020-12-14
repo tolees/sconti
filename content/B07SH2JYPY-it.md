@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21'
 descuento: '60.03'
+average: '19.98'
 ---
 
 Tienes [FIFA 20 - Legacy - Nintendo Switch](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21) con un 60.03 % de descuento con precio de oferta de 19.98 EUR (original: 49.99 EUR) en el siguiente enlace!

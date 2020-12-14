@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YZK82B9/?tag=tolees00-21'
 descuento: '26.68'
+average: '10.99'
 ---
 
 Ahora mismo tienes [Head & Shoulders Suprême Protezione Colore Shampoo e Balsamo Antiforfora  con Olio di Argan  per un Colore a Lunga Tenuta  2x225 ml + 2x220 ml](https://www.amazon.it/dp/B07YZK82B9/?tag=tolees00-21) a 10.99 EUR (original: 14.99 EUR) (26.68 %  de descuento) en el siguiente enlace!

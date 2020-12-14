@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TKN89S3/?tag=tolees00-21'
 descuento: '55.00'
+average: '12.6'
 ---
 
 Tienes [Havaianas Slim Flatform  Infradito Donna  Grigio  Steel Grey 5178   33/34 EU](https://www.amazon.it/dp/B07TKN89S3/?tag=tolees00-21) con un 55.00 % de descuento con precio de oferta de 12.6 EUR (original: 28.0 EUR) en el siguiente enlace!

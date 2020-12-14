@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07C9D91DC/?tag=tolees00-21'
 descuento: '30.82'
+average: '12.68'
 ---
 
 Ahora mismo tienes [Atelier Fontana - Le Sorelle Della Moda  2 Dvd ](https://www.amazon.it/dp/B07C9D91DC/?tag=tolees00-21) a 10.37 EUR (original: 14.99 EUR) (30.82 %  de descuento) en el siguiente enlace!

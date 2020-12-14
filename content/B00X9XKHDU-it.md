@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00X9XKHDU/?tag=tolees00-21'
 descuento: '42.64'
+average: '7.4'
 ---
 
 Tienes [Maybelline New York Ciglia Sensazionali Mascara Volumizzante Very Black  Effetto Ventaglio  1 Pezzo](https://www.amazon.it/dp/B00X9XKHDU/?tag=tolees00-21) con un 42.64 % de descuento con precio de oferta de 7.4 EUR (original: 12.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B089LSBTG4/?tag=tolees00-21'
 descuento: '34.49'
+average: '18.99'
 ---
 
 Tienes [Puzzle in Legno Forme Geometriche Tangram Puzzles Giocattolo 180 Pezzi Portatile Classico Giochi Matematici Interattivo Montessori Giocattoli Educativi Puzzle Regalo Bambini 3 4 5 Anni Ragazzi Ragazze](https://www.amazon.it/dp/B089LSBTG4/?tag=tolees00-21) con un 34.49 % de descuento con precio de oferta de 18.99 EUR (original: 28.99 EUR) en el siguiente enlace!

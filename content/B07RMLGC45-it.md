@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RMLGC45/?tag=tolees00-21'
 descuento: '25.08'
+average: '24.23'
 ---
 
 Está [Calvin Klein Punched Lrg Dbl Ziparound - Portafogli Donna  Verde  Drk Olive   12x5x20 cm  W x H L ](https://www.amazon.it/dp/B07RMLGC45/?tag=tolees00-21) con 25.08 de descuento por 24.23 EUR (original: 32.34 EUR) en el siguiente enlace!

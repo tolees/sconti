@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B089WW4R3Q/?tag=tolees00-21'
 descuento: '38.38'
+average: '8.62'
 ---
 
 Tienes [Finish  72 Pastiglie Per Lavastoviglie  All In One Max - 7250 Ml](https://www.amazon.it/dp/B089WW4R3Q/?tag=tolees00-21) con un 38.38 % de descuento con precio de oferta de 8.62 EUR (original: 13.99 EUR) en el siguiente enlace!

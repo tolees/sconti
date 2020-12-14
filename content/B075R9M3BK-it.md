@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B075R9M3BK/?tag=tolees00-21'
 descuento: '43.36'
+average: '8.49'
 ---
 
 Tienes [Vero Moda Vmava Plain SS Top Ga Noos T-Shirt  Grigio  Asphalt Asphalt   46  Taglia Produttore: Large  Donna](https://www.amazon.it/dp/B075R9M3BK/?tag=tolees00-21) con un 43.36 % de descuento con precio de oferta de 8.49 EUR (original: 14.99 EUR) en el siguiente enlace!

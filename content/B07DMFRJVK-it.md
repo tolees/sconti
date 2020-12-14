@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07DMFRJVK/?tag=tolees00-21'
 descuento: '31.43'
+average: '48.97'
 ---
 
 Está [SUPER MARIO PARTY - Nintendo Switch](https://www.amazon.it/dp/B07DMFRJVK/?tag=tolees00-21) con 31.43 de descuento por 47.99 EUR (original: 69.99 EUR) en el siguiente enlace!

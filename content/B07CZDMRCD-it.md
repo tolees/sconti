@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CZDMRCD/?tag=tolees00-21'
 descuento: '51.80'
+average: '43.36'
 ---
 
 Está [PUMA BASKET HEART PATENT WN S  Sneakers Donna  Grigio  IRON GATE/IRON GATE   40 EU](https://www.amazon.it/dp/B07CZDMRCD/?tag=tolees00-21) con 51.80 de descuento por 43.36 EUR (original: 89.95 EUR) en el siguiente enlace!

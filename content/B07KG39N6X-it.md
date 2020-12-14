@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KG39N6X/?tag=tolees00-21'
 descuento: '34.49'
+average: '36.0'
 ---
 
 Está [Puma Axis  Sneaker Unisex-Adulto  Blu  Peacoat-Puma White 07   36 EU](https://www.amazon.it/dp/B07KG39N6X/?tag=tolees00-21) con 34.49 de descuento por 36.0 EUR (original: 54.95 EUR) en el siguiente enlace!

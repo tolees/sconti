@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BZDGP54/?tag=tolees00-21'
 descuento: '60.03'
+average: '7.99'
 ---
 
 Ahora mismo tienes [sunvito Set 24 Matite Colorate  Color Pencils con Soft Core per Libri da colorare per Adulti Artista Drawing Sketching Crafting Shading  24 Colori Vivaci con Scatola di Metallo](https://www.amazon.it/dp/B08BZDGP54/?tag=tolees00-21) a 7.99 EUR (original: 19.99 EUR) (60.03 %  de descuento) en el siguiente enlace!

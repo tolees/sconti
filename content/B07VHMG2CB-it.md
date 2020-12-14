@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VHMG2CB/?tag=tolees00-21'
 descuento: '66.48'
+average: '33.18'
 ---
 
 Tienes [NAPAPIJRI Dueville C Maglia a Maniche Lunghe  Verde  Green Way Gw11   XX-Large Uomo](https://www.amazon.it/dp/B07VHMG2CB/?tag=tolees00-21) con un 66.48 % de descuento con precio de oferta de 33.18 EUR (original: 99.0 EUR) en el siguiente enlace!

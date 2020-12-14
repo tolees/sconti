@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083FHV9JG/?tag=tolees00-21'
 descuento: '38.32'
+average: '28.99'
 ---
 
 Ahora mismo tienes [Lacoste 5h1803 Intimo  THYM/Marine-Blanc  M Uomo](https://www.amazon.it/dp/B083FHV9JG/?tag=tolees00-21) a 28.99 EUR (original: 47.0 EUR) (38.32 %  de descuento) en el siguiente enlace!

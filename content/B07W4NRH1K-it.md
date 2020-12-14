@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W4NRH1K/?tag=tolees00-21'
 descuento: '43.44'
+average: '24.78'
 ---
 
 Tienes [Tommy Hilfiger Squares Tee Maglietta  Blu  Blue Ink   Small Uomo](https://www.amazon.it/dp/B07W4NRH1K/?tag=tolees00-21) con un 43.44 % de descuento con precio de oferta de 24.78 EUR (original: 43.81 EUR) en el siguiente enlace!

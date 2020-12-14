@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000QE1DME/?tag=tolees00-21'
 descuento: '31.92'
+average: '45.95'
 ---
 
 Está [Birkenstock Arizona Birko-Flor  ciabatte unisex per adulti  nere  nere   44 EU](https://www.amazon.it/dp/B000QE1DME/?tag=tolees00-21) con 31.92 de descuento por 45.95 EUR (original: 67.49 EUR) en el siguiente enlace!

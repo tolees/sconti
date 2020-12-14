@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S1W3LMN/?tag=tolees00-21'
 descuento: '30.64'
+average: '55.49'
 ---
 
 Ahora mismo tienes [New Balance 373 Core  Sneaker Uomo  Blu  Navy/White Cc2 ](https://www.amazon.it/dp/B07S1W3LMN/?tag=tolees00-21) a 55.49 EUR (original: 80.0 EUR) (30.64 %  de descuento) en el siguiente enlace!

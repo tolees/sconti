@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VBF5K11/?tag=tolees00-21'
 descuento: '31.77'
+average: '24.96'
 ---
 
 Ahora mismo tienes [Desigual Bols inés Cortland - Borsa da donna  15 x 29 5 x 36 5 cm  Blu  Blu  Azul Espacial    15x29.5x36.5 cm  B x H x T ](https://www.amazon.it/dp/B07VBF5K11/?tag=tolees00-21) a 24.96 EUR (original: 36.58 EUR) (31.77 %  de descuento) en el siguiente enlace!

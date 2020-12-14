@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TJWRR11/?tag=tolees00-21'
 descuento: '33.74'
+average: '62.95'
 ---
 
 Tienes [Lacoste Ph4012 Polo  Giallo  Daba Z0a   Large  Taglia Produttore: 5  Uomo](https://www.amazon.it/dp/B07TJWRR11/?tag=tolees00-21) con un 33.74 % de descuento con precio de oferta de 62.95 EUR (original: 95.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Y3FJTW3/?tag=tolees00-21'
 descuento: '33.34'
+average: '31.990000000000002'
 ---
 
 Está [Rubinetto Bagno Cascata  Dalmo DBWF01FA Miscelatore a Cascata  Ultra-Ampio 6cm Flusso & Cromatura Lucida & Universale 3/8”  Rubinetto Miscelatore Cascata da Lavandino Bagno con Valvola in Ceramica](https://www.amazon.it/dp/B07Y3FJTW3/?tag=tolees00-21) con 33.34 de descuento por 29.99 EUR (original: 44.99 EUR) en el siguiente enlace!

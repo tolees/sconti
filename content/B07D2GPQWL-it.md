@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07D2GPQWL/?tag=tolees00-21'
 descuento: '31.80'
+average: '23.12'
 ---
 
 Tienes [DYNASONIC - Altoparlante Bluetooth 10W portatile  Lettore Mp3 senza fili wireless portatile  Lettore USB SD  Radio FM con più di 60 stazioni  modello 020-2  colore viola  telecomando incluso ](https://www.amazon.it/dp/B07D2GPQWL/?tag=tolees00-21) con un 31.80 % de descuento con precio de oferta de 23.12 EUR (original: 33.9 EUR) en el siguiente enlace!

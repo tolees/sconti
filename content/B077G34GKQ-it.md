@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077G34GKQ/?tag=tolees00-21'
 descuento: '68.51'
+average: '17.56'
 ---
 
 Tienes [Marchio Amazon - TRUTH & FABLE Tuta Intera Donna  Rosso  Red   42  Label: S](https://www.amazon.it/dp/B077G34GKQ/?tag=tolees00-21) con un 68.51 % de descuento con precio de oferta de 17.56 EUR (original: 55.76 EUR) en el siguiente enlace!

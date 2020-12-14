@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085RPPW6Z/?tag=tolees00-21'
 descuento: '44.64'
+average: '149.4'
 ---
 
 Está [Condizionatore Portatile  Raffreddatore d Aria Silenzioso Mobile con Vaschetta del Ghiaccio e Telecomando a Bassa Energia con Ventilatore e Umidificatore Funzione Timer 7 5 ore per Casa e Ufficio](https://www.amazon.it/dp/B085RPPW6Z/?tag=tolees00-21) con 44.64 de descuento por 149.4 EUR (original: 269.89 EUR) en el siguiente enlace!

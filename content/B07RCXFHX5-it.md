@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RCXFHX5/?tag=tolees00-21'
 descuento: '77.13'
+average: '52.6'
 ---
 
 Tienes [Columbia Marquam Peak Jacket  Giacca Uomo  Blu  Collegiate Navy   XL](https://www.amazon.it/dp/B07RCXFHX5/?tag=tolees00-21) con un 77.13 % de descuento con precio de oferta de 52.6 EUR (original: 229.99 EUR) en el siguiente enlace!

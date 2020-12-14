@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07WR8XFZG/?tag=tolees00-21'
 descuento: '30.77'
+average: '89.99'
 ---
 
 Tienes [TACKLIFE Sega Circolare Avanzata  750 W  6 Velocità  125 mm e 115 mm per 6 Lame  Impugnatura in Metallo  Guida Laser - TCS115E](https://www.amazon.it/dp/B07WR8XFZG/?tag=tolees00-21) con un 30.77 % de descuento con precio de oferta de 89.99 EUR (original: 129.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B076QP9C8F/?tag=tolees00-21'
 descuento: '44.76'
+average: '4.07'
 ---
 
 Tienes [Pritt Colla Stick 5 x 11g  colla per bambini sicura e affidabile  colla Pritt per lavoretti e fai da te  con una tenuta forte per uso scuola e ufficio  5 stick x 11g](https://www.amazon.it/dp/B076QP9C8F/?tag=tolees00-21) con un 44.76 % de descuento con precio de oferta de 4.43 EUR (original: 8.02 EUR) en el siguiente enlace!

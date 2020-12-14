@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FF9ZGWQ/?tag=tolees00-21'
 descuento: '34.64'
+average: '8.49'
 ---
 
 Ahora mismo tienes [AZ Dentifricio Pro Expert Prevenzione Superiore  Pulizia Denti Completa  4 x 75ml](https://www.amazon.it/dp/B08FF9ZGWQ/?tag=tolees00-21) a 8.49 EUR (original: 12.99 EUR) (34.64 %  de descuento) en el siguiente enlace!

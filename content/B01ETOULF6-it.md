@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01ETOULF6/?tag=tolees00-21'
 descuento: '27.03'
+average: '9.96'
 ---
 
 Está [Jolly pastelli Crazy scatola in cartone 3000-0503 -12-3000-0503](https://www.amazon.it/dp/B01ETOULF6/?tag=tolees00-21) con 27.03 de descuento por 9.96 EUR (original: 13.65 EUR) en el siguiente enlace!

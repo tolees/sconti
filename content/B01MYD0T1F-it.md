@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MYD0T1F/?tag=tolees00-21'
 descuento: '36.49'
+average: '18.99'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger SS Tee Maglietta con Logo  Bianco  White 100   Large Uomo](https://www.amazon.it/dp/B01MYD0T1F/?tag=tolees00-21) a 18.99 EUR (original: 29.9 EUR) (36.49 %  de descuento) en el siguiente enlace!

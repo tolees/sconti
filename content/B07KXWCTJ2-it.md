@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KXWCTJ2/?tag=tolees00-21'
 descuento: '33.34'
+average: '17.99'
 ---
 
 Tienes [DONPEREGRINO M2 - LED Luce Bici Fino a 90 Ore di Illuminazione  Fanale Posteriore Bicicletta Ricaricabile USB con 5 modalità Fisse Flash](https://www.amazon.it/dp/B07KXWCTJ2/?tag=tolees00-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

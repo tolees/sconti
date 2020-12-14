@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Q23N8SJ/?tag=tolees00-21'
 descuento: '52.85'
+average: '22.99'
 ---
 
 Ahora mismo tienes [Aoqussqoa - Costume da bagno intero da donna  motivo leopardato  azione modellante  riduce la pancia  moda da spiaggia Mesh XXX-Large](https://www.amazon.it/dp/B07Q23N8SJ/?tag=tolees00-21) a 22.99 EUR (original: 48.76 EUR) (52.85 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07D6ZTDN4/?tag=tolees00-21'
 descuento: '29.81'
+average: '91.25'
 ---
 
 Ahora mismo tienes [Levi s Type 3 Sherpa Trucker Giacca  Beige  True Chino Cord Better 0066   Medium Uomo](https://www.amazon.it/dp/B07D6ZTDN4/?tag=tolees00-21) a 91.25 EUR (original: 130.0 EUR) (29.81 %  de descuento) en el siguiente enlace!

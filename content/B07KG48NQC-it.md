@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KG48NQC/?tag=tolees00-21'
 descuento: '50.59'
+average: '39.5'
 ---
 
 Está [Puma Ralph Sampson Lo   Sneaker Unisex – Adulto  Bianco White-Peacoat White  40 EU](https://www.amazon.it/dp/B07KG48NQC/?tag=tolees00-21) con 50.59 de descuento por 39.5 EUR (original: 79.95 EUR) en el siguiente enlace!

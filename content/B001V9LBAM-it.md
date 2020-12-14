@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B001V9LBAM/?tag=tolees00-21'
 descuento: '53.85'
+average: '4.2'
 ---
 
 Está [Rimmel Matita Occhi Automatica Exaggerate  Matita Waterproof a Lunga Tenuta  Nero](https://www.amazon.it/dp/B001V9LBAM/?tag=tolees00-21) con 53.85 de descuento por 4.2 EUR (original: 9.1 EUR) en el siguiente enlace!

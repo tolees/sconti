@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21'
 descuento: '41.42'
+average: '39.99'
 ---
 
 Está [SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV Pieghevole Quadricottero RC Rtf 4CH 2 4 GHz Telecomando Senza Testa [Altitude Hold] Super Easy Fly per Allenamento - Arancio](https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21) con 41.42 de descuento por 39.99 EUR (original: 68.26 EUR) en el siguiente enlace!

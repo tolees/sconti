@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077CZRZWG/?tag=tolees00-21'
 descuento: '37.51'
+average: '27.99'
 ---
 
 Ahora mismo tienes [Anjou Trucco Ricaricabile  Luce LED Touchscreen Regolabile con Specchio Magnetico 5X Rimovibile  Rotazione a 120° per Cosmesi Makeup su Piano di Lavoro  Bianco   s](https://www.amazon.it/dp/B077CZRZWG/?tag=tolees00-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

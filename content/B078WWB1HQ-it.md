@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078WWB1HQ/?tag=tolees00-21'
 descuento: '56.52'
+average: '41.3'
 ---
 
 Está [Nike Wmns Internationalist  Scarpe Running Donna  Multicolore  Black/Summit White/Anthracite/Sail 021   36 EU](https://www.amazon.it/dp/B078WWB1HQ/?tag=tolees00-21) con 56.52 de descuento por 41.3 EUR (original: 94.99 EUR) en el siguiente enlace!

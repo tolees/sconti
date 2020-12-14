@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GYTDSSL/?tag=tolees00-21'
 descuento: '53.35'
+average: '13.99'
 ---
 
 Está [Landove Donna A spalle Ruffle allentato Batwing Mantello Jumper orlo asimmetrico casuale elegante colore solido lavoro Tunica Camicetta Trendy Affumicato Top inverno scialle UK8 / M Rosso scuro](https://www.amazon.it/dp/B07GYTDSSL/?tag=tolees00-21) con 53.35 de descuento por 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!

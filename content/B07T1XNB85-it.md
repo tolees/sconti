@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21'
 descuento: '63.48'
+average: '21.925'
 ---
 
 Tienes [Cornice digitale](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21) con un 63.48 % de descuento con precio de oferta de 21.87 EUR (original: 59.88 EUR) en el siguiente enlace!

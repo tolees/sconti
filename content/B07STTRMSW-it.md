@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07STTRMSW/?tag=tolees00-21'
 descuento: '46.59'
+average: '1.49'
 ---
 
 Está [Lysoform Casa Pavimenti - 1250 Ml  Classico](https://www.amazon.it/dp/B07STTRMSW/?tag=tolees00-21) con 46.59 de descuento por 1.49 EUR (original: 2.79 EUR) en el siguiente enlace!

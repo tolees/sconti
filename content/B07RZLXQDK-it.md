@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RZLXQDK/?tag=tolees00-21'
 descuento: '54.67'
+average: '40.8'
 ---
 
 Está [New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   40 EU](https://www.amazon.it/dp/B07RZLXQDK/?tag=tolees00-21) con 54.67 de descuento por 40.8 EUR (original: 90.0 EUR) en el siguiente enlace!

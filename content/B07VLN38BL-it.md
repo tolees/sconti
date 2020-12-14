@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21'
 descuento: '32.05'
+average: '17.150000000000002'
 ---
 
 Tienes [Xiaomi Mi Smart Scale 2  Bilancia Pesa Persona  bianco](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21) con un 32.05 % de descuento con precio de oferta de 16.98 EUR (original: 24.99 EUR) en el siguiente enlace!

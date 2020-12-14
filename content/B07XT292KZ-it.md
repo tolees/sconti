@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07XT292KZ/?tag=tolees00-21'
 descuento: '41.20'
+average: '9.99'
 ---
 
 Ahora mismo tienes [BelleStyle Giocattoli Montessori  Ananas Infilare di Legno Giocattolo di attività Montessori  Allacciatura Giocattolo per Bambini - Presto Apprendimento Gioco Educativo per Casa e Viaggi  Giallo ](https://www.amazon.it/dp/B07XT292KZ/?tag=tolees00-21) a 9.99 EUR (original: 16.99 EUR) (41.20 %  de descuento) en el siguiente enlace!

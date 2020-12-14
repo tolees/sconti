@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00CG5KG7E/?tag=tolees00-21'
 descuento: '37.84'
+average: '12.37'
 ---
 
 Tienes [Campingaz Y980000000 Regolatore di Pressione del Gas Accessorio per Barbecue/Grill](https://www.amazon.it/dp/B00CG5KG7E/?tag=tolees00-21) con un 37.84 % de descuento con precio de oferta de 12.37 EUR (original: 19.9 EUR) en el siguiente enlace!

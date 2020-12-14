@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PJTJRQ5/?tag=tolees00-21'
 descuento: '42.47'
+average: '161.02'
 ---
 
 Tienes [Momo Design Monaco 65 Monopattino Elettrico  Velocità massima 25km/h con autonomia fino a 13km  Nero/Bianco](https://www.amazon.it/dp/B07PJTJRQ5/?tag=tolees00-21) con un 42.47 % de descuento con precio de oferta de 161.02 EUR (original: 279.9 EUR) en el siguiente enlace!

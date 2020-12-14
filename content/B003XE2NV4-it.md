@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003XE2NV4/?tag=tolees00-21'
 descuento: '36.85'
+average: '59.99'
 ---
 
 Tienes [Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   FR 9](https://www.amazon.it/dp/B003XE2NV4/?tag=tolees00-21) con un 36.85 % de descuento con precio de oferta de 59.99 EUR (original: 95.0 EUR) en el siguiente enlace!

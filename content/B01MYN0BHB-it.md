@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MYN0BHB/?tag=tolees00-21'
 descuento: '33.76'
+average: '19.21'
 ---
 
 Está [Samsonite Success Portamonete  100% Pelle  10 cm  Nero](https://www.amazon.it/dp/B01MYN0BHB/?tag=tolees00-21) con 33.76 de descuento por 19.21 EUR (original: 29.0 EUR) en el siguiente enlace!

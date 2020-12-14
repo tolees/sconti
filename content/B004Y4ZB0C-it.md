@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21'
 descuento: '48.36'
+average: '63.0'
 ---
 
 Ahora mismo tienes [Diesel Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile DZ1436](https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21) a 63.0 EUR (original: 122.0 EUR) (48.36 %  de descuento) en el siguiente enlace!

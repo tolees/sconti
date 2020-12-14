@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00BKQT85G/?tag=tolees00-21'
 descuento: '68.35'
+average: '56.59'
 ---
 
 Está [Daniel Wellington Analogico Quarzo Giapponese Orologio da Polso DW00100020](https://www.amazon.it/dp/B00BKQT85G/?tag=tolees00-21) con 68.35 de descuento por 56.65 EUR (original: 179.0 EUR) en el siguiente enlace!

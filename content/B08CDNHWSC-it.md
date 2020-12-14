@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CDNHWSC/?tag=tolees00-21'
 descuento: '43.01'
+average: '63.99'
 ---
 
 Ahora mismo tienes [FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Laptop  MacBook. 2TB Nero ](https://www.amazon.it/dp/B08CDNHWSC/?tag=tolees00-21) a 63.99 EUR (original: 112.29 EUR) (43.01 %  de descuento) en el siguiente enlace!

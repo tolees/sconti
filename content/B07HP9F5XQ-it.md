@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HP9F5XQ/?tag=tolees00-21'
 descuento: '29.99'
+average: '41.97'
 ---
 
 Tienes [Skechers Men s STATUS 2.0- PEXTON Trainers  Blue  Navy NVY   9.5  44 EU ](https://www.amazon.it/dp/B07HP9F5XQ/?tag=tolees00-21) con un 29.99 % de descuento con precio de oferta de 41.97 EUR (original: 59.95 EUR) en el siguiente enlace!

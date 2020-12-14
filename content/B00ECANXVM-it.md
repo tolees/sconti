@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21'
 descuento: '32.76'
+average: '14.39'
 ---
 
 Tienes [Macdue Essere  Multicolore  32538](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21) con un 32.76 % de descuento con precio de oferta de 14.39 EUR (original: 21.4 EUR) en el siguiente enlace!

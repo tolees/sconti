@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21'
 descuento: '69.19'
+average: '16.94'
 ---
 
 Tienes [LEGO Movie 2 - Movie Maker  70820](https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21) con un 69.19 % de descuento con precio de oferta de 16.94 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00OV4UXB2/?tag=tolees00-21'
 descuento: '35.06'
+average: '58.45'
 ---
 
 Tienes [K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Rosso  Red   Small  Taglia produttore: S ](https://www.amazon.it/dp/B00OV4UXB2/?tag=tolees00-21) con un 35.06 % de descuento con precio de oferta de 58.45 EUR (original: 90.0 EUR) en el siguiente enlace!

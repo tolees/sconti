@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000TARBDU/?tag=tolees00-21'
 descuento: '43.81'
+average: '8.99'
 ---
 
 Tienes [Pyrex Essentials Tegame Rettangolare  40x27cm](https://www.amazon.it/dp/B000TARBDU/?tag=tolees00-21) con un 43.81 % de descuento con precio de oferta de 8.99 EUR (original: 16.0 EUR) en el siguiente enlace!

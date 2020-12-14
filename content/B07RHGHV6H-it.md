@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RHGHV6H/?tag=tolees00-21'
 descuento: '79.06'
+average: '41.67'
 ---
 
 Está [Tommy Hilfiger Light Weight Hooded Jacket Bomber  Blu  Blue Dw5   Large Uomo](https://www.amazon.it/dp/B07RHGHV6H/?tag=tolees00-21) con 79.06 de descuento por 41.67 EUR (original: 199.0 EUR) en el siguiente enlace!

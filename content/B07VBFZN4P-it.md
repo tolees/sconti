@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VBFZN4P/?tag=tolees00-21'
 descuento: '40.00'
+average: '31.2'
 ---
 
 Ahora mismo tienes [Vans Ward Canvas Sneaker  Unisex – Bambini  Multicolore   Otw  Black/White LRN   33 EU](https://www.amazon.it/dp/B07VBFZN4P/?tag=tolees00-21) a 31.2 EUR (original: 52.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

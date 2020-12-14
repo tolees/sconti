@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S3WMT74/?tag=tolees00-21'
 descuento: '55.29'
+average: '15.65'
 ---
 
 Tienes [Levi s LS Baby Tee Maglia a Maniche Lunghe  Multicolore  Agnes Stripe Cloud Dancer 0010   Small Donna](https://www.amazon.it/dp/B07S3WMT74/?tag=tolees00-21) con un 55.29 % de descuento con precio de oferta de 15.65 EUR (original: 35.0 EUR) en el siguiente enlace!

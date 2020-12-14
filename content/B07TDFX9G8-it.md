@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TDFX9G8/?tag=tolees00-21'
 descuento: '44.36'
+average: '25.04'
 ---
 
 Tienes [The North Face M Quest L/S  Maglia a Maniche Corte Uomo  Blu  Acoustic Blue/T   S](https://www.amazon.it/dp/B07TDFX9G8/?tag=tolees00-21) con un 44.36 % de descuento con precio de oferta de 25.04 EUR (original: 45.0 EUR) en el siguiente enlace!

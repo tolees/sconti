@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZVZ47WQ/?tag=tolees00-21'
 descuento: '41.18'
+average: '69.99'
 ---
 
 Tienes [Lagostina Ingenio Essential Batteria di Pentole  10 Pezzi  Manico Amovibile  Alluminio  Nero](https://www.amazon.it/dp/B07ZVZ47WQ/?tag=tolees00-21) con un 41.18 % de descuento con precio de oferta de 69.99 EUR (original: 119.0 EUR) en el siguiente enlace!

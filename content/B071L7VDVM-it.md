@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B071L7VDVM/?tag=tolees00-21'
 descuento: '33.22'
+average: '30.05'
 ---
 
 Tienes [Lacoste Sport TH0123 T-Shirt  Nero  Noir   Small  Taglia Produttore: 3  Uomo](https://www.amazon.it/dp/B071L7VDVM/?tag=tolees00-21) con un 33.22 % de descuento con precio de oferta de 30.05 EUR (original: 45.0 EUR) en el siguiente enlace!

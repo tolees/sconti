@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B076YF1CVY/?tag=tolees00-21'
 descuento: '31.46'
+average: '23.99'
 ---
 
 Ahora mismo tienes [Levi s LS Graphic Tee-B Maglietta a Maniche Lunghe  Nero  Better Black-Black   Large Uomo](https://www.amazon.it/dp/B076YF1CVY/?tag=tolees00-21) a 23.99 EUR (original: 35.0 EUR) (31.46 %  de descuento) en el siguiente enlace!

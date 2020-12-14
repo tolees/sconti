@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08B53ZPW8/?tag=tolees00-21'
 descuento: '41.93'
+average: '4.64'
 ---
 
 Tienes [Mascherina Lavabile Regolabile  nero ](https://www.amazon.it/dp/B08B53ZPW8/?tag=tolees00-21) con un 41.93 % de descuento con precio de oferta de 4.64 EUR (original: 7.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07WZV318Q/?tag=tolees00-21'
 descuento: '47.53'
+average: '13.5'
 ---
 
 Está [STARBUCKS SINGLE-ORIGIN COLOMBIA by NESCAFÉ DOLCE GUSTO Caffè dalla tostatura media 6 confezioni da 12 capsule  72 capsule ](https://www.amazon.it/dp/B07WZV318Q/?tag=tolees00-21) con 47.53 de descuento por 13.5 EUR (original: 25.73 EUR) en el siguiente enlace!

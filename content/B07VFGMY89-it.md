@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VFGMY89/?tag=tolees00-21'
 descuento: '33.38'
+average: '25.95'
 ---
 
 Tienes [NAPAPIJRI Eovico Polo  Bianco  Bright White 0021   X-Large Uomo](https://www.amazon.it/dp/B07VFGMY89/?tag=tolees00-21) con un 33.38 % de descuento con precio de oferta de 25.95 EUR (original: 38.95 EUR) en el siguiente enlace!

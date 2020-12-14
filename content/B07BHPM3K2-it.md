@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BHPM3K2/?tag=tolees00-21'
 descuento: '35.00'
+average: '64.35'
 ---
 
 Tienes [Tommy Hilfiger Analogico Quarzo Orologio da Polso 1781919](https://www.amazon.it/dp/B07BHPM3K2/?tag=tolees00-21) con un 35.00 % de descuento con precio de oferta de 64.35 EUR (original: 99.0 EUR) en el siguiente enlace!

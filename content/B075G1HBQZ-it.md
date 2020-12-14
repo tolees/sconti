@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B075G1HBQZ/?tag=tolees00-21'
 descuento: '43.33'
+average: '18.34'
 ---
 
 Está [Corona Birra Bottiglia - Confezione da 24 x 330 ml](https://www.amazon.it/dp/B075G1HBQZ/?tag=tolees00-21) con 43.33 de descuento por 18.36 EUR (original: 32.4 EUR) en el siguiente enlace!

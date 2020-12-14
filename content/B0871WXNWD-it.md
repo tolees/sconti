@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0871WXNWD/?tag=tolees00-21'
 descuento: '53.67'
+average: '41.79'
 ---
 
 Está [Laelr Ultimi controller wireless per Nintendo Switch Mini controller sinistro e destro Dual Vibration Gamepad Joystick Controller Bluetooth per telecomandi N-Switch](https://www.amazon.it/dp/B0871WXNWD/?tag=tolees00-21) con 53.67 de descuento por 41.79 EUR (original: 90.21 EUR) en el siguiente enlace!

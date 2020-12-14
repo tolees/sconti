@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KL3LH9P/?tag=tolees00-21'
 descuento: '55.76'
+average: '11.48'
 ---
 
 Está [Adidas Must Haves Badge of Sport Tee  T-Shirts Uomo  Black/White  L](https://www.amazon.it/dp/B07KL3LH9P/?tag=tolees00-21) con 55.76 de descuento por 11.48 EUR (original: 25.95 EUR) en el siguiente enlace!

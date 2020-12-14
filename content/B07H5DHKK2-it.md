@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07H5DHKK2/?tag=tolees00-21'
 descuento: '27.80'
+average: '63.17'
 ---
 
 Ahora mismo tienes [KingDian 2 5 pollici SATA III 1TB 3D NAND Performance SSD interno](https://www.amazon.it/dp/B07H5DHKK2/?tag=tolees00-21) a 63.17 EUR (original: 87.49 EUR) (27.80 %  de descuento) en el siguiente enlace!

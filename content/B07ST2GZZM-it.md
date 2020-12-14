@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21'
 descuento: '66.57'
+average: '23.4'
 ---
 
 Tienes [eFootball PES 2020 - Playstation 4](https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21) con un 66.57 % de descuento con precio de oferta de 23.4 EUR (original: 69.99 EUR) en el siguiente enlace!

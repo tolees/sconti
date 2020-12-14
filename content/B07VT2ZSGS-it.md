@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VT2ZSGS/?tag=tolees00-21'
 descuento: '37.28'
+average: '25.99'
 ---
 
 Tienes [Calvin Klein 3p Trunk Boxer  Multicolore  Lost Blue/Wild Fern/Raisin Torte WFL   Medium  Pacco da 3  Uomo](https://www.amazon.it/dp/B07VT2ZSGS/?tag=tolees00-21) con un 37.28 % de descuento con precio de oferta de 25.99 EUR (original: 41.44 EUR) en el siguiente enlace!

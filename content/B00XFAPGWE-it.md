@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00XFAPGWE/?tag=tolees00-21'
 descuento: '37.21'
+average: '43.95'
 ---
 
 Tienes [Lacoste L1230 Polo Sport Ultraleggera Uomo  Grigio  Argent Chine   X-Small  Taglia Produttore: 2 ](https://www.amazon.it/dp/B00XFAPGWE/?tag=tolees00-21) con un 37.21 % de descuento con precio de oferta de 43.95 EUR (original: 70.0 EUR) en el siguiente enlace!

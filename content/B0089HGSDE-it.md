@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0089HGSDE/?tag=tolees00-21'
 descuento: '68.02'
+average: '27.18'
 ---
 
 Ahora mismo tienes [Burberry Acqua di profumo per le donne  100 ml](https://www.amazon.it/dp/B0089HGSDE/?tag=tolees00-21) a 27.18 EUR (original: 85.0 EUR) (68.02 %  de descuento) en el siguiente enlace!

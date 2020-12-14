@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01EFDH6CM/?tag=tolees00-21'
 descuento: '35.01'
+average: '25.99'
 ---
 
 Está [Vero Moda Vmjulia Ls Dnm Noos  Blazer Donna  38  Nero  Black Black   42](https://www.amazon.it/dp/B01EFDH6CM/?tag=tolees00-21) con 35.01 de descuento por 25.99 EUR (original: 39.99 EUR) en el siguiente enlace!

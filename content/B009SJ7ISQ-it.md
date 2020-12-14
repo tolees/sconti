@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B009SJ7ISQ/?tag=tolees00-21'
 descuento: '32.74'
+average: '1.89'
 ---
 
 Está [Mulino Bianco Crostatine con Confettura di Albicocca - Colazione e Snack Dolce per Merenda - 10 Crostatine](https://www.amazon.it/dp/B009SJ7ISQ/?tag=tolees00-21) con 32.74 de descuento por 1.89 EUR (original: 2.81 EUR) en el siguiente enlace!

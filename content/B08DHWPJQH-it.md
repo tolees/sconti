@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21'
 descuento: '25.38'
+average: '48.5'
 ---
 
 Ahora mismo tienes [Huawei 55030701 Nano Memory Card  128 GB Con Lettore Di Scheda](https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21) a 48.5 EUR (original: 65.0 EUR) (25.38 %  de descuento) en el siguiente enlace!

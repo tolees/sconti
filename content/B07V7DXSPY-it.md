@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V7DXSPY/?tag=tolees00-21'
 descuento: '29.32'
+average: '25.91'
 ---
 
 Ahora mismo tienes [2 batterie per controller Xbox One/Xbox One S/Xbox One X 1200 mAh ricaricabili con cavo di ricarica.](https://www.amazon.it/dp/B07V7DXSPY/?tag=tolees00-21) a 25.91 EUR (original: 36.66 EUR) (29.32 %  de descuento) en el siguiente enlace!

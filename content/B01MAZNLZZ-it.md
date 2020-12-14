@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MAZNLZZ/?tag=tolees00-21'
 descuento: '63.96'
+average: '7.81'
 ---
 
 Está [Redford Nizza  Camicia Uomo  Blu  Blau   Misura Collo: 44 cm   X-Large ](https://www.amazon.it/dp/B01MAZNLZZ/?tag=tolees00-21) con 63.96 de descuento por 7.81 EUR (original: 21.67 EUR) en el siguiente enlace!

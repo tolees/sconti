@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086V35ZFV/?tag=tolees00-21'
 descuento: '30.02'
+average: '11.89'
 ---
 
 Está [Corda per Saltare Calorie Conta  Aerb Corda Salto Regolabile con Timer  Contatore Salti e Impugnatura in Memory Foam per Crossfit Boxe Fitness Allenamento a Casa Palestra  Borsa portatile 9.2ft ](https://www.amazon.it/dp/B086V35ZFV/?tag=tolees00-21) con 30.02 de descuento por 11.89 EUR (original: 16.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00N9BOOZ4/?tag=tolees00-21'
 descuento: '54.01'
+average: '45.99'
 ---
 
 Está [Beurer MP 62 Manicure/Pedicure Professionale con LED](https://www.amazon.it/dp/B00N9BOOZ4/?tag=tolees00-21) con 54.01 de descuento por 45.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00KX3PF22/?tag=tolees00-21'
 descuento: '53.25'
+average: '4.67'
 ---
 
 Está [Veet Men  Crema Depilatoria Uomo  Pelli Normali  200 ml](https://www.amazon.it/dp/B00KX3PF22/?tag=tolees00-21) con 53.25 de descuento por 4.67 EUR (original: 9.99 EUR) en el siguiente enlace!

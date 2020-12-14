@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MUWBVV9/?tag=tolees00-21'
 descuento: '25.72'
+average: '25.99'
 ---
 
 Está [Gillette Fusion ProShield Lamette di Ricambio per Rasoio Con Tecnologia FlexBall  confezione da 9 Lame + 1 Manico](https://www.amazon.it/dp/B01MUWBVV9/?tag=tolees00-21) con 25.72 de descuento por 25.99 EUR (original: 34.99 EUR) en el siguiente enlace!

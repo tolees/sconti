@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B073JV7WSD/?tag=tolees00-21'
 descuento: '54.10'
+average: '12.15'
 ---
 
 Ahora mismo tienes [Marchio Amazon - find. Bomber Imbottito Uomo  Blu  Navy   M  Label: M](https://www.amazon.it/dp/B073JV7WSD/?tag=tolees00-21) a 12.15 EUR (original: 26.47 EUR) (54.10 %  de descuento) en el siguiente enlace!

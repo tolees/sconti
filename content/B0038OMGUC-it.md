@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0038OMGUC/?tag=tolees00-21'
 descuento: '50.00'
+average: '80.0'
 ---
 
 Ahora mismo tienes [Camper Peu Cami 20848  Scarpe da Ginnastica Donna  Dark Brown  40 EU](https://www.amazon.it/dp/B0038OMGUC/?tag=tolees00-21) a 80.0 EUR (original: 160.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

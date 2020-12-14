@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0817KNMSZ/?tag=tolees00-21'
 descuento: '68.74'
+average: '12.5'
 ---
 
 Está [HP Envy Urban Sleeve per Notebook fino a 15.6"  Vano Imbottito  Tasca Ottimale per Bloccare i Lettori RFID  Tessuti e Cerniere Resistenti  Tessuto Impermeabile  Nero](https://www.amazon.it/dp/B0817KNMSZ/?tag=tolees00-21) con 68.74 de descuento por 12.5 EUR (original: 39.99 EUR) en el siguiente enlace!

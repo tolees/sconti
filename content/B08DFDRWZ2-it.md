@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DFDRWZ2/?tag=tolees00-21'
 descuento: '29.75'
+average: '20.23222222222222'
 ---
 
 Está [Auricolari Bluetooth TWS i12 Suono Stereo 3D Tocca Controllo Pop-Ups Auto Pairing 24 Ore di Riproduzione Carica Rapida IPX7 Impermeabile Cuffie Senza Fili per Sport e Musica Bianco](https://www.amazon.it/dp/B08DFDRWZ2/?tag=tolees00-21) con 29.75 de descuento por 13.98 EUR (original: 19.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TP417MD/?tag=tolees00-21'
 descuento: '75.87'
+average: '24.13'
 ---
 
 Está [Superdry Desert Alchemy Quilted Hoody Giacca  Arancione  Baja Orange 7sq   L Uomo](https://www.amazon.it/dp/B07TP417MD/?tag=tolees00-21) con 75.87 de descuento por 24.13 EUR (original: 99.99 EUR) en el siguiente enlace!

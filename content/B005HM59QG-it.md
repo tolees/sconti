@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B005HM59QG/?tag=tolees00-21'
 descuento: '79.32'
+average: '3.92'
 ---
 
 Está [My.Size Preservativi - Profilattici  53 mm  36](https://www.amazon.it/dp/B005HM59QG/?tag=tolees00-21) con 79.32 de descuento por 3.92 EUR (original: 18.96 EUR) en el siguiente enlace!

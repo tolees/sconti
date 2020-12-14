@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B016QM56RW/?tag=tolees00-21'
 descuento: '46.94'
+average: '21.361875'
 ---
 
 Tienes [Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta  Bianco  Bright White 100   Large Uomo](https://www.amazon.it/dp/B016QM56RW/?tag=tolees00-21) con un 46.94 % de descuento con precio de oferta de 21.17 EUR (original: 39.9 EUR) en el siguiente enlace!

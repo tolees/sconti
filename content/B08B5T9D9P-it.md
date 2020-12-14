@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08B5T9D9P/?tag=tolees00-21'
 descuento: '36.68'
+average: '18.99'
 ---
 
 Está [eXtremeRate Cover Scocca Joycon Guscio Custodia Case DIY Ricambio per Nintendo Switch Joy-Con Controller Rapsodia Viola  con Pulsanti ABXY Tasti Direzionali-Joycon NON Incluso](https://www.amazon.it/dp/B08B5T9D9P/?tag=tolees00-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

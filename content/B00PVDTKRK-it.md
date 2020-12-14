@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00PVDTKRK/?tag=tolees00-21'
 descuento: '47.01'
+average: '26.49'
 ---
 
 Tienes [D-Link DIR-809 Router Wireless  Tecnologia AC750  4 Porte Gigabit + WAN  3 Antenne Esterne  Modalità Range Extender Wi-Fi  Nero/Antracite](https://www.amazon.it/dp/B00PVDTKRK/?tag=tolees00-21) con un 47.01 % de descuento con precio de oferta de 26.49 EUR (original: 49.99 EUR) en el siguiente enlace!

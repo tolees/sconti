@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DHS8Y4G/?tag=tolees00-21'
 descuento: '55.00'
+average: '179.99'
 ---
 
 Ahora mismo tienes [Smartphone Offerta 4G  DOOGEE N20 Pro Cellulari Offerte  2020   6 GB + 128 GB  6 3’’ FHD+ Waterdrop Glass Back  Fotocamere 16MP+8MP+2MP+2MP  Dual SIM  4400mAh  Impronte/Face ID  Android 10.0 - Verde](https://www.amazon.it/dp/B08DHS8Y4G/?tag=tolees00-21) a 179.99 EUR (original: 399.99 EUR) (55.00 %  de descuento) en el siguiente enlace!

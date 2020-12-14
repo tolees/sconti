@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07T5KZR9J/?tag=tolees00-21'
 descuento: '29.74'
+average: '25.99'
 ---
 
 Tienes [Custodia per Samsung Galaxy Tab A 10.1 T510 / T515 / T517 2019  Custodia Antiurto Tutto il Corpo con Supporto Rotante 360 Portamatite Proteggi Schermo Cinghia per Mano per Samsung Tab A 10.1  Nero ](https://www.amazon.it/dp/B07T5KZR9J/?tag=tolees00-21) con un 29.74 % de descuento con precio de oferta de 25.99 EUR (original: 36.99 EUR) en el siguiente enlace!

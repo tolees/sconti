@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B089SPY65G/?tag=tolees00-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Está [MOSFiATA Set di Attrezzi da Giardino  Kit di Attrezzi da Giardinaggio per impieghi gravosi in Acciaio ad Alto tenore di Carbonio  cazzuola per trapianto e rastrello a Mano per coltivatore](https://www.amazon.it/dp/B089SPY65G/?tag=tolees00-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

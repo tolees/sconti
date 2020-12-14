@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TT71V7C/?tag=tolees00-21'
 descuento: '30.17'
+average: '18.992'
 ---
 
 Está [Levi s The Perfect Tee Maglietta  Bianco  Floral Filled Batwing White+ 0794   Medium  Herstellergröße: M  Donna](https://www.amazon.it/dp/B07TT71V7C/?tag=tolees00-21) con 30.17 de descuento por 20.95 EUR (original: 30.0 EUR) en el siguiente enlace!

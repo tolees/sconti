@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RP8TC24/?tag=tolees00-21'
 descuento: '28.01'
+average: '17.99'
 ---
 
 Tienes [Oral-B Kids Spazzolino Elettrico Ricaricabile 1 Manico con Personaggi Disney Pixar Frozen  per età da 3 anni](https://www.amazon.it/dp/B07RP8TC24/?tag=tolees00-21) con un 28.01 % de descuento con precio de oferta de 17.99 EUR (original: 24.99 EUR) en el siguiente enlace!

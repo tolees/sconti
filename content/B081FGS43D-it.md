@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081FGS43D/?tag=tolees00-21'
 descuento: '32.75'
+average: '269.0'
 ---
 
 Está [HP Color LaserJet Pro M283fdw  Stampante Wi-Fi Multifunzione  Fino a 21 ppm  fronte/retro automatico  ADF  Display Touchscreen  Bianca](https://www.amazon.it/dp/B081FGS43D/?tag=tolees00-21) con 32.75 de descuento por 269.0 EUR (original: 399.99 EUR) en el siguiente enlace!

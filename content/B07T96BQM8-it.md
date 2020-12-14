@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07T96BQM8/?tag=tolees00-21'
 descuento: '35.50'
+average: '19.99'
 ---
 
 Tienes [Victure 1080P Baby Monitor Telecamera WiFi Interno  Telecamera IP per Bambini e per Animali Domestici  Telecamera Interna con Visione Notturna e rilevazione di movimento con Audio Bidirezionale](https://www.amazon.it/dp/B07T96BQM8/?tag=tolees00-21) con un 35.50 % de descuento con precio de oferta de 19.99 EUR (original: 30.99 EUR) en el siguiente enlace!

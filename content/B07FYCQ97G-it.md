@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FYCQ97G/?tag=tolees00-21'
 descuento: '50.04'
+average: '11.99'
 ---
 
 Ahora mismo tienes [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Blu  Turquoise/Citrus Yellow   35/36 EU](https://www.amazon.it/dp/B07FYCQ97G/?tag=tolees00-21) a 11.99 EUR (original: 24.0 EUR) (50.04 %  de descuento) en el siguiente enlace!

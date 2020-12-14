@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BL8YM46/?tag=tolees00-21'
 descuento: '56.67'
+average: '129.98'
 ---
 
 Ahora mismo tienes [Mini Bluetooth WiFi Proiettore TOPTRO Proiettore Aggiornato con Mirroring Wireless da 5800 lumen 200" Proiettore Portatile da Home Theater Compatibile con TV Stick/ TVbox/Smartphone/PC/Laptop/PS4](https://www.amazon.it/dp/B08BL8YM46/?tag=tolees00-21) a 129.98 EUR (original: 299.99 EUR) (56.67 %  de descuento) en el siguiente enlace!

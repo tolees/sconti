@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V8VGJV1/?tag=tolees00-21'
 descuento: '46.64'
+average: '53.31'
 ---
 
 Está [Tommy Jeans Essential  Scarpe da Ginnastica Basse Uomo  Blu  Twilight Navy C87   45 EU](https://www.amazon.it/dp/B07V8VGJV1/?tag=tolees00-21) con 46.64 de descuento por 53.31 EUR (original: 99.9 EUR) en el siguiente enlace!

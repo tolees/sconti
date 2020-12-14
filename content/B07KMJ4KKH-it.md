@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KMJ4KKH/?tag=tolees00-21'
 descuento: '53.59'
+average: '18.16'
 ---
 
 Ahora mismo tienes [find. Round Toe Block Heel Leather Court Scarpe con Tacco  Beige   41 EU](https://www.amazon.it/dp/B07KMJ4KKH/?tag=tolees00-21) a 18.16 EUR (original: 39.13 EUR) (53.59 %  de descuento) en el siguiente enlace!

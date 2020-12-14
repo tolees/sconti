@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01DUX6Q6U/?tag=tolees00-21'
 descuento: '34.69'
+average: '2.09'
 ---
 
 Está [Kellogg S Extra Classico - 375 G](https://www.amazon.it/dp/B01DUX6Q6U/?tag=tolees00-21) con 34.69 de descuento por 2.09 EUR (original: 3.2 EUR) en el siguiente enlace!

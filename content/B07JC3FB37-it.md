@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JC3FB37/?tag=tolees00-21'
 descuento: '32.21'
+average: '36.54333333333334'
 ---
 
 Ahora mismo tienes [LEGO Juniors Buzz e Woody e La Mania del Carnevale  Gioco per Bambini  Multicolore  382 x 262 x 56.5 mm  10770](https://www.amazon.it/dp/B07JC3FB37/?tag=tolees00-21) a 33.89 EUR (original: 49.99 EUR) (32.21 %  de descuento) en el siguiente enlace!

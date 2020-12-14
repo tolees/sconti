@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BKWMRKX/?tag=tolees00-21'
 descuento: '62.96'
+average: '14.78'
 ---
 
 Está [Moleskine Edizione Box in Pelle Notebook Classic Pagina a Righe - Taccuino Copertina Rigida in Pelle e Chiusura ad Elastico  Colore Avio  Dimensione Large 13 x 21 cm  176 Pagine](https://www.amazon.it/dp/B07BKWMRKX/?tag=tolees00-21) con 62.96 de descuento por 14.78 EUR (original: 39.9 EUR) en el siguiente enlace!

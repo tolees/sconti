@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YXPKBF9/?tag=tolees00-21'
 descuento: '36.28'
+average: '21.66'
 ---
 
 Está [HOMIEE Zaino da Trekking 45 Litri  Resistente all Acqua  Zaino da Escursione per Trekking Alpinismo  Multifunzione Zaino da Campeggio per Sport Viaggio Donna e Uomo Verde](https://www.amazon.it/dp/B07YXPKBF9/?tag=tolees00-21) con 36.28 de descuento por 21.66 EUR (original: 33.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01DUX6P0C/?tag=tolees00-21'
 descuento: '34.69'
+average: '2.09'
 ---
 
 Está [Kellogg s Extra Cioccolato e Nocciole - 0.375 kg](https://www.amazon.it/dp/B01DUX6P0C/?tag=tolees00-21) con 34.69 de descuento por 2.09 EUR (original: 3.2 EUR) en el siguiente enlace!

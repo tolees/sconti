@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B015CH1PJU/?tag=tolees00-21'
 descuento: '63.30'
+average: '21.28'
 ---
 
 Está [Sandisk Ultra Flair 128 GB  Chiavetta USB 3.0  Velocità di Lettura fino a 150 MB/s  Nero](https://www.amazon.it/dp/B015CH1PJU/?tag=tolees00-21) con 63.30 de descuento por 21.28 EUR (original: 57.99 EUR) en el siguiente enlace!

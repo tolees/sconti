@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003HIWHN0/?tag=tolees00-21'
 descuento: '63.56'
+average: '7.006666666666667'
 ---
 
 Tienes [SanDisk Scheda di Memoria MicroSDHC 32 GB Classe 4](https://www.amazon.it/dp/B003HIWHN0/?tag=tolees00-21) con un 63.56 % de descuento con precio de oferta de 6.92 EUR (original: 18.99 EUR) en el siguiente enlace!

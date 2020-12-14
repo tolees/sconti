@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CXY73KF/?tag=tolees00-21'
 descuento: '34.76'
+average: '16.89'
 ---
 
 Ahora mismo tienes [Samsung Memorie MB-ME64GA EVO Select Scheda microSD da 64 GB  UHS-I U3  Fino a 100MB/s  con Adattatore SD](https://www.amazon.it/dp/B07CXY73KF/?tag=tolees00-21) a 16.89 EUR (original: 25.89 EUR) (34.76 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YDTQ6PH/?tag=tolees00-21'
 descuento: '26.60'
+average: '65.32'
 ---
 
 Está [10.1“ pollici Tablet Android 8.1 Phablet Octa Core 4 GB RAM 64 GB ROM 3G Phablet con WiFi GPS Bluetooth Netflix Google Play  Nero   Argento ](https://www.amazon.it/dp/B07YDTQ6PH/?tag=tolees00-21) con 26.60 de descuento por 65.32 EUR (original: 88.99 EUR) en el siguiente enlace!

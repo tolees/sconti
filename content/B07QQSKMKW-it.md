@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QQSKMKW/?tag=tolees00-21'
 descuento: '30.15'
+average: '69.49'
 ---
 
 Está [TACKLIFE T8 Avviatore di Emergenza - 18000 mAh  800A Avviatore Auto Portatile per Motore Benzina Fino a 7.0L e Diesel 5.5L  12V Jump Starter  Torcia Elettrica a LED  Doppie Porte USB](https://www.amazon.it/dp/B07QQSKMKW/?tag=tolees00-21) con 30.15 de descuento por 69.49 EUR (original: 99.49 EUR) en el siguiente enlace!

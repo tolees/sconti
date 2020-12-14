@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KG2RWFL/?tag=tolees00-21'
 descuento: '60.49'
+average: '31.59'
 ---
 
 Tienes [Puma Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco  Weiß White White Jaffa Orange   36 EU](https://www.amazon.it/dp/B07KG2RWFL/?tag=tolees00-21) con un 60.49 % de descuento con precio de oferta de 31.59 EUR (original: 79.95 EUR) en el siguiente enlace!

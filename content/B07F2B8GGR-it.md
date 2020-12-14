@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F2B8GGR/?tag=tolees00-21'
 descuento: '50.08'
+average: '32.45'
 ---
 
 Ahora mismo tienes [Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Bianco  Light Grey Canvas   45 EU](https://www.amazon.it/dp/B07F2B8GGR/?tag=tolees00-21) a 32.45 EUR (original: 65.0 EUR) (50.08 %  de descuento) en el siguiente enlace!

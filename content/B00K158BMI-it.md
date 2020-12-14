@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00K158BMI/?tag=tolees00-21'
 descuento: '51.24'
+average: '20.48'
 ---
 
 Ahora mismo tienes [Orologio da Donna Casio H5LTP-1259PD-2AEF](https://www.amazon.it/dp/B00K158BMI/?tag=tolees00-21) a 20.48 EUR (original: 42.0 EUR) (51.24 %  de descuento) en el siguiente enlace!

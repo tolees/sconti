@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08DJ493LN/?tag=tolees00-21'
 descuento: '44.32'
+average: '63.99'
 ---
 
 Tienes [Hunty Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Blu ](https://www.amazon.it/dp/B08DJ493LN/?tag=tolees00-21) con un 44.32 % de descuento con precio de oferta de 63.99 EUR (original: 114.92 EUR) en el siguiente enlace!

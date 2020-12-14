@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VNQ2NN2/?tag=tolees00-21'
 descuento: '37.52'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Astuccio Scuola con 3 Scomparti  lunaoo Grande Multifunzione Astucci Penne con Cerniera per Ragazzo & Ragazza  22CM Camouflage blu ](https://www.amazon.it/dp/B07VNQ2NN2/?tag=tolees00-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

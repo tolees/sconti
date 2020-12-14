@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CKKNK5J/?tag=tolees00-21'
 descuento: '31.23'
+average: '10.99'
 ---
 
 Está [STN Compatibile con Xiaomi Mi Band 5 Smart Strap Cinturini di Ricambio in Silicone per Xiaomi Mi Band 5 Smart Bracelet Cinturino Display a Colori NFC  14PCS ](https://www.amazon.it/dp/B08CKKNK5J/?tag=tolees00-21) con 31.23 de descuento por 10.99 EUR (original: 15.98 EUR) en el siguiente enlace!

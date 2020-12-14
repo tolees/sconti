@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GBDQ1W1/?tag=tolees00-21'
 descuento: '54.67'
+average: '53.94'
 ---
 
 Tienes [Pulsar Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inox PT3943X1](https://www.amazon.it/dp/B07GBDQ1W1/?tag=tolees00-21) con un 54.67 % de descuento con precio de oferta de 53.94 EUR (original: 119.0 EUR) en el siguiente enlace!

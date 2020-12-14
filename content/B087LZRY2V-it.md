@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087LZRY2V/?tag=tolees00-21'
 descuento: '25.94'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Auricolare Bluetooth Senza Fili  Cuffie Wireless Stereo 3D with IPX8 Impermeabile  Accoppiamento Automatico Per Chiamate Binaurali  Adatto Compatibile con iPhone/Android/Apple AirPods](https://www.amazon.it/dp/B087LZRY2V/?tag=tolees00-21) a 19.99 EUR (original: 26.99 EUR) (25.94 %  de descuento) en el siguiente enlace!

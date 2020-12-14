@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01CHXMO1K/?tag=tolees00-21'
 descuento: '90.64'
+average: '14.0'
 ---
 
 Ahora mismo tienes [Nilox Bodyguard Smartwatch e Tracker GPS  Nero](https://www.amazon.it/dp/B01CHXMO1K/?tag=tolees00-21) a 14.0 EUR (original: 149.5 EUR) (90.64 %  de descuento) en el siguiente enlace!

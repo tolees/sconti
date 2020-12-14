@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07F1S9DBG/?tag=tolees00-21'
 descuento: '70.00'
+average: '158.98'
 ---
 
 Ahora mismo tienes [EVERGREENWEB Kit Rete e Materasso Singolo 80x190 Alto 20 cm con Cuscino Memory Foam Gratis  Set Letto Materasso Effetto MASSAGGIANTE e Rete Singola a Doghe in Legno Modello Apple Ortopedica Offerta](https://www.amazon.it/dp/B07F1S9DBG/?tag=tolees00-21) a 158.98 EUR (original: 530.0 EUR) (70.00 %  de descuento) en el siguiente enlace!

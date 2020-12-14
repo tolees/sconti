@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21'
 descuento: '33.35'
+average: '49.99'
 ---
 
 Tienes [De Longhi friggitrice F13205](https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21) con un 33.35 % de descuento con precio de oferta de 49.99 EUR (original: 75.0 EUR) en el siguiente enlace!

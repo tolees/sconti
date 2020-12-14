@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B071SDVC6Z/?tag=tolees00-21'
 descuento: '26.45'
+average: '10.29'
 ---
 
 Ahora mismo tienes [Gillette Series Pelli Sensibili Gel da Barba  Pacco da 6 x 75 ml  Formato da Viaggio](https://www.amazon.it/dp/B071SDVC6Z/?tag=tolees00-21) a 10.29 EUR (original: 13.99 EUR) (26.45 %  de descuento) en el siguiente enlace!

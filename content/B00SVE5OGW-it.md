@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00SVE5OGW/?tag=tolees00-21'
 descuento: '54.18'
+average: '44.9'
 ---
 
 Ahora mismo tienes [GREAT ART Fotomurale – Mappamondo – Decorazione Sguardo Usato Dekoration Old School Vintage World-Map Continenti Atlante retrò Globo di Mondo Geografia 336 x 238 cm](https://www.amazon.it/dp/B00SVE5OGW/?tag=tolees00-21) a 44.9 EUR (original: 98.0 EUR) (54.18 %  de descuento) en el siguiente enlace!

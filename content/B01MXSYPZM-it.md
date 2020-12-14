@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MXSYPZM/?tag=tolees00-21'
 descuento: '52.06'
+average: '11.5'
 ---
 
 Está [Lower East impermeable Uomo  Blu  Navy   Medium](https://www.amazon.it/dp/B01MXSYPZM/?tag=tolees00-21) con 52.06 de descuento por 11.5 EUR (original: 23.99 EUR) en el siguiente enlace!

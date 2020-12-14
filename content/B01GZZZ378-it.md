@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01GZZZ378/?tag=tolees00-21'
 descuento: '25.15'
+average: '117.7'
 ---
 
 Está [Emporio Armani Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile AR2500](https://www.amazon.it/dp/B01GZZZ378/?tag=tolees00-21) con 25.15 de descuento por 117.7 EUR (original: 157.24 EUR) en el siguiente enlace!

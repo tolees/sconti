@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B001OHUFTE/?tag=tolees00-21'
 descuento: '26.52'
+average: '0.97'
 ---
 
 Está [Gran Cereale Biscotti Gran Cereale Croccante con Riso  Ricchi di Fibra e Fosforo - 230 g](https://www.amazon.it/dp/B001OHUFTE/?tag=tolees00-21) con 26.52 de descuento por 0.97 EUR (original: 1.32 EUR) en el siguiente enlace!

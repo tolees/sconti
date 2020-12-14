@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07WCFF4PS/?tag=tolees00-21'
 descuento: '63.69'
+average: '4.24'
 ---
 
 Ahora mismo tienes [Az Ricerca Dentifricio Pro-Expert Prevenzione Superiore 3 x 75ml](https://www.amazon.it/dp/B07WCFF4PS/?tag=tolees00-21) a 3.99 EUR (original: 10.99 EUR) (63.69 %  de descuento) en el siguiente enlace!

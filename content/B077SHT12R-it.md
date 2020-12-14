@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077SHT12R/?tag=tolees00-21'
 descuento: '28.92'
+average: '17.7'
 ---
 
 Ahora mismo tienes [Yankee Candle candela profumata in giara media  Un luogo calmo e tranquillo  durata: fino a 75 ore](https://www.amazon.it/dp/B077SHT12R/?tag=tolees00-21) a 17.7 EUR (original: 24.9 EUR) (28.92 %  de descuento) en el siguiente enlace!

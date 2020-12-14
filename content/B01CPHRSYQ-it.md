@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01CPHRSYQ/?tag=tolees00-21'
 descuento: '44.85'
+average: '6.1'
 ---
 
 Está [keeeper Set da 5 Contenitori per Congelare Alimenti  Coperchio Scrivibile  5 x 500 ml  15 5 x 10 5 x 6 cm  Mia Polar  Blu ghiaccio Trasparente](https://www.amazon.it/dp/B01CPHRSYQ/?tag=tolees00-21) con 44.85 de descuento por 6.1 EUR (original: 11.06 EUR) en el siguiente enlace!

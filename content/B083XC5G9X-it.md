@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083XC5G9X/?tag=tolees00-21'
 descuento: '30.00'
+average: '135.0'
 ---
 
 Está [Manfrotto Befree Advanced Camo  Kit Treppiede Advanced Travel  con Testa a Sfera con Controlli Ergonomici  Chiusure Twist Lock  Treppiede Fotografico  Cavalletto per Videocamera e Fotocamera  Grigio](https://www.amazon.it/dp/B083XC5G9X/?tag=tolees00-21) con 30.00 de descuento por 135.0 EUR (original: 192.85 EUR) en el siguiente enlace!

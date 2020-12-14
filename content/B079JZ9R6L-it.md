@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B079JZ9R6L/?tag=tolees00-21'
 descuento: '46.43'
+average: '299.99'
 ---
 
 Está [Philips Serie 5000 EP5310/10 Macchina da Caffè Automatica con Macine in Ceramica e Filtro AquaClean  Pannarello Classico  Nero](https://www.amazon.it/dp/B079JZ9R6L/?tag=tolees00-21) con 46.43 de descuento por 299.99 EUR (original: 559.99 EUR) en el siguiente enlace!

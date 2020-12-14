@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Q8KGNY1/?tag=tolees00-21'
 descuento: '30.07'
+average: '299.99'
 ---
 
 Está [HISENSE APC12 Climatizzatore d’Aria Portatile da 12000 BTU con Gas R290  380m3/h  Bianco  Classe di Efficienza Energetica A](https://www.amazon.it/dp/B07Q8KGNY1/?tag=tolees00-21) con 30.07 de descuento por 299.99 EUR (original: 429.0 EUR) en el siguiente enlace!

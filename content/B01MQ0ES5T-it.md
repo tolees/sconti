@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MQ0ES5T/?tag=tolees00-21'
 descuento: '38.27'
+average: '11.92'
 ---
 
 Tienes [PURINA GOURMET MON PETIT Umido Gatto Invitanti Ricette con Tonno  Salmone e Trota - 48 buste da 50g ciascuna  8 confezioni da 6x50g ](https://www.amazon.it/dp/B01MQ0ES5T/?tag=tolees00-21) con un 38.27 % de descuento con precio de oferta de 11.92 EUR (original: 19.31 EUR) en el siguiente enlace!

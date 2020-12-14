@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00E4KWUCS/?tag=tolees00-21'
 descuento: '50.40'
+average: '7.39'
 ---
 
 Está [L Oréal Paris Dermo Expertise Soin  Revitalift Trattamento Rimagliante Anti-Rughe e Rassodante  50 ml](https://www.amazon.it/dp/B00E4KWUCS/?tag=tolees00-21) con 50.40 de descuento por 7.39 EUR (original: 14.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B004JY0KP8/?tag=tolees00-21'
 descuento: '57.29'
+average: '85.0'
 ---
 
 Tienes [Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Pelle SNDC31P1](https://www.amazon.it/dp/B004JY0KP8/?tag=tolees00-21) con un 57.29 % de descuento con precio de oferta de 85.0 EUR (original: 199.0 EUR) en el siguiente enlace!

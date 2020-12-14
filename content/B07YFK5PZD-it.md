@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07YFK5PZD/?tag=tolees00-21'
 descuento: '27.78'
+average: '12.27'
 ---
 
 Tienes [UGREEN Caricabatterie MacBook Air Caricatore USB C 30W Power Delivery PD Quick Charge 3.0 Compatible with iPad PRO iPad Air 2019 iPhone 11 PRO Max XS Max  Xiaomi Mi 9 9T Samsung S20 Huawei P30](https://www.amazon.it/dp/B07YFK5PZD/?tag=tolees00-21) con un 27.78 % de descuento con precio de oferta de 12.27 EUR (original: 16.99 EUR) en el siguiente enlace!

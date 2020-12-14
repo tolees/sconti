@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FHDTN13/?tag=tolees00-21'
 descuento: '30.05'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Vans Left Chest Logo Tee T-Shirt Uomo  Bianco  White   Medium  93 - 102 cm ](https://www.amazon.it/dp/B07FHDTN13/?tag=tolees00-21) a 13.99 EUR (original: 20.0 EUR) (30.05 %  de descuento) en el siguiente enlace!

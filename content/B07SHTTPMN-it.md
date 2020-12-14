@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SHTTPMN/?tag=tolees00-21'
 descuento: '40.00'
+average: '18.0'
 ---
 
 Está [Havaianas Slim Logo Metallic  Infradito Donna  Grigio  Steel Grey/Rainbow Grey Glitter 7864   39/40 EU](https://www.amazon.it/dp/B07SHTTPMN/?tag=tolees00-21) con 40.00 de descuento por 18.0 EUR (original: 30.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08CVNXNXF/?tag=tolees00-21'
 descuento: '30.90'
+average: '37.99'
 ---
 
 Ahora mismo tienes [TUTUO Wireless Controller per Nintendo Switch  Bluetooth Joystick Gamepad Sostituzione per JoyCon  Dual Motori Axis Gyro Compatibile con Nintendo Switch PRO  Verde e Rosa ](https://www.amazon.it/dp/B08CVNXNXF/?tag=tolees00-21) a 37.99 EUR (original: 54.98 EUR) (30.90 %  de descuento) en el siguiente enlace!

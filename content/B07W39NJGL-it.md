@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07W39NJGL/?tag=tolees00-21'
 descuento: '32.74'
+average: '13.99'
 ---
 
 Está [Dischetti Struccanti Lavabili in Bamboo 10 Pezzi - Riutilizzabili Due Tipi per Uso Quotidiano e Scrub - Bambù e Cotone Salviette Pad Zero Waste Panno Bellezza Viso Contorno Occhi](https://www.amazon.it/dp/B07W39NJGL/?tag=tolees00-21) con 32.74 de descuento por 13.99 EUR (original: 20.8 EUR) en el siguiente enlace!

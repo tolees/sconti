@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B006JN9FVC/?tag=tolees00-21'
 descuento: '31.47'
+average: '47.9'
 ---
 
 Tienes [Ardes AR2480 Paiolo In Rame Per Polenta e Marmellata Porzioni Per 8/12 Persone Diametro 28 cm](https://www.amazon.it/dp/B006JN9FVC/?tag=tolees00-21) con un 31.47 % de descuento con precio de oferta de 47.9 EUR (original: 69.9 EUR) en el siguiente enlace!

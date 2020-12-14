@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07DKWDHX9/?tag=tolees00-21'
 descuento: '46.68'
+average: '15.99'
 ---
 
 Está [Active Era Bilancia Pesapersone Digitale Ultrasottile con Sensori di Precisione Accensione e Spegnimento Automatico in Vetro Temperato. Misurazione in stone/kg/libbre. Bianco](https://www.amazon.it/dp/B07DKWDHX9/?tag=tolees00-21) con 46.68 de descuento por 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!

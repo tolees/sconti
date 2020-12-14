@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00UTYBLKK/?tag=tolees00-21'
 descuento: '45.78'
+average: '48.8'
 ---
 
 Tienes [Diadora - Sneakers Game L Low Waxed per Uomo e Donna  EU 40.5 ](https://www.amazon.it/dp/B00UTYBLKK/?tag=tolees00-21) con un 45.78 % de descuento con precio de oferta de 48.8 EUR (original: 90.0 EUR) en el siguiente enlace!

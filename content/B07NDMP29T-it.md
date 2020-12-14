@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NDMP29T/?tag=tolees00-21'
 descuento: '85.85'
+average: '38.21'
 ---
 
 Tienes [G-STAR RAW Arctic Expedition Giacca  Nero  Dk Black 6484   X-Small Uomo](https://www.amazon.it/dp/B07NDMP29T/?tag=tolees00-21) con un 85.85 % de descuento con precio de oferta de 38.21 EUR (original: 269.95 EUR) en el siguiente enlace!

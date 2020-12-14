@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00R7PSPS0/?tag=tolees00-21'
 descuento: '34.67'
+average: '130.0'
 ---
 
 Está [Citizen Orologio Cronografo Quarzo Uomo con Cinturino in Pelle CA4210-16E](https://www.amazon.it/dp/B00R7PSPS0/?tag=tolees00-21) con 34.67 de descuento por 130.0 EUR (original: 199.0 EUR) en el siguiente enlace!

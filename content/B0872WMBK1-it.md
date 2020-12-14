@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0872WMBK1/?tag=tolees00-21'
 descuento: '28.45'
+average: '12.95'
 ---
 
 Tienes [L3 Tech Custodia Rigida per SSD SanDisk Extreme PRO da 1 TB / 2 TB / 250 GB / 500 GB Extreme  Custodia per Il Trasporto - Nero  Fodera Grigia   Solo Custodia ](https://www.amazon.it/dp/B0872WMBK1/?tag=tolees00-21) con un 28.45 % de descuento con precio de oferta de 12.95 EUR (original: 18.1 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08JM1PLYC/?tag=tolees00-21'
 descuento: '53.25'
+average: '8.99'
 ---
 
 Tienes [[2+3 pezzi] UniqueMe Vetro Temperato per Xiaomi Poco X3 NFC +[Bubble-Free] Pellicola Fotocamera per Xiaomi Poco X3 NFC Vetro [Facile installare].](https://www.amazon.it/dp/B08JM1PLYC/?tag=tolees00-21) con un 53.25 % de descuento con precio de oferta de 8.99 EUR (original: 19.23 EUR) en el siguiente enlace!

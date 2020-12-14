@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RZM8BJR/?tag=tolees00-21'
 descuento: '50.17'
+average: '14.95'
 ---
 
 Tienes [Levi s Housemark Graphic Tee T-Shirt  Nero  Ssnl HM Forge Iron 0248   Small Uomo](https://www.amazon.it/dp/B07RZM8BJR/?tag=tolees00-21) con un 50.17 % de descuento con precio de oferta de 14.95 EUR (original: 30.0 EUR) en el siguiente enlace!

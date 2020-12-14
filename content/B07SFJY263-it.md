@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SFJY263/?tag=tolees00-21'
 descuento: '85.73'
+average: '19.656666666666666'
 ---
 
 Tienes [FIFA 20 - Standard - PlayStation 4](https://www.amazon.it/dp/B07SFJY263/?tag=tolees00-21) con un 85.73 % de descuento con precio de oferta de 9.99 EUR (original: 69.99 EUR) en el siguiente enlace!

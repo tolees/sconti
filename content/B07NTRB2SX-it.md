@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NTRB2SX/?tag=tolees00-21'
 descuento: '57.81'
+average: '2.0'
 ---
 
 Tienes [Rimmel 60 Seconds Super-Shine  Smalto Per Unghie  Sea Nymph - 20 Gr](https://www.amazon.it/dp/B07NTRB2SX/?tag=tolees00-21) con un 57.81 % de descuento con precio de oferta de 2.0 EUR (original: 4.74 EUR) en el siguiente enlace!

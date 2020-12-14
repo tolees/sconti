@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00BLKVME6/?tag=tolees00-21'
 descuento: '52.66'
+average: '151.5'
 ---
 
 Tienes [Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inox SSC141P1](https://www.amazon.it/dp/B00BLKVME6/?tag=tolees00-21) con un 52.66 % de descuento con precio de oferta de 151.0 EUR (original: 319.0 EUR) en el siguiente enlace!

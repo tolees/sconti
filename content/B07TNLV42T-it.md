@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TNLV42T/?tag=tolees00-21'
 descuento: '40.02'
+average: '29.99'
 ---
 
 Está [Levi s Original Batwing Maglietta  Bianco  HM Patch Polo White + 0000   X-Small Uomo](https://www.amazon.it/dp/B07TNLV42T/?tag=tolees00-21) con 40.02 de descuento por 29.99 EUR (original: 50.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PH28CRB/?tag=tolees00-21'
 descuento: '40.94'
+average: '59.0'
 ---
 
 Ahora mismo tienes [BLACK+DECKER BHHV315J-QW  Aspiratore Ricaricabile Aspirabriciole Litio  18Wh  capacità Contenitore 700ml  Azione Ciclonica  con Accessori e Jack di Ricarica  12V](https://www.amazon.it/dp/B07PH28CRB/?tag=tolees00-21) a 59.0 EUR (original: 99.9 EUR) (40.94 %  de descuento) en el siguiente enlace!

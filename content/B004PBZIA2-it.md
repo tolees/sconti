@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B004PBZIA2/?tag=tolees00-21'
 descuento: '25.03'
+average: '75.0'
 ---
 
 Tienes [Seiko Orologio Analogico Automatico Uomo con Cinturino in Acciaio Inox SNKK07K1](https://www.amazon.it/dp/B004PBZIA2/?tag=tolees00-21) con un 25.03 % de descuento con precio de oferta de 75.0 EUR (original: 100.04 EUR) en el siguiente enlace!

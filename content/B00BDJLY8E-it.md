@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00BDJLY8E/?tag=tolees00-21'
 descuento: '60.13'
+average: '81.78'
 ---
 
 Ahora mismo tienes [Accurist Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox LB1791.01](https://www.amazon.it/dp/B00BDJLY8E/?tag=tolees00-21) a 81.78 EUR (original: 205.11 EUR) (60.13 %  de descuento) en el siguiente enlace!

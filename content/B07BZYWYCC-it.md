@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07BZYWYCC/?tag=tolees00-21'
 descuento: '28.88'
+average: '364.8'
 ---
 
 Está [TomTom Rider 550 Navigatore per Moto](https://www.amazon.it/dp/B07BZYWYCC/?tag=tolees00-21) con 28.88 de descuento por 364.8 EUR (original: 512.93 EUR) en el siguiente enlace!

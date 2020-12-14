@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XGGCKLK/?tag=tolees00-21'
 descuento: '41.38'
+average: '27.74'
 ---
 
 Tienes [find. Scarpe Derby Uomo  Nero  Black   39/40 EU](https://www.amazon.it/dp/B06XGGCKLK/?tag=tolees00-21) con un 41.38 % de descuento con precio de oferta de 27.74 EUR (original: 47.32 EUR) en el siguiente enlace!

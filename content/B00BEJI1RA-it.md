@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00BEJI1RA/?tag=tolees00-21'
 descuento: '50.49'
+average: '1.22'
 ---
 
 Está [Neutro Roberts Sapone Solido Idratante - 400 g](https://www.amazon.it/dp/B00BEJI1RA/?tag=tolees00-21) con 50.49 de descuento por 1.53 EUR (original: 3.09 EUR) en el siguiente enlace!

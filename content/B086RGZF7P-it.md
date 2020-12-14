@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B086RGZF7P/?tag=tolees00-21'
 descuento: '28.50'
+average: '99.99'
 ---
 
 Tienes [Pistola Massaggio Muscolare Massage Gun Rarurko Pistola a Fascia con 6 Velocità 6 Testine Massaggianti Progettata per Rilassare i Muscoli  Alleviare il Dolore](https://www.amazon.it/dp/B086RGZF7P/?tag=tolees00-21) con un 28.50 % de descuento con precio de oferta de 99.99 EUR (original: 139.85 EUR) en el siguiente enlace!

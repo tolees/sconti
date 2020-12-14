@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NLQ4P8W/?tag=tolees00-21'
 descuento: '66.39'
+average: '50.0'
 ---
 
 Está [Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione  Bassi Potenti con Driver da 40 mm  24 Ore di Riproduzione Wireless  Noise Cancelling  Comandi Vocali  Design Rétro Contemporaneo  Nero](https://www.amazon.it/dp/B07NLQ4P8W/?tag=tolees00-21) con 66.39 de descuento por 50.0 EUR (original: 148.75 EUR) en el siguiente enlace!

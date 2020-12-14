@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07FC9HBHX/?tag=tolees00-21'
 descuento: '48.01'
+average: '41.989999999999995'
 ---
 
 Está [Homever Coltelli da cucina  Ceppo Coltelli  Coltelli da Chef Professionale  Coltello da Cuoco Lama Acciaio Inossidabile Set Coltelli in Acciaio Inox con Blocco di Legno  Adatto per Tagliare Verdure  Carne e Frutta  6 pezzi](https://www.amazon.it/dp/B07FC9HBHX/?tag=tolees00-21) con 48.01 de descuento por 25.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VNNRZHF/?tag=tolees00-21'
 descuento: '60.00'
+average: '25.74'
 ---
 
 Está [Calvin Klein Medium Drawstring Pantaloncini  Blu  Black Iris CBK   Uomo](https://www.amazon.it/dp/B07VNNRZHF/?tag=tolees00-21) con 60.00 de descuento por 25.74 EUR (original: 64.35 EUR) en el siguiente enlace!

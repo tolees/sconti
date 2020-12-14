@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00L3Z9OHG/?tag=tolees00-21'
 descuento: '28.24'
+average: '57.41'
 ---
 
 Tienes [Lacoste NH1112FG  Portamonete Uomo  Nero  Black   9.5 x 3 x 11.5 cM](https://www.amazon.it/dp/B00L3Z9OHG/?tag=tolees00-21) con un 28.24 % de descuento con precio de oferta de 57.41 EUR (original: 80.0 EUR) en el siguiente enlace!

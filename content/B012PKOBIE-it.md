@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B012PKOBIE/?tag=tolees00-21'
 descuento: '57.87'
+average: '107.4'
 ---
 
 Tienes [Lexar 64GB 3500x Pro CFast Compact Flash Card -  LC64GCRBEU3500](https://www.amazon.it/dp/B012PKOBIE/?tag=tolees00-21) con un 57.87 % de descuento con precio de oferta de 107.4 EUR (original: 254.9 EUR) en el siguiente enlace!

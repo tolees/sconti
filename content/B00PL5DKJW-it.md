@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00PL5DKJW/?tag=tolees00-21'
 descuento: '26.45'
+average: '21.99'
 ---
 
 Ahora mismo tienes [Yankee Candle candela profumata in giara grande  Lampone rosso  durata: fino a 150 ore](https://www.amazon.it/dp/B00PL5DKJW/?tag=tolees00-21) a 21.99 EUR (original: 29.9 EUR) (26.45 %  de descuento) en el siguiente enlace!
