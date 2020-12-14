@@ -24,7 +24,7 @@ Está [PlayStation 4 - Dualshock 4 Controller Wireless V2 Black + FIFA 21  Codic
 
 ℹ️:
 
-- Il bundle contiene: Dualshock 4 V2 Black, codice digital di FIFA 21, Codice Promo PS Plus 14 gg, Codice Promo FUT 21
 - Gioca al nuovo FIFA 21 con il bundle esclusivo Dualshock 4!
+- Il bundle contiene: Dualshock 4 V2 Black, codice digital di FIFA 21, Codice Promo PS Plus 14 gg, Codice Promo FUT 21
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08HT6H2DN/?tag=tolees00-21)

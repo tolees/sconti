@@ -25,9 +25,9 @@ Está [Geographical Norway - Felpa da donna GYMCLASS grigio melange M](https://w
 ℹ️:
 
 - Mezza cerniera.
-- Con tasche.
 - Logo della marca nella parte centrale anteriore.
 - Lacci regolabili.
 - Con cappuccio.
+- Con tasche.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08MGT2RTQ/?tag=tolees00-21)

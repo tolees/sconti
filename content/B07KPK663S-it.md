@@ -24,9 +24,9 @@ Está [Funko- Pop Deluxe: Game of Thrones S10: Jon Snow Sitting on Iron Throne F
 
 ℹ️:
 
-- Game of thrones s10
-- Jon snow sitting on iron throne
 - Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Pop! deluxe
+- Jon snow sitting on iron throne
+- Game of thrones s10
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07KPK663S/?tag=tolees00-21)

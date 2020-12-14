@@ -25,8 +25,8 @@ Tienes [Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio In
 ℹ️:
 
 - Quadrante in tonalità gold con effetto sunray e indici in tonalità gold - movimento a 3 sfere - Lancette in tonalità gold - Vetro minerale
-- MICHAEL KORS orologio da donna - Cassa rotonda in acciaio (diam. 33 mm) con finitura lucida in tonalità gold- Impermeabilità 5 ATM
 - Venduto e spedito con la Gift Box MICHAEL KORS
 - Bracciale in acciaio con finitura lucida in tonalità gold - Chiusura deployante
+- MICHAEL KORS orologio da donna - Cassa rotonda in acciaio (diam. 33 mm) con finitura lucida in tonalità gold- Impermeabilità 5 ATM
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00TISTGKA/?tag=tolees00-21)

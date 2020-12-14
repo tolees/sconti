@@ -24,9 +24,9 @@ Está [Funko Pop: Fortnite: High Rise Assault Trooper  Multicolore  34465](https
 
 ℹ️:
 
+- High Rise Assault Trooper
+- Funko
 - Fortnite
 - Funko Pop!
-- Funko
-- High Rise Assault Trooper
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07HQ18JTW/?tag=tolees00-21)

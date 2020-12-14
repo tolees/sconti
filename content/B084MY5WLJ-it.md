@@ -24,9 +24,9 @@ Ahora mismo tienes [Lisciani Giochi Montessori Alfabetiere Tattile Elettronico](
 
 🔎:
 
+- View, touch, hearing
 - with frosted letters: letters and words, sounds and nursery rhymes, quiz
 - Large touch alphabet
 - Electronic game, instruction manual
-- View, touch, hearing
 
 [Visítala!!!](https://www.amazon.it/dp/B084MY5WLJ/?tag=tolees00-21)
