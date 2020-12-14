@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Bralette Reggiseno a Triang al 35.94 % de descuento'
-date: 2020-12-10 03:13:09
+date: 2020-12-13 23:48:29
 image: 'https://m.media-amazon.com/images/I/41sHwpZq3oL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Está [Calvin Klein Bralette Reggiseno a Triangolo  Nero  Black 001   XS Donna](
 
 ℹ️:
 
+- Supporto leggero
+- Logo Calvin Klein in vita
+- Reggiseno sportivo
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01CGDEYNM/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.96 % en PUMA Smash V2  Scarpe da Ginnastica Unis'
-date: 2020-12-12 23:28:52
+date: 2020-12-13 23:47:50
 image: 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Tienes [PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Blu  Peacoat White   
 
 ℹ️:
 
-- Materiale esterno: pelle
-- Materiale suola: gomma
 - Fodera: maglia
 - Pelle
+- Materiale suola: gomma
+- Materiale esterno: pelle
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B077MPN7KG/?tag=tolees00-21)
