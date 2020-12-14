@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.19 % en TP-Link TL-SF1005D Switch Desktop  5 Por'
-date: 2020-12-13 05:41:45
+date: 2020-12-14 06:02:16
 image: 'https://m.media-amazon.com/images/I/31DRzr1MWGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Tienes [TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug & Play
 
 ℹ️:
 
-- Con auto-negoziazione, supporta auto MDI/MDIX
-- Nessuna configurazione richiesta
-- Telaio in plastica, predisposto per linstallazione su scrivania
-- ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
-- Controllo di flusso IEEE 802.3x per un trasferimento dati affidabile
+- Plastic case, desktop design
+- Five 10/100 Mbps auto-negotiation RJ45 ports, supports auto MDI / MDIX
+- Plug-and-Play, requires no configuration
+- IEEE 802.3x flow control provides reliable data transfer
+- Green Ethernet technology saves the power up to 60%
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21)

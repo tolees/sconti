@@ -24,15 +24,15 @@ Tienes [LEGO Technic Auto da Rally Top Gear Telecomandata CONTROL+  Set di 
 
 ℹ️:
 
-- I modelli giocattolo LEGO soddisfano elevati standard del settore, per garantire che ogni kit costruibile sia sempre omogeneo, con elementi che si montano e si smontano facilmente
-- Questo modello di auto da rally è controllato tramite l’app LEGO Technic CONTROL+ e alimentato da uno Smart Hub avanzato con 1 motore XL e 1 motore L per un’esperienza di gioco più coinvolgente
-- Lunga 26 cm, elevata 10 cm e larga 14 cm, questa auto giocattolo motorizzata possiede dimensione ottimali per giocare/da esposizione; nota: non è compatibile con i sistemi LEGO Power Functions
-- Sono necessarie batterie? La costruzione può iniziare senza batterie, ma per sfruttare tutte le potenzialità del gioco digitale con i comandi dellapp, dovrai inserire 6 batterie AA da 1.5 V
-- Grazie a veicoli dal design realistico e dotati di funzioni ottime, questi set costruibili consentono di continuare a divertirsi a lungo anche dopo aver completato la costruzione del modello
-- I kit di modelli in plastica LEGO Technic vengono sottoposti a test accurati, per verificare che ognuno di questi ottimi giocattoli soddisfi elevati standard globali di sicurezza e qualità
-- I fan di Top Gear vivono nella corsia di sorpasso; nella confezione troverai istruzioni facili da seguire; ti permetteranno di iniziare subito a divertirti con questo giocattolo controllato dallapp
-- L’Auto da Rally Top Gear telecomandata permetterà agli appassionati di auto da corsa di affrontare una sfida di guida avvincente; modello azionato tramite un dispositivo intelligente con 3 schermi
 - Sei alla ricerca di un regalo Top Gear o LEGO? Gli appassionati di corse dai 9 anni in su adoreranno questo set costruibile, che probabilmente conquisterà anche parecchi appassionati di Top Gear
+- Grazie a veicoli dal design realistico e dotati di funzioni ottime, questi set costruibili consentono di continuare a divertirsi a lungo anche dopo aver completato la costruzione del modello
+- I fan di Top Gear vivono nella corsia di sorpasso; nella confezione troverai istruzioni facili da seguire; ti permetteranno di iniziare subito a divertirti con questo giocattolo controllato dallapp
+- Sono necessarie batterie? La costruzione può iniziare senza batterie, ma per sfruttare tutte le potenzialità del gioco digitale con i comandi dellapp, dovrai inserire 6 batterie AA da 1.5 V
+- Lunga 26 cm, elevata 10 cm e larga 14 cm, questa auto giocattolo motorizzata possiede dimensione ottimali per giocare/da esposizione; nota: non è compatibile con i sistemi LEGO Power Functions
+- I modelli giocattolo LEGO soddisfano elevati standard del settore, per garantire che ogni kit costruibile sia sempre omogeneo, con elementi che si montano e si smontano facilmente
+- I kit di modelli in plastica LEGO Technic vengono sottoposti a test accurati, per verificare che ognuno di questi ottimi giocattoli soddisfi elevati standard globali di sicurezza e qualità
+- Questo modello di auto da rally è controllato tramite l’app LEGO Technic CONTROL+ e alimentato da uno Smart Hub avanzato con 1 motore XL e 1 motore L per un’esperienza di gioco più coinvolgente
+- L’Auto da Rally Top Gear telecomandata permetterà agli appassionati di auto da corsa di affrontare una sfida di guida avvincente; modello azionato tramite un dispositivo intelligente con 3 schermi
 - Costruisci lauto; scarica lapp; con il controllo multifunzione, i piloti possono avanzare, retrocedere, sterzare, accelerare, frenare o riprodurre effetti sonori e ottenere feedback in tempo reale
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07W7V6R7D/?tag=tolees00-21)

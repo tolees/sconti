@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lisciani Giochi Montessori Alfabetiere T al 26.10 % de descuento'
-date: 2020-12-13 05:38:34
+date: 2020-12-14 06:03:53
 image: 'https://m.media-amazon.com/images/I/51osu0XNxyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Ahora mismo tienes [Lisciani Giochi Montessori Alfabetiere Tattile Elettronico](
 
 🔎:
 
-- Vista, tatto, udito
-- Gioco elettronico, manuale di istruzioni
-- Grande alfabetiere touch
-- con le lettere smerigliate: lettere e parole, suoni e filastrocche, quiz
+- with frosted letters: letters and words, sounds and nursery rhymes, quiz
+- Large touch alphabet
+- Electronic game, instruction manual
+- View, touch, hearing
 
 [Visítala!!!](https://www.amazon.it/dp/B084MY5WLJ/?tag=tolees00-21)
