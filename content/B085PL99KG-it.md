@@ -24,9 +24,9 @@ Está [Realme X50 Pro – Smartphone 5G de 6.44”  8 GB RAM + 128 GB ROM  proce
 
 ℹ️:
 
-- Batteria: 4200 mAh
-- Processore: Snapdragon 865 2.84GHz
 - Fotocamera: Quad, 64MP + 12MP + 8MP + 2MP
+- Processore: Snapdragon 865 2.84GHz
+- Batteria: 4200 mAh
 - Schermo: 6,44 ", 1080 x 2400 pixel
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085PL99KG/?tag=tolees00-21)
