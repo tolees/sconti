@@ -24,8 +24,8 @@ Ahora mismo tienes [CARPISA® Borsa shopping bicolore - Maia](https://www.amazon
 
 🔎:
 
-- Composizione: Sintetico
 - Dimensioni: 35.00x30.50x13.00
+- Composizione: Sintetico
 - Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
 
 [Visítala!!!](https://www.amazon.it/dp/B07V9NY1FK/?tag=tolees00-21)

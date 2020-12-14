@@ -24,8 +24,8 @@ Ahora mismo tienes [Adidas CE9026 Core18 – Maglia a maniche lunghe  Uomo  Nero
 
 🔎:
 
-- Tessuto climalite antiumidità
-- Taglio regolare
 - Zip a 1/4
+- Taglio regolare
+- Tessuto climalite antiumidità
 
 [Visítala!!!](https://www.amazon.it/dp/B076HR4DT9/?tag=tolees00-21)

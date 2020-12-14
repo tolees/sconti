@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.87 % en Kingdom Hearts III - Xbox One'
-date: 2020-12-13 08:09:45
+date: 2020-12-14 10:35:53
 image: 'https://m.media-amazon.com/images/I/51wstVuI0iL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Tienes [Kingdom Hearts III - Xbox One](https://www.amazon.it/dp/B06XDP99YN/?tag=
 
 ℹ️:
 
-- Piattaforma: Xbox One
 - Include nuovi mondi: Toy Story, Rapunzel, Big Hero 6, Monsters & Co e Frozen.
-- Genere del gioco: azione, gioco di ruolo
+- Piattaforma: Xbox One
 - Edizione del gioco: standard
+- Genere del gioco: azione, gioco di ruolo
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B06XDP99YN/?tag=tolees00-21)

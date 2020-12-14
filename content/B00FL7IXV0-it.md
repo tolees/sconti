@@ -24,9 +24,9 @@ Está [Armani Exchange orologio da uomo AX2501](https://www.amazon.it/dp/B00FL7I
 
 ℹ️:
 
-- Dimensione cassa: 45 mm – Spessore cassa: 12 mm
-- Confezionato in scatola Armani Exchange Watch
 - Movimento: Quarzo – Materiale del cinturino: pelle di vitello
 - Larghezza di banda: 22 millimetri – Larghezza del cinturino: 200 +/-5 mm
+- Dimensione cassa: 45 mm – Spessore cassa: 12 mm
+- Confezionato in scatola Armani Exchange Watch
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00FL7IXV0/?tag=tolees00-21)

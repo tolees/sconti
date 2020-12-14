@@ -24,10 +24,10 @@ Tienes [Infinity Cofanetto Regalo 6 Mesi Film Serie TV Cartoni Animati – Gift 
 
 ℹ️:
 
-- COMODO: Ricevi direttamente a casa tua Infinity Gift: allinterno troverai un codice prepagato che ti consente di usufruire di Infinity, senza usare la carta di credito o Paypal
-- DA CONDIVIDERE: Puoi associare fino a 5 dispositivi e usarne due contemporaneamente
-- ON THE GO: Con la funzione Download&Go, scarichi e guardi i tuoi contenuti preferiti ovunque ti trovi
-- IMMEDIATO: Bastano pochi passi per attivare il tuo account e potrai accedere ad un catalogo con oltre 6.000 contenuti tra film, serie TV e cartoni animati, anche in HD e 4K*
 - SENZA VINCOLI: Con Infinity Gift accedi a tutto il catalogo di Infinity senza abbonamento. Una volta terminato il periodo di visione, potrai scegliere di acquistare un altro Infinity Gift
+- DA CONDIVIDERE: Puoi associare fino a 5 dispositivi e usarne due contemporaneamente
+- COMODO: Ricevi direttamente a casa tua Infinity Gift: allinterno troverai un codice prepagato che ti consente di usufruire di Infinity, senza usare la carta di credito o Paypal
+- IMMEDIATO: Bastano pochi passi per attivare il tuo account e potrai accedere ad un catalogo con oltre 6.000 contenuti tra film, serie TV e cartoni animati, anche in HD e 4K*
+- ON THE GO: Con la funzione Download&Go, scarichi e guardi i tuoi contenuti preferiti ovunque ti trovi
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01MRKWXY2/?tag=tolees00-21)

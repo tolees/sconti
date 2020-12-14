@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'goldenpoint Giacca da Donna Micropile Ro al 29.99 % de descuento'
-date: 2020-11-24 15:44:14
+date: 2020-12-14 10:05:33
 image: 'https://m.media-amazon.com/images/I/41E73xAfqqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,12 @@ Ahora mismo tienes [goldenpoint Giacca da Donna Micropile Rombi](https://www.ama
 
 [![goldenpoint Giacca da Donna Micropile Ro](https://m.media-amazon.com/images/I/41E73xAfqqL._SL200_.jpg)](https://www.amazon.it/dp/B08N6KKFHY/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
+- Giacca Homewear
+- Apertura con bottoni
+- Giacca con cappuccio
+- Tessuto in micropile
+- Disponibile in taglia S-M-L
 
 [Visítala!!!](https://www.amazon.it/dp/B08N6KKFHY/?tag=tolees00-21)
