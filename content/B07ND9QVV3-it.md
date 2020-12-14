@@ -24,11 +24,11 @@ Está [LEGO Disney Frozen II Il Portagioielli di Elsa con Mini-doll della P
 
 ℹ️:
 
-- Include la mini-doll di Elsa e il personaggio LEGO del Nokk
-- Misura 23 cm di altezza, 15 cm di larghezza e 12 cm di profondità
-- Portagioielli di Elsa Frozen con cassetto chiudibile, specchio, funzione di rotazione per Elsa e il Nokk e 2 anelli LEGO
-- Questo bello portagioielli è un regalo di compleanno o di Natale ideale per tutte le fan dei film Disney Frozen
-- Conserva i tuoi gioielli preferiti nel cassetto e aziona la funzione di blocco per tenerli al sicuro
 - I personaggi Disney possono essere rimossi e aggiunti a qualsiasi collezione di minifigure o mini-doll LEGO Disney esistenti
+- Portagioielli di Elsa Frozen con cassetto chiudibile, specchio, funzione di rotazione per Elsa e il Nokk e 2 anelli LEGO
+- Conserva i tuoi gioielli preferiti nel cassetto e aziona la funzione di blocco per tenerli al sicuro
+- Questo bello portagioielli è un regalo di compleanno o di Natale ideale per tutte le fan dei film Disney Frozen
+- Misura 23 cm di altezza, 15 cm di larghezza e 12 cm di profondità
+- Include la mini-doll di Elsa e il personaggio LEGO del Nokk
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ND9QVV3/?tag=tolees00-21)

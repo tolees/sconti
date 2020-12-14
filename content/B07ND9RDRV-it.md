@@ -24,18 +24,18 @@ Está [LEGO Disney Frozen II Il villaggio del Castello di Arendelle con M
 
 ℹ️:
 
-- Lo stile modulare consente di smontare e riassemblare i 3 piani, facilitando il gioco nelle diverse parti del castello
-- La bancarella del fornaio misura 8 cm di altezza, 4 cm di larghezza e 3 cm di profondità
-- La barca a remi misura 5 cm di altezza, 12 cm di lunghezza e 4 cm di larghezza
-- Questo playset Frozen per i bambini e le bambine e per tutti gli appassionati del film Frozen II è un fantastico regalo di Natale o regalo di compleanno
+- Rimuovi il piumino per mettere a letto una mini-doll
 - I mobili sono progettati per essere facilmente spostati e posizionati nelle diverse stanze
-- Gli accessori includono un ritratto e un cavalletto, uno scrigno del tesoro, una corona, un telescopio, un busto con supporto, una casetta degli uccelli, un lampione, una scatola regalo, un regalo, un pesce, un granchio, pane, verdure, una scopa e una spada
-- Scatena limmaginazione dei bambini mentre creano, costruiscono e giocano con luniverso di Frozen II nel castello di Anna e Elsa, quindi realizza nuove ambientazioni e storie di Frozen usando i mattoncini LEGO
 - Il castello di Frozen misura 30 cm di altezza, 30 cm di larghezza e 12 cm di profondità
 - Contiene un castello a 3 piani con sala del trono, camera da letto e attico, bancarella del fornaio, bancarella del pescivendolo e un piccolo molo con una barca dotata di remi
+- La barca a remi misura 5 cm di altezza, 12 cm di lunghezza e 4 cm di larghezza
 - Combinalo con 41164 La casa sullalbero incantata, 41165 Spedizione sulla canoa di Anna, 41166 Lavventura sul carro di Elsa, 41168 Il portagioielli di Elsa e 41169 Olaf per tante avventure LEGO l Disney Frozen II in più
-- La bancarella del pescivendolo misura 7 cm di altezza, 8 cm di larghezza e 6 cm di profondità
+- Gli accessori includono un ritratto e un cavalletto, uno scrigno del tesoro, una corona, un telescopio, un busto con supporto, una casetta degli uccelli, un lampione, una scatola regalo, un regalo, un pesce, un granchio, pane, verdure, una scopa e una spada
 - Include le mini-doll di Elsa, Anna e Kristoff, più 3 animali LEGO: un gatto, un cane e 2 uccellini
-- Rimuovi il piumino per mettere a letto una mini-doll
+- La bancarella del pescivendolo misura 7 cm di altezza, 8 cm di larghezza e 6 cm di profondità
+- La bancarella del fornaio misura 8 cm di altezza, 4 cm di larghezza e 3 cm di profondità
+- Questo playset Frozen per i bambini e le bambine e per tutti gli appassionati del film Frozen II è un fantastico regalo di Natale o regalo di compleanno
+- Lo stile modulare consente di smontare e riassemblare i 3 piani, facilitando il gioco nelle diverse parti del castello
+- Scatena limmaginazione dei bambini mentre creano, costruiscono e giocano con luniverso di Frozen II nel castello di Anna e Elsa, quindi realizza nuove ambientazioni e storie di Frozen usando i mattoncini LEGO
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ND9RDRV/?tag=tolees00-21)
