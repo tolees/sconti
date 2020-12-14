@@ -25,10 +25,10 @@ Está [Polti Vaporella Simply VS10.12  Ferro da Stiro Generatore di Vapore con S
 
 ℹ️:
 
-- Serbatoio estraibile XL da 1.5 L per lunghe sessioni di stiratura
-- Ferro generatore di vapore ad autonomia illimitata con pressione pompa max 6.5 BAR
-- Riscaldamento rapido 2 minuti e funzione ECO per limitare i consumi
 - Volantino per regolazione della temperatura sul ferro
 - Funzione Calc Cleaning per ottime prestazioni dellapparecchio e durata nel tempo
+- Ferro generatore di vapore ad autonomia illimitata con pressione pompa max 6.5 BAR
+- Serbatoio estraibile XL da 1.5 L per lunghe sessioni di stiratura
+- Riscaldamento rapido 2 minuti e funzione ECO per limitare i consumi
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07FZ3VX3P/?tag=tolees00-21)

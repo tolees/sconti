@@ -25,11 +25,11 @@ Está [Energy MP4 Touch Bluetooth Coral  8 GB  pulsanti tattili  radio FM  micro
 
 ℹ️:
 
-- Ricaricabile
-- Cuffie
-- Lettore di schede integrato
-- Guida rapida
-- Portata Bluetooth:10 m
 - Touch screen
+- Guida rapida
+- Ricaricabile
+- Portata Bluetooth:10 m
+- Lettore di schede integrato
+- Cuffie
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01GO6ZC42/?tag=tolees00-21)
