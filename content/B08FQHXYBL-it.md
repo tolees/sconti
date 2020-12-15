@@ -1,24 +1,25 @@
 ---
 layout: post
-title: 'FIFA 21 - Xbox One - Version Xbox Series al 36.12 % de descuento'
-date: 2020-12-14 05:58:47
+title: 'FIFA 21 - Xbox One - Version Xbox Series al 48.58 % de descuento'
+date: 2020-12-15 06:20:57
 image: 'https://m.media-amazon.com/images/I/51b1G789XJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08FQHXYBL-it'
-actualPrice: 44.71 EUR
+actualPrice: 35.99 EUR
 currency: EUR
-price: 44.71
+price: 35.99
 comparePrice: 69.99 EUR
 prodname: 'FIFA 21 - Xbox One - Version Xbox Series X incluse [Edizione: Francia]'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FQHXYBL/?tag=tolees00-21'
-descuento: '36.12'
+descuento: '48.58'
+average: '56.378571428571426'
 ---
 
-Ahora mismo tienes [FIFA 21 - Xbox One - Version Xbox Series X incluse [Edizione: Francia]](https://www.amazon.it/dp/B08FQHXYBL/?tag=tolees00-21) a 44.71 EUR (original: 69.99 EUR) (36.12 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [FIFA 21 - Xbox One - Version Xbox Series X incluse [Edizione: Francia]](https://www.amazon.it/dp/B08FQHXYBL/?tag=tolees00-21) a 35.99 EUR (original: 69.99 EUR) (48.58 %  de descuento) en el siguiente enlace!
 
 [![FIFA 21 - Xbox One - Version Xbox Series](https://m.media-amazon.com/images/I/51b1G789XJL._SL200_.jpg)](https://www.amazon.it/dp/B08FQHXYBL/?tag=tolees00-21)
 

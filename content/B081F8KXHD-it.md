@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Catamarano e Barca a Vela 2 al 25.01 % de descuento'
-date: 2020-12-14 05:51:47
+date: 2020-12-15 06:10:10
 image: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B081F8KXHD/?tag=tolees00-21'
 descuento: '25.01'
+average: '35.14385964912281'
 ---
 
 Ahora mismo tienes [LEGO Technic Catamarano e Barca a Vela 2 in 1  Giocattolo Galleggiante  42105](https://www.amazon.it/dp/B081F8KXHD/?tag=tolees00-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
