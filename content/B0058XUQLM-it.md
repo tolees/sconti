@@ -25,10 +25,10 @@ Está [Michael Kors Orologio Analogico Donna con Cinturino in Placcato in Acciai
 
 ℹ️:
 
-- Spessore della cassa: 12 mm; dimensioni della cassa: 43 mm
-- Materiale del cinturino: acciaio inossidabile
 - Resistente allAcqua: 10 A
-- Larghezza del cinturino: 20 mm; circonferenza del cinturino: 190+/-5 mm
+- Materiale del cinturino: acciaio inossidabile
 - Confezionato nella gift box Michael Kors
+- Spessore della cassa: 12 mm; dimensioni della cassa: 43 mm
+- Larghezza del cinturino: 20 mm; circonferenza del cinturino: 190+/-5 mm
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0058XUQLM/?tag=tolees00-21)
