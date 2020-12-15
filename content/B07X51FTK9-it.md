@@ -26,9 +26,9 @@ Está [Sony NW-A105 - Lettore musicale Walkman Android 16GB con Display touch 3 
 ℹ️:
 
 - Fino a 26 ore di riproduzione (mp3 128 kbps)
-- Usb type-c per caricamento e trasferimento dati
 - Memoria interna da 16gb e slot per scheda microsd
-- Schermo touch screen 720hd da 3.6 pollici e pulsanti laterali
 - Scarica le tue app preferite e goditi la tua musica in streaming in wi-fi
+- Usb type-c per caricamento e trasferimento dati
+- Schermo touch screen 720hd da 3.6 pollici e pulsanti laterali
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07X51FTK9/?tag=tolees00-21)

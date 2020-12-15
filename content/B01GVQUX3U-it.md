@@ -26,7 +26,7 @@ Está [PlayStation 4 - Dualshock 4 Controller Wireless V2  Nero](https://www.ama
 ℹ️:
 
 - Le superfici a contatto con le mani hanno texture con maggiore grip
-- Il touch pad è trasparente, lascia intravedere la barra luminosa
 - Compatibile con il software di sistema PS4 versione 3.5 o successiva
+- Il touch pad è trasparente, lascia intravedere la barra luminosa
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01GVQUX3U/?tag=tolees00-21)

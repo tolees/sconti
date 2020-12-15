@@ -25,10 +25,10 @@ Ahora mismo tienes [PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Bla
 
 🔎:
 
-- Durable, grippy, rubber outsole
-- Soft suede/leather upper
-- Updated, improved fit
 - Inspired by tennis. Enjoyed as daily footwear
+- Updated, improved fit
+- Soft suede/leather upper
+- Durable, grippy, rubber outsole
 - Smash sneakers
 
 [Visítala!!!](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21)

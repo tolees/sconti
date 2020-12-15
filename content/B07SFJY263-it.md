@@ -26,8 +26,8 @@ Tienes [FIFA 20 - Standard - PlayStation 4](https://www.amazon.it/dp/B07SFJY263/
 ℹ️:
 
 - Prova lINTELLIGENZA CALCISTICA, che presenta un cambio di prospettiva tale da offrire un livello di realismo senza precedenti.
-- Gameplay VOLTA: esprimi il tuo stile con un sistema di gioco completamente nuovo improntato al realismo. Ispirato al calcio a ranghi ridotti giocato nelle strade, nelle gabbie e nei campi di calcio a 5 di tutto il mondo;
 - LINTELLIGENZA CALCISTICA consente di vivere al massimo ogni attimo sul campo: con la palla, senza palla e attraverso la palla.
+- Gameplay VOLTA: esprimi il tuo stile con un sistema di gioco completamente nuovo improntato al realismo. Ispirato al calcio a ranghi ridotti giocato nelle strade, nelle gabbie e nei campi di calcio a 5 di tutto il mondo;
 - EA SPORTS riporta il gioco nelle strade con la vera cultura, creatività e stile delle partite a ranghi ridotti. Crea il tuo personaggio e gioca secondo il tuo stile in diversi scenari in tutto il mondo.
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07SFJY263/?tag=tolees00-21)

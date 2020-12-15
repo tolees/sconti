@@ -25,10 +25,10 @@ Tienes [Chloe Eau de Parfum  Donna  75 ml](https://www.amazon.it/dp/B0020MMD4W/?
 
 ℹ️:
 
-- 75 ml bottle
-- Celebrate the eclipse charismatic and happy, this is a blast of joy
 - The fragrance has an intesive floral and romantic aroma
 - Womens fragrance
+- 75 ml bottle
+- Celebrate the eclipse charismatic and happy, this is a blast of joy
 - With notes of lilac, coconut, jasmin and musk
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0020MMD4W/?tag=tolees00-21)

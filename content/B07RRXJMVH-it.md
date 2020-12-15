@@ -25,13 +25,13 @@ Está [Clementoni- Scienza e Gioco-Maker Lab-Animali in Movimento  Multicolore  
 
 ℹ️:
 
-- The motorized module allows you to animate any model made
-- The game contains 120 elements: bars, tablets, nails, cubes, pulleys and special pieces (ellipses, arches and triangles).
-- Recommended age: + 5 years
 - Instructions will guide you in assembling 5 patterns of fun animals: gorilla, lion, seal, shark and insect; the rest is your imagination!
-- Made in Italy.
-- Fun has no limits with Maker Lab: assemble, play, disassemble and start building all the fun animals in the lab for small makers that are the most beautiful there is!
+- The motorized module allows you to animate any model made
+- Recommended age: + 5 years
 - Invent, assemble, play! This is Maker Lab, the new mechanics workshop for the little ones with lots of easy to assemble components to create fantastic animals that move and walk
+- Fun has no limits with Maker Lab: assemble, play, disassemble and start building all the fun animals in the lab for small makers that are the most beautiful there is!
+- The game contains 120 elements: bars, tablets, nails, cubes, pulleys and special pieces (ellipses, arches and triangles).
 - To start movement, simply operate the engine; the gorilla walks with their own legs, the insect knocks the wings, the shark chases you, the seal advances clumsy and the lion runs
+- Made in Italy.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07RRXJMVH/?tag=tolees00-21)

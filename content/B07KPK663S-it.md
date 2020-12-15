@@ -25,9 +25,9 @@ Está [Funko- Pop Deluxe: Game of Thrones S10: Jon Snow Sitting on Iron Throne F
 
 ℹ️:
 
-- Stylized collectable stands 15cm tall, perfect for any Game of Thrones S10 fan.
+- From Game of Thrones S10, Jon Snow Sitting on Iron Throne, as a stylized POP vinyl from Funko.
 - Collect and display all Game of Thrones S10 POP. Vinyls.
 - Funko POP. is the 2017 Toy of the Year and Peoples Choice award winner
-- From Game of Thrones S10, Jon Snow Sitting on Iron Throne, as a stylized POP vinyl from Funko.
+- Stylized collectable stands 15cm tall, perfect for any Game of Thrones S10 fan.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07KPK663S/?tag=tolees00-21)

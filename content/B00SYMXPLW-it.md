@@ -25,11 +25,11 @@ Tienes [Hasbro Gaming - Cocco Dentista  Gioco in Scatola   B0408103  4 anni +](h
 
 ℹ️:
 
-- Controlla i denti del coccodrillo: il gioco del cocco dentista sfida i bambini a stare attenti al dente dolorante del buffo coccodrillo; quando premono su un dente, questo morde se si tratta di quello dolorante eliminando così il giocatore dal gioco
-- Versione Italiana
-- Metti alla prova i tuoi riflessi
-- Divertimento per singoli e gruppi
-- Divertente morso del coccodrillo: i bambini hanno la possibilità di divertirsi un sacco giocando a questo semplice gioco del cocco dentista caratterizzato dal buffo personaggio di jock croc che soffre il mal di denti
 - Facile da impostare e da giocare: sei alla ricerca di un gioco semplice e divertente per bambini? Il gioco del cocco dentista non necessita batterie, è semplice da impostare per un adulto e molto divertente da giocare
+- Divertente morso del coccodrillo: i bambini hanno la possibilità di divertirsi un sacco giocando a questo semplice gioco del cocco dentista caratterizzato dal buffo personaggio di jock croc che soffre il mal di denti
+- Metti alla prova i tuoi riflessi
+- Controlla i denti del coccodrillo: il gioco del cocco dentista sfida i bambini a stare attenti al dente dolorante del buffo coccodrillo; quando premono su un dente, questo morde se si tratta di quello dolorante eliminando così il giocatore dal gioco
+- Divertimento per singoli e gruppi
+- Versione Italiana
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00SYMXPLW/?tag=tolees00-21)
