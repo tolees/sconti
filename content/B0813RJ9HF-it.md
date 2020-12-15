@@ -25,10 +25,10 @@ Tienes [LEGO Hidden Side Phantom Fire Truck 3000  App per giochi AR  Playset
 
 ℹ️:
 
-- I ragazzi potranno costruire il set, scansionarlo e dare la caccia ai fantasmi sui propri tablet/cellulari (non forniti in dotazione), per vivere unesperienza quantomai avvincente
-- Il veicolo LEGO si trasforma se osservato attraverso l’app LEGO AR, grazie alla quale i bambini potranno arricchire la propria collezione di fantasmi in un mondo digitale stregato
-- Insieme alle minifigure di Jack, Parker, J.B., TeeVee e Shadow-Walker, i ragazzi potranno sfidare gli amici in avventure, tra il mondo reale e le realtà digitali
-- Il kit comprende il modello digitale interattivo del camion dei pompieri (della serie LEGO Hidden Side), con un robot meccanico trasformabile e la statuetta di Nehmaar Reem The Harbinger
 - Possibilità di esperienza multiplayer; compatibile con i dispositivo 180+ OS e Android – controlla la descrizione del prodotto per maggiori dettagli
+- Il veicolo LEGO si trasforma se osservato attraverso l’app LEGO AR, grazie alla quale i bambini potranno arricchire la propria collezione di fantasmi in un mondo digitale stregato
+- Il kit comprende il modello digitale interattivo del camion dei pompieri (della serie LEGO Hidden Side), con un robot meccanico trasformabile e la statuetta di Nehmaar Reem The Harbinger
+- I ragazzi potranno costruire il set, scansionarlo e dare la caccia ai fantasmi sui propri tablet/cellulari (non forniti in dotazione), per vivere unesperienza quantomai avvincente
+- Insieme alle minifigure di Jack, Parker, J.B., TeeVee e Shadow-Walker, i ragazzi potranno sfidare gli amici in avventure, tra il mondo reale e le realtà digitali
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0813RJ9HF/?tag=tolees00-21)

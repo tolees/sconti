@@ -25,10 +25,10 @@ Ahora mismo tienes [Lacoste Carnaby Evo BL 1 SPM  Sneaker Uomo  Blu  Navy   44.5
 
 🔎:
 
-- Fodera in rete e battistrada di ispirazione sportiva
-- Suola in gomma
-- Logo Lacoste con coccodrillo verde
-- Fodera in tessuto
 - Tomaia in pelle e materiale sintetico
+- Fodera in rete e battistrada di ispirazione sportiva
+- Fodera in tessuto
+- Logo Lacoste con coccodrillo verde
+- Suola in gomma
 
 [Visítala!!!](https://www.amazon.it/dp/B01NBMN7ZT/?tag=tolees00-21)

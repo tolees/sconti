@@ -25,10 +25,10 @@ Está [tado° Termostato Intelligente Kit di base V3+ con 2 Teste Termostatiche 
 
 ℹ️:
 
-- Per abitazioni con un termostato già esistente cablato alla caldaia; include 2 Teste Termostatiche Intelligenti per controllo multi-stanza
-- Auto-Assist: per comfort è possibile automatizzare Geolocalizzazione e Rilevamento Finestra Aperta e avere accesso a Care & Protect, disponibile in app, 2,99€/mese, 24,99€/anno; cancellazione possibile in qualsiasi momento
 - Integrazione Smart Home per riscaldamento e controllo vocale con Amazon Alexa, Apple HomeKit e Assistente Google
+- Auto-Assist: per comfort è possibile automatizzare Geolocalizzazione e Rilevamento Finestra Aperta e avere accesso a Care & Protect, disponibile in app, 2,99€/mese, 24,99€/anno; cancellazione possibile in qualsiasi momento
 - Controlla il riscaldamento ovunque tu sia con lapp tado° per smartphone e ottieni una visione dinsieme chiara dell’andamento climatico e del risparmio accumulato
 - Riduci gli sprechi energetici, risparmia denaro e goditi in ogni momento la temperatura ambiente ottima con laiuto delle Skill intelligenti: geolocalizzazione, rilevamento finestra aperta e integrazione dati meteo
+- Per abitazioni con un termostato già esistente cablato alla caldaia; include 2 Teste Termostatiche Intelligenti per controllo multi-stanza
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07YCWFW6T/?tag=tolees00-21)

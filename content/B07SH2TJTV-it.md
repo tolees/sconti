@@ -25,8 +25,8 @@ Tienes [ssc napoli  Maglia Gara Home 2019/2020 Uomo  Blu  XL](https://www.amazon
 
 ℹ️:
 
-- SSC Napoli lettering on the back applied by heat transfer, silicone 3D team logo patch on chest applied by heat transfer and sponsors applied by transfer
-- Short-sleeved with inserts, collar with front flap and button, inserts on back and design printed on front panel
 - Official KOMBAT 2020 mens home jersey made of stretchable material and using HYDRO-WAY PROTECTION technology SKIN FIT
+- Short-sleeved with inserts, collar with front flap and button, inserts on back and design printed on front panel
+- SSC Napoli lettering on the back applied by heat transfer, silicone 3D team logo patch on chest applied by heat transfer and sponsors applied by transfer
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07SH2TJTV/?tag=tolees00-21)
