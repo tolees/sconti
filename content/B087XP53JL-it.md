@@ -25,9 +25,9 @@ Ahora mismo tienes [Samsung Soundbar HW-T650/ZF da 340 W  3.1 Canali  Nero](http
 
 🔎:
 
-- Speaker centrale: goditi dialoghi chiari grazie allaltoparlante centrale che riproduce un suono bilanciato da tutta la soundbar
 - Game mode: tuffati nel tuo gioco preferito con unimpostazione specifica per potenziare gli effetti sonori della tua console
 - Tipologia: soundbar della serie t, 360w, 5.1 canali e 7 speaker, nero
+- Speaker centrale: goditi dialoghi chiari grazie allaltoparlante centrale che riproduce un suono bilanciato da tutta la soundbar
 - Smart sound: la soundbar analizza automaticamente le fonti sonore per ottimizzare la traccia audio in base al contenuto
 - 3D surround sound: vivi lesperienza di un suono 3D coinvolgente ed ottimamente equalizzato grazie a dts virtual:x
 

@@ -26,7 +26,7 @@ Ahora mismo tienes [Honor 6X Smartphone 4G LTE  Diplay 5.5 pollici FHD  Dual SIM
 🔎:
 
 - Localizzazione: GPS, A-GPS, Glonass, Batteria: 3340 mAh, Dimensioni: 150.9 x 72.32 GB 8.2 mm, Peso: 162 g, Sistema Operativo: Android 6.0 e EMUI 4.1, Dual SIM
-- Reti: LTE, HSPAe, EDGE, GPRS, Fotocamera: Dual 12e2 Mpx, Front camera: 8 Mpx, Wi-Fi: 802.11 b/g/n, Wi-Fi Direct, Bluetooth 4.1, Sensore dimpronta
 - Honor 6X (BLN-L21), Display: IPS 5.5” FHD (1920 x 1080), CPU: Kirin 655 Octa-Core (42.1 GHz e 41.7 GHz), Memoria: 3 GB RAM, 32 ROM e Micro SD fino a 128 GB
+- Reti: LTE, HSPAe, EDGE, GPRS, Fotocamera: Dual 12e2 Mpx, Front camera: 8 Mpx, Wi-Fi: 802.11 b/g/n, Wi-Fi Direct, Bluetooth 4.1, Sensore dimpronta
 
 [Visítala!!!](https://www.amazon.it/dp/B01MQEC7EX/?tag=tolees00-21)
