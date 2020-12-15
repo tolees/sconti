@@ -25,13 +25,13 @@ Está [De Longhi Pac N77 Eco Climatizzatore Portatile Pinguino  2100 W  62 Decib
 
 ℹ️:
 
-- FACILE DA USARE: con termostato ambiente per offrire sempre la giusta temperatura e dotato di telecomando per controllo a distanza.
-- LIBERA INSTALLAZIONE e completamente portatile dotato di maniglie e rotelle per un facile trasporto
-- POTENTE ED EFFICACE: potenza massima frigorifera di 8.200 btu/h, dotato di TIMER 12H.
-- ECOLOGICO: utilizza il gas refrigerante R290, gas propano non tossico, che offre vantaggi ecologici e di risparmio energetico
-- RINFRESCA LA TUA CASA CON PINGUINO DE’LONGHI, grazie alla classe di efficienza energetica A, avrai un connubio perfetto tra tecnologia e bassi consumi
-- DISPLAY frontale con PANNELLO COMANDI SENSOR TOUCH con tasti a sfioramento
-- ALETTE MOTORIZZATE per controllare il flusso daria verso lalto o verso il basso per soddisfare le tue esigenze
 - VERSATILE: Il pinguino offre 3 diverse velocità di ventilazione, la funzione di sola ventilazione per far circolare l’aria e di sola deumidificazione per le stagioni umide.
+- ALETTE MOTORIZZATE per controllare il flusso daria verso lalto o verso il basso per soddisfare le tue esigenze
+- POTENTE ED EFFICACE: potenza massima frigorifera di 8.200 btu/h, dotato di TIMER 12H.
+- RINFRESCA LA TUA CASA CON PINGUINO DE’LONGHI, grazie alla classe di efficienza energetica A, avrai un connubio perfetto tra tecnologia e bassi consumi
+- LIBERA INSTALLAZIONE e completamente portatile dotato di maniglie e rotelle per un facile trasporto
+- DISPLAY frontale con PANNELLO COMANDI SENSOR TOUCH con tasti a sfioramento
+- FACILE DA USARE: con termostato ambiente per offrire sempre la giusta temperatura e dotato di telecomando per controllo a distanza.
+- ECOLOGICO: utilizza il gas refrigerante R290, gas propano non tossico, che offre vantaggi ecologici e di risparmio energetico
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07M6RNYYS/?tag=tolees00-21)
