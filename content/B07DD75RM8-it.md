@@ -26,9 +26,9 @@ Tienes [Grandi Giochi- Cattura Le Stelle  Multicolore  GG01314](https://www.amaz
 ℹ️:
 
 - Night lamp
+- Magic wand with lights and sounds
+- 10 color levels
 - Magic fairies
 - 4 functions: game, lamp, music only, music with lights
-- 10 color levels
-- Magic wand with lights and sounds
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DD75RM8/?tag=tolees00-21)

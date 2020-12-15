@@ -25,10 +25,10 @@ Ahora mismo tienes [Crocs Crocband Clogs  Ciabatte Unisex-Adulto  Navy  45/46 EU
 
 🔎:
 
-- Fodera: Senza fodera
 - Materiale esterno: Sintetico
 - Materiale suola: Gomma
-- Tipo di tacco: Senza tacco
 - Chiusura: Senza chiusura
+- Fodera: Senza fodera
+- Tipo di tacco: Senza tacco
 
 [Visítala!!!](https://www.amazon.it/dp/B002KAOCR0/?tag=tolees00-21)

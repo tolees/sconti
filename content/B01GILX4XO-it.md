@@ -25,8 +25,8 @@ Ahora mismo tienes [Calvin Klein Damen Bustier Bralette Lift  Grau  Grey Heather
 
 🔎:
 
-- Spalline incrociate sul retro
 - Classica fascia elastica sottoseno Calvin Klein
+- Spalline incrociate sul retro
 - Fascia sottoseno a contrasto elastica di supporto
 - Coppe imbottite senza cuciture
 

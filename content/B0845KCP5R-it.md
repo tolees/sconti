@@ -25,10 +25,10 @@ Está [Sony KD75XH8096PBAEP  Android Tv 75 Pollici  Smart Tv 4K Hdr Led Ultra Hd
 
 ℹ️:
 
-- Dimensioni TV con piedistallo (l x a x p): 168,6 x 104,2 x 41,4 cm circa
-- LED 4k ultra HD hdr: una risoluzione pari a 4 volte quella delle immagini in full HD per unimmagine ancora più intensa e reale
 - Processore 4k x-reality pro: ogni immagine viene analizzata in tempo reale per migliorarne nitidezza, contrasto e dettagli
 - Triluminos display: più colore, più dettagli e più realismo in ciò che guardi
+- Dimensioni TV con piedistallo (l x a x p): 168,6 x 104,2 x 41,4 cm circa
+- LED 4k ultra HD hdr: una risoluzione pari a 4 volte quella delle immagini in full HD per unimmagine ancora più intensa e reale
 - Android tv: gestisci il tuo TV e altri device connessi semplicemente usando la tua voce con google assistant; compatibile con alexa; chromecast built-in
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0845KCP5R/?tag=tolees00-21)
