@@ -25,8 +25,8 @@ Tienes [THE SURGE 2 - PlayStation 4](https://www.amazon.it/dp/B07RWSV2VL/?tag=to
 
 ℹ️:
 
-- Motore grafico e IA rendono gli incontri con i nemici sempre diversi e avvincenti.
 - Nuova ambientazione – il gioco vi immergerà in una città del futuro devastata e in preda al caos
 - Nuovo sistema di puntamento per gli arti – per personalizzare il combattimento secondo il proprio stile
+- Motore grafico e IA rendono gli incontri con i nemici sempre diversi e avvincenti.
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07RWSV2VL/?tag=tolees00-21)

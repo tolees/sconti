@@ -25,8 +25,8 @@ Está [Super Rally - CARRERA - GO!!!](https://www.amazon.it/dp/B07PTVS3DH/?tag=t
 
 ℹ️:
 
+- Originale CARRERA
 - Ottima qualità e design
 - Scala 1:43
-- Originale CARRERA
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07PTVS3DH/?tag=tolees00-21)
