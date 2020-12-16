@@ -25,8 +25,8 @@ Tienes [Calvin Klein  Eternity for Men Eau de Toilette  Uomo  50 ml](https://www
 
 ℹ️:
 
-- EDT
 - Uomo
+- EDT
 - 50 ml
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0009OAGPQ/?tag=tolees00-21)
