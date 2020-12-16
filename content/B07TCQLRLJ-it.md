@@ -25,11 +25,11 @@ Está [Clementoni- Scienza e Gioco-Azione e Reazione-Effetto Caos  Multicolore  
 
 ℹ️:
 
-- Sfida le regole della gravità con la spirale, duplica i percorsi con i bivi e crea effetti inaspettati con la botola, il ponte tibetano e il guard rail
 - Età consigliata: + 8 anni
-- Un incredibile kit scientifico per costruire circuiti con effetti sorprendenti che non finiscono mai
-- Made in italy
-- Tantissimi pezzi e accessori speciali per creare infiniti percorsi da personalizzare anche con oggetti disponibili in casa; per dar libero sfogo alla fantasia e scatenare leffetto caos
 - Il manuale illustrato guida il bambino nella realizzazione di circuiti a livelli di difficoltà crescente, suggerendo tante idee per creare le piste e accompaganndolo alla scoperta della fisica
+- Made in italy
+- Sfida le regole della gravità con la spirale, duplica i percorsi con i bivi e crea effetti inaspettati con la botola, il ponte tibetano e il guard rail
+- Tantissimi pezzi e accessori speciali per creare infiniti percorsi da personalizzare anche con oggetti disponibili in casa; per dar libero sfogo alla fantasia e scatenare leffetto caos
+- Un incredibile kit scientifico per costruire circuiti con effetti sorprendenti che non finiscono mai
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07TCQLRLJ/?tag=tolees00-21)

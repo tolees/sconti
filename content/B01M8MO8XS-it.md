@@ -25,7 +25,7 @@ Ahora mismo tienes [Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B
 
 🔎:
 
-- Il mondo di gioco, vasto ed evocativo, sarà anche lambientazione per unesperienza multigiocatore online completamente nuova
 - Dai creatori di Grand Theft Auto V e Red Dead Redemption, Red Dead Redemption 2 è una storia epica che ci mostra unAmerica agli albori della modernità
+- Il mondo di gioco, vasto ed evocativo, sarà anche lambientazione per unesperienza multigiocatore online completamente nuova
 
 [Visítala!!!](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Clementoni- Laboratorio di Meccanica-Luna Park Set di Gioco 
 
 🔎:
 
-- Il ricco manuale illustrato ti accompagnerà nella costruzione dei modelli in modo coinvolgente e divertente
-- Con lincredibile APP del Laboratorio di Meccanica e le sue istruzioni 3D interattive, lassemblaggio diventa ancora più semplice
+- Con oltre 200 componenti sarà possibile creare 20 modelli tra i quali la grande ruota panoramica motorizzata, la giostra carosello e altre pazze attrazioni! Altre 30 applicazioni tutte da scoprire ti aspettano online
 - Età consigliata: + 8 anni; made in Italy
 - Un kit scientifico per ricreare un vero Luna Park, sfidare le leggi della fisica e scoprire la meccanica in modo facile e divertente!
-- Con oltre 200 componenti sarà possibile creare 20 modelli tra i quali la grande ruota panoramica motorizzata, la giostra carosello e altre pazze attrazioni! Altre 30 applicazioni tutte da scoprire ti aspettano online
+- Con lincredibile APP del Laboratorio di Meccanica e le sue istruzioni 3D interattive, lassemblaggio diventa ancora più semplice
+- Il ricco manuale illustrato ti accompagnerà nella costruzione dei modelli in modo coinvolgente e divertente
 
 [Visítala!!!](https://www.amazon.it/dp/B07RWMBX1N/?tag=tolees00-21)

@@ -25,11 +25,11 @@ Está [Xiaomi Redmi Note 9S 6GB 128GB Quad camera AI 48MP 6.67”FHD+ 5020mAh Ti
 
 ℹ️:
 
-- I telefoni integrati con Alexa ti consentono di effettuare chiamate telefoniche, aprire app, controllare dispositivi smart home, accedere alla libreria di competenze Alexa e altro ancora usando solo la tua voce mentre sei in movimento. Scarica lapp Alexa e completa la configurazione a hands-free per iniziare. Basta chiedere e Alexa risponderà immediatamente.
-- Schermo: 6,67 ", 1080 x 2400 pixel
 - Fotocamera: Quad, 48MP + 8MP + 5MP + 2MP
-- Batteria: 5020 mAh
 - OS: Android 10
+- Schermo: 6,67 ", 1080 x 2400 pixel
+- I telefoni integrati con Alexa ti consentono di effettuare chiamate telefoniche, aprire app, controllare dispositivi smart home, accedere alla libreria di competenze Alexa e altro ancora usando solo la tua voce mentre sei in movimento. Scarica lapp Alexa e completa la configurazione a hands-free per iniziare. Basta chiedere e Alexa risponderà immediatamente.
+- Batteria: 5020 mAh
 - Processore: Snapdragon 720G 2.3GHz
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085S45ZZS/?tag=tolees00-21)

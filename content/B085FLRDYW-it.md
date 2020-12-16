@@ -25,10 +25,10 @@ Está [Playmobil Dinos 70632 - L Attaco dei Dinos T Rex con Raptor e Quad](https
 
 ℹ️:
 
-- La pulizia dei pezzi si può effettuare con acqua e senza luso di prodotti chimici
+- Per il montaggio si raccomanda consultare il manuale distruzioni allinterno della confezione
 - Adatto come regalo
 - Prodotto di ottima qualità
-- Per il montaggio si raccomanda consultare il manuale distruzioni allinterno della confezione
 - Include il quad, un personaggio, un tirannosauro, un velociraptor, pietre preistoriche e ossa
+- La pulizia dei pezzi si può effettuare con acqua e senza luso di prodotti chimici
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085FLRDYW/?tag=tolees00-21)

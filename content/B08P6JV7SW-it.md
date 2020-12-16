@@ -25,10 +25,10 @@ Tienes [eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY Ricambio per Ni
 
 ℹ️:
 
-- Cover sostitutiva progettata per Switch Joycon. Taglio di precisione per funzionare esattamente come il guscio originale.
-- Il processo di installazione richiede al cliente un’sperienza di modifica elettronica. Si può ottenere il video tutorial di installazione su YouTube cercando "ExtremeRate Switch Joycon New Horizon Style" o "o8QPB2uTbHk". Guarda il video a metà velocità. Ti consigliamo di guardare, mettere in pausa, fare e ripetere
-- La confezione include le scocche di ricambio per Nintendo Switch Joy-Con(nessuna parte elettronica inclusa), kit di pulsanti, set di cacciaviti PH00 e Y00, viti di ricambio. Si prega di notare che linstallazione di questa cover invaliderà la garanzia dello Switch
 - Custodia di ricambio unica per aggiungere più personalità al tuo Switch, non più noioso colore grigio standard
+- La confezione include le scocche di ricambio per Nintendo Switch Joy-Con(nessuna parte elettronica inclusa), kit di pulsanti, set di cacciaviti PH00 e Y00, viti di ricambio. Si prega di notare che linstallazione di questa cover invaliderà la garanzia dello Switch
 - Il design di Galassia Nebulosa è fantastico;Ottima presa liscia, morbida nella mano e si sente serica; Antiscivolo, senza sudore per un lungo periodo di gioco
+- Il processo di installazione richiede al cliente un’sperienza di modifica elettronica. Si può ottenere il video tutorial di installazione su YouTube cercando "ExtremeRate Switch Joycon New Horizon Style" o "o8QPB2uTbHk". Guarda il video a metà velocità. Ti consigliamo di guardare, mettere in pausa, fare e ripetere
+- Cover sostitutiva progettata per Switch Joycon. Taglio di precisione per funzionare esattamente come il guscio originale.
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B08P6JV7SW/?tag=tolees00-21)

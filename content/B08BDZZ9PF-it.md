@@ -25,9 +25,9 @@ Ahora mismo tienes [Lisciani Giochi- Kids Love Monsters Castello Stregato Gioco 
 
 🔎:
 
+- Numbers, attention, compliance with rules, relationship with others
+- Three-dimensional castle, plastic skull, monsters plastic place mark, instruction manual
 - With plastic skull
 - A thrilling boardgame to test logic, memory and coordination skills
-- Three-dimensional castle, plastic skull, monsters plastic place mark, instruction manual
-- Numbers, attention, compliance with rules, relationship with others
 
 [Visítala!!!](https://www.amazon.it/dp/B08BDZZ9PF/?tag=tolees00-21)

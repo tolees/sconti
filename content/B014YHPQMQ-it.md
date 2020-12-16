@@ -25,8 +25,8 @@ Ahora mismo tienes [Timberland Bradstreet Chukka Leather  Stivali Uomo  Pelle  M
 
 🔎:
 
+- Snug-fit padded collar
 - 100percent cotton laces
 - Robust rubber outsole for hard-wearing grip
-- Snug-fit padded collar
 
 [Visítala!!!](https://www.amazon.it/dp/B014YHPQMQ/?tag=tolees00-21)

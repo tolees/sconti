@@ -25,9 +25,9 @@ Está [Kingston KC600 SSD  SKC600/256 G  Interne SSD  2.5" SATA Rev 3.0  3D TLC 
 
 ℹ️:
 
-- Available in range of full capacities
-- Supports a full security suite (TCG Opal, AES 256-bit, eDrive)
 - Features the latest 3D TLC NAND technology
+- Available in range of full capacities
 - Remarkable performance
+- Supports a full security suite (TCG Opal, AES 256-bit, eDrive)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07ZDBZDR9/?tag=tolees00-21)
