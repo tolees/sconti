@@ -25,8 +25,8 @@ Está [Helly Hansen 62648  Giacca Impermeabile Donna  Bianco  XS](https://www.am
 
 ℹ️:
 
-- Costruzione due starti
 - Impermeabile, antivento e traspirante
+- Costruzione due starti
 - Helly tech protection
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01ET4MX8O/?tag=tolees00-21)

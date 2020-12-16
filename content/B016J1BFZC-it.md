@@ -25,10 +25,10 @@ Ahora mismo tienes [Allocacoc deorpc – PowerCube  blu](https://www.amazon.it
 
 🔎:
 
-- Nota di sicurezza: quando si utilizza questo prodotto, assicurarsi che i cavi e i dispositivi collegati non abbiano più di 250 g di peso totale.
-- Carico massimo: 3500 W (16A). Si noti che questo è il carico massimo per tutti i dispositivi della catena che sono collegati alla striscia elettrica. A seconda del fusibile della presa a muro, il valore può anche essere inferiore (ad esempio, 10A)!
 - Red Dot Design Award: adattatore da viaggio in stile Schuko e power strip con 5 prese non sovrapposte. Utile anche come estensione per le strisce di alimentazione Cube con cavi di alimentazione.
 - Perfetto per viaggiare, compatto nella borsa e crea abbastanza prese elettriche per laptop, telefono cellulare, fotocamera, ecc. in pochissimo tempo
 - Questo prodotto è compatibile con lo standard Schuko ed è per luso in AT, BZH, BUL, CV, ES, GR, HR, HU, IS, LV, LU, N, NL, MN, PT, RO, RU, SE, TR, Serbia e SF.
+- Carico massimo: 3500 W (16A). Si noti che questo è il carico massimo per tutti i dispositivi della catena che sono collegati alla striscia elettrica. A seconda del fusibile della presa a muro, il valore può anche essere inferiore (ad esempio, 10A)!
+- Nota di sicurezza: quando si utilizza questo prodotto, assicurarsi che i cavi e i dispositivi collegati non abbiano più di 250 g di peso totale.
 
 [Visítala!!!](https://www.amazon.it/dp/B016J1BFZC/?tag=tolees00-21)
