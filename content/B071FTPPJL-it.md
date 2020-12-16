@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Batwing Hoodie  cappuccio Donna   al 32.32 % de descuento'
-date: 2020-12-13 05:46:19
+date: 2020-12-16 06:48:11
 image: 'https://m.media-amazon.com/images/I/31+zfESynCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21'
 descuento: '32.32'
+average: '43.99'
 ---
 
 Ahora mismo tienes [Levi s Batwing Hoodie  cappuccio Donna  Avorio  Sportswear Hoodiee White 0001   Small](https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21) a 43.99 EUR (original: 65.0 EUR) (32.32 %  de descuento) en el siguiente enlace!
@@ -24,14 +25,10 @@ Ahora mismo tienes [Levi s Batwing Hoodie  cappuccio Donna  Avorio  Sportswear H
 
 🔎:
 
-- 35946
-- Regular
-- Machine Wash
-- Long Sleeve
-- Fastening: No closure
-- Graphic sport hoodie
-- 100% Cotton
-- Regular Fit
-- Collar Style: Hooded
+- Levis logo sul petto
+- Cappuccio con coulisse
+- Orli a coste
+- Stile sportivo e comfort casual
+- Tasca a marsupio
 
 [Visítala!!!](https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21)

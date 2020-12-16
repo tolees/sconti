@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash V2  Scarpe da Ginnastica Unis al 35.96 % de descuento'
-date: 2020-12-15 06:17:49
+date: 2020-12-16 06:20:37
 image: 'https://m.media-amazon.com/images/I/41ztqae-fAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Bla
 
 🔎:
 
+- Soft suede/leather upper
+- Smash sneakers
+- Durable, grippy, rubber outsole
 - Inspired by tennis. Enjoyed as daily footwear
 - Updated, improved fit
-- Soft suede/leather upper
-- Durable, grippy, rubber outsole
-- Smash sneakers
 
 [Visítala!!!](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21)

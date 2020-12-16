@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VERO MODA VMMAXI MY LS SOFT LONG U-NECK  al 38.30 % de descuento'
-date: 2020-12-15 06:09:23
+date: 2020-12-16 06:54:15
 image: 'https://m.media-amazon.com/images/I/41Y++yxWx8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01F76OENK/?tag=tolees00-21'
 descuento: '38.30'
-average: '9.61'
+average: '9.572325581395349'
 ---
 
 Ahora mismo tienes [VERO MODA VMMAXI MY LS SOFT LONG U-NECK NOOS  Maglia a maniche lunghe Donna  Nero  Black   40  Taglia Produttore: Large ](https://www.amazon.it/dp/B01F76OENK/?tag=tolees00-21) a 7.99 EUR (original: 12.95 EUR) (38.30 %  de descuento) en el siguiente enlace!

@@ -28,7 +28,7 @@ Está [Giochi Preziosi Pisolone Gormiti  Grande e Morbido  Facile da Piegare e T
 - Morbido Pisolone che riproduce il personaggio Lord Keryon
 - Nicchia nelle zampe per poter inserire le mani del bambino e consentire labbraccio
 - Ampia apertura laterale su entrambi i lati
-- La testa del supereroe è un cuscino staccabile e lavabile
 - Possibilità di unire 2 o più pisoloni
+- La testa del supereroe è un cuscino staccabile e lavabile
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07RN1LK47/?tag=tolees00-21)

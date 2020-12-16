@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.35 % en Roberto Cavalli Just Cavalli for Her Eau'
-date: 2020-12-15 06:03:06
+date: 2020-12-16 06:46:57
 image: 'https://m.media-amazon.com/images/I/41szkuoYsUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00AKFFXG6/?tag=tolees00-21'
 descuento: '35.35'
-average: '26.404878048780496'
+average: '26.488571428571436'
 ---
 
 Tienes [Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml](https://www.amazon.it/dp/B00AKFFXG6/?tag=tolees00-21) con un 35.35 % de descuento con precio de oferta de 29.92 EUR (original: 46.28 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Tienes [Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml](http
 
 ℹ️:
 
+- Donna
 - 75 ml
 - EDT
-- Donna
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00AKFFXG6/?tag=tolees00-21)

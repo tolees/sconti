@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grandi Giochi GG01300 - Occhio al Fantas al 33.41 % de descuento'
-date: 2020-12-13 17:25:58
+date: 2020-12-16 06:49:47
 image: 'https://m.media-amazon.com/images/I/61k7AX5SNIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B071GTQ8WG/?tag=tolees00-21'
 descuento: '33.41'
+average: '31.870750000000008'
 ---
 
 Está [Grandi Giochi GG01300 - Occhio al Fantasma](https://www.amazon.it/dp/B071GTQ8WG/?tag=tolees00-21) con 33.41 de descuento por 29.9 EUR (original: 44.9 EUR) en el siguiente enlace!
@@ -24,9 +25,9 @@ Está [Grandi Giochi GG01300 - Occhio al Fantasma](https://www.amazon.it/dp/B071
 
 ℹ️:
 
-- Gioco di azione e abilità
-- 1 o più giocatori
 - Da 5 anni in su
+- Gioco di azione e abilità
 - Elimina il maggior numero di fantasmi e vinci il gioco
+- 1 o più giocatori
 
 [Ver la oferta!!](https://www.amazon.it/dp/B071GTQ8WG/?tag=tolees00-21)

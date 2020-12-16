@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.68 % en JACK & JONES Jjeholmen Sweat Zip Hood No'
-date: 2020-12-14 05:58:44
+date: 2020-12-16 06:36:07
 image: 'https://m.media-amazon.com/images/I/31SMoSnn2sL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21'
 descuento: '36.68'
+average: '18.915925925925926'
 ---
 
 Tienes [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy Blazer Fit: Reg Fit   Large Uomo](https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21) con un 36.68 % de descuento con precio de oferta de 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!
@@ -24,7 +25,10 @@ Tienes [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy Blazer Fit: 
 
 ℹ️:
 
-- Long-sleeved
-- Comfortable to wear
+- CAPPUCCIO CON COULISSE REGOLABILE
+- DUE TASCHE OBLIQUE SUL DAVANTI
+- FELPA IN TESSUTO GARZATO
+- MANICHE CON POLSINO
+- CHIUSA DA ZIP SU TUTTA LA LUNGHEZZA
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21)

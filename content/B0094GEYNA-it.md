@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - Dobble Divertente Gioco da Tav al 25.16 % de descuento'
-date: 2020-12-14 05:54:03
+date: 2020-12-16 06:43:14
 image: 'https://m.media-amazon.com/images/I/51gSnfTB6mL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0094GEYNA/?tag=tolees00-21'
 descuento: '25.16'
+average: '14.516982248520709'
 ---
 
 Está [Asmodee - Dobble Divertente Gioco da Tavolo per Tutta la Famiglia Edizione in Italiano  8230](https://www.amazon.it/dp/B0094GEYNA/?tag=tolees00-21) con 25.16 de descuento por 11.9 EUR (original: 15.9 EUR) en el siguiente enlace!
@@ -24,10 +25,10 @@ Está [Asmodee - Dobble Divertente Gioco da Tavolo per Tutta la Famiglia Edizion
 
 ℹ️:
 
-- Durata media: 15 min.
 - Dobble è un gioco di rapidità in cui dovete essere i più rapidi a trovare il simbolo identico tra due carte!
-- Lingua: edizione interamente in italiano
+- Durata media: 15 min.
 - Numero di giocatori: da 2 a 8
+- Lingua: edizione interamente in italiano
 - Età suggerita: da 6 anni in su
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0094GEYNA/?tag=tolees00-21)
