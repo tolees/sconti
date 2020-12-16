@@ -25,10 +25,10 @@ Está [BaByliss ST495E Piastra Lisciante 2 in 1 Pure Metal Steam  Funzione Vapor
 
 ℹ️:
 
-- Schermo LED - Sistema di blocco piastre - Cavo girevole
-- Generatore di micro-vaporizzazione: per capelli idratati e lucenti - Tasto di attivazione LED -Distribuzione omogenea su tutta la ciocca
-- Rivestimento piastre interne Diamond Ceramic - Dimensioni 39x110mm - Design per lisciare&arricciare
 - Funzione ionic- Pettine districante integrato - Punte isolanti in silicone amovibili - Borsa da toilette resistente al calore che funge da tappetino quando è aperta
 - Riscaldamento ultra rapido in 15 secondi - 5 temperature da 150C a 230C - Piastre curve riscaldate fino a 110C
+- Generatore di micro-vaporizzazione: per capelli idratati e lucenti - Tasto di attivazione LED -Distribuzione omogenea su tutta la ciocca
+- Rivestimento piastre interne Diamond Ceramic - Dimensioni 39x110mm - Design per lisciare&arricciare
+- Schermo LED - Sistema di blocco piastre - Cavo girevole
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01L2K7IF6/?tag=tolees00-21)
