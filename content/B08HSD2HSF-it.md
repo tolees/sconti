@@ -25,10 +25,10 @@ Está [De  Longhi Nescafé Dolce Gusto EDG110.WB Macchina per Caffè Espresso e 
 
 ℹ️:
 
+- Macchina per caffè espresso e bevande calde/fredde con sistema a capsule Nescafé Dolce Gusto con pompa ad alta pressione (fino a 15 bar di pressione)
+- Assapora tutte le varietà dei nostri caffè espressi e le nostre bevande
 - Sistema di riscaldamento THERMOBLOCK
 - La Piccolo XS Nescafé Dolce Gusto è la macchina per caffè in capsule che, grazie alle sue dimensioni ridotte e al suo design moderno, si adatta ad ogni cucina
-- Macchina per caffè espresso e bevande calde/fredde con sistema a capsule Nescafé Dolce Gusto con pompa ad alta pressione (fino a 15 bar di pressione)
 - Dimensioni: 13,6 x 27,6 x 26,6 cm; serbatoio rimovibile da 0.8 l; spegnimento automatico dopo 1 minuto di inutilizzo
-- Assapora tutte le varietà dei nostri caffè espressi e le nostre bevande
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08HSD2HSF/?tag=tolees00-21)

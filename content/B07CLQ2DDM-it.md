@@ -25,8 +25,8 @@ Tienes [Yespresso NESPRESSO compatibili  Cremoso Napoli - 200 Capsule](https://w
 
 ℹ️:
 
-- caffè torrefatto in Italia per macchine nespresso
-- capsule autoprotetta in astucci da 10 capsule
 - compatibile con tutte le macchine ad uso domestico nespresso
+- capsule autoprotetta in astucci da 10 capsule
+- caffè torrefatto in Italia per macchine nespresso
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07CLQ2DDM/?tag=tolees00-21)
