@@ -25,8 +25,8 @@ Ahora mismo tienes [headu- Leggo e Scrivo Montessori Gioco Educativo Lavagna di 
 
 🔎:
 
+- La lavagna di sabbia guida alla prescrittura e alla scrittura di lettere, parole e numeri
 - Con materiali di sabbia di vario colore che non sporcano e non seccano, gli stampini dellabc e un ricco manuale didattico
 - Il gioco tattile per imparare veramente
-- La lavagna di sabbia guida alla prescrittura e alla scrittura di lettere, parole e numeri
 
 [Visítala!!!](https://www.amazon.it/dp/B07FD7TY9G/?tag=tolees00-21)
