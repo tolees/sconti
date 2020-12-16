@@ -25,10 +25,10 @@ Está [YAMAMAY® Camicia Blusa da Donna in Chiffon a Maniche Corte - Party](http
 
 ℹ️:
 
-- Camicia da donna a maniche corte in tessuto chiffon semi-trasparente
-- Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
-- Particolare scollo a goccia sul decolleté e arricciatura stoffa per enfatizzare il punto vita
 - Composizione: 100%POLYESTER
 - Yamamay Official Collection - Inverno 2018
+- Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
+- Particolare scollo a goccia sul decolleté e arricciatura stoffa per enfatizzare il punto vita
+- Camicia da donna a maniche corte in tessuto chiffon semi-trasparente
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085YDCLLN/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crash Bandicoot 4 - It s About Time - Xb al 28.58 % de descuento'
-date: 2020-12-15 06:13:24
+date: 2020-12-16 18:49:05
 image: 'https://m.media-amazon.com/images/I/51BFEuYS9OL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BPSP6CY/?tag=tolees00-21'
 descuento: '28.58'
-average: '60.32158730158729'
+average: '60.0036923076923'
 ---
 
 Ahora mismo tienes [Crash Bandicoot 4 - It s About Time - Xbox One](https://www.amazon.it/dp/B08BPSP6CY/?tag=tolees00-21) a 49.99 EUR (original: 69.99 EUR) (28.58 %  de descuento) en el siguiente enlace!

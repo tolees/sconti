@@ -1,29 +1,31 @@
 ---
 layout: post
-title: 'Reebok Classic Leather  Scarpe da Fitnes al 36.72 % de descuento'
-date: 2020-08-30 11:30:37
-image: 'https://m.media-amazon.com/images/I/41uVy5qTHkL._SL200_.jpg'
+title: 'Reebok CLASSIC LEATHER  Scarpe da fitnes al 38.85 % de descuento'
+date: 2020-12-16 18:56:54
+image: 'https://m.media-amazon.com/images/I/41C2oSsCT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01BZYABSK-it'
-actualPrice: 56.92 EUR
+actualPrice: 55.0 EUR
 currency: EUR
-price: 56.92
+price: 55.0
 comparePrice: 89.95 EUR
-prodname: 'Reebok Classic Leather  Scarpe da Fitness Uomo  Nero  43 EU'
+prodname: 'Reebok CLASSIC LEATHER  Scarpe da fitness Uomo  Nero  43 EU'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21'
-descuento: '36.72'
-average: '56.92'
+descuento: '38.85'
+average: '55.96'
 ---
 
-Está [Reebok Classic Leather  Scarpe da Fitness Uomo  Nero  43 EU](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21) con 36.72 de descuento por 56.92 EUR (original: 89.95 EUR) en el siguiente enlace!
+Está [Reebok CLASSIC LEATHER  Scarpe da fitness Uomo  Nero  43 EU](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21) con 38.85 de descuento por 55.0 EUR (original: 89.95 EUR) en el siguiente enlace!
 
-[![Reebok Classic Leather  Scarpe da Fitnes](https://m.media-amazon.com/images/I/41uVy5qTHkL._SL200_.jpg)](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21)
+[![Reebok CLASSIC LEATHER  Scarpe da fitnes](https://m.media-amazon.com/images/I/41C2oSsCT4L._SL200_.jpg)](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21)
 
 ℹ️:
 
+- La scarpa ha unintersuola in eva fustellata e un logo Reebok in grigio
+- Suola in gomma e soletta in poliuretano sagomato
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21)
