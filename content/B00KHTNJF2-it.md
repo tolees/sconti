@@ -25,10 +25,10 @@ Ahora mismo tienes [Under Armour UA HeatGear Long Sleeve  Maglia A Maniche Lungh
 
 🔎:
 
+- Material and Fit: Under Armour men’s compression top UA HeatGear Armour; Sportshirt; Fit: Compression; Material: polyester/elastane
+- UV Protection Factor 30+: With UPF 30+, the running shirt protects against sun rays and the 4-way stretch material allows maximal mobility
+- Sweat Less: With its innovative fabric, the quick-drying sports shirt draws sweat away from the skin, while the net insert ensures extra ventilation
 - Optimal Comfort: The long-sleeve top has all the advantages of UA compression, but is still comfortable enough to be worn all day
 - Ideal Sports Clothing: The long-sleeve training shirt dries quickly, protects from sun rays and offers absolute comfort when worn
-- UV Protection Factor 30+: With UPF 30+, the running shirt protects against sun rays and the 4-way stretch material allows maximal mobility
-- Material and Fit: Under Armour men’s compression top UA HeatGear Armour; Sportshirt; Fit: Compression; Material: polyester/elastane
-- Sweat Less: With its innovative fabric, the quick-drying sports shirt draws sweat away from the skin, while the net insert ensures extra ventilation
 
 [Visítala!!!](https://www.amazon.it/dp/B00KHTNJF2/?tag=tolees00-21)

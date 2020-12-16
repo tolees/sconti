@@ -25,11 +25,11 @@ Ahora mismo tienes [Playfun - Macchina delle Bugie  96967](https://www.amazon.it
 
 🔎:
 
+- Scegli una domanda dalle carte o inventane una al momento
 - La confezione comprende: giocattolo
-- Da 8 anni
+- IMC Toys
 - Versione in italiano
 - Se dici una bugia perdi immediatamente un punto
-- Scegli una domanda dalle carte o inventane una al momento
-- IMC Toys
+- Da 8 anni
 
 [Visítala!!!](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21)

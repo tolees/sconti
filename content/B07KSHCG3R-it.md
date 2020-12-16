@@ -27,8 +27,8 @@ Está [Samsung Memorie MZ-76Q1T0 860 QVO SSD Interno da 1 TB  SATA  2.5"](https:
 
 - Consente di gestire facilmente carichi di lavoro intensi di PC, workstation, NAS (Network Attached Systems) di alto livello per offrire ottima durata a gamer, creativi e professionisti del settore IT
 - SSD con tecnologia V-NAND Samsung
-- Capacità disponibile: fino a 4 TB
 - Fattore di forma: 2.5 pollici
+- Capacità disponibile: fino a 4 TB
 - Velocità di lettura sequenziale fino a 550 MB/s e velocità di scrittura sequenziale fino a 520 MB/s
 - Interfaccia SATA 6 Gb/s compatibile con interfacce SATA 3 Gb/s e SATA 1.5 Gb/s
 

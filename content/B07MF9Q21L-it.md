@@ -25,11 +25,11 @@ Está [SRS-XB12 - Speaker wireless portatile con EXTRA BASS  Impermeabile e resi
 
 ℹ️:
 
+- EXTRA BASS technology for powerful sound
+- Battery life of up to 16 hours
+- Waterproof, dustproof, sandproof and mudproof (IP67 rated)
 - Pair two SRS-XB12 speakers together for stereo sound
 - Bluetooth compatible
-- Waterproof, dustproof, sandproof and mudproof (IP67 rated)
-- EXTRA BASS technology for powerful sound
 - Compact & lightweight, but powerful
-- Battery life of up to 16 hours
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MF9Q21L/?tag=tolees00-21)

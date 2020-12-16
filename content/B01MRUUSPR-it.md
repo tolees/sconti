@@ -25,8 +25,8 @@ Está [PlayStation 4 - Dualshock 4 Controller Wireless V2  Bianco  Glacier White
 
 ℹ️:
 
-- Compatibile con il software di sistema PS4 versione 3.5 o successiva. Può comunicare dati al sistema PS4 tramite un cavo USB (venduto separatamente)
-- La parte superiore del touch pad e trasparente, lasciando intravedere la barra luminosa
 - Le superfici a contatto con le mani hanno delle texture con maggiore grip
+- La parte superiore del touch pad e trasparente, lasciando intravedere la barra luminosa
+- Compatibile con il software di sistema PS4 versione 3.5 o successiva. Può comunicare dati al sistema PS4 tramite un cavo USB (venduto separatamente)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01MRUUSPR/?tag=tolees00-21)

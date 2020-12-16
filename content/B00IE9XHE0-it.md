@@ -25,11 +25,11 @@ Tienes [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Inte
 
 ℹ️:
 
-- Flash integrato, display 3" LCD inclinabile 180°
 - Compatibilità obiettivi: attacco E di Sony
+- Flash integrato, display 3" LCD inclinabile 180°
 - Processore di immagini BIONZ X, 179 punti Eye AF
+- Mirino OLED Tru-Finder ad alta risoluzione
 - Kit con obiettivo SEL 16-50 mm
 - Fotocamera digitale Mirrorless Sony con sensore APS-C CMOR Exmor 24.3 megapixel
-- Mirino OLED Tru-Finder ad alta risoluzione
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21)

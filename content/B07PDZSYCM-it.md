@@ -25,10 +25,10 @@ Está [tado° Controllo Climatizzazione Intelligente V3+ - facile installazione 
 
 ℹ️:
 
-- Controlla il tuo condizionatore con lapp tado° ovunque ti trovi, riduci il consumo energetico e risparmia con laiuto delle Skills intelligenti
-- Goditi una temperatura ottima in ogni stanza con la Programmazione Intelligente e mantieni un clima sano in casa
-- tado° è compatibile con i condizionatori dotati di telecomando a infrarossi con display, e funziona con l’Assistente Google, Amazon Alexa e HomeKit di Apple
 - Il climatizzatore resta spento quando le finestre sono aperte o quando non cè nessuno in casa; tado° ti avvisa se è stata aperta una finestra e quando tutti sono usciti di casa: potrai spegnere il condizionatore con un solo clic
+- tado° è compatibile con i condizionatori dotati di telecomando a infrarossi con display, e funziona con l’Assistente Google, Amazon Alexa e HomeKit di Apple
+- Goditi una temperatura ottima in ogni stanza con la Programmazione Intelligente e mantieni un clima sano in casa
+- Controlla il tuo condizionatore con lapp tado° ovunque ti trovi, riduci il consumo energetico e risparmia con laiuto delle Skills intelligenti
 - Auto-Assist: per comfort è possibile automatizzare Geolocalizzazione e Rilevamento Finestra Aperta e avere accesso a Care & Protect, disponibile in app, 2,99€/mese, 24,99€/anno; cancellazione possibile in qualsiasi momento
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07PDZSYCM/?tag=tolees00-21)

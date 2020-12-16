@@ -25,8 +25,8 @@ Tienes [Tommy Hilfiger SS Tee Logo Maglietta  Bianco  White 100   Small Uomo](ht
 
 ℹ️:
 
-- Brand New and Genuine. We are an authorised seller of Tommy Hilfiger.
 - See product description below for more information.
 - Tommy Hilfiger White Arched Logo T-Shirt
+- Brand New and Genuine. We are an authorised seller of Tommy Hilfiger.
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01N9WIV71/?tag=tolees00-21)

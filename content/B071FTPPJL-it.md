@@ -25,10 +25,10 @@ Ahora mismo tienes [Levi s Batwing Hoodie  cappuccio Donna  Avorio  Sportswear H
 
 🔎:
 
-- Levis logo sul petto
+- Tasca a marsupio
 - Cappuccio con coulisse
+- Levis logo sul petto
 - Orli a coste
 - Stile sportivo e comfort casual
-- Tasca a marsupio
 
 [Visítala!!!](https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [LEGO 30342 Lamborghini Huracan Super Trofeo Evo Speed Champi
 
 🔎:
 
-- 70 pezzi
 - Speed Champions Lamborghini Huracán Super Trofeo EVO
-- LEGO 30342
 - Età consigliata: 6+
+- 70 pezzi
+- LEGO 30342
 
 [Visítala!!!](https://www.amazon.it/dp/B086GTMPQC/?tag=tolees00-21)

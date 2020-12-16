@@ -25,10 +25,10 @@ Está [Western Digital WD My Passport Go SSD Portatile  500 GB  Blu Bordo Cobalt
 
 ℹ️:
 
-- Resistente a cadute fino a 2 metri di altezza, con paracolpi protettivo in gomma per sopportare impatti e urti, anche quando lunità è collegata
-- Utilizzabile sia con PC che con computer Mac, comprende un software di backup automatico compatibile con Windows e Time Machine (riformattazione necessaria)
-- 2.5 volte più veloce rispetto alla maggior parte degli hard disk portatili, con prestazioni fino a 400 MB/sec
-- Unità a stato solido priva di parti mobili, appositamente progettata e realizzata da WD per offrire lottima sicurezza e affidabilità
 - Unità dal formato tascabile con cavo integrato per offrire una migliore portabilità
+- Resistente a cadute fino a 2 metri di altezza, con paracolpi protettivo in gomma per sopportare impatti e urti, anche quando lunità è collegata
+- 2.5 volte più veloce rispetto alla maggior parte degli hard disk portatili, con prestazioni fino a 400 MB/sec
+- Utilizzabile sia con PC che con computer Mac, comprende un software di backup automatico compatibile con Windows e Time Machine (riformattazione necessaria)
+- Unità a stato solido priva di parti mobili, appositamente progettata e realizzata da WD per offrire lottima sicurezza e affidabilità
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MVWJZVS/?tag=tolees00-21)
