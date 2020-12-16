@@ -25,10 +25,10 @@ Está [LEGO Super Heroes 76119 - Batmobile  Inseguimento di Joker con Due Minifi
 
 ℹ️:
 
-- Utilizza lapp Lego Life per accedere alle intuitive istruzioni per la costruzione Instructions Plus
-- Include lo shooter del Joker e 10 elementi pipistrello assortiti per personalizzare il modello, le minifigure e le armi
 - la fiamma dello scarico ruota quando spingi lauto
 - Questo gioco per i bambini è un ottimo regalo da super eroe per tutti i fan di Batman
+- Include lo shooter del Joker e 10 elementi pipistrello assortiti per personalizzare il modello, le minifigure e le armi
+- Utilizza lapp Lego Life per accedere alle intuitive istruzioni per la costruzione Instructions Plus
 - Questo set di gioco di super eroi contiene 2 minifigure Lego Batman e il Joker
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07KTV6FZV/?tag=tolees00-21)
