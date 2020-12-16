@@ -25,10 +25,10 @@ Está [realme 6 Smartphone  4 GB + 64 GB  Fotocamera AL QUAD da 64 MP  Display U
 
 ℹ️:
 
-- AI Quad camera posteriore da 64 MP
-- Selfie camera da 16MP
-- NFC
 - Pro display 90 Hz
 - 30W flash charge
+- Selfie camera da 16MP
+- AI Quad camera posteriore da 64 MP
+- NFC
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085PKRLDB/?tag=tolees00-21)

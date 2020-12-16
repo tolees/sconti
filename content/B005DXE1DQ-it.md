@@ -25,8 +25,8 @@ Tienes [Geox Federico Uomo  Scarpe  Nero  Black C9999   40 EU](https://www.amazo
 
 ℹ️:
 
-- Suola imbottita in pelle
 - Vera pelle
+- Suola imbottita in pelle
 - Suola elegante
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B005DXE1DQ/?tag=tolees00-21)
