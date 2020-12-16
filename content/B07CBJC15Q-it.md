@@ -25,8 +25,8 @@ Está [Clementoni Soliti Ignoti Gioco da tavolo  Multicolore  11499](https://www
 
 ℹ️:
 
-- Contiene un tabellone con identità nascoste e carte "mestiere" da abbinare a ciascuna di queste... chi sarà il più bravo a svelarle tutte e vincere?
 - Un gioco coinvolgente per lanciarsi in divertenti sfide con parenti e amici.
 - Il famoso programma TV prende vita in un divertente gioco da tavolo per tutta la famiglia!
+- Contiene un tabellone con identità nascoste e carte "mestiere" da abbinare a ciascuna di queste... chi sarà il più bravo a svelarle tutte e vincere?
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07CBJC15Q/?tag=tolees00-21)

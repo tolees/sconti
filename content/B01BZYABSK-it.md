@@ -25,7 +25,7 @@ Está [Reebok CLASSIC LEATHER  Scarpe da fitness Uomo  Nero  43 EU](https://www.
 
 ℹ️:
 
-- Suola in gomma e soletta in poliuretano sagomato
 - La scarpa ha unintersuola in eva fustellata e un logo Reebok in grigio
+- Suola in gomma e soletta in poliuretano sagomato
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21)
