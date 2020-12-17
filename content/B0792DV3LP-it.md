@@ -28,7 +28,7 @@ Tienes [Geox D Felicity F  Stivaletti Donna  Nero  Black C9999   38 EU](https://
 - Materiale suola: Sintetico
 - Fodera: Sintetico
 - Chiusura: Cerniera
-- Tipo di tacco: Senza tacco
 - Materiale esterno: Pelle
+- Tipo di tacco: Senza tacco
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0792DV3LP/?tag=tolees00-21)

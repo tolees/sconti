@@ -26,9 +26,9 @@ Tienes [Rio Mare  Filetto di Salmone con Olio Extravergine di Oliva  Cotto al Va
 ℹ️:
 
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
-- Formato: confezione da 1 lattina da 125 g
 - Consigli uso: ottimale per preparare secondi delicati e sfiziosi. Provalo con una insalatina di cuori di carciofo
-- Filetti di salmone ben puliti da pelle e lische, delicatamente cotti al vapore, ricchi di Omega 3
+- Formato: confezione da 1 lattina da 125 g
 - Ingredienti: salmone (Salmo salar crudo introdotto 95%), olio extra vergine di oliva 3%, sale
+- Filetti di salmone ben puliti da pelle e lische, delicatamente cotti al vapore, ricchi di Omega 3
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B072QKTBDW/?tag=tolees00-21)

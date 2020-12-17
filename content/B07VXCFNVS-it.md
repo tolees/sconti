@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston A2000  SA2000M8/500G  NVMe PCIe al 49.16 % de descuento'
-date: 2020-12-16 06:43:44
+date: 2020-12-17 12:59:27
 image: 'https://m.media-amazon.com/images/I/41zd6P+MlLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21'
 descuento: '49.16'
-average: '57.64735294117647'
+average: '57.7775'
 ---
 
 Está [Kingston A2000  SA2000M8/500G  NVMe PCIe SSD 500G  500 GB](https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21) con 49.16 de descuento por 59.99 EUR (original: 117.99 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Kingston A2000  SA2000M8/500G  NVMe PCIe SSD 500G  500 GB](https://www.am
 
 ℹ️:
 
-- Supporto completo per le suite di sicurezza (tcg opal, xts-aes 256-bit, edrive)
-- Prestazioni pcie nvme a una frazione del costo
 - Opzioni di upgrade fino a 1tb
 - Ideale per dispositivi ultrabook e per sistemi pc sff (small form factor)
+- Prestazioni pcie nvme a una frazione del costo
+- Supporto completo per le suite di sicurezza (tcg opal, xts-aes 256-bit, edrive)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21)

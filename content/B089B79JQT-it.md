@@ -25,8 +25,8 @@ Tienes [CARPISA® Shopping bag - Quieta](https://www.amazon.it/dp/B089B79JQT/?ta
 
 ℹ️:
 
-- Dimensioni: 37.00x31.00x16.00
 - Approfitta della Spedizione Gratuita con un minimo di € 59,00 su tutti i prodotti CARPISA Official! Visita il nostro Store e crea il tuo Kit da Viaggio!
 - Composizione: Tessuto
+- Dimensioni: 37.00x31.00x16.00
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B089B79JQT/?tag=tolees00-21)
