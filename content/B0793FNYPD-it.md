@@ -25,9 +25,9 @@ Está [PlayStation 4: DualShock 4  Blu  Midnight blue  - Edizione speciale](http
 
 ℹ️:
 
-- Il nuovo Controller Wireless per PS4 (DUALSHOCK 4) proietta la luce emessa dalla barra luminosa sul touch pad; questo fornisce ai giocatori informazioni visive a colpo docchio
-- Il nuovo DUALSHOCK 4 supporta la comunicazione USB in aggiunta alla funzione Bluethooth attualmente disponibile, permettendo ai giocatori di avere il controllo anche via cavo
 - Compatibile con il software di sistema PS4 versione 3.5 o successiva
+- Il nuovo DUALSHOCK 4 supporta la comunicazione USB in aggiunta alla funzione Bluethooth attualmente disponibile, permettendo ai giocatori di avere il controllo anche via cavo
+- Il nuovo Controller Wireless per PS4 (DUALSHOCK 4) proietta la luce emessa dalla barra luminosa sul touch pad; questo fornisce ai giocatori informazioni visive a colpo docchio
 - Controller wireless per PS4 (DUALSHOCK 4) in versione Midnight Blue
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0793FNYPD/?tag=tolees00-21)

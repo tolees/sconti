@@ -25,8 +25,8 @@ Está [adidas Football App Generic Sweatshirt Long Sleeve  Uomo  Black/White  XL
 
 ℹ️:
 
-- Adidas Apparel
-- Core18 sw top
 - Black/white
+- Core18 sw top
+- Adidas Apparel
 
 [Ver la oferta!!](https://www.amazon.it/dp/B076HR3BHS/?tag=tolees00-21)
