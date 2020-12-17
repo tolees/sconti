@@ -26,9 +26,9 @@ Ahora mismo tienes [Ravensburger Gravitrax StarterSet Speed 27412  Gioco di Cost
 🔎:
 
 - GraviTrax Starter Set Speed contiene: 2 cannoni magnetici, 2 spirali, 1 Looping, 1 Flip, Tunnel, 2 piattaforme trasparenti, 10 binari-Bernoulli di plastica e molti altri elementi; costruisci la tua pista con più di 180 pezzi
-- I bambini possono liberare la loro creatività e ingegno inventando piste oppure possono trarre ispirazione dallutile manuale di progettazione, che offre 5 diversi progetti di piste da seguire dalla più semplice alla più complessa
 - Con Gravitrax Starter Set Speed costruisci la tua pista a tutta velocità; un numero elevato di accessori ed espansioni ti permetteranno di costruire una pista veloce e divertente; realizza acrobazie e percorsi con Gravitrax Set Speed
 - GraviTrax è un gioco educativo, permette infatti ai bambini di imparare concetti legati alla gravità, cinetica e magnetismo mentre si divertono a costruire le proprie piste e percorsi
 - GraviTrax è la pista di biglie del futuro di Ravensburger per bambini e bambine a partire da 8 anni, è un gioco STEM di costruzioni che offre ore di puro divertimento da soli, con gli amici o con la famiglia
+- I bambini possono liberare la loro creatività e ingegno inventando piste oppure possono trarre ispirazione dallutile manuale di progettazione, che offre 5 diversi progetti di piste da seguire dalla più semplice alla più complessa
 
 [Visítala!!!](https://www.amazon.it/dp/B0002HWUNQ/?tag=tolees00-21)

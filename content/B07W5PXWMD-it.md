@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Descuento del 30.27 % en LEGO NINJAGO Il Mercato dei Ninja Gamers'
+date: 2020-12-17 08:28:15
+image: 'https://m.media-amazon.com/images/I/51g9nBJ8lrL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07W5PXWMD-it'
+actualPrice: 24.4 EUR
+currency: EUR
+price: 24.4
+comparePrice: 34.99 EUR
+prodname: 'LEGO NINJAGO Il Mercato dei Ninja Gamers  Set con 9 Minifigure con Digi Jay  Avatar Pink Zane e Avatar Harumi   71708'
+country: 'it'
+flag: '🇮🇹'
+buyurl: 'https://www.amazon.it/dp/B07W5PXWMD/?tag=tolees00-21'
+descuento: '30.27'
+average: '24.4'
+---
+
+Tienes [LEGO NINJAGO Il Mercato dei Ninja Gamers  Set con 9 Minifigure con Digi Jay  Avatar Pink Zane e Avatar Harumi   71708](https://www.amazon.it/dp/B07W5PXWMD/?tag=tolees00-21) con un 30.27 % de descuento con precio de oferta de 24.4 EUR (original: 34.99 EUR) en el siguiente enlace!
+
+[![LEGO NINJAGO Il Mercato dei Ninja Gamers](https://m.media-amazon.com/images/I/51g9nBJ8lrL._SL200_.jpg)](https://www.amazon.it/dp/B07W5PXWMD/?tag=tolees00-21)
+
+ℹ️:
+
+- Questo mercato da 218 pezzi è un giocattolo veloce da costruire, ottimo anche come regalo di compleanno per bambini e bambine dai 7 anni in su
+- I kit costruibili LEGO NINJAGO per bambini stimolano la creatività e permettono loro di entrare in un mondo emozionante, in cui possono collaborare con i loro eroi ninja preferiti ricreando avventure
+- Questo mercato giocattolo permette di divertirsi sia a casa che in viaggio; la bancarella delle Key-Tana è elevata 14 cm e larga 9 cm
+- Questo set costruibile include 9 minifigure, tra cui Digi Jay, Avatar Nya e Avatar Cole e gli esclusivi personaggi di Pink e Harumi di NINJAGO
+- Le Instructions PLUS offrono una guida interattiva che rende ancora più piacevole la costruzione di questo mercato LEGO; disponibili nellapp LEGO Life gratuita
+- I mattoncini utilizzati sono stati sottoposti a test rigorosi e soddisfano elevati standard globali di sicurezza e qualità; quando scegli di regalare un set LEGO, sai che i bambini sono in buone mani
+- Da oltre 60 anni, i mattoncini LEGO utilizzati per questo giocattolo costruibile soddisfano elevati standard del settore: sono sempre omogenei e compatibili e si montano e si smontano facilmente.
+- Le bancarelle del mercato LEGO offrono 6 diversi cappelli ninja e una serie di nuove armi per accendere limmaginazione dei più piccoli, che si divertiranno a vestire e armare 9 personaggi di gioco
+- Questo giocattolo costruibile non richiede batterie e, non appena completato, è subito pronto per giocare da soli o con gli amici; con questi ninja collezionabili il divertimento non finisce mai
+- Mercato LEGO con 9 minifigure LEGO di Prime Empire, un regalo ottimo per i bambini che amano il regno di NINJAGO e inventare storie con i giocattoli ninja collezionabili
+
+[Accede a la oferta!!](https://www.amazon.it/dp/B07W5PXWMD/?tag=tolees00-21)

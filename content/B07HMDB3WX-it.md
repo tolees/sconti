@@ -25,10 +25,10 @@ Está [Meliconi HP600 Pro - Cuffie TV stereo con ingresso ottico Digitale e Base
 
 ℹ️:
 
-- Base di ricarica dal minimo ingombro, ideale per riporre le cuffie dopo luso; circa 8 ore di uso continuato a volume medio mediante batteria a polimeri di litio
 - Eccellente isolamento acustico nei confronti dei rumori dambiente; leggere, ergonomiche e confortevoli, con padiglioni di forma ovoidale che si adattano perfettamente alla forma dellorecchio
 - Riproduzione audio stereo senza interferenze (in condizioni ottimali); collegamento rapido a tv, decoder, dvd, blu ray e altre fonti audio analogiche e digitali; tre canali di trasmissione disponibili per evitare interferenze
 - Sistema senza fili che consente lascolto di programmi senza lingombro di cavi e lasciando completa libertà di movimento; il segnale attraversa muri e soffitti; distanza operativa fino a 100 metri in campo aperto; cavo audio aux (jack stereo analogico 3.5mm) e cavo audio toslink (audio ottico digitale) in dotazione
 - La cuffia è dotata di 3 ingressi - ottico digitale, coassiale digitale e analogico - in modo da essere compatibile praticamente con tutti i modelli di tv; auto spegnimento della cuffia in mancanza di segnale
+- Base di ricarica dal minimo ingombro, ideale per riporre le cuffie dopo luso; circa 8 ore di uso continuato a volume medio mediante batteria a polimeri di litio
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07HMDB3WX/?tag=tolees00-21)

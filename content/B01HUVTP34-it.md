@@ -25,10 +25,10 @@ Ahora mismo tienes [Crocs Fun Lab Disney And Pixar Cars Clog  Sabot Unisex – B
 
 🔎:
 
-- Materiale suola: Sintetico
-- Tipo di tacco: Senza tacco
+- Materiale esterno: Gomma
 - Fodera: Senza rivestimento interno
 - Chiusura: Senza chiusura
-- Materiale esterno: Gomma
+- Materiale suola: Sintetico
+- Tipo di tacco: Senza tacco
 
 [Visítala!!!](https://www.amazon.it/dp/B01HUVTP34/?tag=tolees00-21)

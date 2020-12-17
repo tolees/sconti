@@ -25,8 +25,8 @@ Está [Funko Pop Advent Calendar: Dragon Ball Z  Multicolore  49660](https://www
 
 ℹ️:
 
-- 24 sorprese ogni giorno fino al giorno di Natale
 - Li raccogli tutti?
+- 24 sorprese ogni giorno fino al giorno di Natale
 - Calendario dellavvento Funko Pocket POP Dragon Ball Z
 - Funko POP È il giocattolo dellanno scelto dai Popoli del 2018
 

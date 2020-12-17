@@ -25,10 +25,10 @@ Ahora mismo tienes [Samsung Memorie MZ-V7S500 970 EVO Plus SSD Interno da 500GB 
 
 🔎:
 
-- Fattore di forma m.2
 - Velocità di lettura e scrittura sequenziale rispettivamente fino a 3500/3300 MB/s; le performance possono variare in base al sistema hardware e alla configurazione
 - Capacità disponibile: fino a 2 TB
-- Interfaccia NVMe (Pcle Gen 3.0 x 4)
 - Progettato per gli appassionati di tecnologia, giocatori esperti e professionisti che hanno bisogno di performance elevate
+- Interfaccia NVMe (Pcle Gen 3.0 x 4)
+- Fattore di forma m.2
 
 [Visítala!!!](https://www.amazon.it/dp/B07MFBLN7K/?tag=tolees00-21)

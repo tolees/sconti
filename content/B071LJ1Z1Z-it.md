@@ -26,7 +26,7 @@ Está [Crocs Classic Clog  Unisex – Adulto  Grigio  Slate Grey   43/44 EU](htt
 ℹ️:
 
 - The Crocs shoes will display US sizes
-- Sole sizes are US. Label shows UK. M = Mens W = Womens
 - Water-friendly, ventilated forefoot for breathability and lightweight
+- Sole sizes are US. Label shows UK. M = Mens W = Womens
 
 [Ver la oferta!!](https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21)

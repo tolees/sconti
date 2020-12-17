@@ -25,9 +25,9 @@ Está [Xiaomi Redmi Note 9S 64 + 4 GB  Interstellar Grey](https://www.amazon.it/
 
 ℹ️:
 
+- Frequenza fino a 2.3 ghz
 - Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
 - Sistema operativo miui 11
 - Batteria da 5020 mAh; 18w fast charging
-- Frequenza fino a 2.3 ghz
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21)
