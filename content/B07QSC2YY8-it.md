@@ -25,8 +25,8 @@ Ahora mismo tienes [Tommy Hilfiger Logo Tee Maglietta  Nero  Jet Black Base   XX
 
 🔎:
 
-- Logo stampato sul petto
 - Vestibilità rilassata
 - Adatto per luso giornaliero
+- Logo stampato sul petto
 
 [Visítala!!!](https://www.amazon.it/dp/B07QSC2YY8/?tag=tolees00-21)
