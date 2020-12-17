@@ -25,9 +25,9 @@ Está [Jack&Jones JJECORP Logo Sweat Hood Noos Felpa con Cappuccio  Classic Blue
 
 ℹ️:
 
-- Composizione dei materiali: 70% cotone, 30% poliestere.
-- Con il classico logo stampato.
 - Particolarmente morbida e calda.
 - Felpa con vestibilità regolare.
+- Con il classico logo stampato.
+- Composizione dei materiali: 70% cotone, 30% poliestere.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08KXRMG5J/?tag=tolees00-21)

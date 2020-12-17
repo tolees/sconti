@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.03 % en Geox UOMO SNAKE K  Sneakers Base  Beige '
-date: 2020-11-29 20:27:39
+date: 2020-12-17 13:57:48
 image: 'https://m.media-amazon.com/images/I/41imJ3ljVHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00DWSLGRS/?tag=tolees00-21'
 descuento: '51.03'
+average: '48.92'
 ---
 
 Tienes [Geox UOMO SNAKE K  Sneakers Base  Beige  Beige/Dark Orange C0845   45 EU](https://www.amazon.it/dp/B00DWSLGRS/?tag=tolees00-21) con un 51.03 % de descuento con precio de oferta de 48.92 EUR (original: 99.9 EUR) en el siguiente enlace!
