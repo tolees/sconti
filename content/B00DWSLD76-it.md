@@ -25,9 +25,9 @@ Está [Geox Uomo Snake K  Sneakers Base  Beige  Beige/Dark Orange C0845   41 EU]
 
 ℹ️:
 
-- Materiale esterno: Sintetico
 - Materiale suola: Gomma
 - Chiusura: Stringata
+- Materiale esterno: Sintetico
 - Fodera: Tessuto
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00DWSLD76/?tag=tolees00-21)

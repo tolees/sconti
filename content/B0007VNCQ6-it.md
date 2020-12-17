@@ -26,8 +26,8 @@ Está [HABA 4478 - Torre di Animali  Gioco in Scatola [Importato dalla Germania]
 ℹ️:
 
 - Ideato da Klaus Miltenberger
-- Premiato come "Gioco dellanno"
-- Non adatto a bambini di eta inferiore a 36 mesi
 - Partite veloci, possono durare fino a 15 minuti
+- Non adatto a bambini di eta inferiore a 36 mesi
+- Premiato come "Gioco dellanno"
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0007VNCQ6/?tag=tolees00-21)

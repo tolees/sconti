@@ -27,8 +27,8 @@ Tienes [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy Blazer Fit: 
 
 - CHIUSA DA ZIP SU TUTTA LA LUNGHEZZA
 - FELPA IN TESSUTO GARZATO
-- MANICHE CON POLSINO
 - DUE TASCHE OBLIQUE SUL DAVANTI
 - CAPPUCCIO CON COULISSE REGOLABILE
+- MANICHE CON POLSINO
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21)

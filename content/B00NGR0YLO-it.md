@@ -25,8 +25,8 @@ Tienes [Arena Spiky 2 Small  Borsa Sportiva Unisex Adulto  Blu  Royal   Taglia U
 
 ℹ️:
 
-- Capiente borsa sportiva idrorepellente
 - Ampio scomparto principale e piccole tasche laterali, tracolla regolabile e manici corti per un comodo trasporto, misure: 44 x 22 x 25 cm, 25 litri
+- Capiente borsa sportiva idrorepellente
 - Per allenamento, gara, tempo libero e viaggi
 - Inserti in rete ad asciugatura rapida per la dispersione dellumidità, fondo rinforzato
 

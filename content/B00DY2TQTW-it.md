@@ -25,10 +25,10 @@ Ahora mismo tienes [Geox Uomo Snake L  Sneakers Base  Grigio Dk Grey off Whitec1
 
 🔎:
 
-- Materiale suola: Gomma
-- Fodera: Sintetico
 - Materiale esterno: Pelle scamosciata
-- Chiusura: Senza chiusura
+- Materiale suola: Gomma
 - Tipo di tacco: Senza tacco
+- Chiusura: Senza chiusura
+- Fodera: Sintetico
 
 [Visítala!!!](https://www.amazon.it/dp/B00DY2TQTW/?tag=tolees00-21)
