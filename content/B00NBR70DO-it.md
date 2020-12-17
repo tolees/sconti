@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110 - Cuffie on-ear  Nero al 33.40 % de descuento'
-date: 2020-09-24 01:07:24
+date: 2020-12-17 16:36:46
 image: 'https://m.media-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,10 @@ Está [Sony MDR-ZX110 - Cuffie on-ear  Nero](https://www.amazon.it/dp/B00NBR70DO
 
 ℹ️:
 
+- Driver dinamici al neodimio a cupola da 30 mm per un audio bilanciato
+- Ampia gamma di frequenza, da 12 Hz a 22 kHz, per alti cristallini e bassi profondi
+- Design pieghevole chiuso per unalta qualità audio
+- Padiglioni auricolari imbottiti per la comodità di ascolto durante gli spostamenti
+- Magneti al neodimio ad alta potenza audio
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00NBR70DO/?tag=tolees00-21)
