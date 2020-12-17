@@ -25,10 +25,10 @@ Está [Lavazza Caffè Macinato Crema e Gusto Forte Tostatura Scura - Confezione 
 
 ℹ️:
 
+- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
+- Robusto e corposo
 - Tostatura scura
 - Caff macinato
-- Robusto e corposo
-- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
 - Confezione da 1 Kg
 - Miscela di caff macinato
 

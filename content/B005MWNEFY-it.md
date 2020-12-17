@@ -25,9 +25,9 @@ Ahora mismo tienes [Savon le Naturel – Sapone di Marsiglia Extra Puro al latt
 
 🔎:
 
-- Elaborati e fabbricati in Provenza, i profumi di Savon Le Naturel lasciano la pelle delicatamente profumata.
-- Il grande Marchio marsigliese del XIX e del XXesimo secolo, Savon Le Naturel continua di dare oggi i benefici dei saponi di Marsiglia.
 - Al latte, con glicerina naturale, i saponi sono garantiti senza conservanti e testati dermatologicamente.
+- Il grande Marchio marsigliese del XIX e del XXesimo secolo, Savon Le Naturel continua di dare oggi i benefici dei saponi di Marsiglia.
 - I saponi di le Naturel sono stati fabbricati secondo il vero metodo marsigliese, rispettando la tradizione e il sapere dei maestri saponai.
+- Elaborati e fabbricati in Provenza, i profumi di Savon Le Naturel lasciano la pelle delicatamente profumata.
 
 [Visítala!!!](https://www.amazon.it/dp/B005MWNEFY/?tag=tolees00-21)
