@@ -25,10 +25,10 @@ Tienes [Pernigotti  Praline Cremino di Cioccolato Gianduia  con uno Strato di Cr
 
 ℹ️:
 
-- Pernigotti: tradizione dolciaria dal 1860
-- Pralina di cioccolato gianduia con uno strato di crema alle nocciole, dalla morbidezza irresistibile
-- Formato: confezione da 150 gr
 - Ricetta classica per un piacere intramontabile: uno strato centrale di crema alle nocciole racchiuso tra due strati di puro cioccolato gianduia
+- Pernigotti: tradizione dolciaria dal 1860
 - Sapienza artigiana: materie prime selezionate e solo aromi naturali. Senza olio di palma, senza sciroppo di glucosio, senza glutine
+- Formato: confezione da 150 gr
+- Pralina di cioccolato gianduia con uno strato di crema alle nocciole, dalla morbidezza irresistibile
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B06WVGTLJK/?tag=tolees00-21)
