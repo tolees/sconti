@@ -25,11 +25,11 @@ Está [Clementoni- Valentina Scooterino Primi Passi  9+ Mesi  Multicolore  17089
 
 ℹ️:
 
-- Insegna le lettere e i numeri in italiano e in inglese
-- Il cestino è un incastra forme non elettronico dove inserire le 3 formine incluse nel gioco.Il fanalino si accende
+- Funziona con 2 pile AA/LR6
 - Bilingue italiano e inglese
 - Gioco 2 in 1: è uno scooterino tutto rosa.pensato per accompagnare le bambine durante la fase dei primi passi e anche un.divertente centro attività educativo parlante
-- Funziona con 2 pile AA/LR6
+- Il cestino è un incastra forme non elettronico dove inserire le 3 formine incluse nel gioco.Il fanalino si accende
+- Insegna le lettere e i numeri in italiano e in inglese
 - Aiuta a sviluppare la motricità, il linguaggio, limmaginazione, la percezione visiva e uditiva; con tanti suoni e allegre canzoncine
 
 [Ver la oferta!!](https://www.amazon.it/dp/B010VB7B8Q/?tag=tolees00-21)

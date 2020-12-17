@@ -25,10 +25,10 @@ Tienes [Geox U Dublin A  Scarpe Stringate Derby Uomo  Nero  Black C9999   45 EU]
 
 ℹ️:
 
-- Materiale suola: Sintetico
-- Fodera: Pelle
 - Chiusura: Stringata
-- Tipo di tacco: Senza tacco
 - Materiale esterno: Pelle
+- Fodera: Pelle
+- Materiale suola: Sintetico
+- Tipo di tacco: Senza tacco
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00BMMJPRO/?tag=tolees00-21)

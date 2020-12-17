@@ -25,10 +25,10 @@ Ahora mismo tienes [Emporio Armani Orologio Analogico Quarzo Uomo con Cinturino 
 
 🔎:
 
-- Spessore della cassa: 9.5 mm; Dimensioni della cassa: 40 mm
-- Resistente AllAcqua: 3 ATM
+- Confezionato nella gift box Emporio Armani.
 - Larghezza del cinturino: 18 mm; Circonferenza del cinturino: 200+/- 5mm
 - Materiale del cinturino: Acciaio inossidabile
-- Confezionato nella gift box Emporio Armani.
+- Resistente AllAcqua: 3 ATM
+- Spessore della cassa: 9.5 mm; Dimensioni della cassa: 40 mm
 
 [Visítala!!!](https://www.amazon.it/dp/B00RE8DBQQ/?tag=tolees00-21)

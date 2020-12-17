@@ -26,9 +26,9 @@ Ahora mismo tienes [Geox U Dublin A  Scarpe Stringate Derby Uomo  Nero  Black C9
 🔎:
 
 - Fodera: Pelle
-- Chiusura: Stringata
 - Tipo di tacco: Senza tacco
-- Materiale suola: Sintetico
 - Materiale esterno: Pelle
+- Chiusura: Stringata
+- Materiale suola: Sintetico
 
 [Visítala!!!](https://www.amazon.it/dp/B00BMMJPS8/?tag=tolees00-21)
