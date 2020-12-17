@@ -25,10 +25,10 @@ Ahora mismo tienes [Nike M Nk Dry Park VII JSY SS  Maglietta a Maniche Corte Uom
 
 🔎:
 
-- Ottima traspirabilità, per mantenere la pelle asciutta
+- Stile: slim fit
 - Maglietta realizzata in tessuto morbido e traspirante
 - Materiale confortevole e resistente
-- Stile: slim fit
+- Ottima traspirabilità, per mantenere la pelle asciutta
 - Inserto in mesh sul retro per unottima traspirabilità
 
 [Visítala!!!](https://www.amazon.it/dp/B07W4SYJ96/?tag=tolees00-21)
