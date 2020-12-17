@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.56 % en Fila Disruptor  Scarpe da Ginnastica Bas'
-date: 2020-12-16 06:31:00
+date: 2020-12-17 06:54:45
 image: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,6 @@ Tienes [Fila Disruptor  Scarpe da Ginnastica Basse Donna  Bianco  40 EU](https:/
 
 ℹ️:
 
-- Sneakers comoda e confortevole
-- Rivenditore auorizzato FILA
-- Si consiglia di prendere un numero in piu rispetto a Adidas.
+- White Leather G
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B078WQ7GJ2/?tag=tolees00-21)

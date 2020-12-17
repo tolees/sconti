@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SRS-XB12 - Speaker wireless portatile co al 33.50 % de descuento'
-date: 2020-12-16 06:39:22
+date: 2020-12-17 06:54:38
 image: 'https://m.media-amazon.com/images/I/31iRyP8sR1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MF9Q21L/?tag=tolees00-21'
 descuento: '33.50'
-average: '38.28371428571428'
+average: '38.37108108108108'
 ---
 
 Está [SRS-XB12 - Speaker wireless portatile con EXTRA BASS  Impermeabile e resistente alla polvere IP67  Batteria fino a 16 ore  Bluetooth  Nero](https://www.amazon.it/dp/B07MF9Q21L/?tag=tolees00-21) con 33.50 de descuento por 39.9 EUR (original: 60.0 EUR) en el siguiente enlace!
@@ -25,11 +25,10 @@ Está [SRS-XB12 - Speaker wireless portatile con EXTRA BASS  Impermeabile e resi
 
 ℹ️:
 
-- Waterproof, dustproof, sandproof and mudproof (IP67 rated)
-- Compact & lightweight, but powerful
-- EXTRA BASS technology for powerful sound
-- Pair two SRS-XB12 speakers together for stereo sound
-- Battery life of up to 16 hours
-- Bluetooth compatible
+- Design resistente: resistente ad acqua, polvere, sabbia e fango (ip67) e incredibile durata della batteria fino a 16 ore
+- EXTRA BASS per suono potente
+- Compatibilità bluetooth per ascoltare la musica con facilità
+- Facile trasporto grazie al design compatto e leggero, cordino removibile incluso
+- Design resistente: resistente ad acqua, polvere, sabbia e fango (IP67) e incredibile durata della batteria fino a 16 ore
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07MF9Q21L/?tag=tolees00-21)

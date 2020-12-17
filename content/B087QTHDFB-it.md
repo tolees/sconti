@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.58 % en Assassin s Creed Valhalla - Limited [Esc'
-date: 2020-12-16 00:36:37
+date: 2020-12-17 06:44:25
 image: 'https://m.media-amazon.com/images/I/51NcvCUOM1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B087QTHDFB/?tag=tolees00-21'
 descuento: '28.58'
-average: '63.589999999999996'
+average: '62.58259259259259'
 ---
 
 Tienes [Assassin s Creed Valhalla - Limited [Esclusiva Amazon] - Xbox One](https://www.amazon.it/dp/B087QTHDFB/?tag=tolees00-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

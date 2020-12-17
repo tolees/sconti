@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SALOMON Speedcross 4 GTX  Scarpe da Trai al 36.81 % de descuento'
-date: 2020-12-16 06:40:16
+date: 2020-12-17 06:56:54
 image: 'https://m.media-amazon.com/images/I/41X-N9wVw0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,8 @@ Ahora mismo tienes [SALOMON Speedcross 4 GTX  Scarpe da Trail Running Uomo  Nero
 
 🔎:
 
-- Scarpe da corsa e da trail running maschili, Ideali per lunghe distanze e su percorsi sterrati
-- Alta tenuta anche sui terreni umidi, scivolosi e fangosi grazie alla tecnologia Premium Wet Contagrip, Rinforzo alla base della scarpa per una buona performance anche sui terrenti irregolari
-- Calza perfettamente sul piede, Rapida da mettere grazie al sistema di allacciatura Quicklace, Materiale superiore resistente allacqua per mantenere i piedi asciutti, Rete antidetriti per evitare che pietre e detriti entrino nella scarpa
-- Scarpa da corsa leggera con suola Ortholite rimovibile realizzata in mousse EVA e un rivestimento in Gore-Tex per piedi sempre asciutti e freschi, Confortevole, Amortizzazione e supporto anatomico dei piedi grazie allintersuola EVA
-- Contenuto: 1 paio di scarpe maschili Salomon Speedcross 4 GTX, Materiale: Sintetico/Tessuto, Colore: Nero (Black/Black/Silver Metallic-X), Misura: 47 1/3
+- PRECISE FOOTHOLD: Feel one with the trail with a precise combination of Sensifit with Quicklace, performance last shape and endoFit
+- AGGRESSIVE GRIP: The fourth generation of our legendary Speedcross lug pattern is an even hungrier monster for eating up soft, technical trails
+- WEATHERPROOF COMFORT: Techno fabric meets technical terrain in a weatherproof GORE-TEX shoe that breathes and protects so you can run through all seasons
 
 [Visítala!!!](https://www.amazon.it/dp/B017SR0MFA/?tag=tolees00-21)

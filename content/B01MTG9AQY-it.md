@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger 3p Brief Slip-pacco da 3  al 29.84 % de descuento'
-date: 2020-12-13 05:50:49
+date: 2020-12-17 07:01:40
 image: 'https://m.media-amazon.com/images/I/41tZJdExv6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MTG9AQY/?tag=tolees00-21'
 descuento: '29.84'
+average: '25.323333333333334'
 ---
 
 Está [Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904   Small Uomo](https://www.amazon.it/dp/B01MTG9AQY/?tag=tolees00-21) con 29.84 de descuento por 26.59 EUR (original: 37.9 EUR) en el siguiente enlace!
