@@ -25,9 +25,9 @@ Tienes [GIMI Rolling Thermo Carrello Portaspesa  Poliestere  Rosso](https://www.
 
 ℹ️:
 
-- Portata 30 kg
 - Sacca interamente termica con chiusura ad avvolgimento
 - Capacità 50 lt
 - Manico telescopico
+- Portata 30 kg
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B010M8NCFE/?tag=tolees00-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [Armani Exchange Orologio Cronografo Quarzo Uomo con Cinturin
 🔎:
 
 - Cassa da 46 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo con schermo cronografo analogico
-- Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 - In confezione regalo Armani Exchange
-- Bracciale in acciaio nero
+- Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 - Cassa rotonda in acciaio nero con quadrante nero
+- Bracciale in acciaio nero
 
 [Visítala!!!](https://www.amazon.it/dp/B00VB71TVU/?tag=tolees00-21)
