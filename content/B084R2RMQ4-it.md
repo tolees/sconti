@@ -25,7 +25,7 @@ Tienes [G-STAR RAW Jirgi Tape Detail T-Shirt  Blu Mazarine/Blu di Cricket 8633-B
 
 ℹ️:
 
-- Maniche lunghe, inserti dritti
 - Scollo rotondo a costine.
+- Maniche lunghe, inserti dritti
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B084R2RMQ4/?tag=tolees00-21)
