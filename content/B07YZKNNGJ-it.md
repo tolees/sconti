@@ -25,11 +25,11 @@ Está [Head & Shoulders Shampoo e Balsamo Antiforfora Suprême Idrata  con Olio 
 
 ℹ️:
 
+- Dermatologicamente testato
 - Progettato da esperti
 - Rispetta il pianeta con il flacone realizzato con il 25% di plastica riciclata (escluso il tappo)
-- Shampoo e Balsamo con olio di Argan
-- Dermatologicamente testato
-- Rispetta la cute con pH Equilibrato e con Antiossidanti
 - Intensa idratazione e cute pulita. Adatto a capelli colorati
+- Rispetta la cute con pH Equilibrato e con Antiossidanti
+- Shampoo e Balsamo con olio di Argan
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07YZKNNGJ/?tag=tolees00-21)
