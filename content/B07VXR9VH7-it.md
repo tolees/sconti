@@ -25,9 +25,9 @@ Ahora mismo tienes [Playmobil 70222 - Castello Di Novelmore  214 pezzi  dagli 8 
 
 🔎:
 
-- Contiene quattro personaggi, un cavallo ed un lupo
-- Ricco di accessori come stendardi, bandiere ed armi
 - Allinterno del castello troverai la stanza segreta delle pozioni e la fucina del fabbro
 - Con cannoni e catapulta per massi
+- Contiene quattro personaggi, un cavallo ed un lupo
+- Ricco di accessori come stendardi, bandiere ed armi
 
 [Visítala!!!](https://www.amazon.it/dp/B07VXR9VH7/?tag=tolees00-21)
