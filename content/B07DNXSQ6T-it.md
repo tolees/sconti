@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jump Force - Xbox One al 32.36 % de descuento'
-date: 2020-12-17 06:42:33
+date: 2020-12-18 07:05:45
 image: 'https://m.media-amazon.com/images/I/513Ftqo73GL._SL200_.jpg'
 comments: true
 category: ofertas
