@@ -25,10 +25,10 @@ Ahora mismo tienes [LEGO Technic Dragster Trasformabile in Hot Rod  Set da Cos
 
 🔎:
 
-- This racing car toy features easy to switch-between-tricks 2-position wheelie bar, to attempt heart-pumping wheelies or the speed record
-- Stabilising back wheels keep it on track and powered through the pull-back motor for young racers recreates the thrill and speed of race day
-- To discover a fun new way to build the model car, see the digital Instructions PLUS from the free LEGO Life app with zoom and rotate tools
 - 2-in-1 Dragster car that rebuilds into a cool Hot Rod with bold colours and flames shooting from the exhaust, just like a real dragster
 - Once built, the fun goes on - let them set up the mini traffic lights then pull back the toy car and release to send it zooming along
+- This racing car toy features easy to switch-between-tricks 2-position wheelie bar, to attempt heart-pumping wheelies or the speed record
+- To discover a fun new way to build the model car, see the digital Instructions PLUS from the free LEGO Life app with zoom and rotate tools
+- Stabilising back wheels keep it on track and powered through the pull-back motor for young racers recreates the thrill and speed of race day
 
 [Visítala!!!](https://www.amazon.it/dp/B07W7V6R6Y/?tag=tolees00-21)
