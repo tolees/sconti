@@ -25,11 +25,11 @@ Está [Vimar 00445.CC.B Multipresa cavo da 1 5 m  3 uscite Schuko con protezione
 
 ℹ️:
 
-- Sicurezza eottimizzazione energetica: linterruttore di alimentazione on/off permette discollegare completamente la presa mobile multipladalla rete elettrica evitando inutili sprechi e danniderivanti da eventuali sbalzi di tensione
-- Istruzioni e tutorial su faidate.vimar
-- Vimar 00445.cc.b presa mobile multipla 2p+t 16 a 250 v~, 3 uscite sicury standard tedesco, 3 uscite usb 5 vdc 2,4 a, carica induttiva 5 vdc 1a, interruttore luminoso, cavo da 1,5 m con 3 conduttori da 1,5 mm2 (3g1 ,5), spina 2p+t 16 a standard italiano tipo s17, bianco
-- 3 prese USB da 2,4 a e 3 prese di corrente tipo schuko che permettono di alimentare dispositivi che richiedono molta potenza, come stampanti o pc, ma accolgonoanche spine piccole da 10 a
 - Spina da 16 a e cavo da 1,5 m: il robusto cavo di alimentazione lungo 1,5 metri con spina assiale termosaldata da 16 a consente di fornire adeguata energia a tutte le prese
+- Sicurezza eottimizzazione energetica: linterruttore di alimentazione on/off permette discollegare completamente la presa mobile multipladalla rete elettrica evitando inutili sprechi e danniderivanti da eventuali sbalzi di tensione
+- Vimar 00445.cc.b presa mobile multipla 2p+t 16 a 250 v~, 3 uscite sicury standard tedesco, 3 uscite usb 5 vdc 2,4 a, carica induttiva 5 vdc 1a, interruttore luminoso, cavo da 1,5 m con 3 conduttori da 1,5 mm2 (3g1 ,5), spina 2p+t 16 a standard italiano tipo s17, bianco
 - Base a induzione: consente di ricaricare, tramite semplice contattofisico e in modalità wireless, smartphone e tabletche utilizzano lo standard qi, adottato ormai dai piùimportanti produttori di telefonia
+- Istruzioni e tutorial su faidate.vimar
+- 3 prese USB da 2,4 a e 3 prese di corrente tipo schuko che permettono di alimentare dispositivi che richiedono molta potenza, come stampanti o pc, ma accolgonoanche spine piccole da 10 a
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07WZDNHC9/?tag=tolees00-21)

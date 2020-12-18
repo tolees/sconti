@@ -25,9 +25,9 @@ Ahora mismo tienes [Sluban - Garage di Formula 1 da assemblare](https://www.amaz
 
 🔎:
 
-- Certificati CE, ROHS e ISO 9001:2008
-- Contiene 741 mattoni
 - I mattoni sono circa il 60% più economici rispetto ad altri blocchi da costruzione
+- Contiene 741 mattoni
 - Realizzato con materiali di alta qualità
+- Certificati CE, ROHS e ISO 9001:2008
 
 [Visítala!!!](https://www.amazon.it/dp/B00AOLIJ8K/?tag=tolees00-21)

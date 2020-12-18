@@ -25,9 +25,9 @@ Está [Funko Pop Advent Calendar: Dragon Ball Z  Multicolore  49660](https://www
 
 ℹ️:
 
-- Funko POP È il giocattolo dellanno scelto dai Popoli del 2018
-- Calendario dellavvento Funko Pocket POP Dragon Ball Z
 - Li raccogli tutti?
 - 24 sorprese ogni giorno fino al giorno di Natale
+- Funko POP È il giocattolo dellanno scelto dai Popoli del 2018
+- Calendario dellavvento Funko Pocket POP Dragon Ball Z
 
 [Ver la oferta!!](https://www.amazon.it/dp/B084R1RPQM/?tag=tolees00-21)
