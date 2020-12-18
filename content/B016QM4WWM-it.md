@@ -26,7 +26,7 @@ Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim Poplin Shirt Camicia Sporti
 🔎:
 
 - Bandiera Tommy Hilfiger ricamata sul petto
-- Polsini con due bottoni
 - Vestibilità leggera
+- Polsini con due bottoni
 
 [Visítala!!!](https://www.amazon.it/dp/B016QM4WWM/?tag=tolees00-21)

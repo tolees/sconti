@@ -27,7 +27,7 @@ Ahora mismo tienes [Geox Uomo Snake K  Scarpe da Ginnastica Basse  Grigio  Dark 
 
 - Fodera: Tessuto
 - Materiale esterno: Sintetico
-- Chiusura: Stringata
 - Materiale suola: Gomma
+- Chiusura: Stringata
 
 [Visítala!!!](https://www.amazon.it/dp/B00DY2SFW6/?tag=tolees00-21)

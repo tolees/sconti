@@ -25,10 +25,10 @@ Está [Fist of the North Star: Lost Paradise  Hokuto ga Gotoku  - PlayStation 4]
 
 ℹ️:
 
-- Prendi il controllo di Kenshiro per ritrovare il suo amore perduto, Yuria, in un mondo post-apocalittico
-- Contiene una serie di minigiochi
-- Comprenderà un audio dual-track in Inglese/Giapponese
-- Basato sullamato mondo tratto dal manga Fist of the North Star
 - Genere del gioco: azione/avventura
+- Prendi il controllo di Kenshiro per ritrovare il suo amore perduto, Yuria, in un mondo post-apocalittico
+- Comprenderà un audio dual-track in Inglese/Giapponese
+- Contiene una serie di minigiochi
+- Basato sullamato mondo tratto dal manga Fist of the North Star
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07DLL9HPK/?tag=tolees00-21)

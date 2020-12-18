@@ -25,9 +25,9 @@ Ahora mismo tienes [Geomag 772 - Gravity Magnetic Track  115 Pezzi](https://www.
 
 🔎:
 
+- I 104 elementi meccanici in plastica sono la base del sistema Gravity
 - Prodotto STEM, in grado di stimolare approfondimenti scientifici
 - Sistema di costruzione meccanico e magnetico
 - Il set contiene 2 barrette magnetiche e 9 sfere metalliche
-- I 104 elementi meccanici in plastica sono la base del sistema Gravity
 
 [Visítala!!!](https://www.amazon.it/dp/B07BJLS1TV/?tag=tolees00-21)
