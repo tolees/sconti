@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW Jirgi Tape Detail T-Shirt  Blu Mazarine/Blu di Cr
 
 🔎:
 
-- Scollo rotondo a costine.
 - Maniche lunghe, inserti dritti
+- Scollo rotondo a costine.
 
 [Visítala!!!](https://www.amazon.it/dp/B084R2SRYY/?tag=tolees00-21)
