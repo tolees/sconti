@@ -25,8 +25,8 @@ Ahora mismo tienes [New Balance Unisex - Adulto 574v2 Core Scarpe da Ginnastica 
 
 🔎:
 
-- Suola molto morbida che offre un confort aumentato
 - Realizzati in materiali di alta qualità
+- Suola molto morbida che offre un confort aumentato
 - Design elegante e confortevole
 - Rapido e facile da indossare
 

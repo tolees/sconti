@@ -25,8 +25,8 @@ Está [Adidas Core 18  Pantaloni Uomo  Blu  Blu Scuro/Bianco   M](https://www.am
 
 ℹ️:
 
-- Girovita elasticizzato con cordino
 - Logo adidas badge of sport sul fianco
+- Girovita elasticizzato con cordino
 - Orli elasticizzati
 
 [Ver la oferta!!](https://www.amazon.it/dp/B076HQGY9V/?tag=tolees00-21)

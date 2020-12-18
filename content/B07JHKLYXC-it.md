@@ -26,10 +26,10 @@ Está [Nutella - Crema da spalmare alle nocciole e al cacao  64 mini vasetti da 
 ℹ️:
 
 - Nutella è la crema da spalmare alle nocciole e al cacao più famosa del mondo, che ha fatto della positività e dell’ottimismo i suoi valori portanti.
-- 64 vasetti da 25g ognuno
-- Sorprendi i tuoi ospiti offrendo a ciascuno il proprio vasettino personale.
-- Il vasettino si può riutilizzare in tanti simpatici modi, per esempio puoi bucherellare il tappo e usarlo come portaspezie da tenere in cucina.
 - Una colazione estiva corredata da un vasettino in vetro monoporzione di Nutella fa iniziare la giornata con un tocco di originalità.
 - Grazie alla sua ricetta unica ed inimitabile e alluso di ingredienti semplici e selezionati, Nutella rende speciale il risveglio di ogni famiglia.
+- Sorprendi i tuoi ospiti offrendo a ciascuno il proprio vasettino personale.
+- 64 vasetti da 25g ognuno
+- Il vasettino si può riutilizzare in tanti simpatici modi, per esempio puoi bucherellare il tappo e usarlo come portaspezie da tenere in cucina.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07JHKLYXC/?tag=tolees00-21)

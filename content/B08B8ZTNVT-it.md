@@ -26,10 +26,10 @@ Está [King C. Gillette Olio Idratante per la Cura della Barba Uomo con Oli Vege
 ℹ️:
 
 - Idrata la pelle secca sotto la barba
-- Olio da barba che ammorbidisce i peli
-- Applicare qualche goccia al giorno (di più per le barbe più lunghe) sul palmo della mano, quindi spalmare sulla barba e sulla pelle
-- Il nuovo olio da barba King C. Gillette è disponibile in una bottiglia di vetro da 30ml con il contagocce
 - Aiuta a sentirti e ad essere al meglio ogni giorno
+- Il nuovo olio da barba King C. Gillette è disponibile in una bottiglia di vetro da 30ml con il contagocce
+- Applicare qualche goccia al giorno (di più per le barbe più lunghe) sul palmo della mano, quindi spalmare sulla barba e sulla pelle
 - Oltre un secolo di innovazione e competenza
+- Olio da barba che ammorbidisce i peli
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08B8ZTNVT/?tag=tolees00-21)

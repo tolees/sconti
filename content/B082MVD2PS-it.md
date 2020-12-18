@@ -25,9 +25,9 @@ Tienes [Resident Evil 3 - Playstation 4](https://www.amazon.it/dp/B082MVD2PS/?ta
 
 ℹ️:
 
-- Grafica ad alta definizione e meccaniche di gioco mordenizzate;
-- Possibilità di giocare sia in single player che in multiplayer asimmetrico 4 contro 1;
 - Combattimenti intensi e risoluzione di puzzle si combinano nell’emozionante capitolo finale della distruzione di Raccoon City;
+- Possibilità di giocare sia in single player che in multiplayer asimmetrico 4 contro 1;
 - Terrificanti ambientazioni del gioco originale e tanti nuovi contenuti;
+- Grafica ad alta definizione e meccaniche di gioco mordenizzate;
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B082MVD2PS/?tag=tolees00-21)

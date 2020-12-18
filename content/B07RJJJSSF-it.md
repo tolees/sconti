@@ -25,12 +25,12 @@ Está [Severin KA 4808 Macchina per il Caffè  Fino a 4 Tazze  Permanente Lavabi
 
 ℹ️:
 
-- Comoda luce pilota che facilita lutilizzo della macchina
-- Dotata di filtro permanente facilmente lavabile grazie allapposito porta filtro oscillante
-- Sulla caraffa è presente un indicatore della quantità di caffè preparato: 2 – 3 – 4 tazze
-- La macchina per il caffè severin prepara fino a 4 tazze di caffè
 - Comodo indicatore del livello dellacqua per avere sempre sotto controllo lo stato della tua macchina per il caffè
-- Dal design sottile e salvaspazio, è addato per i viaggi e facile da riporre in ogni angolo della casa
 - Base per mantenere caldo il tuo caffè appena fatto
+- Sulla caraffa è presente un indicatore della quantità di caffè preparato: 2 – 3 – 4 tazze
+- Dal design sottile e salvaspazio, è addato per i viaggi e facile da riporre in ogni angolo della casa
+- Dotata di filtro permanente facilmente lavabile grazie allapposito porta filtro oscillante
+- Comoda luce pilota che facilita lutilizzo della macchina
+- La macchina per il caffè severin prepara fino a 4 tazze di caffè
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07RJJJSSF/?tag=tolees00-21)

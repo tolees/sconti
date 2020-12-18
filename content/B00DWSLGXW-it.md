@@ -25,9 +25,9 @@ Tienes [Geox Uomo Snake K  Sneakers Base  Beige  Beige/Dark Orange C0845   44 EU
 
 ℹ️:
 
+- Materiale suola: Gomma
+- Materiale esterno: Sintetico
 - Chiusura: Stringata
 - Fodera: Tessuto
-- Materiale esterno: Sintetico
-- Materiale suola: Gomma
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00DWSLGXW/?tag=tolees00-21)
