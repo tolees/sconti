@@ -25,10 +25,10 @@ Ahora mismo tienes [Clinogel Gel Mani Igienizzante con Estratti di Timo e Glicer
 
 🔎:
 
-- Asciuga rapidamente, senza aromi e senza lasciare odore; dopo luso, non occorre utilizzare sapone né risciacquare sotto acqua corrente
-- Con glicerina, ottima per restituire unazione emolliente per proteggere le mani dalla secchezza
-- Contiene estratto di timo, che dona proprietà igienizzanti
-- Confezione contenente 12 flaconi da 100 ml, formato famiglia
 - Clinogel è un detergente a base di alcool, con concentrazione del 65%
+- Contiene estratto di timo, che dona proprietà igienizzanti
+- Asciuga rapidamente, senza aromi e senza lasciare odore; dopo luso, non occorre utilizzare sapone né risciacquare sotto acqua corrente
+- Confezione contenente 12 flaconi da 100 ml, formato famiglia
+- Con glicerina, ottima per restituire unazione emolliente per proteggere le mani dalla secchezza
 
 [Visítala!!!](https://www.amazon.it/dp/B089MRXM84/?tag=tolees00-21)

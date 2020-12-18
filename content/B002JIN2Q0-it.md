@@ -25,10 +25,10 @@ Está [Pentel Xfrh Aquash Water Brush Pennello con Serbatoio Riempibile 3 Pezzi 
 
 ℹ️:
 
+- Punta pennello con setole in nylon
 - Perfetto per acqarellare: pennello e acqua in un unico prodotto
 - Fusto flessibile per regolare la fuoriuscita dellacqua in base alle proprie necessità
-- Punta pennello con setole in nylon
-- Serbatoio riempibile da 10 ml
 - 3 punte differenti: fine, media, grande
+- Serbatoio riempibile da 10 ml
 
 [Ver la oferta!!](https://www.amazon.it/dp/B002JIN2Q0/?tag=tolees00-21)

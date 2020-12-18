@@ -25,8 +25,8 @@ Ahora mismo tienes [PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Bla
 
 🔎:
 
-- Fodera: maglia
 - Materiale suola: gomma
+- Fodera: maglia
 - Materiale esterno: pelle
 - Pelle
 
