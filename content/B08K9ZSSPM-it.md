@@ -27,8 +27,8 @@ Ahora mismo tienes [Inter Xmas Jumper 2020  Maglione Natalizio  Unisex Adulto  L
 
 - Polsini, collo e fondo del capo con bordo in costina con elastan
 - Morbido e confortevole
-- Maglione invernale lana, acrilico
-- Pattern a tema natalizio
 - Tipo di sport: Abbigliamento sportivo outdoor
+- Pattern a tema natalizio
+- Maglione invernale lana, acrilico
 
 [Visítala!!!](https://www.amazon.it/dp/B08K9ZSSPM/?tag=tolees00-21)

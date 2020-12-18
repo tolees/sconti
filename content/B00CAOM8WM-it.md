@@ -25,8 +25,8 @@ Ahora mismo tienes [Robomow MRK6101A Kit Lame  Nero](https://www.amazon.it/dp/B0
 
 🔎:
 
-- Designed for RS/TS/MS models
-- Sharp blades are important for safety and for good cutting performance
 - Keep a spare blade set on hand
+- Sharp blades are important for safety and for good cutting performance
+- Designed for RS/TS/MS models
 
 [Visítala!!!](https://www.amazon.it/dp/B00CAOM8WM/?tag=tolees00-21)
