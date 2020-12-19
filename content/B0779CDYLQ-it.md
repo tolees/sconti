@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Entrada18 Maglietta  Uomo  Nero/Bianco  M](https://ww
 
 🔎:
 
-- Girocollo a contrasto
-- Logo adidas badge of sport a trasferimento termico sul petto a destra
 - Tessuto climalite antiumidità
+- Logo adidas badge of sport a trasferimento termico sul petto a destra
+- Girocollo a contrasto
 
 [Visítala!!!](https://www.amazon.it/dp/B0779CDYLQ/?tag=tolees00-21)

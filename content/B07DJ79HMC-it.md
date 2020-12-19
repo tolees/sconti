@@ -25,9 +25,9 @@ Ahora mismo tienes [Geox Uomo Snake K  Scarpe da Ginnastica Basse  Blue  Navy C4
 
 🔎:
 
-- Tipo di tacco: Tacco Piatto
-- Chiusura: A strappo
 - Materiale suola: Gomma
+- Chiusura: A strappo
 - Fodera: Maglia
+- Tipo di tacco: Tacco Piatto
 
 [Visítala!!!](https://www.amazon.it/dp/B07DJ79HMC/?tag=tolees00-21)

@@ -26,9 +26,9 @@ Está [Burton Emphasis 2.0  Zaino Unisex Adulto  Gray Heather](https://www.amazo
 ℹ️:
 
 - La resistente struttura esterna del tessuto respinge lacqua e le più svariate condizioni invernali
+- volume: 26 litri
 - Cinghie porta-tavola
 - Spallacci ergonomici Cush con cinghia sullo sterno regolabile
 - Custodia per laptop: 14in x 11in / 36cm x 28cm
-- volume: 26 litri
 
 [Ver la oferta!!](https://www.amazon.it/dp/B08BLFL53B/?tag=tolees00-21)
