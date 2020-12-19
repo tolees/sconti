@@ -25,8 +25,8 @@ Está [Fila Disruptor Low Wmn  Scarpe da Ginnastica Basse Donna  Bianco  White 1
 
 ℹ️:
 
-- Distruptor low donna
 - Calzata piccola
 - FILA 1010302 DONNA
+- Distruptor low donna
 
 [Ver la oferta!!](https://www.amazon.it/dp/B078WQF58M/?tag=tolees00-21)

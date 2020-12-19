@@ -26,9 +26,9 @@ Tienes [Assassin s Creed Valhalla - Limited [Esclusiva Amazon] - Xbox One](https
 ℹ️:
 
 - Dual-wield powerful weapons such as axes, swords, and even shields to relive the ruthless fighting style of the Viking warriors.
-- The Limited Edition of the game includes: Copy of the Assassin’s Creed Valhalla game, The Berserker Settlement Pack, The Hati Wolf Mount & A Set of Runes
-- Advanced RPG mechanics allow you to shape the growth of your character and influence the world around you.
 - Assassin’s Creed Valhalla leverages the Smart Delivery technology - buy the game once and play it on either Xbox One or Xbox Series X when both the console and that version of Assassin’s Creed Valhalla are available.
 - You are Eivor, a fierce Viking warrior raised on tales of battle and glory. Explore a dynamic and beautiful open world set against the brutal backdrop of England’s Dark Ages.
+- Advanced RPG mechanics allow you to shape the growth of your character and influence the world around you.
+- The Limited Edition of the game includes: Copy of the Assassin’s Creed Valhalla game, The Berserker Settlement Pack, The Hati Wolf Mount & A Set of Runes
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B087QTHDFB/?tag=tolees00-21)

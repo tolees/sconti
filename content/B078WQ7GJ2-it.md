@@ -27,7 +27,7 @@ Tienes [Fila Disruptor  Scarpe da Ginnastica Basse Donna  Bianco  40 EU](https:/
 
 - Synthetic leather
 - FILA
-- Sneakers
 - White
+- Sneakers
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B078WQ7GJ2/?tag=tolees00-21)

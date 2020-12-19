@@ -25,8 +25,8 @@ Está [Puma Basic Brief 2P Slip  Nero  M](https://www.amazon.it/dp/B01ID9STWU/?t
 
 ℹ️:
 
+- Elastico in vita con liconico logo PUMA.
 - Comodo elastico in vita.
 - Tessuto morbido al tatto.
-- Elastico in vita con liconico logo PUMA.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01ID9STWU/?tag=tolees00-21)
