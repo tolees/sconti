@@ -25,8 +25,8 @@ Está [adidas Sleek Super W  Scarpe da Ginnastica Womens  Ftwr White/Crystal Whi
 
 ℹ️:
 
-- Scarpe sportive
 - Tomaia in pelle
 - 3 strisce traforate
+- Scarpe sportive
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07SN51HKM/?tag=tolees00-21)
