@@ -25,9 +25,9 @@ Está [Geox Uomo Snake K  Scarpe da Ginnastica Basse  Blue  Navy C4002   40 EU](
 
 ℹ️:
 
-- Chiusura: A strappo
 - Materiale suola: Gomma
-- Fodera: Maglia
 - Tipo di tacco: Tacco Piatto
+- Chiusura: A strappo
+- Fodera: Maglia
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07DHYWMPX/?tag=tolees00-21)

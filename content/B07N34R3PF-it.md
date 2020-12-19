@@ -25,10 +25,10 @@ Ahora mismo tienes [Diesel Orologio Analogico Quarzo Uomo con Cinturino in Accia
 
 🔎:
 
+- Case Thickness: 14 mm; Case Size: 57 mm
+- Band Material: Steel
 - Packed in Diesel Gift Box
 - Water Resistant: 3 ATM
 - Band Width: 28 mm; Inner Circumference: 200 +/-5 mm
-- Band Material: Steel
-- Case Thickness: 14 mm; Case Size: 57 mm
 
 [Visítala!!!](https://www.amazon.it/dp/B07N34R3PF/?tag=tolees00-21)

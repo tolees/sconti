@@ -25,9 +25,9 @@ Está [Pista Carrera GO!!! 20062362 - MARIO KART 8 - 2 veicoli inclusi](https://
 
 ℹ️:
 
+- Include conteggio dei giri
 - Include comando con funzione turbo
 - Misure prodotto montato: 158 x 68 cm
-- Include conteggio dei giri
 - Con looping
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00TIZM1CS/?tag=tolees00-21)

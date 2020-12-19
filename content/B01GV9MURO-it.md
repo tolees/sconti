@@ -25,10 +25,10 @@ Está [CASO GERMANY L15 Bilancina  Acciaio Inossidabile  Argento  26.50 x 33.00 
 
 ℹ️:
 
-- Elegante funzionamento touch
+- Ampio display ben visibile
 - Suddivisioni da culla sensore con 1.g
 - Culla scala fino a max. 15.kg
-- Ampio display ben visibile
+- Elegante funzionamento touch
 - Extra large superficie di pesata (30.x 22.cm) in acciaio inossidabile spazzolato
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01GV9MURO/?tag=tolees00-21)
