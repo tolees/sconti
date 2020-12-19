@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Z: Kakarot - Xbox One  12 an al 42.86 % de descuento'
-date: 2020-12-16 19:03:26
+date: 2020-12-19 07:39:02
 image: 'https://m.media-amazon.com/images/I/518B3gMjSkL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop: Fortnite: High Rise Assault T al 33.36 % de descuento'
-date: 2020-12-17 06:45:24
+date: 2020-12-19 07:10:57
 image: 'https://m.media-amazon.com/images/I/41CD-BtY5VL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,8 +26,8 @@ Está [Funko Pop: Fortnite: High Rise Assault Trooper  Multicolore  34465](https
 ℹ️:
 
 - High Rise Assault Trooper
-- Funko Pop!
-- Fortnite
 - Funko
+- Fortnite
+- Funko Pop!
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07HQ18JTW/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Lord of the Rings - The Motion Pictu al 41.64 % de descuento'
-date: 2020-12-17 13:02:00
+date: 2020-12-19 07:21:37
 image: 'https://m.media-amazon.com/images/I/51EV8+o7F-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B004XKRO6Q/?tag=tolees00-21'
 descuento: '41.64'
-average: '33.41829268292683'
+average: '33.45619047619048'
 ---
 
 Está [The Lord of the Rings - The Motion Picture Trilogy  Extended Edition  6 Blu-Ray+9 DVD ](https://www.amazon.it/dp/B004XKRO6Q/?tag=tolees00-21) con 41.64 de descuento por 35.01 EUR (original: 59.99 EUR) en el siguiente enlace!

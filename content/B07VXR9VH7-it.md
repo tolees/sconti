@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 70222 - Castello Di Novelmore  al 30.10 % de descuento'
-date: 2020-12-18 01:17:46
+date: 2020-12-19 07:26:02
 image: 'https://m.media-amazon.com/images/I/51nQOx69tRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VXR9VH7/?tag=tolees00-21'
 descuento: '30.10'
-average: '68.15344827586208'
+average: '68.06440677966103'
 ---
 
 Ahora mismo tienes [Playmobil 70222 - Castello Di Novelmore  214 pezzi  dagli 8 anni](https://www.amazon.it/dp/B07VXR9VH7/?tag=tolees00-21) a 62.9 EUR (original: 89.99 EUR) (30.10 %  de descuento) en el siguiente enlace!
@@ -25,9 +25,10 @@ Ahora mismo tienes [Playmobil 70222 - Castello Di Novelmore  214 pezzi  dagli 8 
 
 🔎:
 
-- Allinterno del castello troverai la stanza segreta delle pozioni e la fucina del fabbro
-- Con cannoni e catapulta per massi
-- Contiene quattro personaggi, un cavallo ed un lupo
-- Ricco di accessori come stendardi, bandiere ed armi
+- With working projectiles and secret passages
+- Includes 4 Playmobil toy figures
+- With fold-out stairs
+- Includes a catapult
+- The toy castle features an opening door at the back of the fortress
 
 [Visítala!!!](https://www.amazon.it/dp/B07VXR9VH7/?tag=tolees00-21)

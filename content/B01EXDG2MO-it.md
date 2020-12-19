@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.26 % en TP-Link TL-SG108 Switch 8 Porte Gigabit '
-date: 2020-12-17 07:10:17
+date: 2020-12-19 07:40:34
 image: 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01EXDG2MO/?tag=tolees00-21'
 descuento: '29.26'
-average: '25.064500000000006'
+average: '25.03888888888889'
 ---
 
 Tienes [TP-Link TL-SG108 Switch 8 Porte Gigabit  10/100/1000 Mbps  Plug & Play  Nessuna Configurazione Richiesta  Struttura in Acciaio](https://www.amazon.it/dp/B01EXDG2MO/?tag=tolees00-21) con un 29.26 % de descuento con precio de oferta de 22.99 EUR (original: 32.5 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Tienes [TP-Link TL-SG108 Switch 8 Porte Gigabit  10/100/1000 Mbps  Plug & Play  
 
 ℹ️:
 
-- Plug and play, nessuna configurazione richiesta
-- Guscio in acciaio, predisposto per linstallazione sul desktop o a parete
-- 8 porte RJ45 Gigabit con auto-negoziazione, supporta auto MDI / MDIX
 - ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
+- Plug and play, nessuna configurazione richiesta
 - Spegnimento automatico delle porte inutilizzate per risparmiare energia
+- 8 porte RJ45 Gigabit con auto-negoziazione, supporta auto MDI / MDIX
+- Guscio in acciaio, predisposto per linstallazione sul desktop o a parete
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01EXDG2MO/?tag=tolees00-21)

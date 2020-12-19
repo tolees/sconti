@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Deluxe: Game of Thrones S10:  al 46.51 % de descuento'
-date: 2020-12-17 19:07:57
+date: 2020-12-19 07:38:00
 image: 'https://m.media-amazon.com/images/I/41B1kv-F3PL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Funko- Pop Deluxe: Game of Thrones S10: Jon Snow Sitting on Iron Throne F
 
 ℹ️:
 
-- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Pop! deluxe
+- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Jon snow sitting on iron throne
 - Game of thrones s10
 

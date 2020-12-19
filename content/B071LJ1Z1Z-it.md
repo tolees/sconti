@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Classic Clog  Unisex – Adulto  Gri al 30.01 % de descuento'
-date: 2020-12-17 07:08:15
+date: 2020-12-19 07:39:33
 image: 'https://m.media-amazon.com/images/I/31tQhUrk4tL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Crocs Classic Clog  Unisex – Adulto  Grigio  Slate Grey   43/44 EU](htt
 
 ℹ️:
 
-- Water-friendly, ventilated forefoot for breathability and lightweight
-- Sole sizes are US. Label shows UK. M = Mens W = Womens
 - The Crocs shoes will display US sizes
+- Sole sizes are US. Label shows UK. M = Mens W = Womens
+- Water-friendly, ventilated forefoot for breathability and lightweight
 
 [Ver la oferta!!](https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21)
