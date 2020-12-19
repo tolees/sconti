@@ -26,7 +26,7 @@ Está [Candy GVSW 496THC Lavasciuga  9+6 Kg  1400 giri](https://www.amazon.it/dp
 ℹ️:
 
 - 1400 giri
-- Lavasciuga 9+6 Kg
 - Controllo partenza differita
+- Lavasciuga 9+6 Kg
 
 [Ver la oferta!!](https://www.amazon.it/dp/B0793K9DBQ/?tag=tolees00-21)
