@@ -26,8 +26,8 @@ Tienes [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Inte
 ℹ️:
 
 - Compatibilità obiettivi: attacco E di Sony
-- Fotocamera digitale Mirrorless Sony con sensore APS-C CMOR Exmor 24.3 megapixel
 - Kit con obiettivo SEL 16-50 mm
+- Fotocamera digitale Mirrorless Sony con sensore APS-C CMOR Exmor 24.3 megapixel
 - Processore di immagini BIONZ X, 179 punti Eye AF
 - Mirino OLED Tru-Finder ad alta risoluzione
 - Flash integrato, display 3" LCD inclinabile 180°

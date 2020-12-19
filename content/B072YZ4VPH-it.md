@@ -25,8 +25,8 @@ Está [Funko- Ragnarok Portachiavi Pop Marvel Thor  4 cm  13781](https://www.ama
 
 ℹ️:
 
+- Thor
 - Marvel: Thor
 - Portachiavi Funko POP!
-- Thor
 
 [Ver la oferta!!](https://www.amazon.it/dp/B072YZ4VPH/?tag=tolees00-21)

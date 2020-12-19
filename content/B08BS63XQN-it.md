@@ -26,8 +26,8 @@ Ahora mismo tienes [Az Ricerca Dentifricio 3D White Luxe Perfezione  Confezione 
 🔎:
 
 - Lazione sbiancante più veloce e avanzata di AZ
-- Dentifricio sicuro sullo smalto
 - Protegge contro la formazione di nuove macchie
+- Dentifricio sicuro sullo smalto
 - Confezione da 6 pezzi
 - Rimuove fino al 100% delle macchie superficiali in 3 giorni
 

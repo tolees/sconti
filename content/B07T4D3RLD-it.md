@@ -25,7 +25,7 @@ Ahora mismo tienes [Dragon Ball Z: Kakarot - Xbox One  12 anni+](https://www.ama
 
 🔎:
 
-- Oltre le epiche battaglie, tuffati nel mondo di dragon BALL Z: combatti, pesca, mangia ed allenati con Goku
 - Esplora nuove ZONE e vivi le avventure del mondo dragon ball Z mentre ripercorri la storia e crea forti legami con gli altri eroi delluniverso
+- Oltre le epiche battaglie, tuffati nel mondo di dragon BALL Z: combatti, pesca, mangia ed allenati con Goku
 
 [Visítala!!!](https://www.amazon.it/dp/B07T4D3RLD/?tag=tolees00-21)

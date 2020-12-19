@@ -26,9 +26,9 @@ Ahora mismo tienes [Sony WH-CH510 - Cuffie wireless on-ear  Compatibile con Goog
 🔎:
 
 - Design on-ear compatto
-- Cuffie sony wireless bluetooth on-ear wh-ch510 nero
-- Quick charge: 90 minuti di riproduzione con 10 minuti di ricarica
 - Voice assistant
+- Quick charge: 90 minuti di riproduzione con 10 minuti di ricarica
+- Cuffie sony wireless bluetooth on-ear wh-ch510 nero
 - Durata della batteria fino a 35 ore
 
 [Visítala!!!](https://www.amazon.it/dp/B07WD58H6R/?tag=tolees00-21)

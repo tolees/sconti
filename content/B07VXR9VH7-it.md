@@ -25,9 +25,9 @@ Ahora mismo tienes [Playmobil 70222 - Castello Di Novelmore  214 pezzi  dagli 8 
 
 🔎:
 
-- The toy castle features an opening door at the back of the fortress
-- With fold-out stairs
 - Includes 4 Playmobil toy figures
+- With fold-out stairs
+- The toy castle features an opening door at the back of the fortress
 - With working projectiles and secret passages
 - Includes a catapult
 

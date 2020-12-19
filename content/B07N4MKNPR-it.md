@@ -25,8 +25,8 @@ Ahora mismo tienes [Superga 2730-NAPPALEAU  Sneaker Donna  Beige  Nude N17   38 
 
 🔎:
 
+- Materiale esterno: Pelle
 - Fodera: Tessuto
 - Materiale suola: Gomma
-- Materiale esterno: Pelle
 
 [Visítala!!!](https://www.amazon.it/dp/B07N4MKNPR/?tag=tolees00-21)
