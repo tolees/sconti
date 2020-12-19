@@ -25,11 +25,11 @@ Ahora mismo tienes [Rowenta GR712D Optigrill+ Bistecchiera Intelligente con 6 Pr
 
 🔎:
 
-- Superficie di cottura 600 cm2 (30x20 cm): ideale per 2-4 persone
+- Indicatore del livello di cottura: la spia luminosa consente di monitorare direttamente lavanzamento della cottura
 - Le piastre amovibili in alluminio pressofuso antiaderenti e la vaschetta raccolta grassi sono lavabili in lavastoviglie
 - Modalità di cottura manuale con 4 temperature regolabili
-- Indicatore del livello di cottura: la spia luminosa consente di monitorare direttamente lavanzamento della cottura
 - Tecnologia “sensore automatico di cottura”: la temperatura e il tempo di cottura sono regolati in modo automatico in funzione dello spessore e del numero di porzioni collocate sulla griglia
+- Superficie di cottura 600 cm2 (30x20 cm): ideale per 2-4 persone
 - 6 programmi automatici di cottura: hamburger, pollo, sandwich, salsicce, carne rossa, pesce + modalità alimenti surgelati
 
 [Visítala!!!](https://www.amazon.it/dp/B071VH57DH/?tag=tolees00-21)
