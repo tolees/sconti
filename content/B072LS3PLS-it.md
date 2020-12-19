@@ -25,10 +25,10 @@ Tienes [Only Onlsedona Light Coat Otw Noos  Giubbotto Donna  Grigio  34  Taglia 
 
 ℹ️:
 
-- Designer: Only
 - Stagione: Autunno/Inverno
-- Colore: Grigio
-- Articolo: 15142911
 - Materiale: 100% Poliestere
+- Articolo: 15142911
+- Designer: Only
+- Colore: Grigio
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B072LS3PLS/?tag=tolees00-21)
