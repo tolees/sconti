@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Havaianas Top  Infradito Unisex-Adulto   al 20.06 % de descuento'
+date: 2020-08-01 22:55:52
+image: 'https://m.media-amazon.com/images/I/51p1Ks6P6SL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B003AOSHJ4-it'
+actualPrice: 14.39 EUR
+currency: EUR
+price: 14.39
+comparePrice: 18.0 EUR
+prodname: 'Havaianas Top  Infradito Unisex-Adulto  Rosso  Ruby Red 2090   41/42 EU'
+country: 'it'
+flag: '🇮🇹'
+buyurl: 'https://www.amazon.it/dp/B003AOSHJ4/?tag=tolees00-21'
+descuento: '20.06'
+average: '14.39'
+---
+
+Está [Havaianas Top  Infradito Unisex-Adulto  Rosso  Ruby Red 2090   41/42 EU](https://www.amazon.it/dp/B003AOSHJ4/?tag=tolees00-21) con 20.06 de descuento por 14.39 EUR (original: 18.0 EUR) en el siguiente enlace!
+
+[![Havaianas Top  Infradito Unisex-Adulto  ](https://m.media-amazon.com/images/I/51p1Ks6P6SL._SL200_.jpg)](https://www.amazon.it/dp/B003AOSHJ4/?tag=tolees00-21)
+
+ℹ️:
+
+
+[Ver la oferta!!](https://www.amazon.it/dp/B003AOSHJ4/?tag=tolees00-21)
