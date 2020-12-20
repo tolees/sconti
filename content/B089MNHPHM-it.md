@@ -25,10 +25,10 @@ Ahora mismo tienes [Fun Play Playfun- Dottor Quattrocchi  93584](https://www.ama
 
 🔎:
 
-- Età consigliata a partire da 8 anni, non cè bisogno di pile per giocare
+- E... allo stesso tempo dovrai affrontare le sfide più pazze!
 - Doctor 4 eyes è un gioco familiare super divertente in cui proverai diversi effetti della visione
+- Età consigliata a partire da 8 anni, non cè bisogno di pile per giocare
 - + di 100 sfide!
 - I giochi di Play Fun sono soggetti a controlli severi di produzione per garantire il divertimento e la sicurezza dei bambini; sono di facile uso e funzionamento.
-- E... allo stesso tempo dovrai affrontare le sfide più pazze!
 
 [Visítala!!!](https://www.amazon.it/dp/B089MNHPHM/?tag=tolees00-21)

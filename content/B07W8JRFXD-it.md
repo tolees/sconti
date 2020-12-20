@@ -25,9 +25,9 @@ Tienes [Funko POP! Star Wars: Mandalorian - The Mandalorian](https://www.amazon.
 
 ℹ️:
 
-- Funko POP is the 2018 Toy of the Year and Peoples Choice award winner
-- Figure stands 9. 5cm and comes in a window display box
 - From Huckleberry, POP 13, as a stylized POP vinyl from Funko
 - Check out the other Disney figures from Funko and collect them all
+- Funko POP is the 2018 Toy of the Year and Peoples Choice award winner
+- Figure stands 9. 5cm and comes in a window display box
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07W8JRFXD/?tag=tolees00-21)

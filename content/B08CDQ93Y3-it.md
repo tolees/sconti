@@ -26,9 +26,9 @@ Ahora mismo tienes [Pentel SES15C Brush Sign Pen set 4 pz assortimento "inverno"
 🔎:
 
 - prodotto realizzato con l82% di materiale riciclato (escluse parti consumabili e/o di ricambio)
-- Colore brillante a base acqua
-- Punta flessibile in fibra per tratti spessi e sottili con un unico strumento
 - Ideale per illustrazione, calligrafia e per realizzare schizzi e bozzetti
 - pack 4 pz assortimento "Inverno": blu acciaio; blu polvere; grigio chiaro; blu reale
+- Punta flessibile in fibra per tratti spessi e sottili con un unico strumento
+- Colore brillante a base acqua
 
 [Visítala!!!](https://www.amazon.it/dp/B08CDQ93Y3/?tag=tolees00-21)

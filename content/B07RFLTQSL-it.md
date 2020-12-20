@@ -25,8 +25,8 @@ Está [Samsung Galaxy A20e Smartphone  Display 5.8" HD+  32 GB Espandibili  RAM 
 
 ℹ️:
 
-- Android 9.0 (Pie); One UI, Octa-core (2x1.6 GHz & 6x1.35 GHz)
-- 32 GB, 3 GB RAM
 - PLS TFT capacitive touchscreen, 16M colors, 5.8 inches, 82.6 cm2 (~80.4% screen-to-body ratio), 720 x 1560 pixels, 19.5:9 ratio (~296 ppi density)
+- 32 GB, 3 GB RAM
+- Android 9.0 (Pie); One UI, Octa-core (2x1.6 GHz & 6x1.35 GHz)
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07RFLTQSL/?tag=tolees00-21)

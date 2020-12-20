@@ -25,9 +25,9 @@ Tienes [Pentel LR7 ricarica per penna roller EnerGel 0 35 mm tratto  Ø 0 7 mm  
 
 ℹ️:
 
-- Ideal for Energel sterling executive pens and Lancelot executive pen collection
 - Smooth writing and long lasting
-- LR7 refills last three times longer than standard gel ink
+- Ideal for Energel sterling executive pens and Lancelot executive pen collection
 - 12 black liquid gel ink refills for Energel refillable pens
+- LR7 refills last three times longer than standard gel ink
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B002IYT1QK/?tag=tolees00-21)

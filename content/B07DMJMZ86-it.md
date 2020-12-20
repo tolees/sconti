@@ -25,10 +25,10 @@ Tienes [Gears of War 5 Edizione Standard  Pegi 18  Xbox One  4K UKTRA HD  HDR  M
 
 ℹ️:
 
-- Gioca in modalità singola o in co-op con i tuoi amici sia condividendo lo stesso schermo, sia online
+- Ottima grafica con tecnologia HDR
+- Combatti con i tuoi amici da ovunque ti trovi grazie alla modalità cross-play tra Xbox One e PC Windows 10
 - Gioca in modalità 4K UHD con ottimo HDR e velocità di 60 frame al secondo
 - Scala i ghiacciai, naviga nel deserto o discendi lungo le rovine per scoprire il mondo Gears
-- Combatti con i tuoi amici da ovunque ti trovi grazie alla modalità cross-play tra Xbox One e PC Windows 10
-- Ottima grafica con tecnologia HDR
+- Gioca in modalità singola o in co-op con i tuoi amici sia condividendo lo stesso schermo, sia online
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07DMJMZ86/?tag=tolees00-21)

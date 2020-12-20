@@ -25,15 +25,15 @@ Está [Puma Basic Brief 2P Slip  Nero  M](https://www.amazon.it/dp/B01ID9STWU/?t
 
 ℹ️:
 
-- Comfortable elastic waistband
-- 95% Cotton, 5% Elastane Weight of fabric 155gsm
-- 2-pcs Embrace packed
-- Waist (approx to fit) S - 30-32", M - 33-34", L - 35-37", XL - 38-40"
-- 2-pcs Embrace packed
-- 95% Cotton, 5% Elastane Weight of fabric 155gsm
-- Comfortable elastic waistband
 - Waist (approx to fit) S - 30-32", M - 33-34", L - 35-37", XL - 38-40"
 - Sportive briefs. Very soft touch fabric
+- 95% Cotton, 5% Elastane Weight of fabric 155gsm
+- Comfortable elastic waistband
+- Comfortable elastic waistband
+- 2-pcs Embrace packed
+- 95% Cotton, 5% Elastane Weight of fabric 155gsm
 - Sportive briefs. Very soft touch fabric
+- 2-pcs Embrace packed
+- Waist (approx to fit) S - 30-32", M - 33-34", L - 35-37", XL - 38-40"
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01ID9STWU/?tag=tolees00-21)

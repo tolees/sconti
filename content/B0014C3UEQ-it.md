@@ -25,7 +25,7 @@ Ahora mismo tienes [Crocs Classic Clog  Unisex – Adulto  Verde  Army Green   4
 
 🔎:
 
-- Parte superiore: gomma
 - Fodera: sintetica
+- Parte superiore: gomma
 
 [Visítala!!!](https://www.amazon.it/dp/B0014C3UEQ/?tag=tolees00-21)

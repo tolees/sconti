@@ -25,10 +25,10 @@ Ahora mismo tienes [De Longhi Nespresso Inissia EN80.B Macchina per caffè espre
 
 🔎:
 
-- Flow stop: Quantità di caffè automatica e programmabile: Imposta facilmente la tua lunghezza di caffè preferita e la macchina si ferma automaticamente per preparare il caffè al livello desiderato
+- Macchina per il caffè con sistema a capsule Nespresso con pressione da 19 bar
 - Spegnimento automatico dopo 9 minuti
 - Sistema di riscaldamento Thermoblock: pronta in soli 25 secondi
+- Flow stop: Quantità di caffè automatica e programmabile: Imposta facilmente la tua lunghezza di caffè preferita e la macchina si ferma automaticamente per preparare il caffè al livello desiderato
 - Serbatoio dell’acqua removibile da 0,7 L. Dimensioni Compatte (118x315x230) mm
-- Macchina per il caffè con sistema a capsule Nespresso con pressione da 19 bar
 
 [Visítala!!!](https://www.amazon.it/dp/B00G5YOVZA/?tag=tolees00-21)

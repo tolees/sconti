@@ -25,10 +25,10 @@ Ahora mismo tienes [Saugella Dermoliquido Detergente per L Igiene Intima Quotidi
 
 🔎:
 
-- Svolge unazione rinfrescante e tonificante, assicurando benessere quotidiano
-- Svolge anche azione antiodorante
 - Il ph 3.5 aiuta a mantenere la corretta acidità vulvare della donna in età fertile
-- La sua azione è stata testata clinicamente
+- Svolge unazione rinfrescante e tonificante, assicurando benessere quotidiano
 - Detergente intimo quotidiano per la donna in età fertile, con estratto di salvia officinalis (salvia)
+- Svolge anche azione antiodorante
+- La sua azione è stata testata clinicamente
 
 [Visítala!!!](https://www.amazon.it/dp/B00GN5T9IU/?tag=tolees00-21)
