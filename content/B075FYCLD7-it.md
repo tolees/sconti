@@ -25,9 +25,9 @@ Está [NESCAFE DOLCE GUSTO COMPATIBILE 96 capsule POP CAFFÈ E-GUSTO M. 2 CREMOS
 
 ℹ️:
 
-- Compatibili con macchine NESCAFE DOLCE GUSTO
 - Per chi ama una esperienza di gusto delicato e speziato , con retrogusto di cioccolato , sentori di vaniglia e mandorla Compatibili con macchine NESCAFE DOLCE GUSTO
-- Miscela . 2 ottenuta dalla sapiente miscelazione dei caffè Arabica del Centro America dolci e speziati con i caffè delicati asiatici
+- Compatibili con macchine NESCAFE DOLCE GUSTO
 - Miscela. 2 CREMOSO intensità 9
+- Miscela . 2 ottenuta dalla sapiente miscelazione dei caffè Arabica del Centro America dolci e speziati con i caffè delicati asiatici
 
 [Ver la oferta!!](https://www.amazon.it/dp/B075FYCLD7/?tag=tolees00-21)
