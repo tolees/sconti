@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.11 % en Funko POP! Star Wars: Mandalorian - The '
-date: 2020-12-19 07:11:51
+date: 2020-12-20 07:38:38
 image: 'https://m.media-amazon.com/images/I/41Q4sBbC1rL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Funko POP! Star Wars: Mandalorian - The Mandalorian](https://www.amazon.
 
 ℹ️:
 
-- Funko pop is the 2018 toy of the year and peoples choice award winner
-- Check out the other disney figures from funko and collect them all
-- From star wars: mandalorian, the mandalorian, as a stylized pop vinyl from funko
-- Figure stands 9.5cm and comes in a window display box
+- Funko POP is the 2018 Toy of the Year and Peoples Choice award winner
+- Figure stands 9. 5cm and comes in a window display box
+- From Huckleberry, POP 13, as a stylized POP vinyl from Funko
+- Check out the other Disney figures from Funko and collect them all
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07W8JRFXD/?tag=tolees00-21)

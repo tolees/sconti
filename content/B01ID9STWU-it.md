@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Basic Brief 2P Slip  Nero  M al 25.02 % de descuento'
-date: 2020-12-19 07:13:11
+date: 2020-12-20 07:37:17
 image: 'https://m.media-amazon.com/images/I/31eioILULyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,15 @@ Está [Puma Basic Brief 2P Slip  Nero  M](https://www.amazon.it/dp/B01ID9STWU/?t
 
 ℹ️:
 
-- Elastico in vita con liconico logo PUMA.
-- Tessuto morbido al tatto.
-- Comodo elastico in vita.
+- Comfortable elastic waistband
+- 95% Cotton, 5% Elastane Weight of fabric 155gsm
+- 2-pcs Embrace packed
+- Waist (approx to fit) S - 30-32", M - 33-34", L - 35-37", XL - 38-40"
+- 2-pcs Embrace packed
+- 95% Cotton, 5% Elastane Weight of fabric 155gsm
+- Comfortable elastic waistband
+- Waist (approx to fit) S - 30-32", M - 33-34", L - 35-37", XL - 38-40"
+- Sportive briefs. Very soft touch fabric
+- Sportive briefs. Very soft touch fabric
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01ID9STWU/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Ragnarok Portachiavi Pop Marvel T al 35.74 % de descuento'
-date: 2020-12-19 07:11:11
+date: 2020-12-20 07:29:58
 image: 'https://m.media-amazon.com/images/I/41yqFTB8HjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Funko- Ragnarok Portachiavi Pop Marvel Thor  4 cm  13781](https://www.ama
 
 ℹ️:
 
+- Portachiavi Funko POP!
 - Thor
 - Marvel: Thor
-- Portachiavi Funko POP!
 
 [Ver la oferta!!](https://www.amazon.it/dp/B072YZ4VPH/?tag=tolees00-21)

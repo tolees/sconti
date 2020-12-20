@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 'Xiaomi Redmi Note 9S 64 + 4 GB  Interste al 26.49 % de descuento'
-date: 2020-12-17 07:11:03
+title: 'Xiaomi Redmi Note 9S 64 + 4 Gb  Interste al 23.45 % de descuento'
+date: 2020-12-20 07:42:38
 image: 'https://m.media-amazon.com/images/I/41RwQG6atEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B085WB9VRQ-it'
-actualPrice: 169.0 EUR
+actualPrice: 175.99 EUR
 currency: EUR
-price: 169.0
+price: 175.99
 comparePrice: 229.9 EUR
-prodname: 'Xiaomi Redmi Note 9S 64 + 4 GB  Interstellar Grey'
+prodname: 'Xiaomi Redmi Note 9S 64 + 4 Gb  Interstellar Grey'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21'
-descuento: '26.49'
-average: '175.66000000000003'
+descuento: '23.45'
+average: '175.794'
 ---
 
-Está [Xiaomi Redmi Note 9S 64 + 4 GB  Interstellar Grey](https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21) con 26.49 de descuento por 169.0 EUR (original: 229.9 EUR) en el siguiente enlace!
+Está [Xiaomi Redmi Note 9S 64 + 4 Gb  Interstellar Grey](https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21) con 23.45 de descuento por 175.99 EUR (original: 229.9 EUR) en el siguiente enlace!
 
-[![Xiaomi Redmi Note 9S 64 + 4 GB  Interste](https://m.media-amazon.com/images/I/41RwQG6atEL._SL200_.jpg)](https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21)
+[![Xiaomi Redmi Note 9S 64 + 4 Gb  Interste](https://m.media-amazon.com/images/I/41RwQG6atEL._SL200_.jpg)](https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21)
 
 ℹ️:
 
-- Batteria da 5020 mAh; 18w fast charging
-- Sistema operativo miui 11
-- Frequenza fino a 2.3 ghz
 - Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
+- Batteria da 5020 mAh; 18w fast charging
+- Frequenza fino a 2.3 ghz
+- Sistema operativo miui 11
 
 [Ver la oferta!!](https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21)

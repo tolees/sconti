@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'De Longhi Nespresso Inissia EN80.B Macch al 49.51 % de descuento'
-date: 2020-10-10 15:02:24
-image: 'https://m.media-amazon.com/images/I/51WUZ8jNBRL._SL200_.jpg'
+date: 2020-12-20 08:56:54
+image: 'https://m.media-amazon.com/images/I/31quafNDftL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -16,14 +16,19 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00G5YOVZA/?tag=tolees00-21'
 descuento: '49.51'
-average: '54.945'
+average: '53.29333333333334'
 ---
 
 Ahora mismo tienes [De Longhi Nespresso Inissia EN80.B Macchina per caffè espresso  a capsule  1260 W  1 Tazza  14 Decibel  19 bar  Plastica  Nero  Black ](https://www.amazon.it/dp/B00G5YOVZA/?tag=tolees00-21) a 49.99 EUR (original: 99.0 EUR) (49.51 %  de descuento) en el siguiente enlace!
 
-[![De Longhi Nespresso Inissia EN80.B Macch](https://m.media-amazon.com/images/I/51WUZ8jNBRL._SL200_.jpg)](https://www.amazon.it/dp/B00G5YOVZA/?tag=tolees00-21)
+[![De Longhi Nespresso Inissia EN80.B Macch](https://m.media-amazon.com/images/I/31quafNDftL._SL200_.jpg)](https://www.amazon.it/dp/B00G5YOVZA/?tag=tolees00-21)
 
 🔎:
 
+- Flow stop: Quantità di caffè automatica e programmabile: Imposta facilmente la tua lunghezza di caffè preferita e la macchina si ferma automaticamente per preparare il caffè al livello desiderato
+- Spegnimento automatico dopo 9 minuti
+- Sistema di riscaldamento Thermoblock: pronta in soli 25 secondi
+- Serbatoio dell’acqua removibile da 0,7 L. Dimensioni Compatte (118x315x230) mm
+- Macchina per il caffè con sistema a capsule Nespresso con pressione da 19 bar
 
 [Visítala!!!](https://www.amazon.it/dp/B00G5YOVZA/?tag=tolees00-21)

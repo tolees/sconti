@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.97 % en Fila Disruptor  Scarpe da Ginnastica Bas'
-date: 2020-12-19 07:17:20
+date: 2020-12-20 07:37:46
 image: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078WQ7GJ2/?tag=tolees00-21'
 descuento: '46.97'
-average: '56.43'
+average: '55.80636363636364'
 ---
 
 Tienes [Fila Disruptor  Scarpe da Ginnastica Basse Donna  Bianco  40 EU](https://www.amazon.it/dp/B078WQ7GJ2/?tag=tolees00-21) con un 46.97 % de descuento con precio de oferta de 53.0 EUR (original: 99.95 EUR) en el siguiente enlace!
@@ -25,9 +25,8 @@ Tienes [Fila Disruptor  Scarpe da Ginnastica Basse Donna  Bianco  40 EU](https:/
 
 ℹ️:
 
-- Synthetic leather
-- FILA
-- White
-- Sneakers
+- Calzata piccola
+- FILA 1010302 DONNA
+- Distruptor low donna
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B078WQ7GJ2/?tag=tolees00-21)
