@@ -25,8 +25,8 @@ Está [Kingston KTH-PL424E/8G Memorie 8 GB DDR4  2400 MHz ECC Module](https://ww
 
 ℹ️:
 
-- DDR4, 2400 MHz, ECC, CL17, X8, 1.2 V, Unbuffered, DIMM, 288-pin
 - Kingston esegue test al 100% su tutti i prodotti di memoria specifici del sistema.
+- DDR4, 2400 MHz, ECC, CL17, X8, 1.2 V, Unbuffered, DIMM, 288-pin
 - Verifica sempre la compatibilità del sistema con Kingston
 
 [Ver la oferta!!](https://www.amazon.it/dp/B071HP86NS/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Está [Russell Hobbs 22601-56 Tostapane  850 W  Strato Esterno in Plastica  2 Sc
 
 ℹ️:
 
-- Controlli per regolare la tostatura
-- Griglia per scaldare panini e brioche
-- Vassoio raccogli-briciole estraibile
-- Funzioni per scongelare, riscaldare e annullare la tostatura con indicatori luminosi
 - Include pinza per rimuovere il pane
+- Funzioni per scongelare, riscaldare e annullare la tostatura con indicatori luminosi
+- Griglia per scaldare panini e brioche
+- Controlli per regolare la tostatura
+- Vassoio raccogli-briciole estraibile
 
 [Ver la oferta!!](https://www.amazon.it/dp/B01B0YRRLY/?tag=tolees00-21)
