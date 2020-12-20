@@ -25,8 +25,8 @@ Está [Diadora - Sneakers Game L Low Waxed per Uomo e Donna  EU 44 ](https://www
 
 ℹ️:
 
+- 70s low-cut tennis-inspired shoe with upper made of full-grain leather, appliquéd leather logo and wax-treated customised box outsole. Available in various colours.
 - Sneakers for man and woman
 - Diadora Sportwear: street style and sportwear join the quality and authenticity of the Brand. Diadora is a global leader in the sportwear, lifestyle and Safety categories. Well researched styles and technological innovation are the keywords of the Brands success.
-- 70s low-cut tennis-inspired shoe with upper made of full-grain leather, appliquéd leather logo and wax-treated customised box outsole. Available in various colours.
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00U68C8II/?tag=tolees00-21)

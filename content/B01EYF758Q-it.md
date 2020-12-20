@@ -25,10 +25,10 @@ Tienes [Oli-natura olio di legno naturale  contenuto: 1 L  naturale](https://ww
 
 ℹ️:
 
-- 1 – 2 lavori senza e con confezione adden possibile, anmutende e design accattivante
-- Elevata resistenza a haushaltschemikalien e liquidi, adatto per Giocattoli e mobili per bambini
-- Per il trattamento di pavimenti in legno, pavimenti in sughero e OSB per pavimenti, scale, porte, piani di lavoro e mobili
 - Cono S.A.N. incolore, Contenuto: 1 litro, a seconda della base 20 – 25 m²
+- 1 – 2 lavori senza e con confezione adden possibile, anmutende e design accattivante
+- Per il trattamento di pavimenti in legno, pavimenti in sughero e OSB per pavimenti, scale, porte, piani di lavoro e mobili
+- Elevata resistenza a haushaltschemikalien e liquidi, adatto per Giocattoli e mobili per bambini
 - Prodotto naturale realizzato con olii vegetali e crescere come olio di soia modificato e cera carnauba
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B01EYF758Q/?tag=tolees00-21)

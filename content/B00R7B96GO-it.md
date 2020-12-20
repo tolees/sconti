@@ -25,10 +25,10 @@ Está [Pioneer SE-MJ561BT-T Cuffia Bluetooth con Tecnologia NFC e Microfono Inte
 
 ℹ️:
 
-- Risposta in frequenza: 9 - 22.000 Hz
-- Tipo: cuffie dinamiche completamente chiuse
 - Tecnologia NFC e audio Bluetooth, 15 ore di autonomia in uso
-- Unità driver: 40 mm
 - Telefonate in viva voce con il microfono integrato
+- Tipo: cuffie dinamiche completamente chiuse
+- Risposta in frequenza: 9 - 22.000 Hz
+- Unità driver: 40 mm
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00R7B96GO/?tag=tolees00-21)
