@@ -25,10 +25,10 @@ Está [Moleskine - Agenda Settimanale 2021  Agenda Settimanale 12 Mesi con Layou
 
 ℹ️:
 
-- Lagenda presenta gli iconici angoli arrotondati, chiusura ad elastico, nastrino segnalibro e scritta "in case of loss" nel risguardo anteriore. La carta da 70 g/m² è color avorio e senza cloro
 - La confezione contiene unagenda settimanale da 12 mesi con copertina rigida e layout orizzontale, disponibile nel formato Pocket 9 x 14 cm da 144 pagine e nel colore rosso scarlatto
+- Lagenda presenta gli iconici angoli arrotondati, chiusura ad elastico, nastrino segnalibro e scritta "in case of loss" nel risguardo anteriore. La carta da 70 g/m² è color avorio e senza cloro
 - Inizia il nuovo anno con questa agenda settimanale da 12 mesi che copre tutto lanno, da gennaio a dicembre 2021, con un layout orizzontale su due pagine dedicate a tutti i giorni della settimana
-- Questo planner settimanale consente di avere una visione dinsieme di tutta la settimana su due pagine: da lunedì a mercoledì sulla sinistra, da giovedì a domenica sulla destra
 - Ogni agenda presenta come inserto speciale 295 stickers adesivi colorati per personalizzare il proprio weekly planner: 1 foglietto di stickers con le lettere dellalfabeto e 2 con tante icone diverse
+- Questo planner settimanale consente di avere una visione dinsieme di tutta la settimana su due pagine: da lunedì a mercoledì sulla sinistra, da giovedì a domenica sulla destra
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07Y5W1VKF/?tag=tolees00-21)
