@@ -26,9 +26,9 @@ Ahora mismo tienes [Imetec Professional Serie GL 3000 Bistecchiera  Piastre Anti
 🔎:
 
 - Grill elettrico con sette posizioni di cottura: piastre aperte a 180°, a contatto e parallele a cinque altezze, fino a 3.5 cm
-- Piastre antiaderenti, removibili e lavabili in lavastoviglie; dimensione 28 x 22 cm per cuocere quattro toast insieme
-- Bistecchiera elettrica con rivestimento Titanio Stone-look, per grigliate come sulla pietra
 - Thermo Control: mantiene costante la temperatura selezionata; tre regolazioni di temperatura: defrost, toast e grill
 - Potenza 2000 W: raggiunge 240 °C di temperatura per prestazioni di cottura elevate
+- Bistecchiera elettrica con rivestimento Titanio Stone-look, per grigliate come sulla pietra
+- Piastre antiaderenti, removibili e lavabili in lavastoviglie; dimensione 28 x 22 cm per cuocere quattro toast insieme
 
 [Visítala!!!](https://www.amazon.it/dp/B00NM8FSJ0/?tag=tolees00-21)
