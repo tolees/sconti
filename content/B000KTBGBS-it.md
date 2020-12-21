@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.92 % en ROLLER BALL R56 NERO 0.6MM PENTEL'
-date: 2020-12-20 07:28:18
+date: 2020-12-21 08:02:37
 image: 'https://m.media-amazon.com/images/I/21KUNRDCehL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000KTBGBS/?tag=tolees00-21'
 descuento: '27.92'
-average: '18.672857142857143'
+average: '18.703913043478263'
 ---
 
 Tienes [ROLLER BALL R56 NERO 0.6MM PENTEL](https://www.amazon.it/dp/B000KTBGBS/?tag=tolees00-21) con un 27.92 % de descuento con precio de oferta de 19.03 EUR (original: 26.4 EUR) en el siguiente enlace!
