@@ -25,10 +25,10 @@ Tienes [Chicco Bilancia Digitale per seguire la crescita del bambino  Bianco 610
 
 ℹ️:
 
-- Funzione tara regolabile
 - Forma ergonomica compatta
-- Dimensioni: 610 x 345 x 64 mm
 - Peso da 30 g a 20 kg
+- Funzione tara regolabile
+- Dimensioni: 610 x 345 x 64 mm
 - Ampio display LCD
 - Con stabilizzatore di peso e correttore di vibrazioni
 

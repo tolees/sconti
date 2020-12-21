@@ -25,10 +25,10 @@ Ahora mismo tienes [Fossil Orecchini pendenti a tre tonalità con ovali](https:/
 
 🔎:
 
-- Chiusura: Uncino
 - Colore: Tre tonalità, oro, argento, oro rosa
+- Chiusura: Uncino
 - Fossil
-- Materiale: Acciaio inossidabile, zirconia cubica
 - Misure: Lunghezza: 53 mm
+- Materiale: Acciaio inossidabile, zirconia cubica
 
 [Visítala!!!](https://www.amazon.it/dp/B074VCNGX7/?tag=tolees00-21)
