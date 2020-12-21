@@ -26,7 +26,7 @@ Puoi trovare [Premier Housewares Porta asciugamani da pavimento cromato con 3 br
 ℹ️:
 
 - Larghezza 42cm
-- Altezza 94 cm
 - Profondità 20 cm
+- Altezza 94 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B002FVZADE/?tag=tolees00-21)
