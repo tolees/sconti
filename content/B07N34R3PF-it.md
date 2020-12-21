@@ -26,9 +26,9 @@ Ahora mismo tienes [Diesel Orologio Analogico Quarzo Uomo con Cinturino in Accia
 🔎:
 
 - Confezionato nella gift box Diesel
-- Spessore della cassa: 14 mm; Dimensioni della cassa: 57 mm
+- Larghezza del cinturino: 28 mm; Circonferenza del cinturino: 200 +/-5 mm
 - Resistente AllAcqua: 3 ATM
 - Materiale del cinturino: Acciaio inossidabile
-- Larghezza del cinturino: 28 mm; Circonferenza del cinturino: 200 +/-5 mm
+- Spessore della cassa: 14 mm; Dimensioni della cassa: 57 mm
 
 [Visítala!!!](https://www.amazon.it/dp/B07N34R3PF/?tag=tolees00-21)
