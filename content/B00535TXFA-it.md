@@ -25,7 +25,7 @@ Está [Point Break](https://www.amazon.it/dp/B00535TXFA/?tag=tolees00-21) con 46
 
 ℹ️:
 
-- Elettronica
 - Warner Home Video
+- Elettronica
 
 [Ver la oferta!!](https://www.amazon.it/dp/B00535TXFA/?tag=tolees00-21)
