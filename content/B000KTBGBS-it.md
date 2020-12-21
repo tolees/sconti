@@ -25,7 +25,7 @@ Tienes [ROLLER BALL R56 NERO 0.6MM PENTEL](https://www.amazon.it/dp/B000KTBGBS/?
 
 ℹ️:
 
-- Punta 0,6mm
 - Colore: nero
+- Punta 0,6mm
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000KTBGBS/?tag=tolees00-21)

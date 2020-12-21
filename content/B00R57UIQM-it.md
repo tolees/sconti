@@ -25,8 +25,8 @@ Tienes [CMP RIGEL  Scarpe da trekking medio uomo  Grigio  Grau  GREY U862    43]
 
 ℹ️:
 
-- La parte superiore è prodotta in vera pelle
 - La suola in materiale di qualità offre unottima adesione alle superfici
+- La parte superiore è prodotta in vera pelle
 - Il comfort è offerto dalle solette in tessuto
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B00R57UIQM/?tag=tolees00-21)

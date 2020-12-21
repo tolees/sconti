@@ -25,8 +25,8 @@ Tienes [Pentel Fude Pen Ricaricabile Inchiostro Nero Base Acqua Punta Larga](htt
 
 ℹ️:
 
-- Ideale per illustrazione, calligrafia, fumetto manga
-- Punta pennello
 - Ricaricabile con refill XFR
+- Punta pennello
+- Ideale per illustrazione, calligrafia, fumetto manga
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B000THNGVO/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Está [Crocs Classic Clog  Unisex – Adulto  Grigio  Slate Grey   43/44 EU](htt
 
 ℹ️:
 
-- Fodera: senza fodera
-- Materiale esterno: schiuma
-- Materiale suola: schiuma
 - Tipo di tacco: senza tacco
+- Materiale esterno: schiuma
+- Fodera: senza fodera
+- Materiale suola: schiuma
 - Tipo di chiusura: cinturino
 
 [Ver la oferta!!](https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21)

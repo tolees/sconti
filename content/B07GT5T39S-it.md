@@ -25,12 +25,12 @@ Tienes [Sony DSX-A416BT Autoradio senza CD  Microfono Esterno Incluso  Illuminaz
 
 ℹ️:
 
-- Microfono esterno in dotazione, con diminuzione dei rumori di sottofondo
-- Illuminazione personalizzabile sia display che tasti
 - Dual Bluetooth (collega 2 cellulari contemporaneamente)
-- Controllo vocale con Siri Eyes Free
+- Microfono esterno in dotazione, con diminuzione dei rumori di sottofondo
 - Potenza di uscita: 4 x 55 W.
-- Music Playback per cellulari Android
 - Ascolta app (es. Spotify) via USB
+- Music Playback per cellulari Android
+- Illuminazione personalizzabile sia display che tasti
+- Controllo vocale con Siri Eyes Free
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B07GT5T39S/?tag=tolees00-21)

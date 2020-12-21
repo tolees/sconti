@@ -25,8 +25,8 @@ Está [POP! Games: The Last Of Us- Ellie](https://www.amazon.it/dp/B082FRMFP3/?t
 
 ℹ️:
 
-- Ellie e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Uniconica statuina Funko Pop Vinyl della serie The Last Of Us
 - Scopri tutte le altre statuine The Last Of Us di Funko e collezionale tutte
+- Ellie e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 
 [Ver la oferta!!](https://www.amazon.it/dp/B082FRMFP3/?tag=tolees00-21)

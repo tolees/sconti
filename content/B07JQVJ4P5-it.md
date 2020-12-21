@@ -25,8 +25,8 @@ Está [Tommy Hilfiger Tommy Flag Hilfiger Tee Maglietta Sport  Bianco  Snow Whit
 
 ℹ️:
 
-- Logo stampato sul petto
-- Vestibilità rilassata
 - Adatto per luso giornaliero
+- Vestibilità rilassata
+- Logo stampato sul petto
 
 [Ver la oferta!!](https://www.amazon.it/dp/B07JQVJ4P5/?tag=tolees00-21)

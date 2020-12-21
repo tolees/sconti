@@ -25,11 +25,11 @@ Tienes [LEGO Art Star Wars I Sith  Poster da Collezionista Fai da Te  Decorazion
 
 ℹ️:
 
-- Features 3-in-1 rebuildable portrait set : in one go create 1 of 3 powerful Sith Lords portraits: Darth Maul, Kylo Ren and Darth Vader
+- With the complementary Soundtrack, you can dive deep into the build with fun Star Wars-related stories and interviews
+- This LEGO art piece measures over 15.5 inch (40 cm) square, once completed with the Star Wars signature plate it is ready to be displayed
 - 1 Picture - 4 options; pictured models can not be built simultaneously
 - When combined with another 2 sets to create Darth Vader wall art it makes a great gift for creative builders and Star Wars fans
-- This LEGO art piece measures over 15.5 inch (40 cm) square, once completed with the Star Wars signature plate it is ready to be displayed
-- With the complementary Soundtrack, you can dive deep into the build with fun Star Wars-related stories and interviews
 - Includes 9 canvas wall decor plates, a Star Wars signature plate, brick-built LEGO frame, new hanging element and piece separator
+- Features 3-in-1 rebuildable portrait set : in one go create 1 of 3 powerful Sith Lords portraits: Darth Maul, Kylo Ren and Darth Vader
 
 [Accede a la oferta!!](https://www.amazon.it/dp/B0813QKLHG/?tag=tolees00-21)

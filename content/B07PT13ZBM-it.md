@@ -25,10 +25,10 @@ Ahora mismo tienes [Smoby Cucina Evolutive  età 3 anni  articolo 7600312300](ht
 
 🔎:
 
-- Cucina evolutive, altezza che può essere adattata grazie agli appositi supporti in base alla crescita del bambino
-- made in France
 - effetto acqua che bolle
-- dotata di 40 accessori tra cui pasta termosensibile e carota che si taglia davvero!
+- made in France
 - Funziona con 3 batterie LR03 non incluse
+- Cucina evolutive, altezza che può essere adattata grazie agli appositi supporti in base alla crescita del bambino
+- dotata di 40 accessori tra cui pasta termosensibile e carota che si taglia davvero!
 
 [Visítala!!!](https://www.amazon.it/dp/B07PT13ZBM/?tag=tolees00-21)
