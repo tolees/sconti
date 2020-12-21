@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Candy CS 1292D3-01 Lavatrice  9 kg  1200 at 34.14 % discount'
+title: 'Candy CS 1292D3-01 Lavatrice  9 kg  1200 al 34.14 % di sconto'
 date: 2020-08-14 16:06:21
 image: 'https://m.media-amazon.com/images/I/41YY0GKnrJL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.14'
 average: '328.66'
 ---
 
-With a final price of 328.66 EUR (original: 499.0 EUR) you can find [Candy CS 1292D3-01 Lavatrice  9 kg  1200 rpm  Bianco](https://www.amazon.it/dp/B01H0VQTHY/?tag=tolees00-21) with a  34.14 % discount here:
+Puoi trovare [Candy CS 1292D3-01 Lavatrice  9 kg  1200 rpm  Bianco](https://www.amazon.it/dp/B01H0VQTHY/?tag=tolees00-21) con il prezzo 328.66 EUR (originale: 499.0 EUR) 34.14 % sconto qui:
 
 [![Candy CS 1292D3-01 Lavatrice  9 kg  1200](https://m.media-amazon.com/images/I/41YY0GKnrJL._SL200_.jpg)](https://www.amazon.it/dp/B01H0VQTHY/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.it/dp/B01H0VQTHY/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B01H0VQTHY/?tag=tolees00-21)

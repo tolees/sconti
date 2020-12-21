@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 30.00 % for Immunilflor - 12 Mini Drink'
+title: 'Immunilflor - 12 Mini Drink al 30.00 % di sconto'
 date: 2020-09-24 07:58:53
 image: 'https://m.media-amazon.com/images/I/41vTE9FmWsL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '9.427500000000002'
 ---
 
-You've got [Immunilflor - 12 Mini Drink](https://www.amazon.it/dp/B00DN9FT24/?tag=tolees00-21) with a  30.00 % discount, with final price of 9.8 EUR (original: 14.0 EUR) at the following link:
+Puoi trovare [Immunilflor - 12 Mini Drink](https://www.amazon.it/dp/B00DN9FT24/?tag=tolees00-21) con il prezzo 9.8 EUR (originale: 14.0 EUR) 30.00 % sconto qui:
 
 [![Immunilflor - 12 Mini Drink](https://m.media-amazon.com/images/I/41vTE9FmWsL._SL200_.jpg)](https://www.amazon.it/dp/B00DN9FT24/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.it/dp/B00DN9FT24/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B00DN9FT24/?tag=tolees00-21)

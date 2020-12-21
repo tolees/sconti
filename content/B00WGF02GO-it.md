@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.10 % deal for Kimbo - Macinato Fresco  Caffè di Napoli'
+title: 'Kimbo - Macinato Fresco  Caffè di Napoli al 48.10 % di sconto'
 date: 2020-09-10 09:14:02
 image: 'https://m.media-amazon.com/images/I/51mx+p+nbdL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '48.10'
 average: '1.5'
 ---
 
-There's a deal [Kimbo - Macinato Fresco  Caffè di Napoli  Tostatura Media - 250 g](https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21)  with  48.10 % discount, final price tag of  1.5 EUR (original: 2.89 EUR) here:
+Puoi trovare [Kimbo - Macinato Fresco  Caffè di Napoli  Tostatura Media - 250 g](https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21) con il prezzo 1.5 EUR (originale: 2.89 EUR) 48.10 % sconto qui:
 
 [![Kimbo - Macinato Fresco  Caffè di Napoli](https://m.media-amazon.com/images/I/51mx+p+nbdL._SL200_.jpg)](https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21)

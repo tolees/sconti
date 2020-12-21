@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Assassin s Creed III Liberation Remaster at 50.84 % discount'
+title: 'sconto del 50.84 % su Assassin s Creed III Liberation Remaster  '
 date: 2020-09-28 19:50:04
 image: 'https://m.media-amazon.com/images/I/512X+GsbMjL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.84'
 average: '19.99'
 ---
 
-With a final price of 19.99 EUR (original: 40.66 EUR) you can find [Assassin s Creed III Liberation Remastered - Xbox One](https://www.amazon.it/dp/B07NJJ9QPG/?tag=tolees00-21) with a  50.84 % discount here:
+[Assassin s Creed III Liberation Remastered - Xbox One](https://www.amazon.it/dp/B07NJJ9QPG/?tag=tolees00-21) ha un prezzo di 19.99 EUR (originale: 40.66 EUR) con uno sconto del 50.84 % sconto qui:
 
 [![Assassin s Creed III Liberation Remaster](https://m.media-amazon.com/images/I/512X+GsbMjL._SL200_.jpg)](https://www.amazon.it/dp/B07NJJ9QPG/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.it/dp/B07NJJ9QPG/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B07NJJ9QPG/?tag=tolees00-21)

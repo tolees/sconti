@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.99 % deal for Huawei P40 Lite Crush Green 6.4" 6gb/128'
+title: 'sconto del 39.99 % su Huawei P40 Lite Crush Green 6.4" 6gb/128  '
 date: 2020-09-25 15:11:01
 image: 'https://m.media-amazon.com/images/I/316f9jH19BL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '39.99'
 average: '179.39'
 ---
 
-There's a deal [Huawei P40 Lite Crush Green 6.4" 6gb/128gb Dual Sim](https://www.amazon.it/dp/B084YQPQ5M/?tag=tolees00-21)  with  39.99 % discount, final price tag of  179.98 EUR (original: 299.9 EUR) here:
+[Huawei P40 Lite Crush Green 6.4" 6gb/128gb Dual Sim](https://www.amazon.it/dp/B084YQPQ5M/?tag=tolees00-21) ha un prezzo di 179.98 EUR (originale: 299.9 EUR) con uno sconto del 39.99 % sconto qui:
 
 [![Huawei P40 Lite Crush Green 6.4" 6gb/128](https://m.media-amazon.com/images/I/316f9jH19BL._SL200_.jpg)](https://www.amazon.it/dp/B084YQPQ5M/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.it/dp/B084YQPQ5M/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B084YQPQ5M/?tag=tolees00-21)

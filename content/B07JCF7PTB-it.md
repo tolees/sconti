@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.41 % deal for Columbia Lay D Down II  Giacca da Sci Do'
+title: 'sconto del 36.41 % su Columbia Lay D Down II  Giacca da Sci Do  '
 date: 2020-09-21 15:31:59
 image: 'https://m.media-amazon.com/images/I/4137CixWctL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.41'
 average: '121.38666666666667'
 ---
 
-There's a deal [Columbia Lay D Down II  Giacca da Sci Donna  Bianco  White   M](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21)  with  36.41 % discount, final price tag of  158.98 EUR (original: 249.99 EUR) here:
+[Columbia Lay D Down II  Giacca da Sci Donna  Bianco  White   M](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21) ha un prezzo di 158.98 EUR (originale: 249.99 EUR) con uno sconto del 36.41 % sconto qui:
 
 [![Columbia Lay D Down II  Giacca da Sci Do](https://m.media-amazon.com/images/I/4137CixWctL._SL200_.jpg)](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B07JCF7PTB/?tag=tolees00-21)

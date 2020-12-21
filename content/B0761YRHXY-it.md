@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.56 % deal for Lavazza Caffè Macinato - Pacco da 6 x 25'
+title: 'sconto del 40.56 % su Lavazza Caffè Macinato - Pacco da 6 x 25  '
 date: 2020-09-14 08:37:47
 image: 'https://m.media-amazon.com/images/I/51jmRGrwcAL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.56'
 average: '12.594999999999999'
 ---
 
-There's a deal [Lavazza Caffè Macinato - Pacco da 6 x 250 g](https://www.amazon.it/dp/B0761YRHXY/?tag=tolees00-21)  with  40.56 % discount, final price tag of  9.92 EUR (original: 16.69 EUR) here:
+[Lavazza Caffè Macinato - Pacco da 6 x 250 g](https://www.amazon.it/dp/B0761YRHXY/?tag=tolees00-21) ha un prezzo di 9.92 EUR (originale: 16.69 EUR) con uno sconto del 40.56 % sconto qui:
 
 [![Lavazza Caffè Macinato - Pacco da 6 x 25](https://m.media-amazon.com/images/I/51jmRGrwcAL._SL200_.jpg)](https://www.amazon.it/dp/B0761YRHXY/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.it/dp/B0761YRHXY/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B0761YRHXY/?tag=tolees00-21)

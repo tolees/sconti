@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 50.85 % for Just Dance 2020 - PlayStation 4'
+title: 'Just Dance 2020 - PlayStation 4 al 50.85 % di sconto'
 date: 2020-08-26 13:20:25
 image: 'https://m.media-amazon.com/images/I/51KL9mt7sdL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.85'
 average: '24.98'
 ---
 
-You've got [Just Dance 2020 - PlayStation 4](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21) with a  50.85 % discount, with final price of 24.98 EUR (original: 50.82 EUR) at the following link:
+Puoi trovare [Just Dance 2020 - PlayStation 4](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21) con il prezzo 24.98 EUR (originale: 50.82 EUR) 50.85 % sconto qui:
 
 [![Just Dance 2020 - PlayStation 4](https://m.media-amazon.com/images/I/51KL9mt7sdL._SL200_.jpg)](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 54.90 % for D&G 3 L IMPERATRICE EDT 100ML'
+title: 'sconto del 54.90 % su D&G 3 L IMPERATRICE EDT 100ML  '
 date: 2020-10-05 13:29:39
 image: 'https://m.media-amazon.com/images/I/31ovFz1OxEL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '54.90'
 average: '33.3575'
 ---
 
-You've got [D&G 3 L IMPERATRICE EDT 100ML](https://www.amazon.it/dp/B002Z7FVTQ/?tag=tolees00-21) with a  54.90 % discount, with final price of 31.95 EUR (original: 70.85 EUR) at the following link:
+[D&G 3 L IMPERATRICE EDT 100ML](https://www.amazon.it/dp/B002Z7FVTQ/?tag=tolees00-21) ha un prezzo di 31.95 EUR (originale: 70.85 EUR) con uno sconto del 54.90 % sconto qui:
 
 [![D&G 3 L IMPERATRICE EDT 100ML](https://m.media-amazon.com/images/I/31ovFz1OxEL._SL200_.jpg)](https://www.amazon.it/dp/B002Z7FVTQ/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.it/dp/B002Z7FVTQ/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B002Z7FVTQ/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.97 % deal for MyHeritage DNA - Kit per il test del DNA'
+title: 'sconto del 37.97 % su MyHeritage DNA - Kit per il test del DNA  '
 date: 2020-08-19 06:00:34
 image: 'https://m.media-amazon.com/images/I/41wQVyj6niL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.97'
 average: '49.0'
 ---
 
-There's a deal [MyHeritage DNA - Kit per il test del DNA - Analisi genetiche di ascendenza ed etnia](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21)  with  37.97 % discount, final price tag of  49.0 EUR (original: 79.0 EUR) here:
+[MyHeritage DNA - Kit per il test del DNA - Analisi genetiche di ascendenza ed etnia](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21) ha un prezzo di 49.0 EUR (originale: 79.0 EUR) con uno sconto del 37.97 % sconto qui:
 
 [![MyHeritage DNA - Kit per il test del DNA](https://m.media-amazon.com/images/I/41wQVyj6niL._SL200_.jpg)](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.07 % deal for Lacoste Sport L1230 Polo Sport Ultralegg'
+title: 'sconto del 35.07 % su Lacoste Sport L1230 Polo Sport Ultralegg  '
 date: 2020-10-06 06:59:02
 image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.07'
 average: '45.45'
 ---
 
-There's a deal [Lacoste Sport L1230 Polo Sport Ultraleggera  Nero  Black 031   Large Uomo](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21)  with  35.07 % discount, final price tag of  45.45 EUR (original: 70.0 EUR) here:
+[Lacoste Sport L1230 Polo Sport Ultraleggera  Nero  Black 031   Large Uomo](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21) ha un prezzo di 45.45 EUR (originale: 70.0 EUR) con uno sconto del 35.07 % sconto qui:
 
 [![Lacoste Sport L1230 Polo Sport Ultralegg](https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg)](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motorola Moto G8 Power Lite  Batteria 50 at 18.42 % discount'
+title: 'Motorola Moto G8 Power Lite  Batteria 50 al 18.42 % di sconto'
 date: 2020-08-08 08:29:33
 image: 'https://m.media-amazon.com/images/I/41C4fLAXvpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.42'
 average: '155.0'
 ---
 
-With a final price of 155.0 EUR (original: 189.99 EUR) you can find [Motorola Moto G8 Power Lite  Batteria 5000 mAh  Tripla Fotocamera 16MP  Display MaxVision 6 5"  Processore Octa-Core  Dual SIM  4/64GB Espandibile  Android 9  Cover Inclusa  Blue](https://www.amazon.it/dp/B085M2K4ZM/?tag=tolees00-21) with a  18.42 % discount here:
+Puoi trovare [Motorola Moto G8 Power Lite  Batteria 5000 mAh  Tripla Fotocamera 16MP  Display MaxVision 6 5"  Processore Octa-Core  Dual SIM  4/64GB Espandibile  Android 9  Cover Inclusa  Blue](https://www.amazon.it/dp/B085M2K4ZM/?tag=tolees00-21) con il prezzo 155.0 EUR (originale: 189.99 EUR) 18.42 % sconto qui:
 
 [![Motorola Moto G8 Power Lite  Batteria 50](https://m.media-amazon.com/images/I/41C4fLAXvpL._SL200_.jpg)](https://www.amazon.it/dp/B085M2K4ZM/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.it/dp/B085M2K4ZM/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B085M2K4ZM/?tag=tolees00-21)

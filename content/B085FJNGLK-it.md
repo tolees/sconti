@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'realme 6i EU Smartphone  4 GB + 128 GB   at 18.61 % discount'
+title: 'sconto del 18.61 % su realme 6i EU Smartphone  4 GB + 128 GB    '
 date: 2020-08-14 18:07:48
 image: 'https://m.media-amazon.com/images/I/41-HFGCrDoL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.61'
 average: '162.7'
 ---
 
-With a final price of 162.7 EUR (original: 199.9 EUR) you can find [realme 6i EU Smartphone  4 GB + 128 GB  Bianco  White Milk ](https://www.amazon.it/dp/B085FJNGLK/?tag=tolees00-21) with a  18.61 % discount here:
+[realme 6i EU Smartphone  4 GB + 128 GB  Bianco  White Milk ](https://www.amazon.it/dp/B085FJNGLK/?tag=tolees00-21) ha un prezzo di 162.7 EUR (originale: 199.9 EUR) con uno sconto del 18.61 % sconto qui:
 
 [![realme 6i EU Smartphone  4 GB + 128 GB  ](https://m.media-amazon.com/images/I/41-HFGCrDoL._SL200_.jpg)](https://www.amazon.it/dp/B085FJNGLK/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.it/dp/B085FJNGLK/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B085FJNGLK/?tag=tolees00-21)

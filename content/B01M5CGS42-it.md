@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 60.32 % for The Town'
+title: 'The Town al 60.32 % di sconto'
 date: 2020-09-22 20:30:20
 image: 'https://m.media-amazon.com/images/I/51FxcM69FjL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '60.32'
 average: '11.9'
 ---
 
-You've got [The Town](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21) with a  60.32 % discount, with final price of 11.9 EUR (original: 29.99 EUR) at the following link:
+Puoi trovare [The Town](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21) con il prezzo 11.9 EUR (originale: 29.99 EUR) 60.32 % sconto qui:
 
 [![The Town](https://m.media-amazon.com/images/I/51FxcM69FjL._SL200_.jpg)](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Franciacorta Brut Rosé DOCG - Corte alle at 20.00 % discount'
+title: 'sconto del 20.00 % su Franciacorta Brut Rosé DOCG - Corte alle  '
 date: 2020-09-18 10:06:54
 image: 'https://m.media-amazon.com/images/I/312Cxrr-YbL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '19.44'
 ---
 
-With a final price of 19.44 EUR (original: 24.3 EUR) you can find [Franciacorta Brut Rosé DOCG - Corte alle Stelle - 1 x 0 75 l.](https://www.amazon.it/dp/B082L33GBV/?tag=tolees00-21) with a  20.00 % discount here:
+[Franciacorta Brut Rosé DOCG - Corte alle Stelle - 1 x 0 75 l.](https://www.amazon.it/dp/B082L33GBV/?tag=tolees00-21) ha un prezzo di 19.44 EUR (originale: 24.3 EUR) con uno sconto del 20.00 % sconto qui:
 
 [![Franciacorta Brut Rosé DOCG - Corte alle](https://m.media-amazon.com/images/I/312Cxrr-YbL._SL200_.jpg)](https://www.amazon.it/dp/B082L33GBV/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.it/dp/B082L33GBV/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B082L33GBV/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Konus - Bussola KONUSTAR-10 Grigia  4074 at 22.15 % discount'
+title: 'Konus - Bussola KONUSTAR-10 Grigia  4074 al 22.15 % di sconto'
 date: 2020-09-24 02:43:00
 image: 'https://m.media-amazon.com/images/I/414vK03NVfL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.15'
 average: '50.57'
 ---
 
-With a final price of 50.57 EUR (original: 64.96 EUR) you can find [Konus - Bussola KONUSTAR-10 Grigia  4074](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21) with a  22.15 % discount here:
+Puoi trovare [Konus - Bussola KONUSTAR-10 Grigia  4074](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21) con il prezzo 50.57 EUR (originale: 64.96 EUR) 22.15 % sconto qui:
 
 [![Konus - Bussola KONUSTAR-10 Grigia  4074](https://m.media-amazon.com/images/I/414vK03NVfL._SL200_.jpg)](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21)

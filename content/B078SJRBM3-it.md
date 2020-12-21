@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 30.45 % for Santa Teresa 1796 Rum  Ambrato Scuro  70'
+title: 'sconto del 30.45 % su Santa Teresa 1796 Rum  Ambrato Scuro  70  '
 date: 2020-08-29 11:00:47
 image: 'https://m.media-amazon.com/images/I/41rP1peLO2L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.45'
 average: '29.9'
 ---
 
-You've got [Santa Teresa 1796 Rum  Ambrato Scuro  700 ml](https://www.amazon.it/dp/B078SJRBM3/?tag=tolees00-21) with a  30.45 % discount, with final price of 29.9 EUR (original: 42.99 EUR) at the following link:
+[Santa Teresa 1796 Rum  Ambrato Scuro  700 ml](https://www.amazon.it/dp/B078SJRBM3/?tag=tolees00-21) ha un prezzo di 29.9 EUR (originale: 42.99 EUR) con uno sconto del 30.45 % sconto qui:
 
 [![Santa Teresa 1796 Rum  Ambrato Scuro  70](https://m.media-amazon.com/images/I/41rP1peLO2L._SL200_.jpg)](https://www.amazon.it/dp/B078SJRBM3/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.it/dp/B078SJRBM3/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B078SJRBM3/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Resident Evil Origins Collection - PlayS at 56.93 % discount'
+title: 'Resident Evil Origins Collection - PlayS al 56.93 % di sconto'
 date: 2020-09-26 09:37:03
 image: 'https://m.media-amazon.com/images/I/51P7u+HYIRL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '56.93'
 average: '21.49'
 ---
 
-With a final price of 21.49 EUR (original: 49.9 EUR) you can find [Resident Evil Origins Collection - PlayStation 4](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21) with a  56.93 % discount here:
+Puoi trovare [Resident Evil Origins Collection - PlayStation 4](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21) con il prezzo 21.49 EUR (originale: 49.9 EUR) 56.93 % sconto qui:
 
 [![Resident Evil Origins Collection - PlayS](https://m.media-amazon.com/images/I/51P7u+HYIRL._SL200_.jpg)](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lavazza Espresso Decaffeinato Ricco - 10 at 48.31 % discount'
+title: 'Lavazza Espresso Decaffeinato Ricco - 10 al 48.31 % di sconto'
 date: 2020-08-28 06:31:29
 image: 'https://m.media-amazon.com/images/I/41sjkmV+N7L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '48.31'
 average: '12.87'
 ---
 
-With a final price of 12.87 EUR (original: 24.9 EUR) you can find [Lavazza Espresso Decaffeinato Ricco - 10 Confezioni da 10 Capsule](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21) with a  48.31 % discount here:
+Puoi trovare [Lavazza Espresso Decaffeinato Ricco - 10 Confezioni da 10 Capsule](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21) con il prezzo 12.87 EUR (originale: 24.9 EUR) 48.31 % sconto qui:
 
 [![Lavazza Espresso Decaffeinato Ricco - 10](https://m.media-amazon.com/images/I/41sjkmV+N7L._SL200_.jpg)](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21)
