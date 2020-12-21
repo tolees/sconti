@@ -25,8 +25,8 @@ average: '23.99'
 
 ℹ️:
 
-- Bandierina Tommy Jeans ricamata sul petto
 - Nastro iconico allinterno del collo
 - Cuciture morbide
+- Bandierina Tommy Jeans ricamata sul petto
 
 [Acquista qui!!](https://www.amazon.it/dp/B0776ZRL1L/?tag=tolees00-21)
