@@ -19,11 +19,11 @@ descuento: '18.59'
 average: '17.52'
 ---
 
-Ahora mismo tienes [Bud Birra  Bottiglia - Pacco da 24 x 330 ml](https://www.amazon.it/dp/B086RF8NX1/?tag=tolees00-21) a 17.52 EUR (original: 21.52 EUR) (18.59 %  de descuento) en el siguiente enlace!
+Está [Bud Birra  Bottiglia - Pacco da 24 x 330 ml](https://www.amazon.it/dp/B086RF8NX1/?tag=tolees00-21) con 18.59 de descuento por 17.52 EUR (original: 21.52 EUR) en el siguiente enlace!
 
 [![Bud Birra  Bottiglia - Pacco da 24 x 330](https://m.media-amazon.com/images/I/51H3wmtb4-L._SL200_.jpg)](https://www.amazon.it/dp/B086RF8NX1/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B086RF8NX1/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B086RF8NX1/?tag=tolees00-21)

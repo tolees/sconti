@@ -19,11 +19,11 @@ descuento: '49.95'
 average: '55.0'
 ---
 
-Ahora mismo tienes [Geox U KENNET B  Scarpe da Ginnastica Basse Uomo  Bianco  White C1000   41 EU](https://www.amazon.it/dp/B07DJ2X1Q1/?tag=tolees00-21) a 55.0 EUR (original: 109.9 EUR) (49.95 %  de descuento) en el siguiente enlace!
+Está [Geox U KENNET B  Scarpe da Ginnastica Basse Uomo  Bianco  White C1000   41 EU](https://www.amazon.it/dp/B07DJ2X1Q1/?tag=tolees00-21) con 49.95 de descuento por 55.0 EUR (original: 109.9 EUR) en el siguiente enlace!
 
 [![Geox U KENNET B  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/31ndetLcSML._SL200_.jpg)](https://www.amazon.it/dp/B07DJ2X1Q1/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07DJ2X1Q1/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07DJ2X1Q1/?tag=tolees00-21)

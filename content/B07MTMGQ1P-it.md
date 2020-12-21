@@ -19,11 +19,11 @@ descuento: '20.02'
 average: '7.99'
 ---
 
-Ahora mismo tienes [EXCITE Detergente Disinfettante coppetta mestruale e accessori intimi con Olio di Albero del Té - Spray Igienizzante Antibatterico  no alcol  100ml](https://www.amazon.it/dp/B07MTMGQ1P/?tag=tolees00-21) a 7.99 EUR (original: 9.99 EUR) (20.02 %  de descuento) en el siguiente enlace!
+Está [EXCITE Detergente Disinfettante coppetta mestruale e accessori intimi con Olio di Albero del Té - Spray Igienizzante Antibatterico  no alcol  100ml](https://www.amazon.it/dp/B07MTMGQ1P/?tag=tolees00-21) con 20.02 de descuento por 7.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![EXCITE Detergente Disinfettante coppetta](https://m.media-amazon.com/images/I/41bz-Eels7L._SL200_.jpg)](https://www.amazon.it/dp/B07MTMGQ1P/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07MTMGQ1P/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07MTMGQ1P/?tag=tolees00-21)

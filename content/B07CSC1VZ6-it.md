@@ -19,11 +19,11 @@ descuento: '22.75'
 average: '12.9'
 ---
 
-Ahora mismo tienes [Swiffer Sweeper - Salviette asciutte/umide  kit di avvio per pavimento/parquet](https://www.amazon.it/dp/B07CSC1VZ6/?tag=tolees00-21) a 12.9 EUR (original: 16.7 EUR) (22.75 %  de descuento) en el siguiente enlace!
+Está [Swiffer Sweeper - Salviette asciutte/umide  kit di avvio per pavimento/parquet](https://www.amazon.it/dp/B07CSC1VZ6/?tag=tolees00-21) con 22.75 de descuento por 12.9 EUR (original: 16.7 EUR) en el siguiente enlace!
 
 [![Swiffer Sweeper - Salviette asciutte/umi](https://m.media-amazon.com/images/I/41rmMsWnyoL._SL200_.jpg)](https://www.amazon.it/dp/B07CSC1VZ6/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07CSC1VZ6/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07CSC1VZ6/?tag=tolees00-21)

@@ -19,11 +19,11 @@ descuento: '50.78'
 average: '63.99'
 ---
 
-Está [Levi s Francine Down Pckble Jkt Giacca  Nero  Meteorite 0000   Small Donna](https://www.amazon.it/dp/B07LFDYTWF/?tag=tolees00-21) con 50.78 de descuento por 63.99 EUR (original: 130.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s Francine Down Pckble Jkt Giacca  Nero  Meteorite 0000   Small Donna](https://www.amazon.it/dp/B07LFDYTWF/?tag=tolees00-21) a 63.99 EUR (original: 130.0 EUR) (50.78 %  de descuento) en el siguiente enlace!
 
 [![Levi s Francine Down Pckble Jkt Giacca  ](https://m.media-amazon.com/images/I/413Hxb9-0FL._SL200_.jpg)](https://www.amazon.it/dp/B07LFDYTWF/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07LFDYTWF/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07LFDYTWF/?tag=tolees00-21)

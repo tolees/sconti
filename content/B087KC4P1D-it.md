@@ -19,11 +19,11 @@ descuento: '22.10'
 average: '508.99333333333334'
 ---
 
-Ahora mismo tienes [Samsung TV UE50TU8500UXZT Smart TV 50" Serie TU8500  Dinamic Crystal UHD 4K  Wi-Fi  2020  Nero](https://www.amazon.it/dp/B087KC4P1D/?tag=tolees00-21) a 489.99 EUR (original: 629.0 EUR) (22.10 %  de descuento) en el siguiente enlace!
+Está [Samsung TV UE50TU8500UXZT Smart TV 50" Serie TU8500  Dinamic Crystal UHD 4K  Wi-Fi  2020  Nero](https://www.amazon.it/dp/B087KC4P1D/?tag=tolees00-21) con 22.10 de descuento por 489.99 EUR (original: 629.0 EUR) en el siguiente enlace!
 
 [![Samsung TV UE50TU8500UXZT Smart TV 50" S](https://m.media-amazon.com/images/I/41Y0astVtqL._SL200_.jpg)](https://www.amazon.it/dp/B087KC4P1D/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B087KC4P1D/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B087KC4P1D/?tag=tolees00-21)

@@ -19,11 +19,11 @@ descuento: '22.15'
 average: '50.57'
 ---
 
-Está [Konus - Bussola KONUSTAR-10 Grigia  4074](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21) con 22.15 de descuento por 50.57 EUR (original: 64.96 EUR) en el siguiente enlace!
+Ahora mismo tienes [Konus - Bussola KONUSTAR-10 Grigia  4074](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21) a 50.57 EUR (original: 64.96 EUR) (22.15 %  de descuento) en el siguiente enlace!
 
 [![Konus - Bussola KONUSTAR-10 Grigia  4074](https://m.media-amazon.com/images/I/414vK03NVfL._SL200_.jpg)](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21)

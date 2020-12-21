@@ -19,11 +19,11 @@ descuento: '23.39'
 average: '36.98'
 ---
 
-Ahora mismo tienes [Kaspersky Internet Security 2020 5 User](https://www.amazon.it/dp/B07VHD616C/?tag=tolees00-21) a 36.98 EUR (original: 48.27 EUR) (23.39 %  de descuento) en el siguiente enlace!
+Está [Kaspersky Internet Security 2020 5 User](https://www.amazon.it/dp/B07VHD616C/?tag=tolees00-21) con 23.39 de descuento por 36.98 EUR (original: 48.27 EUR) en el siguiente enlace!
 
 [![Kaspersky Internet Security 2020 5 User](https://m.media-amazon.com/images/I/41tDJiXQzHL._SL200_.jpg)](https://www.amazon.it/dp/B07VHD616C/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07VHD616C/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07VHD616C/?tag=tolees00-21)

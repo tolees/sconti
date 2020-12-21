@@ -19,11 +19,11 @@ descuento: '33.39'
 average: '11.99'
 ---
 
-Está [Levi s Tank Top Canottiera Sportiva  Bianco  White + 0000   Small Donna](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21) con 33.39 de descuento por 11.99 EUR (original: 18.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s Tank Top Canottiera Sportiva  Bianco  White + 0000   Small Donna](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21) a 11.99 EUR (original: 18.0 EUR) (33.39 %  de descuento) en el siguiente enlace!
 
 [![Levi s Tank Top Canottiera Sportiva  Bia](https://m.media-amazon.com/images/I/41vbnBZswKL._SL200_.jpg)](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)

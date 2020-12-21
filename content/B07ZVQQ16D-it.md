@@ -19,11 +19,11 @@ descuento: '50.03'
 average: '14.99'
 ---
 
-Ahora mismo tienes [Levi s The Perfect Tee T-Shirt  Logo Serie Bok Choy  XXS Donna](https://www.amazon.it/dp/B07ZVQQ16D/?tag=tolees00-21) a 14.99 EUR (original: 30.0 EUR) (50.03 %  de descuento) en el siguiente enlace!
+Está [Levi s The Perfect Tee T-Shirt  Logo Serie Bok Choy  XXS Donna](https://www.amazon.it/dp/B07ZVQQ16D/?tag=tolees00-21) con 50.03 de descuento por 14.99 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![Levi s The Perfect Tee T-Shirt  Logo Ser](https://m.media-amazon.com/images/I/31JukfLYPgL._SL200_.jpg)](https://www.amazon.it/dp/B07ZVQQ16D/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07ZVQQ16D/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07ZVQQ16D/?tag=tolees00-21)

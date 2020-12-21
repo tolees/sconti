@@ -25,11 +25,11 @@ Ahora mismo tienes [Playfun - Macchina delle Bugie  96967](https://www.amazon.it
 
 🔎:
 
-- If you tell a lie you immediately lose a point
+- Choose a question from the cards or invent one at the moment
 - IMC Toys
 - English version
-- Package Includes: Toy
 - From 8 years
-- Choose a question from the cards or invent one at the moment
+- Package Includes: Toy
+- If you tell a lie you immediately lose a point
 
 [Visítala!!!](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21)

@@ -19,11 +19,11 @@ descuento: '16.26'
 average: '14.99'
 ---
 
-Está [Capsule LAVAZZA A MODO MIO compatibili  CREMOSO  100 CAPSULE ](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21) con 16.26 de descuento por 14.99 EUR (original: 17.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Capsule LAVAZZA A MODO MIO compatibili  CREMOSO  100 CAPSULE ](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21) a 14.99 EUR (original: 17.9 EUR) (16.26 %  de descuento) en el siguiente enlace!
 
 [![Capsule LAVAZZA A MODO MIO compatibili  ](https://m.media-amazon.com/images/I/517npSect5L._SL200_.jpg)](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21)

@@ -19,11 +19,11 @@ descuento: '21.74'
 average: '46.97500000000001'
 ---
 
-Ahora mismo tienes [Xenoblade Chronicles: Definitive Edition - Nintendo Switch](https://www.amazon.it/dp/B086HFZPVW/?tag=tolees00-21) a 46.95 EUR (original: 59.99 EUR) (21.74 %  de descuento) en el siguiente enlace!
+Está [Xenoblade Chronicles: Definitive Edition - Nintendo Switch](https://www.amazon.it/dp/B086HFZPVW/?tag=tolees00-21) con 21.74 de descuento por 46.95 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Xenoblade Chronicles: Definitive Edition](https://m.media-amazon.com/images/I/51HlINM-CzL._SL200_.jpg)](https://www.amazon.it/dp/B086HFZPVW/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B086HFZPVW/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B086HFZPVW/?tag=tolees00-21)

@@ -19,11 +19,11 @@ descuento: '19.40'
 average: '40.26'
 ---
 
-Está [adidas Cropped Hood](https://www.amazon.it/dp/B081TT9H7S/?tag=tolees00-21) con 19.40 de descuento por 40.26 EUR (original: 49.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Cropped Hood](https://www.amazon.it/dp/B081TT9H7S/?tag=tolees00-21) a 40.26 EUR (original: 49.95 EUR) (19.40 %  de descuento) en el siguiente enlace!
 
 [![adidas Cropped Hood](https://m.media-amazon.com/images/I/41OVjd7peiL._SL200_.jpg)](https://www.amazon.it/dp/B081TT9H7S/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B081TT9H7S/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B081TT9H7S/?tag=tolees00-21)

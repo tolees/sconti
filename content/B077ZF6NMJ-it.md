@@ -19,11 +19,11 @@ descuento: '24.00'
 average: '37.99'
 ---
 
-Ahora mismo tienes [Tristar Crispy Mini Friggitrice ad aria calda  1000 W  2 Liters  Plastic  Nero](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21) a 37.99 EUR (original: 49.99 EUR) (24.00 %  de descuento) en el siguiente enlace!
+Está [Tristar Crispy Mini Friggitrice ad aria calda  1000 W  2 Liters  Plastic  Nero](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21) con 24.00 de descuento por 37.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Tristar Crispy Mini Friggitrice ad aria ](https://m.media-amazon.com/images/I/41TfNRiL0iL._SL200_.jpg)](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21)

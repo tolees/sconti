@@ -19,11 +19,11 @@ descuento: '42.78'
 average: '25.75'
 ---
 
-Ahora mismo tienes [Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo](https://www.amazon.it/dp/B07DTMPNQ1/?tag=tolees00-21) a 25.75 EUR (original: 45.0 EUR) (42.78 %  de descuento) en el siguiente enlace!
+Está [Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo](https://www.amazon.it/dp/B07DTMPNQ1/?tag=tolees00-21) con 42.78 de descuento por 25.75 EUR (original: 45.0 EUR) en el siguiente enlace!
 
 [![Lacoste Sport TH0123 T-Shirt  Bianco  Bl](https://m.media-amazon.com/images/I/31s-yfIlMfL._SL200_.jpg)](https://www.amazon.it/dp/B07DTMPNQ1/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07DTMPNQ1/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07DTMPNQ1/?tag=tolees00-21)

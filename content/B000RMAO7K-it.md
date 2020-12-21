@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '11.0'
 ---
 
-Está [Havaianas Brasil  Infradito Unisex – Adulto  Nero  Black 0090   Taglia Produttore 39/40](https://www.amazon.it/dp/B000RMAO7K/?tag=tolees00-21) con 50.00 de descuento por 11.0 EUR (original: 22.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Havaianas Brasil  Infradito Unisex – Adulto  Nero  Black 0090   Taglia Produttore 39/40](https://www.amazon.it/dp/B000RMAO7K/?tag=tolees00-21) a 11.0 EUR (original: 22.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Havaianas Brasil  Infradito Unisex – Adu](https://m.media-amazon.com/images/I/41D9Le7pkaL._SL200_.jpg)](https://www.amazon.it/dp/B000RMAO7K/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B000RMAO7K/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B000RMAO7K/?tag=tolees00-21)

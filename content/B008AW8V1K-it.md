@@ -19,11 +19,11 @@ descuento: '35.07'
 average: '45.45'
 ---
 
-Ahora mismo tienes [Lacoste Sport L1230 Polo Sport Ultraleggera  Nero  Black 031   Large Uomo](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21) a 45.45 EUR (original: 70.0 EUR) (35.07 %  de descuento) en el siguiente enlace!
+Está [Lacoste Sport L1230 Polo Sport Ultraleggera  Nero  Black 031   Large Uomo](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21) con 35.07 de descuento por 45.45 EUR (original: 70.0 EUR) en el siguiente enlace!
 
 [![Lacoste Sport L1230 Polo Sport Ultralegg](https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg)](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21)

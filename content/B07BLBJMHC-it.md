@@ -19,11 +19,11 @@ descuento: '16.45'
 average: '3.25'
 ---
 
-Está [Fanta Original 660 ml - 4 bottiglie PET riciclabile](https://www.amazon.it/dp/B07BLBJMHC/?tag=tolees00-21) con 16.45 de descuento por 3.25 EUR (original: 3.89 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fanta Original 660 ml - 4 bottiglie PET riciclabile](https://www.amazon.it/dp/B07BLBJMHC/?tag=tolees00-21) a 3.25 EUR (original: 3.89 EUR) (16.45 %  de descuento) en el siguiente enlace!
 
 [![Fanta Original 660 ml - 4 bottiglie PET ](https://m.media-amazon.com/images/I/41SYPztiOwL._SL200_.jpg)](https://www.amazon.it/dp/B07BLBJMHC/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07BLBJMHC/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07BLBJMHC/?tag=tolees00-21)

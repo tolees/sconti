@@ -19,11 +19,11 @@ descuento: '15.98'
 average: '984.0'
 ---
 
-Ahora mismo tienes [Apple iPhone 11 Pro  64GB  - Verde Notte](https://www.amazon.it/dp/B07XS3ZX16/?tag=tolees00-21) a 999.0 EUR (original: 1189.0 EUR) (15.98 %  de descuento) en el siguiente enlace!
+Está [Apple iPhone 11 Pro  64GB  - Verde Notte](https://www.amazon.it/dp/B07XS3ZX16/?tag=tolees00-21) con 15.98 de descuento por 999.0 EUR (original: 1189.0 EUR) en el siguiente enlace!
 
 [![Apple iPhone 11 Pro  64GB  - Verde Notte](https://m.media-amazon.com/images/I/41Q0PRqeavL._SL200_.jpg)](https://www.amazon.it/dp/B07XS3ZX16/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07XS3ZX16/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07XS3ZX16/?tag=tolees00-21)

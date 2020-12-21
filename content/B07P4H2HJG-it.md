@@ -19,11 +19,11 @@ descuento: '29.49'
 average: '27.5'
 ---
 
-Está [Jump Force - PlayStation 4](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21) con 29.49 de descuento por 27.5 EUR (original: 39.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jump Force - PlayStation 4](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21) a 27.5 EUR (original: 39.0 EUR) (29.49 %  de descuento) en el siguiente enlace!
 
 [![Jump Force - PlayStation 4](https://m.media-amazon.com/images/I/51G4nTDueLL._SL200_.jpg)](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21)

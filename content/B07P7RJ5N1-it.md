@@ -19,11 +19,11 @@ descuento: '18.32'
 average: '49.0'
 ---
 
-Ahora mismo tienes [Pokémon Spada - Nintendo Switch](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21) a 49.0 EUR (original: 59.99 EUR) (18.32 %  de descuento) en el siguiente enlace!
+Está [Pokémon Spada - Nintendo Switch](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21) con 18.32 de descuento por 49.0 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Pokémon Spada - Nintendo Switch](https://m.media-amazon.com/images/I/51OWlKMl3VL._SL200_.jpg)](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21)

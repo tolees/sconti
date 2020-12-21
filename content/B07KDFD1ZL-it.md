@@ -19,11 +19,11 @@ descuento: '52.57'
 average: '23.69'
 ---
 
-Ahora mismo tienes [adidas Regista 18  Giacca da Rappresentanza Uomo  Black/White  S](https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21) a 23.69 EUR (original: 49.95 EUR) (52.57 %  de descuento) en el siguiente enlace!
+Está [adidas Regista 18  Giacca da Rappresentanza Uomo  Black/White  S](https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21) con 52.57 de descuento por 23.69 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![adidas Regista 18  Giacca da Rappresenta](https://m.media-amazon.com/images/I/31NB+IIbr9L._SL200_.jpg)](https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21)

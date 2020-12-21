@@ -19,11 +19,11 @@ descuento: '50.01'
 average: '49.99'
 ---
 
-Ahora mismo tienes [adidas Continental 80  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Escarl/Maruni 000   43 1/3 EU](https://www.amazon.it/dp/B07K1LGBVV/?tag=tolees00-21) a 49.99 EUR (original: 100.0 EUR) (50.01 %  de descuento) en el siguiente enlace!
+Está [adidas Continental 80  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Escarl/Maruni 000   43 1/3 EU](https://www.amazon.it/dp/B07K1LGBVV/?tag=tolees00-21) con 50.01 de descuento por 49.99 EUR (original: 100.0 EUR) en el siguiente enlace!
 
 [![adidas Continental 80  Scarpe da Ginnast](https://m.media-amazon.com/images/I/21Fhz++glCL._SL200_.jpg)](https://www.amazon.it/dp/B07K1LGBVV/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07K1LGBVV/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07K1LGBVV/?tag=tolees00-21)

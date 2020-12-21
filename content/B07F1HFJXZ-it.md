@@ -19,11 +19,11 @@ descuento: '24.94'
 average: '25.52'
 ---
 
-Ahora mismo tienes [Havaianas Slim Crystal Glamour SW  Infradito Donna  Bianco  White/Metallic 3165   41/42 EU](https://www.amazon.it/dp/B07F1HFJXZ/?tag=tolees00-21) a 25.52 EUR (original: 34.0 EUR) (24.94 %  de descuento) en el siguiente enlace!
+Está [Havaianas Slim Crystal Glamour SW  Infradito Donna  Bianco  White/Metallic 3165   41/42 EU](https://www.amazon.it/dp/B07F1HFJXZ/?tag=tolees00-21) con 24.94 de descuento por 25.52 EUR (original: 34.0 EUR) en el siguiente enlace!
 
 [![Havaianas Slim Crystal Glamour SW  Infra](https://m.media-amazon.com/images/I/31TjOpVOMyL._SL200_.jpg)](https://www.amazon.it/dp/B07F1HFJXZ/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07F1HFJXZ/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07F1HFJXZ/?tag=tolees00-21)

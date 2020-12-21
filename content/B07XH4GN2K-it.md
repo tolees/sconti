@@ -19,11 +19,11 @@ descuento: '22.25'
 average: '13.98'
 ---
 
-Está [POP! Vinyl: Star Wars - Training Luke with Yoda](https://www.amazon.it/dp/B07XH4GN2K/?tag=tolees00-21) con 22.25 de descuento por 13.98 EUR (original: 17.98 EUR) en el siguiente enlace!
+Ahora mismo tienes [POP! Vinyl: Star Wars - Training Luke with Yoda](https://www.amazon.it/dp/B07XH4GN2K/?tag=tolees00-21) a 13.98 EUR (original: 17.98 EUR) (22.25 %  de descuento) en el siguiente enlace!
 
 [![POP! Vinyl: Star Wars - Training Luke wi](https://m.media-amazon.com/images/I/41AILOpyhGL._SL200_.jpg)](https://www.amazon.it/dp/B07XH4GN2K/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07XH4GN2K/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B07XH4GN2K/?tag=tolees00-21)

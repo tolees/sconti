@@ -19,11 +19,11 @@ descuento: '26.31'
 average: '40.49'
 ---
 
-Ahora mismo tienes [Puma Smash V2 Sneaker Unisex - Adulto  Castlerock/Puma Black/Puma White 32   36 EU](https://www.amazon.it/dp/B07KG1LLGQ/?tag=tolees00-21) a 40.49 EUR (original: 54.95 EUR) (26.31 %  de descuento) en el siguiente enlace!
+Está [Puma Smash V2 Sneaker Unisex - Adulto  Castlerock/Puma Black/Puma White 32   36 EU](https://www.amazon.it/dp/B07KG1LLGQ/?tag=tolees00-21) con 26.31 de descuento por 40.49 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![Puma Smash V2 Sneaker Unisex - Adulto  C](https://m.media-amazon.com/images/I/41-YNrLa--L._SL200_.jpg)](https://www.amazon.it/dp/B07KG1LLGQ/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07KG1LLGQ/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07KG1LLGQ/?tag=tolees00-21)

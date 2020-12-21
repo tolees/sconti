@@ -19,11 +19,11 @@ descuento: '17.85'
 average: '22.51'
 ---
 
-Ahora mismo tienes [Red Dead Redemption 2 Xbox One - Xbox One](https://www.amazon.it/dp/B01MAYC1CJ/?tag=tolees00-21) a 22.51 EUR (original: 27.4 EUR) (17.85 %  de descuento) en el siguiente enlace!
+Está [Red Dead Redemption 2 Xbox One - Xbox One](https://www.amazon.it/dp/B01MAYC1CJ/?tag=tolees00-21) con 17.85 de descuento por 22.51 EUR (original: 27.4 EUR) en el siguiente enlace!
 
 [![Red Dead Redemption 2 Xbox One - Xbox On](https://m.media-amazon.com/images/I/61ivjY4kI4L._SL200_.jpg)](https://www.amazon.it/dp/B01MAYC1CJ/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B01MAYC1CJ/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01MAYC1CJ/?tag=tolees00-21)

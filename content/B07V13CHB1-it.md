@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.04 % en Lee Wobbly Logo Tee T-Shirt  Blu  Navy D'
+title: 'Lee Wobbly Logo Tee T-Shirt  Blu  Navy D al 36.04 % de descuento'
 date: 2020-09-05 08:15:28
 image: 'https://m.media-amazon.com/images/I/4144WGYhg1L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.04'
 average: '15.99'
 ---
 
-Tienes [Lee Wobbly Logo Tee T-Shirt  Blu  Navy Drop EE   Large Uomo](https://www.amazon.it/dp/B07V13CHB1/?tag=tolees00-21) con un 36.04 % de descuento con precio de oferta de 15.99 EUR (original: 25.0 EUR) en el siguiente enlace!
+Está [Lee Wobbly Logo Tee T-Shirt  Blu  Navy Drop EE   Large Uomo](https://www.amazon.it/dp/B07V13CHB1/?tag=tolees00-21) con 36.04 de descuento por 15.99 EUR (original: 25.0 EUR) en el siguiente enlace!
 
 [![Lee Wobbly Logo Tee T-Shirt  Blu  Navy D](https://m.media-amazon.com/images/I/4144WGYhg1L._SL200_.jpg)](https://www.amazon.it/dp/B07V13CHB1/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B07V13CHB1/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07V13CHB1/?tag=tolees00-21)

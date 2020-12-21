@@ -19,11 +19,11 @@ descuento: '37.50'
 average: '12.5'
 ---
 
-Ahora mismo tienes [Levi s The Perfect Tee Maglietta  Grigio  Better Batwing Smokestack Smokestack Htr 263   Large Donna](https://www.amazon.it/dp/B0716LRRT6/?tag=tolees00-21) a 12.5 EUR (original: 20.0 EUR) (37.50 %  de descuento) en el siguiente enlace!
+Está [Levi s The Perfect Tee Maglietta  Grigio  Better Batwing Smokestack Smokestack Htr 263   Large Donna](https://www.amazon.it/dp/B0716LRRT6/?tag=tolees00-21) con 37.50 de descuento por 12.5 EUR (original: 20.0 EUR) en el siguiente enlace!
 
 [![Levi s The Perfect Tee Maglietta  Grigio](https://m.media-amazon.com/images/I/41bhoO5hsBL._SL200_.jpg)](https://www.amazon.it/dp/B0716LRRT6/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B0716LRRT6/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B0716LRRT6/?tag=tolees00-21)

@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '17.5'
 ---
 
-Ahora mismo tienes [Levi s Crewneck 1 T-Shirt  Multicolore  2pk Slim Crew Riverside/Earth Red 0008   Large  Pacco da 2  Uomo](https://www.amazon.it/dp/B07TLFMP1V/?tag=tolees00-21) a 17.5 EUR (original: 35.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Levi s Crewneck 1 T-Shirt  Multicolore  2pk Slim Crew Riverside/Earth Red 0008   Large  Pacco da 2  Uomo](https://www.amazon.it/dp/B07TLFMP1V/?tag=tolees00-21) con 50.00 de descuento por 17.5 EUR (original: 35.0 EUR) en el siguiente enlace!
 
 [![Levi s Crewneck 1 T-Shirt  Multicolore  ](https://m.media-amazon.com/images/I/41iXdiYzcWL._SL200_.jpg)](https://www.amazon.it/dp/B07TLFMP1V/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07TLFMP1V/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07TLFMP1V/?tag=tolees00-21)

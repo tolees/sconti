@@ -19,11 +19,11 @@ descuento: '19.60'
 average: '27.04'
 ---
 
-Ahora mismo tienes [Science in Sport SiS Go Energy Barretta Energetica  gusto Cioccolato - confezione da 30 x 40g](https://www.amazon.it/dp/B01H9WKB1E/?tag=tolees00-21) a 27.04 EUR (original: 33.63 EUR) (19.60 %  de descuento) en el siguiente enlace!
+Está [Science in Sport SiS Go Energy Barretta Energetica  gusto Cioccolato - confezione da 30 x 40g](https://www.amazon.it/dp/B01H9WKB1E/?tag=tolees00-21) con 19.60 de descuento por 27.04 EUR (original: 33.63 EUR) en el siguiente enlace!
 
 [![Science in Sport SiS Go Energy Barretta ](https://m.media-amazon.com/images/I/41oQ2wdBj1L._SL200_.jpg)](https://www.amazon.it/dp/B01H9WKB1E/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B01H9WKB1E/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B01H9WKB1E/?tag=tolees00-21)

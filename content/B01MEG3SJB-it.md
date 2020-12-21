@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Io Sono Leggenda al 50.32 % de descuento'
+title: 'Io Sono Leggenda con un 50.32 % de descuento'
 date: 2020-09-22 20:29:25
 image: 'https://m.media-amazon.com/images/I/61TmL+tEV6L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.32'
 average: '14.9'
 ---
 
-Está [Io Sono Leggenda](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21) con 50.32 de descuento por 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!
+En este momento está [Io Sono Leggenda](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21) a 14.9 EUR (original: 29.99 EUR) (50.32 %  de descuento) en el siguiente enlace!
 
 [![Io Sono Leggenda](https://m.media-amazon.com/images/I/61TmL+tEV6L._SL200_.jpg)](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21)
+[Aquí!!!](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21)

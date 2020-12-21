@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Games: The Last Of Us- Ellie al 17.23 % de descuento'
+title: 'POP! Games: The Last Of Us- Ellie con un 17.23 % de descuento'
 date: 2020-12-21 08:06:28
 image: 'https://m.media-amazon.com/images/I/4198tuJxdmL._SL200_.jpg'
 comments: true
@@ -19,14 +19,14 @@ descuento: '17.23'
 average: '22.889504950495056'
 ---
 
-Está [POP! Games: The Last Of Us- Ellie](https://www.amazon.it/dp/B082FRMFP3/?tag=tolees00-21) con 17.23 de descuento por 14.99 EUR (original: 18.11 EUR) en el siguiente enlace!
+En este momento está [POP! Games: The Last Of Us- Ellie](https://www.amazon.it/dp/B082FRMFP3/?tag=tolees00-21) a 14.99 EUR (original: 18.11 EUR) (17.23 %  de descuento) en el siguiente enlace!
 
 [![POP! Games: The Last Of Us- Ellie](https://m.media-amazon.com/images/I/4198tuJxdmL._SL200_.jpg)](https://www.amazon.it/dp/B082FRMFP3/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 - Uniconica statuina Funko Pop Vinyl della serie The Last Of Us
 - Scopri tutte le altre statuine The Last Of Us di Funko e collezionale tutte
 - Ellie e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 
-[Ver la oferta!!](https://www.amazon.it/dp/B082FRMFP3/?tag=tolees00-21)
+[Aquí!!!](https://www.amazon.it/dp/B082FRMFP3/?tag=tolees00-21)

@@ -19,11 +19,11 @@ descuento: '54.98'
 average: '13.5'
 ---
 
-Ahora mismo tienes [Matrix Revolutions  4K Ultra HD + 2 Blu-Ray ](https://www.amazon.it/dp/B07HSH796G/?tag=tolees00-21) a 13.5 EUR (original: 29.99 EUR) (54.98 %  de descuento) en el siguiente enlace!
+Está [Matrix Revolutions  4K Ultra HD + 2 Blu-Ray ](https://www.amazon.it/dp/B07HSH796G/?tag=tolees00-21) con 54.98 de descuento por 13.5 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Matrix Revolutions  4K Ultra HD + 2 Blu-](https://m.media-amazon.com/images/I/51DfoQ3LN+L._SL200_.jpg)](https://www.amazon.it/dp/B07HSH796G/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07HSH796G/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B07HSH796G/?tag=tolees00-21)

@@ -19,11 +19,11 @@ descuento: '17.84'
 average: '38.45'
 ---
 
-Está [Dolce&Gabbana The One Eau de Parfum  Donna  50 ml](https://www.amazon.it/dp/B000XE67WI/?tag=tolees00-21) con 17.84 de descuento por 38.45 EUR (original: 46.8 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dolce&Gabbana The One Eau de Parfum  Donna  50 ml](https://www.amazon.it/dp/B000XE67WI/?tag=tolees00-21) a 38.45 EUR (original: 46.8 EUR) (17.84 %  de descuento) en el siguiente enlace!
 
 [![Dolce&Gabbana The One Eau de Parfum  Don](https://m.media-amazon.com/images/I/41K1O62FjDL._SL200_.jpg)](https://www.amazon.it/dp/B000XE67WI/?tag=tolees00-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B000XE67WI/?tag=tolees00-21)
+[Visítala!!!](https://www.amazon.it/dp/B000XE67WI/?tag=tolees00-21)

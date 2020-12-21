@@ -19,11 +19,11 @@ descuento: '23.15'
 average: '21.48'
 ---
 
-Ahora mismo tienes [adidas Core18 Pes Giacca  Uomo  Nero/Bianco  L](https://www.amazon.it/dp/B076HQW1MF/?tag=tolees00-21) a 21.48 EUR (original: 27.95 EUR) (23.15 %  de descuento) en el siguiente enlace!
+Está [adidas Core18 Pes Giacca  Uomo  Nero/Bianco  L](https://www.amazon.it/dp/B076HQW1MF/?tag=tolees00-21) con 23.15 de descuento por 21.48 EUR (original: 27.95 EUR) en el siguiente enlace!
 
 [![adidas Core18 Pes Giacca  Uomo  Nero/Bia](https://m.media-amazon.com/images/I/41XV6U+sMjL._SL200_.jpg)](https://www.amazon.it/dp/B076HQW1MF/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B076HQW1MF/?tag=tolees00-21)
+[Ver la oferta!!](https://www.amazon.it/dp/B076HQW1MF/?tag=tolees00-21)
