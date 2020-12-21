@@ -25,11 +25,11 @@ Puoi trovare [Don Papa Rum - Colore Ambra  Versione senza astuccio - 700 ml](h
 
 ℹ️:
 
-- Contenuto alcolico (alc/vol): 40.0 percent_by_volume
-- De alta calidad
-- Prodotto di marca Don Papa.
 - Volume: 0.7 liters
+- Prodotto di marca Don Papa.
+- De alta calidad
 - Volume confezione: 0.7 liters
+- Contenuto alcolico (alc/vol): 40.0 percent_by_volume
 - Prodotto RON.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00INRQ98Y/?tag=tolees00-21)

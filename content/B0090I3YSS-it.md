@@ -25,8 +25,8 @@ average: '30.2'
 
 ℹ️:
 
-- Ciliegia marasca, caffè, cacao dolce, arancia, sciroppo dacero, meringa
 - Il rum che travolge anche chi non ama i distillati: delicato raffinato e morbido
 - Bottiglia da 700 ml
+- Ciliegia marasca, caffè, cacao dolce, arancia, sciroppo dacero, meringa
 
 [Acquista qui!!](https://www.amazon.it/dp/B0090I3YSS/?tag=tolees00-21)

@@ -26,7 +26,7 @@ Puoi trovare [Jack Daniel s Tennessee Honey 70 cl](https://www.amazon.it/dp/B008
 ℹ️:
 
 - Gusto: morbido, con note di miele di acero e castagno, arancia e mela; di media lungheza con moderate note di zucchero bruciato.
-- Olfatto: note di caramello, sciroppo e fumo dacero, miele dacerlo, melassa, castagna e vaniglia.
 - Vista: colore ambrato con riflessi dorati.
+- Olfatto: note di caramello, sciroppo e fumo dacero, miele dacerlo, melassa, castagna e vaniglia.
 
 [Acquista qui!!](https://www.amazon.it/dp/B0089E2OJE/?tag=tolees00-21)
