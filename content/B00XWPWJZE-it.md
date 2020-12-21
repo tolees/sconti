@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.84 % en Nike Tanjun Mn  Scarpe Sportive Uomo  Ne'
+title: 'Discount of 30.84 % for Nike Tanjun Mn  Scarpe Sportive Uomo  Ne'
 date: 2020-08-19 06:26:17
 image: 'https://m.media-amazon.com/images/I/41hV24iS0pL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.84'
 average: '44.95'
 ---
 
-Tienes [Nike Tanjun Mn  Scarpe Sportive Uomo  Nero  Black/White   38.5 EU](https://www.amazon.it/dp/B00XWPWJZE/?tag=tolees00-21) con un 30.84 % de descuento con precio de oferta de 44.95 EUR (original: 64.99 EUR) en el siguiente enlace!
+You've got [Nike Tanjun Mn  Scarpe Sportive Uomo  Nero  Black/White   38.5 EU](https://www.amazon.it/dp/B00XWPWJZE/?tag=tolees00-21) with a  30.84 % discount, with final price of 44.95 EUR (original: 64.99 EUR) at the following link:
 
 [![Nike Tanjun Mn  Scarpe Sportive Uomo  Ne](https://m.media-amazon.com/images/I/41hV24iS0pL._SL200_.jpg)](https://www.amazon.it/dp/B00XWPWJZE/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00XWPWJZE/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00XWPWJZE/?tag=tolees00-21)

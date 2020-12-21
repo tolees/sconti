@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Atticus Lace  Scarpe Stringate De al 50.05 % de descuento'
+title: 'Discount of 50.05 % for Clarks Atticus Lace  Scarpe Stringate De'
 date: 2020-10-09 07:58:24
 image: 'https://m.media-amazon.com/images/I/31C5Es4LrTL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.05'
 average: '54.95'
 ---
 
-Está [Clarks Atticus Lace  Scarpe Stringate Derby Uomo  Blu  Navy Nubuck -   41 EU](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21) con 50.05 de descuento por 54.95 EUR (original: 110.0 EUR) en el siguiente enlace!
+You've got [Clarks Atticus Lace  Scarpe Stringate Derby Uomo  Blu  Navy Nubuck -   41 EU](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21) with a  50.05 % discount, with final price of 54.95 EUR (original: 110.0 EUR) at the following link:
 
 [![Clarks Atticus Lace  Scarpe Stringate De](https://m.media-amazon.com/images/I/31C5Es4LrTL._SL200_.jpg)](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21)

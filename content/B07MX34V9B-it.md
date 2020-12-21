@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Far Cry New Dawn - Xbox One al 68.21 % de rebaja'
+title: '68.21 % deal for Far Cry New Dawn - Xbox One'
 date: 2020-08-11 10:10:14
 image: 'https://m.media-amazon.com/images/I/51xtFNXhbhL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '68.21'
 average: '6.99'
 ---
 
-Tienes [Far Cry New Dawn - Xbox One](https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21) con precio final de  6.99 EUR (original: 21.99 EUR) (68.21 %  de rebaja) aqui!
+There's a deal [Far Cry New Dawn - Xbox One](https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21)  with  68.21 % discount, final price tag of  6.99 EUR (original: 21.99 EUR) here:
 
 [![Far Cry New Dawn - Xbox One](https://m.media-amazon.com/images/I/51xtFNXhbhL._SL200_.jpg)](https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21)
+[Buy it now!!](https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.45 % en Yankee Candle candela profumata in giara'
+title: '26.45 % deal for Yankee Candle candela profumata in giara'
 date: 2020-09-04 08:20:05
 image: 'https://m.media-amazon.com/images/I/41A69oCNlrL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.45'
 average: '21.99'
 ---
 
-Tienes [Yankee Candle candela profumata in giara grande  Lampone rosso  durata: fino a 150 ore](https://www.amazon.it/dp/B00PL5DKJW/?tag=tolees00-21) con un 26.45 % de descuento con precio de oferta de 21.99 EUR (original: 29.9 EUR) en el siguiente enlace!
+There's a deal [Yankee Candle candela profumata in giara grande  Lampone rosso  durata: fino a 150 ore](https://www.amazon.it/dp/B00PL5DKJW/?tag=tolees00-21)  with  26.45 % discount, final price tag of  21.99 EUR (original: 29.9 EUR) here:
 
 [![Yankee Candle candela profumata in giara](https://m.media-amazon.com/images/I/41A69oCNlrL._SL200_.jpg)](https://www.amazon.it/dp/B00PL5DKJW/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00PL5DKJW/?tag=tolees00-21)
+[Buy it now!!](https://www.amazon.it/dp/B00PL5DKJW/?tag=tolees00-21)

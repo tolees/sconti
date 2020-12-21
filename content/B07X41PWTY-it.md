@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD Elements Hard Disk Esterno  Portatile al 39.01 % de descuento'
+title: 'Discount of 39.01 % for WD Elements Hard Disk Esterno  Portatile'
 date: 2020-10-07 15:41:56
 image: 'https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '39.01'
 average: '108.9'
 ---
 
-Está [WD Elements Hard Disk Esterno  Portatile  USB 3.0  5 TB  Nero](https://www.amazon.it/dp/B07X41PWTY/?tag=tolees00-21) con 39.01 de descuento por 104.9 EUR (original: 171.99 EUR) en el siguiente enlace!
+You've got [WD Elements Hard Disk Esterno  Portatile  USB 3.0  5 TB  Nero](https://www.amazon.it/dp/B07X41PWTY/?tag=tolees00-21) with a  39.01 % discount, with final price of 104.9 EUR (original: 171.99 EUR) at the following link:
 
 [![WD Elements Hard Disk Esterno  Portatile](https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL200_.jpg)](https://www.amazon.it/dp/B07X41PWTY/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07X41PWTY/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07X41PWTY/?tag=tolees00-21)

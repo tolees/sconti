@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carioca Set Back To School | Set Cancell al 25.01 % de descuento'
+title: 'Discount of 25.01 % for Carioca Set Back To School | Set Cancell'
 date: 2020-09-17 11:36:38
 image: 'https://m.media-amazon.com/images/I/51ggF3XXcvL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.01'
 average: '28.42'
 ---
 
-Ahora mismo tienes [Carioca Set Back To School | Set Cancelleria Scuola con Matite Colorate e da Disegno  Acquerelli con Pennello  Pennarelli  Penne Cancellabili Oops  Pastelli  Gomme  Forbici  Colla Stick  100 Pezzi](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21) a 28.42 EUR (original: 37.9 EUR) (25.01 %  de descuento) en el siguiente enlace!
+You've got [Carioca Set Back To School | Set Cancelleria Scuola con Matite Colorate e da Disegno  Acquerelli con Pennello  Pennarelli  Penne Cancellabili Oops  Pastelli  Gomme  Forbici  Colla Stick  100 Pezzi](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21) with a  25.01 % discount, with final price of 28.42 EUR (original: 37.9 EUR) at the following link:
 
 [![Carioca Set Back To School | Set Cancell](https://m.media-amazon.com/images/I/51ggF3XXcvL._SL200_.jpg)](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21)

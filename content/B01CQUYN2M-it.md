@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diadora - Sneakers B. Elite per Uomo e D al 65.56 % de descuento'
+title: 'Discount of 65.56 % for Diadora - Sneakers B. Elite per Uomo e D'
 date: 2020-07-23 15:50:34
 image: 'https://m.media-amazon.com/images/I/31agdcazYaL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '65.56'
 average: '27.55'
 ---
 
-Ahora mismo tienes [Diadora - Sneakers B. Elite per Uomo e Donna  EU 36 ](https://www.amazon.it/dp/B01CQUYN2M/?tag=tolees00-21) a 27.55 EUR (original: 80.0 EUR) (65.56 %  de descuento) en el siguiente enlace!
+You've got [Diadora - Sneakers B. Elite per Uomo e Donna  EU 36 ](https://www.amazon.it/dp/B01CQUYN2M/?tag=tolees00-21) with a  65.56 % discount, with final price of 27.55 EUR (original: 80.0 EUR) at the following link:
 
 [![Diadora - Sneakers B. Elite per Uomo e D](https://m.media-amazon.com/images/I/31agdcazYaL._SL200_.jpg)](https://www.amazon.it/dp/B01CQUYN2M/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B01CQUYN2M/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01CQUYN2M/?tag=tolees00-21)

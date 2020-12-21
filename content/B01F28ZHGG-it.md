@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Call of Duty: Infinite Warfare - Legacy  con un 60.16 % de descuento'
+title: '60.16 % deal for Call of Duty: Infinite Warfare - Legacy '
 date: 2020-09-04 16:39:13
 image: 'https://m.media-amazon.com/images/I/51ugBK-qJDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '60.16'
 average: '4.98'
 ---
 
-En este momento está [Call of Duty: Infinite Warfare - Legacy Edition - PlayStation 4](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21) a 4.98 EUR (original: 12.5 EUR) (60.16 %  de descuento) en el siguiente enlace!
+There's a deal [Call of Duty: Infinite Warfare - Legacy Edition - PlayStation 4](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)  with  60.16 % discount, final price tag of  4.98 EUR (original: 12.5 EUR) here:
 
 [![Call of Duty: Infinite Warfare - Legacy ](https://m.media-amazon.com/images/I/51ugBK-qJDL._SL200_.jpg)](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)
+[Buy it now!!](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)

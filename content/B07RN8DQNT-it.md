@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko POP! Games: Laguna POP 2 con un 31.69 % de descuento'
+title: 'Discount of 31.69 % for Funko POP! Games: Laguna POP 2'
 date: 2020-07-17 17:18:23
 image: 'https://m.media-amazon.com/images/I/41MS3yvobOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.69'
 average: '10.335'
 ---
 
-En este momento está [Funko POP! Games: Laguna POP 2](https://www.amazon.it/dp/B07RN8DQNT/?tag=tolees00-21) a 10.24 EUR (original: 14.99 EUR) (31.69 %  de descuento) en el siguiente enlace!
+You've got [Funko POP! Games: Laguna POP 2](https://www.amazon.it/dp/B07RN8DQNT/?tag=tolees00-21) with a  31.69 % discount, with final price of 10.24 EUR (original: 14.99 EUR) at the following link:
 
 [![Funko POP! Games: Laguna POP 2](https://m.media-amazon.com/images/I/41MS3yvobOL._SL200_.jpg)](https://www.amazon.it/dp/B07RN8DQNT/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B07RN8DQNT/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07RN8DQNT/?tag=tolees00-21)

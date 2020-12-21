@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic DC-FZ82 Fotocamera 4K  18.1 Me al 19.55 % de descuento'
+title: 'Discount of 19.55 % for Panasonic DC-FZ82 Fotocamera 4K  18.1 Me'
 date: 2020-09-14 14:58:44
 image: 'https://m.media-amazon.com/images/I/41oTLaQPwtL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.55'
 average: '281.55'
 ---
 
-Ahora mismo tienes [Panasonic DC-FZ82 Fotocamera 4K  18.1 Megapixel  Obiettivo zoom 20-1200 mm  Nero](https://www.amazon.it/dp/B01NARXQ2E/?tag=tolees00-21) a 281.55 EUR (original: 349.99 EUR) (19.55 %  de descuento) en el siguiente enlace!
+You've got [Panasonic DC-FZ82 Fotocamera 4K  18.1 Megapixel  Obiettivo zoom 20-1200 mm  Nero](https://www.amazon.it/dp/B01NARXQ2E/?tag=tolees00-21) with a  19.55 % discount, with final price of 281.55 EUR (original: 349.99 EUR) at the following link:
 
 [![Panasonic DC-FZ82 Fotocamera 4K  18.1 Me](https://m.media-amazon.com/images/I/41oTLaQPwtL._SL200_.jpg)](https://www.amazon.it/dp/B01NARXQ2E/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B01NARXQ2E/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01NARXQ2E/?tag=tolees00-21)

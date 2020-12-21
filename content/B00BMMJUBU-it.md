@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 43.44 % en Geox U Dublin B  Scarpe Stringate Basse '
+title: 'Discount of 43.44 % for Geox U Dublin B  Scarpe Stringate Basse '
 date: 2020-08-28 13:44:00
 image: 'https://m.media-amazon.com/images/I/41ZKmK54V2L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '43.44'
 average: '56.5'
 ---
 
-Tienes [Geox U Dublin B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   43 EU](https://www.amazon.it/dp/B00BMMJUBU/?tag=tolees00-21) con un 43.44 % de descuento con precio de oferta de 56.5 EUR (original: 99.9 EUR) en el siguiente enlace!
+You've got [Geox U Dublin B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   43 EU](https://www.amazon.it/dp/B00BMMJUBU/?tag=tolees00-21) with a  43.44 % discount, with final price of 56.5 EUR (original: 99.9 EUR) at the following link:
 
 [![Geox U Dublin B  Scarpe Stringate Basse ](https://m.media-amazon.com/images/I/41ZKmK54V2L._SL200_.jpg)](https://www.amazon.it/dp/B00BMMJUBU/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00BMMJUBU/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00BMMJUBU/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shadow of Mordor Hits Collection - PS4 - con un 15.56 % de descuento'
+title: 'Discount of 15.56 % for Shadow of Mordor Hits Collection - PS4 -'
 date: 2020-08-01 04:58:58
 image: 'https://m.media-amazon.com/images/I/51noiVXPGBL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.56'
 average: '16.88'
 ---
 
-En este momento está [Shadow of Mordor Hits Collection - PS4 - Other - PlayStation 4](https://www.amazon.it/dp/B08DJQTD58/?tag=tolees00-21) a 16.88 EUR (original: 19.99 EUR) (15.56 %  de descuento) en el siguiente enlace!
+You've got [Shadow of Mordor Hits Collection - PS4 - Other - PlayStation 4](https://www.amazon.it/dp/B08DJQTD58/?tag=tolees00-21) with a  15.56 % discount, with final price of 16.88 EUR (original: 19.99 EUR) at the following link:
 
 [![Shadow of Mordor Hits Collection - PS4 -](https://m.media-amazon.com/images/I/51noiVXPGBL._SL200_.jpg)](https://www.amazon.it/dp/B08DJQTD58/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B08DJQTD58/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B08DJQTD58/?tag=tolees00-21)

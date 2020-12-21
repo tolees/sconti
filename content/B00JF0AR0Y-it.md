@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 54.82 % en Microsoft 1850 Mobile Mouse Wireless  Ne'
+title: 'Discount of 54.82 % for Microsoft 1850 Mobile Mouse Wireless  Ne'
 date: 2020-09-22 13:08:23
 image: 'https://m.media-amazon.com/images/I/31-5LLKOr2L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '54.82'
 average: '8.99'
 ---
 
-Tienes [Microsoft 1850 Mobile Mouse Wireless  Nero](https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21) con un 54.82 % de descuento con precio de oferta de 8.99 EUR (original: 19.9 EUR) en el siguiente enlace!
+You've got [Microsoft 1850 Mobile Mouse Wireless  Nero](https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21) with a  54.82 % discount, with final price of 8.99 EUR (original: 19.9 EUR) at the following link:
 
 [![Microsoft 1850 Mobile Mouse Wireless  Ne](https://m.media-amazon.com/images/I/31-5LLKOr2L._SL200_.jpg)](https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21)

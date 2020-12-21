@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sprite Lattina 330 ml - 4 lattine al 20.41 % de rebaja'
+title: 'Discount of 20.41 % for Sprite Lattina 330 ml - 4 lattine'
 date: 2020-10-09 16:02:15
 image: 'https://m.media-amazon.com/images/I/41Few7AO4XL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.41'
 average: '1.95'
 ---
 
-Tienes [Sprite Lattina 330 ml - 4 lattine](https://www.amazon.it/dp/B00WUG9API/?tag=tolees00-21) con precio final de  1.95 EUR (original: 2.45 EUR) (20.41 %  de rebaja) aqui!
+You've got [Sprite Lattina 330 ml - 4 lattine](https://www.amazon.it/dp/B00WUG9API/?tag=tolees00-21) with a  20.41 % discount, with final price of 1.95 EUR (original: 2.45 EUR) at the following link:
 
 [![Sprite Lattina 330 ml - 4 lattine](https://m.media-amazon.com/images/I/41Few7AO4XL._SL200_.jpg)](https://www.amazon.it/dp/B00WUG9API/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B00WUG9API/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00WUG9API/?tag=tolees00-21)

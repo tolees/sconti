@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kindle  Ricondizionato Certificato  Nero con un 25.93 % de descuento'
+title: 'Kindle  Ricondizionato Certificato  Nero at 25.93 % discount'
 date: 2020-08-13 09:18:00
 image: 'https://m.media-amazon.com/images/I/41DpCHzIgpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.93'
 average: '59.99'
 ---
 
-En este momento está [Kindle  Ricondizionato Certificato  Nero - con luce frontale integrata](https://www.amazon.it/dp/B07HSJKS3S/?tag=tolees00-21) a 59.99 EUR (original: 80.99 EUR) (25.93 %  de descuento) en el siguiente enlace!
+With a final price of 59.99 EUR (original: 80.99 EUR) you can find [Kindle  Ricondizionato Certificato  Nero - con luce frontale integrata](https://www.amazon.it/dp/B07HSJKS3S/?tag=tolees00-21) with a  25.93 % discount here:
 
 [![Kindle  Ricondizionato Certificato  Nero](https://m.media-amazon.com/images/I/41DpCHzIgpL._SL200_.jpg)](https://www.amazon.it/dp/B07HSJKS3S/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B07HSJKS3S/?tag=tolees00-21)
+[Buy it!!](https://www.amazon.it/dp/B07HSJKS3S/?tag=tolees00-21)

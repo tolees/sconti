@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 63.48 % en Cornice digitale'
+title: 'Discount of 63.48 % for Cornice digitale'
 date: 2020-09-28 10:31:35
 image: 'https://m.media-amazon.com/images/I/41uqATUS-aL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '63.48'
 average: '21.925'
 ---
 
-Tienes [Cornice digitale](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21) con un 63.48 % de descuento con precio de oferta de 21.87 EUR (original: 59.88 EUR) en el siguiente enlace!
+You've got [Cornice digitale](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21) with a  63.48 % discount, with final price of 21.87 EUR (original: 59.88 EUR) at the following link:
 
 [![Cornice digitale](https://m.media-amazon.com/images/I/41uqATUS-aL._SL200_.jpg)](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21)

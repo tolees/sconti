@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Collio DOC Ribolla Gialla Ronco del Fras al 20.00 % de descuento'
+title: '20.00 % deal for Collio DOC Ribolla Gialla Ronco del Fras'
 date: 2020-09-17 07:09:48
 image: 'https://m.media-amazon.com/images/I/31DQKp7fkoL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '8.8'
 ---
 
-Ahora mismo tienes [Collio DOC Ribolla Gialla Ronco del Frassino 2019 0 75 L](https://www.amazon.it/dp/B08CN68WC7/?tag=tolees00-21) a 8.8 EUR (original: 11.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
+There's a deal [Collio DOC Ribolla Gialla Ronco del Frassino 2019 0 75 L](https://www.amazon.it/dp/B08CN68WC7/?tag=tolees00-21)  with  20.00 % discount, final price tag of  8.8 EUR (original: 11.0 EUR) here:
 
 [![Collio DOC Ribolla Gialla Ronco del Fras](https://m.media-amazon.com/images/I/31DQKp7fkoL._SL200_.jpg)](https://www.amazon.it/dp/B08CN68WC7/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B08CN68WC7/?tag=tolees00-21)
+[Buy it now!!](https://www.amazon.it/dp/B08CN68WC7/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ESDDI Studio Fotografico Kit di Illumina al 25.02 % de rebaja'
+title: 'ESDDI Studio Fotografico Kit di Illumina at 25.02 % discount'
 date: 2020-08-20 13:01:57
 image: 'https://m.media-amazon.com/images/I/51FoRSdri6L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.02'
 average: '149.86'
 ---
 
-Tienes [ESDDI Studio Fotografico Kit di Illuminazione 3x2.6M con Sistema di Supporto per Sfondo  800W 5500K Ombrello  Softbox  Continua Fotografia Kit](https://www.amazon.it/dp/B0799BQJWX/?tag=tolees00-21) con precio final de  149.86 EUR (original: 199.86 EUR) (25.02 %  de rebaja) aqui!
+With a final price of 149.86 EUR (original: 199.86 EUR) you can find [ESDDI Studio Fotografico Kit di Illuminazione 3x2.6M con Sistema di Supporto per Sfondo  800W 5500K Ombrello  Softbox  Continua Fotografia Kit](https://www.amazon.it/dp/B0799BQJWX/?tag=tolees00-21) with a  25.02 % discount here:
 
 [![ESDDI Studio Fotografico Kit di Illumina](https://m.media-amazon.com/images/I/51FoRSdri6L._SL200_.jpg)](https://www.amazon.it/dp/B0799BQJWX/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B0799BQJWX/?tag=tolees00-21)
+[Buy it!!](https://www.amazon.it/dp/B0799BQJWX/?tag=tolees00-21)

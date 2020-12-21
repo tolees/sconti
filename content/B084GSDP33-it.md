@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ori And The Will of The Wisps - Xbox One con un 33.34 % de descuento'
+title: 'Discount of 33.34 % for Ori And The Will of The Wisps - Xbox One'
 date: 2020-10-10 06:28:52
 image: 'https://m.media-amazon.com/images/I/51n+iZiNMfL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.34'
 average: '19.99'
 ---
 
-En este momento está [Ori And The Will of The Wisps - Xbox One](https://www.amazon.it/dp/B084GSDP33/?tag=tolees00-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
+You've got [Ori And The Will of The Wisps - Xbox One](https://www.amazon.it/dp/B084GSDP33/?tag=tolees00-21) with a  33.34 % discount, with final price of 19.99 EUR (original: 29.99 EUR) at the following link:
 
 [![Ori And The Will of The Wisps - Xbox One](https://m.media-amazon.com/images/I/51n+iZiNMfL._SL200_.jpg)](https://www.amazon.it/dp/B084GSDP33/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B084GSDP33/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B084GSDP33/?tag=tolees00-21)

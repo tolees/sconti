@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Brasil Logo 4110850  Infradito al 25.00 % de descuento'
+title: 'Discount of 25.00 % for Havaianas Brasil Logo 4110850  Infradito'
 date: 2020-08-19 14:56:41
 image: 'https://m.media-amazon.com/images/I/31UC+kjDDYL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.00'
 average: '18.0'
 ---
 
-Está [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Giallo  Banana Yellow   43/44 EU](https://www.amazon.it/dp/B0752PV1MM/?tag=tolees00-21) con 25.00 de descuento por 18.0 EUR (original: 24.0 EUR) en el siguiente enlace!
+You've got [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Giallo  Banana Yellow   43/44 EU](https://www.amazon.it/dp/B0752PV1MM/?tag=tolees00-21) with a  25.00 % discount, with final price of 18.0 EUR (original: 24.0 EUR) at the following link:
 
 [![Havaianas Brasil Logo 4110850  Infradito](https://m.media-amazon.com/images/I/31UC+kjDDYL._SL200_.jpg)](https://www.amazon.it/dp/B0752PV1MM/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B0752PV1MM/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B0752PV1MM/?tag=tolees00-21)

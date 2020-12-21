@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Unisex - Adulto 574v2 Core S con un 15.01 % de descuento'
+title: 'Discount of 15.01 % for New Balance Unisex - Adulto 574v2 Core S'
 date: 2020-09-02 05:01:02
 image: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.01'
 average: '76.49'
 ---
 
-En este momento está [New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Nero  Triple Black   37.5 EU](https://www.amazon.it/dp/B0783MLPPQ/?tag=tolees00-21) a 76.49 EUR (original: 90.0 EUR) (15.01 %  de descuento) en el siguiente enlace!
+You've got [New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Nero  Triple Black   37.5 EU](https://www.amazon.it/dp/B0783MLPPQ/?tag=tolees00-21) with a  15.01 % discount, with final price of 76.49 EUR (original: 90.0 EUR) at the following link:
 
 [![New Balance Unisex - Adulto 574v2 Core S](https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg)](https://www.amazon.it/dp/B0783MLPPQ/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B0783MLPPQ/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B0783MLPPQ/?tag=tolees00-21)

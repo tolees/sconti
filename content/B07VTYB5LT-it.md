@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 74.33 % en Lee Luke Pantaloni  Blu  Dark Marine 37 '
+title: 'Discount of 74.33 % for Lee Luke Pantaloni  Blu  Dark Marine 37 '
 date: 2020-09-02 13:01:26
 image: 'https://m.media-amazon.com/images/I/31dM7sQQoRL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '74.33'
 average: '23.09'
 ---
 
-Tienes [Lee Luke Pantaloni  Blu  Dark Marine 37   W30/L34  Taglia Unica: 30/34  Uomo](https://www.amazon.it/dp/B07VTYB5LT/?tag=tolees00-21) con un 74.33 % de descuento con precio de oferta de 23.09 EUR (original: 89.95 EUR) en el siguiente enlace!
+You've got [Lee Luke Pantaloni  Blu  Dark Marine 37   W30/L34  Taglia Unica: 30/34  Uomo](https://www.amazon.it/dp/B07VTYB5LT/?tag=tolees00-21) with a  74.33 % discount, with final price of 23.09 EUR (original: 89.95 EUR) at the following link:
 
 [![Lee Luke Pantaloni  Blu  Dark Marine 37 ](https://m.media-amazon.com/images/I/31dM7sQQoRL._SL200_.jpg)](https://www.amazon.it/dp/B07VTYB5LT/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B07VTYB5LT/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07VTYB5LT/?tag=tolees00-21)

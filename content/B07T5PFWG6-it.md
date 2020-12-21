@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Boroughs Project Leather Oxfo al 45.01 % de descuento'
+title: 'Discount of 45.01 % for Timberland Boroughs Project Leather Oxfo'
 date: 2020-08-28 08:10:50
 image: 'https://m.media-amazon.com/images/I/31Lqf384daL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.01'
 average: '60.49'
 ---
 
-Está [Timberland Boroughs Project Leather Oxford Sneaker  Uomo  Verde  Canteen  Tb0a2ajp9011   47.5 EU  12.5 UK ](https://www.amazon.it/dp/B07T5PFWG6/?tag=tolees00-21) con 45.01 de descuento por 60.49 EUR (original: 110.0 EUR) en el siguiente enlace!
+You've got [Timberland Boroughs Project Leather Oxford Sneaker  Uomo  Verde  Canteen  Tb0a2ajp9011   47.5 EU  12.5 UK ](https://www.amazon.it/dp/B07T5PFWG6/?tag=tolees00-21) with a  45.01 % discount, with final price of 60.49 EUR (original: 110.0 EUR) at the following link:
 
 [![Timberland Boroughs Project Leather Oxfo](https://m.media-amazon.com/images/I/31Lqf384daL._SL200_.jpg)](https://www.amazon.it/dp/B07T5PFWG6/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07T5PFWG6/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07T5PFWG6/?tag=tolees00-21)

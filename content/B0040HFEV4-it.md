@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gucci Guilty Eau de Toilette  Donna  50  al 15.77 % de rebaja'
+title: '15.77 % deal for Gucci Guilty Eau de Toilette  Donna  50 '
 date: 2020-08-22 16:24:08
 image: 'https://m.media-amazon.com/images/I/41QvudVIphL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.77'
 average: '50.74'
 ---
 
-Tienes [Gucci Guilty Eau de Toilette  Donna  50 ml](https://www.amazon.it/dp/B0040HFEV4/?tag=tolees00-21) con precio final de  50.74 EUR (original: 60.24 EUR) (15.77 %  de rebaja) aqui!
+There's a deal [Gucci Guilty Eau de Toilette  Donna  50 ml](https://www.amazon.it/dp/B0040HFEV4/?tag=tolees00-21)  with  15.77 % discount, final price tag of  50.74 EUR (original: 60.24 EUR) here:
 
 [![Gucci Guilty Eau de Toilette  Donna  50 ](https://m.media-amazon.com/images/I/41QvudVIphL._SL200_.jpg)](https://www.amazon.it/dp/B0040HFEV4/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B0040HFEV4/?tag=tolees00-21)
+[Buy it now!!](https://www.amazon.it/dp/B0040HFEV4/?tag=tolees00-21)

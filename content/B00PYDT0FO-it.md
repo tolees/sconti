@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 49.99 % en Nike MD Runner 2  Scarpe da Running Uomo'
+title: 'Discount of 49.99 % for Nike MD Runner 2  Scarpe da Running Uomo'
 date: 2020-08-17 12:05:44
 image: 'https://m.media-amazon.com/images/I/41natsFFydL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.99'
 average: '32.5'
 ---
 
-Tienes [Nike MD Runner 2  Scarpe da Running Uomo  Nero  Black/White/Anthracite   39 EU](https://www.amazon.it/dp/B00PYDT0FO/?tag=tolees00-21) con un 49.99 % de descuento con precio de oferta de 32.5 EUR (original: 64.99 EUR) en el siguiente enlace!
+You've got [Nike MD Runner 2  Scarpe da Running Uomo  Nero  Black/White/Anthracite   39 EU](https://www.amazon.it/dp/B00PYDT0FO/?tag=tolees00-21) with a  49.99 % discount, with final price of 32.5 EUR (original: 64.99 EUR) at the following link:
 
 [![Nike MD Runner 2  Scarpe da Running Uomo](https://m.media-amazon.com/images/I/41natsFFydL._SL200_.jpg)](https://www.amazon.it/dp/B00PYDT0FO/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00PYDT0FO/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00PYDT0FO/?tag=tolees00-21)

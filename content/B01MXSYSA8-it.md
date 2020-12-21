@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lower East impermeable Uomo  Nero  Schwa con un 32.99 % de descuento'
+title: 'Discount of 32.99 % for Lower East impermeable Uomo  Nero  Schwa'
 date: 2020-10-12 12:12:24
 image: 'https://m.media-amazon.com/images/I/41-i1W6eODL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.99'
 average: '12.9'
 ---
 
-En este momento está [Lower East impermeable Uomo  Nero  Schwarz   X-Large](https://www.amazon.it/dp/B01MXSYSA8/?tag=tolees00-21) a 12.9 EUR (original: 19.25 EUR) (32.99 %  de descuento) en el siguiente enlace!
+You've got [Lower East impermeable Uomo  Nero  Schwarz   X-Large](https://www.amazon.it/dp/B01MXSYSA8/?tag=tolees00-21) with a  32.99 % discount, with final price of 12.9 EUR (original: 19.25 EUR) at the following link:
 
 [![Lower East impermeable Uomo  Nero  Schwa](https://m.media-amazon.com/images/I/41-i1W6eODL._SL200_.jpg)](https://www.amazon.it/dp/B01MXSYSA8/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B01MXSYSA8/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01MXSYSA8/?tag=tolees00-21)

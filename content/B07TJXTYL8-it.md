@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste L1212 Polo  Blu  Cicer Yzk   2XL con un 20.05 % de descuento'
+title: 'Discount of 20.05 % for Lacoste L1212 Polo  Blu  Cicer Yzk   2XL'
 date: 2020-08-19 09:21:54
 image: 'https://m.media-amazon.com/images/I/41G5ARudixL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.05'
 average: '75.95'
 ---
 
-En este momento está [Lacoste L1212 Polo  Blu  Cicer Yzk   2XL Uomo](https://www.amazon.it/dp/B07TJXTYL8/?tag=tolees00-21) a 75.95 EUR (original: 95.0 EUR) (20.05 %  de descuento) en el siguiente enlace!
+You've got [Lacoste L1212 Polo  Blu  Cicer Yzk   2XL Uomo](https://www.amazon.it/dp/B07TJXTYL8/?tag=tolees00-21) with a  20.05 % discount, with final price of 75.95 EUR (original: 95.0 EUR) at the following link:
 
 [![Lacoste L1212 Polo  Blu  Cicer Yzk   2XL](https://m.media-amazon.com/images/I/41G5ARudixL._SL200_.jpg)](https://www.amazon.it/dp/B07TJXTYL8/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B07TJXTYL8/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07TJXTYL8/?tag=tolees00-21)

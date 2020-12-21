@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Leeds 10a2  Scarpe da Gin al 45.05 % de rebaja'
+title: 'Discount of 45.05 % for Tommy Hilfiger Leeds 10a2  Scarpe da Gin'
 date: 2020-08-08 14:24:28
 image: 'https://m.media-amazon.com/images/I/31SqoflMoCL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.05'
 average: '54.9'
 ---
 
-Tienes [Tommy Hilfiger Leeds 10a2  Scarpe da Ginnastica Uomo  Beige  White YBS   41 EU](https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21) con precio final de  54.9 EUR (original: 99.9 EUR) (45.05 %  de rebaja) aqui!
+You've got [Tommy Hilfiger Leeds 10a2  Scarpe da Ginnastica Uomo  Beige  White YBS   41 EU](https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21) with a  45.05 % discount, with final price of 54.9 EUR (original: 99.9 EUR) at the following link:
 
 [![Tommy Hilfiger Leeds 10a2  Scarpe da Gin](https://m.media-amazon.com/images/I/31SqoflMoCL._SL200_.jpg)](https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21)

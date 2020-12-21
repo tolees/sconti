@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 52.86 % en Lower East impermeable Uomo  Blu  Navy  '
+title: 'Discount of 52.86 % for Lower East impermeable Uomo  Blu  Navy  '
 date: 2020-10-12 12:09:46
 image: 'https://m.media-amazon.com/images/I/41bUPSnasKL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '52.86'
 average: '11.31'
 ---
 
-Tienes [Lower East impermeable Uomo  Blu  Navy   Large](https://www.amazon.it/dp/B01N6BJZ5M/?tag=tolees00-21) con un 52.86 % de descuento con precio de oferta de 11.31 EUR (original: 23.99 EUR) en el siguiente enlace!
+You've got [Lower East impermeable Uomo  Blu  Navy   Large](https://www.amazon.it/dp/B01N6BJZ5M/?tag=tolees00-21) with a  52.86 % discount, with final price of 11.31 EUR (original: 23.99 EUR) at the following link:
 
 [![Lower East impermeable Uomo  Blu  Navy  ](https://m.media-amazon.com/images/I/41bUPSnasKL._SL200_.jpg)](https://www.amazon.it/dp/B01N6BJZ5M/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B01N6BJZ5M/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01N6BJZ5M/?tag=tolees00-21)

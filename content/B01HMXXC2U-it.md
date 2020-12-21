@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRE MARIE ANCORA UNO WAFER STRACCIATELLA al 15.11 % de descuento'
+title: 'Discount of 15.11 % for TRE MARIE ANCORA UNO WAFER STRACCIATELLA'
 date: 2020-09-19 14:34:08
 image: 'https://m.media-amazon.com/images/I/41cmI+M4SML._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.11'
 average: '1.18'
 ---
 
-Ahora mismo tienes [TRE MARIE ANCORA UNO WAFER STRACCIATELLA 140 GR](https://www.amazon.it/dp/B01HMXXC2U/?tag=tolees00-21) a 1.18 EUR (original: 1.39 EUR) (15.11 %  de descuento) en el siguiente enlace!
+You've got [TRE MARIE ANCORA UNO WAFER STRACCIATELLA 140 GR](https://www.amazon.it/dp/B01HMXXC2U/?tag=tolees00-21) with a  15.11 % discount, with final price of 1.18 EUR (original: 1.39 EUR) at the following link:
 
 [![TRE MARIE ANCORA UNO WAFER STRACCIATELLA](https://m.media-amazon.com/images/I/41cmI+M4SML._SL200_.jpg)](https://www.amazon.it/dp/B01HMXXC2U/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B01HMXXC2U/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01HMXXC2U/?tag=tolees00-21)

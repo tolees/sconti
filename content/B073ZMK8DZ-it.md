@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nespresso Essenza Mini De Longhi EN85.L  con un 30.30 % de descuento'
+title: 'Discount of 30.30 % for Nespresso Essenza Mini De Longhi EN85.L '
 date: 2020-08-13 14:51:49
 image: 'https://m.media-amazon.com/images/I/41zj9Mvb6DL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.30'
 average: '69.0'
 ---
 
-En este momento está [Nespresso Essenza Mini De Longhi EN85.L Macchine del Caffe  1370 watt  Lime](https://www.amazon.it/dp/B073ZMK8DZ/?tag=tolees00-21) a 69.0 EUR (original: 99.0 EUR) (30.30 %  de descuento) en el siguiente enlace!
+You've got [Nespresso Essenza Mini De Longhi EN85.L Macchine del Caffe  1370 watt  Lime](https://www.amazon.it/dp/B073ZMK8DZ/?tag=tolees00-21) with a  30.30 % discount, with final price of 69.0 EUR (original: 99.0 EUR) at the following link:
 
 [![Nespresso Essenza Mini De Longhi EN85.L ](https://m.media-amazon.com/images/I/41zj9Mvb6DL._SL200_.jpg)](https://www.amazon.it/dp/B073ZMK8DZ/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B073ZMK8DZ/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B073ZMK8DZ/?tag=tolees00-21)

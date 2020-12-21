@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop! TV Il trono di spade  Game of al 35.76 % de descuento'
+title: '35.76 % deal for Funko Pop! TV Il trono di spade  Game of'
 date: 2020-08-22 16:13:13
 image: 'https://m.media-amazon.com/images/I/41TLzp6Of+L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.76'
 average: '11.252'
 ---
 
-Está [Funko Pop! TV Il trono di spade  Game of Thrones  - Tyrion Lannister Figura del vinile](https://www.amazon.it/dp/B071RNKJPS/?tag=tolees00-21) con 35.76 de descuento por 9.63 EUR (original: 14.99 EUR) en el siguiente enlace!
+There's a deal [Funko Pop! TV Il trono di spade  Game of Thrones  - Tyrion Lannister Figura del vinile](https://www.amazon.it/dp/B071RNKJPS/?tag=tolees00-21)  with  35.76 % discount, final price tag of  9.63 EUR (original: 14.99 EUR) here:
 
 [![Funko Pop! TV Il trono di spade  Game of](https://m.media-amazon.com/images/I/41TLzp6Of+L._SL200_.jpg)](https://www.amazon.it/dp/B071RNKJPS/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B071RNKJPS/?tag=tolees00-21)
+[Buy it now!!](https://www.amazon.it/dp/B071RNKJPS/?tag=tolees00-21)

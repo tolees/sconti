@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Assassin S Creed Origins al 72.47 % de descuento'
+title: 'Assassin S Creed Origins at 72.47 % discount'
 date: 2020-08-11 15:15:46
 image: 'https://m.media-amazon.com/images/I/51kdoaDdYuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '72.47'
 average: '13.99'
 ---
 
-Está [Assassin S Creed Origins](https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21) con 72.47 de descuento por 13.99 EUR (original: 50.82 EUR) en el siguiente enlace!
+With a final price of 13.99 EUR (original: 50.82 EUR) you can find [Assassin S Creed Origins](https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21) with a  72.47 % discount here:
 
 [![Assassin S Creed Origins](https://m.media-amazon.com/images/I/51kdoaDdYuL._SL200_.jpg)](https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21)
+[Buy it!!](https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21)

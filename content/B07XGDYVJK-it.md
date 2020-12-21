@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nba 2K20 - Standard - PlayStation 4 al 70.43 % de descuento'
+title: 'Nba 2K20 - Standard - PlayStation 4 at 70.43 % discount'
 date: 2020-09-09 15:06:13
 image: 'https://m.media-amazon.com/images/I/515M0w+qumL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '70.43'
 average: '20.99'
 ---
 
-Ahora mismo tienes [Nba 2K20 - Standard - PlayStation 4](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21) a 20.99 EUR (original: 70.99 EUR) (70.43 %  de descuento) en el siguiente enlace!
+With a final price of 20.99 EUR (original: 70.99 EUR) you can find [Nba 2K20 - Standard - PlayStation 4](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21) with a  70.43 % discount here:
 
 [![Nba 2K20 - Standard - PlayStation 4](https://m.media-amazon.com/images/I/515M0w+qumL._SL200_.jpg)](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21)
+[Buy it!!](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21)

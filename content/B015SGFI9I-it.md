@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Luna  Sandali Donna  Blu  Navy al 45.88 % de rebaja'
+title: 'Discount of 45.88 % for Havaianas Luna  Sandali Donna  Blu  Navy'
 date: 2020-07-30 07:26:21
 image: 'https://m.media-amazon.com/images/I/51CotKJOYkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.88'
 average: '12.99'
 ---
 
-Tienes [Havaianas Luna  Sandali Donna  Blu  Navy Blue 0555   39/40 EU](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21) con precio final de  12.99 EUR (original: 24.0 EUR) (45.88 %  de rebaja) aqui!
+You've got [Havaianas Luna  Sandali Donna  Blu  Navy Blue 0555   39/40 EU](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21) with a  45.88 % discount, with final price of 12.99 EUR (original: 24.0 EUR) at the following link:
 
 [![Havaianas Luna  Sandali Donna  Blu  Navy](https://m.media-amazon.com/images/I/51CotKJOYkL._SL200_.jpg)](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21)

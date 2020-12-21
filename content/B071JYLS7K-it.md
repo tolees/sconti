@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Benro Slim CF tripod kit w N00 ball head al 22.86 % de descuento'
+title: 'Discount of 22.86 % for Benro Slim CF tripod kit w N00 ball head'
 date: 2020-10-11 02:11:07
 image: 'https://m.media-amazon.com/images/I/318OYewrIlL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.86'
 average: '108.0'
 ---
 
-Ahora mismo tienes [Benro Slim CF tripod kit w N00 ball head](https://www.amazon.it/dp/B071JYLS7K/?tag=tolees00-21) a 108.0 EUR (original: 140.0 EUR) (22.86 %  de descuento) en el siguiente enlace!
+You've got [Benro Slim CF tripod kit w N00 ball head](https://www.amazon.it/dp/B071JYLS7K/?tag=tolees00-21) with a  22.86 % discount, with final price of 108.0 EUR (original: 140.0 EUR) at the following link:
 
 [![Benro Slim CF tripod kit w N00 ball head](https://m.media-amazon.com/images/I/318OYewrIlL._SL200_.jpg)](https://www.amazon.it/dp/B071JYLS7K/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B071JYLS7K/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B071JYLS7K/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 19.94 % en JACK & JONES Jjecorp Logo Tee SS Crew Ne'
+title: 'Discount of 19.94 % for JACK & JONES Jjecorp Logo Tee SS Crew Ne'
 date: 2020-09-05 18:52:07
 image: 'https://m.media-amazon.com/images/I/41d9lkn7JIL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.94'
 average: '12.126666666666667'
 ---
 
-Tienes [JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Blu  Navy Blazer Detail: Slim Fit   X-Large Uomo](https://www.amazon.it/dp/B079BRQ35S/?tag=tolees00-21) con un 19.94 % de descuento con precio de oferta de 10.4 EUR (original: 12.99 EUR) en el siguiente enlace!
+You've got [JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Blu  Navy Blazer Detail: Slim Fit   X-Large Uomo](https://www.amazon.it/dp/B079BRQ35S/?tag=tolees00-21) with a  19.94 % discount, with final price of 10.4 EUR (original: 12.99 EUR) at the following link:
 
 [![JACK & JONES Jjecorp Logo Tee SS Crew Ne](https://m.media-amazon.com/images/I/41d9lkn7JIL._SL200_.jpg)](https://www.amazon.it/dp/B079BRQ35S/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B079BRQ35S/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B079BRQ35S/?tag=tolees00-21)

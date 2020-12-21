@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Origine III  Espadrillas Unise al 20.00 % de descuento'
+title: 'Discount of 20.00 % for Havaianas Origine III  Espadrillas Unise'
 date: 2020-08-20 14:55:42
 image: 'https://m.media-amazon.com/images/I/31ZCvl3AhOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '24.0'
 ---
 
-Está [Havaianas Origine III  Espadrillas Unisex-Adulto  Bianco  White   41 EU](https://www.amazon.it/dp/B01L41CLKA/?tag=tolees00-21) con 20.00 de descuento por 24.0 EUR (original: 30.0 EUR) en el siguiente enlace!
+You've got [Havaianas Origine III  Espadrillas Unisex-Adulto  Bianco  White   41 EU](https://www.amazon.it/dp/B01L41CLKA/?tag=tolees00-21) with a  20.00 % discount, with final price of 24.0 EUR (original: 30.0 EUR) at the following link:
 
 [![Havaianas Origine III  Espadrillas Unise](https://m.media-amazon.com/images/I/31ZCvl3AhOL._SL200_.jpg)](https://www.amazon.it/dp/B01L41CLKA/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01L41CLKA/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01L41CLKA/?tag=tolees00-21)

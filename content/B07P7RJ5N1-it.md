@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pokémon Spada - Nintendo Switch al 18.32 % de descuento'
+title: '18.32 % deal for Pokémon Spada - Nintendo Switch'
 date: 2020-08-12 23:39:29
 image: 'https://m.media-amazon.com/images/I/51OWlKMl3VL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.32'
 average: '49.0'
 ---
 
-Está [Pokémon Spada - Nintendo Switch](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21) con 18.32 de descuento por 49.0 EUR (original: 59.99 EUR) en el siguiente enlace!
+There's a deal [Pokémon Spada - Nintendo Switch](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21)  with  18.32 % discount, final price tag of  49.0 EUR (original: 59.99 EUR) here:
 
 [![Pokémon Spada - Nintendo Switch](https://m.media-amazon.com/images/I/51OWlKMl3VL._SL200_.jpg)](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21)
+[Buy it now!!](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21)

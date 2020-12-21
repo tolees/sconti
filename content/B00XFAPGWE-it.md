@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.21 % en Lacoste L1230 Polo Sport Ultraleggera Uo'
+title: 'Discount of 37.21 % for Lacoste L1230 Polo Sport Ultraleggera Uo'
 date: 2020-08-26 08:05:26
 image: 'https://m.media-amazon.com/images/I/41O6PIBT9SL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.21'
 average: '43.95'
 ---
 
-Tienes [Lacoste L1230 Polo Sport Ultraleggera Uomo  Grigio  Argent Chine   X-Small  Taglia Produttore: 2 ](https://www.amazon.it/dp/B00XFAPGWE/?tag=tolees00-21) con un 37.21 % de descuento con precio de oferta de 43.95 EUR (original: 70.0 EUR) en el siguiente enlace!
+You've got [Lacoste L1230 Polo Sport Ultraleggera Uomo  Grigio  Argent Chine   X-Small  Taglia Produttore: 2 ](https://www.amazon.it/dp/B00XFAPGWE/?tag=tolees00-21) with a  37.21 % discount, with final price of 43.95 EUR (original: 70.0 EUR) at the following link:
 
 [![Lacoste L1230 Polo Sport Ultraleggera Uo](https://m.media-amazon.com/images/I/41O6PIBT9SL._SL200_.jpg)](https://www.amazon.it/dp/B00XFAPGWE/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00XFAPGWE/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00XFAPGWE/?tag=tolees00-21)

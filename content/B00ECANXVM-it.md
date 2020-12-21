@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 32.76 % en Macdue Essere  Multicolore  32538'
+title: 'Discount of 32.76 % for Macdue Essere  Multicolore  32538'
 date: 2020-09-04 00:51:30
 image: 'https://m.media-amazon.com/images/I/51F-A0WvkrL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.76'
 average: '14.39'
 ---
 
-Tienes [Macdue Essere  Multicolore  32538](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21) con un 32.76 % de descuento con precio de oferta de 14.39 EUR (original: 21.4 EUR) en el siguiente enlace!
+You've got [Macdue Essere  Multicolore  32538](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21) with a  32.76 % discount, with final price of 14.39 EUR (original: 21.4 EUR) at the following link:
 
 [![Macdue Essere  Multicolore  32538](https://m.media-amazon.com/images/I/51F-A0WvkrL._SL200_.jpg)](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21)

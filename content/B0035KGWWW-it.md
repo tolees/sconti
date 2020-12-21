@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.70 % en Sola Scriptura'
+title: '26.70 % deal for Sola Scriptura'
 date: 2020-10-05 11:44:21
 image: 'https://m.media-amazon.com/images/I/41kN5Kd2JZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.70'
 average: '7.99'
 ---
 
-Tienes [Sola Scriptura](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21) con un 26.70 % de descuento con precio de oferta de 7.99 EUR (original: 10.9 EUR) en el siguiente enlace!
+There's a deal [Sola Scriptura](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21)  with  26.70 % discount, final price tag of  7.99 EUR (original: 10.9 EUR) here:
 
 [![Sola Scriptura](https://m.media-amazon.com/images/I/41kN5Kd2JZL._SL200_.jpg)](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21)
+[Buy it now!!](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21)

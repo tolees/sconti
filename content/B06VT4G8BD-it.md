@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kanzy Tea Tree Oil 60ml Olio di Albero D con un 30.57 % de descuento'
+title: 'Discount of 30.57 % for Kanzy Tea Tree Oil 60ml Olio di Albero D'
 date: 2020-10-07 13:02:59
 image: 'https://m.media-amazon.com/images/I/51137uzMCNL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.57'
 average: '12.49'
 ---
 
-En este momento está [Kanzy Tea Tree Oil 60ml Olio di Albero Del Tè per Viso  Corpo  Unghie  Capelli e Aromaterapia Diffusore  Olio Essenziale Tea Tree Biologico](https://www.amazon.it/dp/B06VT4G8BD/?tag=tolees00-21) a 12.49 EUR (original: 17.99 EUR) (30.57 %  de descuento) en el siguiente enlace!
+You've got [Kanzy Tea Tree Oil 60ml Olio di Albero Del Tè per Viso  Corpo  Unghie  Capelli e Aromaterapia Diffusore  Olio Essenziale Tea Tree Biologico](https://www.amazon.it/dp/B06VT4G8BD/?tag=tolees00-21) with a  30.57 % discount, with final price of 12.49 EUR (original: 17.99 EUR) at the following link:
 
 [![Kanzy Tea Tree Oil 60ml Olio di Albero D](https://m.media-amazon.com/images/I/51137uzMCNL._SL200_.jpg)](https://www.amazon.it/dp/B06VT4G8BD/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B06VT4G8BD/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B06VT4G8BD/?tag=tolees00-21)

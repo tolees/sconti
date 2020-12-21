@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 41.43 % en Brooks - Scarpe sportive - Running  Uomo'
+title: 'Discount of 41.43 % for Brooks - Scarpe sportive - Running  Uomo'
 date: 2020-09-23 23:28:13
 image: 'https://m.media-amazon.com/images/I/41I9BkbzvUL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '41.43'
 average: '82.0'
 ---
 
-Tienes [Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21) con un 41.43 % de descuento con precio de oferta de 82.0 EUR (original: 140.0 EUR) en el siguiente enlace!
+You've got [Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21) with a  41.43 % discount, with final price of 82.0 EUR (original: 140.0 EUR) at the following link:
 
 [![Brooks - Scarpe sportive - Running  Uomo](https://m.media-amazon.com/images/I/41I9BkbzvUL._SL200_.jpg)](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)

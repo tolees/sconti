@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Head & Shoulders Shampoo Antiforfora Sup con un 51.58 % de descuento'
+title: 'Discount of 51.58 % for Head & Shoulders Shampoo Antiforfora Sup'
 date: 2020-09-19 11:15:51
 image: 'https://m.media-amazon.com/images/I/41zW0jaqAdL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.58'
 average: '1.69'
 ---
 
-En este momento está [Head & Shoulders Shampoo Antiforfora Suprême Idrata  con Olio di Argan  con Ingredienti Sublimatori  225 ml](https://www.amazon.it/dp/B07HNL5Z3Q/?tag=tolees00-21) a 1.69 EUR (original: 3.49 EUR) (51.58 %  de descuento) en el siguiente enlace!
+You've got [Head & Shoulders Shampoo Antiforfora Suprême Idrata  con Olio di Argan  con Ingredienti Sublimatori  225 ml](https://www.amazon.it/dp/B07HNL5Z3Q/?tag=tolees00-21) with a  51.58 % discount, with final price of 1.69 EUR (original: 3.49 EUR) at the following link:
 
 [![Head & Shoulders Shampoo Antiforfora Sup](https://m.media-amazon.com/images/I/41zW0jaqAdL._SL200_.jpg)](https://www.amazon.it/dp/B07HNL5Z3Q/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B07HNL5Z3Q/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07HNL5Z3Q/?tag=tolees00-21)

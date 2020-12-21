@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373 Core  Sneaker Uomo  Grig con un 45.39 % de descuento'
+title: 'Discount of 45.39 % for New Balance 373 Core  Sneaker Uomo  Grig'
 date: 2020-08-15 12:36:42
 image: 'https://m.media-amazon.com/images/I/41kTYsbKFiL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.39'
 average: '43.69'
 ---
 
-En este momento está [New Balance 373 Core  Sneaker Uomo  Grigio  Grey/White Ce2 ](https://www.amazon.it/dp/B07S563DLF/?tag=tolees00-21) a 43.69 EUR (original: 80.0 EUR) (45.39 %  de descuento) en el siguiente enlace!
+You've got [New Balance 373 Core  Sneaker Uomo  Grigio  Grey/White Ce2 ](https://www.amazon.it/dp/B07S563DLF/?tag=tolees00-21) with a  45.39 % discount, with final price of 43.69 EUR (original: 80.0 EUR) at the following link:
 
 [![New Balance 373 Core  Sneaker Uomo  Grig](https://m.media-amazon.com/images/I/41kTYsbKFiL._SL200_.jpg)](https://www.amazon.it/dp/B07S563DLF/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B07S563DLF/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07S563DLF/?tag=tolees00-21)

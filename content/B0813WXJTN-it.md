@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Lite Racer 2.0  Scarpe da Corsa U con un 41.11 % de descuento'
+title: 'Discount of 41.11 % for adidas Lite Racer 2.0  Scarpe da Corsa U'
 date: 2020-08-16 09:56:44
 image: 'https://m.media-amazon.com/images/I/41e3nI0W6AL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '41.11'
 average: '32.36'
 ---
 
-En este momento está [adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore  Core Black/Core Black/Ftwr White   Fraction 41 And 1 Third](https://www.amazon.it/dp/B0813WXJTN/?tag=tolees00-21) a 32.36 EUR (original: 54.95 EUR) (41.11 %  de descuento) en el siguiente enlace!
+You've got [adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore  Core Black/Core Black/Ftwr White   Fraction 41 And 1 Third](https://www.amazon.it/dp/B0813WXJTN/?tag=tolees00-21) with a  41.11 % discount, with final price of 32.36 EUR (original: 54.95 EUR) at the following link:
 
 [![adidas Lite Racer 2.0  Scarpe da Corsa U](https://m.media-amazon.com/images/I/41e3nI0W6AL._SL200_.jpg)](https://www.amazon.it/dp/B0813WXJTN/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B0813WXJTN/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B0813WXJTN/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.35 % en De Longhi friggitrice F13205'
+title: 'Discount of 33.35 % for De Longhi friggitrice F13205'
 date: 2020-08-30 16:10:25
 image: 'https://m.media-amazon.com/images/I/31auILJThkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.35'
 average: '49.99'
 ---
 
-Tienes [De Longhi friggitrice F13205](https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21) con un 33.35 % de descuento con precio de oferta de 49.99 EUR (original: 75.0 EUR) en el siguiente enlace!
+You've got [De Longhi friggitrice F13205](https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21) with a  33.35 % discount, with final price of 49.99 EUR (original: 75.0 EUR) at the following link:
 
 [![De Longhi friggitrice F13205](https://m.media-amazon.com/images/I/31auILJThkL._SL200_.jpg)](https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa  Polo Uomo Peleot  Blu  Navy   M con un 50.68 % de descuento'
+title: 'Discount of 50.68 % for Kappa  Polo Uomo Peleot  Blu  Navy   M'
 date: 2020-08-05 14:38:55
 image: 'https://m.media-amazon.com/images/I/416tg1CN4DL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.68'
 average: '9.84'
 ---
 
-En este momento está [Kappa  Polo Uomo Peleot  Blu  Navy   M](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21) a 9.84 EUR (original: 19.95 EUR) (50.68 %  de descuento) en el siguiente enlace!
+You've got [Kappa  Polo Uomo Peleot  Blu  Navy   M](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21) with a  50.68 % discount, with final price of 9.84 EUR (original: 19.95 EUR) at the following link:
 
 [![Kappa  Polo Uomo Peleot  Blu  Navy   M](https://m.media-amazon.com/images/I/416tg1CN4DL._SL200_.jpg)](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 42.31 % en Kenzo  Jungle  Eau de Toilette da uomo  '
+title: 'Discount of 42.31 % for Kenzo  Jungle  Eau de Toilette da uomo  '
 date: 2020-09-05 09:04:19
 image: 'https://m.media-amazon.com/images/I/41bQ8U1bh8L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '42.31'
 average: '40.49'
 ---
 
-Tienes [Kenzo  Jungle  Eau de Toilette da uomo  100 ml](https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21) con un 42.31 % de descuento con precio de oferta de 40.49 EUR (original: 70.18 EUR) en el siguiente enlace!
+You've got [Kenzo  Jungle  Eau de Toilette da uomo  100 ml](https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21) with a  42.31 % discount, with final price of 40.49 EUR (original: 70.18 EUR) at the following link:
 
 [![Kenzo  Jungle  Eau de Toilette da uomo  ](https://m.media-amazon.com/images/I/41bQ8U1bh8L._SL200_.jpg)](https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trussardi My Name Eau de parfum spray 10 al 15.18 % de descuento'
+title: 'Discount of 15.18 % for Trussardi My Name Eau de parfum spray 10'
 date: 2020-08-11 16:45:49
 image: 'https://m.media-amazon.com/images/I/416DaSXCYcL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.18'
 average: '38.0'
 ---
 
-Está [Trussardi My Name Eau de parfum spray 100 ml donna](https://www.amazon.it/dp/B00E36ZKXE/?tag=tolees00-21) con 15.18 de descuento por 38.0 EUR (original: 44.8 EUR) en el siguiente enlace!
+You've got [Trussardi My Name Eau de parfum spray 100 ml donna](https://www.amazon.it/dp/B00E36ZKXE/?tag=tolees00-21) with a  15.18 % discount, with final price of 38.0 EUR (original: 44.8 EUR) at the following link:
 
 [![Trussardi My Name Eau de parfum spray 10](https://m.media-amazon.com/images/I/416DaSXCYcL._SL200_.jpg)](https://www.amazon.it/dp/B00E36ZKXE/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00E36ZKXE/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00E36ZKXE/?tag=tolees00-21)

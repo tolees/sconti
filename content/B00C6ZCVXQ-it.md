@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apli 12115 Porta Porta Carte Polipropile al 70.59 % de descuento'
+title: 'Discount of 70.59 % for Apli 12115 Porta Porta Carte Polipropile'
 date: 2020-08-12 17:29:10
 image: 'https://m.media-amazon.com/images/I/31ptnqAbmwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '70.59'
 average: '9.47'
 ---
 
-Está [Apli 12115 Porta Porta Carte Polipropilene  Rosso  160 Carte x 12115](https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21) con 70.59 de descuento por 9.47 EUR (original: 32.2 EUR) en el siguiente enlace!
+You've got [Apli 12115 Porta Porta Carte Polipropilene  Rosso  160 Carte x 12115](https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21) with a  70.59 % discount, with final price of 9.47 EUR (original: 32.2 EUR) at the following link:
 
 [![Apli 12115 Porta Porta Carte Polipropile](https://m.media-amazon.com/images/I/31ptnqAbmwL._SL200_.jpg)](https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21)

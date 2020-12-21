@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic Tee T-Shirt  Bianco  Boxt al 20.05 % de descuento'
+title: 'Discount of 20.05 % for Levi s Graphic Tee T-Shirt  Bianco  Boxt'
 date: 2020-09-10 11:55:09
 image: 'https://m.media-amazon.com/images/I/31KKm1u58nL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.05'
 average: '15.99'
 ---
 
-Está [Levi s Graphic Tee T-Shirt  Bianco  Boxtab SS T2 White 0000   Large Uomo](https://www.amazon.it/dp/B07TXDW41X/?tag=tolees00-21) con 20.05 de descuento por 15.99 EUR (original: 20.0 EUR) en el siguiente enlace!
+You've got [Levi s Graphic Tee T-Shirt  Bianco  Boxtab SS T2 White 0000   Large Uomo](https://www.amazon.it/dp/B07TXDW41X/?tag=tolees00-21) with a  20.05 % discount, with final price of 15.99 EUR (original: 20.0 EUR) at the following link:
 
 [![Levi s Graphic Tee T-Shirt  Bianco  Boxt](https://m.media-amazon.com/images/I/31KKm1u58nL._SL200_.jpg)](https://www.amazon.it/dp/B07TXDW41X/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07TXDW41X/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07TXDW41X/?tag=tolees00-21)

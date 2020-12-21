@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 34.12 % en MANN-FILTER HU7020Z Filtro Olio'
+title: 'Discount of 34.12 % for MANN-FILTER HU7020Z Filtro Olio'
 date: 2020-09-17 11:07:40
 image: 'https://m.media-amazon.com/images/I/41SCpcNQXUL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.12'
 average: '5.6'
 ---
 
-Tienes [MANN-FILTER HU7020Z Filtro Olio](https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21) con un 34.12 % de descuento con precio de oferta de 5.6 EUR (original: 8.5 EUR) en el siguiente enlace!
+You've got [MANN-FILTER HU7020Z Filtro Olio](https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21) with a  34.12 % discount, with final price of 5.6 EUR (original: 8.5 EUR) at the following link:
 
 [![MANN-FILTER HU7020Z Filtro Olio](https://m.media-amazon.com/images/I/41SCpcNQXUL._SL200_.jpg)](https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Movie 2 - La scatola "costruisci qu con un 51.32 % de descuento'
+title: 'Discount of 51.32 % for LEGO Movie 2 - La scatola "costruisci qu'
 date: 2020-08-20 18:12:10
 image: 'https://m.media-amazon.com/images/I/51bo8TEJGpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.32'
 average: '21.9'
 ---
 
-En este momento está [LEGO Movie 2 - La scatola "costruisci quello che vuoi" della Regina Wello Ke Wuoglio!  70825](https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21) a 21.9 EUR (original: 44.99 EUR) (51.32 %  de descuento) en el siguiente enlace!
+You've got [LEGO Movie 2 - La scatola "costruisci quello che vuoi" della Regina Wello Ke Wuoglio!  70825](https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21) with a  51.32 % discount, with final price of 21.9 EUR (original: 44.99 EUR) at the following link:
 
 [![LEGO Movie 2 - La scatola "costruisci qu](https://m.media-amazon.com/images/I/51bo8TEJGpL._SL200_.jpg)](https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21)

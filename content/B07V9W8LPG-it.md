@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Boss Tee 4 T-Shirt  Blu  Navy 410   Larg con un 39.90 % de descuento'
+title: 'Discount of 39.90 % for Boss Tee 4 T-Shirt  Blu  Navy 410   Larg'
 date: 2020-09-19 07:36:45
 image: 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '39.90'
 average: '36.03'
 ---
 
-En este momento está [Boss Tee 4 T-Shirt  Blu  Navy 410   Large Uomo](https://www.amazon.it/dp/B07V9W8LPG/?tag=tolees00-21) a 36.03 EUR (original: 59.95 EUR) (39.90 %  de descuento) en el siguiente enlace!
+You've got [Boss Tee 4 T-Shirt  Blu  Navy 410   Large Uomo](https://www.amazon.it/dp/B07V9W8LPG/?tag=tolees00-21) with a  39.90 % discount, with final price of 36.03 EUR (original: 59.95 EUR) at the following link:
 
 [![Boss Tee 4 T-Shirt  Blu  Navy 410   Larg](https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg)](https://www.amazon.it/dp/B07V9W8LPG/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B07V9W8LPG/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07V9W8LPG/?tag=tolees00-21)

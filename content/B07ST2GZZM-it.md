@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'eFootball PES 2020 - Playstation 4 al 66.57 % de descuento'
+title: 'Discount of 66.57 % for eFootball PES 2020 - Playstation 4'
 date: 2020-07-17 12:03:03
 image: 'https://m.media-amazon.com/images/I/51LZq+NkHXL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '66.57'
 average: '23.4'
 ---
 
-Ahora mismo tienes [eFootball PES 2020 - Playstation 4](https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21) a 23.4 EUR (original: 69.99 EUR) (66.57 %  de descuento) en el siguiente enlace!
+You've got [eFootball PES 2020 - Playstation 4](https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21) with a  66.57 % discount, with final price of 23.4 EUR (original: 69.99 EUR) at the following link:
 
 [![eFootball PES 2020 - Playstation 4](https://m.media-amazon.com/images/I/51LZq+NkHXL._SL200_.jpg)](https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21)

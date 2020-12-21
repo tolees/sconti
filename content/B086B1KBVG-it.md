@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xiaomi Mi 10 Smartphone  256 + 8 GB  Twi al 34.44 % de descuento'
+title: 'Discount of 34.44 % for Xiaomi Mi 10 Smartphone  256 + 8 GB  Twi'
 date: 2020-09-15 17:14:32
 image: 'https://m.media-amazon.com/images/I/41CEi0wzXNL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.44'
 average: '590.0'
 ---
 
-Está [Xiaomi Mi 10 Smartphone  256 + 8 GB  Twilight Grey](https://www.amazon.it/dp/B086B1KBVG/?tag=tolees00-21) con 34.44 de descuento por 590.0 EUR (original: 899.9 EUR) en el siguiente enlace!
+You've got [Xiaomi Mi 10 Smartphone  256 + 8 GB  Twilight Grey](https://www.amazon.it/dp/B086B1KBVG/?tag=tolees00-21) with a  34.44 % discount, with final price of 590.0 EUR (original: 899.9 EUR) at the following link:
 
 [![Xiaomi Mi 10 Smartphone  256 + 8 GB  Twi](https://m.media-amazon.com/images/I/41CEi0wzXNL._SL200_.jpg)](https://www.amazon.it/dp/B086B1KBVG/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B086B1KBVG/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B086B1KBVG/?tag=tolees00-21)

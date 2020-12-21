@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 57.53 % en Reebok Classic Leather  Scarpe da Ginnas'
+title: 'Discount of 57.53 % for Reebok Classic Leather  Scarpe da Ginnas'
 date: 2020-09-01 09:34:21
 image: 'https://m.media-amazon.com/images/I/41uVy5qTHkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '57.53'
 average: '38.2'
 ---
 
-Tienes [Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  42 EU](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21) con un 57.53 % de descuento con precio de oferta de 38.2 EUR (original: 89.95 EUR) en el siguiente enlace!
+You've got [Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  42 EU](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21) with a  57.53 % discount, with final price of 38.2 EUR (original: 89.95 EUR) at the following link:
 
 [![Reebok Classic Leather  Scarpe da Ginnas](https://m.media-amazon.com/images/I/41uVy5qTHkL._SL200_.jpg)](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21)

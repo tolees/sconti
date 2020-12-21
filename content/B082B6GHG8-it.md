@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brunello di Montalcino DOCG Collezione d con un 20.00 % de descuento'
+title: 'Discount of 20.00 % for Brunello di Montalcino DOCG Collezione d'
 date: 2020-09-14 06:24:18
 image: 'https://m.media-amazon.com/images/I/31Qq3MWrNjL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '21.52'
 ---
 
-En este momento está [Brunello di Montalcino DOCG Collezione del Conte Villa da Filicaja 2015 0 75 L](https://www.amazon.it/dp/B082B6GHG8/?tag=tolees00-21) a 21.52 EUR (original: 26.9 EUR) (20.00 %  de descuento) en el siguiente enlace!
+You've got [Brunello di Montalcino DOCG Collezione del Conte Villa da Filicaja 2015 0 75 L](https://www.amazon.it/dp/B082B6GHG8/?tag=tolees00-21) with a  20.00 % discount, with final price of 21.52 EUR (original: 26.9 EUR) at the following link:
 
 [![Brunello di Montalcino DOCG Collezione d](https://m.media-amazon.com/images/I/31Qq3MWrNjL._SL200_.jpg)](https://www.amazon.it/dp/B082B6GHG8/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B082B6GHG8/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B082B6GHG8/?tag=tolees00-21)

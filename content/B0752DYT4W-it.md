@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fanta Original 330 ml - 4 lattine al 27.51 % de rebaja'
+title: 'Discount of 27.51 % for Fanta Original 330 ml - 4 lattine'
 date: 2020-10-09 16:02:18
 image: 'https://m.media-amazon.com/images/I/41C1lWT47cL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '27.51'
 average: '1.97'
 ---
 
-Tienes [Fanta Original 330 ml - 4 lattine](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21) con precio final de  1.95 EUR (original: 2.69 EUR) (27.51 %  de rebaja) aqui!
+You've got [Fanta Original 330 ml - 4 lattine](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21) with a  27.51 % discount, with final price of 1.95 EUR (original: 2.69 EUR) at the following link:
 
 [![Fanta Original 330 ml - 4 lattine](https://m.media-amazon.com/images/I/41C1lWT47cL._SL200_.jpg)](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SUNSILK Ricci da Domare  Balsamo  200 ml con un 46.34 % de descuento'
+title: 'SUNSILK Ricci da Domare  Balsamo  200 ml at 46.34 % discount'
 date: 2020-09-30 06:37:28
 image: 'https://m.media-amazon.com/images/I/31Z-9MPanBL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '46.34'
 average: '1.98'
 ---
 
-En este momento está [SUNSILK Ricci da Domare  Balsamo  200 ml](https://www.amazon.it/dp/B00FA43TJK/?tag=tolees00-21) a 1.98 EUR (original: 3.69 EUR) (46.34 %  de descuento) en el siguiente enlace!
+With a final price of 1.98 EUR (original: 3.69 EUR) you can find [SUNSILK Ricci da Domare  Balsamo  200 ml](https://www.amazon.it/dp/B00FA43TJK/?tag=tolees00-21) with a  46.34 % discount here:
 
 [![SUNSILK Ricci da Domare  Balsamo  200 ml](https://m.media-amazon.com/images/I/31Z-9MPanBL._SL200_.jpg)](https://www.amazon.it/dp/B00FA43TJK/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B00FA43TJK/?tag=tolees00-21)
+[Buy it!!](https://www.amazon.it/dp/B00FA43TJK/?tag=tolees00-21)

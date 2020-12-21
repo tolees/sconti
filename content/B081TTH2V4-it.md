@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Cropped Hood al 44.48 % de rebaja'
+title: 'Discount of 44.48 % for adidas Cropped Hood'
 date: 2020-09-11 13:45:42
 image: 'https://m.media-amazon.com/images/I/41OVjd7peiL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '44.48'
 average: '25.075000000000003'
 ---
 
-Tienes [adidas Cropped Hood](https://www.amazon.it/dp/B081TTH2V4/?tag=tolees00-21) con precio final de  27.73 EUR (original: 49.95 EUR) (44.48 %  de rebaja) aqui!
+You've got [adidas Cropped Hood](https://www.amazon.it/dp/B081TTH2V4/?tag=tolees00-21) with a  44.48 % discount, with final price of 27.73 EUR (original: 49.95 EUR) at the following link:
 
 [![adidas Cropped Hood](https://m.media-amazon.com/images/I/41OVjd7peiL._SL200_.jpg)](https://www.amazon.it/dp/B081TTH2V4/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B081TTH2V4/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B081TTH2V4/?tag=tolees00-21)

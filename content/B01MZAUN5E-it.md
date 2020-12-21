@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 29.93 % en Hori Stand di Ricarica per 4 Joy-con - N'
+title: 'Discount of 29.93 % for Hori Stand di Ricarica per 4 Joy-con - N'
 date: 2020-09-15 12:32:39
 image: 'https://m.media-amazon.com/images/I/41ffvUZyNuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '29.93'
 average: '21.02'
 ---
 
-Tienes [Hori Stand di Ricarica per 4 Joy-con - Nintendo Switch](https://www.amazon.it/dp/B01MZAUN5E/?tag=tolees00-21) con un 29.93 % de descuento con precio de oferta de 21.02 EUR (original: 30.0 EUR) en el siguiente enlace!
+You've got [Hori Stand di Ricarica per 4 Joy-con - Nintendo Switch](https://www.amazon.it/dp/B01MZAUN5E/?tag=tolees00-21) with a  29.93 % discount, with final price of 21.02 EUR (original: 30.0 EUR) at the following link:
 
 [![Hori Stand di Ricarica per 4 Joy-con - N](https://m.media-amazon.com/images/I/41ffvUZyNuL._SL200_.jpg)](https://www.amazon.it/dp/B01MZAUN5E/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B01MZAUN5E/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01MZAUN5E/?tag=tolees00-21)

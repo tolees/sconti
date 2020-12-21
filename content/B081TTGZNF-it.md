@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas WB Karkaj  Giacca Sportiva Uomo   al 50.00 % de descuento'
+title: 'Discount of 50.00 % for adidas WB Karkaj  Giacca Sportiva Uomo  '
 date: 2020-08-22 11:38:50
 image: 'https://m.media-amazon.com/images/I/41ghiJerf9L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '69.98'
 ---
 
-Está [adidas WB Karkaj  Giacca Sportiva Uomo  Glory Green  L](https://www.amazon.it/dp/B081TTGZNF/?tag=tolees00-21) con 50.00 de descuento por 69.98 EUR (original: 139.95 EUR) en el siguiente enlace!
+You've got [adidas WB Karkaj  Giacca Sportiva Uomo  Glory Green  L](https://www.amazon.it/dp/B081TTGZNF/?tag=tolees00-21) with a  50.00 % discount, with final price of 69.98 EUR (original: 139.95 EUR) at the following link:
 
 [![adidas WB Karkaj  Giacca Sportiva Uomo  ](https://m.media-amazon.com/images/I/41ghiJerf9L._SL200_.jpg)](https://www.amazon.it/dp/B081TTGZNF/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B081TTGZNF/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B081TTGZNF/?tag=tolees00-21)

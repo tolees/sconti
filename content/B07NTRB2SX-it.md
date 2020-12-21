@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rimmel 60 Seconds Super-Shine  Smalto Pe al 57.81 % de descuento'
+title: 'Discount of 57.81 % for Rimmel 60 Seconds Super-Shine  Smalto Pe'
 date: 2020-10-01 15:35:49
 image: 'https://m.media-amazon.com/images/I/31KdljhqxTL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '57.81'
 average: '2.0'
 ---
 
-Ahora mismo tienes [Rimmel 60 Seconds Super-Shine  Smalto Per Unghie  Sea Nymph - 20 Gr](https://www.amazon.it/dp/B07NTRB2SX/?tag=tolees00-21) a 2.0 EUR (original: 4.74 EUR) (57.81 %  de descuento) en el siguiente enlace!
+You've got [Rimmel 60 Seconds Super-Shine  Smalto Per Unghie  Sea Nymph - 20 Gr](https://www.amazon.it/dp/B07NTRB2SX/?tag=tolees00-21) with a  57.81 % discount, with final price of 2.0 EUR (original: 4.74 EUR) at the following link:
 
 [![Rimmel 60 Seconds Super-Shine  Smalto Pe](https://m.media-amazon.com/images/I/31KdljhqxTL._SL200_.jpg)](https://www.amazon.it/dp/B07NTRB2SX/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B07NTRB2SX/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07NTRB2SX/?tag=tolees00-21)

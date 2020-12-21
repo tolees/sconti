@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Sportstyle Terry Logo Felpa al 52.07 % de descuento'
+title: 'Discount of 52.07 % for Under Armour Sportstyle Terry Logo Felpa'
 date: 2020-09-22 06:03:21
 image: 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '52.07'
 average: '28.76'
 ---
 
-Está [Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  SM](https://www.amazon.it/dp/B07MQXQY86/?tag=tolees00-21) con 52.07 de descuento por 28.76 EUR (original: 60.0 EUR) en el siguiente enlace!
+You've got [Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  SM](https://www.amazon.it/dp/B07MQXQY86/?tag=tolees00-21) with a  52.07 % discount, with final price of 28.76 EUR (original: 60.0 EUR) at the following link:
 
 [![Under Armour Sportstyle Terry Logo Felpa](https://m.media-amazon.com/images/I/31SFrc8ySkL._SL200_.jpg)](https://www.amazon.it/dp/B07MQXQY86/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07MQXQY86/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07MQXQY86/?tag=tolees00-21)

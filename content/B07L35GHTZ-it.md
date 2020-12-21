@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.00 % en Eastpak Oval Zippl r Astuccio  22 cm  Gr'
+title: 'Discount of 30.00 % for Eastpak Oval Zippl r Astuccio  22 cm  Gr'
 date: 2020-09-24 08:00:40
 image: 'https://m.media-amazon.com/images/I/41xGm43j0pL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '14.0'
 ---
 
-Tienes [Eastpak Oval Zippl r Astuccio  22 cm  Grigio  Sunday Grey ](https://www.amazon.it/dp/B07L35GHTZ/?tag=tolees00-21) con un 30.00 % de descuento con precio de oferta de 14.0 EUR (original: 20.0 EUR) en el siguiente enlace!
+You've got [Eastpak Oval Zippl r Astuccio  22 cm  Grigio  Sunday Grey ](https://www.amazon.it/dp/B07L35GHTZ/?tag=tolees00-21) with a  30.00 % discount, with final price of 14.0 EUR (original: 20.0 EUR) at the following link:
 
 [![Eastpak Oval Zippl r Astuccio  22 cm  Gr](https://m.media-amazon.com/images/I/41xGm43j0pL._SL200_.jpg)](https://www.amazon.it/dp/B07L35GHTZ/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B07L35GHTZ/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07L35GHTZ/?tag=tolees00-21)

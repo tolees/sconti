@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Harry Potter 7 Pt.2  4K + Br  al 66.66 % de descuento'
+title: 'Discount of 66.66 % for Harry Potter 7 Pt.2  4K + Br '
 date: 2020-09-22 20:29:47
 image: 'https://m.media-amazon.com/images/I/51krmgozbwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '66.66'
 average: '10.0'
 ---
 
-Está [Harry Potter 7 Pt.2  4K + Br ](https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21) con 66.66 de descuento por 10.0 EUR (original: 29.99 EUR) en el siguiente enlace!
+You've got [Harry Potter 7 Pt.2  4K + Br ](https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21) with a  66.66 % discount, with final price of 10.0 EUR (original: 29.99 EUR) at the following link:
 
 [![Harry Potter 7 Pt.2  4K + Br ](https://m.media-amazon.com/images/I/51krmgozbwL._SL200_.jpg)](https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21)

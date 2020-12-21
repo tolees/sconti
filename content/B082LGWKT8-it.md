@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Quantum 90 2  Scarpe da Corsa  con un 55.05 % de descuento'
+title: 'Discount of 55.05 % for Asics Gel-Quantum 90 2  Scarpe da Corsa '
 date: 2020-09-04 07:56:39
 image: 'https://m.media-amazon.com/images/I/41qCZJn-VnL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '55.05'
 average: '44.95'
 ---
 
-En este momento está [Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21) a 44.95 EUR (original: 100.0 EUR) (55.05 %  de descuento) en el siguiente enlace!
+You've got [Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21) with a  55.05 % discount, with final price of 44.95 EUR (original: 100.0 EUR) at the following link:
 
 [![Asics Gel-Quantum 90 2  Scarpe da Corsa ](https://m.media-amazon.com/images/I/41qCZJn-VnL._SL200_.jpg)](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21)

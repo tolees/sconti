@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.80 % en Eridania Zucchero Tropical Bustine Gr500'
+title: 'Discount of 40.80 % for Eridania Zucchero Tropical Bustine Gr500'
 date: 2020-07-22 11:45:19
 image: 'https://m.media-amazon.com/images/I/51qsOVlUTYL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.80'
 average: '1.19'
 ---
 
-Tienes [Eridania Zucchero Tropical Bustine Gr500](https://www.amazon.it/dp/B00ABJSODK/?tag=tolees00-21) con un 40.80 % de descuento con precio de oferta de 1.19 EUR (original: 2.01 EUR) en el siguiente enlace!
+You've got [Eridania Zucchero Tropical Bustine Gr500](https://www.amazon.it/dp/B00ABJSODK/?tag=tolees00-21) with a  40.80 % discount, with final price of 1.19 EUR (original: 2.01 EUR) at the following link:
 
 [![Eridania Zucchero Tropical Bustine Gr500](https://m.media-amazon.com/images/I/51qsOVlUTYL._SL200_.jpg)](https://www.amazon.it/dp/B00ABJSODK/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00ABJSODK/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00ABJSODK/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Gazelle  Scarpe da Ginnastica Bas con un 38.14 % de descuento'
+title: 'Discount of 38.14 % for adidas Gazelle  Scarpe da Ginnastica Bas'
 date: 2020-08-17 10:11:17
 image: 'https://m.media-amazon.com/images/I/41WUyQ9DkFL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '38.14'
 average: '61.7'
 ---
 
-En este momento está [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Blu  Collegiate Navy/White/Gold Met   40 2/3 EU](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21) a 61.7 EUR (original: 99.74 EUR) (38.14 %  de descuento) en el siguiente enlace!
+You've got [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Blu  Collegiate Navy/White/Gold Met   40 2/3 EU](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21) with a  38.14 % discount, with final price of 61.7 EUR (original: 99.74 EUR) at the following link:
 
 [![adidas Gazelle  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/41WUyQ9DkFL._SL200_.jpg)](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)

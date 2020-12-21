@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone 11  128GB  - Verde al 15.75 % de rebaja'
+title: 'Apple iPhone 11  128GB  - Verde at 15.75 % discount'
 date: 2020-10-03 09:50:50
 image: 'https://m.media-amazon.com/images/I/41nDbx4N7gL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.75'
 average: '759.0'
 ---
 
-Tienes [Apple iPhone 11  128GB  - Verde](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21) con precio final de  749.0 EUR (original: 889.0 EUR) (15.75 %  de rebaja) aqui!
+With a final price of 749.0 EUR (original: 889.0 EUR) you can find [Apple iPhone 11  128GB  - Verde](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21) with a  15.75 % discount here:
 
 [![Apple iPhone 11  128GB  - Verde](https://m.media-amazon.com/images/I/41nDbx4N7gL._SL200_.jpg)](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21)
+[Buy it!!](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21)

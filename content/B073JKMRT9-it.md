@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Lighting Aluminium LED Spot Ligh al 43.73 % de rebaja'
+title: 'Philips Lighting Aluminium LED Spot Ligh at 43.73 % discount'
 date: 2020-07-19 12:06:23
 image: 'https://m.media-amazon.com/images/I/314VCXujMcL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '43.73'
 average: '44.99'
 ---
 
-Tienes [Philips Lighting Aluminium LED Spot Light Philips Faretto Kosipo con 4 Punti Luce  Alluminio  Attacco GU10  Lampadina Non Inclusa  Grigio  7x62.8x9.2 cm](https://www.amazon.it/dp/B073JKMRT9/?tag=tolees00-21) con precio final de  44.99 EUR (original: 79.95 EUR) (43.73 %  de rebaja) aqui!
+With a final price of 44.99 EUR (original: 79.95 EUR) you can find [Philips Lighting Aluminium LED Spot Light Philips Faretto Kosipo con 4 Punti Luce  Alluminio  Attacco GU10  Lampadina Non Inclusa  Grigio  7x62.8x9.2 cm](https://www.amazon.it/dp/B073JKMRT9/?tag=tolees00-21) with a  43.73 % discount here:
 
 [![Philips Lighting Aluminium LED Spot Ligh](https://m.media-amazon.com/images/I/314VCXujMcL._SL200_.jpg)](https://www.amazon.it/dp/B073JKMRT9/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B073JKMRT9/?tag=tolees00-21)
+[Buy it!!](https://www.amazon.it/dp/B073JKMRT9/?tag=tolees00-21)

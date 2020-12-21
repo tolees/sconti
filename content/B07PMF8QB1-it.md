@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optimum Nutrition Protein Bar 10 Barrett al 21.75 % de descuento'
+title: 'Optimum Nutrition Protein Bar 10 Barrett at 21.75 % discount'
 date: 2020-07-20 14:41:18
 image: 'https://m.media-amazon.com/images/I/51lPKPasa9L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.75'
 average: '17.99'
 ---
 
-Está [Optimum Nutrition Protein Bar 10 Barrette Proteiche con Proteine Whey Isolate in Polvere  Cioccolato Caramello  Scatola di 10 x 60 g](https://www.amazon.it/dp/B07PMF8QB1/?tag=tolees00-21) con 21.75 de descuento por 17.99 EUR (original: 22.99 EUR) en el siguiente enlace!
+With a final price of 17.99 EUR (original: 22.99 EUR) you can find [Optimum Nutrition Protein Bar 10 Barrette Proteiche con Proteine Whey Isolate in Polvere  Cioccolato Caramello  Scatola di 10 x 60 g](https://www.amazon.it/dp/B07PMF8QB1/?tag=tolees00-21) with a  21.75 % discount here:
 
 [![Optimum Nutrition Protein Bar 10 Barrett](https://m.media-amazon.com/images/I/51lPKPasa9L._SL200_.jpg)](https://www.amazon.it/dp/B07PMF8QB1/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07PMF8QB1/?tag=tolees00-21)
+[Buy it!!](https://www.amazon.it/dp/B07PMF8QB1/?tag=tolees00-21)

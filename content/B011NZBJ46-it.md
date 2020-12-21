@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ht25N Multimetro Digitale Multifunzione  al 30.60 % de descuento'
+title: 'Discount of 30.60 % for Ht25N Multimetro Digitale Multifunzione '
 date: 2020-10-07 09:49:11
 image: 'https://m.media-amazon.com/images/I/41LOEG-O-cL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.60'
 average: '39.9'
 ---
 
-Está [Ht25N Multimetro Digitale Multifunzione Com Hr0002](https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21) con 30.60 de descuento por 39.9 EUR (original: 57.49 EUR) en el siguiente enlace!
+You've got [Ht25N Multimetro Digitale Multifunzione Com Hr0002](https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21) with a  30.60 % discount, with final price of 39.9 EUR (original: 57.49 EUR) at the following link:
 
 [![Ht25N Multimetro Digitale Multifunzione ](https://m.media-amazon.com/images/I/41LOEG-O-cL._SL200_.jpg)](https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21)

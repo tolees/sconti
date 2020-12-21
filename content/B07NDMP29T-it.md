@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Arctic Expedition Giacca  Ner al 85.85 % de rebaja'
+title: 'Discount of 85.85 % for G-STAR RAW Arctic Expedition Giacca  Ner'
 date: 2020-08-09 17:50:29
 image: 'https://m.media-amazon.com/images/I/41jKv+4vspL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '85.85'
 average: '38.21'
 ---
 
-Tienes [G-STAR RAW Arctic Expedition Giacca  Nero  Dk Black 6484   X-Small Uomo](https://www.amazon.it/dp/B07NDMP29T/?tag=tolees00-21) con precio final de  38.21 EUR (original: 269.95 EUR) (85.85 %  de rebaja) aqui!
+You've got [G-STAR RAW Arctic Expedition Giacca  Nero  Dk Black 6484   X-Small Uomo](https://www.amazon.it/dp/B07NDMP29T/?tag=tolees00-21) with a  85.85 % discount, with final price of 38.21 EUR (original: 269.95 EUR) at the following link:
 
 [![G-STAR RAW Arctic Expedition Giacca  Ner](https://m.media-amazon.com/images/I/41jKv+4vspL._SL200_.jpg)](https://www.amazon.it/dp/B07NDMP29T/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.it/dp/B07NDMP29T/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07NDMP29T/?tag=tolees00-21)

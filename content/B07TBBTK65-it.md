@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.37 % en Havaianas Slim Tropical  Infradito Donna'
+title: 'Discount of 33.37 % for Havaianas Slim Tropical  Infradito Donna'
 date: 2020-08-24 14:12:36
 image: 'https://m.media-amazon.com/images/I/41izXxjClOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.37'
 average: '19.99'
 ---
 
-Tienes [Havaianas Slim Tropical  Infradito Donna  Multicolore  Beige 7907   37/38 EU](https://www.amazon.it/dp/B07TBBTK65/?tag=tolees00-21) con un 33.37 % de descuento con precio de oferta de 19.99 EUR (original: 30.0 EUR) en el siguiente enlace!
+You've got [Havaianas Slim Tropical  Infradito Donna  Multicolore  Beige 7907   37/38 EU](https://www.amazon.it/dp/B07TBBTK65/?tag=tolees00-21) with a  33.37 % discount, with final price of 19.99 EUR (original: 30.0 EUR) at the following link:
 
 [![Havaianas Slim Tropical  Infradito Donna](https://m.media-amazon.com/images/I/41izXxjClOL._SL200_.jpg)](https://www.amazon.it/dp/B07TBBTK65/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B07TBBTK65/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07TBBTK65/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas W SL Graph Tee Canottiera Sportiv al 69.28 % de descuento'
+title: 'Discount of 69.28 % for adidas W SL Graph Tee Canottiera Sportiv'
 date: 2020-10-08 10:01:45
 image: 'https://m.media-amazon.com/images/I/41dL5hi7BcL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '69.28'
 average: '9.2'
 ---
 
-Ahora mismo tienes [adidas W SL Graph Tee Canottiera Sportiva  Donna  White  L](https://www.amazon.it/dp/B081TQP4L2/?tag=tolees00-21) a 9.2 EUR (original: 29.95 EUR) (69.28 %  de descuento) en el siguiente enlace!
+You've got [adidas W SL Graph Tee Canottiera Sportiva  Donna  White  L](https://www.amazon.it/dp/B081TQP4L2/?tag=tolees00-21) with a  69.28 % discount, with final price of 9.2 EUR (original: 29.95 EUR) at the following link:
 
 [![adidas W SL Graph Tee Canottiera Sportiv](https://m.media-amazon.com/images/I/41dL5hi7BcL._SL200_.jpg)](https://www.amazon.it/dp/B081TQP4L2/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.it/dp/B081TQP4L2/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B081TQP4L2/?tag=tolees00-21)

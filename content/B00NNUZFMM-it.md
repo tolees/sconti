@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 49.90 % en The Sims 4 - PC'
+title: 'Discount of 49.90 % for The Sims 4 - PC'
 date: 2020-09-02 12:03:56
 image: 'https://m.media-amazon.com/images/I/41Fqig2vgRL._SL500_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.90'
 average: '19.99'
 ---
 
-Tienes [The Sims 4 - PC](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21) con un 49.90 % de descuento con precio de oferta de 19.99 EUR (original: 39.9 EUR) en el siguiente enlace!
+You've got [The Sims 4 - PC](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21) with a  49.90 % discount, with final price of 19.99 EUR (original: 39.9 EUR) at the following link:
 
 [![The Sims 4 - PC](https://m.media-amazon.com/images/I/41Fqig2vgRL._SL500_._SL200_.jpg)](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ArtWay Studio - Quaderno da Disegno spir al 23.77 % de descuento'
+title: 'Discount of 23.77 % for ArtWay Studio - Quaderno da Disegno spir'
 date: 2020-10-02 09:13:38
 image: 'https://m.media-amazon.com/images/I/31w9mqowc9L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '23.77'
 average: '12.99'
 ---
 
-Está [ArtWay Studio - Quaderno da Disegno spiralato - Cartoncino Senza acidi - Copertina Rigida -170g/m² 50 Pagine - 1 x Quadrato  285 x 285 mm ](https://www.amazon.it/dp/B00KG66SZO/?tag=tolees00-21) con 23.77 de descuento por 12.99 EUR (original: 17.04 EUR) en el siguiente enlace!
+You've got [ArtWay Studio - Quaderno da Disegno spiralato - Cartoncino Senza acidi - Copertina Rigida -170g/m² 50 Pagine - 1 x Quadrato  285 x 285 mm ](https://www.amazon.it/dp/B00KG66SZO/?tag=tolees00-21) with a  23.77 % discount, with final price of 12.99 EUR (original: 17.04 EUR) at the following link:
 
 [![ArtWay Studio - Quaderno da Disegno spir](https://m.media-amazon.com/images/I/31w9mqowc9L._SL200_.jpg)](https://www.amazon.it/dp/B00KG66SZO/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00KG66SZO/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B00KG66SZO/?tag=tolees00-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Colussi Gran Turchese Biscotti Gr.400 -  con un 47.09 % de descuento'
+title: '47.09 % deal for Colussi Gran Turchese Biscotti Gr.400 - '
 date: 2020-09-03 13:05:14
 image: 'https://m.media-amazon.com/images/I/51ol-NT73IL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '47.09'
 average: '4.0'
 ---
 
-En este momento está [Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21) a 4.0 EUR (original: 7.56 EUR) (47.09 %  de descuento) en el siguiente enlace!
+There's a deal [Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)  with  47.09 % discount, final price tag of  4.0 EUR (original: 7.56 EUR) here:
 
 [![Colussi Gran Turchese Biscotti Gr.400 - ](https://m.media-amazon.com/images/I/51ol-NT73IL._SL200_.jpg)](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)
+[Buy it now!!](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)

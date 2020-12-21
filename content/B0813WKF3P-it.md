@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Sleek W  Scarpe da Ginnastica Don con un 59.13 % de descuento'
+title: 'Discount of 59.13 % for adidas Sleek W  Scarpe da Ginnastica Don'
 date: 2020-08-29 10:27:18
 image: 'https://m.media-amazon.com/images/I/31LHlTksKgL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '59.13'
 average: '36.76'
 ---
 
-En este momento está [adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  36 2/3 EU](https://www.amazon.it/dp/B0813WKF3P/?tag=tolees00-21) a 36.76 EUR (original: 89.95 EUR) (59.13 %  de descuento) en el siguiente enlace!
+You've got [adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  36 2/3 EU](https://www.amazon.it/dp/B0813WKF3P/?tag=tolees00-21) with a  59.13 % discount, with final price of 36.76 EUR (original: 89.95 EUR) at the following link:
 
 [![adidas Sleek W  Scarpe da Ginnastica Don](https://m.media-amazon.com/images/I/31LHlTksKgL._SL200_.jpg)](https://www.amazon.it/dp/B0813WKF3P/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.it/dp/B0813WKF3P/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B0813WKF3P/?tag=tolees00-21)

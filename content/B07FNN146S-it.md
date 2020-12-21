@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Movie 2 - Movie Maker  70820 al 69.19 % de descuento'
+title: 'Discount of 69.19 % for LEGO Movie 2 - Movie Maker  70820'
 date: 2020-08-24 16:23:53
 image: 'https://m.media-amazon.com/images/I/5101A82wpbL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '69.19'
 average: '16.94'
 ---
 
-Está [LEGO Movie 2 - Movie Maker  70820](https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21) con 69.19 de descuento por 16.94 EUR (original: 54.99 EUR) en el siguiente enlace!
+You've got [LEGO Movie 2 - Movie Maker  70820](https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21) with a  69.19 % discount, with final price of 16.94 EUR (original: 54.99 EUR) at the following link:
 
 [![LEGO Movie 2 - Movie Maker  70820](https://m.media-amazon.com/images/I/5101A82wpbL._SL200_.jpg)](https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21)

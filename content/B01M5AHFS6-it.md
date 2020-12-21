@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373 Core U  Scarpe Trainers  al 36.12 % de descuento'
+title: 'Discount of 36.12 % for New Balance 373 Core U  Scarpe Trainers '
 date: 2020-09-01 19:09:43
 image: 'https://m.media-amazon.com/images/I/41YMbNjdQJL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.12'
 average: '51.1'
 ---
 
-Está [New Balance 373 Core U  Scarpe Trainers Uomo  Nero  Black   45.5 EU](https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21) con 36.12 de descuento por 51.1 EUR (original: 80.0 EUR) en el siguiente enlace!
+You've got [New Balance 373 Core U  Scarpe Trainers Uomo  Nero  Black   45.5 EU](https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21) with a  36.12 % discount, with final price of 51.1 EUR (original: 80.0 EUR) at the following link:
 
 [![New Balance 373 Core U  Scarpe Trainers ](https://m.media-amazon.com/images/I/41YMbNjdQJL._SL200_.jpg)](https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21)
+[Check the deal!!](https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21)
