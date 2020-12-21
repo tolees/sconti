@@ -26,9 +26,9 @@ average: '2.19'
 ℹ️:
 
 - Cornetto in morbida pasta sfoglia lievitata naturalmente 18 ore con lievito madre, perché il gusto richiede tempo
-- Ricchi in fibre, preparati con 100% farina integrale e l’8% di fibre, per un mix perfetto di bontà e qualità
-- Da oggi ancora più farcitura! I cornetti al cioccolato Fibrextra di Misura nascondono un cuore dolce e ricco
 - Senza olio di palma, senza grassi idrogenati, senza coloranti: nessun segreto, solo tanta bontà
+- Da oggi ancora più farcitura! I cornetti al cioccolato Fibrextra di Misura nascondono un cuore dolce e ricco
 - Materie prime di qualità e uova fresche italiane da galline allevate a terra
+- Ricchi in fibre, preparati con 100% farina integrale e l’8% di fibre, per un mix perfetto di bontà e qualità
 
 [Acquista qui!!](https://www.amazon.it/dp/B08F9GZDRX/?tag=tolees00-21)
