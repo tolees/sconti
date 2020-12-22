@@ -26,9 +26,9 @@ average: '17.04'
 ℹ️:
 
 - Tomaia in pelle
-- Intersuola eva
-- Chiusura in pizzo
 - Archivio n 1 logo sulla lingua
 - Suola in gomma non marcata
+- Chiusura in pizzo
+- Intersuola eva
 
 [Acquista qui!!](https://www.amazon.it/dp/B07HB76SC1/?tag=tolees00-21)
