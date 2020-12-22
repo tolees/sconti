@@ -25,9 +25,9 @@ average: '79.28'
 
 ℹ️:
 
-- Spessore della cassa: 15 mm, Dimensione della cassa: 48 mm, Larghezza cinturino: 24 mm
 - Resistente allacqua: 10 ATM
-- Materiale cinturino: acciaio inossidabile in tono argento, circonferenza interna cinturino: 200 +/- 5 mm
 - Tipo di vetro: cristallo minerale con quadrante nero
+- Materiale cinturino: acciaio inossidabile in tono argento, circonferenza interna cinturino: 200 +/- 5 mm
+- Spessore della cassa: 15 mm, Dimensione della cassa: 48 mm, Larghezza cinturino: 24 mm
 
 [Acquista qui!!](https://www.amazon.it/dp/B084DGXNK3/?tag=tolees00-21)
