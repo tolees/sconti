@@ -25,8 +25,8 @@ average: '1.9320000000000002'
 
 ℹ️:
 
-- Buondì Cioccolato è il premio per aver trovato la forza di alzarti dal letto anche questa mattina, perché con quella deliziosa copertura al cacao e con quel ripieno così cremoso è impossibile non svegliarsi.
-- Soffice pasta lievitata naturalmente. Golosa crema al cioccolato e una deliziosa copertura al cacao.
 - Confezione da 6 merendine.
+- Soffice pasta lievitata naturalmente. Golosa crema al cioccolato e una deliziosa copertura al cacao.
+- Buondì Cioccolato è il premio per aver trovato la forza di alzarti dal letto anche questa mattina, perché con quella deliziosa copertura al cacao e con quel ripieno così cremoso è impossibile non svegliarsi.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00XUI1AVW/?tag=tolees00-21)

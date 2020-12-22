@@ -25,8 +25,8 @@ average: '37.7'
 
 ℹ️:
 
-- Laser chess è un gioco stem della linea di giochi educativi thinkfun e sviluppa la logica e strategia dei bambini
 - per bambini a partire dagli 8 anni
+- Laser chess è un gioco stem della linea di giochi educativi thinkfun e sviluppa la logica e strategia dei bambini
 - Dimensione confezione: 36x27x6 cm
 - Gioco di strategia per 2 giocatori
 - Colpisci il re dellavversario con il raggio laser; combina le abilità del gioco degli scacchi con il divertimento high tech dei raggi laser

@@ -25,11 +25,11 @@ average: '15.99'
 
 ℹ️:
 
+- Siero ad elevata azione antirughe, idratante e tonificante per il viso, collo e decollété
 - Riduce istantaneamente la visibilità di rughe e linee sottili per una pelle giovane e luminosa
-- Lascia la pelle liscia e setosa con un profumo delicato
+- Applicare uniformemente su viso e collo due volte al giorno prima della crema viso; per risultati ottimali utilizzare con Olaz Regenerist Crema Viso Giorno e Olaz Regenerist Crema Viso Notte
 - Rassoda ed idrata la pelle in profondità
 - Con Acido Ialuronico, Niacinamide, Pentapeptidi, vitamina B5 e vitamina E, che restitutiscono alla pelle un aspetto tonico e rigenerato fino a dieci strati
-- Siero ad elevata azione antirughe, idratante e tonificante per il viso, collo e decollété
-- Applicare uniformemente su viso e collo due volte al giorno prima della crema viso; per risultati ottimali utilizzare con Olaz Regenerist Crema Viso Giorno e Olaz Regenerist Crema Viso Notte
+- Lascia la pelle liscia e setosa con un profumo delicato
 
 [Acquista qui!!](https://www.amazon.it/dp/B00Z709GIA/?tag=tolees00-21)

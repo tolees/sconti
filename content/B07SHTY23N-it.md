@@ -25,8 +25,8 @@ average: '47.49'
 
 ℹ️:
 
-- Tomaia in pelle
-- Scarpe sportive
 - 3 strisce traforate
+- Scarpe sportive
+- Tomaia in pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B07SHTY23N/?tag=tolees00-21)

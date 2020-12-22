@@ -25,8 +25,8 @@ average: '8.02'
 
 ℹ️:
 
-- Prodotto di marca Pedro Ximenez Nectar S.
-- De alta calidad
 - Prodotto VINO PEDRO XIMENEZ.
+- De alta calidad
+- Prodotto di marca Pedro Ximenez Nectar S.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00KVGI9QA/?tag=tolees00-21)

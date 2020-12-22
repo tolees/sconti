@@ -25,8 +25,8 @@ Puoi trovare [Salvatore Ferragamo Signorina Misteriosa Profumo - 100 ml](https:/
 
 ℹ️:
 
+- Contenuto - 100 ml
 - Prodotti di salute e cura personale originali ed esclusivi
 - Marca - Salvatore Ferragamo
-- Contenuto - 100 ml
 
 [Acquista qui!!](https://www.amazon.it/dp/B01BU92XRM/?tag=tolees00-21)
