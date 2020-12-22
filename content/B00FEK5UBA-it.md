@@ -25,8 +25,8 @@ average: '25.0'
 
 ℹ️:
 
+- Serratura a cilindro con 2 chiavi incluse
 - Peso circa 7 kg
 - ISTALLAZIONE ESCLUSIVAMENTE AD INCASSO
-- Serratura a cilindro con 2 chiavi incluse
 
 [Acquista qui!!](https://www.amazon.it/dp/B00FEK5UBA/?tag=tolees00-21)
