@@ -26,10 +26,10 @@ average: '31.459454545454538'
 ℹ️:
 
 - From 8 years
+- Package Includes: Toy
 - English version
 - Choose a question from the cards or invent one at the moment
 - If you tell a lie you immediately lose a point
 - IMC Toys
-- Package Includes: Toy
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21)

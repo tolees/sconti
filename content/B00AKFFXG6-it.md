@@ -25,8 +25,8 @@ Puoi trovare [Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml
 
 ℹ️:
 
-- 75 ml
 - Donna
+- 75 ml
 - EDT
 
 [Acquista qui!!](https://www.amazon.it/dp/B00AKFFXG6/?tag=tolees00-21)

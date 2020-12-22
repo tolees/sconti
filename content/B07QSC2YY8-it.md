@@ -25,13 +25,13 @@ Puoi trovare [Tommy Hilfiger Logo Tee Maglietta  Nero  Jet Black Base   XX-Large
 
 ℹ️:
 
-- Short Sleeve
-- Machine Wash
-- 100% Cotton
-- MW0MW11465
-- Tommy Hilfiger Mens S/S T-Shirts
 - This is an original and authentic Tommy Hilfiger product
+- MW0MW11465
 - T-Shirt
+- 100% Cotton
 - Collar Style: Crew Neck
+- Machine Wash
+- Short Sleeve
+- Tommy Hilfiger Mens S/S T-Shirts
 
 [Acquista qui!!](https://www.amazon.it/dp/B07QSC2YY8/?tag=tolees00-21)

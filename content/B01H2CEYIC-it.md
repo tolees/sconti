@@ -25,10 +25,10 @@ Puoi trovare [Ensure Plus Advance Supplemento Alimentare Formato Bevanda | Confe
 
 ℹ️:
 
-- HMB contiene 1,5 g di CaHMB, Calcio beta-idrossi-betametilbutirrato monoidrato e FOS (fruttoligosaccaridi)
 - PRONTO PER LUSO,. Agitare bene. Una volta aperto conservare coperto in frigorifero e utilizzare entro 24 ore.
-- SENZA GLUTINE dose consigliata 2 bottiglie al giorno. Alimento ai fini medici speciali da usare sotto controllo medico.
 - VITAMINA D - 13µg per bottiglietta
+- SENZA GLUTINE dose consigliata 2 bottiglie al giorno. Alimento ai fini medici speciali da usare sotto controllo medico.
 - PROTEINE: 20g per bottiglietta
+- HMB contiene 1,5 g di CaHMB, Calcio beta-idrossi-betametilbutirrato monoidrato e FOS (fruttoligosaccaridi)
 
 [Acquista qui!!](https://www.amazon.it/dp/B01H2CEYIC/?tag=tolees00-21)
