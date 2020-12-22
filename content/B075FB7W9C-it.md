@@ -25,10 +25,10 @@ average: '24.99'
 
 ℹ️:
 
-- Melodia che riproduce il battito del cuore
-- Tartaruga in peluche: la corazza in plastica è un proiettore luminoso di stelle e lune
 - Sleep timer
+- Tartaruga in peluche: la corazza in plastica è un proiettore luminoso di stelle e lune
 - La tartaruga si illumina con 3 effetti luminosi cangianti: blu, verde, rosso
+- Melodia che riproduce il battito del cuore
 - 10 melodie ninna nanna selezionabili
 
 [Acquista qui!!](https://www.amazon.it/dp/B075FB7W9C/?tag=tolees00-21)
