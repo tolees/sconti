@@ -25,14 +25,14 @@ average: '43.99'
 
 ℹ️:
 
-- Regular Fit
-- Fastening: No closure
-- 100% Cotton
-- Regular
 - Graphic sport hoodie
+- Regular
+- Regular Fit
+- 100% Cotton
 - 35946
-- Collar Style: Hooded
 - Long Sleeve
+- Fastening: No closure
 - Machine Wash
+- Collar Style: Hooded
 
 [Acquista qui!!](https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21)

@@ -25,10 +25,10 @@ average: '15.16'
 
 ℹ️:
 
-- Origine: made in italy
-- Competenze sviluppate: riconoscere i numeri; confrontare le quantità; associare numeri e quantità; contare e fare le prime sequenze numeriche; sensibilità tattile
-- Contenuto: 6 cartelle della tombola; 18 tessere-numeri; 18 gettoni-quantità; 1 sacchetto in cotone organico; 1 guida didattica
-- Altri plus: metodo montessori; tessere smerigliate; sacchetto 100% cotone organico
 - Numeri e quantità in un allegro mercatino
+- Origine: made in italy
+- Contenuto: 6 cartelle della tombola; 18 tessere-numeri; 18 gettoni-quantità; 1 sacchetto in cotone organico; 1 guida didattica
+- Competenze sviluppate: riconoscere i numeri; confrontare le quantità; associare numeri e quantità; contare e fare le prime sequenze numeriche; sensibilità tattile
+- Altri plus: metodo montessori; tessere smerigliate; sacchetto 100% cotone organico
 
 [Acquista qui!!](https://www.amazon.it/dp/B075VB7FKD/?tag=tolees00-21)

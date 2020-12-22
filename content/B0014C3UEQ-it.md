@@ -25,7 +25,7 @@ average: '28.39999999999999'
 
 ℹ️:
 
-- Sole sizes are US. Label shows UK. M = Mens W = Womens
 - The Crocs shoes will display US sizes
+- Sole sizes are US. Label shows UK. M = Mens W = Womens
 
 [Acquista qui!!](https://www.amazon.it/dp/B0014C3UEQ/?tag=tolees00-21)

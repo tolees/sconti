@@ -25,11 +25,11 @@ average: '36.49'
 
 ℹ️:
 
-- Abbinalo a gioielli coordinati per un effetto amplificato
-- Decorato con una gradazione di cristalli blu incastonati con la nostra tecnica Pointiage del cristallo, aggiungerà un tocco di colore e scintillio a qualsiasi look da giorno o da sera
-- Lunghezza: 38 cm, dimensione pendente: 2x1.5 cm
-- Il nostro motivo Iconic Swan, il simbolo di Swarovski, cattura il centro della scena in questo pendente
-- I gioielli Swarovski sono sinonimo di creatività e originalità
 - Il pendente è abbinato a una catenina rodiata
+- Abbinalo a gioielli coordinati per un effetto amplificato
+- Lunghezza: 38 cm, dimensione pendente: 2x1.5 cm
+- I gioielli Swarovski sono sinonimo di creatività e originalità
+- Decorato con una gradazione di cristalli blu incastonati con la nostra tecnica Pointiage del cristallo, aggiungerà un tocco di colore e scintillio a qualsiasi look da giorno o da sera
+- Il nostro motivo Iconic Swan, il simbolo di Swarovski, cattura il centro della scena in questo pendente
 
 [Acquista qui!!](https://www.amazon.it/dp/B07TTJT97S/?tag=tolees00-21)

@@ -25,15 +25,15 @@ average: '1192.62'
 
 ℹ️:
 
-- Grandangolo da 12MP, ultra-grandangolo da 10MP, scanner LiDAR
 - Wi-Fi 6 802.11ax
-- Fotocamera anteriore TrueDepth da 7MP
-- Fino a 10 ore di autonomia
-- Compatibilità con Magic Keyboard, Smart Keyboard Folio e Apple Pencil
 - Connettore USB-C per ricarica e accessori
-- Audio a quattro altoparlanti e cinque microfoni di qualità professionale
+- Compatibilità con Magic Keyboard, Smart Keyboard Folio e Apple Pencil
+- Fotocamera anteriore TrueDepth da 7MP
 - Display Liquid Retina edge-to-edge da 11" con tecnologia ProMotion, True Tone e ampia gamma cromatica P3
 - Chip A12Z Bionic con Neural Engine
+- Fino a 10 ore di autonomia
+- Audio a quattro altoparlanti e cinque microfoni di qualità professionale
 - Face ID per l’autenticazione sicura e Apple Pay
+- Grandangolo da 12MP, ultra-grandangolo da 10MP, scanner LiDAR
 
 [Acquista qui!!](https://www.amazon.it/dp/B0863L1FCK/?tag=tolees00-21)

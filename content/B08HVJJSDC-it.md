@@ -25,9 +25,9 @@ Puoi trovare [DeFacto - Felpa da uomo slim fit cachi M](https://www.amazon.it/dp
 
 ℹ️:
 
-- DeFacto
-- Acrilico al 100%
-- Colore: cachi
 - Made in Turchia
+- DeFacto
+- Colore: cachi
+- Acrilico al 100%
 
 [Acquista qui!!](https://www.amazon.it/dp/B08HVJJSDC/?tag=tolees00-21)

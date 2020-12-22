@@ -25,9 +25,9 @@ Puoi trovare [Grandi Giochi GG01300 - Occhio al Fantasma](https://www.amazon.it/
 
 ℹ️:
 
-- Elimina il maggior numero di fantasmi e vinci il gioco
-- Gioco di azione e abilità
 - 1 o più giocatori
 - Da 5 anni in su
+- Elimina il maggior numero di fantasmi e vinci il gioco
+- Gioco di azione e abilità
 
 [Acquista qui!!](https://www.amazon.it/dp/B071GTQ8WG/?tag=tolees00-21)

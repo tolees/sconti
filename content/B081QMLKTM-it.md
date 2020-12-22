@@ -25,10 +25,10 @@ average: '30.16'
 
 ℹ️:
 
-- Altezza media con colletto imbottito.
 - Morbida schiuma+: soletta comfort Puma per un passaggio immediato e un comfort di lunga durata che offre una morbida ammortizzazione in ogni fase della giornata.
 - Tomaia in pelle premium.
-- Suola in gomma per una presa sicura.
+- Altezza media con colletto imbottito.
 - Plantare imbottito per un comfort ottimale.
+- Suola in gomma per una presa sicura.
 
 [Acquista qui!!](https://www.amazon.it/dp/B081QMLKTM/?tag=tolees00-21)
