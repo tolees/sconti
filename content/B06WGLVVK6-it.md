@@ -26,9 +26,9 @@ Puoi trovare [EZVIZ S5 Sport Action Camera 4k  16 Mp  Custodia Subacquea touch S
 ℹ️:
 
 - Fino a 1.5 ore di autonomia batteria, batteria removibile, impermeabile fino a 40 m con la custodia, modalità video fino a 4k Superview, modalità foto da 16 megapixel
-- Telecomando e custodia impermeabile inclusa
 - Modalità Burst, Time Lapse, Time Lapse Video
-- Display Touch screen, Bluetooth 4.0, obiettivo grandangolare 158°, G-Sensor per attivazione action
 - Contenuto della confezione:- Sports Camera S5
+- Display Touch screen, Bluetooth 4.0, obiettivo grandangolare 158°, G-Sensor per attivazione action
+- Telecomando e custodia impermeabile inclusa
 
 [Acquista qui!!](https://www.amazon.it/dp/B06WGLVVK6/?tag=tolees00-21)

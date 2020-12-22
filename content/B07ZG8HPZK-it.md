@@ -26,8 +26,8 @@ Puoi trovare [Kingston Canvas Select Plus SDCS2/64GBSP Scheda microSD Classe 10 
 ℹ️:
 
 - Velocità UHS-I di Classe 10 fino a 100 MB/s*
-- Resistente
-- Capacità fino a 512 GB**
 - Ottimizzata per luso con i dispositivi Android
+- Capacità fino a 512 GB**
+- Resistente
 
 [Acquista qui!!](https://www.amazon.it/dp/B07ZG8HPZK/?tag=tolees00-21)
