@@ -27,7 +27,7 @@ Puoi trovare [DeFacto - Maglietta da donna con taschino in tessuto natur L](http
 
 - DeFacto
 - Colore: ecru
-- Viscosa al 100%
 - Made in Turchia
+- Viscosa al 100%
 
 [Acquista qui!!](https://www.amazon.it/dp/B08HM6HV4C/?tag=tolees00-21)

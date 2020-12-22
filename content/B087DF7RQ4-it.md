@@ -26,7 +26,7 @@ Puoi trovare [adidas ULTIMASHOW  Scarpe da Corsa Uomo  Core Black/Core Black/Ftw
 ℹ️:
 
 - Scarpa da corsa
-- Tomaia in mesh traspirante
 - Intersuola ammortizzata
+- Tomaia in mesh traspirante
 
 [Acquista qui!!](https://www.amazon.it/dp/B087DF7RQ4/?tag=tolees00-21)
