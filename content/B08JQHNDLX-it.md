@@ -25,10 +25,10 @@ Puoi trovare [realme 7 Pro  Display Super AMOLED 6.4"  Processore Otto - Core Sn
 
 ℹ️:
 
-- Fotocamera Selfie da 32 MP in display
 - Ricarica Super Rapida da 65W (carica 100% in 34 minuti)
-- Sistema operativo: Android 10
 - Fotocamera Quadrupla SONY da 64 MP
+- Sistema operativo: Android 10
+- Fotocamera Selfie da 32 MP in display
 - Display Super Amoled da 6.4"
 
 [Acquista qui!!](https://www.amazon.it/dp/B08JQHNDLX/?tag=tolees00-21)
