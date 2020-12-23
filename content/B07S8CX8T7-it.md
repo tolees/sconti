@@ -25,7 +25,7 @@ average: '24.99'
 
 ℹ️:
 
-- Una nuova avventura galattica ti attende in Star Wars Jedi: Fallen Order, un gioco d’azione e d’avventura in 3°persona sviluppato da Respawn Entertainment
 - Perfezionando le tue abilità, ti ritroverai a combattere intensi e spettacolari duelli a colpi di spada laser e a
+- Una nuova avventura galattica ti attende in Star Wars Jedi: Fallen Order, un gioco d’azione e d’avventura in 3°persona sviluppato da Respawn Entertainment
 
 [Acquista qui!!](https://www.amazon.it/dp/B07S8CX8T7/?tag=tolees00-21)
