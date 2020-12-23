@@ -26,9 +26,9 @@ average: '52.98'
 ℹ️:
 
 - Lace Up Fastening
-- Leather and Textile Upper
 - Mens Clarks Stylish Ankle Boots Ideal For Casual Wear
 - Synthetic Sole
+- Leather and Textile Upper
 - Textile and Synthetic Lining
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MQ2J73B/?tag=tolees00-21)

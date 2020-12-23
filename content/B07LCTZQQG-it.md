@@ -25,10 +25,10 @@ average: '21.8'
 
 ℹ️:
 
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Una fragranza confortante e allo stesso tempo intrigante: I legni si uniscono all’intensità degli agrumi e alle note floreali per la perfetta vacanza sulla costa
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Una fragranza confortante e allo stesso tempo intrigante: I legni si uniscono all’intensità degli agrumi e alle note floreali per la perfetta vacanza sulla costa
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Durata della candela: da 110 a 150 ore di piacevole profumazione
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 
 [Acquista qui!!](https://www.amazon.it/dp/B07LCTZQQG/?tag=tolees00-21)

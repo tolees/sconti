@@ -25,8 +25,8 @@ average: '57.96971428571431'
 
 ℹ️:
 
+- Le superfici a contatto con le mani hanno texture con maggiore grip
 - Il touch pad è trasparente, lascia intravedere la barra luminosa
 - Compatibile con il software di sistema PS4 versione 3.5 o successiva
-- Le superfici a contatto con le mani hanno texture con maggiore grip
 
 [Acquista qui!!](https://www.amazon.it/dp/B01GVQUX3U/?tag=tolees00-21)

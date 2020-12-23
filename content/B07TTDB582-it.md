@@ -25,8 +25,8 @@ Puoi trovare [SUPERGA 2736-cotu Dbl3  Scarpe da Ginnastica Unisex-Adulto  Nero  
 
 ℹ️:
 
-- Materiale esterno: Tessuto
 - Fodera: Tessuto
 - Materiale suola: Gomma
+- Materiale esterno: Tessuto
 
 [Acquista qui!!](https://www.amazon.it/dp/B07TTDB582/?tag=tolees00-21)

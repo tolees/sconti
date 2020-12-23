@@ -25,9 +25,9 @@ Puoi trovare [DeFacto - Cardigan da donna con scollo a V blu Melange XL](https:/
 
 ℹ️:
 
-- DeFacto
 - Colour: blue melange.
 - Acrylic, 80% elastane, 7% polyester, 13%.
+- DeFacto
 - Made in Turkey.
 
 [Acquista qui!!](https://www.amazon.it/dp/B08HJ36Z2H/?tag=tolees00-21)

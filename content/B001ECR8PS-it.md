@@ -25,8 +25,8 @@ Puoi trovare [KS Tools 115.1004 Serie di Pinze Ergotorque  4 Pezzi  160-240 mm](
 
 ℹ️:
 
+- Numero di tariffa doganale 8203 2000 00
 - EAN-Code 4042146127964
 - Eclass-No. 21040301
-- Numero di tariffa doganale 8203 2000 00
 
 [Acquista qui!!](https://www.amazon.it/dp/B001ECR8PS/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Puoi trovare [Tristar Ventilatore a piantana retrò VE-5971  50 W  64.3 Decibel 
 
 ℹ️:
 
-- È in grado di oscillare di 85 gradi per raffreddare intere stanze
-- Adatto a tutti gli interni grazie al design retrò in rame
-- Potente motore da 50 watt per un flusso daria rinfrescante
-- Sicuro grazie ai piedini antiscivolo e la protezione contro il surriscaldamento
 - Tre diverse regolazioni del flusso daria per il massimo comfort
+- Adatto a tutti gli interni grazie al design retrò in rame
+- È in grado di oscillare di 85 gradi per raffreddare intere stanze
+- Sicuro grazie ai piedini antiscivolo e la protezione contro il surriscaldamento
+- Potente motore da 50 watt per un flusso daria rinfrescante
 
 [Acquista qui!!](https://www.amazon.it/dp/B01CCO130M/?tag=tolees00-21)

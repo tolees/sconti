@@ -25,10 +25,10 @@ Puoi trovare [König 1166026 Catene da Neve  Grey  XG-12 PRO 227  Set di 2](http
 
 ℹ️:
 
-- 215/70- 15, 195/75- 16 no Michelin Agilis Alpin/ no Continental Vanco2/ no Kleber Transpro, 215/60-16 Bridgestone Duravis, 215/55-17, 225/50-17
-- Omologazioni/Certificazioni/Conformità: Ö-Norm 5117, Ö-Norm 5119, UNI 11313, TÜV.
-- Bottoni in nylon di protezione per cerchi in lega (applicazione facoltativa).
-- La catena veloce da montare per SUV, garanzia di eccezionale comfort di guida e performance elevate.
 - 12 mm di ingombro.
+- Bottoni in nylon di protezione per cerchi in lega (applicazione facoltativa).
+- Omologazioni/Certificazioni/Conformità: Ö-Norm 5117, Ö-Norm 5119, UNI 11313, TÜV.
+- La catena veloce da montare per SUV, garanzia di eccezionale comfort di guida e performance elevate.
+- 215/70- 15, 195/75- 16 no Michelin Agilis Alpin/ no Continental Vanco2/ no Kleber Transpro, 215/60-16 Bridgestone Duravis, 215/55-17, 225/50-17
 
 [Acquista qui!!](https://www.amazon.it/dp/B009NPM3H6/?tag=tolees00-21)

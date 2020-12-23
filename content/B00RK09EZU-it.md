@@ -25,12 +25,12 @@ average: '14.0'
 
 ℹ️:
 
-- Accentuato profilo a doppia t, per un eccellente rapporto peso / resistenza
 - Particolarmente indicato per lutilizzo con i dispositivi di assicurazione
+- Chiusura catch-free che evita limpiglio accidentale durante luso
 - Sistema acl, che permette di fissarlo allanello di servizio dellimbracatura, stabilizzandolo e prevenendo la possibilità di carico sullasse minore
 - Moschettone hms in lega leggera forgiato a caldo con ghiera a vite, concepito per larrampicata tradizionale, sportiva e per lalpinismo in generale
-- Chiusura catch-free che evita limpiglio accidentale durante luso
-- Ampio spazio interno per lutilizzo del nodo mezzo barcaiolo e per le manovre di corda in sosta
 - Forma lavorata ed alleggerita, per una migliore impugnatura
+- Ampio spazio interno per lutilizzo del nodo mezzo barcaiolo e per le manovre di corda in sosta
+- Accentuato profilo a doppia t, per un eccellente rapporto peso / resistenza
 
 [Acquista qui!!](https://www.amazon.it/dp/B00RK09EZU/?tag=tolees00-21)

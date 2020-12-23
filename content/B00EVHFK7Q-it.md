@@ -25,10 +25,10 @@ average: '18.8'
 
 ℹ️:
 
-- Nucleo interno gelato. Manicotto esterno per prevenire il congelamento o linfreddolimento delle dita.
 - Conservare in freezer per essere sempre pronti a creare nuove granite.
-- Senza ftalati e BPA.
-- Contiene 235 ml e misura circa 15,5 cm (A) x 7,5 cm (diam.).
+- Nucleo interno gelato. Manicotto esterno per prevenire il congelamento o linfreddolimento delle dita.
 - Per ottenere risultati migliori, utilizzare bevande con abbondante zucchero naturale (se necessario aggiungere lalcol solo al termine).
+- Contiene 235 ml e misura circa 15,5 cm (A) x 7,5 cm (diam.).
+- Senza ftalati e BPA.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00EVHFK7Q/?tag=tolees00-21)

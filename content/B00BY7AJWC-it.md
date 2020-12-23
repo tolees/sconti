@@ -25,10 +25,10 @@ average: '8.15'
 
 ℹ️:
 
-- Antiossidante e idrorepellente, Svitol lubrificante forma uno strato protettivo ancorato al metallo, che arresta e previene il formarsi di ruggine e ossidi, preservando per tempo le superfici metalliche dalla corrosione, rimuove l’umidità, impedisce la dispersione di corrente, ristabilisce la conducibilità elettrica
-- Lintero prodotto è realizzato in Italia e per le sue funzioni offre performance
-- Disossidante e detergente, Svitol asporta grasso, catrame, residui di combustione, non contiene solventi clorurati e propellenti dannosi per l’ozono
-- Lubrificante e sbloccante, gli oli sintetici e additivi antiusura contenuti nel lubrificante Svitol riducono il coefficiente di attrito, conferendo al prodotto ottime proprietà antifatica e antiusura, ha una capacità imbibente che permette di penetrare nella struttura della ruggine, ammorbidendola e disgregandola grazie alla sua capillarità e bassa tensione superficiale
 - Grazie alla sua multifunzionalità, Svitol è il prodotto ottimo per diverse occasioni d’uso, dall’industria all’autoriparazione, dalla casa al giardino, dallo sport alla nautica, dal lavoro al fai da te
+- Lubrificante e sbloccante, gli oli sintetici e additivi antiusura contenuti nel lubrificante Svitol riducono il coefficiente di attrito, conferendo al prodotto ottime proprietà antifatica e antiusura, ha una capacità imbibente che permette di penetrare nella struttura della ruggine, ammorbidendola e disgregandola grazie alla sua capillarità e bassa tensione superficiale
+- Lintero prodotto è realizzato in Italia e per le sue funzioni offre performance
+- Antiossidante e idrorepellente, Svitol lubrificante forma uno strato protettivo ancorato al metallo, che arresta e previene il formarsi di ruggine e ossidi, preservando per tempo le superfici metalliche dalla corrosione, rimuove l’umidità, impedisce la dispersione di corrente, ristabilisce la conducibilità elettrica
+- Disossidante e detergente, Svitol asporta grasso, catrame, residui di combustione, non contiene solventi clorurati e propellenti dannosi per l’ozono
 
 [Acquista qui!!](https://www.amazon.it/dp/B00BY7AJWC/?tag=tolees00-21)
