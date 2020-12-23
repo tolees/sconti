@@ -26,7 +26,7 @@ average: '14.99'
 ℹ️:
 
 - Logo Tommy Hilfiger stampato sul petto
-- Uso quotidiano
 - Bandierina ricamata sul davanti
+- Uso quotidiano
 
 [Acquista qui!!](https://www.amazon.it/dp/B07N8ZDDJ1/?tag=tolees00-21)
