@@ -25,7 +25,7 @@ average: '29.99'
 
 ℹ️:
 
-- Corri di giorno e rischia tutto di notte in Need for Speed Heat.
 - Unesperienza mozzafiato che ti mette faccia a faccia con una forza di polizia corrotta, mentre gareggi per un posto d’onore nel mondo delle corse clandestine.
+- Corri di giorno e rischia tutto di notte in Need for Speed Heat.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07W8YKM1D/?tag=tolees00-21)
