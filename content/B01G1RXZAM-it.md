@@ -25,11 +25,11 @@ average: '33.99'
 
 ℹ️:
 
-- Sostenibilità: le capsule sono realizzate in materiale vegetale proveniente dalla fermentazione di vegetali; certificato da OK compost
-- Descrizione Miscela: Caffè 100% Arabica composto da origini pregiate, lavati tramite processo naturale, provenienti dalle piantagioni di altura di Africa, Centro e Sud America; tostatura: Medio
-- Capsule 100% compatibili con macchine Nespresso; il pack è certificato FSC con carta proveniente solo da fonti sostenibili e rinnovabili
-- Note Aromatiche: Prodotto caratterizzato da una desinenza di frutta secca, in particolare nocciola e mandorla, seguita da note di cacao e miele
 - Composizione Miscela: 100% Caffè Arabica lavati e naturali; livello di tostatura: Medio
+- Sostenibilità: le capsule sono realizzate in materiale vegetale proveniente dalla fermentazione di vegetali; certificato da OK compost
+- Capsule 100% compatibili con macchine Nespresso; il pack è certificato FSC con carta proveniente solo da fonti sostenibili e rinnovabili
+- Descrizione Miscela: Caffè 100% Arabica composto da origini pregiate, lavati tramite processo naturale, provenienti dalle piantagioni di altura di Africa, Centro e Sud America; tostatura: Medio
 - Prodotto: Pellini Luxury Coffee Absolute, capsule compatibili con macchine Nespresso, 12 Astucci da 10 capsule, totale 120 capsule
+- Note Aromatiche: Prodotto caratterizzato da una desinenza di frutta secca, in particolare nocciola e mandorla, seguita da note di cacao e miele
 
 [Acquista qui!!](https://www.amazon.it/dp/B01G1RXZAM/?tag=tolees00-21)

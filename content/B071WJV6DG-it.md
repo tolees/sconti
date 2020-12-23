@@ -26,9 +26,9 @@ Puoi trovare [AUKEY Luce Notturna Bambini  Lampada da Comodino Ricaricabile  Imp
 ℹ️:
 
 - LA CONFEZIONE INCLUDE: AUKEY LT-ST23 Mini Luce Notturna RGB, Cavo Micro-USB, Due Piastre Rotonde in Metallo, Moschettone, Manuale dUso, Garanzia di 24 Mesi per Sostituzine del Prodotto e Servizio Clienti Amichevole
-- DIVERSE MODALITA DIMMERABILI: può illuminare la tua camera da letto, alla sala da pranzo e lo studio, e porta i colori in casa vibrante che migliorerà il tuo umore. Basterà toccare il pannello di controllo per selezionare manualmente il colore in modalità RGB o per scalare la luminosità in modalità bianca e gialla
-- BATTERIA DI LUNGA DURATA: Usarla ininterrottamente per 5 ore alla massima luminosità. La batteria da 2200mAh ti libererà dalla presa elettrica: potrai infatti caricarla comodamente con il cavo micro-USB incluso
-- LAMPADA MULTIFUNZIONALE: è versatile e sicura da utilizzare come una lampada comodino, luce notturna e luce da esterni portatile. Questa lampada da parete mobile di controllo a tocco sarebbe un regalo perfetto per i bambini, gli amici o famigliari
 - RESISTENTE ALLA CADUTA & IMPERMEABILITA: lampada è robusta, resistente alle cadute, e versatile con un cinturino da appendere la lampada, può portarla in qualsiasi luogo, è possibile metterla su ua piastra metallica magnetica sulla parete. Grazie allimpermeabilità e resistenza alla polvere IP65, può galleggiare questa lampada sullacqua in vasca da bagno
+- BATTERIA DI LUNGA DURATA: Usarla ininterrottamente per 5 ore alla massima luminosità. La batteria da 2200mAh ti libererà dalla presa elettrica: potrai infatti caricarla comodamente con il cavo micro-USB incluso
+- DIVERSE MODALITA DIMMERABILI: può illuminare la tua camera da letto, alla sala da pranzo e lo studio, e porta i colori in casa vibrante che migliorerà il tuo umore. Basterà toccare il pannello di controllo per selezionare manualmente il colore in modalità RGB o per scalare la luminosità in modalità bianca e gialla
+- LAMPADA MULTIFUNZIONALE: è versatile e sicura da utilizzare come una lampada comodino, luce notturna e luce da esterni portatile. Questa lampada da parete mobile di controllo a tocco sarebbe un regalo perfetto per i bambini, gli amici o famigliari
 
 [Acquista qui!!](https://www.amazon.it/dp/B071WJV6DG/?tag=tolees00-21)
