@@ -25,10 +25,10 @@ average: '22.99'
 
 ℹ️:
 
-- 100% Lino Lavato (Stonewashed)
-- Molto Morbido CAELUM Federa per Guanciale in Tessuto di Puro Lino Lavato (Stonewashed)
-- Realizzato in Unione Europea
-- LINEN & COTTON LTD
 - Comprende: 1 x Federa per guanciale, dimensioni 50 x 70cm
+- Realizzato in Unione Europea
+- Molto Morbido CAELUM Federa per Guanciale in Tessuto di Puro Lino Lavato (Stonewashed)
+- 100% Lino Lavato (Stonewashed)
+- LINEN & COTTON LTD
 
 [Acquista qui!!](https://www.amazon.it/dp/B06XP51KL7/?tag=tolees00-21)
