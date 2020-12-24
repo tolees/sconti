@@ -26,9 +26,9 @@ Puoi trovare [Burton Kilo 2.0  Zaino Unisex Adulto  Barren Camo Print](https://w
 ℹ️:
 
 - La resistente struttura esterna del tessuto respinge lacqua e le più svariate condizioni invernali
-- Spallacci ergonomici con cinturino sullo sterno regolabile
 - volume: 27 litri
-- Custodia per laptop: 18in x 11in / 45cm x 27cm; Custodia per tablet: 11in x 11in / 29cm x 27cm
+- Spallacci ergonomici con cinturino sullo sterno regolabile
 - Cinghie riponibili per il trasporto tavola
+- Custodia per laptop: 18in x 11in / 45cm x 27cm; Custodia per tablet: 11in x 11in / 29cm x 27cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B08BLGWNKC/?tag=tolees00-21)
