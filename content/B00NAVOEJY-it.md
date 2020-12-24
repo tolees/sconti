@@ -25,8 +25,8 @@ Puoi trovare [Bvlgari Man in Black Eau de Parfum  Uomo  100 ml](https://www.amaz
 
 ℹ️:
 
-- 100 ml
 - Uomo
+- 100 ml
 - EDP
 
 [Acquista qui!!](https://www.amazon.it/dp/B00NAVOEJY/?tag=tolees00-21)
