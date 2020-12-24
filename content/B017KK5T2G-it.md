@@ -27,8 +27,8 @@ Puoi trovare [Kativa - Keratin Alisado Brasileño  Kit Stiratura Brasiliana - Tr
 
 - Un trattamento completo, facile e veloce per avere capelli lisci, morbidi e lucenti
 - Stira e liscia i capelli in modo veloce effetto; formula arrichita con cheratina, olio di argan biologico e componenti liscianti
-- Il set contiene: shampoo senza parabeni, solfati, sale e glutine; crema per stiratura senza formaldeide; conditioner idratante e nutriente; guanti monouso; istruzioni
 - Leffetto ha una durata di 10 settimane con trattamento costante e corretto
 - Kit stiratura capelli priva di formaldeide, sale e solfati
+- Il set contiene: shampoo senza parabeni, solfati, sale e glutine; crema per stiratura senza formaldeide; conditioner idratante e nutriente; guanti monouso; istruzioni
 
 [Acquista qui!!](https://www.amazon.it/dp/B017KK5T2G/?tag=tolees00-21)
