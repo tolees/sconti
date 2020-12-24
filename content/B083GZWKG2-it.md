@@ -25,8 +25,8 @@ Puoi trovare [Adidas FL3650 LIN WALLET Portafoglio Unisex - Adulto black/black/w
 
 ℹ️:
 
-- Portafoglio Adidas
 - Chiusura con zip
+- Portafoglio Adidas
 - Logo Adidas frontale
 
 [Acquista qui!!](https://www.amazon.it/dp/B083GZWKG2/?tag=tolees00-21)
