@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 47.14 % su LEGO Hidden Side Phantom Fire Truck 3000  '
-date: 2020-12-23 22:56:40
+date: 2020-12-24 23:06:46
 image: 'https://m.media-amazon.com/images/I/51W2UQMDnpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0813RJ9HF/?tag=tolees00-21'
 descuento: '47.14'
-average: '41.33666666666666'
+average: '41.13954545454545'
 ---
 
 [LEGO Hidden Side Phantom Fire Truck 3000  App per giochi AR  Playset Multigiocatore Interattivo a Realtà Aumentata per iPhone/Android  70436](https://www.amazon.it/dp/B0813RJ9HF/?tag=tolees00-21) ha un prezzo di 37.0 EUR (originale: 69.99 EUR) con uno sconto del 47.14 % sconto qui:
@@ -25,10 +25,10 @@ average: '41.33666666666666'
 
 ℹ️:
 
-- Il kit comprende il modello digitale interattivo del camion dei pompieri (della serie LEGO Hidden Side), con un robot meccanico trasformabile e la statuetta di Nehmaar Reem The Harbinger
-- Possibilità di esperienza multiplayer; compatibile con i dispositivo 180+ OS e Android – controlla la descrizione del prodotto per maggiori dettagli
-- I ragazzi potranno costruire il set, scansionarlo e dare la caccia ai fantasmi sui propri tablet/cellulari (non forniti in dotazione), per vivere unesperienza quantomai avvincente
-- Il veicolo LEGO si trasforma se osservato attraverso l’app LEGO AR, grazie alla quale i bambini potranno arricchire la propria collezione di fantasmi in un mondo digitale stregato
 - Insieme alle minifigure di Jack, Parker, J.B., TeeVee e Shadow-Walker, i ragazzi potranno sfidare gli amici in avventure, tra il mondo reale e le realtà digitali
+- Possibilità di esperienza multiplayer; compatibile con i dispositivo 180+ OS e Android – controlla la descrizione del prodotto per maggiori dettagli
+- Il veicolo LEGO si trasforma se osservato attraverso l’app LEGO AR, grazie alla quale i bambini potranno arricchire la propria collezione di fantasmi in un mondo digitale stregato
+- Il kit comprende il modello digitale interattivo del camion dei pompieri (della serie LEGO Hidden Side), con un robot meccanico trasformabile e la statuetta di Nehmaar Reem The Harbinger
+- I ragazzi potranno costruire il set, scansionarlo e dare la caccia ai fantasmi sui propri tablet/cellulari (non forniti in dotazione), per vivere unesperienza quantomai avvincente
 
 [Acquista qui!!](https://www.amazon.it/dp/B0813RJ9HF/?tag=tolees00-21)
