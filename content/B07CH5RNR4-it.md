@@ -25,8 +25,8 @@ Puoi trovare [The Sacrament Of Sin  Limited Edt.Cd Digibook ](https://www.amazon
 
 ℹ️:
 
-- Sacraments..
 - -Mediaboo-
+- Sacraments..
 - Powerwolf
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CH5RNR4/?tag=tolees00-21)
