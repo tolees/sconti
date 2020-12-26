@@ -25,9 +25,9 @@ average: '49.51'
 
 ℹ️:
 
-- Compatibile con funzioni plug-and-play e hot-swap
-- Retrocompatibile con dispositivi USB 2.0 e 1.x
 - Rilevamento e protezione da sovraccarichi di corrente su ogni porta USB
+- Retrocompatibile con dispositivi USB 2.0 e 1.x
+- Compatibile con funzioni plug-and-play e hot-swap
 - Compatibilità multi-piattaforma universale, non richiede l’installazione di driver
 - Sette porte USB 3.0 downstream accessibili da un lato dellhub, che supportano fino a 5 Gbps
 

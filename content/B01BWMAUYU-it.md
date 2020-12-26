@@ -25,10 +25,10 @@ average: '349.99'
 
 ℹ️:
 
-- Sensore MOS da 1 pollice
 - DMC-TZ100EGK, Pacco batteria, adattatore CA, cavo USB, cinghia a mano, adattatore a tracolla
 - Obiettivo LEICA Zoom 10x
-- Stabilizzatore Ottico di immagine HYBRID O.I.S.
+- Sensore MOS da 1 pollice
 - Funzioni 4KPhoto, 4KVideo e PostFocus
+- Stabilizzatore Ottico di immagine HYBRID O.I.S.
 
 [Acquista qui!!](https://www.amazon.it/dp/B01BWMAUYU/?tag=tolees00-21)

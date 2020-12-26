@@ -25,10 +25,10 @@ average: '37.970000000000006'
 
 ℹ️:
 
+- Staccare il Joy-Con dalla console, mano uno al vostro avversario e bam, è tempo di gioco
 - Sono inclusi rapido pareggio, il latte, concorso di mangiare, samurai di formazione, ping-pong, conte palla, crepa di sicurezza, copiare la danza e altro ancora
-- Chiunque può giocare 1-2-Switch, basta chiudere gli occhi con il tuo avversario e preparatevi a scoprire le numerose funzioni della Gioia-Con, tra cui rombo HD e sensori di movimento avanzati
 - Fronte allaltro e 1-2-Switch; guardare il vostro avversario, non lo schermo
 - Compatibile con linterruttore Nintendo unico
-- Staccare il Joy-Con dalla console, mano uno al vostro avversario e bam, è tempo di gioco
+- Chiunque può giocare 1-2-Switch, basta chiudere gli occhi con il tuo avversario e preparatevi a scoprire le numerose funzioni della Gioia-Con, tra cui rombo HD e sensori di movimento avanzati
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MY7KZUE/?tag=tolees00-21)
