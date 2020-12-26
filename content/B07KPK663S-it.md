@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko- Pop Deluxe: Game of Thrones S10:  al 46.51 % de descuento'
-date: 2020-12-19 07:38:00
+title: 'sconto del 46.51 % su Funko- Pop Deluxe: Game of Thrones S10:   '
+date: 2020-12-26 09:23:46
 image: 'https://m.media-amazon.com/images/I/41B1kv-F3PL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,15 +19,15 @@ descuento: '46.51'
 average: '21.99'
 ---
 
-Está [Funko- Pop Deluxe: Game of Thrones S10: Jon Snow Sitting on Iron Throne Figura da Collezione  Multicolore  37791](https://www.amazon.it/dp/B07KPK663S/?tag=tolees00-21) con 46.51 de descuento por 21.99 EUR (original: 41.11 EUR) en el siguiente enlace!
+[Funko- Pop Deluxe: Game of Thrones S10: Jon Snow Sitting on Iron Throne Figura da Collezione  Multicolore  37791](https://www.amazon.it/dp/B07KPK663S/?tag=tolees00-21) ha un prezzo di 21.99 EUR (originale: 41.11 EUR) con uno sconto del 46.51 % sconto qui:
 
 [![Funko- Pop Deluxe: Game of Thrones S10: ](https://m.media-amazon.com/images/I/41B1kv-F3PL._SL200_.jpg)](https://www.amazon.it/dp/B07KPK663S/?tag=tolees00-21)
 
 ℹ️:
 
-- Pop! deluxe
-- Game of thrones s10
 - Jon snow sitting on iron throne
 - Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Pop! deluxe
+- Game of thrones s10
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07KPK663S/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B07KPK663S/?tag=tolees00-21)
