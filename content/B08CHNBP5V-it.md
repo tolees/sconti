@@ -25,8 +25,8 @@ average: '599.0'
 
 ℹ️:
 
-- Pannello AI Touch
 - Ecodosatore: rilascia la giusta quantità di detergente per oltre un mese di lavaggi, eliminando gli sprechi
+- Pannello AI Touch
 - Grazie alla tecnologia Smacchia Tutto Plus le bolle penetrano nelle fibre dei tuoi capi rimuovendo anche le macchie più difficili.
 - Vapore igienizzante
 - La tecnologia Ecolavaggio garantisce un ottimo pulito, anche a basse temperature; il detergente viene trasformato in bolle che penetrano nei tessuti e rimuovono facilmente lo sporco, proteggendo colori e materiali e risparmiando energia

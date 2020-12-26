@@ -25,12 +25,12 @@ average: '224.615'
 
 ℹ️:
 
-- FARETTO INTEGRATO: un potente faretto illumina la zona di attività principale in modo da avere una visione nitida di ciò che succede, sia di giorno che di notte
 - AUDIO BIDIREZIONALE: laudio bidirezionale ti consente di ascoltare e parlare con i visitatori, per il massimo controllo della tua proprietà.
-- ANGOLO DI VISUALIZZAZIONE DI 160 GRADI: concentrati sulle parti più vulnerabili della tua proprietà con un angolo di visualizzazione ampio di 160 gradi
-- VIDEO 2K CON HDR: qualità delle immagini superiore con video 2K HDR che consente di catturare i dettagli con la massima nitidezza
 - SIRENA INTEGRATA: assumi il controllo della tua sicurezza in remoto e attiva la sirena per scoraggiare lingresso di intrusi
-- VISIONE NOTTURNA A COLORI: acquisisci informazioni importanti, anche di notte, con una visione notturna dai colori brillanti.
+- VIDEO 2K CON HDR: qualità delle immagini superiore con video 2K HDR che consente di catturare i dettagli con la massima nitidezza
+- ANGOLO DI VISUALIZZAZIONE DI 160 GRADI: concentrati sulle parti più vulnerabili della tua proprietà con un angolo di visualizzazione ampio di 160 gradi
 - SENZA FILI E RESISTENTE AGLI AGENTI ATMOSFERICI: interamente senza fili e resistente agli agenti atmosferici per una protezione immediata e affidabile
+- FARETTO INTEGRATO: un potente faretto illumina la zona di attività principale in modo da avere una visione nitida di ciò che succede, sia di giorno che di notte
+- VISIONE NOTTURNA A COLORI: acquisisci informazioni importanti, anche di notte, con una visione notturna dai colori brillanti.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07XZQWVG7/?tag=tolees00-21)

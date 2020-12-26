@@ -25,9 +25,9 @@ Puoi trovare [Kryptonite Folding Locks  Chiusura Pieghevole Kryptolok 610 Unisex
 
 ℹ️:
 
-- Includes EASY TO INSTALL TRANSPORT BRACKET
 - Includes 2 KEYS
-- 5MM HARDENED STEEL LINKS for moderate security lock ups
 - 6mmx100cm
+- 5MM HARDENED STEEL LINKS for moderate security lock ups
+- Includes EASY TO INSTALL TRANSPORT BRACKET
 
 [Acquista qui!!](https://www.amazon.it/dp/B078HLNB82/?tag=tolees00-21)
