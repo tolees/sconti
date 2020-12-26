@@ -25,8 +25,8 @@ average: '4.99'
 
 ℹ️:
 
-- Prodotto di qualità
-- Brand - Tontarelli
 - Pratico ed utile
+- Brand - Tontarelli
+- Prodotto di qualità
 
 [Acquista qui!!](https://www.amazon.it/dp/B06XG7BRPS/?tag=tolees00-21)
