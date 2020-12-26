@@ -25,8 +25,8 @@ average: '156.99'
 
 ℹ️:
 
-- Retroilluminazione display
 - Tecnologia:E Ink Carta
 - Dimensioni schermo 8 pollici
+- Retroilluminazione display
 
 [Acquista qui!!](https://www.amazon.it/dp/B07J5BXRWM/?tag=tolees00-21)

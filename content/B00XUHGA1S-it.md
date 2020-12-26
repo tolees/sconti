@@ -25,11 +25,11 @@ average: '8.9'
 
 ℹ️:
 
-- Uve: chardonnay (90%) e pinot nero (10%), proveniente dai più vocati vigneti dei 19 comuni della franciacorta
-- Colore: giallo paglierino con tenui riflessi verdolini
-- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
 - Temperatura di servizio: 6 - 8 °c
+- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
 - Denominazione varietale: Cabernet franc
+- Colore: giallo paglierino con tenui riflessi verdolini
 - Ideale all’aperitivo, adatto a tutti i tipi di antipasti e per accompagnare piatti di pesce, riso, pasta, carni bianche, pesci saporiti e formaggi freschi
+- Uve: chardonnay (90%) e pinot nero (10%), proveniente dai più vocati vigneti dei 19 comuni della franciacorta
 
 [Acquista qui!!](https://www.amazon.it/dp/B00XUHGA1S/?tag=tolees00-21)

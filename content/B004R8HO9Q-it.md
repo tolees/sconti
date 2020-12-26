@@ -25,10 +25,10 @@ average: '12.9'
 
 ℹ️:
 
-- GUSTO: ricco e complesso, un equilibrio di note di miele, frutta e vaniglia
-- ASPETTO: ambrato intenso
 - Apprezzato notevolmente per equilibrio ed eleganza
 - OLFATTO: rivela sentori di vaniglia, frutta secca e spezie dolci
+- ASPETTO: ambrato intenso
+- GUSTO: ricco e complesso, un equilibrio di note di miele, frutta e vaniglia
 - La storia di Ballantines inizia nel 1910 a Glasgow e diviene subito leggendaria Secondo scotch whisky più bevuto al mondo, è una miscela di oltre 40 malti e cereali attentamente selezionati
 
 [Acquista qui!!](https://www.amazon.it/dp/B004R8HO9Q/?tag=tolees00-21)
