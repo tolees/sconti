@@ -25,9 +25,9 @@ average: '24.99'
 
 ℹ️:
 
-- Prodotto di qualità ottimale
-- Adatto per bambini con età superiore di 12 anni
-- Gioco di società
 - Da giocare in due fino a quattro giocatori
+- Gioco di società
+- Adatto per bambini con età superiore di 12 anni
+- Prodotto di qualità ottimale
 
 [Acquista qui!!](https://www.amazon.it/dp/B007N5WZAI/?tag=tolees00-21)
