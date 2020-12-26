@@ -25,10 +25,10 @@ Puoi trovare [Western Digital My Passport Hard Disk Esterno Portatile  USB 3.0  
 
 ℹ️:
 
+- Design reinventato
+- Porta USB 3.0 (compatibile con USB 2.0)
+- Backup automatico con il software WD Backup incluso
 - Protezione con password e crittografia hardware
 - Facile da utilizzare
-- Backup automatico con il software WD Backup incluso
-- Porta USB 3.0 (compatibile con USB 2.0)
-- Design reinventato
 
 [Acquista qui!!](https://www.amazon.it/dp/B01LQQH86A/?tag=tolees00-21)
