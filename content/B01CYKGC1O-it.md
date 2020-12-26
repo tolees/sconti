@@ -25,9 +25,9 @@ average: '23.4'
 
 ℹ️:
 
-- Tasche laterali
-- Giacca con zip intera
 - 100% poliestere triacetato
+- Giacca con zip intera
+- Tasche laterali
 - Loghi Ricamati;
 
 [Acquista qui!!](https://www.amazon.it/dp/B01CYKGC1O/?tag=tolees00-21)
