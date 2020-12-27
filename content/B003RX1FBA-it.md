@@ -26,9 +26,9 @@ average: '34.0'
 ℹ️:
 
 - Vulcanized sole for extra grip
-- Comfortable
-- SPD studs connection
 - Gum rubber sole
 - Vulcanised sole for extra grip
+- SPD studs connection
+- Comfortable
 
 [Acquista qui!!](https://www.amazon.it/dp/B003RX1FBA/?tag=tolees00-21)
