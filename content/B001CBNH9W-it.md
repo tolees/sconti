@@ -26,7 +26,7 @@ average: '7.532857142857144'
 ℹ️:
 
 - Formato 75 ml
-- Pura cera dapi, lanolina ed ossido di zinco formano un naturale strato protettivo in grado di contrastare gli effetti dellumidità del pannolino sulla pelle del bebè ad ogni cambio di pannolino
 - Protegge e lenisce
+- Pura cera dapi, lanolina ed ossido di zinco formano un naturale strato protettivo in grado di contrastare gli effetti dellumidità del pannolino sulla pelle del bebè ad ogni cambio di pannolino
 
 [Acquista qui!!](https://www.amazon.it/dp/B001CBNH9W/?tag=tolees00-21)
