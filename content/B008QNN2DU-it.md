@@ -25,10 +25,10 @@ Puoi trovare [Neutrogena  Crema Comfort ad Idratazione Intensa  300 ml](https://
 
 ℹ️:
 
-- Per pelli secche e normali
+- Idrata quotidianamente la pelle e aiuta a rigenerarla già dalla 1° applicazione
+- Texture ricca e non grassa, delicatamente profumata
 - La pelle idratata intensamente è come rigenerata, giorno dopo giorno.
 - Forma un film protettivo contro la perdita d’acqua transepidermica che causa la disidratazione
-- Texture ricca e non grassa, delicatamente profumata
-- Idrata quotidianamente la pelle e aiuta a rigenerarla già dalla 1° applicazione
+- Per pelli secche e normali
 
 [Acquista qui!!](https://www.amazon.it/dp/B008QNN2DU/?tag=tolees00-21)
