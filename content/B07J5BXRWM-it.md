@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 34.31 % su Rakuten Kobo Forma Lettore e-Book Touch   '
-date: 2020-12-26 12:01:46
+date: 2020-12-27 15:41:13
 image: 'https://m.media-amazon.com/images/I/41iG5mZOtOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ average: '156.99'
 
 ℹ️:
 
+- Retroilluminazione display
 - Tecnologia:E Ink Carta
 - Dimensioni schermo 8 pollici
-- Retroilluminazione display
 
 [Acquista qui!!](https://www.amazon.it/dp/B07J5BXRWM/?tag=tolees00-21)
