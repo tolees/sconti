@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'D-Link DCS-P6000LH Mini Telecamera  Wi-F al 35.63 % de descuento'
-date: 2020-11-10 11:55:40
+title: 'sconto del 42.86 % su D-Link DCS-P6000LH Mini Telecamera HD  W  '
+date: 2020-12-27 07:50:32
 image: 'https://m.media-amazon.com/images/I/31ahCOGwA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07JGVT3ZS-it'
-actualPrice: 39.9 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 39.9
-comparePrice: 61.99 EUR
-prodname: 'D-Link DCS-P6000LH Mini Telecamera  Wi-Fi  Visualizzazione Grandangolare 120°  Streaming 720p HD  Registrazione Cloud Gratuita  Funziona con Alexa  Nero'
+price: 39.99
+comparePrice: 69.99 EUR
+prodname: 'D-Link DCS-P6000LH Mini Telecamera HD  Wi-Fi  Visualizzazione Grandangolare 120°  Streaming 720p HD  Registrazione Cloud Gratuita  Funziona con Alexa'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07JGVT3ZS/?tag=tolees00-21'
-descuento: '35.63'
+descuento: '42.86'
+average: '39.945'
 ---
 
-Está [D-Link DCS-P6000LH Mini Telecamera  Wi-Fi  Visualizzazione Grandangolare 120°  Streaming 720p HD  Registrazione Cloud Gratuita  Funziona con Alexa  Nero](https://www.amazon.it/dp/B07JGVT3ZS/?tag=tolees00-21) con 35.63 de descuento por 39.9 EUR (original: 61.99 EUR) en el siguiente enlace!
+[D-Link DCS-P6000LH Mini Telecamera HD  Wi-Fi  Visualizzazione Grandangolare 120°  Streaming 720p HD  Registrazione Cloud Gratuita  Funziona con Alexa](https://www.amazon.it/dp/B07JGVT3ZS/?tag=tolees00-21) ha un prezzo di 39.99 EUR (originale: 69.99 EUR) con uno sconto del 42.86 % sconto qui:
 
-[![D-Link DCS-P6000LH Mini Telecamera  Wi-F](https://m.media-amazon.com/images/I/31ahCOGwA9L._SL200_.jpg)](https://www.amazon.it/dp/B07JGVT3ZS/?tag=tolees00-21)
+[![D-Link DCS-P6000LH Mini Telecamera HD  W](https://m.media-amazon.com/images/I/31ahCOGwA9L._SL200_.jpg)](https://www.amazon.it/dp/B07JGVT3ZS/?tag=tolees00-21)
 
 ℹ️:
 
+- Alta 9.2 cm e larga 3.5 cm; ampia visuale grazie alla lente grandangolare 120°
+- Funziona con Amazon Echo e IFTTT
+- Registrazione su Cloud gratuita con la nuova app mydlink
+- Videocamera con dimensioni compatte e impostazioni semplici
+- Streaming 720p HD di alta qualità, visione notturna integrata, rilevazione di movimento e rumori con avviso di notifica push istantaneo
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07JGVT3ZS/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B07JGVT3ZS/?tag=tolees00-21)
