@@ -25,8 +25,8 @@ average: '31.402'
 
 ℹ️:
 
-- Marca: Stefanplast
-- Casa, arredamento e bricolage
 - Dimensioni: 80x39x37 cm
+- Casa, arredamento e bricolage
+- Marca: Stefanplast
 
 [Acquista qui!!](https://www.amazon.it/dp/B01E6CR3QQ/?tag=tolees00-21)

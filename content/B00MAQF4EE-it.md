@@ -25,10 +25,10 @@ Puoi trovare [Fujifilm Instax Mini Film  40 Scatti  Multi Pack](https://www.ama
 
 ℹ️:
 
-- Adatto per Instax Mini 8, Mini 90 Neo Classic, Mini 70, Hello Kitty, stampante SP-2.
-- Packaging may vary
+- Dimensioni pellicola: 54 x 86 mm.
 - Dimensioni foto: 46 x 62 mm.
 - Contenuto della confezione: Fujifilm Instax 4 x 10 film Mini.
-- Dimensioni pellicola: 54 x 86 mm.
+- Packaging may vary
+- Adatto per Instax Mini 8, Mini 90 Neo Classic, Mini 70, Hello Kitty, stampante SP-2.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00MAQF4EE/?tag=tolees00-21)

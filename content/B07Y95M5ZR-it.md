@@ -26,8 +26,8 @@ average: '54.67'
 ℹ️:
 
 - The track set is designed for the ultimate crashing and racing action with a tower for storing 20+ cars that rises 32 in / 83 cm high!
-- The Sky Crash Tower has a motorized booster for awesome action, stands more than 2.5 feet tall, and folds up easily to take on the go (instructions included)
 - Boost cars up to the sky for outrageous jumps that hone skills with looping orange track and epic mid-air crashing stunts
+- The Sky Crash Tower has a motorized booster for awesome action, stands more than 2.5 feet tall, and folds up easily to take on the go (instructions included)
 - Comes with one Hot Wheels vehicle. Great gift idea for kids 5 to 10 years and older
 - With the Hot Wheels Sky Crash Tower, kids can race multiple cars at the same time and add more and more vehicles for sky-high crashes
 

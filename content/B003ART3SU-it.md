@@ -25,10 +25,10 @@ average: '52.5'
 
 ℹ️:
 
-- Tipo della suola: piatta
 - suola realizzata nel tipico materiale Birkenstock
-- Sandali in pelle e materiale sintetico
+- Tipo della suola: piatta
 - Calzata: normale
+- Sandali in pelle e materiale sintetico
 - Altezza suolo :1 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B003ART3SU/?tag=tolees00-21)

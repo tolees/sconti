@@ -25,10 +25,10 @@ Puoi trovare [Lupex Shop CS 2000 imp maxy Telo coprisella Impermeabile  Nero](ht
 
 ℹ️:
 
-- Taglia Maxi (115x50cm) cilindrata 300cc - 500cc
-- Con cuciture termo-sigillate
-- Coprisella impermeabile adattabile a selle grandi
-- Dotato di bordi elasticizzati lungo il perimetro
 - Stile: Taglio universale
+- Dotato di bordi elasticizzati lungo il perimetro
+- Coprisella impermeabile adattabile a selle grandi
+- Con cuciture termo-sigillate
+- Taglia Maxi (115x50cm) cilindrata 300cc - 500cc
 
 [Acquista qui!!](https://www.amazon.it/dp/B00X9MLSN4/?tag=tolees00-21)

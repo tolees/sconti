@@ -26,8 +26,8 @@ average: '19.43'
 ℹ️:
 
 - Multistrato di betulla e MDF, legno colorato e decorato
-- Dimensioni: 20 x 20 x 36 cm
 - Stimola lattività di selezione e calcolo
+- Dimensioni: 20 x 20 x 36 cm
 - Giocattolo con 5 mattoncini di forme diverse
 - Attenzione: non adatto ai bambini al di sotto dei 36 mesi
 
