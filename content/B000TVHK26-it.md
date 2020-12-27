@@ -25,8 +25,8 @@ Puoi trovare [Jack Daniel s Tennessee Whiskey 70 cl](https://www.amazon.it/dp/B0
 
 ℹ️:
 
+- Gusto: note di banana matura e frutta secca seguite da richiami di vaniglia, cacao, liquirizia e pan di zenzero. La ruvidità è accompagnata da note pepate, speziate e sentori erbacei.
 - Olfatto: ingresso di quercia tostata, vaniglia, prugna secca, uva passa, caramello e nocciola lasciano il posto a note floreali di hibiscus, banana matura, albicocca e mandorla.
 - Vista: colore ambrato e deciso.
-- Gusto: note di banana matura e frutta secca seguite da richiami di vaniglia, cacao, liquirizia e pan di zenzero. La ruvidità è accompagnata da note pepate, speziate e sentori erbacei.
 
 [Acquista qui!!](https://www.amazon.it/dp/B000TVHK26/?tag=tolees00-21)

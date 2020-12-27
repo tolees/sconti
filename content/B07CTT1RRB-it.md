@@ -25,10 +25,10 @@ average: '22.53'
 
 ℹ️:
 
-- ORGANICS by Red Bull sono certificate come biologiche.
 - Estratti vegetali accuratamente selezionati, caffeina naturale e succo concentrato di limone da agricoltura biologica per creare un gusto inconfondibile, non troppo dolce.
 - ORGANICS by Red Bull Simply Cola 250ml, cartone da 24 lattine
 - ORGANICS by Red Bull Simply Cola è una bevanda effervescente con caffeina, ma non un energy drink.
 - Bevande biologiche prodotte con ingredienti di origine naturale.
+- ORGANICS by Red Bull sono certificate come biologiche.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CTT1RRB/?tag=tolees00-21)
