@@ -26,7 +26,7 @@ average: '23.656666666666666'
 ℹ️:
 
 - Bandierina Tommy Jeans ricamata sul petto
-- Cuciture morbide
 - Nastro iconico allinterno del collo
+- Cuciture morbide
 
 [Acquista qui!!](https://www.amazon.it/dp/B07771GVSZ/?tag=tolees00-21)

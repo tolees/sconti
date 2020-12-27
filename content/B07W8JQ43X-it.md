@@ -25,9 +25,9 @@ average: '16.170919540229885'
 
 ℹ️:
 
-- Funko POP is the 2018 Toy of the Year and Peoples Choice award winner
-- From Devil Wears Prada, Miranda Priestly, as a stylized POP vinyl from Funko
-- Check out the other Devil Wears Prada figures from Funko and collect them all
 - Figure stands 9.5cm and comes in a window display box
+- Check out the other Devil Wears Prada figures from Funko and collect them all
+- From Devil Wears Prada, Miranda Priestly, as a stylized POP vinyl from Funko
+- Funko POP is the 2018 Toy of the Year and Peoples Choice award winner
 
 [Acquista qui!!](https://www.amazon.it/dp/B07W8JQ43X/?tag=tolees00-21)

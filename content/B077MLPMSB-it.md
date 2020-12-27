@@ -25,9 +25,9 @@ average: '34.49000000000001'
 
 ℹ️:
 
-- AgeGroup: Adults
 - ArticleType: Low Boot
 - MidSole: Rubber
+- AgeGroup: Adults
 - BusinessUnit: Athletic / Sport Leisure
 - ActivityGroup: Basics
 
