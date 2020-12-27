@@ -25,10 +25,10 @@ average: '39.945'
 
 ℹ️:
 
-- Alta 9.2 cm e larga 3.5 cm; ampia visuale grazie alla lente grandangolare 120°
-- Streaming 720p HD di alta qualità, visione notturna integrata, rilevazione di movimento e rumori con avviso di notifica push istantaneo
 - Videocamera con dimensioni compatte e impostazioni semplici
-- Registrazione su Cloud gratuita con la nuova app mydlink
+- Streaming 720p HD di alta qualità, visione notturna integrata, rilevazione di movimento e rumori con avviso di notifica push istantaneo
 - Funziona con Amazon Echo e IFTTT
+- Registrazione su Cloud gratuita con la nuova app mydlink
+- Alta 9.2 cm e larga 3.5 cm; ampia visuale grazie alla lente grandangolare 120°
 
 [Acquista qui!!](https://www.amazon.it/dp/B07JGVT3ZS/?tag=tolees00-21)
