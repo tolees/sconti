@@ -25,10 +25,10 @@ Puoi trovare [Geo TZZ0933 Terradisiena Germogliatore In Terracotta](https://www.
 
 ℹ️:
 
+- Made in Italy!
 - Terracotta fatta in Toscana!
 - Doppia regolazione del flusso daria!
-- Incluse facili istruzioni!
 - Funzione Day & Night!
-- Made in Italy!
+- Incluse facili istruzioni!
 
 [Acquista qui!!](https://www.amazon.it/dp/B000LQYZRC/?tag=tolees00-21)

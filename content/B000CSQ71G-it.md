@@ -25,10 +25,10 @@ average: '19.43'
 
 ℹ️:
 
-- Stimola lattività di selezione e calcolo
-- Attenzione: non adatto ai bambini al di sotto dei 36 mesi
-- Giocattolo con 5 mattoncini di forme diverse
 - Multistrato di betulla e MDF, legno colorato e decorato
 - Dimensioni: 20 x 20 x 36 cm
+- Stimola lattività di selezione e calcolo
+- Giocattolo con 5 mattoncini di forme diverse
+- Attenzione: non adatto ai bambini al di sotto dei 36 mesi
 
 [Acquista qui!!](https://www.amazon.it/dp/B000CSQ71G/?tag=tolees00-21)
