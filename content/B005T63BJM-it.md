@@ -25,8 +25,8 @@ average: '37.08'
 
 ℹ️:
 
-- diffusore di calore omogenea per prestazioni più alte
 - 8GB (1x8GB) DDR3 per AMD e processori Intel Dual, Funziona in modalità Single Channel
+- diffusore di calore omogenea per prestazioni più alte
 - 10-10-10-27 latenza
 - 1600MHz
 
