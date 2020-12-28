@@ -25,10 +25,10 @@ Puoi trovare [Goodthreads High-Rise Skinny Jeans  Storm Blue Wash  30 Short](htt
 
 ℹ️:
 
-- Goodthreads è la missione di creare incredibili vestiti a prezzi accessibili. Il nostro abbigliamento da donna offre il perfetto equilibrio tra stile femminile e tomboy, radicato in denim e tutto ciò che si indossa: camicia lavata, maglioni accoglienti e magliette perfettamente rotte.
-- Cavallo: corto – 68,6 cm, regolare – 73,7 cm, lungo – 78,7 cm.
 - Realizzata in denim di alta qualità con incredibile tenuta per migliorare la silhouette naturale del corpo, creando allo stesso tempo un look più sottile e più aerodinamico. Anche dopo un uso ripetuto, questo denim rimane fedele alla forma originale.
-- Questo classico jeans a cinque tasche ha una vita alta 10 5/8" e un moderno skinny-fit
 - Il modello è lungo 150 cm e indossa la taglia 25.
+- Goodthreads è la missione di creare incredibili vestiti a prezzi accessibili. Il nostro abbigliamento da donna offre il perfetto equilibrio tra stile femminile e tomboy, radicato in denim e tutto ciò che si indossa: camicia lavata, maglioni accoglienti e magliette perfettamente rotte.
+- Questo classico jeans a cinque tasche ha una vita alta 10 5/8" e un moderno skinny-fit
+- Cavallo: corto – 68,6 cm, regolare – 73,7 cm, lungo – 78,7 cm.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07PJ488GT/?tag=tolees00-21)

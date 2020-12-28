@@ -25,8 +25,8 @@ average: '19.1'
 
 ℹ️:
 
-- Battente e leva della lama completamente sostituibili
-- Manico inferiore scorrevole
 - Diametro di taglio fino a 25 mm Ø
+- Manico inferiore scorrevole
+- Battente e leva della lama completamente sostituibili
 
 [Acquista qui!!](https://www.amazon.it/dp/B006PG75WE/?tag=tolees00-21)
