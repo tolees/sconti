@@ -25,8 +25,8 @@ Puoi trovare [adidas Puremotion Men  Scarpe da Corsa Uomo  Dove Grey/Ftwr White/
 
 ℹ️:
 
-- Scarpe da corsa
 - Ammortizzazione morbida
 - Tomaia in mesh traspirante
+- Scarpe da corsa
 
 [Acquista qui!!](https://www.amazon.it/dp/B089QPQC8S/?tag=tolees00-21)
