@@ -26,9 +26,9 @@ Puoi trovare [Samsung Memorie MB-MC64GA EVO Plus Scheda microSD da 64 GB  UHS-I 
 ℹ️:
 
 - Ottimo per cellulari, smartphone, tablet Android, tablet PC e molto altro
+- Velocità di lettura 100 MB/s con interfaccia UHS-I; le performance possono variare in base alla capacità
 - Incluso adattatore SD per fotocamere, laptop e computer
 - Interfaccia UHS-I grado 3
 - 4 livelli di protezione: impermeabile, resistente alla temperatura, ai raggi X e a campi magnetici
-- Velocità di lettura 100 MB/s con interfaccia UHS-I; le performance possono variare in base alla capacità
 
 [Acquista qui!!](https://www.amazon.it/dp/B06XFWPXYD/?tag=tolees00-21)

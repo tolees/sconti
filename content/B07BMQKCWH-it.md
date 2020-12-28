@@ -25,10 +25,10 @@ average: '75.9'
 
 ℹ️:
 
-- 64 capsule Lavazza crema e gusto intensità 12 incluse nella confezione
-- Il design di Jolie - la più piccola e silenziosa di casa Lavazza A Modo Mio - è tutto italiano
-- Allegra e colorata, si adatta perfettamente a ogni stile, regalando un tocco di vivacità all’arredamento e piacere intenso e profondo al palato
-- Spegnimento automatico: in soli 9 minuti
 - Pulizia veloce con i componenti rimovibili lavabili in lavastoviglie
+- 64 capsule Lavazza crema e gusto intensità 12 incluse nella confezione
+- Spegnimento automatico: in soli 9 minuti
+- Allegra e colorata, si adatta perfettamente a ogni stile, regalando un tocco di vivacità all’arredamento e piacere intenso e profondo al palato
+- Il design di Jolie - la più piccola e silenziosa di casa Lavazza A Modo Mio - è tutto italiano
 
 [Acquista qui!!](https://www.amazon.it/dp/B07BMQKCWH/?tag=tolees00-21)
