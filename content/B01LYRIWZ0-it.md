@@ -27,8 +27,8 @@ Puoi trovare [Playmobil Ghostbusters 9220 - Ghostbusters Ecto-1  dai 4 anni](htt
 
 - Removable roof, accessible boot, two figures, four holders for equipment, ghost trap and much more, can be combined with the Ghostbusters Firehouse (9219 sold separately)
 - Playset for children aged 6 +, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
-- Contents: 1 x PLAYMOBIL Ghostbusters Ecto-1, 79-piece playset with instructions: 1 Ghostbusters Ecto-1, two figures, 76 accessories (3 x AAA batteries not included), Material: plastic, L x W x H: 33 x 12.5 x 13 cm, 9220
 - Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
+- Contents: 1 x PLAYMOBIL Ghostbusters Ecto-1, 79-piece playset with instructions: 1 Ghostbusters Ecto-1, two figures, 76 accessories (3 x AAA batteries not included), Material: plastic, L x W x H: 33 x 12.5 x 13 cm, 9220
 - Fun for little ghost hunters: PLAYMOBIL Ghostbusters Ecto-1 with cool light and sound effects for four ghost hunter characters and their equipment
 
 [Acquista qui!!](https://www.amazon.it/dp/B01LYRIWZ0/?tag=tolees00-21)

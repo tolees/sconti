@@ -25,10 +25,10 @@ average: '28.70222222222222'
 
 ℹ️:
 
-- Tipo di tacco: senza tacco
-- Fodera: senza fodera
 - Materiale suola: schiuma
 - Tipo di chiusura: cinturino
 - Materiale esterno: schiuma
+- Tipo di tacco: senza tacco
+- Fodera: senza fodera
 
 [Acquista qui!!](https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21)

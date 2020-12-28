@@ -26,10 +26,10 @@ Puoi trovare [Logitech G920 Driving Force Racing Wheel Volante da Corsa  Pedali 
 ℹ️:
 
 - Progettato Per Lunghe Distanze: Logitech G920 è confortevole e durevole grazie allacciaio ‎inossidabile e alla vera pelle cucita a mano
-- A Tutto Gas con Massimo Controllo: Volante Logitech progettato senza compromessi per assicurare lesperienza di guida ottima; sterza silenziosamente e dolcemente con la ‎tecnologia Force Feedback
 - Esperienza di Gioco Immersiva: Ottima per Gaming Xbox e PC, Driving Force simula la ‎sensazione di guidare unauto reale con sterzo di precisione e pedali sensibili alla pressione
 - Passa a una Marcia Superirore: Il cambio a H a sei velocità con leva corta e retromarcia a ‎pressione verso il basso permette di cambiare le marce in modo rapido e preciso
-- Pedali a Pavimento Regolabili: Guida dinamica, controllo totale ‎grazie a pedali separati con acceleratore, freno e frizione integrati. Ritorno ‎di forza a 2 motori, percepisci ogni cambio di terreno
 - Rotazione di 900°: La rotazione da una ruota allaltra della forza motrice per poter ‎girare la ruota 2 volte e mezzo, mano nella mano su curve larghe proprio come ‎una vera ‎auto da corsa Ferrari F1
+- Pedali a Pavimento Regolabili: Guida dinamica, controllo totale ‎grazie a pedali separati con acceleratore, freno e frizione integrati. Ritorno ‎di forza a 2 motori, percepisci ogni cambio di terreno
+- A Tutto Gas con Massimo Controllo: Volante Logitech progettato senza compromessi per assicurare lesperienza di guida ottima; sterza silenziosamente e dolcemente con la ‎tecnologia Force Feedback
 
 [Acquista qui!!](https://www.amazon.it/dp/B011N78DMA/?tag=tolees00-21)

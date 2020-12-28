@@ -25,7 +25,7 @@ Puoi trovare [Giochi Uniti- Exit: OMICIDIO SULL ORIENTE Express Excape Room  Mul
 
 ℹ️:
 
-- Versione Italiana
 - Ottava uscita della serie EXIT, i celebri "escape room" targati Kosmos che questa volta prevedono anche la risoluzione di celebre omicidio
+- Versione Italiana
 
 [Acquista qui!!](https://www.amazon.it/dp/B07H8TKV4J/?tag=tolees00-21)

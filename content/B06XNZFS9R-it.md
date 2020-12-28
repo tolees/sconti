@@ -26,7 +26,7 @@ average: '23.784700000000004'
 ℹ️:
 
 - Age: 4 years and over
-- Dimensions : 20 x 5.5 x 17 cm
 - Package includes: 1 x Dad figure, 1 x Mum figure, 1 x Boy figure and 1 x Girl figure
+- Dimensions : 20 x 5.5 x 17 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B06XNZFS9R/?tag=tolees00-21)
