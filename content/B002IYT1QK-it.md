@@ -25,9 +25,9 @@ average: '14.411630901287547'
 
 ℹ️:
 
-- Non macchia il foglio
-- Adatto per tutti i modelli Pentel Energel ricaricabili
 - Scrittura ultrascorrevole e massima precisione nel tratto
+- Adatto per tutti i modelli Pentel Energel ricaricabili
+- Non macchia il foglio
 - Ricarica per roller Pentel Energel punta 0,7 mm
 - Inchiostro a rapida asciugatura, adatto anche per i mancini
 

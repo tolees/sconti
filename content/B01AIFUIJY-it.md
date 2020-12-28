@@ -26,9 +26,9 @@ average: '28.260494505494503'
 ℹ️:
 
 - This toy comes with a Pinypon figure and a little cat
-- Minimum age: 4 years
-- Many accessories are included, such as a stethoscope, wheelchair, X-ray scanner that emits light
 - Discover the new veterinary ambulance to rescue all animals in the city
+- Many accessories are included, such as a stethoscope, wheelchair, X-ray scanner that emits light
 - The ambulance equipped with its light gyrobeacon opens and turns into a radiology cabinet
+- Minimum age: 4 years
 
 [Acquista qui!!](https://www.amazon.it/dp/B01AIFUIJY/?tag=tolees00-21)

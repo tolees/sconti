@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 37.97 % su MyHeritage DNA - Kit per il test del DNA  '
-date: 2020-08-19 06:00:34
+date: 2020-12-28 11:06:32
 image: 'https://m.media-amazon.com/images/I/41wQVyj6niL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,10 @@ average: '49.0'
 
 ℹ️:
 
+- Utilizza i più alti standard tecnologici e misure di privacy, il tutto a un prezzo accessibile. Sei lunico proprietario dei tuoi dati e tutte le tue informazioni sono crittografate
+- Sfrutta al massimo i risultati del tuo DNA combinandoli con un abbonamento MyHeritage. Accedi alle funzionalità avanzate del DNA, costruisci il tuo albero genealogico e cerca miliardi di record storici per scoprire la tua storia familiare unica
+- Ottieni una dettagliata analisi etnica da 42 regioni in tutto il mondo e individuate le vostre origini tra oltre 2100 regioni geografiche, rivelando i percorsi dai tuoi antenati per generazioni. I risultati vengono consegnati attraverso unesperienza divertente e animata
+- Un enorme database globale consente di abbinare i parenti di tutto il mondo in base al tuo DNA. MyHeritage è il servizio #1 per la corrispondenza del DNA europeo
+- Scopri le tue origini etniche e trova nuovi parenti con un semplice test del DNA tramite un tampone da passare sulla superficie interna della guancia. Ci vogliono solo 2 minuti e riceverai i risultati in 3-4 settimane
 
 [Acquista qui!!](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21)
