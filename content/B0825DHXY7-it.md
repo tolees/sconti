@@ -25,11 +25,11 @@ average: '18.1'
 
 ℹ️:
 
-- Inclinazione verticale e oscillazione laterale automatica per distribuire uniformemente laria
-- Ampia e stabile base dappoggio 60 cm
-- Funzione timer
 - Piantana con altezza regolabile da 102 cm a 125 cm
-- Facile montaggio dal design elegante e moderno
 - 3 velocità selezionabili tramite il comodo telecomando e il display led sul corpo del prodotto
+- Facile montaggio dal design elegante e moderno
+- Ampia e stabile base dappoggio 60 cm
+- Inclinazione verticale e oscillazione laterale automatica per distribuire uniformemente laria
+- Funzione timer
 
 [Acquista qui!!](https://www.amazon.it/dp/B0825DHXY7/?tag=tolees00-21)

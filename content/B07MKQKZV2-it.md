@@ -26,9 +26,9 @@ Puoi trovare [GEKER Manometro Pressione Gomme Manometro Digitale Precisa Pistola
 ℹ️:
 
 - 【RISPARMIO DI BATTERIA E GARANZIA GEKER】 Si accende automaticamente e si spegne automaticamente dopo 15 secondi di inattività per prolungare la durata della batteria.Geker la garanzia di 12 mesi e rimborso entro 30 giorni. Qualsiasi problema incontri durante l’uso, non esita a contattarci, siamo sempre a Sua disposizione! Per la vostra soddisfazione è il nostro obiettivo!
+- 【4 UNITÀ DI MISURA】Questo manometro pressione gomme con 4 unità di misura: Psi, Bar, kg / cm², Kpa, basta premere il pulsante di modifica per cambiare lunità. Intervallo di misurazione preciso: 0-100PSI, 0-7KG / cm2,0-7BAR, 0-700KPA
+- 【FUNZIONE DEI PULSANTI 】Premendo metà viene sgonfiato, premendo completamente è gonfiato ，quando non si preme, puoi misurare la pressione del pneumatico，è molto comodo da usare
 - 【 FACILE DA USARE E MULTIUSO】è un manometro per monitorare accuratamente la pressione del pneumatico; Inoltre è un gonfiatore di pneumatico per gonfiare i pneumatici quando si collega un compressore daria (assicurarsi che il compressore daria possa funzionare con il raccordo rapido connettore rapido da 1/4 "NPT)
 - 【SCHERMO LCD DIGITALE】 Il Manometro Digitale un schermo LCD di alta qualità,puoi leggere i dati chiaro anche se in notte
-- 【FUNZIONE DEI PULSANTI 】Premendo metà viene sgonfiato, premendo completamente è gonfiato ，quando non si preme, puoi misurare la pressione del pneumatico，è molto comodo da usare
-- 【4 UNITÀ DI MISURA】Questo manometro pressione gomme con 4 unità di misura: Psi, Bar, kg / cm², Kpa, basta premere il pulsante di modifica per cambiare lunità. Intervallo di misurazione preciso: 0-100PSI, 0-7KG / cm2,0-7BAR, 0-700KPA
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MKQKZV2/?tag=tolees00-21)

@@ -26,7 +26,7 @@ Puoi trovare [adidas X Ghosted.3 Fg  Scarpe da Calcio Man  Core Black/Core Black
 ℹ️:
 
 - Vestibilità senza lacci
-- Materiali ultraleggeri
 - Scarpe da calcio
+- Materiali ultraleggeri
 
 [Acquista qui!!](https://www.amazon.it/dp/B08CBNHPW8/?tag=tolees00-21)

@@ -25,8 +25,8 @@ average: '24.99'
 
 ℹ️:
 
-- Scarpe da calcio
-- Vestibilità senza lacci
 - Materiali ultraleggeri
+- Vestibilità senza lacci
+- Scarpe da calcio
 
 [Acquista qui!!](https://www.amazon.it/dp/B089PR3D7H/?tag=tolees00-21)
