@@ -26,7 +26,7 @@ Puoi trovare [Kipling DELIA COMPACT  BACKPACKS Donna  Dynamic Silver  13x18x23.5
 ℹ️:
 
 - femmina
-- Classic
 - Packags
+- Classic
 
 [Acquista qui!!](https://www.amazon.it/dp/B083YD2D6H/?tag=tolees00-21)

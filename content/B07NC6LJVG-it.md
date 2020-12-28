@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'The Sims 4 - Standard | Codice Origin pe al 75.02 % de descuento'
-date: 2020-12-01 15:32:53
+title: 'The Sims 4 - Standard | Codice Origin pe al 75.02 % di sconto'
+date: 2020-12-28 09:42:25
 image: 'https://m.media-amazon.com/images/I/517XhdfWw9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,15 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NC6LJVG/?tag=tolees00-21'
 descuento: '75.02'
+average: '9.99'
 ---
 
-Está [The Sims 4 - Standard | Codice Origin per PC](https://www.amazon.it/dp/B07NC6LJVG/?tag=tolees00-21) con 75.02 de descuento por 9.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Puoi trovare [The Sims 4 - Standard | Codice Origin per PC](https://www.amazon.it/dp/B07NC6LJVG/?tag=tolees00-21) con il prezzo 9.99 EUR (originale: 39.99 EUR) 75.02 % sconto qui:
 
 [![The Sims 4 - Standard | Codice Origin pe](https://m.media-amazon.com/images/I/517XhdfWw9L._SL200_.jpg)](https://www.amazon.it/dp/B07NC6LJVG/?tag=tolees00-21)
 
 ℹ️:
 
+- Crea una varietà di Sims unici dagli aspetti distinti, dalle personalità spiccate e capaci di nuove emozioni.
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07NC6LJVG/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B07NC6LJVG/?tag=tolees00-21)

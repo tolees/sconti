@@ -25,7 +25,7 @@ Puoi trovare [Iris & Lilly Canotta Termica Extra Calore a Manica Lunga Donna  Pa
 
 ℹ️:
 
-- Ideale per mantenere la temperatura corporea costante
 - Tessuto Heatgen
+- Ideale per mantenere la temperatura corporea costante
 
 [Acquista qui!!](https://www.amazon.it/dp/B088SKXJ8K/?tag=tolees00-21)
