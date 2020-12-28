@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Calvin Klein Damen Bustier Bralette Lift al 33.36 % di sconto'
-date: 2020-12-23 09:04:40
+title: 'Calvin Klein Damen Bustier Bralette Lift al 30.02 % di sconto'
+date: 2020-12-28 03:58:27
 image: 'https://m.media-amazon.com/images/I/51zK-KD2s0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01GILX4XO-it'
-actualPrice: 27.99 EUR
+actualPrice: 29.39 EUR
 currency: EUR
-price: 27.99
+price: 29.39
 comparePrice: 42.0 EUR
 prodname: 'Calvin Klein Damen Bustier Bralette Lift  Grau  Grey Heather 020   M'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01GILX4XO/?tag=tolees00-21'
-descuento: '33.36'
-average: '29.11'
+descuento: '30.02'
+average: '29.135454545454547'
 ---
 
-Puoi trovare [Calvin Klein Damen Bustier Bralette Lift  Grau  Grey Heather 020   M](https://www.amazon.it/dp/B01GILX4XO/?tag=tolees00-21) con il prezzo 27.99 EUR (originale: 42.0 EUR) 33.36 % sconto qui:
+Puoi trovare [Calvin Klein Damen Bustier Bralette Lift  Grau  Grey Heather 020   M](https://www.amazon.it/dp/B01GILX4XO/?tag=tolees00-21) con il prezzo 29.39 EUR (originale: 42.0 EUR) 30.02 % sconto qui:
 
 [![Calvin Klein Damen Bustier Bralette Lift](https://m.media-amazon.com/images/I/51zK-KD2s0L._SL200_.jpg)](https://www.amazon.it/dp/B01GILX4XO/?tag=tolees00-21)
 

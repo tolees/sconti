@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 24.84 % su Playfun - Macchina delle Bugie  96967  '
-date: 2020-12-22 08:32:04
+title: 'sconto del 24.84 % su Fun Play - Macchina delle Bugie  96967  '
+date: 2020-12-28 03:53:27
 image: 'https://m.media-amazon.com/images/I/51XYVlCtfhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -11,25 +11,25 @@ actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
 comparePrice: 39.9 EUR
-prodname: 'Playfun - Macchina delle Bugie  96967'
+prodname: 'Fun Play - Macchina delle Bugie  96967'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21'
 descuento: '24.84'
-average: '31.459454545454538'
+average: '31.4078947368421'
 ---
 
-[Playfun - Macchina delle Bugie  96967](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 39.9 EUR) con uno sconto del 24.84 % sconto qui:
+[Fun Play - Macchina delle Bugie  96967](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 39.9 EUR) con uno sconto del 24.84 % sconto qui:
 
-[![Playfun - Macchina delle Bugie  96967](https://m.media-amazon.com/images/I/51XYVlCtfhL._SL200_.jpg)](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21)
+[![Fun Play - Macchina delle Bugie  96967](https://m.media-amazon.com/images/I/51XYVlCtfhL._SL200_.jpg)](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21)
 
 ℹ️:
 
+- La confezione comprende: giocattolo
+- Se dici una bugia perdi immediatamente un punto
+- Da 8 anni
+- Scegli una domanda dalle carte o inventane una al momento
+- Versione in italiano
 - IMC Toys
-- If you tell a lie you immediately lose a point
-- Package Includes: Toy
-- Choose a question from the cards or invent one at the moment
-- English version
-- From 8 years
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21)
