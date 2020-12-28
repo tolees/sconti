@@ -25,7 +25,7 @@ average: '27.99'
 
 ℹ️:
 
-- Lungo cappotto di mezze stagioni.
 - Cappotto di lana con cappuccio.
+- Lungo cappotto di mezze stagioni.
 
 [Acquista qui!!](https://www.amazon.it/dp/B08B61VPZ1/?tag=tolees00-21)
