@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 32.32 % su Levi s Batwing Hoodie  cappuccio Donna    '
-date: 2020-12-22 08:28:00
+date: 2020-12-28 04:00:06
 image: 'https://m.media-amazon.com/images/I/4109KA344QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,14 +25,10 @@ average: '43.99'
 
 ℹ️:
 
-- Graphic sport hoodie
-- Regular
-- Regular Fit
-- 100% Cotton
-- 35946
-- Long Sleeve
-- Fastening: No closure
-- Machine Wash
-- Collar Style: Hooded
+- Tasca a marsupio
+- Orli a coste
+- Levis logo sul petto
+- Stile sportivo e comfort casual
+- Cappuccio con coulisse
 
 [Acquista qui!!](https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21)

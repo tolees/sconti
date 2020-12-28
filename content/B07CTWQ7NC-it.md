@@ -25,11 +25,11 @@ average: '31.4078947368421'
 
 ℹ️:
 
-- La confezione comprende: giocattolo
-- Se dici una bugia perdi immediatamente un punto
 - Da 8 anni
 - Scegli una domanda dalle carte o inventane una al momento
-- Versione in italiano
+- Se dici una bugia perdi immediatamente un punto
 - IMC Toys
+- Versione in italiano
+- La confezione comprende: giocattolo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21)

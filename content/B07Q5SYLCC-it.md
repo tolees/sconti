@@ -25,10 +25,10 @@ average: '10.564166666666663'
 
 ℹ️:
 
-- Facile da programmare (guida veloce inclusa nella confezione)
-- Comanda fino ad 8 apparecchi in 1; è garantita la compatibilità con 80000 apparecchi di 1500 marche diverse
 - Assistenza tecnica telefonica 100% italiana - specializzata nei telecomandi
 - Tutte le funzioni originali a infrarossi disponibili
+- Facile da programmare (guida veloce inclusa nella confezione)
+- Comanda fino ad 8 apparecchi in 1; è garantita la compatibilità con 80000 apparecchi di 1500 marche diverse
 - Supporto web completo (programma di ricerca codici, videoguide, istruzioni complete) consultabile da PC smartphone e tablet su cme.it
 
 [Acquista qui!!](https://www.amazon.it/dp/B07Q5SYLCC/?tag=tolees00-21)

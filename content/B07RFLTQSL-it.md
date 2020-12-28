@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Samsung Galaxy A20e Smartphone  Display  al 24.37 % de descuento'
-date: 2020-12-20 07:42:12
+title: 'sconto del 25.31 % su Samsung Galaxy A20e Smartphone  Display   '
+date: 2020-12-28 04:15:56
 image: 'https://m.media-amazon.com/images/I/31-ygXWwIcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07RFLTQSL-it'
-actualPrice: 128.5 EUR
+actualPrice: 126.9 EUR
 currency: EUR
-price: 128.5
+price: 126.9
 comparePrice: 169.9 EUR
 prodname: 'Samsung Galaxy A20e Smartphone  Display 5.8" HD+  32 GB Espandibili  RAM 3 GB  Batteria 3000 mAh  4G  Dual SIM  Android 9 Pie  [Versione Italiana]  Black'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07RFLTQSL/?tag=tolees00-21'
-descuento: '24.37'
-average: '132.5670588235294'
+descuento: '25.31'
+average: '132.48492753623188'
 ---
 
-Está [Samsung Galaxy A20e Smartphone  Display 5.8" HD+  32 GB Espandibili  RAM 3 GB  Batteria 3000 mAh  4G  Dual SIM  Android 9 Pie  [Versione Italiana]  Black](https://www.amazon.it/dp/B07RFLTQSL/?tag=tolees00-21) con 24.37 de descuento por 128.5 EUR (original: 169.9 EUR) en el siguiente enlace!
+[Samsung Galaxy A20e Smartphone  Display 5.8" HD+  32 GB Espandibili  RAM 3 GB  Batteria 3000 mAh  4G  Dual SIM  Android 9 Pie  [Versione Italiana]  Black](https://www.amazon.it/dp/B07RFLTQSL/?tag=tolees00-21) ha un prezzo di 126.9 EUR (originale: 169.9 EUR) con uno sconto del 25.31 % sconto qui:
 
 [![Samsung Galaxy A20e Smartphone  Display ](https://m.media-amazon.com/images/I/31-ygXWwIcL._SL200_.jpg)](https://www.amazon.it/dp/B07RFLTQSL/?tag=tolees00-21)
 
 ℹ️:
 
-- PLS TFT capacitive touchscreen, 16M colors, 5.8 inches, 82.6 cm2 (~80.4% screen-to-body ratio), 720 x 1560 pixels, 19.5:9 ratio (~296 ppi density)
-- 32 GB, 3 GB RAM
-- Android 9.0 (Pie); One UI, Octa-core (2x1.6 GHz & 6x1.35 GHz)
+- Prova un’esperienza di visione completamente immersiva con il display Infinity-V da 5.8” di Galaxy A20e
+- Galaxy A20e supporta la tecnologia di ricarica rapida da 15 W che riporta il tuo smartphone al 100 % in un lampo
+- Cattura foto ricche di dettagli con la doppia fotocamera posteriore di Galaxy A20e e immortala panorami più ampi grazie alla lente ultra-grandangolare
+- Proteggi i tuoi contenuti più preziosi con il lettore d’impronte digitali che offre uno sblocco rapido e sicuro
+- Per poter utilizzare uno smartphone [Versione Italiana] in un paese extra-europeo è necessario prima effettuare almeno 5 minuti di chiamate con una sim Europea
+- Galaxy A20e è dotato di una memoria interna da 32 GB, espandibile tramite microSD fino a 512 GB, per fornirti tutto lo spazio di cui hai bisogno
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07RFLTQSL/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B07RFLTQSL/?tag=tolees00-21)
