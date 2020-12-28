@@ -25,7 +25,7 @@ average: '40.49'
 
 ℹ️:
 
-- Fabbricazione Di Bella
 - Classico Diesel Di Mohawk Branding
+- Fabbricazione Di Bella
 
 [Acquista qui!!](https://www.amazon.it/dp/B01HZ25RIA/?tag=tolees00-21)

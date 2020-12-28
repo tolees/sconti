@@ -25,7 +25,7 @@ Puoi trovare [Diesel Umlt-Brandon-Z Maglietta a Maniche Lunghe  Nero  Black 900 
 
 ℹ️:
 
-- Classico Diesel Di Mohawk Branding
 - Fabbricazione Di Bella
+- Classico Diesel Di Mohawk Branding
 
 [Acquista qui!!](https://www.amazon.it/dp/B01HZ25Q0E/?tag=tolees00-21)

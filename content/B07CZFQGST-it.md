@@ -25,10 +25,10 @@ average: '110.98'
 
 ℹ️:
 
-- Regolazione: Inclinazione da -5 a +25°
 - Tecnologia: AMD FreeSync - Tempo di risposta: 5 ms da grigio a grigio (con overdrive)
-- Schermo: Display 21.5” FHD 1920 x 1080 a 60 Hz, IPS con retroilluminazione LED, Antiriflesso, Borderless
 - Connessioni: VGA e HDMI
 - Contenuto confezione: Monitor; Cavo di alimentazione CA; documentazione; cavo HDMI; scheda di garanzia; guida allinstallazione; adattatore di alimentazione
+- Schermo: Display 21.5” FHD 1920 x 1080 a 60 Hz, IPS con retroilluminazione LED, Antiriflesso, Borderless
+- Regolazione: Inclinazione da -5 a +25°
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CZFQGST/?tag=tolees00-21)

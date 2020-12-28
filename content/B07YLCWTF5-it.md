@@ -25,7 +25,7 @@ average: '13.88'
 
 ℹ️:
 
-- proximal shaping
 - elegant male shirt
+- proximal shaping
 
 [Acquista qui!!](https://www.amazon.it/dp/B07YLCWTF5/?tag=tolees00-21)
