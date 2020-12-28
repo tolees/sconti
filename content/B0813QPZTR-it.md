@@ -25,11 +25,11 @@ average: '21.99'
 
 ℹ️:
 
-- Non richiede batterie. Alimentato dalle vivide immaginazioni dei bambini
-- I bambini adoreranno lanciare i fantastici elicotteri dotati di ripcord
 - Include le Instructions PLUS fornite nell’app LEGO Building Instructions
+- Non richiede batterie. Alimentato dalle vivide immaginazioni dei bambini
 - I playset LEGO City Aeroporto stimolano il gioco di ruolo, la fantasia e la creatività
 - Gara aerea con elicotteri volanti, un aereo acrobatico e divertenti piloti
 - Introduci i bambini nel mondo di LEGO City con il playset della Sfida aerea
+- I bambini adoreranno lanciare i fantastici elicotteri dotati di ripcord
 
 [Acquista qui!!](https://www.amazon.it/dp/B0813QPZTR/?tag=tolees00-21)
