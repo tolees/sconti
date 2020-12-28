@@ -25,10 +25,10 @@ average: '101.16'
 
 ℹ️:
 
-- 100% nuovi stampi - Alta Fedeltà nei dettagli - Tettuccio aperto o chiuso - Sportelli apribili - Cofano anteriore e posteriore apribili
-- Tipo: Auto depoca e moderne / Periodo: dagli anni 50 / Nazione: Italia
 - Skill: 5
-- Ruote sterzanti -Sospensioni funzionanti - Pneumatici in gomma - Parti cromate - fotoincisione
+- Tipo: Auto depoca e moderne / Periodo: dagli anni 50 / Nazione: Italia
+- 100% nuovi stampi - Alta Fedeltà nei dettagli - Tettuccio aperto o chiuso - Sportelli apribili - Cofano anteriore e posteriore apribili
 - Dimensione modello: 25 cm / Dimensione box: 56 x 28 x 11.5 cm
+- Ruote sterzanti -Sospensioni funzionanti - Pneumatici in gomma - Parti cromate - fotoincisione
 
 [Acquista qui!!](https://www.amazon.it/dp/B077DB3ZVD/?tag=tolees00-21)
