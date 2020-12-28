@@ -25,7 +25,7 @@ Puoi trovare [Desigual Accessories PU Hand Bag  Borsa a Mano. Donna  Nero  U](ht
 
 ℹ️:
 
-- nero
 - Desigual; Accessories; Back; Handbag; Black
+- nero
 
 [Acquista qui!!](https://www.amazon.it/dp/B083YH2YTS/?tag=tolees00-21)

@@ -27,8 +27,8 @@ average: '148.9'
 
 - Ingressi audio digitale (ottico), analogico (3,5 mm) e diretto a sei canali (scheda audio pc); cavi in dotazione; adatto a pc, laptop e console
 - Potente set altoparlanti 5.1 con potenza di picco 180 w (90 w rms); ingresso suono dolby digital (ottico s dif) per la migliore esperienza in assoluto di suono surround
-- Modalità predefinite per lilluminazione: 7 colori fissi sincronizzati sui bassi, rgb effetto breathing, rgb rotanti e rgb sincronizzati sui bassi
 - Per provare lesperienza del suono surround di un home theatre 5.1 mentre si gioca, si ascolta musica e si guardano film; in dotazione telecomando wireless per alimentazione, volume, controllo di bassi e illuminazione
+- Modalità predefinite per lilluminazione: 7 colori fissi sincronizzati sui bassi, rgb effetto breathing, rgb rotanti e rgb sincronizzati sui bassi
 - Gestione intelligente dellenergia: quando non viene utilizzato, passa in stand-by
 
 [Acquista qui!!](https://www.amazon.it/dp/B07XRGPD3K/?tag=tolees00-21)

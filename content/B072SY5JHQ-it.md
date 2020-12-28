@@ -25,10 +25,10 @@ average: '49.0'
 
 ℹ️:
 
-- Scopri le tue origini etniche e trova nuovi parenti con un semplice test del DNA tramite un tampone da passare sulla superficie interna della guancia. Ci vogliono solo 2 minuti e riceverai i risultati in 3-4 settimane
-- Sfrutta al massimo i risultati del tuo DNA combinandoli con un abbonamento MyHeritage. Accedi alle funzionalità avanzate del DNA, costruisci il tuo albero genealogico e cerca miliardi di record storici per scoprire la tua storia familiare unica
-- Ottieni una dettagliata analisi etnica da 42 regioni in tutto il mondo e individuate le vostre origini tra oltre 2100 regioni geografiche, rivelando i percorsi dai tuoi antenati per generazioni. I risultati vengono consegnati attraverso unesperienza divertente e animata
-- Utilizza i più alti standard tecnologici e misure di privacy, il tutto a un prezzo accessibile. Sei lunico proprietario dei tuoi dati e tutte le tue informazioni sono crittografate
 - Un enorme database globale consente di abbinare i parenti di tutto il mondo in base al tuo DNA. MyHeritage è il servizio #1 per la corrispondenza del DNA europeo
+- Scopri le tue origini etniche e trova nuovi parenti con un semplice test del DNA tramite un tampone da passare sulla superficie interna della guancia. Ci vogliono solo 2 minuti e riceverai i risultati in 3-4 settimane
+- Ottieni una dettagliata analisi etnica da 42 regioni in tutto il mondo e individuate le vostre origini tra oltre 2100 regioni geografiche, rivelando i percorsi dai tuoi antenati per generazioni. I risultati vengono consegnati attraverso unesperienza divertente e animata
+- Sfrutta al massimo i risultati del tuo DNA combinandoli con un abbonamento MyHeritage. Accedi alle funzionalità avanzate del DNA, costruisci il tuo albero genealogico e cerca miliardi di record storici per scoprire la tua storia familiare unica
+- Utilizza i più alti standard tecnologici e misure di privacy, il tutto a un prezzo accessibile. Sei lunico proprietario dei tuoi dati e tutte le tue informazioni sono crittografate
 
 [Acquista qui!!](https://www.amazon.it/dp/B072SY5JHQ/?tag=tolees00-21)
