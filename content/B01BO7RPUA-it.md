@@ -25,8 +25,8 @@ average: '40.3'
 
 ℹ️:
 
-- 4 ampi porta materiali e due sedi per moschettone porta-materiale (truck) o porta-martello ( hammer lodge);  2 porta-materiali piccoli per il posizionamento degli accessori
 - Imbracatura polivalente, sviluppata per lalpinismo e larrampicata su ghiaccio
+- 4 ampi porta materiali e due sedi per moschettone porta-materiale (truck) o porta-martello ( hammer lodge);  2 porta-materiali piccoli per il posizionamento degli accessori
 - Interni in mesh traspirante ad asciugatura veloce; 4 fibbie di regolazione per un maggiore adattamento al corpo
 
 [Acquista qui!!](https://www.amazon.it/dp/B01BO7RPUA/?tag=tolees00-21)
