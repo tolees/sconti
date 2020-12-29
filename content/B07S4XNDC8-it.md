@@ -27,7 +27,7 @@ Puoi trovare [New Balance 373 Core  Sneaker Uomo  Rosso  Red/White Cd2 ](https:/
 
 - Intersuola e tallone in schiuma EVA (acetato di etilene) per ammortizzare
 - Morbido supporto sotto i piedi
-- Suola in gomma
 - Tomaia in pelle
+- Suola in gomma
 
 [Acquista qui!!](https://www.amazon.it/dp/B07S4XNDC8/?tag=tolees00-21)
