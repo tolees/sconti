@@ -25,12 +25,12 @@ Puoi trovare [Pantene Pro-V Spuma Ricci Perfetti 3 x 200 ml  Tenuta di Livello 5
 
 ℹ️:
 
-- Tenuta 24H
 - Spuma Pantene Pro-V con formula ottima per ricci
+- Livello di tenuta 05/05
+- Tenuta 24H
+- Aiuta a proteggere i ricci dalleffetto crespo per tutto il giorno
 - Dura tutto il giorno
 - Trasforma onde senza forma in ricci definiti e morbidi
-- Livello di tenuta 05/05
 - Lascia i tuoi capelli luminosi
-- Aiuta a proteggere i ricci dalleffetto crespo per tutto il giorno
 
 [Acquista qui!!](https://www.amazon.it/dp/B08K9F6PTX/?tag=tolees00-21)

@@ -25,8 +25,8 @@ average: '1.3800000000000001'
 
 ℹ️:
 
-- Offerta 3 saponette + 1 gratis
-- pH neutro sulla pelle
 - Produttore: Manetti & Roberts
+- pH neutro sulla pelle
+- Offerta 3 saponette + 1 gratis
 
 [Acquista qui!!](https://www.amazon.it/dp/B00BEJI1RA/?tag=tolees00-21)

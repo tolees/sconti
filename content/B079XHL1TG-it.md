@@ -26,9 +26,9 @@ average: '2.94'
 ℹ️:
 
 - Aiuta a rimuovere le macchie superficiali
-- Il sapore di menta lascia una sensazione di pulizia e freschezza della bocca
-- Il dentifricio Colgate Tripla Azione contiene fluoro che aiuta a proteggere dalla carie
 - Protezione carie, denti bianchi e alito fresco
 - Proteggi il tuo sorriso con Colgate
+- Il sapore di menta lascia una sensazione di pulizia e freschezza della bocca
+- Il dentifricio Colgate Tripla Azione contiene fluoro che aiuta a proteggere dalla carie
 
 [Acquista qui!!](https://www.amazon.it/dp/B079XHL1TG/?tag=tolees00-21)
