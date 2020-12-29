@@ -25,10 +25,10 @@ Puoi trovare [Stanley FMHT0-33864 Flessometro Magnetico  5m](https://www.amazon.
 
 ℹ️:
 
-- Rivestimento del nastro in Mylar. I primi 10 cm del nastro sono ulteriormente rivestiti con la pellicola Blade Armor.
-- Sistema brevettato del magnete.
-- Cassa ridotta, ergopnomica in bicomponente antiscivolo.
 - Larghezza nastro 32mm.
 - Nastro ad alta visibilità, rimane rigido fino a m 3,4.
+- Cassa ridotta, ergopnomica in bicomponente antiscivolo.
+- Sistema brevettato del magnete.
+- Rivestimento del nastro in Mylar. I primi 10 cm del nastro sono ulteriormente rivestiti con la pellicola Blade Armor.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00BPBS438/?tag=tolees00-21)

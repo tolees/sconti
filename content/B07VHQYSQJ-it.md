@@ -25,10 +25,10 @@ average: '34.95'
 
 ℹ️:
 
-- Materiale: 50% COTONE,50% MODAL
 - Designer: DESIGUAL
-- Stagione: Primavera/Estate
-- Articolo: 20SWTK70
 - Colore: BIANCO 1000
+- Articolo: 20SWTK70
+- Stagione: Primavera/Estate
+- Materiale: 50% COTONE,50% MODAL
 
 [Acquista qui!!](https://www.amazon.it/dp/B07VHQYSQJ/?tag=tolees00-21)

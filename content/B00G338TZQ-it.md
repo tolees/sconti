@@ -25,9 +25,9 @@ Puoi trovare [Emporio Armani - Slip  Uomo  Blu  Marine/Gris   XL](https://www.am
 
 ℹ️:
 
-- Soft stretch cotton fabrication for comfort
-- Classic color combination
-- Classic Emporio Armani logo waistband
 - Contains two pairs of underwear
+- Classic color combination
+- Soft stretch cotton fabrication for comfort
+- Classic Emporio Armani logo waistband
 
 [Acquista qui!!](https://www.amazon.it/dp/B00G338TZQ/?tag=tolees00-21)
