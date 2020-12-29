@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 38.85 % su Sony HT-S350 Soundbar 2.1 Canali con Sub  '
-date: 2020-12-28 04:24:38
+date: 2020-12-29 05:02:04
 image: 'https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21'
 descuento: '38.85'
-average: '162.61523809523808'
+average: '162.45090909090908'
 ---
 
 [Sony HT-S350 Soundbar 2.1 Canali con Subwoofer Wireless  Bluetooth  Nero](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21) ha un prezzo di 159.0 EUR (originale: 260.0 EUR) con uno sconto del 38.85 % sconto qui:
@@ -25,11 +25,8 @@ average: '162.61523809523808'
 
 ℹ️:
 
-- Potenza totale di 320 W e profondo suono surround, forti bassi grazie al suo subwoofer wireless
-- Terminale di uscita e ingresso: USB tipo A solo per aggiornamenti; Bluetooth RX ricevitore; versione 5 Bluetooth
-- Audio surround avvolgente dai dettagli accurati grazie alle esclusive tencologie Sony S-Force PRO Front Surround e 5.1ch Decode
-- Ascolto della musica immediato tramite il tuo device mobile via Bluetooth
-- Si collega in un batter docchio a una serie di televisori; design elegante che si abbina con qualsiasi stile di aredamento; la barra puó essere montata direttamente sulla parete
-- Scopri un sound coinvolgente con S-Force PRO Front Surround
+- Rich, powerful audio Enhance your listening experience with the Sony HT-S350 2.1 Wireless Sound Bar. Delivering crisp and clear audio, dialogue enhancement technology ensures that youll hear every word, even over explosive action. Get rumbling lows and thundering bass from the subwoofer for a cinema experience in your own living room. And because its wireless, you can position it in a place that suits you with no cables to trip over.
+- Let the sound encompass you Feel like youre in the centre of the action and experience immersive virtual surround sound. Featuring S-Force PRO Front Surround technology, hear sound all around you without the need for additional speakers.
+- Stream straight from your phone With Bluetooth you can wirelessly stream music, podcasts and radio from your smartphone or tablet. Simply pair your device with the Sony HT-S350 and connect with apps like Spotify or Deezer. Select the next song to keep the party going without getting up from the sofa.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21)

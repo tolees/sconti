@@ -25,9 +25,9 @@ average: '37.7490909090909'
 
 ℹ️:
 
-- Prestazioni ottime
 - Integra le avanzate tecnologie NAND TLC 3D
 - Disponibile in un’ampia gamma di capacità
+- Prestazioni ottime
 - Supporto completo per le suite di sicurezza (TCG Opal, AES 256-bit, eDrive)
 
 [Acquista qui!!](https://www.amazon.it/dp/B07ZDBZDR9/?tag=tolees00-21)

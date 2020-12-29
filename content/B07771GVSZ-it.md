@@ -25,8 +25,8 @@ average: '23.615'
 
 ℹ️:
 
-- Nastro iconico allinterno del collo
 - Bandierina Tommy Jeans ricamata sul petto
 - Cuciture morbide
+- Nastro iconico allinterno del collo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07771GVSZ/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 28.58 % su Cuffie Bluetooth Soundcore Life P2  auri  '
-date: 2020-12-23 13:30:36
+date: 2020-12-29 05:03:41
 image: 'https://m.media-amazon.com/images/I/31I04g6j5GL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ average: '49.99'
 
 ℹ️:
 
-- IMPERMEABILITÀ IPX7 TOTALE: l’involucro completamente impermeabile ti permette di continuare la conversazione e l’esecuzione della musica, anche se vieni colto di sorpresa da un acquazzone.
-- SUONO INCREDIBILE: I driver oscillano con estrema precisione per offrire uno spettro sonoro più ampio. I bassi sono ulteriormente potenziati fino al 43% grazie all’esclusiva tecnologia proprietaria BassUp.
-- CHIAMATE DAL SUONO CRISTALLINO: i quattro microfoni caratterizzati dalla nuova tecnologia di riduzione del rumore cVc 8.0 enfatizzano la voce, riducendo al contempo i rumori di fondo.
-- FINO A 40 ORE DI RIPRODUZIONE: una sola ricarica ti assicura 7 ore intere di ascolto, ulteriormente estensibili a 40 ore utilizzando l’apposita custodia di ricarica. Ricarica gli auricolari per 10 minuti e ascolta la musica per un’ora.
-- ASSOCIAZIONE IN UN SOLO PASSAGGIO: la tecnologia PUSH AND GO semplifica il processo di configurazione in modo che alla rimozione degli auricolari wireless dalla custodia di ricarica, questi si colleghino automaticamente all’ultimo dispositivo associato.
+- IPX7 Waterproof: Life P2 wireless earbuds boast IPX7-rated protection that defends against liquids in any weather conditions.
+- One-Step Pairing: Our proprietary PUSH AND GO technology streamlines the setup process so when you remove the wireless earbuds from the charging case, theyâ€ll automatically connect to the last paired device.
+- 40-Hour Playtime with Fast Charge: A single charge gives you a full 7 hours of listening, while the charging case extends that to 40 hours. When youâ€re in a rush and need power fast, simply charge for 10 minutes and get up to 1 hour of playtime.
+- Incredible Sound Powered By Graphene Drivers: Delivers music with a wider soundstage and exceptional accuracy and clarity. BassUp technology enhances bass by up to 43% and aptX audio offers lossless transmission between your device and the wireless earbuds.
+- Perfect for Home Offices: Each earbud has two microphones with beamforming noise reduction and cVc 8.0 technology for superior vocal enhancement and background-noise suppression.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07SJR6HL3/?tag=tolees00-21)

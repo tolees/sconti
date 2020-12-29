@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 27.49 % su Buffalo London 1339-14 2.0 V  Scarpe da   '
-date: 2020-12-28 04:02:35
+date: 2020-12-29 05:11:04
 image: 'https://m.media-amazon.com/images/I/41uDvZ7EFTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MXKDR5S/?tag=tolees00-21'
 descuento: '27.49'
-average: '98.07033333333334'
+average: '98.7390625'
 ---
 
 [Buffalo London 1339-14 2.0 V  Scarpe da Ginnastica Donna  Nero  40 EU](https://www.amazon.it/dp/B07MXKDR5S/?tag=tolees00-21) ha un prezzo di 108.77 EUR (originale: 150.0 EUR) con uno sconto del 27.49 % sconto qui:

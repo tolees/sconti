@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'sconto del 49.16 % su Kingston A2000  SA2000M8/500G  NVMe PCIe  '
-date: 2020-12-28 03:53:49
+title: 'sconto del 46.39 % su Kingston A2000  SA2000M8/500G  NVMe PCIe  '
+date: 2020-12-29 05:04:22
 image: 'https://m.media-amazon.com/images/I/41zd6P+MlLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07VXCFNVS-it'
-actualPrice: 59.99 EUR
+actualPrice: 63.25 EUR
 currency: EUR
-price: 59.99
+price: 63.25
 comparePrice: 117.99 EUR
 prodname: 'Kingston A2000  SA2000M8/500G  NVMe PCIe SSD 500G  500 GB'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21'
-descuento: '49.16'
-average: '57.99875'
+descuento: '46.39'
+average: '58.24880952380952'
 ---
 
-[Kingston A2000  SA2000M8/500G  NVMe PCIe SSD 500G  500 GB](https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21) ha un prezzo di 59.99 EUR (originale: 117.99 EUR) con uno sconto del 49.16 % sconto qui:
+[Kingston A2000  SA2000M8/500G  NVMe PCIe SSD 500G  500 GB](https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21) ha un prezzo di 63.25 EUR (originale: 117.99 EUR) con uno sconto del 46.39 % sconto qui:
 
 [![Kingston A2000  SA2000M8/500G  NVMe PCIe](https://m.media-amazon.com/images/I/41zd6P+MlLL._SL200_.jpg)](https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21)
 
@@ -27,7 +27,7 @@ average: '57.99875'
 
 - Supporto completo per le suite di sicurezza (tcg opal, xts-aes 256-bit, edrive)
 - Ideale per dispositivi ultrabook e per sistemi pc sff (small form factor)
-- Prestazioni pcie nvme a una frazione del costo
 - Opzioni di upgrade fino a 1tb
+- Prestazioni pcie nvme a una frazione del costo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21)

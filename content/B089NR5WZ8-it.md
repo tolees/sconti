@@ -25,11 +25,11 @@ Puoi trovare [Xiaomi Mi Monopattino Elettrico Essential  20 Km di Autonomia  Vel
 
 ℹ️:
 
-- Peso: 12 kg; peso massimo supportato: 100 kg
 - Velocità massima: ca. 25 km/h; sofisticato sistema di controllo della velocità di crociera e recupero dell’energia cinetica (KERS)
-- Display integrato per un comodo e veloce monitoraggio con velocità/batteria/km/modalità
-- Temperatura di funzionamento: da -10° C a 40° C
 - Durata della batteria: fino a 20 km
+- Display integrato per un comodo e veloce monitoraggio con velocità/batteria/km/modalità
+- Peso: 12 kg; peso massimo supportato: 100 kg
+- Temperatura di funzionamento: da -10° C a 40° C
 - Pneumatici antislittamento e ammortizzanti da 8.5 pollici; doppio sistema frenante
 
 [Acquista qui!!](https://www.amazon.it/dp/B089NR5WZ8/?tag=tolees00-21)

@@ -25,9 +25,9 @@ average: '16.154204545454547'
 
 ℹ️:
 
-- Check out the other Devil Wears Prada figures from Funko and collect them all
-- Figure stands 9.5cm and comes in a window display box
 - From Devil Wears Prada, Miranda Priestly, as a stylized POP vinyl from Funko
+- Figure stands 9.5cm and comes in a window display box
 - Funko POP is the 2018 Toy of the Year and Peoples Choice award winner
+- Check out the other Devil Wears Prada figures from Funko and collect them all
 
 [Acquista qui!!](https://www.amazon.it/dp/B07W8JQ43X/?tag=tolees00-21)

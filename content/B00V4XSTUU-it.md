@@ -25,12 +25,12 @@ Puoi trovare [Scholl Gel Activ Work Solette da Lavoro per Uomo   40-46.5 EU  1 P
 
 ℹ️:
 
-- Gel Activ Scholl work insoles are designed to follow the anatomical shape of the foot and adapt better to the footbed of mens shoes
-- With GelActiv technology they ensure arch support, absorb and cushion daily shocks due to impact with surfaces
-- These gel insoles are designed for those who work and need constant and lasting support throughout the day
-- These gel insoles are compatible with all types of shoes: for work, accident prevention, sports, but also everyday shoes
-- Scholl insoles are made for tired feet. Suitable for casual shoes, sneakers or used for walking or for daily activities
-- Scholl gel insoles are strong and resistant and increase the comfort of those who work for many hours standing wearing heavy shoes
 - These gel insoles are available in 2 colors: yellow or orange. Color or pattern cannot be chosen
+- These gel insoles are designed for those who work and need constant and lasting support throughout the day
+- Scholl gel insoles are strong and resistant and increase the comfort of those who work for many hours standing wearing heavy shoes
+- Gel Activ Scholl work insoles are designed to follow the anatomical shape of the foot and adapt better to the footbed of mens shoes
+- These gel insoles are compatible with all types of shoes: for work, accident prevention, sports, but also everyday shoes
+- With GelActiv technology they ensure arch support, absorb and cushion daily shocks due to impact with surfaces
+- Scholl insoles are made for tired feet. Suitable for casual shoes, sneakers or used for walking or for daily activities
 
 [Acquista qui!!](https://www.amazon.it/dp/B00V4XSTUU/?tag=tolees00-21)

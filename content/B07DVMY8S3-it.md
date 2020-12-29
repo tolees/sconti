@@ -26,8 +26,8 @@ average: '116.66342857142861'
 ℹ️:
 
 - Suitable for: climbing and mountain hiking
-- Hiking shoe category: A approach/approach
 - Attention size selection: please pay attention to our size chart and instructions to choose the right shoe size
+- Hiking shoe category: A approach/approach
 - Recommended use: good and less good paths, cottage paths
 
 [Acquista qui!!](https://www.amazon.it/dp/B07DVMY8S3/?tag=tolees00-21)
