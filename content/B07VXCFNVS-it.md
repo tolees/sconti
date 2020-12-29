@@ -25,9 +25,9 @@ average: '58.24880952380952'
 
 ℹ️:
 
-- Supporto completo per le suite di sicurezza (tcg opal, xts-aes 256-bit, edrive)
 - Ideale per dispositivi ultrabook e per sistemi pc sff (small form factor)
 - Opzioni di upgrade fino a 1tb
+- Supporto completo per le suite di sicurezza (tcg opal, xts-aes 256-bit, edrive)
 - Prestazioni pcie nvme a una frazione del costo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07VXCFNVS/?tag=tolees00-21)

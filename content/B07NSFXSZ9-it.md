@@ -26,9 +26,9 @@ average: '9.977765957446808'
 ℹ️:
 
 - Inspirato al metodo Montessori
-- Made in Italy
 - Contiene Casa 3D da montare con 15 elementi sagomati, 15 card stand e istruzioni
-- Sviluppa lautonomia, la concentrazione, la logica, la manualità fine e la coordinazione occhio-mano
+- Made in Italy
 - Metti tutto a posto nella casetta
+- Sviluppa lautonomia, la concentrazione, la logica, la manualità fine e la coordinazione occhio-mano
 
 [Acquista qui!!](https://www.amazon.it/dp/B07NSFXSZ9/?tag=tolees00-21)

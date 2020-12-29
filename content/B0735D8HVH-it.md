@@ -25,13 +25,13 @@ Puoi trovare [Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammi
 
 ℹ️:
 
-- Cappuccio con sistema di regolazione di ultima generazione
 - Giacca raiforest uomo Napapijri
-- Imbottitura isolante down-free Thermo-Fibre
-- 100% Poliammide
 - Bordi elasticizzati
-- Orlo regolabile
+- Cappuccio con sistema di regolazione di ultima generazione
 - Tasca a marsupio e chiusura a zip
+- Orlo regolabile
+- 100% Poliammide
 - Cuciture nastrate nei punti critici
+- Imbottitura isolante down-free Thermo-Fibre
 
 [Acquista qui!!](https://www.amazon.it/dp/B0735D8HVH/?tag=tolees00-21)

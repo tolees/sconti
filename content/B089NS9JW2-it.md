@@ -25,8 +25,8 @@ Puoi trovare [Xiaomi Band 5 Orologio Fitness Tracker Uomo Donna Cardiofrequenzim
 
 ℹ️:
 
+- Controlla a distanza la fotocamera del telefono
 - 1.1”AMOLED true color display with more
 - Accurato monitoraggio dellattività e della salute
-- Controlla a distanza la fotocamera del telefono
 
 [Acquista qui!!](https://www.amazon.it/dp/B089NS9JW2/?tag=tolees00-21)

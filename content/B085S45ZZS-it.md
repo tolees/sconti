@@ -25,8 +25,8 @@ average: '206.39315789473682'
 
 ℹ️:
 
-- Included components: 1 x Redmi Note 9S
 - Alexa Built-in phones let you make phone calls, open apps, control smart home devices, access the library of Alexa skills, and more using just your voice while on-the-go. Download the Alexa app and complete hands-free setup to get started. Just ask - and Alexa will respond instantly.
+- Included components: 1 x Redmi Note 9S
 - Operating system: Android
 
 [Acquista qui!!](https://www.amazon.it/dp/B085S45ZZS/?tag=tolees00-21)

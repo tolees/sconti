@@ -25,8 +25,8 @@ Puoi trovare [Scholl Solette Scarpe Quotidiane Gel Activ Everyday per Uomo  40-4
 
 ℹ️:
 
-- Weight: 50 grams
 - Skincare-beauty: shoe insole
+- Weight: 50 grams
 - Shoe insole male 50 grams
 
 [Acquista qui!!](https://www.amazon.it/dp/B00V4XSQB2/?tag=tolees00-21)

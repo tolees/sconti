@@ -25,8 +25,8 @@ average: '162.45090909090908'
 
 ℹ️:
 
-- Rich, powerful audio Enhance your listening experience with the Sony HT-S350 2.1 Wireless Sound Bar. Delivering crisp and clear audio, dialogue enhancement technology ensures that youll hear every word, even over explosive action. Get rumbling lows and thundering bass from the subwoofer for a cinema experience in your own living room. And because its wireless, you can position it in a place that suits you with no cables to trip over.
 - Let the sound encompass you Feel like youre in the centre of the action and experience immersive virtual surround sound. Featuring S-Force PRO Front Surround technology, hear sound all around you without the need for additional speakers.
+- Rich, powerful audio Enhance your listening experience with the Sony HT-S350 2.1 Wireless Sound Bar. Delivering crisp and clear audio, dialogue enhancement technology ensures that youll hear every word, even over explosive action. Get rumbling lows and thundering bass from the subwoofer for a cinema experience in your own living room. And because its wireless, you can position it in a place that suits you with no cables to trip over.
 - Stream straight from your phone With Bluetooth you can wirelessly stream music, podcasts and radio from your smartphone or tablet. Simply pair your device with the Sony HT-S350 and connect with apps like Spotify or Deezer. Select the next song to keep the party going without getting up from the sofa.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21)

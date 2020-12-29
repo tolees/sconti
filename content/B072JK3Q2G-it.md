@@ -25,8 +25,8 @@ Puoi trovare [Saucony Shadow Original donna  pelle scamosciata  sneaker bassa  3
 
 ℹ️:
 
-- Intersuola Eva espansa
-- Suola Gomma antiusura
 - Pelle scamosciata/Mesh
+- Suola Gomma antiusura
+- Intersuola Eva espansa
 
 [Acquista qui!!](https://www.amazon.it/dp/B072JK3Q2G/?tag=tolees00-21)

@@ -25,8 +25,8 @@ average: '28.70222222222222'
 
 ℹ️:
 
-- Water-friendly, ventilated forefoot for breathability and lightweight
 - The Crocs shoes will display US sizes
 - Sole sizes are US. Label shows UK. M = Mens W = Womens
+- Water-friendly, ventilated forefoot for breathability and lightweight
 
 [Acquista qui!!](https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21)
