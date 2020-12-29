@@ -25,7 +25,7 @@ average: '49.95'
 
 ℹ️:
 
-- dettagli di fiori
 - Moda e di tendenza
+- dettagli di fiori
 
 [Acquista qui!!](https://www.amazon.it/dp/B079SMKJBR/?tag=tolees00-21)

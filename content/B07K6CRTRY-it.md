@@ -25,9 +25,9 @@ Puoi trovare [adidas Condivo 18  Pantaloncini Uomo  Blu  Bold Aqua/White   S](ht
 
 ℹ️:
 
-- Tessuto leggero
-- Girovita elasticizzato con cordino
 - Taglio regolare
+- Girovita elasticizzato con cordino
+- Tessuto leggero
 - Logo adidas badge of sport a trasferimento termico sopra lorlo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07K6CRTRY/?tag=tolees00-21)

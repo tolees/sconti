@@ -25,9 +25,9 @@ Puoi trovare [adidas Condivo 18  Pantaloncini Uomo  Giallo  Collegiate Gold/Blac
 
 ℹ️:
 
-- Girovita elasticizzato con cordino
 - Logo adidas badge of sport a trasferimento termico sopra lorlo
 - Tessuto leggero
 - Taglio regolare
+- Girovita elasticizzato con cordino
 
 [Acquista qui!!](https://www.amazon.it/dp/B07K6DLNGQ/?tag=tolees00-21)

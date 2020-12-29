@@ -25,7 +25,7 @@ Puoi trovare [Desigual Vest utha  Vestito Donna   Negro 2000   46  Taglia Produt
 
 ℹ️:
 
-- Moda e di tendenza
 - dettagli di fiori
+- Moda e di tendenza
 
 [Acquista qui!!](https://www.amazon.it/dp/B079SMBBG4/?tag=tolees00-21)

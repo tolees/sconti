@@ -25,9 +25,9 @@ average: '23.58'
 
 ℹ️:
 
-- Tessuto leggero
-- Taglio regolare
 - Girovita elasticizzato con cordino
+- Tessuto leggero
 - Logo adidas badge of sport a trasferimento termico sopra lorlo
+- Taglio regolare
 
 [Acquista qui!!](https://www.amazon.it/dp/B07K6C5RYS/?tag=tolees00-21)
