@@ -25,8 +25,8 @@ average: '10.84'
 
 ℹ️:
 
-- Lay
 - It
+- Lay
 - Shepherd,
 
 [Acquista qui!!](https://www.amazon.it/dp/B07147GDYB/?tag=tolees00-21)
