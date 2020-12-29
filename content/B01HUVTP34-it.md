@@ -25,7 +25,7 @@ Puoi trovare [Crocs Fun Lab Disney And Pixar Cars Clog  Sabot Unisex – Bambini
 
 ℹ️:
 
-- Sole sizes are US. Label shows UK. M = Mens W = Womens
 - The Crocs shoes will display US sizes
+- Sole sizes are US. Label shows UK. M = Mens W = Womens
 
 [Acquista qui!!](https://www.amazon.it/dp/B01HUVTP34/?tag=tolees00-21)

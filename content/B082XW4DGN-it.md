@@ -25,11 +25,11 @@ Puoi trovare [Hasbro Gaming Cluedo Gioco in Scatola  Versione 2020 in Italiano](
 
 ℹ️:
 
-- Risolvi il mistero della casa - spostati da una stanza allaltra e scopri chi è stato
-- Il classico gioco di crimine e mistero - sei sospetti, un numero incalcolabile di combinazioni, ma una sola risposta
 - Gioca la tua carta, detective - indaga, organizza trabocchetti, accusa e vinci
-- Versione Italiana
-- Altre nuove regole per la versione aggiornata del gioco da tavolo Cluedo! - La nuova versione per due Giocatori ne aumenta i risvolti intriganti
 - Gioco più rapido con nuovi spazi Bonus! - La gara è concentrata sulla scoperta dellassassino
+- Risolvi il mistero della casa - spostati da una stanza allaltra e scopri chi è stato
+- Versione Italiana
+- Il classico gioco di crimine e mistero - sei sospetti, un numero incalcolabile di combinazioni, ma una sola risposta
+- Altre nuove regole per la versione aggiornata del gioco da tavolo Cluedo! - La nuova versione per due Giocatori ne aumenta i risvolti intriganti
 
 [Acquista qui!!](https://www.amazon.it/dp/B082XW4DGN/?tag=tolees00-21)
