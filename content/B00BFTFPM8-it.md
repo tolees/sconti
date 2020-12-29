@@ -25,10 +25,10 @@ Puoi trovare [Philips Lighting Creek Lampada da Parete da Esterno  Lanterna Up  
 
 ℹ️:
 
-- Lampadina non inclusa, Attacco E27
-- A risparmio energetico
 - Design classico
+- A risparmio energetico
 - Adatto ad ogni condizione climatica
+- Lampadina non inclusa, Attacco E27
 - Materiale: alluminio e materiale sintetico
 
 [Acquista qui!!](https://www.amazon.it/dp/B00BFTFPM8/?tag=tolees00-21)

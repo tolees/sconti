@@ -25,8 +25,8 @@ Puoi trovare [Gucci Guilty Pour Homme Eau de Toilette  Uomo  50 ml](https://www.
 
 ℹ️:
 
-- 50 ml
 - Uomo
+- 50 ml
 - EDT
 
 [Acquista qui!!](https://www.amazon.it/dp/B004KQT68C/?tag=tolees00-21)
