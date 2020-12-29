@@ -25,11 +25,11 @@ average: '8.99'
 
 ℹ️:
 
-- Mantenere il lato blu allesterno e il fermaglio sul lato superiore.
-- 3 strati, con uno strato di filtrazione in polipropilene soffiato a fusione.
-- Questa maschera non è destinata alluso medico e non ha dimostrato di ridurre la trasmissione della malattia.
-- Confezione da 50 maschere. Queste maschere devono essere eliminate dopo ogni utilizzo.
-- Questa è una maschera per uso generale.
 - Confezione di 50 Pezzi
+- Questa è una maschera per uso generale.
+- Confezione da 50 maschere. Queste maschere devono essere eliminate dopo ogni utilizzo.
+- Mantenere il lato blu allesterno e il fermaglio sul lato superiore.
+- Questa maschera non è destinata alluso medico e non ha dimostrato di ridurre la trasmissione della malattia.
+- 3 strati, con uno strato di filtrazione in polipropilene soffiato a fusione.
 
 [Acquista qui!!](https://www.amazon.it/dp/B0886PBZ7K/?tag=tolees00-21)
