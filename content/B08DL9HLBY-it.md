@@ -25,10 +25,10 @@ average: '7.191666666666666'
 
 ℹ️:
 
-- Ricetta semplice e con materie prime selezionate
-- Senza glutine
-- Cioccolatini ripieni al gianduia e nocciola con una doppia copertura al cioccolato bianco al caramello
-- Scatola regalo da 150g con 12 cioccolatini
 - Gli iconici cioccolatini dallincarto stellato che custodiscono un messaggio damore e daffetto
+- Senza glutine
+- Scatola regalo da 150g con 12 cioccolatini
+- Cioccolatini ripieni al gianduia e nocciola con una doppia copertura al cioccolato bianco al caramello
+- Ricetta semplice e con materie prime selezionate
 
 [Acquista qui!!](https://www.amazon.it/dp/B08DL9HLBY/?tag=tolees00-21)

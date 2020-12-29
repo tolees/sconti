@@ -25,10 +25,10 @@ Puoi trovare [Pop! Vinile: Disney: Aladdin  Live Action : Genie](https://www.ama
 
 ℹ️:
 
+- Uniconica statuina funko pop! vinile della disney serie aladdin, genie
+- Disney aladdin
 - Pop! vinile
 - Genie
-- Disney aladdin
-- Uniconica statuina funko pop! vinile della disney serie aladdin, genie
 - Pop! vinile
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KPTB8YY/?tag=tolees00-21)

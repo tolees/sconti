@@ -27,8 +27,8 @@ Puoi trovare [PUMA Cup Training Maglia  Uomo  Alpine Green/Pepper Green  S](http
 
 - Vestibilità normale
 - Tecnologia dryCELL: marchio Puma per il trasporto dellumidità e per un comfort asciutto
-- Tessuto a rete sulla schiena per una migliore traspirabilità
-- Logo Puma sul petto a destra
 - Grafica allover in rilievo
+- Logo Puma sul petto a destra
+- Tessuto a rete sulla schiena per una migliore traspirabilità
 
 [Acquista qui!!](https://www.amazon.it/dp/B07NFZ4DLW/?tag=tolees00-21)
