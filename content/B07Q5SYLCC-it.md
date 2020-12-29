@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'sconto del 31.27 % su Meliconi Fully 8.1 Telecomando Universal  '
-date: 2020-12-28 03:59:10
+title: 'sconto del 37.52 % su Meliconi Fully 8.1 Telecomando Universal  '
+date: 2020-12-29 04:25:41
 image: 'https://m.media-amazon.com/images/I/31Q6grgfb3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5SYLCC-it'
-actualPrice: 10.99 EUR
+actualPrice: 9.99 EUR
 currency: EUR
-price: 10.99
+price: 9.99
 comparePrice: 15.99 EUR
 prodname: 'Meliconi Fully 8.1 Telecomando Universale 8 In 1 Per Tv  Decoder  SKY  Dvd/Blu Ray  Box Multimediali + Iptv e altro ancora'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07Q5SYLCC/?tag=tolees00-21'
-descuento: '31.27'
-average: '10.564166666666663'
+descuento: '37.52'
+average: '10.541199999999996'
 ---
 
-[Meliconi Fully 8.1 Telecomando Universale 8 In 1 Per Tv  Decoder  SKY  Dvd/Blu Ray  Box Multimediali + Iptv e altro ancora](https://www.amazon.it/dp/B07Q5SYLCC/?tag=tolees00-21) ha un prezzo di 10.99 EUR (originale: 15.99 EUR) con uno sconto del 31.27 % sconto qui:
+[Meliconi Fully 8.1 Telecomando Universale 8 In 1 Per Tv  Decoder  SKY  Dvd/Blu Ray  Box Multimediali + Iptv e altro ancora](https://www.amazon.it/dp/B07Q5SYLCC/?tag=tolees00-21) ha un prezzo di 9.99 EUR (originale: 15.99 EUR) con uno sconto del 37.52 % sconto qui:
 
 [![Meliconi Fully 8.1 Telecomando Universal](https://m.media-amazon.com/images/I/31Q6grgfb3L._SL200_.jpg)](https://www.amazon.it/dp/B07Q5SYLCC/?tag=tolees00-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Movies: Gladiator-Maximus Col al 22.99 % di sconto'
-date: 2020-12-28 04:02:49
+date: 2020-12-29 04:31:32
 image: 'https://m.media-amazon.com/images/I/51N+P-9TunL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07TVDQRM2/?tag=tolees00-21'
 descuento: '22.99'
-average: '15.28125'
+average: '15.127058823529412'
 ---
 
 Puoi trovare [Funko- Pop Movies: Gladiator-Maximus Collectible Toy  Multicolore  40815](https://www.amazon.it/dp/B07TVDQRM2/?tag=tolees00-21) con il prezzo 12.66 EUR (originale: 16.44 EUR) 22.99 % sconto qui:
@@ -25,9 +25,9 @@ Puoi trovare [Funko- Pop Movies: Gladiator-Maximus Collectible Toy  Multicolore 
 
 ℹ️:
 
-- Check out the other Gladiator figures from Funko Collect them all
+- Funko pop! is the 2018 toy of the year and peoples choice award winner
+- From gladiator, maximus, as a stylized pop vinyl from funko
+- Check out the other gladiator figures from funko collect them all
 - Figure stands 9cm and comes in a window display box
-- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
-- From Gladiator, Maximus, as a stylized POP vinyl from Funko
 
 [Acquista qui!!](https://www.amazon.it/dp/B07TVDQRM2/?tag=tolees00-21)

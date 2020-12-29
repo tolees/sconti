@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 31.13 % su Crocs Classic Clog  Unisex – Adulto  Gri  '
-date: 2020-12-28 04:04:10
+date: 2020-12-29 04:45:24
 image: 'https://m.media-amazon.com/images/I/31tQhUrk4tL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,8 @@ average: '28.70222222222222'
 
 ℹ️:
 
-- Tipo di chiusura: cinturino
-- Materiale esterno: schiuma
-- Fodera: senza fodera
-- Materiale suola: schiuma
-- Tipo di tacco: senza tacco
+- The Crocs shoes will display US sizes
+- Sole sizes are US. Label shows UK. M = Mens W = Womens
+- Water-friendly, ventilated forefoot for breathability and lightweight
 
 [Acquista qui!!](https://www.amazon.it/dp/B071LJ1Z1Z/?tag=tolees00-21)

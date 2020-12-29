@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 44.45 % su SanDisk MicroSDXC UHS-I 128 GB - Scheda   '
-date: 2020-12-28 04:20:13
+date: 2020-12-29 04:44:33
 image: 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KXQX3S3/?tag=tolees00-21'
 descuento: '44.45'
-average: '27.524210526315787'
+average: '27.54989583333333'
 ---
 
 [SanDisk MicroSDXC UHS-I 128 GB - Scheda per Nintendo Switch  Official Nintendo Licensed Product](https://www.amazon.it/dp/B07KXQX3S3/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 53.99 EUR) con uno sconto del 44.45 % sconto qui:
@@ -25,9 +25,9 @@ average: '27.524210526315787'
 
 ℹ️:
 
+- Velocità di trasferimento fino a 100 MB/sec per un rapido caricamento dei giochi
 - Consente di aggiungere immediatamente fino a 128 GB di ulteriore spazio di archiviazione
 - Scheda di memoria con licenza Nintendo per il sistema Nintendo Switch
-- Velocità di trasferimento fino a 100 MB/sec per un rapido caricamento dei giochi
 - Archivia giochi digitali e contenuti aggiuntivi in un unico spazio e consente di utilizzarli ovunque
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KXQX3S3/?tag=tolees00-21)

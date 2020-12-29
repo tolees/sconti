@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Games: Cork-Pop 1 Halo Figura da C al 19.44 % di sconto'
-date: 2020-12-28 04:21:39
+date: 2020-12-29 04:50:53
 image: 'https://m.media-amazon.com/images/I/41CCi+V-OrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,8 +26,8 @@ Puoi trovare [Funko Games: Cork-Pop 1 Halo Figura da Collezione  Multicolore  51
 ℹ️:
 
 - POP! 1 e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
-- Uniconica statuina Funko Pop! Vinyl della serie Cork
 - Scopri tutte le altre statuine Cork di Funko e collezionale tutte!
 - Funko POP! è il giocattolo dellanno 2018!
+- Uniconica statuina Funko Pop! Vinyl della serie Cork
 
 [Acquista qui!!](https://www.amazon.it/dp/B087NBH6XC/?tag=tolees00-21)
