@@ -25,8 +25,8 @@ Puoi trovare [Tefal Gourmet 10 Inox&Design 10persona e  1350W Nero  Acciaio inos
 
 ℹ️:
 
-- Piastra grill rimovibile con indicatore THERMO-SPOT
-- Include 10 padelle con manici termoisolanti, sigillati e antiaderenti
 - Dotato di due funzioni: raclette e grill
+- Include 10 padelle con manici termoisolanti, sigillati e antiaderenti
+- Piastra grill rimovibile con indicatore THERMO-SPOT
 
 [Acquista qui!!](https://www.amazon.it/dp/B00MIKJ9K2/?tag=tolees00-21)

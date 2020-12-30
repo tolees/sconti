@@ -25,10 +25,10 @@ Puoi trovare [Tecmate Optimate Cable O-11  Connettore per Batteria Resistente al
 
 ℹ️:
 
-- fusibile 15 A; massima corrente nominale: 10 A
-- Collegamento permanente per batteria, per una connessione rapida di alta qualità, per batterie volte al settore dell’automobile e marittimo, con cavo e sistema di collegamento protetti contro le intemperie.
-- Lunghezza = 20″/50cm; 5/16″ / M8 occhielli
 - Possibilità di uso con temperature molto basse -40°C, il cavo rimane flessiblile a temperature al di sotto del punto di congelamento.
+- fusibile 15 A; massima corrente nominale: 10 A
 - connettore SAE a 2 poli standard; Tappo sigillante in gomma e guaina isolante in gomma per connettore per uso intensivo SAE OptiMATE.
+- Lunghezza = 20″/50cm; 5/16″ / M8 occhielli
+- Collegamento permanente per batteria, per una connessione rapida di alta qualità, per batterie volte al settore dell’automobile e marittimo, con cavo e sistema di collegamento protetti contro le intemperie.
 
 [Acquista qui!!](https://www.amazon.it/dp/B008S9LEU0/?tag=tolees00-21)

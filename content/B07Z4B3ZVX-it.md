@@ -25,7 +25,7 @@ average: '64.49'
 
 ℹ️:
 
-- Vita alta
 - Taglio dritto dalla coscia fino allorlo
+- Vita alta
 
 [Acquista qui!!](https://www.amazon.it/dp/B07Z4B3ZVX/?tag=tolees00-21)
