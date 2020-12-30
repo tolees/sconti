@@ -25,10 +25,10 @@ average: '1.9779999999999998'
 
 ℹ️:
 
+- INGREDIENTI - Biscotti con farina di frumento, latte fresco pastorizzato e uova fresche. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
 - I BISCOTTI - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti
+- CAMPAGNOLE - Preparate con ingredienti selezionati di qualità. Latte fresco italiano e farina di riso ottenuta da chicchi speciali, per un biscotto da mangiare sa solo o da inzuppare
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 - PER LA TUA COLAZIONE - Ideali per la tua colazione: 3 campagnole, una spremuta di arancia e un caffè. Per un totale di calorie pari al 16% del tuo fabbisogno energetico giornaliero
-- CAMPAGNOLE - Preparate con ingredienti selezionati di qualità. Latte fresco italiano e farina di riso ottenuta da chicchi speciali, per un biscotto da mangiare sa solo o da inzuppare
-- INGREDIENTI - Biscotti con farina di frumento, latte fresco pastorizzato e uova fresche. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
 
 [Acquista qui!!](https://www.amazon.it/dp/B009SJ7LPG/?tag=tolees00-21)
