@@ -25,10 +25,10 @@ Puoi trovare [Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml
 
 ℹ️:
 
-- Volume: 75 ml bottle
-- Top notes offer luminous and sparkling drops of enrol, announcing the sexy heart created of Tahitian tiara flowers
 - Womens fragrance
+- Top notes offer luminous and sparkling drops of enrol, announcing the sexy heart created of Tahitian tiara flowers
 - With warm, cuddly and creamy rosewood accords in the base
 - Fragrance from the designer house of Roberto Cavalla
+- Volume: 75 ml bottle
 
 [Acquista qui!!](https://www.amazon.it/dp/B00AKFFXG6/?tag=tolees00-21)

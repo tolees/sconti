@@ -25,10 +25,10 @@ Puoi trovare [CMP Rigel Mid Trekking Shoe Wp  Scarpe Alta Uomo  Grigio  Grey U86
 
 ℹ️:
 
+- Materiale esterno: pelle; materiale interno: mesh; suola: sintetica
+- Impermeabile
 - Materiale: pelle/tessuto
 - Chiusura: lacci
 - Larghezza scarpa: normale
-- Materiale esterno: pelle; materiale interno: mesh; suola: sintetica
-- Impermeabile
 
 [Acquista qui!!](https://www.amazon.it/dp/B00N0KKGL0/?tag=tolees00-21)

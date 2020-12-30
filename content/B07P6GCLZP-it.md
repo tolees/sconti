@@ -25,10 +25,10 @@ Puoi trovare [SuperZings Serie 4  Display MegaJet a 8 Veicoli  PSZ4D068IN01  con
 
 ℹ️:
 
-- Discover the new adventures you can organize thanks to these new characters and new games
-- Each vehicle has a special attack, you can connect a blasterjet to them and launch them at full speed
 - Pack of 8 individual boxes of mega-box vehicles. You can find the complete collection
+- Discover the new adventures you can organize thanks to these new characters and new games
 - SuperZings are everyday objects transformed into superheroes and supervillains, fun is guaranteed! Every SuperZing figure has its rival, find the rival pairs and form your SuperTeams. These fun figures are ideal for developing childrens creativity thanks to imaginative play as well as encouraging socialisation
+- Each vehicle has a special attack, you can connect a blasterjet to them and launch them at full speed
 - The new Series 4 mega-jets are super-strong vehicles ready to take out the enemy: Blaster Punch shoots and strikes with precision, Tornado Spike breaks through in any situation, Rolling Chop crushes everything in its path and Battle Claw immobilises anyone with its strong front claw
 
 [Acquista qui!!](https://www.amazon.it/dp/B07P6GCLZP/?tag=tolees00-21)

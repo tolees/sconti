@@ -25,9 +25,9 @@ average: '49.87519480519478'
 
 ℹ️:
 
-- Conosci nuovi amici e ed esplora un mondo in continua evoluzione al ritmo delle stagioni e di ogni condizione atmosferica possibile
+- Preparati a mollare tutto e creare una nuova comunità sulla tua isola deserta personale.; non hai sempre desiderato un luogo dove fare quello che vuoi, quando vuoi, come lo desideri?
 - Se il caos e la frenesia della vita di tutti i giorni ti hanno stufato, tom nook ha appena creato una proposta su misura per te: il suo pacchetto isola deserta
 - Rimboccati le maniche e inizia a collezionare preziose risorse per costruire tutto ciò che ti potrà servire, dagli strumenti del mestiere agli edifici del tuo nuovo villaggio; il tutto sempre e solo secondo il tuo gusto personale
-- Preparati a mollare tutto e creare una nuova comunità sulla tua isola deserta personale.; non hai sempre desiderato un luogo dove fare quello che vuoi, quando vuoi, come lo desideri?
+- Conosci nuovi amici e ed esplora un mondo in continua evoluzione al ritmo delle stagioni e di ogni condizione atmosferica possibile
 
 [Acquista qui!!](https://www.amazon.it/dp/B07HTFD1SG/?tag=tolees00-21)

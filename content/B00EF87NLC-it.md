@@ -26,7 +26,7 @@ average: '7.1'
 ℹ️:
 
 - Caps idrosolubile, si getta nel wc
-- Evita gli ingorghi e gli spurghi
 - Elimina i cattivi odori
+- Evita gli ingorghi e gli spurghi
 
 [Acquista qui!!](https://www.amazon.it/dp/B00EF87NLC/?tag=tolees00-21)
