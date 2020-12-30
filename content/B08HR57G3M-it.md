@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 16.67 % su Hyrule Warriors: L’era Della calamità -   '
-date: 2020-12-29 04:49:26
+date: 2020-12-30 05:59:07
 image: 'https://m.media-amazon.com/images/I/51EMmMpLNOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08HR57G3M/?tag=tolees00-21'
 descuento: '16.67'
-average: '56.80092105263159'
+average: '56.62628205128206'
 ---
 
 [Hyrule Warriors: L’era Della calamità - Nintendo Switch](https://www.amazon.it/dp/B08HR57G3M/?tag=tolees00-21) ha un prezzo di 49.99 EUR (originale: 59.99 EUR) con uno sconto del 16.67 % sconto qui:

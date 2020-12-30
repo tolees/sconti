@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 60.16 % su SuperThings PST6D850IN00 Secret Spies-On  '
-date: 2020-12-29 04:45:31
+date: 2020-12-30 05:58:52
 image: 'https://m.media-amazon.com/images/I/51GmRqoRMHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08FXS19C9/?tag=tolees00-21'
 descuento: '60.16'
-average: '1.182470588235294'
+average: '1.180348837209302'
 ---
 
 [SuperThings PST6D850IN00 Secret Spies-One Pack](https://www.amazon.it/dp/B08FXS19C9/?tag=tolees00-21) ha un prezzo di 1.0 EUR (originale: 2.51 EUR) con uno sconto del 60.16 % sconto qui:
@@ -25,8 +25,9 @@ average: '1.182470588235294'
 
 ℹ️:
 
-- Riuscite a trovare le spie magiche che cambiano colore?
-- Ognuno viene fornito con guida per collezionisti.
-- Oltre 80 da collezionare.
+- Package weight: 0.02 kilograms
+- Each one comes with collectors guide!
+- Can you find the magic colour changing spies?
+- Over 80 to collect.
 
 [Acquista qui!!](https://www.amazon.it/dp/B08FXS19C9/?tag=tolees00-21)

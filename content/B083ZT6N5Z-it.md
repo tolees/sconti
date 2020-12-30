@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 15.45 % su Pentel - Pennarello con punta simile a p  '
-date: 2020-12-29 04:36:49
+date: 2020-12-30 05:24:26
 image: 'https://m.media-amazon.com/images/I/41R4mjH7NmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083ZT6N5Z/?tag=tolees00-21'
 descuento: '15.45'
-average: '22.971111111111107'
+average: '22.933260869565213'
 ---
 
 [Pentel - Pennarello con punta simile a pennello “Brush Sign Pen”  SES15C-12 12 assortiti](https://www.amazon.it/dp/B083ZT6N5Z/?tag=tolees00-21) ha un prezzo di 21.23 EUR (originale: 25.11 EUR) con uno sconto del 15.45 % sconto qui:

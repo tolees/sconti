@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 47.69 % su Vans Atwood  Scarpe da Ginnastica Uomo    '
-date: 2020-12-29 04:40:25
+date: 2020-12-30 05:30:46
 image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ average: '34.0'
 ℹ️:
 
 - Fodera: Tessuto
-- Tipo di tacco: Senza tacco
+- Chiusura: Stringata
 - Materiale suola: Gomma
 - Materiale esterno: Sintetico
-- Chiusura: Stringata
+- Tipo di tacco: Senza tacco
 
 [Acquista qui!!](https://www.amazon.it/dp/B003RX1FBA/?tag=tolees00-21)

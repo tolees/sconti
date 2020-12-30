@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 32.69 % su Tommy Hilfiger Original Rib Maglietta a   '
-date: 2020-12-29 04:52:39
+date: 2020-12-30 05:31:00
 image: 'https://m.media-amazon.com/images/I/31SLXST+SGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07771GVSZ/?tag=tolees00-21'
 descuento: '32.69'
-average: '23.615'
+average: '23.589999999999996'
 ---
 
 [Tommy Hilfiger Original Rib Maglietta a Maniche Lunghe  Nero  Tommy Black 078   S Uomo](https://www.amazon.it/dp/B07771GVSZ/?tag=tolees00-21) ha un prezzo di 23.49 EUR (originale: 34.9 EUR) con uno sconto del 32.69 % sconto qui:
@@ -25,8 +25,8 @@ average: '23.615'
 
 ℹ️:
 
+- Nastro iconico allinterno del collo
 - Bandierina Tommy Jeans ricamata sul petto
 - Cuciture morbide
-- Nastro iconico allinterno del collo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07771GVSZ/?tag=tolees00-21)

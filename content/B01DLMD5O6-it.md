@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL-50F18F Obiettivo a Focale Fissa al 40.38 % di sconto'
-date: 2020-12-29 04:50:38
+date: 2020-12-30 05:32:17
 image: 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21'
 descuento: '40.38'
-average: '186.73469387755105'
+average: '186.93460000000002'
 ---
 
 Puoi trovare [Sony SEL-50F18F Obiettivo a Focale Fissa 50 mm F1.8  Mirrorless Full-Frame  Attacco E  SEL50F18F](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21) con il prezzo 196.73 EUR (originale: 330.0 EUR) 40.38 % sconto qui:
@@ -25,9 +25,9 @@ Puoi trovare [Sony SEL-50F18F Obiettivo a Focale Fissa 50 mm F1.8  Mirrorless Fu
 
 ℹ️:
 
-- Compatibilità con FE 50 mm F1,8: Fotocamere full frame con innesto E
-- Apertura massima f1.8 per scattare con effetto bokeh anche in situazioni di scarsa luminosità
 - Compatto, leggero, facile da portare con sé grazie ai suoi soli 186 g
 - Obiettivo con focale fissa 50 mm f 1.8 per fotocamere sony alpha con sensore full-frame
+- Apertura massima f1.8 per scattare con effetto bokeh anche in situazioni di scarsa luminosità
+- Compatibilità con FE 50 mm F1,8: Fotocamere full frame con innesto E
 
 [Acquista qui!!](https://www.amazon.it/dp/B01DLMD5O6/?tag=tolees00-21)

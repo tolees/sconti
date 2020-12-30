@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 8t Mooshadow Grey 6 3" al 21.75 % di sconto'
-date: 2020-12-29 04:31:22
+date: 2020-12-30 05:21:39
 image: 'https://m.media-amazon.com/images/I/41xVVtLJC5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21'
 descuento: '21.75'
-average: '157.8345882352941'
+average: '158.34183908045972'
 ---
 
 Puoi trovare [Xiaomi Redmi Note 8t Mooshadow Grey 6 3" 4gb/64gb Dual Sim](https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21) con il prezzo 179.9 EUR (originale: 229.9 EUR) 21.75 % sconto qui:
@@ -25,11 +25,11 @@ Puoi trovare [Xiaomi Redmi Note 8t Mooshadow Grey 6 3" 4gb/64gb Dual Sim](https:
 
 ℹ️:
 
-- Processore octa-core qualcomm snapdragon 665 frequenza: fino a 2.0ghz
 - Fotocamera ultra grandangolare da 8mp
-- Camera macro da 2mp
 - Scheda grafica adreno 610
+- Camera macro da 2mp
 - Camera di profondità da 2mp
+- Processore octa-core qualcomm snapdragon 665 frequenza: fino a 2.0ghz
 - Quad camera da 48mp per ogni tipo di scatto
 - Risoluzione: 2340 x 1080 fhd+ 19.5:9
 

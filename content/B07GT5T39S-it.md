@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.80 % su Sony DSX-A416BT Autoradio senza CD  Micr  '
-date: 2020-12-29 04:33:44
+date: 2020-12-30 05:54:42
 image: 'https://m.media-amazon.com/images/I/41DCJGSoD+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07GT5T39S/?tag=tolees00-21'
 descuento: '20.80'
-average: '99.99333333333331'
+average: '99.85142857142856'
 ---
 
 [Sony DSX-A416BT Autoradio senza CD  Microfono Esterno Incluso  Illuminazione Personalizzabile 35.000 Colori  Controllo Vocale con Siri Eyes Free e Android  Dual Bluetooth  USB  iPhone/iPod   4 x 55 W](https://www.amazon.it/dp/B07GT5T39S/?tag=tolees00-21) ha un prezzo di 99.0 EUR (originale: 125.0 EUR) con uno sconto del 20.80 % sconto qui:
@@ -25,12 +25,12 @@ average: '99.99333333333331'
 
 ℹ️:
 
-- Dual Bluetooth (collega 2 cellulari contemporaneamente)
 - Microfono esterno in dotazione, con diminuzione dei rumori di sottofondo
+- Ascolta app (es. Spotify) via USB
+- Dual Bluetooth (collega 2 cellulari contemporaneamente)
 - Music Playback per cellulari Android
 - Controllo vocale con Siri Eyes Free
-- Ascolta app (es. Spotify) via USB
-- Potenza di uscita: 4 x 55 W.
 - Illuminazione personalizzabile sia display che tasti
+- Potenza di uscita: 4 x 55 W.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07GT5T39S/?tag=tolees00-21)

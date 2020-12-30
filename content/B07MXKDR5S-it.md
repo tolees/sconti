@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 27.49 % su Buffalo London 1339-14 2.0 V  Scarpe da   '
-date: 2020-12-29 05:11:04
+date: 2020-12-30 05:55:43
 image: 'https://m.media-amazon.com/images/I/41uDvZ7EFTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,6 +25,6 @@ average: '98.7390625'
 
 ℹ️:
 
-- ICONIC AND HERITAGE BUFFALO Design con prodotto in pelle di alta qualità, made in Europa, perfetta vestibilità con imbottitura in memory foam
+- ICONIC AND HERITAGE BUFFALO DESIGN WITH HISTORY PREMIUM LEATHER PRODUCT - MADE IN EUROPE PERFECT FITTING WITH MEMORYFOAM INSOCK
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MXKDR5S/?tag=tolees00-21)

@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Sony Alpha 7 III | Fotocamera Mirrorless al 17.43 % di sconto'
+date: 2020-12-30 05:31:23
+image: 'https://m.media-amazon.com/images/I/41Q3WqkjLiL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07B4L1PQ8-it'
+actualPrice: 1899.0 EUR
+currency: EUR
+price: 1899.0
+comparePrice: 2300.0 EUR
+prodname: 'Sony Alpha 7 III | Fotocamera Mirrorless Full-Frame  AF Rapido in 0.02s  Stabilizzazione Integrata a 5 assi  4K HLG  Batteria ad alta capacità   Corpo'
+country: 'it'
+flag: '🇮🇹'
+buyurl: 'https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21'
+descuento: '17.43'
+average: '1907.5050588235292'
+---
+
+Puoi trovare [Sony Alpha 7 III | Fotocamera Mirrorless Full-Frame  AF Rapido in 0.02s  Stabilizzazione Integrata a 5 assi  4K HLG  Batteria ad alta capacità   Corpo](https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21) con il prezzo 1899.0 EUR (originale: 2300.0 EUR) 17.43 % sconto qui:
+
+[![Sony Alpha 7 III | Fotocamera Mirrorless](https://m.media-amazon.com/images/I/41Q3WqkjLiL._SL200_.jpg)](https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21)
+
+ℹ️:
+
+- VIDEOMAKING PROFESSIONALE: Full-pixel readout senza pixel binning per video 4K HDR ad alta risoluzione.
+- LUNGA DURATA DELLA BATTERIA : Batteria Z ad alta capacità per scatto continuo.
+- AUTOFOCUS REATTIVO: sfrutta Real Time Eye AF e Real Time Tracking (per Umani e Animali) per mantenere il tuo soggeto a fuoco in ogni situazione.
+- QUALITA DIMMAGINE OTTIMA: Sensore Full-frame da 24MP e alta sensibilità ISO per una qualità dimmagine elevata anche in caso di poca luce.
+- STABILIZZAZIONE INTEGRATA: Stabilizzazione integrata a 5 assi per foto e video per compensare le vibrazioni della fotocamera.
+
+[Acquista qui!!](https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21)
