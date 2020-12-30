@@ -25,10 +25,10 @@ Puoi trovare [Bronchenolo Immuno Tripla Azione  Supporta Le Difese Immunitarie  
 
 ℹ️:
 
+- Tripla azione, 16 pastiglie gusto sambuco e ribes nero
 - Supporta le funzioni delle vie respiratorie e favorisce la fluidità delle secrezioni Bronchiali (Sambuco)
+- Contribuisce al normale metabolismo energetico (niacina, vitamine B1, B2, B6, B12 e biotina)
 - Senza glutine, senza lattosio, adatto ai vegetariani
 - Supporta le funzioni del sistema immunitario (echinacea, vitamine C e D)
-- Contribuisce al normale metabolismo energetico (niacina, vitamine B1, B2, B6, B12 e biotina)
-- Tripla azione, 16 pastiglie gusto sambuco e ribes nero
 
 [Acquista qui!!](https://www.amazon.it/dp/B08KV88P8T/?tag=tolees00-21)

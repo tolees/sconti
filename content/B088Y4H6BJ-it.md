@@ -25,8 +25,8 @@ Puoi trovare [ASICS Gel-Cumulus 22  Scarpe da Corsa Uomo  Directoire Blue/Black 
 
 ℹ️:
 
-- Scarpe da running
 - Tomaia in mesh
+- Scarpe da running
 - Intersuola con tecnologia FLYTEFOAM
 
 [Acquista qui!!](https://www.amazon.it/dp/B088Y4H6BJ/?tag=tolees00-21)
