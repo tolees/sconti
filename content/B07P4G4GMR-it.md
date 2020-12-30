@@ -25,8 +25,8 @@ Puoi trovare [Lark & Ro Corded Lace Puff Sleeve Dress Dresses  Cruz V2 Fresh Foa
 
 ℹ️:
 
-- Questo abito A-line è dotato di pizzo elasticizzato, girocollo e maniche corte.
 - Porta stile e fiducia al tuo guardaroba di tutti i giorni con elementi essenziali lucidi e graffette da indossare al lavoro di Lark & Ro.
+- Questo abito A-line è dotato di pizzo elasticizzato, girocollo e maniche corte.
 - Il modello è di 150 cm e indossa una taglia 2.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07P4G4GMR/?tag=tolees00-21)

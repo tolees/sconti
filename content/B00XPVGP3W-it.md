@@ -25,9 +25,9 @@ average: '0.79'
 
 ℹ️:
 
-- Prodotto di ottima qualità
-- Contenuto: 150 ml
 - Con un tocco di olio vergine doliva
+- Contenuto: 150 ml
+- Prodotto di ottima qualità
 - Adatto per carne e verdure
 
 [Acquista qui!!](https://www.amazon.it/dp/B00XPVGP3W/?tag=tolees00-21)
