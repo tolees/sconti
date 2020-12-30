@@ -25,7 +25,7 @@ average: '41.99'
 
 ℹ️:
 
-- uomo
 - Maschio
+- uomo
 
 [Acquista qui!!](https://www.amazon.it/dp/B01N4QFJO7/?tag=tolees00-21)
