@@ -25,9 +25,9 @@ Puoi trovare [Nixon Digitale Orologio da Polso A1107-001-00](https://www.amazon.
 
 ℹ️:
 
-- Quadrante: display LCD a contrasto positivo o negativo con contorno del quadrante stampato
 - Cinturino in acciaio inox a 5 maglie, larghezza 22 mm, chiusura in acciaio inox
 - Meccanismo: speciale modulo digitale, le funzioni includono orario (12 o 24 ore), giorno/data, calendario fino al 2099
 - Cassa: diametro 38 mm, impermeabilità 100 m/10 ATM, cassa in acciaio inox; pulsanti sagomati con guarnizione in policarbonato e fondello a vite in acciaio inox
+- Quadrante: display LCD a contrasto positivo o negativo con contorno del quadrante stampato
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MZGRD4G/?tag=tolees00-21)
