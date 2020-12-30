@@ -25,12 +25,12 @@ average: '180.4'
 
 ℹ️:
 
-- Alloggiamento del motore ventilatori a soffitto in eleganti in nichel, alta qualità, durevole e silenzioso motore AC
 - Funzionamento estivo ed invernale per il recupero di calore (in modalità inverno fino al 30% di risparmio dei costi di riscaldamento)
+- Design ventilatori da soffitto moderno con illuminazione / lampada adatto ad illuminare la classe energetica: E - A + +
 - Livello di rumore 50 db (A) al livello più alto
 - Controllo della lampada soffitto / di luce e 3 - fase controllo di Ventilatos nellambito della consegna telecomando  / Interruttore a parete opzionale
-- Diametro per locali fino a 25 m ² / pale nel Acero miele elegante (Simil legno) 132 cm
-- Design ventilatori da soffitto moderno con illuminazione / lampada adatto ad illuminare la classe energetica: E - A + +
+- Alloggiamento del motore ventilatori a soffitto in eleganti in nichel, alta qualità, durevole e silenzioso motore AC
 - Portata daria 9540 m³ / h - equivalente a 3 m³ / min / watt
+- Diametro per locali fino a 25 m ² / pale nel Acero miele elegante (Simil legno) 132 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B0095CDTXY/?tag=tolees00-21)

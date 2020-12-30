@@ -25,9 +25,9 @@ average: '9.99'
 
 ℹ️:
 
-- Spessore 38cm x Profondità 42cm (esclusi i manici)
 - Ideale per Pittura su Stoffa
-- Cotone
 - 140gsm (50z) Cotone
+- Cotone
+- Spessore 38cm x Profondità 42cm (esclusi i manici)
 
 [Acquista qui!!](https://www.amazon.it/dp/B007NYCYXW/?tag=tolees00-21)

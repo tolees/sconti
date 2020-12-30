@@ -25,8 +25,8 @@ Puoi trovare [Allergosystem Set Antiacaro Composto da coprimaterasso con Cernier
 
 ℹ️:
 
-- Composto da coprimaterasso con cerniera per letto singolo, 90x200x20cm e copricuscino, 50x80cm
 - 100% polipropilene
+- Composto da coprimaterasso con cerniera per letto singolo, 90x200x20cm e copricuscino, 50x80cm
 - Allergosystem set antiacaro
 
 [Acquista qui!!](https://www.amazon.it/dp/B00KMV98H8/?tag=tolees00-21)

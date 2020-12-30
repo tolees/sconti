@@ -25,10 +25,10 @@ average: '32.99'
 
 ℹ️:
 
-- Da 2 a 6 giocatori: durata partita media: 90 minuti; età richiesta: 13 anni in su
-- Il giocatore che costruirà la rete di distribuzione più grande e riuscirà a rifornirla sarà il vincitore
 - Sfida i tuoi amici per acquistare le risorse necessarie e costruire le centrali elettriche più efficenti
 - Alta tensione recharged è la nuova edizione aggiornata del popolare gioco gestionale
+- Da 2 a 6 giocatori: durata partita media: 90 minuti; età richiesta: 13 anni in su
+- Il giocatore che costruirà la rete di distribuzione più grande e riuscirà a rifornirla sarà il vincitore
 - Versione Italiana
 - Alta tensione recharged mantiene intatti la strategia e il divertimento della classica prima edizione, ma aggiunge alcune novità che ne migliorano la (già notevole) giocabilità
 

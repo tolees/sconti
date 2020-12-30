@@ -25,9 +25,9 @@ Puoi trovare [Wd-40 39798/46 Pulitore Catena Moto  Senza Colore  400 Ml](https:/
 
 ℹ️:
 
-- Asciugatura rapida
 - Raccomandato per catena, o-z-x rings, forcellone, trasmissioni
 - Non lascia residui
+- Asciugatura rapida
 - Mantiene inalterate le prestazione della catena
 
 [Acquista qui!!](https://www.amazon.it/dp/B00MDJ5SJ4/?tag=tolees00-21)
