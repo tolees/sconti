@@ -25,10 +25,10 @@ average: '39.99'
 
 ℹ️:
 
+- [CONTROLLER WIRELESS MULTIFUNZIONALE] Ciascun controller può essere utilizzato come controller separato, che può essere utilizzato come due controller indipendenti dello switch Nintendo e supporta lassociazione automatica con lhost. Funzione di controllo del movimento, ogni controller ha un set completo di pulsanti. Tasto Screenshot per acquisire schermate e archiviare.
 - [Rilevamento e vibrazione a 6 assi] Dispone di funzione di vibrazione e controllo del movimento in ciascun controller dellinterruttore e ogni controller wireless ha un set completo di pulsanti. I controller switch perfezionano il gioco per immergerti nei mondi di gioco che scegli di scoprire. Goditi un nuovo livello di esperienza che puoi provare con ogni colpo.
 - [COMPATIBILE CON NINTENDO SWITCH] Questo dispositivo è un controller wireless Bluetooth sinistro e destro, è possibile che compatibile con Nintendo Switch / Switch Lite.è anche possibile sostituire il controller originale.
-- [CONTROLLER WIRELESS MULTIFUNZIONALE] Ciascun controller può essere utilizzato come controller separato, che può essere utilizzato come due controller indipendenti dello switch Nintendo e supporta lassociazione automatica con lhost. Funzione di controllo del movimento, ogni controller ha un set completo di pulsanti. Tasto Screenshot per acquisire schermate e archiviare.
-- [METODO DI CONNESSIONE DI SUPPORTO] Si può utilizzare tramite connessione cablate.Controller switch wireless, può essere utilizzato via cavo e Bluetooth senza installare driver. Supporta la connessione cablata, fai scorrere il controller sulla console dello switch e il controller si connetterà automaticamente alla console. Se il controller non è alimentato, la console lo caricherà quando la console è cablata.
 - [LUNGA DURATA DELLA BATTERIA] La batteria al litio integrata da 400 mAh, il tempo di utilizzo può durare fino a 10 ore e 20 ore senza vibrazioni.Il tempo di ricarica completo è di 2-3 ore. È incluso un cavo di ricarica per la ricarica simultanea dei due controller.
+- [METODO DI CONNESSIONE DI SUPPORTO] Si può utilizzare tramite connessione cablate.Controller switch wireless, può essere utilizzato via cavo e Bluetooth senza installare driver. Supporta la connessione cablata, fai scorrere il controller sulla console dello switch e il controller si connetterà automaticamente alla console. Se il controller non è alimentato, la console lo caricherà quando la console è cablata.
 
 [Acquista qui!!](https://www.amazon.it/dp/B0834XJ1WM/?tag=tolees00-21)

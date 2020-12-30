@@ -26,9 +26,9 @@ Puoi trovare [Playmobil City Action 6921 - Elicottero della Polizia con Faro Ill
 ℹ️:
 
 - Divertimento per piccoli poliziotti: elicottero della polizia Playmobil con fantastici effetti luminosi e tanti accessori per un gioco realistico
-- Play set che contiene personaggi adatti ai bambini a partire da 4 anni: ottimi per le loro mani grazie alle dimensioni adeguate alletà, alla superficie piacevole al tatto e con bordi arrotondati
 - Per il montaggio consultare il manuale distruzioni; alta qualità e struttura solida; è possibile una pulizia dei pezzi avendo cura di utilizzare soltanto acqua e senza luso di prodotti chimici
-- Contenuto: 1 x play set da 30 pezzi con istruzioni: 1 elicottero della polizia, 2 personaggi, 27 accessori (3 micro batterie da 1,5V non incluse), materiale: plastica, LxPxA: 37x25-34.5x14.5 cm
 - 2 poliziotti, cabina di pilotaggio apribile verso laltro, spazio per 3 personaggi, verricello per calare il poliziotto con la fune, play set espandibile con la stazione di polizia (6919)
+- Play set che contiene personaggi adatti ai bambini a partire da 4 anni: ottimi per le loro mani grazie alle dimensioni adeguate alletà, alla superficie piacevole al tatto e con bordi arrotondati
+- Contenuto: 1 x play set da 30 pezzi con istruzioni: 1 elicottero della polizia, 2 personaggi, 27 accessori (3 micro batterie da 1,5V non incluse), materiale: plastica, LxPxA: 37x25-34.5x14.5 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B01LTHZP16/?tag=tolees00-21)
