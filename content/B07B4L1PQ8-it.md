@@ -25,10 +25,10 @@ Puoi trovare [Sony Alpha 7 III | Fotocamera Mirrorless Full-Frame  AF Rapido in 
 
 ℹ️:
 
+- VIDEOMAKING PROFESSIONALE: Full-pixel readout senza pixel binning per video 4K HDR ad alta risoluzione.
 - STABILIZZAZIONE INTEGRATA: Stabilizzazione integrata a 5 assi per foto e video per compensare le vibrazioni della fotocamera.
 - AUTOFOCUS REATTIVO: sfrutta Real Time Eye AF e Real Time Tracking (per Umani e Animali) per mantenere il tuo soggeto a fuoco in ogni situazione.
 - QUALITA DIMMAGINE OTTIMA: Sensore Full-frame da 24MP e alta sensibilità ISO per una qualità dimmagine elevata anche in caso di poca luce.
 - LUNGA DURATA DELLA BATTERIA : Batteria Z ad alta capacità per scatto continuo.
-- VIDEOMAKING PROFESSIONALE: Full-pixel readout senza pixel binning per video 4K HDR ad alta risoluzione.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21)

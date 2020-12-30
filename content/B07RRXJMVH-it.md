@@ -25,13 +25,13 @@ average: '18.731882352941174'
 
 ℹ️:
 
-- Per dare il via al movimento basta azionare il motore e; il gorilla cammina con le proprie gambe, linsetto sbatte le ali, lo squalo ti insegue, la foca avanza goffamente e il leone corre
-- Il gioco contiene 120 elementi: barre, tavolette, chiodini, cubetti, pulegge e pezzi speciali (ellissi, archi e triangoli)
 - Età consigliata: + 5 anni.
-- Inventa, assembla, gioca! Questo è Maker Lab, il nuovo laboratorio di meccanica per i più piccoli, con tanti componenti facili da montare, per creare fantastici animali che si muovono e camminano
-- Le istruzioni ti guideranno nellassemblaggio di 5 modelli di divertenti animali: il gorilla, il leone, la foca, lo squalo e linsetto; il resto sta alla tua immaginazione!
 - Il modulo motorizzato ti permetterà di animare ogni modello realizzato
-- Made in Italy.
 - Il divertimento non ha limiti con Maker Lab: assembla, gioca, smonta e ricomincia a costruire tutti i divertenti animali del laboratorio per piccoli maker più bello che ci sia!
+- Made in Italy.
+- Il gioco contiene 120 elementi: barre, tavolette, chiodini, cubetti, pulegge e pezzi speciali (ellissi, archi e triangoli)
+- Inventa, assembla, gioca! Questo è Maker Lab, il nuovo laboratorio di meccanica per i più piccoli, con tanti componenti facili da montare, per creare fantastici animali che si muovono e camminano
+- Per dare il via al movimento basta azionare il motore e; il gorilla cammina con le proprie gambe, linsetto sbatte le ali, lo squalo ti insegue, la foca avanza goffamente e il leone corre
+- Le istruzioni ti guideranno nellassemblaggio di 5 modelli di divertenti animali: il gorilla, il leone, la foca, lo squalo e linsetto; il resto sta alla tua immaginazione!
 
 [Acquista qui!!](https://www.amazon.it/dp/B07RRXJMVH/?tag=tolees00-21)

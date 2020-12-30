@@ -27,7 +27,7 @@ average: '1.180348837209302'
 
 - Package weight: 0.02 kilograms
 - Each one comes with collectors guide!
-- Over 80 to collect.
 - Can you find the magic colour changing spies?
+- Over 80 to collect.
 
 [Acquista qui!!](https://www.amazon.it/dp/B08FXS19C9/?tag=tolees00-21)

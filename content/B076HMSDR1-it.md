@@ -25,8 +25,8 @@ average: '27.98753846153846'
 
 ℹ️:
 
+- Black/white
 - Core18 hoody
 - Adidas apparel
-- Black/white
 
 [Acquista qui!!](https://www.amazon.it/dp/B076HMSDR1/?tag=tolees00-21)

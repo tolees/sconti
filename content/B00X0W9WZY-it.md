@@ -26,9 +26,9 @@ average: '55.6657142857143'
 ℹ️:
 
 - Smooth leather
-- Double note compartment
+- Press stud coin pocket
 - Four slip pockets
 - Four card slots
-- Press stud coin pocket
+- Double note compartment
 
 [Acquista qui!!](https://www.amazon.it/dp/B00X0W9WZY/?tag=tolees00-21)

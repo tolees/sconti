@@ -25,9 +25,9 @@ average: '23.759464285714284'
 
 ℹ️:
 
-- Il ricco manuale illustrato ti accompagnerà nella costruzione dei modelli in modo coinvolgente e divertente
 - Con lincredibile APP del Laboratorio di Meccanica e le sue istruzioni 3D interattive, lassemblaggio diventa ancora più semplice
 - Età consigliata: + 8 anni; made in Italy
+- Il ricco manuale illustrato ti accompagnerà nella costruzione dei modelli in modo coinvolgente e divertente
 - Un kit scientifico per ricreare un vero Luna Park, sfidare le leggi della fisica e scoprire la meccanica in modo facile e divertente!
 - Con oltre 200 componenti sarà possibile creare 20 modelli tra i quali la grande ruota panoramica motorizzata, la giostra carosello e altre pazze attrazioni! Altre 30 applicazioni tutte da scoprire ti aspettano online
 

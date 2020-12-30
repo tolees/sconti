@@ -25,9 +25,9 @@ Puoi trovare [Roberto Cavalli Just Cavalli for Her Eau de Toilette  Donna  75 ml
 
 ℹ️:
 
+- With warm, cuddly and creamy rosewood accords in the base
 - Womens fragrance
 - Top notes offer luminous and sparkling drops of enrol, announcing the sexy heart created of Tahitian tiara flowers
-- With warm, cuddly and creamy rosewood accords in the base
 - Fragrance from the designer house of Roberto Cavalla
 - Volume: 75 ml bottle
 

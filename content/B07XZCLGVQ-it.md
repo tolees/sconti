@@ -25,9 +25,9 @@ average: '39.09246031746032'
 
 ℹ️:
 
+- Versione global con manuale in italiano.
 - Compressore portatile ha 5 tasti, display, sensore digitale di pressione, programmi predefiniti. La confezione contiene cavo usb e busta per trasporto. Alimentatore non incluso
 - Compressore di aria per gonfiare ruote (bici, auto, moto) oppure palloni, materassini e altro.
-- Versione global con manuale in italiano.
 - Compressore di Aria portatile a batteria ricaricabile, piccole dimensioni, comodo da trasportare.
 - Xiaomi Mi Portable Electric Air Compressor
 

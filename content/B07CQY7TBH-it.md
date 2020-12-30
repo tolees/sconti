@@ -25,10 +25,10 @@ average: '141.69250000000002'
 
 ℹ️:
 
-- 【Adjustable Wide-angle Camera】: The HD 1080P GPS video camera quadcopter (the angle can be adjusted up to 75 ° down) with an optimized 120 ° wide-angle lens to capture stunning images and video. Just enjoy Real-Time Viewing with your remote control from a birds-eye perspective
-- 【Headless Mode, Altitude Hold and One Key Take off and Landing】: You do not need to worry about orientation and with the simple press of a button your drone will rise to a height or land, perfect for beginners
-- 【Flight Assistant GPS】: With the equipped GPS system, you can get accurate information about your drones position. Built in (RTH) Return-to-home function for fly safer which means that the drone will automatically return home when the battery power is low or the signal is weak during the flight, So you do not have to worry about losing the drone.
 - 【Follow Me Mode】: The drone will automatically follows and captures you wherever you move. Keeping you in the frame at all times, easier to get complex shots, provides hands-free flying and selfie
+- 【Headless Mode, Altitude Hold and One Key Take off and Landing】: You do not need to worry about orientation and with the simple press of a button your drone will rise to a height or land, perfect for beginners
+- 【Adjustable Wide-angle Camera】: The HD 1080P GPS video camera quadcopter (the angle can be adjusted up to 75 ° down) with an optimized 120 ° wide-angle lens to capture stunning images and video. Just enjoy Real-Time Viewing with your remote control from a birds-eye perspective
 - 【Longer Control Distance and Battery】: The control distance reaches up to 300m giving you a wider flight experience with flying time up to 15 minutes Intelligent Battery equipped.
+- 【Flight Assistant GPS】: With the equipped GPS system, you can get accurate information about your drones position. Built in (RTH) Return-to-home function for fly safer which means that the drone will automatically return home when the battery power is low or the signal is weak during the flight, So you do not have to worry about losing the drone.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CQY7TBH/?tag=tolees00-21)

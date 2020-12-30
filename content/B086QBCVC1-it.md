@@ -25,11 +25,11 @@ average: '10.092142857142855'
 
 ℹ️:
 
-- Confezione ecologica in cartone prodotta con materie prime sostenibili
-- Punta 2,0 mm, tratto 0,8 mm
 - Lunghezza di scrittura media 900m
-- Ideale per usi grafici, per realizzare bozze
 - Pennarello con punta in fibra
 - Contiene 5 pz colori assortiti (nero, rosso, blu, verde, giallo)
+- Punta 2,0 mm, tratto 0,8 mm
+- Confezione ecologica in cartone prodotta con materie prime sostenibili
+- Ideale per usi grafici, per realizzare bozze
 
 [Acquista qui!!](https://www.amazon.it/dp/B086QBCVC1/?tag=tolees00-21)

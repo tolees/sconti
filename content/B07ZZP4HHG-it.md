@@ -25,8 +25,8 @@ Puoi trovare [POP! Harry Potter: Harry Potter - Hermione w/Feather](https://www.
 
 ℹ️:
 
-- Uniconica statuina funko pop vinyl della serie harry potter
-- Scopri tutte le altre statuine harry potter di funko e collezionale tutte
 - Hermione w/feather e alto 9cm ed inserita allinterno di una scatola trarente da collezione
+- Scopri tutte le altre statuine harry potter di funko e collezionale tutte
+- Uniconica statuina funko pop vinyl della serie harry potter
 
 [Acquista qui!!](https://www.amazon.it/dp/B07ZZP4HHG/?tag=tolees00-21)

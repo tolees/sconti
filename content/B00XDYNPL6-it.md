@@ -25,10 +25,10 @@ Puoi trovare [Tommy Hilfiger New Danny Belt Cintura  Nero  Masters Black   90 cm
 
 ℹ️:
 
-- Belt Width: 3.5 cm
 - Material: Leather
-- Belt closure: Frame Buckle with Prong
 - Serie: Danny
+- Belt closure: Frame Buckle with Prong
+- Belt Width: 3.5 cm
 - Belt Width: 3.5cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B00XDYNPL6/?tag=tolees00-21)
