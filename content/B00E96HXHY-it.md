@@ -25,11 +25,11 @@ Puoi trovare [Vemer VE431300 Cronotermostato Dafne da Incasso  Bianco/Antracite]
 
 ℹ️:
 
-- Alimentazione: 230 V AC
-- Funzionamento: riscaldamento / condizionamento con regolazione ON-OFF o proporzionale
 - Made in Italy
-- Cambio automatico ora legale
 - Programmazione: settimanale
+- Alimentazione: 230 V AC
 - Montaggio: a incasso su scatole tipo 503
+- Funzionamento: riscaldamento / condizionamento con regolazione ON-OFF o proporzionale
+- Cambio automatico ora legale
 
 [Acquista qui!!](https://www.amazon.it/dp/B00E96HXHY/?tag=tolees00-21)
