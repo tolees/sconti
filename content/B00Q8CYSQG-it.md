@@ -25,10 +25,10 @@ Puoi trovare [My Little Pony 35281 Classic Rainbow Pony 35281-Gusty](https://www
 
 ℹ️:
 
-- Riproduzioni autentiche dei pony degli anni 80 originali
-- Età 3 +
+- Riproduzioni classiche degli amici pony originali
 - Include pennello, nastro e mini poster da collezione
 - Ogni pony ha un diverso segno di glitter per raccogliere tutti e quattro i pony (ciascuno venduto separatamente)
-- Riproduzioni classiche degli amici pony originali
+- Riproduzioni autentiche dei pony degli anni 80 originali
+- Età 3 +
 
 [Acquista qui!!](https://www.amazon.it/dp/B00Q8CYSQG/?tag=tolees00-21)

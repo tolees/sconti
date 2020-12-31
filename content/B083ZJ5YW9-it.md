@@ -25,9 +25,9 @@ average: '18.3'
 
 ℹ️:
 
-- 1-8 giocatori
 - Durata della partita 30 minuti per giocatore
-- Hastur entrerà in gioco relativamente presto e minerà soprattutto la saluta dei vostri personaggi, trascinandoli alla follia
 - Età 12+
+- Hastur entrerà in gioco relativamente presto e minerà soprattutto la saluta dei vostri personaggi, trascinandoli alla follia
+- 1-8 giocatori
 
 [Acquista qui!!](https://www.amazon.it/dp/B083ZJ5YW9/?tag=tolees00-21)
