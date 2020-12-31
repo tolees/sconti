@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Perfect Tee Maglietta  Sports al 26.04 % di sconto'
-date: 2020-12-27 15:31:16
+date: 2020-12-31 04:39:06
 image: 'https://m.media-amazon.com/images/I/41RfrjjDCCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Puoi trovare [Levi s The Perfect Tee Maglietta  Sportswear Logo White  M Donna](
 ℹ️:
 
 - Un morbido girocollo classico che si abbina con tutto
-- Girocollo con impuntura triangolare
 - Con il nostro inconfondibile logo
+- Girocollo con impuntura triangolare
 
 [Acquista qui!!](https://www.amazon.it/dp/B01N36WNEC/?tag=tolees00-21)
