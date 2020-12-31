@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 28.20 % su Sony MDR-RF895RK - Cuffie TV wireless ov  '
-date: 2020-12-30 05:35:25
+date: 2020-12-31 17:17:57
 image: 'https://m.media-amazon.com/images/I/41JEC7PfhXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,10 @@ average: '78.98'
 
 ℹ️:
 
-- Ricerca automatica della frequenza per una trasmissione di alta qualità
-- Cuffie wireless per la casa con una gamma di 100 metri
-- Sistema di cancellazione del rumore per un suono più chiaro, il driver da 40 mm offre unampia gamma di frequenze
-- Risposta di frequenza da 10 Hz a 22.000 Hz
-- Tempo di ricarica: ca. 7 ore (carica completa) per un massimo di 20 ore di durata della batteria
-- Inclusi nella consegna: cuffie stereo cordless, unità trasmettitore stereo RF, alimentatore, mini-cavo stereo 1,5 m, batteria ibrida metallo nichel
+- Wireless headphones for the home with a range of 100 meters
+- Included in delivery: Cordless stereo headphones, RF stereo transmitter unit, power supply, stereo mini-cable 1.5m, nickel-metal hybrid battery
+- Noise cancellation system for clearer sound, 40mm driver provides wide frequency range
+- Charging time: Approx. 7 hours (full charge) for up to 20 hours of battery life
+- Automatic frequency search for high-quality transmission
 
 [Acquista qui!!](https://www.amazon.it/dp/B01N0Z35SH/?tag=tolees00-21)

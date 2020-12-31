@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.57 % su Samsung Memorie MZ-76Q1T0 860 QVO SSD In  '
-date: 2020-12-30 05:25:24
+date: 2020-12-31 17:17:57
 image: 'https://m.media-amazon.com/images/I/51dNXsA2avL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KSHCG3R/?tag=tolees00-21'
 descuento: '30.57'
-average: '108.05806818181817'
+average: '108.09899999999999'
 ---
 
 [Samsung Memorie MZ-76Q1T0 860 QVO SSD Interno da 1 TB  SATA  2.5"](https://www.amazon.it/dp/B07KSHCG3R/?tag=tolees00-21) ha un prezzo di 109.9 EUR (originale: 158.29 EUR) con uno sconto del 30.57 % sconto qui:

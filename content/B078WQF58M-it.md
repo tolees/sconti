@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fila Disruptor Low Wmn  Scarpe da Ginnas al 32.49 % di sconto'
-date: 2020-12-30 05:41:00
+date: 2020-12-31 17:02:37
 image: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,10 @@ Puoi trovare [Fila Disruptor Low Wmn  Scarpe da Ginnastica Basse Donna  Bianco  
 
 ℹ️:
 
-- FILA 1010302 DONNA
-- Calzata piccola
-- Distruptor low donna
+- Wide leather tongue with embroidered logo
+- Tono on tone stitching
+- Tubolar laces
+- Embroidered logo to the side
+- Leather insert with embroidered logo on the heel
 
 [Acquista qui!!](https://www.amazon.it/dp/B078WQF58M/?tag=tolees00-21)

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Trono Di Spade Stagione 8  3 Blu Ray  al 40.02 % di sconto'
-date: 2020-12-30 10:27:30
+title: 'Trono Di Spade Stagione 8  3 Blu Ray  al 47.62 % di sconto'
+date: 2020-12-31 17:03:30
 image: 'https://m.media-amazon.com/images/I/51CGwSM01WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07SLFS58R-it'
-actualPrice: 29.99 EUR
+actualPrice: 26.19 EUR
 currency: EUR
-price: 29.99
+price: 26.19
 comparePrice: 50.0 EUR
 prodname: 'Trono Di Spade Stagione 8  3 Blu Ray '
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21'
-descuento: '40.02'
-average: '23.33230769230769'
+descuento: '47.62'
+average: '23.471707317073168'
 ---
 
-Puoi trovare [Trono Di Spade Stagione 8  3 Blu Ray ](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21) con il prezzo 29.99 EUR (originale: 50.0 EUR) 40.02 % sconto qui:
+Puoi trovare [Trono Di Spade Stagione 8  3 Blu Ray ](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21) con il prezzo 26.19 EUR (originale: 50.0 EUR) 47.62 % sconto qui:
 
 [![Trono Di Spade Stagione 8  3 Blu Ray ](https://m.media-amazon.com/images/I/51CGwSM01WL._SL200_.jpg)](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.00 % su Fifa 21 - Nintendo Switch  '
-date: 2020-12-30 05:54:31
+date: 2020-12-31 17:28:40
 image: 'https://m.media-amazon.com/images/I/51W3kMR6qkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08BB5XHPG/?tag=tolees00-21'
 descuento: '20.00'
-average: '42.046470588235294'
+average: '42.016666666666666'
 ---
 
 [Fifa 21 - Nintendo Switch](https://www.amazon.it/dp/B08BB5XHPG/?tag=tolees00-21) ha un prezzo di 39.99 EUR (originale: 49.99 EUR) con uno sconto del 20.00 % sconto qui:

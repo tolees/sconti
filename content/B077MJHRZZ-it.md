@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.94 % su PUMA Smash V2  Scarpe da Ginnastica Unis  '
-date: 2020-12-30 05:32:43
+date: 2020-12-31 17:03:41
 image: 'https://m.media-amazon.com/images/I/41ztqae-fAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21'
 descuento: '30.94'
-average: '37.612857142857145'
+average: '37.642173913043486'
 ---
 
 [PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Black White Silver   44 EU](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21) ha un prezzo di 37.95 EUR (originale: 54.95 EUR) con uno sconto del 30.94 % sconto qui:
@@ -25,9 +25,9 @@ average: '37.612857142857145'
 
 ℹ️:
 
-- Materiale suola: gomma
-- Pelle
-- Materiale esterno: pelle
 - Fodera: maglia
+- Materiale suola: gomma
+- Materiale esterno: pelle
+- Pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21)

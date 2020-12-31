@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ROLLER BALL R56 NERO 0.6MM PENTEL al 30.76 % di sconto'
-date: 2020-12-31 16:59:42
+date: 2020-12-31 16:59:45
 image: 'https://m.media-amazon.com/images/I/21KUNRDCehL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 34.43 % su Immortals Fenyx Rising Switch  '
-date: 2020-12-30 05:20:29
+date: 2020-12-31 17:08:17
 image: 'https://m.media-amazon.com/images/I/51UHfNqu64L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07T4JWC3T/?tag=tolees00-21'
 descuento: '34.43'
-average: '43.066923076923075'
+average: '42.656666666666666'
 ---
 
 [Immortals Fenyx Rising Switch](https://www.amazon.it/dp/B07T4JWC3T/?tag=tolees00-21) ha un prezzo di 39.99 EUR (originale: 60.99 EUR) con uno sconto del 34.43 % sconto qui:
