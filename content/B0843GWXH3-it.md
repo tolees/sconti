@@ -25,9 +25,9 @@ average: '4.99'
 
 ℹ️:
 
-- Capacità logiche, attenzione e concentrazione, forme e colori, manualità fine e coordinazione occhio, mano, decodificazioni di immagini
-- 24 tessere autocorrettive, istruzioni
 - Tessere alto spessore, incastri autocorrettivi, cartone super resistente
+- 24 tessere autocorrettive, istruzioni
 - Associa i cuccioli alla mamma
+- Capacità logiche, attenzione e concentrazione, forme e colori, manualità fine e coordinazione occhio, mano, decodificazioni di immagini
 
 [Acquista qui!!](https://www.amazon.it/dp/B0843GWXH3/?tag=tolees00-21)
