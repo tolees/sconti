@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 18.14 % su Xiaomi Redmi Note 9S 64 + 4 Gb  Interste  '
-date: 2020-12-30 05:29:32
+date: 2020-12-31 22:45:41
 image: 'https://m.media-amazon.com/images/I/41RwQG6atEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21'
 descuento: '18.14'
-average: '178.11133333333333'
+average: '179.29823529411763'
 ---
 
 [Xiaomi Redmi Note 9S 64 + 4 Gb  Interstellar Grey](https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21) ha un prezzo di 188.2 EUR (originale: 229.9 EUR) con uno sconto del 18.14 % sconto qui:
@@ -27,7 +27,7 @@ average: '178.11133333333333'
 
 - Batteria da 5020 mAh; 18w fast charging
 - Sistema operativo miui 11
-- Frequenza fino a 2.3 ghz
 - Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
+- Frequenza fino a 2.3 ghz
 
 [Acquista qui!!](https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21)
