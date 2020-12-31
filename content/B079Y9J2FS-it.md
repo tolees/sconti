@@ -25,8 +25,8 @@ Puoi trovare [Assetto Corsa - Ultimate - Xbox One](https://www.amazon.it/dp/B079
 
 ℹ️:
 
-- Serie completa di gare in modalità single player e possibilità di sfide online multiplayer
-- 178 vetture da sogno di Ferrari, Porsche, BMW, Audi, Lamborghini, McLaren, Praga, Corvette, Maserati, Lotus e di molti altri prestigiosi marchi
 - 33 configurazioni di tracciati su 16 diversi circuiti
+- 178 vetture da sogno di Ferrari, Porsche, BMW, Audi, Lamborghini, McLaren, Praga, Corvette, Maserati, Lotus e di molti altri prestigiosi marchi
+- Serie completa di gare in modalità single player e possibilità di sfide online multiplayer
 
 [Acquista qui!!](https://www.amazon.it/dp/B079Y9J2FS/?tag=tolees00-21)
