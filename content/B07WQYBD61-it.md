@@ -25,8 +25,8 @@ average: '18.6'
 
 ℹ️:
 
-- Humor E Un Pizzico Di Follia Aliena: Chi L’Ha Detto Che La Scienza E La Biologia Sono Noiose?
 - Completa Le Missioni Mentre Scopri Centinaia Di Oggetti Da Collezione E Segreti Lungo La Strada
+- Humor E Un Pizzico Di Follia Aliena: Chi L’Ha Detto Che La Scienza E La Biologia Sono Noiose?
 - Multiplayer Co-Op A 2 Giocatori Online
 
 [Acquista qui!!](https://www.amazon.it/dp/B07WQYBD61/?tag=tolees00-21)

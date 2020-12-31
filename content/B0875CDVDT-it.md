@@ -25,10 +25,10 @@ average: '57.5'
 
 ℹ️:
 
-- Tasche: tasca su facciata
+- Spallacci: a scomparsa totale nello schienale con cross-over system: tramite lancoraggio dei nastri alla barra si sollevano gli spallaci evitando lo sfregamento a terra; imbottiti e rivestiti in tessuto e rete traspirante; schienale: imbottito e rivestito in tessuto
+- Tessuto: eco-material: poliestere riciclato
 - Dimensioni: 48x35x22 cm; capacita: 35 lt
 - Caratteristiche: barra singola telescopica con doppia regolazione; ruote da 75 mm; spallacci a scomparsa totale nello schienale e e sollevati grazie al cross-over system quando utilizzato come trolley; fondo preformato integrato per garantire la stabilità del prodotto e la protezione del contenuto
-- Tessuto: eco-material: poliestere riciclato
-- Spallacci: a scomparsa totale nello schienale con cross-over system: tramite lancoraggio dei nastri alla barra si sollevano gli spallaci evitando lo sfregamento a terra; imbottiti e rivestiti in tessuto e rete traspirante; schienale: imbottito e rivestito in tessuto
+- Tasche: tasca su facciata
 
 [Acquista qui!!](https://www.amazon.it/dp/B0875CDVDT/?tag=tolees00-21)
