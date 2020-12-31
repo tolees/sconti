@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hugo Boss Boss Bottled Eau de Toilette   al 44.33 % di sconto'
-date: 2020-12-30 16:34:47
+date: 2020-12-31 16:59:41
 image: 'https://m.media-amazon.com/images/I/417BBd8hbUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,13 @@ Puoi trovare [Hugo Boss Boss Bottled Eau de Toilette  Uomo  100 ml](https://www.
 
 ℹ️:
 
-- 100 ml
-- EDT
-- Uomo
+- Has an initial fresh and fruity impression
+- Masculine and unmistakably Boss
+- Warm and flowery middle notes dominated by geraniums and a dab of clove
+- Masculine base notes of sandalwood, cedar wood and vetiver
+- An aftershave for men
+- Fragrance from the designer house of Hugo Boss
+- Fragrance from the designer house of Hugo Boss
+- An aftershave for men
 
 [Acquista qui!!](https://www.amazon.it/dp/B000RPLZAM/?tag=tolees00-21)
