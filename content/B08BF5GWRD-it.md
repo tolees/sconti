@@ -25,9 +25,9 @@ average: '109.5961111111111'
 
 ℹ️:
 
-- Lessico, sviluppo sensoriale, autonomia, logica, memoria
-- Per veri numeri uno
 - Schermo 10 pollici, memoria 16 giga, vero Tablet Androis
 - Caricabatteria, cavo OTG inclusi
+- Per veri numeri uno
+- Lessico, sviluppo sensoriale, autonomia, logica, memoria
 
 [Acquista qui!!](https://www.amazon.it/dp/B08BF5GWRD/?tag=tolees00-21)

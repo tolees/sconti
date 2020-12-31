@@ -26,7 +26,7 @@ average: '1.1762499999999998'
 ℹ️:
 
 - Ognuno viene fornito con guida per collezionisti.
-- Oltre 80 da collezionare.
 - Riuscite a trovare le spie magiche che cambiano colore?
+- Oltre 80 da collezionare.
 
 [Acquista qui!!](https://www.amazon.it/dp/B08FXS19C9/?tag=tolees00-21)

@@ -25,10 +25,10 @@ average: '78.98'
 
 ℹ️:
 
-- Included in delivery: Cordless stereo headphones, RF stereo transmitter unit, power supply, stereo mini-cable 1.5m, nickel-metal hybrid battery
-- Wireless headphones for the home with a range of 100 meters
 - Charging time: Approx. 7 hours (full charge) for up to 20 hours of battery life
-- Noise cancellation system for clearer sound, 40mm driver provides wide frequency range
+- Wireless headphones for the home with a range of 100 meters
 - Automatic frequency search for high-quality transmission
+- Included in delivery: Cordless stereo headphones, RF stereo transmitter unit, power supply, stereo mini-cable 1.5m, nickel-metal hybrid battery
+- Noise cancellation system for clearer sound, 40mm driver provides wide frequency range
 
 [Acquista qui!!](https://www.amazon.it/dp/B01N0Z35SH/?tag=tolees00-21)

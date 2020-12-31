@@ -25,8 +25,8 @@ Puoi trovare [UGG Classic Mini II  Stivali Classici Donna  Pelle](https://www.am
 
 ℹ️:
 
-- Fodera: Lana
 - Materiale suola: EVA
+- Fodera: Lana
 - Materiale esterno: Pelle di pecora e pelle scamosciata doppia
 - Chiusura: Senza chiusura
 

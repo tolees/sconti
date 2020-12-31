@@ -25,10 +25,10 @@ average: '4.99'
 
 ℹ️:
 
-- Prodotto in Italia
 - 3.5 metri di stenditura
-- Telaio in resina
-- Bracci regolabili
 - Adatto anche per superfici tonde
+- Bracci regolabili
+- Prodotto in Italia
+- Telaio in resina
 
 [Acquista qui!!](https://www.amazon.it/dp/B006FFTN5M/?tag=tolees00-21)

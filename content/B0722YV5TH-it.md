@@ -25,10 +25,10 @@ average: '3.57'
 
 ℹ️:
 
-- Con connettore micro USB di tipo C, carica la maggior parte degli smartphone.
-- Colore: Nero (EP-DW700CBE).
 - Cavo originale Samsung di tipo C con connettore reversibile che può caricare e sincronizzare il vostro nuovo telefono Android ad alta velocità, con uscita ad alta potenza, e una ricarica affidabile. Inserisci la spina nel verso giusto la prima volta e tutte le successive.
 - La giusta lunghezza del cavo di 1,5 m.
 - Funziona sia con caricabatterie inglese che europeo, con porta micro USB di tipo C.
+- Colore: Nero (EP-DW700CBE).
+- Con connettore micro USB di tipo C, carica la maggior parte degli smartphone.
 
 [Acquista qui!!](https://www.amazon.it/dp/B0722YV5TH/?tag=tolees00-21)
