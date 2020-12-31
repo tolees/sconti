@@ -26,9 +26,9 @@ average: '4.99'
 ℹ️:
 
 - 3.5 metri di stenditura
-- Adatto anche per superfici tonde
 - Bracci regolabili
-- Prodotto in Italia
 - Telaio in resina
+- Prodotto in Italia
+- Adatto anche per superfici tonde
 
 [Acquista qui!!](https://www.amazon.it/dp/B006FFTN5M/?tag=tolees00-21)
