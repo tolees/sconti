@@ -25,13 +25,13 @@ average: '18.78720930232558'
 
 ℹ️:
 
-- Made in Italy.
 - The game contains 120 elements: bars, tablets, nails, cubes, pulleys and special pieces (ellipses, arches and triangles).
+- To start movement, simply operate the engine; the gorilla walks with their own legs, the insect knocks the wings, the shark chases you, the seal advances clumsy and the lion runs
+- Made in Italy.
 - Instructions will guide you in assembling 5 patterns of fun animals: gorilla, lion, seal, shark and insect; the rest is your imagination!
+- Invent, assemble, play! This is Maker Lab, the new mechanics workshop for the little ones with lots of easy to assemble components to create fantastic animals that move and walk
+- The motorized module allows you to animate any model made
 - Recommended age: + 5 years
 - Fun has no limits with Maker Lab: assemble, play, disassemble and start building all the fun animals in the lab for small makers that are the most beautiful there is!
-- To start movement, simply operate the engine; the gorilla walks with their own legs, the insect knocks the wings, the shark chases you, the seal advances clumsy and the lion runs
-- The motorized module allows you to animate any model made
-- Invent, assemble, play! This is Maker Lab, the new mechanics workshop for the little ones with lots of easy to assemble components to create fantastic animals that move and walk
 
 [Acquista qui!!](https://www.amazon.it/dp/B07RRXJMVH/?tag=tolees00-21)

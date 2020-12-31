@@ -26,9 +26,9 @@ average: '9.896632653061225'
 ℹ️:
 
 - Inspirato al metodo Montessori
-- Metti tutto a posto nella casetta
 - Sviluppa lautonomia, la concentrazione, la logica, la manualità fine e la coordinazione occhio-mano
-- Contiene Casa 3D da montare con 15 elementi sagomati, 15 card stand e istruzioni
+- Metti tutto a posto nella casetta
 - Made in Italy
+- Contiene Casa 3D da montare con 15 elementi sagomati, 15 card stand e istruzioni
 
 [Acquista qui!!](https://www.amazon.it/dp/B07NSFXSZ9/?tag=tolees00-21)

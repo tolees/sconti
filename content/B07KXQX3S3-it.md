@@ -25,11 +25,11 @@ average: '27.57505154639175'
 
 ℹ️:
 
-- Nintendo-licensed memory card for the Nintendo Switch system
+- Transfer rates up to 100MB/s to load games fast
+- Video Speed - U3
+- Instantly add up to 128GB of additional space
 - Compatibility: microSDHC, microSDXC, microSDHC UHS-I, and microSDXC UHS-I supporting host devices
 - Store digital games and additional content in one place to play anywhere
-- Transfer rates up to 100MB/s to load games fast
-- Instantly add up to 128GB of additional space
-- Video Speed - U3
+- Nintendo-licensed memory card for the Nintendo Switch system
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KXQX3S3/?tag=tolees00-21)

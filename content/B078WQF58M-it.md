@@ -25,10 +25,10 @@ Puoi trovare [Fila Disruptor Low Wmn  Scarpe da Ginnastica Basse Donna  Bianco  
 
 ℹ️:
 
-- Wide leather tongue with embroidered logo
 - Tono on tone stitching
-- Tubolar laces
 - Embroidered logo to the side
+- Tubolar laces
 - Leather insert with embroidered logo on the heel
+- Wide leather tongue with embroidered logo
 
 [Acquista qui!!](https://www.amazon.it/dp/B078WQF58M/?tag=tolees00-21)

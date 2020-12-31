@@ -25,10 +25,10 @@ Puoi trovare [Grandi Giochi- Cattura Le Stelle  Multicolore  GG01314](https://ww
 
 ℹ️:
 
-- Lampada nottura
-- 10 livelli di colore
 - Bacchetta magica con luci e suoni
+- 10 livelli di colore
 - Fatine magiche
 - 4 funnzioni: gioco, lampada, solo musica, musica con luci
+- Lampada nottura
 
 [Acquista qui!!](https://www.amazon.it/dp/B07DD75RM8/?tag=tolees00-21)

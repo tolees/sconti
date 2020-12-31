@@ -25,9 +25,9 @@ average: '34.760000000000005'
 
 ℹ️:
 
-- Materiale esterno: pelle
 - Le calzature di puma sono la perfetta alternativa sportiva ad ogni look nel tempo libero; per calcio, pallavolo, fitness o altri sport: queste scarpe sportive migliorano sempre la performance
 - Fodera: maglia
 - Materiale suola: gomma
+- Materiale esterno: pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B077MLPMSB/?tag=tolees00-21)

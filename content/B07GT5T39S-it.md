@@ -25,12 +25,12 @@ average: '99.79466666666666'
 
 ℹ️:
 
-- Illuminazione personalizzabile sia display che tasti
-- Ascolta app (es. Spotify) via USB
-- Microfono esterno in dotazione, con diminuzione dei rumori di sottofondo
-- Music Playback per cellulari Android
 - Dual Bluetooth (collega 2 cellulari contemporaneamente)
-- Potenza di uscita: 4 x 55 W.
+- Illuminazione personalizzabile sia display che tasti
 - Controllo vocale con Siri Eyes Free
+- Ascolta app (es. Spotify) via USB
+- Music Playback per cellulari Android
+- Potenza di uscita: 4 x 55 W.
+- Microfono esterno in dotazione, con diminuzione dei rumori di sottofondo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07GT5T39S/?tag=tolees00-21)

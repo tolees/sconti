@@ -25,13 +25,13 @@ Puoi trovare [Hugo Boss Boss Bottled Eau de Toilette  Uomo  100 ml](https://www.
 
 ℹ️:
 
-- Fragrance from the designer house of Hugo Boss
-- Masculine base notes of sandalwood, cedar wood and vetiver
-- Masculine and unmistakably Boss
-- An aftershave for men
 - Has an initial fresh and fruity impression
+- An aftershave for men
 - Warm and flowery middle notes dominated by geraniums and a dab of clove
 - An aftershave for men
+- Masculine and unmistakably Boss
 - Fragrance from the designer house of Hugo Boss
+- Fragrance from the designer house of Hugo Boss
+- Masculine base notes of sandalwood, cedar wood and vetiver
 
 [Acquista qui!!](https://www.amazon.it/dp/B000RPLZAM/?tag=tolees00-21)

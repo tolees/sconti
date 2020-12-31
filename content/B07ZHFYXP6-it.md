@@ -26,8 +26,8 @@ Puoi trovare [Xiaomi Redmi Note 8t Mooshadow Grey 6 3" 4gb/64gb Dual Sim](https:
 ℹ️:
 
 - Connectivity options on the Xiaomi Redmi Note 8T are Wi-Fi 802.11 a, GPS, NFC, and USB Type-C. Sensors on the phone include acelerometer, ambient light sensor, compass/ magnetometer, proximity sensor, and fingerprint sensor. The Xiaomi Redmi Note 8T supports face unlock.
-- Xiaomi Redmi Note 8T is powered by an octa-core Qualcomm Snapdragon 665 processor and come with 4GB of RAM.
 - It is powered by a 4000mAh non-removable battery. t supports proprietary fast charging.
 - It has 48-megapixel camera and comes with 64GB ROM.
+- Xiaomi Redmi Note 8T is powered by an octa-core Qualcomm Snapdragon 665 processor and come with 4GB of RAM.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21)
