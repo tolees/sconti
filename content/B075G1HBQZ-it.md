@@ -25,10 +25,10 @@ average: '20.21333333333333'
 
 ℹ️:
 
-- Corona è una birra Pale lager messicana, prodotta a partire dal 1925
+- Qualunque sia il periodo dellanno, Corona va servita gelata con uno spicchio di lime per completare ed esaltare il suo sapore
 - Per una buona esperienza va gustata con la sua tradizionale fetta di lime
+- Corona è una birra Pale lager messicana, prodotta a partire dal 1925
 - È più leggera delle birre tradizionali, con un gusto fine e rinfrescante
 - Confezione da 24 bottiglie da 33 cl di Corona, birra Lager 4.5% alcool
-- Qualunque sia il periodo dellanno, Corona va servita gelata con uno spicchio di lime per completare ed esaltare il suo sapore
 
 [Acquista qui!!](https://www.amazon.it/dp/B075G1HBQZ/?tag=tolees00-21)
