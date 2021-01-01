@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 28.93 % su Wc Net - Fosse Biologiche - 12 Caps - 21  '
-date: 2020-12-30 05:29:52
+date: 2021-01-01 05:08:08
 image: 'https://m.media-amazon.com/images/I/51ffQ2DgoHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ average: '7.1'
 
 ℹ️:
 
+- Caps idrosolubile, si getta nel wc
 - Elimina i cattivi odori
 - Evita gli ingorghi e gli spurghi
-- Caps idrosolubile, si getta nel wc
 
 [Acquista qui!!](https://www.amazon.it/dp/B00EF87NLC/?tag=tolees00-21)
