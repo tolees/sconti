@@ -26,7 +26,7 @@ Puoi trovare [Giotto Stilnovo - Set con 50 lápices y 1 Sacapuntas  Multicolor](
 ℹ️:
 
 - Mina 3.3 mm di ottima qualità, con spazio per scrivere il nome sul pastello, disponibile in confezione da 50 colori (44 colori classici + oro, argento, 4 fluo) con temperamatite
-- Pastello a sezione esagonale 6.8 mm, verniciato nel colore della mina con spigoli argentati, lunghezza 18 cm
 - Una novità che aiuterà anche la ricerca della fondazione Umberto Veronesi a favore dei piccoli pazienti
+- Pastello a sezione esagonale 6.8 mm, verniciato nel colore della mina con spigoli argentati, lunghezza 18 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B0764GRRYV/?tag=tolees00-21)

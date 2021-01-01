@@ -25,11 +25,11 @@ average: '99.99'
 
 ℹ️:
 
-- Design compatto e trasporto semplice grazie al sistema di bloccaggio integrato
-- Sistema stirante ad alte prestazioni: potente getto vapore da 350 g/min, ideale per sconfiggere anche le pieghe più ostinate
 - Livello di rumore: 15 dB(A)
-- Piastra brevettata microsteam 400 con 400 fori di uscita del vapore, per una diffusione ottimale del vapore
 - 4 filtri anticalcare inclusi
 - Ampio serbatoio estraibile da 1,5l a riempimento continuo: perfetto per stirare grandi carichi senza interruzioni
+- Design compatto e trasporto semplice grazie al sistema di bloccaggio integrato
+- Piastra brevettata microsteam 400 con 400 fori di uscita del vapore, per una diffusione ottimale del vapore
+- Sistema stirante ad alte prestazioni: potente getto vapore da 350 g/min, ideale per sconfiggere anche le pieghe più ostinate
 
 [Acquista qui!!](https://www.amazon.it/dp/B079VTXGGD/?tag=tolees00-21)
