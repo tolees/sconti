@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'sconto del 27.50 % su Harry Potter Magical Collection  8 Blu R  '
-date: 2020-12-31 17:21:16
+title: 'sconto del 29.17 % su Harry Potter Magical Collection  8 Blu R  '
+date: 2021-01-01 17:42:13
 image: 'https://m.media-amazon.com/images/I/410Tv39tecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B083YKR9VP-it'
-actualPrice: 43.49 EUR
+actualPrice: 42.49 EUR
 currency: EUR
-price: 43.49
+price: 42.49
 comparePrice: 59.99 EUR
 prodname: 'Harry Potter Magical Collection  8 Blu Ray  - Cofanetto con Copertina in Similpelle  Edizione Digibook  32 pagine '
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083YKR9VP/?tag=tolees00-21'
-descuento: '27.50'
-average: '41.782'
+descuento: '29.17'
+average: '41.820270270270264'
 ---
 
-[Harry Potter Magical Collection  8 Blu Ray  - Cofanetto con Copertina in Similpelle  Edizione Digibook  32 pagine ](https://www.amazon.it/dp/B083YKR9VP/?tag=tolees00-21) ha un prezzo di 43.49 EUR (originale: 59.99 EUR) con uno sconto del 27.50 % sconto qui:
+[Harry Potter Magical Collection  8 Blu Ray  - Cofanetto con Copertina in Similpelle  Edizione Digibook  32 pagine ](https://www.amazon.it/dp/B083YKR9VP/?tag=tolees00-21) ha un prezzo di 42.49 EUR (originale: 59.99 EUR) con uno sconto del 29.17 % sconto qui:
 
 [![Harry Potter Magical Collection  8 Blu R](https://m.media-amazon.com/images/I/410Tv39tecL._SL200_.jpg)](https://www.amazon.it/dp/B083YKR9VP/?tag=tolees00-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 47.69 % su Vans Atwood  Scarpe da Ginnastica Uomo    '
-date: 2020-12-31 17:16:30
+date: 2021-01-01 17:21:03
 image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ average: '34.0'
 
 ℹ️:
 
-- Vulcanised sole for extra grip
-- Gum rubber sole
-- SPD studs connection
-- Comfortable
-- Vulcanized sole for extra grip
+- Materiale suola: Gomma
+- Materiale esterno: Sintetico
+- Tipo di tacco: Senza tacco
+- Chiusura: Stringata
+- Fodera: Tessuto
 
 [Acquista qui!!](https://www.amazon.it/dp/B003RX1FBA/?tag=tolees00-21)

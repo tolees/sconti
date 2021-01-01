@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'sconto del 27.49 % su Buffalo London 1339-14 2.0 V  Scarpe da   '
-date: 2020-12-31 17:06:34
+title: 'sconto del 36.50 % su Buffalo London 1339-14 2.0 V  Scarpe da   '
+date: 2021-01-01 17:22:32
 image: 'https://m.media-amazon.com/images/I/41uDvZ7EFTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07MXKDR5S-it'
-actualPrice: 108.77 EUR
+actualPrice: 95.25 EUR
 currency: EUR
-price: 108.77
+price: 95.25
 comparePrice: 150.0 EUR
 prodname: 'Buffalo London 1339-14 2.0 V  Scarpe da Ginnastica Donna  Nero  40 EU'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MXKDR5S/?tag=tolees00-21'
-descuento: '27.49'
-average: '98.7390625'
+descuento: '36.50'
+average: '98.53382352941178'
 ---
 
-[Buffalo London 1339-14 2.0 V  Scarpe da Ginnastica Donna  Nero  40 EU](https://www.amazon.it/dp/B07MXKDR5S/?tag=tolees00-21) ha un prezzo di 108.77 EUR (originale: 150.0 EUR) con uno sconto del 27.49 % sconto qui:
+[Buffalo London 1339-14 2.0 V  Scarpe da Ginnastica Donna  Nero  40 EU](https://www.amazon.it/dp/B07MXKDR5S/?tag=tolees00-21) ha un prezzo di 95.25 EUR (originale: 150.0 EUR) con uno sconto del 36.50 % sconto qui:
 
 [![Buffalo London 1339-14 2.0 V  Scarpe da ](https://m.media-amazon.com/images/I/41uDvZ7EFTL._SL200_.jpg)](https://www.amazon.it/dp/B07MXKDR5S/?tag=tolees00-21)
 
 ℹ️:
 
-- ICONIC AND HERITAGE BUFFALO DESIGN WITH HISTORY PREMIUM LEATHER PRODUCT - MADE IN EUROPE PERFECT FITTING WITH MEMORYFOAM INSOCK
+- ICONIC AND HERITAGE BUFFALO Design con prodotto in pelle di alta qualità, made in Europa, perfetta vestibilità con imbottitura in memory foam
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MXKDR5S/?tag=tolees00-21)
