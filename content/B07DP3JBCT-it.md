@@ -25,10 +25,10 @@ average: '36.20532110091743'
 
 ℹ️:
 
+- Two main compartments to keep your toiletries separate
 - Height: 16 cm, Width: 27 cm, Depth: 10.5 cm
+- Zip front pocket, with multiple pockets and organisation inside
 - Made from a 60 Percent nylon and 40 Percent polyester blend
 - Theres a hook so you can hang up this practical case
-- Two main compartments to keep your toiletries separate
-- Zip front pocket, with multiple pockets and organisation inside
 
 [Acquista qui!!](https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21)

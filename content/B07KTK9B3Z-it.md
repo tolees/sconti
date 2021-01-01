@@ -26,9 +26,9 @@ average: '74.46475409836066'
 ℹ️:
 
 - Include una targhetta decorativa di Trafalgar Square
-- Misura 12 cm di altezza, 24 cm di larghezza e 20 cm di profondità
 - Scopri unesperienza di costruzione impegnativa ma gratificante con questo set Lego Architecture
-- Questo set include oltre 1.190 pezzi
+- Misura 12 cm di altezza, 24 cm di larghezza e 20 cm di profondità
 - Interpretazione Lego Architecture di un famoso punto di riferimento architettonico londinese, Trafalgar Square
+- Questo set include oltre 1.190 pezzi
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KTK9B3Z/?tag=tolees00-21)

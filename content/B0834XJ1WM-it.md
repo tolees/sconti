@@ -25,10 +25,10 @@ average: '39.99'
 
 ℹ️:
 
-- [Flexible to Use]: Two wireless game controller gamepad can be used as an entire controller or can be used as two independent controllers for Nintendo Switch. You can play multiple ways, depending on the game.New packaging upgrade,Free to get the cute switch Thumb Grips Cap From 21th Oct. now.
-- [ 360°Precision Joystick ]: The switch pro controller with neoteric 3D stick can be operated precisely on 360°all-round. The controller shape in the sides also make it more comfortable to Joy-Con grip. This Wireless Switch Pro Controller will offering you a amazing gaming experience.
 - [ 6-Axis Sensing and Vibration ] : Features with vibration function & motion control in each switch controller, and each wireless controller has a full set of buttons. The switch controllers refines gaming to immerse you into the gaming worlds you choose to discover. Enjoying a new level of experience you can feel with every hit.
 - [ Made for Nintendo Switch Console] : This wireless game controller is compatible with nitendo switch console as the replacement for Joy-Con controllers. It supports the latest software version of Switch. The size of this controller is suitable for adult and kids.
 - [ Built in Rechargeable Battery ] : This wireless controller for nintendo switch built in 400 mAh rechargeable battery, the playing time can last up to 10 hours, the full charging time is 2-3 hours. Adequate power supply. So you do n’t need to worry about sudden power outages during the game.
+- [ 360°Precision Joystick ]: The switch pro controller with neoteric 3D stick can be operated precisely on 360°all-round. The controller shape in the sides also make it more comfortable to Joy-Con grip. This Wireless Switch Pro Controller will offering you a amazing gaming experience.
+- [Flexible to Use]: Two wireless game controller gamepad can be used as an entire controller or can be used as two independent controllers for Nintendo Switch. You can play multiple ways, depending on the game.New packaging upgrade,Free to get the cute switch Thumb Grips Cap From 21th Oct. now.
 
 [Acquista qui!!](https://www.amazon.it/dp/B0834XJ1WM/?tag=tolees00-21)

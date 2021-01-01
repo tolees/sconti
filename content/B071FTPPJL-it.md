@@ -25,9 +25,9 @@ average: '44.92333333333333'
 
 ℹ️:
 
-- Tasca a marsupio
 - Stile sportivo e comfort casual
 - Orli a coste
+- Tasca a marsupio
 - Cappuccio con coulisse
 - Levis logo sul petto
 

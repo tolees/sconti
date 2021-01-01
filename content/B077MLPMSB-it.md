@@ -25,10 +25,10 @@ average: '34.73666666666667'
 
 ℹ️:
 
+- AgeGroup: Adults
+- ActivityGroup: Basics
 - BusinessUnit: Athletic / Sport Leisure
 - ArticleType: Low Boot
-- AgeGroup: Adults
 - MidSole: Rubber
-- ActivityGroup: Basics
 
 [Acquista qui!!](https://www.amazon.it/dp/B077MLPMSB/?tag=tolees00-21)

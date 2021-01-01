@@ -26,9 +26,9 @@ average: '25.49'
 ℹ️:
 
 - Puoi esplorare le mappe realizzate dalla community
-- Unisci le forze insieme agli altri giocatori su Windows 10, Xbox One, realtà virtuale e i dispositivi mobili
 - È un gioco di costruzioni e di avventura
-- Scatena la tua creatività e scopri gli mondi creati dai tuoi amici
 - Condividi lavventura con gli amici in modalità multiplayer a schermo diviso
+- Unisci le forze insieme agli altri giocatori su Windows 10, Xbox One, realtà virtuale e i dispositivi mobili
+- Scatena la tua creatività e scopri gli mondi creati dai tuoi amici
 
 [Acquista qui!!](https://www.amazon.it/dp/B07D9SB7XW/?tag=tolees00-21)
