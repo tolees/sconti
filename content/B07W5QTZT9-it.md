@@ -27,7 +27,7 @@ average: '85.0'
 
 - Collectors Edition del gioco cult sulle invasioni aliene
 - Questa edizione include: gioco, premium Box, antistress eye-popping, portachiavi, 6 litografie, statuina da 23 cm "cryptoncow"
-- Età consigliata dal produttore: 16 anni
 - Facile da installare
+- Età consigliata dal produttore: 16 anni
 
 [Acquista qui!!](https://www.amazon.it/dp/B07W5QTZT9/?tag=tolees00-21)
