@@ -25,10 +25,10 @@ Puoi trovare [Funko- Disney: Wreck-It-Ralph 2: Pop 1  Multicolore  33403](https:
 
 ℹ️:
 
-- Disney: Wreck-It-Ralph 2
-- Funko Pop!
-- POP 1
 - statue collezionabili
+- Disney: Wreck-It-Ralph 2
+- POP 1
+- Funko Pop!
 - Vinile
 
 [Acquista qui!!](https://www.amazon.it/dp/B07DFF22FX/?tag=tolees00-21)
