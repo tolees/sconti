@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Activision Blizzard Call of Duty: Black  al 20.00 % de rebaja'
-date: 2020-12-21 08:08:18
+title: 'Activision Blizzard Call of Duty: Black  al 20.00 % di sconto'
+date: 2021-01-01 11:14:48
 image: 'https://m.media-amazon.com/images/I/51qTRblx8AL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,16 +16,16 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08JMH4QRT/?tag=tolees00-21'
 descuento: '20.00'
-average: '68.9469230769231'
+average: '68.30714285714288'
 ---
 
-Tienes [Activision Blizzard Call of Duty: Black Ops Cold War - Xbox One](https://www.amazon.it/dp/B08JMH4QRT/?tag=tolees00-21) con precio final de  59.99 EUR (original: 74.99 EUR) (20.00 %  de rebaja) aqui!
+Puoi trovare [Activision Blizzard Call of Duty: Black Ops Cold War - Xbox One](https://www.amazon.it/dp/B08JMH4QRT/?tag=tolees00-21) con il prezzo 59.99 EUR (originale: 74.99 EUR) 20.00 % sconto qui:
 
 [![Activision Blizzard Call of Duty: Black ](https://m.media-amazon.com/images/I/51qTRblx8AL._SL200_.jpg)](https://www.amazon.it/dp/B08JMH4QRT/?tag=tolees00-21)
 
-🔎:
+ℹ️:
 
-- Call of Duty: Black Ops Cold War
 - Videogioco
+- Call of Duty: Black Ops Cold War
 
-[Comprar!!!](https://www.amazon.it/dp/B08JMH4QRT/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B08JMH4QRT/?tag=tolees00-21)

@@ -26,9 +26,9 @@ Puoi trovare [JKZJ 212 LED Luci da Esterno con 3 Modalità  Faretti Led da Ester
 ℹ️:
 
 - ☔FACILE INSTALLAZIONE E RESISTENTE ALLACQUA IP64 - Realizzato in ABS ad alta resistenza e resistente alle alte temperature, anticorrosivo e impermeabile. Non è necessario alcun cavo o filo.
+- 🌟AMPIO ANGOLO DI ILLUMINAZIONE E LUCE SUPER LUMINOSA - La luce esterna con sensore dotato di 212LED su 4 lati e 270 ° super grandangolare, più luminosa della maggior parte delle luci solari a LED 120/180/200. Fornisci unilluminazione esterna più luminosa e più ampia per i luoghi intorno alla tua casa, come portico, strada privata, patio, terrazza, garage, paletto, giardino, sentiero ...
 - 👣INDUTTORE DI MOVIMENTO PIR MIGLIORATO - Sensore di movimento PIR sensibile integrato, la faretto led da esterno può rilevare qualsiasi movimento entro 5 m con un angolo di rilevamento di 120 °. Ogni tempo di illuminazione è di circa 20 secondi.
 - 🔋PANNELLO SOLARE AD ALTA EFFICIENZA - Le lampade solari a led con batteria ricaricabile agli ioni di litio da 2400 mAh. I pannelli solari funzionano durante il giorno per immagazzinare elettricità e illuminare di notte. può fornire oltre 12 ore di illuminazione. risparmio di denaro ed ecologico.
 - 👍3 MODALITÀ DI ILLUMINAZIONE OPZIONALI - 1. Modalità sensore normale (spegnere di notte e rimanere luminosi con rilevazione di movimento per 20 secondi) 2. Modalità sensore luce fioca (attivare in modalità attenuata di notte e illuminare per 20 secondi quando rileva il movimento) 3. Modalità luce fioca (accendi di notte e resta illuminare fioco per tutta la notte)
-- 🌟AMPIO ANGOLO DI ILLUMINAZIONE E LUCE SUPER LUMINOSA - La luce esterna con sensore dotato di 212LED su 4 lati e 270 ° super grandangolare, più luminosa della maggior parte delle luci solari a LED 120/180/200. Fornisci unilluminazione esterna più luminosa e più ampia per i luoghi intorno alla tua casa, come portico, strada privata, patio, terrazza, garage, paletto, giardino, sentiero ...
 
 [Acquista qui!!](https://www.amazon.it/dp/B08D96HZLV/?tag=tolees00-21)

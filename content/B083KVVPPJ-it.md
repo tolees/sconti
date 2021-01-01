@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'sconto del 38.35 % su Samsung Galaxy Note10 Lite Smartphone  D  '
-date: 2020-12-30 05:21:07
+title: 'sconto del 38.74 % su Samsung Galaxy Note10 Lite Smartphone  D  '
+date: 2021-01-01 11:06:42
 image: 'https://m.media-amazon.com/images/I/41YjQJMtgXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B083KVVPPJ-it'
-actualPrice: 387.8 EUR
+actualPrice: 385.3 EUR
 currency: EUR
-price: 387.8
+price: 385.3
 comparePrice: 629.0 EUR
 prodname: 'Samsung Galaxy Note10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 6 GB  Batteria 4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Aura Black'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083KVVPPJ/?tag=tolees00-21'
-descuento: '38.35'
-average: '403.35062500000004'
+descuento: '38.74'
+average: '401.345'
 ---
 
-[Samsung Galaxy Note10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 6 GB  Batteria 4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Aura Black](https://www.amazon.it/dp/B083KVVPPJ/?tag=tolees00-21) ha un prezzo di 387.8 EUR (originale: 629.0 EUR) con uno sconto del 38.35 % sconto qui:
+[Samsung Galaxy Note10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 6 GB  Batteria 4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Aura Black](https://www.amazon.it/dp/B083KVVPPJ/?tag=tolees00-21) ha un prezzo di 385.3 EUR (originale: 629.0 EUR) con uno sconto del 38.74 % sconto qui:
 
 [![Samsung Galaxy Note10 Lite Smartphone  D](https://m.media-amazon.com/images/I/41YjQJMtgXL._SL200_.jpg)](https://www.amazon.it/dp/B083KVVPPJ/?tag=tolees00-21)
 
 ℹ️:
 
-- Trasforma le foto di tutti i giorni in immagini memorabili con la tripla fotocamera posteriore di Galaxy Note10 Lite; scatta selfie e libera la tua creatività
-- Lampio display Infinity-O da 6.7" FHD + con proporzioni 20:9 e tecnologia Super AMOLED assicura unesperienza visiva coinvolgente; un display ancora più grande per goderti ogni contenuto
-- Galaxy Note10 Lite combina un processore Octa Core da 10 nm con 6 GB di RAM per performance e velocità ottimali; per tutti i tuoi contenuti memoria interna da 128 GB, espandibile fino a 1 TB
-- Fai di più con la S Pen intelligente; gestisci lo smartphone anche da remoto usando S Pen come un telecomando e prendi appunti anche a display è spento; ricaricala per 40 secondi e usala 30 minuti
-- Sblocca il tuo mondo con un semplice tocco grazie allautenticazione facile e allo sblocco immediato tramite il lettore di impronte digitali integrato nel display
-- Per poter utilizzare uno smartphone [Versione Italiana] in un paese extra europeo è necessario prima effettuare almeno 5 minuti di chiamate con una SIM Europea
-- Galaxy Note10 Lite, con il suo profilo sottile e le curve simmetriche, offre una presa comoda e confortevole; esprimi te stesso con la tua colorazione preferita
 - Grazie alla batteria a lunga durata da 4.500 mAh, Galaxy Note10 Lite ti accompagna per tutta la giornata; usa la Ricarica Ultra-Rapida da 25 W per riportare lo smartphone al 100% rapidamente
+- Sblocca il tuo mondo con un semplice tocco grazie allautenticazione facile e allo sblocco immediato tramite il lettore di impronte digitali integrato nel display
+- Trasforma le foto di tutti i giorni in immagini memorabili con la tripla fotocamera posteriore di Galaxy Note10 Lite; scatta selfie e libera la tua creatività
+- Per poter utilizzare uno smartphone [Versione Italiana] in un paese extra europeo è necessario prima effettuare almeno 5 minuti di chiamate con una SIM Europea
+- Lampio display Infinity-O da 6.7" FHD + con proporzioni 20:9 e tecnologia Super AMOLED assicura unesperienza visiva coinvolgente; un display ancora più grande per goderti ogni contenuto
+- Fai di più con la S Pen intelligente; gestisci lo smartphone anche da remoto usando S Pen come un telecomando e prendi appunti anche a display è spento; ricaricala per 40 secondi e usala 30 minuti
+- Galaxy Note10 Lite, con il suo profilo sottile e le curve simmetriche, offre una presa comoda e confortevole; esprimi te stesso con la tua colorazione preferita
+- Galaxy Note10 Lite combina un processore Octa Core da 10 nm con 6 GB di RAM per performance e velocità ottimali; per tutti i tuoi contenuti memoria interna da 128 GB, espandibile fino a 1 TB
 
 [Acquista qui!!](https://www.amazon.it/dp/B083KVVPPJ/?tag=tolees00-21)

@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Eastpak Delegate + Borsa Messenger  39 C al 39.33 % de descuento'
-date: 2020-12-08 11:08:06
+title: 'sconto del 28.33 % su Eastpak Delegate + Borsa Messenger  39 C  '
+date: 2021-01-01 11:17:43
 image: 'https://m.media-amazon.com/images/I/41Cypc-y4wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KXTKJPG-it'
-actualPrice: 36.4 EUR
+actualPrice: 43.0 EUR
 currency: EUR
-price: 36.4
+price: 43.0
 comparePrice: 60.0 EUR
 prodname: 'Eastpak Delegate + Borsa Messenger  39 Cm  20 L  Grigio  Sunday Grey '
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KXTKJPG/?tag=tolees00-21'
-descuento: '39.33'
+descuento: '28.33'
+average: '34.1'
 ---
 
-Está [Eastpak Delegate + Borsa Messenger  39 Cm  20 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B07KXTKJPG/?tag=tolees00-21) con 39.33 de descuento por 36.4 EUR (original: 60.0 EUR) en el siguiente enlace!
+[Eastpak Delegate + Borsa Messenger  39 Cm  20 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B07KXTKJPG/?tag=tolees00-21) ha un prezzo di 43.0 EUR (originale: 60.0 EUR) con uno sconto del 28.33 % sconto qui:
 
 [![Eastpak Delegate + Borsa Messenger  39 C](https://m.media-amazon.com/images/I/41Cypc-y4wL._SL200_.jpg)](https://www.amazon.it/dp/B07KXTKJPG/?tag=tolees00-21)
 
 ℹ️:
 
+- Realizzata in poliestere (60%) e misto nylon (40%)
+- Grande scomparto principale con tasca a scomparsa sulla patta
+- Porta con te tutti i tuoi dispositivi hi-tech grazie allo scomparto imbottito per laptop fino a 17 pollici
+- Altezza: 30.5 cm, larghezza: 38.5 cm, profondità: 13 cm
+- Dispone di tracolla imbottita regolabile e rimovibile per lalta comodità
 
-[Ver la oferta!!](https://www.amazon.it/dp/B07KXTKJPG/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B07KXTKJPG/?tag=tolees00-21)
