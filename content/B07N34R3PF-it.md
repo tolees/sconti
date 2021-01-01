@@ -25,10 +25,10 @@ average: '196.99999999999997'
 
 ℹ️:
 
+- Larghezza del cinturino: 28 mm; Circonferenza del cinturino: 200 +/-5 mm
 - Confezionato nella gift box Diesel
-- Resistente AllAcqua: 3 ATM
 - Materiale del cinturino: Acciaio inossidabile
 - Spessore della cassa: 14 mm; Dimensioni della cassa: 57 mm
-- Larghezza del cinturino: 28 mm; Circonferenza del cinturino: 200 +/-5 mm
+- Resistente AllAcqua: 3 ATM
 
 [Acquista qui!!](https://www.amazon.it/dp/B07N34R3PF/?tag=tolees00-21)
