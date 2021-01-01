@@ -25,7 +25,7 @@ Puoi trovare [Activision Blizzard Call of Duty: Black Ops Cold War - Xbox One](h
 
 ℹ️:
 
-- Videogioco
 - Call of Duty: Black Ops Cold War
+- Videogioco
 
 [Acquista qui!!](https://www.amazon.it/dp/B08JMH4QRT/?tag=tolees00-21)
