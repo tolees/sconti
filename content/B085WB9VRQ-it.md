@@ -25,8 +25,8 @@ average: '179.29823529411763'
 
 ℹ️:
 
-- Batteria da 5020 mAh; 18w fast charging
 - Sistema operativo miui 11
+- Batteria da 5020 mAh; 18w fast charging
 - Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
 - Frequenza fino a 2.3 ghz
 
