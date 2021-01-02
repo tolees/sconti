@@ -26,7 +26,7 @@ average: '4.19'
 ℹ️:
 
 - Colorazione permanente senza ammoniaca attivata dallolio
-- Ottima intensità del colore, ottimizza la qualità visibile dei capelli
 - Copre il 100% dei capelli bianchi
+- Ottima intensità del colore, ottimizza la qualità visibile dei capelli
 
 [Acquista qui!!](https://www.amazon.it/dp/B00E4L5YPW/?tag=tolees00-21)
