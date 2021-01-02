@@ -26,9 +26,9 @@ average: '20.37'
 ℹ️:
 
 - Ce EN 1621.2 Level 1
-- Tecnologia bap
-- Piastre posteriori in polipropilene
 - Spallacci regolabili
+- Tecnologia bap
 - Cintura regolabile
+- Piastre posteriori in polipropilene
 
 [Acquista qui!!](https://www.amazon.it/dp/B07T9QN7HL/?tag=tolees00-21)
