@@ -25,9 +25,9 @@ Puoi trovare [Funko- Pop TV: How I Met Your Mother-Barney in Suit Figura da Coll
 
 ℹ️:
 
-- From How I Met Your Mother, Barney in Suit, as a stylized POP vinyl from Funko
-- Funko POP! Is the 2018 Peoples Choice toy of the year
-- Check out the other How I Met Your Mother figures from Funko, Collect them all
 - Figure stands 9cm and comes in a window display box
+- From How I Met Your Mother, Barney in Suit, as a stylized POP vinyl from Funko
+- Check out the other How I Met Your Mother figures from Funko, Collect them all
+- Funko POP! Is the 2018 Peoples Choice toy of the year
 
 [Acquista qui!!](https://www.amazon.it/dp/B087MWM1W4/?tag=tolees00-21)

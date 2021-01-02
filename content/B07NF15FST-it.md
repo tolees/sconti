@@ -25,8 +25,8 @@ average: '5.328571428571429'
 
 ℹ️:
 
-- Carte in cartoncino duplex rinforzato da 400 gr/m2
-- Carte prodotte per i 150 anni di modiano
 - Carte regionali
+- Carte prodotte per i 150 anni di modiano
+- Carte in cartoncino duplex rinforzato da 400 gr/m2
 
 [Acquista qui!!](https://www.amazon.it/dp/B07NF15FST/?tag=tolees00-21)

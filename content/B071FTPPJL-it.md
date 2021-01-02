@@ -25,10 +25,10 @@ average: '45.04882352941177'
 
 ℹ️:
 
+- Cappuccio con coulisse
+- Levis logo sul petto
 - Tasca a marsupio
 - Stile sportivo e comfort casual
 - Orli a coste
-- Levis logo sul petto
-- Cappuccio con coulisse
 
 [Acquista qui!!](https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21)

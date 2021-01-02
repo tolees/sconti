@@ -26,9 +26,9 @@ average: '99.69529411764705'
 ℹ️:
 
 - DSX-A416BT with Bluetooth 3.0/ NFC for hands-free calling offers rich and clear sound thanks to 4 x 55 W output power and 10x equalizer for individual needs including karaoke mode
-- Media: WMA, MP3 and FLAC | iPod Control or Music Streaming via Bluetooth/NFC available for music library playback|AOA 2.0 compatible USB port
-- RDS tuner and modern connectivity via USB and AUX and BT available; extra bass function with just one push of a button and two nuances
 - Lighting: Vario Colour with 35, 000 colours, two zones lighting, music tuned to the music, removable panel against theft, configurable with your steering wheel remote control
 - 3x RCA preamps: 1x rear, 1x front and 1x sub; digital high and low pass filter
+- RDS tuner and modern connectivity via USB and AUX and BT available; extra bass function with just one push of a button and two nuances
+- Media: WMA, MP3 and FLAC | iPod Control or Music Streaming via Bluetooth/NFC available for music library playback|AOA 2.0 compatible USB port
 
 [Acquista qui!!](https://www.amazon.it/dp/B07GT5T39S/?tag=tolees00-21)
