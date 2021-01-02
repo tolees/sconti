@@ -25,7 +25,7 @@ average: '44.55'
 
 ℹ️:
 
-- pelle
 - Stivaletti
+- pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CV75ZSY/?tag=tolees00-21)

@@ -25,10 +25,10 @@ average: '13.120000000000001'
 
 ℹ️:
 
-- Linea Gourmet Mon Petit: Piccole porzioni che il tuo gatto adorerà
-- Ogni confezione contiene 6 x Gourmet Mon Petit Gatto Invitanti Ricette con Tonno, Salmone e Trota i
 - Confezione da 6 pezzi
+- Linea Gourmet Mon Petit: Piccole porzioni che il tuo gatto adorerà
 - Porzioni più piccole, più varietà e niente sprechi
 - Peso: 8 x (6 x 50gr)= 2400 gr
+- Ogni confezione contiene 6 x Gourmet Mon Petit Gatto Invitanti Ricette con Tonno, Salmone e Trota i
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MQ0ES5T/?tag=tolees00-21)
