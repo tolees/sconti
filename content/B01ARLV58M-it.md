@@ -25,10 +25,10 @@ Puoi trovare [AUKEY Lampada da Comodino LED con Panello di Controllo Tattile a 3
 
 ℹ️:
 
-- 【Illuminazione regolabile】: basta toccare sulla base con controllo touch per scegliere tra tre diversi livelli di luminosità (luce bianca calda-morbida, moderata e intensa). Ottima per rilassarsi ma anche per leggere se impostata sul livello luminoso.
 - 【Colori】: passa in maniera automatica da un colore all’altro con la modalità rotazione colori che vanta uno spettro di colori dal rosso al verde al blu o scegli il tuo colore preferito e imposta la luce su quello. Scegli un colore vivace per una festa o scegline uno più neutro per rilassarti.
+- 【Illuminazione regolabile】: basta toccare sulla base con controllo touch per scegliere tra tre diversi livelli di luminosità (luce bianca calda-morbida, moderata e intensa). Ottima per rilassarsi ma anche per leggere se impostata sul livello luminoso.
+- 【La confezione include】: lampada da terra AUKEY LT-T6 con controllo touch a LED, adattatore AC, manuale d’ uso.
 - 【Base con controllo touch a 360°】: controllo completo per accendere/spegnere facilmente la lampada e per cambiare modalità di illuminazione, luminosità o colore. La lampada è più reattiva e funziona senza problemi anche su superfici metalliche.
 - 【Lampada migliorata】: una nuova versione della classica LT-T6 con un design migliorato e moderno e un controllo touch ancora più preciso.
-- 【La confezione include】: lampada da terra AUKEY LT-T6 con controllo touch a LED, adattatore AC, manuale d’ uso.
 
 [Acquista qui!!](https://www.amazon.it/dp/B01ARLV58M/?tag=tolees00-21)

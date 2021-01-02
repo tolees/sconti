@@ -25,10 +25,10 @@ Puoi trovare [Janhiny Sensore porta WIFI Tuya APP Controllo apertura della fines
 
 ℹ️:
 
-- 【Condividi controllo e tracciabilità dei registri Records Puoi condividere il dispositivo con i tuoi familiari e tenere traccia della cronologia delle attività dei sensori.
+- 【Controllo vocale intelligente】 Compatibile con Alexa e Google Home e IFTTT per il controllo vocale. Usa semplicemente la tua voce per controllare i dispositivi collegati. Comodo per rilevare porte, finestre, armadi, cassetti o ovunque si desideri avvisare quando viene aperto o chiuso.
 - 【Goditi la tua vita intelligente】 Quando esci di casa, ti invierà un messaggio di notifica quando la porta / finestra si apre, in modo da poter scoprire lintruso in tempo.
 - 【Facile da installare】 Basta attaccare un pezzo alla porta o alla finestra e attaccare laltro pezzo al telaio della porta o della finestra con nastro biadesivo in pochi passaggi.
+- 【Condividi controllo e tracciabilità dei registri Records Puoi condividere il dispositivo con i tuoi familiari e tenere traccia della cronologia delle attività dei sensori.
 - 【Telecomando APP】 Scarica lapp "Tuya / Smart Life" da GooglePlay o App Store per aggiungere il dispositivo per rilevare lo stato della tua porta / finestra. Sicurezza domestica sempre in mano.
-- 【Controllo vocale intelligente】 Compatibile con Alexa e Google Home e IFTTT per il controllo vocale. Usa semplicemente la tua voce per controllare i dispositivi collegati. Comodo per rilevare porte, finestre, armadi, cassetti o ovunque si desideri avvisare quando viene aperto o chiuso.
 
 [Acquista qui!!](https://www.amazon.it/dp/B08JLKL4X8/?tag=tolees00-21)
