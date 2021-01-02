@@ -25,9 +25,9 @@ Puoi trovare [Super Mario 3D All Stars - Limited - Nintendo Switch](https://www.
 
 ℹ️:
 
-- Grafica in HD e controlli ridisegnati per Nintendo Switch.
 - Possibilità per la prima volta di giocare (anche) in portatile Super Mario Sunshine e Super Mario Galaxy
 - Include un lettore musicale in grado di riprodurre le musiche e i brani di tutti e tre i giochi, anche quando lo schermo della console è spento
+- Grafica in HD e controlli ridisegnati per Nintendo Switch.
 - 3 giochi in 1: Le avventure di Mario in 3D che hanno fatto la storia in ununica confezione, in versione ottimizzata: Super Mario 64, Super Mario Sunshine e Super Mario Galaxy
 
 [Acquista qui!!](https://www.amazon.it/dp/B08HFNGPTM/?tag=tolees00-21)
