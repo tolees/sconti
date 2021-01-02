@@ -25,10 +25,10 @@ average: '23.115000000000002'
 
 ℹ️:
 
-- Leggera e traspirante – La polo tessuto tecnico è ottima per il golf. Morbida al tatto, la maglia traspirante ha la qualità di asciugare rapidamente
 - Polo elasticizzata – Il tessuto a struttura elasticizzata in 4 direzioni permette alle magliette polo uomo di offrire libertà di movimento
 - Taglio morbido – La polo tecnica ha una vestibilità comoda che lascia tanta libertà di movimento ed è molto piacevole da indossare
-- Materiale e vestibilità – UnderArmour Playoff 2.0 polo uomo, maglia sportiva traspirante, vestibilità: comoda, materiale: 96% poliestere e 4% elastan
 - Polo da uomo leggera – La maglietta a manica corta è di leggero tessuto tecnico e, grazie al taglio comodo, offre un ottimo comfort
+- Leggera e traspirante – La polo tessuto tecnico è ottima per il golf. Morbida al tatto, la maglia traspirante ha la qualità di asciugare rapidamente
+- Materiale e vestibilità – UnderArmour Playoff 2.0 polo uomo, maglia sportiva traspirante, vestibilità: comoda, materiale: 96% poliestere e 4% elastan
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CZDXCCN/?tag=tolees00-21)

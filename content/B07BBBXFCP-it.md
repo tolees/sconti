@@ -25,7 +25,7 @@ average: '14.57'
 
 ℹ️:
 
-- Scava e scopri pittoreschi mondi pieni di tesori, segreti e trappole
 - Potenzia il tuo equipaggiamento per spingerti ancora più in profondità e affrontare sfide sempre più impegnative
+- Scava e scopri pittoreschi mondi pieni di tesori, segreti e trappole
 
 [Acquista qui!!](https://www.amazon.it/dp/B07BBBXFCP/?tag=tolees00-21)
