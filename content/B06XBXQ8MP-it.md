@@ -25,10 +25,10 @@ Puoi trovare [Tefal Barbecue Elettrico con Coperchio a Cupola BG9168 Aromati-Q 
 
 ℹ️:
 
-- Il tavolo barbecue Tefal Aromati Q combina 3 funzioni in un solo dispositivo. Grigliare, arrostire/cuocere direttamente e un esclusiva funzione - per laffumicatura desiderata anche nella griglia elettrica.
 - Regolatore di temperatura con 6 livelli e spia di controllo e un termometro integrato nel coperchio per un controllo ottimale della temperatura.
-- Pulizia facile: conca, coperchio (entrambi in acciaio smaltato) e griglia in acciaio sono lavabili in lavastoviglie.
 - Sono anche inclusi una scatola affumicatrice e un campione di trucioli di legno (per 3 applicazioni) per affumicatura anche nel barbecue elettrico, un ricettario e un riflettore di calore per unottimale circolazione di calore.
+- Pulizia facile: conca, coperchio (entrambi in acciaio smaltato) e griglia in acciaio sono lavabili in lavastoviglie.
+- Il tavolo barbecue Tefal Aromati Q combina 3 funzioni in un solo dispositivo. Grigliare, arrostire/cuocere direttamente e un esclusiva funzione - per laffumicatura desiderata anche nella griglia elettrica.
 - Pratico gocciolatoio in alluminio: assorbe i succhi che colano.
 
 [Acquista qui!!](https://www.amazon.it/dp/B06XBXQ8MP/?tag=tolees00-21)
