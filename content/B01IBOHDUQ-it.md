@@ -25,15 +25,15 @@ average: '61.07666666666667'
 
 ℹ️:
 
-- Massimo silenzio (44 db in infusione)
-- Griglia Small/Large removibile per un espresso classico o un caffè lungo
+- Tempo di erogazione: 25 secondi circa
 - Lunghezza cavo: 0.8 m
-- Pulsante Stop & Go per scegliere ogni volta la quantità di espresso desiderata
+- Minimo ingombro (solo 12 cm)
+- Pressione pompa: 10 bar
+- Griglia Small/Large removibile per un espresso classico o un caffè lungo
+- Massimo silenzio (44 db in infusione)
+- Spegnimento automatico dopo 9 minuti
 - Capacità del serbatoio: 0,6 L
 - Funzionamento con capsule Lavazza A Modo Mio
-- Minimo ingombro (solo 12 cm)
-- Tempo di erogazione: 25 secondi circa
-- Pressione pompa: 10 bar
-- Spegnimento automatico dopo 9 minuti
+- Pulsante Stop & Go per scegliere ogni volta la quantità di espresso desiderata
 
 [Acquista qui!!](https://www.amazon.it/dp/B01IBOHDUQ/?tag=tolees00-21)

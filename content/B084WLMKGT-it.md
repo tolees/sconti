@@ -25,10 +25,10 @@ Puoi trovare [Trust Gaming GXT 488 Forze Cuffie PS4 e PS5 con Licenza Ufficiale 
 
 ℹ️:
 
-- Flessibile microfono ripiegabile e archetto regolabile rinforzato; telecomando integrato per controllare il volume ed escludere il microfono
-- Cavo a treccia in nylon da 1,2 m, la lunghezza ideale per collegare il controller
 - È sufficiente inserire la spina delle cuffie nel dualshock 4 o dualsense (ingresso da 3,5 mm)
-- Potenti unità altoparlanti attive da 50 mm con padiglioni over-ear morbidi e confortevoli
 - Licenza ufficiale per playstation 4. Compatibile con PS5
+- Flessibile microfono ripiegabile e archetto regolabile rinforzato; telecomando integrato per controllare il volume ed escludere il microfono
+- Potenti unità altoparlanti attive da 50 mm con padiglioni over-ear morbidi e confortevoli
+- Cavo a treccia in nylon da 1,2 m, la lunghezza ideale per collegare il controller
 
 [Acquista qui!!](https://www.amazon.it/dp/B084WLMKGT/?tag=tolees00-21)

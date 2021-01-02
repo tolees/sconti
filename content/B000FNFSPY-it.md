@@ -25,10 +25,10 @@ Puoi trovare [TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug 
 
 ℹ️:
 
-- Green Ethernet technology saves the power up to 60%
 - IEEE 802.3x flow control provides reliable data transfer
-- Five 10/100 Mbps auto-negotiation RJ45 ports, supports auto MDI / MDIX
+- Green Ethernet technology saves the power up to 60%
 - Plug-and-Play, requires no configuration
 - Plastic case, desktop design
+- Five 10/100 Mbps auto-negotiation RJ45 ports, supports auto MDI / MDIX
 
 [Acquista qui!!](https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21)

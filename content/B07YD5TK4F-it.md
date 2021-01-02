@@ -26,9 +26,9 @@ Puoi trovare [Crucial CT1000X8SSD9 X8 1TB Portable SSD  Fino a 1050MB/s  USB 3.2
 ℹ️:
 
 - Funziona con Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4 e Xbox One con connettori USB-C 3.2 Gen2 e USB-A
-- A prova di caduta fino a 2 metri; resiste a temperature estreme, urti, vibrazioni
-- Alte velocità di lettura fino a 1050 MB/s
 - Design elegante e resistente, con nucleo unibody in alluminio anodizzato
 - Supportato da Micron, uno dei maggiori produttori di archiviazione flash globali
+- Alte velocità di lettura fino a 1050 MB/s
+- A prova di caduta fino a 2 metri; resiste a temperature estreme, urti, vibrazioni
 
 [Acquista qui!!](https://www.amazon.it/dp/B07YD5TK4F/?tag=tolees00-21)
