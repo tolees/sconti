@@ -25,9 +25,9 @@ Puoi trovare [Funko- Pop Vinile: Disney: Aladdin  Live Action : Aladdin & Abu Fi
 
 ℹ️:
 
-- Disney Aladdin
 - POP! Vinile
 - Aladdin & Abu
+- Disney Aladdin
 - Uniconica statuina Funko Pop! Vinile della Disney serie Aladdin, Aladdin & Abu
 - POP! Vinile
 
