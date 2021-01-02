@@ -26,9 +26,9 @@ average: '2.49'
 ℹ️:
 
 - Formato: confezione da 3 lattine da 80 g ciascuna
-- Tonno allolio doliva dal gusto autentico
-- Ingredienti: tonno, olio di oliva, sale
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
+- Tonno allolio doliva dal gusto autentico
 - Consigli uso: ideale per tutte le ricette, dai primi piatti alle insalatone fresche e golose
+- Ingredienti: tonno, olio di oliva, sale
 
 [Acquista qui!!](https://www.amazon.it/dp/B00MCHQ9HC/?tag=tolees00-21)

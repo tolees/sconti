@@ -27,8 +27,8 @@ average: '5.61'
 
 - FERRERO ROCHER - Un guscio croccante di wafer ricoperto di cioccolato con granella e ripieno di nocciola
 - INGREDIENTI - cioccolato al latte 30%, nocciole (28,5%)
-- LO SAPEVI CHE - In estate non trovate le Specialità Ferrero perché noi le ritiriamo dai punti di vendita. Il caldo, nemico del cioccolato, potrebbe danneggiare la qualità dei nostri prodotti
-- FORMATO - Una scatola elegante, pratica e ideale per un regalo raffinato: permette di conservare il prodotto per gustarlo al meglio.
 - FERRERO ROCHER – La gioia di stare in famiglia, un affetto speciale, un’amicizia vera, il tempo trascorso con le persone care: Ferrero Rocher illumina i momenti di festa
+- FORMATO - Una scatola elegante, pratica e ideale per un regalo raffinato: permette di conservare il prodotto per gustarlo al meglio.
+- LO SAPEVI CHE - In estate non trovate le Specialità Ferrero perché noi le ritiriamo dai punti di vendita. Il caldo, nemico del cioccolato, potrebbe danneggiare la qualità dei nostri prodotti
 
 [Acquista qui!!](https://www.amazon.it/dp/B00G4C95NG/?tag=tolees00-21)
