@@ -25,10 +25,10 @@ average: '89.9'
 
 ℹ️:
 
-- Qualità tedesca: tutte le idropulitrici sono testate con acqua in fase di montaggio per offrire ottime prestazioni
+- Riconsegna a domicilio nel territorio Italiano
 - Resa per area m²/h 25, temperatura di alimentazione fino a 40 °C potenza allacciata kw 1.6
 - Pressione fino a 120, portata fino a 380 l/h
-- Riconsegna a domicilio nel territorio Italiano
+- Qualità tedesca: tutte le idropulitrici sono testate con acqua in fase di montaggio per offrire ottime prestazioni
 - Ottimo per disinfettare tutte le superfici esterne grazie al diffusore detergente disinfettante, da applicare alla pistola e da utilizzare con qualsiasi disinfettante
 
 [Acquista qui!!](https://www.amazon.it/dp/B07L6S9TJ7/?tag=tolees00-21)
