@@ -25,10 +25,10 @@ Puoi trovare [FERM Trapano a colonna da banco 350W  13 mm . Velocità regolabile
 
 ℹ️:
 
-- Dotato di testa del mandrino dentata per il fissaggio sicuro dei diversi tipi di punte
-- Limitatore di profondità
-- Lavoro sicuro grazie alla custodia di sicurezza trasparente
 - Numero di velocità regolabili: 5 (500, 890, 1400, 1900, 2500/min-1)
+- Limitatore di profondità
 - Dimensione del banco di lavoro: 160 x 160mm (inclinabile -45° a 45°)
+- Lavoro sicuro grazie alla custodia di sicurezza trasparente
+- Dotato di testa del mandrino dentata per il fissaggio sicuro dei diversi tipi di punte
 
 [Acquista qui!!](https://www.amazon.it/dp/B07BVFTX2F/?tag=tolees00-21)

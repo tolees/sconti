@@ -25,10 +25,10 @@ average: '28.71'
 
 ℹ️:
 
-- Borsa Termica capacità 8 litri con tracolla: dimensioni 22 x 16 x 22,5 cm
-- Scaldavivande Potenza 40 W
 - Scaldavivande Amarillo inox con vaschetta Acciaio Inox estraibile da 1,5 litri e Posata inclusa
-- Garanzia Italia 2 anni a domicilio
 - dimensioni Borsa 22 x 16 x 22,5 cm - Capacità termica fino a 8 ore caldo e freddo
+- Garanzia Italia 2 anni a domicilio
+- Scaldavivande Potenza 40 W
+- Borsa Termica capacità 8 litri con tracolla: dimensioni 22 x 16 x 22,5 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KMDP9XF/?tag=tolees00-21)
