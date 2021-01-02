@@ -26,9 +26,9 @@ Puoi trovare [Corsair Vengeance LPX Memorie per Desktop a Elevate Prestazioni  3
 ℹ️:
 
 - I moduli di memoria Vengeance LPX sono dotati di un dissipatore in alluminio per unottima dissipazione del calore
-- Laltezza dei moduli di memoria Vengeance LPX è stata studiata per permetterne linstallazione anche in spazi ristretti
-- Disponibili in più colori per abbinarsi molto bene alla vostra scheda madre, ai vostri componenti o semplicemente al vostro stile
 - Compatibilità: Intel 100 Series, Intel 200 Series, Intel 300 Series, Intel 400 Series, Intel X299
+- Disponibili in più colori per abbinarsi molto bene alla vostra scheda madre, ai vostri componenti o semplicemente al vostro stile
+- Laltezza dei moduli di memoria Vengeance LPX è stata studiata per permetterne linstallazione anche in spazi ristretti
 - Suporto ai profili XMP 2.0 per un migliore overclock
 - Memoria ottimizzata e testata per unottima compatibilità con le piattaforme Intel X99, e i chipset della serie 100 e 200 e offre frequenze elevate, maggiore banda passante e minori consumi
 

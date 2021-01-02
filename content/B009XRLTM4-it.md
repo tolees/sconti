@@ -25,10 +25,10 @@ Puoi trovare [SUMEX 2808014 Carplus - Inclinometro Retroilluminato  4X4  Nero](h
 
 ℹ️:
 
-- Universale
 - Facile installazione
 - indica rollio e beccheggio, per auto e fuoristrada col. nero
-- con collegamento allimpianto elettrico, piedistallo orientabile e base adesiva
 - Universale
+- Universale
+- con collegamento allimpianto elettrico, piedistallo orientabile e base adesiva
 
 [Acquista qui!!](https://www.amazon.it/dp/B009XRLTM4/?tag=tolees00-21)
