@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger New Danny Belt Cintura  N al 33.21 % di sconto'
-date: 2020-12-30 05:44:48
+date: 2021-01-01 23:01:57
 image: 'https://m.media-amazon.com/images/I/41VYhv-KnbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,9 @@ Puoi trovare [Tommy Hilfiger New Danny Belt Cintura  Nero  Masters Black   90 cm
 
 ℹ️:
 
-- Material: Leather
-- Serie: Danny
-- Belt closure: Frame Buckle with Prong
-- Belt Width: 3.5 cm
-- Belt Width: 3.5cm
+- Chiusura tramite fibbia
+- Chiusura in metallo
+- Lavaggio a secco
+- Composizione del materiale in 100% pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B00XDYNPL6/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 34.43 % su Just Dance 2021  Nintendo Switch  '
-date: 2020-12-31 17:33:03
+date: 2021-01-01 23:06:58
 image: 'https://m.media-amazon.com/images/I/514iddAgKhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08HJMJB7P/?tag=tolees00-21'
 descuento: '34.43'
-average: '45.98375'
+average: '45.52269230769231'
 ---
 
 [Just Dance 2021  Nintendo Switch](https://www.amazon.it/dp/B08HJMJB7P/?tag=tolees00-21) ha un prezzo di 39.99 EUR (originale: 60.99 EUR) con uno sconto del 34.43 % sconto qui:

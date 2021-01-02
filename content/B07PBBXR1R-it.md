@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 19.62 % su Funko- Pop Vinile: Harry Potter S7-Ginny  '
-date: 2020-12-31 22:40:20
+date: 2021-01-01 23:18:34
 image: 'https://m.media-amazon.com/images/I/317xd4vadIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07PBBXR1R/?tag=tolees00-21'
 descuento: '19.62'
-average: '14.59391304347826'
+average: '14.6816'
 ---
 
 [Funko- Pop Vinile: Harry Potter S7-Ginny  Yule  Figura da Collezione  Multicolore  42650](https://www.amazon.it/dp/B07PBBXR1R/?tag=tolees00-21) ha un prezzo di 15.69 EUR (originale: 19.52 EUR) con uno sconto del 19.62 % sconto qui:
@@ -25,10 +25,10 @@ average: '14.59391304347826'
 
 ℹ️:
 
-- Funko pop
 - Uniconica statuina funko pop! vinyl della serie harry potter
 - Pop! vinile harry potter s7 - ginny (yule)
-- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Harry potter s7 - ginny (yule)
+- Funko pop
+- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 
 [Acquista qui!!](https://www.amazon.it/dp/B07PBBXR1R/?tag=tolees00-21)
