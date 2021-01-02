@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.84 % su Lisciani Giochi Montessori Alfabetiere T  '
-date: 2020-12-31 17:34:18
+date: 2021-01-02 18:15:34
 image: 'https://m.media-amazon.com/images/I/51osu0XNxyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084MY5WLJ/?tag=tolees00-21'
 descuento: '30.84'
-average: '17.009999999999994'
+average: '16.93838709677419'
 ---
 
 [Lisciani Giochi Montessori Alfabetiere Tattile Elettronico](https://www.amazon.it/dp/B084MY5WLJ/?tag=tolees00-21) ha un prezzo di 15.9 EUR (originale: 22.99 EUR) con uno sconto del 30.84 % sconto qui:
@@ -25,8 +25,8 @@ average: '17.009999999999994'
 
 ℹ️:
 
-- con le lettere smerigliate: lettere e parole, suoni e filastrocche, quiz
 - Vista, tatto, udito
+- con le lettere smerigliate: lettere e parole, suoni e filastrocche, quiz
 - Gioco elettronico, manuale di istruzioni
 - Grande alfabetiere touch
 

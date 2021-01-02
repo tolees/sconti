@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 33.14 % su Tommy Hilfiger SS Tee Logo Maglietta  Bi  '
-date: 2021-01-01 11:10:21
+date: 2021-01-02 18:08:53
 image: 'https://m.media-amazon.com/images/I/419WHxiryRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N9WIV71/?tag=tolees00-21'
 descuento: '33.14'
-average: '19.747450980392152'
+average: '19.75211538461538'
 ---
 
 [Tommy Hilfiger SS Tee Logo Maglietta  Bianco  White 100   Small Uomo](https://www.amazon.it/dp/B01N9WIV71/?tag=tolees00-21) ha un prezzo di 19.99 EUR (originale: 29.9 EUR) con uno sconto del 33.14 % sconto qui:

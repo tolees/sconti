@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 31.53 % su PUMA Smash v2 L  Scarpe da Ginnastica Un  '
-date: 2021-01-01 17:32:47
+date: 2021-01-02 18:05:07
 image: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B077MLPMSB/?tag=tolees00-21'
 descuento: '31.53'
-average: '34.73666666666667'
+average: '34.69538461538462'
 ---
 
 [PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White White  41 EU](https://www.amazon.it/dp/B077MLPMSB/?tag=tolees00-21) ha un prezzo di 34.2 EUR (originale: 49.95 EUR) con uno sconto del 31.53 % sconto qui:
@@ -25,10 +25,9 @@ average: '34.73666666666667'
 
 ℹ️:
 
-- AgeGroup: Adults
-- ActivityGroup: Basics
-- BusinessUnit: Athletic / Sport Leisure
-- ArticleType: Low Boot
-- MidSole: Rubber
+- Fodera: maglia
+- Materiale esterno: pelle
+- Materiale suola: gomma
+- Le calzature di puma sono la perfetta alternativa sportiva ad ogni look nel tempo libero; per calcio, pallavolo, fitness o altri sport: queste scarpe sportive migliorano sempre la performance
 
 [Acquista qui!!](https://www.amazon.it/dp/B077MLPMSB/?tag=tolees00-21)

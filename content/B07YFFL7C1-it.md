@@ -25,11 +25,11 @@ average: '175.9'
 
 ℹ️:
 
-- Batteria da 4000 mAh
-- Schermo: 6,59 pollici
-- Fotocamera principale: 48 mp + 8 mp + 2 mp
 - Fotocamera frontale: 16 mp
-- Tipo di costruzione: smartphone
+- Fotocamera principale: 48 mp + 8 mp + 2 mp
+- Schermo: 6,59 pollici
 - Processore: hisilicon kirin 710f
+- Batteria da 4000 mAh
+- Tipo di costruzione: smartphone
 
 [Acquista qui!!](https://www.amazon.it/dp/B07YFFL7C1/?tag=tolees00-21)

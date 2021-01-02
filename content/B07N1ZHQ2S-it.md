@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MEX-N7300KIT - Autoradio CD  Ricez. al 28.58 % di sconto'
-date: 2021-01-01 11:04:45
+date: 2021-01-02 18:13:55
 image: 'https://m.media-amazon.com/images/I/31HhzyLF8zL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Puoi trovare [Sony MEX-N7300KIT - Autoradio CD  Ricez. DAB/DAB+  Antenna DAB Inc
 
 ℹ️:
 
-- Ricezione DAB/DAB+ (antenna INCLUSA)
-- Compatibile con file FLAC (qualità superiore al CD), Trasferimento audio (es; mp3) anche wireless da cellulare via Bluetooth
-- DUAL Bluetooth (collega 2 cellulari contemporaneamente)
 - Siri Eyes Free: pulsante dedicato per attivare ed interagire con Siri (iOS)
+- Ricezione DAB/DAB+ (antenna INCLUSA)
 - Microfono esterno incluso
+- DUAL Bluetooth (collega 2 cellulari contemporaneamente)
+- Compatibile con file FLAC (qualità superiore al CD), Trasferimento audio (es; mp3) anche wireless da cellulare via Bluetooth
 
 [Acquista qui!!](https://www.amazon.it/dp/B07N1ZHQ2S/?tag=tolees00-21)

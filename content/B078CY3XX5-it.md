@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.47 % su Fila Disruptor Wmn  Scarpe da Ginnastica  '
-date: 2021-01-01 11:12:16
+date: 2021-01-02 18:07:57
 image: 'https://m.media-amazon.com/images/I/41OB1NNanIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078CY3XX5/?tag=tolees00-21'
 descuento: '36.47'
-average: '53.038'
+average: '54.06294117647059'
 ---
 
 [Fila Disruptor Wmn  Scarpe da Ginnastica Basse Donna  Nero  39 EU](https://www.amazon.it/dp/B078CY3XX5/?tag=tolees00-21) ha un prezzo di 63.5 EUR (originale: 99.95 EUR) con uno sconto del 36.47 % sconto qui:

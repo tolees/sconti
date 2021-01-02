@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'sconto del 54.57 % su Marvel Avengers endgame bluray  2 Blu Ra  '
-date: 2021-01-01 17:29:16
+title: 'sconto del 40.93 % su Marvel Avengers endgame bluray  2 Blu Ra  '
+date: 2021-01-02 17:51:18
 image: 'https://m.media-amazon.com/images/I/51HSbDodMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07QVRRZ7Q-it'
-actualPrice: 9.99 EUR
+actualPrice: 12.99 EUR
 currency: EUR
-price: 9.99
+price: 12.99
 comparePrice: 21.99 EUR
 prodname: 'Marvel Avengers endgame bluray  2 Blu Ray '
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07QVRRZ7Q/?tag=tolees00-21'
-descuento: '54.57'
-average: '11.246190476190476'
+descuento: '40.93'
+average: '11.325454545454544'
 ---
 
-[Marvel Avengers endgame bluray  2 Blu Ray ](https://www.amazon.it/dp/B07QVRRZ7Q/?tag=tolees00-21) ha un prezzo di 9.99 EUR (originale: 21.99 EUR) con uno sconto del 54.57 % sconto qui:
+[Marvel Avengers endgame bluray  2 Blu Ray ](https://www.amazon.it/dp/B07QVRRZ7Q/?tag=tolees00-21) ha un prezzo di 12.99 EUR (originale: 21.99 EUR) con uno sconto del 40.93 % sconto qui:
 
 [![Marvel Avengers endgame bluray  2 Blu Ra](https://m.media-amazon.com/images/I/51HSbDodMJL._SL200_.jpg)](https://www.amazon.it/dp/B07QVRRZ7Q/?tag=tolees00-21)
 

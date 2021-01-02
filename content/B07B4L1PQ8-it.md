@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 7 III | Fotocamera Mirrorless al 19.65 % di sconto'
-date: 2021-01-01 17:24:45
+date: 2021-01-02 17:56:02
 image: 'https://m.media-amazon.com/images/I/41Q3WqkjLiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21'
 descuento: '19.65'
-average: '1904.830674157303'
+average: '1903.5816483516483'
 ---
 
 Puoi trovare [Sony Alpha 7 III | Fotocamera Mirrorless Full-Frame  AF Rapido in 0.02s  Stabilizzazione Integrata a 5 assi  4K HLG  Batteria ad alta capacità   Corpo](https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21) con il prezzo 1848.0 EUR (originale: 2300.0 EUR) 19.65 % sconto qui:
@@ -25,10 +25,10 @@ Puoi trovare [Sony Alpha 7 III | Fotocamera Mirrorless Full-Frame  AF Rapido in 
 
 ℹ️:
 
-- QUALITA DIMMAGINE OTTIMA: Sensore Full-frame da 24MP e alta sensibilità ISO per una qualità dimmagine elevata anche in caso di poca luce.
-- VIDEOMAKING PROFESSIONALE: Full-pixel readout senza pixel binning per video 4K HDR ad alta risoluzione.
-- STABILIZZAZIONE INTEGRATA: Stabilizzazione integrata a 5 assi per foto e video per compensare le vibrazioni della fotocamera.
 - AUTOFOCUS REATTIVO: sfrutta Real Time Eye AF e Real Time Tracking (per Umani e Animali) per mantenere il tuo soggeto a fuoco in ogni situazione.
+- QUALITA DIMMAGINE OTTIMA: Sensore Full-frame da 24MP e alta sensibilità ISO per una qualità dimmagine elevata anche in caso di poca luce.
+- STABILIZZAZIONE INTEGRATA: Stabilizzazione integrata a 5 assi per foto e video per compensare le vibrazioni della fotocamera.
 - LUNGA DURATA DELLA BATTERIA : Batteria Z ad alta capacità per scatto continuo.
+- VIDEOMAKING PROFESSIONALE: Full-pixel readout senza pixel binning per video 4K HDR ad alta risoluzione.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21)

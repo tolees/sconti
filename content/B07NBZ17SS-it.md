@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 18.34 % su Luigi s Mansion 3 - Nintendo Switch  '
-date: 2021-01-01 17:23:55
+date: 2021-01-02 17:35:00
 image: 'https://m.media-amazon.com/images/I/51yXaN8KiaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07NBZ17SS/?tag=tolees00-21'
 descuento: '18.34'
-average: '50.46162162162162'
+average: '50.435575221238935'
 ---
 
 [Luigi s Mansion 3 - Nintendo Switch](https://www.amazon.it/dp/B07NBZ17SS/?tag=tolees00-21) ha un prezzo di 48.99 EUR (originale: 59.99 EUR) con uno sconto del 18.34 % sconto qui:

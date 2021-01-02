@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 46.51 % su Funko- Pop Deluxe: Game of Thrones S10:   '
-date: 2021-01-01 17:26:21
+date: 2021-01-02 18:12:52
 image: 'https://m.media-amazon.com/images/I/41B1kv-F3PL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ average: '21.99'
 
 ℹ️:
 
-- Game of thrones s10
-- Jon snow sitting on iron throne
-- Pop! deluxe
 - Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Game of thrones s10
+- Pop! deluxe
+- Jon snow sitting on iron throne
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KPK663S/?tag=tolees00-21)

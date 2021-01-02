@@ -28,7 +28,7 @@ average: '24.9'
 - Il contenitore in acciaio si può lavare anche in lavastoviglie
 - Design perfetto: facile e comodo da usare, dotato di un interruttore on/off e di piedini antiscivolo per sicurezza e stabilità; perfetto per luso domestico, il suo design darà il tocco di stile alla tua cucina
 - Veloci da preparare: accendi la macchina, versa il mais allinterno del cestello ed ottieni in meno di 3 minuti una cascata di popcorn croccanti e profumati per animare le tue serate in famiglia o con gli amici
-- Zero calorie: il popper cucinerà popcorn ad aria calda senza olio e burro; grazie alla totale assenza di grassi il pop-corn risulterà uno spuntino goloso e digeribile, ideale in qualsiasi momento della giornata
 - Circolazione di aria calda: grazie allavanzato sistema ad aria calda i chicchi di mais verranno uniformemente riscaldati e i popcorn scoppieranno rapidamente senza laggiunta di grassi; spina tedesca
+- Zero calorie: il popper cucinerà popcorn ad aria calda senza olio e burro; grazie alla totale assenza di grassi il pop-corn risulterà uno spuntino goloso e digeribile, ideale in qualsiasi momento della giornata
 
 [Acquista qui!!](https://www.amazon.it/dp/B01KMJ9OXW/?tag=tolees00-21)
