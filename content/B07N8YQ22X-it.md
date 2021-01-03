@@ -25,8 +25,8 @@ Puoi trovare [Tommy Hilfiger Heritage Crew Neck Graphic Tee Maglietta  Blu  Midn
 
 ℹ️:
 
+- Bandierina ricamata sul davanti
 - Uso quotidiano
 - Logo Tommy Hilfiger stampato sul petto
-- Bandierina ricamata sul davanti
 
 [Acquista qui!!](https://www.amazon.it/dp/B07N8YQ22X/?tag=tolees00-21)
