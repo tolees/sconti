@@ -27,8 +27,8 @@ Puoi trovare [Nike M Nk Dry Park VII JSY SS  Maglietta a Maniche Corte Uomo  Pin
 
 - Materiale confortevole e resistente
 - Ottima traspirabilità, per mantenere la pelle asciutta
-- Inserto in mesh sul retro per unottima traspirabilità
 - Maglietta realizzata in tessuto morbido e traspirante
+- Inserto in mesh sul retro per unottima traspirabilità
 - Stile: slim fit
 
 [Acquista qui!!](https://www.amazon.it/dp/B07W5XZW12/?tag=tolees00-21)
