@@ -1,32 +1,32 @@
 ---
 layout: post
-title: 'Spider-Man: Far From Home al 45.87 % di sconto'
-date: 2021-01-01 23:15:12
+title: 'Spider-Man: Far From Home al 44.77 % di sconto'
+date: 2021-01-02 23:35:48
 image: 'https://m.media-amazon.com/images/I/51Dlfe1m+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07V6KBWBX-it'
-actualPrice: 10.82 EUR
+actualPrice: 11.04 EUR
 currency: EUR
-price: 10.82
+price: 11.04
 comparePrice: 19.99 EUR
 prodname: 'Spider-Man: Far From Home'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07V6KBWBX/?tag=tolees00-21'
-descuento: '45.87'
-average: '10.548837209302324'
+descuento: '44.77'
+average: '10.570666666666666'
 ---
 
-Puoi trovare [Spider-Man: Far From Home](https://www.amazon.it/dp/B07V6KBWBX/?tag=tolees00-21) con il prezzo 10.82 EUR (originale: 19.99 EUR) 45.87 % sconto qui:
+Puoi trovare [Spider-Man: Far From Home](https://www.amazon.it/dp/B07V6KBWBX/?tag=tolees00-21) con il prezzo 11.04 EUR (originale: 19.99 EUR) 44.77 % sconto qui:
 
 [![Spider-Man: Far From Home](https://m.media-amazon.com/images/I/51Dlfe1m+NL._SL200_.jpg)](https://www.amazon.it/dp/B07V6KBWBX/?tag=tolees00-21)
 
 ℹ️:
 
-- Blu-Ray disco singolo
 - “Uno dei migliori traguardi del Marvel Cinematic Universe”
 - contiene oltre 1 ora di Contenuti Speciali
+- Blu-Ray disco singolo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07V6KBWBX/?tag=tolees00-21)
