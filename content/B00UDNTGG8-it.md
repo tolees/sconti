@@ -26,7 +26,7 @@ Puoi trovare [Doriano Crackers Classici con Sale Iodato Sfogliati e Fragranti  7
 ℹ️:
 
 - I Crackers Doriano, con le caratteristiche bolle in superficie, sono perfetti per uno spuntino sfizioso, per accompagnare le portate a tavola o per creare gustose ricette.
-- Formato sacco da 700 grammi.
 - Doriano: i crackers buoni come il pane appena sfornato.
+- Formato sacco da 700 grammi.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00UDNTGG8/?tag=tolees00-21)
