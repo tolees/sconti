@@ -25,10 +25,10 @@ average: '44.91'
 
 ℹ️:
 
-- Cuciture totalmente nastrate
-- Imbottitura in Ovatta CMP feel Warm flat
 - Tessuto senza pfc
 - Antivento e traspiranti mvp 5000
 - Antipioggia WP 10000
+- Cuciture totalmente nastrate
+- Imbottitura in Ovatta CMP feel Warm flat
 
 [Acquista qui!!](https://www.amazon.it/dp/B01IPLTEWA/?tag=tolees00-21)

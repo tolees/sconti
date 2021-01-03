@@ -25,10 +25,10 @@ Puoi trovare [ORICO Hub USB Alimentato Alluminio + PC 7 Porte Hub Dati USB 3.0 d
 
 ℹ️:
 
-- 【Alimentatore hub USB 3.0】 Questo hub viene fornito con un adattatore 12V / 2A. Supporta la connessione simultanea di 7 dispositivi periferici e garantisce un funzionamento stabile quando si collegano dispositivi con elevato consumo energetico come dischi rigidi esterni (supporta dischi rigidi da 4 TB con grande capacità).
 - 【7 porte USB 3.0】 Lhub USB 3.0 a 7 porte ORICO offre una trasmissione dati ad alta velocità a 5 Gbit / s ed è retrocompatibile con USB 2.0 / 1.1. Ha anche i protocolli di ricarica BC1.2 che possono essere utilizzati per caricare dispositivi che consumano molta energia come iPad e smartphone con 2,4 A.
-- 【Compatibilità】 Compatibile con la maggior parte di Windows 8.1, 8, 7, Vista, XP, Mac OS, PC Linux e laptop con USB. Completamente plug and play, nessun driver richiesto e hot swap supportato. La confezione conteneva un hub USB, un adattatore di alimentazione, un cavo dati, un manuale e una scheda di garanzia.
 - 【Design unico】 Design in lega di alluminio trasparente con creatività. La cornice trasparente offre dettagli chiari per vedere cosa cè dentro. Montaggio a parete per il posizionamento più conveniente che è forte, durevole e bello.
 - 【Interruttore singolo + display LED】 7 La connessione allhub dati USB 3.0 ha un interruttore separato. Ogni porta USB è controllata in modo indipendente e non si influenzano a vicenda. Con un indicatore LED blu, puoi gestire facilmente un gran numero di dispositivi USB. Quando il dispositivo viene identificato, lindicatore LED blu lampeggia.
+- 【Compatibilità】 Compatibile con la maggior parte di Windows 8.1, 8, 7, Vista, XP, Mac OS, PC Linux e laptop con USB. Completamente plug and play, nessun driver richiesto e hot swap supportato. La confezione conteneva un hub USB, un adattatore di alimentazione, un cavo dati, un manuale e una scheda di garanzia.
+- 【Alimentatore hub USB 3.0】 Questo hub viene fornito con un adattatore 12V / 2A. Supporta la connessione simultanea di 7 dispositivi periferici e garantisce un funzionamento stabile quando si collegano dispositivi con elevato consumo energetico come dischi rigidi esterni (supporta dischi rigidi da 4 TB con grande capacità).
 
 [Acquista qui!!](https://www.amazon.it/dp/B08CVDPSY4/?tag=tolees00-21)

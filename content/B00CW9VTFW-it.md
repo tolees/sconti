@@ -26,7 +26,7 @@ average: '40.95'
 ℹ️:
 
 - Marchio: Garden Friend
-- Colore: riga verde
 - Tenda a caduta altezza 250 cm, lunghezza 200 cm
+- Colore: riga verde
 
 [Acquista qui!!](https://www.amazon.it/dp/B00CW9VTFW/?tag=tolees00-21)

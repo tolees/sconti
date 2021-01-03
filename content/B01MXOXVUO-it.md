@@ -26,8 +26,8 @@ average: '1.47'
 ℹ️:
 
 - Faremo il possibile per consegnarti questo prodotto ad almeno 43 giorni dalla scadenza
+- Adatto a vegetariani
 - Senza conservanti o coloranti artificiali
 - Salsa barbecue dal gusto intenso e affumicato, per i veri intenditori
-- Adatto a vegetariani
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MXOXVUO/?tag=tolees00-21)

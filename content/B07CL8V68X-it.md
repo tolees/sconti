@@ -26,9 +26,9 @@ Puoi trovare [Cole & Mason erbe e spezie carosello  argento  16 barattoli](http
 ℹ️:
 
 - Premium in acciaio INOX Caps
-- Speciale sistema di gancio da appendere
+- Pour, cospargere o impostazioni chiuso
 - Robusta base carosello e corpo con super liscia azione di rotazione
 - Erbe o spezie nome stampato sulla parte esterna del coperchio
-- Pour, cospargere o impostazioni chiuso
+- Speciale sistema di gancio da appendere
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CL8V68X/?tag=tolees00-21)

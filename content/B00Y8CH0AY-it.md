@@ -25,9 +25,9 @@ Puoi trovare [Heinz Ketchup Top Down 250Gr](https://www.amazon.it/dp/B00Y8CH0AY/
 
 ℹ️:
 
-- Confezione da 250 grammi
-- Adatto a vegani e vegetariani
 - Senza coloranti, conservanti e aromi artificiali
+- Adatto a vegani e vegetariani
+- Confezione da 250 grammi
 - Laroma nasce da semi Heinz che vengono maturati al sole
 
 [Acquista qui!!](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21)
