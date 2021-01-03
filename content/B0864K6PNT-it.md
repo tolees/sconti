@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Knorr - Risotteria  Funghi Porcini - 175 al 24.43 % di sconto'
-date: 2020-09-29 08:51:23
+date: 2021-01-03 14:28:35
 image: 'https://m.media-amazon.com/images/I/51mK1afQ8sL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,10 @@ Puoi trovare [Knorr - Risotteria  Funghi Porcini - 175 g](https://www.amazon.it/
 
 ℹ️:
 
+- Gusto naturale e genuino
+- Tempo di cottura: 15 minuti
+- Senza conservanti e glutammato
+- Risotto con riso 100% italiano da agricoltura sostenibile
+- Per due porzioni
 
 [Acquista qui!!](https://www.amazon.it/dp/B0864K6PNT/?tag=tolees00-21)
