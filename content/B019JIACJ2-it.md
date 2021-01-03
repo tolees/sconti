@@ -25,12 +25,12 @@ Puoi trovare [Funko- Harry Potter Lunatica Luna  6572](https://www.amazon.it/dp/
 
 ℹ️:
 
+- From the "Harry Potter" Movies
+- Manufacturer: Funko
 - Manufacturer: Funko
 - Packed in an illustrated window box
 - Officially licensed Wizarding World product
-- From the "Harry Potter" Movies
 - Packed in an illustrated window box
 - From the "Harry Potter" Movies
-- Manufacturer: Funko
 
 [Acquista qui!!](https://www.amazon.it/dp/B019JIACJ2/?tag=tolees00-21)

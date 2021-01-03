@@ -25,10 +25,10 @@ Puoi trovare [eXtremeRate 2 Set Supporto Cavalletto Kickstand Ricambio per Ninte
 
 ℹ️:
 
-- Ideale per sostituire le parti originali rotte, danneggiate e incrinate
-- Cavalletto sostitutivo progettato per Nintendo Switch console
-- La confezione include 2 * supporto per Nintendo Switch console, 2 * staffa fissa in metallo, 4 * viti, 1 * cacciavite PH00. (Nota: la console non è inclusa.)
-- Vari design per abbinare la cover posteriore personalizzata di Switch console da eXtremeRate
 - Realizzato in plastica solida, resistente e di alta qualità; Facile da installare e staccare
+- Vari design per abbinare la cover posteriore personalizzata di Switch console da eXtremeRate
+- Cavalletto sostitutivo progettato per Nintendo Switch console
+- Ideale per sostituire le parti originali rotte, danneggiate e incrinate
+- La confezione include 2 * supporto per Nintendo Switch console, 2 * staffa fissa in metallo, 4 * viti, 1 * cacciavite PH00. (Nota: la console non è inclusa.)
 
 [Acquista qui!!](https://www.amazon.it/dp/B08QCW85L8/?tag=tolees00-21)

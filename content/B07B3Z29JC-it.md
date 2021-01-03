@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 35.50 % su Fila Disruptor Men  Scarpe da Ginnastica  '
-date: 2021-01-02 17:53:46
+date: 2021-01-03 18:01:33
 image: 'https://m.media-amazon.com/images/I/41ys3qWjvCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07B3Z29JC/?tag=tolees00-21'
 descuento: '35.50'
-average: '61.07894736842105'
+average: '61.40190476190475'
 ---
 
 [Fila Disruptor Men  Scarpe da Ginnastica Uomo  Bianco Blu Marino Rosso  44 EU](https://www.amazon.it/dp/B07B3Z29JC/?tag=tolees00-21) ha un prezzo di 64.47 EUR (originale: 99.95 EUR) con uno sconto del 35.50 % sconto qui:

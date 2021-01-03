@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 28.58 % su Cuffie Bluetooth Soundcore Life P2  auri  '
-date: 2021-01-02 18:12:41
+date: 2021-01-03 18:19:14
 image: 'https://m.media-amazon.com/images/I/31I04g6j5GL._SL200_.jpg'
 comments: true
 category: ofertas
