@@ -26,7 +26,7 @@ average: '9.95'
 ℹ️:
 
 - Trucco Donna
-- Trucco Revlon Donna 30 Millilitri Fondotinta Fondotinta Donna Revlon Trucco Donna Fondotinta Cosmesi Viso-Trucco Fondotinta
 - Fondotinta Fondotinta Donna Revlon
+- Trucco Revlon Donna 30 Millilitri Fondotinta Fondotinta Donna Revlon Trucco Donna Fondotinta Cosmesi Viso-Trucco Fondotinta
 
 [Acquista qui!!](https://www.amazon.it/dp/B00VX6U99W/?tag=tolees00-21)
