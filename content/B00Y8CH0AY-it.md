@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heinz Ketchup Top Down 250Gr al 33.11 % di sconto'
-date: 2020-09-18 08:15:35
+date: 2021-01-03 11:45:50
 image: 'https://m.media-amazon.com/images/I/41SqcHP8LaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,9 @@ Puoi trovare [Heinz Ketchup Top Down 250Gr](https://www.amazon.it/dp/B00Y8CH0AY/
 
 ℹ️:
 
+- Confezione da 250 grammi
+- Adatto a vegani e vegetariani
+- Senza coloranti, conservanti e aromi artificiali
+- Laroma nasce da semi Heinz che vengono maturati al sole
 
 [Acquista qui!!](https://www.amazon.it/dp/B00Y8CH0AY/?tag=tolees00-21)

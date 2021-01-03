@@ -26,8 +26,8 @@ average: '27.0'
 ℹ️:
 
 - 22 metri di stenditura
-- Stendibiancheria in alluminio
 - Fili 6 mm antipiega
 - 100% made in italy
+- Stendibiancheria in alluminio
 
 [Acquista qui!!](https://www.amazon.it/dp/B07CD271CS/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 38.76 % su Levi s Barstow Western Standard Camicia   '
-date: 2021-01-01 05:09:38
+date: 2021-01-03 11:33:13
 image: 'https://m.media-amazon.com/images/I/41PBzMzPKmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ average: '48.99'
 
 ℹ️:
 
-- Tasche sul petto con due bottoni sul petto
-- Con orlo curvo
 - Classica camicia a maniche lunghe in denim
+- Con orlo curvo
+- Tasche sul petto con due bottoni sul petto
 
 [Acquista qui!!](https://www.amazon.it/dp/B07TKDMTHY/?tag=tolees00-21)

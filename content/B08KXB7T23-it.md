@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 22.22 % su Pokémon Scudo + Pass Di Espansione - Spe  '
-date: 2020-12-31 22:42:20
+date: 2021-01-03 11:42:12
 image: 'https://m.media-amazon.com/images/I/51HGUVzPqNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08KXB7T23/?tag=tolees00-21'
 descuento: '22.22'
-average: '79.15666666666667'
+average: '77.84714285714286'
 ---
 
 [Pokémon Scudo + Pass Di Espansione - Special - Nintendo Switch](https://www.amazon.it/dp/B08KXB7T23/?tag=tolees00-21) ha un prezzo di 69.99 EUR (originale: 89.99 EUR) con uno sconto del 22.22 % sconto qui:
