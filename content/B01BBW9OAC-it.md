@@ -25,10 +25,10 @@ average: '17.857142857142858'
 
 ℹ️:
 
-- *Lavazza , *A Modo Mio , *Lavazza A Modo Mio , *Espresso Point e *Lavazza Espresso Point sono marchi di proprietà di Luigi Lavazza S.p.A. . Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A.. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè Lavazza Espresso Point - Lavazza A Modo Mio .
-- Capsule compatibili con macchine a marchio Lavazza* A Modo Mio*
-- Caffè
 - Don Carlo miscela Nera confezione da 100
+- Caffè
+- Capsule compatibili con macchine a marchio Lavazza* A Modo Mio*
+- *Lavazza , *A Modo Mio , *Lavazza A Modo Mio , *Espresso Point e *Lavazza Espresso Point sono marchi di proprietà di Luigi Lavazza S.p.A. . Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A.. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè Lavazza Espresso Point - Lavazza A Modo Mio .
 - Confezione da 100 capsule
 
 [Acquista qui!!](https://www.amazon.it/dp/B01BBW9OAC/?tag=tolees00-21)
