@@ -25,10 +25,10 @@ Puoi trovare [Moulinex SM156D Ultracompact Metal Sandwich Maker  Piastre con Riv
 
 ℹ️:
 
-- Funzioni: griglia
-- Vano porta-cavo
-- Spia luminosa
-- Potenza: 700 W
 - Fermo di chiusura
+- Potenza: 700 W
+- Spia luminosa
+- Vano porta-cavo
+- Funzioni: griglia
 
 [Acquista qui!!](https://www.amazon.it/dp/B00CBFX0GI/?tag=tolees00-21)
