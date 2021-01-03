@@ -25,10 +25,10 @@ Puoi trovare [Knorr - Risotteria  Funghi Porcini - 175 g](https://www.amazon.it/
 
 ℹ️:
 
-- Senza conservanti e glutammato
-- Per due porzioni
 - Tempo di cottura: 15 minuti
 - Risotto con riso 100% italiano da agricoltura sostenibile
+- Per due porzioni
+- Senza conservanti e glutammato
 - Gusto naturale e genuino
 
 [Acquista qui!!](https://www.amazon.it/dp/B0864K6PNT/?tag=tolees00-21)
