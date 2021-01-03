@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.57 % su Samsung Memorie MZ-76Q1T0 860 QVO SSD In  '
-date: 2021-01-02 17:39:00
+date: 2021-01-03 17:47:20
 image: 'https://m.media-amazon.com/images/I/51dNXsA2avL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07KSHCG3R/?tag=tolees00-21'
 descuento: '30.57'
-average: '108.17563829787233'
+average: '108.19378947368419'
 ---
 
 [Samsung Memorie MZ-76Q1T0 860 QVO SSD Interno da 1 TB  SATA  2.5"](https://www.amazon.it/dp/B07KSHCG3R/?tag=tolees00-21) ha un prezzo di 109.9 EUR (originale: 158.29 EUR) con uno sconto del 30.57 % sconto qui:
@@ -25,11 +25,10 @@ average: '108.17563829787233'
 
 ℹ️:
 
-- Fattore di forma: 2.5 pollici
-- SSD con tecnologia V-NAND Samsung
-- Velocità di lettura sequenziale fino a 550 MB/s e velocità di scrittura sequenziale fino a 520 MB/s
-- Capacità disponibile: fino a 4 TB
-- Interfaccia SATA 6 Gb/s compatibile con interfacce SATA 3 Gb/s e SATA 1.5 Gb/s
-- Consente di gestire facilmente carichi di lavoro intensi di PC, workstation, NAS (Network Attached Systems) di alto livello per offrire ottima durata a gamer, creativi e professionisti del settore IT
+- Sequential Read/Write speeds up to 550/520 MB/s respectively. Performance varies based on system hardware configuration
+- Designed for mainstream PCs and laptops for personal, gaming and business use
+- Interface : SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
+- Form Factor : 2.5 Inch
+- Available Capacity : Up to 4 TB
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KSHCG3R/?tag=tolees00-21)
