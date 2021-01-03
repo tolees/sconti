@@ -26,9 +26,9 @@ average: '1.59'
 ℹ️:
 
 - PER LA COLAZIONE - Ideali per la tua colazione: un cornetto classico, una tazza di caffelatte con zucchero e una banana. Per un totale di calorie pari al 17% del tuo fabbisogno energetico giornaliero
-- INGREDIENTI - Cornetti di farina di frumento, uova fresche e zucchero. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
-- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
-- CORNETTI - Brioche con soffici e delicati strati di pasta sfoglia, deliziosi e unici per il piacere di fare colazione con un prodotto unico. Per un risveglio genuino con i prodotti Mulino Bianco
 - MERENDINE E TORTE - Ricette per tutti da gustare al mattino, per merenda o a cena. Cornetti, merendine e torte di Mulino Bianco che conquisteranno i grandi e i bambini
+- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
+- INGREDIENTI - Cornetti di farina di frumento, uova fresche e zucchero. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
+- CORNETTI - Brioche con soffici e delicati strati di pasta sfoglia, deliziosi e unici per il piacere di fare colazione con un prodotto unico. Per un risveglio genuino con i prodotti Mulino Bianco
 
 [Acquista qui!!](https://www.amazon.it/dp/B003UMET3Y/?tag=tolees00-21)

@@ -25,9 +25,9 @@ average: '16.126666666666665'
 
 ℹ️:
 
-- Versione Italiana
 - Gioca a round temporizzati: questo gioco da tavolo monopoly è un gioco rapido da giocare a round; il timer conta alla rovescia la fase di acquisto e la fase di negoziazione di ciascun round
-- Gioca in meno di 10 minuti: sei in vena di giocare al gioco monopoli ma non hai molto tempo? i giocatori possono effettivamente finire il gioco da tavolo monopoly speed ​​in meno di 10 minuti
 - Tutti acquistano in una volta: non cè bisogno di aspettare il tuo turno ogni giocatore ha un gettone e un dado corrispondente; durante le fasi di acquisto, tutti tirano e acquistano allo stesso tempo
+- Gioca in meno di 10 minuti: sei in vena di giocare al gioco monopoli ma non hai molto tempo? i giocatori possono effettivamente finire il gioco da tavolo monopoly speed ​​in meno di 10 minuti
+- Versione Italiana
 
 [Acquista qui!!](https://www.amazon.it/dp/B082QJKCN7/?tag=tolees00-21)

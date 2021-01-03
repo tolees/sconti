@@ -25,8 +25,8 @@ average: '1.47'
 
 ℹ️:
 
-- Faremo il possibile per consegnarti questo prodotto ad almeno 43 giorni dalla scadenza
 - Adatto a vegetariani
+- Faremo il possibile per consegnarti questo prodotto ad almeno 43 giorni dalla scadenza
 - Senza conservanti o coloranti artificiali
 - Salsa barbecue dal gusto intenso e affumicato, per i veri intenditori
 

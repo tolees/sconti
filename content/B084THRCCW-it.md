@@ -25,8 +25,8 @@ Puoi trovare [Tolo Tolo](https://www.amazon.it/dp/B084THRCCW/?tag=tolees00-21) c
 
 ℹ️:
 
+- Con l’uscita del film, CHECCO ZALONE
 - Con la partecipazione di BARBARA BOUCHET (Metti la Nonna in Freezer).
 - Dopo 4 lungometraggi da lui scritti insieme a GENNARO NUNZIANTE, Tolo Tolo (scritto insieme al regista PAOLO VIRZÌ) è la prima prova registica di CHECCO ZALONE.
-- Con l’uscita del film, CHECCO ZALONE
 
 [Acquista qui!!](https://www.amazon.it/dp/B084THRCCW/?tag=tolees00-21)
