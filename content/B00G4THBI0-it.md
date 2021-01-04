@@ -25,9 +25,9 @@ Puoi trovare [Pentole Agnelli ALSA2104SSPI28 Alblack Casseruola Alta in Allumini
 
 ℹ️:
 
+- Piani cottura compatibili Gas/Elettrica/Radiante/Induzione
 - 28 cm
 - Raccomandato per piastre ad induzione da 22 cm in diametro
 - Con manici
-- Piani cottura compatibili Gas/Elettrica/Radiante/Induzione
 
 [Acquista qui!!](https://www.amazon.it/dp/B00G4THBI0/?tag=tolees00-21)

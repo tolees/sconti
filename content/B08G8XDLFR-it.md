@@ -25,10 +25,10 @@ Puoi trovare [THUN - Bracciale da Donna con Charms a Forma di Foglia e di Cuore 
 
 ℹ️:
 
-- CURA DEL PRODOTTO - Pulire esclusivamente con panno morbido asciutto; evita che venga a contatto con liquidi o prodotti aggressivi
-- CATEGORIA - Persona, Gioielli, Bracciali
 - PRODOTTO - Bracciale placcato oro con charms a forma di coccinella portafortuna e di foglia
-- MATERIALI - Ottone placcato oro, ceramica
+- CATEGORIA - Persona, Gioielli, Bracciali
+- CURA DEL PRODOTTO - Pulire esclusivamente con panno morbido asciutto; evita che venga a contatto con liquidi o prodotti aggressivi
 - DIMENSIONI - 17 cm più 2 cm catenina di regolazione
+- MATERIALI - Ottone placcato oro, ceramica
 
 [Acquista qui!!](https://www.amazon.it/dp/B08G8XDLFR/?tag=tolees00-21)

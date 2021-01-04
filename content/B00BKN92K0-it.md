@@ -25,9 +25,9 @@ Puoi trovare [Kingfisher GALB Secchio zincato da 9 litri – argentato](https://
 
 ℹ️:
 
-- Maniglia girevole.
-- Può essere utilizzato per centinaia di lavori domestici e commerciali, come giardinaggio, rimuovere macerie, mescolare cemento.
-- Ideale per il carbone e la cenere calda.
 - Misure: 27 cm di diametro x 28,5 cm di altezza.
+- Può essere utilizzato per centinaia di lavori domestici e commerciali, come giardinaggio, rimuovere macerie, mescolare cemento.
+- Maniglia girevole.
+- Ideale per il carbone e la cenere calda.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00BKN92K0/?tag=tolees00-21)

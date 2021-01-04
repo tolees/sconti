@@ -27,8 +27,8 @@ average: '21.733333333333334'
 
 - Ottieni qualsiasi stile, da barba trascurata a barba corta e di media lunghezza
 - Funzionamento senza fili: una ricarica offre 40 minuti di rifinitura di precisione senza perdite di prestazioni
-- 20 impostazioni di lunghezza precise con intervalli di 0.5 mm grazie al pettine adattabile da 1 a 10 mm
 - La testina e il pettine sono totalmente lavabili per una facile pulizia sotto l’acqua corrente
+- 20 impostazioni di lunghezza precise con intervalli di 0.5 mm grazie al pettine adattabile da 1 a 10 mm
 - Ottima precisione grazie alle lame affilate di lunga durata
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MQ4L31F/?tag=tolees00-21)
