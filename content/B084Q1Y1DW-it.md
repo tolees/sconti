@@ -25,8 +25,8 @@ average: '8.45'
 
 ℹ️:
 
-- CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
-- MATERIALI - ceramica
 - DIMENSIONI - 5x3,7x4,9 cm h
+- MATERIALI - ceramica
+- CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
 
 [Acquista qui!!](https://www.amazon.it/dp/B084Q1Y1DW/?tag=tolees00-21)
