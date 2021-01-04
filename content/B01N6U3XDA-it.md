@@ -28,7 +28,7 @@ average: '65.638'
 - Der U Symbol B für Herren von Geox ist ein atmungsaktiver Halbschuh für Beruf und Alltag.
 - Gepolsterter Einstieg für ein komfortables An- und Ausziehen
 - Anlass: Casual
-- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
 - Hochwertiges Leder ist strapazierfähig und langlebig
+- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
 
 [Acquista qui!!](https://www.amazon.it/dp/B01N6U3XDA/?tag=tolees00-21)

@@ -25,10 +25,10 @@ average: '38.79078431372549'
 
 ℹ️:
 
-- EXTRA BASS per suono potente
 - Facile trasporto grazie al design compatto e leggero, cordino removibile incluso
-- Design resistente: resistente ad acqua, polvere, sabbia e fango (ip67) e incredibile durata della batteria fino a 16 ore
 - Design resistente: resistente ad acqua, polvere, sabbia e fango (IP67) e incredibile durata della batteria fino a 16 ore
 - Compatibilità bluetooth per ascoltare la musica con facilità
+- Design resistente: resistente ad acqua, polvere, sabbia e fango (ip67) e incredibile durata della batteria fino a 16 ore
+- EXTRA BASS per suono potente
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MF9Q21L/?tag=tolees00-21)

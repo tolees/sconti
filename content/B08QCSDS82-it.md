@@ -25,9 +25,9 @@ Puoi trovare [eXtremeRate Cover Custodia Ricambio per Xbox Series X S Controller
 
 ℹ️:
 
-- Basta smontare la copertura originale dal controller, e poi sostituirla con la cover eXtremeRate; puoi ottenere il video tutorial su Youtube cercando “eXtremeRate Shell for Xbox Series X/S Controller” o “46g8h8toba4”
 - Il colore sfumato è bello. Ottima presa morbida nella mano e si sente bene; Antiscivolo, senza sudore per un lungo periodo di gioco
 - La confezione include: 1 * cover frontale; 1 * cacciavite T8H; 5 * viti. (Importante: il controller e altre parti non sono inclusi.)
+- Basta smontare la copertura originale dal controller, e poi sostituirla con la cover eXtremeRate; puoi ottenere il video tutorial su Youtube cercando “eXtremeRate Shell for Xbox Series X/S Controller” o “46g8h8toba4”
 - Compatibile con Xbox Series X e Xbox Series S controller; Non compatibile con altri Xbox One controller. Verificare il modello del tuo controller secondo la nostra seconda immagine
 - Taglio preciso. Si adatta completamente a tutti i lati; tutti i pulsanti sono ancora liberamente accessibili e completamente operativi
 

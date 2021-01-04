@@ -26,7 +26,7 @@ Puoi trovare [Chloe Eau de Parfum  Donna  75 ml](https://www.amazon.it/dp/B0020M
 ℹ️:
 
 - Questo prodotto è realizzato in materiale di alta qualità, le note di testa sono peonia; il cuore è petali di rosa e magnolia; le note di base sono cedro e ambra grigia
-- Questo prodotto è realizzato in materiale di alta qualità, le note di testa sono peonia
 - Nome della fragranza: speziata
+- Questo prodotto è realizzato in materiale di alta qualità, le note di testa sono peonia
 
 [Acquista qui!!](https://www.amazon.it/dp/B0020MMD4W/?tag=tolees00-21)
