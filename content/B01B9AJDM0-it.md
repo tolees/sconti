@@ -25,8 +25,8 @@ Puoi trovare [THUN ® - Orologio a pendolo con carillon Teddy](https://www.amazo
 
 ℹ️:
 
-- DIMENSIONI - 21x25 cm
-- MATERIALI - ceramica
 - CURA DEL PRODOTTO - usa esclusivamente un panno morbido asciutto per la pulizia; evita il contatto con acqua, liquidi e prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
+- MATERIALI - ceramica
+- DIMENSIONI - 21x25 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B01B9AJDM0/?tag=tolees00-21)

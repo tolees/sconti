@@ -25,9 +25,9 @@ average: '499.9'
 
 ℹ️:
 
-- Risoluzione del display: 2560 x 1440 pixel
 - Dimensioni schermo: 68.6 cm (27 Pollici)
-- Tecnologia display: LED
 - Tempo di risposta: 4 ms
+- Tecnologia display: LED
+- Risoluzione del display: 2560 x 1440 pixel
 
 [Acquista qui!!](https://www.amazon.it/dp/B017DG09WM/?tag=tolees00-21)
