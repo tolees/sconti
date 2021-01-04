@@ -25,10 +25,10 @@ average: '4.7'
 
 ℹ️:
 
-- Effetti e benefici - Alta coprenza in formato tascabile. Nasconde le occhiaie, i rossori e tutte le altre piccole imperfezione della pelle fino a 5 ore
 - Formula - Texture ultra cremosa, morbida e scorrevole. Si sfuma facilmente e si uniforma perfettamente con lincarnato per un risultato perfettamente naturale
-- Applicazione - Stendilo direttamente sulla zona problematica che desideri correggere e poi sfuma con i polpastrelli
-- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 - Hide The Blemish - Correttore coprente in stick efficace contro le imperfezioni, i rossori e i segni della stanchezza
+- Effetti e benefici - Alta coprenza in formato tascabile. Nasconde le occhiaie, i rossori e tutte le altre piccole imperfezione della pelle fino a 5 ore
+- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
+- Applicazione - Stendilo direttamente sulla zona problematica che desideri correggere e poi sfuma con i polpastrelli
 
 [Acquista qui!!](https://www.amazon.it/dp/B001V9LBGQ/?tag=tolees00-21)
