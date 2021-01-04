@@ -25,10 +25,10 @@ average: '7.65'
 
 ℹ️:
 
-- MATERIALI - Ottone rodiato, cordino in pelle
-- CATEGORIA - Persona, Gioielli
-- PRODOTTO - Bracciale Pop cuore
-- CURA DEL PRODOTTO - Usa esclusivamente un panno morbido asciutto per la pulizia; evita che venga a contatto con liquidi o prodotti aggressivi (profumo, sapone, detergenti, lozioni corpo); dopo l’utilizzo riponi con cura il tuo bijou, possibilmente in un panno morbido
 - DIMENSIONI - 19 + 4 cm
+- CATEGORIA - Persona, Gioielli
+- MATERIALI - Ottone rodiato, cordino in pelle
+- CURA DEL PRODOTTO - Usa esclusivamente un panno morbido asciutto per la pulizia; evita che venga a contatto con liquidi o prodotti aggressivi (profumo, sapone, detergenti, lozioni corpo); dopo l’utilizzo riponi con cura il tuo bijou, possibilmente in un panno morbido
+- PRODOTTO - Bracciale Pop cuore
 
 [Acquista qui!!](https://www.amazon.it/dp/B01EZ9VYLU/?tag=tolees00-21)

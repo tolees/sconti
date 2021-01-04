@@ -26,9 +26,9 @@ Puoi trovare [THUN - Set Cucina con Barattolo in Latta  Presina e Canovaccio  De
 ℹ️:
 
 - PRODOTTO - Set cucina con confezione barattolo, presina e canovaccio
-- MATERIALI - Latta, 100% cotone
-- CURA DEL PRODOTTO - Lavare a 30°, lavare separatamente, non lavare a secco, non candeggiare, effettuare lavaggio in lavatrice normale, stirare ad una temperatura max 150 °C. Per la latta non usare spugne abrasive e non lavare in lavastoviglie
 - DIMENSIONI - Presina: 19x19 cm. Canovaccio: 65x49 cm. Confezione in latta: 22,5x16,5x14,5 h cm
 - CATEGORIA - Cucina, Altro per la cucina
+- CURA DEL PRODOTTO - Lavare a 30°, lavare separatamente, non lavare a secco, non candeggiare, effettuare lavaggio in lavatrice normale, stirare ad una temperatura max 150 °C. Per la latta non usare spugne abrasive e non lavare in lavastoviglie
+- MATERIALI - Latta, 100% cotone
 
 [Acquista qui!!](https://www.amazon.it/dp/B07RV4GQ8N/?tag=tolees00-21)

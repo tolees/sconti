@@ -25,10 +25,10 @@ average: '37.45'
 
 ℹ️:
 
-- MATERIALI: Poliestere, rivestimento: PU
-- DIMENSIONI: 30x17x27 cm (+8 cm)
-- PRODOTTO: Borsa "Farfalla" in ecopelle rosa cipria della linea Farfalla
-- CURA DEL PRODOTTO: Non esporre a fonti dirette di calore; evitare il contatto con acqua e prodotti a base di alcool; non lavabile in lavatrice, non candeggiare; applicare una crema specifica per pulire il PU
 - CATEGORIA: Persona, Accessori
+- DIMENSIONI: 30x17x27 cm (+8 cm)
+- MATERIALI: Poliestere, rivestimento: PU
+- CURA DEL PRODOTTO: Non esporre a fonti dirette di calore; evitare il contatto con acqua e prodotti a base di alcool; non lavabile in lavatrice, non candeggiare; applicare una crema specifica per pulire il PU
+- PRODOTTO: Borsa "Farfalla" in ecopelle rosa cipria della linea Farfalla
 
 [Acquista qui!!](https://www.amazon.it/dp/B07BHSNFSN/?tag=tolees00-21)

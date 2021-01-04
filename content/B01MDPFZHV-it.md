@@ -25,11 +25,11 @@ average: '169.99'
 
 ℹ️:
 
-- Archiviazione sul cloud senza costi aggiuntivi: Completamente senza fili, senza abbonamenti mensili o contratti.
-- Compatibile con Alexa – Guarda video in diretta e filmati degli eventi di movimento, attiva/disattiva il sistema e ordina automaticamente nuove batterie quando è necessario tramite selezionati dispositivi con integrazione Alexa.
-- Sistema di sicurezza intelligente: Semplice installazione fai da te in pochi minuti. Le telecamere sono facili da controllare tramite Wi-Fi, grazie alle apposite app per iOS e Android, oppure tramite comando vocale, usando lapposita Skill Alexa.
-- Sistema di sicurezza a batteria: Il sistema di telecamere senza fili è alimentato da 2 batterie AA al litio (incluse) con una durata di 2 anni. I dati vengono inviati dalle telecamere IP via Wi-Fi.
-- Sistema di sorveglianza domestica all’avanguardia: Tieni sotto controllo la tua casa e i tuoi animali domestici in tempo reale grazie alla modalità di streaming “Live View”.
 - Rilevatore di movimento: Non appena rileva un movimento, il sensore integrato nelle telecamere invia una notifica al tuo smartphone tramite Wi-Fi e registra un breve filmato dell’evento, inviandolo poi al cloud.
+- Sistema di sicurezza a batteria: Il sistema di telecamere senza fili è alimentato da 2 batterie AA al litio (incluse) con una durata di 2 anni. I dati vengono inviati dalle telecamere IP via Wi-Fi.
+- Sistema di sicurezza intelligente: Semplice installazione fai da te in pochi minuti. Le telecamere sono facili da controllare tramite Wi-Fi, grazie alle apposite app per iOS e Android, oppure tramite comando vocale, usando lapposita Skill Alexa.
+- Sistema di sorveglianza domestica all’avanguardia: Tieni sotto controllo la tua casa e i tuoi animali domestici in tempo reale grazie alla modalità di streaming “Live View”.
+- Compatibile con Alexa – Guarda video in diretta e filmati degli eventi di movimento, attiva/disattiva il sistema e ordina automaticamente nuove batterie quando è necessario tramite selezionati dispositivi con integrazione Alexa.
+- Archiviazione sul cloud senza costi aggiuntivi: Completamente senza fili, senza abbonamenti mensili o contratti.
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MDPFZHV/?tag=tolees00-21)
