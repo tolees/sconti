@@ -25,10 +25,10 @@ Puoi trovare [TEMPO DI SALDI Alimentatore 30 Ampere 12 Volt Per Striscia Led Sta
 
 ℹ️:
 
-- Colore: grigio.
-- L’estetica dell’alimentatore può variare in base alla disponibilità di magazzino.
 - Dimensioni: circa 20 x 11 x 5 cm.
-- Potenza: 360 W.
 - Peso: circa 620 gr.
+- L’estetica dell’alimentatore può variare in base alla disponibilità di magazzino.
+- Colore: grigio.
+- Potenza: 360 W.
 
 [Acquista qui!!](https://www.amazon.it/dp/B084QXJP44/?tag=tolees00-21)
