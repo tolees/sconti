@@ -25,10 +25,10 @@ Puoi trovare [PS4 Controller Base di Ricarica Doppi AMANKA Dual USB Controller C
 
 ℹ️:
 
-- 🎮 Permette la ricarica due controller contemporaneamente PS4, Alimentazione tramite la porta USB o dalla consolle PS4 ad un PC[La confezione nuova e vecchia viene spedita a caso. Se riscontri problemi di qualità del prodotto, ti preghiamo di connetterti direttamente al venditore per ottenere la sostituzione gratuita]
+- 🎮 Il prodotto è in fase di carica o la ricarica è completata, tutti loro hanno mostrato la luce blu.5V-uscita 2 * 400mAh
 - 🎮 Il colore mostrando regolatore status.One carica spia doppio LED può essere carica completa cwithin 2,5 controllori hours.Two contemporaneamente può essere ricarica completa in 3 ore
 - 🎮 La base gommata impedisce la stazione di scivolare e garantisce una elevata stabilite per 2 Gamepad in una volta, lunghezza del cavo 75cm 1X docking station , 1X usb cavo
-- 🎮 Il prodotto è in fase di carica o la ricarica è completata, tutti loro hanno mostrato la luce blu.5V-uscita 2 * 400mAh
 - 🎮 Sostieni la tua esperienza di gioco con questo elegante sistema di ricarica per i gampad PS4
+- 🎮 Permette la ricarica due controller contemporaneamente PS4, Alimentazione tramite la porta USB o dalla consolle PS4 ad un PC[La confezione nuova e vecchia viene spedita a caso. Se riscontri problemi di qualità del prodotto, ti preghiamo di connetterti direttamente al venditore per ottenere la sostituzione gratuita]
 
 [Acquista qui!!](https://www.amazon.it/dp/B074C8PDV4/?tag=tolees00-21)

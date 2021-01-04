@@ -25,10 +25,10 @@ average: '75.12833333333333'
 
 ℹ️:
 
-- 2 manopole per facile regolazione
+- MWO-Grill
+- Potenza: MWO 800 W (5 livelli) - Grill 1000 W Quartz
 - Piatto rotante in vetro, diametro 25,5 cm e accessorio griglia circolare
 - Capacità forno: 20L, cavità in acrilico, dimensioni compatte
-- Potenza: MWO 800 W (5 livelli) - Grill 1000 W Quartz
-- MWO-Grill
+- 2 manopole per facile regolazione
 
 [Acquista qui!!](https://www.amazon.it/dp/B07D3DKQHC/?tag=tolees00-21)
