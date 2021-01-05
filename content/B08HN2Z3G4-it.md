@@ -25,10 +25,10 @@ Puoi trovare [Lechnical 116Plus Intelligent BT Watch Fitness Tracker Contapassi 
 
 ℹ️:
 
-- Supports sleep monitoring and makes a sleep report.
-- Supports step counting and setting exercise goal.
 - The data can be synchronized to the APP of your mobile phone.
 - Supports monitoring heart rate.
 - All-day activity tracking: calories burned and mileage.
+- Supports step counting and setting exercise goal.
+- Supports sleep monitoring and makes a sleep report.
 
 [Acquista qui!!](https://www.amazon.it/dp/B08HN2Z3G4/?tag=tolees00-21)
