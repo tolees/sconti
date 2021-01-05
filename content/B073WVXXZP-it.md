@@ -25,10 +25,10 @@ average: '7.9'
 
 ℹ️:
 
-- Ideale negli ambienti domestici e negli uffici, idonea al collegamento di computer, telefoni o ventilatori
-- Dotata di asole per il fissaggio a parete
-- Dotata di 4 prese bivalenti 10/16a 2p+t adatta a collegare 4 spine piccole (10a) e grandi (16a)
-- Potenza prelevabile: 3500 watt
 - Presa multipla con spina salvazio super slim di soli 23 millimetri, utilizzabile in zi molto ristretti
+- Dotata di 4 prese bivalenti 10/16a 2p+t adatta a collegare 4 spine piccole (10a) e grandi (16a)
+- Dotata di asole per il fissaggio a parete
+- Ideale negli ambienti domestici e negli uffici, idonea al collegamento di computer, telefoni o ventilatori
+- Potenza prelevabile: 3500 watt
 
 [Acquista qui!!](https://www.amazon.it/dp/B073WVXXZP/?tag=tolees00-21)

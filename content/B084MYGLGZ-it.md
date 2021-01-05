@@ -26,8 +26,8 @@ Puoi trovare [Lisciani Giochi- Crazy Games Serie TV Gioco  Multicolore  80724](h
 ℹ️:
 
 - Plancia segna punteggio, 50 dischi sviluppa, trama, 6 frecce per votare, 12 stelle premio, 16 maxi carte personaggio, 1 pennarello segna e cancella, 4 birilli, regolamento
+- Tantissimi personaggi e situazioni per ispirarsi ed inventare
 - Attività di immaginazione e drammatizzazione, creatività, sviluppo delle abilità narrative, collaborazione
 - Tanti copioni da inventare
-- Tantissimi personaggi e situazioni per ispirarsi ed inventare
 
 [Acquista qui!!](https://www.amazon.it/dp/B084MYGLGZ/?tag=tolees00-21)
