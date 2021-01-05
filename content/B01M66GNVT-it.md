@@ -25,10 +25,10 @@ Puoi trovare [Acrylic Paint Set By Color Technik  Artist Quality  LARGE SET - 18
 
 ℹ️:
 
+- Colori inclusi ★ bianco in titanio ★ giallo limone ★ giallo medio ★ giallo giallo giallo scuro ★ verde ftalo verde ★ verde medio ★ blu ultrarino ★ blu ceruleo ★ cobalto T BLU ★ PHP THALO BLU ★ SIENNA BRUCIATO ★ UMBER BRUCIATO ★ NERO
 - Tutti i prodotti Color Technik sono coperti, come azienda di proprietà familiare, siamo dietro tutti i nostri prodotti con una garanzia di rimborso "senza problemi" di 365 giorni, in modo da poter acquistare con fiducia.
 - Sicuro per te e per lambiente: conforme alla norma ASTM D 4236, EN71-3 ACMI Art and Creative Materials Institute Certified e alla legge sui materiali darte statunitense, non tossico
 - Pittura versatile: per pittura su tela, tessuto, carta, ceramica, argilla, legno, metallo, unghie e artigianato.
-- Colori inclusi ★ bianco in titanio ★ giallo limone ★ giallo medio ★ giallo giallo giallo scuro ★ verde ftalo verde ★ verde medio ★ blu ultrarino ★ blu ceruleo ★ cobalto T BLU ★ PHP THALO BLU ★ SIENNA BRUCIATO ★ UMBER BRUCIATO ★ NERO
 - Qualità artistica: set regalo di 18 colori acrilici da 59 ml, colori vivaci sorprendenti, spessi e cremosi, ad asciugatura rapida e miglior consistenza di tinta, minimi spostamenti da bagnato a secco, eccellente potere coprente, massima concentrazione di pigmenti per una facile miscelazione e consistenza liscia, mantiene picchi e pennelli, resiste alle crepe superficiali.
 
 [Acquista qui!!](https://www.amazon.it/dp/B01M66GNVT/?tag=tolees00-21)
