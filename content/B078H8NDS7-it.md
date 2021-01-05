@@ -25,9 +25,9 @@ average: '7.99'
 
 ℹ️:
 
-- Diverse lunghezze.
 - In similpelle.
-- Jack & Jones - Cintura da uomo
 - Qualità comprovata Jack & Jones.
+- Jack & Jones - Cintura da uomo
+- Diverse lunghezze.
 
 [Acquista qui!!](https://www.amazon.it/dp/B078H8NDS7/?tag=tolees00-21)
