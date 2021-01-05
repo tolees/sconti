@@ -25,8 +25,8 @@ Puoi trovare [Diadora - Sneakers B. Elite per Uomo e Donna  EU 44 ](https://www.
 
 ℹ️:
 
-- The B.Elite is probably the most beloved court model in the history of sneakers: not just for the most famous Diadora athlete ever, but also because they were soon adopted by many youth subcultures in Europe. Revisited in materials with a leather upper, its great adaptability ensures style on every occasion.
-- Diadora Sportwear: street style and sportwear join the quality and authenticity of the Brand. Diadora is a global leader in the sportwear, lifestyle and Safety categories. Well researched styles and technological innovation are the keywords of the Brands success.
 - Sneakers for man and woman
+- Diadora Sportwear: street style and sportwear join the quality and authenticity of the Brand. Diadora is a global leader in the sportwear, lifestyle and Safety categories. Well researched styles and technological innovation are the keywords of the Brands success.
+- The B.Elite is probably the most beloved court model in the history of sneakers: not just for the most famous Diadora athlete ever, but also because they were soon adopted by many youth subcultures in Europe. Revisited in materials with a leather upper, its great adaptability ensures style on every occasion.
 
 [Acquista qui!!](https://www.amazon.it/dp/B01GFSANR0/?tag=tolees00-21)

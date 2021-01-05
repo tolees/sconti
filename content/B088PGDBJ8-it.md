@@ -25,9 +25,9 @@ Puoi trovare [Bisolvon Duo Emolliente – Contro tosse e gola irritata](https://
 
 ℹ️:
 
-- Senza glutine, senza lattosio, senza conservanti, senza aromi artificiali e senza alcol
-- Bisolvon Duo è un balsamo emolliente utile per calmare la tosse e idratare, dando sollievo alla gola
 - Sciroppo con miele ed estratto secco di radice di Altea
 - Lazione combinata degli ingredienti ad azione emolliente e protettiva interrompe il circolo della tosse secca dovuta al pizzicore e al prurito alla gola, calmando lo stimolo a tossire
+- Bisolvon Duo è un balsamo emolliente utile per calmare la tosse e idratare, dando sollievo alla gola
+- Senza glutine, senza lattosio, senza conservanti, senza aromi artificiali e senza alcol
 
 [Acquista qui!!](https://www.amazon.it/dp/B088PGDBJ8/?tag=tolees00-21)
