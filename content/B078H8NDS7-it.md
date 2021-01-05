@@ -25,8 +25,8 @@ average: '7.99'
 
 ℹ️:
 
-- In similpelle.
 - Diverse lunghezze.
+- In similpelle.
 - Jack & Jones - Cintura da uomo
 - Qualità comprovata Jack & Jones.
 
