@@ -25,8 +25,8 @@ average: '56.739'
 
 ℹ️:
 
+- Saucony Blu Jazz Original Trainers Vintage
 - Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
 - Nuovissimo e genuino. Siamo un venditore autorizzato di Saucony.
-- Saucony Blu Jazz Original Trainers Vintage
 
 [Acquista qui!!](https://www.amazon.it/dp/B073BWRRQY/?tag=tolees00-21)
