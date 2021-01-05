@@ -25,10 +25,10 @@ Puoi trovare [Monini GranFruttato Olio Extra Vergine di Oliva - 1 Bottiglia da 1
 
 ℹ️:
 
+- Istruzioni per un uso corretto: A crudo su bruschette, insalate, pinzimoni, carpaccio di carne e pesce, minestre calde, zuppe di legumi, verdure e carni grigliate.
+- Ricetta: le olive vengono colte in leggero anticipo. Si estrae una minore percentuale di olio ma ricchissima di antiossidanti e polifenoli che conferiscono a granfruttato la tipica fragranza
 - Granfruttato: bouquet fruttato intenso di oliva verde, complesso ed elegante, con evidenti richiami alla mandorla verde, fresca, ed ampie note floreali
 - Avvertimento di sicurezza: Conservare al riparo da luce e calore, preferibilmente al buio tra 15-20°C. Richiudere dopo luso.
 - Gusto: note di mandorla amara e mandorla dolce più o meno secca. Talvolta astringente con media sensazione di amaro e pungente di crescente intensità e grande persistenza retro olfattiva
-- Ricetta: le olive vengono colte in leggero anticipo. Si estrae una minore percentuale di olio ma ricchissima di antiossidanti e polifenoli che conferiscono a granfruttato la tipica fragranza
-- Istruzioni per un uso corretto: A crudo su bruschette, insalate, pinzimoni, carpaccio di carne e pesce, minestre calde, zuppe di legumi, verdure e carni grigliate.
 
 [Acquista qui!!](https://www.amazon.it/dp/B01GE6WLN2/?tag=tolees00-21)

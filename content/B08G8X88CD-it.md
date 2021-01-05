@@ -25,10 +25,10 @@ Puoi trovare [THUN - Collana Current da Donna con Coccinella Portafortuna - Gioi
 
 ℹ️:
 
-- CURA DEL PRODOTTO - Pulire esclusivamente con panno morbido asciutto. Evita che venga a contatto con liquidi o prodotti aggressivi (es: profumo, sapone, detergenti, lozioni corpo)
-- CATEGORIA - Persona, Gioielli
-- MATERIALI - Ottone placcato oro, ceramica
 - DIMENSIONI - Lunghezza aperta 55 cm + 4 cm catenina di regolazione
+- MATERIALI - Ottone placcato oro, ceramica
+- CURA DEL PRODOTTO - Pulire esclusivamente con panno morbido asciutto. Evita che venga a contatto con liquidi o prodotti aggressivi (es: profumo, sapone, detergenti, lozioni corpo)
 - PRODOTTO - Collana Current con coccinella portafortuna
+- CATEGORIA - Persona, Gioielli
 
 [Acquista qui!!](https://www.amazon.it/dp/B08G8X88CD/?tag=tolees00-21)

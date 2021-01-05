@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.01 % su Head & Shoulders Classic Clean Shampoo 2  '
-date: 2021-01-01 19:15:30
+date: 2021-01-05 15:00:59
 image: 'https://m.media-amazon.com/images/I/51wA31nknFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ average: '15.99'
 
 ℹ️:
 
+- Dermatologicamente testato, con pH equilibrato e potenziato con antiossidanti
 - La formula Derma&Pure combatte prurito, secchezza e capelli grassi
 - Senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffine
-- Dermatologicamente testato, con pH equilibrato e potenziato con antiossidanti
-- Lenisce il cuoio capelluto e dona sollievo dal prurito causato dalla forfora
-- A base di Eucalipto lascia una sensazione di freschezza duratura
 - Capelli visibilmente belli e fino al 100% liberi dalla forfora (con uso regolare)
+- A base di Eucalipto lascia una sensazione di freschezza duratura
+- Lenisce il cuoio capelluto e dona sollievo dal prurito causato dalla forfora
 
 [Acquista qui!!](https://www.amazon.it/dp/B07G7LKHW1/?tag=tolees00-21)
