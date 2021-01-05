@@ -25,10 +25,10 @@ Puoi trovare [IDRO BRIC SCACOL0092CR Colonna Doccia Margarita in Ottone con Pres
 
 ℹ️:
 
-- Deviatore in ottone a due vie
 - Flessibile cromato doppia aggraffatura cm 150
-- Cromata
 - La presa dellacqua può essere superiore o inferiore
+- Deviatore in ottone a due vie
+- Cromata
 - Augelli anticalcare
 
 [Acquista qui!!](https://www.amazon.it/dp/B0744PRGSQ/?tag=tolees00-21)

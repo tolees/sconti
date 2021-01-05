@@ -25,8 +25,8 @@ Puoi trovare [adidas FLUIDSTREET  Scarpe da Corsa Uomo  Core Black/Ftwr White/Co
 
 ℹ️:
 
-- Scarpe per bambini
-- Tomaia in tessuto
 - Ammortizzazione
+- Tomaia in tessuto
+- Scarpe per bambini
 
 [Acquista qui!!](https://www.amazon.it/dp/B082T66WBP/?tag=tolees00-21)

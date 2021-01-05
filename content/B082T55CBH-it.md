@@ -25,8 +25,8 @@ average: '40.99'
 
 ℹ️:
 
-- Scarpe per bambini
 - Tomaia in tessuto
 - Ammortizzazione
+- Scarpe per bambini
 
 [Acquista qui!!](https://www.amazon.it/dp/B082T55CBH/?tag=tolees00-21)

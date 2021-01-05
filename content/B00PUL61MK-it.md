@@ -25,10 +25,10 @@ average: '27.0'
 
 ℹ️:
 
+- Dettagli: valvola automatica di pressurizzazione, spugna sul coperchio e cubettata sul fondo con pratico sistema pick & pluck per adattarla ad ogni sagoma ed esigenza, pareti spesse anti urto
 - Caratteristiche: valigia ermetica resistente allacqua, alle polveri, agli urti ed agli agenti atmosferici, chiusura di sicurezza a doppio step, manico morbido ad alta ergonomicità
 - Dimensioni (lunghezza x larghezza x altezza in millimetri): esterne 258 x x 243 x 167,5 , interne 235 x 18o x 156 , profondità coperchio 25 , profondità fondo 131
-- Certificazioni: IP67 (100% impermeabile), STANAG 4280, DEF STAN 81-41, ATA300, NATO (NSN), ATA300, 100% made in Italy
 - Utilizzo: valigia ermetica ideale per trasportare e proteggere apparecchiature e materiali sensibili
-- Dettagli: valvola automatica di pressurizzazione, spugna sul coperchio e cubettata sul fondo con pratico sistema pick & pluck per adattarla ad ogni sagoma ed esigenza, pareti spesse anti urto
+- Certificazioni: IP67 (100% impermeabile), STANAG 4280, DEF STAN 81-41, ATA300, NATO (NSN), ATA300, 100% made in Italy
 
 [Acquista qui!!](https://www.amazon.it/dp/B00PUL61MK/?tag=tolees00-21)

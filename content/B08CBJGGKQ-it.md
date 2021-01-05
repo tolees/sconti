@@ -25,8 +25,8 @@ Puoi trovare [adidas Fluidstreet  Scarpe da Corsa Man  Core Black/Ftwr White/Cor
 
 ℹ️:
 
-- Scarpe per bambini
-- Ammortizzazione
 - Tomaia in tessuto
+- Ammortizzazione
+- Scarpe per bambini
 
 [Acquista qui!!](https://www.amazon.it/dp/B08CBJGGKQ/?tag=tolees00-21)
