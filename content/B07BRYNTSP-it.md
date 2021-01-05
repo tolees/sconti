@@ -28,7 +28,7 @@ average: '60.8'
 - Laltezza di taglio massima a 45° è di 14 mm e di 34 mm a 90°
 - Una protezione del disco da taglio garantisce un livello di sicurezza ottimale durante i lavori; lutente viene infatti protetto da schegge e polvere
 - Il banco in acciaio inossidabile robusto e facile da pulire (misure: 395 x 385 mm) è dotato di una scala graduata fino a 45 gradi e di piedi antiscivolo per una presa salda
-- Un serbatoio dellacqua integrato fornisce il raffreddamento ad acqua necessario alla lama e la protegge dai danni derivanti da surriscaldamento
 - La guida parallela con scala consente uno schema di taglio incredibilmente preciso e dritto; per i tagli obliqui, la guida angolare può essere regolata da -45° a +45°
+- Un serbatoio dellacqua integrato fornisce il raffreddamento ad acqua necessario alla lama e la protegge dai danni derivanti da surriscaldamento
 
 [Acquista qui!!](https://www.amazon.it/dp/B07BRYNTSP/?tag=tolees00-21)

@@ -25,9 +25,9 @@ Puoi trovare [Adidas Core18 Rain Jacket  Uomo  Dark Blue/White  M](https://www.a
 
 ℹ️:
 
-- Con zip a tutta lunghezza
+- Tasche nelle cuciture laterali
 - Polsini elasticizzati
 - Materiale idrorepellente
-- Tasche nelle cuciture laterali
+- Con zip a tutta lunghezza
 
 [Acquista qui!!](https://www.amazon.it/dp/B076HRWR8Y/?tag=tolees00-21)

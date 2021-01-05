@@ -25,8 +25,8 @@ average: '45.47'
 
 ℹ️:
 
+- Tomaia in mesh traspirante
 - Ammortizzazione morbida
 - Scarpe da corsa
-- Tomaia in mesh traspirante
 
 [Acquista qui!!](https://www.amazon.it/dp/B089QQGNDF/?tag=tolees00-21)
