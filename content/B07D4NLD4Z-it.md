@@ -25,10 +25,10 @@ Puoi trovare [Pure & Essential Vitamina D3 Vegana 1000ui Colecalciferolo | Estra
 
 ℹ️:
 
-- FORMA DI SCHEDA PER ASSORBIMENTO: utilizziamo compresse anziché capsule a base di olio per evitare problemi associati al malassorbimento di grassi in soggetti con problemi digestivi.
-- ESTRATTO DI LICHENI A BASE VEGETALE: derivato da un tipo di funghi, adatto a vegetariani e vegani.
-- DOSAGGIO GIORNALIERO ADATTO A LUNGO TERMINE: 1000 UI di vitamina D3 supporta livelli salutari di vitamina D3 nel corpo (a differenza delle grandi dosi che hanno sconvolto il calcio e la vitamina D).
-- FORMATO COLECALCIFEROLO D3 OTTIMALE: D3 è la forma superiore di vitamina D. Fino a poco tempo fa, le uniche fonti vegane offrivano vitamina D2.
 - MOLTEPLICI BENEFICI PER LA SALUTE: la vitamina D3 supporta la normale funzione immunitaria, aiuta a mantenere le ossa, i denti e la normale funzione muscolare e svolge un ruolo nel processo di divisione cellulare e nel mantenimento dei normali livelli di calcio nel sangue.
+- ESTRATTO DI LICHENI A BASE VEGETALE: derivato da un tipo di funghi, adatto a vegetariani e vegani.
+- FORMATO COLECALCIFEROLO D3 OTTIMALE: D3 è la forma superiore di vitamina D. Fino a poco tempo fa, le uniche fonti vegane offrivano vitamina D2.
+- DOSAGGIO GIORNALIERO ADATTO A LUNGO TERMINE: 1000 UI di vitamina D3 supporta livelli salutari di vitamina D3 nel corpo (a differenza delle grandi dosi che hanno sconvolto il calcio e la vitamina D).
+- FORMA DI SCHEDA PER ASSORBIMENTO: utilizziamo compresse anziché capsule a base di olio per evitare problemi associati al malassorbimento di grassi in soggetti con problemi digestivi.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07D4NLD4Z/?tag=tolees00-21)
