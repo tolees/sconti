@@ -25,8 +25,8 @@ average: '30.91'
 
 ℹ️:
 
-- Stabilizzare bordo anteriore tiene computer portatile sul posto
 - Regola fino ad un angolo di visione di 30 gradi e supporta la maggior parte dei laptop / docking station (fino a 17 pollici)
+- Stabilizzare bordo anteriore tiene computer portatile sul posto
 - Testato da FIRA International Ltd per la conformità ai requisiti ergonomici stabiliti nella legislazione europea su salute e sicurezza: EN ISO 9241-5
 - Offre spazio per hub USB
 

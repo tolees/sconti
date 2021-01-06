@@ -25,9 +25,9 @@ average: '21.186666666666667'
 
 ℹ️:
 
-- Cappello con pon-pon
-- Autunno/Inverno 2019
 - Stemmi a contrasto
+- Autunno/Inverno 2019
+- Cappello con pon-pon
 - 75x100 Acrilico, 10x100 Lana, 10x100 Poliammide, 5x100 Viscosa
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MVHZ11L/?tag=tolees00-21)
