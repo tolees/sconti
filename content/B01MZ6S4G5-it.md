@@ -25,8 +25,8 @@ average: '55.166666666666664'
 
 ℹ️:
 
-- 70s tennis-inspired mid shoe made of full-grain leather with appliquéd leather logo. Vulcanized box outsole with wax treatment.
 - Diadora Sportwear: street style and sportwear join the quality and authenticity of the Brand. Diadora is a global leader in the sportwear, lifestyle and Safety categories. Well researched styles and technological innovation are the keywords of the Brands success.
+- 70s tennis-inspired mid shoe made of full-grain leather with appliquéd leather logo. Vulcanized box outsole with wax treatment.
 - Sneakers for man and woman
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Puoi trovare [Moleskine - Agenda Giornaliera 12 Mesi  Agenda Giornaliera 2021  P
 
 ℹ️:
 
-- Questagenda giornaliera 12 mesi presenta una copertina rigida, angoli arrotondati, chiusura ad elastico e nastrino segnalibro. La carta da 70 g/m² è color avorio e senza cloro
 - La confezione contiene unagenda giornaliera da 12 mesi in edizione limitata "Alice nel Paese delle Meraviglie", con copertina rigida in formato Large 13 x 21 cm da 400 pagine
-- Questa limited edition rievoca il mondo di Alice nel paese delle Meraviglie, grazie alle illustrazioni originali firmate John Tenniel e alle citazioni tratte dal classico racconto di Lewis Carrol
 - La copertina rigida riproduce la celebre frase "Siamo tutti pazzi qui" e tutti gli aspetti del mondo surreale e senza senso di Alice, per ritrovare lo stesso stile in tutta lagenda 12 mesi
 - Lagenda presenta una copertina con grafiche a tema "Alice nel Paese delle Meraviglie" - "Siamo tutti pazzi qui". Ogni agenda contiene 1 foglietto di stickers adesivi e una scheda con messaggio a tema
+- Questa limited edition rievoca il mondo di Alice nel paese delle Meraviglie, grazie alle illustrazioni originali firmate John Tenniel e alle citazioni tratte dal classico racconto di Lewis Carrol
+- Questagenda giornaliera 12 mesi presenta una copertina rigida, angoli arrotondati, chiusura ad elastico e nastrino segnalibro. La carta da 70 g/m² è color avorio e senza cloro
 
 [Acquista qui!!](https://www.amazon.it/dp/B07Y5YCZY4/?tag=tolees00-21)
