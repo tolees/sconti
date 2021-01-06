@@ -25,10 +25,10 @@ average: '99.99'
 
 ℹ️:
 
-- Prodotto in Spagna
+- Panama Jack Uomo Castaño / Chestnut Wüstste Boots
 - Impermeabile
 - Altezza tacco: 2,00 cm
+- Prodotto in Spagna
 - Materiale principale: nappa, materiale della fodera: legno naturale / materiale della suola: TR Intersolle Removable Inserto: no
-- Panama Jack Uomo Castaño / Chestnut Wüstste Boots
 
 [Acquista qui!!](https://www.amazon.it/dp/B07B9PGJ5B/?tag=tolees00-21)

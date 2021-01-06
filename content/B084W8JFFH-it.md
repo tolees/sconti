@@ -26,11 +26,11 @@ Puoi trovare [Pantene Pro-V Shampoo Rigenera & Protegge per Capelli Deboli o Dan
 ℹ️:
 
 - Capelli forti con lo shampoo allinfuso di nutrienti Pro-V
-- Flacone 100% riciclabile*, composto per il 25% da plastica riciclata (eccetto il tappo)
-- Previene la formazione di doppie punte
 - Pantene Shampoo per capelli danneggiati, secchi
 - Shampoo 0% siliconi, 0% olio minerale, 0% coloranti
 - Deterge, nutre con l’infuso di nutrienti Pro-V, ripara contro i danni
 - Shampoo per capelli sani, forti e lucenti
+- Previene la formazione di doppie punte
+- Flacone 100% riciclabile*, composto per il 25% da plastica riciclata (eccetto il tappo)
 
 [Acquista qui!!](https://www.amazon.it/dp/B084W8JFFH/?tag=tolees00-21)

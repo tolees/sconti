@@ -25,10 +25,10 @@ average: '33.27'
 
 ℹ️:
 
-- Caratteristica: secondo fuso orario
 - Modello con cinturino in pelle
-- Modello con illuminazione
 - Cronometro: 1/100 sec - 10.000 ore
+- Caratteristica: secondo fuso orario
+- Modello con illuminazione
 - Con 5 allarmi giornalieri
 
 [Acquista qui!!](https://www.amazon.it/dp/B07G33FTZ5/?tag=tolees00-21)
