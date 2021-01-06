@@ -25,9 +25,9 @@ average: '36.1'
 
 ℹ️:
 
-- Colletto rialzato
-- Taglio regolare
-- Tessuto elasticizzato
 - Tipo di tessuto: Cotton 95%, Elastane 5%
+- Taglio regolare
+- Colletto rialzato
+- Tessuto elasticizzato
 
 [Acquista qui!!](https://www.amazon.it/dp/B08B7JQGQM/?tag=tolees00-21)

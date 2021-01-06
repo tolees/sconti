@@ -26,8 +26,8 @@ average: '67.5'
 ℹ️:
 
 - Chiusura: Stringata
+- Materiale esterno: Pelle scamosciata
 - Fodera: Sintetico
 - Materiale suola: Gomma
-- Materiale esterno: Pelle scamosciata
 
 [Acquista qui!!](https://www.amazon.it/dp/B0792T5JQS/?tag=tolees00-21)

@@ -25,8 +25,8 @@ average: '36.3'
 
 ℹ️:
 
-- Maglietta colore opal black/artic white
 - Taglia: s
+- Maglietta colore opal black/artic white
 - Abbigliamento sportivo uomo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07N9GJXM7/?tag=tolees00-21)

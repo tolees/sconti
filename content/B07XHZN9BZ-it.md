@@ -25,9 +25,9 @@ average: '19.99'
 
 ℹ️:
 
-- Modo semi aperto
 - Videogioco educativo
-- Simulazione vita api in co-op
 - Modalità libera
+- Simulazione vita api in co-op
+- Modo semi aperto
 
 [Acquista qui!!](https://www.amazon.it/dp/B07XHZN9BZ/?tag=tolees00-21)

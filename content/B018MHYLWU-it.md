@@ -25,9 +25,9 @@ Puoi trovare [Brevi 212-626 Slex Evo Seggiolone per la Pappa  Tortora  Collezion
 
 ℹ️:
 
-- Poggiapiedi regolabile in ben 21 posizioni consente il corretto appoggio dei piedi per cambiare posizione in modo naturale e scaricare il peso dalla schiena
 - Rail di sicurezza facilmente rimovibile dotato di separatore integrato per le gambe, seduta regolabile in profondità in 4 posizioni
-- Struttura in acciaio: stabile, robusta e facile da pulire
+- Poggiapiedi regolabile in ben 21 posizioni consente il corretto appoggio dei piedi per cambiare posizione in modo naturale e scaricare il peso dalla schiena
 - Schienalino ergonomico a due posizioni, facile regolazione continua della seduta
+- Struttura in acciaio: stabile, robusta e facile da pulire
 
 [Acquista qui!!](https://www.amazon.it/dp/B018MHYLWU/?tag=tolees00-21)

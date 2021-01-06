@@ -25,8 +25,8 @@ Puoi trovare [King Home S1775002 Scaffale Cromato 5 Piani  60X35X180H](https://w
 
 ℹ️:
 
-- Model Number: s1775002
 - Dimensions: 60 x 35 x 180H
 - Brand: King Home
+- Model Number: s1775002
 
 [Acquista qui!!](https://www.amazon.it/dp/B074PBMRT2/?tag=tolees00-21)
