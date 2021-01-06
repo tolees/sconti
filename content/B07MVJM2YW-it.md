@@ -25,10 +25,10 @@ Puoi trovare [NAPAPIJRI Semiury 2 Cuffia  Grigio  Med Grey Mel 160    Taglia Uni
 
 ℹ️:
 
-- Colore: Grigio
-- Brand: Napapijri
 - Materiale: Acrilico
-- Articolo: N0YKCK160
 - Taglia: PZ
+- Brand: Napapijri
+- Articolo: N0YKCK160
+- Colore: Grigio
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MVJM2YW/?tag=tolees00-21)
