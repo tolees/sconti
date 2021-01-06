@@ -25,8 +25,8 @@ average: '23.45'
 
 ℹ️:
 
-- Cura del prodotto -pulire esclusivamente con panno morbido asciutto; evita che venga a contatto con liquidi o prodotti aggressivi (es: profumo, sapone, detergenti, lozioni corpo)
-- Materiali -ottone rodiato; ceramica
 - Dimensioni -lunghezza aperta 55 cm + 4 cm catenina di regolazione
+- Materiali -ottone rodiato; ceramica
+- Cura del prodotto -pulire esclusivamente con panno morbido asciutto; evita che venga a contatto con liquidi o prodotti aggressivi (es: profumo, sapone, detergenti, lozioni corpo)
 
 [Acquista qui!!](https://www.amazon.it/dp/B08JD1FDFX/?tag=tolees00-21)
