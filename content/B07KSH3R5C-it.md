@@ -25,10 +25,10 @@ average: '65.89'
 
 ℹ️:
 
-- Contiene: 1x Columbia Powder Pass, Giacca con cappuccio, Uomo, Nero, XL, Fibra sintetica, 1773271
 - Tessuto idro-resistente per stare allasciutto durante le avventure all’aria aperta
-- Protezione sul mento e cappuccio scuba per una maggiore protezione dagli agenti atmosferici
-- Piumino con cappuccio da uomo, Costruzione ibrida
 - Vestibilità ottimale grazie all’orlo regolabile con cordino
+- Protezione sul mento e cappuccio scuba per una maggiore protezione dagli agenti atmosferici
+- Contiene: 1x Columbia Powder Pass, Giacca con cappuccio, Uomo, Nero, XL, Fibra sintetica, 1773271
+- Piumino con cappuccio da uomo, Costruzione ibrida
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KSH3R5C/?tag=tolees00-21)
