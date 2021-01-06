@@ -1,28 +1,32 @@
 ---
 layout: post
-title: 'Diadora - Sneakers Game L High Waxed per al 50.01 % de descuento'
-date: 2020-10-17 06:23:54
-image: 'https://m.media-amazon.com/images/I/31XJ9sEP+eL._SL200_.jpg'
+title: 'sconto del 34.48 % su Diadora - Sneakers Game L High Waxed per  '
+date: 2021-01-06 15:52:47
+image: 'https://m.media-amazon.com/images/I/21JvP9xMjBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ6S4G5-it'
-actualPrice: 49.99 EUR
+actualPrice: 65.52 EUR
 currency: EUR
-price: 49.99
+price: 65.52
 comparePrice: 100.0 EUR
 prodname: 'Diadora - Sneakers Game L High Waxed per Uomo e Donna  EU 42 '
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21'
-descuento: '50.01'
+descuento: '34.48'
+average: '55.166666666666664'
 ---
 
-Está [Diadora - Sneakers Game L High Waxed per Uomo e Donna  EU 42 ](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21) con 50.01 de descuento por 49.99 EUR (original: 100.0 EUR) en el siguiente enlace!
+[Diadora - Sneakers Game L High Waxed per Uomo e Donna  EU 42 ](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21) ha un prezzo di 65.52 EUR (originale: 100.0 EUR) con uno sconto del 34.48 % sconto qui:
 
-[![Diadora - Sneakers Game L High Waxed per](https://m.media-amazon.com/images/I/31XJ9sEP+eL._SL200_.jpg)](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21)
+[![Diadora - Sneakers Game L High Waxed per](https://m.media-amazon.com/images/I/21JvP9xMjBL._SL200_.jpg)](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21)
 
 ℹ️:
 
+- 70s tennis-inspired mid shoe made of full-grain leather with appliquéd leather logo. Vulcanized box outsole with wax treatment.
+- Diadora Sportwear: street style and sportwear join the quality and authenticity of the Brand. Diadora is a global leader in the sportwear, lifestyle and Safety categories. Well researched styles and technological innovation are the keywords of the Brands success.
+- Sneakers for man and woman
 
-[Ver la oferta!!](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B01MZ6S4G5/?tag=tolees00-21)
