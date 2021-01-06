@@ -25,10 +25,10 @@ Puoi trovare [Dickie Toys 201119075 - Veicolo - RC Porsche Spyder  Pronto a Corr
 
 ℹ️:
 
-- 2,4 GHz
-- Luce anteriore, sospensione
-- Fino a 10 km/h, scala 1:16, 26 cm
-- Cerchioni con luce, suono originale
 - Telecomando a due canali
+- Luce anteriore, sospensione
+- Cerchioni con luce, suono originale
+- Fino a 10 km/h, scala 1:16, 26 cm
+- 2,4 GHz
 
 [Acquista qui!!](https://www.amazon.it/dp/B00TYV74Z0/?tag=tolees00-21)
