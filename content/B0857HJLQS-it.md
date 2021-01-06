@@ -25,11 +25,11 @@ average: '59.5'
 
 ℹ️:
 
-- I gioielli Swarovski sono sinonimo di creatività e originalità
-- Una aggiunta davvero unica ai tuoi outfit
 - È composto da due catenine rodiate
-- Una è decorata con un elemento rotondo, mentre la seconda catenina presenta un mandala dettagliato con al centro un cristallo turchese
-- Questa collana incarna la nostra collezione Swarovski Symbolic
 - Misura: 38/2x2 cm
+- Una aggiunta davvero unica ai tuoi outfit
+- Una è decorata con un elemento rotondo, mentre la seconda catenina presenta un mandala dettagliato con al centro un cristallo turchese
+- I gioielli Swarovski sono sinonimo di creatività e originalità
+- Questa collana incarna la nostra collezione Swarovski Symbolic
 
 [Acquista qui!!](https://www.amazon.it/dp/B0857HJLQS/?tag=tolees00-21)
