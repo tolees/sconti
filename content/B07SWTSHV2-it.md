@@ -26,7 +26,7 @@ Puoi trovare [Geox U IACOPO B  Scarpe Stringate Oxford Uomo  Nero  Black C9999  
 ℹ️:
 
 - Materiale suola: Sintetico
-- Materiale esterno: Pelle
 - Fodera: Tessuto
+- Materiale esterno: Pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B07SWTSHV2/?tag=tolees00-21)
