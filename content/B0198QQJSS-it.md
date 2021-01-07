@@ -25,9 +25,9 @@ Puoi trovare [Idro Bric M0558 Cassetta WC  Alta Completa Senza Coperchio Superio
 
 ℹ️:
 
+- Entrata acqua: destra, sinistra
 - Completa di tutti gli accessori per l’installazione
 - Capacità di scarico 9 L.
 - Installazione alta posizione, non isolata, rubinetto ECO con asta
-- Entrata acqua: destra, sinistra
 
 [Acquista qui!!](https://www.amazon.it/dp/B0198QQJSS/?tag=tolees00-21)
