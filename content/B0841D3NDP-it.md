@@ -25,8 +25,8 @@ average: '28.67'
 
 ℹ️:
 
-- Tommy Jeans Uomo S/S Maglia Top
 - Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 - Prodotto originale e autentico Tommy Hilfiger/Tommy Jeans
+- Tommy Jeans Uomo S/S Maglia Top
 
 [Acquista qui!!](https://www.amazon.it/dp/B0841D3NDP/?tag=tolees00-21)

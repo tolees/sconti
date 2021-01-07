@@ -25,10 +25,10 @@ Puoi trovare [Citizen Orologio Cronografo Quarzo Uomo con Cinturino in Pelle CA4
 
 ℹ️:
 
-- Funzione crono a 1/5 di sec. fino a 60 minuti, data e giorno del mese alle ore 4.
 - Cassa in acciaio (45mm), quadrante nero, cinturino in pelle marrone.
-- Vetro minerale, fondello serrato a vite.
 - Impermeabilità: subacqueo fino a 100 mt.
+- Funzione crono a 1/5 di sec. fino a 60 minuti, data e giorno del mese alle ore 4.
 - Cronografo con movimento Eco-Drive (a carica di luce infinita - riserva di carica di 270 giorni).
+- Vetro minerale, fondello serrato a vite.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00R7PSPS0/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Puoi trovare [AREXONS RAIN OFF Idrorepellente vetri auto  100 ml repellente piog
 
 ℹ️:
 
-- PROTEGGE I TERGICRISTALLO - Con Arexons Rain off, inoltre, limiti l’usura delle spazzole tergicristallo perchè il vetro pulito e lucido ne favorisce lo scorrimento.
 - FORMULA SPECIALE - Rain off idrorepellente parabrezza grazie alla sua formulazione unica e innovativa fa scorrere le gocce senza farle aderire alla superficie: lacqua condensa in goccioline che scivolano via allaumentare della velocità del veicolo, lasciando il cristallo sempre pulito e trasparente.
+- PROTEGGE I TERGICRISTALLO - Con Arexons Rain off, inoltre, limiti l’usura delle spazzole tergicristallo perchè il vetro pulito e lucido ne favorisce lo scorrimento.
+- FACILE APPLICAZIONE - Allinterno della confezione di Rain Off cè un comodo applicatore che rende facile ed immediato l’utilizzo del prodotto.
 - TRATTAMENTO PREVENTIVO - Rain off Arexons è uno speciale trattamento per il parabrezza, un idrorepellente per vetri da applicare prima che piova per permettere la formazione di un film idrorepellente anti gocce.
 - SCIVOLAMENTO DELLE GOCCE - Il sottile strato creato dal trattamento con Arexons vetri, favorisce lo scivolamento delle gocce di pioggia già a 50-60 km/h di velocità. Il tuo vetro sarà sempre splendente e senza quelle fastidiose tracce di acqua che ti disturbano la visione.
-- FACILE APPLICAZIONE - Allinterno della confezione di Rain Off cè un comodo applicatore che rende facile ed immediato l’utilizzo del prodotto.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00EYXX54M/?tag=tolees00-21)

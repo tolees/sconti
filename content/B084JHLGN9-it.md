@@ -25,9 +25,9 @@ average: '5.99'
 
 ℹ️:
 
-- Supporto per larco plantare.
 - Filato mouliné su tallone e punta per un effetto melangiato.
 - Punta con cucitura piatta contro le irritazioni.
 - Cotone pettinato morbido al tatto.
+- Supporto per larco plantare.
 
 [Acquista qui!!](https://www.amazon.it/dp/B084JHLGN9/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Puoi trovare [tesapack PAPER ecoLogo 3x 50M x 50MM](https://www.amazon.it/dp/B00
 
 ℹ️:
 
+- Adesivo senza solventi
 - Solido supporto in carta non sbiancata
+- Nastro da imballaggio a base biologica al 60%
 - Custodia sagomata realizzata con l80% di cartone riciclato
 - Anima in cartone riciclato al 100%
-- Nastro da imballaggio a base biologica al 60%
-- Adesivo senza solventi
 
 [Acquista qui!!](https://www.amazon.it/dp/B0053XWNW2/?tag=tolees00-21)
