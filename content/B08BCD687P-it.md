@@ -25,10 +25,10 @@ average: '26.99'
 
 ℹ️:
 
-- ► 18 CARTA ABRASIVA & SPAZIO STRETTO: Ci sono tipo di forma carte abrasive--Triangolo, 6* 80 graniglie, 6* 180 graniglie, 6* 240 graniglie, facile e rapido da usare e sostituire, i carte abrasive soddisfano tanti lavori secondo il materiale di superficie, e quel levigatrice funziona stabile, basso rumore
-- ► 14000 r/min Alta Potenza: Quella levigatrice funziona a 14000 r/min con potenza 220W, offre una potenza forte, dimensioni di carta abrasiva 148X148X84mm, lalta potenza più efficace rispetto alla macinatura tradizionale manuale.
 - ► INSTALLAZIONE DELLA SCATOLA DI POLVERI: La scatola di raccolta di polvere, per racogliere in apposito i polveri, filtrare laria, per mantenere lambiente pulita e la struttura compatta interna impedisce la caduta, facile da smontare. Se la scatola della polvere dovesse cadere durante la levigatura, vi preghiamo di inviarci une-mail per aiutarLa a risolvere questa problema.
 - ► DISEGNO INTELLIGENTE: Il corpo morbido della presa fornisce un’impugnatura confortevole, linterruttore antipolvere sarebbe bloccato dopo essere stato attivato e spento, per ridurre il controllo manuale, sistema di bloccaggio rapido per bloccare la carta abrasiva strettamente
+- ► 14000 r/min Alta Potenza: Quella levigatrice funziona a 14000 r/min con potenza 220W, offre una potenza forte, dimensioni di carta abrasiva 148X148X84mm, lalta potenza più efficace rispetto alla macinatura tradizionale manuale.
+- ► 18 CARTA ABRASIVA & SPAZIO STRETTO: Ci sono tipo di forma carte abrasive--Triangolo, 6* 80 graniglie, 6* 180 graniglie, 6* 240 graniglie, facile e rapido da usare e sostituire, i carte abrasive soddisfano tanti lavori secondo il materiale di superficie, e quel levigatrice funziona stabile, basso rumore
 - ► CONTENUTO DELLA CONFEZIONE: 1 x morpilot AJ7T Levigatrice mouse, 1 x scatola di polveri, 18 x carta abrasiva, 1 x manuale dellutente.
 
 [Acquista qui!!](https://www.amazon.it/dp/B08BCD687P/?tag=tolees00-21)

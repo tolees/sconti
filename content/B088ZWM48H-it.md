@@ -25,8 +25,8 @@ Puoi trovare [THUN ® - Set 2 piattini in Porcellana - Linea Teddy goloso - Ø 1
 
 ℹ️:
 
-- DIMENSIONI -Ø 19,6 cm; h 2 cm
 - CURA DEL PRODOTTO -idoneo a microonde e lavastoviglie; non utilizzare spugne abrasive
+- DIMENSIONI -Ø 19,6 cm; h 2 cm
 - MATERIALI -porcellana
 
 [Acquista qui!!](https://www.amazon.it/dp/B088ZWM48H/?tag=tolees00-21)
