@@ -25,8 +25,8 @@ Puoi trovare [Esi Propolgola Spray Con Miele Di Mannuka Integratore Alimentare -
 
 ℹ️:
 
-- Contribuisce al benessere della gola e del cavo orale
-- Integratore senza alcol a base di propolis, erisimo e miele di manuka
 - Utile al manifestarsi dei primi sintomi di disturbi invernali
+- Integratore senza alcol a base di propolis, erisimo e miele di manuka
+- Contribuisce al benessere della gola e del cavo orale
 
 [Acquista qui!!](https://www.amazon.it/dp/B01B96JFYA/?tag=tolees00-21)

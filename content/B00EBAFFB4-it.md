@@ -25,8 +25,8 @@ Puoi trovare [Protect Home 435826 Baythion Esca per Formiche  200 gr](https://ww
 
 ℹ️:
 
+- Metodo di applicazione: Spargere il prodotto tra le crepe e in prossimità del formicaio
 - Elimina le formiche fuori e dentro il nido, Granulo zuccherino ad azione adescante, Indicato per le formiche del giardino
 - Principio attivo: Imidacloprid 0,05 g
-- Metodo di applicazione: Spargere il prodotto tra le crepe e in prossimità del formicaio
 
 [Acquista qui!!](https://www.amazon.it/dp/B00EBAFFB4/?tag=tolees00-21)

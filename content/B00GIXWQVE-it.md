@@ -25,10 +25,10 @@ Puoi trovare [Renato Balestra  Diamante Nero Homme Eau De Parfum  Profumo Spray 
 
 ℹ️:
 
-- RENATO BALESTRA: leleganza e il lusso che contraddistinguono le collezioni della maison rivivono nella preziosa fragranza maschile
-- FLACONE: Il flacone riprende il concept della fragranza, con una sfumatura nera e un diamante bianco che spicca prezioso nel mezzo.
 - NOTE OLFATTIVE: le note di testa sono Bergamotto, Pompelmo, Mela Rossa, Menta, di cuore sono Fiore dArancio, Noce Moscata, Cardamomo, Cannella. Quelle di base sono Muschio, Cedro, Ambra, Vaniglia
+- RENATO BALESTRA: leleganza e il lusso che contraddistinguono le collezioni della maison rivivono nella preziosa fragranza maschile
 - ELEGANTE: La nuova fragranza firmata Balestra è elegante e sofisticata, dedicata ad un uomo dai gusti raffinati e sempre alla ricerca di dettagli distintivi che manifestino il suo stile personale
 - DIAMANTE NERO HOMME: leleganza e la raffinatezza che contraddistinguono le collezioni di Renato Balestra rivivono nella nuova preziosa fragranza maschile
+- FLACONE: Il flacone riprende il concept della fragranza, con una sfumatura nera e un diamante bianco che spicca prezioso nel mezzo.
 
 [Acquista qui!!](https://www.amazon.it/dp/B00GIXWQVE/?tag=tolees00-21)
