@@ -25,8 +25,8 @@ Puoi trovare [BTicino S503SA/1F Supporto per placca  Trasparente](https://www.am
 
 ℹ️:
 
-- 3 moduli
-- Certificazione IMQ, Aneor
 - In resina
+- Certificazione IMQ, Aneor
+- 3 moduli
 
 [Acquista qui!!](https://www.amazon.it/dp/B01M0ZYDAD/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Puoi trovare [Arexons 3432 Speciale Metalli Fondo Riempitivo  400 ml](https://ww
 
 ℹ️:
 
-- Alta Qualità Made in Italy - L’intero prodotto è realizzato in Italia e per ognuna delle sue funzioni garantisce performance eccellenti e qualità professionale.
-- Non cola - Tasto erogatore studiato per limitare colature e ottenere uniformità nella rosa di spruzzo.
 - Fondo Riempitivo - Il nostro speciale prodotto é un fondo riempitivo studiato appositamente per riempire piccoli graffi e imperfezioni.
-- Sicurezza - Valvola autopulente, cappuccio di sicurezza “child proof"
+- Alta Qualità Made in Italy - L’intero prodotto è realizzato in Italia e per ognuna delle sue funzioni garantisce performance eccellenti e qualità professionale.
 - Sovraverniciabile - Il nostro prodotto si puo sovra verniciare solo dopo essiccazione.
+- Non cola - Tasto erogatore studiato per limitare colature e ottenere uniformità nella rosa di spruzzo.
+- Sicurezza - Valvola autopulente, cappuccio di sicurezza “child proof"
 
 [Acquista qui!!](https://www.amazon.it/dp/B00GTVH32M/?tag=tolees00-21)

@@ -26,7 +26,7 @@ Puoi trovare [New Balance 574v2-Core  Sneaker Uomo  Sintetico  Blu  Black Iris B
 ℹ️:
 
 - Chiusura: brevemente
-- Materiale esterno: pelle.
 - Fodera: maglia
+- Materiale esterno: pelle.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07N376JKW/?tag=tolees00-21)

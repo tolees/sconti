@@ -26,8 +26,8 @@ average: '3.29'
 ℹ️:
 
 - Ideale per chi viaggia in Europa e paesi con prese CEE 7/7
+- Corrente massima 16 Ampere
 - Adattatore con spina tedesca/francese/belga e presa bipasso
 - Grande robustezza
-- Corrente massima 16 Ampere
 
 [Acquista qui!!](https://www.amazon.it/dp/B00WM541MO/?tag=tolees00-21)

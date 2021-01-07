@@ -25,9 +25,9 @@ Puoi trovare [Bigben Bee Simulator Videogioco XBOX ONE](https://www.amazon.it/dp
 
 ℹ️:
 
-- Modalità libera
 - Simulazione vita api in co-op
-- Modo semi aperto
 - Videogioco educativo
+- Modalità libera
+- Modo semi aperto
 
 [Acquista qui!!](https://www.amazon.it/dp/B07Q6LB4NF/?tag=tolees00-21)
