@@ -25,11 +25,11 @@ average: '115.89'
 
 ℹ️:
 
-- Internet ad alta velocità grazie al modem LTE 4G e 3G UMTS integrato, per reti 4G / 3G, mini SIM
-- Modem LTE multibanda, il router si collega automaticamente a qualsiasi rete mobile disponibile
 - Router WiFi N 450 MBps (2,4 GHz, 3 x 3 MIMO), 1 x LAN Gigabit per collegare computer e console di gioco, controllo genitori configurabile, interfaccia utente in Italiano
-- Al fine di perfezionare linteroperabilità con alcuni operatori (es. Vodafone) è possibile scaricare una beta sul sito ufficiale di AVM nella sezione fritz lab
 - Internet attraverso rete 4G (LTE) e 3G (UMTS / HSPA +)
+- Modem LTE multibanda, il router si collega automaticamente a qualsiasi rete mobile disponibile
 - Contenuto della confezione: FRITZ! Box 6820 LTE, cavo LAN da 1,5 m, alimentatore, guida allinstallazione rapida in italiano
+- Al fine di perfezionare linteroperabilità con alcuni operatori (es. Vodafone) è possibile scaricare una beta sul sito ufficiale di AVM nella sezione fritz lab
+- Internet ad alta velocità grazie al modem LTE 4G e 3G UMTS integrato, per reti 4G / 3G, mini SIM
 
 [Acquista qui!!](https://www.amazon.it/dp/B07NS2VF1N/?tag=tolees00-21)
