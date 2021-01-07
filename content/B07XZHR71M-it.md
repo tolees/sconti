@@ -25,9 +25,9 @@ average: '15.558823529411764'
 
 ℹ️:
 
-- Bottiglia: 24 x 33 cl
 - Gradazione alcolica: 4,7% vol.
-- Abbinamento: Pizza, pasta, piatti tipici della tradizione italiana
+- Bottiglia: 24 x 33 cl
 - Gusto: Moderatamente amaro, equilibrato di luppolo e malto
+- Abbinamento: Pizza, pasta, piatti tipici della tradizione italiana
 
 [Acquista qui!!](https://www.amazon.it/dp/B07XZHR71M/?tag=tolees00-21)

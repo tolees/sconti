@@ -25,7 +25,7 @@ average: '14.99'
 
 ℹ️:
 
-- Miscela caffè Cremoso
 - Compatibile Nespresso 
+- Miscela caffè Cremoso
 
 [Acquista qui!!](https://www.amazon.it/dp/B07DDL1DXZ/?tag=tolees00-21)

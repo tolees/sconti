@@ -25,9 +25,9 @@ Puoi trovare [Pan di Stelle Trancini Crema al Latte Ideali per la Merenda  8 Mer
 
 ℹ️:
 
-- PER LA MERENDA - Ideali per la tua merenda: un trancino Pan di Stelle e un bicchiere di succo darancia. Gusto e golosità per un totale di calorie pari al 9% del tuo fabbisogno energetico giornaliero
 - TRANCINO PAN DI STELLE - Una merenda golosa per ogni momento della giornata fatta di pan cacao e crema al latte. I trancini sono monoporzione e sono la perfetta merenda soffice e golosa
 - INGREDIENTI - Pan di spagna al cacao con crema al latte scremato, zucchero, uova fresche, cioccolato. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
+- PER LA MERENDA - Ideali per la tua merenda: un trancino Pan di Stelle e un bicchiere di succo darancia. Gusto e golosità per un totale di calorie pari al 9% del tuo fabbisogno energetico giornaliero
 - PAN DI STELLE - Pan di Stelle è sinonimo di qualità. Biscotti, Merende, Creme e Torte per accompagnarti in ogni momento della giornata
 - MERENDINE E TORTE - Ricette per tutti da gustare al mattino, per merenda o a cena. Biscotti, merendine, torte e creme spalmabili di Pan di Stelle che conquisteranno i grandi e i bambini
 

@@ -26,11 +26,11 @@ average: '158.74'
 ℹ️:
 
 - Capacità serbatoio 1.8 l
-- Funzione MyEssence per rinfrescare i capi con le tue fragranze preferite
-- Cinque impostazioni di vapore per risultati ottimali su diversi tessuti
-- Sistema anticalcare
 - Vapore continuo 40 g/min
 - Tecnologia FlexHead brevettata
+- Funzione MyEssence per rinfrescare i capi con le tue fragranze preferite
 - Supporto StyleBoard extra lungo incluso
+- Sistema anticalcare
+- Cinque impostazioni di vapore per risultati ottimali su diversi tessuti
 
 [Acquista qui!!](https://www.amazon.it/dp/B079RPG93H/?tag=tolees00-21)
