@@ -25,10 +25,10 @@ Puoi trovare [LEGO Ninjago - Gioco per Bambini Slam Spinjitzu Kai vs. Samurai  M
 
 ℹ️:
 
+- Include 2 minifigure, Kai FS, con elemento cappuccio potenziato e il Samurai Blizzard
 - I bambini potranno creare le loro sfide di Slam Spinjitzu e combattere contro i loro amici
-- Questo set di gioco Lego è un ottimo regalo di compleanno o per le feste per tutti i fan di Ninjago
 - Include 2 lanciatori in mattoncini e gli Spinner Tornado di Kai FS e del Samurai Blizzard
 - Ricrea leffetto tornado dei ninja dello show televisivo Ninjago
-- Include 2 minifigure, Kai FS, con elemento cappuccio potenziato e il Samurai Blizzard
+- Questo set di gioco Lego è un ottimo regalo di compleanno o per le feste per tutti i fan di Ninjago
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KTWKFC4/?tag=tolees00-21)
