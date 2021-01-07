@@ -25,9 +25,9 @@ average: '8.45'
 
 ℹ️:
 
-- Facile da usare, qualità ottimale
-- Modello MUL0100009/2
 - Un prodotto originale da Pfizer Italia S.r.l.
 - Multicolore
+- Facile da usare, qualità ottimale
+- Modello MUL0100009/2
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MXY9CKQ/?tag=tolees00-21)
