@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Protect Home 435826 Baythion Esca per Fo al 47.09 % de descuento'
-date: 2020-11-13 17:40:52
+title: 'Protect Home 435826 Baythion Esca per Fo al 47.09 % di sconto'
+date: 2021-01-07 17:30:33
 image: 'https://m.media-amazon.com/images/I/41n6HKXVwUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,17 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00EBAFFB4/?tag=tolees00-21'
 descuento: '47.09'
+average: '7.984'
 ---
 
-Está [Protect Home 435826 Baythion Esca per Formiche  200 gr](https://www.amazon.it/dp/B00EBAFFB4/?tag=tolees00-21) con 47.09 de descuento por 6.0 EUR (original: 11.34 EUR) en el siguiente enlace!
+Puoi trovare [Protect Home 435826 Baythion Esca per Formiche  200 gr](https://www.amazon.it/dp/B00EBAFFB4/?tag=tolees00-21) con il prezzo 6.0 EUR (originale: 11.34 EUR) 47.09 % sconto qui:
 
 [![Protect Home 435826 Baythion Esca per Fo](https://m.media-amazon.com/images/I/41n6HKXVwUL._SL200_.jpg)](https://www.amazon.it/dp/B00EBAFFB4/?tag=tolees00-21)
 
 ℹ️:
 
+- Metodo di applicazione: Spargere il prodotto tra le crepe e in prossimità del formicaio
+- Elimina le formiche fuori e dentro il nido, Granulo zuccherino ad azione adescante, Indicato per le formiche del giardino
+- Principio attivo: Imidacloprid 0,05 g
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00EBAFFB4/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B00EBAFFB4/?tag=tolees00-21)

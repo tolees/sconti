@@ -25,14 +25,14 @@ average: '59.95'
 
 ℹ️:
 
-- Tipo di tacco: piatto
-- Fodera: sintetico
-- Non impermeabile
+- Larghezza scarpa: sottile
 - Tipo di vestibilità: considerate che le scarpe Geox hanno una vestibilità comoda, quindi si consiglia di scegliere una mezza taglia
-- Materiale esterno: pelle liscia
+- Fodera: sintetico
+- Tipo di tacco: piatto
+- Tipo di tessuto: Smo.Lea
+- Non impermeabile
 - Chiusura: lacci
 - Materiale della suola: sintetico
-- Tipo di tessuto: Smo.Lea
-- Larghezza scarpa: sottile
+- Materiale esterno: pelle liscia
 
 [Acquista qui!!](https://www.amazon.it/dp/B0825SKZGK/?tag=tolees00-21)
