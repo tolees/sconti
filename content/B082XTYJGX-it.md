@@ -25,7 +25,7 @@ Puoi trovare [United Colors of Benetton 1002U6653 Maglione Cardigan  Nero 100  S
 
 ℹ️:
 
-- Cardigan scollo v bottoni basico 100% lana
 - 100%lana vergine
+- Cardigan scollo v bottoni basico 100% lana
 
 [Acquista qui!!](https://www.amazon.it/dp/B082XTYJGX/?tag=tolees00-21)

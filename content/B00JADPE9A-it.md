@@ -25,10 +25,10 @@ average: '9.9'
 
 ℹ️:
 
-- Presente nel panorama della profumeria maschile dal 1984, il marchio ha saputo rimettersi in gioco creando un mix perfetto tra tradizione e modernità, per un uomo dinamico e sportivo
 - Questa moderna fragranza maschile dallanimo fougère è caratterizzata dal contrasto tra le fresche note di testa e le calde e sensuali note di fondo
-- Nella base, preziose note boise, con patchouli e vetiver, arricchite con la sensuale freschezza della salvia
+- Presente nel panorama della profumeria maschile dal 1984, il marchio ha saputo rimettersi in gioco creando un mix perfetto tra tradizione e modernità, per un uomo dinamico e sportivo
 - La fragranza si apre con le note citrus frizzanti enfatizzate dal tocco della menta piperita; nel cuore possiamo trovare note fiorite-speziate con lavandina, geranio, noce moscata e tracce di timo
+- Nella base, preziose note boise, con patchouli e vetiver, arricchite con la sensuale freschezza della salvia
 - I caratteri distintivi di questo marchio storico rivivono nella nuova travolgente fragranza Rockford Homme Sport
 
 [Acquista qui!!](https://www.amazon.it/dp/B00JADPE9A/?tag=tolees00-21)

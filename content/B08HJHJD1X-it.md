@@ -25,10 +25,10 @@ average: '499.0'
 
 ℹ️:
 
-- Sistema surround frontale composto da altoparlante Soundbar e cassa subwoofer wireless SUB 100 che consente lascolto di video riprodotti dalla TV, offrendo un suono 3D di alta qualità grazie al DTS Virtual:X
+- MusicCast Surround: aggiungi 2 MusicCast 20 oppure 1 o 2 MusicCast 50 come diffusori surround senza fili e dì addio ai cavi in giro per la stanza
 - Ecosistema MusicCast per riprodurre musica in rete e godere di un suono multiroom in combinazione con altri dispositivi Yamaha / Modalità Clear Voice per voci e dialoghi più facili da comprendere
 - Controlla la tua MusicCast BAR 40 SW via app MusicCast Controller oppure con i comandi vocali Alexa tramite un dispositivo Amazon Echo
 - Grazie al supporto dei TV 4K Ultra HD di ultima generazione, offre ampie opzioni di connessione, tra cui Bluetooth, Airplay e HDMI pass-through, oltre ai servizi musicali in streaming integrati
-- MusicCast Surround: aggiungi 2 MusicCast 20 oppure 1 o 2 MusicCast 50 come diffusori surround senza fili e dì addio ai cavi in giro per la stanza
+- Sistema surround frontale composto da altoparlante Soundbar e cassa subwoofer wireless SUB 100 che consente lascolto di video riprodotti dalla TV, offrendo un suono 3D di alta qualità grazie al DTS Virtual:X
 
 [Acquista qui!!](https://www.amazon.it/dp/B08HJHJD1X/?tag=tolees00-21)

@@ -1,32 +1,32 @@
 ---
 layout: post
-title: 'Fila Disruptor Wmn  Scarpe da Ginnastica al 32.59 % di sconto'
-date: 2021-01-03 23:46:42
+title: 'Fila Disruptor  Scarpe da Ginnastica Bas al 36.90 % di sconto'
+date: 2021-01-08 13:44:45
 image: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B078WQ6L8F-it'
-actualPrice: 67.38 EUR
+actualPrice: 63.07 EUR
 currency: EUR
-price: 67.38
+price: 63.07
 comparePrice: 99.95 EUR
-prodname: 'Fila Disruptor Wmn  Scarpe da Ginnastica Basse Donna  Bianco  38 EU'
+prodname: 'Fila Disruptor  Scarpe da Ginnastica Basse Donna  Bianco  38 EU'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078WQ6L8F/?tag=tolees00-21'
-descuento: '32.59'
-average: '67.89'
+descuento: '36.90'
+average: '66.685'
 ---
 
-Puoi trovare [Fila Disruptor Wmn  Scarpe da Ginnastica Basse Donna  Bianco  38 EU](https://www.amazon.it/dp/B078WQ6L8F/?tag=tolees00-21) con il prezzo 67.38 EUR (originale: 99.95 EUR) 32.59 % sconto qui:
+Puoi trovare [Fila Disruptor  Scarpe da Ginnastica Basse Donna  Bianco  38 EU](https://www.amazon.it/dp/B078WQ6L8F/?tag=tolees00-21) con il prezzo 63.07 EUR (originale: 99.95 EUR) 36.90 % sconto qui:
 
-[![Fila Disruptor Wmn  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg)](https://www.amazon.it/dp/B078WQ6L8F/?tag=tolees00-21)
+[![Fila Disruptor  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg)](https://www.amazon.it/dp/B078WQ6L8F/?tag=tolees00-21)
 
 ℹ️:
 
-- Calzata piccola
 - FILA 1010302 DONNA
+- Calzata piccola
 - Distruptor low donna
 
 [Acquista qui!!](https://www.amazon.it/dp/B078WQ6L8F/?tag=tolees00-21)
