@@ -25,8 +25,8 @@ Puoi trovare [Pentel P207-C - Sharp Matita da disegno meccanica 0 7 mm  Fusto Bl
 
 ℹ️:
 
+- Brand : PENTEL
 - Made in United Kingdom
 - Pentel automatic pencil
-- Brand : PENTEL
 
 [Acquista qui!!](https://www.amazon.it/dp/B004PTORHO/?tag=tolees00-21)

@@ -25,10 +25,10 @@ average: '26.336'
 
 ℹ️:
 
-- It has printed the trefoil logo on right chest
 - The cuffs and hem have a ribbed construction for a snug fit
-- Contrasting piping on the sleeves
+- It has printed the trefoil logo on right chest
 - Draw cord-adjustable hood
+- Contrasting piping on the sleeves
 - With Kangaroo pocket
 
 [Acquista qui!!](https://www.amazon.it/dp/B076HQ6P5F/?tag=tolees00-21)

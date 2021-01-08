@@ -28,7 +28,7 @@ Puoi trovare [Grandi Giochi- Cattura Le Stelle  Multicolore  GG01314](https://ww
 - 4 functions: game, lamp, music only, music with lights
 - Magic wand with lights and sounds
 - Night lamp
-- Magic fairies
 - 10 color levels
+- Magic fairies
 
 [Acquista qui!!](https://www.amazon.it/dp/B07DD75RM8/?tag=tolees00-21)

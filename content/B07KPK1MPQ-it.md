@@ -25,10 +25,10 @@ average: '15.023636363636363'
 
 ℹ️:
 
-- Uniconica statuina funko pop! vinile della disney serie toy story, buzz lightyear
 - Buzz lightyear
-- Pop! vinile
-- Pop! vinile
 - Disney toy story
+- Pop! vinile
+- Pop! vinile
+- Uniconica statuina funko pop! vinile della disney serie toy story, buzz lightyear
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KPK1MPQ/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Puoi trovare [Barilla Sugo Pesto alla Genovese senza Aglio con Basilico Fresco I
 
 ℹ️:
 
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- CARATTERISTICHE - Pesto della gamma Barilla senza conservanti aggiunti e gluten free, qui in versione delicata senza aglio
 - INGREDIENTI - Basilico italiano, Olio Extravergine di Oliva, Parmigiano Reggiano DOP, tutti ingredienti di alta qualità senza conservanti aggiunti e glutine
 - IDEALI CON - Le Bavette ed è pronto da versare direttamente sulla pasta appena scolata. Per far scoprire alla tua pasta la pienezza dei sapori dellItalia
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - PESTO BARILLA - Tutti i Pesti Barilla sono preparati con basilico italiano fresco unito al sapore dei formaggi italiani per ricette profumate e gustose. Scopri la pienezza dei sapori dItalia
-- CARATTERISTICHE - Pesto della gamma Barilla senza conservanti aggiunti e gluten free, qui in versione delicata senza aglio
 
 [Acquista qui!!](https://www.amazon.it/dp/B00XUGZRL8/?tag=tolees00-21)

@@ -25,9 +25,9 @@ average: '88.8943076923077'
 
 ℹ️:
 
-- The chandelier is removable.
-- The staircase can be converted into a slide.
 - Model number: 70361
 - With secret door
+- The staircase can be converted into a slide.
+- The chandelier is removable.
 
 [Acquista qui!!](https://www.amazon.it/dp/B081HQ3JBF/?tag=tolees00-21)

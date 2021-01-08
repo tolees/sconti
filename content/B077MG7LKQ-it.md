@@ -25,8 +25,8 @@ average: '37.95'
 
 ℹ️:
 
-- Fodera: maglia
 - Pelle
+- Fodera: maglia
 - Materiale suola: gomma
 - Materiale esterno: pelle
 

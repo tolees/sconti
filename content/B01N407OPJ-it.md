@@ -25,8 +25,8 @@ average: '39.06607142857143'
 
 ℹ️:
 
-- Sneakers for man and woman
 - Diadora returns to its origins, revisiting the classic, iconic models to create a new line, inspired by tennis sportswear of the past. This low-cut court model boasts a clean line, with perforated details and a contrasting or tone on tone decoration. Also suitable for use off the court, for a timeless sports-inspired look.
+- Sneakers for man and woman
 - Diadora Sportwear: street style and sportwear join the quality and authenticity of the Brand. Diadora is a global leader in the sportwear, lifestyle and Safety categories. Well researched styles and technological innovation are the keywords of the Brands success.
 
 [Acquista qui!!](https://www.amazon.it/dp/B01N407OPJ/?tag=tolees00-21)
