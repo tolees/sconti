@@ -25,10 +25,10 @@ Puoi trovare [Pentel Pen N50 Marcatore Permanente Punta Conica Nero 12 Pezzi](ht
 
 ℹ️:
 
+- Robust aluminium barrel
 - Bonded fibre tips retain their shape
 - Will write on almost any surface including cardboard, plastic, metal, wood and glass
-- One of the UKs favouriet permanent markers
-- Robust aluminium barrel
 - Vivid waterproof ink
+- One of the UKs favouriet permanent markers
 
 [Acquista qui!!](https://www.amazon.it/dp/B000SHUMNU/?tag=tolees00-21)

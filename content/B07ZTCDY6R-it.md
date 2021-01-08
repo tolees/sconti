@@ -25,10 +25,10 @@ Puoi trovare [Diswoe Controller Wireless per Nintendo Switch Switch PRO Controll
 
 ℹ️:
 
-- 【 Il Gioco è Meglio Insieme】supporta fino a Quattro controller Pro wireless per Switch possono essere collegati a una console Switch contemporaneamente. Connessione Bluetooth V3.0 stabile con la console. Offriamo una garanzia limitata di un anno senza preoccupazioni e un servizio clienti cordiale. Primo collegamento: premere "Home" "Y" o "Home".
-- 【Ampia Compatibilità】 Controller wireless DISWOE per console di commutazione Nintendo. Questo controller Switch Pro è compatibile con i giochi Nintendo Switch come Breath of Nature, Splatoon 2, Mario Kart Deluxe, Super Mario Odyssey, ecc. (Misura per Nintendo Switch ultima versione 9.1.0/switch lite, Android) NOTA: i prodotti di terze parti non sono fabbricati da Nintendo.
 - 【Esperienza Di Gioco Perfetta】 Gyro Axis, Pulsanti ad alta sensibilità, supporto vibrazione a doppio motore offre unesperienza di gioco estrema. Super fit Zelda, Mario Odyssey, Smash Bros., Star Allies, ecc.
-- 【BATTERIA RICARICABILE】 This perfected controller has a high-performance lithium battery with automatic sleep, Charging prompt and low voltage warning. Il tempo di riproduzione può richiedere fino a 8-10 ore, il tempo di ricarica totale è di 2-3 ore. 30 giorni in standby!
 - 【Connessione Bluetooth wireless】 Il controller switch Diswoe può essere facilmente collegato alla console switch a una distanza massima di 10 metri. Gioca sempre e ovunque con il Nintendo Switch Pro Controller.NOTA: se non è possibile accoppiare o caricare, reimpostare il controller colpendo due volte il foro di ripristino sul retro del controller con una graffetta prima
+- 【 Il Gioco è Meglio Insieme】supporta fino a Quattro controller Pro wireless per Switch possono essere collegati a una console Switch contemporaneamente. Connessione Bluetooth V3.0 stabile con la console. Offriamo una garanzia limitata di un anno senza preoccupazioni e un servizio clienti cordiale. Primo collegamento: premere "Home" "Y" o "Home".
+- 【BATTERIA RICARICABILE】 This perfected controller has a high-performance lithium battery with automatic sleep, Charging prompt and low voltage warning. Il tempo di riproduzione può richiedere fino a 8-10 ore, il tempo di ricarica totale è di 2-3 ore. 30 giorni in standby!
+- 【Ampia Compatibilità】 Controller wireless DISWOE per console di commutazione Nintendo. Questo controller Switch Pro è compatibile con i giochi Nintendo Switch come Breath of Nature, Splatoon 2, Mario Kart Deluxe, Super Mario Odyssey, ecc. (Misura per Nintendo Switch ultima versione 9.1.0/switch lite, Android) NOTA: i prodotti di terze parti non sono fabbricati da Nintendo.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07ZTCDY6R/?tag=tolees00-21)

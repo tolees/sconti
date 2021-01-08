@@ -25,10 +25,10 @@ average: '49.99'
 
 ℹ️:
 
-- Incredible Sound Powered By Graphene Drivers: Delivers music with a wider soundstage and exceptional accuracy and clarity. BassUp technology enhances bass by up to 43% and aptX audio offers lossless transmission between your device and the wireless earbuds.
+- One-Step Pairing: Our proprietary PUSH AND GO technology streamlines the setup process so when you remove the wireless earbuds from the charging case, theyâ€ll automatically connect to the last paired device.
+- 40-Hour Playtime with Fast Charge: A single charge gives you a full 7 hours of listening, while the charging case extends that to 40 hours. When youâ€re in a rush and need power fast, simply charge for 10 minutes and get up to 1 hour of playtime.
 - IPX7 Waterproof: Life P2 wireless earbuds boast IPX7-rated protection that defends against liquids in any weather conditions.
 - Perfect for Home Offices: Each earbud has two microphones with beamforming noise reduction and cVc 8.0 technology for superior vocal enhancement and background-noise suppression.
-- 40-Hour Playtime with Fast Charge: A single charge gives you a full 7 hours of listening, while the charging case extends that to 40 hours. When youâ€re in a rush and need power fast, simply charge for 10 minutes and get up to 1 hour of playtime.
-- One-Step Pairing: Our proprietary PUSH AND GO technology streamlines the setup process so when you remove the wireless earbuds from the charging case, theyâ€ll automatically connect to the last paired device.
+- Incredible Sound Powered By Graphene Drivers: Delivers music with a wider soundstage and exceptional accuracy and clarity. BassUp technology enhances bass by up to 43% and aptX audio offers lossless transmission between your device and the wireless earbuds.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07SJR6HL3/?tag=tolees00-21)
