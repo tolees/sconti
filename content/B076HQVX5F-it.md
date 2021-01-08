@@ -26,8 +26,8 @@ average: '21.98'
 ℹ️:
 
 - Zip integrale e collo alla coreana
-- Tasche anteriori
-- Maniche raglan
 - Polsini e orlo a coste
+- Maniche raglan
+- Tasche anteriori
 
 [Acquista qui!!](https://www.amazon.it/dp/B076HQVX5F/?tag=tolees00-21)
