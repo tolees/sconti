@@ -26,8 +26,8 @@ average: '137.0'
 ℹ️:
 
 - Snapdragon 665 con Game Boost 2.0
-- Batteria capiente da 5000mAh con ricarica inversa
 - Quad Camera Ultra Wide 12MP + 8MP + 2MP +2MP
+- Batteria capiente da 5000mAh con ricarica inversa
 - Nuovo schermo Waterdrop Sunlight da 6.5"
 - Dolby Atmos e doppio altoparlante
 

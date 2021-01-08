@@ -25,10 +25,10 @@ Puoi trovare [Ferrero Prestige  confezione da 21 pezzi  246g](https://www.amazon
 
 ℹ️:
 
-- LO SAPEVI CHE - In estate non trovate le Specialità Ferrero perché noi le ritiriamo dai punti di vendita. Il caldo, nemico del cioccolato, potrebbe danneggiare la qualità dei nostri prodotti.
-- Contiene Mon Chéri, Ferrero Rocher e Pocket Coffee
-- FERRERO PRESTIGE - Un’offerta ricca delle più amate specialità: Ferrero Rocher, Mon Chéri e Pocket Coffee.
 - FERRERO PRESTIGE - Rappresenta lassortimento Ferrero ideale da regalare in ogni occasione: dalla più elegante e formale alla più confidenziale e informale.
+- Contiene Mon Chéri, Ferrero Rocher e Pocket Coffee
+- LO SAPEVI CHE - In estate non trovate le Specialità Ferrero perché noi le ritiriamo dai punti di vendita. Il caldo, nemico del cioccolato, potrebbe danneggiare la qualità dei nostri prodotti.
+- FERRERO PRESTIGE - Un’offerta ricca delle più amate specialità: Ferrero Rocher, Mon Chéri e Pocket Coffee.
 - FORMATO - Una confezione elegante, pratica e ideale per un regalo raffinato: permette di conservare il prodotto per gustarlo al meglio. Perfetta da regalare e da essere condivisa con chi ami
 
 [Acquista qui!!](https://www.amazon.it/dp/B005Z6BEE0/?tag=tolees00-21)
