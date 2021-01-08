@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 34.16 % su Adidas Core 18 HDE  Felpa con Cappuccio   '
-date: 2021-01-03 18:02:42
+date: 2021-01-08 07:35:21
 image: 'https://m.media-amazon.com/images/I/51xLpVqJoPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,10 @@ average: '26.336'
 
 ℹ️:
 
-- Adidas apparel
-- Core18 hoody
-- Dark grey heather/black
+- It has printed the trefoil logo on right chest
+- The cuffs and hem have a ribbed construction for a snug fit
+- Contrasting piping on the sleeves
+- Draw cord-adjustable hood
+- With Kangaroo pocket
 
 [Acquista qui!!](https://www.amazon.it/dp/B076HQ6P5F/?tag=tolees00-21)

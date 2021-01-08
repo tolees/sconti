@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel P207-C - Sharp Matita da disegno  al 19.16 % di sconto'
-date: 2021-01-03 23:41:16
+date: 2021-01-08 07:52:19
 image: 'https://m.media-amazon.com/images/I/41hXeNAIsKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,8 @@ Puoi trovare [Pentel P207-C - Sharp Matita da disegno meccanica 0 7 mm  Fusto Bl
 
 ℹ️:
 
-- Larghezza della linea costante - perfetto per precisione e accuratezza.
-- Clip removibile
-- Preciso meccanismo di avanzamento della mina
-- Gommino di servizio
-- Sapientemente progettato - ideale per il disegno, la redazione o la scrittura
+- Made in United Kingdom
+- Pentel automatic pencil
+- Brand : PENTEL
 
 [Acquista qui!!](https://www.amazon.it/dp/B004PTORHO/?tag=tolees00-21)

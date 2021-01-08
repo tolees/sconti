@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'sconto del 40.19 % su Playmobil City Life 70336 - Pizzeria con  '
-date: 2021-01-03 18:03:58
+title: 'sconto del 30.21 % su Playmobil City Life 70336 - Pizzeria con  '
+date: 2021-01-08 07:52:08
 image: 'https://m.media-amazon.com/images/I/51XTdoLAYZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTX7VGR-it'
-actualPrice: 29.9 EUR
+actualPrice: 34.89 EUR
 currency: EUR
-price: 29.9
+price: 34.89
 comparePrice: 49.99 EUR
 prodname: 'Playmobil City Life 70336 - Pizzeria con Tavoli all Aperto con Effetti Luminosi  dai 4 anni'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZTX7VGR/?tag=tolees00-21'
-descuento: '40.19'
-average: '33.44'
+descuento: '30.21'
+average: '33.59263157894737'
 ---
 
-[Playmobil City Life 70336 - Pizzeria con Tavoli all Aperto con Effetti Luminosi  dai 4 anni](https://www.amazon.it/dp/B07ZTX7VGR/?tag=tolees00-21) ha un prezzo di 29.9 EUR (originale: 49.99 EUR) con uno sconto del 40.19 % sconto qui:
+[Playmobil City Life 70336 - Pizzeria con Tavoli all Aperto con Effetti Luminosi  dai 4 anni](https://www.amazon.it/dp/B07ZTX7VGR/?tag=tolees00-21) ha un prezzo di 34.89 EUR (originale: 49.99 EUR) con uno sconto del 30.21 % sconto qui:
 
 [![Playmobil City Life 70336 - Pizzeria con](https://m.media-amazon.com/images/I/51XTdoLAYZL._SL200_.jpg)](https://www.amazon.it/dp/B07ZTX7VGR/?tag=tolees00-21)
 
 ℹ️:
 
-- Daily play: instructions for assembly together with parents, high-quality and robust design, cleaning the parts (without stickers) under running water without chemicals
-- Fun with Italian: Playmobil pizzeria with illuminated garden restaurant, pizza baker, waiter, 2 guests and much more. For detailed reenactment
-- Toy set for children aged 4 and up: ideal for childrens hands due to age-appropriate size and pleasant feel with rounded edges
-- Outdoor space for 4 people, cosy pizzeria and authentic accessories to enjoy, working fairy lights and stone oven
-- Box contents: 1x Playmobil City Life pizzeria with garden restaurant, 167-piece toy set with instructions: 1 pizzeria, 3 figures, 163 accessories (supplied without 3 x 1.5 V micro batteries), material: plastic, L x W x H: 25 x 19.5 x 15.5 cm, 70336
+- Per il montaggio consultare il manuale distruzioni allinterno della confezione; è possibile effettuare una pulizia dei pezzi avendo cura di utilizzare acqua e senza luso di prodotti chimici
+- Contiene personaggi Playmobil adatti ai bambini a partire da 4 anni: ottimi per le loro mani grazie alle dimensioni adeguate alletà, alla superficie piacevole al tatto e con bordi arrotondati
+- Contenuto: 1x Playmobil City Life pizzeria con tavoli allaperto, Play set da 167 pezzi con istruzioni: 1 pizzeria, 3 personaggi, 163 accessori (3 micro batterie da 1.5V, non incluse), materiale: plastica
+- Posti a sedere allaperto per quattro personaggi, pizzeria accogliente e accessori autentici, filo di luci funzionanti e forno a legna in muratura
+- Divertimento allitaliana: pizzeria Playmobil con tavoli allaperto, illuminazione, forno a legna, cameriera, 2 clienti e molto altro per un gioco realistico
 
 [Acquista qui!!](https://www.amazon.it/dp/B07ZTX7VGR/?tag=tolees00-21)

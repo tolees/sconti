@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.01 % su WD BLACK SN750 NVMe SSD Interno per Gami  '
-date: 2021-01-03 18:16:24
+date: 2021-01-08 07:45:53
 image: 'https://m.media-amazon.com/images/I/31HgXnfXrDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,9 @@ average: '80.45117647058824'
 
 ℹ️:
 
-- Prestazioni di lettura sequenziali: 3430MB/s
-- Design lineare per personalizzare i dispositivi di gioco
-- Prestazioni di scrittura sequenziali: 2600MB/s
-- Disponibile con capacità comprese fra 250 GB e 1 TB
-- Il dashboard della SSD WD Black ottimizza le prestazioni di gioco
-- Velocità di trasferimento fino a 3.470 MB/sec per tempi di caricamento più rapidi
+- A sleek design to customize your gaming rig
+- An exclusive WD black SSD dashboard improves game performance
+- Available in capacities ranging from 250 GB to 1 TB
+- Transfer speeds up to 3470 MB/s for improved load times
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MH2P5ZD/?tag=tolees00-21)
