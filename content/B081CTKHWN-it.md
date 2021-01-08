@@ -25,8 +25,8 @@ average: '18.45'
 
 ℹ️:
 
-- Dimensioni - h 5x3,7x3,2 cm
 - Cura del prodotto - pulire esclusivamente con un panno morbido asciutto; evita il contatto con liquidi o prodotti aggressivi: ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
 - Materiali - ceramica; spirale in metallo
+- Dimensioni - h 5x3,7x3,2 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B081CTKHWN/?tag=tolees00-21)

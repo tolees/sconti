@@ -25,7 +25,7 @@ average: '35.49'
 
 ℹ️:
 
-- Desigual; Accessories; Back; Across Body Bag; Giallo
 - Giallo
+- Desigual; Accessories; Back; Across Body Bag; Giallo
 
 [Acquista qui!!](https://www.amazon.it/dp/B083YHN3JW/?tag=tolees00-21)
