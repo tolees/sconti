@@ -25,8 +25,8 @@ Puoi trovare [Under Armour UA Roland Backpack  Borsa Unisex  Nero  OSFA](https:/
 
 ℹ️:
 
-- 100% Polyester.
-- Capacità: 17 litri.
 - Dimensioni: 48 cm L x 30 cm L x 14 cm A.
+- Capacità: 17 litri.
+- 100% Polyester.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07JK6SFPG/?tag=tolees00-21)

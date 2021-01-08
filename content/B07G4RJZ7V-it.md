@@ -25,10 +25,10 @@ average: '88.08'
 
 ℹ️:
 
-- Movimento multifunzione
 - Cinturino in pelle marrone chiaro coccodrillo goffrato
 - Spessore della cassa 7,7mm
 - Resistente allacqua a 3 ATM
+- Movimento multifunzione
 - Quadrante a raggiera blu marino
 
 [Acquista qui!!](https://www.amazon.it/dp/B07G4RJZ7V/?tag=tolees00-21)
