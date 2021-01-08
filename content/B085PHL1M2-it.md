@@ -25,9 +25,9 @@ Puoi trovare [Funko- Pop Animation: Dragon Ball Z S8-Super Saiyan Goku  First Ap
 
 ℹ️:
 
-- Super saiyan goku e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
-- Uniconica statuina funko pop vinyl della serie dragon ball z
 - Funko pop è il giocattolo dellanno 2018
 - Scopri tutte le altre statuine dragon ball z di funko e collezionale tutte
+- Uniconica statuina funko pop vinyl della serie dragon ball z
+- Super saiyan goku e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 
 [Acquista qui!!](https://www.amazon.it/dp/B085PHL1M2/?tag=tolees00-21)

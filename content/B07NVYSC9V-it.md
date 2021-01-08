@@ -25,7 +25,7 @@ average: '50.49'
 
 ℹ️:
 
-- Per le funzionalità on-line va acquistato separatamente "Nintendo Switch On-line"
 - I giocatori possono creare dei livelli usando quasi tutti gli oggetti della versione originale avvalersi di tutorial interattivi
+- Per le funzionalità on-line va acquistato separatamente "Nintendo Switch On-line"
 
 [Acquista qui!!](https://www.amazon.it/dp/B07NVYSC9V/?tag=tolees00-21)
