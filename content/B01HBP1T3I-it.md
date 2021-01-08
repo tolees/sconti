@@ -26,7 +26,7 @@ average: '4.2924999999999995'
 ℹ️:
 
 - Formato 100 ml
-- Brand: clenny
 - Codice del prodotto: cle0400007
+- Brand: clenny
 
 [Acquista qui!!](https://www.amazon.it/dp/B01HBP1T3I/?tag=tolees00-21)

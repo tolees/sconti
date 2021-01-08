@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'sconto del 40.15 % su JACK & JONES Jjeholmen Sweat Zip Hood No  '
-date: 2020-12-30 05:40:31
+title: 'sconto del 40.01 % su JACK & JONES Jjeholmen Sweat Zip Hood No  '
+date: 2021-01-08 19:40:43
 image: 'https://m.media-amazon.com/images/I/31SMoSnn2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07C269RBB-it'
-actualPrice: 17.95 EUR
+actualPrice: 17.99 EUR
 currency: EUR
-price: 17.95
+price: 17.99
 comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy Blazer Fit: Reg Fit   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21'
-descuento: '40.15'
-average: '18.85162162162162'
+descuento: '40.01'
+average: '18.807435897435894'
 ---
 
-[JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy Blazer Fit: Reg Fit   Large Uomo](https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21) ha un prezzo di 17.95 EUR (originale: 29.99 EUR) con uno sconto del 40.15 % sconto qui:
+[JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy Blazer Fit: Reg Fit   Large Uomo](https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21) ha un prezzo di 17.99 EUR (originale: 29.99 EUR) con uno sconto del 40.01 % sconto qui:
 
 [![JACK & JONES Jjeholmen Sweat Zip Hood No](https://m.media-amazon.com/images/I/31SMoSnn2sL._SL200_.jpg)](https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21)
 
 ℹ️:
 
-- MANICHE CON POLSINO
-- DUE TASCHE OBLIQUE SUL DAVANTI
-- FELPA IN TESSUTO GARZATO
 - CHIUSA DA ZIP SU TUTTA LA LUNGHEZZA
+- DUE TASCHE OBLIQUE SUL DAVANTI
 - CAPPUCCIO CON COULISSE REGOLABILE
+- MANICHE CON POLSINO
+- FELPA IN TESSUTO GARZATO
 
 [Acquista qui!!](https://www.amazon.it/dp/B07C269RBB/?tag=tolees00-21)

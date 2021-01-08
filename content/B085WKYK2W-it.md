@@ -25,9 +25,9 @@ Puoi trovare [FUNKO SIGNATURE GAMES: Something Wild Card Game - Disney Villains]
 
 ℹ️:
 
-- Gioca emozionante sui classici giochi di carte da ingannare
-- Più set possono essere combinati per un divertimento ancora più divertente!
-- I giocatori competono per punti e possono cambiare i bonus di punteggio per ogni trucco vincere Primo a 10 punti vince!
 - POP da collezione! mini-figura inclusa in ogni gioco per monitorare il bonus di punteggio!
+- Gioca emozionante sui classici giochi di carte da ingannare
+- I giocatori competono per punti e possono cambiare i bonus di punteggio per ogni trucco vincere Primo a 10 punti vince!
+- Più set possono essere combinati per un divertimento ancora più divertente!
 
 [Acquista qui!!](https://www.amazon.it/dp/B085WKYK2W/?tag=tolees00-21)

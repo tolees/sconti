@@ -25,8 +25,8 @@ Puoi trovare [Devil May Cry 5 - Playstation 4](https://www.amazon.it/dp/B07DX42F
 
 ℹ️:
 
-- Domina i diversi stili di gioco dei veterani della serie nero e Dante e del misterioso personaggio dotato di bastone: V
 - Respingi un invasione demoniaca a Red grave City, mentre nero affronta unaltra incursione infernale e Dante cerca vendetta per il destino del fratello
 - Potenzia il tuo personaggio e le tue armi, esegui incredibili catene di combo e ottieni ricompense bonus annientando i tuoi nemici con stile
+- Domina i diversi stili di gioco dei veterani della serie nero e Dante e del misterioso personaggio dotato di bastone: V
 
 [Acquista qui!!](https://www.amazon.it/dp/B07DX42FRD/?tag=tolees00-21)
