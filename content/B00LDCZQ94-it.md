@@ -25,7 +25,7 @@ Puoi trovare [Godzilla  2014 ](https://www.amazon.it/dp/B00LDCZQ94/?tag=tolees00
 
 ℹ️:
 
-- Warner Home Video
 - Elettronica
+- Warner Home Video
 
 [Acquista qui!!](https://www.amazon.it/dp/B00LDCZQ94/?tag=tolees00-21)

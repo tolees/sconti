@@ -25,8 +25,8 @@ average: '25.61063725490196'
 
 ℹ️:
 
-- Licenza ufficiale product-playstation
 - Musica alternativa reattiva mode
 - Light up icone
+- Licenza ufficiale product-playstation
 
 [Acquista qui!!](https://www.amazon.it/dp/B079CBP6P9/?tag=tolees00-21)
