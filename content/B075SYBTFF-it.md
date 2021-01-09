@@ -25,9 +25,9 @@ average: '25.6'
 
 ℹ️:
 
-- Facilita la maneggevolezza la combinazione di una lama stabile e una maniglia ergonomica con fori extra grandi consentono un taglio pulito dei cavi fino a 50 mm2
 - Aumenta la tua efficienza: forbici da elettricista con le funzioni di taglio, rivestimento, spelatura e crimpatura in un unico strumento
 - Applicazione: per trapanare, smantellare, spellare e crimpare cavi; nota: la confezione include una custodia protettiva con clip di fissaggio
+- Facilita la maneggevolezza la combinazione di una lama stabile e una maniglia ergonomica con fori extra grandi consentono un taglio pulito dei cavi fino a 50 mm2
 - Aumenta la sicurezza della custodia protettiva con clip per un trasporto sicuro
 - Semplifica il vostro lavoro, lama grande e lama microdentata per evitare che il cavo scivoli dalle forbici
 

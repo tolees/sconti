@@ -25,10 +25,10 @@ average: '699.9'
 
 ℹ️:
 
-- Sistema operativo android open source 10 + emui 10.1
 - Questo dispositivo utilizza i huawei mobile services (hms) anzichè i google mobile services (gms) e google app; scopri come scaricare le app e sfruttare al meglio il tuo dispositivo huawei su consumer.huawei.com/it/campaign/all-in-one
 - Quattro fotocamere leica da 50+40+12mp e sensore tof e zoom 50x con super sensing
 - Memoria da 8gb ram + 256gb rom
 - Batteria da 4200 mah con tecnologia supercharge 40w
+- Sistema operativo android open source 10 + emui 10.1
 
 [Acquista qui!!](https://www.amazon.it/dp/B086VNZH3G/?tag=tolees00-21)

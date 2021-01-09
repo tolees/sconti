@@ -25,8 +25,8 @@ Puoi trovare [New Balance 500  Scarpe Sportive Uomo  Blu  Navy/Grey Navy   40.5 
 
 ℹ️:
 
-- Materiale esterno: sintetico
 - Chiusura: stringata
+- Materiale esterno: sintetico
 - Fodera: tessuto
 
 [Acquista qui!!](https://www.amazon.it/dp/B01AZECJL8/?tag=tolees00-21)

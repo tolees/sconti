@@ -25,8 +25,8 @@ Puoi trovare [Poly Pool PP1408 Programmatore Timer Giornaliero  Spina 16 A e Pre
 
 ℹ️:
 
-- Ciclo giornaliero
 - Alimenta automaticamente, negli orari programmati, i dispositivi elettrici collegati
+- Ciclo giornaliero
 - Programmazione minima 15 minuti
 
 [Acquista qui!!](https://www.amazon.it/dp/B009GJ68CK/?tag=tolees00-21)
