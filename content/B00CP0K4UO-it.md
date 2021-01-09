@@ -25,9 +25,9 @@ Puoi trovare [Vans Atwood Canvas  Scarpe da Ginnastica Uomo  Rosso  Rot/Oxbloo /
 
 ℹ️:
 
+- Fodera: Tessuto
 - Materiale suola: Gomma
 - Materiale esterno: Sintetico
-- Fodera: Tessuto
 - Chiusura: Stringata
 - Tipo di tacco: Senza tacco
 

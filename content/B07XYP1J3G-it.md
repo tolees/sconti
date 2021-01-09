@@ -25,10 +25,10 @@ average: '19.451428571428572'
 
 ℹ️:
 
-- Assicura una profonda efficacia pulente pur rimanendo gentile sui tessuti
 - Penetra in profondità nelle fibre per rimuovere anche le macchie più difficili; confezione da 2 flaconi da 56 lavaggi
-- Grazie alla sua formula garantisce una brillantezza unica ai tuoi capi, impedendone lingrigimento anche dopo diversi lavaggi
+- Assicura una profonda efficacia pulente pur rimanendo gentile sui tessuti
 - Dona un fresco e piacevole profumo di lunga durata a tutti i tuoi capi
 - Detersivo pre-dosato per lavatrice; confezione da 2 flaconi da 56 lavaggi
+- Grazie alla sua formula garantisce una brillantezza unica ai tuoi capi, impedendone lingrigimento anche dopo diversi lavaggi
 
 [Acquista qui!!](https://www.amazon.it/dp/B07XYP1J3G/?tag=tolees00-21)

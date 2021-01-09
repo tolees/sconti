@@ -25,7 +25,7 @@ average: '10.99'
 
 ℹ️:
 
-- Il top che si declina in molti colori di tendenza, è sul retro un po più lungo. Può anche essere indossato come un legging.
 - Maglione sottile a maglie grosse Si chiude? Al contrario. Questo grosso maglione ONLY è adatto anche per lestate.
+- Il top che si declina in molti colori di tendenza, è sul retro un po più lungo. Può anche essere indossato come un legging.
 
 [Acquista qui!!](https://www.amazon.it/dp/B016WD33XE/?tag=tolees00-21)
