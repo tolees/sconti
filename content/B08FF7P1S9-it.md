@@ -25,10 +25,10 @@ average: '8.995000000000001'
 
 ℹ️:
 
-- Grazie a una combinazione di enzimi, Dixan caps lavatrice penetra in profondità nelle fibre, rimuovendo anche le macchie più ostinate
-- Dixan caps detersivo pre-dosato 4in1 efficace per la rimozione delle macchie, delicato sui capi
-- Dixan Discs Multicolor detersivo lavatrice predosato ottimale per capi colorati
-- Detersivo predosato per lavatrice; pods lavatrice in confezione da 2 x 25 lavaggi; facili da utilizzare: inserisci Dixan capsule lavatrice nel cestello prima dei capi per un risultato ottimo
 - Dixan DISCS rende il tuo bucato brillante, evitando lingrigimento dei tuoi capi anche dopo molti lavaggi
+- Dixan caps detersivo pre-dosato 4in1 efficace per la rimozione delle macchie, delicato sui capi
+- Detersivo predosato per lavatrice; pods lavatrice in confezione da 2 x 25 lavaggi; facili da utilizzare: inserisci Dixan capsule lavatrice nel cestello prima dei capi per un risultato ottimo
+- Dixan Discs Multicolor detersivo lavatrice predosato ottimale per capi colorati
+- Grazie a una combinazione di enzimi, Dixan caps lavatrice penetra in profondità nelle fibre, rimuovendo anche le macchie più ostinate
 
 [Acquista qui!!](https://www.amazon.it/dp/B08FF7P1S9/?tag=tolees00-21)
