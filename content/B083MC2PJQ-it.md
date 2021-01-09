@@ -25,9 +25,9 @@ Puoi trovare [Urban Classics Longsleeve T-Shirt Oversized Double Layer Striped L
 
 ℹ️:
 
-- Taglio oversized
 - Ideale come idea di regalo
-- Stile: normale
 - Maglia a maniche lunghe a doppio strato
+- Taglio oversized
+- Stile: normale
 
 [Acquista qui!!](https://www.amazon.it/dp/B083MC2PJQ/?tag=tolees00-21)

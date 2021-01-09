@@ -25,9 +25,9 @@ Puoi trovare [Jack&Jones JJECORP Logo Sweat Hood Noos Felpa con Cappuccio  Light
 
 ℹ️:
 
-- Felpa con vestibilità regolare.
 - Con il classico logo stampato.
 - Composizione dei materiali: 70% cotone, 30% poliestere.
+- Felpa con vestibilità regolare.
 - Particolarmente morbida e calda.
 
 [Acquista qui!!](https://www.amazon.it/dp/B08KXWT4CJ/?tag=tolees00-21)

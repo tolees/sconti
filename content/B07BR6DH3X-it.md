@@ -25,8 +25,8 @@ average: '13.49'
 
 ℹ️:
 
-- Levis Blu Berretto da pipistrello oversize
-- Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
 - Brand New and Genuine. Siamo un venditore autorizzato di Levis.
+- Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
+- Levis Blu Berretto da pipistrello oversize
 
 [Acquista qui!!](https://www.amazon.it/dp/B07BR6DH3X/?tag=tolees00-21)
