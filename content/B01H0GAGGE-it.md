@@ -25,10 +25,10 @@ Puoi trovare [Lego LEGO Dimensions - Story PACK Fantastic Beasts Giocattolo ibri
 
 ℹ️:
 
-- 3 omini LEGO (Batman, Gandalf un Cool-Tag)
-- indipendente dalla piattaforma
-- Estendere la vostra avventura attraverso la raccolta di dati ulteriori mini, veicoli, oggetti e nuovo livello
-- La Batmobile LEGO
 - metterlo sul LEGO Toy Pad
+- La Batmobile LEGO
+- indipendente dalla piattaforma
+- 3 omini LEGO (Batman, Gandalf un Cool-Tag)
+- Estendere la vostra avventura attraverso la raccolta di dati ulteriori mini, veicoli, oggetti e nuovo livello
 
 [Acquista qui!!](https://www.amazon.it/dp/B01H0GAGGE/?tag=tolees00-21)

@@ -25,8 +25,8 @@ Puoi trovare [New Balance 373 Core  Trainers Uomo  Rosso  Burgundy   41.5 EU](ht
 
 ℹ️:
 
-- Materiale esterno: pelle
 - Fodera: maglia
 - Chiusura: stringata
+- Materiale esterno: pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MTSE0AI/?tag=tolees00-21)
