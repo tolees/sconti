@@ -25,7 +25,7 @@ Puoi trovare [JACK & JONES Jjecorp Logo Sweat Hood Noos Cappuccio  Nero  Black F
 
 ℹ️:
 
-- Cotton mixture
 - Sweater with logo
+- Cotton mixture
 
 [Acquista qui!!](https://www.amazon.it/dp/B07L6SQ8S2/?tag=tolees00-21)

@@ -25,8 +25,8 @@ average: '17.49'
 
 ℹ️:
 
-- Particolarmente morbida e calda.
 - Composizione dei materiali: 70% cotone, 30% poliestere.
+- Particolarmente morbida e calda.
 - Con il classico logo stampato.
 - Felpa con vestibilità regolare.
 

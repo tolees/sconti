@@ -25,7 +25,7 @@ average: '17.99'
 
 ℹ️:
 
-- Cotton mixture
 - Sweater with logo
+- Cotton mixture
 
 [Acquista qui!!](https://www.amazon.it/dp/B07L6H5QX1/?tag=tolees00-21)
