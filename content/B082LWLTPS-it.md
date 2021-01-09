@@ -25,8 +25,8 @@ Puoi trovare [Funko- Pop Patronus Harry Potter Figura da Collezione  Multicolore
 
 ℹ️:
 
-- Scopri tutte le altre statuine Harry Potter di Funko e collezionale tutte
-- Patronus Harry Potter e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Uniconica statuina Funko Pop Vinyl della serie Harry Potter
+- Patronus Harry Potter e alto 9cm ed inserita allinterno di una scatola trarente da collezione
+- Scopri tutte le altre statuine Harry Potter di Funko e collezionale tutte
 
 [Acquista qui!!](https://www.amazon.it/dp/B082LWLTPS/?tag=tolees00-21)

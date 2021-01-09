@@ -25,10 +25,10 @@ Puoi trovare [Crocs Fun Lab Disney And Pixar Cars Clog  Sabot Unisex – Bambini
 
 ℹ️:
 
+- Materiale esterno: Gomma
+- Materiale suola: Sintetico
 - Chiusura: Senza chiusura
 - Tipo di tacco: Senza tacco
 - Fodera: Senza rivestimento interno
-- Materiale suola: Sintetico
-- Materiale esterno: Gomma
 
 [Acquista qui!!](https://www.amazon.it/dp/B01HUVTP34/?tag=tolees00-21)

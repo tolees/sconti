@@ -25,9 +25,9 @@ Puoi trovare [MyProtein Impact Whey -Protein del Siero - 2500 gr](https://www.am
 
 ℹ️:
 
-- 4.5g di BCAA inclusi 2g di leucina per dose
-- Ha ottenuto una A nella classifica di LabDoor
-- 21g di proteine per dose
 - In caso di alterazioni della funzione epatica, biliare o di calcolosi delle vie biliari, l’uso del prodotto è sconsigliato. Se si stanno assumendo farmaci è opportuno sentire il parere del medico.
+- 4.5g di BCAA inclusi 2g di leucina per dose
+- 21g di proteine per dose
+- Ha ottenuto una A nella classifica di LabDoor
 
 [Acquista qui!!](https://www.amazon.it/dp/B00EZTKZAW/?tag=tolees00-21)

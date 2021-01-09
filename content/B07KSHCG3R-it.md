@@ -25,10 +25,10 @@ average: '108.33357142857142'
 
 ℹ️:
 
-- Sequential Read/Write speeds up to 550/520 MB/s respectively. Performance varies based on system hardware configuration
-- Designed for mainstream PCs and laptops for personal, gaming and business use
-- Form Factor : 2.5 Inch
 - Interface : SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
 - Available Capacity : Up to 4 TB
+- Form Factor : 2.5 Inch
+- Designed for mainstream PCs and laptops for personal, gaming and business use
+- Sequential Read/Write speeds up to 550/520 MB/s respectively. Performance varies based on system hardware configuration
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KSHCG3R/?tag=tolees00-21)

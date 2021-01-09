@@ -25,10 +25,10 @@ average: '51.28'
 
 ℹ️:
 
+- Serie: Honey
+- Misure esterne (L x L x A): 19cm x 10cm x 2cm
 - Scomparti per carte di credito: 12
 - materiale : PVC
 - Tipo di chiusura: cerniera lampo
-- Misure esterne (L x L x A): 19cm x 10cm x 2cm
-- Serie: Honey
 
 [Acquista qui!!](https://www.amazon.it/dp/B071DR2LC7/?tag=tolees00-21)
