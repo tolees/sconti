@@ -25,10 +25,10 @@ Puoi trovare [PURINA GOURMET MON PETIT Umido Gatto Delicate Creazioni con Pesce 
 
 ℹ️:
 
-- Serviti in una salsa leggera e delicata
-- Alimento completo per gatti adulti
 - Buste piccole, da 50 g, in modo che ciascun pasto venga servito fresco
 - Per mantenere il gatto in una condizione fisica sana e snella
+- Alimento completo per gatti adulti
+- Serviti in una salsa leggera e delicata
 - Raffinati filettini con pesce
 
 [Acquista qui!!](https://www.amazon.it/dp/B07BG6DTPL/?tag=tolees00-21)

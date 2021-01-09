@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Carefree Protege-slip transpirante  coto al 59.79 % de descuento'
-date: 2020-12-10 14:40:03
+title: 'sconto del 59.79 % su Carefree Protege-slip transpirante  coto  '
+date: 2021-01-09 17:08:39
 image: 'https://m.media-amazon.com/images/I/51a4lSRqKzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,17 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00XAEXV1I/?tag=tolees00-21'
 descuento: '59.79'
+average: '1.9614285714285715'
 ---
 
-Está [Carefree Protege-slip transpirante  cotone  44 pezzi](https://www.amazon.it/dp/B00XAEXV1I/?tag=tolees00-21) con 59.79 de descuento por 1.95 EUR (original: 4.85 EUR) en el siguiente enlace!
+[Carefree Protege-slip transpirante  cotone  44 pezzi](https://www.amazon.it/dp/B00XAEXV1I/?tag=tolees00-21) ha un prezzo di 1.95 EUR (originale: 4.85 EUR) con uno sconto del 59.79 % sconto qui:
 
 [![Carefree Protege-slip transpirante  coto](https://m.media-amazon.com/images/I/51a4lSRqKzL._SL200_.jpg)](https://www.amazon.it/dp/B00XAEXV1I/?tag=tolees00-21)
 
 ℹ️:
 
+- Di marca carefree
+- Prodotti di bellezza
+- Plasters and bandages-gauzes
 
-[Ver la oferta!!](https://www.amazon.it/dp/B00XAEXV1I/?tag=tolees00-21)
+[Acquista qui!!](https://www.amazon.it/dp/B00XAEXV1I/?tag=tolees00-21)
