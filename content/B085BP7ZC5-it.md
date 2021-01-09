@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.00 % su Xiaomi 26199  Vacuum-Mop PRO  Robot Aspi  '
-date: 2021-01-08 13:42:08
+date: 2021-01-09 14:33:44
 image: 'https://m.media-amazon.com/images/I/31HXcQfHbcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085BP7ZC5/?tag=tolees00-21'
 descuento: '20.00'
-average: '292.98999999999995'
+average: '292.225294117647'
 ---
 
 [Xiaomi 26199  Vacuum-Mop PRO  Robot Aspira e Lava  LDS Navigazione con Laser  Pianificazione Intelligente del Percorso  Controllo Remoto Via App  Colore Nero](https://www.amazon.it/dp/B085BP7ZC5/?tag=tolees00-21) ha un prezzo di 279.99 EUR (originale: 349.99 EUR) con uno sconto del 20.00 % sconto qui:

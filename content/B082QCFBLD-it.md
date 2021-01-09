@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger 26158 GraviTrax Transfer  A al 28.59 % di sconto'
-date: 2021-01-08 07:54:52
+date: 2021-01-09 14:19:36
 image: 'https://m.media-amazon.com/images/I/51S+92jyQtL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Puoi trovare [Ravensburger 26158 GraviTrax Transfer  Accessorio  8+ Anni  Gioco 
 
 ℹ️:
 
-- Innovative - The GraviTrax interactive track system allows you to design and build your own race tracks and experiment with engineering, gravity, magnetism, and kinetics to propel your ball to the finish.
-- As seen on TV - GraviTrax is an innovative marble run and contruction toy for boys and for girls ages 8 years and up. It is an ideal christmas gift or birthday gift for smart, curious kids. The Gravitrax Transfer takes your marbles over a breath-taking gap for a spectacular eye-catcher!
-- Clear instructions – Comes with clear instructions so that you can start construction and start playing with this fun brain game within minutes
-- Develops critical skills – Playing and building with GraviTrax builds spatial reasoning and planning skills, and provides a great stealth learning experience.
-- Infinitely Expandable - Gravitrax in fully expandable with a large range of expansion pack and accessories! An amazing building toy!
+- GraviTrax è un gioco educativo, permette infatti ai bambini di imparare concetti legati alla gravità, cinetica e magnetismo mentre si divertono a costruire le proprie piste e percorsi
+- Contiene: Manuale distruzioni (d, f, i, en, nl, e), 3 elemento transfer, 6 binari di plastica (1 lungo, 2 medi, 3 corti)
+- Con laccessorio Gravitrax Transfer puoi trasportare la biglia lungo il percorso; il Gravitrax Transfer è utilizzabile solamente con lo Starter-Set GraviTrax
+- Gioca con la pista di biglie del futuro e personalizza il tuo percorso con laccessorio Gravitrax Transfer per aumentare il divertimento e rendere la tua pista ancora più lunga
+- Scopri le espansioni, gli accessori e gli Starter Set per aumentare il diveritmento; consigliato per bambini e bambine a partire da 8 anni
 
 [Acquista qui!!](https://www.amazon.it/dp/B082QCFBLD/?tag=tolees00-21)

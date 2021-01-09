@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture 6101026 Flatiron Build al 16.11 % di sconto'
-date: 2021-01-08 07:50:52
+date: 2021-01-09 14:37:16
 image: 'https://m.media-amazon.com/images/I/518Mr96fR3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00UY56OLU/?tag=tolees00-21'
 descuento: '16.11'
-average: '118.09015873015872'
+average: '117.68707692307692'
 ---
 
 Puoi trovare [LEGO Architecture 6101026 Flatiron Building 21023 Building Kit by LEGO](https://www.amazon.it/dp/B00UY56OLU/?tag=tolees00-21) con il prezzo 104.99 EUR (originale: 125.15 EUR) 16.11 % sconto qui:
@@ -25,10 +25,10 @@ Puoi trovare [LEGO Architecture 6101026 Flatiron Building 21023 Building Kit by 
 
 ℹ️:
 
-- Misure 5" (15 cm) di altezza, 3" (8 cm) di larghezza e 4" (11 centimetri) di profondità
-- interpretazione del punto di riferimento architettonico del mondo reale, il Flatiron Building; dispone di una targhetta
 - raccogliere lintero set serie architettura lego limite e architetto
 - libretto incluso con dettagli sul design, larchitettura e la storia delledificio (solo in lingua inglese)
 - altre lingue disponibili per il download allindirizzo lego.com/architecture
+- interpretazione del punto di riferimento architettonico del mondo reale, il Flatiron Building; dispone di una targhetta
+- Misure 5" (15 cm) di altezza, 3" (8 cm) di larghezza e 4" (11 centimetri) di profondità
 
 [Acquista qui!!](https://www.amazon.it/dp/B00UY56OLU/?tag=tolees00-21)

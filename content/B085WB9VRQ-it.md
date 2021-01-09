@@ -27,7 +27,7 @@ average: '181.89249999999998'
 
 - Batteria da 5020 mAh; 18w fast charging
 - Sistema operativo miui 11
-- Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
 - Frequenza fino a 2.3 ghz
+- Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
 
 [Acquista qui!!](https://www.amazon.it/dp/B085WB9VRQ/?tag=tolees00-21)
