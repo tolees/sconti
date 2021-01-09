@@ -25,9 +25,9 @@ average: '18.895000000000003'
 
 ℹ️:
 
-- Uniconica statuina Funko Pop! Vinyl della serie The Mandalorian
 - Funko POP! è il giocattolo dellanno 2018!
 - The Child w/Frog e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Uniconica statuina Funko Pop! Vinyl della serie The Mandalorian
 - Scopri tutte le altre statuine Star Wars di Funko e collezionale tutte!
 
 [Acquista qui!!](https://www.amazon.it/dp/B087F95YBK/?tag=tolees00-21)
