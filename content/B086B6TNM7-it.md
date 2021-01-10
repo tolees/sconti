@@ -25,13 +25,13 @@ average: '1199.0'
 
 ℹ️:
 
-- Wattaggio (W): 215 watts
-- Tecnologia di connettività: USB
 - Alimentazione: Con cavo elettrico
-- Full array local dimming con gestione indipendente delle zone per un contrasto e neri incredibili
 - Smart TV vidaa u4 ai per goderti le migliori app: prime video, netflix, dazn, timvision, chilitv e raiplay; alexa built-in
+- Wattaggio (W): 215 watts
+- Full array local dimming con gestione indipendente delle zone per un contrasto e neri incredibili
+- Tecnologia di connettività: USB
+- Comparto video ai massimi livelli con tecnologia dolby vision hdr1000 e quantum dot colour
 - Comparto audio elevato grazie a dolby atmos e front-firing speaker by jbl
 - Unibody design a 360° superslim, in metallo e senza bordi; elegante e pregiato
-- Comparto video ai massimi livelli con tecnologia dolby vision hdr1000 e quantum dot colour
 
 [Acquista qui!!](https://www.amazon.it/dp/B086B6TNM7/?tag=tolees00-21)

@@ -25,7 +25,7 @@ Puoi trovare [Act Melatonina Forte 5 Complex  90 Compresse](https://www.amazon.i
 
 ℹ️:
 
-- Formato capsule
 - Integratore alimentare a base di melatonina, contribuisce alla riduzione del tempo richiesto per prendere sonno
+- Formato capsule
 
 [Acquista qui!!](https://www.amazon.it/dp/B00VXDKL4S/?tag=tolees00-21)

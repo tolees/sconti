@@ -26,8 +26,8 @@ average: '5.1659999999999995'
 ℹ️:
 
 - Vita act multivitaminico è un mix di vitamine e minerali per il benessere quotidiano di tutta la famiglia
-- Formato compresse
-- Vitamine del gruppo b e ferro contribuiscono al normale metabolismo energetico
 - Scopri la nostra vasta gamma di prodotti
+- Vitamine del gruppo b e ferro contribuiscono al normale metabolismo energetico
+- Formato compresse
 
 [Acquista qui!!](https://www.amazon.it/dp/B06XD6Q61Z/?tag=tolees00-21)
