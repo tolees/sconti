@@ -27,8 +27,8 @@ average: '63.02882978723403'
 
 - Associa facilmente: associa e passa facilmente da un dispositivo allaltro, inclusi Xbox Series X, Xbox One, PC Windows 10 e Android; supporto per iOS prossimamente disponibile
 - Mappatura personalizzata: Personalizza il controller modificando la mappatura dei pulsanti e collega qualsiasi auricolare compatibile con il jack per cuffie audio da 3.5 mm
-- Rimani sul bersaglio: Resta sul bersaglio con una presa testurizzata su grilletti e con un D-pad ibrido per input accurati
 - Pulsante condividi: Cattura e condividi facilmente contenuti come screenshot, registrazioni e altro con il pulsante condividi
 - Tecnologia Xbox Wireless e Bluetooth: Include la tecnologia Xbox Wireless e Bluetooth per il gaming wireless sulle console supportate, PC Windows 10, telefoni Android e tablet; supporto per iOS prossimamente disponibile
+- Rimani sul bersaglio: Resta sul bersaglio con una presa testurizzata su grilletti e con un D-pad ibrido per input accurati
 
 [Acquista qui!!](https://www.amazon.it/dp/B07SDFLVKD/?tag=tolees00-21)

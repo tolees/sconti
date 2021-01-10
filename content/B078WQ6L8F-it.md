@@ -25,8 +25,8 @@ Puoi trovare [Fila Disruptor  Scarpe da Ginnastica Basse Donna  Bianco  38 EU](h
 
 ℹ️:
 
+- Distruptor low donna
 - Calzata piccola
 - FILA 1010302 DONNA
-- Distruptor low donna
 
 [Acquista qui!!](https://www.amazon.it/dp/B078WQ6L8F/?tag=tolees00-21)

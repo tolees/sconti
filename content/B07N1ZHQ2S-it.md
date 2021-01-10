@@ -25,10 +25,10 @@ Puoi trovare [Sony MEX-N7300KIT - Autoradio CD  Ricez. DAB/DAB+  Antenna DAB Inc
 
 ℹ️:
 
-- Microfono esterno incluso
-- DUAL Bluetooth (collega 2 cellulari contemporaneamente)
-- Siri Eyes Free: pulsante dedicato per attivare ed interagire con Siri (iOS)
 - Ricezione DAB/DAB+ (antenna INCLUSA)
 - Compatibile con file FLAC (qualità superiore al CD), Trasferimento audio (es; mp3) anche wireless da cellulare via Bluetooth
+- DUAL Bluetooth (collega 2 cellulari contemporaneamente)
+- Siri Eyes Free: pulsante dedicato per attivare ed interagire con Siri (iOS)
+- Microfono esterno incluso
 
 [Acquista qui!!](https://www.amazon.it/dp/B07N1ZHQ2S/?tag=tolees00-21)

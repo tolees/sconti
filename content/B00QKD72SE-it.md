@@ -25,10 +25,10 @@ Puoi trovare [Pentel Energel XM Click BLN75 0 5 mm nero taschina  4 pz](https://
 
 ℹ️:
 
-- Instant drying ink, ideal for left-hand people
-- Tip width: 0.5 mm
 - For extra-fluid writing
+- Instant drying ink, ideal for left-hand people
 - Available in a range of colours
+- Tip width: 0.5 mm
 - With click mechanism
 
 [Acquista qui!!](https://www.amazon.it/dp/B00QKD72SE/?tag=tolees00-21)

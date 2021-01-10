@@ -25,9 +25,9 @@ Puoi trovare [Whatsko Arcade Game Console Mini Super Console X con 33000 Giochi 
 
 ℹ️:
 
-- 【Forte compatibilità】Supporta luscita video TV 4K Ultra High Definition (1080P / 720P) e monitor / proiettori con ingresso HDMI.
 - 【High performance CPU】Super Console-X arcade game console con chip S905M, CPU quad-core ad alta velocità e i sistemi basati su 2.0 GHz aggiungono un processore di accelerazione 3D da 600 MHz, fornirti la migliore esperienza di gioco.
 - 【33000 tipi di 2D/3D giochi】Mini console giochi viene fornito con una scheda da 64 GBTF, 33000 popolari giochi arcade retrò incorporati. Supporta 42 emulatori di gioco come PSP, PS1, n64, DC, Mame, NeoGeo, ecc. E supporta la scheda MAX 256G, aggiungi nuovi giochi da solo.
+- 【Forte compatibilità】Supporta luscita video TV 4K Ultra High Definition (1080P / 720P) e monitor / proiettori con ingresso HDMI.
 - 【Super mini e Portatile】Il peso di questa arcade console di gioco mini è di soli 106 g, 10 * 10 * 2.2 cm. Supporta la connessione di due gamepad. Non solo supporta i giochi per giocatore singolo, ma supporta anche battaglie a due giocatori, giochi multiplayer da due a quattro giocatori. Questa pandora console è molto adatta per giocare con amici e familiari.
 - 【Funzione perfetta: WIFI & LAN】La console di gioco arcade è collegata alla rete tramite LAN e Wifi, e puoi scaricare più facilmente i giochi. Inoltre puoi mettere in pausa il gioco in qualsiasi momento e scegliere di continuare a giocare nella "Lista giochi recenti". Inoltre, questa console arcade ha anche la funzione di salvataggio del gioco, la ricerca del gioco, la classificazione del gioco e altre funzioni.
 

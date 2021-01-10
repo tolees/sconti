@@ -25,7 +25,7 @@ average: '23.323596491228074'
 
 ℹ️:
 
-- Recentemente e arrivata nel villaggio Sylvanian la famiglia canguro
 - Include 4 figure di coniglietti: mamma, papa e due figli
+- Recentemente e arrivata nel villaggio Sylvanian la famiglia canguro
 
 [Acquista qui!!](https://www.amazon.it/dp/B06XNZFS9R/?tag=tolees00-21)

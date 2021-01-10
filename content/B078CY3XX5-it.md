@@ -25,8 +25,8 @@ average: '55.1605'
 
 ℹ️:
 
-- another material
-- Black
 - Erwachsene
+- Black
+- another material
 
 [Acquista qui!!](https://www.amazon.it/dp/B078CY3XX5/?tag=tolees00-21)
