@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 15.94 % su PUMA Smash v2 L  Scarpe da Ginnastica Un  '
-date: 2021-01-09 14:39:09
+date: 2021-01-10 21:18:55
 image: 'https://m.media-amazon.com/images/I/41pvb4b-LAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ average: '41.99'
 
 ℹ️:
 
-- Materiale esterno: pelle
+- Materiale suola: gomma
 - Fodera: maglia
 - Le calzature di puma sono la perfetta alternativa sportiva ad ogni look nel tempo libero; per calcio, pallavolo, fitness o altri sport: queste scarpe sportive migliorano sempre la performance
-- Materiale suola: gomma
+- Materiale esterno: pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B077MLZZVM/?tag=tolees00-21)
