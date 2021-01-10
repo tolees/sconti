@@ -25,9 +25,9 @@ average: '15.40242424242424'
 
 ℹ️:
 
-- Pop! vinile harry potter s7 - ginny (yule)
-- Funko pop
 - Harry potter s7 - ginny (yule)
+- Funko pop
+- Pop! vinile harry potter s7 - ginny (yule)
 - Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Uniconica statuina funko pop! vinyl della serie harry potter
 
