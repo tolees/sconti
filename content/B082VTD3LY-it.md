@@ -26,9 +26,9 @@ average: '3.656666666666667'
 ℹ️:
 
 - La formula multifunzione del prodotto lavastoviglie offre un potere pulente completo grazie alle sue 12 azioni: detergente, brillantante, salva vetro, ecc.
-- Pril detersivo lavastoviglie con azione Pulizia Profonda, anche nei cicli brevi
-- Il detersivo piatti in formula gel è efficace anche nei cicli di lavaggio brevi e si dissolve completamente senza lasciare residui sulle stoviglie.
 - Il sapone piatti ha unesclusiva bottiglia con doppia camera che permette la combinazione di due formule che garantiscono una forte azione sgrassante.
 - Pril lavastoviglie gel con sgrassatore attivo penetra nei residui di sporco ostinato, rimuovendo anche lo sporco bruciato o incrostato.
+- Pril detersivo lavastoviglie con azione Pulizia Profonda, anche nei cicli brevi
+- Il detersivo piatti in formula gel è efficace anche nei cicli di lavaggio brevi e si dissolve completamente senza lasciare residui sulle stoviglie.
 
 [Acquista qui!!](https://www.amazon.it/dp/B082VTD3LY/?tag=tolees00-21)

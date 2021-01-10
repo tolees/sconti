@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 24.97 % su Caffè Borbone Don Carlo Miscela Nera - C  '
-date: 2021-01-03 08:44:41
+date: 2021-01-10 12:25:51
 image: 'https://m.media-amazon.com/images/I/413YymyYEgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BBW9OAC/?tag=tolees00-21'
 descuento: '24.97'
-average: '17.857142857142858'
+average: '17.875'
 ---
 
 [Caffè Borbone Don Carlo Miscela Nera - Confezione da 100 Capsule - Compatibili con macchine a marchio Lavazza®* A Modo Mio®*](https://www.amazon.it/dp/B01BBW9OAC/?tag=tolees00-21) ha un prezzo di 18.0 EUR (originale: 23.99 EUR) con uno sconto del 24.97 % sconto qui:
@@ -25,10 +25,10 @@ average: '17.857142857142858'
 
 ℹ️:
 
+- Confezione da 100 capsule
+- Caffè
 - Don Carlo miscela Nera confezione da 100
 - Capsule compatibili con macchine a marchio Lavazza* A Modo Mio*
-- Confezione da 100 capsule
 - *Lavazza , *A Modo Mio , *Lavazza A Modo Mio , *Espresso Point e *Lavazza Espresso Point sono marchi di proprietà di Luigi Lavazza S.p.A. . Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A.. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè Lavazza Espresso Point - Lavazza A Modo Mio .
-- Caffè
 
 [Acquista qui!!](https://www.amazon.it/dp/B01BBW9OAC/?tag=tolees00-21)

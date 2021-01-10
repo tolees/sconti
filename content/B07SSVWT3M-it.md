@@ -25,9 +25,9 @@ average: '15.015'
 
 ℹ️:
 
+- Sneakers
+- Tomaia in pelle
 - Ispirato alle scarpe classiche
 - Etilene-vinil acetato: resistente, modellato, comfort ammortizzato
-- Tomaia in pelle
-- Sneakers
 
 [Acquista qui!!](https://www.amazon.it/dp/B07SSVWT3M/?tag=tolees00-21)
