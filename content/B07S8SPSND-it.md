@@ -25,8 +25,8 @@ Puoi trovare [adidas Strutter  Scarpe da Ginnastica Uomo  Noir Noir Gris Foncã 
 
 ℹ️:
 
-- Suola spessa in gomma
 - Scarpe sportive
 - Soletta in EVA adibouncy
+- Suola spessa in gomma
 
 [Acquista qui!!](https://www.amazon.it/dp/B07S8SPSND/?tag=tolees00-21)
