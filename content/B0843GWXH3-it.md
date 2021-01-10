@@ -25,8 +25,8 @@ average: '4.99'
 
 ℹ️:
 
-- Associate puppies with mom
-- High thickness tiles - Self-correcting joints - Super resistant cardboard
 - Logical skills - attention and concentration - shapes and colours - fine manual skills and eye - hand - decoding coordination of images
+- High thickness tiles - Self-correcting joints - Super resistant cardboard
+- Associate puppies with mom
 
 [Acquista qui!!](https://www.amazon.it/dp/B0843GWXH3/?tag=tolees00-21)

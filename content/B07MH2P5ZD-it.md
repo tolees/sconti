@@ -25,10 +25,10 @@ average: '81.1055'
 
 ℹ️:
 
-- Disponibile con capacità comprese fra 250 GB e 1 TB
-- Velocità di trasferimento fino a 3.470 MB/sec per tempi di caricamento più rapidi
 - Prestazioni di scrittura sequenziali: 2600MB/s
+- Disponibile con capacità comprese fra 250 GB e 1 TB
 - Design lineare per personalizzare i dispositivi di gioco
+- Velocità di trasferimento fino a 3.470 MB/sec per tempi di caricamento più rapidi
 - Prestazioni di lettura sequenziali: 3430MB/s
 - Il dashboard della SSD WD Black ottimizza le prestazioni di gioco
 

@@ -26,9 +26,9 @@ Puoi trovare [Xiaomi Mi Monopattino Elettrico Essential  20 Km di Autonomia  Vel
 ℹ️:
 
 - Connect the Mi Electric Scooter Essential to the Mi Home app to check riding stats, battery status and to upgrade firmware
+- 20 km/h battery life and 500 W maximum power with three speed modes
 - Minimalist controls with multi-functional dashboard, comfortable foam grip, sensitive hand throttle and one button for multiple functions
 - Fully upgraded kinetic energy recovery system (KERS): When braking or releasing the throttle while driving, the energy conversion is more efficient, further increasing battery life
-- 20 km/h battery life and 500 W maximum power with three speed modes
 - Easy to fold and easy to carry - 3 seconds fast folding with a folded height of just 49 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B089NR5WZ8/?tag=tolees00-21)
