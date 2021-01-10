@@ -25,10 +25,10 @@ average: '1.6733333333333333'
 
 ℹ️:
 
-- GOCCIOLE - Per una colazione ricca di gusto per affrontare la giornata con allegria e buon umore. Semplice pastafrolla con tante gustose gocce al cioccolato
-- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
-- GOCCIOLE - Gocce di cioccolato in una pastafrolla friabile, frollini ideali da inzuppare nel latte al mattino per avere la giusta carica per affrontare la giornata. Svegliati con gusto e dolcezza
-- INGREDIENTI - Farina di frumento, zucchero, cioccolato e burro. Senza olio di palma e con 50% di grassi saturi in meno. La carica giusta per affrontare la giungla giornaliera
 - PER LA COLAZIONE - Ideali per la tua colazione o per la merenda: gocciole e una bella tazza di latte caldo
+- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- INGREDIENTI - Farina di frumento, zucchero, cioccolato e burro. Senza olio di palma e con 50% di grassi saturi in meno. La carica giusta per affrontare la giungla giornaliera
+- GOCCIOLE - Gocce di cioccolato in una pastafrolla friabile, frollini ideali da inzuppare nel latte al mattino per avere la giusta carica per affrontare la giornata. Svegliati con gusto e dolcezza
+- GOCCIOLE - Per una colazione ricca di gusto per affrontare la giornata con allegria e buon umore. Semplice pastafrolla con tante gustose gocce al cioccolato
 
 [Acquista qui!!](https://www.amazon.it/dp/B003VYYBFW/?tag=tolees00-21)

@@ -27,8 +27,8 @@ average: '3.9'
 
 - Ingredienti: tonno* 90%, olio extra vergine di oliva 8%, sale. *Thunnus (neothunnus) albacares
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
-- Tonno Pinne Gialle condito con un solo filo dolio extra vergine doliva, contiene il 60% di grassi in meno
 - Formato: confezione da 4 lattine da 60 g ciascuna, non si sgocciola
+- Tonno Pinne Gialle condito con un solo filo dolio extra vergine doliva, contiene il 60% di grassi in meno
 - Consigli uso: ottimale per antipasti o per piatti freschi e sfiziosi
 
 [Acquista qui!!](https://www.amazon.it/dp/B081DFG5F7/?tag=tolees00-21)
