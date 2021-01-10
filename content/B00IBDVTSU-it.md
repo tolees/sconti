@@ -25,11 +25,11 @@ Puoi trovare [Remington AC5999 Pro-Air AC Asciugacapelli Professionale  flusso d
 
 ℹ️:
 
+- Peso: 816 g
 - Asciugacapelli potente da 2300 W
 - Generatore di ioni: 90% di ioni in più per capelli più luminosi e liberi dall’effetto crespo
-- Potente flusso d’aria: 130 km/h
 - Colpo d’aria fredda per fissare la piega
-- Peso: 816 g
+- Potente flusso d’aria: 130 km/h
 - Con 2 concentratori e 1 diffusore
 
 [Acquista qui!!](https://www.amazon.it/dp/B00IBDVTSU/?tag=tolees00-21)
