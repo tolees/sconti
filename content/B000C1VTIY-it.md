@@ -25,7 +25,7 @@ average: '33.45333333333333'
 
 ℹ️:
 
-- 200 ml
 - EDT
+- 200 ml
 
 [Acquista qui!!](https://www.amazon.it/dp/B000C1VTIY/?tag=tolees00-21)
