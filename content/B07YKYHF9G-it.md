@@ -25,10 +25,10 @@ average: '69.49'
 
 ℹ️:
 
-- 【Volo Sicuro】Drone D18 dotato di funzione di autoprotezione, quando sorvola il raggio del telecomando o la batteria scarica, il drone entrerà in uno stato di autoprotezione, scenderà automaticamente lentamente, quindi non ti preoccupare di perdere il drone.
-- 【Due Batterie per Un Volo Più Lungo】Due batterie rimovibili ad alta capacità, comode da collegare e installare, che offrono al drone un massimo di 20 minuti (10 + 10 min). Allungare la tua esperienza di volo. Insieme a un cavo di ricarica USB.
 - 【Trasmissione WiFi di Immagini in Tempo Reale】Dotata di videocamera WiFi HD 1080P, il drone D18 registra senza indugio video in tempo reale. Drone selfie ideale per spararti dallaria, scattare foto di te ovunque tu vada.
-- 【Drone Pieghevole Facile da Trasportare】Design a bracci pieghevoli, comodo da portare allaperto. Decollo o atterraggio con una sola chiave, mantenimento dellaltitudine e modalità senza testa rendono il drone semplice da usare. Ottimo per principianti e fotografi.
 - 【Posizionamento del Flusso Ottico】Il flusso ottico è una funzione speciale che consente al drone di mantenere la sua posizione senza un giocatore che aziona il telecomando, quindi fa in modo che il drone volante segua sempre il giocatore.
+- 【Volo Sicuro】Drone D18 dotato di funzione di autoprotezione, quando sorvola il raggio del telecomando o la batteria scarica, il drone entrerà in uno stato di autoprotezione, scenderà automaticamente lentamente, quindi non ti preoccupare di perdere il drone.
+- 【Drone Pieghevole Facile da Trasportare】Design a bracci pieghevoli, comodo da portare allaperto. Decollo o atterraggio con una sola chiave, mantenimento dellaltitudine e modalità senza testa rendono il drone semplice da usare. Ottimo per principianti e fotografi.
+- 【Due Batterie per Un Volo Più Lungo】Due batterie rimovibili ad alta capacità, comode da collegare e installare, che offrono al drone un massimo di 20 minuti (10 + 10 min). Allungare la tua esperienza di volo. Insieme a un cavo di ricarica USB.
 
 [Acquista qui!!](https://www.amazon.it/dp/B07YKYHF9G/?tag=tolees00-21)
