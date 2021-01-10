@@ -25,8 +25,8 @@ Puoi trovare [Philips Lighting Seedling Lampada da Parete da Esterno  Rettangola
 
 ℹ️:
 
+- Lampadina inclusa
 - Design contemporaneo
 - Materiali di alta qualità
-- Lampadina inclusa
 
 [Acquista qui!!](https://www.amazon.it/dp/B00B45NW4Q/?tag=tolees00-21)

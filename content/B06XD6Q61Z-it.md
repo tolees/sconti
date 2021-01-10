@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.20 % su ACT Vita Multivitaminico - 30 Capsule  '
-date: 2021-01-06 18:10:49
+date: 2021-01-10 18:49:26
 image: 'https://m.media-amazon.com/images/I/51HENtZe01L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B06XD6Q61Z/?tag=tolees00-21'
 descuento: '36.20'
-average: '5.1975'
+average: '5.1659999999999995'
 ---
 
 [ACT Vita Multivitaminico - 30 Capsule](https://www.amazon.it/dp/B06XD6Q61Z/?tag=tolees00-21) ha un prezzo di 5.04 EUR (originale: 7.9 EUR) con uno sconto del 36.20 % sconto qui:
@@ -25,9 +25,9 @@ average: '5.1975'
 
 ℹ️:
 
-- Vita act multivitaminico è un mix di vitamine e minerali per il benessere quotidiano di tutta la famiglia
-- Vitamine del gruppo b e ferro contribuiscono al normale metabolismo energetico
 - Scopri la nostra vasta gamma di prodotti
+- Vitamine del gruppo b e ferro contribuiscono al normale metabolismo energetico
 - Formato compresse
+- Vita act multivitaminico è un mix di vitamine e minerali per il benessere quotidiano di tutta la famiglia
 
 [Acquista qui!!](https://www.amazon.it/dp/B06XD6Q61Z/?tag=tolees00-21)

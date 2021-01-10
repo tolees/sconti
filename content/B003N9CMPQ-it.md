@@ -25,8 +25,8 @@ average: '26.99'
 
 ℹ️:
 
-- Marca - Rubbermaid
 - Ref - R034721
 - Scaletta Pieghevole Polipropilene 2 Scalini 8605 - Rubbermaid
+- Marca - Rubbermaid
 
 [Acquista qui!!](https://www.amazon.it/dp/B003N9CMPQ/?tag=tolees00-21)

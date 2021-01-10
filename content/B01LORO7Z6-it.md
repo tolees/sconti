@@ -25,11 +25,11 @@ Puoi trovare [SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  fino a 90 MB/sec
 
 ℹ️:
 
-- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
-- Velocità ottime per scatti rapidi in modalità Burst, trasferimenti veloci di contenuti e 4K UHD
+- Velocità di scrittura fino a 40 MB/sec per rapide prestazioni di scatto continuo e fino a 90 MB/sec per veloci trasferimenti di dati
 - Offre inoltre la classe di velocità UHS 3 (U3) per la ripresa di filmati in Full HD e 4K UHD
 - Disponibile con capacità comprese fra 16 e 256 GB per riprese video di grande durata e sessioni di scatto in modalità continua
-- Velocità di scrittura fino a 40 MB/sec per rapide prestazioni di scatto continuo e fino a 90 MB/sec per veloci trasferimenti di dati
 - La classe di velocità video UHS 30 (V30) garantisce una scheda in grado di ottenere progressi nellambito della realtà virtuale e di riprendere video a 360°
+- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
+- Velocità ottime per scatti rapidi in modalità Burst, trasferimenti veloci di contenuti e 4K UHD
 
 [Acquista qui!!](https://www.amazon.it/dp/B01LORO7Z6/?tag=tolees00-21)
