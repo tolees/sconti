@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 19.39 % su Call of Duty. Black Ops Cold War - Xbox   '
-date: 2021-01-09 14:02:28
+date: 2021-01-10 15:15:31
 image: 'https://m.media-amazon.com/images/I/51IPdtnAAXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08JMJ9W9P/?tag=tolees00-21'
 descuento: '19.39'
-average: '69.77875'
+average: '69.46705882352941'
 ---
 
 [Call of Duty. Black Ops Cold War - Xbox Series X](https://www.amazon.it/dp/B08JMJ9W9P/?tag=tolees00-21) ha un prezzo di 64.48 EUR (originale: 79.99 EUR) con uno sconto del 19.39 % sconto qui:

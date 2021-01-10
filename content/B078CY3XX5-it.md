@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.07 % su Fila Disruptor  Scarpe da Ginnastica Bas  '
-date: 2021-01-09 14:42:26
+date: 2021-01-10 15:10:11
 image: 'https://m.media-amazon.com/images/I/41OB1NNanIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,6 +25,8 @@ average: '55.1605'
 
 ℹ️:
 
-- Materiale: eco pelle Colore: nero Chiusura: stringata Codice Modello Marchio: 1010302.25Y autunno inverno
+- Black
+- Erwachsene
+- another material
 
 [Acquista qui!!](https://www.amazon.it/dp/B078CY3XX5/?tag=tolees00-21)

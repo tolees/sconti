@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Monopattino Elettrico Essentia al 17.86 % di sconto'
-date: 2021-01-09 14:12:41
+date: 2021-01-10 15:47:05
 image: 'https://m.media-amazon.com/images/I/41WnQUASuLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,10 @@ Puoi trovare [Xiaomi Mi Monopattino Elettrico Essential  20 Km di Autonomia  Vel
 
 ℹ️:
 
-- Velocità massima: ca. 25 km/h; sofisticato sistema di controllo della velocità di crociera e recupero dell’energia cinetica (KERS)
-- Pneumatici antislittamento e ammortizzanti da 8.5 pollici; doppio sistema frenante
-- Display integrato per un comodo e veloce monitoraggio con velocità/batteria/km/modalità
-- Peso: 12 kg; peso massimo supportato: 100 kg
-- Durata della batteria: fino a 20 km
-- Temperatura di funzionamento: da -10° C a 40° C
+- Connect the Mi Electric Scooter Essential to the Mi Home app to check riding stats, battery status and to upgrade firmware
+- Minimalist controls with multi-functional dashboard, comfortable foam grip, sensitive hand throttle and one button for multiple functions
+- Fully upgraded kinetic energy recovery system (KERS): When braking or releasing the throttle while driving, the energy conversion is more efficient, further increasing battery life
+- 20 km/h battery life and 500 W maximum power with three speed modes
+- Easy to fold and easy to carry - 3 seconds fast folding with a folded height of just 49 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B089NR5WZ8/?tag=tolees00-21)

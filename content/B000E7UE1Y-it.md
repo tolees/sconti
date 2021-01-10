@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 42.80 % su Laura Biagiotti Roma Eau de Toilette  Uo  '
-date: 2021-01-09 14:00:39
+date: 2021-01-10 15:13:25
 image: 'https://m.media-amazon.com/images/I/41EY2WmRw0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B000E7UE1Y/?tag=tolees00-21'
 descuento: '42.80'
-average: '34.36909090909092'
+average: '34.35803571428573'
 ---
 
 [Laura Biagiotti Roma Eau de Toilette  Uomo  125 ml](https://www.amazon.it/dp/B000E7UE1Y/?tag=tolees00-21) ha un prezzo di 33.75 EUR (originale: 59.0 EUR) con uno sconto del 42.80 % sconto qui:
@@ -25,8 +25,8 @@ average: '34.36909090909092'
 
 ℹ️:
 
-- EDT
-- 125 ml
 - Uomo
+- 125 ml
+- EDT
 
 [Acquista qui!!](https://www.amazon.it/dp/B000E7UE1Y/?tag=tolees00-21)

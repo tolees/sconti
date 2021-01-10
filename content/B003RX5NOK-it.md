@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 47.69 % su Vans Atwood  Scarpe da Ginnastica Uomo    '
-date: 2021-01-09 14:25:25
+date: 2021-01-10 15:32:43
 image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003RX5NOK/?tag=tolees00-21'
 descuento: '47.69'
-average: '40.13186813186814'
+average: '40.06521739130435'
 ---
 
 [Vans Atwood  Scarpe da Ginnastica Uomo  Nero  Canvas  Black/Black  41 EU](https://www.amazon.it/dp/B003RX5NOK/?tag=tolees00-21) ha un prezzo di 34.0 EUR (originale: 65.0 EUR) con uno sconto del 47.69 % sconto qui:
@@ -25,10 +25,10 @@ average: '40.13186813186814'
 
 ℹ️:
 
-- Materiale suola: Gomma
+- Tipo di tacco: Senza tacco
+- Fodera: Tessuto
 - Materiale esterno: Sintetico
 - Chiusura: Stringata
-- Fodera: Tessuto
-- Tipo di tacco: Senza tacco
+- Materiale suola: Gomma
 
 [Acquista qui!!](https://www.amazon.it/dp/B003RX5NOK/?tag=tolees00-21)
