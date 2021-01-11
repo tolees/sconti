@@ -25,9 +25,9 @@ average: '11.4'
 
 ℹ️:
 
-- Pregiate fragranze che durano più a lungo rispetto a Coccolino Diluito
 - Creato con esperti profumieri
 - Ammorbidente concentrato
+- Pregiate fragranze che durano più a lungo rispetto a Coccolino Diluito
 - Scegli la dose giusta utilizzando il tappo dosatore
 
 [Acquista qui!!](https://www.amazon.it/dp/B084K1X7NC/?tag=tolees00-21)

@@ -25,9 +25,9 @@ average: '9.882022471910117'
 
 ℹ️:
 
+- Divertimento garantito per i piccoli supereroi con le loro minifigure preferite e le barche giocattolo
 - Include le minifigure di Batman e The Penguin, la Bat-barca e la barcanatra del Pinguino
 - Un piccolo modello per bambini, ottimo per giocare, ma anche da esporre nella cameretta
-- Divertimento garantito per i piccoli supereroi con le loro minifigure preferite e le barche giocattolo
 - Lo speciale Starter Brick dei set LEGO permette ai bambini dai 4 anni in su di iniziare subito a divertirsi
 - Un’ottima idea regalo di Natale o di compleanno per bambini in età prescolare e dai 4 anni in su
 
