@@ -25,9 +25,9 @@ Puoi trovare [Alessi MDL04 Cabin  Scatola Portaoggetti in Legno di bambù  6.7 x
 
 ℹ️:
 
+- Solo lavaggio a mano
+- Ottima come idea regalo
 - Designer: Michele De Lucchi
 - Prodotto di qualità ottimale
-- Ottima come idea regalo
-- Solo lavaggio a mano
 
 [Acquista qui!!](https://www.amazon.it/dp/B01DWHNS42/?tag=tolees00-21)

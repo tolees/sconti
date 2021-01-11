@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 16.67 % su Di4 Steamclean Multi10  Scopa elettrica   '
-date: 2020-10-03 23:25:22
+date: 2021-01-11 11:52:29
 image: 'https://m.media-amazon.com/images/I/41DaaXiFs6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,10 @@ average: '49.99'
 
 ℹ️:
 
+- Autonomia illimitata
+- Pronta in 10 secondi
+- 1500 w di potenza
+- 10 accessori di pulizia
+- Capacità di 380 ml
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KBC1STN/?tag=tolees00-21)

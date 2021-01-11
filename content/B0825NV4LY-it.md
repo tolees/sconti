@@ -25,11 +25,11 @@ Puoi trovare [Geox U Nebula A  Scarpe da Ginnastica Uomo  Navy Octane  42 EU](ht
 
 ℹ️:
 
-- Larghezza scarpa: Normale
-- Chiusura: Stringata
-- Materiale esterno: Pelle
+- Altezza tacco: 3.5 cm
 - Materiale suola: Sintetico
 - Fodera: Sintetico
-- Altezza tacco: 3.5 cm
+- Materiale esterno: Pelle
+- Chiusura: Stringata
+- Larghezza scarpa: Normale
 
 [Acquista qui!!](https://www.amazon.it/dp/B0825NV4LY/?tag=tolees00-21)
