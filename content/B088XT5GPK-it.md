@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.00 % su ASICS Gel-Cumulus 22  Scarpe da Corsa Uo  '
-date: 2021-01-02 23:45:21
+date: 2021-01-11 21:53:18
 image: 'https://m.media-amazon.com/images/I/51O6zUqx-KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ average: '84.0'
 
 ℹ️:
 
+- Intersuola con tecnologia FLYTEFOAM
 - Scarpe da running
 - Tomaia in mesh
-- Intersuola con tecnologia FLYTEFOAM
 
 [Acquista qui!!](https://www.amazon.it/dp/B088XT5GPK/?tag=tolees00-21)

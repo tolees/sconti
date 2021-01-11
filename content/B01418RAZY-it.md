@@ -25,9 +25,9 @@ Puoi trovare [Fenix Torcia LD22- 300 Lumens - Edizione 2016 a Led Compatta](http
 
 ℹ️:
 
-- Spare o-ring
-- Holster
 - Pocket clip
+- Holster
+- Spare o-ring
 - Lanyard
 - Retail packaged Fenix LD22 2015
 
