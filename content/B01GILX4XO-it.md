@@ -25,8 +25,8 @@ Puoi trovare [Calvin Klein Damen Bustier Bralette Lift  Grau  Grey Heather 020  
 
 ℹ️:
 
-- Fascia sottoseno a contrasto elastica di supporto
 - Classica fascia elastica sottoseno Calvin Klein
+- Fascia sottoseno a contrasto elastica di supporto
 - Coppe imbottite senza cuciture
 - Spalline incrociate sul retro
 

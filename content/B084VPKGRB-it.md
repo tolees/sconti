@@ -25,9 +25,9 @@ Puoi trovare [2 KG + 1 KG IN REGALO CAFFE  IN GRANI MISCELA CREMA BAR POP CAFFE 
 
 ℹ️:
 
-- Selezione dei migliori chicchi di caffè , direttamente nelle zone di produzione , composto da una miscela di arabica lavate e robusta naturale
-- Tostatura lenta e a regola darte
-- 3 Buste da 1 kg
 - Miscela bar
+- Selezione dei migliori chicchi di caffè , direttamente nelle zone di produzione , composto da una miscela di arabica lavate e robusta naturale
+- 3 Buste da 1 kg
+- Tostatura lenta e a regola darte
 
 [Acquista qui!!](https://www.amazon.it/dp/B084VPKGRB/?tag=tolees00-21)

@@ -25,9 +25,9 @@ average: '41.418571428571425'
 
 ℹ️:
 
-- Sprigiona La Potenza Divina Gli Dèi Olimpici Ti Hanno Concesso Dei Poteri Speciali. Usali Per Fronteggiare I Nemici Ed Esplorare La Terra E Il Cielo
 - Tuffati In Un Mondo Pittoresco. Vivi UnAvventura Che Ti Porterà Alla Scoperta Di Un Mondo Aperto Spettacolare E Ricco Di Sorprese
-- Affronta Bestie Mitologiche. Metti Alla Prova Le Tue Abilità Di Combattimento Contro Avversari Mitici Come Gorgoni, Idre E Ciclopi
 -  Salva Gli Dèi Gli Dèi Sono Caduti Nelle Mani Della Più Letale Tra Le Creature Mitologiche Greche, Tifone. Parti Per Un Epico Viaggio E Aiuta Li A Recuperare I Loro Poteri.
+- Affronta Bestie Mitologiche. Metti Alla Prova Le Tue Abilità Di Combattimento Contro Avversari Mitici Come Gorgoni, Idre E Ciclopi
+- Sprigiona La Potenza Divina Gli Dèi Olimpici Ti Hanno Concesso Dei Poteri Speciali. Usali Per Fronteggiare I Nemici Ed Esplorare La Terra E Il Cielo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07T4JWC3T/?tag=tolees00-21)

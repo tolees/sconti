@@ -26,9 +26,9 @@ Puoi trovare [TP-Link TL-SG108 Switch 8 Porte Gigabit  10/100/1000 Mbps  Plug & 
 ℹ️:
 
 - Guscio in acciaio, predisposto per linstallazione sul desktop o a parete
-- Plug and play, nessuna configurazione richiesta
 - ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
-- 8 porte RJ45 Gigabit con auto-negoziazione, supporta auto MDI / MDIX
 - Spegnimento automatico delle porte inutilizzate per risparmiare energia
+- Plug and play, nessuna configurazione richiesta
+- 8 porte RJ45 Gigabit con auto-negoziazione, supporta auto MDI / MDIX
 
 [Acquista qui!!](https://www.amazon.it/dp/B01EXDG2MO/?tag=tolees00-21)
