@@ -25,8 +25,8 @@ average: '22.0'
 
 ℹ️:
 
-- Caramella mou, caffè, liquirizia, fava tonka, note di legno; ricco e bilanciato
 - Bottiglia da 700 ml
 - Un rum con spiccate doti di bourbon
+- Caramella mou, caffè, liquirizia, fava tonka, note di legno; ricco e bilanciato
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MXDFCKT/?tag=tolees00-21)
