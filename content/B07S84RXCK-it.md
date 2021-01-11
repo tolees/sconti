@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CONTROL Profilattici - 24 pezzi al 42.73 % di sconto'
-date: 2020-12-30 13:48:18
+date: 2021-01-11 07:51:55
 image: 'https://m.media-amazon.com/images/I/41fFqYirV4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07S84RXCK/?tag=tolees00-21'
 descuento: '42.73'
-average: '14.073333333333332'
+average: '14.12'
 ---
 
 Puoi trovare [CONTROL Profilattici - 24 pezzi](https://www.amazon.it/dp/B07S84RXCK/?tag=tolees00-21) con il prezzo 14.26 EUR (originale: 24.9 EUR) 42.73 % sconto qui:
