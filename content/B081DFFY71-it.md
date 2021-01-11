@@ -28,7 +28,7 @@ average: '3.319999999999999'
 - Insalata pronta con 5 cereali e tonno per chi ama i sapori autentici, il gusto del tonno è arricchito dalle olive verdi e il gusto deciso dellolio extra vergine doliva
 - Formato: confezione da 1 lattina da 220 g con forchettina
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
-- Ingredienti: tonno* 23%, orzo 18%, olio di semi di mais, farro 7%, fagioli, carote, olive verdi 4%, piselli, olio extra vergine di oliva, avena 3%, grano duro 3%, grano saraceno 3%, grano tenero 1%, succo di limone, sale, aromi naturali di timo e pepe. *Euthynnus (Katsuwonus) pelamis
 - Consigli uso: una ricetta fresca e gustosa dai sentori di rosmarino e limone, da gustare in qualsiasi occasione grazie alla confezione salva sapore che ne preserva la freschezza
+- Ingredienti: tonno* 23%, orzo 18%, olio di semi di mais, farro 7%, fagioli, carote, olive verdi 4%, piselli, olio extra vergine di oliva, avena 3%, grano duro 3%, grano saraceno 3%, grano tenero 1%, succo di limone, sale, aromi naturali di timo e pepe. *Euthynnus (Katsuwonus) pelamis
 
 [Acquista qui!!](https://www.amazon.it/dp/B081DFFY71/?tag=tolees00-21)

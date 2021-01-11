@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.52 % su Pinypon - Auto 5 2020  700015652  '
-date: 2021-01-10 03:17:37
+date: 2021-01-11 16:47:39
 image: 'https://m.media-amazon.com/images/I/41kpBGJi+sL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B085FSGL1T/?tag=tolees00-21'
 descuento: '36.52'
-average: '10.27'
+average: '10.1725'
 ---
 
 [Pinypon - Auto 5 2020  700015652](https://www.amazon.it/dp/B085FSGL1T/?tag=tolees00-21) ha un prezzo di 9.49 EUR (originale: 14.95 EUR) con uno sconto del 36.52 % sconto qui:

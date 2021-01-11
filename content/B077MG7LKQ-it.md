@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.94 % su PUMA Smash V2  Scarpe da Ginnastica Unis  '
-date: 2021-01-10 15:49:10
+date: 2021-01-11 16:35:55
 image: 'https://m.media-amazon.com/images/I/41ztqae-fAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ average: '37.95'
 
 ℹ️:
 
-- Materiale esterno: pelle
 - Materiale suola: gomma
-- Pelle
+- Materiale esterno: pelle
 - Fodera: maglia
+- Pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B077MG7LKQ/?tag=tolees00-21)
