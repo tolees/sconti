@@ -25,10 +25,10 @@ average: '33.9'
 
 ℹ️:
 
-- Fermaglio toracico regolabile, morbidi spallacci imbottiti e schienale ventilato per un maggiore comfort nel trasporto
-- Tasca protettiva facilmente accessibile per conservare in piena sicurezza occhiali e accessori (gaming); fondo impermeabile e parapioggia integrato
-- Porta ricarica usb integrata, per ricaricare il telefono mentre si è in giro (occorre un powerbank e un cavo di ricarica usb, non in dotazione)
-- Scomparto per laptop imbottito sovradimensionato per laptop fino a 15.6”; robusto scudo anteriore sagomato per una protezione ancora maggiore
 - 4 scomparti dedicati, per trasportare in piena sicurezza mouse, cuffie, tablet e altri accessori. 2 tasche laterali in rete per un facile accesso
+- Tasca protettiva facilmente accessibile per conservare in piena sicurezza occhiali e accessori (gaming); fondo impermeabile e parapioggia integrato
+- Fermaglio toracico regolabile, morbidi spallacci imbottiti e schienale ventilato per un maggiore comfort nel trasporto
+- Scomparto per laptop imbottito sovradimensionato per laptop fino a 15.6”; robusto scudo anteriore sagomato per una protezione ancora maggiore
+- Porta ricarica usb integrata, per ricaricare il telefono mentre si è in giro (occorre un powerbank e un cavo di ricarica usb, non in dotazione)
 
 [Acquista qui!!](https://www.amazon.it/dp/B07TX98K3V/?tag=tolees00-21)
