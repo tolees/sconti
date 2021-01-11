@@ -27,7 +27,7 @@ Puoi trovare [Orologio digitale a LED KIDDUS per bambini  ragazze  adulti. Cintu
 
 - ORA E DATA DIGITALI, divertenti e facili da usare per bambini, ragazzi e adulti. Premi il pulsante principale per lora e premi di nuovo per vedere la data!
 - ACQUISTI SENZA PENSIERI: Poiché i nostri prodotti vengono rigorosamente testati e realizzati con grande amore, siamo totalmente certi della loro alta qualità. Offriamo pertanto una GARANZIA DI RIMBORSO incondizionato a 30 giorni, nonché una garanzia a 12 mesi. Anche se lo date ad altri, la copertura è comunque valida! Per qualsiasi problema o altro riguardante l’orologio, contattateci e saremo lieto di offrirvi tutta l’assistenza possibile.
-- DISEGNI ORIGINALI by Kiddus per i bambini. Il tuo figlio sorriderà ogni volta che guarda lorologio. Regalo ideale per Natale, compleanno, ...
 - BATTERIA GIAPPONESE INCLUSA, utilizziamo batterie di buona qualità e di lunga durata. Ti godrai il nostro orologio a lungo e sono FACILMENTE SOSTITUIBILI. Il cinturino in silicone ultra sottile e morbido è molto comodo da indossare al polso. Peso ultra leggero. Adatto a polsi dai 15 ai 22 cm.
+- DISEGNI ORIGINALI by Kiddus per i bambini. Il tuo figlio sorriderà ogni volta che guarda lorologio. Regalo ideale per Natale, compleanno, ...
 
 [Acquista qui!!](https://www.amazon.it/dp/B01N6UU7Z6/?tag=tolees00-21)

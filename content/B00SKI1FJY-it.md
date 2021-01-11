@@ -25,9 +25,9 @@ average: '19.99'
 
 ℹ️:
 
+- Mouse touchpad multi-touch con sensibilità regolabile e funzione scorrimento pagina
 - Retroilluminazione a LED. Tasti multimediali e tasti speciali per le applicazioni. Tasti in gomma antiscivolo
 - Design ergonomico. Ricevitore USB Wireless RF 2.4 GHz riponibile a scomparsa in uno scompartimento della tastiera
-- Mouse touchpad multi-touch con sensibilità regolabile e funzione scorrimento pagina
 - Batteria al litio ricaribabile con cavo USB incluso in dotazione. Indicatori LED per livello batteria, ricarica e segnale
 - Mini tastiera wireless retroilluminata con layout ITALIANO. LUNICA E ORIGINALE, DIFFIDATE DALLE IMITAZIONI CINESI
 
