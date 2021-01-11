@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.68 % su D-Link DGS-105 Switch 5 Porte Gigabit  S  '
-date: 2021-01-10 03:00:59
+date: 2021-01-11 03:04:27
 image: 'https://m.media-amazon.com/images/I/3147mnzyuGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ average: '18.99'
 
 ℹ️:
 
-- Code Quality of Service (QoS) per prioritizzazione del traffico e prestazioni ottimali di trasmissione di contenuti multimediali e chiamate VoIP
-- Switch 5 porte Gigabit Ethernet per velocità di trasmissione più rapide
 - Architettura non bloccante: velocità massima simultanea su tutte le porte. Funzionamento silenzioso senza ventola, adatto a qualsiasi ambiente
 - Robusto alloggiamento metallico del prodotto: adatto per impiego in ambienti industriali tipici come fabbriche e cantieri. Provvisto di uno slot per un lucchetto di sicurezza Kensington per consentire il posizionamento dello switch in vari punti
+- Code Quality of Service (QoS) per prioritizzazione del traffico e prestazioni ottimali di trasmissione di contenuti multimediali e chiamate VoIP
+- Switch 5 porte Gigabit Ethernet per velocità di trasmissione più rapide
 
 [Acquista qui!!](https://www.amazon.it/dp/B000BC7QMM/?tag=tolees00-21)

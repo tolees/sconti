@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 47.75 % su Reebok CLASSIC LEATHER  Scarpe da fitnes  '
-date: 2021-01-10 03:04:16
+date: 2021-01-11 03:10:18
 image: 'https://m.media-amazon.com/images/I/41C2oSsCT4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21'
 descuento: '47.75'
-average: '50.119090909090914'
+average: '49.63923076923078'
 ---
 
 [Reebok CLASSIC LEATHER  Scarpe da fitness Uomo  Nero  43 EU](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21) ha un prezzo di 47.0 EUR (originale: 89.95 EUR) con uno sconto del 47.75 % sconto qui:
