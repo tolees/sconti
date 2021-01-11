@@ -25,7 +25,7 @@ average: '69.19'
 
 ℹ️:
 
-- Call of Duty: Black Ops Cold War
 - Videogioco
+- Call of Duty: Black Ops Cold War
 
 [Acquista qui!!](https://www.amazon.it/dp/B08JMJ9W9P/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Puoi trovare [Pentel Energel XM Click BLN75 0 5 mm nero taschina  4 pz](https://
 
 ℹ️:
 
-- Meccanismo a scatto
-- Asciugatura istantanea, indicato per i mancini
-- Punta 0,5 mm
-- Disponibile in vari colori
 - Scrittura ultrascorrevole
+- Punta 0,5 mm
+- Meccanismo a scatto
+- Disponibile in vari colori
+- Asciugatura istantanea, indicato per i mancini
 
 [Acquista qui!!](https://www.amazon.it/dp/B00QKD72SE/?tag=tolees00-21)

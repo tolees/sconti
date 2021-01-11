@@ -27,8 +27,8 @@ Puoi trovare [Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero 
 
 - Articolo: T-shirt
 - Brand: CALVIN KLEIN
+- Modello: J20J207879
 - Colore: Nero
 - Stagione: Primavera/Estate
-- Modello: J20J207879
 
 [Acquista qui!!](https://www.amazon.it/dp/B07GR8ZJQL/?tag=tolees00-21)

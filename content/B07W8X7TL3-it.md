@@ -26,7 +26,7 @@ average: '10.9'
 ℹ️:
 
 - Prodotto ufficiale disney
-- Oppia asciugamano cm.55x100 + ospite cm.30x50
 - 100% cotone morbido
+- Oppia asciugamano cm.55x100 + ospite cm.30x50
 
 [Acquista qui!!](https://www.amazon.it/dp/B07W8X7TL3/?tag=tolees00-21)

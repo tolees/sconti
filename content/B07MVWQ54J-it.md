@@ -25,10 +25,10 @@ Puoi trovare [Meliconi Control TV.1 Telecomando Universale  per TV standard e pe
 
 ℹ️:
 
-- Detailed new design & excellent usability (large keys)
-- 100% Italian telephone technical support - specialised in Meliconi remote controls and electronic products
 - Full web support (code search program with advanced features, video guide, full instructions) available from PC Smartphone and Tablet
 - Support even via SMS
+- 100% Italian telephone technical support - specialised in Meliconi remote controls and electronic products
+- Detailed new design & excellent usability (large keys)
 - Easy to program (quick guide included)
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MVWQ54J/?tag=tolees00-21)

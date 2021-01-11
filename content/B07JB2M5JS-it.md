@@ -26,8 +26,8 @@ average: '257.0330434782607'
 ℹ️:
 
 - Dimensioni prodotto 11.7 x 11.2 x 5.1 cm
-- Dimensione memoria massima (in base al tipo di memoria) 32 GB
 - Tipologia di memoria computer SODIMM
 - Coprocessore grafico Iris Plus Graphics 655
+- Dimensione memoria massima (in base al tipo di memoria) 32 GB
 
 [Acquista qui!!](https://www.amazon.it/dp/B07JB2M5JS/?tag=tolees00-21)

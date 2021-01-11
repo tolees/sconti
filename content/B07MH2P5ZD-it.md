@@ -25,11 +25,11 @@ average: '82.34863636363637'
 
 ℹ️:
 
+- Prestazioni di lettura sequenziali: 3430MB/s
+- Prestazioni di scrittura sequenziali: 2600MB/s
 - Disponibile con capacità comprese fra 250 GB e 1 TB
 - Design lineare per personalizzare i dispositivi di gioco
 - Il dashboard della SSD WD Black ottimizza le prestazioni di gioco
-- Prestazioni di scrittura sequenziali: 2600MB/s
 - Velocità di trasferimento fino a 3.470 MB/sec per tempi di caricamento più rapidi
-- Prestazioni di lettura sequenziali: 3430MB/s
 
 [Acquista qui!!](https://www.amazon.it/dp/B07MH2P5ZD/?tag=tolees00-21)

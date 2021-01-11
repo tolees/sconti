@@ -25,8 +25,8 @@ average: '55.92296296296297'
 
 ℹ️:
 
-- Nero
 - Cuoio
 - Eton Cc And Coin Pocket
+- Nero
 
 [Acquista qui!!](https://www.amazon.it/dp/B00X0W9WZY/?tag=tolees00-21)
