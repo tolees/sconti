@@ -26,8 +26,8 @@ Puoi trovare [TIGI Bed Head After Party Crema Lisciante  per Capelli Setosi  Lum
 ℹ️:
 
 - Capelli setosi, luminosi e dall’aspetto sano
+- Crema leggera e profumata ottima come base per lo styling
 - Capelli morbidi e soffici
 - Controllo delle ciocche ribelli e anti crespo
-- Crema leggera e profumata ottima come base per lo styling
 
 [Acquista qui!!](https://www.amazon.it/dp/B00WJ0WEEE/?tag=tolees00-21)

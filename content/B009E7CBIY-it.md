@@ -25,10 +25,10 @@ average: '29.9'
 
 ℹ️:
 
-- 5 testine intercambiabili: normal, sensitive, peeling, activation e micromassage
 - Ottima per detergere e riattivare la pelle in profondità e per trattamenti scrub e micromassaggio
 - Spazzola per la pulizia del viso con tecnologia a Vibrazione Sonica con micro oscillazioni costanti che agiscono in profondità e purificano la pelle
-- Un uso costante del prodotto consente risultati visibili che durano nel tempo; pelle più compatta, luminosa e levigata
 - Water resistant: spazzola viso utilizzabile anche sotto la doccia
+- 5 testine intercambiabili: normal, sensitive, peeling, activation e micromassage
+- Un uso costante del prodotto consente risultati visibili che durano nel tempo; pelle più compatta, luminosa e levigata
 
 [Acquista qui!!](https://www.amazon.it/dp/B009E7CBIY/?tag=tolees00-21)

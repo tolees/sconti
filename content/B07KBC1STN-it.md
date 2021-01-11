@@ -25,10 +25,10 @@ average: '49.99'
 
 ℹ️:
 
-- Autonomia illimitata
-- Pronta in 10 secondi
 - 1500 w di potenza
-- 10 accessori di pulizia
+- Pronta in 10 secondi
 - Capacità di 380 ml
+- Autonomia illimitata
+- 10 accessori di pulizia
 
 [Acquista qui!!](https://www.amazon.it/dp/B07KBC1STN/?tag=tolees00-21)
