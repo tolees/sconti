@@ -26,9 +26,9 @@ average: '15.989999999999998'
 ℹ️:
 
 - ▲ [Note] - Il porta-punte di estensione deve essere usato per le punte di grandi dimensioni 6,35 mm (# 1~4), ladattatore per quelli piccoli da 4mm (# 5~8) e ladattatore può essere installato nel supporto della prolunga quando necessario; La punta del trapano ha il suo estrattore su misura, per favore si prega di non mescolarli; Si prega di regolare il trapano alla velocità più bassa durante lestrazione, meno di 400 RPM sarà sufficiente
-- ▲ [Fornitura di Raccordi di Buona Qualità] - Il porta punte di prolunga (6,35 mm) e ladattatore per la presa (4 mm) del set di smontaggio per viti si adatta a tutti i trapani elettrici di qualsiasi marca; Il magnetismo allinterno del supporto e delladattatore evita che le punte cadano, quindi potete lavorare tranquillamente con bulloni o viti
 - ▲ [Qualità Adeguata] - Materiale S2 con massima protezione dalla ruggine e dalla corrosione, la durezza può raggiungere i 62 HRC per resistenza, flessibilità e durata; Le dentellature sullestrattore (pinza) producono una forza maggiore per i bulloni difficili da rimuovere
-- ▲ [Livello Industriale] - Il set di estrattori per viti danneggiati Tacklife 18pcs offre una maggiore possibilità di estrazione per più viti rotte o bulloni di dimensioni diverse (2-12 mm) e le punte autofilettanti possono lavorare su tagli irregolari irregolari e frastagliati
+- ▲ [Fornitura di Raccordi di Buona Qualità] - Il porta punte di prolunga (6,35 mm) e ladattatore per la presa (4 mm) del set di smontaggio per viti si adatta a tutti i trapani elettrici di qualsiasi marca; Il magnetismo allinterno del supporto e delladattatore evita che le punte cadano, quindi potete lavorare tranquillamente con bulloni o viti
 - ▲ [Design Intelligente] - Lavorando a un supporto per punte di estensione e un adattatore per presa, le punte di brunitura e quelle di estrazione progettati separatamente consentono modifiche casuali senza problemi, senza perdere tempo e con il minimo sforzo di lavoro
+- ▲ [Livello Industriale] - Il set di estrattori per viti danneggiati Tacklife 18pcs offre una maggiore possibilità di estrazione per più viti rotte o bulloni di dimensioni diverse (2-12 mm) e le punte autofilettanti possono lavorare su tagli irregolari irregolari e frastagliati
 
 [Acquista qui!!](https://www.amazon.it/dp/B07GDDXLVK/?tag=tolees00-21)
