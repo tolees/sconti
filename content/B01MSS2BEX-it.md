@@ -25,8 +25,8 @@ Puoi trovare [Claudio Baglioni  gli Anni RCA - Edizione Numerata 500 pezzi [10 L
 
 ℹ️:
 
+- Claudio
 - Baglioni
 - Baglioni, Claudio
-- Claudio
 
 [Acquista qui!!](https://www.amazon.it/dp/B01MSS2BEX/?tag=tolees00-21)

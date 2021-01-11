@@ -25,8 +25,8 @@ Puoi trovare [Caffè Borbone Caffè in Grani Miscela Rossa - 1000 gr](https://ww
 
 ℹ️:
 
-- Caffè in Grani
 - Miscela Rossa
 - Confezione da 1 pezzo
+- Caffè in Grani
 
 [Acquista qui!!](https://www.amazon.it/dp/B00C6HIMFK/?tag=tolees00-21)
