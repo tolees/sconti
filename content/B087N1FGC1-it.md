@@ -25,9 +25,9 @@ average: '70.86333333333333'
 
 ℹ️:
 
-- Alta 12cm ed inserita allinterno di una scatola trasparente da collezione
-- Scopri tutte le altre statuine Harry Potter di Funko e collezionale tutte!
 - Uniconica statuina Pop! Rides di Harry Potter, Dragon w/Harry, Ron, & Hermione di Funko
+- Scopri tutte le altre statuine Harry Potter di Funko e collezionale tutte!
+- Alta 12cm ed inserita allinterno di una scatola trasparente da collezione
 - Funko POP! è il giocattolo dellanno 2018!
 
 [Acquista qui!!](https://www.amazon.it/dp/B087N1FGC1/?tag=tolees00-21)

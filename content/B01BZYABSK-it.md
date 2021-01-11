@@ -25,7 +25,7 @@ average: '49.63923076923078'
 
 ℹ️:
 
-- Suola in gomma e soletta in poliuretano sagomato
 - La scarpa ha unintersuola in eva fustellata e un logo Reebok in grigio
+- Suola in gomma e soletta in poliuretano sagomato
 
 [Acquista qui!!](https://www.amazon.it/dp/B01BZYABSK/?tag=tolees00-21)
