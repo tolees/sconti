@@ -25,15 +25,15 @@ average: '8.184285714285714'
 
 ℹ️:
 
-- Nel LEGO Group, sottoponiamo i mattoncini e gli elementi LEGO City a numerosi test - caduta, schiacciamento, ecc. - per garantire che ogni set soddisfi elevati standard globali di sicurezza e qualità
-- I bambini possono combinare i personaggi e i modelli in questo set di costruzione Unità cinofila della polizia LEGO City con altri set per realizzare le proprie creazioni con cui giocare o da esporre
-- Questo giocattolo è un’introduzione ottimo al mondo di LEGO City; ottimo per i bambini dai 4 anni in su, il set è stato progettato per ispirare un gioco di ruolo immaginario e aperto
+- Cosa c’è nella scatola? Unauto della polizia giocattolo con spazio per l’agente di polizia e il suo cane poliziotto, una gioielleria con gemme e un ladro con un piede di porco e un sacco per bottino
+- I set di costruzione giocattolo LEGO City soddisfano elevati standard del settore, assicurando che questi divertenti giocattoli possano essere montati e smontati facilmente ogni volta
 - Questo set di polizia giocattolo contiene una guida alla costruzione stampata e le Instructions PLUS, una guida interattiva; disponibile nell’app LEGO Life gratuita per dispositivi smart
-- I set della polizia LEGO City contengono edifici ricchi di funzionalità, veicoli e personaggi che stimolano il gioco di ruolo mentre i bambini creano avventure senza limiti in scenari realistici
+- L’auto della polizia giocattolo misura 5 cm altezza, 9 cm lunghezza e 5 cm larghezza e ha spazio per l’agente e il suo cane; la gioielleria misura 6 cm altezza, 4 cm larghezza e 3 cm profondità
+- I bambini possono combinare i personaggi e i modelli in questo set di costruzione Unità cinofila della polizia LEGO City con altri set per realizzare le proprie creazioni con cui giocare o da esporre
 - I set LEGO 4+ offrono ai bambini uno strumento divertente per apprendere l’arte della costruzione LEGO; con speciali starter brick e le semplici guide di costruzione stampate
 - L’Unità cinofila della polizia per i bambini non richiede batterie, e quindi il gioco può iniziare subito
-- I set di costruzione giocattolo LEGO City soddisfano elevati standard del settore, assicurando che questi divertenti giocattoli possano essere montati e smontati facilmente ogni volta
-- L’auto della polizia giocattolo misura 5 cm altezza, 9 cm lunghezza e 5 cm larghezza e ha spazio per l’agente e il suo cane; la gioielleria misura 6 cm altezza, 4 cm larghezza e 3 cm profondità
-- Cosa c’è nella scatola? Unauto della polizia giocattolo con spazio per l’agente di polizia e il suo cane poliziotto, una gioielleria con gemme e un ladro con un piede di porco e un sacco per bottino
+- I set della polizia LEGO City contengono edifici ricchi di funzionalità, veicoli e personaggi che stimolano il gioco di ruolo mentre i bambini creano avventure senza limiti in scenari realistici
+- Questo giocattolo è un’introduzione ottimo al mondo di LEGO City; ottimo per i bambini dai 4 anni in su, il set è stato progettato per ispirare un gioco di ruolo immaginario e aperto
+- Nel LEGO Group, sottoponiamo i mattoncini e gli elementi LEGO City a numerosi test - caduta, schiacciamento, ecc. - per garantire che ogni set soddisfi elevati standard globali di sicurezza e qualità
 
 [Acquista qui!!](https://www.amazon.it/dp/B07WLJJX7R/?tag=tolees00-21)
