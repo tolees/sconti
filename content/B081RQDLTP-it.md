@@ -27,8 +27,8 @@ average: '13.385'
 
 - Gli iconici cioccolatini dallincarto stellato che custodiscono un messaggio damore e daffetto
 - Ricetta semplice con solo 8 ingredienti selezionati
-- Senza glutine
 - Cioccolatini ripieni al gianduia e nocciola con una doppia copertura al cioccolato fondente
 - Scatola regalo da 200g 16 cioccolatini
+- Senza glutine
 
 [Acquista qui!!](https://www.amazon.it/dp/B081RQDLTP/?tag=tolees00-21)

@@ -25,9 +25,9 @@ average: '11.23'
 
 ℹ️:
 
-- Prodotto in Italia
-- 2 buste da 1000 g
-- Caffè naturale al 100%, tostato in Italia
 - Espresso di alta qualità direttamente a casa
+- Prodotto in Italia
+- Caffè naturale al 100%, tostato in Italia
+- 2 buste da 1000 g
 
 [Acquista qui!!](https://www.amazon.it/dp/B07X11WZJZ/?tag=tolees00-21)
