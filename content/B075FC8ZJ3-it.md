@@ -25,12 +25,12 @@ average: '26.99'
 
 ℹ️:
 
-- Spia luminosa che indica quando il bollitore è in funzione
-- Design in metallo elegante e compatto, con corpo principale in acciaio inox spazzolato per uso affidabile e duraturo nel tempo; Materiale dellinterruttore - Polipropilene (PP)
-- Senza filo e con base girevole a 360 gradi
-- Assorbimento 1850 - 2200 W e capacità di 1,7 L
-- Filtro con micro-trama rimovibile per catturare le più piccole particelle di calcare
 - Coperchio a molla per una facile apertura
+- Senza filo e con base girevole a 360 gradi
+- Design in metallo elegante e compatto, con corpo principale in acciaio inox spazzolato per uso affidabile e duraturo nel tempo; Materiale dellinterruttore - Polipropilene (PP)
+- Assorbimento 1850 - 2200 W e capacità di 1,7 L
+- Spia luminosa che indica quando il bollitore è in funzione
+- Filtro con micro-trama rimovibile per catturare le più piccole particelle di calcare
 - Indicatore del livello dellacqua sotto limpugnatura
 
 [Acquista qui!!](https://www.amazon.it/dp/B075FC8ZJ3/?tag=tolees00-21)
