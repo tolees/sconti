@@ -25,11 +25,11 @@ Puoi trovare [IBILI 789300 - Vassoio Girevole in plastica](https://www.amazon.it
 
 ℹ️:
 
-- Garanzia: 2 anno (S)
-- Progettata per facilitare i lavori di pasticceria e di dolciumi.
+- Rotazione nei 2 sensi.
 - Materiale: Plastica
 - Altezza: 5 cm
-- Rotazione nei 2 sensi.
+- Progettata per facilitare i lavori di pasticceria e di dolciumi.
+- Garanzia: 2 anno (S)
 - Diametro: 31 cm
 
 [Acquista qui!!](https://www.amazon.it/dp/B00HEMARLE/?tag=tolees00-21)

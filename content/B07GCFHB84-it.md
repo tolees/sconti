@@ -25,10 +25,10 @@ Puoi trovare [Camper Atom Work  Scarpe Stringate Derby Uomo  Nero  Black 001    
 
 ℹ️:
 
-- Fodera:
 - Colore: nero
 - 75% Poliestere 10% Tessuto (65% Nylon - 35% Poliuretano) 10% Sintetico (70% Poliuretano - 30% Poliestere) 5% Sintetico
-- Tomaia: Pelle (Pelle di vitello)
 - Suola/Caratteristiche: EVA per la massima leggerezza
+- Tomaia: Pelle (Pelle di vitello)
+- Fodera:
 
 [Acquista qui!!](https://www.amazon.it/dp/B07GCFHB84/?tag=tolees00-21)
