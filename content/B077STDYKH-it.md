@@ -26,8 +26,8 @@ average: '124.5'
 ℹ️:
 
 - Cassa da 36 mm, larghezza del cinturino di 16 mm, cristallo minerale, movimento al quarzo con display analogico a due sfere
-- Cassa rotonda in acciaio tonalità argento con quadrante bianco
 - Bracciale in acciaio tonalità argento
+- Cassa rotonda in acciaio tonalità argento con quadrante bianco
 - Imballato in una confezione regalo Michael Kors
 - Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 

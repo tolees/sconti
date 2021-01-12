@@ -25,9 +25,9 @@ average: '179.13851063829784'
 
 ℹ️:
 
-- Frequenza fino a 2.0 ghz
-- Processore octa-core mediatek helio g85; 6.53 fhd+ dotdisplay
-- Sistema operativo miui 11
 - Batteria da 5020 mAh; 18w fast charging
+- Sistema operativo miui 11
+- Processore octa-core mediatek helio g85; 6.53 fhd+ dotdisplay
+- Frequenza fino a 2.0 ghz
 
 [Acquista qui!!](https://www.amazon.it/dp/B08865HBWC/?tag=tolees00-21)
