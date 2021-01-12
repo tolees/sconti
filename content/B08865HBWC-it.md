@@ -25,8 +25,8 @@ average: '179.13851063829784'
 
 ℹ️:
 
-- Batteria da 5020 mAh; 18w fast charging
 - Sistema operativo miui 11
+- Batteria da 5020 mAh; 18w fast charging
 - Processore octa-core mediatek helio g85; 6.53 fhd+ dotdisplay
 - Frequenza fino a 2.0 ghz
 
