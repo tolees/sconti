@@ -25,10 +25,10 @@ average: '3.49'
 
 ℹ️:
 
-- Questa crema offre sollievo, protezione e idratazione per le pelli più secche e rovinate
-- La Formula Norvegese combina Glicerina concentrata, che idrata e ripara, con agenti emollienti che ammorbidiscono la pelle e contribuiscono a mantenerla idratata
-- Neutrogena Crema Mani senza profumazione è una versione dell’iconica Concentrata, con la stessa efficacia ma senza profumo
 - Aiuta a mantenere le mani idratate fino a 24h; con una piccola quantità dona risultati immediate
 - Massaggiare insistendo sulle zone più screpolate e arrossate
+- Questa crema offre sollievo, protezione e idratazione per le pelli più secche e rovinate
+- Neutrogena Crema Mani senza profumazione è una versione dell’iconica Concentrata, con la stessa efficacia ma senza profumo
+- La Formula Norvegese combina Glicerina concentrata, che idrata e ripara, con agenti emollienti che ammorbidiscono la pelle e contribuiscono a mantenerla idratata
 
 [Acquista qui!!](https://www.amazon.it/dp/B00D3HWOAG/?tag=tolees00-21)
