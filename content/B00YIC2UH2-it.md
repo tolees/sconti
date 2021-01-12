@@ -26,9 +26,9 @@ Puoi trovare [Burton Total Impact Short  Protezioni Donna  Cats Meow  M](https:/
 ℹ️:
 
 - Protected by g-forms Proprietary Impact protection Technology
-- Ergonomic hip, tailbone, and sit BONE padding
-- Momentarily stiffens upon Impact to dissipate energy
 - Pro-grade, Low-Profile protection
+- Momentarily stiffens upon Impact to dissipate energy
+- Ergonomic hip, tailbone, and sit BONE padding
 - Designed to Flex and move with your body
 
 [Acquista qui!!](https://www.amazon.it/dp/B00YIC2UH2/?tag=tolees00-21)
