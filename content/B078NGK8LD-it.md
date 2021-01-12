@@ -25,8 +25,8 @@ Puoi trovare [Merrell Vapor Glove 3 Luna LTR  Scarpe da Ginnastica Uomo  Nero  B
 
 ℹ️:
 
-- Materiale suola: gomma
 - Chiusura: stringata
+- Materiale suola: gomma
 - Materiale esterno: pelle
 
 [Acquista qui!!](https://www.amazon.it/dp/B078NGK8LD/?tag=tolees00-21)

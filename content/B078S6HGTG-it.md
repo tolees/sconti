@@ -28,7 +28,7 @@ Puoi trovare [Orient Orologio Analogico Automatico Uomo con Cinturino in Pelle F
 - Analogico in pelle da uomo
 - Stile da sera
 - Movimento automatico
-- 5 bars
 - Quadrante bianco e cinturino nero
+- 5 bars
 
 [Acquista qui!!](https://www.amazon.it/dp/B078S6HGTG/?tag=tolees00-21)
