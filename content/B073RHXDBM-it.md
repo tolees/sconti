@@ -25,8 +25,8 @@ average: '130.99'
 
 ℹ️:
 
-- Tomaia in mesh e materiale sintetico
-- Ammortizzazione
 - Scarpe da trekking
+- Ammortizzazione
+- Tomaia in mesh e materiale sintetico
 
 [Acquista qui!!](https://www.amazon.it/dp/B073RHXDBM/?tag=tolees00-21)

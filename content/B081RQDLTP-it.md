@@ -25,10 +25,10 @@ average: '13.385'
 
 ℹ️:
 
-- Ricetta semplice con solo 8 ingredienti selezionati
+- Cioccolatini ripieni al gianduia e nocciola con una doppia copertura al cioccolato fondente
 - Gli iconici cioccolatini dallincarto stellato che custodiscono un messaggio damore e daffetto
 - Senza glutine
+- Ricetta semplice con solo 8 ingredienti selezionati
 - Scatola regalo da 200g 16 cioccolatini
-- Cioccolatini ripieni al gianduia e nocciola con una doppia copertura al cioccolato fondente
 
 [Acquista qui!!](https://www.amazon.it/dp/B081RQDLTP/?tag=tolees00-21)
