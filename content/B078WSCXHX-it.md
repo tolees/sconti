@@ -26,9 +26,9 @@ Puoi trovare [Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi-Res Audio  Dolby Vision  
 ℹ️:
 
 - Blu-ray Disc, con Dolby Vision
+- Funzioni Blocco di sicurezza per bambini, BRAVIA Sync, Controllo genitori, Spegnimento automatico (Stand-by automatico)
+- Connettività Wireless Multi-room
 - 5 W (in funzione), 0,35 W (in standby)
 - Servizi streaming 4K
-- Connettività Wireless Multi-room
-- Funzioni Blocco di sicurezza per bambini, BRAVIA Sync, Controllo genitori, Spegnimento automatico (Stand-by automatico)
 
 [Acquista qui!!](https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21)
