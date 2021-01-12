@@ -25,8 +25,8 @@ Puoi trovare [G-STAR RAW 3301 Slim-Shirt Camicia  Blu  Mazarine Blue 4213   Larg
 
 ℹ️:
 
-- Camicia con orlo curvo
 - Tasche sul petto con patta western
 - Lo sprone della spalla è rinforzato e foderato
+- Camicia con orlo curvo
 
 [Acquista qui!!](https://www.amazon.it/dp/B07RH2ZFSR/?tag=tolees00-21)

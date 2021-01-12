@@ -26,7 +26,7 @@ average: '39.97'
 ℹ️:
 
 - Camicia con orlo curvo
-- Lo sprone della spalla è rinforzato e foderato
 - Tasche sul petto con patta western
+- Lo sprone della spalla è rinforzato e foderato
 
 [Acquista qui!!](https://www.amazon.it/dp/B07RCZDDDW/?tag=tolees00-21)

@@ -25,11 +25,11 @@ average: '14.197777777777777'
 
 ℹ️:
 
-- Guarda i fantastici colori blu e bianco dello squalo
-- Con questo set potrai costruire un modello aggiuntivo Le istruzioni per la costruzione di una balena sono disponibili su LEGOcom
-- Costruisci lo squalo con il granchio e il tesoro, quindi ricostruiscili per creare un calamaro flessibile o un rana pescatrice con bocca gigante
 - Aiuta a proteggere il simpatico granchio e la sua cassa del tesoro
-- Divertiti con 3 possibilità di costruzione con questo set LEGO Creator 3 in 1
+- Con questo set potrai costruire un modello aggiuntivo Le istruzioni per la costruzione di una balena sono disponibili su LEGOcom
+- Guarda i fantastici colori blu e bianco dello squalo
+- Costruisci lo squalo con il granchio e il tesoro, quindi ricostruiscili per creare un calamaro flessibile o un rana pescatrice con bocca gigante
 - Apri la bocca dello squalo per rivelare i suoi spaventosi denti appuntiti
+- Divertiti con 3 possibilità di costruzione con questo set LEGO Creator 3 in 1
 
 [Acquista qui!!](https://www.amazon.it/dp/B07FNS6J7R/?tag=tolees00-21)

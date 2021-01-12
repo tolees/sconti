@@ -25,8 +25,8 @@ Puoi trovare [G-STAR RAW 3301 Slim-Shirt Camicia  Blu  Mazarine Blue 4213   X-Sm
 
 ℹ️:
 
-- Lo sprone della spalla è rinforzato e foderato
-- Tasche sul petto con patta western
 - Camicia con orlo curvo
+- Tasche sul petto con patta western
+- Lo sprone della spalla è rinforzato e foderato
 
 [Acquista qui!!](https://www.amazon.it/dp/B07RCZD4M6/?tag=tolees00-21)
