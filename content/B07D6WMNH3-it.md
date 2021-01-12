@@ -25,10 +25,10 @@ average: '12.99'
 
 ℹ️:
 
-- Il liquido magico Elmers è una soluzione tutto in uno che trasforma la colla Elmers in uno slime divertente
-- Le penne con colla glitterata sono disponibili in unampia varietà di colori brillanti che aggiungono un tocco in più agli slime di glitter fatti in casa, scrivendo e luccicando
-- La colla vinilica trasparente crea una base per slime trasparente facilmente personalizzabile con colori
-- Kit per slime tutto in uno: due flaconi di colla trasparente, quattro penne con colla glitterata e due flaconi di attivatore slime
 - La colla Elmers è adatta ai bambini e lavabile (non indicata per bambini sotto i tre anni)
+- La colla vinilica trasparente crea una base per slime trasparente facilmente personalizzabile con colori
+- Le penne con colla glitterata sono disponibili in unampia varietà di colori brillanti che aggiungono un tocco in più agli slime di glitter fatti in casa, scrivendo e luccicando
+- Kit per slime tutto in uno: due flaconi di colla trasparente, quattro penne con colla glitterata e due flaconi di attivatore slime
+- Il liquido magico Elmers è una soluzione tutto in uno che trasforma la colla Elmers in uno slime divertente
 
 [Acquista qui!!](https://www.amazon.it/dp/B07D6WMNH3/?tag=tolees00-21)

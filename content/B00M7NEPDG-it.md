@@ -25,10 +25,10 @@ average: '90.02'
 
 ℹ️:
 
-- Japanese Quartz Movement
+- Water-resistant to 50 Meters / 165 Feet / 5 ATM
 - Stainless Steel case with Stainless-Steel Plated band
 - Case diameter: 34mm
 - Mineral Crystal
-- Water-resistant to 50 Meters / 165 Feet / 5 ATM
+- Japanese Quartz Movement
 
 [Acquista qui!!](https://www.amazon.it/dp/B00M7NEPDG/?tag=tolees00-21)

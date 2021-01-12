@@ -25,9 +25,9 @@ Puoi trovare [SAMSUNG EP-TA845 Adattatore da viaggio 2.0 Fast Charging 2.0  45W 
 
 ℹ️:
 
-- Carica anche a 15 W, quindi può ricaricare in sicurezza anche gli altri tuoi dispositivi, anche se non supportano la ricarica rapida 2.0
 - Adattatore da viaggio da 45 W
 - Ricarica rapida 2.0 per ridarti al più presto
+- Carica anche a 15 W, quindi può ricaricare in sicurezza anche gli altri tuoi dispositivi, anche se non supportano la ricarica rapida 2.0
 - Facile da utilizzare
 
 [Acquista qui!!](https://www.amazon.it/dp/B07VC4TGCX/?tag=tolees00-21)

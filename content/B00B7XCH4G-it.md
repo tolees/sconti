@@ -25,11 +25,11 @@ Puoi trovare [The North Face M Drew Peak Plv HD  Felpa con Cappuccio Uomo  100% 
 
 ℹ️:
 
-- Chiusura con coulisse
-- Tasche a marsupio
-- Logo ricamato sul davanti
-- 100% cotone
 - Polsini e orlo lavorati a coste
 - Felpa di lunghezza classica
+- Chiusura con coulisse
+- Tasche a marsupio
+- 100% cotone
+- Logo ricamato sul davanti
 
 [Acquista qui!!](https://www.amazon.it/dp/B00B7XCH4G/?tag=tolees00-21)
