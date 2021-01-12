@@ -26,9 +26,9 @@ average: '42.540000000000006'
 ℹ️:
 
 - Sicuro e affidabile: le misure di protezione integrate proteggono i dispositivi da corrente eccessiva, surriscaldamento e sovraccarico.
-- Dynamic Detect: Il connettore USB-C è stato ampliato con Aukey Dynamic Detect e può distribuire la piena potenza del caricatore con 65 W Power Delivery in un solo utilizzo e 45 W Power Delivery in entrambe le porte da sole
 - Sicuro e affidabile: le misure di protezione integrate proteggono i dispositivi da corrente eccessiva, surriscaldamento e sovraccarico.
 - Dynamic Detect: Il connettore USB-C è stato ampliato con Aukey Dynamic Detect e può distribuire la piena potenza del caricatore con 65 W Power Delivery in un solo utilizzo e 45 W Power Delivery in entrambe le porte da sole
 - Chip Omnia GaN: Ricarica più velocemente con caricabatterie più piccoli e leggeri della serie AUKEY Omnia – i caricabatterie PD più piccoli al mondo di tutti i tempi. Grazie alla tecnologia GaNNast leader del settore in nitruro di gallio (GaN), è possibile ricaricare il tuo smartphone e il tuo laptop con un prodotto che non è più grande di un caricabatterie per telefono standard.
+- Dynamic Detect: Il connettore USB-C è stato ampliato con Aukey Dynamic Detect e può distribuire la piena potenza del caricatore con 65 W Power Delivery in un solo utilizzo e 45 W Power Delivery in entrambe le porte da sole
 
 [Acquista qui!!](https://www.amazon.it/dp/B089FHTHC3/?tag=tolees00-21)

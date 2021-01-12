@@ -25,10 +25,10 @@ average: '16.95'
 
 ℹ️:
 
+- Lagenda presenta gli iconici angoli arrotondati, chiusura ad elastico, nastrino segnalibro e scritta "in case of loss" nel risguardo anteriore. La carta da 70 g/m² è color avorio e senza cloro
+- Inizia il 2021 in compagnia del dolcissimo Piccolo Principe, della sua amata rosa, della simpatica volpe e delle celebri citazioni di questo grande classico di Antoine de Saint-Exupéry
 - Lagenda settimanale presenta una copertina rigida con grafiche a tema "Il Piccolo Principe" - Rosa. Ogni agenda contiene un poster con citazioni e illustrazioni a tema
 - Questagenda settimanale 2020/2021 copre 18 mesi, da luglio 2020 a dicembre 2021 per tenere traccia dei tuoi appuntamenti e delle cose da fare su base settimanale e mensile
 - La confezione contiene unagenda settimanale da 18 mesi in edizione limitata "Il Piccolo Principe", con copertina rigida e in formato Large 13 x 21 cm da 208 pagine
-- Lagenda presenta gli iconici angoli arrotondati, chiusura ad elastico, nastrino segnalibro e scritta "in case of loss" nel risguardo anteriore. La carta da 70 g/m² è color avorio e senza cloro
-- Inizia il 2021 in compagnia del dolcissimo Piccolo Principe, della sua amata rosa, della simpatica volpe e delle celebri citazioni di questo grande classico di Antoine de Saint-Exupéry
 
 [Acquista qui!!](https://www.amazon.it/dp/B07Y5YD5MP/?tag=tolees00-21)
