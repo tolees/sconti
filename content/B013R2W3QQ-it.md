@@ -25,10 +25,10 @@ average: '50.24'
 
 ℹ️:
 
+- Contenuto: 1 Bestron Forno per pizza, Incl. ricettario, Potenza: 1800 W, Dimensioni: 37,5x31x16 cm, Peso: 2,9 kg, Materiale: Metallo, Colore: Rosso, APZ400
 - Mini forno con design Viva Italia per la preparazione di croccanti pizze, piadine e tarte flambée fatte in casa – Ideale per le feste
 - Finestrella e spia luminosa di controllo, Piedini antiscivolo per la massima stabilità, Lunghezza cavo: 77 cm
 - Piacere in pochi minuti: Calore superiore e inferiore simultaneo o alternato, Regolazione manuale della temperatura (fino a 180°C)
 - Grill con rivestimento antiaderente e impugnature termoresistenti adatta anche per pizze surgelate o per riscaldare cibi, Trasformabile in una piastra di cottura aprendolo a 180 gradi
-- Contenuto: 1 Bestron Forno per pizza, Incl. ricettario, Potenza: 1800 W, Dimensioni: 37,5x31x16 cm, Peso: 2,9 kg, Materiale: Metallo, Colore: Rosso, APZ400
 
 [Acquista qui!!](https://www.amazon.it/dp/B013R2W3QQ/?tag=tolees00-21)

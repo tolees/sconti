@@ -25,9 +25,9 @@ average: '9.9'
 
 ℹ️:
 
+- Apparecchio di illuminazione a intensità regolabile
+- Lapparecchio di illuminazione è compatibile con lampadine di classe: da A++ a E
 - Zona giardino: posteriore/anteriore
 - Tensione di rete: da 220 V a 240 V
-- Lapparecchio di illuminazione è compatibile con lampadine di classe: da A++ a E
-- Apparecchio di illuminazione a intensità regolabile
 
 [Acquista qui!!](https://www.amazon.it/dp/B00BG5CBAA/?tag=tolees00-21)

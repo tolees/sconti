@@ -25,10 +25,10 @@ average: '90.02'
 
 ℹ️:
 
+- Mineral Crystal
 - Water-resistant to 50 Meters / 165 Feet / 5 ATM
 - Stainless Steel case with Stainless-Steel Plated band
-- Case diameter: 34mm
-- Mineral Crystal
 - Japanese Quartz Movement
+- Case diameter: 34mm
 
 [Acquista qui!!](https://www.amazon.it/dp/B00M7NEPDG/?tag=tolees00-21)

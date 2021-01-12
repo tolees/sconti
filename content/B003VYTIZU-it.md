@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 33.44 % su Kinder Brioss Merendine  270g  '
-date: 2021-01-07 09:32:33
+date: 2021-01-12 18:50:20
 image: 'https://m.media-amazon.com/images/I/41jnCqZ7edL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B003VYTIZU/?tag=tolees00-21'
 descuento: '33.44'
-average: '1.8233333333333333'
+average: '1.847142857142857'
 ---
 
 [Kinder Brioss Merendine  270g](https://www.amazon.it/dp/B003VYTIZU/?tag=tolees00-21) ha un prezzo di 1.99 EUR (originale: 2.99 EUR) con uno sconto del 33.44 % sconto qui:

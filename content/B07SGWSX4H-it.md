@@ -25,10 +25,10 @@ Puoi trovare [Amazfit - Verge Lite Smart Watch  Bianco](https://www.amazon.it/dp
 
 ℹ️:
 
+- Presenta un display amoled da 1.3” in grado di offrire una vista completa di tutte le informazioni importanti; i colori vivaci offrono unesperienza allo stato puro
 - Verge lite è dotato di sensori ottici ad alta precisione e algoritmi professionali, pertanto supporta il rilevamento automatico della frequenza cardiaca giornaliera; l’orologio vibrerà per ricordati che sei stato seduto troppo tempo e durante la notte monitorerà e analizzerà i dati relativi al sonno
-- Ricevi notifiche per e-mail, messaggi e notifiche di altre applicazioni per smartphone direttamente sullo schermo del tuo amazfit verge lite; lorologio ti ricorderà eventi ed attività importanti che rimarranno attivi finché non li confermerai
 - Lorologio vibrerà per ricordati che sei stato seduto troppo tempo e durante la notte monitorerà e analizzerà i dati relativi al sonno; ha un aspetto più levigato e resiste maggiormente allo sporco grazie alla tecnologia “cleaning”
 - Sensori a basso consumo energetico e un algoritmo ottimizzato consentono alla batteria unautonomia fino a 20 giorni. Modalità desercizio multiple che ti motivano a sviluppare buone abitudini
-- Presenta un display amoled da 1.3” in grado di offrire una vista completa di tutte le informazioni importanti; i colori vivaci offrono unesperienza allo stato puro
+- Ricevi notifiche per e-mail, messaggi e notifiche di altre applicazioni per smartphone direttamente sullo schermo del tuo amazfit verge lite; lorologio ti ricorderà eventi ed attività importanti che rimarranno attivi finché non li confermerai
 
 [Acquista qui!!](https://www.amazon.it/dp/B07SGWSX4H/?tag=tolees00-21)

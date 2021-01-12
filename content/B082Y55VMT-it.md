@@ -25,7 +25,7 @@ average: '34.49'
 
 ℹ️:
 
-- Giacca in ecopelle.
 - Dettagli classici del motociclista.
+- Giacca in ecopelle.
 
 [Acquista qui!!](https://www.amazon.it/dp/B082Y55VMT/?tag=tolees00-21)

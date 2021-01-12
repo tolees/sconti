@@ -25,10 +25,10 @@ average: '119.5'
 
 ℹ️:
 
-- Lampadario a Soffitto in Misure: Diametro 45 cm, Altezza 20.5 Cm.
-- Alta Qualità Finitura
-- Assicurati This per da Entrare il Tuo Modello Numero.
-- This Lampadario a Soffitto Is Made Of Acciaio Cromato
 - La Luce Is per Lampadine in Energia Classi: a - E.
+- This Lampadario a Soffitto Is Made Of Acciaio Cromato
+- Assicurati This per da Entrare il Tuo Modello Numero.
+- Alta Qualità Finitura
+- Lampadario a Soffitto in Misure: Diametro 45 cm, Altezza 20.5 Cm.
 
 [Acquista qui!!](https://www.amazon.it/dp/B01J97HDOA/?tag=tolees00-21)

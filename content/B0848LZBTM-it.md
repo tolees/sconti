@@ -25,7 +25,7 @@ Puoi trovare [JACK & JONES Jjerocky Jacket Noos Giacca  Jet Nero  S Uomo](https:
 
 ℹ️:
 
-- Giacca in ecopelle.
 - Dettagli classici del motociclista.
+- Giacca in ecopelle.
 
 [Acquista qui!!](https://www.amazon.it/dp/B0848LZBTM/?tag=tolees00-21)
