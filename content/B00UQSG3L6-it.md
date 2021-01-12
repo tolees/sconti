@@ -25,8 +25,8 @@ Puoi trovare [Goobay 96501 Luce Notturna A Led Compatta con Sensore Di Movimento
 
 ℹ️:
 
-- Sensibilità Preimpostato, Lintervallo E Tempo Di Spegnimento
 - Spegnimento automatico dopo non viene rilevato nessun movimento ulteriore
 - Facile da usare e infallibile luce plug-in euro Standard Tedesco
+- Sensibilità Preimpostato, Lintervallo E Tempo Di Spegnimento
 
 [Acquista qui!!](https://www.amazon.it/dp/B00UQSG3L6/?tag=tolees00-21)
