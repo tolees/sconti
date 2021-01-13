@@ -25,9 +25,9 @@ Puoi trovare [H.Koenig NV60 Pulitore a vapore Portatile  Multiuso  Potente 4.2 b
 
 ℹ️:
 
-- Voltaggio: 830 v
+- Potenza: 2000w
 - Pressione del vare: 4.2 bar
 - 6 beccucci, 1 imbuto, 1 contitore graduato
-- Potenza: 2000w
+- Voltaggio: 830 v
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005Z0OEBQ/?tag=tolees00-21)

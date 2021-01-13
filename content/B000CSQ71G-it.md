@@ -25,10 +25,10 @@ average: '19.363333333333333'
 
 ℹ️:
 
-- Multistrato di betulla e MDF, legno colorato e decorato
 - Dimensioni: 20 x 20 x 36 cm
-- Attenzione: non adatto ai bambini al di sotto dei 36 mesi
 - Giocattolo con 5 mattoncini di forme diverse
+- Multistrato di betulla e MDF, legno colorato e decorato
+- Attenzione: non adatto ai bambini al di sotto dei 36 mesi
 - Stimola lattività di selezione e calcolo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000CSQ71G/?tag=tolees00-21)

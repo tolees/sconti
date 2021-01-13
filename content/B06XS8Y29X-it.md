@@ -27,8 +27,8 @@ average: '92.37'
 
 - 2 years warranty
 - Designed in Sweden, Daniel Wellington timepieces feature minimalist Scandinavian style and are the perfect gift or personal accessory for every occasion
-- Interchangeable strap
 - Adjustable strap length: (Min - Max) 160-215mm
+- Interchangeable strap
 - Dial size: 36 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XS8Y29X/?tag=tolees00-21)

@@ -25,10 +25,10 @@ average: '45.8'
 
 ℹ️:
 
+- Omologazioni/Certificazioni/Conformità: Ö-Norm 5117, UNI 11313, TÜV
+- Misure catena: 235/70-15, 235/60-16, 245/55-16, 215/65-17, 225/60-17, 235/55-17, 255/45-17, 275/40-17, 225/55-18 no Continental, 225/50-18, 245/45-18, 255/45-18, 255/40-18, 205/55-19, 225/45-19, 235/45-19, 255/35-19, 275/30-19, 265/30-20
 - 12 mm di ingombro
 - La catena a tensionamento manuale sinonimo di semplicità e robustezza
-- Misure catena: 235/70-15, 235/60-16, 245/55-16, 215/65-17, 225/60-17, 235/55-17, 255/45-17, 275/40-17, 225/55-18 no Continental, 225/50-18, 245/45-18, 255/45-18, 255/40-18, 205/55-19, 225/45-19, 235/45-19, 255/35-19, 275/30-19, 265/30-20
 - Ingombro interno: 12 mm
-- Omologazioni/Certificazioni/Conformità: Ö-Norm 5117, UNI 11313, TÜV
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009PHQSFK/?tag=tolees00-21)
