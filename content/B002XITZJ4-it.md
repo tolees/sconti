@@ -25,8 +25,8 @@ Puoi trovare [Chloe Eau de Parfum  Donna  50 ml](https://www.amazon.it/dp/B002XI
 
 ℹ️:
 
-- Donna
-- EDP
 - 50 ml
+- EDP
+- Donna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002XITZJ4/?tag=tolees00-21)
