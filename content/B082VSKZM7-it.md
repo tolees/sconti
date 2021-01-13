@@ -27,8 +27,8 @@ average: '5.4799999999999995'
 
 - Dixan Caps è il detersivo per lavatrice in capsule con azione pulente attiva già a 30°, che penetra in profondità nelle fibre per rimuovere anche le macchie più difficili
 - Grazie alla sua formula, Dixan Caps offre una elevata brillantezza a tutti i tuoi capi
-- Con la tecnologia in capsule, non vi è alcun rischio di sprecare detersivo con dosaggi eccessivi, grazie alla formula pre-dosata
-- Dixan Caps è delicato sui capi e rispetta i tessuti, ottimale per la cura dei capi colorati
 - Con Dixan puoi ridurre il consumo di acqua grazie alla sua formula concentrata che ti permette di ottenere ottimi risultati
+- Dixan Caps è delicato sui capi e rispetta i tessuti, ottimale per la cura dei capi colorati
+- Con la tecnologia in capsule, non vi è alcun rischio di sprecare detersivo con dosaggi eccessivi, grazie alla formula pre-dosata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082VSKZM7/?tag=tolees00-21)
