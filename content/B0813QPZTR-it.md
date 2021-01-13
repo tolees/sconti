@@ -25,11 +25,11 @@ average: '22.47125'
 
 ℹ️:
 
-- Include le Instructions PLUS fornite nell’app LEGO Building Instructions
-- Gara aerea con elicotteri volanti, un aereo acrobatico e divertenti piloti
 - I playset LEGO City Aeroporto stimolano il gioco di ruolo, la fantasia e la creatività
-- Introduci i bambini nel mondo di LEGO City con il playset della Sfida aerea
 - I bambini adoreranno lanciare i fantastici elicotteri dotati di ripcord
+- Gara aerea con elicotteri volanti, un aereo acrobatico e divertenti piloti
 - Non richiede batterie. Alimentato dalle vivide immaginazioni dei bambini
+- Include le Instructions PLUS fornite nell’app LEGO Building Instructions
+- Introduci i bambini nel mondo di LEGO City con il playset della Sfida aerea
 
 [Acquista qui!!](https://www.amazon.it/dp/B0813QPZTR/?tag=tolees00-21)
