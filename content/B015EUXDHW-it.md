@@ -25,8 +25,8 @@ average: '45.18'
 
 ℹ️:
 
-- Connessione web sicura; unità bambino con luce notturna; dimensione schermo 1,5"
 - Tecnologia senza Fili DECT 1.8 GHz
 - Aaudio baby monitor digitale con timer con portata max di 300 mt; unità genitore portatile (batteria ricaricabile); comunicazione bidirezionale; controllo della temperatura ambiente
+- Connessione web sicura; unità bambino con luce notturna; dimensione schermo 1,5"
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015EUXDHW/?tag=tolees00-21)
