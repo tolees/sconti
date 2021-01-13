@@ -25,8 +25,8 @@ average: '57.5'
 
 ℹ️:
 
-- Suola: sintetica
 - Materiale esterno: pelle liscia
 - Materiale interno: mesh
+- Suola: sintetica
 
 [Acquista qui!!](https://www.amazon.it/dp/B0825P7WDJ/?tag=tolees00-21)

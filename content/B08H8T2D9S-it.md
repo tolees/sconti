@@ -25,10 +25,10 @@ average: '146.65666666666667'
 
 ℹ️:
 
-- Processore octa-core reattivo -Il tuo smartphone risponde immediatamente a qualsiasi tocco e sfioramento grazie al processore octa-core Qualcomm Snapdragon 662
-- Tripla fotocamera 48 MP - Scatta foto nitide e dettagliate anche con poca luce grazie alla modalità Visione Notturna, ritratti sfocati artisticamente e primi piani incredibilmente dettagliati. Tre fotocamere al tuo servizio.
 - Batteria fino a due giorni - Con la potente batteria da 5000 mAh potrai svolgere tranquillamente tutte le tue attività senza preoccuparti della ricarica.
 - Display Max Vision HD+ da 6.5" - Immergiti completamente nei tuoi film e videogiochi grazie allo schermo ultra ampio che massimizza larea di visualizzazione.
 - Ampia Memoria espandibile 64 GB e Dual SIM - Lo spazio di archiviazione non sarà più un problema. Puoi conservare moltissime foto, brani e video grazie alla potente memoria integrata espandibile fino a 512 GB.
+- Tripla fotocamera 48 MP - Scatta foto nitide e dettagliate anche con poca luce grazie alla modalità Visione Notturna, ritratti sfocati artisticamente e primi piani incredibilmente dettagliati. Tre fotocamere al tuo servizio.
+- Processore octa-core reattivo -Il tuo smartphone risponde immediatamente a qualsiasi tocco e sfioramento grazie al processore octa-core Qualcomm Snapdragon 662
 
 [Acquista qui!!](https://www.amazon.it/dp/B08H8T2D9S/?tag=tolees00-21)
