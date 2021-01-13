@@ -25,9 +25,9 @@ average: '12.635000000000002'
 
 ℹ️:
 
-- Uniconica statuina Funko Pop! Vinyl della serie Disenchantment
-- Funko POP! è il giocattolo dellanno 2018!
-- Scopri tutte le altre statuine Disenchantment di Funko e collezionale tutte!
 - Elfo e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Uniconica statuina Funko Pop! Vinyl della serie Disenchantment
+- Scopri tutte le altre statuine Disenchantment di Funko e collezionale tutte!
+- Funko POP! è il giocattolo dellanno 2018!
 
 [Acquista qui!!](https://www.amazon.it/dp/B07QBQND7V/?tag=tolees00-21)

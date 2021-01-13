@@ -25,10 +25,10 @@ average: '79.99'
 
 ℹ️:
 
-- 90 minuti di utilizzo con 1 ora di ricarica grazie alla batteria agli ioni di litio e indicatore LED che mostra lo stato della batteria
 - Utilizzo Wet&Dry: su pelle asciutta o bagnata, con o senza schiuma, anche sotto la doccia
+- Include: una lama viso, una lama corpo, un manico ricaricabile, un pettine di precisione con 14 lunghezze (da 0,5 a 10 mm), un pettine corpo (3 mm), una base di ricarica e custodia
+- 90 minuti di utilizzo con 1 ora di ricarica grazie alla batteria agli ioni di litio e indicatore LED che mostra lo stato della batteria
 - Sistema a doppia protezione: efficace sui peli, delicato sulla pelle; con guaina protettiva click-on per le aree sensibili
 - OneBlade PRO Face + Body consente di radere, regolare e rifinire corpo e barba di qualsiasi lunghezza con alta precisione
-- Include: una lama viso, una lama corpo, un manico ricaricabile, un pettine di precisione con 14 lunghezze (da 0,5 a 10 mm), un pettine corpo (3 mm), una base di ricarica e custodia
 
 [Acquista qui!!](https://www.amazon.it/dp/B0771WVJX3/?tag=tolees00-21)
