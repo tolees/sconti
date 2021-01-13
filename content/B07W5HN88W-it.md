@@ -26,4 +26,4 @@ Puoi trovare [Xiaomi - Ripetitore di rete WiFi WiFi Extender di copertura  porta
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W5HN88W/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W5HN88W/?tag=tolees00-21)

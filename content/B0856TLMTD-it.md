@@ -26,4 +26,4 @@ Puoi trovare [[2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5 pollici
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0856TLMTD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0856TLMTD/?tag=tolees00-21)

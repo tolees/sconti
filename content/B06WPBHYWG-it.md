@@ -26,4 +26,4 @@ Puoi trovare [Adidas Vs Pace  Scarpe da Ginnastica Uomo  Blu  Maruni/Ftwbla/Azul
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06WPBHYWG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06WPBHYWG/?tag=tolees00-21)

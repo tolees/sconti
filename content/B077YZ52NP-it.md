@@ -26,4 +26,4 @@ Puoi trovare [Hoover Freedom Scopa Ricaricabile  0.7 Litri  76 Decibel  Blu Tita
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B077YZ52NP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B077YZ52NP/?tag=tolees00-21)

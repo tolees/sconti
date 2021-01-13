@@ -26,4 +26,4 @@ Puoi trovare [AVM FRITZ! Box 7430 International Modem Router Wireless N450  Tele
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B018MBDIE8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B018MBDIE8/?tag=tolees00-21)

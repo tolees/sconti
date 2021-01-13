@@ -26,4 +26,4 @@ Puoi trovare [HyperX HX-HSCSC-BK Cloud Stinger Core  Cuffie Gaming per Console P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BB3PYD8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BB3PYD8/?tag=tolees00-21)

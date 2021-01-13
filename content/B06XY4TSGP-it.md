@@ -26,4 +26,4 @@ Puoi trovare [Audio-Technica ATHDSR7BT cuffia](https://www.amazon.it/dp/B06XY4TS
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21)

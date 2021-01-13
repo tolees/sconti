@@ -26,4 +26,4 @@ Puoi trovare [APLI 13580-Feltro nero A4 10 fogli](https://www.amazon.it/dp/B00JS
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00JS48WT0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00JS48WT0/?tag=tolees00-21)

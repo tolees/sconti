@@ -26,4 +26,4 @@ Puoi trovare [Motorola Moto G8 Power Smartphone  Batteria 5000 mAh  Display MaxV
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084KBCQFS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084KBCQFS/?tag=tolees00-21)

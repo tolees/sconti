@@ -26,4 +26,4 @@ Puoi trovare [Master Lock 8285EURDPRO Catena U  Ottima per Bicicletta  Elettrica
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000XRQ8UQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000XRQ8UQ/?tag=tolees00-21)

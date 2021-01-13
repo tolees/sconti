@@ -26,4 +26,4 @@ Puoi trovare [ELUTENG Ventola 80mm Silenziosa Ventole 80 mm USB 5V con Griglia i
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BQZVNLT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BQZVNLT/?tag=tolees00-21)

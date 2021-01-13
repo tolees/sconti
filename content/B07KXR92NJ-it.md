@@ -26,4 +26,4 @@ Puoi trovare [eufy [BoostIQ RoboVac 15C  Wi-Fi  aggiornato  sottilissimo  aspira
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KXR92NJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KXR92NJ/?tag=tolees00-21)

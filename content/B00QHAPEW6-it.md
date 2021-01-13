@@ -26,4 +26,4 @@ Puoi trovare [Under Armour ColdGear Armour Mock  Maglia Uomo  Blanco  White   M]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00QHAPEW6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00QHAPEW6/?tag=tolees00-21)

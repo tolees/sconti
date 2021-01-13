@@ -26,4 +26,4 @@ Puoi trovare [Samsung U28H750 Monitor 28   4K Ultra HD  3840 x 2160  Pannello TN
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0711S2JHQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0711S2JHQ/?tag=tolees00-21)

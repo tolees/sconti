@@ -26,4 +26,4 @@ Puoi trovare [Desigual - Borsa da donna Bols Logo Patch Merlo con manico  17 6 x
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VJSF4FG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VJSF4FG/?tag=tolees00-21)

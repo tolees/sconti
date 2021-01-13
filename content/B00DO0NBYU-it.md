@@ -26,4 +26,4 @@ Puoi trovare [Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)

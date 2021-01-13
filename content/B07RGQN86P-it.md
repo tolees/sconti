@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Logo Trim Quilted Jct W Giacca  Verde  Green Mrv   
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RGQN86P/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RGQN86P/?tag=tolees00-21)

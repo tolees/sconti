@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Nautical Print Beach Sandal  Punta Aperta Uomo  Ner
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V2J2WVP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V2J2WVP/?tag=tolees00-21)

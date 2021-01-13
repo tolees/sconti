@@ -26,4 +26,4 @@ Puoi trovare [Garnier Ultra Dolce Olio d Argan e di Camelia Bagnodoccia Satinant
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01FFVPV02/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01FFVPV02/?tag=tolees00-21)

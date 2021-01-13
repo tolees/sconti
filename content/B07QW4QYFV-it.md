@@ -26,4 +26,4 @@ Puoi trovare [Levi s Innovation Super Skinny Jeans  Blu  Globe Trotter 0065   25
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21)

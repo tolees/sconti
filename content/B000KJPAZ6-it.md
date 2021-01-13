@@ -26,4 +26,4 @@ Puoi trovare [Scotch Nastro Adesivo 3M  Trasparente Acrilico  15 mm x 33 m  Conf
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000KJPAZ6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000KJPAZ6/?tag=tolees00-21)

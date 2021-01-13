@@ -26,4 +26,4 @@ Puoi trovare [UniqueMe [2+2 Pezzi Pellicola Protettiva per xiaomi Mi Note 10 TPU
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GPVMHBF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GPVMHBF/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Pril Gold Gel lavastoviglie Sciogli Grasso Limone & Lime  Detersiv
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GCYNLBM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GCYNLBM/?tag=tolees00-21)

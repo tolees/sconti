@@ -26,4 +26,4 @@ Puoi trovare [Hard Disk 2 TB Esterno Hard Disk Esterno 2 5" Ultrasottile HDD per
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08JYKRK2C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08JYKRK2C/?tag=tolees00-21)

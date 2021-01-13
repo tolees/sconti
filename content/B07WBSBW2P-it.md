@@ -26,4 +26,4 @@ Puoi trovare [LOVABLE Sublim Reggiseno con Ferretto  Blu  Blu 007   4D IT  Tagli
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WBSBW2P/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WBSBW2P/?tag=tolees00-21)

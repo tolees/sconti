@@ -26,4 +26,4 @@ Puoi trovare [Mellerware - Rider Lithium - Aspirapolvere Senza Fili Portatile a 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VGX3C8L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VGX3C8L/?tag=tolees00-21)

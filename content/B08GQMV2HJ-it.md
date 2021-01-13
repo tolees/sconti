@@ -26,4 +26,4 @@ Puoi trovare [Auricolari Senza Fili Bluetooth 5.0 IPX8 Impermeabile Accoppiament
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GQMV2HJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GQMV2HJ/?tag=tolees00-21)

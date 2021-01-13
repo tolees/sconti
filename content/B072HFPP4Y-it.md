@@ -26,4 +26,4 @@ Puoi trovare [Lenor Ammorbidente Lavanda & Camomilla 208 Lavaggi  Maxi Formato 8
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B072HFPP4Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B072HFPP4Y/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Aigostar Pure 30LDV – Caraffa filtrante per l acqua da 3.5L. Inc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FM26DDV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FM26DDV/?tag=tolees00-21)

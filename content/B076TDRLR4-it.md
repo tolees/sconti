@@ -26,4 +26,4 @@ Puoi trovare [Skechers Og 85-Old School Cool-699  Scarpe da Ginnastica Basse Don
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B076TDRLR4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B076TDRLR4/?tag=tolees00-21)

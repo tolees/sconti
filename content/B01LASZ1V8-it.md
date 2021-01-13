@@ -26,4 +26,4 @@ Puoi trovare [Pacific Rim  4K Ultra HD + Blu-Ray ](https://www.amazon.it/dp/B01L
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01LASZ1V8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LASZ1V8/?tag=tolees00-21)

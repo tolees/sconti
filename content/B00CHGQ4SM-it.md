@@ -26,4 +26,4 @@ Puoi trovare [Microsoft Sculpt Comfort Mouse  Windows  Connettività Bluetooth  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00CHGQ4SM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00CHGQ4SM/?tag=tolees00-21)

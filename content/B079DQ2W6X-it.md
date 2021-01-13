@@ -26,4 +26,4 @@ Puoi trovare [TACKLIFE SEB04A Estrattore di Viti Danneggiate  4 Pezzi Estrattori
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B079DQ2W6X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B079DQ2W6X/?tag=tolees00-21)

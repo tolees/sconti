@@ -26,4 +26,4 @@ Puoi trovare [Set da Ping Pong Set Racchette Ping Pong  2 Racchette Ping Pong 1 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DJ32KKC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ32KKC/?tag=tolees00-21)

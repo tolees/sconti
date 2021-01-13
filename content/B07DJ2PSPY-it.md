@@ -26,4 +26,4 @@ Puoi trovare [Geox U KAVEN A  Scarpe da Ginnastica Basse Uomo  Bianco  Papyrus/W
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DJ2PSPY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ2PSPY/?tag=tolees00-21)

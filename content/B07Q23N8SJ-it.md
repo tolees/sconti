@@ -26,4 +26,4 @@ Puoi trovare [Aoqussqoa - Costume da bagno intero da donna  motivo leopardato  a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07Q23N8SJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q23N8SJ/?tag=tolees00-21)

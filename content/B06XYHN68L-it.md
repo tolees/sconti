@@ -26,4 +26,4 @@ Puoi trovare [SanDisk Extreme Pro Scheda di Memoria microSDHC da 32 GB e Adattat
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XYHN68L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XYHN68L/?tag=tolees00-21)

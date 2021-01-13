@@ -26,4 +26,4 @@ Puoi trovare [Set Accessori Aria Compressa Kit 8 Pneumatic Stanley](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00ISYHUSA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ISYHUSA/?tag=tolees00-21)

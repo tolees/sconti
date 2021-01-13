@@ -26,4 +26,4 @@ Puoi trovare [Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07C2K8Q2P/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07C2K8Q2P/?tag=tolees00-21)

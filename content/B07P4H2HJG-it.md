@@ -26,4 +26,4 @@ Puoi trovare [Jump Force - PlayStation 4](https://www.amazon.it/dp/B07P4H2HJG/?t
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21)

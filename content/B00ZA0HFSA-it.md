@@ -26,4 +26,4 @@ Puoi trovare [KLIM™ Cool Universal Raffreddatore per PC Portatile – Ventola 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00ZA0HFSA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ZA0HFSA/?tag=tolees00-21)

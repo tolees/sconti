@@ -26,4 +26,4 @@ Puoi trovare [QHOHQ Cover per Samsung Galaxy M31S con 2 Pezzi Pellicola Protetti
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GQ1YBD4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GQ1YBD4/?tag=tolees00-21)

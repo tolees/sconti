@@ -26,4 +26,4 @@ Puoi trovare [Vans Left Chest Logo Tee T-Shirt Uomo  Bianco  White   X-Large  11
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07F2QMJHR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2QMJHR/?tag=tolees00-21)

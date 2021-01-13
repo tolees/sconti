@@ -26,4 +26,4 @@ Puoi trovare [Mastro Lindo Detersivo Multiuso Candeggina  Maxi Formato 6 Pezzi d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084PSFFBT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084PSFFBT/?tag=tolees00-21)

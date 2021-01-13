@@ -26,4 +26,4 @@ Puoi trovare [NAPAPIJRI Dueville C Maglia a Maniche Lunghe  Verde  Green Way Gw1
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VHMG2CB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VHMG2CB/?tag=tolees00-21)

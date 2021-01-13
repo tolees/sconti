@@ -26,4 +26,4 @@ Puoi trovare [LEGO Classic 11003 Mattoncini e Occhi Set di Costruzioni Creativo 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FP2KPWS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FP2KPWS/?tag=tolees00-21)

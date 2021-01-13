@@ -26,4 +26,4 @@ Puoi trovare [OTHA Scheda di acquisizione Video  Dispositivo di acquisizione Aud
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FDM6N6H/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FDM6N6H/?tag=tolees00-21)

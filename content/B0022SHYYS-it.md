@@ -26,4 +26,4 @@ Puoi trovare [Konus - Bussola KONUSTAR-10 Grigia  4074](https://www.amazon.it/dp
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21)

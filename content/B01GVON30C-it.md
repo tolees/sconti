@@ -26,4 +26,4 @@ Puoi trovare [Cyclette Cicletta Bici Da Camera Easy Belt Cardio Cardiofrequenzim
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01GVON30C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GVON30C/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [riverso - Pantaloncini Cargo da Uomo RIVAnton  con Cintura  100% C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RK98LL6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RK98LL6/?tag=tolees00-21)

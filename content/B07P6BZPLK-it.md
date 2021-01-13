@@ -26,4 +26,4 @@ Puoi trovare [Lenor Natural Ammorbidente Fiori di Seta  210 Lavaggi  Maxi Format
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07P6BZPLK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P6BZPLK/?tag=tolees00-21)

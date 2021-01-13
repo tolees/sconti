@@ -26,4 +26,4 @@ Puoi trovare [Logitech G604 LIGHTSPEED Mouse Gaming Wireless con 15 Controlli Pr
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W6JKL78/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W6JKL78/?tag=tolees00-21)

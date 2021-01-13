@@ -26,4 +26,4 @@ Puoi trovare [Seghetto Alternativo a Batteria  TECCPO Sega Elettrico  2×2.0Ah B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07T584PHV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T584PHV/?tag=tolees00-21)

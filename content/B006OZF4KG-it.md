@@ -26,4 +26,4 @@ Puoi trovare [Revlon ColorStay  colore per sopracciglia](https://www.amazon.it/d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B006OZF4KG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B006OZF4KG/?tag=tolees00-21)

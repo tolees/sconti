@@ -26,4 +26,4 @@ Puoi trovare [Lorus Orologio Analogico-Digitale Quarzo Uomo con Cinturino in Acc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0154B6TAY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0154B6TAY/?tag=tolees00-21)

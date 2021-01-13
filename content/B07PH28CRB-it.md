@@ -26,4 +26,4 @@ Puoi trovare [BLACK+DECKER BHHV315J-QW  Aspiratore Ricaricabile Aspirabriciole L
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PH28CRB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PH28CRB/?tag=tolees00-21)

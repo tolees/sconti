@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY Ricambio 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HQBC816/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HQBC816/?tag=tolees00-21)

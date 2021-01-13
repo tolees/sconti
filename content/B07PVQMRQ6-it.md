@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Top Mix  Infradito Unisex-Adulto  Nero  Black/Steel Grey
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PVQMRQ6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PVQMRQ6/?tag=tolees00-21)

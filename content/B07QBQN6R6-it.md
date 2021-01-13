@@ -26,4 +26,4 @@ Puoi trovare [Funko- Pop Bobble in Vinile Marvel: Holiday-Deadpool Figura da Col
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07QBQN6R6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QBQN6R6/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Osram Lampadina LED Star Pin con attacco G4  =28W  luce calda  non
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01HD52QGK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01HD52QGK/?tag=tolees00-21)

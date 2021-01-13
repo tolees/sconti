@@ -26,4 +26,4 @@ Puoi trovare [alvorog Specchio Trucco con Luce LED e Ingrandimento 1x / 5X  Spec
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F3BC2JW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F3BC2JW/?tag=tolees00-21)

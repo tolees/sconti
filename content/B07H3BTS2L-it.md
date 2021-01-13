@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Hype  Infradito Uomo  Multicolore  Sand Grey/Dark Brown 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07H3BTS2L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H3BTS2L/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [ORICO Stazione di Ricarica Mobile USB  Dock di Ricarica USB a 7 Po
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XKLHVVK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XKLHVVK/?tag=tolees00-21)

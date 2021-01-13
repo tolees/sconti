@@ -26,4 +26,4 @@ Puoi trovare [K-Way Le Vrai 3.0 Victor Unisex Felpa  Rosso  Small  Taglia Produt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01M0IYKPC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0IYKPC/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Crocs Crocband Clogs  Ciabatte Unisex – Adulto  Blu  Navy   42/4
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B002JCST0U/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B002JCST0U/?tag=tolees00-21)

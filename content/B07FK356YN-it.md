@@ -26,4 +26,4 @@ Puoi trovare [find. Slouch Stivaletti  Nero Black   40 EU](https://www.amazon.it
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FK356YN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FK356YN/?tag=tolees00-21)

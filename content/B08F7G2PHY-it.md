@@ -26,4 +26,4 @@ Puoi trovare [Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD Maximum 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F7G2PHY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F7G2PHY/?tag=tolees00-21)

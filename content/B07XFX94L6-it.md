@@ -26,4 +26,4 @@ Puoi trovare [Puma Amplified Crew Sweat TR  Felpa Donna  Black  L](https://www.a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XFX94L6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XFX94L6/?tag=tolees00-21)

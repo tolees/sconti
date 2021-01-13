@@ -26,4 +26,4 @@ Puoi trovare [AUKEY Tappetino Mouse Gaming Grande XL  900x400x4mm Mouse Pad  Tap
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00QQ4EZNM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00QQ4EZNM/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Hackett Continuity WSH/Oxford Camicia  Rosa  Pink 325   44  Taglia
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VF6J54V/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VF6J54V/?tag=tolees00-21)

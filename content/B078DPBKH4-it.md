@@ -26,4 +26,4 @@ Puoi trovare [Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato - 1 confez
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21)

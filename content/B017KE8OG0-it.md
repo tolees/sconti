@@ -26,4 +26,4 @@ Puoi trovare [Seagate Expansion  Unità Disco Esterna Portatile da 4 TB - USB 3.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B017KE8OG0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B017KE8OG0/?tag=tolees00-21)

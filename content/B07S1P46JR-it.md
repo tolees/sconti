@@ -26,4 +26,4 @@ Puoi trovare [Levi s 501 Crop Jeans Boyfriend  Jive Stonewash 0073  23W / 26L Do
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S1P46JR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S1P46JR/?tag=tolees00-21)

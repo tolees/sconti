@@ -26,4 +26,4 @@ Puoi trovare [ARMANI EXCHANGE Icon T T-Shirt  Bianco  White W/Saint Tropez 7141 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SYNN8P8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SYNN8P8/?tag=tolees00-21)

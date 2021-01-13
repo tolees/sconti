@@ -26,4 +26,4 @@ Puoi trovare [Gillette Sensor3 Cool 30 Rasoi Usa e Getta  Maxi Formato da 18 + 1
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086WRP5Q6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086WRP5Q6/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Adidas Parma 16 SHO  Pantaloncini Uomo  Blu  Dark Blue/White   M](
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B016QAKLII/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B016QAKLII/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Clarks Sheer Rose  Scarpe con Tacco Donna  Multicolore  Leopard Pr
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07N1K32LC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07N1K32LC/?tag=tolees00-21)

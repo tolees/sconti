@@ -26,4 +26,4 @@ Puoi trovare [Pantene Pro-V Shampoo Ricci Perfetti  per Ricci Luminosi e Corposi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085D2LW6M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085D2LW6M/?tag=tolees00-21)

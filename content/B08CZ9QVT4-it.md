@@ -26,4 +26,4 @@ Puoi trovare [UniqueMe [3 Pezzi] Vetro Temperato per Xiaomi Redmi 9 Pellicola Ve
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CZ9QVT4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CZ9QVT4/?tag=tolees00-21)

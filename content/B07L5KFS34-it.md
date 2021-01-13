@@ -26,4 +26,4 @@ Puoi trovare [Gnceei Power Bank 24000mAh Caricabatterie Portatile Solare Powerba
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07L5KFS34/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07L5KFS34/?tag=tolees00-21)

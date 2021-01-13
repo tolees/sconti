@@ -26,4 +26,4 @@ Puoi trovare [Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BHRD64Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BHRD64Y/?tag=tolees00-21)

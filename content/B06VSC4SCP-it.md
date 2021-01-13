@@ -26,4 +26,4 @@ Puoi trovare [Sector No Limits Orologio Digitale Uomo con Cinturino in Silicone 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06VSC4SCP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06VSC4SCP/?tag=tolees00-21)

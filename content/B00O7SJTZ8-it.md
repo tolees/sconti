@@ -26,4 +26,4 @@ Puoi trovare [Garmin 010-11251-41 cinturino per orologio](https://www.amazon.it/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00O7SJTZ8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00O7SJTZ8/?tag=tolees00-21)

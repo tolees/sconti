@@ -26,4 +26,4 @@ Puoi trovare [Lower East impermeable Uomo  Blu  Navy   Small](https://www.amazon
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01MQQSGT4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MQQSGT4/?tag=tolees00-21)

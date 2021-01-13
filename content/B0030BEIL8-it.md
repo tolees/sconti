@@ -26,4 +26,4 @@ Puoi trovare [Forbici a cricchetto GARDENA SmartCut: Stabili forbici con taglien
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0030BEIL8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0030BEIL8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Spirits In The Forest](https://www.amazon.it/dp/B08556TFBG/?tag=to
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08556TFBG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08556TFBG/?tag=tolees00-21)

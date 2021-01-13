@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger X Bralette Brassière  Nero  Black 990   Medium Don
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21)

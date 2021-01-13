@@ -26,4 +26,4 @@ Puoi trovare [K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Rosso  Red   S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00OV4UXB2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00OV4UXB2/?tag=tolees00-21)

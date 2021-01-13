@@ -26,4 +26,4 @@ Puoi trovare [Diadora - Sneakers Titan II per Uomo e Donna  EU 40 ](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07N1YTW46/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07N1YTW46/?tag=tolees00-21)

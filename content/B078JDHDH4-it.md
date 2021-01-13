@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger New Adan Belt 3.5cm Cintura  Blu  Sky Captain 422  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078JDHDH4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078JDHDH4/?tag=tolees00-21)

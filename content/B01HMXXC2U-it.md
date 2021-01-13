@@ -26,4 +26,4 @@ Puoi trovare [TRE MARIE ANCORA UNO WAFER STRACCIATELLA 140 GR](https://www.amazo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01HMXXC2U/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01HMXXC2U/?tag=tolees00-21)

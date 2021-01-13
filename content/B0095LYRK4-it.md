@@ -26,4 +26,4 @@ Puoi trovare [Satya assortimento di Inciensos 12 scatole da 15 g](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0095LYRK4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0095LYRK4/?tag=tolees00-21)

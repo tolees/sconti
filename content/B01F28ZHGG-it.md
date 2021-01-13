@@ -26,4 +26,4 @@ Puoi trovare [Call of Duty: Infinite Warfare - Legacy Edition - PlayStation 4](h
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21)

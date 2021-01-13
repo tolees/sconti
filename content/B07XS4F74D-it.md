@@ -26,4 +26,4 @@ Puoi trovare [Apple iPhone 11  128GB  - Bianco](https://www.amazon.it/dp/B07XS4F
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XS4F74D/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XS4F74D/?tag=tolees00-21)

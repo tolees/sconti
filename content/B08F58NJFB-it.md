@@ -26,4 +26,4 @@ Puoi trovare [BAITITON 2 5 pollici SATA III Unità a Stato Solido Interno 256GB 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F58NJFB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F58NJFB/?tag=tolees00-21)

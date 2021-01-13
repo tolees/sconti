@@ -26,4 +26,4 @@ Puoi trovare [Levi s 311 Shaping Skinny Jeans  Blu  London Nights 0153   28W / 3
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KF666QT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KF666QT/?tag=tolees00-21)

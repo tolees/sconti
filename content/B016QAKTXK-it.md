@@ -26,4 +26,4 @@ Puoi trovare [Adidas Parma 16 SHO  Pantaloncini Uomo  Giallo  Yellow/Black   Lar
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B016QAKTXK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B016QAKTXK/?tag=tolees00-21)

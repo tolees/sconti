@@ -26,4 +26,4 @@ Puoi trovare [BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori + 1 min
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01LXJICO0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LXJICO0/?tag=tolees00-21)

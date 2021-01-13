@@ -26,4 +26,4 @@ Puoi trovare [Levi s June L S  Infradito Donna  Rosa  Light Pink 81   39 EU](htt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SH1W2C4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SH1W2C4/?tag=tolees00-21)

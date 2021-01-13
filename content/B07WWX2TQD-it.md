@@ -26,4 +26,4 @@ Puoi trovare [Cuscino Da Viaggio Memory Foam Sidias Cuscino Cervicale Ortopedico
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WWX2TQD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WWX2TQD/?tag=tolees00-21)

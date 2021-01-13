@@ -26,4 +26,4 @@ Puoi trovare [Clarks Sheer Rose  Scarpe con Tacco Donna  Beige  Navy Suede Navy 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TJK4RQ6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJK4RQ6/?tag=tolees00-21)

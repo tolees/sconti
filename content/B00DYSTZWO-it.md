@@ -26,4 +26,4 @@ Puoi trovare [Pentole Agnelli ALSC111BSSC36 Alblack Padella Svasata Alta Saltare
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00DYSTZWO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYSTZWO/?tag=tolees00-21)

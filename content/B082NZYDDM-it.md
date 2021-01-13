@@ -26,4 +26,4 @@ Puoi trovare [Cudy AX3000 WiFi 6 Adattatore PCIe  Bluetooth 5.0 PCIe Card  2402M
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082NZYDDM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082NZYDDM/?tag=tolees00-21)

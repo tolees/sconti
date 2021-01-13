@@ -26,4 +26,4 @@ Puoi trovare [Pasante  Profilattici Extra Sensitive  144 Pezzi](https://www.amaz
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00DAGWUZ4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00DAGWUZ4/?tag=tolees00-21)

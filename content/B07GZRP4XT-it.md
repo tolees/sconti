@@ -26,4 +26,4 @@ Puoi trovare [Marchio Amazon - MERAKI Blazer Casual Uomo  Grigio  Charcoal   50 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GZRP4XT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GZRP4XT/?tag=tolees00-21)

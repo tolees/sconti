@@ -26,4 +26,4 @@ Puoi trovare [Swiffer Sweeper - Salviette asciutte/umide  kit di avvio per pavim
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07CSC1VZ6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07CSC1VZ6/?tag=tolees00-21)

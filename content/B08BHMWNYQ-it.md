@@ -26,4 +26,4 @@ Puoi trovare [Proiettore WiFi WiMiUS 7200 Lumen Videoproiettore Full HD Nativa 1
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BHMWNYQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BHMWNYQ/?tag=tolees00-21)

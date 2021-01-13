@@ -26,4 +26,4 @@ Puoi trovare [MMLsure 6 Pezzi indossabili all Interno e all Esterno  6 Pezzi Ner
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08H54QRGF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08H54QRGF/?tag=tolees00-21)

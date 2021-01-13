@@ -26,4 +26,4 @@ Puoi trovare [GALAX PRO 20V Utensile Multifunzione  5000-18000OPM Strumento Osci
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07Z3HW68L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z3HW68L/?tag=tolees00-21)

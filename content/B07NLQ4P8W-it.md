@@ -26,4 +26,4 @@ Puoi trovare [Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione  Bassi Potenti c
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NLQ4P8W/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NLQ4P8W/?tag=tolees00-21)

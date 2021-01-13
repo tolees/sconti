@@ -26,4 +26,4 @@ Puoi trovare [Philips Regolabarba Uomo BT5509/16 S5000 Utilizzo Con e Senza Filo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07P5NC2QF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P5NC2QF/?tag=tolees00-21)

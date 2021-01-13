@@ -26,4 +26,4 @@ Puoi trovare [Casio Orologio Analogico al Quarzo Uomo con Cinturino in Nylon MTP
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00JOBHGQW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00JOBHGQW/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [PHILIP WATCH Guarda R8253597543](https://www.amazon.it/dp/B07J4LRW
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07J4LRWFJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07J4LRWFJ/?tag=tolees00-21)

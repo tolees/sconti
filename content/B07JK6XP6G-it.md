@@ -26,4 +26,4 @@ Puoi trovare [Under Armour UA Undeniable SP 2.0  Borsa Unisex  Nero  OSFA](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07JK6XP6G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JK6XP6G/?tag=tolees00-21)

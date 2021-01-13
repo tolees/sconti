@@ -26,4 +26,4 @@ Puoi trovare [Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto Formato 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07CV6XRBD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07CV6XRBD/?tag=tolees00-21)

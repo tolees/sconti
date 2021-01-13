@@ -26,4 +26,4 @@ Puoi trovare [New Balance 373 Core  Sneaker Uomo  Blu  Navy/White Cc2 ](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RZLXX38/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RZLXX38/?tag=tolees00-21)

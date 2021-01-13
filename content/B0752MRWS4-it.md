@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Adulto  Giallo  Banana Yel
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0752MRWS4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0752MRWS4/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [HUGO Orologio Quarzo con Cinturino in Acciaio Inox 1530131](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084R38ZSF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084R38ZSF/?tag=tolees00-21)

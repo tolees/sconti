@@ -26,4 +26,4 @@ Puoi trovare [LEITZ Borsa Messenger  15 6    - Smart Traveller - Nero - 60190095
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00MPQ7Y2E/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00MPQ7Y2E/?tag=tolees00-21)

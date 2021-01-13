@@ -26,4 +26,4 @@ Puoi trovare [Saucony Shadow Original Vintage  Scarpe da Ginnastica Basse Uomo  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DR5XDX8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DR5XDX8/?tag=tolees00-21)

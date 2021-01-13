@@ -26,4 +26,4 @@ Puoi trovare [Alex Perry Regalo Collana Donna Argento Punto Luce Collana Idee Re
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07J6GX3F8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07J6GX3F8/?tag=tolees00-21)

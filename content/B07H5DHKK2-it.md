@@ -26,4 +26,4 @@ Puoi trovare [KingDian 2 5 pollici SATA III 1TB 3D NAND Performance SSD interno]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07H5DHKK2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H5DHKK2/?tag=tolees00-21)

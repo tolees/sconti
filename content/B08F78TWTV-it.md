@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Dawn 2.0 Remap kit Trigger Stop per Playstation 4 Joys
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F78TWTV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F78TWTV/?tag=tolees00-21)

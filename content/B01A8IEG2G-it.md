@@ -26,4 +26,4 @@ Puoi trovare [Cavo Micro USB [ 1M - 2Pezzi ] Rampow Trasferimento Dati e Ricaric
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01A8IEG2G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01A8IEG2G/?tag=tolees00-21)

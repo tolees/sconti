@@ -26,4 +26,4 @@ average: '21.99'
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00FDLV1EK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00FDLV1EK/?tag=tolees00-21)

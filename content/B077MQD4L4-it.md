@@ -26,4 +26,4 @@ Puoi trovare [Puma Smash V2 Scape per Sport Outdoor Unisex - Adulto  Nero  Puma 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B077MQD4L4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B077MQD4L4/?tag=tolees00-21)

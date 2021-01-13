@@ -26,4 +26,4 @@ Puoi trovare [adidas Streetcheck  Scarpe da Basketball Uomo  Multicolore  Core B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RGQ6CF2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RGQ6CF2/?tag=tolees00-21)

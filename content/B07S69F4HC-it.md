@@ -26,4 +26,4 @@ Puoi trovare [Logitech G403 HERO 16K  Mouse Gaming  Lightsync RGB  Leggero 87 g 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S69F4HC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S69F4HC/?tag=tolees00-21)

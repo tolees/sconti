@@ -26,4 +26,4 @@ Puoi trovare [adidas Cropped Hood](https://www.amazon.it/dp/B081TTH2V4/?tag=tole
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B081TTH2V4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B081TTH2V4/?tag=tolees00-21)

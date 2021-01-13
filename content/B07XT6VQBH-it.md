@@ -26,4 +26,4 @@ Puoi trovare [YOUNGDO Idropulsore Dentale Professionale da capacità 600ml  Irri
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XT6VQBH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XT6VQBH/?tag=tolees00-21)

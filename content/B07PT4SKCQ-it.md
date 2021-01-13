@@ -26,4 +26,4 @@ Puoi trovare [SAWAKE Ventilatore Manuale  Ventola USB Portatile con Base  Mini V
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PT4SKCQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PT4SKCQ/?tag=tolees00-21)

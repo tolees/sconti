@@ -26,4 +26,4 @@ Puoi trovare [Geographical Norway Felpa da uomo GYMCLASS A Grigio Scuro M](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07Y5CNHD6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y5CNHD6/?tag=tolees00-21)

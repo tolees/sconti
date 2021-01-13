@@ -26,4 +26,4 @@ Puoi trovare [JACK & JONES Jjglenn Original Jj 887 Noos Jeans  Blu Denim  34W / 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00WWPNUZI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00WWPNUZI/?tag=tolees00-21)

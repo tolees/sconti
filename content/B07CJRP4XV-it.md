@@ -26,4 +26,4 @@ Puoi trovare [Only Onlroyal Reg SK DNM Jeans Bj312 Noos Skinny  Grigio  Dark Gre
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07CJRP4XV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJRP4XV/?tag=tolees00-21)

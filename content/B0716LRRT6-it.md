@@ -26,4 +26,4 @@ Puoi trovare [Levi s The Perfect Tee Maglietta  Grigio  Better Batwing Smokestac
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0716LRRT6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0716LRRT6/?tag=tolees00-21)

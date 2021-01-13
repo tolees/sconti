@@ -26,4 +26,4 @@ Puoi trovare [Funko POP! Games: Fortnite - Burnout #457 Vinyl Figure](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07L46GPL6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07L46GPL6/?tag=tolees00-21)

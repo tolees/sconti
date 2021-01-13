@@ -26,4 +26,4 @@ Puoi trovare [Massaggiatore Cervicale  cervicale massaggiatore homedics Multifun
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088TT4QHR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088TT4QHR/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Songmics LJB64GUK - Set di 2 sgabelli da bar regolabili in altezza
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B073GV9XD8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B073GV9XD8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Organic Cotton Silk Crew Neck Pantaloni  Verde  Fad
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VSFMK22/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VSFMK22/?tag=tolees00-21)

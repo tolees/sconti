@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein CK Free  Eau de Toilette da uomo  50 ml](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B002TELMIY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B002TELMIY/?tag=tolees00-21)

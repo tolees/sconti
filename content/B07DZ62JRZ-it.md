@@ -26,4 +26,4 @@ Puoi trovare [HP - Gaming Omen 400 Mouse Gaming  6 Tasti Programmabili  DPI da 1
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DZ62JRZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DZ62JRZ/?tag=tolees00-21)

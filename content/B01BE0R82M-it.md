@@ -26,4 +26,4 @@ Puoi trovare [Bosch Professional 0.601.9F2.000 Smerigliatrice Angolare GWS 12V-7
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01BE0R82M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01BE0R82M/?tag=tolees00-21)

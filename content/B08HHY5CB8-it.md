@@ -26,4 +26,4 @@ Puoi trovare [Yagte Hard Disk 2 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HHY5CB8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HHY5CB8/?tag=tolees00-21)

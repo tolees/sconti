@@ -26,4 +26,4 @@ Puoi trovare [Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone  Brown Ful
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B006WJNQA4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B006WJNQA4/?tag=tolees00-21)

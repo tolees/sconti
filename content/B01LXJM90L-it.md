@@ -26,4 +26,4 @@ Puoi trovare [Specchio Trucco 8 LED Specchio Cosmetico Portatile Pieghevole con 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01LXJM90L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LXJM90L/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [La Roche-Posay Lipikar Xerand Crema Mani Riparatrice - 50 ml](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0042HXMJI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0042HXMJI/?tag=tolees00-21)

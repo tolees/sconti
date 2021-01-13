@@ -26,4 +26,4 @@ Puoi trovare [KOLLIEE Aromaterapia Oli Essenziali Puri Bio Oli Essenziali Per Di
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082KYNZ4B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082KYNZ4B/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Fila Disruptor Low  Scarpe da Ginnastica Basse Uomo  Nero  Black 2
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07B8QK18L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07B8QK18L/?tag=tolees00-21)

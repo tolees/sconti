@@ -26,4 +26,4 @@ Puoi trovare [Ocean S Eight  4K+Br ](https://www.amazon.it/dp/B07G496PFW/?tag=to
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07G496PFW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07G496PFW/?tag=tolees00-21)

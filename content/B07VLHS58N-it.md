@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Racer Back One Piece Reggiseno Bikini  Rosso  High Ri
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VLHS58N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VLHS58N/?tag=tolees00-21)

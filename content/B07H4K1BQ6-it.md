@@ -26,4 +26,4 @@ Puoi trovare [David Jones - Borsa Tracolla Piccola Donna - Borsa a Spalla Catena
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07H4K1BQ6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H4K1BQ6/?tag=tolees00-21)

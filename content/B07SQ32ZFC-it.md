@@ -26,4 +26,4 @@ Puoi trovare [Crocs Swiftwater Molded Expedition Sandal  Punta Aperta Uomo  Nero
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SQ32ZFC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SQ32ZFC/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Huion Inspiroy H430P Tavoletta grafica da disegno Tavoletta da fir
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078JJ8VNS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078JJ8VNS/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Termometro digitale a infrarossi Cloc](https://www.amazon.it/dp/B0
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086WMN4PW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086WMN4PW/?tag=tolees00-21)

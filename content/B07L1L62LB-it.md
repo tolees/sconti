@@ -26,4 +26,4 @@ Puoi trovare [Diadora - Sneakers Camaro per Uomo e Donna  EU 38.5 ](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07L1L62LB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07L1L62LB/?tag=tolees00-21)

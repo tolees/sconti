@@ -26,4 +26,4 @@ Puoi trovare [PUMA Carina L  Scarpe da Ginnastica Donna  Bianco White White Silv
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07JH2RZ6X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JH2RZ6X/?tag=tolees00-21)

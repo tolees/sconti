@@ -26,4 +26,4 @@ Puoi trovare [Marchio Amazon - Goodthreads  giacca aderente in twill elasticizza
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07J2HVSWK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07J2HVSWK/?tag=tolees00-21)

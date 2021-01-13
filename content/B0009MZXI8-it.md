@@ -26,4 +26,4 @@ Puoi trovare [Thorlo Thorlos Crew-Calzini da tennis  taglia M  colore: Bianco  M
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0009MZXI8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0009MZXI8/?tag=tolees00-21)

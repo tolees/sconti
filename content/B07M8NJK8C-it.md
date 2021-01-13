@@ -26,4 +26,4 @@ Puoi trovare [Braun MGK5080 Rifinitore 9-In-1 RegolaBarba Uomo  Rasoio Elettrico
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07M8NJK8C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07M8NJK8C/?tag=tolees00-21)

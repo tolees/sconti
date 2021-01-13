@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Lofty Remap Kit Programmabile&Trigger Stop per Xbox On
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GSS1M86/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GSS1M86/?tag=tolees00-21)

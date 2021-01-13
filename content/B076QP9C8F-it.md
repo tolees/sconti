@@ -26,4 +26,4 @@ Puoi trovare [Pritt Colla Stick 5 x 11g  colla per bambini sicura e affidabile  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B076QP9C8F/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B076QP9C8F/?tag=tolees00-21)

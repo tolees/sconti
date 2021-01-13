@@ -26,4 +26,4 @@ Puoi trovare [Aigostar Acciaio viola 31HGC - Ferro da stiro 2200W&370ML in accia
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01GOBY5X6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GOBY5X6/?tag=tolees00-21)

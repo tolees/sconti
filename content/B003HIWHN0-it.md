@@ -26,4 +26,4 @@ Puoi trovare [SanDisk Scheda di Memoria MicroSDHC 32 GB Classe 4](https://www.am
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003HIWHN0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003HIWHN0/?tag=tolees00-21)

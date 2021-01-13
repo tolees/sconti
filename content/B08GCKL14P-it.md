@@ -26,4 +26,4 @@ Puoi trovare [HNOOM Supporto Telefono  Supporto Tablet da Tavolo  Supporto per C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GCKL14P/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GCKL14P/?tag=tolees00-21)

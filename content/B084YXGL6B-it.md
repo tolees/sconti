@@ -26,4 +26,4 @@ Puoi trovare [WeciBor Calzini Vestito Arte da Uomo Calze Fantasia Uomo Calze Lun
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084YXGL6B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084YXGL6B/?tag=tolees00-21)

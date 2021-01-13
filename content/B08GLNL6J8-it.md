@@ -26,4 +26,4 @@ Puoi trovare [UniqueMe [3 Pezzi] Pellicola Fotocamera per Xiaomi Mi Note 10 e [2
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GLNL6J8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GLNL6J8/?tag=tolees00-21)

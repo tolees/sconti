@@ -26,4 +26,4 @@ Puoi trovare [Clarks Batcombe Wing  Scarpe Stringate Derby Uomo  Nero  Black Lea
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074N6SCSD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074N6SCSD/?tag=tolees00-21)

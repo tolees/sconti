@@ -26,4 +26,4 @@ Puoi trovare [Smartwares 6000.631 Manou Lampada da tavolo – Attacco ES/E27 –
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00UKUO8O4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00UKUO8O4/?tag=tolees00-21)

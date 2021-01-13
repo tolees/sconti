@@ -26,4 +26,4 @@ Puoi trovare [Imetec Piuma Extreme++ SC3-100 Aspirapolvere con Tecnologia Ciclon
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W5FS4ZL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W5FS4ZL/?tag=tolees00-21)

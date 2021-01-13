@@ -26,4 +26,4 @@ Puoi trovare [AUKEY USB C Caricatore da Muro con 27W Power Delivery 3.0  USB C C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KZQT48G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KZQT48G/?tag=tolees00-21)

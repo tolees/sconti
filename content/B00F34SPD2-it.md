@@ -26,4 +26,4 @@ Puoi trovare [CAVO AV COMPOSITO VIDEO AUDIO 1 8MT RCA PER Nintendo Wii](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00F34SPD2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00F34SPD2/?tag=tolees00-21)

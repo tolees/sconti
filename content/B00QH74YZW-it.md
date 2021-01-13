@@ -26,4 +26,4 @@ Puoi trovare [adidas Stan Smith J  Scarpe da Basket Unisex-Adulto  Nero  Black M
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00QH74YZW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00QH74YZW/?tag=tolees00-21)

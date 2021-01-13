@@ -26,4 +26,4 @@ Puoi trovare [Marchio Amazon - MERAKI Blazer Casual Uomo  Grigio  Grey Marl   48
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GZT4VTJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GZT4VTJ/?tag=tolees00-21)

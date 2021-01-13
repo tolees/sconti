@@ -26,4 +26,4 @@ Puoi trovare [Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Giacca  Nero  Black 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074ZNZDHH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074ZNZDHH/?tag=tolees00-21)

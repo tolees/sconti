@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Bikini Slip  Bianco  White 100   42  Taglia Produtt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078GB9WJ6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078GB9WJ6/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Diesel UMBR-ANDRETHREEPACK  Slip Uomo  Multicolore  Dark Grey Mela
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0792PD6LZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0792PD6LZ/?tag=tolees00-21)

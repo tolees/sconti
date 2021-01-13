@@ -26,4 +26,4 @@ Puoi trovare [GIARIDE Cavo HDMI a VGA HDMI D-Sub 15 Pin M/M Adattatore Video Sup
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W3Z9S2D/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W3Z9S2D/?tag=tolees00-21)

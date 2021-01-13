@@ -26,4 +26,4 @@ Puoi trovare [TOCOL [3 Pezzi] Pellicola Protettiva per Xiaomi Redmi 9A Schermo P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FFYVT52/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FFYVT52/?tag=tolees00-21)

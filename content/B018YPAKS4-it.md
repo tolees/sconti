@@ -26,4 +26,4 @@ Puoi trovare [Bosch Professional Smerigliatrice Angolare GWS 7-125  Ø Disco: 12
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B018YPAKS4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B018YPAKS4/?tag=tolees00-21)

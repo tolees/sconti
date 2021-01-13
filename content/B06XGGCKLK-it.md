@@ -26,4 +26,4 @@ Puoi trovare [find. Scarpe Derby Uomo  Nero  Black   39/40 EU](https://www.amazo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XGGCKLK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XGGCKLK/?tag=tolees00-21)

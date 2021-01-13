@@ -26,4 +26,4 @@ Puoi trovare [TIPPY PAD dispositivo anti abbandono](https://www.amazon.it/dp/B07
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078W8BBFK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078W8BBFK/?tag=tolees00-21)

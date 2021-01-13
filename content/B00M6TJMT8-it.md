@@ -26,4 +26,4 @@ Puoi trovare [Pen Drive 128 gb USB 3.0 Philips FM12FD75B chiavetta flash drive  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00M6TJMT8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00M6TJMT8/?tag=tolees00-21)

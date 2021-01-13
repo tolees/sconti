@@ -26,4 +26,4 @@ Puoi trovare [XIDU Tour Pro 12 5" Notebook Portatile  4K Touchscreen  Intel 3867
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CDMV722/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CDMV722/?tag=tolees00-21)

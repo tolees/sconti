@@ -26,4 +26,4 @@ Puoi trovare [Panasonic DC-FZ82 Fotocamera 4K  18.1 Megapixel  Obiettivo zoom 20
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01NARXQ2E/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01NARXQ2E/?tag=tolees00-21)

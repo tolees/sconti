@@ -26,4 +26,4 @@ Puoi trovare [Columbia Lake 22  Piumino lungo con Cappuccio Donna  Blu  Nocturna
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07R7XNT8H/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07R7XNT8H/?tag=tolees00-21)

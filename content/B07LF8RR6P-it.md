@@ -26,4 +26,4 @@ Puoi trovare [Levi s 2pk Crewneck Graphic T-Shirt  Multicolore  2 Pack SW White/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07LF8RR6P/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07LF8RR6P/?tag=tolees00-21)

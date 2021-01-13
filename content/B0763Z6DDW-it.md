@@ -26,4 +26,4 @@ Puoi trovare [Chupa Chups Skull Lecca Lecca  Confezione da 100 Lollipops Monopez
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0763Z6DDW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0763Z6DDW/?tag=tolees00-21)

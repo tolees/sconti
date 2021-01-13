@@ -26,4 +26,4 @@ Puoi trovare [Apple iPhone 11 Pro  64GB  - Verde Notte](https://www.amazon.it/dp
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XS3ZX16/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XS3ZX16/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Philips Lighting Hue Go White and Color Ambiance  Lampada Portatil
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SQ2FZTK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SQ2FZTK/?tag=tolees00-21)

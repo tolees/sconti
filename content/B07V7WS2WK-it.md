@@ -26,4 +26,4 @@ Puoi trovare [Love Moschino Jc4252pp0a  Pochette da Giorno Donna  Nero  Black Me
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V7WS2WK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V7WS2WK/?tag=tolees00-21)

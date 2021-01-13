@@ -26,4 +26,4 @@ Puoi trovare [Sony MDRAS210B Cuffie In-Ear Sportive  Archetti ad Anello Regolabi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01LDKH2PG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LDKH2PG/?tag=tolees00-21)

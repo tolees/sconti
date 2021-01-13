@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Bambini  Rosa  Hollywood R
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SP41QB8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SP41QB8/?tag=tolees00-21)

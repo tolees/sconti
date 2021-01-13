@@ -26,4 +26,4 @@ Puoi trovare [Bonaventura Maschio la Grappa 903 Barrique - 350 ml](https://www.a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00XUO8J38/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUO8J38/?tag=tolees00-21)

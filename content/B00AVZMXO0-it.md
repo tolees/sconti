@@ -26,4 +26,4 @@ Puoi trovare [Vans Atwood  Scarpe da Ginnastica Uomo  Nero  Canvas/Black/White  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00AVZMXO0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00AVZMXO0/?tag=tolees00-21)

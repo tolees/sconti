@@ -26,4 +26,4 @@ Puoi trovare [Vernel Blu Oxygen Ammorbidente Concentrato Profumato per Lavatrice
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B081BF4P2Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B081BF4P2Z/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [New Balance 574v2 Core  Scarpa da Tennis Donna  Grigio  Grey   36.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XXGLSYX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XXGLSYX/?tag=tolees00-21)

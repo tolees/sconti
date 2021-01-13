@@ -26,4 +26,4 @@ Puoi trovare [Me Contro Te Il Film La Vendetta Del Signor S](https://www.amazon.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084PT7NM4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084PT7NM4/?tag=tolees00-21)

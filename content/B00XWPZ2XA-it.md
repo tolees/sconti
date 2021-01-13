@@ -26,4 +26,4 @@ Puoi trovare [Nike Tanjun Mn  Scarpe Sportive Uomo  Blu  Midnight Navy/White-Gam
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00XWPZ2XA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00XWPZ2XA/?tag=tolees00-21)

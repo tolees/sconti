@@ -26,4 +26,4 @@ Puoi trovare [Soundcore Icon Mini di Anker  Altoparlante Bluetooth impermeabile 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07LBMJ98L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07LBMJ98L/?tag=tolees00-21)

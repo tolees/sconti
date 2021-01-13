@@ -26,4 +26,4 @@ Puoi trovare [Ardes AR6230B Forno Elettrico Ventilato Gustavo Black 30 Litri 6 F
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0744PN2VY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0744PN2VY/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Netgear GS116E Switch Smart Managed Plus a 16 Porte Gigabit Ethern
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21)

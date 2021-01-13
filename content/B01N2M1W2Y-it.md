@@ -26,4 +26,4 @@ Puoi trovare [Trafficanti-War Dogs  4K+Br+Copia Dig. ](https://www.amazon.it/dp/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N2M1W2Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N2M1W2Y/?tag=tolees00-21)

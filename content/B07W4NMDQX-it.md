@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva  Nero  B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W4NMDQX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W4NMDQX/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone  MD Brown 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07F2B4HYT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2B4HYT/?tag=tolees00-21)

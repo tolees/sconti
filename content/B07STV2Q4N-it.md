@@ -26,4 +26,4 @@ Puoi trovare [Geox D Genova Moc A  Mocassini Donna  Blu  Navy C4002   40 EU](htt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07STV2Q4N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07STV2Q4N/?tag=tolees00-21)

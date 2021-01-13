@@ -26,4 +26,4 @@ Puoi trovare [SanDisk Ultra Fit Unità Flash  USB 3.1 da 512 GB con Velocità fi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B083ZS4HYD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B083ZS4HYD/?tag=tolees00-21)

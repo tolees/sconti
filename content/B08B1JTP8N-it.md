@@ -26,4 +26,4 @@ Puoi trovare [jpantech Smartwatch Orologio Fitness Uomo Donna Impermeabile IP68 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08B1JTP8N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08B1JTP8N/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Inkbird IBT-2X Bluetooth Termometro Digitale Barbecue Termometro e
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06WGMDSBL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06WGMDSBL/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Shadow of Mordor Hits Collection - PS4 - Other - PlayStation 4](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DJQTD58/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DJQTD58/?tag=tolees00-21)

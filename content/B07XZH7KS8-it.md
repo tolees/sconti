@@ -26,4 +26,4 @@ Puoi trovare [HUAWEI T5 Mediapad 10 Tablet LTE con Display Full HD  1920 x 1200 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XZH7KS8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XZH7KS8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [KLAS REMO Dispenser di Sapone Automatico 400ML Erogatore di Sapone
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CVK5QD6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVK5QD6/?tag=tolees00-21)

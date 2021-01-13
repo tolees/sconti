@@ -26,4 +26,4 @@ Puoi trovare [Toolove Lampada da Lettura a LED USB Ricaricabile  Luce Lettura Re
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DLZZ2DJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DLZZ2DJ/?tag=tolees00-21)

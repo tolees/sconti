@@ -26,4 +26,4 @@ Puoi trovare [Powerbeats Pro Wireless Auricolari – Chip per cuffie Apple H1 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WC2BNFS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WC2BNFS/?tag=tolees00-21)

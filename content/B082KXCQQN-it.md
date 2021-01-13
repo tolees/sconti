@@ -26,4 +26,4 @@ Puoi trovare [QARFEE Chiavetta USB 3.0 per iPhone USB Memoria Stick 128GB 4 in 1
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082KXCQQN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082KXCQQN/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Tester PH/TDS&EC  Eletorot 4 in 1 tester elettronico di qualità d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0831BGM2J/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0831BGM2J/?tag=tolees00-21)

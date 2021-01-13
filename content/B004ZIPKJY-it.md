@@ -26,4 +26,4 @@ Puoi trovare [Helly Hansen New Driftline Maglia T-Shirt con UPF 30+ e Tessuto Ta
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B004ZIPKJY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B004ZIPKJY/?tag=tolees00-21)

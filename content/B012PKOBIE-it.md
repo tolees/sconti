@@ -26,4 +26,4 @@ Puoi trovare [Lexar 64GB 3500x Pro CFast Compact Flash Card -  LC64GCRBEU3500](h
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B012PKOBIE/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B012PKOBIE/?tag=tolees00-21)

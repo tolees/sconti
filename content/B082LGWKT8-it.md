@@ -26,4 +26,4 @@ Puoi trovare [Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo](https://www.amazon.i
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21)

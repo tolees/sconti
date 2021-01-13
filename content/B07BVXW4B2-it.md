@@ -26,4 +26,4 @@ Puoi trovare [Tomtom Navigatore Satellitare per Auto GO Basic  Traffico  Tutor e
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BVXW4B2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BVXW4B2/?tag=tolees00-21)

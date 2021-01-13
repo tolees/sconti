@@ -26,4 +26,4 @@ Puoi trovare [Set Manicure e Pedicure Elettrico TOUCHBeauty Kit di lime per ungh
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FX93CG2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FX93CG2/?tag=tolees00-21)

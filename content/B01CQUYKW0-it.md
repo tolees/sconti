@@ -26,4 +26,4 @@ Puoi trovare [Diadora - Sneakers B. Elite per Uomo e Donna  EU 36.5 ](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01CQUYKW0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01CQUYKW0/?tag=tolees00-21)

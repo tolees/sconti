@@ -26,4 +26,4 @@ Puoi trovare [Dove  Invisible Dry deodorante stick 40 ml](https://www.amazon.it/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B006EHVDWW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B006EHVDWW/?tag=tolees00-21)

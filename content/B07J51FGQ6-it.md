@@ -26,4 +26,4 @@ Puoi trovare [SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV Pieghevole Quad
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21)

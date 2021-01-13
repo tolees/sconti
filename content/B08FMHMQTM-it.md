@@ -26,4 +26,4 @@ Puoi trovare [TANSUNG Coltello da Cucina  Coltello da Chef e Cuoco  Lama 19cm co
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FMHMQTM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FMHMQTM/?tag=tolees00-21)

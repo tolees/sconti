@@ -26,4 +26,4 @@ Puoi trovare [XYB Auricolari Bluetooth 5.0  Auricolare Wireless  Microfono e Sca
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FMKMTC4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FMKMTC4/?tag=tolees00-21)

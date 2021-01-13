@@ -26,4 +26,4 @@ Puoi trovare [Canon IXUS 190 Fotocamera Digitale Compatta  20 MP  1/2.3"  CCD  5
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N20DLBG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N20DLBG/?tag=tolees00-21)

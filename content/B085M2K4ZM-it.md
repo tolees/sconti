@@ -26,4 +26,4 @@ Puoi trovare [Motorola Moto G8 Power Lite  Batteria 5000 mAh  Tripla Fotocamera 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085M2K4ZM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085M2K4ZM/?tag=tolees00-21)

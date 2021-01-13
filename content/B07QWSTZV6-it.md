@@ -26,4 +26,4 @@ Puoi trovare [YINSAN TM5  Cuffie Gaming per PS4  Cuffie PS4 Over Ear con Microfo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07QWSTZV6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QWSTZV6/?tag=tolees00-21)

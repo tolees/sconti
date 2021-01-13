@@ -26,4 +26,4 @@ Puoi trovare [New Balance Unisex - Adulto 574v2 Core Scarpe da Ginnastica  Blu  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06Y2WQLXM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y2WQLXM/?tag=tolees00-21)

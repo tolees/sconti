@@ -26,4 +26,4 @@ Puoi trovare [Resident Evil Origins Collection - PlayStation 4](https://www.amaz
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21)

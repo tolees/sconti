@@ -26,4 +26,4 @@ Puoi trovare [Desigual Mone azabache Mini Zip Portafoglio da donna  Nero  Nero  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VGRW62L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VGRW62L/?tag=tolees00-21)

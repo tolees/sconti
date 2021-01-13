@@ -26,4 +26,4 @@ Puoi trovare [ELEGIANT Bastone Selfie  Asta Selfie Bluetooth Controllo Wireless 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07HG4WJCD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07HG4WJCD/?tag=tolees00-21)

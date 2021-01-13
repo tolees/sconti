@@ -26,4 +26,4 @@ Puoi trovare [homcom Cyclette Elettrica Compatto Altezza Regolabile in 6 Livelli
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07H3V8L8S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H3V8L8S/?tag=tolees00-21)

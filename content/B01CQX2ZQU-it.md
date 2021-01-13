@@ -26,4 +26,4 @@ Puoi trovare [Moulinex OX4448 Optimo Forno Elettrico con Capacità  di 19 L  Po
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01CQX2ZQU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01CQX2ZQU/?tag=tolees00-21)

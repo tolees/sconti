@@ -26,4 +26,4 @@ Puoi trovare [Auricolare Bluetooth Senza Fili Cuffie Wireless Stereo 3D with IPX
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08D9C8QY2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D9C8QY2/?tag=tolees00-21)

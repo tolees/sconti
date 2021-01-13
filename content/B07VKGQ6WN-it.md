@@ -26,4 +26,4 @@ Puoi trovare [Carioca Roller Birello | Astuccio Giallo con Pennarelli Doppia Pun
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VKGQ6WN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VKGQ6WN/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Xiaomi Mi 10 16 9 cm  6.67"  8 GB 256 GB Doppia SIM 5G USB Tipo-C 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086KVQMDS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086KVQMDS/?tag=tolees00-21)

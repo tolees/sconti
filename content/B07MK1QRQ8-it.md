@@ -26,4 +26,4 @@ Puoi trovare [NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo](https://w
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21)

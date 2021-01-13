@@ -26,4 +26,4 @@ Puoi trovare [Braun HC5050 Tagliacapelli  Regolabarba Uomo e Rasoio Elettrico Ba
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0002DDISG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0002DDISG/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Timberland Adventure 2.0 Cupsole Chukka  Stivali Uomo  Nero  Black
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N5DL3F6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N5DL3F6/?tag=tolees00-21)

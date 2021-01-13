@@ -26,4 +26,4 @@ Puoi trovare [Swarovski Pendente Iconic Swan  Multicolore  Placcatura Rodio](htt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01NAASQ6C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01NAASQ6C/?tag=tolees00-21)

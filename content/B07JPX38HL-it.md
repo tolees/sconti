@@ -26,4 +26,4 @@ Puoi trovare [JACK & JONES Jjimarco Jjbowie Sa Pantaloni  Beige  Beige Beige   W
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07JPX38HL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JPX38HL/?tag=tolees00-21)

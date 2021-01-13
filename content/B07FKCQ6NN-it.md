@@ -26,4 +26,4 @@ Puoi trovare [find. Slouch Stivaletti  Marrone Caramel   39 EU](https://www.amaz
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FKCQ6NN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FKCQ6NN/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [The North Face M Quest L/S  Maglia a Maniche Corte Uomo  Blu  Acou
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TDFX9G8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TDFX9G8/?tag=tolees00-21)

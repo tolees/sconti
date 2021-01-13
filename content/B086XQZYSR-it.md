@@ -26,4 +26,4 @@ Puoi trovare [Kellogg s Choco Krave  Cioccolato al Latte - 410 g](https://www.am
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086XQZYSR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086XQZYSR/?tag=tolees00-21)

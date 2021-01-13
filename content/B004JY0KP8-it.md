@@ -26,4 +26,4 @@ Puoi trovare [Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Pelle SNDC3
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B004JY0KP8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B004JY0KP8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Adidas Parma 16 SHO  Pantaloncini Uomo  Nero  Black/White   M](htt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B016QALZWO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B016QALZWO/?tag=tolees00-21)

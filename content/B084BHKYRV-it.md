@@ -26,4 +26,4 @@ Puoi trovare [Levi s Housemark Graphic Tee T-Shirt  Ssnl HM Outline Python Green
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084BHKYRV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084BHKYRV/?tag=tolees00-21)

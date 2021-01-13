@@ -26,4 +26,4 @@ Puoi trovare [Haier HTF-456DM6  Frigorifero Cube 4 Porte  Libera installazione  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01EW6L72W/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01EW6L72W/?tag=tolees00-21)

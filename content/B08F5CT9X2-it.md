@@ -26,4 +26,4 @@ Puoi trovare [Cuffie Bluetooth 5.0 cuffie wireless cuffie stereo 3D con eliminaz
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F5CT9X2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5CT9X2/?tag=tolees00-21)

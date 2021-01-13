@@ -26,4 +26,4 @@ Puoi trovare [Assassin S Creed Origins](https://www.amazon.it/dp/B0721MMXN6/?tag
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21)

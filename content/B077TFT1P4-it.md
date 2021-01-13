@@ -26,4 +26,4 @@ Puoi trovare [Bosch UniversalChain 18 Sega a Catena a Batteria  senza Batteria  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B077TFT1P4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B077TFT1P4/?tag=tolees00-21)

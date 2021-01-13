@@ -26,4 +26,4 @@ Puoi trovare [Orologio da Donna Casio H5LTP-1259PD-2AEF](https://www.amazon.it/d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00K158BMI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00K158BMI/?tag=tolees00-21)

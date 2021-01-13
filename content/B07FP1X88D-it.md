@@ -26,4 +26,4 @@ Puoi trovare [LEGO Movie 2 - La scatola "costruisci quello che vuoi" della Regin
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21)

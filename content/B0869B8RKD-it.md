@@ -26,4 +26,4 @@ Puoi trovare [HUAWEI P40 Pro con Bluetooth Speaker  Acoustic Display da 6.58” 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0869B8RKD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0869B8RKD/?tag=tolees00-21)

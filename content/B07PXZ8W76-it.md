@@ -26,4 +26,4 @@ Puoi trovare [Garmin Forerunner 45s  Orologio Smart GPS per la Corsa e Altri Spo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PXZ8W76/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PXZ8W76/?tag=tolees00-21)

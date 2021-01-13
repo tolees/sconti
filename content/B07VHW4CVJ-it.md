@@ -26,4 +26,4 @@ Puoi trovare [Desigual Bols stardust Durban - Borsa a tracolla da donna  4 x 17 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VHW4CVJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VHW4CVJ/?tag=tolees00-21)

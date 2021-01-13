@@ -26,4 +26,4 @@ Puoi trovare [Fjällräven Kaipak 28 Zaino Casual  57 cm  liters  Rosso  Redwood
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00TQXEYU4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00TQXEYU4/?tag=tolees00-21)

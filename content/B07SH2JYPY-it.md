@@ -26,4 +26,4 @@ Puoi trovare [FIFA 20 - Legacy - Nintendo Switch](https://www.amazon.it/dp/B07SH
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21)

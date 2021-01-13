@@ -26,4 +26,4 @@ Puoi trovare [Oral-B CrossAction Testine di Ricambio per Spazzolino Elettrico co
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089KVXX4R/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089KVXX4R/?tag=tolees00-21)

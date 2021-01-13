@@ -26,4 +26,4 @@ Puoi trovare [Einhell 4513914 Trapano Avvitatore a Batteria](https://www.amazon.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GSD13P4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GSD13P4/?tag=tolees00-21)

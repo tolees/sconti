@@ -26,4 +26,4 @@ Puoi trovare [Risoli Piastra Adattatore Per Induzione  Diametro 260 Mm](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00TRTL6D0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00TRTL6D0/?tag=tolees00-21)

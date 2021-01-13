@@ -26,4 +26,4 @@ Puoi trovare [HyperX Impact DDR4 HX432S20IB2K2/16 Memoria  3200 MHz  CL20 SODIMM
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BGLV44J/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BGLV44J/?tag=tolees00-21)

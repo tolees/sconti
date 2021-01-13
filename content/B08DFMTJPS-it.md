@@ -26,4 +26,4 @@ Puoi trovare [MOONESS Custodia Samsung Galaxy A21s Blu Custodia Flip Premium Pro
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DFMTJPS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DFMTJPS/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [ALLPOWERS 45W Portable Power Bank 26800mAh PD  USB C Caricabatteri
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07T1WL24Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T1WL24Y/?tag=tolees00-21)

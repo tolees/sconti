@@ -26,4 +26,4 @@ Puoi trovare [SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Unisex Adulto  Blu
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TS8X42C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TS8X42C/?tag=tolees00-21)

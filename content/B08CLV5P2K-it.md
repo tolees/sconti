@@ -26,4 +26,4 @@ Puoi trovare [Philips Cuffie Sovrauricolari On Ear H4105RD/00 con Microfono  Tel
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CLV5P2K/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CLV5P2K/?tag=tolees00-21)

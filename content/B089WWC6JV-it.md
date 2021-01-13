@@ -26,4 +26,4 @@ Puoi trovare [Dixan Classico Detersivo Liquido Lavatrice  Tecnologia Pulito Prof
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089WWC6JV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089WWC6JV/?tag=tolees00-21)

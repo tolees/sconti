@@ -26,4 +26,4 @@ Puoi trovare [Tristar FR-6946 Friggitrice 3 L elettrica  2000 W  3000 milliliter
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S27NHX8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S27NHX8/?tag=tolees00-21)

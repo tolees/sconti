@@ -26,4 +26,4 @@ Puoi trovare [BenQ GL2480 Monitor da Gioco LED da 24 Pollici  FHD 1080p  Eye-Car
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W9LRB2J/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W9LRB2J/?tag=tolees00-21)

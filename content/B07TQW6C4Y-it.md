@@ -26,4 +26,4 @@ Puoi trovare [Clarks Ronnie Limit  Scarpe Stringate Derby Uomo  Marrone  Tan Lea
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TQW6C4Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TQW6C4Y/?tag=tolees00-21)

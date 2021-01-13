@@ -26,4 +26,4 @@ Puoi trovare [Barilla - Sugo Ragù alla Bolognese - Salsa Pronta al Pomodoro Ita
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01LZ4W0ER/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LZ4W0ER/?tag=tolees00-21)

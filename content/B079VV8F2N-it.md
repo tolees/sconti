@@ -26,4 +26,4 @@ Puoi trovare [L Oreal Paris Elvive- Dream Long Shampoo 370 ml  Paquete de 3 ](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B079VV8F2N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B079VV8F2N/?tag=tolees00-21)

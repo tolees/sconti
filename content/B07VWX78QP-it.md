@@ -26,4 +26,4 @@ Puoi trovare [Pepe Jeans Jude T-Shirt  Blu  Indigo 561   X- L arge Uomo](https:/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VWX78QP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VWX78QP/?tag=tolees00-21)

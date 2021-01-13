@@ -26,4 +26,4 @@ Puoi trovare [Panasonic KX-TGFA30 Telefoni domestici](https://www.amazon.it/dp/B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00XJH7Y78/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00XJH7Y78/?tag=tolees00-21)

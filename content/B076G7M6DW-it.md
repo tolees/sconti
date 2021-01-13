@@ -26,4 +26,4 @@ Puoi trovare [PUMA Smash v2 L Jr  Scarpe da Ginnastica Unisex-Adulto  Bianca Whi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B076G7M6DW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B076G7M6DW/?tag=tolees00-21)

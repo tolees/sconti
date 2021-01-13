@@ -26,4 +26,4 @@ Puoi trovare [Elyco Propeller per DJI Mavic Air 2  2pcs Low Noise Volo Silenzios
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088BFZ8BZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088BFZ8BZ/?tag=tolees00-21)

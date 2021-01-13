@@ -26,4 +26,4 @@ Puoi trovare [SanDisk Ultra Scheda di Memoria SDXC Traditional  Velocità fino a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0143IIP4W/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0143IIP4W/?tag=tolees00-21)

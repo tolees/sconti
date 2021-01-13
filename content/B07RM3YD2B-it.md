@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva  Nero  Blac
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RM3YD2B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RM3YD2B/?tag=tolees00-21)

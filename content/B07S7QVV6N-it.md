@@ -26,4 +26,4 @@ Puoi trovare [PUMA Epic Flip v2  Scarpe da Spiaggia e Piscina Unisex-Adulto  Blu
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S7QVV6N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S7QVV6N/?tag=tolees00-21)

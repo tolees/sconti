@@ -26,4 +26,4 @@ Puoi trovare [De Longhi friggitrice F13205](https://www.amazon.it/dp/B008M4HNL0/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate DAWN Remap Kit Programmabile per Playstation 4 Joystic
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CS76HRB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CS76HRB/?tag=tolees00-21)

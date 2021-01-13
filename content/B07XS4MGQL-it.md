@@ -26,4 +26,4 @@ Puoi trovare [Apple iPhone 11  128GB  - Rosso](https://www.amazon.it/dp/B07XS4MG
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XS4MGQL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XS4MGQL/?tag=tolees00-21)

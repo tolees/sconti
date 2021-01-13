@@ -26,4 +26,4 @@ Puoi trovare [Smartwatch  YONMIG Orologio Fitness Uomo Donna  Smart Watch Touch 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B087WN3R4N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B087WN3R4N/?tag=tolees00-21)

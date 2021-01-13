@@ -26,4 +26,4 @@ Puoi trovare [Crocs Crocband Clogs  Ciabatte Unisex  Gomma – Adulto  Nero  Bla
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B002JCSSTC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B002JCSSTC/?tag=tolees00-21)

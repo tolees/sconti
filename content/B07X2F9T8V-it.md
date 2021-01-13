@@ -26,4 +26,4 @@ Puoi trovare [SHAN ZU Coltelli Santoku  Coltello da Cucina Damasco  Coltello Gia
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07X2F9T8V/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07X2F9T8V/?tag=tolees00-21)

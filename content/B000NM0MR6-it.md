@@ -26,4 +26,4 @@ Puoi trovare [Casio Orologio Analogico al Quarzo Donna con Cinturino in Acciaio 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000NM0MR6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000NM0MR6/?tag=tolees00-21)

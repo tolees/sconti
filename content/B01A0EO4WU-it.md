@@ -26,4 +26,4 @@ Puoi trovare [Hotpoint CS1A 300 H  Congelatore Orizziontale  Libera Installazion
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01A0EO4WU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01A0EO4WU/?tag=tolees00-21)

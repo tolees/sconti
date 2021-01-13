@@ -26,4 +26,4 @@ Puoi trovare [HyperX HX-MICQC-BK Quadcast  Microfono Standalone per Streamer e P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NZZZ746/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NZZZ746/?tag=tolees00-21)

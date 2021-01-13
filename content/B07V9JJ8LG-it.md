@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Washed Stripe Stretch Shirt  f  Camicia  Blu  Night S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V9JJ8LG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V9JJ8LG/?tag=tolees00-21)

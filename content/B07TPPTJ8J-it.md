@@ -26,4 +26,4 @@ Puoi trovare [Levi s Crewneck 1 T-Shirt  Blu  2pk Slim Crew Dress Blues X Rivers
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TPPTJ8J/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TPPTJ8J/?tag=tolees00-21)

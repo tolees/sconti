@@ -26,4 +26,4 @@ Puoi trovare [Puma Vista Sneaker Unisex - Adulto  Grigio  High Rise-Puma White-C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SBVY1Y8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SBVY1Y8/?tag=tolees00-21)

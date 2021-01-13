@@ -26,4 +26,4 @@ Puoi trovare [L Oréal Paris Rossetto Liquido Rouge Signature  Tinta Labbra a Lu
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KMQLRB4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KMQLRB4/?tag=tolees00-21)

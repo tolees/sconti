@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Tasti Pulsanti Ricambio per Xbox One Elite Series 2 Co
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HLXGGXD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HLXGGXD/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Reshias Cover per Sony Xperia L4 Morbido Trasparente TPU Silicone 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088CXQGWN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088CXQGWN/?tag=tolees00-21)

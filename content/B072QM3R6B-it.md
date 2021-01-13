@@ -26,4 +26,4 @@ Puoi trovare [Monster Hunter: World  UK ](https://www.amazon.it/dp/B072QM3R6B/?t
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B072QM3R6B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B072QM3R6B/?tag=tolees00-21)

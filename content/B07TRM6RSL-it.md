@@ -26,4 +26,4 @@ Puoi trovare [Levi s Graphic Tee T-Shirt  Bianco  Boxtab SS T2 White 0000   X-Sm
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TRM6RSL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TRM6RSL/?tag=tolees00-21)

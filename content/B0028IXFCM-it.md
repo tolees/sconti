@@ -26,4 +26,4 @@ Puoi trovare [GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema corpo](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0028IXFCM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0028IXFCM/?tag=tolees00-21)

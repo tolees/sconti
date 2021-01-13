@@ -26,4 +26,4 @@ Puoi trovare [Olimpia Splendid 99447 Caldodesign Termoventilatore Ceramico 1800 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074KLRCN2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074KLRCN2/?tag=tolees00-21)

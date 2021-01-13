@@ -26,4 +26,4 @@ Puoi trovare [Lasuki Supporto per Tablet Regolabile a 360° con Braccio in Accia
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08JGD6D6L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08JGD6D6L/?tag=tolees00-21)

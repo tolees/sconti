@@ -26,4 +26,4 @@ Puoi trovare [SanDisk Extreme PLUS Scheda di Memoria  SDHC da 32 GB Classe 10  U
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01KLOF5I6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01KLOF5I6/?tag=tolees00-21)

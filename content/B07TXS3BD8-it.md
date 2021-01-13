@@ -26,4 +26,4 @@ Puoi trovare [Swarovski Orecchini Stud Nice  Bianco  Placcato Oro](https://www.a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TXS3BD8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TXS3BD8/?tag=tolees00-21)

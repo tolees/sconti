@@ -26,4 +26,4 @@ Puoi trovare [Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  all Hou
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21)

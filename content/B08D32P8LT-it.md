@@ -26,4 +26,4 @@ Puoi trovare [Cover Xiaomi Redmi 8 360 Gradi Full Body Antiurto Protezione Caso 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08D32P8LT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D32P8LT/?tag=tolees00-21)

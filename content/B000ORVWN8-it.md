@@ -26,4 +26,4 @@ Puoi trovare [Max Factor Rossetto Lipfinity  190 Indulgent - 4.2 gr](https://www
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000ORVWN8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000ORVWN8/?tag=tolees00-21)

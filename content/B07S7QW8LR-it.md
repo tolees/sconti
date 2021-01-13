@@ -26,4 +26,4 @@ Puoi trovare [Puma Ascend  Scarpe da Ginnastica Unisex-Adulto  Nero Black White/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S7QW8LR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S7QW8LR/?tag=tolees00-21)

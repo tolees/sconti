@@ -26,4 +26,4 @@ Puoi trovare [AVIWIS Multi Cavo di Ricarica  3 in 1 Cavo USB Multiplo Cavo Cavet
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08532TMZS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08532TMZS/?tag=tolees00-21)

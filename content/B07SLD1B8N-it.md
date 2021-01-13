@@ -26,4 +26,4 @@ Puoi trovare [Equilibra - Pappa Reale Fresca](https://www.amazon.it/dp/B07SLD1B8
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SLD1B8N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SLD1B8N/?tag=tolees00-21)

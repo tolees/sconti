@@ -26,4 +26,4 @@ Puoi trovare [Omino Bianco - Aloe Vera - 156 Lavaggi - 7800ml](https://www.amazo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084QTWCHF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084QTWCHF/?tag=tolees00-21)

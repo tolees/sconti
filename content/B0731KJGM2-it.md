@@ -26,4 +26,4 @@ Puoi trovare [Vero Moda Vmava Plain SS Top Ga Noos T-Shirt  Bianco  Snow White S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0731KJGM2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0731KJGM2/?tag=tolees00-21)

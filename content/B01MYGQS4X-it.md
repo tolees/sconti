@@ -26,4 +26,4 @@ Puoi trovare [Vangold Muto Frameless Grande Orologio a Muro 3D Specchio Adesivo 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01MYGQS4X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MYGQS4X/?tag=tolees00-21)

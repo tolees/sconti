@@ -26,4 +26,4 @@ Puoi trovare [Superga 2750-cotu Classic Sneaker  Uomo  Nero  Full Black S996   4
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00CA0E76G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00CA0E76G/?tag=tolees00-21)

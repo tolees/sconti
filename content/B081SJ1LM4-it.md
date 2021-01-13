@@ -26,4 +26,4 @@ Puoi trovare [adidas Urban Rain.RDY  Giacca Sportiva Uomo  Black  M](https://www
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21)

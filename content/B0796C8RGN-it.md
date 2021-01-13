@@ -26,4 +26,4 @@ Puoi trovare [NAPAPIJRI Rainforest M Sum 1 Giacca  Nero  Black 041   Large Uomo]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0796C8RGN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0796C8RGN/?tag=tolees00-21)

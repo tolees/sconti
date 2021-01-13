@@ -26,4 +26,4 @@ Puoi trovare [Tablet Bambini 9.0 Pollici con Wifi Offerte Android 9.0 Certificat
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CKK4WG2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CKK4WG2/?tag=tolees00-21)

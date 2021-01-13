@@ -26,4 +26,4 @@ Puoi trovare [ORICO Adattatore Trasparente Esterno M.2  Custodia USB3.1 da Tipo 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089K6YSYT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089K6YSYT/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Pan di Stelle Torta Pronta da Gustare al Gusto di Cioccolato e Cac
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01GEMTE2W/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GEMTE2W/?tag=tolees00-21)

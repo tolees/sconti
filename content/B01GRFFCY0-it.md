@@ -26,4 +26,4 @@ Puoi trovare [Western Digital WD My Cloud PR4100 Serie Pro Server Multimediale c
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01GRFFCY0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GRFFCY0/?tag=tolees00-21)

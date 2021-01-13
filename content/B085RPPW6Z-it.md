@@ -26,4 +26,4 @@ Puoi trovare [Condizionatore Portatile  Raffreddatore d Aria Silenzioso Mobile c
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085RPPW6Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085RPPW6Z/?tag=tolees00-21)

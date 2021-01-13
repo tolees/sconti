@@ -26,4 +26,4 @@ Puoi trovare [MacBook 12"  Intel Core i5 dual-core a 1 3GHz  512GB  - Oro](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B072VSNXD4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B072VSNXD4/?tag=tolees00-21)

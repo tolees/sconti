@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Cover Scocca Custodia Pulsanti Tasti ABXY Colorati DIY
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08K8WPBSR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08K8WPBSR/?tag=tolees00-21)

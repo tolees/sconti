@@ -26,4 +26,4 @@ Puoi trovare [Torcia LED Ricaricabili Due in Uno Torcia Lampada da Scrivania Por
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085VYPJ8Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085VYPJ8Z/?tag=tolees00-21)

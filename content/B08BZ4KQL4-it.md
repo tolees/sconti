@@ -26,4 +26,4 @@ Puoi trovare [Borraccia Acciaio Inox 450ml Bottiglia Termica  Riutilizzabile Bot
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BZ4KQL4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BZ4KQL4/?tag=tolees00-21)

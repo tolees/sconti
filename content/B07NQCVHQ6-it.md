@@ -26,4 +26,4 @@ Puoi trovare [Echo Dot  3ª generazione  - Altoparlante intelligente con orologi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NQCVHQ6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NQCVHQ6/?tag=tolees00-21)

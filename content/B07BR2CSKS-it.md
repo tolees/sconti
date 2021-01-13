@@ -26,4 +26,4 @@ Puoi trovare [Pigna Monocromo 02298871R  Quaderno Formato A4  Rigatura 1R  Righe
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BR2CSKS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BR2CSKS/?tag=tolees00-21)

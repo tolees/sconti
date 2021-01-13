@@ -26,4 +26,4 @@ Puoi trovare [Auricolari Bluetooth TWS i12 Suono Stereo 3D Tocca Controllo Pop-U
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DFDRWZ2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DFDRWZ2/?tag=tolees00-21)

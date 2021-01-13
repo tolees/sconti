@@ -26,4 +26,4 @@ Puoi trovare [Tescoma 695432 Uno Vino Collare Salvagoccia](https://www.amazon.it
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00P2LBTTS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00P2LBTTS/?tag=tolees00-21)

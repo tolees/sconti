@@ -26,4 +26,4 @@ Puoi trovare [Boss Tee 4 T-Shirt  Blu  Navy 410   X-Large Uomo](https://www.amaz
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V8HJ3N2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V8HJ3N2/?tag=tolees00-21)

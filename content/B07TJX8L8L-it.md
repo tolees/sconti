@@ -26,4 +26,4 @@ Puoi trovare [Lacoste L1212 Polo  Verde  Aucuba Xzd   3XL Uomo](https://www.amaz
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TJX8L8L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJX8L8L/?tag=tolees00-21)

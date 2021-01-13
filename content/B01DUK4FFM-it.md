@@ -26,4 +26,4 @@ Puoi trovare [Barbie-la Casa di Malibu per Bambole con Accessori e Colori Vivaci
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01DUK4FFM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01DUK4FFM/?tag=tolees00-21)

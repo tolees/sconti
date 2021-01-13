@@ -26,4 +26,4 @@ Puoi trovare [Sony KD-43XG7005 TV Smart da 43"  4K Ultra HD  HDR  Slim Design  N
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07P6FRJJW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P6FRJJW/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Netac 64G Chiavetta USB 3.0，Rotazione a 360 ° Pen Drive，USB F
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0833XJ2KJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0833XJ2KJ/?tag=tolees00-21)

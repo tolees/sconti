@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Slim Crystal Glamour Sw  Infradito Donna  Grigio  Steel 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01GF3Y36W/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GF3Y36W/?tag=tolees00-21)

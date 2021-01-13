@@ -26,4 +26,4 @@ Puoi trovare [Crocs  Baya Summer Flip U  Sandali  Uomo  Nero  45-46](https://www
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B005HV2OC4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B005HV2OC4/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Clarks Tri Solar  Scarpe da Ginnastica Basse Uomo  Nero  Black Lea
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MFM444Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MFM444Y/?tag=tolees00-21)

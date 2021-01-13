@@ -26,4 +26,4 @@ Puoi trovare [Airoh AVIATOR 2.3 BIGGER BLUE GLOSS M](https://www.amazon.it/dp/B0
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KBNB5J4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KBNB5J4/?tag=tolees00-21)

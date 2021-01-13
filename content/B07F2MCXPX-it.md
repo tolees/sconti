@@ -26,4 +26,4 @@ Puoi trovare [Vans Left Chest Logo Tee T-Shirt Uomo  Nero  Black White Grey Mela
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07F2MCXPX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2MCXPX/?tag=tolees00-21)

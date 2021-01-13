@@ -26,4 +26,4 @@ Puoi trovare [Maybelline New York Color Sensational Matita Labbra  47 Pleasure M
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B002NPBRDE/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B002NPBRDE/?tag=tolees00-21)

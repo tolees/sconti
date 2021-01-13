@@ -26,4 +26,4 @@ Puoi trovare [Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  42 EU](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21)

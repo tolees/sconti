@@ -26,4 +26,4 @@ Puoi trovare [Adidas Football App Generic  Tracksuit Jacket Uomo  Blu  Azzurro/B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B076HQJ2HL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQJ2HL/?tag=tolees00-21)

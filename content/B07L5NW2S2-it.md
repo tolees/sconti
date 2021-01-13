@@ -26,4 +26,4 @@ Puoi trovare [Timberland NEWBURYPORT Sacca  38 cm  15 liters  Nero  Black ](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07L5NW2S2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07L5NW2S2/?tag=tolees00-21)

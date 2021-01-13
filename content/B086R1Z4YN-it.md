@@ -26,4 +26,4 @@ Puoi trovare [Samsung TV UE55TU8070UXZT Smart TV 55" Serie TU8070  Crystal UHD 4
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086R1Z4YN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086R1Z4YN/?tag=tolees00-21)

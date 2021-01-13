@@ -26,4 +26,4 @@ Puoi trovare [Samsung Memorie T7 Touch MU-PC1T0K SSD Esterno Portatile da 1 TB  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082VW4QCX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082VW4QCX/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Hip Brief 2pk Slip  Nero  Black with/White WB Bnm   X
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VRYQX74/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VRYQX74/?tag=tolees00-21)

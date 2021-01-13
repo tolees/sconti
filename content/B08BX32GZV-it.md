@@ -26,4 +26,4 @@ Puoi trovare [Misuratore di temperatura digitale a infrarossi sulla fronte  misu
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BX32GZV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BX32GZV/?tag=tolees00-21)

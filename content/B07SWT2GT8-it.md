@@ -26,4 +26,4 @@ Puoi trovare [Gillette Fusion ProGlide  12 Lamette di Ricambio per Rasoio](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SWT2GT8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SWT2GT8/?tag=tolees00-21)

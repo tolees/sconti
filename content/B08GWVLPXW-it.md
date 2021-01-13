@@ -26,4 +26,4 @@ Puoi trovare [Aerku Fotocamera Posteriore Pellicola Vetro Temperato per Samsung 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GWVLPXW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GWVLPXW/?tag=tolees00-21)

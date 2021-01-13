@@ -26,4 +26,4 @@ Puoi trovare [Spazzolino Elettrico Ricaricabile Braun Oral-B Vitality 170 CrossA
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FGKG8JY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FGKG8JY/?tag=tolees00-21)

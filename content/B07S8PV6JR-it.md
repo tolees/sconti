@@ -26,4 +26,4 @@ Puoi trovare [PUMA ST Runner V2 NL  Scarpe da Ginnastica Unisex-Adulto  High Ris
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S8PV6JR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8PV6JR/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [h.koenig V5i Ferro da Stiro  2400 W  1.7 Litri  90  plastica  Meta
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B008DCOW6A/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B008DCOW6A/?tag=tolees00-21)

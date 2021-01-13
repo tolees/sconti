@@ -26,4 +26,4 @@ Puoi trovare [Tommy Jeans Essential  Scarpe da Ginnastica Basse Uomo  Blu  Twili
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V2J42QC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V2J42QC/?tag=tolees00-21)

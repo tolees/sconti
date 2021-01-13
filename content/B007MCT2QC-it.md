@@ -26,4 +26,4 @@ Puoi trovare [AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr](https://w
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21)

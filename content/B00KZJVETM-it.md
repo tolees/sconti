@@ -26,4 +26,4 @@ Puoi trovare [easypix Aquapix W1400 Active](https://www.amazon.it/dp/B00KZJVETM/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00KZJVETM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00KZJVETM/?tag=tolees00-21)

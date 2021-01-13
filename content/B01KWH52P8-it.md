@@ -26,4 +26,4 @@ Puoi trovare [Geox J Sandal Karly Girl D  Punta Aperta Bambina  Bianco  White C1
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01KWH52P8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01KWH52P8/?tag=tolees00-21)

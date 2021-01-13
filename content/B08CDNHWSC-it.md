@@ -26,4 +26,4 @@ Puoi trovare [FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1 Type-C per P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CDNHWSC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CDNHWSC/?tag=tolees00-21)

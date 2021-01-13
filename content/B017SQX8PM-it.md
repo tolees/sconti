@@ -26,4 +26,4 @@ Puoi trovare [SALOMON Speedcross 4  Scarpe da Trail Running Uomo  Nero  Black/Bl
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21)

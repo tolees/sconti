@@ -26,4 +26,4 @@ Puoi trovare [Wrangler SS Logo Tee T-Shirt  Blu  Directoire Blue XKL   Small Uom
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TTQ3DX2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TTQ3DX2/?tag=tolees00-21)

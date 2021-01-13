@@ -26,4 +26,4 @@ Puoi trovare [HUAWEI T5 Mediapad Tablet con Display da 10.1"  32 GB Espandibili 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07G46LGKN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07G46LGKN/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein 3p Trunk Boxer  Multicolore  Lost Blue/Wild Fern/Rais
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VT2ZSGS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VT2ZSGS/?tag=tolees00-21)

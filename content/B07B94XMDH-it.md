@@ -26,4 +26,4 @@ Puoi trovare [Clarks Oakland Lace  Scarpe Stringate Derby Uomo  Marrone  Dark Br
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07B94XMDH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07B94XMDH/?tag=tolees00-21)

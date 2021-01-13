@@ -26,4 +26,4 @@ Puoi trovare [Aicok Spremiagrumi Elettrico Professionale 100W Spremiagrumi in Ac
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0792ZJ4QT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0792ZJ4QT/?tag=tolees00-21)

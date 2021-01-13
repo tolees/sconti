@@ -26,4 +26,4 @@ Puoi trovare [Deik Bilancia Pesa Persona Digitale  Bluetooth Bilancia Pesaperson
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07H34HNN8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H34HNN8/?tag=tolees00-21)

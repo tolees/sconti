@@ -26,4 +26,4 @@ Puoi trovare [AmazonBasics - Sacchetti per bisogni dei cani  con dispenser e cli
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00NABTGY2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00NABTGY2/?tag=tolees00-21)

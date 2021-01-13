@@ -26,4 +26,4 @@ Puoi trovare [Philips Ferri a vapore Ferro da stiro con caldaia PerfectCare Aqua
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01H54SAOQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01H54SAOQ/?tag=tolees00-21)

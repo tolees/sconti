@@ -26,4 +26,4 @@ Puoi trovare [Converse Chuck Taylor All Star  Sneakers Unisex - Adulto  Bianco  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000OLVQ6M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000OLVQ6M/?tag=tolees00-21)

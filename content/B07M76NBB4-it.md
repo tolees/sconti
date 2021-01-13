@@ -26,4 +26,4 @@ Puoi trovare [Plafoniera LED Lampada a Soffitto Bianco Naturale 4000K 18W 1500 L
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07M76NBB4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07M76NBB4/?tag=tolees00-21)

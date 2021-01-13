@@ -26,4 +26,4 @@ Puoi trovare [Puma Puma Smash v2 L Scarpe da Ginnastica Basse Unisex - Adulto  N
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B077MG6H4F/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B077MG6H4F/?tag=tolees00-21)

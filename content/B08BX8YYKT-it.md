@@ -26,4 +26,4 @@ Puoi trovare [Microsoft Surface GO 2 8Gb RAM - 128Gb SSD Dual-Core Intel Core M3
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BX8YYKT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BX8YYKT/?tag=tolees00-21)

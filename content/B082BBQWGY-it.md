@@ -26,4 +26,4 @@ Puoi trovare [Geographical Norway  Pile da uomo  RIAKOLO Blu navy XL](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082BBQWGY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082BBQWGY/?tag=tolees00-21)

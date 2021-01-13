@@ -26,4 +26,4 @@ Puoi trovare [UGG Female Classic Short II Classic Boot  Black  5  UK ](https://w
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01AIHY66I/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01AIHY66I/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Pampero Rum Aniversario Ml.700](https://www.amazon.it/dp/B003WIHR4
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003WIHR44/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003WIHR44/?tag=tolees00-21)

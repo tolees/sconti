@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Scoop One Piece-RP Reggiseno Bikini  Rosa  Pink GLO T
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VNN78NL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VNN78NL/?tag=tolees00-21)

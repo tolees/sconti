@@ -26,4 +26,4 @@ Puoi trovare [Geox U DUBLIN B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00BMMJUA6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00BMMJUA6/?tag=tolees00-21)

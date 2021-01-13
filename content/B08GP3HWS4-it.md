@@ -26,4 +26,4 @@ Puoi trovare [CLEEFUN - Cavo USB C corto da 0 3 m  confezione da 2 pezzi  in nyl
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GP3HWS4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GP3HWS4/?tag=tolees00-21)

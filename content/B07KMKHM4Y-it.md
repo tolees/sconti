@@ -26,4 +26,4 @@ Puoi trovare [ARMANI EXCHANGE Icon Project Felpa  Nero  Black 1200   Small Uomo]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KMKHM4Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KMKHM4Y/?tag=tolees00-21)

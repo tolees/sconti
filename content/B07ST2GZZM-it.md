@@ -26,4 +26,4 @@ Puoi trovare [eFootball PES 2020 - Playstation 4](https://www.amazon.it/dp/B07ST
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21)

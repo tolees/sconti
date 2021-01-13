@@ -26,4 +26,4 @@ Puoi trovare [BAITITON NVME 1TB Unità SSD M.2 2280 PCIe Express GEN3.0x4 Unità
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CDH3K8H/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CDH3K8H/?tag=tolees00-21)

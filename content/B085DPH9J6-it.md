@@ -26,4 +26,4 @@ Puoi trovare [Lampada da Scrivania  lampada da tavolo con funzione di protezione
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085DPH9J6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085DPH9J6/?tag=tolees00-21)

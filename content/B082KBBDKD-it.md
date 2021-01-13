@@ -26,4 +26,4 @@ Puoi trovare [Aigostar Betty 31QUC – Ferro da stiro verticale 80ml  stiratore 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082KBBDKD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082KBBDKD/?tag=tolees00-21)

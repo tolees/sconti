@@ -26,4 +26,4 @@ Puoi trovare [Lampadine LED E27 12W  Luce Bianca Calda 3000K 984 Lumen  Non Dimm
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D8KTZSK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D8KTZSK/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [TOUCHBeauty AG-0602AP Kit manicure/pedicure da donna elettrico lim
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XFV1N2R/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XFV1N2R/?tag=tolees00-21)

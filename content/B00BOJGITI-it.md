@@ -26,4 +26,4 @@ Puoi trovare [Burberry Weekend Edp 100 Ml](https://www.amazon.it/dp/B00BOJGITI/?
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00BOJGITI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00BOJGITI/?tag=tolees00-21)

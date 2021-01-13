@@ -26,4 +26,4 @@ Puoi trovare [Gillette Fusion ProGlide Styler Rasoio Regolabarba 3 in 1  Confezi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0084YKLXA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0084YKLXA/?tag=tolees00-21)

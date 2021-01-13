@@ -26,4 +26,4 @@ Puoi trovare [Braun 3-270 Silk-épil 3 Epilatore con Cavo e 3 Accessori  Rosa](h
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B006J1SA6A/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B006J1SA6A/?tag=tolees00-21)

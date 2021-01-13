@@ -26,4 +26,4 @@ Puoi trovare [The Sims 4 - PC](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21)

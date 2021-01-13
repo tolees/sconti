@@ -26,4 +26,4 @@ Puoi trovare [Gillette Fusion5 ProGlide Lamette di Ricambio per Rasoio da Uomo c
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B079X62CKW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B079X62CKW/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Android 9.0 RAM 2 G + 16G Rom TV Box x96 Mini amlogic s905w Quad C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07F8RK24C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07F8RK24C/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Flash Urban  Sandali Donna  Multicolor  Black/Silver 297
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01L416NVS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01L416NVS/?tag=tolees00-21)

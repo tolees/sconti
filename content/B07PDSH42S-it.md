@@ -26,4 +26,4 @@ Puoi trovare [AmazonBasics - Evidenziatori a forma piatta allungata  colori asso
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PDSH42S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PDSH42S/?tag=tolees00-21)

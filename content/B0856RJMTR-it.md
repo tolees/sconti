@@ -26,4 +26,4 @@ Puoi trovare [Aigostar Archer 30RKN - 1200W Frullatore con brocca in vetro da 1 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0856RJMTR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0856RJMTR/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnast
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V6TKW2L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V6TKW2L/?tag=tolees00-21)

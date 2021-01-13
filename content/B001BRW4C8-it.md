@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein 3P Hip Brief Intimo  Multicolore  Black White & Grey 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B001BRW4C8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B001BRW4C8/?tag=tolees00-21)

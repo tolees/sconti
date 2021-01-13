@@ -26,4 +26,4 @@ Puoi trovare [G-STAR RAW Premium Basic Felpa  Grigio  Lt Grey Htr C235-A302   La
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RJ5Y6GY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RJ5Y6GY/?tag=tolees00-21)

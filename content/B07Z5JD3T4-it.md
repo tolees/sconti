@@ -26,4 +26,4 @@ Puoi trovare [TP-Link Presa Intelligente WiFi Smart Plug  Compatibile con Alexa 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07Z5JD3T4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z5JD3T4/?tag=tolees00-21)

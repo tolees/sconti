@@ -26,4 +26,4 @@ Puoi trovare [Viakal Detersivo Anticalcare Spray Aceto  Maxi Formato 10 Pezzi da
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21)

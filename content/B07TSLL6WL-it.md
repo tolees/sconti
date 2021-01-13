@@ -26,4 +26,4 @@ Puoi trovare [Wrangler LS 1 Pkt Shirt Camicia  Bianco  Real White Xw1   Medium U
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TSLL6WL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TSLL6WL/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Crocs Baya Flip  Stivaletti Unisex – Adulto  Blu  Navy   37-38 E
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B005HV2Q0O/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B005HV2Q0O/?tag=tolees00-21)

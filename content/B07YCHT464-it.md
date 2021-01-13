@@ -26,4 +26,4 @@ Puoi trovare [Vans Colorblock Tee T-Shirt  Multicolore  Ash Heather/Black Rp5   
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07YCHT464/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07YCHT464/?tag=tolees00-21)

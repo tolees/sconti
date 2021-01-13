@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Original Triblend V Neck T-Shirt  Rosso  Formula On
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0777PZ6XM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0777PZ6XM/?tag=tolees00-21)

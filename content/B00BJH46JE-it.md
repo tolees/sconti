@@ -26,4 +26,4 @@ Puoi trovare [BaByliss For Men E837E X-10 Kit multiaccessoriato per rasatura e d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00BJH46JE/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00BJH46JE/?tag=tolees00-21)

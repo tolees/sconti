@@ -26,4 +26,4 @@ Puoi trovare [HOMCOM Porta Scorrevole Interna in Vetro Smerigliato con Binario B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01EFL1LF2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01EFL1LF2/?tag=tolees00-21)

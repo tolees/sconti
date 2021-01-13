@@ -26,4 +26,4 @@ Puoi trovare [Scottex Balsam Fazzoletti  1 Confezione da 24 Pezzi](https://www.a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01DO5SYH8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01DO5SYH8/?tag=tolees00-21)

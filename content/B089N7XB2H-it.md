@@ -26,4 +26,4 @@ Puoi trovare [JACK & JONES JJEPAULOS Polo SS Noos  Port Royale  M Uomo](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089N7XB2H/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089N7XB2H/?tag=tolees00-21)

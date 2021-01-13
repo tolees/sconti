@@ -26,4 +26,4 @@ Puoi trovare [New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Verde
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XX8PXML/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XX8PXML/?tag=tolees00-21)

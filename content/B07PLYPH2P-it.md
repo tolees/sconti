@@ -26,4 +26,4 @@ Puoi trovare [DJI Osmo Pocket Adapter - Adattatore Audio da 3.5 mm di Tipo C per
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PLYPH2P/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PLYPH2P/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Smartphone Offerta del Giorno 4G  Blackview A80 Pro  2020  Cellula
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08B8CXRLX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08B8CXRLX/?tag=tolees00-21)

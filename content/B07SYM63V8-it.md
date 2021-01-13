@@ -26,4 +26,4 @@ Puoi trovare [Fruittella Good For You Mix Sport Bio  Snack di Frutta Secca e Dis
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21)

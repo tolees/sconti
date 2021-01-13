@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Brazilian Brasiliana  Rosa  Nymph s Coscia 2nt   S Do
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07LBDVZB4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07LBDVZB4/?tag=tolees00-21)

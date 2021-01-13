@@ -26,4 +26,4 @@ Puoi trovare [New Balance 500  Scarpe Sportive Uomo  Bianco  Munsell White/Eclip
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DJ2FBHN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ2FBHN/?tag=tolees00-21)

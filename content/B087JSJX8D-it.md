@@ -26,4 +26,4 @@ Puoi trovare [Cuffie Gaming PS4 PC Xbox One  Maegoo Over Ear Cuffie da Gaming co
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B087JSJX8D/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B087JSJX8D/?tag=tolees00-21)

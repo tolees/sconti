@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Logo Tape HD Felpa con Cappuccio  Grigio  Grey Heat
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0788BNRNK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0788BNRNK/?tag=tolees00-21)

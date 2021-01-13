@@ -26,4 +26,4 @@ Puoi trovare [Puma Smash V2 Sneaker Unisex - Adulto  Rhubarb/Puma Team Gold/Puma
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KG8FCM8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KG8FCM8/?tag=tolees00-21)

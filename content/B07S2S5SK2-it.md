@@ -26,4 +26,4 @@ Puoi trovare [Levi s Relaxed Graphic Hoodie Cappuccio  Nero  90 s Serif Logo Pop
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S2S5SK2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S2S5SK2/?tag=tolees00-21)

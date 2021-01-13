@@ -26,4 +26,4 @@ Puoi trovare [Timberland 6 in Double Collar Waterproof  Stivali Classici Uomo  M
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DGN6ND2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DGN6ND2/?tag=tolees00-21)

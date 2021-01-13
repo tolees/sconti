@@ -26,4 +26,4 @@ Puoi trovare [VidaXL 40426 Barbecue Zona cottura Gas 2900W Nero  Acciaio inossid
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B008JVQ8RG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B008JVQ8RG/?tag=tolees00-21)

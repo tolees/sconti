@@ -26,4 +26,4 @@ Puoi trovare [Levi s Relaxed Graphic Tee T-Shirt  Bianco  90 s Serif Logo D3 Whi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TNLY8HJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TNLY8HJ/?tag=tolees00-21)

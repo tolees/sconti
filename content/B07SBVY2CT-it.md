@@ -26,4 +26,4 @@ Puoi trovare [PUMA ST Runner V2 NL  Scarpe da Ginnastica Unisex-Adulto  Peacoat 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SBVY2CT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SBVY2CT/?tag=tolees00-21)

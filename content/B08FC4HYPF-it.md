@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Soft Grip Cover Custodia Anteriore Copertura Frontale 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FC4HYPF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC4HYPF/?tag=tolees00-21)

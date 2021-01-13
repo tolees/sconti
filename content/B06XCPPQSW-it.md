@@ -26,4 +26,4 @@ Puoi trovare [Burton Formula  Guanti Uomo  True Black  L](https://www.amazon.it/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XCPPQSW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XCPPQSW/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Tencoz 4Pack Set da Ping Pong  Racchette da Ping Pong Set da Ping 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07H4CGBXN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H4CGBXN/?tag=tolees00-21)

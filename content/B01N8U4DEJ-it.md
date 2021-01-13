@@ -26,4 +26,4 @@ Puoi trovare [Duronic VC8 /BK Aspirapolvere verticale senza sacco 800W Scopa ele
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N8U4DEJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N8U4DEJ/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [The Town](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21) co
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)

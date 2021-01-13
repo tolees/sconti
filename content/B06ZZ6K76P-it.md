@@ -26,4 +26,4 @@ Puoi trovare [Samsung WW70K5410UW Lavatrice 7 kg AddWash  1400 rpm  Bianco con O
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06ZZ6K76P/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06ZZ6K76P/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Kenwood HDP404WH Mixer ad Immersione  800 W  Tritatutto da 0 5 l  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00MB8MS68/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00MB8MS68/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Blu  Navy
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B079BWLFL2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B079BWLFL2/?tag=tolees00-21)

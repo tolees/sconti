@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein 3p Trunk Boxer  Nero  B-Blue Whale/Wildflower/Bubbleg
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VGCBG2Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VGCBG2Y/?tag=tolees00-21)

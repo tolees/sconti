@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate 2 Pellicole Protettive Vetro Temperato Protezione Sche
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FRBZYDL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FRBZYDL/?tag=tolees00-21)

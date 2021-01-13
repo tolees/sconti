@@ -26,4 +26,4 @@ Puoi trovare [Diesel Discover-me Oderzo  Borsa a Tracolla Uomo  Blu  Blue Nights
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RXWGTM4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RXWGTM4/?tag=tolees00-21)

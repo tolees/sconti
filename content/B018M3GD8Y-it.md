@@ -26,4 +26,4 @@ Puoi trovare [Gillette Fusion Proshield Chill Lamette di Ricarica per Rasoio da 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B018M3GD8Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B018M3GD8Y/?tag=tolees00-21)

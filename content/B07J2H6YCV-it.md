@@ -26,4 +26,4 @@ Puoi trovare [Thule 711100 Barre Portatutto  Alluminio  108 cm  Set di 2](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07J2H6YCV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07J2H6YCV/?tag=tolees00-21)

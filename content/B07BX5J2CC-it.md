@@ -26,4 +26,4 @@ Puoi trovare [Volante Pace Wheel PS4](https://www.amazon.it/dp/B07BX5J2CC/?tag=t
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Thong Slip Corda  Blu  Navy Blazer 416   44  Taglia
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D9GWZQ2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D9GWZQ2/?tag=tolees00-21)

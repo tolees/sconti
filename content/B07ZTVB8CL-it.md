@@ -26,4 +26,4 @@ Puoi trovare [Nike Wmns Court Royale AC CNV  Scarpe da Tennis Donna  Black/White
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZTVB8CL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZTVB8CL/?tag=tolees00-21)

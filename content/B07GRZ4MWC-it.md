@@ -26,4 +26,4 @@ Puoi trovare [Tigullio GranPesto Pomodori Secchi e Pistacchi - 190 g](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GRZ4MWC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GRZ4MWC/?tag=tolees00-21)

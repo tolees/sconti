@@ -26,4 +26,4 @@ Puoi trovare [IWAVION Caricatore USB C da Muro con Cavo USB Type C 2M 18W Power 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DFXQCYH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DFXQCYH/?tag=tolees00-21)

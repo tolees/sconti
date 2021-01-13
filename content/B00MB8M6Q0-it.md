@@ -26,4 +26,4 @@ Puoi trovare [Kenwood FDM781BA MultiPro Food Processor  Robot da Cucina con Frul
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00MB8M6Q0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00MB8M6Q0/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Rowenta CV7920 Silence AC Premium Care Asciugacapelli Silenzioso  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XXGCYZY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XXGCYZY/?tag=tolees00-21)

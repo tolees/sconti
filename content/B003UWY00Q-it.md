@@ -26,4 +26,4 @@ Puoi trovare [Swiffer Wet Panni Umidi Lavapavimenti per Scopa  Maxi Formato 72 P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003UWY00Q/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003UWY00Q/?tag=tolees00-21)

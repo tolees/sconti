@@ -26,4 +26,4 @@ Puoi trovare [Brother Cabldp1 Scan-N-Cut - Punta da Taglio per Taglio Standard  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00IX5YNV6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00IX5YNV6/?tag=tolees00-21)

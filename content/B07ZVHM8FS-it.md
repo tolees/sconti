@@ -26,4 +26,4 @@ Puoi trovare [DADYPET Ciotole per Cani  Distributori di Cibo per Gatti -Ciotole 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZVHM8FS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVHM8FS/?tag=tolees00-21)

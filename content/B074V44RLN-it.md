@@ -26,4 +26,4 @@ Puoi trovare [YAMAY Smartwatch Braccialetto Fitness Activity Tracker Smart Watch
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074V44RLN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074V44RLN/?tag=tolees00-21)

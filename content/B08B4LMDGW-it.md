@@ -26,4 +26,4 @@ Puoi trovare [HAYLOU LS02 Smartwatch Orologio Fitness Tracker Global Version 2 S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08B4LMDGW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08B4LMDGW/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Singer M3505 Macchina da Cucire Professionale  Cucitrice Automatic
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07X9NR8S4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07X9NR8S4/?tag=tolees00-21)

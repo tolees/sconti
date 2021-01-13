@@ -26,4 +26,4 @@ Puoi trovare [Superdry Zip Hood Cappuccio  Grigio  Collective Dark Grey Grit 9ss
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TLLGD12/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TLLGD12/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Black+Decker BXPW2500DTS Idropulitrice ad Alta Pressione con Dualt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SMHQW88/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SMHQW88/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00MHPCTC8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00MHPCTC8/?tag=tolees00-21)

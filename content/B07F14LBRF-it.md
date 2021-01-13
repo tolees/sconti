@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Turquoise/Cit
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07F14LBRF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07F14LBRF/?tag=tolees00-21)

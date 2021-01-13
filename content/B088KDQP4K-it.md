@@ -26,4 +26,4 @@ Puoi trovare [LK Pellicola Protettiva per Xiaomi Mi Note 10 Lite Pellicola  [3 P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088KDQP4K/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088KDQP4K/?tag=tolees00-21)

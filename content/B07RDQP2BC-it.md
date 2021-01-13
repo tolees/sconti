@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Tjw Waffle Hybrid Longsleeve Maglia Sportiva  Blu  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RDQP2BC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RDQP2BC/?tag=tolees00-21)

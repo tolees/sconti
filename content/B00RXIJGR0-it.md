@@ -26,4 +26,4 @@ Puoi trovare [Pyrex Irresistible Teglia rettangolare in vetro borosilicato  31x2
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00RXIJGR0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00RXIJGR0/?tag=tolees00-21)

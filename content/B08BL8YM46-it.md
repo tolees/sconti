@@ -26,4 +26,4 @@ Puoi trovare [Mini Bluetooth WiFi Proiettore TOPTRO Proiettore Aggiornato con Mi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BL8YM46/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BL8YM46/?tag=tolees00-21)

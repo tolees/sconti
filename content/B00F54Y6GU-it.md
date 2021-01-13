@@ -26,4 +26,4 @@ Puoi trovare [August EP650  Cuffie Bluetooth Senza Fili v4.2  Auricolare Wireles
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00F54Y6GU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00F54Y6GU/?tag=tolees00-21)

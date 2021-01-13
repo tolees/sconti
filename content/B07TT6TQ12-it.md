@@ -26,4 +26,4 @@ Puoi trovare [Motorola One Action  Display CinemaVision 6.3" FHD+  128 GB Espand
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TT6TQ12/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TT6TQ12/?tag=tolees00-21)

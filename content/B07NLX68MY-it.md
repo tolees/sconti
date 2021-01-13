@@ -26,4 +26,4 @@ Puoi trovare [Nike Revolution 5  Scarpe da Corsa Mens  Black/White-Anthracite  3
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NLX68MY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NLX68MY/?tag=tolees00-21)

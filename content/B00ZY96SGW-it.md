@@ -26,4 +26,4 @@ Puoi trovare [Givova Visa  Tuta Da Ginnastica Uomo  Multicolore  Granata/Nero   
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00ZY96SGW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ZY96SGW/?tag=tolees00-21)

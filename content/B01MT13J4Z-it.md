@@ -26,4 +26,4 @@ Puoi trovare [Lacoste Lerond BL 2 Cam  Sneaker Uomo  Nero  Black   39.5 EU](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01MT13J4Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MT13J4Z/?tag=tolees00-21)

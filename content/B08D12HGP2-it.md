@@ -26,4 +26,4 @@ Puoi trovare [Fitness Tracker + Smart Watch  Vincitore 2020  | Contatore di pass
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08D12HGP2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D12HGP2/?tag=tolees00-21)

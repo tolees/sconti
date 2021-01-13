@@ -26,4 +26,4 @@ Puoi trovare [Timberland Classic Boat 2 Eye Scarpe da Barca  Uomo  Marrone  Sadd
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07T3GZH6C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T3GZH6C/?tag=tolees00-21)

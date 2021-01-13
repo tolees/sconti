@@ -26,4 +26,4 @@ Puoi trovare [Levi s T-Shirt  Multicolore  2 Pack Tee White +/Mineral Black 0000
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KF52DX6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KF52DX6/?tag=tolees00-21)

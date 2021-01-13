@@ -26,4 +26,4 @@ Puoi trovare [Apple iPhone 11 Pro  64GB  - Oro](https://www.amazon.it/dp/B07XS5M
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XS5MSS2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XS5MSS2/?tag=tolees00-21)

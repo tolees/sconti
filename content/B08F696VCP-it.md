@@ -26,4 +26,4 @@ Puoi trovare [Pawhut Passeggino Pieghevole per Cani di Taglia Medio-Grande Fino 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F696VCP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F696VCP/?tag=tolees00-21)

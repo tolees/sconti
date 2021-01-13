@@ -26,4 +26,4 @@ Puoi trovare [Marchio Amazon - MERAKI Blazer Casual Uomo  Blu  Navy   48  Label:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GZ8NYZR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GZ8NYZR/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  SM](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MQXQY86/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MQXQY86/?tag=tolees00-21)

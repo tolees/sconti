@@ -26,4 +26,4 @@ Puoi trovare [BEAUTURAL Manicure e Pedicure Elettrico Professionale Kit  Potente
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D538TWK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D538TWK/?tag=tolees00-21)

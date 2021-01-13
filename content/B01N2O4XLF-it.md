@@ -26,4 +26,4 @@ Puoi trovare [FLOUREON Ricetrasmittente PMR Radio Ricetrasmittenti 8 Canali Walk
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N2O4XLF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N2O4XLF/?tag=tolees00-21)

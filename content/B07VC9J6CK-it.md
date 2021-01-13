@@ -26,4 +26,4 @@ Puoi trovare [YAMAMAY® Triangolo - Nicely](https://www.amazon.it/dp/B07VC9J6CK/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VC9J6CK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VC9J6CK/?tag=tolees00-21)

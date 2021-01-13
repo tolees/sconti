@@ -26,4 +26,4 @@ Puoi trovare [Gillette Fusion Proglide Flexball Rasatura](https://www.amazon.it/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00J2AP9F0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00J2AP9F0/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [homcom Poltrona Girevole 360° in Stile Chesterfield con Spessa Im
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BZX92FN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BZX92FN/?tag=tolees00-21)

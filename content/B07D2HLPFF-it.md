@@ -26,4 +26,4 @@ Puoi trovare [Motorola Moto Z3 Play Smartphone Android 9 Pie  Display 6.18" Full
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D2HLPFF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D2HLPFF/?tag=tolees00-21)

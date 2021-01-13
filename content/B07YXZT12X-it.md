@@ -26,4 +26,4 @@ Puoi trovare [HUAWEI Freebuds 3 Auricolare  Bluetooth  Bianco](https://www.amazo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21)

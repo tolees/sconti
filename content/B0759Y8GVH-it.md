@@ -26,4 +26,4 @@ Puoi trovare [K19 USB Tipo C Cavo 5A 1 8m Lungo Typ C Cavo di Ricarica per Huawe
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0759Y8GVH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0759Y8GVH/?tag=tolees00-21)

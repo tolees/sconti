@@ -26,4 +26,4 @@ Puoi trovare [Lacoste L1212  T-Shirt Polo  Uomo  Rosa  Flamant T03   FR 2](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003F26IPG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003F26IPG/?tag=tolees00-21)

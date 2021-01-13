@@ -26,4 +26,4 @@ Puoi trovare [Lifewit 15L Borsa Termica Manutenzione di Freddo e Caldo per Uomo/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07B8CWWWM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07B8CWWWM/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Ankermann BRIX NUC 15-Watt Mini Office Work PC 8GB RAM 480 GB SSD 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FCNDMNN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FCNDMNN/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [TRENINO THOMAS- Mega  DXH55](https://www.amazon.it/dp/B01KLJ574S/?
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01KLJ574S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01KLJ574S/?tag=tolees00-21)

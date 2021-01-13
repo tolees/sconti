@@ -26,4 +26,4 @@ Puoi trovare [Omino Bianco - Idrocaps White Sbianca E Smacchia  Ultra Efficace  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01NCM8SMW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01NCM8SMW/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Microsoft 1850 Mobile Mouse Wireless  Nero](https://www.amazon.it/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21)

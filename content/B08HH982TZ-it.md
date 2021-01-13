@@ -26,4 +26,4 @@ Puoi trovare [BOUDECH Space 1800 - Tapis Roulant Elettrico 1800W Pieghevole Ultr
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HH982TZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HH982TZ/?tag=tolees00-21)

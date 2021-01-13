@@ -26,4 +26,4 @@ Puoi trovare [TP-Link TL-WA850RE Ripetitore Wireless Wifi Extender e Access Poin
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00A0VCJPI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00A0VCJPI/?tag=tolees00-21)

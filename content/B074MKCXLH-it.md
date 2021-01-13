@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Nero  Blac
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074MKCXLH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074MKCXLH/?tag=tolees00-21)

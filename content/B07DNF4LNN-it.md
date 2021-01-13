@@ -26,4 +26,4 @@ Puoi trovare [adidas Grand Court  Scarpe da Tennis Donna  Ftwr White/Platinum Me
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DNF4LNN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DNF4LNN/?tag=tolees00-21)

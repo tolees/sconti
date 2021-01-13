@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Ckj Uniform Workman Belt 35mm Cintura  Marrone  Bitte
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VD34S8B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VD34S8B/?tag=tolees00-21)

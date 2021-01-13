@@ -26,4 +26,4 @@ Puoi trovare [Diadora Fitness Forty Tapis Roulant Magnetico](https://www.amazon.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21)

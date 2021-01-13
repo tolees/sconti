@@ -26,4 +26,4 @@ Puoi trovare [Superdry Denim Goods Co Tee T-Shirt  Blu  True Indigo BDM   M Uomo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NY3RJ2L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NY3RJ2L/?tag=tolees00-21)

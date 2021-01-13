@@ -26,4 +26,4 @@ Puoi trovare [Geox B New Balu  Boy C  Scarpe da Ginnastica Basse Bimbo  Beige  B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07LG2HGKP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07LG2HGKP/?tag=tolees00-21)

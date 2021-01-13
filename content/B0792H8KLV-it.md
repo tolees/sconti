@@ -26,4 +26,4 @@ Puoi trovare [Geox U Ariam D  Scarpe da Ginnastica Basse Uomo  Grigio  Anthracit
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0792H8KLV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0792H8KLV/?tag=tolees00-21)

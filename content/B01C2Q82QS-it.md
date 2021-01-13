@@ -26,4 +26,4 @@ Puoi trovare [Vimar 0P32352.B Cavo Prolunga Estensibile  3G0.75  5 m  Bianco](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01C2Q82QS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01C2Q82QS/?tag=tolees00-21)

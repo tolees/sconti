@@ -26,4 +26,4 @@ Puoi trovare [DeniseM117 Cuffie Bluetooth Auricolari Bluetooth Senza Fili TWS Cu
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088WH2MWJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088WH2MWJ/?tag=tolees00-21)

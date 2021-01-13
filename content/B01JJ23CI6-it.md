@@ -26,4 +26,4 @@ Puoi trovare [Elegoo Scheda Starter Ultimate Kit Piu Completo per Progetto Princ
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01JJ23CI6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01JJ23CI6/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Givova Visa  Tuta Da Ginnastica Uomo  Multicolore  Nero/Rosso   XS
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00I060OYS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00I060OYS/?tag=tolees00-21)

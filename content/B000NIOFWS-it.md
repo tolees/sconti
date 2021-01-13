@@ -26,4 +26,4 @@ Puoi trovare [Paderno 11161-28 Coperchio  in Acciaio Inox  28 cm](https://www.am
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000NIOFWS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000NIOFWS/?tag=tolees00-21)

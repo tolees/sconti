@@ -26,4 +26,4 @@ Puoi trovare [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Bianca Wht-Peaco
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KG6YSFM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KG6YSFM/?tag=tolees00-21)

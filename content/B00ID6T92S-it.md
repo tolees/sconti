@@ -26,4 +26,4 @@ Puoi trovare [Emporio Armani Orologio Cronografo Quarzo Uomo con Cinturino in Ac
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00ID6T92S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ID6T92S/?tag=tolees00-21)

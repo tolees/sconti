@@ -26,4 +26,4 @@ Puoi trovare [Aeternum Titanium Induction Piastra Multiuso Crepiere  Alluminio  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B072VKSDYT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B072VKSDYT/?tag=tolees00-21)

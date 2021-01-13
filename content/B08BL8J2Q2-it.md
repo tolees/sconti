@@ -26,4 +26,4 @@ Puoi trovare [Cuffie Bluetooth  Auricolari Bluetooth 5.0 Senza Fili Cancellazion
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BL8J2Q2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BL8J2Q2/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Ventilatore Portatile  Ventilatore USB Indossabile Ricaricabile Ve
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B087N9WKW8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B087N9WKW8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [It  2017  + Funko Keychain](https://www.amazon.it/dp/B07G4SZFTZ/?t
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21)

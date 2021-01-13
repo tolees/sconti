@@ -26,4 +26,4 @@ Puoi trovare [Xenoblade Chronicles: Definitive Edition - Nintendo Switch](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086HFZPVW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086HFZPVW/?tag=tolees00-21)

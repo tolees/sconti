@@ -26,4 +26,4 @@ Puoi trovare [Giotto Stilnovo - Astuccio 12 Pastelli  Multicolore](https://www.a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0021V6QCC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0021V6QCC/?tag=tolees00-21)

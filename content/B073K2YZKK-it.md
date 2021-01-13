@@ -26,4 +26,4 @@ Puoi trovare [Casio Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B073K2YZKK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B073K2YZKK/?tag=tolees00-21)

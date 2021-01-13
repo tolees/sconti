@@ -26,4 +26,4 @@ Puoi trovare [MKTOSASA - Supporto di Stampa con Batteria di ricarica-10.000 mAh.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085LKRJY2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085LKRJY2/?tag=tolees00-21)

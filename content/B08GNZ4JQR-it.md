@@ -26,4 +26,4 @@ Puoi trovare [X-Dision [3 Pezzi Compatibile con Sony Xperia X Compact Proteggi S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GNZ4JQR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GNZ4JQR/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Birkenstock Classic Milano Birko-Flor Softfootbed - Sandali unisex
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000KBSZOM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000KBSZOM/?tag=tolees00-21)

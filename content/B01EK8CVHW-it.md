@@ -26,4 +26,4 @@ Puoi trovare [TP-Link M7350 Mobile Router Hotspot Portatile  4G LTE Cat4 150Mbps
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01EK8CVHW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01EK8CVHW/?tag=tolees00-21)

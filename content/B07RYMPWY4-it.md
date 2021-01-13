@@ -26,4 +26,4 @@ Puoi trovare [Levi s 502 Regular Taper Jeans  Blu  Stonewash Stretch T2 0555   3
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RYMPWY4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RYMPWY4/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Fanta Original 330 ml - 4 lattine](https://www.amazon.it/dp/B0752D
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0752DYT4W/?tag=tolees00-21)

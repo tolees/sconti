@@ -26,4 +26,4 @@ Puoi trovare [Gillette Series Pelli Sensibili Gel da Barba  Pacco da 6 x 75 ml  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B071SDVC6Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B071SDVC6Z/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Kipling KiplingTopsDonnaPortafogliNero  Charcoal  7.5x10x2.5 Centi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TTP9V2G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TTP9V2G/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Maybelline New York Superstay Matte Ink Rossetto Matte Liquido Tin
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B073HBNC2D/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B073HBNC2D/?tag=tolees00-21)

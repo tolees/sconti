@@ -26,4 +26,4 @@ Puoi trovare [Beautural Ferro da Stiro Verticale  Stiratrice a Vapore Vaporizzat
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZF5TNX6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZF5TNX6/?tag=tolees00-21)

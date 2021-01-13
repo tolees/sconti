@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Slim Brasil Logo  Infradito  Donna  Nero  39/40 EU](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21)

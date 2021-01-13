@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Cover Grip per Xbox One S X Controller Model 1708  Cus
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HDJKYLF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HDJKYLF/?tag=tolees00-21)

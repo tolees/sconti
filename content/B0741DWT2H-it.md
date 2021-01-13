@@ -26,4 +26,4 @@ Puoi trovare [Tristar Fr-6996 Crispy Fryer XXL  1500 W  5.2 Litri  18/8 Stainles
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0741DWT2H/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0741DWT2H/?tag=tolees00-21)

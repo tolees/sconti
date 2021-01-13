@@ -26,4 +26,4 @@ Puoi trovare [OUPOD Controller wireless  Bluetooth  per Nintendo Switch Pro coll
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BMSLHG4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BMSLHG4/?tag=tolees00-21)

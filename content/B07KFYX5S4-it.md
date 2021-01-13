@@ -26,4 +26,4 @@ Puoi trovare [PUMA Ralph Sampson Lo  Sneaker Unisex-Adulto  Bianco White Peacoat
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KFYX5S4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KFYX5S4/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Smartphone Offerta 4G  DOOGEE N20 Pro Cellulari Offerte  2020   6 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DHS8Y4G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DHS8Y4G/?tag=tolees00-21)

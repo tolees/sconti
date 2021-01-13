@@ -26,4 +26,4 @@ Puoi trovare [adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  XL](https://www
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B081TTQT2Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B081TTQT2Z/?tag=tolees00-21)

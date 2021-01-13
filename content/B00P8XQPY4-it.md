@@ -26,4 +26,4 @@ Puoi trovare [Sandisk Cruzer Ultra Pen Drive USB 3.0  128 GB  Nero](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00P8XQPY4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00P8XQPY4/?tag=tolees00-21)

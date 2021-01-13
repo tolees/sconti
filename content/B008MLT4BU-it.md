@@ -26,4 +26,4 @@ Puoi trovare [Foppapedretti Assai Asse da Stiro  Bianco](https://www.amazon.it/d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B008MLT4BU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B008MLT4BU/?tag=tolees00-21)

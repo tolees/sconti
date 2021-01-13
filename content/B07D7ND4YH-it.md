@@ -26,4 +26,4 @@ Puoi trovare [Etekcity Bilancia Pesapersone Digitale Bilancia Impedenziometrica 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D7ND4YH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D7ND4YH/?tag=tolees00-21)

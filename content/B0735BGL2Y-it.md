@@ -26,4 +26,4 @@ Puoi trovare [Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0735BGL2Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0735BGL2Y/?tag=tolees00-21)

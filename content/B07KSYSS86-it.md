@@ -26,4 +26,4 @@ Puoi trovare [Electrolux E7TB1-4GB Explore 7 Blender  Nero Granite](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KSYSS86/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KSYSS86/?tag=tolees00-21)

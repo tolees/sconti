@@ -26,4 +26,4 @@ Puoi trovare [Trust GXT 363 Cuffie da Gioco Surround 7.1 con Vibrazioni Attive d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00ZIJSZUU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ZIJSZUU/?tag=tolees00-21)

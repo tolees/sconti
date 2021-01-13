@@ -26,4 +26,4 @@ Puoi trovare [Kellogg s Krave Choco Nut - 410 g](https://www.amazon.it/dp/B086XR
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086XRP94M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086XRP94M/?tag=tolees00-21)

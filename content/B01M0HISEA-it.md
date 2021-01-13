@@ -26,4 +26,4 @@ Puoi trovare [Dainese Snow Team Jr Evo Casco da Sci  Vibrant-Yellow  JS](https:/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01M0HISEA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0HISEA/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Casio Orologio Digitale Donna con Cinturino in Acciaio Inox LA670W
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B007UNAV6I/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B007UNAV6I/?tag=tolees00-21)

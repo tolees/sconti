@@ -26,4 +26,4 @@ Puoi trovare [BONTEC Braccio Monitor Singolo per Schermo LED LCD da 13 a 32 Poll
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01MZ70QJB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZ70QJB/?tag=tolees00-21)

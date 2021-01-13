@@ -26,4 +26,4 @@ Puoi trovare [Ht25N Multimetro Digitale Multifunzione Com Hr0002](https://www.am
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21)

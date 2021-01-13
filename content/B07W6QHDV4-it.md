@@ -26,4 +26,4 @@ Puoi trovare [adidas Backpack Club Orange](https://www.amazon.it/dp/B07W6QHDV4/?
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W6QHDV4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W6QHDV4/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Timberland Newport Bay Bumper Toe Oxford Sneaker  Donna  Blu  Vint
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07T2DXWCM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T2DXWCM/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Melchioni ARTIC47LT Mini frigo bar con congelatore  A+  Silenzioso
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BZXLS2G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BZXLS2G/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Birkenstock Arizona - Sandali a Punta Aperta Uomo  Grigio  Brushed
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01BKUA0XK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01BKUA0XK/?tag=tolees00-21)

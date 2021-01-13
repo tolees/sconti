@@ -26,4 +26,4 @@ Puoi trovare [Daniel Wellington Classic Cambridge  Orologio da polso Uomo  ⌀ 4
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00BKQT54A/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00BKQT54A/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [FFTH Hard Disk 2 TB Esterno  Hard Disk Esterno USB-C 3.1 Portatile
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HLVSN6F/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HLVSN6F/?tag=tolees00-21)

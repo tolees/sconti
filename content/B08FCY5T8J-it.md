@@ -26,4 +26,4 @@ Puoi trovare [Pawhut Divano per Animali  Cuscino Rivestito in gommapiuma Rimovib
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FCY5T8J/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FCY5T8J/?tag=tolees00-21)

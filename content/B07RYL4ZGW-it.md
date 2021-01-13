@@ -26,4 +26,4 @@ Puoi trovare [New Balance 373 Core  Sneaker Uomo  Rosso  Red/White Cd2 ](https:/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RYL4ZGW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RYL4ZGW/?tag=tolees00-21)

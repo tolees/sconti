@@ -26,4 +26,4 @@ Puoi trovare [MORELLATO Anello Donna acciaio inossidabile - SALY11014](https://w
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B079ZN2LTY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B079ZN2LTY/?tag=tolees00-21)

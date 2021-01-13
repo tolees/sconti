@@ -26,4 +26,4 @@ Puoi trovare [New Balance 373 Core U  Scarpe Trainers Uomo  Nero  Black   45.5 E
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M5AHFS6/?tag=tolees00-21)

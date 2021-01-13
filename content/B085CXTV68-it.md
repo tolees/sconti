@@ -26,4 +26,4 @@ Puoi trovare [Braun Series 6 60-B4500cs Rasoio Elettrico Barba con Base di Ricar
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085CXTV68/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085CXTV68/?tag=tolees00-21)

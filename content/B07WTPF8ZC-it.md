@@ -26,4 +26,4 @@ Puoi trovare [Simple Modern Wanderer Zaino Donna  Uomo  o Bambini con Tasca per 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WTPF8ZC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WTPF8ZC/?tag=tolees00-21)

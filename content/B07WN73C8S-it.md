@@ -26,4 +26,4 @@ Puoi trovare [HONGDA Cavo Phone [4Pezzi  0.3m 1m 2m 3m] Cavo Phone di Nylon Intr
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WN73C8S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WN73C8S/?tag=tolees00-21)

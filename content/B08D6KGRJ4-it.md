@@ -26,4 +26,4 @@ Puoi trovare [Cover Redmi Note 9s  Custodia TPU Morbido Flessibile Silicone con 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08D6KGRJ4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D6KGRJ4/?tag=tolees00-21)

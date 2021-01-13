@@ -26,4 +26,4 @@ Puoi trovare [Max Factor Lipfinity Lip Colour Rossetto Lunga Durata e Gloss Idra
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00I98YPM4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00I98YPM4/?tag=tolees00-21)

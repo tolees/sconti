@@ -26,4 +26,4 @@ Puoi trovare [Grey L Acchiappacolore Fogli Cattura Colore Lavatrice Evita Incide
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00OPVS8MM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00OPVS8MM/?tag=tolees00-21)

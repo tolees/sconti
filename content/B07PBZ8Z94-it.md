@@ -26,4 +26,4 @@ Puoi trovare [American Tourister Disney Legends - Spinner S Valigia per Bambini 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PBZ8Z94/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PBZ8Z94/?tag=tolees00-21)

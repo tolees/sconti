@@ -26,4 +26,4 @@ Puoi trovare [Kenwood KMX750WH Impastatrice Planetaria Kitchen Machine kMix  Rob
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06W5KYR22/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06W5KYR22/?tag=tolees00-21)

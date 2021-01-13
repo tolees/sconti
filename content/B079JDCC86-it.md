@@ -26,4 +26,4 @@ Puoi trovare [Barbie Magia delle Feste 2018 Bambola Bionda da Collezionare per N
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B079JDCC86/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B079JDCC86/?tag=tolees00-21)

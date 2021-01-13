@@ -26,4 +26,4 @@ Puoi trovare [Friskies Purina Crocchette Cane Vitafit Balance con Pollo e Verdur
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01M8M4PXV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M8M4PXV/?tag=tolees00-21)

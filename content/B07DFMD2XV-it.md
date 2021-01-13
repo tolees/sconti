@@ -26,4 +26,4 @@ Puoi trovare [Guess Vikky Slg Large Zip Around Portamonete  Donna  Nero  Taglia 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DFMD2XV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DFMD2XV/?tag=tolees00-21)

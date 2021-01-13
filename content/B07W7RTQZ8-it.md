@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Tommy Tipped Slim Polo  Nero  Black   Large  Taglia
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W7RTQZ8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W7RTQZ8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [JACK & JONES Jjimarco Jjbowie Sa Noos Pantaloni  Blu  Navy Blazer 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07JP68HW4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JP68HW4/?tag=tolees00-21)

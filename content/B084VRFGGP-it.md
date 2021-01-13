@@ -26,4 +26,4 @@ Puoi trovare [MS Windows 10 Pro 32 bit e 64 bit - Chiave di Licenza Originale pe
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084VRFGGP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084VRFGGP/?tag=tolees00-21)

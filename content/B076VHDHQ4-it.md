@@ -26,4 +26,4 @@ Puoi trovare [Aicok Sacchetti per Sottovuoto Alimenti  Sottovuoto Sacchetti Roto
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B076VHDHQ4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B076VHDHQ4/?tag=tolees00-21)

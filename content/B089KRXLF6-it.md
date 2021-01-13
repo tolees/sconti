@@ -26,4 +26,4 @@ Puoi trovare [Auricolari Bluetooth 5.0 Cuffie Wireless  Cuffia Microfono Stereo 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089KRXLF6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089KRXLF6/?tag=tolees00-21)

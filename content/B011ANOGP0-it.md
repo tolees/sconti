@@ -26,4 +26,4 @@ Puoi trovare [Philips Monitor 243V5LHSB Gaming Monitor per PC Desktop 23.6" LED 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B011ANOGP0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B011ANOGP0/?tag=tolees00-21)

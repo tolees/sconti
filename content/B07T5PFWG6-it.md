@@ -26,4 +26,4 @@ Puoi trovare [Timberland Boroughs Project Leather Oxford Sneaker  Uomo  Verde  C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07T5PFWG6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T5PFWG6/?tag=tolees00-21)

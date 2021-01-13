@@ -26,4 +26,4 @@ Puoi trovare [New Balance 520v6  Scarpe da Corsa Uomo  Blu Blue Lv6  43 EU](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S1MMVL6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S1MMVL6/?tag=tolees00-21)

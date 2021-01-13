@@ -26,4 +26,4 @@ Puoi trovare [Reebok CL LTHR  Scarpe da Ginnastica Donna  Bianco  White/Gum   36
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00XJYRF6G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00XJYRF6G/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone Rootbeer S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000VX36BG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000VX36BG/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Big Babol Mega Stick Gomme da Masticare  Chewing Gum Morbido con S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082T8JMQV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082T8JMQV/?tag=tolees00-21)

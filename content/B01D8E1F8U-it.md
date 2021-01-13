@@ -26,4 +26,4 @@ Puoi trovare [PowerA Kit Gioca E Ricarica Per Xbox One - Day-One - Xbox One](htt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01D8E1F8U/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01D8E1F8U/?tag=tolees00-21)

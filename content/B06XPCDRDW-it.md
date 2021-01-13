@@ -26,4 +26,4 @@ Puoi trovare [Rowenta CF5712 Instant Straight Spazzola Elettrica Lisciante e Ter
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XPCDRDW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XPCDRDW/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein K50k505179 Cintura  Blu  Navy/Black 0Gy   Unica  Tagl
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RJ6S4XH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RJ6S4XH/?tag=tolees00-21)

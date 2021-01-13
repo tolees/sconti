@@ -26,4 +26,4 @@ Puoi trovare [Bottiglia d Acqua Sportiva 850ml Borraccia Senza BPA in Plastica T
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BZ44K4X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BZ44K4X/?tag=tolees00-21)

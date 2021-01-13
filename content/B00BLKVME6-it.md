@@ -26,4 +26,4 @@ Puoi trovare [Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Ino
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00BLKVME6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00BLKVME6/?tag=tolees00-21)

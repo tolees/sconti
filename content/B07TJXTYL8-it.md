@@ -26,4 +26,4 @@ Puoi trovare [Lacoste L1212 Polo  Blu  Cicer Yzk   2XL Uomo](https://www.amazon.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TJXTYL8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJXTYL8/?tag=tolees00-21)

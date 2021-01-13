@@ -26,4 +26,4 @@ Puoi trovare [HyperX HX-MC004B Pulsefire Core  Mouse Gaming RGB](https://www.ama
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07H3GFJJ2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H3GFJJ2/?tag=tolees00-21)

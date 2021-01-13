@@ -26,4 +26,4 @@ Puoi trovare [Xiaomi Mi Smart Scale 2  Bilancia Pesa Persona  bianco](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21)

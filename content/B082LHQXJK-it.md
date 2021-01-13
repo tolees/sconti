@@ -26,4 +26,4 @@ Puoi trovare [ASICS Gel-Quantum 90 2  Scarpe da Corsa Uomo  Bianco  White/Piedmo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082LHQXJK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082LHQXJK/?tag=tolees00-21)

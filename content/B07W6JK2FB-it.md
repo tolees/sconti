@@ -26,4 +26,4 @@ Puoi trovare [Russell Hobbs Bicchiere in Vetro Frullatore Professionale Velocity
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W6JK2FB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W6JK2FB/?tag=tolees00-21)

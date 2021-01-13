@@ -26,4 +26,4 @@ Puoi trovare [Guess Open Road Luxury Satchel  Handbag Donna  Nero  Uni](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B081DBJ4LK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B081DBJ4LK/?tag=tolees00-21)

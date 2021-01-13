@@ -26,4 +26,4 @@ Puoi trovare [Levi s Tank Top Canottiera Sportiva  Bianco  White + 0000   Small 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)

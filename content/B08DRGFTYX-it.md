@@ -26,4 +26,4 @@ Puoi trovare [Telecamera Wifi Esterna  INQMEGAPRO 1080P PTZ Dome Telecamera di S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DRGFTYX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DRGFTYX/?tag=tolees00-21)

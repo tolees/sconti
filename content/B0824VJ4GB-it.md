@@ -26,4 +26,4 @@ Puoi trovare [Cuffie Bluetooth  Auricolari Bluetooth5.0 Senza Fili Auricolari Wi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0824VJ4GB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0824VJ4GB/?tag=tolees00-21)

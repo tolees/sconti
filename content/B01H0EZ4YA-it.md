@@ -26,4 +26,4 @@ Puoi trovare [Skyrim - Special Edition](https://www.amazon.it/dp/B01H0EZ4YA/?tag
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01H0EZ4YA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01H0EZ4YA/?tag=tolees00-21)

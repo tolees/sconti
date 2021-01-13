@@ -26,4 +26,4 @@ Puoi trovare [Clinogel Gel Mani Igienizzante con Estratti di Timo e Glicerina Na
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089QS56JM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089QS56JM/?tag=tolees00-21)

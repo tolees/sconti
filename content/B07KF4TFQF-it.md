@@ -26,4 +26,4 @@ Puoi trovare [Levi s Ex-Boyfriend Trucker Giacca in Jeans  Blu  for Real 0089   
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KF4TFQF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KF4TFQF/?tag=tolees00-21)

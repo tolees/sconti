@@ -26,4 +26,4 @@ Puoi trovare [Olimpia Splendid 01913 Dolceclima Compact 8 P Climatizzatore Porta
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NDNL1S8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDNL1S8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [PUMA Vikky Stacked L  Sneakers Donna  Grigio  Silver Cloud-Rosewat
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S8PVHTR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8PVHTR/?tag=tolees00-21)

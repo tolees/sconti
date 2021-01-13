@@ -26,4 +26,4 @@ Puoi trovare [Vans Herren Colorblock Tee T - Shirt  Schwarz  Black/athletic Heat
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06W9M74TB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06W9M74TB/?tag=tolees00-21)

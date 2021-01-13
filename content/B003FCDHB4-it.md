@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Bambini  Blu  Navy Blue 05
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21)

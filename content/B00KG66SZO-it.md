@@ -26,4 +26,4 @@ Puoi trovare [ArtWay Studio - Quaderno da Disegno spiralato - Cartoncino Senza a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00KG66SZO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00KG66SZO/?tag=tolees00-21)

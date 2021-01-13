@@ -26,4 +26,4 @@ Puoi trovare [Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Blu  Dark
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FH9MF94/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FH9MF94/?tag=tolees00-21)

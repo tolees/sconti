@@ -26,4 +26,4 @@ Puoi trovare [Scrambler Ducati Monopattino elettrico Cross-E  nero e giallo  Tag
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08D3R2TBG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D3R2TBG/?tag=tolees00-21)

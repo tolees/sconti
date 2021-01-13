@@ -26,4 +26,4 @@ Puoi trovare [Eastpak Rusher Borsa A Tracolla  23 cm  Verde  Crafty Moss ](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KY834KG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KY834KG/?tag=tolees00-21)

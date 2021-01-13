@@ -26,4 +26,4 @@ Puoi trovare [Auricolari bluetooth Orit Cuffie Bluetooth 5.0 Senza Fili con Lett
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B087QCFTG2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B087QCFTG2/?tag=tolees00-21)

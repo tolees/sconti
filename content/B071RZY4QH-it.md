@@ -26,4 +26,4 @@ Puoi trovare [Lacoste TH6712 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produtt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B071RZY4QH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B071RZY4QH/?tag=tolees00-21)

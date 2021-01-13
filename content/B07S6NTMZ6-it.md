@@ -26,4 +26,4 @@ Puoi trovare [PUMA Smash Wns v2 L  Scarpe da Ginnastica Donna  Bianca White-Brig
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S6NTMZ6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S6NTMZ6/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Filetti di tonno pescato a canna in olio d oliva 190g](https://www
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SSSS6GZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SSSS6GZ/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [homcom Stazione da Fitness Barra per trazioni  4 ventise Altezza R
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GDQ8DFS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GDQ8DFS/?tag=tolees00-21)

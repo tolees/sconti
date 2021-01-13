@@ -26,4 +26,4 @@ Puoi trovare [Hoover AXI AWDPD 4138LH/1-S  Steel](https://www.amazon.it/dp/B07HP
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07HP6SST8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07HP6SST8/?tag=tolees00-21)

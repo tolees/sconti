@@ -26,4 +26,4 @@ Puoi trovare [STAEDTLER matite colorate Noris Colour  confezione da 24 colori co
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00SF4NTF6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00SF4NTF6/?tag=tolees00-21)

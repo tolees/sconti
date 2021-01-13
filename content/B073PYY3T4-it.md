@@ -26,4 +26,4 @@ Puoi trovare [Timberland Allington 6 inch Lace Up  Stivali Donna  Giallo  Wheat 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B073PYY3T4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B073PYY3T4/?tag=tolees00-21)

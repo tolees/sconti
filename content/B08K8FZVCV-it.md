@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Soft Grip Cover Frontale Custodia Scocca Case Ricambio
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08K8FZVCV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08K8FZVCV/?tag=tolees00-21)

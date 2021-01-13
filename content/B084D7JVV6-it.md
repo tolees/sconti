@@ -26,4 +26,4 @@ Puoi trovare [Sega a Gattuccio Brushless  POPOMAN 18V Sega Universale con LED  4
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084D7JVV6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084D7JVV6/?tag=tolees00-21)

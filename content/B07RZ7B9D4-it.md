@@ -26,4 +26,4 @@ Puoi trovare [ESPRIT 999ee2i803 Felpa  Grigio  Grey 030   Large Uomo](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RZ7B9D4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RZ7B9D4/?tag=tolees00-21)

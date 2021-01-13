@@ -26,4 +26,4 @@ Puoi trovare [Seagate IronWolf  Unità SATA da 6 Gbit/s da 2 TB  HDD  CMR 3 5" 5
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01LWVCZ6N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LWVCZ6N/?tag=tolees00-21)

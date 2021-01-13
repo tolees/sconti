@@ -26,4 +26,4 @@ Puoi trovare [adidas W SL Graph Tee Canottiera Sportiva  Donna  White  L](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B081TQP4L2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B081TQP4L2/?tag=tolees00-21)

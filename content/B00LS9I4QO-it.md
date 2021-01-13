@@ -26,4 +26,4 @@ Puoi trovare [K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Verde  Torba  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00LS9I4QO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00LS9I4QO/?tag=tolees00-21)

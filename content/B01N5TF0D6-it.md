@@ -26,4 +26,4 @@ Puoi trovare [Harry Potter 7 Pt.2  4K + Br ](https://www.amazon.it/dp/B01N5TF0D6
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21)

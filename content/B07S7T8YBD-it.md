@@ -26,4 +26,4 @@ Puoi trovare [Beschoi Specchio Trucco con Luci LED  Specchio Ingranditore 1X/5X
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S7T8YBD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S7T8YBD/?tag=tolees00-21)

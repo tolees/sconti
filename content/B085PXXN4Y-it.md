@@ -26,4 +26,4 @@ Puoi trovare [Südtirol - Alto Adige DOC Goldmuskateller Blumenfeld 2019 0 75 L]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085PXXN4Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085PXXN4Y/?tag=tolees00-21)

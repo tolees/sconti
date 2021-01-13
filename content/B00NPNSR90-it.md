@@ -26,4 +26,4 @@ Puoi trovare [Kenzo  Jungle  Eau de Toilette da uomo  100 ml](https://www.amazon
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   FR 9](https:/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003XE2NV4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003XE2NV4/?tag=tolees00-21)

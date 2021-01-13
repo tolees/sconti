@@ -26,4 +26,4 @@ Puoi trovare [TP-Link RE650 Ripetitore WiFi Wireless  Wifi Extender  Access Poin
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06Y1SXP44/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y1SXP44/?tag=tolees00-21)

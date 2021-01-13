@@ -26,4 +26,4 @@ Puoi trovare [Lampada UV LED Unghie  Carttiya Asciuga Unghie per Smalto UV LED i
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0797GBRP8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0797GBRP8/?tag=tolees00-21)

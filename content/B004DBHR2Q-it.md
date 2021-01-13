@@ -26,4 +26,4 @@ Puoi trovare [Bic Cristal Original Punta Media 1 mm Confezione 10 Penne Colore N
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B004DBHR2Q/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B004DBHR2Q/?tag=tolees00-21)

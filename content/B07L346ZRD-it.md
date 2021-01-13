@@ -26,4 +26,4 @@ Puoi trovare [ASICS Patriot 11  Scarpe da Corsa Uomo  Nero  Black/White 001   44
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07L346ZRD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07L346ZRD/?tag=tolees00-21)

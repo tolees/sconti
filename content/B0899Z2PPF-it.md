@@ -26,4 +26,4 @@ Puoi trovare [PiAEK Controller per Nintendo Switch Sensore a 6 Assi Wireless PRO
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0899Z2PPF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0899Z2PPF/?tag=tolees00-21)

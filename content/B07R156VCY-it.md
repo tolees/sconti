@@ -26,4 +26,4 @@ Puoi trovare [Marchio Amazon - Happy Belly Pistacchi tostati e salati 6x250g](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07R156VCY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07R156VCY/?tag=tolees00-21)

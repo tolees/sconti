@@ -26,4 +26,4 @@ Puoi trovare [Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio In
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00B4VRFM0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00B4VRFM0/?tag=tolees00-21)

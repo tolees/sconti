@@ -26,4 +26,4 @@ Puoi trovare [Mini manuale tritatutto  520 ml verdure cipolla chopper con 3 lame
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BWDJ362/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BWDJ362/?tag=tolees00-21)

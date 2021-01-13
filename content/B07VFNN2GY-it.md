@@ -26,4 +26,4 @@ Puoi trovare [Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in Silicone
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VFNN2GY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VFNN2GY/?tag=tolees00-21)

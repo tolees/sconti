@@ -26,4 +26,4 @@ Puoi trovare [Xiaomi Redmi Airdots 2  Timoom Cuffie Bluetooth 5.0  Originale Aur
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F1X6ZH2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F1X6ZH2/?tag=tolees00-21)

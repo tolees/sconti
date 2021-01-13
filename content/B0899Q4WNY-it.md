@@ -26,4 +26,4 @@ Puoi trovare [Striscia LED VITCOCO LED Strisce Bluetooth 10M 5050 RGB Nastri LED
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0899Q4WNY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0899Q4WNY/?tag=tolees00-21)

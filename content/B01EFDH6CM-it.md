@@ -26,4 +26,4 @@ Puoi trovare [Vero Moda Vmjulia Ls Dnm Noos  Blazer Donna  38  Nero  Black Black
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01EFDH6CM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01EFDH6CM/?tag=tolees00-21)

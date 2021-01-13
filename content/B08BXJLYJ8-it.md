@@ -26,4 +26,4 @@ Puoi trovare [Lysoform On the Go Gel Detergente Igienizzante Mani  100 ml](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21)

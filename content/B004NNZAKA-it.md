@@ -26,4 +26,4 @@ Puoi trovare [My.Size - Profilattici  69 mm  36 pezzi](https://www.amazon.it/dp/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B004NNZAKA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B004NNZAKA/?tag=tolees00-21)

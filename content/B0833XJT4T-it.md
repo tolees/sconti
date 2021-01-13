@@ -26,4 +26,4 @@ Puoi trovare [Netac 32G Scheda Micro SD Set da 2  Scheda di Memoria A1  U1  C10 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0833XJT4T/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0833XJT4T/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Aigostar Doreen 300109LYD - Macchina sottovuoto per alimenti fresc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086KYB28Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086KYB28Z/?tag=tolees00-21)

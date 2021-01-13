@@ -26,4 +26,4 @@ Puoi trovare [VIAKAL Detersivo Anticalcare Spray Fresco Profumo  Maxi Formato 10
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BLZNYNM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BLZNYNM/?tag=tolees00-21)

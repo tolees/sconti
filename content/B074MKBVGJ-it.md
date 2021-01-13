@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Bambini  Nero Black  25/26
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074MKBVGJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074MKBVGJ/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black White White 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S8PPNMT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8PPNMT/?tag=tolees00-21)

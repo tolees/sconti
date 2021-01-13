@@ -26,4 +26,4 @@ Puoi trovare [BIC Comfort 2 - Rasoio da uomo  1 confezione da 10+5 pezzi](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00ESXJXFI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ESXJXFI/?tag=tolees00-21)

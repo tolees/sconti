@@ -26,4 +26,4 @@ Puoi trovare [InkJello Compatibile Toner Cartuccia Sostituzione Per HP LaserJet 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07JC4QMLF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JC4QMLF/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Sony DSC-HX60 Fotocamera Digitale Compatta Travel con Sensore CMOS
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00I9X2KLW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00I9X2KLW/?tag=tolees00-21)

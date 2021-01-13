@@ -26,4 +26,4 @@ Puoi trovare [The North Face M Croda Rossa FLC  Pile Uomo  Grigio  Asphalt Grey 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07T7NZLD2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T7NZLD2/?tag=tolees00-21)

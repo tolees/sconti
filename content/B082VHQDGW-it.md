@@ -26,4 +26,4 @@ Puoi trovare [ZD-O Wired Gaming Controller 6 Remappable Multi-Function Buttons f
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082VHQDGW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082VHQDGW/?tag=tolees00-21)

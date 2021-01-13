@@ -26,4 +26,4 @@ Puoi trovare [YAMAMAY® Pigiama Lungo Donna - Love](https://www.amazon.it/dp/B08
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B081FF8CV4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B081FF8CV4/?tag=tolees00-21)

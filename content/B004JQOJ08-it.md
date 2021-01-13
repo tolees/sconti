@@ -26,4 +26,4 @@ Puoi trovare [Philips HP6341/00 Ladyshave Rasoio Femminile  Wet&Dry  Bianco/Fucs
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B004JQOJ08/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B004JQOJ08/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Bosch Elettrodomestici WAT28749IT Serie 6  Lavatrice Active Oxygen
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21)

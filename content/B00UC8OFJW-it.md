@@ -26,4 +26,4 @@ Puoi trovare [homcom - Tapis roulant Elettrico Attrezzo Ginnico richiudibile Att
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00UC8OFJW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00UC8OFJW/?tag=tolees00-21)

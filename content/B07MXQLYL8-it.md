@@ -26,4 +26,4 @@ Puoi trovare [Hasbro Marvel Spider-Man - Titan Hero Power FX con Lanciacolpi da 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MXQLYL8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MXQLYL8/?tag=tolees00-21)

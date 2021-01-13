@@ -26,4 +26,4 @@ Puoi trovare [Acqua Di Parma Colonia Club Eau de Cologne  20 ml](https://www.ama
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D4GSHM8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D4GSHM8/?tag=tolees00-21)

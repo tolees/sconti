@@ -26,4 +26,4 @@ Puoi trovare [Claber 87271 Tubo Innaffio Estensibile  Kit 3/4" 9034  Nero/Aranci
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003OWVC0S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003OWVC0S/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Boss Identity T-Shirt RN  Blu  Dark Blue 403   Medium Uomo](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V1J82XS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V1J82XS/?tag=tolees00-21)

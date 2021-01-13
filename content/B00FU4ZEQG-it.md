@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Nero  43/46 - Confez
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00FU4ZEQG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00FU4ZEQG/?tag=tolees00-21)

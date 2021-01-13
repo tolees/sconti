@@ -26,4 +26,4 @@ Puoi trovare [【2020 Ultimo Modello】Arbily Cuffie Bluetooth in Ear  Auricolar
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WZZHW66/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WZZHW66/?tag=tolees00-21)

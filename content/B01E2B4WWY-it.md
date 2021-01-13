@@ -26,4 +26,4 @@ Puoi trovare [VERO MODA VMJULIA LS BLAZER DNM NOOS  Blazer Donna  Blu  Total Ecl
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01E2B4WWY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01E2B4WWY/?tag=tolees00-21)

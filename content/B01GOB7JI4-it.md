@@ -26,4 +26,4 @@ Puoi trovare [Aigostar Acciaio Blu 31HGB - Ferro a vapore 2200W con base in acci
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01GOB7JI4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GOB7JI4/?tag=tolees00-21)

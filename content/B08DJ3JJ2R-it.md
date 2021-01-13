@@ -26,4 +26,4 @@ Puoi trovare [Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DJ3JJ2R/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DJ3JJ2R/?tag=tolees00-21)

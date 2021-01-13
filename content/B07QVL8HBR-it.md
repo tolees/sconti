@@ -26,4 +26,4 @@ Puoi trovare [Huawei P30 Lite - Smartphone da 6.15 " WiFi  Kirin 710  4GB RAM  m
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07QVL8HBR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QVL8HBR/?tag=tolees00-21)

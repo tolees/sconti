@@ -26,4 +26,4 @@ Puoi trovare [Bica 9017.4 Set Salottino Colorado 4 Posti 119x64x57 cm  Marrone  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XRPDQPB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XRPDQPB/?tag=tolees00-21)

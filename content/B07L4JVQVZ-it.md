@@ -26,4 +26,4 @@ Puoi trovare [Funko-36025 Fortnite Valor  Multicolore  36025](https://www.amazon
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07L4JVQVZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07L4JVQVZ/?tag=tolees00-21)

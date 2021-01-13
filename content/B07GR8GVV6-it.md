@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GR8GVV6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GR8GVV6/?tag=tolees00-21)

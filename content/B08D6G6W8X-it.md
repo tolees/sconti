@@ -26,4 +26,4 @@ Puoi trovare [Hunty Hard Disk 1 TB Esterno USB 3.0 per PC  Mac  Xbox  Desktop  L
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08D6G6W8X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D6G6W8X/?tag=tolees00-21)

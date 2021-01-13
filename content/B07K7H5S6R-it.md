@@ -26,4 +26,4 @@ Puoi trovare [TACKLIFE Pistola da Giardino  10 modalità di Spruzzo  Pistola per
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07K7H5S6R/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07K7H5S6R/?tag=tolees00-21)

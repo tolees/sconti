@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Monogram Modern Straight Crop T-Shirt  Grigio  Light 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V8KSJJW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V8KSJJW/?tag=tolees00-21)

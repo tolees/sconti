@@ -26,4 +26,4 @@ Puoi trovare [Rimmel 60 Seconds Super-Shine  Smalto Per Unghie  Sea Nymph - 20 G
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NTRB2SX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NTRB2SX/?tag=tolees00-21)

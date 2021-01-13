@@ -26,4 +26,4 @@ Puoi trovare [Skechers Flex Advantage 3.0  Sneaker Uomo  Blu  Navy Mesh/Red Trim
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TSQ8HBZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TSQ8HBZ/?tag=tolees00-21)

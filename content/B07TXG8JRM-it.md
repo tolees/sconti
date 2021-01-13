@@ -26,4 +26,4 @@ Puoi trovare [HolyHigh Smartwatch Orologio Fitness GPS Impermeabile IP68 Cardiof
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TXG8JRM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TXG8JRM/?tag=tolees00-21)

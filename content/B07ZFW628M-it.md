@@ -26,4 +26,4 @@ Puoi trovare [RTP® ● BCAA 4:1:1 + Vit B6 ● 200 Compresse da 1000 mg ● Int
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZFW628M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZFW628M/?tag=tolees00-21)

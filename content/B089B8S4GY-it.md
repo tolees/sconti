@@ -26,4 +26,4 @@ Puoi trovare [CARPISA® Borsa shopping a spalla bicolore - Nantes](https://www.a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089B8S4GY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089B8S4GY/?tag=tolees00-21)

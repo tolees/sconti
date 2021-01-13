@@ -26,4 +26,4 @@ Puoi trovare [Dustgo Tester PH/TDS&EC 4 in 1 Set Misuratore Digitale della quali
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07T9KW6P6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T9KW6P6/?tag=tolees00-21)

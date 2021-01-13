@@ -26,4 +26,4 @@ Puoi trovare [Nike Wmns Revolution 5  Scarpe da Corsa Womens  Black/White-Anthra
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NLVRH2Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NLVRH2Z/?tag=tolees00-21)

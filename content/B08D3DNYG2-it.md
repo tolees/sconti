@@ -26,4 +26,4 @@ Puoi trovare [BOMIZI Cover Xiaomi Mi 9T  Mi9T PRO Custodia Trasparente TPU Morbi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08D3DNYG2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D3DNYG2/?tag=tolees00-21)

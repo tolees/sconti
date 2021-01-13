@@ -26,4 +26,4 @@ Puoi trovare [Star GranPesto alla Genovese  senza Aglio - 190 g](https://www.ama
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B002LY6JCG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B002LY6JCG/?tag=tolees00-21)

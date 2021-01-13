@@ -26,4 +26,4 @@ Puoi trovare [Bosch Home and Garden 0600833300 Cesoie da giardinaggio](https://w
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084KTTGTQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084KTTGTQ/?tag=tolees00-21)

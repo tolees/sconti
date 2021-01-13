@@ -26,4 +26,4 @@ Puoi trovare [Desigual Borsa Donna bols ada rotterdam 20saxpae unica marrone](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0844LMRLR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0844LMRLR/?tag=tolees00-21)

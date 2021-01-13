@@ -26,4 +26,4 @@ Puoi trovare [QHOHQ Cinturino Metallo per Xiaomi Mi Band 5  Sostituibile - Regol
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DKRVXXG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DKRVXXG/?tag=tolees00-21)

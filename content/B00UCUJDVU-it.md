@@ -26,4 +26,4 @@ Puoi trovare [Samsung Galaxy A51 Smartphone  Display 6.5" Super AMOLED  4 Fotoca
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00UCUJDVU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00UCUJDVU/?tag=tolees00-21)

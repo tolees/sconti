@@ -26,4 +26,4 @@ Puoi trovare [WisFox Utensili Cucina Set  Set di Utensili da Cucina in Silicone 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MYWGXG6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MYWGXG6/?tag=tolees00-21)

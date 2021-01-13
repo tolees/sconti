@@ -26,4 +26,4 @@ Puoi trovare [INNZA Epilatore Luce Pulsata IPL Hair Removal 999 000 Impulsi di L
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BYGWP4J/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BYGWP4J/?tag=tolees00-21)

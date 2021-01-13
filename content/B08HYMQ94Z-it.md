@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Cover con Pulsanti per Nintendo Switch Scocca Console 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HYMQ94Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HYMQ94Z/?tag=tolees00-21)

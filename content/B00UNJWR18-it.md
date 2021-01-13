@@ -26,4 +26,4 @@ Puoi trovare [DURAGADGET Borsa/Valigetta per Lettori Dvd Portatili - Adattabile 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00UNJWR18/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00UNJWR18/?tag=tolees00-21)

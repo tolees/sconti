@@ -26,4 +26,4 @@ Puoi trovare [Android TV Box  Android 10.0 TV BOX H616 Quad core 1 GB RAM 8 GB R
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08JGJHKFL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08JGJHKFL/?tag=tolees00-21)

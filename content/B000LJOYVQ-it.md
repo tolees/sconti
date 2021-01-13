@@ -26,4 +26,4 @@ Puoi trovare [Alessi Mediterraneo ESI01/29 Fruttiera di Design in Acciaio Inox](
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000LJOYVQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000LJOYVQ/?tag=tolees00-21)

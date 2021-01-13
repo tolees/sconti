@@ -26,4 +26,4 @@ Puoi trovare [Samsung Galaxy S10 Lite Smartphone  Display 6.7" Super AMOLED  3 F
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B083KXDJS4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B083KXDJS4/?tag=tolees00-21)

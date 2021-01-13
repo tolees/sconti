@@ -26,4 +26,4 @@ Puoi trovare [Nike Sportswear  Zaino Sportivo Unisex Adulto  Nero Black/White  4
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KM8QF58/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KM8QF58/?tag=tolees00-21)

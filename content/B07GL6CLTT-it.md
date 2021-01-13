@@ -26,4 +26,4 @@ Puoi trovare [HyperX Predator HX432C16PB3AK2/16 Memoria DDR4 16 GB  Kit da 2x8 G
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GL6CLTT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GL6CLTT/?tag=tolees00-21)

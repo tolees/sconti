@@ -26,4 +26,4 @@ Puoi trovare [HUAWEI Mediapad T5 Custodia Protettiva  Nero](https://www.amazon.i
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FF8RXYX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FF8RXYX/?tag=tolees00-21)

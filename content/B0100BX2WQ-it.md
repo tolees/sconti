@@ -26,4 +26,4 @@ Puoi trovare [Dyson AM09 Hot+Cool  2000 W  64 Decibel  Metall  Plastik  Silver  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0100BX2WQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0100BX2WQ/?tag=tolees00-21)

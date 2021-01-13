@@ -26,4 +26,4 @@ Puoi trovare [Vape Piastrine Verdessenza  Protezione contro le Zanzare con Compo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B072HLKLMM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B072HLKLMM/?tag=tolees00-21)

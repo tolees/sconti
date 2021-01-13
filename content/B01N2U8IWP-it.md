@@ -26,4 +26,4 @@ Puoi trovare [Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]](https:/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21)

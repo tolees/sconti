@@ -26,4 +26,4 @@ Puoi trovare [Science in Sport SiS Rego Rapid Recovery Polvere Proteica  1kg](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01D4YG5I4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01D4YG5I4/?tag=tolees00-21)

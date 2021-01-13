@@ -26,4 +26,4 @@ Puoi trovare [Nike Therma Hoodie Po  Felpa con Cappuccio Uomo  Black/Dark Grey  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078NGTV86/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078NGTV86/?tag=tolees00-21)

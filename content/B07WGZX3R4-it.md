@@ -26,4 +26,4 @@ Puoi trovare [LIEBE721 Giacche Giacca Donna Manica Lunga Cardigan Eleganti Inver
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WGZX3R4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WGZX3R4/?tag=tolees00-21)

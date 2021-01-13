@@ -26,4 +26,4 @@ Puoi trovare [Diadora - Sneakers Game P per Uomo e Donna  EU 42 ](https://www.am
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01C9X1VU8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01C9X1VU8/?tag=tolees00-21)

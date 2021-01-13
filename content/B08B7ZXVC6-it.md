@@ -26,4 +26,4 @@ Puoi trovare [Clip di Cavi in silicone Adesivo Organizzatore di Cavi Scrivania G
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08B7ZXVC6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08B7ZXVC6/?tag=tolees00-21)

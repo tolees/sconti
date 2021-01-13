@@ -26,4 +26,4 @@ Puoi trovare [Samsung Memorie T7 MU-PC1T0H SSD Esterno Portatile da 1 TB  USB 3.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B087DF1L2J/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B087DF1L2J/?tag=tolees00-21)

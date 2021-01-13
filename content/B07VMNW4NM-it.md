@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Medium Drawstring Pantaloncini  Verde  Dark Green LC0
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VMNW4NM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VMNW4NM/?tag=tolees00-21)

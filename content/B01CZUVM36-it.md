@@ -26,4 +26,4 @@ Puoi trovare [American Tourister - Funshine Spinner Bagaglio a mano  Unisex  Pol
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01CZUVM36/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01CZUVM36/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Apli 12115 Porta Porta Carte Polipropilene  Rosso  160 Carte x 121
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21)

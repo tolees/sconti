@@ -26,4 +26,4 @@ Puoi trovare [Nintendo MW1PX3SMB - Portafoglio Bowser Kanji Bifold](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00T396VPM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00T396VPM/?tag=tolees00-21)

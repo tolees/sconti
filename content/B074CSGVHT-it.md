@@ -26,4 +26,4 @@ Puoi trovare [Orient Orologio Analogico Automatico Uomo con Cinturino in Pelle F
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074CSGVHT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074CSGVHT/?tag=tolees00-21)

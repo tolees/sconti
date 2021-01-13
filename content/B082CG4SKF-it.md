@@ -26,4 +26,4 @@ Puoi trovare [ONLYOILY Glitter Powder trucco opaco lucido a prova di sbavatura i
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082CG4SKF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082CG4SKF/?tag=tolees00-21)

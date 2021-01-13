@@ -26,4 +26,4 @@ Puoi trovare [Veetop Case Hard Disk SSD Esterno M2 NVME USB 3.1 Gen 2 Tipo C  Bo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08G89N8KJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08G89N8KJ/?tag=tolees00-21)

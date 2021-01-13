@@ -26,4 +26,4 @@ Puoi trovare [NAPAPIJRI Aerons Stand 2 Giacca  Blu  French Blue Bb7   L Uomo](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07M83W6NF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07M83W6NF/?tag=tolees00-21)

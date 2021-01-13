@@ -26,4 +26,4 @@ Puoi trovare [Maegoo Controller PC PS3 TV Wireless  2.4GHz Wireless Gaming Contr
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B087PWTF44/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B087PWTF44/?tag=tolees00-21)

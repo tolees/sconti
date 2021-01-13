@@ -26,4 +26,4 @@ Puoi trovare [Levi s The Perfect Tee T-Shirt  Logo Serie Bok Choy  XXS Donna](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZVQQ16D/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQQ16D/?tag=tolees00-21)

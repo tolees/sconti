@@ -26,4 +26,4 @@ Puoi trovare [Intex 28003 Deluxe Kit di Pulizia per Piscine fino a 5.49 m  Grigi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B005DUW6Z4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B005DUW6Z4/?tag=tolees00-21)

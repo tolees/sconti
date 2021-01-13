@@ -26,4 +26,4 @@ Puoi trovare [Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza Filo  R
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07HBBV1F8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07HBBV1F8/?tag=tolees00-21)

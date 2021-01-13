@@ -26,4 +26,4 @@ Puoi trovare [Geox D BIBBIANA A  Scarpe con Tacco Donna  Nero  Black C9997   35 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07LFZC6JC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07LFZC6JC/?tag=tolees00-21)

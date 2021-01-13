@@ -26,4 +26,4 @@ Puoi trovare [Webbb Cuffie Bluetooth  Auricolari Bluetooth Senza Fili TWS Aurico
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08B5YNH4X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08B5YNH4X/?tag=tolees00-21)

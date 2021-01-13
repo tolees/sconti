@@ -26,4 +26,4 @@ Puoi trovare [Souke Sports - Guanti da Ciclismo Uomo Donna Guanti da Bicicletta 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CZQ3DF2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CZQ3DF2/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Cerchietto Per Capelli Donna 10 Pezzi Antiscivolo Pelle Sintetica 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F54RHWM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F54RHWM/?tag=tolees00-21)

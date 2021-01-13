@@ -26,4 +26,4 @@ Puoi trovare [Morellato Anello da Donna in Acciaio Inox  Argento  10](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B001SN8MHG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B001SN8MHG/?tag=tolees00-21)

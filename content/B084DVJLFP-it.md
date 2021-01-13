@@ -26,4 +26,4 @@ Puoi trovare [Switch Cat Quest + Cat Quest 2 Pawsome Pack [ [Edizione: Germania]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084DVJLFP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084DVJLFP/?tag=tolees00-21)

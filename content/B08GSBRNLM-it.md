@@ -26,4 +26,4 @@ Puoi trovare [Syxinn Anello Castone per Samsung Galaxy Watch 3 45mm Anello Lunet
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GSBRNLM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GSBRNLM/?tag=tolees00-21)

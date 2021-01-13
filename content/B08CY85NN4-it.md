@@ -26,4 +26,4 @@ Puoi trovare [homcom Libreria Scaffale Portagiochi per Cameretta Bimbi e Ragazzi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CY85NN4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CY85NN4/?tag=tolees00-21)

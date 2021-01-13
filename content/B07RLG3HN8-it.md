@@ -26,4 +26,4 @@ Puoi trovare [Viakal Detersivo Anticalcare WC Gel  Maxi Formato 2 Pezzi da 750 m
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RLG3HN8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RLG3HN8/?tag=tolees00-21)

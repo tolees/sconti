@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta  Blu  Desert 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V8T5F8G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V8T5F8G/?tag=tolees00-21)

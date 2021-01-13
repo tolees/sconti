@@ -26,4 +26,4 @@ Puoi trovare [Levi s T-Shirt  Multicolore  Authentic Colorblock Tee M.Heather Gr
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TJ9R8C8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJ9R8C8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Brunello di Montalcino DOCG Collezione del Conte Villa da Filicaja
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082B6GHG8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082B6GHG8/?tag=tolees00-21)

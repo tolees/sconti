@@ -26,4 +26,4 @@ Puoi trovare [Desigual Bols Intra Durban Borsa a tracolla da donna  beige  Camel
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VFNKR2N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VFNKR2N/?tag=tolees00-21)

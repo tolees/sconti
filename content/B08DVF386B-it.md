@@ -26,4 +26,4 @@ Puoi trovare [Windows 10 Professional 32/64 bit | Chiave di licenza originale | 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DVF386B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DVF386B/?tag=tolees00-21)

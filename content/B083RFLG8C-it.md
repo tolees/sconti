@@ -26,4 +26,4 @@ Puoi trovare [Telami - Sedia Tripolina - Collezione Ducale - Pieghevole e Legger
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B083RFLG8C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B083RFLG8C/?tag=tolees00-21)

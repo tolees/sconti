@@ -26,4 +26,4 @@ Puoi trovare [Timberland Gateway Pier Casual  Scarpe Oxford Uomo  Grigio Medium 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07F2DBKZG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2DBKZG/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Levi s Housemark Graphic Tee T-Shirt  Nero  Ssnl HM Forge Iron 024
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RZM8BJR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RZM8BJR/?tag=tolees00-21)

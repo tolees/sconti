@@ -26,4 +26,4 @@ Puoi trovare [Red Bull Energy Drink Gusto Frutti Rossi e Agrumi  12 lattine da 2
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01FDLU6U4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01FDLU6U4/?tag=tolees00-21)

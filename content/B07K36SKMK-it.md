@@ -26,4 +26,4 @@ Puoi trovare [Durex Contatto Comfort Preservativi Sottili ad Alta Sensibilità c
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07K36SKMK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07K36SKMK/?tag=tolees00-21)

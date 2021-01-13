@@ -26,4 +26,4 @@ Puoi trovare [Xiaomi Mi Wi-Fi Range Extender Pro Ripetitore Wireless  Velocità 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084WT4WWK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084WT4WWK/?tag=tolees00-21)

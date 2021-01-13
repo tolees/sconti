@@ -26,4 +26,4 @@ Puoi trovare [Logitech M90 Mouse USB Cablato  1000 DPI  Mouse Ambidestro  Compat
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003D8ZT0C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003D8ZT0C/?tag=tolees00-21)

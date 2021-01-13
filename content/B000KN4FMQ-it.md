@@ -26,4 +26,4 @@ Puoi trovare [Pentel BL77 EnerGel XM scatto 0 7 mm nero   12 pezzi](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000KN4FMQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000KN4FMQ/?tag=tolees00-21)

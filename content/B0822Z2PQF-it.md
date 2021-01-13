@@ -26,4 +26,4 @@ Puoi trovare [Braun Silk-épil 9 9-720 Epilatore Elettrico Donna Epilazione Dura
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0822Z2PQF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0822Z2PQF/?tag=tolees00-21)

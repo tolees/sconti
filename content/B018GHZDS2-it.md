@@ -26,4 +26,4 @@ Puoi trovare [Equilibra Creatina - 200 gr](https://www.amazon.it/dp/B018GHZDS2/?
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B018GHZDS2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B018GHZDS2/?tag=tolees00-21)

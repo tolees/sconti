@@ -26,4 +26,4 @@ Puoi trovare [The North Face M TBL Sport HD  Piumino Uomo  Rosso  Rage Red/Bitte
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BB3VQ8H/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BB3VQ8H/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Medium Drawstring Pantaloncini  Blu  Air Blue CAE   U
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VQWCF4B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VQWCF4B/?tag=tolees00-21)

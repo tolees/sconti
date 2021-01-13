@@ -26,4 +26,4 @@ Puoi trovare [ONE PUNCH MAN - Tappetino per il mouse - Saitama Testa](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01MZ484QU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZ484QU/?tag=tolees00-21)

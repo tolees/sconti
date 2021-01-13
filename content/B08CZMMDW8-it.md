@@ -26,4 +26,4 @@ Puoi trovare [YAMAY Smartwatch con Saturimetro Misuratore Pressione Cardiofreque
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CZMMDW8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CZMMDW8/?tag=tolees00-21)

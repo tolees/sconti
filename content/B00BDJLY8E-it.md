@@ -26,4 +26,4 @@ Puoi trovare [Accurist Orologio Analogico Quarzo Donna con Cinturino in Acciaio 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00BDJLY8E/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00BDJLY8E/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [FlowerDas Termometro Frontale  Letture istantanee Accurate  Termom
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085Y6SLNR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085Y6SLNR/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Neewer Luce 192 LED Ultra Sottile con LCD Display  Batteria a Liti
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086HKVDHC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086HKVDHC/?tag=tolees00-21)

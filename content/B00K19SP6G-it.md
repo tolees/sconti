@@ -26,4 +26,4 @@ Puoi trovare [Supradyn Magnesio e Potassio - Integratore Multiminerali per Afa  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00K19SP6G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00K19SP6G/?tag=tolees00-21)

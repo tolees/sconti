@@ -26,4 +26,4 @@ Puoi trovare [Puma Luxe Mesh Tight Pants  Donna  Fig-Puma Black  M](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DFQYZV2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DFQYZV2/?tag=tolees00-21)

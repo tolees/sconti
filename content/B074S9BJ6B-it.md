@@ -26,4 +26,4 @@ Puoi trovare [Massaggiatore shiatsu cervicale e collo con calore - massaggiatore
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074S9BJ6B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074S9BJ6B/?tag=tolees00-21)

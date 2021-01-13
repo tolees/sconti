@@ -26,4 +26,4 @@ Puoi trovare [Columbia Boubioz Giacche e Maglioni in Pile  Uomo  Grigio  Graphit
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B072BV16KP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B072BV16KP/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Casio Orologio Digitale al Quarzo Uomo con Cinturino in Resina LW-
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000NLWPSG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000NLWPSG/?tag=tolees00-21)

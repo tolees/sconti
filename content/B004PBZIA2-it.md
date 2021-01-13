@@ -26,4 +26,4 @@ Puoi trovare [Seiko Orologio Analogico Automatico Uomo con Cinturino in Acciaio 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B004PBZIA2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B004PBZIA2/?tag=tolees00-21)

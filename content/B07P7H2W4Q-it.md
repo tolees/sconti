@@ -26,4 +26,4 @@ Puoi trovare [Kingdom Hearts: The Story so far - PlayStation 4 [Edizione: Regno 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Tapis Roulant Elettrico Pieghevole da 2200W con inclinazione autom
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FCKSQPK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FCKSQPK/?tag=tolees00-21)

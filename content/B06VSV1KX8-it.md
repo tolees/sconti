@@ -26,4 +26,4 @@ Puoi trovare [Hoover La71 La10011 Lander - Aspirapolvere a Traino Senza Sacco  7
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06VSV1KX8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06VSV1KX8/?tag=tolees00-21)

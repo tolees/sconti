@@ -26,4 +26,4 @@ Puoi trovare [Orologio Emporio Armani AR2434](https://www.amazon.it/dp/B002LZUAF
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B002LZUAFM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B002LZUAFM/?tag=tolees00-21)

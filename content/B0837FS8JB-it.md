@@ -26,4 +26,4 @@ Puoi trovare [Fast & Furious Crossroads - Xbox One [Edizione: Regno Unito]](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0837FS8JB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0837FS8JB/?tag=tolees00-21)

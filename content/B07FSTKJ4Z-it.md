@@ -26,4 +26,4 @@ Puoi trovare [Oral-B Pro 2 2500 Spazzolino Elettrico Ricaricabile  1 Spazzolino 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FSTKJ4Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FSTKJ4Z/?tag=tolees00-21)

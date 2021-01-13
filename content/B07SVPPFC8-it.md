@@ -26,4 +26,4 @@ Puoi trovare [Geox U Kennet B  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4064 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SVPPFC8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SVPPFC8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Motast Cassa Bluetooth Portatile  10W Speaker Bluetooth con NFC  I
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084VJ88TH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084VJ88TH/?tag=tolees00-21)

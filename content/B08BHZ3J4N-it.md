@@ -26,4 +26,4 @@ Puoi trovare [Ring Light 10   LED Luce ad Anello di Luce Treppiedi con 3 Modalit
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BHZ3J4N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BHZ3J4N/?tag=tolees00-21)

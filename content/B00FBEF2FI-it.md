@@ -26,4 +26,4 @@ Puoi trovare [TERRY 1000955 Scaffale Modulare a 5 Ripiani  da Interno Esterno  N
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00FBEF2FI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00FBEF2FI/?tag=tolees00-21)

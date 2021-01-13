@@ -26,4 +26,4 @@ Puoi trovare [Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   X-Small  Taglia Prod
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074GVZLYX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074GVZLYX/?tag=tolees00-21)

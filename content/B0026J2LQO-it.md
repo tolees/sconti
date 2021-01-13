@@ -26,4 +26,4 @@ Puoi trovare [Giotto Stilnovo pastelli colorati in astuccio 24 colori](https://w
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0026J2LQO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0026J2LQO/?tag=tolees00-21)

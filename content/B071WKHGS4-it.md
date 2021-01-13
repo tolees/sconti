@@ -26,4 +26,4 @@ Puoi trovare [Lenor Ammorbidente Oro & Fiori di Vaniglia  Maxi Formato da 70 Lav
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B071WKHGS4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B071WKHGS4/?tag=tolees00-21)

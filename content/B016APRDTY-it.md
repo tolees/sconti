@@ -26,4 +26,4 @@ Puoi trovare [Singer Starlet 6680 - Macchina da cucire elettronica  80 tipi di p
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B016APRDTY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B016APRDTY/?tag=tolees00-21)

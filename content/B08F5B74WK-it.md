@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con Console
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F5B74WK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5B74WK/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Hunty Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HZ2SCKX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HZ2SCKX/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [LEGO Creator - Aereo da corsa  31094](https://www.amazon.it/dp/B07
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21)

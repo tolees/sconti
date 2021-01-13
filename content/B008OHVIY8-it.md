@@ -26,4 +26,4 @@ Puoi trovare [Foppapedretti Go Up Carrello Portaspesa  Black](https://www.amazon
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B008OHVIY8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B008OHVIY8/?tag=tolees00-21)

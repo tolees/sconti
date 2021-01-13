@@ -26,4 +26,4 @@ Puoi trovare [Goodstè Porta Carte Di Credito Tascabile Portatessere Donna Blocc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07N48KYHH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07N48KYHH/?tag=tolees00-21)

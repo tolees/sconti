@@ -26,4 +26,4 @@ Puoi trovare [Power Theory Vetro Temperato per Nintendo Switch [2 Pezzi] - Pelli
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DNZX4SS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DNZX4SS/?tag=tolees00-21)

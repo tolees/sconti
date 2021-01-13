@@ -26,4 +26,4 @@ Puoi trovare [adidas Continental 80  Scarpe da Ginnastica Uomo  Crystal White/Co
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0813SDCB8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0813SDCB8/?tag=tolees00-21)

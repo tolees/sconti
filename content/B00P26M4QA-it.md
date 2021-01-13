@@ -26,4 +26,4 @@ Puoi trovare [【Doppia EQ】 Auricolari Wireless Sport  Mpow Cuffie Bluetooth S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00P26M4QA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00P26M4QA/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk Esterno per 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BJ32XDT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BJ32XDT/?tag=tolees00-21)

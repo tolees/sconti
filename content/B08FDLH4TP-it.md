@@ -26,4 +26,4 @@ Puoi trovare [Cuffie Bluetooth Sport  Auricolari Bluetooth 5.0  Auricolari senza
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FDLH4TP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FDLH4TP/?tag=tolees00-21)

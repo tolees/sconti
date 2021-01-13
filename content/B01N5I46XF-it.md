@@ -26,4 +26,4 @@ Puoi trovare [Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control Plus H
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N5I46XF/?tag=tolees00-21)

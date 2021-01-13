@@ -26,4 +26,4 @@ Puoi trovare [Lampada da Scrivania TaoTronics  Lampada da Tavolo Ufficio LED 12W
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XW66KZJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XW66KZJ/?tag=tolees00-21)

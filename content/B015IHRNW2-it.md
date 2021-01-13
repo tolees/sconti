@@ -26,4 +26,4 @@ Puoi trovare [homcom Tapis Roulant Elettrico con Schermo LED Pieghevole per Alle
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B015IHRNW2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B015IHRNW2/?tag=tolees00-21)

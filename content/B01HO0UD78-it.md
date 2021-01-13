@@ -26,4 +26,4 @@ Puoi trovare [Vape Piastrine Extra  Protezione Rapida contro le Zanzare fino a 1
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01HO0UD78/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01HO0UD78/?tag=tolees00-21)

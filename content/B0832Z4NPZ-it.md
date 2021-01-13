@@ -26,4 +26,4 @@ Puoi trovare [Taylor Swoden Aladin - 1 7L Retro Bollitore elettrico  Acciaio ino
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0832Z4NPZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0832Z4NPZ/?tag=tolees00-21)

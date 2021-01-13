@@ -26,4 +26,4 @@ Puoi trovare [EGV [2 Pezzi Pellicola Fotocamera per Xiaomi Redmi Note 9S + [2 Pe
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CK3JZC6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CK3JZC6/?tag=tolees00-21)

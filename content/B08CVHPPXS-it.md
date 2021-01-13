@@ -26,4 +26,4 @@ Puoi trovare [Hard Disk Esterno  Hard Disk 2 tb Esterno USB3.1/Type C Hard Disk 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CVHPPXS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVHPPXS/?tag=tolees00-21)

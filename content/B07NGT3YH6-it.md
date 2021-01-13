@@ -26,4 +26,4 @@ Puoi trovare [Calvin Klein Hip Brief 3pk Boxer Uomo  Confezione da 3  Nero  B -N
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NGT3YH6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NGT3YH6/?tag=tolees00-21)

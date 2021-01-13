@@ -26,4 +26,4 @@ Puoi trovare [adidas Core18 Giacca  Uomo  Blu Dk / Bianco  M](https://www.amazon
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B076HMRYMC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B076HMRYMC/?tag=tolees00-21)

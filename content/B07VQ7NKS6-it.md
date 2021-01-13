@@ -26,4 +26,4 @@ Puoi trovare [Cuffie per giochi per PS4  Cuffie per giocatori a LED  blu  con mi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VQ7NKS6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VQ7NKS6/?tag=tolees00-21)

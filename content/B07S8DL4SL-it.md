@@ -26,4 +26,4 @@ Puoi trovare [homcom Panca Fitness Esercizi Allenamento Regolabile da Palestra A
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S8DL4SL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8DL4SL/?tag=tolees00-21)

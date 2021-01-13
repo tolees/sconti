@@ -26,4 +26,4 @@ Puoi trovare [TUTUO Protezione Cover per Switch  Silicone PU Portatile Sottile C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CRH6YPF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CRH6YPF/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Levi s Woodward L  Sneaker Uomo  Blu  Navy Blue 17   42 EU](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SH1L68Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SH1L68Y/?tag=tolees00-21)

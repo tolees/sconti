@@ -26,4 +26,4 @@ Puoi trovare [Aigostar York 30RUM - Panini Maker/Griglia elettrica e Sandwich. P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B087RBRFS8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B087RBRFS8/?tag=tolees00-21)

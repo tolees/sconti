@@ -26,4 +26,4 @@ Puoi trovare [Love Moschino Jc4256pp0a  Borsa Tote Donna  Avorio  Ivory   9x25x3
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V4M4R8F/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V4M4R8F/?tag=tolees00-21)

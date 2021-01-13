@@ -26,4 +26,4 @@ Puoi trovare [Diesel UMBX-SHAWNTHREEPACK  Slip Uomo  Multicolore  Black/Racing R
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RT6X4Z2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RT6X4Z2/?tag=tolees00-21)

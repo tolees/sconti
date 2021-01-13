@@ -26,4 +26,4 @@ Puoi trovare [Auricolari Bluetooth 5.0 Senza Fili Cancellazione del rumore 3D  A
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DTHFVJZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DTHFVJZ/?tag=tolees00-21)

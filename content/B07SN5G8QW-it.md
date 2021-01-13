@@ -26,4 +26,4 @@ Puoi trovare [Under Armour Rush HeatGear Compression Maglietta A Maniche Corte  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SN5G8QW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SN5G8QW/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Superga 2750-cotu Classic Sneaker  Uomo  Grigio  Full Grey Sage M3
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B002WGIY2G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B002WGIY2G/?tag=tolees00-21)

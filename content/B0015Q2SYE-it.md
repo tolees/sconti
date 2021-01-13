@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Top  Infradito Unisex-Adulto  Bianco  White 0001   33/34
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0015Q2SYE/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0015Q2SYE/?tag=tolees00-21)

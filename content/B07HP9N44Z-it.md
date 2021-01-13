@@ -26,4 +26,4 @@ Puoi trovare [Brondi Amico Fedele  Telefono cellulare GSM per anziani con tasti 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07HP9N44Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07HP9N44Z/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [È Pura - Maschera Blonde Care - Trattamento Professionale Intensi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D2D36WD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D2D36WD/?tag=tolees00-21)

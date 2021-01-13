@@ -26,4 +26,4 @@ Puoi trovare [PUMA Smash V2 L  Sneakers Unisex-Adulto  Weiß White High Risk Red
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S6PCKKZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S6PCKKZ/?tag=tolees00-21)

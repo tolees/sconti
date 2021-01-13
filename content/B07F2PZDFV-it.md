@@ -26,4 +26,4 @@ Puoi trovare [PUMA Cilia  Scarpe da Ginnastica Donna  Bianca  White-Gray Violet-
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07F2PZDFV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2PZDFV/?tag=tolees00-21)

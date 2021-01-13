@@ -26,4 +26,4 @@ Puoi trovare [Electrolux PA91-404GY Purificatore d aria connesso con protezione 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085XY4N2S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085XY4N2S/?tag=tolees00-21)

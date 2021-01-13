@@ -26,4 +26,4 @@ Puoi trovare [10.1“ pollici Tablet Android 8.1 Phablet Octa Core 4 GB RAM 64 G
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07YDTQ6PH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07YDTQ6PH/?tag=tolees00-21)

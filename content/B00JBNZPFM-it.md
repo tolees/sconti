@@ -26,4 +26,4 @@ Puoi trovare [Karcher Aspiratore solidi-Liquidi - WD 3  Versione Spagnola ](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00JBNZPFM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00JBNZPFM/?tag=tolees00-21)

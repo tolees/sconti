@@ -26,4 +26,4 @@ Puoi trovare [Timberland Adventure 2.0 Cupsole Modern Oxford  Sneaker Uomo  Nero
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07JN382GQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JN382GQ/?tag=tolees00-21)

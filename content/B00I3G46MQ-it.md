@@ -26,4 +26,4 @@ Puoi trovare [Vans Herren Otw Raglan T-Shirt  Mehrfarbig  WHITE-BLACK YB2   Smal
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00I3G46MQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00I3G46MQ/?tag=tolees00-21)

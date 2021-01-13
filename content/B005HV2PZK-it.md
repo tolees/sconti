@@ -26,4 +26,4 @@ Puoi trovare [Crocs  Baya Summer Flip U  Sandali  Uomo  Blu  Blau  Navy 410    4
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B005HV2PZK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B005HV2PZK/?tag=tolees00-21)

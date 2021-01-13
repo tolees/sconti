@@ -26,4 +26,4 @@ Puoi trovare [JBL  biocondizionatore per Pesci Rossi Biotopol R  Confezione da 2
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B009C7ZV8I/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B009C7ZV8I/?tag=tolees00-21)

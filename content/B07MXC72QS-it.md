@@ -26,4 +26,4 @@ Puoi trovare [Teenii STEM Physik Elettricità e Magnetismo Experimente scienziat
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MXC72QS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MXC72QS/?tag=tolees00-21)

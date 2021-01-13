@@ -26,4 +26,4 @@ Puoi trovare [HoMedics Duo Quartz Epilatore Elettrico con Luce Pulsata e Fluores
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01D4QAUME/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01D4QAUME/?tag=tolees00-21)

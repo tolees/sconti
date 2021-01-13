@@ -26,4 +26,4 @@ Puoi trovare [Astuccio Scuola con 3 Scomparti  lunaoo Grande Multifunzione Astuc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VNQ2NN2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VNQ2NN2/?tag=tolees00-21)

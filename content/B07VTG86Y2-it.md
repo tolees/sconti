@@ -26,4 +26,4 @@ Puoi trovare [Levi s Levis 168sf Mid Cut 3p Calze  Blu  Navy 321   43/46  Taglia
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VTG86Y2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VTG86Y2/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Pyrex Essentials Tegame Rettangolare  40x27cm](https://www.amazon.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000TARBDU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000TARBDU/?tag=tolees00-21)

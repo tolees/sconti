@@ -26,4 +26,4 @@ Puoi trovare [Justice League  4K+Br ](https://www.amazon.it/dp/B077K1BGK6/?tag=t
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B077K1BGK6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B077K1BGK6/?tag=tolees00-21)

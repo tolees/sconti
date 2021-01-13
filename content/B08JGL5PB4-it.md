@@ -26,4 +26,4 @@ Puoi trovare [Ajcoflt Smartwatch Braccialetto Intelligente Braccialetto Sportivo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08JGL5PB4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08JGL5PB4/?tag=tolees00-21)

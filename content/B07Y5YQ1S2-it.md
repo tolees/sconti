@@ -26,4 +26,4 @@ Puoi trovare [WESCO Avvitatore Trapano 12V  Avvitatore a Batteria Li-ion 1.5Ah R
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07Y5YQ1S2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y5YQ1S2/?tag=tolees00-21)

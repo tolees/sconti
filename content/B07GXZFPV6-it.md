@@ -26,4 +26,4 @@ Puoi trovare [Olimpia Splendid 99409 Caldo Crystal Termoventilatore Ceramico a P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GXZFPV6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GXZFPV6/?tag=tolees00-21)

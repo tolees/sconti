@@ -26,4 +26,4 @@ Puoi trovare [Antank Batteria Sostitutiva HAC-003 per Console di Gioco Nintendo 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FC2DCZS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC2DCZS/?tag=tolees00-21)

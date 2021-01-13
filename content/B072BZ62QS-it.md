@@ -26,4 +26,4 @@ Puoi trovare [TP-Link Deco M5 Wifi Mesh - Pacchetto da 3 Unità Fino a 400 ㎡  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B072BZ62QS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B072BZ62QS/?tag=tolees00-21)

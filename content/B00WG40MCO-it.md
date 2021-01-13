@@ -26,4 +26,4 @@ Puoi trovare [Voiello Pasta Spaghetti Scanalati N.107  Pasta Lunga di Semola Gra
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00WG40MCO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00WG40MCO/?tag=tolees00-21)

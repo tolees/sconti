@@ -26,4 +26,4 @@ Puoi trovare [SEAC Driver  Computer da Polso per Immersioni in Apnea con Downloa
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07J178KBH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07J178KBH/?tag=tolees00-21)

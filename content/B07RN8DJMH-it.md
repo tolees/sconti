@@ -26,4 +26,4 @@ Puoi trovare [Funko- Pop Holiday-Mayor Patty Noble Figura da Collezione  Multico
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RN8DJMH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RN8DJMH/?tag=tolees00-21)

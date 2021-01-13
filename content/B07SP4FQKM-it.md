@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Slim Floral  Infradito Donna  Multicolore  Blue 0031   3
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SP4FQKM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SP4FQKM/?tag=tolees00-21)

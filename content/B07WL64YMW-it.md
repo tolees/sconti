@@ -26,4 +26,4 @@ Puoi trovare [Vetril Igienizzante  650 ml](https://www.amazon.it/dp/B07WL64YMW/?
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21)

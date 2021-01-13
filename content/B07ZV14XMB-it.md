@@ -26,4 +26,4 @@ Puoi trovare [Tryone Supporto Tablet Poggiatesta Auto  estensibile supporto per 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZV14XMB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZV14XMB/?tag=tolees00-21)

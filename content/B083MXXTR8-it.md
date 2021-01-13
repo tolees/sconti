@@ -26,4 +26,4 @@ Puoi trovare [Cuffie Bluetooth 5.0 Senza Fili 30H Playtime 3D Stereo HD TWS Ear-
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B083MXXTR8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B083MXXTR8/?tag=tolees00-21)

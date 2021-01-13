@@ -26,4 +26,4 @@ Puoi trovare [Michael Kors Orologio Analogico Quarzo Da Uomo Con Cinturino In Si
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074VZVMWB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074VZVMWB/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [TACKLIFE Sega Circolare Avanzata  750 W  6 Velocità  125 mm e 115
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WR8XFZG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WR8XFZG/?tag=tolees00-21)

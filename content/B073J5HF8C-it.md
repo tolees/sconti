@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Not Applicable ](https://www.amazon.it/dp/B073J5HF8
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B073J5HF8C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B073J5HF8C/?tag=tolees00-21)

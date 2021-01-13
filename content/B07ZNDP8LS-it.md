@@ -26,4 +26,4 @@ Puoi trovare [VPCOK 7 in 1 Sous Vide Contenitore Set 12L con Coperchio Roner Cuc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZNDP8LS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZNDP8LS/?tag=tolees00-21)

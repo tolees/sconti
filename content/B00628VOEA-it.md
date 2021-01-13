@@ -26,4 +26,4 @@ Puoi trovare [Ghd Air - Asciugacapelli professionale  Finish come appena uscita 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00628VOEA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00628VOEA/?tag=tolees00-21)

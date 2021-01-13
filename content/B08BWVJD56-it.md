@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Tasti Ricambio per Playstation 4 PS4 Pro Slim Controll
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08BWVJD56/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BWVJD56/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Ever Shine Ear polsini Vines arrampicatori Wrap Trafitto pins Hook
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N5DSS0I/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N5DSS0I/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [adidas MTS WV Light  Tuta Uomo  Legend Ink/Legend Ink  S](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KP38CYB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KP38CYB/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [GERYON Macchina Sottovuoto per Alimenti  Sigillatore a Vuoto Cibo 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0815S2FMZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0815S2FMZ/?tag=tolees00-21)

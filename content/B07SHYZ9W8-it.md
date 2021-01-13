@@ -26,4 +26,4 @@ Puoi trovare [Levi s Woodward L  Sneaker Uomo  Grigio  Regular Grey 55   45 EU](
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SHYZ9W8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SHYZ9W8/?tag=tolees00-21)

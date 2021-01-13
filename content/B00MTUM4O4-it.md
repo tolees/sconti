@@ -26,4 +26,4 @@ Puoi trovare [Ferrari Cedar Essence Eau de Parfum spray 100 ml](https://www.amaz
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00MTUM4O4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00MTUM4O4/?tag=tolees00-21)

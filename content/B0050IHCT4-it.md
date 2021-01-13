@@ -26,4 +26,4 @@ Puoi trovare [Imetec Dolcevita HB2 Frullatore a Immersione  Lame in Acciaio Inox
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0050IHCT4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0050IHCT4/?tag=tolees00-21)

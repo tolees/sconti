@@ -26,4 +26,4 @@ Puoi trovare [takestop® Barbecue Tondo 36x55cm GRIGLIA Rimovibile Acciaio SCALD
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089QT5B6S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089QT5B6S/?tag=tolees00-21)

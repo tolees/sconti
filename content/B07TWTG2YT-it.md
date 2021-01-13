@@ -26,4 +26,4 @@ Puoi trovare [Wrangler SS Logo Tee T-Shirt  Rosso  Formula Red XWO   X-Small Uom
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TWTG2YT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TWTG2YT/?tag=tolees00-21)

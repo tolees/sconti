@@ -26,4 +26,4 @@ Puoi trovare [Boss Profumo - 100 Ml](https://www.amazon.it/dp/B01BPAI78K/?tag=to
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21)

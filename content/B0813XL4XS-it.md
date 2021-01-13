@@ -26,4 +26,4 @@ Puoi trovare [adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore Cloud Whi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0813XL4XS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0813XL4XS/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [I-Can 3900S Decoder digitale satellitare ad Alta Definizione  Tess
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00TH7M6AE/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00TH7M6AE/?tag=tolees00-21)

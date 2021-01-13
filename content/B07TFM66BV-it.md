@@ -26,4 +26,4 @@ Puoi trovare [Unità Flash Lexar JumpDrive Fingerprint F35 USB 3.0](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TFM66BV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TFM66BV/?tag=tolees00-21)

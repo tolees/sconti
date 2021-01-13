@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Squares Tee Maglietta  Blu  Blue Ink   Medium Uomo]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W5SV36B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W5SV36B/?tag=tolees00-21)

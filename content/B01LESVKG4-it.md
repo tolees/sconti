@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Luna  Sandali Donna  Multicolore  Navy Blue/Silver 0445 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01LESVKG4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LESVKG4/?tag=tolees00-21)

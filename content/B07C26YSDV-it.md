@@ -26,4 +26,4 @@ Puoi trovare [JACK & JONES Jjecorp Logo Sweat Hood Noos Cappuccio  Nero  Black D
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07C26YSDV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07C26YSDV/?tag=tolees00-21)

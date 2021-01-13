@@ -26,4 +26,4 @@ Puoi trovare [SONGMICS 2 x Sgabelli da Bar e da Cucina in Similpelle Regolabile 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00KKFCLF2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00KKFCLF2/?tag=tolees00-21)

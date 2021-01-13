@@ -26,4 +26,4 @@ Puoi trovare [UGREEN Case Esterno Hard Disk 2.5"  Custodia Esterna per Disco Rig
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0851B6TCC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0851B6TCC/?tag=tolees00-21)

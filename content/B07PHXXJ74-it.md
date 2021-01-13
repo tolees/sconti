@@ -26,4 +26,4 @@ Puoi trovare [Zanzariera Magnetica per Porte  NASUM Tenda Zanzariera per Porte d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PHXXJ74/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PHXXJ74/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Hosome Aspirapolvere Senza Fili 12000pa Potente Scopa Elettrica 22
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0822CFMZ8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0822CFMZ8/?tag=tolees00-21)

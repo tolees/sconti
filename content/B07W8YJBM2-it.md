@@ -26,4 +26,4 @@ Puoi trovare [LEGO Minecraft L Incursione della Bestia  Set di Costruzioni Ricco
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W8YJBM2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W8YJBM2/?tag=tolees00-21)

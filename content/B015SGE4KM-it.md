@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Rosso  45/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B015SGE4KM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B015SGE4KM/?tag=tolees00-21)

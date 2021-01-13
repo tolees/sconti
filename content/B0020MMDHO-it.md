@@ -26,4 +26,4 @@ Puoi trovare [Dolce&Gabbana The One for Men Eau de Toilette  Uomo  50 ml](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0020MMDHO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0020MMDHO/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Basic Embroidered Hoody Felpa  Verde  Faded Olive  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W4HXSK6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W4HXSK6/?tag=tolees00-21)

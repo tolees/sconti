@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Luna  Sandali Donna  Oro  Rose Gold/Rose Gold 5282   37/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B015SGFI6Q/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B015SGFI6Q/?tag=tolees00-21)

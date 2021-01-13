@@ -26,4 +26,4 @@ Puoi trovare [LEGO La Festa In Piscina Di Andrea Costruzioni Piccole](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KTK94T6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KTK94T6/?tag=tolees00-21)

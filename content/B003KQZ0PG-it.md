@@ -26,4 +26,4 @@ Puoi trovare [Goobay 93990 Telaio di Installazione per Hard Disk da 2  5" in 3  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003KQZ0PG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003KQZ0PG/?tag=tolees00-21)

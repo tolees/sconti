@@ -26,4 +26,4 @@ Puoi trovare [YAMAMAY® Slip Costume Brasiliana Tinta Unita con Inserti in Lurex
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VN6ZS4Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VN6ZS4Y/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Maremma Toscana Rosato DOC Campo al Faro 2019 0 75 L](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089TXR8Z4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089TXR8Z4/?tag=tolees00-21)

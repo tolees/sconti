@@ -26,4 +26,4 @@ Puoi trovare [Colgate Dentifricio Expert White - Pacco da 12 x 75 ml - Totale: 9
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074F1P4SZ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074F1P4SZ/?tag=tolees00-21)

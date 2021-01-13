@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Squares Tee Maglietta  Blu  Sail Blue   Small Uomo]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W5SV6MR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W5SV6MR/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Telemetro Laser Distanziometro Classico  Tacklife HD50M in M/In/Ft
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N24CE4F/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N24CE4F/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Entweg BT Auricolari 5.0 Batteria Display Auricolare Cuffie Wirele
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DCFTFMN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DCFTFMN/?tag=tolees00-21)

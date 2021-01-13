@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Slim 4000030 Infradito Donna  Arancione  Bronze Orange 7
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FY6HLVM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FY6HLVM/?tag=tolees00-21)

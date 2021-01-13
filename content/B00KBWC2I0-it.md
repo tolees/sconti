@@ -26,4 +26,4 @@ Puoi trovare [Oral-B 052722 Testina per Spazzolino](https://www.amazon.it/dp/B00
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00KBWC2I0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00KBWC2I0/?tag=tolees00-21)

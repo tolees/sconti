@@ -26,4 +26,4 @@ Puoi trovare [Smartwatch Orologio con Auricolare Sportivo Bluetooth  Smart Brace
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086PGLHHB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086PGLHHB/?tag=tolees00-21)

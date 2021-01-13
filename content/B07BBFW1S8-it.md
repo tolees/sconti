@@ -26,4 +26,4 @@ Puoi trovare [Estrattore di Succo a Freddo  Aicok Estrattore di Frutta e Verdura
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BBFW1S8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BBFW1S8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [YUCUN 2 5 pollici SATA III Unità a Stato Solido Interno R570 120G
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B077ZRYRN2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B077ZRYRN2/?tag=tolees00-21)

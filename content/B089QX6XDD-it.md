@@ -26,4 +26,4 @@ Puoi trovare [HP - PC 15s-eq1015nl Notebook  AMD Ryzen 3  RAM 8 GB  SSD 128 GB  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089QX6XDD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089QX6XDD/?tag=tolees00-21)

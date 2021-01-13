@@ -26,4 +26,4 @@ Puoi trovare [AKAI TV AKTV3215 Ethernet Televisore 32 Pollici TV LED HD Soundbar
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07C8R8VWC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07C8R8VWC/?tag=tolees00-21)

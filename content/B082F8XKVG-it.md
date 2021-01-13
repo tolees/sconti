@@ -26,4 +26,4 @@ Puoi trovare [Tavoletta Grafica LCD Scrittura  8 5 Pollici Elettronica Lavagna C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082F8XKVG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082F8XKVG/?tag=tolees00-21)

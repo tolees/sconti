@@ -26,4 +26,4 @@ Puoi trovare [Pepe Jeans Hatch Jeans  Medium Used Hb6  32 W - 32 L Uomo](https:/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RXZ65P8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RXZ65P8/?tag=tolees00-21)

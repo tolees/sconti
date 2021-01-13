@@ -26,4 +26,4 @@ Puoi trovare [ANSIO Ventilatore a torre oscillante con telecomando e 3 impostazi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082T14VKM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082T14VKM/?tag=tolees00-21)

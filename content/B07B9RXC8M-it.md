@@ -26,4 +26,4 @@ Puoi trovare [Canon Italia EOS 4000D + EF-S DC III Fotocamera Reflex  Nero  Lung
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07B9RXC8M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07B9RXC8M/?tag=tolees00-21)

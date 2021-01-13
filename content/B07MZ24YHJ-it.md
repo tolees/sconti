@@ -26,4 +26,4 @@ Puoi trovare [Petfu Zaino per Computer Portatile 15.6 Pollici Zaino Uomo Antifur
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MZ24YHJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MZ24YHJ/?tag=tolees00-21)

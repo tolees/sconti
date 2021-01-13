@@ -26,4 +26,4 @@ Puoi trovare [New Balance 373 Core U  Scarpe Trainers Uomo  Rosso  Burgundy   42
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01MZX030M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZX030M/?tag=tolees00-21)

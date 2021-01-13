@@ -26,4 +26,4 @@ Puoi trovare [Disney Infinity 3.0: EU Han Solo Figurina](https://www.amazon.it/d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00ZWLKUZ2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ZWLKUZ2/?tag=tolees00-21)

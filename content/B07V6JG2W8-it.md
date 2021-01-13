@@ -26,4 +26,4 @@ Puoi trovare [YAMAMAY® Costume da Bagno Slip Mare Tinta Unita - Essential](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V6JG2W8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V6JG2W8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Timberland Killington Chukka  Scarpe Alte Uomo  Beige  Wheat Nubuc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01KM756EK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01KM756EK/?tag=tolees00-21)

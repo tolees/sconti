@@ -26,4 +26,4 @@ Puoi trovare [The North Face M TBL Sport HD  Piumino Uomo  Rosso  Salsa Red/Tnf 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07LH7LD84/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07LH7LD84/?tag=tolees00-21)

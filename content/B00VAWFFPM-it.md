@@ -26,4 +26,4 @@ Puoi trovare [HP - HP Stampanti Office Jet Pro 9022 Stampante Multifunzione  Sta
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00VAWFFPM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00VAWFFPM/?tag=tolees00-21)

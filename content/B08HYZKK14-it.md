@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Soft Grip Cover Copertura Frontale Joystick Custodia G
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HYZKK14/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HYZKK14/?tag=tolees00-21)

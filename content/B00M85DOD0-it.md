@@ -26,4 +26,4 @@ Puoi trovare [BLACK+DECKER ASD184KB-QW Trapano/avvitatore Autosense 18V - 1.5AH 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00M85DOD0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00M85DOD0/?tag=tolees00-21)

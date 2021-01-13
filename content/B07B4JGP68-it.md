@@ -26,4 +26,4 @@ Puoi trovare [Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker  Uomo  Blu  Dark 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07B4JGP68/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07B4JGP68/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Under Armour UA Tech 2.0 Short Sleeve Tee  Maglietta Uomo  Rosso  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B077XQ3L6G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B077XQ3L6G/?tag=tolees00-21)

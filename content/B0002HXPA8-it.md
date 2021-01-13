@@ -26,4 +26,4 @@ Puoi trovare [Sigikid 49520 - Gioco di birilli con 6 figure di animali  Multicol
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0002HXPA8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0002HXPA8/?tag=tolees00-21)

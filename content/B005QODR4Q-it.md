@@ -26,4 +26,4 @@ Puoi trovare [Stefanplast Tom Contenitore salvafreschezza per Cibo per Animali  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B005QODR4Q/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B005QODR4Q/?tag=tolees00-21)

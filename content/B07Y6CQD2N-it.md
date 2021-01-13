@@ -26,4 +26,4 @@ Puoi trovare [Piegaciglia Riscaldato  Piegaciglia Elettrico  Piegaciglia Profess
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07Y6CQD2N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y6CQD2N/?tag=tolees00-21)

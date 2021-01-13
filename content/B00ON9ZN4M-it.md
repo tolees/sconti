@@ -26,4 +26,4 @@ Puoi trovare [Severin SEV1071 Piastra Induzione](https://www.amazon.it/dp/B00ON9
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00ON9ZN4M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ON9ZN4M/?tag=tolees00-21)

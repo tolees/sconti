@@ -26,4 +26,4 @@ Puoi trovare [Lacoste TH6712 T-Shirt  Grigio  Argent Chine   XX-Large  Taglia Pr
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01MPY2TNU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MPY2TNU/?tag=tolees00-21)

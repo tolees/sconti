@@ -26,4 +26,4 @@ Puoi trovare [Dixan Discs Antiodore Detersivo Lavatrice Predosato in Capsule 4 i
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FF6JXLJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FF6JXLJ/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [morpilot Guinzaglio Cane  Guinzaglio per Cani Resistente e Robusto
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MTGCXK6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MTGCXK6/?tag=tolees00-21)

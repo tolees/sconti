@@ -26,4 +26,4 @@ Puoi trovare [Vigorsol Air Action Gomme da Masticare Senza Zucchero Multipack St
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NFH4RHC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NFH4RHC/?tag=tolees00-21)

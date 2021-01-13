@@ -26,4 +26,4 @@ Puoi trovare [JBL Flip Essential Speaker Bluetooth Portatile – Cassa Altoparla
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07YBQ6M8L/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07YBQ6M8L/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Alcatel 3L 2020  6.22”  4G  64 GB ROM + 4 GB RAM  tripla fotocam
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0867PLS4Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0867PLS4Z/?tag=tolees00-21)

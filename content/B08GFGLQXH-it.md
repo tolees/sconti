@@ -26,4 +26,4 @@ Puoi trovare [E-Hamii [3 Pezzi Vetro Temperato Infrangibile 9H Compatibile con S
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GFGLQXH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GFGLQXH/?tag=tolees00-21)

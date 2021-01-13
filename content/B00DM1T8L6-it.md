@@ -26,4 +26,4 @@ Puoi trovare [Bollani  S: L Orchestra Del Titanic](https://www.amazon.it/dp/B00D
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00DM1T8L6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00DM1T8L6/?tag=tolees00-21)

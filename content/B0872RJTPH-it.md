@@ -26,4 +26,4 @@ Puoi trovare [Auricolare Bluetooth Senza Fili  Cuffie Wireless Stereo 3D with IP
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0872RJTPH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0872RJTPH/?tag=tolees00-21)

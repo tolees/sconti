@@ -26,4 +26,4 @@ Puoi trovare [Faburo Zanzariera per Finestra con 3 pcs patch e Strumento di fiss
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07R4GZZRF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07R4GZZRF/?tag=tolees00-21)

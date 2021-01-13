@@ -26,4 +26,4 @@ Puoi trovare [De Cecco Casareccia n° 88  Pasta di Semola di Grano Duro - 3 kg  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01MF4SHNM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MF4SHNM/?tag=tolees00-21)

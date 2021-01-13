@@ -26,4 +26,4 @@ Puoi trovare [Manfrotto Befree Advanced Camo  Kit Treppiede Adavnced Travel  con
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B083XSNX8S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B083XSNX8S/?tag=tolees00-21)

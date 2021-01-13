@@ -26,4 +26,4 @@ Puoi trovare [Kenwood FDM780BA MultiPro Classic Food Processor  Robot da Cucina 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00MB8MHLO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00MB8MHLO/?tag=tolees00-21)

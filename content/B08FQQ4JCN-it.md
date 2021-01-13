@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate DTFS LED Kit Pulsanti Luminosi Multicolori Levette Ana
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FQQ4JCN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FQQ4JCN/?tag=tolees00-21)

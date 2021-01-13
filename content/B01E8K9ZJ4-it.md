@@ -26,4 +26,4 @@ Puoi trovare [Ayotu Custodia in Pelle PU per Kindle Paperwhite-Custodia impermea
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01E8K9ZJ4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01E8K9ZJ4/?tag=tolees00-21)

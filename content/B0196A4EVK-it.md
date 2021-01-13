@@ -26,4 +26,4 @@ Puoi trovare [Sylvanian Families - 5234 - Boutique](https://www.amazon.it/dp/B01
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0196A4EVK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0196A4EVK/?tag=tolees00-21)

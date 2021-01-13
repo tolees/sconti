@@ -26,4 +26,4 @@ Puoi trovare [Silent Mind ~ Campana Tibetana con Accessori ~ Modello Antico ~ Co
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00XEV4WYM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00XEV4WYM/?tag=tolees00-21)

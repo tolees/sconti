@@ -26,4 +26,4 @@ Puoi trovare [Metaltex Babatex  - Cestello sottoripiano -  363840 ](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000T2HNWW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000T2HNWW/?tag=tolees00-21)

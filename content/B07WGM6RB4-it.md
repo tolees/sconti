@@ -26,4 +26,4 @@ Puoi trovare [TCL TS8011 Soundbar 2.1 canali con subwoofer integrato – Fire TV
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WGM6RB4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WGM6RB4/?tag=tolees00-21)

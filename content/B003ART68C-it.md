@@ -26,4 +26,4 @@ Puoi trovare [Birkenstock Gizeh Birko-Flor  Sandali Unisex - Adulto  Nero  46  N
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003ART68C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003ART68C/?tag=tolees00-21)

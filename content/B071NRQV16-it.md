@@ -26,4 +26,4 @@ Puoi trovare [Levi s Graphic Maglietta  Bianco  84 Sportswear Logo White 0000   
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B071NRQV16/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B071NRQV16/?tag=tolees00-21)

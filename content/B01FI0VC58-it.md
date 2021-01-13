@@ -26,4 +26,4 @@ Puoi trovare [Birkenstock Arizona  Sandali Donna  Grigio  Metallic Anthracite   
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01FI0VC58/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01FI0VC58/?tag=tolees00-21)

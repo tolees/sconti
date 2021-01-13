@@ -26,4 +26,4 @@ Puoi trovare [NATURANDO ENERGIA FORTE PLUS 40 PERLE Integratore alimentare per c
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00VXDN5N2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00VXDN5N2/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Hori Volante RWO Racing Wheel Overdrive  Xbox One ](https://www.am
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N5QBT08/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N5QBT08/?tag=tolees00-21)

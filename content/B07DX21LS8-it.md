@@ -26,4 +26,4 @@ Puoi trovare [Salewa  00-0000027165  Giacca  Uomo  Blu  Ombre Blue   46/S](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21)

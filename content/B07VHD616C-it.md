@@ -26,4 +26,4 @@ Puoi trovare [Kaspersky Internet Security 2020 5 User](https://www.amazon.it/dp/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VHD616C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VHD616C/?tag=tolees00-21)

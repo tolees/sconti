@@ -26,4 +26,4 @@ Puoi trovare [Apple Custodia in pelle  per iPhone XS  -  PRODUCT RED](https://w
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07H9QXKW6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H9QXKW6/?tag=tolees00-21)

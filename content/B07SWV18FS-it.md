@@ -26,4 +26,4 @@ Puoi trovare [Geox D LEELU  E  Scarpe da Ginnastica Basse Donna  Bianco  White/o
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SWV18FS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SWV18FS/?tag=tolees00-21)

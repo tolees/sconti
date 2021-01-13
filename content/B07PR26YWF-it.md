@@ -26,4 +26,4 @@ Puoi trovare [Lark & Ro Stretch Poplin Shirt Dress-Shirts  Cruz V2 Fresh Foam  U
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PR26YWF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PR26YWF/?tag=tolees00-21)

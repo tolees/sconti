@@ -26,4 +26,4 @@ Puoi trovare [APLI 809741 Etichetta Poliestere  Confezione da 20 Pezzi](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000KJMCPW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000KJMCPW/?tag=tolees00-21)

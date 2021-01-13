@@ -26,4 +26,4 @@ Puoi trovare [Style - Crema Modella Ricci - Rende Elastici i Capelli Ricci Prote
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00NOSDYDU/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00NOSDYDU/?tag=tolees00-21)

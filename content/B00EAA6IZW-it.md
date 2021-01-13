@@ -26,4 +26,4 @@ Puoi trovare [Rowenta CF4132 Ferro Arricciacapelli Multistyler 14-in-1  14 Acces
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00EAA6IZW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00EAA6IZW/?tag=tolees00-21)

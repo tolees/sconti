@@ -26,4 +26,4 @@ Puoi trovare [AhaStyle - Supporto per cellulare 3 in 1  in silicone  compatibile
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B075XNCQ6F/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B075XNCQ6F/?tag=tolees00-21)

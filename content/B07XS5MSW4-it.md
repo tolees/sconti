@@ -26,4 +26,4 @@ Puoi trovare [Apple iPhone 11  128GB  - Verde](https://www.amazon.it/dp/B07XS5MS
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21)

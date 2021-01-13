@@ -26,4 +26,4 @@ Puoi trovare [Allibert 201310 Ice Cube  Sgabello Frigorifero in plastica  Colore
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B006LXSOP8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B006LXSOP8/?tag=tolees00-21)

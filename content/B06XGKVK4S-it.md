@@ -26,4 +26,4 @@ Puoi trovare [Guess Orologio Analogico Quarzo Donna con Cinturino in Acciaio Ino
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XGKVK4S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XGKVK4S/?tag=tolees00-21)

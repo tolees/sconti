@@ -26,4 +26,4 @@ Puoi trovare [find. Round Toe Block Heel Leather Court Scarpe con Tacco  Beige  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KMJ4KKH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KMJ4KKH/?tag=tolees00-21)

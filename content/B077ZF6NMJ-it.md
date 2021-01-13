@@ -26,4 +26,4 @@ Puoi trovare [Tristar Crispy Mini Friggitrice ad aria calda  1000 W  2 Liters  P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21)

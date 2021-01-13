@@ -26,4 +26,4 @@ Puoi trovare [Trussardi My Name Eau de parfum spray 100 ml donna](https://www.am
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00E36ZKXE/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00E36ZKXE/?tag=tolees00-21)

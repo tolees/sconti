@@ -26,4 +26,4 @@ Puoi trovare [Pentole Agnelli ALMA111B38 Padella Alta per Saltare  Manico Tubola
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00APXCSDE/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00APXCSDE/?tag=tolees00-21)

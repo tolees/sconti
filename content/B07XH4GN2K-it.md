@@ -26,4 +26,4 @@ Puoi trovare [POP! Vinyl: Star Wars - Training Luke with Yoda](https://www.amazo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XH4GN2K/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XH4GN2K/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Uomo Bleecker Th Flex Satin Chino Gmd Loose Fit Jea
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07W6NDVVS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W6NDVVS/?tag=tolees00-21)

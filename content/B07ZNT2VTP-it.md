@@ -26,4 +26,4 @@ Puoi trovare [Oacvien 2L Umidificatore Ambiente Ultrasonicos 7 Colori Chiari LED
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZNT2VTP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZNT2VTP/?tag=tolees00-21)

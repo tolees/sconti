@@ -26,4 +26,4 @@ Puoi trovare [Marchio Amazon - TRUTH & FABLE Tuta Intera Donna  Rosso  Red   44 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B077G5HBN2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B077G5HBN2/?tag=tolees00-21)

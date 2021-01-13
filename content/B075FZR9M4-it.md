@@ -26,4 +26,4 @@ Puoi trovare [D-Link DIR-882  Router Wi-Fi AC2600 Dual band  5 Porte Gigabit  1 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B075FZR9M4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B075FZR9M4/?tag=tolees00-21)

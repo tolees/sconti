@@ -26,4 +26,4 @@ Puoi trovare [Casio Orologio Digitale Quarzo Uomo con Cinturino in Acciaio Inox 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000LCV6QE/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000LCV6QE/?tag=tolees00-21)

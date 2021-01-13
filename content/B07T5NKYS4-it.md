@@ -26,4 +26,4 @@ Puoi trovare [Geox U Nebula Y A  Scarpe da Ginnastica Basse Uomo  Blu  Navy C400
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07T5NKYS4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T5NKYS4/?tag=tolees00-21)

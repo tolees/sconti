@@ -26,4 +26,4 @@ Puoi trovare [Level Fly  Guanto da Snowboard Uomo  PK Nero  8.5 - ML](https://ww
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01HI2HUCI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01HI2HUCI/?tag=tolees00-21)

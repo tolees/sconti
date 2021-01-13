@@ -26,4 +26,4 @@ Puoi trovare [adidas Grand Court  Scarpe Sportive Mens  Bianco  Cloud White/Core
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KFVGZC2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KFVGZC2/?tag=tolees00-21)

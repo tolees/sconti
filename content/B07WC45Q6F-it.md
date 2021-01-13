@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger John Cargo Short Light Twill Jeans Relaxed  Blu  Fa
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WC45Q6F/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WC45Q6F/?tag=tolees00-21)

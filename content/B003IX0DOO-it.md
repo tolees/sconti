@@ -26,4 +26,4 @@ Puoi trovare [Wenko Portarotolo di Riserva a Parete O Indipendente per 3 Rotoli 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003IX0DOO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003IX0DOO/?tag=tolees00-21)

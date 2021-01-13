@@ -26,4 +26,4 @@ Puoi trovare [Gillette Fusion5 ProGlide Rasoio Da Uomo Set Regalo Premium  4 Lam
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FMZKJZM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FMZKJZM/?tag=tolees00-21)

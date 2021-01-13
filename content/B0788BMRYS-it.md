@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger RN Tee SS Maglietta  Bianco  White 100   X-Large Uo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0788BMRYS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0788BMRYS/?tag=tolees00-21)

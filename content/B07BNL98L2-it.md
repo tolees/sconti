@@ -26,4 +26,4 @@ Puoi trovare [Cecotec - Bake&Toast  Forno elettrico da tavolo  capacità di 10 l
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BNL98L2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BNL98L2/?tag=tolees00-21)

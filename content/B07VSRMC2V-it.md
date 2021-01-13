@@ -26,4 +26,4 @@ Puoi trovare [Carioca Set Back To School | Set Cancelleria Scuola con Matite Col
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21)

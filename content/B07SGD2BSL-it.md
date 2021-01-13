@@ -26,4 +26,4 @@ Puoi trovare [Compressore Portatile per Auto Aria Compressa Pompa Elettrica 150P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SGD2BSL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SGD2BSL/?tag=tolees00-21)

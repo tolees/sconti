@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Top  Infradito Unisex-Adulto  Rosso  Ruby Red 2090   41/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B003AOSHJ4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B003AOSHJ4/?tag=tolees00-21)

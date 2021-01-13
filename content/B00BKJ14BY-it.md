@@ -26,4 +26,4 @@ Puoi trovare [Navigare 324  Slip Uomo  Multicolore  Bianco/Nero/Antracite/Navi  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00BKJ14BY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00BKJ14BY/?tag=tolees00-21)

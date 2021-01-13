@@ -26,4 +26,4 @@ Puoi trovare [Laken Thermo Classic Bottiglia d Acqua  Isolamento sottovuoto  Acc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00CSB3ZX8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00CSB3ZX8/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Medium Drawstring Pantaloncini  Rosso  Red 611   X-
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07LBKVYL2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07LBKVYL2/?tag=tolees00-21)

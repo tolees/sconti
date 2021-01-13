@@ -26,4 +26,4 @@ Puoi trovare [Hoover SM156WD4 Aspirabriciole da cucina senza sacco  15.6 W  0.2 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00SWCLM6Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00SWCLM6Y/?tag=tolees00-21)

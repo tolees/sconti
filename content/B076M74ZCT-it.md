@@ -26,4 +26,4 @@ Puoi trovare [Kenwood KVL4170S Impastatrice Planetaria Chef XL  Robot da Cucina 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B076M74ZCT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B076M74ZCT/?tag=tolees00-21)

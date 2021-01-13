@@ -26,4 +26,4 @@ Puoi trovare [Trolley Fit Seven Colorflower  Nero  35 Lt  2in1 Zaino con Solleva
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07Q4XFRK8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q4XFRK8/?tag=tolees00-21)

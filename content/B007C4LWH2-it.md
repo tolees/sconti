@@ -26,4 +26,4 @@ Puoi trovare [Binary Domain](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-2
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21)

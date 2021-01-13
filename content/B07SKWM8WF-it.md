@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Top Nautical  Infradito Uomo  Multicolore  Navy Blue/Whi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SKWM8WF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SKWM8WF/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Motast Cuffie Bluetooth  Auricolari Bluetooth 5.0 Noise Cancelling
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CXST2G2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CXST2G2/?tag=tolees00-21)

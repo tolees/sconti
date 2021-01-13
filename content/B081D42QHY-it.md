@@ -26,4 +26,4 @@ Puoi trovare [MPOW S16 Auricolari Wireless Sport 12H Playtime  Cuffie Bluetooth 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B081D42QHY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B081D42QHY/?tag=tolees00-21)

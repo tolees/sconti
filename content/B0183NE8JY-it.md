@@ -26,4 +26,4 @@ Puoi trovare [Jivo Technology-Kit di parti GoGear Xtra-Spare per GoPro](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0183NE8JY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0183NE8JY/?tag=tolees00-21)

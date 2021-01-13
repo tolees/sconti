@@ -26,4 +26,4 @@ Puoi trovare [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Verde  Olive Nig
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07C5X3VS8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07C5X3VS8/?tag=tolees00-21)

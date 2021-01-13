@@ -26,4 +26,4 @@ Puoi trovare [Echo  4ª generazione   Bianco ghiaccio + Philips Hue White Lampad
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08H6KX1V4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08H6KX1V4/?tag=tolees00-21)

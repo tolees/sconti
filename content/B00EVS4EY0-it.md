@@ -26,4 +26,4 @@ Puoi trovare [LEGO Friends](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Only Onltia DNM Jacket BB MB Bex02 Noos Giacca in Jeans  Blu  Medi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07HDP22JW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07HDP22JW/?tag=tolees00-21)

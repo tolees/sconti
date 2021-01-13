@@ -26,4 +26,4 @@ Puoi trovare [Emporio Armani Orologio Analogico Quarzo Uomo con Cinturino in Acc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01GZZZ378/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GZZZ378/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Rimmel Smalto Unghie Super Gel  Nail Polish Effetto Gel a Lunga Du
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01BNK0VWM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01BNK0VWM/?tag=tolees00-21)

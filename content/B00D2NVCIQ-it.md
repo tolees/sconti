@@ -26,4 +26,4 @@ Puoi trovare [Panasonic KX-TG6811JTB Telefono Cordless DECT  Schermo LCD da 1 8 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00D2NVCIQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00D2NVCIQ/?tag=tolees00-21)

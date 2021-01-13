@@ -26,4 +26,4 @@ Puoi trovare [Candy CS 1292D3-01 Lavatrice  9 kg  1200 rpm  Bianco](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01H0VQTHY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01H0VQTHY/?tag=tolees00-21)

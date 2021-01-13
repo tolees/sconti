@@ -26,4 +26,4 @@ Puoi trovare [Diesel Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Ino
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21)

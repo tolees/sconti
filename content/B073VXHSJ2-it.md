@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Slim 4000030 Infradito Donna  Giallo  Banana Yellow   37
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B073VXHSJ2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B073VXHSJ2/?tag=tolees00-21)

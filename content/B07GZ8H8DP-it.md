@@ -26,4 +26,4 @@ Puoi trovare [Marchio Amazon - MERAKI Blazer Casual Uomo  Nero  Black   52  Labe
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GZ8H8DP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GZ8H8DP/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [amzdeal Pietra per Pizza con Spatola e Ricetta in Legno  Pietra Re
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082WSK8HK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082WSK8HK/?tag=tolees00-21)

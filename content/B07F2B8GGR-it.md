@@ -26,4 +26,4 @@ Puoi trovare [Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Bianco  Light
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07F2B8GGR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2B8GGR/?tag=tolees00-21)

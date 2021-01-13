@@ -26,4 +26,4 @@ Puoi trovare [LEONE 1947 Flash Guantoni  Nero  12 Oz](https://www.amazon.it/dp/B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B015EFQX42/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B015EFQX42/?tag=tolees00-21)

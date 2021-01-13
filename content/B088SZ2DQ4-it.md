@@ -26,4 +26,4 @@ Puoi trovare [MECO ELEVERDE 2 Pezzi Portaspazzolino per Spazzolini da Denti Elet
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088SZ2DQ4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088SZ2DQ4/?tag=tolees00-21)

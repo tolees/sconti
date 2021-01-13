@@ -26,4 +26,4 @@ Puoi trovare [Xiaomi Redmi Note 8 Pro 64 + 6 GB  Mineral Grey](https://www.amazo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07Y8YWTFL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y8YWTFL/?tag=tolees00-21)

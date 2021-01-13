@@ -26,4 +26,4 @@ Puoi trovare [Südtirol - Alto Adige Valle Isarco DOC Riesling Adler von Klausen
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088KRG9D4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088KRG9D4/?tag=tolees00-21)

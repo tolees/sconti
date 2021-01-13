@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Slim Animals  Infradito Donna  Multicolore  Ballet Rose 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SN4XNHM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SN4XNHM/?tag=tolees00-21)

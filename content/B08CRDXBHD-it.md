@@ -26,4 +26,4 @@ Puoi trovare [Cuffie senza fili per TV  con stazione di ricarica digitale da 2 4
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CRDXBHD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CRDXBHD/?tag=tolees00-21)

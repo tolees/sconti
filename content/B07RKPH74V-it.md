@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Leeds 10a2  Scarpe da Ginnastica Uomo  Beige  White
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21)

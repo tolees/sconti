@@ -26,4 +26,4 @@ Puoi trovare [Kitchen Craft Glacette Grande  47 cm x 28 cm x 23 cm  Trasparente]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000VE6BSA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000VE6BSA/?tag=tolees00-21)

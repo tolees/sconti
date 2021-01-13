@@ -26,4 +26,4 @@ Puoi trovare [Orient Orologio Analogico Automatico Uomo con Cinturino in Gomma F
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FD9FG6B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FD9FG6B/?tag=tolees00-21)

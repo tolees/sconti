@@ -26,4 +26,4 @@ Puoi trovare [PUMA Sneaker Plain 3p Calze sportive  Blu Navy  35/38  Pacco da 3 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074WD8TCF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074WD8TCF/?tag=tolees00-21)

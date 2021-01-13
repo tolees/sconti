@@ -26,4 +26,4 @@ Puoi trovare [Salomon Xa Pro 3D Gtx  Scarpe da Corsa Uomo  Nero  47 1/3 EU](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01HD6RHTK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01HD6RHTK/?tag=tolees00-21)

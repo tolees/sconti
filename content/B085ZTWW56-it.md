@@ -26,4 +26,4 @@ Puoi trovare [Cocoda Termometro Cucina Digitale  Termometro Forno a Lettura Ista
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085ZTWW56/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085ZTWW56/?tag=tolees00-21)

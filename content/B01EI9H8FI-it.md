@@ -26,4 +26,4 @@ Puoi trovare [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Blu  Collegiate N
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01EI9H8FI/?tag=tolees00-21)

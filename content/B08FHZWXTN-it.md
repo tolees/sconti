@@ -26,4 +26,4 @@ Puoi trovare [Auricolari Bluetooth 5.0 TWS i12 Cuffie wireless stereo 3D con con
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FHZWXTN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FHZWXTN/?tag=tolees00-21)

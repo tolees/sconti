@@ -26,4 +26,4 @@ Puoi trovare [adidas Ripple TS  Maglietta Uomo  Bianco  White/Shock Pink   M](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21)

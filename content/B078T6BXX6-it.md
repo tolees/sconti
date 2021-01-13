@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Essential TH Beach Sandal  Infradito Uomo  Blu  Mid
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078T6BXX6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078T6BXX6/?tag=tolees00-21)

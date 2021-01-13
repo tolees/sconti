@@ -26,4 +26,4 @@ Puoi trovare [STANLEY - 1-93-330 Borsa porta utensili  30 x 25 x 13 cm  il desig
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000Y8XYE2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000Y8XYE2/?tag=tolees00-21)

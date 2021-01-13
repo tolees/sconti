@@ -26,4 +26,4 @@ Puoi trovare [Laser 2420 Manichetta Autoadescante](https://www.amazon.it/dp/B001
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0012MEKYW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0012MEKYW/?tag=tolees00-21)

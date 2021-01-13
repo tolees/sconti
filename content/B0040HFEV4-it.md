@@ -26,4 +26,4 @@ Puoi trovare [Gucci Guilty Eau de Toilette  Donna  50 ml](https://www.amazon.it/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0040HFEV4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0040HFEV4/?tag=tolees00-21)

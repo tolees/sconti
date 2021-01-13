@@ -26,4 +26,4 @@ Puoi trovare [Custodia per Nintendo Switch - Protettivo Trasporto Case Rigido Or
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B089G2CSNK/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B089G2CSNK/?tag=tolees00-21)

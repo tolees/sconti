@@ -26,4 +26,4 @@ Puoi trovare [Timberland Union Wharf Plain Toe  Sneaker Infilare Uomo  Nero  Bla
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FH9K34N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FH9K34N/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Controller per Nintendo Switch Pro Sendowtek Bluetooth Controller 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088K6NQWT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088K6NQWT/?tag=tolees00-21)

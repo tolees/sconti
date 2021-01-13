@@ -26,4 +26,4 @@ Puoi trovare [Funko POP! Games: Laguna POP 2](https://www.amazon.it/dp/B07RN8DQN
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RN8DQNT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RN8DQNT/?tag=tolees00-21)

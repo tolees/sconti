@@ -26,4 +26,4 @@ Puoi trovare [Eastpak Tranverz M Valigia  67 cm  78 L  Blu  Triple Denim ](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DP764GY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DP764GY/?tag=tolees00-21)

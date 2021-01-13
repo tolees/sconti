@@ -26,4 +26,4 @@ Puoi trovare [ORZLY® Gaming Keyboard And Mouse And Mouse Pad And Gaming Headset
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07V4NWHN4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V4NWHN4/?tag=tolees00-21)

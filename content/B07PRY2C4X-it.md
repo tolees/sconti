@@ -26,4 +26,4 @@ Puoi trovare [Curcuma Bio 1440 mg con Piperina e Zenzero - 180 Capsule di Curcum
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PRY2C4X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PRY2C4X/?tag=tolees00-21)

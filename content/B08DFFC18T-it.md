@@ -26,4 +26,4 @@ Puoi trovare [4G Tablet 10 Pollici con Wifi Offerte Android 9.0 Certificato Goog
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DFFC18T/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DFFC18T/?tag=tolees00-21)

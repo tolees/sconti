@@ -26,4 +26,4 @@ Puoi trovare [Guanti usa e getta  in plastica  100 pezzi  per uso alimentare  tr
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21)

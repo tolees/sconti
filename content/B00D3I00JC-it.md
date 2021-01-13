@@ -26,4 +26,4 @@ Puoi trovare [Narhinel Aspiratore Nasale e Ricambi Soft - 70 Gr](https://www.ama
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00D3I00JC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00D3I00JC/?tag=tolees00-21)

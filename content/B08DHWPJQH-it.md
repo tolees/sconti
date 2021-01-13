@@ -26,4 +26,4 @@ Puoi trovare [Huawei 55030701 Nano Memory Card  128 GB Con Lettore Di Scheda](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21)

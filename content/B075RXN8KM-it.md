@@ -26,4 +26,4 @@ Puoi trovare [De Longhi XL130.21 Colombina Class Scopa Elettrica con Sacco](http
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B075RXN8KM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B075RXN8KM/?tag=tolees00-21)

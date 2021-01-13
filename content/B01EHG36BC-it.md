@@ -26,4 +26,4 @@ Puoi trovare [STM Bags Dux Plus Cover per iPad PRO 9.7  Nero](https://www.amazon
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01EHG36BC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01EHG36BC/?tag=tolees00-21)

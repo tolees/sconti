@@ -26,4 +26,4 @@ Puoi trovare [Goleador Maxi Shock  la Doppia Caramella Gommosa Ricoperta di Zucc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00AA2YOEQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00AA2YOEQ/?tag=tolees00-21)

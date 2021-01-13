@@ -26,4 +26,4 @@ Puoi trovare [Birkenstock  Madrid BS 0040793  Sandali  Donna  Nero  35 EU](https
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000KBKEFA/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000KBKEFA/?tag=tolees00-21)

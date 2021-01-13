@@ -26,4 +26,4 @@ Puoi trovare [Lacoste Lerond BL 2 Cam  Sneaker Uomo  Blu  Navy   44.5 EU](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01MT13GU6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MT13GU6/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Beats EP Cuffie con filo – Senza batteria per ascoltare musica n
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01LW6ZPIM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LW6ZPIM/?tag=tolees00-21)

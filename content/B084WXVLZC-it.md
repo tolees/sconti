@@ -26,4 +26,4 @@ Puoi trovare [Aigostar Lamo 30RFU – Tostapane Sandwich da 800W con rivestiment
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B084WXVLZC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B084WXVLZC/?tag=tolees00-21)

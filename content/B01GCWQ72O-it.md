@@ -26,4 +26,4 @@ Puoi trovare [HyperX Predator HX430C15PB3K4/64 Memoria 3000 MHz DDR4 CL15 DIMM X
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01GCWQ72O/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GCWQ72O/?tag=tolees00-21)

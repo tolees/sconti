@@ -26,4 +26,4 @@ Puoi trovare [Kingston A400 SSD SA400S37/120G Unità a Stato Solido Interne 2.5"
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N6JQS8C/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N6JQS8C/?tag=tolees00-21)

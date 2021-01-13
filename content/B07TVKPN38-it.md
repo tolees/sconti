@@ -26,4 +26,4 @@ Puoi trovare [Samsung WW12R641U0M Lavatrice 12 kg Arno  1400 rpm  Bianco](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TVKPN38/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TVKPN38/?tag=tolees00-21)

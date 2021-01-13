@@ -26,4 +26,4 @@ Puoi trovare [adidas Adilette  Ciabatte Unisex – Adulto  Blu  Adiblue G1/White
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00368ONYC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00368ONYC/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [adidas Tiro 19  Maglia da Allenamento Uomo  Bold Blue/Dark Blue/Wh
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07JPJY86Q/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JPJY86Q/?tag=tolees00-21)

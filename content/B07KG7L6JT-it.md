@@ -26,4 +26,4 @@ Puoi trovare [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07KG7L6JT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KG7L6JT/?tag=tolees00-21)

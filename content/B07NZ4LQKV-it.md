@@ -26,4 +26,4 @@ Puoi trovare [Tendina Parasole Auto   otumixx 2 Pezzi Tendine Parasole Auto Bamb
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NZ4LQKV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NZ4LQKV/?tag=tolees00-21)

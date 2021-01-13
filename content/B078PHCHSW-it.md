@@ -26,4 +26,4 @@ Puoi trovare [Pioneer Ts-Wx130Da Subwoofer per Macchina  Nero](https://www.amazo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078PHCHSW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078PHCHSW/?tag=tolees00-21)

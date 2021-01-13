@@ -26,4 +26,4 @@ Puoi trovare [VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido  Maxi Formato 2 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21)

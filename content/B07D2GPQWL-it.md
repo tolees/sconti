@@ -26,4 +26,4 @@ Puoi trovare [DYNASONIC - Altoparlante Bluetooth 10W portatile  Lettore Mp3 senz
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D2GPQWL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D2GPQWL/?tag=tolees00-21)

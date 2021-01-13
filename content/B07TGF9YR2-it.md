@@ -26,4 +26,4 @@ Puoi trovare [QUADRANT ITEMS Kit da Palestra  Borraccia da 500ml Telo Microfibra
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TGF9YR2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TGF9YR2/?tag=tolees00-21)

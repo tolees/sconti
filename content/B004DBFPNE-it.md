@@ -26,4 +26,4 @@ Puoi trovare [BIC Cristal Original Penne A Sfera Punta Media  1 0 mm  Blu  Pacco
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B004DBFPNE/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B004DBFPNE/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [NAPAPIJRI Rainforest S Pkt 1 Giacca  Turchese  Reef Turquoise I711
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VCCJHG6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VCCJHG6/?tag=tolees00-21)

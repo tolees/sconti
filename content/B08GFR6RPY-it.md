@@ -26,4 +26,4 @@ Puoi trovare [AIMOS Switch KVM DVI  USB Commutatore 2 in 1 out per 2 Computer Co
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GFR6RPY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GFR6RPY/?tag=tolees00-21)

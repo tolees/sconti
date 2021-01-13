@@ -26,4 +26,4 @@ Puoi trovare [Intex 56942GS Piscina Rotonda con Pompa 305 x 76 cm](https://www.a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0065HDQ4Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0065HDQ4Y/?tag=tolees00-21)

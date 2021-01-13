@@ -26,4 +26,4 @@ Puoi trovare [Videoproiettore WiMiUS 6800 Lumen Nativa 1080P LED Proiettore Full
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07QK8PB6Z/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QK8PB6Z/?tag=tolees00-21)

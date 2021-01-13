@@ -26,4 +26,4 @@ Puoi trovare [Bourjois Ombretti le Palette les Nude - 4.5 g](https://www.amazon.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01JGFDLH8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01JGFDLH8/?tag=tolees00-21)

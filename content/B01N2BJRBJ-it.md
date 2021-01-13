@@ -26,4 +26,4 @@ Puoi trovare [Orologio Uomo - Festina F20205-4](https://www.amazon.it/dp/B01N2BJ
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N2BJRBJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N2BJRBJ/?tag=tolees00-21)

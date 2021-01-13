@@ -26,4 +26,4 @@ Puoi trovare [X-DRAGON Caricabatterie Portatile 20000mAh 3 Porte USB Power Bank 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NRKD92X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NRKD92X/?tag=tolees00-21)

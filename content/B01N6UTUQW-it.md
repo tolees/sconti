@@ -26,4 +26,4 @@ Puoi trovare [Sully  4K + Br + Dig.Copy ](https://www.amazon.it/dp/B01N6UTUQW/?t
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21)

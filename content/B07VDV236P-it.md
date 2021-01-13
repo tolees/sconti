@@ -26,4 +26,4 @@ Puoi trovare [MROTY Italia | Striscia LED RGB  Strisce LED 10mt  Luci LED 5050  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VDV236P/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VDV236P/?tag=tolees00-21)

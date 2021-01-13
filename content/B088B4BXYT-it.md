@@ -26,4 +26,4 @@ Puoi trovare [Dittzz Technic Fuoristrada Set di Costruzioni  1:10 2 4Ghz RC Auto
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088B4BXYT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088B4BXYT/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Casio Orologio Digitale al Quarzo Donna con Cinturino in Acciaio I
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00DSYVL80/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00DSYVL80/?tag=tolees00-21)

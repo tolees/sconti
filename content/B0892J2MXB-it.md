@@ -26,4 +26,4 @@ Puoi trovare [WesKimed Convertitore digitale a analogico  adattatore audio ottic
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0892J2MXB/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0892J2MXB/?tag=tolees00-21)

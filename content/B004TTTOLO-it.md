@@ -26,4 +26,4 @@ Puoi trovare [Design Toscano WU67877 Statua Anubi  Dio del Regno Egiziano  Nero 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B004TTTOLO/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B004TTTOLO/?tag=tolees00-21)

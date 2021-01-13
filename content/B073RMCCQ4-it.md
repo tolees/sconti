@@ -26,4 +26,4 @@ Puoi trovare [Reebok Club C 85  Sneaker Uomo  Bianco  Int/White/Green   50 EU](h
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B073RMCCQ4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B073RMCCQ4/?tag=tolees00-21)

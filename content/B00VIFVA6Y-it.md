@@ -26,4 +26,4 @@ Puoi trovare [Tescoma 630496 Beccucci Decoratori per Sac a Poche  21 Pezzi "Deli
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00VIFVA6Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00VIFVA6Y/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Kryptonite KryptoFlex  Catena antifurto  Arancione  10 mm/120 cm](
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000NORUJW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000NORUJW/?tag=tolees00-21)

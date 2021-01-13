@@ -26,4 +26,4 @@ Puoi trovare [18W Caricabatterie Caricatore Per Xiaomi Redmi Note 7 8 9S 9 Pro M
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B085BFQ8KW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B085BFQ8KW/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Under Armour UA Tech  Pantaloni Uomo  Blu  Taglia Unica](https://w
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0814SSZZJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0814SSZZJ/?tag=tolees00-21)

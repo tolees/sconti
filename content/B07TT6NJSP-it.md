@@ -26,4 +26,4 @@ Puoi trovare [Levi s 721 High Rise Skinny Jeans  Hyper Soft T2 Sepia Rose 0271  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TT6NJSP/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TT6NJSP/?tag=tolees00-21)

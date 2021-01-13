@@ -26,4 +26,4 @@ Puoi trovare [ANKEWAY Android 9.1 Autoradio 2 Din GPS Navigation 7 Pollici 1080P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F996NPW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F996NPW/?tag=tolees00-21)

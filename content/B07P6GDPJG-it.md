@@ -26,4 +26,4 @@ Puoi trovare [Philips S6640/44 Rasoio Elettrico Uomo S6000  Wet&Dry  Testina Mul
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07P6GDPJG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P6GDPJG/?tag=tolees00-21)

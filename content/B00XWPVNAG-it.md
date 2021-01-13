@@ -26,4 +26,4 @@ Puoi trovare [Nike Tanjun Mn  Scarpe Sportive Uomo  Grigio  Wolf Grey/White   46
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00XWPVNAG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00XWPVNAG/?tag=tolees00-21)

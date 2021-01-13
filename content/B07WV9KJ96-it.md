@@ -26,4 +26,4 @@ Puoi trovare [Tablet 10 Pollici YESTEL 4GB RAM+64GB ROM +Espanso 128GB con Scher
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07WV9KJ96/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WV9KJ96/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [XLTOK Cavo USB Type C  [3Pezzi  1m+1m+2m] Cavo tipo C di Ricarica 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B088CYKQCN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B088CYKQCN/?tag=tolees00-21)

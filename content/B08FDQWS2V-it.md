@@ -26,4 +26,4 @@ Puoi trovare [Auricolare Bluetoot Cuffie Bluetooth touch 24h Playtime 3D stereo 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FDQWS2V/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FDQWS2V/?tag=tolees00-21)

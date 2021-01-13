@@ -26,4 +26,4 @@ Puoi trovare [Napapijri Rainforest Pocket Giacca Uomo  100% Poliammide  Verde  G
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MCSPMX4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MCSPMX4/?tag=tolees00-21)

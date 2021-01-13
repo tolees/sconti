@@ -26,4 +26,4 @@ Puoi trovare [RIIMUHIR Tempered Glass Screen Protector for Xiaomi Mi Note 10/Not
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DNXDV12/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DNXDV12/?tag=tolees00-21)

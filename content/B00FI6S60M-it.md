@@ -26,4 +26,4 @@ Puoi trovare [Catwalk Collection Handbags - Vera Pelle - Grande Borsa a Tracolla
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00FI6S60M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00FI6S60M/?tag=tolees00-21)

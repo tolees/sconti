@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta  Bianco  Brig
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B016QM56RW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B016QM56RW/?tag=tolees00-21)

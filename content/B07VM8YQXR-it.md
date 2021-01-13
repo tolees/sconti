@@ -26,4 +26,4 @@ Puoi trovare [TECCPO 120 Pezzi Dischi Abrasivi  ø125 mm Carta Abrasiva Velcro R
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VM8YQXR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VM8YQXR/?tag=tolees00-21)

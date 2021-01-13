@@ -26,4 +26,4 @@ Puoi trovare [EasySMX Controller per Switch / Switch Lite  Controller switch wir
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08DNZNLZV/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DNZNLZV/?tag=tolees00-21)

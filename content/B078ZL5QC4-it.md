@@ -26,4 +26,4 @@ Puoi trovare [Techly 103113 Multipresa 6 Posti Italiana Bipasso con Protezione d
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078ZL5QC4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078ZL5QC4/?tag=tolees00-21)

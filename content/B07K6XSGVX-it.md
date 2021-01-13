@@ -26,4 +26,4 @@ Puoi trovare [Levi s Original HM Tee Maglietta a Maniche Lunghe  Blu  LS Cotton 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07K6XSGVX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07K6XSGVX/?tag=tolees00-21)

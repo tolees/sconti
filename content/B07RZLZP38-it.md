@@ -26,4 +26,4 @@ Puoi trovare [New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   47.5 EU](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RZLZP38/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RZLZP38/?tag=tolees00-21)

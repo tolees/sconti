@@ -26,4 +26,4 @@ Puoi trovare [Chiave del prodotto Office Professional Plus 2019 a 32/64 bit con 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XKQBB6B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XKQBB6B/?tag=tolees00-21)

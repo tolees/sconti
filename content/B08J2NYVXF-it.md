@@ -26,4 +26,4 @@ Puoi trovare [Jvchengxi Custodia per Samsung Galaxy Buds Live  Placcatura PC Pro
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08J2NYVXF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08J2NYVXF/?tag=tolees00-21)

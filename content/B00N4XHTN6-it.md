@@ -26,4 +26,4 @@ Puoi trovare [Keter 68X39X173H Stilo Tall - Armadio tuttopiani  3 ripiani regola
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00N4XHTN6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00N4XHTN6/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Seanshow - Set di 3 trolley in ABS di alta qualità  con lucchetto
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07X2FVRZ2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07X2FVRZ2/?tag=tolees00-21)

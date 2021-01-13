@@ -26,4 +26,4 @@ Puoi trovare [New Balance 574v2  Sneaker Uomo  Nero  Black Black   43 EU](https:
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07GQ75CH8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GQ75CH8/?tag=tolees00-21)

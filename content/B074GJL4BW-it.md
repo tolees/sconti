@@ -26,4 +26,4 @@ Puoi trovare [Funko- Pop Vinile MLP Movie Twilight Sparkle Sea Pony  9 cm  21643
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074GJL4BW/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074GJL4BW/?tag=tolees00-21)

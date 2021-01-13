@@ -26,4 +26,4 @@ Puoi trovare [Tritacarne 【Upgraded】AICOK 3-IN-1 Tritacarne Elettrico con 2 P
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VS65JT4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VS65JT4/?tag=tolees00-21)

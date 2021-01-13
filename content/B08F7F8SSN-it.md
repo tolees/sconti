@@ -26,4 +26,4 @@ Puoi trovare [Tablet Bambini 7 Pollici con Wifi Offerte Android 9.0 Certificato 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08F7F8SSN/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F7F8SSN/?tag=tolees00-21)

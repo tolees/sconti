@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Slim Animals  Infradito Donna  Multicolore  Grey/Olive G
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TKNMXX6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TKNMXX6/?tag=tolees00-21)

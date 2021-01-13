@@ -26,4 +26,4 @@ Puoi trovare [Marchio Amazon - TRUTH & FABLE Mini Tubino in Pizzo Donna  Nero  B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07QV74JX6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QV74JX6/?tag=tolees00-21)

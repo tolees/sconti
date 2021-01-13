@@ -26,4 +26,4 @@ Puoi trovare [Nike Tanjun Mn  Scarpe Sportive Uomo  Nero  Black/White   44.5 EU]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00XWPX6E2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00XWPX6E2/?tag=tolees00-21)

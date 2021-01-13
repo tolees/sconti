@@ -26,4 +26,4 @@ Puoi trovare [givova Visa Fluo  Tuta da Ginnastica Uomo  Nero/Bianco  L](https:/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00I060RAY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00I060RAY/?tag=tolees00-21)

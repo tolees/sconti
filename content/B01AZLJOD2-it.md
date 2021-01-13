@@ -26,4 +26,4 @@ Puoi trovare [New Balance 500  Scarpe Sportive Uomo  Grigio  Grey/White Gry   42
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01AZLJOD2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01AZLJOD2/?tag=tolees00-21)

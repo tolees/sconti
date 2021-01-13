@@ -26,4 +26,4 @@ Puoi trovare [Michael Kors Bedford - Borsa da torneo  13 x 25 x 29 cm  Nero  Ner
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TBSDD14/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TBSDD14/?tag=tolees00-21)

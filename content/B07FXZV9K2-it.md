@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Top Tiras  Infradito Donna  Oro  Rose Nude 7939   37/38 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07FXZV9K2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FXZV9K2/?tag=tolees00-21)

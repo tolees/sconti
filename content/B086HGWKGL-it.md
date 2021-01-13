@@ -26,4 +26,4 @@ Puoi trovare [HP - Gaming OMEN 15-dh0052nl Notebook  Intel Core i7-9750H  RAM 16
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B086HGWKGL/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B086HGWKGL/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [adidas Stan Smith C  Scarpe da Ginnastica Basse Unisex-Bambini  Bi
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01GUZJE2S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GUZJE2S/?tag=tolees00-21)

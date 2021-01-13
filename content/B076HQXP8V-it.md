@@ -26,4 +26,4 @@ Puoi trovare [adidas Core18 Rain Jacket  Giacca Sportiva. Uomo  Power Red/White 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B076HQXP8V/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQXP8V/?tag=tolees00-21)

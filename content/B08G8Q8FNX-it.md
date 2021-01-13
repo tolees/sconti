@@ -26,4 +26,4 @@ Puoi trovare [Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari Wireless Cuff
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08G8Q8FNX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08G8Q8FNX/?tag=tolees00-21)

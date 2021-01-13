@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger Light Weight Hooded Jacket Bomber  Blu  Blue Dw5   
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RHGHV6H/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RHGHV6H/?tag=tolees00-21)

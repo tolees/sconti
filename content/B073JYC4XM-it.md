@@ -26,4 +26,4 @@ Puoi trovare [SanDisk Ultra Scheda di Memoria MicroSDXC e Adattatore  con A1 App
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B073JYC4XM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B073JYC4XM/?tag=tolees00-21)

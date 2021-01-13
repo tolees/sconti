@@ -26,4 +26,4 @@ Puoi trovare [Levi s The Jacket Giacca  Blu  Pale Shade Indigo Stretch Trucker 0
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07RXL16B8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RXL16B8/?tag=tolees00-21)

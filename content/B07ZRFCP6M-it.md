@@ -26,4 +26,4 @@ Puoi trovare [adidas Lin Duffle M  Borsa Sportiva Unisex – Adulto  Legend Ink/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZRFCP6M/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZRFCP6M/?tag=tolees00-21)

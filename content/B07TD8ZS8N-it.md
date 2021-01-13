@@ -26,4 +26,4 @@ Puoi trovare [Samsung TV QE43LS03RAUXZT The Frame 2019 Cornice TV  4K 43"  Nero]
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07TD8ZS8N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TD8ZS8N/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Lacoste YH4801 Polo  Bianco  Blanc   X-Small  Taglia Produttore: 2
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00XFB12GC/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00XFB12GC/?tag=tolees00-21)

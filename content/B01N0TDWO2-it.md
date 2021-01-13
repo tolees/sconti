@@ -26,4 +26,4 @@ Puoi trovare [HOMCOM Schermo Proiezione Motorizzato Home Cinema 120 Pollici  Bia
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01N0TDWO2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N0TDWO2/?tag=tolees00-21)

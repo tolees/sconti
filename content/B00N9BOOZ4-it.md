@@ -26,4 +26,4 @@ Puoi trovare [Beurer MP 62 Manicure/Pedicure Professionale con LED](https://www.
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00N9BOOZ4/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00N9BOOZ4/?tag=tolees00-21)

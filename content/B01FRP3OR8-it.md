@@ -26,4 +26,4 @@ Puoi trovare [The Amazing Spiderman 2  4K ](https://www.amazon.it/dp/B01FRP3OR8/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01FRP3OR8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01FRP3OR8/?tag=tolees00-21)

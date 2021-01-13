@@ -26,4 +26,4 @@ Puoi trovare [rimmel FONDO TINTA - 1 pezzi](https://www.amazon.it/dp/B079K2MCHH/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B079K2MCHH/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B079K2MCHH/?tag=tolees00-21)

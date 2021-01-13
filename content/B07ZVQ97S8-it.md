@@ -26,4 +26,4 @@ Puoi trovare [Levi s Housemark Graphic Tee T-Shirt  Ssnl Hm2 Bianco  Medium Uomo
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZVQ97S8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQ97S8/?tag=tolees00-21)

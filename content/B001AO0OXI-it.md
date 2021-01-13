@@ -26,4 +26,4 @@ Puoi trovare [Honeywell HO-5500RE4 Ventilatore a Torre](https://www.amazon.it/dp
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B001AO0OXI/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B001AO0OXI/?tag=tolees00-21)

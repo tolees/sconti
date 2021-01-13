@@ -26,4 +26,4 @@ Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Marine Blue  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B007WPOB2O/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B007WPOB2O/?tag=tolees00-21)

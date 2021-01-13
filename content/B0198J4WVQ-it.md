@@ -26,4 +26,4 @@ Puoi trovare [Vans Otw Raglan Maglietta  Bianco  White/Black   X-Small Uomo](htt
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0198J4WVQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0198J4WVQ/?tag=tolees00-21)

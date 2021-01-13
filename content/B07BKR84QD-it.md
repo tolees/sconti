@@ -26,4 +26,4 @@ Puoi trovare [Goodthreads Camicia a Maniche Lunghe in Chambray a Pois Slim Fit U
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BKR84QD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BKR84QD/?tag=tolees00-21)

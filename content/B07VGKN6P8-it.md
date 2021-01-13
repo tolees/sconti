@@ -26,4 +26,4 @@ Puoi trovare [NAPAPIJRI Elli Polo  Blu  Medieval Blue Bb61   Large Uomo](https:/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07VGKN6P8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VGKN6P8/?tag=tolees00-21)

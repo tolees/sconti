@@ -26,4 +26,4 @@ Puoi trovare [Zilong - tappetino antiaderente in Teflon  per griglia del forno e
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DH3MR96/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DH3MR96/?tag=tolees00-21)

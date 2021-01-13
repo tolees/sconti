@@ -26,4 +26,4 @@ Puoi trovare [Panasonic NN-GD38HSSUG Forno a Microonde  1000 W  23 Litri  Nero  
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B074Y8VV6B/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B074Y8VV6B/?tag=tolees00-21)

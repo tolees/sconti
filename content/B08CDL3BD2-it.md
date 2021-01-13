@@ -26,4 +26,4 @@ Puoi trovare [VZATT Go Swing Topless Can Opener  2020 Nuova Apriscatole Manuale 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08CDL3BD2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CDL3BD2/?tag=tolees00-21)

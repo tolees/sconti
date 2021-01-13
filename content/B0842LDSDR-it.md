@@ -26,4 +26,4 @@ Puoi trovare [Spigen PocketBoost Caricabatterie Portatile Power Bank 10000 mAh 1
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0842LDSDR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0842LDSDR/?tag=tolees00-21)

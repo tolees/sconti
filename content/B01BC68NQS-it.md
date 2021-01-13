@@ -26,4 +26,4 @@ Puoi trovare [Lego Star Wars: Il Risveglio della Forza - PlayStation 3](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01BC68NQS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01BC68NQS/?tag=tolees00-21)

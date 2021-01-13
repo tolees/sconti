@@ -26,4 +26,4 @@ Puoi trovare [Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Dress Blues/
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07BN1XGD6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BN1XGD6/?tag=tolees00-21)

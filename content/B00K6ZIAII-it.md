@@ -26,4 +26,4 @@ Puoi trovare [De Longhi Icona Eco 311.BK Macchina da Caffè Espresso Manuale e C
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00K6ZIAII/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00K6ZIAII/?tag=tolees00-21)

@@ -26,4 +26,4 @@ Puoi trovare [Geox D Hiver B  Sandali con Chiusura a T Donna  Marrone  Cognac C6
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SVXXWJ2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SVXXWJ2/?tag=tolees00-21)

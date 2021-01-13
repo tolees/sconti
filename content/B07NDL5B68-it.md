@@ -26,4 +26,4 @@ Puoi trovare [G-STAR RAW CPO Slim Camicia in Jeans  Multicolore  Medium Aged Res
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07NDL5B68/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDL5B68/?tag=tolees00-21)

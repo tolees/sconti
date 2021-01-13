@@ -26,4 +26,4 @@ Puoi trovare [Oral-B SmartSeries Teen Sensi Ultrathin Spazzolino Elettrico Ricar
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07DGK94PD/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DGK94PD/?tag=tolees00-21)

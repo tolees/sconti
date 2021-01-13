@@ -26,4 +26,4 @@ Puoi trovare [Auricolari Bluetooth  Cuffie Bluetooth Senza Fili Wireless Sportiv
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0888BML8X/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0888BML8X/?tag=tolees00-21)

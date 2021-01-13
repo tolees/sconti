@@ -26,4 +26,4 @@ Puoi trovare [Tommy Hilfiger - Orologio da donna  Impermeabile fino a 3 atm  30 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01JLI77L6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01JLI77L6/?tag=tolees00-21)

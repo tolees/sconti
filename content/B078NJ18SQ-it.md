@@ -26,4 +26,4 @@ Puoi trovare [Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Blu  Peacoat Wh
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B078NJ18SQ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078NJ18SQ/?tag=tolees00-21)

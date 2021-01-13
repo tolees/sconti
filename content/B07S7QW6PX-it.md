@@ -26,4 +26,4 @@ Puoi trovare [PUMA Smash V2  Sneakers Unisex-Adulto  Nero Black/Hot Coral Team G
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07S7QW6PX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S7QW6PX/?tag=tolees00-21)

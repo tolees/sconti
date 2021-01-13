@@ -26,4 +26,4 @@ Puoi trovare [Clarks Step Welt Free  Scarpe da Ginnastica Uomo  Verde Kaki  42.5
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MSL3Y6S/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MSL3Y6S/?tag=tolees00-21)

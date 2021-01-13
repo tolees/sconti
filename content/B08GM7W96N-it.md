@@ -26,4 +26,4 @@ Puoi trovare [eXtremeRate Cover Custodia Grip Case Guscio Joystick Scocca Ricamb
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08GM7W96N/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GM7W96N/?tag=tolees00-21)

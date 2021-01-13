@@ -26,4 +26,4 @@ Puoi trovare [Under Armour UA Roland Backpack  Borsa Unisex  Blu  OSFA](https://
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07JKT88ZT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JKT88ZT/?tag=tolees00-21)

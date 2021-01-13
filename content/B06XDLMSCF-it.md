@@ -26,4 +26,4 @@ Puoi trovare [Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri ](https://www.ama
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21)

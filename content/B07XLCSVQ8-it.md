@@ -26,4 +26,4 @@ Puoi trovare [Apple Watch Series 5  GPS + Cellular  44 mm  Cassa in Alluminio 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07XLCSVQ8/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XLCSVQ8/?tag=tolees00-21)

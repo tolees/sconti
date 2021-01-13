@@ -26,4 +26,4 @@ Puoi trovare [JACK & JONES Jjarchie Knit Crew Neck KA Felpa  Blu  Total Eclipse 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07YBCK14Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07YBCK14Y/?tag=tolees00-21)

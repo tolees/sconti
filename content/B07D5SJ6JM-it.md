@@ -26,4 +26,4 @@ Puoi trovare [PUMA Essentials Logo  Pantaloni Compressione Donna  Nero  Cotton B
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D5SJ6JM/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D5SJ6JM/?tag=tolees00-21)

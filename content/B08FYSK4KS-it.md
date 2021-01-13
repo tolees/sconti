@@ -26,4 +26,4 @@ Puoi trovare [NGFF M.2 nVME - Scheda adattatore SSD per MacBook Air  2013-2016 a
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B08FYSK4KS/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FYSK4KS/?tag=tolees00-21)

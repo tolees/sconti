@@ -26,4 +26,4 @@ Puoi trovare [CHOETECH Caricatore Wireless 2 Posti  Caricatore Senza Fili  Qi Ri
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B083W32TSF/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B083W32TSF/?tag=tolees00-21)

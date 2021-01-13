@@ -26,4 +26,4 @@ Puoi trovare [Hazet 9012M Avvitatore Ad Impulso Extra Corto  Multicolore  Attacc
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00J04N8PG/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00J04N8PG/?tag=tolees00-21)

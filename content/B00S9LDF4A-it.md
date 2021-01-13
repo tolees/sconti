@@ -26,4 +26,4 @@ Puoi trovare [Omega 3 A.C. - 120 Perle](https://www.amazon.it/dp/B00S9LDF4A/?tag
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00S9LDF4A/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00S9LDF4A/?tag=tolees00-21)

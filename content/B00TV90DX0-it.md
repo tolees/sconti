@@ -26,4 +26,4 @@ Puoi trovare [Rode RODELink Filmmaker Kit con Ricevitore RX-CAM  Trasmettitore T
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B00TV90DX0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00TV90DX0/?tag=tolees00-21)

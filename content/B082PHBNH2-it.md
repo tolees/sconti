@@ -26,4 +26,4 @@ Puoi trovare [Newdora Coperchi in Silicone Estensibile  13 Pezzi  7 Rotondo e 6 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B082PHBNH2/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B082PHBNH2/?tag=tolees00-21)

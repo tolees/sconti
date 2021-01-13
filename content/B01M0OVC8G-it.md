@@ -26,4 +26,4 @@ Puoi trovare [Kenwood KVC7300S Impastatrice Planetaria Chef Titanium SYSTEM PRO 
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B01M0OVC8G/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0OVC8G/?tag=tolees00-21)

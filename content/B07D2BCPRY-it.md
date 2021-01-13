@@ -26,4 +26,4 @@ Puoi trovare [Android 9.0 TV BOX TaNix 2 GB RAM 16 GB ROM Amlogic Quad-Core S905
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B07D2BCPRY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D2BCPRY/?tag=tolees00-21)

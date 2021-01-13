@@ -26,4 +26,4 @@ Puoi trovare [Casio Vintage A158WA-1CR - Orologio da Polso Digitale  Argento](ht
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B000GAYQJ0/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B000GAYQJ0/?tag=tolees00-21)

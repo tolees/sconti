@@ -26,4 +26,4 @@ Puoi trovare [Diesel UMBR-ANDRETHREEPACK  Slip Uomo  Nero  Black/Black/Black E41
 ℹ️:
 
 
-[Acquista qui!!](https://www.amazon.it/dp/B0792HCFDR/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0792HCFDR/?tag=tolees00-21)
