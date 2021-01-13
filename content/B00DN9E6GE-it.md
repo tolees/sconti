@@ -25,8 +25,8 @@ Puoi trovare [Echinaid Estratto Puro - 50 ml](https://www.amazon.it/dp/B00DN9E6G
 
 ℹ️:
 
+- Utile per proteggersi dai disturbi stagionali
 - Integratore a base di estratti fluidi di echinacea purpurea ed angustifolia
 - Per favorire le fisiologiche difese immunitarie
-- Utile per proteggersi dai disturbi stagionali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DN9E6GE/?tag=tolees00-21)
