@@ -25,10 +25,10 @@ average: '20.48'
 
 ℹ️:
 
+- Includes: Tinti treasure chest, 23 pieces; a colourful treasure, 2x Tinti bubble bath, 1x Tinti magic bath, 1x Tinti magic cloth, 3x Tinti crackling magic, 2x Tinti bath confetti, 12x Tinti bath colour (mixed), 1x Tinti puzzle painting fun book and another Tinti surprise. - -
+- The products are very skin-friendly - natural ingredients care for the delicate skin of children.
 - Does not stain the skin or tub.
 - Treasure chest with 23 attractive Tinti products that make childrens eyes light up.
 - Tinti brings colourful fun to the bathroom, with bath colour, crackling magic, bathing confetti and many other Tinti products and a surprise.
-- The products are very skin-friendly - natural ingredients care for the delicate skin of children.
-- Includes: Tinti treasure chest, 23 pieces; a colourful treasure, 2x Tinti bubble bath, 1x Tinti magic bath, 1x Tinti magic cloth, 3x Tinti crackling magic, 2x Tinti bath confetti, 12x Tinti bath colour (mixed), 1x Tinti puzzle painting fun book and another Tinti surprise. - -
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005EQPKAA/?tag=tolees00-21)
