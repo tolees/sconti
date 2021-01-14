@@ -25,8 +25,8 @@ Puoi trovare [Levi s Original HM Tee Maglietta a Maniche Lunghe  LS Cotton + Pat
 
 ℹ️:
 
+- Non elasticizzato
 - Jersey morbido
 - Piccolo logo Levis ricamato sul petto
-- Non elasticizzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K72XMS4/?tag=tolees00-21)
