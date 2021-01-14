@@ -26,7 +26,7 @@ average: '28.4725'
 ℹ️:
 
 - Core18 hoody
-- Dark blue/white
 - Adidas apparel
+- Dark blue/white
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQGND5/?tag=tolees00-21)
