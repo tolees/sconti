@@ -25,9 +25,9 @@ Puoi trovare [Wink Design  Beaumont  Pouff  Cotone  Grigio](https://www.amazon.i
 
 ℹ️:
 
-- Imbottitura interna in palline di polistirolo
-- Rivestimento 100% cotone di colore grigio
 - Può servire come posti a sedere, sdraio o poggiapiedi, tempo per il tè in famiglia, arredamento del soggiorno
+- Rivestimento 100% cotone di colore grigio
+- Imbottitura interna in palline di polistirolo
 - Dimensioni cm; h.35,5 x L.28 x P.28
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UND1L70/?tag=tolees00-21)
