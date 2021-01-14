@@ -25,10 +25,10 @@ average: '101.25067961165048'
 
 ℹ️:
 
-- Sequential Read/Write speeds up to 3,500/3,300 MB/s respectively. Performance varies based on system hardware and configuration
-- Interface : NVMe (PCIe Gen 3.0 x 4)
 - Available Capacity : Up to 2 TB
-- Form Factor : M.2
 - Designed for tech enthusiasts, hardcore gamers and professionals who need unrivaled performance
+- Interface : NVMe (PCIe Gen 3.0 x 4)
+- Form Factor : M.2
+- Sequential Read/Write speeds up to 3,500/3,300 MB/s respectively. Performance varies based on system hardware and configuration
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MFBLN7K/?tag=tolees00-21)
