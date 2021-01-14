@@ -26,7 +26,7 @@ Puoi trovare [Nespresso Essenza Mini Krups XN110B Macchina per il Caffè  Grigio
 ℹ️:
 
 - Stop manuale
-- Auto-stop
 - Capacità acqua 0,6 l
+- Auto-stop
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XHNK8NP/?tag=tolees00-21)

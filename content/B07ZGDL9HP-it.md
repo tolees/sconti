@@ -26,9 +26,9 @@ average: '74.0'
 ℹ️:
 
 - Modello: DM0DM08462
-- Brand: TOMMY HILFIGER
 - Articolo: GIUBBOTTO
 - Colore: Nero
 - Tipologia: UOMO
+- Brand: TOMMY HILFIGER
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZGDL9HP/?tag=tolees00-21)
