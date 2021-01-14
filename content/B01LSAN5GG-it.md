@@ -25,10 +25,10 @@ average: '3.32'
 
 ℹ️:
 
+- 40 carte
 - Made in Italy
-- Materiale: cartoncino Duplex
 - Formato: 51x103 mm
 - Carte da gioco
-- 40 carte
+- Materiale: cartoncino Duplex
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LSAN5GG/?tag=tolees00-21)
