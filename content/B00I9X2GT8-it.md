@@ -25,10 +25,10 @@ Puoi trovare [Sony DSC-WX350 Fotocamera Digitale Compatta Travel con Sensore CMO
 
 ℹ️:
 
+- Modalità di messa a fuoco automatica: Contrast Detection Auto Focus, Messa a fuoco singola
 - Stabilizzatore immagine
 - Risoluzione massima video: 1920 x 1080 pixel
-- Zoom digitale: 80x
-- Modalità di messa a fuoco automatica: Contrast Detection Auto Focus, Messa a fuoco singola
 - Velocità massima otturatore: 4 s
+- Zoom digitale: 80x
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I9X2GT8/?tag=tolees00-21)
