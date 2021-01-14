@@ -25,10 +25,10 @@ average: '39.9'
 
 ℹ️:
 
-- tomaia in tessuto
-- poliestere Soletta
-- 100% cotone
 - fodera in poliestere
 - design di colore bloccato suola in gomma a contrasto firma sul lato di Tommy Hilfiger logo sul lato di Tommy Hilfiger di branding Lace-up altezza Sole 2. 3 centimetri
+- 100% cotone
+- tomaia in tessuto
+- poliestere Soletta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V3N1VQZ/?tag=tolees00-21)
