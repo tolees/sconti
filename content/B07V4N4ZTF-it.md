@@ -25,10 +25,10 @@ Puoi trovare [Tommy Hilfiger Essential Color Block  Scarpe Stringate da Ginnasti
 
 ℹ️:
 
-- 100% cotone
 - tomaia in tessuto
 - design di colore bloccato suola in gomma a contrasto firma sul lato di Tommy Hilfiger logo sul lato di Tommy Hilfiger di branding Lace-up altezza Sole 2. 3 centimetri
-- poliestere Soletta
 - fodera in poliestere
+- 100% cotone
+- poliestere Soletta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V4N4ZTF/?tag=tolees00-21)

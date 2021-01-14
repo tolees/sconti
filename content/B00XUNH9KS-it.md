@@ -25,10 +25,10 @@ average: '8.67'
 
 ℹ️:
 
+- Tostato e miscelato utilizzando la tecnologia più moderna
 - Aroma 5/6, Corpo 6/6, Torrefazione 5/6, Intensità 10/12
 - Soddisfa le esigenze di un vero espresso nella tradizione del sud Italia - corposo, forte e pieno di aroma.
 - Una miscela classica 80% Arabica / 20% Robusta. Livello di intensità 10/12
 - Questo espresso medio tostato è una miscela uniforme di intensità, ricchezza, dolcezza e struttura.
-- Tostato e miscelato utilizzando la tecnologia più moderna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUNH9KS/?tag=tolees00-21)
