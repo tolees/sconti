@@ -25,8 +25,8 @@ Puoi trovare [Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Cabernet/Pew
 
 ℹ️:
 
-- Fodera: tessuto
 - Materiale suola: gomma
+- Fodera: tessuto
 - Materiale esterno: pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079KK56DK/?tag=tolees00-21)
