@@ -25,7 +25,7 @@ average: '46.74'
 
 ℹ️:
 
-- 80%lana 20%poliammide
 - Maglia girocollo misto lana trecce
+- 80%lana 20%poliammide
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082XN3K3N/?tag=tolees00-21)

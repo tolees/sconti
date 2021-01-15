@@ -25,9 +25,9 @@ Puoi trovare [Magneti Marelli 714000028301 Fanale Posteriore Destro](https://www
 
 ℹ️:
 
+- Retromarcia / Retronebbia
+- Fabbricato da Magneti Marelli
 - Fanale posteriore
 - Lato destro passeggero
-- Fabbricato da Magneti Marelli
-- Retromarcia / Retronebbia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0068LF8QG/?tag=tolees00-21)

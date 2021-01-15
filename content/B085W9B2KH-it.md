@@ -25,9 +25,9 @@ Puoi trovare [Xiaomi Redmi Note 9S 128 + 6 Gb  Grey](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- Sistema operativo miui 11
 - Batteria da 5020 mAh; 18w fast charging
 - Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
+- Sistema operativo miui 11
 - Frequenza fino a 2.3 ghz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085W9B2KH/?tag=tolees00-21)

@@ -25,10 +25,10 @@ average: '12.0'
 
 ℹ️:
 
-- 80% di calorie in meno (rispetto ai valori medi delle confetture Hero), Senza glutine, Vegano
-- Per gli amanti dei frutti di bosco, questa frutto è ricco di polifenoli, che hanno prorprietà antiossidanti
 - Non contiene zuccheri aggiunti, ma solo quelli naturalmente presenti nella frutta
-- Ideale per chi è attento alla linea e al benessere, ma non vuole rinunciare al gusto e alla qualità
 - Scopri tutto il sapore della Confettura Hero Light ai Frutti di Bosco con solo 7 calorie a porzione che puoi goderti quando vuoi
+- 80% di calorie in meno (rispetto ai valori medi delle confetture Hero), Senza glutine, Vegano
+- Ideale per chi è attento alla linea e al benessere, ma non vuole rinunciare al gusto e alla qualità
+- Per gli amanti dei frutti di bosco, questa frutto è ricco di polifenoli, che hanno prorprietà antiossidanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075FFYGXN/?tag=tolees00-21)

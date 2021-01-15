@@ -25,7 +25,7 @@ Puoi trovare [United Colors of Benetton 1244U1J92 Maglione  Blu 016  M Uomo](htt
 
 ℹ️:
 
-- Maglia girocollo misto lana trecce
 - 80%lana 20%poliammide
+- Maglia girocollo misto lana trecce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082XMRCT8/?tag=tolees00-21)

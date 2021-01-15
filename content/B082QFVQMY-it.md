@@ -25,8 +25,8 @@ Puoi trovare [adidas Duramo SL  Scarpe da Corsa Uomo  Core Black/Ftwr White/Grey
 
 ℹ️:
 
+- Intersuola con ammortizzazione reattiva
 - Scarpe da running
 - Tomaia in mesh traspirante
-- Intersuola con ammortizzazione reattiva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082QFVQMY/?tag=tolees00-21)
