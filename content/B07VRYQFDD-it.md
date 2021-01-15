@@ -25,7 +25,7 @@ average: '19.0'
 
 ℹ️:
 
-- Maggiori informazioni su Tommy Hilfiger / Tommy Jeans sono disponibili nella descrizione del prodotto.
 - Tommy Jeans Donna S/S T-shirt
+- Maggiori informazioni su Tommy Hilfiger / Tommy Jeans sono disponibili nella descrizione del prodotto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VRYQFDD/?tag=tolees00-21)

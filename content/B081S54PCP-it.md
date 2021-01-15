@@ -25,12 +25,12 @@ Puoi trovare [Marchio Amazon - Happy Belly - Assortimento di creme da spalmare  
 
 ℹ️:
 
-- Prodotto in Belgio con latte, nocciole e cacao da più di un paese
-- Un assortimento di creme da spalmare: nocciole e cacao; latte, cacao e nocciole
 - Questo prodotto supporta la coltivazione sostenibile del cacao e delle nocciole. Il cacao e le nocciole certificati UTZ vengono coltivati nel rispetto delluomo e dellambiente
-- Confezione da 2: 2 x 800g
-- Adatto per una dieta vegetariana
-- Contiene olio di semi di girasole
 - Non adatto per gli allergici ad altra frutta a guscio e alla soia a causa dei metodi di fabbricazione
+- Contiene olio di semi di girasole
+- Un assortimento di creme da spalmare: nocciole e cacao; latte, cacao e nocciole
+- Confezione da 2: 2 x 800g
+- Prodotto in Belgio con latte, nocciole e cacao da più di un paese
+- Adatto per una dieta vegetariana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081S54PCP/?tag=tolees00-21)

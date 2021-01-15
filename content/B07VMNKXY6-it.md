@@ -25,8 +25,8 @@ Puoi trovare [Tommy Jeans Tjw Logo Ringer Tee T-Shirt  Blu  Twilight Navy C   42
 
 ℹ️:
 
-- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
-- Tommy Jeans Donna S/S T-shirt
 - Prodotto originale e autentico Tommy Hilfiger/Tommy Jeans.
+- Tommy Jeans Donna S/S T-shirt
+- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VMNKXY6/?tag=tolees00-21)

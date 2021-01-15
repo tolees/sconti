@@ -25,11 +25,11 @@ average: '619.0'
 
 ℹ️:
 
-- La piastra di lavaggio che utilizza vibrazioni ad alta frequenza (OZMO Pro) rimuove anche le macchie più ostinate permettendo una pulizia della tua casa ancora più profonda e professionale.
-- Tramite l’app ECOVACS Home è possibile disegnare direttamente sulla mappa delle barriere virtuali per dare priorità alle stanze o indicare delle zone da evitare – il robot pulisce solo dove necessario, seguendo l’ordine desiderato dall’utente.
 - Il sistema di stream video live on demand permette di controllare il processo di pulizia con precisione, interagire con DEEBOT e dare uno sguardo a casa ovunque ci si trovi.
 - Numerosi ostacoli possono essere rilevati ed evitati in modo affidabile e due volte più velocemente rispetto ai precedenti modelli
 - Valore del rumore (dBA ) ≤67
+- Tramite l’app ECOVACS Home è possibile disegnare direttamente sulla mappa delle barriere virtuali per dare priorità alle stanze o indicare delle zone da evitare – il robot pulisce solo dove necessario, seguendo l’ordine desiderato dall’utente.
+- La piastra di lavaggio che utilizza vibrazioni ad alta frequenza (OZMO Pro) rimuove anche le macchie più ostinate permettendo una pulizia della tua casa ancora più profonda e professionale.
 - Un nuovo sistema di navigazione con sensore laser DtoF (TrueMapping) assicura scansione, mappatura e pianificazione della pulizia più veloci e accurate
 - Il robot aspirapolvere e lavapavimenti ad alte prestazioni dotato di intelligenza artificiale, innovativa tecnologia di navigazione (TrueMapping) e funzione di lavaggio in profondità
 
