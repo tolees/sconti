@@ -25,8 +25,8 @@ Puoi trovare [Nike Air Max Invigor U  Scarpe da Corsa Uomo  Nero  Nero-antracite
 
 ℹ️:
 
-- Taglia - 42
-- Ref - 749680-001
 - Marca - Nike
+- Ref - 749680-001
+- Taglia - 42
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005AOPX0I/?tag=tolees00-21)
