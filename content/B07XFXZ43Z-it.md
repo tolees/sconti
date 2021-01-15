@@ -25,13 +25,13 @@ average: '67.6869230769231'
 
 ℹ️:
 
-- Il droide D-O costruibile è alto 27 cm, largo 10 cm e ha una profondità di 16 cm, non occupa troppo spazio ma susciterà lammirazione di tutti gli amici a casa come in ufficio
-- Viene fornito con un espositore, oltre a un cartello informativo e una minifigure D-O per la gioia dei collezionisti
-- Il modello presenta antenne orientabili e la testa si inclina e ruota di 360 gradi proprio come il personaggio di Star Wars
-- Questo fantastico giocattolo costruibile di droidi LEGO Star Wars da 519 pezzi è un ottimo divertimento per i fan creativi di Star Wars dai 10 anni in su
-- Rappresenta unottimo regalo di compleanno, di Natale o sorpresa per unoccasione speciale
-- I fan possono costruire il proprio modello da collezione del droide D-O del film di Star Wars: Lascesa di Skywalker
 - Questo droide D-O fa parte di una fantastica gamma di modelli da costruire ed esporre LEGO Star Wars
 - Riproduce dettagli autentici in stile LEGO per creare un fantastico pezzo da costruire ed esporre
+- Questo fantastico giocattolo costruibile di droidi LEGO Star Wars da 519 pezzi è un ottimo divertimento per i fan creativi di Star Wars dai 10 anni in su
+- Viene fornito con un espositore, oltre a un cartello informativo e una minifigure D-O per la gioia dei collezionisti
+- Il modello presenta antenne orientabili e la testa si inclina e ruota di 360 gradi proprio come il personaggio di Star Wars
+- Il droide D-O costruibile è alto 27 cm, largo 10 cm e ha una profondità di 16 cm, non occupa troppo spazio ma susciterà lammirazione di tutti gli amici a casa come in ufficio
+- Rappresenta unottimo regalo di compleanno, di Natale o sorpresa per unoccasione speciale
+- I fan possono costruire il proprio modello da collezione del droide D-O del film di Star Wars: Lascesa di Skywalker
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XFXZ43Z/?tag=tolees00-21)

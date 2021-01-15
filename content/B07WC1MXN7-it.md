@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 38.40 % su ECOVACS Robotics DEEBOT OZMO 950 Robot A  '
-date: 2021-01-14 08:38:48
+date: 2021-01-15 13:44:29
 image: 'https://m.media-amazon.com/images/I/41Cd9T1YKoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ average: '369.0'
 
 ℹ️:
 
-- Con la navigazione laser smart navi 3.0, laspirapolvere robot crea una mappa interattiva dellambiente in modo da programmare la pulizia più efficiente
+- Pulizia, aspirazione e pulizia in un unico passaggio: con la tecnologia di lavaggio OZMO
 - Tramite lapp ecovacs è possibile utilizzare il telefono cellulare per tracciare i limiti virtuali, per prioritizzare o bloccare le aree
+- Programmazione oraria giornaliera specifica per area
 - Superficie coperta: pavimento duro tappeto
 - Dispone di tre modalità di aspirazione: così potrai regolare la potenza di aspirazione a ogni tipo di sporco e pavimento
-- Programmazione oraria giornaliera specifica per area
-- Pulizia, aspirazione e pulizia in un unico passaggio: con la tecnologia di lavaggio OZMO
+- Con la navigazione laser smart navi 3.0, laspirapolvere robot crea una mappa interattiva dellambiente in modo da programmare la pulizia più efficiente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WC1MXN7/?tag=tolees00-21)

@@ -25,10 +25,10 @@ average: '18.99'
 
 ℹ️:
 
-- Il processo di installazione richiede al cliente un’sperienza di modifica elettronica. Si può ottenere il video tutorial di installazione su YouTube cercando "ExtremeRate Switch Joycon New Horizon Style" o "o8QPB2uTbHk". Guarda il video a metà velocità. Ti consigliamo di guardare, mettere in pausa, fare e ripetere
-- Il colore rosso passione è bello;Ottima presa liscia, morbida nella mano e si sente serica; Antiscivolo, senza sudore per un lungo periodo di gioco
 - La confezione include le scocche di ricambio per Nintendo Switch Joy-Con(nessuna parte elettronica inclusa), pulsanti colorati, set di cacciaviti PH00, Y00 e viti di ricambio. Si prega di notare che linstallazione di questa cover invaliderà la garanzia dello Switch
 - Scocca di ricambio unica per aggiungere più personalità al tuo Switch, non più noioso colore grigio standard.
+- Il colore rosso passione è bello;Ottima presa liscia, morbida nella mano e si sente serica; Antiscivolo, senza sudore per un lungo periodo di gioco
 - Cover sostitutiva progettata appositamente per adattarsi perfettamente a Nintendo Switch Joycon. Taglio di precisione per funzionare esattamente come il guscio originale
+- Il processo di installazione richiede al cliente un’sperienza di modifica elettronica. Si può ottenere il video tutorial di installazione su YouTube cercando "ExtremeRate Switch Joycon New Horizon Style" o "o8QPB2uTbHk". Guarda il video a metà velocità. Ti consigliamo di guardare, mettere in pausa, fare e ripetere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RJFH95B/?tag=tolees00-21)

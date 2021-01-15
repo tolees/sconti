@@ -25,10 +25,10 @@ average: '12.99'
 
 ℹ️:
 
-- La confezione include: 1 * pulsanti RT / LT / RB / LB; 1 * pulsanti di azione ABXY; 1 * D-pad; 1 * pulsanti Start / Back / Sync; 1 * barra centrale; 1 * pulsante share dedicato; 1 * attrezzo per apertura; 2 * cacciaviti; 17 * viti di ricambio. (Importante: controller, shell e altre parti non sono inclusi.)
-- Compatibile con Xbox Series X e Xbox Series S controller; Non compatibile con altri Xbox One controller. Verificare il modello del tuo controller secondo la nostra seconda immagine
 - Pulsanti sostitutivi progettati su misura per Xbox Series X / S controller. Taglio di precisione per funzionare esattamente come i pulsanti originali
 - Il colore trasparente è bello; Sarebbe fantastico se lo combinassi con la nostra cover per Xbox Series X/S controller
+- La confezione include: 1 * pulsanti RT / LT / RB / LB; 1 * pulsanti di azione ABXY; 1 * D-pad; 1 * pulsanti Start / Back / Sync; 1 * barra centrale; 1 * pulsante share dedicato; 1 * attrezzo per apertura; 2 * cacciaviti; 17 * viti di ricambio. (Importante: controller, shell e altre parti non sono inclusi.)
 - I clienti devono smontare il controller per installare i pulsanti; Richiede esperienza di modifica elettronica; Si può ottenere il video tutorial di installazione cercando “eXtremeRate Buttons for Xbox Series X” o “kjIIxrSEzlc” su Youtube
+- Compatibile con Xbox Series X e Xbox Series S controller; Non compatibile con altri Xbox One controller. Verificare il modello del tuo controller secondo la nostra seconda immagine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08S7G1ZRB/?tag=tolees00-21)
