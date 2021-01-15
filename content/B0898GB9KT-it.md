@@ -25,8 +25,8 @@ average: '14.44'
 
 ℹ️:
 
-- Nuovo
 - Mccartney
+- Nuovo
 - Paul
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0898GB9KT/?tag=tolees00-21)
