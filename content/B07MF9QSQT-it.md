@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.77 % su Sony HT-S350 Soundbar 2.1 Canali con Sub  '
-date: 2021-01-11 17:04:02
+date: 2021-01-15 17:32:36
 image: 'https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21'
 descuento: '30.77'
-average: '170.66025641025638'
+average: '171.1153658536585'
 ---
 
 [Sony HT-S350 Soundbar 2.1 Canali con Subwoofer Wireless  Bluetooth  Nero](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21) ha un prezzo di 179.99 EUR (originale: 260.0 EUR) con uno sconto del 30.77 % sconto qui:
@@ -25,11 +25,11 @@ average: '170.66025641025638'
 
 ℹ️:
 
-- Potenza totale di 320 W e profondo suono surround, forti bassi grazie al suo subwoofer wireless
-- Si collega in un batter docchio a una serie di televisori; design elegante che si abbina con qualsiasi stile di aredamento; la barra puó essere montata direttamente sulla parete
+- Audio surround avvolgente dai dettagli accurati grazie alle esclusive tencologie Sony S-Force PRO Front Surround e 5.1ch Decode
 - Scopri un sound coinvolgente con S-Force PRO Front Surround
 - Ascolto della musica immediato tramite il tuo device mobile via Bluetooth
-- Audio surround avvolgente dai dettagli accurati grazie alle esclusive tencologie Sony S-Force PRO Front Surround e 5.1ch Decode
+- Potenza totale di 320 W e profondo suono surround, forti bassi grazie al suo subwoofer wireless
+- Si collega in un batter docchio a una serie di televisori; design elegante che si abbina con qualsiasi stile di aredamento; la barra puó essere montata direttamente sulla parete
 - Terminale di uscita e ingresso: USB tipo A solo per aggiornamenti; Bluetooth RX ricevitore; versione 5 Bluetooth
 
-[Acquista qui!!](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21)

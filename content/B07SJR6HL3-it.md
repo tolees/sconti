@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'sconto del 28.58 % su Cuffie Bluetooth Soundcore Life P2  auri  '
-date: 2021-01-08 07:41:00
-image: 'https://m.media-amazon.com/images/I/31I04g6j5GL._SL200_.jpg'
+title: 'sconto del 42.86 % su Cuffie Bluetooth Soundcore Life P2  auri  '
+date: 2021-01-15 17:32:23
+image: 'https://m.media-amazon.com/images/I/31tSaQKt3bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07SJR6HL3-it'
-actualPrice: 49.99 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 49.99
+price: 39.99
 comparePrice: 69.99 EUR
 prodname: 'Cuffie Bluetooth Soundcore Life P2  auricolari bluetooth con 4 microfoni  40 ore di riproduzione  IPX7  riduzione dei rumori cVc 8.0  driver in grafene  cuffie wireless per lavoro e viaggio'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SJR6HL3/?tag=tolees00-21'
-descuento: '28.58'
-average: '49.99'
+descuento: '42.86'
+average: '49.24925925925926'
 ---
 
-[Cuffie Bluetooth Soundcore Life P2  auricolari bluetooth con 4 microfoni  40 ore di riproduzione  IPX7  riduzione dei rumori cVc 8.0  driver in grafene  cuffie wireless per lavoro e viaggio](https://www.amazon.it/dp/B07SJR6HL3/?tag=tolees00-21) ha un prezzo di 49.99 EUR (originale: 69.99 EUR) con uno sconto del 28.58 % sconto qui:
+[Cuffie Bluetooth Soundcore Life P2  auricolari bluetooth con 4 microfoni  40 ore di riproduzione  IPX7  riduzione dei rumori cVc 8.0  driver in grafene  cuffie wireless per lavoro e viaggio](https://www.amazon.it/dp/B07SJR6HL3/?tag=tolees00-21) ha un prezzo di 39.99 EUR (originale: 69.99 EUR) con uno sconto del 42.86 % sconto qui:
 
-[![Cuffie Bluetooth Soundcore Life P2  auri](https://m.media-amazon.com/images/I/31I04g6j5GL._SL200_.jpg)](https://www.amazon.it/dp/B07SJR6HL3/?tag=tolees00-21)
+[![Cuffie Bluetooth Soundcore Life P2  auri](https://m.media-amazon.com/images/I/31tSaQKt3bL._SL200_.jpg)](https://www.amazon.it/dp/B07SJR6HL3/?tag=tolees00-21)
 
 ℹ️:
 
-- One-Step Pairing: Our proprietary PUSH AND GO technology streamlines the setup process so when you remove the wireless earbuds from the charging case, theyâ€ll automatically connect to the last paired device.
-- 40-Hour Playtime with Fast Charge: A single charge gives you a full 7 hours of listening, while the charging case extends that to 40 hours. When youâ€re in a rush and need power fast, simply charge for 10 minutes and get up to 1 hour of playtime.
-- IPX7 Waterproof: Life P2 wireless earbuds boast IPX7-rated protection that defends against liquids in any weather conditions.
-- Perfect for Home Offices: Each earbud has two microphones with beamforming noise reduction and cVc 8.0 technology for superior vocal enhancement and background-noise suppression.
-- Incredible Sound Powered By Graphene Drivers: Delivers music with a wider soundstage and exceptional accuracy and clarity. BassUp technology enhances bass by up to 43% and aptX audio offers lossless transmission between your device and the wireless earbuds.
+- FINO A 40 ORE DI RIPRODUZIONE: una sola ricarica ti assicura 7 ore intere di ascolto, ulteriormente estensibili a 40 ore utilizzando l’apposita custodia di ricarica. Ricarica gli auricolari per 10 minuti e ascolta la musica per un’ora.
+- IMPERMEABILITÀ IPX7 TOTALE: l’involucro completamente impermeabile ti permette di continuare la conversazione e l’esecuzione della musica, anche se vieni colto di sorpresa da un acquazzone.
+- ASSOCIAZIONE IN UN SOLO PASSAGGIO: la tecnologia PUSH AND GO semplifica il processo di configurazione in modo che alla rimozione degli auricolari wireless dalla custodia di ricarica, questi si colleghino automaticamente all’ultimo dispositivo associato.
+- CHIAMATE DAL SUONO CRISTALLINO: i quattro microfoni caratterizzati dalla nuova tecnologia di riduzione del rumore cVc 8.0 enfatizzano la voce, riducendo al contempo i rumori di fondo.
+- SUONO INCREDIBILE: I driver oscillano con estrema precisione per offrire uno spettro sonoro più ampio. I bassi sono ulteriormente potenziati fino al 43% grazie all’esclusiva tecnologia proprietaria BassUp.
 
-[Acquista qui!!](https://www.amazon.it/dp/B07SJR6HL3/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SJR6HL3/?tag=tolees00-21)
