@@ -25,7 +25,7 @@ Puoi trovare [Viva I Romantici](https://www.amazon.it/dp/B004KLLIIS/?tag=tolees0
 
 ℹ️:
 
-- 8033954531360
 - ULTRASUONI
+- 8033954531360
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004KLLIIS/?tag=tolees00-21)

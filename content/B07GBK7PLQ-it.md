@@ -26,7 +26,7 @@ average: '44.019090909090906'
 ℹ️:
 
 - A luminous coating provides long-term illumination in the dark after only a short exposure to light
-- The tough mineral glass resists scratching
 - The current date is shown on the display
+- The tough mineral glass resists scratching
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GBK7PLQ/?tag=tolees00-21)
