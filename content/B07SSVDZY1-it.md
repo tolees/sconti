@@ -25,8 +25,8 @@ average: '34.56'
 
 ℹ️:
 
+- Non funzionano sulla macchina modello MAIA S33 e LUNA S32 di Caffitaly
 - Miscela caffè Cremoso
 - Compatibile Caffitaly  
-- Non funzionano sulla macchina modello MAIA S33 e LUNA S32 di Caffitaly
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SSVDZY1/?tag=tolees00-21)
