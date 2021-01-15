@@ -25,9 +25,9 @@ average: '6.47'
 
 ℹ️:
 
-- Perfetto per chi ha appena iniziato.
-- 35 biglietti per confezione.
-- carta rara o mitica assicurata!
 - Numero di modello: C63530000.
+- carta rara o mitica assicurata!
+- 35 biglietti per confezione.
+- Perfetto per chi ha appena iniziato.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SFX4G19/?tag=tolees00-21)

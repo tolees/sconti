@@ -25,11 +25,11 @@ average: '10.99'
 
 ℹ️:
 
+- cappello alla moda
+- unisex
 - Cappello invernale fatto di maglieria
 - Levis Otis Beanie
-- cappello alla moda
 - Levis Otis Beanie
 - tappo caldo
-- unisex
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007EDO27S/?tag=tolees00-21)

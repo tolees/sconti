@@ -25,10 +25,10 @@ average: '162.0'
 
 ℹ️:
 
+- Orologio al quarzo
 - Impermeabile fino a 3 atm o 30 m
 - Fermaglio con chiusura a fibbia
-- Cinturino in pelle
 - Slim case
-- Orologio al quarzo
+- Cinturino in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0769ZFWB5/?tag=tolees00-21)

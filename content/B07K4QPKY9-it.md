@@ -25,8 +25,8 @@ average: '16.8'
 
 ℹ️:
 
-- Logo PURO realizzato in microfibra
 - Plastica semirigida con superficie ad effetto "soft touch"
+- Logo PURO realizzato in microfibra
 - La serie "Icon" consente di esprimere al meglio il proprio stile, grazie a unampia scelta di colori vivaci.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K4QPKY9/?tag=tolees00-21)
