@@ -27,9 +27,9 @@ Puoi trovare [Hasbro Twister Gioco in Scatola Hasbro Gaming - versione 2020 in I
 
 - Il Gioco Twister sfida i bambini: Il gioco Twister sfida i giocatori a mettere mani e piedi sul tappeto in diverse posizioni senza cadere
 - Divertentissimo gioco per feste: I giocatori da 6 anni in su si divertiranno tantissimo cercando di tenere mani e piedi sul tappeto. È un gioco divertente e attivo perfetto per feste e momenti in famiglia
+- Versione Italiana
 - Gioco Twister: Ricordi quando giocavi a twister da bambino? Proprio come nel Twister classico, in questo gioco per bambini da 6 anni in su l’ultimo giocatore che rimane in piedi vince
 - Gioca in squadra: Le istruzioni del gioco Twister includono le regole per Giocare a squadre e i consigli per svolgere un torneo di Twister.
 - Attività da interno per bambini: Quando i bambini hanno bisogno di un’attività da interno per sfogarsi, questo Twister classico rappresenta un’ottima scelta
-- Versione Italiana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082WV8TCZ/?tag=tolees00-21)

@@ -25,7 +25,7 @@ average: '45.56407407407407'
 
 ℹ️:
 
-- adult
 - White
+- adult
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21)

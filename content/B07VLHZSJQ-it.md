@@ -26,7 +26,7 @@ average: '19.0'
 ℹ️:
 
 - Tommy Jeans Donna S/S T-shirt
-- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 - Prodotto originale e autentico Tommy Hilfiger/Tommy Jeans
+- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VLHZSJQ/?tag=tolees00-21)
