@@ -25,9 +25,9 @@ Puoi trovare [Cullmann Alpha 15 Mini Treppiede  Grigio](https://www.amazon.it/dp
 
 ℹ️:
 
-- Gambe telescopiche per montaggio rapido
-- Treppiede compatto compreso di testa a sfera con vite per la macchina fotografica da 1/4 "
 - Gambe realizzate in alluminio con piedini in gomma antiscivolo
 - Contenuto della confezione: treppiede
+- Treppiede compatto compreso di testa a sfera con vite per la macchina fotografica da 1/4 "
+- Gambe telescopiche per montaggio rapido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003Y3BDF6/?tag=tolees00-21)
