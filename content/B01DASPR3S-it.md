@@ -25,9 +25,9 @@ average: '47.68'
 
 ℹ️:
 
-- Zebra qualità professionale di Würth
 - Lama: mattverchr cromato
-- Cacciavite con lama esagonale e chiave assistenza
 - La gaengisten cacciavite nel set
+- Cacciavite con lama esagonale e chiave assistenza
+- Zebra qualità professionale di Würth
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DASPR3S/?tag=tolees00-21)

@@ -26,7 +26,7 @@ Puoi trovare [Levi s Graphic Tee B Maglietta a Maniche Lunghe  HM LS Better Blac
 ℹ️:
 
 - Indossa il nostro classico capo a maniche lunghe con un taglio standard
-- Intramontabile logo Levis stampato
 - Materiale non elasticizzato
+- Intramontabile logo Levis stampato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076YCSZN8/?tag=tolees00-21)
