@@ -26,9 +26,9 @@ average: '43.0'
 ℹ️:
 
 - Equipaggiamento: tasca cellulare, tasca esterna, tasca interna
+- Tipo di chiusura: cerniera lampo
+- Misure esterne (L x L x A): 16.5cm x 7cm x 20cm
 - Serie: City
 - Capacità in L. ca.: 0-10
-- Misure esterne (L x L x A): 16.5cm x 7cm x 20cm
-- Tipo di chiusura: cerniera lampo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NADWR3R/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Puoi trovare [Prosciutto Spagnolo Serrano  Spalla  Riserva Duroc + Porta Prosciu
 
 ℹ️:
 
-- ★ Si tratta di un prodotto ottenuto dai migliori pezzi di carne suina selezionati per ottenere un prodotto naturale al 100% dopo il processo di salatura e stagionatura, ottenendo così il miglior aroma e gusto. Ha un colore caratteristico che cambia dal rosa al rosso porpora nella parte magra, oltre allaspetto brillante del grasso. Ha anche un gusto delicato ma salato e un aroma piacevole e caratteristico.
 - ★ Questo prodotto deve il nome serrano allusanza di stagionare il prosciutto nella Sierra (la montagna), dove le basse temperature facilitano la stagionatura. Questo gustoso prosciutto Serrano è fatto con ottima materia prima, grandi prosciutti con grasso interno, un po di sale mediterraneo e una lenta stagionatura allaria aperta nelle alte montagne della Spagna, dove laria fresca e secca produce una magnifica cura tradizionale.
-- ★ Tempo di stagionatura: almeno 9 mesi.
-- ★ Conservare in luogo fresco e asciutto, al riparo dalla luce del sole. Una volta aperto, si consiglia di consumare entro 1 mese.
 - ★ Presentazione: prosciutto intero, con osso, pelle e zoccolo. Scatola di cartone per un transito sicuro.
+- ★ Tempo di stagionatura: almeno 9 mesi.
+- ★ Si tratta di un prodotto ottenuto dai migliori pezzi di carne suina selezionati per ottenere un prodotto naturale al 100% dopo il processo di salatura e stagionatura, ottenendo così il miglior aroma e gusto. Ha un colore caratteristico che cambia dal rosa al rosso porpora nella parte magra, oltre allaspetto brillante del grasso. Ha anche un gusto delicato ma salato e un aroma piacevole e caratteristico.
+- ★ Conservare in luogo fresco e asciutto, al riparo dalla luce del sole. Una volta aperto, si consiglia di consumare entro 1 mese.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088QXHJHM/?tag=tolees00-21)

@@ -25,10 +25,10 @@ average: '34.0'
 
 ℹ️:
 
-- Chiusura a due bottoni
 - Tommy Jeans branding
-- Toppa con bandiera Tommy Jeans sul petto
 - Piquet di cotone organico elasticizzato.
+- Toppa con bandiera Tommy Jeans sul petto
 - Collo polo con punta
+- Chiusura a due bottoni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VVFGBJH/?tag=tolees00-21)

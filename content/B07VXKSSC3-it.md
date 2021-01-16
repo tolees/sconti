@@ -25,10 +25,10 @@ average: '34.0'
 
 ℹ️:
 
-- Piquet di cotone organico elasticizzato.
 - Toppa con bandiera Tommy Jeans sul petto
-- Collo polo con punta
 - Tommy Jeans branding
 - Chiusura a due bottoni
+- Piquet di cotone organico elasticizzato.
+- Collo polo con punta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VXKSSC3/?tag=tolees00-21)
