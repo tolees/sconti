@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 27.54 % su Animal Crossing: New Horizons  '
-date: 2021-01-15 11:44:56
+date: 2021-01-16 17:42:54
 image: 'https://m.media-amazon.com/images/I/51-MpkvqkVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07HTFD1SG/?tag=tolees00-21'
 descuento: '27.54'
-average: '49.88913978494624'
+average: '49.89021276595745'
 ---
 
 [Animal Crossing: New Horizons](https://www.amazon.it/dp/B07HTFD1SG/?tag=tolees00-21) ha un prezzo di 49.99 EUR (originale: 68.99 EUR) con uno sconto del 27.54 % sconto qui:
