@@ -25,7 +25,7 @@ average: '10.99'
 
 ℹ️:
 
-- 90 – HATS – Z1 – Beanie
 - I capi di Superdry sono realizzati con il giusto equilibrio tra stile e comfort. Per una vera esperienza "Superdry", ti suggeriamo di scegliere una taglia grande rispetto a quella che scegli abitualmente
+- 90 – HATS – Z1 – Beanie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086RKT5JG/?tag=tolees00-21)
