@@ -26,9 +26,9 @@ average: '2.9'
 ℹ️:
 
 - Formula - texture leggere a lunga tenuta; tonalità marrone chiaro
-- Live the london look! rimmel london è il makeup dallo stile cool, irriverente, imprevedibile e sempre di tendenza; rimmel non aspira alla perfezione e non vuole intimidire. è come londra: giovane, eclettico, metropolitano e allavanguardia; unespressione senza regole, reale e accessibile
-- Effetti e benefici - sopracciglia ordinate, piene e definite a lungo con un unico prodotto
 - Applicazione - pettinino e pennello angolato in dotazione per modellare le sopracciglia e stendere il prodotto
+- Effetti e benefici - sopracciglia ordinate, piene e definite a lungo con un unico prodotto
+- Live the london look! rimmel london è il makeup dallo stile cool, irriverente, imprevedibile e sempre di tendenza; rimmel non aspira alla perfezione e non vuole intimidire. è come londra: giovane, eclettico, metropolitano e allavanguardia; unespressione senza regole, reale e accessibile
 - Brow this way - palette sopracciglia compatto da borsetta con cera fissativa e polvere colorata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MGK9Q9S/?tag=tolees00-21)
