@@ -25,10 +25,10 @@ Puoi trovare [Dal Negro 10071 - Napoletane Italia Carte da Gioco Regionali  Astu
 
 ℹ️:
 
-- 40 carte
-- Formato: 51x82 mm
-- Carte da gioco
-- Made in Italy
 - Materiale: cartoncino Duplex
+- Carte da gioco
+- 40 carte
+- Made in Italy
+- Formato: 51x82 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01K4NEZPS/?tag=tolees00-21)

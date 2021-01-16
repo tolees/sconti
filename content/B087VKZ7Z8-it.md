@@ -25,10 +25,10 @@ Puoi trovare [Clementoni- Montessori-Imparo a Scrivere-Gioco educativo-Made in I
 
 ℹ️:
 
-- Un kit completo ispirato al metodo montessori per imparare a comporre e scrivere le parole
-- Il gioco propone tre attività: la classica nomenclatura montessoriana, la composizione di parole tramite le lettere in corsivo e la scrittura vera e propria sulla lavagna
-- Il bambino potrà divertirsi ad abbinare alle immagini dei soggetti il nome corrispondente, ricostruire la parola con le letterine di cartone e poi provare a riscriverla sulla lavagna
 - Contiene: tessere in cartone con lettere in corsivo, tessere illustrate con soggetti, cartellini con i nomi dei soggetti e una lavagna-compositoio per scrivere le parole con il pennarello cancellabile
+- Il gioco propone tre attività: la classica nomenclatura montessoriana, la composizione di parole tramite le lettere in corsivo e la scrittura vera e propria sulla lavagna
+- Un kit completo ispirato al metodo montessori per imparare a comporre e scrivere le parole
 - Età consigliata: + 3 anni. made in italy
+- Il bambino potrà divertirsi ad abbinare alle immagini dei soggetti il nome corrispondente, ricostruire la parola con le letterine di cartone e poi provare a riscriverla sulla lavagna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087VKZ7Z8/?tag=tolees00-21)

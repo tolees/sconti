@@ -25,8 +25,8 @@ Puoi trovare [Tommy Hilfiger New Aly Belt Cintura  Nero  Black 090   90 Uomo](ht
 
 ℹ️:
 
-- Bandierina Tommy Hilfiger sulla fibbia
 - Larghezza: 3.5 cm
+- Bandierina Tommy Hilfiger sulla fibbia
 - Fibbia argentata e squadrata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018LLLUTO/?tag=tolees00-21)
