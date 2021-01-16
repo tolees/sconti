@@ -1,36 +1,36 @@
 ---
 layout: post
-title: 'Xiaomi Redmi Note 8t Mooshadow Grey 6 3" al 21.75 % di sconto'
-date: 2021-01-10 15:12:05
+title: 'Xiaomi Redmi Note 8t Mooshadow Grey 6 3" al 22.18 % di sconto'
+date: 2021-01-15 23:43:45
 image: 'https://m.media-amazon.com/images/I/41xVVtLJC5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHFYXP6-it'
-actualPrice: 179.9 EUR
+actualPrice: 178.9 EUR
 currency: EUR
-price: 179.9
+price: 178.9
 comparePrice: 229.9 EUR
 prodname: 'Xiaomi Redmi Note 8t Mooshadow Grey 6 3" 4gb/64gb Dual Sim'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21'
-descuento: '21.75'
-average: '160.76163265306118'
+descuento: '22.18'
+average: '161.12439999999995'
 ---
 
-Puoi trovare [Xiaomi Redmi Note 8t Mooshadow Grey 6 3" 4gb/64gb Dual Sim](https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21) con il prezzo 179.9 EUR (originale: 229.9 EUR) 21.75 % sconto qui:
+Puoi trovare [Xiaomi Redmi Note 8t Mooshadow Grey 6 3" 4gb/64gb Dual Sim](https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21) con il prezzo 178.9 EUR (originale: 229.9 EUR) 22.18 % sconto qui:
 
 [![Xiaomi Redmi Note 8t Mooshadow Grey 6 3"](https://m.media-amazon.com/images/I/41xVVtLJC5L._SL200_.jpg)](https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21)
 
 ℹ️:
 
-- Processore octa-core qualcomm snapdragon 665 frequenza: fino a 2.0ghz
-- Fotocamera ultra grandangolare da 8mp
 - Camera macro da 2mp
 - Risoluzione: 2340 x 1080 fhd+ 19.5:9
 - Camera di profondità da 2mp
-- Scheda grafica adreno 610
 - Quad camera da 48mp per ogni tipo di scatto
+- Fotocamera ultra grandangolare da 8mp
+- Scheda grafica adreno 610
+- Processore octa-core qualcomm snapdragon 665 frequenza: fino a 2.0ghz
 
-[Acquista qui!!](https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZHFYXP6/?tag=tolees00-21)
