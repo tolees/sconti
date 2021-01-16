@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.02 % su Sony KD75XH8096PBAEP  Android Tv 75 Poll  '
-date: 2021-01-15 17:53:32
+date: 2021-01-16 18:01:36
 image: 'https://m.media-amazon.com/images/I/51pKV98Y0YL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0845KCP5R/?tag=tolees00-21'
 descuento: '40.02'
-average: '1530.3548387096776'
+average: '1510.2727272727275'
 ---
 
 [Sony KD75XH8096PBAEP  Android Tv 75 Pollici  Smart Tv 4K Hdr Led Ultra Hd  con Assistenti Vocali Integrati  Nero  Modello 2020 ](https://www.amazon.it/dp/B0845KCP5R/?tag=tolees00-21) ha un prezzo di 1199.0 EUR (originale: 1999.0 EUR) con uno sconto del 40.02 % sconto qui:
@@ -25,10 +25,10 @@ average: '1530.3548387096776'
 
 ℹ️:
 
-- Processore 4k x-reality pro: ogni immagine viene analizzata in tempo reale per migliorarne nitidezza, contrasto e dettagli
-- LED 4k ultra HD hdr: una risoluzione pari a 4 volte quella delle immagini in full HD per unimmagine ancora più intensa e reale
-- Android tv: gestisci il tuo TV e altri device connessi semplicemente usando la tua voce con google assistant; compatibile con alexa; chromecast built-in
 - Triluminos display: più colore, più dettagli e più realismo in ciò che guardi
+- Processore 4k x-reality pro: ogni immagine viene analizzata in tempo reale per migliorarne nitidezza, contrasto e dettagli
 - Dimensioni TV con piedistallo (l x a x p): 168,6 x 104,2 x 41,4 cm circa
+- Android tv: gestisci il tuo TV e altri device connessi semplicemente usando la tua voce con google assistant; compatibile con alexa; chromecast built-in
+- LED 4k ultra HD hdr: una risoluzione pari a 4 volte quella delle immagini in full HD per unimmagine ancora più intensa e reale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0845KCP5R/?tag=tolees00-21)
