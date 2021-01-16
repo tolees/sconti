@@ -25,11 +25,11 @@ average: '101.345'
 
 ℹ️:
 
-- Durata filtro 6-12 mesi
-- Compatibile con Amazon Alexa e Google Assistant
-- Controllo a distanza tramite MI Home App
-- Livello di rumore: 66 dB
-- Particles CADR (Clean Air Delivery Rate) 260 m³/h
 - Filtro True HEPA a 3 stadi, elimina il 99,97% di fumo
+- Particles CADR (Clean Air Delivery Rate) 260 m³/h
+- Livello di rumore: 66 dB
+- Controllo a distanza tramite MI Home App
+- Compatibile con Amazon Alexa e Google Assistant
+- Durata filtro 6-12 mesi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SHGX7H7/?tag=tolees00-21)
