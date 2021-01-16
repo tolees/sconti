@@ -25,8 +25,8 @@ average: '95.0'
 
 ℹ️:
 
-- Scarpe sportive
 - Tomaia in pelle
+- Scarpe sportive
 - Ammortizzazione Max Air
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BZM3KJP/?tag=tolees00-21)
