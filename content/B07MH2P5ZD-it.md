@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.01 % su WD Black SN750 NVMe SSD Interno per Gami  '
-date: 2021-01-15 17:40:14
+date: 2021-01-16 23:58:23
 image: 'https://m.media-amazon.com/images/I/31HgXnfXrDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07MH2P5ZD/?tag=tolees00-21'
 descuento: '50.01'
-average: '82.15125000000002'
+average: '81.98423076923079'
 ---
 
 [WD Black SN750 NVMe SSD Interno per Gaming ad Alte Prestazioni  500 GB](https://www.amazon.it/dp/B07MH2P5ZD/?tag=tolees00-21) ha un prezzo di 79.98 EUR (originale: 159.99 EUR) con uno sconto del 50.01 % sconto qui:
@@ -25,11 +25,11 @@ average: '82.15125000000002'
 
 ℹ️:
 
-- Design lineare per personalizzare i dispositivi di gioco
 - Disponibile con capacità comprese fra 250 GB e 1 TB
-- Prestazioni di scrittura sequenziali: 2600MB/s
-- Velocità di trasferimento fino a 3.470 MB/sec per tempi di caricamento più rapidi
 - Prestazioni di lettura sequenziali: 3430MB/s
+- Velocità di trasferimento fino a 3.470 MB/sec per tempi di caricamento più rapidi
 - Il dashboard della SSD WD Black ottimizza le prestazioni di gioco
+- Prestazioni di scrittura sequenziali: 2600MB/s
+- Design lineare per personalizzare i dispositivi di gioco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MH2P5ZD/?tag=tolees00-21)

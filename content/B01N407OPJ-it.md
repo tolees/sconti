@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'sconto del 32.05 % su Diadora - Sneakers Game P per Uomo e Don  '
-date: 2021-01-15 17:32:55
+title: 'sconto del 32.98 % su Diadora - Sneakers Game P per Uomo e Don  '
+date: 2021-01-16 23:58:59
 image: 'https://m.media-amazon.com/images/I/31j4-BVTU+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01N407OPJ-it'
-actualPrice: 37.37 EUR
+actualPrice: 36.86 EUR
 currency: EUR
-price: 37.37
+price: 36.86
 comparePrice: 55.0 EUR
 prodname: 'Diadora - Sneakers Game P per Uomo e Donna  EU 42.5 '
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B01N407OPJ/?tag=tolees00-21'
-descuento: '32.05'
-average: '38.2371875'
+descuento: '32.98'
+average: '38.156176470588235'
 ---
 
-[Diadora - Sneakers Game P per Uomo e Donna  EU 42.5 ](https://www.amazon.it/dp/B01N407OPJ/?tag=tolees00-21) ha un prezzo di 37.37 EUR (originale: 55.0 EUR) con uno sconto del 32.05 % sconto qui:
+[Diadora - Sneakers Game P per Uomo e Donna  EU 42.5 ](https://www.amazon.it/dp/B01N407OPJ/?tag=tolees00-21) ha un prezzo di 36.86 EUR (originale: 55.0 EUR) con uno sconto del 32.98 % sconto qui:
 
 [![Diadora - Sneakers Game P per Uomo e Don](https://m.media-amazon.com/images/I/31j4-BVTU+L._SL200_.jpg)](https://www.amazon.it/dp/B01N407OPJ/?tag=tolees00-21)
 
