@@ -26,7 +26,7 @@ Puoi trovare [adidas Galaxy 5  Scarpe da Corsa Donna  Grey Six/Core Black/Grey T
 ℹ️:
 
 - Tomaia in mesh traspirante
-- Intersuola ammortizzata
 - Scarpe da running
+- Intersuola ammortizzata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082SYTKHV/?tag=tolees00-21)
