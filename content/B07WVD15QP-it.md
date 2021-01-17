@@ -25,10 +25,10 @@ average: '82.25910000000002'
 
 ℹ️:
 
+- ccessabile grazie alla scala, ha un grande balcone circondato da balaustre.
 - Questa grande casa si può aprire a metà o addirittura totalmente.
 - Può essere collegata con il cottage cosy del villaggio (5303).
-- ccessabile grazie alla scala, ha un grande balcone circondato da balaustre.
-- Il piano del ripiano della scarpiera permette di creare una grande terrazza.
 - Le camere possono essere illuminate.
+- Il piano del ripiano della scarpiera permette di creare una grande terrazza.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WVD15QP/?tag=tolees00-21)

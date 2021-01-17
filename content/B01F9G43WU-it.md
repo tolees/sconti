@@ -25,10 +25,10 @@ average: '35.02035353535353'
 
 ℹ️:
 
-- Testata per resistere agli urti, anche in caso di caduta del computer
 - ATTENZIONE! Questo SSD si aggaccia alla scheda madre via interfaccia SATAIII (come il tuo disco duro). Assicurati che la tua scheda madre sia compatibile.
-- Avvio, spegnimento, caricamento e risposta delle applicazioni più rapidi
 - Dimensioni (L x L x A): 7 mm x 100,5 mm x 69,95 mm
+- Avvio, spegnimento, caricamento e risposta delle applicazioni più rapidi
 - Velocità di lettura/scrittura fino a 535 MB sec/450 MB sec
+- Testata per resistere agli urti, anche in caso di caduta del computer
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01F9G43WU/?tag=tolees00-21)

@@ -25,7 +25,7 @@ average: '15.09'
 
 ℹ️:
 
-- Rollneck knit pullover
 - Soft Viscose quality
+- Rollneck knit pullover
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T5NNPBZ/?tag=tolees00-21)
