@@ -25,7 +25,7 @@ Puoi trovare [Nintendo Switch: Pro Controller  Nero](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- Cavo USB "tipo-C" incluso
 - Sistema "HD rumble" integrato
+- Cavo USB "tipo-C" incluso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N4ND1T2/?tag=tolees00-21)

@@ -26,8 +26,8 @@ Puoi trovare [Omino Bianco – Detersivo Lavatrice Igienizzante Liquido  Igieniz
 ℹ️:
 
 - Dosaggio: le formule più concentrate di Omino Bianco sviluppate dal Laboratorio di Ricerca garantiscono un migliore potere pulente in ogni singola goccia di prodotto, sono necessari 50 ml per lavaggio
-- Ambiente: Omino Bianco ha deciso di aderire volontariamente al programma europeo A.I.S.E Prep L2 per garantire una maggiore sostenibilità ambientale nella cura del bucato
 - Formula: grazie alla sua formula dermatologicamente testata, è adatto per il bucato di tutta la famiglia perché garantisce il massimo rispetto della pelle, aiutando a prevenire il rischio di irritazioni
+- Ambiente: Omino Bianco ha deciso di aderire volontariamente al programma europeo A.I.S.E Prep L2 per garantire una maggiore sostenibilità ambientale nella cura del bucato
 - Prodotto: dall’esperienza Omino Bianco nasce il detersivo + igienizzante con antibatterico a doppia azione
 - Azione: il potere smacchiante unito alla rimozione di germi e batteri garantisce un bucato pulito e igienizzato ad ogni lavaggio
 
