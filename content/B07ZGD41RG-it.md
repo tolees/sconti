@@ -25,10 +25,10 @@ average: '25.06'
 
 ℹ️:
 
-- Colore: Nero
-- Tipologia: UOMO
 - Articolo: T-SHIRT
+- Tipologia: UOMO
 - Modello: J30J315878
 - Brand: CALVIN KLEIN
+- Colore: Nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZGD41RG/?tag=tolees00-21)

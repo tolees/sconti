@@ -25,8 +25,8 @@ average: '123.99'
 
 ℹ️:
 
-- Comfort grazie alla area centrale maggiormente imbottita
 - Design moderno ed elegante con schienale completamente reclinabile in 4 posizioni e poggiagambe regolabile per rendere Chicco Miinimo confortevole fin dalla nascita
+- Comfort grazie alla area centrale maggiormente imbottita
 - Spallacci e spartigambe in dotazione per una sicurezza totale
 - Praticità e compattezza: Chicco Miinimo si chiude con una sola mano e, da chiuso, è compatto e sta in piedi da solo
 - Pratica cinghia di trasporto regolabile per facilità di trasporto in ogni situazione

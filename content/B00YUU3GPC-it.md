@@ -28,7 +28,7 @@ average: '97.0'
 - TAVOLINO DECORATIVO: Il tavolo Rebecca è perfetto per arredare una camera da letto, ma puoi utilizzarlo anche come scrittoio decorativo da ingresso o in salotto. Provvisto anche di ripiano portaoggetti removibile
 - PROVVISTO DI DUE CASSETTI: Il tavolino è provvisto di due pratici cassetti bianco e nero, ideali per riporre fogli per scrivere, penne, materiale per lo studio o il lavoro. Se vorrai usarlo come consolle da ingresso, potrai usare i cassettini per custodire chiavi, portafogli, documenti o piccoli accessori
 - FACILE DA MONTARE: Il tavolino viene spedito non assemblato, poche operazioni di montaggio e sarà pronto per essere utilizzato
-- STILE SHABBY: Lo scrittoio presenta una linea elegante e il colore è applicato con tecnica decapata. Leffetto anticato e vissuto chic è uno dei tratti caratteristici dello stile shabby. Potrai adattare la consolle anche ad un arredamento dalle linee più retro e vintage
 - SPECIFICHE: Dimensioni: H 108 cm x L 80 cm x P 40 cm - Dimensioni Cassetti (2): H 11 cm x L 27 cm - Colore: Marrone, Bianco, Nero - Materiale: Paulownia - Cod. RE4110
+- STILE SHABBY: Lo scrittoio presenta una linea elegante e il colore è applicato con tecnica decapata. Leffetto anticato e vissuto chic è uno dei tratti caratteristici dello stile shabby. Potrai adattare la consolle anche ad un arredamento dalle linee più retro e vintage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00YUU3GPC/?tag=tolees00-21)
