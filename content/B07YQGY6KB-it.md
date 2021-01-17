@@ -25,10 +25,10 @@ Puoi trovare [Funko POP! TV: Murder She Wrote- Jessica w/ Trenchcoat & Flashligh
 
 ℹ️:
 
-- Funko Pop è il giocattolo dellanno 2018
-- Inserita allinterno di una scatola trarente da collezione
-- Uniconica statuina Funko Pop Vinyl della serie Murder She Wrote
 - Scopri tutte le altre statuine Murder She Wrote di Funko e collezionale tutte
 - Jessica W/ Trenchcoat Flashlight e alto 9 cm
+- Funko Pop è il giocattolo dellanno 2018
+- Uniconica statuina Funko Pop Vinyl della serie Murder She Wrote
+- Inserita allinterno di una scatola trarente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YQGY6KB/?tag=tolees00-21)
