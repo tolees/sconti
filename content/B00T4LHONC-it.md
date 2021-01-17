@@ -25,8 +25,8 @@ Puoi trovare [LEGEA Tokyo Tornado  Abbigliamento Sportivo Unisex-Adulto  Blu  L]
 
 ℹ️:
 
-- 100% Poliestere
 - Fondo in costina con elastico e zip
+- 100% Poliestere
 - Tasche laterali con zip
 - Loghi ricamati
 

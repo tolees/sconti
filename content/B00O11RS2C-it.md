@@ -25,9 +25,9 @@ Puoi trovare [Calvé - Classica  Maionese con uova da allevamento e terra - 225 
 
 ℹ️:
 
-- Senza glutine
-- Produttore: Unilever Italia
 - Faremo il possibile per consegnarti questo prodotto ad almeno 60 giorni dalla scadenza
 - 225ml/214g
+- Produttore: Unilever Italia
+- Senza glutine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00O11RS2C/?tag=tolees00-21)
