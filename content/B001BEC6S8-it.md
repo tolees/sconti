@@ -25,8 +25,8 @@ Puoi trovare [Calvin Klein Uomo - Boxer aderenti in confezione da 3 vita media -
 
 ℹ️:
 
+- 95% Baumwolle, 5% Elasthan
 - Lavabile in lavatrice a 30 ° C
 - Fodera: cotone
-- 95% Baumwolle, 5% Elasthan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001BEC6S8/?tag=tolees00-21)

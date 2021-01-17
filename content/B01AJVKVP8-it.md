@@ -25,10 +25,10 @@ Puoi trovare [DᴇWALT DCE089D1G-QW Laser 3 Linee 360° XR Litio 10.8V  2.0Ah - 
 
 ℹ️:
 
-- 3 linee autolivellate a 360°: 1 linea orizzontale e due linee verticali a 90°; campo di utilizzo: 30m (60 metri con ricevitore)
-- Blocco del pendolo; previene possibili danni ai meccanismi interni durante il trasporto; la luce pulsante consente lutilizzo con ricevitore
-- Batteria 10.8V 2.0 Ah, classe laser 2, Prec; di misurazione +/- 3mm per 10m, n° di raggi 3, direzione raggi oriz./vert., Autolivellamento +/-4°, Raggio di azione int./est. 30 m, 1/4" +, IP 65, 4.3 kg
 - Base pivottante con magneti integrati attacco 1/4"; protezione pioggia e polvere IP65 testati su cadute fino a 2 metri
+- 3 linee autolivellate a 360°: 1 linea orizzontale e due linee verticali a 90°; campo di utilizzo: 30m (60 metri con ricevitore)
+- Batteria 10.8V 2.0 Ah, classe laser 2, Prec; di misurazione +/- 3mm per 10m, n° di raggi 3, direzione raggi oriz./vert., Autolivellamento +/-4°, Raggio di azione int./est. 30 m, 1/4" +, IP 65, 4.3 kg
+- Blocco del pendolo; previene possibili danni ai meccanismi interni durante il trasporto; la luce pulsante consente lutilizzo con ricevitore
 - In dotazione: 1 batteria XR Litio 10.8V 2.0 Ah, caricabatteria, supporto da parete, valigetta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AJVKVP8/?tag=tolees00-21)
