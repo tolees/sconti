@@ -26,7 +26,7 @@ Puoi trovare [Nike Wmns Court Royale  Scarpe da Ginnastica Donna  Bianco  White/
 ℹ️:
 
 - Scarpe da tennis
-- Tessuto resistente
 - Elegante
+- Tessuto resistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00PZB2LCY/?tag=tolees00-21)
