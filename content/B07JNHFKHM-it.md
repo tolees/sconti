@@ -25,8 +25,8 @@ average: '12.59'
 
 ℹ️:
 
-- adidas logo on the front
-- Climalite anti-humidity fabric
 - Regular fit
+- Climalite anti-humidity fabric
+- adidas logo on the front
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JNHFKHM/?tag=tolees00-21)
