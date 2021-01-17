@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 6000L - Kit Fotocamera Digita al 46.47 % di sconto'
-date: 2021-01-15 11:29:05
+date: 2021-01-17 11:45:12
 image: 'https://m.media-amazon.com/images/I/41OVe3eaSjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21'
 descuento: '46.47'
-average: '471.0485057471266'
+average: '471.170681818182'
 ---
 
 Puoi trovare [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile Selp 16-50Mm  Sensore Aps-C  Video Avchd  Eye Af  Ilce6000B + Selp1650  Nero](https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21) con il prezzo 481.8 EUR (originale: 900.0 EUR) 46.47 % sconto qui:
@@ -25,11 +25,11 @@ Puoi trovare [Sony Alpha 6000L - Kit Fotocamera Digitale Mirrorless con Obiettiv
 
 ℹ️:
 
-- Kit con obiettivo SEL 16-50 mm
-- Mirino OLED Tru-Finder ad alta risoluzione
-- Fotocamera digitale Mirrorless Sony con sensore APS-C CMOR Exmor 24.3 megapixel
 - Compatibilità obiettivi: attacco E di Sony
-- Processore di immagini BIONZ X, 179 punti Eye AF
+- Fotocamera digitale Mirrorless Sony con sensore APS-C CMOR Exmor 24.3 megapixel
+- Mirino OLED Tru-Finder ad alta risoluzione
 - Flash integrato, display 3" LCD inclinabile 180°
+- Processore di immagini BIONZ X, 179 punti Eye AF
+- Kit con obiettivo SEL 16-50 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00IE9XHE0/?tag=tolees00-21)

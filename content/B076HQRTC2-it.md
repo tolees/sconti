@@ -25,8 +25,8 @@ Puoi trovare [Adidas Football App Generic Hooded Sweat  Uomo  Black/White  XL](h
 
 ℹ️:
 
-- Adidas apparel
 - Black/white
+- Adidas apparel
 - Core18 hoody
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQRTC2/?tag=tolees00-21)
