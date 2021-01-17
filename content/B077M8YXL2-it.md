@@ -25,8 +25,8 @@ Puoi trovare [PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Bianco White 
 
 ℹ️:
 
-- Materiale suola: gomma
 - Fodera: maglia
+- Materiale suola: gomma
 - Materiale esterno: pelle
 - Le calzature di puma sono la perfetta alternativa sportiva ad ogni look nel tempo libero; per calcio, pallavolo, fitness o altri sport: queste scarpe sportive migliorano sempre la performance
 

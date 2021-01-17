@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.60 % su adidas Continental 80  Scarpe da Ginnast  '
-date: 2021-01-17 00:00:01
+date: 2021-01-17 00:00:04
 image: 'https://m.media-amazon.com/images/I/41tq68h7FmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ average: '54.695'
 ℹ️:
 
 - Scarpe sportive
-- Stile vintage
 - Tomaia in pelle liscia
+- Stile vintage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K1LGBVV/?tag=tolees00-21)
