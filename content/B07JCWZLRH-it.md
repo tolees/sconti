@@ -25,10 +25,10 @@ average: '389.8233333333334'
 
 ℹ️:
 
-- ★ 【Collega più Possibilità】Notebook F5 offre porte ricche di funzionalità per tutti i vari utilizzi, con interfaccia di tipo C con funzionalità complete, ricarica rapida USB-PD facile da ottenere, uscita audio e video ad alta definizione DisplayPort; Lo standard USB 3.0 è comodo per il collegamento di varie periferiche, luscita Micro-HDMI audio e video ad alta definizione.
 - ★ 【360° Convertibile】Notebook Portatile F5 adotta un design a 360°, che può essere commutato tra laptop e tablet, più favorevole alla dimostrazione dei dati e operazione mobile portatile. Con luso di uno stilo, le operazioni e gli input quotidiani sono più convenienti. (Se hai bisogno di uno stilo, faccelo sapere).
-- ★ 【Software di Sistema Ufficiale】Notebook installato con un sistema Windows 10 originale. Webcam e microfono integrati, comoda chat video rende ogni conversazione un vero e proprio incontro e migliorato il modo di comunicare con amici e colleghi di lavoro.
 - ★ 【Portatile e Leggero】Full HD da 11,6 pollici con cornice ultra stretta 1920 x 1080. Progettato pensando alla portabilità, lelegante notebook portatile con corpo metallico pesa solo 1 kg e ha uno spessore di 13 mm. Aspetto raffinato e sottile, conferendogli un look ultramoderno e di alta qualità. Vorrai portare sempre con te questo notebook leggero.
 - ★ 【Ad AltAde Prestazioni】Portatile hanno processori Intel Gemini Lake di ottava generazione, con una velocità di scoppio di 1.1- 2.4 GHz e una cache da 4 MB, funziona con la grafica UHD di nona generazione con potente capacità di decodifica video; Memoria di funzionamento LPDDR4 con capacità di 8 GB, memoria a disco rigido a stato solido ad alta velocità da 256 GB, che accelera e migliora le performance.
+- ★ 【Software di Sistema Ufficiale】Notebook installato con un sistema Windows 10 originale. Webcam e microfono integrati, comoda chat video rende ogni conversazione un vero e proprio incontro e migliorato il modo di comunicare con amici e colleghi di lavoro.
+- ★ 【Collega più Possibilità】Notebook F5 offre porte ricche di funzionalità per tutti i vari utilizzi, con interfaccia di tipo C con funzionalità complete, ricarica rapida USB-PD facile da ottenere, uscita audio e video ad alta definizione DisplayPort; Lo standard USB 3.0 è comodo per il collegamento di varie periferiche, luscita Micro-HDMI audio e video ad alta definizione.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCWZLRH/?tag=tolees00-21)

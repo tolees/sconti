@@ -25,9 +25,9 @@ Puoi trovare [NORTH SAILS Cardigan con Zip in Argento S](https://www.amazon.it/d
 
 ℹ️:
 
+- Il fit regular con collo alto e chiusura con zip rende il modello versatile e disinvolto
 - La patch logata sulla spalla è la firma distintiva del look
 - Il filato in misto cotone e lana è leggero e caldo sulla pelle
 - I bordi rifiniti a costine garantiscono massima aderenza
-- Il fit regular con collo alto e chiusura con zip rende il modello versatile e disinvolto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0846JQKBW/?tag=tolees00-21)
