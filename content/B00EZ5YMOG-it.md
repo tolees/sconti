@@ -25,10 +25,10 @@ average: '1.97'
 
 ℹ️:
 
+- 4 confezioni da 50 g luna
 - Barretta ricoperta al cioccolato al latte con delizioso caramello e arachidi tostati
 - Barretta ricoperta al cioccolato al latte con delizioso caramello e arachidi tostati; la confezione multipack contiene al suo interno 4 singole confezioni
 - Tutto il gusto del cioccolato Snikers
 - Confezione da 50g
-- 4 confezioni da 50 g luna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EZ5YMOG/?tag=tolees00-21)
