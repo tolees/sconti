@@ -26,7 +26,7 @@ Puoi trovare [Geox U Timothy A  Oxford Flat. Uomo  Marrone  Cognac   44 EU](http
 ℹ️:
 
 - Suola: sintetica
-- Materiale interno: mesh
 - Materiale esterno: pelle liscia
+- Materiale interno: mesh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825NXF4K/?tag=tolees00-21)
