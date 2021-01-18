@@ -25,8 +25,8 @@ Puoi trovare [Doria Bucaneve Tubo Biscotti Frollini con Gocce di Glassa  200g](h
 
 ℹ️:
 
-- Con la sua forma inconfondibile, le invitanti gocce di glassa e la speciale friabilità, Bucaneve è il frollino che ha fatto la storia di Doria
 - Unico e Inimitabile.
+- Con la sua forma inconfondibile, le invitanti gocce di glassa e la speciale friabilità, Bucaneve è il frollino che ha fatto la storia di Doria
 - Formato tubo da 200 grammi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003TW2XEC/?tag=tolees00-21)

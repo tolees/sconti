@@ -25,10 +25,10 @@ average: '7.95'
 
 ℹ️:
 
-- Diametro: 38/65 mm, materiale robusto.
-- Cuscino in gomma per cric e elevatori
 - Facile applicazione e adatto per i più diffusi cric e carrozzerie (ad es. Unitec, Michelin).
+- Cuscino in gomma per cric e elevatori
 - Antiscivolo protetto con scanalatura a V e motivo a nido. La profondita della parte inferiore del cuscinetto di gomma garantisce stabilità sul piatto del cric.
+- Diametro: 38/65 mm, materiale robusto.
 - Buona qualità.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077XQX7LP/?tag=tolees00-21)
