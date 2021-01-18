@@ -25,9 +25,9 @@ average: '88.85'
 
 ℹ️:
 
-- Il filato in misto cotone e lana è leggero e caldo sulla pelle
-- I bordi rifiniti a costine garantiscono massima aderenza
-- La patch logata sulla spalla è la firma distintiva del look
 - Il fit regular con collo alto e chiusura con zip rende il modello versatile e disinvolto
+- Il filato in misto cotone e lana è leggero e caldo sulla pelle
+- La patch logata sulla spalla è la firma distintiva del look
+- I bordi rifiniti a costine garantiscono massima aderenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0846JD7VS/?tag=tolees00-21)
