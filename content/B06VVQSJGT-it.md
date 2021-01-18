@@ -26,7 +26,7 @@ Puoi trovare [Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Giall
 ℹ️:
 
 - Materiale esterno: pelle
-- Materiale suola: gomma
 - Fodera: tessuto
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06VVQSJGT/?tag=tolees00-21)
