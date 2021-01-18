@@ -25,9 +25,9 @@ average: '39.99'
 
 ℹ️:
 
-- Vesti i panni ichiban kasuga, un membro di una famiglia Yakuza di basso rango, tradito dalluomo di cui più si fidava
-- Contiene: set di costumi definitivo e Steelbook
 - Trova e potenzia il tuo equipaggiamento per affrontare i nemici più temibili
 - Il campo di battaglia è la tua arma: Utilizza mazze, ombrelli, biciclette, cartelli stradali e molto altro, per distruggere i tuoi nemici
+- Vesti i panni ichiban kasuga, un membro di una famiglia Yakuza di basso rango, tradito dalluomo di cui più si fidava
+- Contiene: set di costumi definitivo e Steelbook
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0889B1ZFW/?tag=tolees00-21)

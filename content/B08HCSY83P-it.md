@@ -25,10 +25,10 @@ average: '36.99'
 
 ℹ️:
 
-- Notifica istantanea: quando la fotocamera rileva movimenti o intrusi, riceverai subito avvisi, ovunque tu sia
 - Due antenne esterne: la telecamera ezTube è dotata di due antenne esterne, per garantire unampia copertura wi-fi e una connessione stabile
-- Visione notturna: anche in completa oscurità, è possibile vedere chiaramente cosa succede fino a 30 metri di distanza
-- Grado di protezione IP66: resistente alla polvere e allacqua
 - Semplice da installare solo 3 passaggi: 1) scaricare e registrare lapplicazione in italiano; 2) accendere la telecamera; 3) scansionare il codice QR
+- Notifica istantanea: quando la fotocamera rileva movimenti o intrusi, riceverai subito avvisi, ovunque tu sia
+- Grado di protezione IP66: resistente alla polvere e allacqua
+- Visione notturna: anche in completa oscurità, è possibile vedere chiaramente cosa succede fino a 30 metri di distanza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HCSY83P/?tag=tolees00-21)

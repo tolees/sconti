@@ -26,8 +26,8 @@ Puoi trovare [Electrolux ESB2700 Good To Go Mini Frullatore  400 W  0.6 Litri  8
 ℹ️:
 
 - 2 bottiglie da 600 ml graduate, 1 barra di raffreddamento (cooling stick)
-- 2 livelli di velocità, funzione pulse, 4 lame in acciaio inossidabile
-- Potente motore da 300 W
 - Lunghezza cavo: 1 m
+- Potente motore da 300 W
+- 2 livelli di velocità, funzione pulse, 4 lame in acciaio inossidabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07M6GFC4N/?tag=tolees00-21)

@@ -25,11 +25,11 @@ average: '110.41'
 
 ℹ️:
 
-- Design ultraleggero con un peso inferiore a 63 grammi grazie ad unattenta riprogettazione che ha permesso una riduzione del peso di quasi il 25% rispetto al mouse wireless PRO standard
-- Frutto della ricerca e della collaborazione con i principali professionisti del gaming a livello mondiale, il mouse Logitech G è progettato con un obiettivo: offrire alte prestazioni per vincere
-- Gli spaziosi piedini a zero resistenza in PTFE di questo mouse da gaming Logitech G offrono una fluidità di scorrimento, per immergersi senza ostacoli nel gioco
-- Il mouse gaming senza fili Logitech G PRO X SUPERLIGHT è disponibile in bianco e nero
-- Alimentato da LIGHTSPEED, il PRO X SUPERLIGHT è il nostro mouse PRO, veloce e affidabile
 - Controllo preciso, veloce e affidabile grazie al sensore HERO, progettato da zero dai tecnici Logitech G per offrire ottimi prestazioni di gioco
+- Design ultraleggero con un peso inferiore a 63 grammi grazie ad unattenta riprogettazione che ha permesso una riduzione del peso di quasi il 25% rispetto al mouse wireless PRO standard
+- Alimentato da LIGHTSPEED, il PRO X SUPERLIGHT è il nostro mouse PRO, veloce e affidabile
+- Il mouse gaming senza fili Logitech G PRO X SUPERLIGHT è disponibile in bianco e nero
+- Gli spaziosi piedini a zero resistenza in PTFE di questo mouse da gaming Logitech G offrono una fluidità di scorrimento, per immergersi senza ostacoli nel gioco
+- Frutto della ricerca e della collaborazione con i principali professionisti del gaming a livello mondiale, il mouse Logitech G è progettato con un obiettivo: offrire alte prestazioni per vincere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W7MKLNT/?tag=tolees00-21)

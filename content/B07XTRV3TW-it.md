@@ -25,8 +25,8 @@ average: '59.99'
 
 ℹ️:
 
+- Impugnatura soft antiscivolo
 - Sicurezza presenza filtro
 - Potenza min/max 600/750 w
-- Impugnatura soft antiscivolo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XTRV3TW/?tag=tolees00-21)

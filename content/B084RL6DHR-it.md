@@ -25,10 +25,10 @@ Puoi trovare [AUKEY Scarab Mouse Gaming [Leggero 75g] Sensore Ottico da 7200 DPI
 
 ℹ️:
 
-- Mouse Personalizzabile: Usa il software AUKEY GM-F3 Gaming Mouse per impostare effetti di luce personalizzati, macro, polling rate e livello DPI in pochi secondi.
 - Illuminazione RGB: Unampia gamma di profili preimpostati RGB disponibili e diverse velocità dell’effetto luminoso tra cui scegliere.
-- Sensore Ottico ad alte Prestazioni: Sensore ottico a 7200 DPI, polling rate di 1000Hz e accelerazione massima di 22,5G. Prestazioni e precisione per il gioco o il lavoro dufficio.
-- Leggero e Comodo: Pesa solo 75g, si adatta comodamente alla mano e a diverse impugnature. Gioca più velocemente, più a lungo e con meno fatica.
 - La Confezione Include: AUKEY GM-F3 RGB Gaming Mouse, manuale d’uso
+- Leggero e Comodo: Pesa solo 75g, si adatta comodamente alla mano e a diverse impugnature. Gioca più velocemente, più a lungo e con meno fatica.
+- Mouse Personalizzabile: Usa il software AUKEY GM-F3 Gaming Mouse per impostare effetti di luce personalizzati, macro, polling rate e livello DPI in pochi secondi.
+- Sensore Ottico ad alte Prestazioni: Sensore ottico a 7200 DPI, polling rate di 1000Hz e accelerazione massima di 22,5G. Prestazioni e precisione per il gioco o il lavoro dufficio.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084RL6DHR/?tag=tolees00-21)

@@ -25,8 +25,8 @@ average: '174.0'
 
 ℹ️:
 
+- QUADRANTE: Quadrante blu con indici a bastone | VETRO DOROLOGIO: Vetro minerale | VISUALIZZAZIONE DEL TEMPO: Analogico
 - IMPERMEABILIT&AGRAVE;: Impermeabilità : 20 bar. Ciò corrisponde a circa 200 metri. | LANCETTE: Lancette che si illuminano al buio | LUNETTA: Girevole | MOVIMENTO: Movimento al quarzo, Eco-drive | PACKAGING: Venduto nella confezione originale del produttore | PESO: 174g
 - BRACCIALE: Cinturino a maglie in acciaio inox argentato. Lunghezza: 165 - 235 mm, larghezza: 21 mm | CASSA: Cassa in acciaio inox argentato | CHIUSURA: Fibbia a scatto | DIMENSIONI: Diametro della cassa: 44 mm. Altezza: 10 mm | FUNZIONI: Ore, minuti, secondi, data
-- QUADRANTE: Quadrante blu con indici a bastone | VETRO DOROLOGIO: Vetro minerale | VISUALIZZAZIONE DEL TEMPO: Analogico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075GN9YBT/?tag=tolees00-21)
