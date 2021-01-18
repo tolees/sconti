@@ -25,10 +25,10 @@ average: '99.25'
 
 ℹ️:
 
+- Spessore della cassa: 6 mm; Dimensioni della cassa: 36.5 mm
+- Materiale del cinturino: Acciaio inossidabile
 - Confezionato nella gift box Michael Kors
 - Larghezza del cinturino: 16 mm; Circonferenza del cinturino: 175 +/- 5 mm
-- Materiale del cinturino: Acciaio inossidabile
 - Resistente AllAcqua: 5 ATM
-- Spessore della cassa: 6 mm; Dimensioni della cassa: 36.5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N39UWQM/?tag=tolees00-21)

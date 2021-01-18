@@ -25,9 +25,9 @@ average: '10.445'
 
 ℹ️:
 
-- Offre risultati ottimali anche nelle condizioni più difficili
 - Pulizia ottimale in una Pod per bucato
 - Semplice da usare: non è necessario dosare e versare
+- Offre risultati ottimali anche nelle condizioni più difficili
 - 1. Pulizia profonda 2. Freschezza 3. Morbidezza 4. Brillantezza 5. Protezione delle fibre
 - Donano ai tuoi capi la sorprendente freschezza di un tocco di Lenor al profumo di ambra
 

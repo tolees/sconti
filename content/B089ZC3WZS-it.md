@@ -25,9 +25,9 @@ average: '23.98333333333333'
 
 ℹ️:
 
-- Sesso: man
 - Composizione: 100% rec.pes
-- Tipologia prodotto: zaino
+- Sesso: man
 - Marca: adidas
+- Tipologia prodotto: zaino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089ZC3WZS/?tag=tolees00-21)
