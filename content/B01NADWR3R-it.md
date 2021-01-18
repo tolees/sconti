@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 38.48 % su Tommy Hilfiger TH CITY MINI REPORTER  Sa  '
-date: 2021-01-16 09:21:30
+date: 2021-01-18 06:22:54
 image: 'https://m.media-amazon.com/images/I/51sD+NQLFuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ average: '43.0'
 
 ℹ️:
 
-- Equipaggiamento: tasca cellulare, tasca esterna, tasca interna
-- Tipo di chiusura: cerniera lampo
-- Misure esterne (L x L x A): 16.5cm x 7cm x 20cm
-- Serie: City
 - Capacità in L. ca.: 0-10
+- Equipaggiamento: tasca cellulare, tasca esterna, tasca interna
+- Misure esterne (L x L x A): 16.5cm x 7cm x 20cm
+- Tipo di chiusura: cerniera lampo
+- Serie: City
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NADWR3R/?tag=tolees00-21)
