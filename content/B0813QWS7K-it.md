@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 21.84 % su LEGO Super Heroes DC Batman Bat-base Mob  '
-date: 2021-01-16 07:15:42
+date: 2021-01-18 01:52:00
 image: 'https://m.media-amazon.com/images/I/51cjJXd7NeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B0813QWS7K/?tag=tolees00-21'
 descuento: '21.84'
-average: '84.33035714285715'
+average: '84.15333333333334'
 ---
 
 [LEGO Super Heroes DC Batman Bat-base Mobile  Camion con Jet  Quad  Motocicletta e Moto d’Acqua  76160](https://www.amazon.it/dp/B0813QWS7K/?tag=tolees00-21) ha un prezzo di 74.24 EUR (originale: 94.99 EUR) con uno sconto del 21.84 % sconto qui:
@@ -25,10 +25,10 @@ average: '84.33035714285715'
 
 ℹ️:
 
-- Il veicolo Bat-base mobile completo è lungo più di 38 cm
-- Il tettuccio apribile permette ai bambini di accedere alla parte interna di un camion dotato di un bat-equipaggiamento completo
 - Include un Batjet, un BatQuad, una motocicletta, un jet ski, un camion e 6 minifigure
-- Un’ottima idea regalo di compleanno di tipo “costruisci il tuo veicolo” per bambini dai 6 anni in su
+- Il tettuccio apribile permette ai bambini di accedere alla parte interna di un camion dotato di un bat-equipaggiamento completo
 - Questo set di Batman è dotato di veicoli, armi ed equipaggiamenti gadget ispirati ai film
+- Il veicolo Bat-base mobile completo è lungo più di 38 cm
+- Un’ottima idea regalo di compleanno di tipo “costruisci il tuo veicolo” per bambini dai 6 anni in su
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813QWS7K/?tag=tolees00-21)
