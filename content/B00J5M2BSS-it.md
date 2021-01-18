@@ -26,9 +26,9 @@ Puoi trovare [Bourjois Rouge Edition Velvet  Rossetto Opaco Liquido Modulabile a
 ℹ️:
 
 - Effetti e benefici: labbra lisce e morbide, colori vivaci effetto matte
-- Colore: 005 Ole Flam veste le labbra di un bel fucsia intenso per un look glamour
 - Applicazione: ottima e precisa grazie al morbido pennello applicatore floccato
-- Formula: arricchita con pigmenti puri per colori intensi, con texture leggera e scorrevole
 - Rouge Edition Velvet, colore modulabile e finish opaco per una tenuta lunga fino a 24 ore
+- Formula: arricchita con pigmenti puri per colori intensi, con texture leggera e scorrevole
+- Colore: 005 Ole Flam veste le labbra di un bel fucsia intenso per un look glamour
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00J5M2BSS/?tag=tolees00-21)

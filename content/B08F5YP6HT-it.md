@@ -25,10 +25,10 @@ Puoi trovare [Rio Mare  Tonno all Olio di Oliva  Qualità Pinne Gialle  6 Lattin
 
 ℹ️:
 
-- Consigli uso: ottimale per tutte le ricette, dai primi piatti alle insalatone fresche e golose
-- Formato: confezione da 4 lattine da 80 g allolio doliva + 2 al peperoncino
-- Tonno allolio di oliva con un pizzico di sale marino dal gusto inconfondibile e dal caratteristico colore rosa
 - Ingredienti: tonno*, olio di oliva, sale. *Thunnus (neothunnus) albacares
+- Tonno allolio di oliva con un pizzico di sale marino dal gusto inconfondibile e dal caratteristico colore rosa
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
+- Formato: confezione da 4 lattine da 80 g allolio doliva + 2 al peperoncino
+- Consigli uso: ottimale per tutte le ricette, dai primi piatti alle insalatone fresche e golose
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5YP6HT/?tag=tolees00-21)

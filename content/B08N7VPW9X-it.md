@@ -26,9 +26,9 @@ average: '4.99'
 ℹ️:
 
 - Vitigno: Glera-Pinor Nero
-- Abbinamenti: Ottimo come aperitivo, ideale per accompagnare piatti leggeri, primi piatti e crostacei
 - Profumo: Delicato, floreale e piacevolmente fruttato
 - Gusto: Aromatico, fresco, sapido, di grande eleganza e piacevolezza
 - Colore: Rosa brillante
+- Abbinamenti: Ottimo come aperitivo, ideale per accompagnare piatti leggeri, primi piatti e crostacei
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N7VPW9X/?tag=tolees00-21)
