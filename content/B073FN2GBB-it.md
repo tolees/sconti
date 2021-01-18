@@ -25,8 +25,8 @@ Puoi trovare [Philips Lighting Lampadine LED 725  Attacco E14  1 7W Equivalenti 
 
 ℹ️:
 
-- Lampadine a durata prolungata: fino a 15 anni
 - Forma e dimensioni simili a quelle di una lampadina a incandescenza standard
 - Per luso in frigoriferi e congelatori
+- Lampadine a durata prolungata: fino a 15 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073FN2GBB/?tag=tolees00-21)

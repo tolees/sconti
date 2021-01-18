@@ -25,10 +25,10 @@ average: '80.65'
 
 ℹ️:
 
-- Guanto con protezione polso biomex
-- Tecnologia multistrato thermo-plus 3000 warm
-- Membrana traspirante e antivento con rinforzo in kevlar schoeller
 - Polsino lungo e fodera interna rimovibile
 - Tecnologia impermeabile gore-tex
+- Membrana traspirante e antivento con rinforzo in kevlar schoeller
+- Guanto con protezione polso biomex
+- Tecnologia multistrato thermo-plus 3000 warm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003ZTCVOQ/?tag=tolees00-21)
