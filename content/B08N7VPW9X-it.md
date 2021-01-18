@@ -25,10 +25,10 @@ average: '4.99'
 
 ℹ️:
 
-- Colore: Rosa brillante
-- Gusto: Aromatico, fresco, sapido, di grande eleganza e piacevolezza
+- Vitigno: Glera-Pinor Nero
 - Abbinamenti: Ottimo come aperitivo, ideale per accompagnare piatti leggeri, primi piatti e crostacei
 - Profumo: Delicato, floreale e piacevolmente fruttato
-- Vitigno: Glera-Pinor Nero
+- Gusto: Aromatico, fresco, sapido, di grande eleganza e piacevolezza
+- Colore: Rosa brillante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N7VPW9X/?tag=tolees00-21)

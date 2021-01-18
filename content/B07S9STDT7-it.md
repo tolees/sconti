@@ -27,7 +27,7 @@ average: '7.99'
 
 - I frutti raccolti subiscono una selezione accurata dei pezzi migliori e più belli
 - Le mandorle della linea frutta selezionata sono uno snack sfizioso, perfette anche per le tue ricette
-- Mandorle sgusciate
 - Prova tutto il gusto delle mandorle Noberasco nella confezione scorta da 1Kg!
+- Mandorle sgusciate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S9STDT7/?tag=tolees00-21)
