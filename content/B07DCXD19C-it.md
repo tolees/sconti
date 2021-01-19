@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'sconto del 18.70 % su Borotalco Deodorante Spray Original  150  '
-date: 2021-01-18 20:00:42
+date: 2021-01-19 20:54:34
 image: 'https://m.media-amazon.com/images/I/31UN22FZsNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCXD19C-it'
+slug: 'B07DCXD19C-it Borotalco Deodorante Spray Original 150ml'
+tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0
@@ -16,7 +17,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07DCXD19C/?tag=tolees00-21'
 descuento: '18.70'
-average: '3.2212500000000004'
+average: '3.1966666666666668'
 ---
 
 [Borotalco Deodorante Spray Original  150ml](https://www.amazon.it/dp/B07DCXD19C/?tag=tolees00-21) ha un prezzo di 3.0 EUR (originale: 3.69 EUR) con uno sconto del 18.70 % sconto qui:
@@ -25,9 +26,9 @@ average: '3.2212500000000004'
 
 ℹ️:
 
+- Profumo di Borotalco
 - 32% di meno sudore dopo 24 h*
 - 0% alcool; dermatologicamente testato
 - Efficacia 48 ore
-- Profumo di Borotalco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DCXD19C/?tag=tolees00-21)
