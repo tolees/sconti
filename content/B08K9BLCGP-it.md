@@ -26,12 +26,12 @@ average: '12.89'
 
 ℹ️:
 
-- Flacone realizzato con il 25% di plastica riciclata
-- Lascia i capelli visibilmente più belli e fino al 100% liberi dalla forfora (con uso regolare)
-- Menthol Fresh 2in1 grazie al mentolo è rinfrescante per capelli idratati
-- Senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffine
-- Combatte prurito, secchezza e capelli grassi
-- Approvato da Aideco
 - Dermatologicamente testato: pH equilibrato con antiossidanti
+- Senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffine
+- Lascia i capelli visibilmente più belli e fino al 100% liberi dalla forfora (con uso regolare)
+- Combatte prurito, secchezza e capelli grassi
+- Flacone realizzato con il 25% di plastica riciclata
+- Menthol Fresh 2in1 grazie al mentolo è rinfrescante per capelli idratati
+- Approvato da Aideco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08K9BLCGP/?tag=tolees00-21)
