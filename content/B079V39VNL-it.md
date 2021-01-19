@@ -25,10 +25,10 @@ average: '15.99'
 
 ℹ️:
 
-- Rotazione: 360°
 - Per pali di diametro compreso tra 28 mm e 60 mm
-- Compatibile VESA 75x75 / 100x100
-- Supporta peso fino a 10 kg
+- Rotazione: 360°
 - Supporto per monitor / TV da 13-30", permette di installare uno schermo su un palo
+- Supporta peso fino a 10 kg
+- Compatibile VESA 75x75 / 100x100
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079V39VNL/?tag=tolees00-21)
