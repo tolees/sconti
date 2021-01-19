@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSBGBP3-it Controller wireless per Nintendo Switch Maegoo Mini...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

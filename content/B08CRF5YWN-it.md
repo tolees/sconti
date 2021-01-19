@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRF5YWN-it Pawhut Tiragraffi a Colonna per Gatti su più Livelli con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.36 EUR
 currency: EUR
 price: 34.36

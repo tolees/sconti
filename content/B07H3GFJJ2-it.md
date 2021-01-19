@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3GFJJ2-it HyperX HX-MC004B Pulsefire Core Mouse Gaming RGB'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

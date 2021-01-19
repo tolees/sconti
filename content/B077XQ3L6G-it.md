@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XQ3L6G-it Under Armour UA Tech 2.0 Short Sleeve Tee Maglietta Uomo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

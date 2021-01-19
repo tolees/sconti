@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RXIJGR0-it Pyrex Irresistible Teglia rettangolare in vetro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

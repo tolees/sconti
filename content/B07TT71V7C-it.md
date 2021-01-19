@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT71V7C-it Levi s The Perfect Tee Maglietta Bianco Floral Filled...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

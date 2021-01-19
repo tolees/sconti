@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SNA7XC-it Crocs Crocband Flip 11033 Infradito Unisex – Adulto Nero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

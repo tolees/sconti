@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9UPQV9-it Levi s The Perfect Tee T-Shirt Bianco White 297 S Donna'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

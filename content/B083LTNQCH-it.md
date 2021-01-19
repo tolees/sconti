@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LTNQCH-it SoundPEATS Auricolari Wireless TrueCapsule Nuova Versione...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

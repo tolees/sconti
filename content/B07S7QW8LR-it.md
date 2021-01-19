@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QW8LR-it Puma Ascend Scarpe da Ginnastica Unisex-Adulto Nero Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.81 EUR
 currency: EUR
 price: 27.81

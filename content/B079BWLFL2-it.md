@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079BWLFL2-it JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RK09EZU-it Climbing Technology Concept SGL moschettone ghiera Unisex-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1
@@ -26,12 +26,12 @@ average: '13.549999999999999'
 
 ℹ️:
 
-- Chiusura catch-free che evita limpiglio accidentale durante luso
-- Accentuato profilo a doppia t, per un eccellente rapporto peso / resistenza
-- Sistema acl, che permette di fissarlo allanello di servizio dellimbracatura, stabilizzandolo e prevenendo la possibilità di carico sullasse minore
 - Moschettone hms in lega leggera forgiato a caldo con ghiera a vite, concepito per larrampicata tradizionale, sportiva e per lalpinismo in generale
-- Forma lavorata ed alleggerita, per una migliore impugnatura
-- Ampio spazio interno per lutilizzo del nodo mezzo barcaiolo e per le manovre di corda in sosta
+- Accentuato profilo a doppia t, per un eccellente rapporto peso / resistenza
 - Particolarmente indicato per lutilizzo con i dispositivi di assicurazione
+- Sistema acl, che permette di fissarlo allanello di servizio dellimbracatura, stabilizzandolo e prevenendo la possibilità di carico sullasse minore
+- Forma lavorata ed alleggerita, per una migliore impugnatura
+- Chiusura catch-free che evita limpiglio accidentale durante luso
+- Ampio spazio interno per lutilizzo del nodo mezzo barcaiolo e per le manovre di corda in sosta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00RK09EZU/?tag=tolees00-21)

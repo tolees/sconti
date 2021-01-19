@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5FC31-it BLACK+DECKER BXHBA600E Frullatore a Immersione 600 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

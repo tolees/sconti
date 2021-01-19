@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXZV9K2-it Havaianas Top Tiras Infradito Donna Oro Rose Nude 7939...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

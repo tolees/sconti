@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817KNMSZ-it HP Envy Urban Sleeve per Notebook fino a 15.6" Vano...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

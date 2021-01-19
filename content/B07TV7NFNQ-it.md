@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV7NFNQ-it Levi s Lady Luck Felpa Blu Crew Feminine Logo Marina 0004...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

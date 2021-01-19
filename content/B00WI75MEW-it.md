@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WI75MEW-it ArtWay - Piegatore in Osso Vero - per Piegare con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

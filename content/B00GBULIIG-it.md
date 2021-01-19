@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GBULIIG-it Netgear GS116E Switch Smart Managed Plus a 16 Porte...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 91.61 EUR
 currency: EUR
 price: 91.61

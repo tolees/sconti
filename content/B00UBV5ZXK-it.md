@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBV5ZXK-it adidas Superstar Scarpe da Ginnastica Unisex Adulto Nero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.74 EUR
 currency: EUR
 price: 52.74

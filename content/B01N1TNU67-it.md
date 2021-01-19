@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1TNU67-it Arteza Pennarelli Acquerello Professionali Set da 24...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

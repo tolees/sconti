@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0039UT5HC-it Casio Orologio Analogico Quarzo Donna con Cinturino in...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

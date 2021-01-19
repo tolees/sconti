@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087FFF5WP-it FLYLINKTECH Avviatore di Emergenza per Auto 2500A Peak...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

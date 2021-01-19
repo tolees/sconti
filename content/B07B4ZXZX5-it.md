@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4ZXZX5-it Philips 276E9QDSB Monitor Gaming 27" LED IPS Freesync FHD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 129.8 EUR
 currency: EUR
 price: 129.8

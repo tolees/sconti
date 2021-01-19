@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089WWC6JV-it Dixan Classico Detersivo Liquido Lavatrice Tecnologia...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

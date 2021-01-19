@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GGDQBFL-it homcom Mobile Alto da Bagno Colonna Design Compatto con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.96 EUR
 currency: EUR
 price: 63.96

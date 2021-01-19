@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084LF8C3T-it Samsung Galaxy S20 Smartphone Display 6.2" Dynamic AMOLED...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 597.35 EUR
 currency: EUR
 price: 597.35

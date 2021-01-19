@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4HWC77-it Tommy Hilfiger Shoulder GS Insert Slim Polo Maglietta Blu...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

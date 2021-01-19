@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008MLT4BU-it Foppapedretti Assai Asse da Stiro Bianco'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 129.87 EUR
 currency: EUR
 price: 129.87

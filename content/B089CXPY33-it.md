@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089CXPY33-it Layack Coperta da Spiaggia 210x200CM Coperta da Campeggio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

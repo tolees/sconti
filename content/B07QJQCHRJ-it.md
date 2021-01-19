@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJQCHRJ-it Samsung MS23K3513AK Forno Microonde Grill Combinato 23...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1LLGQ-it Puma Smash V2 Sneaker Unisex - Adulto Castlerock/Puma...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

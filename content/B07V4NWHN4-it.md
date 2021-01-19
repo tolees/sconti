@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4NWHN4-it ORZLY® Gaming Keyboard And Mouse And Mouse Pad And Gaming...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.83 EUR
 currency: EUR
 price: 59.83

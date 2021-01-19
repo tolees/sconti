@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HRJ7SCF-it RIIMUHIR Vetro Temperato per Xiaomi Mi 10/10 PRO [2 Pezzi]...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

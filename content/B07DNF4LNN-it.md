@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNF4LNN-it adidas Grand Court Scarpe da Tennis Donna Ftwr...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.94 EUR
 currency: EUR
 price: 57.94

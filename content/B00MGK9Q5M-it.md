@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MGK9Q5M-it Rimmel London Brow This Way Kit Sopracciglia Sopracciglia...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006OZF4KG-it Revlon ColorStay colore per sopracciglia'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

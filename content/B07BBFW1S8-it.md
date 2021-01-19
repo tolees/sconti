@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBFW1S8-it Estrattore di Succo a Freddo Aicok Estrattore di Frutta e...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.49 EUR
 currency: EUR
 price: 79.49

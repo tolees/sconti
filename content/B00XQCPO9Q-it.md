@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XQCPO9Q-it Gillette Series Schiuma Da Barba Pelli Sensibili - 200+50 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

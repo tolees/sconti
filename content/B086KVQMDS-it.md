@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KVQMDS-it Xiaomi Mi 10 16 9 cm 6.67" 8 GB 256 GB Doppia SIM 5G USB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

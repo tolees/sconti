@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MGON1SG-it Eastpak Padded Pak r Zaino 40 cm 24 L Grigio Black Denim'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.12 EUR
 currency: EUR
 price: 36.12

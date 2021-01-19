@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GP3HWS4-it CLEEFUN - Cavo USB C corto da 0 3 m confezione da 2 pezzi...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

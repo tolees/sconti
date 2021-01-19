@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C2SHSLW-it SEAC Polpone Fucile a Molla con Fiocina per Pesca Sub...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

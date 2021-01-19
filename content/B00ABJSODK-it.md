@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ABJSODK-it Eridania Zucchero Tropical Bustine Gr500'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

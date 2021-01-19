@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I060OYS-it Givova Visa Tuta Da Ginnastica Uomo Multicolore Nero/Rosso XS'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

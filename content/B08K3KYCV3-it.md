@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K3KYCV3-it BTRONGROUP Caricatore per iPhone 11 XS XR X 8 7 Plus 6s 6...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHS8Y4G-it Smartphone Offerta 4G DOOGEE N20 Pro Cellulari Offerte...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

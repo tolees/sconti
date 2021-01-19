@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D8E1F8U-it PowerA Kit Gioca E Ricarica Per Xbox One - Day-One - Xbox One'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

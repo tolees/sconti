@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y69YLKS-it Antica Erboristeria Dentifricio Antibatterico Totale...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

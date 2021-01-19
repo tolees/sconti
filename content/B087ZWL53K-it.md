@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087ZWL53K-it WEWAK Antenna TV Interna HDTV Antenna Digitale con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

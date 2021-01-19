@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VN1B3K-it Maybelline New York Tinta per Sopracciglia Peel-off Tattoo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.85 EUR
 currency: EUR
 price: 4.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZF6NMJ-it Tristar Crispy Mini Friggitrice ad aria calda 1000 W 2...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

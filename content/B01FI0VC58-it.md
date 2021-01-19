@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FI0VC58-it Birkenstock Arizona Sandali Donna Grigio Metallic...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

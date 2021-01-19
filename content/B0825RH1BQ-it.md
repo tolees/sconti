@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825RH1BQ-it Geox U WARLEY B Scarpe da Ginnastica Uomo Nero 45 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.71 EUR
 currency: EUR
 price: 43.71
@@ -26,8 +26,8 @@ average: '43.71'
 
 ℹ️:
 
+- Materiale suola: Gomma
 - Materiale esterno: Pelle
 - Fodera: Tessuto
-- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825RH1BQ/?tag=tolees00-21)

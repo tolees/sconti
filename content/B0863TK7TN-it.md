@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863TK7TN-it Apple MacBook Air 13" Processore Intel Core i3 dual‑core...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 979.0 EUR
 currency: EUR
 price: 979.0

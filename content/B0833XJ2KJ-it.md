@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833XJ2KJ-it Netac 64G Chiavetta USB 3.0，Rotazione a 360 ° Pen...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

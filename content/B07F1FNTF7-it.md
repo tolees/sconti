@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1FNTF7-it Havaianas Slim Animals Infradito Donna White/Coralnew 6577...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.02 EUR
 currency: EUR
 price: 22.02

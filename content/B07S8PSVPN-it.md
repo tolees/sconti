@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PSVPN-it PUMA Carina L Scarpe da Ginnastica Donna Nero Black White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

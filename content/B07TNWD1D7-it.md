@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNWD1D7-it Havaianas Slim Flatform Infradito Donna Rosa Pink...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

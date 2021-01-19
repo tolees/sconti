@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3JKXMP-it Tmore Custodia Ultrasottile Compatibile con Samsung Galaxy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PWT1T-it PUMA ST Runner v2 NL Scarpe da Ginnastica Unisex-Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.23 EUR
 currency: EUR
 price: 30.23

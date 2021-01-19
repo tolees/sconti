@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9SHNZ-it Levi s The Jacket Giacca Blu Pale Shade Indigo Stretch...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.98 EUR
 currency: EUR
 price: 50.98

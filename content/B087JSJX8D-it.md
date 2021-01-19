@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JSJX8D-it Cuffie Gaming PS4 PC Xbox One Maegoo Over Ear Cuffie da...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

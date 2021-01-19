@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJPAZ6-it Scotch Nastro Adesivo 3M Trasparente Acrilico 15 mm x 33 m...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.44 EUR
 currency: EUR
 price: 2.44

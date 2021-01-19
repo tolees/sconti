@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8SNV9R-it Misuratore Laser 50m USB Carica Rapida TECCPO telemetro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

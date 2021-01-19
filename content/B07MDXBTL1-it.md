@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDXBTL1-it SanDisk SDCZ33-064G-G35 Cruzer Fit da 64 GB Chiavetta USB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

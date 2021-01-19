@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2X1Q1-it Geox U KENNET B Scarpe da Ginnastica Basse Uomo Bianco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

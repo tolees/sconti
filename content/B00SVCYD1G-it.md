@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SVCYD1G-it Poupy 1006.6 Libretto Sonoro Colori Assortiti'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

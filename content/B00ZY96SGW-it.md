@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZY96SGW-it Givova Visa Tuta Da Ginnastica Uomo Multicolore...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.37 EUR
 currency: EUR
 price: 16.37

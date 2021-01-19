@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895FDJRR-it Automatico Dispenser di Sapone JUSTDOLIFE Erogatore di...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

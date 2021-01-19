@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0815S2FMZ-it GERYON Macchina Sottovuoto per Alimenti Sigillatore a...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

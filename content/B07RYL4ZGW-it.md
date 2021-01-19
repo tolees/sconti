@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL4ZGW-it New Balance 373 Core Sneaker Uomo Rosso Red/White Cd2'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.58 EUR
 currency: EUR
 price: 48.58

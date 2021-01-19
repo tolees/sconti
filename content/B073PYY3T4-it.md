@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073PYY3T4-it Timberland Allington 6 inch Lace Up Stivali Donna Giallo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.49 EUR
 currency: EUR
 price: 89.49

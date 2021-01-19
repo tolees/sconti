@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KYB28Z-it Aigostar Doreen 300109LYD - Macchina sottovuoto per...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Z5LDDK-it Vero Moda Vmhot Nine HW DNM Pencil Skirt Mix Noos Gonna...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

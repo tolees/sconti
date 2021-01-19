@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HV2PZK-it Crocs Baya Summer Flip U Sandali Uomo Blu Blau Navy 410 42-43'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CG5KG7E-it Campingaz Y980000000 Regolatore di Pressione del Gas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

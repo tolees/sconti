@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PJVJ57-it Asmodee - T.I.M.E Stories: Spedizione Endurance Espansione...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3
@@ -26,10 +26,10 @@ average: '17.3'
 
 ℹ️:
 
-- Spedizione Endurance è un’espansione del gioco base che conduce i giocatori nel 1914, in Antartide, quando l’equipaggio dell’Endurance tentò di attraversare il continente
-- Edizione in lingua italiana
-- Numero di giocatori: 2 − 4 | Età consigliata: da 14 anni in su | Durata media: 90 minuti
-- Lesperienza di gioco può essere ampliata con numerose espansioni: ogni espansione conduce i giocatori in unepoca o in un mondo diverso per risolvere una missione
 - In questo avvincente gioco collaborativo i giocatori sono chiamati a risolvere una missione: dovranno esplorare luoghi, rinvenire oggetti, risolvere misteri, rebus ed enigmi nel minor tempo possibile
+- Lesperienza di gioco può essere ampliata con numerose espansioni: ogni espansione conduce i giocatori in unepoca o in un mondo diverso per risolvere una missione
+- Edizione in lingua italiana
+- Spedizione Endurance è un’espansione del gioco base che conduce i giocatori nel 1914, in Antartide, quando l’equipaggio dell’Endurance tentò di attraversare il continente
+- Numero di giocatori: 2 − 4 | Età consigliata: da 14 anni in su | Durata media: 90 minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078PJVJ57/?tag=tolees00-21)

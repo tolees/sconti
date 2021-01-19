@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X63KLL5-it Starbucks CAFFÈ VERONA Caffè macinato dalla tostatura...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

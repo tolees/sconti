@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBBA093-it Netgear GS305P Switch Ethernet PoE 5 porte Gigabit 4 porte...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

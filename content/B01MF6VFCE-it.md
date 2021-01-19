@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MF6VFCE-it New Balance 373 Core U Scarpe Trainers Uomo Nero Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.69 EUR
 currency: EUR
 price: 62.69

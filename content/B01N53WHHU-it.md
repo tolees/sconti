@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N53WHHU-it Animali Fantastici E Dove Trovarli 4K + Br + Dig.Copy'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EVS4EY0-it LEGO Friends'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

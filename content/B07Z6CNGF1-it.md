@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6CNGF1-it Controller per switch/switch Lite controller wireless per...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

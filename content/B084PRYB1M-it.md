@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084PRYB1M-it Autan Botanicals Vapo Insetto Repellente e Antizanzare a...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

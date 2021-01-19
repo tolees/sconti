@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4HQEAM-it Multicentrum Uomo Integratore - 30 Compresse'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.35 EUR
 currency: EUR
 price: 10.35

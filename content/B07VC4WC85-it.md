@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC4WC85-it Calvin Klein Nylon Harrington Giacca Sportiva Bianco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFQYSNJ-it Puma Luxe Mesh Tight Pants Donna Fig-Puma Black S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.52 EUR
 currency: EUR
 price: 22.52

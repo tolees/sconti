@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5SV6MR-it Tommy Hilfiger Squares Tee Maglietta Blu Sail Blue Small Uomo'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

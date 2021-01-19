@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP3SK7W-it Havaianas Brasil Logo Infradito Unisex-Bambini Rosa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

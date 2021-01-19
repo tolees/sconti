@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074MK8ZWJ-it Havaianas Slim Brasil Logo Infradito Donna Nero 39/40 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

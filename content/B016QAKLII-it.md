@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QAKLII-it Adidas Parma 16 SHO Pantaloncini Uomo Blu Dark Blue/White M'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.74 EUR
 currency: EUR
 price: 13.74

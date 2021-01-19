@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4XFRK8-it Trolley Fit Seven Colorflower Nero 35 Lt 2in1 Zaino con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

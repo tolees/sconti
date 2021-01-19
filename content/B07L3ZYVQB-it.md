@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3ZYVQB-it 24"Luminosità regolabile 60cm Gancio Pieghevole Portatile...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

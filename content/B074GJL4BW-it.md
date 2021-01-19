@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GJL4BW-it Funko- Pop Vinile MLP Movie Twilight Sparkle Sea Pony 9 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

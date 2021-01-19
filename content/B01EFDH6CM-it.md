@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EFDH6CM-it Vero Moda Vmjulia Ls Dnm Noos Blazer Donna 38 Nero Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

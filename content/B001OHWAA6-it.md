@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OHWAA6-it Gran Cereale Biscotti Gran Cereale al Cioccolato Biscotti...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

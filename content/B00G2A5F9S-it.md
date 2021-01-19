@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G2A5F9S-it THE PROTEIN WORKS Proteine Whey 80 Concentrate In Polvere...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

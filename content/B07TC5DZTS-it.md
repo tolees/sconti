@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TC5DZTS-it TCL | 43EP641 | Android TV con Assistente Google:...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

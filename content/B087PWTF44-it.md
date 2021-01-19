@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PWTF44-it Maegoo Controller PC PS3 TV Wireless 2.4GHz Wireless...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F5B74WK-it eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

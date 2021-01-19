@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G1OGNVO-it Gran Cereale Biscotti Gran Cereale Classico Ricchi di...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.52 EUR
 currency: EUR
 price: 1.52

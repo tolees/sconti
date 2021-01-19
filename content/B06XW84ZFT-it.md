@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW84ZFT-it LE 15W Plafoniera LED Lampada da Soffitto LED 1400lm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

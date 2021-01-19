@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NOSDYDU-it Style - Crema Modella Ricci - Rende Elastici i Capelli...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

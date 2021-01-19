@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XT6VQBH-it YOUNGDO Idropulsore Dentale Professionale da capacità...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

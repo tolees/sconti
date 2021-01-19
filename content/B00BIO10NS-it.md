@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BIO10NS-it Hugo Boss Hugo Eau de Toilette Uomo 75 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

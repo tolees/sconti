@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJX8L8L-it Lacoste L1212 Polo Verde Aucuba Xzd 3XL Uomo'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.45 EUR
 currency: EUR
 price: 49.45

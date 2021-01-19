@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L41EI3I-it Havaianas Origine III Espadrillas Unisex-Adulto Verde...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

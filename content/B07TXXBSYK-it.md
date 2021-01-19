@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXXBSYK-it Wrangler Bomber Jacket Beige Sand 58N Small Uomo'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.34 EUR
 currency: EUR
 price: 37.34

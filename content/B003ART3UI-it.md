@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ART3UI-it Birkenstock Arizona Birko-Flor Nubuck Sandali Unisex-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.89 EUR
 currency: EUR
 price: 62.89

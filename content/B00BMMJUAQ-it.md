@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BMMJUAQ-it Geox U Dublin B Scarpe Stringate Basse Brogue Uomo Nero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 60.1 EUR
 currency: EUR
 price: 60.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DK73BW-it Visiera Protettiva di Sicurezza dalla Francia via DHL...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

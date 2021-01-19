@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ABXA5QA-it Arena Racing Goggles Strap Kit di Cinturini per Occhialini...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

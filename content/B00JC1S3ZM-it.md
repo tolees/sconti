@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JC1S3ZM-it Apli Kids 13067 Trapano Fantasia Fiore Verde 16 mm x 13067'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

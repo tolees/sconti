@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GTMC2QS-it Pentole Agnelli ALSA111BBINF20 Infinity Padella Svasata...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.1 EUR
 currency: EUR
 price: 22.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6ZTDN4-it Levi s Type 3 Sherpa Trucker Giacca Beige True Chino Cord...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 91.25 EUR
 currency: EUR
 price: 91.25

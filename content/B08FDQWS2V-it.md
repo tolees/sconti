@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FDQWS2V-it Auricolare Bluetoot Cuffie Bluetooth touch 24h Playtime 3D...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

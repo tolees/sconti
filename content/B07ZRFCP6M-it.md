@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRFCP6M-it adidas Lin Duffle M Borsa Sportiva Unisex – Adulto Legend...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

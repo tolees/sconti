@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD3VT93-it Calvin Klein Institutional Logo Slim Fit Tee T-Shirt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

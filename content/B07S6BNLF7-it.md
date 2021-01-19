@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6BNLF7-it ZFYQ Coperta da Spiaggia 210x200cm Anti Sabbia...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

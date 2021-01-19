@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7RJ5N1-it Pokémon Spada - Nintendo Switch'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

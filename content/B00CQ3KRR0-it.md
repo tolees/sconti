@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CQ3KRR0-it Rimmel London Cipria Compatta Stay Matte Polvere...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

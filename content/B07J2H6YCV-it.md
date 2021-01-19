@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2H6YCV-it Thule 711100 Barre Portatutto Alluminio 108 cm Set di 2'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 88.95 EUR
 currency: EUR
 price: 88.95

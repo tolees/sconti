@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RD45MK-it Neewer Treppiedi per Smartphone 137cm da Viaggio con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006LXSOP8-it Allibert 201310 Ice Cube Sgabello Frigorifero in plastica...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.3 EUR
 currency: EUR
 price: 46.3

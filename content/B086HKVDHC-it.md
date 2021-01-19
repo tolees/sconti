@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086HKVDHC-it Neewer Luce 192 LED Ultra Sottile con LCD Display Batteria...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

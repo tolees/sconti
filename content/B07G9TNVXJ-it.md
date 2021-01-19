@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9TNVXJ-it Moleskine Borsa Porta PC per Laptop Tablet iPad e Notebook...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

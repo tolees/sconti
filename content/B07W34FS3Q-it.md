@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W34FS3Q-it Remington Asciugacapelli Curl&Straight Confidence 2200...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

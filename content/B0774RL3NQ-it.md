@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0774RL3NQ-it AICOK Friggitrice Ad Aria Calda Friggitrice Senza Olio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

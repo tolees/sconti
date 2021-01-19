@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003SLDWIA-it Wenko Turbo-Loc Portasapone Fissaggio Senza Trapano...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9
@@ -28,8 +28,8 @@ average: '5.9'
 
 - Turbo-Loc Sistema di fissaggio alla parete - dotato di uno speciale dischetto adesivo per un montaggio semplice e rapido senza lausilio di viti e trapano
 - Asportabile senza lasciare residui
+- Tenuta estremamente salda su tutte le superfici lisce
 - Stabile supporto in cromo pesante con piattino in plastica satinata, colore bianco
 - Dimensioni (L x H x P): 13 x 6 x 11 cm
-- Tenuta estremamente salda su tutte le superfici lisce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003SLDWIA/?tag=tolees00-21)

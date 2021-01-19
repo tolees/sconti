@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BWZ0YFW-it Havaianas Slim Crystal Glamour SW Infradito Donna Grigio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K6ZIAII-it De Longhi Icona Eco 311.BK Macchina da Caffè Espresso...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

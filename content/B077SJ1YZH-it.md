@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SJ1YZH-it Puma Liga Casuals Hoody Felpa con Cappuccio Uomo Rosso Red...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.94 EUR
 currency: EUR
 price: 34.94

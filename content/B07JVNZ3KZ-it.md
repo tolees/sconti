@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVNZ3KZ-it Evergreenweb - Brandina Pieghevole con Materasso Memory...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

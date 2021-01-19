@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008AW8V1K-it Lacoste Sport L1230 Polo Sport Ultraleggera Nero Black 031...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

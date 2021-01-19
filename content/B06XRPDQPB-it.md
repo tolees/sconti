@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRPDQPB-it Bica 9017.4 Set Salottino Colorado 4 Posti 119x64x57 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 160.0 EUR
 currency: EUR
 price: 160.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0VQTHY-it Candy CS 1292D3-01 Lavatrice 9 kg 1200 rpm Bianco'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 328.66 EUR
 currency: EUR
 price: 328.66

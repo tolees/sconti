@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CL2ZQ9R-it Smartphone 4G Android 10 Ulefone Note 8P Telefonia Mobile...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

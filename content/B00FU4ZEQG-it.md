@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FU4ZEQG-it Tommy Hilfiger TH Men Quarter 2P Calze Uomo Nero 43/46 -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

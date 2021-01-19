@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NARXQ2E-it Panasonic DC-FZ82 Fotocamera 4K 18.1 Megapixel Obiettivo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 281.55 EUR
 currency: EUR
 price: 281.55

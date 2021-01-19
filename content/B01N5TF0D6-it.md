@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5TF0D6-it Harry Potter 7 Pt.2 4K + Br'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

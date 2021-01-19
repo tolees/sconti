@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PMK1T1-it HP Custodia Sleeve Reversibile in Neoprene per Notebook...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

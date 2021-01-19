@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FFXZK5-it Aigostar Vina - Asciugacapelli da viaggio professionale...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

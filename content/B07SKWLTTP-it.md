@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKWLTTP-it Havaianas Top Nautical Infradito Uomo Multicolore...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

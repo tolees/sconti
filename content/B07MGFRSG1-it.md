@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRSG1-it NAPAPIJRI Burgee 2 Felpa con Cappuccio Viola Purple Wine...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.77 EUR
 currency: EUR
 price: 32.77

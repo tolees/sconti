@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TPT8VY-it adidas Ripple TS Maglietta Uomo Bianco White/Shock Pink M'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

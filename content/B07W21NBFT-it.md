@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W21NBFT-it Plafoniera LED Soffitto Moderna Faretti a LED per interni...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

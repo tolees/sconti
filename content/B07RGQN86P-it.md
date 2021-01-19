@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGQN86P-it Tommy Hilfiger Logo Trim Quilted Jct W Giacca Verde Green...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.14 EUR
 currency: EUR
 price: 31.14

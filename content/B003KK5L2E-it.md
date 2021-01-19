@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KK5L2E-it Ray-Ban RB3025 Aviator Occhiali da Sole Unisex Adulto Oro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

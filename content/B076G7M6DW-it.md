@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076G7M6DW-it PUMA Smash v2 L Jr Scarpe da Ginnastica Unisex-Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.35 EUR
 currency: EUR
 price: 23.35

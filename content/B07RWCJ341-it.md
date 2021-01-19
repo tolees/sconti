@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWCJ341-it Zaino Donna COOFIT Borsa Zainetto Donna Universita...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

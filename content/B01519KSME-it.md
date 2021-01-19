@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01519KSME-it Black Crevice Kitzbühel Casco Uomo Nero/Giallo M 57-58 cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.7 EUR
 currency: EUR
 price: 43.7
@@ -27,7 +27,7 @@ average: '43.7'
 ℹ️:
 
 - Conforme alle norme ce en 1077; merce di marca nella confezione originale
-- Casco da sci con 10 prese daria, rotella di regolazione, sottogola regolabile per una tenuta ottimale; imbottitura
 - Fodera traspirante, antibatterica, rimovibile, lavabile a 30 ° borsa casco gratuita inclusa
+- Casco da sci con 10 prese daria, rotella di regolazione, sottogola regolabile per una tenuta ottimale; imbottitura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01519KSME/?tag=tolees00-21)

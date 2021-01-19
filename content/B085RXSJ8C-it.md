@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RXSJ8C-it heekpek Costume da Bagno Donna V Profonda Imbottito...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWJ31Z6-it Hauck Citi Neo II Passeggino da 0 Mesi a 25 kg con 2 Porta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 81.9 EUR
 currency: EUR
 price: 81.9

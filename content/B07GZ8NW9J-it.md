@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ8NW9J-it Marchio Amazon - MERAKI Blazer Casual Uomo Blu Navy 46...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

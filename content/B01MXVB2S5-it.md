@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXVB2S5-it Fossil Orologio Quarzo Uomo con Cinturino in Acciaio Inox...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

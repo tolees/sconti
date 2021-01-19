@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y03GVQ-it BLUNDSTONE Classic Stivali Unisex Nero Black Premium 45 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

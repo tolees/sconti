@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTRB2SX-it Rimmel 60 Seconds Super-Shine Smalto Per Unghie Sea Nymph...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

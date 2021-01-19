@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKH65CK-it find. Slouch Stivaletti Nero Black 38 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.92 EUR
 currency: EUR
 price: 48.92

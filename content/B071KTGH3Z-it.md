@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KTGH3Z-it Rimmel London Stay Matte Rossetto Opaco Lunga Durata...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

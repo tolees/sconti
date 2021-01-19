@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WX2W2F7-it Niré Beauty Essential Glow Set Pennelli Make up...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.75 EUR
 currency: EUR
 price: 24.75

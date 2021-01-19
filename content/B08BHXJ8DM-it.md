@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHXJ8DM-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

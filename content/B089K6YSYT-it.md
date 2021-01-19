@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089K6YSYT-it ORICO Adattatore Trasparente Esterno M.2 Custodia USB3.1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

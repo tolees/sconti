@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KHXWQNF-it Birkenstock Arizona Sandali a Punta Aperta Donna Beige...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 60.15 EUR
 currency: EUR
 price: 60.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJC6M51-it Ossimetro/pulsossimetro di precisione'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

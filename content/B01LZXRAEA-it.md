@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZXRAEA-it Regina Carta Igienica - Pacco da 4 Pezzi'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

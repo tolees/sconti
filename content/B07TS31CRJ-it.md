@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS31CRJ-it Levi s Housemark Graphic Tee T-Shirt Rosso HM Ssnl Tonal...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

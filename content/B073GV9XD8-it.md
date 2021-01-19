@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073GV9XD8-it Songmics LJB64GUK - Set di 2 sgabelli da bar regolabili in...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.68 EUR
 currency: EUR
 price: 55.68

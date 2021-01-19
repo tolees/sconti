@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLHD8JB-it Levi s 501 Crop Jeans Boyfriend Jive Stonewash 0073 27W /...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

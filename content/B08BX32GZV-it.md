@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BX32GZV-it Misuratore di temperatura digitale a infrarossi sulla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

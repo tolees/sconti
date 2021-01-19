@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ISYHUSA-it Set Accessori Aria Compressa Kit 8 Pneumatic Stanley'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

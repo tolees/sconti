@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYP4VD6-it Act Omega 3 con 1 gr Olio di Pesce - 60 Perle'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

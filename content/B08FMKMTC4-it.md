@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMKMTC4-it XYB Auricolari Bluetooth 5.0 Auricolare Wireless Microfono...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

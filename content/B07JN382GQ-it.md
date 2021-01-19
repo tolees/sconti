@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN382GQ-it Timberland Adventure 2.0 Cupsole Modern Oxford Sneaker...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 78.97 EUR
 currency: EUR
 price: 78.97

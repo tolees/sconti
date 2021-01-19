@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FD9FG6B-it Orient Orologio Analogico Automatico Uomo con Cinturino in...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 113.0 EUR
 currency: EUR
 price: 113.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNJNRQ5-it Tomb Raider 4K+Br'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08425HJRB-it THE G-LAB Korp HELIUM - Auricolari In-ear di alta qualità...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

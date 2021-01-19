@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP4FQKM-it Havaianas Slim Floral Infradito Donna Multicolore Blue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

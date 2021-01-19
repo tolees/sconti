@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTN3JRH-it Avvitatore Elettrico TECCPO 6Nm Cacciavite Elettrico 9+1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

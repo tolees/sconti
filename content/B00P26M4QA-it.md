@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P26M4QA-it 【Doppia EQ】 Auricolari Wireless Sport Mpow Cuffie...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

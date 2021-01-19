@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6NHFT8-it Tommy Hilfiger Slim F in Puro Cotone M Maglietta Polo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.13 EUR
 currency: EUR
 price: 43.13

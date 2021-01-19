@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HLVSN6F-it FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB-C 3.1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

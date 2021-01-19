@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C1WG8J4-it Generico Mascherina Lavabile 2 Pezzi Nera + Blu Regolabili'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

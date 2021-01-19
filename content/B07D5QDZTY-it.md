@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5QDZTY-it GPC Image Cartucce Toner Compatibili per HP CF244A 44A Con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

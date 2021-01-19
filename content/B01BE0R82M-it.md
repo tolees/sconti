@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BE0R82M-it Bosch Professional 0.601.9F2.000 Smerigliatrice Angolare...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.25 EUR
 currency: EUR
 price: 89.25

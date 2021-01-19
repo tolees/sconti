@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQNBWBX-it WHCREAT da Uomo con Pantaloncini da Running Tasche con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

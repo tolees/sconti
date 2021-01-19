@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RP5RCM-it Merax - Sedia girevole da ufficio in similpelle regolabile...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

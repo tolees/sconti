@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HXCMGRQ-it Akai AKTV410TS Televisore Led Full HD HDMI 1080p DVB-T2...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

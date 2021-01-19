@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007JTBONC-it Fineliner - STABILO point 88 - Pack da 3 - Nero/Blu/Rosso'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

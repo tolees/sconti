@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWGQH3R-it Willful Smartwatch Orologio Fitness Uomo Donna Fitness...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

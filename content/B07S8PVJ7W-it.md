@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PVJ7W-it Puma Vista Sneaker Unisex - Adulto Grigio High Rise-Puma...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KSB389A-it Samsung MG23K3515AW Forno Microonde Grill Combinato 23...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

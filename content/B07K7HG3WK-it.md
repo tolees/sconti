@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7HG3WK-it TACKLIFE Pistola da Giardino Pistola per Innaffiamento...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088C62FFQ-it Viakal Detersivo Anticalcare Spray Aceto Maxi Formato 10...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

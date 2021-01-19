@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0867PLS4Z-it Alcatel 3L 2020 6.22” 4G 64 GB ROM + 4 GB RAM tripla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

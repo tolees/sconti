@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088C7ZR7Z-it Veet Strisce Depilatorie Corpo e Gambe Ipoallergeniche 3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

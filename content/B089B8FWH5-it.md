@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089B8FWH5-it CARPISA® Borsa lavoro con doppi manici - Soya'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

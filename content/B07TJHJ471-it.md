@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJHJ471-it United Colors of Benetton 2GK653EH8 Cappotto Nero Nero 100...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.58 EUR
 currency: EUR
 price: 33.58

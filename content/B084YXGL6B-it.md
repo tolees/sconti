@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YXGL6B-it WeciBor Calzini Vestito Arte da Uomo Calze Fantasia Uomo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP3SKHB-it Havaianas Flash Urban Sandali con Cinturino alla Caviglia...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

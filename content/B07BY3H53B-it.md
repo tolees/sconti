@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BY3H53B-it PARTU Purificatore d Aria HEPA Filtro con Filtro Aria a...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

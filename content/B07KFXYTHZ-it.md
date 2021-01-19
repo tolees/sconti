@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFXYTHZ-it Puma Caracal Scarpe da Ginnastica Unisex-Adulto Bianco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBB5YQR-it SanDisk Extreme micro SDSQXA1-128G-GN6AA per Action Camera...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.34 EUR
 currency: EUR
 price: 20.34

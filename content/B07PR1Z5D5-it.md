@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PR1Z5D5-it Lark & Ro Stretch Poplin Shirt Dress-Shirts Cruz V2 Fresh...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.65 EUR
 currency: EUR
 price: 6.65

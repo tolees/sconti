@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJCXG47-it L Oréal Paris Rossetto Matte Liquido Tinta Labbra a Lunga...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

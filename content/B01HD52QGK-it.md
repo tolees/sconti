@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD52QGK-it Osram Lampadina LED Star Pin con attacco G4 =28W luce...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

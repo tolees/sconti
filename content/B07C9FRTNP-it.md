@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C9FRTNP-it Intima Roberts Detergente Intimo Camomilla - 250 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

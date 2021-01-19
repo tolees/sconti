@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G7F3UGC-it Red Bull Energy Drink 250 ml 24 Lattine'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.34 EUR
 currency: EUR
 price: 23.34

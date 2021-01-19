@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCKKFHK-it Desigual Back tribal Nazca Mini zaino da donna 12 5 x 29 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

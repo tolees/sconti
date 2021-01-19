@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DPH9J6-it Lampada da Scrivania lampada da tavolo con funzione di...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

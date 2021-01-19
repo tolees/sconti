@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZFVSB5-it Creano Set di 4 Vetro Termico XXL a Doppia Parete Bulboso...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

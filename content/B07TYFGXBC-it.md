@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYFGXBC-it BOSS Brief 3p Co/El Boxer Multicolore Open Miscellaneous S...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

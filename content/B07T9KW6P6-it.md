@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9KW6P6-it Dustgo Tester PH/TDS&EC 4 in 1 Set Misuratore Digitale...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

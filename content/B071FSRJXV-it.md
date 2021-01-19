@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FSRJXV-it Turtle Beach Stealth 700P Cuffie Gaming con Suono Surround...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

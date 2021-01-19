@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XX596VF-it New Balance 574v2 Core Scarpa da Tennis Donna Bianco White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

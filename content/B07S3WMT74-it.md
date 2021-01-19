@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3WMT74-it Levi s LS Baby Tee Maglia a Maniche Lunghe Multicolore...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

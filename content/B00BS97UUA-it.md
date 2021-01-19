@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BS97UUA-it Philips HD9240/90 Airfryer XL Friggitrice Low-Oil e...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

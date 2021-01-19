@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2XFG2X-it Cecotec - Bake&Toast Forno elettrico da tavolo capacità di...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

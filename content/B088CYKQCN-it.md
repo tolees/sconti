@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088CYKQCN-it XLTOK Cavo USB Type C [3Pezzi 1m+1m+2m] Cavo tipo C di...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

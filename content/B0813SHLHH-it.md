@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813SHLHH-it adidas Falcon W Scarpe da Ginnastica Donna off White/Raw...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.12 EUR
 currency: EUR
 price: 36.12

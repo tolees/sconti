@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2O4XLF-it FLOUREON Ricetrasmittente PMR Radio Ricetrasmittenti 8...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

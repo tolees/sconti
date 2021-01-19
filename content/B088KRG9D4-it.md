@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088KRG9D4-it Südtirol - Alto Adige Valle Isarco DOC Riesling Adler von...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0
