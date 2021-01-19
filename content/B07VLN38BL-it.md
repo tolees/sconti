@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLN38BL-it Xiaomi Mi Smart Scale 2 Bilancia Pesa Persona bianco'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

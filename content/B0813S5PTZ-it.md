@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813S5PTZ-it adidas Continental 80 Scarpe da Ginnastica Uomo Crystal...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

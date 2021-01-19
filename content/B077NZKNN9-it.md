@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NZKNN9-it Batman Begins 4K+Br'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

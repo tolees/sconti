@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BDJLY8E-it Accurist Orologio Analogico Quarzo Donna con Cinturino in...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 81.78 EUR
 currency: EUR
 price: 81.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7XHTGM-it Tommy Hilfiger Sailing Flags Tee Camicia Sportiva...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

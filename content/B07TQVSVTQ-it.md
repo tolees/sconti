@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQVSVTQ-it Clarks Sheer Rose Scarpe con Tacco Donna Beige Navy Suede...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 38.7 EUR
 currency: EUR
 price: 38.7

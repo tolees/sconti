@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ST9MM7Q-it Sottovuoto Macchina ZUZPAO Cibo professionale per macchine...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

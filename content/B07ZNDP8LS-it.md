@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNDP8LS-it VPCOK 7 in 1 Sous Vide Contenitore Set 12L con Coperchio...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 50.77 EUR
 currency: EUR
 price: 50.77

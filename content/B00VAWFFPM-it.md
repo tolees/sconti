@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VAWFFPM-it HP - HP Stampanti Office Jet Pro 9022 Stampante...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

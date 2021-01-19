@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFWS68P-it RTP® CREATINA in Polvere ● 500g ● Creatina Monoidrata...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

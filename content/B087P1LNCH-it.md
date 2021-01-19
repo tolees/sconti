@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P1LNCH-it HOMEVER Specchio Trucco con 21 LEDs Specchio di Vanity...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

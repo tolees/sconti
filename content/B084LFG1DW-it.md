@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084LFG1DW-it Samsung Galaxy S20+ Smartphone 4G Display 6.7" Dynamic...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 669.0 EUR
 currency: EUR
 price: 669.0

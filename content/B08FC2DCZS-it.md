@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC2DCZS-it Antank Batteria Sostitutiva HAC-003 per Console di Gioco...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GK98YE8-it Sandisk Ultra Dual USB Drive 3.0 16GB Velocità di lettura...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

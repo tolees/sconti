@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZM8BJR-it Levi s Housemark Graphic Tee T-Shirt Nero Ssnl HM Forge...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

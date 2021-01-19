@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFM444Y-it Clarks Tri Solar Scarpe da Ginnastica Basse Uomo Nero...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 31.28 EUR
 currency: EUR
 price: 31.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KY834KG-it Eastpak Rusher Borsa A Tracolla 23 cm Verde Crafty Moss'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

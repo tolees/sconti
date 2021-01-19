@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G89N8KJ-it Veetop Case Hard Disk SSD Esterno M2 NVME USB 3.1 Gen 2...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

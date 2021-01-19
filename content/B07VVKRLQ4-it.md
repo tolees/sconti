@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVKRLQ4-it Bosch Elettrodomestici WAT28749IT Serie 6 Lavatrice Active...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 614.2 EUR
 currency: EUR
 price: 614.2

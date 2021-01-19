@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018UYGJFM-it Guess Orologio Analogico Quarzo Donna con Cinturino in...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 84.5 EUR
 currency: EUR
 price: 84.5

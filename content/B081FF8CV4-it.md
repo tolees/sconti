@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FF8CV4-it YAMAMAY® Pigiama Lungo Donna - Love'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

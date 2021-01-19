@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDLMSCF-it Nastro Azzurro - Cassa da 24 x 33 cl 7.92 litri'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

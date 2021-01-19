@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MB8M6Q0-it Kenwood FDM781BA MultiPro Food Processor Robot da Cucina...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

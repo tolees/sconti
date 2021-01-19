@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQCCZRP-it MORELLATO Bracciale con Charm Donna argento - SAHP04'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

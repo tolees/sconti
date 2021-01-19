@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DM1T8L6-it Bollani S: L Orchestra Del Titanic'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

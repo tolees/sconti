@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXZALOB-it Garmin Fenix 5s Orologio Sportivo Argento/Turchese'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 470.72 EUR
 currency: EUR
 price: 470.72

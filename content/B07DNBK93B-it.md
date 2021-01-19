@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNBK93B-it Collana con ciondolo rosa Swarovski zircone gioielli per...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 24.02 EUR
 currency: EUR
 price: 24.02

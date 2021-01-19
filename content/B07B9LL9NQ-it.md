@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9LL9NQ-it JBL CLIP 3 Speaker Wireless Bluetooth Altoparlante...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

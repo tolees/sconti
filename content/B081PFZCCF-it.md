@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PFZCCF-it Nike Dri-Fit Strike Felpa con Cappuccio E Zip A Tutta...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 28.97 EUR
 currency: EUR
 price: 28.97

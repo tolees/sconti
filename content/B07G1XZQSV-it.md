@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1XZQSV-it Polaroid Mint Fotocamera digitale Instant Print Blu stampa...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 89.71 EUR
 currency: EUR
 price: 89.71

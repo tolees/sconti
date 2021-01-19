@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JGFDLH8-it Bourjois Ombretti le Palette les Nude - 4.5 g'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.8 EUR
 currency: EUR
 price: 3.8

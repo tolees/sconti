@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089TXR8Z4-it Maremma Toscana Rosato DOC Campo al Faro 2019 0 75 L'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

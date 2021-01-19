@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS5Q4HR-it Finish All in 1 Max Kit Pastiglie Lavastoviglie 110 Tabs +...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 24.59 EUR
 currency: EUR
 price: 24.59

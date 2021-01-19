@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DR5XDX8-it Saucony Shadow Original Vintage Scarpe da Ginnastica Basse...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

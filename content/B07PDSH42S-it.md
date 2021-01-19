@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDSH42S-it AmazonBasics - Evidenziatori a forma piatta allungata...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

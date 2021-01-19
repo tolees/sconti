@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083RFLG8C-it Telami - Sedia Tripolina - Collezione Ducale - Pieghevole...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 237.99 EUR
 currency: EUR
 price: 237.99

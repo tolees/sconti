@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SH1XHB-it Lacoste L1212 T-Shirt Polo Uomo Blu Electrique Z7Z FR 2'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

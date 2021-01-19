@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I8J0CJ4-it Optima Capelli Pelle e Unghie 60 Compresse Taglia Unica'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

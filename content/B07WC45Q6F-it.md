@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC45Q6F-it Tommy Hilfiger John Cargo Short Light Twill Jeans Relaxed...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M6TJMT8-it Pen Drive 128 gb USB 3.0 Philips FM12FD75B chiavetta flash...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

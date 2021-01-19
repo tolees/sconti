@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0038EV1LW-it Homedics SP-39HW-EU Cuscino Massaggiante Shiatsu a Due...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

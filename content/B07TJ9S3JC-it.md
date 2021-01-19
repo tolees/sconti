@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9S3JC-it Levi s Relaxed Graphic Hoodie Felpa Bianco Boxtab Pop...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

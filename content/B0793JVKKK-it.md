@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793JVKKK-it Saucony Jazz Original Vintage Sneakers Uomo Blu Nvy Gld 22...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 53.43 EUR
 currency: EUR
 price: 53.43

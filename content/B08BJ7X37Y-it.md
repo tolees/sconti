@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJ7X37Y-it SPIRIT OF GAMER - MY-JOY PLUS - Controllore Bluetooth...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.03 EUR
 currency: EUR
 price: 49.03

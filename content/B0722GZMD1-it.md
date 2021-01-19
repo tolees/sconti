@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722GZMD1-it Lenor Ammorbidente Risveglio Primaverile 208 Lavaggi Maxi...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

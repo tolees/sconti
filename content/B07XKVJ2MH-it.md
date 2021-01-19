@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKVJ2MH-it adidas Sonnenbrille AOK003 Occhiali da Sole Grigio Grau...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

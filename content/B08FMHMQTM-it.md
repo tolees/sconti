@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMHMQTM-it TANSUNG Coltello da Cucina Coltello da Chef e Cuoco Lama...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

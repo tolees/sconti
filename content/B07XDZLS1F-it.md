@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDZLS1F-it Puma CB Giacca A Vento Uomo Black L'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NGTV86-it Nike Therma Hoodie Po Felpa con Cappuccio Uomo Black/Dark...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 25.08 EUR
 currency: EUR
 price: 25.08

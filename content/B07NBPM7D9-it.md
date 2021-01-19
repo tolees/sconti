@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBPM7D9-it adidas Adilette Shower Scarpe da Ginnastica Uomo Blu True...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

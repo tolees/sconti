@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001G2BKBY-it Birkenstock Mayari 71791 Infradito donna - Nero 39 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 50.26 EUR
 currency: EUR
 price: 50.26

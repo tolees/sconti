@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GV6TQ86-it Mocio e Secchio in Microfibra per La Pulizia del Pavimenti...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 53.58 EUR
 currency: EUR
 price: 53.58

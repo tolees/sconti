@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGFSVCJ-it Superdry Uomo Giubbotto Ripiegabile Offshore True Red L'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

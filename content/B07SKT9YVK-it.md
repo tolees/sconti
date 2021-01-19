@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKT9YVK-it YAMAY Smartwatch Orologio Fitness Uomo Donna Impermeabile...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

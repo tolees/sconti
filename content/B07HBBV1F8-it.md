@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBBV1F8-it Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

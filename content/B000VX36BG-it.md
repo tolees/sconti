@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VX36BG-it Timberland Classic 2 Eye Scarpe da Barca Uomo Marrone...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 97.02 EUR
 currency: EUR
 price: 97.02

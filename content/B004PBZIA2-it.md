@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004PBZIA2-it Seiko Orologio Analogico Automatico Uomo con Cinturino in...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

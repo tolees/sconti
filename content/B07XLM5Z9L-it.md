@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLM5Z9L-it CARE OF by PUMA Slip on Court Low-Top Sneakers Nero Black-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.48 EUR
 currency: EUR
 price: 23.48

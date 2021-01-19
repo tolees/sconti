@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWX2TQD-it Cuscino Da Viaggio Memory Foam Sidias Cuscino Cervicale...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ET0D2O-it NIVEA Soft Crema Idratante Multiuso per Viso Mani e Corpo...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

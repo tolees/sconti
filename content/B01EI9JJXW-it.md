@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EI9JJXW-it adidas Gazelle Scarpe da Ginnastica Basse Uomo Nero Core...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 52.4 EUR
 currency: EUR
 price: 52.4

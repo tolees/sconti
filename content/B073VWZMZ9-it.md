@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VWZMZ9-it Havaianas Slim 4000030 Infradito Donna Giallo Banana...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

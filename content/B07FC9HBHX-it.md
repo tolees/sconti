@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FC9HBHX-it Homever Coltelli da cucina Ceppo Coltelli Coltelli da Chef...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ615QC-it New Balance 500 Scarpe Sportive Uomo Bianco Munsell...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

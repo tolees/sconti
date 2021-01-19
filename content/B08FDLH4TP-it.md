@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FDLH4TP-it Cuffie Bluetooth Sport Auricolari Bluetooth 5.0 Auricolari...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

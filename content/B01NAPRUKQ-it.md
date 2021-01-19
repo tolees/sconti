@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAPRUKQ-it Grenade Carb Killa Barretta Proteica a Basso Contenuto di...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99
@@ -26,10 +26,10 @@ average: '20.99'
 
 ℹ️:
 
-- Barretta proteica con oltre 21 g di proteine
 - Può essere consumato in qualsiasi momento della giornata - da uno spuntino delizioso tra i pasti, a un trattamento post allenamento che è ricco di proteine ​​e povero di zuccheri. Carboidrati bassi e proteine ​​elevate
-- Contiene solo 2 g di zucchero e 2 g di carboidrati ad alto impatto
-- GMO free
+- Barretta proteica con oltre 21 g di proteine
 - Sport informato approvato e accreditato
+- GMO free
+- Contiene solo 2 g di zucchero e 2 g di carboidrati ad alto impatto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NAPRUKQ/?tag=tolees00-21)

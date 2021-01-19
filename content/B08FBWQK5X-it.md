@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FBWQK5X-it Auricolare Bluetooth Touch Cuffie Bluetooth 5.0 24h...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

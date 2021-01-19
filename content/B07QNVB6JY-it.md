@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNVB6JY-it Set da Bagno o Doccia Donna Regali in 8 Pezzi Bagnoschiuma...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

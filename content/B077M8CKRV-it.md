@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077M8CKRV-it Pedigree Vital Protection cani Cibo di Alta Qualità con...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 12.62 EUR
 currency: EUR
 price: 12.62

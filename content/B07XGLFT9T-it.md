@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGLFT9T-it Skechers DARLOW REMEGO Sneaker Uomo Blu Denim Canvas den...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

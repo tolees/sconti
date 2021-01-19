@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IUP5EZ2-it Ultima Cibo per Cani Mini Adult con Pollo 3 kg'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSFVSRK-it GRIFEMA COMPLENTO-G803 Manopola Doccia Grande G1 / 2...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

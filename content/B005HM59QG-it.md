@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HM59QG-it My.Size Preservativi - Profilattici 53 mm 36'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

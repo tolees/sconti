@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZM3NMM-it 【2020 Nuova Versione】CHORTAU Telecamera per Auto da 7...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CY85NN4-it homcom Libreria Scaffale Portagiochi per Cameretta Bimbi e...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 83.96 EUR
 currency: EUR
 price: 83.96

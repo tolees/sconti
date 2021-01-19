@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVKPN38-it Samsung WW12R641U0M Lavatrice 12 kg Arno 1400 rpm Bianco'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 602.0 EUR
 currency: EUR
 price: 602.0

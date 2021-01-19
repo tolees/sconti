@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B6JVFT8-it Tommy Hilfiger X Bralette Brassière Nero Black 990 Medium...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

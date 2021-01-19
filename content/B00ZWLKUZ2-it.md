@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZWLKUZ2-it Disney Infinity 3.0: EU Han Solo Figurina'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

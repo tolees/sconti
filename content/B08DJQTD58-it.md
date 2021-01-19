@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJQTD58-it Shadow of Mordor Hits Collection - PS4 - Other -...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

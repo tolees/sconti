@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NJNPWL-it ELUTENG Cavo Ottico Audio Digitale 5M Cavi Ottico Fibra...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

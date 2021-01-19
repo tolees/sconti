@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QAKTXK-it Adidas Parma 16 SHO Pantaloncini Uomo Giallo Yellow/Black...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

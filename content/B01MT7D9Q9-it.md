@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT7D9Q9-it TP-Link T9UH Archer Scheda Wireless Dual Band AC1900Mbps 4...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 38.84 EUR
 currency: EUR
 price: 38.84

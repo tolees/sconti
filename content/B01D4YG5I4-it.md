@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D4YG5I4-it Science in Sport SiS Rego Rapid Recovery Polvere Proteica 1kg'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 26.39 EUR
 currency: EUR
 price: 26.39

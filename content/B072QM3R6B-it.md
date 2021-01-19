@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QM3R6B-it Monster Hunter: World UK'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 26.69 EUR
 currency: EUR
 price: 26.69

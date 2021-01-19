@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QVV6N-it PUMA Epic Flip v2 Scarpe da Spiaggia e Piscina Unisex-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

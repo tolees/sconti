@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNVK1MB-it CURCUMA E PIPERINA + ZENZERO Formula Extra-Forte 1500mg...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

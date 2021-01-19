@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822Z2PQF-it Braun Silk-épil 9 9-720 Epilatore Elettrico Donna...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPKRD6C-it Fossil Collana Donna con Cinturino in Acciaio Inossidabile...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

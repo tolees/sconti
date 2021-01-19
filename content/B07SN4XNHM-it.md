@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN4XNHM-it Havaianas Slim Animals Infradito Donna Multicolore Ballet...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

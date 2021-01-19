@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W5KYR22-it Kenwood KMX750WH Impastatrice Planetaria Kitchen Machine...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

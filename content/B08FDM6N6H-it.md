@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FDM6N6H-it OTHA Scheda di acquisizione Video Dispositivo di...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

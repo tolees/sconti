@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM8YQXR-it TECCPO 120 Pezzi Dischi Abrasivi ø125 mm Carta Abrasiva...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

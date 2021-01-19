@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZT4VTJ-it Marchio Amazon - MERAKI Blazer Casual Uomo Grigio Grey...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

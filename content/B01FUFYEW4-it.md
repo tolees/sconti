@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUFYEW4-it RIBIMEX prcen011 Aspiracenere Elettrico Minicen 800 W 10 L'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

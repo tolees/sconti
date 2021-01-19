@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XXGCYZY-it Rowenta CV7920 Silence AC Premium Care Asciugacapelli...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

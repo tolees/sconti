@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077DYKN93-it Aigostar Multipresa Ciabatta Elettrica a 5 Posti...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

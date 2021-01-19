@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GHMGT7D-it Speyang Tappo Vasca da Bagno 10 PZ Tappo Lavandino...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

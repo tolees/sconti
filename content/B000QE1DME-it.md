@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QE1DME-it Birkenstock Arizona Birko-Flor ciabatte unisex per adulti...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

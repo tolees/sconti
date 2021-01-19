@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EW49AVK-it Braun TS745A TexStyle 7 Ferro da Stiro a Vapore Piastra in...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 38.89 EUR
 currency: EUR
 price: 38.89

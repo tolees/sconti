@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RL2R3CM-it Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084GPXHM3-it Svelto Expert Pastiglie per Lavastoviglie Extra...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

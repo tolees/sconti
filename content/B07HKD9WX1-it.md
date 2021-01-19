@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKD9WX1-it National Geographic Multi Colour Stazione meteorologica...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 57.1 EUR
 currency: EUR
 price: 57.1

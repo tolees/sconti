@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E3ETMUW-it Maybelline New York Mascara Ciglia Sensazionali...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

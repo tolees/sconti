@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001AXRHKW-it Peugeot Tahiti Set macina Sale e macina Pepe 20 cm Colore:...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 46.87 EUR
 currency: EUR
 price: 46.87

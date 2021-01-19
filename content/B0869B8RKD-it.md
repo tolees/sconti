@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869B8RKD-it HUAWEI P40 Pro con Bluetooth Speaker Acoustic Display da...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 879.0 EUR
 currency: EUR
 price: 879.0

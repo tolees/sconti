@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZDGXJM-it Remington Nano Series NE3870 Tagliapeli Igienico per Naso...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

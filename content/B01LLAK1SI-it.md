@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLAK1SI-it TP-Link Archer C1200 Gigabit Router Wi-Fi Dual Band AC1200...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

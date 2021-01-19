@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K36SKMK-it Durex Contatto Comfort Preservativi Sottili ad Alta...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 43.78 EUR
 currency: EUR
 price: 43.78

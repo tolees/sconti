@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C7QSI1S-it Rapid 40107334 Set di ugelli con Le incollatrici 240 V Blu...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

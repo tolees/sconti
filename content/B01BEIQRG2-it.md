@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BEIQRG2-it Eucerin Duplo Crema per le mani 2 x 75 ml'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

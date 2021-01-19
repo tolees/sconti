@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTYB5LT-it Lee Luke Pantaloni Blu Dark Marine 37 W30/L34 Taglia...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

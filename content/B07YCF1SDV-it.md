@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCF1SDV-it Philips Sonicare HX9911/03 DiamondClean 9000 Spazzolino...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

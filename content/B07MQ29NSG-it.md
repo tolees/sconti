@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ29NSG-it Sylvanian Families - 5324 - Pizzeria'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.52 EUR
 currency: EUR
 price: 35.52

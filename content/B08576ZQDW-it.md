@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08576ZQDW-it Roffie Alimentatore Automatico per Cani e Gatti e Animali...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

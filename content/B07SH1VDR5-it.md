@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SH1VDR5-it Levi s Woodward L Sneaker Uomo Grigio Regular Grey 55 43 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

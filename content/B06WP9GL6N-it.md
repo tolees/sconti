@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP9GL6N-it Rovtop Set 11 Pennelli per Trucco Professionali di Bambù...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

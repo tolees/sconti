@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL9V27N-it FRANCK PROVOST Expert Protection Cura professionale 230°C...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

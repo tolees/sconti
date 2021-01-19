@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079XF3DGJ-it Colgate Dentifricio Protezione Carie - 6 pezzi da 75 ml'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.32 EUR
 currency: EUR
 price: 4.32

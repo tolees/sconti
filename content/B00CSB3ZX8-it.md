@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSB3ZX8-it Laken Thermo Classic Bottiglia d Acqua Isolamento...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

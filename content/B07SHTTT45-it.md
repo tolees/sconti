@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHTTT45-it Havaianas Slim Brasil Logo Infradito Donna Rosa Crocus...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

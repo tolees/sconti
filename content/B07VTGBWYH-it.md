@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTGBWYH-it WD My Passport Hard Disk Portatile con Protezione Tramite...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

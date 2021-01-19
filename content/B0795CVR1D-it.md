@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0795CVR1D-it Puma Liga Maglietta Uomo Viola Prism Violet White XL'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

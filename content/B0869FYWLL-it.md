@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869FYWLL-it Gimdumasa Occhiali Da Computer Luce Blu Anti Filtro Blue...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

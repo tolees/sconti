@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDGXSM9-it Control Xtra Lube 24 Profilattici Extra Lubrificati Standard'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

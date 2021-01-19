@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Z5HYBR-it Set di 3 valigie rigide con manico estraibile e comode...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 61.5 EUR
 currency: EUR
 price: 61.5

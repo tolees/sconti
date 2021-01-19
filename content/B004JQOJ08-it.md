@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004JQOJ08-it Philips HP6341/00 Ladyshave Rasoio Femminile Wet&Dry...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

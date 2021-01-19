@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVSCK67-it INPHIC Tappetino per Mouse Gaming Keyboard Mouse Pad da...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

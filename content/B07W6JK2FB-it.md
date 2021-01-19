@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6JK2FB-it Russell Hobbs Bicchiere in Vetro Frullatore Professionale...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

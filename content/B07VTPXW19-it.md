@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTPXW19-it Lacoste L1212 Polo ALIZARINE S Uomo'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

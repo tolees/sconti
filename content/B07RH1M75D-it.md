@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH1M75D-it Honor 20 Lite Smartphone 4 GB RAM Memoria Espandibile da...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 201.7 EUR
 currency: EUR
 price: 201.7

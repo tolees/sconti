@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMTLQV7-it Under Armour Challenger III Knit Pantaloncini Uomo Nero...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

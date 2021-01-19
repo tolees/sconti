@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QP9C8F-it Pritt Colla Stick 5 x 11g colla per bambini sicura e...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.43 EUR
 currency: EUR
 price: 4.43

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JBNZPFM-it Karcher Aspiratore solidi-Liquidi - WD 3 Versione Spagnola'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

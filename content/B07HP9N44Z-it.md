@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP9N44Z-it Brondi Amico Fedele Telefono cellulare GSM per anziani con...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

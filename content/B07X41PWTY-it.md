@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X41PWTY-it WD Elements Hard Disk Esterno Portatile USB 3.0 5 TB Nero'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

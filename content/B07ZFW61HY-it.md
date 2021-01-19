@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFW61HY-it RTP® ● OMEGA 3 + Vit E ● 180 Capsule di Olio di Pesce...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

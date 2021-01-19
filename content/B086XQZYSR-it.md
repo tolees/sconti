@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086XQZYSR-it Kellogg s Choco Krave Cioccolato al Latte - 410 g'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

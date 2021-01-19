@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG6Z71S-it PUMA Ralph Sampson Lo Sneakers Unisex-Adulto Nero Schwarz...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

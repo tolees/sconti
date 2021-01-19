@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4NNY15-it Tommy Hilfiger Rope Stripe Tee Camicia Sportiva Blu Desert...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

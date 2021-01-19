@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BHRD3OK-it Hermes Jour d Hermes Eau de Parfum Donna 50 ml'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.29 EUR
 currency: EUR
 price: 39.29

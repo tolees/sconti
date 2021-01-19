@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWV18FS-it Geox D LEELU E Scarpe da Ginnastica Basse Donna Bianco...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.46 EUR
 currency: EUR
 price: 17.46

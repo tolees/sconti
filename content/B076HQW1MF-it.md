@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQW1MF-it adidas Core18 Pes Giacca Uomo Nero/Bianco L'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

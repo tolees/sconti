@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079D86MWH-it Lysoform Detersivo Igienizzante per Bucato Detersivo...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

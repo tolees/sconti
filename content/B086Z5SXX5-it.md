@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086Z5SXX5-it FARMAMED Aerosol Nebulizzatore Mesh Silenzioso Portatile...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

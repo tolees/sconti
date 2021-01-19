@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTKJCKJ-it AUTOUTLET Convertitore Wii a HDMI - Supporto di 720p e...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

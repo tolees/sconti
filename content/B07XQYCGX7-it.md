@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQYCGX7-it Apple Custodia folio in pelle per iPhone 11 Pro - Melanzana'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 98.58 EUR
 currency: EUR
 price: 98.58

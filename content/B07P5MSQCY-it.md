@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5MSQCY-it American Tourister Wavebreaker Bagaglio a Mano Disney...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

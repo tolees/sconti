@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089G9RTYN-it RAVIAD Cavo USB Tipo [2Pezzi 0.5m] Nylon Cavo USB C di...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

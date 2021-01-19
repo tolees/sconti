@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK6XP6G-it Under Armour UA Undeniable SP 2.0 Borsa Unisex Nero OSFA'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

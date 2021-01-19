@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1H3NWF-it Ciabatta Intelligente Multipresa Wifi 4 Prese AC 4 Porte...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

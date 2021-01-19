@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G5CWWRG-it AVM FRITZ!DECT 100 International Ripetitore DECT per...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

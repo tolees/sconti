@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089G2CSNK-it Custodia per Nintendo Switch - Protettivo Trasporto Case...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

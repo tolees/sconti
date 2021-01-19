@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFFC18T-it 4G Tablet 10 Pollici con Wifi Offerte Android 9.0...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 79.92 EUR
 currency: EUR
 price: 79.92

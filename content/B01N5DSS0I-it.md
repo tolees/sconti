@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5DSS0I-it Ever Shine Ear polsini Vines arrampicatori Wrap Trafitto...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

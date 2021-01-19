@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4DB3BB-it Calvin Klein J 4cm Ckj Belt Cintura Nero Black 001 10...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

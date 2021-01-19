@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003O2ZRRM-it K&N 99-5003EU Filtri Aria Set di 2'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 20.11 EUR
 currency: EUR
 price: 20.11

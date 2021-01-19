@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRDXBHD-it Cuffie senza fili per TV con stazione di ricarica digitale...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

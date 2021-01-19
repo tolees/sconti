@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HRPL3ZV-it Entweg Termometro Frontale Termometro Digitale Portatile a...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

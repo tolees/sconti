@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKKNK5J-it STN Compatibile con Xiaomi Mi Band 5 Smart Strap Cinturini...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

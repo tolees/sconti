@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZF5TNX6-it Beautural Ferro da Stiro Verticale Stiratrice a Vapore...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 26.39 EUR
 currency: EUR
 price: 26.39

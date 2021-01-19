@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJWRR11-it Lacoste Ph4012 Polo Giallo Daba Z0a Large Taglia...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

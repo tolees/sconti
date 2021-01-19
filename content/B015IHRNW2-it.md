@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015IHRNW2-it homcom Tapis Roulant Elettrico con Schermo LED Pieghevole...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 215.96 EUR
 currency: EUR
 price: 215.96

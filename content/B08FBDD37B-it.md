@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FBDD37B-it Rybozen Switch KVM 4K HDMI Switch 2 Port Box Tastiera...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

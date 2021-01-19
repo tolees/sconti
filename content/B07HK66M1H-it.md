@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HK66M1H-it Levi s Type 3 Giacca in Jeans Blu Stonebridge Sherpa...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 57.23 EUR
 currency: EUR
 price: 57.23

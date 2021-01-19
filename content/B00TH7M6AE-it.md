@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TH7M6AE-it I-Can 3900S Decoder digitale satellitare ad Alta...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 118.98 EUR
 currency: EUR
 price: 118.98

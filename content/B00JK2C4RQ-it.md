@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JK2C4RQ-it Eda Plastiques - 13731 BR.T SX1 - Volcania Fioriera in...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 58.2 EUR
 currency: EUR
 price: 58.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLHS58N-it Calvin Klein Racer Back One Piece Reggiseno Bikini Rosso...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

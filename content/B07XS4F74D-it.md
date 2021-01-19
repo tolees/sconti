@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS4F74D-it Apple iPhone 11 128GB - Bianco'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

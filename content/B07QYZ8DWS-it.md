@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYZ8DWS-it Ginocchiera a Compressione unisex 1 Paio Ginocchiere...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

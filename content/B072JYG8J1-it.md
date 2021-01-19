@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JYG8J1-it OMEN by HP Omen 800 Cuffia Gaming con Microfono Regolabile...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

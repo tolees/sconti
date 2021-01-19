@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0834XXJ1N-it Cuscino da viaggio gonfiabile ultraleggero da campeggio...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

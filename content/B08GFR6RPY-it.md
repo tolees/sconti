@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GFR6RPY-it AIMOS Switch KVM DVI USB Commutatore 2 in 1 out per 2...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

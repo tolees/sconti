@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VXDD4SS-it Pesoforma Barrette Cioccolato Cuore Cocco- Pasti...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

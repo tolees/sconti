@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XFB12GC-it Lacoste YH4801 Polo Bianco Blanc X-Small Taglia...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

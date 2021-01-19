@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9QYRPR-it NAPAPIJRI Elli Polo Blu Medieval Blue Bb61 Medium Uomo'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

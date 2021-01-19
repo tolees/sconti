@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG2HGKP-it Geox B New Balu Boy C Scarpe da Ginnastica Basse Bimbo...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.45 EUR
 currency: EUR
 price: 39.45

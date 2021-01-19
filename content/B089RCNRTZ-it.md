@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RCNRTZ-it Auricolare Bluetooth 5.0 Auricolare Wireless Microfono e...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

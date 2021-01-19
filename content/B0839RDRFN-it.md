@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0839RDRFN-it Shark Anti Hair Wrap IZ251EUT Scopa Elettrica senza Fili...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 370.88 EUR
 currency: EUR
 price: 370.88

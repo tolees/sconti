@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRP3TVN-it Kingston Data Centre DC500M SEDC500M/480G Enterprise Drive...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 146.78 EUR
 currency: EUR
 price: 146.78

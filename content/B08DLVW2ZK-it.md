@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DLVW2ZK-it Raccogli Briciole Coccinella in Plastica. Spazzola...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

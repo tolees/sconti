@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087J7WMF4-it Cuffie Bluetooth Sport Auricolari Bluetooth Senza Fili 5.0...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVD1Q7W-it Felix AS Good AS it Looks Misto varietà Cat Food 100 g...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.23 EUR
 currency: EUR
 price: 37.23

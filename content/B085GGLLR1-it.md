@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085GGLLR1-it HUAWEI WATCH GT 2e Smartwatch 1.39" AMOLED HD Touchscreen...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 138.78 EUR
 currency: EUR
 price: 138.78

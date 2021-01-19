@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085PXXN4Y-it Südtirol - Alto Adige DOC Goldmuskateller Blumenfeld 2019...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

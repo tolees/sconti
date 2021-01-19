@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXS3BD8-it Swarovski Orecchini Stud Nice Bianco Placcato Oro'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 38.12 EUR
 currency: EUR
 price: 38.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLY14T-it New Balance 997h Sneaker Uomo Giallo Yellow Hbr 45 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

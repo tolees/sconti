@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC2BNFS-it Powerbeats Pro Wireless Auricolari – Chip per cuffie Apple...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

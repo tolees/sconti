@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ4W0ER-it Barilla - Sugo Ragù alla Bolognese - Salsa Pronta al...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

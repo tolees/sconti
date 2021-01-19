@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KX57XLK-it Bio-Oil Olio per Cicatrici e Smagliature Trattamento per...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GCWQ72O-it HyperX Predator HX430C15PB3K4/64 Memoria 3000 MHz DDR4...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 284.8 EUR
 currency: EUR
 price: 284.8

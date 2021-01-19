@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLQNXYW-it Bedsure Piumino Matrimoniale Primaverile/Estivo 250 x 200...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

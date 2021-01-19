@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K919BLJ-it POC Omne Air Spin Helmet Unisex – Adulto Zink Orange Avip...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 129.28 EUR
 currency: EUR
 price: 129.28

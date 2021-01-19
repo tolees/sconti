@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQCVHQ6-it Echo Dot 3ª generazione - Altoparlante intelligente con...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

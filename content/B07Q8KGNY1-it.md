@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8KGNY1-it HISENSE APC12 Climatizzatore d’Aria Portatile da 12000 BTU...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

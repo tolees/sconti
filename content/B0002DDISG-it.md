@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002DDISG-it Braun HC5050 Tagliacapelli Regolabarba Uomo e Rasoio...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

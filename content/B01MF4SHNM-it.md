@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MF4SHNM-it De Cecco Casareccia n° 88 Pasta di Semola di Grano Duro -...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

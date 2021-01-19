@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CLAF5CU-it Aperol Spritz Ml.175 Pacco da 3'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

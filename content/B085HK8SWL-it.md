@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HK8SWL-it Slip a Vita Bassa Donna Mutande Invisibile Senza Cuciture...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

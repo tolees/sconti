@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KJH8POC-it Cif Crema Limone Detergente per Superfici Dure 500 ml'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

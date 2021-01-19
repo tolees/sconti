@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HVYPQGZ-it VINCITORE 2020* BIO Crema Viso Acido Ialuronico Puro 100...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

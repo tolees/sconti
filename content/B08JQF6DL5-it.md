@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JQF6DL5-it eXtremeRate Cover con Pulsanti per Nintendo Switch Scocca...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

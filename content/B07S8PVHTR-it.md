@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PVHTR-it PUMA Vikky Stacked L Sneakers Donna Grigio Silver Cloud-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 33.54 EUR
 currency: EUR
 price: 33.54

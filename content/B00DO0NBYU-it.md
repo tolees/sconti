@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DO0NBYU-it Brooks - Scarpe sportive - Running Uomo Nero Black 45.5'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 82.0 EUR
 currency: EUR
 price: 82.0

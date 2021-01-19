@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDRL37H-it Olimpia Splendid 01914 Dolceclima Compact 9 P...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

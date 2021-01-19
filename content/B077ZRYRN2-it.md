@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZRYRN2-it YUCUN 2 5 pollici SATA III Unità a Stato Solido Interno...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

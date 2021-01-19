@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0763Z6DDW-it Chupa Chups Skull Lecca Lecca Confezione da 100 Lollipops...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MB8MHLO-it Kenwood FDM780BA MultiPro Classic Food Processor Robot da...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 137.0 EUR
 currency: EUR
 price: 137.0

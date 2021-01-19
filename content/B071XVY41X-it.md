@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XVY41X-it VISPURA® Vitamina B Complex ad Alto Dosaggio 120 Compresse...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

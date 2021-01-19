@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNTCG71-it Samsung DV80N62532W/ET Asciugatrice 8 kg Bianco'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

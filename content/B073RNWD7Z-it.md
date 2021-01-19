@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNWD7Z-it Columbia SANTIAM 2 Strap Sandali Uomo Grigio Dark Grey...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

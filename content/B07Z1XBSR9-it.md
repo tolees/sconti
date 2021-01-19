@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1XBSR9-it LABISTS Raspberry Pi 4 Model B 4GB RAM Starter Kit RPi...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

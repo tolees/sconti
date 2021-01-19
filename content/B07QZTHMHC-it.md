@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZTHMHC-it Under Armour Challenger III Midlayer Maglia a Maniche...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

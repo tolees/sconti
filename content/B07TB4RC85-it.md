@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB4RC85-it Avvitatore ad Impulsi TECCPO 350Nm Avvitatori a Massa...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 129.98 EUR
 currency: EUR
 price: 129.98

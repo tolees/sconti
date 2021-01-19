@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC3L19M-it LEGO Overwatch - Osservatorio: Gibilterra 75975'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 79.94 EUR
 currency: EUR
 price: 79.94

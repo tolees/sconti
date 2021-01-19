@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LW6ZPIM-it Beats EP Cuffie con filo – Senza batteria per ascoltare...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

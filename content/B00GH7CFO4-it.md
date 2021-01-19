@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GH7CFO4-it Kleenex 8826 Scatole di fazzoletti ovali 10 scatole da 64...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 24.74 EUR
 currency: EUR
 price: 24.74

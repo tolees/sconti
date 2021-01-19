@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6JG2W8-it YAMAMAY® Costume da Bagno Slip Mare Tinta Unita - Essential'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

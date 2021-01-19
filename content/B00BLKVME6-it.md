@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLKVME6-it Seiko Orologio Cronografo Quarzo Uomo con Cinturino in...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 151.0 EUR
 currency: EUR
 price: 151.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WT4WWK-it Xiaomi Mi Wi-Fi Range Extender Pro Ripetitore Wireless...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

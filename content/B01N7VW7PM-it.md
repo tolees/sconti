@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7VW7PM-it Durex Love Preservativi Comfort Facili da Indossare 144...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 50.31 EUR
 currency: EUR
 price: 50.31

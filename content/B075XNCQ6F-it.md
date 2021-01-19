@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XNCQ6F-it AhaStyle - Supporto per cellulare 3 in 1 in silicone...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

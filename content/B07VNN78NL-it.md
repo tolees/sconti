@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNN78NL-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini Rosa Pink...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

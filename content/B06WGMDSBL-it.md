@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGMDSBL-it Inkbird IBT-2X Bluetooth Termometro Digitale Barbecue...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

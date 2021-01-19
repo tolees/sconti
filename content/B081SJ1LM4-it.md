@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SJ1LM4-it adidas Urban Rain.RDY Giacca Sportiva Uomo Black M'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 57.1 EUR
 currency: EUR
 price: 57.1

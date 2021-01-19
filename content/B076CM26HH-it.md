@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CM26HH-it Britax Römer seggiolino auto da 9 mesi a 12 anni 9-36 Kg...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 171.55 EUR
 currency: EUR
 price: 171.55

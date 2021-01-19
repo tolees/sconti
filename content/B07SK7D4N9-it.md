@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK7D4N9-it Winnes - Smartwatch per bambini con 7 giochi funzione...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 32.89 EUR
 currency: EUR
 price: 32.89

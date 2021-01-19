@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FNNNM3-it Tommy Hilfiger O2285TIS 1C Scarpe da Ginnastica Basse Uomo...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 50.1 EUR
 currency: EUR
 price: 50.1

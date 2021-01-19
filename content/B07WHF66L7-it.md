@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHF66L7-it Gillette Fusion ProGlide Styler Rasoio Regolabarba 3 in 1...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

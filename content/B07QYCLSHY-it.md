@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYCLSHY-it NESQUIK ALL NATURAL Cacao Solubile per Latte 168 g'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Q99RLK-it Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta Nero...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

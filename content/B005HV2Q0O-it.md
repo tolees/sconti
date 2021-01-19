@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HV2Q0O-it Crocs Baya Flip Stivaletti Unisex – Adulto Blu Navy 37-38 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

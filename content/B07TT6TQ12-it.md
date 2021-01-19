@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT6TQ12-it Motorola One Action Display CinemaVision 6.3" FHD+ 128 GB...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

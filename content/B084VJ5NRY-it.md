@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VJ5NRY-it Cassa Bluetooth Portatile 20W Motast Speaker Bluetooth...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

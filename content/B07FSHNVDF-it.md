@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSHNVDF-it Oral-B Genius 10000N Spazzolino Elettrico Nero Notte'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 226.28 EUR
 currency: EUR
 price: 226.28

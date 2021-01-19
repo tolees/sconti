@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTLYXC9-it Pulsossimetro Bluetooth monitor di saturazione di ossigeno...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

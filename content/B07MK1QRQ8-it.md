@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK1QRQ8-it NAPAPIJRI Avio Giacca Rosso Red Scarlet R01 XL Uomo'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 109.67 EUR
 currency: EUR
 price: 109.67

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHXKM5V-it Grborn TER-mometro a infrarossi Senza Contatto LCD per la...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

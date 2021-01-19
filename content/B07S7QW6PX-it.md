@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QW6PX-it PUMA Smash V2 Sneakers Unisex-Adulto Nero Black/Hot Coral...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

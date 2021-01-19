@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYVPVB9-it Outsunny Casetta Porta Utensili Porta Attrezzi da Giardino...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 311.96 EUR
 currency: EUR
 price: 311.96

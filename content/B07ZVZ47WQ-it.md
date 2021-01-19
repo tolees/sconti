@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVZ47WQ-it Lagostina Ingenio Essential Batteria di Pentole 10 Pezzi...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

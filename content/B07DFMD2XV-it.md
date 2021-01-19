@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFMD2XV-it Guess Vikky Slg Large Zip Around Portamonete Donna Nero...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

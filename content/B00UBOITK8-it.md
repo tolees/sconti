@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBOITK8-it Tommy Hilfiger 3p Trunk Boxer Nero Black/Grey...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 32.15 EUR
 currency: EUR
 price: 32.15

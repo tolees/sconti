@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GAYQJ0-it Casio Vintage A158WA-1CR - Orologio da Polso Digitale Argento'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

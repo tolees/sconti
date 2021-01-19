@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BR2CSKS-it Pigna Monocromo 02298871R Quaderno Formato A4 Rigatura 1R...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5E9QYE-it Singer hzb-12/A Macchina per ghiaccioli plastica Rosso'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHTTPMN-it Havaianas Slim Logo Metallic Infradito Donna Grigio Steel...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

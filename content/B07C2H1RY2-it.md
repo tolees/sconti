@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2H1RY2-it Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 32.93 EUR
 currency: EUR
 price: 32.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZ4KQL4-it Borraccia Acciaio Inox 450ml Bottiglia Termica...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

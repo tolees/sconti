@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XEV4WYM-it Silent Mind ~ Campana Tibetana con Accessori ~ Modello...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002MP89LI-it Gillette Mach 3 Set Di Lame Di Ricambio Per Rasoio - 20 Gr'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 5.23 EUR
 currency: EUR
 price: 5.23

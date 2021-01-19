@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T5MXZ24-it Geox U Nebula Y A Scarpe da Ginnastica Basse Uomo Blu Navy...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 40.15 EUR
 currency: EUR
 price: 40.15

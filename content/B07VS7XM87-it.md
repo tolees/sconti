@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VS7XM87-it Laelr Digitale Sveglia LED 12 Ore Sveglia in Formato 24...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

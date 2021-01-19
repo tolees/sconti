@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08556TFBG-it Spirits In The Forest'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 20.35 EUR
 currency: EUR
 price: 20.35

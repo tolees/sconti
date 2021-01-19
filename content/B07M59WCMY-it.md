@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M59WCMY-it Disney Frozen 2 - Castello di Arendelle Pieghevole Casa...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.7 EUR
 currency: EUR
 price: 49.7

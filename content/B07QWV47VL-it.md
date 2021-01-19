@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWV47VL-it Calvin Klein CK Adj.Logo Belt 3.5cm Cintura Nero Black...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

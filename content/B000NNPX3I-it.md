@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NNPX3I-it Beurer 66200 EM 80 Apparecchio TENS/EMS Digitale'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

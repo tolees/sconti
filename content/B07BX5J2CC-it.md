@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BX5J2CC-it Volante Pace Wheel PS4'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

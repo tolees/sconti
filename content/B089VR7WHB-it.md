@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089VR7WHB-it ANWEN per Xiaomi Poco F2 PRO Cover Ultra Sottile Cover con...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

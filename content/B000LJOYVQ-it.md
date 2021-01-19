@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LJOYVQ-it Alessi Mediterraneo ESI01/29 Fruttiera di Design in...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 96.37 EUR
 currency: EUR
 price: 96.37

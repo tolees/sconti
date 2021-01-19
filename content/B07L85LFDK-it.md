@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L85LFDK-it HuaNuo Supporto per Laptop con Cuscino su Letto & Divano...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

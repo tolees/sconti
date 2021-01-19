@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ2FZTK-it Philips Lighting Hue Go White and Color Ambiance Lampada...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

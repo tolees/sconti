@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCJCZZD-it Desigual Chaq whaii Giubbotto Blu Jeans Bleach 5058 44...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 47.18 EUR
 currency: EUR
 price: 47.18

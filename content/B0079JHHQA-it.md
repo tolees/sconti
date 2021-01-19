@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0079JHHQA-it Arena Classic Silicone Cuffia Unisex Adulto Grigio...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

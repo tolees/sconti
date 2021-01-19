@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BMQ7WDO-it Plein Air ZAP 30 - Sterminainsetti 30 W Argento'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDPC2LT-it Ajax - Detersivo Crystal Clean per Vetri Con Ammoniaca...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

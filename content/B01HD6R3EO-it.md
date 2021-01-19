@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD6R3EO-it Salomon Xa Pro 3D Gtx Scarpe da Corsa Uomo Nero 40 2/3 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 90.49 EUR
 currency: EUR
 price: 90.49

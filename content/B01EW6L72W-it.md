@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EW6L72W-it Haier HTF-456DM6 Frigorifero Cube 4 Porte Libera...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

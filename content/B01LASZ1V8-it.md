@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LASZ1V8-it Pacific Rim 4K Ultra HD + Blu-Ray'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9
