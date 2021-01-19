@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TTGZNF-it adidas WB Karkaj Giacca Sportiva Uomo Glory Green L'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

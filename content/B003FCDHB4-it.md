@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003FCDHB4-it Havaianas Brasil Logo Infradito Unisex-Bambini Blu Navy...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

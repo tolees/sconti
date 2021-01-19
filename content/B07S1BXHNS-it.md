@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1BXHNS-it Hasbro Monopoly - Voice Banking Gioco in Scatola Elettronico'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

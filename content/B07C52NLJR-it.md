@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C52NLJR-it Side by Side Power Packer - Organizzatore da Viaggio a...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

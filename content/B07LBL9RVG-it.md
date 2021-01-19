@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBL9RVG-it Samsung WW10N64MRQW Lavatrice 10 kg AddWash 1400 rpm Bianco'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 528.99 EUR
 currency: EUR
 price: 528.99

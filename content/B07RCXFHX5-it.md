@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCXFHX5-it Columbia Marquam Peak Jacket Giacca Uomo Blu Collegiate...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 52.6 EUR
 currency: EUR
 price: 52.6

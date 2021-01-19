@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UV9XCW-it De Longhi HVY1020.O Verticale Young Termoventilatore...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

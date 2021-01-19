@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0035AQPOM-it Pavesi Ringo Biscotti Farciti con Crema al Gusto Vaniglia...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 0.85 EUR
 currency: EUR
 price: 0.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZV318F-it Starbucks Cappuccino by Nescafé Dolce Gusto 6 Confezioni...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

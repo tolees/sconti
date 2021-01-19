@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFCN9ZQ-it Casio Orologio Analogico Quarzo Unisex Adulto con...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 43.51 EUR
 currency: EUR
 price: 43.51

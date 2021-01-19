@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R9M3BK-it Vero Moda Vmava Plain SS Top Ga Noos T-Shirt Grigio...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

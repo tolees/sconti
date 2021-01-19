@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QY1C1S-it Fossil Orologio Da Polso Donna Ftw1202'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 64.7 EUR
 currency: EUR
 price: 64.7

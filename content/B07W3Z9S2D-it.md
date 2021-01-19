@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W3Z9S2D-it GIARIDE Cavo HDMI a VGA HDMI D-Sub 15 Pin M/M Adattatore...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

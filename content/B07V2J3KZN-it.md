@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J3KZN-it Tommy Hilfiger Lightweight Stripes Knit Sneaker Scarpe da...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 23.23 EUR
 currency: EUR
 price: 23.23

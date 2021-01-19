@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTWHWZ1-it Logitech G332 Cuffie Gaming Cablate Audio Stereo Driver da...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

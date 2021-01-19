@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJSF4FG-it Desigual - Borsa da donna Bols Logo Patch Merlo con manico...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 24.31 EUR
 currency: EUR
 price: 24.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HMXXC2U-it TRE MARIE ANCORA UNO WAFER STRACCIATELLA 140 GR'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1.18 EUR
 currency: EUR
 price: 1.18

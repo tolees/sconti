@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O7SJTZ8-it Garmin 010-11251-41 cinturino per orologio'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2DBKZG-it Timberland Gateway Pier Casual Scarpe Oxford Uomo Grigio...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

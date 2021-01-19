@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNZX4SS-it Power Theory Vetro Temperato per Nintendo Switch [2 Pezzi]...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

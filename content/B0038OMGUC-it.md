@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0038OMGUC-it Camper Peu Cami 20848 Scarpe da Ginnastica Donna Dark...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

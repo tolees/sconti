@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0761YRHXY-it Lavazza Caffè Macinato - Pacco da 6 x 250 g'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

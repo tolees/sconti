@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KLXUIPM-it Gillette Series - Gel da barba per pelli sensibili 200 ml...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

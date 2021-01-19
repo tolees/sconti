@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078LTJ3HX-it Outsunny Prato Sintetico per Giardino Set di 10pz Erba...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 37.46 EUR
 currency: EUR
 price: 37.46

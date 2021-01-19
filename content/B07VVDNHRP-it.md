@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVDNHRP-it TACKLIFE Tagliabordi a Batteria 40 V 2 5 Ah Motore...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

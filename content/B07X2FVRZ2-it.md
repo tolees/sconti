@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2FVRZ2-it Seanshow - Set di 3 trolley in ABS di alta qualità con...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 73.41 EUR
 currency: EUR
 price: 73.41

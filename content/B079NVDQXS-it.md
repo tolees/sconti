@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NVDQXS-it Samsung VC05K51F0VP Aspirapolvere a Traino Senza Sacco...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

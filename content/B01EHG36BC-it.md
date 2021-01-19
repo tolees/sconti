@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EHG36BC-it STM Bags Dux Plus Cover per iPad PRO 9.7 Nero'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

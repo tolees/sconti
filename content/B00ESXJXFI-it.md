@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ESXJXFI-it BIC Comfort 2 - Rasoio da uomo 1 confezione da 10+5 pezzi'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

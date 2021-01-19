@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMPV3FK-it ASICS GT-1000 9 Scarpe da Corsa Uomo Electric Blue/Black...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGFI9I-it Havaianas Luna Sandali Donna Blu Navy Blue 0555 39/40 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

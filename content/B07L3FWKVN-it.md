@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3FWKVN-it Tommy Hilfiger Dress Casual Leather Shoe Scarpe Stringate...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 54.15 EUR
 currency: EUR
 price: 54.15

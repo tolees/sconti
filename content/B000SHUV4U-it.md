@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SHUV4U-it Paper Mate Flexgrip Elite'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

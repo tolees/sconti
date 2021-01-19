@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDTQ6PH-it 10.1“ pollici Tablet Android 8.1 Phablet Octa Core 4 GB...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 65.32 EUR
 currency: EUR
 price: 65.32

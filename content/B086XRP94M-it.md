@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086XRP94M-it Kellogg s Krave Choco Nut - 410 g'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

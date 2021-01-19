@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J31WCRC-it Under Armour Undeniable Duffel 4.0 LG Borsa Unisex Blu...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 25.71 EUR
 currency: EUR
 price: 25.71

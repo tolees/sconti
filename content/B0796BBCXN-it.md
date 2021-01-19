@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0796BBCXN-it NAPAPIJRI Rainforest M Sum 1 Giacca Nero Black 041 Small Uomo'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

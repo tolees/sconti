@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBFZN4P-it Vans Ward Canvas Sneaker Unisex – Bambini Multicolore Otw...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

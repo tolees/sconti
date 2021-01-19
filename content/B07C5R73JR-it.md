@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5R73JR-it Samsung WW90J5356MW Lavatrice 9 kg Caricamento Frontale...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

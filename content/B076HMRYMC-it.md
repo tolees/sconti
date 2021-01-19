@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HMRYMC-it adidas Core18 Giacca Uomo Blu Dk / Bianco M'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

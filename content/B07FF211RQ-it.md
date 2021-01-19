@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FF211RQ-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

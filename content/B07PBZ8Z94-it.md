@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBZ8Z94-it American Tourister Disney Legends - Spinner S Valigia per...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 57.61 EUR
 currency: EUR
 price: 57.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J1LQSNG-it Crocs Crocband Kids Sandali con Cinturino alla Caviglia...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

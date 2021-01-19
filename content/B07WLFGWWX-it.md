@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLFGWWX-it LOVABLE Sublim Reggiseno con Ferretto Blu Blu 007 4C IT...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 10.44 EUR
 currency: EUR
 price: 10.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZSKHQY-it 4Moms MO0170080900 Sdraietta 6.6 kg Nero'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 227.18 EUR
 currency: EUR
 price: 227.18

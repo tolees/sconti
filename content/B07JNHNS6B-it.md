@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNHNS6B-it NIVEA Micellair Professional Acqua Micellare Bifase per...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.21 EUR
 currency: EUR
 price: 11.21

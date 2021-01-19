@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779H7YTF-it Kappa Taino Authentic - Felpa da Uomo con Cappuccio Stile...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.06 EUR
 currency: EUR
 price: 17.06

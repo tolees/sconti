@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8RG6PD-it Hasbro Spider-Man Marvel - Far From Home Titan Hero Power...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

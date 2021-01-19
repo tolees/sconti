@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY9HV49-it B.Catcher Collana con pendenti gemelli in zircone cubico...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

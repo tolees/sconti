@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086V35ZFV-it Corda per Saltare Calorie Conta Aerb Corda Salto...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC555NN-it Philips HR2345/29 Viva Collection Pastamaker - Macchina...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

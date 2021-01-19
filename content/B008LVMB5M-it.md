@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008LVMB5M-it Pic Vedoeco Termometro con Lente - 10 ml'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

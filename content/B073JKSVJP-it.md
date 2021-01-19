@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JKSVJP-it Marchio Amazon - find. Blusa in Velluto con Punto Smock...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.71 EUR
 currency: EUR
 price: 7.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NX5HBLH-it Marvel Ultimate Alliance 3: The Black Order - Nintendo Switch'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9I5HQZ-it Linksys WHW0301 Velop Sistema WiFi Mesh Tri-Band per Casa...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 95.9 EUR
 currency: EUR
 price: 95.9

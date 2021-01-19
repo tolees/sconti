@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M3IWD3E-it Nixon Analogico Quarzo Orologio da Polso A045-1920-00'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

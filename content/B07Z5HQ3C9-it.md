@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5HQ3C9-it Xiaomi Trolley Bagaglio a Mano con 8 Ruote 55 cm 20”...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

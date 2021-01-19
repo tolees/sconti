@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084S8WTY3-it Dash Liquido 50 lavaggi Detersivo Lavatrice Lavanda...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

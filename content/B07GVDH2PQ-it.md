@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVDH2PQ-it Body & Earth Set Regalo Bagno Donna Idee Cofanetto Regalo...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

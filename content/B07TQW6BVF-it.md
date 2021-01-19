@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQW6BVF-it Clarks Hero Limit Scarpe Stringate Derby Uomo Marrone...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

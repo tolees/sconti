@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I98YPM4-it Max Factor Lipfinity Lip Colour Rossetto Lunga Durata e...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

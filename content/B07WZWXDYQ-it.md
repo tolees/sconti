@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZWXDYQ-it Purificatore d Aria Portatile con Filtro HEPA USB Desktop...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

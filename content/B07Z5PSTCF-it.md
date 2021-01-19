@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5PSTCF-it OSOYOO Robot Car Starter Kit for Arduino UNO | STEM Remote...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

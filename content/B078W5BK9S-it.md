@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078W5BK9S-it Vano portaoggetti secondario da bracciolo per auto colore...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

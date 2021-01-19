@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJBL4-it Levi s Type 3 Giacca in Jeans Blu Firework Sherpa Trucker...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 47.89 EUR
 currency: EUR
 price: 47.89

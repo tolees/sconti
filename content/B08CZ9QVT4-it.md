@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZ9QVT4-it UniqueMe [3 Pezzi] Vetro Temperato per Xiaomi Redmi 9...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

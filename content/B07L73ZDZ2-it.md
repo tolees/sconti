@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L73ZDZ2-it AX BOXING Sneakers Uomo Donna Scarpe da Ginnastica...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

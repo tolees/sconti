@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ6S4XH-it Calvin Klein K50k505179 Cintura Blu Navy/Black 0Gy Unica...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 16.28 EUR
 currency: EUR
 price: 16.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS5MSW4-it Apple iPhone 11 128GB - Verde'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

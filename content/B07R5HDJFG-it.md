@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5HDJFG-it VAVA Hub USB C 8 in 1 Hub Type C Adattatore con HDMI 4K...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

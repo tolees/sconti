@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CZ9BFV-it Macchina Sottovuoto per Alimenti Automatica Blusmart 80Kpa...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

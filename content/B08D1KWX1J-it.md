@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D1KWX1J-it Amazon Echo 3ª generazione Tessuto grigio mélange + Amazon...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001RTS5LO-it Lagostina I Cucinieri Rotella Pizza con Anello Acciaio...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

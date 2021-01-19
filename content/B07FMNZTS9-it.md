@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMNZTS9-it Calvin Klein 3p Low Rise Trunk Boxer Blu Black/Blue...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.64 EUR
 currency: EUR
 price: 31.64

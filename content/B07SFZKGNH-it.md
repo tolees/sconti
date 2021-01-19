@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFZKGNH-it ssc napoli Maglia Gara Home 2019/2020 Uomo Blu M'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 25.16 EUR
 currency: EUR
 price: 25.16

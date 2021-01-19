@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ70QJB-it BONTEC Braccio Monitor Singolo per Schermo LED LCD da 13 a...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

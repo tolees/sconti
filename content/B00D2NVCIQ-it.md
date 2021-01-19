@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D2NVCIQ-it Panasonic KX-TG6811JTB Telefono Cordless DECT Schermo LCD...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

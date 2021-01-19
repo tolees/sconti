@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G348FNH-it Chicco Passeggino Ohlalà 2 Leggero Compatto Paprika Rosso'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

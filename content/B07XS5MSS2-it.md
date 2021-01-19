@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS5MSS2-it Apple iPhone 11 Pro 64GB - Oro'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 899.99 EUR
 currency: EUR
 price: 899.99

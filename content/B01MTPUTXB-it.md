@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTPUTXB-it AMANKA 3-in-1 Mini DisplayPort a VGA/DVI/HDMI Adattatore...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

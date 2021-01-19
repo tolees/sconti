@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGTWVQX-it New Balance 410v6 Trail Scarpe Sportive Indoor Uomo Nero...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

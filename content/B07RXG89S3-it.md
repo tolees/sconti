@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXG89S3-it Samsung HW-R530/ZF Soundbar da 290 W 2.1 Canali Nero'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

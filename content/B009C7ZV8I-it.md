@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009C7ZV8I-it JBL biocondizionatore per Pesci Rossi Biotopol R...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

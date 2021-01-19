@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009Q1DNS-it Bialetti Venus Caffettiera in Acciaio Inox Adatta all...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

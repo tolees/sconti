@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6JQS8C-it Kingston A400 SSD SA400S37/120G Unità a Stato Solido...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

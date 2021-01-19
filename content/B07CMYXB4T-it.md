@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMYXB4T-it SONGMICS Libreria di Tessuto per Bambini Libreria a 4...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

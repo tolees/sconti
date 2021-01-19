@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086F8RDSC-it Neutro Roberts Sapone Liquido Ecopouch Nutriente 400 ml 12...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

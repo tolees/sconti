@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STXN1MQ-it Skechers Energy Timeless Vision Sneaker Donna Bianco...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.13 EUR
 currency: EUR
 price: 35.13

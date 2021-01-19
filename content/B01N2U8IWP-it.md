@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2U8IWP-it Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRXD3NN-it Lacoste Gripshot 120 2 CMA Sneaker Uomo Bianco Wht/Grn 082...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086VPL2W3-it HUAWEI P40 Lite con Cover Display Punch FullView da 6.4”...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 200.99 EUR
 currency: EUR
 price: 200.99

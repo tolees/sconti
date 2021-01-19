@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVDRQ52-it Maximo Exercise Mat NBR Fitness Mat - Multi Purpose - 183...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

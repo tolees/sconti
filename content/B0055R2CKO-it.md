@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055R2CKO-it Sodastream 1047200490 Caraffe in vetro per gasatore d...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

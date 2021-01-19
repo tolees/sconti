@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP17HNY-it Sega Universale TECCPO 1050W Seghe a Gattuccio...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

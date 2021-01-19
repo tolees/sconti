@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9ZLXC7-it Nike Air Max Excee U Scarpe da Corsa Uomo Bianco...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 53.83 EUR
 currency: EUR
 price: 53.83

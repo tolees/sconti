@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TT4QHR-it Massaggiatore Cervicale cervicale massaggiatore homedics...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

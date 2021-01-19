@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0IYKPC-it K-Way Le Vrai 3.0 Victor Unisex Felpa Rosso Small Taglia...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

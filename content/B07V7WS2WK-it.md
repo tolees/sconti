@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7WS2WK-it Love Moschino Jc4252pp0a Pochette da Giorno Donna Nero...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

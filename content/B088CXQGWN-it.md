@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088CXQGWN-it Reshias Cover per Sony Xperia L4 Morbido Trasparente TPU...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

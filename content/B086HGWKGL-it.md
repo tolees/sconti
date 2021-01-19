@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086HGWKGL-it HP - Gaming OMEN 15-dh0052nl Notebook Intel Core i7-9750H...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 410.0 EUR
 currency: EUR
 price: 410.0

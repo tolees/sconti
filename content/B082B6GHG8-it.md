@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082B6GHG8-it Brunello di Montalcino DOCG Collezione del Conte Villa da...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

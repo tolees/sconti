@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FBEF2FI-it TERRY 1000955 Scaffale Modulare a 5 Ripiani da Interno...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 30.9 EUR
 currency: EUR
 price: 30.9

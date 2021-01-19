@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08532TMZS-it AVIWIS Multi Cavo di Ricarica 3 in 1 Cavo USB Multiplo...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

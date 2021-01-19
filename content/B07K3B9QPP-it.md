@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3B9QPP-it homcom Carrello per Bicicletta Rimorchio Cargo Bici...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 87.96 EUR
 currency: EUR
 price: 87.96

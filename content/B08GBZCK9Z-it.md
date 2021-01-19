@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GBZCK9Z-it 50PC Usa e getta Blu a 3 Strati Blu'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

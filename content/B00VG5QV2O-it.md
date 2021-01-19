@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VG5QV2O-it Tè bianco imperiale dell’Himalaya in foglie – Il tè più...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

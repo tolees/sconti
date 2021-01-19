@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLZNYNM-it VIAKAL Detersivo Anticalcare Spray Fresco Profumo Maxi...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

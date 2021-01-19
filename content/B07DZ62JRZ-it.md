@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZ62JRZ-it HP - Gaming Omen 400 Mouse Gaming 6 Tasti Programmabili...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084D7JVV6-it Sega a Gattuccio Brushless POPOMAN 18V Sega Universale con...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

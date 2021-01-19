@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5NW2S2-it Timberland NEWBURYPORT Sacca 38 cm 15 liters Nero Black'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.44 EUR
 currency: EUR
 price: 38.44

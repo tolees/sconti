@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000T2HNWW-it Metaltex Babatex - Cestello sottoripiano - 363840'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004NNZAKA-it My.Size - Profilattici 69 mm 36 pezzi'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

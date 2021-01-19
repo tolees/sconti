@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGM6RB4-it TCL TS8011 Soundbar 2.1 canali con subwoofer integrato –...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 98.15 EUR
 currency: EUR
 price: 98.15

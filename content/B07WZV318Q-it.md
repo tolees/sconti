@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZV318Q-it STARBUCKS SINGLE-ORIGIN COLOMBIA by NESCAFÉ DOLCE GUSTO...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

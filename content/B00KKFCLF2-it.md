@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KKFCLF2-it SONGMICS 2 x Sgabelli da Bar e da Cucina in Similpelle...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

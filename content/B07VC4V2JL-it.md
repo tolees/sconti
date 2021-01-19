@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC4V2JL-it Calvin Klein Vegetable Dye Monogram Baby Tee T-Shirt Blu...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

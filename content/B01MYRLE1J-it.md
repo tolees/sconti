@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYRLE1J-it Bimar PAA1 Aspirapolvere Bidone Aspiratutto Aspira liquidi...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0187CDYLO-it MySound Speak Street Cuffie Stereo Extra Bass Microfono e...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

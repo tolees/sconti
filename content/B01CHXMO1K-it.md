@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CHXMO1K-it Nilox Bodyguard Smartwatch e Tracker GPS Nero'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

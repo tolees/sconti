@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGR4QPH-it Whiskas Selezione in Salsa 84 Buste da 100 gr al Gusto di...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQUX58U-it Diadora - Sneakers B. Elite per Uomo e Donna EU 40.5'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 33.89 EUR
 currency: EUR
 price: 33.89

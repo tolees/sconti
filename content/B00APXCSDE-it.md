@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00APXCSDE-it Pentole Agnelli ALMA111B38 Padella Alta per Saltare Manico...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

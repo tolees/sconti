@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TSAE76Q-it Scholl Gel Activ Sport Solette Sportive per Donna 35-40.5...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

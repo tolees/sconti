@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZWKMJL-it Tastiera meccanica da gioco a basso profilo ultra sottile...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

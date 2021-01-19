@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VMTVFJ-it Bialetti Nuovo Elegance 75cl Milk Pitcher 75 cl Bollilatte...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9PSJGV-it Fitbit Versa Edizione Speciale con Rilevazione del Battito...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

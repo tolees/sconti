@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAASQ6C-it Swarovski Pendente Iconic Swan Multicolore Placcatura Rodio'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 42.18 EUR
 currency: EUR
 price: 42.18

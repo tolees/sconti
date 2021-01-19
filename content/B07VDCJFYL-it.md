@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDCJFYL-it NAPAPIJRI Bishop Fzh Cappuccio Rosso Bright Red R471 Small...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 53.7 EUR
 currency: EUR
 price: 53.7

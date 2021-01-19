@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KLV3J82-it Under Armour UA Hustle 3.0 Zaino Unisex Rosso...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.7 EUR
 currency: EUR
 price: 22.7

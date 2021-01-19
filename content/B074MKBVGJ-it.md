@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074MKBVGJ-it Havaianas Brasil Logo Infradito Unisex-Bambini Nero Black...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OPVS8MM-it Grey L Acchiappacolore Fogli Cattura Colore Lavatrice...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.87 EUR
 currency: EUR
 price: 3.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7ND4YH-it Etekcity Bilancia Pesapersone Digitale Bilancia...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

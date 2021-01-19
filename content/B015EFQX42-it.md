@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015EFQX42-it LEONE 1947 Flash Guantoni Nero 12 Oz'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

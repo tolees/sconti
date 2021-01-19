@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DTHFVJZ-it Auricolari Bluetooth 5.0 Senza Fili Cancellazione del...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SWCLM6Y-it Hoover SM156WD4 Aspirabriciole da cucina senza sacco 15.6...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

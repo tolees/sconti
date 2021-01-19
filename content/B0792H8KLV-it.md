@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792H8KLV-it Geox U Ariam D Scarpe da Ginnastica Basse Uomo Grigio...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 40.25 EUR
 currency: EUR
 price: 40.25

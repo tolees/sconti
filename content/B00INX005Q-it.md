@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00INX005Q-it Kärcher K 4 - Idropulitrice a Freddo 130 Bar 420 L/H 30...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 142.95 EUR
 currency: EUR
 price: 142.95

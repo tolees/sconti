@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075PKJW9M-it Havaianas Logo Metallic Infradito Donna Nero Black/Black...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

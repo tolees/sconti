@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGLBPYP-it Timberland Adv 2.0 Cupsole Modern Oxford Sneaker Uomo...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

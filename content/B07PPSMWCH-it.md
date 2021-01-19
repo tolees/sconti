@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPSMWCH-it 4D Silk Fiber Eyelash Mascara Mascara Waterproof Mascara...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

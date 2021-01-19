@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W9RSX9M-it Calvin Klein underwear - RADIANT COTTON - BIKINI Intimo da...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

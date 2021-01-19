@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036UNK0I-it ParkTool Supporto Montaggio PRS-25 Team Issue Blu Blau 119...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 290.59 EUR
 currency: EUR
 price: 290.59

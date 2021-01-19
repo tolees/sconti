@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYN0BHB-it Samsonite Success Portamonete 100% Pelle 10 cm Nero'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.21 EUR
 currency: EUR
 price: 19.21

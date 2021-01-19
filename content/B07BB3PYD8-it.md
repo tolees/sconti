@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB3PYD8-it HyperX HX-HSCSC-BK Cloud Stinger Core Cuffie Gaming per...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 23.01 EUR
 currency: EUR
 price: 23.01

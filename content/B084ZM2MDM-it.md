@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZM2MDM-it Philips Frullatore a Immersione HR2543/00 nuova Daily+...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 47.09 EUR
 currency: EUR
 price: 47.09

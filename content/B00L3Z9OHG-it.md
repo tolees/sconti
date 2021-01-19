@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L3Z9OHG-it Lacoste NH1112FG Portamonete Uomo Nero Black 9.5 x 3 x...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 57.41 EUR
 currency: EUR
 price: 57.41

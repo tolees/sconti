@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1XNB85-it Cornice digitale'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

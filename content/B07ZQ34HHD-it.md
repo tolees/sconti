@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQ34HHD-it Telecamera di Sorveglianza WiFi 1080P Littlelf Telecamera...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.59 EUR
 currency: EUR
 price: 39.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT6NJSP-it Levi s 721 High Rise Skinny Jeans Hyper Soft T2 Sepia Rose...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BHDHR5-it LG 34WN750 Monitor 34" QuadHD UltraWide 21:9 LED IPS HDR...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

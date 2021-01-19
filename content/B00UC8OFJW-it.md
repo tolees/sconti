@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UC8OFJW-it homcom - Tapis roulant Elettrico Attrezzo Ginnico...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 219.95 EUR
 currency: EUR
 price: 219.95

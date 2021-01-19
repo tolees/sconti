@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BRRHC7-it Lampade Solari a Led da Esterno AOPAWA 210 LED【Ultima...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

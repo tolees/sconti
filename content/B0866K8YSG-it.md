@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0866K8YSG-it Pantene Pro-V Maschera Multi-Nutriente Protezione...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SKN7YV-it Diesel Orologio Cronografo Da Uomo Quarzo Con Cinturino In...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 132.59 EUR
 currency: EUR
 price: 132.59

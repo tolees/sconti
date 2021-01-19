@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXWXSWX-it Champion Performance Crew Calze Sport Uomo Multicolore...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

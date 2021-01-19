@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082LGWKT8-it Asics Gel-Quantum 90 2 Scarpe da Corsa Uomo'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

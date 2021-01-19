@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CK3JZC6-it EGV [2 Pezzi Pellicola Fotocamera per Xiaomi Redmi Note 9S...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

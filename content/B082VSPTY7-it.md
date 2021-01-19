@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VSPTY7-it Coccolino - Ammorbidente Concentrato Delicato e Soffice -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLQ4P8W-it Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione Bassi...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HV2OC4-it Crocs Baya Summer Flip U Sandali Uomo Nero 45-46'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKWMRKX-it Moleskine Edizione Box in Pelle Notebook Classic Pagina a...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X51FGHF-it Eastpak Springer Marsupio portasoldi 23 cm 2 L Nero...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

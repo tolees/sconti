@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0896WGWTM-it iLink Kids Montessori Wooden Tangram Shape Puzzle Toys...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

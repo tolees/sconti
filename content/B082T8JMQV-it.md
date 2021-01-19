@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082T8JMQV-it Big Babol Mega Stick Gomme da Masticare Chewing Gum...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

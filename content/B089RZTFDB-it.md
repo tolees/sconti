@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RZTFDB-it goldenpoint Leggings Straight con borchie tonde Fantasia...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.47 EUR
 currency: EUR
 price: 22.47

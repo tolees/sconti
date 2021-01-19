@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJHXWJN-it Burton Underhill Maglia A Maniche Corte Uomo True Black M'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

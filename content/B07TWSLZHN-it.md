@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWSLZHN-it Electrolux Lavastoviglie EEA 17100 L - Lavastoviglie da...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 333.18 EUR
 currency: EUR
 price: 333.18

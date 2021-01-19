@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HM5QSZN-it homcom Panca per Addominali Pieghevole per Allenarsi a...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

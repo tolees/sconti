@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WSK8HK-it amzdeal Pietra per Pizza con Spatola e Ricetta in Legno...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

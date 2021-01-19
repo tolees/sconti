@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DVF386B-it Windows 10 Professional 32/64 bit | Chiave di licenza...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

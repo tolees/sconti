@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLVRH2Z-it Nike Wmns Revolution 5 Scarpe da Corsa Womens Black/White-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

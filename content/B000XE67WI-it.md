@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XE67WI-it Dolce&Gabbana The One Eau de Parfum Donna 50 ml'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

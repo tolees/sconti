@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHTT7MZ-it Desigual Vest Portland Vestito Nero Negro 2000 Large Donna'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

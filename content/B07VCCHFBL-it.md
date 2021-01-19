@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCCHFBL-it NAPAPIJRI Elbas 3 Polo Verde Green Way Gw11 Medium Uomo'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

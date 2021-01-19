@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TFT1P4-it Bosch UniversalChain 18 Sega a Catena a Batteria senza...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

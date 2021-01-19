@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I9X2KLW-it Sony DSC-HX60 Fotocamera Digitale Compatta Travel con...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 222.99 EUR
 currency: EUR
 price: 222.99

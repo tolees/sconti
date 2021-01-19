@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NABTGY2-it AmazonBasics - Sacchetti per bisogni dei cani con...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

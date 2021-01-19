@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKY9SNZ-it Imetec ZeroCalc Ferro da Stiro Z1 2500 Tecnologia...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

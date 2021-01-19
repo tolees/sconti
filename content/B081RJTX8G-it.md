@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RJTX8G-it BRIKSMAX Kit di Illuminazione a LED per Lego Technic Land...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

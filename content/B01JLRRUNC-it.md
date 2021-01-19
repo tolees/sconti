@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JLRRUNC-it Hotpoint AQ97D 49D IT Lavatrice a Carica Frontale 9 kg...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 315.37 EUR
 currency: EUR
 price: 315.37

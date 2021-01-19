@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZIZ7QQ-it Panasonic WER160L2504 - Batteria per rasoio professionale...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.33 EUR
 currency: EUR
 price: 14.33

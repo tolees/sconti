@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q7FKD1-it 1Mii Ricevitore Bluetooth 5.0 Adattatore Audio Bluetooth...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJSYNKJ-it Supporto per TV da Soffitto - Staffa Regolabile per TV...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NJ18SQ-it Puma Liga Casuals Hoody Felpa con Cappuccio Uomo Blu...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

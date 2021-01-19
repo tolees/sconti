@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDV236P-it MROTY Italia | Striscia LED RGB Strisce LED 10mt Luci LED...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

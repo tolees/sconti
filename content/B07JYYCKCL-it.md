@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYYCKCL-it Lampadina LED Alexa E27 Novostella Lampadina Intelligente...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

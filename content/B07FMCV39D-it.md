@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMCV39D-it Chicco Salviettine Detergenti Multiuso con Placchetta 12...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

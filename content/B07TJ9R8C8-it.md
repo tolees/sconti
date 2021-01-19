@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9R8C8-it Levi s T-Shirt Multicolore Authentic Colorblock Tee...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

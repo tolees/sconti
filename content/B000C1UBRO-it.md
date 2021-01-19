@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000C1UBRO-it Calvin Klein Eternity Moment Eau de Parfum Donna 100 ml'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 24.33 EUR
 currency: EUR
 price: 24.33

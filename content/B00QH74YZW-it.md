@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QH74YZW-it adidas Stan Smith J Scarpe da Basket Unisex-Adulto Nero...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

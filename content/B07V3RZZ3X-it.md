@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3RZZ3X-it VBIGER Zaino Porta PC Uomo 17.3 Pollici Impermeabile con...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OLVQ6M-it Converse Chuck Taylor All Star Sneakers Unisex - Adulto...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.3 EUR
 currency: EUR
 price: 38.3

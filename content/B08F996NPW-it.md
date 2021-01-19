@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F996NPW-it ANKEWAY Android 9.1 Autoradio 2 Din GPS Navigation 7...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

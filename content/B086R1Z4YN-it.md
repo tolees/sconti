@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086R1Z4YN-it Samsung TV UE55TU8070UXZT Smart TV 55" Serie TU8070...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 472.89 EUR
 currency: EUR
 price: 472.89

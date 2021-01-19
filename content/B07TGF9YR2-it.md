@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGF9YR2-it QUADRANT ITEMS Kit da Palestra Borraccia da 500ml Telo...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

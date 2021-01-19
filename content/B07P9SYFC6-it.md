@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9SYFC6-it Sony KD-49XG7005 TV Smart da 49" 4K Ultra HD HDR Slim...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZC6JC-it Geox D BIBBIANA A Scarpe con Tacco Donna Nero Black C9997...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.01 EUR
 currency: EUR
 price: 22.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711S2JHQ-it Samsung U28H750 Monitor 28 4K Ultra HD 3840 x 2160...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 335.48 EUR
 currency: EUR
 price: 335.48

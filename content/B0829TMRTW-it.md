@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829TMRTW-it Feagar Cuscino per Sedile Cuscino per Emorroidi di Schiena...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

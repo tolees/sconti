@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081D42QHY-it MPOW S16 Auricolari Wireless Sport 12H Playtime Cuffie...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

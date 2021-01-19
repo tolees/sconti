@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DC80K5G-it Kimbo Capsule di Caffè Espresso Sublime Kimbo UNO System 6...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.3 EUR
 currency: EUR
 price: 15.3

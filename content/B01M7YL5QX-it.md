@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7YL5QX-it adidas TIRO BP Zaino Unisex-Adulto Blu Azul/Maruni/Blanco...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.81 EUR
 currency: EUR
 price: 14.81

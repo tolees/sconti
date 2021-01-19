@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N4OV3QY-it HOMCOM Stendino Asciugabiancheria 3 Livelli Regolabili e...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 43.96 EUR
 currency: EUR
 price: 43.96

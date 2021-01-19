@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4JK3SS-it Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker Uomo Blu...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 74.93 EUR
 currency: EUR
 price: 74.93

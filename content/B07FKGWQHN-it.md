@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKGWQHN-it find. Slouch Stivaletti Marrone Caramel 40 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 30.82 EUR
 currency: EUR
 price: 30.82

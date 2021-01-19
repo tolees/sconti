@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1WLF35-it Stream System TV LED 40 BM40L'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 149.8 EUR
 currency: EUR
 price: 149.8

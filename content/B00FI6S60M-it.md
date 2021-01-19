@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FI6S60M-it Catwalk Collection Handbags - Vera Pelle - Grande Borsa a...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DRGFTYX-it Telecamera Wifi Esterna INQMEGAPRO 1080P PTZ Dome...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

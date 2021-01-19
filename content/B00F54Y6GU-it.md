@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F54Y6GU-it August EP650 Cuffie Bluetooth Senza Fili v4.2 Auricolare...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

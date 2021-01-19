@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JB6NSWP-it Termometro senza contatto LCD Display digitale...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

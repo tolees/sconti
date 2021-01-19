@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QYRJ7P-it Pokémon Mystery Dungeon: SQUADRA DI Soccorso DX - Nintendo...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

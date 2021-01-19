@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNRKDLS-it DFNT Spray antizanzare per Ambienti Repellente zanzare...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.92 EUR
 currency: EUR
 price: 15.92

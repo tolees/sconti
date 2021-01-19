@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPK4GDY-it La Crema del Caffè - Aroma e Gusto 12 Astucci da 10...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

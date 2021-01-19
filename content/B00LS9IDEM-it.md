@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LS9IDEM-it K-Way le Vrai 3.0 Claude Giacca Impermeabile Uomo Verde...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 73.4 EUR
 currency: EUR
 price: 73.4

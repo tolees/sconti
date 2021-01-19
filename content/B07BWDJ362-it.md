@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWDJ362-it Mini manuale tritatutto 520 ml verdure cipolla chopper con...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

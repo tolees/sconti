@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSD7ZP5-it Smart Panda Lavagna Calendario Magnetico Frigorifero -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.96 EUR
 currency: EUR
 price: 11.96

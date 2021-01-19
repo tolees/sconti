@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSS635Y-it Geox D Hiver B Sandali con Chiusura a T Donna Marrone...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 33.57 EUR
 currency: EUR
 price: 33.57

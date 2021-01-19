@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0EZ4YA-it Skyrim - Special Edition'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

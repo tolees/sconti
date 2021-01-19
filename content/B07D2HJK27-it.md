@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2HJK27-it DYNASONIC - Altoparlante Bluetooth 10W portatile Lettore...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.12 EUR
 currency: EUR
 price: 27.12

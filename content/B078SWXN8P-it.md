@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SWXN8P-it Timberland Capri Sunset Wedge Sandali Donna Nero Black...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

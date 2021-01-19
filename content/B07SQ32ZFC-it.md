@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ32ZFC-it Crocs Swiftwater Molded Expedition Sandal Punta Aperta...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

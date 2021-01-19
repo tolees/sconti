@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7H2W4Q-it Kingdom Hearts: The Story so far - PlayStation 4...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

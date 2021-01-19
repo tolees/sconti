@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1S9DBG-it EVERGREENWEB Kit Rete e Materasso Singolo 80x190 Alto 20...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 158.98 EUR
 currency: EUR
 price: 158.98

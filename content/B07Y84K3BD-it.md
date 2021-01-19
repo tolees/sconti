@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y84K3BD-it Zacro Ring Light LED LED Luce ad Anello for YouTube Video...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

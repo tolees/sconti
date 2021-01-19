@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VZVMWB-it Michael Kors Orologio Analogico Quarzo Da Uomo Con...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

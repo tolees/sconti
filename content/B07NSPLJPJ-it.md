@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSPLJPJ-it Funko 39454 POP! Vinyl: Movies: Ghostbusters: Peter...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.39 EUR
 currency: EUR
 price: 31.39

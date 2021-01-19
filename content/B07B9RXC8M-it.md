@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9RXC8M-it Canon Italia EOS 4000D + EF-S DC III Fotocamera Reflex...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084PS5N3L-it Mastrolindo Detersivo Pavimenti Superfici Delicate Maxi...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

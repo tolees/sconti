@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0734XLFDP-it Guanti usa e getta in plastica 100 pezzi per uso...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

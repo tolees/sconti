@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDPDS77-it Samsung WW80K5210VW Lavatrice Slim 8 kg AddWash Profondità...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

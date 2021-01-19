@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GUZJE2S-it adidas Stan Smith C Scarpe da Ginnastica Basse Unisex-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 25.36 EUR
 currency: EUR
 price: 25.36

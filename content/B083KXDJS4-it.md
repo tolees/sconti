@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KXDJS4-it Samsung Galaxy S10 Lite Smartphone Display 6.7" Super...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

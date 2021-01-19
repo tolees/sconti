@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJXNR9P-it Lacoste Pj2909 Polo Viola Corsaire 68t 12 anni Taglia...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

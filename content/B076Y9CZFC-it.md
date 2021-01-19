@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Y9CZFC-it Levi s LS Graphic Tee - B Maglia a Maniche Lunghe Bianco...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

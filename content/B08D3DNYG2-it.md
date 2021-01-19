@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3DNYG2-it BOMIZI Cover Xiaomi Mi 9T Mi9T PRO Custodia Trasparente...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088T29CZK-it Tablet Android 8.1 Tablet da 10 pollici con processore...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

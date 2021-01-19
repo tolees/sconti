@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00REFWAOI-it Reebok Classic Leather Scarpe da Ginnastica Uomo Nero 42 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

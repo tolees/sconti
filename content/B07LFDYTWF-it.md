@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDYTWF-it Levi s Francine Down Pckble Jkt Giacca Nero Meteorite 0000...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

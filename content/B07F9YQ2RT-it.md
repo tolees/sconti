@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9YQ2RT-it Porta Cellulare Bici Wiecok Supporto Fotocamera Bici 360°...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

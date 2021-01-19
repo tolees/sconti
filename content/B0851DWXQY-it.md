@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851DWXQY-it HERSITY Cucina Giocattolo per Bambini Piano Cottura con...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

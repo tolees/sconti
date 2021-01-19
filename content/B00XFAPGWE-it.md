@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XFAPGWE-it Lacoste L1230 Polo Sport Ultraleggera Uomo Grigio Argent...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

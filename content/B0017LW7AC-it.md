@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0017LW7AC-it Guerlain Habit Rouge 21867 Acqua di Colonia spray 100 ml'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 47.46 EUR
 currency: EUR
 price: 47.46

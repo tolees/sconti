@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRY2C4X-it Curcuma Bio 1440 mg con Piperina e Zenzero - 180 Capsule...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

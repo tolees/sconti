@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNK0VWM-it Rimmel Smalto Unghie Super Gel Nail Polish Effetto Gel a...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

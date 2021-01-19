@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC4HYPF-it eXtremeRate Soft Grip Cover Custodia Anteriore Copertura...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49
