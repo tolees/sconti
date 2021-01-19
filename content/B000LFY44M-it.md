@@ -25,10 +25,10 @@ Puoi trovare [Silverline  Sega a tazza diamantata - 852348](https://www.amazon.i
 
 ℹ️:
 
-- Non utilizzare con azione a percussione
-- Taglio a secco di fori accurati in muratura
-- Corpo in acciaio a sollecitazione severa con segmenti di taglio con polvere di diamanti
 - Da utilizzare con trapano dotato di frizione di sicurezza
+- Taglio a secco di fori accurati in muratura
 - Da utilizzare con alberi compatibili 1/2" BSP
+- Non utilizzare con azione a percussione
+- Corpo in acciaio a sollecitazione severa con segmenti di taglio con polvere di diamanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000LFY44M/?tag=tolees00-21)

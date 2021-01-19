@@ -25,11 +25,11 @@ average: '11.36'
 
 ℹ️:
 
+- Ideale come regalo aziendale, natalizio, compleanno, laurea etc
 - Volume: 1.5 liters
+- Santorsola prosecco doc luxury + santorsola asti docg
 - Contenuto alcolico (alc/vol): 11.0 percent_by_volume
 - Volume confezione: 3500.0 milliliters
-- Santorsola prosecco doc luxury + santorsola asti docg
 - Confezione regalo 2 bottilgie
-- Ideale come regalo aziendale, natalizio, compleanno, laurea etc
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D1CZPWF/?tag=tolees00-21)

@@ -25,10 +25,10 @@ Puoi trovare [KÖNIG CL-10 103 - Catene da Neve  1 paio](https://www.amazon.it/d
 
 ℹ️:
 
-- Omologazioni/Certificazioni/Conformità: Ö-Norm 5117, UNI 11313, TÜV.
 - Bottoni in nylon di protezione per cerchi in lega (applicazione facoltativa).
 - 215/70-16, 215/60-17, 225/55-17, 215/55-18, 275/35-18, 245/40-19
-- 10 mm di ingombro.
+- Omologazioni/Certificazioni/Conformità: Ö-Norm 5117, UNI 11313, TÜV.
 - La catena autotensionante con rinforzi rompighiaccio per una migliore performance.
+- 10 mm di ingombro.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006INJ96E/?tag=tolees00-21)

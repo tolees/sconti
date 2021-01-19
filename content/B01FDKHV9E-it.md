@@ -25,10 +25,10 @@ average: '2.49'
 
 ℹ️:
 
-- Consigli uso: ideale con del riso lessato o insieme a delle uova strapazzate
 - Secondo piatto pronto a base di tonno e fagioli, dove il gusto pieno dei fagioli viene valorizzato dalla combinazione con il tonno per offrirti una preparazione ricca di sostanza
 - Formato: confezione da 2 lattine da 160 g ciascuna
-- Ingredienti: fagioli 32%, tonno* 26%, acqua, olio di semi di mais, doppio concentrato di pomodoro, sale, marsala, fecola di patate, senape, aromi naturali di pepe e cipolla, zucchero. * Euthynnus (Katsuwonus) pelamis
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
+- Ingredienti: fagioli 32%, tonno* 26%, acqua, olio di semi di mais, doppio concentrato di pomodoro, sale, marsala, fecola di patate, senape, aromi naturali di pepe e cipolla, zucchero. * Euthynnus (Katsuwonus) pelamis
+- Consigli uso: ideale con del riso lessato o insieme a delle uova strapazzate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FDKHV9E/?tag=tolees00-21)

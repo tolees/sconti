@@ -27,8 +27,8 @@ Puoi trovare [homcom Sgabello Stile Industriale per Cucina/Bar in Metallo  Sedut
 
 - ✅STILE INDUSTRIALE: Lunione del telaio in metallo e della seduta in legno di pino rende questo sgabello laccessorio perfetto per arredare il tuo ambiente con uno stile moderno ed esclusivo.
 - ✅LEGNO DI PINO E METALLO: La struttura è costruita con un telaio in metallo, una seduta in legno di pino con effetto invecchiato e i 4 piedini antiscivolo e antigraffio.
-- ✅ALTEZZA REGOLABILE: Questo sgabello HOMCOM è ideale per adulti e bambini. Puoi regolare laltezza dello sgabello tra 52cm-75cm usando lapposita maniglia orizzontale in metallo: è facilissimo e ci vorrà solo un attimo!
 - ✅DIMENSIONI: Il tuo nuovo sgabello con dimensioni: 40L x 40P x 52-75A cm; seduta: Φ33 x 3 cm; altezza poggiapiedi: 22cm; carico massimo: 150kg.
 - ✅COMODO POGGIAPIEDI: Il poggiapiedi è posizionato a unaltezza di 22 cm ed è perfetto per il tuo relax!
+- ✅ALTEZZA REGOLABILE: Questo sgabello HOMCOM è ideale per adulti e bambini. Puoi regolare laltezza dello sgabello tra 52cm-75cm usando lapposita maniglia orizzontale in metallo: è facilissimo e ci vorrà solo un attimo!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08748YMSZ/?tag=tolees00-21)

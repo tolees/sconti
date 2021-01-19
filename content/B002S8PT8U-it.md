@@ -25,10 +25,10 @@ Puoi trovare [DAVIDOFF Hot Water Eau de Toilette 110 ml](https://www.amazon.it/d
 
 ℹ️:
 
-- An aftershave for men
-- Base Notes of Styrax and Benzoin.Top notes:Absinthe, Basil,Heart notes:Pimento, Patchouli
-- Fragrance from the designer house of Davidoff
 - A fiery oriental, masculine fragrance
+- Fragrance from the designer house of Davidoff
+- Base Notes of Styrax and Benzoin.Top notes:Absinthe, Basil,Heart notes:Pimento, Patchouli
 - 110ml Bottle
+- An aftershave for men
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002S8PT8U/?tag=tolees00-21)

@@ -25,9 +25,9 @@ Puoi trovare [Startech.Com Cavo di Ricarica e Sincronizzazione Micro USB da 1 m 
 
 ℹ️:
 
+- Lunghezza cavo: 2 m
 - Prodotto di ottima qualità
 - Genere di connettore: maschio/maschio
-- Lunghezza cavo: 2 m
 - Velocità massima di trasferimento dati 480 Mbit/s
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015OGXV64/?tag=tolees00-21)
