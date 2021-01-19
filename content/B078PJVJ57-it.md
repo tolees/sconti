@@ -26,10 +26,10 @@ average: '17.3'
 
 ℹ️:
 
-- Numero di giocatori: 2 − 4 | Età consigliata: da 14 anni in su | Durata media: 90 minuti
+- Spedizione Endurance è un’espansione del gioco base che conduce i giocatori nel 1914, in Antartide, quando l’equipaggio dell’Endurance tentò di attraversare il continente
 - Edizione in lingua italiana
+- Numero di giocatori: 2 − 4 | Età consigliata: da 14 anni in su | Durata media: 90 minuti
 - Lesperienza di gioco può essere ampliata con numerose espansioni: ogni espansione conduce i giocatori in unepoca o in un mondo diverso per risolvere una missione
 - In questo avvincente gioco collaborativo i giocatori sono chiamati a risolvere una missione: dovranno esplorare luoghi, rinvenire oggetti, risolvere misteri, rebus ed enigmi nel minor tempo possibile
-- Spedizione Endurance è un’espansione del gioco base che conduce i giocatori nel 1914, in Antartide, quando l’equipaggio dell’Endurance tentò di attraversare il continente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078PJVJ57/?tag=tolees00-21)
