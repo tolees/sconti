@@ -25,10 +25,10 @@ Puoi trovare [Orologio da uomo  Collezione Legend  cronografo  in acciaio e PVD 
 
 ℹ️:
 
+- Funzioni: Cronografo
 - Segnatempo dalla livrea inconfondibile, gli orologi della Collezione Maserati Legend, con movimento cronografo o automatico, racchiuso nella cassa da 42 mm con finitura lucida e satinata.
 - Materiali: Acciaio, PVD Oro
 - Confezione originale Maserati
 - Da notare, i forti richiami al mondo della corsa: quadranti sabbiati con dettagli colore a contrasto, doppi contatori in linea al 3 e al 9, cinturini in pelle traforata o bracciali in acciaio con doppia finitura.
-- Funzioni: Cronografo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NNKKKD8/?tag=tolees00-21)
