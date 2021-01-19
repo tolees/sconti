@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N1UCVIA-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
-tags: 
+tags: tole.es
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

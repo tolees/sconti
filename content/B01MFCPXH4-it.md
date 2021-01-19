@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MFCPXH4-it Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9...'
-tags: 
+tags: tole.es
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WV9KJ96-it Tablet 10 Pollici YESTEL 4GB RAM+64GB ROM +Espanso 128GB...'
-tags: 
+tags: tole.es
 actualPrice: 108.98 EUR
 currency: EUR
 price: 108.98

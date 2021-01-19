@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS4MGQL-it Apple iPhone 11 128GB - Rosso'
-tags: 
+tags: tole.es
 actualPrice: 735.0 EUR
 currency: EUR
 price: 735.0

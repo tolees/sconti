@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFNKR2N-it Desigual Bols Intra Durban Borsa a tracolla da donna beige...'
-tags: 
+tags: tole.es
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

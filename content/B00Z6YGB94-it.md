@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z6YGB94-it Pinypon Famosa Casa delle Favole 700012406'
-tags: 
+tags: tole.es
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

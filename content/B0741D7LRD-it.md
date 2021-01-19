@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0741D7LRD-it Princess Friggitrice ad Aria Calda Family XXL 182050 1700...'
-tags: 
+tags: tole.es
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

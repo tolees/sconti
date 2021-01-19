@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0888BML8X-it Auricolari Bluetooth Cuffie Bluetooth Senza Fili Wireless...'
-tags: 
+tags: tole.es
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

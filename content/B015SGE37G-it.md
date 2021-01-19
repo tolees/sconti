@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGE37G-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

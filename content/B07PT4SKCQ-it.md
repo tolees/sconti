@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT4SKCQ-it SAWAKE Ventilatore Manuale Ventola USB Portatile con Base...'
-tags: 
+tags: tole.es
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

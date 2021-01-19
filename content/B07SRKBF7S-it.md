@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRKBF7S-it Geox D Jaysen A Scarpe da Ginnastica Basse Donna Bianco...'
-tags: 
+tags: tole.es
 actualPrice: 43.23 EUR
 currency: EUR
 price: 43.23

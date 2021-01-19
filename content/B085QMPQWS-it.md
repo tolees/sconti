@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085QMPQWS-it Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV:...'
-tags: 
+tags: tole.es
 actualPrice: 293.86 EUR
 currency: EUR
 price: 293.86

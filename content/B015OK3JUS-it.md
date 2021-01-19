@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015OK3JUS-it PUMA Leadcat Scarpe da Spiaggia e Piscina Unisex-Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

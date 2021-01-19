@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088B4BXYT-it Dittzz Technic Fuoristrada Set di Costruzioni 1:10 2 4Ghz...'
-tags: 
+tags: tole.es
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

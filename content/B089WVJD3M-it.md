@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089WVJD3M-it Finish 72 Pastiglie Per Lavastoviglie All In One Max...'
-tags: 
+tags: tole.es
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

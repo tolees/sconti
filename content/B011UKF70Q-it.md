@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011UKF70Q-it Dal Negro-Dal Negro-21043 Ramino Italia 21043'
-tags: 
+tags: tole.es
 actualPrice: 8.08 EUR
 currency: EUR
 price: 8.08

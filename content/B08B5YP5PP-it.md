@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5YP5PP-it Echo Plus 2ª generazione - Tessuto antracite + Philips Hue...'
-tags: 
+tags: tole.es
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

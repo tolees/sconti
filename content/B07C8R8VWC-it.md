@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8R8VWC-it AKAI TV AKTV3215 Ethernet Televisore 32 Pollici TV LED HD...'
-tags: 
+tags: tole.es
 actualPrice: 145.49 EUR
 currency: EUR
 price: 145.49

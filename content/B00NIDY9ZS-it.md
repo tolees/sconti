@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NIDY9ZS-it PowerWalker VI 850SE LCD / IEC UPS 850 VA 4 AC AC...'
-tags: 
+tags: tole.es
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

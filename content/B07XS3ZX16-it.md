@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS3ZX16-it Apple iPhone 11 Pro 64GB - Verde Notte'
-tags: 
+tags: tole.es
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

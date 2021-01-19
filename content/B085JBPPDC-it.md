@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085JBPPDC-it Calvin Klein Sneakersocken 6er Pack White/Grey/Black 40/46...'
-tags: 
+tags: tole.es
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

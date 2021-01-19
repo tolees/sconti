@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813YR9NY-it adidas Sleek W Scarpe da Ginnastica Donna Ftwr...'
-tags: 
+tags: tole.es
 actualPrice: 48.55 EUR
 currency: EUR
 price: 48.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYDWYSY-it Nike MD Runner 2 Scarpe da Running Uomo Blu Midnight...'
-tags: 
+tags: tole.es
 actualPrice: 43.49 EUR
 currency: EUR
 price: 43.49

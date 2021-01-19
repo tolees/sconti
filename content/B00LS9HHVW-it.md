@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LS9HHVW-it K-Way le Vrai 3.0 Claude Giacca Impermeabile Uomo Nero...'
-tags: 
+tags: tole.es
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

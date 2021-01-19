@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WR4JDKK-it Garnier Ambre Solaire Crema Protezione Solare UV Sport...'
-tags: 
+tags: tole.es
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

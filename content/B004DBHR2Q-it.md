@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004DBHR2Q-it Bic Cristal Original Punta Media 1 mm Confezione 10 Penne...'
-tags: 
+tags: tole.es
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

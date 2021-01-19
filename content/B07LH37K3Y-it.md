@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH37K3Y-it Intex 64765 Materasso Matrimoniale Classic Downy...'
-tags: 
+tags: tole.es
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

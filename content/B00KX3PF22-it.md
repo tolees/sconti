@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KX3PF22-it Veet Men Crema Depilatoria Uomo Pelli Normali 200 ml'
-tags: 
+tags: tole.es
 actualPrice: 4.67 EUR
 currency: EUR
 price: 4.67

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDBHK91-it G-STAR RAW 3301 Slim Shirt Camicia in Jeans Nero Rinsed...'
-tags: 
+tags: tole.es
 actualPrice: 41.46 EUR
 currency: EUR
 price: 41.46

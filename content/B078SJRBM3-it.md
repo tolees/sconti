@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SJRBM3-it Santa Teresa 1796 Rum Ambrato Scuro 700 ml'
-tags: 
+tags: tole.es
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

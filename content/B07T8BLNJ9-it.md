@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8BLNJ9-it Ant-Man & The Wasp 10° Anniversario Marvel Studios brd Blu...'
-tags: 
+tags: tole.es
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

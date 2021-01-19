@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2Y5ZG7-it Samsung C27RG50 Monitor Gaming Curvo 27 Pollici 240 Hz...'
-tags: 
+tags: tole.es
 actualPrice: 269.04 EUR
 currency: EUR
 price: 269.04

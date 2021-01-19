@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008RHZFNA-it STONELINE 10865 Set di Stoviglie in Alluminio con...'
-tags: 
+tags: tole.es
 actualPrice: 257.95 EUR
 currency: EUR
 price: 257.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084BGMTH1-it Antica Erboristeria Dentifricio Totale Antiplacca con...'
-tags: 
+tags: tole.es
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

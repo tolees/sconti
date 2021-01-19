@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ186JC-it adidas Tiro 19 Maglia da Allenamento Uomo Bold Blue/Dark...'
-tags: 
+tags: tole.es
 actualPrice: 27.73 EUR
 currency: EUR
 price: 27.73

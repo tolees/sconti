@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GZZZ378-it Emporio Armani Orologio Analogico Quarzo Uomo con...'
-tags: 
+tags: tole.es
 actualPrice: 117.7 EUR
 currency: EUR
 price: 117.7

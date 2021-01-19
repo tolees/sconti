@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EAAF1BO-it Rowenta CV6030E0 Instant Dry Phon Asciugacapelli Diffusore...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

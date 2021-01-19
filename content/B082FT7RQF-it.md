@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FT7RQF-it Moschino Donna Borsa Nero MOD. MOS4085'
-tags: 
+tags: tole.es
 actualPrice: 64.35 EUR
 currency: EUR
 price: 64.35

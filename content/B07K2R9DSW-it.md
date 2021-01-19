@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2R9DSW-it adidas Continental 80 Scarpe da Ginnastica Uomo Nero Black...'
-tags: 
+tags: tole.es
 actualPrice: 56.1 EUR
 currency: EUR
 price: 56.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CCMWD6-it DADYPET Giocattolo per Gatti Automatico Giocattolo per...'
-tags: 
+tags: tole.es
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

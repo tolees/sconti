@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777PZ6XM-it Tommy Hilfiger Original Triblend V Neck T-Shirt Rosso...'
-tags: 
+tags: tole.es
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

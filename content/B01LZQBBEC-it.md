@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZQBBEC-it Foppapedretti Go! Evolution Seggiolino auto Gruppo 0/1...'
-tags: 
+tags: tole.es
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

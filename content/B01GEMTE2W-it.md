@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GEMTE2W-it Pan di Stelle Torta Pronta da Gustare al Gusto di...'
-tags: 
+tags: tole.es
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWV1Z9W-it Geox D Sozy Plus B Sandali Punta Aperta Donna Marrone 36 EU'
-tags: 
+tags: tole.es
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

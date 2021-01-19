@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ETOULF6-it Jolly pastelli Crazy scatola in cartone 3000-0503...'
-tags: 
+tags: tole.es
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MHPCTC8-it adidas Originals Stan Smith Sneakers Unisex - Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

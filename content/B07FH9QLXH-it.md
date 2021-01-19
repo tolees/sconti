@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH9QLXH-it Timberland Union Wharf 2 Eye Oxford Mocassini Uomo Bianco...'
-tags: 
+tags: tole.es
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWSTZV6-it YINSAN TM5 Cuffie Gaming per PS4 Cuffie PS4 Over Ear con...'
-tags: 
+tags: tole.es
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

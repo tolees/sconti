@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JC8MD7Y-it Samsung Galaxy A71 Smartphone Display 6.7" Super AMOLED 4...'
-tags: 
+tags: tole.es
 actualPrice: 318.0 EUR
 currency: EUR
 price: 318.0

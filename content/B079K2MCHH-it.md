@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079K2MCHH-it rimmel FONDO TINTA - 1 pezzi'
-tags: 
+tags: tole.es
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

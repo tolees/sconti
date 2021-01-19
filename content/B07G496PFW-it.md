@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G496PFW-it Ocean S Eight 4K+Br'
-tags: 
+tags: tole.es
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

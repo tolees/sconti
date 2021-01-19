@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081S6XR3T-it Burro di Arachidi Loaded Nuts | Senza Olio di Palma |...'
-tags: 
+tags: tole.es
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

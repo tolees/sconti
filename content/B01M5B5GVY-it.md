@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5B5GVY-it Roccobarocco White Eau De Parfum Donna - 100 gr'
-tags: 
+tags: tole.es
 actualPrice: 19.83 EUR
 currency: EUR
 price: 19.83

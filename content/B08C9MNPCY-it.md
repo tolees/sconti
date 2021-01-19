@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9MNPCY-it ZIYOULANG Mouse da gioco cablato 69G a nido d ape leggero...'
-tags: 
+tags: tole.es
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

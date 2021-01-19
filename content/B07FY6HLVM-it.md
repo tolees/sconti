@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY6HLVM-it Havaianas Slim 4000030 Infradito Donna Arancione Bronze...'
-tags: 
+tags: tole.es
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

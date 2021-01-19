@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FU4ZD5I-it Tommy Hilfiger TH Men Quarter 2P Calze Uomo Blu Jeans...'
-tags: 
+tags: tole.es
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

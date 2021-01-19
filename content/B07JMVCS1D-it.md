@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMVCS1D-it Cuscino Termico Arealer - 30 x 60 CM Termoforo Elettrico...'
-tags: 
+tags: tole.es
 actualPrice: 0.15 EUR
 currency: EUR
 price: 0.15

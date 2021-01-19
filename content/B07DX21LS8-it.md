@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX21LS8-it Salewa 00-0000027165 Giacca Uomo Blu Ombre Blue 46/S'
-tags: 
+tags: tole.es
 actualPrice: 83.91 EUR
 currency: EUR
 price: 83.91

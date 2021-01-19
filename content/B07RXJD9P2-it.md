@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXJD9P2-it New Balance 373 Core Sneaker Uomo Verde Green/White Cb2'
-tags: 
+tags: tole.es
 actualPrice: 50.07 EUR
 currency: EUR
 price: 50.07

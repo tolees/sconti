@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086CHG93T-it Samsung Smartphone Galaxy A71 + Pellicola Protettiva...'
-tags: 
+tags: tole.es
 actualPrice: 312.0 EUR
 currency: EUR
 price: 312.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079X62CKW-it Gillette Fusion5 ProGlide Lamette di Ricambio per Rasoio...'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

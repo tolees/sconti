@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JYLS7K-it Benro Slim CF tripod kit w N00 ball head'
-tags: 
+tags: tole.es
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

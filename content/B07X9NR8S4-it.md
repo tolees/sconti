@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9NR8S4-it Singer M3505 Macchina da Cucire Professionale Cucitrice...'
-tags: 
+tags: tole.es
 actualPrice: 235.99 EUR
 currency: EUR
 price: 235.99

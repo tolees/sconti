@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BM9MM9-it homcom Outsunny Colonnine Separacode Colonnina...'
-tags: 
+tags: tole.es
 actualPrice: 39.87 EUR
 currency: EUR
 price: 39.87

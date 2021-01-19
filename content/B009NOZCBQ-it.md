@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009NOZCBQ-it Craghoppers Kiwi Pro Action Pantaloni Uomo Nero 56 EU 40...'
-tags: 
+tags: tole.es
 actualPrice: 27.72 EUR
 currency: EUR
 price: 27.72

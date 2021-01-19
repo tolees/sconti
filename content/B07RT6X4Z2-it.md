@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT6X4Z2-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Multicolore...'
-tags: 
+tags: tole.es
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

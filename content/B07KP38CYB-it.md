@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP38CYB-it adidas MTS WV Light Tuta Uomo Legend Ink/Legend Ink S'
-tags: 
+tags: tole.es
 actualPrice: 38.54 EUR
 currency: EUR
 price: 38.54

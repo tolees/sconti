@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RGZF7P-it Pistola Massaggio Muscolare Massage Gun Rarurko Pistola a...'
-tags: 
+tags: tole.es
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

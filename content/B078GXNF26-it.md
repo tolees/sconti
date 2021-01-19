@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GXNF26-it Vileda Ultramat Turbo Sistema Lavapavimenti con Secchio...'
-tags: 
+tags: tole.es
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

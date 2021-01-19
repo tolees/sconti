@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZQT48G-it AUKEY USB C Caricatore da Muro con 27W Power Delivery 3.0...'
-tags: 
+tags: tole.es
 actualPrice: 12.86 EUR
 currency: EUR
 price: 12.86

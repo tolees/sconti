@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3WPJJY-it Levi s Sunset 1 Pkt Slim Camicia Blu Alfonso Indigo 0006...'
-tags: 
+tags: tole.es
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

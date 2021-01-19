@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHW37KD-it Desigual Bols Luna Rock Loverty - Borsa con manico 14 x 24...'
-tags: 
+tags: tole.es
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

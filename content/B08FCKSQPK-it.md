@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FCKSQPK-it Tapis Roulant Elettrico Pieghevole da 2200W con...'
-tags: 
+tags: tole.es
 actualPrice: 719.99 EUR
 currency: EUR
 price: 719.99

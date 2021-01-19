@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FGS43D-it HP Color LaserJet Pro M283fdw Stampante Wi-Fi...'
-tags: 
+tags: tole.es
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

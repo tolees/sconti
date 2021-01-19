@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4RV7SB-it adidas Falcon W Scarpe da Ginnastica Donna Nero Core...'
-tags: 
+tags: tole.es
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

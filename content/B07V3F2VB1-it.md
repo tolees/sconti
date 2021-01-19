@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3F2VB1-it YAMAMAY® Slip Costume con Lacci Regolabili Tinta Unita con...'
-tags: 
+tags: tole.es
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VR2JLP8-it Lee Rider Jeans Slim Bleu Lt Vintage Worn Lp 32W / 30L Uomo'
-tags: 
+tags: tole.es
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

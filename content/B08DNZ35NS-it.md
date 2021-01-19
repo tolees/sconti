@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNZ35NS-it EasySMX Switch Controller Switch Controller Controller Pro...'
-tags: 
+tags: tole.es
 actualPrice: 35.97 EUR
 currency: EUR
 price: 35.97

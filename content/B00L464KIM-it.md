@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L464KIM-it Matt Le Mais Bio - 130 gr Senza glutine'
-tags: 
+tags: tole.es
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

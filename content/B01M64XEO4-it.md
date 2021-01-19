@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M64XEO4-it Jungle Formula Molto Forte Spray Anti-Zanzare Repellente...'
-tags: 
+tags: tole.es
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

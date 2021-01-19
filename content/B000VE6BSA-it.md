@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VE6BSA-it Kitchen Craft Glacette Grande 47 cm x 28 cm x 23 cm...'
-tags: 
+tags: tole.es
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

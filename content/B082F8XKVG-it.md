@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F8XKVG-it Tavoletta Grafica LCD Scrittura 8 5 Pollici Elettronica...'
-tags: 
+tags: tole.es
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

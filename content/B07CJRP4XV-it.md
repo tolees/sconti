@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJRP4XV-it Only Onlroyal Reg SK DNM Jeans Bj312 Noos Skinny Grigio...'
-tags: 
+tags: tole.es
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

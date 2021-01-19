@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0TDWO2-it HOMCOM Schermo Proiezione Motorizzato Home Cinema 120...'
-tags: 
+tags: tole.es
 actualPrice: 77.21 EUR
 currency: EUR
 price: 77.21

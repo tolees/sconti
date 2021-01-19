@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1MMH3I-it Nikon D5600 + AF-S DX NIKKOR 18-105 mm VR Fotocamera...'
-tags: 
+tags: tole.es
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

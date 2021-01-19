@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AIHY66I-it UGG Female Classic Short II Classic Boot Black 5 UK'
-tags: 
+tags: tole.es
 actualPrice: 120.78 EUR
 currency: EUR
 price: 120.78

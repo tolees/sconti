@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0095LYRK4-it Satya assortimento di Inciensos 12 scatole da 15 g'
-tags: 
+tags: tole.es
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

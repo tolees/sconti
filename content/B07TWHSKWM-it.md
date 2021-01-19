@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWHSKWM-it SUPERGA 2750 Cotu Classic Scarpe da Ginnastica Uomo Blu...'
-tags: 
+tags: tole.es
 actualPrice: 25.28 EUR
 currency: EUR
 price: 25.28

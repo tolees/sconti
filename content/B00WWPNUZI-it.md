@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WWPNUZI-it JACK & JONES Jjglenn Original Jj 887 Noos Jeans Blu Denim...'
-tags: 
+tags: tole.es
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

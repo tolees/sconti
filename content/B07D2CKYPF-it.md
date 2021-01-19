@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2CKYPF-it Argan Oil - Crema Styling Anticrespo - Trattamento Balsamo...'
-tags: 
+tags: tole.es
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

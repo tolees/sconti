@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXC72QS-it Teenii STEM Physik Elettricità e Magnetismo Experimente...'
-tags: 
+tags: tole.es
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

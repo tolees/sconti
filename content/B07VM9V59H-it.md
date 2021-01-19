@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM9V59H-it Asus ROG Strix GeForce RTX 2080 SUPER Advanced Edition 8...'
-tags: 
+tags: tole.es
 actualPrice: 808.89 EUR
 currency: EUR
 price: 808.89

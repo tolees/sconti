@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006J1SA6A-it Braun 3-270 Silk-épil 3 Epilatore con Cavo e 3 Accessori Rosa'
-tags: 
+tags: tole.es
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

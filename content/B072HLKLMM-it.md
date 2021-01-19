@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HLKLMM-it Vape Piastrine Verdessenza Protezione contro le Zanzare...'
-tags: 
+tags: tole.es
 actualPrice: 1.96 EUR
 currency: EUR
 price: 1.96

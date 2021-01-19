@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG6YSFM-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Uomo Bianca...'
-tags: 
+tags: tole.es
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

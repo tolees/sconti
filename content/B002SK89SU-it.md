@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SK89SU-it Tovagliette all Americana Parisian Scenes di Pimpernel -...'
-tags: 
+tags: tole.es
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

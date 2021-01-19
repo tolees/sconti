@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001BRW4C8-it Calvin Klein 3P Hip Brief Intimo Multicolore Black White &...'
-tags: 
+tags: tole.es
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

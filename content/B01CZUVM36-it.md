@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CZUVM36-it American Tourister - Funshine Spinner Bagaglio a mano...'
-tags: 
+tags: tole.es
 actualPrice: 48.12 EUR
 currency: EUR
 price: 48.12

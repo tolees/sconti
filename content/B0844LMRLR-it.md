@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0844LMRLR-it Desigual Borsa Donna bols ada rotterdam 20saxpae unica...'
-tags: 
+tags: tole.es
 actualPrice: 40.29 EUR
 currency: EUR
 price: 40.29

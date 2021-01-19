@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071Y1DHLY-it Integratore Probiotici con Prebiotici - 16 Ceppi Batterici...'
-tags: 
+tags: tole.es
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

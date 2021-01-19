@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5C2KWD-it Ariete 2759 Handy Force RBT Scopa elettrica con Filo 2 in...'
-tags: 
+tags: tole.es
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

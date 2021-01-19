@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQP2BC-it Tommy Hilfiger Tjw Waffle Hybrid Longsleeve Maglia...'
-tags: 
+tags: tole.es
 actualPrice: 32.16 EUR
 currency: EUR
 price: 32.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BL8J2Q2-it Cuffie Bluetooth Auricolari Bluetooth 5.0 Senza Fili...'
-tags: 
+tags: tole.es
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

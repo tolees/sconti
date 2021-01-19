@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ST2GZZM-it eFootball PES 2020 - Playstation 4'
-tags: 
+tags: tole.es
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

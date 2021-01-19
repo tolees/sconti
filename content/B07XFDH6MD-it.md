@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFDH6MD-it HUAWEI Watch GT 2 Smartwatch 46 mm Durata Batteria fino a...'
-tags: 
+tags: tole.es
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

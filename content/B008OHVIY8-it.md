@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008OHVIY8-it Foppapedretti Go Up Carrello Portaspesa Black'
-tags: 
+tags: tole.es
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

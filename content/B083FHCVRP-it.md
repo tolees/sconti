@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FHCVRP-it Lacoste Ph4012 Polo Sphere XS Uomo'
-tags: 
+tags: tole.es
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

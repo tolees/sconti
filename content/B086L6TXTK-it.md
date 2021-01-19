@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086L6TXTK-it Pringles Pringles Original - 175 g'
-tags: 
+tags: tole.es
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

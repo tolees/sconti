@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBZXZBW-it eufy [BoostIQ RoboVac 30C Wi-Fi Nuova Versione Super-...'
-tags: 
+tags: tole.es
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

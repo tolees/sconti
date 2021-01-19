@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VLKZP6-it Levi s The Perfect Tee Maglietta Nero Caviar 2 0008 M Donna'
-tags: 
+tags: tole.es
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

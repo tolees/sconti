@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VW4QCX-it Samsung Memorie T7 Touch MU-PC1T0K SSD Esterno Portatile...'
-tags: 
+tags: tole.es
 actualPrice: 217.99 EUR
 currency: EUR
 price: 217.99

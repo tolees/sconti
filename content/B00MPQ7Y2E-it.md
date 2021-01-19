@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MPQ7Y2E-it LEITZ Borsa Messenger 15 6 - Smart Traveller - Nero -...'
-tags: 
+tags: tole.es
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

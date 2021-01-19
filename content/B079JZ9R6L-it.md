@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JZ9R6L-it Philips Serie 5000 EP5310/10 Macchina da Caffè Automatica...'
-tags: 
+tags: tole.es
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

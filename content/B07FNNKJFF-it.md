@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNNKJFF-it K-Cheratina - Trattamento Professionale Capelli Deboli e...'
-tags: 
+tags: tole.es
 actualPrice: 60.76 EUR
 currency: EUR
 price: 60.76

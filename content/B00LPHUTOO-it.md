@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPHUTOO-it Vileda Steam Scopa a Vapore con 2 Panni in Microfibra Filo...'
-tags: 
+tags: tole.es
 actualPrice: 42.32 EUR
 currency: EUR
 price: 42.32

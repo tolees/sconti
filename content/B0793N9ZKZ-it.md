@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793N9ZKZ-it Rimmel London Smalto Flip Flop Fashion Be Red-Y - 8 ml'
-tags: 
+tags: tole.es
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

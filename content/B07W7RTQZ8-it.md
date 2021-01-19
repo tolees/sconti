@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7RTQZ8-it Tommy Hilfiger Tommy Tipped Slim Polo Nero Black Large...'
-tags: 
+tags: tole.es
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

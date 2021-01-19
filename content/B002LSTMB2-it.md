@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LSTMB2-it Paco Rabanne 1 Million Eau de Toilette Uomo 50 ml'
-tags: 
+tags: tole.es
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

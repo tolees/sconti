@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKK4WG2-it Tablet Bambini 9.0 Pollici con Wifi Offerte Android 9.0...'
-tags: 
+tags: tole.es
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYDT2N4-it Nike MD Runner 2 Scarpe da Running Uomo Nero...'
-tags: 
+tags: tole.es
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

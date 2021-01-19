@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MB8MS68-it Kenwood HDP404WH Mixer ad Immersione 800 W Tritatutto da 0...'
-tags: 
+tags: tole.es
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

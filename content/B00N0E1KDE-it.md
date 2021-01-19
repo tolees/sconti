@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N0E1KDE-it Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0 Micro...'
-tags: 
+tags: tole.es
 actualPrice: 558.89 EUR
 currency: EUR
 price: 558.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011TPETHY-it Outsunny HOMCOM Cavalletto Supporto Manutenzione per...'
-tags: 
+tags: tole.es
 actualPrice: 46.87 EUR
 currency: EUR
 price: 46.87

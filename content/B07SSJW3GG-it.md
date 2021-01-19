@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJW3GG-it Geox U EOLO B Scarpe da Ginnastica Basse Uomo Grigio...'
-tags: 
+tags: tole.es
 actualPrice: 40.63 EUR
 currency: EUR
 price: 40.63

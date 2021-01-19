@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077G5HBN2-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna Rosso Red...'
-tags: 
+tags: tole.es
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

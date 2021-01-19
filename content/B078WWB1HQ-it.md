@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WWB1HQ-it Nike Wmns Internationalist Scarpe Running Donna...'
-tags: 
+tags: tole.es
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

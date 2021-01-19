@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SXRY15-it Timberland Union Wharf Lace Oxford Sneakers Basse Uomo...'
-tags: 
+tags: tole.es
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

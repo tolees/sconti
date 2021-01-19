@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFVPV02-it Garnier Ultra Dolce Olio d Argan e di Camelia Bagnodoccia...'
-tags: 
+tags: tole.es
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4JVQVZ-it Funko-36025 Fortnite Valor Multicolore 36025'
-tags: 
+tags: tole.es
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

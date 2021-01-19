@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL5B68-it G-STAR RAW CPO Slim Camicia in Jeans Multicolore Medium...'
-tags: 
+tags: tole.es
 actualPrice: 37.79 EUR
 currency: EUR
 price: 37.79

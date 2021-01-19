@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2HVSSR-it Marchio Amazon - Goodthreads giacca aderente in twill...'
-tags: 
+tags: tole.es
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

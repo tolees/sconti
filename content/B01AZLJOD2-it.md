@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AZLJOD2-it New Balance 500 Scarpe Sportive Uomo Grigio Grey/White Gry...'
-tags: 
+tags: tole.es
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

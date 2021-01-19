@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E7WFX4-it Calvin Klein CK-One Eau De Toilette Unisex 200 Milliliter'
-tags: 
+tags: tole.es
 actualPrice: 33.8 EUR
 currency: EUR
 price: 33.8

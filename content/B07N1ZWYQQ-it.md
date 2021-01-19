@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1ZWYQQ-it Diadora - Sneakers Jog Light C per Uomo e Donna EU 44'
-tags: 
+tags: tole.es
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

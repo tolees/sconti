@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WGIY2G-it Superga 2750-cotu Classic Sneaker Uomo Grigio Full Grey...'
-tags: 
+tags: tole.es
 actualPrice: 40.92 EUR
 currency: EUR
 price: 40.92

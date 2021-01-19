@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMSJFP-it Levi s 501 Long Pantaloncini Blu Montgomery Mended Short...'
-tags: 
+tags: tole.es
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

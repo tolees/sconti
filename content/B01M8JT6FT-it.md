@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8JT6FT-it rabbitgoo Pettorina Cane Taglia Grande Regolabile No-Pull...'
-tags: 
+tags: tole.es
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

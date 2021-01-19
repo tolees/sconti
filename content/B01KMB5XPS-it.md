@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KMB5XPS-it Pecute Spazzola Autopulente per Cani Gatti Conigli per...'
-tags: 
+tags: tole.es
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

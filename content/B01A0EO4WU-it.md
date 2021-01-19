@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A0EO4WU-it Hotpoint CS1A 300 H Congelatore Orizziontale Libera...'
-tags: 
+tags: tole.es
 actualPrice: 317.98 EUR
 currency: EUR
 price: 317.98

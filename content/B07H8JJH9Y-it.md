@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8JJH9Y-it Epson Expression Premium XP-7100 Stampante Multifunzionale...'
-tags: 
+tags: tole.es
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

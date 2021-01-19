@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QX6XDD-it HP - PC 15s-eq1015nl Notebook AMD Ryzen 3 RAM 8 GB SSD 128...'
-tags: 
+tags: tole.es
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

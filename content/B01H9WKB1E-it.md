@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H9WKB1E-it Science in Sport SiS Go Energy Barretta Energetica gusto...'
-tags: 
+tags: tole.es
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

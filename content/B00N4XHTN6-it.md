@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N4XHTN6-it Keter 68X39X173H Stilo Tall - Armadio tuttopiani 3 ripiani...'
-tags: 
+tags: tole.es
 actualPrice: 54.54 EUR
 currency: EUR
 price: 54.54

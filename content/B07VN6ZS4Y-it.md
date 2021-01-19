@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN6ZS4Y-it YAMAMAY® Slip Costume Brasiliana Tinta Unita con Inserti...'
-tags: 
+tags: tole.es
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

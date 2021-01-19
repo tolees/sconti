@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VSVP7L-it Maizena - Amido di Mais per Dolci Soffici e Leggeri - 250 g'
-tags: 
+tags: tole.es
 actualPrice: 0.96 EUR
 currency: EUR
 price: 0.96

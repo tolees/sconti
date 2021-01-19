@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZ6K76P-it Samsung WW70K5410UW Lavatrice 7 kg AddWash 1400 rpm Bianco...'
-tags: 
+tags: tole.es
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

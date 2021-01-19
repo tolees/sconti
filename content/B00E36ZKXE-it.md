@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E36ZKXE-it Trussardi My Name Eau de parfum spray 100 ml donna'
-tags: 
+tags: tole.es
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

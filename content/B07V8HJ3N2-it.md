@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8HJ3N2-it Boss Tee 4 T-Shirt Blu Navy 410 X-Large Uomo'
-tags: 
+tags: tole.es
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

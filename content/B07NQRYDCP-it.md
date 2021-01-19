@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQRYDCP-it SYLVANIAN FAMILIES - Casa Grande con Luci Sistema di Gioco...'
-tags: 
+tags: tole.es
 actualPrice: 64.94 EUR
 currency: EUR
 price: 64.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT4GTR9-it Giochi Preziosi - L.O.L. Surprise! Glamper - Veicolo per...'
-tags: 
+tags: tole.es
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JM1PLYC-it [2+3 pezzi] UniqueMe Vetro Temperato per Xiaomi Poco X3...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HH982TZ-it BOUDECH Space 1800 - Tapis Roulant Elettrico 1800W...'
-tags: 
+tags: tole.es
 actualPrice: 559.99 EUR
 currency: EUR
 price: 559.99

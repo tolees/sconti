@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXZ8W76-it Garmin Forerunner 45s Orologio Smart GPS per la Corsa e...'
-tags: 
+tags: tole.es
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

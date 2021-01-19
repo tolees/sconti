@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OHUFTE-it Gran Cereale Biscotti Gran Cereale Croccante con Riso...'
-tags: 
+tags: tole.es
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

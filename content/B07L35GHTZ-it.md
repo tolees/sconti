@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L35GHTZ-it Eastpak Oval Zippl r Astuccio 22 cm Grigio Sunday Grey'
-tags: 
+tags: tole.es
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DVJLFP-it Switch Cat Quest + Cat Quest 2 Pawsome Pack [ [Edizione:...'
-tags: 
+tags: tole.es
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

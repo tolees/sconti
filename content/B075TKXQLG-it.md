@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075TKXQLG-it Contorno Occhi Antirughe Vovees Theia Gel con Acido...'
-tags: 
+tags: tole.es
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

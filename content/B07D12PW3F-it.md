@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D12PW3F-it Aigostar Apollo 33LCF - Termoventilatore ceramico PTC 4...'
-tags: 
+tags: tole.es
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

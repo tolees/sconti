@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G57CKB9-it Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo...'
-tags: 
+tags: tole.es
 actualPrice: 9.04 EUR
 currency: EUR
 price: 9.04

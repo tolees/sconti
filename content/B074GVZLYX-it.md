@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GVZLYX-it Lacoste Sport TH0123 T-Shirt Bianco Blanc X-Small Taglia...'
-tags: 
+tags: tole.es
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

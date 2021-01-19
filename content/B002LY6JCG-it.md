@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LY6JCG-it Star GranPesto alla Genovese senza Aglio - 190 g'
-tags: 
+tags: tole.es
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XY4N2S-it Electrolux PA91-404GY Purificatore d aria connesso con...'
-tags: 
+tags: tole.es
 actualPrice: 369.0 EUR
 currency: EUR
 price: 369.0

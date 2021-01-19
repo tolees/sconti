@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TZ73MW-it Kipling City Pack S - Zaini Donna Nero True Black...'
-tags: 
+tags: tole.es
 actualPrice: 65.3 EUR
 currency: EUR
 price: 65.3

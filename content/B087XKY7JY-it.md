@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087XKY7JY-it Neutromed Sport Bagnoschiuma Uomo Energizzante...'
-tags: 
+tags: tole.es
 actualPrice: 16.92 EUR
 currency: EUR
 price: 16.92

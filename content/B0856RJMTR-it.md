@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0856RJMTR-it Aigostar Archer 30RKN - 1200W Frullatore con brocca in...'
-tags: 
+tags: tole.es
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

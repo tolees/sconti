@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHZX65T-it LUKO 12L Deumidificatore Portatile e Elettrico con...'
-tags: 
+tags: tole.es
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

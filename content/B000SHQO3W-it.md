@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SHQO3W-it Pilot G207 Penna 0 7 mm confezione da 12 colore: Nero'
-tags: 
+tags: tole.es
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

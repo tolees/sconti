@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TTQGRZ-it Superga 2750-NAPPALEAU Sneaker Unisex Adulto Nero...'
-tags: 
+tags: tole.es
 actualPrice: 31.89 EUR
 currency: EUR
 price: 31.89

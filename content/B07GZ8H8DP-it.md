@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ8H8DP-it Marchio Amazon - MERAKI Blazer Casual Uomo Nero Black 52...'
-tags: 
+tags: tole.es
 actualPrice: 21.53 EUR
 currency: EUR
 price: 21.53

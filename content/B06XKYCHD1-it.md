@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKYCHD1-it QUEEN ROSE Cuscino per la Gravidanza - Cuscino per...'
-tags: 
+tags: tole.es
 actualPrice: 48.44 EUR
 currency: EUR
 price: 48.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XSNX8S-it Manfrotto Befree Advanced Camo Kit Treppiede Adavnced...'
-tags: 
+tags: tole.es
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

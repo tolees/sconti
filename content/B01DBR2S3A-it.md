@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DBR2S3A-it Clementoni- Banchetto Svita Avvita Gioco per Bambini...'
-tags: 
+tags: tole.es
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

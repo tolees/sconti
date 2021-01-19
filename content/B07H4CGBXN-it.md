@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4CGBXN-it Tencoz 4Pack Set da Ping Pong Racchette da Ping Pong Set...'
-tags: 
+tags: tole.es
 actualPrice: 24.37 EUR
 currency: EUR
 price: 24.37

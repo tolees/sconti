@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLQ5NLS-it Calvin Klein 3p Trunk Boxer Multicolore Lost Blue/Wild...'
-tags: 
+tags: tole.es
 actualPrice: 26.38 EUR
 currency: EUR
 price: 26.38

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2CQ23R-it Rejane Oil - Gocce di Splendore dell Amazzonia -...'
-tags: 
+tags: tole.es
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

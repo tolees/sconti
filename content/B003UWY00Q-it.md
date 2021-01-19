@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UWY00Q-it Swiffer Wet Panni Umidi Lavapavimenti per Scopa Maxi...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

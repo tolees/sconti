@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLP5V1Y-it eufy [BoostIQ] RoboVac 11S MAX aspirapolvere robot super...'
-tags: 
+tags: tole.es
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

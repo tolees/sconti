@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018MBDIE8-it AVM FRITZ! Box 7430 International Modem Router Wireless...'
-tags: 
+tags: tole.es
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQW1RKC-it Drone GPS Con Motore Brushless Potensic Drone D80 WIFI Con...'
-tags: 
+tags: tole.es
 actualPrice: 178.49 EUR
 currency: EUR
 price: 178.49

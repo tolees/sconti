@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSCY1Y3-it katliu Zoccoli per Donna Traspirante Sandali da Spiaggia...'
-tags: 
+tags: tole.es
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

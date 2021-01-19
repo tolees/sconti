@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010UH5QJM-it Meliconi Vision Line 300 Mobile Porta TV con 3 Ripiani in...'
-tags: 
+tags: tole.es
 actualPrice: 119.86 EUR
 currency: EUR
 price: 119.86

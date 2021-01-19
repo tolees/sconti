@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZK8ZGTT-it Inphic Mouse USB cablato clic silenzioso e tracciamento...'
-tags: 
+tags: tole.es
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

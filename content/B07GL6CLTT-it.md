@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL6CLTT-it HyperX Predator HX432C16PB3AK2/16 Memoria DDR4 16 GB Kit...'
-tags: 
+tags: tole.es
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

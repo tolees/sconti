@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018M3GD8Y-it Gillette Fusion Proshield Chill Lamette di Ricarica per...'
-tags: 
+tags: tole.es
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004Y4ZB0C-it Diesel Orologio Analogico Quarzo Uomo con Cinturino in...'
-tags: 
+tags: tole.es
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

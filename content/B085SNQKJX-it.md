@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085SNQKJX-it Neutro Roberts Sapone Liquido Antibatterico Bipacco 2x6...'
-tags: 
+tags: tole.es
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

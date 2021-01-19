@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SF4NTF6-it STAEDTLER matite colorate Noris Colour confezione da 24...'
-tags: 
+tags: tole.es
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

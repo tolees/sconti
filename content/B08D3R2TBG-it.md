@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3R2TBG-it Scrambler Ducati Monopattino elettrico Cross-E nero e...'
-tags: 
+tags: tole.es
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

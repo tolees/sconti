@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BN1QW7F-it Vans Ward Platform Scarpe da Ginnastica Donna Canvas...'
-tags: 
+tags: tole.es
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

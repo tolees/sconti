@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009RJLWR0-it Max Factor Facefinity All Day Flawless 3 in 1 Fondotinta...'
-tags: 
+tags: tole.es
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVMQ2C5-it Frontline | TriAct Spot On Cani| Protezione da pulci...'
-tags: 
+tags: tole.es
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

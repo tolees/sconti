@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGQ4K85-it adidas Streetcheck Scarpe da Basketball Uomo Multicolore...'
-tags: 
+tags: tole.es
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

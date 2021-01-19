@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08232KNLX-it The Protein Works Matrix Massa Totale Extreme Tiramisu...'
-tags: 
+tags: tole.es
 actualPrice: 39.63 EUR
 currency: EUR
 price: 39.63

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXZ69LG-it Curcuma e Piperiana Plus zenzero limone vitamina C- 130...'
-tags: 
+tags: tole.es
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

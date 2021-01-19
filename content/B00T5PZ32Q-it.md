@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T5PZ32Q-it Biorepair Collutorio Denti Sensibili 3 in1 - 500 ml'
-tags: 
+tags: tole.es
 actualPrice: 3.28 EUR
 currency: EUR
 price: 3.28

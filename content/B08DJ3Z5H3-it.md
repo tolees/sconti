@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ3Z5H3-it Yagte Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per...'
-tags: 
+tags: tole.es
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

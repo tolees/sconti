@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4GSHM8-it Acqua Di Parma Colonia Club Eau de Cologne 20 ml'
-tags: 
+tags: tole.es
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKWLVTF-it Havaianas High Light Infradito Donna Nero Black/Dark...'
-tags: 
+tags: tole.es
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

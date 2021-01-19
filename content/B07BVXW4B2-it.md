@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVXW4B2-it Tomtom Navigatore Satellitare per Auto GO Basic Traffico...'
-tags: 
+tags: tole.es
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

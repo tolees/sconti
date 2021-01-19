@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087MZ6WB8-it Uarter 50pcs bambino Formato Faccia Libera USA e Getta Blu...'
-tags: 
+tags: tole.es
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22

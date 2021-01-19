@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KSFKN7-it Pringles Pringles Sour Cream & Onion - 175 g'
-tags: 
+tags: tole.es
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

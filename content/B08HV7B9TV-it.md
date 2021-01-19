@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HV7B9TV-it MINI Proiettore AUN W18C Proiettore Portatile Per...'
-tags: 
+tags: tole.es
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

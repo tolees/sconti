@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085H9FRKW-it Striscia LED 5M RGB LED 24V Striscia di Colore Variabile...'
-tags: 
+tags: tole.es
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

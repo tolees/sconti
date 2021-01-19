@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B7XCG7Y-it The North Face M Drew Peak Plv HD Felpa con Cappuccio Uomo...'
-tags: 
+tags: tole.es
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

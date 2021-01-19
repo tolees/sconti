@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXY73KF-it Samsung Memorie MB-ME64GA EVO Select Scheda microSD da 64...'
-tags: 
+tags: tole.es
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

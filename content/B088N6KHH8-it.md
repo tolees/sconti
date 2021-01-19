@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088N6KHH8-it Oral-B iO - 8n Spazzolino Elettrico Ricaricabile 1...'
-tags: 
+tags: tole.es
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

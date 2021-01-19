@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKMMK3Y-it Pepe Jeans Jude T-Shirt Blu Indigo 561 Medium Uomo'
-tags: 
+tags: tole.es
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

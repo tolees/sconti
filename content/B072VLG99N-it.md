@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VLG99N-it Bialetti Fiammetta Bialetti Moka Fiammetta Caffettiera 1...'
-tags: 
+tags: tole.es
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

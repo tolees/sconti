@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BJH46JE-it BaByliss For Men E837E X-10 Kit multiaccessoriato per...'
-tags: 
+tags: tole.es
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

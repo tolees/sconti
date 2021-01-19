@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVHTNK9-it Palmolive Sapone Liquido Latte e Miele Erogatore - Pacco...'
-tags: 
+tags: tole.es
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

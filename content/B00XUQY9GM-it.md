@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XUQY9GM-it Skipper - Succo Di Ananas Da Concentrato - 1000 Ml'
-tags: 
+tags: tole.es
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

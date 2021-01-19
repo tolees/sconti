@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7HWKMZ-it Yamaha MusicCast BAR 400 YAS-408 Soundbar e Subwoofer –...'
-tags: 
+tags: tole.es
 actualPrice: 382.0 EUR
 currency: EUR
 price: 382.0

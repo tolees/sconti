@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBDQ1W1-it Pulsar Orologio Cronografo Quarzo Donna con Cinturino in...'
-tags: 
+tags: tole.es
 actualPrice: 53.94 EUR
 currency: EUR
 price: 53.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C2Q82QS-it Vimar 0P32352.B Cavo Prolunga Estensibile 3G0.75 5 m Bianco'
-tags: 
+tags: tole.es
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4

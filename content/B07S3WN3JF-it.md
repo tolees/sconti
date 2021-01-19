@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3WN3JF-it Levi s 501 Original Short Pantaloncini Nero Eat Your Words...'
-tags: 
+tags: tole.es
 actualPrice: 45.7 EUR
 currency: EUR
 price: 45.7

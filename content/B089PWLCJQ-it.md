@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089PWLCJQ-it HD Webcam 1296P 3 MP con Microfono USB Webcam Video...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

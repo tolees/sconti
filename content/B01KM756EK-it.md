@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KM756EK-it Timberland Killington Chukka Scarpe Alte Uomo Beige Wheat...'
-tags: 
+tags: tole.es
 actualPrice: 66.73 EUR
 currency: EUR
 price: 66.73

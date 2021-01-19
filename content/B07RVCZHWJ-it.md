@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVCZHWJ-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Blu Dress...'
-tags: 
+tags: tole.es
 actualPrice: 17.07 EUR
 currency: EUR
 price: 17.07

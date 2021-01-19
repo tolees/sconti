@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1W3LMN-it New Balance 373 Core Sneaker Uomo Blu Navy/White Cc2'
-tags: 
+tags: tole.es
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

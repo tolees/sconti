@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5X3VS8-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa Verde...'
-tags: 
+tags: tole.es
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

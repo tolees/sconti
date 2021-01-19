@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071SDVC6Z-it Gillette Series Pelli Sensibili Gel da Barba Pacco da 6 x...'
-tags: 
+tags: tole.es
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

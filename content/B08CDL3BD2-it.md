@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDL3BD2-it VZATT Go Swing Topless Can Opener 2020 Nuova Apriscatole...'
-tags: 
+tags: tole.es
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

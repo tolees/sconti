@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP764GY-it Eastpak Tranverz M Valigia 67 cm 78 L Blu Triple Denim'
-tags: 
+tags: tole.es
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

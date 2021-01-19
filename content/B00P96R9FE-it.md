@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P96R9FE-it Kenwood KM631 Impastatrice Planetaria Classic Major Robot...'
-tags: 
+tags: tole.es
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

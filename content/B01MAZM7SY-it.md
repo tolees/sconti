@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAZM7SY-it Misura Fette Integrali - 8 pezzi da 320 g [2560 g]'
-tags: 
+tags: tole.es
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

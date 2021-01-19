@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JGJJSV-it Philips Sonicare HX9903/13 DiamondClean Smart Spazzolino...'
-tags: 
+tags: tole.es
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

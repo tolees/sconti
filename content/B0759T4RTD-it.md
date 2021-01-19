@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759T4RTD-it Tachipirina Tac0100019 Post Fludec Pronto Recupero - 12 Buste'
-tags: 
+tags: tole.es
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

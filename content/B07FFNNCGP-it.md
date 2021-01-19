@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFNNCGP-it KKmoon Finder Digitale Satellitare DVB-S2 V8 con Display...'
-tags: 
+tags: tole.es
 actualPrice: 55.39 EUR
 currency: EUR
 price: 55.39

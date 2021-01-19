@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDMV722-it XIDU Tour Pro 12 5" Notebook Portatile 4K Touchscreen...'
-tags: 
+tags: tole.es
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084CTVV9W-it Avvitatore a Batteria 45Nm Trapano Avvitatore 18V 180Nm...'
-tags: 
+tags: tole.es
 actualPrice: 129.97 EUR
 currency: EUR
 price: 129.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0842LDSDR-it Spigen PocketBoost Caricabatterie Portatile Power Bank...'
-tags: 
+tags: tole.es
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

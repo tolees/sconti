@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPY1T83-it Levi s Malibu Beach S Sneaker Donna Bianco B White 50 38 EU'
-tags: 
+tags: tole.es
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

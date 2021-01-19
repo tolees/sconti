@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LPZ7IWG-it SanDisk Extreme Scheda di Memoria SDHC da 32 GB Doppio...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BDN2QP-it Vernel Supreme Rosa Romance Ammorbidente Concentrato...'
-tags: 
+tags: tole.es
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

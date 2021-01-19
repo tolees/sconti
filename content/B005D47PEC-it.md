@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005D47PEC-it Foppapedretti Gulliver Stendibiancheria Pieghevole Bianco'
-tags: 
+tags: tole.es
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

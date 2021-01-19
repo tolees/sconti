@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DQ2W6X-it TACKLIFE SEB04A Estrattore di Viti Danneggiate 4 Pezzi...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QM3WT2P-it GOURMETmaxx Griglia elettrica da tavolo senza fumo|...'
-tags: 
+tags: tole.es
 actualPrice: 36.14 EUR
 currency: EUR
 price: 36.14

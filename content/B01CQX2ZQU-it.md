@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQX2ZQU-it Moulinex OX4448 Optimo Forno Elettrico con Capacità di 19...'
-tags: 
+tags: tole.es
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

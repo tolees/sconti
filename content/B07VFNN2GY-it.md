@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFNN2GY-it Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in...'
-tags: 
+tags: tole.es
 actualPrice: 216.95 EUR
 currency: EUR
 price: 216.95
