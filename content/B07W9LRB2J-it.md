@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lqOPfWxvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W9LRB2J-it BenQ GL2480 Monitor da Gioco LED da 24 Pollici  FHD 1080p  Eye-Care  1 ms  75 Hz  Antiriflesso  HDMI  DVI'
+slug: 'B07W9LRB2J-it BenQ GL2480 Monitor da Gioco LED da 24 Pollici FHD 1080p...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mU8CyoQqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1SXP44-it TP-Link RE650 Ripetitore WiFi Wireless  Wifi Extender  Access Point  Velocità Dual Band 2600Mbps  Porta Gigabit  Serie di Fascia Alta con Tecnologia 4 × 4 MU-MIMO  4-Stream  Bianco'
+slug: 'B06Y1SXP44-it TP-Link RE650 Ripetitore WiFi Wireless Wifi Extender...'
+tags: 
 actualPrice: 78.82 EUR
 currency: EUR
 price: 78.82

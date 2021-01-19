@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wlqJlEkiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SH1XHB-it Lacoste L1212  T-Shirt Polo  Uomo  Blu  Electrique Z7Z   FR 2'
+slug: 'B077SH1XHB-it Lacoste L1212 T-Shirt Polo Uomo Blu Electrique Z7Z FR 2'
+tags: 
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

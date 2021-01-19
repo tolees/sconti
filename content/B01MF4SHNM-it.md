@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Vq42-DxCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MF4SHNM-it De Cecco Casareccia n° 88  Pasta di Semola di Grano Duro - 3 kg  500 g x 6 '
+slug: 'B01MF4SHNM-it De Cecco Casareccia n° 88 Pasta di Semola di Grano Duro -...'
+tags: 
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

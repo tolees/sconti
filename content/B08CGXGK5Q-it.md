@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uv-V2BRLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGXGK5Q-it Auricolari Bluetooth 5.0 Senza Fili  Wireless Sportivi in Ear Cuffie con Custodia di Ricarica Portatile  Impermeabile Auricolare con Mic-Incorporato Tocca Controllo per Samsung iPhone Huawei Xiaomi PC'
+slug: 'B08CGXGK5Q-it Auricolari Bluetooth 5.0 Senza Fili Wireless Sportivi in...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

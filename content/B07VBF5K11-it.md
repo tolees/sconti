@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tz+tjUePL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBF5K11-it Desigual Bols inés Cortland - Borsa da donna  15 x 29 5 x 36 5 cm  Blu  Blu  Azul Espacial    15x29.5x36.5 cm  B x H x T '
+slug: 'B07VBF5K11-it Desigual Bols inés Cortland - Borsa da donna 15 x 29 5 x...'
+tags: 
 actualPrice: 24.96 EUR
 currency: EUR
 price: 24.96

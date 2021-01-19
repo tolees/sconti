@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314VCXujMcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JKMRT9-it Philips Lighting Aluminium LED Spot Light Philips Faretto Kosipo con 4 Punti Luce  Alluminio  Attacco GU10  Lampadina Non Inclusa  Grigio  7x62.8x9.2 cm'
+slug: 'B073JKMRT9-it Philips Lighting Aluminium LED Spot Light Philips Faretto...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

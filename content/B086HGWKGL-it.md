@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gRwT9En+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086HGWKGL-it HP - Gaming OMEN 15-dh0052nl Notebook  Intel Core i7-9750H  RAM 16 GB  SSD 1 TB  NVIDIA GeForce RTX 2060 6 GB  Windows 10 Home  Schermo 15.6" FHD IPS 144 Hz  Bang&Olufsen  USB-C  HDMI  RJ-45  Nero'
+slug: 'B086HGWKGL-it HP - Gaming OMEN 15-dh0052nl Notebook Intel Core i7-9750H...'
+tags: 
 actualPrice: 410.0 EUR
 currency: EUR
 price: 410.0

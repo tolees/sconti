@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4121TiRJP0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089G9RTYN-it RAVIAD Cavo USB Tipo [2Pezzi  0.5m] Nylon Cavo USB C di Ricarica Rapida e Trasferimento Dati per Samsung Galaxy S9/ S8/ Note9/ 8  Huawei P20/Mate20  Xiaomi Mi A2  MacBook  OnePlus 6T'
+slug: 'B089G9RTYN-it RAVIAD Cavo USB Tipo [2Pezzi 0.5m] Nylon Cavo USB C di...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

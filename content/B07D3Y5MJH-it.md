@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LPe2ceBeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3Y5MJH-it Kealive  Arriccia Capelli  Ferro Arricciacapelli Pro Spiral Curl  Display Digitale LCD  Rivestimento Ceramica  da 87 ℃ a 232 ℃'
+slug: 'B07D3Y5MJH-it Kealive Arriccia Capelli Ferro Arricciacapelli Pro Spiral...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

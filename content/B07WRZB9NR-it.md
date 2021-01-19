@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ThI7XnMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRZB9NR-it Aspirapolvere Auto  Aitsite Aspirapolvere Portatile Senza Fili 120W Mini Aspirapolvere Aspirapolvere a Mano Potente Bagnato e Asciutto per Casa Ufficio Auto'
+slug: 'B07WRZB9NR-it Aspirapolvere Auto Aitsite Aspirapolvere Portatile Senza...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

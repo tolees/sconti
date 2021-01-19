@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u27sO527L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GFLRNC3-it Scheda Micro SD 512 GB ad alta velocità classe 10 Micro SD SDXC con adattatore  512 GB '
+slug: 'B08GFLRNC3-it Scheda Micro SD 512 GB ad alta velocità classe 10 Micro SD...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

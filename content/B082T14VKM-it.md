@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c6siQsjqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082T14VKM-it ANSIO Ventilatore a torre oscillante con telecomando e 3 impostazioni di velocità e di vento  con cavo lungo 1 75 m.30 pollici Grigio  batterie non incluse  2 anni di garanzia'
+slug: 'B082T14VKM-it ANSIO Ventilatore a torre oscillante con telecomando e 3...'
+tags: 
 actualPrice: 54.47 EUR
 currency: EUR
 price: 54.47

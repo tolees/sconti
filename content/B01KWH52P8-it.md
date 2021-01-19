@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UkRwusnfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KWH52P8-it Geox J Sandal Karly Girl D  Punta Aperta Bambina  Bianco  White C1000   40 EU'
+slug: 'B01KWH52P8-it Geox J Sandal Karly Girl D Punta Aperta Bambina Bianco...'
+tags: 
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

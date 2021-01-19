@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419G6zWttPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYDWYSY-it Nike MD Runner 2  Scarpe da Running Uomo  Blu  Midnight Navy/White-Wolf Grey   47 EU'
+slug: 'B00PYDWYSY-it Nike MD Runner 2 Scarpe da Running Uomo Blu Midnight...'
+tags: 
 actualPrice: 43.49 EUR
 currency: EUR
 price: 43.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-n4XqxH9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EQ52LXE-it Calvin Klein  Down Town  Eau de Parfum da donna  50 ml'
+slug: 'B00EQ52LXE-it Calvin Klein Down Town Eau de Parfum da donna 50 ml'
+tags: 
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

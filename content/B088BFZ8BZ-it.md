@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415ewLQkriL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BFZ8BZ-it Elyco Propeller per DJI Mavic Air 2  2pcs Low Noise Volo Silenzioso Quick Release Elica Pezzo di Rilascio  Rapido Basso Rumore per DJI Mavic Air 2 Drone Accessori  Argento '
+slug: 'B088BFZ8BZ-it Elyco Propeller per DJI Mavic Air 2 2pcs Low Noise Volo...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

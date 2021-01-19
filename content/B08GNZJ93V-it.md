@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T0KUB2bQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GNZJ93V-it BAITITON NVME 120GB Unità SSD M.2 2280 PCIe Express GEN3.0x4 Unità a Stato Solido Interno Lettura 1800MB/s  Scrittura 600MB/s'
+slug: 'B08GNZJ93V-it BAITITON NVME 120GB Unità SSD M.2 2280 PCIe Express...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

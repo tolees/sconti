@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41em3CPaH0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L464KIM-it Matt Le Mais Bio - 130 gr  Senza glutine'
+slug: 'B00L464KIM-it Matt Le Mais Bio - 130 gr Senza glutine'
+tags: 
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

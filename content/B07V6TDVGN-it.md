@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EZvH20WcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TDVGN-it Enterogermina Viaggi  integratore alimentare a base di probiotici  Vitamine A  D e Vitamine del gruppo B arricchito con fibre prebiotiche. Contiene edulcorante'
+slug: 'B07V6TDVGN-it Enterogermina Viaggi integratore alimentare a base di...'
+tags: 
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

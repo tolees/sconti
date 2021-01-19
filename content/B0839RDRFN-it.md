@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P9NUtVrfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0839RDRFN-it Shark Anti Hair Wrap IZ251EUT Scopa Elettrica senza Fili con TruePet  80 Minuti  Accessorio per Peli di Animali  Doppia Batteria  Magenta'
+slug: 'B0839RDRFN-it Shark Anti Hair Wrap IZ251EUT Scopa Elettrica senza Fili...'
+tags: 
 actualPrice: 370.88 EUR
 currency: EUR
 price: 370.88

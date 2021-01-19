@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EHEf2OdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824VJ4GB-it Cuffie Bluetooth  Auricolari Bluetooth5.0 Senza Fili Auricolari Wireless Sportivi in Ear con 3500mAh Custodia da Ricarica  Hi-Fi Stereo CVC8.0 Cancellazione di Rumore Cuffie Senza Fili con Mic   C5S+ '
+slug: 'B0824VJ4GB-it Cuffie Bluetooth Auricolari Bluetooth5.0 Senza Fili...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F1xPQx1OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ32ZFC-it Crocs Swiftwater Molded Expedition Sandal  Punta Aperta Uomo  Nero  Black/Black 060   48/49 EU'
+slug: 'B07SQ32ZFC-it Crocs Swiftwater Molded Expedition Sandal Punta Aperta...'
+tags: 
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

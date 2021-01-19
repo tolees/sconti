@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cSjM5Bn2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWWFJF3-it Salewa  Fanes 2 Ptx/Tw Clt M Jkt  Giacca  Uomo  Nero  Black Out Melange   52/XL'
+slug: 'B07DWWFJF3-it Salewa Fanes 2 Ptx/Tw Clt M Jkt Giacca Uomo Nero Black Out...'
+tags: 
 actualPrice: 123.37 EUR
 currency: EUR
 price: 123.37

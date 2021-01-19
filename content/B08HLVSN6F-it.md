@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hp3pGsnqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HLVSN6F-it FFTH Hard Disk 2 TB Esterno  Hard Disk Esterno USB-C 3.1 Portatile per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook.  2TB Rosso '
+slug: 'B08HLVSN6F-it FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB-C 3.1...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

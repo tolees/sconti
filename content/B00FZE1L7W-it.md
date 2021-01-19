@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w11TTQvfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FZE1L7W-it Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK5865'
+slug: 'B00FZE1L7W-it Michael Kors Orologio Analogico Quarzo Donna con Cinturino...'
+tags: 
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

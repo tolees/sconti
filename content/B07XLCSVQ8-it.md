@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GTF3mKZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLCSVQ8-it Apple Watch Series 5  GPS + Cellular  44 mm  Cassa in Alluminio  Grigio Siderale e Cinturino Sport - Nero'
+slug: 'B07XLCSVQ8-it Apple Watch Series 5 GPS + Cellular 44 mm Cassa in...'
+tags: 
 actualPrice: 479.0 EUR
 currency: EUR
 price: 479.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i3am7xWcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J178KBH-it SEAC Driver  Computer da Polso per Immersioni in Apnea con Download Dati Unisex Adulto  Nero  Standard'
+slug: 'B07J178KBH-it SEAC Driver Computer da Polso per Immersioni in Apnea con...'
+tags: 
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

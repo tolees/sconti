@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Lqf384daL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3GZT8N-it Timberland Boroughs Project Leather Oxford Sneaker  Uomo  Verde  Canteen  Tb0a2ajp9011   41 EU  7 UK '
+slug: 'B07T3GZT8N-it Timberland Boroughs Project Leather Oxford Sneaker Uomo...'
+tags: 
 actualPrice: 53.02 EUR
 currency: EUR
 price: 53.02

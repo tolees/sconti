@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yAgkW9tQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E7WFX4-it Calvin Klein CK-One Eau De Toilette  Unisex  200 Milliliter'
+slug: 'B000E7WFX4-it Calvin Klein CK-One Eau De Toilette Unisex 200 Milliliter'
+tags: 
 actualPrice: 33.8 EUR
 currency: EUR
 price: 33.8

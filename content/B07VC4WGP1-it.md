@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Egz42sqsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4WGP1-it Calvin Klein Instit Chest Logo Reg Tee T-Shirt  Rosso  Fiery Red Xa7   Small Uomo'
+slug: 'B07VC4WGP1-it Calvin Klein Instit Chest Logo Reg Tee T-Shirt Rosso Fiery...'
+tags: 
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

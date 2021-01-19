@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dTj1bdE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833XJ2KJ-it Netac 64G Chiavetta USB 3.0，Rotazione a 360 ° Pen Drive，USB Flash Drive velocità di Lettura Fino a 90 MB/s，Thumb Drive Memoria Stick'
+slug: 'B0833XJ2KJ-it Netac 64G Chiavetta USB 3.0，Rotazione a 360 ° Pen...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

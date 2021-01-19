@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XU4RFLhhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSLL6WL-it Wrangler LS 1 Pkt Shirt Camicia  Bianco  Real White Xw1   Medium Uomo'
+slug: 'B07TSLL6WL-it Wrangler LS 1 Pkt Shirt Camicia Bianco Real White Xw1...'
+tags: 
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

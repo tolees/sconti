@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51n+LXbJdHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KLRCN2-it Olimpia Splendid 99447 Caldodesign Termoventilatore Ceramico 1800 W  Bianco'
+slug: 'B074KLRCN2-it Olimpia Splendid 99447 Caldodesign Termoventilatore...'
+tags: 
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cGownfQuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08568KLRM-it Lysoform Blocchi WC Limone- Formato Convenienza da 9 Pezzi  Più di 315 Risciacqui'
+slug: 'B08568KLRM-it Lysoform Blocchi WC Limone- Formato Convenienza da 9 Pezzi...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

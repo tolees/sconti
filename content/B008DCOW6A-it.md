@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HECjr21cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008DCOW6A-it h.koenig V5i Ferro da Stiro  2400 W  1.7 Litri  90  plastica  Metallo  Blu/Azzurro'
+slug: 'B008DCOW6A-it h.koenig V5i Ferro da Stiro 2400 W 1.7 Litri 90 plastica...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

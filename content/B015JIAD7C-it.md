@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CBLe5nZTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015JIAD7C-it Polaroid Fotocamera Digitale a Scatto Istantaneo  con Tecnologia Di Stampa a Zero Inchiostro Zink  Bianco'
+slug: 'B015JIAD7C-it Polaroid Fotocamera Digitale a Scatto Istantaneo con...'
+tags: 
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

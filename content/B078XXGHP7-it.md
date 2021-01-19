@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-ZLlgHMxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XXGHP7-it McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento di 1 anno | PC/Mac/Smartphone/Tablet | Codice di attivazione via posta'
+slug: 'B078XXGHP7-it McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento...'
+tags: 
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

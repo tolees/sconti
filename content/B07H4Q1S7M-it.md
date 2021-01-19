@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SNbi1ywrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4Q1S7M-it Strumento Multifunzione  TECCPO 170W Mini Utensile Rotante Kit con 80 Accessori  Mandrino Autoserrante  Albero Flessibile  Mini Drill con Velocità Variabile  Ideale per Creazioni Fai-da-te'
+slug: 'B07H4Q1S7M-it Strumento Multifunzione TECCPO 170W Mini Utensile Rotante...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

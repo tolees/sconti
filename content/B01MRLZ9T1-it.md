@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WOWQsjVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRLZ9T1-it Vans Ward Sneaker  Unisex – Bambini  Suede/Canvas Black/White Iju  39 EU'
+slug: 'B01MRLZ9T1-it Vans Ward Sneaker Unisex – Bambini Suede/Canvas...'
+tags: 
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

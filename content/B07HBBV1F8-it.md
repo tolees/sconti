@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21-mqAgZt8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBBV1F8-it Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza Filo  Rosa'
+slug: 'B07HBBV1F8-it Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza...'
+tags: 
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

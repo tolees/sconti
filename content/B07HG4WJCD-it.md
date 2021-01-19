@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UVvXVgjNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4WJCD-it ELEGIANT Bastone Selfie  Asta Selfie Bluetooth Controllo Wireless Selfie Stick Treppiede Per Android iOS iPhone XS Max XR x 8s Huawei P20 P30 Mate Pro Lite 10 iPad Samsung Galaxy s10 s9+ HTC 8X LG ecc'
+slug: 'B07HG4WJCD-it ELEGIANT Bastone Selfie Asta Selfie Bluetooth Controllo...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

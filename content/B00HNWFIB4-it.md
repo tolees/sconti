@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310DouInsML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HNWFIB4-it Exponent T10200 Tetrax Smart Supporto per Auto  Nero'
+slug: 'B00HNWFIB4-it Exponent T10200 Tetrax Smart Supporto per Auto Nero'
+tags: 
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

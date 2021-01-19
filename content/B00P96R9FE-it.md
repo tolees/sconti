@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aEerff7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P96R9FE-it Kenwood KM631 Impastatrice Planetaria Classic Major  Robot da Cucina Mixer  900 W  6.7 Litri  Metallo Pressofuso  Argento'
+slug: 'B00P96R9FE-it Kenwood KM631 Impastatrice Planetaria Classic Major Robot...'
+tags: 
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

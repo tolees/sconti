@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aTsBJIVSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GTVA3Y2-it Vape Diffusore Elettrico con Filo contro Zanzare  Durata 12 Ore  10 Piastrine'
+slug: 'B00GTVA3Y2-it Vape Diffusore Elettrico con Filo contro Zanzare Durata 12...'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

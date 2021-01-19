@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rh3fl31dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785JVT1S-it Canna per giardino Flexi Hose  estendibile fino a 15 metri  extra-forte  raccordi in puro ottone da 3/4   - Il top delle canne per acqua flessibili  senza intoppi  spray con 8 funzioni compreso'
+slug: 'B0785JVT1S-it Canna per giardino Flexi Hose estendibile fino a 15 metri...'
+tags: 
 actualPrice: 27.11 EUR
 currency: EUR
 price: 27.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31an05mRSwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVQKXNS-it Marchio Amazon - MERAKI Slip a Vita Bassa in Cotone Uomo  Pacco da 4  White  White   L  Label: L'
+slug: 'B07MVQKXNS-it Marchio Amazon - MERAKI Slip a Vita Bassa in Cotone Uomo...'
+tags: 
 actualPrice: 8.44 EUR
 currency: EUR
 price: 8.44

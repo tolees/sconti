@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DpCHzIgpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSJKS3S-it Kindle  Ricondizionato Certificato  Nero - con luce frontale integrata'
+slug: 'B07HSJKS3S-it Kindle Ricondizionato Certificato Nero - con luce frontale...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

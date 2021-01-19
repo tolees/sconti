@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QEydtPY0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZZG5DZ-it Levi s Turner  Sneaker Uomo  Nero  Regular Black 159   44 EU'
+slug: 'B07DZZG5DZ-it Levi s Turner Sneaker Uomo Nero Regular Black 159 44 EU'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

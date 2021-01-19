@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mLvraOB4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDFYRDJ-it Desigual TS gante T-Shirt  Bianco  Blanco 1000   Small Donna'
+slug: 'B07VDFYRDJ-it Desigual TS gante T-Shirt Bianco Blanco 1000 Small Donna'
+tags: 
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

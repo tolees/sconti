@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413bQkJJozL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GFR6RPY-it AIMOS Switch KVM DVI  USB Commutatore 2 in 1 out per 2 Computer Condividi Tastiera e Mouse Supporto Risoluzione 1920 * 1200P@60Hz 4K*2K@30Hz  DVI 1.0 Supporta Windows 2000/XP/Vista Linux e Mac'
+slug: 'B08GFR6RPY-it AIMOS Switch KVM DVI USB Commutatore 2 in 1 out per 2...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

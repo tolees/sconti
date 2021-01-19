@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GGv6DGrwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9XSQYS-it Marchio Amazon - Iris & Lilly Mutande Donna  Pacco da 3  Beige  Pale Nude   M  Label: M'
+slug: 'B06X9XSQYS-it Marchio Amazon - Iris & Lilly Mutande Donna Pacco da 3...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

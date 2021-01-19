@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eCqLSpGOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSGCNFY-it Xbox One X - Bundle Gears of War 5 - Inclusi Gears of War 2  3  4 + 14 Days Live Gold + 1m Gamepass'
+slug: 'B07VSGCNFY-it Xbox One X - Bundle Gears of War 5 - Inclusi Gears of War...'
+tags: 
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

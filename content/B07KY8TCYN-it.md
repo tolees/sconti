@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uK6+FsLbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KY8TCYN-it Eastpak OUT OF OFFICE Zaino Casual  44 cm  27 liters  Multicolore  Scribble Local '
+slug: 'B07KY8TCYN-it Eastpak OUT OF OFFICE Zaino Casual 44 cm 27 liters...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mm8TGxF-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5DHKK2-it KingDian 2 5 pollici SATA III 1TB 3D NAND Performance SSD interno'
+slug: 'B07H5DHKK2-it KingDian 2 5 pollici SATA III 1TB 3D NAND Performance SSD...'
+tags: 
 actualPrice: 63.17 EUR
 currency: EUR
 price: 63.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jIuxKfbcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWGVNWT-it DYNASONIC 025 Cassa Bluetooth Altoparlante con Karaoke 10W | Cassa portatile compatibile con computer  telefoni ecc con Microfono incluso  2 Microfoni '
+slug: 'B07PWGVNWT-it DYNASONIC 025 Cassa Bluetooth Altoparlante con Karaoke 10W...'
+tags: 
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

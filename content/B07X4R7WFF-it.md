@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518dP-dLhIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X4R7WFF-it Swiffer Duster Ricariche per Piumino Catturapolvere  63 Pezzi'
+slug: 'B07X4R7WFF-it Swiffer Duster Ricariche per Piumino Catturapolvere 63 Pezzi'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LsX2VukoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3B9QPP-it homcom Carrello per Bicicletta Rimorchio Cargo Bici Trasporto di Oggetti Pieghevole Portata 36kg 156x72x82cm'
+slug: 'B07K3B9QPP-it homcom Carrello per Bicicletta Rimorchio Cargo Bici...'
+tags: 
 actualPrice: 87.96 EUR
 currency: EUR
 price: 87.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lMb2c2iSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089WWWZ74-it Finish Detersivo Per Lavastoviglie  100 Lavaggi  Powergel  2 Confezioni Da 50 Lavaggi  Limone'
+slug: 'B089WWWZ74-it Finish Detersivo Per Lavastoviglie 100 Lavaggi Powergel 2...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417G1wSadRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H34HNN8-it Deik Bilancia Pesa Persona Digitale  Bluetooth Bilancia Pesapersone con Display Retroilluminato  per iOS&Android Intelligente con Analisi Composizione Corporea Inclusi Peso  Grasso  Acqua  BMI  ECC'
+slug: 'B07H34HNN8-it Deik Bilancia Pesa Persona Digitale Bluetooth Bilancia...'
+tags: 
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

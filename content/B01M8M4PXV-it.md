@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oAnfbE8IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8M4PXV-it Friskies Purina Crocchette Cane Vitafit Balance con Pollo e Verdure Aggiunte - 6 Sacchi da 1.5 Kg Ciascuno'
+slug: 'B01M8M4PXV-it Friskies Purina Crocchette Cane Vitafit Balance con Pollo...'
+tags: 
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jtKFvyESL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVJD1BJ-it Hard Disk Esterno  Hard Disk 1 tb Esterno USB3.1/Type C Hard Disk per Mac  PC  PS4  Desktop  Laptop  MacBook  Xbox One  1TB Blu '
+slug: 'B08CVJD1BJ-it Hard Disk Esterno Hard Disk 1 tb Esterno USB3.1/Type C...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IDg1gC-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRKD92X-it X-DRAGON Caricabatterie Portatile 20000mAh 3 Porte USB Power Bank Batteria Esterna con Display LCD per iPhone  iPad  Samsung  Huawei  Smartphone  Android  Universale Cellulare - Arancia'
+slug: 'B07NRKD92X-it X-DRAGON Caricabatterie Portatile 20000mAh 3 Porte USB...'
+tags: 
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

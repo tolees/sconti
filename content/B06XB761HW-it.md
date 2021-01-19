@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tQhZRFNgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XB761HW-it EasySMX ESM-9100-Gray Joystick controller con cavo  Doppial-vibrazione  Turbo e Pulsanti Anteriori  Nero/Grigio'
+slug: 'B06XB761HW-it EasySMX ESM-9100-Gray Joystick controller con cavo...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

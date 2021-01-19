@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61OxChj70nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ373KM-it Catena Luminosa Effetto Fiamma Tomshine 8pc 10M Catene Luminose per Natale Halloween Festa  Matrimonio  Giardino Decorazioni Casa'
+slug: 'B07XQ373KM-it Catena Luminosa Effetto Fiamma Tomshine 8pc 10M Catene...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

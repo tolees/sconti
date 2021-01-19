@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412v+o7kCPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBV5ZXK-it adidas Superstar  Scarpe da Ginnastica Unisex Adulto  Nero  Core Black/Core Black/Core Black   38 EU'
+slug: 'B00UBV5ZXK-it adidas Superstar Scarpe da Ginnastica Unisex Adulto Nero...'
+tags: 
 actualPrice: 52.74 EUR
 currency: EUR
 price: 52.74

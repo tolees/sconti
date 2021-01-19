@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jWMFx3JvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MJGVS9-it Puma Puma Smash v2 L Scarpe da Ginnastica Basse Unisex - Adulto  Bianco  Puma White-Puma White   38.5 EU  5.5 UK '
+slug: 'B077MJGVS9-it Puma Puma Smash v2 L Scarpe da Ginnastica Basse Unisex -...'
+tags: 
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

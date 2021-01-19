@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w9mqowc9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KG66SZO-it ArtWay Studio - Quaderno da Disegno spiralato - Cartoncino Senza acidi - Copertina Rigida -170g/m² 50 Pagine - 1 x Quadrato  285 x 285 mm '
+slug: 'B00KG66SZO-it ArtWay Studio - Quaderno da Disegno spiralato - Cartoncino...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

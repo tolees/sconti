@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nneb4yYAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH1L65V-it Levi s Woodward L  Sneaker Uomo  Grigio  Regular Grey 55   43 EU'
+slug: 'B07SH1L65V-it Levi s Woodward L Sneaker Uomo Grigio Regular Grey 55 43 EU'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

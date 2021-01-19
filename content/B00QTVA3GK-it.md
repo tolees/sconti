@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416tg1CN4DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QTVA3GK-it Kappa  Polo Uomo Peleot  Blu  Navy   M'
+slug: 'B00QTVA3GK-it Kappa Polo Uomo Peleot Blu Navy M'
+tags: 
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hSzCv8BUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GQ75CH8-it New Balance 574v2  Sneaker Uomo  Nero  Black Black   43 EU'
+slug: 'B07GQ75CH8-it New Balance 574v2 Sneaker Uomo Nero Black Black 43 EU'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

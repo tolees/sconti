@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DwAAloXUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VZVMWB-it Michael Kors Orologio Analogico Quarzo Da Uomo Con Cinturino In Silicone Mkt4010'
+slug: 'B074VZVMWB-it Michael Kors Orologio Analogico Quarzo Da Uomo Con...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

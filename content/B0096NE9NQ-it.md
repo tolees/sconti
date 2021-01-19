@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0096NE9NQ-it Lampa 32106 6899'
+tags: 
 actualPrice: 10.23 EUR
 currency: EUR
 price: 10.23

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318VZkYZ4QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KSB389A-it Samsung MG23K3515AW Forno Microonde Grill Combinato  23 Litri  800 W  Grill 1100 W  Bianco'
+slug: 'B01KSB389A-it Samsung MG23K3515AW Forno Microonde Grill Combinato 23...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

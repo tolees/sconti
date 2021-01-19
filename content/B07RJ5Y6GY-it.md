@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zxY7Txa+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJ5Y6GY-it G-STAR RAW Premium Basic Felpa  Grigio  Lt Grey Htr C235-A302   Large Uomo'
+slug: 'B07RJ5Y6GY-it G-STAR RAW Premium Basic Felpa Grigio Lt Grey Htr...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WdVCZ5zbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LCV6QE-it Casio Orologio Digitale Quarzo Uomo con Cinturino in Acciaio Inox DB-360N-1AEF'
+slug: 'B000LCV6QE-it Casio Orologio Digitale Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

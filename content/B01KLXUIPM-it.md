@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dB529+laL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KLXUIPM-it Gillette Series - Gel da barba per pelli sensibili  200 ml  set da 3'
+slug: 'B01KLXUIPM-it Gillette Series - Gel da barba per pelli sensibili 200 ml...'
+tags: 
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

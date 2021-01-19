@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TuNuefGgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0832Z4NPZ-it Taylor Swoden Aladin - 1 7L Retro Bollitore elettrico  Acciaio inossidabile wireless 2200W  Bollitore con visualizzazione della temperatura  Spegnimento automatico per acqua  Tè'
+slug: 'B0832Z4NPZ-it Taylor Swoden Aladin - 1 7L Retro Bollitore elettrico...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

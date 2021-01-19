@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PgLi46PfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RN8DK-it PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianca White-Rosewater White  37 EU'
+slug: 'B07S9RN8DK-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Unisex-Adulto...'
+tags: 
 actualPrice: 42.65 EUR
 currency: EUR
 price: 42.65

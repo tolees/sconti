@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4166LObQdHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K2G5XQ-it Philips SHQ1255TBK/00 Cuffie Auricolari Sportive in Ear  Suono Potente  Stanghetta per Orecchio Stabile  Microfono Integrato  Design Acustico Aperto  Leggere  Nero'
+slug: 'B072K2G5XQ-it Philips SHQ1255TBK/00 Cuffie Auricolari Sportive in Ear...'
+tags: 
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

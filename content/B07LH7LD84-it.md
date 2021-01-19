@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WzdXD1EkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH7LD84-it The North Face M TBL Sport HD  Piumino Uomo  Rosso  Salsa Red/Tnf Black   M'
+slug: 'B07LH7LD84-it The North Face M TBL Sport HD Piumino Uomo Rosso Salsa...'
+tags: 
 actualPrice: 133.54 EUR
 currency: EUR
 price: 133.54

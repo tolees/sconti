@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ftfSkDNNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074Q85BNF-it Philips HD9652/90 Airfryer XXL - Friggitrice Low-Oil e Multicooker con Tecnologia Twin Turbo Star  2225 W  1.4 kg  Plastica  Nero 43.3x 32.2x31.6cm'
+slug: 'B074Q85BNF-it Philips HD9652/90 Airfryer XXL - Friggitrice Low-Oil e...'
+tags: 
 actualPrice: 204.99 EUR
 currency: EUR
 price: 204.99

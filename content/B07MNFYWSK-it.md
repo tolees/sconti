@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YOn8FTWHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNFYWSK-it Gebildet 3 pezzi Interruttore a Levetta con Luce a LED Rosso  20A 12VDC  SPST ON-OFF 2 Posizioni 3 Terminali Rocker Toggle Switch  Usato per Auto Camion Barca'
+slug: 'B07MNFYWSK-it Gebildet 3 pezzi Interruttore a Levetta con Luce a LED...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51u04H5POIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWS9V3M-it HUAWEI T5 Mediapad Tablet  Display da 10.1"  1080p Full HD  64 GB Espandibili  4 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero'
+slug: 'B07VWS9V3M-it HUAWEI T5 Mediapad Tablet Display da 10.1" 1080p Full HD...'
+tags: 
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

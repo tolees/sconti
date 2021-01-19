@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61QrNU0tl2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DH3MR96-it Zilong - tappetino antiaderente in Teflon  per griglia del forno e barbecue  dimensioni: 40 cm x 33 cm  confezione da 2 pezzi  40*40 cm'
+slug: 'B07DH3MR96-it Zilong - tappetino antiaderente in Teflon per griglia del...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

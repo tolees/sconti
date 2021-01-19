@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31z9tKXRL1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6NJSP-it Levi s 721 High Rise Skinny Jeans  Hyper Soft T2 Sepia Rose 0271  25W / 30L Donna'
+slug: 'B07TT6NJSP-it Levi s 721 High Rise Skinny Jeans Hyper Soft T2 Sepia Rose...'
+tags: 
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51M2bBo+uxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018M3GD8Y-it Gillette Fusion Proshield Chill Lamette di Ricarica per Rasoio da Uomo  11 Lame'
+slug: 'B018M3GD8Y-it Gillette Fusion Proshield Chill Lamette di Ricarica per...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

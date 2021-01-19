@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u8MzGjjoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2YPWKJ-it PUMA Cilia  Scarpe da Ginnastica Donna  Bianca  White-Gray Violet-Silver   38 EU'
+slug: 'B07F2YPWKJ-it PUMA Cilia Scarpe da Ginnastica Donna Bianca White-Gray...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

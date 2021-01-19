@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CKVQNnMAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBP761G-it YOOFAN Borsa da Spiaggia-Borsa Grande a Rete da Spiaggia - Grande Mercato per Lo Stoccaggio di Giocattoli Lavabili e Traspiranti  per la Spiaggia  Il Nuoto  Il Campeggio  la Palestra  Il Supermercato'
+slug: 'B07LBP761G-it YOOFAN Borsa da Spiaggia-Borsa Grande a Rete da Spiaggia -...'
+tags: 
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

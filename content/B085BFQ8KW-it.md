@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uzSm3vMSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BFQ8KW-it 18W Caricabatterie Caricatore Per Xiaomi Redmi Note 7 8 9S 9 Pro Max 8T Huawei P30 P20 Lite Pro Mate 20 30 Honor 20 10 View P40 Nova 5T P Smart Z P10 Plus QC 3.0 Carica Veloce Rapida Con 2M Cavo USB C'
+slug: 'B085BFQ8KW-it 18W Caricabatterie Caricatore Per Xiaomi Redmi Note 7 8 9S...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

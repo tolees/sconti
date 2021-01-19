@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GM4WAPJmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F696VCP-it Pawhut Passeggino Pieghevole per Cani di Taglia Medio-Grande Fino a 55kg in Acciaio e Tessuto Oxford Rosso con 4 Ruote'
+slug: 'B08F696VCP-it Pawhut Passeggino Pieghevole per Cani di Taglia Medio-...'
+tags: 
 actualPrice: 99.96 EUR
 currency: EUR
 price: 99.96

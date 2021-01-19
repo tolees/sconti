@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Lz-WJ54dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH1M75D-it Honor 20 Lite Smartphone  4 GB RAM  Memoria Espandibile da 128 GB  Display 6.21" FHD+  Tripla Fotocamera Posteriore da 24+8+2 MP  Fotocamera Anteriore 32 MP  Nero [Italia]'
+slug: 'B07RH1M75D-it Honor 20 Lite Smartphone 4 GB RAM Memoria Espandibile da...'
+tags: 
 actualPrice: 201.7 EUR
 currency: EUR
 price: 201.7

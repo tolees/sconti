@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LT8KcTOzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMHQW88-it Black+Decker BXPW2500DTS Idropulitrice ad Alta Pressione con Dualtech System  2500 W  150 Bar  810 l/h   Nero  DSS'
+slug: 'B07SMHQW88-it Black+Decker BXPW2500DTS Idropulitrice ad Alta Pressione...'
+tags: 
 actualPrice: 161.4 EUR
 currency: EUR
 price: 161.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W4wtULbRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7XNT8H-it Columbia Lake 22  Piumino lungo con Cappuccio Donna  Blu  Nocturnal   S'
+slug: 'B07R7XNT8H-it Columbia Lake 22 Piumino lungo con Cappuccio Donna Blu...'
+tags: 
 actualPrice: 56.37 EUR
 currency: EUR
 price: 56.37

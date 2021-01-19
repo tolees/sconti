@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3170O-0JIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VMTVFJ-it Bialetti Nuovo Elegance 75cl Milk Pitcher 75 cl  Bollilatte  Acciaio  Inox  Argento'
+slug: 'B072VMTVFJ-it Bialetti Nuovo Elegance 75cl Milk Pitcher 75 cl Bollilatte...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

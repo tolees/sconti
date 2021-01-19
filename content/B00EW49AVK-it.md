@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qRxYg3LZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EW49AVK-it Braun TS745A TexStyle 7  Ferro da Stiro a Vapore  Piastra in Eloxal  Colpo Vapore 180 g  Serbatoio 400ml  2400 W  Acciaio inossidabile  Nero'
+slug: 'B00EW49AVK-it Braun TS745A TexStyle 7 Ferro da Stiro a Vapore Piastra in...'
+tags: 
 actualPrice: 38.89 EUR
 currency: EUR
 price: 38.89

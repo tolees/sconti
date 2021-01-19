@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+mIf8QNlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZYPFDT-it TACKLIFE RTD37AC Utensile Multifunzione  200W Ad Alte Prestazioni Utensile Rotante  10 000-40 000 Giri/Min Strumento Multifunzione Alta velocità  Utilizzando Per Fai Da Te  Incisione e Così Via'
+slug: 'B07WZYPFDT-it TACKLIFE RTD37AC Utensile Multifunzione 200W Ad Alte...'
+tags: 
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

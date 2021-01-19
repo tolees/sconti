@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b8ycmf7FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DVM67LK-it AVM FRITZ!Repeater 310 International  Range Extender Universale Wireless N 300 Mbit/s  WPS  Compatibile con Modem Fibra e ADSL'
+slug: 'B00DVM67LK-it AVM FRITZ!Repeater 310 International Range Extender...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

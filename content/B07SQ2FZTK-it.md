@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LXIcpOrNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ2FZTK-it Philips Lighting Hue Go White and Color Ambiance  Lampada Portatile Connessa  Zigbee + Bluetooth  Bianco'
+slug: 'B07SQ2FZTK-it Philips Lighting Hue Go White and Color Ambiance Lampada...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

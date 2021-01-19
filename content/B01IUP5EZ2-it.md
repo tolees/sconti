@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413nTG65baL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUP5EZ2-it Ultima Cibo per Cani Mini Adult con Pollo  3 kg'
+slug: 'B01IUP5EZ2-it Ultima Cibo per Cani Mini Adult con Pollo 3 kg'
+tags: 
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

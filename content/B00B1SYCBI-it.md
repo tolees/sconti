@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5149CtxO6vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B1SYCBI-it Brandit Savage Vintage Shorts Pantaloncini  Schwarz  M Uomo'
+slug: 'B00B1SYCBI-it Brandit Savage Vintage Shorts Pantaloncini Schwarz M Uomo'
+tags: 
 actualPrice: 29.86 EUR
 currency: EUR
 price: 29.86

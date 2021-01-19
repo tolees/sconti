@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L2UylOeiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PV6JR-it PUMA ST Runner V2 NL  Scarpe da Ginnastica Unisex-Adulto  High Rise White/Castlerock  46 EU'
+slug: 'B07S8PV6JR-it PUMA ST Runner V2 NL Scarpe da Ginnastica Unisex-Adulto...'
+tags: 
 actualPrice: 36.37 EUR
 currency: EUR
 price: 36.37

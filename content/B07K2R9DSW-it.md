@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aR0HHDziL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2R9DSW-it adidas Continental 80  Scarpe da Ginnastica Uomo  Nero  Black G27707   38 EU'
+slug: 'B07K2R9DSW-it adidas Continental 80 Scarpe da Ginnastica Uomo Nero Black...'
+tags: 
 actualPrice: 56.1 EUR
 currency: EUR
 price: 56.1

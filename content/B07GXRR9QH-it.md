@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o4oyzvRYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXRR9QH-it Tommy Hilfiger Th Kids Flag 2p Calze  Multicolore  Middle Grey Melange 758   35-38  Taglia Produttore: 35/38   Pacco da 2  Bambino'
+slug: 'B07GXRR9QH-it Tommy Hilfiger Th Kids Flag 2p Calze Multicolore Middle...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

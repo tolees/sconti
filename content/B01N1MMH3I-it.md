@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TX3sze4IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1MMH3I-it Nikon D5600 + AF-S DX NIKKOR 18-105 mm VR  Fotocamera Reflex Digitale  24.2 Megapixel  LCD Touchscreen 3"  Bluetooth  SD 8 GB 300x Premium Lexar  Nero [Nital Card: 4 Anni di Garanzia]'
+slug: 'B01N1MMH3I-it Nikon D5600 + AF-S DX NIKKOR 18-105 mm VR Fotocamera...'
+tags: 
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c7sczPstL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EAAF1BO-it Rowenta CV6030E0 Instant Dry Phon Asciugacapelli Diffusore per Capelli Sani e Lucenti'
+slug: 'B00EAAF1BO-it Rowenta CV6030E0 Instant Dry Phon Asciugacapelli Diffusore...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

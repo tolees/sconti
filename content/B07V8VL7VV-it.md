@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31adzg6Zg+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8VL7VV-it Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Basse Uomo  Bianco  White Ybs   43 EU'
+slug: 'B07V8VL7VV-it Tommy Hilfiger Lightweight Stripes Knit Sneaker Scarpe da...'
+tags: 
 actualPrice: 27.38 EUR
 currency: EUR
 price: 27.38

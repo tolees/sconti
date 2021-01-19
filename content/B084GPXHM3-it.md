@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wd99ao9ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084GPXHM3-it Svelto Expert Pastiglie per Lavastoviglie Extra Brillantezza  117 Lavaggi  13 Unità  Confezione da 9 '
+slug: 'B084GPXHM3-it Svelto Expert Pastiglie per Lavastoviglie Extra...'
+tags: 
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

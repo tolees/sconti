@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BTGxnKoRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WT6FH7-it TACKLIFE Attrezzi da Giardino  Cesoie Potatura  Pala trapiantatore da Giardino  Cazzuola per trapianto  Set di 3 pezzi Utensili per Giardino in Acciaio Inossidabile per Potare  Trapiantare GGT3A'
+slug: 'B074WT6FH7-it TACKLIFE Attrezzi da Giardino Cesoie Potatura Pala...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

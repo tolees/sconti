@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s-yfIlMfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTMPNQ1-it Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo'
+slug: 'B07DTMPNQ1-it Lacoste Sport TH0123 T-Shirt Bianco Blanc XXXX-Large...'
+tags: 
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

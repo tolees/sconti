@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KoypLNwnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CSL3DKD-it Auricolari Bluetooth Cuffie Bluetooth Pro 5.0 Cuffie Wireless Sportive IPX7 Impermeabili Riduzione del Rumore Stereo 3D HD Insonorizzato adatte per Apple AirPods Pro/Android/iPhone Cuffie In Ear'
+slug: 'B08CSL3DKD-it Auricolari Bluetooth Cuffie Bluetooth Pro 5.0 Cuffie...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

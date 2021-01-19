@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fymv7cP5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055BWXF4-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4656'
+slug: 'B0055BWXF4-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

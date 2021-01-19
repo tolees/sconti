@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z87TBKX-it Joker'
+tags: 
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

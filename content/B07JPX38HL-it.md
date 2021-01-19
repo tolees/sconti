@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UefeCXIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPX38HL-it JACK & JONES Jjimarco Jjbowie Sa Pantaloni  Beige  Beige Beige   W30/L30  Taglia Produttore: 30  Uomo'
+slug: 'B07JPX38HL-it JACK & JONES Jjimarco Jjbowie Sa Pantaloni Beige Beige...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

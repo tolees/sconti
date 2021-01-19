@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RkE-1zS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6JVFT8-it Tommy Hilfiger X Bralette Brassière  Nero  Black 990   Medium Donna'
+slug: 'B07B6JVFT8-it Tommy Hilfiger X Bralette Brassière Nero Black 990 Medium...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

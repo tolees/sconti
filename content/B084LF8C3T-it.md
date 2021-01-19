@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KNitaaI6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084LF8C3T-it Samsung Galaxy S20 Smartphone  Display 6.2" Dynamic AMOLED 2X  3 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  Batteria 4000 mAh  Hybrid SIM/eSIM  [Versione Italiana]  Cloud Blue'
+slug: 'B084LF8C3T-it Samsung Galaxy S20 Smartphone Display 6.2" Dynamic AMOLED...'
+tags: 
 actualPrice: 597.35 EUR
 currency: EUR
 price: 597.35

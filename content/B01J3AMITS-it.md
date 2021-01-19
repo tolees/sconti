@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dlv8MPNuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J3AMITS-it iAmotus Adattatore Bluetooth  USB Bluetooth Stick 4.0 + EDR Mini Dongle Ricevitore Basso Consumo Energetico Plug And Play per PC con Windows 10 8 7 XP  Compatibile con Cuffie  Mouse  Tastiera'
+slug: 'B01J3AMITS-it iAmotus Adattatore Bluetooth USB Bluetooth Stick 4.0 + EDR...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41963qgIOfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FU4ZD5I-it Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Blu  Jeans   43/46 - Confezione da 2'
+slug: 'B00FU4ZD5I-it Tommy Hilfiger TH Men Quarter 2P Calze Uomo Blu Jeans...'
+tags: 
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TpeIwdZ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK7D4N9-it Winnes - Smartwatch per bambini con 7 giochi  funzione musica e sveglia  fotocamera  per 3 – 12 anni'
+slug: 'B07SK7D4N9-it Winnes - Smartwatch per bambini con 7 giochi funzione...'
+tags: 
 actualPrice: 32.89 EUR
 currency: EUR
 price: 32.89

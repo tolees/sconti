@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IX16+ZvRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085QMPQWS-it Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV: Netflix  Youtube  Prime/WiFi/Bluetooth/3 HDMI/PC/USB'
+slug: 'B085QMPQWS-it Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV:...'
+tags: 
 actualPrice: 293.86 EUR
 currency: EUR
 price: 293.86

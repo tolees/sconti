@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zNVrekbEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XW66KZJ-it Lampada da Scrivania TaoTronics  Lampada da Tavolo Ufficio LED 12W con 6 Luminosità + 3 Temperature di Colore  Porta di Ricarica USB per Smartphone  LED Occhi-Cura  Funzione Memoria  Grigio Argento'
+slug: 'B06XW66KZJ-it Lampada da Scrivania TaoTronics Lampada da Tavolo Ufficio...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

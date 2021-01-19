@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fElVlCrdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C4Y5GHY-it Elyco Corda Saltare per Nintendo Switch Jump Rope Challenge  Regolabile Jump Rope Senza Durevole Corda per Fitness e attività Fisica per Ragazzi e Ragazze per Switch Joy-con'
+slug: 'B08C4Y5GHY-it Elyco Corda Saltare per Nintendo Switch Jump Rope...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

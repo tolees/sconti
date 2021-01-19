@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P6VUdNdCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC3YGML-it Calvin Klein 35mm Essential Belt Cintura  Marrone  Dark Tan Gae   2  Taglia Produttore: 80  Uomo'
+slug: 'B07VC3YGML-it Calvin Klein 35mm Essential Belt Cintura Marrone Dark Tan...'
+tags: 
 actualPrice: 15.68 EUR
 currency: EUR
 price: 15.68

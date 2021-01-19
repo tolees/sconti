@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sLZ5stAJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002DDISG-it Braun HC5050 Tagliacapelli  Regolabarba Uomo e Rasoio Elettrico Barba con 17 Impostazioni di Lunghezza Precise e Lame Affilate di Lunga Durata  2 Accessori Inclusi'
+slug: 'B0002DDISG-it Braun HC5050 Tagliacapelli Regolabarba Uomo e Rasoio...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

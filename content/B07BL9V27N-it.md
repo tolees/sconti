@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o4vJ4KFKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL9V27N-it FRANCK PROVOST Expert Protection Cura professionale 230°C 300 ml – Set di 2'
+slug: 'B07BL9V27N-it FRANCK PROVOST Expert Protection Cura professionale 230°C...'
+tags: 
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

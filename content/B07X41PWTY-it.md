@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YZ2ZYT66L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X41PWTY-it WD Elements Hard Disk Esterno  Portatile  USB 3.0  5 TB  Nero'
+slug: 'B07X41PWTY-it WD Elements Hard Disk Esterno Portatile USB 3.0 5 TB Nero'
+tags: 
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

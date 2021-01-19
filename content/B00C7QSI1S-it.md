@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t3qyHSjBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C7QSI1S-it Rapid 40107334 Set di ugelli con Le incollatrici  240 V  Blu  Accessori'
+slug: 'B00C7QSI1S-it Rapid 40107334 Set di ugelli con Le incollatrici 240 V Blu...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

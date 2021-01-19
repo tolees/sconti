@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qjmh1QJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ1N33P-it TOPERSUN 10PCS Marcatori Evidenziatori metallici a mezzo punto Marcatori colorati per creare album di carte Album di foto in carta di pietra'
+slug: 'B07QJ1N33P-it TOPERSUN 10PCS Marcatori Evidenziatori metallici a mezzo...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

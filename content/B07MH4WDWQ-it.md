@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UW6GA-vSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MH4WDWQ-it Garnier Bio Crema Contorno Occhi Naturale Bio Lavanda Rigenerante  Contorno Occhi Anti-età  Formula alla Lavanda  15 ml  Confezione da 1'
+slug: 'B07MH4WDWQ-it Garnier Bio Crema Contorno Occhi Naturale Bio Lavanda...'
+tags: 
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

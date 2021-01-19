@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nw2bO6-CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STTRMSW-it Lysoform Casa Pavimenti - 1250 Ml  Classico'
+slug: 'B07STTRMSW-it Lysoform Casa Pavimenti - 1250 Ml Classico'
+tags: 
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

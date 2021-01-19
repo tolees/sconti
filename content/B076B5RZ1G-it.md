@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aPeDVh3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076B5RZ1G-it Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Nero  Black Preto   43/44 EU'
+slug: 'B076B5RZ1G-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto Nero...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

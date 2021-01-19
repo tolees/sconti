@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kYUE3-ZZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRD8US-it Sylvanian Families - Casetta per le bambole  in plastica'
+slug: 'B00HRRD8US-it Sylvanian Families - Casetta per le bambole in plastica'
+tags: 
 actualPrice: 66.48 EUR
 currency: EUR
 price: 66.48

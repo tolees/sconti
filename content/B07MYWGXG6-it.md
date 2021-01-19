@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aIzPNX7qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYWGXG6-it WisFox Utensili Cucina Set  Set di Utensili da Cucina in Silicone Resistente al Calore Con Manico Legno Antiaderenti da Cucina 11 Pezzi +10 S Ganci - Grigio'
+slug: 'B07MYWGXG6-it WisFox Utensili Cucina Set Set di Utensili da Cucina in...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

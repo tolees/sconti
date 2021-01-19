@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VdPRyJ-iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HS2JQQ1-it eXtremeRate Pulsante ABXY D-pad Croci Direzionali Tasti ZR ZL L R Ricambio per Nintendo Switch Pro Controller Joystick Trasparente Blu  con Cacciaviti-NON Include Controller'
+slug: 'B08HS2JQQ1-it eXtremeRate Pulsante ABXY D-pad Croci Direzionali Tasti ZR...'
+tags: 
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

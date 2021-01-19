@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41geBB9NrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N0E1KDE-it Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0  Micro Quattro Terzi  per Fotocamere OM-D e PEN  Nero'
+slug: 'B00N0E1KDE-it Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0 Micro...'
+tags: 
 actualPrice: 558.89 EUR
 currency: EUR
 price: 558.89

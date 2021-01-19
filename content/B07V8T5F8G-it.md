@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yNt8SoZUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8T5F8G-it Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta  Blu  Desert Sky Dw5   38 EU'
+slug: 'B07V8T5F8G-it Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta Blu...'
+tags: 
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MrOkWzh8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSYSS86-it Electrolux E7TB1-4GB Explore 7 Blender  Nero Granite'
+slug: 'B07KSYSS86-it Electrolux E7TB1-4GB Explore 7 Blender Nero Granite'
+tags: 
 actualPrice: 130.0 EUR
 currency: EUR
 price: 130.0

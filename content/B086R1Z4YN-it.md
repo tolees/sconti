@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wlMyTMG8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086R1Z4YN-it Samsung TV UE55TU8070UXZT Smart TV 55" Serie TU8070  Crystal UHD 4K  Wi-Fi  2020  Nero'
+slug: 'B086R1Z4YN-it Samsung TV UE55TU8070UXZT Smart TV 55" Serie TU8070...'
+tags: 
 actualPrice: 472.89 EUR
 currency: EUR
 price: 472.89

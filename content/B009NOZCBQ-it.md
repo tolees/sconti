@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g7cPS1sPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009NOZCBQ-it Craghoppers Kiwi Pro Action Pantaloni  Uomo  Nero   56 EU  40 UK - Regular'
+slug: 'B009NOZCBQ-it Craghoppers Kiwi Pro Action Pantaloni Uomo Nero 56 EU 40...'
+tags: 
 actualPrice: 27.72 EUR
 currency: EUR
 price: 27.72

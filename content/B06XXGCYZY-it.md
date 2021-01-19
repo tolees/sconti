@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Cu7bMyPWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXGCYZY-it Rowenta CV7920 Silence AC Premium Care Asciugacapelli Silenzioso  2300 W  con Generatore di Ioni e Diffusore'
+slug: 'B06XXGCYZY-it Rowenta CV7920 Silence AC Premium Care Asciugacapelli...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

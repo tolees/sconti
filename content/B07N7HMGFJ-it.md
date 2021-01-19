@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QtOVPn78L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7HMGFJ-it Inglesina Zippy System Pro Sistema Trio 3 in 1 con Passeggino  Carrozzina e Seggiolino Auto  da 0 a 15 Kg  Granito'
+slug: 'B07N7HMGFJ-it Inglesina Zippy System Pro Sistema Trio 3 in 1 con...'
+tags: 
 actualPrice: 445.0 EUR
 currency: EUR
 price: 445.0

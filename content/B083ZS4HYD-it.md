@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415zTxPFnfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZS4HYD-it SanDisk Ultra Fit Unità Flash  USB 3.1 da 512 GB con Velocità fino a 130 MB/sec Tradizionale Nero 512 GB'
+slug: 'B083ZS4HYD-it SanDisk Ultra Fit Unità Flash USB 3.1 da 512 GB con...'
+tags: 
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519LZYObgmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXPKBF9-it HOMIEE Zaino da Trekking 45 Litri  Resistente all Acqua  Zaino da Escursione per Trekking Alpinismo  Multifunzione Zaino da Campeggio per Sport Viaggio Donna e Uomo Verde'
+slug: 'B07YXPKBF9-it HOMIEE Zaino da Trekking 45 Litri Resistente all Acqua...'
+tags: 
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

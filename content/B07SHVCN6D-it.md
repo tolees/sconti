@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h3WExj2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHVCN6D-it Under Armour Rush HeatGear Compression Maglietta A Maniche Corte  Uomo  Nero  SM'
+slug: 'B07SHVCN6D-it Under Armour Rush HeatGear Compression Maglietta A Maniche...'
+tags: 
 actualPrice: 31.79 EUR
 currency: EUR
 price: 31.79

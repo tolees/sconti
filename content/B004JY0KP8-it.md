@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aJ1ph+F-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004JY0KP8-it Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Pelle SNDC31P1'
+slug: 'B004JY0KP8-it Seiko Orologio Cronografo Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

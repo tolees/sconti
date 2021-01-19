@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Esv6hLKiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYY7VL5-it G-STAR RAW Eyben Slim V T Wmn S/s T-Shirt  Bianco  White 110   Medium Donna'
+slug: 'B01MYY7VL5-it G-STAR RAW Eyben Slim V T Wmn S/s T-Shirt Bianco White 110...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

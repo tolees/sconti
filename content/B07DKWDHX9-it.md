@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A2j-tK8QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKWDHX9-it Active Era Bilancia Pesapersone Digitale Ultrasottile con Sensori di Precisione Accensione e Spegnimento Automatico in Vetro Temperato. Misurazione in stone/kg/libbre. Bianco'
+slug: 'B07DKWDHX9-it Active Era Bilancia Pesapersone Digitale Ultrasottile con...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

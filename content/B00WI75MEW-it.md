@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21FzsQnn4VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WI75MEW-it ArtWay - Piegatore in Osso Vero - per Piegare con precisione Carta e cartoncino - 6” Pezzo Singolo'
+slug: 'B00WI75MEW-it ArtWay - Piegatore in Osso Vero - per Piegare con...'
+tags: 
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

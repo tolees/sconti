@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419s9Dzy1xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKWMRKX-it Moleskine Edizione Box in Pelle Notebook Classic Pagina a Righe - Taccuino Copertina Rigida in Pelle e Chiusura ad Elastico  Colore Avio  Dimensione Large 13 x 21 cm  176 Pagine'
+slug: 'B07BKWMRKX-it Moleskine Edizione Box in Pelle Notebook Classic Pagina a...'
+tags: 
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

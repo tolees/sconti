@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S6F1K2vNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHTT7MZ-it Desigual Vest Portland Vestito  Nero  Negro 2000   Large Donna'
+slug: 'B07VHTT7MZ-it Desigual Vest Portland Vestito Nero Negro 2000 Large Donna'
+tags: 
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

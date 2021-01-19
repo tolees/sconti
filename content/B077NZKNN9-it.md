@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p4KWufQZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NZKNN9-it Batman Begins  4K+Br '
+slug: 'B077NZKNN9-it Batman Begins 4K+Br'
+tags: 
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

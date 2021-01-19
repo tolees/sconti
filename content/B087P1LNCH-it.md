@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uMyneimyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087P1LNCH-it HOMEVER Specchio Trucco con 21 LEDs  Specchio di Vanity Trifold Ruota di 180° Ingrandimento 1x / 2X / 3X Specchio per Il con Touchscreen per Il Trucco e la Cura della Pelle  Bianca '
+slug: 'B087P1LNCH-it HOMEVER Specchio Trucco con 21 LEDs Specchio di Vanity...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

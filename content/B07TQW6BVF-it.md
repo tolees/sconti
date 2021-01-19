@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FTu+FDpYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQW6BVF-it Clarks Hero Limit  Scarpe Stringate Derby Uomo  Marrone  British Tan Lea British Tan Lea   42 EU'
+slug: 'B07TQW6BVF-it Clarks Hero Limit Scarpe Stringate Derby Uomo Marrone...'
+tags: 
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

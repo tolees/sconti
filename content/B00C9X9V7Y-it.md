@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Y3jBXbjmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C9X9V7Y-it Songmics LSF702 - Pouf Contenitore Ottomane e poggiapiedi  120 L  Bianco  110 x 38 x 38 cm'
+slug: 'B00C9X9V7Y-it Songmics LSF702 - Pouf Contenitore Ottomane e poggiapiedi...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

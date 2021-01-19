@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZmDcWogML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0028IXFCM-it GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema corpo'
+slug: 'B0028IXFCM-it GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema...'
+tags: 
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

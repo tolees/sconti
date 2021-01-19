@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rPrtM8okL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016APUM7O-it Funko- Disney Toy Story-Woody Figurina in Vinile  Multicolore  6877'
+slug: 'B016APUM7O-it Funko- Disney Toy Story-Woody Figurina in Vinile...'
+tags: 
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

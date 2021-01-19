@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ECABb6Z8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D6G6W8X-it Hunty Hard Disk 1 TB Esterno USB 3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook 1TB Nero '
+slug: 'B08D6G6W8X-it Hunty Hard Disk 1 TB Esterno USB 3.0 per PC Mac Xbox...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

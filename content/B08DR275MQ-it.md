@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q7OX04KyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DR275MQ-it Rybozen Audio Video Scheda di acquisizione HDMI con Loop Out  USB 2.0 4K HD 1080P 60FPS Scheda di acquisizione per videogiochi HDMI per streaming live per PS3 / PS4 / Xbox One / DSLR / Videocamere'
+slug: 'B08DR275MQ-it Rybozen Audio Video Scheda di acquisizione HDMI con Loop...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

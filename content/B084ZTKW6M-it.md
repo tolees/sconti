@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FyB7KO7FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084ZTKW6M-it Kit 3x Durex Pleasuremax Preservativi Stimolanti con Nervature  36 Profilattici'
+slug: 'B084ZTKW6M-it Kit 3x Durex Pleasuremax Preservativi Stimolanti con...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

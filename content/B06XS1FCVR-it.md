@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417v1zLtDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XS1FCVR-it Fairy Platinum Detersivo in Caps per Lavastoviglie  Maxi Formato da 160 Pastiglie  Regolare'
+slug: 'B06XS1FCVR-it Fairy Platinum Detersivo in Caps per Lavastoviglie Maxi...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

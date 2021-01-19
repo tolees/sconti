@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-cBHTeVEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T6BXX6-it Tommy Hilfiger Essential TH Beach Sandal  Infradito Uomo  Blu  Midnight 403   46 EU'
+slug: 'B078T6BXX6-it Tommy Hilfiger Essential TH Beach Sandal Infradito Uomo...'
+tags: 
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

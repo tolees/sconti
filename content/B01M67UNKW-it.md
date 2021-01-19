@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xiyJLecSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M67UNKW-it PURINA GOURMET DIAMANT Umido Gatto Squisite Falde di Polpa di Tonno in Salsa- 24 lattine da 85g ciascuna  confezione da 24x85g '
+slug: 'B01M67UNKW-it PURINA GOURMET DIAMANT Umido Gatto Squisite Falde di Polpa...'
+tags: 
 actualPrice: 16.56 EUR
 currency: EUR
 price: 16.56

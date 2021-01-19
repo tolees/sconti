@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sl4g43q7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HMRYMC-it adidas Core18 Giacca  Uomo  Blu Dk / Bianco  M'
+slug: 'B076HMRYMC-it adidas Core18 Giacca Uomo Blu Dk / Bianco M'
+tags: 
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

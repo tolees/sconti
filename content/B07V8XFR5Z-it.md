@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gXb2HJnAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8XFR5Z-it Calvin Klein Primary Washbag - Organizer borsa Donna  Nero  Black   1x1x1 cm  W x H L '
+slug: 'B07V8XFR5Z-it Calvin Klein Primary Washbag - Organizer borsa Donna Nero...'
+tags: 
 actualPrice: 11.46 EUR
 currency: EUR
 price: 11.46

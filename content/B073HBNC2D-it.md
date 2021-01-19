@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WUUoxcNKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073HBNC2D-it Maybelline New York Superstay Matte Ink Rossetto Matte Liquido Tinta Labbra a Lunga Tenuta  15 Lover'
+slug: 'B073HBNC2D-it Maybelline New York Superstay Matte Ink Rossetto Matte...'
+tags: 
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

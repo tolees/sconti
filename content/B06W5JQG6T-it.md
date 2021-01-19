@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Te7Sy5xgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W5JQG6T-it Philips HD9216/80 Airfryer Friggitrice Low-Oil e Multicooker con Tecnologia RapidAir  800 g  Bianco'
+slug: 'B06W5JQG6T-it Philips HD9216/80 Airfryer Friggitrice Low-Oil e...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

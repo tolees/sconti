@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bHixkka9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XEV4WYM-it Silent Mind ~ Campana Tibetana con Accessori ~ Modello Antico ~ Con Battente a Doppia Superficie e Cuscino di Seta ~ Favorisce la Serenità  la Guarigione dei Chakra e la Consapevolezza ~ Dono Squisito'
+slug: 'B00XEV4WYM-it Silent Mind ~ Campana Tibetana con Accessori ~ Modello...'
+tags: 
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

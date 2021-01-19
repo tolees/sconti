@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084PT7NM4-it Me Contro Te Il Film La Vendetta Del Signor S'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

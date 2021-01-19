@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41olZ4wFe4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KJH8POC-it Cif Crema Limone Detergente per Superfici Dure  500 ml'
+slug: 'B00KJH8POC-it Cif Crema Limone Detergente per Superfici Dure 500 ml'
+tags: 
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

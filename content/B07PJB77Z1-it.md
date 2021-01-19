@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Gf2YrulrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJB77Z1-it Lampada Libro Led Pieghevole in Legno con Telecomando 12 Colori e Timer – BONNYCO | Lampada Libro Decorazioni Casa  Camera e Ufficio | Idea Regalo Originale per Compleanno e Natale  Donna e Uomo'
+slug: 'B07PJB77Z1-it Lampada Libro Led Pieghevole in Legno con Telecomando 12...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

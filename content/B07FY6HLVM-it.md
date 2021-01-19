@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514Yt-ZH5kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY6HLVM-it Havaianas Slim 4000030 Infradito Donna  Arancione  Bronze Orange 7185   37/38 EU'
+slug: 'B07FY6HLVM-it Havaianas Slim 4000030 Infradito Donna Arancione Bronze...'
+tags: 
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

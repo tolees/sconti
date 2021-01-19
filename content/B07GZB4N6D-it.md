@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wV-f1aRuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZB4N6D-it Marchio Amazon - MERAKI Blazer Casual Uomo  Blu  Navy   50  Label: 40'
+slug: 'B07GZB4N6D-it Marchio Amazon - MERAKI Blazer Casual Uomo Blu Navy 50...'
+tags: 
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

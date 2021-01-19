@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zAWcJunNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086CHG93T-it Samsung Smartphone Galaxy A71 + Pellicola Protettiva  Display 6.7" Super AMOLED  4 Fotocamere  128 GB  RAM 6 GB  Batteria 4500 mAh  4G  Dual Sim  Android 10  Silver   2020  [Versione Italiana]'
+slug: 'B086CHG93T-it Samsung Smartphone Galaxy A71 + Pellicola Protettiva...'
+tags: 
 actualPrice: 312.0 EUR
 currency: EUR
 price: 312.0

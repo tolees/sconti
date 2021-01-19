@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BzCq1B4pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FDM6N6H-it OTHA Scheda di acquisizione Video  Dispositivo di acquisizione Audio HD 1080P 60fps per OBS Registrazione da HDMI a USB 2.0 Tramite videocamera DSLR  con Adattatore convertitore da USB a Tipo c'
+slug: 'B08FDM6N6H-it OTHA Scheda di acquisizione Video Dispositivo di...'
+tags: 
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

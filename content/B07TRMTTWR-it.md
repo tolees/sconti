@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eRUVxWqBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRMTTWR-it Levi s Lady Luck Felpa  Blu  Crew Feminine Logo Marina 0004   X-Small Donna'
+slug: 'B07TRMTTWR-it Levi s Lady Luck Felpa Blu Crew Feminine Logo Marina 0004...'
+tags: 
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

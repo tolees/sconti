@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ax-y6mJQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHYTXXF-it Lacoste Lerond 119  Scarpe da Ginnastica Basse Uomo  Bianco  White 737cma0045042   43 EU'
+slug: 'B07DHYTXXF-it Lacoste Lerond 119 Scarpe da Ginnastica Basse Uomo Bianco...'
+tags: 
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

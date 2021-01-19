@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k2ovKQrIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXWCTJ2-it DONPEREGRINO M2 - LED Luce Bici Fino a 90 Ore di Illuminazione  Fanale Posteriore Bicicletta Ricaricabile USB con 5 modalità Fisse Flash'
+slug: 'B07KXWCTJ2-it DONPEREGRINO M2 - LED Luce Bici Fino a 90 Ore di...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

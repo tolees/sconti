@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MlHkxoCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5RA2V0-it Tommy Hilfiger 3p Brief Boxer-pacco da 3  Bianco  White 100   Large Uomo'
+slug: 'B00K5RA2V0-it Tommy Hilfiger 3p Brief Boxer-pacco da 3 Bianco White 100...'
+tags: 
 actualPrice: 31.03 EUR
 currency: EUR
 price: 31.03

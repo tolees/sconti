@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+Z23rU6sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825PCMHG-it NWOUIIAY Kit Tosatrice Professionale per Cani Tagliacapelli Animali Gatto Ricaricabile Tosatore Elettrico per Impermeabile IPX7 Lavabile Ricaricabile'
+slug: 'B0825PCMHG-it NWOUIIAY Kit Tosatrice Professionale per Cani...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

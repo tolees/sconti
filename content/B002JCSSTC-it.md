@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bQk1C11xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002JCSSTC-it Crocs Crocband Clogs  Ciabatte Unisex  Gomma – Adulto  Nero  Black   43-44 EU'
+slug: 'B002JCSSTC-it Crocs Crocband Clogs Ciabatte Unisex Gomma – Adulto Nero...'
+tags: 
 actualPrice: 30.23 EUR
 currency: EUR
 price: 30.23

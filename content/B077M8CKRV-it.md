@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Mb0+WQ7DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077M8CKRV-it Pedigree Vital Protection cani Cibo di Alta Qualità con pollo  manzo  pollame e agnello  40 x 100 g '
+slug: 'B077M8CKRV-it Pedigree Vital Protection cani Cibo di Alta Qualità con...'
+tags: 
 actualPrice: 12.62 EUR
 currency: EUR
 price: 12.62

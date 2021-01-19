@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jyKDVphWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPN563F-it Soundcore Strike 1 Cuffie per videogiochi Anker  cuffie per PS4  Xbox  PC  suono stereo  miglioramento del suono per giochi FPS  microfono con isolamento del rumore e cuscinetti in gel refrigerante'
+slug: 'B07ZPN563F-it Soundcore Strike 1 Cuffie per videogiochi Anker cuffie per...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

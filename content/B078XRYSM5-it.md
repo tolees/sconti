@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mk0oIOcRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XRYSM5-it TACKLIFE Telemetro Laser da Golf  Telescopio Monoculare Ingrandimento 7x24mm  Misura la Distanza Fino a 875yd / 800m  Misura la velocità  Misura l’Angolo di Inclinazione  MLR01'
+slug: 'B078XRYSM5-it TACKLIFE Telemetro Laser da Golf Telescopio Monoculare...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

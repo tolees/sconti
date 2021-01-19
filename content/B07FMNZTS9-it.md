@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wpm5TQYwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMNZTS9-it Calvin Klein 3p Low Rise Trunk Boxer  Blu  Black/Blue Shadow/Cobalt Water DTM WB   Small  Pacco da 3  Uomo'
+slug: 'B07FMNZTS9-it Calvin Klein 3p Low Rise Trunk Boxer Blu Black/Blue...'
+tags: 
 actualPrice: 31.64 EUR
 currency: EUR
 price: 31.64

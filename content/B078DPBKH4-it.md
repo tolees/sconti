@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518YMWOaxFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078DPBKH4-it Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato - 1 confezione da 6 Pezzi'
+slug: 'B078DPBKH4-it Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato -...'
+tags: 
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

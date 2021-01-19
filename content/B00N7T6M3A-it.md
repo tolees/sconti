@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41avtRwhv4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N7T6M3A-it TESMED TE780 PLUS elettrostimolatore muscolare: sport estetica  TENS -2 canali - Utilizzo di 8 elettrodi contemporaneamente'
+slug: 'B00N7T6M3A-it TESMED TE780 PLUS elettrostimolatore muscolare: sport...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

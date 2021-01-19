@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SqTjVwnyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0866FJL2M-it Olaz Total Effects Whip Crema Viso Idratante Attiva  con Texture Leggera come l Aria  50 ml'
+slug: 'B0866FJL2M-it Olaz Total Effects Whip Crema Viso Idratante Attiva con...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

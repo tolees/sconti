@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pg4vWwWTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFNN2GY-it Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in Silicone 1513718'
+slug: 'B07VFNN2GY-it Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 216.95 EUR
 currency: EUR
 price: 216.95

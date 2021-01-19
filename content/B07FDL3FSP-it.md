@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vb9FhFoaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDL3FSP-it Polaroid POP 2.0 – Fotocamera digitale a stampa istantanea  con display touchscreen da 3 97"  Wi-Fi integrato  video HD da 1080p  tecnologia zero inchiostro Zink e nuova app  blu'
+slug: 'B07FDL3FSP-it Polaroid POP 2.0 – Fotocamera digitale a stampa istantanea...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

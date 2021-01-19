@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PTBAffmwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HH4Y9QL-it YUES Controller per PS4  DUALSHOCK 4 Wireless Controller per Playstation 4/Pro/Slim/3/PC e Laptop. Gamepad con Pannello Tattile a Doppia Vibrazione e Funzione Audio e Barra Luminosa  Rosso'
+slug: 'B08HH4Y9QL-it YUES Controller per PS4 DUALSHOCK 4 Wireless Controller...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

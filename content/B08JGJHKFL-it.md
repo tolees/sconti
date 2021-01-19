@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E3iGbPVSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JGJHKFL-it Android TV Box  Android 10.0 TV BOX H616 Quad core 1 GB RAM 8 GB ROM Support 3D 6K Ultra HD H.265 WiFi 2.4 GHz 10/100 Ethernet HDMI Smart TV BOX'
+slug: 'B08JGJHKFL-it Android TV Box Android 10.0 TV BOX H616 Quad core 1 GB RAM...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

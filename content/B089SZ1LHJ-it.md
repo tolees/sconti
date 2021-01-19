@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eybdXmXbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SZ1LHJ-it Melchioni Family Melchioni Baretto Plus  Mini frigo Bar Silenzioso  50L  Frigorifero Piccolo  Frighetto Portatile da Camera  Elettrico  Ufficio  B&B  Hotel e Campeggio  Bianco  unica'
+slug: 'B089SZ1LHJ-it Melchioni Family Melchioni Baretto Plus Mini frigo Bar...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

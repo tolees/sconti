@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VUaO-q1hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKVJ2MH-it adidas Sonnenbrille AOK003 Occhiali da Sole  Grigio  Grau   51.0 Unisex-Adulto'
+slug: 'B07XKVJ2MH-it adidas Sonnenbrille AOK003 Occhiali da Sole Grigio Grau...'
+tags: 
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

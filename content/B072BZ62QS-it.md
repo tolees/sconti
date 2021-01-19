@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WTAe-TdYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BZ62QS-it TP-Link Deco M5 Wifi Mesh - Pacchetto da 3 Unità Fino a 400 ㎡  AC1300  per Case su 2 o 3 Piani  Velocità Dual-Band 1267Mbps  Sostituisci Router Tradizionali e Wifi Extender  Compatibile Alexa'
+slug: 'B072BZ62QS-it TP-Link Deco M5 Wifi Mesh - Pacchetto da 3 Unità Fino a...'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

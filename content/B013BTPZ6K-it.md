@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4189++zenKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013BTPZ6K-it Hauck Duett 2 Passeggino Doppio - Fratelli Età Diversa  Navicella Convertibile in Seduta Reversibile  Maniglione Regolabile in Altezza  Seconda Seduta Rimovibile  Parapioggia  max 36 kg  Black Forest'
+slug: 'B013BTPZ6K-it Hauck Duett 2 Passeggino Doppio - Fratelli Età Diversa...'
+tags: 
 actualPrice: 299.74 EUR
 currency: EUR
 price: 299.74

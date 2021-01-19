@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4119VOhGquL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00INX005Q-it Kärcher K 4 - Idropulitrice a Freddo  130 Bar  420 L/H  30 M²/H di Pulizia  Pistola Alta Pressione  2 Lance  Tubo da 6 m'
+slug: 'B00INX005Q-it Kärcher K 4 - Idropulitrice a Freddo 130 Bar 420 L/H 30...'
+tags: 
 actualPrice: 142.95 EUR
 currency: EUR
 price: 142.95

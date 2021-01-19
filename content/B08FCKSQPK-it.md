@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s+XbQBhtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FCKSQPK-it Tapis Roulant Elettrico Pieghevole da 2200W con inclinazione automatica  sospensioni ammortizzate e sistema di autolubrificazione. Display LCD  supporto ipad bevande  bluetooth  attacco MP3  speakers inclusi  app system.'
+slug: 'B08FCKSQPK-it Tapis Roulant Elettrico Pieghevole da 2200W con...'
+tags: 
 actualPrice: 719.99 EUR
 currency: EUR
 price: 719.99

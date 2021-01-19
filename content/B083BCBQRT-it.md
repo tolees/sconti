@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xdUZInUTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BCBQRT-it Grsta Bottiglia per Acqua in Acciaio Inox  Borraccia Termica 350ml/Cielo Blu  Borracce Isolante Sottovuoto per 24 Ore Freddo e 12 Ore Caldo  Portatile per Bambini  Scuola  Palestra  Sport e Lavoro'
+slug: 'B083BCBQRT-it Grsta Bottiglia per Acqua in Acciaio Inox Borraccia...'
+tags: 
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

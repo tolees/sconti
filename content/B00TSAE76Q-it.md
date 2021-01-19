@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cP4Lp6lLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TSAE76Q-it Scholl Gel Activ Sport Solette Sportive per Donna  35-40.5 EU  1 Paio  35-40 Donna'
+slug: 'B00TSAE76Q-it Scholl Gel Activ Sport Solette Sportive per Donna 35-40.5...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

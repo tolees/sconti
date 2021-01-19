@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PIVGdk7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GLNL6J8-it UniqueMe [3 Pezzi] Pellicola Fotocamera per Xiaomi Mi Note 10 e [2 Pezzi] Flessibile TPU Pellicola Protettiva per Xiaomi Mi Note 10 [Bubble-Free]'
+slug: 'B08GLNL6J8-it UniqueMe [3 Pezzi] Pellicola Fotocamera per Xiaomi Mi Note...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

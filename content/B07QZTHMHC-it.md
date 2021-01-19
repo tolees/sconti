@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DrKnqgE3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZTHMHC-it Under Armour Challenger III Midlayer  Maglia a Maniche Lunghe Uomo  Nero  Black - 001   SM'
+slug: 'B07QZTHMHC-it Under Armour Challenger III Midlayer Maglia a Maniche...'
+tags: 
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

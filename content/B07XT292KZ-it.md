@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qGKzLTcXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XT292KZ-it BelleStyle Giocattoli Montessori  Ananas Infilare di Legno Giocattolo di attività Montessori  Allacciatura Giocattolo per Bambini - Presto Apprendimento Gioco Educativo per Casa e Viaggi  Giallo '
+slug: 'B07XT292KZ-it BelleStyle Giocattoli Montessori Ananas Infilare di Legno...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

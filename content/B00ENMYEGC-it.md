@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XoGjraDAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ENMYEGC-it SOI. SOI01 Accessori da Viaggio-Organizer per Valigia  Multiply  Bianco  20.1x15.1x10.1 cm'
+slug: 'B00ENMYEGC-it SOI. SOI01 Accessori da Viaggio-Organizer per Valigia...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

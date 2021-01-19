@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FzEyseF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797TLSGC-it Dardaruga VENTILATORE DIGITALE WFD a Piantana con NEBULIZZATORE ad Acqua  Serbatoio XXL 3 10 Litri  IONIZZATORE ION  ANTIZANZARE Repellente Insetti Vano AROMA Timer Telecomando Oscillazione  ARGENTO '
+slug: 'B0797TLSGC-it Dardaruga VENTILATORE DIGITALE WFD a Piantana con...'
+tags: 
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

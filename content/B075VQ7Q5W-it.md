@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nTPpREi9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075VQ7Q5W-it 3 in 1 Anticalcare - Sgrassante - Igienizzante  12 bustine - Care + Protect'
+slug: 'B075VQ7Q5W-it 3 in 1 Anticalcare - Sgrassante - Igienizzante 12 bustine...'
+tags: 
 actualPrice: 14.21 EUR
 currency: EUR
 price: 14.21

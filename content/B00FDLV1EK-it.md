@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mMbPpxU4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FDLV1EK-it SONGMICS LLR01L Appendiabiti Estensibile con rotelle  in Metallo  150 x 44 x 165 cm Blu'
+slug: 'B00FDLV1EK-it SONGMICS LLR01L Appendiabiti Estensibile con rotelle in...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

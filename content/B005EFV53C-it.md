@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m82bU902L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005EFV53C-it Havaianas Brasil Logo  Infradito Unisex-Bambini  Giallo  Citrus Yellow 2197   23/24 EU'
+slug: 'B005EFV53C-it Havaianas Brasil Logo Infradito Unisex-Bambini Giallo...'
+tags: 
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

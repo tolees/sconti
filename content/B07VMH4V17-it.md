@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nYJC6HoQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMH4V17-it Fossil Collana con ciondolo da Donna  Oro'
+slug: 'B07VMH4V17-it Fossil Collana con ciondolo da Donna Oro'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

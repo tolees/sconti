@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41peLU0f1zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PH28CRB-it BLACK+DECKER BHHV315J-QW  Aspiratore Ricaricabile Aspirabriciole Litio  18Wh  capacità Contenitore 700ml  Azione Ciclonica  con Accessori e Jack di Ricarica  12V'
+slug: 'B07PH28CRB-it BLACK+DECKER BHHV315J-QW Aspiratore Ricaricabile...'
+tags: 
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

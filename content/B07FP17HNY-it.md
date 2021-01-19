@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GrtVqpcGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP17HNY-it Sega Universale  TECCPO 1050W Seghe a Gattuccio Professionale  Velocità 0-2500SPM  3 Lame  Profondità di Taglio: 150mm  Legno   5mm  Metallo   Corsa di Taglio 28 mm -TARS24P'
+slug: 'B07FP17HNY-it Sega Universale TECCPO 1050W Seghe a Gattuccio...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

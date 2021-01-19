@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HdGhS3FwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007VDIZTW-it Claber 87321 Inter. IRR. TURBINA 670 mq 90478  Nero/Arancione/Grigio  90x70x190 cm'
+slug: 'B007VDIZTW-it Claber 87321 Inter. IRR. TURBINA 670 mq 90478...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

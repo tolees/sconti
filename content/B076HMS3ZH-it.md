@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m2Vp5rv9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HMS3ZH-it adidas Core18 Rain Jacket  Uomo  Dark Blue/White  L'
+slug: 'B076HMS3ZH-it adidas Core18 Rain Jacket Uomo Dark Blue/White L'
+tags: 
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

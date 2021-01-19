@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vRb0pyPIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZWXDYQ-it Purificatore d Aria Portatile con Filtro HEPA  USB Desktop Filtro dell Aria con Luce Notturna e Funzione di Aromaterapia  Rimuovere Polvere  Fumo  Odore  Peli di Animali Domestici  per Casa  Ufficio'
+slug: 'B07WZWXDYQ-it Purificatore d Aria Portatile con Filtro HEPA USB Desktop...'
+tags: 
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vz7p5KqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HXCMGRQ-it Akai AKTV410TS Televisore Led Full HD  HDMI  1080p  DVB-T2  Nero  40 Pollici'
+slug: 'B07HXCMGRQ-it Akai AKTV410TS Televisore Led Full HD HDMI 1080p DVB-T2...'
+tags: 
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

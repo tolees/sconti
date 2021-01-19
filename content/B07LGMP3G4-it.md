@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hd3dOXZdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGMP3G4-it viakal Profumo Fresco anticalcare Spray – 700 ML'
+slug: 'B07LGMP3G4-it viakal Profumo Fresco anticalcare Spray – 700 ML'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

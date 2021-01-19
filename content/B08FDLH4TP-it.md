@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418g6Kj-VmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FDLH4TP-it Cuffie Bluetooth Sport  Auricolari Bluetooth 5.0  Auricolari senza fili di qualità audio stereo HiFi 200 ore di riproduzione con custodia di Ricarica Portatile  Adatto per Android e iPhone'
+slug: 'B08FDLH4TP-it Cuffie Bluetooth Sport Auricolari Bluetooth 5.0 Auricolari...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

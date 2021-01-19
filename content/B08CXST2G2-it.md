@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ap0CQTfKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXST2G2-it Motast Cuffie Bluetooth  Auricolari Bluetooth 5.0 Noise Cancelling  Auricolari Wireless Stereo Bassi Profondi HIFI  Ricarica Rapida USB-C  Cuffie con Microfono Impermeabile IP7 Tocca Controllo'
+slug: 'B08CXST2G2-it Motast Cuffie Bluetooth Auricolari Bluetooth 5.0 Noise...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

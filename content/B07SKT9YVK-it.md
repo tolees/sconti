@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fo+6XM2bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKT9YVK-it YAMAY Smartwatch Orologio Fitness Uomo Donna Impermeabile IP68 Smart Watch Cardiofrequenzimetro da Polso Contapassi Smartband Activity Tracker Bambini Cronometro per Android Ios'
+slug: 'B07SKT9YVK-it YAMAY Smartwatch Orologio Fitness Uomo Donna Impermeabile...'
+tags: 
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

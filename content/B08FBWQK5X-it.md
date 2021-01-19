@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cwwuDyJRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FBWQK5X-it Auricolare Bluetooth Touch  Cuffie Bluetooth 5.0  24h Playtime 3D stereo HD Cuffie Wireless  Binaurale Call auto Pairing  Con Scatola di Ricarica'
+slug: 'B08FBWQK5X-it Auricolare Bluetooth Touch Cuffie Bluetooth 5.0 24h...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

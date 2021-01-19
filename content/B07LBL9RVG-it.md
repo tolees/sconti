@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dIhPZ8zIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBL9RVG-it Samsung WW10N64MRQW Lavatrice 10 kg AddWash  1400 rpm  Bianco'
+slug: 'B07LBL9RVG-it Samsung WW10N64MRQW Lavatrice 10 kg AddWash 1400 rpm Bianco'
+tags: 
 actualPrice: 528.99 EUR
 currency: EUR
 price: 528.99

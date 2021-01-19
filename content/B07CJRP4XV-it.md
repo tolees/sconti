@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h+pqBYAxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJRP4XV-it Only Onlroyal Reg SK DNM Jeans Bj312 Noos Skinny  Grigio  Dark Grey Denim   W29/L30  Taglia Produttore: Medium  Donna'
+slug: 'B07CJRP4XV-it Only Onlroyal Reg SK DNM Jeans Bj312 Noos Skinny Grigio...'
+tags: 
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

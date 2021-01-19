@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518PghpMywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPGHW3V-it Kong: Skull Island  4K Ultra HD + Blu-Ray Disc + Copia Digitale   2 Blu-Ray '
+slug: 'B06XPGHW3V-it Kong: Skull Island 4K Ultra HD + Blu-Ray Disc + Copia...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

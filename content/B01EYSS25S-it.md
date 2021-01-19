@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518UTC22GjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYSS25S-it Batman V Superman: Dawn of Justice  Blu-Ray 4K UltraHD + Blu-Ray + Copia digitale '
+slug: 'B01EYSS25S-it Batman V Superman: Dawn of Justice Blu-Ray 4K UltraHD +...'
+tags: 
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

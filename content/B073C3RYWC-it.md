@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w-ScZUJ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073C3RYWC-it Converse Chuck Taylor Ctas Lift Ox Canvas  Scarpe da Fitness Donna  Nero  Black/Garnet/White 001   38 EU'
+slug: 'B073C3RYWC-it Converse Chuck Taylor Ctas Lift Ox Canvas Scarpe da...'
+tags: 
 actualPrice: 67.8 EUR
 currency: EUR
 price: 67.8

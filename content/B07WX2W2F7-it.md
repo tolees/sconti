@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V-cV5dVUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WX2W2F7-it Niré Beauty Essential Glow Set Pennelli Make up Professionali con Porta Pennelli Trucco e Spazzola Detergente Viso'
+slug: 'B07WX2W2F7-it Niré Beauty Essential Glow Set Pennelli Make up...'
+tags: 
 actualPrice: 24.75 EUR
 currency: EUR
 price: 24.75

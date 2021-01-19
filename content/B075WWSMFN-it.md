@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rLOOfbldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WWSMFN-it Kodak PRINTOMATIC Fotocamera istantanea  Grigio  Foto a colori su carta fotografica Zink Zero Ink 2x3 con retro autoadesivo.'
+slug: 'B075WWSMFN-it Kodak PRINTOMATIC Fotocamera istantanea Grigio Foto a...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

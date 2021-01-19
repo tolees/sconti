@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c7TnhkgkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7WS2WK-it Love Moschino Jc4252pp0a  Pochette da Giorno Donna  Nero  Black Metal   3x13x27 cm  W x H x L '
+slug: 'B07V7WS2WK-it Love Moschino Jc4252pp0a Pochette da Giorno Donna Nero...'
+tags: 
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

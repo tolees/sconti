@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o42li2HoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CR3YKWD-it UniqueMe [3 Pezzi Pellicola Protettiva per Xiaomi Mi Note 10 / Mi Note 10 PRO/Mi Note 10 Lite  [Easy to Install] Soft HD Clear TPU Film con Un Perfetto Servizio Post-Vendita.'
+slug: 'B08CR3YKWD-it UniqueMe [3 Pezzi Pellicola Protettiva per Xiaomi Mi Note...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

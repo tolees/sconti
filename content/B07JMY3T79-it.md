@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WTF+eisiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMY3T79-it Timberland Adventure 2.0 Cupsole Alpine Oxford  Sneakers Basse Uomo  Verde Dark Green TecTuff  47.5 EU'
+slug: 'B07JMY3T79-it Timberland Adventure 2.0 Cupsole Alpine Oxford Sneakers...'
+tags: 
 actualPrice: 48.66 EUR
 currency: EUR
 price: 48.66

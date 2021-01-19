@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411lJMLLVpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5I46XF-it Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control Plus Home  145 Bar  500 L/H  Resa 40 M²/H  Pistola Alta Pressione  Lancia 3-in-1  Lavasuperfici  Tubo 8m  220 V  Giallo'
+slug: 'B01N5I46XF-it Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control...'
+tags: 
 actualPrice: 335.36 EUR
 currency: EUR
 price: 335.36

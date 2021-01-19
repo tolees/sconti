@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cAyKIWvCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHF66L7-it Gillette Fusion ProGlide Styler Rasoio Regolabarba 3 in 1  Regola  Rade e Rifinisce  Resistente All’Acqua  3 Lamette + 3 Regolatori di Lunghezza Intercambiabili  2 mm  4 mm  6 mm'
+slug: 'B07WHF66L7-it Gillette Fusion ProGlide Styler Rasoio Regolabarba 3 in 1...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

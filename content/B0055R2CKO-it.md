@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BWAAQt+bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055R2CKO-it Sodastream 1047200490  Caraffe in vetro per gasatore d acqua  compatibile con Crystal & Penguin  0.615 L x 2 pezzi'
+slug: 'B0055R2CKO-it Sodastream 1047200490 Caraffe in vetro per gasatore d...'
+tags: 
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

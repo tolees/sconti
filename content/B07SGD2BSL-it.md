@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gJhnbSfAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGD2BSL-it Compressore Portatile per Auto Aria Compressa Pompa Elettrica 150PSI Pressione Gonfiatore Digitale con Luce LED per Gonfiare Le Gomme delle Moto e delle Auto  Palloni  Canotti ECC  Style 1 '
+slug: 'B07SGD2BSL-it Compressore Portatile per Auto Aria Compressa Pompa...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

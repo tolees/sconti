@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YP2zA-NyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089M5BFNV-it Campanello Senza Fili da Esterno Impermeabile IP55  Wireless Doorbell con Raggio d’Azione 300M  Indicatore LED  1 Trasmettitore Pulsante e 2 Ricevitore  5 Volume Regolabile  38 Suonerie'
+slug: 'B089M5BFNV-it Campanello Senza Fili da Esterno Impermeabile IP55...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

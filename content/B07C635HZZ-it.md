@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316upk7s1nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C635HZZ-it JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Blu  Navy Blazer   Large Uomo'
+slug: 'B07C635HZZ-it JACK & JONES Jjebasic Knit Crew Neck Noos Felpa Blu Navy...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

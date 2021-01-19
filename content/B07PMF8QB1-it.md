@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lPKPasa9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMF8QB1-it Optimum Nutrition Protein Bar 10 Barrette Proteiche con Proteine Whey Isolate in Polvere  Cioccolato Caramello  Scatola di 10 x 60 g'
+slug: 'B07PMF8QB1-it Optimum Nutrition Protein Bar 10 Barrette Proteiche con...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

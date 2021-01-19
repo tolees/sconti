@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310g8JjyhXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SNA7XC-it Crocs Crocband Flip 11033  Infradito Unisex – Adulto  Nero  Black 001   42-43  Talla produttore: M9/W11 '
+slug: 'B002SNA7XC-it Crocs Crocband Flip 11033 Infradito Unisex – Adulto Nero...'
+tags: 
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

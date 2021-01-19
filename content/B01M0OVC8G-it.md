@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mU1IBchvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0OVC8G-it Kenwood KVC7300S Impastatrice Planetaria Chef Titanium SYSTEM PRO  Robot da Cucina Mixer  1500 W  4.6 Litri  Acciaio  Argento'
+slug: 'B01M0OVC8G-it Kenwood KVC7300S Impastatrice Planetaria Chef Titanium...'
+tags: 
 actualPrice: 591.5 EUR
 currency: EUR
 price: 591.5

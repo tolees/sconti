@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC9JB21-it One Piece: Pirate Warriors 4 - PlayStation 4'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

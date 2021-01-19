@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TyZLapp7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XKLHVVK-it ORICO Stazione di Ricarica Mobile USB  Dock di Ricarica USB a 7 Porte  70 W  per Smartphone e Tablet  con Interruttore ON/off per Uso Domestico e Commerciale'
+slug: 'B06XKLHVVK-it ORICO Stazione di Ricarica Mobile USB Dock di Ricarica USB...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312fuVHp3QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFVMLWW-it Calvin Klein Embroidery Regular Short Shorts  Nero  CK Black Bae   42  Taglia Produttore: Medium  Donna'
+slug: 'B07VFVMLWW-it Calvin Klein Embroidery Regular Short Shorts Nero CK Black...'
+tags: 
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

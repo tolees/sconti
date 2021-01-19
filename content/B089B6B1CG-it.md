@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089B6B1CG-it CARPISA® Borsa a sacca con manici e tracolla - Nantes'
+tags: 
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

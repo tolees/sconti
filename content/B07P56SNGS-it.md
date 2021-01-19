@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TD2qNMFUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P56SNGS-it Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  all Hours  Button-Down-Shirts  Olive Bengal Stripe  US  EU XL-XXL '
+slug: 'B07P56SNGS-it Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt...'
+tags: 
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

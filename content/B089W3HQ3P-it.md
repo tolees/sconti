@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uym8K+29L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089W3HQ3P-it ELUTENG Ventole 120mm Silenziose 3 Velocità Regolabili con Controller Ventilatore DC 12V 1A Alimentatore 12cm Fan Raffreddamento Ventola 120 mm Doppio per PC  Playstation PS4 PS3  Xbox  TV Box  Nero'
+slug: 'B089W3HQ3P-it ELUTENG Ventole 120mm Silenziose 3 Velocità Regolabili con...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

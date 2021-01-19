@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mElUVVsPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0856TLMTD-it [2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5 pollici Staffa di montaggio in metallo  2x25Rack '
+slug: 'B0856TLMTD-it [2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x5DCdd94L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WGIY2G-it Superga 2750-cotu Classic Sneaker  Uomo  Grigio  Full Grey Sage M38   44EU'
+slug: 'B002WGIY2G-it Superga 2750-cotu Classic Sneaker Uomo Grigio Full Grey...'
+tags: 
 actualPrice: 40.92 EUR
 currency: EUR
 price: 40.92

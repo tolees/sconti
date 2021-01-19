@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gqkF09qgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPK4GDY-it La Crema del Caffè - Aroma e Gusto  12 Astucci da 10 Capsule  Totale 120 Capsule   Compatibili Nespresso'
+slug: 'B06XPK4GDY-it La Crema del Caffè - Aroma e Gusto 12 Astucci da 10...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

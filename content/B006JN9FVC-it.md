@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TPOL7kjEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006JN9FVC-it Ardes AR2480 Paiolo In Rame Per Polenta e Marmellata Porzioni Per 8/12 Persone Diametro 28 cm'
+slug: 'B006JN9FVC-it Ardes AR2480 Paiolo In Rame Per Polenta e Marmellata...'
+tags: 
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

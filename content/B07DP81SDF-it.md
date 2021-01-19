@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hmFBZXKmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP81SDF-it adidas Falcon W  Sneaker Donna  Multicolore  Black Cblack/Cblack/Ftwwht   40 EU'
+slug: 'B07DP81SDF-it adidas Falcon W Sneaker Donna Multicolore Black...'
+tags: 
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

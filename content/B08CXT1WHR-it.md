@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515TszzLZVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXT1WHR-it LK Custodia per Xiaomi Redmi 9 Morbida Silicone TPU Protettiva in Gomma Flessibile Case Cover con Vetro Temperato Screen Protector[2 Pack] per Xiaomi Redmi 9 - Trasparente'
+slug: 'B08CXT1WHR-it LK Custodia per Xiaomi Redmi 9 Morbida Silicone TPU...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

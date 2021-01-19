@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4114jdwCo7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HYSVDZR-it Entweg Termometro  Termometro Frontale Senza Contatto Termometro Digitale Portatile a infrarossi Oggetto Indicatore di Temperatura Alta precisione ℃ e ℉ Commutabile 3 Colori retroilluminato'
+slug: 'B08HYSVDZR-it Entweg Termometro Termometro Frontale Senza Contatto...'
+tags: 
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

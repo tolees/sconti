@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419mBbidUhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSK31DX-it Geox D Ophira C  Scarpe da Ginnastica Basse Donna  Argento  Lt Grey/Silver C1355   40 EU'
+slug: 'B07SSK31DX-it Geox D Ophira C Scarpe da Ginnastica Basse Donna Argento...'
+tags: 
 actualPrice: 26.56 EUR
 currency: EUR
 price: 26.56

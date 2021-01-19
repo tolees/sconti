@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NFhETEqYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3GZZF9-it Timberland Classic Boat 2 Eye Scarpe da Barca  Uomo  Beige  Pure Cashmere  Tb0a2c9hk511   45 EU  10.5 UK '
+slug: 'B07T3GZZF9-it Timberland Classic Boat 2 Eye Scarpe da Barca Uomo Beige...'
+tags: 
 actualPrice: 68.95 EUR
 currency: EUR
 price: 68.95

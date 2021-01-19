@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTK94T6-it LEGO La Festa In Piscina Di Andrea Costruzioni Piccole'
+tags: 
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

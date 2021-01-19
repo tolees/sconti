@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WUyQ9DkFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EI9HCGS-it adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Blu  Collegiate Navy/White/Gold Met   42 EU'
+slug: 'B01EI9HCGS-it adidas Gazelle Scarpe da Ginnastica Basse Uomo Blu...'
+tags: 
 actualPrice: 61.7 EUR
 currency: EUR
 price: 61.7

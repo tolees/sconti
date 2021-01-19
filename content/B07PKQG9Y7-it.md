@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GhHkBNZWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKQG9Y7-it Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Red Yellow 56  45 EU'
+slug: 'B07PKQG9Y7-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Red...'
+tags: 
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

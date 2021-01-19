@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41niappdmmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MB8MHLO-it Kenwood FDM780BA MultiPro Classic Food Processor  Robot da Cucina con Frullatore  1000 W  3 Litri  Metallo Pressofuso  Argento'
+slug: 'B00MB8MHLO-it Kenwood FDM780BA MultiPro Classic Food Processor Robot da...'
+tags: 
 actualPrice: 137.0 EUR
 currency: EUR
 price: 137.0

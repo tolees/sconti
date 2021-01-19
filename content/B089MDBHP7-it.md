@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KJf-zlauL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089MDBHP7-it Motorola Moto E6S  Display MaxVision 6 1"  Processore Octa-Core  Doppia Fotocamera 13 MP  Batteria 3000 mAH  Dual SIM  2/32GB  Android 9  Cover Inclusa  Meteor Grey'
+slug: 'B089MDBHP7-it Motorola Moto E6S Display MaxVision 6 1" Processore Octa-...'
+tags: 
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

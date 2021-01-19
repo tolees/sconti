@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r91w0nU3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RPPW6Z-it Condizionatore Portatile  Raffreddatore d Aria Silenzioso Mobile con Vaschetta del Ghiaccio e Telecomando a Bassa Energia con Ventilatore e Umidificatore Funzione Timer 7 5 ore per Casa e Ufficio'
+slug: 'B085RPPW6Z-it Condizionatore Portatile Raffreddatore d Aria Silenzioso...'
+tags: 
 actualPrice: 149.4 EUR
 currency: EUR
 price: 149.4

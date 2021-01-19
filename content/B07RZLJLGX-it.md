@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cP-hzrbLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLJLGX-it Levi s Down Dehon Pkbl Puffer Giacca  Nero  Mineral Black 0000   Medium Uomo'
+slug: 'B07RZLJLGX-it Levi s Down Dehon Pkbl Puffer Giacca Nero Mineral Black...'
+tags: 
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

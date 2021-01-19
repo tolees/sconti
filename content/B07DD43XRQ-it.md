@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bZCjV11kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD43XRQ-it Marchio Amazon - find. - Parka  Giacca Uomo  Blu  Navy   XS  Label: XS'
+slug: 'B07DD43XRQ-it Marchio Amazon - find. - Parka Giacca Uomo Blu Navy XS...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

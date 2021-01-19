@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dgpWYEQcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y6CQD2N-it Piegaciglia Riscaldato  Piegaciglia Elettrico  Piegaciglia Professionale  Piegaciglia con Display Temperature Digitale LCD per Effetto Ciglia Ricurve Strumento'
+slug: 'B07Y6CQD2N-it Piegaciglia Riscaldato Piegaciglia Elettrico Piegaciglia...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

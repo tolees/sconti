@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XwKEc6+6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075L7KZXQ-it Cuffie Wireless Sport IPX7  Yuanguo Auricolari Bluetooth 4.2 Stereo sostegno HSP  HFP  A2DP  AVRCP  Qualità CD Qudio Impermeabile Headset Sportive con Microfono per iPhone  Android  iPod&iPad - Nero'
+slug: 'B075L7KZXQ-it Cuffie Wireless Sport IPX7 Yuanguo Auricolari Bluetooth...'
+tags: 
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

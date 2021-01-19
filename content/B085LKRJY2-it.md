@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21fKer8IZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LKRJY2-it MKTOSASA - Supporto di Stampa con Batteria di ricarica-10.000 mAh. con Display Rinforzato di Dimensioni 15x21.5cm  Finitura in Acrilico Trasparente per l inserimento di Poster - 16x27.5x7.8'
+slug: 'B085LKRJY2-it MKTOSASA - Supporto di Stampa con Batteria di...'
+tags: 
 actualPrice: 31.1 EUR
 currency: EUR
 price: 31.1

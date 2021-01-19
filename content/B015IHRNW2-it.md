@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JFHmxD5pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015IHRNW2-it homcom Tapis Roulant Elettrico con Schermo LED Pieghevole per Allenamento a Casa 500 W'
+slug: 'B015IHRNW2-it homcom Tapis Roulant Elettrico con Schermo LED Pieghevole...'
+tags: 
 actualPrice: 215.96 EUR
 currency: EUR
 price: 215.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lqCnmXj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N1UCVIA-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4931'
+slug: 'B00N1UCVIA-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

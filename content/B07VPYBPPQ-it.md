@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qNvnt2RWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPYBPPQ-it Calvin Klein 3p Trunk Boxer  Blu  Lost Blue/Wild Fern/Raisin Torte WFL   X-Large  Pacco da 3  Uomo'
+slug: 'B07VPYBPPQ-it Calvin Klein 3p Trunk Boxer Blu Lost Blue/Wild Fern/Raisin...'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

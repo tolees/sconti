@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-ZO1dkfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813SHLHH-it adidas Falcon W  Scarpe da Ginnastica Donna  off White/Raw White/Active Purple  38 EU'
+slug: 'B0813SHLHH-it adidas Falcon W Scarpe da Ginnastica Donna off White/Raw...'
+tags: 
 actualPrice: 36.12 EUR
 currency: EUR
 price: 36.12

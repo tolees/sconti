@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Jjy5XAtqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WV9KJ96-it Tablet 10 Pollici YESTEL 4GB RAM+64GB ROM +Espanso 128GB con Schermo IPS HD Quad Core Tablets Dual LTE SIM con WIFI | 8000mAh | Bluetooth | GPS | con Tastiera e Mouse – Nero'
+slug: 'B07WV9KJ96-it Tablet 10 Pollici YESTEL 4GB RAM+64GB ROM +Espanso 128GB...'
+tags: 
 actualPrice: 108.98 EUR
 currency: EUR
 price: 108.98

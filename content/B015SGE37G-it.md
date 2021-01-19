@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ncLhveXoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SGE37G-it Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Verde  Amazonia   39/40 EU'
+slug: 'B015SGE37G-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto...'
+tags: 
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

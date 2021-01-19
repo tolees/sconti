@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oxEs5vKnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ24YHJ-it Petfu Zaino per Computer Portatile 15.6 Pollici Zaino Uomo Antifurto Impermeabile Zainetto Laptop Universitaria Backpack per Scuola Borse Business Viaggio attività All aperto  Nero'
+slug: 'B07MZ24YHJ-it Petfu Zaino per Computer Portatile 15.6 Pollici Zaino Uomo...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

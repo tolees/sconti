@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mXRB0GZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGCBG2Y-it Calvin Klein 3p Trunk Boxer  Nero  B-Blue Whale/Wildflower/Bubblegum Whb   Small  Pacco da 3  Uomo'
+slug: 'B07VGCBG2Y-it Calvin Klein 3p Trunk Boxer Nero B-Blue...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

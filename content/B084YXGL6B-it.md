@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x-zU3CJZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YXGL6B-it WeciBor Calzini Vestito Arte da Uomo Calze Fantasia Uomo Calze Lunghe in Cotone Calzini Stampato Famose Moda Colorate Divertente Disegni'
+slug: 'B084YXGL6B-it WeciBor Calzini Vestito Arte da Uomo Calze Fantasia Uomo...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

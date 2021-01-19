@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XQZzUiV9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079D86MWH-it Lysoform Detersivo Igienizzante per Bucato  Detersivo Classico 25 Lavaggi x3'
+slug: 'B079D86MWH-it Lysoform Detersivo Igienizzante per Bucato Detersivo...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

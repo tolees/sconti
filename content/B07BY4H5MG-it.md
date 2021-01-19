@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413JSbVkcKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BY4H5MG-it Trevi XFEST XF 450 Altoparlante Amplificato Portatile con Trolley  Mp3  USB  Bluetooth e Batteria Integrata  Karaoke Party Speaker con Microfono Incluso'
+slug: 'B07BY4H5MG-it Trevi XFEST XF 450 Altoparlante Amplificato Portatile con...'
+tags: 
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

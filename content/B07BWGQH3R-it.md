@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F6aLYEkbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWGQH3R-it Willful Smartwatch Orologio Fitness Uomo Donna Fitness Tracker Cardiofrequenzimetro da polso Contapassi Calorie Sonno Orologio Sportivo Impermeabile IP68 WhatsAPP Notifiche per Android iOS Telefon'
+slug: 'B07BWGQH3R-it Willful Smartwatch Orologio Fitness Uomo Donna Fitness...'
+tags: 
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

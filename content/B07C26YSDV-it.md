@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316gjIy2o5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C26YSDV-it JACK & JONES Jjecorp Logo Sweat Hood Noos Cappuccio  Nero  Black Detail:Reg Fit   Medium Uomo'
+slug: 'B07C26YSDV-it JACK & JONES Jjecorp Logo Sweat Hood Noos Cappuccio Nero...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318z02GqoXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLZLDXY-it Havaianas Twist  Sandali con Chiusura a T Donna  Verde  Mineral Green 2996   33/34 EU'
+slug: 'B07SLZLDXY-it Havaianas Twist Sandali con Chiusura a T Donna Verde...'
+tags: 
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

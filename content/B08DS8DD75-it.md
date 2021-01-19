@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AClCnXsEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DS8DD75-it Cuffie Bluetooth  Auricolari Bluetooth 5.0 Senza Fili Cancellazione del rumore 3D  Auricolari con Custodia da Ricarica 24 Ore di Tempo di Utilizzo  Mic-Incorporato per Android iPhone Airpods'
+slug: 'B08DS8DD75-it Cuffie Bluetooth Auricolari Bluetooth 5.0 Senza Fili...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

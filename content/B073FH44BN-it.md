@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FbilWSTCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073FH44BN-it KLIM™ Breeze – Ventola da Tavolo dalle Alte Performance – Ventilatore per Scrivania – Dissipatore Silenzioso e Regolabile per Raffreddamento - Bianco [ Nuova Versione 2020 ]'
+slug: 'B073FH44BN-it KLIM™ Breeze – Ventola da Tavolo dalle Alte Performance –...'
+tags: 
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

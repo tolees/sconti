@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311E+BCXRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JN382GQ-it Timberland Adventure 2.0 Cupsole Modern Oxford  Sneaker Uomo  Nero  Black Full Grain   41.5 EU'
+slug: 'B07JN382GQ-it Timberland Adventure 2.0 Cupsole Modern Oxford Sneaker...'
+tags: 
 actualPrice: 78.97 EUR
 currency: EUR
 price: 78.97

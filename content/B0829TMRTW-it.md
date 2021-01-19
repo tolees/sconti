@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+jLV9m91L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829TMRTW-it Feagar Cuscino per Sedile  Cuscino per Emorroidi di Schiena in Memory Foam  Cuscino Seduto per Sedia a rotelle Ufficio Casa Auto  Federa in Cotone'
+slug: 'B0829TMRTW-it Feagar Cuscino per Sedile Cuscino per Emorroidi di Schiena...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

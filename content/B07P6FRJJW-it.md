@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5186zU0H5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6FRJJW-it Sony KD-43XG7005 TV Smart da 43"  4K Ultra HD  HDR  Slim Design  Nero'
+slug: 'B07P6FRJJW-it Sony KD-43XG7005 TV Smart da 43" 4K Ultra HD HDR Slim...'
+tags: 
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yr1PIV84L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GM7W96N-it eXtremeRate Cover Custodia Grip Case Guscio Joystick Scocca Ricambio per Nintendo Switch Pro Controller-Controller Non Incluso Trasparente Ciliegia Rosa '
+slug: 'B08GM7W96N-it eXtremeRate Cover Custodia Grip Case Guscio Joystick...'
+tags: 
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

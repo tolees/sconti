@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sgeFonMGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833XXLJR-it Netac 32G Scheda Micro SD  Scheda di Memoria A1  U1  C10  V10  FHD  600X  UHS-I velocità Fino a 90/10 MB/Sec R/W  Micro SD Card per Telefono  Videocamera  Switch  Gopro  Tablet'
+slug: 'B0833XXLJR-it Netac 32G Scheda Micro SD Scheda di Memoria A1 U1 C10 V10...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

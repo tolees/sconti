@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316XDEolrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018MBDIE8-it AVM FRITZ! Box 7430 International Modem Router Wireless N450  Telefonia VoIP  Base DECT  ATA  Segreteria  ADSL2+  VDSL  4 LAN  1 USB  1 FXS'
+slug: 'B018MBDIE8-it AVM FRITZ! Box 7430 International Modem Router Wireless...'
+tags: 
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

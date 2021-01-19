@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ggBkJcVZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813VJMKD-it adidas EG4958  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core Black/Ftwr White   43.3333333333333'
+slug: 'B0813VJMKD-it adidas EG4958 Scarpe da Ginnastica Uomo Bianco Ftwr...'
+tags: 
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

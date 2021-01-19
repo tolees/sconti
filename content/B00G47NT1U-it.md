@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YVlTFwlIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G47NT1U-it Vero Moda - Maglietta  Colletto Tondo  Manica Corta  Donna  Nero  Schwarz  Black    XS'
+slug: 'B00G47NT1U-it Vero Moda - Maglietta Colletto Tondo Manica Corta Donna...'
+tags: 
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

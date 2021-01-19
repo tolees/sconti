@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zGAGZaLcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4V2JL-it Calvin Klein Vegetable Dye Monogram Baby Tee T-Shirt  Blu  Chambray Blue CDN   40  Taglia Produttore: Small  Donna'
+slug: 'B07VC4V2JL-it Calvin Klein Vegetable Dye Monogram Baby Tee T-Shirt Blu...'
+tags: 
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

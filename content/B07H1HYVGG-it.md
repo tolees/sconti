@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uYz3fV-sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H1HYVGG-it Cuffie da Gioco per PS4 Cuffie Gaming con 3.5mm Jack LED Cuffie da Gaming con Microfono Bass Stereo e Controllo Volume Gaming Headset per PS4/Xbox One X /S/Nintendo Switch/PC/Laptop/Tablet'
+slug: 'B07H1HYVGG-it Cuffie da Gioco per PS4 Cuffie Gaming con 3.5mm Jack LED...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

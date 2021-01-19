@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z-9MPanBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FA43TJK-it SUNSILK Ricci da Domare  Balsamo  200 ml'
+slug: 'B00FA43TJK-it SUNSILK Ricci da Domare Balsamo 200 ml'
+tags: 
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

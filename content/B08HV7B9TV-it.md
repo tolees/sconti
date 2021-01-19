@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319SZInaM5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HV7B9TV-it MINI Proiettore AUN W18C Proiettore Portatile Per Smartphone  Supporto 2800 Lumen Full HD 1080P  Sistema Multimediale  Mirroring Schermo del telefono Android / IOS'
+slug: 'B08HV7B9TV-it MINI Proiettore AUN W18C Proiettore Portatile Per...'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

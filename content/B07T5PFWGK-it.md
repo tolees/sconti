@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nGc7M2w7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5PFWGK-it Timberland Union Wharf Plain Toe Slip On Sneaker Infilare  Uomo  Grigio  Vapor Blue  Tb0a2avfl961   41 EU  7 UK '
+slug: 'B07T5PFWGK-it Timberland Union Wharf Plain Toe Slip On Sneaker Infilare...'
+tags: 
 actualPrice: 47.8 EUR
 currency: EUR
 price: 47.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41en2I4Z5EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5T9D9P-it eXtremeRate Cover Scocca Joycon Guscio Custodia Case DIY Ricambio per Nintendo Switch Joy-Con Controller Rapsodia Viola  con Pulsanti ABXY Tasti Direzionali-Joycon NON Incluso'
+slug: 'B08B5T9D9P-it eXtremeRate Cover Scocca Joycon Guscio Custodia Case DIY...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

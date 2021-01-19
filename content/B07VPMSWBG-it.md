@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F+saEY5cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPMSWBG-it LIGE Orologi Donna Moda Impermeabile Quarzo Orologio da Polso da Donna Acciaio Inossidabile per Ragazza Orologio'
+slug: 'B07VPMSWBG-it LIGE Orologi Donna Moda Impermeabile Quarzo Orologio da...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

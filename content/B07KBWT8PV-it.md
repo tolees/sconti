@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SC2BfUzjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBWT8PV-it Luce Solare da Esterno 35 LED Luci di sicurezza per sentieri  Cortile  Recinzione  Giardino  Parete Esterna Illuminazione con Sensore di Movimento Bianco Caldo 3000K 2 Pezzi'
+slug: 'B07KBWT8PV-it Luce Solare da Esterno 35 LED Luci di sicurezza per...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CotKJOYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SGFI9I-it Havaianas Luna  Sandali Donna  Blu  Navy Blue 0555   39/40 EU'
+slug: 'B015SGFI9I-it Havaianas Luna Sandali Donna Blu Navy Blue 0555 39/40 EU'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

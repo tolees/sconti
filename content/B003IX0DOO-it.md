@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i0QcfwZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003IX0DOO-it Wenko Portarotolo di Riserva a Parete O Indipendente per 3 Rotoli  Acciaio  14 x 32 x 13 5 cm  Cromo'
+slug: 'B003IX0DOO-it Wenko Portarotolo di Riserva a Parete O Indipendente per 3...'
+tags: 
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

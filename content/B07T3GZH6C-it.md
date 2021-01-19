@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ay+lYWd7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3GZH6C-it Timberland Classic Boat 2 Eye Scarpe da Barca  Uomo  Marrone  Saddle  Tb0a2afnf131   41.5 EU  7.5 UK '
+slug: 'B07T3GZH6C-it Timberland Classic Boat 2 Eye Scarpe da Barca Uomo Marrone...'
+tags: 
 actualPrice: 96.16 EUR
 currency: EUR
 price: 96.16

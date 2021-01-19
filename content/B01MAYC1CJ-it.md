@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAYC1CJ-it Red Dead Redemption 2 Xbox One - Xbox One'
+tags: 
 actualPrice: 22.51 EUR
 currency: EUR
 price: 22.51

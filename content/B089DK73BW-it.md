@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ZfrcPkfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DK73BW-it Visiera Protettiva di Sicurezza dalla Francia via DHL Visiera Trasparente Coperchio Antinebbia Proteggi Gli Occhi e Il Viso per Cucina da Laboratorio all aperto  5 '
+slug: 'B089DK73BW-it Visiera Protettiva di Sicurezza dalla Francia via DHL...'
+tags: 
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

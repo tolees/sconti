@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G5ARudixL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJXTYL8-it Lacoste L1212 Polo  Blu  Cicer Yzk   2XL Uomo'
+slug: 'B07TJXTYL8-it Lacoste L1212 Polo Blu Cicer Yzk 2XL Uomo'
+tags: 
 actualPrice: 75.95 EUR
 currency: EUR
 price: 75.95

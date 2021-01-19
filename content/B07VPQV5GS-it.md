@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rdqtwMVtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPQV5GS-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini  Nero  PVH Black BEH    Taglia Produttore: Small  Donna'
+slug: 'B07VPQV5GS-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini Nero PVH...'
+tags: 
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

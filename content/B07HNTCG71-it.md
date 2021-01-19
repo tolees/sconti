@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YgUZ3szqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNTCG71-it Samsung DV80N62532W/ET Asciugatrice  8 kg  Bianco'
+slug: 'B07HNTCG71-it Samsung DV80N62532W/ET Asciugatrice 8 kg Bianco'
+tags: 
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

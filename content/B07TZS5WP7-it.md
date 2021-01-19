@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LtNa67ocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZS5WP7-it Lenovo TAB M10 Tablet  Display 10.1" HD  Processore Qualcomm Snapdragon 429  32GB espandibili fino a 128GB  RAM 2GB  WiFi  Android Oreo  Nero'
+slug: 'B07TZS5WP7-it Lenovo TAB M10 Tablet Display 10.1" HD Processore Qualcomm...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

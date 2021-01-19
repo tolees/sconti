@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MvK7hBOBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JC1S3ZM-it Apli Kids 13067 Trapano Fantasia Fiore Verde  16 mm x 13067'
+slug: 'B00JC1S3ZM-it Apli Kids 13067 Trapano Fantasia Fiore Verde 16 mm x 13067'
+tags: 
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

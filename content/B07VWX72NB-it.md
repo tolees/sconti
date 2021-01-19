@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DpqHef6uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWX72NB-it Pepe Jeans Jude T-Shirt  Blu  Indigo 561   L arge Uomo'
+slug: 'B07VWX72NB-it Pepe Jeans Jude T-Shirt Blu Indigo 561 L arge Uomo'
+tags: 
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

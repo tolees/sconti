@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417vD49DhgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015K11VME-it KLIM™ Voice Microfono Desktop USB con Stand per Computer Laptop PC - Microfono Gaming Videogiochi PC PS4 Rosso [ Nouva Versione 2020 ]'
+slug: 'B015K11VME-it KLIM™ Voice Microfono Desktop USB con Stand per Computer...'
+tags: 
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

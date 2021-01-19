@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RD-8b7itL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L2B30WA-it Caffè Borbone Respresso Miscela Decaffeinata - Confezione da 100 Capsule - compatibili con le macchine Nespresso®* ad uso domestico'
+slug: 'B01L2B30WA-it Caffè Borbone Respresso Miscela Decaffeinata - Confezione...'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

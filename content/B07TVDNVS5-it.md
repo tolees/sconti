@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NSevJnxqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVDNVS5-it Funko- Pop Games: Dungeons & Dragons-Minsc & Boo Collectible Toy  Multicolore  45115'
+slug: 'B07TVDNVS5-it Funko- Pop Games: Dungeons & Dragons-Minsc & Boo...'
+tags: 
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

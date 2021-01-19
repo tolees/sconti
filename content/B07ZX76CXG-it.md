@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IT4KpjfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZX76CXG-it 24pz Pompon Pelliccia Volpe Sintetica per Fai da Te PON PON Pelliccia per Berretti o Cappelli in Lana Borsa Portachiavi Cappotti Scarpe Sciarpe 12 Colori 10cm Pelo 14cm Circonferenza'
+slug: 'B07ZX76CXG-it 24pz Pompon Pelliccia Volpe Sintetica per Fai da Te PON...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NxxShMUmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WG40MCO-it Voiello Pasta Spaghetti Scanalati N.107  Pasta Lunga di Semola Grano Aureo 100% - 500 g'
+slug: 'B00WG40MCO-it Voiello Pasta Spaghetti Scanalati N.107 Pasta Lunga di...'
+tags: 
 actualPrice: 0.69 EUR
 currency: EUR
 price: 0.69

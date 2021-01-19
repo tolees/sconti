@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TniwC94rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G46LGKN-it HUAWEI T5 Mediapad Tablet con Display da 10.1"  32 GB Espandibili  3 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero'
+slug: 'B07G46LGKN-it HUAWEI T5 Mediapad Tablet con Display da 10.1" 32 GB...'
+tags: 
 actualPrice: 159.06 EUR
 currency: EUR
 price: 159.06

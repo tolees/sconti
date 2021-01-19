@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ugBK-qJDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F28ZHGG-it Call of Duty: Infinite Warfare - Legacy Edition - PlayStation 4'
+slug: 'B01F28ZHGG-it Call of Duty: Infinite Warfare - Legacy Edition -...'
+tags: 
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

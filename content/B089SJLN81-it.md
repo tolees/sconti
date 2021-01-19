@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31z0eBH2T5L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SJLN81-it Cassa Bluetooth 5.0  Zamkol Altoparlante Portatile Bluetooth 30W  Speaker Impermeabile IPX6 TWS Stereo Batteria da 5200mAh AUX & TF & Potente cene Esterno Viaggio'
+slug: 'B089SJLN81-it Cassa Bluetooth 5.0 Zamkol Altoparlante Portatile...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

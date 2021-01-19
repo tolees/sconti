@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4158s9d3yeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FU4ZEQG-it Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Nero  43/46 - Confezione da 2'
+slug: 'B00FU4ZEQG-it Tommy Hilfiger TH Men Quarter 2P Calze Uomo Nero 43/46 -...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

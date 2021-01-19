@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413GgaNl5yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QSRYZMS-it Briksmax Kit di Illuminazione a Led Per Architecture Berlin  Compatibile con il Modello Lego 21027 Mattoncini da Costruzioni - Non Include il Set Lego'
+slug: 'B07QSRYZMS-it Briksmax Kit di Illuminazione a Led Per Architecture...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

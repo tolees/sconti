@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DgcOfV3PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP3SK7W-it Havaianas Brasil Logo  Infradito Unisex-Bambini  Rosa  Hollywood Rose 0064   23/24 EU'
+slug: 'B07SP3SK7W-it Havaianas Brasil Logo Infradito Unisex-Bambini Rosa...'
+tags: 
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

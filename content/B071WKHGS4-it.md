@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oRDw8HMqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WKHGS4-it Lenor Ammorbidente Oro & Fiori di Vaniglia  Maxi Formato da 70 Lavaggi'
+slug: 'B071WKHGS4-it Lenor Ammorbidente Oro & Fiori di Vaniglia Maxi Formato da...'
+tags: 
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

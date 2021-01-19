@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TXSA6R2-it Boucheron Quatre pour Femme Eau de Parfum spray 100 ml'
+tags: 
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

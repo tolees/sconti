@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eew9NIY6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H5BHRMN-it Genericn - Scheda di memoria Micro SD SDXC ad alta velocità classe 10 SDXC da 256 GB/512 GB/1024 GB + adattatore gratuito  1024 GB '
+slug: 'B08H5BHRMN-it Genericn - Scheda di memoria Micro SD SDXC ad alta...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

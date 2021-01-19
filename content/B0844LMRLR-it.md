@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51umk-qeCkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0844LMRLR-it Desigual Borsa Donna bols ada rotterdam 20saxpae unica marrone'
+slug: 'B0844LMRLR-it Desigual Borsa Donna bols ada rotterdam 20saxpae unica...'
+tags: 
 actualPrice: 40.29 EUR
 currency: EUR
 price: 40.29

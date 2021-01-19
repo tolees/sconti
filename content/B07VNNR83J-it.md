@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DPJQZPAnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNNR83J-it Calvin Klein Medium Drawstring Pantaloncini  Bianco  PVH Classic White YCD   Large Uomo'
+slug: 'B07VNNR83J-it Calvin Klein Medium Drawstring Pantaloncini Bianco PVH...'
+tags: 
 actualPrice: 40.39 EUR
 currency: EUR
 price: 40.39

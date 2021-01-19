@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jPFC4CwuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QYRJ7P-it Pokémon Mystery Dungeon: SQUADRA DI Soccorso DX - Nintendo Switch'
+slug: 'B083QYRJ7P-it Pokémon Mystery Dungeon: SQUADRA DI Soccorso DX - Nintendo...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T2fN5a7CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KKYCGK-it Ticpods 2 Auricolari Wireless  Rilevazione nell’Orecchio  qualità del Suono Superiore  Controllo Touch/Vocale/Gesti  Assistente Vocale  Bianco'
+slug: 'B082KKYCGK-it Ticpods 2 Auricolari Wireless Rilevazione nell’Orecchio...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

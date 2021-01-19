@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P6MZFz0CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBPR3HQ-it Shuliancable Cavo HDMI  Cavo HDMI Alta Velocità con Ethernet Supporta HD1080p 3D HDR ARC CEC  Cavetto HDMI Compatibile Nintendo Switch  PS3  Xbox  TV Box  TV  Proiettore  2m '
+slug: 'B07LBPR3HQ-it Shuliancable Cavo HDMI Cavo HDMI Alta Velocità con...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

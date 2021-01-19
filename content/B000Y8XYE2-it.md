@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5167a3kHvXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Y8XYE2-it STANLEY - 1-93-330 Borsa porta utensili  30 x 25 x 13 cm  il design può variare  1 pezzo'
+slug: 'B000Y8XYE2-it STANLEY - 1-93-330 Borsa porta utensili 30 x 25 x 13 cm il...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

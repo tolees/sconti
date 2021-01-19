@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p2GsrLptL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CHXMO1K-it Nilox Bodyguard Smartwatch e Tracker GPS  Nero'
+slug: 'B01CHXMO1K-it Nilox Bodyguard Smartwatch e Tracker GPS Nero'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

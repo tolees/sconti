@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C73aOL6WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZK8ZGTT-it Inphic Mouse USB cablato  clic silenzioso e tracciamento ottico  1200 DPI  mouse da ufficio a 3 pulsanti per PC laptop MacBook  nero'
+slug: 'B07ZK8ZGTT-it Inphic Mouse USB cablato clic silenzioso e tracciamento...'
+tags: 
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

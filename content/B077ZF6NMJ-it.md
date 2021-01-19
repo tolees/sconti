@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TfNRiL0iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZF6NMJ-it Tristar Crispy Mini Friggitrice ad aria calda  1000 W  2 Liters  Plastic  Nero'
+slug: 'B077ZF6NMJ-it Tristar Crispy Mini Friggitrice ad aria calda 1000 W 2...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

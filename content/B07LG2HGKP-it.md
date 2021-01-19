@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419w3bUEqeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG2HGKP-it Geox B New Balu  Boy C  Scarpe da Ginnastica Basse Bimbo  Beige  Biscuit C5046   24 EU'
+slug: 'B07LG2HGKP-it Geox B New Balu Boy C Scarpe da Ginnastica Basse Bimbo...'
+tags: 
 actualPrice: 39.45 EUR
 currency: EUR
 price: 39.45

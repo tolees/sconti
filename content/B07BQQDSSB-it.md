@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kUZ2OYIbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQQDSSB-it Cuffie Wireless Bluetooth 5.0 Cancellazione Attiva del Rumore Srhythm NC75 Pro ANC Over Ear con CVC8.0 Microfono Stereo Hi-Fi Carica Rapida  40 ore di Lavoro per iPhone/Android/PC/TV'
+slug: 'B07BQQDSSB-it Cuffie Wireless Bluetooth 5.0 Cancellazione Attiva del...'
+tags: 
 actualPrice: 64.58 EUR
 currency: EUR
 price: 64.58

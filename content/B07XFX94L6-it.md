@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wqIZg8OfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFX94L6-it Puma Amplified Crew Sweat TR  Felpa Donna  Black  L'
+slug: 'B07XFX94L6-it Puma Amplified Crew Sweat TR Felpa Donna Black L'
+tags: 
 actualPrice: 36.05 EUR
 currency: EUR
 price: 36.05

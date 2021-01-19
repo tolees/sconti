@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sMGSdKOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNNRZHF-it Calvin Klein Medium Drawstring Pantaloncini  Blu  Black Iris CBK   Uomo'
+slug: 'B07VNNRZHF-it Calvin Klein Medium Drawstring Pantaloncini Blu Black Iris...'
+tags: 
 actualPrice: 25.74 EUR
 currency: EUR
 price: 25.74

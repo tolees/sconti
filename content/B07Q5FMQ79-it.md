@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511SC+UT1KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5FMQ79-it Samsung UE49RU8000U Smart TV 4K Ultra HD 49" Wi-Fi DVB-T2CS2  Serie RU8000 2019  3840 x 2160 Pixels  Nero'
+slug: 'B07Q5FMQ79-it Samsung UE49RU8000U Smart TV 4K Ultra HD 49" Wi-Fi...'
+tags: 
 actualPrice: 480.04 EUR
 currency: EUR
 price: 480.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uLFamgJDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087J7WMF4-it Cuffie Bluetooth Sport Auricolari Bluetooth Senza Fili 5.0 Cuffie Wireless in Ear Dual Host con CVC8.0 Impermeabile IPX5 HiFi Stereo 80 Ore Riproduzione Fibra di Carbonio Design per Sport Corsa'
+slug: 'B087J7WMF4-it Cuffie Bluetooth Sport Auricolari Bluetooth Senza Fili 5.0...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

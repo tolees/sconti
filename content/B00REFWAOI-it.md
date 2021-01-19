@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uVy5qTHkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00REFWAOI-it Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  42 EU'
+slug: 'B00REFWAOI-it Reebok Classic Leather Scarpe da Ginnastica Uomo Nero 42 EU'
+tags: 
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

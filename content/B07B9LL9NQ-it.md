@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IHvp0cp0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9LL9NQ-it JBL CLIP 3 Speaker Wireless Bluetooth  Altoparlante Portatile Impermeabile  IPX7  con moschettone integrato  Microfono con cancellazione di eco e rumori  Rosso'
+slug: 'B07B9LL9NQ-it JBL CLIP 3 Speaker Wireless Bluetooth Altoparlante...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

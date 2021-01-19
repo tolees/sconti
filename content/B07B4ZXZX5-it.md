@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xkUpevxIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4ZXZX5-it Philips 276E9QDSB Monitor Gaming 27" LED IPS Freesync FHD  Wide Ultra Color  4ms  3 Side Frameless  Low Blue Mode  Flicker Free  HDMI  DVI  VGA  Attacco VESA  Nero'
+slug: 'B07B4ZXZX5-it Philips 276E9QDSB Monitor Gaming 27" LED IPS Freesync FHD...'
+tags: 
 actualPrice: 129.8 EUR
 currency: EUR
 price: 129.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UCCdWACOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072QM3R6B-it Monster Hunter: World  UK '
+slug: 'B072QM3R6B-it Monster Hunter: World UK'
+tags: 
 actualPrice: 26.69 EUR
 currency: EUR
 price: 26.69

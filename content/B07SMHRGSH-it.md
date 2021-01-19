@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ulIiWtmeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMHRGSH-it Garofalo - Fusilli Bucati Corti  Pasta di Semola di Grano Duro - pezzo da 500 g'
+slug: 'B07SMHRGSH-it Garofalo - Fusilli Bucati Corti Pasta di Semola di Grano...'
+tags: 
 actualPrice: 0.75 EUR
 currency: EUR
 price: 0.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HbdD+5stL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7C2Y9Z-it 18 Pezzi Pennelli Trucco Set di Pennelli Trucco Con Custodia da Viaggio Manico in Legno Professionale Pennello Kabuki in Fibra Sintetica Premium per Fondotinta Blush Correttore Ombretto Viso Potere'
+slug: 'B07Z7C2Y9Z-it 18 Pezzi Pennelli Trucco Set di Pennelli Trucco Con...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YvCKCxluL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DVF386B-it Windows 10 Professional 32/64 bit | Chiave di licenza originale | Garanzia di attivazione al 100% | [Download] |valido per l aggiornamento da Windows 10 Home a 10 pro   1h-24h di consegna via e-mail'
+slug: 'B08DVF386B-it Windows 10 Professional 32/64 bit | Chiave di licenza...'
+tags: 
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

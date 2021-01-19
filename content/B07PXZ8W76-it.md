@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PLKQ9nF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXZ8W76-it Garmin Forerunner 45s  Orologio Smart GPS per la Corsa e Altri Sport Unisex  Viola  S'
+slug: 'B07PXZ8W76-it Garmin Forerunner 45s Orologio Smart GPS per la Corsa e...'
+tags: 
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

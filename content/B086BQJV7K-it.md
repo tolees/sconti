@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ox24vECgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BQJV7K-it Aigostar Lampada da Comodino  Moderna Lampada da Tavolo Base in Ceramica Paralume in Stoffa  Attacco E14  Ananas d oro  Altezza 36cm '
+slug: 'B086BQJV7K-it Aigostar Lampada da Comodino Moderna Lampada da Tavolo...'
+tags: 
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

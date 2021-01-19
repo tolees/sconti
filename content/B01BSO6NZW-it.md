@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cerL8EplL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSO6NZW-it Philips Sonicare HX6322/04 ForKids Spazzolino Elettrico per Bambini con Tecnologia Sonica  Connesso all App per un Igiene Orale Divertente'
+slug: 'B01BSO6NZW-it Philips Sonicare HX6322/04 ForKids Spazzolino Elettrico...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

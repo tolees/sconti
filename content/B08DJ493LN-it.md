@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gkg3cH5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ493LN-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Blu '
+slug: 'B08DJ493LN-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno per PC Mac...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

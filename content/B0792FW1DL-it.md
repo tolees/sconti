@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310JFcspShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792FW1DL-it Diesel UMBX-DAMIENTHREEPACK  Slip Uomo  Multicolore  Bright White/Chinese Red/Black E4119-0Jkkc   L  Pacco da 3'
+slug: 'B0792FW1DL-it Diesel UMBX-DAMIENTHREEPACK Slip Uomo Multicolore Bright...'
+tags: 
 actualPrice: 29.78 EUR
 currency: EUR
 price: 29.78

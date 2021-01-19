@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JYKRK2C-it Hard Disk 2 TB Esterno Hard Disk Esterno 2 5" Ultrasottile HDD per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Blu '
+slug: 'B08JYKRK2C-it Hard Disk 2 TB Esterno Hard Disk Esterno 2 5" Ultrasottile...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

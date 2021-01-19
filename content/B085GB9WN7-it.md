@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SuCZsIyqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085GB9WN7-it Aigostar Lampada Solare Giardino Esterno LED Luci Solari Giardino Lampade da Esterno per Prato LED Lampade Solari Terra IP44 Impermeabile Solari Luce Calda 3000K Paesaggio Strade Pacco da 2'
+slug: 'B085GB9WN7-it Aigostar Lampada Solare Giardino Esterno LED Luci Solari...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

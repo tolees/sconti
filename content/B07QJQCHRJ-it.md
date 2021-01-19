@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TfpG+C3uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJQCHRJ-it Samsung MS23K3513AK Forno Microonde Grill Combinato  23 Litri  800 W  Grill 1100 W  Nero'
+slug: 'B07QJQCHRJ-it Samsung MS23K3513AK Forno Microonde Grill Combinato 23...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

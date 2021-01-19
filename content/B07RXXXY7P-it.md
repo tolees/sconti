@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OvYSUv19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXXXY7P-it Pepe Jeans Sue Giacca in Jeans  Nero  Archive Black Used 000   L arge Donna'
+slug: 'B07RXXXY7P-it Pepe Jeans Sue Giacca in Jeans Nero Archive Black Used 000...'
+tags: 
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

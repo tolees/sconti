@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ws2B5yRiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004O89WXK-it Vallejo Model Air - Set di Colori Acrilici per Aerografo  Multicolore'
+slug: 'B004O89WXK-it Vallejo Model Air - Set di Colori Acrilici per Aerografo...'
+tags: 
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

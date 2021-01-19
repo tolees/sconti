@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HSD0nvpvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9R8C8-it Levi s T-Shirt  Multicolore  Authentic Colorblock Tee M.Heather Grey 0001   Large Uomo'
+slug: 'B07TJ9R8C8-it Levi s T-Shirt Multicolore Authentic Colorblock Tee...'
+tags: 
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

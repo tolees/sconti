@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WZyyNe+5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FFXZK5-it Aigostar Vina - Asciugacapelli da viaggio professionale  Doppia tensione 127V/220V  compatto con impugnatura pieghevole  2 impostazioni di calore  portatile design nero'
+slug: 'B083FFXZK5-it Aigostar Vina - Asciugacapelli da viaggio professionale...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

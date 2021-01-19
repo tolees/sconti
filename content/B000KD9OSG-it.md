@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410uP5qq2tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KD9OSG-it Casio Orologio Digitale al Quarzo Uomo con Cinturino in Resina F-105W-1AWYEF'
+slug: 'B000KD9OSG-it Casio Orologio Digitale al Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

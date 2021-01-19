@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j1UYufEaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A8IEG2G-it Cavo Micro USB [ 1M - 2Pezzi ] Rampow Trasferimento Dati e Ricarica Rapida  Antigroviglio Nylon  Cavo USB Micro USB Compatibile per Samsung S7/S6  Xiaomi  Huawei - Grigio siderale'
+slug: 'B01A8IEG2G-it Cavo Micro USB [ 1M - 2Pezzi ] Rampow Trasferimento Dati e...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

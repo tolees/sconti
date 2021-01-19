@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-HFGCrDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085FJNGLK-it realme 6i EU Smartphone  4 GB + 128 GB  Bianco  White Milk '
+slug: 'B085FJNGLK-it realme 6i EU Smartphone 4 GB + 128 GB Bianco White Milk'
+tags: 
 actualPrice: 162.7 EUR
 currency: EUR
 price: 162.7

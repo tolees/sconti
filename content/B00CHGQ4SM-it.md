@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gyiPjEnAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CHGQ4SM-it Microsoft Sculpt Comfort Mouse  Windows  Connettività Bluetooth  Bluetrack Technology  Nero'
+slug: 'B00CHGQ4SM-it Microsoft Sculpt Comfort Mouse Windows Connettività...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

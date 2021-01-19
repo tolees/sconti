@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pZGK4hGoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NVDQXS-it Samsung VC05K51F0VP Aspirapolvere a Traino Senza Sacco Cyclone Force VC5100  3 Spazzole  170 W  Porpora'
+slug: 'B079NVDQXS-it Samsung VC05K51F0VP Aspirapolvere a Traino Senza Sacco...'
+tags: 
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

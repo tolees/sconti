@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5SJ6JM-it PUMA Essentials Logo  Pantaloni Compressione Donna  Nero  Cotton Black   M'
+slug: 'B07D5SJ6JM-it PUMA Essentials Logo Pantaloni Compressione Donna Nero...'
+tags: 
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

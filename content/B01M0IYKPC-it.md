@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WX6PTtXNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0IYKPC-it K-Way Le Vrai 3.0 Victor Unisex Felpa  Rosso  Small  Taglia Produttore:S  Uomo'
+slug: 'B01M0IYKPC-it K-Way Le Vrai 3.0 Victor Unisex Felpa Rosso Small Taglia...'
+tags: 
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

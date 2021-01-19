@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z1WqvTGUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLPY33-it Geox U WALEE A  Scarpe da Ginnastica Basse Uomo  Rosso  Red C7000   42 EU'
+slug: 'B07STLPY33-it Geox U WALEE A Scarpe da Ginnastica Basse Uomo Rosso Red...'
+tags: 
 actualPrice: 27.42 EUR
 currency: EUR
 price: 27.42

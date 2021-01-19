@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FcG3q3rqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBQ6M8L-it JBL Flip Essential Speaker Bluetooth Portatile – Cassa Altoparlante Wireless Waterproof IPX7 – JBL Bass Radiator  Fino a 10h di Autonomia  Grigio'
+slug: 'B07YBQ6M8L-it JBL Flip Essential Speaker Bluetooth Portatile – Cassa...'
+tags: 
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

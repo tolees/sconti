@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MZx4O-IPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMHT5GX-it find. Round Toe Block Heel Leather Court Scarpe con Tacco  Blu Navy   36 EU'
+slug: 'B07KMHT5GX-it find. Round Toe Block Heel Leather Court Scarpe con Tacco...'
+tags: 
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

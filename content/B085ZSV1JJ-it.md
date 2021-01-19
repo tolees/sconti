@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wVy1bNfdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZSV1JJ-it Retevis RT628B Walkie Talkie Bambini  Ricetrasmittenti Bambini  PMR446 3 Canali Volume Regolabile Blocco Tasti  Giocattolo Regalo per Ragazzi Ragazze Campeggio  Escursionismo  Giardino Rosso  1 Paio '
+slug: 'B085ZSV1JJ-it Retevis RT628B Walkie Talkie Bambini Ricetrasmittenti...'
+tags: 
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

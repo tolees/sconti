@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61U6vdkAfWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GSS4M3B-it HEYB Cover Xiaomi Redmi 9C Custodia Premium Vera Pelle Flip Custodia a Libro Portafoglio Telefono con Magnetica per Xiaomi Redmi 9C Smartphone'
+slug: 'B08GSS4M3B-it HEYB Cover Xiaomi Redmi 9C Custodia Premium Vera Pelle...'
+tags: 
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

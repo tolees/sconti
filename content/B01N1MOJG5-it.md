@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JTYXjheYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1MOJG5-it Reebok Club C 85  Sneaker Uomo  Nero  Int/Black/Charcoal   47 EU'
+slug: 'B01N1MOJG5-it Reebok Club C 85 Sneaker Uomo Nero Int/Black/Charcoal 47 EU'
+tags: 
 actualPrice: 66.37 EUR
 currency: EUR
 price: 66.37

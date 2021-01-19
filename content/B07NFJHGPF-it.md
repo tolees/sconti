@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZmI3+7b5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFJHGPF-it Vigorsol Air Action Gomme da Masticare Senza Zucchero Multipack Astuccio  Chewing Gum Gusto Menta  6 Confezioni da 2 Astucci  12 Astucci'
+slug: 'B07NFJHGPF-it Vigorsol Air Action Gomme da Masticare Senza Zucchero...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

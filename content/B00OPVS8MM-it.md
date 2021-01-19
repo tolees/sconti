@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zB2V06ZXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OPVS8MM-it Grey L Acchiappacolore Fogli Cattura Colore Lavatrice Evita Incidenti Lavaggio  Foglietti Acchiappacolore e Anti-Sporco  Confezione 40 Fogli'
+slug: 'B00OPVS8MM-it Grey L Acchiappacolore Fogli Cattura Colore Lavatrice...'
+tags: 
 actualPrice: 3.87 EUR
 currency: EUR
 price: 3.87

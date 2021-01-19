@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+qpWFiebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FSRJXV-it Turtle Beach Stealth 700P Cuffie Gaming con Suono Surround per PlayStation 4  Wireless  Nero'
+slug: 'B071FSRJXV-it Turtle Beach Stealth 700P Cuffie Gaming con Suono Surround...'
+tags: 
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

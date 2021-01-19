@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41znhCe54iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSL3Y6S-it Clarks Step Welt Free  Scarpe da Ginnastica Uomo  Verde Kaki  42.5 EU'
+slug: 'B07MSL3Y6S-it Clarks Step Welt Free Scarpe da Ginnastica Uomo Verde Kaki...'
+tags: 
 actualPrice: 42.52 EUR
 currency: EUR
 price: 42.52

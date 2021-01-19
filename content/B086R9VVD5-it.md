@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086R9VVD5-it Tennent s Super Birra - Pacco da 24 x 355 ml'
+tags: 
 actualPrice: 26.16 EUR
 currency: EUR
 price: 26.16

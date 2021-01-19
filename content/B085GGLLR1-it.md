@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z--+UyFHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085GGLLR1-it HUAWEI WATCH GT 2e Smartwatch  1.39" AMOLED HD Touchscreen  GPS e GLONASS  Auto Rileva 6 Sport  Tracking di 15 Sport Diversi  VO2Max  Battito Cardiaco in Tempo Reale  Nero  Graphite Black '
+slug: 'B085GGLLR1-it HUAWEI WATCH GT 2e Smartwatch 1.39" AMOLED HD Touchscreen...'
+tags: 
 actualPrice: 138.78 EUR
 currency: EUR
 price: 138.78

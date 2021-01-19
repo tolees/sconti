@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41up4LR9fVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084W89XXF-it Viakal Detersivo Anticalcare Liquido Aceto  Maxi Formato 2 Pezzi da 700 ml'
+slug: 'B084W89XXF-it Viakal Detersivo Anticalcare Liquido Aceto Maxi Formato 2...'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

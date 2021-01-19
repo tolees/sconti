@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jr+WdjXiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR769MS-it Under Armour UA Qualifier HeatGear Tight  Pantaloni a Compressione Uomo  Nero  Black/Black/Reflective   S'
+slug: 'B07KR769MS-it Under Armour UA Qualifier HeatGear Tight Pantaloni a...'
+tags: 
 actualPrice: 28.1 EUR
 currency: EUR
 price: 28.1

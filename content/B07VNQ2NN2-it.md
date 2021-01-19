@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dllfHogJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNQ2NN2-it Astuccio Scuola con 3 Scomparti  lunaoo Grande Multifunzione Astucci Penne con Cerniera per Ragazzo & Ragazza  22CM Camouflage blu '
+slug: 'B07VNQ2NN2-it Astuccio Scuola con 3 Scomparti lunaoo Grande...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

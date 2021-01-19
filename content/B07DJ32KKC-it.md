@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cD6zxY2TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ32KKC-it Set da Ping Pong Set Racchette Ping Pong  2 Racchette Ping Pong 1 Borsa Portatile'
+slug: 'B07DJ32KKC-it Set da Ping Pong Set Racchette Ping Pong 2 Racchette Ping...'
+tags: 
 actualPrice: 26.77 EUR
 currency: EUR
 price: 26.77

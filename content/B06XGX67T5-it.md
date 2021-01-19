@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511AmZ3Kq1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGX67T5-it Autan Active Vapo Bipacco  Insetto Repellente e Antizanzare  Lunga Durata  2 Confezioni da100 ml'
+slug: 'B06XGX67T5-it Autan Active Vapo Bipacco Insetto Repellente e Antizanzare...'
+tags: 
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

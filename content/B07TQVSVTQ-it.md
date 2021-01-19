@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NlvbX+PZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQVSVTQ-it Clarks Sheer Rose  Scarpe con Tacco Donna  Beige  Navy Suede Navy Suede   41.5 EU'
+slug: 'B07TQVSVTQ-it Clarks Sheer Rose Scarpe con Tacco Donna Beige Navy Suede...'
+tags: 
 actualPrice: 38.7 EUR
 currency: EUR
 price: 38.7

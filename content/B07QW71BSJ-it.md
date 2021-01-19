@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zinEHXJbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QW71BSJ-it Luce Posteriore per Bicicletta  Ricaricabile USB per Bicicletta a LED  Potente Faro a LED Luce Posteriore per Bici Lampada Impermeabile e Facile da installare'
+slug: 'B07QW71BSJ-it Luce Posteriore per Bicicletta Ricaricabile USB per...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

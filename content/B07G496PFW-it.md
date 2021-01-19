@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Vf-DTvVsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G496PFW-it Ocean S Eight  4K+Br '
+slug: 'B07G496PFW-it Ocean S Eight 4K+Br'
+tags: 
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

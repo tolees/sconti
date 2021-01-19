@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EW-cCQF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W9RSX9M-it Calvin Klein underwear - RADIANT COTTON - BIKINI  Intimo da donna  bianco  white 100   XS'
+slug: 'B00W9RSX9M-it Calvin Klein underwear - RADIANT COTTON - BIKINI Intimo da...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

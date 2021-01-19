@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315vR3Dvu2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT13GU6-it Lacoste Lerond BL 2 Cam  Sneaker Uomo  Blu  Navy   44.5 EU'
+slug: 'B01MT13GU6-it Lacoste Lerond BL 2 Cam Sneaker Uomo Blu Navy 44.5 EU'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

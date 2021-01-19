@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-KDIRanmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJ6S4XH-it Calvin Klein K50k505179 Cintura  Blu  Navy/Black 0Gy   Unica  Taglia Produttore: 90  Uomo'
+slug: 'B07RJ6S4XH-it Calvin Klein K50k505179 Cintura Blu Navy/Black 0Gy Unica...'
+tags: 
 actualPrice: 16.28 EUR
 currency: EUR
 price: 16.28

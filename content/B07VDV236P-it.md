@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OAYSgfnoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDV236P-it MROTY Italia | Striscia LED RGB  Strisce LED 10mt  Luci LED 5050  300 LED - Decorazioni Interno ed Esterno  qualità e garanzia Italiana - Tecnologia Autunno 2020'
+slug: 'B07VDV236P-it MROTY Italia | Striscia LED RGB Strisce LED 10mt Luci LED...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

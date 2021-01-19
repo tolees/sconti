@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4148sZRBc7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J2HVSSR-it Marchio Amazon - Goodthreads  giacca aderente in twill elasticizzato  da uomo  Cruz V2 Fresh Foam  US S  EU S '
+slug: 'B07J2HVSSR-it Marchio Amazon - Goodthreads giacca aderente in twill...'
+tags: 
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

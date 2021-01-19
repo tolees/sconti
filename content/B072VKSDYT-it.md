@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rBSEV5dVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VKSDYT-it Aeternum Titanium Induction Piastra Multiuso Crepiere  Alluminio  Grigio  28 cm'
+slug: 'B072VKSDYT-it Aeternum Titanium Induction Piastra Multiuso Crepiere...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

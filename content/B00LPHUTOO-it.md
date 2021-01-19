@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lHpx2vOkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPHUTOO-it Vileda Steam Scopa a Vapore con 2 Panni in Microfibra  Filo di 6 m  per Pavimenti  per Parquet  per Tappeti  1550 W  0.4 Litri  Plastica  Nero/Rosso'
+slug: 'B00LPHUTOO-it Vileda Steam Scopa a Vapore con 2 Panni in Microfibra Filo...'
+tags: 
 actualPrice: 42.32 EUR
 currency: EUR
 price: 42.32

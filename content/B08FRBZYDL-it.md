@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T1FYesxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FRBZYDL-it eXtremeRate 2 Pellicole Protettive Vetro Temperato Protezione Schermo per Nintendo Switch Lite-Sakura Rosa Bordo Trasparente HD Chiaro  Antigraffio Anti-Impronta Digitale Infrangibile Senza Bolle '
+slug: 'B08FRBZYDL-it eXtremeRate 2 Pellicole Protettive Vetro Temperato...'
+tags: 
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

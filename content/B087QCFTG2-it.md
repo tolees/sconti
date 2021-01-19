@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iv0RgMHtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QCFTG2-it Auricolari bluetooth Orit Cuffie Bluetooth 5.0 Senza Fili con Lettore MP3 Multifunzione  Touchscreen LCD da 2 0"  Stereo HD Cuffie wireless con Microfono impermeabile IPX7 per Android  IOS'
+slug: 'B087QCFTG2-it Auricolari bluetooth Orit Cuffie Bluetooth 5.0 Senza Fili...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

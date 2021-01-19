@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n7ghr+tEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0869B8RKD-it HUAWEI P40 Pro con Bluetooth Speaker  Acoustic Display da 6.58”  Quattro Fotocamere Leica da 50 + 40 + 12 MP e Sensore TOF  Kirin 990 5G Octa Core  Argento  Versione Italiana'
+slug: 'B0869B8RKD-it HUAWEI P40 Pro con Bluetooth Speaker Acoustic Display da...'
+tags: 
 actualPrice: 879.0 EUR
 currency: EUR
 price: 879.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xfFwPkBOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X63LCXL-it STARBUCKS HOUSE BLEND Caffè macinato dalla tostatura media 6 sacchetti da 200g'
+slug: 'B07X63LCXL-it STARBUCKS HOUSE BLEND Caffè macinato dalla tostatura media...'
+tags: 
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

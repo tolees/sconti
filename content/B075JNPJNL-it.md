@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S78iQ81SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JNPJNL-it Philips Sonicare HX9903/03 DiamondClean Smart  Spazzolino Elettrico con Tecnologia Sonicare  Connesso all Applicazione  4 Programmi di Pulizia  Bianco'
+slug: 'B075JNPJNL-it Philips Sonicare HX9903/03 DiamondClean Smart Spazzolino...'
+tags: 
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

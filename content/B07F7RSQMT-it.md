@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VAlyzc+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7RSQMT-it Beggars Banquet Remastered  50Th Annyversary Edt.Lp+12"+Flexy Disc '
+slug: 'B07F7RSQMT-it Beggars Banquet Remastered 50Th Annyversary...'
+tags: 
 actualPrice: 43.26 EUR
 currency: EUR
 price: 43.26

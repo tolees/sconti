@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mMdmauivL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DYSTZWO-it Pentole Agnelli ALSC111BSSC36 Alblack Padella Svasata Alta Saltare  in Alluminio  con Manico Tubolare in Acciaio Inossidabile ”Cool”  36 cm  Nero'
+slug: 'B00DYSTZWO-it Pentole Agnelli ALSC111BSSC36 Alblack Padella Svasata Alta...'
+tags: 
 actualPrice: 32.61 EUR
 currency: EUR
 price: 32.61

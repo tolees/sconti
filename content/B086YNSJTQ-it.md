@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516OBHo44uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YNSJTQ-it TOFU Candele profumate Regalo Donna  Regali per Donna realizzate con Cera di soia  Set di 6 fragranze Leggere  2 5 Once  Bagno Domestico  Yoga  aromaterapia  Relax  Antistress  Compleanno'
+slug: 'B086YNSJTQ-it TOFU Candele profumate Regalo Donna Regali per Donna...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

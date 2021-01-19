@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tJUCilKxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RB54SP-it Hotroad Maschera per la Bocca alla Moda Unisex  Confortevole e Permeabile All aria per i Viaggi in Bicicletta  Uso Quotidiano  Confezione Lavabile Riutilizzabile da 3 Pezzi  Nero'
+slug: 'B085RB54SP-it Hotroad Maschera per la Bocca alla Moda Unisex...'
+tags: 
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

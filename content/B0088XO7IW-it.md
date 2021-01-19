@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ynClzW3jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0088XO7IW-it Frisk Peppermint Caramelle al Gusto Menta  Senza Zucchero e Senza Glutine  Confezione da 12 Astucci in Metallo'
+slug: 'B0088XO7IW-it Frisk Peppermint Caramelle al Gusto Menta Senza Zucchero e...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

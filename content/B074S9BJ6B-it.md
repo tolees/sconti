@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fcY8e6F5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074S9BJ6B-it Massaggiatore shiatsu cervicale e collo con calore - massaggiatore spalle impastante per collo  schiena  spalle  piedi  gambe - massaggio elettrico completo del corpo - per la casa e l auto'
+slug: 'B074S9BJ6B-it Massaggiatore shiatsu cervicale e collo con calore -...'
+tags: 
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

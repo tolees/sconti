@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B2hpnd+nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLQF2WK-it AZ Dentifricio 3D White Luxe Bianco Brillante con Azione Sbiancante 3 x 75 ml'
+slug: 'B07WLQF2WK-it AZ Dentifricio 3D White Luxe Bianco Brillante con Azione...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Acn66f2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FI0VC58-it Birkenstock Arizona  Sandali Donna  Grigio  Metallic Anthracite   38 EU'
+slug: 'B01FI0VC58-it Birkenstock Arizona Sandali Donna Grigio Metallic...'
+tags: 
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

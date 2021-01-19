@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQZB5XM-it Havaianas Slim Flatform  Infradito Donna  Blu  Blue 0057   35/36 EU'
+slug: 'B07TQZB5XM-it Havaianas Slim Flatform Infradito Donna Blu Blue 0057...'
+tags: 
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

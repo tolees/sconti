@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KawLY0WGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GF07YDU-it Intex Dura Beam Plus Materasso Classic Gonfiabile  Comfort Plush  Tecnologia Fiber Tech  PVC-Poliestere  Multicolore  152 x 203 x 46 cm'
+slug: 'B00GF07YDU-it Intex Dura Beam Plus Materasso Classic Gonfiabile Comfort...'
+tags: 
 actualPrice: 49.46 EUR
 currency: EUR
 price: 49.46

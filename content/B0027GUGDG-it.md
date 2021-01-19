@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311cCXsVXGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0027GUGDG-it Netgear JGS524 Switch Ethernet Gigabit 24 Porte  Switch Unmanaged  Assistenza a vita ProSafe  Versione Rack in metallo'
+slug: 'B0027GUGDG-it Netgear JGS524 Switch Ethernet Gigabit 24 Porte Switch...'
+tags: 
 actualPrice: 122.89 EUR
 currency: EUR
 price: 122.89

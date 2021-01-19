@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415d-OR-7CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CL2ZQ9R-it Smartphone 4G Android 10  Ulefone Note 8P Telefonia Mobile Cellulari 16GB ROM 2GB RAM  5 5" FW+ Schermo Waterdrop  Fotocamera 8MP+2MP+5MP  Dual SIM e Face ID  GPS-Nero'
+slug: 'B08CL2ZQ9R-it Smartphone 4G Android 10 Ulefone Note 8P Telefonia Mobile...'
+tags: 
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

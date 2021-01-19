@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sZgekSPLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018JM5A2S-it PawHut Carrellino Rimorchio per Cani Animali Domestici da Bicicletta Rosso e Nero 130 x 90 x 110cm'
+slug: 'B018JM5A2S-it PawHut Carrellino Rimorchio per Cani Animali Domestici da...'
+tags: 
 actualPrice: 90.97 EUR
 currency: EUR
 price: 90.97

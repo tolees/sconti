@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519RhuTJc+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4GZZRF-it Faburo Zanzariera per Finestra con 3 pcs patch e Strumento di fissaggio'
+slug: 'B07R4GZZRF-it Faburo Zanzariera per Finestra con 3 pcs patch e Strumento...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

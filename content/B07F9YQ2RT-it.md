@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xjVqOL1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9YQ2RT-it Porta Cellulare Bici  Wiecok Supporto Fotocamera Bici 360° Rotabile Supporto Manubrio Moto per Ciclismo  GoPro Hero  GPS  Smartphone e Altri Dispositivi Elettronici 4 0-6 5 Pollici  Diametro 16-60mm'
+slug: 'B07F9YQ2RT-it Porta Cellulare Bici Wiecok Supporto Fotocamera Bici 360°...'
+tags: 
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

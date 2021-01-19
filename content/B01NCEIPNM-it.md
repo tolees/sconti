@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517iTppIw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCEIPNM-it Brita Marella - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ Incluso'
+slug: 'B01NCEIPNM-it Brita Marella - Caraffa Filtrante per Acqua 2.4 Litri 1...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

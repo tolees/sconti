@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412+LyZU+pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBGJY7J-it Newdora Calzini Uomo  8 Paia Unisex Calze Lavoro per Fantasmini Uomo Cotone  Invisibili in Cotone Sportive Corti Calzini con Taglio Basso  Antiscivolo e Comodità'
+slug: 'B07XBGJY7J-it Newdora Calzini Uomo 8 Paia Unisex Calze Lavoro per...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

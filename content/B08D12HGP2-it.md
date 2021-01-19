@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31krEY-ivzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D12HGP2-it Fitness Tracker + Smart Watch  Vincitore 2020  | Contatore di passi  attività  sport | Contatore di calorie focalizzato sulla salute e controllo dell esercizio fisico | Contapassi per uomo e donna'
+slug: 'B08D12HGP2-it Fitness Tracker + Smart Watch Vincitore 2020 | Contatore...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

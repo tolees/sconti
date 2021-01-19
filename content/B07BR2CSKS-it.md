@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f1+pkBcmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BR2CSKS-it Pigna Monocromo 02298871R  Quaderno Formato A4  Rigatura 1R  Righe per Medie e Superiori  Carta 80G/Mq  Pacco da 10 Pezzi'
+slug: 'B07BR2CSKS-it Pigna Monocromo 02298871R Quaderno Formato A4 Rigatura 1R...'
+tags: 
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

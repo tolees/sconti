@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aeg0NtlOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFGC93K-it Only onlSKY Reg DNM Skirt BB PIM992 Noos Gonna  Blu  Light Blue Denim Light Blue Denim   44 Donna'
+slug: 'B07HFGC93K-it Only onlSKY Reg DNM Skirt BB PIM992 Noos Gonna Blu Light...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

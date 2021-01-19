@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NGVyUUHkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DKXSCPE-it Capsule Lavazza A Modo Mio Espresso Intenso - Confezione da 36 capsule'
+slug: 'B00DKXSCPE-it Capsule Lavazza A Modo Mio Espresso Intenso - Confezione...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

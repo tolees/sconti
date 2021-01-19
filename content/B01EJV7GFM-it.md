@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I97ricodL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EJV7GFM-it Omino Bianco - IdroCaps  Detersivo in Dosi con Ammorbidente  Pulito 100% Senza Sprechi - 20 pezzi'
+slug: 'B01EJV7GFM-it Omino Bianco - IdroCaps Detersivo in Dosi con Ammorbidente...'
+tags: 
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

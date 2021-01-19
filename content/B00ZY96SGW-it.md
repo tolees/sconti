@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DNbbV3t-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZY96SGW-it Givova Visa  Tuta Da Ginnastica Uomo  Multicolore  Granata/Nero   3XS'
+slug: 'B00ZY96SGW-it Givova Visa Tuta Da Ginnastica Uomo Multicolore...'
+tags: 
 actualPrice: 16.37 EUR
 currency: EUR
 price: 16.37

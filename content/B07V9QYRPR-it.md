@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L1hOd4YvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9QYRPR-it NAPAPIJRI Elli Polo  Blu  Medieval Blue Bb61   Medium Uomo'
+slug: 'B07V9QYRPR-it NAPAPIJRI Elli Polo Blu Medieval Blue Bb61 Medium Uomo'
+tags: 
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

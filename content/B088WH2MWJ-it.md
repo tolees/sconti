@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ixTKQnBNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WH2MWJ-it DeniseM117 Cuffie Bluetooth Auricolari Bluetooth Senza Fili TWS Cuffie 5.0 Riduzione del Rumore Wireless Hi-Fi Stereo Senza Fili Sportivi in Ear con Custodia da Ricarica Microfono'
+slug: 'B088WH2MWJ-it DeniseM117 Cuffie Bluetooth Auricolari Bluetooth Senza...'
+tags: 
 actualPrice: 23.28 EUR
 currency: EUR
 price: 23.28

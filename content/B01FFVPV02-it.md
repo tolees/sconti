@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+O6BQ18KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFVPV02-it Garnier Ultra Dolce Olio d Argan e di Camelia Bagnodoccia Satinante Pelle Setosa e Morbida  500 ml'
+slug: 'B01FFVPV02-it Garnier Ultra Dolce Olio d Argan e di Camelia Bagnodoccia...'
+tags: 
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

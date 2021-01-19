@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t1LuGDtwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08933WPTB-it EZONTEQ Tastiera da Gioco RGB LED Retroilluminazione Scelta di 8 Colori 25 Tasti Anti-ghosting Layout Italiano QWERTY  Tastiera Cablata USB per PC PS4 Xbox Mac'
+slug: 'B08933WPTB-it EZONTEQ Tastiera da Gioco RGB LED Retroilluminazione...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

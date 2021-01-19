@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GBhULdIuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRRG6WR-it Dokkita Spazzolino da Denti per Cani  Dog Brushing Stick-Bastoncini per Pulizia dei Denti di Cani  Cura Dentale Giocattolo da Masticare in Gomma Non Tossica  Giocattolo per la Spazzolatura dei Denti'
+slug: 'B08CRRG6WR-it Dokkita Spazzolino da Denti per Cani Dog Brushing Stick-...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

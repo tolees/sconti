@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-jPQT6LmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T49HPXX-it Rimila Auto telecomandata  4WD Macchina Telecomandata Stunt Car 2.4GHZ Telecomando Macchina Acrzaic Rotazione di 360 Gradi（Non comprese Le batterie）  Red '
+slug: 'B07T49HPXX-it Rimila Auto telecomandata 4WD Macchina Telecomandata Stunt...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

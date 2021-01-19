@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tZb107sHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004NNZAKA-it My.Size - Profilattici  69 mm  36 pezzi'
+slug: 'B004NNZAKA-it My.Size - Profilattici 69 mm 36 pezzi'
+tags: 
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

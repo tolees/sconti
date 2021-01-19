@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DAs6pZW4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HIDERDM-it Aigostar Monique 32HIE – Asciugacapelli Ionico professionale 2400W con 2 velocità e 3 impostazione della temperatura. Pulsante per l aria fredda.Protezione surriscaldamento. Nero. Design esclusivo.'
+slug: 'B01HIDERDM-it Aigostar Monique 32HIE – Asciugacapelli Ionico...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

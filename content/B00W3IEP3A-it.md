@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CqNrv-iDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W3IEP3A-it Fairy Additivo Cura Lavastoviglie  Maxi Formato  7 confezioni x 2 pezzi'
+slug: 'B00W3IEP3A-it Fairy Additivo Cura Lavastoviglie Maxi Formato 7...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

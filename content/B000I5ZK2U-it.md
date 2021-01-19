@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qRjZ+rUrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000I5ZK2U-it Bic Cristal Original Punta Media 1 mm Confezione 50 Penne Colore Nero'
+slug: 'B000I5ZK2U-it Bic Cristal Original Punta Media 1 mm Confezione 50 Penne...'
+tags: 
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

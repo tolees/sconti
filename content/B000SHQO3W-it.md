@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ddbJQmSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000SHQO3W-it Pilot G207 Penna  0 7 mm   confezione da 12  colore: Nero'
+slug: 'B000SHQO3W-it Pilot G207 Penna 0 7 mm confezione da 12 colore: Nero'
+tags: 
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

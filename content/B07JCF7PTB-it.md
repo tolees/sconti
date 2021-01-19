@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4137CixWctL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCF7PTB-it Columbia Lay D Down II  Giacca da Sci Donna  Bianco  White   M'
+slug: 'B07JCF7PTB-it Columbia Lay D Down II Giacca da Sci Donna Bianco White M'
+tags: 
 actualPrice: 158.98 EUR
 currency: EUR
 price: 158.98

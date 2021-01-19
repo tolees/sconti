@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-KZeW+fqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0866K8YSG-it Pantene Pro-V Maschera Multi-Nutriente  Protezione Cheratina  Per Capelli Deboli E Danneggiati - 300 Gr'
+slug: 'B0866K8YSG-it Pantene Pro-V Maschera Multi-Nutriente Protezione...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

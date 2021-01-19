@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311JiPUerKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CCMWD6-it DADYPET Giocattolo per Gatti Automatico  Giocattolo per Gatti con Topo Meccanico con Coda di Piume  Giocattolo per Gatti Interattivo con Ratto Cigolante - Ricaricabile Tramite USB'
+slug: 'B081CCMWD6-it DADYPET Giocattolo per Gatti Automatico Giocattolo per...'
+tags: 
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

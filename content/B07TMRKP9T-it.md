@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31n9AxnLBFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMRKP9T-it Clarks Ronnie Limit  Scarpe Stringate Derby Uomo  Marrone  Dark Tan Lea Dark Tan Lea   44.5 EU'
+slug: 'B07TMRKP9T-it Clarks Ronnie Limit Scarpe Stringate Derby Uomo Marrone...'
+tags: 
 actualPrice: 33.36 EUR
 currency: EUR
 price: 33.36

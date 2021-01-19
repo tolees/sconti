@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IXfqRxP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD3HPPQ-it Calvin Klein Nylon Harrington Giacca sportiva  Bianco  Bright White Yaf   Small Uomo'
+slug: 'B07VD3HPPQ-it Calvin Klein Nylon Harrington Giacca sportiva Bianco...'
+tags: 
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

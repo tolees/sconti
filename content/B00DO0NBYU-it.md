@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I9BkbzvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DO0NBYU-it Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5'
+slug: 'B00DO0NBYU-it Brooks - Scarpe sportive - Running Uomo Nero Black 45.5'
+tags: 
 actualPrice: 82.0 EUR
 currency: EUR
 price: 82.0

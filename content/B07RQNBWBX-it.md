@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lvhOMZxgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQNBWBX-it WHCREAT da Uomo con Pantaloncini da Running Tasche con Cerniera per Allenamento in Palestra L'
+slug: 'B07RQNBWBX-it WHCREAT da Uomo con Pantaloncini da Running Tasche con...'
+tags: 
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JwcjpVB3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCFF4PS-it Az Ricerca Dentifricio Pro-Expert Prevenzione Superiore 3 x 75ml'
+slug: 'B07WCFF4PS-it Az Ricerca Dentifricio Pro-Expert Prevenzione Superiore 3...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XhdkfidxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M76NBB4-it Plafoniera LED Lampada a Soffitto Bianco Naturale 4000K 18W 1500 Lumens Ø28cm  EISFEU Plafoniere LED per cucina  bagno  camera da letto  corridoio  cantina  ufficio'
+slug: 'B07M76NBB4-it Plafoniera LED Lampada a Soffitto Bianco Naturale 4000K...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

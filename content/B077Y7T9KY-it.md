@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qVSBW8l9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y7T9KY-it HIKARO T-Shirt con Logo Uomo  Nero  Black   52  Taglia Produttore: Large '
+slug: 'B077Y7T9KY-it HIKARO T-Shirt con Logo Uomo Nero Black 52 Taglia...'
+tags: 
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

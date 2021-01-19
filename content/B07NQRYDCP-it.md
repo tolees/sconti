@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51v+WYY6tmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQRYDCP-it SYLVANIAN FAMILIES - Casa Grande con Luci  Sistema di Gioco  Pacchetto Standard  Multicolore  5302 '
+slug: 'B07NQRYDCP-it SYLVANIAN FAMILIES - Casa Grande con Luci Sistema di Gioco...'
+tags: 
 actualPrice: 64.94 EUR
 currency: EUR
 price: 64.94

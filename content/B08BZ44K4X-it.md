@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l6xgbZTTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZ44K4X-it Bottiglia d Acqua Sportiva 850ml Borraccia Senza BPA in Plastica Tritan  a Prova di Perdite Borraccia Palestra per Scuola  Ciclismo  Ufficio  Yoga - Blu'
+slug: 'B08BZ44K4X-it Bottiglia d Acqua Sportiva 850ml Borraccia Senza BPA in...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lESgrE7DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFW628M-it RTP® ● BCAA 4:1:1 + Vit B6 ● 200 Compresse da 1000 mg ● Integratore Alimentare a Base di Aminoacidi Ramificati 411 Intra Pre e Post Workout per Massimizzare il Recupero Muscolare'
+slug: 'B07ZFW628M-it RTP® ● BCAA 4:1:1 + Vit B6 ● 200 Compresse da 1000 mg ●...'
+tags: 
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

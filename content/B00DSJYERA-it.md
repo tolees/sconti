@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417WUDq8r1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DSJYERA-it Sherlock - Complete Series 1-3  6 Dvd  [Edizione: Regno Unito] [Edizione: Regno Unito]'
+slug: 'B00DSJYERA-it Sherlock - Complete Series 1-3 6 Dvd [Edizione: Regno...'
+tags: 
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

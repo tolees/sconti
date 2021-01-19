@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lGEyQIgOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS4MGQL-it Apple iPhone 11  128GB  - Rosso'
+slug: 'B07XS4MGQL-it Apple iPhone 11 128GB - Rosso'
+tags: 
 actualPrice: 735.0 EUR
 currency: EUR
 price: 735.0

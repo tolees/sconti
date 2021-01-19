@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iVdCqFyZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGRW62L-it Desigual Mone azabache Mini Zip Portafoglio da donna  Nero  Nero  Nero     2x9x15 cm  B x H x T '
+slug: 'B07VGRW62L-it Desigual Mone azabache Mini Zip Portafoglio da donna Nero...'
+tags: 
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

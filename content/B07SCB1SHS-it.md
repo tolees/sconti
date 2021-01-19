@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31INl2aodfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCB1SHS-it Levi s Woodward L  Sneaker Uomo  Blu  Navy Blue 17   45 EU'
+slug: 'B07SCB1SHS-it Levi s Woodward L Sneaker Uomo Blu Navy Blue 17 45 EU'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

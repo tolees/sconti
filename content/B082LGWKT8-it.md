@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qCZJn-VnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082LGWKT8-it Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo'
+slug: 'B082LGWKT8-it Asics Gel-Quantum 90 2 Scarpe da Corsa Uomo'
+tags: 
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

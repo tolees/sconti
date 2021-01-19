@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YJOlYFzWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7GEA3O-it Logitech M330 Silent Plus Mouse Wireless  2.4 GHz con Ricevitore USB Nano  1 000 DPI  3 Pulsanti  Batteria Lunga Durata Fino a 24 Mesi  PC/Mac/Laptop  Rosso'
+slug: 'B01K7GEA3O-it Logitech M330 Silent Plus Mouse Wireless 2.4 GHz con...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

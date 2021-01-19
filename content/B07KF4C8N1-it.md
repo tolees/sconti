@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ysx+FD2HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4C8N1-it Levi s HR Decon Iconic BF Skirt Gonna  Blu  Meer in The Middle 0009   36  Taglia Produttore: 30  Donna'
+slug: 'B07KF4C8N1-it Levi s HR Decon Iconic BF Skirt Gonna Blu Meer in The...'
+tags: 
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

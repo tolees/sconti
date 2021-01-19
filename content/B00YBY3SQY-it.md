@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mGmDeS6VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YBY3SQY-it Maybelline New York Classic Volum  Express Mascara  Volume Naturale  Nero'
+slug: 'B00YBY3SQY-it Maybelline New York Classic Volum Express Mascara Volume...'
+tags: 
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

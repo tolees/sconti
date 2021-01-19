@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LTKENqybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QHAPEW6-it Under Armour ColdGear Armour Mock  Maglia Uomo  Blanco  White   M'
+slug: 'B00QHAPEW6-it Under Armour ColdGear Armour Mock Maglia Uomo Blanco White M'
+tags: 
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

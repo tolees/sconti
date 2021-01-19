@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W4yEHaEpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WR4IKZO-it L Oréal Paris Sublime Sun Cellular Protect  Latte Solare Protezione Cellulare IP 50  200 ml'
+slug: 'B00WR4IKZO-it L Oréal Paris Sublime Sun Cellular Protect Latte Solare...'
+tags: 
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

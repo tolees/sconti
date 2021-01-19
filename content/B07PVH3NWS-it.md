@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xU+jhwVgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVH3NWS-it LE 24W Plafoniera LED  Lampada da Soffitto LED Bianco Naturale 4000K  Equivalente a 200W  2200 lumen  Impermeabile IP54  Luce da Soffitto per Cucina Sala Camera da letto Soggiorno Bagno'
+slug: 'B07PVH3NWS-it LE 24W Plafoniera LED Lampada da Soffitto LED Bianco...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

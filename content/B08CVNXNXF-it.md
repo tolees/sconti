@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p0+ESyFcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVNXNXF-it TUTUO Wireless Controller per Nintendo Switch  Bluetooth Joystick Gamepad Sostituzione per JoyCon  Dual Motori Axis Gyro Compatibile con Nintendo Switch PRO  Verde e Rosa '
+slug: 'B08CVNXNXF-it TUTUO Wireless Controller per Nintendo Switch Bluetooth...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

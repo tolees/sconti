@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l7SJl0L0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSGZY8T-it Matrix Reloaded  4K Ultra HD + 2 Blu-Ray '
+slug: 'B07HSGZY8T-it Matrix Reloaded 4K Ultra HD + 2 Blu-Ray'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

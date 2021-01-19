@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jz70TY0ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFV1N2R-it TOUCHBeauty AG-0602AP Kit manicure/pedicure da donna elettrico lima per unghie ed accessori'
+slug: 'B06XFV1N2R-it TOUCHBeauty AG-0602AP Kit manicure/pedicure da donna...'
+tags: 
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

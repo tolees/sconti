@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PV2-xpfWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9T3CGL-it eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con Console Scocca Custodia JoyCon Case Controller Guscio DIY Tasti Colorati Ricambio per Nintendo Switch Trasparente Blu Ghiacciaio '
+slug: 'B08C9T3CGL-it eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con...'
+tags: 
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

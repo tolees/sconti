@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iChg-93yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ3JJ2R-it Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Nero '
+slug: 'B08DJ3JJ2R-it Riyth Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

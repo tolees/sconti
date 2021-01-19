@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZbcYg8NZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KM8QF58-it Nike Sportswear  Zaino Sportivo Unisex Adulto  Nero Black/White  48 x 30 x 15 cm'
+slug: 'B07KM8QF58-it Nike Sportswear Zaino Sportivo Unisex Adulto Nero...'
+tags: 
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

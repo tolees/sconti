@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EHkQ5Hi+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VR2JLP8-it Lee Rider  Jeans Slim  Bleu  Lt Vintage Worn Lp   32W / 30L Uomo'
+slug: 'B07VR2JLP8-it Lee Rider Jeans Slim Bleu Lt Vintage Worn Lp 32W / 30L Uomo'
+tags: 
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

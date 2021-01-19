@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410pX+3RSCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813XYGL9-it adidas Adilette  Ciabatte Donna  Nero  Core Black/Blue Glow/Core Black   44.5 EU'
+slug: 'B0813XYGL9-it adidas Adilette Ciabatte Donna Nero Core Black/Blue...'
+tags: 
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

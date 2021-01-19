@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pCglWH+zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TRTL6D0-it Risoli Piastra Adattatore Per Induzione  Diametro 260 Mm'
+slug: 'B00TRTL6D0-it Risoli Piastra Adattatore Per Induzione Diametro 260 Mm'
+tags: 
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

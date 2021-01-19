@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m1P6QL-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G5CWWRG-it AVM FRITZ!DECT 100 International  Ripetitore DECT per telefoni cordless  spina incorporata  interfaccia in italiano'
+slug: 'B00G5CWWRG-it AVM FRITZ!DECT 100 International Ripetitore DECT per...'
+tags: 
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

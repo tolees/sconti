@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jvbP2n-3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZCNJZH-it Bastone Selfie Treppiede -BlitzWolf 3 in 1 Estensibile Selfie Stick con Bluetooth Remote Shutter Asta per Selfie per iPhone X  Samsung Galaxy s7 e Android 3.5- 6 Pollici Smartphone Rotazione di 360°'
+slug: 'B073ZCNJZH-it Bastone Selfie Treppiede -BlitzWolf 3 in 1 Estensibile...'
+tags: 
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

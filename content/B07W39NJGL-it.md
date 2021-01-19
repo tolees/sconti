@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CZThSvpsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W39NJGL-it Dischetti Struccanti Lavabili in Bamboo 10 Pezzi - Riutilizzabili Due Tipi per Uso Quotidiano e Scrub - Bambù e Cotone Salviette Pad Zero Waste Panno Bellezza Viso Contorno Occhi'
+slug: 'B07W39NJGL-it Dischetti Struccanti Lavabili in Bamboo 10 Pezzi -...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

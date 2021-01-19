@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GhiwXE+jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TN161QP-it Binocolo 10x22  Kktick Compatto e Portabile Telescopio  Impermeabile Anti-Fog per bird watching  calcio  safari  giro turistico  arrampicata  concerti  sport escursioni  campeggio e viaggi nero '
+slug: 'B07TN161QP-it Binocolo 10x22 Kktick Compatto e Portabile Telescopio...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NBePs9BzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6TQ12-it Motorola One Action  Display CinemaVision 6.3" FHD+  128 GB Espandibili  Tripla fotocamera con Action Cam dedicata  12MP+16MP+5MP   Dual Sim  Android 9 Pie - Blue Denim'
+slug: 'B07TT6TQ12-it Motorola One Action Display CinemaVision 6.3" FHD+ 128 GB...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

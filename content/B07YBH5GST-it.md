@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBH5GST-it Vans Colorblock Tee T-Shirt  Multicolore  Sulphur Spring/Black Ynd   Medium Uomo'
+slug: 'B07YBH5GST-it Vans Colorblock Tee T-Shirt Multicolore Sulphur...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

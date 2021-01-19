@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xlrxg4u5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBSBW2P-it LOVABLE Sublim Reggiseno con Ferretto  Blu  Blu 007   4D IT  Taglia Produttore: 36 D  Donna'
+slug: 'B07WBSBW2P-it LOVABLE Sublim Reggiseno con Ferretto Blu Blu 007 4D IT...'
+tags: 
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

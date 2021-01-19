@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515pEtxbkIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D7NXGW9-it eXtremeRate Lofty Remap Kit Programmabile&Trigger Stop per Xbox One S X Controller Mod Chip&Cover Posteriore&Grip&Tasti Posteriori&Blocco Griletto per Xbox One S X Joystick Model 1708 -Rosso'
+slug: 'B08D7NXGW9-it eXtremeRate Lofty Remap Kit Programmabile&Trigger Stop per...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

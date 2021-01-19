@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a0DFo-bYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004PBZIA2-it Seiko Orologio Analogico Automatico Uomo con Cinturino in Acciaio Inox SNKK07K1'
+slug: 'B004PBZIA2-it Seiko Orologio Analogico Automatico Uomo con Cinturino in...'
+tags: 
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

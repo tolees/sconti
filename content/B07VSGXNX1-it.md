@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RiV2Uvm5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSGXNX1-it Pesoforma Biscotti Lampone e Mela - Pasto sostitutivo dimagrante - SOLO 236 Kcal - Ricco in proteine - 8 pasti'
+slug: 'B07VSGXNX1-it Pesoforma Biscotti Lampone e Mela - Pasto sostitutivo...'
+tags: 
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

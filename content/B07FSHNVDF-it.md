@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51H4DiagkDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSHNVDF-it Oral-B Genius 10000N Spazzolino Elettrico  Nero Notte'
+slug: 'B07FSHNVDF-it Oral-B Genius 10000N Spazzolino Elettrico Nero Notte'
+tags: 
 actualPrice: 226.28 EUR
 currency: EUR
 price: 226.28

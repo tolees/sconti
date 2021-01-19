@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+UCUWAldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWX2TQD-it Cuscino Da Viaggio Memory Foam Sidias Cuscino Cervicale Ortopedico Con Omaggio Tappi Maschera Fodera Cuscino Bambini Auto Treno Aereo Cuscino Sfoderabile Lavabile 100% Cotone Velluto 2A Generazione'
+slug: 'B07WWX2TQD-it Cuscino Da Viaggio Memory Foam Sidias Cuscino Cervicale...'
+tags: 
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413F-j4XDhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKM18P7-it Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook 1TB Nero '
+slug: 'B08CKM18P7-it Riyth Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

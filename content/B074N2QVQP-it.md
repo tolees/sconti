@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VR-CFnA6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074N2QVQP-it Tagvo Kit attrezzi per bici  16 in 1 attrezzo multifunzione da bici con kit di patch e leve del pneumatico  kit di attrezzi per riparazione della bicicletta  kit di attrezzi per la riparazione di bici'
+slug: 'B074N2QVQP-it Tagvo Kit attrezzi per bici 16 in 1 attrezzo multifunzione...'
+tags: 
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

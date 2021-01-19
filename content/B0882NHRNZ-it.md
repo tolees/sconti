@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A+6oR9cEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0882NHRNZ-it Aigostar Lampada Solare Giardino Esterno 24pcs LED Luci Solari Giardino Lampade da Esterno per Prato LED Lampade Solari Terra IP44 Impermeabile Solari Luce Bianca Fredda 6500K Paesaggio Strade'
+slug: 'B0882NHRNZ-it Aigostar Lampada Solare Giardino Esterno 24pcs LED Luci...'
+tags: 
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

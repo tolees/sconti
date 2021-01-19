@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u2TQaF-ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PVDTKRK-it D-Link DIR-809 Router Wireless  Tecnologia AC750  4 Porte Gigabit + WAN  3 Antenne Esterne  Modalità Range Extender Wi-Fi  Nero/Antracite'
+slug: 'B00PVDTKRK-it D-Link DIR-809 Router Wireless Tecnologia AC750 4 Porte...'
+tags: 
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

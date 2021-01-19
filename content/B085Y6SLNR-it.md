@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oHtC80JyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085Y6SLNR-it FlowerDas Termometro Frontale  Letture istantanee Accurate  Termometro Digitale a infrarossi Professionale Senza Contatto  per Neonati  Bambini  Adulti'
+slug: 'B085Y6SLNR-it FlowerDas Termometro Frontale Letture istantanee Accurate...'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

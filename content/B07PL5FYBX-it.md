@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LYSYMhK0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PL5FYBX-it Scottonelle Carta Igienica Soffice e Trapuntata  Confezione da 48 Rotoli Maxi  12x4 '
+slug: 'B07PL5FYBX-it Scottonelle Carta Igienica Soffice e Trapuntata Confezione...'
+tags: 
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

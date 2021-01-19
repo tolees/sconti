@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vbnBZswKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K73Q2NC-it Levi s Tank Top Canottiera Sportiva  Bianco  White + 0000   Small Donna'
+slug: 'B07K73Q2NC-it Levi s Tank Top Canottiera Sportiva Bianco White + 0000...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

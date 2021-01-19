@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Xor1muGVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IX5YNV6-it Brother Cabldp1 Scan-N-Cut - Punta da Taglio per Taglio Standard  Colore: Argento'
+slug: 'B00IX5YNV6-it Brother Cabldp1 Scan-N-Cut - Punta da Taglio per Taglio...'
+tags: 
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

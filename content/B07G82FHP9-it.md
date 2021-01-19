@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nm6JpNjtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G82FHP9-it Polar Vantage M  Sportwatch per Allenamenti Multisport  Corsa e Nuoto  Impermeabile con GPS e Cardiofrequenzimetro Integrato  46 mm  Unisex – Adulto  Nero  M/L'
+slug: 'B07G82FHP9-it Polar Vantage M Sportwatch per Allenamenti Multisport...'
+tags: 
 actualPrice: 189.9 EUR
 currency: EUR
 price: 189.9

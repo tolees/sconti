@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C--U3NKxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5PJLN9-it Widamin 6 Pezzi  Pellicola Protettiva per Mi Band 5  Ultra Sottile TPU Materiale  [Non Vetro temperato]  [Alta Definizione]  Copertura Completa Pellicola Compatibile con Xiaomi Mi Band 5'
+slug: 'B08B5PJLN9-it Widamin 6 Pezzi Pellicola Protettiva per Mi Band 5 Ultra...'
+tags: 
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

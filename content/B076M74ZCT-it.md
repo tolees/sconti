@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ra9rqyR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076M74ZCT-it Kenwood KVL4170S Impastatrice Planetaria Chef XL  Robot da Cucina Mixer  con Frullatore e Tritacarne  1200 W  8 velocità  6.7 Litri  Acciaio  Argento'
+slug: 'B076M74ZCT-it Kenwood KVL4170S Impastatrice Planetaria Chef XL Robot da...'
+tags: 
 actualPrice: 419.99 EUR
 currency: EUR
 price: 419.99

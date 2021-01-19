@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WfG3mwrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ3W5XN-it Clarks Step Allena Go  Scarpe da Ginnastica Basse Donna  Beige  Black Black   37.5 EU'
+slug: 'B07TQ3W5XN-it Clarks Step Allena Go Scarpe da Ginnastica Basse Donna...'
+tags: 
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

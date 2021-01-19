@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51R8JHHfwdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6ZMRY4-it Ulmisfee Giochi Bimbi 1 Anno Educativi Giochi Legno Bambin Cubi Legno Giochi Montessori'
+slug: 'B07F6ZMRY4-it Ulmisfee Giochi Bimbi 1 Anno Educativi Giochi Legno Bambin...'
+tags: 
 actualPrice: 46.88 EUR
 currency: EUR
 price: 46.88

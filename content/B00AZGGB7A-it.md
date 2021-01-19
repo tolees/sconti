@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uH-dI0mSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AZGGB7A-it SMIFFYS Maschera da gorilla  nero  con capelli  schiuma di lattice'
+slug: 'B00AZGGB7A-it SMIFFYS Maschera da gorilla nero con capelli schiuma di...'
+tags: 
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

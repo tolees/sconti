@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4151Bxx0yFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08977CRLX-it Hot Mom Barriera letto extra-large 150 cm  dark green '
+slug: 'B08977CRLX-it Hot Mom Barriera letto extra-large 150 cm dark green'
+tags: 
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

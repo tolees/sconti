@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31o8J5XejSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B67ZK2P-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Nero  Black Fit:Reg Fit   Medium Uomo'
+slug: 'B07B67ZK2P-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa Nero...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

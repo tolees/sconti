@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FtK52AF9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDKJ7TJ-it Desigual Bols Black White Coro - Borsa da donna  1 x 40 5 x 36 2 cm  colore: Bianco'
+slug: 'B07VDKJ7TJ-it Desigual Bols Black White Coro - Borsa da donna 1 x 40 5 x...'
+tags: 
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

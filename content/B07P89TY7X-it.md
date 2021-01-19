@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mn0lTxGXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P89TY7X-it HOMCOM Schermo di Proiezione 100 Pollici Regolabile Ottimo Contrasto Tessuto Metallo 203 x 152 cm Bianco Nero'
+slug: 'B07P89TY7X-it HOMCOM Schermo di Proiezione 100 Pollici Regolabile Ottimo...'
+tags: 
 actualPrice: 42.36 EUR
 currency: EUR
 price: 42.36

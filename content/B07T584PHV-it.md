@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OiKxcviYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T584PHV-it Seghetto Alternativo a Batteria  TECCPO Sega Elettrico  2×2.0Ah Batterie 18V  1 Ora Ricarica Rapida 2.0A  Illuminazione LED  0~2300rpm  Angolo Max 45° con 6 Lame  Scatola Rubusta - TDJA22P'
+slug: 'B07T584PHV-it Seghetto Alternativo a Batteria TECCPO Sega Elettrico...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

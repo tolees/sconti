@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Wd0TsltAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BWZ0YFW-it Havaianas Slim Crystal Glamour SW  Infradito Donna  Grigio  Steel Grey 5178   41/42 EU'
+slug: 'B01BWZ0YFW-it Havaianas Slim Crystal Glamour SW Infradito Donna Grigio...'
+tags: 
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

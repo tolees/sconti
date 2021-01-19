@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ohOEUP7rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083B7VQJR-it Grsta Borraccia Termica Isolante in Acciaio Inox per Acqua  Portatile Borracce Termiche 350ml/Viola Chiaro  Bottiglia per Acqua Senza BPA per Bambini  Scuola  Palestra  Sport  Bici  Lavoro e Viaggio'
+slug: 'B083B7VQJR-it Grsta Borraccia Termica Isolante in Acciaio Inox per Acqua...'
+tags: 
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

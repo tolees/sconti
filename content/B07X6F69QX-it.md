@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415bw9FOYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6F69QX-it HolyHigh Cuffie Bluetooth Senza Fili Auricolari in Ear Bluetooth 5.0 Doppio Dinamico Driver 3000mAh Scatola di Ricarica 100H Playtime Hi-Fi Stereo Cancellazione del Rumore Tocco Controllo'
+slug: 'B07X6F69QX-it HolyHigh Cuffie Bluetooth Senza Fili Auricolari in Ear...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

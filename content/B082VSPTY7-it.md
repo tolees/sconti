@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nC7ZvLl0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VSPTY7-it Coccolino - Ammorbidente Concentrato  Delicato e Soffice - 750ml'
+slug: 'B082VSPTY7-it Coccolino - Ammorbidente Concentrato Delicato e Soffice -...'
+tags: 
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

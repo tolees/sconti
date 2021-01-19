@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qMi0gXUrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VSVP7L-it Maizena - Amido di Mais  per Dolci Soffici e Leggeri - 250 g'
+slug: 'B082VSVP7L-it Maizena - Amido di Mais per Dolci Soffici e Leggeri - 250 g'
+tags: 
 actualPrice: 0.96 EUR
 currency: EUR
 price: 0.96

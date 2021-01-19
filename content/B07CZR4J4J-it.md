@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4181w3LeoVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZR4J4J-it NEUTRO ROBERTS Doccia Shampoo Tonificante - 6 Confezioni da 250 ml - Totale: 1500 ml'
+slug: 'B07CZR4J4J-it NEUTRO ROBERTS Doccia Shampoo Tonificante - 6 Confezioni...'
+tags: 
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

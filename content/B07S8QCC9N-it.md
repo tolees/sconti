@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311DXpHYKhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8QCC9N-it PUMA Smash V2 L  Scarpe da Ginnastica Unisex-Adulto  Blu Peacoat Tapioca Team Gold White  37 EU'
+slug: 'B07S8QCC9N-it PUMA Smash V2 L Scarpe da Ginnastica Unisex-Adulto Blu...'
+tags: 
 actualPrice: 34.69 EUR
 currency: EUR
 price: 34.69

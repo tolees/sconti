@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-bxNFFs7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0795CVR1D-it Puma Liga  Maglietta Uomo  Viola  Prism Violet White   XL'
+slug: 'B0795CVR1D-it Puma Liga Maglietta Uomo Viola Prism Violet White XL'
+tags: 
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FrMm7MKrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074QQZ9JV-it Telecomando sostitutivo per TV TELEFUNKEN di One For All – Funziona con TUTTI i televisori Telefunken – Il telecomando sostitutivo ideale - nero -URC1918'
+slug: 'B074QQZ9JV-it Telecomando sostitutivo per TV TELEFUNKEN di One For All –...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

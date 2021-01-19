@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zKxqJdHJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001OHWAA6-it Gran Cereale Biscotti Gran Cereale al Cioccolato  Biscotti dal Gusto Pieno Ricchi di Fibra e Fosforo - 230 g'
+slug: 'B001OHWAA6-it Gran Cereale Biscotti Gran Cereale al Cioccolato Biscotti...'
+tags: 
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

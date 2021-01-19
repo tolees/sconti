@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317A9Kb3OiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJ32XDT-it FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Nero '
+slug: 'B08BJ32XDT-it FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

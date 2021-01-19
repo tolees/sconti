@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BPByQFT+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKW3T3Y-it DIYARTS Tirare Indietro Il Modello di Auto Kit Mini Veicoli in Lega Muffa Giocattolo Bambini Tasca Auto Giocattolo Bambino Regalo Boy Compleanno Gioco di Puzzle Regalo  C '
+slug: 'B07TKW3T3Y-it DIYARTS Tirare Indietro Il Modello di Auto Kit Mini...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

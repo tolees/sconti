@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RqVzsqZmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFQYD1D-it Altoparlante Bluetooth Tribit XSound Go 12W Altoparlante wireless portatile  IPX7 impermeabile  Portata Bluetooth 20m'
+slug: 'B07HFQYD1D-it Altoparlante Bluetooth Tribit XSound Go 12W Altoparlante...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GR6TrSE5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y84K3BD-it Zacro Ring Light LED  LED Luce ad Anello for YouTube Video and Makeup  LED Camera Light with Cell Phone Holder Desktop LED Lamp with 3 Light Modes & 10 Luminosità Regolabile'
+slug: 'B07Y84K3BD-it Zacro Ring Light LED LED Luce ad Anello for YouTube Video...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r-dovkUoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZS5VJ9-it JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini  Drizzle  M Uomo'
+slug: 'B083ZS5VJ9-it JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

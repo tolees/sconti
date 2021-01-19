@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415uVCj9lNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXS3BD8-it Swarovski Orecchini Stud Nice  Bianco  Placcato Oro'
+slug: 'B07TXS3BD8-it Swarovski Orecchini Stud Nice Bianco Placcato Oro'
+tags: 
 actualPrice: 38.12 EUR
 currency: EUR
 price: 38.12

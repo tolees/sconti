@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s0iY9AZvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FBAF93W-it Lacoste Sport L1230 Polo Sport Ultraleggera  Blu  Marine 166   Medium Uomo'
+slug: 'B00FBAF93W-it Lacoste Sport L1230 Polo Sport Ultraleggera Blu Marine 166...'
+tags: 
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

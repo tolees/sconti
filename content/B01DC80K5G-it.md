@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cwQNaAxrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DC80K5G-it Kimbo Capsule di Caffè Espresso Sublime  Kimbo UNO System  6 Pacchi da 16 Capsule  Totale 96 Capsule '
+slug: 'B01DC80K5G-it Kimbo Capsule di Caffè Espresso Sublime Kimbo UNO System 6...'
+tags: 
 actualPrice: 15.3 EUR
 currency: EUR
 price: 15.3

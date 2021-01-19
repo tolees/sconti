@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KvSSiE30L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH589SH-it Havaianas Slim 4000030  Infradito Donna  Rosa  Hollywood Rose 0064   37/38 EU'
+slug: 'B07FH589SH-it Havaianas Slim 4000030 Infradito Donna Rosa Hollywood Rose...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cIQMwrPML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKKNK5J-it STN Compatibile con Xiaomi Mi Band 5 Smart Strap Cinturini di Ricambio in Silicone per Xiaomi Mi Band 5 Smart Bracelet Cinturino Display a Colori NFC  14PCS '
+slug: 'B08CKKNK5J-it STN Compatibile con Xiaomi Mi Band 5 Smart Strap Cinturini...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

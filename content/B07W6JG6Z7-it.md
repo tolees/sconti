@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a-hd-W1LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6JG6Z7-it Logitech MX Master 3 Mouse Wireless Avanzato  Ricevitore Bluetooth o USB 2.4 GHz  Scorrimento Rapido  4000 DPI Qualsiasi Superficie  Ergonomico  7 Pulsanti  PC/Mac/Laptop/iPadOS  Grigio  Scuro '
+slug: 'B07W6JG6Z7-it Logitech MX Master 3 Mouse Wireless Avanzato Ricevitore...'
+tags: 
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sIAc60nVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF52DX6-it Levi s T-Shirt  Multicolore  2 Pack Tee White +/Mineral Black 0000   Large Donna'
+slug: 'B07KF52DX6-it Levi s T-Shirt Multicolore 2 Pack Tee White +/Mineral...'
+tags: 
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

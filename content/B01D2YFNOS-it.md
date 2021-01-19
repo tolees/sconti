@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p9wkK7B7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D2YFNOS-it Neoviva - Cuscino imbottito a forma di margherita  con 7 petali  Tessuto  Polka Dots Tango Rosso  Margherita'
+slug: 'B01D2YFNOS-it Neoviva - Cuscino imbottito a forma di margherita con 7...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L9K1NWS-it Pandora Anello con motivo Donna vermeil - 180880CZ-52'
+tags: 
 actualPrice: 54.42 EUR
 currency: EUR
 price: 54.42

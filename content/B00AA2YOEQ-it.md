@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aLELdQGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AA2YOEQ-it Goleador Maxi Shock  la Doppia Caramella Gommosa Ricoperta di Zucchero  Box da 130 Pezzi  Frizzante con Gusti Assortiti  2 Caramelle per Incarto  Ideale per Feste per Bambini'
+slug: 'B00AA2YOEQ-it Goleador Maxi Shock la Doppia Caramella Gommosa Ricoperta...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

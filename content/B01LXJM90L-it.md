@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sngl8sezL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXJM90L-it Specchio Trucco 8 LED Specchio Cosmetico Portatile Pieghevole con Supporto Regolabile Accessorio Eccellente per la Bellezza - Duomishu'
+slug: 'B01LXJM90L-it Specchio Trucco 8 LED Specchio Cosmetico Portatile...'
+tags: 
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

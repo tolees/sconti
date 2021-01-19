@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419YW6oBlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NIDY9ZS-it PowerWalker VI 850SE LCD / IEC  UPS  850 VA 4 AC AC Interactive Line - Alimentazione continua    UPS   850 VA  480 W  170 V  280 V  230 V   Nero'
+slug: 'B00NIDY9ZS-it PowerWalker VI 850SE LCD / IEC UPS 850 VA 4 AC AC...'
+tags: 
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

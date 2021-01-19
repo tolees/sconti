@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+4KZEY4NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LD5BR84-it Nivea Men Doccia Shampoo Energy  250 ml'
+slug: 'B01LD5BR84-it Nivea Men Doccia Shampoo Energy 250 ml'
+tags: 
 actualPrice: 1.24 EUR
 currency: EUR
 price: 1.24

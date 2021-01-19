@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31z-mOhX7ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9TNVXJ-it Moleskine  Borsa Porta PC per Laptop  Tablet  iPad e Notebook fino a 13    38 x 15 x 27 cm  Blu Zaffiro'
+slug: 'B07G9TNVXJ-it Moleskine Borsa Porta PC per Laptop Tablet iPad e Notebook...'
+tags: 
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

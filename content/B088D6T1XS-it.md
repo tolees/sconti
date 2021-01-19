@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HehIXLzzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D6T1XS-it 【bassi potenti】Auricolari Bluetooth  IHOUMI Cuffie Bluetooth 5.1 Senza Fili  TWS Ear-In Cuffie con Custodia Di Ricarica Portatile  Cancellazione del rumore  3D Mic-Incorporato per iPhone/Android'
+slug: 'B088D6T1XS-it 【bassi potenti】Auricolari Bluetooth IHOUMI Cuffie...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21DUHzGfZoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPX7BBC-it Samsung Memorie Duo Plus USB Flash Drive  USB 3.1  Type-C  Velocità di Lettura Fino a 400 MB/s  256 GB  Grigio  MUF-256DB '
+slug: 'B07HPX7BBC-it Samsung Memorie Duo Plus USB Flash Drive USB 3.1 Type-C...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

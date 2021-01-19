@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UUa9ovD5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DDN6S7R-it Dash Detersivo Lavatrice Liquido Primavera  Formato Convenienza 95 Lavaggi  5 Confezioni da 19 Lavaggi'
+slug: 'B08DDN6S7R-it Dash Detersivo Lavatrice Liquido Primavera Formato...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

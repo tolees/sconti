@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BCjQ7MgAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S83K7FG-it ATMOKO Massaggiatore Plantare Impastamento Shiatu Profondo  Massaggiatore Piedi Elettrico con 26 Nodi Massaggianti  Funzione di calore  Ideale per la famiglia  insegnanti  ballerini  lavoratori'
+slug: 'B07S83K7FG-it ATMOKO Massaggiatore Plantare Impastamento Shiatu Profondo...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

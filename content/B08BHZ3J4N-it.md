@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h0K0TqalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHZ3J4N-it Ring Light 10   LED Luce ad Anello di Luce Treppiedi con 3 Modalità Colore e 10 Luminosità  per la Tiktok Fotografia Video di YouTube /Streaming Live/Trucco'
+slug: 'B08BHZ3J4N-it Ring Light 10 LED Luce ad Anello di Luce Treppiedi con 3...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

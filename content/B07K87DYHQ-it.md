@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GOq6XdMfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K87DYHQ-it Cressi Floating Mattress Lounger  Materassino Gonfiabile Mare e Nuoto Unisex – Adulto  Azzuro  70 x 183 cm'
+slug: 'B07K87DYHQ-it Cressi Floating Mattress Lounger Materassino Gonfiabile...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FHpGRbyuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNLQ51X-it Levi s Crewneck 1 T-Shirt  Blu  2pk Slim Crew Dress Blues X Riverside S 0009   X-Small  Pacco da 2  Uomo'
+slug: 'B07TNLQ51X-it Levi s Crewneck 1 T-Shirt Blu 2pk Slim Crew Dress Blues X...'
+tags: 
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

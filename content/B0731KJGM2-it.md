@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eov7TdHOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0731KJGM2-it Vero Moda Vmava Plain SS Top Ga Noos T-Shirt  Bianco  Snow White Snow White   36  Taglia Produttore: Small  Donna'
+slug: 'B0731KJGM2-it Vero Moda Vmava Plain SS Top Ga Noos T-Shirt Bianco Snow...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

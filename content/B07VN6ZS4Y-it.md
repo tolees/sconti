@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ve9eu8dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN6ZS4Y-it YAMAMAY® Slip Costume Brasiliana Tinta Unita con Inserti in Lurex  Doppi Lacci sui Fianchi- Mirage'
+slug: 'B07VN6ZS4Y-it YAMAMAY® Slip Costume Brasiliana Tinta Unita con Inserti...'
+tags: 
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

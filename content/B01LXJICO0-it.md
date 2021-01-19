@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416uSUxfpuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXJICO0-it BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori + 1 mina HB da 0.7 mm  Pacco da 1 Penna + 12 Ricariche   Ottime per l Ufficio'
+slug: 'B01LXJICO0-it BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori...'
+tags: 
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

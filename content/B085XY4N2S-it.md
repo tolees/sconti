@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hQ-LqTs+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XY4N2S-it Electrolux PA91-404GY Purificatore d aria connesso con protezione antibatteria e filtro agli odori sgradevoli  fino a 92 mq  Grigio Chiaro'
+slug: 'B085XY4N2S-it Electrolux PA91-404GY Purificatore d aria connesso con...'
+tags: 
 actualPrice: 369.0 EUR
 currency: EUR
 price: 369.0

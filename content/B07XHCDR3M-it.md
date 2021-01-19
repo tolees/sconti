@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21GUgKyplvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHCDR3M-it Xiaomi Desk Lamp 1S  Lampada Smart a LED da Scrivania  4 Modalità di Luce  Temperatura Colore Regolabile  Controllabile in Remoto'
+slug: 'B07XHCDR3M-it Xiaomi Desk Lamp 1S Lampada Smart a LED da Scrivania 4...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412vGSYHpiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CG5KG7E-it Campingaz Y980000000 Regolatore di Pressione del Gas Accessorio per Barbecue/Grill'
+slug: 'B00CG5KG7E-it Campingaz Y980000000 Regolatore di Pressione del Gas...'
+tags: 
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

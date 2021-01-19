@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pfLCIoWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPWWLMG-it United Colors of Benetton 2BA2535T5 Giacca  Turchese  Campanula 0n1   48 Donna'
+slug: 'B07TPWWLMG-it United Colors of Benetton 2BA2535T5 Giacca Turchese...'
+tags: 
 actualPrice: 28.83 EUR
 currency: EUR
 price: 28.83

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ankox4nyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGR4QPH-it Whiskas Selezione in Salsa 84 Buste da 100 gr al Gusto di Pollo  Anatra  Tacchino e Carni Bianche'
+slug: 'B07HGR4QPH-it Whiskas Selezione in Salsa 84 Buste da 100 gr al Gusto di...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

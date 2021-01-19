@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-XzDHh9QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00008MORG-it Max Factor Lipfinity Lip Colour  Rossetto Lunga Durata e Gloss Idratante con Applicazione Bifase  Nuance 110 Passionate  2.3 ml e 1.9 g'
+slug: 'B00008MORG-it Max Factor Lipfinity Lip Colour Rossetto Lunga Durata e...'
+tags: 
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

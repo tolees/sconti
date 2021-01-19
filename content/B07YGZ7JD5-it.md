@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iqLNmpPWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGZ7JD5-it Kingston Canvas Select Plus SDCS2/128GB Scheda microSD Classe 10 con Adattatore SD Incluso  128 GB'
+slug: 'B07YGZ7JD5-it Kingston Canvas Select Plus SDCS2/128GB Scheda microSD...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

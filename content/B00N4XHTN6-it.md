@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DLf0tgs5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N4XHTN6-it Keter 68X39X173H Stilo Tall - Armadio tuttopiani  3 ripiani regolabili  Grigio'
+slug: 'B00N4XHTN6-it Keter 68X39X173H Stilo Tall - Armadio tuttopiani 3 ripiani...'
+tags: 
 actualPrice: 54.54 EUR
 currency: EUR
 price: 54.54

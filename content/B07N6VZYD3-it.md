@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TNvGs9ACL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6VZYD3-it ghd Glide hot brush  la 1° spazzola professionale ghd per lisciare i capelli. Liscia e disciplina i capelli asciutti  velocemente e con facilità'
+slug: 'B07N6VZYD3-it ghd Glide hot brush la 1° spazzola professionale ghd per...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

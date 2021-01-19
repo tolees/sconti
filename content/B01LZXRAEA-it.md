@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qBJ4ZTbCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZXRAEA-it Regina  Carta Igienica - Pacco da 4 Pezzi'
+slug: 'B01LZXRAEA-it Regina Carta Igienica - Pacco da 4 Pezzi'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

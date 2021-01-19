@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311Im9fLBDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XQBT9HK-it Nivea - Sun  Latte Solare Carotene -  200 Ml'
+slug: 'B00XQBT9HK-it Nivea - Sun Latte Solare Carotene - 200 Ml'
+tags: 
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

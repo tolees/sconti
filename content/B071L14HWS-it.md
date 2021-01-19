@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rc-6jwpOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071L14HWS-it Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Blue Yellow 7  40 EU'
+slug: 'B071L14HWS-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Blue...'
+tags: 
 actualPrice: 64.76 EUR
 currency: EUR
 price: 64.76

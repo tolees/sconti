@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m2hoN65rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDQP2BC-it Tommy Hilfiger Tjw Waffle Hybrid Longsleeve Maglia Sportiva  Blu  Blue Cbk   36  Taglia Produttore: Small  Donna'
+slug: 'B07RDQP2BC-it Tommy Hilfiger Tjw Waffle Hybrid Longsleeve Maglia...'
+tags: 
 actualPrice: 32.16 EUR
 currency: EUR
 price: 32.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eTFUJOrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HEQZ24M-it Timberland 6 Inch Premium Waterproof  Stivali Donna  Pelle  Materiale suola: Gomma  Nero  Black Nubuck   38 EU'
+slug: 'B00HEQZ24M-it Timberland 6 Inch Premium Waterproof Stivali Donna Pelle...'
+tags: 
 actualPrice: 82.11 EUR
 currency: EUR
 price: 82.11

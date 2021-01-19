@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-cfEBPlWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ18X3Z-it Jade Roller Rose Quarzo Viso Giada Roller Gua Sha massaggio strumento di nuova versione naturale ringiovanisce pietra per anti-invecchiamento collo Wrinkgless'
+slug: 'B07JZ18X3Z-it Jade Roller Rose Quarzo Viso Giada Roller Gua Sha...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-vhvQNDnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SN4SR5W-it Havaianas Top Animals  Infradito Donna  Multicolore  Sand Grey/Dark Cooper 9413   39/40 EU'
+slug: 'B07SN4SR5W-it Havaianas Top Animals Infradito Donna Multicolore Sand...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

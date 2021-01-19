@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KRpcHnUUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVMQ2C5-it Frontline | TriAct Spot On Cani| Protezione da pulci  zecche  mosche cavalline pappataci | 6 Pipette | Cane XL  40 - 60 Kg '
+slug: 'B07BVMQ2C5-it Frontline | TriAct Spot On Cani| Protezione da pulci...'
+tags: 
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

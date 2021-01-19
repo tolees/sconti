@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412S1JlFoQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9GMFF5-it Spigen SteadiBoost Caricatore Wireless Veloce 15W Qi Certificato per iPhone SE 2020 11 11 PRO 11 PRO Max XS XR XS Max X 8 8 Plus Galaxy S20 s10 Note 20 Ultra Piatto Stand Ricarica Wireless Veloce'
+slug: 'B07M9GMFF5-it Spigen SteadiBoost Caricatore Wireless Veloce 15W Qi...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

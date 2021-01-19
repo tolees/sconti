@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Zxjk4O1SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LLKGZ7-it MKTOSASA - Zaino in nylon resistente 600D con chiusura lampo  tasche frontali e manico rinforzato - 29x41x18 Nero'
+slug: 'B085LLKGZ7-it MKTOSASA - Zaino in nylon resistente 600D con chiusura...'
+tags: 
 actualPrice: 23.85 EUR
 currency: EUR
 price: 23.85

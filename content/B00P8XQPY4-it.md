@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ws3BDUAwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P8XQPY4-it Sandisk Cruzer Ultra Pen Drive USB 3.0  128 GB  Nero'
+slug: 'B00P8XQPY4-it Sandisk Cruzer Ultra Pen Drive USB 3.0 128 GB Nero'
+tags: 
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

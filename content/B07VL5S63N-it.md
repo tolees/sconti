@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51R5nC2E1EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL5S63N-it YAMAMAY® Costume Push Push up Tinta Unita Mare Donna con Allacciatura al Collo Regolabile - Mirage'
+slug: 'B07VL5S63N-it YAMAMAY® Costume Push Push up Tinta Unita Mare Donna con...'
+tags: 
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

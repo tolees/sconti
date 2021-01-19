@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31trdVqeGNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813WLZJZ-it adidas Superstar J  Scarpe da Ginnastica Unisex-Baby  Ftwr White/Ftwr White/Ftwr White  38 EU'
+slug: 'B0813WLZJZ-it adidas Superstar J Scarpe da Ginnastica Unisex-Baby Ftwr...'
+tags: 
 actualPrice: 35.34 EUR
 currency: EUR
 price: 35.34

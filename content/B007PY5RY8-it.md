@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ziyKz8iDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PY5RY8-it Crocs  Winter Puff Boot K  Stivaletti  Unisex - bambino  Blu  NARD   28/29'
+slug: 'B007PY5RY8-it Crocs Winter Puff Boot K Stivaletti Unisex - bambino Blu...'
+tags: 
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

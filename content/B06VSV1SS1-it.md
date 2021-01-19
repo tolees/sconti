@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TtTys83cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VSV1SS1-it Hoover SR 01 Scopa Elettrica con Sacco 1 5 litri  Syrene  Blu'
+slug: 'B06VSV1SS1-it Hoover SR 01 Scopa Elettrica con Sacco 1 5 litri Syrene Blu'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

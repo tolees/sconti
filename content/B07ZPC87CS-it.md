@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4162DHAQMGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPC87CS-it IKOHS CUTBOT - Rasaerba robotizzato Automatico con Batteria  Superficie del Prato Fino a 500 m²  Pendenza Massima Fino al 30%  4 Lame orientabili per Un Taglio del Prato preciso e Silenzioso  Nero '
+slug: 'B07ZPC87CS-it IKOHS CUTBOT - Rasaerba robotizzato Automatico con...'
+tags: 
 actualPrice: 499.95 EUR
 currency: EUR
 price: 499.95

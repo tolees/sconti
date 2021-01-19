@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZLDzaEEhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU6NK0Z-it Tommy Hilfiger New Denton 3.5 Belt Cintura  Marrone  Dark Tan 257   100 Uomo'
+slug: 'B01MU6NK0Z-it Tommy Hilfiger New Denton 3.5 Belt Cintura Marrone Dark...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

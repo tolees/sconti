@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312GDrUk3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FCNDMNN-it Ankermann BRIX NUC 15-Watt Mini Office Work PC 8GB RAM 480 GB SSD Windows 10 PRO Intel NUC 10 Intel Core i3-10110U 2x 2.60GHz Office Professional'
+slug: 'B08FCNDMNN-it Ankermann BRIX NUC 15-Watt Mini Office Work PC 8GB RAM 480...'
+tags: 
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

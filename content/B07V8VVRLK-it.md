@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8VVRLK-it Just Dance 2020 - PlayStation 4'
+tags: 
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

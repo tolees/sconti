@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AKYYT49vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5JFD11-it Kalawen Binocolo 10x42 Azoto Professionale Potente Compatto Impermeabile BAK4 Prisma a Tetto Rivistimento Correzione di Fase FMC Migliorato da Birdwatching Teatro Viaggio Adulti Bambini con Accessori'
+slug: 'B07R5JFD11-it Kalawen Binocolo 10x42 Azoto Professionale Potente...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

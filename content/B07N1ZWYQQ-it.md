@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hn7KCiT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1ZWYQQ-it Diadora - Sneakers Jog Light C per Uomo e Donna  EU 44 '
+slug: 'B07N1ZWYQQ-it Diadora - Sneakers Jog Light C per Uomo e Donna EU 44'
+tags: 
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

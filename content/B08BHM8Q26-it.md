@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VxxyLXQvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHM8Q26-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari Cancellazione del rumore CVC 8.0 Stereo 3D Wireless Cuffie Sportive IPX7 Impermeabili Riduzione per Apple AirPods/Android/iPhone Cuffie In Ear'
+slug: 'B08BHM8Q26-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

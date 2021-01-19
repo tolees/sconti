@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SbrBmI87L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CM26HH-it Britax Römer seggiolino auto da 9 mesi a 12 anni  9-36 Kg   EVOLVA 123 SL SICT  ISOFIX  Gruppo 1/2/3  Storm Grey'
+slug: 'B076CM26HH-it Britax Römer seggiolino auto da 9 mesi a 12 anni 9-36 Kg...'
+tags: 
 actualPrice: 171.55 EUR
 currency: EUR
 price: 171.55

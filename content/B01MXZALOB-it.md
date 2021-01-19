@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rozrVf1IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXZALOB-it Garmin Fenix 5s Orologio Sportivo  Argento/Turchese'
+slug: 'B01MXZALOB-it Garmin Fenix 5s Orologio Sportivo Argento/Turchese'
+tags: 
 actualPrice: 470.72 EUR
 currency: EUR
 price: 470.72

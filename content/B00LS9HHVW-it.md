@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wm3ti+doL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LS9HHVW-it K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Nero  Black   Small  Taglia produttore: S '
+slug: 'B00LS9HHVW-it K-Way le Vrai 3.0 Claude Giacca Impermeabile Uomo Nero...'
+tags: 
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412QzYjZAxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQW1RKC-it Drone GPS Con Motore Brushless Potensic Drone D80 WIFI Con Telecamera 2K Full HD Dual GPS Funzione di RTH  Altitudine Attesa  Allarme di Bassa Pressione e Segnale Debole Dotato di Valigetta'
+slug: 'B07CQW1RKC-it Drone GPS Con Motore Brushless Potensic Drone D80 WIFI Con...'
+tags: 
 actualPrice: 178.49 EUR
 currency: EUR
 price: 178.49

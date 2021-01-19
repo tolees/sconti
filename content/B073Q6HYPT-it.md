@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z49yrbt1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073Q6HYPT-it Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Blue Navy Silver 4  48 EU'
+slug: 'B073Q6HYPT-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Blue...'
+tags: 
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

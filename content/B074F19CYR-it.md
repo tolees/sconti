@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yaEJ0yZ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074F19CYR-it Colgate Dentifricio Tripla Azione - Pacco da 12 x 75 ml - Totale: 900 ml'
+slug: 'B074F19CYR-it Colgate Dentifricio Tripla Azione - Pacco da 12 x 75 ml -...'
+tags: 
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

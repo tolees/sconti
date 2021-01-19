@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BN1QW7F-it Vans Ward Platform  Scarpe da Ginnastica Donna  Canvas Black/White 187  37 EU'
+slug: 'B07BN1QW7F-it Vans Ward Platform Scarpe da Ginnastica Donna Canvas...'
+tags: 
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

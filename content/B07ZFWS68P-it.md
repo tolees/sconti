@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415kRpVr7fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFWS68P-it RTP® CREATINA in Polvere ● 500g ● Creatina Monoidrata CREAPURE® Booster per lo Sviluppo Muscolare ● Ottima Solubilità  inodore  insapore'
+slug: 'B07ZFWS68P-it RTP® CREATINA in Polvere ● 500g ● Creatina Monoidrata...'
+tags: 
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

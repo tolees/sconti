@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lvqU9lySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYJL21Z-it SanDisk Ultra Dual Drive Go  Unità USB Flash Type-C  256 GB  Nero'
+slug: 'B07YYJL21Z-it SanDisk Ultra Dual Drive Go Unità USB Flash Type-C 256 GB...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

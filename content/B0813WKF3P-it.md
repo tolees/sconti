@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LHlTksKgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813WKF3P-it adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  36 2/3 EU'
+slug: 'B0813WKF3P-it adidas Sleek W Scarpe da Ginnastica Donna Ftwr...'
+tags: 
 actualPrice: 36.76 EUR
 currency: EUR
 price: 36.76

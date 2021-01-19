@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cQYt0OfEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JK81MT-it Marchio Amazon - find. Blusa in Velluto con Punto Smock Donna  Nero  Schwarz   42  Label: S'
+slug: 'B073JK81MT-it Marchio Amazon - find. Blusa in Velluto con Punto Smock...'
+tags: 
 actualPrice: 8.41 EUR
 currency: EUR
 price: 8.41

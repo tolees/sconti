@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HvtpgSzyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLZNYNM-it VIAKAL Detersivo Anticalcare Spray Fresco Profumo  Maxi Formato 10 Pezzi da 515 ml'
+slug: 'B08BLZNYNM-it VIAKAL Detersivo Anticalcare Spray Fresco Profumo Maxi...'
+tags: 
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

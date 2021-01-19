@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312uMHLzeCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJSW6PT-it Desigual Mone azabache Mini Zip Portafoglio da donna  Bianco  Bianco  Bianco     2x9x15 cm  B x H x T '
+slug: 'B07VJSW6PT-it Desigual Mone azabache Mini Zip Portafoglio da donna...'
+tags: 
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b5ij0AGXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K36SKMK-it Durex Contatto Comfort Preservativi Sottili ad Alta Sensibilità con Barattolo Contenitore in Omaggio  100 Profilattici'
+slug: 'B07K36SKMK-it Durex Contatto Comfort Preservativi Sottili ad Alta...'
+tags: 
 actualPrice: 43.78 EUR
 currency: EUR
 price: 43.78

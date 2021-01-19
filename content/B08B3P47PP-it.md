@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fvsOIAERL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3P47PP-it etguuds Cavo USB C Corto [ 30cm/0.3m  2Pezzi ]  Ricarica Rapida 4.2A Cavo USB Type C in Nylon Compatibile per Samsung Galaxy S10 S10 Lite S10e S9 S8 S20  Note 10 9  A41 A40 A50 A51  Xiaomi  Sony'
+slug: 'B08B3P47PP-it etguuds Cavo USB C Corto [ 30cm/0.3m 2Pezzi ] Ricarica...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

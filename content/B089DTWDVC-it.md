@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VNrlIn8LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DTWDVC-it Superzings.  blu  Blu  - M744'
+slug: 'B089DTWDVC-it Superzings. blu Blu - M744'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

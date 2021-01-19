@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O+YkFKBAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJ3ZDTN-it Aigostar - Lampada da scrivania con protezione degli occhi 15W LED  4000k  Ra≥95  privo di sfarfallio e luce naturale  touch control dimmerabile. Paralume e corpo regolabile.'
+slug: 'B08BJ3ZDTN-it Aigostar - Lampada da scrivania con protezione degli occhi...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

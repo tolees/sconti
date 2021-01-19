@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rlIkXCiSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTNS9Z8-it Integratore Completo 4 in 1 per Capelli  Pelle  Unghie e Articolazioni. 90 Caps. Antirughe e Anticaduta  Bellezza Donna e Uomo con Acido Ialuronico  Biotina  Collagene  Vitamina C  Ferro e Zinco'
+slug: 'B07XTNS9Z8-it Integratore Completo 4 in 1 per Capelli Pelle Unghie e...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JemqGylAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB5Q25B-it Amazfit Verge  Smartwatch Men s  Gray  Normal'
+slug: 'B07SB5Q25B-it Amazfit Verge Smartwatch Men s Gray Normal'
+tags: 
 actualPrice: 83.45 EUR
 currency: EUR
 price: 83.45

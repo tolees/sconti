@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dSP0a8zGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVBK5ZM-it Procos- Pignatta 30 cm Cars 3  Multicolore  5PR87933'
+slug: 'B06WVBK5ZM-it Procos- Pignatta 30 cm Cars 3 Multicolore 5PR87933'
+tags: 
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

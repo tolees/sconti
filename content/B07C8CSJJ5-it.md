@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OYZWTb1iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8CSJJ5-it Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Silicone DZ4483'
+slug: 'B07C8CSJJ5-it Diesel Orologio Cronografo Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 84.97 EUR
 currency: EUR
 price: 84.97

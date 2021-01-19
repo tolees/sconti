@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TSb6tFtVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0867PLS4Z-it Alcatel 3L 2020  6.22”  4G  64 GB ROM + 4 GB RAM  tripla fotocamera  4000mah  dual sim  Chameleon Blue  ITA  Amazon Exclusive 2020 '
+slug: 'B0867PLS4Z-it Alcatel 3L 2020 6.22” 4G 64 GB ROM + 4 GB RAM tripla...'
+tags: 
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

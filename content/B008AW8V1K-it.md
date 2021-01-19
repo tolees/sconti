@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008AW8V1K-it Lacoste Sport L1230 Polo Sport Ultraleggera  Nero  Black 031   Large Uomo'
+slug: 'B008AW8V1K-it Lacoste Sport L1230 Polo Sport Ultraleggera Nero Black 031...'
+tags: 
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

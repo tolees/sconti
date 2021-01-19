@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721MMXN6-it Assassin S Creed Origins'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

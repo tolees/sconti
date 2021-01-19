@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311p6Jv2vUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAASQ6C-it Swarovski Pendente Iconic Swan  Multicolore  Placcatura Rodio'
+slug: 'B01NAASQ6C-it Swarovski Pendente Iconic Swan Multicolore Placcatura Rodio'
+tags: 
 actualPrice: 42.18 EUR
 currency: EUR
 price: 42.18

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ORV-I20bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G9W4RSO-it Bosch MSM66155 Mixer a Immersione  Frullatore con 4 Accessori  600 W  Plastica  Bianco'
+slug: 'B00G9W4RSO-it Bosch MSM66155 Mixer a Immersione Frullatore con 4...'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

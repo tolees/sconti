@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310TSssAhnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGF3TRT-it Marchio Amazon - find. Mocassini in Pelle con Nappine Uomo  Nero  Black   42 EU'
+slug: 'B06XGF3TRT-it Marchio Amazon - find. Mocassini in Pelle con Nappine Uomo...'
+tags: 
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

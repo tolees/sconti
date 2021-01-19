@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zW0jaqAdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNL5Z3Q-it Head & Shoulders Shampoo Antiforfora Suprême Idrata  con Olio di Argan  con Ingredienti Sublimatori  225 ml'
+slug: 'B07HNL5Z3Q-it Head & Shoulders Shampoo Antiforfora Suprême Idrata con...'
+tags: 
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

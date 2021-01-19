@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ItQrE66pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H35KG7V-it Pastaza Stivali da Neve Uomo Donna Trekking Scarpe Inverno Impermeabili Outdoor Pelliccia Sneakers Nero 43EU'
+slug: 'B07H35KG7V-it Pastaza Stivali da Neve Uomo Donna Trekking Scarpe Inverno...'
+tags: 
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

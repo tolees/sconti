@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWVT81X-it Western Digital WD My Book Hard Disk Desktop USB 3.0  Software di Backup Automatico  Protezione con Password  1 Disco  8 TB  Nero'
+slug: 'B01LWVT81X-it Western Digital WD My Book Hard Disk Desktop USB 3.0...'
+tags: 
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h9RuSvfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQZZFX-it Vans Doheny  Scarpe da Ginnastica Uomo  Checkerboard Black Pewter Eo0  45 EU'
+slug: 'B07MZQZZFX-it Vans Doheny Scarpe da Ginnastica Uomo Checkerboard Black...'
+tags: 
 actualPrice: 38.16 EUR
 currency: EUR
 price: 38.16

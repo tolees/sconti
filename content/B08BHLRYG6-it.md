@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cqDf3Yy7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHLRYG6-it Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Argento '
+slug: 'B08BHLRYG6-it Hard Disk 2 TB Esterno Hard Disk Esterno per PC Mac Xbox...'
+tags: 
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

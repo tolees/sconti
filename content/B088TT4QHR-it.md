@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZVQlJPT3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TT4QHR-it Massaggiatore Cervicale  cervicale massaggiatore homedics Multifunzionale Massaggiatore Cervicale cervicale massaggi Fisioterapia Elettromagnetica Profonda  allevia il dolore'
+slug: 'B088TT4QHR-it Massaggiatore Cervicale cervicale massaggiatore homedics...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

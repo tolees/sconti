@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SqoflMoCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKPH74V-it Tommy Hilfiger Leeds 10a2  Scarpe da Ginnastica Uomo  Beige  White YBS   41 EU'
+slug: 'B07RKPH74V-it Tommy Hilfiger Leeds 10a2 Scarpe da Ginnastica Uomo Beige...'
+tags: 
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31soZElWUGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB3BHS3-it Lacoste L1212  Polo Uomo  Beige  Viennois 02S   S'
+slug: 'B07GB3BHS3-it Lacoste L1212 Polo Uomo Beige Viennois 02S S'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

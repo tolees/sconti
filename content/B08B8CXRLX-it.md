@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g4BD-NiXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B8CXRLX-it Smartphone Offerta del Giorno 4G  Blackview A80 Pro  2020  Cellulari Offerte con 13MP Quad Camera  6.49 Pollici  Helio P25 Octa-core 4GB/64GB  4680mAh Batteria Dual SIM Telefono Cellulare - Nero'
+slug: 'B08B8CXRLX-it Smartphone Offerta del Giorno 4G Blackview A80 Pro 2020...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

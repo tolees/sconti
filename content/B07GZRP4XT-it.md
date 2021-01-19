@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sAfgaxcTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZRP4XT-it Marchio Amazon - MERAKI Blazer Casual Uomo  Grigio  Charcoal   50  Label: 40'
+slug: 'B07GZRP4XT-it Marchio Amazon - MERAKI Blazer Casual Uomo Grigio Charcoal...'
+tags: 
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

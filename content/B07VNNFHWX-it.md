@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EhOnT3SgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNNFHWX-it Xbox One S - 1TB Bundle Gears of War 5 - Inclusi Gears of War 2  3  4 + 14 Days Live Gold + 1 m Gamepass - Bundle - Xbox One'
+slug: 'B07VNNFHWX-it Xbox One S - 1TB Bundle Gears of War 5 - Inclusi Gears of...'
+tags: 
 actualPrice: 240.99 EUR
 currency: EUR
 price: 240.99

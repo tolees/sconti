@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vmanq4rNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2Y9W9Y-it New Balance 574v2 Core  Scarpe da Ginnastica Unisex-Adulto  Rosso Bordeaux  37 EU'
+slug: 'B06Y2Y9W9Y-it New Balance 574v2 Core Scarpe da Ginnastica Unisex-Adulto...'
+tags: 
 actualPrice: 58.4 EUR
 currency: EUR
 price: 58.4

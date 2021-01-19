@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VuNtBBW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CIUC5IU-it Candy CMG2071DS Microonde 20L  700W  Argento'
+slug: 'B00CIUC5IU-it Candy CMG2071DS Microonde 20L 700W Argento'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

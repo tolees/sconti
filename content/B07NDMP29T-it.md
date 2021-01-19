@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jKv+4vspL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMP29T-it G-STAR RAW Arctic Expedition Giacca  Nero  Dk Black 6484   X-Small Uomo'
+slug: 'B07NDMP29T-it G-STAR RAW Arctic Expedition Giacca Nero Dk Black 6484...'
+tags: 
 actualPrice: 38.21 EUR
 currency: EUR
 price: 38.21

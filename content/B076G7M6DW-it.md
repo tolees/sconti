@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gwpRz84zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076G7M6DW-it PUMA Smash v2 L Jr  Scarpe da Ginnastica Unisex-Adulto  Bianca White White  38 EU'
+slug: 'B076G7M6DW-it PUMA Smash v2 L Jr Scarpe da Ginnastica Unisex-Adulto...'
+tags: 
 actualPrice: 23.35 EUR
 currency: EUR
 price: 23.35

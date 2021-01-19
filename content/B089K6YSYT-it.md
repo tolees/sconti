@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vLOFATVTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089K6YSYT-it ORICO Adattatore Trasparente Esterno M.2  Custodia USB3.1 da Tipo C a M.2 Senza Attrezzi per SSD SATA/NVME M.2  M-Key/B+M-Key/B-Key  SSD Supporta Tutte le Taglia 2230 2242 2260 2280  Fino a 2 TB'
+slug: 'B089K6YSYT-it ORICO Adattatore Trasparente Esterno M.2 Custodia USB3.1...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uDjLTdVxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4K1BQ6-it David Jones - Borsa Tracolla Piccola Donna - Borsa a Spalla Catena - Crossbody Messenger Bag PU Pelle - Borsetta Mano Borsello Sera Noche Clutch Pochette Elegante Moda Città Lavoro - Nero'
+slug: 'B07H4K1BQ6-it David Jones - Borsa Tracolla Piccola Donna - Borsa a...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

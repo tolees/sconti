@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uibP6Yk1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5HN88W-it Xiaomi - Ripetitore di rete WiFi WiFi Extender di copertura  porta Ethernet  10/100 Mbps  con presa  300 Mbps  2 4 GHz   rete wireless segnale wireless di rete di miglioramento router wireless'
+slug: 'B07W5HN88W-it Xiaomi - Ripetitore di rete WiFi WiFi Extender di...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

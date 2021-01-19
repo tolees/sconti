@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lbUpI3NOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T38WPD1-it Pepe Jeans Daniela Zaino Casual 32 Centimeters 9.6 Multicolore  Multicolore '
+slug: 'B07T38WPD1-it Pepe Jeans Daniela Zaino Casual 32 Centimeters 9.6...'
+tags: 
 actualPrice: 19.55 EUR
 currency: EUR
 price: 19.55

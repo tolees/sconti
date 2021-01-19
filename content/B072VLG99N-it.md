@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fFHO50keL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VLG99N-it Bialetti Fiammetta Bialetti Moka Fiammetta  Caffettiera 1 Tazza  Azzurro Fluo  Alluminio  Azzurro Fluo  1 Tazza  1 Unità'
+slug: 'B072VLG99N-it Bialetti Fiammetta Bialetti Moka Fiammetta Caffettiera 1...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

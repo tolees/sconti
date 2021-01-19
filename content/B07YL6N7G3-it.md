@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312hwNSsQcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YL6N7G3-it Wrangler SS Small Logo Tee T-Shirt  Blu  Blue Graphite X15   Uomo'
+slug: 'B07YL6N7G3-it Wrangler SS Small Logo Tee T-Shirt Blu Blue Graphite X15 Uomo'
+tags: 
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

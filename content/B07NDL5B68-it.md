@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qXdQvijYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL5B68-it G-STAR RAW CPO Slim Camicia in Jeans  Multicolore  Medium Aged Restored 138 8399   Uomo'
+slug: 'B07NDL5B68-it G-STAR RAW CPO Slim Camicia in Jeans Multicolore Medium...'
+tags: 
 actualPrice: 37.79 EUR
 currency: EUR
 price: 37.79

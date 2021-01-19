@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bz-Eels7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTMGQ1P-it EXCITE Detergente Disinfettante coppetta mestruale e accessori intimi con Olio di Albero del Té - Spray Igienizzante Antibatterico  no alcol  100ml'
+slug: 'B07MTMGQ1P-it EXCITE Detergente Disinfettante coppetta mestruale e...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

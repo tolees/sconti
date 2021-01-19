@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JFHGFIQiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FBDD37B-it Rybozen Switch KVM 4K HDMI Switch 2 Port Box Tastiera Mouse Switcher Include 2 Cavi USB Type-B Supporto 4k @ 30HZ 3D per Laptop PS4 Xbox One HDTV Monitor'
+slug: 'B08FBDD37B-it Rybozen Switch KVM 4K HDMI Switch 2 Port Box Tastiera...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

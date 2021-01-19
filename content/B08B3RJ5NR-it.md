@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ERiY0hshL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3RJ5NR-it Hunty Hard Disk 2 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop. 2TB Rosso '
+slug: 'B08B3RJ5NR-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1...'
+tags: 
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

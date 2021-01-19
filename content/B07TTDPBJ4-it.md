@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wQYHGMTtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTDPBJ4-it Samsung DV80M5010KW Asciugatrice 8 kg  1200 rpm  Bianco'
+slug: 'B07TTDPBJ4-it Samsung DV80M5010KW Asciugatrice 8 kg 1200 rpm Bianco'
+tags: 
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017KE8OG0-it Seagate Expansion  Unità Disco Esterna Portatile da 4 TB - USB 3.0 per PC Desktop  PC Portatili e Mac  STEA4000400 '
+slug: 'B017KE8OG0-it Seagate Expansion Unità Disco Esterna Portatile da 4 TB -...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

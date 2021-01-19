@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DGxc0CHML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9S48QH-it PUMA Vikky Stacked L  Sneakers Donna  Grigio  Silver Cloud-Rosewater   40.5 EU'
+slug: 'B07S9S48QH-it PUMA Vikky Stacked L Sneakers Donna Grigio Silver Cloud-...'
+tags: 
 actualPrice: 36.86 EUR
 currency: EUR
 price: 36.86

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m2WX5r66L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8U4DEJ-it Duronic VC8 /BK Aspirapolvere verticale senza sacco 800W Scopa elettrica con filtro HEPA per ufficio e casa'
+slug: 'B01N8U4DEJ-it Duronic VC8 /BK Aspirapolvere verticale senza sacco 800W...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

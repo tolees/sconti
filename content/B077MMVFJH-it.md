@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oh9aGPy3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MMVFJH-it Puma Smash V2 Scape per Sport Outdoor Unisex - Adulto  Nero  Puma Black   39 EU'
+slug: 'B077MMVFJH-it Puma Smash V2 Scape per Sport Outdoor Unisex - Adulto Nero...'
+tags: 
 actualPrice: 41.33 EUR
 currency: EUR
 price: 41.33

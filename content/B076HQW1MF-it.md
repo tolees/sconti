@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XV6U+sMjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQW1MF-it adidas Core18 Pes Giacca  Uomo  Nero/Bianco  L'
+slug: 'B076HQW1MF-it adidas Core18 Pes Giacca Uomo Nero/Bianco L'
+tags: 
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

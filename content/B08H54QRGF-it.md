@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OiOSQpe+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H54QRGF-it MMLsure 6 Pezzi indossabili all Interno e all Esterno  6 Pezzi Neri '
+slug: 'B08H54QRGF-it MMLsure 6 Pezzi indossabili all Interno e all Esterno 6...'
+tags: 
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

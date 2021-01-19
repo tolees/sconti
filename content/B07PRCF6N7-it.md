@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411Uvp-UX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCF6N7-it Kipling Myrte - Borse a tracolla Donna  Multicolore  Camo Large   24x14.5x4.5 cm  B x H T '
+slug: 'B07PRCF6N7-it Kipling Myrte - Borse a tracolla Donna Multicolore Camo...'
+tags: 
 actualPrice: 49.93 EUR
 currency: EUR
 price: 49.93

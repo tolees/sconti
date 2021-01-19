@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RVwq7XIFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSTV3XY-it Scholl Velvet Smooth Roll Pedicure Elettrico Professionale per Pelle Secca e Talloni Screpolati  Azzurro  con Cristalli di Diamante'
+slug: 'B01BSTV3XY-it Scholl Velvet Smooth Roll Pedicure Elettrico Professionale...'
+tags: 
 actualPrice: 19.43 EUR
 currency: EUR
 price: 19.43

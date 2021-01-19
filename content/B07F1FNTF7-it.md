@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JPbPYIueL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1FNTF7-it Havaianas Slim Animals  Infradito Donna   White/Coralnew 6577   35/36 EU'
+slug: 'B07F1FNTF7-it Havaianas Slim Animals Infradito Donna White/Coralnew 6577...'
+tags: 
 actualPrice: 22.02 EUR
 currency: EUR
 price: 22.02

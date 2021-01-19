@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MT-7YfTzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CS76HRB-it eXtremeRate DAWN Remap Kit Programmabile per Playstation 4 Joystick Modding Chip&Cover Posteriore Riprogettato&4 Pulsanti Posteriori per PS4 Controller JDM-040/050/055 Oro Cromo '
+slug: 'B08CS76HRB-it eXtremeRate DAWN Remap Kit Programmabile per Playstation 4...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

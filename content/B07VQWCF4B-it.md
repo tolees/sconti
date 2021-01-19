@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tSW0z4I1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQWCF4B-it Calvin Klein Medium Drawstring Pantaloncini  Blu  Air Blue CAE   Uomo'
+slug: 'B07VQWCF4B-it Calvin Klein Medium Drawstring Pantaloncini Blu Air Blue...'
+tags: 
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

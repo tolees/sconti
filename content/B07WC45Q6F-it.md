@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KI7+i2ZwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC45Q6F-it Tommy Hilfiger John Cargo Short Light Twill Jeans Relaxed  Blu  Faded Indigo   W28/L30  Taglia Unica:  Uomo'
+slug: 'B07WC45Q6F-it Tommy Hilfiger John Cargo Short Light Twill Jeans Relaxed...'
+tags: 
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oeg5K5VxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPCZ7D-it KiplingIaka L WristletDonnaPortamoneteMulticolore  Speckled 28 Cmx 215 Cmx 1 Centimeters  B x H x T '
+slug: 'B07TTPCZ7D-it KiplingIaka L WristletDonnaPortamoneteMulticolore Speckled...'
+tags: 
 actualPrice: 15.64 EUR
 currency: EUR
 price: 15.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D4sQfl-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D1KWX1J-it Amazon Echo  3ª generazione   Tessuto grigio mélange + Amazon Smart Plug  presa intelligente con connettività Wi-Fi   compatibile con Alexa'
+slug: 'B08D1KWX1J-it Amazon Echo 3ª generazione Tessuto grigio mélange + Amazon...'
+tags: 
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

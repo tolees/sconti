@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y5iFtMg7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF6J54V-it Hackett Continuity WSH/Oxford Camicia  Rosa  Pink 325   44  Taglia Produttore: Small  Uomo'
+slug: 'B07VF6J54V-it Hackett Continuity WSH/Oxford Camicia Rosa Pink 325 44...'
+tags: 
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

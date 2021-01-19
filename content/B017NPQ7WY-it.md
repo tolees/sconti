@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gjn82ZBGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017NPQ7WY-it Pampers Sole e Luna Salviettine  540 Pezzi'
+slug: 'B017NPQ7WY-it Pampers Sole e Luna Salviettine 540 Pezzi'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

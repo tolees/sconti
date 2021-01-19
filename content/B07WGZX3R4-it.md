@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ck8w1426L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGZX3R4-it LIEBE721 Giacche Giacca Donna Manica Lunga Cardigan Eleganti Invernale Autunno Taglie Forti Caldo Antivento Leggero Capispalla Giubbotti Giubbino'
+slug: 'B07WGZX3R4-it LIEBE721 Giacche Giacca Donna Manica Lunga Cardigan...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

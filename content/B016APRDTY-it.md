@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41667yXq1qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016APRDTY-it Singer Starlet 6680 - Macchina da cucire elettronica  80 tipi di punti   Bianco'
+slug: 'B016APRDTY-it Singer Starlet 6680 - Macchina da cucire elettronica 80...'
+tags: 
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

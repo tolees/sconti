@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GUrSGFfnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP2RDD7-it Occhialini da Nuoto da Piscina  Anti-Appannamento Specchio Occhiali Nuoto Anti-Perdita Protezione UV Archetto Regolabile per Uomini Donne  Gratis Cuffia da Nuoto Clip per Naso Tappi per Le Orecchie'
+slug: 'B07ZP2RDD7-it Occhialini da Nuoto da Piscina Anti-Appannamento Specchio...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

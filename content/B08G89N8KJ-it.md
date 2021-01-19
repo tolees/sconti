@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AEU+dcbkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G89N8KJ-it Veetop Case Hard Disk SSD Esterno M2 NVME USB 3.1 Gen 2 Tipo C  Box per Disco Esterno in Alluminio SSD da 10 Gbps'
+slug: 'B08G89N8KJ-it Veetop Case Hard Disk SSD Esterno M2 NVME USB 3.1 Gen 2...'
+tags: 
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

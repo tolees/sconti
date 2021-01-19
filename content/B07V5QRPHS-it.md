@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DPOZNcULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QRPHS-it Tommy Jeans Essential  Scarpe da Ginnastica Basse Uomo  Blu  Twilight Navy C87   42 EU'
+slug: 'B07V5QRPHS-it Tommy Jeans Essential Scarpe da Ginnastica Basse Uomo Blu...'
+tags: 
 actualPrice: 47.48 EUR
 currency: EUR
 price: 47.48

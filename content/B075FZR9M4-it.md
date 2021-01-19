@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I73sMGpeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FZR9M4-it D-Link DIR-882  Router Wi-Fi AC2600 Dual band  5 Porte Gigabit  1 Porta USB 3.0 e 1 Porta 2.0  AC SmartBeam  Tecnologia MIMO  Rete Ospiti  Parental Control  Configurazione Semplice  WPS/Reset  Nero'
+slug: 'B075FZR9M4-it D-Link DIR-882 Router Wi-Fi AC2600 Dual band 5 Porte...'
+tags: 
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

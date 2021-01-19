@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cGa5shehL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XX596VF-it New Balance 574v2 Core  Scarpa da Tennis Donna  Bianco  White   44 EU'
+slug: 'B06XX596VF-it New Balance 574v2 Core Scarpa da Tennis Donna Bianco White...'
+tags: 
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ezaSVVY-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKD9WX1-it National Geographic Multi Colour Stazione meteorologica Radio  Nero'
+slug: 'B07HKD9WX1-it National Geographic Multi Colour Stazione meteorologica...'
+tags: 
 actualPrice: 57.1 EUR
 currency: EUR
 price: 57.1

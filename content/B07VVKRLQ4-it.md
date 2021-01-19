@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cYIujQK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVKRLQ4-it Bosch Elettrodomestici WAT28749IT Serie 6  Lavatrice Active Oxygen   9 kg  Centrifuga 1400 Giri  Classe A+++'
+slug: 'B07VVKRLQ4-it Bosch Elettrodomestici WAT28749IT Serie 6 Lavatrice Active...'
+tags: 
 actualPrice: 614.2 EUR
 currency: EUR
 price: 614.2

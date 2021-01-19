@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XFzZJgzdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07639RBVJ-it Swiffer Panni di Ricambio per Scopa  Maxi Formato da 120 Panni  Cattura e Intrappola 3 Volte Più Polvere  Sporco e Peli di una Scopa Tradizionale'
+slug: 'B07639RBVJ-it Swiffer Panni di Ricambio per Scopa Maxi Formato da 120...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

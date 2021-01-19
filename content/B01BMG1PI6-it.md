@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410hfosSEoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BMG1PI6-it Casio Orologio Analogico Quarzo Uomo con Cinturino in Plastica MW-240-1BVEF'
+slug: 'B01BMG1PI6-it Casio Orologio Analogico Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 17.08 EUR
 currency: EUR
 price: 17.08

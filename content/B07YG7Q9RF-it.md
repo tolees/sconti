@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51w6tRxgFVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YG7Q9RF-it Pillars of Eternity II: Deadfire Ultimate Collector s Edition - Collector s Limited - PlayStation 4'
+slug: 'B07YG7Q9RF-it Pillars of Eternity II: Deadfire Ultimate Collector s...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O46rIlDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0079JHHQA-it Arena Classic Silicone  Cuffia Unisex Adulto  Grigio  Silver/Black   Taglia Unica'
+slug: 'B0079JHHQA-it Arena Classic Silicone Cuffia Unisex Adulto Grigio...'
+tags: 
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Htld-2j-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0035AQPOM-it Pavesi Ringo Biscotti Farciti con Crema al Gusto Vaniglia  Snack per Merenda o Pausa Studio  Senza Olio di Palma - Formato Tubo da 165 g'
+slug: 'B0035AQPOM-it Pavesi Ringo Biscotti Farciti con Crema al Gusto Vaniglia...'
+tags: 
 actualPrice: 0.85 EUR
 currency: EUR
 price: 0.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CHwC5rzQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7YZJQH-it Brother JX17FE  Fantasy Edition  - Macchina da Cucire Portatile con 17 Punti di Cucitura  Facile per Principianti  Cucitrice Automatica per Cucito Creativo  Professionale  Elettrica  Braccio Libero'
+slug: 'B07W7YZJQH-it Brother JX17FE Fantasy Edition - Macchina da Cucire...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51a0xH3IJZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C4H8D7X-it TENS Pulse Stimulator Il massaggiatore EMS elettrostimolatore muscolare professionale che da sollievo dal dolore con 16 modalità 8 elettrodi e 2 canali A/B per la gestione e il trattamento del dolore'
+slug: 'B07C4H8D7X-it TENS Pulse Stimulator Il massaggiatore EMS...'
+tags: 
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

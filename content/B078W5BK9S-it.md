@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c9dDBpAwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078W5BK9S-it Vano portaoggetti secondario da bracciolo per auto  colore nero e con tappetino antiscivolo'
+slug: 'B078W5BK9S-it Vano portaoggetti secondario da bracciolo per auto colore...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

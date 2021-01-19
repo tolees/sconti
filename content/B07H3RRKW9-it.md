@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NkWd6zsDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3RRKW9-it Gillette Fusion5 ProGlide 1 Rasoio da Uomo + 5 Lamette  Pacchetto per Casella Postale  con Tecnologia FlexBall'
+slug: 'B07H3RRKW9-it Gillette Fusion5 ProGlide 1 Rasoio da Uomo + 5 Lamette...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

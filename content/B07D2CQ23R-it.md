@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GXCSmH4dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2CQ23R-it Rejane Oil - Gocce di Splendore dell Amazzonia - Trattamento Olio Istantaneo Rigenerante e Idratante per Capelli Sfibrati e Danneggiati - Protegge dall Effetto Crespo - 100 ml'
+slug: 'B07D2CQ23R-it Rejane Oil - Gocce di Splendore dell Amazzonia -...'
+tags: 
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

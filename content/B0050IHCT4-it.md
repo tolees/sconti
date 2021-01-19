@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uS1VrczhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0050IHCT4-it Imetec Dolcevita HB2 Frullatore a Immersione  Lame in Acciaio Inox  Funzionamento a Impulsi  170 W'
+slug: 'B0050IHCT4-it Imetec Dolcevita HB2 Frullatore a Immersione Lame in...'
+tags: 
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

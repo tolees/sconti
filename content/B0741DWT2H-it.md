@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b5zoFIRjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0741DWT2H-it Tristar Fr-6996 Crispy Fryer XXL  1500 W  5.2 Litri  18/8 Stainless Steel  Nero'
+slug: 'B0741DWT2H-it Tristar Fr-6996 Crispy Fryer XXL 1500 W 5.2 Litri 18/8...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

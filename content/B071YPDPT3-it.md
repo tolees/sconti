@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CGOF+FpiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YPDPT3-it Vileda Mixer 4 Stendibiancheria a Torre  Ripiegabile  con Ruote  Metallo  Bianco  Quattro Piani'
+slug: 'B071YPDPT3-it Vileda Mixer 4 Stendibiancheria a Torre Ripiegabile con...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

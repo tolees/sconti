@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-KIkTa5+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XT6VQBH-it YOUNGDO Idropulsore Dentale Professionale da capacità 600ml  Irrigatore Orale con 10 modalità  Irrigatore Dentale con 8 Ugelli di Ricambio per Pulizia Dentale e Igiene Dentale'
+slug: 'B07XT6VQBH-it YOUNGDO Idropulsore Dentale Professionale da capacità...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

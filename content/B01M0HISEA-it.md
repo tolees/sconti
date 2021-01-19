@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GcxiwO-+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0HISEA-it Dainese Snow Team Jr Evo Casco da Sci  Vibrant-Yellow  JS'
+slug: 'B01M0HISEA-it Dainese Snow Team Jr Evo Casco da Sci Vibrant-Yellow JS'
+tags: 
 actualPrice: 14.21 EUR
 currency: EUR
 price: 14.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D9Le7pkaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RMAO7K-it Havaianas Brasil  Infradito Unisex – Adulto  Nero  Black 0090   Taglia Produttore 39/40'
+slug: 'B000RMAO7K-it Havaianas Brasil Infradito Unisex – Adulto Nero Black 0090...'
+tags: 
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

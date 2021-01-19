@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51seh2jYdlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089WW4R3Q-it Finish  72 Pastiglie Per Lavastoviglie  All In One Max - 7250 Ml'
+slug: 'B089WW4R3Q-it Finish 72 Pastiglie Per Lavastoviglie All In One Max -...'
+tags: 
 actualPrice: 8.62 EUR
 currency: EUR
 price: 8.62

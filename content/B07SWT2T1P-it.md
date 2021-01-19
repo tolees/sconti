@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kU7Qfm2rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWT2T1P-it Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Bianco  White/Silver C0007   41 EU'
+slug: 'B07SWT2T1P-it Geox D PONTOISE D Scarpe da Ginnastica Basse Donna Bianco...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

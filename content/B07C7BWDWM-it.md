@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fQ0LozceL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C7BWDWM-it HP Sprocket Z3Z92A Stampante Fotografica Istantanea Portatile  Bluetooth 3.0  Misura 5 x 7.6 cm  Compatibile con Android e IOS  Nero'
+slug: 'B07C7BWDWM-it HP Sprocket Z3Z92A Stampante Fotografica Istantanea...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

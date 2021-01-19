@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41en2ctmL-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QDJ9XL-it realme Band 1 Smartwatch con Ampio Display a Colori  Fitness Tracker  Battito Cardiaco 24/7 e Sonno  Display 0.96"  Resistente all Acqua IP68  1.5 m   Nero  Black '
+slug: 'B087QDJ9XL-it realme Band 1 Smartwatch con Ampio Display a Colori...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

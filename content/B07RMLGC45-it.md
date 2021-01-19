@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EbcECwlJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMLGC45-it Calvin Klein Punched Lrg Dbl Ziparound - Portafogli Donna  Verde  Drk Olive   12x5x20 cm  W x H L '
+slug: 'B07RMLGC45-it Calvin Klein Punched Lrg Dbl Ziparound - Portafogli Donna...'
+tags: 
 actualPrice: 24.23 EUR
 currency: EUR
 price: 24.23

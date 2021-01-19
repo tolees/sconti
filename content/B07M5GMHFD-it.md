@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DhhjRrxTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5GMHFD-it HooToo Hub USB C 8 in 1 Adattatore Type C con HDMI 4K  Porte USB 3.0  Porta Ethernet da 1 Gbps  Lettori di schede SD/TF e Porta di Ricarica PD da 100W per MacBook/PRO/Air e per Laptop Type C e Altri'
+slug: 'B07M5GMHFD-it HooToo Hub USB C 8 in 1 Adattatore Type C con HDMI 4K...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

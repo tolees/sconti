@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FBZAu3p+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MKBVGJ-it Havaianas Brasil Logo  Infradito Unisex-Bambini  Nero Black  25/26 EU'
+slug: 'B074MKBVGJ-it Havaianas Brasil Logo Infradito Unisex-Bambini Nero Black...'
+tags: 
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

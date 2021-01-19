@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gMbJF1A3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BMSLHG4-it OUPOD Controller wireless  Bluetooth  per Nintendo Switch Pro collegato all host Switch supporta le funzioni NFC  l induzione del personaggio Amiibo e la funzione di sveglia.  ciano '
+slug: 'B08BMSLHG4-it OUPOD Controller wireless Bluetooth per Nintendo Switch...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

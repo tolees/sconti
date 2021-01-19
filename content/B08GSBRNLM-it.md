@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wLNZfha7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GSBRNLM-it Syxinn Anello Castone per Samsung Galaxy Watch 3 45mm Anello Lunetta Acciaio Inossidabile Bezel Styling Cerchio Cover Adesiva Anti graffio Decorativo Rotante quadrante di Protezione'
+slug: 'B08GSBRNLM-it Syxinn Anello Castone per Samsung Galaxy Watch 3 45mm...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-1h6Vaw1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0867Q3PZJ-it StillCool Dispenser per sapone da 700 ml  con sensore automatico gel e liquido a parete  per cucina  bagno  700 ml'
+slug: 'B0867Q3PZJ-it StillCool Dispenser per sapone da 700 ml con sensore...'
+tags: 
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

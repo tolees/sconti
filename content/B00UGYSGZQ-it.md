@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tlpf9e8XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UGYSGZQ-it Anself Diffusore di Aromi Umidificatore - 160 ML Diffusore di Olio Essenziale con Lampada 7 Colori LED  Auto Spegnimento Muto'
+slug: 'B00UGYSGZQ-it Anself Diffusore di Aromi Umidificatore - 160 ML Diffusore...'
+tags: 
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

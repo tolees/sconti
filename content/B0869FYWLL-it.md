@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qaIcIRkrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0869FYWLL-it Gimdumasa Occhiali Da Computer Luce Blu Anti Filtro Blue Per UV PC Gaming Uomo Donna GI766  Nero '
+slug: 'B0869FYWLL-it Gimdumasa Occhiali Da Computer Luce Blu Anti Filtro Blue...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

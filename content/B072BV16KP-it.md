@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fGiKNNywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BV16KP-it Columbia Boubioz Giacche e Maglioni in Pile  Uomo  Grigio  Graphite   M'
+slug: 'B072BV16KP-it Columbia Boubioz Giacche e Maglioni in Pile Uomo Grigio...'
+tags: 
 actualPrice: 48.98 EUR
 currency: EUR
 price: 48.98

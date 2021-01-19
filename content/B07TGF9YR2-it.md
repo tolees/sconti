@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mKAI49hxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TGF9YR2-it QUADRANT ITEMS Kit da Palestra  Borraccia da 500ml Telo Microfibra Shaker per Proteine 2 Contenitori 1 Porta Pillole Senza BPA A Prova di Perdite Telo Sport Microfibra Asciugatura Rapida Leggero'
+slug: 'B07TGF9YR2-it QUADRANT ITEMS Kit da Palestra Borraccia da 500ml Telo...'
+tags: 
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

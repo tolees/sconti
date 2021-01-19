@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iWCCFM3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL321JG-it American Tourister Urban Groove Zaino Porta PC  15.6 pollici  48 cm  26 L  Blu  True Navy '
+slug: 'B07RL321JG-it American Tourister Urban Groove Zaino Porta PC 15.6...'
+tags: 
 actualPrice: 25.74 EUR
 currency: EUR
 price: 25.74

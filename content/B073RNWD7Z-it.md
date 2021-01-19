@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lb5zLbN4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RNWD7Z-it Columbia SANTIAM 2 Strap  Sandali Uomo  Grigio  Dark Grey Rusty 089   42 EU'
+slug: 'B073RNWD7Z-it Columbia SANTIAM 2 Strap Sandali Uomo Grigio Dark Grey...'
+tags: 
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-BcsrbHHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836FQG1R-it Tagliacapelli e barba sei in uno  rasoio elettrico professionale per uomo per naso e orecchie  parrucchiere ricaricabile impermeabile con caricatore  nero '
+slug: 'B0836FQG1R-it Tagliacapelli e barba sei in uno rasoio elettrico...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mB+7gWXwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDCFVTG-it VicTsing Tastiera e Mouse Wireless PC  Kit Tastiera Mouse Wireless  Tastiera Wireless Tasti Cioccolati  Mouse Ultra Silenzioso  Ricevitore 2-in-1 per PC  Notebook  Laptop'
+slug: 'B07TDCFVTG-it VicTsing Tastiera e Mouse Wireless PC Kit Tastiera Mouse...'
+tags: 
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

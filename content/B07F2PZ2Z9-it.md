@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Q6-PuKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2PZ2Z9-it Puma Axis  Scarpe da Ginnastica Unisex-Adulto  Nero Black/Asphalt  45 EU'
+slug: 'B07F2PZ2Z9-it Puma Axis Scarpe da Ginnastica Unisex-Adulto Nero...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

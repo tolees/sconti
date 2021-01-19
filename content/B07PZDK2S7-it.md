@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yVz4L0qlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZDK2S7-it Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai Cereali - tubo 225g'
+slug: 'B07PZDK2S7-it Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai...'
+tags: 
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

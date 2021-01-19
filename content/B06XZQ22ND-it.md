@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yid9amjCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XZQ22ND-it Tognana Mythos Batteria 9 Pezzi  Alluminio  Nero  24 cm'
+slug: 'B06XZQ22ND-it Tognana Mythos Batteria 9 Pezzi Alluminio Nero 24 cm'
+tags: 
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

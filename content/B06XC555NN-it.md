@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410Nd+BgL-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC555NN-it Philips HR2345/29 Viva Collection Pastamaker - Macchina con 4 trafile per preparare da zero pasta e spaghetti  150 W  Nero'
+slug: 'B06XC555NN-it Philips HR2345/29 Viva Collection Pastamaker - Macchina...'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

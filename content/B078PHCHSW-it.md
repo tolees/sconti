@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sz6WXnxsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078PHCHSW-it Pioneer Ts-Wx130Da Subwoofer per Macchina  Nero'
+slug: 'B078PHCHSW-it Pioneer Ts-Wx130Da Subwoofer per Macchina Nero'
+tags: 
 actualPrice: 152.4 EUR
 currency: EUR
 price: 152.4

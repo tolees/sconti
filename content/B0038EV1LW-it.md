@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411msKFKPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0038EV1LW-it Homedics SP-39HW-EU Cuscino Massaggiante Shiatsu a Due Velocità  Vibrazione  Telecomando  40 x 12 x 27 cm  Soft Touch: Effetto Scamosciato  Morbida Cover Rimovibile e Lavabile'
+slug: 'B0038EV1LW-it Homedics SP-39HW-EU Cuscino Massaggiante Shiatsu a Due...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EV-+gUduL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007VDJ06O-it Claber 87335 Inter. POZZETTO Grande 90510  Nero/Arancione/Grigio  500x640x310 cm'
+slug: 'B007VDJ06O-it Claber 87335 Inter. POZZETTO Grande 90510...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KW0JU5JXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3C7MKT-it Under Armour Scrimmage 2.0 Sacco da Montagna  Unisex Adulto  Rosso'
+slug: 'B07J3C7MKT-it Under Armour Scrimmage 2.0 Sacco da Montagna Unisex Adulto...'
+tags: 
 actualPrice: 18.57 EUR
 currency: EUR
 price: 18.57

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517A+dzuGwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012PKOBIE-it Lexar 64GB 3500x Pro CFast Compact Flash Card -  LC64GCRBEU3500'
+slug: 'B012PKOBIE-it Lexar 64GB 3500x Pro CFast Compact Flash Card -...'
+tags: 
 actualPrice: 107.4 EUR
 currency: EUR
 price: 107.4

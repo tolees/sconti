@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zWCEYZ8pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XFB12GC-it Lacoste YH4801 Polo  Bianco  Blanc   X-Small  Taglia Produttore: 2  Uomo'
+slug: 'B00XFB12GC-it Lacoste YH4801 Polo Bianco Blanc X-Small Taglia...'
+tags: 
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

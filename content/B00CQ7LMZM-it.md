@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413oRD-2AOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CQ7LMZM-it Optimum Nutrition Olio di Pesce con Capsule Omega 3  non Aromatizzato  100 Porzioni'
+slug: 'B00CQ7LMZM-it Optimum Nutrition Olio di Pesce con Capsule Omega 3 non...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

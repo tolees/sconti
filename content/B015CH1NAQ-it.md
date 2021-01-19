@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AFHNNUfbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CH1NAQ-it Sandisk Ultra Flair 64 GB  Chiavetta USB 3.0  Velocità di Lettura fino a 150 MB/s  Nero'
+slug: 'B015CH1NAQ-it Sandisk Ultra Flair 64 GB Chiavetta USB 3.0 Velocità di...'
+tags: 
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

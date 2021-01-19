@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319DcUp9QUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDQ6JVF-it FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Laptop  MacBook. 2TB Argento '
+slug: 'B08CDQ6JVF-it FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

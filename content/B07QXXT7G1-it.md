@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Cp+cyoqnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXXT7G1-it Pistola ad Aria Calda 2000W  Ginour Pistola Termica Elettrica 230V  350℃-250L/min  550℃-500L/min  4 Ugelli  Spatola  Raschietto  PVC termoretraibile  Rimuovere la vernice'
+slug: 'B07QXXT7G1-it Pistola ad Aria Calda 2000W Ginour Pistola Termica...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

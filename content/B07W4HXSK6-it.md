@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fJQ0XICeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4HXSK6-it Tommy Hilfiger Basic Embroidered Hoody Felpa  Verde  Faded Olive   Small  Taglia Unica:  Uomo'
+slug: 'B07W4HXSK6-it Tommy Hilfiger Basic Embroidered Hoody Felpa Verde Faded...'
+tags: 
 actualPrice: 31.3 EUR
 currency: EUR
 price: 31.3

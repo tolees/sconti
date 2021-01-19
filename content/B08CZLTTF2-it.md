@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414OvLTqywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZLTTF2-it Auricolare Bluetoot Cuffie Bluetooth touch 24h Playtime 3D stereo HD Cuffie Wireless  Binaurale Call auto Pairing Con Scatola di Ricarica Per iPhone/Samsung/Airpods/Huawei/Android'
+slug: 'B08CZLTTF2-it Auricolare Bluetoot Cuffie Bluetooth touch 24h Playtime 3D...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

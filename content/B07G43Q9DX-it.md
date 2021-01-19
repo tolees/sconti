@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413dbn1lkKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G43Q9DX-it Tommy Hilfiger Orologio Multi-quadrante Quarzo Uomo con Cinturino in Acciaio Inox 1791505'
+slug: 'B07G43Q9DX-it Tommy Hilfiger Orologio Multi-quadrante Quarzo Uomo con...'
+tags: 
 actualPrice: 116.33 EUR
 currency: EUR
 price: 116.33

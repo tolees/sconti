@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v3pFBITSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006WJNJL0-it Timberland Classic 2 Eye  Scarpe da barca Uomo  Marrone  Brown Full Grain   43.5 EU'
+slug: 'B006WJNJL0-it Timberland Classic 2 Eye Scarpe da barca Uomo Marrone...'
+tags: 
 actualPrice: 103.9 EUR
 currency: EUR
 price: 103.9

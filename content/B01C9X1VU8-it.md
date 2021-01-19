@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c5HtM2spL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C9X1VU8-it Diadora - Sneakers Game P per Uomo e Donna  EU 42 '
+slug: 'B01C9X1VU8-it Diadora - Sneakers Game P per Uomo e Donna EU 42'
+tags: 
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

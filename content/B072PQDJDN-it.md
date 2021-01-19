@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lnyeMArVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072PQDJDN-it PUMA Active Brief 2p Packed Intimo Sportivo  Grigio  Grey Yellow   X-Large  Pacco da 2  Uomo'
+slug: 'B072PQDJDN-it PUMA Active Brief 2p Packed Intimo Sportivo Grigio Grey...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

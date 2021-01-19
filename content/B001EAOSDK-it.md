@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001EAOSDK-it Superga 2750-cotu Classic Sneaker  Unisex – Adulto  Bianco  901 White   44 EU'
+slug: 'B001EAOSDK-it Superga 2750-cotu Classic Sneaker Unisex – Adulto Bianco...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qZ6160pwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR21YDZ-it Lark & Ro Stretch Poplin 3/4 Sleeve Shirt Dress-Shirts  French Blue  US 2  EU XS - S '
+slug: 'B07PR21YDZ-it Lark & Ro Stretch Poplin 3/4 Sleeve Shirt Dress-Shirts...'
+tags: 
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

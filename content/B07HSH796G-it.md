@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DfoQ3LN+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSH796G-it Matrix Revolutions  4K Ultra HD + 2 Blu-Ray '
+slug: 'B07HSH796G-it Matrix Revolutions 4K Ultra HD + 2 Blu-Ray'
+tags: 
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

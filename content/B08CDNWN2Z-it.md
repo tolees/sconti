@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319DcUp9QUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDNWN2Z-it FFTH Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Laptop  MacBook. 1TB Argento '
+slug: 'B08CDNWN2Z-it FFTH Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

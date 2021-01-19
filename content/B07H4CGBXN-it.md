@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MUmQdU9YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4CGBXN-it Tencoz 4Pack Set da Ping Pong  Racchette da Ping Pong Set da Ping Pong Racchette da Ping Pong da Allenamento Set da 4 Racchette da Ping Pong Premium + 6 Palline da Ping Pong + 1 Borsa Portatile'
+slug: 'B07H4CGBXN-it Tencoz 4Pack Set da Ping Pong Racchette da Ping Pong Set...'
+tags: 
 actualPrice: 24.37 EUR
 currency: EUR
 price: 24.37

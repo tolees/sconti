@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oc2sgDhTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND9GYZ3-it LEGO - Hidden Side Mistero nel Cimitero Set di Costruzione  Set per la Realtà Aumentata per iPhone/Android  70420'
+slug: 'B07ND9GYZ3-it LEGO - Hidden Side Mistero nel Cimitero Set di Costruzione...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

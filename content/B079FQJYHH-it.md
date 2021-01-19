@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LGkwRBOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FQJYHH-it Trust Gaming GXT 707G Resto Sedia da PC  Grigio/Nero'
+slug: 'B079FQJYHH-it Trust Gaming GXT 707G Resto Sedia da PC Grigio/Nero'
+tags: 
 actualPrice: 159.59 EUR
 currency: EUR
 price: 159.59

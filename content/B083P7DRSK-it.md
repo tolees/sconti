@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51V2rtMfkOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083P7DRSK-it MSI Optix G271 Monitor Gaming 27"  Display 16:9 FHD  1920x1080   Frequenza 144Hz  Tempo di risposta 1ms  Pannello IPS  AMD FreeSync  Night Vision  Frameless'
+slug: 'B083P7DRSK-it MSI Optix G271 Monitor Gaming 27" Display 16:9 FHD...'
+tags: 
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

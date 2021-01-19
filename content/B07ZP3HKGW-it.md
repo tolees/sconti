@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gflQyvF3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP3HKGW-it Gioco impilabile in legno Torre traballante Pisa Tower Building Blocks Gioco Domino 4 in1 Giocattoli di apprendimento Montessori Gioco per famiglie Giochi di Natale per bambini e adulti con custodia'
+slug: 'B07ZP3HKGW-it Gioco impilabile in legno Torre traballante Pisa Tower...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414QUwyFqzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013IFPXVY-it Level Trend Suburban Line  Guanto Uomo  Nero  10'
+slug: 'B013IFPXVY-it Level Trend Suburban Line Guanto Uomo Nero 10'
+tags: 
 actualPrice: 30.29 EUR
 currency: EUR
 price: 30.29

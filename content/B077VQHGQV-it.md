@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i3wjqkZlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VQHGQV-it adidas VL Court 2.0  Scarpe da Fitness Uomo  Blu  Maruni/Ftwbla 000   41 1/3 EU'
+slug: 'B077VQHGQV-it adidas VL Court 2.0 Scarpe da Fitness Uomo Blu...'
+tags: 
 actualPrice: 42.22 EUR
 currency: EUR
 price: 42.22

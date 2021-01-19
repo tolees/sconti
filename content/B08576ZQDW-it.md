@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JZR4bOQrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08576ZQDW-it Roffie Alimentatore Automatico per Cani e Gatti e Animali Domestici  Distributore Automatico di Cibo  con Controllo della Porzione  con Registratore Vocale e Timer Programmabile Fino'
+slug: 'B08576ZQDW-it Roffie Alimentatore Automatico per Cani e Gatti e Animali...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

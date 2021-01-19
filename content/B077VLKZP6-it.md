@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mxXoolzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VLKZP6-it Levi s The Perfect Tee  Maglietta  Nero  Caviar 2 0008   M Donna'
+slug: 'B077VLKZP6-it Levi s The Perfect Tee Maglietta Nero Caviar 2 0008 M Donna'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313HZmYo-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814SRXKH-it Under Armour Challenger III Midlayer  Maglia a maniche lunghe Uomo  Grigio  Halo Gray   S'
+slug: 'B0814SRXKH-it Under Armour Challenger III Midlayer Maglia a maniche...'
+tags: 
 actualPrice: 21.91 EUR
 currency: EUR
 price: 21.91

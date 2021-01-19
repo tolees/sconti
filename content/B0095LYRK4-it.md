@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BU1K7zXJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0095LYRK4-it Satya assortimento di Inciensos 12 scatole da 15 g'
+slug: 'B0095LYRK4-it Satya assortimento di Inciensos 12 scatole da 15 g'
+tags: 
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

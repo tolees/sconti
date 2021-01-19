@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xkexEf9pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGTWVQX-it New Balance 410v6 Trail  Scarpe Sportive Indoor Uomo  Nero  Black Cl   44 EU'
+slug: 'B07RGTWVQX-it New Balance 410v6 Trail Scarpe Sportive Indoor Uomo Nero...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

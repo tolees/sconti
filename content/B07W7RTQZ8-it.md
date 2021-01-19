@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PhCpeYr9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7RTQZ8-it Tommy Hilfiger Tommy Tipped Slim Polo  Nero  Black   Large  Taglia Unica:  Uomo'
+slug: 'B07W7RTQZ8-it Tommy Hilfiger Tommy Tipped Slim Polo Nero Black Large...'
+tags: 
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

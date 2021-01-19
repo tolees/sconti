@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hUGrDc-CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J04N8PG-it Hazet 9012M Avvitatore Ad Impulso Extra Corto  Multicolore  Attacco Quadro  Massiccio  12.5 mm 1/2 di Pollice'
+slug: 'B00J04N8PG-it Hazet 9012M Avvitatore Ad Impulso Extra Corto Multicolore...'
+tags: 
 actualPrice: 142.99 EUR
 currency: EUR
 price: 142.99

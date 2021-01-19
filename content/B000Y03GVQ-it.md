@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3199-HJzN9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Y03GVQ-it BLUNDSTONE Classic  Stivali Unisex  Nero  Black Premium   45 EU'
+slug: 'B000Y03GVQ-it BLUNDSTONE Classic Stivali Unisex Nero Black Premium 45 EU'
+tags: 
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

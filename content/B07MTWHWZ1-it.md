@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410A1YNFh-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTWHWZ1-it Logitech G332 Cuffie Gaming Cablate  Audio Stereo  Driver da 50 mm  Jack Audio 3.5 mm  Microfono Flip-To-Mute  Padiglioni Rotanti  Leggere  PC/Mac/Xbox One/PS4/Nintendo Switch  Rosse'
+slug: 'B07MTWHWZ1-it Logitech G332 Cuffie Gaming Cablate Audio Stereo Driver da...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

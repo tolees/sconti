@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RB+e5aBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM3YD2B-it Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva  Nero  Black Bbu   Medium Uomo'
+slug: 'B07RM3YD2B-it Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva...'
+tags: 
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

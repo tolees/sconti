@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21oi5-kl3CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QS56JM-it Clinogel Gel Mani Igienizzante con Estratti di Timo e Glicerina Naturale  Uso Senza Acqua  Formato da 100 ml'
+slug: 'B089QS56JM-it Clinogel Gel Mani Igienizzante con Estratti di Timo e...'
+tags: 
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

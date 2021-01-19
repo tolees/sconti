@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3151lBxmWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TH7M6AE-it I-Can 3900S Decoder digitale satellitare ad Alta Definizione  Tessera Tivusat HD inclusa  Uscite HDMI e SCART  2 x lettori Smart Card  Telecomando universale  Nero/Antracite'
+slug: 'B00TH7M6AE-it I-Can 3900S Decoder digitale satellitare ad Alta...'
+tags: 
 actualPrice: 118.98 EUR
 currency: EUR
 price: 118.98

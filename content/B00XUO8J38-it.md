@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XUO8J38-it Bonaventura Maschio la Grappa 903 Barrique - 350 ml'
+tags: 
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

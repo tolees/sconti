@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416YpkssGqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ESXJXFI-it BIC Comfort 2 - Rasoio da uomo  1 confezione da 10+5 pezzi'
+slug: 'B00ESXJXFI-it BIC Comfort 2 - Rasoio da uomo 1 confezione da 10+5 pezzi'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

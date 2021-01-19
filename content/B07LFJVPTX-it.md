@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Go0iSNpKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFJVPTX-it Levi s Ex-BF Sherpa Trucker Giacca in Jeans  Nero  Forever Black 0015   Large Donna'
+slug: 'B07LFJVPTX-it Levi s Ex-BF Sherpa Trucker Giacca in Jeans Nero Forever...'
+tags: 
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

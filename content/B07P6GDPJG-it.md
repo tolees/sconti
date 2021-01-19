@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GalgAVWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6GDPJG-it Philips S6640/44 Rasoio Elettrico Uomo S6000  Wet&Dry  Testina MultiFlex 5 direzioni  Lame MultiPrecision  Modalità Skin Guard con Regolabarba Uomo Integrato'
+slug: 'B07P6GDPJG-it Philips S6640/44 Rasoio Elettrico Uomo S6000 Wet&Dry...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

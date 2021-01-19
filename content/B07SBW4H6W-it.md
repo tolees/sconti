@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CqDtp63BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBW4H6W-it Puma Vista Sneaker Unisex - Adulto  Grigio  High Rise-Puma White-Castlerock 11   37 EU  4 UK '
+slug: 'B07SBW4H6W-it Puma Vista Sneaker Unisex - Adulto Grigio High Rise-Puma...'
+tags: 
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

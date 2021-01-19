@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51waC7lqK0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GXNF26-it Vileda Ultramat Turbo Sistema Lavapavimenti con Secchio  Strizzatore e Piastra  con 1 Panno in Microfibra  Nero/Rosso'
+slug: 'B078GXNF26-it Vileda Ultramat Turbo Sistema Lavapavimenti con Secchio...'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

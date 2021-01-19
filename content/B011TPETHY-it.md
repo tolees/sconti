@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yYbWUNlIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011TPETHY-it Outsunny HOMCOM Cavalletto Supporto Manutenzione per Bicicletta Riparazione Bici Pieghevole'
+slug: 'B011TPETHY-it Outsunny HOMCOM Cavalletto Supporto Manutenzione per...'
+tags: 
 actualPrice: 46.87 EUR
 currency: EUR
 price: 46.87

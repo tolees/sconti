@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TLzp6Of+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RNKJPS-it Funko Pop! TV Il trono di spade  Game of Thrones  - Tyrion Lannister Figura del vinile'
+slug: 'B071RNKJPS-it Funko Pop! TV Il trono di spade Game of Thrones - Tyrion...'
+tags: 
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

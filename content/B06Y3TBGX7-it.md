@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+VjkJCGtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3TBGX7-it Ardes AR5EA40PB Ventilatore Piantana  Nero  Pala 40 cm'
+slug: 'B06Y3TBGX7-it Ardes AR5EA40PB Ventilatore Piantana Nero Pala 40 cm'
+tags: 
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

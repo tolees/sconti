@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RGntjIAqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ7BDKT-it Gillette Fusion5 Proshield Rasoio da Uomo  1 Manico 5 lamette di Ricarica  Edizione limitata  Idea Regalo'
+slug: 'B07HJ7BDKT-it Gillette Fusion5 Proshield Rasoio da Uomo 1 Manico 5...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

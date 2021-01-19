@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nOFZT50EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HSR0S1E-it BURBERRY Brit Rhythm for Her Eau de Toilette Femme  90 ml spray'
+slug: 'B00HSR0S1E-it BURBERRY Brit Rhythm for Her Eau de Toilette Femme 90 ml...'
+tags: 
 actualPrice: 29.12 EUR
 currency: EUR
 price: 29.12

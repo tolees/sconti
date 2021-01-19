@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ei+b8q32L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CMHHWE-it Rimmel London Match Perfection Foundation  Fondotinta Liquido Pelle Ottima e Levigata a Lunga Tenuta  con SPF 20  200 Soft Beige  30 ml'
+slug: 'B015CMHHWE-it Rimmel London Match Perfection Foundation Fondotinta...'
+tags: 
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

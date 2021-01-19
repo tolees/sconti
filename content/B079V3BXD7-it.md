@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CTBbU7OEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079V3BXD7-it CRAYOLA Washimals Set Attività  per Colorare e Fare il Bagnetto ai Cuccioli  Gioco e Regalo  da 3 Anni'
+slug: 'B079V3BXD7-it CRAYOLA Washimals Set Attività per Colorare e Fare il...'
+tags: 
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

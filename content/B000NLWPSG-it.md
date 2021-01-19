@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TPLpH+kaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NLWPSG-it Casio Orologio Digitale al Quarzo Uomo con Cinturino in Resina LW-200-4AVEF'
+slug: 'B000NLWPSG-it Casio Orologio Digitale al Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35

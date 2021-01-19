@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SIQlVpRkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JSLWZF3-it HANMUN Sonagli per Bambini Giocattoli  Giochi Neonati Infantile Scuotendo la Campana Set sonaglio con Conservazione Scatola BPA Giocattoli gratuiti per 0  3  6  9  12 Mesi Neonato'
+slug: 'B08JSLWZF3-it HANMUN Sonagli per Bambini Giocattoli Giochi Neonati...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

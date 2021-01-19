@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41veW5rJ9DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDPC2LT-it Ajax - Detersivo Crystal Clean  per Vetri  Con Ammoniaca  100% Anti-Alone - 6 pezzi da 750 ml [4500 ml]'
+slug: 'B01MDPC2LT-it Ajax - Detersivo Crystal Clean per Vetri Con Ammoniaca...'
+tags: 
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

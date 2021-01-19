@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jJWl5LHkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKGQ6WN-it Carioca Roller Birello | Astuccio Giallo con Pennarelli Doppia Punta Super Lavabili  Pennarelli Punta Fine e Punta Media  con Chiusura Velcro  24 Pezzi'
+slug: 'B07VKGQ6WN-it Carioca Roller Birello | Astuccio Giallo con Pennarelli...'
+tags: 
 actualPrice: 13.12 EUR
 currency: EUR
 price: 13.12

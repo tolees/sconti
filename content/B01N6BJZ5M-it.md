@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bUPSnasKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6BJZ5M-it Lower East impermeable Uomo  Blu  Navy   Large'
+slug: 'B01N6BJZ5M-it Lower East impermeable Uomo Blu Navy Large'
+tags: 
 actualPrice: 11.31 EUR
 currency: EUR
 price: 11.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hV24iS0pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWPX6E2-it Nike Tanjun Mn  Scarpe Sportive Uomo  Nero  Black/White   44.5 EU'
+slug: 'B00XWPX6E2-it Nike Tanjun Mn Scarpe Sportive Uomo Nero Black/White 44.5 EU'
+tags: 
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

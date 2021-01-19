@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sQNjuLicL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S27NHX8-it Tristar FR-6946 Friggitrice 3 L elettrica  2000 W  3000 milliliters  Acciaio inossidabile  Argento'
+slug: 'B07S27NHX8-it Tristar FR-6946 Friggitrice 3 L elettrica 2000 W 3000...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

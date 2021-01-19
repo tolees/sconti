@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-gqZCBbcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRFCP6M-it adidas Lin Duffle M  Borsa Sportiva Unisex – Adulto  Legend Ink/Tech Indigo/White  Taglia Unica'
+slug: 'B07ZRFCP6M-it adidas Lin Duffle M Borsa Sportiva Unisex – Adulto Legend...'
+tags: 
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

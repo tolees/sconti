@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ygdVTAmFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L85LFDK-it HuaNuo Supporto per Laptop con Cuscino su Letto & Divano  Supporto per Monitor  Scrivania per Ginocchio con Foro per Cavi e Striscia Antiscivolo  Adatto per Laptop Fino a 15 6"'
+slug: 'B07L85LFDK-it HuaNuo Supporto per Laptop con Cuscino su Letto & Divano...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

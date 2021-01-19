@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RTghFx9zL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N48KYHH-it Goodstè Porta Carte Di Credito Tascabile Portatessere Donna Blocco NFC RFID Protection Mini Portafoglio Uomo Secrid Portamonete Zip/Cerniera Tessere monete schermato Rigido Slim In Pelle  Nero Liscio '
+slug: 'B07N48KYHH-it Goodstè Porta Carte Di Credito Tascabile Portatessere...'
+tags: 
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

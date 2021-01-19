@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b32WsKF3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CX8YWTH-it ProAction Nuts Bar  frutta  confezione da 30 barrette da 30 g '
+slug: 'B07CX8YWTH-it ProAction Nuts Bar frutta confezione da 30 barrette da 30 g'
+tags: 
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

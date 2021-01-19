@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/212nZSeQIIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3RQVFS-it adidas Continental 80 W  Scarpe da Fitness Donna  Multicolore  Ftwbla/Rosaut/Ros Cl A 000   39 1/3 EU'
+slug: 'B07K3RQVFS-it adidas Continental 80 W Scarpe da Fitness Donna...'
+tags: 
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

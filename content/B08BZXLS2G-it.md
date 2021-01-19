@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EaB6wU8pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZXLS2G-it Melchioni ARTIC47LT Mini frigo bar con congelatore  A+  Silenzioso  47L  Compressore e freezer  Frigorifero piccolo portatile da camera  ufficio  B&B  Hotel [Classe di efficienza energetica A+]'
+slug: 'B08BZXLS2G-it Melchioni ARTIC47LT Mini frigo bar con congelatore A+...'
+tags: 
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

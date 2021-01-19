@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jJZ7OqmWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH9K34N-it Timberland Union Wharf Plain Toe  Sneaker Infilare Uomo  Nero  Black Canvas   44.5 EU'
+slug: 'B07FH9K34N-it Timberland Union Wharf Plain Toe Sneaker Infilare Uomo...'
+tags: 
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

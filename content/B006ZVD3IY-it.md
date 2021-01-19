@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DgDX0JV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ZVD3IY-it SYLVANIAN FAMILIES Accessori  Multicolore  2745'
+slug: 'B006ZVD3IY-it SYLVANIAN FAMILIES Accessori Multicolore 2745'
+tags: 
 actualPrice: 57.35 EUR
 currency: EUR
 price: 57.35

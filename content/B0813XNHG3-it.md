@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iyyw7dFBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813XNHG3-it Adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Core Black  41 1/3 EU'
+slug: 'B0813XNHG3-it Adidas Superstar Scarpe da Ginnastica Uomo Core Black/Ftwr...'
+tags: 
 actualPrice: 39.75 EUR
 currency: EUR
 price: 39.75

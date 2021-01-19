@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cWLlJHi5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNJNRQ5-it Tomb Raider  4K+Br '
+slug: 'B07BNJNRQ5-it Tomb Raider 4K+Br'
+tags: 
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

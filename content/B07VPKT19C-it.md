@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jooVwdHjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPKT19C-it Fossil Donna Acciaio Inossidabile Orecchini a Pendolo e Goccia Jf03191791  Oro/ rosa'
+slug: 'B07VPKT19C-it Fossil Donna Acciaio Inossidabile Orecchini a Pendolo e...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

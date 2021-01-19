@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414zlBMxSKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTPF8ZC-it Simple Modern Wanderer Zaino Donna  Uomo  o Bambini con Tasca per laptop - per Scuola  Lavoro  Escursioni o Viaggi. Cerniera a 4 vie  Porta PC o Borsa Zaino Donna - Nero Mezzanotte'
+slug: 'B07WTPF8ZC-it Simple Modern Wanderer Zaino Donna Uomo o Bambini con...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

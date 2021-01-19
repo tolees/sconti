@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YvQ4GtBqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD9FG6B-it Orient Orologio Analogico Automatico Uomo con Cinturino in Gomma FAA02007B9'
+slug: 'B07FD9FG6B-it Orient Orologio Analogico Automatico Uomo con Cinturino in...'
+tags: 
 actualPrice: 113.0 EUR
 currency: EUR
 price: 113.0

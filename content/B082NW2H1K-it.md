@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p8zAjKXFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NW2H1K-it Sntieecr Elettronica Motore Circuiti  Giochi Educativi e Scientifici Kit per Bambini STEM Esperimenti Progetti Scientifici'
+slug: 'B082NW2H1K-it Sntieecr Elettronica Motore Circuiti Giochi Educativi e...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

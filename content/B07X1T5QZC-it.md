@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511uOHDDQpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1T5QZC-it Eastpak Padded Pak R Zaino  40 cm  24 L  Rosa  Meshknit Pink '
+slug: 'B07X1T5QZC-it Eastpak Padded Pak R Zaino 40 cm 24 L Rosa Meshknit Pink'
+tags: 
 actualPrice: 25.56 EUR
 currency: EUR
 price: 25.56

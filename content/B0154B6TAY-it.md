@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Edx1Sd2bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0154B6TAY-it Lorus Orologio Analogico-Digitale Quarzo Uomo con Cinturino in Acciaio Inox RW623AX9'
+slug: 'B0154B6TAY-it Lorus Orologio Analogico-Digitale Quarzo Uomo con...'
+tags: 
 actualPrice: 58.71 EUR
 currency: EUR
 price: 58.71

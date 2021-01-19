@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41abwx2EEJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJKW91D-it Tommy Hilfiger Colorblocked Hooded Zip Through Felpa  Grigio  Grey 0cs   Medium Uomo'
+slug: 'B07RJKW91D-it Tommy Hilfiger Colorblocked Hooded Zip Through Felpa...'
+tags: 
 actualPrice: 36.15 EUR
 currency: EUR
 price: 36.15

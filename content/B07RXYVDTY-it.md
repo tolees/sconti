@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h742gsXGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXYVDTY-it adidas Cush CRW 3pp  Calzini Uomo  Multicolore  Black/Grey/White   M'
+slug: 'B07RXYVDTY-it adidas Cush CRW 3pp Calzini Uomo Multicolore...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

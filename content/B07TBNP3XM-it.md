@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/215g7lfUCHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBNP3XM-it adidas Grand Court I  Scarpe da Ginnastica Unisex-Bambini  Ftwwht/coppmt/glopnk  27 EU'
+slug: 'B07TBNP3XM-it adidas Grand Court I Scarpe da Ginnastica Unisex-Bambini...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gm7055HvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008CFT81M-it Zig Zag  Insetticida  Habitat  Multinsetto  Inodore  Ideale per Cimici  Mosche  Zanzare  Scarafaggi  Formiche  Zecche  prodotto a lento rilascio  ml 500'
+slug: 'B008CFT81M-it Zig Zag Insetticida Habitat Multinsetto Inodore Ideale per...'
+tags: 
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

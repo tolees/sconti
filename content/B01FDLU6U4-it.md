@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5196x7RdNwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FDLU6U4-it Red Bull Energy Drink Gusto Frutti Rossi e Agrumi  12 lattine da 250 ml'
+slug: 'B01FDLU6U4-it Red Bull Energy Drink Gusto Frutti Rossi e Agrumi 12...'
+tags: 
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

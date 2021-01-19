@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LAwr3ipYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C5CG7H8-it VBIGER Guanti Invernali Uomo Donna Guanti Ciclismo Guanti Sportivi con Silicone Antiscivolo e Funzione Touch Screen per Escursionismo Guida Corsa Ciclismo All aperto  M '
+slug: 'B08C5CG7H8-it VBIGER Guanti Invernali Uomo Donna Guanti Ciclismo Guanti...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

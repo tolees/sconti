@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c3Oo3n+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086F8RDSC-it Neutro Roberts Sapone Liquido Ecopouch Nutriente  400 ml  12 Pezzi'
+slug: 'B086F8RDSC-it Neutro Roberts Sapone Liquido Ecopouch Nutriente 400 ml 12...'
+tags: 
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

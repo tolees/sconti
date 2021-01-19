@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QeuMZJ+LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQ34HHD-it Telecamera di Sorveglianza WiFi 1080P Littlelf Telecamera wifi Interno Alexa Videocamera IP Cam Baby Monitor Notifiche in tempo reale del sensore di movimento  Audio Bidirezionale  Visione Notturna'
+slug: 'B07ZQ34HHD-it Telecamera di Sorveglianza WiFi 1080P Littlelf Telecamera...'
+tags: 
 actualPrice: 39.59 EUR
 currency: EUR
 price: 39.59

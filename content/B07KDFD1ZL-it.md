@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NB+IIbr9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KDFD1ZL-it adidas Regista 18  Giacca da Rappresentanza Uomo  Black/White  S'
+slug: 'B07KDFD1ZL-it adidas Regista 18 Giacca da Rappresentanza Uomo Black/White S'
+tags: 
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

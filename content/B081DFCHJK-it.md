@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kjdNzf0oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DFCHJK-it Rio Mare  Insalatissime Delizia di Mais e Tonno Pinne Gialle con Piselli  Carote e Olive  Senza Conservanti  2 Lattine da 160 g'
+slug: 'B081DFCHJK-it Rio Mare Insalatissime Delizia di Mais e Tonno Pinne...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

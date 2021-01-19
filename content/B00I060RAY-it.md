@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hDYD4xYKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I060RAY-it givova Visa Fluo  Tuta da Ginnastica Uomo  Nero/Bianco  L'
+slug: 'B00I060RAY-it givova Visa Fluo Tuta da Ginnastica Uomo Nero/Bianco L'
+tags: 
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

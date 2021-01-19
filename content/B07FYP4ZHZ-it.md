@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51esaM0-TmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYP4ZHZ-it Crema Termogenica Anticellulite Vovees Reducto Lipocream - Brucia Grassi e Snellente - 200ml'
+slug: 'B07FYP4ZHZ-it Crema Termogenica Anticellulite Vovees Reducto Lipocream -...'
+tags: 
 actualPrice: 29.93 EUR
 currency: EUR
 price: 29.93

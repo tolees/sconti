@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ybknuFZJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y51JJF6-it TUTUO Wireless Controller per Nintendo Switch  Bluetooth Joystick Gamepad Sostituzione per Joy con Compatibile con Nintendo Switch PRO - Supporto connessione cablata'
+slug: 'B07Y51JJF6-it TUTUO Wireless Controller per Nintendo Switch Bluetooth...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

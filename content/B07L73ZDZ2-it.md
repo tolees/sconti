@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z9UlbkrQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L73ZDZ2-it AX BOXING Sneakers Uomo Donna Scarpe da Ginnastica Sportive Running Fitness Casual Basse Trekking  41 EU  A8333-Grigio Scuro '
+slug: 'B07L73ZDZ2-it AX BOXING Sneakers Uomo Donna Scarpe da Ginnastica...'
+tags: 
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZnWwkzY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT2MQ31-it Desigual Bag Apolo Rotterdam Women - Borse a spalla Donna  Bianco  Crudo   15x30x31 cm  B x H T '
+slug: 'B07GT2MQ31-it Desigual Bag Apolo Rotterdam Women - Borse a spalla Donna...'
+tags: 
 actualPrice: 68.94 EUR
 currency: EUR
 price: 68.94

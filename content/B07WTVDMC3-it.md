@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AkeKB1faL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTVDMC3-it SmartDevil Hub USB 3.0 4 Porte 5Gbps con Cavo USB 3.0 da 2M LED  Hub Multiporta USB Supporta Windows  Mac OS  Linux Compatibile con MacBook  PS4  Xbox 360 One One S ECC  Bianco '
+slug: 'B07WTVDMC3-it SmartDevil Hub USB 3.0 4 Porte 5Gbps con Cavo USB 3.0 da...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

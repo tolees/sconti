@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RiU7nrl1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y69YLKS-it Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  1 x 75 ml'
+slug: 'B06Y69YLKS-it Antica Erboristeria Dentifricio Antibatterico Totale...'
+tags: 
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

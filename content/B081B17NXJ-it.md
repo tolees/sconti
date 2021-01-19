@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mNs1diseL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B17NXJ-it Adesivo Nano Sticker Supporto Antiscivolo Riutilizzabile Cuscinetti in Gel PU Lavabile Avvolgicavo Phone Holder Nano Casual Paste 2 Pack  Square  Transparent '
+slug: 'B081B17NXJ-it Adesivo Nano Sticker Supporto Antiscivolo Riutilizzabile...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318Uey7xdjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DSW4LN1-it L Oréal Paris Unlimited Mascara Allungante  Scovolino Pieghevole Risultato fino a 24 Ore  Effetto Lunga Durata  Nero'
+slug: 'B07DSW4LN1-it L Oréal Paris Unlimited Mascara Allungante Scovolino...'
+tags: 
 actualPrice: 6.58 EUR
 currency: EUR
 price: 6.58

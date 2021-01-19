@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T-b7MFTzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSTS7P7-it Phd Barrette Diet Smart Bar Lampone Al Cioccolato Fondente  12 X 64G  31% Proteiche - 820 Gr'
+slug: 'B06XSTS7P7-it Phd Barrette Diet Smart Bar Lampone Al Cioccolato Fondente...'
+tags: 
 actualPrice: 19.05 EUR
 currency: EUR
 price: 19.05

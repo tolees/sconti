@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Xp02r+vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAHBWE1-it Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere vie urinarie ● Formula concentrata ● Registrato Ministero Salute Italiano'
+slug: 'B01NAHBWE1-it Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere...'
+tags: 
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

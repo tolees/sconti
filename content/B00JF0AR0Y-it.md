@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-5LLKOr2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JF0AR0Y-it Microsoft 1850 Mobile Mouse Wireless  Nero'
+slug: 'B00JF0AR0Y-it Microsoft 1850 Mobile Mouse Wireless Nero'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

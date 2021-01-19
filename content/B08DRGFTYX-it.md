@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41No+JkBFXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DRGFTYX-it Telecamera Wifi Esterna  INQMEGAPRO 1080P PTZ Dome Telecamera di Sorveglianza Wireless  IP66 Impermeabile Videocamera di Sicurezza  Colorato Visione Notturna  Audio Bidirezionale  Motion Detection'
+slug: 'B08DRGFTYX-it Telecamera Wifi Esterna INQMEGAPRO 1080P PTZ Dome...'
+tags: 
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

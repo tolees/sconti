@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xx5yofx3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFZKGNH-it ssc napoli  Maglia Gara Home 2019/2020 Uomo  Blu  M'
+slug: 'B07SFZKGNH-it ssc napoli Maglia Gara Home 2019/2020 Uomo Blu M'
+tags: 
 actualPrice: 25.16 EUR
 currency: EUR
 price: 25.16

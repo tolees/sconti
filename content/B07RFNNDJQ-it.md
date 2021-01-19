@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iJWZFDIhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFNNDJQ-it Nike Downshifter 9  Scarpe da Corsa Uomo  Black/White/Particle Grey/Dk Smoke Grey/Ghost Green/Sapphire  40 EU'
+slug: 'B07RFNNDJQ-it Nike Downshifter 9 Scarpe da Corsa Uomo...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

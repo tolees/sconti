@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CXGBbEODL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BLKVME6-it Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inox SSC141P1'
+slug: 'B00BLKVME6-it Seiko Orologio Cronografo Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 151.0 EUR
 currency: EUR
 price: 151.0

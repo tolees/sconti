@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413hFTfZOwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003UMK2XU-it Mulino Bianco Merendine Flauti al Cioccolato  Snack Dolce per la Merenda  280 gr'
+slug: 'B003UMK2XU-it Mulino Bianco Merendine Flauti al Cioccolato Snack Dolce...'
+tags: 
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

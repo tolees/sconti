@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AIA4jn6EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716LRT1P-it Levi s Relaxed Graphic Crew  Felpa Donna  Grigio  Medium'
+slug: 'B0716LRT1P-it Levi s Relaxed Graphic Crew Felpa Donna Grigio Medium'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

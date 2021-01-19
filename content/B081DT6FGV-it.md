@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n7M4patxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DT6FGV-it Dalmo Soffione Doccia Ad Alta Pressione Soffione Per Doccia Universale Dimensione Collegare  Risparmio Idrico Alta Pressione Massaggio SPA 3 Mode Doccia Ammorbidisce l acqua Dura'
+slug: 'B081DT6FGV-it Dalmo Soffione Doccia Ad Alta Pressione Soffione Per...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

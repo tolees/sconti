@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w13Jp1inL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLYBLN-it Geox D NYDAME D  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   40 EU'
+slug: 'B07STLYBLN-it Geox D NYDAME D Scarpe da Ginnastica Basse Donna Bianco...'
+tags: 
 actualPrice: 37.56 EUR
 currency: EUR
 price: 37.56

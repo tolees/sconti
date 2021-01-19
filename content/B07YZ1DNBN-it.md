@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ULI4vF3EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZ1DNBN-it TACKLIFE Utensile Multifunzione Rotante  4V Cordless Utensili Fai Da Te con 2.0 Ah Batteria al Litio  Ricarica USB Potabile Mini Trapano Elettrico Perfetto per Lavoro Leggero  RTH30DC'
+slug: 'B07YZ1DNBN-it TACKLIFE Utensile Multifunzione Rotante 4V Cordless...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

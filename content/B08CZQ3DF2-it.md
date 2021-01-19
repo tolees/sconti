@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZvcVJZjQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZQ3DF2-it Souke Sports - Guanti da Ciclismo Uomo Donna Guanti da Bicicletta a Dito Pieno Enduro Guanti Touchscreen per MTB Bike Bici da Corsa Escursionismo e Alpinismo'
+slug: 'B08CZQ3DF2-it Souke Sports - Guanti da Ciclismo Uomo Donna Guanti da...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

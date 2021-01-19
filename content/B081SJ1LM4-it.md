@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WNSkjvRvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SJ1LM4-it adidas Urban Rain.RDY  Giacca Sportiva Uomo  Black  M'
+slug: 'B081SJ1LM4-it adidas Urban Rain.RDY Giacca Sportiva Uomo Black M'
+tags: 
 actualPrice: 57.1 EUR
 currency: EUR
 price: 57.1

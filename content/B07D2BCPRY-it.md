@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zM4mrNCeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2BCPRY-it Android 9.0 TV BOX TaNix 2 GB RAM 16 GB ROM Amlogic Quad-Core S905W 64 Bits CPU Smart TV Box 4K 3D H.265 TV Box BT 4.0 100Mbps LAN Internet Media Player'
+slug: 'B07D2BCPRY-it Android 9.0 TV BOX TaNix 2 GB RAM 16 GB ROM Amlogic Quad-...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ml5Jxn8LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FNNNM3-it Tommy Hilfiger O2285TIS 1C  Scarpe da Ginnastica Basse Uomo  Nero  Black   40 EU'
+slug: 'B071FNNNM3-it Tommy Hilfiger O2285TIS 1C Scarpe da Ginnastica Basse Uomo...'
+tags: 
 actualPrice: 50.1 EUR
 currency: EUR
 price: 50.1

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rJI7GkqOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBRLTRH-it BenQ EW3270U Monitor PC per Intrattenimento Video  HDR  UHD   Risoluzione 4K HDR  VA  95% DCI-P3  Brightness Intelligence Sensore  HDMI 2.0  DP 1.2  USB-C  DisplayPort  32 Pollici'
+slug: 'B07BBRLTRH-it BenQ EW3270U Monitor PC per Intrattenimento Video HDR UHD...'
+tags: 
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

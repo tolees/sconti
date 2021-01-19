@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JHyF5-auL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QV74JX6-it Marchio Amazon - TRUTH & FABLE Mini Tubino in Pizzo Donna  Nero  Black   38  Label: XXS'
+slug: 'B07QV74JX6-it Marchio Amazon - TRUTH & FABLE Mini Tubino in Pizzo Donna...'
+tags: 
 actualPrice: 36.48 EUR
 currency: EUR
 price: 36.48

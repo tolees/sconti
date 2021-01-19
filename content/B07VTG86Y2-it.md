@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412ib4EwZyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTG86Y2-it Levi s Levis 168sf Mid Cut 3p Calze  Blu  Navy 321   43/46  Taglia Produttore: 043  Uomo'
+slug: 'B07VTG86Y2-it Levi s Levis 168sf Mid Cut 3p Calze Blu Navy 321 43/46...'
+tags: 
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

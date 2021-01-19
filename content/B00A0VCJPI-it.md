@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eWvF+Z0-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A0VCJPI-it TP-Link TL-WA850RE Ripetitore Wireless Wifi Extender e Access Point  Velocità Single Band 300Mbps  Porta LAN  Potenzia la tua copertura Wi-Fi  Compatibile con tutti i modem router wifi  Bianco'
+slug: 'B00A0VCJPI-it TP-Link TL-WA850RE Ripetitore Wireless Wifi Extender e...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kCkaDagwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8HL7TJ-it Philips BRE275/00 Satinelle Essential Epilatore Elettrico Compatto  4 Accessori'
+slug: 'B07M8HL7TJ-it Philips BRE275/00 Satinelle Essential Epilatore Elettrico...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

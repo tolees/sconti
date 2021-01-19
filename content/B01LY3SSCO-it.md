@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417G3nWXnvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY3SSCO-it Foppapedretti Babyroad - Seggiolino Auto  Gruppo 1-2-3  9-36 Kg  per Bambini da 9 Mesi a 12 Anni Circa  Marron Glace'
+slug: 'B01LY3SSCO-it Foppapedretti Babyroad - Seggiolino Auto Gruppo 1-2-3 9-36...'
+tags: 
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

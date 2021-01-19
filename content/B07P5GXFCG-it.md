@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417n7RP3VRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5GXFCG-it GB GOLD Everna-Fix Seggiolino Auto per Bambini  per Auto con Isofix  Gruppo 1/2/3  9-36 kg  dai 9 Mesi ai 12 Anni  Velvet Black'
+slug: 'B07P5GXFCG-it GB GOLD Everna-Fix Seggiolino Auto per Bambini per Auto...'
+tags: 
 actualPrice: 207.52 EUR
 currency: EUR
 price: 207.52

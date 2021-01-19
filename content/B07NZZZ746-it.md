@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YprQvAt9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZZZ746-it HyperX HX-MICQC-BK Quadcast  Microfono Standalone per Streamer e Podcaster'
+slug: 'B07NZZZ746-it HyperX HX-MICQC-BK Quadcast Microfono Standalone per...'
+tags: 
 actualPrice: 106.18 EUR
 currency: EUR
 price: 106.18

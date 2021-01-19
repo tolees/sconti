@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t95ah6PlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Y1DHLY-it Integratore Probiotici con Prebiotici - 16 Ceppi Batterici tra cui Lactobacillus e Bifidobacterium - Vegano - Capsule a Rilascio Graduale- Fermenti Lattici da NutriZing - Senza Glutine - Prodotto UE'
+slug: 'B071Y1DHLY-it Integratore Probiotici con Prebiotici - 16 Ceppi Batterici...'
+tags: 
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

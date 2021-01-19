@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Wbg875sGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BR7MZP6-it Yoofoss Set di 5 Asciugamani Viso-Mani in Microfibra in Pile di Corallo 35 * 75 cm Asciugamani ad Asciugatura Rapida Leggeri e Altamente Assorbenti'
+slug: 'B08BR7MZP6-it Yoofoss Set di 5 Asciugamani Viso-Mani in Microfibra in...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

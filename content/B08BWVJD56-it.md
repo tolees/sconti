@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316IX89I8SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BWVJD56-it eXtremeRate Tasti Ricambio per Playstation 4 PS4 Pro Slim Controller Trigger R1 L1 R2 L2 D-pad Touchpad Pulsante Azione Home Share Option per PS4 Joystick CUH-ZCT2 Bianco '
+slug: 'B08BWVJD56-it eXtremeRate Tasti Ricambio per Playstation 4 PS4 Pro Slim...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

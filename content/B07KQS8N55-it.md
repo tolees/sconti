@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4130y0OGb1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQS8N55-it Vileda Steam XXL Scopa a Vapore  Rosso/Nero'
+slug: 'B07KQS8N55-it Vileda Steam XXL Scopa a Vapore Rosso/Nero'
+tags: 
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

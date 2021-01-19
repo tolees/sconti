@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CEi0wzXNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086B1KBVG-it Xiaomi Mi 10 Smartphone  256 + 8 GB  Twilight Grey'
+slug: 'B086B1KBVG-it Xiaomi Mi 10 Smartphone 256 + 8 GB Twilight Grey'
+tags: 
 actualPrice: 590.0 EUR
 currency: EUR
 price: 590.0

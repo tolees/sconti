@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dSc0jejML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GV6TQ86-it Mocio e Secchio in Microfibra per La Pulizia del Pavimenti con 4 Cuscinetti Set di Flat Squeeze Mop Lavapavimenti con Secchio per Casa  Ufficio per Tutti i Tipi di Pavimenti Masthome'
+slug: 'B07GV6TQ86-it Mocio e Secchio in Microfibra per La Pulizia del Pavimenti...'
+tags: 
 actualPrice: 53.58 EUR
 currency: EUR
 price: 53.58

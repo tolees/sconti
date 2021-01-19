@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516ul9QbiaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087FFF5WP-it FLYLINKTECH Avviatore di Emergenza per Auto  2500A Peak 24000mAh Avviamento Batteria per Auto Portatile con Presa CA da 100 W  Fino a Tutti i Gas o Motore Diesel 8.0L '
+slug: 'B087FFF5WP-it FLYLINKTECH Avviatore di Emergenza per Auto 2500A Peak...'
+tags: 
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

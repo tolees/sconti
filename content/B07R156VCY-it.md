@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MUGQzPuyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R156VCY-it Marchio Amazon - Happy Belly Pistacchi tostati e salati 6x250g'
+slug: 'B07R156VCY-it Marchio Amazon - Happy Belly Pistacchi tostati e salati...'
+tags: 
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

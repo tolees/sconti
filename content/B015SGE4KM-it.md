@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ncLhveXoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SGE4KM-it Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Rosso  45/46 EU'
+slug: 'B015SGE4KM-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto...'
+tags: 
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

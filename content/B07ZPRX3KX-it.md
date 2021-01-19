@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fdXz--EaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPRX3KX-it Hurley M Phtm Vagabond Elite  Cappelli Uomo  Dk Smoke Grey  L/XL'
+slug: 'B07ZPRX3KX-it Hurley M Phtm Vagabond Elite Cappelli Uomo Dk Smoke Grey L/XL'
+tags: 
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412YMRWlruL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYR6S77-it Foppapedretti Babyroad - Seggiolino Auto  Gruppo 1-2-3  9-36 Kg  per Bambini da 9 Mesi a 12 Anni Circa  Rouge'
+slug: 'B01LYR6S77-it Foppapedretti Babyroad - Seggiolino Auto Gruppo 1-2-3 9-36...'
+tags: 
 actualPrice: 50.55 EUR
 currency: EUR
 price: 50.55

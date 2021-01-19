@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f9LdKY0xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RXSJ8C-it heekpek Costume da Bagno Donna V Profonda Imbottito Swimsuit Halter Cute Beachwear Ruffles Flounce Regolabile Bikini Costumi da Bagno Due Pezzi'
+slug: 'B085RXSJ8C-it heekpek Costume da Bagno Donna V Profonda Imbottito...'
+tags: 
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

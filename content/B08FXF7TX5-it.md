@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ukwSSmHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FXF7TX5-it RIIMUHIR Vetro Temperato per Xiaomi Mi Note 10/Note 10 PRO/Note 10 Lite [2 Pezzi]  Protezioni per Lo Schermo per Xiaomi Mi Note 10/Note 10 PRO/Note 10 Lite [9D Copertura Completa] [Alta sensibilità]'
+slug: 'B08FXF7TX5-it RIIMUHIR Vetro Temperato per Xiaomi Mi Note 10/Note 10...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

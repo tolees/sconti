@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q0PRqeavL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS3ZX16-it Apple iPhone 11 Pro  64GB  - Verde Notte'
+slug: 'B07XS3ZX16-it Apple iPhone 11 Pro 64GB - Verde Notte'
+tags: 
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

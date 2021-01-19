@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YVIimMqxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJXNR9P-it Lacoste Pj2909 Polo  Viola  Corsaire 68t   12 anni  Taglia Produttore: 12A  Bambino'
+slug: 'B07TJXNR9P-it Lacoste Pj2909 Polo Viola Corsaire 68t 12 anni Taglia...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

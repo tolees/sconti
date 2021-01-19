@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gbnwo9XLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZLW34Y-it Gillette SkinGuard Sensitive Lamette di Ricarica per Rasoio Uomo  Confezione da 14 Lamette di Ricambio per Pelli Sensibili'
+slug: 'B07YZLW34Y-it Gillette SkinGuard Sensitive Lamette di Ricarica per...'
+tags: 
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

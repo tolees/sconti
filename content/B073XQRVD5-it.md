@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KBn1dNWBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XQRVD5-it Head & shoulders Men Ultra Purificante Shampoo Antiforfora  Pacco da 6 x 225 ml'
+slug: 'B073XQRVD5-it Head & shoulders Men Ultra Purificante Shampoo Antiforfora...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

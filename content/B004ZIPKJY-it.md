@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jozfR9+LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ZIPKJY-it Helly Hansen New Driftline Maglia T-Shirt con UPF 30+ e Tessuto Tactel a Maniche Corte  Design Sportivo e Casual  per Sci  Escursionismo  Vela e per Uso Quotidiano   Nero  Nero   2XL  Uomo'
+slug: 'B004ZIPKJY-it Helly Hansen New Driftline Maglia T-Shirt con UPF 30+ e...'
+tags: 
 actualPrice: 33.53 EUR
 currency: EUR
 price: 33.53

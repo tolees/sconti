@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yDiCgTkbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IZZCSHO-it Swiffer Starter Kit XXL Scopa con 1 Manico + 8 Panni di Ricambio  per Catturare E Intrappolare La Polvere'
+slug: 'B01IZZCSHO-it Swiffer Starter Kit XXL Scopa con 1 Manico + 8 Panni di...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+uJAOGSCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8JJH9Y-it Epson Expression Premium XP-7100 Stampante Multifunzionale 3-in-1  Stampa  Scansione  Copia  Display Touch da 10.9 cm  Ethernet  A4  Nero'
+slug: 'B07H8JJH9Y-it Epson Expression Premium XP-7100 Stampante Multifunzionale...'
+tags: 
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

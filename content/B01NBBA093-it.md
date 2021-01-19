@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YYmMCxjGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBBA093-it Netgear GS305P Switch Ethernet PoE 5 porte Gigabit  4 porte PoE e budget energetico pari a 55W  switch unmanaged desktop  struttura in metallo senza ventole'
+slug: 'B01NBBA093-it Netgear GS305P Switch Ethernet PoE 5 porte Gigabit 4 porte...'
+tags: 
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

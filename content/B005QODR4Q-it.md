@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JDwdKcvrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005QODR4Q-it Stefanplast Tom Contenitore salvafreschezza per Cibo per Animali  Verde  46 Litri'
+slug: 'B005QODR4Q-it Stefanplast Tom Contenitore salvafreschezza per Cibo per...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

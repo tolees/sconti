@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fsgk0rCaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HZ1LHLN-it Hunty Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook. 1TB Nero '
+slug: 'B08HZ1LHLN-it Hunty Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

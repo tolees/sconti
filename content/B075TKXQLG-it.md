@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sic5CInCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TKXQLG-it Contorno Occhi Antirughe Vovees Theia Gel con Acido Ialuronico Bio - 8 Principi Attivi Vegan - 30ml'
+slug: 'B075TKXQLG-it Contorno Occhi Antirughe Vovees Theia Gel con Acido...'
+tags: 
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

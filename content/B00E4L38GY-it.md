@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eH+YOthAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E4L38GY-it Autan Tropical Vapo  Insetto Repellente e Antizanzare Comuni e Tropicali  1 Confezione da 100 ml  Protezione Lunga Durata'
+slug: 'B00E4L38GY-it Autan Tropical Vapo Insetto Repellente e Antizanzare...'
+tags: 
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

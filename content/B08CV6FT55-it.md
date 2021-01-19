@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vQk-aFrOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CV6FT55-it TANYO Cover per Xiaomi Redmi 9  Custodia TPU/PC Hybrid Custodie con 360° Supporto  Antiurto Guscio Protezione Bumper Case Caso  Rosso'
+slug: 'B08CV6FT55-it TANYO Cover per Xiaomi Redmi 9 Custodia TPU/PC Hybrid...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

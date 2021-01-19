@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i9ntn9-4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084WT4WWK-it Xiaomi Mi Wi-Fi Range Extender Pro Ripetitore Wireless  Velocità 300 Mbps  Prolunga del Segnale Wi-Fi  2 Antenne  Massimo 64 Dispositivi'
+slug: 'B084WT4WWK-it Xiaomi Mi Wi-Fi Range Extender Pro Ripetitore Wireless...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

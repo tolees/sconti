@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PJDLpWFNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BN1XGD6-it Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Dress Blues/Vintage Indigo T2L  43 EU'
+slug: 'B07BN1XGD6-it Vans Filmore Scarpe da Ginnastica Uomo Suede Canvas Dress...'
+tags: 
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

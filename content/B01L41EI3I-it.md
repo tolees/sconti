@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dVoA1CdOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L41EI3I-it Havaianas Origine III  Espadrillas Unisex-Adulto  Verde  Green   45 EU'
+slug: 'B01L41EI3I-it Havaianas Origine III Espadrillas Unisex-Adulto Verde...'
+tags: 
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

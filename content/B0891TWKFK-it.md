@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413diAQFmqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0891TWKFK-it Aigostar Lampada da Comodino  Moderna Lampada da Tavolo Base in Ceramica Paralume in Stoffa  Attacco E14  13 * 13 * 26 cm Cavo 1.3 Metri  Design Vintage.'
+slug: 'B0891TWKFK-it Aigostar Lampada da Comodino Moderna Lampada da Tavolo...'
+tags: 
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

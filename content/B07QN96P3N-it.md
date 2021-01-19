@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xEWwgXAFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QN96P3N-it Amzchef Tritatutto elettrico per alimenti con motore robusto  1.8L Ciotola in Acciaio Inox  2 livelli di velocità | Tritatutto Cucina da 300 W per Frutta  Verdura Carne Spezie'
+slug: 'B07QN96P3N-it Amzchef Tritatutto elettrico per alimenti con motore...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

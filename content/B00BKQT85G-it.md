@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wmyjVQi1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQT85G-it Daniel Wellington Analogico Quarzo Giapponese Orologio da Polso DW00100020'
+slug: 'B00BKQT85G-it Daniel Wellington Analogico Quarzo Giapponese Orologio da...'
+tags: 
 actualPrice: 56.65 EUR
 currency: EUR
 price: 56.65

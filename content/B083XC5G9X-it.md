@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mepO3El+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XC5G9X-it Manfrotto Befree Advanced Camo  Kit Treppiede Advanced Travel  con Testa a Sfera con Controlli Ergonomici  Chiusure Twist Lock  Treppiede Fotografico  Cavalletto per Videocamera e Fotocamera  Grigio'
+slug: 'B083XC5G9X-it Manfrotto Befree Advanced Camo Kit Treppiede Advanced...'
+tags: 
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GTY-zQDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3V8L8S-it homcom Cyclette Elettrica Compatto Altezza Regolabile in 6 Livelli Resistenza Regolabile Display LCD Acciaio  PP  Eva Bianco 41×50×96cm'
+slug: 'B07H3V8L8S-it homcom Cyclette Elettrica Compatto Altezza Regolabile in 6...'
+tags: 
 actualPrice: 70.67 EUR
 currency: EUR
 price: 70.67

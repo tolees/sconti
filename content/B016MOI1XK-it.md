@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R6fNQbUnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016MOI1XK-it Anker Altoparlante Bluetooth Soundcore  Speaker Portatile Senza Fili e Microfono Incorporato con Doppia Cassa  Audio di Alta Qualità con Bassi Puliti e Incredibile Durata di Riproduzione di 24 Ore '
+slug: 'B016MOI1XK-it Anker Altoparlante Bluetooth Soundcore Speaker Portatile...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

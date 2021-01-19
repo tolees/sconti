@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JuEXz+PSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WR8XFZG-it TACKLIFE Sega Circolare Avanzata  750 W  6 Velocità  125 mm e 115 mm per 6 Lame  Impugnatura in Metallo  Guida Laser - TCS115E'
+slug: 'B07WR8XFZG-it TACKLIFE Sega Circolare Avanzata 750 W 6 Velocità 125 mm e...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

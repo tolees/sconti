@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qI2nbD++L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073H9DYV6-it Parasole per Parabrezza - Tessuto 210T Il Migliore sul Mercato  Massima Protezione dai Raggi UV e dal Sole - Parasole Pieghevole per Auto  manterrà la Tua Auto più Fresca  Extra Large '
+slug: 'B073H9DYV6-it Parasole per Parabrezza - Tessuto 210T Il Migliore sul...'
+tags: 
 actualPrice: 17.27 EUR
 currency: EUR
 price: 17.27

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517qBmAj48L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4JVQVZ-it Funko-36025 Fortnite Valor  Multicolore  36025'
+slug: 'B07L4JVQVZ-it Funko-36025 Fortnite Valor Multicolore 36025'
+tags: 
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

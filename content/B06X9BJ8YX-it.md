@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TsIwG5SDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9BJ8YX-it ACE Wc Gel Disincrostante  2 Confezioni da 700 ml'
+slug: 'B06X9BJ8YX-it ACE Wc Gel Disincrostante 2 Confezioni da 700 ml'
+tags: 
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

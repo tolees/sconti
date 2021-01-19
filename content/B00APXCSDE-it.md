@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312vHxSQ8CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00APXCSDE-it Pentole Agnelli ALMA111B38 Padella Alta per Saltare  Manico Tubolare  Alluminio Professionale  38 cm'
+slug: 'B00APXCSDE-it Pentole Agnelli ALMA111B38 Padella Alta per Saltare Manico...'
+tags: 
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312BTHL3jJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXZFPV6-it Olimpia Splendid 99409 Caldo Crystal Termoventilatore Ceramico a Parete con Ionizzatore  ProtezioneIP23 e Telecomando  2000 W  230 V  Nero'
+slug: 'B07GXZFPV6-it Olimpia Splendid 99409 Caldo Crystal Termoventilatore...'
+tags: 
 actualPrice: 77.98 EUR
 currency: EUR
 price: 77.98

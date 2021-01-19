@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ndetLcSML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2X1Q1-it Geox U KENNET B  Scarpe da Ginnastica Basse Uomo  Bianco  White C1000   41 EU'
+slug: 'B07DJ2X1Q1-it Geox U KENNET B Scarpe da Ginnastica Basse Uomo Bianco...'
+tags: 
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

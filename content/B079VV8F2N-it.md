@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EKpZcnWQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VV8F2N-it L Oreal Paris Elvive- Dream Long Shampoo 370 ml  Paquete de 3 '
+slug: 'B079VV8F2N-it L Oreal Paris Elvive- Dream Long Shampoo 370 ml Paquete de 3'
+tags: 
 actualPrice: 6.34 EUR
 currency: EUR
 price: 6.34

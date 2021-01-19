@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bgyprsmJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089F2XN7G-it Coca-Cola Original Taste 330ml x24  Lattina '
+slug: 'B089F2XN7G-it Coca-Cola Original Taste 330ml x24 Lattina'
+tags: 
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

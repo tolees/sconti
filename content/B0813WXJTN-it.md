@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e3nI0W6AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813WXJTN-it adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore  Core Black/Core Black/Ftwr White   Fraction 41 And 1 Third'
+slug: 'B0813WXJTN-it adidas Lite Racer 2.0 Scarpe da Corsa Uomo Multicolore...'
+tags: 
 actualPrice: 32.36 EUR
 currency: EUR
 price: 32.36

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hwqHjioZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5JH3TK-it Muzili Aspirapolvere Scopa Elettrica Senza Fili 3 in 1 con Aspirazione Potente 20Kpa e Filtrazione HEPA  Fino a 30 Minuti di Tempo di Lavoro [Classe di efficienza energetica A+++]'
+slug: 'B07X5JH3TK-it Muzili Aspirapolvere Scopa Elettrica Senza Fili 3 in 1 con...'
+tags: 
 actualPrice: 119.69 EUR
 currency: EUR
 price: 119.69

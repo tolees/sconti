@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MIvEv2tAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2M1W2Y-it Trafficanti-War Dogs  4K+Br+Copia Dig. '
+slug: 'B01N2M1W2Y-it Trafficanti-War Dogs 4K+Br+Copia Dig.'
+tags: 
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

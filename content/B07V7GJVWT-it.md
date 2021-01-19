@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418jVCzoNkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7GJVWT-it Calvin Klein Instit Chest Logo Reg Tee T-Shirt  Blu  Coastal Blue C2o   Small Uomo'
+slug: 'B07V7GJVWT-it Calvin Klein Instit Chest Logo Reg Tee T-Shirt Blu Coastal...'
+tags: 
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

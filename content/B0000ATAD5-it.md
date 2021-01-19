@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FEIOWoC5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000ATAD5-it D-Link DUB-E100 Adattatore di Rete con Porta USB 2.0 e Porta LAN 10/100 Mbps  Connettore RJ45  Fast Ethernet  Nero e Antracite'
+slug: 'B0000ATAD5-it D-Link DUB-E100 Adattatore di Rete con Porta USB 2.0 e...'
+tags: 
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

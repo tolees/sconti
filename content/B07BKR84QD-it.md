@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5129qQtl2yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKR84QD-it Goodthreads Camicia a Maniche Lunghe in Chambray a Pois Slim Fit Uomo'
+slug: 'B07BKR84QD-it Goodthreads Camicia a Maniche Lunghe in Chambray a Pois...'
+tags: 
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mcI6y-YLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DHSJ65-it Lampada Portatile UVC Germicida Lampada UV Sterilizzazione Senza Prodotti Chimici per Mascherare Telefono Hotel'
+slug: 'B085DHSJ65-it Lampada Portatile UVC Germicida Lampada UV Sterilizzazione...'
+tags: 
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

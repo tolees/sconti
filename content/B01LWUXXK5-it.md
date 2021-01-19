@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QslcH3h-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWUXXK5-it Nivea Clear-up Stip Zona T  Pelli da Normali a Miste'
+slug: 'B01LWUXXK5-it Nivea Clear-up Stip Zona T Pelli da Normali a Miste'
+tags: 
 actualPrice: 3.13 EUR
 currency: EUR
 price: 3.13

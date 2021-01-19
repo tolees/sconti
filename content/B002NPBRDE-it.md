@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21qMZ0Z-FnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002NPBRDE-it Maybelline New York Color Sensational Matita Labbra  47 Pleasure Me Red'
+slug: 'B002NPBRDE-it Maybelline New York Color Sensational Matita Labbra 47...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

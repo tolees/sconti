@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xNkWhiwIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFGKRVB-it Levi s 2pk Crewneck Graphic T-Shirt  Multicolore  2 Pack SW White/Mineral Black 0000   Small Uomo'
+slug: 'B07LFGKRVB-it Levi s 2pk Crewneck Graphic T-Shirt Multicolore 2 Pack SW...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

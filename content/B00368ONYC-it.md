@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UcWvIecSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00368ONYC-it adidas Adilette  Ciabatte Unisex – Adulto  Blu  Adiblue G1/White/Adiblue G1   48.5 EU'
+slug: 'B00368ONYC-it adidas Adilette Ciabatte Unisex – Adulto Blu Adiblue...'
+tags: 
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

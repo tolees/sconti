@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oHDPC2T5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TZ73MW-it Kipling City Pack S - Zaini Donna  Nero  True Black   27x33.5x19 cm'
+slug: 'B077TZ73MW-it Kipling City Pack S - Zaini Donna Nero True Black...'
+tags: 
 actualPrice: 65.3 EUR
 currency: EUR
 price: 65.3

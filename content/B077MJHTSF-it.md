@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MJHTSF-it PUMA Smash v2 L  Scarpe da Ginnastica Uomo  Bianca White White  43 EU'
+slug: 'B077MJHTSF-it PUMA Smash v2 L Scarpe da Ginnastica Uomo Bianca White...'
+tags: 
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

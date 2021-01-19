@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5186zU0H5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9SYFC6-it Sony KD-49XG7005 TV Smart da 49"  4K Ultra HD  HDR  Slim Design  Nero'
+slug: 'B07P9SYFC6-it Sony KD-49XG7005 TV Smart da 49" 4K Ultra HD HDR Slim...'
+tags: 
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

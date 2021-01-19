@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bQ8U1bh8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NPNSR90-it Kenzo  Jungle  Eau de Toilette da uomo  100 ml'
+slug: 'B00NPNSR90-it Kenzo Jungle Eau de Toilette da uomo 100 ml'
+tags: 
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

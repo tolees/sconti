@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EguubwP5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STXN1MQ-it Skechers Energy Timeless Vision  Sneaker Donna  Bianco Bianco Pelle Rosso Navy Trim Wml  39 EU'
+slug: 'B07STXN1MQ-it Skechers Energy Timeless Vision Sneaker Donna Bianco...'
+tags: 
 actualPrice: 35.13 EUR
 currency: EUR
 price: 35.13

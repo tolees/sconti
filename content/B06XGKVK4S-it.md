@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51R0hSwiTVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGKVK4S-it Guess Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox W0836L2'
+slug: 'B06XGKVK4S-it Guess Orologio Analogico Quarzo Donna con Cinturino in...'
+tags: 
 actualPrice: 79.5 EUR
 currency: EUR
 price: 79.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VulWus2zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BY6F8D9-it Be Quiet! BK022 Dark Rock Pro 4 - Ventola per CPU  250 W  Nero'
+slug: 'B07BY6F8D9-it Be Quiet! BK022 Dark Rock Pro 4 - Ventola per CPU 250 W Nero'
+tags: 
 actualPrice: 72.98 EUR
 currency: EUR
 price: 72.98

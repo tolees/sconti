@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-IW35qCcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7DXSPY-it 2 batterie per controller Xbox One/Xbox One S/Xbox One X 1200 mAh ricaricabili con cavo di ricarica.'
+slug: 'B07V7DXSPY-it 2 batterie per controller Xbox One/Xbox One S/Xbox One X...'
+tags: 
 actualPrice: 25.91 EUR
 currency: EUR
 price: 25.91

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KZJHtjXFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ST9MM7Q-it Sottovuoto Macchina  ZUZPAO Cibo professionale per macchine per sigillanti a vuoto di UMAO  sigillo a vuoto Smart Touch con modalità di alimentazione a secco e umido per l uso di'
+slug: 'B07ST9MM7Q-it Sottovuoto Macchina ZUZPAO Cibo professionale per macchine...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

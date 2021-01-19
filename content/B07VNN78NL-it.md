@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41isho77bPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNN78NL-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini  Rosa  Pink GLO TZ7    Taglia Produttore: Small  Donna'
+slug: 'B07VNN78NL-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini Rosa Pink...'
+tags: 
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

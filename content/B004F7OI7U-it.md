@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41clySx4NnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004F7OI7U-it Alessi AKK80/13 Mini Girotondo - Sottobicchiere anti-umidità in acciaio INOX 18/10 a finitura lucida'
+slug: 'B004F7OI7U-it Alessi AKK80/13 Mini Girotondo - Sottobicchiere anti-...'
+tags: 
 actualPrice: 19.03 EUR
 currency: EUR
 price: 19.03

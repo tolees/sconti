@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Hw4tT7wIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTVB8CL-it Nike Wmns Court Royale AC CNV  Scarpe da Tennis Donna  Black/White  38.5 EU'
+slug: 'B07ZTVB8CL-it Nike Wmns Court Royale AC CNV Scarpe da Tennis Donna...'
+tags: 
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

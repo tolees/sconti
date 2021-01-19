@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uGsQ-HdfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FQTK3VL-it eXtremeRate Multicolori Pulsanti Luminosi Levette Analogiche D-pad ABXY ZR ZL L R Trigger Tasti DTFS LED Kit per Nintendo Switch Pro Controller-9 Colori Modi 6 Aree DIY Opzione'
+slug: 'B08FQTK3VL-it eXtremeRate Multicolori Pulsanti Luminosi Levette...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

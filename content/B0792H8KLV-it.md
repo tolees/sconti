@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DbL0AtbnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792H8KLV-it Geox U Ariam D  Scarpe da Ginnastica Basse Uomo  Grigio  Anthracite/Navy C9af4   39 EU'
+slug: 'B0792H8KLV-it Geox U Ariam D Scarpe da Ginnastica Basse Uomo Grigio...'
+tags: 
 actualPrice: 40.25 EUR
 currency: EUR
 price: 40.25

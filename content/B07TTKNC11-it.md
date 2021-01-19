@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SqlJHe9HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTKNC11-it Swarovski Braccialetto Nice Pearl  Bianco  Placcatura Rodio'
+slug: 'B07TTKNC11-it Swarovski Braccialetto Nice Pearl Bianco Placcatura Rodio'
+tags: 
 actualPrice: 55.4 EUR
 currency: EUR
 price: 55.4

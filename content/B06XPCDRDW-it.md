@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vblALq29L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPCDRDW-it Rowenta CF5712 Instant Straight Spazzola Elettrica Lisciante e Termica con Generatore di Ioni'
+slug: 'B06XPCDRDW-it Rowenta CF5712 Instant Straight Spazzola Elettrica...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

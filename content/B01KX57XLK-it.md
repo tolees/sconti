@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UK9EdwDSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KX57XLK-it Bio-Oil Olio per Cicatrici e Smagliature  Trattamento per la Pelle con Azione Idratante  Cicatrizzante e Anti Smagliature  Indicata per Pelli Sensibili  200 ml'
+slug: 'B01KX57XLK-it Bio-Oil Olio per Cicatrici e Smagliature Trattamento per...'
+tags: 
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ww-kfxg1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E4KZ6C4-it Autan Tropical Spray Secco  Insetto Repellente e Antizanzare Tigre  Comuni e Tropicali  1 Confezione da 100 ml'
+slug: 'B00E4KZ6C4-it Autan Tropical Spray Secco Insetto Repellente e...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

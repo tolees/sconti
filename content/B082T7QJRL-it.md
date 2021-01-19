@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bmkhlkkSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082T7QJRL-it Brooklyn Mega Stick Gomme da Masticare  Chewing Gum Gusti Assortiti Cinnamon  Chloro  Extramint  Liquorice  Spearmint  Confezione speciale da 8 Stick  Ottima come Idea Regalo'
+slug: 'B082T7QJRL-it Brooklyn Mega Stick Gomme da Masticare Chewing Gum Gusti...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

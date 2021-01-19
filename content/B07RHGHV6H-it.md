@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o-eG+wbTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHGHV6H-it Tommy Hilfiger Light Weight Hooded Jacket Bomber  Blu  Blue Dw5   Large Uomo'
+slug: 'B07RHGHV6H-it Tommy Hilfiger Light Weight Hooded Jacket Bomber Blu Blue...'
+tags: 
 actualPrice: 41.67 EUR
 currency: EUR
 price: 41.67

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jy3NST6wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSFVSRK-it GRIFEMA COMPLENTO-G803 Manopola Doccia Grande  G1 / 2 pollici  Diametro 120 mm   Soffione Doccia con 5 modalità Spray  Argento/Cromo'
+slug: 'B07SSFVSRK-it GRIFEMA COMPLENTO-G803 Manopola Doccia Grande G1 / 2...'
+tags: 
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

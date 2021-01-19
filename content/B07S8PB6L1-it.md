@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JSpDhWa5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PB6L1-it PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Verde White Mist Green Whisper White  44.5 EU'
+slug: 'B07S8PB6L1-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Unisex-Adulto...'
+tags: 
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

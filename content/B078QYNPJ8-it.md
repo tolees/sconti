@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4127QHYa8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078QYNPJ8-it Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Teal Olive 14  43 EU'
+slug: 'B078QYNPJ8-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Teal...'
+tags: 
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

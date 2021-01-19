@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tAU-L2UAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792HCFDR-it Diesel UMBR-ANDRETHREEPACK  Slip Uomo  Nero  Black/Black/Black E4101-0Jkkb   XXL  Pacco da 3'
+slug: 'B0792HCFDR-it Diesel UMBR-ANDRETHREEPACK Slip Uomo Nero...'
+tags: 
 actualPrice: 25.32 EUR
 currency: EUR
 price: 25.32

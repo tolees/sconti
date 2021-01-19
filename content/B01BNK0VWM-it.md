@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f1K+uFpSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BNK0VWM-it Rimmel Smalto Unghie Super Gel  Nail Polish Effetto Gel a Lunga Durata  041 Darling Dahlia  12 ml'
+slug: 'B01BNK0VWM-it Rimmel Smalto Unghie Super Gel Nail Polish Effetto Gel a...'
+tags: 
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

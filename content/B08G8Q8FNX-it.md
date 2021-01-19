@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31arOv8sQoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G8Q8FNX-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari Wireless Cuffie Sportive IPX7 Impermeabili Riduzione del Rumore Stereo 3D HD Insonorizzato adatte per Apple Air-Pods/Android/iPhone Cuffie In Ear'
+slug: 'B08G8Q8FNX-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

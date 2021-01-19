@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HOMf5hTXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9XKHDU-it Maybelline New York Ciglia Sensazionali Mascara Volumizzante Very Black  Effetto Ventaglio  1 Pezzo'
+slug: 'B00X9XKHDU-it Maybelline New York Ciglia Sensazionali Mascara...'
+tags: 
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

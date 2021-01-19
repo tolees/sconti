@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G+iI8l-oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087C2M5ZQ-it Lukasa Zanzariera Elettrica da Esterno  Lampada Antizanzare Ricaricabile USB Lampada Zanzare Campeggio 2-in-1 Luce Zanzare a LED con 3 modalità Illuminazione Impermeabile Trappola per Zanzare'
+slug: 'B087C2M5ZQ-it Lukasa Zanzariera Elettrica da Esterno Lampada Antizanzare...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

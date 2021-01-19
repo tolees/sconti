@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BNFF2h27L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDTVK5B-it Lampada Proiettore Stelle  Luce Notturna Bambini con Altoparlante Bluetooth/Modalità USB/Telecomando  Sensore del Ritmo Musicale Timer Multicolore Lampada Notturna Romantic Compleanno Party Regalo'
+slug: 'B08CDTVK5B-it Lampada Proiettore Stelle Luce Notturna Bambini con...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

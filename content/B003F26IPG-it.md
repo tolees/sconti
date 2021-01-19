@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aVavceNSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003F26IPG-it Lacoste L1212  T-Shirt Polo  Uomo  Rosa  Flamant T03   FR 2'
+slug: 'B003F26IPG-it Lacoste L1212 T-Shirt Polo Uomo Rosa Flamant T03 FR 2'
+tags: 
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DATVQ-xsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWL8M1L-it Tommy Jeans Tjm Chest Logo Tee Maglietta  Grigio  Lt Grey Htr P01   Large Uomo'
+slug: 'B07VWL8M1L-it Tommy Jeans Tjm Chest Logo Tee Maglietta Grigio Lt Grey...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

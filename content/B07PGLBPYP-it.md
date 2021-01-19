@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vORn4-18L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGLBPYP-it Timberland Adv 2.0 Cupsole Modern Oxford Sneaker  Uomo  Beige  Biscuit  Tb0a1yfz2551   41.5 EU  7.5 UK '
+slug: 'B07PGLBPYP-it Timberland Adv 2.0 Cupsole Modern Oxford Sneaker Uomo...'
+tags: 
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

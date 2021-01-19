@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C1vYnUsoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPXNH3M-it Lacoste Chaymon 120 1 CMA  Sneaker Uomo  Bianco  Wht/Grn 082   45 EU'
+slug: 'B07SPXNH3M-it Lacoste Chaymon 120 1 CMA Sneaker Uomo Bianco Wht/Grn 082...'
+tags: 
 actualPrice: 70.95 EUR
 currency: EUR
 price: 70.95

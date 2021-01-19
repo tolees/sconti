@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oca3QeEBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBF5K1J-it Desigual Bols rhapsody Merlo V - Borsa con manico  17 6 x 31 8 x 33 cm  colore: Marrone/Beige'
+slug: 'B07VBF5K1J-it Desigual Bols rhapsody Merlo V - Borsa con manico 17 6 x...'
+tags: 
 actualPrice: 27.15 EUR
 currency: EUR
 price: 27.15

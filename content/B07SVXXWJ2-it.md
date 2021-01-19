@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aRrFdDJ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVXXWJ2-it Geox D Hiver B  Sandali con Chiusura a T Donna  Marrone  Cognac C6001   39 EU'
+slug: 'B07SVXXWJ2-it Geox D Hiver B Sandali con Chiusura a T Donna Marrone...'
+tags: 
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

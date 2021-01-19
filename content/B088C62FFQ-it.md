@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JdDI-xxOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088C62FFQ-it Viakal Detersivo Anticalcare Spray Aceto  Maxi Formato 10 Pezzi da 515 ml'
+slug: 'B088C62FFQ-it Viakal Detersivo Anticalcare Spray Aceto Maxi Formato 10...'
+tags: 
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318kPZ0PelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJTJRQ5-it Momo Design Monaco 65 Monopattino Elettrico  Velocità massima 25km/h con autonomia fino a 13km  Nero/Bianco'
+slug: 'B07PJTJRQ5-it Momo Design Monaco 65 Monopattino Elettrico Velocità...'
+tags: 
 actualPrice: 161.02 EUR
 currency: EUR
 price: 161.02

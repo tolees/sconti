@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FbppoK18L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J4BO0X8-it Satechi Adattatore Multiporta Sottile Tipo-C in Alluminio con porta di ricarica USB-C  uscita video 4K HDMI  2 porte USB 3.0  Grigio Siderale '
+slug: 'B01J4BO0X8-it Satechi Adattatore Multiporta Sottile Tipo-C in Alluminio...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

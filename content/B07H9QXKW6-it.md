@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NJalRXCNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9QXKW6-it Apple Custodia in pelle  per iPhone XS  -  PRODUCT RED'
+slug: 'B07H9QXKW6-it Apple Custodia in pelle per iPhone XS - PRODUCT RED'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

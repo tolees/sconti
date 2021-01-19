@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316C4tGqnML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813VVQ9M-it adidas Stan Smith  Scarpe Uomo  Bianco  Cloud White/Cloud White/Lush Red   44 2/3 EU'
+slug: 'B0813VVQ9M-it adidas Stan Smith Scarpe Uomo Bianco Cloud White/Cloud...'
+tags: 
 actualPrice: 71.9 EUR
 currency: EUR
 price: 71.9

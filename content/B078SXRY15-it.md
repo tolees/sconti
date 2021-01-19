@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S-g3NCJ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SXRY15-it Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Nero  Black Canvas   40 EU'
+slug: 'B078SXRY15-it Timberland Union Wharf Lace Oxford Sneakers Basse Uomo...'
+tags: 
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

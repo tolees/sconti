@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319a0xbK9XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S24HY4Z-it MSI GS75 Stealth 9SE-493IT Notebook Gaming  17.3" FHD Intel Core i7 9750H  16 GB DDR IV  1TB SSD  Scheda Grafica Nvidia RTX 2060  6 GB [Layout Italiano]'
+slug: 'B07S24HY4Z-it MSI GS75 Stealth 9SE-493IT Notebook Gaming 17.3" FHD Intel...'
+tags: 
 actualPrice: 610.0 EUR
 currency: EUR
 price: 610.0

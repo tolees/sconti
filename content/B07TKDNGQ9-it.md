@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDNGQ9-it Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010   X-Small Uomo'
+slug: 'B07TKDNGQ9-it Levi s The Original T-Shirt Verde HM Patch Og HM Tee Olive...'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

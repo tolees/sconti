@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51flhxuStfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RML11PB-it L.O.L Surprise! - LOL Sparkle con Sorprese e Accessori - Giochi Preziosi  LLU77000 [Versione Italiana]'
+slug: 'B07RML11PB-it L.O.L Surprise! - LOL Sparkle con Sorprese e Accessori -...'
+tags: 
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

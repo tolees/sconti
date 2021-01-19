@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kfSGWzIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086SR1KML-it Asciugacapelli  Slopehill 1800W AC Phon Professionale Ioni Compatto per Viaggio  con Pulsante Caldo/Freddo  3 Temperature/2 Velocità/3 Concentratore e Diffusore  Cavo da 2.5m'
+slug: 'B086SR1KML-it Asciugacapelli Slopehill 1800W AC Phon Professionale Ioni...'
+tags: 
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

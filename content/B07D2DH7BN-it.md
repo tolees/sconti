@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31J8lbhDCdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2DH7BN-it È Pura - Maschera Salt Free Care - Trattamento Professionale Intensivo Senza Sale Aggiunto per Capelli Trattati Chimicamente - 300 ml'
+slug: 'B07D2DH7BN-it È Pura - Maschera Salt Free Care - Trattamento...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

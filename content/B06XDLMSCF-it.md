@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rB46wsPIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDLMSCF-it Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri '
+slug: 'B06XDLMSCF-it Nastro Azzurro - Cassa da 24 x 33 cl 7.92 litri'
+tags: 
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TjOpVOMyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1HFJXZ-it Havaianas Slim Crystal Glamour SW  Infradito Donna  Bianco  White/Metallic 3165   41/42 EU'
+slug: 'B07F1HFJXZ-it Havaianas Slim Crystal Glamour SW Infradito Donna Bianco...'
+tags: 
 actualPrice: 25.52 EUR
 currency: EUR
 price: 25.52

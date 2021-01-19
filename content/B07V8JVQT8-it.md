@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PWFJh8sGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8JVQT8-it Diadora - Sneakers Camaro per Uomo e Donna  EU 40 '
+slug: 'B07V8JVQT8-it Diadora - Sneakers Camaro per Uomo e Donna EU 40'
+tags: 
 actualPrice: 25.47 EUR
 currency: EUR
 price: 25.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YAMF2pcGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXC3O6N-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS5251SET'
+slug: 'B01LXC3O6N-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

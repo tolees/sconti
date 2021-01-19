@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HySUSGGiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNSDZCZ-it LEGO Duplo Movie 2 - I visitatori dal pianeta DUPLO di Emmet e Lucy  10895'
+slug: 'B07FNSDZCZ-it LEGO Duplo Movie 2 - I visitatori dal pianeta DUPLO di...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

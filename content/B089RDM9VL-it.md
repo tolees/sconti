@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S27ict-bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089RDM9VL-it TOSING Q9 microfono wireless per karaoke Bluetooth  luci a LED danzanti  portatile per macchine karaoke Magic Sound regalo，giocattoli da viaggio per feste compatibili con Android/Sony/PC Nero '
+slug: 'B089RDM9VL-it TOSING Q9 microfono wireless per karaoke Bluetooth luci a...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

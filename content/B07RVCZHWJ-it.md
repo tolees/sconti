@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419BoH0YfiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RVCZHWJ-it Diesel UMBX-SHAWNTHREEPACK  Slip Uomo  Blu  Dress Blues/Mazarine Blue/Dresden Blue E4974-0pawe   XS  Pacco da 3'
+slug: 'B07RVCZHWJ-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Blu Dress...'
+tags: 
 actualPrice: 17.07 EUR
 currency: EUR
 price: 17.07

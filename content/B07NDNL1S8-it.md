@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Y6zItrxEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNL1S8-it Olimpia Splendid 01913 Dolceclima Compact 8 P Climatizzatore Portatile  8000 BTU/h  2.1 kW  Natural Gas R290  Design Prodotto in Italia'
+slug: 'B07NDNL1S8-it Olimpia Splendid 01913 Dolceclima Compact 8 P...'
+tags: 
 actualPrice: 225.99 EUR
 currency: EUR
 price: 225.99

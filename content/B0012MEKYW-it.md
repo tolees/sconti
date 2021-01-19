@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012MEKYW-it Laser 2420 Manichetta Autoadescante'
+tags: 
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

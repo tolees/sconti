@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318DmmNCywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPMX4-it Napapijri Rainforest Pocket Giacca Uomo  100% Poliammide  Verde  Green Forest 2 GE3   M'
+slug: 'B07MCSPMX4-it Napapijri Rainforest Pocket Giacca Uomo 100% Poliammide...'
+tags: 
 actualPrice: 91.95 EUR
 currency: EUR
 price: 91.95

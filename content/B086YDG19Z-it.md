@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vdm5IbciL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YDG19Z-it 6×Lampada Solare Giardino Aigostar  Lampada a LED Segnapassi per Esterno  Impermeabile  Accensione e Spegnimento Automatici  Consigliato per Giardini o Terreni Morbidi Dove Posizionarlo.'
+slug: 'B086YDG19Z-it 6×Lampada Solare Giardino Aigostar Lampada a LED...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

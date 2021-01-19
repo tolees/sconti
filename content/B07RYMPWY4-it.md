@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o8oQGo60L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYMPWY4-it Levi s 502 Regular Taper Jeans  Blu  Stonewash Stretch T2 0555   34W / 36L Uomo'
+slug: 'B07RYMPWY4-it Levi s 502 Regular Taper Jeans Blu Stonewash Stretch T2...'
+tags: 
 actualPrice: 74.39 EUR
 currency: EUR
 price: 74.39

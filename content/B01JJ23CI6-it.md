@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61OH+VUDlsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JJ23CI6-it Elegoo Scheda Starter Ultimate Kit Piu Completo per Progetto Principianti con Tutorial in Italiano Learning Kit di Apprendimento Compatibile con progetti IDE Arduino 63 Articoli '
+slug: 'B01JJ23CI6-it Elegoo Scheda Starter Ultimate Kit Piu Completo per...'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

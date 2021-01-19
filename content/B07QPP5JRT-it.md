@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513fKrXGHRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPP5JRT-it Durex Love Collection Preservativi Assortiti Stimolanti e Sottili  Cofanetto Passione e Intimità  30 Profilattici'
+slug: 'B07QPP5JRT-it Durex Love Collection Preservativi Assortiti Stimolanti e...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IHcgt5H3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JVNYNR-it Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Rosso  Red Bourgogne R69   Medium Uomo'
+slug: 'B079JVNYNR-it Napapijri Rainforest Winter - Giacca con cappuccio 100 %...'
+tags: 
 actualPrice: 96.51 EUR
 currency: EUR
 price: 96.51

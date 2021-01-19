@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qd7Zh06hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YP4N7XT-it Motorola Moto E6 Play  Display Max Vision HD+ da 5 5"  32GB/2GB RAM  Slot MicroSD  Sensore Fotocamera da 13MP  Android 9.0  Dual SIM  Nero'
+slug: 'B07YP4N7XT-it Motorola Moto E6 Play Display Max Vision HD+ da 5 5"...'
+tags: 
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

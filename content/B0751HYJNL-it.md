@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415763hGJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751HYJNL-it Ribimex PRCEN013BAT Aspiracenere a Batteria Cenebat 18 L-18v  18 L'
+slug: 'B0751HYJNL-it Ribimex PRCEN013BAT Aspiracenere a Batteria Cenebat 18...'
+tags: 
 actualPrice: 55.19 EUR
 currency: EUR
 price: 55.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wziUPtWaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X1D31QX-it Imetec CH 1000 Tritatutto  4 Lame in Acciaio Inox  Capiente Contenitore 600 ml  Accessorio Frusta per Salse e Panna Montata  Funzionamento a Pressione  500 W'
+slug: 'B06X1D31QX-it Imetec CH 1000 Tritatutto 4 Lame in Acciaio Inox Capiente...'
+tags: 
 actualPrice: 27.55 EUR
 currency: EUR
 price: 27.55

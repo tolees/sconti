@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ujFE7uYTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HM5QSZN-it homcom Panca per Addominali Pieghevole per Allenarsi a Casa  Telaio in Acciaio  Altezza Regolabile  Imbottitura Nera e Rossa 48x135x61-68cm'
+slug: 'B08HM5QSZN-it homcom Panca per Addominali Pieghevole per Allenarsi a...'
+tags: 
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sEb+GvWsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4RV7SB-it adidas Falcon W  Scarpe da Ginnastica Donna  Nero  Core Black/Core Black/Grey Five   36 2/3 EU'
+slug: 'B07K4RV7SB-it adidas Falcon W Scarpe da Ginnastica Donna Nero Core...'
+tags: 
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

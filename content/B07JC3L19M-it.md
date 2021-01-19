@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ck55R2z-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC3L19M-it LEGO Overwatch - Osservatorio: Gibilterra   75975'
+slug: 'B07JC3L19M-it LEGO Overwatch - Osservatorio: Gibilterra 75975'
+tags: 
 actualPrice: 79.94 EUR
 currency: EUR
 price: 79.94

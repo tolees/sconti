@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XCGenUuSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D63K7FN-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Argento '
+slug: 'B08D63K7FN-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

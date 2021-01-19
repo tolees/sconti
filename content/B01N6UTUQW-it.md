@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vmmw-BMeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6UTUQW-it Sully  4K + Br + Dig.Copy '
+slug: 'B01N6UTUQW-it Sully 4K + Br + Dig.Copy'
+tags: 
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089MFLCL9-it Meller - Kendi All Black - Sunglasses for Men and Women'
+tags: 
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

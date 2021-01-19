@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51W8o+BQwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDL1ZQ4-it Spazzolino Elettrici Sonic con 6 Modalità Opzionali 3 Spazzolini Testine di Ricambio Ricarica USB dello Spazzolino durare 30 Giorni Timer Interno Intelligente  Nero'
+slug: 'B07QDL1ZQ4-it Spazzolino Elettrici Sonic con 6 Modalità Opzionali 3...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

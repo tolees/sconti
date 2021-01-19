@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j9-P2V4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBOITK8-it Tommy Hilfiger 3p Trunk Boxer  Nero  Black/Grey Heather/White 004   Medium  Pacco da 3  Uomo'
+slug: 'B00UBOITK8-it Tommy Hilfiger 3p Trunk Boxer Nero Black/Grey...'
+tags: 
 actualPrice: 32.15 EUR
 currency: EUR
 price: 32.15

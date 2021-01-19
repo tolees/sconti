@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5144haXJ6UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTGCXK6-it morpilot Guinzaglio Cane  Guinzaglio per Cani Resistente e Robusto  Guinzaglio Elastico in Nylon Riflettente con Impugnatura Imbottita Morbida  Adatto per Addestramento/Corsa + Sacchetti di Spazzatura'
+slug: 'B07MTGCXK6-it morpilot Guinzaglio Cane Guinzaglio per Cani Resistente e...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514IwO1R-LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HLSDN5J-it Didisky Pellicola Protettiva in Vetro Temperato per Xiaomi Redmi Note 5  [2 Pezzi] Protezione Schermo [Tocco Morbido ] Facile da Pulire  Facile da installare  Trasparente'
+slug: 'B08HLSDN5J-it Didisky Pellicola Protettiva in Vetro Temperato per Xiaomi...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

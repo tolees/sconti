@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bgMkLP6lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BYGWP4J-it INNZA Epilatore Luce Pulsata IPL Hair Removal 999 000 Impulsi di Luce Epilazione Definitiva Professionale Dispositivo Indolore Permanente di Rimozione per Ascella Facciale Bikiniline'
+slug: 'B08BYGWP4J-it INNZA Epilatore Luce Pulsata IPL Hair Removal 999 000...'
+tags: 
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

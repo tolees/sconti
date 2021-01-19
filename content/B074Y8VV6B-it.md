@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NDO10DbnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074Y8VV6B-it Panasonic NN-GD38HSSUG Forno a Microonde  1000 W  23 Litri  Nero  Banda Frontale Silver'
+slug: 'B074Y8VV6B-it Panasonic NN-GD38HSSUG Forno a Microonde 1000 W 23 Litri...'
+tags: 
 actualPrice: 164.99 EUR
 currency: EUR
 price: 164.99

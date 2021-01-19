@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s-yfIlMfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074GVZLYX-it Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   X-Small  Taglia Produttore: 2  Uomo'
+slug: 'B074GVZLYX-it Lacoste Sport TH0123 T-Shirt Bianco Blanc X-Small Taglia...'
+tags: 
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

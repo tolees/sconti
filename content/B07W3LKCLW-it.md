@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tP5odM6zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W3LKCLW-it Oral-B Pro 2 2000 Cross Action Spazzolino Elettrico Ricaricabile   1 Spazzolino con Sensore di Pressione dello Spazzolamento Visibile  1 Testina'
+slug: 'B07W3LKCLW-it Oral-B Pro 2 2000 Cross Action Spazzolino Elettrico...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

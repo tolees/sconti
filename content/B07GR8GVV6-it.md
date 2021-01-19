@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uz1aszbnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GR8GVV6-it Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero  CK Black 099   M Donna'
+slug: 'B07GR8GVV6-it Calvin Klein Core Institutional Logo Slim Fit Tee...'
+tags: 
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

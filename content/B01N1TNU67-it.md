@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZsykTEwmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1TNU67-it Arteza Pennarelli Acquerello Professionali  Set da 24 Colori Acquerellabili  Punta Flessibile Morbida a Pennello  Facili da Usare  Ideali per Realizzare Schizzi  Disegni  Pitture e Illustrazioni.'
+slug: 'B01N1TNU67-it Arteza Pennarelli Acquerello Professionali Set da 24...'
+tags: 
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

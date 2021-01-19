@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IPDyA50XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015MM3TGC-it SLOTRA Zaino per Computer Portatile 15.6 Pollici Zaino per PC Portatile Impermeabile da Uomo Borsa per Scuola Viaggio  Nero'
+slug: 'B015MM3TGC-it SLOTRA Zaino per Computer Portatile 15.6 Pollici Zaino per...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

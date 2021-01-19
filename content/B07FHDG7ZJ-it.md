@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZWcUJ8DZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHDG7ZJ-it PUMA Axis  Sneakers Unisex-Adulto  Bianco White/Peacoat  43 EU'
+slug: 'B07FHDG7ZJ-it PUMA Axis Sneakers Unisex-Adulto Bianco White/Peacoat 43 EU'
+tags: 
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

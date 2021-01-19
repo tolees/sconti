@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WHSW+QZlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMYXB4T-it SONGMICS Libreria di Tessuto per Bambini  Libreria a 4 Livelli per Cancelleria  Libri e Quaderni  Scaffale per Cameretta  Asilo  Tema Animali e Finitura Acero GKR71YL'
+slug: 'B07CMYXB4T-it SONGMICS Libreria di Tessuto per Bambini Libreria a 4...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

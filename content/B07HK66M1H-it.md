@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HK66M1H-it Levi s Type 3 Giacca in Jeans  Blu  Stonebridge Sherpa Trucker 0070   XXX-Large Uomo'
+slug: 'B07HK66M1H-it Levi s Type 3 Giacca in Jeans Blu Stonebridge Sherpa...'
+tags: 
 actualPrice: 57.23 EUR
 currency: EUR
 price: 57.23

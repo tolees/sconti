@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X36qzrDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ6YYBC-it PBN Siero di Latte in Polvere  2.27 Kg  Gusto Cioccolato'
+slug: 'B07KZ6YYBC-it PBN Siero di Latte in Polvere 2.27 Kg Gusto Cioccolato'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

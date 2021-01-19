@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wOaIPK5LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NZYDDM-it Cudy AX3000 WiFi 6 Adattatore PCIe  Bluetooth 5.0 PCIe Card  2402Mbps + 574Mbps  AX200  Scheda WiFi pc Fisso  OFDMA WPA3 Security  Compatibile Bluetooth 5.0/4.2/4.0  Solo Sistema Windows 10  64-Bit '
+slug: 'B082NZYDDM-it Cudy AX3000 WiFi 6 Adattatore PCIe Bluetooth 5.0 PCIe Card...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

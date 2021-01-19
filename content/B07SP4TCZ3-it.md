@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RHnZL0AwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP4TCZ3-it Havaianas Slim Animals  Infradito Donna  Multicolore  White/Shocking Pink/Shocking Pink 7808   39/40 EU'
+slug: 'B07SP4TCZ3-it Havaianas Slim Animals Infradito Donna Multicolore...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

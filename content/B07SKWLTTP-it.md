@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wG47GjcqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKWLTTP-it Havaianas Top Nautical  Infradito Uomo  Multicolore  White/Navy/White 5035   37/38 EU'
+slug: 'B07SKWLTTP-it Havaianas Top Nautical Infradito Uomo Multicolore...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ra3U628NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZ62JRZ-it HP - Gaming Omen 400 Mouse Gaming  6 Tasti Programmabili  DPI da 1600 a 5000  Funzione Sniper Mode  Rotella di Scorrimento con 24 Denti  LED Personalizzabile  Cavo USB Cablato  Nero'
+slug: 'B07DZ62JRZ-it HP - Gaming Omen 400 Mouse Gaming 6 Tasti Programmabili...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

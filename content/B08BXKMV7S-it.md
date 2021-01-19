@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wKRNULo3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BXKMV7S-it HHUIWIND Custodia Xiaomi Redmi Note 9 + Pellicola Vetro Temperato Cover in Pelle Magnetica Portafoglio Xiaomi Redmi Note 9 Premium Flip Case per Xiaomi Redmi Note 9-Verde01'
+slug: 'B08BXKMV7S-it HHUIWIND Custodia Xiaomi Redmi Note 9 + Pellicola Vetro...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41frnZ53OpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSP255B-it Bonio 360° Girevole Seggiolino Auto ISOFIX Gruppo 0+/1/2/3  0-36 kg  con UPF50+ Capotta Parasole  Nero '
+slug: 'B07VSP255B-it Bonio 360° Girevole Seggiolino Auto ISOFIX Gruppo 0+/1/2/3...'
+tags: 
 actualPrice: 187.99 EUR
 currency: EUR
 price: 187.99

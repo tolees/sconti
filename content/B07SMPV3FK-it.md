@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412JlK9lQ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMPV3FK-it ASICS GT-1000 9  Scarpe da Corsa Uomo  Electric Blue/Black  42 EU'
+slug: 'B07SMPV3FK-it ASICS GT-1000 9 Scarpe da Corsa Uomo Electric Blue/Black...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

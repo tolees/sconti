@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413+2vTtj0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EEQUOEC-it Arena M Fundamentals Logo  Pantaloncini da Bagno Uomo  Blu  Navy/Turquoise   XXL'
+slug: 'B01EEQUOEC-it Arena M Fundamentals Logo Pantaloncini da Bagno Uomo Blu...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

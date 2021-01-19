@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41epx0dDIzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8KSJJW-it Calvin Klein Monogram Modern Straight Crop T-Shirt  Grigio  Light Grey Heather P   42  Taglia Produttore: Medium  Donna'
+slug: 'B07V8KSJJW-it Calvin Klein Monogram Modern Straight Crop T-Shirt Grigio...'
+tags: 
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

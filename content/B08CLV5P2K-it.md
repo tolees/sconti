@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DSL6cnr+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CLV5P2K-it Philips Cuffie Sovrauricolari On Ear H4105RD/00 con Microfono  Telecomando in Linea  Design Pieghevole  Connettore Angolato  Fascia Imbottita  Isolamento Audio  Rosso - Modello 2020/2021'
+slug: 'B08CLV5P2K-it Philips Cuffie Sovrauricolari On Ear H4105RD/00 con...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

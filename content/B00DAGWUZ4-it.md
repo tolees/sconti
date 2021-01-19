@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SnvX1aF4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DAGWUZ4-it Pasante  Profilattici Extra Sensitive  144 Pezzi'
+slug: 'B00DAGWUZ4-it Pasante Profilattici Extra Sensitive 144 Pezzi'
+tags: 
 actualPrice: 18.61 EUR
 currency: EUR
 price: 18.61

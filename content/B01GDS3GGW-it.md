@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41On6pTSutL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GDS3GGW-it Herschel 10020-00919 Little America Mid-Volume Raven Crosshatch/Black'
+slug: 'B01GDS3GGW-it Herschel 10020-00919 Little America Mid-Volume Raven...'
+tags: 
 actualPrice: 88.68 EUR
 currency: EUR
 price: 88.68

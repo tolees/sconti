@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31whiVyycrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814SPGWN-it Under Armour Challenger III Midlayer  Maglia a maniche lunghe Uomo  Blu  Blue Ink   L'
+slug: 'B0814SPGWN-it Under Armour Challenger III Midlayer Maglia a maniche...'
+tags: 
 actualPrice: 16.07 EUR
 currency: EUR
 price: 16.07

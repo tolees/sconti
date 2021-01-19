@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3112hjSyM5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077DYKN93-it Aigostar Multipresa Ciabatta Elettrica a 5 Posti  250v/2500W Cavo 5m. Bianco'
+slug: 'B077DYKN93-it Aigostar Multipresa Ciabatta Elettrica a 5 Posti...'
+tags: 
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

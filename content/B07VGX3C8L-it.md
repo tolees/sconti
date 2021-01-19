@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311Z1fMVJVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGX3C8L-it Mellerware - Rider Lithium - Aspirapolvere Senza Fili Portatile a Batteria Ricaricabile 4in1. 2 Velocità. Scopa Elettrica Per Mobili/Tappezzeria/Tappeti/Moquette. Nero  Grigio e Rosso.'
+slug: 'B07VGX3C8L-it Mellerware - Rider Lithium - Aspirapolvere Senza Fili...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

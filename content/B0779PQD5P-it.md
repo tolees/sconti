@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dP36QalyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779PQD5P-it Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Blu  Navy Canvas   41 EU'
+slug: 'B0779PQD5P-it Timberland Union Wharf 2 Eye Oxford Mocassini Uomo Blu...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

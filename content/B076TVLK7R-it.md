@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21QapyNV98L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TVLK7R-it Fruit of the Loom Original T.  T-Shirt Uomo  Bianco  White 30   Large Pacco da 5 '
+slug: 'B076TVLK7R-it Fruit of the Loom Original T. T-Shirt Uomo Bianco White 30...'
+tags: 
 actualPrice: 12.91 EUR
 currency: EUR
 price: 12.91

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418acCkmfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LS9I4QO-it K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Verde  Torba   Small  Taglia produttore: S '
+slug: 'B00LS9I4QO-it K-Way le Vrai 3.0 Claude Giacca Impermeabile Uomo Verde...'
+tags: 
 actualPrice: 61.22 EUR
 currency: EUR
 price: 61.22

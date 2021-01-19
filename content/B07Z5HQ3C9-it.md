@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZnIqm2w2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5HQ3C9-it Xiaomi Trolley Bagaglio a Mano con 8 Ruote  55 cm  20”  Dimensioni Standard per Cabina Aereo  Lucchetto TSA  38 litri  Blu'
+slug: 'B07Z5HQ3C9-it Xiaomi Trolley Bagaglio a Mano con 8 Ruote 55 cm 20”...'
+tags: 
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

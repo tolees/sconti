@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Uk-5XprPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002TELMIY-it Calvin Klein CK Free  Eau de Toilette da uomo  50 ml'
+slug: 'B002TELMIY-it Calvin Klein CK Free Eau de Toilette da uomo 50 ml'
+tags: 
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BZ7uUol6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDBJC36-it Robot Aspirapolvere  Muzili Robot Aspirapolvere Navigazione Intelligente WLAN con Serbatoio d Acqua Potenza Aspirante Regolabile a 3 Livelli/Autonomia di 130 Minuti/Controllo APP e Ricarica Automatica'
+slug: 'B07YDBJC36-it Robot Aspirapolvere Muzili Robot Aspirapolvere Navigazione...'
+tags: 
 actualPrice: 385.99 EUR
 currency: EUR
 price: 385.99

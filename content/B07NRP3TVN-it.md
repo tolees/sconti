@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ixXHWXSOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRP3TVN-it Kingston Data Centre DC500M  SEDC500M/480G  Enterprise Drive a Stato Solido - SSD 2.5” 480 GB'
+slug: 'B07NRP3TVN-it Kingston Data Centre DC500M SEDC500M/480G Enterprise Drive...'
+tags: 
 actualPrice: 146.78 EUR
 currency: EUR
 price: 146.78

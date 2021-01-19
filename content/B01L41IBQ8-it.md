@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gh2pu5xjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L41IBQ8-it Caffè Borbone Cialde Miscela Rossa - Confezione da 100 Cialde - 720 g'
+slug: 'B01L41IBQ8-it Caffè Borbone Cialde Miscela Rossa - Confezione da 100...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

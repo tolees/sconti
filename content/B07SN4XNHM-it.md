@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5103VGVND+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SN4XNHM-it Havaianas Slim Animals  Infradito Donna  Multicolore  Ballet Rose 0076   37/38 EU'
+slug: 'B07SN4XNHM-it Havaianas Slim Animals Infradito Donna Multicolore Ballet...'
+tags: 
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

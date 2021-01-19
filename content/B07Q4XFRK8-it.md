@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jAOP-V0wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4XFRK8-it Trolley Fit Seven Colorflower  Nero  35 Lt  2in1 Zaino con Sollevamento Spallacci per uso Trolley  Scuola & Viaggio'
+slug: 'B07Q4XFRK8-it Trolley Fit Seven Colorflower Nero 35 Lt 2in1 Zaino con...'
+tags: 
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

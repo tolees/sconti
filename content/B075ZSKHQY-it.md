@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wywb5vJ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZSKHQY-it 4Moms MO0170080900  Sdraietta  6.6 kg  Nero'
+slug: 'B075ZSKHQY-it 4Moms MO0170080900 Sdraietta 6.6 kg Nero'
+tags: 
 actualPrice: 227.18 EUR
 currency: EUR
 price: 227.18

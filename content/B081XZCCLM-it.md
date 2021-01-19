@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gd6uxiusL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081XZCCLM-it XINFENGDI Samsung Galaxy A20S Cover Custodia Protettiva in Morbido TPU + PC Anticaduta Antiscivolo AntiGraffio Antiurto con Supporto Modello di Pneumatico per Samsung Galaxy A20S - Blu'
+slug: 'B081XZCCLM-it XINFENGDI Samsung Galaxy A20S Cover Custodia Protettiva in...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

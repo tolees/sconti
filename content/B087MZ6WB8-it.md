@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k6EaSb-wL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087MZ6WB8-it Uarter 50pcs bambino Formato Faccia Libera USA e Getta Blu 3-ply Adatto per 6-14 anni'
+slug: 'B087MZ6WB8-it Uarter 50pcs bambino Formato Faccia Libera USA e Getta Blu...'
+tags: 
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22

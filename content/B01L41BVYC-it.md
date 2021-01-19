@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NszVUZu7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L41BVYC-it Havaianas Origine III  Espadrillas Unisex-Adulto  Multicolore  Navy Blue/Beige 0716   38 EU'
+slug: 'B01L41BVYC-it Havaianas Origine III Espadrillas Unisex-Adulto...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

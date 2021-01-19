@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rTifUkQKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BKHFNK-it Magicfun Cesto Portaoggetti a Sospensione  2 Pezzi Cestelli Sottomensola Metallo  Cestino da Appendere Multi Uso Organizzatore Sottoripiano per Scaffale Armadio Cucina Dispensa Bagno Ufficio'
+slug: 'B088BKHFNK-it Magicfun Cesto Portaoggetti a Sospensione 2 Pezzi Cestelli...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

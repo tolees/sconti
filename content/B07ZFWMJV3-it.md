@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eg8h0LQBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFWMJV3-it RTP® ● OMEGA 3 + Vit E ● 360 Capsule di Olio di Pesce Premium ● Dose da 2000mg ad Alta Biodisponibilità ● EPA e DHA ad Alta Concentrazione'
+slug: 'B07ZFWMJV3-it RTP® ● OMEGA 3 + Vit E ● 360 Capsule di Olio di Pesce...'
+tags: 
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

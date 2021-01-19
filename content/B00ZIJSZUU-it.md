@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AxYDhJD2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZIJSZUU-it Trust GXT 363 Cuffie da Gioco Surround 7.1 con Vibrazioni Attive dei Bassi  Nero'
+slug: 'B00ZIJSZUU-it Trust GXT 363 Cuffie da Gioco Surround 7.1 con Vibrazioni...'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

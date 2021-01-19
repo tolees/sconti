@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vMEUv+ifL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NP1HQZ-it Cuffie Bluetooth Cuffie Wireless IPX7 Cuffie Stereo HiFi Impermeabili per Bassi Profondi e Rumorosità con Controllo Smart Touch  40H Playtime Ture Wireless Auricolari con Custodia di Ricarica'
+slug: 'B089NP1HQZ-it Cuffie Bluetooth Cuffie Wireless IPX7 Cuffie Stereo HiFi...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

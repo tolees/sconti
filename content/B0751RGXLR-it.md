@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MPQ7F13jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751RGXLR-it Barbie la Pizzeria con Bambola  Tavolo per Le Pizze  Forno e Pasta da Modellare  Giocattolo per Bambini 3 + Anni  FHR09  Multicolore'
+slug: 'B0751RGXLR-it Barbie la Pizzeria con Bambola Tavolo per Le Pizze Forno e...'
+tags: 
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

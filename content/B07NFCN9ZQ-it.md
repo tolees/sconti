@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Khwf2Hv3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFCN9ZQ-it Casio Orologio Analogico Quarzo Unisex Adulto con Cinturino in Acciaio Inox MQ-24MG-1EEF'
+slug: 'B07NFCN9ZQ-it Casio Orologio Analogico Quarzo Unisex Adulto con...'
+tags: 
 actualPrice: 43.51 EUR
 currency: EUR
 price: 43.51

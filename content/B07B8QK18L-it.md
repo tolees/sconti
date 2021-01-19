@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QdRdXr4XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8QK18L-it Fila Disruptor Low  Scarpe da Ginnastica Basse Uomo  Nero  Black 25y   42 EU'
+slug: 'B07B8QK18L-it Fila Disruptor Low Scarpe da Ginnastica Basse Uomo Nero...'
+tags: 
 actualPrice: 46.44 EUR
 currency: EUR
 price: 46.44

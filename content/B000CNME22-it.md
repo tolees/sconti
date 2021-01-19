@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510Mldk3B1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CNME22-it Davidoff Zino Eau de Toilette  Uomo  125 ml'
+slug: 'B000CNME22-it Davidoff Zino Eau de Toilette Uomo 125 ml'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

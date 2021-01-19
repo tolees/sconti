@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mGUijXFmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LJOYVQ-it Alessi Mediterraneo ESI01/29 Fruttiera di Design in Acciaio Inox'
+slug: 'B000LJOYVQ-it Alessi Mediterraneo ESI01/29 Fruttiera di Design in...'
+tags: 
 actualPrice: 96.37 EUR
 currency: EUR
 price: 96.37

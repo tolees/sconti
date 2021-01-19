@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oCFj3mKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081PFZCCF-it Nike Dri-Fit Strike  Felpa con Cappuccio E Zip A Tutta Lunghezza Uomo  Black/Black/Black/Black  2XL'
+slug: 'B081PFZCCF-it Nike Dri-Fit Strike Felpa con Cappuccio E Zip A Tutta...'
+tags: 
 actualPrice: 28.97 EUR
 currency: EUR
 price: 28.97

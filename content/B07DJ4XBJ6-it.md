@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wUeCZX5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ4XBJ6-it New Balance 500  Scarpe Sportive Uomo  Bianco  Munsell White/Eclipse/Tempo Red Swb   42 EU'
+slug: 'B07DJ4XBJ6-it New Balance 500 Scarpe Sportive Uomo Bianco Munsell...'
+tags: 
 actualPrice: 51.28 EUR
 currency: EUR
 price: 51.28

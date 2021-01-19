@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY9L9YW-it Levi s Perfect V Neck T-Shirt  Bianco  White + 0002   Medium Donna'
+slug: 'B07RY9L9YW-it Levi s Perfect V Neck T-Shirt Bianco White + 0002 Medium...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

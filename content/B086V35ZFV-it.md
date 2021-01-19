@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JS1xawMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086V35ZFV-it Corda per Saltare Calorie Conta  Aerb Corda Salto Regolabile con Timer  Contatore Salti e Impugnatura in Memory Foam per Crossfit Boxe Fitness Allenamento a Casa Palestra  Borsa portatile 9.2ft '
+slug: 'B086V35ZFV-it Corda per Saltare Calorie Conta Aerb Corda Salto...'
+tags: 
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

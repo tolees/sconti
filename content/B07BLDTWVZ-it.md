@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61brZG5EzIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BLDTWVZ-it LEGO Classic Steinebox  10717  classico gioco di costruzione per bambini'
+slug: 'B07BLDTWVZ-it LEGO Classic Steinebox 10717 classico gioco di costruzione...'
+tags: 
 actualPrice: 59.51 EUR
 currency: EUR
 price: 59.51

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ec4jzEneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CK3JZC6-it EGV [2 Pezzi Pellicola Fotocamera per Xiaomi Redmi Note 9S + [2 Pezzi] Vetro Temperato per Xiaomi Redmi Note 9S Pellicola Protettiva [Protezione Completa] Compatible con Xiaomi Redmi Note 9S'
+slug: 'B08CK3JZC6-it EGV [2 Pezzi Pellicola Fotocamera per Xiaomi Redmi Note 9S...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

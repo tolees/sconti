@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bir25FsDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4N3ZK1-it Tommy Hilfiger Nautical Print Beach Sandal  Punta Aperta Uomo  Bianco  White Ybs   41 EU'
+slug: 'B07V4N3ZK1-it Tommy Hilfiger Nautical Print Beach Sandal Punta Aperta...'
+tags: 
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QvudVIphL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0040HFEV4-it Gucci Guilty Eau de Toilette  Donna  50 ml'
+slug: 'B0040HFEV4-it Gucci Guilty Eau de Toilette Donna 50 ml'
+tags: 
 actualPrice: 50.74 EUR
 currency: EUR
 price: 50.74

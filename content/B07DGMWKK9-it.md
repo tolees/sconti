@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JXEOPPWEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGMWKK9-it Oral-B Vitality 100 Spazzolino Elettrico Ricaricabile  1 Manico Nero  1 Testina di Ricambio CrossAction'
+slug: 'B07DGMWKK9-it Oral-B Vitality 100 Spazzolino Elettrico Ricaricabile 1...'
+tags: 
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

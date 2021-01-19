@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jev0hnorL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXPV94N-it Diyife Selfie Ring Light  [Ultima Versione] Ricaricabile Luce Dell Anello Selfie 3 Livelli di Luminosità 36 LED con Clip di Regolazione su Telefono Cellulare per Youtube  Facebook  Live Stream ECC'
+slug: 'B07YXPV94N-it Diyife Selfie Ring Light [Ultima Versione] Ricaricabile...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

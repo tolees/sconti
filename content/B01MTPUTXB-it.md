@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41amlnfpDqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTPUTXB-it AMANKA 3-in-1 Mini DisplayPort a VGA/DVI/HDMI Adattatore Converter Cavo per Phone Mac Book MacBook PRO MacBook Air Mac Mini  Bianco'
+slug: 'B01MTPUTXB-it AMANKA 3-in-1 Mini DisplayPort a VGA/DVI/HDMI Adattatore...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

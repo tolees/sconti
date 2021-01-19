@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eSoHkn7qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082T8JMQV-it Big Babol Mega Stick Gomme da Masticare  Chewing Gum Morbido con Succo di Frutta  Gusto Tutti Frutti  Confezione da 8 Stick'
+slug: 'B082T8JMQV-it Big Babol Mega Stick Gomme da Masticare Chewing Gum...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

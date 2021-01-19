@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51thrgrIKTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U8UG8BC-it Frisk Peppermint Caramelle alla Menta  Mentine Senza Zucchero e Senza Glutine  Freschezza a Lungo  Confezione da 12 Astucci'
+slug: 'B00U8UG8BC-it Frisk Peppermint Caramelle alla Menta Mentine Senza...'
+tags: 
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

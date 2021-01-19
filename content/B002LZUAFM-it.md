@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LZUAFM-it Orologio Emporio Armani AR2434'
+tags: 
 actualPrice: 167.0 EUR
 currency: EUR
 price: 167.0

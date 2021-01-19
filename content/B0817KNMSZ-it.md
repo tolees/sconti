@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yvczd+uBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817KNMSZ-it HP Envy Urban Sleeve per Notebook fino a 15.6"  Vano Imbottito  Tasca Ottimale per Bloccare i Lettori RFID  Tessuti e Cerniere Resistenti  Tessuto Impermeabile  Nero'
+slug: 'B0817KNMSZ-it HP Envy Urban Sleeve per Notebook fino a 15.6" Vano...'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

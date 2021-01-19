@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M5m830JqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081FGS43D-it HP Color LaserJet Pro M283fdw  Stampante Wi-Fi Multifunzione  Fino a 21 ppm  fronte/retro automatico  ADF  Display Touchscreen  Bianca'
+slug: 'B081FGS43D-it HP Color LaserJet Pro M283fdw Stampante Wi-Fi...'
+tags: 
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

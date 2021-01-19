@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mLLxJ3pPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNJ9GBB-it The North Face W TBL Sport Jkt  Piumino Donna  Blu  Urban Navy   XS'
+slug: 'B07FNJ9GBB-it The North Face W TBL Sport Jkt Piumino Donna Blu Urban...'
+tags: 
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

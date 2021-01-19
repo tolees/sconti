@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A-mKx98bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRYQX74-it Calvin Klein Hip Brief 2pk Slip  Nero  Black with/White WB Bnm   X-Large Uomo'
+slug: 'B07VRYQX74-it Calvin Klein Hip Brief 2pk Slip Nero Black with/White WB...'
+tags: 
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

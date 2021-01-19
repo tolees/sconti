@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SWWVLFcqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015EFQX42-it LEONE 1947 Flash Guantoni  Nero  12 Oz'
+slug: 'B015EFQX42-it LEONE 1947 Flash Guantoni Nero 12 Oz'
+tags: 
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

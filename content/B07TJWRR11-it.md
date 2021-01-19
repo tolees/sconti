@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wOTP-7ovL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJWRR11-it Lacoste Ph4012 Polo  Giallo  Daba Z0a   Large  Taglia Produttore: 5  Uomo'
+slug: 'B07TJWRR11-it Lacoste Ph4012 Polo Giallo Daba Z0a Large Taglia...'
+tags: 
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

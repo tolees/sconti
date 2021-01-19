@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YDjKW8KTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813SDCB8-it adidas Continental 80  Scarpe da Ginnastica Uomo  Crystal White/Collegiate Navy/Scarlet  41 1/3 EU'
+slug: 'B0813SDCB8-it adidas Continental 80 Scarpe da Ginnastica Uomo Crystal...'
+tags: 
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

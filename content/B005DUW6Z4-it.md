@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BUdm9tvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005DUW6Z4-it Intex 28003 Deluxe Kit di Pulizia per Piscine fino a 5.49 m  Grigio/Blu  113.03 x 29.84 x 12.38 cm  Sacco in poliestere'
+slug: 'B005DUW6Z4-it Intex 28003 Deluxe Kit di Pulizia per Piscine fino a 5.49...'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

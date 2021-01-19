@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qTAqYx61L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TPT8VY-it adidas Ripple TS  Maglietta Uomo  Bianco  White/Shock Pink   M'
+slug: 'B081TPT8VY-it adidas Ripple TS Maglietta Uomo Bianco White/Shock Pink M'
+tags: 
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

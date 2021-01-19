@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VUNMWC+PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW6ZPIM-it Beats EP Cuffie con filo – Senza batteria per ascoltare musica non stop  controlli e microfono integrati – Bianco'
+slug: 'B01LW6ZPIM-it Beats EP Cuffie con filo – Senza batteria per ascoltare...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

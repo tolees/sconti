@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519vaVyR67L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089WWC6JV-it Dixan Classico Detersivo Liquido Lavatrice  Tecnologia Pulito Profondo  3 X 19 Lavaggi'
+slug: 'B089WWC6JV-it Dixan Classico Detersivo Liquido Lavatrice Tecnologia...'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sUnx-QWIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYDT5J0-it Nike MD Runner 2  Scarpe da Running Uomo  Nero  Black/White/Anthracite   40.5 EU'
+slug: 'B00PYDT5J0-it Nike MD Runner 2 Scarpe da Running Uomo Nero...'
+tags: 
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

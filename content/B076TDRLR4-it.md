@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319FzoFDIAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TDRLR4-it Skechers Og 85-Old School Cool-699  Scarpe da Ginnastica Basse Donna  Bianco  White Wht   35.5 EU'
+slug: 'B076TDRLR4-it Skechers Og 85-Old School Cool-699 Scarpe da Ginnastica...'
+tags: 
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

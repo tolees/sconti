@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KaRybwCuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXQLYL8-it Hasbro Marvel Spider-Man - Titan Hero Power FX con Lanciacolpi da Braccio  Multicolore'
+slug: 'B07MXQLYL8-it Hasbro Marvel Spider-Man - Titan Hero Power FX con...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

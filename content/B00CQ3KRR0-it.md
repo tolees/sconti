@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jCU-1jE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CQ3KRR0-it Rimmel London Cipria Compatta Stay Matte  Polvere Opacizzante a Lunga Tenuta per Pelli Grasse e Miste  009 Amber  14 g'
+slug: 'B00CQ3KRR0-it Rimmel London Cipria Compatta Stay Matte Polvere...'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

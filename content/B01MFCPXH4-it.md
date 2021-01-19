@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u4ply9yaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFCPXH4-it Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9  Multicolore  6.5x6.5x5.6 cm  6 unità'
+slug: 'B01MFCPXH4-it Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9...'
+tags: 
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

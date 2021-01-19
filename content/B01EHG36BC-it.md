@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w1iNlmSXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EHG36BC-it STM Bags Dux Plus Cover per iPad PRO 9.7  Nero'
+slug: 'B01EHG36BC-it STM Bags Dux Plus Cover per iPad PRO 9.7 Nero'
+tags: 
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

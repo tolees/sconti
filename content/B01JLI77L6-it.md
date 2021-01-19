@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AX0QMBfJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLI77L6-it Tommy Hilfiger - Orologio da donna  Impermeabile fino a 3 atm  30 metri  - 1781742'
+slug: 'B01JLI77L6-it Tommy Hilfiger - Orologio da donna Impermeabile fino a 3...'
+tags: 
 actualPrice: 59.7 EUR
 currency: EUR
 price: 59.7

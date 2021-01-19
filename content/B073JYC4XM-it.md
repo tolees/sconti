@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tF51Ka9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JYC4XM-it SanDisk Ultra Scheda di Memoria MicroSDXC e Adattatore  con A1 App Performance  Velocità Fino a 100 MB/Sec  Classe 10  U1   Single Pack  128 GB  Rosso/Grigio'
+slug: 'B073JYC4XM-it SanDisk Ultra Scheda di Memoria MicroSDXC e Adattatore con...'
+tags: 
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

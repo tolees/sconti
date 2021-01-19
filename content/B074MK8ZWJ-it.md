@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513xxCT64RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MK8ZWJ-it Havaianas Slim Brasil Logo  Infradito  Donna  Nero  39/40 EU'
+slug: 'B074MK8ZWJ-it Havaianas Slim Brasil Logo Infradito Donna Nero 39/40 EU'
+tags: 
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

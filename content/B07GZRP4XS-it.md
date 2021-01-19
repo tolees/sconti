@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ezjmeBRWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZRP4XS-it Marchio Amazon - MERAKI Blazer Casual Uomo  Grigio  Grey Marl   50  Label: 40'
+slug: 'B07GZRP4XS-it Marchio Amazon - MERAKI Blazer Casual Uomo Grigio Grey...'
+tags: 
 actualPrice: 14.03 EUR
 currency: EUR
 price: 14.03

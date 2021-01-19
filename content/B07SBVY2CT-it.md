@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VNH-Ah-4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVY2CT-it PUMA ST Runner V2 NL  Scarpe da Ginnastica Unisex-Adulto  Peacoat White/Palace Blue  44 EU'
+slug: 'B07SBVY2CT-it PUMA ST Runner V2 NL Scarpe da Ginnastica Unisex-Adulto...'
+tags: 
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

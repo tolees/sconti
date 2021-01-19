@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517mS79VMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZH7KS8-it HUAWEI T5 Mediapad 10 Tablet LTE con Display Full HD  1920 x 1200 da 10.1" in 16:10  Processore da 2.3 GHz  Memoria RAM da 4 GB  Memoria Interno da 64 GB  Nero'
+slug: 'B07XZH7KS8-it HUAWEI T5 Mediapad 10 Tablet LTE con Display Full HD 1920...'
+tags: 
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

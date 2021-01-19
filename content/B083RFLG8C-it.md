@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QUq2Rh7KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083RFLG8C-it Telami - Sedia Tripolina - Collezione Ducale - Pieghevole e Leggera - Verde Bosco - Legno Tinto Teak - Made in Italy - Mobili da Esterno - Alta qualità - Legno Massello di Faggio -69 x 106 x 83 cm'
+slug: 'B083RFLG8C-it Telami - Sedia Tripolina - Collezione Ducale - Pieghevole...'
+tags: 
 actualPrice: 237.99 EUR
 currency: EUR
 price: 237.99

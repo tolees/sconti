@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MUjPL4VzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RV39D8S-it WACCET Supporto Moto Smartphone  Anti-Shake Porta Cellulare Motociclo con Visiera Parasole  Impermeabile Supporto Cellulare Moto con Rotazione a 360° per iPhone XS MAX/XR/X/8/Galaxy S9/S8 Fino a 6 5"'
+slug: 'B07RV39D8S-it WACCET Supporto Moto Smartphone Anti-Shake Porta Cellulare...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

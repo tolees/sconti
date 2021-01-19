@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41incevJDXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084LFG1DW-it Samsung Galaxy S20+ Smartphone  4G  Display 6.7" Dynamic AMOLED 2X  4 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  Batteria 4500 mAh  Hybrid SIM/eSIM  [Versione Italiana]  Cosmic Gray'
+slug: 'B084LFG1DW-it Samsung Galaxy S20+ Smartphone 4G Display 6.7" Dynamic...'
+tags: 
 actualPrice: 669.0 EUR
 currency: EUR
 price: 669.0

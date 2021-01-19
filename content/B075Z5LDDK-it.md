@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nCE3b0xFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Z5LDDK-it Vero Moda Vmhot Nine HW DNM Pencil Skirt Mix Noos Gonna  Blu  Medium Blue Denim Medium Blue Denim   38  Taglia Produttore Donna'
+slug: 'B075Z5LDDK-it Vero Moda Vmhot Nine HW DNM Pencil Skirt Mix Noos Gonna...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

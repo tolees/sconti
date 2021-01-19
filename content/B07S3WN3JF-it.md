@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H3YT38SpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3WN3JF-it Levi s 501 Original Short Pantaloncini  Nero  Eat Your Words 0070   26W Donna'
+slug: 'B07S3WN3JF-it Levi s 501 Original Short Pantaloncini Nero Eat Your Words...'
+tags: 
 actualPrice: 45.7 EUR
 currency: EUR
 price: 45.7

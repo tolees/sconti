@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCW4KCX-it Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  LG'
+slug: 'B07MCW4KCX-it Under Armour Sportstyle Terry Logo Felpa Uomo Nero LG'
+tags: 
 actualPrice: 19.68 EUR
 currency: EUR
 price: 19.68

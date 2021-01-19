@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oeqBli15L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RJTX8G-it BRIKSMAX Kit di Illuminazione a LED per Lego Technic Land Rover Defender Compatibile con Il Modello Lego 42110 Mattoncini da Costruzioni - Non Include Il Set Lego.'
+slug: 'B081RJTX8G-it BRIKSMAX Kit di Illuminazione a LED per Lego Technic Land...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

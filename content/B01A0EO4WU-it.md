@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ATHyG4x4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A0EO4WU-it Hotpoint CS1A 300 H  Congelatore Orizziontale  Libera Installazione  312L  A+  42 dB  Bianco'
+slug: 'B01A0EO4WU-it Hotpoint CS1A 300 H Congelatore Orizziontale Libera...'
+tags: 
 actualPrice: 317.98 EUR
 currency: EUR
 price: 317.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E6nxzOOAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ID6T92S-it Emporio Armani Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile AR2473'
+slug: 'B00ID6T92S-it Emporio Armani Orologio Cronografo Quarzo Uomo con...'
+tags: 
 actualPrice: 145.9 EUR
 currency: EUR
 price: 145.9

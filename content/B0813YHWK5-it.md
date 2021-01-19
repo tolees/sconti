@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IHdw3d7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813YHWK5-it adidas Lite Racer 2.0  Scarpe da Corsa Mens  Core Black/Ftwr White/Core Black  45 1/3 EU'
+slug: 'B0813YHWK5-it adidas Lite Racer 2.0 Scarpe da Corsa Mens Core Black/Ftwr...'
+tags: 
 actualPrice: 27.72 EUR
 currency: EUR
 price: 27.72

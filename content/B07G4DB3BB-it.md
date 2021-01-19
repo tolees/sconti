@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oLbDGkCTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4DB3BB-it Calvin Klein J 4cm Ckj Belt Cintura  Nero  Black 001   10  Taglia Produttore: 110  Uomo'
+slug: 'B07G4DB3BB-it Calvin Klein J 4cm Ckj Belt Cintura Nero Black 001 10...'
+tags: 
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

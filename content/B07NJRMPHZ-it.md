@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313zX4qti6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJRMPHZ-it Echo Show 5 Ricondizionato Certificato  Schermo compatto e intelligente con Alexa  Bianco'
+slug: 'B07NJRMPHZ-it Echo Show 5 Ricondizionato Certificato Schermo compatto e...'
+tags: 
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

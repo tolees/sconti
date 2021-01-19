@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41APThh7O-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5NMHRT-it TQGOLD Scarpe Antinfortunistica Uomo Donna S3 Estive Scarpe da Lavoro con Punta in Acciaio Super Leggere（Nero，Taglia 39）'
+slug: 'B07W5NMHRT-it TQGOLD Scarpe Antinfortunistica Uomo Donna S3 Estive...'
+tags: 
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

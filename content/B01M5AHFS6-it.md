@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YMbNjdQJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5AHFS6-it New Balance 373 Core U  Scarpe Trainers Uomo  Nero  Black   45.5 EU'
+slug: 'B01M5AHFS6-it New Balance 373 Core U Scarpe Trainers Uomo Nero Black...'
+tags: 
 actualPrice: 51.1 EUR
 currency: EUR
 price: 51.1

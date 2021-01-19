@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075K9TSWN-it New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Nero  Triple Black   40 EU'
+slug: 'B075K9TSWN-it New Balance Unisex - Adulto 574v2 Core Scarpe da...'
+tags: 
 actualPrice: 66.75 EUR
 currency: EUR
 price: 66.75

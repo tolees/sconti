@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-JC+MdxkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9RJVFB-it Tommy Hilfiger Heritage Crew Neck Graphic Tee Maglietta  Bianco  Classic White 100   Medium Donna'
+slug: 'B07P9RJVFB-it Tommy Hilfiger Heritage Crew Neck Graphic Tee Maglietta...'
+tags: 
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

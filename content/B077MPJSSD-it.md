@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aI6Ffp36L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MPJSSD-it PUMA ST RUNNER V2 NL  Scarpe da Ginnastica Unisex-Adulto  Black White  48.5 EU'
+slug: 'B077MPJSSD-it PUMA ST RUNNER V2 NL Scarpe da Ginnastica Unisex-Adulto...'
+tags: 
 actualPrice: 45.16 EUR
 currency: EUR
 price: 45.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C0dBSZm9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPHW6SJ-it Lunvon Materasso Gonfiabile Singolo  Pompa Elettrica Incorporata  PVC  Bianco'
+slug: 'B07FPHW6SJ-it Lunvon Materasso Gonfiabile Singolo Pompa Elettrica...'
+tags: 
 actualPrice: 45.12 EUR
 currency: EUR
 price: 45.12

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mEEBqGAJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BNRNK-it Tommy Hilfiger Logo Tape HD Felpa con Cappuccio  Grigio  Grey Heather 004   Small Uomo'
+slug: 'B0788BNRNK-it Tommy Hilfiger Logo Tape HD Felpa con Cappuccio Grigio...'
+tags: 
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FI4qQCqHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNS6J88-it LEGO Creator - Aereo da corsa  31094'
+slug: 'B07FNS6J88-it LEGO Creator - Aereo da corsa 31094'
+tags: 
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ClyyD0JYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087N9WKW8-it Ventilatore Portatile  Ventilatore USB Indossabile Ricaricabile Ventilatore da Collo  Mani Libere Mini Ventilatore  Ventilatore da Tavolo  Anti-forcina  per Ufficio  Casa  Viaggi e Sport  Nero '
+slug: 'B087N9WKW8-it Ventilatore Portatile Ventilatore USB Indossabile...'
+tags: 
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

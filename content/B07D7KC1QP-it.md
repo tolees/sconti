@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DCyUTteVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7KC1QP-it Havaianas Slim Tropical  Infradito Donna   Black/Graphite 1164   37/38 EU'
+slug: 'B07D7KC1QP-it Havaianas Slim Tropical Infradito Donna Black/Graphite...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

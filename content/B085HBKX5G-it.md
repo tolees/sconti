@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZGbsbgGDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HBKX5G-it Slip a Vita Bassa Donna Mutande Invisibile Senza Cuciture Culotte Striscia Mutandine Femminili Pantaloncini Pacco da 3  Nero/Beige/Bianco XS '
+slug: 'B085HBKX5G-it Slip a Vita Bassa Donna Mutande Invisibile Senza Cuciture...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

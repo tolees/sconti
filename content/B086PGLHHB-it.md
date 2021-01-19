@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519A8Tn6vhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PGLHHB-it Smartwatch Orologio con Auricolare Sportivo Bluetooth  Smart Bracelet Activity Tracker e Fitness Tracker con 0.96   Schermo  IP67 Impermeabile Pedometro e Notifiche di Messaggistica'
+slug: 'B086PGLHHB-it Smartwatch Orologio con Auricolare Sportivo Bluetooth...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

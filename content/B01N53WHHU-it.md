@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61c0ZdpUdWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N53WHHU-it Animali Fantastici E Dove Trovarli  4K + Br + Dig.Copy '
+slug: 'B01N53WHHU-it Animali Fantastici E Dove Trovarli 4K + Br + Dig.Copy'
+tags: 
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

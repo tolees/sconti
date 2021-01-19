@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qtUmhIN7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMY64WY-it Crema Viso Donna Bava di Lumaca Acido Ialuronico Biologica con Collagene Olio di Argan e Vitamina E Antirughe IdraIante Antimacchie Giorno e Notte 100% Bio Made in Italy Collo Decolletè Vegan'
+slug: 'B07YMY64WY-it Crema Viso Donna Bava di Lumaca Acido Ialuronico Biologica...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

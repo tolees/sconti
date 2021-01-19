@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yBhQ6RwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004TTTOLO-it Design Toscano WU67877 Statua Anubi  Dio del Regno Egiziano  Nero  7.5x5x21.5 cm'
+slug: 'B004TTTOLO-it Design Toscano WU67877 Statua Anubi Dio del Regno Egiziano...'
+tags: 
 actualPrice: 24.53 EUR
 currency: EUR
 price: 24.53

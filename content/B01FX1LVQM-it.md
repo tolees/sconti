@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SKswpcoRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FX1LVQM-it Vangold Muto Frameless Grande Orologio a Muro 3D Specchio Adesivo-2 Anni di Garanzia  Argento-42 '
+slug: 'B01FX1LVQM-it Vangold Muto Frameless Grande Orologio a Muro 3D Specchio...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

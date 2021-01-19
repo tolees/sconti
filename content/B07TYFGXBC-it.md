@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OCcT9REcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYFGXBC-it BOSS Brief 3p Co/El Boxer  Multicolore  Open Miscellaneous   S  Pacco da 3  Uomo'
+slug: 'B07TYFGXBC-it BOSS Brief 3p Co/El Boxer Multicolore Open Miscellaneous S...'
+tags: 
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

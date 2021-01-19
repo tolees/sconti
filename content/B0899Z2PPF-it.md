@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rb9QKQDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899Z2PPF-it PiAEK Controller per Nintendo Switch Sensore a 6 Assi Wireless PRO Controller Nintendo Switch DualShock Turbo Antiscivolo Compatibile con Switch  Switch Lite  PS3  Steam  Giallo '
+slug: 'B0899Z2PPF-it PiAEK Controller per Nintendo Switch Sensore a 6 Assi...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

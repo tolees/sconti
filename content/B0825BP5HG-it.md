@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-YMSjwglL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825BP5HG-it National Geographic Travel Kit Treppiede con Monopiede  Alluminio  Gambe 5 Sezioni  Twist Lock  Sacca Trasporto  Carico Fino a 8 kg  Testa a Sfera  Sgancio Rapido  NGTR002T'
+slug: 'B0825BP5HG-it National Geographic Travel Kit Treppiede con Monopiede...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

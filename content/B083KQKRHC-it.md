@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IgSKjBWyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KQKRHC-it Samsung Galaxy S10 Lite Smartphone  Display 6.7" Super AMOLED  3 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  4500 mAh  4G  Hybrid Sim  Android 10  [Versione Italiana]  Nero  Prism Black '
+slug: 'B083KQKRHC-it Samsung Galaxy S10 Lite Smartphone Display 6.7" Super...'
+tags: 
 actualPrice: 462.17 EUR
 currency: EUR
 price: 462.17

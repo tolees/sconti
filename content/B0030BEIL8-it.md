@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WbEF0jxsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0030BEIL8-it Forbici a cricchetto GARDENA SmartCut: Stabili forbici con tagliente a incudine  diametro di taglio 25 mm  con meccanismo a cricchetto e impugnature in alluminio  8798-20 '
+slug: 'B0030BEIL8-it Forbici a cricchetto GARDENA SmartCut: Stabili forbici con...'
+tags: 
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

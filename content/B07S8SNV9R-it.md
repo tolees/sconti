@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ECAPn5p1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8SNV9R-it Misuratore Laser 50m USB Carica Rapida  TECCPO telemetro laser  Decorazione d interni  Sensore Angolo Elettronico  99 dati  Funzione muto  2 25  LCD retroilluminato  Distanza  Area e Volume  Angolo'
+slug: 'B07S8SNV9R-it Misuratore Laser 50m USB Carica Rapida TECCPO telemetro...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

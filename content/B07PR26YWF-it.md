@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S-t5pA3ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR26YWF-it Lark & Ro Stretch Poplin Shirt Dress-Shirts  Cruz V2 Fresh Foam  US 6  EU S - M '
+slug: 'B07PR26YWF-it Lark & Ro Stretch Poplin Shirt Dress-Shirts Cruz V2 Fresh...'
+tags: 
 actualPrice: 9.78 EUR
 currency: EUR
 price: 9.78

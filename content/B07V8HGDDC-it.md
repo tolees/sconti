@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8HGDDC-it Boss Tee 4 T-Shirt  Blu  Navy 410   Medium Uomo'
+slug: 'B07V8HGDDC-it Boss Tee 4 T-Shirt Blu Navy 410 Medium Uomo'
+tags: 
 actualPrice: 19.64 EUR
 currency: EUR
 price: 19.64

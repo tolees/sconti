@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x1gNHjHSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZ6K76P-it Samsung WW70K5410UW Lavatrice 7 kg AddWash  1400 rpm  Bianco con Oblò Blu'
+slug: 'B06ZZ6K76P-it Samsung WW70K5410UW Lavatrice 7 kg AddWash 1400 rpm Bianco...'
+tags: 
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

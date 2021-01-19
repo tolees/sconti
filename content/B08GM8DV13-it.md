@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D3q2qD3cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GM8DV13-it eXtremeRate Cover Grip Scocca Impugnatura Manopola DIY Guscio Case Ricambio per Nintendo Switch Pro Controller Joystick Trasparente Verde -NON Include Controller'
+slug: 'B08GM8DV13-it eXtremeRate Cover Grip Scocca Impugnatura Manopola DIY...'
+tags: 
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

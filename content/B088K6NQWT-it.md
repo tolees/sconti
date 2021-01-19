@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DXRiDZRZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088K6NQWT-it Controller per Nintendo Switch Pro Sendowtek Bluetooth Controller Wireless con Doppio Turbo Vibrazione Switch Joystick Gamepad Supporta Funzione Gyro Axis'
+slug: 'B088K6NQWT-it Controller per Nintendo Switch Pro Sendowtek Bluetooth...'
+tags: 
 actualPrice: 24.21 EUR
 currency: EUR
 price: 24.21

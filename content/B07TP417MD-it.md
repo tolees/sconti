@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x40ETE9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TP417MD-it Superdry Desert Alchemy Quilted Hoody Giacca  Arancione  Baja Orange 7sq   L Uomo'
+slug: 'B07TP417MD-it Superdry Desert Alchemy Quilted Hoody Giacca Arancione...'
+tags: 
 actualPrice: 24.13 EUR
 currency: EUR
 price: 24.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WlmEfW2XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBDGSYC-it Auricolari Bluetooth 5.0  Auricolari in TOUCH  Cuffie Bluetooth Wireless Senza Fili SoundPEATS Stereo Microfono Custodia di ricarica 24h sport per iOS/Android/Samsung/Huawei'
+slug: 'B07SBDGSYC-it Auricolari Bluetooth 5.0 Auricolari in TOUCH Cuffie...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

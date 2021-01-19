@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hTbt6FejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892J2MXB-it WesKimed Convertitore digitale a analogico  adattatore audio ottico Toslink coassiale a RCA L/R  3 5 mm  jack digitale a analogico supporto Pcm/lpcm per HDTV Ps3 Ps4 Xbox  HDTV DVD BLU-RayAV'
+slug: 'B0892J2MXB-it WesKimed Convertitore digitale a analogico adattatore...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

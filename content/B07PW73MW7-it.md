@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bTVV03UcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PW73MW7-it Strumento Multifunzione Senza Fili  TECCPO 12V Utensile Rotante Senza Fili con batteria  6 Velocità Variabile 5000-28000RPM  con 84 Accessori  per Incidere  Tagliare  Facile da trasportare - TDRT03P'
+slug: 'B07PW73MW7-it Strumento Multifunzione Senza Fili TECCPO 12V Utensile...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

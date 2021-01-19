@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ODKgycYdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQ7NKS6-it Cuffie per giochi per PS4  Cuffie per giocatori a LED  blu  con microfono con cancellazione del rumore per PC  Mac  Playstation 4  Xbox One  BLACK RED '
+slug: 'B07VQ7NKS6-it Cuffie per giochi per PS4 Cuffie per giocatori a LED blu...'
+tags: 
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

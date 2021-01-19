@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416k5y+p6RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCCJHG6-it NAPAPIJRI Rainforest S Pkt 1 Giacca  Turchese  Reef Turquoise I711   Large Uomo'
+slug: 'B07VCCJHG6-it NAPAPIJRI Rainforest S Pkt 1 Giacca Turchese Reef...'
+tags: 
 actualPrice: 70.22 EUR
 currency: EUR
 price: 70.22

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xlZ+DojvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGCWSKQ-it Pulitore ad Ultrasuoni  TACKLIFE MUC02 Lavatrice ad Ultrasuoni Professionale  600ML  42000Hz  35W  per Uso Domestico  per Gioielli  per La Pulizia di Occhiali  Orologi  Utensili ecc'
+slug: 'B07HGCWSKQ-it Pulitore ad Ultrasuoni TACKLIFE MUC02 Lavatrice ad...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

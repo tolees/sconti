@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EtRrCkoSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E4L57QS-it Svelto Piatti a Mano  Aceto  1 l'
+slug: 'B00E4L57QS-it Svelto Piatti a Mano Aceto 1 l'
+tags: 
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

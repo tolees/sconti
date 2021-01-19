@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UZcPl+K-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711S2JHQ-it Samsung U28H750 Monitor 28   4K Ultra HD  3840 x 2160  Pannello TN  Quantum Dot  60 Hz  1 ms  Nero'
+slug: 'B0711S2JHQ-it Samsung U28H750 Monitor 28 4K Ultra HD 3840 x 2160...'
+tags: 
 actualPrice: 335.48 EUR
 currency: EUR
 price: 335.48

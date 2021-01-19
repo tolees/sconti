@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bMkQa92fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KDQP4K-it LK Pellicola Protettiva per Xiaomi Mi Note 10 Lite Pellicola  [3 Pezzi] [Adatta a Sensore Ultrasonico] [TPU Pellicola] [Senza Bolle] HD Trasparente Morbido Screen Protector Protezione'
+slug: 'B088KDQP4K-it LK Pellicola Protettiva per Xiaomi Mi Note 10 Lite...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

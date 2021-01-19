@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WwKjTcZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F13XL5V-it Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Turquoise/Citrus Yellow   39/40 EU'
+slug: 'B07F13XL5V-it Havaianas Brasil Logo Infradito Unisex-Adulto Blu...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316TpbbUX5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ645XT-it Urban Classics Block Swim Shorts Costume Uomo con Tasche  Pantaloncini da Bagno con Chiusura a Coulisse ed Elastico in Vita  Boxer da Spiaggia  Piscina  Mare  Frozen Yellow'
+slug: 'B07MQ645XT-it Urban Classics Block Swim Shorts Costume Uomo con Tasche...'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

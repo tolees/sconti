@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PTa9Vo8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKK4WG2-it Tablet Bambini 9.0 Pollici con Wifi Offerte Android 9.0 Certificato Google GMS 3GB RAM 32GB/128GB Tablet PC in Offerta OTG 1.5GHz Quad Core 6000mAh Tablet Android con Giochi Educativi Netflix Arancia '
+slug: 'B08CKK4WG2-it Tablet Bambini 9.0 Pollici con Wifi Offerte Android 9.0...'
+tags: 
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

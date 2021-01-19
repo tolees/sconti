@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s1cxKcmzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001V9LBAM-it Rimmel Matita Occhi Automatica Exaggerate  Matita Waterproof a Lunga Tenuta  Nero'
+slug: 'B001V9LBAM-it Rimmel Matita Occhi Automatica Exaggerate Matita...'
+tags: 
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

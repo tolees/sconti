@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HGP0K4zvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5WBCCQ-it ORICO Case Esterno per Disco Rigido 2 5     Custodia Esterna Portatile da USB3.0 a SATA per Supporto di Progettazione Senza Attrezzi da 7 mm / 9 5 mm HDD/SSD Max 4 TB con UASP （Bianca）'
+slug: 'B08B5WBCCQ-it ORICO Case Esterno per Disco Rigido 2 5 Custodia Esterna...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

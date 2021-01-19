@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+dFZvlPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T96BQM8-it Victure 1080P Baby Monitor Telecamera WiFi Interno  Telecamera IP per Bambini e per Animali Domestici  Telecamera Interna con Visione Notturna e rilevazione di movimento con Audio Bidirezionale'
+slug: 'B07T96BQM8-it Victure 1080P Baby Monitor Telecamera WiFi Interno...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

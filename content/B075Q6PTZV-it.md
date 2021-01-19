@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C5Es4LrTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Q6PTZV-it Clarks Atticus Lace  Scarpe Stringate Derby Uomo  Blu  Navy Nubuck -   41 EU'
+slug: 'B075Q6PTZV-it Clarks Atticus Lace Scarpe Stringate Derby Uomo Blu Navy...'
+tags: 
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

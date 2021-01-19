@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CA1ycgNML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4JHGP1-it Luce Solare Esterno  Trswyop 82 LED Lampada Solare con Sensore di Movimento 2000mAh Illuminazione Solare LED Impermeabile Luci Solari da Parete con 3 modalità per Giardino【2 Pezzi】'
+slug: 'B07L4JHGP1-it Luce Solare Esterno Trswyop 82 LED Lampada Solare con...'
+tags: 
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

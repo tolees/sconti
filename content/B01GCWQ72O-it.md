@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kAJb53O5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GCWQ72O-it HyperX Predator HX430C15PB3K4/64 Memoria 3000 MHz DDR4 CL15 DIMM XMP 64 GB Kit  4x16 GB   Nero'
+slug: 'B01GCWQ72O-it HyperX Predator HX430C15PB3K4/64 Memoria 3000 MHz DDR4...'
+tags: 
 actualPrice: 284.8 EUR
 currency: EUR
 price: 284.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HRWlZwcyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792PD6LZ-it Diesel UMBR-ANDRETHREEPACK  Slip Uomo  Multicolore  Dark Grey Melange/Black/Bright White E3843-0Jkkb   M  Pacco da 3'
+slug: 'B0792PD6LZ-it Diesel UMBR-ANDRETHREEPACK Slip Uomo Multicolore Dark Grey...'
+tags: 
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

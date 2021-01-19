@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TEMtURCcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GPVMHBF-it UniqueMe [2+2 Pezzi Pellicola Protettiva per xiaomi Mi Note 10 TPU Film + Pellicola Fotocamera per xiaomi Mi Note 10 Vetro [Bubble-Free][Facile installare].'
+slug: 'B08GPVMHBF-it UniqueMe [2+2 Pezzi Pellicola Protettiva per xiaomi Mi...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

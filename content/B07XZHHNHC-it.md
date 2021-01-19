@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BD89+ZI7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZHHNHC-it Birra Peroni - Cassa da 24 x 33 lattine  cl  7.92 litri '
+slug: 'B07XZHHNHC-it Birra Peroni - Cassa da 24 x 33 lattine cl 7.92 litri'
+tags: 
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

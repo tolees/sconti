@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z4GqXL1PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CT5VSTZ-it Dash Allin1 Pods Detersivo Lavatrice in Capsule Lavanda e Camomilla  Maxi Formato da 3 x 39 Pezzi  117 Lavaggi'
+slug: 'B07CT5VSTZ-it Dash Allin1 Pods Detersivo Lavatrice in Capsule Lavanda e...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

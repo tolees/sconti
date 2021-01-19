@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21VJ5wKrbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFK5PZD-it UGREEN Caricabatterie MacBook Air Caricatore USB C 30W Power Delivery PD Quick Charge 3.0 Compatible with iPad PRO iPad Air 2019 iPhone 11 PRO Max XS Max  Xiaomi Mi 9 9T Samsung S20 Huawei P30'
+slug: 'B07YFK5PZD-it UGREEN Caricabatterie MacBook Air Caricatore USB C 30W...'
+tags: 
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

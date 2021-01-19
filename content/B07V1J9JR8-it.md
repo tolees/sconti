@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mon3sndML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1J9JR8-it Boss Identity T-Shirt RN  Blu  Dark Blue 403   Small Uomo'
+slug: 'B07V1J9JR8-it Boss Identity T-Shirt RN Blu Dark Blue 403 Small Uomo'
+tags: 
 actualPrice: 29.23 EUR
 currency: EUR
 price: 29.23

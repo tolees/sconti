@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ButV5kXtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W34FS3Q-it Remington Asciugacapelli Curl&Straight Confidence  2200 Watt  Concentratore Ricurvo  3 Temperature/ 2 Velocita  Generatore di Ioni  Spazzola Inclusa  D5706 - 830 g'
+slug: 'B07W34FS3Q-it Remington Asciugacapelli Curl&Straight Confidence 2200...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

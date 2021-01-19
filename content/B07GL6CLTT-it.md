@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rp9ywIOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GL6CLTT-it HyperX Predator HX432C16PB3AK2/16 Memoria DDR4 16 GB  Kit da 2x8 GB  3200MHz CL16 DIMM XMP RGB'
+slug: 'B07GL6CLTT-it HyperX Predator HX432C16PB3AK2/16 Memoria DDR4 16 GB Kit...'
+tags: 
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

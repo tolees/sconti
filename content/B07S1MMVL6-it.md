@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XlAU4DBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1MMVL6-it New Balance 520v6  Scarpe da Corsa Uomo  Blu Blue Lv6  43 EU'
+slug: 'B07S1MMVL6-it New Balance 520v6 Scarpe da Corsa Uomo Blu Blue Lv6 43 EU'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q+HyzNh1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6URG2J-it New Balance 373 Core   Trainers Uomo  Verde  Olive   44.5 EU'
+slug: 'B01M6URG2J-it New Balance 373 Core Trainers Uomo Verde Olive 44.5 EU'
+tags: 
 actualPrice: 54.94 EUR
 currency: EUR
 price: 54.94

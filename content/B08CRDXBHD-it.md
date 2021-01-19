@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yqOdMkn-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRDXBHD-it Cuffie senza fili per TV  con stazione di ricarica digitale da 2 4 GHz  per TV HiFi DVD  trasmettitore con porta ottica e AUX'
+slug: 'B08CRDXBHD-it Cuffie senza fili per TV con stazione di ricarica digitale...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

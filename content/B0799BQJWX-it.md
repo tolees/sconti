@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FoRSdri6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0799BQJWX-it ESDDI Studio Fotografico Kit di Illuminazione 3x2.6M con Sistema di Supporto per Sfondo  800W 5500K Ombrello  Softbox  Continua Fotografia Kit'
+slug: 'B0799BQJWX-it ESDDI Studio Fotografico Kit di Illuminazione 3x2.6M con...'
+tags: 
 actualPrice: 149.86 EUR
 currency: EUR
 price: 149.86

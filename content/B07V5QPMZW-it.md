@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R-SiwLzZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QPMZW-it Tommy Hilfiger Nautical Print Beach Sandal  Punta Aperta Uomo  Blu  Desert Sky Dw5   43 EU'
+slug: 'B07V5QPMZW-it Tommy Hilfiger Nautical Print Beach Sandal Punta Aperta...'
+tags: 
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

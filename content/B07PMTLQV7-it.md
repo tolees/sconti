@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31e5oe4wLOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMTLQV7-it Under Armour Challenger III Knit  Pantaloncini Uomo  Nero  Black - 001   MD'
+slug: 'B07PMTLQV7-it Under Armour Challenger III Knit Pantaloncini Uomo Nero...'
+tags: 
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

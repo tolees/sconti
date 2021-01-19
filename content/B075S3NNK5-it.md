@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bm9RmNKvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S3NNK5-it GORE WEAR C5 Giacca da ciclismo per uomo GORE-TEX  S  Nero/Rosso'
+slug: 'B075S3NNK5-it GORE WEAR C5 Giacca da ciclismo per uomo GORE-TEX S...'
+tags: 
 actualPrice: 137.08 EUR
 currency: EUR
 price: 137.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uaYtOUl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PWT1T-it PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Rosa  Rosewater White-Gray Violet   47 EU'
+slug: 'B07S8PWT1T-it PUMA ST Runner v2 NL Scarpe da Ginnastica Unisex-Adulto...'
+tags: 
 actualPrice: 30.23 EUR
 currency: EUR
 price: 30.23

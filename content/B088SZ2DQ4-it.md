@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XPPgjdMnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088SZ2DQ4-it MECO ELEVERDE 2 Pezzi Portaspazzolino per Spazzolini da Denti Elettrici Porta Spazzolino Elettrico da Parete Supporto per Spazzolino Elettrico Organizzatore Antiscivolo Senza Forare per Bagno  2 '
+slug: 'B088SZ2DQ4-it MECO ELEVERDE 2 Pezzi Portaspazzolino per Spazzolini da...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

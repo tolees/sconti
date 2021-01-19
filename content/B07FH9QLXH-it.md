@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VjBKKo9hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH9QLXH-it Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Bianco  Light Grey Canvas   41 EU'
+slug: 'B07FH9QLXH-it Timberland Union Wharf 2 Eye Oxford Mocassini Uomo Bianco...'
+tags: 
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

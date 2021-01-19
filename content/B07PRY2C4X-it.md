@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uXAZ682AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRY2C4X-it Curcuma Bio 1440 mg con Piperina e Zenzero - 180 Capsule di Curcuma e Piperina Vegana ad Alto Dosaggio  Fornitura per 3 Mesi  - Biologico Certificato da Soil Association - Prodotte da Nutravita'
+slug: 'B07PRY2C4X-it Curcuma Bio 1440 mg con Piperina e Zenzero - 180 Capsule...'
+tags: 
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wOUxcw+XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYQ2R3S-it SUPERGA 2750 Cotu Classic  Scarpe da Ginnastica Unisex Adulto  Bianco  White/Gold A15   46 EU'
+slug: 'B07TYQ2R3S-it SUPERGA 2750 Cotu Classic Scarpe da Ginnastica Unisex...'
+tags: 
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

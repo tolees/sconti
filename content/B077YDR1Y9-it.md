@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41la3KnVx0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDR1Y9-it Accurist Orologio Analogico-Digitale Quarzo Uomo con Cinturino in Pelle 7101.01'
+slug: 'B077YDR1Y9-it Accurist Orologio Analogico-Digitale Quarzo Uomo con...'
+tags: 
 actualPrice: 82.23 EUR
 currency: EUR
 price: 82.23

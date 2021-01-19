@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dmqPL3YhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY5UFA9-it Rio Mare Paté di Salmone Rosa  Cremoso e Spalmabile  1 Tubetto da 100 g'
+slug: 'B01LY5UFA9-it Rio Mare Paté di Salmone Rosa Cremoso e Spalmabile 1...'
+tags: 
 actualPrice: 1.73 EUR
 currency: EUR
 price: 1.73

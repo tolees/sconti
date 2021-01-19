@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e1z10GCSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081ZFCFHM-it Kimbo Capsule di Caffè Armonia 100% Arabica  Compatibile con Nespresso  10 Pacchi da 10 Capsule  Totale 100 Capsule '
+slug: 'B081ZFCFHM-it Kimbo Capsule di Caffè Armonia 100% Arabica Compatibile...'
+tags: 
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

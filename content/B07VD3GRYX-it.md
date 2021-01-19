@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51h46g5TO3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD3GRYX-it Calvin Klein Washed Stripe Stretch Shirt  f  Camicia  Blu  Night Sky Chw   Medium Uomo'
+slug: 'B07VD3GRYX-it Calvin Klein Washed Stripe Stretch Shirt f Camicia Blu...'
+tags: 
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

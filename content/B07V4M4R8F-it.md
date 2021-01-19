@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aAYjJWD2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4M4R8F-it Love Moschino Jc4256pp0a  Borsa Tote Donna  Avorio  Ivory   9x25x37 cm  W x H x L '
+slug: 'B07V4M4R8F-it Love Moschino Jc4256pp0a Borsa Tote Donna Avorio Ivory...'
+tags: 
 actualPrice: 81.3 EUR
 currency: EUR
 price: 81.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DFMrHBcZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4P2N7-it Calvin Klein 35mm Essential Belt Cintura  Nero  Black BAX   8  Taglia Produttore: 110  Uomo'
+slug: 'B07VC4P2N7-it Calvin Klein 35mm Essential Belt Cintura Nero Black BAX 8...'
+tags: 
 actualPrice: 21.09 EUR
 currency: EUR
 price: 21.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG7L6JT-it PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco White Peacoat White  39 EU'
+slug: 'B07KG7L6JT-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Unisex-Adulto...'
+tags: 
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

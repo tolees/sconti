@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mKc8C+iBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V5QS88E-it Umidificatore Ambiente Ultrasuoni TaoTronics  Purificatore d Aria  Grande Capacità 4L  Display LED  14 Ore di Durata per Termosifoni  Modalità di Umidità Costante  Nebbia Fredda Regolabile  Timer  Purificatore d Acqua Incorporato  Modalità Anioni  Silenzioso - Bianco'
+slug: 'B00V5QS88E-it Umidificatore Ambiente Ultrasuoni TaoTronics Purificatore...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

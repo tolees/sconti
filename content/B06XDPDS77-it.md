@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nKDJDAYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDPDS77-it Samsung WW80K5210VW  Lavatrice Slim 8 kg AddWash  Profondità 46 5 cm  1200 rpm  Bianco'
+slug: 'B06XDPDS77-it Samsung WW80K5210VW Lavatrice Slim 8 kg AddWash Profondità...'
+tags: 
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411y1wBQsSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JDCC86-it Barbie Magia delle Feste 2018 Bambola Bionda da Collezionare per Natale  FRN69'
+slug: 'B079JDCC86-it Barbie Magia delle Feste 2018 Bambola Bionda da...'
+tags: 
 actualPrice: 25.1 EUR
 currency: EUR
 price: 25.1

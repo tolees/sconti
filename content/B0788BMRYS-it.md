@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sQj-72PSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BMRYS-it Tommy Hilfiger RN Tee SS Maglietta  Bianco  White 100   X-Large Uomo'
+slug: 'B0788BMRYS-it Tommy Hilfiger RN Tee SS Maglietta Bianco White 100...'
+tags: 
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B8JlstFUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BKUA0XK-it Birkenstock Arizona - Sandali a Punta Aperta Uomo  Grigio  Brushed Emerald   42 EU'
+slug: 'B01BKUA0XK-it Birkenstock Arizona - Sandali a Punta Aperta Uomo Grigio...'
+tags: 
 actualPrice: 43.1 EUR
 currency: EUR
 price: 43.1

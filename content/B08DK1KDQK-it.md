@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BwbEPJOPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DK1KDQK-it Auricolare Bluetooth 5.0  Auricolare Wireless  Microfono e Scatola di Ricarica incorporati incorporati  riduzione del Rumore Stereo 3D HD  per Cuffie Apple Airpods Android/iPhone/Samsung/Apple Airpods'
+slug: 'B08DK1KDQK-it Auricolare Bluetooth 5.0 Auricolare Wireless Microfono e...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

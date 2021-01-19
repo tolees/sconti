@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313sLmkESkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLMFSGP-it CARE OF by PUMA Slip on Court Low-Top Sneakers  Blu  Navy Blazer-Indigo   40.5 EU'
+slug: 'B07XLMFSGP-it CARE OF by PUMA Slip on Court Low-Top Sneakers Blu Navy...'
+tags: 
 actualPrice: 28.21 EUR
 currency: EUR
 price: 28.21

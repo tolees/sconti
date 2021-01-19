@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MymK4cI6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073BW8X5T-it Saucony Jazz Original Vintage  Sneakers Uomo  Black White 10  41 EU'
+slug: 'B073BW8X5T-it Saucony Jazz Original Vintage Sneakers Uomo Black White 10...'
+tags: 
 actualPrice: 61.92 EUR
 currency: EUR
 price: 61.92

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A-4lp7q2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDMV722-it XIDU Tour Pro 12 5" Notebook Portatile  4K Touchscreen  Intel 3867U  8 GB RAM  128 GB eMMC  Lettore Impronte Digitali  Tastiera Retroilluminata  USB-C  Micro SD  Windows 10 Home  Grigio Siderale'
+slug: 'B08CDMV722-it XIDU Tour Pro 12 5" Notebook Portatile 4K Touchscreen...'
+tags: 
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

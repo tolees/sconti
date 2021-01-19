@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jk9+JiZyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822CFMZ8-it Hosome Aspirapolvere Senza Fili 12000pa Potente Scopa Elettrica 2200mAh Ricaricabile Portatile e Silenziosa 3 in 1 Aspirabriciole Leggero con Luce LED Senza Sacco Pulizia Casa Auto Sofa Animali'
+slug: 'B0822CFMZ8-it Hosome Aspirapolvere Senza Fili 12000pa Potente Scopa...'
+tags: 
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

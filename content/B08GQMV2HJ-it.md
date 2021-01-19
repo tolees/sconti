@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GuC0NhraL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GQMV2HJ-it Auricolari Senza Fili Bluetooth 5.0 IPX8 Impermeabile Accoppiamento automatico Vero Wireless Cuffie Sport riduzione del rumore stereo 3D HD per cuffie Apple Airpods Pro/Android/iPhone/Samsung/Huawei'
+slug: 'B08GQMV2HJ-it Auricolari Senza Fili Bluetooth 5.0 IPX8 Impermeabile...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
