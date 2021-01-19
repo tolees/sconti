@@ -26,10 +26,10 @@ average: '29.99'
 
 ℹ️:
 
-- Lame in acciaio inossidabile ad alta resistenza
-- Cord Plus Cordless
 - Contiene kit per la manutenzione e pulizia e custodia morbida da viaggio
 - Autonomia duso 60 min
+- Cord Plus Cordless
+- Lame in acciaio inossidabile ad alta resistenza
 - 33 regolazioni di taglio da 06 a 12 mm, con precisione fino a 03 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079ZLSTZM/?tag=tolees00-21)
