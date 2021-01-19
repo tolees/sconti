@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GQ6VP9lAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5PSTCF-it'
+slug: 'B07Z5PSTCF-it OSOYOO Robot Car Starter Kit for Arduino UNO | STEM Remote Control App Educational Motorized Robotics for Building  Programming & Learning How to Code | IOT Mechanical DIY Coding for Kids Teens Adults'
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

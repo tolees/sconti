@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31503Yp1jnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLZQ1XP-it'
+slug: 'B07SLZQ1XP-it adidas Forest Grove  Scarpe da Ginnastica Uomo  Gris Blanc Noir  46 EU'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

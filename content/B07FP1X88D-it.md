@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bo8TEJGpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP1X88D-it'
+slug: 'B07FP1X88D-it LEGO Movie 2 - La scatola "costruisci quello che vuoi" della Regina Wello Ke Wuoglio!  70825'
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

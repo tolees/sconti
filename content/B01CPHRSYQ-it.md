@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zb52qXIbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CPHRSYQ-it'
+slug: 'B01CPHRSYQ-it keeeper Set da 5 Contenitori per Congelare Alimenti  Coperchio Scrivibile  5 x 500 ml  15 5 x 10 5 x 6 cm  Mia Polar  Blu ghiaccio Trasparente'
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

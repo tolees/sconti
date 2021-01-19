@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hzxvEr69L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FXRXSKH-it'
+slug: 'B08FXRXSKH-it DURHAND 44pz Contenitore Portautensile scatole regolabili e rimovibile  montaggio a muro  PP  rosso grigio  63.5 x 22.5 x 95.5cm'
 actualPrice: 23.16 EUR
 currency: EUR
 price: 23.16

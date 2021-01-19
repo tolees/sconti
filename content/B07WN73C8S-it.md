@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414EMuBhw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WN73C8S-it'
+slug: 'B07WN73C8S-it HONGDA Cavo Phone [4Pezzi  0.3m 1m 2m 3m] Cavo Phone di Nylon Intrecciato Filo USB Trasmissione Dati e Ricarica per Phone 11 Pro/11 PRO Max/Xr/Xs/X/8/8 Plus/7/7 Plus/6s/6s Plus  Pad PRO/Air/Mini'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

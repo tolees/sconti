@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LHlTksKgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813YR9NY-it'
+slug: 'B0813YR9NY-it adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  41 1/3 EU'
 actualPrice: 48.55 EUR
 currency: EUR
 price: 48.55

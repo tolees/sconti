@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AtWixTV9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXTFTPN-it'
+slug: 'B07BXTFTPN-it Ready Player One  4K+Br '
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

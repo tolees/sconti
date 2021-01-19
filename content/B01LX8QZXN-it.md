@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fsoKvfNiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX8QZXN-it'
+slug: 'B01LX8QZXN-it APLI Kids 13337 – Confezione di 36 rotoli di K60 senza rumore  48 mm x 132 m  28 µm  colore: marrone'
 actualPrice: 68.6 EUR
 currency: EUR
 price: 68.6

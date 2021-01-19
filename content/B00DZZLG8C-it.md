@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4124qe2iamL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DZZLG8C-it'
+slug: 'B00DZZLG8C-it Keter Casetta Manor 6X5 Dd Grigia In Resina Cm 185X152X226 H'
 actualPrice: 407.47 EUR
 currency: EUR
 price: 407.47

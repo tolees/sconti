@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HD55Up9sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S54F4ZF-it'
+slug: 'B07S54F4ZF-it Diesel Umbx-damienthreepack Slip  Multicolore  Bright White/Black/Harbor Blue E4968/0aaxx   Medium  Pacco da 3  Uomo'
 actualPrice: 15.06 EUR
 currency: EUR
 price: 15.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dQiMa5V4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZDMRCD-it'
+slug: 'B07CZDMRCD-it PUMA BASKET HEART PATENT WN S  Sneakers Donna  Grigio  IRON GATE/IRON GATE   40 EU'
 actualPrice: 43.36 EUR
 currency: EUR
 price: 43.36

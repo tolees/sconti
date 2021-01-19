@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BchdACH+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000SHUV4U-it'
+slug: 'B000SHUV4U-it Paper Mate Flexgrip Elite'
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

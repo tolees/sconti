@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PGTcMM2NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHV81LZ-it'
+slug: 'B08DHV81LZ-it i18 Auricolari wireless  Cuffie Bluetooth 5.0 stereo Hi-Fi senza fili in-ear con auricolare microfonico incorporato con custodia di ricarica Impermeabile per lavoro/viaggio/palestra'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Qhs0TsyhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZ8H8DP-it'
+slug: 'B07GZ8H8DP-it Marchio Amazon - MERAKI Blazer Casual Uomo  Nero  Black   52  Label: 42'
 actualPrice: 21.53 EUR
 currency: EUR
 price: 21.53

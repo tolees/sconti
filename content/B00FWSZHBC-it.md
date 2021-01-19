@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31B8UbndPgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FWSZHBC-it'
+slug: 'B00FWSZHBC-it Calvin Klein Uomo - Boxer aderenti in confezione da 3 vita media - Cotton Stretch  Nero  Black/White/Grey Heather 998   S   Pacco da 3 '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

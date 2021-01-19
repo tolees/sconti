@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Qnw5-aUmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TWFYZVY-it'
+slug: 'B00TWFYZVY-it Clementoni-Baby Gli Animali Tocca e Impara  6+ Mesi  Multicolore  14975'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411TTg9EGIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0815V9HVP-it'
+slug: 'B0815V9HVP-it Hdmi Switch  mrocioa 3 porte ingresso 1 out 4K Hdmi Switcher Box con telecomando. Hdmi Splitter 4K Hub. Supporto PS4/Xbox One/Fire TV/Apple TV/SKY BOX/STB/DVD/Laptop/Roku.'
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

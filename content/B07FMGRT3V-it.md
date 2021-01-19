@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e3TQIHibL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMGRT3V-it'
+slug: 'B07FMGRT3V-it Hasbro Nerf Super Soaker - Barracuda  Blaster Spruzza Acqua  E2770'
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

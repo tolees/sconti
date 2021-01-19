@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v5au-aeFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BS97UUA-it'
+slug: 'B00BS97UUA-it Philips HD9240/90 Airfryer XL Friggitrice Low-Oil e Multicooker con Tecnologia Rapid Air  2100 W  1.2 kg  Plastica  Nero 30x42x40cm'
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

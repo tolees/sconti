@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U21qowstL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7ND4YH-it'
+slug: 'B07D7ND4YH-it Etekcity Bilancia Pesapersone Digitale Bilancia Impedenziometrica Bluetooth Wireless con Display LED per iOS e Android con 13 Indici Misurazione di Peso  BMI  BMR  Massa Grassa  Massa Muscolare'
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

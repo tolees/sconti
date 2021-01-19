@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xgAdFSENL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XYFGK1-it'
+slug: 'B082XYFGK1-it Smartwatch Donna Uomo GOKOO Impermeabile Orologio Intelligente Impermeabile IP67 Attività Tracker con Monitor del Sonno  Contapassi  Contacalorie  Telecamera Remota  Compatibile con IOS Android  nero '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

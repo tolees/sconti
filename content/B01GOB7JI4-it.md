@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FojHiRzTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GOB7JI4-it'
+slug: 'B01GOB7JI4-it Aigostar Acciaio Blu 31HGB - Ferro a vapore 2200W con base in acciaio inox  Serbatoio 370ml  antiscivolo e antigraffio  Colpo vapore 150g  Colore Verde acqua'
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

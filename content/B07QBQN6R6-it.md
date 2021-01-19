@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XN5Aa5GlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QBQN6R6-it'
+slug: 'B07QBQN6R6-it Funko- Pop Bobble in Vinile Marvel: Holiday-Deadpool Figura da Collezione  Multicolore  43337'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

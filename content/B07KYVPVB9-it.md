@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LfQDTqnwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYVPVB9-it'
+slug: 'B07KYVPVB9-it Outsunny Casetta Porta Utensili Porta Attrezzi da Giardino in Lamiera di Ferro 277x191x192cm  Grigio'
 actualPrice: 311.96 EUR
 currency: EUR
 price: 311.96

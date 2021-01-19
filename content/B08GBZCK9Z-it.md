@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ufzWCPEgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GBZCK9Z-it'
+slug: 'B08GBZCK9Z-it 50PC Usa e getta Blu a 3 Strati  Blu '
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

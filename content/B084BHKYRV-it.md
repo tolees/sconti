@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NAFNXI9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084BHKYRV-it'
+slug: 'B084BHKYRV-it Levi s Housemark Graphic Tee T-Shirt  Ssnl HM Outline Python Green  L Uomo'
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IdOKk-P0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6JW29G-it'
+slug: 'B07Z6JW29G-it TIBEK Tritatutto da Cucina Elettrico 200W Grattugia Elettrica con 5 Accessori e Ampio Tubo di Alimentazione per Sminuzzare/Affettare/Miscelare Alimenti  Formaggio/Cipolle/Pesto/Insalata/Carota '
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

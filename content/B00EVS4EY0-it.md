@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61y-9yMzdqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EVS4EY0-it'
+slug: 'B00EVS4EY0-it LEGO Friends'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

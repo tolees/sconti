@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31S+z8DqEsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGQ4K85-it'
+slug: 'B07RGQ4K85-it adidas Streetcheck  Scarpe da Basketball Uomo  Multicolore  Core Black/Core Black/Ftwr White Ee9660   43 1/3 EU'
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

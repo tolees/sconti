@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21tEtGPf--L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BTUHN5U-it'
+slug: 'B00BTUHN5U-it homcom Porta Scorrevole Interna in Vetro Smerigliato e Satinato con Binario B2 e Maniglia per Bagno Cucina Studio Vetro 205x 90x 0 8cm'
 actualPrice: 156.76 EUR
 currency: EUR
 price: 156.76

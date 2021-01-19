@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZLDzaEEhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5LGN6Q-it'
+slug: 'B01N5LGN6Q-it Tommy Hilfiger New Denton 3.5 Belt Cintura  Marrone  Dark Tan 257   95 Uomo'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

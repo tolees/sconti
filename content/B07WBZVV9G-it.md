@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bjQdAMhzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBZVV9G-it'
+slug: 'B07WBZVV9G-it Joop! Cortina Tea Handbag ShzDonnaBorsa a manoRosa  Rose  13x23x35 Centimeters  B x H x T '
 actualPrice: 94.83 EUR
 currency: EUR
 price: 94.83

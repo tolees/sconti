@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31soPwUIW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RYPZX-it'
+slug: 'B07S9RYPZX-it Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  Bianco White Black 24  46 EU'
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

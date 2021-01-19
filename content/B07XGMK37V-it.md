@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LHUjyDNdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGMK37V-it'
+slug: 'B07XGMK37V-it Brother JX17FE  Fantasy Edition  Macchina per Cucire con 17 Punti di Cucitura  per Principianti  Cucitrice Automatica - Offerta con Tavolo prolunga'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

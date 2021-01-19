@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UDTU5pjvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVCLWQX-it'
+slug: 'B07PVCLWQX-it 4x Spazzolini da denti in bamboo naturale ecologico l Manico in legno 100% biodegradabile riciclabile l Setole durezza media l Imballaggio riciclabile senza plastica l Confezione da 4 pezzi'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

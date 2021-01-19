@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vBcop+87L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK356YN-it'
+slug: 'B07FK356YN-it find. Slouch Stivaletti  Nero Black   40 EU'
 actualPrice: 56.93 EUR
 currency: EUR
 price: 56.93

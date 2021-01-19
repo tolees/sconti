@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pB4+QfWsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXR2DFW-it'
+slug: 'B07FXR2DFW-it Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Verde  Olive Green   41/42 EU'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

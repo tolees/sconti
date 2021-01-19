@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ctnxFRpBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072QY1C1S-it'
+slug: 'B072QY1C1S-it Fossil Orologio Da Polso Donna Ftw1202'
 actualPrice: 64.7 EUR
 currency: EUR
 price: 64.7

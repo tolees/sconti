@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51br+6nyJDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRZ6W99-it'
+slug: 'B06XRZ6W99-it Ipae-Progarden Set Tree Antracite C/Cuscini'
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

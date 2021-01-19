@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OY2M6DyuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FY1GFHM-it'
+slug: 'B08FY1GFHM-it Souke Sports - Giacca Invernale Uomo Giacca da Ciclismo Giacca Sportiva Zip-off Giacca Trekking MTB Riflessivo Antivento Impermeabile Traspirante Termico'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

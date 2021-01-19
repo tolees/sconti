@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SFelCy2qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZF5TNX6-it'
+slug: 'B07ZF5TNX6-it Beautural Ferro da Stiro Verticale  Stiratrice a Vapore Vaporizzatore da Viaggio Portatile a Doppia Tensione 100-240V per Abiti  1000W  40s Riscaldamento Rapido  Auto-Spegnimento  per Casa Viaggio'
 actualPrice: 26.39 EUR
 currency: EUR
 price: 26.39

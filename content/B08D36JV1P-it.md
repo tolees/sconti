@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41khHn3m1lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D36JV1P-it'
+slug: 'B08D36JV1P-it BOMIZI Cover Xiaomi Mi 9 Custodia Trasparente TPU Morbido Flessibile Silicone Antiurto Sottile con Anello Girevole per Supporto Magnetica Auto Slim Case per Xiaomi Mi9 6 39 Pollici - Rosso'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

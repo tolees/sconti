@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ns4Yj8bBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWPVNAG-it'
+slug: 'B00XWPVNAG-it Nike Tanjun Mn  Scarpe Sportive Uomo  Grigio  Wolf Grey/White   46 EU'
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

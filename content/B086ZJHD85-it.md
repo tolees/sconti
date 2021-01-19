@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jVdMOkqVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZJHD85-it'
+slug: 'B086ZJHD85-it TOPTRO Bluetooth Proiettore Nativo 1080P e 350 ” 7000 Lux Videoproiettore Supporto 4K Zoom e Correzione Trapezoidale ± 50 °4D Proiettore Home Theater Compatibile con Telefono/TV Stick/PC/USB/PS4/DVD'
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

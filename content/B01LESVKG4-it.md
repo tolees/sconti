@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u7w0XC6yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LESVKG4-it'
+slug: 'B01LESVKG4-it Havaianas Luna  Sandali Donna  Multicolore  Navy Blue/Silver 0445   35/36 EU'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

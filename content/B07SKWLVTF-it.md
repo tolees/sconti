@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r8EFvu7LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKWLVTF-it'
+slug: 'B07SKWLVTF-it Havaianas High Light  Infradito Donna  Nero  Black/Dark Grey/Ice Grey 7905   33/34 EU'
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

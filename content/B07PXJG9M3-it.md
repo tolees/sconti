@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uvo06h-aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXJG9M3-it'
+slug: 'B07PXJG9M3-it Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Blu Tan SIL 67  42 EU'
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

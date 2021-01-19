@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410B0ddBeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NJ18SQ-it'
+slug: 'B078NJ18SQ-it Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Blu  Peacoat White   L'
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

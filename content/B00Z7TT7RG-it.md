@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7TT7RG-it'
+slug: 'B00Z7TT7RG-it OtterBox Defender Series Custodia per iPad 5th Gen  Nero'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

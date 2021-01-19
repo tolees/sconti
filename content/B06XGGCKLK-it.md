@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v-qGvIpQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGGCKLK-it'
+slug: 'B06XGGCKLK-it find. Scarpe Derby Uomo  Nero  Black   39/40 EU'
 actualPrice: 27.74 EUR
 currency: EUR
 price: 27.74

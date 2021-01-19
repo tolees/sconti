@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51T5yXkfh7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNNKJFF-it'
+slug: 'B07FNNKJFF-it K-Cheratina - Trattamento Professionale Capelli Deboli e Sfibrati - Contiene lo Shampoo Ristrutturante  il Siero ad Azione Riempitiva  la Maschera Ricostruzione e la Cheratina Liquida Ultra-Nutriente'
 actualPrice: 60.76 EUR
 currency: EUR
 price: 60.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dF6fEesoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHTTT45-it'
+slug: 'B07SHTTT45-it Havaianas Slim Brasil Logo  Infradito Donna  Rosa  Crocus Rose 3544   41/42 EU'
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

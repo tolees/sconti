@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ICBYBHchL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KDQKK4-it'
+slug: 'B071KDQKK4-it Tacklife Coltello Pieghevole Professionale  Lama in Acciaio Inox Maniglia  con Legno Multiuso Portabile per Attività all’Aperto  la Caccia o la Pesca - FK04'
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

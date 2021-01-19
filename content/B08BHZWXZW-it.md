@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KmmluW0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHZWXZW-it'
+slug: 'B08BHZWXZW-it FFTH Hard Disk 2 TB Esterno Portatile USB-C Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Rosso '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

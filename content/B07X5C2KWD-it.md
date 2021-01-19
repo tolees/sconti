@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31X5cQJsyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5C2KWD-it'
+slug: 'B07X5C2KWD-it Ariete 2759 Handy Force RBT  Scopa elettrica con Filo 2 in 1 aspirapolvere e aspira briciole  Filtro HEPA  Tecnologia ciclonica Senza Sacco  Spazzola motorizzata  Rosso/Nero  600 W'
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

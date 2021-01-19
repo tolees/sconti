@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313ClchY2nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XJYRF6G-it'
+slug: 'B00XJYRF6G-it Reebok CL LTHR  Scarpe da Ginnastica Donna  Bianco  White/Gum   36 EU'
 actualPrice: 41.6 EUR
 currency: EUR
 price: 41.6

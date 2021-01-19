@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mZ2QbnGkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3FVF83-it'
+slug: 'B07X3FVF83-it Aspirapolvere Senza Fili 9500pa Scopa Elettrica  ciclonica Aspirapolvere Ricaricabile  autonomia fino a 35 minuti  2 spazzole per Casa Peli Animali Auto'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

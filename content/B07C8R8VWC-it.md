@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PV7rmjljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8R8VWC-it'
+slug: 'B07C8R8VWC-it AKAI TV AKTV3215 Ethernet Televisore 32 Pollici TV LED HD Soundbar integrata'
 actualPrice: 145.49 EUR
 currency: EUR
 price: 145.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AeasQ64IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZA0HFSA-it'
+slug: 'B00ZA0HFSA-it KLIM™ Cool Universal Raffreddatore per PC Portatile – Ventola ad Alte Prestazioni per Una Veloce Azione di Raffreddamento – Estrattore di Aria Calda USB - Blu [ Nouva Versione 2020 ]'
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

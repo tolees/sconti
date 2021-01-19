@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311YDR5TuvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1KPJZK-it'
+slug: 'B06Y1KPJZK-it Moleskine ID Collection Zaino da Lavoro Professionale Waterproof Device Backpack per Tablet  Laptop  PC  Notebook e iPad Fino a 15    Dimensioni 27 x 11 x 36 cm  Colore Giallo Ambra'
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

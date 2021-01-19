@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418-rNuYkkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F54Y6GU-it'
+slug: 'B00F54Y6GU-it August EP650  Cuffie Bluetooth Senza Fili v4.2  Auricolare Wireless con NFC aptX  Bluetooth Headphones Pieghevole con Multipoint  August Audio App  Nero'
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mo3aG892L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBSMR8P-it'
+slug: 'B07JBSMR8P-it Cam il Mondo del Bambino - Seggiolone Miniplus col.240'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

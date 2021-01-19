@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G9UfALP4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSCHSPV-it'
+slug: 'B07YSCHSPV-it Necchi KM417A New Mirella Macchina da Cucire con 17 Punti di Cucitura  Esclusiva  Facile per da Usare per Principianti  Cucitrice Automatica da Casa  Cucito Creativo  Professionale  Elettrica'
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

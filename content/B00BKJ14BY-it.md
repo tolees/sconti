@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FWNuJdtlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKJ14BY-it'
+slug: 'B00BKJ14BY-it Navigare 324  Slip Uomo  Multicolore  Bianco/Nero/Antracite/Navi   Large  Taglia Produttore:5   Pacco da 6'
 actualPrice: 20.56 EUR
 currency: EUR
 price: 20.56

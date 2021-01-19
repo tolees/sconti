@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cWP5NwwFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6NDVVS-it'
+slug: 'B07W6NDVVS-it Tommy Hilfiger Uomo Bleecker Th Flex Satin Chino Gmd Loose Fit Jeans  Blu  Faded Indigo   W34/L30'
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

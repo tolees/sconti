@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZYzCmvFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011UKF70Q-it'
+slug: 'B011UKF70Q-it Dal Negro-Dal Negro-21043 Ramino Italia  21043'
 actualPrice: 8.08 EUR
 currency: EUR
 price: 8.08

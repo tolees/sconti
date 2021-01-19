@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xyO+p8mcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQ1V1IG-it'
+slug: 'B01MQ1V1IG-it Lacoste Sport Sh2128 Felpa con Cappuccio  Grigio  Argent Chine/Marine   Medium  Taglia Produttore: 4  Uomo'
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

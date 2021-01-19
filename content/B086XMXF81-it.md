@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TwBQNOXML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086XMXF81-it'
+slug: 'B086XMXF81-it Dash Detersivo Lavatrice Liquido Bicarbonato  con Azione Igienizzante  Formato Convenienza 100 Lavaggi  4 Confezioni da 25 Lavaggi'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

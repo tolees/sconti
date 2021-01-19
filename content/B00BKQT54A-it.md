@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bv93LQrTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQT54A-it'
+slug: 'B00BKQT54A-it Daniel Wellington Classic Cambridge  Orologio da polso Uomo  ⌀ 40mm  Eggshell White'
 actualPrice: 58.55 EUR
 currency: EUR
 price: 58.55

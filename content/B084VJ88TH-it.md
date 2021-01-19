@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519OhuacHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VJ88TH-it'
+slug: 'B084VJ88TH-it Motast Cassa Bluetooth Portatile  10W Speaker Bluetooth con NFC  IP67 Impermeabile Altoparlante Bluetooth Portatili con Doppio Driver  30H Ore di Riproduzione  Luce LED  Deep Bass HD Stereo Microfono'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319w9U7ffiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071L14JBW-it'
+slug: 'B071L14JBW-it Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black Black 9  40.5 D EU'
 actualPrice: 50.01 EUR
 currency: EUR
 price: 50.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QZfVt-YKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DO5SYH8-it'
+slug: 'B01DO5SYH8-it Scottex Balsam Fazzoletti  1 Confezione da 24 Pezzi'
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

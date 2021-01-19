@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HZ+0ecelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BC5ZTF1-it'
+slug: 'B08BC5ZTF1-it VBIGER Guanti Invernali Caldi per Bambini Guanti da Ciclismo Guanti Sportivi con Silicone Antiscivolo e Funzione Touch Screen per Correre in Bicicletta attività all aperto  8-10 Anni '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

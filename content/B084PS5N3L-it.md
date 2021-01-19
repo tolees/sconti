@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5189fm3Z7EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084PS5N3L-it'
+slug: 'B084PS5N3L-it Mastrolindo Detersivo Pavimenti Superfici Delicate  Maxi Formato 6 Pezzi da 950 ml  5.7 L'
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

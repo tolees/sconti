@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21nvaUYursL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BM9MM9-it'
+slug: 'B072BM9MM9-it homcom Outsunny Colonnine Separacode Colonnina Segnapercorso con Nastro Nero  in Acciaio Inox  Ф32 x 90CM'
 actualPrice: 39.87 EUR
 currency: EUR
 price: 39.87

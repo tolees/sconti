@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4169c8djiwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5X3VS8-it'
+slug: 'B07C5X3VS8-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Verde  Olive Night Fit: Reg Fit   Large Uomo'
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

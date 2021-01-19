@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZFwiX4taL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3RJ2L-it'
+slug: 'B07NY3RJ2L-it Superdry Denim Goods Co Tee T-Shirt  Blu  True Indigo BDM   M Uomo'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

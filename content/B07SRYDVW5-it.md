@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-CmdZ4S6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRYDVW5-it'
+slug: 'B07SRYDVW5-it Lacoste Gripshot 120 2 CMA  Sneaker Uomo  Bianco  Wht/Grn 082   41 EU'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

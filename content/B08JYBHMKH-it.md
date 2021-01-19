@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D-R9jyKyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JYBHMKH-it'
+slug: 'B08JYBHMKH-it Aigostar Lampadine LED E27 12W  Equivalenti a 100W  1020 Lumen Luce Bianca Fredda 6400K  Pacco da 7. [Classe di efficienza energetica A+]'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

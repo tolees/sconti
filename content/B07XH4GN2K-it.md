@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AILOpyhGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XH4GN2K-it'
+slug: 'B07XH4GN2K-it POP! Vinyl: Star Wars - Training Luke with Yoda'
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S2sgoIORL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT4SKCQ-it'
+slug: 'B07PT4SKCQ-it SAWAKE Ventilatore Manuale  Ventola USB Portatile con Base  Mini Ventola Ricaricabile con 3 velocità Regolabili  Ventola da Tavolo Portatile Adatta per Ufficio  Casa  Viaggi  ECC.'
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

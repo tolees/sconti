@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-0VEprBnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BPHQ5C-it'
+slug: 'B077BPHQ5C-it Kodak Stampante fotografica Mini 2 HD  istantanea  senza fili e mobile con tecnologia di stampa brevettata 4Pass  compatibile con iOS e Android  Bianco'
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

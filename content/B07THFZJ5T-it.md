@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jvv3ENRtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THFZJ5T-it'
+slug: 'B07THFZJ5T-it Lacoste Th2038 T-Shirt  Verde  Aucuba Xzd   Large  Taglia Unica: 5  Uomo'
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

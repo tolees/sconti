@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RLFs5gOQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDCJFYL-it'
+slug: 'B07VDCJFYL-it NAPAPIJRI Bishop Fzh Cappuccio  Rosso  Bright Red R471   Small Uomo'
 actualPrice: 53.7 EUR
 currency: EUR
 price: 53.7

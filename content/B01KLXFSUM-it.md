@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513xPZ0sqPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KLXFSUM-it'
+slug: 'B01KLXFSUM-it Remington XF8505 Capture Cut Rasoio a Lamina'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

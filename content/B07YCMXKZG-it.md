@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d3f-9fPxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCMXKZG-it'
+slug: 'B07YCMXKZG-it TACKLIFE Tagliabordi  350W Tagliabordi Elettrico  25 cm Larghezza Taglio  180° Taglio Girevole  Doppio Interruttore di Sicurezza  Funzione di Rifilatura Bordi  Estensione di Bobina Filo Automatica'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

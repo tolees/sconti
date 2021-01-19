@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411YR7P0wXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SH5Z7Y-it'
+slug: 'B082SH5Z7Y-it HolyHigh Auricolari Bluetooth Sport Wireless Cuffie Bluetooth Senza Fili con Suono Stereo 30 Ore di Riproduzione Cuffiette in-Ear Impermeabili IPX5 in-Ear Chiamata Hi-Fi Binaurale per iOS Android'
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

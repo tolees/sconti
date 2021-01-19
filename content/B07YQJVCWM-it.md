@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mqIjJtk3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQJVCWM-it'
+slug: 'B07YQJVCWM-it INPHIC Mouse Wireless Ricaricabile  Mouse Senza Fili Silenzioso 2 4G 1600DPI Mouse USB Portatile da Viaggio Ottico con Ricevitore USB per PC Computer Mac MacBook  Blu Nero  Oro Rosa'
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

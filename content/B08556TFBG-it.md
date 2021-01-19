@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519zon94O4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08556TFBG-it'
+slug: 'B08556TFBG-it Spirits In The Forest'
 actualPrice: 20.35 EUR
 currency: EUR
 price: 20.35

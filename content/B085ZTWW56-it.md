@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OrShIq1fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZTWW56-it'
+slug: 'B085ZTWW56-it Cocoda Termometro Cucina Digitale  Termometro Forno a Lettura Istantanea 2S con Sonda Lunga 4 7"  LCD Controluce  IPX6 Impermeabile & Magnete  Termometro Carne per Olio Friggere Barbecue Grill Latte'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

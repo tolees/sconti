@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515W2XVik4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZ9QVT4-it'
+slug: 'B08CZ9QVT4-it UniqueMe [3 Pezzi] Vetro Temperato per Xiaomi Redmi 9 Pellicola Vetro con Un Perfetto Servizio Post-Vendita.'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

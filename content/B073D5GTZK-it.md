@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z6CyZyyML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073D5GTZK-it'
+slug: 'B073D5GTZK-it Napapijri Voyage  Zaino Unisex Adulto  Grau  Dark Grey Solid   32x40x13 cm  B x H T '
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

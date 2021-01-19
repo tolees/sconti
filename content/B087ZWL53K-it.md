@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Cn-N6b3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087ZWL53K-it'
+slug: 'B087ZWL53K-it WEWAK Antenna TV Interna HDTV Antenna Digitale con Amplificatore Booster Segnale 4K 1080p VHF UHF 120 Miglia Gamma Antenna TV Ultra Sottile Freeview Canali TV Locali'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

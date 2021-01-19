@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NE1TcaKvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HRNK4VM-it'
+slug: 'B01HRNK4VM-it Puma Invisible Calzini Sport Uomo  Pink Lady  39/42'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

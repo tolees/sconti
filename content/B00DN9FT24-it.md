@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vTE9FmWsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DN9FT24-it'
+slug: 'B00DN9FT24-it Immunilflor - 12 Mini Drink'
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

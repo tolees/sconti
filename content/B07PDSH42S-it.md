@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416H6fxGHpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDSH42S-it'
+slug: 'B07PDSH42S-it AmazonBasics - Evidenziatori a forma piatta allungata  colori assortiti  confezione da 8'
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

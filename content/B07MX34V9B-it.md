@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xtFNXhbhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MX34V9B-it'
+slug: 'B07MX34V9B-it Far Cry New Dawn - Xbox One'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514tpPkGn8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TS7RMMU-it'
+slug: 'B00TS7RMMU-it Outsunny PawHut Recinto Recinzione Box per Animali Cani Gatti Cuccioli Roditori Rete Gabbia di Ferro per Esterno Giardino 80x60cm 8pz'
 actualPrice: 58.36 EUR
 currency: EUR
 price: 58.36

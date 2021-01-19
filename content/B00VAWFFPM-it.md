@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nntkSmf6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VAWFFPM-it'
+slug: 'B00VAWFFPM-it HP - HP Stampanti Office Jet Pro 9022 Stampante Multifunzione  Stampa  Copia  Scansione  Fax  Bianco/Nero'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

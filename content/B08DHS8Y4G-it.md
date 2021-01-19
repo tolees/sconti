@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yMtJP4oyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHS8Y4G-it'
+slug: 'B08DHS8Y4G-it Smartphone Offerta 4G  DOOGEE N20 Pro Cellulari Offerte  2020   6 GB + 128 GB  6 3’’ FHD+ Waterdrop Glass Back  Fotocamere 16MP+8MP+2MP+2MP  Dual SIM  4400mAh  Impronte/Face ID  Android 10.0 - Verde'
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aml4aGlhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDCL3XB-it'
+slug: 'B07NDCL3XB-it Nacon Revolution Unlimited Pro Controller - Playstation 4'
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

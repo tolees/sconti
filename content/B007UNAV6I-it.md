@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c31u+nBuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007UNAV6I-it'
+slug: 'B007UNAV6I-it Casio Orologio Digitale Donna con Cinturino in Acciaio Inox LA670WEA-7EF'
 actualPrice: 27.67 EUR
 currency: EUR
 price: 27.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JsXKRIJPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C2SHSLW-it'
+slug: 'B00C2SHSLW-it SEAC Polpone  Fucile a Molla con Fiocina per Pesca Sub Unisex Adulto  Azzurro  60 cm'
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

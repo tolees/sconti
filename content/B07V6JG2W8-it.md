@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FBsoltdOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6JG2W8-it'
+slug: 'B07V6JG2W8-it YAMAMAY® Costume da Bagno Slip Mare Tinta Unita - Essential'
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

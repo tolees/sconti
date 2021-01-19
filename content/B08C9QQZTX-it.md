@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518Ol9v+ROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9QQZTX-it'
+slug: 'B08C9QQZTX-it REDSTORM Controller Wireless USB Controller per Nintendo Switch Joystick 2.4G/TURBO/Dual Vibrazione per PS3/Tablet/Windows 10/8/7'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

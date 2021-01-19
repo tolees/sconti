@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BRw-kaolL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZFM4WT-it'
+slug: 'B085ZFM4WT-it VATOS Set di Costruzioni  568 Pezzi Castello da Principessa Giocattolo per Bambine  Mattoncini Rosa per Castello  STEM Kit di Costruzione  25 Modelli di Gioco  Giocattoli Regali per di 6 7 8 9 Anni'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

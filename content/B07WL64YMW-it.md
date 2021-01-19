@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41prtQZujDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WL64YMW-it'
+slug: 'B07WL64YMW-it Vetril Igienizzante  650 ml'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dqoFne9SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719BBGJS-it'
+slug: 'B0719BBGJS-it Lacoste Sport TH0123 T-Shirt  Nero  Noir   Large  Taglia Produttore: 5  Uomo'
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

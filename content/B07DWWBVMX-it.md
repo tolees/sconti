@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419gxUKY05L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWWBVMX-it'
+slug: 'B07DWWBVMX-it SIMPLETASTE Schiumalatte Automatico e Scaldalatte  Montalatte Elettrico  Montatore per Schiuma del Latte per Cappuccino  Latte  Caffè e Cioccolata Calda Schiumatore per Latte Automatico'
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

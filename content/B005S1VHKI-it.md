@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cUHK0d9gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005S1VHKI-it'
+slug: 'B005S1VHKI-it Aeg FDS 140 Levigatrice Orbitale'
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

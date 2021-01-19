@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HlF8dADqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085PXXN4Y-it'
+slug: 'B085PXXN4Y-it Südtirol - Alto Adige DOC Goldmuskateller Blumenfeld 2019 0 75 L'
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

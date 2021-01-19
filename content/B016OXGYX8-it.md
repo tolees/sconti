@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mXD40lyLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016OXGYX8-it'
+slug: 'B016OXGYX8-it Ferrino Skykline  Tenda a Cupola Campeggio  Blu  3 Persone'
 actualPrice: 154.9 EUR
 currency: EUR
 price: 154.9

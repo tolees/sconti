@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I4ThwjQkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LTNQCH-it'
+slug: 'B083LTNQCH-it SoundPEATS Auricolari Wireless TrueCapsule Nuova Versione Cuffie TWS Bluetooth 5.0 accoppiato automatico  Mic HD  Audio Stereo  Smart Touch  IPX5  24-Ore Riproduzione '
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

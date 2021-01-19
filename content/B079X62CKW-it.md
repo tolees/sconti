@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QEl1ZlYGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079X62CKW-it'
+slug: 'B079X62CKW-it Gillette Fusion5 ProGlide Lamette di Ricambio per Rasoio da Uomo con Tecnologia FlexBall  14 Testine'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

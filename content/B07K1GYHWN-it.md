@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tq68h7FmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1GYHWN-it'
+slug: 'B07K1GYHWN-it adidas Continental 80  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Escarl/Maruni 000   42 EU'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

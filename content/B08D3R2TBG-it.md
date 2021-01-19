@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qWyagDmdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3R2TBG-it'
+slug: 'B08D3R2TBG-it Scrambler Ducati Monopattino elettrico Cross-E  nero e giallo  Taglia universale'
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

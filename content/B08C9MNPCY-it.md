@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C-HgbrMwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9MNPCY-it'
+slug: 'B08C9MNPCY-it ZIYOULANG Mouse da gioco cablato  69G a nido d ape leggero con 6400 DPI  mouse USB programmabile a 6 pulsanti  per giocatori PC e utenti Xbox e PS4  bianco'
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

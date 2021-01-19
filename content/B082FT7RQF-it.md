@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pghLFps9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FT7RQF-it'
+slug: 'B082FT7RQF-it Moschino Donna Borsa Nero MOD. MOS4085'
 actualPrice: 64.35 EUR
 currency: EUR
 price: 64.35

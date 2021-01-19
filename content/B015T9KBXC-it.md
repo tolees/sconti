@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pfSo4pbDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015T9KBXC-it'
+slug: 'B015T9KBXC-it Aigostar Lampadina LED GU10 8W  600 Lumen Luce Bianca Fredda 6400K  Angolo a Fascio 120-160 Gradi  Nessun Sfarfallio Non Dimmerabile  Pacco da 10.'
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

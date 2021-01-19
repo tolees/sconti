@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YrOkNQvdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3RRKWB-it'
+slug: 'B07H3RRKWB-it Gillette Mach3 Rasoio Uomo + 7 Lamette di Ricarica Con Lame Forti che durano nel tempo'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

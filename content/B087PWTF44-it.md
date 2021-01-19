@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o3j-PbVjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PWTF44-it'
+slug: 'B087PWTF44-it Maegoo Controller PC PS3 TV Wireless  2.4GHz Wireless Gaming Controller Gamepad Joystick con Doppio Shock Ricaricabile per Sony Playstation 3 e PC Windows 10 XP 7 8 8.1 Smart TV/TV Box  Nero '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

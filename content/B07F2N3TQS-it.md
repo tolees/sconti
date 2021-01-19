@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4184X+V6MYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2N3TQS-it'
+slug: 'B07F2N3TQS-it PUMA Cilia  Scarpe da Ginnastica Donna  Nero  Black-Silver-Peach Bud   37 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

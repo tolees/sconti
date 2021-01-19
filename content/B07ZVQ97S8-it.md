@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BFIpLN7ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVQ97S8-it'
+slug: 'B07ZVQ97S8-it Levi s Housemark Graphic Tee T-Shirt  Ssnl Hm2 Bianco  Medium Uomo'
 actualPrice: 21.91 EUR
 currency: EUR
 price: 21.91

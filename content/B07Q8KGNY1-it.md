@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21R1FihfB8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8KGNY1-it'
+slug: 'B07Q8KGNY1-it HISENSE APC12 Climatizzatore d’Aria Portatile da 12000 BTU con Gas R290  380m3/h  Bianco  Classe di Efficienza Energetica A'
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

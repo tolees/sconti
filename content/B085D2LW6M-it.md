@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FxT9pMo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085D2LW6M-it'
+slug: 'B085D2LW6M-it Pantene Pro-V Shampoo Ricci Perfetti  per Ricci Luminosi e Corposi  Maxi Formato da 3 x 675 ml'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

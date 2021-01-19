@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UvqBB9kjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833XJT4T-it'
+slug: 'B0833XJT4T-it Netac 32G Scheda Micro SD Set da 2  Scheda di Memoria A1  U1  C10  V10  FHD  600X  UHS-I velocità Fino a 90/10 MB/Sec R/W  Micro SD Card per Telefono  Videocamera  Switch  Gopro  Tablet'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

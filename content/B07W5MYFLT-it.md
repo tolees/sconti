@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419W-QhT9RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5MYFLT-it'
+slug: 'B07W5MYFLT-it Tommy Hilfiger Basic Embroidered Hoody Felpa  Blu  Desert Sky   Large  Taglia Unica:  Uomo'
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LdOKOEvQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DUX6Q6U-it'
+slug: 'B01DUX6Q6U-it Kellogg S Extra Classico - 375 G'
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

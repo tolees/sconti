@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410cX4hMINL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NN4WF5-it'
+slug: 'B089NN4WF5-it Neewer 8” Luce LED Anulare da Selfie con Treppiedi  3 Attacchi Coldshoe  2 Supporti Clip per Smartphone  Telecomando  3 Modalità  10 Luminosità  per Truccatura  YouTube/TikTok  Streaming ecc.'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

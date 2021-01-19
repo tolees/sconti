@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YBRP53NSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHPSMJ5-it'
+slug: 'B07VHPSMJ5-it Android TV Box 10.0 QPLVE Q8 TV BOX 4GB 64GB RK3318 Quad Core Cortex A53 Dual WiFi 2.4G/5G 100M Ethernet BT4.0 3D 4K Smart TV Box'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

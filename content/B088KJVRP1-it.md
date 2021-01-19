@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sMHD-Bg3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KJVRP1-it'
+slug: 'B088KJVRP1-it PUPPY KITTY Distributore Automatico di Cibo per Gatti  Cani  con Ciotola per Alimenti in Acciaio Inox  registratore vocale  Doppio Mantenimento della freschezza e Zero intasamenti'
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

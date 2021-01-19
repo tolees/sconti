@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eh-5RTU4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EY8LKCK-it'
+slug: 'B01EY8LKCK-it Oral-B Genius 8900 Spazzolini Elettrici Ricaricabili con Connessione Bluetooth  3 Testine di Ricambio  1 Custodia da Viaggio  con 5 Modalità  tra cui Denti Sensibili  Protezione Gengive e Sbiancante'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

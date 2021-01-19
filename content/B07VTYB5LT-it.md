@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dM7sQQoRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTYB5LT-it'
+slug: 'B07VTYB5LT-it Lee Luke Pantaloni  Blu  Dark Marine 37   W30/L34  Taglia Unica: 30/34  Uomo'
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

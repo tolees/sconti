@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41debk5CtOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086CYYBQ3-it'
+slug: 'B086CYYBQ3-it ammoon Pad per Allenamento  12 Pollici Drum Pad Pratica in Naturale Muto con Bacchette del Tamburo Borsa per il Trasporto per Batteristi Principianti  Nero '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

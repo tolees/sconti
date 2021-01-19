@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bJ4ig5vDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086XRP94M-it'
+slug: 'B086XRP94M-it Kellogg s Krave Choco Nut - 410 g'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

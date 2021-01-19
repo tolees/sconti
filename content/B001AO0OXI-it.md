@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WxGa-8I9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001AO0OXI-it'
+slug: 'B001AO0OXI-it Honeywell HO-5500RE4 Ventilatore a Torre'
 actualPrice: 46.3 EUR
 currency: EUR
 price: 46.3

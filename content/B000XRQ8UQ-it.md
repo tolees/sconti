@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Eg8Bx6YxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XRQ8UQ-it'
+slug: 'B000XRQ8UQ-it Master Lock 8285EURDPRO Catena U  Ottima per Bicicletta  Elettrica  Bici da Corsa  Nero  Large'
 actualPrice: 32.94 EUR
 currency: EUR
 price: 32.94

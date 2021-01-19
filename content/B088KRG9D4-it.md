@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31udnIDVprL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KRG9D4-it'
+slug: 'B088KRG9D4-it Südtirol - Alto Adige Valle Isarco DOC Riesling Adler von Klausen 2019 0 75 L'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rZSyIO66L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3WKRFM-it'
+slug: 'B07B3WKRFM-it Polaroid Eyewear PLD 2062/S Occhiali da Sole  Matt HVNA  50 Uomo'
 actualPrice: 35.02 EUR
 currency: EUR
 price: 35.02

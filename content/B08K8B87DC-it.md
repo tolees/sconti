@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412n7KXusWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08K8B87DC-it'
+slug: 'B08K8B87DC-it Echo Show 5  Nero + lampadina intelligente LIFX White  compatibile con Alexa'
 actualPrice: 85.98 EUR
 currency: EUR
 price: 85.98

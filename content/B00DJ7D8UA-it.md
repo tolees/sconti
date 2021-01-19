@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510JWX5UH5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DJ7D8UA-it'
+slug: 'B00DJ7D8UA-it Autan Antiarme Alimentari  Confezione da 2 fogli  Cattura le Tarme Alimentari e le Farfalline del Cibo  Efficace fino a 8 Settimane'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319BysO5SrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005D47PEC-it'
+slug: 'B005D47PEC-it Foppapedretti Gulliver Stendibiancheria Pieghevole  Bianco'
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

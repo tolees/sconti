@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M7WBC2UDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVK5QD6-it'
+slug: 'B08CVK5QD6-it KLAS REMO Dispenser di Sapone Automatico 400ML Erogatore di Sapone Touchless con Sensore di Infrarossi per Bagno  Cucina  Ufficio  Hotel - Bianco'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

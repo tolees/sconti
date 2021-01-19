@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JJ56qP+gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5JD3T4-it'
+slug: 'B07Z5JD3T4-it TP-Link Presa Intelligente WiFi Smart Plug  Compatibile con Alexa e Google Home  Controllo Remoto tramite APP Tapo  10A  2300W  Tapo P100 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

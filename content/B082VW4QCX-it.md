@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ytZOGDfUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VW4QCX-it'
+slug: 'B082VW4QCX-it Samsung Memorie T7 Touch MU-PC1T0K SSD Esterno Portatile da 1 TB  USB 3.2 Gen 2  10 Gbps  Tipo-C  Nero'
 actualPrice: 217.99 EUR
 currency: EUR
 price: 217.99

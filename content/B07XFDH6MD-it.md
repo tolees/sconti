@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wUtK7kVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFDH6MD-it'
+slug: 'B07XFDH6MD-it HUAWEI Watch GT 2 Smartwatch 46 mm  Durata Batteria fino a 2 Settimane  GPS  15 Modalità di Allenamento  Display del Quadrante in Vetro 3D  Chiamata Tramite Bluetooth  Pebble Brown'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

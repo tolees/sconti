@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tgj6nSVvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZLXWCS-it'
+slug: 'B07CZLXWCS-it Neutro Roberts Doccia Shampoo Energizzante - 6 Confezioni da 250 ml - Totale: 1500 ml'
 actualPrice: 7.14 EUR
 currency: EUR
 price: 7.14

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U5qhbhG0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSRSGPS-it'
+slug: 'B07NSRSGPS-it Funko- Pop Vinile: Film Gump-Forrest w/Chocolates Figura da Collezione  Multicolore  40206'
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iXziyIOmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2FVRZ2-it'
+slug: 'B07X2FVRZ2-it Seanshow - Set di 3 trolley in ABS di alta qualità  con lucchetto TSA e ruote  55 cm  68 cm  78 cm  argento  Argento  - SHDE-2099-silver'
 actualPrice: 73.41 EUR
 currency: EUR
 price: 73.41

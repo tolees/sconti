@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61732WtpEsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCP2C3S-it'
+slug: 'B06XCP2C3S-it Ravensburger Puzzle - Krypt Gold 631 Pezzi  15152 3'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

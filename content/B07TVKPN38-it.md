@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wJraogBcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVKPN38-it'
+slug: 'B07TVKPN38-it Samsung WW12R641U0M Lavatrice 12 kg Arno  1400 rpm  Bianco'
 actualPrice: 602.0 EUR
 currency: EUR
 price: 602.0

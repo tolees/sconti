@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WwwZ0xQOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTP9V2G-it'
+slug: 'B07TTP9V2G-it Kipling KiplingTopsDonnaPortafogliNero  Charcoal  7.5x10x2.5 Centimeters  B x H x T '
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

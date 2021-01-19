@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NGqUpAxyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS5Q4HR-it'
+slug: 'B07PS5Q4HR-it Finish All in 1 Max Kit Pastiglie Lavastoviglie 110 Tabs + Curalavastoviglie + Deodorante'
 actualPrice: 24.59 EUR
 currency: EUR
 price: 24.59

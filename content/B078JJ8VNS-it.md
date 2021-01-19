@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mx6ZBPGqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078JJ8VNS-it'
+slug: 'B078JJ8VNS-it Huion Inspiroy H430P Tavoletta grafica da disegno Tavoletta da firma con penna senza batteria 4096 livelli di pressione della penna 4 tasti a scelta rapida supporta Windows  Mac e Android.'
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

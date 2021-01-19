@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412siSY3S0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZJGYSR-it'
+slug: 'B077ZJGYSR-it Diadora - Sneakers B. Elite per Uomo e Donna  EU 42.5 '
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-4P1x2KDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3FWKVN-it'
+slug: 'B07L3FWKVN-it Tommy Hilfiger Dress Casual Leather Shoe  Scarpe Stringate Oxford Uomo  Nero  Black 990   41 EU'
 actualPrice: 54.15 EUR
 currency: EUR
 price: 54.15

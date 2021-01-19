@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41umqZgZbdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SHT12R-it'
+slug: 'B077SHT12R-it Yankee Candle candela profumata in giara media  Un luogo calmo e tranquillo  durata: fino a 75 ore'
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

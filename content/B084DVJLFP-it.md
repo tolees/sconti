@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CXSWAmFwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084DVJLFP-it'
+slug: 'B084DVJLFP-it Switch Cat Quest + Cat Quest 2 Pawsome Pack [ [Edizione: Germania]'
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

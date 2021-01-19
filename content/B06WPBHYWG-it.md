@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cghj9IuwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WPBHYWG-it'
+slug: 'B06WPBHYWG-it Adidas Vs Pace  Scarpe da Ginnastica Uomo  Blu  Maruni/Ftwbla/Azul 000   39 1/3 EU'
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

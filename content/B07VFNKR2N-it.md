@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y14yT4-XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFNKR2N-it'
+slug: 'B07VFNKR2N-it Desigual Bols Intra Durban Borsa a tracolla da donna  beige  Camel   4 x 17 5 x 27 2 cm'
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

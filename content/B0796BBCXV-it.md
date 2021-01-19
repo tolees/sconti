@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yp1W2jEzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0796BBCXV-it'
+slug: 'B0796BBCXV-it NAPAPIJRI Rainforest M Sum 1 Giacca  Nero  Black 041   Medium Uomo'
 actualPrice: 94.84 EUR
 currency: EUR
 price: 94.84

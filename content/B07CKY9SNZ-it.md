@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417UP3hKZwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKY9SNZ-it'
+slug: 'B07CKY9SNZ-it Imetec ZeroCalc Ferro da Stiro Z1 2500  Tecnologia Anticalcare  Piastra Inox 2200W  Colpo Vapore 120 g  Tecnologia a Risparmio Energetico'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

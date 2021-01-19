@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF51VXY-it'
+slug: 'B07KF51VXY-it Levi s Type 3 Giacca in Jeans  Nero  Berk Sherpa Trucker 0100   Small Uomo'
 actualPrice: 77.96 EUR
 currency: EUR
 price: 77.96

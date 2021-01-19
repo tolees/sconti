@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kUuW3isxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VY9LDDZ-it'
+slug: 'B07VY9LDDZ-it YAMAY Smartwatch Orologio Fitness Tracker Uomo Donna Pressione Sanguigna Smart Watch Cardiofrequenzimetro da Polso Contapassi Smartband Sportivo Activity Tracker per Android iOS Xiaomi Samsung Huawei'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

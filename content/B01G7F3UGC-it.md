@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51J9KWBXc4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G7F3UGC-it'
+slug: 'B01G7F3UGC-it Red Bull Energy Drink  250 ml  24 Lattine '
 actualPrice: 23.34 EUR
 currency: EUR
 price: 23.34

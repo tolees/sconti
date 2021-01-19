@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZCvl3AhOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L41CLKA-it'
+slug: 'B01L41CLKA-it Havaianas Origine III  Espadrillas Unisex-Adulto  Bianco  White   41 EU'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

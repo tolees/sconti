@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416CKAoDGTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB3PYD8-it'
+slug: 'B07BB3PYD8-it HyperX HX-HSCSC-BK Cloud Stinger Core  Cuffie Gaming per Console PlayStation 4/4 Pro'
 actualPrice: 23.01 EUR
 currency: EUR
 price: 23.01

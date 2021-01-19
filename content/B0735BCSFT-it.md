@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412IfEvjfvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0735BCSFT-it'
+slug: 'B0735BCSFT-it Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Bianco  Bright White 002   Large Uomo'
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

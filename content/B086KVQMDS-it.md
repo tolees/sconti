@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317WXpOOkOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086KVQMDS-it'
+slug: 'B086KVQMDS-it Xiaomi Mi 10 16 9 cm  6.67"  8 GB 256 GB Doppia SIM 5G USB Tipo-C Grigio Android 10.0 4780 mAh 10  16 9 cm  6.67"   8 GB  256 GB  108 MP  Android 10.0  Twilight Gray'
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

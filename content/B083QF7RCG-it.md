@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FsZ026HvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QF7RCG-it'
+slug: 'B083QF7RCG-it Joyjoz Tappetino Acqua per Bambini TummyTime Gonfiabile  Tappeto per Giocare  Tappetino per Gioco Sensoriale  per Bambini ai Primi Passi  a Partire dai 3 Mesi'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

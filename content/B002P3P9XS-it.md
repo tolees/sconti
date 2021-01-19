@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414N-NLQYHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002P3P9XS-it'
+slug: 'B002P3P9XS-it Fjällräven Kånken - Zaino Unisex  13 cm x 27 cm x 38 cm  16 L  Verde  Forest Green/Ox Red '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

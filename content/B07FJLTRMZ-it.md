@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QqUvMLdrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJLTRMZ-it'
+slug: 'B07FJLTRMZ-it Abody Lampada Unghie UV LED da 48W  Fornetto Unghie Professionale per Manicure e Pedicure con Sensore Automatico  5 Timers da 10s  30s  60s  99s e 120s  LCD Display  Rosa'
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

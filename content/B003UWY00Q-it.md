@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QJvPiuaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003UWY00Q-it'
+slug: 'B003UWY00Q-it Swiffer Wet Panni Umidi Lavapavimenti per Scopa  Maxi Formato 72 Pezzi  3 Confezioni da 24 Panni'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316f9jH19BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YQPQ5M-it'
+slug: 'B084YQPQ5M-it Huawei P40 Lite Crush Green 6.4" 6gb/128gb Dual Sim'
 actualPrice: 179.98 EUR
 currency: EUR
 price: 179.98

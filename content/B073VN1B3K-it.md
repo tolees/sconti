@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BHNjNhHFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VN1B3K-it'
+slug: 'B073VN1B3K-it Maybelline New York Tinta per Sopracciglia Peel-off Tattoo Brow  Risultato Definito fino a 3 Giorni  1-Light Brown  4.6 g'
 actualPrice: 4.85 EUR
 currency: EUR
 price: 4.85

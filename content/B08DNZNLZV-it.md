@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FgUYcv9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNZNLZV-it'
+slug: 'B08DNZNLZV-it EasySMX Controller per Switch / Switch Lite  Controller switch wireless   Controller switch Pro con Bluetooth / Turbo / Dual Motor / 6 assi  Switch Lite e PC'
 actualPrice: 35.97 EUR
 currency: EUR
 price: 35.97

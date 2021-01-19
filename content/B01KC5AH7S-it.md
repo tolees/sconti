@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aYXPwdL+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KC5AH7S-it'
+slug: 'B01KC5AH7S-it Cuffie Bluetooth  Auricolari Bluetooth Wireless Con Microfono Hi-Fi Stereo Bassi Profondi  30 Ore di Tempo di Utilizzo  IP7 Impermeabile Cuffie Senza Fili con Display Digitale LED  Touch Controllo'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

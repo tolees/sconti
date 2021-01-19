@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qVl3kErSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895FDJRR-it'
+slug: 'B0895FDJRR-it Automatico Dispenser di Sapone  JUSTDOLIFE Erogatore di Sapone Dispenser di Liquidi Per Sensori  Ipx3 Dispenser Impermeabile  Dispenser di Sapone Elettrico Ideale per Bambini  Adulti  Cucina etc'
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

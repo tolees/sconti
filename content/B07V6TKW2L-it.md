@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g9kQ+B70L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TKW2L-it'
+slug: 'B07V6TKW2L-it Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Basse Uomo  Nero  Black Bds   42 EU'
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

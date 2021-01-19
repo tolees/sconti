@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cVCmkhuWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJJNSBT-it'
+slug: 'B07DJJNSBT-it Tommy Hilfiger Essential Leather Sneaker  Scarpe da Ginnastica Basse Uomo  Bianco  White 100   44 EU'
 actualPrice: 57.7 EUR
 currency: EUR
 price: 57.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pmRG4OJxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT4N11S-it'
+slug: 'B07GT4N11S-it Razer Mamba Wireless Mouse da Gaming  Nero'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

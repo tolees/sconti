@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ID96mx78L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ6YNW3-it'
+slug: 'B08DJ6YNW3-it NEWHEY Borsa Donna Borsa Porta PC 15.6 Pollici Grande Impermeabile Borsa da Lavoro Borse Donna Tracolla in Pelle PU Ventiquattrore Donna Business Shopper Viola'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

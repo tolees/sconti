@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Lk9iL+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GH7CFO4-it'
+slug: 'B00GH7CFO4-it Kleenex 8826 Scatole di fazzoletti ovali  10 scatole da 64 fogli  3 veli  Morbidi e resistenti  Inodore  Collection  Bianco'
 actualPrice: 24.74 EUR
 currency: EUR
 price: 24.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Cfqsm7b6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYSS22Q-it'
+slug: 'B01EYSS22Q-it Creed Nato Per Combattere  4K Ultra Hd + Blu-Ray + Copia Digitale '
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

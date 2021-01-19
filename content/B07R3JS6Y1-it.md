@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cAtG2az1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3JS6Y1-it'
+slug: 'B07R3JS6Y1-it Lecone Mini Ventilatore USB Portatile con LED Colorate Luci  USB Ventilatore Ricaricabile  Piccolo Ventilatore Elettrico con 2 Impostazioni di Velocità per Travel  Ufficio e Scrivania  Campeggio'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

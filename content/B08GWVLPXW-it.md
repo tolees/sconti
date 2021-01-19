@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41svulRR7HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GWVLPXW-it'
+slug: 'B08GWVLPXW-it Aerku Fotocamera Posteriore Pellicola Vetro Temperato per Samsung Galaxy Z Fold 2  [Piena Copertura Vetro Flessibile] HD Camera Pellicola Protettiva Trasparenza Screen Protector Film[3 Pezzi]'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

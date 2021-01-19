@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a1yO8ehwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLRRUNC-it'
+slug: 'B01JLRRUNC-it Hotpoint AQ97D 49D IT  Lavatrice a Carica Frontale  9 kg  A+++-40%  1400 Giri/Min  Bianco/Argento'
 actualPrice: 315.37 EUR
 currency: EUR
 price: 315.37

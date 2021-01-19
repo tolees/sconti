@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51C3VJPtNqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VJ5NRY-it'
+slug: 'B084VJ5NRY-it Cassa Bluetooth Portatile  20W Motast Speaker Bluetooth Portatili  IP56 Impermeabile Altoparlante Bluetooth Portatili  24H Ore di Riproduzione  Microfono Incorporato  Cassa Audio di Alta Qualità'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

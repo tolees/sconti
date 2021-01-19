@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s0iY9AZvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GMEJWHA-it'
+slug: 'B00GMEJWHA-it Lacoste Sport L1230 Polo Sport Ultraleggera  Blu  Marine 166   Small Uomo'
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

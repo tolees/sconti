@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t8p2QSHEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004DBFPNE-it'
+slug: 'B004DBFPNE-it BIC Cristal Original Penne A Sfera Punta Media  1 0 mm  Blu  Pacco da 10'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

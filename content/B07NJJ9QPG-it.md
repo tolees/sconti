@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512X+GsbMjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJJ9QPG-it'
+slug: 'B07NJJ9QPG-it Assassin s Creed III Liberation Remastered - Xbox One'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

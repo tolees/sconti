@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oJU8xG5oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ART3UI-it'
+slug: 'B003ART3UI-it Birkenstock Arizona Birko-Flor Nubuck  Sandali Unisex-Adulto  Beige  Stone Nubuk   37'
 actualPrice: 62.89 EUR
 currency: EUR
 price: 62.89

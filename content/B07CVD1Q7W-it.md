@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mvfCgHGSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVD1Q7W-it'
+slug: 'B07CVD1Q7W-it Felix AS Good AS it Looks Misto varietà Cat Food  100 g  Confezione da 120'
 actualPrice: 37.23 EUR
 currency: EUR
 price: 37.23

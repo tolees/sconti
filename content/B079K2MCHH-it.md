@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F4l9W9YdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079K2MCHH-it'
+slug: 'B079K2MCHH-it rimmel FONDO TINTA - 1 pezzi'
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

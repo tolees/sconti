@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EgAvStsbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZPMX4V-it'
+slug: 'B07BZPMX4V-it Hasbro Pistola Laser Modello: Nerf Ops Alphapoint  Confezione da 2 Pezzi  Codice dell’Articolo: E2281'
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

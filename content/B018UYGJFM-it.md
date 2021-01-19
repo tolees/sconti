@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jn2YGsFlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018UYGJFM-it'
+slug: 'B018UYGJFM-it Guess Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox W1009L1'
 actualPrice: 84.5 EUR
 currency: EUR
 price: 84.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lV4mrOrhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLXQDK-it'
+slug: 'B07RZLXQDK-it New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   40 EU'
 actualPrice: 40.8 EUR
 currency: EUR
 price: 40.8

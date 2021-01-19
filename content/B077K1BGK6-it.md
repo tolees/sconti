@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512iXH1aKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077K1BGK6-it'
+slug: 'B077K1BGK6-it Justice League  4K+Br '
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

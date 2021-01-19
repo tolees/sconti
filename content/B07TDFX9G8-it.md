@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FAcUCJjkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDFX9G8-it'
+slug: 'B07TDFX9G8-it The North Face M Quest L/S  Maglia a Maniche Corte Uomo  Blu  Acoustic Blue/T   S'
 actualPrice: 25.04 EUR
 currency: EUR
 price: 25.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419m2OqqcDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHRD64Y-it'
+slug: 'B08BHRD64Y-it Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Rosso '
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FWQXU6MZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B655RRN-it'
+slug: 'B07B655RRN-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Blu  Navy Blazer Fit: Reg Fit   Medium Uomo'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

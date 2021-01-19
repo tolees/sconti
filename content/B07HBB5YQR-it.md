@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pU+q9xbDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBB5YQR-it'
+slug: 'B07HBB5YQR-it SanDisk Extreme micro SDSQXA1-128G-GN6AA per Action Camera e Droni + Adattatore SD  Velocità di Lettura fino a 160 MB/s  A2 C10 V30 UHS-I U3'
 actualPrice: 20.34 EUR
 currency: EUR
 price: 20.34

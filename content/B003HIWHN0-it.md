@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O7JRJmMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003HIWHN0-it'
+slug: 'B003HIWHN0-it SanDisk Scheda di Memoria MicroSDHC 32 GB Classe 4'
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

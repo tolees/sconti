@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-HaHfchzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLXX38-it'
+slug: 'B07RZLXX38-it New Balance 373 Core  Sneaker Uomo  Blu  Navy/White Cc2 '
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

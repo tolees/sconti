@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417RRYdDRLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JV7WSD-it'
+slug: 'B073JV7WSD-it Marchio Amazon - find. Bomber Imbottito Uomo  Blu  Navy   M  Label: M'
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

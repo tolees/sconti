@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rcN0Ol4ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0865TVL5D-it'
+slug: 'B0865TVL5D-it MMCRRX Box SATA USB 3  Case Esterno Ultrasottile in Lega di Alluminio per Disco Rigido 2.5 HDD SSD Hard Disk'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

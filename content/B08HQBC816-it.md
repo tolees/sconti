@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KkBQdiU9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HQBC816-it'
+slug: 'B08HQBC816-it eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY Ricambio per Nintendo Switch Joy-Con Controller Sakura Rosa&Petali Bianchi  con Pulsanti-Joycon NON Incluso'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

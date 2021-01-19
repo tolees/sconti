@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DzNs4dJjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5R73JR-it'
+slug: 'B07C5R73JR-it Samsung WW90J5356MW Lavatrice 9 kg Caricamento Frontale Ecolavaggio  1200 rpm  Bianco'
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

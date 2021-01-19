@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415oaghUJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BFR1XDA-it'
+slug: 'B00BFR1XDA-it Plano PLO18551ZR Professional Line 855 Portautensili'
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517N-vJBwLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0763Z6DDW-it'
+slug: 'B0763Z6DDW-it Chupa Chups Skull Lecca Lecca  Confezione da 100 Lollipops Monopezzi  Aroma Fragola e Lime  Ottimi da Condividere'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

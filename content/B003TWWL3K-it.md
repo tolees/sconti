@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512t-OSs4VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TWWL3K-it'
+slug: 'B003TWWL3K-it Claber Tubo Collettore da 50m'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

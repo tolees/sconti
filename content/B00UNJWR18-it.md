@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515hsJezn1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UNJWR18-it'
+slug: 'B00UNJWR18-it DURAGADGET Borsa/Valigetta per Lettori Dvd Portatili - Adattabile Ai Poggiatesta Posteriore da Auto - Cinghie di Alta qualità'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

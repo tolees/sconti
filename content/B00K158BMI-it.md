@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mG55DDTmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K158BMI-it'
+slug: 'B00K158BMI-it Orologio da Donna Casio H5LTP-1259PD-2AEF'
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

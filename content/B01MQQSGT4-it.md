@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bUPSnasKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQQSGT4-it'
+slug: 'B01MQQSGT4-it Lower East impermeable Uomo  Blu  Navy   Small'
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+LdmytWzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLZZ2DJ-it'
+slug: 'B07DLZZ2DJ-it Toolove Lampada da Lettura a LED USB Ricaricabile  Luce Lettura Regolabile e Portatile Con Clip  Lampada da Libro Pieghevole per Studio  Letto  Viaggi  Tablet'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cpRzJAglL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHWPJQH-it'
+slug: 'B08DHWPJQH-it Huawei 55030701 Nano Memory Card  128 GB Con Lettore Di Scheda'
 actualPrice: 48.5 EUR
 currency: EUR
 price: 48.5

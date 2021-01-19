@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tZJdExv6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYFEM9T-it'
+slug: 'B01MYFEM9T-it Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904   Large Uomo'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

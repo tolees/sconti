@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OGQ2tZfXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076H4KVT3-it'
+slug: 'B076H4KVT3-it Cintura Uomo Per Abiti Casual e Abiti  100% Pelle Vera  Type 1  115CM   30  - 40     '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

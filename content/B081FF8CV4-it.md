@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sg02DxTsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081FF8CV4-it'
+slug: 'B081FF8CV4-it YAMAMAY® Pigiama Lungo Donna - Love'
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

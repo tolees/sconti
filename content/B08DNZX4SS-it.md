@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iLpkEyryL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNZX4SS-it'
+slug: 'B08DNZX4SS-it Power Theory Vetro Temperato per Nintendo Switch [2 Pezzi] - Pellicola Protettiva Di Qualità Superiore con Kit di Facile Installazione  Vetrino'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

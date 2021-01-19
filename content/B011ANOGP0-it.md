@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VBf9clpFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011ANOGP0-it'
+slug: 'B011ANOGP0-it Philips Monitor 243V5LHSB Gaming Monitor per PC Desktop 23.6" LED Full HD  1920 x 1080  250 cd/m²  1 ms  HDMI  DVI  VGA  Attacco VESA  Nero'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

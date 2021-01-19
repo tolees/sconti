@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H9b5-W0aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TV90DX0-it'
+slug: 'B00TV90DX0-it Rode RODELink Filmmaker Kit con Ricevitore RX-CAM  Trasmettitore TX-BELT e Microfono Lavalier  Nero'
 actualPrice: 322.0 EUR
 currency: EUR
 price: 322.0

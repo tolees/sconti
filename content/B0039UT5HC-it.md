@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319NGin-WwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0039UT5HC-it'
+slug: 'B0039UT5HC-it Casio Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox MTP-1302D-7A1VEF'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

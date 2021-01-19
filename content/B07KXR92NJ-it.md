@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412ySLCzR8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXR92NJ-it'
+slug: 'B07KXR92NJ-it eufy [BoostIQ RoboVac 15C  Wi-Fi  aggiornato  sottilissimo  aspirazione Potente da 1300 Pa  Silenzioso  aspirapolvere Robot autoricaricabile  pulisce dai Pavimenti duri ai tappeti con Spessore Medio'
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

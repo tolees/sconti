@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AFq-e-RSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCFTFMN-it'
+slug: 'B08DCFTFMN-it Entweg BT Auricolari 5.0 Batteria Display Auricolare Cuffie Wireless Cuffie Sport Auricolari con Scatola di Ricarica per Sport/Viaggi/Palestra'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y6Mqbm5uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HXPN5Z-it'
+slug: 'B084HXPN5Z-it Fallout 76  Wastelanders  PlayStation 4'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

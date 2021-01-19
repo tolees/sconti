@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312Cxrr-YbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082L33GBV-it'
+slug: 'B082L33GBV-it Franciacorta Brut Rosé DOCG - Corte alle Stelle - 1 x 0 75 l.'
 actualPrice: 19.44 EUR
 currency: EUR
 price: 19.44

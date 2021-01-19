@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W9dlnzI4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ILIVD9U-it'
+slug: 'B00ILIVD9U-it Keter Porta Attrezzi Store It Out Arc Beige In Resina Cm 146X82X120 H'
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

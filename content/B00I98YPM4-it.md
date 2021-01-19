@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315c7WyWHuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I98YPM4-it'
+slug: 'B00I98YPM4-it Max Factor Lipfinity Lip Colour Rossetto Lunga Durata e Gloss Idratante con Applicazione Bifase  335 Just In Love  2.3 ml e 1.9 g'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

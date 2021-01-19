@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Gd5Q8xhDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXZ69LG-it'
+slug: 'B07KXZ69LG-it Curcuma e Piperiana Plus zenzero limone vitamina C- 130 cpr-Antiossidante Dosaggio Naturale di estratto Curcumina Potente e veloce Brucia Grassi-Antinfiammatorio'
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

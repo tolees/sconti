@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ELEOnR9FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPJN7TS-it'
+slug: 'B07KPJN7TS-it Fiocchi di Riso Talco Non Talco  Emulsione fluida  120 ml'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

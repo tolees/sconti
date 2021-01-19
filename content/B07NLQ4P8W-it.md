@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xbQmR0riL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLQ4P8W-it'
+slug: 'B07NLQ4P8W-it Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione  Bassi Potenti con Driver da 40 mm  24 Ore di Riproduzione Wireless  Noise Cancelling  Comandi Vocali  Design Rétro Contemporaneo  Nero'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YAehY2YCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TFT1P4-it'
+slug: 'B077TFT1P4-it Bosch UniversalChain 18 Sega a Catena a Batteria  senza Batteria  Scatola di Cartone  Sistema SDS  Lunghezza Barra 200 mm  Sistema da 18 V'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

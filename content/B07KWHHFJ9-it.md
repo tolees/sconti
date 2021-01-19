@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fuV8Gc7dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWHHFJ9-it'
+slug: 'B07KWHHFJ9-it Paranoia Airlines'
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

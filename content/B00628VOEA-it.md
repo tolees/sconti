@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41INrGN1FYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00628VOEA-it'
+slug: 'B00628VOEA-it Ghd Air - Asciugacapelli professionale  Finish come appena uscita dal salone in metà tempo  Nero/Argento'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

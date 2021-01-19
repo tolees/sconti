@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fL8zQKIML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00REFW8J0-it'
+slug: 'B00REFW8J0-it Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  Black/Gum   44.5'
 actualPrice: 35.97 EUR
 currency: EUR
 price: 35.97

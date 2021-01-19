@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31B5A3RqZCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015OK3JUS-it'
+slug: 'B015OK3JUS-it PUMA Leadcat  Scarpe da Spiaggia e Piscina Unisex-Adulto  Nero  black-white   38 EU'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

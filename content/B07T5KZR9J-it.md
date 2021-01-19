@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OpbaD-hrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5KZR9J-it'
+slug: 'B07T5KZR9J-it Custodia per Samsung Galaxy Tab A 10.1 T510 / T515 / T517 2019  Custodia Antiurto Tutto il Corpo con Supporto Rotante 360 Portamatite Proteggi Schermo Cinghia per Mano per Samsung Tab A 10.1  Nero '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

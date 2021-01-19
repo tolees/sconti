@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51amPYBGZwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081S6XR3T-it'
+slug: 'B081S6XR3T-it Burro di Arachidi Loaded Nuts | Senza Olio di Palma | Ricco di Proteine | Biscotto Alla Nocciola Croccante | THE PROTEIN WORKS | 500 g'
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

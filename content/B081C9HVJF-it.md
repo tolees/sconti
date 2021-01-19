@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UAhwmUovL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081C9HVJF-it'
+slug: 'B081C9HVJF-it 10.1 Tablet Android 7.0 Nougat  Slot per schede Dual SIM sbloccate 3G  Processore Octa-Core  DDR3 da 4 GB  Archiviazione da 64 GB  White '
 actualPrice: 53.23 EUR
 currency: EUR
 price: 53.23

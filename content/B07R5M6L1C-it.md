@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515H0DTl01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5M6L1C-it'
+slug: 'B07R5M6L1C-it Tester di Rete e Cavi Telefonici  Tacklife CT03 Rilevatore di Rete e Cavi Telefonici RJ45/RJ11 Verifica del cablaggio con Cuffie e L avviso con Recettore e Trasmettitore'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

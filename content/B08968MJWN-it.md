@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vaubhsoxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08968MJWN-it'
+slug: 'B08968MJWN-it Acqua alle Rose Tonico Rinfrescante - 4 x 300 ml'
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

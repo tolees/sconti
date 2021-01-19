@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414JTYjq3lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV6ZD3J-it'
+slug: 'B07TV6ZD3J-it Levi s Graphic Po Hoodie-B Felpa  Rosso  HM Ssnl Tonal Pop Earth Red 0107   Small Uomo'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KYqwjkDCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4LM1L-it'
+slug: 'B07VC4LM1L-it Calvin Klein Ckj Uniform Workman Belt 35mm Cintura  Marrone  Bitter Brown BAP   4  Taglia Produttore: 90  Uomo'
 actualPrice: 22.64 EUR
 currency: EUR
 price: 22.64

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rpJG88wHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KMF7RL-it'
+slug: 'B082KMF7RL-it Fajiabao Giochi Montessori Banco da Martellare in Legno per Bambini con Martello Giocattolo Xilofono & Gioco del Labirinto 3 in 1 Giochi Educativi Giocattoli Regalo per Ragazzi Ragazze 2 3 4 Anni'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

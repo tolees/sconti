@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mVasFYmjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087M9NGCL-it'
+slug: 'B087M9NGCL-it CHEREEKI Controller per Nintendo Switch  Controller Wireless con Doppio Turbo Vibrazione Supporta Funzione Gyro Axis'
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

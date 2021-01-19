@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LAJKndiHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W91YJTJ-it'
+slug: 'B07W91YJTJ-it Tommy Hilfiger Tropical Print Maglietta  Blu  Faded Indigo   L Uomo'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tnmepwZkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFFC18T-it'
+slug: 'B08DFFC18T-it 4G Tablet 10 Pollici con Wifi Offerte Android 9.0 Certificato Google GMS 3GB RAM 32GB/128GB Tablet PC in Offerta 8500mAh Dual SIM 8MP Camera Tablet Android Offerta Del Giorno con Netflix OTG Rosa '
 actualPrice: 79.92 EUR
 currency: EUR
 price: 79.92

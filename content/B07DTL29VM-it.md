@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BiHYcjShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTL29VM-it'
+slug: 'B07DTL29VM-it Lacoste Ah4087 Felpa  Blu  Marine/Farine-Marine Multicolore M65   Large  Taglia Produttore: 5  Uomo'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

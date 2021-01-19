@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41shONY+LaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VK7Y3CK-it'
+slug: 'B07VK7Y3CK-it Integratore Acido Ialuronico in Capsule ad Alto Dosaggio 525mg per Pelle  Articolazioni e Ossa  90 Capsule Vegan Puro Acido Ialuronico con 500-700 kDa per Capsula per 3 Mesi di Cura'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

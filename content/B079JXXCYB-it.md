@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31a-7uPGzkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JXXCYB-it'
+slug: 'B079JXXCYB-it Napapijri Rainforest Pocket  Giacca Uomo  100% Poliammide  Bianco  Bright White 002   2XL'
 actualPrice: 131.95 EUR
 currency: EUR
 price: 131.95

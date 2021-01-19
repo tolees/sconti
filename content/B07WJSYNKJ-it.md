@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pbh9txVIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJSYNKJ-it'
+slug: 'B07WJSYNKJ-it Supporto per TV da Soffitto - Staffa Regolabile per TV Inclinabile Girevole per Schermi da 26-55 pollici - Supporto per Tetto a Movimento Completo Contiene Fino a 45kg con VESA 400 x 400mm'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

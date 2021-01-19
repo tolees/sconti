@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jEOyCO3DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TLPH3R-it'
+slug: 'B085TLPH3R-it Epilatore Luce Pulsata  999 999 Flash IPL Apparecchi Depilazione Laser di Epilazione Permanente per Viso e Corpo  con 5 Livelli di Energia  2 Modalità Depilazione Permanente Indolore per Donna Uomo'
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

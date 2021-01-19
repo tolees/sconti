@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FimsgVHPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F78TWTV-it'
+slug: 'B08F78TWTV-it eXtremeRate Dawn 2.0 Remap kit Trigger Stop per Playstation 4 Joystick CUH-ZCT2 Mod Chip&Cover Posteriore&2 Tasti Posteriori&Blocco Griletto per PS4 Controller JDM-040/050/055 Bianco Antiscivolo '
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

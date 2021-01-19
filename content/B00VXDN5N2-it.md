@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Wz5oA+GwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VXDN5N2-it'
+slug: 'B00VXDN5N2-it NATURANDO ENERGIA FORTE PLUS 40 PERLE Integratore alimentare per contrastare la stanchezza fisica e mentale'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51l+vcVHLkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9PSJGV-it'
+slug: 'B07B9PSJGV-it Fitbit Versa Edizione Speciale con Rilevazione del Battito Cardiaco  oltre 4 Giorni di Autonomia della Batteria  Resistente All acqua  Grigio'
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

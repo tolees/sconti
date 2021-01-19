@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DucvF3P2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JS48WT0-it'
+slug: 'B00JS48WT0-it APLI 13580-Feltro nero A4 10 fogli'
 actualPrice: 13.18 EUR
 currency: EUR
 price: 13.18

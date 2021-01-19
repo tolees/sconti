@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LLdmP08DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3Q8DH3-it'
+slug: 'B07V3Q8DH3-it Superdry Classic Trunk Triple Pack Boxer  Arancione  Orange Multipack J6E   M Uomo'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ol-NT73IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2U8IWP-it'
+slug: 'B01N2U8IWP-it Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

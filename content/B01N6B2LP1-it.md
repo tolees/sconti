@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XlgaQtV-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6B2LP1-it'
+slug: 'B01N6B2LP1-it Brita Aluna - Caraffa Filtrante per Acqua  2.4 Litri  1 Filtro Maxtra+ Incluso'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FIuNtYFcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NM8ECHY-it'
+slug: 'B00NM8ECHY-it Diadora Fitness Forty Tapis Roulant Magnetico'
 actualPrice: 159.9 EUR
 currency: EUR
 price: 159.9

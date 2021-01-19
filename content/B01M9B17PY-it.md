@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F063SWhgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9B17PY-it'
+slug: 'B01M9B17PY-it Lagostina Ingenio Induction Coperchio in Vetro  24 cm  Nero/Trasparente'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

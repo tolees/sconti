@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A69oCNlrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PL5DKJW-it'
+slug: 'B00PL5DKJW-it Yankee Candle candela profumata in giara grande  Lampone rosso  durata: fino a 150 ore'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

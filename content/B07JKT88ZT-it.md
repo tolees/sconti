@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t8VcfMmKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKT88ZT-it'
+slug: 'B07JKT88ZT-it Under Armour UA Roland Backpack  Borsa Unisex  Blu  OSFA'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

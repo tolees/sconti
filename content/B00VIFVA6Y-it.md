@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NUBga9nOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VIFVA6Y-it'
+slug: 'B00VIFVA6Y-it Tescoma 630496 Beccucci Decoratori per Sac a Poche  21 Pezzi "Delicia"'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

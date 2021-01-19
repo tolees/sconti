@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LSlknn0EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXXBSYK-it'
+slug: 'B07TXXBSYK-it Wrangler Bomber Jacket  Beige  Sand 58N   Small Uomo'
 actualPrice: 37.34 EUR
 currency: EUR
 price: 37.34

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ooomWylWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WP37GQZ-it'
+slug: 'B07WP37GQZ-it LE Lampada Frontale LED da Testa 2 Pezzi   Torcia Frontale Ricaricabile Cavo USB  Impermeabile IPX4  5 Modalità di Illuminazione per Campeggio  Corsa  Jogging  Pesca'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

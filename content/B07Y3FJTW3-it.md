@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fJV3VBBeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3FJTW3-it'
+slug: 'B07Y3FJTW3-it Rubinetto Bagno Cascata  Dalmo DBWF01FA Miscelatore a Cascata  Ultra-Ampio 6cm Flusso & Cromatura Lucida & Universale 3/8”  Rubinetto Miscelatore Cascata da Lavandino Bagno con Valvola in Ceramica'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

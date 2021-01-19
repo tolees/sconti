@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I0OZOvMeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PVHT6IO-it'
+slug: 'B00PVHT6IO-it Burberry - Eau de Toilette  Volume: 90 ml'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

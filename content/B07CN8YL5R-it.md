@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yh1i9aIBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN8YL5R-it'
+slug: 'B07CN8YL5R-it Crocs Crocband Flip  Infradito Unisex – Adulto  Verde  Vert Armée/Blanc 37P   43-44 EU'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

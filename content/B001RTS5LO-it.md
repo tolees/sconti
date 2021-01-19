@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21vL823qFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001RTS5LO-it'
+slug: 'B001RTS5LO-it Lagostina I Cucinieri Rotella Pizza con Anello  Acciaio Inox 18/10  21 cm'
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

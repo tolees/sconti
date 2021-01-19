@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DGLuzDGgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084QTWCHF-it'
+slug: 'B084QTWCHF-it Omino Bianco - Aloe Vera - 156 Lavaggi - 7800ml'
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

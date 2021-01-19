@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+c2nBM6qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JB6NSWP-it'
+slug: 'B08JB6NSWP-it Termometro senza contatto LCD Display digitale retroilluminato a tre colori'
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

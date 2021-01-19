@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TWX2eOdOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBFW1S8-it'
+slug: 'B07BBFW1S8-it Estrattore di Succo a Freddo  Aicok Estrattore di Frutta e Verduracon Motore Silenzioso  2 contenitori e Spazzola per Succo più Nutriente  Funzione Anti-Intasamenti  senza BPA'
 actualPrice: 79.49 EUR
 currency: EUR
 price: 79.49

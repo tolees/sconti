@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GPLQ5aweL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08K3KYCV3-it'
+slug: 'B08K3KYCV3-it BTRONGROUP Caricatore per iPhone 11 XS XR X 8 7 Plus 6s 6 SE 5s 5 Caricabatterie Spina USB Alimentatore + Cavo di Ricarica e sincronizzazione 1m'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

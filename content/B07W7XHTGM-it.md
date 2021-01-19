@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TZbWj4D6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7XHTGM-it'
+slug: 'B07W7XHTGM-it Tommy Hilfiger Sailing Flags Tee Camicia Sportiva  Arancione  Washed Vermillion   Large  Taglia Unica:  Uomo'
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WhwD22dmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWSTZV6-it'
+slug: 'B07QWSTZV6-it YINSAN TM5  Cuffie Gaming per PS4  Cuffie PS4 Over Ear con Microfono  RGB LED  Audio Cavo 3.5mm e Controllo del Volume  Gaming Headset per Xbox One  Nintendo Switch  PC  Mac  Laptop  Smartphone Blue'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

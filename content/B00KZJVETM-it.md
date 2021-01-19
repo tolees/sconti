@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mgB5UA2-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KZJVETM-it'
+slug: 'B00KZJVETM-it easypix Aquapix W1400 Active'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

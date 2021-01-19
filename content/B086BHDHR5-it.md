@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OSij5uaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BHDHR5-it'
+slug: 'B086BHDHR5-it LG 34WN750 Monitor 34" QuadHD UltraWide 21:9 LED IPS HDR  3440x1440  Radeon FreeSync 75Hz  Audio Stereo 14W  2x HDMI  1x Display Port 1.4  3x USB 3.0  Altezza Regolabile  Flicker Safe  Nero'
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

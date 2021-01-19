@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S-RoffTML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G348FNH-it'
+slug: 'B07G348FNH-it Chicco Passeggino Ohlalà 2  Leggero  Compatto  Paprika  Rosso'
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

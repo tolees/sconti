@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416tJyU0rFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008OHVIY8-it'
+slug: 'B008OHVIY8-it Foppapedretti Go Up Carrello Portaspesa  Black'
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

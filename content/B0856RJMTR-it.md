@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z7jx47ItL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0856RJMTR-it'
+slug: 'B0856RJMTR-it Aigostar Archer 30RKN - 1200W Frullatore con brocca in vetro da 1 8L ottimo per frullati e frappe’  Multi Function  6-lame  3D  in acciaio inox 304  tritaghiaccio con 2 velocità  BPA Free'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

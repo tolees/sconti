@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t6aGRqnWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGKQXGX-it'
+slug: 'B07VGKQXGX-it NAPAPIJRI Rainforest M Sum 1 Giacca  Grigio  Dove Grey H361   XX-Large Uomo'
 actualPrice: 63.91 EUR
 currency: EUR
 price: 63.91

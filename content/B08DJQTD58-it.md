@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51noiVXPGBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJQTD58-it'
+slug: 'B08DJQTD58-it Shadow of Mordor Hits Collection - PS4 - Other - PlayStation 4'
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3184Lf90BgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLVRH2Z-it'
+slug: 'B07NLVRH2Z-it Nike Wmns Revolution 5  Scarpe da Corsa Womens  Black/White-Anthracite  40.5 EU'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

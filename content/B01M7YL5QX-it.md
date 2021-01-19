@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XVoTHvfnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7YL5QX-it'
+slug: 'B01M7YL5QX-it adidas TIRO BP  Zaino Unisex-Adulto  Blu  Azul/Maruni/Blanco   25 Centimeters'
 actualPrice: 14.81 EUR
 currency: EUR
 price: 14.81

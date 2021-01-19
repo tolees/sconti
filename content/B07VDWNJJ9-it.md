@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GpbqvXJkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDWNJJ9-it'
+slug: 'B07VDWNJJ9-it Altoparlante Bluetooth portatile  Tribit StormBox 24W Potente Cassa Impermeabile IPX7 con Basso+  20 ore di durata Cassa portatile per Barca e Campeggio  Casa  all aperto  blu '
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

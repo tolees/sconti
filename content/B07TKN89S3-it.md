@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31B+WQVDkQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN89S3-it'
+slug: 'B07TKN89S3-it Havaianas Slim Flatform  Infradito Donna  Grigio  Steel Grey 5178   33/34 EU'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

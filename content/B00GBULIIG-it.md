@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Zw6XWm2bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GBULIIG-it'
+slug: 'B00GBULIIG-it Netgear GS116E Switch Smart Managed Plus a 16 Porte Gigabit Ethernet  Desktop'
 actualPrice: 91.61 EUR
 currency: EUR
 price: 91.61

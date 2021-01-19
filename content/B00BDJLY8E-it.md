@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xbSJrAOIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BDJLY8E-it'
+slug: 'B00BDJLY8E-it Accurist Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox LB1791.01'
 actualPrice: 81.78 EUR
 currency: EUR
 price: 81.78

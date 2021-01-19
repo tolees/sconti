@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s6mTQGGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY9HV49-it'
+slug: 'B01MY9HV49-it B.Catcher Collana con pendenti gemelli in zircone cubico ed argento 925'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

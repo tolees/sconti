@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k6FLCFGaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNLTSXT-it'
+slug: 'B07TNLTSXT-it Levi s SS Battery HM Slim Camicia  Blu  Dress Blues 0001   Large Uomo'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

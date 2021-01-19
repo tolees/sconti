@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41isaE+nYPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JGL5PB4-it'
+slug: 'B08JGL5PB4-it Ajcoflt Smartwatch Braccialetto Intelligente Braccialetto Sportivo  Orologio Per Frequenza Cardiaca E Pressione Sanguigna  Rilevamento Calorie Ip67 Orologio Allarme Bt Impermeabile  per Android/iOS'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

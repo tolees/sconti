@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416qatJADaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E8HM3JW-it'
+slug: 'B00E8HM3JW-it Assortimento Kraftform Kompakt Micro ESD/20 SB  20 pezzi'
 actualPrice: 116.18 EUR
 currency: EUR
 price: 116.18

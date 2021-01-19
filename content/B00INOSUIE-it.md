@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O6PIBT9SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00INOSUIE-it'
+slug: 'B00INOSUIE-it Lacoste L1230 Polo Sport Ultraleggera Uomo  Grigio  Argent Chine   Medium  Taglia Produttore: 4 '
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

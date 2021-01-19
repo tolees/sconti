@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kgUPVVCGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZQT48G-it'
+slug: 'B07KZQT48G-it AUKEY USB C Caricatore da Muro con 27W Power Delivery 3.0  USB C Caricabatterie Compatto per MacBook  iPad Pro Air  iPhone SE  Google Pixel 4XL  Nintendo Switch  AirPods Pro  Samsung  LG  Sony  HUAWEI'
 actualPrice: 12.86 EUR
 currency: EUR
 price: 12.86

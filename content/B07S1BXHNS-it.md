@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X2sP+rv8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1BXHNS-it'
+slug: 'B07S1BXHNS-it Hasbro Monopoly - Voice Banking  Gioco in Scatola Elettronico '
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

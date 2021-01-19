@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tvDOGAOiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KBWC2I0-it'
+slug: 'B00KBWC2I0-it Oral-B 052722 Testina per Spazzolino'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

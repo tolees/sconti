@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41901LYNaoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085YCMSPZ-it'
+slug: 'B085YCMSPZ-it YAMAMAY® Cardigan Aperto Donna Loves LA'
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

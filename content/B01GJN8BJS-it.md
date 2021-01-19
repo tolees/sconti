@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/619LfjxK+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GJN8BJS-it'
+slug: 'B01GJN8BJS-it Ravensburger- Labirinto Glow in The Dark Gioco di società  Multicolore  26692'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

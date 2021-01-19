@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kbw2Mrx4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VGXK9G-it'
+slug: 'B000VGXK9G-it CASIO A158 - Orologio da polso  cinturino in acciaio inossidabile'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

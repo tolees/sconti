@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51V330RJANL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GRZ4MWC-it'
+slug: 'B07GRZ4MWC-it Tigullio GranPesto Pomodori Secchi e Pistacchi - 190 g'
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

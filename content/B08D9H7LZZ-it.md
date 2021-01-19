@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ady5PXalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D9H7LZZ-it'
+slug: 'B08D9H7LZZ-it Android 10.0 TV Box 2GB RAM 16GB ROM Smart TV Box Set Top Box RK3318 USB 3.0 1080P Ultra HD 4K HDR WiFi 2.4GHz 5.8GHz BT 4.1 Streaming Media Player con Mini Tastiera Senza Fili Retro Illuminata'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

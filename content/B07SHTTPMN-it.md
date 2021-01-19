@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315fe7nvBXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHTTPMN-it'
+slug: 'B07SHTTPMN-it Havaianas Slim Logo Metallic  Infradito Donna  Grigio  Steel Grey/Rainbow Grey Glitter 7864   39/40 EU'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DfJ6wm1XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H5W4MKZ-it'
+slug: 'B08H5W4MKZ-it SUN CITY Grembiule Bing Bambina Bambino da 2 a 6 Anni  6 Anni  Rosa '
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

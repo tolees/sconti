@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ys7zJC8AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXC72QS-it'
+slug: 'B07MXC72QS-it Teenii STEM Physik Elettricità e Magnetismo Experimente scienziato laboratorio base del circuito Starter Kit per bambini  Junior  Senior High School studente elettromagnetismo'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

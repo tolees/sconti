@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MS3yvobOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN8DQNT-it'
+slug: 'B07RN8DQNT-it Funko POP! Games: Laguna POP 2'
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

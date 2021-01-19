@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MnQX1D7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K19SP6G-it'
+slug: 'B00K19SP6G-it Supradyn Magnesio e Potassio - Integratore Multiminerali per Afa  Caldo e Attività Fisica - 14 Bustine Effervescenti Gusto Arancia'
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

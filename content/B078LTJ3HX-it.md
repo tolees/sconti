@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61AeGyLu5mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078LTJ3HX-it'
+slug: 'B078LTJ3HX-it Outsunny Prato Sintetico per Giardino Set di 10pz Erba Finta Artificiale Esterno'
 actualPrice: 37.46 EUR
 currency: EUR
 price: 37.46

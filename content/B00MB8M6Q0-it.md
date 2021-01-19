@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l39oIRFYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MB8M6Q0-it'
+slug: 'B00MB8M6Q0-it Kenwood FDM781BA MultiPro Food Processor  Robot da Cucina con Frullatore  1000 W  3 Litri  Metallo Pressofuso  Argento'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

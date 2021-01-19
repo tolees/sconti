@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GmraUUR7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087K1LVND-it'
+slug: 'B087K1LVND-it Mag Ricarica 24 Ore Integratore Alimentare Contro la Stanchezza a Base di Sali di Magnesio Pidolato e Magnesio Ossido  con Vitamina B6 - 10 Bustine'
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

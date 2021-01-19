@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ve0o6gWLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRMSJFP-it'
+slug: 'B07TRMSJFP-it Levi s 501 Long Pantaloncini  Blu  Montgomery Mended Short 0013   W25  Taglia Unica: 25  Donna'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

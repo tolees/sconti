@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NgNrYeYrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NABTGY2-it'
+slug: 'B00NABTGY2-it AmazonBasics - Sacchetti per bisogni dei cani  con dispenser e clip per guinzaglio  confezione da 900'
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

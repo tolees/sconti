@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+RD0nALhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BBQWGY-it'
+slug: 'B082BBQWGY-it Geographical Norway  Pile da uomo  RIAKOLO Blu navy XL'
 actualPrice: 38.9 EUR
 currency: EUR
 price: 38.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Oa0W7IO5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YZ52NP-it'
+slug: 'B077YZ52NP-it Hoover Freedom Scopa Ricaricabile  0.7 Litri  76 Decibel  Blu Titanio'
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

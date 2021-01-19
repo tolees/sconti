@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5163GJl1pCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0896WGWTM-it'
+slug: 'B0896WGWTM-it iLink Kids Montessori Wooden Tangram Shape Puzzle Toys Educational Jigsaw Puzzles Blocks Stacking Animals Pattern Image Cards Training Games for Toddlers 2 3 4 5 Years 36 Block+60 Cards '
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

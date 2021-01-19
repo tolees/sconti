@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xZlorxWgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A8LGG86-it'
+slug: 'B00A8LGG86-it Intex 28101 My First Easy Cm 183X51 Piscina Gioco Estivo Estate Giocattolo 264  PVC  Multicolore  183 x 51 cm'
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

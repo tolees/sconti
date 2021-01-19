@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413gX14RmrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVB69PS-it'
+slug: 'B07VVB69PS-it adidas Superstar J  Scarpe da Ginnastica Basse Unisex - Bambini  Bianco  Cloud White/Core Black/Cloud White 000   38 2/3 EU'
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

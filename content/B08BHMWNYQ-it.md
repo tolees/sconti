@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HurAa-cRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHMWNYQ-it'
+slug: 'B08BHMWNYQ-it Proiettore WiFi WiMiUS 7200 Lumen Videoproiettore Full HD Nativa 1920x1080P LED Proiettore Supporto 4K Dolby Schermo 300" per Home Cinema Theater Compatibile con Smartphone Fire Stick TV Stick  PC PS4'
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

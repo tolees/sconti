@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RffqQEeJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHP2H7J-it'
+slug: 'B07ZHP2H7J-it BaByliss 668E Smooth Boost - Spazzola ad Aria Calda  cavo girevole'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

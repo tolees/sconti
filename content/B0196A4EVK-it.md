@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61+B0RYQpzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0196A4EVK-it'
+slug: 'B0196A4EVK-it Sylvanian Families - 5234 - Boutique'
 actualPrice: 46.03 EUR
 currency: EUR
 price: 46.03

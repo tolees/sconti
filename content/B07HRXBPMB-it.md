@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q5ZbRK9LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRXBPMB-it'
+slug: 'B07HRXBPMB-it Lenovo Tab E7 TB-7104F Tablet  Display 7" 1024 x 600 pixels  Processore Qualcomm  8 GB Espandibili fino a 128 GB  RAM 1 GB  WiFi  Android Nougat  Nero'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

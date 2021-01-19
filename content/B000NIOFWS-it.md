@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513ZN8NZAUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NIOFWS-it'
+slug: 'B000NIOFWS-it Paderno 11161-28 Coperchio  in Acciaio Inox  28 cm'
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

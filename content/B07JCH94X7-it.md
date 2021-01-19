@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W4BQu6fML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCH94X7-it'
+slug: 'B07JCH94X7-it Cesar Scelta dello Chef Cibo per Cane  Pollo alla Griglia con Riso Integrale e Verdure 150 g - 14 Vaschette'
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

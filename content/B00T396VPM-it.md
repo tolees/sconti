@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61RgmRA-6PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T396VPM-it'
+slug: 'B00T396VPM-it Nintendo MW1PX3SMB - Portafoglio Bowser Kanji Bifold'
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

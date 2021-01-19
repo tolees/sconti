@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Qq3MWrNjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082B6GHG8-it'
+slug: 'B082B6GHG8-it Brunello di Montalcino DOCG Collezione del Conte Villa da Filicaja 2015 0 75 L'
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

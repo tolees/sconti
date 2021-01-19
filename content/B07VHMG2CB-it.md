@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oEGmLGQZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHMG2CB-it'
+slug: 'B07VHMG2CB-it NAPAPIJRI Dueville C Maglia a Maniche Lunghe  Verde  Green Way Gw11   XX-Large Uomo'
 actualPrice: 33.18 EUR
 currency: EUR
 price: 33.18

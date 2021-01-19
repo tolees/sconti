@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ngf3iFYGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZX92FN-it'
+slug: 'B08BZX92FN-it homcom Poltrona Girevole 360° in Stile Chesterfield con Spessa Imbottitura  Tessuto Blu con Cristalli  77 x 71 x 72cm'
 actualPrice: 122.95 EUR
 currency: EUR
 price: 122.95

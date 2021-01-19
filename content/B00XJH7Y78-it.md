@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eEu-Ly78L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XJH7Y78-it'
+slug: 'B00XJH7Y78-it Panasonic KX-TGFA30 Telefoni domestici'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UZPuWEnlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQN625L-it'
+slug: 'B07NQN625L-it Bimar Silente VPS40 - Ventilatore a Piantana con Telecomando e Timer  Silenzioso  Portatile  da Tavolo  Comandi Elettronici Softtouch  Potente  Funzione Turbo  3 velocità  Regolabile  Oscillante'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

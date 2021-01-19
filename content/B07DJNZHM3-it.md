@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+VnSRtGlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJNZHM3-it'
+slug: 'B07DJNZHM3-it Nivea Men Dry Impact Plus  Deodorante Extra Protezione  50 ml  Confezione da 4'
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

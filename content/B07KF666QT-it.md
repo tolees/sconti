@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hv8hnbe7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF666QT-it'
+slug: 'B07KF666QT-it Levi s 311 Shaping Skinny Jeans  Blu  London Nights 0153   28W / 30L Donna'
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

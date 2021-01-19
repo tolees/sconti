@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK1QRQ8-it'
+slug: 'B07MK1QRQ8-it NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo'
 actualPrice: 109.67 EUR
 currency: EUR
 price: 109.67

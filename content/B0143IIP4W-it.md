@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MfbMo+HBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0143IIP4W-it'
+slug: 'B0143IIP4W-it SanDisk Ultra Scheda di Memoria SDXC Traditional  Velocità fino a 80 MB/sec  64 GB  Classe 10'
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

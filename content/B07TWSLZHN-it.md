@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ec0op8-PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWSLZHN-it'
+slug: 'B07TWSLZHN-it Electrolux Lavastoviglie EEA 17100 L - Lavastoviglie da 60cm  13 coperti  classe A+ a Scomparsa Totale'
 actualPrice: 333.18 EUR
 currency: EUR
 price: 333.18

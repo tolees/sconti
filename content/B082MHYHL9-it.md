@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4185MgUA3OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MHYHL9-it'
+slug: 'B082MHYHL9-it LIGHTAILING Set di Luci per  Creator Auto da Corsa  Modello da Costruire - Kit Luce LED Compatibile con Lego 31089  Non Incluso nel Modello '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

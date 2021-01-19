@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ilDkiTVZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2F9T8V-it'
+slug: 'B07X2F9T8V-it SHAN ZU Coltelli Santoku  Coltello da Cucina Damasco  Coltello Giapponese in Acciaio AUS10 Damasco 67 Piani  Maniglia Ergonomica G10  Lama affilata  Perfetta per Tagliare Verdure  Frutta e Carne'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

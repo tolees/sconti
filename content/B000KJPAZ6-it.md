@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RRjtf-kcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJPAZ6-it'
+slug: 'B000KJPAZ6-it Scotch Nastro Adesivo 3M  Trasparente Acrilico  15 mm x 33 m  Confezione Torretta da 10 Pezzi'
 actualPrice: 2.44 EUR
 currency: EUR
 price: 2.44

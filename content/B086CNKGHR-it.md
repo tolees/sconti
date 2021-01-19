@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GJOt+HSAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086CNKGHR-it'
+slug: 'B086CNKGHR-it VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido  Maxi Formato 2 Pezzi da 700 ml'
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

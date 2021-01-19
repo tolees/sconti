@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517npSect5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXXPZCH-it'
+slug: 'B07KXXPZCH-it Capsule LAVAZZA A MODO MIO compatibili  CREMOSO  100 CAPSULE '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

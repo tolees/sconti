@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hEDx+JRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZDC1PGV-it'
+slug: 'B07ZDC1PGV-it IKOHS ION CERAMIC COMPACT - Asciugacapelli portatile a infrarossi ionici  1200 W  3 modalità  pieghevole  diffusore compatto  motore a corrente continua  basso consumo  leggero e maneggevole  Bianco'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

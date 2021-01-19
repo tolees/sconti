@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iII1uqoAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTXGXKB-it'
+slug: 'B07MTXGXKB-it Tiralatte elettrico  pompa per allattamento al seno ricaricabile a doppia aspirazione MOSFiATA con display a LED touch screen  3 modalità  9 livelli per modalità   senza BPA'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512bApbwyqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPSMWCH-it'
+slug: 'B07PPSMWCH-it 4D Silk Fiber Eyelash Mascara  Mascara Waterproof  Mascara Ciglia Extra Volume  4D Mascara  4D Fiber Black Lash Mascara  più lunga  più spessa  Nera'
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

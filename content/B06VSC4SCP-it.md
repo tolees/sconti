@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513y7Dp+qWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VSC4SCP-it'
+slug: 'B06VSC4SCP-it Sector No Limits Orologio Digitale Uomo con Cinturino in Silicone R3251571003'
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

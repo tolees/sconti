@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/216ZBdIw8gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VSNXD4-it'
+slug: 'B072VSNXD4-it MacBook 12"  Intel Core i5 dual-core a 1 3GHz  512GB  - Oro'
 actualPrice: 1510.37 EUR
 currency: EUR
 price: 1510.37

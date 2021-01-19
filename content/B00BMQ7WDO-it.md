@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gKctEQXSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BMQ7WDO-it'
+slug: 'B00BMQ7WDO-it Plein Air ZAP 30 - Sterminainsetti 30 W  Argento'
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

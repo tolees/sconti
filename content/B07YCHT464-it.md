@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ixlDh8EkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCHT464-it'
+slug: 'B07YCHT464-it Vans Colorblock Tee T-Shirt  Multicolore  Ash Heather/Black Rp5   Medium Uomo'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

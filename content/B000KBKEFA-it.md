@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hpQZ8ofOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KBKEFA-it'
+slug: 'B000KBKEFA-it Birkenstock  Madrid BS 0040793  Sandali  Donna  Nero  35 EU'
 actualPrice: 42.21 EUR
 currency: EUR
 price: 42.21

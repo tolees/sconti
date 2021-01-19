@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ftawMpYgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD3S5NJ-it'
+slug: 'B07DD3S5NJ-it Giochi Preziosi Italy - Gormiti Hyperbeasts Deluxe con Luci e Suoni Personaggio Pyron  15 cm'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

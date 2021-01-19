@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MRwa-O8UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DUK4FFM-it'
+slug: 'B01DUK4FFM-it Barbie-la Casa di Malibu per Bambole con Accessori e Colori Vivaci  Giocattolo per Bambini 3+ Anni  18 x 41 x 74.5 cm  DLY32'
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

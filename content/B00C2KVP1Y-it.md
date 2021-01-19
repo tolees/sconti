@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GJyxNxaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C2KVP1Y-it'
+slug: 'B00C2KVP1Y-it Only 15077791/SKINNY SOFT ULTIMATE 201  Jeans donna  Blu  Dark Blue Denim   L/L32  L   Talla produttore: L '
 actualPrice: 24.74 EUR
 currency: EUR
 price: 24.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nPSAnG3bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFFR57C-it'
+slug: 'B07NFFR57C-it Daygum Protex Gomme da Masticare Senza Zucchero  Chewing Gum Gusto Menta  Formato Scorta da 12 Astucci  6 Confezioni da 2 '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

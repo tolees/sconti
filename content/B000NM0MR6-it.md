@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wjdeIS0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NM0MR6-it'
+slug: 'B000NM0MR6-it Casio Orologio Analogico al Quarzo Donna con Cinturino in Acciaio Inox LTP-2069D-2AVEF'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

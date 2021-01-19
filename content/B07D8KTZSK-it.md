@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412clAxpISL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8KTZSK-it'
+slug: 'B07D8KTZSK-it Lampadine LED E27 12W  Luce Bianca Calda 3000K 984 Lumen  Non Dimmerabile  Pacco da 5.'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XxjnM4RAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IGB86YC-it'
+slug: 'B00IGB86YC-it Hugo Boss Boss Bottled Unlimited Eau de Toilette Spray 100 ml'
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

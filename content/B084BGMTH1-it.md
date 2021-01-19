@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oYOChdAeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084BGMTH1-it'
+slug: 'B084BGMTH1-it Antica Erboristeria  Dentifricio Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  2 X 75 Ml'
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

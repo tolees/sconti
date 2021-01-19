@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21GVwLZKw7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TY5P2Q-it'
+slug: 'B087TY5P2Q-it Oclean X Spazzolino elettrico Touchscreen a colori 2 ore di ricarica 40 giorni di utilizzo Sbiancamento dei denti ad ultrasuoni Cura dentale Ricarica USB Controllo APP  Oclean X Pro '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

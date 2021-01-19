@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cz9VPEKlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KLV3J82-it'
+slug: 'B01KLV3J82-it Under Armour UA Hustle 3.0  Zaino Unisex  Rosso  Red/Graphite/Silver 600   Taglia Unica'
 actualPrice: 22.7 EUR
 currency: EUR
 price: 22.7

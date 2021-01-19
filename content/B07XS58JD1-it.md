@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q0PRqeavL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS58JD1-it'
+slug: 'B07XS58JD1-it Apple iPhone 11 Pro  512GB  - Verde Notte'
 actualPrice: 1341.64 EUR
 currency: EUR
 price: 1341.64

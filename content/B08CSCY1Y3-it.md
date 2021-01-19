@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NrG-JvctL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CSCY1Y3-it'
+slug: 'B08CSCY1Y3-it katliu Zoccoli per Donna Traspirante Sandali da Spiaggia Scarpe da Mare Estate Ciabatte Outdoor Pantofole Giardino  Grigio Chiaro  42 EU'
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

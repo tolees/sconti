@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mon3sndML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1J82XS-it'
+slug: 'B07V1J82XS-it Boss Identity T-Shirt RN  Blu  Dark Blue 403   Medium Uomo'
 actualPrice: 19.12 EUR
 currency: EUR
 price: 19.12

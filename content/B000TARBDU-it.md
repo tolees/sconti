@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sLj-BBebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000TARBDU-it'
+slug: 'B000TARBDU-it Pyrex Essentials Tegame Rettangolare  40x27cm'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

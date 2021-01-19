@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414VKUz2uxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788CC8DR-it'
+slug: 'B0788CC8DR-it Tommy Hilfiger Track Top Ls Hwk Felpa  Blu  Navy Blazer 416   Large Uomo'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

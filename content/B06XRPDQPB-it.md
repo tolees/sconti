@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311rtBDiA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRPDQPB-it'
+slug: 'B06XRPDQPB-it Bica 9017.4 Set Salottino Colorado 4 Posti 119x64x57 cm  Marrone  279x155x64 cm'
 actualPrice: 160.0 EUR
 currency: EUR
 price: 160.0

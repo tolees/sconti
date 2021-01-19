@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EGtUN2rZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC7G3QM-it'
+slug: 'B08FC7G3QM-it LK Pellicola Protettiva per Xiaomi Mi 10 Lite 5G Vetro Temperato  [3-Pezzi] [Alta Trasparente][9H Durezza] Protezione Schermo Protettivo Pellicola per Xiaomi Mi 10 Lite 5G'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

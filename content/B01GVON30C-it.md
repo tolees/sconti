@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y4a0VnNUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GVON30C-it'
+slug: 'B01GVON30C-it Cyclette Cicletta Bici Da Camera Easy Belt Cardio Cardiofrequenzimentro Pulsazioni Computer Gym Fitness Dimagrire Muscoli Gambe Resistenza Cellulite Cosce'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

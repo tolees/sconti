@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bCyKwqBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8BLNJ9-it'
+slug: 'B07T8BLNJ9-it Ant-Man & The Wasp 10° Anniversario Marvel Studios brd   Blu Ray '
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

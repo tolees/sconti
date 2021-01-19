@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41viIb+SIlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018YPAKS4-it'
+slug: 'B018YPAKS4-it Bosch Professional Smerigliatrice Angolare GWS 7-125  Ø Disco: 125 mm  Impugnatura aggiuntiva  Flangia di Montaggio  Dado di serraggio  Confezione in Cartone  720 W  230 V  Blu'
 actualPrice: 45.38 EUR
 currency: EUR
 price: 45.38

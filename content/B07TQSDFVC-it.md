@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vRVKAehQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQSDFVC-it'
+slug: 'B07TQSDFVC-it Infreecs Mini Ventilatore USB Ventilatore Palmare USB 2 in 1 Ventilatore Portatile Umidificatore USB Ricaricabile Ventilatore 3 modalità con Umidificazione per Casa Ufficio Viaggio Campeggio'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

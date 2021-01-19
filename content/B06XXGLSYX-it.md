@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Esz8t+uOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXGLSYX-it'
+slug: 'B06XXGLSYX-it New Balance 574v2 Core  Scarpa da Tennis Donna  Grigio  Grey   36.5 EU'
 actualPrice: 48.48 EUR
 currency: EUR
 price: 48.48

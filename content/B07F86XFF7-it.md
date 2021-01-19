@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PYaJj-5qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F86XFF7-it'
+slug: 'B07F86XFF7-it Superdry Low PRO Sneaker  Uomo  Blu  Navy 11s   44 EU'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

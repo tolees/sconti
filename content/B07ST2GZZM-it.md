@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LZq+NkHXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ST2GZZM-it'
+slug: 'B07ST2GZZM-it eFootball PES 2020 - Playstation 4'
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

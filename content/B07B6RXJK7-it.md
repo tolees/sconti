@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZlM0x6sIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6RXJK7-it'
+slug: 'B07B6RXJK7-it Garnier Skinactive Acqua Micellare Detergente Per Pelli Sensibili  100 ml'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

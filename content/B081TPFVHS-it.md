@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fdwqrTjJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TPFVHS-it'
+slug: 'B081TPFVHS-it adidas W SL Graph Tee Canottiera Sportiva  Donna  Black  XS'
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Liq5QcoxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TQXEYU4-it'
+slug: 'B00TQXEYU4-it Fjällräven Kaipak 28 Zaino Casual  57 cm  liters  Rosso  Redwood '
 actualPrice: 74.74 EUR
 currency: EUR
 price: 74.74

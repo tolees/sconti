@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HSrTQkf7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBBNBP7-it'
+slug: 'B07VBBNBP7-it HUGO Dolive202 T-Shirt  Giallo  Light/Pastel Yellow 741   M Uomo'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

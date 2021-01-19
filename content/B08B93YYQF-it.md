@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X4RJrQetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B93YYQF-it'
+slug: 'B08B93YYQF-it Dash Pods Allin1 Detersivo Lavatrice in Capsule Ambra  Maxi Formato da 48 x 2 Pezzi  96 Lavaggi'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

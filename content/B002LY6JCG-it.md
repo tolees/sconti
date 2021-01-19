@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513vr6AwhOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LY6JCG-it'
+slug: 'B002LY6JCG-it Star GranPesto alla Genovese  senza Aglio - 190 g'
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

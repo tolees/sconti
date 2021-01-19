@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318OYewrIlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JYLS7K-it'
+slug: 'B071JYLS7K-it Benro Slim CF tripod kit w N00 ball head'
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

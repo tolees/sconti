@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+I4n4IYRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ3S9L9-it'
+slug: 'B07TZ3S9L9-it Hoidokly Caricatore Wireless 3 in 1 Ricarica Wireless Supporto di Caricabatterie Senza Fili Docking Station per Apple Watch Series 5/4/3/2/1  iPhone SE2/11 PRO Max/11/XS/XR/X/8 Plus/8 e AirPods PRO/2'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

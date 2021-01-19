@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wq3FU-YcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6QHDV4-it'
+slug: 'B07W6QHDV4-it adidas Backpack Club Orange'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

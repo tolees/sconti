@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NmLjdi0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4Y9PG7-it'
+slug: 'B07H4Y9PG7-it HUAWEI Watch GT Smartwatch  Touchscreen 1.39"  Bluetooth 4.2  Autonomia Batteria fino a 2 Settimane  Impermeabile 5 ATM  GPS  TruSeen 3.0 Monitoraggio della Frequenza Cardiaca  Nero Graphite Black'
 actualPrice: 96.22 EUR
 currency: EUR
 price: 96.22

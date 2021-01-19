@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313JT8czt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VYPJ8Z-it'
+slug: 'B085VYPJ8Z-it Torcia LED Ricaricabili Due in Uno Torcia Lampada da Scrivania Portatile 3 modalità di illuminazione  carica USB pieghevole  adatto a camera da letto  soggiorno  ufficio  esterno  ecc'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

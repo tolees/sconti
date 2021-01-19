@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ril9qCLTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT13J4Z-it'
+slug: 'B01MT13J4Z-it Lacoste Lerond BL 2 Cam  Sneaker Uomo  Nero  Black   39.5 EU'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

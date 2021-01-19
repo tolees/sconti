@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lX9MFhgsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I8J0CJ4-it'
+slug: 'B00I8J0CJ4-it Optima Capelli  Pelle e Unghie 60 Compresse  Taglia Unica'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

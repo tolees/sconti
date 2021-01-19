@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VN++LbZcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0089HGSDE-it'
+slug: 'B0089HGSDE-it Burberry Acqua di profumo per le donne  100 ml'
 actualPrice: 27.18 EUR
 currency: EUR
 price: 27.18

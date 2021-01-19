@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rQhQ+O+7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVZ47WQ-it'
+slug: 'B07ZVZ47WQ-it Lagostina Ingenio Essential Batteria di Pentole  10 Pezzi  Manico Amovibile  Alluminio  Nero'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

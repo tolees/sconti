@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qNvnt2RWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT2ZSGS-it'
+slug: 'B07VT2ZSGS-it Calvin Klein 3p Trunk Boxer  Multicolore  Lost Blue/Wild Fern/Raisin Torte WFL   Medium  Pacco da 3  Uomo'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

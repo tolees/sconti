@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K+z1fn-7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z87TBKX-it'
+slug: 'B07Z87TBKX-it Joker'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

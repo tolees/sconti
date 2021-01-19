@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT71V7C-it'
+slug: 'B07TT71V7C-it Levi s The Perfect Tee Maglietta  Bianco  Floral Filled Batwing White+ 0794   Medium  Herstellergröße: M  Donna'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

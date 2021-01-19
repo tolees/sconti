@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ust+QECdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BL8YM46-it'
+slug: 'B08BL8YM46-it Mini Bluetooth WiFi Proiettore TOPTRO Proiettore Aggiornato con Mirroring Wireless da 5800 lumen 200" Proiettore Portatile da Home Theater Compatibile con TV Stick/ TVbox/Smartphone/PC/Laptop/PS4'
 actualPrice: 129.98 EUR
 currency: EUR
 price: 129.98

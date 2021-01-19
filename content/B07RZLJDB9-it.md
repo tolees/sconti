@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3108lPXRybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLJDB9-it'
+slug: 'B07RZLJDB9-it Levi s Relaxed Graphic Tee T-Shirt  Bianco  90 s Serif Logo White 0026   Large Uomo'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

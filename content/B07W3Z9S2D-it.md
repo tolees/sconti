@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jk3iY878L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W3Z9S2D-it'
+slug: 'B07W3Z9S2D-it GIARIDE Cavo HDMI a VGA HDMI D-Sub 15 Pin M/M Adattatore Video Supporto Completo 1080P Converti Segnale con trasferimento Dati da Ingresso HDMI Laptop HDTV a Uscita VGA Monitor proiettore  TV'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

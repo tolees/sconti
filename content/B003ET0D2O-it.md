@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NSb4WgJML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ET0D2O-it'
+slug: 'B003ET0D2O-it NIVEA Soft Crema Idratante Multiuso per Viso  Mani e Corpo  1 x 300 ml  Crema Rinfrescantecon Vitamina E e Olio di Jojoba'
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

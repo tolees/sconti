@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YRDpJPN7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L46GPL6-it'
+slug: 'B07L46GPL6-it Funko POP! Games: Fortnite - Burnout #457 Vinyl Figure'
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

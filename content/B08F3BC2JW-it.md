@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415o0-fZxxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F3BC2JW-it'
+slug: 'B08F3BC2JW-it alvorog Specchio Trucco con Luce LED e Ingrandimento 1x / 5X  Specchio Ingranditore da Trucco con Rotazione a 360 °  Luce Regolabile e Spegnimento Automatico per Bagno  Toletta  Hotel - Cromato'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

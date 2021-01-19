@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v8dSIp3QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGQN86P-it'
+slug: 'B07RGQN86P-it Tommy Hilfiger Logo Trim Quilted Jct W Giacca  Verde  Green Mrv   36  Taglia Produttore: XX-Small  Donna'
 actualPrice: 31.14 EUR
 currency: EUR
 price: 31.14

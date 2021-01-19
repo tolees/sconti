@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jpBteEkBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZM8BJR-it'
+slug: 'B07RZM8BJR-it Levi s Housemark Graphic Tee T-Shirt  Nero  Ssnl HM Forge Iron 0248   Small Uomo'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

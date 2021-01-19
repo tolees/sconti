@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X5GV--X8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B7ZXVC6-it'
+slug: 'B08B7ZXVC6-it Clip di Cavi in silicone Adesivo Organizzatore di Cavi Scrivania Gestione Alimentazione Fermacavi per Casa Ufficio TV PC Laptop Ricarica USB  4 Pezzi Nero'
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

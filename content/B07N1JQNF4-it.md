@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lY9Rhz8wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JQNF4-it'
+slug: 'B07N1JQNF4-it Clarks Sheer Rose  Scarpe con Tacco Donna  Multicolore  Leopard Print Leopard Print   37 EU'
 actualPrice: 43.92 EUR
 currency: EUR
 price: 43.92

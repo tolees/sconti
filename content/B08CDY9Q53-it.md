@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MUJs0GSaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDY9Q53-it'
+slug: 'B08CDY9Q53-it Set Pittura ad Acquerello  36 Colori professionale portatile 12 Colori Metallizzati Con Pennelli ad Acqua  Matita  Pennelli di dettaglio  Scatola di metallo Per bambini principianti e professionali'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

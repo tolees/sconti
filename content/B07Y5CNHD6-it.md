@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fG81GtyoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5CNHD6-it'
+slug: 'B07Y5CNHD6-it Geographical Norway Felpa da uomo GYMCLASS A Grigio Scuro M'
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

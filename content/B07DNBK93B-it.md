@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aA-3vlNZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNBK93B-it'
+slug: 'B07DNBK93B-it Collana con ciondolo rosa Swarovski zircone gioielli per donne ragazze ideale regali di compleanno regalo per figlia nipote fidanzata madre moglie e Argento  colore: White  cod. G18S0002-1'
 actualPrice: 24.02 EUR
 currency: EUR
 price: 24.02

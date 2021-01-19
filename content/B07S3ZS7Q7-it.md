@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hV07+wxKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3ZS7Q7-it'
+slug: 'B07S3ZS7Q7-it Diesel UMBX-SHAWNTHREEPACK  Slip Uomo  Multicolore  Black/Racing Red/Blue Depths E5066-0pawe   L  Pacco da 3'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

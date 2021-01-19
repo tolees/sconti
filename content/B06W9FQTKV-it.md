@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ag2zzhjML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9FQTKV-it'
+slug: 'B06W9FQTKV-it Hoover LA 30 Traino senza Sacco Lander  Rosso/Nero'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

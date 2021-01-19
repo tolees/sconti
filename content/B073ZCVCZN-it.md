@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417r9k5oUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZCVCZN-it'
+slug: 'B073ZCVCZN-it Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta  Grigio  Cloud Htr 501   Medium Uomo'
 actualPrice: 21.17 EUR
 currency: EUR
 price: 21.17

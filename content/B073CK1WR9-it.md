@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lJkl4McbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073CK1WR9-it'
+slug: 'B073CK1WR9-it Calibro Digitale  Tacklife DC02 Precisione Micrometro in Acciaio Inox 150 mm/6 Pollici con Schermo Grande e Chiaro  Calibro a Corsoio per Lunghezza  Diametro  Spaziatura e Profondità ecc'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

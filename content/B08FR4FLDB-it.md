@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZTTrx9CdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FR4FLDB-it'
+slug: 'B08FR4FLDB-it eXtremeRate 2 Pellicole Protettive Vetro Temperato Protezione Schermo per Nintendo Switch Lite-Bianco Bordo Trasparente HD Chiaro  Antigraffio Anti-Impronta Digitale Infrangibile Senza Bolle '
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

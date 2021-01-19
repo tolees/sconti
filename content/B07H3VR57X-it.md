@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AixFUEsxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3VR57X-it'
+slug: 'B07H3VR57X-it homcom Moto da Cross Elettrica con Rotelle Bambini 107 × 53 × 70cm Verde'
 actualPrice: 90.97 EUR
 currency: EUR
 price: 90.97

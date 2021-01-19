@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sQFyGMWQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCKK4C3-it'
+slug: 'B07VCKK4C3-it Desigual  Borsa a mano Donna  Oro  Oro  DORADO 8010    14x24x33 cm  B x H x T '
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wb8ojor1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QAKTXK-it'
+slug: 'B016QAKTXK-it Adidas Parma 16 SHO  Pantaloncini Uomo  Giallo  Yellow/Black   Large'
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

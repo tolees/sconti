@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bEqw25ghL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRF5YWN-it'
+slug: 'B08CRF5YWN-it Pawhut Tiragraffi a Colonna per Gatti su più Livelli  con Cuccia  Posatoio e 2 Ripiani  Bianco e Grigio  61x41x147cm'
 actualPrice: 34.36 EUR
 currency: EUR
 price: 34.36

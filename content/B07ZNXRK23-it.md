@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ztLd-T+ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNXRK23-it'
+slug: 'B07ZNXRK23-it [FORZA ITALIA] HolyHigh Auricolari Cuffie Sportive Senza Fili Auricolari Bluetooth 5.0 Impermeabile IPX5 35 Ore di Autonomia per Riproduzione in Ear'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

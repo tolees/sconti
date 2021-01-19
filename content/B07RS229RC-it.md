@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fZ1GalHML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS229RC-it'
+slug: 'B07RS229RC-it Giochi Preziosi - L.O.L Surprise! Glitter Globe Winter Disco  LLU99000'
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

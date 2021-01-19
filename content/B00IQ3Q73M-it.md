@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iLUI3YhLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IQ3Q73M-it'
+slug: 'B00IQ3Q73M-it Campingaz 4 Series Woody L Grill con 4 Bruciatore  12.8 kW di Potenza  Sistema di Pulizia Facile InstaClean  Griglia e Piastra in Acciaio  Grigio'
 actualPrice: 320.0 EUR
 currency: EUR
 price: 320.0

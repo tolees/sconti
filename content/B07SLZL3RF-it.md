@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oihZ2wsFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLZL3RF-it'
+slug: 'B07SLZL3RF-it Havaianas Disney Classic II  Sandali Unisex-Bimbi  Multicolore  Green Dew 7611   19 EU'
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

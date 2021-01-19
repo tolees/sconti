@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414K7WeG+RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QZQDVQ-it'
+slug: 'B087QZQDVQ-it DADYPET Tosatore Elettrico  Tosatrici per Toelettatura Gatti  Tosatrice per Cani Ricaricabile  Kit Tagliaunghie Elettrico Cordless a Basso Rumore'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

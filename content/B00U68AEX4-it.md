@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IiTfpkOnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U68AEX4-it'
+slug: 'B00U68AEX4-it Diadora - Sneakers Game L Low Waxed per Uomo e Donna  EU 46 '
 actualPrice: 49.7 EUR
 currency: EUR
 price: 49.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jCLspw6cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH5Q7R9-it'
+slug: 'B07FH5Q7R9-it Havaianas Slim Brasil Logo  Infradito Donna  Rosa  Rose Nude 7939   33/34 EU'
 actualPrice: 17.76 EUR
 currency: EUR
 price: 17.76

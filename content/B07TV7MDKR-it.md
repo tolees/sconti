@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414KFTZTWpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV7MDKR-it'
+slug: 'B07TV7MDKR-it Levi s Perfect Vneck T-Shirt  Multicolore  Annalise Stripe Tomato 0006   Large Donna'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YYUnjMCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJ7X37Y-it'
+slug: 'B08BJ7X37Y-it SPIRIT OF GAMER - MY-JOY PLUS - Controllore Bluetooth Switch & Switch Lite - Wireless - Supporto Incluso - Durata Della Batteria Di 20 Ore * - 2 Cavi USB-C Forniti'
 actualPrice: 49.03 EUR
 currency: EUR
 price: 49.03

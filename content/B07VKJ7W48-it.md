@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PdiN-klhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKJ7W48-it'
+slug: 'B07VKJ7W48-it Calvin Klein 3p Trunk Boxer  Nero  B-Minnow/Horoscope/Inferno Bnw   X-Small  Pacco da 3  Uomo'
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

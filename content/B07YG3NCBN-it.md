@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TlgqARK+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YG3NCBN-it'
+slug: 'B07YG3NCBN-it Lierac Teint Perfect Skin Fondotinta Fluido con Acido Ialuronico  per Tutti i Tipi di Pelle  04 Beige Bronzo  30 ml'
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HLTPTFT-it'
+slug: 'B08HLTPTFT-it Yagte Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  MacBook  Xbox One 1TB Blu '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

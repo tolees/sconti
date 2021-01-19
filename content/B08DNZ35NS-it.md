@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ktB1CXsBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNZ35NS-it'
+slug: 'B08DNZ35NS-it EasySMX Switch Controller  Switch Controller Controller Pro per Nintendo Switch / Nintendo Switch Lite con Bluetooth / 6 assi / doppio motore  controller PC per Windows XP / 10/7/8 / 8.1  giallo'
 actualPrice: 35.97 EUR
 currency: EUR
 price: 35.97

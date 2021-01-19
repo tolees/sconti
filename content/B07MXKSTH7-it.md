@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uDvZ7EFTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXKSTH7-it'
+slug: 'B07MXKSTH7-it Buffalo London 1339-14 2.0 V  Scarpe da Ginnastica Donna  Nero  38 EU'
 actualPrice: 122.0 EUR
 currency: EUR
 price: 122.0

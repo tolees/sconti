@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51biHF-nA-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872WMBK1-it'
+slug: 'B0872WMBK1-it L3 Tech Custodia Rigida per SSD SanDisk Extreme PRO da 1 TB / 2 TB / 250 GB / 500 GB Extreme  Custodia per Il Trasporto - Nero  Fodera Grigia   Solo Custodia '
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

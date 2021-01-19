@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lJo8ra9AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T5PZ32Q-it'
+slug: 'B00T5PZ32Q-it Biorepair Collutorio Denti Sensibili 3 in1 -  500 ml'
 actualPrice: 3.28 EUR
 currency: EUR
 price: 3.28

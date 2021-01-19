@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Y+nuGw1pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TTQT2Z-it'
+slug: 'B081TTQT2Z-it adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  XL'
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

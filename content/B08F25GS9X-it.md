@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N8pFm4sdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F25GS9X-it'
+slug: 'B08F25GS9X-it UniqueMe [3 Pack] Pellicola Protettiva per Xiaomi Mi Note 10 / Note 10 PRO/Note 10 Lite Pellicola  [Fingerprint Disponibile] HD TPU Clear Full Cover Film'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

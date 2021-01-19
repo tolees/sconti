@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OaZAZakpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWBFKG5-it'
+slug: 'B07TWBFKG5-it Levi s Deconstructed PL Gonna  Blu  Gateway Skirt Plus 0013   20 Donna'
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

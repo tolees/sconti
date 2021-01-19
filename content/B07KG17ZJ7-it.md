@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411TpcPeJdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG17ZJ7-it'
+slug: 'B07KG17ZJ7-it PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Nero Blk Wht Wht  37 EU'
 actualPrice: 31.81 EUR
 currency: EUR
 price: 31.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uYc7bBVuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2K8Q2P-it'
+slug: 'B07C2K8Q2P-it Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo a V Donna  Nero  Black Black   44  Label: M'
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

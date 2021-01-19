@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m67k3OvKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5PFW7F-it'
+slug: 'B07T5PFW7F-it Timberland Boroughs Project Mixed Super Oxford Sneaker  Uomo  Verde  Grape Leaf  Tb0a24sva581   40 EU  6.5 UK '
 actualPrice: 62.85 EUR
 currency: EUR
 price: 62.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41avfrO3HEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JGD6D6L-it'
+slug: 'B08JGD6D6L-it Lasuki Supporto per Tablet Regolabile a 360° con Braccio in Acciaio e Morsetto per Tablet da 4 a 10 6 cm per upporto per iPad/iPhone/Nintendo Switch/Samsung Tab/Huawei'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

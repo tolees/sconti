@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412B9D2QHEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V61GN2L-it'
+slug: 'B07V61GN2L-it Oral-B Pro 2 2000 Spazzolino Elettrico Ricaricabile  1 Spazzolino con Sensore di Pressione dello Spazzolamento Visibile  1 Testina'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

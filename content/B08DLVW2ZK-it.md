@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411oT7y+TgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DLVW2ZK-it'
+slug: 'B08DLVW2ZK-it Raccogli Briciole Coccinella in Plastica. Spazzola Aspirabriciole per Tovaglie e Tappeti 17x11x7 cm'
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

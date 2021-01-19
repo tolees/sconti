@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rie5W507L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT7D9Q9-it'
+slug: 'B01MT7D9Q9-it TP-Link T9UH Archer Scheda Wireless Dual Band AC1900Mbps  4 Antenne Interne  USB 3.0  Pulsante WPS  Beamforming  Nero'
 actualPrice: 38.84 EUR
 currency: EUR
 price: 38.84

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41szXycsaaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008LVMB5M-it'
+slug: 'B008LVMB5M-it Pic Vedoeco Termometro con Lente - 10 ml'
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

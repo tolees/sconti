@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RKebfJsOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0865XHW5M-it'
+slug: 'B0865XHW5M-it MMCRRX M.2 Nvme SSD Ultraspeed Adapter Pcie'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YMbNjdQJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MF6VFCE-it'
+slug: 'B01MF6VFCE-it New Balance 373 Core U  Scarpe Trainers Uomo  Nero  Black   40.5 EU'
 actualPrice: 62.69 EUR
 currency: EUR
 price: 62.69

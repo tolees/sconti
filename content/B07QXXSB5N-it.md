@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eIn87AZgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXXSB5N-it'
+slug: 'B07QXXSB5N-it Marchio Amazon - Happy Belly Pistacchi tostati e salati 2x500g'
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gLdAVJPCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLGX449-it'
+slug: 'B07PLGX449-it BLADE HAWKS Tappetino Mouse Gaming  RGB Gaming Tappetino per Mouse di Grande Taglia [ 800x300 mm ]  Tappeti di Mouse da Gaming con 9 RGB Effetti Luce per PC e Laptop'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41px9bichTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPM7YRV-it'
+slug: 'B07JPM7YRV-it adidas Tiro 19  Maglia da Allenamento Uomo  Dark Blue/Bold Blue/White  S'
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

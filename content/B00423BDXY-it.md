@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61JaTXmCKlL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00423BDXY-it'
+slug: 'B00423BDXY-it Inuyasha The Movies Collection  Box 5 Dvd '
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

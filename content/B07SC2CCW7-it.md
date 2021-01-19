@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ElwRoIJnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC2CCW7-it'
+slug: 'B07SC2CCW7-it Smac - Sgrassatore Disinfettante Trigger - 650ml x 12 pezzi - 7800 ml'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

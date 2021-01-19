@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511U9RhaBML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVDP9XB-it'
+slug: 'B07SVDP9XB-it Mystic Color - Colore Biondo Scuro Rame 6.4 - Tinta per Capelli - Colorazione Professionale Permanente in Crema - Con Cheratina Idrolizzata  Olio di Argan e Calendula - 100 ml'
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

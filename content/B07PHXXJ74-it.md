@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yfxrhIXeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHXXJ74-it'
+slug: 'B07PHXXJ74-it Zanzariera Magnetica per Porte  NASUM Tenda Zanzariera per Porte d Ingresso Porte  Cortili'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R47vMx2ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C52NLJR-it'
+slug: 'B07C52NLJR-it Side by Side Power Packer - Organizzatore da Viaggio a Marsupio - Custodia per Elettronica e Cavi - Borsa per Cavi e Accessori edc  Shadow '
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

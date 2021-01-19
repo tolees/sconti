@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TQ9pEaZdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001AXRHKW-it'
+slug: 'B001AXRHKW-it Peugeot Tahiti  Set macina Sale e macina Pepe  20 cm  Colore: Bianco/Nero [Importato da Regno Unito]'
 actualPrice: 46.87 EUR
 currency: EUR
 price: 46.87

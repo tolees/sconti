@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lPn5WxhwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LM6US76-it'
+slug: 'B00LM6US76-it Havaianas Slim 4000030 Infradito Donna  Grigio  Steel Grey   37/38 EU'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

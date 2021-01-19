@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S9cast9eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005HV2Q0O-it'
+slug: 'B005HV2Q0O-it Crocs Baya Flip  Stivaletti Unisex – Adulto  Blu  Navy   37-38 EU'
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

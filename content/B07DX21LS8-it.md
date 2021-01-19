@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418dBChasEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX21LS8-it'
+slug: 'B07DX21LS8-it Salewa  00-0000027165  Giacca  Uomo  Blu  Ombre Blue   46/S'
 actualPrice: 83.91 EUR
 currency: EUR
 price: 83.91

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SxAju4dFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BX5J2CC-it'
+slug: 'B07BX5J2CC-it Volante Pace Wheel PS4'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

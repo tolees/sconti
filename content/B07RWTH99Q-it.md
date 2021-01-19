@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312QXHJUDKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWTH99Q-it'
+slug: 'B07RWTH99Q-it Telecamera di sicurezza a cupola da interni per sorveglianza domestica Imou dotata di Wi-Fi risoluzione 1080P  rilevamento antintrusione  tracking intelligente  modalità privacy'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

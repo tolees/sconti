@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y7cU-qawL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OK7A9KA-it'
+slug: 'B00OK7A9KA-it Worx WX372 Trapano Avvitatore con Percussione  Mandrino in Metallo Autoserrante 13mm   Batteria 20V'
 actualPrice: 118.0 EUR
 currency: EUR
 price: 118.0

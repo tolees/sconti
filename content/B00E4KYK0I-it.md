@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pj1N5VIWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E4KYK0I-it'
+slug: 'B00E4KYK0I-it Neutro Roberts Deodorante Dermazero Stick - 40 ml'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

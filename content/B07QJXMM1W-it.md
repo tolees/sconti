@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G36BCQc-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJXMM1W-it'
+slug: 'B07QJXMM1W-it Orient Orologio Analogico Automatico Uomo Unisex con Cinturino in Acciaio Inox RA-AB0019L19B'
 actualPrice: 96.9 EUR
 currency: EUR
 price: 96.9

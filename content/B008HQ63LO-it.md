@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312Jp+0ROhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008HQ63LO-it'
+slug: 'B008HQ63LO-it Russell Hobbs 18780 2fetta/e Grigio tostapane'
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

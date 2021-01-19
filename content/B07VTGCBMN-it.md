@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MpP98VMQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTGCBMN-it'
+slug: 'B07VTGCBMN-it Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze  Multicolore  White/Grey 062   43/46  Taglia Produttore: 043  Uomo'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

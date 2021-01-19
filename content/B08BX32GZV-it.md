@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VNJiaeu5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BX32GZV-it'
+slug: 'B08BX32GZV-it Misuratore di temperatura digitale a infrarossi sulla fronte  misuratore di temperatura a infrarossi a infrarossi senza contatto con allarme febbre per bambini adulti'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

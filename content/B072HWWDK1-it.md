@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WnIQTcC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HWWDK1-it'
+slug: 'B072HWWDK1-it Aigostar Multipresa Ciabatta Elettrica Polivalente a 9 Posti  250v/2500W Cavo 5m. Bianco'
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

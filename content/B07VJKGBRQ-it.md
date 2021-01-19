@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bzqpVgvTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJKGBRQ-it'
+slug: 'B07VJKGBRQ-it Calvin Klein 3p Trunk Boxer  Nero  B-Alligator/Grey Heather/Black Bal   Small  Pacco da 3  Uomo'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

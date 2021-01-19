@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416I2CdeITL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010UH5QJM-it'
+slug: 'B010UH5QJM-it Meliconi Vision Line 300 Mobile Porta TV con 3 Ripiani in Vetro Temperato Flat  Nero'
 actualPrice: 119.86 EUR
 currency: EUR
 price: 119.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QfnVTHs9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNTFHD5-it'
+slug: 'B07VNTFHD5-it WD BLACK P10 Game Drive 5 TB  HDD portatile per accesso in mobilità alla tua library di giochi  Compatibile con console o PC'
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

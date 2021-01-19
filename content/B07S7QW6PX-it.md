@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f+govlM7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QW6PX-it'
+slug: 'B07S7QW6PX-it PUMA Smash V2  Sneakers Unisex-Adulto  Nero Black/Hot Coral Team Gold White  38 EU'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

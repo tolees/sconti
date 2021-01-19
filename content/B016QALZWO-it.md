@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fnd4U5UsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QALZWO-it'
+slug: 'B016QALZWO-it Adidas Parma 16 SHO  Pantaloncini Uomo  Nero  Black/White   M'
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

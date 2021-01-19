@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SvkgFgbsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZQBBEC-it'
+slug: 'B01LZQBBEC-it Foppapedretti Go! Evolution  Seggiolino auto  Gruppo 0/1  0-18 Kg  per Bambini dalla Nascita Fino a 4 Anni Circa  Cherry'
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

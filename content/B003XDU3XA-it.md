@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n9C-CdfWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XDU3XA-it'
+slug: 'B003XDU3XA-it Vans Jungen Classic Boys T-Shirt  Schwarz  BLACK-WHITE Y28   S'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-LWDC5-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H397CNJ-it'
+slug: 'B07H397CNJ-it Havaianas Hype  Infradito Uomo  Multicolore  Sand Grey/Dark Brown 8615   39/40 EU'
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

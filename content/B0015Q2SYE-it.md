@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K4BLnNpYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0015Q2SYE-it'
+slug: 'B0015Q2SYE-it Havaianas Top  Infradito Unisex-Adulto  Bianco  White 0001   33/34 EU'
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

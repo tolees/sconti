@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ervVdQC3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083B8TB9K-it'
+slug: 'B083B8TB9K-it Aigostar Diane 32QYD – Asciugacapelli professionale 1800 Watt con 3 temperature e 2 velocità. Protezione surriscaldamento. Maniglia pieghevole ideale per viaggi  salone  uso domestico ecc…'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

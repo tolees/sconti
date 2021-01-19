@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQCVHQ6-it'
+slug: 'B07NQCVHQ6-it Echo Dot  3ª generazione  - Altoparlante intelligente con orologio e Alexa - Tessuto grigio chiaro'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

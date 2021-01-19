@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31b6y9rijZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0029ZCLOC-it'
+slug: 'B0029ZCLOC-it Campari Bitter Ml.1000'
 actualPrice: 15.09 EUR
 currency: EUR
 price: 15.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418P9f71W+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0096NE9NQ-it'
+slug: 'B0096NE9NQ-it Lampa 32106 6899'
 actualPrice: 10.23 EUR
 currency: EUR
 price: 10.23

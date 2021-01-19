@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51009D76R-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HJR5BG-it'
+slug: 'B071HJR5BG-it Multimetro Digitale Classico  Tacklife DM02A Multi Tester con Rilevamento di Voltaggio Senza Contatto  Display LCD Retroilluminato  Test per Tensione  Corrente  Resistenza e Continuità  Nero '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

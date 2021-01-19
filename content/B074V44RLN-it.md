@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GiA32iZlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074V44RLN-it'
+slug: 'B074V44RLN-it YAMAY Smartwatch Braccialetto Fitness Activity Tracker Smart Watch Android iOS Orologio Cardiofrequenzimetro da Polso Contapassi Calorie Notifiche Sport Donna Uomo Bambini per Samsung Xiaomi Huawei'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

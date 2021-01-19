@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61lLUoxGRDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FRP3OR8-it'
+slug: 'B01FRP3OR8-it The Amazing Spiderman 2  4K '
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

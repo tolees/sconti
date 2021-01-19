@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415oIh6x89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FHSSV53-it'
+slug: 'B08FHSSV53-it YUES Controller Wireless per Nintendo Switch Pro/Lite  Gamepad con Doppio Ammortizzatore / Motore di Vibrazione / Motore a 6 assi Giroscopio / Turbo regolabile / Joystick a distanza '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

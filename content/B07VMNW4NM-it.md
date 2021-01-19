@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41evVpqKoSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMNW4NM-it'
+slug: 'B07VMNW4NM-it Calvin Klein Medium Drawstring Pantaloncini  Verde  Dark Green LC0   Large Uomo'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

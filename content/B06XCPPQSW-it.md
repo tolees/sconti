@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418YVHjLMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCPPQSW-it'
+slug: 'B06XCPPQSW-it Burton Formula  Guanti Uomo  True Black  L'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

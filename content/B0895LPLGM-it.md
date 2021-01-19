@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512IAL3vcqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895LPLGM-it'
+slug: 'B0895LPLGM-it ATOYX 66C RC Mini Drone con Telecomando Funzione di Sospensione Altitudine modalità Headless 3 velocità 3D Flip Protezioni a 360°per Bambini e Principianti  Verde '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

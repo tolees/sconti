@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rsZSRirrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D3I00JC-it'
+slug: 'B00D3I00JC-it Narhinel Aspiratore Nasale e Ricambi Soft - 70 Gr'
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

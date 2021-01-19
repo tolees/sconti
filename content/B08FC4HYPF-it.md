@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CfHrLA4fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC4HYPF-it'
+slug: 'B08FC4HYPF-it eXtremeRate Soft Grip Cover Custodia Anteriore Copertura Frontale Scocca DIY Pezzo di Ricambio per Xbox One S X Controller Model 1708 Trasparente Nero Cristallo '
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

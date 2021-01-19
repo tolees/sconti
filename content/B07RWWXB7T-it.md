@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DFf03ohKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWWXB7T-it'
+slug: 'B07RWWXB7T-it Telecamera IP di sicurezza da interni Imou per sorveglianza domestica avanzata  dotata di risoluzione 1080P  rilevamento antintrusione  rilevamento di suoni anomali  audio bidirezionale'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

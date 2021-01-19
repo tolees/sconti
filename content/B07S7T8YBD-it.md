@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MRT9PCjzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7T8YBD-it'
+slug: 'B07S7T8YBD-it Beschoi Specchio Trucco con Luci LED  Specchio Ingranditore 1X/5X  Lampada da Scrivania  Altoparlante Bluetooth  Ricarica USB'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316pCgwuLBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJHXWJN-it'
+slug: 'B07SJHXWJN-it Burton Underhill  Maglia A Maniche Corte Uomo  True Black  M'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

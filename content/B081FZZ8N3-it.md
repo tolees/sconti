@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Kkzr2dyqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081FZZ8N3-it'
+slug: 'B081FZZ8N3-it Apple MacBook Pro  16"  16GB RAM  Archiviazione 512GB  - Argento'
 actualPrice: 1999.0 EUR
 currency: EUR
 price: 1999.0

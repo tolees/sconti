@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XXydYK11L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6B6QCG-it'
+slug: 'B07K6B6QCG-it DADYPET Fontanella per Gatti  Fontana per Cani e Gatti  Distributore Automatico e Silenzioso di Acqua per Gatti  Filtro Sostituibile  con Due Filtri a Carboni Attivi  2.8L '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

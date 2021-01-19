@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PrDJUMeOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ON9ZN4M-it'
+slug: 'B00ON9ZN4M-it Severin SEV1071 Piastra Induzione'
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F58NJFB-it'
+slug: 'B08F58NJFB-it BAITITON 2 5 pollici SATA III Unità a Stato Solido Interno 256GB Disco SSD Lettura 550MB/s  Scrittura 530MB/s'
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

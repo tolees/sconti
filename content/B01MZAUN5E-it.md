@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ffvUZyNuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZAUN5E-it'
+slug: 'B01MZAUN5E-it Hori Stand di Ricarica per 4 Joy-con - Nintendo Switch'
 actualPrice: 21.02 EUR
 currency: EUR
 price: 21.02

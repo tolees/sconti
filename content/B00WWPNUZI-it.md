@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41inqWZ9M6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WWPNUZI-it'
+slug: 'B00WWPNUZI-it JACK & JONES Jjglenn Original Jj 887 Noos Jeans  Blu Denim  34W / 30L Uomo'
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516aChTFHqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2GPQWL-it'
+slug: 'B07D2GPQWL-it DYNASONIC - Altoparlante Bluetooth 10W portatile  Lettore Mp3 senza fili wireless portatile  Lettore USB SD  Radio FM con più di 60 stazioni  modello 020-2  colore viola  telecomando incluso '
 actualPrice: 23.12 EUR
 currency: EUR
 price: 23.12

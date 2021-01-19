@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EKqXBnGOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086VPL2W3-it'
+slug: 'B086VPL2W3-it HUAWEI P40 Lite con Cover  Display Punch FullView da 6.4”  Kirin 810 Octa Core  Verde  Versione Italiana'
 actualPrice: 200.99 EUR
 currency: EUR
 price: 200.99

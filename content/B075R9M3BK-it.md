@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41igbEO33NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R9M3BK-it'
+slug: 'B075R9M3BK-it Vero Moda Vmava Plain SS Top Ga Noos T-Shirt  Grigio  Asphalt Asphalt   46  Taglia Produttore: Large  Donna'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

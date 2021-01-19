@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51V3OUiCsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGKC37L-it'
+slug: 'B06XGKC37L-it Garnier Ultra Dolce Bagnodoccia Fico e Zucchero di Canna Bagnoschiuma Purificante  500 ml'
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

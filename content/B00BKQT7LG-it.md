@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eJi3W84SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQT7LG-it'
+slug: 'B00BKQT7LG-it Daniel Wellington Analogico Quarzo Giapponese Orologio da Polso DW00100018'
 actualPrice: 72.85 EUR
 currency: EUR
 price: 72.85

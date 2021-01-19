@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dMdT0U19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2DBL1W-it'
+slug: 'B07F2DBL1W-it Timberland Los Angeles Wind Slingbac  Sandali Donna  Marrone  Light Beige Nubuck   37 EU'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

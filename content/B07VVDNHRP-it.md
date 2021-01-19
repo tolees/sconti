@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kbQwDqbJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVDNHRP-it'
+slug: 'B07VVDNHRP-it TACKLIFE Tagliabordi a Batteria  40 V 2 5 Ah  Motore Brushless  Larghezza di Taglio 30 cm  Sistema di Taglio a Doppio Filo  Controllo Filo Semiautomatico  LGT01A'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

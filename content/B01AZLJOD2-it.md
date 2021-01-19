@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QrVGy0r8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AZLJOD2-it'
+slug: 'B01AZLJOD2-it New Balance 500  Scarpe Sportive Uomo  Grigio  Grey/White Gry   42 EU'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

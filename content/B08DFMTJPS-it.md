@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G7xzgkMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFMTJPS-it'
+slug: 'B08DFMTJPS-it MOONESS Custodia Samsung Galaxy A21s Blu Custodia Flip Premium Protettiva Portafoglio PU Pelle Case Cover per Samsung Galaxy A21s O-Blu '
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

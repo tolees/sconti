@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NVAQaF4UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLY173-it'
+slug: 'B07RZLY173-it New Balance 373 Core  Sneaker Uomo  Rosso  Red/White Cd2 '
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

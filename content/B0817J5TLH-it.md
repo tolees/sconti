@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V9xqIig9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817J5TLH-it'
+slug: 'B0817J5TLH-it Columbia Silver Ridge II  Pantaloni Cargo Uomo  Blu  Collegiate Navy   W28/L32'
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vU8O0uHPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7HWKMZ-it'
+slug: 'B07F7HWKMZ-it Yamaha MusicCast BAR 400  YAS-408  Soundbar e Subwoofer – Sistema Dolby Sorround con Diffusore Centrale e Subwoofer Wireless  per Home Cinema 3D 4k – Multiroom  WiFi  Airplay  Bluetooth 4.2  Nero'
 actualPrice: 382.0 EUR
 currency: EUR
 price: 382.0

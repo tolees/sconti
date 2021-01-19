@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nNB3D6C3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0158NRMY0-it'
+slug: 'B0158NRMY0-it Listerine Collutorio  Total Care  Gusto Delicato  6 Benefici in 1  Menta Delicata  Zero Alcol  Alito fresco  500 ml'
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

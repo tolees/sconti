@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NsoHwsMGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHDTN13-it'
+slug: 'B07FHDTN13-it Vans Left Chest Logo Tee T-Shirt Uomo  Bianco  White   Medium  93 - 102 cm '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

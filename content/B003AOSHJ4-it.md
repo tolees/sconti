@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p1Ks6P6SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003AOSHJ4-it'
+slug: 'B003AOSHJ4-it Havaianas Top  Infradito Unisex-Adulto  Rosso  Ruby Red 2090   41/42 EU'
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

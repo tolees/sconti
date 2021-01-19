@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51l2bcekYYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FFYVT52-it'
+slug: 'B08FFYVT52-it TOCOL [3 Pezzi] Pellicola Protettiva per Xiaomi Redmi 9A Schermo Protettivo  [Telaio di Posizionamento] Protezione Vetro TemperatoXiaomi Redmi 9A'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

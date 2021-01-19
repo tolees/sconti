@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ghiJerf9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TTGZNF-it'
+slug: 'B081TTGZNF-it adidas WB Karkaj  Giacca Sportiva Uomo  Glory Green  L'
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

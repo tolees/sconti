@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iEVypmerL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009RUMT76-it'
+slug: 'B009RUMT76-it Pampero Especial Rum  L 1'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SzdU0iltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089VR7WHB-it'
+slug: 'B089VR7WHB-it ANWEN per Xiaomi Poco F2 PRO Cover  Ultra Sottile Cover con Morbido Silicone Colorato Painting TPU Bumper[Anti-Graffio][ Antiscivolo] Cover per Xiaomi Poco F2 PRO Viola Blu '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

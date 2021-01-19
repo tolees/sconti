@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51I98OpIZnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BT9YKMM-it'
+slug: 'B07BT9YKMM-it WHATLEES Whatless Gilet Slim Elegante Uomo - Doppio Petto Testurizzato Formale Scollo V Beige'
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

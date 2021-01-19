@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XORhrJ4fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVHM8FS-it'
+slug: 'B07ZVHM8FS-it DADYPET Ciotole per Cani  Distributori di Cibo per Gatti -Ciotole per Cani con Pesatura Intelligente Alimentatore Lento Antiscivolo'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

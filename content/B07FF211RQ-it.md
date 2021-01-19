@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gf8tXzDWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FF211RQ-it'
+slug: 'B07FF211RQ-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna  Multicolore  Multi Colour   46  Label: L'
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

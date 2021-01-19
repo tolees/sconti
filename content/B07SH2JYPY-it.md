@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YCZzUUqqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH2JYPY-it'
+slug: 'B07SH2JYPY-it FIFA 20 - Legacy - Nintendo Switch'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

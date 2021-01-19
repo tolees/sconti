@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515bULzqJjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084PSFFBT-it'
+slug: 'B084PSFFBT-it Mastro Lindo Detersivo Multiuso Candeggina  Maxi Formato 6 Pezzi da 950 Ml  5.7 L'
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

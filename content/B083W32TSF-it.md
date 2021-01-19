@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EIZ8c68hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083W32TSF-it'
+slug: 'B083W32TSF-it CHOETECH Caricatore Wireless 2 Posti  Caricatore Senza Fili  Qi Ricarica Rapida 7.5W per iPhone 11/11 PRO/XS Max/XR/XS/SE 2 10W per Galaxy S20/Note 10/S10/S10 Plus/S10E/S9/S9+/S8/S8 Plus  Stand+Pad '
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

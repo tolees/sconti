@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41owmBuJhPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G2A5F9S-it'
+slug: 'B00G2A5F9S-it THE PROTEIN WORKS Proteine Whey 80  Concentrate  In Polvere | 82% Di Proteine | Frullato Proteico Povero Di Zuccheri | Crema alla Vaniglia | 500g'
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

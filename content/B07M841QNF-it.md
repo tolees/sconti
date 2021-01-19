@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31et6v8dNCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M841QNF-it'
+slug: 'B07M841QNF-it Powerbank ALLPOWERS 24000mAh Batteria Esterna Portatile Caricabatterie USB C Ingresso Powerbank per iPhone XS/X/8/7/6s  iPad  Samsung  Huawei  Cellulare  Tablets'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319rxhNyc9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBFZN4P-it'
+slug: 'B07VBFZN4P-it Vans Ward Canvas Sneaker  Unisex – Bambini  Multicolore   Otw  Black/White LRN   33 EU'
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Few7AO4XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WUG9API-it'
+slug: 'B00WUG9API-it Sprite Lattina 330 ml - 4 lattine'
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

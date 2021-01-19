@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vv4ameZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDLZ9CP-it'
+slug: 'B06XDLZ9CP-it Rowenta CV5372 Studio Dry Asciugacapelli Compatto per Capelli Sani e Lucenti  2100 W'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

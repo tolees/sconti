@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JDIEKxLdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTGBWYH-it'
+slug: 'B07VTGBWYH-it WD My Passport Hard Disk Portatile con Protezione Tramite Password e Software di Backup Automatico  Compatibile con PC  Xbox e PS4  2TB  Blu'
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

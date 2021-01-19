@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510nbFa1mpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MD5C5HK-it'
+slug: 'B07MD5C5HK-it TOPERSUN pastelli set di matite colorate 72 colori esagonali idrosolubili con un pennarello per schizzi la pittura e la colorazione regalo ideale per artisti adulti e bambini'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

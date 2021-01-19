@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V1KppPp5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077G5HBN2-it'
+slug: 'B077G5HBN2-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna  Rosso  Red   44  Label: M'
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

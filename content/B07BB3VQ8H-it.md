@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wOh+XsjBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB3VQ8H-it'
+slug: 'B07BB3VQ8H-it The North Face M TBL Sport HD  Piumino Uomo  Rosso  Rage Red/Bitter   S'
 actualPrice: 125.23 EUR
 currency: EUR
 price: 125.23

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41diYD0f3VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QAL45W-it'
+slug: 'B016QAL45W-it Adidas Parma 16 SHO  Pantaloncini Uomo  Blu  Dark Blue/White   XL'
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

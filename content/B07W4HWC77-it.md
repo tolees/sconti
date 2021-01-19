@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411Yzgx2gWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4HWC77-it'
+slug: 'B07W4HWC77-it Tommy Hilfiger Shoulder GS Insert Slim Polo Maglietta  Blu  Desert Sky   Small  Taglia Unica:  Uomo'
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

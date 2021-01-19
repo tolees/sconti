@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RdaEOMvNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXG8JRM-it'
+slug: 'B07TXG8JRM-it HolyHigh Smartwatch Orologio Fitness GPS Impermeabile IP68 Cardiofrequenzimetro da Polso Smart Watch Braccialetto Fitness Activity Tracker Sport Touch Screen per Donna Uomo Bambini Android e iOS'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

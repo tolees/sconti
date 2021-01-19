@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BPAI78K-it'
+slug: 'B01BPAI78K-it Boss Profumo - 100 Ml'
 actualPrice: 50.2 EUR
 currency: EUR
 price: 50.2

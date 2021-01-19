@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DefMB32FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWPZ2XA-it'
+slug: 'B00XWPZ2XA-it Nike Tanjun Mn  Scarpe Sportive Uomo  Blu  Midnight Navy/White-Game Royal   44 EU'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

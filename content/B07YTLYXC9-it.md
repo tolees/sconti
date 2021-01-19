@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FIjX9N7-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTLYXC9-it'
+slug: 'B07YTLYXC9-it Pulsossimetro Bluetooth  monitor di saturazione di ossigeno  wireless con promemoria audio su dispositivo e smartphone APP gratuita  misuratore di frequenza cardiaca SpO2 ricaricabile per adulti'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

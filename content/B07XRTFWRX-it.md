@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ysQapZZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRTFWRX-it'
+slug: 'B07XRTFWRX-it CARPISA® Borsa shopper tracolla interscambiabile - Jinger'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

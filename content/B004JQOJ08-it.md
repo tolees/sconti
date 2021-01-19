@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-zkZXaukL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004JQOJ08-it'
+slug: 'B004JQOJ08-it Philips HP6341/00 Ladyshave Rasoio Femminile  Wet&Dry  Bianco/Fucsia'
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

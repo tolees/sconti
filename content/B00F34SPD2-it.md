@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gjM0LUMAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F34SPD2-it'
+slug: 'B00F34SPD2-it CAVO AV COMPOSITO VIDEO AUDIO 1 8MT RCA PER Nintendo Wii'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4135+Dl1fFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT4GTR9-it'
+slug: 'B07PT4GTR9-it Giochi Preziosi - L.O.L. Surprise!  Glamper - Veicolo per Bambole e Pets LOL Surprise! con Oltre 50 Sorprese e una Bambola Inclusa LLU92000'
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

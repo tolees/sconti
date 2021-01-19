@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q0uC5mrCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNH4RW5-it'
+slug: 'B08BNH4RW5-it Auricolari Bluetooth Cuffie Bluetooth 5.0 Auricolari Del Rumore 3D Lsolamento Acustico Stereo Impermeabile IPX7 per iPhone Android Apple Airpods'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

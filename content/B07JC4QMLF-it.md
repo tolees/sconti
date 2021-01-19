@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WsJ70eKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC4QMLF-it'
+slug: 'B07JC4QMLF-it InkJello Compatibile Toner Cartuccia Sostituzione Per HP LaserJet Pro M15 M15a M15w M28a MFP M28a M28w MFP M28w M17a M17w CF244A  Nero  1-Pack '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

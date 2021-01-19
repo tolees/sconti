@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31luxOkx3AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UKUO8O4-it'
+slug: 'B00UKUO8O4-it Smartwares 6000.631 Manou Lampada da tavolo – Attacco ES/E27 – Flessibile – Grigia e bianca'
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

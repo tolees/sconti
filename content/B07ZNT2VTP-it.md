@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gx5uN7k1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNT2VTP-it'
+slug: 'B07ZNT2VTP-it Oacvien 2L Umidificatore Ambiente Ultrasonicos 7 Colori Chiari LED 25Ore di Lavoro Diffusore Oli Essenziali Ambiente Bambini 23dB Modalità Sleep Notturna e Spegnimento Automatico Regalo'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

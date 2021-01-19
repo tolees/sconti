@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wh0BC1vyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086RGZF7P-it'
+slug: 'B086RGZF7P-it Pistola Massaggio Muscolare Massage Gun Rarurko Pistola a Fascia con 6 Velocità 6 Testine Massaggianti Progettata per Rilassare i Muscoli  Alleviare il Dolore'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316TlXxSx1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN8DJMH-it'
+slug: 'B07RN8DJMH-it Funko- Pop Holiday-Mayor Patty Noble Figura da Collezione  Multicolore  44467'
 actualPrice: 6.56 EUR
 currency: EUR
 price: 6.56

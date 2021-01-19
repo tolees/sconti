@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T1w7uXCKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0039UT5HW-it'
+slug: 'B0039UT5HW-it Casio Orologio Analogico al Quarzo Uomo con Cinturino in Acciaio Inox MTP-1303D-1AVEF'
 actualPrice: 33.19 EUR
 currency: EUR
 price: 33.19

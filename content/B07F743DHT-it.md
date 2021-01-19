@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PvXpwbkjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F743DHT-it'
+slug: 'B07F743DHT-it Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Black Pink 45  41 EU'
 actualPrice: 45.32 EUR
 currency: EUR
 price: 45.32

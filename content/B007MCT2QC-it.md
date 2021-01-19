@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518xh2BBk+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007MCT2QC-it'
+slug: 'B007MCT2QC-it AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr'
 actualPrice: 0.81 EUR
 currency: EUR
 price: 0.81

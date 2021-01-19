@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DpFdTvciL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8CWWWM-it'
+slug: 'B07B8CWWWM-it Lifewit 15L Borsa Termica Manutenzione di Freddo e Caldo per Uomo/Donna/Bambino Porta Pranzo Cibo Alimentazione per Campeggio Lavoro Scuola  Grigio '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VR1l3MOtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM7NXQT-it'
+slug: 'B07JM7NXQT-it Gardena Select E2 1891-20 Controllo dell irrigazione  Nero/Grigio/Arancione'
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

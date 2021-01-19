@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61BvlG1BA4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XSLSZGZ-it'
+slug: 'B07XSLSZGZ-it Pennarelli a Vernice Acrilica  18 Colori Premio Impermeabile Pittura Arte Pennarello Set per Ceramica  Stoffa  Tessuti  Plastica  Vetro  Metallo  Legno  Roccia  Tela  Carta  Fotografie & DIY  0 7 mm'
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

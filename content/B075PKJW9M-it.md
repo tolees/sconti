@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IHjVhZi9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075PKJW9M-it'
+slug: 'B075PKJW9M-it Havaianas Logo Metallic  Infradito Donna Nero  Black/Black 1069   Taglia Produttore 33/34'
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

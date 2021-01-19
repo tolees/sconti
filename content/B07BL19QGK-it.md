@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hzrI+PijL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL19QGK-it'
+slug: 'B07BL19QGK-it Prada Profumo - 50 Ml'
 actualPrice: 40.6 EUR
 currency: EUR
 price: 40.6

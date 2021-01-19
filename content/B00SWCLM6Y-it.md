@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h1RYSqEYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SWCLM6Y-it'
+slug: 'B00SWCLM6Y-it Hoover SM156WD4 Aspirabriciole da cucina senza sacco  15.6 W  0.2 Liters  65 Decibel  Plastica  Blu'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

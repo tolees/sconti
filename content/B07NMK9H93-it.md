@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PZcxWVIVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NMK9H93-it'
+slug: 'B07NMK9H93-it Pawhut Pollaio da Giardino con Corsa e Tetto Impermeabile  Grigio e Bianco  166x121.5x112cm'
 actualPrice: 195.97 EUR
 currency: EUR
 price: 195.97

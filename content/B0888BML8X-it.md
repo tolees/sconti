@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DL4N6QgVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0888BML8X-it'
+slug: 'B0888BML8X-it Auricolari Bluetooth  Cuffie Bluetooth Senza Fili Wireless Sportive in-Ear Impermeabile IPX7 Riproduzione 180 Ore TWS CVC 8.0 Cancellazione di Rumore Display LED con Mic Touch Control per iOS Android'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

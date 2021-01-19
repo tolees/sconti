@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HkryQICKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYM63V8-it'
+slug: 'B07SYM63V8-it Fruittella Good For You Mix Sport Bio  Snack di Frutta Secca e Disidratata Biologico - 20 Pacchetti Monodose da 32 gr'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

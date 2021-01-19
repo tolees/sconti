@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W48mkcrYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XW84ZFT-it'
+slug: 'B06XW84ZFT-it LE 15W Plafoniera LED  Lampada da Soffitto LED 1400lm  Lampada da Bagno Impermeabile IP54  Bianco Caldo 3000K  Luci Lampade a Soffitto Protegge Occhi per Bagno Cucina Camera da Letto Sala  =100W '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

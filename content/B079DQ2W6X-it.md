@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516LSr5GB7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DQ2W6X-it'
+slug: 'B079DQ2W6X-it TACKLIFE SEB04A Estrattore di Viti Danneggiate  4 Pezzi Estrattori di Vite con Custodia  in Acciaio ad Alta Velocità 6542#  Durezza 63-65HRC'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

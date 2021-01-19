@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oedUdiI6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBC1RBB-it'
+slug: 'B07LBC1RBB-it Cowin E7 Active Noise Cancelling Cuffie Bluetooth con microfono Cuffie senza fili Deep Bass Over Ear  comode protezioni Earpads  30H Playtime per Travel Work TV PC Cellphone  Rosso '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

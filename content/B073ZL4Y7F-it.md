@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418D4GdQbgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZL4Y7F-it'
+slug: 'B073ZL4Y7F-it Nespresso Essenza Mini De Longhi EN85.R Macchine del Caffe  1370 watt  Rosso'
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

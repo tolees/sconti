@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ssU6G-93L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083GGHJ1V-it'
+slug: 'B083GGHJ1V-it GuliKit Route Air Pro Adattatore audio Bluetooth Trasmettitore Compatibile con Nintendo Switch  Switch Lite  PS4  PC  Cuffie Bluetooth Air pods Bose Sony  con aptX a Bassa Latenza  Chat Vocale in-game'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

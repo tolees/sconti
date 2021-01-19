@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-uWzsXGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083G2TX1C-it'
+slug: 'B083G2TX1C-it PISEN ColorPower PRO Portable Power Bank 10000mAh  Oro  Caricabatterie Portatile Portatile  Batteria Esterna  uscite USB 2  puoi Risparmiare Tempo  Utilizzare telefoni cellulari '
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

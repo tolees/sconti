@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UZP0Y1QSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FHZWXTN-it'
+slug: 'B08FHZWXTN-it Auricolari Bluetooth 5.0 TWS i12 Cuffie wireless stereo 3D con controllo smart touch  doppi microfoni integrati con connessione pop-up anti-rumore IPX7 accoppiamento automatico-bianco'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

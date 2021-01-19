@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tFxkAlE3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SGFI6Q-it'
+slug: 'B015SGFI6Q-it Havaianas Luna  Sandali Donna  Oro  Rose Gold/Rose Gold 5282   37/38 EU'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

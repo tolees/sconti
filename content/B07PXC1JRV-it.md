@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21MGhAh6A4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXC1JRV-it'
+slug: 'B07PXC1JRV-it Controller wireless PS4 per laptop Playstation 4 / Pro/Slim/PC  pannello a sfioramento Joypad con doppia vibrazione  modo tempestivo per condividere il joystick'
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

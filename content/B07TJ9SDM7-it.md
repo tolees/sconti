@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41roCUEXYzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9SDM7-it'
+slug: 'B07TJ9SDM7-it Levi s LS Battery HM Shirt Slim Camicia  Blu  Redcast Stone Mid Flat T2 H2 19 0004   Medium Uomo'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

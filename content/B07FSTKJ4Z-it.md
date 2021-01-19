@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hh4rXqEcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSTKJ4Z-it'
+slug: 'B07FSTKJ4Z-it Oral-B Pro 2 2500 Spazzolino Elettrico Ricaricabile  1 Spazzolino con Sensore di Pressione dello Spazzolamento Visibile  1 Testina  1 Custodia da Viaggio'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

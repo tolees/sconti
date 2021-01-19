@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LuK3IvPUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088C7ZR7Z-it'
+slug: 'B088C7ZR7Z-it Veet Strisce Depilatorie Corpo e Gambe  Ipoallergeniche  3 Confezioni da 16 Strisce'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

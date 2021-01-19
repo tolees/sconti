@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R1SZvHESL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWP8H1R-it'
+slug: 'B07VWP8H1R-it flintronic® Sacchetti di Frutta e Verdura  Borse per Prodotti riutilizzabili  Sacchetti per Alimentari in Cotone Organico Lavabile per la Spesa  Conservare Frutta  Verdura e Giocattoli - 7 Pezzi'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

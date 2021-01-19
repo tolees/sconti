@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tqnAjOPML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCXFHX5-it'
+slug: 'B07RCXFHX5-it Columbia Marquam Peak Jacket  Giacca Uomo  Blu  Collegiate Navy   XL'
 actualPrice: 52.6 EUR
 currency: EUR
 price: 52.6

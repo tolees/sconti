@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kMfBWKQaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFY8W5Z-it'
+slug: 'B07LFY8W5Z-it Béaba Set Pranzo in Silicone con Robusta Ventosa  Composto da 4 Pezzi  Piatto  Ciotola  Tazza e Cucchiaio in Silicone di Alta Qualità  per Neonati e Bambini  Giallo'
 actualPrice: 25.34 EUR
 currency: EUR
 price: 25.34

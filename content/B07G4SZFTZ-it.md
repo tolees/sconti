@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4180BWixmgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4SZFTZ-it'
+slug: 'B07G4SZFTZ-it It  2017  + Funko Keychain'
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

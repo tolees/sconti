@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Prul88fGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBDQ1W1-it'
+slug: 'B07GBDQ1W1-it Pulsar Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inox PT3943X1'
 actualPrice: 53.94 EUR
 currency: EUR
 price: 53.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51m72wukMqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWBDZ1R-it'
+slug: 'B07RWBDZ1R-it Havaianas Top Logomania  Infradito Unisex-Adulto  Blu  Navy Blue 0555   43/44 EU'
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

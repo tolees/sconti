@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vCrW3K5FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851DWXQY-it'
+slug: 'B0851DWXQY-it HERSITY Cucina Giocattolo per Bambini Piano Cottura con Luci e Suoni e Funzione Acqua Reale Piccolo Chef Giochi di Ruolo Regalo Bambina Bambino 3 4 5 Anni'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

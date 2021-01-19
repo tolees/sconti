@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rIGTRaPTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8P6NYP-it'
+slug: 'B07P8P6NYP-it Playmobil - Grande Castello di Novelmore Set di figurine  Colore Multicolore  70220'
 actualPrice: 135.9 EUR
 currency: EUR
 price: 135.9

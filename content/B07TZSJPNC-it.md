@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BZa65uABL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZSJPNC-it'
+slug: 'B07TZSJPNC-it Vimar RI.00316.B Adattatore elettrico multiplo verticale  3 prese universali con protezione bambini SICURY  spina Schuko 2P+T 16 A combinata standard tedesco e francese'
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

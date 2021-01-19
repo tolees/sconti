@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xPmfAMxpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD3VT93-it'
+slug: 'B07VD3VT93-it Calvin Klein Institutional Logo Slim Fit Tee T-Shirt  Giallo  Mimosa Yellow Zhh   42  Taglia Produttore: Medium  Donna'
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

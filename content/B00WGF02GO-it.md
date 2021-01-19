@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mx+p+nbdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WGF02GO-it'
+slug: 'B00WGF02GO-it Kimbo - Macinato Fresco  Caffè di Napoli  Tostatura Media - 250 g'
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

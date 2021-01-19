@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411dPFJH-AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZUVM36-it'
+slug: 'B01CZUVM36-it American Tourister - Funshine Spinner Bagaglio a mano  Unisex  Poliestere  Blu  Orion Blue   36 litri  55 cm'
 actualPrice: 48.12 EUR
 currency: EUR
 price: 48.12

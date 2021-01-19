@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MwYbr2IYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N9BOOZ4-it'
+slug: 'B00N9BOOZ4-it Beurer MP 62 Manicure/Pedicure Professionale con LED'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

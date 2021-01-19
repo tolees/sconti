@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tg-pwWsGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THFDL3T-it'
+slug: 'B07THFDL3T-it YABER Avviatore Batteria per Moto/Auto  1000A 13800mAh Avviatore Emergenza per Auto  Fino a 6 0L a Benzina o Diesel da 5 0L  12V Jump Starter Impermeabile IP67 Power Bank  Torcia LED'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

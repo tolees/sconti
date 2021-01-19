@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510PlCOfGtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFS4LR7-it'
+slug: 'B06XFS4LR7-it Mulino Bianco Grissini Rustici Classici Pangrì  Snack Salato per la Merenda- 250 g'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

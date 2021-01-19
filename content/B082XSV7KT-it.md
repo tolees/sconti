@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bW0WStItL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XSV7KT-it'
+slug: 'B082XSV7KT-it Autoradio Bluetooth RDS Stereo ieGeek  Luce dei Tasti a 7 Colori  60WX4 Supporta FM/AM/AUX/MP3/WMA/WAV/USB/SD/Telecoman  Doppio Display LCD con Orologio domemorizza 30 stazioni radio  1DIN'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

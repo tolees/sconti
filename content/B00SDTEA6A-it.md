@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oxJHY1YgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SDTEA6A-it'
+slug: 'B00SDTEA6A-it LEGO-Duplo Disney Il Trenino di Topolino e Minnie  Multicolore  10597'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

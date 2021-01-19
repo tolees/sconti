@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31N1j9wJjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0NES91-it'
+slug: 'B01M0NES91-it Parker 1931664 IM Penna Roller  Punta Fine e Ricarica di Inchiostro Nero  Dark Espresso Chrome Trim'
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ympZ2ObxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002MP89LI-it'
+slug: 'B002MP89LI-it Gillette Mach 3  Set Di Lame Di Ricambio Per Rasoio - 20 Gr'
 actualPrice: 5.23 EUR
 currency: EUR
 price: 5.23

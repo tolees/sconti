@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gfINYXRbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L3Z9OHG-it'
+slug: 'B00L3Z9OHG-it Lacoste NH1112FG  Portamonete Uomo  Nero  Black   9.5 x 3 x 11.5 cM'
 actualPrice: 57.41 EUR
 currency: EUR
 price: 57.41

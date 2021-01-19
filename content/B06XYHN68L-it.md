@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4143CjbrHrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYHN68L-it'
+slug: 'B06XYHN68L-it SanDisk Extreme Pro Scheda di Memoria microSDHC da 32 GB e Adattatore SD con App Performance A1 e Rescue Pro Deluxe  fino a 100 MB/sec  Classe 10  UHS-I  U3  V30'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

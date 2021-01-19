@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GoV9bXalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYZ8DWS-it'
+slug: 'B07QYZ8DWS-it Ginocchiera a Compressione unisex  1 Paio   Ginocchiere Rotulea Supporto Sportiva Elastica  Tutore Ginocchio Protettivo per Running  Sport  Joint sollievo dal Dolore  Artrite e Lesioni Recupero'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

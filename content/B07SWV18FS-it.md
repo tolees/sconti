@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rQSBIY6GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWV18FS-it'
+slug: 'B07SWV18FS-it Geox D LEELU  E  Scarpe da Ginnastica Basse Donna  Bianco  White/off White C1352   35 EU'
 actualPrice: 17.46 EUR
 currency: EUR
 price: 17.46

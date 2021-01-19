@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l7S5hlRsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863TK7TN-it'
+slug: 'B0863TK7TN-it Apple MacBook Air  13"  Processore Intel Core i3 dual‑core di decimo generazione a 1 1GHz  8GB RAM  256GB  - Oro'
 actualPrice: 979.0 EUR
 currency: EUR
 price: 979.0

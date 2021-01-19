@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fd+9U-MqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813ZFVTK-it'
+slug: 'B0813ZFVTK-it adidas Superstar C  Scarpe da Ginnastica Unisex-Bambini  Ftwr White/Core Black/Ftwr White  30.5 EU'
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

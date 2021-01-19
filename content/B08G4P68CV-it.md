@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hFWA2YxhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G4P68CV-it'
+slug: 'B08G4P68CV-it DUDUKING Occhiali da Sole Ciclismo Polarizzati Sportivi per Uomo e Donna con 5 Lenti Colorati Anti-UV Antivento Aviatore Specchio per Ciclismo Guida Pesca Running Golf Bici Moto'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

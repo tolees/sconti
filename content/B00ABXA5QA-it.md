@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Es1rH5JZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ABXA5QA-it'
+slug: 'B00ABXA5QA-it Arena Racing Goggles Strap  Kit di Cinturini per Occhialini da Gara Unisex Adulto  Multicolore  Multicolour   Taglia Unica'
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

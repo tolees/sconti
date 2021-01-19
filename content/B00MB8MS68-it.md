@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qLau8EFhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MB8MS68-it'
+slug: 'B00MB8MS68-it Kenwood HDP404WH Mixer ad Immersione  800 W  Tritatutto da 0 5 l  Bicchiere graduato da 0 75 L  Plastica  Bianco'
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

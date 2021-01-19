@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g1SuhbqdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GZZZ378-it'
+slug: 'B01GZZZ378-it Emporio Armani Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile AR2500'
 actualPrice: 117.7 EUR
 currency: EUR
 price: 117.7

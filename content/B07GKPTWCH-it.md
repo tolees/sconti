@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKPTWCH-it'
+slug: 'B07GKPTWCH-it Levi s 502 Regular Taper Jeans  Blu Stonewash  34W / 36L Uomo'
 actualPrice: 47.24 EUR
 currency: EUR
 price: 47.24

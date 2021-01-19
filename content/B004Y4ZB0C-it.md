@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311c043IW9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004Y4ZB0C-it'
+slug: 'B004Y4ZB0C-it Diesel Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile DZ1436'
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

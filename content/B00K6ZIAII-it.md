@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r-0X6i2+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K6ZIAII-it'
+slug: 'B00K6ZIAII-it De Longhi Icona Eco 311.BK Macchina da Caffè Espresso Manuale e Cappuccino  Caffè in Polvere o in Cialde E.S.E.  1100 W  Nero'
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

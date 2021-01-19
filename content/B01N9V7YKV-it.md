@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qvIoQ-sbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9V7YKV-it'
+slug: 'B01N9V7YKV-it Fossil Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox FTW1139'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

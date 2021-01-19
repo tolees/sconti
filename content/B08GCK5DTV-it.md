@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lwb03ZXML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GCK5DTV-it'
+slug: 'B08GCK5DTV-it HNOOM Supporto Telefono  Supporto Tablet da Tavolo  Supporto per Cellulare Regolabile Pieghevole Universale Supporto Dock per iPhones iPad Samsung Galaxy Kindle Nintendo Switch 4.0  -12.9     Nero '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

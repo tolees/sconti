@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZBV3ezS8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793JZCMW-it'
+slug: 'B0793JZCMW-it Saucony Jazz Original Vintage  Sneakers Uomo  Castlerock Teal 20  44.5 EU'
 actualPrice: 55.62 EUR
 currency: EUR
 price: 55.62

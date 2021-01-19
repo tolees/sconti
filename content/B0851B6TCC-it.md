@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319a5uMMRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851B6TCC-it'
+slug: 'B0851B6TCC-it UGREEN Case Esterno Hard Disk 2.5"  Custodia Esterna per Disco Rigido USB-C 10TB UASP 6Gbps per 7mm e 9.5mm SATA I II III HDD SSD 2.5   Compatibile Samsung WD Toshiba Seagate Hitachi  PS4  Xbox ECC'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

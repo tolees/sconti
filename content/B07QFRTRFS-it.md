@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51En5nnoIYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFRTRFS-it'
+slug: 'B07QFRTRFS-it Pesoforma Barrette Tre Cioccolati  Pasti Sostitutivi Dimagranti  Ricco In Proteine - 370 Gr'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

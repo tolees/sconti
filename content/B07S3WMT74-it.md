@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418556TOzzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3WMT74-it'
+slug: 'B07S3WMT74-it Levi s LS Baby Tee Maglia a Maniche Lunghe  Multicolore  Agnes Stripe Cloud Dancer 0010   Small Donna'
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

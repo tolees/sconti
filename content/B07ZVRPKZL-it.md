@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xAw27AeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVRPKZL-it'
+slug: 'B07ZVRPKZL-it G-Color Supporto per PC Portatile Angolazione Regolabile Pieghevole Supporto da 11-17 Pollici per Computer Portatile/Notebook/MacBook PRO/MacBook Air/iPad Laptop Stand-Nero'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

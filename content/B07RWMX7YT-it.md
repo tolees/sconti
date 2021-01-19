@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FZXPwKK4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWMX7YT-it'
+slug: 'B07RWMX7YT-it Oral-B CrossAction Testine di Ricambio  Confezione da 10 Pezzi  Edizione Nera'
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

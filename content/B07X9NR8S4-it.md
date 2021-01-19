@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+DBulEFqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9NR8S4-it'
+slug: 'B07X9NR8S4-it Singer M3505 Macchina da Cucire Professionale  Cucitrice Automatica  34 Funzioni di Cucitura  Cucito Creativo  Cuce tutti i Tessuti  Elettrica  Portatile  da Casa  Cuciture Facile per Principianti'
 actualPrice: 235.99 EUR
 currency: EUR
 price: 235.99

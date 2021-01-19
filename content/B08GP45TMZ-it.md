@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RzYFDZv3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GP45TMZ-it'
+slug: 'B08GP45TMZ-it Cuffie Wireless TV con Trasmissione   Senza Fili Cuffia con Base di Ricarica e Porta 3.5mm AUX'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

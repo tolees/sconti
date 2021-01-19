@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nzlrf2+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QM8MY7-it'
+slug: 'B089QM8MY7-it MOSFiATA Luce per Bicicletta USB con Campanello  3 LED 1000 Lumen Luce per Bicicletta al Litio Super Luminosa da 1200 mAh  Luce Anteriore LED Impermeabile IPX4'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

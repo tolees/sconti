@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510aAiJmXsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV14XMB-it'
+slug: 'B07ZV14XMB-it Tryone Supporto Tablet Poggiatesta Auto  estensibile supporto per tablet per sedile d auto per iPad/Samsung Galaxy Tab/Amazon Kindle Fire HD/Nintendo Switch/Altri ecc di 4 7-10 5 pollici  Rosso '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RebqgF3CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYLX9WZ-it'
+slug: 'B07MYLX9WZ-it Birkenstock Arizona  Sandali a Punta Aperta Donna  Nero  Washed Metallic Black Washed Metallic Black   37 EU'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

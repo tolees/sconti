@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VCNDeC7XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2TP5PV-it'
+slug: 'B07G2TP5PV-it Armani Exchange Orologio Analogico Quarzo Donna con Cinturino in Pelle AX5325'
 actualPrice: 78.65 EUR
 currency: EUR
 price: 78.65

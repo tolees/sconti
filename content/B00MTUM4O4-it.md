@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mvnJ1MFcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MTUM4O4-it'
+slug: 'B00MTUM4O4-it Ferrari Cedar Essence Eau de Parfum spray 100 ml'
 actualPrice: 28.47 EUR
 currency: EUR
 price: 28.47

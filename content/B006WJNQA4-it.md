@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v3pFBITSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006WJNQA4-it'
+slug: 'B006WJNQA4-it Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone  Brown Full Grain   47.5 EU'
 actualPrice: 87.49 EUR
 currency: EUR
 price: 87.49

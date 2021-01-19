@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jWyzriBnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKQBB6B-it'
+slug: 'B07XKQBB6B-it Chiave del prodotto Office Professional Plus 2019 a 32/64 bit con istruzioni da Softwareworld - Next Generation®'
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

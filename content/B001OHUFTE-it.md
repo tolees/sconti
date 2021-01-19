@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-dDMLiGUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001OHUFTE-it'
+slug: 'B001OHUFTE-it Gran Cereale Biscotti Gran Cereale Croccante con Riso  Ricchi di Fibra e Fosforo - 230 g'
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

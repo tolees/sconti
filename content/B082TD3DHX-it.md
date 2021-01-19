@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CcqWH1YqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082TD3DHX-it'
+slug: 'B082TD3DHX-it Bébé Confort - Maxi Cosi E-Safety Dispositivo Anti Abbandono Seggiolino Auto  Allarme Seggiolino Auto Salva Bebe Sensore Antiabbandono  Nero'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EB1aILUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DTHFVJZ-it'
+slug: 'B08DTHFVJZ-it Auricolari Bluetooth 5.0 Senza Fili Cancellazione del rumore 3D  Auricolari con Custodia da Ricarica 24 Ore di Tempo di Utilizzo  Mic-Incorporato per iPhone Android Apple Ear-In Cuffie'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

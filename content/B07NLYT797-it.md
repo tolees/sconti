@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLYT797-it'
+slug: 'B07NLYT797-it Nike Revolution 5 U  Scarpe da Corsa Mens  Nero/Bianco  48.5 EU'
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

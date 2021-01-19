@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QxYWdTKtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M6TJMT8-it'
+slug: 'B00M6TJMT8-it Pen Drive 128 gb USB 3.0 Philips FM12FD75B chiavetta flash drive  128gb  pendrive memoria USB'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

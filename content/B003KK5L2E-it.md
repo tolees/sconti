@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dTVa0qnQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003KK5L2E-it'
+slug: 'B003KK5L2E-it Ray-Ban RB3025 Aviator Occhiali da Sole Unisex Adulto  Oro  Gold 001/3F   58 mm'
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

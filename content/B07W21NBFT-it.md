@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412130-vdzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W21NBFT-it'
+slug: 'B07W21NBFT-it Plafoniera LED Soffitto Moderna  Faretti a LED per interni  10W  3000K Bianco Caldo  Applique da Parete Interno e Esterno Moderno  Adatto per Soggiorno Corridoio Pareti Interne ed Esterne Davanzale'
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415wPVYdyHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVYS65S-it'
+slug: 'B07WVYS65S-it Cere Easy Wax Kit Natural Inspirations Fiore Tiarè & Argan Oil + Ricarica 50 Ml'
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

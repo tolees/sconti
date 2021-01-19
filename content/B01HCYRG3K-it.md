@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QaUfiaRtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HCYRG3K-it'
+slug: 'B01HCYRG3K-it JACK & JONES Sense Trunks 3-Pack Boxer  Multicolore  Burgundy   Small  Pacco da 3  Uomo'
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

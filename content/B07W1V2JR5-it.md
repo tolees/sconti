@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5107-3YZqjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1V2JR5-it'
+slug: 'B07W1V2JR5-it Concrete Genie - PlayStation 4'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

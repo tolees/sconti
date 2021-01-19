@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41npVZzfZiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4NMDQX-it'
+slug: 'B07W4NMDQX-it Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva  Nero  Black   L Uomo'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

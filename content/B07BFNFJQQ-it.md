@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415o7c-N-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFNFJQQ-it'
+slug: 'B07BFNFJQQ-it Lampada a LED con sensore di movimento  per illuminazione armadio  credenza cucina  Bianco freddo  3 pezzi'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hzG7NzNoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KZ7XLM-it'
+slug: 'B089KZ7XLM-it Oral-B Precision Clean Testine di Ricambio per Spazzolino Elettrico con Tecnologia CleanMaximiser  Confezione da 6 Pezzi'
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

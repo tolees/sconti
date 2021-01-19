@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I948RB7kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QW4QYFV-it'
+slug: 'B07QW4QYFV-it Levi s Innovation Super Skinny Jeans  Blu  Globe Trotter 0065   25W / 32L Donna'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

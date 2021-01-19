@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NX+3eyMQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085C4D3DS-it'
+slug: 'B085C4D3DS-it Aigostar Baron – Frullatore portatile 2 in 1 per frutta e verdura. 350W e 1L  inclusa una bottiglia Tritan BPA FREE da 600mL. Corpo in acciaio inox e 2 controlli di velocità.'
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

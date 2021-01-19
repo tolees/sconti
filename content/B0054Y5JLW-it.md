@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RB0roTPiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0054Y5JLW-it'
+slug: 'B0054Y5JLW-it GIOTTO TURBO MAXI PUNTA 2 8MM PENNARELLI  36 PEZZI'
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

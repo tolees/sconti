@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ErJSrwJOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QP9C8F-it'
+slug: 'B076QP9C8F-it Pritt Colla Stick 5 x 11g  colla per bambini sicura e affidabile  colla Pritt per lavoretti e fai da te  con una tenuta forte per uso scuola e ufficio  5 stick x 11g'
 actualPrice: 4.43 EUR
 currency: EUR
 price: 4.43

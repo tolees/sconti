@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y0astVtqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087KC4P1D-it'
+slug: 'B087KC4P1D-it Samsung TV UE50TU8500UXZT Smart TV 50" Serie TU8500  Dinamic Crystal UHD 4K  Wi-Fi  2020  Nero'
 actualPrice: 489.99 EUR
 currency: EUR
 price: 489.99

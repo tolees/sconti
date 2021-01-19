@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DBxEeblML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UYZ2UE-it'
+slug: 'B000UYZ2UE-it Makita KP312S - Cepillo 2200W 12000 rpm 18.4 kg ancho 312 mm corte hasta 3.5 mm'
 actualPrice: 1838.95 EUR
 currency: EUR
 price: 1838.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fDVZH8LnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003GSLEKI-it'
+slug: 'B003GSLEKI-it Havaianas Brasil Logo  Infradito Unisex-Bambini  Blu  Navy Blue 0555   23/24 EU'
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

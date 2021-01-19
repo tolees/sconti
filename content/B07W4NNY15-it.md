@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O+aTXT42L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4NNY15-it'
+slug: 'B07W4NNY15-it Tommy Hilfiger Rope Stripe Tee Camicia Sportiva  Blu  Desert Sky   Medium  Taglia Unica:  Uomo'
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

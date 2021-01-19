@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TZXITtEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCZO2LK-it'
+slug: 'B01NCZO2LK-it Orzly Volante Nintendo Switch  Confezione Doppia  – Confezione di Accessori Neri per i Telecomandi Joy-con del Nintendo Switch'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

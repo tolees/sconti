@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Noc4BxwXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T6RZWX-it'
+slug: 'B078T6RZWX-it Tommy Hilfiger Essential TH Beach Sandal  Infradito Uomo  Nero  Black 990   41 EU'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

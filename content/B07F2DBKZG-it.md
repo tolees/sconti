@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zUM+KV9oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2DBKZG-it'
+slug: 'B07F2DBKZG-it Timberland Gateway Pier Casual  Scarpe Oxford Uomo  Grigio Medium Grey Canvas  43.5 EU'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

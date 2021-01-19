@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JnBWElRxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774RL3NQ-it'
+slug: 'B0774RL3NQ-it AICOK Friggitrice Ad Aria Calda  Friggitrice Senza Olio  Temperatura e ora Regolabili  Low-oil e Multicooker 3 5 Liter  1400W  BPA Free'
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

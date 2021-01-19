@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UJ+cognyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W5DHZDT-it'
+slug: 'B06W5DHZDT-it Tommy Hilfiger Bralette Corsetto  Bianco  White 100   Small Donna'
 actualPrice: 27.93 EUR
 currency: EUR
 price: 27.93

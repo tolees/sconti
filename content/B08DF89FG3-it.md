@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G428P952L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DF89FG3-it'
+slug: 'B08DF89FG3-it HolyHigh Cuffie Bluetooth 5.0 Auricolari Bluetooth True Wireless TWS per Sport Leggere Cuffiette in-Ear Impermeabili con Stereo Hi-Fi  Bassi Profondi  Microfono & Custodia di Ricarica Portatile Nero'
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

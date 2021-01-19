@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41haQ7GLIEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZ43WW9-it'
+slug: 'B08CZ43WW9-it Elyco Wireless Controller per Nintendo Switch  Bluetooth Joycon Joystick Joypad Gamepad Interruttore Controller Sostituzione Compatibile con Nintendo Switch'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

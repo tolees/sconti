@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yfh7dhbbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS65JT4-it'
+slug: 'B07VS65JT4-it Tritacarne 【Upgraded】AICOK 3-IN-1 Tritacarne Elettrico con 2 Piastre di Macinazione in Acciaio Inox  Attacco per Salsiccia e Kubbe  1 5 kg di Carne Macinata al Minuto  Macinazione Rapida'
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

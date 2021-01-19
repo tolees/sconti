@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RoexLx3cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBZ8Z94-it'
+slug: 'B07PBZ8Z94-it American Tourister Disney Legends - Spinner S Valigia per Bambini  S  55 cm - 36 L   Blu  Take Me Away Mickey London '
 actualPrice: 57.61 EUR
 currency: EUR
 price: 57.61

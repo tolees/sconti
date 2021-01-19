@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BAYi54lWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CLRSLK8-it'
+slug: 'B08CLRSLK8-it Lampada Proiettore Soffitto  Luce Notturna Bambini con Stella Luna Onda Acqua  Telecomando Altoparlante Bluetooth  Timer  LED Lampada Musicale con 42 Modalità  Regalo per Adulto Bambini  Nero '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

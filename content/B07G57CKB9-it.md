@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YxfBUC0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G57CKB9-it'
+slug: 'B07G57CKB9-it Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo  Pacco da 2  Mehrfarbig  Charcoal / Black   39 cm  Label: M'
 actualPrice: 9.04 EUR
 currency: EUR
 price: 9.04

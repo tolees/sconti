@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VX36BG-it'
+slug: 'B000VX36BG-it Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone Rootbeer Smooth  44.5 EU'
 actualPrice: 97.02 EUR
 currency: EUR
 price: 97.02

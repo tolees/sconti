@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zZXabBTjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797GBRP8-it'
+slug: 'B0797GBRP8-it Lampada UV LED Unghie  Carttiya Asciuga Unghie per Smalto UV LED in Gel  con Automatico Sensore a Infrarossi e Display LCD per Manicure/ Pedicure Nail art a Casa o Salone  12W  Bianco'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

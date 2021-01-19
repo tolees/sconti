@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i2wpJCDtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WWB1HQ-it'
+slug: 'B078WWB1HQ-it Nike Wmns Internationalist  Scarpe Running Donna  Multicolore  Black/Summit White/Anthracite/Sail 021   36 EU'
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

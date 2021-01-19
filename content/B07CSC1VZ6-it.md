@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rmMsWnyoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSC1VZ6-it'
+slug: 'B07CSC1VZ6-it Swiffer Sweeper - Salviette asciutte/umide  kit di avvio per pavimento/parquet'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

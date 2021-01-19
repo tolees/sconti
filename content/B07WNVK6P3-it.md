@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SkjscRTeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNVK6P3-it'
+slug: 'B07WNVK6P3-it Mini Telecamera Spia Nascosta NIYPS Full HD 1080P Portatile Micro Spy Cam Sorveglianza con Visione Notturna Sensore di Movimento y Batteria Senza Fili Piccola Microcamere Spia per Esterno/Interno'
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

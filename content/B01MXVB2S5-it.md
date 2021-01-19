@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RSn1ZXdEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXVB2S5-it'
+slug: 'B01MXVB2S5-it Fossil Orologio Quarzo Uomo con Cinturino in Acciaio Inox FS5236'
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

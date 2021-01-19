@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kLTZlcnDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BBCHY3G-it'
+slug: 'B01BBCHY3G-it Soozier HOMCOM Tapis Roulant Elettrico con Schermo LCD Pieghevole 500W Fino a 10km'
 actualPrice: 207.96 EUR
 currency: EUR
 price: 207.96

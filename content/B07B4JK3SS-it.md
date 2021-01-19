@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PXdWykVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4JK3SS-it'
+slug: 'B07B4JK3SS-it Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker  Uomo  Blu  Dark Sapphire  Tb0a1u634331   50 EU  14.5 UK '
 actualPrice: 74.93 EUR
 currency: EUR
 price: 74.93

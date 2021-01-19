@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cf0ivKPAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4WBTY1-it'
+slug: 'B07S4WBTY1-it Levi s Relaxed Graphic Felpa  Bianco  Crew Box Tab White+ 0092   Large Donna'
 actualPrice: 27.66 EUR
 currency: EUR
 price: 27.66

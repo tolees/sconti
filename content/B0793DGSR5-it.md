@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hUtN89CVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793DGSR5-it'
+slug: 'B0793DGSR5-it Saucony Jazz Original Vintage  Sneakers Uomo  Blu Nvy Gld 22  44 EU'
 actualPrice: 57.86 EUR
 currency: EUR
 price: 57.86

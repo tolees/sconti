@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313zX4qti6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KDBC1L7-it'
+slug: 'B07KDBC1L7-it Echo Show 5 – Resta sempre in contatto con l aiuto di Alexa  Bianco'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

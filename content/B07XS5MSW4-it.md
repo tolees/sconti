@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nDbx4N7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS5MSW4-it'
+slug: 'B07XS5MSW4-it Apple iPhone 11  128GB  - Verde'
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

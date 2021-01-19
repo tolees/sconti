@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KwQyYN+UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000ORVWN8-it'
+slug: 'B000ORVWN8-it Max Factor Rossetto Lipfinity  190 Indulgent - 4.2 gr'
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

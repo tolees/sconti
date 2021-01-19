@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZyX-3Wt2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JYG8J1-it'
+slug: 'B072JYG8J1-it OMEN by HP Omen 800 Cuffia Gaming con Microfono Regolabile e Retrattile  Rivestita in Pelle  Multipiattaforma  Jack 3 5 mm  Compatibile con PC  PS4 e Xbox 1  Cavo Resistente a Maglia Intrecciata'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410Yl-zZHhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FHJ5SK-it'
+slug: 'B083FHJ5SK-it Lacoste L1212 Polo  Panorama  M Uomo'
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

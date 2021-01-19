@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4184oIAChYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBCK14Y-it'
+slug: 'B07YBCK14Y-it JACK & JONES Jjarchie Knit Crew Neck KA Felpa  Blu  Total Eclipse Pattern: Cloud Dancer   XX-Large Uomo'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

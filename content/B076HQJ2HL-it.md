@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SMXQ4WpYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQJ2HL-it'
+slug: 'B076HQJ2HL-it Adidas Football App Generic  Tracksuit Jacket Uomo  Blu  Azzurro/Bianco   L'
 actualPrice: 24.76 EUR
 currency: EUR
 price: 24.76

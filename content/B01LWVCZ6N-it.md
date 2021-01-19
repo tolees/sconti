@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cQt5LLy3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWVCZ6N-it'
+slug: 'B01LWVCZ6N-it Seagate IronWolf  Unità SATA da 6 Gbit/s da 2 TB  HDD  CMR 3 5" 5.900 giri/min  Cache da 256 MB per NAS con Sistema RAID  Pacchetto di Facile Apertura  ST2000VN004 '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

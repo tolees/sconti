@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zR3walT6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DN9FW08-it'
+slug: 'B00DN9FW08-it Multicomplex Sport - 10 Buste'
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

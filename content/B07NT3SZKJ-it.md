@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5140VPudTlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NT3SZKJ-it'
+slug: 'B07NT3SZKJ-it 3 Pack 7 Gallon Sacchetto di piantatura Patata Zilong Sacchi per Piante di Tessuto Non Tessuto con Finestra visualizzata  Grandi vasi per ortaggi e Piante da Giardino  36*28cm '
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l+FPg5SWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W5KYR22-it'
+slug: 'B06W5KYR22-it Kenwood KMX750WH Impastatrice Planetaria Kitchen Machine kMix  Robot da Cucina Mixer  1000 W  6 velocità  5 Litri  Acciaio  Plastica  Bianco'
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

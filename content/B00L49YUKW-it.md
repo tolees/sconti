@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417GWPAAw2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L49YUKW-it'
+slug: 'B00L49YUKW-it Poly Pool PP1615 Racchetta Elettronica Fulmina Insetti'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

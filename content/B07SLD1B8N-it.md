@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51V5dliZH+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLD1B8N-it'
+slug: 'B07SLD1B8N-it Equilibra - Pappa Reale Fresca'
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

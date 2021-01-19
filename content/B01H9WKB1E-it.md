@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oQ2wdBj1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H9WKB1E-it'
+slug: 'B01H9WKB1E-it Science in Sport SiS Go Energy Barretta Energetica  gusto Cioccolato - confezione da 30 x 40g'
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

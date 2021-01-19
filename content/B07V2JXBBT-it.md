@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Uv-4QxTuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2JXBBT-it'
+slug: 'B07V2JXBBT-it Lacoste L1264 Polo  Vite Cinese  S Uomo'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

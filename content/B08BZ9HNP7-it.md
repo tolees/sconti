@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313cIGGH3WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZ9HNP7-it'
+slug: 'B08BZ9HNP7-it Vansuny Ultra Slim Super Mini Portable SSD 1 TB 550 MB/s USB 3.1 & Type C Solid State Drive Disco rigido esterno per smartphone  tablet  laptop  Mac OS  Windows  iPad Pro  MacBook Pro  Xbox  nero'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

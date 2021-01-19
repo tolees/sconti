@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LRaH+4zoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZDGP54-it'
+slug: 'B08BZDGP54-it sunvito Set 24 Matite Colorate  Color Pencils con Soft Core per Libri da colorare per Adulti Artista Drawing Sketching Crafting Shading  24 Colori Vivaci con Scatola di Metallo'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

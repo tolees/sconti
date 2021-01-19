@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nMfkTsHrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TC5DZTS-it'
+slug: 'B07TC5DZTS-it TCL | 43EP641 | Android TV con Assistente Google: Risoluzione 4k HDR  Accesso a Google Play Store  Dolby Audio integrato. Colore: Titanio  43 Pollici  Classe energetica A+ '
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

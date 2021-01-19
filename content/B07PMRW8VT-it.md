@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AiuqaqeiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMRW8VT-it'
+slug: 'B07PMRW8VT-it rolimate Pista da Corsa Pista di rampa in Legno a 5 Livelli Pista di commutazione con Auto a 5 velocità  Montessori Educativi Pista per Macchinine in Legno Set  Regalo di Compleanno per 3 4 5+ Anni'
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

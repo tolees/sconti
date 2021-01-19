@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I5Vg7g1UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K919BLJ-it'
+slug: 'B07K919BLJ-it POC Omne Air Spin  Helmet Unisex – Adulto  Zink Orange Avip  M / 54-59 cm'
 actualPrice: 129.28 EUR
 currency: EUR
 price: 129.28

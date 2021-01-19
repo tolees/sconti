@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31czLgg9sOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL29RC8-it'
+slug: 'B07HL29RC8-it Amazon Essentials - Confezione da 3 camicie da notte per neonati  Uni Stars  US 0-6M  EU 56-68 '
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

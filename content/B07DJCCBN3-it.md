@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jFteJvLxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJCCBN3-it'
+slug: 'B07DJCCBN3-it Calvin Klein Core Institutional Logo Slim Tee Maglietta  Bianco  Bright White 112   L Uomo'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MPqYpglQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089B8S4GY-it'
+slug: 'B089B8S4GY-it CARPISA® Borsa shopping a spalla bicolore - Nantes'
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

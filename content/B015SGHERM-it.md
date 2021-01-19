@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J7SD5olWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SGHERM-it'
+slug: 'B015SGHERM-it Havaianas You Metallic  Infradito Donna   Sand Grey/Light Golden   41/42 EU'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-DlloSKlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MAZM6RW-it'
+slug: 'B01MAZM6RW-it Rio Mare Tonno all Olio di Oliva Pescato a Canna  24 Lattine da 80 g'
 actualPrice: 25.08 EUR
 currency: EUR
 price: 25.08

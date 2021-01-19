@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MHyYSdV0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RD45MK-it'
+slug: 'B081RD45MK-it Neewer Treppiedi per Smartphone 137cm da Viaggio con Telecomando  Supporto Clip & Testa a Sfera a 3 Modi  Compatibile con Fotocamere  Gopro  Android  iPhone11/Xs/Xr/Xs Max/X/8  Galaxy Note 9'
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

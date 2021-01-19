@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EKNW-DdkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFM66BV-it'
+slug: 'B07TFM66BV-it Unità Flash Lexar JumpDrive Fingerprint F35 USB 3.0'
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

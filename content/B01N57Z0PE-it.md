@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H2gNzg9FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N57Z0PE-it'
+slug: 'B01N57Z0PE-it Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   FR 10'
 actualPrice: 75.49 EUR
 currency: EUR
 price: 75.49

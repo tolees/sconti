@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31exMw7z+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L75PLGL-it'
+slug: 'B07L75PLGL-it GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina Nero con Beccuccio Flessibile  Miscelatore Monocomando per Cucina  G3/8 Pollici   Cromo'
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

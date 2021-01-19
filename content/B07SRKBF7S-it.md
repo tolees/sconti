@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lJmsSLN6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRKBF7S-it'
+slug: 'B07SRKBF7S-it Geox D Jaysen A  Scarpe da Ginnastica Basse Donna  Bianco  White/Orange C0422   40 EU'
 actualPrice: 43.23 EUR
 currency: EUR
 price: 43.23

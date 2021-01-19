@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XuIG7963L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G9WHMHM-it'
+slug: 'B00G9WHMHM-it Kingston DataTraveler G4 DTIG4/128GB PenDrive  USB 3.0  128 GB  Bianco/Verde'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

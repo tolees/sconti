@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLLGD12-it'
+slug: 'B07TLLGD12-it Superdry Zip Hood Cappuccio  Grigio  Collective Dark Grey Grit 9ss   L Uomo'
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

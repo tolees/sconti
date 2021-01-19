@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311XIneEttL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZ4KQL4-it'
+slug: 'B08BZ4KQL4-it Borraccia Acciaio Inox 450ml Bottiglia Termica  Riutilizzabile Bottiglia Acqua in Acciaio Inox Doppia Parete a Prova di Perdite Bottiglia per Fitness Scuola Universita Gym Sport - Nero'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rez9WWtoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFX513M-it'
+slug: 'B06XFX513M-it Finish Pastiglie Lavastoviglie All in 1 Max  Limone  110 Tabs'
 actualPrice: 13.17 EUR
 currency: EUR
 price: 13.17

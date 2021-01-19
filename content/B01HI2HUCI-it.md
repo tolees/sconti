@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZOTzoypYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HI2HUCI-it'
+slug: 'B01HI2HUCI-it Level Fly  Guanto da Snowboard Uomo  PK Nero  8.5 - ML'
 actualPrice: 60.22 EUR
 currency: EUR
 price: 60.22

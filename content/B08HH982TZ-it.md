@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bK0mjsFKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HH982TZ-it'
+slug: 'B08HH982TZ-it BOUDECH Space 1800 - Tapis Roulant Elettrico 1800W Pieghevole Ultra Piatto con Display Touch Screen  Supporto per iPad  Speakers Bluetooth  App System e cardiofrequenzimetro.'
 actualPrice: 559.99 EUR
 currency: EUR
 price: 559.99

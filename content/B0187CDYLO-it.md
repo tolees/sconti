@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416fL0Y+qsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0187CDYLO-it'
+slug: 'B0187CDYLO-it MySound Speak Street Cuffie Stereo Extra Bass  Microfono e Tasto di Risposta  Nero'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

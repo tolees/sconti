@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Hiw+K0rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QW8LR-it'
+slug: 'B07S7QW8LR-it Puma Ascend  Scarpe da Ginnastica Unisex-Adulto  Nero Black White/High Risk Red  40.5 EU'
 actualPrice: 27.81 EUR
 currency: EUR
 price: 27.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513EMgFi+AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CLAF5CU-it'
+slug: 'B00CLAF5CU-it Aperol Spritz Ml.175  Pacco da 3 '
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZX030M-it'
+slug: 'B01MZX030M-it New Balance 373 Core U  Scarpe Trainers Uomo  Rosso  Burgundy   42.5 EU'
 actualPrice: 50.2 EUR
 currency: EUR
 price: 50.2

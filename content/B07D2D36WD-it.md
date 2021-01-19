@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IM38hZ3uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2D36WD-it'
+slug: 'B07D2D36WD-it È Pura - Maschera Blonde Care - Trattamento Professionale Intensivo Antigiallo per Capelli Biondi e con Meches - 300 ml'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

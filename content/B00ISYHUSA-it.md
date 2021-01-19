@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yknCYr8QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ISYHUSA-it'
+slug: 'B00ISYHUSA-it Set Accessori Aria Compressa Kit 8 Pneumatic Stanley'
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

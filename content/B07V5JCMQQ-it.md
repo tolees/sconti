@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PufpgtMIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5JCMQQ-it'
+slug: 'B07V5JCMQQ-it PS4 Joystick Controller  PS4 Wireless Controller Dualshock Playstation 4 Gaming Joystick Bluetooth Gamepad Controller  Classici Sony Playstation 4 Wireless Joystick'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

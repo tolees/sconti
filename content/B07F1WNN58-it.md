@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Pa5f3w3nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1WNN58-it'
+slug: 'B07F1WNN58-it Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Blu  Dark Blue Canvas   47.5 EU'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

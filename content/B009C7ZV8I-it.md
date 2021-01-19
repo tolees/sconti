@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Na5C5whML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009C7ZV8I-it'
+slug: 'B009C7ZV8I-it JBL  biocondizionatore per Pesci Rossi Biotopol R  Confezione da 250 ml'
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

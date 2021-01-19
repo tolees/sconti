@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414lQWiI11L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VWZMZ9-it'
+slug: 'B073VWZMZ9-it Havaianas Slim 4000030 Infradito Donna  Giallo  Banana Yellow   39/40 EU'
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

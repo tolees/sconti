@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412IExgK1OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1T5RN5-it'
+slug: 'B07X1T5RN5-it Eastpak The One Borsa A Tracolla  21 cm  2.5 L  Rosa  Salty Pink '
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

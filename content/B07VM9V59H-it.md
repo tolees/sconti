@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51REyHOH2XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VM9V59H-it'
+slug: 'B07VM9V59H-it Asus ROG Strix GeForce RTX 2080 SUPER Advanced Edition 8 GB GDDR6  Scheda Video Gaming  LED RGB  Aura Sync e Dissipatore Triventola per Gaming  Alti Refresh Rate e VR'
 actualPrice: 808.89 EUR
 currency: EUR
 price: 808.89

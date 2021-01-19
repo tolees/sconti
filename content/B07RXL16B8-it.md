@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iybT-KIoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXL16B8-it'
+slug: 'B07RXL16B8-it Levi s The Jacket Giacca  Blu  Pale Shade Indigo Stretch Trucker 0468   X-Large Uomo'
 actualPrice: 54.55 EUR
 currency: EUR
 price: 54.55

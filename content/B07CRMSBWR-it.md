@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hoBA45VOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRMSBWR-it'
+slug: 'B07CRMSBWR-it Bombe da bagno a forma di unicorno.'
 actualPrice: 9.24 EUR
 currency: EUR
 price: 9.24

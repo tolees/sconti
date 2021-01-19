@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kqv0yRyTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNCGXHK-it'
+slug: 'B07PNCGXHK-it Ardes Penny AR5AM40 Ventilatore da Tavolo  3 Pale 40 cm con Oscillazione e Inclinazione Regolabile  3 velocità'
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

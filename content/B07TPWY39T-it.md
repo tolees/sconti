@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s1MS7b3tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPWY39T-it'
+slug: 'B07TPWY39T-it United Colors of Benetton 2GK653EH8 Cappotto  Nero  Nero 100   M Uomo'
 actualPrice: 27.16 EUR
 currency: EUR
 price: 27.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fNn1nMsUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AIHY66I-it'
+slug: 'B01AIHY66I-it UGG Female Classic Short II Classic Boot  Black  5  UK '
 actualPrice: 120.78 EUR
 currency: EUR
 price: 120.78

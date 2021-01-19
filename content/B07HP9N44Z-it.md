@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IRggikW9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HP9N44Z-it'
+slug: 'B07HP9N44Z-it Brondi Amico Fedele  Telefono cellulare GSM per anziani con tasti grandi  tasto SOS e funzione da remoto  dual SIM  volume alto  Dual Sim Nero'
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

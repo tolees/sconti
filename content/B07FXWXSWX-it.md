@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qWWA1BUhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXWXSWX-it'
+slug: 'B07FXWXSWX-it Champion Performance Crew  Calze Sport Uomo  Multicolore  Blanc Logo Colore 8lv   43/46  Pacco da 6 '
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

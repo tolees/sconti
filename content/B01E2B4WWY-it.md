@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ewhyibNoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E2B4WWY-it'
+slug: 'B01E2B4WWY-it VERO MODA VMJULIA LS BLAZER DNM NOOS  Blazer Donna  Blu  Total Eclipse   42'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

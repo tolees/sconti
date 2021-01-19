@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317X6OHNY8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XT57C-it'
+slug: 'B07V7XT57C-it Tommy Hilfiger Corporate Material Mix Runner  Scarpe da Ginnastica Basse Uomo  Bianco  White Ybs   46 EU'
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

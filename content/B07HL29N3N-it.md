@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rOQ-eTdFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL29N3N-it'
+slug: 'B07HL29N3N-it Kids cuffie  Riwbox ct-7s 85DB volume Limiting cuffie Bluetooth protezione acustica  LED light up Kids wireless cuffie over Ear con microfono per iPhone/iPad/Kindle/laptop/PC/TV Purple&Green'
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

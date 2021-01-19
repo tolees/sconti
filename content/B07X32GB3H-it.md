@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SyTkKMiJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X32GB3H-it'
+slug: 'B07X32GB3H-it MILLET Extreme RUTOR Shield PT  Pantaloni Uomo  Orion Blue  Blu   M'
 actualPrice: 123.17 EUR
 currency: EUR
 price: 123.17

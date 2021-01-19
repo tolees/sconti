@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317lqqNtv0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2PSPY-it'
+slug: 'B07DJ2PSPY-it Geox U KAVEN A  Scarpe da Ginnastica Basse Uomo  Bianco  Papyrus/White C1S1Z   42 EU'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

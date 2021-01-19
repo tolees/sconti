@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V3Z6zf5FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFMD2XV-it'
+slug: 'B07DFMD2XV-it Guess Vikky Slg Large Zip Around Portamonete  Donna  Nero  Taglia Unica'
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

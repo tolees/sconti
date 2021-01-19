@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V6Pk8iqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJCXG47-it'
+slug: 'B07CJCXG47-it L Oréal Paris  Rossetto Matte Liquido Tinta Labbra a Lunga Tenuta  Collezione Les Chocolats  Confezione Singola  868 Cacao Crush'
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

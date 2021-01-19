@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61J4g8BwJML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7H2W4Q-it'
+slug: 'B07P7H2W4Q-it Kingdom Hearts: The Story so far - PlayStation 4 [Edizione: Regno Unito]'
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

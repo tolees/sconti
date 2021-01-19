@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rW6oDtBSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HE5NE0Q-it'
+slug: 'B01HE5NE0Q-it Adidas Vs Pace  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Negbás/Azul 000   44 EU'
 actualPrice: 41.59 EUR
 currency: EUR
 price: 41.59

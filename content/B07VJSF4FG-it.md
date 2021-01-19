@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wz7q0rBYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJSF4FG-it'
+slug: 'B07VJSF4FG-it Desigual - Borsa da donna Bols Logo Patch Merlo con manico  17 6 x 31 8 x 33 cm  colore: Beige'
 actualPrice: 24.31 EUR
 currency: EUR
 price: 24.31

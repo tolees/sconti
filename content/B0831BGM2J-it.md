@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wI9-zgH5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831BGM2J-it'
+slug: 'B0831BGM2J-it Tester PH/TDS&EC  Eletorot 4 in 1 tester elettronico di qualità dell acqua misuratore ph tester digitale  test durezza acqua schermo LCD per piscina  acquario'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

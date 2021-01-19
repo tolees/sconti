@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xsKTk76yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1JTP8N-it'
+slug: 'B08B1JTP8N-it jpantech Smartwatch Orologio Fitness Uomo Donna Impermeabile IP68 Smart Watch Cardiofrequenzimetro da Polso Contapassi Smartband Activity Tracker Bambini Cronometro per Android iOS（Nero）'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

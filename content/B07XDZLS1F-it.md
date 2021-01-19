@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417Mn4+s1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDZLS1F-it'
+slug: 'B07XDZLS1F-it Puma CB  Giacca A Vento Uomo  Black  L'
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

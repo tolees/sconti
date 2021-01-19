@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FIhFIWFyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRKNBHJ-it'
+slug: 'B07XRKNBHJ-it Bilancia Pesapersone Digitali Vigorun Bilance Grassa Bluetooth BMI Analizzatore di Composizione Corporea con App  18 Indici di Corporea  lavorare con Fitbit Google Fit'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

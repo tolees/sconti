@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21qEp8GPAML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004I8V1SK-it'
+slug: 'B004I8V1SK-it Tescoma Pinza Da Cucina'
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

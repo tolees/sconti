@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iXdiYzcWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMP1V-it'
+slug: 'B07TLFMP1V-it Levi s Crewneck 1 T-Shirt  Multicolore  2pk Slim Crew Riverside/Earth Red 0008   Large  Pacco da 2  Uomo'
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J3rotyQkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZL5QC4-it'
+slug: 'B078ZL5QC4-it Techly 103113 Multipresa 6 Posti Italiana Bipasso con Protezione da sovraccarico Bianca Bianco'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P5H3k54aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814SSZZJ-it'
+slug: 'B0814SSZZJ-it Under Armour UA Tech  Pantaloni Uomo  Blu  Taglia Unica'
 actualPrice: 21.14 EUR
 currency: EUR
 price: 21.14

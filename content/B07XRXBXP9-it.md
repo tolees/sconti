@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Wt1PRN3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRXBXP9-it'
+slug: 'B07XRXBXP9-it CARPISA® Borsa a secchiello - Jordy'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

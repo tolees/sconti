@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xNluaZZXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00588YUKA-it'
+slug: 'B00588YUKA-it Kleenex 6789 Asciugamani piegati  15 confezioni da 186 fogli di carta  2 veli  Tecnologia Airflex*  Colore:  Bianco  06789100'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

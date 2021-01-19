@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Zy7fyEu2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXZV9K2-it'
+slug: 'B07FXZV9K2-it Havaianas Top Tiras  Infradito Donna  Oro  Rose Nude 7939   37/38 EU'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

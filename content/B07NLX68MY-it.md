@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLX68MY-it'
+slug: 'B07NLX68MY-it Nike Revolution 5  Scarpe da Corsa Mens  Black/White-Anthracite  39 EU'
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

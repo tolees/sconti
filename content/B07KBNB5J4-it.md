@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WqEaqPOgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBNB5J4-it'
+slug: 'B07KBNB5J4-it Airoh AVIATOR 2.3 BIGGER BLUE GLOSS M'
 actualPrice: 441.47 EUR
 currency: EUR
 price: 441.47

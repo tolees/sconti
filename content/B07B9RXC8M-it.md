@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nf+YsL8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9RXC8M-it'
+slug: 'B07B9RXC8M-it Canon Italia EOS 4000D + EF-S DC III Fotocamera Reflex  Nero  Lunghezza Focale 18-55 mm'
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

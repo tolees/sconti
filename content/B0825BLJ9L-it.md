@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ncy9J1OKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825BLJ9L-it'
+slug: 'B0825BLJ9L-it National Geographic Travel Kit Treppiede con Monopiede  Fibra di Carbonio  Gambe 5 Sezioni  Twist Lock  Carico Fino a 8 kg  Sacca  Testa a Sfera  Sgancio Rapido  NGTR004TCF'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

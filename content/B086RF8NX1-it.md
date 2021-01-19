@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H3wmtb4-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086RF8NX1-it'
+slug: 'B086RF8NX1-it Bud Birra  Bottiglia - Pacco da 24 x 330 ml'
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

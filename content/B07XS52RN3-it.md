@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nsEL61+zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS52RN3-it'
+slug: 'B07XS52RN3-it Apple iPhone 11 Pro Max  64GB  - Grigio Siderale'
 actualPrice: 1089.0 EUR
 currency: EUR
 price: 1089.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41quLeFtJVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088CYKQCN-it'
+slug: 'B088CYKQCN-it XLTOK Cavo USB Type C  [3Pezzi  1m+1m+2m] Cavo tipo C di Ricarica Trasmissione per Samsung S10 / S9 / S8 / Note8  Huawei P20  P30  Honor 10  OnePlus 6T  Xiaomi MIX 2  Moto G6  Nintendo Switch'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

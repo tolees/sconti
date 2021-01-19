@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W+wq3EHYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1P46JR-it'
+slug: 'B07S1P46JR-it Levi s 501 Crop Jeans Boyfriend  Jive Stonewash 0073  23W / 26L Donna'
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

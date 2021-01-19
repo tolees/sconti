@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O6VBdL2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZLPHGD-it'
+slug: 'B07MZLPHGD-it Head & Shoulders Shampoo Antiforfora Suprême Ripara  con Olio di Argan  con Ingredienti Sublimatori  225 m'
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

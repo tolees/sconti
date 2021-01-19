@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418PWmRwniL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D9C8QY2-it'
+slug: 'B08D9C8QY2-it Auricolare Bluetooth Senza Fili Cuffie Wireless Stereo 3D with IPX5 Impermeabile cuffie sportive wireless reali  Accoppiamento automatico Auricolare Bluetooth con scatola di ricarica'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

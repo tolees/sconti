@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wE-cHyTrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DRY4FZ-it'
+slug: 'B075DRY4FZ-it homcom Tavolo Multi Gioco 4 in 1 con Calcio Balilla  Hockey da Tavolo  Ping Pong e Biliardo in Legno MDF  87 x 43 x 73cm'
 actualPrice: 71.96 EUR
 currency: EUR
 price: 71.96

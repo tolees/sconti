@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JndGPqR3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6NHFT8-it'
+slug: 'B07W6NHFT8-it Tommy Hilfiger Slim F in Puro Cotone M Maglietta Polo  Grigio  Medium Grey Heather   Large Uomo'
 actualPrice: 43.13 EUR
 currency: EUR
 price: 43.13

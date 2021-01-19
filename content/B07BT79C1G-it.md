@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l3dx8RYoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BT79C1G-it'
+slug: 'B07BT79C1G-it BATHWA Specchio Ingranditore con Luce LED  Specchietti da Trucco a Parete Bilaterali a LED  Girevole Orizzontali a 360 ° e Verticali  Cromato in Metallo  Lente d Ingrandimento 5X e Specchio Piatto'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

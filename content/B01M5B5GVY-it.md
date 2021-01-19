@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TM7vOviHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5B5GVY-it'
+slug: 'B01M5B5GVY-it Roccobarocco White Eau De Parfum Donna - 100 gr'
 actualPrice: 19.83 EUR
 currency: EUR
 price: 19.83

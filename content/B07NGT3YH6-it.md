@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zbk767pqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGT3YH6-it'
+slug: 'B07NGT3YH6-it Calvin Klein Hip Brief 3pk Boxer Uomo  Confezione da 3  Nero  B -NAVY SEAL /RASP JAM /WHITE WB KL5   Medium'
 actualPrice: 29.1 EUR
 currency: EUR
 price: 29.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tPAyvQ2CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I3G46MQ-it'
+slug: 'B00I3G46MQ-it Vans Herren Otw Raglan T-Shirt  Mehrfarbig  WHITE-BLACK YB2   Small'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

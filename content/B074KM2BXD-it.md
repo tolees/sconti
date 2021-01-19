@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jJ8rkTugL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KM2BXD-it'
+slug: 'B074KM2BXD-it Lavazza Capsule Caffè A Modo Mio Gingseng  10 Confezioni da 12 Capsule [120 Capsule]'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

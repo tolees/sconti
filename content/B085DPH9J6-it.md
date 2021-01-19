@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UBLSRUUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DPH9J6-it'
+slug: 'B085DPH9J6-it Lampada da Scrivania  lampada da tavolo con funzione di protezione degli occhi  lampada con 10 livelli di luminosità  5 modalità di illuminazione  tocca controllo  porta di ricarica USB'
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

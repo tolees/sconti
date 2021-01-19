@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kVoONHRgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCZR28K-it'
+slug: 'B07SCZR28K-it PUMA Ralph Sampson Lo  Scarpe da Ginnastica Uomo  Bianca White Black White  39 EU'
 actualPrice: 29.07 EUR
 currency: EUR
 price: 29.07

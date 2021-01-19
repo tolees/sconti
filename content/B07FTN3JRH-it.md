@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51brBy4aTWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTN3JRH-it'
+slug: 'B07FTN3JRH-it Avvitatore Elettrico  TECCPO 6Nm Cacciavite Elettrico  9+1 Coppia di Serraggio  45 Punte  2000mAh Li-ion 3 6V  2 Diversi Angolazione a Piegare  Luce a LED  Migliore Regalo di DIY -TDSC01P'
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

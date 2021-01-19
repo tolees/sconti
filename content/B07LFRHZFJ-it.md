@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c5wmPyjzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRHZFJ-it'
+slug: 'B07LFRHZFJ-it Geox U Jaylon E  Stivali Classici Uomo  Marrone  Dk Coffee C6024   45 EU'
 actualPrice: 39.63 EUR
 currency: EUR
 price: 39.63

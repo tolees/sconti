@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41indAXuaoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4WC5Q-it'
+slug: 'B07VC4WC5Q-it Calvin Klein Nylon Harrington Giacca sportiva  Nero  Ck Black Bae   Small Uomo'
 actualPrice: 46.9 EUR
 currency: EUR
 price: 46.9

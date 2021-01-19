@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412b5kAcPCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K2K3SB-it'
+slug: 'B072K2K3SB-it Yves Saint Laurent e Eau de Toilette 100 ml'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

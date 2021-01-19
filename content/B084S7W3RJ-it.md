@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nl737LuCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084S7W3RJ-it'
+slug: 'B084S7W3RJ-it Samsung Galaxy S20 Smartphone  Display 6.2" Dynamic AMOLED 2X  3 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  Batteria 4000 mAh  Hybrid SIM/eSIM  [Versione Italiana]  Cloud Pink'
 actualPrice: 639.0 EUR
 currency: EUR
 price: 639.0

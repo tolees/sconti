@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RlTTHdR1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7CL5M9-it'
+slug: 'B07N7CL5M9-it Inglesina AA30L6MAR System Zippy Pro Sistema Trio 3 in 1 con Carrozzina  Passeggino  Seggiolino Auto  Telaio e Borsa da 0 a 15 Kg  Marina'
 actualPrice: 445.0 EUR
 currency: EUR
 price: 445.0

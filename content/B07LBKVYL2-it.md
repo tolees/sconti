@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H5IBOPHoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBKVYL2-it'
+slug: 'B07LBKVYL2-it Tommy Hilfiger Medium Drawstring Pantaloncini  Rosso  Red 611   X-Large Uomo'
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

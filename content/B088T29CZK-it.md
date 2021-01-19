@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413hXbX5kxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088T29CZK-it'
+slug: 'B088T29CZK-it Tablet Android 8.1 Tablet da 10 pollici con processore quad-core da 64 GB con lo schermo IPS HD  Tablet famiglia con  GPS  FM  WiFi 5G  Corpo in Metallo  Black '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

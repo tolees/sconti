@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41djZBW0Q6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FCY5T8J-it'
+slug: 'B08FCY5T8J-it Pawhut Divano per Animali  Cuscino Rivestito in gommapiuma Rimovibile Base in Metallo  Cane di Taglia Piccola o Gatti  Blu  63.5 x 43 x 24.5cm'
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

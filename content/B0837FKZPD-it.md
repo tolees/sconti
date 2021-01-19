@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ozgaB24ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0837FKZPD-it'
+slug: 'B0837FKZPD-it Fast & Furious: Crossroads PS4 - PlayStation 4 [versione UK]'
 actualPrice: 51.64 EUR
 currency: EUR
 price: 51.64

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318EbNz9BlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8WL7WJ-it'
+slug: 'B07W8WL7WJ-it Cooler Master MM710 Mouse Gaming Ultraleggero 53g Cavo Flessibile - Sensore Ottico16000 DPI  Membrane Omron 20 Milioni Clic  Piedini PTFE Glide Liscio  Struttura Nido d Ape – Nero Opaco'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

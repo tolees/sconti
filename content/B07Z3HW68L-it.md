@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mZya5hKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3HW68L-it'
+slug: 'B07Z3HW68L-it GALAX PRO 20V Utensile Multifunzione  5000-18000OPM Strumento Oscillante 20V Batteria Agli Ioni di Litio da 1.3Ah con 14 Accessori'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

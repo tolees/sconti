@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A4BKjG+ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H56H7WV-it'
+slug: 'B08H56H7WV-it Aerku Cover Silicone per Samsung Galaxy M51  Morbido Silicone Gel TPU Cover Cristallo [Trasparente] [Sottile] Slim Anti Scivolo Antiurto Custodie Protettivo Case TPU Cover per Samsung Galaxy M51'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

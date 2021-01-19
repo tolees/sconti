@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m1Le8c9xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CQX2ZQU-it'
+slug: 'B01CQX2ZQU-it Moulinex OX4448 Optimo Forno Elettrico con Capacità  di 19 L  Potenza 1380 W  Nero 71x117x81cm'
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21JqKcrm2ZL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2XFG2X-it'
+slug: 'B07C2XFG2X-it Cecotec - Bake&Toast  Forno elettrico da tavolo  capacità di 10 litri 450 Nero'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

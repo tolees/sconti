@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OVjd7peiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TT9GRM-it'
+slug: 'B081TT9GRM-it adidas Cropped Hood'
 actualPrice: 30.33 EUR
 currency: EUR
 price: 30.33

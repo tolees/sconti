@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61SMbcgC-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FB17ZK9-it'
+slug: 'B07FB17ZK9-it Assassin s Creed 4 Black Flag - Hits-PlayStation 4'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NT0F+2BzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL5TL3S-it'
+slug: 'B07HL5TL3S-it Skagen Orologio Digitale Uomo con Cinturino in Silicone SKT5100'
 actualPrice: 207.26 EUR
 currency: EUR
 price: 207.26

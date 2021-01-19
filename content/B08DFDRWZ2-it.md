@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l3JP4lH6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFDRWZ2-it'
+slug: 'B08DFDRWZ2-it Auricolari Bluetooth TWS i12 Suono Stereo 3D Tocca Controllo Pop-Ups Auto Pairing 24 Ore di Riproduzione Carica Rapida IPX7 Impermeabile Cuffie Senza Fili per Sport e Musica Bianco'
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

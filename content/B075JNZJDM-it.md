@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Bh5HBRjWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JNZJDM-it'
+slug: 'B075JNZJDM-it United Colors of Benetton 6HEDUB0A2 Cintura  Nero  Nero 901   95  Taglia produttore:M  Uomo'
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nFndZubJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4NWHN4-it'
+slug: 'B07V4NWHN4-it ORZLY® Gaming Keyboard And Mouse And Mouse Pad And Gaming Headset  Wired LED RGB Backlight Bundle for PC Gamers And Xbox And PS4 Users - 4 in 1 Gift Box Edition Hornet RX-250'
 actualPrice: 59.83 EUR
 currency: EUR
 price: 59.83

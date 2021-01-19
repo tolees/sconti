@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419TSAyQhNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWSR51J-it'
+slug: 'B07TWSR51J-it KiplingImaliDonnaPortafogliArgento  Metallic Glow 19x10x1 Centimeters  B x H x T '
 actualPrice: 17.77 EUR
 currency: EUR
 price: 17.77

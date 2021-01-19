@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QC-RfwP2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SXHWC9-it'
+slug: 'B078SXHWC9-it Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Nero  Black Canvas   44.5 EU'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

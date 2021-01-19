@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H71GhNqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WW9SBZB-it'
+slug: 'B06WW9SBZB-it Portapacchi Bici  Alluminio Bici posteriore Rack bicicletta portapacchi ciclismo reggisella Rack Mountain Bike Cargo'
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

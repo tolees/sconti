@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KZEDo6EWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGN6ND2-it'
+slug: 'B07DGN6ND2-it Timberland 6 in Double Collar Waterproof  Stivali Classici Uomo  Marrone  Dark Brown Nubuck D54   42 EU'
 actualPrice: 71.47 EUR
 currency: EUR
 price: 71.47

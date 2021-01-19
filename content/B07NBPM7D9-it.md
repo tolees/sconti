@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yotsvfkEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBPM7D9-it'
+slug: 'B07NBPM7D9-it adidas Adilette Shower  Scarpe da Ginnastica Uomo  Blu  True Blue/Ftwr White/True Blue   44.5 EU'
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

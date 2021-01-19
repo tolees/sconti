@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xE5H4zsSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6JQS8C-it'
+slug: 'B01N6JQS8C-it Kingston A400 SSD SA400S37/120G Unità a Stato Solido Interne 2.5" SATA  120 GB'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZRYRN2-it'
+slug: 'B077ZRYRN2-it YUCUN 2 5 pollici SATA III Unità a Stato Solido Interno R570 120GB SSD'
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

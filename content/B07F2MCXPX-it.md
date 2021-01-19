@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Vwq0m0KzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2MCXPX-it'
+slug: 'B07F2MCXPX-it Vans Left Chest Logo Tee T-Shirt Uomo  Nero  Black White Grey Melange   X-Large  113 - 122 cm '
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

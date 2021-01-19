@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416DaSXCYcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E36ZKXE-it'
+slug: 'B00E36ZKXE-it Trussardi My Name Eau de parfum spray 100 ml donna'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

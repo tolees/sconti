@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411TpcPeJdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG6Z71S-it'
+slug: 'B07KG6Z71S-it PUMA Ralph Sampson Lo  Sneakers Unisex-Adulto  Nero  Schwarz Black White White   44 EU'
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

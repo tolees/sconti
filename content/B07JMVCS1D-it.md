@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519RYWXCQ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMVCS1D-it'
+slug: 'B07JMVCS1D-it Cuscino Termico  Arealer - 30 x 60 CM Termoforo Elettrico Lavabile con 2 Terapia Secca & Umido + 3 Livelli di Temperatura + 90min Auto-Off  Cuscino Riscaldante in Flanella Morbida'
 actualPrice: 0.15 EUR
 currency: EUR
 price: 0.15

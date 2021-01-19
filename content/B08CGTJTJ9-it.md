@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v2QwJe-dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGTJTJ9-it'
+slug: 'B08CGTJTJ9-it YQHbe Apriscatole Manuale Go Swing  apriscatole Manuale di Sicurezza Facile  Utensili da Cucina Domestici per Uso Professionale'
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

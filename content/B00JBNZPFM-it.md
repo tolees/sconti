@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r1U4feHEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JBNZPFM-it'
+slug: 'B00JBNZPFM-it Karcher Aspiratore solidi-Liquidi - WD 3  Versione Spagnola '
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

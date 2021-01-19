@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417-DBq74EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BYWJW62-it'
+slug: 'B07BYWJW62-it Paco Rabanne Profumo - 100 Ml'
 actualPrice: 37.09 EUR
 currency: EUR
 price: 37.09

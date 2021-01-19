@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w6bJ7sicL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872RJTPH-it'
+slug: 'B0872RJTPH-it Auricolare Bluetooth Senza Fili  Cuffie Wireless Stereo 3D with IPX8 Impermeabile  Accoppiamento Automatico Per Chiamate Binaurali  Adatto Compatibile con iPhone/Android/Apple AirPods'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

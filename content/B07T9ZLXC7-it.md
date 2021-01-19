@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GscbsGc6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9ZLXC7-it'
+slug: 'B07T9ZLXC7-it Nike Air Max Excee U  Scarpe da Corsa Uomo  Bianco  White/Black/Pure Platinum   41 EU'
 actualPrice: 53.83 EUR
 currency: EUR
 price: 53.83

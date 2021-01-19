@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tmho5DBKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPKRD6C-it'
+slug: 'B07VPKRD6C-it Fossil Collana Donna con Cinturino in Acciaio Inossidabile JFS00472998'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

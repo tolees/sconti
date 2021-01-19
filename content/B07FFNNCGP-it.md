@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517XOPLdEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFNNCGP-it'
+slug: 'B07FFNNCGP-it KKmoon Finder Digitale Satellitare DVB-S2 V8 con Display Digitale LCD da 3 5 Pollici'
 actualPrice: 55.39 EUR
 currency: EUR
 price: 55.39

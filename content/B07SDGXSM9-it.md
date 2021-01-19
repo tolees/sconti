@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w-TN+TisL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDGXSM9-it'
+slug: 'B07SDGXSM9-it Control Xtra Lube  24 Profilattici Extra Lubrificati  Standard'
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

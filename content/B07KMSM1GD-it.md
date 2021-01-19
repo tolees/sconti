@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MZx4O-IPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMSM1GD-it'
+slug: 'B07KMSM1GD-it find. Round Toe Block Heel Leather Court Scarpe con Tacco  Blu Navy   38 EU'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

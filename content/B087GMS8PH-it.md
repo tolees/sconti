@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ADXD9DaPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087GMS8PH-it'
+slug: 'B087GMS8PH-it Ambi Pur Car Deodorante Auto Usa e Getta Anti Tabacco Mega Pack 6 x 2 ml'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

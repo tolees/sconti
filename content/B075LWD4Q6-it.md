@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sjkmV+N7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075LWD4Q6-it'
+slug: 'B075LWD4Q6-it Lavazza Espresso Decaffeinato Ricco - 10 Confezioni da 10 Capsule'
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

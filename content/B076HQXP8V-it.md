@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H8U6gniNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQXP8V-it'
+slug: 'B076HQXP8V-it adidas Core18 Rain Jacket  Giacca Sportiva. Uomo  Power Red/White  2XL'
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414BfHxIZiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS5MSS2-it'
+slug: 'B07XS5MSS2-it Apple iPhone 11 Pro  64GB  - Oro'
 actualPrice: 899.99 EUR
 currency: EUR
 price: 899.99

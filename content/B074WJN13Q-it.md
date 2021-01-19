@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AmFZTonSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WJN13Q-it'
+slug: 'B074WJN13Q-it Marchio Amazon - MERAKI Cardigan Lana Merino Uomo Scollo a V  Grigio  Charcoal Marl   3XL  Label: 3XL'
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EUUq8GQAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FL9C3P-it'
+slug: 'B083FL9C3P-it Proiettore WiFi  2020 Aggiornato Videoproiettore HD Wireless Nativo 720P Proiettore Home Theater 6000 Lumens con 200"  Proiettore LED per 78000 ore Compatibile con Android iOS TV Stick HDMI AV USB'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

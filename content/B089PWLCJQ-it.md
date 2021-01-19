@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dMVjJtTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089PWLCJQ-it'
+slug: 'B089PWLCJQ-it HD Webcam 1296P 3 MP con Microfono  USB Webcam Video Streaming PC Laptop Camera per Conferenze  Videochiamate  Streaming  Registrazione  Skype  Plug & Play  Clip Flessibile Regolabile'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

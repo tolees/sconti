@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QCTDc7yPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQ26KXD-it'
+slug: 'B07RQ26KXD-it L.O.L Surprise! - LOL Lils Winter Disco Series con 5 Sorprese - Giochi Preziosi  LLU85000'
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

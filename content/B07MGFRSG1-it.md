@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WRw9MWSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRSG1-it'
+slug: 'B07MGFRSG1-it NAPAPIJRI Burgee 2 Felpa con Cappuccio  Viola  Purple Wine V01   XXS Uomo'
 actualPrice: 32.77 EUR
 currency: EUR
 price: 32.77

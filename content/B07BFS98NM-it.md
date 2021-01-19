@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g7g6nlONL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFS98NM-it'
+slug: 'B07BFS98NM-it AUKEY Caricatore Wireless in Grafite - Caricabatterie Wireless per iPhone X/8/8 Plus  Samsung S9/S9+Note8/S8/S8+ ed Altri dispositivi compatibili con la Tecnologia Qi  Include Un Cavo'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

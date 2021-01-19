@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TS0WBcr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS4F74D-it'
+slug: 'B07XS4F74D-it Apple iPhone 11  128GB  - Bianco'
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

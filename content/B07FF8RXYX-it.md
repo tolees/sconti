@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41czNc9etvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FF8RXYX-it'
+slug: 'B07FF8RXYX-it HUAWEI Mediapad T5 Custodia Protettiva  Nero'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

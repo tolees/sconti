@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VQhBnBc-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GGDQBFL-it'
+slug: 'B08GGDQBFL-it homcom Mobile Alto da Bagno Colonna Design Compatto con scaffale Anta Singolo  in MDF  Bianco  40 x 35 x 164cm'
 actualPrice: 63.96 EUR
 currency: EUR
 price: 63.96

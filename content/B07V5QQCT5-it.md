@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bIxVNBTOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QQCT5-it'
+slug: 'B07V5QQCT5-it Tommy Hilfiger Corporate Material Mix Runner  Scarpe da Ginnastica Basse Uomo  Blu  Desert Sky Dw5   45 EU'
 actualPrice: 47.77 EUR
 currency: EUR
 price: 47.77

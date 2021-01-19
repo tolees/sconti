@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jJ2PeC5TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3XCL6X-it'
+slug: 'B07B3XCL6X-it Polaroid Eyewear PLD 6041/S Occhiali da Sole  Black  56 Unisex Adulto'
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

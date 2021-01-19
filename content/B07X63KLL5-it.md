@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dUtSTuEnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X63KLL5-it'
+slug: 'B07X63KLL5-it Starbucks CAFFÈ VERONA Caffè macinato dalla tostatura forte 6 sacchetti da 200g'
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

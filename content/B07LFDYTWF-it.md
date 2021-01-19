@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Hxb9-0FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDYTWF-it'
+slug: 'B07LFDYTWF-it Levi s Francine Down Pckble Jkt Giacca  Nero  Meteorite 0000   Small Donna'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

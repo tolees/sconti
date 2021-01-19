@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GOi5tdJZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSPLJPJ-it'
+slug: 'B07NSPLJPJ-it Funko 39454 POP! Vinyl: Movies: Ghostbusters: Peter w/House Town Statuetta da collezione  multicolore'
 actualPrice: 31.39 EUR
 currency: EUR
 price: 31.39

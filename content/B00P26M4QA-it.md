@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ffwTw0MqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P26M4QA-it'
+slug: 'B00P26M4QA-it 【Doppia EQ】 Auricolari Wireless Sport  Mpow Cuffie Bluetooth Sport  Auricolari Bluetooth IPX7 Impermeabile/ 8-10 Ore di Gioco/Suono ad Alta Definizione  Auricolari Bluetooth Sport per ios  Android'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

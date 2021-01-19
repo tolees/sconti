@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Eag16QUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2J2WVP-it'
+slug: 'B07V2J2WVP-it Tommy Hilfiger Nautical Print Beach Sandal  Punta Aperta Uomo  Nero  Black Bds   41 EU'
 actualPrice: 23.63 EUR
 currency: EUR
 price: 23.63

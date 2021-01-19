@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51udLHOxnlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BF4P2Z-it'
+slug: 'B081BF4P2Z-it Vernel Blu Oxygen Ammorbidente Concentrato Profumato per Lavatrice  8 x 52 Lavaggi'
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

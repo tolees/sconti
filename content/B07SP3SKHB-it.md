@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BeKF-bVoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP3SKHB-it'
+slug: 'B07SP3SKHB-it Havaianas Flash Urban  Sandali con Cinturino alla Caviglia Donna  Rosso  Bordeaux 3282   35/36 EU'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

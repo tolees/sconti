@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419oG3nR5lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ST7IM10-it'
+slug: 'B00ST7IM10-it Urban Classics Block Swim Shorts Pantaloncini da Bagno  Multicolore  Nvy/Burgundy 675   S Uomo'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

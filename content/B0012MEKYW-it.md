@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UWvGAmsnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012MEKYW-it'
+slug: 'B0012MEKYW-it Laser 2420 Manichetta Autoadescante'
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

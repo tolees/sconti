@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SGit1RqOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC3TY79-it'
+slug: 'B07WC3TY79-it Tommy Hilfiger Cheeky Side Tie Bikini Reggiseno  Blu  Laser Pink 103-580   L Donna'
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

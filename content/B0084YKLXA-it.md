@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51u+Cr+W3kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0084YKLXA-it'
+slug: 'B0084YKLXA-it Gillette Fusion ProGlide Styler Rasoio Regolabarba 3 in 1  Confezione da 1 Lametta + 3 Regolatori di Lunghezza Intercambiabili'
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

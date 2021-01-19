@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ENz-WtXwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVXW4B2-it'
+slug: 'B07BVXW4B2-it Tomtom Navigatore Satellitare per Auto GO Basic  Traffico  Tutor e Autovelox di Prova  Mappe Europa  Aggiornamenti Tramite WiFi  Supporto Reversibile Integrato  5 Pollici'
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vYzKx9xzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q23N8SJ-it'
+slug: 'B07Q23N8SJ-it Aoqussqoa - Costume da bagno intero da donna  motivo leopardato  azione modellante  riduce la pancia  moda da spiaggia Mesh XXX-Large'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

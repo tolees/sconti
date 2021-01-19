@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417j9bcUwlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZV318F-it'
+slug: 'B07WZV318F-it Starbucks Cappuccino by Nescafé Dolce Gusto 6 Confezioni da 12 Capsule  72 Capsule - 36 Bevande '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QOcGIho0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0842LDSDR-it'
+slug: 'B0842LDSDR-it Spigen PocketBoost Caricabatterie Portatile Power Bank 10000 mAh 18W PD 18W e QC 18W Compatibile con iPhone SE 2020 11 PRO Max X XR XS Galaxy S20 S10 Note 20 Ultra 10 9 8 Pixel e Altro Ancora'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

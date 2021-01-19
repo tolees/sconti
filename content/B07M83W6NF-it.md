@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413JGea+WVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83W6NF-it'
+slug: 'B07M83W6NF-it NAPAPIJRI Aerons Stand 2 Giacca  Blu  French Blue Bb7   L Uomo'
 actualPrice: 79.48 EUR
 currency: EUR
 price: 79.48

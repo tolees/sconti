@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31akYcnm1PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E3ETMUW-it'
+slug: 'B01E3ETMUW-it Maybelline New York Mascara Ciglia Sensazionali  Volumizzante  Effetto Ventaglio sulle Ciglia  Luscious  Confezione da 1'
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

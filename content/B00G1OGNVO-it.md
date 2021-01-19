@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Gr0K2JU-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G1OGNVO-it'
+slug: 'B00G1OGNVO-it Gran Cereale Biscotti Gran Cereale Classico  Ricchi di Fibra e Fosforo - 500 gr'
 actualPrice: 1.52 EUR
 currency: EUR
 price: 1.52

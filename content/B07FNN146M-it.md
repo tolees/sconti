@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DtbXoaDvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNN146M-it'
+slug: 'B07FNN146M-it LEGO Movie 2 - L astronave Sorellare di Dolce Sconquasso!  70830'
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

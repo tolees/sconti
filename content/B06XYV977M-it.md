@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bGKvYHK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYV977M-it'
+slug: 'B06XYV977M-it Angstrom Protect Latte Solare Ultra Idratante  Acceleratore Solare 30+ con Azione Nutriente e Prolungata  Indicata per Pelli Sensibili  200 ml'
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

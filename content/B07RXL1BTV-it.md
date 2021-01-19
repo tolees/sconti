@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Eui+kKjVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXL1BTV-it'
+slug: 'B07RXL1BTV-it Levi s Sunset 1 Pkt Slim Camicia  Blu  Alfonso Indigo 0006   Medium Uomo'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

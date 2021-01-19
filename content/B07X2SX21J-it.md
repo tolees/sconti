@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eGbprxoPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2SX21J-it'
+slug: 'B07X2SX21J-it Eastpak Springer Marsupio portasoldi  23 cm  2 L  Nero  Pix BW '
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

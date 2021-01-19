@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314SLVkj1oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003S5F1VW-it'
+slug: 'B003S5F1VW-it Lacoste Sport L1230 Polo Sport Ultraleggera  Bianco  White 001   Large Uomo'
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45

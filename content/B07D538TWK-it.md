@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LgyN7cxCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D538TWK-it'
+slug: 'B07D538TWK-it BEAUTURAL Manicure e Pedicure Elettrico Professionale Kit  Potente Fresa per Unghie con 7 Accessori  Sistema di Lucidatura per Unghie di Piedi e Mani'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

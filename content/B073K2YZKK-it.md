@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xQbLUGwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073K2YZKK-it'
+slug: 'B073K2YZKK-it Casio Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox LTP-E140B-1AEF'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

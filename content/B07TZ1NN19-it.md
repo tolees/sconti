@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EXrG83KEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ1NN19-it'
+slug: 'B07TZ1NN19-it Kipling KiplingTotepackDonnaBorse a secchielloVerde  Fro Mint Light  57x37x18 Centimeters  B x H x T '
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

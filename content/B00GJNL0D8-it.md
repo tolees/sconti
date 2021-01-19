@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41svzmTh4RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GJNL0D8-it'
+slug: 'B00GJNL0D8-it Michael Kors Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inox MK8286'
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YbClvgL4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXGB1GQ-it'
+slug: 'B07BXGB1GQ-it DEIK Frullatore  Blender 6 In 1 con 3 Bottiglie Portatili  Frullatore Tritatutto Multifunzione con 4 Lame in Acciaio Inox per Frappè  Ghiaccio  Frutta  Verdura e Pappe Bimbi  500W  32000RMP'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

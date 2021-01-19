@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VRvoRAmgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHH9TRW-it'
+slug: 'B07XHH9TRW-it Cuffie per bambini Mpow CH6S  con stereo  funzione di condivisione  cuffie maschili e femminili a volume limitato  cuffie audio con microfono  adatte per scuola/PC/telefono cellulare'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21gdY8ARWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OLVQ6M-it'
+slug: 'B000OLVQ6M-it Converse Chuck Taylor All Star  Sneakers Unisex - Adulto  Bianco  Optical White   45 EU'
 actualPrice: 38.3 EUR
 currency: EUR
 price: 38.3

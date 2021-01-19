@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-EUB0pXhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VR3XRHX-it'
+slug: 'B07VR3XRHX-it Tommy Hilfiger TH Ess Skinny Rib Tee LS Maglia a Maniche Lunghe  Blu  Breton STP/White Desert Sky 0zc   40  Taglia Unica: Small  Donna'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

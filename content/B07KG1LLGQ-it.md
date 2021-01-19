@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-YNrLa--L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1LLGQ-it'
+slug: 'B07KG1LLGQ-it Puma Smash V2 Sneaker Unisex - Adulto  Castlerock/Puma Black/Puma White 32   36 EU'
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

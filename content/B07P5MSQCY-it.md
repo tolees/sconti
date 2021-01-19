@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jmElJg8CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5MSQCY-it'
+slug: 'B07P5MSQCY-it American Tourister Wavebreaker Bagaglio a Mano Disney  Spinner S  55 cm  36 L  Grigio  Animal Sparkle '
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

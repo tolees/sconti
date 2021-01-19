@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Koo0+fAFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZDGXJM-it'
+slug: 'B073ZDGXJM-it Remington Nano Series NE3870 Tagliapeli Igienico per Naso e Orecchie  Lithium  batteria'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

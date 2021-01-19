@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HVuHm0jeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWJ31Z6-it'
+slug: 'B07GWJ31Z6-it Hauck Citi Neo II Passeggino da 0 Mesi a 25 kg  con 2 Porta Bibite e Accessori  Posizione Nanna  Grande Cesto  Finestra Cucù  Pieghevole  Compatto  Doppie Ruote  Pooh Cuddles'
 actualPrice: 81.9 EUR
 currency: EUR
 price: 81.9

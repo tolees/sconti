@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s80gqoFUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRSQTV5-it'
+slug: 'B07VRSQTV5-it Lampada Solare Campeggio Lanterne  USB Ricaricabile LED Lanterna  IPX7 Impermeabile 4 Modalità di Luminosità di Emergenza Esterna per Lampada LED per Casetta da Campeggio  Escursionismo 4 pezzi '
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

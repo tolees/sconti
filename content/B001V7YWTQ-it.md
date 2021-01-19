@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61XmbMoriGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001V7YWTQ-it'
+slug: 'B001V7YWTQ-it Live From Madison Square Garden'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411P6ONIDBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9Z4JP3-it'
+slug: 'B07H9Z4JP3-it NACHO LIBRE - POP FUNKO VINYL FIGURE 647 NACHO 9CM'
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

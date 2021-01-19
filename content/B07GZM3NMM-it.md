@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CiAHdP6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZM3NMM-it'
+slug: 'B07GZM3NMM-it 【2020 Nuova Versione】CHORTAU Telecamera per Auto da 7 pollici Touchscreen Full HD 1080P  Telecamera Grandangolare Anteriore e Telecamera Posteriore impermeabile  con Sistema di Monitoraggio Inverso'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ceNBVSiqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PMK1T1-it'
+slug: 'B077PMK1T1-it HP Custodia Sleeve Reversibile in Neoprene per Notebook fino a 14"  Nero/Oro'
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

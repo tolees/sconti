@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IzZDDkRLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJL1PX6-it'
+slug: 'B07VJL1PX6-it Calvin Klein Boxer Brief 2pk  Nero  Black with/White WB Bnm   X-Small Uomo'
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

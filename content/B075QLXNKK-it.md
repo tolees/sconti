@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tnHwF5LmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QLXNKK-it'
+slug: 'B075QLXNKK-it Kodak Pixpro FZ102-BK Fotocamera digitale 16.44 megapixel  zoom Ottico 10X. Batteria al Litio. Colore Nera'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PVfusxnUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086DR9XCL-it'
+slug: 'B086DR9XCL-it Mcafee Mobile Security With Vpn  1 Dispositivo  1 Anno  Mobile  Codice D Attivazione Via Email'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

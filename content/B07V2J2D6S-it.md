@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RNwrR5X7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2J2D6S-it'
+slug: 'B07V2J2D6S-it Tommy Hilfiger Corporate Material Mix Runner  Scarpe da Ginnastica Basse Uomo  Blu  Blue Ink C7h   44 EU'
 actualPrice: 50.42 EUR
 currency: EUR
 price: 50.42

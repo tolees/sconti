@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KkXO0EZ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084W8BDX5-it'
+slug: 'B084W8BDX5-it Pantene Pro-V Balsamo  Rigenera e Protegge  per Capelli Danneggiati  Maxi Formato da 900 ml'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

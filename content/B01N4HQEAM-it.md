@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+X0g7hkvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4HQEAM-it'
+slug: 'B01N4HQEAM-it Multicentrum Uomo Integratore - 30 Compresse'
 actualPrice: 10.35 EUR
 currency: EUR
 price: 10.35

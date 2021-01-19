@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JBOxwKP-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008RAR9JA-it'
+slug: 'B008RAR9JA-it Max Factor Matita Occhi Kohl Pencil  Eyeliner con Texture Morbida Facile da Sfumare  070 Olive'
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

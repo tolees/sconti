@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o8BFPiliL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG8FCM8-it'
+slug: 'B07KG8FCM8-it Puma Smash V2 Sneaker Unisex - Adulto  Rhubarb/Puma Team Gold/Puma White 29   47 EU'
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

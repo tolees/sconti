@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+c2nBM6qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHXKM5V-it'
+slug: 'B08BHXKM5V-it Grborn TER-mometro a infrarossi Senza Contatto LCD per la misurazione della Fronte Display Digitale a Tre Colori con retroilluminazione'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

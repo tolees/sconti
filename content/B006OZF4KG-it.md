@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XXcQhPLwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006OZF4KG-it'
+slug: 'B006OZF4KG-it Revlon ColorStay  colore per sopracciglia'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MJuV6AriL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HLKLMM-it'
+slug: 'B072HLKLMM-it Vape Piastrine Verdessenza  Protezione contro le Zanzare con Componenti di Origine Vegetale  20 Pezzi'
 actualPrice: 1.96 EUR
 currency: EUR
 price: 1.96

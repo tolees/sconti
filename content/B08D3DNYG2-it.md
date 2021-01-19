@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MfWnjJz6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3DNYG2-it'
+slug: 'B08D3DNYG2-it BOMIZI Cover Xiaomi Mi 9T  Mi9T PRO Custodia Trasparente TPU Morbido Flessibile Silicone Antiurto Sottile con Anello Girevole per Supporto Magnetica Auto Slim Case 6 39 Pollici - Nero'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

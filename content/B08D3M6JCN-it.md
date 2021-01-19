@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61+v4A69BxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3M6JCN-it'
+slug: 'B08D3M6JCN-it INTEY Porte da Calcio 2 Pezzi Gabbia di Calcio Bambino Pop UP 2 in1 Obiettivo di Allenamento Obiettivo di Calcio Pieghevole con Custodia  per Giardino  Spiaggia  Giochi all aperto  122x76x76 cm '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

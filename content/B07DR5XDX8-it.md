@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417W0FrjcPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DR5XDX8-it'
+slug: 'B07DR5XDX8-it Saucony Shadow Original Vintage  Scarpe da Ginnastica Basse Uomo  Blu  Nvy/Wht 3   46.5 EU'
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417JugIe+qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHZX65T-it'
+slug: 'B07JHZX65T-it LUKO 12L Deumidificatore Portatile e Elettrico con Controllo dell umidità Asciuga la biancheria Timer Spegnimento Automatico 2L Serbatoio con Tubo di Drenare per Casa Camera da Letto Bagno Cantina'
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

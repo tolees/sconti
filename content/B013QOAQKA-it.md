@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FsnxjwRmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013QOAQKA-it'
+slug: 'B013QOAQKA-it CAMTOA Portatile Impermeabile Busta Sacco a Pelo  Ultra Leggero Sacchi a Pelo Sleeping Bag per Campeggio Arrampicata All aperto'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

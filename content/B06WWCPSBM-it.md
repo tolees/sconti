@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PzfxJAqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WWCPSBM-it'
+slug: 'B06WWCPSBM-it LIVEHITOP Coperta da Spiaggia 210x200cm Anti Sabbia - Ultraleggero Portatile Tappeto da Picnic Impermeabile per Campeggio  Viaggi  All aperto  Blu'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

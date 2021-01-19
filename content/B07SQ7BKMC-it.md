@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514kTew7xDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ7BKMC-it'
+slug: 'B07SQ7BKMC-it gracosy Scarpe da Acqua Sport Donna Uomo 2020 Scarpe da Corsa per Corsa Comfort Sneakers da Esterno Leggere Antiscivolo Spiaggia 37-46'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

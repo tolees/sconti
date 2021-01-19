@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5124p1I-fML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXJN5PR-it'
+slug: 'B07MXJN5PR-it Dixan Duo Caps Lavanda  Detersivo Lavatrice Capsule Pre-Dosato  2 Confezioni da 30 Capsule'
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

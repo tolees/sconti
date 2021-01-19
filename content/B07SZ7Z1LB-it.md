@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313MEKTLvVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ7Z1LB-it'
+slug: 'B07SZ7Z1LB-it Geox U Nebula Y A  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4002   46 EU'
 actualPrice: 83.87 EUR
 currency: EUR
 price: 83.87

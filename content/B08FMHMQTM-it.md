@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GZIUaTvSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FMHMQTM-it'
+slug: 'B08FMHMQTM-it TANSUNG Coltello da Cucina  Coltello da Chef e Cuoco  Lama 19cm con Acciaio Composito Tedesco ad Alto Contenuto di Carbonio  e Manico Ergonomico con Impugnatura Comoda  Ben bilanciato ed affilato'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

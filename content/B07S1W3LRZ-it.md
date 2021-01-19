@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vxMeO3fiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1W3LRZ-it'
+slug: 'B07S1W3LRZ-it New Balance 373 Core  Sneaker Uomo  Nero  Black/White Ca2 '
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

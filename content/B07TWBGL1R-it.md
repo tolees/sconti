@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jlyo0uxwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWBGL1R-it'
+slug: 'B07TWBGL1R-it Levi s The Perfect Tee Maglietta  Bianco  90 s Serif T2 Multicolor White+ 0969   X-Small  Herstellergröße: XS  Donna'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

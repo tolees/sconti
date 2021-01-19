@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mGxBpVZXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B4LMDGW-it'
+slug: 'B08B4LMDGW-it HAYLOU LS02 Smartwatch Orologio Fitness Tracker Global Version 2 Schermo LCD da 1 4 Pollici BT5.0 12 modalità Sport IP68 Impermeabile 20 Giorni Standby Orologio da Polso Frequenza Cardiaca'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

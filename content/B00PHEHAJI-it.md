@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414o1wta4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PHEHAJI-it'
+slug: 'B00PHEHAJI-it Cabin Max Metz  Zaino da Viaggio Bagaglio a mano/da cabina  44L  55x40x20 cm   Nero/Blu Marino'
 actualPrice: 24.93 EUR
 currency: EUR
 price: 24.93

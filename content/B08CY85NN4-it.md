@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UNo3JaBqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CY85NN4-it'
+slug: 'B08CY85NN4-it homcom Libreria Scaffale Portagiochi per Cameretta Bimbi e Ragazzi con Mensole a Cubi Bianca  Due Colori Cambiati  Azzurra e Rosa 82x30x126cm'
 actualPrice: 83.96 EUR
 currency: EUR
 price: 83.96

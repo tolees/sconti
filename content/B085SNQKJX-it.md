@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QhbcKaxjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085SNQKJX-it'
+slug: 'B085SNQKJX-it Neutro Roberts Sapone Liquido Antibatterico Bipacco  2x6 Pezzi da 300 ml  Totale 12 pezzi'
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

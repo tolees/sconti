@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FGqhK3ikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L416NVS-it'
+slug: 'B01L416NVS-it Havaianas Flash Urban  Sandali Donna  Multicolor  Black/Silver 2976   35/36 EU'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

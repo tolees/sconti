@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41snAAUUAWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BHRD3OK-it'
+slug: 'B00BHRD3OK-it Hermes Jour d Hermes Eau de Parfum  Donna  50 ml'
 actualPrice: 39.29 EUR
 currency: EUR
 price: 39.29

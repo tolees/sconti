@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZBVdE0pSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089RZTFDB-it'
+slug: 'B089RZTFDB-it goldenpoint Leggings Straight con borchie tonde Fantasia Principe di Galles'
 actualPrice: 22.47 EUR
 currency: EUR
 price: 22.47

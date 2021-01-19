@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rGaaPgr-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3ZYVQB-it'
+slug: 'B07L3ZYVQB-it 24"Luminosità regolabile 60cm Gancio Pieghevole Portatile Professionale Supporto da tavolo Fotografia Kit illuminazione 156 Luci a LED Fondali a 4 colori'
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

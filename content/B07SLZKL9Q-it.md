@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J2IleEK7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLZKL9Q-it'
+slug: 'B07SLZKL9Q-it Havaianas Twist  Sandali con Chiusura a T Donna  Beige  Sand Grey 0154   33/34 EU'
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

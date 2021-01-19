@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TSCUBMcqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074CSGVHT-it'
+slug: 'B074CSGVHT-it Orient Orologio Analogico Automatico Uomo con Cinturino in Pelle FAC00004B0'
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

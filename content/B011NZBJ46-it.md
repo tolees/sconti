@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LOEG-O-cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011NZBJ46-it'
+slug: 'B011NZBJ46-it Ht25N Multimetro Digitale Multifunzione Com Hr0002'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

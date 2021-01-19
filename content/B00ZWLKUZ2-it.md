@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DzgBzRhAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZWLKUZ2-it'
+slug: 'B00ZWLKUZ2-it Disney Infinity 3.0: EU Han Solo Figurina'
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

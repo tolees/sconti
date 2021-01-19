@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411gULdIwML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCKKFHK-it'
+slug: 'B07VCKKFHK-it Desigual Back tribal Nazca Mini zaino da donna  12 5 x 29 x 25 5 cm  Beige  Beige  Crudo Beige .   12.5x29x25.5 cm  B x H x T '
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yDB1CBWaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KM756EK-it'
+slug: 'B01KM756EK-it Timberland Killington Chukka  Scarpe Alte Uomo  Beige  Wheat Nubuck   41 EU'
 actualPrice: 66.73 EUR
 currency: EUR
 price: 66.73

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KKm1u58nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS2ZTTR-it'
+slug: 'B07TS2ZTTR-it Levi s Graphic Tee T-Shirt  Bianco  Boxtab SS T2 White 0000   XX-Small Uomo'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

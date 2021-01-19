@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AQ3llQwEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0741D7LRD-it'
+slug: 'B0741D7LRD-it Princess Friggitrice ad Aria Calda Family XXL 182050  1700 watt  5.2 litri  7 impostazioni di cottura  Teglia per torte inclusa  Nero'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

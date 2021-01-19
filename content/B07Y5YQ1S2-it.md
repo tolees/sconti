@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fZwgJZxZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5YQ1S2-it'
+slug: 'B07Y5YQ1S2-it WESCO Avvitatore Trapano 12V  Avvitatore a Batteria Li-ion 1.5Ah Ricaricabile in 1 Ora 21 Coppie e 2 Modalità da Perforare Mandrino 10mm WS2547'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

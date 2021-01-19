@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t0BquZiFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079D9HZK4-it'
+slug: 'B079D9HZK4-it Distillerie Nonino  Grappa Nonino Vendemmia Riserva 18 mesi- bottiglia da 700 ml'
 actualPrice: 18.56 EUR
 currency: EUR
 price: 18.56

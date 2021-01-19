@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xV9dW8BvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWV47VL-it'
+slug: 'B07QWV47VL-it Calvin Klein CK Adj.Logo Belt 3.5cm Cintura  Nero  Black Leather & Light Gold Buckle 910   8  Taglia Produttore: 100  Donna'
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

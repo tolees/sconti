@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mb9y8crdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQXWYMH-it'
+slug: 'B07SQXWYMH-it Lacoste Chaymon 120 1 CMA  Sneaker Uomo  Nero  Blk/Grn 1b4   42 EU'
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

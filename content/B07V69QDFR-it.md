@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZYphL1QfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V69QDFR-it'
+slug: 'B07V69QDFR-it Imetec SM3 900 Tostiera  Piastre XL Rigate e Antiaderenti  Interruttore ON/OFF  Spia Riscaldamento Piastre  Gancio Chiusura  Avvolgicavo  Tostapane Compatto  900 W'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YIqiwqqtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLJBL4-it'
+slug: 'B07RZLJBL4-it Levi s Type 3 Giacca in Jeans  Blu  Firework Sherpa Trucker 0123   XX-Large Uomo'
 actualPrice: 47.89 EUR
 currency: EUR
 price: 47.89

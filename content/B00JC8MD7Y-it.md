@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FSmPa4ElL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JC8MD7Y-it'
+slug: 'B00JC8MD7Y-it Samsung Galaxy A71 Smartphone  Display 6.7" Super AMOLED  4 Fotocamere Posteriori  128 GB Espandibili  RAM 6 GB  Batteria 4500 mAh  4G  Dual Sim  Android 10  [Versione Italiana]  Prism Crush Silver'
 actualPrice: 318.0 EUR
 currency: EUR
 price: 318.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wq7ntanjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC3FB37-it'
+slug: 'B07JC3FB37-it LEGO Juniors Buzz e Woody e La Mania del Carnevale  Gioco per Bambini  Multicolore  382 x 262 x 56.5 mm  10770'
 actualPrice: 33.89 EUR
 currency: EUR
 price: 33.89

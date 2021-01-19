@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413psjCvyVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KWWYJXO-it'
+slug: 'B01KWWYJXO-it Philips AC2887/10 Purificatore d Aria con Tecnologia VitalShield IPS e Filtro Advanced Nanoprotect  antiallergico'
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

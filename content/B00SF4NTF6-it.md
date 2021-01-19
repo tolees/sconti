@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kWj1Vs7wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SF4NTF6-it'
+slug: 'B00SF4NTF6-it STAEDTLER matite colorate Noris Colour  confezione da 24 colori con tonalità differenti e mine resistenti in WOPEX  185 C24'
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

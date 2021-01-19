@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VWDZlxQIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHXVW5K-it'
+slug: 'B08DHXVW5K-it PENG Auricolare Bluetooth  Cuffie Senza Fili  Cuffie Wireless Stereo 3D with IPX5 Impermeabile  Accoppiamento Automatico per Chiamate Binaurali  Adatto Compatibile con iPhone/Samsung/AirPods/Android'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

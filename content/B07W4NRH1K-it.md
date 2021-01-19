@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CPgD4nrZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4NRH1K-it'
+slug: 'B07W4NRH1K-it Tommy Hilfiger Squares Tee Maglietta  Blu  Blue Ink   Small Uomo'
 actualPrice: 24.78 EUR
 currency: EUR
 price: 24.78

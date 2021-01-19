@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AiWhJ47xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4LRWFJ-it'
+slug: 'B07J4LRWFJ-it PHILIP WATCH Guarda R8253597543'
 actualPrice: 284.04 EUR
 currency: EUR
 price: 284.04

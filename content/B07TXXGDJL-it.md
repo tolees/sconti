@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WwW+Eo2IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXXGDJL-it'
+slug: 'B07TXXGDJL-it Wrangler SS Sign off Tee T-Shirt  Verde  Peacock Green 382   Medium Uomo'
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

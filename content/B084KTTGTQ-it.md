@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pfFM2JiXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084KTTGTQ-it'
+slug: 'B084KTTGTQ-it Bosch Home and Garden 0600833300 Cesoie da giardinaggio'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

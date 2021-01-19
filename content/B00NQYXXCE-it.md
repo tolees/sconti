@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SCpcNQXUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NQYXXCE-it'
+slug: 'B00NQYXXCE-it MANN-FILTER HU7020Z Filtro Olio'
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

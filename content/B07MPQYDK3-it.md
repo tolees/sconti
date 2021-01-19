@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417MucpRUxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPQYDK3-it'
+slug: 'B07MPQYDK3-it Cuffie Bluetooth Sport Bass+  Mpow Auricolari Bluetooth Sport CVC 6.0  Cuffie Bluetooth Senza Fili 10 Ore di Gioco Cuffie Bluetooth 5.0 In-ear con Qualità Audio HD  IPX7 Impermeabili Correre Fitness'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

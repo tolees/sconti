@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BKQTpVIvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D32P8LT-it'
+slug: 'B08D32P8LT-it Cover Xiaomi Redmi 8 360 Gradi Full Body Antiurto Protezione Caso [Trasparente Silicone TPU Anteriore e Rigida Plastica Back ] 2 in 1 Dual Layer Caso Cover per Xiaomi Redmi 8 / Redmi 8A Trasparente'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

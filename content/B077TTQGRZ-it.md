@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312qEEJ1wYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TTQGRZ-it'
+slug: 'B077TTQGRZ-it Superga 2750-NAPPALEAU  Sneaker Unisex Adulto  Nero  Black/White C39    36 EU'
 actualPrice: 31.89 EUR
 currency: EUR
 price: 31.89

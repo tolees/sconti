@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fjuE6y+wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9S3JC-it'
+slug: 'B07TJ9S3JC-it Levi s Relaxed Graphic Hoodie Felpa  Bianco  Boxtab Pop White 0022   Large Uomo'
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

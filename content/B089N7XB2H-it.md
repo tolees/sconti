@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-iaSg2qPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089N7XB2H-it'
+slug: 'B089N7XB2H-it JACK & JONES JJEPAULOS Polo SS Noos  Port Royale  M Uomo'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

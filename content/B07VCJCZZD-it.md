@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nMAhjwMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCJCZZD-it'
+slug: 'B07VCJCZZD-it Desigual Chaq whaii Giubbotto  Blu  Jeans Bleach 5058   44  Taglia Produttore: 38  Donna'
 actualPrice: 47.18 EUR
 currency: EUR
 price: 47.18

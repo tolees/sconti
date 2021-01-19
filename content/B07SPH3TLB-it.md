@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31i7YF5UJQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPH3TLB-it'
+slug: 'B07SPH3TLB-it Lacoste Bayliss 220 1 CMA  Sneaker Uomo  Bianco  Wht/Nvy/Red 407   41 EU'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

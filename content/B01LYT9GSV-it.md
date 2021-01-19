@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YmeVV6jOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYT9GSV-it'
+slug: 'B01LYT9GSV-it Rio Mare Filetti di Sgombro Grigliati al Naturale  Ricchi di Omega 3  1 Lattina da 120 g'
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

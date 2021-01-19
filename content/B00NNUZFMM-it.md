@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fqig2vgRL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NNUZFMM-it'
+slug: 'B00NNUZFMM-it The Sims 4 - PC'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

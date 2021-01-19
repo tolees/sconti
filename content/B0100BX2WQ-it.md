@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mVoTXnlbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0100BX2WQ-it'
+slug: 'B0100BX2WQ-it Dyson AM09 Hot+Cool  2000 W  64 Decibel  Metall  Plastik  Silver  White'
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

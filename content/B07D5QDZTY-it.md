@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GPl75DdAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5QDZTY-it'
+slug: 'B07D5QDZTY-it GPC Image Cartucce Toner Compatibili per HP CF244A 44A Con Chip per HP LaserJet Pro M15a  M15w  MFP M28a  MFP M28w Stampante  1 Nero '
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XNWIVcRaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTH9WQ4-it'
+slug: 'B08BTH9WQ4-it SGILE Macchina Telecomandata per Bambini  4WD Auto Telecomandata con Batteria Ricaricabile  RC Macchina Acronazia Rotazione a 360 Gradi Regalo'
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

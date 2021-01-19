@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pSUxOlB6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BZ3SML-it'
+slug: 'B088BZ3SML-it Tablet 10 Pollici con Wifi Offerte Tablet PC Android 9.0 GO  Google Certificazione GMS   3GB RAM+32/128GB ROM   4G LTE Call  8MP Quad-Core Supporta Netflix /APK WiFi /Bluetooth/ GPS/OTG  grigio '
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

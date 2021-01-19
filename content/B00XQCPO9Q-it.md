@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XvQJUHRHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XQCPO9Q-it'
+slug: 'B00XQCPO9Q-it Gillette Series Schiuma Da Barba Pelli Sensibili - 200+50 ml'
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

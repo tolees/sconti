@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JKbl5WP3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O7SJTZ8-it'
+slug: 'B00O7SJTZ8-it Garmin 010-11251-41 cinturino per orologio'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

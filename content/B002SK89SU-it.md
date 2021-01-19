@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61NN5AtrKML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SK89SU-it'
+slug: 'B002SK89SU-it Tovagliette all Americana Parisian Scenes di Pimpernel - Set di 4  Grandi '
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

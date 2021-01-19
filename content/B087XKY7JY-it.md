@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518QZnEgPbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087XKY7JY-it'
+slug: 'B087XKY7JY-it Neutromed Sport Bagnoschiuma Uomo Energizzante  Docciashampoo per Corpo e Capelli  Confezione da 12 pezzi x 250 ml'
 actualPrice: 16.92 EUR
 currency: EUR
 price: 16.92

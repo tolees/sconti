@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+uPJ2cPAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PYXFSC-it'
+slug: 'B087PYXFSC-it Mpow H10 Cuffie Noise Cancelling Attiva ANC   Autonomia 30 Ore  Pliable Cuffie Over-Ear Con Hi-Fi Bassi Profondi  Microfono Incorporato CVC6.0 Cuffie Wireless Per Cellullari/PC/TV'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

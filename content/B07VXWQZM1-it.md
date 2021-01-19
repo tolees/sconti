@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-pIR5gJnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXWQZM1-it'
+slug: 'B07VXWQZM1-it Pepe Jeans Edison T-Shirt  Bianco  Optic White 802   SMA L L Uomo'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

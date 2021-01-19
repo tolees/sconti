@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qmMfJsYrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVQDNSS-it'
+slug: 'B07ZVQDNSS-it Levi s Graphic Crewneck Tee T-Shirt  Ssnl Serif White  S Uomo'
 actualPrice: 22.35 EUR
 currency: EUR
 price: 22.35

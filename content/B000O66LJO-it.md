@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZNPNntpZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000O66LJO-it'
+slug: 'B000O66LJO-it Cressi Water Shoes Scarpette per Sport Acquatici  Adulti e Bambini  Acquamarina  40'
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

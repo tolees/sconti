@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DzN9FQ2nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J2NYVXF-it'
+slug: 'B08J2NYVXF-it Jvchengxi Custodia per Samsung Galaxy Buds Live  Placcatura PC Protettiva Cover AntiGraffio Antiurto Protezione completa copertina con Portachiavi per Samsung Galaxy Buds Live  2020   Nero '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

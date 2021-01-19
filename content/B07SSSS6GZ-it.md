@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414GgnQll3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSSS6GZ-it'
+slug: 'B07SSSS6GZ-it Filetti di tonno pescato a canna in olio d oliva 190g'
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

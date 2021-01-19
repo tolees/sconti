@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L3+OVvpuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2S5SK2-it'
+slug: 'B07S2S5SK2-it Levi s Relaxed Graphic Hoodie Cappuccio  Nero  90 s Serif Logo Pop Mineral Black 0018   X-Large Uomo'
 actualPrice: 25.67 EUR
 currency: EUR
 price: 25.67

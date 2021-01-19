@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jB5jtHkLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAM3TWU-it'
+slug: 'B01NAM3TWU-it The Accountant  4K+ Br+ Copia Digitale  '
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

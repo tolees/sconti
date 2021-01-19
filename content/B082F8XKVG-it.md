@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hFn8clLGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082F8XKVG-it'
+slug: 'B082F8XKVG-it Tavoletta Grafica LCD Scrittura  8 5 Pollici Elettronica Lavagna Cancellabile Tavolo da Disegno Portatile Lavagnetta Doodle per Bambini Studenti Regalo per Compleanno Natale  Bianco '
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

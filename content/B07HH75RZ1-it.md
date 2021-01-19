@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WFwGkKHmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH75RZ1-it'
+slug: 'B07HH75RZ1-it FITTOO Pantaloni Sauna Dimagranti Donna Leggins Sportivi Fitness Snellente Sauna Pants Shapers Neoprene Termico Hot Pantaloni Pantaloncino'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

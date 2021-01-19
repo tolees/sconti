@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yP5U7LmtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PHBNH2-it'
+slug: 'B082PHBNH2-it Newdora Coperchi in Silicone Estensibile  13 Pezzi  7 Rotondo e 6 Rettangolo  Coperchio in Silicone per Alimenti  Riutilizzabile ed Espandibile Coperchio per Vari Contenitori  Piatti  Scodelle'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

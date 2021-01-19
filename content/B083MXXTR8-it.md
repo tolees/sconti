@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41plmffiVVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083MXXTR8-it'
+slug: 'B083MXXTR8-it Cuffie Bluetooth 5.0 Senza Fili 30H Playtime 3D Stereo HD TWS Ear-In Auricolari Bluetooth  IP7 Impermeabile Cuffie Wireless con Display Digitale LED Mic-Incorporato per Samsung iPhone Huawei ecc'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

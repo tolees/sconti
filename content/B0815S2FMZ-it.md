@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OkhqwuycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0815S2FMZ-it'
+slug: 'B0815S2FMZ-it GERYON Macchina Sottovuoto per Alimenti  Sigillatore a Vuoto Cibo con Taglierina Incorporata Modalità Secca e Umida Facile da Pulire per Uso Domestico Campeggio con 5 Sacchetti Sottovuoto  Nero '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

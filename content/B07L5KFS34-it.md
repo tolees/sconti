@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nHx-PHnyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5KFS34-it'
+slug: 'B07L5KFS34-it Gnceei Power Bank 24000mAh Caricabatterie Portatile Solare Powerbank  5.8A 4 Porte USB Batteria Esterna con 3 Porte di Entrata USB C & Micro USB  e 2 Bright LED per Nexus  HTC e Altro Smartphone …'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

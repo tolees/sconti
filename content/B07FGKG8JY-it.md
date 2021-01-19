@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iJBHEkogL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FGKG8JY-it'
+slug: 'B07FGKG8JY-it Spazzolino Elettrico Ricaricabile Braun Oral-B Vitality 170 CrossAction Blu con 1 Manico 2 Testine'
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

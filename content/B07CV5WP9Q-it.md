@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51M8RUZLkkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CV5WP9Q-it'
+slug: 'B07CV5WP9Q-it Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto Formato Quadrato 62 x 62 mm  Graphite Grey'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

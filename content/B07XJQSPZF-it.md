@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ONRxeIreL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJQSPZF-it'
+slug: 'B07XJQSPZF-it DYNASONIC - Supporto robusto per Altoparlante  Treppiede per apparecchiature professionali Altoparlanti DYNAPRO  | Facilmente trasportabile e stabile con piedini antiscivolo'
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

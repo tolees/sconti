@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tpdatJU7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD9PDXM-it'
+slug: 'B07QD9PDXM-it Adidas EC Org  Apparel Accessories Uomo  Black  Taglia Unica'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

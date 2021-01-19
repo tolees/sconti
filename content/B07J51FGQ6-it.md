@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418s75rZ9rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J51FGQ6-it'
+slug: 'B07J51FGQ6-it SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV Pieghevole Quadricottero RC Rtf 4CH 2 4 GHz Telecomando Senza Testa [Altitude Hold] Super Easy Fly per Allenamento - Arancio'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

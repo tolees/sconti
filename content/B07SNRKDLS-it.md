@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OrMg4yupL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNRKDLS-it'
+slug: 'B07SNRKDLS-it DFNT Spray antizanzare per Ambienti Repellente zanzare biodegradabile 250 ml | Repellente zanzare Tropicali e domestiche Fino a 3 Mesi Protezione'
 actualPrice: 15.92 EUR
 currency: EUR
 price: 15.92

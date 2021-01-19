@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zmAiQ0pGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0038OMGUC-it'
+slug: 'B0038OMGUC-it Camper Peu Cami 20848  Scarpe da Ginnastica Donna  Dark Brown  40 EU'
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

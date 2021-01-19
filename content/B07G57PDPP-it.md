@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+bb-EVFaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G57PDPP-it'
+slug: 'B07G57PDPP-it Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo  Pacco da 2  Schwarz  Block Check Black / Block Check Black   39 cm  Label: M'
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

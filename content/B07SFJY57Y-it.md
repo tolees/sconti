@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tjsqix9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFJY57Y-it'
+slug: 'B07SFJY57Y-it FIFA 20 - Standard - Xbox One'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

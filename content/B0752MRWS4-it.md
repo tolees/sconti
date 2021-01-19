@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MuWkkaBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0752MRWS4-it'
+slug: 'B0752MRWS4-it Havaianas Brasil Logo  Infradito Unisex-Adulto  Giallo  Banana Yellow   41/42 EU'
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

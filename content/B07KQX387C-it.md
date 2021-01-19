@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x8ReaM9eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQX387C-it'
+slug: 'B07KQX387C-it Piastra Capelli Kealive Piastra per Capelli for Styling Liscio o Mosso  Innovativo Rivestimento in Ceramica  da 80°C a 230°C  Pronta all’uso in 10 sec e funzione di spegnimento automatico  Rosa rossa'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

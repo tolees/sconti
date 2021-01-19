@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ogu1IOrxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PPNMT-it'
+slug: 'B07S8PPNMT-it PUMA Carina L  Scarpe da Ginnastica Donna  Nero Black White White  39 EU'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

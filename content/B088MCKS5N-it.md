@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gyloEAEFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088MCKS5N-it'
+slug: 'B088MCKS5N-it Isincer Streaming Webcam HD 1080p con Microfono a riduzione del Rumore Videocamera per PC Laptop con Webcam e Microfono'
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

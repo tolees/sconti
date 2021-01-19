@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Il6mJgF7L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CBB4RLK-it'
+slug: 'B08CBB4RLK-it Tau-Marin Spazzolino Professional 27 Medio Edizione Limitata by Alessandro Enriquez  Giallo '
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

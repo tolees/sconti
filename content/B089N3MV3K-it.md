@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uGn4pdj-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089N3MV3K-it'
+slug: 'B089N3MV3K-it Toozey Gioco per Cani Giocattolo per masticatori - Giochi per Cani Grandi Resistenti - Giocattoli per Cani duri Giocattoli per Cani indistruttibili - Sapore di Manzo in Gomma Naturale Non tossico'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

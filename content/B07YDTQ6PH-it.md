@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TPL9gtEXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDTQ6PH-it'
+slug: 'B07YDTQ6PH-it 10.1“ pollici Tablet Android 8.1 Phablet Octa Core 4 GB RAM 64 GB ROM 3G Phablet con WiFi GPS Bluetooth Netflix Google Play  Nero   Argento '
 actualPrice: 65.32 EUR
 currency: EUR
 price: 65.32

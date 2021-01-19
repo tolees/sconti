@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zCPbRiy4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009MZXI8-it'
+slug: 'B0009MZXI8-it Thorlo Thorlos Crew-Calzini da tennis  taglia M  colore: Bianco  M Unisex-Adulto'
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

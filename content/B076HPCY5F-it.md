@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VH4rmh-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HPCY5F-it'
+slug: 'B076HPCY5F-it adidas Condivo 18 Jacket  Giacca Uomo  Blu  Blu Scuro/Azzurro/Bianco   L'
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

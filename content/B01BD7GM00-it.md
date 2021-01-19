@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B8KCFvvnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BD7GM00-it'
+slug: 'B01BD7GM00-it Swiffer Kit con 1 Scopa + 8 Panni per Pavimenti e 1 Piumino + 1 Ricambio  Ottimo per Peli di Animali'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

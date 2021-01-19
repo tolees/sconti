@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QOjUzJxdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KAWDG5E-it'
+slug: 'B00KAWDG5E-it Burton Powerstretch Liner  Guanti Uomo  Nero  ML'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

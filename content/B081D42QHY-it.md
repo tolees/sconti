@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Mp6+G7R3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081D42QHY-it'
+slug: 'B081D42QHY-it MPOW S16 Auricolari Wireless Sport 12H Playtime  Cuffie Bluetooth Magnetici impermeabili IPX7 con Bassi Stereo HD  Microfono Incorporato  Auricolari wireless Bluetooth 5.0 per IOS  Android'
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

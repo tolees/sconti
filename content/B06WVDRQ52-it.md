@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418h65W7IKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVDRQ52-it'
+slug: 'B06WVDRQ52-it Maximo Exercise Mat NBR Fitness Mat - Multi Purpose - 183 x 60 x 1.2 centimetres - Yoga  Pilates  Sit-ups  Stretching  Home  Gym Men And Women.'
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vgg-0aItL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNJT5N5-it'
+slug: 'B07YNJT5N5-it Kenwood KHC29.H0WH Impastatrice Planetaria Prospero  1000 W  4.3 Litri  Plastica  Bianco'
 actualPrice: 159.89 EUR
 currency: EUR
 price: 159.89

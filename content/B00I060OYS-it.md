@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ikwJuTRgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I060OYS-it'
+slug: 'B00I060OYS-it Givova Visa  Tuta Da Ginnastica Uomo  Multicolore  Nero/Rosso   XS'
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

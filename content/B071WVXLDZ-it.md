@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+SRGsTnhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WVXLDZ-it'
+slug: 'B071WVXLDZ-it Braun Series 5 5147s Rasoio da Barba Elettrico Ricaricabile a Lamina Wet&Dry senza Fili da Uomo  con Motore AutoSense e Rifinitore di Precisione Estraibile  Nero/Blu/Cromato'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

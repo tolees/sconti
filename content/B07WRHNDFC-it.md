@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bP-gycutL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRHNDFC-it'
+slug: 'B07WRHNDFC-it TEAMO Rosa Bella e La Bestia La Rosa della Bella e La Bestia Elegante Cupola di Vetro con Base Pino Luci LED  Beauty And Beast Regali Magici Decorazioni'
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

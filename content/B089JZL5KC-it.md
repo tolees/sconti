@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4162J4EnENL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089JZL5KC-it'
+slug: 'B089JZL5KC-it TECLAST F15 Notebook Portatile 15.6 Pollici Laptop Ultrasottile Laptop 8GB RAM 256GB SSD Window 10  Batteria Grande 41800mWh  WiFi + Bluetooth + USB3.0 + HDMI + Tastiera Illuminata'
 actualPrice: 339.99 EUR
 currency: EUR
 price: 339.99

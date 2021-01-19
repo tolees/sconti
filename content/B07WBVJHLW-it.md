@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415w2ntBsSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBVJHLW-it'
+slug: 'B07WBVJHLW-it Hoonyer Display per iPhone 5S/SE Touch Screen LCD Digitizer Schermo Utensili Inclusi con Pulsante Home  Fotocamera  sensore Flex  Bianco'
 actualPrice: 19.05 EUR
 currency: EUR
 price: 19.05

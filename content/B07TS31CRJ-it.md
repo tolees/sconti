@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418xZBNbb3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS31CRJ-it'
+slug: 'B07TS31CRJ-it Levi s Housemark Graphic Tee T-Shirt  Rosso  HM Ssnl Tonal Earth Red 0276   Medium Uomo'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

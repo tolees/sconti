@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61TmL+tEV6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MEG3SJB-it'
+slug: 'B01MEG3SJB-it Io Sono Leggenda'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

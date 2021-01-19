@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZKKiwnfVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZYCDKQ-it'
+slug: 'B07MZYCDKQ-it Cuffie Wireless Over-Ear  Mixcder HD901 Cuffie Senza Fili Bluetooth 4.2 Supporto TF Card  Pieghevoli e Cablate Audio Stereo e Microfono Incorporato  Paraorecchie Proteici Morbida per iOS e Android'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

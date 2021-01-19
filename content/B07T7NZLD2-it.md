@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lmj2UoYPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7NZLD2-it'
+slug: 'B07T7NZLD2-it The North Face M Croda Rossa FLC  Pile Uomo  Grigio  Asphalt Grey   L'
 actualPrice: 53.43 EUR
 currency: EUR
 price: 53.43

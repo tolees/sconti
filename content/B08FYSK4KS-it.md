@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mCqjEA9wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FYSK4KS-it'
+slug: 'B08FYSK4KS-it NGFF M.2 nVME - Scheda adattatore SSD per MacBook Air  2013-2016 anno  e MacBook Pro  fine 2013-2015  M.2 2280 PCIe x4 AHCI'
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m5Zq-LsXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089RBXWH3-it'
+slug: 'B089RBXWH3-it Widamin 2Pezzi  Vetro temperato Compatibile con Galaxy A21s  Pellicola in Vetro  [Durezza 9H]  [Alta Definizione]  [No-Bubble] Screen Protector per Samsung Galaxy A21s'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

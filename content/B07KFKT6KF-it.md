@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g0bNbJrNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFKT6KF-it'
+slug: 'B07KFKT6KF-it adidas Grand Court  Scarpe Sportive Uomo  Bianco  Cloud White/Core Black/Cloud White   36 1/3 EU'
 actualPrice: 25.63 EUR
 currency: EUR
 price: 25.63

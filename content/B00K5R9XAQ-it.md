@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wKpYZLZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5R9XAQ-it'
+slug: 'B00K5R9XAQ-it Tommy Hilfiger Stretch V Neck 3 Pack Premium Ess Maglietta  Nero  Black 990   Medium  Pacco da 3  Uomo'
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

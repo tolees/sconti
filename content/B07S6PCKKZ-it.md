@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E-st-92sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6PCKKZ-it'
+slug: 'B07S6PCKKZ-it PUMA Smash V2 L  Sneakers Unisex-Adulto  Weiß White High Risk Red Team Gold  46 EU'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

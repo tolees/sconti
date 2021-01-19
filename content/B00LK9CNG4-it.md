@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Oo3n+MgiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LK9CNG4-it'
+slug: 'B00LK9CNG4-it Bialetti Moka Induction Caffettiera in Alluminio  Adatta all induzione  Grigio Antracite  3 Tazze'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

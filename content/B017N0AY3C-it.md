@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HF0lkuGIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017N0AY3C-it'
+slug: 'B017N0AY3C-it 100 Cialde Capsule caffè ROSSOMOKA Espresso compatibili NESPRESSO gusto INTENSO'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

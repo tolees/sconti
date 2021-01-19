@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mUArTDWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BL57DFP-it'
+slug: 'B08BL57DFP-it Striscia LED RGB 5M 8 Colori 18 Modalità Più Colori insieme IP65 con 24 Tasti Telecomando IR per Giardino Bar Festa Facile Installazione OUSFOT'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

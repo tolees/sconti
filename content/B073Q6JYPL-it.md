@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z49yrbt1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073Q6JYPL-it'
+slug: 'B073Q6JYPL-it Saucony Jazz Original Vintage  Sneakers Uomo  Blue Navy Silver 4  46.5 EU'
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

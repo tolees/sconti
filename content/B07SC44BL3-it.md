@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515NCf0otTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC44BL3-it'
+slug: 'B07SC44BL3-it Call of Duty: Modern Warfare - Amazon Edition - PlayStation 4'
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

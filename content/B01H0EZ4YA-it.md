@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zpD9ODRtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H0EZ4YA-it'
+slug: 'B01H0EZ4YA-it Skyrim - Special Edition'
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

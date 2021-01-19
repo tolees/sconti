@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mppO0L3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777PZ6XM-it'
+slug: 'B0777PZ6XM-it Tommy Hilfiger Original Triblend V Neck T-Shirt  Rosso  Formula One 645   XX-Large Uomo'
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SQ7qtakWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1H3NWF-it'
+slug: 'B07X1H3NWF-it Ciabatta Intelligente Multipresa Wifi 4 Prese AC 4 Porte USB AOFO Funzione Timer Protezione da Sovraccarico 4000W 16A  APP Controllo Remoto  Compatible con Amazon Alexa  Google Assistant e IFTTT'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

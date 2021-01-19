@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4152mDU284L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VRFGGP-it'
+slug: 'B084VRFGGP-it MS Windows 10 Pro 32 bit e 64 bit - Chiave di Licenza Originale per Posta e E-Mail + Guida di TPFNet® - Spedizione max. 60min'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

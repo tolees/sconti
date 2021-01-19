@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516t3kBVf2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1WLF35-it'
+slug: 'B07D1WLF35-it Stream System TV LED 40 BM40L'
 actualPrice: 149.8 EUR
 currency: EUR
 price: 149.8

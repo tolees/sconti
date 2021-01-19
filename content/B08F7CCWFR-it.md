@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517iifYcboL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7CCWFR-it'
+slug: 'B08F7CCWFR-it Tablet Bambini 7 Pollici con Wifi Offerte Android 9.0 Certificato Google GMS 3GB RAM 32GB/128GB Tablet PC in Offerta OTG 1.5GHz Quad Core Tablet Android con Giochi Educativi Netflix YouTube Blu '
 actualPrice: 72.92 EUR
 currency: EUR
 price: 72.92

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Os1G+E6fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ484QU-it'
+slug: 'B01MZ484QU-it ONE PUNCH MAN - Tappetino per il mouse - Saitama Testa'
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

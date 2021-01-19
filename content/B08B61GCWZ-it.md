@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vpqvBZw+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B61GCWZ-it'
+slug: 'B08B61GCWZ-it MOONESS Custodia Xiaomi Redmi Note 9s Pelle + Vetro temperato Flip Premium Protettiva Portafoglio Case Cover per Xiaomi Redmi Note 9s/Note 9 PRO P-Nero '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

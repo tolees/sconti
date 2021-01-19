@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ec-UtOI9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TYJ4L76-it'
+slug: 'B00TYJ4L76-it Minnie - Cucina di Minnie  181694'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

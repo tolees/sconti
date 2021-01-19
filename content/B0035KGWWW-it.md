@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kN5Kd2JZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0035KGWWW-it'
+slug: 'B0035KGWWW-it Sola Scriptura'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

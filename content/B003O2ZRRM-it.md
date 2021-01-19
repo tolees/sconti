@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JFDicI+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003O2ZRRM-it'
+slug: 'B003O2ZRRM-it K&N 99-5003EU Filtri Aria  Set di 2'
 actualPrice: 20.11 EUR
 currency: EUR
 price: 20.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4123CNj5xJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779H7YTF-it'
+slug: 'B0779H7YTF-it Kappa Taino Authentic - Felpa da Uomo con Cappuccio  Stile retrò  a Maniche Lunghe  Taglia S-XXL  Uomo  705322  001 Bianco  XXL'
 actualPrice: 17.06 EUR
 currency: EUR
 price: 17.06

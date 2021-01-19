@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415ET9RDsHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FTDCMV-it'
+slug: 'B075FTDCMV-it NESCAFE DOLCE GUSTO COMPATIBILE 96 capsule POP CAFFÈ E-GUSTO M. 1 INTENSO cialde'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

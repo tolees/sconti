@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fsucXkLEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QQ3XX7-it'
+slug: 'B086QQ3XX7-it Ashleymade Anello Personalizzato Figlie Madre Anelli in Argento con Nome e Pietra Gioielli Regali per Donna San Valentino Compleanno  Argento  14.5  7  '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

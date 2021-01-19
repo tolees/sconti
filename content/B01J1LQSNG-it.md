@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R5Ns+kP2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J1LQSNG-it'
+slug: 'B01J1LQSNG-it Crocs Crocband Kids  Sandali con Cinturino alla Caviglia Unisex-Bambini  Volt Green/Smoke  20/21 EU'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ecIW9PxjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVJD8Z2-it'
+slug: 'B07FVJD8Z2-it AMANKA Luce Bici  Luci LED per Bicicletta Ricaricabili USB Impermeabile  Super Luminoso Luce Bici Anteriore e Posteriore per Bici Strada e Montagna Cavo USB Incluso '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

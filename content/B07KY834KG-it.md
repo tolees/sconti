@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pBrOw5OZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KY834KG-it'
+slug: 'B07KY834KG-it Eastpak Rusher Borsa A Tracolla  23 cm  Verde  Crafty Moss '
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

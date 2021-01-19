@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BPBUxSpQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MAZNLZZ-it'
+slug: 'B01MAZNLZZ-it Redford Nizza  Camicia Uomo  Blu  Blau   Misura Collo: 44 cm   X-Large '
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

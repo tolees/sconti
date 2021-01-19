@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fvj8noJIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007JTBONC-it'
+slug: 'B007JTBONC-it Fineliner - STABILO point 88 - Pack da 3 - Nero/Blu/Rosso'
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

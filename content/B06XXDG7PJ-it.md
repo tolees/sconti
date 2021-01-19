@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515fzcFMtcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXDG7PJ-it'
+slug: 'B06XXDG7PJ-it New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Verde  Olive Night   42.5 EU'
 actualPrice: 56.85 EUR
 currency: EUR
 price: 56.85

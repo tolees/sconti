@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xjAXdR5lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FFK45MW-it'
+slug: 'B08FFK45MW-it Pellicola Xiaomi Mi Note 10 Lite Vetro Temperato  9H Durezza Protezione Schermo  Anti Graffi HD Trasparenza Protettiva Screen Protector Film'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

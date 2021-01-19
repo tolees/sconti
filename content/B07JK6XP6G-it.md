@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+qnM1PyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JK6XP6G-it'
+slug: 'B07JK6XP6G-it Under Armour UA Undeniable SP 2.0  Borsa Unisex  Nero  OSFA'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

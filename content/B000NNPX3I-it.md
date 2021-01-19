@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iLjZ4eLcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NNPX3I-it'
+slug: 'B000NNPX3I-it Beurer 66200 EM 80 Apparecchio TENS/EMS Digitale'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7D4XJW-it'
+slug: 'B07V7D4XJW-it Boss Tee 4 T-Shirt  Blu  Navy 410   Small Uomo'
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

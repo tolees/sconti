@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BrvKiGreL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCFBPYJ-it'
+slug: 'B07YCFBPYJ-it Zaino Mamma Multifunzione neonato Fasciatoio Bambino impermeabile Borsa di stile per pannolini multi funzione con porta USB per mamma e papà'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

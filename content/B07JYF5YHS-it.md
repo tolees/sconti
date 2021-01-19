@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418JlPcpezL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYF5YHS-it'
+slug: 'B07JYF5YHS-it Regina Wish Carta Cucina | Confezione da 24 Rotoli | 150 strappi per rotolo* | Fogli a misura di mano  scegli quanto basta e sprechi di meno | Carta 100% certificata FSC®'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

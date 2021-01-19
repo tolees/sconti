@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hCYndFFkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HQYJ7LM-it'
+slug: 'B08HQYJ7LM-it 4 X Spray deodorante Piedi - 150 ml'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LM7C67crL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073J5HF8C-it'
+slug: 'B073J5HF8C-it Tommy Hilfiger Not Applicable '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TlWshpbdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZV318Q-it'
+slug: 'B07WZV318Q-it STARBUCKS SINGLE-ORIGIN COLOMBIA by NESCAFÉ DOLCE GUSTO Caffè dalla tostatura media 6 confezioni da 12 capsule  72 capsule '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

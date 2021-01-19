@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oXr0OtKDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J9RU4LO-it'
+slug: 'B01J9RU4LO-it INBIKE Occhiali da Sole polarizzati da Ciclismo per Uomo  Nero '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

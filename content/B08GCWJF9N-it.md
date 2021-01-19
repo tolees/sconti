@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XG0MNOpTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GCWJF9N-it'
+slug: 'B08GCWJF9N-it Outsunny Carrello Pieghevole per Giardinaggio Campeggio Telaio in Acciaio e Tessuto Oxford Blu 94 x 55 x 93.5cm'
 actualPrice: 66.36 EUR
 currency: EUR
 price: 66.36

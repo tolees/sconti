@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aXJJ5q9EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082TP9DLM-it'
+slug: 'B082TP9DLM-it Emojoy Set Coltelli da Cucina  Ceppo Coltelli Cucina Professionali 6 Pezzi  Coltelli in Acciaio Inossidabile con Blocco in Legno  Razor Lama Affilata'
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

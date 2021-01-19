@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kbIdjuK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IAQ3BCA-it'
+slug: 'B00IAQ3BCA-it Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano Raccolta 17 l  Plastica Dura  200 Air Watt  1000 W - Due Tubi Rigidi D Aspirazione  2 Bocchette  Filtro  Sacchetto  Tubo 2 m'
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

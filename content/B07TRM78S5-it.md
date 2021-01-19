@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ec8cP+XxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRM78S5-it'
+slug: 'B07TRM78S5-it Levi s Graphic Tee T-Shirt  Nero  Boxtab SS T2 Mineral Black 0002   Large Uomo'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

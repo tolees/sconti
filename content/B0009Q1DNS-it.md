@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ONHxUuyqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009Q1DNS-it'
+slug: 'B0009Q1DNS-it Bialetti Venus Caffettiera in Acciaio Inox  Adatta all Induzione  Inossidabile  Argento  4 Tazze'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

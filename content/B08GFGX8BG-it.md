@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41edULY6ZIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GFGX8BG-it'
+slug: 'B08GFGX8BG-it Auricolare Bluetoot Cuffie Bluetooth touch 24h Playtime 3D stereo HD Cuffie Wireless  Binaurale Call auto Pairing Con Scatola di Ricarica IPX7 sport impermeabili，per Dispositivi iOS/Android Bianco'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

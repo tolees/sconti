@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419pd4kXEXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000T2HNWW-it'
+slug: 'B000T2HNWW-it Metaltex Babatex  - Cestello sottoripiano -  363840 '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

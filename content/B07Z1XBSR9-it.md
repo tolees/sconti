@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pzr5pfqdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1XBSR9-it'
+slug: 'B07Z1XBSR9-it LABISTS Raspberry Pi 4 Model B 4GB RAM Starter Kit  RPi Barebone con MicroSD 64GB  Tipo C Alimentatore 5.1V 3A  Ventola  2 Micro HDMI  Raspberry Pi 4 Case Protettiva Nera e Lettore di Scheda'
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

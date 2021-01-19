@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312lAlq7qML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KN4FMQ-it'
+slug: 'B000KN4FMQ-it Pentel BL77 EnerGel XM scatto 0 7 mm nero   12 pezzi'
 actualPrice: 31.55 EUR
 currency: EUR
 price: 31.55

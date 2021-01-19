@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QEfiXEbvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6G5T9J-it'
+slug: 'B07J6G5T9J-it Apple iPhone XR  64GB  - Nero'
 actualPrice: 569.99 EUR
 currency: EUR
 price: 569.99

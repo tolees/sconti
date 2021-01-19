@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414vK03NVfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0022SHYYS-it'
+slug: 'B0022SHYYS-it Konus - Bussola KONUSTAR-10 Grigia  4074'
 actualPrice: 50.57 EUR
 currency: EUR
 price: 50.57

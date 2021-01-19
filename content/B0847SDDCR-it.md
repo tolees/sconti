@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411U5Wa9aZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0847SDDCR-it'
+slug: 'B0847SDDCR-it ghd platinum+ Styler Piastra per capelli  Edizione Limitata con custodia abbinata  Rosso Deep Scarlet'
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

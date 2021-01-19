@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Al9CuBY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001IDZ4WW-it'
+slug: 'B001IDZ4WW-it Max Factor Lipfinity Lip Colour  Rossetto Lunga Durata e Gloss Idratante con Applicazione Bifase  Nuance 020 Angelic  2.3 ml e 1.9 g'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-kVuTIfeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084W8DMJT-it'
+slug: 'B084W8DMJT-it Viakal Detersivo Anticalcare Spray Fresco Profumo  Maxi Formato 2 Pezzi da 700 ml'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

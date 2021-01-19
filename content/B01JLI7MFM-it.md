@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514dnslHq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLI7MFM-it'
+slug: 'B01JLI7MFM-it Orologio da uomo Tommy Hilfiger 1791309.'
 actualPrice: 113.9 EUR
 currency: EUR
 price: 113.9

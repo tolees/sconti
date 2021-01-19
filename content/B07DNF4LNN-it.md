@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e-CxV50AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNF4LNN-it'
+slug: 'B07DNF4LNN-it adidas Grand Court  Scarpe da Tennis Donna  Ftwr White/Platinum Met./Ftwr White  40 2/3 EU'
 actualPrice: 57.94 EUR
 currency: EUR
 price: 57.94

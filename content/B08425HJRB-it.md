@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p7k+PYeJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08425HJRB-it'
+slug: 'B08425HJRB-it THE G-LAB Korp HELIUM - Auricolari In-ear di alta qualità con Microfono Incorporato - Jack da 3 5 mm per smartphone iPhone Android PC PS4 Xbox One Nintendo Switch Mac Tablet - Nuovo 2020'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

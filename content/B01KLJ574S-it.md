@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51i5Zw631zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KLJ574S-it'
+slug: 'B01KLJ574S-it TRENINO THOMAS- Mega  DXH55'
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p1I57OdIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FMKMTC4-it'
+slug: 'B08FMKMTC4-it XYB Auricolari Bluetooth 5.0  Auricolare Wireless  Microfono e Scatola di Ricarica incorporati incorporati  riduzione del Rumore Stereo 3D HD  per Cuffie Apple Airpods Android/iPhone/Samsung'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

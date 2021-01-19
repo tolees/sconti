@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fpluvnrJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089B8FWH5-it'
+slug: 'B089B8FWH5-it CARPISA® Borsa lavoro con doppi manici - Soya'
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

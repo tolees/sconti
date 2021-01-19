@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413diibxGnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084GPR4BW-it'
+slug: 'B084GPR4BW-it Svelto Expert Pastiglie per Lavastoviglie Extra Igiene  Confezione Risparmio  140 Lavaggi  20 Unità  Confezione da 7 '
 actualPrice: 19.25 EUR
 currency: EUR
 price: 19.25

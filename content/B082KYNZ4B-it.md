@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XnwTDljDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KYNZ4B-it'
+slug: 'B082KYNZ4B-it KOLLIEE Aromaterapia Oli Essenziali Puri Bio Oli Essenziali Per Diffusori Naturali Lavanda  Menta piperita  Limone  Arancia Dolce  Gelsomino Orchidea Rosmarino Eucalipto'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

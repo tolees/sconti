@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3161qRaSrAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ91YB7-it'
+slug: 'B07CZ91YB7-it Puma Epic Flip V2  Infradito Unisex – Adulto  Rosa  Winsome Orchid-Puma White 26   47 EU'
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

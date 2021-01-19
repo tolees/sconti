@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fxkXxtDRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WR4JDKK-it'
+slug: 'B00WR4JDKK-it Garnier Ambre Solaire Crema Protezione Solare UV Sport  Ottima per lo Sport  Resiste al Sudore  non Cola sugli Occhi  IP30  50 ml  Confezione da 1'
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

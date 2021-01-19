@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W8l5WqDLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ29NSG-it'
+slug: 'B07MQ29NSG-it Sylvanian Families - 5324 - Pizzeria'
 actualPrice: 35.52 EUR
 currency: EUR
 price: 35.52

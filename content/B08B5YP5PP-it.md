@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GDuQbAx+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5YP5PP-it'
+slug: 'B08B5YP5PP-it Echo Plus  2ª generazione  - Tessuto antracite + Philips Hue White Lampadina'
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

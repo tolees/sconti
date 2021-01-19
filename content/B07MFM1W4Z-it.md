@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31T+YKi7ioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM1W4Z-it'
+slug: 'B07MFM1W4Z-it Clarks Tri Solar  Scarpe da Ginnastica Basse Uomo  Nero  Black Leather Black Leather   40 EU'
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

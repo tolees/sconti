@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fOz6o0XzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP4FQKM-it'
+slug: 'B07SP4FQKM-it Havaianas Slim Floral  Infradito Donna  Multicolore  Blue 0031   33/34 EU'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

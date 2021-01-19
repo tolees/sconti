@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uKNg9aybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLH53TV-it'
+slug: 'B08BLH53TV-it Smartphone Offerta del Giorno  Cellulari Offerte 4G Smartphone 6.2 Pollici 3 GB RAM 32 GB ROM - Dual SIM'
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

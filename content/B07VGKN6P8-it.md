@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L1hOd4YvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGKN6P8-it'
+slug: 'B07VGKN6P8-it NAPAPIJRI Elli Polo  Blu  Medieval Blue Bb61   Large Uomo'
 actualPrice: 43.45 EUR
 currency: EUR
 price: 43.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ssgKOoz+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009AYB4WA-it'
+slug: 'B009AYB4WA-it Enerzona Enervit  Integratore Alimentare per il Controllo del Colesterolo e Trigliceridi  Omega 3 RX - 240 Capsule'
 actualPrice: 57.77 EUR
 currency: EUR
 price: 57.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51suF+sd3qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MBIJ9LU-it'
+slug: 'B00MBIJ9LU-it Ferrolin C - 24 Pocket Drink'
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

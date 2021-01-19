@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gx-jcmUFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813XL4XS-it'
+slug: 'B0813XL4XS-it adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore Cloud White Ftwr White Orbit Grey  Numeric 44'
 actualPrice: 46.09 EUR
 currency: EUR
 price: 46.09

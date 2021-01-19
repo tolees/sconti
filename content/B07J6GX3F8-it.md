@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51O2Ol2KJRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6GX3F8-it'
+slug: 'B07J6GX3F8-it Alex Perry Regalo Collana Donna Argento Punto Luce Collana Idee Regalo per Regali Originali Gioielli Donna Offerta Regalo Mamma maestra Fidanzata Regali Divertenti Compleanno'
 actualPrice: 12.34 EUR
 currency: EUR
 price: 12.34

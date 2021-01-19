@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NZEfzp6wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC2BNFS-it'
+slug: 'B07WC2BNFS-it Powerbeats Pro Wireless Auricolari – Chip per cuffie Apple H1  Bluetooth di Classe 1  9 ore di ascolto  auricolari resistenti al sudore – Muschio'
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

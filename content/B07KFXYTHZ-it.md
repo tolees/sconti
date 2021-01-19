@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AplAfeF2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXYTHZ-it'
+slug: 'B07KFXYTHZ-it Puma Caracal  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black  38.5 EU'
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

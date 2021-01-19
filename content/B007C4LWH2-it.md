@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512gLX1KHOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007C4LWH2-it'
+slug: 'B007C4LWH2-it Binary Domain'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

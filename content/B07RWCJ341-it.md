@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gTaDmJ2aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWCJ341-it'
+slug: 'B07RWCJ341-it Zaino Donna  COOFIT Borsa Zainetto Donna Universita Elegante Backpack Ragazze'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

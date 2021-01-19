@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vMA+HQQ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D76R7TP-it'
+slug: 'B07D76R7TP-it Levi s Type 3 Sherpa Trucker Giacca  Nero  Black Cord Better 0068   Small Uomo'
 actualPrice: 75.89 EUR
 currency: EUR
 price: 75.89

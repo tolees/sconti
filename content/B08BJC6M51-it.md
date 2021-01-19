@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iqK+d0MxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJC6M51-it'
+slug: 'B08BJC6M51-it Ossimetro/pulsossimetro di precisione'
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

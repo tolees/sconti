@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wXaFYB3SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB1B4T3-it'
+slug: 'B07HB1B4T3-it AUTO HIGH - Coprisedili Universali per Auto  Set Completo di Fodere per Seggiolino Auto  Protezioni per la Parte Anteriore e Posteriore del Sedile in Pelle Sintetica Premium  11 Pezzi  Nero #3'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

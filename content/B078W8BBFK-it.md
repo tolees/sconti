@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hcDY-FVJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078W8BBFK-it'
+slug: 'B078W8BBFK-it TIPPY PAD dispositivo anti abbandono'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

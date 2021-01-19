@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c9TB-hmML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0834XXJ1N-it'
+slug: 'B0834XXJ1N-it Cuscino da viaggio gonfiabile ultraleggero da campeggio Cuscini di gonfiaggio compatti  confortevoli  comprimibili ed ergonomici per collo e supporto lombare mentre si accampa  zaino in spalla'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

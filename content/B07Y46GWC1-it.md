@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e17JVC1FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y46GWC1-it'
+slug: 'B07Y46GWC1-it BOZHZO Togli Peli Animali e Guanto Spazzola Animali  Epilatore di Pulizia Automatico Riutilizzabile  Rimuovi Facilmente la Pelliccia di Animali Domestici da Mobili Tappeti Vestiti e Altro'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

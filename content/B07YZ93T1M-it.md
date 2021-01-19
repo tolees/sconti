@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oR+xP8evL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZ93T1M-it'
+slug: 'B07YZ93T1M-it Oxford Street Cuscino Cervicale Memory Foam  Cuscini Antirussamento in Memory Foam Ergonomico per Dolori a Collo e Cervicali Collo e cervicali Federa Morbida di Rimovibile e Lavabile  M-60×9/11cm-A '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

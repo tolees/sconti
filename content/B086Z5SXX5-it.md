@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZbgF-EuvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086Z5SXX5-it'
+slug: 'B086Z5SXX5-it FARMAMED Aerosol Nebulizzatore Mesh Silenzioso Portatile per bambini e adulti con boccaglio e maschere  Inalatore Elettrico  Doppia Alimentazione  Ricaricabile con cavo USB'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

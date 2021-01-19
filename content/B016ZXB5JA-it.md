@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HhWCMxhOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016ZXB5JA-it'
+slug: 'B016ZXB5JA-it Garmin Forerunner 235 GPS Sportwatch con Sensore Cardio al Polso e Funzioni Smart  Nero/Rosso'
 actualPrice: 197.96 EUR
 currency: EUR
 price: 197.96

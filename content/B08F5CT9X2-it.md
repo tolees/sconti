@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31le5LwUxHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F5CT9X2-it'
+slug: 'B08F5CT9X2-it Cuffie Bluetooth 5.0 cuffie wireless cuffie stereo 3D con eliminazione del rumore cuffie sportive impermeabili e anti-sudore IPX5 per Cuffie Apple Airpods Android/iPhone/Samsung/Huawei'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

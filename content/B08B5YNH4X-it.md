@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yHucCdtOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5YNH4X-it'
+slug: 'B08B5YNH4X-it Webbb Cuffie Bluetooth  Auricolari Bluetooth Senza Fili TWS Auricolari Wireless 5.0 Sportivi in Ear con Custodia da Ricarica Microfono Leggeri Stereo per Samsung iPhone Xiaomi Huawei Sony Oneplus'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

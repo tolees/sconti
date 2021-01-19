@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IPwPSevAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000VB5JY-it'
+slug: 'B0000VB5JY-it Gillette Usa E Getta Rasoio Da Uomo - 150 Gr'
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

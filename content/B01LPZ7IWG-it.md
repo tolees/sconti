@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xP2CqgEHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LPZ7IWG-it'
+slug: 'B01LPZ7IWG-it SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  Doppio Pacco fino a 90 MB/sec  Classe 10  U3  V30'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L1bsh+6AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KKFCLF2-it'
+slug: 'B00KKFCLF2-it SONGMICS 2 x Sgabelli da Bar e da Cucina in Similpelle Regolabile Girevole con Schienale Nero LJB64B  finta pelle'
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

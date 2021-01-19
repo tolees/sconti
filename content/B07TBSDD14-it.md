@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BIp4m1TCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBSDD14-it'
+slug: 'B07TBSDD14-it Michael Kors Bedford - Borsa da torneo  13 x 25 x 29 cm  Nero  Nero  Black    13x25x29 cm  B x H x T '
 actualPrice: 87.55 EUR
 currency: EUR
 price: 87.55

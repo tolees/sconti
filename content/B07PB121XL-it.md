@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31edaq8RneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PB121XL-it'
+slug: 'B07PB121XL-it Samsung Galaxy Buds 2019 Auricolari Wireless  Bluetooth5.0  Bianco  White  [Versione Italiana]'
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

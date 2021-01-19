@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-mTRHJZXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0759T4RTD-it'
+slug: 'B0759T4RTD-it Tachipirina Tac0100019 Post Fludec Pronto Recupero - 12 Buste'
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

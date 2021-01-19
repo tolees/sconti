@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VU-xKfKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0175JU1RA-it'
+slug: 'B0175JU1RA-it Medipaq Cuscino Memory Foam per Rialzo - Supporto Schiena - Postura Migliore - Cuscino Viaggio - Allevia Il Dolore e Aumenta l’Altezza – Fodera in Maglia 3D Lavabile – Fondo Antiscivolo - Grigio'
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

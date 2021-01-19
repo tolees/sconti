@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eFMKlkMCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KHVDCF3-it'
+slug: 'B07KHVDCF3-it ALLPOWERS Caricabatterie Solare 24000mAh Solare Powerbank Batteria Esterna con USB C Uscite e Ingressi 3 Porte USB Power per Cellulare iPhone Samsung Huawei Smartphone Campeggio Esterno'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Od8WeIjSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP2KPWS-it'
+slug: 'B07FP2KPWS-it LEGO Classic 11003 Mattoncini e Occhi Set di Costruzioni Creativo  Regalo per Bambini +4 Anni'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

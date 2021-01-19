@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N14hcaYsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088C7GHWN-it'
+slug: 'B088C7GHWN-it Lenor Ammorbidente Diamante & Fiori di Loto  336 Lavaggi  Maxi Formato 8 x 42 Lavaggi'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

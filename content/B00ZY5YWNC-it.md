@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aoDI+CruL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZY5YWNC-it'
+slug: 'B00ZY5YWNC-it RoC Doposole 200 ml'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

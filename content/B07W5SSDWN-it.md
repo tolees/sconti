@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UDhAUb2-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5SSDWN-it'
+slug: 'B07W5SSDWN-it Tommy Hilfiger Rope Stripe Tee Camicia Sportiva  Blu  Sail Blue   Large  Taglia Unica:  Uomo'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

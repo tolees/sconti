@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51m9z+vk3fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ALKLR2-it'
+slug: 'B004ALKLR2-it Learning Resources Playfoam Combo  Pack of 8 '
 actualPrice: 10.1 EUR
 currency: EUR
 price: 10.1

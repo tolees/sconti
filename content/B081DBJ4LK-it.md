@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Al-CGfuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DBJ4LK-it'
+slug: 'B081DBJ4LK-it Guess Open Road Luxury Satchel  Handbag Donna  Nero  Uni'
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

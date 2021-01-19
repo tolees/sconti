@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JvkCth4hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSFQLQK-it'
+slug: 'B07YSFQLQK-it De Cecco Pasta Integrale Fusilli - 500 g'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

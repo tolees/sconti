@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S8T21wP9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4LQ1CT-it'
+slug: 'B07S4LQ1CT-it Hasbro Gaming Pierino il Porcospino Gioco in Scatola con Dardi  Multicolore  E5702'
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

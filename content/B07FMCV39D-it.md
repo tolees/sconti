@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kVmuPIFEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMCV39D-it'
+slug: 'B07FMCV39D-it Chicco Salviettine Detergenti Multiuso con Placchetta  12 Confezioni da 72 Salviettine'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

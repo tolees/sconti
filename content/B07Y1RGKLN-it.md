@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v+k85is2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1RGKLN-it'
+slug: 'B07Y1RGKLN-it OnNuvo Materasso New Gel Memory Foam Alta Densità 60-65 kg/m3  Lattice Bamboo Naturale 70-75 kg/m3  Micro Molle INDIPENDENTI  7 Zone  h 25 cm  Antidecubito Ortopedico Sfoderabile  160x200x25  Milano'
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TYK107uHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGG1XTS-it'
+slug: 'B07HGG1XTS-it JBL Tune500BT Cuffie Wireless Sovraurali con funzione Multipoint e Ricarica veloce – Cuffie On-Ear Bluetooth con connessione a Siri e Google – Fino a 16h di autonomia  Bianco'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

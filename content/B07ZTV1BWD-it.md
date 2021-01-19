@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3100oTQBAaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTV1BWD-it'
+slug: 'B07ZTV1BWD-it Nike Air Max 270 React  Scarpe da Ginnastica Uomo  Nero  Black/Oil Grey/Oil Grey/Black/Black/White   38.5 EU'
 actualPrice: 43.78 EUR
 currency: EUR
 price: 43.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ClPgDU6-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F1X6ZH2-it'
+slug: 'B08F1X6ZH2-it Xiaomi Redmi Airdots 2  Timoom Cuffie Bluetooth 5.0  Originale Auricolari Sportivo TWS Wireless Stereo Sound HI-FI Custodia di Ricarica in Ear Headphones Microfono Touch Control  Nero 2020 Latest '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

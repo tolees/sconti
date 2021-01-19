@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zOnbSkB6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08232KNLX-it'
+slug: 'B08232KNLX-it The Protein Works Matrix Massa Totale Extreme  Tiramisu Italiano - 4240 Gr'
 actualPrice: 39.63 EUR
 currency: EUR
 price: 39.63

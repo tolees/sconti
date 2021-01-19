@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HENKAu2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZK82B9-it'
+slug: 'B07YZK82B9-it Head & Shoulders Suprême Protezione Colore Shampoo e Balsamo Antiforfora  con Olio di Argan  per un Colore a Lunga Tenuta  2x225 ml + 2x220 ml'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

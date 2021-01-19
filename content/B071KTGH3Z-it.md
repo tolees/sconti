@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pU19ry3nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KTGH3Z-it'
+slug: 'B071KTGH3Z-it Rimmel London Stay Matte Rossetto Opaco Lunga Durata  Formula Liquida Waterproof No Transfer  820 Heartbeat  5.5 ml'
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

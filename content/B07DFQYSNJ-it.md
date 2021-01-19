@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Vd3BOnbUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFQYSNJ-it'
+slug: 'B07DFQYSNJ-it Puma Luxe Mesh Tight Pants  Donna  Fig-Puma Black  S'
 actualPrice: 22.52 EUR
 currency: EUR
 price: 22.52

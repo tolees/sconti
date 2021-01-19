@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c-sLD0uEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMKHM4Y-it'
+slug: 'B07KMKHM4Y-it ARMANI EXCHANGE Icon Project Felpa  Nero  Black 1200   Small Uomo'
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45

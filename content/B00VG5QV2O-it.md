@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51V-Mu6PW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VG5QV2O-it'
+slug: 'B00VG5QV2O-it Tè bianco imperiale dell’Himalaya in foglie – Il tè più sano al mondo  ricco di POTENTI ANTIOSSIDANTI  raccolto fresco a mano nel da piantagioni di alta quota  floreale e invitante  25 Tazze'
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

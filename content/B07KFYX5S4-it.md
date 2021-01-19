@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYX5S4-it'
+slug: 'B07KFYX5S4-it PUMA Ralph Sampson Lo  Sneaker Unisex-Adulto  Bianco White Peacoat White  40.5 EU'
 actualPrice: 33.37 EUR
 currency: EUR
 price: 33.37

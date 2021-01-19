@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PoyJs-n0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016BEPP9O-it'
+slug: 'B016BEPP9O-it Kingston DataTraveler 100 G3-DT100G3/128GB USB 3.0  PenDrive  128 GB  1 Pezzo  Nero'
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

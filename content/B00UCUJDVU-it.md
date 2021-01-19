@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yhue41ufL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UCUJDVU-it'
+slug: 'B00UCUJDVU-it Samsung Galaxy A51 Smartphone  Display 6.5" Super AMOLED  4 Fotocamere Posteriori  128 GB Espandibili  RAM 4 GB  Batteria 4000 mAh  4G  Dual Sim  Android 10  [Versione Italiana]  Prism Crush White'
 actualPrice: 260.0 EUR
 currency: EUR
 price: 260.0

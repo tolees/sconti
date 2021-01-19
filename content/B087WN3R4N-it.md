@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ar-ha6e+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WN3R4N-it'
+slug: 'B087WN3R4N-it Smartwatch  YONMIG Orologio Fitness Uomo Donna  Smart Watch Touch con Saturimetro SpO2 /Cardiofrequenzimetro da Polso  Fitness Tracker Sportivo Impermeabile 5ATM Bambini Cronometro per Android iOS'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

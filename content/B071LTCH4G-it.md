@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Iz28xxaUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LTCH4G-it'
+slug: 'B071LTCH4G-it New Balance Pc574v1 Sneaker Unisex - Bambini  Nero  Black/grey   31 EU  12.5 UK '
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

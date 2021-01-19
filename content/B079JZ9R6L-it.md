@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Dr8qLmSgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JZ9R6L-it'
+slug: 'B079JZ9R6L-it Philips Serie 5000 EP5310/10 Macchina da Caffè Automatica con Macine in Ceramica e Filtro AquaClean  Pannarello Classico  Nero'
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

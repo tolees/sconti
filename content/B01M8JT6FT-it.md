@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ODjMF-28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8JT6FT-it'
+slug: 'B01M8JT6FT-it rabbitgoo Pettorina Cane Taglia Grande Regolabile  No-Pull Pettorina ad h Cane con 2 Ganci in Metallo  Imbracatura Riflettente Robusta  Pettorina Pitbull  Labrador in Passeggiate  Jogging L  Nero '
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

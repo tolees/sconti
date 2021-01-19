@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sSH+GJmjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BJH46JE-it'
+slug: 'B00BJH46JE-it BaByliss For Men E837E X-10 Kit multiaccessoriato per rasatura e depilazione  Uomo  viso  capelli e corpo  nero  grigio'
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

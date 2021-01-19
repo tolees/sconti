@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dG5hIeGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSD13P4-it'
+slug: 'B07GSD13P4-it Einhell 4513914 Trapano Avvitatore a Batteria'
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

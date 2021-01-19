@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ac-EppCWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0065HDQ4Y-it'
+slug: 'B0065HDQ4Y-it Intex 56942GS Piscina Rotonda con Pompa 305 x 76 cm'
 actualPrice: 155.0 EUR
 currency: EUR
 price: 155.0

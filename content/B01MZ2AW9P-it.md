@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JjCWG9f6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ2AW9P-it'
+slug: 'B01MZ2AW9P-it HOMCOM Schermo Proiezione Motorizzato Home Cinema 100 Pollici  Bianco'
 actualPrice: 63.96 EUR
 currency: EUR
 price: 63.96

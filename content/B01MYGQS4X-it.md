@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410BC+SMi6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYGQS4X-it'
+slug: 'B01MYGQS4X-it Vangold Muto Frameless Grande Orologio a Muro 3D Specchio Adesivo  Nero-73 '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

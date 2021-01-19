@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CzzrxvFZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRK2W5Q-it'
+slug: 'B07SRK2W5Q-it Geox U Kennet B  Scarpe da Ginnastica Basse Uomo  Grigio  Lt Grey C1010   46 EU'
 actualPrice: 37.25 EUR
 currency: EUR
 price: 37.25

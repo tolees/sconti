@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518NsisctvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089ZWKMJL-it'
+slug: 'B089ZWKMJL-it Tastiera meccanica da gioco a basso profilo  ultra sottile  interruttore blu clicky retroilluminato  pannello in alluminio TKL 87 tasti  US-Layout  tastiera per PC Gamer Typist'
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

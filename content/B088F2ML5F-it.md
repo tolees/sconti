@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410-WUtFcyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088F2ML5F-it'
+slug: 'B088F2ML5F-it QHOHQ Cover per Xiaomi Redmi 9 con 2 Pezzi Pellicola Protettiva  Silicone Morbido TPU Anti-Buttare Custodia - Vetro Temperato Membrana - [Durezza 9H] - [Anti-Graffio]'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

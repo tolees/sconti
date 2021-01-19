@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OCmxt80kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085JBPPDC-it'
+slug: 'B085JBPPDC-it Calvin Klein Sneakersocken  6er Pack  White/Grey/Black  40/46 Calzini  Nero  Taglia unica Uomo'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

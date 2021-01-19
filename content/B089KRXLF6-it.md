@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NshMj5FIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KRXLF6-it'
+slug: 'B089KRXLF6-it Auricolari Bluetooth 5.0 Cuffie Wireless  Cuffia Microfono Stereo 3D Integrato  [Scatola Di Ricarica 24 Ore] Auricolare Sportivo Impermeabile IPX7  Per iPhone/Apple Airpods Pro/Android'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

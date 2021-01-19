@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e-X64bzxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3F2VB1-it'
+slug: 'B07V3F2VB1-it YAMAMAY® Slip Costume con Lacci Regolabili  Tinta Unita con Inserti in Lurex- Mirage'
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

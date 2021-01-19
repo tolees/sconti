@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LgMSHMLyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KVXX4R-it'
+slug: 'B089KVXX4R-it Oral-B CrossAction Testine di Ricambio per Spazzolino Elettrico con Tecnologia CleanMaximiser  Confezione da 5 Pezzi'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

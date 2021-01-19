@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HfXWTiE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK98LL6-it'
+slug: 'B07RK98LL6-it riverso - Pantaloncini Cargo da Uomo RIVAnton  con Cintura  100% Cotone  Blu  Grigio  Verde Oliva  Nero  Beige  a Quadretti w30 - w46 Grigio Dawn  23200 . 44W'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

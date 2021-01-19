@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aJJocvR9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GSRD67J-it'
+slug: 'B08GSRD67J-it Entweg Sensore a infrarossi IR Senza Contatto Fronte Corpo/Oggetto Termometro Misurazione della Temperatura Display Digitale LCD unità di Design per Impugnatura Batterie sostituibili'
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

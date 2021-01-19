@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tCAvFqgzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XHSDZ5E-it'
+slug: 'B00XHSDZ5E-it Det. Liquido Yogurt Aloe 300 Ml'
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

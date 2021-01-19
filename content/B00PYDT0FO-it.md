@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41natsFFydL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYDT0FO-it'
+slug: 'B00PYDT0FO-it Nike MD Runner 2  Scarpe da Running Uomo  Nero  Black/White/Anthracite   39 EU'
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

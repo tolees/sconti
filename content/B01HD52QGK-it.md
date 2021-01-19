@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MRrMTEPDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD52QGK-it'
+slug: 'B01HD52QGK-it Osram Lampadina LED Star Pin con attacco G4  =28W  luce calda  non dimmerabile  dritta  plastica'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

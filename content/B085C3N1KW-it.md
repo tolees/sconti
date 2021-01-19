@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xAV2J9cLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085C3N1KW-it'
+slug: 'B085C3N1KW-it HONOR Smartwatch Magic Watch 2  42mm   Orologio Fitness Tracker Uomo Donna Smart Watch  5 ATM Smart Watch Cardiofrequenzimetro da Polso Pressione Smartband  1.20 Pollice Schermo a Colori Matte Black'
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

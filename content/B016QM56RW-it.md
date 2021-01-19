@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s2SMMbTyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QM56RW-it'
+slug: 'B016QM56RW-it Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta  Bianco  Bright White 100   Large Uomo'
 actualPrice: 21.17 EUR
 currency: EUR
 price: 21.17

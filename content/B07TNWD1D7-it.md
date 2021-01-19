@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ye9wqp5hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNWD1D7-it'
+slug: 'B07TNWD1D7-it Havaianas Slim Flatform  Infradito Donna  Rosa  Pink Porcelain 7600   33/34 EU'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21WxQlWuuDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLYPH2P-it'
+slug: 'B07PLYPH2P-it DJI Osmo Pocket Adapter - Adattatore Audio da 3.5 mm di Tipo C per Microfono Esterno  per Registrazioni e Audio di Alta Qualità - Nero'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

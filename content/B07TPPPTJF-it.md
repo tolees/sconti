@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mJfKd4JvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPPPTJF-it'
+slug: 'B07TPPPTJF-it Levi s Original Batwing Maglietta  Multicolore  HM Patch Polo Riverside/White/Mello 0010   X-Large Uomo'
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tZ8TdXJWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXQF391-it'
+slug: 'B07FXQF391-it Vans Filmore Decon  Scarpe da Ginnastica Uomo  Rosso   Canvas  Port Royale/White 8j7   43 EU'
 actualPrice: 41.94 EUR
 currency: EUR
 price: 41.94

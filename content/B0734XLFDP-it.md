@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51F8gTjSTAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0734XLFDP-it'
+slug: 'B0734XLFDP-it Guanti usa e getta  in plastica  100 pezzi  per uso alimentare  trasparenti  taglia L'
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

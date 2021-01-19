@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kI0AL2ypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRNFZ9S-it'
+slug: 'B07DRNFZ9S-it Michael Kors Voyager Crossgrain Leather Tote - Borse Donna  Nero  Black   15.8x27.9x37.4 cm  B x H T '
 actualPrice: 137.0 EUR
 currency: EUR
 price: 137.0

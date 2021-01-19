@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYFG7CS-it'
+slug: 'B07TYFG7CS-it Boss T-Shirt RN 24  Grigio  Medium Grey 32   Small Uomo'
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

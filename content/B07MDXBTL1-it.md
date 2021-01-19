@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F2H5cuB7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDXBTL1-it'
+slug: 'B07MDXBTL1-it SanDisk SDCZ33-064G-G35 Cruzer Fit da 64 GB  Chiavetta USB 2.0  Versione 2019  Nero'
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

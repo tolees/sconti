@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C3adM8VRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFQCY7L-it'
+slug: 'B07PFQCY7L-it Moulinex FP2461 Easy Force  Robot da Cucina All-in-One  6 Accessori per 25 Diverse Funzioni  Capacità Recipiente 2.4 L'
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

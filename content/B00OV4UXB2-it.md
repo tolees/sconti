@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VoJpeZD1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OV4UXB2-it'
+slug: 'B00OV4UXB2-it K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Rosso  Red   Small  Taglia produttore: S '
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

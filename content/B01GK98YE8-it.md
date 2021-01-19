@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wH3k8gLuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GK98YE8-it'
+slug: 'B01GK98YE8-it Sandisk Ultra Dual USB Drive 3.0 16GB  Velocità di lettura fino a 130 MB/s  Nero'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

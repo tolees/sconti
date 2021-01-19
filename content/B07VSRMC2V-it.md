@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ggF3XXcvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSRMC2V-it'
+slug: 'B07VSRMC2V-it Carioca Set Back To School | Set Cancelleria Scuola con Matite Colorate e da Disegno  Acquerelli con Pennello  Pennarelli  Penne Cancellabili Oops  Pastelli  Gomme  Forbici  Colla Stick  100 Pezzi'
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

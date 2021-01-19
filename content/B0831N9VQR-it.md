@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b0RMrfdDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831N9VQR-it'
+slug: 'B0831N9VQR-it Canadian Peak - Parka da donna BABILONIA Blu marino L'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9
@@ -25,10 +25,10 @@ average: '49.9'
 
 ℹ️:
 
-- Apertura centrale con zip e bottoni
-- Tasche
-- Capelli sintetici rimovibili.
 - Cappuccio
+- Apertura centrale con zip e bottoni
+- Capelli sintetici rimovibili.
 - Ricamo e stemmi di marca
+- Tasche
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0831N9VQR/?tag=tolees00-21)

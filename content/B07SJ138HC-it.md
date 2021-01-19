@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PfHl-QVuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJ138HC-it'
+slug: 'B07SJ138HC-it FIFA 20 - Champions - Xbox One  3 anni +'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NXdtB3KWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B4VRFM0-it'
+slug: 'B00B4VRFM0-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4778'
 actualPrice: 95.74 EUR
 currency: EUR
 price: 95.74

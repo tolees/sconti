@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mgauRZXKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDK41VS-it'
+slug: 'B08CDK41VS-it Auricolari Bluetooth 5.0 Cuffie Wireless In Ear con Mic-Incorporato  Livello 7 Impermeabile Auricolare Senza Fili Sportivi  Cancellazione Intelligente del Rumore  Tocca Controllo  per iOS & Android'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

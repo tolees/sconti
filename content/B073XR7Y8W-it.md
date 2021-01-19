@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5199hzPX2wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XR7Y8W-it'
+slug: 'B073XR7Y8W-it Head & Shoulders Men Ultra Anticaduta Shampoo Antiforfora con Caffeina  Pacco da 6 x 225 ml'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

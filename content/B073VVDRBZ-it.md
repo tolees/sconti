@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JNOr9BLiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VVDRBZ-it'
+slug: 'B073VVDRBZ-it Blade Runner - The Final Cut  4K+Br '
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

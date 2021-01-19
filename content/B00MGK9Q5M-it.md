@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MK6oa6jUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MGK9Q5M-it'
+slug: 'B00MGK9Q5M-it Rimmel London Brow This Way Kit Sopracciglia  Sopracciglia Perfette in 3 Step  Medium Brown  2.4 g'
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CRKNburfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GEMTE2W-it'
+slug: 'B01GEMTE2W-it Pan di Stelle Torta Pronta da Gustare al Gusto di Cioccolato e Cacao per una Merenda Gustosa e Morbida  435 g'
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

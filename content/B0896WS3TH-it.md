@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51q7sIsuzML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0896WS3TH-it'
+slug: 'B0896WS3TH-it Wimypet Giochi per Cani durevoli  Giocattolo Palla per Cane & Interattivo Giocattoli di Corda Cane  4PCS Cibo per Cani Trattare Palla in Gomma Non tossico Pulito dei Denti di Cane Taglia Medio Piccola'
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

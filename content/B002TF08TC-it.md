@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fr37MoEEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002TF08TC-it'
+slug: 'B002TF08TC-it Coccolino - Ammorbidente Concentrato - Aria di Primavera - 750 ml'
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

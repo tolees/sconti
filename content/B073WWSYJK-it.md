@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512vyi4TBBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WWSYJK-it'
+slug: 'B073WWSYJK-it Crosstour Action Cam  Sport WiFi Camera 14MP 2”LCD Full HD Impermeabile 2 Batterie 1050mAh 170°Grandangolare e Kit Accessori per Ciclismo Nuoto e Altri Sport Esterni'
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

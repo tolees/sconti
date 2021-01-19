@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Dei3ld7rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z69CZLT-it'
+slug: 'B07Z69CZLT-it Pennelli Trucco oro Rosa 18 Pezzi Pennelli Trucco Premium Set Viso e Occhi  Pennelli Sintetici per Fondotinta Correttori in Polvere Ombretto Arrossito'
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

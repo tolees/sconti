@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KW0Gq7afL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2J2WVL-it'
+slug: 'B07V2J2WVL-it Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Basse Uomo  Blu  Desert Sky Dw5   41 EU'
 actualPrice: 30.02 EUR
 currency: EUR
 price: 30.02

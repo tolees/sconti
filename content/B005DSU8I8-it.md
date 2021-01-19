@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RqL3V3oDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005DSU8I8-it'
+slug: 'B005DSU8I8-it Giotto Stilnovo pastelli colorati in astuccio 36 colori'
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MzidNL9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084CTVV9W-it'
+slug: 'B084CTVV9W-it Avvitatore a Batteria  45Nm Trapano Avvitatore 18V  180Nm Avvitatore a Impulsi  2x2.0Ah Batterie  Caricatore Rapido  Luce di lavoro a LED  38pcs Accessori  Borsa Degli Attrezzi'
 actualPrice: 129.97 EUR
 currency: EUR
 price: 129.97
