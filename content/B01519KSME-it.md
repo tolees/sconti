@@ -26,8 +26,8 @@ average: '43.7'
 
 ℹ️:
 
-- Conforme alle norme ce en 1077; merce di marca nella confezione originale
-- Fodera traspirante, antibatterica, rimovibile, lavabile a 30 ° borsa casco gratuita inclusa
 - Casco da sci con 10 prese daria, rotella di regolazione, sottogola regolabile per una tenuta ottimale; imbottitura
+- Fodera traspirante, antibatterica, rimovibile, lavabile a 30 ° borsa casco gratuita inclusa
+- Conforme alle norme ce en 1077; merce di marca nella confezione originale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01519KSME/?tag=tolees00-21)
