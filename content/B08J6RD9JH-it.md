@@ -28,8 +28,8 @@ average: '24.49'
 
 - ◆ Dispenser di sapone touchless ideale: è molto versatile e adatto a una varietà di ambienti diversi come la cucina e i bagni domestici degli ospedali, ma anche uffici, hotel, ristoranti e altro ancora. Puoi riempirlo con sapone per le mani, detersivo per piatti, lozione, shampoo e altri liquidi simili.
 - ◆ Dispenser di sapone visibile: la parte anteriore del distributore di sapone ha una finestra visibile che ricorda di monitorare il liquido rimanente e riempire il sapone.
-- ◆ Dispenser di sapone touchless: questo distributore di sapone è dotato di una tecnologia di sensori a infrarossi di movimento intelligente che fornisce un funzionamento igienico, senza contatto e facile da usare, riduce al minimo la diffusione di germi ed evita la seconda infezione incrociata.
 - ◆ Attenzione: non mescolare con acqua! 5 cm è la distanza migliore tra la tua mano e il distributore di sapone.
+- ◆ Dispenser di sapone touchless: questo distributore di sapone è dotato di una tecnologia di sensori a infrarossi di movimento intelligente che fornisce un funzionamento igienico, senza contatto e facile da usare, riduce al minimo la diffusione di germi ed evita la seconda infezione incrociata.
 - ◆ IP66 Waterproof Anti-leak: La base è dotata di tecnologia IPP6 waterproof e leak proof per evitare che acqua o sapone corrodano il circuito stampato.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08J6RD9JH/?tag=tolees00-21)

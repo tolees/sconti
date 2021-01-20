@@ -26,10 +26,10 @@ average: '5.95'
 
 ℹ️:
 
-- Formula - Texture ultra morbida per un comfort estremo. Composizione dermatologicamente e oftalmologicamente testata adatta anche ad occhi sensibili e compatibile con luso di lenti a contatto
+- Applicazione - Ultimate Kohl può essere sfumato sulla palpebra per creare uno smoky eyes perfetto oppure steso lungo la rima interna dellocchio per dare profondità allo sguardo
 - Effetti e Benefici - Trucco occhi a lunga tenuta iperpigmentato e facile da applicare
 - Live the London Look! Rimmel London è il makeup dallo stile cool, irriverente, imprevedibile e sempre di tendenza. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
+- Formula - Texture ultra morbida per un comfort estremo. Composizione dermatologicamente e oftalmologicamente testata adatta anche ad occhi sensibili e compatibile con luso di lenti a contatto
 - Ultimate Kohl - Iconico matitone occhi kajal perfetto per creare un makeup occhi drammatico e audace dai colori superintensi
-- Applicazione - Ultimate Kohl può essere sfumato sulla palpebra per creare uno smoky eyes perfetto oppure steso lungo la rima interna dellocchio per dare profondità allo sguardo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079L4QH1L/?tag=tolees00-21)

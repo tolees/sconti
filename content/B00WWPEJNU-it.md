@@ -26,9 +26,9 @@ Puoi trovare [JACK & JONES Sense Trunks 3-Pack Boxer  Nero  Black   Medium  Pacc
 
 ℹ️:
 
+- Boxer: Set di boxer
+- Confezione tripla
 - Cintura larga
 - Elasticizzato
-- Confezione tripla
-- Boxer: Set di boxer
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00WWPEJNU/?tag=tolees00-21)
