@@ -26,10 +26,10 @@ average: '114.9'
 
 ℹ️:
 
-- Avverte all’istante in caso di batteria scarica. Connessione senza fili, portata radio di 200 metri
-- Installazione Semplice. Fissaggio con dima e viti inclusi. Autoprotezione in caso di spostamento
-- Allarme da inserire all’esterno della casa. Quando rileva uneffrazione, la sirena suona a 112 dB
 - La sirena deve essere collocata più in alto possibile per assicurare una migliore diffusione sonora
+- Installazione Semplice. Fissaggio con dima e viti inclusi. Autoprotezione in caso di spostamento
+- Avverte all’istante in caso di batteria scarica. Connessione senza fili, portata radio di 200 metri
+- Allarme da inserire all’esterno della casa. Quando rileva uneffrazione, la sirena suona a 112 dB
 - Fa scattare un potente avviso sonoro da 112 dB e un lampeggiante dissuasivo arancione integrato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072HG9KYM/?tag=tolees00-21)

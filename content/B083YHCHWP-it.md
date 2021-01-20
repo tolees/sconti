@@ -26,9 +26,9 @@ average: '39.95'
 
 ℹ️:
 
-- 20WAXPBK
-- Desigual
 - Verde
+- Desigual
 - Desigual; Accessories; Back; Green
+- 20WAXPBK
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083YHCHWP/?tag=tolees00-21)

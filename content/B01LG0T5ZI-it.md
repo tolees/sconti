@@ -26,10 +26,10 @@ average: '60.07'
 
 ℹ️:
 
-- Casco da corsa leggero da sci.
-- 2 prese daria frontali per uneccellente ventilazione.
-- Gomma espansa in EPP multi attaccabile.
 - Aramide a prova di foratura nella parte posteriore della testa.
+- Casco da corsa leggero da sci.
+- Gomma espansa in EPP multi attaccabile.
+- 2 prese daria frontali per uneccellente ventilazione.
 - Imbottitura rimovibile e lavabile.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LG0T5ZI/?tag=tolees00-21)

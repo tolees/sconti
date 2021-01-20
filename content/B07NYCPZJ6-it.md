@@ -26,10 +26,10 @@ Puoi trovare [Umbro Fw Large Logo Cotton Tee T-Shirt  Grigio  Grey Marl 263   Uo
 
 ℹ️:
 
-- Elevata resistenza
 - Design classico.
+- Elevata resistenza
+- Girocollo a coste.
 - Ideale per lallenamento e il tempo libero.
 - Morbido da indossare.
-- Girocollo a coste.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NYCPZJ6/?tag=tolees00-21)
