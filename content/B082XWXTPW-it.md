@@ -26,8 +26,8 @@ Puoi trovare [Lee Plain Crew SWS Maglione  Turkish Coffee 01  X-Large Uomo](http
 
 ℹ️:
 
+- Logo sul petto
 - Comodo da indossare
 - Vestibilità leggera
-- Logo sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082XWXTPW/?tag=tolees00-21)
