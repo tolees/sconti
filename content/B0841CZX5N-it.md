@@ -26,8 +26,8 @@ average: '47.0'
 
 ℹ️:
 
+- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 - Tommy Jeans Uomo Felpe
 - Prodotto originale e autentico Tommy Hilfiger/Tommy Jeans
-- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0841CZX5N/?tag=tolees00-21)

@@ -26,8 +26,8 @@ Puoi trovare [Lee Button Down Jeans  Camicia in Jeans Uomo  Nero  Black 01   Lar
 
 ℹ️:
 
+- Vestibilità regolare
 - Wovens
 - Long Sleeved
-- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N22HSXQ/?tag=tolees00-21)

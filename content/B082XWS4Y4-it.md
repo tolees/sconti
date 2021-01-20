@@ -26,8 +26,8 @@ Puoi trovare [Lee Plain Crew SWS Felpa  Turkish Coffee 01  5X-Large Uomo](https:
 
 ℹ️:
 
-- Vestibilità leggera
 - Comodo da indossare
+- Vestibilità leggera
 - Logo sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082XWS4Y4/?tag=tolees00-21)

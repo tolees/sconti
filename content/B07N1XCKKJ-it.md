@@ -27,7 +27,7 @@ average: '24.99'
 ℹ️:
 
 - Vestibilità regolare.
-- A maniche lunghe.
 - Wovens.
+- A maniche lunghe.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N1XCKKJ/?tag=tolees00-21)

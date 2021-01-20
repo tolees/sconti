@@ -26,7 +26,7 @@ average: '47.0'
 
 ℹ️:
 
-- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 - Tommy Jeans Uomo Felpe
+- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0841CXD9N/?tag=tolees00-21)
