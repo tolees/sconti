@@ -26,8 +26,8 @@ Puoi trovare [LEGO- Star Wars Morte Nera  Multicolore  5702015593946](https://ww
 
 ℹ️:
 
-- Dimensioni: 15x25x40 cm
 - Giocattoli e modellismo
 - Marca: Lego
+- Dimensioni: 15x25x40 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01D9QON2W/?tag=tolees00-21)
