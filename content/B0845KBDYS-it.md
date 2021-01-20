@@ -26,10 +26,10 @@ average: '614.8459459459459'
 
 ℹ️:
 
+- Triluminos display: più colore, più dettagli e più realismo in ciò che guardi
+- Dimensioni TV con piedistallo (l x a x p): 124,1 x 78,1 x 34,0 cm circa
 - Processore 4k x-reality pro: ogni immagine viene analizzata in tempo reale per migliorarne nitidezza, contrasto e dettagli
 - Smart tv: naviga sul web, guarda i video su youtube e divertiti con le app come netflix e prime video; compatibile con alexa e google home
-- Triluminos display: più colore, più dettagli e più realismo in ciò che guardi
 - LED 4k ultra HD hdr: una risoluzione pari a 4 volte quella delle immagini in full HD per unimmagine ancora più intensa e reale
-- Dimensioni TV con piedistallo (l x a x p): 124,1 x 78,1 x 34,0 cm circa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0845KBDYS/?tag=tolees00-21)

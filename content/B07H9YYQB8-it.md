@@ -26,8 +26,8 @@ Puoi trovare [Gourmet Diamant Sfilacetti alimento Gatto Umido f.Media in Formato
 
 ℹ️:
 
+- Casa, arredamento e bricolage
 - Marca: Gourmet
 - Dimensioni: 5x5x5 cm
-- Casa, arredamento e bricolage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H9YYQB8/?tag=tolees00-21)
