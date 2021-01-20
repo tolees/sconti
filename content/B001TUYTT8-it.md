@@ -26,7 +26,7 @@ Puoi trovare [Metabo 600444000 pompa sommergibile 7 m](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Qualitativa
 - alta qualità
+- Qualitativa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001TUYTT8/?tag=tolees00-21)

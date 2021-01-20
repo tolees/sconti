@@ -27,7 +27,7 @@ average: '13.593333333333334'
 ℹ️:
 
 - Per lestate e linverno.
-- 1 litro di olio per catena in tanica di plastica.
 - Viscosità 40 °C/DIN 51 562: 100 mm²/s.
+- 1 litro di olio per catena in tanica di plastica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002X3IDAQ/?tag=tolees00-21)
