@@ -26,8 +26,8 @@ Puoi trovare [Kipling - Borsa messenger unisex](https://www.amazon.it/dp/B083YF2
 
 ℹ️:
 
-- Classics
-- Weekender
 - Unisex
+- Weekender
+- Classics
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083YF2KXS/?tag=tolees00-21)

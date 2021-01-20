@@ -26,10 +26,10 @@ average: '10.715'
 
 ℹ️:
 
+- Contiene 24 buste singole da 36g di M&Ms Crispy con riso soffiato
+- Riso soffiato avvolto da cioccolato al latte in guscio di confetto colorato. Yummie!
+- Non si può battere un originale! Perfetti per qualsiasi occasione di condivisione e divertimento: offrili ai tuoi amici nel tuo prossimo party, portali in viaggio con te, sgranocchiali al cinema o davanti alla TV, in un dolce o su un gelato.
 - Usali per decorare muffin, cupcakes o coppe di gelato. Una bellissima esplosione di colore e di gusto.
 - Delizioso snack dal gusto croccante e cioccolatoso
-- Riso soffiato avvolto da cioccolato al latte in guscio di confetto colorato. Yummie!
-- Contiene 24 buste singole da 36g di M&Ms Crispy con riso soffiato
-- Non si può battere un originale! Perfetti per qualsiasi occasione di condivisione e divertimento: offrili ai tuoi amici nel tuo prossimo party, portali in viaggio con te, sgranocchiali al cinema o davanti alla TV, in un dolce o su un gelato.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003WCQXOU/?tag=tolees00-21)

@@ -26,8 +26,8 @@ Puoi trovare [adidas Runfalcon  Scarpe da Corsa Womens  Sky Tint/Tactile Blue/Si
 
 ℹ️:
 
-- Ammortizzazione
 - Scarpe da running
+- Ammortizzazione
 - Tomaia in mesh e morbido suede
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082T4FTPR/?tag=tolees00-21)
