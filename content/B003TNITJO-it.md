@@ -26,8 +26,8 @@ average: '40.89'
 
 ℹ️:
 
-- EDT
 - 100 ml
 - Uomo
+- EDT
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003TNITJO/?tag=tolees00-21)

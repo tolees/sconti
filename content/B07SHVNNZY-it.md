@@ -28,8 +28,8 @@ average: '2.21'
 
 - Cornetto in morbida pasta sfoglia lievitata naturalmente 18 ore con lievito madre, perché il gusto richiede tempo
 - Materie prime di qualità e uova fresche italiane da galline allevate a terra
-- Ricchi in fibre, preparati con 100% farina integrale e l’8,4% di fibre, per un mix perfetto di bontà e qualità
-- Da oggi ancora più farcitura! I cornetti ai frutti di bosco, barbabietola e uva Fibrextra di Misura nascondono un cuore dolce e ricco
 - Senza olio di palma, senza grassi idrogenati, senza coloranti: nessun segreto, solo tanta bontà
+- Da oggi ancora più farcitura! I cornetti ai frutti di bosco, barbabietola e uva Fibrextra di Misura nascondono un cuore dolce e ricco
+- Ricchi in fibre, preparati con 100% farina integrale e l’8,4% di fibre, per un mix perfetto di bontà e qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SHVNNZY/?tag=tolees00-21)
