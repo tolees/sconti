@@ -27,9 +27,9 @@ average: '37.6'
 
 ℹ️:
 
-- Cinturino in silicone blu marino con disegni stampati
 - Resistente allacqua a 5 ATM
 - Movimento a tre lancette
+- Cinturino in silicone blu marino con disegni stampati
 - Quadrante bianco
 - Spessore della cassa 9,85mm
 

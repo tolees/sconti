@@ -27,8 +27,8 @@ average: '16.56'
 
 ℹ️:
 
-- Olive speciali, con il massimo del servizio
 - Ogni confezione contiene 24 pack di Olive nere toste
+- Olive speciali, con il massimo del servizio
 - Olive nere toste pack Pak10
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M1BYOTZ/?tag=tolees00-21)
