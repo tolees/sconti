@@ -27,10 +27,10 @@ Puoi trovare [Segafredo Zanetti Caffè in Grani  Linea Le Classiche Gusto Espres
 
 ℹ️:
 
-- Intensità 10 Tostatura Media
 - Miscela di caffè arabica e robusta, dal leader dellEspresso nei bar
+- Intensità 10 Tostatura Media
+- Pieno e cremoso, con note di pan tostato leggermente speziate
 - Ideale per i grandi cultori del caffè, che amano cogliere appieno il suo aroma e la sua fragranza
 - Utilizzabile, con diversi gradi di macinatura, su macchine automatiche, tradizionali, caffettiere moka
-- Pieno e cremoso, con note di pan tostato leggermente speziate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CSD198N/?tag=tolees00-21)

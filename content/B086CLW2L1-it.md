@@ -28,8 +28,8 @@ average: '25.0'
 ℹ️:
 
 - Nutrizione e leggerezza, morbidezza e luminosità
+- Confezione maxi risparmio, formato famiglia
 - Con micro estratto di 6 oli di fiori preziosi
 - Shampoo nutriente capelli secchi o spenti
-- Confezione maxi risparmio, formato famiglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086CLW2L1/?tag=tolees00-21)

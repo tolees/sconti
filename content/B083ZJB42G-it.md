@@ -27,11 +27,11 @@ Puoi trovare [Giochi Uniti- Marco Polo II Gioco da Tavolo  Multicolore  GU660](h
 
 ℹ️:
 
-- Durata della partita 30 minuti per giocatore
-- Questo gioco ha molti punti di contatto con il primo capitolo, ma rappresenta un gioco a sé stante: azioni, nuova merce, personaggi sconosciuti e nuove condizioni di fine gioco
 - Dopo aver ripercorso nel primo capitolo le rotte di Marco Polo da Venezia fino alla corte di Kublai Khan, nel secondo atto la mappa si concentra solo in Asia
+- Durata della partita 30 minuti per giocatore
+- Età 12+
 - Versione Italiana
 - 2-4 Giocatori
-- Età 12+
+- Questo gioco ha molti punti di contatto con il primo capitolo, ma rappresenta un gioco a sé stante: azioni, nuova merce, personaggi sconosciuti e nuove condizioni di fine gioco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083ZJB42G/?tag=tolees00-21)
