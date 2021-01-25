@@ -27,11 +27,11 @@ Puoi trovare [DELONGHI - De Longhi EC 201.CD.B Macchina da Caffè per Espresso e
 
 ℹ️:
 
-- CAPPUCCINO SYSTEM: puoi miscelare manualmente vapore e latte per creare la densità ottimale della schiuma per la tua bevanda al latte preferita
-- Voltaggio/Frequenza (V~Hz): 220/240~50/60
 - FACILE DA USARE: con una sola manopola puoi fare tutto: accendere/spegnere, preparare espresso e cappuccino; pressione a 15 bar
-- PORTA FILTRO: macchina da caffè dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
+- Voltaggio/Frequenza (V~Hz): 220/240~50/60
 - PULIZIA FACILE: serbatoio dacqua con capacità di 1 l estraibile per facilitare la pulizia
 - ECO PLUS: la macchina da caffè si spegne automaticamente dopo nove minuti di inutilizzo
+- CAPPUCCINO SYSTEM: puoi miscelare manualmente vapore e latte per creare la densità ottimale della schiuma per la tua bevanda al latte preferita
+- PORTA FILTRO: macchina da caffè dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W506FIY/?tag=tolees00-21)

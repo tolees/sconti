@@ -28,9 +28,9 @@ Puoi trovare [Electrolux EKM4000 Impastatrice color Rosso  Motore 1000W  10 velo
 ℹ️:
 
 - Facile apertura a pressione
-- Potenza motore 1000W, frequenza 50 Hz, controllo variabile a 10 velocità
-- Contiene: ciotola grande, ciotola piccola da 2.9 litri, coperchio paraschizzi, gancio impastatore, frusta a filo, frusta piatta
 - Illuminazione con luce a led bianca
+- Potenza motore 1000W, frequenza 50 Hz, controllo variabile a 10 velocità
 - Ciotola da 4.8 litri in acciaio inossidabile illuminata dallalto con luce a led per verificare lo stato della preparazione
+- Contiene: ciotola grande, ciotola piccola da 2.9 litri, coperchio paraschizzi, gancio impastatore, frusta a filo, frusta piatta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00H41MQK0/?tag=tolees00-21)
