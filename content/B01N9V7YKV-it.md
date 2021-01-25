@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9V7YKV-it Fossil Orologio Analogico Quarzo Uomo con Cinturino in...'
+sku: 'B01N9V7YKV-it'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

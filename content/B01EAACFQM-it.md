@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EAACFQM-it Miele XXL-Pack FJM HyClean 3D Sacchetto per Aspirapolvere'
+sku: 'B01EAACFQM-it'
 tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR

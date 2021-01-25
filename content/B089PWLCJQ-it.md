@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089PWLCJQ-it HD Webcam 1296P 3 MP con Microfono USB Webcam Video...'
+sku: 'B089PWLCJQ-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

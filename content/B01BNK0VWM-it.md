@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNK0VWM-it Rimmel Smalto Unghie Super Gel Nail Polish Effetto Gel a...'
+sku: 'B01BNK0VWM-it'
 tags: [  ]
 actualPrice: 3.1 EUR
 currency: EUR

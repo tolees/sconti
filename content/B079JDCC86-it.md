@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JDCC86-it Barbie Magia delle Feste 2018 Bambola Bionda da...'
+sku: 'B079JDCC86-it'
 tags: [  ]
 actualPrice: 25.1 EUR
 currency: EUR

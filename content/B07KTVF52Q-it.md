@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTVF52Q-it LEGO Duplo Disney - Gioco per Bambini La Casa delle...'
+sku: 'B07KTVF52Q-it'
 tags: [  ]
 actualPrice: 38.84 EUR
 currency: EUR

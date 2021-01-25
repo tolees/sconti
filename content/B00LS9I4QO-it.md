@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LS9I4QO-it K-Way le Vrai 3.0 Claude Giacca Impermeabile Uomo Verde...'
+sku: 'B00LS9I4QO-it'
 tags: [  ]
 actualPrice: 61.22 EUR
 currency: EUR

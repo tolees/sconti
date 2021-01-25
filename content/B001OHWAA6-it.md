@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OHWAA6-it Gran Cereale Biscotti Gran Cereale al Cioccolato Biscotti...'
+sku: 'B001OHWAA6-it'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

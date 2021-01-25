@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJBL4-it Levi s Type 3 Giacca in Jeans Blu Firework Sherpa Trucker...'
+sku: 'B07RZLJBL4-it'
 tags: [  ]
 actualPrice: 47.89 EUR
 currency: EUR

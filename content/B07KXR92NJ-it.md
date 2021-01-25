@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXR92NJ-it eufy [BoostIQ RoboVac 15C Wi-Fi aggiornato sottilissimo...'
+sku: 'B07KXR92NJ-it'
 tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSFQLQK-it De Cecco Pasta Integrale Fusilli - 500 g'
+sku: 'B07YSFQLQK-it'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

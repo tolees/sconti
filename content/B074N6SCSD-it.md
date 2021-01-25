@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074N6SCSD-it Clarks Batcombe Wing Scarpe Stringate Derby Uomo Nero...'
+sku: 'B074N6SCSD-it'
 tags: [  ]
 actualPrice: 79.25 EUR
 currency: EUR

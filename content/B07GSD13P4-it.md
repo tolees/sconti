@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSD13P4-it Einhell 4513914 Trapano Avvitatore a Batteria'
+sku: 'B07GSD13P4-it'
 tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZDMRCD-it PUMA BASKET HEART PATENT WN S Sneakers Donna Grigio IRON...'
+sku: 'B07CZDMRCD-it'
 tags: [  ]
 actualPrice: 43.36 EUR
 currency: EUR

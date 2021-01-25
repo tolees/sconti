@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1SXP44-it TP-Link RE650 Ripetitore WiFi Wireless Wifi Extender...'
+sku: 'B06Y1SXP44-it'
 tags: [  ]
 actualPrice: 78.82 EUR
 currency: EUR

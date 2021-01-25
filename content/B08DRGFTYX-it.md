@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DRGFTYX-it Telecamera Wifi Esterna INQMEGAPRO 1080P PTZ Dome...'
+sku: 'B08DRGFTYX-it'
 tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR

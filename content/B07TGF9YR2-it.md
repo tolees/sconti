@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGF9YR2-it QUADRANT ITEMS Kit da Palestra Borraccia da 500ml Telo...'
+sku: 'B07TGF9YR2-it'
 tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR

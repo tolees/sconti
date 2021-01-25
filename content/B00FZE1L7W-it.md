@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FZE1L7W-it Michael Kors Orologio Analogico Quarzo Donna con Cinturino...'
+sku: 'B00FZE1L7W-it'
 tags: [  ]
 actualPrice: 94.9 EUR
 currency: EUR

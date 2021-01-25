@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001G2BKBY-it Birkenstock Mayari 71791 Infradito donna - Nero 39 EU'
+sku: 'B001G2BKBY-it'
 tags: [  ]
 actualPrice: 50.26 EUR
 currency: EUR

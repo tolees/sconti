@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJXMM1W-it Orient Orologio Analogico Automatico Uomo Unisex con...'
+sku: 'B07QJXMM1W-it'
 tags: [  ]
 actualPrice: 96.9 EUR
 currency: EUR

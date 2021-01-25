@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9SDHV-it Levi s Original Batwing Maglietta Blu HM Patch Polo Dress...'
+sku: 'B07TJ9SDHV-it'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

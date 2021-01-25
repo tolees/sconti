@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BFZ8BZ-it Elyco Propeller per DJI Mavic Air 2 2pcs Low Noise Volo...'
+sku: 'B088BFZ8BZ-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

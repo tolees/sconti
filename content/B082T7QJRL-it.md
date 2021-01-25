@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082T7QJRL-it Brooklyn Mega Stick Gomme da Masticare Chewing Gum Gusti...'
+sku: 'B082T7QJRL-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

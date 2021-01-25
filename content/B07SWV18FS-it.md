@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWV18FS-it Geox D LEELU E Scarpe da Ginnastica Basse Donna Bianco...'
+sku: 'B07SWV18FS-it'
 tags: [  ]
 actualPrice: 17.46 EUR
 currency: EUR

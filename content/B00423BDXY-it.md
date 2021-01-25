@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00423BDXY-it Inuyasha The Movies Collection Box 5 Dvd'
+sku: 'B00423BDXY-it'
 tags: [  ]
 actualPrice: 18.74 EUR
 currency: EUR

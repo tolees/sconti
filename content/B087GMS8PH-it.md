@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087GMS8PH-it Ambi Pur Car Deodorante Auto Usa e Getta Anti Tabacco Mega...'
+sku: 'B087GMS8PH-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

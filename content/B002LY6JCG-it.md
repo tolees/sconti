@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LY6JCG-it Star GranPesto alla Genovese senza Aglio - 190 g'
+sku: 'B002LY6JCG-it'
 tags: [  ]
 actualPrice: 1.49 EUR
 currency: EUR

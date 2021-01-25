@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HYZKK14-it eXtremeRate Soft Grip Cover Copertura Frontale Joystick...'
+sku: 'B08HYZKK14-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

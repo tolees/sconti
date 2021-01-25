@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXSYSA8-it Lower East impermeable Uomo Nero Schwarz X-Large'
+sku: 'B01MXSYSA8-it'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGDYVJK-it Nba 2K20 - Standard - PlayStation 4'
+sku: 'B07XGDYVJK-it'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

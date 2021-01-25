@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNHNS6B-it NIVEA Micellair Professional Acqua Micellare Bifase per...'
+sku: 'B07JNHNS6B-it'
 tags: [  ]
 actualPrice: 11.21 EUR
 currency: EUR

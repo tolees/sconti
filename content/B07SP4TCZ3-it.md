@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP4TCZ3-it Havaianas Slim Animals Infradito Donna Multicolore...'
+sku: 'B07SP4TCZ3-it'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2H1RY2-it Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato...'
+sku: 'B07C2H1RY2-it'
 tags: [  ]
 actualPrice: 32.93 EUR
 currency: EUR

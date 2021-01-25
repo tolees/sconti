@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EY8LKCK-it Oral-B Genius 8900 Spazzolini Elettrici Ricaricabili con...'
+sku: 'B01EY8LKCK-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

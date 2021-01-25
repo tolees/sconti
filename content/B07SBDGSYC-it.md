@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBDGSYC-it Auricolari Bluetooth 5.0 Auricolari in TOUCH Cuffie...'
+sku: 'B07SBDGSYC-it'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

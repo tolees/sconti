@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMTL4JF-it Under Armour Challenger III Knit Pantaloncini Uomo Nero...'
+sku: 'B07PMTL4JF-it'
 tags: [  ]
 actualPrice: 10.26 EUR
 currency: EUR

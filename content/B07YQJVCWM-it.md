@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQJVCWM-it INPHIC Mouse Wireless Ricaricabile Mouse Senza Fili...'
+sku: 'B07YQJVCWM-it'
 tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR

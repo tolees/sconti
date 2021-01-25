@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHTTPMN-it Havaianas Slim Logo Metallic Infradito Donna Grigio Steel...'
+sku: 'B07SHTTPMN-it'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

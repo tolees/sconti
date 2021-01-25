@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHPJ9VB-it FFTH Hard Disk 2 TB Esterno Portatile USB-C Hard Disk...'
+sku: 'B08BHPJ9VB-it'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

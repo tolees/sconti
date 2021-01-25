@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087C2M5ZQ-it Lukasa Zanzariera Elettrica da Esterno Lampada Antizanzare...'
+sku: 'B087C2M5ZQ-it'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

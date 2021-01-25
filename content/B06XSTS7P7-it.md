@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSTS7P7-it Phd Barrette Diet Smart Bar Lampone Al Cioccolato Fondente...'
+sku: 'B06XSTS7P7-it'
 tags: [  ]
 actualPrice: 19.05 EUR
 currency: EUR

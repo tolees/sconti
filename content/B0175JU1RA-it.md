@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0175JU1RA-it Medipaq Cuscino Memory Foam per Rialzo - Supporto Schiena...'
+sku: 'B0175JU1RA-it'
 tags: [  ]
 actualPrice: 14.4 EUR
 currency: EUR

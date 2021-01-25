@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KYNZ4B-it KOLLIEE Aromaterapia Oli Essenziali Puri Bio Oli...'
+sku: 'B082KYNZ4B-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

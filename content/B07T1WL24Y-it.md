@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1WL24Y-it ALLPOWERS 45W Portable Power Bank 26800mAh PD USB C...'
+sku: 'B07T1WL24Y-it'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

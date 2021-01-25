@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BF4P2Z-it Vernel Blu Oxygen Ammorbidente Concentrato Profumato per...'
+sku: 'B081BF4P2Z-it'
 tags: [  ]
 actualPrice: 14.32 EUR
 currency: EUR

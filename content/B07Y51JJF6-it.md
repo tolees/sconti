@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y51JJF6-it TUTUO Wireless Controller per Nintendo Switch Bluetooth...'
+sku: 'B07Y51JJF6-it'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

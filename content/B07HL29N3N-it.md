@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL29N3N-it Kids cuffie Riwbox ct-7s 85DB volume Limiting cuffie...'
+sku: 'B07HL29N3N-it'
 tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR

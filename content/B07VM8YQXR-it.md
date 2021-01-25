@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM8YQXR-it TECCPO 120 Pezzi Dischi Abrasivi ø125 mm Carta Abrasiva...'
+sku: 'B07VM8YQXR-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

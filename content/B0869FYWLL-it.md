@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869FYWLL-it Gimdumasa Occhiali Da Computer Luce Blu Anti Filtro Blue...'
+sku: 'B0869FYWLL-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

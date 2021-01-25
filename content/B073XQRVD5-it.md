@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XQRVD5-it Head & shoulders Men Ultra Purificante Shampoo Antiforfora...'
+sku: 'B073XQRVD5-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

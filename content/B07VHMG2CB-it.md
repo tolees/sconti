@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHMG2CB-it NAPAPIJRI Dueville C Maglia a Maniche Lunghe Verde Green...'
+sku: 'B07VHMG2CB-it'
 tags: [  ]
 actualPrice: 33.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086HGWKGL-it HP - Gaming OMEN 15-dh0052nl Notebook Intel Core i7-9750H...'
+sku: 'B086HGWKGL-it'
 tags: [  ]
 actualPrice: 410.0 EUR
 currency: EUR

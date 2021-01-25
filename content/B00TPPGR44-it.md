@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TPPGR44-it Lacoste Sport SH7613 Felpa Uomo Nero Large Taglia...'
+sku: 'B00TPPGR44-it'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

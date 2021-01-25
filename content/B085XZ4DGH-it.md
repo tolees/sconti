@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XZ4DGH-it Maschere per il viso confezione da 50 maschere sigillate...'
+sku: 'B085XZ4DGH-it'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

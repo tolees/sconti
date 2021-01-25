@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XZQ22ND-it Tognana Mythos Batteria 9 Pezzi Alluminio Nero 24 cm'
+sku: 'B06XZQ22ND-it'
 tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR

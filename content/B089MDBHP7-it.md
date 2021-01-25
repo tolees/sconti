@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089MDBHP7-it Motorola Moto E6S Display MaxVision 6 1" Processore Octa-...'
+sku: 'B089MDBHP7-it'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

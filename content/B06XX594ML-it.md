@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XX594ML-it New Balance 574v2 Core Scarpa da Tennis Donna Blu Navy 40 EU'
+sku: 'B06XX594ML-it'
 tags: [  ]
 actualPrice: 56.36 EUR
 currency: EUR

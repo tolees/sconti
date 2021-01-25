@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCFBPYJ-it Zaino Mamma Multifunzione neonato Fasciatoio Bambino...'
+sku: 'B07YCFBPYJ-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

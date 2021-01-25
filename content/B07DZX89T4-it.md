@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZX89T4-it Levi s Turner Sneaker Uomo Nero Regular Black 159 43 EU'
+sku: 'B07DZX89T4-it'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

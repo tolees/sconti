@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZ44K4X-it Bottiglia d Acqua Sportiva 850ml Borraccia Senza BPA in...'
+sku: 'B08BZ44K4X-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

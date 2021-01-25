@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPHW6SJ-it Lunvon Materasso Gonfiabile Singolo Pompa Elettrica...'
+sku: 'B07FPHW6SJ-it'
 tags: [  ]
 actualPrice: 45.12 EUR
 currency: EUR

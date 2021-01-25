@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TLPH3R-it Epilatore Luce Pulsata 999 999 Flash IPL Apparecchi...'
+sku: 'B085TLPH3R-it'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

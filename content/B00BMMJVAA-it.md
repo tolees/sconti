@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BMMJVAA-it Geox U DUBLIN B Scarpe Stringate Basse Brogue Uomo Nero...'
+sku: 'B00BMMJVAA-it'
 tags: [  ]
 actualPrice: 57.2 EUR
 currency: EUR

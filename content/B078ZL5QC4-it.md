@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZL5QC4-it Techly 103113 Multipresa 6 Posti Italiana Bipasso con...'
+sku: 'B078ZL5QC4-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

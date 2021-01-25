@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CL7ZD7J-it D-Link DCS-8010LH Telecamera Grandangolare 120° Wi-Fi HD...'
+sku: 'B07CL7ZD7J-it'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

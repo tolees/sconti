@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH9QLXH-it Timberland Union Wharf 2 Eye Oxford Mocassini Uomo Bianco...'
+sku: 'B07FH9QLXH-it'
 tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RP5RCM-it Merax - Sedia girevole da ufficio in similpelle regolabile...'
+sku: 'B087RP5RCM-it'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6BNLF7-it ZFYQ Coperta da Spiaggia 210x200cm Anti Sabbia...'
+sku: 'B07S6BNLF7-it'
 tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR

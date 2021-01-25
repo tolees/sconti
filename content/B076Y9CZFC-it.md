@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Y9CZFC-it Levi s LS Graphic Tee - B Maglia a Maniche Lunghe Bianco...'
+sku: 'B076Y9CZFC-it'
 tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1TNU67-it Arteza Pennarelli Acquerello Professionali Set da 24...'
+sku: 'B01N1TNU67-it'
 tags: [  ]
 actualPrice: 20.73 EUR
 currency: EUR

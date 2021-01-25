@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088MCKS5N-it Isincer Streaming Webcam HD 1080p con Microfono a...'
+sku: 'B088MCKS5N-it'
 tags: [  ]
 actualPrice: 17.84 EUR
 currency: EUR

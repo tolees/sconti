@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4JVQVZ-it Funko-36025 Fortnite Valor Multicolore 36025'
+sku: 'B07L4JVQVZ-it'
 tags: [  ]
 actualPrice: 4.75 EUR
 currency: EUR

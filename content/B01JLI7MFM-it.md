@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JLI7MFM-it Orologio da uomo Tommy Hilfiger 1791309.'
+sku: 'B01JLI7MFM-it'
 tags: [  ]
 actualPrice: 113.9 EUR
 currency: EUR

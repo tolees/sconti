@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QT5B6S-it takestop® Barbecue Tondo 36x55cm GRIGLIA Rimovibile...'
+sku: 'B089QT5B6S-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

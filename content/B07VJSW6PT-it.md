@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJSW6PT-it Desigual Mone azabache Mini Zip Portafoglio da donna...'
+sku: 'B07VJSW6PT-it'
 tags: [  ]
 actualPrice: 11.79 EUR
 currency: EUR

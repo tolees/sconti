@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GM8DV13-it eXtremeRate Cover Grip Scocca Impugnatura Manopola DIY...'
+sku: 'B08GM8DV13-it'
 tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR

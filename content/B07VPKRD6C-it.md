@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPKRD6C-it Fossil Collana Donna con Cinturino in Acciaio Inossidabile...'
+sku: 'B07VPKRD6C-it'
 tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR

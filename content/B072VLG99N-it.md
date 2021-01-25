@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VLG99N-it Bialetti Fiammetta Bialetti Moka Fiammetta Caffettiera 1...'
+sku: 'B072VLG99N-it'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

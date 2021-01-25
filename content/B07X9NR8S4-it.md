@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9NR8S4-it Singer M3505 Macchina da Cucire Professionale Cucitrice...'
+sku: 'B07X9NR8S4-it'
 tags: [  ]
 actualPrice: 235.99 EUR
 currency: EUR

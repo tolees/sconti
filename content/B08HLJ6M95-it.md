@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HLJ6M95-it Tina @ Wii Nunchuck Controller 2 confezioni di ricambio...'
+sku: 'B08HLJ6M95-it'
 tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR

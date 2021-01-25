@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5WBCCQ-it ORICO Case Esterno per Disco Rigido 2 5 Custodia Esterna...'
+sku: 'B08B5WBCCQ-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

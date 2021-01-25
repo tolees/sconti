@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AA2YOEQ-it Goleador Maxi Shock la Doppia Caramella Gommosa Ricoperta...'
+sku: 'B00AA2YOEQ-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

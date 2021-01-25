@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNL5Z3Q-it Head & Shoulders Shampoo Antiforfora Suprême Idrata con...'
+sku: 'B07HNL5Z3Q-it'
 tags: [  ]
 actualPrice: 1.69 EUR
 currency: EUR

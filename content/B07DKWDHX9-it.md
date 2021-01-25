@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKWDHX9-it Active Era Bilancia Pesapersone Digitale Ultrasottile con...'
+sku: 'B07DKWDHX9-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSGCNFY-it Xbox One X - Bundle Gears of War 5 - Inclusi Gears of War...'
+sku: 'B07VSGCNFY-it'
 tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR

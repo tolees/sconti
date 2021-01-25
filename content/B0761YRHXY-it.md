@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0761YRHXY-it Lavazza Caffè Macinato - Pacco da 6 x 250 g'
+sku: 'B0761YRHXY-it'
 tags: [  ]
 actualPrice: 9.92 EUR
 currency: EUR

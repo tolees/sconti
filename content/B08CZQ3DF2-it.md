@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZQ3DF2-it Souke Sports - Guanti da Ciclismo Uomo Donna Guanti da...'
+sku: 'B08CZQ3DF2-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

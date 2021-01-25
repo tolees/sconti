@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08571ZHWG-it SCOBUTY Turbante Asciugamano Asciugamano Assorbente...'
+sku: 'B08571ZHWG-it'
 tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR

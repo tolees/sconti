@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNNKJFF-it K-Cheratina - Trattamento Professionale Capelli Deboli e...'
+sku: 'B07FNNKJFF-it'
 tags: [  ]
 actualPrice: 60.76 EUR
 currency: EUR

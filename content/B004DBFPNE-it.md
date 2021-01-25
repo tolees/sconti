@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004DBFPNE-it BIC Cristal Original Penne A Sfera Punta Media 1 0 mm Blu...'
+sku: 'B004DBFPNE-it'
 tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR

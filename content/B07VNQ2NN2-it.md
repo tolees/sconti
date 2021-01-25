@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNQ2NN2-it Astuccio Scuola con 3 Scomparti lunaoo Grande...'
+sku: 'B07VNQ2NN2-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VFLZW1-it Contenitori per Sottovuoto Aicok Set Universale con 2...'
+sku: 'B076VFLZW1-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

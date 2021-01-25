@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7CL5M9-it Inglesina AA30L6MAR System Zippy Pro Sistema Trio 3 in 1...'
+sku: 'B07N7CL5M9-it'
 tags: [  ]
 actualPrice: 445.0 EUR
 currency: EUR

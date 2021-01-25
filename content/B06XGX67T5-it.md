@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGX67T5-it Autan Active Vapo Bipacco Insetto Repellente e Antizanzare...'
+sku: 'B06XGX67T5-it'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

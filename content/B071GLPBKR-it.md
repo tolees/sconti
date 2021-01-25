@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GLPBKR-it Savel - Proteggi Materasso Antiacaro Impermeabile e...'
+sku: 'B071GLPBKR-it'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

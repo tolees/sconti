@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC4HYPF-it eXtremeRate Soft Grip Cover Custodia Anteriore Copertura...'
+sku: 'B08FC4HYPF-it'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

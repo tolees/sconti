@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKB2H59-it Mattel Games Uno Flip GDR44'
+sku: 'B07JKB2H59-it'
 tags: [  ]
 actualPrice: 9.87 EUR
 currency: EUR

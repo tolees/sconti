@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q7FKD1-it 1Mii Ricevitore Bluetooth 5.0 Adattatore Audio Bluetooth...'
+sku: 'B081Q7FKD1-it'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

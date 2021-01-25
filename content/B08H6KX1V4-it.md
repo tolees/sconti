@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H6KX1V4-it Echo 4ª generazione Bianco ghiaccio + Philips Hue White...'
+sku: 'B08H6KX1V4-it'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

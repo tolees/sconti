@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085C3N1KW-it HONOR Smartwatch Magic Watch 2 42mm Orologio Fitness...'
+sku: 'B085C3N1KW-it'
 tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR

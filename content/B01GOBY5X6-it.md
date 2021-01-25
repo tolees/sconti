@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GOBY5X6-it Aigostar Acciaio viola 31HGC - Ferro da stiro 2200W&370ML...'
+sku: 'B01GOBY5X6-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

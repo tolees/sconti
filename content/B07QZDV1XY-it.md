@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZDV1XY-it Marchio Amazon - TRUTH & FABLE Mini Tubino in Pizzo Donna...'
+sku: 'B07QZDV1XY-it'
 tags: [  ]
 actualPrice: 53.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMR5SV7-it find. Round Toe Block Heel Leather Court Scarpe con Tacco...'
+sku: 'B07KMR5SV7-it'
 tags: [  ]
 actualPrice: 22.19 EUR
 currency: EUR

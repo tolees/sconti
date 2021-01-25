@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089T8D5ZC-it Maremma Toscana Vermentino DOC Campo al Faro 2019 0 75 L'
+sku: 'B089T8D5ZC-it'
 tags: [  ]
 actualPrice: 10.32 EUR
 currency: EUR

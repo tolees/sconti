@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VL5S63N-it YAMAMAY® Costume Push Push up Tinta Unita Mare Donna con...'
+sku: 'B07VL5S63N-it'
 tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR

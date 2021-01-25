@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFWS68P-it RTP® CREATINA in Polvere ● 500g ● Creatina Monoidrata...'
+sku: 'B07ZFWS68P-it'
 tags: [  ]
 actualPrice: 13.52 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2Y2TQ9-it Rimmel London Confezione Regalo Velvet Revolution...'
+sku: 'B07X2Y2TQ9-it'
 tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR

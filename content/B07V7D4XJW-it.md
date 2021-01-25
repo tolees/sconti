@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7D4XJW-it Boss Tee 4 T-Shirt Blu Navy 410 Small Uomo'
+sku: 'B07V7D4XJW-it'
 tags: [  ]
 actualPrice: 30.81 EUR
 currency: EUR

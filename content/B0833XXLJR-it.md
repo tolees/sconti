@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833XXLJR-it Netac 32G Scheda Micro SD Scheda di Memoria A1 U1 C10 V10...'
+sku: 'B0833XXLJR-it'
 tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR

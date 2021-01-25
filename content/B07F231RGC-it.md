@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F231RGC-it Timberland Classic 2 Eye Scarpe da Barca Uomo Marrone...'
+sku: 'B07F231RGC-it'
 tags: [  ]
 actualPrice: 72.95 EUR
 currency: EUR

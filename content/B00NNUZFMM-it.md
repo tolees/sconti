@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NNUZFMM-it The Sims 4 - PC'
+sku: 'B00NNUZFMM-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

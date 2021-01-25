@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ645XT-it Urban Classics Block Swim Shorts Costume Uomo con Tasche...'
+sku: 'B07MQ645XT-it'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

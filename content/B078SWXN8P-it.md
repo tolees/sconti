@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SWXN8P-it Timberland Capri Sunset Wedge Sandali Donna Nero Black...'
+sku: 'B078SWXN8P-it'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

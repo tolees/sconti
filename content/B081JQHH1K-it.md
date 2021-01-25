@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JQHH1K-it Moleskine Classic Match Portafoglio in Pelle Pochette con...'
+sku: 'B081JQHH1K-it'
 tags: [  ]
 actualPrice: 28.63 EUR
 currency: EUR

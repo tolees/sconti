@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGT3YH6-it Calvin Klein Hip Brief 3pk Boxer Uomo Confezione da 3 Nero...'
+sku: 'B07NGT3YH6-it'
 tags: [  ]
 actualPrice: 29.1 EUR
 currency: EUR

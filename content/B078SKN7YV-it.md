@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SKN7YV-it Diesel Orologio Cronografo Da Uomo Quarzo Con Cinturino In...'
+sku: 'B078SKN7YV-it'
 tags: [  ]
 actualPrice: 132.59 EUR
 currency: EUR

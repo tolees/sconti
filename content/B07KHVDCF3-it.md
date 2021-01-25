@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KHVDCF3-it ALLPOWERS Caricabatterie Solare 24000mAh Solare Powerbank...'
+sku: 'B07KHVDCF3-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

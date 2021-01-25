@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PVHTR-it PUMA Vikky Stacked L Sneakers Donna Grigio Silver Cloud-...'
+sku: 'B07S8PVHTR-it'
 tags: [  ]
 actualPrice: 33.54 EUR
 currency: EUR

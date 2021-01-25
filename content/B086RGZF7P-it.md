@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RGZF7P-it Pistola Massaggio Muscolare Massage Gun Rarurko Pistola a...'
+sku: 'B086RGZF7P-it'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

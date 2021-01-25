@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHYN1FX-it Levi s Pillsbury Sneaker Uomo Bianco Regular White 51 42 EU'
+sku: 'B07SHYN1FX-it'
 tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVK5QD6-it KLAS REMO Dispenser di Sapone Automatico 400ML Erogatore...'
+sku: 'B08CVK5QD6-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

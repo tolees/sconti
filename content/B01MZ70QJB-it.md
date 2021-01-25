@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ70QJB-it BONTEC Braccio Monitor Singolo per Schermo LED LCD da 13 a...'
+sku: 'B01MZ70QJB-it'
 tags: [  ]
 actualPrice: 27.19 EUR
 currency: EUR

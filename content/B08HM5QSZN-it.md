@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HM5QSZN-it homcom Panca per Addominali Pieghevole per Allenarsi a...'
+sku: 'B08HM5QSZN-it'
 tags: [  ]
 actualPrice: 39.96 EUR
 currency: EUR

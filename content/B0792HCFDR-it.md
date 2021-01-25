@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792HCFDR-it Diesel UMBR-ANDRETHREEPACK Slip Uomo Nero...'
+sku: 'B0792HCFDR-it'
 tags: [  ]
 actualPrice: 25.32 EUR
 currency: EUR

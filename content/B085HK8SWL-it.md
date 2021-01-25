@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HK8SWL-it Slip a Vita Bassa Donna Mutande Invisibile Senza Cuciture...'
+sku: 'B085HK8SWL-it'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

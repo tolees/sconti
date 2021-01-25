@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0815V9HVP-it Hdmi Switch mrocioa 3 porte ingresso 1 out 4K Hdmi...'
+sku: 'B0815V9HVP-it'
 tags: [  ]
 actualPrice: 17.69 EUR
 currency: EUR

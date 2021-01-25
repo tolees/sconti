@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFS4LR7-it Mulino Bianco Grissini Rustici Classici Pangrì Snack...'
+sku: 'B06XFS4LR7-it'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

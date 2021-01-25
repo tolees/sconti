@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH75RZ1-it FITTOO Pantaloni Sauna Dimagranti Donna Leggins Sportivi...'
+sku: 'B07HH75RZ1-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

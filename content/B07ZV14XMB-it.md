@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZV14XMB-it Tryone Supporto Tablet Poggiatesta Auto estensibile...'
+sku: 'B07ZV14XMB-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

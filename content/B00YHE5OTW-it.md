@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YHE5OTW-it Smac - Sgrassatore Trigger Cucina Limone - 650ml x 12...'
+sku: 'B00YHE5OTW-it'
 tags: [  ]
 actualPrice: 17.26 EUR
 currency: EUR

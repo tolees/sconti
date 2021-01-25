@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003S5F1VW-it Lacoste Sport L1230 Polo Sport Ultraleggera Bianco White...'
+sku: 'B003S5F1VW-it'
 tags: [  ]
 actualPrice: 52.45 EUR
 currency: EUR

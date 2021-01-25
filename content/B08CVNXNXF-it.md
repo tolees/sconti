@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVNXNXF-it TUTUO Wireless Controller per Nintendo Switch Bluetooth...'
+sku: 'B08CVNXNXF-it'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

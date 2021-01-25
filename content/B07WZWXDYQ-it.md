@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZWXDYQ-it Purificatore d Aria Portatile con Filtro HEPA USB Desktop...'
+sku: 'B07WZWXDYQ-it'
 tags: [  ]
 actualPrice: 24.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MHYHL9-it LIGHTAILING Set di Luci per Creator Auto da Corsa Modello...'
+sku: 'B082MHYHL9-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STXN1MQ-it Skechers Energy Timeless Vision Sneaker Donna Bianco...'
+sku: 'B07STXN1MQ-it'
 tags: [  ]
 actualPrice: 35.13 EUR
 currency: EUR

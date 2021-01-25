@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP41QB8-it Havaianas Brasil Logo Infradito Unisex-Bambini Rosa...'
+sku: 'B07SP41QB8-it'
 tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR

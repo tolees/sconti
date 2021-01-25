@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR769MS-it Under Armour UA Qualifier HeatGear Tight Pantaloni a...'
+sku: 'B07KR769MS-it'
 tags: [  ]
 actualPrice: 28.1 EUR
 currency: EUR

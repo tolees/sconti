@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UMK2XU-it Mulino Bianco Merendine Flauti al Cioccolato Snack Dolce...'
+sku: 'B003UMK2XU-it'
 tags: [  ]
 actualPrice: 1.39 EUR
 currency: EUR

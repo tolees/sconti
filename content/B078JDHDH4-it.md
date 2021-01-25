@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JDHDH4-it Tommy Hilfiger New Adan Belt 3.5cm Cintura Blu Sky Captain...'
+sku: 'B078JDHDH4-it'
 tags: [  ]
 actualPrice: 32.1 EUR
 currency: EUR

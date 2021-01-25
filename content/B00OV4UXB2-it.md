@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OV4UXB2-it K-Way le Vrai 3.0 Claude Giacca Impermeabile Uomo Rosso...'
+sku: 'B00OV4UXB2-it'
 tags: [  ]
 actualPrice: 58.45 EUR
 currency: EUR

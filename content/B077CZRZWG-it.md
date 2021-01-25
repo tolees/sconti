@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077CZRZWG-it Anjou Trucco Ricaricabile Luce LED Touchscreen Regolabile...'
+sku: 'B077CZRZWG-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

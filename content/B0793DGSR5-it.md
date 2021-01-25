@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793DGSR5-it Saucony Jazz Original Vintage Sneakers Uomo Blu Nvy Gld 22...'
+sku: 'B0793DGSR5-it'
 tags: [  ]
 actualPrice: 57.86 EUR
 currency: EUR

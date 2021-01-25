@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBFZN4P-it Vans Ward Canvas Sneaker Unisex – Bambini Multicolore Otw...'
+sku: 'B07VBFZN4P-it'
 tags: [  ]
 actualPrice: 31.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OI3MQ6-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto Blu...'
+sku: 'B001OI3MQ6-it'
 tags: [  ]
 actualPrice: 17.07 EUR
 currency: EUR

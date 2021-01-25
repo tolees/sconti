@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXJM90L-it Specchio Trucco 8 LED Specchio Cosmetico Portatile...'
+sku: 'B01LXJM90L-it'
 tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR

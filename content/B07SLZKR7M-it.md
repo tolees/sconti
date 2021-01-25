@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLZKR7M-it Havaianas Urban Basic II Infradito Uomo Blu Marine/Blue...'
+sku: 'B07SLZKR7M-it'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

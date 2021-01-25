@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDLZ9CP-it Rowenta CV5372 Studio Dry Asciugacapelli Compatto per...'
+sku: 'B06XDLZ9CP-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

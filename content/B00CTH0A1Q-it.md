@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CTH0A1Q-it Mattel W2085 Uno - Gioco di Carte Versione Standard'
+sku: 'B00CTH0A1Q-it'
 tags: [  ]
 actualPrice: 4.11 EUR
 currency: EUR

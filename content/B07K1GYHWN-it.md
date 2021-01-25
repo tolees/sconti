@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1GYHWN-it adidas Continental 80 Scarpe da Ginnastica Uomo Bianco...'
+sku: 'B07K1GYHWN-it'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

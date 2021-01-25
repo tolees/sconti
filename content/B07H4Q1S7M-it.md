@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4Q1S7M-it Strumento Multifunzione TECCPO 170W Mini Utensile Rotante...'
+sku: 'B07H4Q1S7M-it'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

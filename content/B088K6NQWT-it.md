@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088K6NQWT-it Controller per Nintendo Switch Pro Sendowtek Bluetooth...'
+sku: 'B088K6NQWT-it'
 tags: [  ]
 actualPrice: 24.21 EUR
 currency: EUR

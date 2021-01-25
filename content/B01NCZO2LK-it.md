@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCZO2LK-it Orzly Volante Nintendo Switch Confezione Doppia –...'
+sku: 'B01NCZO2LK-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

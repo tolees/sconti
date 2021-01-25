@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBSDD14-it Michael Kors Bedford - Borsa da torneo 13 x 25 x 29 cm...'
+sku: 'B07TBSDD14-it'
 tags: [  ]
 actualPrice: 87.55 EUR
 currency: EUR

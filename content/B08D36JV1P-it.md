@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D36JV1P-it BOMIZI Cover Xiaomi Mi 9 Custodia Trasparente TPU Morbido...'
+sku: 'B08D36JV1P-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

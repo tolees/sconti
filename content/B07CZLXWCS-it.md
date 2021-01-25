@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZLXWCS-it Neutro Roberts Doccia Shampoo Energizzante - 6 Confezioni...'
+sku: 'B07CZLXWCS-it'
 tags: [  ]
 actualPrice: 7.14 EUR
 currency: EUR

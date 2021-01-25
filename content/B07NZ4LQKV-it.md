@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ4LQKV-it Tendina Parasole Auto otumixx 2 Pezzi Tendine Parasole...'
+sku: 'B07NZ4LQKV-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGKG8JY-it Spazzolino Elettrico Ricaricabile Braun Oral-B Vitality...'
+sku: 'B07FGKG8JY-it'
 tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR

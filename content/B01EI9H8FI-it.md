@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EI9H8FI-it adidas Gazelle Scarpe da Ginnastica Basse Uomo Blu...'
+sku: 'B01EI9H8FI-it'
 tags: [  ]
 actualPrice: 61.7 EUR
 currency: EUR

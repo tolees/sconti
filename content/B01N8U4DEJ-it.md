@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8U4DEJ-it Duronic VC8 /BK Aspirapolvere verticale senza sacco 800W...'
+sku: 'B01N8U4DEJ-it'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

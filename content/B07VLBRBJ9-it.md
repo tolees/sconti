@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLBRBJ9-it ARTEZA Penne a Sfera Roller con Inchiostro a Gel Nero Set...'
+sku: 'B07VLBRBJ9-it'
 tags: [  ]
 actualPrice: 20.44 EUR
 currency: EUR

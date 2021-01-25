@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTP9V2G-it Kipling KiplingTopsDonnaPortafogliNero Charcoal 7.5x10x2.5...'
+sku: 'B07TTP9V2G-it'
 tags: [  ]
 actualPrice: 16.74 EUR
 currency: EUR

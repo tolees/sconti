@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKN89S3-it Havaianas Slim Flatform Infradito Donna Grigio Steel Grey...'
+sku: 'B07TKN89S3-it'
 tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR

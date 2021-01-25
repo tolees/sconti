@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UV9XCW-it De Longhi HVY1020.O Verticale Young Termoventilatore...'
+sku: 'B003UV9XCW-it'
 tags: [  ]
 actualPrice: 19.4 EUR
 currency: EUR

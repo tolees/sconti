@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VDIZTW-it Claber 87321 Inter. IRR. TURBINA 670 mq 90478...'
+sku: 'B007VDIZTW-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THFDL3T-it YABER Avviatore Batteria per Moto/Auto 1000A 13800mAh...'
+sku: 'B07THFDL3T-it'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

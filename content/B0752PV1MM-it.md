@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752PV1MM-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto...'
+sku: 'B0752PV1MM-it'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

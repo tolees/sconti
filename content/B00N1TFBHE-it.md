@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N1TFBHE-it Tescoma 642773 Vitamino Oliera Vetro Verde 500 ml 1 Pezzo'
+sku: 'B00N1TFBHE-it'
 tags: [  ]
 actualPrice: 6.93 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJPAZ6-it Scotch Nastro Adesivo 3M Trasparente Acrilico 15 mm x 33 m...'
+sku: 'B000KJPAZ6-it'
 tags: [  ]
 actualPrice: 2.44 EUR
 currency: EUR

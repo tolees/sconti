@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF52DX6-it Levi s T-Shirt Multicolore 2 Pack Tee White +/Mineral...'
+sku: 'B07KF52DX6-it'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

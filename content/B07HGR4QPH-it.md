@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGR4QPH-it Whiskas Selezione in Salsa 84 Buste da 100 gr al Gusto di...'
+sku: 'B07HGR4QPH-it'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

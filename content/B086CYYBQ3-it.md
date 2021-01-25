@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086CYYBQ3-it ammoon Pad per Allenamento 12 Pollici Drum Pad Pratica in...'
+sku: 'B086CYYBQ3-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

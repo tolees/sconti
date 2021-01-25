@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6UTUQW-it Sully 4K + Br + Dig.Copy'
+sku: 'B01N6UTUQW-it'
 tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR

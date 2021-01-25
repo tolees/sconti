@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTGCBMN-it Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze...'
+sku: 'B07VTGCBMN-it'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

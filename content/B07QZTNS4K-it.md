@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZTNS4K-it Under Armour Challenger III Midlayer Maglia a Maniche...'
+sku: 'B07QZTNS4K-it'
 tags: [  ]
 actualPrice: 26.07 EUR
 currency: EUR

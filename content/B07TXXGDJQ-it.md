@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXXGDJQ-it Wrangler SS Logo Tee T-Shirt Giallo Lemon Chrome XX-Large...'
+sku: 'B07TXXGDJQ-it'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

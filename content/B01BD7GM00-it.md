@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BD7GM00-it Swiffer Kit con 1 Scopa + 8 Panni per Pavimenti e 1...'
+sku: 'B01BD7GM00-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

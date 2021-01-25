@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00INOSUIE-it Lacoste L1230 Polo Sport Ultraleggera Uomo Grigio Argent...'
+sku: 'B00INOSUIE-it'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

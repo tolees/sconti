@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFC5FBP-it MROTY Italia | Orologio Fitness Uomo Donna Fitness Tracker...'
+sku: 'B07XFC5FBP-it'
 tags: [  ]
 actualPrice: 19.89 EUR
 currency: EUR

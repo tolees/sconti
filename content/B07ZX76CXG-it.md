@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZX76CXG-it 24pz Pompon Pelliccia Volpe Sintetica per Fai da Te PON...'
+sku: 'B07ZX76CXG-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

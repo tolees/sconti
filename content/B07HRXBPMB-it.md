@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRXBPMB-it Lenovo Tab E7 TB-7104F Tablet Display 7" 1024 x 600 pixels...'
+sku: 'B07HRXBPMB-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

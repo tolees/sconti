@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079D9HZK4-it Distillerie Nonino Grappa Nonino Vendemmia Riserva 18...'
+sku: 'B079D9HZK4-it'
 tags: [  ]
 actualPrice: 18.56 EUR
 currency: EUR

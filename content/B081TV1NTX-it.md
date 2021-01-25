@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TV1NTX-it adidas Lock Up TP Pantaloni Sportivi Uomo Black S'
+sku: 'B081TV1NTX-it'
 tags: [  ]
 actualPrice: 36.47 EUR
 currency: EUR

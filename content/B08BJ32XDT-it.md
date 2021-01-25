@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJ32XDT-it FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk...'
+sku: 'B08BJ32XDT-it'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

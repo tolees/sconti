@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076M74ZCT-it Kenwood KVL4170S Impastatrice Planetaria Chef XL Robot da...'
+sku: 'B076M74ZCT-it'
 tags: [  ]
 actualPrice: 419.99 EUR
 currency: EUR

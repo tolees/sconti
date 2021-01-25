@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015K11VME-it KLIM™ Voice Microfono Desktop USB con Stand per Computer...'
+sku: 'B015K11VME-it'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00INX005Q-it Kärcher K 4 - Idropulitrice a Freddo 130 Bar 420 L/H 30...'
+sku: 'B00INX005Q-it'
 tags: [  ]
 actualPrice: 142.95 EUR
 currency: EUR

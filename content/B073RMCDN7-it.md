@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RMCDN7-it Reebok Club C 85 Sneaker Uomo Bianco Intense White/Royal-...'
+sku: 'B073RMCDN7-it'
 tags: [  ]
 actualPrice: 55.49 EUR
 currency: EUR

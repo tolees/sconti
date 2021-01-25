@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3DHV7S-it Vbiger Zaino Scuola Elementare Impermeabile Rossa'
+sku: 'B07X3DHV7S-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

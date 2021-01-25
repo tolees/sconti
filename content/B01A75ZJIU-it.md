@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A75ZJIU-it Bios Line Solari Natures Stick Spf50+ - 50 gr'
+sku: 'B01A75ZJIU-it'
 tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CH1PJU-it Sandisk Ultra Flair 128 GB Chiavetta USB 3.0 Velocità di...'
+sku: 'B015CH1PJU-it'
 tags: [  ]
 actualPrice: 21.28 EUR
 currency: EUR

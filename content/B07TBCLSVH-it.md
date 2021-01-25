@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBCLSVH-it Souke Sports Pantaloncini da Ciclismo da Uomo Bici Mutande...'
+sku: 'B07TBCLSVH-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

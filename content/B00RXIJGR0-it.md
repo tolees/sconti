@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RXIJGR0-it Pyrex Irresistible Teglia rettangolare in vetro...'
+sku: 'B00RXIJGR0-it'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

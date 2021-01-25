@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G496PFW-it Ocean S Eight 4K+Br'
+sku: 'B07G496PFW-it'
 tags: [  ]
 actualPrice: 11.78 EUR
 currency: EUR

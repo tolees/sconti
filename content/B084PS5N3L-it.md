@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084PS5N3L-it Mastrolindo Detersivo Pavimenti Superfici Delicate Maxi...'
+sku: 'B084PS5N3L-it'
 tags: [  ]
 actualPrice: 9.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003FCDHB4-it Havaianas Brasil Logo Infradito Unisex-Bambini Blu Navy...'
+sku: 'B003FCDHB4-it'
 tags: [  ]
 actualPrice: 8.1 EUR
 currency: EUR

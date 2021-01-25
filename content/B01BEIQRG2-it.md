@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BEIQRG2-it Eucerin Duplo Crema per le mani 2 x 75 ml'
+sku: 'B01BEIQRG2-it'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

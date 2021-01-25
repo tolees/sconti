@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHZTR6K-it FFTH Hard Disk 2 TB Esterno Portatile USB-C Hard Disk...'
+sku: 'B08BHZTR6K-it'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

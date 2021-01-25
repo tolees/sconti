@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QSRYZMS-it Briksmax Kit di Illuminazione a Led Per Architecture...'
+sku: 'B07QSRYZMS-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

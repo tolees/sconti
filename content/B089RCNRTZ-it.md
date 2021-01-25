@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RCNRTZ-it Auricolare Bluetooth 5.0 Auricolare Wireless Microfono e...'
+sku: 'B089RCNRTZ-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

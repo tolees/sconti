@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBV5YBS-it adidas Superstar Scarpe da Ginnastica Unisex Adulto Nero...'
+sku: 'B00UBV5YBS-it'
 tags: [  ]
 actualPrice: 54.05 EUR
 currency: EUR

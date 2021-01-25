@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLZKL9Q-it Havaianas Twist Sandali con Chiusura a T Donna Beige Sand...'
+sku: 'B07SLZKL9Q-it'
 tags: [  ]
 actualPrice: 15.45 EUR
 currency: EUR

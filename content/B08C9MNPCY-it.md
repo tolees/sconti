@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9MNPCY-it ZIYOULANG Mouse da gioco cablato 69G a nido d ape leggero...'
+sku: 'B08C9MNPCY-it'
 tags: [  ]
 actualPrice: 25.39 EUR
 currency: EUR

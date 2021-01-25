@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XY4N2S-it Electrolux PA91-404GY Purificatore d aria connesso con...'
+sku: 'B085XY4N2S-it'
 tags: [  ]
 actualPrice: 369.0 EUR
 currency: EUR

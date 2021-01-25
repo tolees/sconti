@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071SLJG53-it New Balance Pc574v1 Sneaker Unisex - Bambini Nero...'
+sku: 'B071SLJG53-it'
 tags: [  ]
 actualPrice: 30.83 EUR
 currency: EUR

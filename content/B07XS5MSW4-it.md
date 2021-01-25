@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS5MSW4-it Apple iPhone 11 128GB - Verde'
+sku: 'B07XS5MSW4-it'
 tags: [  ]
 actualPrice: 749.0 EUR
 currency: EUR

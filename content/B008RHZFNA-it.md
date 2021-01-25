@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008RHZFNA-it STONELINE 10865 Set di Stoviglie in Alluminio con...'
+sku: 'B008RHZFNA-it'
 tags: [  ]
 actualPrice: 257.95 EUR
 currency: EUR

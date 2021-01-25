@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851DWXQY-it HERSITY Cucina Giocattolo per Bambini Piano Cottura con...'
+sku: 'B0851DWXQY-it'
 tags: [  ]
 actualPrice: 18.98 EUR
 currency: EUR

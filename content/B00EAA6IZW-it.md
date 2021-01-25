@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EAA6IZW-it Rowenta CF4132 Ferro Arricciacapelli Multistyler 14-in-1...'
+sku: 'B00EAA6IZW-it'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

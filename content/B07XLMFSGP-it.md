@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLMFSGP-it CARE OF by PUMA Slip on Court Low-Top Sneakers Blu Navy...'
+sku: 'B07XLMFSGP-it'
 tags: [  ]
 actualPrice: 28.21 EUR
 currency: EUR

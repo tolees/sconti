@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M67UNKW-it PURINA GOURMET DIAMANT Umido Gatto Squisite Falde di Polpa...'
+sku: 'B01M67UNKW-it'
 tags: [  ]
 actualPrice: 16.56 EUR
 currency: EUR

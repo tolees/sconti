@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYDT0FO-it Nike MD Runner 2 Scarpe da Running Uomo Nero...'
+sku: 'B00PYDT0FO-it'
 tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR

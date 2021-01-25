@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BY95SGF-it LYITP Cavo per Hard Drive SATA da USB 3.0 a SSD/2 5...'
+sku: 'B08BY95SGF-it'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

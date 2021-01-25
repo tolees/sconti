@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHH9TRW-it Cuffie per bambini Mpow CH6S con stereo funzione di...'
+sku: 'B07XHH9TRW-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

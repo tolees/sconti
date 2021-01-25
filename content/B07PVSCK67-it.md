@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVSCK67-it INPHIC Tappetino per Mouse Gaming Keyboard Mouse Pad da...'
+sku: 'B07PVSCK67-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

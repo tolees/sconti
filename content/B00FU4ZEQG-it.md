@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FU4ZEQG-it Tommy Hilfiger TH Men Quarter 2P Calze Uomo Nero 43/46 -...'
+sku: 'B00FU4ZEQG-it'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

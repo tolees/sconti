@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W39NJGL-it Dischetti Struccanti Lavabili in Bamboo 10 Pezzi -...'
+sku: 'B07W39NJGL-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

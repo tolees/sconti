@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HMXXC2U-it TRE MARIE ANCORA UNO WAFER STRACCIATELLA 140 GR'
+sku: 'B01HMXXC2U-it'
 tags: [  ]
 actualPrice: 1.18 EUR
 currency: EUR

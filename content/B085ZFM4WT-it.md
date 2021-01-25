@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZFM4WT-it VATOS Set di Costruzioni 568 Pezzi Castello da Principessa...'
+sku: 'B085ZFM4WT-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

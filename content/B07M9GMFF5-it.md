@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9GMFF5-it Spigen SteadiBoost Caricatore Wireless Veloce 15W Qi...'
+sku: 'B07M9GMFF5-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

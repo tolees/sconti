@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WGIY2G-it Superga 2750-cotu Classic Sneaker Uomo Grigio Full Grey...'
+sku: 'B002WGIY2G-it'
 tags: [  ]
 actualPrice: 40.92 EUR
 currency: EUR

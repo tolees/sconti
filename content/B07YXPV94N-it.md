@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXPV94N-it Diyife Selfie Ring Light [Ultima Versione] Ricaricabile...'
+sku: 'B07YXPV94N-it'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

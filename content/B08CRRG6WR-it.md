@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRRG6WR-it Dokkita Spazzolino da Denti per Cani Dog Brushing Stick-...'
+sku: 'B08CRRG6WR-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

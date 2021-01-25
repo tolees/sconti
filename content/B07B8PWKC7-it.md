@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8PWKC7-it Fila Disruptor Low Scarpe da Ginnastica Basse Uomo Nero...'
+sku: 'B07B8PWKC7-it'
 tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR

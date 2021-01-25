@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGX3C8L-it Mellerware - Rider Lithium - Aspirapolvere Senza Fili...'
+sku: 'B07VGX3C8L-it'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

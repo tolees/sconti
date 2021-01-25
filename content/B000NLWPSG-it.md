@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NLWPSG-it Casio Orologio Digitale al Quarzo Uomo con Cinturino in...'
+sku: 'B000NLWPSG-it'
 tags: [  ]
 actualPrice: 18.35 EUR
 currency: EUR

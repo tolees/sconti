@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5FMQ79-it Samsung UE49RU8000U Smart TV 4K Ultra HD 49" Wi-Fi...'
+sku: 'B07Q5FMQ79-it'
 tags: [  ]
 actualPrice: 480.04 EUR
 currency: EUR

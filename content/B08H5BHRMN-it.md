@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H5BHRMN-it Genericn - Scheda di memoria Micro SD SDXC ad alta...'
+sku: 'B08H5BHRMN-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

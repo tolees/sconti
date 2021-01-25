@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813WKF3P-it adidas Sleek W Scarpe da Ginnastica Donna Ftwr...'
+sku: 'B0813WKF3P-it'
 tags: [  ]
 actualPrice: 36.76 EUR
 currency: EUR

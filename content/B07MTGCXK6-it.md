@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTGCXK6-it morpilot Guinzaglio Cane Guinzaglio per Cani Resistente e...'
+sku: 'B07MTGCXK6-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

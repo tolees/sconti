@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GDS3GGW-it Herschel 10020-00919 Little America Mid-Volume Raven...'
+sku: 'B01GDS3GGW-it'
 tags: [  ]
 actualPrice: 88.68 EUR
 currency: EUR

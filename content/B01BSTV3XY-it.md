@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSTV3XY-it Scholl Velvet Smooth Roll Pedicure Elettrico Professionale...'
+sku: 'B01BSTV3XY-it'
 tags: [  ]
 actualPrice: 19.43 EUR
 currency: EUR

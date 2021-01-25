@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC3FB37-it LEGO Juniors Buzz e Woody e La Mania del Carnevale Gioco...'
+sku: 'B07JC3FB37-it'
 tags: [  ]
 actualPrice: 33.89 EUR
 currency: EUR

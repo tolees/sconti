@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W3IEP3A-it Fairy Additivo Cura Lavastoviglie Maxi Formato 7...'
+sku: 'B00W3IEP3A-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

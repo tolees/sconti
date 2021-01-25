@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3RRKW9-it Gillette Fusion5 ProGlide 1 Rasoio da Uomo + 5 Lamette...'
+sku: 'B07H3RRKW9-it'
 tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KXCQQN-it QARFEE Chiavetta USB 3.0 per iPhone USB Memoria Stick...'
+sku: 'B082KXCQQN-it'
 tags: [  ]
 actualPrice: 35.61 EUR
 currency: EUR

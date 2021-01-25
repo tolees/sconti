@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08232KNLX-it The Protein Works Matrix Massa Totale Extreme Tiramisu...'
+sku: 'B08232KNLX-it'
 tags: [  ]
 actualPrice: 39.63 EUR
 currency: EUR

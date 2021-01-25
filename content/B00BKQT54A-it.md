@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKQT54A-it Daniel Wellington Classic Cambridge Orologio da polso Uomo...'
+sku: 'B00BKQT54A-it'
 tags: [  ]
 actualPrice: 58.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPPPTJF-it Levi s Original Batwing Maglietta Multicolore HM Patch...'
+sku: 'B07TPPPTJF-it'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

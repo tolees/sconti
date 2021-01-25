@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K8WPBSR-it eXtremeRate Cover Scocca Custodia Pulsanti Tasti ABXY...'
+sku: 'B08K8WPBSR-it'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

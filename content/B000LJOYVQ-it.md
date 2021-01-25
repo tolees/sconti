@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LJOYVQ-it Alessi Mediterraneo ESI01/29 Fruttiera di Design in...'
+sku: 'B000LJOYVQ-it'
 tags: [  ]
 actualPrice: 96.37 EUR
 currency: EUR

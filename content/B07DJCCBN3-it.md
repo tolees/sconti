@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJCCBN3-it Calvin Klein Core Institutional Logo Slim Tee Maglietta...'
+sku: 'B07DJCCBN3-it'
 tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR

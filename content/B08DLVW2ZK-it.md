@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DLVW2ZK-it Raccogli Briciole Coccinella in Plastica. Spazzola...'
+sku: 'B08DLVW2ZK-it'
 tags: [  ]
 actualPrice: 9.52 EUR
 currency: EUR

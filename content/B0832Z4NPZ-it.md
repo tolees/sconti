@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0832Z4NPZ-it Taylor Swoden Aladin - 1 7L Retro Bollitore elettrico...'
+sku: 'B0832Z4NPZ-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

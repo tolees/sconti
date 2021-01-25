@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCCHFBL-it NAPAPIJRI Elbas 3 Polo Verde Green Way Gw11 Medium Uomo'
+sku: 'B07VCCHFBL-it'
 tags: [  ]
 actualPrice: 19.15 EUR
 currency: EUR

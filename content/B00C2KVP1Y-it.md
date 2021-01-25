@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C2KVP1Y-it Only 15077791/SKINNY SOFT ULTIMATE 201 Jeans donna Blu...'
+sku: 'B00C2KVP1Y-it'
 tags: [  ]
 actualPrice: 24.74 EUR
 currency: EUR

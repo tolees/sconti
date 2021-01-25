@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3V8L8S-it homcom Cyclette Elettrica Compatto Altezza Regolabile in 6...'
+sku: 'B07H3V8L8S-it'
 tags: [  ]
 actualPrice: 70.67 EUR
 currency: EUR

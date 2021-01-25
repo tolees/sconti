@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HLXGGXD-it eXtremeRate Tasti Pulsanti Ricambio per Xbox One Elite...'
+sku: 'B08HLXGGXD-it'
 tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR

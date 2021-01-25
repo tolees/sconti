@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AVZMXO0-it Vans Atwood Scarpe da Ginnastica Uomo Nero...'
+sku: 'B00AVZMXO0-it'
 tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR

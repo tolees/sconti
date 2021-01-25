@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FT7RQF-it Moschino Donna Borsa Nero MOD. MOS4085'
+sku: 'B082FT7RQF-it'
 tags: [  ]
 actualPrice: 64.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGQ4K85-it adidas Streetcheck Scarpe da Basketball Uomo Multicolore...'
+sku: 'B07RGQ4K85-it'
 tags: [  ]
 actualPrice: 20.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVY2CT-it PUMA ST Runner V2 NL Scarpe da Ginnastica Unisex-Adulto...'
+sku: 'B07SBVY2CT-it'
 tags: [  ]
 actualPrice: 41.97 EUR
 currency: EUR

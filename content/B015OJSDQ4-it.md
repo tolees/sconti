@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015OJSDQ4-it PUMA ICRA Trainer SD Scarpe da Ginnastica Unisex Adulto...'
+sku: 'B015OJSDQ4-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

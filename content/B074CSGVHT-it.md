@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074CSGVHT-it Orient Orologio Analogico Automatico Uomo con Cinturino in...'
+sku: 'B074CSGVHT-it'
 tags: [  ]
 actualPrice: 108.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792ZJ4QT-it Aicok Spremiagrumi Elettrico Professionale 100W...'
+sku: 'B0792ZJ4QT-it'
 tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR

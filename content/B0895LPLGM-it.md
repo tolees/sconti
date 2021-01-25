@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895LPLGM-it ATOYX 66C RC Mini Drone con Telecomando Funzione di...'
+sku: 'B0895LPLGM-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

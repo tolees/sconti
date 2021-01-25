@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWCPSBM-it LIVEHITOP Coperta da Spiaggia 210x200cm Anti Sabbia -...'
+sku: 'B06WWCPSBM-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF51VXY-it Levi s Type 3 Giacca in Jeans Nero Berk Sherpa Trucker...'
+sku: 'B07KF51VXY-it'
 tags: [  ]
 actualPrice: 77.96 EUR
 currency: EUR

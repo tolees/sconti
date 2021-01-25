@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6QHDV4-it adidas Backpack Club Orange'
+sku: 'B07W6QHDV4-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

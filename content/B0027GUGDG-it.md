@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0027GUGDG-it Netgear JGS524 Switch Ethernet Gigabit 24 Porte Switch...'
+sku: 'B0027GUGDG-it'
 tags: [  ]
 actualPrice: 122.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LDKH2PG-it Sony MDRAS210B Cuffie In-Ear Sportive Archetti ad Anello...'
+sku: 'B01LDKH2PG-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMHQW88-it Black+Decker BXPW2500DTS Idropulitrice ad Alta Pressione...'
+sku: 'B07SMHQW88-it'
 tags: [  ]
 actualPrice: 161.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW66KZJ-it Lampada da Scrivania TaoTronics Lampada da Tavolo Ufficio...'
+sku: 'B06XW66KZJ-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNXRK23-it [FORZA ITALIA] HolyHigh Auricolari Cuffie Sportive Senza...'
+sku: 'B07ZNXRK23-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

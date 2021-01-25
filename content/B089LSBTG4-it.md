@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089LSBTG4-it Puzzle in Legno Forme Geometriche Tangram Puzzles...'
+sku: 'B089LSBTG4-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

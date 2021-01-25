@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLZL3RF-it Havaianas Disney Classic II Sandali Unisex-Bimbi...'
+sku: 'B07SLZL3RF-it'
 tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR

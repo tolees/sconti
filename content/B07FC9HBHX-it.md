@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FC9HBHX-it Homever Coltelli da cucina Ceppo Coltelli Coltelli da Chef...'
+sku: 'B07FC9HBHX-it'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

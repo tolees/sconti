@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQNC3KT-it Levi s Crewneck 1 T-Shirt Blu 2pk Slim Crew Dress Blues X...'
+sku: 'B07TQNC3KT-it'
 tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CA0E76G-it Superga 2750-cotu Classic Sneaker Uomo Nero Full Black...'
+sku: 'B00CA0E76G-it'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

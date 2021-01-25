@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S54F4ZF-it Diesel Umbx-damienthreepack Slip Multicolore Bright...'
+sku: 'B07S54F4ZF-it'
 tags: [  ]
 actualPrice: 15.06 EUR
 currency: EUR

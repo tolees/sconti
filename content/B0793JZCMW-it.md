@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793JZCMW-it Saucony Jazz Original Vintage Sneakers Uomo Castlerock...'
+sku: 'B0793JZCMW-it'
 tags: [  ]
 actualPrice: 55.62 EUR
 currency: EUR

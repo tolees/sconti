@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBBV1F8-it Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza...'
+sku: 'B07HBBV1F8-it'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

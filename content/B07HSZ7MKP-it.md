@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSZ7MKP-it ANSIO Ventilatore a torre oscillante con telecomando e 3...'
+sku: 'B07HSZ7MKP-it'
 tags: [  ]
 actualPrice: 21.97 EUR
 currency: EUR

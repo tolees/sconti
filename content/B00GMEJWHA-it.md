@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GMEJWHA-it Lacoste Sport L1230 Polo Sport Ultraleggera Blu Marine 166...'
+sku: 'B00GMEJWHA-it'
 tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR

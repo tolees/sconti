@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071YPDPT3-it Vileda Mixer 4 Stendibiancheria a Torre Ripiegabile con...'
+sku: 'B071YPDPT3-it'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NLL5RC-it Hape- Race to The Finish Marble Run Game Multicolore E6021'
+sku: 'B079NLL5RC-it'
 tags: [  ]
 actualPrice: 24.11 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GSS1M86-it eXtremeRate Lofty Remap Kit Programmabile&Trigger Stop per...'
+sku: 'B08GSS1M86-it'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD9PDXM-it Adidas EC Org Apparel Accessories Uomo Black Taglia Unica'
+sku: 'B07QD9PDXM-it'
 tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR

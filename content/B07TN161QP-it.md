@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TN161QP-it Binocolo 10x22 Kktick Compatto e Portabile Telescopio...'
+sku: 'B07TN161QP-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

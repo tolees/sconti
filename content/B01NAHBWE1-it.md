@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAHBWE1-it Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere...'
+sku: 'B01NAHBWE1-it'
 tags: [  ]
 actualPrice: 4.01 EUR
 currency: EUR

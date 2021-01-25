@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCMXKZG-it TACKLIFE Tagliabordi 350W Tagliabordi Elettrico 25 cm...'
+sku: 'B07YCMXKZG-it'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

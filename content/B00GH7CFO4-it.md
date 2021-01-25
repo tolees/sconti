@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GH7CFO4-it Kleenex 8826 Scatole di fazzoletti ovali 10 scatole da 64...'
+sku: 'B00GH7CFO4-it'
 tags: [  ]
 actualPrice: 24.74 EUR
 currency: EUR

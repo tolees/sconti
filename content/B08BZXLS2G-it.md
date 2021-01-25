@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZXLS2G-it Melchioni ARTIC47LT Mini frigo bar con congelatore A+...'
+sku: 'B08BZXLS2G-it'
 tags: [  ]
 actualPrice: 98.99 EUR
 currency: EUR

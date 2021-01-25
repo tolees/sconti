@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083W32TSF-it CHOETECH Caricatore Wireless 2 Posti Caricatore Senza Fili...'
+sku: 'B083W32TSF-it'
 tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR

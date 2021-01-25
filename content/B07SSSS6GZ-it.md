@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSSS6GZ-it Filetti di tonno pescato a canna in olio d oliva 190g'
+sku: 'B07SSSS6GZ-it'
 tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR

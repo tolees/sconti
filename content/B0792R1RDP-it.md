@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792R1RDP-it Diesel UMBR-ANDRETHREEPACK Slip Uomo Multicolore Dark Grey...'
+sku: 'B0792R1RDP-it'
 tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR

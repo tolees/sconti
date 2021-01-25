@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KVXMMB-it Oral-B CrossAction Testine di Ricambio per Spazzolino...'
+sku: 'B089KVXMMB-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

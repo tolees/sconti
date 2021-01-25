@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QH74YZW-it adidas Stan Smith J Scarpe da Basket Unisex-Adulto Nero...'
+sku: 'B00QH74YZW-it'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

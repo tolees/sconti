@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSD7ZP5-it Smart Panda Lavagna Calendario Magnetico Frigorifero -...'
+sku: 'B01MSD7ZP5-it'
 tags: [  ]
 actualPrice: 11.96 EUR
 currency: EUR

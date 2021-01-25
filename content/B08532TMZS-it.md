@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08532TMZS-it AVIWIS Multi Cavo di Ricarica 3 in 1 Cavo USB Multiplo...'
+sku: 'B08532TMZS-it'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

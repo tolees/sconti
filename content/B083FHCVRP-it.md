@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FHCVRP-it Lacoste Ph4012 Polo Sphere XS Uomo'
+sku: 'B083FHCVRP-it'
 tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR

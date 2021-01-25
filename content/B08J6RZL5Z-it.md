@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J6RZL5Z-it Cuffie Bluetooth 5.0 cuffie Wireless integrate microfono e...'
+sku: 'B08J6RZL5Z-it'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

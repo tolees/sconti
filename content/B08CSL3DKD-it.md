@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSL3DKD-it Auricolari Bluetooth Cuffie Bluetooth Pro 5.0 Cuffie...'
+sku: 'B08CSL3DKD-it'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

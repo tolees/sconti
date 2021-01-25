@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M85DOD0-it BLACK+DECKER ASD184KB-QW Trapano/avvitatore Autosense 18V...'
+sku: 'B00M85DOD0-it'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003IX0DOO-it Wenko Portarotolo di Riserva a Parete O Indipendente per 3...'
+sku: 'B003IX0DOO-it'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

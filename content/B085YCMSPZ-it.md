@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085YCMSPZ-it YAMAMAY® Cardigan Aperto Donna Loves LA'
+sku: 'B085YCMSPZ-it'
 tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR

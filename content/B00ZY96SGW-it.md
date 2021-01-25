@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZY96SGW-it Givova Visa Tuta Da Ginnastica Uomo Multicolore...'
+sku: 'B00ZY96SGW-it'
 tags: [  ]
 actualPrice: 16.37 EUR
 currency: EUR

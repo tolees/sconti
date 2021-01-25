@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL19QGK-it Prada Profumo - 50 Ml'
+sku: 'B07BL19QGK-it'
 tags: [  ]
 actualPrice: 40.6 EUR
 currency: EUR

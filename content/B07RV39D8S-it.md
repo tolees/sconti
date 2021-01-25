@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RV39D8S-it WACCET Supporto Moto Smartphone Anti-Shake Porta Cellulare...'
+sku: 'B07RV39D8S-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHD616C-it Kaspersky Internet Security 2020 5 User'
+sku: 'B07VHD616C-it'
 tags: [  ]
 actualPrice: 36.98 EUR
 currency: EUR

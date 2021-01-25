@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8KGNY1-it HISENSE APC12 Climatizzatore d’Aria Portatile da 12000 BTU...'
+sku: 'B07Q8KGNY1-it'
 tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR

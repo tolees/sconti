@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085C4D3DS-it Aigostar Baron – Frullatore portatile 2 in 1 per frutta e...'
+sku: 'B085C4D3DS-it'
 tags: [  ]
 actualPrice: 30.49 EUR
 currency: EUR

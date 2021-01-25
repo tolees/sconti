@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773V1LRK-it 72 Matite Colorate Numerato con Scatola in Metallo da...'
+sku: 'B0773V1LRK-it'
 tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR

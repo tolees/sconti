@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B6RXJK7-it Garnier Skinactive Acqua Micellare Detergente Per Pelli...'
+sku: 'B07B6RXJK7-it'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

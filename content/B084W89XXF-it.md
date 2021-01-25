@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084W89XXF-it Viakal Detersivo Anticalcare Liquido Aceto Maxi Formato 2...'
+sku: 'B084W89XXF-it'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X32GB3H-it MILLET Extreme RUTOR Shield PT Pantaloni Uomo Orion Blue...'
+sku: 'B07X32GB3H-it'
 tags: [  ]
 actualPrice: 123.17 EUR
 currency: EUR

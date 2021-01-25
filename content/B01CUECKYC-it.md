@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CUECKYC-it Aigostar Adam 30GOM - Bollitore d acqua in vetro...'
+sku: 'B01CUECKYC-it'
 tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLKNTMY-it Tagliaverdure Mandolina 13 in 1 Affetta Verdure Verdure...'
+sku: 'B07XLKNTMY-it'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

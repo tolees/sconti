@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNNFHWX-it Xbox One S - 1TB Bundle Gears of War 5 - Inclusi Gears of...'
+sku: 'B07VNNFHWX-it'
 tags: [  ]
 actualPrice: 240.99 EUR
 currency: EUR

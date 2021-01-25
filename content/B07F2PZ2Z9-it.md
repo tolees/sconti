@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2PZ2Z9-it Puma Axis Scarpe da Ginnastica Unisex-Adulto Nero...'
+sku: 'B07F2PZ2Z9-it'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

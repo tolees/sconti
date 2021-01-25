@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0783PM5CV-it PUMA Smash Wns V2 L Scarpe da Ginnastica Donna Nero Black...'
+sku: 'B0783PM5CV-it'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

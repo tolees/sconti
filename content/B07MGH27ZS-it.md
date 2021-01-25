@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGH27ZS-it Morstone Trasportino per Cani e Gatti Gabbietta Morbida...'
+sku: 'B07MGH27ZS-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

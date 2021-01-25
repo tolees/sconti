@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XSV7KT-it Autoradio Bluetooth RDS Stereo ieGeek Luce dei Tasti a 7...'
+sku: 'B082XSV7KT-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

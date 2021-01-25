@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086FCN9Y8-it Fuze Tea Tè Verde alla Mela e Kiwi PET - 400 ml'
+sku: 'B086FCN9Y8-it'
 tags: [  ]
 actualPrice: 0.53 EUR
 currency: EUR

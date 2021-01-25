@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084GPR4BW-it Svelto Expert Pastiglie per Lavastoviglie Extra Igiene...'
+sku: 'B084GPR4BW-it'
 tags: [  ]
 actualPrice: 19.25 EUR
 currency: EUR

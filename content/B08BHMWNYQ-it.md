@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHMWNYQ-it Proiettore WiFi WiMiUS 7200 Lumen Videoproiettore Full HD...'
+sku: 'B08BHMWNYQ-it'
 tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR

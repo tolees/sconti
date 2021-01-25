@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVDNVS5-it Funko- Pop Games: Dungeons & Dragons-Minsc & Boo...'
+sku: 'B07TVDNVS5-it'
 tags: [  ]
 actualPrice: 10.24 EUR
 currency: EUR

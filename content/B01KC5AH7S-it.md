@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KC5AH7S-it Cuffie Bluetooth Auricolari Bluetooth Wireless Con...'
+sku: 'B01KC5AH7S-it'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

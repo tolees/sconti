@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMLGC45-it Calvin Klein Punched Lrg Dbl Ziparound - Portafogli Donna...'
+sku: 'B07RMLGC45-it'
 tags: [  ]
 actualPrice: 24.23 EUR
 currency: EUR

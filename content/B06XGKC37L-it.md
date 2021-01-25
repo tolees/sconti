@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGKC37L-it Garnier Ultra Dolce Bagnodoccia Fico e Zucchero di Canna...'
+sku: 'B06XGKC37L-it'
 tags: [  ]
 actualPrice: 1.49 EUR
 currency: EUR

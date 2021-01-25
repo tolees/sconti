@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082TP9DLM-it Emojoy Set Coltelli da Cucina Ceppo Coltelli Cucina...'
+sku: 'B082TP9DLM-it'
 tags: [  ]
 actualPrice: 37.98 EUR
 currency: EUR

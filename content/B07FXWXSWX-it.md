@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXWXSWX-it Champion Performance Crew Calze Sport Uomo Multicolore...'
+sku: 'B07FXWXSWX-it'
 tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR

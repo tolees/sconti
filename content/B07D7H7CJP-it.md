@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7H7CJP-it Havaianas Slim Tropical Infradito Donna Salmon Nude 7183...'
+sku: 'B07D7H7CJP-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

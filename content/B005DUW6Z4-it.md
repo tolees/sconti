@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DUW6Z4-it Intex 28003 Deluxe Kit di Pulizia per Piscine fino a 5.49...'
+sku: 'B005DUW6Z4-it'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0837FS8JB-it Fast & Furious Crossroads - Xbox One [Edizione: Regno Unito]'
+sku: 'B0837FS8JB-it'
 tags: [  ]
 actualPrice: 51.69 EUR
 currency: EUR

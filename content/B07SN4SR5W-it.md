@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN4SR5W-it Havaianas Top Animals Infradito Donna Multicolore Sand...'
+sku: 'B07SN4SR5W-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

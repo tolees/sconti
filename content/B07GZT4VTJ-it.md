@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZT4VTJ-it Marchio Amazon - MERAKI Blazer Casual Uomo Grigio Grey...'
+sku: 'B07GZT4VTJ-it'
 tags: [  ]
 actualPrice: 14.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQXP8V-it adidas Core18 Rain Jacket Giacca Sportiva. Uomo Power...'
+sku: 'B076HQXP8V-it'
 tags: [  ]
 actualPrice: 28.48 EUR
 currency: EUR

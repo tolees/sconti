@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J4RH1TV-it Optimum Nutrition 100% Plant Gold Standard senza Gluten...'
+sku: 'B07J4RH1TV-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRSQTV5-it Lampada Solare Campeggio Lanterne USB Ricaricabile LED...'
+sku: 'B07VRSQTV5-it'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

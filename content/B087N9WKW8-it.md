@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087N9WKW8-it Ventilatore Portatile Ventilatore USB Indossabile...'
+sku: 'B087N9WKW8-it'
 tags: [  ]
 actualPrice: 17.84 EUR
 currency: EUR

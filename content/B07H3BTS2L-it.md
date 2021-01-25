@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3BTS2L-it Havaianas Hype Infradito Uomo Multicolore Sand Grey/Dark...'
+sku: 'B07H3BTS2L-it'
 tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR

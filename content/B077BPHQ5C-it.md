@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BPHQ5C-it Kodak Stampante fotografica Mini 2 HD istantanea senza...'
+sku: 'B077BPHQ5C-it'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

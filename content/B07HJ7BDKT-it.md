@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ7BDKT-it Gillette Fusion5 Proshield Rasoio da Uomo 1 Manico 5...'
+sku: 'B07HJ7BDKT-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

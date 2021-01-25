@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6F69QX-it HolyHigh Cuffie Bluetooth Senza Fili Auricolari in Ear...'
+sku: 'B07X6F69QX-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

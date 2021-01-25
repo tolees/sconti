@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2M1W2Y-it Trafficanti-War Dogs 4K+Br+Copia Dig.'
+sku: 'B01N2M1W2Y-it'
 tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR

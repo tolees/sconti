@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KG66SZO-it ArtWay Studio - Quaderno da Disegno spiralato - Cartoncino...'
+sku: 'B00KG66SZO-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

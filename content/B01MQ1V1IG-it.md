@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQ1V1IG-it Lacoste Sport Sh2128 Felpa con Cappuccio Grigio Argent...'
+sku: 'B01MQ1V1IG-it'
 tags: [  ]
 actualPrice: 46.95 EUR
 currency: EUR

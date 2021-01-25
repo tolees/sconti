@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QQ4EZNM-it AUKEY Tappetino Mouse Gaming Grande XL 900x400x4mm Mouse...'
+sku: 'B00QQ4EZNM-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

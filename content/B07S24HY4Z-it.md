@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S24HY4Z-it MSI GS75 Stealth 9SE-493IT Notebook Gaming 17.3" FHD Intel...'
+sku: 'B07S24HY4Z-it'
 tags: [  ]
 actualPrice: 610.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J04N8PG-it Hazet 9012M Avvitatore Ad Impulso Extra Corto Multicolore...'
+sku: 'B00J04N8PG-it'
 tags: [  ]
 actualPrice: 142.99 EUR
 currency: EUR

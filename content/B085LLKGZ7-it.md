@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LLKGZ7-it MKTOSASA - Zaino in nylon resistente 600D con chiusura...'
+sku: 'B085LLKGZ7-it'
 tags: [  ]
 actualPrice: 23.85 EUR
 currency: EUR

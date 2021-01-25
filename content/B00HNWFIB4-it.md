@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HNWFIB4-it Exponent T10200 Tetrax Smart Supporto per Auto Nero'
+sku: 'B00HNWFIB4-it'
 tags: [  ]
 actualPrice: 15.01 EUR
 currency: EUR

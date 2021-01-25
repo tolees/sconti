@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYWGXG6-it WisFox Utensili Cucina Set Set di Utensili da Cucina in...'
+sku: 'B07MYWGXG6-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

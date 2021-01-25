@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZ4KQL4-it Borraccia Acciaio Inox 450ml Bottiglia Termica...'
+sku: 'B08BZ4KQL4-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

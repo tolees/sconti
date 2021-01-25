@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HCYRG3K-it JACK & JONES Sense Trunks 3-Pack Boxer Multicolore...'
+sku: 'B01HCYRG3K-it'
 tags: [  ]
 actualPrice: 19.11 EUR
 currency: EUR

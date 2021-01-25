@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HQHS9JJ-it Cuffie Bluetooth 5.0 3D Stereo Cuffie Auricolare Senza...'
+sku: 'B08HQHS9JJ-it'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

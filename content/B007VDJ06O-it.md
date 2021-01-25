@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VDJ06O-it Claber 87335 Inter. POZZETTO Grande 90510...'
+sku: 'B007VDJ06O-it'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

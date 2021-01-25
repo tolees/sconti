@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCKK4C3-it Desigual Borsa a mano Donna Oro Oro DORADO 8010 14x24x33...'
+sku: 'B07VCKK4C3-it'
 tags: [  ]
 actualPrice: 19.89 EUR
 currency: EUR

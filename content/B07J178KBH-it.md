@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J178KBH-it SEAC Driver Computer da Polso per Immersioni in Apnea con...'
+sku: 'B07J178KBH-it'
 tags: [  ]
 actualPrice: 68.49 EUR
 currency: EUR

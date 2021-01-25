@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016APUM7O-it Funko- Disney Toy Story-Woody Figurina in Vinile...'
+sku: 'B016APUM7O-it'
 tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR

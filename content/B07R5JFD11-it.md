@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5JFD11-it Kalawen Binocolo 10x42 Azoto Professionale Potente...'
+sku: 'B07R5JFD11-it'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

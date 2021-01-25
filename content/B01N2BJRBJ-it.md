@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2BJRBJ-it Orologio Uomo - Festina F20205-4'
+sku: 'B01N2BJRBJ-it'
 tags: [  ]
 actualPrice: 57.83 EUR
 currency: EUR

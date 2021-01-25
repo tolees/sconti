@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ANRJJAM-it Pedrini 9081 Caffettiera Kaffettiera 1 tazza'
+sku: 'B00ANRJJAM-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

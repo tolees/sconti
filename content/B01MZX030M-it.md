@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZX030M-it New Balance 373 Core U Scarpe Trainers Uomo Rosso Burgundy...'
+sku: 'B01MZX030M-it'
 tags: [  ]
 actualPrice: 50.2 EUR
 currency: EUR

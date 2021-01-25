@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBRLTRH-it BenQ EW3270U Monitor PC per Intrattenimento Video HDR UHD...'
+sku: 'B07BBRLTRH-it'
 tags: [  ]
 actualPrice: 349.99 EUR
 currency: EUR

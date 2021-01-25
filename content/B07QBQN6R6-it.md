@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QBQN6R6-it Funko- Pop Bobble in Vinile Marvel: Holiday-Deadpool...'
+sku: 'B07QBQN6R6-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

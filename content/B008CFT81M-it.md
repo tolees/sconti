@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008CFT81M-it Zig Zag Insetticida Habitat Multinsetto Inodore Ideale per...'
+sku: 'B008CFT81M-it'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

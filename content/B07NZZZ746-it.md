@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZZZ746-it HyperX HX-MICQC-BK Quadcast Microfono Standalone per...'
+sku: 'B07NZZZ746-it'
 tags: [  ]
 actualPrice: 106.18 EUR
 currency: EUR

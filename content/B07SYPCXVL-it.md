@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYPCXVL-it ARMANI EXCHANGE Icon T T-Shirt Bianco White W/Saint Tropez...'
+sku: 'B07SYPCXVL-it'
 tags: [  ]
 actualPrice: 22.63 EUR
 currency: EUR

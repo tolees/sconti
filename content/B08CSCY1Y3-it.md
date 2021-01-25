@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSCY1Y3-it katliu Zoccoli per Donna Traspirante Sandali da Spiaggia...'
+sku: 'B08CSCY1Y3-it'
 tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR

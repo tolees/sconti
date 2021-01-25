@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BL9B86M-it Cuffie Bluetooth Auricolari Bluetooth 5.0 Senza Fili...'
+sku: 'B08BL9B86M-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

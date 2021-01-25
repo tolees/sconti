@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XUQY9GM-it Skipper - Succo Di Ananas Da Concentrato - 1000 Ml'
+sku: 'B00XUQY9GM-it'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6N7MRF-it Columbia Fast Trek II Giacca in pile con cerniera Uomo'
+sku: 'B07V6N7MRF-it'
 tags: [  ]
 actualPrice: 35.49 EUR
 currency: EUR

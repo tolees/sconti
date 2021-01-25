@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFV1N2R-it TOUCHBeauty AG-0602AP Kit manicure/pedicure da donna...'
+sku: 'B06XFV1N2R-it'
 tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR

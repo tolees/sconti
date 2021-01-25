@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I98YPM4-it Max Factor Lipfinity Lip Colour Rossetto Lunga Durata e...'
+sku: 'B00I98YPM4-it'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

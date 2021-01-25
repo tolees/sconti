@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RMCCQ4-it Reebok Club C 85 Sneaker Uomo Bianco Int/White/Green 50 EU'
+sku: 'B073RMCCQ4-it'
 tags: [  ]
 actualPrice: 50.49 EUR
 currency: EUR

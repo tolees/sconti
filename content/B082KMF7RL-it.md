@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KMF7RL-it Fajiabao Giochi Montessori Banco da Martellare in Legno...'
+sku: 'B082KMF7RL-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JHMDWS-it Marchio Amazon - find. Blusa in Velluto con Punto Smock...'
+sku: 'B073JHMDWS-it'
 tags: [  ]
 actualPrice: 7.28 EUR
 currency: EUR

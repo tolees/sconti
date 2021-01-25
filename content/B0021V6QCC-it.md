@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0021V6QCC-it Giotto Stilnovo - Astuccio 12 Pastelli Multicolore'
+sku: 'B0021V6QCC-it'
 tags: [  ]
 actualPrice: 2.8 EUR
 currency: EUR

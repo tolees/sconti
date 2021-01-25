@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010NUXC6U-it Max Factor Mascara Volumizzante False Lash Effect Velvet...'
+sku: 'B010NUXC6U-it'
 tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR

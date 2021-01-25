@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4NMDQX-it Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva...'
+sku: 'B07W4NMDQX-it'
 tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR

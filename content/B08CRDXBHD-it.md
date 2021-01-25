@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRDXBHD-it Cuffie senza fili per TV con stazione di ricarica digitale...'
+sku: 'B08CRDXBHD-it'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

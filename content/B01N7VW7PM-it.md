@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7VW7PM-it Durex Love Preservativi Comfort Facili da Indossare 144...'
+sku: 'B01N7VW7PM-it'
 tags: [  ]
 actualPrice: 50.31 EUR
 currency: EUR

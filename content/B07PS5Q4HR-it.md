@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS5Q4HR-it Finish All in 1 Max Kit Pastiglie Lavastoviglie 110 Tabs +...'
+sku: 'B07PS5Q4HR-it'
 tags: [  ]
 actualPrice: 24.59 EUR
 currency: EUR

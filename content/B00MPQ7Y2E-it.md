@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MPQ7Y2E-it LEITZ Borsa Messenger 15 6 - Smart Traveller - Nero -...'
+sku: 'B00MPQ7Y2E-it'
 tags: [  ]
 actualPrice: 26.5 EUR
 currency: EUR

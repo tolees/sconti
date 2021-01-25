@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00628VOEA-it Ghd Air - Asciugacapelli professionale Finish come appena...'
+sku: 'B00628VOEA-it'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

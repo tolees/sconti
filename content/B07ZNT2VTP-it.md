@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNT2VTP-it Oacvien 2L Umidificatore Ambiente Ultrasonicos 7 Colori...'
+sku: 'B07ZNT2VTP-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

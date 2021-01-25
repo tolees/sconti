@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G57CKB9-it Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo...'
+sku: 'B07G57CKB9-it'
 tags: [  ]
 actualPrice: 9.04 EUR
 currency: EUR

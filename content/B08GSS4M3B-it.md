@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GSS4M3B-it HEYB Cover Xiaomi Redmi 9C Custodia Premium Vera Pelle...'
+sku: 'B08GSS4M3B-it'
 tags: [  ]
 actualPrice: 3.88 EUR
 currency: EUR

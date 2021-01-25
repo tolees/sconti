@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PR26YWF-it Lark & Ro Stretch Poplin Shirt Dress-Shirts Cruz V2 Fresh...'
+sku: 'B07PR26YWF-it'
 tags: [  ]
 actualPrice: 9.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082TD3DHX-it Bébé Confort - Maxi Cosi E-Safety Dispositivo Anti...'
+sku: 'B082TD3DHX-it'
 tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR

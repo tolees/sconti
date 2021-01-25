@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SDTEA6A-it LEGO-Duplo Disney Il Trenino di Topolino e Minnie...'
+sku: 'B00SDTEA6A-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

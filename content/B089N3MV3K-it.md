@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089N3MV3K-it Toozey Gioco per Cani Giocattolo per masticatori - Giochi...'
+sku: 'B089N3MV3K-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2D36WD-it È Pura - Maschera Blonde Care - Trattamento Professionale...'
+sku: 'B07D2D36WD-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

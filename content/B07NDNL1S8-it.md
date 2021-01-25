@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNL1S8-it Olimpia Splendid 01913 Dolceclima Compact 8 P...'
+sku: 'B07NDNL1S8-it'
 tags: [  ]
 actualPrice: 225.99 EUR
 currency: EUR

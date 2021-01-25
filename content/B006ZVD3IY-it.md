@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006ZVD3IY-it SYLVANIAN FAMILIES Accessori Multicolore 2745'
+sku: 'B006ZVD3IY-it'
 tags: [  ]
 actualPrice: 57.35 EUR
 currency: EUR

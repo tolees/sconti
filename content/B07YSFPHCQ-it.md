@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSFPHCQ-it Grey L Acchiappacolore Fogli Cattura Colore Lavatrice...'
+sku: 'B07YSFPHCQ-it'
 tags: [  ]
 actualPrice: 3.29 EUR
 currency: EUR

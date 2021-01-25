@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YDG19Z-it 6×Lampada Solare Giardino Aigostar Lampada a LED...'
+sku: 'B086YDG19Z-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDGXSM9-it Control Xtra Lube 24 Profilattici Extra Lubrificati Standard'
+sku: 'B07SDGXSM9-it'
 tags: [  ]
 actualPrice: 11.78 EUR
 currency: EUR

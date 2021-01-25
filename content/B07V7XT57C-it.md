@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XT57C-it Tommy Hilfiger Corporate Material Mix Runner Scarpe da...'
+sku: 'B07V7XT57C-it'
 tags: [  ]
 actualPrice: 37.9 EUR
 currency: EUR

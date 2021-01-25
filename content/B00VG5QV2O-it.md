@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VG5QV2O-it Tè bianco imperiale dell’Himalaya in foglie – Il tè più...'
+sku: 'B00VG5QV2O-it'
 tags: [  ]
 actualPrice: 8.45 EUR
 currency: EUR

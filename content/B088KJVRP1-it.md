@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088KJVRP1-it PUPPY KITTY Distributore Automatico di Cibo per Gatti Cani...'
+sku: 'B088KJVRP1-it'
 tags: [  ]
 actualPrice: 66.99 EUR
 currency: EUR

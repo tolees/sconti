@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FU1ECM-it Superga 2750-cotu Classic Sneaker Unisex – Adulto Bianco...'
+sku: 'B001FU1ECM-it'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

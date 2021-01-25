@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DVJLFP-it Switch Cat Quest + Cat Quest 2 Pawsome Pack [ [Edizione:...'
+sku: 'B084DVJLFP-it'
 tags: [  ]
 actualPrice: 28.87 EUR
 currency: EUR

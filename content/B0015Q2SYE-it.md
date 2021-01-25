@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0015Q2SYE-it Havaianas Top Infradito Unisex-Adulto Bianco White 0001...'
+sku: 'B0015Q2SYE-it'
 tags: [  ]
 actualPrice: 8.1 EUR
 currency: EUR

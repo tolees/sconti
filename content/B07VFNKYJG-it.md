@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFNKYJG-it Desigual Bols rhapsody Durban - Borsa a tracolla 4 x 17 5...'
+sku: 'B07VFNKYJG-it'
 tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR

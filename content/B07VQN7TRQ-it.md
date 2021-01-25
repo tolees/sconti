@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQN7TRQ-it Fossil Collana con Ciondolo da Donna Oro'
+sku: 'B07VQN7TRQ-it'
 tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR

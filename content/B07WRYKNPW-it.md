@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRYKNPW-it Gricol Mensola da Doccia Angolare Senza Foratura in...'
+sku: 'B07WRYKNPW-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAZNLZZ-it Redford Nizza Camicia Uomo Blu Blau Misura Collo: 44 cm...'
+sku: 'B01MAZNLZZ-it'
 tags: [  ]
 actualPrice: 7.81 EUR
 currency: EUR

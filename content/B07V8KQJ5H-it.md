@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8KQJ5H-it Calvin Klein Ckj Uniform Workman Belt 35mm Cintura Marrone...'
+sku: 'B07V8KQJ5H-it'
 tags: [  ]
 actualPrice: 25.57 EUR
 currency: EUR

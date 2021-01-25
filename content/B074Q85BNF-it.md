@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074Q85BNF-it Philips HD9652/90 Airfryer XXL - Friggitrice Low-Oil e...'
+sku: 'B074Q85BNF-it'
 tags: [  ]
 actualPrice: 204.99 EUR
 currency: EUR

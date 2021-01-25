@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7DXSPY-it 2 batterie per controller Xbox One/Xbox One S/Xbox One X...'
+sku: 'B07V7DXSPY-it'
 tags: [  ]
 actualPrice: 25.91 EUR
 currency: EUR

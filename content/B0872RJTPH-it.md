@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872RJTPH-it Auricolare Bluetooth Senza Fili Cuffie Wireless Stereo 3D...'
+sku: 'B0872RJTPH-it'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

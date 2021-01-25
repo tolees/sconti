@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT4SKCQ-it SAWAKE Ventilatore Manuale Ventola USB Portatile con Base...'
+sku: 'B07PT4SKCQ-it'
 tags: [  ]
 actualPrice: 9.31 EUR
 currency: EUR

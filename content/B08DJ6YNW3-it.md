@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ6YNW3-it NEWHEY Borsa Donna Borsa Porta PC 15.6 Pollici Grande...'
+sku: 'B08DJ6YNW3-it'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FHZWXTN-it Auricolari Bluetooth 5.0 TWS i12 Cuffie wireless stereo 3D...'
+sku: 'B08FHZWXTN-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

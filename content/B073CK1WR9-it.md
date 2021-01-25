@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073CK1WR9-it Calibro Digitale Tacklife DC02 Precisione Micrometro in...'
+sku: 'B073CK1WR9-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

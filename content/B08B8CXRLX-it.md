@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B8CXRLX-it Smartphone Offerta del Giorno 4G Blackview A80 Pro 2020...'
+sku: 'B08B8CXRLX-it'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0089HGSDE-it Burberry Acqua di profumo per le donne 100 ml'
+sku: 'B0089HGSDE-it'
 tags: [  ]
 actualPrice: 27.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002TF08TC-it Coccolino - Ammorbidente Concentrato - Aria di Primavera -...'
+sku: 'B002TF08TC-it'
 tags: [  ]
 actualPrice: 0.97 EUR
 currency: EUR

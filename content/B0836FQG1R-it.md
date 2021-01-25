@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836FQG1R-it Tagliacapelli e barba sei in uno rasoio elettrico...'
+sku: 'B0836FQG1R-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

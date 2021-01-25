@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZYPFDT-it TACKLIFE RTD37AC Utensile Multifunzione 200W Ad Alte...'
+sku: 'B07WZYPFDT-it'
 tags: [  ]
 actualPrice: 49.97 EUR
 currency: EUR

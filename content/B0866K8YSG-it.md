@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0866K8YSG-it Pantene Pro-V Maschera Multi-Nutriente Protezione...'
+sku: 'B0866K8YSG-it'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

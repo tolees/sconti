@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2VY6R7-it ASICS Patriot 11 Scarpe da Corsa Uomo Nero Black/White 001...'
+sku: 'B07L2VY6R7-it'
 tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR

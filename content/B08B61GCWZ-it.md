@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B61GCWZ-it MOONESS Custodia Xiaomi Redmi Note 9s Pelle + Vetro...'
+sku: 'B08B61GCWZ-it'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

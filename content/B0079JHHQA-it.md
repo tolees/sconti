@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0079JHHQA-it Arena Classic Silicone Cuffia Unisex Adulto Grigio...'
+sku: 'B0079JHHQA-it'
 tags: [  ]
 actualPrice: 2.69 EUR
 currency: EUR

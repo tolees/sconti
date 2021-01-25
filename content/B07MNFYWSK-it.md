@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNFYWSK-it Gebildet 3 pezzi Interruttore a Levetta con Luce a LED...'
+sku: 'B07MNFYWSK-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

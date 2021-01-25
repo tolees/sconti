@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9LL9NQ-it JBL CLIP 3 Speaker Wireless Bluetooth Altoparlante...'
+sku: 'B07B9LL9NQ-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

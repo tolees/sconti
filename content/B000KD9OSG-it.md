@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KD9OSG-it Casio Orologio Digitale al Quarzo Uomo con Cinturino in...'
+sku: 'B000KD9OSG-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

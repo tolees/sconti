@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZK8ZGTT-it Inphic Mouse USB cablato clic silenzioso e tracciamento...'
+sku: 'B07ZK8ZGTT-it'
 tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR

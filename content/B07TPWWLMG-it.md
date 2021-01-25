@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPWWLMG-it United Colors of Benetton 2BA2535T5 Giacca Turchese...'
+sku: 'B07TPWWLMG-it'
 tags: [  ]
 actualPrice: 28.83 EUR
 currency: EUR

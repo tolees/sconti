@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004TTTOLO-it Design Toscano WU67877 Statua Anubi Dio del Regno Egiziano...'
+sku: 'B004TTTOLO-it'
 tags: [  ]
 actualPrice: 24.53 EUR
 currency: EUR

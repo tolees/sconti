@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4HQEAM-it Multicentrum Uomo Integratore - 30 Compresse'
+sku: 'B01N4HQEAM-it'
 tags: [  ]
 actualPrice: 10.35 EUR
 currency: EUR

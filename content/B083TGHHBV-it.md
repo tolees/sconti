@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TGHHBV-it Tosbess Technic Auto Sportiva Ford Mustang 2 4Ghz 1:10 RC...'
+sku: 'B083TGHHBV-it'
 tags: [  ]
 actualPrice: 162.99 EUR
 currency: EUR

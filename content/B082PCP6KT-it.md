@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PCP6KT-it Honor Magicwatch 2 Smart Watch Da 46 Mm Con...'
+sku: 'B082PCP6KT-it'
 tags: [  ]
 actualPrice: 148.0 EUR
 currency: EUR

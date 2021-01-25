@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQQ16D-it Levi s The Perfect Tee T-Shirt Logo Serie Bok Choy XXS Donna'
+sku: 'B07ZVQQ16D-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

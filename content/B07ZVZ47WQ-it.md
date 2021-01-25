@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVZ47WQ-it Lagostina Ingenio Essential Batteria di Pentole 10 Pezzi...'
+sku: 'B07ZVZ47WQ-it'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLZQ1XP-it adidas Forest Grove Scarpe da Ginnastica Uomo Gris Blanc...'
+sku: 'B07SLZQ1XP-it'
 tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR

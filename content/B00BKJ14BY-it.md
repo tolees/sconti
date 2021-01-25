@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKJ14BY-it Navigare 324 Slip Uomo Multicolore...'
+sku: 'B00BKJ14BY-it'
 tags: [  ]
 actualPrice: 20.56 EUR
 currency: EUR

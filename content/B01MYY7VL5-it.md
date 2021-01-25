@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYY7VL5-it G-STAR RAW Eyben Slim V T Wmn S/s T-Shirt Bianco White 110...'
+sku: 'B01MYY7VL5-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

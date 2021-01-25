@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016ZXB5JA-it Garmin Forerunner 235 GPS Sportwatch con Sensore Cardio al...'
+sku: 'B016ZXB5JA-it'
 tags: [  ]
 actualPrice: 197.96 EUR
 currency: EUR

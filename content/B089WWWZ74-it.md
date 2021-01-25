@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089WWWZ74-it Finish Detersivo Per Lavastoviglie 100 Lavaggi Powergel 2...'
+sku: 'B089WWWZ74-it'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

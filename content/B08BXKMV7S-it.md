@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BXKMV7S-it HHUIWIND Custodia Xiaomi Redmi Note 9 + Pellicola Vetro...'
+sku: 'B08BXKMV7S-it'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

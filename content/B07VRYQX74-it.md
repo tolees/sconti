@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRYQX74-it Calvin Klein Hip Brief 2pk Slip Nero Black with/White WB...'
+sku: 'B07VRYQX74-it'
 tags: [  ]
 actualPrice: 12.15 EUR
 currency: EUR

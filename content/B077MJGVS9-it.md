@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MJGVS9-it Puma Puma Smash v2 L Scarpe da Ginnastica Basse Unisex -...'
+sku: 'B077MJGVS9-it'
 tags: [  ]
 actualPrice: 37.49 EUR
 currency: EUR

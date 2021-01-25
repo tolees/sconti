@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGKVK4S-it Guess Orologio Analogico Quarzo Donna con Cinturino in...'
+sku: 'B06XGKVK4S-it'
 tags: [  ]
 actualPrice: 79.5 EUR
 currency: EUR

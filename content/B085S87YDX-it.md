@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S87YDX-it Synology DiskStation DS220j - Server NAS a 2 vani e 2...'
+sku: 'B085S87YDX-it'
 tags: [  ]
 actualPrice: 184.99 EUR
 currency: EUR

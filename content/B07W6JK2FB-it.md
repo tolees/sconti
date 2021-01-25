@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6JK2FB-it Russell Hobbs Bicchiere in Vetro Frullatore Professionale...'
+sku: 'B07W6JK2FB-it'
 tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR

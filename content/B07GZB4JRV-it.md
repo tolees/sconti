@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZB4JRV-it Marchio Amazon - MERAKI Blazer Casual Uomo Nero Black 48...'
+sku: 'B07GZB4JRV-it'
 tags: [  ]
 actualPrice: 21.56 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZQ33WV-it Pistola Colla a Caldo 60W Wiecok Pistola Incollatrice con...'
+sku: 'B086ZQ33WV-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

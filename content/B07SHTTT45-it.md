@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHTTT45-it Havaianas Slim Brasil Logo Infradito Donna Rosa Crocus...'
+sku: 'B07SHTTT45-it'
 tags: [  ]
 actualPrice: 8.15 EUR
 currency: EUR

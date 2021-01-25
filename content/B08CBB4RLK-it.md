@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CBB4RLK-it Tau-Marin Spazzolino Professional 27 Medio Edizione...'
+sku: 'B08CBB4RLK-it'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B53ZPW8-it Mascherina Lavabile Regolabile nero'
+sku: 'B08B53ZPW8-it'
 tags: [  ]
 actualPrice: 4.64 EUR
 currency: EUR

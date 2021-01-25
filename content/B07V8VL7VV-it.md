@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8VL7VV-it Tommy Hilfiger Lightweight Stripes Knit Sneaker Scarpe da...'
+sku: 'B07V8VL7VV-it'
 tags: [  ]
 actualPrice: 27.38 EUR
 currency: EUR

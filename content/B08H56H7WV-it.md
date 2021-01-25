@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H56H7WV-it Aerku Cover Silicone per Samsung Galaxy M51 Morbido...'
+sku: 'B08H56H7WV-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752DYT4W-it Fanta Original 330 ml - 4 lattine'
+sku: 'B0752DYT4W-it'
 tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR

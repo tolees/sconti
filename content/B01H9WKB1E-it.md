@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H9WKB1E-it Science in Sport SiS Go Energy Barretta Energetica gusto...'
+sku: 'B01H9WKB1E-it'
 tags: [  ]
 actualPrice: 27.04 EUR
 currency: EUR

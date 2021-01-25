@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0783MLPPQ-it New Balance Unisex - Adulto 574v2 Core Scarpe da...'
+sku: 'B0783MLPPQ-it'
 tags: [  ]
 actualPrice: 76.49 EUR
 currency: EUR

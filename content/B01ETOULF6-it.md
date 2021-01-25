@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ETOULF6-it Jolly pastelli Crazy scatola in cartone 3000-0503...'
+sku: 'B01ETOULF6-it'
 tags: [  ]
 actualPrice: 9.96 EUR
 currency: EUR

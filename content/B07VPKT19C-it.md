@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPKT19C-it Fossil Donna Acciaio Inossidabile Orecchini a Pendolo e...'
+sku: 'B07VPKT19C-it'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

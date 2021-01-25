@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004ALKLR2-it Learning Resources Playfoam Combo Pack of 8'
+sku: 'B004ALKLR2-it'
 tags: [  ]
 actualPrice: 10.1 EUR
 currency: EUR

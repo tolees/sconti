@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0839RDRFN-it Shark Anti Hair Wrap IZ251EUT Scopa Elettrica senza Fili...'
+sku: 'B0839RDRFN-it'
 tags: [  ]
 actualPrice: 370.88 EUR
 currency: EUR

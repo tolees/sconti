@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ORVWN8-it Max Factor Rossetto Lipfinity 190 Indulgent - 4.2 gr'
+sku: 'B000ORVWN8-it'
 tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR

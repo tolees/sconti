@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081XZCCLM-it XINFENGDI Samsung Galaxy A20S Cover Custodia Protettiva in...'
+sku: 'B081XZCCLM-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018M3GD8Y-it Gillette Fusion Proshield Chill Lamette di Ricarica per...'
+sku: 'B018M3GD8Y-it'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

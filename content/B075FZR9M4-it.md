@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FZR9M4-it D-Link DIR-882 Router Wi-Fi AC2600 Dual band 5 Porte...'
+sku: 'B075FZR9M4-it'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

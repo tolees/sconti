@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RN1WYB7-it Calvin Klein Layered Waistbag - Borse a spalla Uomo Blu...'
+sku: 'B07RN1WYB7-it'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

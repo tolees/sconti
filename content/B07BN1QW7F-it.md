@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BN1QW7F-it Vans Ward Platform Scarpe da Ginnastica Donna Canvas...'
+sku: 'B07BN1QW7F-it'
 tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR

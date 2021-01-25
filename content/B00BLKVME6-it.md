@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLKVME6-it Seiko Orologio Cronografo Quarzo Uomo con Cinturino in...'
+sku: 'B00BLKVME6-it'
 tags: [  ]
 actualPrice: 151.0 EUR
 currency: EUR

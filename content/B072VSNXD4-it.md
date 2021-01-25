@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VSNXD4-it MacBook 12" Intel Core i5 dual-core a 1 3GHz 512GB - Oro'
+sku: 'B072VSNXD4-it'
 tags: [  ]
 actualPrice: 1510.37 EUR
 currency: EUR

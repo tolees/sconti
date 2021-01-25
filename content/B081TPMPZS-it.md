@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TPMPZS-it adidas 3stripe Wrap TT Felpa Uomo Black/White S'
+sku: 'B081TPMPZS-it'
 tags: [  ]
 actualPrice: 31.01 EUR
 currency: EUR

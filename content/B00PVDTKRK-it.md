@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PVDTKRK-it D-Link DIR-809 Router Wireless Tecnologia AC750 4 Porte...'
+sku: 'B00PVDTKRK-it'
 tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR

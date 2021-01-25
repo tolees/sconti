@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQ26KXD-it L.O.L Surprise! - LOL Lils Winter Disco Series con 5...'
+sku: 'B07RQ26KXD-it'
 tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR

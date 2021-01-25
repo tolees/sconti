@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDCJFYL-it NAPAPIJRI Bishop Fzh Cappuccio Rosso Bright Red R471 Small...'
+sku: 'B07VDCJFYL-it'
 tags: [  ]
 actualPrice: 53.7 EUR
 currency: EUR

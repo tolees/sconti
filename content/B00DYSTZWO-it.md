@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DYSTZWO-it Pentole Agnelli ALSC111BSSC36 Alblack Padella Svasata Alta...'
+sku: 'B00DYSTZWO-it'
 tags: [  ]
 actualPrice: 32.61 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9S9P6H-it PUMA Cilia Lux Sneakers Donna Nero Black/Plein Air/Bright...'
+sku: 'B07S9S9P6H-it'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

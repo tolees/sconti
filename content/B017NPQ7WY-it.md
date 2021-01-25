@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017NPQ7WY-it Pampers Sole e Luna Salviettine 540 Pezzi'
+sku: 'B017NPQ7WY-it'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

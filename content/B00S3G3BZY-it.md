@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S3G3BZY-it Philips NT3160/10 Serie 3000 Rifinitore di Precisione per...'
+sku: 'B00S3G3BZY-it'
 tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR

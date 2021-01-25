@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FDFYVF-it DOUHE Deumidificatore Ambiente Casa Mini Deumidificatori...'
+sku: 'B082FDFYVF-it'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

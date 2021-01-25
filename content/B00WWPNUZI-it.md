@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WWPNUZI-it JACK & JONES Jjglenn Original Jj 887 Noos Jeans Blu Denim...'
+sku: 'B00WWPNUZI-it'
 tags: [  ]
 actualPrice: 44.49 EUR
 currency: EUR

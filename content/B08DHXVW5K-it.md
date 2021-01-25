@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHXVW5K-it PENG Auricolare Bluetooth Cuffie Senza Fili Cuffie...'
+sku: 'B08DHXVW5K-it'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

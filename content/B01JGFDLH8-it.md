@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JGFDLH8-it Bourjois Ombretti le Palette les Nude - 4.5 g'
+sku: 'B01JGFDLH8-it'
 tags: [  ]
 actualPrice: 3.8 EUR
 currency: EUR

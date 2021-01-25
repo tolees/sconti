@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N4OV3QY-it HOMCOM Stendino Asciugabiancheria 3 Livelli Regolabili e...'
+sku: 'B00N4OV3QY-it'
 tags: [  ]
 actualPrice: 43.96 EUR
 currency: EUR

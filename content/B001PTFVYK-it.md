@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001PTFVYK-it Joop! All About Eve Eau de Parfum Donna 40 ml'
+sku: 'B001PTFVYK-it'
 tags: [  ]
 actualPrice: 13.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLZZ2DJ-it Toolove Lampada da Lettura a LED USB Ricaricabile Luce...'
+sku: 'B07DLZZ2DJ-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

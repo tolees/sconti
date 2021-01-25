@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VSC4SCP-it Sector No Limits Orologio Digitale Uomo con Cinturino in...'
+sku: 'B06VSC4SCP-it'
 tags: [  ]
 actualPrice: 34.5 EUR
 currency: EUR

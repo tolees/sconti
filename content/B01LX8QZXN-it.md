@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX8QZXN-it APLI Kids 13337 – Confezione di 36 rotoli di K60 senza...'
+sku: 'B01LX8QZXN-it'
 tags: [  ]
 actualPrice: 68.6 EUR
 currency: EUR

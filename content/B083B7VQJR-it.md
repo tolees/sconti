@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083B7VQJR-it Grsta Borraccia Termica Isolante in Acciaio Inox per Acqua...'
+sku: 'B083B7VQJR-it'
 tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TYJ4L76-it Minnie - Cucina di Minnie 181694'
+sku: 'B00TYJ4L76-it'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

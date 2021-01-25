@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DS8DD75-it Cuffie Bluetooth Auricolari Bluetooth 5.0 Senza Fili...'
+sku: 'B08DS8DD75-it'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

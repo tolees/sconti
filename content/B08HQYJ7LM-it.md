@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HQYJ7LM-it 4 X Spray deodorante Piedi - 150 ml'
+sku: 'B08HQYJ7LM-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

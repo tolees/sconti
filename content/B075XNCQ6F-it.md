@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XNCQ6F-it AhaStyle - Supporto per cellulare 3 in 1 in silicone...'
+sku: 'B075XNCQ6F-it'
 tags: [  ]
 actualPrice: 13.79 EUR
 currency: EUR

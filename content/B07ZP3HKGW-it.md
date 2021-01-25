@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP3HKGW-it Gioco impilabile in legno Torre traballante Pisa Tower...'
+sku: 'B07ZP3HKGW-it'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

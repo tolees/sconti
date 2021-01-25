@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D2NVCIQ-it Panasonic KX-TG6811JTB Telefono Cordless DECT Schermo LCD...'
+sku: 'B00D2NVCIQ-it'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

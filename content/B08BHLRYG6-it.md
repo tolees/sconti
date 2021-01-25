@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHLRYG6-it Hard Disk 2 TB Esterno Hard Disk Esterno per PC Mac Xbox...'
+sku: 'B08BHLRYG6-it'
 tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR

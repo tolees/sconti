@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813ZFVTK-it adidas Superstar C Scarpe da Ginnastica Unisex-Bambini...'
+sku: 'B0813ZFVTK-it'
 tags: [  ]
 actualPrice: 38.24 EUR
 currency: EUR

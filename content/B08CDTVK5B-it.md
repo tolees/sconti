@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDTVK5B-it Lampada Proiettore Stelle Luce Notturna Bambini con...'
+sku: 'B08CDTVK5B-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UWY00Q-it Swiffer Wet Panni Umidi Lavapavimenti per Scopa Maxi...'
+sku: 'B003UWY00Q-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

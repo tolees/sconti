@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XJH7Y78-it Panasonic KX-TGFA30 Telefoni domestici'
+sku: 'B00XJH7Y78-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

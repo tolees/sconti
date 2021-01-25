@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4H2HJG-it Jump Force - PlayStation 4'
+sku: 'B07P4H2HJG-it'
 tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR

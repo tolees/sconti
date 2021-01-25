@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NT3SZKJ-it 3 Pack 7 Gallon Sacchetto di piantatura Patata Zilong...'
+sku: 'B07NT3SZKJ-it'
 tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR

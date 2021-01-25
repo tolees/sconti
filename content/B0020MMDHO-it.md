@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0020MMDHO-it Dolce&Gabbana The One for Men Eau de Toilette Uomo 50 ml'
+sku: 'B0020MMDHO-it'
 tags: [  ]
 actualPrice: 36.79 EUR
 currency: EUR

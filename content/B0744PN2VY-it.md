@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744PN2VY-it Ardes AR6230B Forno Elettrico Ventilato Gustavo Black 30...'
+sku: 'B0744PN2VY-it'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

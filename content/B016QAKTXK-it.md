@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QAKTXK-it Adidas Parma 16 SHO Pantaloncini Uomo Giallo Yellow/Black...'
+sku: 'B016QAKTXK-it'
 tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR

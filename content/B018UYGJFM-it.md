@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018UYGJFM-it Guess Orologio Analogico Quarzo Donna con Cinturino in...'
+sku: 'B018UYGJFM-it'
 tags: [  ]
 actualPrice: 84.5 EUR
 currency: EUR

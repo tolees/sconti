@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TTGZNF-it adidas WB Karkaj Giacca Sportiva Uomo Glory Green L'
+sku: 'B081TTGZNF-it'
 tags: [  ]
 actualPrice: 69.98 EUR
 currency: EUR

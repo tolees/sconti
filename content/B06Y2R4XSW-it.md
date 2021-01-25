@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2R4XSW-it New Balance Unisex - Adulto 574v2 Core Scarpe da...'
+sku: 'B06Y2R4XSW-it'
 tags: [  ]
 actualPrice: 54.32 EUR
 currency: EUR

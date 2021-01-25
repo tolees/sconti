@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KNV1UC8-it SUNSILK Liscio Perfetto Balsamo 200 ml'
+sku: 'B00KNV1UC8-it'
 tags: [  ]
 actualPrice: 1.55 EUR
 currency: EUR

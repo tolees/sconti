@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFMP1V-it Levi s Crewneck 1 T-Shirt Multicolore 2pk Slim Crew...'
+sku: 'B07TLFMP1V-it'
 tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR

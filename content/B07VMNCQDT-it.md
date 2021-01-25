@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNCQDT-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini Rosa Pink...'
+sku: 'B07VMNCQDT-it'
 tags: [  ]
 actualPrice: 31.85 EUR
 currency: EUR

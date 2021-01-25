@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y3FJTW3-it Rubinetto Bagno Cascata Dalmo DBWF01FA Miscelatore a...'
+sku: 'B07Y3FJTW3-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

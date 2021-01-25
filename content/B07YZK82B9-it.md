@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZK82B9-it Head & Shoulders Suprême Protezione Colore Shampoo e...'
+sku: 'B07YZK82B9-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

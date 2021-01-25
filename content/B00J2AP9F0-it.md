@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J2AP9F0-it Gillette Fusion Proglide Flexball Rasatura'
+sku: 'B00J2AP9F0-it'
 tags: [  ]
 actualPrice: 7.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PHEHAJI-it Cabin Max Metz Zaino da Viaggio Bagaglio a mano/da cabina...'
+sku: 'B00PHEHAJI-it'
 tags: [  ]
 actualPrice: 24.93 EUR
 currency: EUR

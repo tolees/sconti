@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ3S9L9-it Hoidokly Caricatore Wireless 3 in 1 Ricarica Wireless...'
+sku: 'B07TZ3S9L9-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

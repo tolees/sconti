@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6NP8KD-it Timberland Boroughs Project Leather Oxford Sneaker Uomo...'
+sku: 'B07T6NP8KD-it'
 tags: [  ]
 actualPrice: 60.49 EUR
 currency: EUR

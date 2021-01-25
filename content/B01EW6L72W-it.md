@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EW6L72W-it Haier HTF-456DM6 Frigorifero Cube 4 Porte Libera...'
+sku: 'B01EW6L72W-it'
 tags: [  ]
 actualPrice: 450.0 EUR
 currency: EUR

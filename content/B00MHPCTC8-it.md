@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MHPCTC8-it adidas Originals Stan Smith Sneakers Unisex - Adulto...'
+sku: 'B00MHPCTC8-it'
 tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR

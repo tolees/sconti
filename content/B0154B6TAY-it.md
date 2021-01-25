@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0154B6TAY-it Lorus Orologio Analogico-Digitale Quarzo Uomo con...'
+sku: 'B0154B6TAY-it'
 tags: [  ]
 actualPrice: 58.71 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCYNLBM-it Pril Gold Gel lavastoviglie Sciogli Grasso Limone & Lime...'
+sku: 'B08GCYNLBM-it'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

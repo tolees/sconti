@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2X1Q1-it Geox U KENNET B Scarpe da Ginnastica Basse Uomo Bianco...'
+sku: 'B07DJ2X1Q1-it'
 tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR

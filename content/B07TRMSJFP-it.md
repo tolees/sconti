@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMSJFP-it Levi s 501 Long Pantaloncini Blu Montgomery Mended Short...'
+sku: 'B07TRMSJFP-it'
 tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR

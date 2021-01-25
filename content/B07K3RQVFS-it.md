@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3RQVFS-it adidas Continental 80 W Scarpe da Fitness Donna...'
+sku: 'B07K3RQVFS-it'
 tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR

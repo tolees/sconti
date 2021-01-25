@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKYCHD1-it QUEEN ROSE Cuscino per la Gravidanza - Cuscino per...'
+sku: 'B06XKYCHD1-it'
 tags: [  ]
 actualPrice: 48.44 EUR
 currency: EUR

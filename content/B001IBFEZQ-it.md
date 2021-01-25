@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001IBFEZQ-it STANLEY 1-93-968 Carrello porta utensili "2 in 1"'
+sku: 'B001IBFEZQ-it'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

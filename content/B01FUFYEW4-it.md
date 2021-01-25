@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUFYEW4-it RIBIMEX prcen011 Aspiracenere Elettrico Minicen 800 W 10 L'
+sku: 'B01FUFYEW4-it'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

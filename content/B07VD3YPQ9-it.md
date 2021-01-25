@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD3YPQ9-it Calvin Klein Nylon Harrington Giacca Sportiva Bianco...'
+sku: 'B07VD3YPQ9-it'
 tags: [  ]
 actualPrice: 68.4 EUR
 currency: EUR

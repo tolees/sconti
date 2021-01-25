@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FB17ZK9-it Assassin s Creed 4 Black Flag - Hits-PlayStation 4'
+sku: 'B07FB17ZK9-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

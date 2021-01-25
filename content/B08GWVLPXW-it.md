@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GWVLPXW-it Aerku Fotocamera Posteriore Pellicola Vetro Temperato per...'
+sku: 'B08GWVLPXW-it'
 tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR

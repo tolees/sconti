@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKWLVTF-it Havaianas High Light Infradito Donna Nero Black/Dark...'
+sku: 'B07SKWLVTF-it'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

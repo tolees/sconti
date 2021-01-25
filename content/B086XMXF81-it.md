@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086XMXF81-it Dash Detersivo Lavatrice Liquido Bicarbonato con Azione...'
+sku: 'B086XMXF81-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

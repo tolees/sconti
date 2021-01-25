@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002Z7FVTQ-it D&G 3 L IMPERATRICE EDT 100ML'
+sku: 'B002Z7FVTQ-it'
 tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR

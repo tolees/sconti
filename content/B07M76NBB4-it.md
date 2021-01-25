@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M76NBB4-it Plafoniera LED Lampada a Soffitto Bianco Naturale 4000K...'
+sku: 'B07M76NBB4-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

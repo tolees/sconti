@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGBWPBP-it Macchina Sottovuoto per Alimenti Professionale Aobosi 5 in...'
+sku: 'B07VGBWPBP-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

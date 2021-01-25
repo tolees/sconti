@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BPAI78K-it Boss Profumo - 100 Ml'
+sku: 'B01BPAI78K-it'
 tags: [  ]
 actualPrice: 50.2 EUR
 currency: EUR

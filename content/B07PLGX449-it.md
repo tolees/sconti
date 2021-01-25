@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLGX449-it BLADE HAWKS Tappetino Mouse Gaming RGB Gaming Tappetino...'
+sku: 'B07PLGX449-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

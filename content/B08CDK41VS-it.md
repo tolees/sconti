@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDK41VS-it Auricolari Bluetooth 5.0 Cuffie Wireless In Ear con Mic-...'
+sku: 'B08CDK41VS-it'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

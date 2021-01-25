@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ6S4XH-it Calvin Klein K50k505179 Cintura Blu Navy/Black 0Gy Unica...'
+sku: 'B07RJ6S4XH-it'
 tags: [  ]
 actualPrice: 16.28 EUR
 currency: EUR

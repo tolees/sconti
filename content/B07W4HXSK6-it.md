@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4HXSK6-it Tommy Hilfiger Basic Embroidered Hoody Felpa Verde Faded...'
+sku: 'B07W4HXSK6-it'
 tags: [  ]
 actualPrice: 31.3 EUR
 currency: EUR

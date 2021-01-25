@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQW6BVF-it Clarks Hero Limit Scarpe Stringate Derby Uomo Marrone...'
+sku: 'B07TQW6BVF-it'
 tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR

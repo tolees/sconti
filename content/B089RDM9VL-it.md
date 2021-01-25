@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RDM9VL-it TOSING Q9 microfono wireless per karaoke Bluetooth luci a...'
+sku: 'B089RDM9VL-it'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

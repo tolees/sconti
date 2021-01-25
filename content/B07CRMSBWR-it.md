@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRMSBWR-it Bombe da bagno a forma di unicorno.'
+sku: 'B07CRMSBWR-it'
 tags: [  ]
 actualPrice: 9.24 EUR
 currency: EUR

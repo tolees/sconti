@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFNN2GY-it Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in...'
+sku: 'B07VFNN2GY-it'
 tags: [  ]
 actualPrice: 216.95 EUR
 currency: EUR

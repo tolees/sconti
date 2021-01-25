@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXJN5PR-it Dixan Duo Caps Lavanda Detersivo Lavatrice Capsule Pre-...'
+sku: 'B07MXJN5PR-it'
 tags: [  ]
 actualPrice: 13.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDZLS1F-it Puma CB Giacca A Vento Uomo Black L'
+sku: 'B07XDZLS1F-it'
 tags: [  ]
 actualPrice: 17.2 EUR
 currency: EUR

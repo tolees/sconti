@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XSLSZGZ-it Pennarelli a Vernice Acrilica 18 Colori Premio...'
+sku: 'B07XSLSZGZ-it'
 tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR

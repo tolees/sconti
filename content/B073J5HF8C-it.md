@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073J5HF8C-it Tommy Hilfiger Not Applicable'
+sku: 'B073J5HF8C-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTMGQ1P-it EXCITE Detergente Disinfettante coppetta mestruale e...'
+sku: 'B07MTMGQ1P-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

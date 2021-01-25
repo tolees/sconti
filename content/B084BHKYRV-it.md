@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084BHKYRV-it Levi s Housemark Graphic Tee T-Shirt Ssnl HM Outline...'
+sku: 'B084BHKYRV-it'
 tags: [  ]
 actualPrice: 16.45 EUR
 currency: EUR

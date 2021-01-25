@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XS1FCVR-it Fairy Platinum Detersivo in Caps per Lavastoviglie Maxi...'
+sku: 'B06XS1FCVR-it'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

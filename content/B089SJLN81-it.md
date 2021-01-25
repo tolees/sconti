@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SJLN81-it Cassa Bluetooth 5.0 Zamkol Altoparlante Portatile...'
+sku: 'B089SJLN81-it'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015QCU4M0-it Resident Evil Origins Collection - PlayStation 4'
+sku: 'B015QCU4M0-it'
 tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR

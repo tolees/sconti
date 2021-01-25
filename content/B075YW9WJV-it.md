@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YW9WJV-it Sloggi Zero Feel Bralette Corsetto Nero Black 04 M Donna'
+sku: 'B075YW9WJV-it'
 tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR

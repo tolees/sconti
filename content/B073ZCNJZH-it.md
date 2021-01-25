@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZCNJZH-it Bastone Selfie Treppiede -BlitzWolf 3 in 1 Estensibile...'
+sku: 'B073ZCNJZH-it'
 tags: [  ]
 actualPrice: 15.04 EUR
 currency: EUR

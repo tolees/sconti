@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG6YSFM-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Uomo Bianca...'
+sku: 'B07KG6YSFM-it'
 tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR

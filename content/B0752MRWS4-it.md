@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752MRWS4-it Havaianas Brasil Logo Infradito Unisex-Adulto Giallo...'
+sku: 'B0752MRWS4-it'
 tags: [  ]
 actualPrice: 14.82 EUR
 currency: EUR

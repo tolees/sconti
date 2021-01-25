@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJMCPW-it APLI 809741 Etichetta Poliestere Confezione da 20 Pezzi'
+sku: 'B000KJMCPW-it'
 tags: [  ]
 actualPrice: 20.64 EUR
 currency: EUR

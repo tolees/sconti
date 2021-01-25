@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGNW1C-it Geox U Kennet B Scarpe da Ginnastica Basse Uomo Blu Navy...'
+sku: 'B07SQGNW1C-it'
 tags: [  ]
 actualPrice: 38.76 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSO6NZW-it Philips Sonicare HX6322/04 ForKids Spazzolino Elettrico...'
+sku: 'B01BSO6NZW-it'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

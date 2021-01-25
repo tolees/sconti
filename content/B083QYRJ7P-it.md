@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QYRJ7P-it Pokémon Mystery Dungeon: SQUADRA DI Soccorso DX - Nintendo...'
+sku: 'B083QYRJ7P-it'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

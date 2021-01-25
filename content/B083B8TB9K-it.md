@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083B8TB9K-it Aigostar Diane 32QYD – Asciugacapelli professionale 1800...'
+sku: 'B083B8TB9K-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NMK9H93-it Pawhut Pollaio da Giardino con Corsa e Tetto Impermeabile...'
+sku: 'B07NMK9H93-it'
 tags: [  ]
 actualPrice: 195.97 EUR
 currency: EUR

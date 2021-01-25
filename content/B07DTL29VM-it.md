@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTL29VM-it Lacoste Ah4087 Felpa Blu Marine/Farine-Marine Multicolore...'
+sku: 'B07DTL29VM-it'
 tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR

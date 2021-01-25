@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGKQXGX-it NAPAPIJRI Rainforest M Sum 1 Giacca Grigio Dove Grey H361...'
+sku: 'B07VGKQXGX-it'
 tags: [  ]
 actualPrice: 63.91 EUR
 currency: EUR

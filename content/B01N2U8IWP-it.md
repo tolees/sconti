@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2U8IWP-it Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]'
+sku: 'B01N2U8IWP-it'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

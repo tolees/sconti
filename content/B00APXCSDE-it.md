@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00APXCSDE-it Pentole Agnelli ALMA111B38 Padella Alta per Saltare Manico...'
+sku: 'B00APXCSDE-it'
 tags: [  ]
 actualPrice: 42.5 EUR
 currency: EUR

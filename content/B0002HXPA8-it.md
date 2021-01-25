@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002HXPA8-it Sigikid 49520 - Gioco di birilli con 6 figure di animali...'
+sku: 'B0002HXPA8-it'
 tags: [  ]
 actualPrice: 26.98 EUR
 currency: EUR

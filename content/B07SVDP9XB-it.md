@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVDP9XB-it Mystic Color - Colore Biondo Scuro Rame 6.4 - Tinta per...'
+sku: 'B07SVDP9XB-it'
 tags: [  ]
 actualPrice: 11.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLVRH41-it Nike Revolution 5 Scarpe da Corsa Mens Black/White-...'
+sku: 'B07NLVRH41-it'
 tags: [  ]
 actualPrice: 40.5 EUR
 currency: EUR

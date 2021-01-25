@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4CGBXN-it Tencoz 4Pack Set da Ping Pong Racchette da Ping Pong Set...'
+sku: 'B07H4CGBXN-it'
 tags: [  ]
 actualPrice: 24.37 EUR
 currency: EUR

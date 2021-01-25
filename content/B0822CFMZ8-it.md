@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822CFMZ8-it Hosome Aspirapolvere Senza Fili 12000pa Potente Scopa...'
+sku: 'B0822CFMZ8-it'
 tags: [  ]
 actualPrice: 115.99 EUR
 currency: EUR

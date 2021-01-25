@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRNFZ9S-it Michael Kors Voyager Crossgrain Leather Tote - Borse Donna...'
+sku: 'B07DRNFZ9S-it'
 tags: [  ]
 actualPrice: 137.0 EUR
 currency: EUR

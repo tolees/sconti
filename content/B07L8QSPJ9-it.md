@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8QSPJ9-it Readaeer AB Roller Ruota per Addominali Rullo Abdominal...'
+sku: 'B07L8QSPJ9-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

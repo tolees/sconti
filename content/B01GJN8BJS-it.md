@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GJN8BJS-it Ravensburger- Labirinto Glow in The Dark Gioco di società...'
+sku: 'B01GJN8BJS-it'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDSH42S-it AmazonBasics - Evidenziatori a forma piatta allungata...'
+sku: 'B07PDSH42S-it'
 tags: [  ]
 actualPrice: 4.73 EUR
 currency: EUR

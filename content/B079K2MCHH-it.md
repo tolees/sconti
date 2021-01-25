@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079K2MCHH-it rimmel FONDO TINTA - 1 pezzi'
+sku: 'B079K2MCHH-it'
 tags: [  ]
 actualPrice: 5.4 EUR
 currency: EUR

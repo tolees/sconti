@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VHDHQ4-it Aicok Sacchetti per Sottovuoto Alimenti Sottovuoto...'
+sku: 'B076VHDHQ4-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNN146S-it LEGO Movie 2 - Movie Maker 70820'
+sku: 'B07FNN146S-it'
 tags: [  ]
 actualPrice: 16.94 EUR
 currency: EUR

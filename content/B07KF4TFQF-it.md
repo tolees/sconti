@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4TFQF-it Levi s Ex-Boyfriend Trucker Giacca in Jeans Blu for Real...'
+sku: 'B07KF4TFQF-it'
 tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR

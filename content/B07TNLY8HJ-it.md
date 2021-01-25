@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNLY8HJ-it Levi s Relaxed Graphic Tee T-Shirt Bianco 90 s Serif Logo...'
+sku: 'B07TNLY8HJ-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

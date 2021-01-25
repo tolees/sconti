@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXC3O6N-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
+sku: 'B01LXC3O6N-it'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

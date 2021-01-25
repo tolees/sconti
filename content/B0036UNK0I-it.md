@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036UNK0I-it ParkTool Supporto Montaggio PRS-25 Team Issue Blu Blau 119...'
+sku: 'B0036UNK0I-it'
 tags: [  ]
 actualPrice: 290.59 EUR
 currency: EUR

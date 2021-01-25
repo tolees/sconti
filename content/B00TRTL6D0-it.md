@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TRTL6D0-it Risoli Piastra Adattatore Per Induzione Diametro 260 Mm'
+sku: 'B00TRTL6D0-it'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

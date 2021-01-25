@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E2B4WWY-it VERO MODA VMJULIA LS BLAZER DNM NOOS Blazer Donna Blu...'
+sku: 'B01E2B4WWY-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

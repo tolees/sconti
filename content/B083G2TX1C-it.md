@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083G2TX1C-it PISEN ColorPower PRO Portable Power Bank 10000mAh Oro...'
+sku: 'B083G2TX1C-it'
 tags: [  ]
 actualPrice: 17.25 EUR
 currency: EUR

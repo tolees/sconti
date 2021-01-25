@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWVT81X-it Western Digital WD My Book Hard Disk Desktop USB 3.0...'
+sku: 'B01LWVT81X-it'
 tags: [  ]
 actualPrice: 170.0 EUR
 currency: EUR

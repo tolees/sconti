@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDBJC36-it Robot Aspirapolvere Muzili Robot Aspirapolvere Navigazione...'
+sku: 'B07YDBJC36-it'
 tags: [  ]
 actualPrice: 385.99 EUR
 currency: EUR

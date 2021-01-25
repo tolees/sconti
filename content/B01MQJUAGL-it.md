@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQJUAGL-it Girmi TR02 Tritatutto 250 W Plastic Bianco'
+sku: 'B01MQJUAGL-it'
 tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR

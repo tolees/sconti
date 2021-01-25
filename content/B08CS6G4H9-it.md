@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CS6G4H9-it eXtremeRate DAWN Remap Kit Programmabile per Playstation 4...'
+sku: 'B08CS6G4H9-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

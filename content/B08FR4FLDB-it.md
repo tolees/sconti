@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FR4FLDB-it eXtremeRate 2 Pellicole Protettive Vetro Temperato...'
+sku: 'B08FR4FLDB-it'
 tags: [  ]
 actualPrice: 14.59 EUR
 currency: EUR

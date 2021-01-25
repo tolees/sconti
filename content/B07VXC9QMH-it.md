@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXC9QMH-it Kingston A2000 SA2000M8/1000G NVMe PCIe SSD 1000G'
+sku: 'B07VXC9QMH-it'
 tags: [  ]
 actualPrice: 97.89 EUR
 currency: EUR

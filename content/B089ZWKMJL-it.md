@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZWKMJL-it Tastiera meccanica da gioco a basso profilo ultra sottile...'
+sku: 'B089ZWKMJL-it'
 tags: [  ]
 actualPrice: 24.97 EUR
 currency: EUR

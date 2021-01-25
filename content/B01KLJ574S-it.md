@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KLJ574S-it TRENINO THOMAS- Mega DXH55'
+sku: 'B01KLJ574S-it'
 tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NABTGY2-it AmazonBasics - Sacchetti per bisogni dei cani con...'
+sku: 'B00NABTGY2-it'
 tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR

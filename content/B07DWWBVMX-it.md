@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWWBVMX-it SIMPLETASTE Schiumalatte Automatico e Scaldalatte...'
+sku: 'B07DWWBVMX-it'
 tags: [  ]
 actualPrice: 35.19 EUR
 currency: EUR

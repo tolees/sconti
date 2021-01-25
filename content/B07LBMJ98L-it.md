@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBMJ98L-it Soundcore Icon Mini di Anker Altoparlante Bluetooth...'
+sku: 'B07LBMJ98L-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BL8YM46-it Mini Bluetooth WiFi Proiettore TOPTRO Proiettore...'
+sku: 'B08BL8YM46-it'
 tags: [  ]
 actualPrice: 129.98 EUR
 currency: EUR

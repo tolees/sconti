@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QE1DME-it Birkenstock Arizona Birko-Flor ciabatte unisex per adulti...'
+sku: 'B000QE1DME-it'
 tags: [  ]
 actualPrice: 45.95 EUR
 currency: EUR

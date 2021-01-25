@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0028IXFCM-it GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema...'
+sku: 'B0028IXFCM-it'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

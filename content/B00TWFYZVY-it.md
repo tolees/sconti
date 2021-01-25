@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TWFYZVY-it Clementoni-Baby Gli Animali Tocca e Impara 6+ Mesi...'
+sku: 'B00TWFYZVY-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

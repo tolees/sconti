@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQRYDCP-it SYLVANIAN FAMILIES - Casa Grande con Luci Sistema di Gioco...'
+sku: 'B07NQRYDCP-it'
 tags: [  ]
 actualPrice: 64.94 EUR
 currency: EUR

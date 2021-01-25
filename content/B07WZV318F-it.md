@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZV318F-it Starbucks Cappuccino by Nescafé Dolce Gusto 6 Confezioni...'
+sku: 'B07WZV318F-it'
 tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR

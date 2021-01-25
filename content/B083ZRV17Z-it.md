@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZRV17Z-it JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini...'
+sku: 'B083ZRV17Z-it'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

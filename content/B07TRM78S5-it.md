@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRM78S5-it Levi s Graphic Tee T-Shirt Nero Boxtab SS T2 Mineral Black...'
+sku: 'B07TRM78S5-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

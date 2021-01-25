@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SVLCC-it Levi s Sunset 1 Pkt Slim Camicia Blu Alfonso Indigo 0006...'
+sku: 'B07S2SVLCC-it'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

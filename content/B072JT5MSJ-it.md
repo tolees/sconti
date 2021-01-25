@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JT5MSJ-it EKKONG Zanzariera Magnetica per Porte - Dimensioni 90 x...'
+sku: 'B072JT5MSJ-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

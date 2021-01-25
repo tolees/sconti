@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBGJY7J-it Newdora Calzini Uomo 8 Paia Unisex Calze Lavoro per...'
+sku: 'B07XBGJY7J-it'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

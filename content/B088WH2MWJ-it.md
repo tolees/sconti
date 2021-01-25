@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WH2MWJ-it DeniseM117 Cuffie Bluetooth Auricolari Bluetooth Senza...'
+sku: 'B088WH2MWJ-it'
 tags: [  ]
 actualPrice: 23.28 EUR
 currency: EUR

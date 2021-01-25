@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5JD3T4-it TP-Link Presa Intelligente WiFi Smart Plug Compatibile con...'
+sku: 'B07Z5JD3T4-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

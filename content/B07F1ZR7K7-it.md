@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1ZR7K7-it Timberland Union Wharf Lace Oxford Sneakers Basse Uomo Blu...'
+sku: 'B07F1ZR7K7-it'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

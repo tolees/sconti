@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CQ7LMZM-it Optimum Nutrition Olio di Pesce con Capsule Omega 3 non...'
+sku: 'B00CQ7LMZM-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

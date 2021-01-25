@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BQZVNLT-it ELUTENG Ventola 80mm Silenziosa Ventole 80 mm USB 5V con...'
+sku: 'B08BQZVNLT-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

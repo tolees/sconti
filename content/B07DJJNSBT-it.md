@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJJNSBT-it Tommy Hilfiger Essential Leather Sneaker Scarpe da...'
+sku: 'B07DJJNSBT-it'
 tags: [  ]
 actualPrice: 57.7 EUR
 currency: EUR

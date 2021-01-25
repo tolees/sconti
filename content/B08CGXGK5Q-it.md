@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CGXGK5Q-it Auricolari Bluetooth 5.0 Senza Fili Wireless Sportivi in...'
+sku: 'B08CGXGK5Q-it'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ENMYEGC-it SOI. SOI01 Accessori da Viaggio-Organizer per Valigia...'
+sku: 'B00ENMYEGC-it'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

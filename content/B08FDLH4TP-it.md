@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FDLH4TP-it Cuffie Bluetooth Sport Auricolari Bluetooth 5.0 Auricolari...'
+sku: 'B08FDLH4TP-it'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

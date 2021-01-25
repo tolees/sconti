@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W34FS3Q-it Remington Asciugacapelli Curl&Straight Confidence 2200...'
+sku: 'B07W34FS3Q-it'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

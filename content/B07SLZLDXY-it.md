@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLZLDXY-it Havaianas Twist Sandali con Chiusura a T Donna Verde...'
+sku: 'B07SLZLDXY-it'
 tags: [  ]
 actualPrice: 15.5 EUR
 currency: EUR

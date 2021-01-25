@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R9M3BK-it Vero Moda Vmava Plain SS Top Ga Noos T-Shirt Grigio...'
+sku: 'B075R9M3BK-it'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

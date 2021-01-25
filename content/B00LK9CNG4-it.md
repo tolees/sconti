@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LK9CNG4-it Bialetti Moka Induction Caffettiera in Alluminio Adatta...'
+sku: 'B00LK9CNG4-it'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

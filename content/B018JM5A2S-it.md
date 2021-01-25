@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018JM5A2S-it PawHut Carrellino Rimorchio per Cani Animali Domestici da...'
+sku: 'B018JM5A2S-it'
 tags: [  ]
 actualPrice: 90.97 EUR
 currency: EUR

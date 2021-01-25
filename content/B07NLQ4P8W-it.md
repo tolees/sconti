@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLQ4P8W-it Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione Bassi...'
+sku: 'B07NLQ4P8W-it'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

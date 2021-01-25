@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7BWDWM-it HP Sprocket Z3Z92A Stampante Fotografica Istantanea...'
+sku: 'B07C7BWDWM-it'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

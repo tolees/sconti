@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B94XMDH-it Clarks Oakland Lace Scarpe Stringate Derby Uomo Marrone...'
+sku: 'B07B94XMDH-it'
 tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR

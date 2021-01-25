@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JD9DZ65-it Cesar Cuore di Verdure Tenero Cibo per Cane Paté con...'
+sku: 'B07JD9DZ65-it'
 tags: [  ]
 actualPrice: 8.96 EUR
 currency: EUR

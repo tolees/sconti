@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XC5G9X-it Manfrotto Befree Advanced Camo Kit Treppiede Advanced...'
+sku: 'B083XC5G9X-it'
 tags: [  ]
 actualPrice: 135.0 EUR
 currency: EUR

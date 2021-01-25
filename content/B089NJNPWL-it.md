@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NJNPWL-it ELUTENG Cavo Ottico Audio Digitale 5M Cavi Ottico Fibra...'
+sku: 'B089NJNPWL-it'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

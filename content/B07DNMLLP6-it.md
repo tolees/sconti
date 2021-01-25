@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNMLLP6-it Angel Wing ciondolo collana Swarovski zircone gioielli per...'
+sku: 'B07DNMLLP6-it'
 tags: [  ]
 actualPrice: 25.72 EUR
 currency: EUR

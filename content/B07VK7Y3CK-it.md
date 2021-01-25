@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VK7Y3CK-it Integratore Acido Ialuronico in Capsule ad Alto Dosaggio...'
+sku: 'B07VK7Y3CK-it'
 tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR

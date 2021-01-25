@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5DSS0I-it Ever Shine Ear polsini Vines arrampicatori Wrap Trafitto...'
+sku: 'B01N5DSS0I-it'
 tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVHM8FS-it DADYPET Ciotole per Cani Distributori di Cibo per Gatti...'
+sku: 'B07ZVHM8FS-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRZB9NR-it Aspirapolvere Auto Aitsite Aspirapolvere Portatile Senza...'
+sku: 'B07WRZB9NR-it'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

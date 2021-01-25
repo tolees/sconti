@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ECANXVM-it Macdue Essere Multicolore 32538'
+sku: 'B00ECANXVM-it'
 tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR

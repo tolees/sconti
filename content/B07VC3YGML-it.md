@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC3YGML-it Calvin Klein 35mm Essential Belt Cintura Marrone Dark Tan...'
+sku: 'B07VC3YGML-it'
 tags: [  ]
 actualPrice: 15.68 EUR
 currency: EUR

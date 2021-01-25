@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C635HZZ-it JACK & JONES Jjebasic Knit Crew Neck Noos Felpa Blu Navy...'
+sku: 'B07C635HZZ-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

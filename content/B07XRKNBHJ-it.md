@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRKNBHJ-it Bilancia Pesapersone Digitali Vigorun Bilance Grassa...'
+sku: 'B07XRKNBHJ-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7CMUOY-it Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta Nero...'
+sku: 'B01N7CMUOY-it'
 tags: [  ]
 actualPrice: 17.43 EUR
 currency: EUR

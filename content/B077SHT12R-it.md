@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SHT12R-it Yankee Candle candela profumata in giara media Un luogo...'
+sku: 'B077SHT12R-it'
 tags: [  ]
 actualPrice: 17.7 EUR
 currency: EUR

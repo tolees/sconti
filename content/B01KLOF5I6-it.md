@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KLOF5I6-it SanDisk Extreme PLUS Scheda di Memoria SDHC da 32 GB...'
+sku: 'B01KLOF5I6-it'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNLCQXP-it HOMCOM Deambulatore per Anziani Pieghevole e Ultraleggero...'
+sku: 'B08DNLCQXP-it'
 tags: [  ]
 actualPrice: 36.76 EUR
 currency: EUR

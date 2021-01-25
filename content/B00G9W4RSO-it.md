@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G9W4RSO-it Bosch MSM66155 Mixer a Immersione Frullatore con 4...'
+sku: 'B00G9W4RSO-it'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

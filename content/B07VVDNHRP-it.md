@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVDNHRP-it TACKLIFE Tagliabordi a Batteria 40 V 2 5 Ah Motore...'
+sku: 'B07VVDNHRP-it'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

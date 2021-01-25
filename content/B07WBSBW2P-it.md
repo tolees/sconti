@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBSBW2P-it LOVABLE Sublim Reggiseno con Ferretto Blu Blu 007 4D IT...'
+sku: 'B07WBSBW2P-it'
 tags: [  ]
 actualPrice: 6.24 EUR
 currency: EUR

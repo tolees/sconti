@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQCVHQ6-it Echo Dot 3ª generazione - Altoparlante intelligente con...'
+sku: 'B07NQCVHQ6-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

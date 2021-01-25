@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WP37GQZ-it LE Lampada Frontale LED da Testa 2 Pezzi Torcia Frontale...'
+sku: 'B07WP37GQZ-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

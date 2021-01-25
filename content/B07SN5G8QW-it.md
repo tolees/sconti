@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN5G8QW-it Under Armour Rush HeatGear Compression Maglietta A Maniche...'
+sku: 'B07SN5G8QW-it'
 tags: [  ]
 actualPrice: 29.61 EUR
 currency: EUR

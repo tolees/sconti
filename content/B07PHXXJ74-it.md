@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHXXJ74-it Zanzariera Magnetica per Porte NASUM Tenda Zanzariera per...'
+sku: 'B07PHXXJ74-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

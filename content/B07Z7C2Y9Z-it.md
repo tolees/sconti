@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7C2Y9Z-it 18 Pezzi Pennelli Trucco Set di Pennelli Trucco Con...'
+sku: 'B07Z7C2Y9Z-it'
 tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR

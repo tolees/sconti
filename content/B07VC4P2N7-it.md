@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC4P2N7-it Calvin Klein 35mm Essential Belt Cintura Nero Black BAX 8...'
+sku: 'B07VC4P2N7-it'
 tags: [  ]
 actualPrice: 21.09 EUR
 currency: EUR

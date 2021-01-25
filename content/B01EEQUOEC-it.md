@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EEQUOEC-it Arena M Fundamentals Logo Pantaloncini da Bagno Uomo Blu...'
+sku: 'B01EEQUOEC-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

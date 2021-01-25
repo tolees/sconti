@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB1B4T3-it AUTO HIGH - Coprisedili Universali per Auto Set Completo...'
+sku: 'B07HB1B4T3-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

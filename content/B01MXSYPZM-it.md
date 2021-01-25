@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXSYPZM-it Lower East impermeable Uomo Blu Navy Medium'
+sku: 'B01MXSYPZM-it'
 tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR

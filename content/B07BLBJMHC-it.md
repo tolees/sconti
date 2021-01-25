@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BLBJMHC-it Fanta Original 660 ml - 4 bottiglie PET riciclabile'
+sku: 'B07BLBJMHC-it'
 tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5E9QYE-it Singer hzb-12/A Macchina per ghiaccioli plastica Rosso'
+sku: 'B01M5E9QYE-it'
 tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR

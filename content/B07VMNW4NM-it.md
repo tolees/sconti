@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNW4NM-it Calvin Klein Medium Drawstring Pantaloncini Verde Dark...'
+sku: 'B07VMNW4NM-it'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P2LBTTS-it Tescoma 695432 Uno Vino Collare Salvagoccia'
+sku: 'B00P2LBTTS-it'
 tags: [  ]
 actualPrice: 2.76 EUR
 currency: EUR

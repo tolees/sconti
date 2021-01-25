@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3DVJKB-it Epilatore Sopracciglia Donna Rasoio Sopracciglia Eyebrow...'
+sku: 'B07S3DVJKB-it'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006J1SA6A-it Braun 3-270 Silk-épil 3 Epilatore con Cavo e 3 Accessori Rosa'
+sku: 'B006J1SA6A-it'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

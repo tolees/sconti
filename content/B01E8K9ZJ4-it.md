@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E8K9ZJ4-it Ayotu Custodia in Pelle PU per Kindle Paperwhite-Custodia...'
+sku: 'B01E8K9ZJ4-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

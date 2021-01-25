@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRD8US-it Sylvanian Families - Casetta per le bambole in plastica'
+sku: 'B00HRRD8US-it'
 tags: [  ]
 actualPrice: 66.48 EUR
 currency: EUR

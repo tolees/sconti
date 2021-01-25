@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BMG4KTZ-it OUPOD Controller wireless Bluetooth per Nintendo Switch...'
+sku: 'B08BMG4KTZ-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

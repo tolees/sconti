@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HIDERDM-it Aigostar Monique 32HIE – Asciugacapelli Ionico...'
+sku: 'B01HIDERDM-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

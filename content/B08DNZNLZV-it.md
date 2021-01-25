@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNZNLZV-it EasySMX Controller per Switch / Switch Lite Controller...'
+sku: 'B08DNZNLZV-it'
 tags: [  ]
 actualPrice: 35.97 EUR
 currency: EUR

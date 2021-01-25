@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CX8YWTH-it ProAction Nuts Bar frutta confezione da 30 barrette da 30 g'
+sku: 'B07CX8YWTH-it'
 tags: [  ]
 actualPrice: 38.4 EUR
 currency: EUR

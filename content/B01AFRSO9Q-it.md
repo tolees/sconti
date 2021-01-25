@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AFRSO9Q-it Bormioli Kaleido Confezione Bicchieri 6 unità'
+sku: 'B01AFRSO9Q-it'
 tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR

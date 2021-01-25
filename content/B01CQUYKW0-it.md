@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQUYKW0-it Diadora - Sneakers B. Elite per Uomo e Donna EU 36.5'
+sku: 'B01CQUYKW0-it'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

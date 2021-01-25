@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MB8M6Q0-it Kenwood FDM781BA MultiPro Food Processor Robot da Cucina...'
+sku: 'B00MB8M6Q0-it'
 tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0796C8RGN-it NAPAPIJRI Rainforest M Sum 1 Giacca Nero Black 041 Large Uomo'
+sku: 'B0796C8RGN-it'
 tags: [  ]
 actualPrice: 81.95 EUR
 currency: EUR

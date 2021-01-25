@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JGD6D6L-it Lasuki Supporto per Tablet Regolabile a 360° con Braccio...'
+sku: 'B08JGD6D6L-it'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

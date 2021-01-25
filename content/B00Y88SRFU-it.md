@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y88SRFU-it NIVEA Sun Protect & Hydrate Latte Solare Idratante FP20...'
+sku: 'B00Y88SRFU-it'
 tags: [  ]
 actualPrice: 5.71 EUR
 currency: EUR

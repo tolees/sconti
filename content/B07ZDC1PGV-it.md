@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZDC1PGV-it IKOHS ION CERAMIC COMPACT - Asciugacapelli portatile a...'
+sku: 'B07ZDC1PGV-it'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

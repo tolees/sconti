@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FHV9JG-it Lacoste 5h1803 Intimo THYM/Marine-Blanc M Uomo'
+sku: 'B083FHV9JG-it'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

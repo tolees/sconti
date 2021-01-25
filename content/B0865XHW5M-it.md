@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0865XHW5M-it MMCRRX M.2 Nvme SSD Ultraspeed Adapter Pcie'
+sku: 'B0865XHW5M-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

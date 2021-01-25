@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QLXNKK-it Kodak Pixpro FZ102-BK Fotocamera digitale 16.44 megapixel...'
+sku: 'B075QLXNKK-it'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

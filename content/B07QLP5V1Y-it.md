@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLP5V1Y-it eufy [BoostIQ] RoboVac 11S MAX aspirapolvere robot super...'
+sku: 'B07QLP5V1Y-it'
 tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR

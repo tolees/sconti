@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KY8TCYN-it Eastpak OUT OF OFFICE Zaino Casual 44 cm 27 liters...'
+sku: 'B07KY8TCYN-it'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

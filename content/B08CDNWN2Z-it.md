@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDNWN2Z-it FFTH Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1...'
+sku: 'B08CDNWN2Z-it'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

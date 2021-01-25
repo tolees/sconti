@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3B9QPP-it homcom Carrello per Bicicletta Rimorchio Cargo Bici...'
+sku: 'B07K3B9QPP-it'
 tags: [  ]
 actualPrice: 87.96 EUR
 currency: EUR

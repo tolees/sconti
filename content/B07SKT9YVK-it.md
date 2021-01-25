@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKT9YVK-it YAMAY Smartwatch Orologio Fitness Uomo Donna Impermeabile...'
+sku: 'B07SKT9YVK-it'
 tags: [  ]
 actualPrice: 39.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBPM7D9-it adidas Adilette Shower Scarpe da Ginnastica Uomo Blu True...'
+sku: 'B07NBPM7D9-it'
 tags: [  ]
 actualPrice: 11.23 EUR
 currency: EUR

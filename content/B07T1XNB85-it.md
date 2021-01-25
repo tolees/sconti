@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1XNB85-it Cornice digitale'
+sku: 'B07T1XNB85-it'
 tags: [  ]
 actualPrice: 21.87 EUR
 currency: EUR

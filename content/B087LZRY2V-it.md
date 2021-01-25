@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LZRY2V-it Auricolare Bluetooth Senza Fili Cuffie Wireless Stereo 3D...'
+sku: 'B087LZRY2V-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

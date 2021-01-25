@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089CXPY33-it Layack Coperta da Spiaggia 210x200CM Coperta da Campeggio...'
+sku: 'B089CXPY33-it'
 tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR

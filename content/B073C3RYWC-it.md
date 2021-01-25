@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073C3RYWC-it Converse Chuck Taylor Ctas Lift Ox Canvas Scarpe da...'
+sku: 'B073C3RYWC-it'
 tags: [  ]
 actualPrice: 67.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP52B7K-it Havaianas Slim Animals Infradito Donna Multicolore Ballet...'
+sku: 'B07SP52B7K-it'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

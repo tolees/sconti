@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WN3R4N-it Smartwatch YONMIG Orologio Fitness Uomo Donna Smart Watch...'
+sku: 'B087WN3R4N-it'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

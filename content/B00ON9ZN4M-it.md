@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ON9ZN4M-it Severin SEV1071 Piastra Induzione'
+sku: 'B00ON9ZN4M-it'
 tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR

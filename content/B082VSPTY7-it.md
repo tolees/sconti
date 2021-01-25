@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VSPTY7-it Coccolino - Ammorbidente Concentrato Delicato e Soffice -...'
+sku: 'B082VSPTY7-it'
 tags: [  ]
 actualPrice: 1.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y6CQD2N-it Piegaciglia Riscaldato Piegaciglia Elettrico Piegaciglia...'
+sku: 'B07Y6CQD2N-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

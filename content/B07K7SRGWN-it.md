@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7SRGWN-it adidas Juve H JSY Maglia Gara Home 2018/2019 Cristiano...'
+sku: 'B07K7SRGWN-it'
 tags: [  ]
 actualPrice: 35.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P1LNCH-it HOMEVER Specchio Trucco con 21 LEDs Specchio di Vanity...'
+sku: 'B087P1LNCH-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

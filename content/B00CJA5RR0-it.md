@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CJA5RR0-it Fila Orologio Analogico Quarzo Unisex Adulto con Cinturino...'
+sku: 'B00CJA5RR0-it'
 tags: [  ]
 actualPrice: 22.93 EUR
 currency: EUR

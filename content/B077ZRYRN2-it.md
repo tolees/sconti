@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZRYRN2-it YUCUN 2 5 pollici SATA III Unità a Stato Solido Interno...'
+sku: 'B077ZRYRN2-it'
 tags: [  ]
 actualPrice: 16.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D2YFNOS-it Neoviva - Cuscino imbottito a forma di margherita con 7...'
+sku: 'B01D2YFNOS-it'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

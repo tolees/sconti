@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D3HYGTI-it Scholl Talloniera Comfort in Gel Large - 1 Prodotto'
+sku: 'B00D3HYGTI-it'
 tags: [  ]
 actualPrice: 5.68 EUR
 currency: EUR

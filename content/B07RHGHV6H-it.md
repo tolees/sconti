@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHGHV6H-it Tommy Hilfiger Light Weight Hooded Jacket Bomber Blu Blue...'
+sku: 'B07RHGHV6H-it'
 tags: [  ]
 actualPrice: 41.67 EUR
 currency: EUR

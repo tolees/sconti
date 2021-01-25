@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G5CWWRG-it AVM FRITZ!DECT 100 International Ripetitore DECT per...'
+sku: 'B00G5CWWRG-it'
 tags: [  ]
 actualPrice: 66.98 EUR
 currency: EUR

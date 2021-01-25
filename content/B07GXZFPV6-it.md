@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXZFPV6-it Olimpia Splendid 99409 Caldo Crystal Termoventilatore...'
+sku: 'B07GXZFPV6-it'
 tags: [  ]
 actualPrice: 77.98 EUR
 currency: EUR

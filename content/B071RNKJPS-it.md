@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071RNKJPS-it Funko Pop! TV Il trono di spade Game of Thrones - Tyrion...'
+sku: 'B071RNKJPS-it'
 tags: [  ]
 actualPrice: 9.63 EUR
 currency: EUR

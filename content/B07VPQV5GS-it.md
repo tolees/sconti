@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPQV5GS-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini Nero PVH...'
+sku: 'B07VPQV5GS-it'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

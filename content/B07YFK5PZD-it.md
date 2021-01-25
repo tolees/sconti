@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFK5PZD-it UGREEN Caricabatterie MacBook Air Caricatore USB C 30W...'
+sku: 'B07YFK5PZD-it'
 tags: [  ]
 actualPrice: 12.27 EUR
 currency: EUR

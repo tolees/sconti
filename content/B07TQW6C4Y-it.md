@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQW6C4Y-it Clarks Ronnie Limit Scarpe Stringate Derby Uomo Marrone...'
+sku: 'B07TQW6C4Y-it'
 tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR

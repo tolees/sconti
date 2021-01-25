@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHPSMJ5-it Android TV Box 10.0 QPLVE Q8 TV BOX 4GB 64GB RK3318 Quad...'
+sku: 'B07VHPSMJ5-it'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNNRZHF-it Calvin Klein Medium Drawstring Pantaloncini Blu Black Iris...'
+sku: 'B07VNNRZHF-it'
 tags: [  ]
 actualPrice: 25.74 EUR
 currency: EUR

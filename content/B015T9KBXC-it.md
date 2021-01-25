@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015T9KBXC-it Aigostar Lampadina LED GU10 8W 600 Lumen Luce Bianca...'
+sku: 'B015T9KBXC-it'
 tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR

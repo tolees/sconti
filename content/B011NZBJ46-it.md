@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011NZBJ46-it Ht25N Multimetro Digitale Multifunzione Com Hr0002'
+sku: 'B011NZBJ46-it'
 tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OK7A9KA-it Worx WX372 Trapano Avvitatore con Percussione Mandrino in...'
+sku: 'B00OK7A9KA-it'
 tags: [  ]
 actualPrice: 118.0 EUR
 currency: EUR

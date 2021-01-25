@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T584PHV-it Seghetto Alternativo a Batteria TECCPO Sega Elettrico...'
+sku: 'B07T584PHV-it'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

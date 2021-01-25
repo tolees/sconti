@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPK4GDY-it La Crema del Caffè - Aroma e Gusto 12 Astucci da 10...'
+sku: 'B06XPK4GDY-it'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

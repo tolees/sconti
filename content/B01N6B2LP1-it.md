@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6B2LP1-it Brita Aluna - Caraffa Filtrante per Acqua 2.4 Litri 1...'
+sku: 'B01N6B2LP1-it'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

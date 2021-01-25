@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPSMWCH-it 4D Silk Fiber Eyelash Mascara Mascara Waterproof Mascara...'
+sku: 'B07PPSMWCH-it'
 tags: [  ]
 actualPrice: 11.19 EUR
 currency: EUR

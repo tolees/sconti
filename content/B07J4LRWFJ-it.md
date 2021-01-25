@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J4LRWFJ-it PHILIP WATCH Guarda R8253597543'
+sku: 'B07J4LRWFJ-it'
 tags: [  ]
 actualPrice: 284.04 EUR
 currency: EUR

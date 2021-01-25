@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9B17PY-it Lagostina Ingenio Induction Coperchio in Vetro 24 cm...'
+sku: 'B01M9B17PY-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

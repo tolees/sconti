@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797TLSGC-it Dardaruga VENTILATORE DIGITALE WFD a Piantana con...'
+sku: 'B0797TLSGC-it'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

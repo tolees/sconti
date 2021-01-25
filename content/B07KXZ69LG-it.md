@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXZ69LG-it Curcuma e Piperiana Plus zenzero limone vitamina C- 130...'
+sku: 'B07KXZ69LG-it'
 tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR

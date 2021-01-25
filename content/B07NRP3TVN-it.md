@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRP3TVN-it Kingston Data Centre DC500M SEDC500M/480G Enterprise Drive...'
+sku: 'B07NRP3TVN-it'
 tags: [  ]
 actualPrice: 146.78 EUR
 currency: EUR

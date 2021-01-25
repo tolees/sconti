@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013SXJL0K-it Calvin Klein Eternity for Men Eau de Toilette 30 ml'
+sku: 'B013SXJL0K-it'
 tags: [  ]
 actualPrice: 21.68 EUR
 currency: EUR

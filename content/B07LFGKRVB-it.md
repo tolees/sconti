@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFGKRVB-it Levi s 2pk Crewneck Graphic T-Shirt Multicolore 2 Pack SW...'
+sku: 'B07LFGKRVB-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

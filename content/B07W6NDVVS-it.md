@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6NDVVS-it Tommy Hilfiger Uomo Bleecker Th Flex Satin Chino Gmd Loose...'
+sku: 'B07W6NDVVS-it'
 tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR

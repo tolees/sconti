@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081D42QHY-it MPOW S16 Auricolari Wireless Sport 12H Playtime Cuffie...'
+sku: 'B081D42QHY-it'
 tags: [  ]
 actualPrice: 21.59 EUR
 currency: EUR

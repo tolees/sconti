@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DK73BW-it Visiera Protettiva di Sicurezza dalla Francia via DHL...'
+sku: 'B089DK73BW-it'
 tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR

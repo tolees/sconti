@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWPZ2XA-it Nike Tanjun Mn Scarpe Sportive Uomo Blu Midnight...'
+sku: 'B00XWPZ2XA-it'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

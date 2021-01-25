@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4Z39RM-it AZ Dentifricio 3D White Luxe Perfezione con Azione...'
+sku: 'B07W4Z39RM-it'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

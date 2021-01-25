@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813XYGL9-it adidas Adilette Ciabatte Donna Nero Core Black/Blue...'
+sku: 'B0813XYGL9-it'
 tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR

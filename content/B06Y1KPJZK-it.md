@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1KPJZK-it Moleskine ID Collection Zaino da Lavoro Professionale...'
+sku: 'B06Y1KPJZK-it'
 tags: [  ]
 actualPrice: 34.25 EUR
 currency: EUR

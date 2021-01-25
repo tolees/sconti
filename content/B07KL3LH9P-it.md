@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL3LH9P-it Adidas Must Haves Badge of Sport Tee T-Shirts Uomo...'
+sku: 'B07KL3LH9P-it'
 tags: [  ]
 actualPrice: 11.48 EUR
 currency: EUR

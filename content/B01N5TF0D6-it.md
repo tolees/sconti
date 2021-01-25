@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5TF0D6-it Harry Potter 7 Pt.2 4K + Br'
+sku: 'B01N5TF0D6-it'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

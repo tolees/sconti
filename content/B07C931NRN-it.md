@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C931NRN-it Versus Versace Dress Watch VSP490318'
+sku: 'B07C931NRN-it'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

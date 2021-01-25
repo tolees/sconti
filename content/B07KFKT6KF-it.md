@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFKT6KF-it adidas Grand Court Scarpe Sportive Uomo Bianco Cloud...'
+sku: 'B07KFKT6KF-it'
 tags: [  ]
 actualPrice: 25.63 EUR
 currency: EUR

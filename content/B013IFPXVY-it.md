@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013IFPXVY-it Level Trend Suburban Line Guanto Uomo Nero 10'
+sku: 'B013IFPXVY-it'
 tags: [  ]
 actualPrice: 30.29 EUR
 currency: EUR

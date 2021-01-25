@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AWNSNEE-it Listerine - Collutorio Advanced white 2 pezzi 500 ml x 2'
+sku: 'B01AWNSNEE-it'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

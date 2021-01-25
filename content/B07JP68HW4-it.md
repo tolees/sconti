@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JP68HW4-it JACK & JONES Jjimarco Jjbowie Sa Noos Pantaloni Blu Navy...'
+sku: 'B07JP68HW4-it'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

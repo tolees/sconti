@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N1UCVIA-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
+sku: 'B00N1UCVIA-it'
 tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR

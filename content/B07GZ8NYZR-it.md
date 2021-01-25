@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ8NYZR-it Marchio Amazon - MERAKI Blazer Casual Uomo Blu Navy 48...'
+sku: 'B07GZ8NYZR-it'
 tags: [  ]
 actualPrice: 18.61 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005QODR4Q-it Stefanplast Tom Contenitore salvafreschezza per Cibo per...'
+sku: 'B005QODR4Q-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

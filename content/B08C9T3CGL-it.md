@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9T3CGL-it eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con...'
+sku: 'B08C9T3CGL-it'
 tags: [  ]
 actualPrice: 30.49 EUR
 currency: EUR

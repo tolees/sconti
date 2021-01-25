@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YG3NCBN-it Lierac Teint Perfect Skin Fondotinta Fluido con Acido...'
+sku: 'B07YG3NCBN-it'
 tags: [  ]
 actualPrice: 18.31 EUR
 currency: EUR

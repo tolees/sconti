@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXQLYL8-it Hasbro Marvel Spider-Man - Titan Hero Power FX con...'
+sku: 'B07MXQLYL8-it'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

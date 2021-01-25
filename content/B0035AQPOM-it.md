@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0035AQPOM-it Pavesi Ringo Biscotti Farciti con Crema al Gusto Vaniglia...'
+sku: 'B0035AQPOM-it'
 tags: [  ]
 actualPrice: 0.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6JKL78-it Logitech G604 LIGHTSPEED Mouse Gaming Wireless con 15...'
+sku: 'B07W6JKL78-it'
 tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR

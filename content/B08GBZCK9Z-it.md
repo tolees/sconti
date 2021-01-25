@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GBZCK9Z-it 50PC Usa e getta Blu a 3 Strati Blu'
+sku: 'B08GBZCK9Z-it'
 tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR

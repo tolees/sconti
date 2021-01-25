@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8QJLRB-it Fila Disruptor Low Scarpe da Ginnastica Basse Uomo Bianco...'
+sku: 'B07B8QJLRB-it'
 tags: [  ]
 actualPrice: 45.13 EUR
 currency: EUR

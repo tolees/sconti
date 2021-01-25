@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004JQOJ08-it Philips HP6341/00 Ladyshave Rasoio Femminile Wet&Dry...'
+sku: 'B004JQOJ08-it'
 tags: [  ]
 actualPrice: 16.15 EUR
 currency: EUR

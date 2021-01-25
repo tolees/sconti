@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1V2JR5-it Concrete Genie - PlayStation 4'
+sku: 'B07W1V2JR5-it'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

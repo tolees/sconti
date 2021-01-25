@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZR4J4J-it NEUTRO ROBERTS Doccia Shampoo Tonificante - 6 Confezioni...'
+sku: 'B07CZR4J4J-it'
 tags: [  ]
 actualPrice: 7.86 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7HG3WK-it TACKLIFE Pistola da Giardino Pistola per Innaffiamento...'
+sku: 'B07K7HG3WK-it'
 tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZLW34Y-it Gillette SkinGuard Sensitive Lamette di Ricarica per...'
+sku: 'B07YZLW34Y-it'
 tags: [  ]
 actualPrice: 31.98 EUR
 currency: EUR

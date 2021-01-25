@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWS9V3M-it HUAWEI T5 Mediapad Tablet Display da 10.1" 1080p Full HD...'
+sku: 'B07VWS9V3M-it'
 tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR

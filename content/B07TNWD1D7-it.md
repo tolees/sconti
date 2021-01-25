@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNWD1D7-it Havaianas Slim Flatform Infradito Donna Rosa Pink...'
+sku: 'B07TNWD1D7-it'
 tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR

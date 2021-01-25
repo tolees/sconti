@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLY14V-it New Balance 997h Sneaker Uomo Rosso Red Hbs 47 EU'
+sku: 'B07RZLY14V-it'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

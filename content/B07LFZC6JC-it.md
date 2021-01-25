@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZC6JC-it Geox D BIBBIANA A Scarpe con Tacco Donna Nero Black C9997...'
+sku: 'B07LFZC6JC-it'
 tags: [  ]
 actualPrice: 22.01 EUR
 currency: EUR

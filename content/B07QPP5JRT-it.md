@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPP5JRT-it Durex Love Collection Preservativi Assortiti Stimolanti e...'
+sku: 'B07QPP5JRT-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

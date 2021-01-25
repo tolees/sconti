@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLZHR7C-it WESCO Cacciavite Elettrico 3.6V 3.5N.m Avvitatore a...'
+sku: 'B07XLZHR7C-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

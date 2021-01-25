@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPMX4-it Napapijri Rainforest Pocket Giacca Uomo 100% Poliammide...'
+sku: 'B07MCSPMX4-it'
 tags: [  ]
 actualPrice: 91.95 EUR
 currency: EUR

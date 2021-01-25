@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JGJJSV-it Philips Sonicare HX9903/13 DiamondClean Smart Spazzolino...'
+sku: 'B075JGJJSV-it'
 tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR

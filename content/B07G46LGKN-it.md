@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G46LGKN-it HUAWEI T5 Mediapad Tablet con Display da 10.1" 32 GB...'
+sku: 'B07G46LGKN-it'
 tags: [  ]
 actualPrice: 159.06 EUR
 currency: EUR

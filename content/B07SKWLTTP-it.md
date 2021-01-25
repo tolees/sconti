@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKWLTTP-it Havaianas Top Nautical Infradito Uomo Multicolore...'
+sku: 'B07SKWLTTP-it'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071RZY4QH-it Lacoste TH6712 T-Shirt Bianco Blanc XXXX-Large Taglia...'
+sku: 'B071RZY4QH-it'
 tags: [  ]
 actualPrice: 44.92 EUR
 currency: EUR

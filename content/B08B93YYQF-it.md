@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B93YYQF-it Dash Pods Allin1 Detersivo Lavatrice in Capsule Ambra Maxi...'
+sku: 'B08B93YYQF-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

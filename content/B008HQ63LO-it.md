@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008HQ63LO-it Russell Hobbs 18780 2fetta/e Grigio tostapane'
+sku: 'B008HQ63LO-it'
 tags: [  ]
 actualPrice: 9.31 EUR
 currency: EUR

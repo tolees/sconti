@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YP4N7XT-it Motorola Moto E6 Play Display Max Vision HD+ da 5 5"...'
+sku: 'B07YP4N7XT-it'
 tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MPY2TNU-it Lacoste TH6712 T-Shirt Grigio Argent Chine XX-Large Taglia...'
+sku: 'B01MPY2TNU-it'
 tags: [  ]
 actualPrice: 46.36 EUR
 currency: EUR

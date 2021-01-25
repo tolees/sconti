@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788CC8DR-it Tommy Hilfiger Track Top Ls Hwk Felpa Blu Navy Blazer 416...'
+sku: 'B0788CC8DR-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

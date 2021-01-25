@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PGS7R-it Puma Flyer Runner Scarpe da Corsa Unisex-Adulto Bianco...'
+sku: 'B07S8PGS7R-it'
 tags: [  ]
 actualPrice: 32.27 EUR
 currency: EUR

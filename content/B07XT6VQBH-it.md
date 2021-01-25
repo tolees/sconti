@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XT6VQBH-it YOUNGDO Idropulsore Dentale Professionale da capacità...'
+sku: 'B07XT6VQBH-it'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

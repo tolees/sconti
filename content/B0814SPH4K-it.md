@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814SPH4K-it Under Armour Challenger III Midlayer Maglia a maniche...'
+sku: 'B0814SPH4K-it'
 tags: [  ]
 actualPrice: 18.73 EUR
 currency: EUR

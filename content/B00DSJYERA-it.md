@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DSJYERA-it Sherlock - Complete Series 1-3 6 Dvd [Edizione: Regno...'
+sku: 'B00DSJYERA-it'
 tags: [  ]
 actualPrice: 6.38 EUR
 currency: EUR

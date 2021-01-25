@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJJ9QPG-it Assassin s Creed III Liberation Remastered - Xbox One'
+sku: 'B07NJJ9QPG-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

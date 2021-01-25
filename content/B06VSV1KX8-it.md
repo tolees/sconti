@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VSV1KX8-it Hoover La71 La10011 Lander - Aspirapolvere a Traino Senza...'
+sku: 'B06VSV1KX8-it'
 tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR

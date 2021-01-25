@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMCV39D-it Chicco Salviettine Detergenti Multiuso con Placchetta 12...'
+sku: 'B07FMCV39D-it'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFS98NM-it AUKEY Caricatore Wireless in Grafite - Caricabatterie...'
+sku: 'B07BFS98NM-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

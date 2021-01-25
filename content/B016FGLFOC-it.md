@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016FGLFOC-it Chicco 00001166000300 Guaina Post Parto Regolabile 3 Bianco'
+sku: 'B016FGLFOC-it'
 tags: [  ]
 actualPrice: 32.89 EUR
 currency: EUR

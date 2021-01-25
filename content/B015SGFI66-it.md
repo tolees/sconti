@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGFI66-it Havaianas Luna Sandali Donna Oro Rose Gold/Rose Gold 5282...'
+sku: 'B015SGFI66-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

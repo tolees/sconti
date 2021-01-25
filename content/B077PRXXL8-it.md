@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PRXXL8-it Aigostar Groom Care 32JVQ - Rifinitore per naso e...'
+sku: 'B077PRXXL8-it'
 tags: [  ]
 actualPrice: 10.45 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBZXZBW-it eufy [BoostIQ RoboVac 30C Wi-Fi Nuova Versione Super-...'
+sku: 'B07DBZXZBW-it'
 tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR

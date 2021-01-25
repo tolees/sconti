@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMF8QB1-it Optimum Nutrition Protein Bar 10 Barrette Proteiche con...'
+sku: 'B07PMF8QB1-it'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

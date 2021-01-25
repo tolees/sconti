@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007UZNDCU-it Pasta del Capitano Spazzolino Whitening Medio'
+sku: 'B007UZNDCU-it'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

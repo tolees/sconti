@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073H9DYV6-it Parasole per Parabrezza - Tessuto 210T Il Migliore sul...'
+sku: 'B073H9DYV6-it'
 tags: [  ]
 actualPrice: 17.27 EUR
 currency: EUR

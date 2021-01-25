@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CZYOEUU-it Disney Princess - Vaiana Fashion Doll'
+sku: 'B01CZYOEUU-it'
 tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR

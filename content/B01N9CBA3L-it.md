@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9CBA3L-it Lower East impermeable Uomo Nero Schwarz Large'
+sku: 'B01N9CBA3L-it'
 tags: [  ]
 actualPrice: 18.24 EUR
 currency: EUR

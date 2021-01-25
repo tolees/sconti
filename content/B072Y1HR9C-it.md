@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072Y1HR9C-it Level Guanto Suburban Uomo Verde 9.5-XL'
+sku: 'B072Y1HR9C-it'
 tags: [  ]
 actualPrice: 36.92 EUR
 currency: EUR

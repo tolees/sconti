@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTBRDP1-it FOXONU Power Bank 26800mAh Carica Veloce Caricabatterie...'
+sku: 'B07XTBRDP1-it'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

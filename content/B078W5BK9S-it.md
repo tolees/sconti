@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078W5BK9S-it Vano portaoggetti secondario da bracciolo per auto colore...'
+sku: 'B078W5BK9S-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF666QT-it Levi s 311 Shaping Skinny Jeans Blu London Nights 0153 28W...'
+sku: 'B07KF666QT-it'
 tags: [  ]
 actualPrice: 49.5 EUR
 currency: EUR

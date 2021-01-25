@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDD3FQY-it Lisciani Giochi - Super Laboratorio dei Primi 101...'
+sku: 'B07DDD3FQY-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

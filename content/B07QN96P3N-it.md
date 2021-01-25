@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QN96P3N-it Amzchef Tritatutto elettrico per alimenti con motore...'
+sku: 'B07QN96P3N-it'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

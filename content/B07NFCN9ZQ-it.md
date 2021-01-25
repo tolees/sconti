@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFCN9ZQ-it Casio Orologio Analogico Quarzo Unisex Adulto con...'
+sku: 'B07NFCN9ZQ-it'
 tags: [  ]
 actualPrice: 43.51 EUR
 currency: EUR

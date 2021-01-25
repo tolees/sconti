@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8T5F8G-it Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta Blu...'
+sku: 'B07V8T5F8G-it'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869B8RKD-it HUAWEI P40 Pro con Bluetooth Speaker Acoustic Display da...'
+sku: 'B0869B8RKD-it'
 tags: [  ]
 actualPrice: 879.0 EUR
 currency: EUR

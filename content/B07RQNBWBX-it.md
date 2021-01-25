@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQNBWBX-it WHCREAT da Uomo con Pantaloncini da Running Tasche con...'
+sku: 'B07RQNBWBX-it'
 tags: [  ]
 actualPrice: 11.24 EUR
 currency: EUR

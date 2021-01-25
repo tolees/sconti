@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DFCHJK-it Rio Mare Insalatissime Delizia di Mais e Tonno Pinne...'
+sku: 'B081DFCHJK-it'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

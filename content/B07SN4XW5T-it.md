@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN4XW5T-it Havaianas Top Mix Infradito Unisex Adulto Grigio [Silver...'
+sku: 'B07SN4XW5T-it'
 tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR

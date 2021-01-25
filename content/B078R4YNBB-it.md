@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078R4YNBB-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Teal...'
+sku: 'B078R4YNBB-it'
 tags: [  ]
 actualPrice: 46.0 EUR
 currency: EUR

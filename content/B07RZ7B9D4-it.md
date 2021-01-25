@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ7B9D4-it ESPRIT 999ee2i803 Felpa Grigio Grey 030 Large Uomo'
+sku: 'B07RZ7B9D4-it'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T5MXZ24-it Geox U Nebula Y A Scarpe da Ginnastica Basse Uomo Blu Navy...'
+sku: 'B07T5MXZ24-it'
 tags: [  ]
 actualPrice: 40.15 EUR
 currency: EUR

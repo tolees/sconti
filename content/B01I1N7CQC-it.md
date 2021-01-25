@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I1N7CQC-it Adidas Vs Pace Scarpe da Ginnastica Uomo Nero...'
+sku: 'B01I1N7CQC-it'
 tags: [  ]
 actualPrice: 38.11 EUR
 currency: EUR

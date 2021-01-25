@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LM5D1N-it MKTOSASA - Set di Vini Rifinito in Legno di bambù -...'
+sku: 'B085LM5D1N-it'
 tags: [  ]
 actualPrice: 23.1 EUR
 currency: EUR

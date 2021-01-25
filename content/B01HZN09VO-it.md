@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HZN09VO-it Dragon Ball Xenoverse 2 - Xbox One'
+sku: 'B01HZN09VO-it'
 tags: [  ]
 actualPrice: 20.98 EUR
 currency: EUR

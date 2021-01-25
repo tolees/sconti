@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C1WG8J4-it Generico Mascherina Lavabile 2 Pezzi Nera + Blu Regolabili'
+sku: 'B08C1WG8J4-it'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

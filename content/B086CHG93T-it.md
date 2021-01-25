@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086CHG93T-it Samsung Smartphone Galaxy A71 + Pellicola Protettiva...'
+sku: 'B086CHG93T-it'
 tags: [  ]
 actualPrice: 312.0 EUR
 currency: EUR

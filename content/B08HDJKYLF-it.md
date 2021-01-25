@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HDJKYLF-it eXtremeRate Cover Grip per Xbox One S X Controller Model...'
+sku: 'B08HDJKYLF-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

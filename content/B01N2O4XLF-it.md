@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2O4XLF-it FLOUREON Ricetrasmittente PMR Radio Ricetrasmittenti 8...'
+sku: 'B01N2O4XLF-it'
 tags: [  ]
 actualPrice: 14.24 EUR
 currency: EUR

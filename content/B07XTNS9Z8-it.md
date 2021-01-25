@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTNS9Z8-it Integratore Completo 4 in 1 per Capelli Pelle Unghie e...'
+sku: 'B07XTNS9Z8-it'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

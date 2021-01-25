@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MEEHC5G-it Lagostina Ingenio Induction Coperchio in Vetro 28 cm...'
+sku: 'B01MEEHC5G-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

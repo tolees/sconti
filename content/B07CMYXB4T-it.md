@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMYXB4T-it SONGMICS Libreria di Tessuto per Bambini Libreria a 4...'
+sku: 'B07CMYXB4T-it'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

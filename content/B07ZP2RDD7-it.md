@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP2RDD7-it Occhialini da Nuoto da Piscina Anti-Appannamento Specchio...'
+sku: 'B07ZP2RDD7-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

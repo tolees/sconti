@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FF211RQ-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna...'
+sku: 'B07FF211RQ-it'
 tags: [  ]
 actualPrice: 17.56 EUR
 currency: EUR

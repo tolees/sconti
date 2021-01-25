@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJSYNKJ-it Supporto per TV da Soffitto - Staffa Regolabile per TV...'
+sku: 'B07WJSYNKJ-it'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

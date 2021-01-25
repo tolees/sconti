@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012PKOBIE-it Lexar 64GB 3500x Pro CFast Compact Flash Card -...'
+sku: 'B012PKOBIE-it'
 tags: [  ]
 actualPrice: 107.4 EUR
 currency: EUR

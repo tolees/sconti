@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NRQV16-it Levi s Graphic Maglietta Bianco 84 Sportswear Logo White...'
+sku: 'B071NRQV16-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSRMC2V-it Carioca Set Back To School | Set Cancelleria Scuola con...'
+sku: 'B07VSRMC2V-it'
 tags: [  ]
 actualPrice: 28.42 EUR
 currency: EUR

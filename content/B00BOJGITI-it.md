@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BOJGITI-it Burberry Weekend Edp 100 Ml'
+sku: 'B00BOJGITI-it'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

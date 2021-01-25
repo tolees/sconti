@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBYQKV4-it PUMA Flyer Runner Scarpe da Corsa Unisex-Adulto Grigio...'
+sku: 'B07DBYQKV4-it'
 tags: [  ]
 actualPrice: 38.53 EUR
 currency: EUR

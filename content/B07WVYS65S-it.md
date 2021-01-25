@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVYS65S-it Cere Easy Wax Kit Natural Inspirations Fiore Tiarè & Argan...'
+sku: 'B07WVYS65S-it'
 tags: [  ]
 actualPrice: 31.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC4QMLF-it InkJello Compatibile Toner Cartuccia Sostituzione Per HP...'
+sku: 'B07JC4QMLF-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

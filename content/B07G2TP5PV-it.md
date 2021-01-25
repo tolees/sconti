@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2TP5PV-it Armani Exchange Orologio Analogico Quarzo Donna con...'
+sku: 'B07G2TP5PV-it'
 tags: [  ]
 actualPrice: 78.65 EUR
 currency: EUR

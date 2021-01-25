@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1H8FKT-it Clarks Sheer Rose Scarpe con Tacco Donna Multicolore...'
+sku: 'B07N1H8FKT-it'
 tags: [  ]
 actualPrice: 32.92 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ABJSODK-it Eridania Zucchero Tropical Bustine Gr500'
+sku: 'B00ABJSODK-it'
 tags: [  ]
 actualPrice: 1.19 EUR
 currency: EUR

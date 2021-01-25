@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWHHFJ9-it Paranoia Airlines'
+sku: 'B07KWHHFJ9-it'
 tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR

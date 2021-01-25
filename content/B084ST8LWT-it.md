@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ST8LWT-it TACKLIFE Sega Circolare Compatta 6 Lame 120 mm e 115 mm...'
+sku: 'B084ST8LWT-it'
 tags: [  ]
 actualPrice: 83.99 EUR
 currency: EUR

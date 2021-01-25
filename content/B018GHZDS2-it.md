@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018GHZDS2-it Equilibra Creatina - 200 gr'
+sku: 'B018GHZDS2-it'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

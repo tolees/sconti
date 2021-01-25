@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089TXR8Z4-it Maremma Toscana Rosato DOC Campo al Faro 2019 0 75 L'
+sku: 'B089TXR8Z4-it'
 tags: [  ]
 actualPrice: 10.24 EUR
 currency: EUR

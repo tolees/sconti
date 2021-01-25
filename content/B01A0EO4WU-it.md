@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A0EO4WU-it Hotpoint CS1A 300 H Congelatore Orizziontale Libera...'
+sku: 'B01A0EO4WU-it'
 tags: [  ]
 actualPrice: 317.98 EUR
 currency: EUR

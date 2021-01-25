@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9BJ8YX-it ACE Wc Gel Disincrostante 2 Confezioni da 700 ml'
+sku: 'B06X9BJ8YX-it'
 tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR

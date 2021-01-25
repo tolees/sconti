@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJNZHM3-it Nivea Men Dry Impact Plus Deodorante Extra Protezione 50...'
+sku: 'B07DJNZHM3-it'
 tags: [  ]
 actualPrice: 5.96 EUR
 currency: EUR

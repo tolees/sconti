@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797GBRP8-it Lampada UV LED Unghie Carttiya Asciuga Unghie per Smalto...'
+sku: 'B0797GBRP8-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

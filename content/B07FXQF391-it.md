@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXQF391-it Vans Filmore Decon Scarpe da Ginnastica Uomo Rosso Canvas...'
+sku: 'B07FXQF391-it'
 tags: [  ]
 actualPrice: 41.94 EUR
 currency: EUR

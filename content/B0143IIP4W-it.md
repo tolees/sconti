@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0143IIP4W-it SanDisk Ultra Scheda di Memoria SDXC Traditional Velocità...'
+sku: 'B0143IIP4W-it'
 tags: [  ]
 actualPrice: 17.4 EUR
 currency: EUR

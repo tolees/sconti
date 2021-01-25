@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LCV6QE-it Casio Orologio Digitale Quarzo Uomo con Cinturino in...'
+sku: 'B000LCV6QE-it'
 tags: [  ]
 actualPrice: 31.5 EUR
 currency: EUR

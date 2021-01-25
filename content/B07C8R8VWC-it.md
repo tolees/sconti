@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8R8VWC-it AKAI TV AKTV3215 Ethernet Televisore 32 Pollici TV LED HD...'
+sku: 'B07C8R8VWC-it'
 tags: [  ]
 actualPrice: 145.49 EUR
 currency: EUR

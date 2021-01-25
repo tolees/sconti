@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCKL14P-it HNOOM Supporto Telefono Supporto Tablet da Tavolo Supporto...'
+sku: 'B08GCKL14P-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

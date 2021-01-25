@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085H9FRKW-it Striscia LED 5M RGB LED 24V Striscia di Colore Variabile...'
+sku: 'B085H9FRKW-it'
 tags: [  ]
 actualPrice: 13.88 EUR
 currency: EUR

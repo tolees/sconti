@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TT9GRM-it adidas Cropped Hood'
+sku: 'B081TT9GRM-it'
 tags: [  ]
 actualPrice: 30.33 EUR
 currency: EUR

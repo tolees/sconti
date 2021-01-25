@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKCQ6NN-it find. Slouch Stivaletti Marrone Caramel 39 EU'
+sku: 'B07FKCQ6NN-it'
 tags: [  ]
 actualPrice: 31.94 EUR
 currency: EUR

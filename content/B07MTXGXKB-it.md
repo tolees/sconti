@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTXGXKB-it Tiralatte elettrico pompa per allattamento al seno...'
+sku: 'B07MTXGXKB-it'
 tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR

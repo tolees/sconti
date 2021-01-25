@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND9GYZ3-it LEGO - Hidden Side Mistero nel Cimitero Set di Costruzione...'
+sku: 'B07ND9GYZ3-it'
 tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR

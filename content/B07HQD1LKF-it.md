@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQD1LKF-it LIGHTAILING Set di Luci per Architecture Buckingham Palace...'
+sku: 'B07HQD1LKF-it'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYZ8DWS-it Ginocchiera a Compressione unisex 1 Paio Ginocchiere...'
+sku: 'B07QYZ8DWS-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

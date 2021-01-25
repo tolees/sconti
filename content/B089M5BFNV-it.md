@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089M5BFNV-it Campanello Senza Fili da Esterno Impermeabile IP55...'
+sku: 'B089M5BFNV-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

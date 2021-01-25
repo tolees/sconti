@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0764FT1HY-it Neato Robotics D7 Robot Aspirapolvere Intelligente...'
+sku: 'B0764FT1HY-it'
 tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR

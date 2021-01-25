@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGLZ61K-it Aigostar Ultra-Sottile Faretto Led da Esterno 50W Luce...'
+sku: 'B07HGLZ61K-it'
 tags: [  ]
 actualPrice: 18.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W3LKCLW-it Oral-B Pro 2 2000 Cross Action Spazzolino Elettrico...'
+sku: 'B07W3LKCLW-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

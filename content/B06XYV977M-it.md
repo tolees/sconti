@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYV977M-it Angstrom Protect Latte Solare Ultra Idratante Acceleratore...'
+sku: 'B06XYV977M-it'
 tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR

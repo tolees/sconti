@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751RGXLR-it Barbie la Pizzeria con Bambola Tavolo per Le Pizze Forno e...'
+sku: 'B0751RGXLR-it'
 tags: [  ]
 actualPrice: 32.01 EUR
 currency: EUR

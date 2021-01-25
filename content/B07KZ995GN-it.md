@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZ995GN-it Ravensburger 11145 Dragons 3 Puzzle Ball 3D'
+sku: 'B07KZ995GN-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

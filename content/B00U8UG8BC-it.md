@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U8UG8BC-it Frisk Peppermint Caramelle alla Menta Mentine Senza...'
+sku: 'B00U8UG8BC-it'
 tags: [  ]
 actualPrice: 8.28 EUR
 currency: EUR

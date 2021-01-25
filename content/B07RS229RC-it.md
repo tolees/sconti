@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS229RC-it Giochi Preziosi - L.O.L Surprise! Glitter Globe Winter...'
+sku: 'B07RS229RC-it'
 tags: [  ]
 actualPrice: 17.39 EUR
 currency: EUR

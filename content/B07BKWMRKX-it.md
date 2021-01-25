@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKWMRKX-it Moleskine Edizione Box in Pelle Notebook Classic Pagina a...'
+sku: 'B07BKWMRKX-it'
 tags: [  ]
 actualPrice: 14.78 EUR
 currency: EUR

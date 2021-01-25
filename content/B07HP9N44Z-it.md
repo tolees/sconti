@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP9N44Z-it Brondi Amico Fedele Telefono cellulare GSM per anziani con...'
+sku: 'B07HP9N44Z-it'
 tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR

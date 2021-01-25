@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079D86MWH-it Lysoform Detersivo Igienizzante per Bucato Detersivo...'
+sku: 'B079D86MWH-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

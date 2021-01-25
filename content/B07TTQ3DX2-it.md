@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTQ3DX2-it Wrangler SS Logo Tee T-Shirt Blu Directoire Blue XKL Small...'
+sku: 'B07TTQ3DX2-it'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

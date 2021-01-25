@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYTDSSL-it Landove Donna A spalle Ruffle allentato Batwing Mantello...'
+sku: 'B07GYTDSSL-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

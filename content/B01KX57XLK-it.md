@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KX57XLK-it Bio-Oil Olio per Cicatrici e Smagliature Trattamento per...'
+sku: 'B01KX57XLK-it'
 tags: [  ]
 actualPrice: 17.79 EUR
 currency: EUR

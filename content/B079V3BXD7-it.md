@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079V3BXD7-it CRAYOLA Washimals Set Attività per Colorare e Fare il...'
+sku: 'B079V3BXD7-it'
 tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR

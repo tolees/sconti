@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001V7YWTQ-it Live From Madison Square Garden'
+sku: 'B001V7YWTQ-it'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

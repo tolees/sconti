@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJB77Z1-it Lampada Libro Led Pieghevole in Legno con Telecomando 12...'
+sku: 'B07PJB77Z1-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXYVDTY-it adidas Cush CRW 3pp Calzini Uomo Multicolore...'
+sku: 'B07RXYVDTY-it'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075PKJW9M-it Havaianas Logo Metallic Infradito Donna Nero Black/Black...'
+sku: 'B075PKJW9M-it'
 tags: [  ]
 actualPrice: 13.77 EUR
 currency: EUR

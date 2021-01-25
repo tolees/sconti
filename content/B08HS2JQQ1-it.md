@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HS2JQQ1-it eXtremeRate Pulsante ABXY D-pad Croci Direzionali Tasti ZR...'
+sku: 'B08HS2JQQ1-it'
 tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR

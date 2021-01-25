@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNMJBNN-it Weelth Tappetino per Mouse 800x400mm Sottomano da Ufficio...'
+sku: 'B07WNMJBNN-it'
 tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR

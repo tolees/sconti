@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VAWFFPM-it HP - HP Stampanti Office Jet Pro 9022 Stampante...'
+sku: 'B00VAWFFPM-it'
 tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR

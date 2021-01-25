@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBBTK65-it Havaianas Slim Tropical Infradito Donna Multicolore Beige...'
+sku: 'B07TBBTK65-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

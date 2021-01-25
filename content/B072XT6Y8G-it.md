@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072XT6Y8G-it Unique Party 55856 - Palloncino Gigante - Numero 6 - 86cm...'
+sku: 'B072XT6Y8G-it'
 tags: [  ]
 actualPrice: 2.72 EUR
 currency: EUR

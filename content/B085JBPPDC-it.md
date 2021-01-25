@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085JBPPDC-it Calvin Klein Sneakersocken 6er Pack White/Grey/Black 40/46...'
+sku: 'B085JBPPDC-it'
 tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR

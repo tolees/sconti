@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WW9SBZB-it Portapacchi Bici Alluminio Bici posteriore Rack bicicletta...'
+sku: 'B06WW9SBZB-it'
 tags: [  ]
 actualPrice: 25.48 EUR
 currency: EUR

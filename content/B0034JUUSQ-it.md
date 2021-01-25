@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0034JUUSQ-it Pavesi Pavesini Classici Biscotto Leggero per Colazione o...'
+sku: 'B0034JUUSQ-it'
 tags: [  ]
 actualPrice: 1.05 EUR
 currency: EUR

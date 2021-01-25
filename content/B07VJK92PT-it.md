@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJK92PT-it Calvin Klein Uomo - Boxer aderenti in confezione da 3 vita...'
+sku: 'B07VJK92PT-it'
 tags: [  ]
 actualPrice: 30.95 EUR
 currency: EUR

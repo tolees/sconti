@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKB1FS8-it Olio da barba per cura totale di barba lunga e corta. Olio...'
+sku: 'B07BKB1FS8-it'
 tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR

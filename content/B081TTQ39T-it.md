@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TTQ39T-it adidas Tight T Maglietta Donna Nero Black/White 40'
+sku: 'B081TTQ39T-it'
 tags: [  ]
 actualPrice: 12.48 EUR
 currency: EUR

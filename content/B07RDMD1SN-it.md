@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDMD1SN-it Nike Downshifter 9 Scarpe da Corsa Uomo...'
+sku: 'B07RDMD1SN-it'
 tags: [  ]
 actualPrice: 33.75 EUR
 currency: EUR

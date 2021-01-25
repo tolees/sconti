@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813VVQ9M-it adidas Stan Smith Scarpe Uomo Bianco Cloud White/Cloud...'
+sku: 'B0813VVQ9M-it'
 tags: [  ]
 actualPrice: 71.9 EUR
 currency: EUR

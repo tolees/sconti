@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CN68WC7-it Collio DOC Ribolla Gialla Ronco del Frassino 2019 0 75 L'
+sku: 'B08CN68WC7-it'
 tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR

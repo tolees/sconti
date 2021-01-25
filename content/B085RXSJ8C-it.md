@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RXSJ8C-it heekpek Costume da Bagno Donna V Profonda Imbottito...'
+sku: 'B085RXSJ8C-it'
 tags: [  ]
 actualPrice: 6.69 EUR
 currency: EUR

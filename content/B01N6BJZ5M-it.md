@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6BJZ5M-it Lower East impermeable Uomo Blu Navy Large'
+sku: 'B01N6BJZ5M-it'
 tags: [  ]
 actualPrice: 11.31 EUR
 currency: EUR

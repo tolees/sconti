@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYQ2R3S-it SUPERGA 2750 Cotu Classic Scarpe da Ginnastica Unisex...'
+sku: 'B07TYQ2R3S-it'
 tags: [  ]
 actualPrice: 23.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PGLHHB-it Smartwatch Orologio con Auricolare Sportivo Bluetooth...'
+sku: 'B086PGLHHB-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

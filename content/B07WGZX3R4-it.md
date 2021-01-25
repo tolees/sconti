@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGZX3R4-it LIEBE721 Giacche Giacca Donna Manica Lunga Cardigan...'
+sku: 'B07WGZX3R4-it'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

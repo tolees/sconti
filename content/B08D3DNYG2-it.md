@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3DNYG2-it BOMIZI Cover Xiaomi Mi 9T Mi9T PRO Custodia Trasparente...'
+sku: 'B08D3DNYG2-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

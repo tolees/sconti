@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMN4LR7-it SanDisk Extreme PRO SSD Portatile 500 GB Resistente e...'
+sku: 'B07TMN4LR7-it'
 tags: [  ]
 actualPrice: 120.99 EUR
 currency: EUR

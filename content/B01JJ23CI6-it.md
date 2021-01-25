@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JJ23CI6-it Elegoo Scheda Starter Ultimate Kit Piu Completo per...'
+sku: 'B01JJ23CI6-it'
 tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR

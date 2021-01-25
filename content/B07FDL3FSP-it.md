@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDL3FSP-it Polaroid POP 2.0 – Fotocamera digitale a stampa istantanea...'
+sku: 'B07FDL3FSP-it'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

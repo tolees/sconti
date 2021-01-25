@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0010MJVQG-it Casio Sveglia Collection TQ-369-1EF'
+sku: 'B0010MJVQG-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

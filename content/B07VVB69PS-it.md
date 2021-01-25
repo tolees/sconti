@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVB69PS-it adidas Superstar J Scarpe da Ginnastica Basse Unisex -...'
+sku: 'B07VVB69PS-it'
 tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR

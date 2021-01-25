@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PXJ9V-it PUMA Epic Flip v2 Scarpe da Spiaggia e Piscina Unisex-...'
+sku: 'B07S8PXJ9V-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

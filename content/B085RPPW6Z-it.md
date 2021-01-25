@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RPPW6Z-it Condizionatore Portatile Raffreddatore d Aria Silenzioso...'
+sku: 'B085RPPW6Z-it'
 tags: [  ]
 actualPrice: 149.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BQJV7K-it Aigostar Lampada da Comodino Moderna Lampada da Tavolo...'
+sku: 'B086BQJV7K-it'
 tags: [  ]
 actualPrice: 18.39 EUR
 currency: EUR

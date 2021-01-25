@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I9X2KLW-it Sony DSC-HX60 Fotocamera Digitale Compatta Travel con...'
+sku: 'B00I9X2KLW-it'
 tags: [  ]
 actualPrice: 222.99 EUR
 currency: EUR

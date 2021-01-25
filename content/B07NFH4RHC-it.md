@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFH4RHC-it Vigorsol Air Action Gomme da Masticare Senza Zucchero...'
+sku: 'B07NFH4RHC-it'
 tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR

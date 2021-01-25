@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3Y5MJH-it Kealive Arriccia Capelli Ferro Arricciacapelli Pro Spiral...'
+sku: 'B07D3Y5MJH-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

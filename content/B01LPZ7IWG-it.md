@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LPZ7IWG-it SanDisk Extreme Scheda di Memoria SDHC da 32 GB Doppio...'
+sku: 'B01LPZ7IWG-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

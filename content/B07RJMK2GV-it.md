@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJMK2GV-it DJI Osmo Action Cam Camera Digitale con Doppio Display...'
+sku: 'B07RJMK2GV-it'
 tags: [  ]
 actualPrice: 260.09 EUR
 currency: EUR

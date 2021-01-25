@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDXBTL1-it SanDisk SDCZ33-064G-G35 Cruzer Fit da 64 GB Chiavetta USB...'
+sku: 'B07MDXBTL1-it'
 tags: [  ]
 actualPrice: 15.23 EUR
 currency: EUR

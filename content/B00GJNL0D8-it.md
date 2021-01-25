@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GJNL0D8-it Michael Kors Orologio Cronografo Quarzo Uomo con Cinturino...'
+sku: 'B00GJNL0D8-it'
 tags: [  ]
 actualPrice: 129.9 EUR
 currency: EUR

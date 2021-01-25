@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F6ZMRY4-it Ulmisfee Giochi Bimbi 1 Anno Educativi Giochi Legno Bambin...'
+sku: 'B07F6ZMRY4-it'
 tags: [  ]
 actualPrice: 46.88 EUR
 currency: EUR

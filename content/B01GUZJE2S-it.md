@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GUZJE2S-it adidas Stan Smith C Scarpe da Ginnastica Basse Unisex-...'
+sku: 'B01GUZJE2S-it'
 tags: [  ]
 actualPrice: 25.36 EUR
 currency: EUR

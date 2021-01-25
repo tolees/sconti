@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWDJ362-it Mini manuale tritatutto 520 ml verdure cipolla chopper con...'
+sku: 'B07BWDJ362-it'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

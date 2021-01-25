@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THFZJ5T-it Lacoste Th2038 T-Shirt Verde Aucuba Xzd Large Taglia...'
+sku: 'B07THFZJ5T-it'
 tags: [  ]
 actualPrice: 27.25 EUR
 currency: EUR

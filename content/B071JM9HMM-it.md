@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JM9HMM-it LowPrice2017® Caricatore Caricabatteria Alimentatore...'
+sku: 'B071JM9HMM-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SHUV4U-it Paper Mate Flexgrip Elite'
+sku: 'B000SHUV4U-it'
 tags: [  ]
 actualPrice: 13.91 EUR
 currency: EUR

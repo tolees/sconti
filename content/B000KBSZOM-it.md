@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KBSZOM-it Birkenstock Classic Milano Birko-Flor Softfootbed -...'
+sku: 'B000KBSZOM-it'
 tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR

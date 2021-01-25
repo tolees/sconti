@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHW37KD-it Desigual Bols Luna Rock Loverty - Borsa con manico 14 x 24...'
+sku: 'B07VHW37KD-it'
 tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR

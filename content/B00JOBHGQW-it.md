@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JOBHGQW-it Casio Orologio Analogico al Quarzo Uomo con Cinturino in...'
+sku: 'B00JOBHGQW-it'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

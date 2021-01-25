@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NVDQXS-it Samsung VC05K51F0VP Aspirapolvere a Traino Senza Sacco...'
+sku: 'B079NVDQXS-it'
 tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR

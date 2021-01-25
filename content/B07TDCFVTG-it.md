@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDCFVTG-it VicTsing Tastiera e Mouse Wireless PC Kit Tastiera Mouse...'
+sku: 'B07TDCFVTG-it'
 tags: [  ]
 actualPrice: 20.79 EUR
 currency: EUR

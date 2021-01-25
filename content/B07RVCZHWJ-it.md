@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVCZHWJ-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Blu Dress...'
+sku: 'B07RVCZHWJ-it'
 tags: [  ]
 actualPrice: 17.07 EUR
 currency: EUR

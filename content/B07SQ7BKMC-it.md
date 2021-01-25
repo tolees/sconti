@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ7BKMC-it gracosy Scarpe da Acqua Sport Donna Uomo 2020 Scarpe da...'
+sku: 'B07SQ7BKMC-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

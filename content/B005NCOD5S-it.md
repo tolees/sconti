@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005NCOD5S-it Pritt Colla Stick 25 x 11g colla per bambini sicura e...'
+sku: 'B005NCOD5S-it'
 tags: [  ]
 actualPrice: 15.19 EUR
 currency: EUR

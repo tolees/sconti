@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HV7B9TV-it MINI Proiettore AUN W18C Proiettore Portatile Per...'
+sku: 'B08HV7B9TV-it'
 tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR

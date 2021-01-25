@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQ97S8-it Levi s Housemark Graphic Tee T-Shirt Ssnl Hm2 Bianco...'
+sku: 'B07ZVQ97S8-it'
 tags: [  ]
 actualPrice: 21.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GHWSFW-it Chanel Coco - Eau De Toilette Spray Donna 100 ml'
+sku: 'B000GHWSFW-it'
 tags: [  ]
 actualPrice: 43.35 EUR
 currency: EUR

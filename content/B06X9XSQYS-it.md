@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9XSQYS-it Marchio Amazon - Iris & Lilly Mutande Donna Pacco da 3...'
+sku: 'B06X9XSQYS-it'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

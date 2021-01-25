@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNVK6P3-it Mini Telecamera Spia Nascosta NIYPS Full HD 1080P...'
+sku: 'B07WNVK6P3-it'
 tags: [  ]
 actualPrice: 31.44 EUR
 currency: EUR

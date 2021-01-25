@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YNSJTQ-it TOFU Candele profumate Regalo Donna Regali per Donna...'
+sku: 'B086YNSJTQ-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

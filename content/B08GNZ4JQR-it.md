@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GNZ4JQR-it X-Dision [3 Pezzi Compatibile con Sony Xperia X Compact...'
+sku: 'B08GNZ4JQR-it'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

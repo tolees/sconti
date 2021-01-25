@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RKHYWZ-it Hosome Plafoniera LED Soffitto Lampada da Soffitto 36W...'
+sku: 'B087RKHYWZ-it'
 tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR

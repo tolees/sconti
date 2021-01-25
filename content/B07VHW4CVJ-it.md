@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHW4CVJ-it Desigual Bols stardust Durban - Borsa a tracolla da donna...'
+sku: 'B07VHW4CVJ-it'
 tags: [  ]
 actualPrice: 14.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S83K7FG-it ATMOKO Massaggiatore Plantare Impastamento Shiatu Profondo...'
+sku: 'B07S83K7FG-it'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

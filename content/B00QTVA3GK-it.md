@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QTVA3GK-it Kappa Polo Uomo Peleot Blu Navy M'
+sku: 'B00QTVA3GK-it'
 tags: [  ]
 actualPrice: 9.84 EUR
 currency: EUR

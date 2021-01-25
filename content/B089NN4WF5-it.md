@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NN4WF5-it Neewer 8” Luce LED Anulare da Selfie con Treppiedi 3...'
+sku: 'B089NN4WF5-it'
 tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR

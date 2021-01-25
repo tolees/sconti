@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TZ73MW-it Kipling City Pack S - Zaini Donna Nero True Black...'
+sku: 'B077TZ73MW-it'
 tags: [  ]
 actualPrice: 65.3 EUR
 currency: EUR

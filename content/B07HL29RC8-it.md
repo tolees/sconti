@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL29RC8-it Amazon Essentials - Confezione da 3 camicie da notte per...'
+sku: 'B07HL29RC8-it'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

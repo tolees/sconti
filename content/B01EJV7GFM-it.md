@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EJV7GFM-it Omino Bianco - IdroCaps Detersivo in Dosi con Ammorbidente...'
+sku: 'B01EJV7GFM-it'
 tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3M6JCN-it INTEY Porte da Calcio 2 Pezzi Gabbia di Calcio Bambino Pop...'
+sku: 'B08D3M6JCN-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

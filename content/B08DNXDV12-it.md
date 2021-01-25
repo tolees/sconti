@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNXDV12-it RIIMUHIR Tempered Glass Screen Protector for Xiaomi Mi...'
+sku: 'B08DNXDV12-it'
 tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR

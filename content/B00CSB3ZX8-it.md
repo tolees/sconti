@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSB3ZX8-it Laken Thermo Classic Bottiglia d Acqua Isolamento...'
+sku: 'B00CSB3ZX8-it'
 tags: [  ]
 actualPrice: 12.87 EUR
 currency: EUR

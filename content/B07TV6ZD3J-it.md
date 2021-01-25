@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV6ZD3J-it Levi s Graphic Po Hoodie-B Felpa Rosso HM Ssnl Tonal Pop...'
+sku: 'B07TV6ZD3J-it'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

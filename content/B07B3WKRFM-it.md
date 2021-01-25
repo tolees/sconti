@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3WKRFM-it Polaroid Eyewear PLD 2062/S Occhiali da Sole Matt HVNA 50...'
+sku: 'B07B3WKRFM-it'
 tags: [  ]
 actualPrice: 35.02 EUR
 currency: EUR

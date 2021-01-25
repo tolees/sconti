@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BC5ZTF1-it VBIGER Guanti Invernali Caldi per Bambini Guanti da...'
+sku: 'B08BC5ZTF1-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KKYCGK-it Ticpods 2 Auricolari Wireless Rilevazione nell’Orecchio...'
+sku: 'B082KKYCGK-it'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

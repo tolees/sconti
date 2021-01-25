@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EYQW7QU-it Bilboa Carrot Plus Latte Spf 6-200 ml'
+sku: 'B01EYQW7QU-it'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

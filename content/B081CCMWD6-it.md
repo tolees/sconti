@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CCMWD6-it DADYPET Giocattolo per Gatti Automatico Giocattolo per...'
+sku: 'B081CCMWD6-it'
 tags: [  ]
 actualPrice: 29.88 EUR
 currency: EUR

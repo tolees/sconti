@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFYK7ND-it Tablet 10 Pollici con Wifi Offerte RAM da 3GB 32GB ROM...'
+sku: 'B07YFYK7ND-it'
 tags: [  ]
 actualPrice: 87.98 EUR
 currency: EUR

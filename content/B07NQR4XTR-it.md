@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQR4XTR-it Dixan Duo Caps- Detersivo Pre Dosato in Capsule - 30 Caps'
+sku: 'B07NQR4XTR-it'
 tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR

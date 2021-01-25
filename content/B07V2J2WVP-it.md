@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J2WVP-it Tommy Hilfiger Nautical Print Beach Sandal Punta Aperta...'
+sku: 'B07V2J2WVP-it'
 tags: [  ]
 actualPrice: 23.63 EUR
 currency: EUR

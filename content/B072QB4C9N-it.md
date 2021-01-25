@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QB4C9N-it VINCITORE 06/20* BIO Siero Viso all’Acido Ialuronico Puro...'
+sku: 'B072QB4C9N-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

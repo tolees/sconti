@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H1HYVGG-it Cuffie da Gioco per PS4 Cuffie Gaming con 3.5mm Jack LED...'
+sku: 'B07H1HYVGG-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

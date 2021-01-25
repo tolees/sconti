@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RB54SP-it Hotroad Maschera per la Bocca alla Moda Unisex...'
+sku: 'B085RB54SP-it'
 tags: [  ]
 actualPrice: 3.7 EUR
 currency: EUR

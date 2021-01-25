@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1L62LB-it Diadora - Sneakers Camaro per Uomo e Donna EU 38.5'
+sku: 'B07L1L62LB-it'
 tags: [  ]
 actualPrice: 29.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055R2CKO-it Sodastream 1047200490 Caraffe in vetro per gasatore d...'
+sku: 'B0055R2CKO-it'
 tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR

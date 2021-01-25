@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5X3VS8-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa Verde...'
+sku: 'B07C5X3VS8-it'
 tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR

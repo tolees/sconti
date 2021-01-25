@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0084YKLXA-it Gillette Fusion ProGlide Styler Rasoio Regolabarba 3 in 1...'
+sku: 'B0084YKLXA-it'
 tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR

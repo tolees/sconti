@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBZ8Z94-it American Tourister Disney Legends - Spinner S Valigia per...'
+sku: 'B07PBZ8Z94-it'
 tags: [  ]
 actualPrice: 57.61 EUR
 currency: EUR

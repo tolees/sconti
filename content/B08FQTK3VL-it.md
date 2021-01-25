@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FQTK3VL-it eXtremeRate Multicolori Pulsanti Luminosi Levette...'
+sku: 'B08FQTK3VL-it'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

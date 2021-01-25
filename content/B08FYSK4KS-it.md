@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FYSK4KS-it NGFF M.2 nVME - Scheda adattatore SSD per MacBook Air...'
+sku: 'B08FYSK4KS-it'
 tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR

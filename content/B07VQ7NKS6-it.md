@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQ7NKS6-it Cuffie per giochi per PS4 Cuffie per giocatori a LED blu...'
+sku: 'B07VQ7NKS6-it'
 tags: [  ]
 actualPrice: 24.64 EUR
 currency: EUR

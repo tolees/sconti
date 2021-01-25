@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076TVLK7R-it Fruit of the Loom Original T. T-Shirt Uomo Bianco White 30...'
+sku: 'B076TVLK7R-it'
 tags: [  ]
 actualPrice: 12.91 EUR
 currency: EUR

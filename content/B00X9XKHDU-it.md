@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9XKHDU-it Maybelline New York Ciglia Sensazionali Mascara...'
+sku: 'B00X9XKHDU-it'
 tags: [  ]
 actualPrice: 7.4 EUR
 currency: EUR

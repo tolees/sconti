@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0896WS3TH-it Wimypet Giochi per Cani durevoli Giocattolo Palla per Cane...'
+sku: 'B0896WS3TH-it'
 tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR

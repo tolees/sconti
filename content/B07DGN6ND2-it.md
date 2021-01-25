@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGN6ND2-it Timberland 6 in Double Collar Waterproof Stivali Classici...'
+sku: 'B07DGN6ND2-it'
 tags: [  ]
 actualPrice: 71.47 EUR
 currency: EUR

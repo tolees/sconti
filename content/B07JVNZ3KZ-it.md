@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVNZ3KZ-it Evergreenweb - Brandina Pieghevole con Materasso Memory...'
+sku: 'B07JVNZ3KZ-it'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

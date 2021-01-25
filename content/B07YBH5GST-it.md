@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBH5GST-it Vans Colorblock Tee T-Shirt Multicolore Sulphur...'
+sku: 'B07YBH5GST-it'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

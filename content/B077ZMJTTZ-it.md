@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZMJTTZ-it Diadora - Sneakers B. Elite per Uomo e Donna EU 40.5'
+sku: 'B077ZMJTTZ-it'
 tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR

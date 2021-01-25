@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NIDY9ZS-it PowerWalker VI 850SE LCD / IEC UPS 850 VA 4 AC AC...'
+sku: 'B00NIDY9ZS-it'
 tags: [  ]
 actualPrice: 64.98 EUR
 currency: EUR

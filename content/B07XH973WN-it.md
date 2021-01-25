@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XH973WN-it Giochi Preziosi Pinypon Action Stazione di Polizia con 2...'
+sku: 'B07XH973WN-it'
 tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR

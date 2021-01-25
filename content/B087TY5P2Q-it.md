@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TY5P2Q-it Oclean X Spazzolino elettrico Touchscreen a colori 2 ore...'
+sku: 'B087TY5P2Q-it'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

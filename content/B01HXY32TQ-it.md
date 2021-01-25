@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HXY32TQ-it Procos Pinata Lovely Minions Multicolore 10116999'
+sku: 'B01HXY32TQ-it'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

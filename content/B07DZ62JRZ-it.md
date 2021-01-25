@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZ62JRZ-it HP - Gaming Omen 400 Mouse Gaming 6 Tasti Programmabili...'
+sku: 'B07DZ62JRZ-it'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

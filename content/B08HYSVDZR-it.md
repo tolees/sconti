@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HYSVDZR-it Entweg Termometro Termometro Frontale Senza Contatto...'
+sku: 'B08HYSVDZR-it'
 tags: [  ]
 actualPrice: 7.63 EUR
 currency: EUR

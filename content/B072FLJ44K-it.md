@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FLJ44K-it PUMA Active Brief 2p Packed Intimo Sportivo Grigio Grey...'
+sku: 'B072FLJ44K-it'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

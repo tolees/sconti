@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078W8BBFK-it TIPPY PAD dispositivo anti abbandono'
+sku: 'B078W8BBFK-it'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

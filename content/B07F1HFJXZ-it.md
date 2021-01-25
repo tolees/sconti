@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1HFJXZ-it Havaianas Slim Crystal Glamour SW Infradito Donna Bianco...'
+sku: 'B07F1HFJXZ-it'
 tags: [  ]
 actualPrice: 25.52 EUR
 currency: EUR

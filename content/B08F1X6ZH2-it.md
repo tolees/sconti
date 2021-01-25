@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F1X6ZH2-it Xiaomi Redmi Airdots 2 Timoom Cuffie Bluetooth 5.0...'
+sku: 'B08F1X6ZH2-it'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

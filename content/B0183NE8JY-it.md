@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0183NE8JY-it Jivo Technology-Kit di parti GoGear Xtra-Spare per GoPro'
+sku: 'B0183NE8JY-it'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

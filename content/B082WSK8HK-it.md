@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WSK8HK-it amzdeal Pietra per Pizza con Spatola e Ricetta in Legno...'
+sku: 'B082WSK8HK-it'
 tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR

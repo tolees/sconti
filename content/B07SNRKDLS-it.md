@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNRKDLS-it DFNT Spray antizanzare per Ambienti Repellente zanzare...'
+sku: 'B07SNRKDLS-it'
 tags: [  ]
 actualPrice: 15.92 EUR
 currency: EUR

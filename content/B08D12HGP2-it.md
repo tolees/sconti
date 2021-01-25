@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D12HGP2-it Fitness Tracker + Smart Watch Vincitore 2020 | Contatore...'
+sku: 'B08D12HGP2-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

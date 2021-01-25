@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD3CJCB-it Calvin Klein Washed Stripe Stretch Shirt f Camicia Blu...'
+sku: 'B07VD3CJCB-it'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

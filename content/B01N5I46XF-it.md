@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5I46XF-it Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control...'
+sku: 'B01N5I46XF-it'
 tags: [  ]
 actualPrice: 335.36 EUR
 currency: EUR

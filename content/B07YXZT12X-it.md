@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXZT12X-it HUAWEI Freebuds 3 Auricolare Bluetooth Bianco'
+sku: 'B07YXZT12X-it'
 tags: [  ]
 actualPrice: 117.7 EUR
 currency: EUR

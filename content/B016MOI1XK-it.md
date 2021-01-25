@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016MOI1XK-it Anker Altoparlante Bluetooth Soundcore Speaker Portatile...'
+sku: 'B016MOI1XK-it'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

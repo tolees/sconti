@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPCZ7D-it KiplingIaka L WristletDonnaPortamoneteMulticolore Speckled...'
+sku: 'B07TTPCZ7D-it'
 tags: [  ]
 actualPrice: 15.64 EUR
 currency: EUR

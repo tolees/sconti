@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VJ5NRY-it Cassa Bluetooth Portatile 20W Motast Speaker Bluetooth...'
+sku: 'B084VJ5NRY-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

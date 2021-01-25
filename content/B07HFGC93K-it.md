@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFGC93K-it Only onlSKY Reg DNM Skirt BB PIM992 Noos Gonna Blu Light...'
+sku: 'B07HFGC93K-it'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

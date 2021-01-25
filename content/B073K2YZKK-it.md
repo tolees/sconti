@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073K2YZKK-it Casio Orologio Analogico Quarzo Uomo con Cinturino in...'
+sku: 'B073K2YZKK-it'
 tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR

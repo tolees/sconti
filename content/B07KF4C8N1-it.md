@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4C8N1-it Levi s HR Decon Iconic BF Skirt Gonna Blu Meer in The...'
+sku: 'B07KF4C8N1-it'
 tags: [  ]
 actualPrice: 21.89 EUR
 currency: EUR

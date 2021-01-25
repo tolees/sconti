@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSTKJ4Z-it Oral-B Pro 2 2500 Spazzolino Elettrico Ricaricabile 1...'
+sku: 'B07FSTKJ4Z-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

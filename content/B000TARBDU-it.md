@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000TARBDU-it Pyrex Essentials Tegame Rettangolare 40x27cm'
+sku: 'B000TARBDU-it'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

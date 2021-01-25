@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2BCPRY-it Android 9.0 TV BOX TaNix 2 GB RAM 16 GB ROM Amlogic Quad-...'
+sku: 'B07D2BCPRY-it'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

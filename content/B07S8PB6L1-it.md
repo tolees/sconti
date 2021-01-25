@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PB6L1-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Unisex-Adulto...'
+sku: 'B07S8PB6L1-it'
 tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR

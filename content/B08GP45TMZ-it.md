@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GP45TMZ-it Cuffie Wireless TV con Trasmissione Senza Fili Cuffia con...'
+sku: 'B08GP45TMZ-it'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BCBQRT-it Grsta Bottiglia per Acqua in Acciaio Inox Borraccia...'
+sku: 'B083BCBQRT-it'
 tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR

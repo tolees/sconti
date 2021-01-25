@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FCNDMNN-it Ankermann BRIX NUC 15-Watt Mini Office Work PC 8GB RAM 480...'
+sku: 'B08FCNDMNN-it'
 tags: [  ]
 actualPrice: 459.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCFTFMN-it Entweg BT Auricolari 5.0 Batteria Display Auricolare...'
+sku: 'B08DCFTFMN-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

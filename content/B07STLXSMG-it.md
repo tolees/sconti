@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLXSMG-it Geox D PONTOISE D Scarpe da Ginnastica Basse Donna Nero...'
+sku: 'B07STLXSMG-it'
 tags: [  ]
 actualPrice: 45.52 EUR
 currency: EUR

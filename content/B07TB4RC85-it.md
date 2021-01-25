@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB4RC85-it Avvitatore ad Impulsi TECCPO 350Nm Avvitatori a Massa...'
+sku: 'B07TB4RC85-it'
 tags: [  ]
 actualPrice: 129.98 EUR
 currency: EUR

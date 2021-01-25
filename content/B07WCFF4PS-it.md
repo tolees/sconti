@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCFF4PS-it Az Ricerca Dentifricio Pro-Expert Prevenzione Superiore 3...'
+sku: 'B07WCFF4PS-it'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

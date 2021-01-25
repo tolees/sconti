@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF663SN-it Levi s HR Decon Iconic BF Skirt Gonna Nero Left Behind...'
+sku: 'B07KF663SN-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

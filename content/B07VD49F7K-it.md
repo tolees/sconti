@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD49F7K-it Calvin Klein Nylon Harrington Giacca Sportiva Nero CK...'
+sku: 'B07VD49F7K-it'
 tags: [  ]
 actualPrice: 58.4 EUR
 currency: EUR

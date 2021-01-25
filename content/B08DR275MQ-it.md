@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DR275MQ-it Rybozen Audio Video Scheda di acquisizione HDMI con Loop...'
+sku: 'B08DR275MQ-it'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

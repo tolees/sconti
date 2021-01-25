@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T49HPXX-it Rimila Auto telecomandata 4WD Macchina Telecomandata Stunt...'
+sku: 'B07T49HPXX-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

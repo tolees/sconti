@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYLX9WZ-it Birkenstock Arizona Sandali a Punta Aperta Donna Nero...'
+sku: 'B07MYLX9WZ-it'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

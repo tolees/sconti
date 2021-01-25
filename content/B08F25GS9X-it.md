@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F25GS9X-it UniqueMe [3 Pack] Pellicola Protettiva per Xiaomi Mi Note...'
+sku: 'B08F25GS9X-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

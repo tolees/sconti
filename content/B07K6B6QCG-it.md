@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6B6QCG-it DADYPET Fontanella per Gatti Fontana per Cani e Gatti...'
+sku: 'B07K6B6QCG-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

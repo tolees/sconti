@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWSLZHN-it Electrolux Lavastoviglie EEA 17100 L - Lavastoviglie da...'
+sku: 'B07TWSLZHN-it'
 tags: [  ]
 actualPrice: 333.18 EUR
 currency: EUR

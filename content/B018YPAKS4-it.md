@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018YPAKS4-it Bosch Professional Smerigliatrice Angolare GWS 7-125 Ø...'
+sku: 'B018YPAKS4-it'
 tags: [  ]
 actualPrice: 45.38 EUR
 currency: EUR

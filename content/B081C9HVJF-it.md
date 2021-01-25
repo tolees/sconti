@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081C9HVJF-it 10.1 Tablet Android 7.0 Nougat Slot per schede Dual SIM...'
+sku: 'B081C9HVJF-it'
 tags: [  ]
 actualPrice: 53.23 EUR
 currency: EUR

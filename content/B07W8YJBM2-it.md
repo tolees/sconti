@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8YJBM2-it LEGO Minecraft L Incursione della Bestia Set di...'
+sku: 'B07W8YJBM2-it'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

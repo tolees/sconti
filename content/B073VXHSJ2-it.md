@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VXHSJ2-it Havaianas Slim 4000030 Infradito Donna Giallo Banana...'
+sku: 'B073VXHSJ2-it'
 tags: [  ]
 actualPrice: 20.8 EUR
 currency: EUR

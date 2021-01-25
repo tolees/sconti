@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYWVCLN-it Massaggiatore Plantare Massaggio Piedi - Tecnologia SME...'
+sku: 'B07VYWVCLN-it'
 tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR

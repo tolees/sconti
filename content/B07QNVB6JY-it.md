@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNVB6JY-it Set da Bagno o Doccia Donna Regali in 8 Pezzi Bagnoschiuma...'
+sku: 'B07QNVB6JY-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

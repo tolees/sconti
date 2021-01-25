@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JYG8J1-it OMEN by HP Omen 800 Cuffia Gaming con Microfono Regolabile...'
+sku: 'B072JYG8J1-it'
 tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR

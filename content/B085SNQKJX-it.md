@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085SNQKJX-it Neutro Roberts Sapone Liquido Antibatterico Bipacco 2x6...'
+sku: 'B085SNQKJX-it'
 tags: [  ]
 actualPrice: 7.08 EUR
 currency: EUR

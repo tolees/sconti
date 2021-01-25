@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E4KZ6C4-it Autan Tropical Spray Secco Insetto Repellente e...'
+sku: 'B00E4KZ6C4-it'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

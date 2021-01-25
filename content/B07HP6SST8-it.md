@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP6SST8-it Hoover AXI AWDPD 4138LH/1-S Steel'
+sku: 'B07HP6SST8-it'
 tags: [  ]
 actualPrice: 659.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UCUJDVU-it Samsung Galaxy A51 Smartphone Display 6.5" Super AMOLED 4...'
+sku: 'B00UCUJDVU-it'
 tags: [  ]
 actualPrice: 260.0 EUR
 currency: EUR

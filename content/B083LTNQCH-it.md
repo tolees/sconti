@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LTNQCH-it SoundPEATS Auricolari Wireless TrueCapsule Nuova Versione...'
+sku: 'B083LTNQCH-it'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

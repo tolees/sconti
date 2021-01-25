@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X63LCXL-it STARBUCKS HOUSE BLEND Caffè macinato dalla tostatura media...'
+sku: 'B07X63LCXL-it'
 tags: [  ]
 actualPrice: 11.94 EUR
 currency: EUR

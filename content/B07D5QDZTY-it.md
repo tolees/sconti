@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5QDZTY-it GPC Image Cartucce Toner Compatibili per HP CF244A 44A Con...'
+sku: 'B07D5QDZTY-it'
 tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR

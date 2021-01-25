@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9RXC8M-it Canon Italia EOS 4000D + EF-S DC III Fotocamera Reflex...'
+sku: 'B07B9RXC8M-it'
 tags: [  ]
 actualPrice: 339.0 EUR
 currency: EUR

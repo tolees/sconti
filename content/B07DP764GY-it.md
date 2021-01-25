@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP764GY-it Eastpak Tranverz M Valigia 67 cm 78 L Blu Triple Denim'
+sku: 'B07DP764GY-it'
 tags: [  ]
 actualPrice: 89.95 EUR
 currency: EUR

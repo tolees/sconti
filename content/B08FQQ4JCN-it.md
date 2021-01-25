@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FQQ4JCN-it eXtremeRate DTFS LED Kit Pulsanti Luminosi Multicolori...'
+sku: 'B08FQQ4JCN-it'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

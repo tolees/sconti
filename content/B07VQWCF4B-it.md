@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQWCF4B-it Calvin Klein Medium Drawstring Pantaloncini Blu Air Blue...'
+sku: 'B07VQWCF4B-it'
 tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR

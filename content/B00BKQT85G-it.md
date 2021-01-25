@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKQT85G-it Daniel Wellington Analogico Quarzo Giapponese Orologio da...'
+sku: 'B00BKQT85G-it'
 tags: [  ]
 actualPrice: 56.65 EUR
 currency: EUR

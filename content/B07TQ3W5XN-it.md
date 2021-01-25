@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ3W5XN-it Clarks Step Allena Go Scarpe da Ginnastica Basse Donna...'
+sku: 'B07TQ3W5XN-it'
 tags: [  ]
 actualPrice: 35.2 EUR
 currency: EUR

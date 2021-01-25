@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK98LL6-it riverso - Pantaloncini Cargo da Uomo RIVAnton con Cintura...'
+sku: 'B07RK98LL6-it'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

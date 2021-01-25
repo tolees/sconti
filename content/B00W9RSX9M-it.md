@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W9RSX9M-it Calvin Klein underwear - RADIANT COTTON - BIKINI Intimo da...'
+sku: 'B00W9RSX9M-it'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0EZ4YA-it Skyrim - Special Edition'
+sku: 'B01H0EZ4YA-it'
 tags: [  ]
 actualPrice: 17.93 EUR
 currency: EUR

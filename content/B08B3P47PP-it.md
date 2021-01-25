@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3P47PP-it etguuds Cavo USB C Corto [ 30cm/0.3m 2Pezzi ] Ricarica...'
+sku: 'B08B3P47PP-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

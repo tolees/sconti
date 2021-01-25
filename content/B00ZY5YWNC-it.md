@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZY5YWNC-it RoC Doposole 200 ml'
+sku: 'B00ZY5YWNC-it'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

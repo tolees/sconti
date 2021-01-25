@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YBY3SQY-it Maybelline New York Classic Volum Express Mascara Volume...'
+sku: 'B00YBY3SQY-it'
 tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR

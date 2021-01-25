@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKGQ6WN-it Carioca Roller Birello | Astuccio Giallo con Pennarelli...'
+sku: 'B07VKGQ6WN-it'
 tags: [  ]
 actualPrice: 13.12 EUR
 currency: EUR

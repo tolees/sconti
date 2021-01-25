@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RML11PB-it L.O.L Surprise! - LOL Sparkle con Sorprese e Accessori -...'
+sku: 'B07RML11PB-it'
 tags: [  ]
 actualPrice: 15.8 EUR
 currency: EUR

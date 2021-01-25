@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G47NT1U-it Vero Moda - Maglietta Colletto Tondo Manica Corta Donna...'
+sku: 'B00G47NT1U-it'
 tags: [  ]
 actualPrice: 12.43 EUR
 currency: EUR

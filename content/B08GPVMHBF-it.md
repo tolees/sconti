@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GPVMHBF-it UniqueMe [2+2 Pezzi Pellicola Protettiva per xiaomi Mi...'
+sku: 'B08GPVMHBF-it'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

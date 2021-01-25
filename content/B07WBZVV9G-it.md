@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBZVV9G-it Joop! Cortina Tea Handbag ShzDonnaBorsa a manoRosa Rose...'
+sku: 'B07WBZVV9G-it'
 tags: [  ]
 actualPrice: 94.83 EUR
 currency: EUR

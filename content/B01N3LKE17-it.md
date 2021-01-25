@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3LKE17-it Aigostar Lampadina LED E27 6W Luce Bianca Fredda 6400K 500...'
+sku: 'B01N3LKE17-it'
 tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR

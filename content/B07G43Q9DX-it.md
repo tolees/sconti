@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G43Q9DX-it Tommy Hilfiger Orologio Multi-quadrante Quarzo Uomo con...'
+sku: 'B07G43Q9DX-it'
 tags: [  ]
 actualPrice: 116.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYHN68L-it SanDisk Extreme Pro Scheda di Memoria microSDHC da 32 GB e...'
+sku: 'B06XYHN68L-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

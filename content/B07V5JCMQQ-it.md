@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5JCMQQ-it PS4 Joystick Controller PS4 Wireless Controller Dualshock...'
+sku: 'B07V5JCMQQ-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

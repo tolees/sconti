@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0888BML8X-it Auricolari Bluetooth Cuffie Bluetooth Senza Fili Wireless...'
+sku: 'B0888BML8X-it'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T6RZWX-it Tommy Hilfiger Essential TH Beach Sandal Infradito Uomo...'
+sku: 'B078T6RZWX-it'
 tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR

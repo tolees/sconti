@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813S5PTZ-it adidas Continental 80 Scarpe da Ginnastica Uomo Crystal...'
+sku: 'B0813S5PTZ-it'
 tags: [  ]
 actualPrice: 51.95 EUR
 currency: EUR

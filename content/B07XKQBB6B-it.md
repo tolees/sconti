@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKQBB6B-it Chiave del prodotto Office Professional Plus 2019 a 32/64...'
+sku: 'B07XKQBB6B-it'
 tags: [  ]
 actualPrice: 5.89 EUR
 currency: EUR

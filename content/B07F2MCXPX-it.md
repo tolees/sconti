@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2MCXPX-it Vans Left Chest Logo Tee T-Shirt Uomo Nero Black White...'
+sku: 'B07F2MCXPX-it'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JM1PLYC-it [2+3 pezzi] UniqueMe Vetro Temperato per Xiaomi Poco X3...'
+sku: 'B08JM1PLYC-it'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

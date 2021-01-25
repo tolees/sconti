@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVRPKZL-it G-Color Supporto per PC Portatile Angolazione Regolabile...'
+sku: 'B07ZVRPKZL-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

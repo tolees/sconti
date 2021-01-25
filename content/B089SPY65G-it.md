@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SPY65G-it MOSFiATA Set di Attrezzi da Giardino Kit di Attrezzi da...'
+sku: 'B089SPY65G-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

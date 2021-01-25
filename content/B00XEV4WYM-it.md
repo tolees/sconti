@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XEV4WYM-it Silent Mind ~ Campana Tibetana con Accessori ~ Modello...'
+sku: 'B00XEV4WYM-it'
 tags: [  ]
 actualPrice: 22.33 EUR
 currency: EUR

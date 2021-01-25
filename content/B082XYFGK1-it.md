@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XYFGK1-it Smartwatch Donna Uomo GOKOO Impermeabile Orologio...'
+sku: 'B082XYFGK1-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

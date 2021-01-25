@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086L1ZZZV-it Aigostar Otto 30RYH - Macinacaffè elettrico potente lama...'
+sku: 'B086L1ZZZV-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

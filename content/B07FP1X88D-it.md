@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP1X88D-it LEGO Movie 2 - La scatola "costruisci quello che vuoi"...'
+sku: 'B07FP1X88D-it'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

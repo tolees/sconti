@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HPCY5F-it adidas Condivo 18 Jacket Giacca Uomo Blu Blu...'
+sku: 'B076HPCY5F-it'
 tags: [  ]
 actualPrice: 29.2 EUR
 currency: EUR

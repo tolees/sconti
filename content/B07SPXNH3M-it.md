@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPXNH3M-it Lacoste Chaymon 120 1 CMA Sneaker Uomo Bianco Wht/Grn 082...'
+sku: 'B07SPXNH3M-it'
 tags: [  ]
 actualPrice: 70.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KZJVETM-it easypix Aquapix W1400 Active'
+sku: 'B00KZJVETM-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

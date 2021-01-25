@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DAGWUZ4-it Pasante Profilattici Extra Sensitive 144 Pezzi'
+sku: 'B00DAGWUZ4-it'
 tags: [  ]
 actualPrice: 18.61 EUR
 currency: EUR

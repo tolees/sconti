@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073BW4MMP-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Blue...'
+sku: 'B073BW4MMP-it'
 tags: [  ]
 actualPrice: 51.44 EUR
 currency: EUR

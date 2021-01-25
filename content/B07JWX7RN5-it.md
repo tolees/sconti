@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWX7RN5-it Lacoste Th3377 T-Shirt Bianco Blanc/Noir Au8 Medium Taglia...'
+sku: 'B07JWX7RN5-it'
 tags: [  ]
 actualPrice: 27.45 EUR
 currency: EUR

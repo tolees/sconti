@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084CTVV9W-it Avvitatore a Batteria 45Nm Trapano Avvitatore 18V 180Nm...'
+sku: 'B084CTVV9W-it'
 tags: [  ]
 actualPrice: 129.97 EUR
 currency: EUR

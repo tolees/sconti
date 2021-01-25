@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NTMZ6-it PUMA Smash Wns v2 L Scarpe da Ginnastica Donna Bianca...'
+sku: 'B07S6NTMZ6-it'
 tags: [  ]
 actualPrice: 37.55 EUR
 currency: EUR

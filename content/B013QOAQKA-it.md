@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013QOAQKA-it CAMTOA Portatile Impermeabile Busta Sacco a Pelo Ultra...'
+sku: 'B013QOAQKA-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

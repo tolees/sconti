@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5HN88W-it Xiaomi - Ripetitore di rete WiFi WiFi Extender di...'
+sku: 'B07W5HN88W-it'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2HLPFF-it Motorola Moto Z3 Play Smartphone Android 9 Pie Display...'
+sku: 'B07D2HLPFF-it'
 tags: [  ]
 actualPrice: 394.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP4FRB3-it Havaianas Urban Basic Ii Infradito Uomo Nero Black 0090...'
+sku: 'B07SP4FRB3-it'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073Q6JYPL-it Saucony Jazz Original Vintage Sneakers Uomo Blue Navy...'
+sku: 'B073Q6JYPL-it'
 tags: [  ]
 actualPrice: 48.2 EUR
 currency: EUR

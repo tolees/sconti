@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J31WCRC-it Under Armour Undeniable Duffel 4.0 LG Borsa Unisex Blu...'
+sku: 'B07J31WCRC-it'
 tags: [  ]
 actualPrice: 25.71 EUR
 currency: EUR

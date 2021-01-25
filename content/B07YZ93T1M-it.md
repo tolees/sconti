@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZ93T1M-it Oxford Street Cuscino Cervicale Memory Foam Cuscini...'
+sku: 'B07YZ93T1M-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

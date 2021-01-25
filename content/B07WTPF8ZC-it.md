@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTPF8ZC-it Simple Modern Wanderer Zaino Donna Uomo o Bambini con...'
+sku: 'B07WTPF8ZC-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A0VCJPI-it TP-Link TL-WA850RE Ripetitore Wireless Wifi Extender e...'
+sku: 'B00A0VCJPI-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

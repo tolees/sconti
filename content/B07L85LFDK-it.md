@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L85LFDK-it HuaNuo Supporto per Laptop con Cuscino su Letto & Divano...'
+sku: 'B07L85LFDK-it'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY9HV49-it B.Catcher Collana con pendenti gemelli in zircone cubico...'
+sku: 'B01MY9HV49-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWTG2YT-it Wrangler SS Logo Tee T-Shirt Rosso Formula Red XWO X-Small...'
+sku: 'B07TWTG2YT-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

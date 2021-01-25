@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813WXJTN-it adidas Lite Racer 2.0 Scarpe da Corsa Uomo Multicolore...'
+sku: 'B0813WXJTN-it'
 tags: [  ]
 actualPrice: 32.36 EUR
 currency: EUR

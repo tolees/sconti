@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084KTTGTQ-it Bosch Home and Garden 0600833300 Cesoie da giardinaggio'
+sku: 'B084KTTGTQ-it'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDFSMXJ-it The North Face M Quest L/S Maglia a Maniche Corte Uomo Blu...'
+sku: 'B07TDFSMXJ-it'
 tags: [  ]
 actualPrice: 22.93 EUR
 currency: EUR

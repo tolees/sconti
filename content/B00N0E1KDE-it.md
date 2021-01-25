@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N0E1KDE-it Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0 Micro...'
+sku: 'B00N0E1KDE-it'
 tags: [  ]
 actualPrice: 558.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MF68GX-it GoPetee Tappetino Refrigerante Rinfrescante per Cane Gatto...'
+sku: 'B086MF68GX-it'
 tags: [  ]
 actualPrice: 18.89 EUR
 currency: EUR

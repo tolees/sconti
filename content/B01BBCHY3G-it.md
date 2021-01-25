@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BBCHY3G-it Soozier HOMCOM Tapis Roulant Elettrico con Schermo LCD...'
+sku: 'B01BBCHY3G-it'
 tags: [  ]
 actualPrice: 207.96 EUR
 currency: EUR

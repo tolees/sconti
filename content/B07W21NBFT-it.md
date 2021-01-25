@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W21NBFT-it Plafoniera LED Soffitto Moderna Faretti a LED per interni...'
+sku: 'B07W21NBFT-it'
 tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR

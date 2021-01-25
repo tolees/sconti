@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085M2K4ZM-it Motorola Moto G8 Power Lite Batteria 5000 mAh Tripla...'
+sku: 'B085M2K4ZM-it'
 tags: [  ]
 actualPrice: 155.0 EUR
 currency: EUR

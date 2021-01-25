@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZSV1JJ-it Retevis RT628B Walkie Talkie Bambini Ricetrasmittenti...'
+sku: 'B085ZSV1JJ-it'
 tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR

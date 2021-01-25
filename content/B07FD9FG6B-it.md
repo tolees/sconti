@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FD9FG6B-it Orient Orologio Analogico Automatico Uomo con Cinturino in...'
+sku: 'B07FD9FG6B-it'
 tags: [  ]
 actualPrice: 113.0 EUR
 currency: EUR

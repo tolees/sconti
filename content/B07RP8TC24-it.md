@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP8TC24-it Oral-B Kids Spazzolino Elettrico Ricaricabile 1 Manico con...'
+sku: 'B07RP8TC24-it'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

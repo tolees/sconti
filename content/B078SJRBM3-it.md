@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SJRBM3-it Santa Teresa 1796 Rum Ambrato Scuro 700 ml'
+sku: 'B078SJRBM3-it'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

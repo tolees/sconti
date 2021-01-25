@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074V44RLN-it YAMAY Smartwatch Braccialetto Fitness Activity Tracker...'
+sku: 'B074V44RLN-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

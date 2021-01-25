@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GAYQJ0-it Casio Vintage A158WA-1CR - Orologio da Polso Digitale Argento'
+sku: 'B000GAYQJ0-it'
 tags: [  ]
 actualPrice: 21.5 EUR
 currency: EUR

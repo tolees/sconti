@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7CP1Q5-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Black...'
+sku: 'B07F7CP1Q5-it'
 tags: [  ]
 actualPrice: 45.09 EUR
 currency: EUR

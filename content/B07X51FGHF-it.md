@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X51FGHF-it Eastpak Springer Marsupio portasoldi 23 cm 2 L Nero...'
+sku: 'B07X51FGHF-it'
 tags: [  ]
 actualPrice: 16.2 EUR
 currency: EUR

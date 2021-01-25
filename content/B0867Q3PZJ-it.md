@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0867Q3PZJ-it StillCool Dispenser per sapone da 700 ml con sensore...'
+sku: 'B0867Q3PZJ-it'
 tags: [  ]
 actualPrice: 12.52 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085Y6SLNR-it FlowerDas Termometro Frontale Letture istantanee Accurate...'
+sku: 'B085Y6SLNR-it'
 tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR

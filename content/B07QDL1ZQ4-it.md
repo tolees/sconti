@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDL1ZQ4-it Spazzolino Elettrici Sonic con 6 Modalità Opzionali 3...'
+sku: 'B07QDL1ZQ4-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

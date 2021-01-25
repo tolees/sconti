@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8XQ9VW-it Coltello Santoku MOSFiATA 7 "con protezione dita e...'
+sku: 'B07T8XQ9VW-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

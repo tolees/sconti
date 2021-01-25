@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013BTPZ6K-it Hauck Duett 2 Passeggino Doppio - Fratelli Età Diversa...'
+sku: 'B013BTPZ6K-it'
 tags: [  ]
 actualPrice: 299.74 EUR
 currency: EUR

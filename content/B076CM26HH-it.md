@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CM26HH-it Britax Römer seggiolino auto da 9 mesi a 12 anni 9-36 Kg...'
+sku: 'B076CM26HH-it'
 tags: [  ]
 actualPrice: 171.55 EUR
 currency: EUR

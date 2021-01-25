@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KDBC1L7-it Echo Show 5 – Resta sempre in contatto con l aiuto di...'
+sku: 'B07KDBC1L7-it'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L75PLGL-it GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina...'
+sku: 'B07L75PLGL-it'
 tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR

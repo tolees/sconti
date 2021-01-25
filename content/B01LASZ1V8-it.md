@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LASZ1V8-it Pacific Rim 4K Ultra HD + Blu-Ray'
+sku: 'B01LASZ1V8-it'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

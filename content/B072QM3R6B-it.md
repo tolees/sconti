@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QM3R6B-it Monster Hunter: World UK'
+sku: 'B072QM3R6B-it'
 tags: [  ]
 actualPrice: 26.69 EUR
 currency: EUR

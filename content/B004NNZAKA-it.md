@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004NNZAKA-it My.Size - Profilattici 69 mm 36 pezzi'
+sku: 'B004NNZAKA-it'
 tags: [  ]
 actualPrice: 3.92 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K8FZVCV-it eXtremeRate Soft Grip Cover Frontale Custodia Scocca Case...'
+sku: 'B08K8FZVCV-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

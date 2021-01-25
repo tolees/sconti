@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDRL37H-it Olimpia Splendid 01914 Dolceclima Compact 9 P...'
+sku: 'B07NDRL37H-it'
 tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR

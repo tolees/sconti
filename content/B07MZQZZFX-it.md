@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQZZFX-it Vans Doheny Scarpe da Ginnastica Uomo Checkerboard Black...'
+sku: 'B07MZQZZFX-it'
 tags: [  ]
 actualPrice: 38.16 EUR
 currency: EUR

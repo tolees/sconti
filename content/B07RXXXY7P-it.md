@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXXXY7P-it Pepe Jeans Sue Giacca in Jeans Nero Archive Black Used 000...'
+sku: 'B07RXXXY7P-it'
 tags: [  ]
 actualPrice: 23.76 EUR
 currency: EUR

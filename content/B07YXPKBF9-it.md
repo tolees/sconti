@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXPKBF9-it HOMIEE Zaino da Trekking 45 Litri Resistente all Acqua...'
+sku: 'B07YXPKBF9-it'
 tags: [  ]
 actualPrice: 21.66 EUR
 currency: EUR

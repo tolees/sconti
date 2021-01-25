@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T5PFW7F-it Timberland Boroughs Project Mixed Super Oxford Sneaker...'
+sku: 'B07T5PFW7F-it'
 tags: [  ]
 actualPrice: 62.85 EUR
 currency: EUR

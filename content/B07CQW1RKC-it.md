@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQW1RKC-it Drone GPS Con Motore Brushless Potensic Drone D80 WIFI Con...'
+sku: 'B07CQW1RKC-it'
 tags: [  ]
 actualPrice: 178.49 EUR
 currency: EUR

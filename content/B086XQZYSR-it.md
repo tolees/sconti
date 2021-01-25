@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086XQZYSR-it Kellogg s Choco Krave Cioccolato al Latte - 410 g'
+sku: 'B086XQZYSR-it'
 tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR

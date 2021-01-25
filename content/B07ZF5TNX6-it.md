@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZF5TNX6-it Beautural Ferro da Stiro Verticale Stiratrice a Vapore...'
+sku: 'B07ZF5TNX6-it'
 tags: [  ]
 actualPrice: 26.39 EUR
 currency: EUR

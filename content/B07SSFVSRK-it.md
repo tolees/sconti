@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSFVSRK-it GRIFEMA COMPLENTO-G803 Manopola Doccia Grande G1 / 2...'
+sku: 'B07SSFVSRK-it'
 tags: [  ]
 actualPrice: 6.71 EUR
 currency: EUR

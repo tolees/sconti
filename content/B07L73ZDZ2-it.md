@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L73ZDZ2-it AX BOXING Sneakers Uomo Donna Scarpe da Ginnastica...'
+sku: 'B07L73ZDZ2-it'
 tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR

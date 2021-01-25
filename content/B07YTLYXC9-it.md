@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTLYXC9-it Pulsossimetro Bluetooth monitor di saturazione di ossigeno...'
+sku: 'B07YTLYXC9-it'
 tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR

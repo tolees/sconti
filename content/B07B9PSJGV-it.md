@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9PSJGV-it Fitbit Versa Edizione Speciale con Rilevazione del Battito...'
+sku: 'B07B9PSJGV-it'
 tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR

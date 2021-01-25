@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QQ3XX7-it Ashleymade Anello Personalizzato Figlie Madre Anelli in...'
+sku: 'B086QQ3XX7-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

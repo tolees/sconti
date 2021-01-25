@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086Z5SXX5-it FARMAMED Aerosol Nebulizzatore Mesh Silenzioso Portatile...'
+sku: 'B086Z5SXX5-it'
 tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR

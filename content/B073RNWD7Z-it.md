@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNWD7Z-it Columbia SANTIAM 2 Strap Sandali Uomo Grigio Dark Grey...'
+sku: 'B073RNWD7Z-it'
 tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVCLWQX-it 4x Spazzolini da denti in bamboo naturale ecologico l...'
+sku: 'B07PVCLWQX-it'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

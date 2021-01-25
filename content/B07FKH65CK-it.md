@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKH65CK-it find. Slouch Stivaletti Nero Black 38 EU'
+sku: 'B07FKH65CK-it'
 tags: [  ]
 actualPrice: 48.92 EUR
 currency: EUR

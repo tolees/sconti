@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYP4ZHZ-it Crema Termogenica Anticellulite Vovees Reducto Lipocream -...'
+sku: 'B07FYP4ZHZ-it'
 tags: [  ]
 actualPrice: 29.93 EUR
 currency: EUR

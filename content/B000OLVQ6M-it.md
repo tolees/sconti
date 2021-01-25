@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OLVQ6M-it Converse Chuck Taylor All Star Sneakers Unisex - Adulto...'
+sku: 'B000OLVQ6M-it'
 tags: [  ]
 actualPrice: 38.3 EUR
 currency: EUR

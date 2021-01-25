@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG17ZJ7-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Uomo Nero Blk...'
+sku: 'B07KG17ZJ7-it'
 tags: [  ]
 actualPrice: 31.81 EUR
 currency: EUR

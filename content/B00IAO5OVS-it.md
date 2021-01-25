@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IAO5OVS-it Havaianas Flash Urban Sandali Donna Oro Rose Gold 3581...'
+sku: 'B00IAO5OVS-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

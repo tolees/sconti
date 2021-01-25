@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRHZFJ-it Geox U Jaylon E Stivali Classici Uomo Marrone Dk Coffee...'
+sku: 'B07LFRHZFJ-it'
 tags: [  ]
 actualPrice: 39.63 EUR
 currency: EUR

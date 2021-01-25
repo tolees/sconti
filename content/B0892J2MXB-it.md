@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0892J2MXB-it WesKimed Convertitore digitale a analogico adattatore...'
+sku: 'B0892J2MXB-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

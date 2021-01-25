@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNBK93B-it Collana con ciondolo rosa Swarovski zircone gioielli per...'
+sku: 'B07DNBK93B-it'
 tags: [  ]
 actualPrice: 24.02 EUR
 currency: EUR

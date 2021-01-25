@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DBR2S3A-it Clementoni- Banchetto Svita Avvita Gioco per Bambini...'
+sku: 'B01DBR2S3A-it'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

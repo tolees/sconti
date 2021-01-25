@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFWMJV3-it RTP® ● OMEGA 3 + Vit E ● 360 Capsule di Olio di Pesce...'
+sku: 'B07ZFWMJV3-it'
 tags: [  ]
 actualPrice: 17.52 EUR
 currency: EUR

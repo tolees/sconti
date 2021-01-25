@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HDSFPX9-it Libenar Soluzione Fisiologica Flaconcini Isotonici...'
+sku: 'B07HDSFPX9-it'
 tags: [  ]
 actualPrice: 4.48 EUR
 currency: EUR

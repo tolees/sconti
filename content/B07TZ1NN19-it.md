@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ1NN19-it Kipling KiplingTotepackDonnaBorse a secchielloVerde Fro...'
+sku: 'B07TZ1NN19-it'
 tags: [  ]
 actualPrice: 23.3 EUR
 currency: EUR

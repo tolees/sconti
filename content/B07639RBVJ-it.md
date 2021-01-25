@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07639RBVJ-it Swiffer Panni di Ricambio per Scopa Maxi Formato da 120...'
+sku: 'B07639RBVJ-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

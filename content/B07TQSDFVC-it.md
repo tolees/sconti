@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQSDFVC-it Infreecs Mini Ventilatore USB Ventilatore Palmare USB 2 in...'
+sku: 'B07TQSDFVC-it'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

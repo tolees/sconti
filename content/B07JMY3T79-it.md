@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMY3T79-it Timberland Adventure 2.0 Cupsole Alpine Oxford Sneakers...'
+sku: 'B07JMY3T79-it'
 tags: [  ]
 actualPrice: 48.66 EUR
 currency: EUR

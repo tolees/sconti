@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08556TFBG-it Spirits In The Forest'
+sku: 'B08556TFBG-it'
 tags: [  ]
 actualPrice: 20.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZMMDW8-it YAMAY Smartwatch con Saturimetro Misuratore Pressione...'
+sku: 'B08CZMMDW8-it'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084LFG1DW-it Samsung Galaxy S20+ Smartphone 4G Display 6.7" Dynamic...'
+sku: 'B084LFG1DW-it'
 tags: [  ]
 actualPrice: 669.0 EUR
 currency: EUR

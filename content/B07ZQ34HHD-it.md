@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQ34HHD-it Telecamera di Sorveglianza WiFi 1080P Littlelf Telecamera...'
+sku: 'B07ZQ34HHD-it'
 tags: [  ]
 actualPrice: 39.59 EUR
 currency: EUR

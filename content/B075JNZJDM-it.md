@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JNZJDM-it United Colors of Benetton 6HEDUB0A2 Cintura Nero Nero 901...'
+sku: 'B075JNZJDM-it'
 tags: [  ]
 actualPrice: 10.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L41CLKA-it Havaianas Origine III Espadrillas Unisex-Adulto Bianco...'
+sku: 'B01L41CLKA-it'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5QBT08-it Hori Volante RWO Racing Wheel Overdrive Xbox One'
+sku: 'B01N5QBT08-it'
 tags: [  ]
 actualPrice: 95.99 EUR
 currency: EUR

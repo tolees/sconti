@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG8FCM8-it Puma Smash V2 Sneaker Unisex - Adulto Rhubarb/Puma Team...'
+sku: 'B07KG8FCM8-it'
 tags: [  ]
 actualPrice: 40.49 EUR
 currency: EUR

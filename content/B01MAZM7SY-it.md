@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAZM7SY-it Misura Fette Integrali - 8 pezzi da 320 g [2560 g]'
+sku: 'B01MAZM7SY-it'
 tags: [  ]
 actualPrice: 8.72 EUR
 currency: EUR

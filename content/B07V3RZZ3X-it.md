@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3RZZ3X-it VBIGER Zaino Porta PC Uomo 17.3 Pollici Impermeabile con...'
+sku: 'B07V3RZZ3X-it'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZL4Y7F-it Nespresso Essenza Mini De Longhi EN85.R Macchine del Caffe...'
+sku: 'B073ZL4Y7F-it'
 tags: [  ]
 actualPrice: 69.3 EUR
 currency: EUR

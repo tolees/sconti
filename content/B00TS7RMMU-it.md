@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TS7RMMU-it Outsunny PawHut Recinto Recinzione Box per Animali Cani...'
+sku: 'B00TS7RMMU-it'
 tags: [  ]
 actualPrice: 58.36 EUR
 currency: EUR

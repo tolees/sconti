@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TWWL3K-it Claber Tubo Collettore da 50m'
+sku: 'B003TWWL3K-it'
 tags: [  ]
 actualPrice: 18.98 EUR
 currency: EUR

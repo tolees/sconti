@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2FVRZ2-it Seanshow - Set di 3 trolley in ABS di alta qualità con...'
+sku: 'B07X2FVRZ2-it'
 tags: [  ]
 actualPrice: 73.41 EUR
 currency: EUR

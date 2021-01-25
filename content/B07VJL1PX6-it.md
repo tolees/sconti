@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJL1PX6-it Calvin Klein Boxer Brief 2pk Nero Black with/White WB Bnm...'
+sku: 'B07VJL1PX6-it'
 tags: [  ]
 actualPrice: 8.85 EUR
 currency: EUR

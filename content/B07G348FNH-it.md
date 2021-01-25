@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G348FNH-it Chicco Passeggino Ohlalà 2 Leggero Compatto Paprika Rosso'
+sku: 'B07G348FNH-it'
 tags: [  ]
 actualPrice: 91.0 EUR
 currency: EUR

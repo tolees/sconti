@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1RGKLN-it OnNuvo Materasso New Gel Memory Foam Alta Densità 60-65...'
+sku: 'B07Y1RGKLN-it'
 tags: [  ]
 actualPrice: 359.99 EUR
 currency: EUR

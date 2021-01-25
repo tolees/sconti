@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT4GTR9-it Giochi Preziosi - L.O.L. Surprise! Glamper - Veicolo per...'
+sku: 'B07PT4GTR9-it'
 tags: [  ]
 actualPrice: 119.95 EUR
 currency: EUR

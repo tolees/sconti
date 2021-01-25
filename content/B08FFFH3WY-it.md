@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FFFH3WY-it UniqueMe [6 Pack Pellicola Protettiva per Xiaomi Mi Band 5...'
+sku: 'B08FFFH3WY-it'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

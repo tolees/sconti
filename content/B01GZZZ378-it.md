@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GZZZ378-it Emporio Armani Orologio Analogico Quarzo Uomo con...'
+sku: 'B01GZZZ378-it'
 tags: [  ]
 actualPrice: 117.7 EUR
 currency: EUR

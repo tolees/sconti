@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083J8YRHH-it LED Luce Solari Giardino Esterno MUZEY 4 Pezzi 8Led...'
+sku: 'B083J8YRHH-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VVDRBZ-it Blade Runner - The Final Cut 4K+Br'
+sku: 'B073VVDRBZ-it'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPMSWBG-it LIGE Orologi Donna Moda Impermeabile Quarzo Orologio da...'
+sku: 'B07VPMSWBG-it'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8RG6PD-it Hasbro Spider-Man Marvel - Far From Home Titan Hero Power...'
+sku: 'B07M8RG6PD-it'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

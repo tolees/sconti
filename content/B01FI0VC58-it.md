@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FI0VC58-it Birkenstock Arizona Sandali Donna Grigio Metallic...'
+sku: 'B01FI0VC58-it'
 tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR

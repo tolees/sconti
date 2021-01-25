@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMHRGSH-it Garofalo - Fusilli Bucati Corti Pasta di Semola di Grano...'
+sku: 'B07SMHRGSH-it'
 tags: [  ]
 actualPrice: 0.75 EUR
 currency: EUR

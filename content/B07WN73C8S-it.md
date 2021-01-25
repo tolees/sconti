@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WN73C8S-it HONGDA Cavo Phone [4Pezzi 0.3m 1m 2m 3m] Cavo Phone di...'
+sku: 'B07WN73C8S-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

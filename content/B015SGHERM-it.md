@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGHERM-it Havaianas You Metallic Infradito Donna Sand Grey/Light...'
+sku: 'B015SGHERM-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JJ8VNS-it Huion Inspiroy H430P Tavoletta grafica da disegno...'
+sku: 'B078JJ8VNS-it'
 tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR

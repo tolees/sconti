@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0871WXNWD-it Laelr Ultimi controller wireless per Nintendo Switch Mini...'
+sku: 'B0871WXNWD-it'
 tags: [  ]
 actualPrice: 41.79 EUR
 currency: EUR

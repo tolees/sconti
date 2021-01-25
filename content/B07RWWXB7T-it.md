@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWWXB7T-it Telecamera IP di sicurezza da interni Imou per...'
+sku: 'B07RWWXB7T-it'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

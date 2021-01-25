@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BKHFNK-it Magicfun Cesto Portaoggetti a Sospensione 2 Pezzi Cestelli...'
+sku: 'B088BKHFNK-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

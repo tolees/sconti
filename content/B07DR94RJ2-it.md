@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DR94RJ2-it Lampada da Scrivania TaoTronics Lampada da Tavolo Ufficio...'
+sku: 'B07DR94RJ2-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

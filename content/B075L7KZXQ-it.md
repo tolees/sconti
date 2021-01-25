@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075L7KZXQ-it Cuffie Wireless Sport IPX7 Yuanguo Auricolari Bluetooth...'
+sku: 'B075L7KZXQ-it'
 tags: [  ]
 actualPrice: 14.43 EUR
 currency: EUR

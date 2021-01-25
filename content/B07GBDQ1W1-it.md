@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBDQ1W1-it Pulsar Orologio Cronografo Quarzo Donna con Cinturino in...'
+sku: 'B07GBDQ1W1-it'
 tags: [  ]
 actualPrice: 53.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PFZCCF-it Nike Dri-Fit Strike Felpa con Cappuccio E Zip A Tutta...'
+sku: 'B081PFZCCF-it'
 tags: [  ]
 actualPrice: 28.97 EUR
 currency: EUR

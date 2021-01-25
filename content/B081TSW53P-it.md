@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TSW53P-it adidas Track SST Giacca Donna Black/White 40'
+sku: 'B081TSW53P-it'
 tags: [  ]
 actualPrice: 33.09 EUR
 currency: EUR

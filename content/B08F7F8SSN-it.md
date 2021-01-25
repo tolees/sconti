@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F7F8SSN-it Tablet Bambini 7 Pollici con Wifi Offerte Android 9.0...'
+sku: 'B08F7F8SSN-it'
 tags: [  ]
 actualPrice: 72.92 EUR
 currency: EUR

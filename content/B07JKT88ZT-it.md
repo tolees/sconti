@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKT88ZT-it Under Armour UA Roland Backpack Borsa Unisex Blu OSFA'
+sku: 'B07JKT88ZT-it'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

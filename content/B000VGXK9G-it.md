@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VGXK9G-it CASIO A158 - Orologio da polso cinturino in acciaio...'
+sku: 'B000VGXK9G-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

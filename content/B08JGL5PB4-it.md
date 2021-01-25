@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JGL5PB4-it Ajcoflt Smartwatch Braccialetto Intelligente Braccialetto...'
+sku: 'B08JGL5PB4-it'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

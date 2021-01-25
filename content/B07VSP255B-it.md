@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSP255B-it Bonio 360° Girevole Seggiolino Auto ISOFIX Gruppo 0+/1/2/3...'
+sku: 'B07VSP255B-it'
 tags: [  ]
 actualPrice: 187.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGF3TRT-it Marchio Amazon - find. Mocassini in Pelle con Nappine Uomo...'
+sku: 'B06XGF3TRT-it'
 tags: [  ]
 actualPrice: 41.64 EUR
 currency: EUR

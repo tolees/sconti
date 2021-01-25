@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RF8NX1-it Bud Birra Bottiglia - Pacco da 24 x 330 ml'
+sku: 'B086RF8NX1-it'
 tags: [  ]
 actualPrice: 17.52 EUR
 currency: EUR

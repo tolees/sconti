@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086F8RDSC-it Neutro Roberts Sapone Liquido Ecopouch Nutriente 400 ml 12...'
+sku: 'B086F8RDSC-it'
 tags: [  ]
 actualPrice: 16.87 EUR
 currency: EUR

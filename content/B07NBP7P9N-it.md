@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBP7P9N-it adidas Adilette Shower Scarpe da Spiaggia e Piscina Uomo...'
+sku: 'B07NBP7P9N-it'
 tags: [  ]
 actualPrice: 11.23 EUR
 currency: EUR

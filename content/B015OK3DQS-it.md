@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015OK3DQS-it PUMA Leadcat Scarpe da Spiaggia e Piscina Unisex-Adulto...'
+sku: 'B015OK3DQS-it'
 tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR

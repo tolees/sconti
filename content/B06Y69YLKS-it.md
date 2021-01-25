@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y69YLKS-it Antica Erboristeria Dentifricio Antibatterico Totale...'
+sku: 'B06Y69YLKS-it'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

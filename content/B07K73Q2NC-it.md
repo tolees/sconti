@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K73Q2NC-it Levi s Tank Top Canottiera Sportiva Bianco White + 0000...'
+sku: 'B07K73Q2NC-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

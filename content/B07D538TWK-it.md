@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D538TWK-it BEAUTURAL Manicure e Pedicure Elettrico Professionale Kit...'
+sku: 'B07D538TWK-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

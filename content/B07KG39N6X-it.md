@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG39N6X-it Puma Axis Sneaker Unisex-Adulto Blu Peacoat-Puma White 07...'
+sku: 'B07KG39N6X-it'
 tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR

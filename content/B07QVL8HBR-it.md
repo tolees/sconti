@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVL8HBR-it Huawei P30 Lite - Smartphone da 6.15 " WiFi Kirin 710 4GB...'
+sku: 'B07QVL8HBR-it'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

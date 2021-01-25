@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E4KYNIW-it L Oréal Paris Crema Viso Giorno Revitalift Laser X3 Azione...'
+sku: 'B00E4KYNIW-it'
 tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR

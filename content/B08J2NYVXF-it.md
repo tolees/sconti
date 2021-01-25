@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J2NYVXF-it Jvchengxi Custodia per Samsung Galaxy Buds Live Placcatura...'
+sku: 'B08J2NYVXF-it'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

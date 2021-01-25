@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XY4TSGP-it Audio-Technica ATHDSR7BT cuffia'
+sku: 'B06XY4TSGP-it'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

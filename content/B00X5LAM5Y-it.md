@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X5LAM5Y-it Salvatore Ferragamo 70631 Acqua di Colonia'
+sku: 'B00X5LAM5Y-it'
 tags: [  ]
 actualPrice: 29.61 EUR
 currency: EUR

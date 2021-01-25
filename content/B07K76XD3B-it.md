@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K76XD3B-it Levi s SS Original HM Tee T-Shirt Blu Cotton + Patch Dress...'
+sku: 'B07K76XD3B-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

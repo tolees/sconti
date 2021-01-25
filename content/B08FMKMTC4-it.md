@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMKMTC4-it XYB Auricolari Bluetooth 5.0 Auricolare Wireless Microfono...'
+sku: 'B08FMKMTC4-it'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

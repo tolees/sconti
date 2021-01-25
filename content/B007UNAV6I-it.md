@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007UNAV6I-it Casio Orologio Digitale Donna con Cinturino in Acciaio...'
+sku: 'B007UNAV6I-it'
 tags: [  ]
 actualPrice: 27.67 EUR
 currency: EUR

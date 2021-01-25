@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYGQS4X-it Vangold Muto Frameless Grande Orologio a Muro 3D Specchio...'
+sku: 'B01MYGQS4X-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

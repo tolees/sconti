@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004JY0KP8-it Seiko Orologio Cronografo Quarzo Uomo con Cinturino in...'
+sku: 'B004JY0KP8-it'
 tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR

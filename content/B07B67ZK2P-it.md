@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B67ZK2P-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa Nero...'
+sku: 'B07B67ZK2P-it'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

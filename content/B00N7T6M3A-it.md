@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N7T6M3A-it TESMED TE780 PLUS elettrostimolatore muscolare: sport...'
+sku: 'B00N7T6M3A-it'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

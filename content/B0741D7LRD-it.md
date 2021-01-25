@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0741D7LRD-it Princess Friggitrice ad Aria Calda Family XXL 182050 1700...'
+sku: 'B0741D7LRD-it'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

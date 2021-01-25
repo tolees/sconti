@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGLBPYP-it Timberland Adv 2.0 Cupsole Modern Oxford Sneaker Uomo...'
+sku: 'B07PGLBPYP-it'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083GGHJ1V-it GuliKit Route Air Pro Adattatore audio Bluetooth...'
+sku: 'B083GGHJ1V-it'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

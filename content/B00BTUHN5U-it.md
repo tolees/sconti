@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BTUHN5U-it homcom Porta Scorrevole Interna in Vetro Smerigliato e...'
+sku: 'B00BTUHN5U-it'
 tags: [  ]
 actualPrice: 156.76 EUR
 currency: EUR

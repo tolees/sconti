@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716LRT1P-it Levi s Relaxed Graphic Crew Felpa Donna Grigio Medium'
+sku: 'B0716LRT1P-it'
 tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR

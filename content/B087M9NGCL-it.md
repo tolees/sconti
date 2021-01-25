@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M9NGCL-it CHEREEKI Controller per Nintendo Switch Controller...'
+sku: 'B087M9NGCL-it'
 tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR

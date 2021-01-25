@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9W8LPG-it Boss Tee 4 T-Shirt Blu Navy 410 Large Uomo'
+sku: 'B07V9W8LPG-it'
 tags: [  ]
 actualPrice: 36.03 EUR
 currency: EUR

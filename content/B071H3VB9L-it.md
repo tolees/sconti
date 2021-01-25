@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071H3VB9L-it find. Stivaletti Stringati in Pelle Uomo Nero Black 44 EU'
+sku: 'B071H3VB9L-it'
 tags: [  ]
 actualPrice: 22.29 EUR
 currency: EUR

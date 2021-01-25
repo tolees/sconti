@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6TDVGN-it Enterogermina Viaggi integratore alimentare a base di...'
+sku: 'B07V6TDVGN-it'
 tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR

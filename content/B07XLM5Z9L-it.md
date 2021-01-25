@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLM5Z9L-it CARE OF by PUMA Slip on Court Low-Top Sneakers Nero Black-...'
+sku: 'B07XLM5Z9L-it'
 tags: [  ]
 actualPrice: 23.48 EUR
 currency: EUR

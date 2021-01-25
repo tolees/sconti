@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ18X3Z-it Jade Roller Rose Quarzo Viso Giada Roller Gua Sha...'
+sku: 'B07JZ18X3Z-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

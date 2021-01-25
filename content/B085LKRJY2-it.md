@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LKRJY2-it MKTOSASA - Supporto di Stampa con Batteria di...'
+sku: 'B085LKRJY2-it'
 tags: [  ]
 actualPrice: 31.1 EUR
 currency: EUR

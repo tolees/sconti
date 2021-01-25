@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBWT8PV-it Luce Solare da Esterno 35 LED Luci di sicurezza per...'
+sku: 'B07KBWT8PV-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

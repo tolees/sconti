@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785JVT1S-it Canna per giardino Flexi Hose estendibile fino a 15 metri...'
+sku: 'B0785JVT1S-it'
 tags: [  ]
 actualPrice: 27.11 EUR
 currency: EUR

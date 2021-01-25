@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXWGTM4-it Diesel Discover-me Oderzo Borsa a Tracolla Uomo Blu Blue...'
+sku: 'B07RXWGTM4-it'
 tags: [  ]
 actualPrice: 20.48 EUR
 currency: EUR

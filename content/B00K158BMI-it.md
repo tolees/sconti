@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K158BMI-it Orologio da Donna Casio H5LTP-1259PD-2AEF'
+sku: 'B00K158BMI-it'
 tags: [  ]
 actualPrice: 20.48 EUR
 currency: EUR

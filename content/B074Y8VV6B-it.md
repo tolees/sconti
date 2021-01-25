@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074Y8VV6B-it Panasonic NN-GD38HSSUG Forno a Microonde 1000 W 23 Litri...'
+sku: 'B074Y8VV6B-it'
 tags: [  ]
 actualPrice: 164.99 EUR
 currency: EUR

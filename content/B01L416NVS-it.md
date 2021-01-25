@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L416NVS-it Havaianas Flash Urban Sandali Donna Multicolor...'
+sku: 'B01L416NVS-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

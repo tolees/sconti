@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZV318Q-it STARBUCKS SINGLE-ORIGIN COLOMBIA by NESCAFÉ DOLCE GUSTO...'
+sku: 'B07WZV318Q-it'
 tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR

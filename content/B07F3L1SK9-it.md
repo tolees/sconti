@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3L1SK9-it Tommy Hilfiger Boys Basic CN Knit S/s Maglietta Bianco...'
+sku: 'B07F3L1SK9-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

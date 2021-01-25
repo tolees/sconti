@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KMB5XPS-it Pecute Spazzola Autopulente per Cani Gatti Conigli per...'
+sku: 'B01KMB5XPS-it'
 tags: [  ]
 actualPrice: 13.65 EUR
 currency: EUR

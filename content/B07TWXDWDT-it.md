@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXDWDT-it Sony FDR-AX53V Kit Videocamera 4K Ultra HD con Sensore...'
+sku: 'B07TWXDWDT-it'
 tags: [  ]
 actualPrice: 899.0 EUR
 currency: EUR

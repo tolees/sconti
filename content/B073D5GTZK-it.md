@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073D5GTZK-it Napapijri Voyage Zaino Unisex Adulto Grau Dark Grey Solid...'
+sku: 'B073D5GTZK-it'
 tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KSFKN7-it Pringles Pringles Sour Cream & Onion - 175 g'
+sku: 'B086KSFKN7-it'
 tags: [  ]
 actualPrice: 1.59 EUR
 currency: EUR

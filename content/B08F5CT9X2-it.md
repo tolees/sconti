@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F5CT9X2-it Cuffie Bluetooth 5.0 cuffie wireless cuffie stereo 3D con...'
+sku: 'B08F5CT9X2-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

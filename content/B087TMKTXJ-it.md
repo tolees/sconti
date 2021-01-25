@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TMKTXJ-it Wellue FSC20C - Pulsossimetro da Dito - Saturimetro -...'
+sku: 'B087TMKTXJ-it'
 tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR

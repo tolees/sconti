@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7ND4YH-it Etekcity Bilancia Pesapersone Digitale Bilancia...'
+sku: 'B07D7ND4YH-it'
 tags: [  ]
 actualPrice: 29.59 EUR
 currency: EUR

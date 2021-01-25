@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WWSYJK-it Crosstour Action Cam Sport WiFi Camera 14MP 2”LCD Full HD...'
+sku: 'B073WWSYJK-it'
 tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR

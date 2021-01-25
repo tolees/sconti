@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFM444Y-it Clarks Tri Solar Scarpe da Ginnastica Basse Uomo Nero...'
+sku: 'B07MFM444Y-it'
 tags: [  ]
 actualPrice: 31.28 EUR
 currency: EUR

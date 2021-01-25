@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DJ7D8UA-it Autan Antiarme Alimentari Confezione da 2 fogli Cattura le...'
+sku: 'B00DJ7D8UA-it'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

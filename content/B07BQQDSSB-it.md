@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQQDSSB-it Cuffie Wireless Bluetooth 5.0 Cancellazione Attiva del...'
+sku: 'B07BQQDSSB-it'
 tags: [  ]
 actualPrice: 64.58 EUR
 currency: EUR

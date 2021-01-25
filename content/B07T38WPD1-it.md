@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T38WPD1-it Pepe Jeans Daniela Zaino Casual 32 Centimeters 9.6...'
+sku: 'B07T38WPD1-it'
 tags: [  ]
 actualPrice: 19.55 EUR
 currency: EUR

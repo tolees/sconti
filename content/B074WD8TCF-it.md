@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074WD8TCF-it PUMA Sneaker Plain 3p Calze sportive Blu Navy 35/38 Pacco...'
+sku: 'B074WD8TCF-it'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

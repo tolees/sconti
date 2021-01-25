@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NM0MR6-it Casio Orologio Analogico al Quarzo Donna con Cinturino in...'
+sku: 'B000NM0MR6-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

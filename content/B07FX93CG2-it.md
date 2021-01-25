@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FX93CG2-it Set Manicure e Pedicure Elettrico TOUCHBeauty Kit di lime...'
+sku: 'B07FX93CG2-it'
 tags: [  ]
 actualPrice: 14.42 EUR
 currency: EUR

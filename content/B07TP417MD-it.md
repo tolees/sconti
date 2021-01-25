@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TP417MD-it Superdry Desert Alchemy Quilted Hoody Giacca Arancione...'
+sku: 'B07TP417MD-it'
 tags: [  ]
 actualPrice: 24.13 EUR
 currency: EUR

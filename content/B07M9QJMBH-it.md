@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9QJMBH-it Uten Barbecue Griglia a Carbone Professionale per 5-10...'
+sku: 'B07M9QJMBH-it'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

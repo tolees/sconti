@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJW3GG-it Geox U EOLO B Scarpe da Ginnastica Basse Uomo Grigio...'
+sku: 'B07SSJW3GG-it'
 tags: [  ]
 actualPrice: 40.63 EUR
 currency: EUR

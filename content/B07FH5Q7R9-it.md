@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FH5Q7R9-it Havaianas Slim Brasil Logo Infradito Donna Rosa Rose Nude...'
+sku: 'B07FH5Q7R9-it'
 tags: [  ]
 actualPrice: 17.76 EUR
 currency: EUR

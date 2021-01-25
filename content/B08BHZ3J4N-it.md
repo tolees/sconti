@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHZ3J4N-it Ring Light 10 LED Luce ad Anello di Luce Treppiedi con 3...'
+sku: 'B08BHZ3J4N-it'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYT9GSV-it Rio Mare Filetti di Sgombro Grigliati al Naturale Ricchi...'
+sku: 'B01LYT9GSV-it'
 tags: [  ]
 actualPrice: 2.39 EUR
 currency: EUR

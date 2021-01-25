@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGM6LWH-it Nike Downshifter 9 Scarpe da Corsa Uomo...'
+sku: 'B07RGM6LWH-it'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

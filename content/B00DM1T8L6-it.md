@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DM1T8L6-it Bollani S: L Orchestra Del Titanic'
+sku: 'B00DM1T8L6-it'
 tags: [  ]
 actualPrice: 8.57 EUR
 currency: EUR

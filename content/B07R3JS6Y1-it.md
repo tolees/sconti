@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3JS6Y1-it Lecone Mini Ventilatore USB Portatile con LED Colorate...'
+sku: 'B07R3JS6Y1-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

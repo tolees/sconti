@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWGVNWT-it DYNASONIC 025 Cassa Bluetooth Altoparlante con Karaoke 10W...'
+sku: 'B07PWGVNWT-it'
 tags: [  ]
 actualPrice: 37.59 EUR
 currency: EUR

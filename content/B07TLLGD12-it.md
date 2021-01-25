@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLLGD12-it Superdry Zip Hood Cappuccio Grigio Collective Dark Grey...'
+sku: 'B07TLLGD12-it'
 tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR

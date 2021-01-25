@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9RJVFB-it Tommy Hilfiger Heritage Crew Neck Graphic Tee Maglietta...'
+sku: 'B07P9RJVFB-it'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

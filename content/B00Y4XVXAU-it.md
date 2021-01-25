@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y4XVXAU-it Lacoste PH4012 T-shirt Polo Uomo Bianco Blanc Medium...'
+sku: 'B00Y4XVXAU-it'
 tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR

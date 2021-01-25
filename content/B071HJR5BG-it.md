@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HJR5BG-it Multimetro Digitale Classico Tacklife DM02A Multi Tester...'
+sku: 'B071HJR5BG-it'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

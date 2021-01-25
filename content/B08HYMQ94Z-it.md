@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HYMQ94Z-it eXtremeRate Cover con Pulsanti per Nintendo Switch Scocca...'
+sku: 'B08HYMQ94Z-it'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

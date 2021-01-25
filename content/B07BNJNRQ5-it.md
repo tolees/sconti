@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNJNRQ5-it Tomb Raider 4K+Br'
+sku: 'B07BNJNRQ5-it'
 tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XRQ8UQ-it Master Lock 8285EURDPRO Catena U Ottima per Bicicletta...'
+sku: 'B000XRQ8UQ-it'
 tags: [  ]
 actualPrice: 32.94 EUR
 currency: EUR

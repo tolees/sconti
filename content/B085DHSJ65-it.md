@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DHSJ65-it Lampada Portatile UVC Germicida Lampada UV Sterilizzazione...'
+sku: 'B085DHSJ65-it'
 tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR

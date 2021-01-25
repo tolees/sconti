@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYRLE1J-it Bimar PAA1 Aspirapolvere Bidone Aspiratutto Aspira liquidi...'
+sku: 'B01MYRLE1J-it'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

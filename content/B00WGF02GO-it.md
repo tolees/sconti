@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WGF02GO-it Kimbo - Macinato Fresco Caffè di Napoli Tostatura Media -...'
+sku: 'B00WGF02GO-it'
 tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR

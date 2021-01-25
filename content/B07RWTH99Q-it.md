@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWTH99Q-it Telecamera di sicurezza a cupola da interni per...'
+sku: 'B07RWTH99Q-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

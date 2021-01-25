@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CMHHWE-it Rimmel London Match Perfection Foundation Fondotinta...'
+sku: 'B015CMHHWE-it'
 tags: [  ]
 actualPrice: 5.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KQKRHC-it Samsung Galaxy S10 Lite Smartphone Display 6.7" Super...'
+sku: 'B083KQKRHC-it'
 tags: [  ]
 actualPrice: 462.17 EUR
 currency: EUR

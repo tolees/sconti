@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FCKSQPK-it Tapis Roulant Elettrico Pieghevole da 2200W con...'
+sku: 'B08FCKSQPK-it'
 tags: [  ]
 actualPrice: 719.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2N3TQS-it PUMA Cilia Scarpe da Ginnastica Donna Nero Black-Silver-...'
+sku: 'B07F2N3TQS-it'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

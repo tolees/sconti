@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP17HNY-it Sega Universale TECCPO 1050W Seghe a Gattuccio...'
+sku: 'B07FP17HNY-it'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

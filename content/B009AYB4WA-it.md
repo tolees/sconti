@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009AYB4WA-it Enerzona Enervit Integratore Alimentare per il Controllo...'
+sku: 'B009AYB4WA-it'
 tags: [  ]
 actualPrice: 57.77 EUR
 currency: EUR

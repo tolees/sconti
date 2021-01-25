@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L41IBQ8-it Caffè Borbone Cialde Miscela Rossa - Confezione da 100...'
+sku: 'B01L41IBQ8-it'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

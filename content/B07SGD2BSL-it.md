@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGD2BSL-it Compressore Portatile per Auto Aria Compressa Pompa...'
+sku: 'B07SGD2BSL-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

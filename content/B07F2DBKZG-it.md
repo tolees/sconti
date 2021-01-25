@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2DBKZG-it Timberland Gateway Pier Casual Scarpe Oxford Uomo Grigio...'
+sku: 'B07F2DBKZG-it'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

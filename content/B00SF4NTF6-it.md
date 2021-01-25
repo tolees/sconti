@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SF4NTF6-it STAEDTLER matite colorate Noris Colour confezione da 24...'
+sku: 'B00SF4NTF6-it'
 tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR

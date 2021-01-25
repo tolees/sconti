@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ST9MM7Q-it Sottovuoto Macchina ZUZPAO Cibo professionale per macchine...'
+sku: 'B07ST9MM7Q-it'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

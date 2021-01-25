@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQX387C-it Piastra Capelli Kealive Piastra per Capelli for Styling...'
+sku: 'B07KQX387C-it'
 tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR

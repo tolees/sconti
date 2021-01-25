@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0095LYRK4-it Satya assortimento di Inciensos 12 scatole da 15 g'
+sku: 'B0095LYRK4-it'
 tags: [  ]
 actualPrice: 11.11 EUR
 currency: EUR

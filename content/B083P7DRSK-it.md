@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083P7DRSK-it MSI Optix G271 Monitor Gaming 27" Display 16:9 FHD...'
+sku: 'B083P7DRSK-it'
 tags: [  ]
 actualPrice: 249.99 EUR
 currency: EUR

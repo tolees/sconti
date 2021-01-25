@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8KSJJW-it Calvin Klein Monogram Modern Straight Crop T-Shirt Grigio...'
+sku: 'B07V8KSJJW-it'
 tags: [  ]
 actualPrice: 17.45 EUR
 currency: EUR

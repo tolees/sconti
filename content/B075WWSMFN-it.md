@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WWSMFN-it Kodak PRINTOMATIC Fotocamera istantanea Grigio Foto a...'
+sku: 'B075WWSMFN-it'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN6ZS4Y-it YAMAMAY® Slip Costume Brasiliana Tinta Unita con Inserti...'
+sku: 'B07VN6ZS4Y-it'
 tags: [  ]
 actualPrice: 10.17 EUR
 currency: EUR

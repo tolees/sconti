@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HV2OC4-it Crocs Baya Summer Flip U Sandali Uomo Nero 45-46'
+sku: 'B005HV2OC4-it'
 tags: [  ]
 actualPrice: 13.6 EUR
 currency: EUR

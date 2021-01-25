@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5ST9MF-it Tommy Hilfiger Squares Tee Maglietta Blu Blue Ink X-Large...'
+sku: 'B07W5ST9MF-it'
 tags: [  ]
 actualPrice: 19.52 EUR
 currency: EUR

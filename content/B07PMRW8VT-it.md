@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMRW8VT-it rolimate Pista da Corsa Pista di rampa in Legno a 5...'
+sku: 'B07PMRW8VT-it'
 tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR

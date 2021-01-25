@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCH94X7-it Cesar Scelta dello Chef Cibo per Cane Pollo alla Griglia...'
+sku: 'B07JCH94X7-it'
 tags: [  ]
 actualPrice: 8.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088T29CZK-it Tablet Android 8.1 Tablet da 10 pollici con processore...'
+sku: 'B088T29CZK-it'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JKMRT9-it Philips Lighting Aluminium LED Spot Light Philips Faretto...'
+sku: 'B073JKMRT9-it'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

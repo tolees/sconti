@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GMQLQV-it SHULIANCABLE Cavo Ethernet Cat 8 di Rete Cat 8 40Gbps...'
+sku: 'B089GMQLQV-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004F7OI7U-it Alessi AKK80/13 Mini Girotondo - Sottobicchiere anti-...'
+sku: 'B004F7OI7U-it'
 tags: [  ]
 actualPrice: 19.03 EUR
 currency: EUR

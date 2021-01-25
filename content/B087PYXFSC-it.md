@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PYXFSC-it Mpow H10 Cuffie Noise Cancelling Attiva ANC Autonomia 30...'
+sku: 'B087PYXFSC-it'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

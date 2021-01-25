@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNTFHD5-it WD BLACK P10 Game Drive 5 TB HDD portatile per accesso in...'
+sku: 'B07VNTFHD5-it'
 tags: [  ]
 actualPrice: 135.0 EUR
 currency: EUR

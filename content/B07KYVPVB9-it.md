@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYVPVB9-it Outsunny Casetta Porta Utensili Porta Attrezzi da Giardino...'
+sku: 'B07KYVPVB9-it'
 tags: [  ]
 actualPrice: 311.96 EUR
 currency: EUR

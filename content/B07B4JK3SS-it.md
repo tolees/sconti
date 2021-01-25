@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4JK3SS-it Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker Uomo Blu...'
+sku: 'B07B4JK3SS-it'
 tags: [  ]
 actualPrice: 74.93 EUR
 currency: EUR

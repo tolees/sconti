@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLZNYNM-it VIAKAL Detersivo Anticalcare Spray Fresco Profumo Maxi...'
+sku: 'B08BLZNYNM-it'
 tags: [  ]
 actualPrice: 17.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXG8JRM-it HolyHigh Smartwatch Orologio Fitness GPS Impermeabile IP68...'
+sku: 'B07TXG8JRM-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

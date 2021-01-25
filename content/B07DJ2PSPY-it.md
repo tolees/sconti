@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2PSPY-it Geox U KAVEN A Scarpe da Ginnastica Basse Uomo Bianco...'
+sku: 'B07DJ2PSPY-it'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

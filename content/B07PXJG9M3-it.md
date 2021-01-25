@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXJG9M3-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Blu...'
+sku: 'B07PXJG9M3-it'
 tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR

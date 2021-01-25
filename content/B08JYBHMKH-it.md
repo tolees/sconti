@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JYBHMKH-it Aigostar Lampadine LED E27 12W Equivalenti a 100W 1020...'
+sku: 'B08JYBHMKH-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

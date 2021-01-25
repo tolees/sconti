@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDYKDPH-it Game of Thronos - Replica Figura Drogon 33 cm multicolore...'
+sku: 'B07NDYKDPH-it'
 tags: [  ]
 actualPrice: 31.2 EUR
 currency: EUR

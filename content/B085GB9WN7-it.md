@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085GB9WN7-it Aigostar Lampada Solare Giardino Esterno LED Luci Solari...'
+sku: 'B085GB9WN7-it'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

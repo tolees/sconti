@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYFG7CS-it Boss T-Shirt RN 24 Grigio Medium Grey 32 Small Uomo'
+sku: 'B07TYFG7CS-it'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

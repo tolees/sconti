@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DDD91HT-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari...'
+sku: 'B08DDD91HT-it'
 tags: [  ]
 actualPrice: 35.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084KBCQFS-it Motorola Moto G8 Power Smartphone Batteria 5000 mAh...'
+sku: 'B084KBCQFS-it'
 tags: [  ]
 actualPrice: 198.51 EUR
 currency: EUR

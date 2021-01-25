@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STTRMSW-it Lysoform Casa Pavimenti - 1250 Ml Classico'
+sku: 'B07STTRMSW-it'
 tags: [  ]
 actualPrice: 1.49 EUR
 currency: EUR

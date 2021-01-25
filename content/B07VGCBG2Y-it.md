@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGCBG2Y-it Calvin Klein 3p Trunk Boxer Nero B-Blue...'
+sku: 'B07VGCBG2Y-it'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

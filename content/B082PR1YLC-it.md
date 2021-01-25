@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PR1YLC-it Feagar Cuscino per Sedile Tessuto a Rete - Cuscino Coccige...'
+sku: 'B082PR1YLC-it'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

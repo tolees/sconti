@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E3ETMUW-it Maybelline New York Mascara Ciglia Sensazionali...'
+sku: 'B01E3ETMUW-it'
 tags: [  ]
 actualPrice: 7.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086L6TXTK-it Pringles Pringles Original - 175 g'
+sku: 'B086L6TXTK-it'
 tags: [  ]
 actualPrice: 1.59 EUR
 currency: EUR

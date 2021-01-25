@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N48KYHH-it Goodstè Porta Carte Di Credito Tascabile Portatessere...'
+sku: 'B07N48KYHH-it'
 tags: [  ]
 actualPrice: 5.93 EUR
 currency: EUR

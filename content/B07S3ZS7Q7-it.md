@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3ZS7Q7-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Multicolore...'
+sku: 'B07S3ZS7Q7-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

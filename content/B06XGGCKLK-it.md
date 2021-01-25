@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGGCKLK-it find. Scarpe Derby Uomo Nero Black 39/40 EU'
+sku: 'B06XGGCKLK-it'
 tags: [  ]
 actualPrice: 27.74 EUR
 currency: EUR

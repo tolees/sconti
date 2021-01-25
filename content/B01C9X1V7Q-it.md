@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C9X1V7Q-it Diadora - Sneakers Game P per Uomo e Donna EU 41'
+sku: 'B01C9X1V7Q-it'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPYBPPQ-it Calvin Klein 3p Trunk Boxer Blu Lost Blue/Wild Fern/Raisin...'
+sku: 'B07VPYBPPQ-it'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

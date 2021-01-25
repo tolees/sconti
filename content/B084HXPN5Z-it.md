@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084HXPN5Z-it Fallout 76 Wastelanders PlayStation 4'
+sku: 'B084HXPN5Z-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

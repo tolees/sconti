@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7XNT8H-it Columbia Lake 22 Piumino lungo con Cappuccio Donna Blu...'
+sku: 'B07R7XNT8H-it'
 tags: [  ]
 actualPrice: 56.37 EUR
 currency: EUR

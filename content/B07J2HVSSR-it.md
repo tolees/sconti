@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2HVSSR-it Marchio Amazon - Goodthreads giacca aderente in twill...'
+sku: 'B07J2HVSSR-it'
 tags: [  ]
 actualPrice: 27.97 EUR
 currency: EUR

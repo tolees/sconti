@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCWJF9N-it Outsunny Carrello Pieghevole per Giardinaggio Campeggio...'
+sku: 'B08GCWJF9N-it'
 tags: [  ]
 actualPrice: 66.36 EUR
 currency: EUR

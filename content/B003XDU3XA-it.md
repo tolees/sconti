@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XDU3XA-it Vans Jungen Classic Boys T-Shirt Schwarz BLACK-WHITE Y28 S'
+sku: 'B003XDU3XA-it'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

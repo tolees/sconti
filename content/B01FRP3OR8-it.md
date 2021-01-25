@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FRP3OR8-it The Amazing Spiderman 2 4K'
+sku: 'B01FRP3OR8-it'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

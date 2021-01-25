@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004PBZIA2-it Seiko Orologio Analogico Automatico Uomo con Cinturino in...'
+sku: 'B004PBZIA2-it'
 tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR

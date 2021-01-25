@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GFLRNC3-it Scheda Micro SD 512 GB ad alta velocità classe 10 Micro SD...'
+sku: 'B08GFLRNC3-it'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

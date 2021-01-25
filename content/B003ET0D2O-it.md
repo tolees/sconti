@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ET0D2O-it NIVEA Soft Crema Idratante Multiuso per Viso Mani e Corpo...'
+sku: 'B003ET0D2O-it'
 tags: [  ]
 actualPrice: 2.69 EUR
 currency: EUR

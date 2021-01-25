@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GQMV2HJ-it Auricolari Senza Fili Bluetooth 5.0 IPX8 Impermeabile...'
+sku: 'B08GQMV2HJ-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

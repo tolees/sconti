@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT2MQ31-it Desigual Bag Apolo Rotterdam Women - Borse a spalla Donna...'
+sku: 'B07GT2MQ31-it'
 tags: [  ]
 actualPrice: 68.94 EUR
 currency: EUR

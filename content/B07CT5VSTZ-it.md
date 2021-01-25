@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CT5VSTZ-it Dash Allin1 Pods Detersivo Lavatrice in Capsule Lavanda e...'
+sku: 'B07CT5VSTZ-it'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

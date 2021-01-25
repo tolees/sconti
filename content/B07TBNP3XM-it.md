@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBNP3XM-it adidas Grand Court I Scarpe da Ginnastica Unisex-Bambini...'
+sku: 'B07TBNP3XM-it'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

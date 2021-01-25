@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJQSPZF-it DYNASONIC - Supporto robusto per Altoparlante Treppiede...'
+sku: 'B07XJQSPZF-it'
 tags: [  ]
 actualPrice: 21.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084W8BDX5-it Pantene Pro-V Balsamo Rigenera e Protegge per Capelli...'
+sku: 'B084W8BDX5-it'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

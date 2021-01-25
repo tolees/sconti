@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BT9YKMM-it WHATLEES Whatless Gilet Slim Elegante Uomo - Doppio Petto...'
+sku: 'B07BT9YKMM-it'
 tags: [  ]
 actualPrice: 12.37 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JSJX8D-it Cuffie Gaming PS4 PC Xbox One Maegoo Over Ear Cuffie da...'
+sku: 'B087JSJX8D-it'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

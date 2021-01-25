@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0736TYXK4-it VERO MODA Vmava Plain Ss Top Ga Noos T-Shirt Donna Bianco...'
+sku: 'B0736TYXK4-it'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

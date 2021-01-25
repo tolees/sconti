@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ5YZX1-it Ferilinso Bracciale 8 Pezzi Cinturini per Xiaomi Mi Band...'
+sku: 'B08DJ5YZX1-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

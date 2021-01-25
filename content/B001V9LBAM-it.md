@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001V9LBAM-it Rimmel Matita Occhi Automatica Exaggerate Matita...'
+sku: 'B001V9LBAM-it'
 tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR

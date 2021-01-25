@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZDK2S7-it Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai...'
+sku: 'B07PZDK2S7-it'
 tags: [  ]
 actualPrice: 0.89 EUR
 currency: EUR

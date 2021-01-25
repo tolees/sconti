@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFQYZV2-it Puma Luxe Mesh Tight Pants Donna Fig-Puma Black M'
+sku: 'B07DFQYZV2-it'
 tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CV6XRBD-it Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto...'
+sku: 'B07CV6XRBD-it'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

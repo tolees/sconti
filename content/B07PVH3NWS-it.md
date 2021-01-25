@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVH3NWS-it LE 24W Plafoniera LED Lampada da Soffitto LED Bianco...'
+sku: 'B07PVH3NWS-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

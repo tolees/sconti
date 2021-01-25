@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XXGHP7-it McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento...'
+sku: 'B078XXGHP7-it'
 tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N24CE4F-it Telemetro Laser Distanziometro Classico Tacklife HD50M in...'
+sku: 'B01N24CE4F-it'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

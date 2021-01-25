@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009Q1DNS-it Bialetti Venus Caffettiera in Acciaio Inox Adatta all...'
+sku: 'B0009Q1DNS-it'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

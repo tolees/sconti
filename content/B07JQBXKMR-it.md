@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQBXKMR-it JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny Blu...'
+sku: 'B07JQBXKMR-it'
 tags: [  ]
 actualPrice: 16.55 EUR
 currency: EUR

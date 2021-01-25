@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWSTZV6-it YINSAN TM5 Cuffie Gaming per PS4 Cuffie PS4 Over Ear con...'
+sku: 'B07QWSTZV6-it'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

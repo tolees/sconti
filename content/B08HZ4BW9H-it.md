@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HZ4BW9H-it Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1 Type-C...'
+sku: 'B08HZ4BW9H-it'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

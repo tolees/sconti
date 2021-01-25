@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VIFVA6Y-it Tescoma 630496 Beccucci Decoratori per Sac a Poche 21...'
+sku: 'B00VIFVA6Y-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

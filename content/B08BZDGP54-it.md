@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZDGP54-it sunvito Set 24 Matite Colorate Color Pencils con Soft Core...'
+sku: 'B08BZDGP54-it'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

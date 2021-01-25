@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HLSDN5J-it Didisky Pellicola Protettiva in Vetro Temperato per Xiaomi...'
+sku: 'B08HLSDN5J-it'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

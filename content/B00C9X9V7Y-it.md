@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C9X9V7Y-it Songmics LSF702 - Pouf Contenitore Ottomane e poggiapiedi...'
+sku: 'B00C9X9V7Y-it'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVZN65B-it Astral Chain - Nintendo Switch'
+sku: 'B07NVZN65B-it'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

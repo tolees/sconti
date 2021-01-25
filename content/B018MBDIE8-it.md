@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018MBDIE8-it AVM FRITZ! Box 7430 International Modem Router Wireless...'
+sku: 'B018MBDIE8-it'
 tags: [  ]
 actualPrice: 79.98 EUR
 currency: EUR

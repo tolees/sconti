@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNZ35NS-it EasySMX Switch Controller Switch Controller Controller Pro...'
+sku: 'B08DNZ35NS-it'
 tags: [  ]
 actualPrice: 35.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NORUJW-it Kryptonite KryptoFlex Catena antifurto Arancione 10 mm/120 cm'
+sku: 'B000NORUJW-it'
 tags: [  ]
 actualPrice: 10.12 EUR
 currency: EUR

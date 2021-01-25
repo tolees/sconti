@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DR7PZJM-it Saucony Shadow Original Vintage Scarpe da Ginnastica Basse...'
+sku: 'B07DR7PZJM-it'
 tags: [  ]
 actualPrice: 57.32 EUR
 currency: EUR

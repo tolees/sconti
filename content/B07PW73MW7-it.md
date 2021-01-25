@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PW73MW7-it Strumento Multifunzione Senza Fili TECCPO 12V Utensile...'
+sku: 'B07PW73MW7-it'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

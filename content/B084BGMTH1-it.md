@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084BGMTH1-it Antica Erboristeria Dentifricio Totale Antiplacca con...'
+sku: 'B084BGMTH1-it'
 tags: [  ]
 actualPrice: 1.55 EUR
 currency: EUR

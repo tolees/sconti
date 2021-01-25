@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSS7B5J-it Geox D Hiver B Sandali con Chiusura a T Donna Marrone...'
+sku: 'B07SSS7B5J-it'
 tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR

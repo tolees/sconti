@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UKUO8O4-it Smartwares 6000.631 Manou Lampada da tavolo – Attacco...'
+sku: 'B00UKUO8O4-it'
 tags: [  ]
 actualPrice: 7.32 EUR
 currency: EUR

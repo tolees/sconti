@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2HJK27-it DYNASONIC - Altoparlante Bluetooth 10W portatile Lettore...'
+sku: 'B07D2HJK27-it'
 tags: [  ]
 actualPrice: 27.12 EUR
 currency: EUR

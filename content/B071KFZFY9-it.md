@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KFZFY9-it Funko- Pop Vinile Hellboy S1 Rasputin 9 cm 22720'
+sku: 'B071KFZFY9-it'
 tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR

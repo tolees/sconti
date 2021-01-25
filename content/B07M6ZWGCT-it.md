@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6ZWGCT-it Clementoni- Baby Garden Multicolore 17277'
+sku: 'B07M6ZWGCT-it'
 tags: [  ]
 actualPrice: 8.75 EUR
 currency: EUR

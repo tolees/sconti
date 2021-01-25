@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FA43TJK-it SUNSILK Ricci da Domare Balsamo 200 ml'
+sku: 'B00FA43TJK-it'
 tags: [  ]
 actualPrice: 1.98 EUR
 currency: EUR

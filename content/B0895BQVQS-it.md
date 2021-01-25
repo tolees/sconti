@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895BQVQS-it Smac - Express Pavimenti Freschezza Intensa - 1000ml x 12...'
+sku: 'B0895BQVQS-it'
 tags: [  ]
 actualPrice: 19.1 EUR
 currency: EUR

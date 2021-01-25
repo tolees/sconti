@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC7G3QM-it LK Pellicola Protettiva per Xiaomi Mi 10 Lite 5G Vetro...'
+sku: 'B08FC7G3QM-it'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

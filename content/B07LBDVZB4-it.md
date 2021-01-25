@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBDVZB4-it Calvin Klein Brazilian Brasiliana Rosa Nymph s Coscia 2nt...'
+sku: 'B07LBDVZB4-it'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

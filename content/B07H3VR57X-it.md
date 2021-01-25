@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3VR57X-it homcom Moto da Cross Elettrica con Rotelle Bambini 107 ×...'
+sku: 'B07H3VR57X-it'
 tags: [  ]
 actualPrice: 90.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ1N33P-it TOPERSUN 10PCS Marcatori Evidenziatori metallici a mezzo...'
+sku: 'B07QJ1N33P-it'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ART68C-it Birkenstock Gizeh Birko-Flor Sandali Unisex - Adulto Nero...'
+sku: 'B003ART68C-it'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

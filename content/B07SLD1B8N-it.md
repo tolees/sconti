@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLD1B8N-it Equilibra - Pappa Reale Fresca'
+sku: 'B07SLD1B8N-it'
 tags: [  ]
 actualPrice: 4.19 EUR
 currency: EUR

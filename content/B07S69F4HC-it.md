@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S69F4HC-it Logitech G403 HERO 16K Mouse Gaming Lightsync RGB Leggero...'
+sku: 'B07S69F4HC-it'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

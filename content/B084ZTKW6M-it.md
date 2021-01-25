@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZTKW6M-it Kit 3x Durex Pleasuremax Preservativi Stimolanti con...'
+sku: 'B084ZTKW6M-it'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

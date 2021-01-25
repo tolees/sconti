@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G4P68CV-it DUDUKING Occhiali da Sole Ciclismo Polarizzati Sportivi...'
+sku: 'B08G4P68CV-it'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

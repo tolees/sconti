@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BT79C1G-it BATHWA Specchio Ingranditore con Luce LED Specchietti da...'
+sku: 'B07BT79C1G-it'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

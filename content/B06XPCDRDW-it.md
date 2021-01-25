@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPCDRDW-it Rowenta CF5712 Instant Straight Spazzola Elettrica...'
+sku: 'B06XPCDRDW-it'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

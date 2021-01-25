@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJLGX-it Levi s Down Dehon Pkbl Puffer Giacca Nero Mineral Black...'
+sku: 'B07RZLJLGX-it'
 tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD5C5HK-it TOPERSUN pastelli set di matite colorate 72 colori...'
+sku: 'B07MD5C5HK-it'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BY3H53B-it PARTU Purificatore d Aria HEPA Filtro con Filtro Aria a...'
+sku: 'B07BY3H53B-it'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

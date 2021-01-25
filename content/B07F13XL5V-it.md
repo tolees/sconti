@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F13XL5V-it Havaianas Brasil Logo Infradito Unisex-Adulto Blu...'
+sku: 'B07F13XL5V-it'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFRTRFS-it Pesoforma Barrette Tre Cioccolati Pasti Sostitutivi...'
+sku: 'B07QFRTRFS-it'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

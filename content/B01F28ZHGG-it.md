@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F28ZHGG-it Call of Duty: Infinite Warfare - Legacy Edition -...'
+sku: 'B01F28ZHGG-it'
 tags: [  ]
 actualPrice: 4.98 EUR
 currency: EUR

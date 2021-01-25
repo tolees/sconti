@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG6Z71S-it PUMA Ralph Sampson Lo Sneakers Unisex-Adulto Nero Schwarz...'
+sku: 'B07KG6Z71S-it'
 tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR

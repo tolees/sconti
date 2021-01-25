@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQCCZRP-it MORELLATO Bracciale con Charm Donna argento - SAHP04'
+sku: 'B01MQCCZRP-it'
 tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR

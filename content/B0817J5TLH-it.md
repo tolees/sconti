@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817J5TLH-it Columbia Silver Ridge II Pantaloni Cargo Uomo Blu...'
+sku: 'B0817J5TLH-it'
 tags: [  ]
 actualPrice: 26.95 EUR
 currency: EUR

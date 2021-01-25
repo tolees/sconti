@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FNNNM3-it Tommy Hilfiger O2285TIS 1C Scarpe da Ginnastica Basse Uomo...'
+sku: 'B071FNNNM3-it'
 tags: [  ]
 actualPrice: 50.1 EUR
 currency: EUR

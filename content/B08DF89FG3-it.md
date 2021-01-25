@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DF89FG3-it HolyHigh Cuffie Bluetooth 5.0 Auricolari Bluetooth True...'
+sku: 'B08DF89FG3-it'
 tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR

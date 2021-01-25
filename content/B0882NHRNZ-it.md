@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0882NHRNZ-it Aigostar Lampada Solare Giardino Esterno 24pcs LED Luci...'
+sku: 'B0882NHRNZ-it'
 tags: [  ]
 actualPrice: 36.79 EUR
 currency: EUR

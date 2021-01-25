@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I3G46MQ-it Vans Herren Otw Raglan T-Shirt Mehrfarbig WHITE-BLACK YB2...'
+sku: 'B00I3G46MQ-it'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

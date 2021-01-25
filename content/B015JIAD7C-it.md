@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015JIAD7C-it Polaroid Fotocamera Digitale a Scatto Istantaneo con...'
+sku: 'B015JIAD7C-it'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

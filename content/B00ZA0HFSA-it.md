@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZA0HFSA-it KLIM™ Cool Universal Raffreddatore per PC Portatile –...'
+sku: 'B00ZA0HFSA-it'
 tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR

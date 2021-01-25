@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRZBRB3-it Oral-B Genius X Luxe Edition Spazzolino Elettrico...'
+sku: 'B07RRZBRB3-it'
 tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR

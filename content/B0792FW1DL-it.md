@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792FW1DL-it Diesel UMBX-DAMIENTHREEPACK Slip Uomo Multicolore Bright...'
+sku: 'B0792FW1DL-it'
 tags: [  ]
 actualPrice: 29.78 EUR
 currency: EUR
