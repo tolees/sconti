@@ -27,10 +27,10 @@ Puoi trovare [Pentole Agnelli Platinum Padella Svasata Alta a Saltare  in Allumi
 
 ℹ️:
 
-- Adatta per saltare la pasta, contorni brasati al burro, mantecare, caramellare
-- Tipologia cottura: gas
-- Materiale: alluminio antiaderente
-- Tipologia: padella svasata alta
 - Diametro: 24 cm
+- Tipologia: padella svasata alta
+- Materiale: alluminio antiaderente
+- Tipologia cottura: gas
+- Adatta per saltare la pasta, contorni brasati al burro, mantecare, caramellare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYSTE0C/?tag=tolees00-21)

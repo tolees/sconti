@@ -27,7 +27,7 @@ Puoi trovare [UBI Soft - Rayman Legends Ps4 Uk Gioco ITALIANO [Edizione: Regno U
 
 ℹ️:
 
-- 1x game disc
 - Playstation 4 - Action Game
+- 1x game disc
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HFUHDNU/?tag=tolees00-21)

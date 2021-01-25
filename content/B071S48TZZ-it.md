@@ -27,8 +27,8 @@ Puoi trovare [Mandarina Duck Md20 Minuteria  Pochette da Giorno Donna  Nero  Bla
 
 ℹ️:
 
-- Serie: MD20
 - Tipo di chiusura: cerniera lampo
+- Serie: MD20
 - materiale : Polyester
 - Capacità in L. ca.: 0-10
 - Misure esterne (L x L x A): 26cm x 4cm x 18cm
