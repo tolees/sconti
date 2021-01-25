@@ -27,8 +27,8 @@ average: '13.71'
 
 ℹ️:
 
-- 40 ml
 - EDP
+- 40 ml
 - Donna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001PTFVYK/?tag=tolees00-21)

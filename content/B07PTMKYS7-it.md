@@ -28,9 +28,9 @@ average: '349.99'
 ℹ️:
 
 - Controllori Oculus Touch: armati con i nostri controller Oculus Touch aggiornati. I tuoi tagli, tiri e prese appaiono in VR con precisione intuitiva e realistica, trasportando le mani e i gesti direttamente nel gioco
-- Sistema operativo: Windows 10
 - Design ergonomico: Mantieni la testa nel gioco grazie a una fascia a halo ridisegnata con la massima velocità. Rift S rimane saldamente e comodamente in posizione con una rapida rotazione della ruota in forma, in modo che possa prendere, o raddoppiare, le tue reazioni più veloci
 - Ottica migliorata: controlla la concorrenza con obiettivi di nuova generazione e display più nitidi. Lottica migliorata offre colori brillanti e vivaci e un ridotto effetto "porta schermo
 - La migliore libreria di giochi di realtà virtuale: esplora, taglia e scala la tua libreria di giochi di realtà virtuale.
+- Sistema operativo: Windows 10
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PTMKYS7/?tag=tolees00-21)

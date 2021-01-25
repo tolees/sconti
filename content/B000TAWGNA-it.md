@@ -27,9 +27,9 @@ Puoi trovare [Pyrex Classic Misura graduata in vetro borosilicato  0 5lt](https:
 
 ℹ️:
 
-- Beccuccio versafacile
+- Lavabile in lavastoviglie
 - Misura graduata per un dosaggio preciso
 - Vetro borosilicato, materiale sano e naturale al 100% che non trattiene odori e macchie
-- Lavabile in lavastoviglie
+- Beccuccio versafacile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000TAWGNA/?tag=tolees00-21)

@@ -27,10 +27,10 @@ average: '19.2333333333333'
 
 ℹ️:
 
-- Display touch full OLED da 0,78". Durata della batteria fino a 20 giorni (110 mAh). 20 gr di peso
 - Notifiche in tempo reale sul display con vibrazione: messaggi da app, chiamate in entrata, ID chiamante, SMS, obiettivi di attività
-- Analisi del sonno e dati storici completi di tutte le misurazioni disponibili tramite lapp Mi Fit
+- Display touch full OLED da 0,78". Durata della batteria fino a 20 giorni (110 mAh). 20 gr di peso
 - Mostra la durata della batteria, la frequenza cardiaca in tempo reale, il conteggio dei passi giornalieri, il conteggio delle calorie, la distanza percorsa, data/ora e le metriche del sonno
 - Impermeabile fino a 50 metri (5ATM), Bluetooth 4.2 BLE, compatibile con Android 4.4 / iOS 9.0 o versioni successive
+- Analisi del sonno e dati storici completi di tutte le misurazioni disponibili tramite lapp Mi Fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G7MBP49/?tag=tolees00-21)
