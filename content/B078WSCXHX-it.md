@@ -1,34 +1,36 @@
 ---
 layout: post
-title: 'Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi al 30.46 % di sconto'
-date: 2021-01-11 21:53:25
+title: 'Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi al 17.28 % di sconto'
+date: 2021-01-25 19:11:44
 image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WSCXHX-it'
-actualPrice: 152.99 EUR
+slug: 'B078WSCXHX-it Sony UBP-X700 Lettore Blu-Ray 4K HDR Hi-Res Audio Dolby...'
+sku: 'B078WSCXHX-it'
+tags: [  ]
+actualPrice: 181.99 EUR
 currency: EUR
-price: 152.99
+price: 181.99
 comparePrice: 220.0 EUR
 prodname: 'Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi-Res Audio  Dolby Vision  USB  Wi-Fi  Ethernet  Nero'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21'
-descuento: '30.46'
-average: '178.01314285714287'
+descuento: '17.28'
+average: '178.228108108108'
 ---
 
-Puoi trovare [Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi-Res Audio  Dolby Vision  USB  Wi-Fi  Ethernet  Nero](https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21) con il prezzo 152.99 EUR (originale: 220.0 EUR) 30.46 % sconto qui:
+Puoi trovare [Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi-Res Audio  Dolby Vision  USB  Wi-Fi  Ethernet  Nero](https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21) con il prezzo 181.99 EUR (originale: 220.0 EUR) 17.28 % sconto qui:
 
 [![Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi](https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg)](https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21)
 
 ℹ️:
 
-- Blu-ray Disc, con Dolby Vision
+- Servizi streaming 4K
+- 5 W (in funzione), 0,35 W (in standby)
 - Funzioni Blocco di sicurezza per bambini, BRAVIA Sync, Controllo genitori, Spegnimento automatico (Stand-by automatico)
 - Connettività Wireless Multi-room
-- 5 W (in funzione), 0,35 W (in standby)
-- Servizi streaming 4K
+- Blu-ray Disc, con Dolby Vision
 
-[Acquista qui!!](https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21)
