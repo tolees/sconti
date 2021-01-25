@@ -27,8 +27,8 @@ average: '25.0'
 
 ℹ️:
 
-- Con micro estratto di 6 oli di fiori preziosi
 - Nutrizione e leggerezza, morbidezza e luminosità
+- Con micro estratto di 6 oli di fiori preziosi
 - Shampoo nutriente capelli secchi o spenti
 - Confezione maxi risparmio, formato famiglia
 

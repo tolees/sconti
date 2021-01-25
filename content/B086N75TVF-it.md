@@ -27,10 +27,10 @@ average: '749.6'
 
 ℹ️:
 
-- Fino a 80 km di autonomia con una carica
 - Display LCD, cambio shimano a 21 velocità e freni a disco tektro a
 - Motore bafang 36 v 250 w brushless high speed
-- Telaio in alluminio - pneumatici 27.5" x 2.10" -
+- Fino a 80 km di autonomia con una carica
 - Batteria removibile da 36 v - 11.6 ah celle Samsung lithium - 418 wh
+- Telaio in alluminio - pneumatici 27.5" x 2.10" -
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086N75TVF/?tag=tolees00-21)

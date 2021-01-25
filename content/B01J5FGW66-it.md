@@ -27,14 +27,14 @@ Puoi trovare [Philips GC8735/80 PerfectCare Performer Ferro Generatore di Vapore
 
 ℹ️:
 
-- Capacità serbatoio: 1.8 litri
 - Tecnologia ProVelocity con pompa e piastra riscaldante
-- Pressione della pompa: fino a 6.5 bar
 - Colpo vapore: 420 g
-- Piastra: SteamGlide Plus
 - La combinazione ottima tra vapore e temperatura della piastra offre risparmio di tempo e capi stirati in modo ottimo
-- Vapore continuo: 120g/min
+- Piastra: SteamGlide Plus
 - Tecnologia OptimalTEMP - consente di stirare dal jeans alla seta, dal lino al sintetico, con un’unica impostazione di temperatura
+- Capacità serbatoio: 1.8 litri
+- Pressione della pompa: fino a 6.5 bar
 - Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui dacqua
+- Vapore continuo: 120g/min
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01J5FGW66/?tag=tolees00-21)
