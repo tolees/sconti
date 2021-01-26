@@ -27,10 +27,10 @@ average: '10.925'
 
 ℹ️:
 
-- Tipo di tacco: senza tacco
-- Fodera: senza fodera
 - Materiale suola: gomma
-- Chiusura: senza chiusura
+- Fodera: senza fodera
+- Tipo di tacco: senza tacco
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Chiusura: senza chiusura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001OI3MPM/?tag=tolees00-21)

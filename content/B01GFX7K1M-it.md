@@ -28,7 +28,7 @@ average: '43.0'
 ℹ️:
 
 - Materiale esterno: Pelle
-- Fodera: Pelle
 - Materiale suola: Sintetico
+- Fodera: Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GFX7K1M/?tag=tolees00-21)
