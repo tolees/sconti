@@ -27,8 +27,8 @@ Puoi trovare [Tommy Hilfiger Core Hilfiger Regular Polo Maglietta  Blu  Sky Capt
 
 ℹ️:
 
-- Lavabile in lavatrice a 30° max.
 - 100% cotone.
 - Tipo di collo: polo
+- Lavabile in lavatrice a 30° max.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017SL6C6E/?tag=tolees00-21)
