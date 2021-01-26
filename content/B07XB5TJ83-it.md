@@ -27,7 +27,7 @@ average: '30.99'
 
 ℹ️:
 
-- Giacca in ecopelle con chiusura lampo asimmetrica.
 - Giacca corta rivestita in similpelle.
+- Giacca in ecopelle con chiusura lampo asimmetrica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XB5TJ83/?tag=tolees00-21)

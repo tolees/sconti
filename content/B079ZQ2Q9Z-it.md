@@ -27,8 +27,8 @@ average: '54.34'
 
 ℹ️:
 
-- Fragranze e profumi eau de parfum-donna
 - Profumi eau de parfum-donna
 - Profumo donna chloe fragranze e profumi 75 millilitri ean 3614223113347 profumi eau de parfum-donna fragranze e profumi eau de parfum-donna
+- Fragranze e profumi eau de parfum-donna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079ZQ2Q9Z/?tag=tolees00-21)
