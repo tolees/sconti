@@ -28,12 +28,12 @@ Puoi trovare [Caffe  Corsini - Caffè Corsini Dcc190 - Classico Italiano Miscela
 ℹ️:
 
 - Il marchio nespresso non è di proprietà di corsino corsini spa né di aziende ad essa collegate
-- Caffè in capsula - ottima dosatura della capsula eroga un caffè in modo semplice e pulito
 - Caffè espresso - classico italiano è la miscela ottimo tostata e macinata per avere un.caffè dal gusto deciso, con un aroma forte e persistente; un classico espresso italiano adatto per ogni momento della giornata
-- Made in Italy - tutti i prodotti di Caffè Corsini sono realizzati nella sede storica del marchio toscano
 - La storia di caffè corsini inizia nel 1950 con corsino corsini, imprenditore aretino che trasformò la piccola realtà artigianale di famiglia in.una compagnia.di caffè.fatta di idee e di persone
+- Made in Italy - tutti i prodotti di Caffè Corsini sono realizzati nella sede storica del marchio toscano
+- Tostatura forte.- la tostatura forte estrae le note persistenti e le fragranze decise della miscela, esaltandone le note caramellate e i profumi di legno di sandalo
 - Selezione e gusto- caffè corsini mette insieme passione, impegno, qualità, valori etici e ricerca continua: diffondere la cultura del caffè come stile di vita; il gusto deve riportare in tazza non solo il risultato di numeri e macchine ma anche di facce, di culture e di odori di terre
 - Compatibilità. la capsula compatibile caffè corsini è studiata per realizzare unerogazione ottima con macchine compatibili nespresso
-- Tostatura forte.- la tostatura forte estrae le note persistenti e le fragranze decise della miscela, esaltandone le note caramellate e i profumi di legno di sandalo
+- Caffè in capsula - ottima dosatura della capsula eroga un caffè in modo semplice e pulito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GP5Q6QT/?tag=tolees00-21)

@@ -27,8 +27,8 @@ average: '57.0'
 
 ℹ️:
 
-- Tomaia in pelle
 - Scarpe sportive
 - Stile essenziale
+- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00J5ILLRY/?tag=tolees00-21)

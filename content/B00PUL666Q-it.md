@@ -27,8 +27,8 @@ Puoi trovare [Max Cases - Valigetta con Spugna Cubettata per Trasportare e Prote
 
 ℹ️:
 
-- Utilizzo: valigia ermetica ideale per trasportare e proteggere apparecchiature e materiali sensibili
 - Certificazioni: IP67 (100% impermeabile), STANAG 4280, DEF STAN 81-41, ATA300, NATO (NSN), ATA300, 100% made in Italy
+- Utilizzo: valigia ermetica ideale per trasportare e proteggere apparecchiature e materiali sensibili
 - Dimensioni (lunghezza x larghezza x altezza in millimetri): esterne 258 x 243 x 117,5 , interne 235 x 180 x 106 , profondità coperchio 25 , profondità fondo 81
 - Caratteristiche: valigia ermetica resistente allacqua, alle polveri, agli urti ed agli agenti atmosferici, chiusura di sicurezza a doppio step, manico morbido ad alta ergonomicità
 - Dettagli: valvola automatica di pressurizzazione, spugna sul coperchio e cubettata sul fondo con pratico sistema pick & pluck per adattarla ad ogni sagoma ed esigenza, pareti spesse anti urto

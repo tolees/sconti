@@ -27,11 +27,11 @@ Puoi trovare [Telwin 815861 Force 125 Saldatrice Inverter ad Elettrodo Completa 
 
 ℹ️:
 
-- Dispositivi arc force, hot start, anti-stick
-- Leggera e compatta; Completa di maschera e accessori
-- Elevata stabilità della corrente di saldatura alle variazioni della tensione di alimentazione
 - Potenza Assorbita Max 2,3 kW
 - Pezzi Pallet: 42 pz/pallet; Dimensioni: 30 - 12,5 - 22,5 cm
+- Elevata stabilità della corrente di saldatura alle variazioni della tensione di alimentazione
+- Dispositivi arc force, hot start, anti-stick
+- Leggera e compatta; Completa di maschera e accessori
 - Protezioni termostatica, sovratensione, sottotensione, sovracorrente, motogeneratore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007VLBUT6/?tag=tolees00-21)

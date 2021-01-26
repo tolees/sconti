@@ -28,9 +28,9 @@ Puoi trovare [Originale MANN-FILTER Filtro Olio HU 7008 Z – Set Filtro Olio co
 ℹ️:
 
 - Original MANN-FILTER Oil Filter HU 7008 Z with Gasket / Gasket Set / Metal-free Oil Filter Component / Dimensions: H = 100 ; A = 63 ; B = 28 ; C = 28 / Premium Filter in original equipment quality
-- Optimum protection and sealing over the entire maintenance interval - due partly to the filter medium specially adapted to the intended use/ Metal-free and fully incinerable
+- MANN+HUMMEL complies with REACH-regulation + supports the goal of Improved Health and Safety through the design, manufacturing, usage, disposal and recycling of our products
 - Looking to find the correct filter? Select: brand, model, vehicle type, and engine type above to see which one fits your vehicle
 - MANN-FILTER oil filter elements not only offer the highest filtration performance, but also protect the engine through excellent oil cleaning
-- MANN+HUMMEL complies with REACH-regulation + supports the goal of Improved Health and Safety through the design, manufacturing, usage, disposal and recycling of our products
+- Optimum protection and sealing over the entire maintenance interval - due partly to the filter medium specially adapted to the intended use/ Metal-free and fully incinerable
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DQEAYZS/?tag=tolees00-21)

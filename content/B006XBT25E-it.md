@@ -27,8 +27,8 @@ average: '44.51'
 
 ℹ️:
 
+- Due LED che indicano in verde lapertura, in rosso eventuali errori; indicatore di batteria scarica -
 - 1) Fornita di due chiavi manuali. 2) Interfaccia semplice con tastierino. 3) Struttura in acciaio pre-forata con viti di montaggio incluse
 - 1)Programmabile in modo semplice grazie al tastierino digitale. 2)Apertura con combinazione da 3 a 8 cifre (10,000 combinazioni possibili)
-- Due LED che indicano in verde lapertura, in rosso eventuali errori; indicatore di batteria scarica -
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006XBT25E/?tag=tolees00-21)

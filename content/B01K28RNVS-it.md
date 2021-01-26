@@ -27,11 +27,11 @@ Puoi trovare [Polar M600 Smartwatch  Unisex  M600 Smartwatch Black  M/L](https:/
 
 ℹ️:
 
-- Permette di gestire le app utili direttamente su M600 tramite Playstore 2.0
-- Activity tracker: misura passi, distanza percorsa, calorie consumate e analizza la qualità del sonno
 - Cardiofrequenzimetro da polso, lap manuali e automatici, profili personalizzabili e funzioni per il nuoto
 - Rileva velocità, distanza, percorso e altitudine con GPS e Glonass
-- Gestione con comandi vocali, controllo della musica, navigazione, SMS, Whatsapp, email, chiamate, risposte rapide e tastiera a riconoscimento
 - Smartwatch pensato per lo sport, unisce le applicazioni Android Wear 2.0 con le funzioni per le attività sportive
+- Permette di gestire le app utili direttamente su M600 tramite Playstore 2.0
+- Activity tracker: misura passi, distanza percorsa, calorie consumate e analizza la qualità del sonno
+- Gestione con comandi vocali, controllo della musica, navigazione, SMS, Whatsapp, email, chiamate, risposte rapide e tastiera a riconoscimento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01K28RNVS/?tag=tolees00-21)

@@ -27,8 +27,8 @@ Puoi trovare [D-Link DCS-8515LH Telecamera di Sorveglianza HD  Motorizzata  Moti
 
 ℹ️:
 
-- Visione notturna, rilevazione di movimenti e suoni, con Modalità Privacy attivabile tramite app gratuita
 - Registrazione su mydlink Cloud, slot per scheda microSD o memoria del telefono
+- Visione notturna, rilevazione di movimenti e suoni, con Modalità Privacy attivabile tramite app gratuita
 - Motion tracking automatico: Funzione Pan & Tilt per seguire un oggetto in movimento
 - Videocamera motorizzata HD 720p, audio bidirezionale per ascoltare e parlare attraverso il tuo dispositivo mobile
 - Funziona con dispositivi mydlink, Alexa di Amazon, l’Assistente Google, IFTTT

@@ -27,11 +27,11 @@ Puoi trovare [USAG 329 N/S5 U03290056 Serie di 5 Giraviti per Viti con Intaglio 
 
 ℹ️:
 
-- Fornita in cassetta di plastica
-- Lama in acciaio speciale altamente legato al Silicio Cromo Vanadio
-- Esecuzione cromata con punta brunita
 - 329 N/0,2x1,5x35-0,3x1,8x35-0,4x2x35-0,4x2,5x35
+- Fornita in cassetta di plastica
+- Esecuzione cromata con punta brunita
 - 329 NPH/00x35
 - Impugnatura ergonomica con terminale girevole per avvitamenti di precisione
+- Lama in acciaio speciale altamente legato al Silicio Cromo Vanadio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FF92STM/?tag=tolees00-21)
