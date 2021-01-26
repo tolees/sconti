@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 488 Forze Cuffie PS4 e  al 36.01 % di sconto'
-date: 2021-01-15 11:37:58
+date: 2021-01-26 19:33:52
 image: 'https://m.media-amazon.com/images/I/41w9BmQtcfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084WLMKGT-it'
+slug: 'B084WLMKGT-it Trust Gaming GXT 488 Forze Cuffie PS4 e PS5 con Licenza...'
+sku: 'B084WLMKGT-it'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99
@@ -16,7 +18,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B084WLMKGT/?tag=tolees00-21'
 descuento: '36.01'
-average: '29.869423076923074'
+average: '29.9479629629629'
 ---
 
 Puoi trovare [Trust Gaming GXT 488 Forze Cuffie PS4 e PS5 con Licenza Ufficiale PlayStation  Microfono Ripiegabile e Archetto Regolabile  Nero](https://www.amazon.it/dp/B084WLMKGT/?tag=tolees00-21) con il prezzo 31.99 EUR (originale: 49.99 EUR) 36.01 % sconto qui:
@@ -26,8 +28,8 @@ Puoi trovare [Trust Gaming GXT 488 Forze Cuffie PS4 e PS5 con Licenza Ufficiale 
 ℹ️:
 
 - Licenza ufficiale per playstation 4. Compatibile con PS5
-- Potenti unità altoparlanti attive da 50 mm con padiglioni over-ear morbidi e confortevoli
 - Flessibile microfono ripiegabile e archetto regolabile rinforzato; telecomando integrato per controllare il volume ed escludere il microfono
+- Potenti unità altoparlanti attive da 50 mm con padiglioni over-ear morbidi e confortevoli
 - È sufficiente inserire la spina delle cuffie nel dualshock 4 o dualsense (ingresso da 3,5 mm)
 - Cavo a treccia in nylon da 1,2 m, la lunghezza ideale per collegare il controller
 
