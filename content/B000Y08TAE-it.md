@@ -27,8 +27,8 @@ Puoi trovare [BLUNDSTONE Chisel Toe   Stivaletti Unisex  Marrone  Brown   41 1/2
 
 ℹ️:
 
-- Tomaia in pelle
-- Stivaletti Blundstone classici
 - Resistenti ed impermeabili
+- Stivaletti Blundstone classici
+- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000Y08TAE/?tag=tolees00-21)
