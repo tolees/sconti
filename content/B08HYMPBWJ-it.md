@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'SNAPTAIN S5C 720P Drone con Telecamera H al 15.00 % di sconto'
-date: 2021-01-10 15:49:01
+date: 2021-01-27 13:39:37
 image: 'https://m.media-amazon.com/images/I/41DNK+xY4DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HYMPBWJ-it'
+slug: 'B08HYMPBWJ-it SNAPTAIN S5C 720P Drone con Telecamera HD FPV...'
+sku: 'B08HYMPBWJ-it'
+tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49
@@ -16,7 +18,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B08HYMPBWJ/?tag=tolees00-21'
 descuento: '15.00'
-average: '70.3605882352941'
+average: '70.2158064516129'
 ---
 
 Puoi trovare [SNAPTAIN S5C 720P Drone con Telecamera HD FPV  Quadricottero WiFi Un Pulsante Decollo e Atterraggio  G-sensore  3D Flip  Funzione di Hovering  Adatto ai Principianti e Bambini](https://www.amazon.it/dp/B08HYMPBWJ/?tag=tolees00-21) con il prezzo 59.49 EUR (originale: 69.99 EUR) 15.00 % sconto qui:
@@ -31,4 +33,4 @@ Puoi trovare [SNAPTAIN S5C 720P Drone con Telecamera HD FPV  Quadricottero WiFi 
 - Protezione completa e batteria extra: con la protezione delle eliche, offrendo una maggiore sicurezza del drone, il materiale elastico in ABS consente al drone di resistere a urti, è dotato di batteria da 800 mAh che dura da 7 a 10 minuti. Inoltre, abbiamo corredato da due batterie per prolungare il tempo di volo.
 - Il drone ha modalità di hovering (Può scattare immagine e video eccellente), protezione di fuori controllo(Atterra automaticamente dopo la disconnessione di 3 secondi), G-sensore(Si può controllare e pilotare in base al movimento dello smartphone), funzione di suggerimento a tensione bassa ecc. Il drone è anche conforme alla certificazione CE, gli standard FCC e ROHS.
 
-[Acquista qui!!](https://www.amazon.it/dp/B08HYMPBWJ/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HYMPBWJ/?tag=tolees00-21)
