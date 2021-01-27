@@ -27,9 +27,9 @@ Puoi trovare [Smoby Casette Modulo Cucina 2 anni 7600810901](https://www.amazon.
 
 ℹ️:
 
+- Dimensioni del prodotto (L x P x A): 54 x 34, 5 x 97, 6 cm.
+- La cucina per la casa giocattolo Nuova Jura Lodge dispone di un grill, un lavello con piccolo rubinetto e 17 accessori.
 - Prodotto di alta qualità, realizzato in Francia.
 - Accessori per la casa da gioco Nuova Jura Lodge di Smoby
-- La cucina per la casa giocattolo Nuova Jura Lodge dispone di un grill, un lavello con piccolo rubinetto e 17 accessori.
-- Dimensioni del prodotto (L x P x A): 54 x 34, 5 x 97, 6 cm.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LGD5KJ6/?tag=tolees00-21)
