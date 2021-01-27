@@ -27,8 +27,8 @@ average: '69.98'
 
 ℹ️:
 
-- Fodera impermeabile in GORE-TEX
 - Scarpe da trekking
+- Fodera impermeabile in GORE-TEX
 - Leggere e traspiranti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813WWQRR/?tag=tolees00-21)
