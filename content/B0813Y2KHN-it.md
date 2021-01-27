@@ -28,7 +28,7 @@ Puoi trovare [adidas Superstar W  Scarpe da Ginnastica Donna  Ftwr White/Core Bl
 ℹ️:
 
 - Scarpe sportive
-- Tomaia in pelle
 - Punta in gomma
+- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813Y2KHN/?tag=tolees00-21)
