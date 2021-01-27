@@ -27,8 +27,8 @@ average: '26.98'
 
 ℹ️:
 
-- caffè torrefatto in Italia per macchine nespresso
 - compatibile con tutte le macchine ad uso domestico nespresso
 - capsule autoprotetta in astucci da 10 capsule
+- caffè torrefatto in Italia per macchine nespresso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z6MZQ7H/?tag=tolees00-21)

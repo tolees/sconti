@@ -27,8 +27,8 @@ Puoi trovare [Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Dress Blues/
 
 ℹ️:
 
-- Materiale suola: gomma
 - Materiale esterno: pelle
+- Materiale suola: gomma
 - Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BN54QQ4/?tag=tolees00-21)

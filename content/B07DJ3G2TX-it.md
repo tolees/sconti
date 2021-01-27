@@ -27,10 +27,10 @@ Puoi trovare [Geox U Nebula B  Scarpe da Ginnastica Uomo  Grau  Lt Jeans C4051  
 
 ℹ️:
 
-- Chiusura: slip
-- Materiale suola: EVA
 - Materiale superiore: pelle scamosciata
-- Soletta: pelle
+- Materiale suola: EVA
+- Chiusura: slip
 - Fodera: rete
+- Soletta: pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ3G2TX/?tag=tolees00-21)

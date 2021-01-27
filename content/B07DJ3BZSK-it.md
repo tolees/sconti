@@ -27,10 +27,10 @@ average: '35.0'
 
 ℹ️:
 
-- Fodera: rete
 - Chiusura: slip
 - Materiale superiore: pelle scamosciata
-- Soletta: pelle
 - Materiale suola: EVA
+- Soletta: pelle
+- Fodera: rete
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ3BZSK/?tag=tolees00-21)
