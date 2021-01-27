@@ -27,9 +27,9 @@ Puoi trovare [Tommy Hilfiger BB cap Berretto  Bianco  Classic White 100   Unica 
 
 ℹ️:
 
-- Logo ricamato sul davanti
-- Lavare in lavatrice a freddo (massimo 30 °)
 - Cinturino regolabile sul retro
+- Lavare in lavatrice a freddo (massimo 30 °)
 - Composizione del materiale 100% in cotone
+- Logo ricamato sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016QM6OPK/?tag=tolees00-21)

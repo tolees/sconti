@@ -27,9 +27,9 @@ Puoi trovare [Tommy Hilfiger Classic BB cap Berretto  Rosso  Apple Red 611   Uni
 
 ℹ️:
 
-- Lavare in lavatrice a freddo (massimo 30 °)
-- Composizione del materiale 100% in cotone
 - Cinturino regolabile sul retro
 - Logo ricamato sul davanti
+- Composizione del materiale 100% in cotone
+- Lavare in lavatrice a freddo (massimo 30 °)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016QM6ODC/?tag=tolees00-21)
