@@ -1,27 +1,29 @@
 ---
 layout: post
-title: 'Trono Di Spade Stagione 8  3 Blu Ray  al 47.62 % di sconto'
-date: 2021-01-17 00:04:24
+title: 'WARNER BROS - Trono Di Spade Stagione 8  al 58.58 % di sconto'
+date: 2021-01-27 17:49:59
 image: 'https://m.media-amazon.com/images/I/51CGwSM01WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLFS58R-it'
-actualPrice: 26.19 EUR
+slug: 'B07SLFS58R-it WARNER BROS - Trono Di Spade Stagione 8 3 Blu Ray'
+sku: 'B07SLFS58R-it'
+tags: [  ]
+actualPrice: 20.71 EUR
 currency: EUR
-price: 26.19
+price: 20.71
 comparePrice: 50.0 EUR
-prodname: 'Trono Di Spade Stagione 8  3 Blu Ray '
+prodname: 'WARNER BROS - Trono Di Spade Stagione 8  3 Blu Ray '
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21'
-descuento: '47.62'
-average: '24.234736842105256'
+descuento: '58.58'
+average: '24.1832786885246'
 ---
 
-Puoi trovare [Trono Di Spade Stagione 8  3 Blu Ray ](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21) con il prezzo 26.19 EUR (originale: 50.0 EUR) 47.62 % sconto qui:
+Puoi trovare [WARNER BROS - Trono Di Spade Stagione 8  3 Blu Ray ](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21) con il prezzo 20.71 EUR (originale: 50.0 EUR) 58.58 % sconto qui:
 
-[![Trono Di Spade Stagione 8  3 Blu Ray ](https://m.media-amazon.com/images/I/51CGwSM01WL._SL200_.jpg)](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21)
+[![WARNER BROS - Trono Di Spade Stagione 8 ](https://m.media-amazon.com/images/I/51CGwSM01WL._SL200_.jpg)](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21)
 
 ℹ️:
 

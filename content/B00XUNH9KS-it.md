@@ -27,10 +27,10 @@ average: '8.67'
 
 ℹ️:
 
-- Soddisfa le esigenze di un vero espresso nella tradizione del sud Italia - corposo, forte e pieno di aroma.
+- Questo espresso medio tostato è una miscela uniforme di intensità, ricchezza, dolcezza e struttura.
 - Una miscela classica 80% Arabica / 20% Robusta. Livello di intensità 10/12
 - Tostato e miscelato utilizzando la tecnologia più moderna
-- Questo espresso medio tostato è una miscela uniforme di intensità, ricchezza, dolcezza e struttura.
+- Soddisfa le esigenze di un vero espresso nella tradizione del sud Italia - corposo, forte e pieno di aroma.
 - Aroma 5/6, Corpo 6/6, Torrefazione 5/6, Intensità 10/12
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUNH9KS/?tag=tolees00-21)
