@@ -27,10 +27,10 @@ Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Navy Blue   4
 
 ℹ️:
 
-- Chiusura: senza chiusura
-- Altezza tacco: 1 cm
 - Fodera: gomma
-- Materiale suola: gomma
+- Chiusura: senza chiusura
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Materiale suola: gomma
+- Altezza tacco: 1 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001OI3MQ6/?tag=tolees00-21)

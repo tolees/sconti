@@ -28,10 +28,10 @@ average: '54.99'
 ℹ️:
 
 - Tagliabasette a scomparsa e pettini accessori per barba, corpo (da 1,5 mm) e capelli inclusi
-- Voltaggio: 240
 - Tagliacapelli/Regolabarba, taglio 1-20 mm in 39 step e 0,5 mm senza pettini accessori
-- Carica 1 h; autonomia 50 minuti; lavabile sotto acqua corrente
-- Lame in acciaio inox
 - Accessori inclusi: pettine corpo, pettini 1-10mm, pettine 11-20, custodia viaggio
+- Carica 1 h; autonomia 50 minuti; lavabile sotto acqua corrente
+- Voltaggio: 240
+- Lame in acciaio inox
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085FBDBW7/?tag=tolees00-21)

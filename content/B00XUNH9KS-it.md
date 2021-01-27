@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'sconto del 37.63 % su Kimbo Chicchi di Caffè Interi Espresso C  '
-date: 2021-01-14 08:13:19
+date: 2021-01-27 16:32:31
 image: 'https://m.media-amazon.com/images/I/41-l4QVfuAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XUNH9KS-it'
+slug: 'B00XUNH9KS-it Kimbo Chicchi di Caffè Interi Espresso Classico Tostatura...'
+sku: 'B00XUNH9KS-it'
+tags: [  ]
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67
@@ -25,10 +27,10 @@ average: '8.67'
 
 ℹ️:
 
-- Una miscela classica 80% Arabica / 20% Robusta. Livello di intensità 10/12
-- Aroma 5/6, Corpo 6/6, Torrefazione 5/6, Intensità 10/12
 - Soddisfa le esigenze di un vero espresso nella tradizione del sud Italia - corposo, forte e pieno di aroma.
+- Una miscela classica 80% Arabica / 20% Robusta. Livello di intensità 10/12
 - Tostato e miscelato utilizzando la tecnologia più moderna
 - Questo espresso medio tostato è una miscela uniforme di intensità, ricchezza, dolcezza e struttura.
+- Aroma 5/6, Corpo 6/6, Torrefazione 5/6, Intensità 10/12
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUNH9KS/?tag=tolees00-21)

@@ -27,7 +27,7 @@ average: '19.64'
 
 ℹ️:
 
-- Ruote multidirezionale
 - Montaggio facile
+- Ruote multidirezionale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077YZN7VL/?tag=tolees00-21)
