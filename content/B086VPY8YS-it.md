@@ -27,10 +27,10 @@ Puoi trovare [HUAWEI P40 con Cover  Acoustic Display da 6.1"  Tripla Fotocamera 
 
 ℹ️:
 
-- Sistema operativo android open source 10 + emui 10.1
 - Memoria da 8gb ram + 128gb rom
-- Tripla fotocamera da 50+16+8mp e fotocamera frontale da 32mp più fotocamera infrarossi
 - Huawei P40 utilizza i Huawei Mobile Services (HMS) anziché i Google Mobile Services (GMS); il Google Play Store e le app di Google non sono installate”. Scopri come scaricare le app e sfruttare al meglio il tuo dispositivo HUAWEI su consumer.huawei.com/it/campaign/all-in-one/
+- Tripla fotocamera da 50+16+8mp e fotocamera frontale da 32mp più fotocamera infrarossi
 - Batteria da 3800 mAh con tecnologia supercharge 22,5w
+- Sistema operativo android open source 10 + emui 10.1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086VPY8YS/?tag=tolees00-21)

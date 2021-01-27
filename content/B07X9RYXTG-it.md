@@ -27,10 +27,10 @@ average: '192.19'
 
 ℹ️:
 
-- Versatile: Flexi-Click consente di passare da un accessorio allaltro
-- Pratico: grazie al design compatto, ottimo per aree difficili da raggiungere
-- Professional 12V System; prestazioni ottimali; elevata libertà; tutte le nostre batterie sono compatibili con gli utensili Bosch Professional della stessa categoria di tensione
 - Potente: con prestazioni efficienti e una coppia di 30 Nm
+- Versatile: Flexi-Click consente di passare da un accessorio allaltro
+- Professional 12V System; prestazioni ottimali; elevata libertà; tutte le nostre batterie sono compatibili con gli utensili Bosch Professional della stessa categoria di tensione
+- Pratico: grazie al design compatto, ottimo per aree difficili da raggiungere
 - In dotazione: GSR 12V-15 FC, 1x attacco per mandrino, 1x attacco eccentrico, 1x attacco angolare, 1x batteria da 2.0 Ah, caricatore rapido, 40 pezzi set di accessori, valigetta artigianale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X9RYXTG/?tag=tolees00-21)
