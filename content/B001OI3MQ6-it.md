@@ -1,31 +1,36 @@
 ---
 layout: post
-title: 'Havaianas Brasil Logo 4110850  Infradito al 28.87 % di sconto'
-date: 2020-08-28 19:52:28
-image: 'https://m.media-amazon.com/images/I/41zCWOJexML._SL200_.jpg'
+title: 'Havaianas Brasil Logo  Infradito Unisex- al 63.33 % di sconto'
+date: 2021-01-27 15:41:25
+image: 'https://m.media-amazon.com/images/I/41FzhZHx7EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001OI3MQ6-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto Blu...'
+slug: 'B001OI3MQ6-it Havaianas Brasil Logo Infradito Unisex-Adulto Blu Navy...'
 sku: 'B001OI3MQ6-it'
 tags: [  ]
-actualPrice: 17.07 EUR
+actualPrice: 8.8 EUR
 currency: EUR
-price: 17.07
+price: 8.8
 comparePrice: 24.0 EUR
-prodname: 'Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Blu  Navy Blue   41/42 EU'
+prodname: 'Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Navy Blue   41/42 EU'
 country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B001OI3MQ6/?tag=tolees00-21'
-descuento: '28.87'
-average: '17.07'
+descuento: '63.33'
+average: '12.935'
 ---
 
-Puoi trovare [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Blu  Navy Blue   41/42 EU](https://www.amazon.it/dp/B001OI3MQ6/?tag=tolees00-21) con il prezzo 17.07 EUR (originale: 24.0 EUR) 28.87 % sconto qui:
+Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Navy Blue   41/42 EU](https://www.amazon.it/dp/B001OI3MQ6/?tag=tolees00-21) con il prezzo 8.8 EUR (originale: 24.0 EUR) 63.33 % sconto qui:
 
-[![Havaianas Brasil Logo 4110850  Infradito](https://m.media-amazon.com/images/I/41zCWOJexML._SL200_.jpg)](https://www.amazon.it/dp/B001OI3MQ6/?tag=tolees00-21)
+[![Havaianas Brasil Logo  Infradito Unisex-](https://m.media-amazon.com/images/I/41FzhZHx7EL._SL200_.jpg)](https://www.amazon.it/dp/B001OI3MQ6/?tag=tolees00-21)
 
 ℹ️:
 
+- Chiusura: senza chiusura
+- Altezza tacco: 1 cm
+- Fodera: gomma
+- Materiale suola: gomma
+- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001OI3MQ6/?tag=tolees00-21)

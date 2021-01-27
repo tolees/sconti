@@ -28,9 +28,9 @@ Puoi trovare [Sony WH-CH510 - Cuffie wireless on-ear  Compatibile con Google Ass
 ℹ️:
 
 - Voice assistant
-- Durata della batteria fino a 35 ore
+- Design on-ear compatto
 - Cuffie sony wireless bluetooth on-ear wh-ch510 nero
 - Quick charge: 90 minuti di riproduzione con 10 minuti di ricarica
-- Design on-ear compatto
+- Durata della batteria fino a 35 ore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WD58H6R/?tag=tolees00-21)

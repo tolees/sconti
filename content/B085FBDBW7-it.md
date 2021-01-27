@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'sconto del 35.30 % su Panasonic ER-GB80-H503 Regolabarba e Tag  '
-date: 2021-01-18 15:43:34
+date: 2021-01-27 15:44:18
 image: 'https://m.media-amazon.com/images/I/41ook3D947L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085FBDBW7-it'
+slug: 'B085FBDBW7-it Panasonic ER-GB80-H503 Regolabarba e Tagliacapelli per la...'
+sku: 'B085FBDBW7-it'
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99
@@ -25,11 +27,11 @@ average: '54.99'
 
 ℹ️:
 
-- Accessori inclusi: pettine corpo, pettini 1-10mm, pettine 11-20, custodia viaggio
-- Carica 1 h; autonomia 50 minuti; lavabile sotto acqua corrente
 - Tagliabasette a scomparsa e pettini accessori per barba, corpo (da 1,5 mm) e capelli inclusi
-- Lame in acciaio inox
 - Voltaggio: 240
 - Tagliacapelli/Regolabarba, taglio 1-20 mm in 39 step e 0,5 mm senza pettini accessori
+- Carica 1 h; autonomia 50 minuti; lavabile sotto acqua corrente
+- Lame in acciaio inox
+- Accessori inclusi: pettine corpo, pettini 1-10mm, pettine 11-20, custodia viaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085FBDBW7/?tag=tolees00-21)
