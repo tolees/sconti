@@ -27,7 +27,7 @@ Puoi trovare [United Colors of Benetton 3J68E2236 Felpe con Cappuccio  Bianco 90
 
 ℹ️:
 
-- 100%cotone
 - Felpa cappuccio kh
+- 100%cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082XV18GP/?tag=tolees00-21)

@@ -28,7 +28,7 @@ average: '64.0'
 ℹ️:
 
 - Lavorazione a maglia intrecciata
-- Collo, polsini e fondo a coste
 - Bandierina Tommy Hilfiger ricamata sul petto
+- Collo, polsini e fondo a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0841ZL1BD/?tag=tolees00-21)

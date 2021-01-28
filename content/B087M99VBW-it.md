@@ -27,10 +27,10 @@ average: '87.0'
 
 ℹ️:
 
+- - Forma della cassa: Circolare
 - - Cassa in: Acciaio INOX
 - Cassa
 - - Vetro: Vetro minerale
-- - Forma della cassa: Circolare
 - - Colore della cassa: Argento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087M99VBW/?tag=tolees00-21)

@@ -27,7 +27,7 @@ average: '39.92'
 
 ℹ️:
 
-- Un Brunello che nasce dai vigneti aziendali che gli studi di zonazione, iniziati nel 1980, hanno permesso di individuare come i più vocati per il Sangiovese. Elegante ed equilibrato, con una buona persistenza, aromi complessi e dolci e una struttura importante ma morbida, accompagnata da una buona acidità finale
 - Rosso di Montalcino Banfi è un grande classico del territorio Montalcinese e di Banfi. Unisce leleganza e la solidità tipici del suo fratello più blasonato, il Brunello, ad una immediatezza e freschezza che lo rendono un vino versatile come pochi altri. Godibile da subito può anche sostenere un lungo periodo di invecchiamento
+- Un Brunello che nasce dai vigneti aziendali che gli studi di zonazione, iniziati nel 1980, hanno permesso di individuare come i più vocati per il Sangiovese. Elegante ed equilibrato, con una buona persistenza, aromi complessi e dolci e una struttura importante ma morbida, accompagnata da una buona acidità finale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DY9PG41/?tag=tolees00-21)

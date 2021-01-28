@@ -27,8 +27,8 @@ Puoi trovare [Tommy Hilfiger TJW Basic Hooded Down Jacket Giacca  Verde Midwest 
 
 ℹ️:
 
-- Questo prodotto è prodotto in modo sostenibile
 - Tommy Jeans Donna Giacche
+- Questo prodotto è prodotto in modo sostenibile
 - Si tratta di un prodotto originale e autentico Tommy Jeans.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0842HBJKZ/?tag=tolees00-21)
