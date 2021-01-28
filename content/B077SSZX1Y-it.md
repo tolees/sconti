@@ -28,9 +28,9 @@ average: '28.2'
 ℹ️:
 
 - Due tasche posteriori
+- Cappuccio con cordino per regolare la vestibilità
 - dryCELL: è il modo in cui PUMA definisce le proprietà antisudore che ti aiutano a mantenere una sensazione di asciutto e di comfort
 - Chiusura con zip a spirale reversibile
-- Cappuccio con cordino per regolare la vestibilità
 - Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077SSZX1Y/?tag=tolees00-21)
