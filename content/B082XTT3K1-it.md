@@ -27,7 +27,7 @@ average: '33.12'
 
 ℹ️:
 
-- 100%COTONE
 - FELPA CAPPUCCIO KH
+- 100%COTONE
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082XTT3K1/?tag=tolees00-21)
