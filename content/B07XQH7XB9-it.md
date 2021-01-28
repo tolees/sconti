@@ -27,10 +27,10 @@ average: '4.52'
 
 ℹ️:
 
-- Decantazione - la decantazione è unantica tecnica utilizzata per liberare lolio dagli eccessi di acqua vegetale ed impurità che nel tempo tenderebbero a rovinare l’olio
-- Degustazione - il suo gusto, deciso ed equilibrato, è ideale per condire piatti regionali, tipici della tradizione italiana quali carni rosse, arrosti, legumi e primi piatti dal carattere intenso
+- Decantato gusto deciso - l’olio extra vergine il decantato gusto deciso 100% italiano nasce dall’accurata selezione dei migliori oli italiani
 - Monini - La filosofia della famiglia Monini è da sempre quella di produrre Oli Extravergini di oliva ineccepibili, di qualità superiore, controllati e certificati dalla filiera alla tua tavola
 - Decantati - Monini presenta una gamma di olii extravergini di alta qualità decantati secondo tradizione, in 3 varianti: Biologico, 100% Italiano e Gusto Morbido
-- Decantato gusto deciso - l’olio extra vergine il decantato gusto deciso 100% italiano nasce dall’accurata selezione dei migliori oli italiani
+- Degustazione - il suo gusto, deciso ed equilibrato, è ideale per condire piatti regionali, tipici della tradizione italiana quali carni rosse, arrosti, legumi e primi piatti dal carattere intenso
+- Decantazione - la decantazione è unantica tecnica utilizzata per liberare lolio dagli eccessi di acqua vegetale ed impurità che nel tempo tenderebbero a rovinare l’olio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XQH7XB9/?tag=tolees00-21)
