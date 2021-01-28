@@ -27,11 +27,11 @@ average: '179.99'
 
 ℹ️:
 
+- Accesso allassistente vocale con un solo tocco: toccando un semplice tasto è possibile accedere a siri, hey google e alexa
+- Controllo touchpad: un touchpad sul padiglione destro offre i controlli per volume, play, stop, pause e track skipping; il tocco del padiglione consente di prendere le chiamate in entrata; luso di queste cuffie è semplice e intuitivo
 - I Dispositivi Alexa built-in ti permettono di connetterti istantaneamente con Alexa per riprodurre musica, controllare la tua casa intelligente, ricevere informazioni, news, meteo e molto altro grazie alla voce.
 - Qualità audio superiore e cancellazione del rumore attiva: la pxc 550-ii wireless offre la leggendaria qualità del suono sennheiser; la cancellazione del rumore attiva riduce il rumore ambientale attorno a te e può essere regoalta secondo le tue preferenze
-- Accesso allassistente vocale con un solo tocco: toccando un semplice tasto è possibile accedere a siri, hey google e alexa
 - Smart pause (attivabile tramite app) / auto on/off: ruota i padiglioni per spegnere la cuffia, i sensori rilevano quando indossi le cuffie e quando ascolti /metti in pausa la musica
-- Controllo touchpad: un touchpad sul padiglione destro offre i controlli per volume, play, stop, pause e track skipping; il tocco del padiglione consente di prendere le chiamate in entrata; luso di queste cuffie è semplice e intuitivo
 - Eccezionale performance della batteria fino a 30 ore: con la pxc 550-ii wireless puoi viaggiare da londra a hong kong e tornare indietro con una sola ricarica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYLPPSL/?tag=tolees00-21)
