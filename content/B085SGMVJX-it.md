@@ -28,10 +28,10 @@ average: '69.98'
 ℹ️:
 
 - padded base protects contents
-- single zipped side pocket
-- stretch mesh side pocket
 - low profile padded carry handles on upper and lower end
-- Sport type: Outdoor Lifestyle
 - harness straps join together for top handle
+- Sport type: Outdoor Lifestyle
+- stretch mesh side pocket
+- single zipped side pocket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085SGMVJX/?tag=tolees00-21)
