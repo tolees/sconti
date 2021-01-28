@@ -29,7 +29,7 @@ Puoi trovare [Borotalco Deodorante Spray Invisible  150 ml](https://www.amazon.i
 
 - 47% di meno macchie sui vestiti*
 - Con il potere assorbente del microtalco dona un effetto molto asciutto
-- 0% alcool; dermatologicamente testato
 - Profumo classico di Invisible
+- 0% alcool; dermatologicamente testato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FYLNCV4/?tag=tolees00-21)

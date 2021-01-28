@@ -27,9 +27,9 @@ average: '3.14583333333333'
 
 ℹ️:
 
-- Profumo fresco e avvolgente
+- Efficacia 48 ore
 - 0% alcool; dermatologicamente testato
 - 32% di meno sudore dopo 24 h*
-- Efficacia 48 ore
+- Profumo fresco e avvolgente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GDT2X9W/?tag=tolees00-21)

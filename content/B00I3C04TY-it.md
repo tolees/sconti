@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'STANLEY FMC645D2-QW Trapano Avvitatore a al 54.57 % di sconto'
-date: 2021-01-06 08:13:55
+date: 2021-01-28 22:31:47
 image: 'https://m.media-amazon.com/images/I/513NKUNeIPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I3C04TY-it'
+slug: 'B00I3C04TY-it STANLEY FMC645D2-QW Trapano Avvitatore ad impulsi 2 Ah con...'
+sku: 'B00I3C04TY-it'
+tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9
@@ -26,10 +28,10 @@ Puoi trovare [STANLEY FMC645D2-QW Trapano Avvitatore ad impulsi  2 Ah con Doppia
 ℹ️:
 
 - Due alloggiamenti magnetici porta inserti
-- Luce LED per un`ottima visibilità
-- Design compatto e leggero che consente di raggiungere spazi confinati
 - Attacco esagonale da 1/4" (6,35mm)
-- Due velocità meccaniche, reversibile e elettronico
+- Design compatto e leggero che consente di raggiungere spazi confinati
+- Luce LED per un`ottima visibilità
 - Manico ergonomico con rivestimento in gomma
+- Due velocità meccaniche, reversibile e elettronico
 
-[Acquista qui!!](https://www.amazon.it/dp/B00I3C04TY/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B00I3C04TY/?tag=tolees00-21)

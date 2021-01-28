@@ -27,11 +27,11 @@ Puoi trovare [Hasbro Gaming A4626103 Taboo  Gioco in Scatola ](https://www.amazo
 
 ℹ️:
 
-- Oops! Se nomini una delle parole proibite gli avversari schiacciano il pulsante
-- Versione Italiana
 - Fai in modo che i compagni di gioco pronuncino la parola misteriosa da indovinare senza nominare le parole proibite
-- Comprende 260 carte; oltre 1000 parole misteriose da indovinare
 - Questo Gioco divertente e frenetico è per i Giocatori una corsa contro il tempo
 - Il dado del destino permette ai Giocatori di cambiare il gioco
+- Oops! Se nomini una delle parole proibite gli avversari schiacciano il pulsante
+- Versione Italiana
+- Comprende 260 carte; oltre 1000 parole misteriose da indovinare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DXNCH66/?tag=tolees00-21)
