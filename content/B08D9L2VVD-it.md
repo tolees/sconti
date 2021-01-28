@@ -27,10 +27,10 @@ Puoi trovare [INIZIATIVE Termometro Infrarossi Digitale Frontale Misuratore Temp
 
 ℹ️:
 
-- Spegnimento automatico dopo 40 secondi per risparmiare energia
 - Termometro digitale a infrarossi per la misurazione a distanza della temperatura corporea.
+- Spegnimento automatico dopo 40 secondi per risparmiare energia
+- 2 batterie AA necessarie per luso e Non incluse
 - Allarme acustico se la temperatura e superiore a 38 gradi Celsius (100,4 fahrenheit)
 - Progettato per leggere le temperature entro 3-5 cm dalla fronte in gradi Celsius o Fahrenheit
-- 2 batterie AA necessarie per luso e Non incluse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D9L2VVD/?tag=tolees00-21)
