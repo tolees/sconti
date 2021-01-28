@@ -27,15 +27,15 @@ average: '342.9'
 
 ℹ️:
 
-- GPS + Cellular
-- Chiamate d’emergenza internazionali
-- SOS emergenze6
-- Altitudine
-- Swimproof
-- Cardiofrequenzimetro elettrico e ottico
-- App ECG
-- Display più ampio del 30%
 - Bussola integrata
+- GPS + Cellular
+- App ECG
+- Chiamate d’emergenza internazionali
+- Altitudine
+- Display più ampio del 30%
+- Swimproof
+- SOS emergenze6
+- Cardiofrequenzimetro elettrico e ottico
 - Display Retina always-on (sempre attivo)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XS7YD1K/?tag=tolees00-21)

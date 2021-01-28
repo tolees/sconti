@@ -28,9 +28,9 @@ Puoi trovare [Oli-natura olio di legno naturale  contenuto: 1 L  naturale](http
 ℹ️:
 
 - Prodotto naturale realizzato con olii vegetali e crescere come olio di soia modificato e cera carnauba
-- Cono S.A.N. incolore, Contenuto: 1 litro, a seconda della base 20 – 25 m²
-- Per il trattamento di pavimenti in legno, pavimenti in sughero e OSB per pavimenti, scale, porte, piani di lavoro e mobili
 - Elevata resistenza a haushaltschemikalien e liquidi, adatto per Giocattoli e mobili per bambini
+- Per il trattamento di pavimenti in legno, pavimenti in sughero e OSB per pavimenti, scale, porte, piani di lavoro e mobili
 - 1 – 2 lavori senza e con confezione adden possibile, anmutende e design accattivante
+- Cono S.A.N. incolore, Contenuto: 1 litro, a seconda della base 20 – 25 m²
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EYF758Q/?tag=tolees00-21)
