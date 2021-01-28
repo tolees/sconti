@@ -30,7 +30,7 @@ Puoi trovare [Pavesi Biscotti Farciti Ringo  con Crema di Nocciola e Cioccolato 
 - PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - RINGO CIOCCOLATO E NOCCIOLA - Gusto ed energia in ogni singolo biscotto. Il biscotto Ringo al cacao e nocciola è goloso e divertente da mangiare: apri le cialde, assaggia la crema e gusta il biscotto
 - IL BISCOTTO DEI CAMPIONI - Ringo è la merenda che ti aiuta a dare il meglio, in campo e nella vita. Diventa il migliore in campo e dimostra di essere un vero campione
-- INGREDIENTI - Farina di frumento, nocciole, cioccolato. Senza olio di palma. Sei Ringo sono pari al 13% del fabbisogno giornaliero
 - RINGO - Piccole e grandi sfide per i campioni che tutti i giorni hanno bisogno di energia per affrontare la giornata. Con Ringo avrai la giusta carica
+- INGREDIENTI - Farina di frumento, nocciole, cioccolato. Senza olio di palma. Sei Ringo sono pari al 13% del fabbisogno giornaliero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUPAISG/?tag=tolees00-21)

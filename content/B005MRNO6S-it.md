@@ -27,10 +27,10 @@ Puoi trovare [Mulino Bianco Crostatine con Crema al Cacao e Nocciole  10 Pezzi  
 
 ℹ️:
 
-- MERENDINE E TORTE - Ricette per tutti da gustare al mattino, per merenda o a cena. Cornetti, merendine e torte di Mulino Bianco che conquisteranno i grandi e i bambini
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 - PER LA TUA MERENDA - Ideali per la tua colazione o per la tua merenda: una crostatina e una tazza di tè zuccherato. Per un totale di calorie pari al 11% del tuo fabbisogno energetico giornaliero
 - CROSTATINE CON CACAO E NOCCIOLE - Crostatina Mulino Bianco: friabile pastafrolla e deliziosa crema al cacao. Per gustare tutta la bontà della tradizione
+- MERENDINE E TORTE - Ricette per tutti da gustare al mattino, per merenda o a cena. Cornetti, merendine e torte di Mulino Bianco che conquisteranno i grandi e i bambini
 - INGREDIENTI - Cacao e nocciole, uova fresche da galline allevate a terra, burro da panna fresca. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005MRNO6S/?tag=tolees00-21)
