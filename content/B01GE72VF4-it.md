@@ -27,10 +27,10 @@ Puoi trovare [Intercable Set 8 Giraviti con Forbici F1 da elettricista](https://
 
 ℹ️:
 
-- forma speciale delle lame per tranciare e spellare
 - idonea per spellare e tagliare cavi in Cu/Al fino a 50 mm²
 - 8 Giraviti isolati 1000V più usati
 - due forbici in una + GIRAVITI isolati
 - con incavo per crimpare terminali a bussola da 0,5 a 4 mm²
+- forma speciale delle lame per tranciare e spellare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GE72VF4/?tag=tolees00-21)
