@@ -27,10 +27,10 @@ average: '29.99'
 
 ℹ️:
 
-- 800 lumen
-- Frequenza: 2400 mhz-2483, 5 MHz
-- Potenza: 220-240 v, 50/60 Hz, 0, 09 a
-- Android 4.4 e iOS 8.0
 - Connessione wi-fi: Wi-Fi ieee 802.11 b/g/n 2, 4 ghz
+- Potenza: 220-240 v, 50/60 Hz, 0, 09 a
+- 800 lumen
+- Android 4.4 e iOS 8.0
+- Frequenza: 2400 mhz-2483, 5 MHz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XDC13LR/?tag=tolees00-21)

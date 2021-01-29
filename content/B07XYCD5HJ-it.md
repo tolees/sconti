@@ -27,10 +27,10 @@ average: '19.99'
 
 ℹ️:
 
+- Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 10/12
+- Caffè espresso dallintensa cremosità, sapore deciso e aroma intenso
 - Queste cialde sono 100% biodegradabili. Compatibile con macchine a cialde ese standard da 44 mm
 - 8 x 18 cialde - Avvolto singolarmente in unatmosfera protettiva per mantenerlo fresco
 - Caffè Arabica e Robusta dall’America Centrale e del Sud e dall’Asia
-- Caffè espresso dallintensa cremosità, sapore deciso e aroma intenso
-- Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 10/12
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYCD5HJ/?tag=tolees00-21)

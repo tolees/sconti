@@ -27,10 +27,10 @@ Puoi trovare [OSRAM XENARC NIGHT BREAKER LASER D3S  +200% di luce  bulbo HID all
 
 ℹ️:
 
-- Luce xeno 20% più bianca per lautomobilista attento alle prestazioni e omologata ECE
-- OSRAM XENARC NIGHT BREAKER LASER D3S: la lampada xeno OSRAM più brillante nel pratico duo box
-- Qualità Premium made in Germany: disponibile nei tipi D1S, D2S, D3S e D4S
 - Fascio fino a 250 m lungo per una migliore visibilità per vedere ostacoli e pericoli prima
+- OSRAM XENARC NIGHT BREAKER LASER D3S: la lampada xeno OSRAM più brillante nel pratico duo box
+- Luce xeno 20% più bianca per lautomobilista attento alle prestazioni e omologata ECE
+- Qualità Premium made in Germany: disponibile nei tipi D1S, D2S, D3S e D4S
 - Fino a 200% in più di luce per maggiore sicurezza alla guida grazie ad una migliore illuminazione in strada
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FY78JBQ/?tag=tolees00-21)
