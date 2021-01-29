@@ -27,9 +27,9 @@ average: '86.9'
 
 ℹ️:
 
-- Power Zoom Adapter PZ-E1
-- Zoom fluido di alta qualità durante la ripresa di filmati
 - Power Zoom Adapter compatto e portatile
+- Zoom fluido di alta qualità durante la ripresa di filmati
+- Power Zoom Adapter PZ-E1
 - Ideale per riprese di notiziari e documentari
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BWHEGRC/?tag=tolees00-21)

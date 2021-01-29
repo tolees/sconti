@@ -27,10 +27,10 @@ Puoi trovare [STANLEY FMC645D2-QW Trapano Avvitatore ad impulsi  2 Ah con Doppia
 
 ℹ️:
 
-- Due alloggiamenti magnetici porta inserti
-- Manico ergonomico con rivestimento in gomma
-- Luce LED per un`ottima visibilità
 - Due velocità meccaniche, reversibile e elettronico
+- Luce LED per un`ottima visibilità
+- Manico ergonomico con rivestimento in gomma
+- Due alloggiamenti magnetici porta inserti
 - Attacco esagonale da 1/4" (6,35mm)
 - Design compatto e leggero che consente di raggiungere spazi confinati
 
