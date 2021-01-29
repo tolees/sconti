@@ -27,8 +27,8 @@ average: '13.3'
 
 ℹ️:
 
-- Confezione da 3 slip hipster.
-- Fascia elastica in vita a righe.
 - Cotone elasticizzato.
+- Fascia elastica in vita a righe.
+- Confezione da 3 slip hipster.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089BQQKP1/?tag=tolees00-21)

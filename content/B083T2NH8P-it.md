@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Samsung C24RG52FQU Monitor Gaming Curvo  al 21.40 % di sconto'
-date: 2021-01-17 12:18:13
+date: 2021-01-29 11:31:02
 image: 'https://m.media-amazon.com/images/I/419g1Ulg3OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083T2NH8P-it'
+slug: 'B083T2NH8P-it Samsung C24RG52FQU Monitor Gaming Curvo da 24 pollici Full...'
+sku: 'B083T2NH8P-it'
+tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99
@@ -16,7 +18,7 @@ country: 'it'
 flag: '🇮🇹'
 buyurl: 'https://www.amazon.it/dp/B083T2NH8P/?tag=tolees00-21'
 descuento: '21.40'
-average: '206.1616666666667'
+average: '202.422857142858'
 ---
 
 Puoi trovare [Samsung C24RG52FQU Monitor Gaming Curvo da 24 pollici  Full HD 1800R  144 Hz  Freesync  4 ms  Display port  2 HDMI  Nero](https://www.amazon.it/dp/B083T2NH8P/?tag=tolees00-21) con il prezzo 179.99 EUR (originale: 229.0 EUR) 21.40 % sconto qui:
@@ -25,10 +27,10 @@ Puoi trovare [Samsung C24RG52FQU Monitor Gaming Curvo da 24 pollici  Full HD 180
 
 ℹ️:
 
-- Lazione è nitida e fluida in ogni momento grazie al refresh rate 144 Hz
-- Modalità Eye Saver e Flicker Free
 - La modalità gioco regola in modo ottimale i livelli di gamma di nero, il contrasto, la nitidezza e il colore per ogni tipo di gioco
+- Lazione è nitida e fluida in ogni momento grazie al refresh rate 144 Hz
 - Tecnologia AMD Freensyc
+- Modalità Eye Saver e Flicker Free
 - Immergiti nei tuoi giochi con la profonda curvatura del monitor 1800R
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083T2NH8P/?tag=tolees00-21)
