@@ -27,8 +27,8 @@ average: '73.86'
 
 ℹ️:
 
-- With cooling pot for ground tools.
 - For resting a bench grinder independently of a workbench. 100 % cast iron structure for high solidity and durability.
 - Stand area: 215 x 330 mm. Total height of leg: 830 mm.
+- With cooling pot for ground tools.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BD025EK/?tag=tolees00-21)

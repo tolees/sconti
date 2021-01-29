@@ -27,10 +27,10 @@ Puoi trovare [Philips Qualità Aria FY3433/10 Filtro Hepa Nanoprotect  Compatibi
 
 ℹ️:
 
-- *Testato per staphylococcus albus, proprietà antibatteriche testate secondo gli standard GB21551.3 con staphylococcus albus, concentrazione iniziale di 1*10⁵ cfu/m³
-- Filtra il 99,97% delle particelle di 0.3 nanometri*
 - Per purificatore daria Philips AC3256
+- Filtra il 99,97% delle particelle di 0.3 nanometri*
 - Durata fino a 24 mesi**
 - **Il filtro è stato testato con aerosol di cloruro di sodio in conformità con DIN71460-1 in IUTA; lefficienza nel rimuovere particelle da 20 nm è risultata in media del 98%
+- *Testato per staphylococcus albus, proprietà antibatteriche testate secondo gli standard GB21551.3 con staphylococcus albus, concentrazione iniziale di 1*10⁵ cfu/m³
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KWX10MQ/?tag=tolees00-21)

@@ -27,10 +27,10 @@ average: '2.99'
 
 ℹ️:
 
-- Aiuta a rimuovere germi e batteri da tutti i capi
-- Da un fresco profumo di pulito al tuo bucato
+- Detersivo liquido lavatrice e a mano
 - Profumato
 - 25 lavaggi da 65ml cad
-- Detersivo liquido lavatrice e a mano
+- Aiuta a rimuovere germi e batteri da tutti i capi
+- Da un fresco profumo di pulito al tuo bucato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071P45QML/?tag=tolees00-21)

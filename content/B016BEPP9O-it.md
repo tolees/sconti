@@ -27,8 +27,8 @@ average: '15.005'
 
 ℹ️:
 
+- Elegante design nero su nero con cappuccio protettivo a scorrimento
 - Capacità da 16 GB a 256 GB**
 - Il dispositivo di storage USB 3.0* ottimale
-- Elegante design nero su nero con cappuccio protettivo a scorrimento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016BEPP9O/?tag=tolees00-21)
