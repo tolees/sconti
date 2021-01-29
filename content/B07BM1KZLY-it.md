@@ -27,9 +27,9 @@ average: '3.54904761904762'
 
 ℹ️:
 
-- Profumo di sali marini
 - 0% alcool; dermatologicamente testato
 - Più 40% di profumo dopo 4h* (*sniff test con valutazione intensità del profumo, su spray vs deodorante tradizionale)
 - Efficacia fresca
+- Profumo di sali marini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BM1KZLY/?tag=tolees00-21)
