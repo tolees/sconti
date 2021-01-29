@@ -27,7 +27,7 @@ average: '10.8'
 
 ℹ️:
 
-- Chiusura regolabile sul retro con clip
 - 100% Polyester
+- Chiusura regolabile sul retro con clip
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077SWT9YM/?tag=tolees00-21)
