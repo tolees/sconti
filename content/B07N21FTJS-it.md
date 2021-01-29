@@ -28,7 +28,7 @@ average: '31.09'
 ℹ️:
 
 - Ammortizzazione
-- Tomaia in mesh
 - Scarpe da running
+- Tomaia in mesh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N21FTJS/?tag=tolees00-21)
