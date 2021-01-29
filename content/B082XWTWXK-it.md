@@ -27,8 +27,8 @@ Puoi trovare [Lee Plain Crew SWS Maglione  Turkish Coffee 01  Medium Uomo](https
 
 ℹ️:
 
-- Logo sul petto
-- Vestibilità leggera
 - Comodo da indossare
+- Vestibilità leggera
+- Logo sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082XWTWXK/?tag=tolees00-21)
