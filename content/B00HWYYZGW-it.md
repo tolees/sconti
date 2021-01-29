@@ -27,9 +27,9 @@ Puoi trovare [Mosa 53100-35 Generatore Serie Ge 4500-Hbs  Benzina  4.0 KvA](http
 
 ℹ️:
 
+- Honda GX270 CC.270
+- Generatori GE 4500-HBS
 - Prodotto di qualità
 - Silenziati 97 DB(A) 72 LPA IP23
-- Generatori GE 4500-HBS
-- Honda GX270 CC.270
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HWYYZGW/?tag=tolees00-21)
