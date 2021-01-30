@@ -28,10 +28,10 @@ average: '9.73'
 
 ℹ️:
 
-- INCLUDE 6 DARDI NERF E UN SUPPORTO PER DARDI: Include 6 dardi originali Nerf, così potrai ricaricare più volte questo blaster a colpo singolo. Contiene un supporto integrato per riporre 2 dardi.
+- LANCIA I DARDI FINO A 27 M: Colpisci a distanza con questo blaster che lancia i dardi fino a 27 metri.
 - RAGGIO PUNTATORE LUMINOSO: Punta al tuo obiettivo con il raggio puntatore luminoso che ti consente di mirare con precisione anche in condizioni di luce scarsa. Può raggiungere fino a 4.5 metri di distanza. Batterie necessarie (non incluse).
 - Sfida i tuoi amici e vinci ogni battaglia a colpi di dardi Nerf con Nerf Elite 2.0 Volt SD 1
+- INCLUDE 6 DARDI NERF E UN SUPPORTO PER DARDI: Include 6 dardi originali Nerf, così potrai ricaricare più volte questo blaster a colpo singolo. Contiene un supporto integrato per riporre 2 dardi.
 - POTENZIA IL TUO BLASTER: Personalizza il tuo blaster per ogni battaglia o missione sfruttando i 2 binari strategici per aggiungere gli accessori (non inclusi).
-- LANCIA I DARDI FINO A 27 M: Colpisci a distanza con questo blaster che lancia i dardi fino a 27 metri.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZYC633F/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '5.99'
 
 ℹ️:
 
-- I contatti di spina e presa sono dotati di apposite protezioni per la sicurezza dei bambini
-- Prolunga 250 V~ con 5 m di cavo H05VV-F 3 x 0,75 mm²
-- Spina e presa standard italiano piccolo 10 A 2P+T
 - Qualità prodotto certificata dallIstituto Italiano del Marchio di Qualità (IMQ)
+- Spina e presa standard italiano piccolo 10 A 2P+T
+- Prolunga 250 V~ con 5 m di cavo H05VV-F 3 x 0,75 mm²
+- I contatti di spina e presa sono dotati di apposite protezioni per la sicurezza dei bambini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009GIZ7LY/?tag=tolees00-21)
