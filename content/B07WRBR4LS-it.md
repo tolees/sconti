@@ -28,10 +28,10 @@ Puoi trovare [ALLPOWERS 40W Pannello Solare Monocristallino Cella Flessibile Por
 
 ℹ️:
 
-- ☼ Portatile e pieghevole: il pannello solare pieghevole in stile valigia è perfettamente compatibile con il tuo camper, barca, rimorchio, ecc., Ideale per escursioni, campeggio e altri usi allaperto Dimensioni pieghevoli: 348 * 422 * 65mm / 13.7 * 12.67 * 2.56 in; Peso: 2.315kg / 5.11lbs
 - ☼ Design con dettagli: supporto in alluminio regolabile e resistente alla corrosione, maniglia e chiavistelli per carichi pesanti, protezioni angolari, scatola di giunzione impermeabile con diodi, ogni dettaglio garantisce una potenza ecologica affidabile. Il pacchetto include la garanzia di 18 mesi .
-- ☼ Controller preinstallato: non è necessario aggiungere un controller aggiuntivo, il controller auto solare con display LCD fornisce un sovraccarico completo, corrente inversa, polarità errata e protezione da corto circuito.
 - ☼ Funzionamento semplice: è sufficiente aprire il kit pieghevole, le clip a coccodrillo possono essere facilmente collegate ai montanti della batteria e quindi rivolte i pannelli verso il sole.
 - ☼ Alta efficienza: ALLPOWERS Cella solare monocristallina da 40 W con elevata efficienza di conversione solare fino al 21%; 2 porte USB (porta USB-A e porta USB-C max. 3,5 A) per caricare i tuoi gadget alimentati a 5 V, luscita 18 V CC per ricarica del laptop o della batteria dellauto da 12V.
+- ☼ Portatile e pieghevole: il pannello solare pieghevole in stile valigia è perfettamente compatibile con il tuo camper, barca, rimorchio, ecc., Ideale per escursioni, campeggio e altri usi allaperto Dimensioni pieghevoli: 348 * 422 * 65mm / 13.7 * 12.67 * 2.56 in; Peso: 2.315kg / 5.11lbs
+- ☼ Controller preinstallato: non è necessario aggiungere un controller aggiuntivo, il controller auto solare con display LCD fornisce un sovraccarico completo, corrente inversa, polarità errata e protezione da corto circuito.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WRBR4LS/?tag=tolees00-21)
