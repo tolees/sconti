@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Converse Chuck Taylor Ctas Lift Ox Canvas  Scarpe da Fitness Donna  Nero  Black/Garnet/White 001   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073C3RYWC/?tag=tolees00-21'
 descuento: '15.25'
 average: '64.95333333333333'

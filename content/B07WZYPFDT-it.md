@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'TACKLIFE RTD37AC Utensile Multifunzione  200W Ad Alte Prestazioni Utensile Rotante  10 000-40 000 Giri/Min Strumento Multifunzione Alta velocità  Utilizzando Per Fai Da Te  Incisione e Così Via'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WZYPFDT/?tag=tolees00-21'
 descuento: '18.07'
 average: '49.97'

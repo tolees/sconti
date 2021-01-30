@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Contenitori per Sottovuoto  Aicok Set Universale con 2 Contenitori per Macchine Sottovuoto Alimenti  600 ml e 800 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076VFLZW1/?tag=tolees00-21'
 descuento: '33.34'
 average: '19.99'

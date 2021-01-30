@@ -16,6 +16,7 @@ comparePrice: 24.49 EUR
 prodname: 'Disney Princess - Vaiana Fashion Doll'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01CZYOEUU/?tag=tolees00-21'
 descuento: '47.73'
 average: '12.8'

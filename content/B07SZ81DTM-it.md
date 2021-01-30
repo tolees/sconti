@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Geox U Nebula Y A  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4002   43 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SZ81DTM/?tag=tolees00-21'
 descuento: '54.46'
 average: '59.15'

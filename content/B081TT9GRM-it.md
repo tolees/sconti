@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Cropped Hood'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081TT9GRM/?tag=tolees00-21'
 descuento: '39.28'
 average: '30.33'

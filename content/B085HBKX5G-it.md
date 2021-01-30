@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Slip a Vita Bassa Donna Mutande Invisibile Senza Cuciture Culotte Striscia Mutandine Femminili Pantaloncini Pacco da 3  Nero/Beige/Bianco XS '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085HBKX5G/?tag=tolees00-21'
 descuento: '53.35'
 average: '13.99'

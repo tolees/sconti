@@ -16,6 +16,7 @@ comparePrice: 409.0 EUR
 prodname: 'Rode RODELink Filmmaker Kit con Ricevitore RX-CAM  Trasmettitore TX-BELT e Microfono Lavalier  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00TV90DX0/?tag=tolees00-21'
 descuento: '21.27'
 average: '325.66666666666663'

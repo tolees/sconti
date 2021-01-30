@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Calvin Klein Hip Brief 3pk Boxer Uomo  Confezione da 3  Nero  B -NAVY SEAL /RASP JAM /WHITE WB KL5   Medium'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NGT3YH6/?tag=tolees00-21'
 descuento: '35.26'
 average: '29.1'

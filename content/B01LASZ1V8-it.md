@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Pacific Rim  4K Ultra HD + Blu-Ray '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LASZ1V8/?tag=tolees00-21'
 descuento: '50.32'
 average: '14.9'

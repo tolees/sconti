@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Tommy Hilfiger 3p Brief Slip-pacco da 3  Multicolore  Multi/Peacoat 904   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MYFEM9T/?tag=tolees00-21'
 descuento: '34.06'
 average: '25.150000000000006'

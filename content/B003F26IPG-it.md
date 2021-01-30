@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212  T-Shirt Polo  Uomo  Rosa  Flamant T03   FR 2'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003F26IPG/?tag=tolees00-21'
 descuento: '30.58'
 average: '65.95'

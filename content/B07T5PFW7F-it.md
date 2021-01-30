@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Timberland Boroughs Project Mixed Super Oxford Sneaker  Uomo  Verde  Grape Leaf  Tb0a24sva581   40 EU  6.5 UK '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T5PFW7F/?tag=tolees00-21'
 descuento: '42.86'
 average: '66.25'

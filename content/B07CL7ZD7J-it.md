@@ -16,6 +16,7 @@ comparePrice: 63.89 EUR
 prodname: 'D-Link DCS-8010LH Telecamera Grandangolare 120°  Wi-Fi  HD  Registrazione Cloud Gratuita  Funziona con Alexa  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CL7ZD7J/?tag=tolees00-21'
 descuento: '21.90'
 average: '49.9'

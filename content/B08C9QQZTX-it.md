@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'REDSTORM Controller Wireless USB Controller per Nintendo Switch Joystick 2.4G/TURBO/Dual Vibrazione per PS3/Tablet/Windows 10/8/7'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08C9QQZTX/?tag=tolees00-21'
 descuento: '17.50'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'LEGO Overwatch - Osservatorio: Gibilterra   75975'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JC3L19M/?tag=tolees00-21'
 descuento: '23.86'
 average: '79.94666666666667'

@@ -16,6 +16,7 @@ comparePrice: 3.43 EUR
 prodname: 'Nivea Men Doccia Shampoo Energy  250 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LD5BR84/?tag=tolees00-21'
 descuento: '63.85'
 average: '1.645'

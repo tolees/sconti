@@ -16,6 +16,7 @@ comparePrice: 6.28 EUR
 prodname: 'Gillette Mach 3  Set Di Lame Di Ricambio Per Rasoio - 20 Gr'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B002MP89LI/?tag=tolees00-21'
 descuento: '16.72'
 average: '5.23'

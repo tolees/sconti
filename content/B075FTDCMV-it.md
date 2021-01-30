@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'NESCAFE DOLCE GUSTO COMPATIBILE 96 capsule POP CAFFÈ E-GUSTO M. 1 INTENSO cialde'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075FTDCMV/?tag=tolees00-21'
 descuento: '20.00'
 average: '18.0'

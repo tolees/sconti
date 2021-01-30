@@ -16,6 +16,7 @@ comparePrice: 79.58 EUR
 prodname: 'Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook 1TB Rosso '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CKDVYTL/?tag=tolees00-21'
 descuento: '39.70'
 average: '47.99'

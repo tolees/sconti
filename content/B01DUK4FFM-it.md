@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Barbie-la Casa di Malibu per Bambole con Accessori e Colori Vivaci  Giocattolo per Bambini 3+ Anni  18 x 41 x 74.5 cm  DLY32'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01DUK4FFM/?tag=tolees00-21'
 descuento: '21.23'
 average: '133.9'

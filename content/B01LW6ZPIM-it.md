@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Beats EP Cuffie con filo – Senza batteria per ascoltare musica non stop  controlli e microfono integrati – Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LW6ZPIM/?tag=tolees00-21'
 descuento: '49.98'
 average: '49.99'

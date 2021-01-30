@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Sottovuoto Macchina  ZUZPAO Cibo professionale per macchine per sigillanti a vuoto di UMAO  sigillo a vuoto Smart Touch con modalità di alimentazione a secco e umido per l uso di'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ST9MM7Q/?tag=tolees00-21'
 descuento: '29.51'
 average: '42.99'

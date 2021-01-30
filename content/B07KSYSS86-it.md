@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Electrolux E7TB1-4GB Explore 7 Blender  Nero Granite'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KSYSS86/?tag=tolees00-21'
 descuento: '34.97'
 average: '130.0'

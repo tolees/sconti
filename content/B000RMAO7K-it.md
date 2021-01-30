@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Havaianas Brasil  Infradito Unisex – Adulto  Nero  Black 0090   Taglia Produttore 39/40'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000RMAO7K/?tag=tolees00-21'
 descuento: '50.00'
 average: '11.0'

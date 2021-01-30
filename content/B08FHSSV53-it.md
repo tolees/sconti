@@ -16,6 +16,7 @@ comparePrice: 33.79 EUR
 prodname: 'YUES Controller Wireless per Nintendo Switch Pro/Lite  Gamepad con Doppio Ammortizzatore / Motore di Vibrazione / Motore a 6 assi Giroscopio / Turbo regolabile / Joystick a distanza '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FHSSV53/?tag=tolees00-21'
 descuento: '40.84'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Cuffie Bluetooth Cuffie Wireless IPX7 Cuffie Stereo HiFi Impermeabili per Bassi Profondi e Rumorosità con Controllo Smart Touch  40H Playtime Ture Wireless Auricolari con Custodia di Ricarica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089NP1HQZ/?tag=tolees00-21'
 descuento: '60.01'
 average: '39.99'

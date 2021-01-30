@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Havaianas Disney Classic II  Sandali Unisex-Bimbi  Multicolore  Green Dew 7611   19 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SLZL3RF/?tag=tolees00-21'
 descuento: '22.18'
 average: '17.89'

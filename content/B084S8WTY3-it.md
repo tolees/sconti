@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Dash Liquido 50 lavaggi Detersivo Lavatrice Lavanda  Impeccabile Contro le Macchie Lavaggio Dopo Lavaggio  2.75L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084S8WTY3/?tag=tolees00-21'
 descuento: '25.02'
 average: '8.99'

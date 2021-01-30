@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling Myrte - Borse a tracolla Donna  Multicolore  Camo Large   24x14.5x4.5 cm  B x H T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PRCF6N7/?tag=tolees00-21'
 descuento: '27.64'
 average: '46.931666666666665'

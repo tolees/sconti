@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'TP-Link M7350 Mobile Router Hotspot Portatile  4G LTE Cat4 150Mbps  SIM Card  SD Card fino a 32G  Display a Colori  Durata fino a 8 Ore  Controllo del Traffico'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EK8CVHW/?tag=tolees00-21'
 descuento: '35.49'
 average: '57.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Fila Disruptor Low  Scarpe da Ginnastica Basse Uomo  Bianco  White 1fg   45 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B8MJ2KP/?tag=tolees00-21'
 descuento: '58.45'
 average: '41.53'

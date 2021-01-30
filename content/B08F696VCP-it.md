@@ -16,6 +16,7 @@ comparePrice: 124.95 EUR
 prodname: 'Pawhut Passeggino Pieghevole per Cani di Taglia Medio-Grande Fino a 55kg in Acciaio e Tessuto Oxford Rosso con 4 Ruote'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08F696VCP/?tag=tolees00-21'
 descuento: '20.00'
 average: '99.96'

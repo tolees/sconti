@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Boss Tee 4 T-Shirt  Blu  Navy 410   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V7D4XJW/?tag=tolees00-21'
 descuento: '48.61'
 average: '30.81'

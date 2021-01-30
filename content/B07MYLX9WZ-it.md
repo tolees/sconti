@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Birkenstock Arizona  Sandali a Punta Aperta Donna  Nero  Washed Metallic Black Washed Metallic Black   37 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MYLX9WZ/?tag=tolees00-21'
 descuento: '50.00'
 average: '45.0'

@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'Nike Wmns Internationalist  Scarpe Running Donna  Multicolore  Black/Summit White/Anthracite/Sail 021   36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078WWB1HQ/?tag=tolees00-21'
 descuento: '56.52'
 average: '41.3'

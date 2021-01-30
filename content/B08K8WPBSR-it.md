@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'eXtremeRate Cover Scocca Custodia Pulsanti Tasti ABXY Colorati DIY Ricambio per Nintendo Switch Lite con Protezione Schermo Vetro Temperato Stile NES '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08K8WPBSR/?tag=tolees00-21'
 descuento: '23.26'
 average: '32.99'

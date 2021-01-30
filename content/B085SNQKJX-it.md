@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Neutro Roberts Sapone Liquido Antibatterico Bipacco  2x6 Pezzi da 300 ml  Totale 12 pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085SNQKJX/?tag=tolees00-21'
 descuento: '64.58'
 average: '7.08'

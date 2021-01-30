@@ -16,6 +16,7 @@ comparePrice: 32.51 EUR
 prodname: 'Finish All in 1 Max Kit Pastiglie Lavastoviglie 110 Tabs + Curalavastoviglie + Deodorante'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PS5Q4HR/?tag=tolees00-21'
 descuento: '24.36'
 average: '24.59'

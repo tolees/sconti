@@ -16,6 +16,7 @@ comparePrice: 98.0 EUR
 prodname: 'GREAT ART Fotomurale – Mappamondo – Decorazione Sguardo Usato Dekoration Old School Vintage World-Map Continenti Atlante retrò Globo di Mondo Geografia 336 x 238 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00SVE5OGW/?tag=tolees00-21'
 descuento: '54.18'
 average: '44.9'

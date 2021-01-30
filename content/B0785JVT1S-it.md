@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Canna per giardino Flexi Hose  estendibile fino a 15 metri  extra-forte  raccordi in puro ottone da 3/4   - Il top delle canne per acqua flessibili  senza intoppi  spray con 8 funzioni compreso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0785JVT1S/?tag=tolees00-21'
 descuento: '32.21'
 average: '27.11'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'De Longhi HVY1020.O Verticale Young Termoventilatore Compatto  2000 W  Grigio/Arancio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003UV9XCW/?tag=tolees00-21'
 descuento: '35.33'
 average: '19.4'

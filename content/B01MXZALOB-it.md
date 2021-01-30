@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Garmin Fenix 5s Orologio Sportivo  Argento/Turchese'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MXZALOB/?tag=tolees00-21'
 descuento: '21.55'
 average: '470.72'

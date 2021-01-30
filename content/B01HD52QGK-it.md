@@ -16,6 +16,7 @@ comparePrice: 6.98 EUR
 prodname: 'Osram Lampadina LED Star Pin con attacco G4  =28W  luce calda  non dimmerabile  dritta  plastica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01HD52QGK/?tag=tolees00-21'
 descuento: '42.84'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Samsung WW12R641U0M Lavatrice 12 kg Arno  1400 rpm  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TVKPN38/?tag=tolees00-21'
 descuento: '24.66'
 average: '685.4233333333333'

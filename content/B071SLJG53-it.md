@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'New Balance Pc574v1 Sneaker Unisex - Bambini  Nero  Black/grey   29 EU  11 UK '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071SLJG53/?tag=tolees00-21'
 descuento: '48.62'
 average: '30.83'

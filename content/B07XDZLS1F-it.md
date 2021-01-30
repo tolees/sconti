@@ -16,6 +16,7 @@ comparePrice: 37.96 EUR
 prodname: 'Puma CB  Giacca A Vento Uomo  Black  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XDZLS1F/?tag=tolees00-21'
 descuento: '54.69'
 average: '17.2'

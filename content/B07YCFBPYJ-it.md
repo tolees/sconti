@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Zaino Mamma Multifunzione neonato Fasciatoio Bambino impermeabile Borsa di stile per pannolini multi funzione con porta USB per mamma e papà'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YCFBPYJ/?tag=tolees00-21'
 descuento: '66.69'
 average: '9.99'

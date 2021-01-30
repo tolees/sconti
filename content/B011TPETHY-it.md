@@ -16,6 +16,7 @@ comparePrice: 66.95 EUR
 prodname: 'Outsunny HOMCOM Cavalletto Supporto Manutenzione per Bicicletta Riparazione Bici Pieghevole'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B011TPETHY/?tag=tolees00-21'
 descuento: '29.99'
 average: '46.87'

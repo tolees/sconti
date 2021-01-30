@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'SHAN ZU Coltelli Santoku  Coltello da Cucina Damasco  Coltello Giapponese in Acciaio AUS10 Damasco 67 Piani  Maniglia Ergonomica G10  Lama affilata  Perfetta per Tagliare Verdure  Frutta e Carne'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X2F9T8V/?tag=tolees00-21'
 descuento: '65.00'
 average: '69.99'

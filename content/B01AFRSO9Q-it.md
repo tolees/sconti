@@ -16,6 +16,7 @@ comparePrice: 4.88 EUR
 prodname: 'Bormioli Kaleido Confezione Bicchieri  6 unità'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01AFRSO9Q/?tag=tolees00-21'
 descuento: '23.16'
 average: '3.75'

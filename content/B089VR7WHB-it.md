@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'ANWEN per Xiaomi Poco F2 PRO Cover  Ultra Sottile Cover con Morbido Silicone Colorato Painting TPU Bumper[Anti-Graffio][ Antiscivolo] Cover per Xiaomi Poco F2 PRO Viola Blu '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089VR7WHB/?tag=tolees00-21'
 descuento: '27.30'
 average: '7.99'

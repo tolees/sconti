@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'MANN-FILTER HU7020Z Filtro Olio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00NQYXXCE/?tag=tolees00-21'
 descuento: '34.12'
 average: '5.6'

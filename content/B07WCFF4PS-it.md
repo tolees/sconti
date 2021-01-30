@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Az Ricerca Dentifricio Pro-Expert Prevenzione Superiore 3 x 75ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WCFF4PS/?tag=tolees00-21'
 descuento: '63.69'
 average: '4.24'

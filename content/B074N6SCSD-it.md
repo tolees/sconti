@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Batcombe Wing  Scarpe Stringate Derby Uomo  Nero  Black Leather-   41.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074N6SCSD/?tag=tolees00-21'
 descuento: '27.95'
 average: '79.25'

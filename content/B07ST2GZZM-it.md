@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'eFootball PES 2020 - Playstation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ST2GZZM/?tag=tolees00-21'
 descuento: '66.57'
 average: '23.4'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Lacoste Sport SH7613  Felpa Uomo  Nero  Large  Taglia Produttore: 5 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00TPPGR44/?tag=tolees00-21'
 descuento: '41.24'
 average: '49.95'

@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Relaxed Graphic Felpa  Bianco  Crew Box Tab White+ 0092   Large Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S4WBTY1/?tag=tolees00-21'
 descuento: '57.45'
 average: '27.66'

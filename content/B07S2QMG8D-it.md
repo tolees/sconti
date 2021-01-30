@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core  Sneaker Uomo  Verde  Green/White Cb2 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S2QMG8D/?tag=tolees00-21'
 descuento: '39.59'
 average: '48.33'

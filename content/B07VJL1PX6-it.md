@@ -16,6 +16,7 @@ comparePrice: 32.72 EUR
 prodname: 'Calvin Klein Boxer Brief 2pk  Nero  Black with/White WB Bnm   X-Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VJL1PX6/?tag=tolees00-21'
 descuento: '72.95'
 average: '8.85'

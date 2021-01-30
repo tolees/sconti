@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Cover Redmi Note 9s  Custodia TPU Morbido Flessibile Silicone con Anello Girevole per Supporto Magnetico Auto  Antiurto AntiGraffio Protettiva Case per Xiaomi Redmi Note 9s da 6 67 Pollici - Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08D6KGRJ4/?tag=tolees00-21'
 descuento: '45.48'
 average: '11.99'

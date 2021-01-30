@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO Movie 2 - Movie Maker  70820'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FNN146S/?tag=tolees00-21'
 descuento: '69.19'
 average: '16.94'

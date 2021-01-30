@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry VL Shirt Shop Bonded Tee T  Avorio  Desert Bone 7so   S Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TKKQKDW/?tag=tolees00-21'
 descuento: '40.13'
 average: '20.95'

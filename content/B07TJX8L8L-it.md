@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212 Polo  Verde  Aucuba Xzd   3XL Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TJX8L8L/?tag=tolees00-21'
 descuento: '47.95'
 average: '49.45'

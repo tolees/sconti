@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Soundcore Icon Mini di Anker  Altoparlante Bluetooth impermeabile e suono super  resist. all acqua IP67 per trekking  ciclismo  gioco ed esplorazioni  tascabile  8 ore di riproduzione e mic. integrato'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07LBMJ98L/?tag=tolees00-21'
 descuento: '16.67'
 average: '24.99'

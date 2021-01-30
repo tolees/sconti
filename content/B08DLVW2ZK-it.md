@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Raccogli Briciole Coccinella in Plastica. Spazzola Aspirabriciole per Tovaglie e Tappeti 17x11x7 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DLVW2ZK/?tag=tolees00-21'
 descuento: '20.00'
 average: '9.52'

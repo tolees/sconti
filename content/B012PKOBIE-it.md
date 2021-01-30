@@ -16,6 +16,7 @@ comparePrice: 254.9 EUR
 prodname: 'Lexar 64GB 3500x Pro CFast Compact Flash Card -  LC64GCRBEU3500'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B012PKOBIE/?tag=tolees00-21'
 descuento: '57.87'
 average: '107.4'

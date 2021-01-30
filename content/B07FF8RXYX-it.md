@@ -16,6 +16,7 @@ comparePrice: 16.89 EUR
 prodname: 'HUAWEI Mediapad T5 Custodia Protettiva  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FF8RXYX/?tag=tolees00-21'
 descuento: '29.01'
 average: '11.99'

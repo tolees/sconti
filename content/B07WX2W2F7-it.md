@@ -16,6 +16,7 @@ comparePrice: 113.24 EUR
 prodname: 'Niré Beauty Essential Glow Set Pennelli Make up Professionali con Porta Pennelli Trucco e Spazzola Detergente Viso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WX2W2F7/?tag=tolees00-21'
 descuento: '78.14'
 average: '24.75'

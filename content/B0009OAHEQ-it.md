@@ -16,6 +16,7 @@ comparePrice: 46.85 EUR
 prodname: 'Joop! JOOP! Homme Eau de Toilette  Uomo  125 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0009OAHEQ/?tag=tolees00-21'
 descuento: '47.30'
 average: '26.724'

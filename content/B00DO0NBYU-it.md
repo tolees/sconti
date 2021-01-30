@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21'
 descuento: '41.43'
 average: '82.0'

@@ -16,6 +16,7 @@ comparePrice: 38.85 EUR
 prodname: 'My.Size - Profilattici  69 mm  36 pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B004NNZAKA/?tag=tolees00-21'
 descuento: '89.91'
 average: '3.92'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Nespresso Essenza Mini De Longhi EN85.L Macchine del Caffe  1370 watt  Lime'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073ZMK8DZ/?tag=tolees00-21'
 descuento: '30.30'
 average: '69.0'

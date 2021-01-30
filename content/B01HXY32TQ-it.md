@@ -16,6 +16,7 @@ comparePrice: 12.54 EUR
 prodname: 'Procos Pinata Lovely Minions  Multicolore  10116999'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01HXY32TQ/?tag=tolees00-21'
 descuento: '44.98'
 average: '6.9'

@@ -16,6 +16,7 @@ comparePrice: 2.45 EUR
 prodname: 'Sprite Lattina 330 ml - 4 lattine'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00WUG9API/?tag=tolees00-21'
 descuento: '20.41'
 average: '1.95'

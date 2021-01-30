@@ -16,6 +16,7 @@ comparePrice: 32.13 EUR
 prodname: 'Desigual Bols rhapsody Merlo V - Borsa con manico  17 6 x 31 8 x 33 cm  colore: Marrone/Beige'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VBF5K1J/?tag=tolees00-21'
 descuento: '15.50'
 average: '28.37'

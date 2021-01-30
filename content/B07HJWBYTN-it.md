@@ -16,6 +16,7 @@ comparePrice: 36.47 EUR
 prodname: 'Jacootoys Frutta Legno Labirinti di Perline Abaco Montagne Russe Rotolamento Cerchio Giocattoli educativi Bambini Ragazzi Ragazze'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HJWBYTN/?tag=tolees00-21'
 descuento: '30.93'
 average: '25.19'

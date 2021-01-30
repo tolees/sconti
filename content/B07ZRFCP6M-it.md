@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Lin Duffle M  Borsa Sportiva Unisex – Adulto  Legend Ink/Tech Indigo/White  Taglia Unica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZRFCP6M/?tag=tolees00-21'
 descuento: '20.03'
 average: '23.95'

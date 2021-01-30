@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Stream System TV LED 40 BM40L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D1WLF35/?tag=tolees00-21'
 descuento: '24.72'
 average: '149.8'

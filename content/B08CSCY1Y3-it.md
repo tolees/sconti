@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'katliu Zoccoli per Donna Traspirante Sandali da Spiaggia Scarpe da Mare Estate Ciabatte Outdoor Pantofole Giardino  Grigio Chiaro  42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CSCY1Y3/?tag=tolees00-21'
 descuento: '15.01'
 average: '15.29'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee T-Shirt  Bianco  White 297   S Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N9UPQV9/?tag=tolees00-21'
 descuento: '17.00'
 average: '20.886296296296294'

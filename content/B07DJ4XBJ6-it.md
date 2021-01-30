@@ -16,6 +16,7 @@ comparePrice: 62.95 EUR
 prodname: 'New Balance 500  Scarpe Sportive Uomo  Bianco  Munsell White/Eclipse/Tempo Red Swb   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DJ4XBJ6/?tag=tolees00-21'
 descuento: '18.54'
 average: '51.28'

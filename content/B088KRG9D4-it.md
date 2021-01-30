@@ -16,6 +16,7 @@ comparePrice: 17.5 EUR
 prodname: 'Südtirol - Alto Adige Valle Isarco DOC Riesling Adler von Klausen 2019 0 75 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088KRG9D4/?tag=tolees00-21'
 descuento: '20.00'
 average: '14.0'

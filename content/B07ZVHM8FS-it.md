@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'DADYPET Ciotole per Cani  Distributori di Cibo per Gatti -Ciotole per Cani con Pesatura Intelligente Alimentatore Lento Antiscivolo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZVHM8FS/?tag=tolees00-21'
 descuento: '48.66'
 average: '18.99'

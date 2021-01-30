@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Turquoise/Citrus Yellow   45/46 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07F14LBRF/?tag=tolees00-21'
 descuento: '50.04'
 average: '11.99'

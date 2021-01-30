@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: 'Vape Piastrine Extra  Protezione Rapida contro le Zanzare fino a 12 Ore  20 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01HO0UD78/?tag=tolees00-21'
 descuento: '35.32'
 average: '2.49'

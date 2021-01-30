@@ -16,6 +16,7 @@ comparePrice: 209.99 EUR
 prodname: 'Drone GPS Con Motore Brushless Potensic Drone D80 WIFI Con Telecamera 2K Full HD Dual GPS Funzione di RTH  Altitudine Attesa  Allarme di Bassa Pressione e Segnale Debole Dotato di Valigetta'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CQW1RKC/?tag=tolees00-21'
 descuento: '15.00'
 average: '200.04263157894738'

@@ -16,6 +16,7 @@ comparePrice: 112.99 EUR
 prodname: 'Tristar FR-6998 Forno per friggere  1500 W  10 Litri  Plastica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XLQJXG5/?tag=tolees00-21'
 descuento: '25.92'
 average: '83.7'

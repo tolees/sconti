@@ -16,6 +16,7 @@ comparePrice: 123.99 EUR
 prodname: 'PUPPY KITTY Distributore Automatico di Cibo per Gatti  Cani  con Ciotola per Alimenti in Acciaio Inox  registratore vocale  Doppio Mantenimento della freschezza e Zero intasamenti'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088KJVRP1/?tag=tolees00-21'
 descuento: '45.97'
 average: '66.99'

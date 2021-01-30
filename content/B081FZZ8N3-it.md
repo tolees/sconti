@@ -16,6 +16,7 @@ comparePrice: 2799.0 EUR
 prodname: 'Apple MacBook Pro  16"  16GB RAM  Archiviazione 512GB  - Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081FZZ8N3/?tag=tolees00-21'
 descuento: '28.58'
 average: '1999.0'

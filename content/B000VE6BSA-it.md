@@ -16,6 +16,7 @@ comparePrice: 38.3 EUR
 prodname: 'Kitchen Craft Glacette Grande  47 cm x 28 cm x 23 cm  Trasparente'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000VE6BSA/?tag=tolees00-21'
 descuento: '46.53'
 average: '20.48'

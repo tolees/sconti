@@ -16,6 +16,7 @@ comparePrice: 38.77 EUR
 prodname: 'Moleskine  Borsa Porta PC per Laptop  Tablet  iPad e Notebook fino a 13    38 x 15 x 27 cm  Blu Zaffiro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07G9TNVXJ/?tag=tolees00-21'
 descuento: '25.33'
 average: '28.95'

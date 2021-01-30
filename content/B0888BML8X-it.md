@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Auricolari Bluetooth  Cuffie Bluetooth Senza Fili Wireless Sportive in-Ear Impermeabile IPX7 Riproduzione 180 Ore TWS CVC 8.0 Cancellazione di Rumore Display LED con Mic Touch Control per iOS Android'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0888BML8X/?tag=tolees00-21'
 descuento: '42.51'
 average: '45.99'

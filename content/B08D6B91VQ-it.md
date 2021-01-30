@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Roero Arneis DOCG Sabaudo 2019 0 75 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08D6B91VQ/?tag=tolees00-21'
 descuento: '20.00'
 average: '8.8'

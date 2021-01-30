@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Bosch Home and Garden 0600833300 Cesoie da giardinaggio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084KTTGTQ/?tag=tolees00-21'
 descuento: '16.67'
 average: '49.99'

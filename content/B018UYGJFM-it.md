@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Guess Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox W1009L1'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B018UYGJFM/?tag=tolees00-21'
 descuento: '55.29'
 average: '84.5'

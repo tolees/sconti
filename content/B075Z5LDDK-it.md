@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Vero Moda Vmhot Nine HW DNM Pencil Skirt Mix Noos Gonna  Blu  Medium Blue Denim Medium Blue Denim   38  Taglia Produttore Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075Z5LDDK/?tag=tolees00-21'
 descuento: '40.02'
 average: '11.99'

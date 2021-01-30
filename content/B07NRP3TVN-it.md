@@ -16,6 +16,7 @@ comparePrice: 200.99 EUR
 prodname: 'Kingston Data Centre DC500M  SEDC500M/480G  Enterprise Drive a Stato Solido - SSD 2.5” 480 GB'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NRP3TVN/?tag=tolees00-21'
 descuento: '26.97'
 average: '150.25333333333333'

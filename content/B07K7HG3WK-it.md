@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'TACKLIFE Pistola da Giardino  Pistola per Innaffiamento  Ugello in Metallo  8 Diverse modalità  Una Sola Mano  per Autolavaggio  Irrigazione per Piante e Doccia per Animali Domestici - GHN2A'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K7HG3WK/?tag=tolees00-21'
 descuento: '37.52'
 average: '12.49'

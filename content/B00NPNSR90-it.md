@@ -16,6 +16,7 @@ comparePrice: 70.18 EUR
 prodname: 'Kenzo  Jungle  Eau de Toilette da uomo  100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00NPNSR90/?tag=tolees00-21'
 descuento: '42.31'
 average: '40.49'

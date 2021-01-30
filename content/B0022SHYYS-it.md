@@ -16,6 +16,7 @@ comparePrice: 64.96 EUR
 prodname: 'Konus - Bussola KONUSTAR-10 Grigia  4074'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0022SHYYS/?tag=tolees00-21'
 descuento: '22.15'
 average: '50.57'

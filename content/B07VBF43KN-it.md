@@ -16,6 +16,7 @@ comparePrice: 38.62 EUR
 prodname: 'Desigual Back tribal Nazca Mini zaino da donna  12 5 x 29 x 25 5 cm  Nero  Nero  Nero     12.5x29x25.5 cm  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VBF43KN/?tag=tolees00-21'
 descuento: '22.32'
 average: '30.0'

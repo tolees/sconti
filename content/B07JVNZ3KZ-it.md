@@ -16,6 +16,7 @@ comparePrice: 400.0 EUR
 prodname: 'Evergreenweb - Brandina Pieghevole con Materasso Memory Foam 80x190 Alto 12 cm + Cuscino Gratis  Rivestimento Sfoderabile Rete Singola a Doghe Legno Ortopedica  Letto Salvaspazio SCONTI'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JVNZ3KZ/?tag=tolees00-21'
 descuento: '50.25'
 average: '199.0'

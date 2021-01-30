@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Trafficanti-War Dogs  4K+Br+Copia Dig. '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N2M1W2Y/?tag=tolees00-21'
 descuento: '60.35'
 average: '11.89'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tomb Raider  4K+Br '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BNJNRQ5/?tag=tolees00-21'
 descuento: '56.99'
 average: '12.9'

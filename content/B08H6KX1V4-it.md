@@ -16,6 +16,7 @@ comparePrice: 119.94 EUR
 prodname: 'Echo  4ª generazione   Bianco ghiaccio + Philips Hue White Lampadina'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08H6KX1V4/?tag=tolees00-21'
 descuento: '16.63'
 average: '99.99'

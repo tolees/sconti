@@ -16,6 +16,7 @@ comparePrice: 41.9 EUR
 prodname: 'QARFEE Chiavetta USB 3.0 per iPhone USB Memoria Stick 128GB 4 in 1 Pen Drive con Apple/iOS/Android/USB/Micro USB/Tipo C Porta  128GB  Blu '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082KXCQQN/?tag=tolees00-21'
 descuento: '15.01'
 average: '35.61'

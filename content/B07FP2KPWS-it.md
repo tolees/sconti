@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Classic 11003 Mattoncini e Occhi Set di Costruzioni Creativo  Regalo per Bambini +4 Anni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FP2KPWS/?tag=tolees00-21'
 descuento: '23.34'
 average: '22.99'

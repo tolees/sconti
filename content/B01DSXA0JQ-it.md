@@ -16,6 +16,7 @@ comparePrice: 61.48 EUR
 prodname: 'SONGMICS Appendiabiti  Metallo  Nero  68.8 x 35.2 x 187 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01DSXA0JQ/?tag=tolees00-21'
 descuento: '38.21'
 average: '37.99'

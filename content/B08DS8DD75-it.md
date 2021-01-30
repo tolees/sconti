@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Cuffie Bluetooth  Auricolari Bluetooth 5.0 Senza Fili Cancellazione del rumore 3D  Auricolari con Custodia da Ricarica 24 Ore di Tempo di Utilizzo  Mic-Incorporato per Android iPhone Airpods'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DS8DD75/?tag=tolees00-21'
 descuento: '36.59'
 average: '25.99'

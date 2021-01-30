@@ -16,6 +16,7 @@ comparePrice: 63.73 EUR
 prodname: 'Oral-B Pro 2 2000 Cross Action Spazzolino Elettrico Ricaricabile   1 Spazzolino con Sensore di Pressione dello Spazzolamento Visibile  1 Testina'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W3LKCLW/?tag=tolees00-21'
 descuento: '37.25'
 average: '39.99'

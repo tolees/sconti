@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'AVM FRITZ!Repeater 310 International  Range Extender Universale Wireless N 300 Mbit/s  WPS  Compatibile con Modem Fibra e ADSL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DVM67LK/?tag=tolees00-21'
 descuento: '49.17'
 average: '29.99'

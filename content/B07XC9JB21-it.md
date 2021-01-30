@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'One Piece: Pirate Warriors 4 - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XC9JB21/?tag=tolees00-21'
 descuento: '37.15'
 average: '43.970000000000006'

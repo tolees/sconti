@@ -16,6 +16,7 @@ comparePrice: 19.54 EUR
 prodname: 'Cerchietto Per Capelli Donna 10 Pezzi Antiscivolo Pelle Sintetica Larghe Elastic Turban Fasce per Bambina Ragazze'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08F54RHWM/?tag=tolees00-21'
 descuento: '28.40'
 average: '13.99'

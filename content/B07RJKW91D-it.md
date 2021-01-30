@@ -16,6 +16,7 @@ comparePrice: 64.28 EUR
 prodname: 'Tommy Hilfiger Colorblocked Hooded Zip Through Felpa  Grigio  Grey 0cs   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RJKW91D/?tag=tolees00-21'
 descuento: '43.76'
 average: '36.15'

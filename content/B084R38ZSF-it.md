@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'HUGO Orologio Quarzo con Cinturino in Acciaio Inox 1530131'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084R38ZSF/?tag=tolees00-21'
 descuento: '52.39'
 average: '94.74'

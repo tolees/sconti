@@ -16,6 +16,7 @@ comparePrice: 20.13 EUR
 prodname: 'Crocs  Baya Summer Flip U  Sandali  Uomo  Nero  45-46'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B005HV2OC4/?tag=tolees00-21'
 descuento: '32.44'
 average: '14.899999999999999'

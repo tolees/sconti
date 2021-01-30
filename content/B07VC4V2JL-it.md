@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Calvin Klein Vegetable Dye Monogram Baby Tee T-Shirt  Blu  Chambray Blue CDN   40  Taglia Produttore: Small  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VC4V2JL/?tag=tolees00-21'
 descuento: '72.59'
 average: '13.68'

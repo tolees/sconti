@@ -16,6 +16,7 @@ comparePrice: 77.91 EUR
 prodname: 'FEIMUOSI Webcam con Microfono  Webcam Streaming 1080P HD con Treppiede per PC Laptop Mac Videocamera Web Girevole Plug And Play USB per Videochiamate Registrazione Conferenze Supporta i Giochi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08JLQ1RBV/?tag=tolees00-21'
 descuento: '66.64'
 average: '25.49'

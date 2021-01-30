@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'adidas VL Court 2.0  Scarpe da Fitness Uomo  Blu  Maruni/Ftwbla 000   41 1/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077VQHGQV/?tag=tolees00-21'
 descuento: '35.00'
 average: '42.22'

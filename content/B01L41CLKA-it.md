@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Havaianas Origine III  Espadrillas Unisex-Adulto  Bianco  White   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01L41CLKA/?tag=tolees00-21'
 descuento: '20.00'
 average: '24.0'

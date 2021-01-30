@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'SanDisk Scheda di Memoria MicroSDHC 32 GB Classe 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003HIWHN0/?tag=tolees00-21'
 descuento: '63.56'
 average: '7.006666666666667'

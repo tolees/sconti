@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Superstar C  Scarpe da Ginnastica Unisex-Bambini  Ftwr White/Core Black/Ftwr White  30.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0813ZFVTK/?tag=tolees00-21'
 descuento: '36.21'
 average: '38.24'

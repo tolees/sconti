@@ -16,6 +16,7 @@ comparePrice: 37.98 EUR
 prodname: 'SEAC Polpone  Fucile a Molla con Fiocina per Pesca Sub Unisex Adulto  Azzurro  60 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00C2SHSLW/?tag=tolees00-21'
 descuento: '20.01'
 average: '30.38'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Lacoste Bayliss 220 1 CMA  Sneaker Uomo  Bianco  Wht/Nvy/Red 407   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SPH3TLB/?tag=tolees00-21'
 descuento: '36.26'
 average: '50.99'

@@ -16,6 +16,7 @@ comparePrice: 11.44 EUR
 prodname: 'Procos- Pignatta 30 cm Cars 3  Multicolore  5PR87933'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06WVBK5ZM/?tag=tolees00-21'
 descuento: '39.42'
 average: '6.93'

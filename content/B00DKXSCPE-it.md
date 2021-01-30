@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Capsule Lavazza A Modo Mio Espresso Intenso - Confezione da 36 capsule'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DKXSCPE/?tag=tolees00-21'
 descuento: '37.53'
 average: '7.74'

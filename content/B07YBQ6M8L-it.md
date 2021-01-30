@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'JBL Flip Essential Speaker Bluetooth Portatile – Cassa Altoparlante Wireless Waterproof IPX7 – JBL Bass Radiator  Fino a 10h di Autonomia  Grigio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YBQ6M8L/?tag=tolees00-21'
 descuento: '17.76'
 average: '69.9'

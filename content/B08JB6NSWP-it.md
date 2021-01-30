@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Termometro senza contatto LCD Display digitale retroilluminato a tre colori'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08JB6NSWP/?tag=tolees00-21'
 descuento: '19.27'
 average: '15.375'

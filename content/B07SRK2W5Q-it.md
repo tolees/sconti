@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox U Kennet B  Scarpe da Ginnastica Basse Uomo  Grigio  Lt Grey C1010   46 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SRK2W5Q/?tag=tolees00-21'
 descuento: '66.11'
 average: '37.25'

@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Fruittella Good For You Mix Sport Bio  Snack di Frutta Secca e Disidratata Biologico - 20 Pacchetti Monodose da 32 gr'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21'
 descuento: '38.50'
 average: '15.99'

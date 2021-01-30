@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Diadora - Sneakers B. Elite per Uomo e Donna  EU 38.5 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01CJH9KL6/?tag=tolees00-21'
 descuento: '65.06'
 average: '27.95'

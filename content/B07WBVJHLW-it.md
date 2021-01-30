@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Hoonyer Display per iPhone 5S/SE Touch Screen LCD Digitizer Schermo Utensili Inclusi con Pulsante Home  Fotocamera  sensore Flex  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WBVJHLW/?tag=tolees00-21'
 descuento: '20.59'
 average: '19.05'

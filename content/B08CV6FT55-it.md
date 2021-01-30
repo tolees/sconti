@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'TANYO Cover per Xiaomi Redmi 9  Custodia TPU/PC Hybrid Custodie con 360° Supporto  Antiurto Guscio Protezione Bumper Case Caso  Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CV6FT55/?tag=tolees00-21'
 descuento: '20.04'
 average: '7.98'

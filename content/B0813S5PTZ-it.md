@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Continental 80  Scarpe da Ginnastica Uomo  Crystal White/Collegiate Navy/Scarlet  45 1/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0813S5PTZ/?tag=tolees00-21'
 descuento: '48.02'
 average: '51.95'

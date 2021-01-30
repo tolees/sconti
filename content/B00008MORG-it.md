@@ -16,6 +16,7 @@ comparePrice: 12.8 EUR
 prodname: 'Max Factor Lipfinity Lip Colour  Rossetto Lunga Durata e Gloss Idratante con Applicazione Bifase  Nuance 110 Passionate  2.3 ml e 1.9 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00008MORG/?tag=tolees00-21'
 descuento: '45.31'
 average: '7.0'

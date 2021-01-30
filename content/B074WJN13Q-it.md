@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Marchio Amazon - MERAKI Cardigan Lana Merino Uomo Scollo a V  Grigio  Charcoal Marl   3XL  Label: 3XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074WJN13Q/?tag=tolees00-21'
 descuento: '59.11'
 average: '14.27'

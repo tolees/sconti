@@ -16,6 +16,7 @@ comparePrice: 30.12 EUR
 prodname: 'Design Toscano WU67877 Statua Anubi  Dio del Regno Egiziano  Nero  7.5x5x21.5 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B004TTTOLO/?tag=tolees00-21'
 descuento: '18.56'
 average: '24.53'

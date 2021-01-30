@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Inglesina Zippy System Pro Sistema Trio 3 in 1 con Passeggino  Carrozzina e Seggiolino Auto  da 0 a 15 Kg  Granito'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07N7HMGFJ/?tag=tolees00-21'
 descuento: '18.94'
 average: '445.0'

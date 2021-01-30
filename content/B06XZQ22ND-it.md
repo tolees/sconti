@@ -16,6 +16,7 @@ comparePrice: 100.21 EUR
 prodname: 'Tognana Mythos Batteria 9 Pezzi  Alluminio  Nero  24 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XZQ22ND/?tag=tolees00-21'
 descuento: '24.17'
 average: '75.99'

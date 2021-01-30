@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Benro Slim CF tripod kit w N00 ball head'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071JYLS7K/?tag=tolees00-21'
 descuento: '22.86'
 average: '108.0'

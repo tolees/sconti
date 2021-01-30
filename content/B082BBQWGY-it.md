@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Geographical Norway  Pile da uomo  RIAKOLO Blu navy XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082BBQWGY/?tag=tolees00-21'
 descuento: '43.62'
 average: '38.9'

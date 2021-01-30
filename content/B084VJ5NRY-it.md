@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Cassa Bluetooth Portatile  20W Motast Speaker Bluetooth Portatili  IP56 Impermeabile Altoparlante Bluetooth Portatili  24H Ore di Riproduzione  Microfono Incorporato  Cassa Audio di Alta Qualità'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084VJ5NRY/?tag=tolees00-21'
 descuento: '50.01'
 average: '39.99'

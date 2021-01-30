@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 311 Shaping Skinny Jeans  Blu  London Nights 0153   28W / 30L Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KF666QT/?tag=tolees00-21'
 descuento: '45.00'
 average: '49.5'

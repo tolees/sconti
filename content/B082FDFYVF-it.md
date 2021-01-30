@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'DOUHE Deumidificatore Ambiente Casa Mini Deumidificatori 1000ml  7 Colori LED Silenzioso e Portatile per Muffa e Umidità Ideale per Cucina Camera da letto Ufficio Armadio Garage Bagno e Cantina'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082FDFYVF/?tag=tolees00-21'
 descuento: '16.67'
 average: '49.99'

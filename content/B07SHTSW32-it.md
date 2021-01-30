@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Havaianas Urban Basic II  Infradito Uomo  Marrone  Dark Brown 0727   39/40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SHTSW32/?tag=tolees00-21'
 descuento: '42.32'
 average: '12.69'

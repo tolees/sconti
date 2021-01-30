@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'RIBIMEX prcen011 Aspiracenere Elettrico Minicen  800 W  10 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01FUFYEW4/?tag=tolees00-21'
 descuento: '20.08'
 average: '19.9'

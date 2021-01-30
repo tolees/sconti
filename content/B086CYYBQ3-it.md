@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'ammoon Pad per Allenamento  12 Pollici Drum Pad Pratica in Naturale Muto con Bacchette del Tamburo Borsa per il Trasporto per Batteristi Principianti  Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086CYYBQ3/?tag=tolees00-21'
 descuento: '18.92'
 average: '29.99'

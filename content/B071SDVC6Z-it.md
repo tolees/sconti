@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Gillette Series Pelli Sensibili Gel da Barba  Pacco da 6 x 75 ml  Formato da Viaggio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071SDVC6Z/?tag=tolees00-21'
 descuento: '26.45'
 average: '10.29'

@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Max Factor Rossetto Lipfinity  190 Indulgent - 4.2 gr'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000ORVWN8/?tag=tolees00-21'
 descuento: '56.25'
 average: '7.0'

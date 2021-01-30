@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas Superstar  Scarpe da Ginnastica Unisex Adulto  Nero  Core Black/Core Black/Core Black   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00UBV5ZXK/?tag=tolees00-21'
 descuento: '41.37'
 average: '52.74'

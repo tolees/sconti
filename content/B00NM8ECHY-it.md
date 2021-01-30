@@ -16,6 +16,7 @@ comparePrice: 240.0 EUR
 prodname: 'Diadora Fitness Forty Tapis Roulant Magnetico'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21'
 descuento: '33.38'
 average: '159.9'

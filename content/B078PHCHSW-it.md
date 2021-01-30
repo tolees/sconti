@@ -16,6 +16,7 @@ comparePrice: 184.0 EUR
 prodname: 'Pioneer Ts-Wx130Da Subwoofer per Macchina  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078PHCHSW/?tag=tolees00-21'
 descuento: '17.17'
 average: '152.4'

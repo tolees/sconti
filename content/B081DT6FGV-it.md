@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Dalmo Soffione Doccia Ad Alta Pressione Soffione Per Doccia Universale Dimensione Collegare  Risparmio Idrico Alta Pressione Massaggio SPA 3 Mode Doccia Ammorbidisce l acqua Dura'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081DT6FGV/?tag=tolees00-21'
 descuento: '50.02'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'The Sims 4 - PC'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21'
 descuento: '49.90'
 average: '19.99'

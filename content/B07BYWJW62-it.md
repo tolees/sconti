@@ -16,6 +16,7 @@ comparePrice: 49.65 EUR
 prodname: 'Paco Rabanne Profumo - 100 Ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BYWJW62/?tag=tolees00-21'
 descuento: '25.30'
 average: '37.09'

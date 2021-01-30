@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Narhinel Aspiratore Nasale e Ricambi Soft - 70 Gr'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00D3I00JC/?tag=tolees00-21'
 descuento: '30.04'
 average: '4.89'

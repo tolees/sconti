@@ -16,6 +16,7 @@ comparePrice: 1.8 EUR
 prodname: 'Pasta del Capitano Spazzolino Whitening  Medio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B007UZNDCU/?tag=tolees00-21'
 descuento: '45.00'
 average: '0.99'

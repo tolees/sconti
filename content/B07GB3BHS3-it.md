@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212  Polo Uomo  Beige  Viennois 02S   S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GB3BHS3/?tag=tolees00-21'
 descuento: '38.96'
 average: '57.99'

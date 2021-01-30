@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Burton Powerstretch Liner  Guanti Uomo  Nero  ML'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00KAWDG5E/?tag=tolees00-21'
 descuento: '28.60'
 average: '24.99'

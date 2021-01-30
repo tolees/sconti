@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Clarks Tri Solar  Scarpe da Ginnastica Basse Uomo  Nero  Black Leather Black Leather   40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MFM1W4Z/?tag=tolees00-21'
 descuento: '75.47'
 average: '30.66'

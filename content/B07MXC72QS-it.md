@@ -16,6 +16,7 @@ comparePrice: 71.81 EUR
 prodname: 'Teenii STEM Physik Elettricità e Magnetismo Experimente scienziato laboratorio base del circuito Starter Kit per bambini  Junior  Senior High School studente elettromagnetismo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MXC72QS/?tag=tolees00-21'
 descuento: '16.59'
 average: '59.913333333333334'

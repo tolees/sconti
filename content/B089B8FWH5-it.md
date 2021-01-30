@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'CARPISA® Borsa lavoro con doppi manici - Soya'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089B8FWH5/?tag=tolees00-21'
 descuento: '54.99'
 average: '22.48'

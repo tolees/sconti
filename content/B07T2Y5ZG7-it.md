@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'Samsung C27RG50 Monitor Gaming Curvo  27 Pollici  240 Hz  G-sync  FHD  1920 x 1080  4 ms  16:9  1080p  1 Display Port  2 HDMI  Base a Doppio Snodo  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T2Y5ZG7/?tag=tolees00-21'
 descuento: '37.29'
 average: '269.04'

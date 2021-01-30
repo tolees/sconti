@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Havaianas Top  Infradito Unisex-Adulto  Rosso  Ruby Red 2090   41/42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003AOSHJ4/?tag=tolees00-21'
 descuento: '20.06'
 average: '14.39'

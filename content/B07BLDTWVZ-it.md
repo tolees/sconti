@@ -16,6 +16,7 @@ comparePrice: 71.75 EUR
 prodname: 'LEGO Classic Steinebox  10717  classico gioco di costruzione per bambini'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BLDTWVZ/?tag=tolees00-21'
 descuento: '17.06'
 average: '59.51'

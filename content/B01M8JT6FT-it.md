@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'rabbitgoo Pettorina Cane Taglia Grande Regolabile  No-Pull Pettorina ad h Cane con 2 Ganci in Metallo  Imbracatura Riflettente Robusta  Pettorina Pitbull  Labrador in Passeggiate  Jogging L  Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01M8JT6FT/?tag=tolees00-21'
 descuento: '15.01'
 average: '20.39'

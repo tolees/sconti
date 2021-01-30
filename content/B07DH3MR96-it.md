@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Zilong - tappetino antiaderente in Teflon  per griglia del forno e barbecue  dimensioni: 40 cm x 33 cm  confezione da 2 pezzi  40*40 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DH3MR96/?tag=tolees00-21'
 descuento: '25.03'
 average: '7.49'

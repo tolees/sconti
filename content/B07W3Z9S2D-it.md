@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'GIARIDE Cavo HDMI a VGA HDMI D-Sub 15 Pin M/M Adattatore Video Supporto Completo 1080P Converti Segnale con trasferimento Dati da Ingresso HDMI Laptop HDTV a Uscita VGA Monitor proiettore  TV'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W3Z9S2D/?tag=tolees00-21'
 descuento: '35.02'
 average: '12.99'

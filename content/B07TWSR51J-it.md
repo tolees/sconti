@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'KiplingImaliDonnaPortafogliArgento  Metallic Glow 19x10x1 Centimeters  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TWSR51J/?tag=tolees00-21'
 descuento: '63.73'
 average: '17.77'

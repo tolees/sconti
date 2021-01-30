@@ -16,6 +16,7 @@ comparePrice: 28.25 EUR
 prodname: 'JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini  Drizzle  L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083ZRV17Z/?tag=tolees00-21'
 descuento: '38.09'
 average: '17.49'

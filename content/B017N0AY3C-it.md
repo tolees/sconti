@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: '100 Cialde Capsule caffè ROSSOMOKA Espresso compatibili NESPRESSO gusto INTENSO'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B017N0AY3C/?tag=tolees00-21'
 descuento: '50.02'
 average: '13.99'

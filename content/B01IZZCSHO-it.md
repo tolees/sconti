@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Swiffer Starter Kit XXL Scopa con 1 Manico + 8 Panni di Ricambio  per Catturare E Intrappolare La Polvere'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01IZZCSHO/?tag=tolees00-21'
 descuento: '23.54'
 average: '12.49'

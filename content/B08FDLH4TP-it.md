@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Cuffie Bluetooth Sport  Auricolari Bluetooth 5.0  Auricolari senza fili di qualità audio stereo HiFi 200 ore di riproduzione con custodia di Ricarica Portatile  Adatto per Android e iPhone'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FDLH4TP/?tag=tolees00-21'
 descuento: '23.34'
 average: '45.99'

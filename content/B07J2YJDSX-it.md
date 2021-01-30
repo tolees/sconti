@@ -16,6 +16,7 @@ comparePrice: 42.98 EUR
 prodname: 'Marchio Amazon - Goodthreads  giacca aderente in twill elasticizzato  da uomo  Cruz V2 Fresh Foam  US L Tall  EU L '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07J2YJDSX/?tag=tolees00-21'
 descuento: '41.95'
 average: '24.95'

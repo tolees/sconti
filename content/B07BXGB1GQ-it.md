@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'DEIK Frullatore  Blender 6 In 1 con 3 Bottiglie Portatili  Frullatore Tritatutto Multifunzione con 4 Lame in Acciaio Inox per Frappè  Ghiaccio  Frutta  Verdura e Pappe Bimbi  500W  32000RMP'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BXGB1GQ/?tag=tolees00-21'
 descuento: '22.00'
 average: '38.99'

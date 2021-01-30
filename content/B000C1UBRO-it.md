@@ -16,6 +16,7 @@ comparePrice: 30.68 EUR
 prodname: 'Calvin Klein Eternity Moment Eau de Parfum  Donna  100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000C1UBRO/?tag=tolees00-21'
 descuento: '20.70'
 average: '24.33'

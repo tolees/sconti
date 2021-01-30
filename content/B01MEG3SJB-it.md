@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Io Sono Leggenda'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21'
 descuento: '50.32'
 average: '14.9'

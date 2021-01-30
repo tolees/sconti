@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Lacoste YH4801 Polo  Bianco  Blanc   X-Small  Taglia Produttore: 2  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XFB12GC/?tag=tolees00-21'
 descuento: '34.73'
 average: '48.95'

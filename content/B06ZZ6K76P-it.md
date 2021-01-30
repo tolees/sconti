@@ -16,6 +16,7 @@ comparePrice: 449.99 EUR
 prodname: 'Samsung WW70K5410UW Lavatrice 7 kg AddWash  1400 rpm  Bianco con Oblò Blu'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06ZZ6K76P/?tag=tolees00-21'
 descuento: '22.44'
 average: '349.0'

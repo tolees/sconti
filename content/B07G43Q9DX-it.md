@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Tommy Hilfiger Orologio Multi-quadrante Quarzo Uomo con Cinturino in Acciaio Inox 1791505'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07G43Q9DX/?tag=tolees00-21'
 descuento: '26.84'
 average: '116.33'

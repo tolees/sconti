@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Bialetti Nuovo Elegance 75cl Milk Pitcher 75 cl  Bollilatte  Acciaio  Inox  Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072VMTVFJ/?tag=tolees00-21'
 descuento: '70.47'
 average: '4.99'

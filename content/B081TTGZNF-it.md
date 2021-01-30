@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'adidas WB Karkaj  Giacca Sportiva Uomo  Glory Green  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081TTGZNF/?tag=tolees00-21'
 descuento: '50.00'
 average: '69.98'

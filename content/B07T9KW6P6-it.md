@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Dustgo Tester PH/TDS&EC 4 in 1 Set Misuratore Digitale della qualità dell Acqua Multi-Funzione Compensazione Automatica della Temperatura  Auto-Calibrazione  Retroilluminato Misuratore PH Acqua'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T9KW6P6/?tag=tolees00-21'
 descuento: '35.53'
 average: '18.69'

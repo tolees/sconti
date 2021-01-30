@@ -16,6 +16,7 @@ comparePrice: 23.88 EUR
 prodname: 'Smac - Express Pavimenti Freschezza Intensa - 1000ml x 12 pezzi - 12000ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0895BQVQS/?tag=tolees00-21'
 descuento: '20.02'
 average: '19.1'

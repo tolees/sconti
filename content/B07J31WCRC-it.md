@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Under Armour Undeniable Duffel 4.0 LG  Borsa Unisex  Blu  Taglia Unica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07J31WCRC/?tag=tolees00-21'
 descuento: '42.80'
 average: '25.71'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Tiro 19  Maglia da Allenamento Uomo  Bold Blue/Dark Blue/White  M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JPJY86Q/?tag=tolees00-21'
 descuento: '50.05'
 average: '24.95'

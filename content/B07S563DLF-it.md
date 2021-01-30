@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core  Sneaker Uomo  Grigio  Grey/White Ce2 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S563DLF/?tag=tolees00-21'
 descuento: '45.39'
 average: '43.69'

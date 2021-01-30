@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Clementoni- Banchetto Svita Avvita Gioco per Bambini  Multicolore  17042'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01DBR2S3A/?tag=tolees00-21'
 descuento: '15.50'
 average: '10.191666666666668'

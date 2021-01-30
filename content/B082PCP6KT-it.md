@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Honor Magicwatch 2 Smart Watch Da 46 Mm  Con Cardiofrequenzimetro  Modalità Di Esercizio  14 Giorni In Standby  Altoparlante E Microfono Integrato  Colore: Nero/Carbone'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082PCP6KT/?tag=tolees00-21'
 descuento: '17.32'
 average: '148.0'

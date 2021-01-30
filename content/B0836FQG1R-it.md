@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Tagliacapelli e barba sei in uno  rasoio elettrico professionale per uomo per naso e orecchie  parrucchiere ricaricabile impermeabile con caricatore  nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0836FQG1R/?tag=tolees00-21'
 descuento: '50.03'
 average: '9.99'

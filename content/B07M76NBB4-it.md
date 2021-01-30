@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Plafoniera LED Lampada a Soffitto Bianco Naturale 4000K 18W 1500 Lumens Ø28cm  EISFEU Plafoniere LED per cucina  bagno  camera da letto  corridoio  cantina  ufficio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07M76NBB4/?tag=tolees00-21'
 descuento: '51.87'
 average: '12.99'

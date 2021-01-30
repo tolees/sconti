@@ -16,6 +16,7 @@ comparePrice: 24.79 EUR
 prodname: 'Aigostar Lampadina LED GU10 8W  600 Lumen Luce Bianca Fredda 6400K  Angolo a Fascio 120-160 Gradi  Nessun Sfarfallio Non Dimmerabile  Pacco da 10.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015T9KBXC/?tag=tolees00-21'
 descuento: '22.59'
 average: '19.19'

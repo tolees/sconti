@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Plafoniera LED Soffitto Moderna  Faretti a LED per interni  10W  3000K Bianco Caldo  Applique da Parete Interno e Esterno Moderno  Adatto per Soggiorno Corridoio Pareti Interne ed Esterne Davanzale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W21NBFT/?tag=tolees00-21'
 descuento: '15.01'
 average: '23.79'

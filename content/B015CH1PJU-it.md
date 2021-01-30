@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Sandisk Ultra Flair 128 GB  Chiavetta USB 3.0  Velocità di Lettura fino a 150 MB/s  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015CH1PJU/?tag=tolees00-21'
 descuento: '63.30'
 average: '21.28'

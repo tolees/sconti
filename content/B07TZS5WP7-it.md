@@ -16,6 +16,7 @@ comparePrice: 123.9 EUR
 prodname: 'Lenovo TAB M10 Tablet  Display 10.1" HD  Processore Qualcomm Snapdragon 429  32GB espandibili fino a 128GB  RAM 2GB  WiFi  Android Oreo  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TZS5WP7/?tag=tolees00-21'
 descuento: '19.30'
 average: '99.99'

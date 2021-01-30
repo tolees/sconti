@@ -16,6 +16,7 @@ comparePrice: 43.81 EUR
 prodname: 'Tommy Hilfiger Squares Tee Maglietta  Blu  Blue Ink   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WLQLVM5/?tag=tolees00-21'
 descuento: '33.28'
 average: '29.23'

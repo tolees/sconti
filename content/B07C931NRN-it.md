@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Versus Versace Dress Watch VSP490318'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07C931NRN/?tag=tolees00-21'
 descuento: '41.42'
 average: '99.0'

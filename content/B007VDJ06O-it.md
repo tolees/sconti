@@ -16,6 +16,7 @@ comparePrice: 50.02 EUR
 prodname: 'Claber 87335 Inter. POZZETTO Grande 90510  Nero/Arancione/Grigio  500x640x310 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B007VDJ06O/?tag=tolees00-21'
 descuento: '30.05'
 average: '34.99'

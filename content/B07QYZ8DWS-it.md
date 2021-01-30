@@ -16,6 +16,7 @@ comparePrice: 22.89 EUR
 prodname: 'Ginocchiera a Compressione unisex  1 Paio   Ginocchiere Rotulea Supporto Sportiva Elastica  Tutore Ginocchio Protettivo per Running  Sport  Joint sollievo dal Dolore  Artrite e Lesioni Recupero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QYZ8DWS/?tag=tolees00-21'
 descuento: '17.04'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 84.9 EUR
 prodname: 'Kipling City Pack S - Zaini Donna  Nero  True Black   27x33.5x19 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077TZ73MW/?tag=tolees00-21'
 descuento: '23.09'
 average: '65.11500000000001'

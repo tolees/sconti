@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Morstone Trasportino per Cani e Gatti  Gabbietta Morbida per Animali Domestici  Borsa portabile o a Tracolla in Tessuto da Trasporto Confortevole  Borsa Ripiegabile Viaggio Sull  Aereo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MGH27ZS/?tag=tolees00-21'
 descuento: '16.67'
 average: '29.99'

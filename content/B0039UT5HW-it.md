@@ -16,6 +16,7 @@ comparePrice: 63.34 EUR
 prodname: 'Casio Orologio Analogico al Quarzo Uomo con Cinturino in Acciaio Inox MTP-1303D-1AVEF'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0039UT5HW/?tag=tolees00-21'
 descuento: '47.60'
 average: '33.19'

@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Kipling KiplingTotepackDonnaBorse a secchielloVerde  Fro Mint Light  57x37x18 Centimeters  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TZ1NN19/?tag=tolees00-21'
 descuento: '52.45'
 average: '23.3'

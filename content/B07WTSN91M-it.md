@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'TopMate Batteria Esterna da 10000 mAh per Caricabatterie Portatile Power Bank con Ingresso e Uscita di Tipo C | Design Ultra Sottile per Cellulare e Pad ECC. | Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WTSN91M/?tag=tolees00-21'
 descuento: '38.90'
 average: '9.77'

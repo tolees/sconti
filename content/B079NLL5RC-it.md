@@ -16,6 +16,7 @@ comparePrice: 33.67 EUR
 prodname: 'Hape- Race to The Finish Marble Run Game  Multicolore  E6021'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079NLL5RC/?tag=tolees00-21'
 descuento: '28.39'
 average: '24.11'

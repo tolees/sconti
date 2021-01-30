@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'VEESUN Zaino Porta PC 15.6 Pollici  Zaino Computer Portatile con Porta USB Impermeabile Borsa Zaino Uomo Donna Lavoro università Scuola Business Viaggio  Classico Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FRVXLBH/?tag=tolees00-21'
 descuento: '46.17'
 average: '13.99'

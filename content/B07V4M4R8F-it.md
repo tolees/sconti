@@ -16,6 +16,7 @@ comparePrice: 162.5 EUR
 prodname: 'Love Moschino Jc4256pp0a  Borsa Tote Donna  Avorio  Ivory   9x25x37 cm  W x H x L '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V4M4R8F/?tag=tolees00-21'
 descuento: '49.97'
 average: '81.3'

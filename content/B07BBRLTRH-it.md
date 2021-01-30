@@ -16,6 +16,7 @@ comparePrice: 459.99 EUR
 prodname: 'BenQ EW3270U Monitor PC per Intrattenimento Video  HDR  UHD   Risoluzione 4K HDR  VA  95% DCI-P3  Brightness Intelligence Sensore  HDMI 2.0  DP 1.2  USB-C  DisplayPort  32 Pollici'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BBRLTRH/?tag=tolees00-21'
 descuento: '23.91'
 average: '349.99'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Leeds 10a2  Scarpe da Ginnastica Uomo  Beige  White YBS   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RKPH74V/?tag=tolees00-21'
 descuento: '45.05'
 average: '54.9'

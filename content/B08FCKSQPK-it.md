@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Tapis Roulant Elettrico Pieghevole da 2200W con inclinazione automatica  sospensioni ammortizzate e sistema di autolubrificazione. Display LCD  supporto ipad bevande  bluetooth  attacco MP3  speakers inclusi  app system.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FCKSQPK/?tag=tolees00-21'
 descuento: '19.91'
 average: '719.99'

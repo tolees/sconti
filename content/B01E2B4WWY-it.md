@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'VERO MODA VMJULIA LS BLAZER DNM NOOS  Blazer Donna  Blu  Total Eclipse   42'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01E2B4WWY/?tag=tolees00-21'
 descuento: '37.51'
 average: '24.99'

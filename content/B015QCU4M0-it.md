@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Resident Evil Origins Collection - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21'
 descuento: '56.93'
 average: '21.49'

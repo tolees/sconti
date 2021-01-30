@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Luce Solare Esterno 2 pezzi  GIANTARM 30 LED Lampada Solari da Esterno con Sensore di Movimento IP65 Impermeabile Lampade da parete Solare Illuminazione solare Testa a Doppia Lampada Rotante a 360°'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QFR2PB5/?tag=tolees00-21'
 descuento: '20.01'
 average: '31.99'

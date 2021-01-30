@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug & Play'
 country: 'it'
 flag: '🇮🇹'
+brand: 'TP-Link'
 buyurl: 'https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21'
 descuento: '46.19'
 average: '6.98818181818182'
@@ -29,8 +30,8 @@ Puoi trovare [TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug 
 
 - Controllo di flusso IEEE 802.3x per un trasferimento dati affidabile
 - ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
-- Nessuna configurazione richiesta
-- Con auto-negoziazione, supporta auto MDI/MDIX
 - Telaio in plastica, predisposto per linstallazione su scrivania
+- Con auto-negoziazione, supporta auto MDI/MDIX
+- Nessuna configurazione richiesta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21)

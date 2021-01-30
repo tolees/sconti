@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Pokémon Mystery Dungeon: SQUADRA DI Soccorso DX - Nintendo Switch'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083QYRJ7P/?tag=tolees00-21'
 descuento: '23.34'
 average: '45.99'

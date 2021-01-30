@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Sntieecr Elettronica Motore Circuiti  Giochi Educativi e Scientifici Kit per Bambini STEM Esperimenti Progetti Scientifici'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082NW2H1K/?tag=tolees00-21'
 descuento: '47.39'
 average: '9.99'

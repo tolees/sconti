@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Vikky Stacked L  Sneakers Donna  Grigio  Silver Cloud-Rosewater   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S8PVHTR/?tag=tolees00-21'
 descuento: '44.05'
 average: '33.54'

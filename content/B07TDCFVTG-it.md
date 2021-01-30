@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'VicTsing Tastiera e Mouse Wireless PC  Kit Tastiera Mouse Wireless  Tastiera Wireless Tasti Cioccolati  Mouse Ultra Silenzioso  Ricevitore 2-in-1 per PC  Notebook  Laptop'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TDCFVTG/?tag=tolees00-21'
 descuento: '20.01'
 average: '20.79'

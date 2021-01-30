@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Bimar PAA1 Aspirapolvere  Bidone Aspiratutto  Aspira liquidi / solidi  senza sacco  Aspiracenere  Aspiratore Professionale  Auto  Animali  Potente  Lavapavimenti  Filtro ad acqua  Hepa  con Soffiatore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MYRLE1J/?tag=tolees00-21'
 descuento: '20.00'
 average: '79.99'

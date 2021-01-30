@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core  Sneaker Uomo  Blu  Navy/White Cc2 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S1W3LMN/?tag=tolees00-21'
 descuento: '30.64'
 average: '55.49'

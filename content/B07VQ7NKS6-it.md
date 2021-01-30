@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Cuffie per giochi per PS4  Cuffie per giocatori a LED  blu  con microfono con cancellazione del rumore per PC  Mac  Playstation 4  Xbox One  BLACK RED '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VQ7NKS6/?tag=tolees00-21'
 descuento: '15.01'
 average: '27.80363636363636'

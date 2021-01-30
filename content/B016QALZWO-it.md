@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Adidas Parma 16 SHO  Pantaloncini Uomo  Nero  Black/White   M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B016QALZWO/?tag=tolees00-21'
 descuento: '24.44'
 average: '13.935714285714285'

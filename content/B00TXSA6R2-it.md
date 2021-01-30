@@ -16,6 +16,7 @@ comparePrice: 62.1 EUR
 prodname: 'Boucheron Quatre pour Femme Eau de Parfum spray 100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00TXSA6R2/?tag=tolees00-21'
 descuento: '41.22'
 average: '36.5'

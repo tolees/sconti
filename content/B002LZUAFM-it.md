@@ -16,6 +16,7 @@ comparePrice: 284.74 EUR
 prodname: 'Orologio Emporio Armani AR2434'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B002LZUAFM/?tag=tolees00-21'
 descuento: '41.35'
 average: '167.0'

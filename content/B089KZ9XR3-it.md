@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Oral-B Precision Clean Testine di Ricambio per Spazzolino Elettrico con Tecnologia CleanMaximiser  Confezione da 10 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089KZ9XR3/?tag=tolees00-21'
 descuento: '37.51'
 average: '26.49'

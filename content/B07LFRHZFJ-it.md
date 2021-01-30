@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Jaylon E  Stivali Classici Uomo  Marrone  Dk Coffee C6024   45 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07LFRHZFJ/?tag=tolees00-21'
 descuento: '66.95'
 average: '39.63'

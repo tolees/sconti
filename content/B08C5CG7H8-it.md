@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'VBIGER Guanti Invernali Uomo Donna Guanti Ciclismo Guanti Sportivi con Silicone Antiscivolo e Funzione Touch Screen per Escursionismo Guida Corsa Ciclismo All aperto  M '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08C5CG7H8/?tag=tolees00-21'
 descuento: '33.35'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger RN Tee SS Maglietta  Bianco  White 100   X-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0788BMRYS/?tag=tolees00-21'
 descuento: '47.49'
 average: '20.95'

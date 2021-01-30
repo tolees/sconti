@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Bradstreet Chukka Leather  Stivali Uomo  Pelle  Materiale suola: Gomma  Larghezza scarpa: medium  Nero  Black Nubuck   45 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Timberland'
 buyurl: 'https://www.amazon.it/dp/B014YHPQMQ/?tag=tolees00-21'
 descuento: '38.58'
 average: '87.0118032786884'
@@ -27,10 +28,10 @@ Puoi trovare [Timberland Bradstreet Chukka Leather  Stivali Uomo  Pelle  Materia
 
 ℹ️:
 
-- Fodera: tessuto
-- Tipo di tacco: Senza tacco
 - Materiale esterno: Pelle
 - Chiusura: stringata
+- Fodera: tessuto
 - Materiale suola: gomma
+- Tipo di tacco: Senza tacco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014YHPQMQ/?tag=tolees00-21)

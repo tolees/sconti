@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Polaroid POP 2.0 – Fotocamera digitale a stampa istantanea  con display touchscreen da 3 97"  Wi-Fi integrato  video HD da 1080p  tecnologia zero inchiostro Zink e nuova app  blu'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FDL3FSP/?tag=tolees00-21'
 descuento: '52.00'
 average: '119.99'

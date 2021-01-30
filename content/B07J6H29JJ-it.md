@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Levi s Type 3 Giacca in Jeans  Blu  Stonebridge Sherpa Trucker 0070   X-Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07J6H29JJ/?tag=tolees00-21'
 descuento: '68.64'
 average: '44.77'

@@ -16,6 +16,7 @@ comparePrice: 38.9 EUR
 prodname: 'MKTOSASA - Supporto di Stampa con Batteria di ricarica-10.000 mAh. con Display Rinforzato di Dimensioni 15x21.5cm  Finitura in Acrilico Trasparente per l inserimento di Poster - 16x27.5x7.8'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085LKRJY2/?tag=tolees00-21'
 descuento: '20.05'
 average: '31.1'

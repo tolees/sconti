@@ -16,6 +16,7 @@ comparePrice: 2.56 EUR
 prodname: 'Barilla - Sugo Ragù alla Bolognese - Salsa Pronta al Pomodoro Italiano e Carne Selezionata - Senza Glutine - 400 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LZ4W0ER/?tag=tolees00-21'
 descuento: '31.64'
 average: '1.75'

@@ -16,6 +16,7 @@ comparePrice: 17.42 EUR
 prodname: 'Ultima Cibo per Cani Mini Adult con Pollo  3 kg'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01IUP5EZ2/?tag=tolees00-21'
 descuento: '37.43'
 average: '10.9'

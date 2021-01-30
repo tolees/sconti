@@ -16,6 +16,7 @@ comparePrice: 1.32 EUR
 prodname: 'Gran Cereale Biscotti Gran Cereale al Cioccolato  Biscotti dal Gusto Pieno Ricchi di Fibra e Fosforo - 230 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001OHWAA6/?tag=tolees00-21'
 descuento: '25.00'
 average: '0.99'

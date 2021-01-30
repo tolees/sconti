@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'BRIKSMAX Kit di Illuminazione a LED per Lego Technic Trasporta Container Compatibile con Il Modello Lego 42062 Mattoncini da Costruzioni - Non Include Il Set Lego.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WS7QQX7/?tag=tolees00-21'
 descuento: '39.22'
 average: '30.99'

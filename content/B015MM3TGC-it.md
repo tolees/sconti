@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'SLOTRA Zaino per Computer Portatile 15.6 Pollici Zaino per PC Portatile Impermeabile da Uomo Borsa per Scuola Viaggio  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015MM3TGC/?tag=tolees00-21'
 descuento: '52.20'
 average: '10.99'

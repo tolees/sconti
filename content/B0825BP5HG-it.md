@@ -16,6 +16,7 @@ comparePrice: 85.28 EUR
 prodname: 'National Geographic Travel Kit Treppiede con Monopiede  Alluminio  Gambe 5 Sezioni  Twist Lock  Sacca Trasporto  Carico Fino a 8 kg  Testa a Sfera  Sgancio Rapido  NGTR002T'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0825BP5HG/?tag=tolees00-21'
 descuento: '61.32'
 average: '32.99'

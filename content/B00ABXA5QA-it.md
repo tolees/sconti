@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Arena Racing Goggles Strap  Kit di Cinturini per Occhialini da Gara Unisex Adulto  Multicolore  Multicolour   Taglia Unica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ABXA5QA/?tag=tolees00-21'
 descuento: '16.80'
 average: '8.32'

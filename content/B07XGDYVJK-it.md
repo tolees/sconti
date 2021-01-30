@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'Nba 2K20 - Standard - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21'
 descuento: '70.43'
 average: '20.99'

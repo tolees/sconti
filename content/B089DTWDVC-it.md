@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Superzings.  blu  Blu  - M744'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089DTWDVC/?tag=tolees00-21'
 descuento: '19.95'
 average: '17.345000000000002'

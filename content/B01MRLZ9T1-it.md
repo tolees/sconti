@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Vans Ward Sneaker  Unisex – Bambini  Suede/Canvas Black/White Iju  39 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MRLZ9T1/?tag=tolees00-21'
 descuento: '21.98'
 average: '35.11'

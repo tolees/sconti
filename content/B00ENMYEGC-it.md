@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'SOI. SOI01 Accessori da Viaggio-Organizer per Valigia  Multiply  Bianco  20.1x15.1x10.1 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ENMYEGC/?tag=tolees00-21'
 descuento: '16.72'
 average: '24.9'

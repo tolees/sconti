@@ -16,6 +16,7 @@ comparePrice: 19.6 EUR
 prodname: 'Pampero Rum Aniversario Ml.700'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003WIHR44/?tag=tolees00-21'
 descuento: '15.97'
 average: '16.47'

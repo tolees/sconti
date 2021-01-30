@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Fallout 76  Wastelanders  PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084HXPN5Z/?tag=tolees00-21'
 descuento: '50.01'
 average: '19.99'

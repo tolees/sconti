@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'QHOHQ Cinturino Metallo per Xiaomi Mi Band 5  Sostituibile - Regolabile - Acciaio Inossidabile Braccialetto Cinturini Cinghia  Cassa in Lega di Zinco  Adatto a Uomini e Donne - Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DKRVXXG/?tag=tolees00-21'
 descuento: '41.20'
 average: '9.99'

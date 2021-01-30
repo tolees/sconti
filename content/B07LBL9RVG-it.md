@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'Samsung WW10N64MRQW Lavatrice 10 kg AddWash  1400 rpm  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07LBL9RVG/?tag=tolees00-21'
 descuento: '55.88'
 average: '531.396'

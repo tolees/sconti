@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HyperX HX-HSCSC-BK Cloud Stinger Core  Cuffie Gaming per Console PlayStation 4/4 Pro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BB3PYD8/?tag=tolees00-21'
 descuento: '42.46'
 average: '24.455000000000002'

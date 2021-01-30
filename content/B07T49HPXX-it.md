@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Rimila Auto telecomandata  4WD Macchina Telecomandata Stunt Car 2.4GHZ Telecomando Macchina Acrzaic Rotazione di 360 Gradi（Non comprese Le batterie）  Red '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T49HPXX/?tag=tolees00-21'
 descuento: '15.01'
 average: '16.99'

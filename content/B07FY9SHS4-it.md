@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Verde  Olive Green   39/40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FY9SHS4/?tag=tolees00-21'
 descuento: '25.75'
 average: '17.82'

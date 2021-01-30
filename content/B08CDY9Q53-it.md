@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Set Pittura ad Acquerello  36 Colori professionale portatile 12 Colori Metallizzati Con Pennelli ad Acqua  Matita  Pennelli di dettaglio  Scatola di metallo Per bambini principianti e professionali'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CDY9Q53/?tag=tolees00-21'
 descuento: '27.03'
 average: '26.99'

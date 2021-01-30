@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Levi s Levis 168sf Mid Cut 3p Calze  Blu  Navy 321   43/46  Taglia Produttore: 043  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VTG86Y2/?tag=tolees00-21'
 descuento: '32.43'
 average: '6.75'

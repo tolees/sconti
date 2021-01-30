@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Adilette Shower  Scarpe da Ginnastica Uomo  Blu  True Blue/Ftwr White/True Blue   40.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NBPS3DZ/?tag=tolees00-21'
 descuento: '54.99'
 average: '11.23'

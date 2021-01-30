@@ -16,6 +16,7 @@ comparePrice: 12.37 EUR
 prodname: 'Metaltex Babatex  - Cestello sottoripiano -  363840 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000T2HNWW/?tag=tolees00-21'
 descuento: '51.58'
 average: '5.99'

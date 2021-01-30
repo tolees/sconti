@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox D Jaysen A  Scarpe da Ginnastica Basse Donna  Bianco  White/Orange C0422   40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SRKBF7S/?tag=tolees00-21'
 descuento: '60.66'
 average: '33.475'

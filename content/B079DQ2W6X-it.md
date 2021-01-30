@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TACKLIFE SEB04A Estrattore di Viti Danneggiate  4 Pezzi Estrattori di Vite con Custodia  in Acciaio ad Alta Velocità 6542#  Durezza 63-65HRC'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079DQ2W6X/?tag=tolees00-21'
 descuento: '33.36'
 average: '9.99'

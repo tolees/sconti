@@ -16,6 +16,7 @@ comparePrice: 142.5 EUR
 prodname: 'Love Moschino Jc4252pp0a  Pochette da Giorno Donna  Nero  Black Metal   3x13x27 cm  W x H x L '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V7WS2WK/?tag=tolees00-21'
 descuento: '69.90'
 average: '42.89'

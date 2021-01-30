@@ -16,6 +16,7 @@ comparePrice: 27.49 EUR
 prodname: 'Nike Sportswear  Zaino Sportivo Unisex Adulto  Nero Black/White  48 x 30 x 15 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KM8QF58/?tag=tolees00-21'
 descuento: '23.79'
 average: '20.95'

@@ -16,6 +16,7 @@ comparePrice: 54.89 EUR
 prodname: 'givova Visa Fluo  Tuta da Ginnastica Uomo  Nero/Bianco  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00I060RAY/?tag=tolees00-21'
 descuento: '55.38'
 average: '24.49'

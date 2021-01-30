@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Malibu Beach S  Sneaker Donna  Bianco  B White 50   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SPY1T83/?tag=tolees00-21'
 descuento: '32.89'
 average: '23.49'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson Lo  Sneakers Unisex-Adulto  Nero  Schwarz Black White White   44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KG6Z71S/?tag=tolees00-21'
 descuento: '50.59'
 average: '39.5'

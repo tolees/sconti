@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Synology DiskStation DS220j - Server NAS a 2 vani e 2 dischi rigidi da 2 TB'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085S87YDX/?tag=tolees00-21'
 descuento: '31.48'
 average: '184.99'

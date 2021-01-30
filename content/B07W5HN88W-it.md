@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Xiaomi - Ripetitore di rete WiFi WiFi Extender di copertura  porta Ethernet  10/100 Mbps  con presa  300 Mbps  2 4 GHz   rete wireless segnale wireless di rete di miglioramento router wireless'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W5HN88W/?tag=tolees00-21'
 descuento: '16.20'
 average: '15.0'

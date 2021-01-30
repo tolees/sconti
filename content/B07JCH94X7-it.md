@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'Cesar Scelta dello Chef Cibo per Cane  Pollo alla Griglia con Riso Integrale e Verdure 150 g - 14 Vaschette'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JCH94X7/?tag=tolees00-21'
 descuento: '48.25'
 average: '8.26'

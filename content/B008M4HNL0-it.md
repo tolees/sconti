@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'De Longhi friggitrice F13205'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B008M4HNL0/?tag=tolees00-21'
 descuento: '33.35'
 average: '49.99'

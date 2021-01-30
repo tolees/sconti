@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas Streetcheck  Scarpe da Basketball Uomo  Multicolore  Core Black/Core Black/Ftwr White Ee9660   43 1/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RGQ4K85/?tag=tolees00-21'
 descuento: '77.10'
 average: '20.6'

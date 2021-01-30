@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Maybelline New York Tinta per Sopracciglia Peel-off Tattoo Brow  Risultato Definito fino a 3 Giorni  1-Light Brown  4.6 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073VN1B3K/?tag=tolees00-21'
 descuento: '67.65'
 average: '4.85'

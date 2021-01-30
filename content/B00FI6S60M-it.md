@@ -16,6 +16,7 @@ comparePrice: 182.0 EUR
 prodname: 'Catwalk Collection Handbags - Vera Pelle - Grande Borsa a Tracolla/Borse a Mano/Spalla/Messenger/Tote/Tracolla Regolabile - Con Ciondolo a Forma di Gatto - Victoria - MARRONE CHIARO'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00FI6S60M/?tag=tolees00-21'
 descuento: '45.08'
 average: '99.95'

@@ -16,6 +16,7 @@ comparePrice: 75.96 EUR
 prodname: 'K-Cheratina - Trattamento Professionale Capelli Deboli e Sfibrati - Contiene lo Shampoo Ristrutturante  il Siero ad Azione Riempitiva  la Maschera Ricostruzione e la Cheratina Liquida Ultra-Nutriente'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FNNKJFF/?tag=tolees00-21'
 descuento: '20.01'
 average: '60.76'

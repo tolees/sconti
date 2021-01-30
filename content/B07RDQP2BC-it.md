@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Tjw Waffle Hybrid Longsleeve Maglia Sportiva  Blu  Blue Cbk   36  Taglia Produttore: Small  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RDQP2BC/?tag=tolees00-21'
 descuento: '46.31'
 average: '32.16'

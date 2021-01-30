@@ -16,6 +16,7 @@ comparePrice: 55.25 EUR
 prodname: 'Desigual Borsa Donna bols ada rotterdam 20saxpae unica marrone'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0844LMRLR/?tag=tolees00-21'
 descuento: '27.08'
 average: '40.29'

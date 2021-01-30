@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Hot Mom Barriera letto extra-large 150 cm  dark green '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08977CRLX/?tag=tolees00-21'
 descuento: '41.06'
 average: '29.639999999999997'

@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Tommy Hilfiger Bikini Slip  Bianco  White 100   42  Taglia Produttore: 36 Small  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078GB9WJ6/?tag=tolees00-21'
 descuento: '36.12'
 average: '13.99'

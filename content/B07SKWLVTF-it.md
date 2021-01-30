@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Havaianas High Light  Infradito Donna  Nero  Black/Dark Grey/Ice Grey 7905   33/34 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SKWLVTF/?tag=tolees00-21'
 descuento: '63.67'
 average: '10.9'

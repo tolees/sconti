@@ -16,6 +16,7 @@ comparePrice: 29.97 EUR
 prodname: 'KLIM™ Breeze – Ventola da Tavolo dalle Alte Performance – Ventilatore per Scrivania – Dissipatore Silenzioso e Regolabile per Raffreddamento - Bianco [ Nuova Versione 2020 ]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073FH44BN/?tag=tolees00-21'
 descuento: '66.73'
 average: '9.97'

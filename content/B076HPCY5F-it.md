@@ -16,6 +16,7 @@ comparePrice: 66.62 EUR
 prodname: 'adidas Condivo 18 Jacket  Giacca Uomo  Blu  Blu Scuro/Azzurro/Bianco   L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076HPCY5F/?tag=tolees00-21'
 descuento: '56.17'
 average: '29.2'

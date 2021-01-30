@@ -16,6 +16,7 @@ comparePrice: 179.96 EUR
 prodname: 'Tablet 10 Pollici con Wifi Offerte Tablet PC Android 9.0 GO  Google Certificazione GMS   3GB RAM+32/128GB ROM   4G LTE Call  8MP Quad-Core Supporta Netflix /APK WiFi /Bluetooth/ GPS/OTG  grigio '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088BZ3SML/?tag=tolees00-21'
 descuento: '55.55'
 average: '79.99'

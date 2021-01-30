@@ -16,6 +16,7 @@ comparePrice: 5.23 EUR
 prodname: 'Pan di Stelle Torta Pronta da Gustare al Gusto di Cioccolato e Cacao per una Merenda Gustosa e Morbida  435 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01GEMTE2W/?tag=tolees00-21'
 descuento: '40.92'
 average: '3.09'

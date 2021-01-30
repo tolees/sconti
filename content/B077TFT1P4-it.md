@@ -16,6 +16,7 @@ comparePrice: 137.99 EUR
 prodname: 'Bosch UniversalChain 18 Sega a Catena a Batteria  senza Batteria  Scatola di Cartone  Sistema SDS  Lunghezza Barra 200 mm  Sistema da 18 V'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077TFT1P4/?tag=tolees00-21'
 descuento: '27.54'
 average: '99.99'

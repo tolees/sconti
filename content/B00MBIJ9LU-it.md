@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Ferrolin C - 24 Pocket Drink'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00MBIJ9LU/?tag=tolees00-21'
 descuento: '60.14'
 average: '5.54'

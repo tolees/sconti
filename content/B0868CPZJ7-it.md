@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Lampada UV Aigostar Lampada sterilizzante a raggi Ultravioletti UV  18 W  elimina batteri  acari e riduce l HCHO. Design a torre senza telecomando  fino a 40m²  uso interno. Colore nero.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0868CPZJ7/?tag=tolees00-21'
 descuento: '25.01'
 average: '23.99'

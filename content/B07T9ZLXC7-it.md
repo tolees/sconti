@@ -16,6 +16,7 @@ comparePrice: 111.0 EUR
 prodname: 'Nike Air Max Excee U  Scarpe da Corsa Uomo  Bianco  White/Black/Pure Platinum   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T9ZLXC7/?tag=tolees00-21'
 descuento: '51.50'
 average: '53.83'

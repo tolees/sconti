@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'UGREEN Case Esterno Hard Disk 2.5"  Custodia Esterna per Disco Rigido USB-C 10TB UASP 6Gbps per 7mm e 9.5mm SATA I II III HDD SSD 2.5   Compatibile Samsung WD Toshiba Seagate Hitachi  PS4  Xbox ECC'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0851B6TCC/?tag=tolees00-21'
 descuento: '17.66'
 average: '14.463684210526313'

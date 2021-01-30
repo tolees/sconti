@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'VicTsing Tastiera Gaming PC e Ufficio  Tastiera Retroilluminazione Regolabile Multicolore - Pannello Metallico - Ultrasottile. Layout Italiano  per PC PS4 Xbox'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GK35MMF/?tag=tolees00-21'
 descuento: '24.25'
 average: '20.99'

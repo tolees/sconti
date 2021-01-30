@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  Bianco White Black 24  41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S9RX3DY/?tag=tolees00-21'
 descuento: '31.17'
 average: '34.38'

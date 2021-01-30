@@ -16,6 +16,7 @@ comparePrice: 144.99 EUR
 prodname: 'Fitbit Versa Edizione Speciale con Rilevazione del Battito Cardiaco  oltre 4 Giorni di Autonomia della Batteria  Resistente All acqua  Grigio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B9PSJGV/?tag=tolees00-21'
 descuento: '24.82'
 average: '109.0'

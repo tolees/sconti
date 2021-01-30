@@ -16,6 +16,7 @@ comparePrice: 32.49 EUR
 prodname: 'DURAGADGET Borsa/Valigetta per Lettori Dvd Portatili - Adattabile Ai Poggiatesta Posteriore da Auto - Cinghie di Alta qualità'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00UNJWR18/?tag=tolees00-21'
 descuento: '35.40'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'GIOTTO TURBO MAXI PUNTA 2 8MM PENNARELLI  36 PEZZI'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0054Y5JLW/?tag=tolees00-21'
 descuento: '67.00'
 average: '4.1000000000000005'

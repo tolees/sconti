@@ -16,6 +16,7 @@ comparePrice: 2.0 EUR
 prodname: 'Head & Shoulders Shampoo Antiforfora Suprême Ripara  con Olio di Argan  con Ingredienti Sublimatori  225 m'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MZLPHGD/?tag=tolees00-21'
 descuento: '15.50'
 average: '1.69'

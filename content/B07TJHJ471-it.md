@@ -16,6 +16,7 @@ comparePrice: 41.25 EUR
 prodname: 'United Colors of Benetton 2GK653EH8 Cappotto  Nero  Nero 100   L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TJHJ471/?tag=tolees00-21'
 descuento: '18.59'
 average: '37.415'

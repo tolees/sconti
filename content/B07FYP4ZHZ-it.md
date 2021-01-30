@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Crema Termogenica Anticellulite Vovees Reducto Lipocream - Brucia Grassi e Snellente - 200ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FYP4ZHZ/?tag=tolees00-21'
 descuento: '24.99'
 average: '29.93'

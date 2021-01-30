@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'Lenor Ammorbidente Oro & Fiori di Vaniglia  Maxi Formato da 70 Lavaggi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071WKHGS4/?tag=tolees00-21'
 descuento: '54.64'
 average: '2.49'

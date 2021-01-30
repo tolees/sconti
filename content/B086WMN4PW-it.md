@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Termometro digitale a infrarossi Cloc'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086WMN4PW/?tag=tolees00-21'
 descuento: '16.93'
 average: '25.99'

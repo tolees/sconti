@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Birkenstock Arizona Birko-Flor Nubuck  Sandali Unisex-Adulto  Beige  Stone Nubuk   37'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003ART3UI/?tag=tolees00-21'
 descuento: '16.15'
 average: '62.89'

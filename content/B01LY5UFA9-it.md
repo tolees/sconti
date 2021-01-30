@@ -16,6 +16,7 @@ comparePrice: 2.15 EUR
 prodname: 'Rio Mare Paté di Salmone Rosa  Cremoso e Spalmabile  1 Tubetto da 100 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LY5UFA9/?tag=tolees00-21'
 descuento: '19.53'
 average: '1.73'

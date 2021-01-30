@@ -16,6 +16,7 @@ comparePrice: 19.14 EUR
 prodname: 'Head & Shoulders Men Ultra Anticaduta Shampoo Antiforfora con Caffeina  Pacco da 6 x 225 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073XR7Y8W/?tag=tolees00-21'
 descuento: '21.68'
 average: '14.99'

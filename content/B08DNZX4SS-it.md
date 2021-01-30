@@ -16,6 +16,7 @@ comparePrice: 22.31 EUR
 prodname: 'Power Theory Vetro Temperato per Nintendo Switch [2 Pezzi] - Pellicola Protettiva Di Qualità Superiore con Kit di Facile Installazione  Vetrino'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DNZX4SS/?tag=tolees00-21'
 descuento: '41.95'
 average: '12.95'

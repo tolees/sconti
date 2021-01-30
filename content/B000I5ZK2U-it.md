@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Bic Cristal Original Punta Media 1 mm Confezione 50 Penne Colore Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000I5ZK2U/?tag=tolees00-21'
 descuento: '17.61'
 average: '9.87'

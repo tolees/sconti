@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Havaianas Origine III  Espadrillas Unisex-Adulto  Verde  Green   45 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01L41EI3I/?tag=tolees00-21'
 descuento: '39.09'
 average: '19.49'

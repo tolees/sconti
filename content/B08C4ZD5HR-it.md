@@ -16,6 +16,7 @@ comparePrice: 10.22 EUR
 prodname: 'JFDSD 50/100 Pezzi 3 Strati Traspiranti  100 Pezzi  Blu '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08C4ZD5HR/?tag=tolees00-21'
 descuento: '22.70'
 average: '7.9'

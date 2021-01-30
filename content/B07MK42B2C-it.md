@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour Sportstyle Terry Logo Felpa  Uomo  Nero  XXL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MK42B2C/?tag=tolees00-21'
 descuento: '43.65'
 average: '33.81'

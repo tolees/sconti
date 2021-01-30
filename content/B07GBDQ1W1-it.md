@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Pulsar Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inox PT3943X1'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GBDQ1W1/?tag=tolees00-21'
 descuento: '54.67'
 average: '53.94'

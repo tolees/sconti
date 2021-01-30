@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Grand Court  Scarpe Sportive Mens  Bianco  Cloud White/Core Black/Cloud White   40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KFVGZC2/?tag=tolees00-21'
 descuento: '40.00'
 average: '41.97'

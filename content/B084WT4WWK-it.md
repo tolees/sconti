@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Xiaomi Mi Wi-Fi Range Extender Pro Ripetitore Wireless  Velocità 300 Mbps  Prolunga del Segnale Wi-Fi  2 Antenne  Massimo 64 Dispositivi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084WT4WWK/?tag=tolees00-21'
 descuento: '22.23'
 average: '13.99'

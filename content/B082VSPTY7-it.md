@@ -16,6 +16,7 @@ comparePrice: 1.85 EUR
 prodname: 'Coccolino - Ammorbidente Concentrato  Delicato e Soffice - 750ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082VSPTY7/?tag=tolees00-21'
 descuento: '35.68'
 average: '1.19'

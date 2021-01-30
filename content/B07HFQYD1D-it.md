@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Altoparlante Bluetooth Tribit XSound Go 12W Altoparlante wireless portatile  IPX7 impermeabile  Portata Bluetooth 20m'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HFQYD1D/?tag=tolees00-21'
 descuento: '17.52'
 average: '32.99'

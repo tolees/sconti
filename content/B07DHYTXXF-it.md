@@ -16,6 +16,7 @@ comparePrice: 66.5 EUR
 prodname: 'Lacoste Lerond 119  Scarpe da Ginnastica Basse Uomo  Bianco  White 737cma0045042   43 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DHYTXXF/?tag=tolees00-21'
 descuento: '18.80'
 average: '54.0'

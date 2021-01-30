@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Pellicola Xiaomi Mi Note 10 Lite Vetro Temperato  9H Durezza Protezione Schermo  Anti Graffi HD Trasparenza Protettiva Screen Protector Film'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FFK45MW/?tag=tolees00-21'
 descuento: '27.30'
 average: '7.99'

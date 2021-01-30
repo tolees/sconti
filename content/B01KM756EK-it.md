@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Killington Chukka  Scarpe Alte Uomo  Beige  Wheat Nubuck   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01KM756EK/?tag=tolees00-21'
 descuento: '52.34'
 average: '69.96'

@@ -16,6 +16,7 @@ comparePrice: 32.49 EUR
 prodname: 'Calvin Klein Eternity for Men Eau de Toilette  30 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B013SXJL0K/?tag=tolees00-21'
 descuento: '33.27'
 average: '21.68'

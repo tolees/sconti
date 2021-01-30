@@ -16,6 +16,7 @@ comparePrice: 16.98 EUR
 prodname: 'TOUCHBeauty AG-0602AP Kit manicure/pedicure da donna elettrico lima per unghie ed accessori'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XFV1N2R/?tag=tolees00-21'
 descuento: '29.45'
 average: '11.98'

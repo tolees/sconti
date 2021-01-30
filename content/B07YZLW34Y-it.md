@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Gillette SkinGuard Sensitive Lamette di Ricarica per Rasoio Uomo  Confezione da 14 Lamette di Ricambio per Pelli Sensibili'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YZLW34Y/?tag=tolees00-21'
 descuento: '25.61'
 average: '31.98'

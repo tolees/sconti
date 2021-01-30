@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Adilette Shower  Scarpe da Spiaggia e Piscina Uomo  Blu  True Blue/Ftwr White/True Blue   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NBP7P9N/?tag=tolees00-21'
 descuento: '54.99'
 average: '11.23'

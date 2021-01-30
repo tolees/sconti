@@ -16,6 +16,7 @@ comparePrice: 95.99 EUR
 prodname: 'Estrattore di Succo a Freddo  Aicok Estrattore di Frutta e Verduracon Motore Silenzioso  2 contenitori e Spazzola per Succo più Nutriente  Funzione Anti-Intasamenti  senza BPA'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BBFW1S8/?tag=tolees00-21'
 descuento: '17.19'
 average: '79.49'

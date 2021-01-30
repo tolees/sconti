@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Autan Active Vapo Bipacco  Insetto Repellente e Antizanzare  Lunga Durata  2 Confezioni da100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21'
 descuento: '40.95'
 average: '6.49'

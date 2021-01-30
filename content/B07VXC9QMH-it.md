@@ -16,6 +16,7 @@ comparePrice: 202.99 EUR
 prodname: 'Kingston A2000  SA2000M8/1000G  NVMe PCIe SSD 1000G'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VXC9QMH/?tag=tolees00-21'
 descuento: '51.78'
 average: '105.38599999999998'

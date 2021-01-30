@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Ticpods 2 Auricolari Wireless  Rilevazione nell’Orecchio  qualità del Suono Superiore  Controllo Touch/Vocale/Gesti  Assistente Vocale  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082KKYCGK/?tag=tolees00-21'
 descuento: '20.00'
 average: '79.99'

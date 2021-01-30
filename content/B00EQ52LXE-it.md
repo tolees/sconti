@@ -16,6 +16,7 @@ comparePrice: 42.04 EUR
 prodname: 'Calvin Klein  Down Town  Eau de Parfum da donna  50 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00EQ52LXE/?tag=tolees00-21'
 descuento: '35.68'
 average: '27.04'

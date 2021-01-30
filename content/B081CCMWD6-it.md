@@ -16,6 +16,7 @@ comparePrice: 49.8 EUR
 prodname: 'DADYPET Giocattolo per Gatti Automatico  Giocattolo per Gatti con Topo Meccanico con Coda di Piume  Giocattolo per Gatti Interattivo con Ratto Cigolante - Ricaricabile Tramite USB'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081CCMWD6/?tag=tolees00-21'
 descuento: '40.00'
 average: '29.88'

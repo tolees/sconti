@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Neewer Treppiedi per Smartphone 137cm da Viaggio con Telecomando  Supporto Clip & Testa a Sfera a 3 Modi  Compatibile con Fotocamere  Gopro  Android  iPhone11/Xs/Xr/Xs Max/X/8  Galaxy Note 9'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081RD45MK/?tag=tolees00-21'
 descuento: '19.01'
 average: '16.19'

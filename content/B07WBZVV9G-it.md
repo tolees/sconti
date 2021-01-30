@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Joop! Cortina Tea Handbag ShzDonnaBorsa a manoRosa  Rose  13x23x35 Centimeters  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WBZVV9G/?tag=tolees00-21'
 descuento: '52.57'
 average: '94.83'

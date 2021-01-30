@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'realme 6i EU Smartphone  4 GB + 128 GB  Bianco  White Milk '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085FJNGLK/?tag=tolees00-21'
 descuento: '18.61'
 average: '162.7'

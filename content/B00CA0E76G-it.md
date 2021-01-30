@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750-cotu Classic Sneaker  Uomo  Nero  Full Black S996   42.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00CA0E76G/?tag=tolees00-21'
 descuento: '34.83'
 average: '38.45'

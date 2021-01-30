@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Savel - Proteggi Materasso Antiacaro Impermeabile e Traspirante | Antiallergico| Anallergico | Trattamento Antibatterico Sanitized. Tessuto a Maglia 100% Cotone. Coprimaterasso  105x190/200cm '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071GLPBKR/?tag=tolees00-21'
 descuento: '38.54'
 average: '15.95'

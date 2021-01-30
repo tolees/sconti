@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Apple Custodia folio in pelle  per iPhone 11 Pro  - Melanzana'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XQYCGX7/?tag=tolees00-21'
 descuento: '33.84'
 average: '98.58'

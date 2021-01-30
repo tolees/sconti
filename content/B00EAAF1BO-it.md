@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Rowenta CV6030E0 Instant Dry Phon Asciugacapelli Diffusore per Capelli Sani e Lucenti'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00EAAF1BO/?tag=tolees00-21'
 descuento: '37.51'
 average: '30.990000000000002'

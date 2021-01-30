@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta  Blu  Desert Sky Dw5   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V8T5F8G/?tag=tolees00-21'
 descuento: '20.02'
 average: '35.95'

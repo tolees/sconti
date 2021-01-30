@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Crocs Swiftwater Molded Expedition Sandal  Punta Aperta Uomo  Nero  Black/Black 060   48/49 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SQ32ZFC/?tag=tolees00-21'
 descuento: '54.99'
 average: '22.5'

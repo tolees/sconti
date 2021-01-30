@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Filmore  Scarpe da Ginnastica Uomo  Suede Canvas Dress Blues/Vintage Indigo T2L  43 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BN1XGD6/?tag=tolees00-21'
 descuento: '41.17'
 average: '38.24'

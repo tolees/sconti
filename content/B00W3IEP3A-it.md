@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Fairy Additivo Cura Lavastoviglie  Maxi Formato  7 confezioni x 2 pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00W3IEP3A/?tag=tolees00-21'
 descuento: '23.54'
 average: '12.99'

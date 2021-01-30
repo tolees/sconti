@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'MECO ELEVERDE 2 Pezzi Portaspazzolino per Spazzolini da Denti Elettrici Porta Spazzolino Elettrico da Parete Supporto per Spazzolino Elettrico Organizzatore Antiscivolo Senza Forare per Bagno  2 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088SZ2DQ4/?tag=tolees00-21'
 descuento: '15.40'
 average: '10.99'

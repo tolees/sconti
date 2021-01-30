@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Puma Smash v2 L Scarpe da Ginnastica Basse Unisex - Adulto  Nero  Puma Black-Puma White   39 EU  6 UK '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077MG6H4F/?tag=tolees00-21'
 descuento: '24.94'
 average: '37.49'

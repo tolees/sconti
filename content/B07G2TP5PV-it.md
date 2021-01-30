@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Armani Exchange Orologio Analogico Quarzo Donna con Cinturino in Pelle AX5325'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07G2TP5PV/?tag=tolees00-21'
 descuento: '39.03'
 average: '78.65'

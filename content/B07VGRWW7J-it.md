@@ -16,6 +16,7 @@ comparePrice: 19.41 EUR
 prodname: 'Desigual Mone rhapsody Zip Around Portafoglio da donna  marrone  beige  2 x 9 5 x 19 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VGRWW7J/?tag=tolees00-21'
 descuento: '30.45'
 average: '13.5'

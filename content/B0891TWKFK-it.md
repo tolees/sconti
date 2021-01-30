@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Aigostar Lampada da Comodino  Moderna Lampada da Tavolo Base in Ceramica Paralume in Stoffa  Attacco E14  13 * 13 * 26 cm Cavo 1.3 Metri  Design Vintage.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0891TWKFK/?tag=tolees00-21'
 descuento: '20.01'
 average: '13.59'

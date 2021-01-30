@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Pelle SNDC31P1'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B004JY0KP8/?tag=tolees00-21'
 descuento: '57.29'
 average: '85.0'

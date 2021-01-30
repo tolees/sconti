@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas W SL Graph Tee Canottiera Sportiva  Donna  White  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081TQP4L2/?tag=tolees00-21'
 descuento: '69.28'
 average: '9.2'

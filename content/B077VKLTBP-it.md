@@ -16,6 +16,7 @@ comparePrice: 37.49 EUR
 prodname: 'Aigostar Rubik 30JVU - 750W Black Sandwich Maker/Grill/Waffle 3 IN 1. Dimensioni compatte con sistema automatico termostatico  piastre antiaderenti e rimovibili. Design esclusivo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077VKLTBP/?tag=tolees00-21'
 descuento: '20.01'
 average: '29.99'

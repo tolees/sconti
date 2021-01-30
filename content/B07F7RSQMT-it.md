@@ -16,6 +16,7 @@ comparePrice: 58.87 EUR
 prodname: 'Beggars Banquet Remastered  50Th Annyversary Edt.Lp+12"+Flexy Disc '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07F7RSQMT/?tag=tolees00-21'
 descuento: '26.52'
 average: '43.26'

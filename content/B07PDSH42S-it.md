@@ -16,6 +16,7 @@ comparePrice: 7.73 EUR
 prodname: 'AmazonBasics - Evidenziatori a forma piatta allungata  colori assortiti  confezione da 8'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PDSH42S/?tag=tolees00-21'
 descuento: '38.81'
 average: '4.73'

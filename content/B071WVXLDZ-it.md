@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Braun Series 5 5147s Rasoio da Barba Elettrico Ricaricabile a Lamina Wet&Dry senza Fili da Uomo  con Motore AutoSense e Rifinitore di Precisione Estraibile  Nero/Blu/Cromato'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071WVXLDZ/?tag=tolees00-21'
 descuento: '37.74'
 average: '117.99666666666667'

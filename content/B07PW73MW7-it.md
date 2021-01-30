@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Strumento Multifunzione Senza Fili  TECCPO 12V Utensile Rotante Senza Fili con batteria  6 Velocità Variabile 5000-28000RPM  con 84 Accessori  per Incidere  Tagliare  Facile da trasportare - TDRT03P'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PW73MW7/?tag=tolees00-21'
 descuento: '33.34'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Anker Altoparlante Bluetooth Soundcore  Speaker Portatile Senza Fili e Microfono Incorporato con Doppia Cassa  Audio di Alta Qualità con Bassi Puliti e Incredibile Durata di Riproduzione di 24 Ore '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B016MOI1XK/?tag=tolees00-21'
 descuento: '17.65'
 average: '27.99'

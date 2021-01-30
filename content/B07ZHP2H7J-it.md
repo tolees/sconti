@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'BaByliss 668E Smooth Boost - Spazzola ad Aria Calda  cavo girevole'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZHP2H7J/?tag=tolees00-21'
 descuento: '24.73'
 average: '17.99'

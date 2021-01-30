@@ -16,6 +16,7 @@ comparePrice: 18.84 EUR
 prodname: 'Puma Studio Yogini Lux Tight  Leggins Donna  Medium Gray Heather  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QC8CBW9/?tag=tolees00-21'
 descuento: '25.58'
 average: '14.02'

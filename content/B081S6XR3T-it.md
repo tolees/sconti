@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Burro di Arachidi Loaded Nuts | Senza Olio di Palma | Ricco di Proteine | Biscotto Alla Nocciola Croccante | THE PROTEIN WORKS | 500 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081S6XR3T/?tag=tolees00-21'
 descuento: '37.95'
 average: '8.06'

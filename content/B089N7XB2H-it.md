@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES JJEPAULOS Polo SS Noos  Port Royale  M Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089N7XB2H/?tag=tolees00-21'
 descuento: '20.17'
 average: '19.95'

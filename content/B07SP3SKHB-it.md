@@ -16,6 +16,7 @@ comparePrice: 19.42 EUR
 prodname: 'Havaianas Flash Urban  Sandali con Cinturino alla Caviglia Donna  Rosso  Bordeaux 3282   35/36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SP3SKHB/?tag=tolees00-21'
 descuento: '20.24'
 average: '15.49'

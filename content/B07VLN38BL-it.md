@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Xiaomi Mi Smart Scale 2  Bilancia Pesa Persona  bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21'
 descuento: '32.05'
 average: '17.150000000000002'

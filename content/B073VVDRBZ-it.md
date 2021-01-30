@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Blade Runner - The Final Cut  4K+Br '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073VVDRBZ/?tag=tolees00-21'
 descuento: '56.99'
 average: '12.9'

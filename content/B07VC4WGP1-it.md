@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Calvin Klein Instit Chest Logo Reg Tee T-Shirt  Rosso  Fiery Red Xa7   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VC4WGP1/?tag=tolees00-21'
 descuento: '52.98'
 average: '14.06'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Petfu Zaino per Computer Portatile 15.6 Pollici Zaino Uomo Antifurto Impermeabile Zainetto Laptop Universitaria Backpack per Scuola Borse Business Viaggio attività All aperto  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MZ24YHJ/?tag=tolees00-21'
 descuento: '26.09'
 average: '33.99'

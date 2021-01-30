@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Havaianas Luna  Sandali Donna  Blu  Navy Blue 0555   37/38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015SGFGWC/?tag=tolees00-21'
 descuento: '45.88'
 average: '12.99'

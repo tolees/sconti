@@ -16,6 +16,7 @@ comparePrice: 47.06 EUR
 prodname: 'Angel Wing ciondolo collana Swarovski zircone gioielli per donne ragazze ideale regali di compleanno regalo per figlia nipote fidanzata madre moglie e Argento  colore: White  cod. NEC-EAZ01-2'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DNMLLP6/?tag=tolees00-21'
 descuento: '45.35'
 average: '25.72'

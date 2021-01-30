@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'Misuratore di temperatura digitale a infrarossi sulla fronte  misuratore di temperatura a infrarossi a infrarossi senza contatto con allarme febbre per bambini adulti'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BX32GZV/?tag=tolees00-21'
 descuento: '19.97'
 average: '17.985'

@@ -16,6 +16,7 @@ comparePrice: 87.0 EUR
 prodname: 'Hard Disk Esterno  Hard Disk 1 tb Esterno USB3.1/Type C Hard Disk per Mac  PC  PS4  Desktop  Laptop  MacBook  Xbox One  1TB Blu '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CVJD1BJ/?tag=tolees00-21'
 descuento: '44.84'
 average: '47.99'

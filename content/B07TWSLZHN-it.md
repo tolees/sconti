@@ -16,6 +16,7 @@ comparePrice: 429.99 EUR
 prodname: 'Electrolux Lavastoviglie EEA 17100 L - Lavastoviglie da 60cm  13 coperti  classe A+ a Scomparsa Totale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TWSLZHN/?tag=tolees00-21'
 descuento: '22.51'
 average: '333.18'

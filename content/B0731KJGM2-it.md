@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Vero Moda Vmava Plain SS Top Ga Noos T-Shirt  Bianco  Snow White Snow White   36  Taglia Produttore: Small  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0731KJGM2/?tag=tolees00-21'
 descuento: '43.36'
 average: '8.49'

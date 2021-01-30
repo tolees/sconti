@@ -16,6 +16,7 @@ comparePrice: 58.0 EUR
 prodname: 'Morellato Anello da Donna in Acciaio Inox  Argento  10'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001SN8MHG/?tag=tolees00-21'
 descuento: '77.60'
 average: '12.99'

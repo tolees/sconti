@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in Silicone 1513718'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VFNN2GY/?tag=tolees00-21'
 descuento: '34.06'
 average: '216.95'

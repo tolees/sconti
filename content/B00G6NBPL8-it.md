@@ -16,6 +16,7 @@ comparePrice: 330.0 EUR
 prodname: 'EVERGREENWEB ❤️ Materasso Singolo 80x190 in Waterfoam Alto 20cm con CUSCINO Memory Foam 🎁 ORTOPEDICO  Rivestimento Bianco effetto MASSAGIANTE tessuto Antiacaro per Tutti Reti o Letti Singoli  FASHION'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00G6NBPL8/?tag=tolees00-21'
 descuento: '70.00'
 average: '99.0'

@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Videoproiettore WiMiUS 6800 Lumen Nativa 1080P LED Proiettore Full HD Con 300   Display Supporto 4K Correzione trapezoidale elettronica ± 50 °proiettore per Smartphone  PC PS4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QK8PB6Z/?tag=tolees00-21'
 descuento: '17.51'
 average: '140.23'

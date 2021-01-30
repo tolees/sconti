@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Scholl Talloniera Comfort in Gel  Large - 1 Prodotto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00D3HYGTI/?tag=tolees00-21'
 descuento: '48.36'
 average: '5.68'

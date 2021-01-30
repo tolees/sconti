@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Calvin Klein Core Institutional Logo Slim Tee Maglietta  Bianco  Bright White 112   L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DJCCBN3/?tag=tolees00-21'
 descuento: '16.00'
 average: '21.0'

@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Pesoforma Barrette Cioccolato Cuore Cocco- Pasti sostitutivi dimagranti SOLO 235 Kcal - Ricco in proteine - 6 pasti'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00VXDD4SS/?tag=tolees00-21'
 descuento: '20.20'
 average: '7.9'

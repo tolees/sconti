@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'SGILE Macchina Telecomandata per Bambini  4WD Auto Telecomandata con Batteria Ricaricabile  RC Macchina Acronazia Rotazione a 360 Gradi Regalo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BTH9WQ4/?tag=tolees00-21'
 descuento: '15.01'
 average: '22.09'

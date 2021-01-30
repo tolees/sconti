@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'NAPAPIJRI Rainforest M Sum 1 Giacca  Nero  Black 041   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0796BBCXN/?tag=tolees00-21'
 descuento: '55.87'
 average: '78.99'

@@ -16,6 +16,7 @@ comparePrice: 132.09 EUR
 prodname: 'Kodak Pixpro FZ102-BK Fotocamera digitale 16.44 megapixel  zoom Ottico 10X. Batteria al Litio. Colore Nera'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075QLXNKK/?tag=tolees00-21'
 descuento: '54.58'
 average: '59.99'

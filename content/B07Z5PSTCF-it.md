@@ -16,6 +16,7 @@ comparePrice: 103.9 EUR
 prodname: 'OSOYOO Robot Car Starter Kit for Arduino UNO | STEM Remote Control App Educational Motorized Robotics for Building  Programming & Learning How to Code | IOT Mechanical DIY Coding for Kids Teens Adults'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07Z5PSTCF/?tag=tolees00-21'
 descuento: '25.90'
 average: '76.99'

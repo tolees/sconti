@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Giotto Stilnovo pastelli colorati in astuccio 24 colori'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0026J2LQO/?tag=tolees00-21'
 descuento: '30.93'
 average: '6.9'

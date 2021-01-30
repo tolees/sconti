@@ -16,6 +16,7 @@ comparePrice: 78.67 EUR
 prodname: 'FFTH Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Laptop  MacBook. 1TB d oro '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CDQFKWF/?tag=tolees00-21'
 descuento: '39.00'
 average: '47.99'

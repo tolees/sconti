@@ -16,6 +16,7 @@ comparePrice: 33.73 EUR
 prodname: 'find. Round Toe Block Heel Leather Court Scarpe con Tacco  Blu Navy   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KMSM1GD/?tag=tolees00-21'
 descuento: '33.32'
 average: '22.49'

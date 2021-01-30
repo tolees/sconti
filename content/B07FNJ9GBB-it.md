@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'The North Face W TBL Sport Jkt  Piumino Donna  Blu  Urban Navy   XS'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FNJ9GBB/?tag=tolees00-21'
 descuento: '56.85'
 average: '81.99'

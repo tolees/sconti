@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'NAPAPIJRI Elli Polo  Blu  Medieval Blue Bb61   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V9QYRPR/?tag=tolees00-21'
 descuento: '59.41'
 average: '23.95'

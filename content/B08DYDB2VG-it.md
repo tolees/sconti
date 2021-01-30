@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Auricolare Bluetooth Senza Fili  Cuffie Wireless Stereo 3D with IPX7 Impermeabile  Accoppiamento Automatico Per Chiamate Binaurali  Adatto Compatibile con iPhone/Android/Huawei/Airpods'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DYDB2VG/?tag=tolees00-21'
 descuento: '73.85'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Blu  Peacoat White   L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078NJ18SQ/?tag=tolees00-21'
 descuento: '33.39'
 average: '33.27'

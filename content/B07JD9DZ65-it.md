@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'Cesar Cuore di Verdure Tenero Cibo per Cane  Paté con Delizioso Manzo e Cuore di Verdure 150 g - 14 Vaschette'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JD9DZ65/?tag=tolees00-21'
 descuento: '43.86'
 average: '8.96'

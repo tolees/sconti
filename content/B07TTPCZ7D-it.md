@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'KiplingIaka L WristletDonnaPortamoneteMulticolore  Speckled 28 Cmx 215 Cmx 1 Centimeters  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TTPCZ7D/?tag=tolees00-21'
 descuento: '65.24'
 average: '15.64'

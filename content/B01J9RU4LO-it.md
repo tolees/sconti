@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'INBIKE Occhiali da Sole polarizzati da Ciclismo per Uomo  Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01J9RU4LO/?tag=tolees00-21'
 descuento: '25.74'
 average: '25.99'

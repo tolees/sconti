@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Astuccio Scuola con 3 Scomparti  lunaoo Grande Multifunzione Astucci Penne con Cerniera per Ragazzo & Ragazza  22CM Camouflage blu '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VNQ2NN2/?tag=tolees00-21'
 descuento: '37.52'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Tommy Hilfiger Dress Casual Leather Shoe  Scarpe Stringate Oxford Uomo  Nero  Black 990   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07L3FWKVN/?tag=tolees00-21'
 descuento: '61.29'
 average: '54.15'

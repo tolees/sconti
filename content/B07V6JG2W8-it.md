@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'YAMAMAY® Costume da Bagno Slip Mare Tinta Unita - Essential'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V6JG2W8/?tag=tolees00-21'
 descuento: '49.97'
 average: '7.48'

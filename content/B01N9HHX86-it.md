@@ -16,6 +16,7 @@ comparePrice: 18.77 EUR
 prodname: 'Aquafresh Clean Spazzolino e flex Medium  12 confezioni da 3 spazzolini per confezione'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N9HHX86/?tag=tolees00-21'
 descuento: '52.16'
 average: '8.865'

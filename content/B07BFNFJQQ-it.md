@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lampada a LED con sensore di movimento  per illuminazione armadio  credenza cucina  Bianco freddo  3 pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BFNFJQQ/?tag=tolees00-21'
 descuento: '15.01'
 average: '25.49'

@@ -16,6 +16,7 @@ comparePrice: 27.12 EUR
 prodname: 'Marchio Amazon - MERAKI Blazer Casual Uomo  Blu  Navy   50  Label: 40'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GZB4N6D/?tag=tolees00-21'
 descuento: '17.04'
 average: '22.5'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Eastpak Rusher Borsa A Tracolla  23 cm  Verde  Crafty Moss '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KY834KG/?tag=tolees00-21'
 descuento: '21.33'
 average: '23.6'

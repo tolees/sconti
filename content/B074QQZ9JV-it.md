@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Telecomando sostitutivo per TV TELEFUNKEN di One For All – Funziona con TUTTI i televisori Telefunken – Il telecomando sostitutivo ideale - nero -URC1918'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074QQZ9JV/?tag=tolees00-21'
 descuento: '32.24'
 average: '14.9'

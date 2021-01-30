@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Puma Smash V2 Sneaker Unisex - Adulto  Castlerock/Puma Black/Puma White 32   36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KG1LLGQ/?tag=tolees00-21'
 descuento: '26.31'
 average: '40.49'

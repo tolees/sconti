@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Homever Coltelli da cucina  Ceppo Coltelli  Coltelli da Chef Professionale  Coltello da Cuoco Lama Acciaio Inossidabile Set Coltelli in Acciaio Inox con Blocco di Legno  Adatto per Tagliare Verdure  Carne e Frutta  6 pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FC9HBHX/?tag=tolees00-21'
 descuento: '48.01'
 average: '41.989999999999995'

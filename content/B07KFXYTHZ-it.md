@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Puma Caracal  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black  38.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KFXYTHZ/?tag=tolees00-21'
 descuento: '55.43'
 average: '28.95'

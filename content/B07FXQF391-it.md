@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Vans Filmore Decon  Scarpe da Ginnastica Uomo  Rosso   Canvas  Port Royale/White 8j7   43 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FXQF391/?tag=tolees00-21'
 descuento: '23.75'
 average: '41.94'

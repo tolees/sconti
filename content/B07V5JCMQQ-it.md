@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PS4 Joystick Controller  PS4 Wireless Controller Dualshock Playstation 4 Gaming Joystick Bluetooth Gamepad Controller  Classici Sony Playstation 4 Wireless Joystick'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V5JCMQQ/?tag=tolees00-21'
 descuento: '16.67'
 average: '24.99'

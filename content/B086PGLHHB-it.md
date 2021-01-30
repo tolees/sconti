@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Smartwatch Orologio con Auricolare Sportivo Bluetooth  Smart Bracelet Activity Tracker e Fitness Tracker con 0.96   Schermo  IP67 Impermeabile Pedometro e Notifiche di Messaggistica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086PGLHHB/?tag=tolees00-21'
 descuento: '25.01'
 average: '29.99'

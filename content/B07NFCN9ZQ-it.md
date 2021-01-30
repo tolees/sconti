@@ -16,6 +16,7 @@ comparePrice: 62.83 EUR
 prodname: 'Casio Orologio Analogico Quarzo Unisex Adulto con Cinturino in Acciaio Inox MQ-24MG-1EEF'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NFCN9ZQ/?tag=tolees00-21'
 descuento: '30.75'
 average: '43.51'

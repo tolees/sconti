@@ -16,6 +16,7 @@ comparePrice: 46.8 EUR
 prodname: 'Dolce&Gabbana The One Eau de Parfum  Donna  50 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000XE67WI/?tag=tolees00-21'
 descuento: '17.84'
 average: '38.45'

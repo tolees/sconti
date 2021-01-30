@@ -16,6 +16,7 @@ comparePrice: 390.0 EUR
 prodname: 'PHILIP WATCH Guarda R8253597543'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07J4LRWFJ/?tag=tolees00-21'
 descuento: '27.17'
 average: '284.04'

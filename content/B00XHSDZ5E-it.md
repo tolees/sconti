@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Det. Liquido Yogurt Aloe 300 Ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XHSDZ5E/?tag=tolees00-21'
 descuento: '25.13'
 average: '1.49'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'B.Catcher Collana con pendenti gemelli in zircone cubico ed argento 925'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MY9HV49/?tag=tolees00-21'
 descuento: '23.82'
 average: '19.438275862068966'

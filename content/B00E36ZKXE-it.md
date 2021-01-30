@@ -16,6 +16,7 @@ comparePrice: 44.8 EUR
 prodname: 'Trussardi My Name Eau de parfum spray 100 ml donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00E36ZKXE/?tag=tolees00-21'
 descuento: '15.18'
 average: '38.0'

@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Hazet 9012M Avvitatore Ad Impulso Extra Corto  Multicolore  Attacco Quadro  Massiccio  12.5 mm 1/2 di Pollice'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00J04N8PG/?tag=tolees00-21'
 descuento: '28.50'
 average: '142.99'

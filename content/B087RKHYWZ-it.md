@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Hosome Plafoniera LED Soffitto Lampada da Soffitto 36W Luce bianca fredda 6500K moderni Pannello LED luce Rotonda per Bagno  Cucina  Soggiorno  Camera da Letto  Corridoio  Ufficio e Più'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087RKHYWZ/?tag=tolees00-21'
 descuento: '15.01'
 average: '20.39'

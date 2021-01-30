@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'Salewa  00-0000027165  Giacca  Uomo  Blu  Ombre Blue   46/S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21'
 descuento: '61.86'
 average: '83.91'

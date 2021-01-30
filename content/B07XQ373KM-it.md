@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Catena Luminosa Effetto Fiamma Tomshine 8pc 10M Catene Luminose per Natale Halloween Festa  Matrimonio  Giardino Decorazioni Casa'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XQ373KM/?tag=tolees00-21'
 descuento: '16.68'
 average: '14.99'

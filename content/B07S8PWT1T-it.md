@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Rosa  Rosewater White-Gray Violet   47 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S8PWT1T/?tag=tolees00-21'
 descuento: '44.99'
 average: '30.23'

@@ -16,6 +16,7 @@ comparePrice: 7.8 EUR
 prodname: 'Sherlock - Complete Series 1-3  6 Dvd  [Edizione: Regno Unito] [Edizione: Regno Unito]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DSJYERA/?tag=tolees00-21'
 descuento: '18.21'
 average: '6.38'

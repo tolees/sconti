@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'The North Face M Quest L/S  Maglia a Maniche Corte Uomo  Blu  Acoustic Blue/T   XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TFJ1FX1/?tag=tolees00-21'
 descuento: '58.29'
 average: '18.77'

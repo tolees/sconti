@@ -16,6 +16,7 @@ comparePrice: 63.34 EUR
 prodname: 'Casio Orologio Analogico al Quarzo Uomo con Cinturino in Nylon MTP-1314PL-8AVEF'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00JOBHGQW/?tag=tolees00-21'
 descuento: '51.07'
 average: '30.99'

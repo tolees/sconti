@@ -16,6 +16,7 @@ comparePrice: 269.95 EUR
 prodname: 'homcom - Tapis roulant Elettrico Attrezzo Ginnico richiudibile Attrezzo per l’Allenamento Domestico Schermo LCD 500 W'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00UC8OFJW/?tag=tolees00-21'
 descuento: '18.52'
 average: '219.95'

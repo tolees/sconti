@@ -16,6 +16,7 @@ comparePrice: 1029.0 EUR
 prodname: 'Samsung Galaxy S20+ Smartphone  4G  Display 6.7" Dynamic AMOLED 2X  4 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  Batteria 4500 mAh  Hybrid SIM/eSIM  [Versione Italiana]  Cosmic Gray'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084LFG1DW/?tag=tolees00-21'
 descuento: '34.99'
 average: '694.0'

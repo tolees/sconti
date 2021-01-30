@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Hoover LA 30 Traino senza Sacco Lander  Rosso/Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06W9FQTKV/?tag=tolees00-21'
 descuento: '61.61'
 average: '49.9'

@@ -16,6 +16,7 @@ comparePrice: 55.44 EUR
 prodname: 'Colgate Dentifricio Expert White - Pacco da 12 x 75 ml - Totale: 900 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074F1P4SZ/?tag=tolees00-21'
 descuento: '35.28'
 average: '35.88'

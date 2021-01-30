@@ -16,6 +16,7 @@ comparePrice: 49.09 EUR
 prodname: 'Winnes - Smartwatch per bambini con 7 giochi  funzione musica e sveglia  fotocamera  per 3 – 12 anni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SK7D4N9/?tag=tolees00-21'
 descuento: '33.00'
 average: '32.89'

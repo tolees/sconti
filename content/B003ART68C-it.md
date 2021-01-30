@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Birkenstock Gizeh Birko-Flor  Sandali Unisex - Adulto  Nero  46  Normale '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003ART68C/?tag=tolees00-21'
 descuento: '44.29'
 average: '43.27374999999999'

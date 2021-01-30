@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'EXCITE Detergente Disinfettante coppetta mestruale e accessori intimi con Olio di Albero del Té - Spray Igienizzante Antibatterico  no alcol  100ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MTMGQ1P/?tag=tolees00-21'
 descuento: '20.02'
 average: '7.99'

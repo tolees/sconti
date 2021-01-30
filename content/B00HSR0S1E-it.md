@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'BURBERRY Brit Rhythm for Her Eau de Toilette Femme  90 ml spray'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00HSR0S1E/?tag=tolees00-21'
 descuento: '27.02'
 average: '29.12'

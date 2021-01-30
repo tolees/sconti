@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21'
 descuento: '55.05'
 average: '44.95'

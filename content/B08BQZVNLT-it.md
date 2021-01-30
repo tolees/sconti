@@ -16,6 +16,7 @@ comparePrice: 16.79 EUR
 prodname: 'ELUTENG Ventola 80mm Silenziosa Ventole 80 mm USB 5V con Griglia in Metallo Ventilatore di Raffreddamento 2600 RPM 8CM Cooling Fan per PC Portatile Computer Notebook Xbox One Playstation PS4 PS3  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BQZVNLT/?tag=tolees00-21'
 descuento: '16.68'
 average: '13.99'

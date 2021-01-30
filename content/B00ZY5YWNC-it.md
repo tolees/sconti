@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'RoC Doposole 200 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ZY5YWNC/?tag=tolees00-21'
 descuento: '27.32'
 average: '3.99'

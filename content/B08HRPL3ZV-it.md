@@ -16,6 +16,7 @@ comparePrice: 27.64 EUR
 prodname: 'Entweg Termometro Frontale Termometro Digitale Portatile a infrarossi Senza Contatto Indicatore di Temperatura dell oggetto Elevata precisione ℉ E ℉ Retroilluminazione a 3 Colori commutabile'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HRPL3ZV/?tag=tolees00-21'
 descuento: '38.49'
 average: '17.0'

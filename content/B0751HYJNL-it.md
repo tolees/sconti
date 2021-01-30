@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Ribimex PRCEN013BAT Aspiracenere a Batteria Cenebat 18 L-18v  18 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0751HYJNL/?tag=tolees00-21'
 descuento: '20.01'
 average: '55.19'

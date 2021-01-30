@@ -16,6 +16,7 @@ comparePrice: 32.72 EUR
 prodname: 'Calvin Klein Hip Brief 2pk Slip  Nero  Black with/White WB Bnm   X-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VRYQX74/?tag=tolees00-21'
 descuento: '62.87'
 average: '12.15'

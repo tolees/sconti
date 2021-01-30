@@ -16,6 +16,7 @@ comparePrice: 212.0 EUR
 prodname: 'Ray-Ban RB3025 Aviator Occhiali da Sole Unisex Adulto  Oro  Gold 001/3F   58 mm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003KK5L2E/?tag=tolees00-21'
 descuento: '60.38'
 average: '84.0'

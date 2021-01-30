@@ -16,6 +16,7 @@ comparePrice: 2.89 EUR
 prodname: 'Kimbo - Macinato Fresco  Caffè di Napoli  Tostatura Media - 250 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21'
 descuento: '48.10'
 average: '1.5'

@@ -16,6 +16,7 @@ comparePrice: 46.73 EUR
 prodname: 'Game of Thronos - Replica Figura Drogon 33 cm  multicolore  Mc Farlane MCF10656-5 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NDYKDPH/?tag=tolees00-21'
 descuento: '33.23'
 average: '31.2'

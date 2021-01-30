@@ -16,6 +16,7 @@ comparePrice: 52.4 EUR
 prodname: 'JACK & JONES Jjglenn Original Jj 887 Noos Jeans  Blu Denim  34W / 30L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00WWPNUZI/?tag=tolees00-21'
 descuento: '15.10'
 average: '44.74'

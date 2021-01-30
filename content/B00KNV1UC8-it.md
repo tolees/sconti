@@ -16,6 +16,7 @@ comparePrice: 3.69 EUR
 prodname: 'SUNSILK Liscio Perfetto  Balsamo  200 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00KNV1UC8/?tag=tolees00-21'
 descuento: '57.99'
 average: '1.55'

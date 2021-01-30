@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Scheda Micro SD 512 GB ad alta velocità classe 10 Micro SD SDXC con adattatore  512 GB '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08GFLRNC3/?tag=tolees00-21'
 descuento: '34.63'
 average: '16.99'

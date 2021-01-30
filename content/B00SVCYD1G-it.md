@@ -16,6 +16,7 @@ comparePrice: 6.84 EUR
 prodname: 'Poupy 1006.6 Libretto Sonoro  Colori Assortiti'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00SVCYD1G/?tag=tolees00-21'
 descuento: '18.86'
 average: '5.55'

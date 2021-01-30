@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Amazfit Verge  Smartwatch Men s  Gray  Normal'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SB5Q25B/?tag=tolees00-21'
 descuento: '15.71'
 average: '83.45'

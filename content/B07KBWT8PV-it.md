@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Luce Solare da Esterno 35 LED Luci di sicurezza per sentieri  Cortile  Recinzione  Giardino  Parete Esterna Illuminazione con Sensore di Movimento Bianco Caldo 3000K 2 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KBWT8PV/?tag=tolees00-21'
 descuento: '23.09'
 average: '9.99'

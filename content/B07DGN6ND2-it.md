@@ -16,6 +16,7 @@ comparePrice: 93.54 EUR
 prodname: 'Timberland 6 in Double Collar Waterproof  Stivali Classici Uomo  Marrone  Dark Brown Nubuck D54   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DGN6ND2/?tag=tolees00-21'
 descuento: '23.59'
 average: '71.47'

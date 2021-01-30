@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Trust Gaming GXT 707G Resto Sedia da PC  Grigio/Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079FQJYHH/?tag=tolees00-21'
 descuento: '40.89'
 average: '159.59'

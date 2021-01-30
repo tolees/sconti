@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black White  47 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S9RTWLP/?tag=tolees00-21'
 descuento: '49.41'
 average: '40.45'

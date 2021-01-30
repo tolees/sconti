@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: 'Deik Bilancia Pesa Persona Digitale  Bluetooth Bilancia Pesapersone con Display Retroilluminato  per iOS&Android Intelligente con Analisi Composizione Corporea Inclusi Peso  Grasso  Acqua  BMI  ECC'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07H34HNN8/?tag=tolees00-21'
 descuento: '19.07'
 average: '16.98'

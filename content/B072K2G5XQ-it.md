@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Philips SHQ1255TBK/00 Cuffie Auricolari Sportive in Ear  Suono Potente  Stanghetta per Orecchio Stabile  Microfono Integrato  Design Acustico Aperto  Leggere  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072K2G5XQ/?tag=tolees00-21'
 descuento: '33.62'
 average: '13.27'

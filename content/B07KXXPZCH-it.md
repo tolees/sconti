@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Capsule LAVAZZA A MODO MIO compatibili  CREMOSO  100 CAPSULE '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21'
 descuento: '16.26'
 average: '14.99'

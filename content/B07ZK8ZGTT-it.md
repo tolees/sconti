@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Inphic Mouse USB cablato  clic silenzioso e tracciamento ottico  1200 DPI  mouse da ufficio a 3 pulsanti per PC laptop MacBook  nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZK8ZGTT/?tag=tolees00-21'
 descuento: '23.35'
 average: '11.49'

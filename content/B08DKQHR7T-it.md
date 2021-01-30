@@ -16,6 +16,7 @@ comparePrice: 33.02 EUR
 prodname: 'Fiyapoo 4K Wireless Miracast Dongle  Adaptateur TV HDMI Compatible pour iOS Android Windows Phone Support pour ordinateur portable Pad DLNA Airplay Mirror Google Chromecast & Netflix'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DKQHR7T/?tag=tolees00-21'
 descuento: '24.32'
 average: '24.99'

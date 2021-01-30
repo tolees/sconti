@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Meller - Kendi All Black - Sunglasses for Men and Women'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089MFLCL9/?tag=tolees00-21'
 descuento: '44.00'
 average: '22.4'

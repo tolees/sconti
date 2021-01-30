@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'LEONE 1947 Flash Guantoni  Nero  12 Oz'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015EFQX42/?tag=tolees00-21'
 descuento: '30.40'
 average: '22.9'

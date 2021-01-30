@@ -16,6 +16,7 @@ comparePrice: 38.95 EUR
 prodname: 'NAPAPIJRI Eovico Polo  Bianco  Bright White 0021   X-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VFGMY89/?tag=tolees00-21'
 descuento: '33.38'
 average: '25.95'

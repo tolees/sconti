@@ -16,6 +16,7 @@ comparePrice: 33.62 EUR
 prodname: 'Calvin Klein Layered Waistbag - Borse a spalla Uomo  Blu  Navy   0.1x0.1x0.1 cm  W x H L '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RN1WYB7/?tag=tolees00-21'
 descuento: '22.96'
 average: '25.9'

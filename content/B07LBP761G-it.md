@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'YOOFAN Borsa da Spiaggia-Borsa Grande a Rete da Spiaggia - Grande Mercato per Lo Stoccaggio di Giocattoli Lavabili e Traspiranti  per la Spiaggia  Il Nuoto  Il Campeggio  la Palestra  Il Supermercato'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07LBP761G/?tag=tolees00-21'
 descuento: '24.01'
 average: '15.19'

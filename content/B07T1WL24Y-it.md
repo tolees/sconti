@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'ALLPOWERS 45W Portable Power Bank 26800mAh PD  USB C Caricabatterie Portatile con 2 USB Porte Quick Charge Max.3A/15V pour iPhone XS/XS Max/XR /11  Tablettes CE'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T1WL24Y/?tag=tolees00-21'
 descuento: '50.01'
 average: '49.99'

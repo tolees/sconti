@@ -16,6 +16,7 @@ comparePrice: 15.2 EUR
 prodname: 'Satya assortimento di Inciensos 12 scatole da 15 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0095LYRK4/?tag=tolees00-21'
 descuento: '26.91'
 average: '11.125'

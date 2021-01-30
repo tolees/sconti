@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'SALOMON Speedcross 4  Scarpe da Trail Running Uomo  Nero  Black/Black/Black Metallic   46 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B017SQX3M0/?tag=tolees00-21'
 descuento: '41.65'
 average: '73.985'

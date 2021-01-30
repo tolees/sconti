@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Calvin Klein Upscale Monogram Crew Neck Felpa  Bianco  Bright White Yaf   X-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VD3GSD1/?tag=tolees00-21'
 descuento: '70.34'
 average: '29.63'

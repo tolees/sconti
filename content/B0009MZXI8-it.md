@@ -16,6 +16,7 @@ comparePrice: 18.76 EUR
 prodname: 'Thorlo Thorlos Crew-Calzini da tennis  taglia M  colore: Bianco  M Unisex-Adulto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0009MZXI8/?tag=tolees00-21'
 descuento: '44.72'
 average: '10.37'

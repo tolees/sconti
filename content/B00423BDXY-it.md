@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Inuyasha The Movies Collection  Box 5 Dvd '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00423BDXY/?tag=tolees00-21'
 descuento: '21.88'
 average: '18.74'

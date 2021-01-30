@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Barbie la Pizzeria con Bambola  Tavolo per Le Pizze  Forno e Pasta da Modellare  Giocattolo per Bambini 3 + Anni  FHR09  Multicolore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0751RGXLR/?tag=tolees00-21'
 descuento: '33.30'
 average: '31.999999999999996'

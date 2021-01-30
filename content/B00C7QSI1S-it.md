@@ -16,6 +16,7 @@ comparePrice: 23.65 EUR
 prodname: 'Rapid 40107334 Set di ugelli con Le incollatrici  240 V  Blu  Accessori'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00C7QSI1S/?tag=tolees00-21'
 descuento: '47.19'
 average: '12.49'

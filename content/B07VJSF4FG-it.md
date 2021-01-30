@@ -16,6 +16,7 @@ comparePrice: 30.27 EUR
 prodname: 'Desigual - Borsa da donna Bols Logo Patch Merlo con manico  17 6 x 31 8 x 33 cm  colore: Beige'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VJSF4FG/?tag=tolees00-21'
 descuento: '19.69'
 average: '24.31'

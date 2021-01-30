@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'RTP® ● BCAA 4:1:1 + Vit B6 ● 200 Compresse da 1000 mg ● Integratore Alimentare a Base di Aminoacidi Ramificati 411 Intra Pre e Post Workout per Massimizzare il Recupero Muscolare'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZFW628M/?tag=tolees00-21'
 descuento: '20.00'
 average: '13.52'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Geox D Sozy Plus B  Sandali Punta Aperta Donna  Marrone  36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SWV1Z9W/?tag=tolees00-21'
 descuento: '54.99'
 average: '35.96'

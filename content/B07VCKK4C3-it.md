@@ -16,6 +16,7 @@ comparePrice: 26.41 EUR
 prodname: 'Desigual  Borsa a mano Donna  Oro  Oro  DORADO 8010    14x24x33 cm  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VCKK4C3/?tag=tolees00-21'
 descuento: '24.69'
 average: '19.89'

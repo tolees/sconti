@@ -16,6 +16,7 @@ comparePrice: 43.81 EUR
 prodname: 'Tommy Hilfiger Squares Tee Maglietta  Blu  Sail Blue   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W5SV6MR/?tag=tolees00-21'
 descuento: '43.16'
 average: '24.9'

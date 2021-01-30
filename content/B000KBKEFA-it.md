@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Birkenstock  Madrid BS 0040793  Sandali  Donna  Nero  35 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000KBKEFA/?tag=tolees00-21'
 descuento: '29.65'
 average: '42.21'

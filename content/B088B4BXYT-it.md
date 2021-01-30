@@ -16,6 +16,7 @@ comparePrice: 185.99 EUR
 prodname: 'Dittzz Technic Fuoristrada Set di Costruzioni  1:10 2 4Ghz RC Auto Macchina Telecomandata Costruzioni Kit   1090 Pezzi Blocchi di Costruzione Compatibile con Lego Technic'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088B4BXYT/?tag=tolees00-21'
 descuento: '30.11'
 average: '129.99'

@@ -16,6 +16,7 @@ comparePrice: 40.55 EUR
 prodname: 'Vileda Mixer 4 Stendibiancheria a Torre  Ripiegabile  con Ruote  Metallo  Bianco  Quattro Piani'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071YPDPT3/?tag=tolees00-21'
 descuento: '23.58'
 average: '30.99'

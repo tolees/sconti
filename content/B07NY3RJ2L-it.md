@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Superdry Denim Goods Co Tee T-Shirt  Blu  True Indigo BDM   M Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NY3RJ2L/?tag=tolees00-21'
 descuento: '57.13'
 average: '15.0'

@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Claber 87321 Inter. IRR. TURBINA 670 mq 90478  Nero/Arancione/Grigio  90x70x190 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B007VDIZTW/?tag=tolees00-21'
 descuento: '30.17'
 average: '15.99'

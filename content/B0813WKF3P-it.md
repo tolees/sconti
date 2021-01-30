@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'adidas Sleek W  Scarpe da Ginnastica Donna  Ftwr White/Crystal White/Core Black  36 2/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0813WKF3P/?tag=tolees00-21'
 descuento: '59.13'
 average: '36.76'

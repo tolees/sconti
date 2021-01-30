@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Vans Left Chest Logo Tee T-Shirt Uomo  Nero  Black White Grey Melange   X-Large  113 - 122 cm '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07F2MCXPX/?tag=tolees00-21'
 descuento: '20.00'
 average: '16.0'

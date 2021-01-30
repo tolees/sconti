@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Severin FR 2460  friggitrice ad aria calda  Cestello 2 6 Litri  cottura senza olio o con poco olio  Timer 30 minuti'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MZFK59L/?tag=tolees00-21'
 descuento: '22.22'
 average: '69.99'

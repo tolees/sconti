@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Optimum Nutrition 100% Plant Gold Standard senza Gluten  Proteine Vegane in Polvere con Vitamina B12  Aminoacidi Essenziali  BCAA Naturalmente Presenti  Cioccolato  684g  19 Porzioni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07J4RH1TV/?tag=tolees00-21'
 descuento: '23.89'
 average: '18.99'

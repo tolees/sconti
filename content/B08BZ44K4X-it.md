@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Bottiglia d Acqua Sportiva 850ml Borraccia Senza BPA in Plastica Tritan  a Prova di Perdite Borraccia Palestra per Scuola  Ciclismo  Ufficio  Yoga - Blu'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BZ44K4X/?tag=tolees00-21'
 descuento: '53.37'
 average: '13.99'

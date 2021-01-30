@@ -16,6 +16,7 @@ comparePrice: 71.32 EUR
 prodname: 'Eda Plastiques - 13731 BR.T SX1 - Volcania  Fioriera in plastica  100 x 40 x 40 cm  Colore: Grigio  Anthrazit '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00JK2C4RQ/?tag=tolees00-21'
 descuento: '18.40'
 average: '58.13333333333333'

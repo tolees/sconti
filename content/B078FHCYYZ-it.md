@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Puma Liga Zaino  Unisex-Adulto  Nero Black   Taglia Unica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078FHCYYZ/?tag=tolees00-21'
 descuento: '52.47'
 average: '16.61'

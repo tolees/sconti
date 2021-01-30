@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Levi s 501 Original Short Pantaloncini  Nero  Eat Your Words 0070   26W Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S3WN3JF/?tag=tolees00-21'
 descuento: '16.91'
 average: '45.7'

@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'SoundPEATS Auricolari Wireless TrueCapsule Nuova Versione Cuffie TWS Bluetooth 5.0 accoppiato automatico  Mic HD  Audio Stereo  Smart Touch  IPX5  24-Ore Riproduzione '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083LTNQCH/?tag=tolees00-21'
 descuento: '16.28'
 average: '35.99'

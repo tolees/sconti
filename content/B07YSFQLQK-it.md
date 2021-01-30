@@ -16,6 +16,7 @@ comparePrice: 1.81 EUR
 prodname: 'De Cecco Pasta Integrale Fusilli - 500 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YSFQLQK/?tag=tolees00-21'
 descuento: '45.30'
 average: '0.99'

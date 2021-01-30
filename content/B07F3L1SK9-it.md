@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tommy Hilfiger Boys Basic CN Knit S/s Maglietta  Bianco  Bright White 123   176  Taglia Produttore: 16  Bambino'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07F3L1SK9/?tag=tolees00-21'
 descuento: '29.70'
 average: '13.99'

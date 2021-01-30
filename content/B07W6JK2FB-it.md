@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Russell Hobbs Bicchiere in Vetro Frullatore Professionale Velocity PRO 25720-56  1000 W  1.5 Litri  Acciaio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W6JK2FB/?tag=tolees00-21'
 descuento: '34.99'
 average: '65.0'

@@ -16,6 +16,7 @@ comparePrice: 220.67 EUR
 prodname: 'Kärcher K 4 - Idropulitrice a Freddo  130 Bar  420 L/H  30 M²/H di Pulizia  Pistola Alta Pressione  2 Lance  Tubo da 6 m'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00INX005Q/?tag=tolees00-21'
 descuento: '35.22'
 average: '142.95'

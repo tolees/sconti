@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'adidas Tight T  Maglietta Donna  Nero  Black/White   40'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081TTQ39T/?tag=tolees00-21'
 descuento: '49.98'
 average: '12.48'

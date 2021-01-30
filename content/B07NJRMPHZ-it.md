@@ -16,6 +16,7 @@ comparePrice: 80.99 EUR
 prodname: 'Echo Show 5 Ricondizionato Certificato  Schermo compatto e intelligente con Alexa  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NJRMPHZ/?tag=tolees00-21'
 descuento: '37.04'
 average: '50.99'

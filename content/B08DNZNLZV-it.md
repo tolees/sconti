@@ -16,6 +16,7 @@ comparePrice: 95.82 EUR
 prodname: 'EasySMX Controller per Switch / Switch Lite  Controller switch wireless   Controller switch Pro con Bluetooth / Turbo / Dual Motor / 6 assi  Switch Lite e PC'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DNZNLZV/?tag=tolees00-21'
 descuento: '62.46'
 average: '35.97'

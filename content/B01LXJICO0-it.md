@@ -16,6 +16,7 @@ comparePrice: 5.46 EUR
 prodname: 'BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori + 1 mina HB da 0.7 mm  Pacco da 1 Penna + 12 Ricariche   Ottime per l Ufficio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LXJICO0/?tag=tolees00-21'
 descuento: '43.22'
 average: '3.1'

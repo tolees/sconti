@@ -16,6 +16,7 @@ comparePrice: 83.84 EUR
 prodname: 'Saucony Jazz Original Vintage  Sneakers Uomo  Blu Nvy Gld 22  44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0793DGSR5/?tag=tolees00-21'
 descuento: '30.99'
 average: '57.86'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Kanzy Tea Tree Oil 60ml Olio di Albero Del Tè per Viso  Corpo  Unghie  Capelli e Aromaterapia Diffusore  Olio Essenziale Tea Tree Biologico'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06VT4G8BD/?tag=tolees00-21'
 descuento: '30.57'
 average: '12.49'

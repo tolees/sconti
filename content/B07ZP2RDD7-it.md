@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Occhialini da Nuoto da Piscina  Anti-Appannamento Specchio Occhiali Nuoto Anti-Perdita Protezione UV Archetto Regolabile per Uomini Donne  Gratis Cuffia da Nuoto Clip per Naso Tappi per Le Orecchie'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZP2RDD7/?tag=tolees00-21'
 descuento: '25.01'
 average: '14.99'

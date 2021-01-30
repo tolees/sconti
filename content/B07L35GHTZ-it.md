@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Eastpak Oval Zippl r Astuccio  22 cm  Grigio  Sunday Grey '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07L35GHTZ/?tag=tolees00-21'
 descuento: '30.00'
 average: '14.0'

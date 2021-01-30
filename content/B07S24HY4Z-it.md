@@ -16,6 +16,7 @@ comparePrice: 2399.0 EUR
 prodname: 'MSI GS75 Stealth 9SE-493IT Notebook Gaming  17.3" FHD Intel Core i7 9750H  16 GB DDR IV  1TB SSD  Scheda Grafica Nvidia RTX 2060  6 GB [Layout Italiano]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S24HY4Z/?tag=tolees00-21'
 descuento: '74.57'
 average: '610.0'

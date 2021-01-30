@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Levi s The Jacket Giacca  Blu  Pale Shade Indigo Stretch Trucker 0468   XX-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RZLJ9YT/?tag=tolees00-21'
 descuento: '59.50'
 average: '48.6'

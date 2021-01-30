@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'YAMAMAY® Costume Push Push up Tinta Unita Mare Donna con Allacciatura al Collo Regolabile - Mirage'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VL5S63N/?tag=tolees00-21'
 descuento: '40.00'
 average: '17.97'

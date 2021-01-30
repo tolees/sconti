@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker  Uomo  Blu  Dark Sapphire  Tb0a1u634331   44.5 EU  10 UK '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B4JS8K4/?tag=tolees00-21'
 descuento: '40.78'
 average: '76.99'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Alex Perry Regalo Collana Donna Argento Punto Luce Collana Idee Regalo per Regali Originali Gioielli Donna Offerta Regalo Mamma maestra Fidanzata Regali Divertenti Compleanno'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07J6GX3F8/?tag=tolees00-21'
 descuento: '52.52'
 average: '12.34'

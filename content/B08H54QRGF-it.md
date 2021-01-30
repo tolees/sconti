@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'MMLsure 6 Pezzi indossabili all Interno e all Esterno  6 Pezzi Neri '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08H54QRGF/?tag=tolees00-21'
 descuento: '59.90'
 average: '3.2'

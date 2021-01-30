@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'Havaianas Slim Crystal Glamour SW  Infradito Donna  Bianco  White/Metallic 3165   41/42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07F1HFJXZ/?tag=tolees00-21'
 descuento: '24.94'
 average: '25.52'

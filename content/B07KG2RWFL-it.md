@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Puma Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco  Weiß White White Jaffa Orange   36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KG2RWFL/?tag=tolees00-21'
 descuento: '60.49'
 average: '31.59'

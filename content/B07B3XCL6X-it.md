@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Polaroid Eyewear PLD 6041/S Occhiali da Sole  Black  56 Unisex Adulto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B3XCL6X/?tag=tolees00-21'
 descuento: '33.81'
 average: '23.1'

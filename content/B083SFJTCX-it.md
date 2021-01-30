@@ -16,6 +16,7 @@ comparePrice: 71.65 EUR
 prodname: 'TZAMLI - Scarpiera con 10 Ganci in Metallo per Closet Pantry'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083SFJTCX/?tag=tolees00-21'
 descuento: '49.63'
 average: '36.35333333333333'

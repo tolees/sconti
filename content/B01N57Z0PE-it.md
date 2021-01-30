@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   FR 10'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N57Z0PE/?tag=tolees00-21'
 descuento: '20.54'
 average: '75.49'

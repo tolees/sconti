@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Bilboa Carrot Plus Latte Spf 6-200 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EYQW7QU/?tag=tolees00-21'
 descuento: '40.04'
 average: '5.965'

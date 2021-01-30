@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Lacoste L1230 Polo Sport Ultraleggera Uomo  Grigio  Argent Chine   X-Small  Taglia Produttore: 2 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XFAPGWE/?tag=tolees00-21'
 descuento: '37.21'
 average: '43.95'

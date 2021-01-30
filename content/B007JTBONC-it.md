@@ -16,6 +16,7 @@ comparePrice: 4.35 EUR
 prodname: 'Fineliner - STABILO point 88 - Pack da 3 - Nero/Blu/Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B007JTBONC/?tag=tolees00-21'
 descuento: '51.95'
 average: '2.09'

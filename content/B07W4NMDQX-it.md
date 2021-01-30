@@ -16,6 +16,7 @@ comparePrice: 43.81 EUR
 prodname: 'Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva  Nero  Black   L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W4NMDQX/?tag=tolees00-21'
 descuento: '49.78'
 average: '22.0'

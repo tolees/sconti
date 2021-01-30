@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'FFTH Hard Disk 2 TB Esterno  Hard Disk Esterno USB-C 3.1 Portatile per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook.  2TB Argento '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HLVGP1F/?tag=tolees00-21'
 descuento: '35.36'
 average: '63.99'

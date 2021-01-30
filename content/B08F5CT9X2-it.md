@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Cuffie Bluetooth 5.0 cuffie wireless cuffie stereo 3D con eliminazione del rumore cuffie sportive impermeabili e anti-sudore IPX5 per Cuffie Apple Airpods Android/iPhone/Samsung/Huawei'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08F5CT9X2/?tag=tolees00-21'
 descuento: '17.40'
 average: '23.79833333333333'

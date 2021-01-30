@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Amazon Essentials - Confezione da 3 camicie da notte per neonati  Uni Stars  US 0-6M  EU 56-68 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HL29RC8/?tag=tolees00-21'
 descuento: '29.96'
 average: '11.9'

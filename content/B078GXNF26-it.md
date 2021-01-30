@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Vileda Ultramat Turbo Sistema Lavapavimenti con Secchio  Strizzatore e Piastra  con 1 Panno in Microfibra  Nero/Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078GXNF26/?tag=tolees00-21'
 descuento: '20.04'
 average: '39.9'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Logo Tape HD Felpa con Cappuccio  Grigio  Grey Heather 004   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0788BNRNK/?tag=tolees00-21'
 descuento: '29.97'
 average: '57.77153846153847'

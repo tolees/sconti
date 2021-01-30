@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Lenor Natural Ammorbidente Fiori di Seta  210 Lavaggi  Maxi Formato 6 x 35 Lavaggi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07P6BZPLK/?tag=tolees00-21'
 descuento: '23.54'
 average: '12.99'

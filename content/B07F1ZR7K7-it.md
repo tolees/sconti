@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Blu  Dark Blue Canvas   45 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07F1ZR7K7/?tag=tolees00-21'
 descuento: '52.32'
 average: '31.49'

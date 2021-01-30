@@ -16,6 +16,7 @@ comparePrice: 59.88 EUR
 prodname: 'Cornice digitale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21'
 descuento: '63.48'
 average: '21.925'

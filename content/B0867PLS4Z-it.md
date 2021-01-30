@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Alcatel 3L 2020  6.22”  4G  64 GB ROM + 4 GB RAM  tripla fotocamera  4000mah  dual sim  Chameleon Blue  ITA  Amazon Exclusive 2020 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0867PLS4Z/?tag=tolees00-21'
 descuento: '30.88'
 average: '109.9'

@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Havaianas Urban Basic Ii  Infradito Uomo  Nero  Black 0090   39/40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SP4FRB3/?tag=tolees00-21'
 descuento: '55.00'
 average: '9.9'

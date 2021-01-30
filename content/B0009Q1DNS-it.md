@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Bialetti Venus Caffettiera in Acciaio Inox  Adatta all Induzione  Inossidabile  Argento  4 Tazze'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0009Q1DNS/?tag=tolees00-21'
 descuento: '27.75'
 average: '17.99'

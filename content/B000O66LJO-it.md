@@ -16,6 +16,7 @@ comparePrice: 12.45 EUR
 prodname: 'Cressi Water Shoes Scarpette per Sport Acquatici  Adulti e Bambini  Acquamarina  40'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000O66LJO/?tag=tolees00-21'
 descuento: '20.00'
 average: '9.96'

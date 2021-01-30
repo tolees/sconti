@@ -16,6 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'AICOK Friggitrice Ad Aria Calda  Friggitrice Senza Olio  Temperatura e ora Regolabili  Low-oil e Multicooker 3 5 Liter  1400W  BPA Free'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0774RL3NQ/?tag=tolees00-21'
 descuento: '30.12'
 average: '56.99'

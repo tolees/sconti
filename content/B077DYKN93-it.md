@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Aigostar Multipresa Ciabatta Elettrica a 5 Posti  250v/2500W Cavo 5m. Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077DYKN93/?tag=tolees00-21'
 descuento: '25.02'
 average: '10.49'

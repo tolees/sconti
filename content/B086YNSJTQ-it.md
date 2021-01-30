@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'TOFU Candele profumate Regalo Donna  Regali per Donna realizzate con Cera di soia  Set di 6 fragranze Leggere  2 5 Once  Bagno Domestico  Yoga  aromaterapia  Relax  Antistress  Compleanno'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086YNSJTQ/?tag=tolees00-21'
 descuento: '20.01'
 average: '18.556666666666665'

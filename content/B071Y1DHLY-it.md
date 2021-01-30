@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'Integratore Probiotici con Prebiotici - 16 Ceppi Batterici tra cui Lactobacillus e Bifidobacterium - Vegano - Capsule a Rilascio Graduale- Fermenti Lattici da NutriZing - Senza Glutine - Prodotto UE'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071Y1DHLY/?tag=tolees00-21'
 descuento: '17.80'
 average: '16.02'

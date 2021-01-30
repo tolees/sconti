@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Original Triblend V Neck T-Shirt  Rosso  Formula One 645   XX-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0777PZ6XM/?tag=tolees00-21'
 descuento: '43.14'
 average: '17.0'

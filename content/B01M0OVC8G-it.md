@@ -16,6 +16,7 @@ comparePrice: 700.0 EUR
 prodname: 'Kenwood KVC7300S Impastatrice Planetaria Chef Titanium SYSTEM PRO  Robot da Cucina Mixer  1500 W  4.6 Litri  Acciaio  Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01M0OVC8G/?tag=tolees00-21'
 descuento: '15.50'
 average: '591.5'

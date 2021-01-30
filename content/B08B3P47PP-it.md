@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'etguuds Cavo USB C Corto [ 30cm/0.3m  2Pezzi ]  Ricarica Rapida 4.2A Cavo USB Type C in Nylon Compatibile per Samsung Galaxy S10 S10 Lite S10e S9 S8 S20  Note 10 9  A41 A40 A50 A51  Xiaomi  Sony'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08B3P47PP/?tag=tolees00-21'
 descuento: '23.09'
 average: '9.99'

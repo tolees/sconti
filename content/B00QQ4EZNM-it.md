@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'AUKEY Tappetino Mouse Gaming Grande XL  900x400x4mm Mouse Pad  Tappetino per Mouse da Gioco  Resistente All acqua con Superficie Liscia  Base in Gomma Antiscivolo  Bordi Cuciti per Tastiera  Laptop'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00QQ4EZNM/?tag=tolees00-21'
 descuento: '20.01'
 average: '19.99'

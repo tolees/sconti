@@ -16,6 +16,7 @@ comparePrice: 60.24 EUR
 prodname: 'Gucci Guilty Eau de Toilette  Donna  50 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0040HFEV4/?tag=tolees00-21'
 descuento: '15.77'
 average: '50.74'

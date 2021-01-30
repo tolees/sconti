@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Bonaventura Maschio la Grappa 903 Barrique - 350 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XUO8J38/?tag=tolees00-21'
 descuento: '19.27'
 average: '8.88'

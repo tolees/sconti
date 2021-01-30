@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Fossil Collana Donna con Cinturino in Acciaio Inossidabile JFS00472998'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VPKRD6C/?tag=tolees00-21'
 descuento: '70.67'
 average: '22.0'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Nero  Black   Small  Taglia produttore: S '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00LS9HHVW/?tag=tolees00-21'
 descuento: '35.06'
 average: '58.45'

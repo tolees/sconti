@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'THE G-LAB Korp HELIUM - Auricolari In-ear di alta qualità con Microfono Incorporato - Jack da 3 5 mm per smartphone iPhone Android PC PS4 Xbox One Nintendo Switch Mac Tablet - Nuovo 2020'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08425HJRB/?tag=tolees00-21'
 descuento: '33.36'
 average: '9.99'

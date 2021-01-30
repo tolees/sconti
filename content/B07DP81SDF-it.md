@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Falcon W  Sneaker Donna  Multicolore  Black Cblack/Cblack/Ftwwht   40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DP81SDF/?tag=tolees00-21'
 descuento: '63.00'
 average: '36.98'

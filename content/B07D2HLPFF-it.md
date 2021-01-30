@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'Motorola Moto Z3 Play Smartphone Android 9 Pie  Display 6.18" FullHD+  4/64 GB  Dual SIM  Dual Camera da 12 MP  con Moto Power Pack e Caricabatteria TurboPower [Italia]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D2HLPFF/?tag=tolees00-21'
 descuento: '21.02'
 average: '394.89'

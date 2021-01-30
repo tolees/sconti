@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Hasbro Gaming Pierino il Porcospino Gioco in Scatola con Dardi  Multicolore  E5702'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S4LQ1CT/?tag=tolees00-21'
 descuento: '73.32'
 average: '7.2'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA Essentials Logo  Pantaloni Compressione Donna  Nero  Cotton Black   M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D5SJ6JM/?tag=tolees00-21'
 descuento: '16.73'
 average: '24.811666666666667'

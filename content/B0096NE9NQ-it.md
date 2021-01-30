@@ -16,6 +16,7 @@ comparePrice: 30.73 EUR
 prodname: 'Lampa 32106 6899'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0096NE9NQ/?tag=tolees00-21'
 descuento: '66.71'
 average: '10.23'

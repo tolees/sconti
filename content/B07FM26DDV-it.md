@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Aigostar Pure 30LDV – Caraffa filtrante per l acqua da 3.5L. Incluso 3 cartucce filtranti. Display LCD per il conto alla rovescia automatico. BPA FREE. Color Blu.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FM26DDV/?tag=tolees00-21'
 descuento: '16.67'
 average: '22.49'

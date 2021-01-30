@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Auricolare Bluetooth 5.0  Auricolare Wireless  Microfono e Scatola di Ricarica incorporati incorporati  riduzione del Rumore Stereo 3D HD  per Cuffie Apple Airpods Android/iPhone/Samsung'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089RCNRTZ/?tag=tolees00-21'
 descuento: '66.68'
 average: '19.99'

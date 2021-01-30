@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Creed Nato Per Combattere  4K Ultra Hd + Blu-Ray + Copia Digitale '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EYSS22Q/?tag=tolees00-21'
 descuento: '53.65'
 average: '13.9'

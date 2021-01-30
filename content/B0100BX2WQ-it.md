@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Dyson AM09 Hot+Cool  2000 W  64 Decibel  Metall  Plastik  Silver  White'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0100BX2WQ/?tag=tolees00-21'
 descuento: '22.05'
 average: '350.0'

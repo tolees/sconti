@@ -16,6 +16,7 @@ comparePrice: 58.82 EUR
 prodname: 'Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva  Nero  Black Bbu   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RL2R3CM/?tag=tolees00-21'
 descuento: '28.68'
 average: '41.95'

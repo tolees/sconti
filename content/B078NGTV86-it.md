@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Nike Therma Hoodie Po  Felpa con Cappuccio Uomo  Black/Dark Grey  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078NGTV86/?tag=tolees00-21'
 descuento: '49.84'
 average: '25.08'

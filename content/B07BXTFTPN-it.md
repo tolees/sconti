@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ready Player One  4K+Br '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BXTFTPN/?tag=tolees00-21'
 descuento: '60.32'
 average: '11.9'

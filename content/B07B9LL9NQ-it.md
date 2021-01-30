@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'JBL CLIP 3 Speaker Wireless Bluetooth  Altoparlante Portatile Impermeabile  IPX7  con moschettone integrato  Microfono con cancellazione di eco e rumori  Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B9LL9NQ/?tag=tolees00-21'
 descuento: '50.01'
 average: '29.99'

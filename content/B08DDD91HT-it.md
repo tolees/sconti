@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari Wireless Cuffie Sportive IPX7 Impermeabili Riduzione del Rumore Stereo 3D HD Insonorizzato adatte per Apple AirPods/Android/iPhone Cuffie In Ear'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DDD91HT/?tag=tolees00-21'
 descuento: '40.04'
 average: '36.84428571428572'

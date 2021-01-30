@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Nero  Black Fit:Reg Fit   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B67ZK2P/?tag=tolees00-21'
 descuento: '41.68'
 average: '17.49'

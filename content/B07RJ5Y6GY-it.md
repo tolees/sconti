@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Premium Basic Felpa  Grigio  Lt Grey Htr C235-A302   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RJ5Y6GY/?tag=tolees00-21'
 descuento: '45.69'
 average: '37.99'

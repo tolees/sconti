@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'CARPISA® Borsa shopping a spalla bicolore - Nantes'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089B8S4GY/?tag=tolees00-21'
 descuento: '54.99'
 average: '17.98'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'UniqueMe [3 Pezzi] Vetro Temperato per Xiaomi Redmi 9 Pellicola Vetro con Un Perfetto Servizio Post-Vendita.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CZ9QVT4/?tag=tolees00-21'
 descuento: '28.61'
 average: '4.99'

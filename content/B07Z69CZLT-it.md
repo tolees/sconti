@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Pennelli Trucco oro Rosa 18 Pezzi Pennelli Trucco Premium Set Viso e Occhi  Pennelli Sintetici per Fondotinta Correttori in Polvere Ombretto Arrossito'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07Z69CZLT/?tag=tolees00-21'
 descuento: '41.19'
 average: '7.64'

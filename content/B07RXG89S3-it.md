@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Samsung HW-R530/ZF Soundbar da 290 W  2.1 Canali  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RXG89S3/?tag=tolees00-21'
 descuento: '49.82'
 average: '139.99'

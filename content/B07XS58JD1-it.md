@@ -16,6 +16,7 @@ comparePrice: 1589.0 EUR
 prodname: 'Apple iPhone 11 Pro  512GB  - Verde Notte'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XS58JD1/?tag=tolees00-21'
 descuento: '15.57'
 average: '1348.5500000000002'

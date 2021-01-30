@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: '#Cervezanía Kit per Fare la Birra Artigianale. Stile Pale Ale. 5 Litri. Malto macinato e Luppolo Fresco.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082P3PP5K/?tag=tolees00-21'
 descuento: '23.35'
 average: '45.95'

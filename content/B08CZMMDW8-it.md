@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'YAMAY Smartwatch con Saturimetro Misuratore Pressione Cardiofrequenzimetro Orologio Fitness Uomo Donna Impermeabile Smart Watch Touch Fitness Tracker Contapassi CronometroAndroid iOS'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CZMMDW8/?tag=tolees00-21'
 descuento: '15.00'
 average: '33.99'

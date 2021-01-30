@@ -16,6 +16,7 @@ comparePrice: 24.38 EUR
 prodname: 'K&N 99-5003EU Filtri Aria  Set di 2'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003O2ZRRM/?tag=tolees00-21'
 descuento: '17.51'
 average: '20.11'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Vangold Muto Frameless Grande Orologio a Muro 3D Specchio Adesivo  Nero-73 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MYGQS4X/?tag=tolees00-21'
 descuento: '20.84'
 average: '18.99'

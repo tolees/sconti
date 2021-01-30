@@ -16,6 +16,7 @@ comparePrice: 70.09 EUR
 prodname: 'Hermes Jour d Hermes Eau de Parfum  Donna  50 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21'
 descuento: '43.94'
 average: '39.29'

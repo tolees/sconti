@@ -16,6 +16,7 @@ comparePrice: 195.95 EUR
 prodname: 'homcom Porta Scorrevole Interna in Vetro Smerigliato e Satinato con Binario B2 e Maniglia per Bagno Cucina Studio Vetro 205x 90x 0 8cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00BTUHN5U/?tag=tolees00-21'
 descuento: '20.00'
 average: '156.76'

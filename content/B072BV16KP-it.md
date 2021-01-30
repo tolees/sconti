@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Boubioz Giacche e Maglioni in Pile  Uomo  Grigio  Graphite   M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072BV16KP/?tag=tolees00-21'
 descuento: '45.57'
 average: '48.98'

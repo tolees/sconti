@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'ghd platinum+ Styler Piastra per capelli  Edizione Limitata con custodia abbinata  Rosso Deep Scarlet'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0847SDDCR/?tag=tolees00-21'
 descuento: '31.90'
 average: '225.3225'

@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Head & Shoulders Shampoo Antiforfora Suprême Idrata  con Olio di Argan  con Ingredienti Sublimatori  225 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HNL5Z3Q/?tag=tolees00-21'
 descuento: '51.58'
 average: '1.69'

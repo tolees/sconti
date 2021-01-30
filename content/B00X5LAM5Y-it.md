@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Salvatore Ferragamo 70631 Acqua di Colonia'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00X5LAM5Y/?tag=tolees00-21'
 descuento: '62.52'
 average: '29.61'

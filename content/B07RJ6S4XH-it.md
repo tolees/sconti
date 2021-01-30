@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Calvin Klein K50k505179 Cintura  Blu  Navy/Black 0Gy   Unica  Taglia Produttore: 90  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RJ6S4XH/?tag=tolees00-21'
 descuento: '59.20'
 average: '16.28'

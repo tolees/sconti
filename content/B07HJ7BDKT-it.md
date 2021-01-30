@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Gillette Fusion5 Proshield Rasoio da Uomo  1 Manico 5 lamette di Ricarica  Edizione limitata  Idea Regalo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HJ7BDKT/?tag=tolees00-21'
 descuento: '33.34'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 57.33 EUR
 prodname: 'find. Slouch Stivaletti  Marrone Caramel   39 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FKCQ6NN/?tag=tolees00-21'
 descuento: '44.29'
 average: '31.94'

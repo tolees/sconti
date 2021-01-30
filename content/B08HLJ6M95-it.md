@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Tina @ Wii Nunchuck Controller  2 confezioni di ricambio per controller Nunchuk per Wii e console Wii U  nero / nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HLJ6M95/?tag=tolees00-21'
 descuento: '20.00'
 average: '12.8'

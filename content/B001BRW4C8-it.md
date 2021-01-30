@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Calvin Klein 3P Hip Brief Intimo  Multicolore  Black White & Grey   Medium  Pacco da 3  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001BRW4C8/?tag=tolees00-21'
 descuento: '20.13'
 average: '29.815199999999997'

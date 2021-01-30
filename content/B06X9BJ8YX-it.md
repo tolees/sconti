@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'ACE Wc Gel Disincrostante  2 Confezioni da 700 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06X9BJ8YX/?tag=tolees00-21'
 descuento: '16.91'
 average: '2.8249999999999997'

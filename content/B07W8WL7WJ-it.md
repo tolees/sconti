@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Cooler Master MM710 Mouse Gaming Ultraleggero 53g Cavo Flessibile - Sensore Ottico16000 DPI  Membrane Omron 20 Milioni Clic  Piedini PTFE Glide Liscio  Struttura Nido d Ape – Nero Opaco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W8WL7WJ/?tag=tolees00-21'
 descuento: '22.00'
 average: '38.99'

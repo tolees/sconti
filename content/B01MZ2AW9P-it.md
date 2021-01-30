@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'HOMCOM Schermo Proiezione Motorizzato Home Cinema 100 Pollici  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MZ2AW9P/?tag=tolees00-21'
 descuento: '20.00'
 average: '63.96'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Cuffie per bambini Mpow CH6S  con stereo  funzione di condivisione  cuffie maschili e femminili a volume limitato  cuffie audio con microfono  adatte per scuola/PC/telefono cellulare'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XHH9TRW/?tag=tolees00-21'
 descuento: '23.82'
 average: '15.99'

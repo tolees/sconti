@@ -16,6 +16,7 @@ comparePrice: 76.66 EUR
 prodname: 'Tommy Hilfiger Shoulder GS Insert Slim Polo Maglietta  Blu  Desert Sky   Small  Taglia Unica:  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W4HWC77/?tag=tolees00-21'
 descuento: '60.01'
 average: '30.66'

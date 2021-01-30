@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Cuffie Bluetooth 5.0 Senza Fili 30H Playtime 3D Stereo HD TWS Ear-In Auricolari Bluetooth  IP7 Impermeabile Cuffie Wireless con Display Digitale LED Mic-Incorporato per Samsung iPhone Huawei ecc'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083MXXTR8/?tag=tolees00-21'
 descuento: '56.01'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'Imetec Dolcevita HB2 Frullatore a Immersione  Lame in Acciaio Inox  Funzionamento a Impulsi  170 W'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0050IHCT4/?tag=tolees00-21'
 descuento: '42.33'
 average: '10.9'

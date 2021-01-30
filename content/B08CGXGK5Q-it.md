@@ -16,6 +16,7 @@ comparePrice: 55.35 EUR
 prodname: 'Auricolari Bluetooth 5.0 Senza Fili  Wireless Sportivi in Ear Cuffie con Custodia di Ricarica Portatile  Impermeabile Auricolare con Mic-Incorporato Tocca Controllo per Samsung iPhone Huawei Xiaomi PC'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CGXGK5Q/?tag=tolees00-21'
 descuento: '34.98'
 average: '35.99'

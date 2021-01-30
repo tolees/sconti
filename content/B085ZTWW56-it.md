@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Cocoda Termometro Cucina Digitale  Termometro Forno a Lettura Istantanea 2S con Sonda Lunga 4 7"  LCD Controluce  IPX6 Impermeabile & Magnete  Termometro Carne per Olio Friggere Barbecue Grill Latte'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085ZTWW56/?tag=tolees00-21'
 descuento: '15.01'
 average: '13.59'

@@ -16,6 +16,7 @@ comparePrice: 63.23 EUR
 prodname: 'Marchio Amazon - TRUTH & FABLE Mini Tubino in Pizzo Donna  Nero  Black   40  Label: XS'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QZDV1XY/?tag=tolees00-21'
 descuento: '15.86'
 average: '53.2'

@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Olimpia Splendid 01913 Dolceclima Compact 8 P Climatizzatore Portatile  8000 BTU/h  2.1 kW  Natural Gas R290  Design Prodotto in Italia'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NDNL1S8/?tag=tolees00-21'
 descuento: '24.42'
 average: '225.99'

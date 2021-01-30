@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ESPRIT 999ee2i803 Felpa  Grigio  Grey 030   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RZ7B9D4/?tag=tolees00-21'
 descuento: '20.14'
 average: '23.95'

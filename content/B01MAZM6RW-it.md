@@ -16,6 +16,7 @@ comparePrice: 31.74 EUR
 prodname: 'Rio Mare Tonno all Olio di Oliva Pescato a Canna  24 Lattine da 80 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MAZM6RW/?tag=tolees00-21'
 descuento: '20.98'
 average: '27.037241379310345'

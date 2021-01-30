@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Kappa  Polo Uomo Peleot  Blu  Navy   M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00QTVA3GK/?tag=tolees00-21'
 descuento: '50.68'
 average: '9.84'

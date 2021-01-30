@@ -16,6 +16,7 @@ comparePrice: 1189.0 EUR
 prodname: 'Apple iPhone 11 Pro  64GB  - Oro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XS5MSS2/?tag=tolees00-21'
 descuento: '24.31'
 average: '899.99'

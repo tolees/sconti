@@ -16,6 +16,7 @@ comparePrice: 11.71 EUR
 prodname: 'Poly Pool PP1615 Racchetta Elettronica Fulmina Insetti'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00L49YUKW/?tag=tolees00-21'
 descuento: '57.39'
 average: '4.99'

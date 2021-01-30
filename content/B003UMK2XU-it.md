@@ -16,6 +16,7 @@ comparePrice: 2.93 EUR
 prodname: 'Mulino Bianco Merendine Flauti al Cioccolato  Snack Dolce per la Merenda  280 gr'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003UMK2XU/?tag=tolees00-21'
 descuento: '52.56'
 average: '1.39'

@@ -16,6 +16,7 @@ comparePrice: 192.85 EUR
 prodname: 'Manfrotto Befree Advanced Camo  Kit Treppiede Adavnced Travel  con Testa a Sfera con Controlli Ergonomici  Chiusure Twist Lock  Treppiede Fotografico  Cavalletto per Videocamera e Fotocamera  Verde'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083XSNX8S/?tag=tolees00-21'
 descuento: '30.00'
 average: '135.0'

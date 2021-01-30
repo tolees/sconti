@@ -16,6 +16,7 @@ comparePrice: 93.09 EUR
 prodname: 'Tommy Hilfiger Basic Embroidered Hoody Felpa  Verde  Faded Olive   Small  Taglia Unica:  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W4HXSK6/?tag=tolees00-21'
 descuento: '66.38'
 average: '31.3'

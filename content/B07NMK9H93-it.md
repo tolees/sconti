@@ -16,6 +16,7 @@ comparePrice: 239.95 EUR
 prodname: 'Pawhut Pollaio da Giardino con Corsa e Tetto Impermeabile  Grigio e Bianco  166x121.5x112cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NMK9H93/?tag=tolees00-21'
 descuento: '18.33'
 average: '195.97'

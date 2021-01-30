@@ -16,6 +16,7 @@ comparePrice: 19.8 EUR
 prodname: 'Swiffer Panni di Ricambio per Scopa  Maxi Formato da 120 Panni  Cattura e Intrappola 3 Volte Più Polvere  Sporco e Peli di una Scopa Tradizionale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07639RBVJ/?tag=tolees00-21'
 descuento: '24.29'
 average: '14.99'

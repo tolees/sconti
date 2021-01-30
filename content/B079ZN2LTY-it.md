@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'MORELLATO Anello Donna acciaio inossidabile - SALY11014'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079ZN2LTY/?tag=tolees00-21'
 descuento: '50.00'
 average: '14.5'

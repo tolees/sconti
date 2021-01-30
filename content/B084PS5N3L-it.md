@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Mastrolindo Detersivo Pavimenti Superfici Delicate  Maxi Formato 6 Pezzi da 950 ml  5.7 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084PS5N3L/?tag=tolees00-21'
 descuento: '19.18'
 average: '9.69'

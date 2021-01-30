@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Kellogg s Choco Krave  Cioccolato al Latte - 410 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086XQZYSR/?tag=tolees00-21'
 descuento: '30.08'
 average: '2.79'

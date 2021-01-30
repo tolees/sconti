@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Trolley Fit Seven Colorflower  Nero  35 Lt  2in1 Zaino con Sollevamento Spallacci per uso Trolley  Scuola & Viaggio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07Q4XFRK8/?tag=tolees00-21'
 descuento: '28.25'
 average: '64.5'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Ardes AR6230B Forno Elettrico Ventilato Gustavo Black 30 Litri 6 Funzioni Cottura Doppio Vetro con Accessori Nero  1500 W'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0744PN2VY/?tag=tolees00-21'
 descuento: '20.92'
 average: '79.0'

@@ -16,6 +16,7 @@ comparePrice: 125.99 EUR
 prodname: 'Honeywell HO-5500RE4 Ventilatore a Torre'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001AO0OXI/?tag=tolees00-21'
 descuento: '63.25'
 average: '46.3'

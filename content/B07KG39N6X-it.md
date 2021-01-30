@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Puma Axis  Sneaker Unisex-Adulto  Blu  Peacoat-Puma White 07   36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KG39N6X/?tag=tolees00-21'
 descuento: '34.49'
 average: '36.0'

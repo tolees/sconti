@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '6×Lampada Solare Giardino Aigostar  Lampada a LED Segnapassi per Esterno  Impermeabile  Accensione e Spegnimento Automatici  Consigliato per Giardini o Terreni Morbidi Dove Posizionarlo.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086YDG19Z/?tag=tolees00-21'
 descuento: '20.01'
 average: '23.99'

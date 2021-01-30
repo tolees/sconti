@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'It  2017  + Funko Keychain'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07G4SZFTZ/?tag=tolees00-21'
 descuento: '38.55'
 average: '12.697142857142858'

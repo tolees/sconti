@@ -16,6 +16,7 @@ comparePrice: 68.98 EUR
 prodname: 'ORICO Stazione di Ricarica Mobile USB  Dock di Ricarica USB a 7 Porte  70 W  per Smartphone e Tablet  con Interruttore ON/off per Uso Domestico e Commerciale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XKLHVVK/?tag=tolees00-21'
 descuento: '33.33'
 average: '45.99'

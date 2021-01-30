@@ -16,6 +16,7 @@ comparePrice: 6.41 EUR
 prodname: 'Giotto Stilnovo - Astuccio 12 Pastelli  Multicolore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0021V6QCC/?tag=tolees00-21'
 descuento: '56.32'
 average: '2.8'

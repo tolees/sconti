@@ -16,6 +16,7 @@ comparePrice: 79.11 EUR
 prodname: 'Casio Orologio Digitale Quarzo Uomo con Cinturino in Acciaio Inox DB-360N-1AEF'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000LCV6QE/?tag=tolees00-21'
 descuento: '60.18'
 average: '31.5'

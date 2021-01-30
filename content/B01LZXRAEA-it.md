@@ -16,6 +16,7 @@ comparePrice: 3.55 EUR
 prodname: 'Regina  Carta Igienica - Pacco da 4 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LZXRAEA/?tag=tolees00-21'
 descuento: '15.77'
 average: '2.9680769230769233'

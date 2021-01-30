@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Sandisk Extreme Go Sdcz800  064G  G46  Chiavetta USB 3.1  64 GB'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01NARBPI7/?tag=tolees00-21'
 descuento: '50.01'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Neoviva - Cuscino imbottito a forma di margherita  con 7 petali  Tessuto  Polka Dots Tango Rosso  Margherita'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01D2YFNOS/?tag=tolees00-21'
 descuento: '30.79'
 average: '8.99'

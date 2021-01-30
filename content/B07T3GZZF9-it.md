@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Classic Boat 2 Eye Scarpe da Barca  Uomo  Beige  Pure Cashmere  Tb0a2c9hk511   45 EU  10.5 UK '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T3GZZF9/?tag=tolees00-21'
 descuento: '50.75'
 average: '68.95'

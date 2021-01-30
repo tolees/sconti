@@ -16,6 +16,7 @@ comparePrice: 75.51 EUR
 prodname: 'Plano PLO18551ZR Professional Line 855 Portautensili'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00BFR1XDA/?tag=tolees00-21'
 descuento: '16.70'
 average: '62.9'

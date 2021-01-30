@@ -16,6 +16,7 @@ comparePrice: 1.24 EUR
 prodname: 'Pavesi Ringo Biscotti Farciti con Crema al Gusto Vaniglia  Snack per Merenda o Pausa Studio  Senza Olio di Palma - Formato Tubo da 165 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0035AQPOM/?tag=tolees00-21'
 descuento: '31.45'
 average: '0.85'

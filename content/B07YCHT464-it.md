@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Vans Colorblock Tee T-Shirt  Multicolore  Ash Heather/Black Rp5   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YCHT464/?tag=tolees00-21'
 descuento: '40.00'
 average: '15.0'

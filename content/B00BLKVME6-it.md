@@ -16,6 +16,7 @@ comparePrice: 319.0 EUR
 prodname: 'Seiko Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inox SSC141P1'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00BLKVME6/?tag=tolees00-21'
 descuento: '52.66'
 average: '151.5'

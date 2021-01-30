@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Cuffie Bluetooth Sport Auricolari Bluetooth Senza Fili 5.0 Cuffie Wireless in Ear Dual Host con CVC8.0 Impermeabile IPX5 HiFi Stereo 80 Ore Riproduzione Fibra di Carbonio Design per Sport Corsa'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087J7WMF4/?tag=tolees00-21'
 descuento: '42.86'
 average: '39.99'

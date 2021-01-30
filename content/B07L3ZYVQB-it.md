@@ -16,6 +16,7 @@ comparePrice: 109.87 EUR
 prodname: '24"Luminosità regolabile 60cm Gancio Pieghevole Portatile Professionale Supporto da tavolo Fotografia Kit illuminazione 156 Luci a LED Fondali a 4 colori'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07L3ZYVQB/?tag=tolees00-21'
 descuento: '22.64'
 average: '84.99'

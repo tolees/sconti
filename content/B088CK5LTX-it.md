@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Prisoner Mix Hooded Felpa con Cappuccio  Dk Black A971-6484  M Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: 'G-STAR RAW'
 buyurl: 'https://www.amazon.it/dp/B088CK5LTX/?tag=tolees00-21'
 descuento: '37.48'
 average: '62.49'

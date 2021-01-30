@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Isincer Streaming Webcam HD 1080p con Microfono a riduzione del Rumore Videocamera per PC Laptop con Webcam e Microfono'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088MCKS5N/?tag=tolees00-21'
 descuento: '40.51'
 average: '17.84'

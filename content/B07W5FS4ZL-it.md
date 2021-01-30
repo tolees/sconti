@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Imetec Piuma Extreme++ SC3-100 Aspirapolvere con Tecnologia Ciclonica Senza Sacco  Regolazione Elettronica della Potenza  Leggera 4 kg  Doppio Filtro Hepa Ipoallergenico  Spazzola Multisuperficie'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W5FS4ZL/?tag=tolees00-21'
 descuento: '30.03'
 average: '69.9'

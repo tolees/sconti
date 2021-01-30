@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s Turner  Sneaker Uomo  Nero  Regular Black 159   44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DZZG5DZ/?tag=tolees00-21'
 descuento: '30.02'
 average: '34.99'

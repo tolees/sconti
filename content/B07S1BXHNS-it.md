@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Hasbro Monopoly - Voice Banking  Gioco in Scatola Elettronico '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S1BXHNS/?tag=tolees00-21'
 descuento: '20.08'
 average: '19.9'

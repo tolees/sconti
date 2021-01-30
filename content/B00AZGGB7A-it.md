@@ -16,6 +16,7 @@ comparePrice: 21.44 EUR
 prodname: 'SMIFFYS Maschera da gorilla  nero  con capelli  schiuma di lattice'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00AZGGB7A/?tag=tolees00-21'
 descuento: '20.20'
 average: '17.11'

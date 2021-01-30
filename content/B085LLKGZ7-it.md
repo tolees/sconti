@@ -16,6 +16,7 @@ comparePrice: 29.8 EUR
 prodname: 'MKTOSASA - Zaino in nylon resistente 600D con chiusura lampo  tasche frontali e manico rinforzato - 29x41x18 Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085LLKGZ7/?tag=tolees00-21'
 descuento: '19.97'
 average: '23.85'

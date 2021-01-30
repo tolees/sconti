@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'YAMAMAY® Slip Costume con Lacci Regolabili  Tinta Unita con Inserti in Lurex- Mirage'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V3F2VB1/?tag=tolees00-21'
 descuento: '49.97'
 average: '8.48'

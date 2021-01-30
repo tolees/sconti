@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Havaianas Slim Animals  Infradito Donna  Multicolore  Grey/Olive Green 7807   41/42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TKNMXX6/?tag=tolees00-21'
 descuento: '33.96'
 average: '18.49'

@@ -16,6 +16,7 @@ comparePrice: 15.4 EUR
 prodname: 'Scholl Gel Activ Sport Solette Sportive per Donna  35-40.5 EU  1 Paio  35-40 Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00TSAE76Q/?tag=tolees00-21'
 descuento: '18.90'
 average: '12.49'

@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Pastaza Stivali da Neve Uomo Donna Trekking Scarpe Inverno Impermeabili Outdoor Pelliccia Sneakers Nero 43EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07H35KG7V/?tag=tolees00-21'
 descuento: '15.00'
 average: '33.14'

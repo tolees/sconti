@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Brother JX17FE  Fantasy Edition  Macchina per Cucire con 17 Punti di Cucitura  per Principianti  Cucitrice Automatica - Offerta con Tavolo prolunga'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XGMK37V/?tag=tolees00-21'
 descuento: '23.53'
 average: '129.99'

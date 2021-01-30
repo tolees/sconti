@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Havaianas Top Nautical  Infradito Uomo  Multicolore  Navy Blue/White/Apache Red 3116   37/38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SKWM2DS/?tag=tolees00-21'
 descuento: '31.60'
 average: '12.99'

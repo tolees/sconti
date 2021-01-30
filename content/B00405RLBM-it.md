@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Kenwood CH580 Trituratore universale  elettrico  con sistema a quattro pale  bianco  500 watt 10x5x25cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00405RLBM/?tag=tolees00-21'
 descuento: '24.67'
 average: '33.84250000000001'

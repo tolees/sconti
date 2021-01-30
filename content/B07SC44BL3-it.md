@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Call of Duty: Modern Warfare - Amazon Edition - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SC44BL3/?tag=tolees00-21'
 descuento: '15.72'
 average: '58.99'

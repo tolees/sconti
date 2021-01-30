@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA ST Runner V2 NL  Scarpe da Ginnastica Unisex-Adulto  High Rise White/Castlerock  46 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S8PV6JR/?tag=tolees00-21'
 descuento: '33.81'
 average: '36.37'

@@ -16,6 +16,7 @@ comparePrice: 51.1 EUR
 prodname: 'DeniseM117 Cuffie Bluetooth Auricolari Bluetooth Senza Fili TWS Cuffie 5.0 Riduzione del Rumore Wireless Hi-Fi Stereo Senza Fili Sportivi in Ear con Custodia da Ricarica Microfono'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088WH2MWJ/?tag=tolees00-21'
 descuento: '54.44'
 average: '35.20285714285714'

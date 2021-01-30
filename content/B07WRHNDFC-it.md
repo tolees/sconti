@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'TEAMO Rosa Bella e La Bestia La Rosa della Bella e La Bestia Elegante Cupola di Vetro con Base Pino Luci LED  Beauty And Beast Regali Magici Decorazioni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WRHNDFC/?tag=tolees00-21'
 descuento: '15.01'
 average: '21.24'

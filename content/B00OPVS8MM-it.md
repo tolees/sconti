@@ -16,6 +16,7 @@ comparePrice: 7.49 EUR
 prodname: 'Grey L Acchiappacolore Fogli Cattura Colore Lavatrice Evita Incidenti Lavaggio  Foglietti Acchiappacolore e Anti-Sporco  Confezione 40 Fogli'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00OPVS8MM/?tag=tolees00-21'
 descuento: '48.33'
 average: '3.87'

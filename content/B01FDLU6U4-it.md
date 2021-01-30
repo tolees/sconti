@@ -16,6 +16,7 @@ comparePrice: 15.6 EUR
 prodname: 'Red Bull Energy Drink Gusto Frutti Rossi e Agrumi  12 lattine da 250 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01FDLU6U4/?tag=tolees00-21'
 descuento: '23.85'
 average: '11.88'

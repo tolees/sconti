@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'HOMCOM Porta Scorrevole Interna in Vetro Smerigliato con Binario B1 e Maniglia per Bagno Cucina Studio Vetro 205x 77 5x 0 8cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EFL1LF2/?tag=tolees00-21'
 descuento: '15.29'
 average: '143.96'

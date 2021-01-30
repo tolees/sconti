@@ -16,6 +16,7 @@ comparePrice: 18.28 EUR
 prodname: 'Brother Cabldp1 Scan-N-Cut - Punta da Taglio per Taglio Standard  Colore: Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00IX5YNV6/?tag=tolees00-21'
 descuento: '45.79'
 average: '9.91'

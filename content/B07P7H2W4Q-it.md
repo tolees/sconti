@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Kingdom Hearts: The Story so far - PlayStation 4 [Edizione: Regno Unito]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21'
 descuento: '42.23'
 average: '20.16'

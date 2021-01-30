@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Shuliancable Cavo HDMI  Cavo HDMI Alta Velocità con Ethernet Supporta HD1080p 3D HDR ARC CEC  Cavetto HDMI Compatibile Nintendo Switch  PS3  Xbox  TV Box  TV  Proiettore  2m '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07LBPR3HQ/?tag=tolees00-21'
 descuento: '45.50'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 41.44 EUR
 prodname: 'Calvin Klein 3p Trunk Boxer  Nero  B-Minnow/Horoscope/Inferno Bnw   X-Small  Pacco da 3  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VKJ7W48/?tag=tolees00-21'
 descuento: '37.86'
 average: '27.9'

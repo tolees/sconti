@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Chiave del prodotto Office Professional Plus 2019 a 32/64 bit con istruzioni da Softwareworld - Next Generation®'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XKQBB6B/?tag=tolees00-21'
 descuento: '63.19'
 average: '5.89'

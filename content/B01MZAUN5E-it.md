@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Hori Stand di Ricarica per 4 Joy-con - Nintendo Switch'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MZAUN5E/?tag=tolees00-21'
 descuento: '29.93'
 average: '21.02'

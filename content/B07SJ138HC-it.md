@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'FIFA 20 - Champions - Xbox One  3 anni +'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SJ138HC/?tag=tolees00-21'
 descuento: '77.79'
 average: '19.99'

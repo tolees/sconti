@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Ring Light 10   LED Luce ad Anello di Luce Treppiedi con 3 Modalità Colore e 10 Luminosità  per la Tiktok Fotografia Video di YouTube /Streaming Live/Trucco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BHZ3J4N/?tag=tolees00-21'
 descuento: '22.02'
 average: '38.99'

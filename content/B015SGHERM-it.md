@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Havaianas You Metallic  Infradito Donna   Sand Grey/Light Golden   41/42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015SGHERM/?tag=tolees00-21'
 descuento: '33.37'
 average: '19.99'

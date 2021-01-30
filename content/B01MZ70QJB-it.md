@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'BONTEC Braccio Monitor Singolo per Schermo LED LCD da 13 a 32 Pollici  Ergonomica Inclinazione e Rotazione Braccio Monitor Scrivania con Morsetto  Dimensioni VESA: 75x75-100x100 mm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MZ70QJB/?tag=tolees00-21'
 descuento: '20.01'
 average: '27.19'

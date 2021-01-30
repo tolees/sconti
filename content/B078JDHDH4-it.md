@@ -16,6 +16,7 @@ comparePrice: 37.77 EUR
 prodname: 'Tommy Hilfiger New Adan Belt 3.5cm Cintura  Blu  Sky Captain 422   10  Taglia Produttore: 110  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078JDHDH4/?tag=tolees00-21'
 descuento: '15.01'
 average: '32.1'

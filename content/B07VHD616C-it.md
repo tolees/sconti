@@ -16,6 +16,7 @@ comparePrice: 48.27 EUR
 prodname: 'Kaspersky Internet Security 2020 5 User'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VHD616C/?tag=tolees00-21'
 descuento: '23.39'
 average: '36.98'

@@ -16,6 +16,7 @@ comparePrice: 36.44 EUR
 prodname: 'CARE OF by PUMA Slip on Court Low-Top Sneakers  Blu  Navy Blazer-Indigo   40.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XLMFSGP/?tag=tolees00-21'
 descuento: '22.59'
 average: '28.21'

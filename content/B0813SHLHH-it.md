@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Falcon W  Scarpe da Ginnastica Donna  off White/Raw White/Active Purple  38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0813SHLHH/?tag=tolees00-21'
 descuento: '63.86'
 average: '36.12'

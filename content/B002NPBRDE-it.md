@@ -16,6 +16,7 @@ comparePrice: 9.24 EUR
 prodname: 'Maybelline New York Color Sensational Matita Labbra  47 Pleasure Me Red'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B002NPBRDE/?tag=tolees00-21'
 descuento: '67.53'
 average: '3.0'

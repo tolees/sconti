@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Hosome Aspirapolvere Senza Fili 12000pa Potente Scopa Elettrica 2200mAh Ricaricabile Portatile e Silenziosa 3 in 1 Aspirabriciole Leggero con Luce LED Senza Sacco Pulizia Casa Auto Sofa Animali'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0822CFMZ8/?tag=tolees00-21'
 descuento: '31.77'
 average: '115.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Kodak Stampante fotografica Mini 2 HD  istantanea  senza fili e mobile con tecnologia di stampa brevettata 4Pass  compatibile con iOS e Android  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077BPHQ5C/?tag=tolees00-21'
 descuento: '15.00'
 average: '84.99'

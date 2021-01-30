@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Südtirol - Alto Adige DOC Goldmuskateller Blumenfeld 2019 0 75 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085PXXN4Y/?tag=tolees00-21'
 descuento: '20.00'
 average: '11.92'

@@ -16,6 +16,7 @@ comparePrice: 204.65 EUR
 prodname: 'Intex 56942GS Piscina Rotonda con Pompa 305 x 76 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0065HDQ4Y/?tag=tolees00-21'
 descuento: '24.26'
 average: '155.0'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Sodastream 1047200490  Caraffe in vetro per gasatore d acqua  compatibile con Crystal & Penguin  0.615 L x 2 pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0055R2CKO/?tag=tolees00-21'
 descuento: '31.97'
 average: '17.0'

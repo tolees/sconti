@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Samsung U28H750 Monitor 28   4K Ultra HD  3840 x 2160  Pannello TN  Quantum Dot  60 Hz  1 ms  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0711S2JHQ/?tag=tolees00-21'
 descuento: '32.77'
 average: '335.48'

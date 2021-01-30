@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste Ph4012 Polo  Sphere  XS Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083FHCVRP/?tag=tolees00-21'
 descuento: '20.00'
 average: '76.0'

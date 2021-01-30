@@ -16,6 +16,7 @@ comparePrice: 31.19 EUR
 prodname: 'BAITITON NVME 120GB Unità SSD M.2 2280 PCIe Express GEN3.0x4 Unità a Stato Solido Interno Lettura 1800MB/s  Scrittura 600MB/s'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08GNZJ93V/?tag=tolees00-21'
 descuento: '26.29'
 average: '22.99'

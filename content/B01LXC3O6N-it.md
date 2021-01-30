@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS5251SET'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LXC3O6N/?tag=tolees00-21'
 descuento: '47.62'
 average: '99.0'

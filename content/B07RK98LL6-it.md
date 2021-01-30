@@ -16,6 +16,7 @@ comparePrice: 64.72 EUR
 prodname: 'riverso - Pantaloncini Cargo da Uomo RIVAnton  con Cintura  100% Cotone  Blu  Grigio  Verde Oliva  Nero  Beige  a Quadretti w30 - w46 Grigio Dawn  23200 . 44W'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RK98LL6/?tag=tolees00-21'
 descuento: '46.00'
 average: '34.95'

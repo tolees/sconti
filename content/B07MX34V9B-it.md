@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Far Cry New Dawn - Xbox One'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MX34V9B/?tag=tolees00-21'
 descuento: '68.21'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Viakal Detersivo Anticalcare Liquido Aceto  Maxi Formato 2 Pezzi da 700 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084W89XXF/?tag=tolees00-21'
 descuento: '45.49'
 average: '4.9'

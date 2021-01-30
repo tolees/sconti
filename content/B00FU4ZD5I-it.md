@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Blu  Jeans   43/46 - Confezione da 2'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00FU4ZD5I/?tag=tolees00-21'
 descuento: '16.00'
 average: '8.4'

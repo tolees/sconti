@@ -16,6 +16,7 @@ comparePrice: 739.0 EUR
 prodname: 'Apple iPhone XR  64GB  - Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07J6G5T9J/?tag=tolees00-21'
 descuento: '22.87'
 average: '569.99'

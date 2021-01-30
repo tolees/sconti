@@ -16,6 +16,7 @@ comparePrice: 35.66 EUR
 prodname: 'Nike Wmns Court Royale AC CNV  Scarpe da Tennis Donna  Black/White  38.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZTVB8CL/?tag=tolees00-21'
 descuento: '24.73'
 average: '26.84'

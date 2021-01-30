@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Garmin Forerunner 235 GPS Sportwatch con Sensore Cardio al Polso e Funzioni Smart  Nero/Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B016ZXB5JA/?tag=tolees00-21'
 descuento: '17.51'
 average: '197.96'

@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Crocs Crocband Flip 11033  Infradito Unisex – Adulto  Nero  Black 001   42-43  Talla produttore: M9/W11 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B002SNA7XC/?tag=tolees00-21'
 descuento: '42.81'
 average: '17.1'

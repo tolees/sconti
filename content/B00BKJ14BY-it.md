@@ -16,6 +16,7 @@ comparePrice: 24.31 EUR
 prodname: 'Navigare 324  Slip Uomo  Multicolore  Bianco/Nero/Antracite/Navi   Large  Taglia Produttore:5   Pacco da 6'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00BKJ14BY/?tag=tolees00-21'
 descuento: '15.43'
 average: '20.56'

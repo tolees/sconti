@@ -16,6 +16,7 @@ comparePrice: 2.69 EUR
 prodname: 'Pringles Pringles Original - 175 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086L6TXTK/?tag=tolees00-21'
 descuento: '40.89'
 average: '1.59'

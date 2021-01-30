@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Hilfiger Bralette Corsetto  Bianco  White 100   Small Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06W5DHZDT/?tag=tolees00-21'
 descuento: '19.97'
 average: '28.105000000000004'

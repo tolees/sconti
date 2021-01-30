@@ -16,6 +16,7 @@ comparePrice: 23.09 EUR
 prodname: 'Svelto Expert Pastiglie per Lavastoviglie Extra Brillantezza  117 Lavaggi  13 Unità  Confezione da 9 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084GPXHM3/?tag=tolees00-21'
 descuento: '40.93'
 average: '13.64'

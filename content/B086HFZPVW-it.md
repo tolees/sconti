@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Xenoblade Chronicles: Definitive Edition - Nintendo Switch'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086HFZPVW/?tag=tolees00-21'
 descuento: '21.74'
 average: '46.97500000000001'

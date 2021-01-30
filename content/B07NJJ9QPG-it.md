@@ -16,6 +16,7 @@ comparePrice: 40.66 EUR
 prodname: 'Assassin s Creed III Liberation Remastered - Xbox One'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NJJ9QPG/?tag=tolees00-21'
 descuento: '50.84'
 average: '19.99'

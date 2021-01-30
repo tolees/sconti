@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Logitech G332 Cuffie Gaming Cablate  Audio Stereo  Driver da 50 mm  Jack Audio 3.5 mm  Microfono Flip-To-Mute  Padiglioni Rotanti  Leggere  PC/Mac/Xbox One/PS4/Nintendo Switch  Rosse'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MTWHWZ1/?tag=tolees00-21'
 descuento: '32.26'
 average: '37.49'

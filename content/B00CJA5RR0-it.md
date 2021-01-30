@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Fila Orologio Analogico Quarzo Unisex Adulto con Cinturino in Silicone FILA38-033-004'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00CJA5RR0/?tag=tolees00-21'
 descuento: '73.02'
 average: '22.93'

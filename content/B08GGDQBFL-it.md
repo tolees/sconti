@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'homcom Mobile Alto da Bagno Colonna Design Compatto con scaffale Anta Singolo  in MDF  Bianco  40 x 35 x 164cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08GGDQBFL/?tag=tolees00-21'
 descuento: '20.00'
 average: '63.96'

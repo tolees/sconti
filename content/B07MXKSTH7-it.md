@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Buffalo London 1339-14 2.0 V  Scarpe da Ginnastica Donna  Nero  38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MXKSTH7/?tag=tolees00-21'
 descuento: '18.67'
 average: '122.0'

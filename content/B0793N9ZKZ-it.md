@@ -16,6 +16,7 @@ comparePrice: 4.1 EUR
 prodname: 'Rimmel London Smalto Flip Flop Fashion  Be Red-Y - 8 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0793N9ZKZ/?tag=tolees00-21'
 descuento: '36.59'
 average: '2.6'

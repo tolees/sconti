@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Pulsossimetro Bluetooth  monitor di saturazione di ossigeno  wireless con promemoria audio su dispositivo e smartphone APP gratuita  misuratore di frequenza cardiaca SpO2 ricaricabile per adulti'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YTLYXC9/?tag=tolees00-21'
 descuento: '92.14'
 average: '11.0'

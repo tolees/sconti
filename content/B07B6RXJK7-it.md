@@ -16,6 +16,7 @@ comparePrice: 2.59 EUR
 prodname: 'Garnier Skinactive Acqua Micellare Detergente Per Pelli Sensibili  100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B6RXJK7/?tag=tolees00-21'
 descuento: '23.17'
 average: '1.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Marvel Ultimate Alliance 3: The Black Order - Nintendo Switch'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NX5HBLH/?tag=tolees00-21'
 descuento: '25.00'
 average: '44.99'

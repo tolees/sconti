@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Calvin Klein Primary Washbag - Organizer borsa Donna  Nero  Black   1x1x1 cm  W x H L '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V8XFR5Z/?tag=tolees00-21'
 descuento: '74.48'
 average: '11.46'

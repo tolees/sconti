@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212 Polo  Blu  Cicer Yzk   2XL Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TJXTYL8/?tag=tolees00-21'
 descuento: '20.05'
 average: '75.95'

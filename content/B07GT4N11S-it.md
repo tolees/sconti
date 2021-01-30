@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Razer Mamba Wireless Mouse da Gaming  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GT4N11S/?tag=tolees00-21'
 descuento: '57.01'
 average: '42.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'DADYPET Fontanella per Gatti  Fontana per Cani e Gatti  Distributore Automatico e Silenzioso di Acqua per Gatti  Filtro Sostituibile  con Due Filtri a Carboni Attivi  2.8L '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K6B6QCG/?tag=tolees00-21'
 descuento: '40.01'
 average: '29.99'

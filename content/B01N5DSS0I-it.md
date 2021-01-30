@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Ever Shine Ear polsini Vines arrampicatori Wrap Trafitto pins Hook orecchini CZ cristallo 7 pietre  colore: Silver Tone with Blue Cubic Zirconia  cod. EVER SHINE-1210'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N5DSS0I/?tag=tolees00-21'
 descuento: '64.61'
 average: '10.97'

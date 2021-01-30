@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Anself Diffusore di Aromi Umidificatore - 160 ML Diffusore di Olio Essenziale con Lampada 7 Colori LED  Auto Spegnimento Muto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00UGYSGZQ/?tag=tolees00-21'
 descuento: '46.63'
 average: '13.87'

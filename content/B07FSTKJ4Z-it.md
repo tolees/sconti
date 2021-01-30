@@ -16,6 +16,7 @@ comparePrice: 79.5 EUR
 prodname: 'Oral-B Pro 2 2500 Spazzolino Elettrico Ricaricabile  1 Spazzolino con Sensore di Pressione dello Spazzolamento Visibile  1 Testina  1 Custodia da Viaggio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FSTKJ4Z/?tag=tolees00-21'
 descuento: '49.70'
 average: '45.178'

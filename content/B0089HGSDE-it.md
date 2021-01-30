@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Burberry Acqua di profumo per le donne  100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0089HGSDE/?tag=tolees00-21'
 descuento: '68.02'
 average: '27.18'

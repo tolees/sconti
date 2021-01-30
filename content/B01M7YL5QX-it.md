@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'adidas TIRO BP  Zaino Unisex-Adulto  Blu  Azul/Maruni/Blanco   25 Centimeters'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01M7YL5QX/?tag=tolees00-21'
 descuento: '61.03'
 average: '14.81'

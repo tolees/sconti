@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'DURHAND 44pz Contenitore Portautensile scatole regolabili e rimovibile  montaggio a muro  PP  rosso grigio  63.5 x 22.5 x 95.5cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FXRXSKH/?tag=tolees00-21'
 descuento: '20.00'
 average: '23.16'

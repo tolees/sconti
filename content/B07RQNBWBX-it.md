@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'WHCREAT da Uomo con Pantaloncini da Running Tasche con Cerniera per Allenamento in Palestra L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RQNBWBX/?tag=tolees00-21'
 descuento: '24.97'
 average: '11.24'

@@ -16,6 +16,7 @@ comparePrice: 21.15 EUR
 prodname: 'Lark & Ro Stretch Poplin 3/4 Sleeve Shirt Dress-Shirts  French Blue  US 2  EU XS - S '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PR21YDZ/?tag=tolees00-21'
 descuento: '66.81'
 average: '7.02'

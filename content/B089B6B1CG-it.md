@@ -16,6 +16,7 @@ comparePrice: 31.96 EUR
 prodname: 'CARPISA® Borsa a sacca con manici e tracolla - Nantes'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089B6B1CG/?tag=tolees00-21'
 descuento: '25.00'
 average: '23.97'

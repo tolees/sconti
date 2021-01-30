@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Pepe Jeans Sue Giacca in Jeans  Nero  Archive Black Used 000   L arge Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RXXXY7P/?tag=tolees00-21'
 descuento: '80.20'
 average: '23.76'

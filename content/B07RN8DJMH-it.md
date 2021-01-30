@@ -16,6 +16,7 @@ comparePrice: 17.32 EUR
 prodname: 'Funko- Pop Holiday-Mayor Patty Noble Figura da Collezione  Multicolore  44467'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RN8DJMH/?tag=tolees00-21'
 descuento: '62.12'
 average: '6.56'

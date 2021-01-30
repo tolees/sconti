@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Arteza Pennarelli Acquerello Professionali  Set da 24 Colori Acquerellabili  Punta Flessibile Morbida a Pennello  Facili da Usare  Ideali per Realizzare Schizzi  Disegni  Pitture e Illustrazioni.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N1TNU67/?tag=tolees00-21'
 descuento: '30.88'
 average: '20.73'

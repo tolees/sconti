@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'MMCRRX M.2 Nvme SSD Ultraspeed Adapter Pcie'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0865XHW5M/?tag=tolees00-21'
 descuento: '36.86'
 average: '11.99'

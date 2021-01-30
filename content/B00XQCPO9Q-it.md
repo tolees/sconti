@@ -16,6 +16,7 @@ comparePrice: 2.6 EUR
 prodname: 'Gillette Series Schiuma Da Barba Pelli Sensibili - 200+50 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XQCPO9Q/?tag=tolees00-21'
 descuento: '19.62'
 average: '2.09'

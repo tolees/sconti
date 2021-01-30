@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'TACKLIFE-Cacciavite  cacciavite di precisione 12 in 1 con punte di resistenza industriali intercambiabili  mini set multiutensile TACKLIFE-HSS5B'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZT439VR/?tag=tolees00-21'
 descuento: '58.38'
 average: '11.290000000000001'

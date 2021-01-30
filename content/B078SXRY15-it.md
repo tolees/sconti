@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Union Wharf Lace Oxford  Sneakers Basse Uomo  Nero  Black Canvas   40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078SXRY15/?tag=tolees00-21'
 descuento: '58.54'
 average: '26.95'

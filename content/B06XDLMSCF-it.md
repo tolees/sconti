@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21'
 descuento: '37.43'
 average: '16.8'

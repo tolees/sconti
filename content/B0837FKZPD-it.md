@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Fast & Furious: Crossroads PS4 - PlayStation 4 [versione UK]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0837FKZPD/?tag=tolees00-21'
 descuento: '26.22'
 average: '51.66'

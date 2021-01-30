@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Dardaruga VENTILATORE DIGITALE WFD a Piantana con NEBULIZZATORE ad Acqua  Serbatoio XXL 3 10 Litri  IONIZZATORE ION  ANTIZANZARE Repellente Insetti Vano AROMA Timer Telecomando Oscillazione  ARGENTO '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0797TLSGC/?tag=tolees00-21'
 descuento: '26.67'
 average: '109.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'WesKimed Convertitore digitale a analogico  adattatore audio ottico Toslink coassiale a RCA L/R  3 5 mm  jack digitale a analogico supporto Pcm/lpcm per HDTV Ps3 Ps4 Xbox  HDTV DVD BLU-RayAV'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0892J2MXB/?tag=tolees00-21'
 descuento: '30.02'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 73.0 EUR
 prodname: 'CARACALLA Luxury Edition - Olio Nutriente Rigenerante Viso – Vitamina E e F  Acido Alfa Lipoico  Olio di Rosa Mosqueta–Pelle Sensibile-Trattamento Antietá  Antirughe e Antimacchie–Made in Italy–30 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XX7D4KQ/?tag=tolees00-21'
 descuento: '20.56'
 average: '57.99'

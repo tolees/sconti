@@ -16,6 +16,7 @@ comparePrice: 110.26 EUR
 prodname: 'Riyth Hard Disk 2 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DJ47PXP/?tag=tolees00-21'
 descuento: '41.96'
 average: '63.99'

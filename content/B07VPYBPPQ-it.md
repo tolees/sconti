@@ -16,6 +16,7 @@ comparePrice: 33.18 EUR
 prodname: 'Calvin Klein 3p Trunk Boxer  Blu  Lost Blue/Wild Fern/Raisin Torte WFL   X-Large  Pacco da 3  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VPYBPPQ/?tag=tolees00-21'
 descuento: '24.80'
 average: '24.95'

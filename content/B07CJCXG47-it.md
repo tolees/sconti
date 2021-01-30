@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'L Oréal Paris  Rossetto Matte Liquido Tinta Labbra a Lunga Tenuta  Collezione Les Chocolats  Confezione Singola  868 Cacao Crush'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CJCXG47/?tag=tolees00-21'
 descuento: '54.32'
 average: '6.39'

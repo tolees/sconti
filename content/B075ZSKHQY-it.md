@@ -16,6 +16,7 @@ comparePrice: 319.0 EUR
 prodname: '4Moms MO0170080900  Sdraietta  6.6 kg  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075ZSKHQY/?tag=tolees00-21'
 descuento: '28.78'
 average: '227.18'

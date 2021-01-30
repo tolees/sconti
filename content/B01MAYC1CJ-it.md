@@ -16,6 +16,7 @@ comparePrice: 27.4 EUR
 prodname: 'Red Dead Redemption 2 Xbox One - Xbox One'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MAYC1CJ/?tag=tolees00-21'
 descuento: '17.85'
 average: '22.51'

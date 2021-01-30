@@ -16,6 +16,7 @@ comparePrice: 17.94 EUR
 prodname: 'Calvin Klein Institutional Logo Slim Fit Tee T-Shirt  Giallo  Mimosa Yellow Zhh   42  Taglia Produttore: Medium  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VD3VT93/?tag=tolees00-21'
 descuento: '31.16'
 average: '12.35'

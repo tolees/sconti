@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Atticus Lace  Scarpe Stringate Derby Uomo  Blu  Navy Nubuck -   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21'
 descuento: '50.05'
 average: '54.95'

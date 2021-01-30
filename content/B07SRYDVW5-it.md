@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Lacoste Gripshot 120 2 CMA  Sneaker Uomo  Bianco  Wht/Grn 082   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SRYDVW5/?tag=tolees00-21'
 descuento: '50.06'
 average: '44.95'

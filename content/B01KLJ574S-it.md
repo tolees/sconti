@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'TRENINO THOMAS- Mega  DXH55'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01KLJ574S/?tag=tolees00-21'
 descuento: '62.35'
 average: '12.8'

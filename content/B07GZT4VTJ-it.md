@@ -16,6 +16,7 @@ comparePrice: 27.29 EUR
 prodname: 'Marchio Amazon - MERAKI Blazer Casual Uomo  Grigio  Grey Marl   48  Label: 38'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GZT4VTJ/?tag=tolees00-21'
 descuento: '45.88'
 average: '14.77'

@@ -16,6 +16,7 @@ comparePrice: 47.73 EUR
 prodname: 'Timberland NEWBURYPORT Sacca  38 cm  15 liters  Nero  Black '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07L5NW2S2/?tag=tolees00-21'
 descuento: '19.46'
 average: '49.239999999999995'

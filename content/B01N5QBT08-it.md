@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Hori Volante RWO Racing Wheel Overdrive  Xbox One '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N5QBT08/?tag=tolees00-21'
 descuento: '23.21'
 average: '94.922'

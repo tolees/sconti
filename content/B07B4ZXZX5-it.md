@@ -16,6 +16,7 @@ comparePrice: 155.98 EUR
 prodname: 'Philips 276E9QDSB Monitor Gaming 27" LED IPS Freesync FHD  Wide Ultra Color  4ms  3 Side Frameless  Low Blue Mode  Flicker Free  HDMI  DVI  VGA  Attacco VESA  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B4ZXZX5/?tag=tolees00-21'
 descuento: '16.78'
 average: '129.8'

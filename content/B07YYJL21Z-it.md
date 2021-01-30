@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'SanDisk Ultra Dual Drive Go  Unità USB Flash Type-C  256 GB  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YYJL21Z/?tag=tolees00-21'
 descuento: '37.71'
 average: '37.99'

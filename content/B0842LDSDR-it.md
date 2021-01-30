@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Spigen PocketBoost Caricabatterie Portatile Power Bank 10000 mAh 18W PD 18W e QC 18W Compatibile con iPhone SE 2020 11 PRO Max X XR XS Galaxy S20 S10 Note 20 Ultra 10 9 8 Pixel e Altro Ancora'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0842LDSDR/?tag=tolees00-21'
 descuento: '20.00'
 average: '39.99'

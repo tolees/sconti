@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Crocs Baya Flip  Stivaletti Unisex – Adulto  Blu  Navy   37-38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B005HV2Q0O/?tag=tolees00-21'
 descuento: '15.96'
 average: '16.8'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'ONLYOILY Glitter Powder trucco opaco lucido a prova di sbavatura impermeabile Makeup Palette Professional – Lunga Durata  Palette di Ombretti Shimmer Face Makeup Kit  35 Colori '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082CG4SKF/?tag=tolees00-21'
 descuento: '31.60'
 average: '12.99'

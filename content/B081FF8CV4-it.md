@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'YAMAMAY® Pigiama Lungo Donna - Love'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081FF8CV4/?tag=tolees00-21'
 descuento: '40.00'
 average: '17.97'

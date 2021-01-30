@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con Console Scocca Custodia JoyCon Case Controller Guscio DIY Tasti Colorati Ricambio per Nintendo Switch Sakura Rosa Zampe del Gatto '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08F5B74WK/?tag=tolees00-21'
 descuento: '23.92'
 average: '34.99'

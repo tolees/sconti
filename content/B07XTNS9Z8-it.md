@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'Integratore Completo 4 in 1 per Capelli  Pelle  Unghie e Articolazioni. 90 Caps. Antirughe e Anticaduta  Bellezza Donna e Uomo con Acido Ialuronico  Biotina  Collagene  Vitamina C  Ferro e Zinco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XTNS9Z8/?tag=tolees00-21'
 descuento: '24.32'
 average: '24.9'

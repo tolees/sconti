@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Motorola Moto E6 Play  Display Max Vision HD+ da 5 5"  32GB/2GB RAM  Slot MicroSD  Sensore Fotocamera da 13MP  Android 9.0  Dual SIM  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YP4N7XT/?tag=tolees00-21'
 descuento: '33.41'
 average: '79.9'

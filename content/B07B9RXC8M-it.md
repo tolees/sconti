@@ -16,6 +16,7 @@ comparePrice: 417.99 EUR
 prodname: 'Canon Italia EOS 4000D + EF-S DC III Fotocamera Reflex  Nero  Lunghezza Focale 18-55 mm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B9RXC8M/?tag=tolees00-21'
 descuento: '18.90'
 average: '339.0'

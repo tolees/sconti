@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Havaianas Brasil Logo  Infradito Unisex-Bambini  Giallo  Citrus Yellow 2197   23/24 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B005EFV53C/?tag=tolees00-21'
 descuento: '60.00'
 average: '7.2'

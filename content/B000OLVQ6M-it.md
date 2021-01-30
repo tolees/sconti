@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Converse Chuck Taylor All Star  Sneakers Unisex - Adulto  Bianco  Optical White   45 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000OLVQ6M/?tag=tolees00-21'
 descuento: '45.28'
 average: '38.3'

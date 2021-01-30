@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Napapijri Voyage  Zaino Unisex Adulto  Grau  Dark Grey Solid   32x40x13 cm  B x H T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073D5GTZK/?tag=tolees00-21'
 descuento: '61.82'
 average: '20.75'

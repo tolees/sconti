@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Optima Capelli  Pelle e Unghie 60 Compresse  Taglia Unica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00I8J0CJ4/?tag=tolees00-21'
 descuento: '48.72'
 average: '10.0'

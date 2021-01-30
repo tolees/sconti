@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750-cotu Classic Sneaker  Uomo  Grigio  Full Grey Sage M38   44EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B002WGIY2G/?tag=tolees00-21'
 descuento: '30.64'
 average: '40.92'

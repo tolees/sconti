@@ -16,6 +16,7 @@ comparePrice: 24.97 EUR
 prodname: 'KLIM™ Voice Microfono Desktop USB con Stand per Computer Laptop PC - Microfono Gaming Videogiochi PC PS4 Rosso [ Nouva Versione 2020 ]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015K11VME/?tag=tolees00-21'
 descuento: '19.98'
 average: '19.98'

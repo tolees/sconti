@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'adidas 2018 Borsone  45 cm  25 Liters  Multicolore  Blabas/Negro '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DFLGTKL/?tag=tolees00-21'
 descuento: '20.38'
 average: '35.79'

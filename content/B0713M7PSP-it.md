@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Ashland Metal Cintura  Nero  Regular Black 59   110 Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Levi's'
 buyurl: 'https://www.amazon.it/dp/B0713M7PSP/?tag=tolees00-21'
 descuento: '35.74'
 average: '22.49'

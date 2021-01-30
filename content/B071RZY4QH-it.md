@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Lacoste TH6712 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071RZY4QH/?tag=tolees00-21'
 descuento: '30.89'
 average: '44.92'

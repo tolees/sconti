@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Telecamera Wifi Esterna  INQMEGAPRO 1080P PTZ Dome Telecamera di Sorveglianza Wireless  IP66 Impermeabile Videocamera di Sicurezza  Colorato Visione Notturna  Audio Bidirezionale  Motion Detection'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DRGFTYX/?tag=tolees00-21'
 descuento: '20.00'
 average: '71.99'

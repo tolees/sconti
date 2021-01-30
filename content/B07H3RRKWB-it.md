@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Gillette Mach3 Rasoio Uomo + 7 Lamette di Ricarica Con Lame Forti che durano nel tempo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07H3RRKWB/?tag=tolees00-21'
 descuento: '25.01'
 average: '14.99'

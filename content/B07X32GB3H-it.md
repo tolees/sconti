@@ -16,6 +16,7 @@ comparePrice: 175.95 EUR
 prodname: 'MILLET Extreme RUTOR Shield PT  Pantaloni Uomo  Orion Blue  Blu   M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X32GB3H/?tag=tolees00-21'
 descuento: '30.00'
 average: '123.17'

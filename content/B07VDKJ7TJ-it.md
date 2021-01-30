@@ -16,6 +16,7 @@ comparePrice: 31.77 EUR
 prodname: 'Desigual Bols Black White Coro - Borsa da donna  1 x 40 5 x 36 2 cm  colore: Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VDKJ7TJ/?tag=tolees00-21'
 descuento: '23.86'
 average: '24.19'

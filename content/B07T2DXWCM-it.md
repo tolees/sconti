@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Newport Bay Bumper Toe Oxford Sneaker  Donna  Blu  Vintage Indigo  Tb0a2fjm4321   41.5 EU  8 UK '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T2DXWCM/?tag=tolees00-21'
 descuento: '60.08'
 average: '25.95'

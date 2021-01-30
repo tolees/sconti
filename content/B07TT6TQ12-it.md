@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Motorola One Action  Display CinemaVision 6.3" FHD+  128 GB Espandibili  Tripla fotocamera con Action Cam dedicata  12MP+16MP+5MP   Dual Sim  Android 9 Pie - Blue Denim'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TT6TQ12/?tag=tolees00-21'
 descuento: '53.93'
 average: '129.0'

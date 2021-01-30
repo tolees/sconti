@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'HOMCOM Schermo di Proiezione 100 Pollici Regolabile Ottimo Contrasto Tessuto Metallo 203 x 152 cm Bianco Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07P89TY7X/?tag=tolees00-21'
 descuento: '15.20'
 average: '42.36'

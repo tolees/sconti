@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Core Black'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0813YSHXY/?tag=tolees00-21'
 descuento: '69.20'
 average: '33.87'

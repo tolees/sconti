@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Napapijri Rainforest Pocket  Giacca Uomo  100% Poliammide  Bianco  Bright White 002   2XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079JXXCYB/?tag=tolees00-21'
 descuento: '44.79'
 average: '131.95'

@@ -16,6 +16,7 @@ comparePrice: 300.99 EUR
 prodname: 'Xbox One S - 1TB Bundle Gears of War 5 - Inclusi Gears of War 2  3  4 + 14 Days Live Gold + 1 m Gamepass - Bundle - Xbox One'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VNNFHWX/?tag=tolees00-21'
 descuento: '19.93'
 average: '274.5229787234042'

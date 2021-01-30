@@ -16,6 +16,7 @@ comparePrice: 20.33 EUR
 prodname: 'Assassin s Creed 4 Black Flag - Hits-PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FB17ZK9/?tag=tolees00-21'
 descuento: '31.19'
 average: '13.99'

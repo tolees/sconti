@@ -16,6 +16,7 @@ comparePrice: 100.67 EUR
 prodname: 'Seanshow - Set di 3 trolley in ABS di alta qualità  con lucchetto TSA e ruote  55 cm  68 cm  78 cm  argento  Argento  - SHDE-2099-silver'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X2FVRZ2/?tag=tolees00-21'
 descuento: '27.08'
 average: '73.41'

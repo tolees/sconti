@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'NAPAPIJRI Bishop Fzh Cappuccio  Rosso  Bright Red R471   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VDCJFYL/?tag=tolees00-21'
 descuento: '70.00'
 average: '53.7'

@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK5865'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00FZE1L7W/?tag=tolees00-21'
 descuento: '65.99'
 average: '94.9'

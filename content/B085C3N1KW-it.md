@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'HONOR Smartwatch Magic Watch 2  42mm   Orologio Fitness Tracker Uomo Donna Smart Watch  5 ATM Smart Watch Cardiofrequenzimetro da Polso Pressione Smartband  1.20 Pollice Schermo a Colori Matte Black'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085C3N1KW/?tag=tolees00-21'
 descuento: '20.00'
 average: '159.99'

@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'SanDisk Ultra Scheda di Memoria MicroSDXC e Adattatore  con A1 App Performance  Velocità Fino a 100 MB/Sec  Classe 10  U1   Single Pack  128 GB  Rosso/Grigio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073JYC4XM/?tag=tolees00-21'
 descuento: '59.37'
 average: '21.4'

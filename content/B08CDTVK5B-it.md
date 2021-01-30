@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Lampada Proiettore Stelle  Luce Notturna Bambini con Altoparlante Bluetooth/Modalità USB/Telecomando  Sensore del Ritmo Musicale Timer Multicolore Lampada Notturna Romantic Compleanno Party Regalo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CDTVK5B/?tag=tolees00-21'
 descuento: '50.01'
 average: '39.99'

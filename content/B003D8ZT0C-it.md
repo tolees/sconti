@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Logitech M90 Mouse USB Cablato  1000 DPI  Mouse Ambidestro  Compatibile con PC/Mac/Laptop  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003D8ZT0C/?tag=tolees00-21'
 descuento: '40.04'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 95.5 EUR
 prodname: 'Seagate Expansion  Unità Disco Esterna Portatile da 4 TB - USB 3.0 per PC Desktop  PC Portatili e Mac  STEA4000400 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B017KE8OG0/?tag=tolees00-21'
 descuento: '16.24'
 average: '79.99'

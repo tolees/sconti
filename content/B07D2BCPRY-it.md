@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Android 9.0 TV BOX TaNix 2 GB RAM 16 GB ROM Amlogic Quad-Core S905W 64 Bits CPU Smart TV Box 4K 3D H.265 TV Box BT 4.0 100Mbps LAN Internet Media Player'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D2BCPRY/?tag=tolees00-21'
 descuento: '15.16'
 average: '27.99'

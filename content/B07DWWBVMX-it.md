@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'SIMPLETASTE Schiumalatte Automatico e Scaldalatte  Montalatte Elettrico  Montatore per Schiuma del Latte per Cappuccino  Latte  Caffè e Cioccolata Calda Schiumatore per Latte Automatico'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DWWBVMX/?tag=tolees00-21'
 descuento: '20.00'
 average: '35.19'

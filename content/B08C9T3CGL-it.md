@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con Console Scocca Custodia JoyCon Case Controller Guscio DIY Tasti Colorati Ricambio per Nintendo Switch Trasparente Blu Ghiacciaio '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08C9T3CGL/?tag=tolees00-21'
 descuento: '29.08'
 average: '30.49'

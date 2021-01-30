@@ -16,6 +16,7 @@ comparePrice: 50.9 EUR
 prodname: 'Desigual Borsa Donna bordò Bauletto Bols Rep Julietta Loverty 19WAXPX4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZRQS1SL/?tag=tolees00-21'
 descuento: '21.61'
 average: '47.699999999999996'

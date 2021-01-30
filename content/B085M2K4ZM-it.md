@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Motorola Moto G8 Power Lite  Batteria 5000 mAh  Tripla Fotocamera 16MP  Display MaxVision 6 5"  Processore Octa-Core  Dual SIM  4/64GB Espandibile  Android 9  Cover Inclusa  Blue'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085M2K4ZM/?tag=tolees00-21'
 descuento: '18.42'
 average: '155.0'

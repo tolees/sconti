@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Integratore Acido Ialuronico in Capsule ad Alto Dosaggio 525mg per Pelle  Articolazioni e Ossa  90 Capsule Vegan Puro Acido Ialuronico con 500-700 kDa per Capsula per 3 Mesi di Cura'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VK7Y3CK/?tag=tolees00-21'
 descuento: '19.09'
 average: '16.95'

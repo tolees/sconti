@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'HOMCOM Stendino Asciugabiancheria 3 Livelli Regolabili e Pieghevoli in Altezza 6 Ruote a 360° Tubi in Ferro Rivestiti in Acciaio Inossidabile  a Prova di Ruggine  80-142  x55x178cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00N4OV3QY/?tag=tolees00-21'
 descuento: '20.00'
 average: '43.96'

@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Havaianas Twist  Sandali con Chiusura a T Donna  Beige  Sand Grey 0154   33/34 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SLZKL9Q/?tag=tolees00-21'
 descuento: '35.63'
 average: '15.45'

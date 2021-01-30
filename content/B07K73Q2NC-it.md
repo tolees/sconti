@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Levi s Tank Top Canottiera Sportiva  Bianco  White + 0000   Small Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21'
 descuento: '33.39'
 average: '11.99'

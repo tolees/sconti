@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Zaino Donna  COOFIT Borsa Zainetto Donna Universita Elegante Backpack Ragazze'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RWCJ341/?tag=tolees00-21'
 descuento: '26.93'
 average: '18.99'

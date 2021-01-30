@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core  Sneaker Uomo  Rosso  Red/White Cd2 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RYL4ZGW/?tag=tolees00-21'
 descuento: '39.28'
 average: '48.58'

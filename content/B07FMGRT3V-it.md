@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Hasbro Nerf Super Soaker - Barracuda  Blaster Spruzza Acqua  E2770'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FMGRT3V/?tag=tolees00-21'
 descuento: '33.17'
 average: '13.3'

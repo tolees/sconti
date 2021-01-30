@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Panasonic NN-GD38HSSUG Forno a Microonde  1000 W  23 Litri  Nero  Banda Frontale Silver'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074Y8VV6B/?tag=tolees00-21'
 descuento: '25.00'
 average: '164.99'

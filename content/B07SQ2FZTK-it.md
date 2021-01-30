@@ -16,6 +16,7 @@ comparePrice: 75.38 EUR
 prodname: 'Philips Lighting Hue Go White and Color Ambiance  Lampada Portatile Connessa  Zigbee + Bluetooth  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SQ2FZTK/?tag=tolees00-21'
 descuento: '33.68'
 average: '49.99'

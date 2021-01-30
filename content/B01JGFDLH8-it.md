@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Bourjois Ombretti le Palette les Nude - 4.5 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01JGFDLH8/?tag=tolees00-21'
 descuento: '80.90'
 average: '3.8'

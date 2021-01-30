@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Binocolo 10x22  Kktick Compatto e Portabile Telescopio  Impermeabile Anti-Fog per bird watching  calcio  safari  giro turistico  arrampicata  concerti  sport escursioni  campeggio e viaggi nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TN161QP/?tag=tolees00-21'
 descuento: '34.63'
 average: '16.99'

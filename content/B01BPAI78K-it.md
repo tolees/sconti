@@ -16,6 +16,7 @@ comparePrice: 102.46 EUR
 prodname: 'Boss Profumo - 100 Ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21'
 descuento: '51.01'
 average: '50.2'

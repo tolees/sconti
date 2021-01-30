@@ -16,6 +16,7 @@ comparePrice: 55.39 EUR
 prodname: 'Pentole Agnelli ALMA111B38 Padella Alta per Saltare  Manico Tubolare  Alluminio Professionale  38 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00APXCSDE/?tag=tolees00-21'
 descuento: '23.27'
 average: '42.5'

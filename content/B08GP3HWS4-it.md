@@ -16,6 +16,7 @@ comparePrice: 11.8 EUR
 prodname: 'CLEEFUN - Cavo USB C corto da 0 3 m  confezione da 2 pezzi  in nylon intrecciato da 5 A  compatibile con Samsung Galaxy S10e S10 S10+ S9 S8 S20 Plus Note10  A71 A51 A40 A20E  Moto G8 G7 G6 +'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08GP3HWS4/?tag=tolees00-21'
 descuento: '18.98'
 average: '9.56'

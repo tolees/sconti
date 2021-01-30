@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore Cloud White Ftwr White Orbit Grey  Numeric 44'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0813XL4XS/?tag=tolees00-21'
 descuento: '16.12'
 average: '46.09'

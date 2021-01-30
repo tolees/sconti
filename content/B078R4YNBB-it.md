@@ -16,6 +16,7 @@ comparePrice: 83.84 EUR
 prodname: 'Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Teal Olive 14  44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078R4YNBB/?tag=tolees00-21'
 descuento: '45.13'
 average: '46.0'

@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Francine Down Pckble Jkt Giacca  Nero  Meteorite 0000   Small Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07LFDYTWF/?tag=tolees00-21'
 descuento: '50.78'
 average: '63.99'

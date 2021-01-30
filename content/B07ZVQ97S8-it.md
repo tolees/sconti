@@ -16,6 +16,7 @@ comparePrice: 27.44 EUR
 prodname: 'Levi s Housemark Graphic Tee T-Shirt  Ssnl Hm2 Bianco  Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZVQ97S8/?tag=tolees00-21'
 descuento: '20.15'
 average: '21.91'

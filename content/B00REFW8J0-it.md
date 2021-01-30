@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  Black/Gum   44.5'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00REFW8J0/?tag=tolees00-21'
 descuento: '60.01'
 average: '35.97'

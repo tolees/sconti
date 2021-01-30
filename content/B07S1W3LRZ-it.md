@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core  Sneaker Uomo  Nero  Black/White Ca2 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S1W3LRZ/?tag=tolees00-21'
 descuento: '51.44'
 average: '38.85'

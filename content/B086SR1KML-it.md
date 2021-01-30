@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Asciugacapelli  Slopehill 1800W AC Phon Professionale Ioni Compatto per Viaggio  con Pulsante Caldo/Freddo  3 Temperature/2 Velocità/3 Concentratore e Diffusore  Cavo da 2.5m'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086SR1KML/?tag=tolees00-21'
 descuento: '30.02'
 average: '39.88'

@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Meliconi Vision Line 300 Mobile Porta TV con 3 Ripiani in Vetro Temperato Flat  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B010UH5QJM/?tag=tolees00-21'
 descuento: '25.08'
 average: '119.86'

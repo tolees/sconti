@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Gillette Fusion5 ProGlide Lamette di Ricambio per Rasoio da Uomo con Tecnologia FlexBall  14 Testine'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079X62CKW/?tag=tolees00-21'
 descuento: '30.01'
 average: '34.99'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'adidas Continental 80  Scarpe da Ginnastica Uomo  Bianco  Ftwbla/Escarl/Maruni 000   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K1GYHWN/?tag=tolees00-21'
 descuento: '50.00'
 average: '50.0'

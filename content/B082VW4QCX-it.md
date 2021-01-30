@@ -16,6 +16,7 @@ comparePrice: 257.09 EUR
 prodname: 'Samsung Memorie T7 Touch MU-PC1T0K SSD Esterno Portatile da 1 TB  USB 3.2 Gen 2  10 Gbps  Tipo-C  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082VW4QCX/?tag=tolees00-21'
 descuento: '15.21'
 average: '208.79'

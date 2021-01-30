@@ -16,6 +16,7 @@ comparePrice: 97.0 EUR
 prodname: 'Timberland 6 Inch Premium Waterproof  Stivali Donna  Pelle  Materiale suola: Gomma  Nero  Black Nubuck   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00HEQZ24M/?tag=tolees00-21'
 descuento: '15.35'
 average: '82.11'

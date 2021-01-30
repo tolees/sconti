@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Aigostar York 30RUM - Panini Maker/Griglia elettrica e Sandwich. Piastra antiaderente con apertura fino a 180º piatta. Maniglia antiscottatura  BPA FREE  indicatore luminosa. Potenza fino a 750W'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087RBRFS8/?tag=tolees00-21'
 descuento: '20.01'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 42.49 EUR
 prodname: 'Crocs  Winter Puff Boot K  Stivaletti  Unisex - bambino  Blu  NARD   28/29'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B007PY5RY8/?tag=tolees00-21'
 descuento: '48.34'
 average: '21.95'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Boss Identity T-Shirt RN  Blu  Dark Blue 403   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V1J82XS/?tag=tolees00-21'
 descuento: '57.46'
 average: '19.12'

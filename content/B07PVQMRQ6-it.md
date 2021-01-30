@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'Havaianas Top Mix  Infradito Unisex-Adulto  Nero  Black/Steel Grey/Black 7938   43/44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PVQMRQ6/?tag=tolees00-21'
 descuento: '34.83'
 average: '19.465'

@@ -16,6 +16,7 @@ comparePrice: 9.8 EUR
 prodname: 'Dal Negro-Dal Negro-21043 Ramino Italia  21043'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B011UKF70Q/?tag=tolees00-21'
 descuento: '17.55'
 average: '8.08'

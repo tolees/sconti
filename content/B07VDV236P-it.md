@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'MROTY Italia | Striscia LED RGB  Strisce LED 10mt  Luci LED 5050  300 LED - Decorazioni Interno ed Esterno  qualità e garanzia Italiana - Tecnologia Autunno 2020'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VDV236P/?tag=tolees00-21'
 descuento: '33.34'
 average: '22.99'

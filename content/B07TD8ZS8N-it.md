@@ -16,6 +16,7 @@ comparePrice: 1099.0 EUR
 prodname: 'Samsung TV QE43LS03RAUXZT The Frame 2019 Cornice TV  4K 43"  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TD8ZS8N/?tag=tolees00-21'
 descuento: '49.96'
 average: '504.49'

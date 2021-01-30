@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Sony MDRAS210B Cuffie In-Ear Sportive  Archetti ad Anello Regolabili  Resistenti a Umidità e Spruzzi  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LDKH2PG/?tag=tolees00-21'
 descuento: '50.05'
 average: '9.99'

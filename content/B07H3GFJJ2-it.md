@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HyperX HX-MC004B Pulsefire Core  Mouse Gaming RGB'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07H3GFJJ2/?tag=tolees00-21'
 descuento: '42.51'
 average: '22.99'

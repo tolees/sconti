@@ -16,6 +16,7 @@ comparePrice: 5.25 EUR
 prodname: 'Scottex Balsam Fazzoletti  1 Confezione da 24 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01DO5SYH8/?tag=tolees00-21'
 descuento: '80.57'
 average: '1.02'

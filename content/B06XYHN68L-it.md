@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SanDisk Extreme Pro Scheda di Memoria microSDHC da 32 GB e Adattatore SD con App Performance A1 e Rescue Pro Deluxe  fino a 100 MB/sec  Classe 10  UHS-I  U3  V30'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XYHN68L/?tag=tolees00-21'
 descuento: '20.01'
 average: '15.99'

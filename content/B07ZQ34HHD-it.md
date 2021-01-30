@@ -16,6 +16,7 @@ comparePrice: 49.59 EUR
 prodname: 'Telecamera di Sorveglianza WiFi 1080P Littlelf Telecamera wifi Interno Alexa Videocamera IP Cam Baby Monitor Notifiche in tempo reale del sensore di movimento  Audio Bidirezionale  Visione Notturna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZQ34HHD/?tag=tolees00-21'
 descuento: '20.17'
 average: '39.59'

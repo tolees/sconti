@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'De Longhi XL130.21 Colombina Class Scopa Elettrica con Sacco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075RXN8KM/?tag=tolees00-21'
 descuento: '43.01'
 average: '56.99'

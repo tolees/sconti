@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Calvin Klein CK Adj.Logo Belt 3.5cm Cintura  Nero  Black Leather & Light Gold Buckle 910   8  Taglia Produttore: 100  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QWV47VL/?tag=tolees00-21'
 descuento: '33.27'
 average: '33.3'

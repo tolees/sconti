@@ -16,6 +16,7 @@ comparePrice: 1899.99 EUR
 prodname: 'MacBook 12"  Intel Core i5 dual-core a 1 3GHz  512GB  - Oro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072VSNXD4/?tag=tolees00-21'
 descuento: '20.51'
 average: '1510.37'

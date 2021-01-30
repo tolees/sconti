@@ -16,6 +16,7 @@ comparePrice: 75.2 EUR
 prodname: 'SONGMICS 2 x Sgabelli da Bar e da Cucina in Similpelle Regolabile Girevole con Schienale Nero LJB64B  finta pelle'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00KKFCLF2/?tag=tolees00-21'
 descuento: '16.24'
 average: '62.99'

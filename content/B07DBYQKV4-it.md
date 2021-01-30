@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Flyer Runner  Scarpe da Corsa Unisex-Adulto  Grigio  Gray Violet-White-Peach   40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DBYQKV4/?tag=tolees00-21'
 descuento: '22.86'
 average: '38.53'

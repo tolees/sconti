@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Entweg BT Auricolari 5.0 Batteria Display Auricolare Cuffie Wireless Cuffie Sport Auricolari con Scatola di Ricarica per Sport/Viaggi/Palestra'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DCFTFMN/?tag=tolees00-21'
 descuento: '20.01'
 average: '15.99'

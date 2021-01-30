@@ -16,6 +16,7 @@ comparePrice: 423.88 EUR
 prodname: 'Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV: Netflix  Youtube  Prime/WiFi/Bluetooth/3 HDMI/PC/USB'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085QMPQWS/?tag=tolees00-21'
 descuento: '30.67'
 average: '293.945'

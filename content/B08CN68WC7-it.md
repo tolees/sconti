@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Collio DOC Ribolla Gialla Ronco del Frassino 2019 0 75 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CN68WC7/?tag=tolees00-21'
 descuento: '20.00'
 average: '8.8'

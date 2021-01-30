@@ -16,6 +16,7 @@ comparePrice: 60.41 EUR
 prodname: 'Guess Open Road Luxury Satchel  Handbag Donna  Nero  Uni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081DBJ4LK/?tag=tolees00-21'
 descuento: '15.58'
 average: '51.0'

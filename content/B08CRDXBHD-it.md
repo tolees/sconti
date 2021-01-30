@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Cuffie senza fili per TV  con stazione di ricarica digitale da 2 4 GHz  per TV HiFi DVD  trasmettitore con porta ottica e AUX'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CRDXBHD/?tag=tolees00-21'
 descuento: '30.77'
 average: '89.99'

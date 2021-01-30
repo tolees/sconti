@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s The Perfect Tee  Maglietta  Nero  Caviar 2 0008   M Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077VLKZP6/?tag=tolees00-21'
 descuento: '20.05'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 113.02 EUR
 prodname: 'Hard Disk 2 TB Esterno Hard Disk Esterno 2 5" Ultrasottile HDD per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Blu '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08JYKRK2C/?tag=tolees00-21'
 descuento: '43.38'
 average: '63.99'

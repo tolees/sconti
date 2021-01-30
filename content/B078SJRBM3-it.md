@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Santa Teresa 1796 Rum  Ambrato Scuro  700 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078SJRBM3/?tag=tolees00-21'
 descuento: '30.45'
 average: '29.9'

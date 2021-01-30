@@ -16,6 +16,7 @@ comparePrice: 14.46 EUR
 prodname: 'Russell Hobbs 18780 2fetta/e Grigio tostapane'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B008HQ63LO/?tag=tolees00-21'
 descuento: '35.62'
 average: '9.31'

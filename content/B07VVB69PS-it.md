@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Superstar J  Scarpe da Ginnastica Basse Unisex - Bambini  Bianco  Cloud White/Core Black/Cloud White 000   38 2/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VVB69PS/?tag=tolees00-21'
 descuento: '47.11'
 average: '37.0'

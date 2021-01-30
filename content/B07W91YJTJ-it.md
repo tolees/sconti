@@ -16,6 +16,7 @@ comparePrice: 49.28 EUR
 prodname: 'Tommy Hilfiger Tropical Print Maglietta  Blu  Faded Indigo   L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W91YJTJ/?tag=tolees00-21'
 descuento: '59.52'
 average: '19.95'

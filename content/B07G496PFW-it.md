@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ocean S Eight  4K+Br '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07G496PFW/?tag=tolees00-21'
 descuento: '60.72'
 average: '11.78'

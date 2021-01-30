@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Stan Smith C  Scarpe da Ginnastica Basse Unisex-Bambini  Bianco  Footwear White/footwear White/green   31 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01GUZJE2S/?tag=tolees00-21'
 descuento: '53.85'
 average: '25.36'

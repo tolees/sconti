@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger Stretch V Neck 3 Pack Premium Ess Maglietta  Nero  Black 990   Medium  Pacco da 3  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00K5R9XAQ/?tag=tolees00-21'
 descuento: '50.11'
 average: '22.4'

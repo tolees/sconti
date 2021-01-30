@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Paco Rabanne 1 Million Eau de Toilette  Uomo  50 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B002LSTMB2/?tag=tolees00-21'
 descuento: '31.47'
 average: '47.97'

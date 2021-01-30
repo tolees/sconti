@@ -16,6 +16,7 @@ comparePrice: 17.88 EUR
 prodname: 'Birra Peroni - Cassa da 24 x 33 lattine  cl  7.92 litri '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21'
 descuento: '22.82'
 average: '16.273333333333333'

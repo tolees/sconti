@@ -16,6 +16,7 @@ comparePrice: 279.9 EUR
 prodname: 'Polar Vantage M  Sportwatch per Allenamenti Multisport  Corsa e Nuoto  Impermeabile con GPS e Cardiofrequenzimetro Integrato  46 mm  Unisex – Adulto  Nero  M/L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07G82FHP9/?tag=tolees00-21'
 descuento: '32.15'
 average: '189.9'

@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Havaianas Slim Floral  Infradito Donna  Multicolore  Blue 0031   33/34 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SP4FQKM/?tag=tolees00-21'
 descuento: '28.57'
 average: '20.0'

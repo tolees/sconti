@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Naipo Massaggiatore per Collo e Spalle Shiatsu Elettrico Massaggi per Cervicale  Schiena con Profondo Massaggio Impastante e Funzione di Riscaldamento per Uso Domestico in Ufficio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01CU0CM7G/?tag=tolees00-21'
 descuento: '20.19'
 average: '47.88'

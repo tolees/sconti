@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Housemark Graphic Tee T-Shirt  Bianco  Ssnl HM Camo White 0249   XX-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RYMPKXF/?tag=tolees00-21'
 descuento: '40.04'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'Rimmel London Stay Matte Rossetto Opaco Lunga Durata  Formula Liquida Waterproof No Transfer  820 Heartbeat  5.5 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071KTGH3Z/?tag=tolees00-21'
 descuento: '65.08'
 average: '4.4'

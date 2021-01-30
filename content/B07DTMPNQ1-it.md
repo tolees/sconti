@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DTMPNQ1/?tag=tolees00-21'
 descuento: '42.78'
 average: '25.75'

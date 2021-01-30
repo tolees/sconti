@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Napapijri Rainforest Pocket Giacca Uomo  100% Poliammide  Verde  Green Forest 2 GE3   L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MCSPHWL/?tag=tolees00-21'
 descuento: '61.53'
 average: '91.95'

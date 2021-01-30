@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Oral-B Vitality 100 Spazzolino Elettrico Ricaricabile  1 Manico Nero  1 Testina di Ricambio CrossAction'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DGMWKK9/?tag=tolees00-21'
 descuento: '33.48'
 average: '19.593333333333334'

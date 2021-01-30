@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Fossil Donna Acciaio Inossidabile Orecchini a Pendolo e Goccia Jf03191791  Oro/ rosa'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VPKT19C/?tag=tolees00-21'
 descuento: '51.02'
 average: '24.0'

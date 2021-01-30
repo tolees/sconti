@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Sandisk Cruzer Ultra Pen Drive USB 3.0  128 GB  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00P8XQPY4/?tag=tolees00-21'
 descuento: '62.81'
 average: '20.82'

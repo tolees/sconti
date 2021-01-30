@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Swiffer Kit con 1 Scopa + 8 Panni per Pavimenti e 1 Piumino + 1 Ricambio  Ottimo per Peli di Animali'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01BD7GM00/?tag=tolees00-21'
 descuento: '44.47'
 average: '9.39'

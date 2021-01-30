@@ -16,6 +16,7 @@ comparePrice: 23.4 EUR
 prodname: 'Girmi TR02 Tritatutto  250 W  Plastic  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MQJUAGL/?tag=tolees00-21'
 descuento: '42.31'
 average: '13.5'

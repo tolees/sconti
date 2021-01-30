@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Scholl Velvet Smooth Roll Pedicure Elettrico Professionale per Pelle Secca e Talloni Screpolati  Azzurro  con Cristalli di Diamante'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01BSTV3XY/?tag=tolees00-21'
 descuento: '56.73'
 average: '19.43'

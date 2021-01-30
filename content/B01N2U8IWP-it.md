@@ -16,6 +16,7 @@ comparePrice: 7.56 EUR
 prodname: 'Colussi Gran Turchese Biscotti Gr.400 - [confezione da 4]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N2U8IWP/?tag=tolees00-21'
 descuento: '47.09'
 average: '4.0'

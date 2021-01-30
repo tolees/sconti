@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'ATMOKO Massaggiatore Plantare Impastamento Shiatu Profondo  Massaggiatore Piedi Elettrico con 26 Nodi Massaggianti  Funzione di calore  Ideale per la famiglia  insegnanti  ballerini  lavoratori'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S83K7FG/?tag=tolees00-21'
 descuento: '33.34'
 average: '59.99'

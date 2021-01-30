@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Cavo Micro USB [ 1M - 2Pezzi ] Rampow Trasferimento Dati e Ricarica Rapida  Antigroviglio Nylon  Cavo USB Micro USB Compatibile per Samsung S7/S6  Xiaomi  Huawei - Grigio siderale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01A8IEG2G/?tag=tolees00-21'
 descuento: '24.47'
 average: '6.79'

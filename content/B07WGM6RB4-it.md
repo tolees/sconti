@@ -16,6 +16,7 @@ comparePrice: 209.99 EUR
 prodname: 'TCL TS8011 Soundbar 2.1 canali con subwoofer integrato – Fire TV Edition'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WGM6RB4/?tag=tolees00-21'
 descuento: '53.26'
 average: '160.35666666666668'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'JACK & JONES Sense Trunks 3-Pack Boxer  Multicolore  Burgundy   Small  Pacco da 3  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01HCYRG3K/?tag=tolees00-21'
 descuento: '23.41'
 average: '19.11'

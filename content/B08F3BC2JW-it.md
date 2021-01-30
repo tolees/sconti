@@ -16,6 +16,7 @@ comparePrice: 83.0 EUR
 prodname: 'alvorog Specchio Trucco con Luce LED e Ingrandimento 1x / 5X  Specchio Ingranditore da Trucco con Rotazione a 360 °  Luce Regolabile e Spegnimento Automatico per Bagno  Toletta  Hotel - Cromato'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08F3BC2JW/?tag=tolees00-21'
 descuento: '53.02'
 average: '38.99'

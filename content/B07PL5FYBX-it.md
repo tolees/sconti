@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Scottonelle Carta Igienica Soffice e Trapuntata  Confezione da 48 Rotoli Maxi  12x4 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PL5FYBX/?tag=tolees00-21'
 descuento: '15.40'
 average: '29.6'

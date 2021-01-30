@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Havaianas Slim Tropical  Infradito Donna   Black/Graphite 1164   37/38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D7KC1QP/?tag=tolees00-21'
 descuento: '33.37'
 average: '19.99'

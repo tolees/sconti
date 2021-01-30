@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta  Bianco  Bright White 100   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B016QM56RW/?tag=tolees00-21'
 descuento: '46.94'
 average: '21.361875'

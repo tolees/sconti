@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Lisciani Giochi - Super Laboratorio dei Primi 101 Esperimenti  Multicolore  69330  8 - 12 anni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DDD3FQY/?tag=tolees00-21'
 descuento: '25.94'
 average: '20.866923076923076'

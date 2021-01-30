@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'adidas Urban Rain.RDY  Giacca Sportiva Uomo  Black  M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21'
 descuento: '61.92'
 average: '57.1'

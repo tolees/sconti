@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Wrangler SS Small Logo Tee T-Shirt  Blu  Blue Graphite X15   Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YL6N7G3/?tag=tolees00-21'
 descuento: '36.43'
 average: '15.86'

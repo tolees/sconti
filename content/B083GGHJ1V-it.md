@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'GuliKit Route Air Pro Adattatore audio Bluetooth Trasmettitore Compatibile con Nintendo Switch  Switch Lite  PS4  PC  Cuffie Bluetooth Air pods Bose Sony  con aptX a Bassa Latenza  Chat Vocale in-game'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083GGHJ1V/?tag=tolees00-21'
 descuento: '32.57'
 average: '28.99'

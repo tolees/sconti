@@ -16,6 +16,7 @@ comparePrice: 152.02 EUR
 prodname: 'SanDisk Extreme PRO SSD Portatile 500 GB Resistente e Impermeabile  Velocità di Lettura Fino a 1050 MB/s  USB-C'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TMN4LR7/?tag=tolees00-21'
 descuento: '20.41'
 average: '120.99'

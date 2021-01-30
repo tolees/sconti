@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'YOUNGDO Idropulsore Dentale Professionale da capacità 600ml  Irrigatore Orale con 10 modalità  Irrigatore Dentale con 8 Ugelli di Ricambio per Pulizia Dentale e Igiene Dentale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XT6VQBH/?tag=tolees00-21'
 descuento: '22.00'
 average: '38.99'

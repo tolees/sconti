@@ -16,6 +16,7 @@ comparePrice: 11.69 EUR
 prodname: 'Live From Madison Square Garden'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001V7YWTQ/?tag=tolees00-21'
 descuento: '23.10'
 average: '8.99'

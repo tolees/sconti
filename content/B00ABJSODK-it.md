@@ -16,6 +16,7 @@ comparePrice: 2.01 EUR
 prodname: 'Eridania Zucchero Tropical Bustine Gr500'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ABJSODK/?tag=tolees00-21'
 descuento: '40.80'
 average: '1.19'

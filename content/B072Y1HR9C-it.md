@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Level  Guanto Suburban Uomo  Verde  9.5-XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072Y1HR9C/?tag=tolees00-21'
 descuento: '38.47'
 average: '36.92'

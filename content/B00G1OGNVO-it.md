@@ -16,6 +16,7 @@ comparePrice: 1.94 EUR
 prodname: 'Gran Cereale Biscotti Gran Cereale Classico  Ricchi di Fibra e Fosforo - 500 gr'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00G1OGNVO/?tag=tolees00-21'
 descuento: '21.65'
 average: '1.52'

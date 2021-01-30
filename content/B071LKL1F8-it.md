@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Only Onlsedona Light Coat Otw Noos  Giubbotto Donna  Grigio  42  Taglia Produttore: X-Large '
 country: 'it'
 flag: '🇮🇹'
+brand: 'Only'
 buyurl: 'https://www.amazon.it/dp/B071LKL1F8/?tag=tolees00-21'
 descuento: '44.01'
 average: '23.19'

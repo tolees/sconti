@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Gillette Fusion5 ProGlide 1 Rasoio da Uomo + 5 Lamette  Pacchetto per Casella Postale  con Tecnologia FlexBall'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07H3RRKW9/?tag=tolees00-21'
 descuento: '45.02'
 average: '16.49'

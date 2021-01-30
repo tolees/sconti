@@ -16,6 +16,7 @@ comparePrice: 21.22 EUR
 prodname: 'Eastpak Springer Marsupio portasoldi  23 cm  2 L  Nero  Blackout Whale '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X51FGHF/?tag=tolees00-21'
 descuento: '23.66'
 average: '16.2'

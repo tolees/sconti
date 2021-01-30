@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Tommy Hilfiger 3p Brief Boxer-pacco da 3  Bianco  White 100   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00K5RA2V0/?tag=tolees00-21'
 descuento: '18.13'
 average: '31.03'

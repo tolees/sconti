@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Hard Disk 2 TB Esterno Hard Disk Esterno per PC  Mac  Xbox  Desktop  Laptop  MacBook 2TB Argento '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BHLRYG6/?tag=tolees00-21'
 descuento: '37.38'
 average: '61.99'

@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Clementoni-Baby Gli Animali Tocca e Impara  6+ Mesi  Multicolore  14975'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00TWFYZVY/?tag=tolees00-21'
 descuento: '22.56'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 729.0 EUR
 prodname: 'Microsoft Surface GO 2 8Gb RAM - 128Gb SSD Dual-Core Intel Core M3  Platinum'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BX8YYKT/?tag=tolees00-21'
 descuento: '24.69'
 average: '549.0'

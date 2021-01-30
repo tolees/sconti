@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'SONGMICS Libreria di Tessuto per Bambini  Libreria a 4 Livelli per Cancelleria  Libri e Quaderni  Scaffale per Cameretta  Asilo  Tema Animali e Finitura Acero GKR71YL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CMYXB4T/?tag=tolees00-21'
 descuento: '21.22'
 average: '25.99'

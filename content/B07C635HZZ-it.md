@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Blu  Navy Blazer   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07C635HZZ/?tag=tolees00-21'
 descuento: '40.02'
 average: '14.99'

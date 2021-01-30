@@ -16,6 +16,7 @@ comparePrice: 65.88 EUR
 prodname: 'Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Blu Tan SIL 67  37 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NLQYBXQ/?tag=tolees00-21'
 descuento: '21.07'
 average: '52.0'

@@ -16,6 +16,7 @@ comparePrice: 87.49 EUR
 prodname: 'KingDian 2 5 pollici SATA III 1TB 3D NAND Performance SSD interno'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07H5DHKK2/?tag=tolees00-21'
 descuento: '27.80'
 average: '63.17'

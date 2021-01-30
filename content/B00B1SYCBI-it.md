@@ -16,6 +16,7 @@ comparePrice: 39.89 EUR
 prodname: 'Brandit Savage Vintage Shorts Pantaloncini  Schwarz  M Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00B1SYCBI/?tag=tolees00-21'
 descuento: '25.14'
 average: '29.77'

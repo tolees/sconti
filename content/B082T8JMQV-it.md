@@ -16,6 +16,7 @@ comparePrice: 8.53 EUR
 prodname: 'Big Babol Mega Stick Gomme da Masticare  Chewing Gum Morbido con Succo di Frutta  Gusto Tutti Frutti  Confezione da 8 Stick'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082T8JMQV/?tag=tolees00-21'
 descuento: '20.40'
 average: '6.79'

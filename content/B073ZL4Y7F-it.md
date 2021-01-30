@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Nespresso Essenza Mini De Longhi EN85.R Macchine del Caffe  1370 watt  Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073ZL4Y7F/?tag=tolees00-21'
 descuento: '30.00'
 average: '69.3'

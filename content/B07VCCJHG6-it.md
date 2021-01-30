@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'NAPAPIJRI Rainforest S Pkt 1 Giacca  Turchese  Reef Turquoise I711   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VCCJHG6/?tag=tolees00-21'
 descuento: '64.71'
 average: '70.22'

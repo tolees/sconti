@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Eastpak Tranverz M Valigia  67 cm  78 L  Blu  Triple Denim '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DP764GY/?tag=tolees00-21'
 descuento: '40.03'
 average: '89.95'

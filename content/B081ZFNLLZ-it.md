@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Kimbo Capsule di Caffè Intenso  Compatibile con Nespresso  10 Pacchi da 10 Capsule  Totale 100 Capsule '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081ZFNLLZ/?tag=tolees00-21'
 descuento: '38.16'
 average: '18.49'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Puma Smash V2 Sneaker Unisex - Adulto  Rhubarb/Puma Team Gold/Puma White 29   47 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KG8FCM8/?tag=tolees00-21'
 descuento: '26.31'
 average: '40.49'

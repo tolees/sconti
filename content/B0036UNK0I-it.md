@@ -16,6 +16,7 @@ comparePrice: 399.95 EUR
 prodname: 'ParkTool Supporto Montaggio PRS-25 Team Issue  Blu  Blau   119 x 23 x 23 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0036UNK0I/?tag=tolees00-21'
 descuento: '27.34'
 average: '290.59'

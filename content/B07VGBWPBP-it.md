@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Macchina Sottovuoto per Alimenti Professionale Aobosi 5 in 1 Sigillatrice Sottovuoto Secchi e Umidi Automatico Vacuum Sealer Sigillatore a Vuoto Cibi con 1 Rotolo e Tubo per Casa Uso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VGBWPBP/?tag=tolees00-21'
 descuento: '20.00'
 average: '39.99'

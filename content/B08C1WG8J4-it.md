@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Generico Mascherina Lavabile  2 Pezzi  Nera + Blu Regolabili '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08C1WG8J4/?tag=tolees00-21'
 descuento: '61.51'
 average: '5.0'

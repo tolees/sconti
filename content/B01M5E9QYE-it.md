@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Singer hzb-12/A Macchina per ghiaccioli plastica Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01M5E9QYE/?tag=tolees00-21'
 descuento: '36.40'
 average: '159.0'

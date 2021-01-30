@@ -16,6 +16,7 @@ comparePrice: 22.5 EUR
 prodname: 'Levi s Housemark Graphic Tee T-Shirt  Ssnl HM Outline Python Green  L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084BHKYRV/?tag=tolees00-21'
 descuento: '26.89'
 average: '16.45'

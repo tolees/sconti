@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Batman Begins  4K+Br '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077NZKNN9/?tag=tolees00-21'
 descuento: '49.98'
 average: '13.5'

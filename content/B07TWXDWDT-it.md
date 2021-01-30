@@ -16,6 +16,7 @@ comparePrice: 1315.0 EUR
 prodname: 'Sony FDR-AX53V Kit Videocamera 4K Ultra HD con Sensore CMOS Exmor R + Microfono ECM-G60 + Joby GorillaPod 1K  Ottica Grandangolare Zeiss 26.8 mm  Zoom Ottico 20x  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TWXDWDT/?tag=tolees00-21'
 descuento: '31.63'
 average: '899.0'

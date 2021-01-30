@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Aigostar Diane 32QYD – Asciugacapelli professionale 1800 Watt con 3 temperature e 2 velocità. Protezione surriscaldamento. Maniglia pieghevole ideale per viaggi  salone  uso domestico ecc…'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083B8TB9K/?tag=tolees00-21'
 descuento: '20.01'
 average: '19.99'

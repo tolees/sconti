@@ -16,6 +16,7 @@ comparePrice: 39.97 EUR
 prodname: 'Massaggiatore shiatsu cervicale e collo con calore - massaggiatore spalle impastante per collo  schiena  spalle  piedi  gambe - massaggio elettrico completo del corpo - per la casa e l auto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074S9BJ6B/?tag=tolees00-21'
 descuento: '19.99'
 average: '31.98'

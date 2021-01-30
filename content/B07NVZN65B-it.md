@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Astral Chain - Nintendo Switch'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NVZN65B/?tag=tolees00-21'
 descuento: '20.00'
 average: '47.99'

@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Stefanplast Tom Contenitore salvafreschezza per Cibo per Animali  Verde  46 Litri'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B005QODR4Q/?tag=tolees00-21'
 descuento: '15.46'
 average: '10.99'

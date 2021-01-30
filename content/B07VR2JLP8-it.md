@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Rider  Jeans Slim  Bleu  Lt Vintage Worn Lp   32W / 30L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VR2JLP8/?tag=tolees00-21'
 descuento: '55.00'
 average: '44.98'

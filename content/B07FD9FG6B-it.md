@@ -16,6 +16,7 @@ comparePrice: 310.0 EUR
 prodname: 'Orient Orologio Analogico Automatico Uomo con Cinturino in Gomma FAA02007B9'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FD9FG6B/?tag=tolees00-21'
 descuento: '63.55'
 average: '113.0'

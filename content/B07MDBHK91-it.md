@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Shirt Camicia in Jeans  Nero  Rinsed 082   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MDBHK91/?tag=tolees00-21'
 descuento: '48.14'
 average: '41.46'

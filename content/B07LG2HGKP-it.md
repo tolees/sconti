@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Geox B New Balu  Boy C  Scarpe da Ginnastica Basse Bimbo  Beige  Biscuit C5046   24 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07LG2HGKP/?tag=tolees00-21'
 descuento: '20.94'
 average: '39.45'

@@ -16,6 +16,7 @@ comparePrice: 259.9 EUR
 prodname: 'HoMedics Duo Quartz Epilatore Elettrico con Luce Pulsata e Fluorescente  Trattamento di Rimozione Peli Rapido e Indolore con Sistema di Individuazione Automatico per Viso  Gambe  Ascelle  Inguine'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01D4QAUME/?tag=tolees00-21'
 descuento: '49.98'
 average: '129.99'

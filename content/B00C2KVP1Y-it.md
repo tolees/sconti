@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'Only 15077791/SKINNY SOFT ULTIMATE 201  Jeans donna  Blu  Dark Blue Denim   L/L32  L   Talla produttore: L '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00C2KVP1Y/?tag=tolees00-21'
 descuento: '31.28'
 average: '24.74'

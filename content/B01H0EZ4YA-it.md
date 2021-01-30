@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Skyrim - Special Edition'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01H0EZ4YA/?tag=tolees00-21'
 descuento: '18.46'
 average: '17.93'

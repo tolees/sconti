@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Bianco  White/Silver C0007   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SWT2T1P/?tag=tolees00-21'
 descuento: '62.62'
 average: '42.99'

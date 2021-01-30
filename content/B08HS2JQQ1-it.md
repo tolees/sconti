@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'eXtremeRate Pulsante ABXY D-pad Croci Direzionali Tasti ZR ZL L R Ricambio per Nintendo Switch Pro Controller Joystick Trasparente Blu  con Cacciaviti-NON Include Controller'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HS2JQQ1/?tag=tolees00-21'
 descuento: '47.75'
 average: '11.49'

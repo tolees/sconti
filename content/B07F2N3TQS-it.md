@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'PUMA Cilia  Scarpe da Ginnastica Donna  Nero  Black-Silver-Peach Bud   37 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07F2N3TQS/?tag=tolees00-21'
 descuento: '33.36'
 average: '39.95'

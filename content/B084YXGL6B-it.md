@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'WeciBor Calzini Vestito Arte da Uomo Calze Fantasia Uomo Calze Lunghe in Cotone Calzini Stampato Famose Moda Colorate Divertente Disegni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084YXGL6B/?tag=tolees00-21'
 descuento: '24.01'
 average: '18.99'

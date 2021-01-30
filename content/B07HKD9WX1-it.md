@@ -16,6 +16,7 @@ comparePrice: 82.76 EUR
 prodname: 'National Geographic Multi Colour Stazione meteorologica Radio  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HKD9WX1/?tag=tolees00-21'
 descuento: '31.01'
 average: '57.1'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'LIGHTAILING Set di Luci per  Creator Auto da Corsa  Modello da Costruire - Kit Luce LED Compatibile con Lego 31089  Non Incluso nel Modello '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082MHYHL9/?tag=tolees00-21'
 descuento: '50.02'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Oral-B CrossAction Testine di Ricambio  Confezione da 10 Pezzi  Edizione Nera'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RWMX7YT/?tag=tolees00-21'
 descuento: '44.91'
 average: '27.49'

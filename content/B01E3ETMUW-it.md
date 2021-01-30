@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Maybelline New York Mascara Ciglia Sensazionali  Volumizzante  Effetto Ventaglio sulle Ciglia  Luscious  Confezione da 1'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01E3ETMUW/?tag=tolees00-21'
 descuento: '32.39'
 average: '7.43'

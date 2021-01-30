@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Torcia LED Ricaricabili Due in Uno Torcia Lampada da Scrivania Portatile 3 modalità di illuminazione  carica USB pieghevole  adatto a camera da letto  soggiorno  ufficio  esterno  ecc'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085VYPJ8Z/?tag=tolees00-21'
 descuento: '23.82'
 average: '15.49'

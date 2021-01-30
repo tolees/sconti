@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'LE Lampada Frontale LED da Testa 2 Pezzi   Torcia Frontale Ricaricabile Cavo USB  Impermeabile IPX4  5 Modalità di Illuminazione per Campeggio  Corsa  Jogging  Pesca'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WP37GQZ/?tag=tolees00-21'
 descuento: '16.68'
 average: '14.99'

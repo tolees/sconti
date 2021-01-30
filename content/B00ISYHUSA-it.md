@@ -16,6 +16,7 @@ comparePrice: 38.83 EUR
 prodname: 'Set Accessori Aria Compressa Kit 8 Pneumatic Stanley'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ISYHUSA/?tag=tolees00-21'
 descuento: '25.60'
 average: '28.89'

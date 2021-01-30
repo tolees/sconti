@@ -16,6 +16,7 @@ comparePrice: 305.75 EUR
 prodname: 'STONELINE 10865  Set di Stoviglie in Alluminio con Pentolini  Casseruole  Padella  Padella per Stufati  Padella per Friggere  Casseruola Quadrata'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B008RHZFNA/?tag=tolees00-21'
 descuento: '15.63'
 average: '257.95'

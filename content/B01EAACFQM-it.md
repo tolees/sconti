@@ -16,6 +16,7 @@ comparePrice: 50.04 EUR
 prodname: 'Miele XXL-Pack FJM HyClean 3D Sacchetto per Aspirapolvere'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EAACFQM/?tag=tolees00-21'
 descuento: '20.26'
 average: '39.9'

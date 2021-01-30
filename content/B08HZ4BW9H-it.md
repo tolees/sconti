@@ -16,6 +16,7 @@ comparePrice: 77.02 EUR
 prodname: 'Hard Disk 1 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop  1TB  D oro '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HZ4BW9H/?tag=tolees00-21'
 descuento: '37.69'
 average: '47.99'

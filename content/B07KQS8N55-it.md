@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Vileda Steam XXL Scopa a Vapore  Rosso/Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KQS8N55/?tag=tolees00-21'
 descuento: '25.02'
 average: '89.9'

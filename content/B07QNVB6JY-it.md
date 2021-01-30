@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Set da Bagno o Doccia Donna Regali in 8 Pezzi  Bagnoschiuma  Shampoo Bar  Lozione Corpo  Saponetta  Sali da Bagno  Idee Confezione Regalo Donna Compleanno o Feste-Profumo Lavanda e Miele'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QNVB6JY/?tag=tolees00-21'
 descuento: '42.13'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Jjimarco Jjbowie Sa Noos Pantaloni  Blu  Navy Blazer Navy Blazer   W32/L34  Taglia Produttore: 32  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JP68HW4/?tag=tolees00-21'
 descuento: '74.99'
 average: '10.0'

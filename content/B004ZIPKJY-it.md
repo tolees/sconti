@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Helly Hansen New Driftline Maglia T-Shirt con UPF 30+ e Tessuto Tactel a Maniche Corte  Design Sportivo e Casual  per Sci  Escursionismo  Vela e per Uso Quotidiano   Nero  Nero   2XL  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B004ZIPKJY/?tag=tolees00-21'
 descuento: '44.12'
 average: '33.53'

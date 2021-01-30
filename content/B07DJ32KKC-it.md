@@ -16,6 +16,7 @@ comparePrice: 50.49 EUR
 prodname: 'Set da Ping Pong Set Racchette Ping Pong  2 Racchette Ping Pong 1 Borsa Portatile'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DJ32KKC/?tag=tolees00-21'
 descuento: '46.98'
 average: '26.77'

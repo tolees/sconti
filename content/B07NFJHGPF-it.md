@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Vigorsol Air Action Gomme da Masticare Senza Zucchero Multipack Astuccio  Chewing Gum Gusto Menta  6 Confezioni da 2 Astucci  12 Astucci'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NFJHGPF/?tag=tolees00-21'
 descuento: '21.84'
 average: '13.99'

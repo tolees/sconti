@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s T-Shirt  Multicolore  Authentic Colorblock Tee M.Heather Grey 0001   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TJ9R8C8/?tag=tolees00-21'
 descuento: '50.00'
 average: '17.5'

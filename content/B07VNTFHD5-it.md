@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'WD BLACK P10 Game Drive 5 TB  HDD portatile per accesso in mobilità alla tua library di giochi  Compatibile con console o PC'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VNTFHD5/?tag=tolees00-21'
 descuento: '25.00'
 average: '135.0'

@@ -16,6 +16,7 @@ comparePrice: 114.99 EUR
 prodname: 'Logitech MX Master 3 Mouse Wireless Avanzato  Ricevitore Bluetooth o USB 2.4 GHz  Scorrimento Rapido  4000 DPI Qualsiasi Superficie  Ergonomico  7 Pulsanti  PC/Mac/Laptop/iPadOS  Grigio  Scuro '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W6JG6Z7/?tag=tolees00-21'
 descuento: '33.92'
 average: '75.99'

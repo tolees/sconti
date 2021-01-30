@@ -16,6 +16,7 @@ comparePrice: 33.8 EUR
 prodname: 'Vallejo Model Air - Set di Colori Acrilici per Aerografo  Multicolore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B004O89WXK/?tag=tolees00-21'
 descuento: '21.72'
 average: '26.46'

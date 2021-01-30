@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Rimmel London Confezione Regalo Velvet Revolution Collection  Pochette con Mascara Ultra Volume Scandal Eyes Wow Wings e Matita Occhi Soft Kohl'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X2Y2TQ9/?tag=tolees00-21'
 descuento: '41.52'
 average: '8.35'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Orologio Uomo - Festina F20205-4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N2BJRBJ/?tag=tolees00-21'
 descuento: '46.94'
 average: '57.83'

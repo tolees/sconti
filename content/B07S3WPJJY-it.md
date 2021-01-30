@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Sunset 1 Pkt Slim Camicia  Blu  Alfonso Indigo 0006   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S3WPJJY/?tag=tolees00-21'
 descuento: '50.00'
 average: '35.0'

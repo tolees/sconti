@@ -16,6 +16,7 @@ comparePrice: 889.0 EUR
 prodname: 'Apple iPhone 11  128GB  - Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XS4MGQL/?tag=tolees00-21'
 descuento: '17.32'
 average: '735.0'

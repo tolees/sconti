@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Tommy Hilfiger Th Kids Flag 2p Calze  Multicolore  Middle Grey Melange 758   35-38  Taglia Produttore: 35/38   Pacco da 2  Bambino'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GXRR9QH/?tag=tolees00-21'
 descuento: '40.04'
 average: '5.99'

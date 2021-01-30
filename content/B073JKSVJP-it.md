@@ -16,6 +16,7 @@ comparePrice: 20.59 EUR
 prodname: 'Marchio Amazon - find. Blusa in Velluto con Punto Smock Donna  Nero  Schwarz   44  Label: M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073JKSVJP/?tag=tolees00-21'
 descuento: '62.55'
 average: '7.71'

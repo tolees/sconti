@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Master Lock 8285EURDPRO Catena U  Ottima per Bicicletta  Elettrica  Bici da Corsa  Nero  Large'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000XRQ8UQ/?tag=tolees00-21'
 descuento: '17.44'
 average: '32.94'

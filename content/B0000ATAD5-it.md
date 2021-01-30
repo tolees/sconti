@@ -16,6 +16,7 @@ comparePrice: 31.89 EUR
 prodname: 'D-Link DUB-E100 Adattatore di Rete con Porta USB 2.0 e Porta LAN 10/100 Mbps  Connettore RJ45  Fast Ethernet  Nero e Antracite'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0000ATAD5/?tag=tolees00-21'
 descuento: '28.19'
 average: '22.9'

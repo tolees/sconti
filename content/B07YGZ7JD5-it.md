@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Kingston Canvas Select Plus SDCS2/128GB Scheda microSD Classe 10 con Adattatore SD Incluso  128 GB'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YGZ7JD5/?tag=tolees00-21'
 descuento: '35.19'
 average: '14.9'

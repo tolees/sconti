@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Cuffie Bluetooth Sport Bass+  Mpow Auricolari Bluetooth Sport CVC 6.0  Cuffie Bluetooth Senza Fili 10 Ore di Gioco Cuffie Bluetooth 5.0 In-ear con Qualità Audio HD  IPX7 Impermeabili Correre Fitness'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MPQYDK3/?tag=tolees00-21'
 descuento: '33.34'
 average: '21.99'

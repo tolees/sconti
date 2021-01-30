@@ -16,6 +16,7 @@ comparePrice: 44.47 EUR
 prodname: 'Eastpak OUT OF OFFICE Zaino Casual  44 cm  27 liters  Multicolore  Scribble Local '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KY8TCYN/?tag=tolees00-21'
 descuento: '43.78'
 average: '25.0'

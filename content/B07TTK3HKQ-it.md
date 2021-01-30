@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Wrangler Larston Slim Jeans  Blu  Spaced out 324   27W / 32L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TTK3HKQ/?tag=tolees00-21'
 descuento: '70.63'
 average: '27.655'

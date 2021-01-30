@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Argan Oil - Crema Styling Anticrespo - Trattamento Balsamo Professionale per Capelli Secchi e Crespi con Olio di Argan - Per Pieghe Lisce e Ricce - 125 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D2CKYPF/?tag=tolees00-21'
 descuento: '28.44'
 average: '13.59'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Gimdumasa Occhiali Da Computer Luce Blu Anti Filtro Blue Per UV PC Gaming Uomo Donna GI766  Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0869FYWLL/?tag=tolees00-21'
 descuento: '33.36'
 average: '9.99'

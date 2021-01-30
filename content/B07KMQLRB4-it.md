@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'L Oréal Paris Rossetto Liquido Rouge Signature  Tinta Labbra a Lunga Tenuta  Formula Leggera e Finish Extra Matte  116 I Explore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KMQLRB4/?tag=tolees00-21'
 descuento: '65.43'
 average: '4.49'

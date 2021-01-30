@@ -16,6 +16,7 @@ comparePrice: 15.58 EUR
 prodname: 'Paranoia Airlines'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KWHHFJ9/?tag=tolees00-21'
 descuento: '30.10'
 average: '10.89'

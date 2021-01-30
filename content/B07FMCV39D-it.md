@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Chicco Salviettine Detergenti Multiuso con Placchetta  12 Confezioni da 72 Salviettine'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FMCV39D/?tag=tolees00-21'
 descuento: '24.62'
 average: '15.0'

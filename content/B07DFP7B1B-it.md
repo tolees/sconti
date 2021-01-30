@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'PUMA Rebel Up Hoody FL  Sweatshirt Uomo  Dark Gray Heather  M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DFP7B1B/?tag=tolees00-21'
 descuento: '46.00'
 average: '35.07'

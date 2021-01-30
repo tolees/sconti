@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO La Festa In Piscina Di Andrea Costruzioni Piccole'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KTK94T6/?tag=tolees00-21'
 descuento: '28.19'
 average: '35.9'

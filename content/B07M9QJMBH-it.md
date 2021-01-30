@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Uten Barbecue Griglia a Carbone Professionale per 5-10 Persone  Barbecue Carbone Barbecue Pieghevole per BBQ  Utensile BBQ Grill  Giardino Terrazza Campeggio Picnic'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07M9QJMBH/?tag=tolees00-21'
 descuento: '27.51'
 average: '28.99'

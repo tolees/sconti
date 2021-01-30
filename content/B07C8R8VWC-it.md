@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'AKAI TV AKTV3215 Ethernet Televisore 32 Pollici TV LED HD Soundbar integrata'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07C8R8VWC/?tag=tolees00-21'
 descuento: '26.89'
 average: '131.71764705882353'

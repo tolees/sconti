@@ -16,6 +16,7 @@ comparePrice: 55.57 EUR
 prodname: 'STANLEY 1-93-968 Carrello porta utensili "2 in 1"'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001IBFEZQ/?tag=tolees00-21'
 descuento: '46.19'
 average: '29.9'

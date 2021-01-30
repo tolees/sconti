@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Orient Orologio Analogico Automatico Uomo Unisex con Cinturino in Acciaio Inox RA-AB0019L19B'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QJXMM1W/?tag=tolees00-21'
 descuento: '46.17'
 average: '96.9'

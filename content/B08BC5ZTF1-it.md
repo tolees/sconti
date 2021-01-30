@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'VBIGER Guanti Invernali Caldi per Bambini Guanti da Ciclismo Guanti Sportivi con Silicone Antiscivolo e Funzione Touch Screen per Correre in Bicicletta attività all aperto  8-10 Anni '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BC5ZTF1/?tag=tolees00-21'
 descuento: '33.35'
 average: '13.99'

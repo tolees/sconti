@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Aigostar Lampadina LED E27 6W  Luce Bianca Fredda 6400K 500 Lumen  Mini Globo  Non Dimmerabile  Confezione da 5'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N3LKE17/?tag=tolees00-21'
 descuento: '20.02'
 average: '9.59'

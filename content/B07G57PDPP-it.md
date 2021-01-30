@@ -16,6 +16,7 @@ comparePrice: 5.19 EUR
 prodname: 'Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo  Pacco da 2  Schwarz  Block Check Black / Block Check Black   39 cm  Label: M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07G57PDPP/?tag=tolees00-21'
 descuento: '26.59'
 average: '3.81'

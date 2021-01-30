@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'homcom Panca per Addominali Pieghevole per Allenarsi a Casa  Telaio in Acciaio  Altezza Regolabile  Imbottitura Nera e Rossa 48x135x61-68cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HM5QSZN/?tag=tolees00-21'
 descuento: '20.00'
 average: '39.96'

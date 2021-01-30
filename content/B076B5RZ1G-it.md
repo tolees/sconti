@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Nero  Black Preto   43/44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076B5RZ1G/?tag=tolees00-21'
 descuento: '33.10'
 average: '16.47780487804878'

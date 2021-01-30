@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Cuffie Wireless TV con Trasmissione   Senza Fili Cuffia con Base di Ricarica e Porta 3.5mm AUX'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08GP45TMZ/?tag=tolees00-21'
 descuento: '33.34'
 average: '59.99'

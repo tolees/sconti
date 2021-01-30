@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Xiaomi Trolley Bagaglio a Mano con 8 Ruote  55 cm  20”  Dimensioni Standard per Cabina Aereo  Lucchetto TSA  38 litri  Blu'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07Z5HQ3C9/?tag=tolees00-21'
 descuento: '42.62'
 average: '45.9'

@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Sylvanian Families - 5324 - Pizzeria'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MQ29NSG/?tag=tolees00-21'
 descuento: '15.41'
 average: '33.69903225806451'

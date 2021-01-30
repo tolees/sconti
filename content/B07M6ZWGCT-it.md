@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Clementoni- Baby Garden  Multicolore  17277'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07M6ZWGCT/?tag=tolees00-21'
 descuento: '26.47'
 average: '8.75'

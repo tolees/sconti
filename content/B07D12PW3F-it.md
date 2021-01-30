@@ -16,6 +16,7 @@ comparePrice: 101.99 EUR
 prodname: 'Aigostar Apollo 33LCF - Termoventilatore ceramico PTC  4 modalità di alimentazione per vento caldo e naturale  2200 W  termostato regolabile  oscillazione 70°  controllo elettronico con display a LED'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D12PW3F/?tag=tolees00-21'
 descuento: '19.61'
 average: '81.99'

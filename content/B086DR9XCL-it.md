@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Mcafee Mobile Security With Vpn  1 Dispositivo  1 Anno  Mobile  Codice D Attivazione Via Email'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086DR9XCL/?tag=tolees00-21'
 descuento: '64.98'
 average: '13.99'

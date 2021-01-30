@@ -16,6 +16,7 @@ comparePrice: 77.6 EUR
 prodname: 'Burberry - Eau de Toilette  Volume: 90 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00PVHT6IO/?tag=tolees00-21'
 descuento: '39.45'
 average: '46.99'

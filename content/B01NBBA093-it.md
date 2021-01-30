@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Netgear GS305P Switch Ethernet PoE 5 porte Gigabit  4 porte PoE e budget energetico pari a 55W  switch unmanaged desktop  struttura in metallo senza ventole'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01NBBA093/?tag=tolees00-21'
 descuento: '15.61'
 average: '58.99'

@@ -16,6 +16,7 @@ comparePrice: 44.98 EUR
 prodname: 'adidas Juve H JSY  Maglia Gara Home 2018/2019 Cristiano Ronaldo  Uomo  Bianco  Bianco/Nero   S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K7SRGWN/?tag=tolees00-21'
 descuento: '20.01'
 average: '35.98'

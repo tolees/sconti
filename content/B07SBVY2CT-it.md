@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA ST Runner V2 NL  Scarpe da Ginnastica Unisex-Adulto  Peacoat White/Palace Blue  44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SBVY2CT/?tag=tolees00-21'
 descuento: '23.62'
 average: '41.97'

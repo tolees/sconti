@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212  T-Shirt Polo  Uomo  Blu  Electrique Z7Z   FR 2'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077SH1XHB/?tag=tolees00-21'
 descuento: '40.05'
 average: '56.95'

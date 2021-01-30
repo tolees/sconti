@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'adidas Regista 18  Giacca da Rappresentanza Uomo  Black/White  S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KDFD1ZL/?tag=tolees00-21'
 descuento: '52.57'
 average: '23.69'

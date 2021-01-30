@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'FIFA 20 - Legacy - Nintendo Switch'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21'
 descuento: '60.03'
 average: '19.98'

@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0  Micro Quattro Terzi  per Fotocamere OM-D e PEN  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00N0E1KDE/?tag=tolees00-21'
 descuento: '30.05'
 average: '558.89'

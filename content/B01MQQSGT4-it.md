@@ -16,6 +16,7 @@ comparePrice: 19.25 EUR
 prodname: 'Lower East impermeable Uomo  Blu  Navy   Small'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MQQSGT4/?tag=tolees00-21'
 descuento: '61.56'
 average: '7.4'

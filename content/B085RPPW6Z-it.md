@@ -16,6 +16,7 @@ comparePrice: 269.89 EUR
 prodname: 'Condizionatore Portatile  Raffreddatore d Aria Silenzioso Mobile con Vaschetta del Ghiaccio e Telecomando a Bassa Energia con Ventilatore e Umidificatore Funzione Timer 7 5 ore per Casa e Ufficio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085RPPW6Z/?tag=tolees00-21'
 descuento: '44.64'
 average: '149.4'

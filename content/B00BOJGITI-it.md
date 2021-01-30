@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Burberry Weekend Edp 100 Ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00BOJGITI/?tag=tolees00-21'
 descuento: '55.13'
 average: '35.0'

@@ -16,6 +16,7 @@ comparePrice: 11.27 EUR
 prodname: 'Bollani  S: L Orchestra Del Titanic'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DM1T8L6/?tag=tolees00-21'
 descuento: '23.96'
 average: '9.06'

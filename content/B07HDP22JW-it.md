@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Only Onltia DNM Jacket BB MB Bex02 Noos Giacca in Jeans  Blu  Medium Blue Denim Medium Blue Denim   46  Taglia Produttore: 42  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HDP22JW/?tag=tolees00-21'
 descuento: '45.01'
 average: '21.99'

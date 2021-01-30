@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'MS Windows 10 Pro 32 bit e 64 bit - Chiave di Licenza Originale per Posta e E-Mail + Guida di TPFNet® - Spedizione max. 60min'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084VRFGGP/?tag=tolees00-21'
 descuento: '54.22'
 average: '4.99'

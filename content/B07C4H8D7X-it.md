@@ -16,6 +16,7 @@ comparePrice: 72.9 EUR
 prodname: 'TENS Pulse Stimulator Il massaggiatore EMS elettrostimolatore muscolare professionale che da sollievo dal dolore con 16 modalità 8 elettrodi e 2 canali A/B per la gestione e il trattamento del dolore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07C4H8D7X/?tag=tolees00-21'
 descuento: '27.43'
 average: '52.9'

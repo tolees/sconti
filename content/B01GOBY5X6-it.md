@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Aigostar Acciaio viola 31HGC - Ferro da stiro 2200W&370ML in acciaio inox antiaderente con controllo variabile a vapore. Sistema antigoccia e autopulizia  Design Esclusivo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01GOBY5X6/?tag=tolees00-21'
 descuento: '20.01'
 average: '19.99'

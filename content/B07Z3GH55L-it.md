@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Bidet Portatile  Dalmo DDB01S3 Bidet da Viaggio con 2 ugelli + cappuccio antipolvere  Comodo per il Stoccaggio degli Ugelli  Bidet Personale Portatile con Borsa da Viaggio- 15 2 once  450 ml '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07Z3GH55L/?tag=tolees00-21'
 descuento: '37.52'
 average: '9.99'

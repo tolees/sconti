@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Essential Leather Sneaker  Scarpe da Ginnastica Basse Uomo  Bianco  White 100   44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DJJNSBT/?tag=tolees00-21'
 descuento: '42.24'
 average: '57.7'

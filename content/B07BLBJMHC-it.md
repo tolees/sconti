@@ -16,6 +16,7 @@ comparePrice: 3.89 EUR
 prodname: 'Fanta Original 660 ml - 4 bottiglie PET riciclabile'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BLBJMHC/?tag=tolees00-21'
 descuento: '16.45'
 average: '3.25'

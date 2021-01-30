@@ -16,6 +16,7 @@ comparePrice: 5.39 EUR
 prodname: 'Rio Mare  Insalatissime Delizia di Mais e Tonno Pinne Gialle con Piselli  Carote e Olive  Senza Conservanti  2 Lattine da 160 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081DFCHJK/?tag=tolees00-21'
 descuento: '25.97'
 average: '3.89'

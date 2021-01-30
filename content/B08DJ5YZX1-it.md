@@ -16,6 +16,7 @@ comparePrice: 10.36 EUR
 prodname: 'Ferilinso Bracciale 8 Pezzi Cinturini per Xiaomi Mi Band 4C + 4 Pack Proteggi Schermo  Cinturino in Silicone Bracciale Sostituzione allungabile Compatibile con Mi Band 4C'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DJ5YZX1/?tag=tolees00-21'
 descuento: '22.88'
 average: '7.99'

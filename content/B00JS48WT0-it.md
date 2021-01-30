@@ -16,6 +16,7 @@ comparePrice: 32.18 EUR
 prodname: 'APLI 13580-Feltro nero A4 10 fogli'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00JS48WT0/?tag=tolees00-21'
 descuento: '59.04'
 average: '19.668571428571425'

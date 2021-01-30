@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: '【2020 Ultimo Modello】Arbily Cuffie Bluetooth in Ear  Auricolari Bluetooth Senza Fili con Bassi Intensi  con Display Digitale LED  Accoppiamento Automatico  140 Ore Di Riproduzione  IPX7 BT5.0'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WZZHW66/?tag=tolees00-21'
 descuento: '20.01'
 average: '31.99'

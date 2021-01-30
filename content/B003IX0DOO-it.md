@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Wenko Portarotolo di Riserva a Parete O Indipendente per 3 Rotoli  Acciaio  14 x 32 x 13 5 cm  Cromo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003IX0DOO/?tag=tolees00-21'
 descuento: '17.51'
 average: '9.89'

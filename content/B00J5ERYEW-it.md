@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'De Longhi EDG 250.W Macchina per caffè Espresso e Altre Bevande in Capsula  1500 W  0.8 Litri  Acciaio Inox e plastica  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00J5ERYEW/?tag=tolees00-21'
 descuento: '49.45'
 average: '44.99'

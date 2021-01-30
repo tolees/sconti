@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Forza Horizon 4 Edizione Standard  Pegi 3  Xbox One  4K UKTRA HD  HDR  Microsoft'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DMDRXGD/?tag=tolees00-21'
 descuento: '41.43'
 average: '41.845'

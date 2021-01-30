@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'SanDisk Ultra Fit Unità Flash  USB 3.1 da 512 GB con Velocità fino a 130 MB/sec Tradizionale Nero 512 GB'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083ZS4HYD/?tag=tolees00-21'
 descuento: '47.20'
 average: '65.99'

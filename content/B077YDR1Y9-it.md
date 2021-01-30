@@ -16,6 +16,7 @@ comparePrice: 273.48 EUR
 prodname: 'Accurist Orologio Analogico-Digitale Quarzo Uomo con Cinturino in Pelle 7101.01'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077YDR1Y9/?tag=tolees00-21'
 descuento: '69.93'
 average: '82.23'

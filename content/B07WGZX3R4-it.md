@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LIEBE721 Giacche Giacca Donna Manica Lunga Cardigan Eleganti Invernale Autunno Taglie Forti Caldo Antivento Leggero Capispalla Giubbotti Giubbino'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WGZX3R4/?tag=tolees00-21'
 descuento: '56.68'
 average: '25.99'

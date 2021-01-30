@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Mpow H10 Cuffie Noise Cancelling Attiva ANC   Autonomia 30 Ore  Pliable Cuffie Over-Ear Con Hi-Fi Bassi Profondi  Microfono Incorporato CVC6.0 Cuffie Wireless Per Cellullari/PC/TV'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087PYXFSC/?tag=tolees00-21'
 descuento: '16.67'
 average: '49.99'

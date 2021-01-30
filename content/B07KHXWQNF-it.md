@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Birkenstock Arizona  Sandali a Punta Aperta Donna  Beige Electric Metallic Taupe  36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KHXWQNF/?tag=tolees00-21'
 descuento: '19.80'
 average: '60.15'

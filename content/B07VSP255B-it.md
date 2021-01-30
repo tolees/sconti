@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Bonio 360° Girevole Seggiolino Auto ISOFIX Gruppo 0+/1/2/3  0-36 kg  con UPF50+ Capotta Parasole  Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VSP255B/?tag=tolees00-21'
 descuento: '37.13'
 average: '187.99'

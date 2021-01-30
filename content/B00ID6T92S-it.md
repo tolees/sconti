@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Emporio Armani Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile AR2473'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ID6T92S/?tag=tolees00-21'
 descuento: '51.20'
 average: '147.23333333333335'

@@ -16,6 +16,7 @@ comparePrice: 20.28 EUR
 prodname: 'Colgate Dentifricio Tripla Azione - Pacco da 12 x 75 ml - Totale: 900 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074F19CYR/?tag=tolees00-21'
 descuento: '57.40'
 average: '8.79'

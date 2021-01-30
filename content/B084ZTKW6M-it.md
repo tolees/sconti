@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Kit 3x Durex Pleasuremax Preservativi Stimolanti con Nervature  36 Profilattici'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084ZTKW6M/?tag=tolees00-21'
 descuento: '25.00'
 average: '24.0'

@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Inglesina AA30L6MAR System Zippy Pro Sistema Trio 3 in 1 con Carrozzina  Passeggino  Seggiolino Auto  Telaio e Borsa da 0 a 15 Kg  Marina'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07N7CL5M9/?tag=tolees00-21'
 descuento: '18.94'
 average: '445.0'

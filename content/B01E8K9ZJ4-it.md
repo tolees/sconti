@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Ayotu Custodia in Pelle PU per Kindle Paperwhite-Custodia impermeabile dipinta per svegliarsi/dormire automaticamente solo per Kindle Paperwhite 10ªgen-modello 2018  Il ragazzo e la volpe'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01E8K9ZJ4/?tag=tolees00-21'
 descuento: '65.23'
 average: '15.99'

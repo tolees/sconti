@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Lampada Solare Campeggio Lanterne  USB Ricaricabile LED Lanterna  IPX7 Impermeabile 4 Modalità di Luminosità di Emergenza Esterna per Lampada LED per Casetta da Campeggio  Escursionismo 4 pezzi '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VRSQTV5/?tag=tolees00-21'
 descuento: '46.26'
 average: '42.99'

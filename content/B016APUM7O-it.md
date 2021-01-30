@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko- Disney Toy Story-Woody Figurina in Vinile  Multicolore  6877'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B016APUM7O/?tag=tolees00-21'
 descuento: '18.36'
 average: '12.98'

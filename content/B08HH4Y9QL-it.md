@@ -16,6 +16,7 @@ comparePrice: 53.29 EUR
 prodname: 'YUES Controller per PS4  DUALSHOCK 4 Wireless Controller per Playstation 4/Pro/Slim/3/PC e Laptop. Gamepad con Pannello Tattile a Doppia Vibrazione e Funzione Audio e Barra Luminosa  Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HH4Y9QL/?tag=tolees00-21'
 descuento: '43.72'
 average: '29.99'

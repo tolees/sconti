@@ -16,6 +16,7 @@ comparePrice: 9.14 EUR
 prodname: 'NIVEA Sun Protect & Hydrate Latte Solare Idratante FP20  Protezione Media  200ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00Y88SRFU/?tag=tolees00-21'
 descuento: '37.53'
 average: '5.71'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Pecute Spazzola Autopulente per Cani Gatti Conigli per Eliminare Pelo Superfluo Morto e Sottopelo  Prevenire la Perdita  Riduce 90% della Perdita dei Peli'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01KMB5XPS/?tag=tolees00-21'
 descuento: '19.66'
 average: '13.65'

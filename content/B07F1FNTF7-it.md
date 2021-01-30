@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Havaianas Slim Animals  Infradito Donna   White/Coralnew 6577   35/36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07F1FNTF7/?tag=tolees00-21'
 descuento: '21.36'
 average: '22.02'

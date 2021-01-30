@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Silicone DZ4483'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07C8CSJJ5/?tag=tolees00-21'
 descuento: '61.20'
 average: '84.97'

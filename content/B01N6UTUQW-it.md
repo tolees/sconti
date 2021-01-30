@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Sully  4K + Br + Dig.Copy '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21'
 descuento: '54.98'
 average: '13.5'

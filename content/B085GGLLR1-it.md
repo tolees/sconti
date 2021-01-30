@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'HUAWEI WATCH GT 2e Smartwatch  1.39" AMOLED HD Touchscreen  GPS e GLONASS  Auto Rileva 6 Sport  Tracking di 15 Sport Diversi  VO2Max  Battito Cardiaco in Tempo Reale  Nero  Graphite Black '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085GGLLR1/?tag=tolees00-21'
 descuento: '18.32'
 average: '138.78'

@@ -16,6 +16,7 @@ comparePrice: 76.95 EUR
 prodname: 'homcom Panca Fitness Esercizi Allenamento Regolabile da Palestra Acciaio  Eva 56.5 x 135 cm Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S8DL4SL/?tag=tolees00-21'
 descuento: '20.00'
 average: '61.56'

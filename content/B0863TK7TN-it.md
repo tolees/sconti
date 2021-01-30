@@ -16,6 +16,7 @@ comparePrice: 1229.0 EUR
 prodname: 'Apple MacBook Air  13"  Processore Intel Core i3 dual‑core di decimo generazione a 1 1GHz  8GB RAM  256GB  - Oro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0863TK7TN/?tag=tolees00-21'
 descuento: '20.34'
 average: '979.0'

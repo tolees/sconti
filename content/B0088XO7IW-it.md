@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Frisk Peppermint Caramelle al Gusto Menta  Senza Zucchero e Senza Glutine  Confezione da 12 Astucci in Metallo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0088XO7IW/?tag=tolees00-21'
 descuento: '25.04'
 average: '17.99'

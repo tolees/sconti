@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'MPOW S16 Auricolari Wireless Sport 12H Playtime  Cuffie Bluetooth Magnetici impermeabili IPX7 con Bassi Stereo HD  Microfono Incorporato  Auricolari wireless Bluetooth 5.0 per IOS  Android'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081D42QHY/?tag=tolees00-21'
 descuento: '20.01'
 average: '21.59'

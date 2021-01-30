@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4778'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00B4VRFM0/?tag=tolees00-21'
 descuento: '51.89'
 average: '109.32'

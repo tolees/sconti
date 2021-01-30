@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Oral-B 052722 Testina per Spazzolino'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00KBWC2I0/?tag=tolees00-21'
 descuento: '52.02'
 average: '11.99'

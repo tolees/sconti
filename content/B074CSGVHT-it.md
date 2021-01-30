@@ -16,6 +16,7 @@ comparePrice: 280.0 EUR
 prodname: 'Orient Orologio Analogico Automatico Uomo con Cinturino in Pelle FAC00004B0'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074CSGVHT/?tag=tolees00-21'
 descuento: '61.43'
 average: '108.0'

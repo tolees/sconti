@@ -16,6 +16,7 @@ comparePrice: 34.97 EUR
 prodname: '72 Matite Colorate  Numerato  con Scatola in Metallo da Zenacolor - 72 Colori Unici per Disegnare e Libri da Colorare Adulti - Facile Accesso con 3 Vassoi - Regalo Ideale per Artisti  Adulti e Bambini'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0773V1LRK/?tag=tolees00-21'
 descuento: '42.89'
 average: '19.97'

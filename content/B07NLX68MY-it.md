@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Revolution 5  Scarpe da Corsa Mens  Black/White-Anthracite  39 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NLX68MY/?tag=tolees00-21'
 descuento: '26.36'
 average: '40.5'

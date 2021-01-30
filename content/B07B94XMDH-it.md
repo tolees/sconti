@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Oakland Lace  Scarpe Stringate Derby Uomo  Marrone  Dark Brown Leather-   43 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B94XMDH/?tag=tolees00-21'
 descuento: '50.00'
 average: '55.0'

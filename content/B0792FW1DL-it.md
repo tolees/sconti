@@ -16,6 +16,7 @@ comparePrice: 38.0 EUR
 prodname: 'Diesel UMBX-DAMIENTHREEPACK  Slip Uomo  Multicolore  Bright White/Chinese Red/Black E4119-0Jkkc   L  Pacco da 3'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0792FW1DL/?tag=tolees00-21'
 descuento: '21.63'
 average: '27.984'

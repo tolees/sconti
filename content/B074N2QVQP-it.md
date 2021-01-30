@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Tagvo Kit attrezzi per bici  16 in 1 attrezzo multifunzione da bici con kit di patch e leve del pneumatico  kit di attrezzi per riparazione della bicicletta  kit di attrezzi per la riparazione di bici'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074N2QVQP/?tag=tolees00-21'
 descuento: '15.04'
 average: '14.86'

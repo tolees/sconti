@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Samsung Galaxy Buds 2019 Auricolari Wireless  Bluetooth5.0  Bianco  White  [Versione Italiana]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PB121XL/?tag=tolees00-21'
 descuento: '39.66'
 average: '89.9'

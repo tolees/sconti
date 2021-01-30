@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Peugeot Tahiti  Set macina Sale e macina Pepe  20 cm  Colore: Bianco/Nero [Importato da Regno Unito]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001AXRHKW/?tag=tolees00-21'
 descuento: '20.42'
 average: '46.87'

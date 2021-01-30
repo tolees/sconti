@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Diesel UMBX-SHAWNTHREEPACK  Slip Uomo  Multicolore  Black/Racing Red/Blue Depths E5066-0pawe   S  Pacco da 3'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RT6X4Z2/?tag=tolees00-21'
 descuento: '66.85'
 average: '13.26'

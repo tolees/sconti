@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Wrangler SS Sign off Tee T-Shirt  Verde  Peacock Green 382   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TXXGDJL/?tag=tolees00-21'
 descuento: '49.98'
 average: '12.48'

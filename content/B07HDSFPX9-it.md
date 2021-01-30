@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Libenar Soluzione Fisiologica  Flaconcini Isotonici Monodose per una Profonda Detersione del Naso e degli Occhi  Ottimo per Bambini e Neonati  60 Flaconcini da 5 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HDSFPX9/?tag=tolees00-21'
 descuento: '54.75'
 average: '4.48'

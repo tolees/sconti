@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'ARMANI EXCHANGE Icon Project Felpa  Nero  Black 1200   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KMKHM4Y/?tag=tolees00-21'
 descuento: '41.72'
 average: '52.45'

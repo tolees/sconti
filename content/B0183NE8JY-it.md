@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Jivo Technology-Kit di parti GoGear Xtra-Spare per GoPro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0183NE8JY/?tag=tolees00-21'
 descuento: '40.04'
 average: '5.99'

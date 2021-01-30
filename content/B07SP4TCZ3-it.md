@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Havaianas Slim Animals  Infradito Donna  Multicolore  White/Shocking Pink/Shocking Pink 7808   39/40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SP4TCZ3/?tag=tolees00-21'
 descuento: '51.82'
 average: '13.49'

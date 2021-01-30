@@ -16,6 +16,7 @@ comparePrice: 12.3 EUR
 prodname: 'Funko- Pop Bobble in Vinile Marvel: Holiday-Deadpool Figura da Collezione  Multicolore  43337'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QBQN6R6/?tag=tolees00-21'
 descuento: '18.78'
 average: '9.99'

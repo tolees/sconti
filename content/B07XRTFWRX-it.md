@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'CARPISA® Borsa shopper tracolla interscambiabile - Jinger'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XRTFWRX/?tag=tolees00-21'
 descuento: '49.99'
 average: '19.98'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Argento '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08D63K7FN/?tag=tolees00-21'
 descuento: '35.36'
 average: '63.99'

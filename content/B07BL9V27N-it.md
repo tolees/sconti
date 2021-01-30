@@ -16,6 +16,7 @@ comparePrice: 17.01 EUR
 prodname: 'FRANCK PROVOST Expert Protection Cura professionale 230°C 300 ml – Set di 2'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BL9V27N/?tag=tolees00-21'
 descuento: '43.86'
 average: '9.55'

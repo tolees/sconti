@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Gioco impilabile in legno Torre traballante Pisa Tower Building Blocks Gioco Domino 4 in1 Giocattoli di apprendimento Montessori Gioco per famiglie Giochi di Natale per bambini e adulti con custodia'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZP3HKGW/?tag=tolees00-21'
 descuento: '32.51'
 average: '26.99'

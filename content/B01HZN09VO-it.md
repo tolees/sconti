@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Dragon Ball Xenoverse 2 - Xbox One'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01HZN09VO/?tag=tolees00-21'
 descuento: '30.04'
 average: '20.98'

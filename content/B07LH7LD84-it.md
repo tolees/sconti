@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'The North Face M TBL Sport HD  Piumino Uomo  Rosso  Salsa Red/Tnf Black   M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07LH7LD84/?tag=tolees00-21'
 descuento: '36.41'
 average: '133.54'

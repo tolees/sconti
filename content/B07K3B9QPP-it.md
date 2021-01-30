@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'homcom Carrello per Bicicletta Rimorchio Cargo Bici Trasporto di Oggetti Pieghevole Portata 36kg 156x72x82cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K3B9QPP/?tag=tolees00-21'
 descuento: '20.00'
 average: '87.96'

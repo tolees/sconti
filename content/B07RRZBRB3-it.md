@@ -16,6 +16,7 @@ comparePrice: 319.0 EUR
 prodname: 'Oral-B Genius X Luxe Edition Spazzolino Elettrico Ricaricabile  1 Spazzolino Premium Nero con Intelligenza Artificiale  4 Testine di Ricambio  1 Custodia da Viaggio con Caricatore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RRZBRB3/?tag=tolees00-21'
 descuento: '52.98'
 average: '149.99'

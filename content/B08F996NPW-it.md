@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'ANKEWAY Android 9.1 Autoradio 2 Din GPS Navigation 7 Pollici 1080P HD Touch Screen Multimedia Car Player  1G/16G +Internet WiFi+Chiamata Vivavoce Bluetooth+Telecamera Posteriore+Mirror Link'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08F996NPW/?tag=tolees00-21'
 descuento: '29.23'
 average: '91.99'

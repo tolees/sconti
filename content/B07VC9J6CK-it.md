@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'YAMAMAY® Triangolo - Nicely'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VC9J6CK/?tag=tolees00-21'
 descuento: '40.00'
 average: '10.77'

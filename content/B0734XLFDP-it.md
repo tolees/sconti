@@ -16,6 +16,7 @@ comparePrice: 2.75 EUR
 prodname: 'Guanti usa e getta  in plastica  100 pezzi  per uso alimentare  trasparenti  taglia L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21'
 descuento: '29.09'
 average: '1.95'

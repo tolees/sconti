@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Adidas Parma 16 SHO  Pantaloncini Uomo  Giallo  Yellow/Black   Large'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B016QAKTXK/?tag=tolees00-21'
 descuento: '22.33'
 average: '13.98'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Aicok Sacchetti per Sottovuoto Alimenti  Sottovuoto Sacchetti Rotoli  2 Rotoli Goffrati 28 x 500 Cm per la Conservazione Sottovuoto Alimenti  Adatto a tutte le Macchina Sottovuoto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076VHDHQ4/?tag=tolees00-21'
 descuento: '50.03'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 91.05 EUR
 prodname: 'Candy CMG2071DS Microonde 20L  700W  Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00CIUC5IU/?tag=tolees00-21'
 descuento: '28.62'
 average: '64.99'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Pinypon Famosa Casa delle Favole  700012406'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00Z6YGB94/?tag=tolees00-21'
 descuento: '26.07'
 average: '39.83'

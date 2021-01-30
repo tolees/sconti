@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Lacoste Th2038 T-Shirt  Verde  Aucuba Xzd   Large  Taglia Unica: 5  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07THFZJ5T/?tag=tolees00-21'
 descuento: '30.11'
 average: '27.25'

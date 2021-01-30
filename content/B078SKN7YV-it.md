@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Diesel Orologio Cronografo Da Uomo Quarzo Con Cinturino In Acciaio Inossidabile Dz4477'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078SKN7YV/?tag=tolees00-21'
 descuento: '48.81'
 average: '132.59'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Anjou Trucco Ricaricabile  Luce LED Touchscreen Regolabile con Specchio Magnetico 5X Rimovibile  Rotazione a 120° per Cosmesi Makeup su Piano di Lavoro  Bianco   s'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077CZRZWG/?tag=tolees00-21'
 descuento: '37.51'
 average: '27.99'

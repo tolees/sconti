@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Jungle Formula Molto Forte Spray Anti-Zanzare  Repellente per Insetti con Azione Protettiva Duratura  9 Ore di Protezione  75 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01M64XEO4/?tag=tolees00-21'
 descuento: '59.53'
 average: '5.22'

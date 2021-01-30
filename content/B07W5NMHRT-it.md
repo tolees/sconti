@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'TQGOLD Scarpe Antinfortunistica Uomo Donna S3 Estive Scarpe da Lavoro con Punta in Acciaio Super Leggere（Nero，Taglia 39）'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W5NMHRT/?tag=tolees00-21'
 descuento: '36.17'
 average: '24.25'

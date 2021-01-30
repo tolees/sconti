@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Pyrex Essentials Tegame Rettangolare  40x27cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000TARBDU/?tag=tolees00-21'
 descuento: '43.81'
 average: '8.99'

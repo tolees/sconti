@@ -16,6 +16,7 @@ comparePrice: 71.0 EUR
 prodname: 'Nike Dri-Fit Strike  Felpa con Cappuccio E Zip A Tutta Lunghezza Uomo  Black/Black/Black/Black  2XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081PFZCCF/?tag=tolees00-21'
 descuento: '59.20'
 average: '28.97'

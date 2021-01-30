@@ -16,6 +16,7 @@ comparePrice: 11.42 EUR
 prodname: 'Rimmel London Match Perfection Foundation  Fondotinta Liquido Pelle Ottima e Levigata a Lunga Tenuta  con SPF 20  200 Soft Beige  30 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015CMHHWE/?tag=tolees00-21'
 descuento: '49.21'
 average: '5.8'

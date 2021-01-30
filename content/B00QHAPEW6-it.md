@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Under Armour ColdGear Armour Mock  Maglia Uomo  Blanco  White   M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00QHAPEW6/?tag=tolees00-21'
 descuento: '71.09'
 average: '15.9'

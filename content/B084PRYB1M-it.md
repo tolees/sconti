@@ -16,6 +16,7 @@ comparePrice: 7.11 EUR
 prodname: 'Autan Botanicals Vapo  Insetto Repellente e Antizanzare a Base di Olio di Eucalipto  1 Confezione da 100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084PRYB1M/?tag=tolees00-21'
 descuento: '36.85'
 average: '4.49'

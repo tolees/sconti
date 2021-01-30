@@ -16,6 +16,7 @@ comparePrice: 50.82 EUR
 prodname: 'Just Dance 2020 - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21'
 descuento: '50.85'
 average: '24.98'

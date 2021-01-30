@@ -16,6 +16,7 @@ comparePrice: 29.44 EUR
 prodname: 'Neewer 8” Luce LED Anulare da Selfie con Treppiedi  3 Attacchi Coldshoe  2 Supporti Clip per Smartphone  Telecomando  3 Modalità  10 Luminosità  per Truccatura  YouTube/TikTok  Streaming ecc.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089NN4WF5/?tag=tolees00-21'
 descuento: '23.61'
 average: '22.49'

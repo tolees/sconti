@@ -16,6 +16,7 @@ comparePrice: 990.0 EUR
 prodname: 'Nikon D5600 + AF-S DX NIKKOR 18-105 mm VR  Fotocamera Reflex Digitale  24.2 Megapixel  LCD Touchscreen 3"  Bluetooth  SD 8 GB 300x Premium Lexar  Nero [Nital Card: 4 Anni di Garanzia]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N1MMH3I/?tag=tolees00-21'
 descuento: '24.34'
 average: '749.0'

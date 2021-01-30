@@ -16,6 +16,7 @@ comparePrice: 23.2 EUR
 prodname: 'Distillerie Nonino  Grappa Nonino Vendemmia Riserva 18 mesi- bottiglia da 700 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079D9HZK4/?tag=tolees00-21'
 descuento: '20.00'
 average: '18.56'

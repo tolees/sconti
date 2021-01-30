@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Imetec ZeroCalc Ferro da Stiro Z1 2500  Tecnologia Anticalcare  Piastra Inox 2200W  Colpo Vapore 120 g  Tecnologia a Risparmio Energetico'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CKY9SNZ/?tag=tolees00-21'
 descuento: '33.31'
 average: '20.0'

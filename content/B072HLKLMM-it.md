@@ -16,6 +16,7 @@ comparePrice: 3.85 EUR
 prodname: 'Vape Piastrine Verdessenza  Protezione contro le Zanzare con Componenti di Origine Vegetale  20 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072HLKLMM/?tag=tolees00-21'
 descuento: '49.09'
 average: '1.96'

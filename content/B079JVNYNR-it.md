@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Rosso  Red Bourgogne R69   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079JVNYNR/?tag=tolees00-21'
 descuento: '51.50'
 average: '101.435'

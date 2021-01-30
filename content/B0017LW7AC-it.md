@@ -16,6 +16,7 @@ comparePrice: 76.82 EUR
 prodname: 'Guerlain Habit Rouge 21867 Acqua di Colonia spray 100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0017LW7AC/?tag=tolees00-21'
 descuento: '38.22'
 average: '47.46'

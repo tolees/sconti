@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ori And The Will of The Wisps - Xbox One'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084GSDP33/?tag=tolees00-21'
 descuento: '33.34'
 average: '19.99'

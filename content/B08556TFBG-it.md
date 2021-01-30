@@ -16,6 +16,7 @@ comparePrice: 23.96 EUR
 prodname: 'Spirits In The Forest'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08556TFBG/?tag=tolees00-21'
 descuento: '15.07'
 average: '22.44'

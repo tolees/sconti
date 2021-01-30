@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Act Omega 3 con 1 gr Olio di Pesce - 60 Perle'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MYP4VD6/?tag=tolees00-21'
 descuento: '34.26'
 average: '11.11'

@@ -16,6 +16,7 @@ comparePrice: 42.95 EUR
 prodname: 'Pawhut Tiragraffi a Colonna per Gatti su più Livelli  con Cuccia  Posatoio e 2 Ripiani  Bianco e Grigio  61x41x147cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CRF5YWN/?tag=tolees00-21'
 descuento: '20.00'
 average: '34.36'

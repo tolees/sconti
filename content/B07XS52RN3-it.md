@@ -16,6 +16,7 @@ comparePrice: 1289.0 EUR
 prodname: 'Apple iPhone 11 Pro Max  64GB  - Grigio Siderale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XS52RN3/?tag=tolees00-21'
 descuento: '15.52'
 average: '1089.0'

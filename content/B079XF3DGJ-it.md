@@ -16,6 +16,7 @@ comparePrice: 5.48 EUR
 prodname: 'Colgate Dentifricio Protezione Carie - 6 pezzi da 75 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079XF3DGJ/?tag=tolees00-21'
 descuento: '21.17'
 average: '4.9'

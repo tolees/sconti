@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Under Armour Challenger III Knit  Pantaloncini Uomo  Nero  Black - 001   XXL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PMTL4JF/?tag=tolees00-21'
 descuento: '60.54'
 average: '10.26'

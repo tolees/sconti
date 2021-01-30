@@ -16,6 +16,7 @@ comparePrice: 389.99 EUR
 prodname: 'Hauck Duett 2 Passeggino Doppio - Fratelli Età Diversa  Navicella Convertibile in Seduta Reversibile  Maniglione Regolabile in Altezza  Seconda Seduta Rimovibile  Parapioggia  max 36 kg  Black Forest'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B013BTPZ6K/?tag=tolees00-21'
 descuento: '23.14'
 average: '281.57'

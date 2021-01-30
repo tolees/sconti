@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aspirapolvere Auto  Aitsite Aspirapolvere Portatile Senza Fili 120W Mini Aspirapolvere Aspirapolvere a Mano Potente Bagnato e Asciutto per Casa Ufficio Auto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WRZB9NR/?tag=tolees00-21'
 descuento: '17.50'
 average: '32.99'

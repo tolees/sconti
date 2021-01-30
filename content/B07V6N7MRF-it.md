@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Fast Trek II  Giacca in pile con cerniera  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V6N7MRF/?tag=tolees00-21'
 descuento: '29.01'
 average: '35.49'

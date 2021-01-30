@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Quercetti- Gioco con Palline Colorate  Multi-Colore  1015'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D3TDJJ4/?tag=tolees00-21'
 descuento: '27.50'
 average: '17.4'

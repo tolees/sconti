@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'SUN CITY Grembiule Bing Bambina Bambino da 2 a 6 Anni  6 Anni  Rosa '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08H5W4MKZ/?tag=tolees00-21'
 descuento: '20.07'
 average: '23.9'

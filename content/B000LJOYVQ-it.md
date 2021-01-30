@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Alessi Mediterraneo ESI01/29 Fruttiera di Design in Acciaio Inox'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000LJOYVQ/?tag=tolees00-21'
 descuento: '19.69'
 average: '96.37'

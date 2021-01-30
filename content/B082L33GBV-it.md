@@ -16,6 +16,7 @@ comparePrice: 24.3 EUR
 prodname: 'Franciacorta Brut Rosé DOCG - Corte alle Stelle - 1 x 0 75 l.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082L33GBV/?tag=tolees00-21'
 descuento: '20.00'
 average: '19.44'

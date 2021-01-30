@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Toolove Lampada da Lettura a LED USB Ricaricabile  Luce Lettura Regolabile e Portatile Con Clip  Lampada da Libro Pieghevole per Studio  Letto  Viaggi  Tablet'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DLZZ2DJ/?tag=tolees00-21'
 descuento: '45.02'
 average: '10.99'

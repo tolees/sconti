@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'Samsung TV UE55TU8070UXZT Smart TV 55" Serie TU8070  Crystal UHD 4K  Wi-Fi  2020  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086R1Z4YN/?tag=tolees00-21'
 descuento: '27.14'
 average: '472.89'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'OTHA Scheda di acquisizione Video  Dispositivo di acquisizione Audio HD 1080P 60fps per OBS Registrazione da HDMI a USB 2.0 Tramite videocamera DSLR  con Adattatore convertitore da USB a Tipo c'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FDM6N6H/?tag=tolees00-21'
 descuento: '64.00'
 average: '21.24'

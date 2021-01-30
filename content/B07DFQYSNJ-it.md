@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Puma Luxe Mesh Tight Pants  Donna  Fig-Puma Black  S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DFQYSNJ/?tag=tolees00-21'
 descuento: '71.83'
 average: '22.52'

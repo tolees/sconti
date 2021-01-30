@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Autan Tropical Vapo  Insetto Repellente e Antizanzare Comuni e Tropicali  1 Confezione da 100 ml  Protezione Lunga Durata'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00E4L38GY/?tag=tolees00-21'
 descuento: '27.37'
 average: '6.5'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'jpantech Smartwatch Orologio Fitness Uomo Donna Impermeabile IP68 Smart Watch Cardiofrequenzimetro da Polso Contapassi Smartband Activity Tracker Bambini Cronometro per Android iOS（Nero）'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08B1JTP8N/?tag=tolees00-21'
 descuento: '37.51'
 average: '24.99'

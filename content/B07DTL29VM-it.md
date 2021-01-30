@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Lacoste Ah4087 Felpa  Blu  Marine/Farine-Marine Multicolore M65   Large  Taglia Produttore: 5  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DTL29VM/?tag=tolees00-21'
 descuento: '50.00'
 average: '59.95'

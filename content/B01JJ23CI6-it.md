@@ -16,6 +16,7 @@ comparePrice: 145.99 EUR
 prodname: 'Elegoo Scheda Starter Ultimate Kit Piu Completo per Progetto Principianti con Tutorial in Italiano Learning Kit di Apprendimento Compatibile con progetti IDE Arduino 63 Articoli '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01JJ23CI6/?tag=tolees00-21'
 descuento: '63.70'
 average: '52.99'

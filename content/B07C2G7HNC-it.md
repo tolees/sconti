@@ -16,6 +16,7 @@ comparePrice: 78.47 EUR
 prodname: 'Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo a V Donna  Nero  Black Black   48  Label: XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07C2G7HNC/?tag=tolees00-21'
 descuento: '64.47'
 average: '27.88'

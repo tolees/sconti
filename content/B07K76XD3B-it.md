@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s SS Original HM Tee T-Shirt  Blu  Cotton + Patch Dress Blues 0017   X-Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K76XD3B/?tag=tolees00-21'
 descuento: '36.04'
 average: '15.99'

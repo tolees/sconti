@@ -16,6 +16,7 @@ comparePrice: 99.74 EUR
 prodname: 'adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Nero  Core Black/White/Gold Met   39 1/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EI9JJXW/?tag=tolees00-21'
 descuento: '47.46'
 average: '52.4'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO - Hidden Side Mistero nel Cimitero Set di Costruzione  Set per la Realtà Aumentata per iPhone/Android  70420'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ND9GYZ3/?tag=tolees00-21'
 descuento: '15.01'
 average: '25.49'

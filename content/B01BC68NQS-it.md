@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Lego Star Wars: Il Risveglio della Forza - PlayStation 3'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01BC68NQS/?tag=tolees00-21'
 descuento: '41.99'
 average: '29.0'

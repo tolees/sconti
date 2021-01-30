@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Clarks Sheer Rose  Scarpe con Tacco Donna  Beige  Navy Suede Navy Suede   35.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TKS4NH7/?tag=tolees00-21'
 descuento: '54.82'
 average: '42.9'

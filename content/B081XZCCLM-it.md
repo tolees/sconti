@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'XINFENGDI Samsung Galaxy A20S Cover Custodia Protettiva in Morbido TPU + PC Anticaduta Antiscivolo AntiGraffio Antiurto con Supporto Modello di Pneumatico per Samsung Galaxy A20S - Blu'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081XZCCLM/?tag=tolees00-21'
 descuento: '23.09'
 average: '9.99'

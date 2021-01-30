@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'HolyHigh Auricolari Bluetooth Sport Wireless Cuffie Bluetooth Senza Fili con Suono Stereo 30 Ore di Riproduzione Cuffiette in-Ear Impermeabili IPX5 in-Ear Chiamata Hi-Fi Binaurale per iOS Android'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082SH5Z7Y/?tag=tolees00-21'
 descuento: '15.01'
 average: '27.155'

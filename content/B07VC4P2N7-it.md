@@ -16,6 +16,7 @@ comparePrice: 38.89 EUR
 prodname: 'Calvin Klein 35mm Essential Belt Cintura  Nero  Black BAX   8  Taglia Produttore: 110  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VC4P2N7/?tag=tolees00-21'
 descuento: '45.77'
 average: '21.09'

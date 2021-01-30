@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Smartwatch Donna Uomo GOKOO Impermeabile Orologio Intelligente Impermeabile IP67 Attività Tracker con Monitor del Sonno  Contapassi  Contacalorie  Telecamera Remota  Compatibile con IOS Android  nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082XYFGK1/?tag=tolees00-21'
 descuento: '25.93'
 average: '39.99'

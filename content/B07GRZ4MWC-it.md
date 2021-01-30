@@ -16,6 +16,7 @@ comparePrice: 2.19 EUR
 prodname: 'Tigullio GranPesto Pomodori Secchi e Pistacchi - 190 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GRZ4MWC/?tag=tolees00-21'
 descuento: '31.96'
 average: '1.74'

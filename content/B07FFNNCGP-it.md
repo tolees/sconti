@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'KKmoon Finder Digitale Satellitare DVB-S2 V8 con Display Digitale LCD da 3 5 Pollici'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FFNNCGP/?tag=tolees00-21'
 descuento: '16.06'
 average: '55.39'

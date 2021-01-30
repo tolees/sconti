@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'AVM FRITZ!DECT 100 International  Ripetitore DECT per telefoni cordless  spina incorporata  interfaccia in italiano'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00G5CWWRG/?tag=tolees00-21'
 descuento: '16.26'
 average: '66.98'

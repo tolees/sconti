@@ -16,6 +16,7 @@ comparePrice: 79.62 EUR
 prodname: 'Calvin Klein Scoop One Piece-RP Reggiseno Bikini  Nero  PVH Black BEH    Taglia Produttore: Large  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VQVXQ77/?tag=tolees00-21'
 descuento: '60.00'
 average: '31.85'

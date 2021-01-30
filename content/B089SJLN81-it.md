@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'Cassa Bluetooth 5.0  Zamkol Altoparlante Portatile Bluetooth 30W  Speaker Impermeabile IPX6 TWS Stereo Batteria da 5200mAh AUX & TF & Potente cene Esterno Viaggio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089SJLN81/?tag=tolees00-21'
 descuento: '19.12'
 average: '54.99'

@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Lacoste Chaymon 120 1 CMA  Sneaker Uomo  Bianco  Wht/Grn 082   45 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SPXNH3M/?tag=tolees00-21'
 descuento: '32.43'
 average: '70.95'

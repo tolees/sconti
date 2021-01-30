@@ -16,6 +16,7 @@ comparePrice: 4.5 EUR
 prodname: 'Aperol Spritz Ml.175  Pacco da 3 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00CLAF5CU/?tag=tolees00-21'
 descuento: '18.67'
 average: '3.7033333333333336'

@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Zig Zag  Insetticida  Habitat  Multinsetto  Inodore  Ideale per Cimici  Mosche  Zanzare  Scarafaggi  Formiche  Zecche  prodotto a lento rilascio  ml 500'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B008CFT81M/?tag=tolees00-21'
 descuento: '24.91'
 average: '6.0'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Geox U KAVEN A  Scarpe da Ginnastica Basse Uomo  Bianco  Papyrus/White C1S1Z   45 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DJ7F67Q/?tag=tolees00-21'
 descuento: '49.95'
 average: '50.0'

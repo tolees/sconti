@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PUMA Epic Flip v2  Scarpe da Spiaggia e Piscina Unisex-Adulto  Verde  Sunny Lime-Mist Green   37 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S8PXJ9V/?tag=tolees00-21'
 descuento: '44.91'
 average: '11.49'

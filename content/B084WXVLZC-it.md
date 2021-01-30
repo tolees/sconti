@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Aigostar Lamo 30RFU – Tostapane Sandwich da 800W con rivestimento antiaderente. Cottura a doppia piastra e temperatura costante. Impugnatura antiscottatura. Display led di funzionamento. Nero.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084WXVLZC/?tag=tolees00-21'
 descuento: '19.51'
 average: '18.689999999999998'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Graphic Maglietta  Bianco  84 Sportswear Logo White 0000   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071NRQV16/?tag=tolees00-21'
 descuento: '20.04'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Moon-boot - Moon Boot 140044  Stivali Invernali Unisex  Bianco  Bianco 6   39-41'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Moon-boot'
 buyurl: 'https://www.amazon.it/dp/B000CQY8S2/?tag=tolees00-21'
 descuento: '26.32'
 average: '74.0666666666667'
@@ -27,10 +28,10 @@ Puoi trovare [Moon-boot - Moon Boot 140044  Stivali Invernali Unisex  Bianco  Bi
 
 ℹ️:
 
-- Custodia in nylon per mantenere gli elementi allesterno.
-- Suola esterna sintetica per la trazione e la stabilità.
 - Lacci su tutta la lunghezza.
-- Lisolamento in schiuma di alta qualità vi mantiene al caldo e confortevole per tutte le attività invernali allaperto.
+- Custodia in nylon per mantenere gli elementi allesterno.
 - Fodera in tessuto morbido.
+- Lisolamento in schiuma di alta qualità vi mantiene al caldo e confortevole per tutte le attività invernali allaperto.
+- Suola esterna sintetica per la trazione e la stabilità.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000CQY8S2/?tag=tolees00-21)

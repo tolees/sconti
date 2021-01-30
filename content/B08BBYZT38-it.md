@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Mini Telecamera Spia Nascosta con Micro sd 32GB  Full HD 1080P Microcamera Spia con Rilevamento di Movimento Portatile Videocamera di Sorveglianza Video per Esterno/Interno'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BBYZT38/?tag=tolees00-21'
 descuento: '42.71'
 average: '14.89'

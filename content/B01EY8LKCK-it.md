@@ -16,6 +16,7 @@ comparePrice: 164.99 EUR
 prodname: 'Oral-B Genius 8900 Spazzolini Elettrici Ricaricabili con Connessione Bluetooth  3 Testine di Ricambio  1 Custodia da Viaggio  con 5 Modalità  tra cui Denti Sensibili  Protezione Gengive e Sbiancante'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EY8LKCK/?tag=tolees00-21'
 descuento: '75.76'
 average: '39.99'

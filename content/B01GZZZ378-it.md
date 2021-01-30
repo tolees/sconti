@@ -16,6 +16,7 @@ comparePrice: 157.24 EUR
 prodname: 'Emporio Armani Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile AR2500'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01GZZZ378/?tag=tolees00-21'
 descuento: '25.15'
 average: '117.7'

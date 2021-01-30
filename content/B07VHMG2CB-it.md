@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'NAPAPIJRI Dueville C Maglia a Maniche Lunghe  Verde  Green Way Gw11   XX-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VHMG2CB/?tag=tolees00-21'
 descuento: '66.48'
 average: '33.18'

@@ -16,6 +16,7 @@ comparePrice: 44.98 EUR
 prodname: 'Under Armour Scrimmage 2.0 Sacco da Montagna  Unisex Adulto  Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07J3C7MKT/?tag=tolees00-21'
 descuento: '58.71'
 average: '18.57'

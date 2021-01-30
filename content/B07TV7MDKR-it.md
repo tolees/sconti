@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Perfect Vneck T-Shirt  Multicolore  Annalise Stripe Tomato 0006   Large Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TV7MDKR/?tag=tolees00-21'
 descuento: '48.04'
 average: '12.99'

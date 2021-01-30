@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'KOLLIEE Aromaterapia Oli Essenziali Puri Bio Oli Essenziali Per Diffusori Naturali Lavanda  Menta piperita  Limone  Arancia Dolce  Gelsomino Orchidea Rosmarino Eucalipto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082KYNZ4B/?tag=tolees00-21'
 descuento: '35.50'
 average: '19.99'

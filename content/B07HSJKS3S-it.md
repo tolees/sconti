@@ -16,6 +16,7 @@ comparePrice: 80.99 EUR
 prodname: 'Kindle  Ricondizionato Certificato  Nero - con luce frontale integrata'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HSJKS3S/?tag=tolees00-21'
 descuento: '25.93'
 average: '59.99'

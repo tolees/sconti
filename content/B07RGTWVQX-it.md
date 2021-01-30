@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance 410v6 Trail  Scarpe Sportive Indoor Uomo  Nero  Black Cl   44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RGTWVQX/?tag=tolees00-21'
 descuento: '31.44'
 average: '47.99'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Viakal Detersivo Anticalcare Spray Fresco Profumo  Maxi Formato 2 Pezzi da 700 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084W8DMJT/?tag=tolees00-21'
 descuento: '55.62'
 average: '3.99'

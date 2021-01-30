@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Timberland Union Wharf Plain Toe Slip On Sneaker Infilare  Uomo  Grigio  Vapor Blue  Tb0a2avfl961   41 EU  7 UK '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T5PFWGK/?tag=tolees00-21'
 descuento: '20.33'
 average: '47.8'

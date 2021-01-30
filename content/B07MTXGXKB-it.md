@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Tiralatte elettrico  pompa per allattamento al seno ricaricabile a doppia aspirazione MOSFiATA con display a LED touch screen  3 modalità  9 livelli per modalità   senza BPA'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MTXGXKB/?tag=tolees00-21'
 descuento: '47.78'
 average: '48.49'

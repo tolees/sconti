@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Faburo Zanzariera per Finestra con 3 pcs patch e Strumento di fissaggio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07R4GZZRF/?tag=tolees00-21'
 descuento: '15.02'
 average: '6.79'

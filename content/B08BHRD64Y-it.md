@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Rosso '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BHRD64Y/?tag=tolees00-21'
 descuento: '37.38'
 average: '61.99'

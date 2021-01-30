@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'LEGO Movie 2 - La scatola "costruisci quello che vuoi" della Regina Wello Ke Wuoglio!  70825'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FP1X88D/?tag=tolees00-21'
 descuento: '51.32'
 average: '21.9'

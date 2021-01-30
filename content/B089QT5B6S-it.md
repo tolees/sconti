@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'takestop® Barbecue Tondo 36x55cm GRIGLIA Rimovibile Acciaio SCALDA PIETANZE Metallo Cottura CASA Cucina Giardino'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089QT5B6S/?tag=tolees00-21'
 descuento: '38.48'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Whiskas Selezione in Salsa 84 Buste da 100 gr al Gusto di Pollo  Anatra  Tacchino e Carni Bianche'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HGR4QPH/?tag=tolees00-21'
 descuento: '19.05'
 average: '33.99'

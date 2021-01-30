@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Fairy Platinum Detersivo in Caps per Lavastoviglie  Maxi Formato da 160 Pastiglie  Regolare'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XS1FCVR/?tag=tolees00-21'
 descuento: '19.45'
 average: '28.99'

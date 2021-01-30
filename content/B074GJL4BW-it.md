@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko- Pop Vinile MLP Movie Twilight Sparkle Sea Pony  9 cm  21643'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074GJL4BW/?tag=tolees00-21'
 descuento: '26.68'
 average: '10.99'

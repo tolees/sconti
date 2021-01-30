@@ -16,6 +16,7 @@ comparePrice: 24.08 EUR
 prodname: 'Cuscino da viaggio gonfiabile ultraleggero da campeggio Cuscini di gonfiaggio compatti  confortevoli  comprimibili ed ergonomici per collo e supporto lombare mentre si accampa  zaino in spalla'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0834XXJ1N/?tag=tolees00-21'
 descuento: '16.99'
 average: '19.99'

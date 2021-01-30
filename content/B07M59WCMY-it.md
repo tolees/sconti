@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Disney Frozen 2 - Castello di Arendelle Pieghevole  Casa Delle Bambole Ispirata al Film Disney Frozen 2  Gioco Portatile Adatto A Bambini dai 3 Anni in Su'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07M59WCMY/?tag=tolees00-21'
 descuento: '23.42'
 average: '49.7'

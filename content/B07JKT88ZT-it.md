@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Roland Backpack  Borsa Unisex  Blu  OSFA'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JKT88ZT/?tag=tolees00-21'
 descuento: '40.03'
 average: '17.99'

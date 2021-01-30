@@ -16,6 +16,7 @@ comparePrice: 289.99 EUR
 prodname: 'TACKLIFE 2000W Sega da Tavolo  4800 giri/min  Lama per Sega 254 × 30 × 2.8mm  24T   Estensione della Tavolo Circolare Sega，92 × 64 3 cm Tavolo da Lavoro - MTS01A'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085FXNRB5/?tag=tolees00-21'
 descuento: '36.21'
 average: '184.99'

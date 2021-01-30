@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Garnier Bio Crema Contorno Occhi Naturale Bio Lavanda Rigenerante  Contorno Occhi Anti-età  Formula alla Lavanda  15 ml  Confezione da 1'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MH4WDWQ/?tag=tolees00-21'
 descuento: '36.84'
 average: '6.31'

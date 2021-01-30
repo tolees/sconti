@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Calvin Klein J 4cm Ckj Belt Cintura  Nero  Black 001   10  Taglia Produttore: 110  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07G4DB3BB/?tag=tolees00-21'
 descuento: '20.18'
 average: '31.85'

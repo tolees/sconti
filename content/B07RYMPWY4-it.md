@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 502 Regular Taper Jeans  Blu  Stonewash Stretch T2 0555   34W / 36L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RYMPWY4/?tag=tolees00-21'
 descuento: '17.34'
 average: '74.39'

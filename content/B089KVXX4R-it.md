@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Oral-B CrossAction Testine di Ricambio per Spazzolino Elettrico con Tecnologia CleanMaximiser  Confezione da 5 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089KVXX4R/?tag=tolees00-21'
 descuento: '36.01'
 average: '15.99'

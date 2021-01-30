@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Auricolare Bluetooth Senza Fili Cuffie Wireless Stereo 3D with IPX5 Impermeabile cuffie sportive wireless reali  Accoppiamento automatico Auricolare Bluetooth con scatola di ricarica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08D9C8QY2/?tag=tolees00-21'
 descuento: '23.54'
 average: '25.99'

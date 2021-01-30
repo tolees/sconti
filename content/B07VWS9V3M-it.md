@@ -16,6 +16,7 @@ comparePrice: 259.9 EUR
 prodname: 'HUAWEI T5 Mediapad Tablet  Display da 10.1"  1080p Full HD  64 GB Espandibili  4 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VWS9V3M/?tag=tolees00-21'
 descuento: '30.75'
 average: '179.99'

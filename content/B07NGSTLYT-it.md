@@ -16,6 +16,7 @@ comparePrice: 206.4 EUR
 prodname: 'Medion E4271 Portatile da 14    Full HD  Celeron 2.6ghz  64gb  4gb Ram  Windows 10 Home'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NGSTLYT/?tag=tolees00-21'
 descuento: '18.14'
 average: '168.96'

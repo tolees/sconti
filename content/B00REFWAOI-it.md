@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Reebok Classic Leather  Scarpe da Ginnastica Uomo  Nero  42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00REFWAOI/?tag=tolees00-21'
 descuento: '57.53'
 average: '38.2'

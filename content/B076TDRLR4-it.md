@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Og 85-Old School Cool-699  Scarpe da Ginnastica Basse Donna  Bianco  White Wht   35.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076TDRLR4/?tag=tolees00-21'
 descuento: '52.32'
 average: '26.2'

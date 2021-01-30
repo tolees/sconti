@@ -16,6 +16,7 @@ comparePrice: 18.36 EUR
 prodname: 'Birra Peroni Gran Riserva Bianca - Birra Italiana Premium - 12 Bottiglie x 50 cl  6 litri '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XY8S79C/?tag=tolees00-21'
 descuento: '35.29'
 average: '15.12'

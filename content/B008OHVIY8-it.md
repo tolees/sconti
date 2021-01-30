@@ -16,6 +16,7 @@ comparePrice: 118.78 EUR
 prodname: 'Foppapedretti Go Up Carrello Portaspesa  Black'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B008OHVIY8/?tag=tolees00-21'
 descuento: '20.03'
 average: '94.99'

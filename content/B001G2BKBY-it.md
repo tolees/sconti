@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Birkenstock Mayari 71791  Infradito donna - Nero  39 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001G2BKBY/?tag=tolees00-21'
 descuento: '32.99'
 average: '50.26'

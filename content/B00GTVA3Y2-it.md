@@ -16,6 +16,7 @@ comparePrice: 6.45 EUR
 prodname: 'Vape Diffusore Elettrico con Filo contro Zanzare  Durata 12 Ore  10 Piastrine'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00GTVA3Y2/?tag=tolees00-21'
 descuento: '24.03'
 average: '4.9'

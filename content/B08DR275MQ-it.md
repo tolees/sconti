@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Rybozen Audio Video Scheda di acquisizione HDMI con Loop Out  USB 2.0 4K HD 1080P 60FPS Scheda di acquisizione per videogiochi HDMI per streaming live per PS3 / PS4 / Xbox One / DSLR / Videocamere'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DR275MQ/?tag=tolees00-21'
 descuento: '25.87'
 average: '42.99'

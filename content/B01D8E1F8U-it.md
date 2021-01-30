@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PowerA Kit Gioca E Ricarica Per Xbox One - Day-One - Xbox One'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01D8E1F8U/?tag=tolees00-21'
 descuento: '20.06'
 average: '15.98'

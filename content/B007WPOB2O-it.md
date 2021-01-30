@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Havaianas Brasil Logo  Infradito Unisex-Adulto  Blu  Marine Blue   43/44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B007WPOB2O/?tag=tolees00-21'
 descuento: '25.04'
 average: '17.220769230769232'

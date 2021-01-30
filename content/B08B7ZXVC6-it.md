@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Clip di Cavi in silicone Adesivo Organizzatore di Cavi Scrivania Gestione Alimentazione Fermacavi per Casa Ufficio TV PC Laptop Ricarica USB  4 Pezzi Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08B7ZXVC6/?tag=tolees00-21'
 descuento: '19.11'
 average: '8.89'

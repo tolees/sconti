@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Specchio Trucco 8 LED Specchio Cosmetico Portatile Pieghevole con Supporto Regolabile Accessorio Eccellente per la Bellezza - Duomishu'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LXJM90L/?tag=tolees00-21'
 descuento: '15.01'
 average: '12.74'

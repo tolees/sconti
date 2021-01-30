@@ -16,6 +16,7 @@ comparePrice: 42.4 EUR
 prodname: 'Ferplast Cuccia in Plastica per Cani e Gatti SIESTA DELUXE 12  Cesta per Animali  Fondo Perforato  Antiscivolo  Comodo Poggiamento  Nero  Black   111 x 80.5 x h 33.5 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001MZWNWK/?tag=tolees00-21'
 descuento: '20.90'
 average: '33.54'

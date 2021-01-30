@@ -16,6 +16,7 @@ comparePrice: 67.98 EUR
 prodname: 'NEWHEY Borsa Donna Borsa Porta PC 15.6 Pollici Grande Impermeabile Borsa da Lavoro Borse Donna Tracolla in Pelle PU Ventiquattrore Donna Business Shopper Viola'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DJ6YNW3/?tag=tolees00-21'
 descuento: '50.00'
 average: '33.99'

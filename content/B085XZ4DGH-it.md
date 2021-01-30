@@ -16,6 +16,7 @@ comparePrice: 10.94 EUR
 prodname: 'Maschere per il viso  confezione da 50 maschere sigillate standard  per la salute  3 strati  blu'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085XZ4DGH/?tag=tolees00-21'
 descuento: '36.11'
 average: '6.99'

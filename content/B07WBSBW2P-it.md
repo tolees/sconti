@@ -16,6 +16,7 @@ comparePrice: 7.66 EUR
 prodname: 'LOVABLE Sublim Reggiseno con Ferretto  Blu  Blu 007   4D IT  Taglia Produttore: 36 D  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WBSBW2P/?tag=tolees00-21'
 descuento: '18.54'
 average: '6.24'

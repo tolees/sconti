@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'POP! Vinyl: Star Wars - Training Luke with Yoda'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XH4GN2K/?tag=tolees00-21'
 descuento: '22.25'
 average: '13.98'

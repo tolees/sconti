@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Xiaomi Desk Lamp 1S  Lampada Smart a LED da Scrivania  4 Modalità di Luce  Temperatura Colore Regolabile  Controllabile in Remoto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XHCDR3M/?tag=tolees00-21'
 descuento: '30.01'
 average: '34.99'

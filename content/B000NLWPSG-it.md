@@ -16,6 +16,7 @@ comparePrice: 22.7 EUR
 prodname: 'Casio Orologio Digitale al Quarzo Uomo con Cinturino in Resina LW-200-4AVEF'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000NLWPSG/?tag=tolees00-21'
 descuento: '19.16'
 average: '18.35'

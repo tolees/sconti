@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Creator - Aereo da corsa  31094'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21'
 descuento: '32.44'
 average: '20.26'

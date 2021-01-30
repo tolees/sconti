@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'BLACK+DECKER ASD184KB-QW Trapano/avvitatore Autosense 18V - 1.5AH  con doppia batteria in valigetta'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00M85DOD0/?tag=tolees00-21'
 descuento: '33.38'
 average: '99.9'

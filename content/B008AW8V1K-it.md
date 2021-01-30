@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Lacoste Sport L1230 Polo Sport Ultraleggera  Nero  Black 031   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B008AW8V1K/?tag=tolees00-21'
 descuento: '35.07'
 average: '45.45'

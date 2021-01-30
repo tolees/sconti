@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Timberland Union Wharf 2 Eye Oxford  Mocassini Uomo  Blu  Navy Canvas   41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0779PQD5P/?tag=tolees00-21'
 descuento: '61.54'
 average: '25.0'

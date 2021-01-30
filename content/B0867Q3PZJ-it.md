@@ -16,6 +16,7 @@ comparePrice: 29.96 EUR
 prodname: 'StillCool Dispenser per sapone da 700 ml  con sensore automatico gel e liquido a parete  per cucina  bagno  700 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0867Q3PZJ/?tag=tolees00-21'
 descuento: '58.21'
 average: '12.52'

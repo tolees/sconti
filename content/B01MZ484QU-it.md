@@ -16,6 +16,7 @@ comparePrice: 10.68 EUR
 prodname: 'ONE PUNCH MAN - Tappetino per il mouse - Saitama Testa'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MZ484QU/?tag=tolees00-21'
 descuento: '18.07'
 average: '8.75'

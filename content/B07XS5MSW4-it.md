@@ -16,6 +16,7 @@ comparePrice: 889.0 EUR
 prodname: 'Apple iPhone 11  128GB  - Verde'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21'
 descuento: '15.75'
 average: '759.0'

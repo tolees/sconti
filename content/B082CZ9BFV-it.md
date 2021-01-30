@@ -16,6 +16,7 @@ comparePrice: 113.64 EUR
 prodname: 'Macchina Sottovuoto per Alimenti Automatica Blusmart 80Kpa Macchina Sigillatrici con bilance da cucina integrate e display LCD  Macchina per Sottovuoto sia secchi che umidi inclusi 1 Tubo Accessorio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082CZ9BFV/?tag=tolees00-21'
 descuento: '20.81'
 average: '74.74'

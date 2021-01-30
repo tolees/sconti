@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2 Core  Scarpe da Ginnastica Unisex-Adulto  Rosso Bordeaux  37 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06Y2Y9W9Y/?tag=tolees00-21'
 descuento: '35.11'
 average: '58.4'

@@ -16,6 +16,7 @@ comparePrice: 28.76 EUR
 prodname: 'Marchio Amazon - Happy Belly Pistacchi tostati e salati 6x250g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07R156VCY/?tag=tolees00-21'
 descuento: '19.37'
 average: '23.19'

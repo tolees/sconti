@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Levi s Relaxed Graphic Hoodie Cappuccio  Nero  90 s Serif Logo Pop Mineral Black 0018   X-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S2S5SK2/?tag=tolees00-21'
 descuento: '65.77'
 average: '25.67'

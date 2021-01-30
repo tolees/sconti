@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'LEGO Minecraft L Incursione della Bestia  Set di Costruzioni Ricco di Dettagli per Ragazzi 8+ Anni  Il Misterioso Personaggio di Kai Arriva a Salvare gli Abitanti del Villaggio  21160'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W8YJBM2/?tag=tolees00-21'
 descuento: '20.00'
 average: '63.99'

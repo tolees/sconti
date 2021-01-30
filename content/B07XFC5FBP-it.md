@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'MROTY Italia | Orologio Fitness Uomo Donna  Fitness Tracker  Smartwatch  Cardiofrequenzimetro  Impermeabile IP68  Conta Passi  Activity Tracker - per Android ed iOS - Ultimo Modello  Design 2020'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XFC5FBP/?tag=tolees00-21'
 descuento: '26.31'
 average: '19.89'

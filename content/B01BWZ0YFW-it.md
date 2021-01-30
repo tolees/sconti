@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'Havaianas Slim Crystal Glamour SW  Infradito Donna  Grigio  Steel Grey 5178   41/42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01BWZ0YFW/?tag=tolees00-21'
 descuento: '50.44'
 average: '16.85'

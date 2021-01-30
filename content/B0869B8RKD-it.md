@@ -16,6 +16,7 @@ comparePrice: 1049.9 EUR
 prodname: 'HUAWEI P40 Pro con Bluetooth Speaker  Acoustic Display da 6.58”  Quattro Fotocamere Leica da 50 + 40 + 12 MP e Sensore TOF  Kirin 990 5G Octa Core  Argento  Versione Italiana'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0869B8RKD/?tag=tolees00-21'
 descuento: '16.28'
 average: '879.0'

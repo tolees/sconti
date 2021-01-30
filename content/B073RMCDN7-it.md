@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Club C 85  Sneaker Uomo  Bianco  Intense White/Royal-Gum   48.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073RMCDN7/?tag=tolees00-21'
 descuento: '30.59'
 average: '55.49'

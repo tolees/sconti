@@ -16,6 +16,7 @@ comparePrice: 43.0 EUR
 prodname: 'Calvin Klein 3p Low Rise Trunk Boxer  Nero  Black W. Black WB   Medium  Pacco da 3  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077B63VMG/?tag=tolees00-21'
 descuento: '37.23'
 average: '26.99'

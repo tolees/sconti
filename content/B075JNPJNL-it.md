@@ -16,6 +16,7 @@ comparePrice: 309.99 EUR
 prodname: 'Philips Sonicare HX9903/03 DiamondClean Smart  Spazzolino Elettrico con Tecnologia Sonicare  Connesso all Applicazione  4 Programmi di Pulizia  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075JNPJNL/?tag=tolees00-21'
 descuento: '48.39'
 average: '159.99'

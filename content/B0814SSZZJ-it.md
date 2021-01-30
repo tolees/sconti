@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Under Armour UA Tech  Pantaloni Uomo  Blu  Taglia Unica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0814SSZZJ/?tag=tolees00-21'
 descuento: '61.53'
 average: '21.14'

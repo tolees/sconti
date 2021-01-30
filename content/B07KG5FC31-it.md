@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'BLACK+DECKER BXHBA600E Frullatore a Immersione  600 W  Acciaio Inox  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KG5FC31/?tag=tolees00-21'
 descuento: '20.01'
 average: '27.99'

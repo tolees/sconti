@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'CURCUMA E PIPERINA + ZENZERO  Formula Extra-Forte 1500mg  Antinfiammatorio e Antiossidante Naturale - Dolori Articolari - 180 Capsule Vegan - Integratore alimentare Gluten Free WeightWorld'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YNVK1MB/?tag=tolees00-21'
 descuento: '26.68'
 average: '10.99'

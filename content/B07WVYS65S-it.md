@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Cere Easy Wax Kit Natural Inspirations Fiore Tiarè & Argan Oil + Ricarica 50 Ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WVYS65S/?tag=tolees00-21'
 descuento: '20.00'
 average: '31.2'

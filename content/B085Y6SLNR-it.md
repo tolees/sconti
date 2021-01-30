@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'FlowerDas Termometro Frontale  Letture istantanee Accurate  Termometro Digitale a infrarossi Professionale Senza Contatto  per Neonati  Bambini  Adulti'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085Y6SLNR/?tag=tolees00-21'
 descuento: '43.17'
 average: '7.9'

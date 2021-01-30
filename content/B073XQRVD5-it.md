@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'Head & shoulders Men Ultra Purificante Shampoo Antiforfora  Pacco da 6 x 225 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073XQRVD5/?tag=tolees00-21'
 descuento: '21.34'
 average: '16.99'

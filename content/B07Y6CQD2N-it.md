@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Piegaciglia Riscaldato  Piegaciglia Elettrico  Piegaciglia Professionale  Piegaciglia con Display Temperature Digitale LCD per Effetto Ciglia Ricurve Strumento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07Y6CQD2N/?tag=tolees00-21'
 descuento: '20.01'
 average: '15.99'

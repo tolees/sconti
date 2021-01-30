@@ -16,6 +16,7 @@ comparePrice: 27.69 EUR
 prodname: 'Intex 64765 Materasso Matrimoniale Classic Downy 152X203X25 cm + Pompa e 2 Cuscini'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07LH37K3Y/?tag=tolees00-21'
 descuento: '26.69'
 average: '20.143333333333334'

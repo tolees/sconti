@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Perfect V Neck T-Shirt  Bianco  White + 0002   Medium Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RY9L9YW/?tag=tolees00-21'
 descuento: '20.20'
 average: '19.95'

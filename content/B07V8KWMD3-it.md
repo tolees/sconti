@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Calvin Klein Nylon Harrington Giacca sportiva  Nero  Ck Black Bae   X-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V8KWMD3/?tag=tolees00-21'
 descuento: '46.98'
 average: '68.87'

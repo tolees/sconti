@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'MOSFiATA Set di Attrezzi da Giardino  Kit di Attrezzi da Giardinaggio per impieghi gravosi in Acciaio ad Alto tenore di Carbonio  cazzuola per trapianto e rastrello a Mano per coltivatore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089SPY65G/?tag=tolees00-21'
 descuento: '33.34'
 average: '19.99'

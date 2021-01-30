@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Durex Contatto Comfort Preservativi Sottili ad Alta Sensibilità con Barattolo Contenitore in Omaggio  100 Profilattici'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K36SKMK/?tag=tolees00-21'
 descuento: '27.02'
 average: '42.885'

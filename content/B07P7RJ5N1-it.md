@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Pokémon Spada - Nintendo Switch'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21'
 descuento: '18.32'
 average: '49.0'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'AMANKA 3-in-1 Mini DisplayPort a VGA/DVI/HDMI Adattatore Converter Cavo per Phone Mac Book MacBook PRO MacBook Air Mac Mini  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MTPUTXB/?tag=tolees00-21'
 descuento: '22.23'
 average: '13.99'

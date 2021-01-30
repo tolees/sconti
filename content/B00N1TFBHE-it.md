@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Tescoma 642773 Vitamino Oliera  Vetro  Verde  500 ml  1 Pezzo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00N1TFBHE/?tag=tolees00-21'
 descuento: '30.00'
 average: '6.93'

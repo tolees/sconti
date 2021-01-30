@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Cuffie Bluetooth  Auricolari Bluetooth Wireless Con Microfono Hi-Fi Stereo Bassi Profondi  30 Ore di Tempo di Utilizzo  IP7 Impermeabile Cuffie Senza Fili con Display Digitale LED  Touch Controllo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01KC5AH7S/?tag=tolees00-21'
 descuento: '75.72'
 average: '33.99'

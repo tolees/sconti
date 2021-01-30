@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Maremma Toscana Vermentino DOC Campo al Faro 2019 0 75 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089T8D5ZC/?tag=tolees00-21'
 descuento: '20.00'
 average: '10.32'

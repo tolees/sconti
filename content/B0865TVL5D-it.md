@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'MMCRRX Box SATA USB 3  Case Esterno Ultrasottile in Lega di Alluminio per Disco Rigido 2.5 HDD SSD Hard Disk'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0865TVL5D/?tag=tolees00-21'
 descuento: '22.59'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Omino Bianco - Aloe Vera - 156 Lavaggi - 7800ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084QTWCHF/?tag=tolees00-21'
 descuento: '20.01'
 average: '14.39'

@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'BOSS Brief 3p Co/El Boxer  Multicolore  Open Miscellaneous   S  Pacco da 3  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TYFGXBC/?tag=tolees00-21'
 descuento: '57.68'
 average: '16.06'

@@ -16,6 +16,7 @@ comparePrice: 25.73 EUR
 prodname: 'Starbucks Cappuccino by Nescafé Dolce Gusto 6 Confezioni da 12 Capsule  72 Capsule - 36 Bevande '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WZV318F/?tag=tolees00-21'
 descuento: '47.53'
 average: '13.5'

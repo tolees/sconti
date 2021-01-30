@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Lukasa Zanzariera Elettrica da Esterno  Lampada Antizanzare Ricaricabile USB Lampada Zanzare Campeggio 2-in-1 Luce Zanzare a LED con 3 modalità Illuminazione Impermeabile Trappola per Zanzare'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087C2M5ZQ/?tag=tolees00-21'
 descuento: '15.39'
 average: '23.99'

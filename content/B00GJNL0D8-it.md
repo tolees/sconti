@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Michael Kors Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inox MK8286'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00GJNL0D8/?tag=tolees00-21'
 descuento: '56.56'
 average: '129.9'

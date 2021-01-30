@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Wrangler LS 1 Pkt Shirt Camicia  Bianco  Real White Xw1   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TSLL6WL/?tag=tolees00-21'
 descuento: '51.96'
 average: '31.2'

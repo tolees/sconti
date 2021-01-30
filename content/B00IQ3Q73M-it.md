@@ -16,6 +16,7 @@ comparePrice: 400.0 EUR
 prodname: 'Campingaz 4 Series Woody L Grill con 4 Bruciatore  12.8 kW di Potenza  Sistema di Pulizia Facile InstaClean  Griglia e Piastra in Acciaio  Grigio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00IQ3Q73M/?tag=tolees00-21'
 descuento: '20.00'
 average: '320.0'

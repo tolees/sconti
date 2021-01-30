@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Salomon XA PRO 3D J  Scarpe da Trail Running Unisex – Bambini  Rosso/Arancione  Cerise/Dubarry/Peach Amber   36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CYDN9ZJ/?tag=tolees00-21'
 descuento: '19.69'
 average: '52.16'

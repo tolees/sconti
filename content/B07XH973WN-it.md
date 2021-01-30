@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Giochi Preziosi Pinypon Action Stazione di Polizia con 2 Personaggi Mix&Match e Accessori'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XH973WN/?tag=tolees00-21'
 descuento: '49.08'
 average: '28.0'

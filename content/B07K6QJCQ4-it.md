@@ -16,6 +16,7 @@ comparePrice: 118.99 EUR
 prodname: 'Melchioni ARTIC47LT Mini frigo bar con congelatore  A+  Silenzioso  47L  Compressore e freezer  Frigorifero piccolo portatile da camera  ufficio  B&B  Hotel [Classe di efficienza energetica A+]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K6QJCQ4/?tag=tolees00-21'
 descuento: '19.33'
 average: '95.99'

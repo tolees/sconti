@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'Tommy Hilfiger 3p Trunk Boxer  Nero  Black/Grey Heather/White 004   Medium  Pacco da 3  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00UBOITK8/?tag=tolees00-21'
 descuento: '25.06'
 average: '32.15'

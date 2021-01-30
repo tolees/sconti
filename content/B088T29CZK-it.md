@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Tablet Android 8.1 Tablet da 10 pollici con processore quad-core da 64 GB con lo schermo IPS HD  Tablet famiglia con  GPS  FM  WiFi 5G  Corpo in Metallo  Black '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088T29CZK/?tag=tolees00-21'
 descuento: '22.22'
 average: '79.99'

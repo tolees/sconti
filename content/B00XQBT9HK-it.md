@@ -16,6 +16,7 @@ comparePrice: 8.25 EUR
 prodname: 'Nivea - Sun  Latte Solare Carotene -  200 Ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XQBT9HK/?tag=tolees00-21'
 descuento: '30.06'
 average: '5.77'

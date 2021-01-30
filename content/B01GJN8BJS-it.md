@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Ravensburger- Labirinto Glow in The Dark Gioco di società  Multicolore  26692'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01GJN8BJS/?tag=tolees00-21'
 descuento: '60.19'
 average: '19.9'

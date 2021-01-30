@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Bialetti Fiammetta Bialetti Moka Fiammetta  Caffettiera 1 Tazza  Azzurro Fluo  Alluminio  Azzurro Fluo  1 Tazza  1 Unità'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072VLG99N/?tag=tolees00-21'
 descuento: '78.17'
 average: '5.0'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Maegoo Controller PC PS3 Wireless  2.4GHz Remoto Wireless Gaming Controller PS3 PC Gamepad Joystick Ricaricabile con Shock Vibrazione per Sony Playstation 3 e PC Windows 10 7 8 8.1 XP'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0811JH6KQ/?tag=tolees00-21'
 descuento: '56.01'
 average: '21.99'

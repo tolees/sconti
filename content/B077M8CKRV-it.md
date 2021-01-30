@@ -16,6 +16,7 @@ comparePrice: 25.03 EUR
 prodname: 'Pedigree Vital Protection cani Cibo di Alta Qualità con pollo  manzo  pollame e agnello  40 x 100 g '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077M8CKRV/?tag=tolees00-21'
 descuento: '49.58'
 average: '12.62'

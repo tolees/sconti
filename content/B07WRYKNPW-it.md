@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Gricol Mensola da Doccia Angolare Senza Foratura in Alluminio Aeronautico con 2 Ganci per Doccia Auto Adesivo Anti-Ruggine Cestelli Porta Oggetti da Bagno a Parete'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WRYKNPW/?tag=tolees00-21'
 descuento: '51.55'
 average: '15.99'

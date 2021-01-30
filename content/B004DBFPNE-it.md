@@ -16,6 +16,7 @@ comparePrice: 5.11 EUR
 prodname: 'BIC Cristal Original Penne A Sfera Punta Media  1 0 mm  Blu  Pacco da 10'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B004DBFPNE/?tag=tolees00-21'
 descuento: '51.08'
 average: '2.5'

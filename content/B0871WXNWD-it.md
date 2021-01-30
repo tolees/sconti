@@ -16,6 +16,7 @@ comparePrice: 90.21 EUR
 prodname: 'Laelr Ultimi controller wireless per Nintendo Switch Mini controller sinistro e destro Dual Vibration Gamepad Joystick Controller Bluetooth per telecomandi N-Switch'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0871WXNWD/?tag=tolees00-21'
 descuento: '53.67'
 average: '41.79'

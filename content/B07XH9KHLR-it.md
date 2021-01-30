@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'HUAWEI Watch GT 2 Smartwatch 46 mm  Durata Batteria fino a 2 Settimane  GPS  15 Modalità di Allenamento  Display del Quadrante in Vetro 3D  Chiamata Tramite Bluetooth  Matte Black'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XH9KHLR/?tag=tolees00-21'
 descuento: '38.87'
 average: '150.57125'

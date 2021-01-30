@@ -16,6 +16,7 @@ comparePrice: 259.95 EUR
 prodname: 'Soozier HOMCOM Tapis Roulant Elettrico con Schermo LCD Pieghevole 500W Fino a 10km'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01BBCHY3G/?tag=tolees00-21'
 descuento: '20.00'
 average: '208.95499999999998'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Concrete Genie - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21'
 descuento: '35.53'
 average: '19.98'

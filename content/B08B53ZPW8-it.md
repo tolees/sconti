@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Mascherina Lavabile Regolabile  nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08B53ZPW8/?tag=tolees00-21'
 descuento: '41.93'
 average: '4.64'

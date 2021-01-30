@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Lampadine LED E27 12W  Luce Bianca Calda 3000K 984 Lumen  Non Dimmerabile  Pacco da 5.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D8KTZSK/?tag=tolees00-21'
 descuento: '20.01'
 average: '11.99'

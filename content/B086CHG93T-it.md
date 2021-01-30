@@ -16,6 +16,7 @@ comparePrice: 367.2 EUR
 prodname: 'Samsung Smartphone Galaxy A71 + Pellicola Protettiva  Display 6.7" Super AMOLED  4 Fotocamere  128 GB  RAM 6 GB  Batteria 4500 mAh  4G  Dual Sim  Android 10  Silver   2020  [Versione Italiana]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086CHG93T/?tag=tolees00-21'
 descuento: '15.03'
 average: '312.0'

@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Michael Kors Orologio Analogico Quarzo Da Uomo Con Cinturino In Silicone Mkt4010'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074VZVMWB/?tag=tolees00-21'
 descuento: '74.92'
 average: '80.32333333333334'

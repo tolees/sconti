@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Taylor Swoden Aladin - 1 7L Retro Bollitore elettrico  Acciaio inossidabile wireless 2200W  Bollitore con visualizzazione della temperatura  Spegnimento automatico per acqua  Tè'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0832Z4NPZ/?tag=tolees00-21'
 descuento: '20.00'
 average: '39.99'

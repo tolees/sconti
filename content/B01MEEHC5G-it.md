@@ -16,6 +16,7 @@ comparePrice: 21.5 EUR
 prodname: 'Lagostina Ingenio Induction Coperchio in Vetro  28 cm  Nero/Trasparente'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MEEHC5G/?tag=tolees00-21'
 descuento: '53.53'
 average: '9.99'

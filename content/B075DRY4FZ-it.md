@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'homcom Tavolo Multi Gioco 4 in 1 con Calcio Balilla  Hockey da Tavolo  Ping Pong e Biliardo in Legno MDF  87 x 43 x 73cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075DRY4FZ/?tag=tolees00-21'
 descuento: '20.00'
 average: '71.96'

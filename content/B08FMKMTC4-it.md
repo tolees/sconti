@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'XYB Auricolari Bluetooth 5.0  Auricolare Wireless  Microfono e Scatola di Ricarica incorporati incorporati  riduzione del Rumore Stereo 3D HD  per Cuffie Apple Airpods Android/iPhone/Samsung'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FMKMTC4/?tag=tolees00-21'
 descuento: '43.34'
 average: '33.99'

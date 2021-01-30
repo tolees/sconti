@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Cecotec - Bake&Toast  Forno elettrico da tavolo  capacità di 10 litri 450 Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07C2XFG2X/?tag=tolees00-21'
 descuento: '21.30'
 average: '29.9'

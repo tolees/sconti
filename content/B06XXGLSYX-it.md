@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 574v2 Core  Scarpa da Tennis Donna  Grigio  Grey   36.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XXGLSYX/?tag=tolees00-21'
 descuento: '46.13'
 average: '48.48'

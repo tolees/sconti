@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Retevis RT628B Walkie Talkie Bambini  Ricetrasmittenti Bambini  PMR446 3 Canali Volume Regolabile Blocco Tasti  Giocattolo Regalo per Ragazzi Ragazze Campeggio  Escursionismo  Giardino Rosso  1 Paio '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085ZSV1JJ/?tag=tolees00-21'
 descuento: '20.01'
 average: '17.59'

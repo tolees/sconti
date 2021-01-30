@@ -16,6 +16,7 @@ comparePrice: 20.34 EUR
 prodname: 'Fabuloso Ammorbidente Concentrato 1000 Vaniglia - [confezione da 6]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MSZDAE2/?tag=tolees00-21'
 descuento: '47.20'
 average: '10.74'

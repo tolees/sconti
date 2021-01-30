@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Chicco Passeggino Ohlalà 2  Leggero  Compatto  Paprika  Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07G348FNH/?tag=tolees00-21'
 descuento: '34.53'
 average: '91.0'

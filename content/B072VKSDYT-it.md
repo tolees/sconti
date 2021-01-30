@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Aeternum Titanium Induction Piastra Multiuso Crepiere  Alluminio  Grigio  28 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072VKSDYT/?tag=tolees00-21'
 descuento: '43.52'
 average: '12.99'

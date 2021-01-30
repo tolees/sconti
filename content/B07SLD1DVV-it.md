@@ -16,6 +16,7 @@ comparePrice: 2.59 EUR
 prodname: 'Vitalis muesli croccante frutta secca - 300 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SLD1DVV/?tag=tolees00-21'
 descuento: '15.44'
 average: '2.19'

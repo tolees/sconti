@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Desigual Bols Luna Rock Loverty - Borsa con manico  14 x 24 x 33 cm  Blu  Blu  Marino    14x24x33 cm  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VHW37KD/?tag=tolees00-21'
 descuento: '36.10'
 average: '31.95'

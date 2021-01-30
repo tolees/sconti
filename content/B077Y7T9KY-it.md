@@ -16,6 +16,7 @@ comparePrice: 8.73 EUR
 prodname: 'HIKARO T-Shirt con Logo Uomo  Nero  Black   52  Taglia Produttore: Large '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077Y7T9KY/?tag=tolees00-21'
 descuento: '20.50'
 average: '6.94'

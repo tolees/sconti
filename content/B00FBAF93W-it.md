@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Lacoste Sport L1230 Polo Sport Ultraleggera  Blu  Marine 166   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00FBAF93W/?tag=tolees00-21'
 descuento: '20.07'
 average: '59.1390909090909'

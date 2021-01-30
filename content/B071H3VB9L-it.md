@@ -16,6 +16,7 @@ comparePrice: 65.9 EUR
 prodname: 'find. Stivaletti Stringati in Pelle Uomo  Nero  Black   44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071H3VB9L/?tag=tolees00-21'
 descuento: '66.18'
 average: '22.29'

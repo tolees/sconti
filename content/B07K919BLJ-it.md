@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'POC Omne Air Spin  Helmet Unisex – Adulto  Zink Orange Avip  M / 54-59 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K919BLJ/?tag=tolees00-21'
 descuento: '19.17'
 average: '129.28'

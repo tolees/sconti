@@ -16,6 +16,7 @@ comparePrice: 26.47 EUR
 prodname: 'Marchio Amazon - find. Bomber Imbottito Uomo  Blu  Navy   M  Label: M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073JV7WSD/?tag=tolees00-21'
 descuento: '54.10'
 average: '12.15'

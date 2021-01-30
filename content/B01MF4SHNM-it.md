@@ -16,6 +16,7 @@ comparePrice: 8.1 EUR
 prodname: 'De Cecco Casareccia n° 88  Pasta di Semola di Grano Duro - 3 kg  500 g x 6 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MF4SHNM/?tag=tolees00-21'
 descuento: '18.52'
 average: '6.6'

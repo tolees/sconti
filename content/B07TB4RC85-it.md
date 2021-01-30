@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Avvitatore ad Impulsi  TECCPO 350Nm Avvitatori a Massa Battente 18V  4.0Ah Batteria  3x Chiavi A Bussola  Mandrino 13mm  1/2"   Impulsi/min 0-3000  con Valigetta Rigida'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TB4RC85/?tag=tolees00-21'
 descuento: '34.68'
 average: '129.98'

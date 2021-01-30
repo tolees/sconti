@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'HyperX HX-MICQC-BK Quadcast  Microfono Standalone per Streamer e Podcaster'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NZZZ746/?tag=tolees00-21'
 descuento: '24.15'
 average: '106.445'

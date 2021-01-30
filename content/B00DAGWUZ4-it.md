@@ -16,6 +16,7 @@ comparePrice: 22.04 EUR
 prodname: 'Pasante  Profilattici Extra Sensitive  144 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DAGWUZ4/?tag=tolees00-21'
 descuento: '15.56'
 average: '18.61'

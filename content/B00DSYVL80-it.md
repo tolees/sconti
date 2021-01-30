@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Casio Orologio Digitale al Quarzo Donna con Cinturino in Acciaio Inox LA680WEA-1BEF'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DSYVL80/?tag=tolees00-21'
 descuento: '32.22'
 average: '32.00333333333333'

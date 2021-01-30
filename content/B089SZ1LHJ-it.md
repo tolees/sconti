@@ -16,6 +16,7 @@ comparePrice: 108.99 EUR
 prodname: 'Melchioni Family Melchioni Baretto Plus  Mini frigo Bar Silenzioso  50L  Frigorifero Piccolo  Frighetto Portatile da Camera  Elettrico  Ufficio  B&B  Hotel e Campeggio  Bianco  unica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089SZ1LHJ/?tag=tolees00-21'
 descuento: '17.43'
 average: '89.99'

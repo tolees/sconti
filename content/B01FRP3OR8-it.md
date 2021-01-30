@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'The Amazing Spiderman 2  4K '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01FRP3OR8/?tag=tolees00-21'
 descuento: '20.13'
 average: '11.9'

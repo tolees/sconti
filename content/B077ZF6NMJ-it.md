@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Tristar Crispy Mini Friggitrice ad aria calda  1000 W  2 Liters  Plastic  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21'
 descuento: '24.00'
 average: '37.99'

@@ -16,6 +16,7 @@ comparePrice: 60.9 EUR
 prodname: 'Fast & Furious Crossroads - Xbox One [Edizione: Regno Unito]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0837FS8JB/?tag=tolees00-21'
 descuento: '15.12'
 average: '59.1'

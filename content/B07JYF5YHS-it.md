@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Regina Wish Carta Cucina | Confezione da 24 Rotoli | 150 strappi per rotolo* | Fogli a misura di mano  scegli quanto basta e sprechi di meno | Carta 100% certificata FSC®'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JYF5YHS/?tag=tolees00-21'
 descuento: '19.65'
 average: '24.9'

@@ -16,6 +16,7 @@ comparePrice: 21.92 EUR
 prodname: 'AhaStyle - Supporto per cellulare 3 in 1  in silicone  compatibile con Apple Watch  AirPods Pro/AirPods/AirPods 2 e iPhone 11/11 Pro/11 Pro Max/Xs/X Max/XR/X/8/8 Plus Allegro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075XNCQ6F/?tag=tolees00-21'
 descuento: '37.09'
 average: '13.79'

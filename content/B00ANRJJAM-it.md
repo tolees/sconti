@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Pedrini 9081 Caffettiera  Kaffettiera  1 tazza'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ANRJJAM/?tag=tolees00-21'
 descuento: '16.05'
 average: '9.99'

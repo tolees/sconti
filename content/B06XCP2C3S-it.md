@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Ravensburger Puzzle - Krypt Gold 631 Pezzi  15152 3'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XCP2C3S/?tag=tolees00-21'
 descuento: '35.02'
 average: '12.99'

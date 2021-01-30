@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO Duplo Disney - Gioco per Bambini La Casa delle Vacanze di Topolino  Multicolore  6250697'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KTVF52Q/?tag=tolees00-21'
 descuento: '29.37'
 average: '38.84'

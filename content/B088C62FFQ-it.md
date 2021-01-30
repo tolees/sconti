@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Viakal Detersivo Anticalcare Spray Aceto  Maxi Formato 10 Pezzi da 515 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21'
 descuento: '19.10'
 average: '17.79'

@@ -16,6 +16,7 @@ comparePrice: 17.69 EUR
 prodname: 'Palmolive Sapone Liquido Latte e Miele Erogatore - Pacco da 12 x 300 ml - Totale: 3600 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06WVHTNK9/?tag=tolees00-21'
 descuento: '42.40'
 average: '10.19'

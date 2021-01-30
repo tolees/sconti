@@ -16,6 +16,7 @@ comparePrice: 46.4 EUR
 prodname: 'Marchio Amazon - find. - Parka  Giacca Uomo  Blu  Navy   XS  Label: XS'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DD43XRQ/?tag=tolees00-21'
 descuento: '64.46'
 average: '16.49'

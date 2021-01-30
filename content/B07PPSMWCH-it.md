@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: '4D Silk Fiber Eyelash Mascara  Mascara Waterproof  Mascara Ciglia Extra Volume  4D Mascara  4D Fiber Black Lash Mascara  più lunga  più spessa  Nera'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PPSMWCH/?tag=tolees00-21'
 descuento: '20.01'
 average: '11.19'

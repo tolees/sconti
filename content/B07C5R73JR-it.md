@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Samsung WW90J5356MW Lavatrice 9 kg Caricamento Frontale Ecolavaggio  1200 rpm  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07C5R73JR/?tag=tolees00-21'
 descuento: '41.74'
 average: '349.0'

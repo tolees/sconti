@@ -16,6 +16,7 @@ comparePrice: 22.25 EUR
 prodname: 'Campari Bitter Ml.1000'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0029ZCLOC/?tag=tolees00-21'
 descuento: '32.18'
 average: '13.844999999999999'

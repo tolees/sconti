@@ -16,6 +16,7 @@ comparePrice: 122.0 EUR
 prodname: 'Diesel Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inossidabile DZ1436'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B004Y4ZB0C/?tag=tolees00-21'
 descuento: '48.36'
 average: '63.0'

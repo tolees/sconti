@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Havaianas Hype  Infradito Uomo  Multicolore  Sand Grey/Dark Brown 8615   39/40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07H397CNJ/?tag=tolees00-21'
 descuento: '23.29'
 average: '16.8'

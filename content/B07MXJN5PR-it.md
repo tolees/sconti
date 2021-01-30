@@ -16,6 +16,7 @@ comparePrice: 17.98 EUR
 prodname: 'Dixan Duo Caps Lavanda  Detersivo Lavatrice Capsule Pre-Dosato  2 Confezioni da 30 Capsule'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MXJN5PR/?tag=tolees00-21'
 descuento: '24.47'
 average: '13.58'

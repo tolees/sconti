@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'The North Face M TBL Sport HD  Piumino Uomo  Rosso  Rage Red/Bitter   S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BB3VQ8H/?tag=tolees00-21'
 descuento: '34.09'
 average: '125.23'

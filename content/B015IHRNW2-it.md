@@ -16,6 +16,7 @@ comparePrice: 269.95 EUR
 prodname: 'homcom Tapis Roulant Elettrico con Schermo LED Pieghevole per Allenamento a Casa 500 W'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015IHRNW2/?tag=tolees00-21'
 descuento: '20.00'
 average: '215.96'

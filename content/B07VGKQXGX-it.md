@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'NAPAPIJRI Rainforest M Sum 1 Giacca  Grigio  Dove Grey H361   XX-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VGKQXGX/?tag=tolees00-21'
 descuento: '64.30'
 average: '63.91'

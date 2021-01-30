@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'LEGO-Duplo Disney Il Trenino di Topolino e Minnie  Multicolore  10597'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00SDTEA6A/?tag=tolees00-21'
 descuento: '17.40'
 average: '18.99'

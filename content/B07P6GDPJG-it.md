@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Philips S6640/44 Rasoio Elettrico Uomo S6000  Wet&Dry  Testina MultiFlex 5 direzioni  Lame MultiPrecision  Modalità Skin Guard con Regolabarba Uomo Integrato'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07P6GDPJG/?tag=tolees00-21'
 descuento: '37.50'
 average: '99.99'

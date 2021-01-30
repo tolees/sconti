@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TACKLIFE Pistola da Giardino  10 modalità di Spruzzo  Pistola per autolavaggio  Design Ergonomico per Un Funzionamento Senza Fatica GHN1B'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K7H5S6R/?tag=tolees00-21'
 descuento: '67.38'
 average: '4.89'

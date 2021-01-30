@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Shadow of Mordor Hits Collection - PS4 - Other - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DJQTD58/?tag=tolees00-21'
 descuento: '15.56'
 average: '16.88'

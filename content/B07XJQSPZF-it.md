@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'DYNASONIC - Supporto robusto per Altoparlante  Treppiede per apparecchiature professionali Altoparlanti DYNAPRO  | Facilmente trasportabile e stabile con piedini antiscivolo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XJQSPZF/?tag=tolees00-21'
 descuento: '21.27'
 average: '21.25'

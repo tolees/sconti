@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Herschel 10020-00919 Little America Mid-Volume Raven Crosshatch/Black'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01GDS3GGW/?tag=tolees00-21'
 descuento: '19.37'
 average: '88.68'

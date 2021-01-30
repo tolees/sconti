@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Columbia SANTIAM 2 Strap  Sandali Uomo  Grigio  Dark Grey Rusty 089   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073RNWD7Z/?tag=tolees00-21'
 descuento: '49.99'
 average: '37.5'

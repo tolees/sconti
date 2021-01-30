@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Aigostar Vina - Asciugacapelli da viaggio professionale  Doppia tensione 127V/220V  compatto con impugnatura pieghevole  2 impostazioni di calore  portatile design nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083FFXZK5/?tag=tolees00-21'
 descuento: '20.01'
 average: '15.99'

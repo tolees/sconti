@@ -16,6 +16,7 @@ comparePrice: 85.99 EUR
 prodname: 'PowerWalker VI 850SE LCD / IEC  UPS  850 VA 4 AC AC Interactive Line - Alimentazione continua    UPS   850 VA  480 W  170 V  280 V  230 V   Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00NIDY9ZS/?tag=tolees00-21'
 descuento: '24.43'
 average: '64.98'

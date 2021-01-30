@@ -16,6 +16,7 @@ comparePrice: 15.4 EUR
 prodname: 'L Oréal Paris Sublime Sun Cellular Protect  Latte Solare Protezione Cellulare IP 50  200 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00WR4IKZO/?tag=tolees00-21'
 descuento: '49.48'
 average: '7.78'

@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Omino Bianco - IdroCaps  Detersivo in Dosi con Ammorbidente  Pulito 100% Senza Sprechi - 20 pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EJV7GFM/?tag=tolees00-21'
 descuento: '20.03'
 average: '4.79'

@@ -16,6 +16,7 @@ comparePrice: 20.36 EUR
 prodname: 'Under Armour Recovery Sleepwear Crew Maglietta a Maniche Corte  Uomo  Nero  MD'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077XN8CV3/?tag=tolees00-21'
 descuento: '17.19'
 average: '16.86'

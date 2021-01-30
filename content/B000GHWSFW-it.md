@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Chanel  Coco - Eau De Toilette Spray  Donna  100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000GHWSFW/?tag=tolees00-21'
 descuento: '60.23'
 average: '43.35'

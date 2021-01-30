@@ -16,6 +16,7 @@ comparePrice: 58.9 EUR
 prodname: 'Calvin Klein Medium Drawstring Pantaloncini  Bianco  PVH Classic White YCD   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VNNR83J/?tag=tolees00-21'
 descuento: '31.43'
 average: '40.39'

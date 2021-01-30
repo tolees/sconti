@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Crocs  Baya Summer Flip U  Sandali  Uomo  Blu  Blau  Navy 410    42-43'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B005HV2PZK/?tag=tolees00-21'
 descuento: '42.81'
 average: '17.1'

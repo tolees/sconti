@@ -16,6 +16,7 @@ comparePrice: 209.95 EUR
 prodname: 'GORE WEAR C5 Giacca da ciclismo per uomo GORE-TEX  S  Nero/Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075S3NNK5/?tag=tolees00-21'
 descuento: '34.71'
 average: '137.08'

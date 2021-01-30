@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nike Tanjun Mn  Scarpe Sportive Uomo  Nero  Black/White   44.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XWPX6E2/?tag=tolees00-21'
 descuento: '22.31'
 average: '54.49'

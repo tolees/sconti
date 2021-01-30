@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'HOMCOM Deambulatore per Anziani Pieghevole e Ultraleggero in Alluminio con 2 Ruote e Altezza Regolabile 77-95 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DNLCQXP/?tag=tolees00-21'
 descuento: '20.00'
 average: '36.76'

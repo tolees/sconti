@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Down Dehon Pkbl Puffer Giacca  Nero  Mineral Black 0000   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RZLJLGX/?tag=tolees00-21'
 descuento: '70.04'
 average: '38.95'

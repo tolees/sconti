@@ -16,6 +16,7 @@ comparePrice: 26.92 EUR
 prodname: 'Dash Detersivo Lavatrice Liquido Primavera  Formato Convenienza 95 Lavaggi  5 Confezioni da 19 Lavaggi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DDN6S7R/?tag=tolees00-21'
 descuento: '25.74'
 average: '19.99'

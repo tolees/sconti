@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'Kenwood KHC29.H0WH Impastatrice Planetaria Prospero  1000 W  4.3 Litri  Plastica  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YNJT5N5/?tag=tolees00-21'
 descuento: '30.48'
 average: '159.94'

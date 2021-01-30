@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Optimum Nutrition Protein Bar 10 Barrette Proteiche con Proteine Whey Isolate in Polvere  Cioccolato Caramello  Scatola di 10 x 60 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PMF8QB1/?tag=tolees00-21'
 descuento: '21.75'
 average: '17.99'

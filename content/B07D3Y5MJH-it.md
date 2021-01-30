@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Kealive  Arriccia Capelli  Ferro Arricciacapelli Pro Spiral Curl  Display Digitale LCD  Rivestimento Ceramica  da 87 ℃ a 232 ℃'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D3Y5MJH/?tag=tolees00-21'
 descuento: '23.54'
 average: '12.99'

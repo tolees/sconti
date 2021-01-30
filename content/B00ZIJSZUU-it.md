@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Trust GXT 363 Cuffie da Gioco Surround 7.1 con Vibrazioni Attive dei Bassi  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ZIJSZUU/?tag=tolees00-21'
 descuento: '55.66'
 average: '39.9'

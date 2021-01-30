@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s The Perfect Tee Maglietta  Grigio  Better Batwing Smokestack Smokestack Htr 263   Large Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0716LRRT6/?tag=tolees00-21'
 descuento: '37.50'
 average: '12.5'

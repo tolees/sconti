@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Purificatore d Aria Portatile con Filtro HEPA  USB Desktop Filtro dell Aria con Luce Notturna e Funzione di Aromaterapia  Rimuovere Polvere  Fumo  Odore  Peli di Animali Domestici  per Casa  Ufficio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WZWXDYQ/?tag=tolees00-21'
 descuento: '50.05'
 average: '24.97'

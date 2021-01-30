@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Levi s The Perfect Tee  T-shirt Donna  Bianco  White Cn 0006   X-Small'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077VQCX41/?tag=tolees00-21'
 descuento: '20.05'
 average: '15.99'

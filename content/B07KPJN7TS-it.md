@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Fiocchi di Riso Talco Non Talco  Emulsione fluida  120 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KPJN7TS/?tag=tolees00-21'
 descuento: '23.09'
 average: '9.99'

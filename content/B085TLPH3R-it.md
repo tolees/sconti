@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Epilatore Luce Pulsata  999 999 Flash IPL Apparecchi Depilazione Laser di Epilazione Permanente per Viso e Corpo  con 5 Livelli di Energia  2 Modalità Depilazione Permanente Indolore per Donna Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085TLPH3R/?tag=tolees00-21'
 descuento: '17.50'
 average: '76.49'

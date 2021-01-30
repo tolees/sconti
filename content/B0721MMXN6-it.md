@@ -16,6 +16,7 @@ comparePrice: 50.82 EUR
 prodname: 'Assassin S Creed Origins'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0721MMXN6/?tag=tolees00-21'
 descuento: '72.47'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Urban Classics Block Swim Shorts Pantaloncini da Bagno  Multicolore  Nvy/Burgundy 675   S Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ST7IM10/?tag=tolees00-21'
 descuento: '39.70'
 average: '12.0'

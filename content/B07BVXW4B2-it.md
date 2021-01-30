@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Tomtom Navigatore Satellitare per Auto GO Basic  Traffico  Tutor e Autovelox di Prova  Mappe Europa  Aggiornamenti Tramite WiFi  Supporto Reversibile Integrato  5 Pollici'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BVXW4B2/?tag=tolees00-21'
 descuento: '43.78'
 average: '89.9'

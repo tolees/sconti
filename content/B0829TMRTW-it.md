@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Feagar Cuscino per Sedile  Cuscino per Emorroidi di Schiena in Memory Foam  Cuscino Seduto per Sedia a rotelle Ufficio Casa Auto  Federa in Cotone'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0829TMRTW/?tag=tolees00-21'
 descuento: '22.51'
 average: '30.99'

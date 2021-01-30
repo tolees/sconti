@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'HP Color LaserJet Pro M283fdw  Stampante Wi-Fi Multifunzione  Fino a 21 ppm  fronte/retro automatico  ADF  Display Touchscreen  Bianca'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081FGS43D/?tag=tolees00-21'
 descuento: '32.75'
 average: '269.0'

@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Salomon Xa Pro 3D Gtx  Scarpe da Corsa Uomo  Nero  47 1/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01HD6RHTK/?tag=tolees00-21'
 descuento: '40.93'
 average: '94.48'

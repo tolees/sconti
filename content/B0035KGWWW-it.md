@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Sola Scriptura'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21'
 descuento: '26.70'
 average: '7.99'

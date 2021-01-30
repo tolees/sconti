@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Sandisk Ultra Dual USB Drive 3.0 16GB  Velocità di lettura fino a 130 MB/s  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01GK98YE8/?tag=tolees00-21'
 descuento: '64.26'
 average: '5.0'

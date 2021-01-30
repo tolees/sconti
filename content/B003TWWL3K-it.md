@@ -16,6 +16,7 @@ comparePrice: 25.42 EUR
 prodname: 'Claber Tubo Collettore da 50m'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003TWWL3K/?tag=tolees00-21'
 descuento: '25.33'
 average: '18.98'

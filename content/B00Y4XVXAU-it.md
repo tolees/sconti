@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste PH4012  T-shirt Polo Uomo  Bianco  Blanc   Medium  Taglia Produttore: 4 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00Y4XVXAU/?tag=tolees00-21'
 descuento: '34.75'
 average: '62.49'

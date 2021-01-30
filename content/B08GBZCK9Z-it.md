@@ -16,6 +16,7 @@ comparePrice: 11.96 EUR
 prodname: '50PC Usa e getta Blu a 3 Strati  Blu '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08GBZCK9Z/?tag=tolees00-21'
 descuento: '56.61'
 average: '5.19'

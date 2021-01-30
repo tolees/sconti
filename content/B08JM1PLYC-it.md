@@ -16,6 +16,7 @@ comparePrice: 19.23 EUR
 prodname: '[2+3 pezzi] UniqueMe Vetro Temperato per Xiaomi Poco X3 NFC +[Bubble-Free] Pellicola Fotocamera per Xiaomi Poco X3 NFC Vetro [Facile installare].'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08JM1PLYC/?tag=tolees00-21'
 descuento: '53.25'
 average: '8.99'

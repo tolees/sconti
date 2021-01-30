@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Superstar J  Scarpe da Ginnastica Unisex-Baby  Ftwr White/Ftwr White/Ftwr White  38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0813WLZJZ/?tag=tolees00-21'
 descuento: '49.48'
 average: '35.34'

@@ -16,6 +16,7 @@ comparePrice: 41.0 EUR
 prodname: 'Omega 3 A.C. - 120 Perle'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00S9LDF4A/?tag=tolees00-21'
 descuento: '60.98'
 average: '16.0'

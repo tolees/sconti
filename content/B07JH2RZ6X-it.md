@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PUMA Carina L  Scarpe da Ginnastica Donna  Bianco White White Silver  40.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JH2RZ6X/?tag=tolees00-21'
 descuento: '23.84'
 average: '45.69'

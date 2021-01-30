@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Disney Infinity 3.0: EU Han Solo Figurina'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ZWLKUZ2/?tag=tolees00-21'
 descuento: '73.45'
 average: '3.98'

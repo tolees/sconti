@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA ST RUNNER V2 NL  Scarpe da Ginnastica Unisex-Adulto  Black White  48.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077MPJSSD/?tag=tolees00-21'
 descuento: '17.82'
 average: '45.16'

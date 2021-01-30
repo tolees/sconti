@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'STM Bags Dux Plus Cover per iPad PRO 9.7  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EHG36BC/?tag=tolees00-21'
 descuento: '36.01'
 average: '38.36'

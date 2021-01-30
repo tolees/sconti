@@ -16,6 +16,7 @@ comparePrice: 539.99 EUR
 prodname: 'Robot Aspirapolvere  Muzili Robot Aspirapolvere Navigazione Intelligente WLAN con Serbatoio d Acqua Potenza Aspirante Regolabile a 3 Livelli/Autonomia di 130 Minuti/Controllo APP e Ricarica Automatica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07YDBJC36/?tag=tolees00-21'
 descuento: '28.52'
 average: '385.99'

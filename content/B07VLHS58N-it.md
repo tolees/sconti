@@ -16,6 +16,7 @@ comparePrice: 79.62 EUR
 prodname: 'Calvin Klein Racer Back One Piece Reggiseno Bikini  Rosso  High Risk XBG    Taglia Produttore: X-Small  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VLHS58N/?tag=tolees00-21'
 descuento: '77.29'
 average: '18.08'

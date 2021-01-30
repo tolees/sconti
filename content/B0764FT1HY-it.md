@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Neato Robotics D7 Robot Aspirapolvere Intelligente  Compatibile con Alexa  con Stazione di Ricarica  Wi-Fi e App Android/iOS  61 W  0.7 litri  69 Decibel  Plastica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0764FT1HY/?tag=tolees00-21'
 descuento: '55.51'
 average: '399.99'

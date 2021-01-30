@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate Tasti Ricambio per Playstation 4 PS4 Pro Slim Controller Trigger R1 L1 R2 L2 D-pad Touchpad Pulsante Azione Home Share Option per PS4 Joystick CUH-ZCT2 Bianco '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BWVJD56/?tag=tolees00-21'
 descuento: '48.02'
 average: '12.99'

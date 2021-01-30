@@ -16,6 +16,7 @@ comparePrice: 6.67 EUR
 prodname: 'Grborn TER-mometro a infrarossi Senza Contatto LCD per la misurazione della Fronte Display Digitale a Tre Colori con retroilluminazione'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BHXKM5V/?tag=tolees00-21'
 descuento: '18.29'
 average: '5.45'

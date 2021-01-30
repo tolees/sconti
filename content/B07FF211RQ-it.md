@@ -16,6 +16,7 @@ comparePrice: 35.07 EUR
 prodname: 'Marchio Amazon - TRUTH & FABLE Tuta Intera Donna  Multicolore  Multi Colour   46  Label: L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FF211RQ/?tag=tolees00-21'
 descuento: '49.93'
 average: '17.56'

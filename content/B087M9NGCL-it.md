@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'CHEREEKI Controller per Nintendo Switch  Controller Wireless con Doppio Turbo Vibrazione Supporta Funzione Gyro Axis'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087M9NGCL/?tag=tolees00-21'
 descuento: '15.01'
 average: '24.689999999999998'

@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Garnier Ultra Dolce Olio d Argan e di Camelia Bagnodoccia Satinante Pelle Setosa e Morbida  500 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01FFVPV02/?tag=tolees00-21'
 descuento: '50.17'
 average: '1.49'

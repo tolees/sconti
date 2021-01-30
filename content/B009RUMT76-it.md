@@ -16,6 +16,7 @@ comparePrice: 18.29 EUR
 prodname: 'Pampero Especial Rum  L 1'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B009RUMT76/?tag=tolees00-21'
 descuento: '34.39'
 average: '12.0'

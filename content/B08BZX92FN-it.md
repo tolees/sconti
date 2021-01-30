@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'homcom Poltrona Girevole 360° in Stile Chesterfield con Spessa Imbottitura  Tessuto Blu con Cristalli  77 x 71 x 72cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BZX92FN/?tag=tolees00-21'
 descuento: '23.13'
 average: '122.95'

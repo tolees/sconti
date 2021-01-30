@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Kellogg s Krave Choco Nut - 410 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086XRP94M/?tag=tolees00-21'
 descuento: '25.06'
 average: '2.99'

@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'G-Color Supporto per PC Portatile Angolazione Regolabile Pieghevole Supporto da 11-17 Pollici per Computer Portatile/Notebook/MacBook PRO/MacBook Air/iPad Laptop Stand-Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZVRPKZL/?tag=tolees00-21'
 descuento: '28.58'
 average: '19.99'

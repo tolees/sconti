@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Garmin Forerunner 45s  Orologio Smart GPS per la Corsa e Altri Sport Unisex  Viola  S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PXZ8W76/?tag=tolees00-21'
 descuento: '25.02'
 average: '149.95'

@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Pyrex Irresistible Teglia rettangolare in vetro borosilicato  31x20x6 5cm - 2 2 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00RXIJGR0/?tag=tolees00-21'
 descuento: '46.23'
 average: '7.24'

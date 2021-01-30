@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Blu  Navy Blazer Detail: Slim Fit   X-Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079BRQ35S/?tag=tolees00-21'
 descuento: '19.94'
 average: '12.126666666666667'

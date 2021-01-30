@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Claber 87271 Tubo Innaffio Estensibile  Kit 3/4" 9034  Nero/Arancione/Grigio  105x105x540 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003OWVC0S/?tag=tolees00-21'
 descuento: '30.87'
 average: '19.98'

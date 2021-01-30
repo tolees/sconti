@@ -16,6 +16,7 @@ comparePrice: 47.0 EUR
 prodname: 'Lacoste 5h1803 Intimo  THYM/Marine-Blanc  M Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083FHV9JG/?tag=tolees00-21'
 descuento: '38.32'
 average: '28.99'

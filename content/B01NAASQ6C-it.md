@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Swarovski Pendente Iconic Swan  Multicolore  Placcatura Rodio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01NAASQ6C/?tag=tolees00-21'
 descuento: '46.61'
 average: '42.18'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Hackett Continuity WSH/Oxford Camicia  Rosa  Pink 325   44  Taglia Produttore: Small  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VF6J54V/?tag=tolees00-21'
 descuento: '33.07'
 average: '13.32'

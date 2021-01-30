@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Call of Duty: Infinite Warfare - Legacy Edition - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01F28ZHGG/?tag=tolees00-21'
 descuento: '60.16'
 average: '4.98'

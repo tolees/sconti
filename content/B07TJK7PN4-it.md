@@ -16,6 +16,7 @@ comparePrice: 104.95 EUR
 prodname: 'Clarks Ronnie Limit  Scarpe Stringate Derby Uomo  Marrone  Tan Leather Tan Leather   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TJK7PN4/?tag=tolees00-21'
 descuento: '64.75'
 average: '37.0'

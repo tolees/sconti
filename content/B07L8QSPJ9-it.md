@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Readaeer AB Roller Ruota per Addominali Rullo Abdominal Roller'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07L8QSPJ9/?tag=tolees00-21'
 descuento: '31.60'
 average: '12.99'

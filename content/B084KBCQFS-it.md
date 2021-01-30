@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Motorola Moto G8 Power Smartphone  Batteria 5000 mAh  Display MaxVision FHD+ 6.4"  Quad Camera 16MP  Processore Octa-Core  Dual SIM  Dual Stereo Dolby  4/64 GB Espandibile  Android 10  Blue'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084KBCQFS/?tag=tolees00-21'
 descuento: '20.59'
 average: '198.51'

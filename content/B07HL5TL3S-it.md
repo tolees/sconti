@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Skagen Orologio Digitale Uomo con Cinturino in Silicone SKT5100'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HL5TL3S/?tag=tolees00-21'
 descuento: '30.68'
 average: '207.26'

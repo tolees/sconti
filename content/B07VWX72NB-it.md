@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Pepe Jeans Jude T-Shirt  Blu  Indigo 561   L arge Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VWX72NB/?tag=tolees00-21'
 descuento: '69.45'
 average: '12.19'

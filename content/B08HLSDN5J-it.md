@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Didisky Pellicola Protettiva in Vetro Temperato per Xiaomi Redmi Note 5  [2 Pezzi] Protezione Schermo [Tocco Morbido ] Facile da Pulire  Facile da installare  Trasparente'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HLSDN5J/?tag=tolees00-21'
 descuento: '83.36'
 average: '4.99'

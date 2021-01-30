@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'eufy [BoostIQ] RoboVac 11S MAX  aspirapolvere robot  super sottile  aspirazione ultra potente a 2000 Pa  silenzioso  autocaricabile  sistema pulente a 3 punti  pulisce parquet e tappeti a pelo medio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QLP5V1Y/?tag=tolees00-21'
 descuento: '37.50'
 average: '149.99'

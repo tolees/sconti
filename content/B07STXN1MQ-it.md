@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers Energy Timeless Vision  Sneaker Donna  Bianco Bianco Pelle Rosso Navy Trim Wml  39 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07STXN1MQ/?tag=tolees00-21'
 descuento: '49.78'
 average: '35.13'

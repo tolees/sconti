@@ -16,6 +16,7 @@ comparePrice: 171.99 EUR
 prodname: 'WD Elements Hard Disk Esterno  Portatile  USB 3.0  5 TB  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X41PWTY/?tag=tolees00-21'
 descuento: '39.01'
 average: '108.9'

@@ -16,6 +16,7 @@ comparePrice: 47.32 EUR
 prodname: 'find. Scarpe Derby Uomo  Nero  Black   39/40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XGGCKLK/?tag=tolees00-21'
 descuento: '41.38'
 average: '27.74'

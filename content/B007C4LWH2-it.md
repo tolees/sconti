@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Binary Domain'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21'
 descuento: '60.06'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Souke Sports Pantaloncini da Ciclismo da Uomo Bici Mutande Biancheria Intima Imbottitie 4D Traspiranti Antiscivolo Antiurto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TBCLSVH/?tag=tolees00-21'
 descuento: '33.34'
 average: '19.99'

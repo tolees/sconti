@@ -16,6 +16,7 @@ comparePrice: 12.69 EUR
 prodname: 'Revlon ColorStay  colore per sopracciglia'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B006OZF4KG/?tag=tolees00-21'
 descuento: '25.22'
 average: '9.49'

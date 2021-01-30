@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s Graphic Crewneck Tee T-Shirt  Ssnl Serif White  S Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZVQDNSS/?tag=tolees00-21'
 descuento: '25.50'
 average: '22.35'

@@ -16,6 +16,7 @@ comparePrice: 28.01 EUR
 prodname: 'Phd Barrette Diet Smart Bar Lampone Al Cioccolato Fondente  12 X 64G  31% Proteiche - 820 Gr'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XSTS7P7/?tag=tolees00-21'
 descuento: '31.99'
 average: '19.05'

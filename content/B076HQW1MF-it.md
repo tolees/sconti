@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'adidas Core18 Pes Giacca  Uomo  Nero/Bianco  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076HQW1MF/?tag=tolees00-21'
 descuento: '23.15'
 average: '21.48'

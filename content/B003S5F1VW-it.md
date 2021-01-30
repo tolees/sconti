@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Lacoste Sport L1230 Polo Sport Ultraleggera  Bianco  White 001   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B003S5F1VW/?tag=tolees00-21'
 descuento: '25.07'
 average: '52.45'

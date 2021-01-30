@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Amplified Crew Sweat TR  Felpa Donna  Black  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XFX94L6/?tag=tolees00-21'
 descuento: '27.83'
 average: '36.05'

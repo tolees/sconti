@@ -16,6 +16,7 @@ comparePrice: 18.06 EUR
 prodname: 'Desigual Bols rhapsody Durban - Borsa a tracolla  4 x 17 5 x 27 2 cm  colore: marrone/beige'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VFNKYJG/?tag=tolees00-21'
 descuento: '20.04'
 average: '14.44'

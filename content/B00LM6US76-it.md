@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Havaianas Slim 4000030 Infradito Donna  Grigio  Steel Grey   37/38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00LM6US76/?tag=tolees00-21'
 descuento: '34.65'
 average: '16.95'

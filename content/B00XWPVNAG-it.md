@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'Nike Tanjun Mn  Scarpe Sportive Uomo  Grigio  Wolf Grey/White   46 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XWPVNAG/?tag=tolees00-21'
 descuento: '23.50'
 average: '50.49'

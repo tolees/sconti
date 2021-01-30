@@ -16,6 +16,7 @@ comparePrice: 27.45 EUR
 prodname: 'NAPAPIJRI Elbas 3 Polo  Verde  Green Way Gw11   Medium Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VCCHFBL/?tag=tolees00-21'
 descuento: '30.24'
 average: '19.15'

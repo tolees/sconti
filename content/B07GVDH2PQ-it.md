@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Body & Earth Set Regalo Bagno Donna  Idee Cofanetto Regalo Donna  per Donna Compleanno o Festa in 12 Pcs-Profumo Lavanda'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GVDH2PQ/?tag=tolees00-21'
 descuento: '29.18'
 average: '16.99'

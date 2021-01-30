@@ -16,6 +16,7 @@ comparePrice: 103.0 EUR
 prodname: 'Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano Raccolta 17 l  Plastica Dura  200 Air Watt  1000 W - Due Tubi Rigidi D Aspirazione  2 Bocchette  Filtro  Sacchetto  Tubo 2 m'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00IAQ3BCA/?tag=tolees00-21'
 descuento: '41.75'
 average: '60.0'

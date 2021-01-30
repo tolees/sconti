@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'OtterBox Defender Series Custodia per iPad 5th Gen  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00Z7TT7RG/?tag=tolees00-21'
 descuento: '25.13'
 average: '14.9'

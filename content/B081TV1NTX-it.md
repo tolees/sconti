@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081TV1NTX/?tag=tolees00-21'
 descuento: '39.17'
 average: '36.47'

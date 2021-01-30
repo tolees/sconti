@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'BATHWA Specchio Ingranditore con Luce LED  Specchietti da Trucco a Parete Bilaterali a LED  Girevole Orizzontali a 360 ° e Verticali  Cromato in Metallo  Lente d Ingrandimento 5X e Specchio Piatto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BT79C1G/?tag=tolees00-21'
 descuento: '47.38'
 average: '19.99'

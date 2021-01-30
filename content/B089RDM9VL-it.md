@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'TOSING Q9 microfono wireless per karaoke Bluetooth  luci a LED danzanti  portatile per macchine karaoke Magic Sound regalo，giocattoli da viaggio per feste compatibili con Android/Sony/PC Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089RDM9VL/?tag=tolees00-21'
 descuento: '22.73'
 average: '33.99'

@@ -16,6 +16,7 @@ comparePrice: 24.5 EUR
 prodname: 'Havaianas Top Mix  Infradito Unisex Adulto  Grigio [Silver Blue 7606]  41/42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SN4XW5T/?tag=tolees00-21'
 descuento: '34.82'
 average: '15.97'

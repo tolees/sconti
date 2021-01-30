@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'Microsoft Sculpt Comfort Mouse  Windows  Connettività Bluetooth  Bluetrack Technology  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00CHGQ4SM/?tag=tolees00-21'
 descuento: '16.69'
 average: '29.99'

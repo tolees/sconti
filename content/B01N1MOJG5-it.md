@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Club C 85  Sneaker Uomo  Nero  Int/Black/Charcoal   47 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N1MOJG5/?tag=tolees00-21'
 descuento: '16.99'
 average: '66.37'

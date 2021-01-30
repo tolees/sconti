@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'RIIMUHIR Tempered Glass Screen Protector for Xiaomi Mi Note 10/Note 10 PRO/Note 10 Lite [2 Pieces]  Screen Protectors [9H Hardness]  Tempered Glass Film for Xiaomi Mi Note 10/Note 10 PRO/Note 10 Lite'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DNXDV12/?tag=tolees00-21'
 descuento: '18.48'
 average: '11.79'

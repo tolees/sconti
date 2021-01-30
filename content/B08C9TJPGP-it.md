@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY Ricambio per Nintendo Switch Joy-Con Controller Trasparente Ambra  con Pulsanti-Joycon NON Incluso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08C9TJPGP/?tag=tolees00-21'
 descuento: '36.22'
 average: '18.49'

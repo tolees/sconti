@@ -16,6 +16,7 @@ comparePrice: 15.96 EUR
 prodname: 'Omino Bianco - Idrocaps White Sbianca E Smacchia  Ultra Efficace  12 Capsule - 240 G - [confezione da 4]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01NCM8SMW/?tag=tolees00-21'
 descuento: '33.58'
 average: '10.6'

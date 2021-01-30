@@ -16,6 +16,7 @@ comparePrice: 226.99 EUR
 prodname: 'TACKLIFE Tagliabordi a Batteria  40 V 2 5 Ah  Motore Brushless  Larghezza di Taglio 30 cm  Sistema di Taglio a Doppio Filo  Controllo Filo Semiautomatico  LGT01A'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VVDNHRP/?tag=tolees00-21'
 descuento: '42.73'
 average: '129.99'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Ipae-Progarden Set Tree Antracite C/Cuscini'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XRZ6W99/?tag=tolees00-21'
 descuento: '15.02'
 average: '67.98'

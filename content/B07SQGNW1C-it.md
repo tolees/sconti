@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Geox U Kennet B  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4064   44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SQGNW1C/?tag=tolees00-21'
 descuento: '64.73'
 average: '38.76'

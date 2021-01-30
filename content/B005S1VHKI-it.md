@@ -16,6 +16,7 @@ comparePrice: 140.99 EUR
 prodname: 'Aeg FDS 140 Levigatrice Orbitale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B005S1VHKI/?tag=tolees00-21'
 descuento: '51.06'
 average: '69.0'

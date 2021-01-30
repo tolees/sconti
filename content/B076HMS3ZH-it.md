@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'adidas Core18 Rain Jacket  Uomo  Dark Blue/White  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076HMS3ZH/?tag=tolees00-21'
 descuento: '36.22'
 average: '25.48'

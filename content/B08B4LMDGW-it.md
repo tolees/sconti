@@ -16,6 +16,7 @@ comparePrice: 55.98 EUR
 prodname: 'HAYLOU LS02 Smartwatch Orologio Fitness Tracker Global Version 2 Schermo LCD da 1 4 Pollici BT5.0 12 modalità Sport IP68 Impermeabile 20 Giorni Standby Orologio da Polso Frequenza Cardiaca'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08B4LMDGW/?tag=tolees00-21'
 descuento: '32.14'
 average: '37.99'

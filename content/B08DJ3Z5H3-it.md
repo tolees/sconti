@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Yagte Hard Disk 2 TB Esterno  Hard Disk Esterno USB3.0 per PC  Mac  MacBook  Xbox One 2TB Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DJ3Z5H3/?tag=tolees00-21'
 descuento: '31.32'
 average: '67.99'

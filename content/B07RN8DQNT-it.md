@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Funko POP! Games: Laguna POP 2'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RN8DQNT/?tag=tolees00-21'
 descuento: '31.69'
 average: '10.335'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'FLYLINKTECH Avviatore di Emergenza per Auto  2500A Peak 24000mAh Avviamento Batteria per Auto Portatile con Presa CA da 100 W  Fino a Tutti i Gas o Motore Diesel 8.0L '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087FFF5WP/?tag=tolees00-21'
 descuento: '30.00'
 average: '101.99'

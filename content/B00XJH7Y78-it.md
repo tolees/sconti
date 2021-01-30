@@ -16,6 +16,7 @@ comparePrice: 31.0 EUR
 prodname: 'Panasonic KX-TGFA30 Telefoni domestici'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XJH7Y78/?tag=tolees00-21'
 descuento: '19.39'
 average: '24.99'

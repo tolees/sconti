@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Chicco 00001166000300 Guaina Post Parto Regolabile  3  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B016FGLFOC/?tag=tolees00-21'
 descuento: '17.57'
 average: '35.22666666666667'

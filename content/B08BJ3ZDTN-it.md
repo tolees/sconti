@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Aigostar - Lampada da scrivania con protezione degli occhi 15W LED  4000k  Ra≥95  privo di sfarfallio e luce naturale  touch control dimmerabile. Paralume e corpo regolabile.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BJ3ZDTN/?tag=tolees00-21'
 descuento: '31.04'
 average: '39.99'

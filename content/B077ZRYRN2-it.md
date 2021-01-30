@@ -16,6 +16,7 @@ comparePrice: 29.89 EUR
 prodname: 'YUCUN 2 5 pollici SATA III Unità a Stato Solido Interno R570 120GB SSD'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077ZRYRN2/?tag=tolees00-21'
 descuento: '44.63'
 average: '16.55'

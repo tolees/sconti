@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Pril Gold Gel lavastoviglie Sciogli Grasso Limone & Lime  Detersivo lavastoviglie con sgrassatore attivo  33 lavaggi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08GCYNLBM/?tag=tolees00-21'
 descuento: '33.39'
 average: '3.99'

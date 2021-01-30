@@ -16,6 +16,7 @@ comparePrice: 12.75 EUR
 prodname: 'Gillette Fusion Proglide Flexball Rasatura'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00J2AP9F0/?tag=tolees00-21'
 descuento: '40.39'
 average: '7.6'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Laelr Digitale Sveglia LED 12 Ore Sveglia in Formato 24 Ore con Retroilluminazione a Snooze  modalità Weekend  Calendario Data  Sveglia da Comodino Temperatura per Viaggi in Ufficio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VS7XM87/?tag=tolees00-21'
 descuento: '15.80'
 average: '15.99'

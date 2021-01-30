@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Tavoletta Grafica LCD Scrittura  8 5 Pollici Elettronica Lavagna Cancellabile Tavolo da Disegno Portatile Lavagnetta Doodle per Bambini Studenti Regalo per Compleanno Natale  Bianco '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082F8XKVG/?tag=tolees00-21'
 descuento: '15.02'
 average: '5.94'

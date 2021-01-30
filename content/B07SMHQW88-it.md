@@ -16,6 +16,7 @@ comparePrice: 249.9 EUR
 prodname: 'Black+Decker BXPW2500DTS Idropulitrice ad Alta Pressione con Dualtech System  2500 W  150 Bar  810 l/h   Nero  DSS'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SMHQW88/?tag=tolees00-21'
 descuento: '35.41'
 average: '161.4'

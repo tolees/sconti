@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Rosso Red White  L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077SJ1YZH/?tag=tolees00-21'
 descuento: '30.05'
 average: '34.94'

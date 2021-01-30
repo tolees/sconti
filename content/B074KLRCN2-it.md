@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Olimpia Splendid 99447 Caldodesign Termoventilatore Ceramico 1800 W  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074KLRCN2/?tag=tolees00-21'
 descuento: '34.10'
 average: '27.666666666666668'

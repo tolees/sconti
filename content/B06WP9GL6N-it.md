@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Rovtop Set 11 Pennelli per Trucco Professionali di Bambù con 1 Spugnetta Trucco  Pennello per Fondotinta Cipria Ombretto Blush Sopracciglia Viso Contouring'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06WP9GL6N/?tag=tolees00-21'
 descuento: '50.05'
 average: '4.99'

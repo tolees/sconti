@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Telecamera di sicurezza a cupola da interni per sorveglianza domestica Imou dotata di Wi-Fi risoluzione 1080P  rilevamento antintrusione  tracking intelligente  modalità privacy'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RWTH99Q/?tag=tolees00-21'
 descuento: '27.28'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997h  Sneaker Uomo  Rosso  Red Hbs   41.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RYN462T/?tag=tolees00-21'
 descuento: '33.34'
 average: '59.99'

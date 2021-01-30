@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '[FORZA ITALIA] HolyHigh Auricolari Cuffie Sportive Senza Fili Auricolari Bluetooth 5.0 Impermeabile IPX5 35 Ore di Autonomia per Riproduzione in Ear'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZNXRK23/?tag=tolees00-21'
 descuento: '50.03'
 average: '9.99'

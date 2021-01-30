@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Risoli Piastra Adattatore Per Induzione  Diametro 260 Mm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00TRTL6D0/?tag=tolees00-21'
 descuento: '30.39'
 average: '19.482'

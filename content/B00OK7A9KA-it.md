@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Worx WX372 Trapano Avvitatore con Percussione  Mandrino in Metallo Autoserrante 13mm   Batteria 20V'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00OK7A9KA/?tag=tolees00-21'
 descuento: '34.44'
 average: '118.0'

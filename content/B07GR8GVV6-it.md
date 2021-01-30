@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero  CK Black 099   M Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GR8GVV6/?tag=tolees00-21'
 descuento: '39.97'
 average: '20.97'

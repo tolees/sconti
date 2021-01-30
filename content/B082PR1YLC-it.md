@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Feagar Cuscino per Sedile Tessuto a Rete - Cuscino Coccige Memory Foam - Ergonomico Cuscini Sedile per Auto  Ufficio Computer  Sedia a rotelle  Alleviare Sciatica  Emorroidi  Dolori di Schiena  Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082PR1YLC/?tag=tolees00-21'
 descuento: '22.51'
 average: '30.99'

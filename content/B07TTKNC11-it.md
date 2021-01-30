@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Swarovski Braccialetto Nice Pearl  Bianco  Placcatura Rodio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TTKNC11/?tag=tolees00-21'
 descuento: '37.75'
 average: '55.4'

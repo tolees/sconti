@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Hisense H32AE5720 TV Smart TV LED HD 1366 x 768 pixel  32"  Single Stand  USB Media Player  Tuner DVB-T2/S2 HEVC Main10 [Esclusiva Amazon - 2019]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NDCDXW2/?tag=tolees00-21'
 descuento: '20.08'
 average: '199.0'

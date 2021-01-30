@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Calvin Klein CK-One Eau De Toilette  Unisex  200 Milliliter'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000E7WFX4/?tag=tolees00-21'
 descuento: '60.24'
 average: '33.8'

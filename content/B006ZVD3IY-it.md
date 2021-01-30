@@ -16,6 +16,7 @@ comparePrice: 69.56 EUR
 prodname: 'SYLVANIAN FAMILIES Accessori  Multicolore  2745'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B006ZVD3IY/?tag=tolees00-21'
 descuento: '17.55'
 average: '57.36000000000001'

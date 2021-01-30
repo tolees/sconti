@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Webbb Cuffie Bluetooth  Auricolari Bluetooth Senza Fili TWS Auricolari Wireless 5.0 Sportivi in Ear con Custodia da Ricarica Microfono Leggeri Stereo per Samsung iPhone Xiaomi Huawei Sony Oneplus'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08B5YNH4X/?tag=tolees00-21'
 descuento: '16.67'
 average: '25.49'

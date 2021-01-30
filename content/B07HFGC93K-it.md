@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Only onlSKY Reg DNM Skirt BB PIM992 Noos Gonna  Blu  Light Blue Denim Light Blue Denim   44 Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HFGC93K/?tag=tolees00-21'
 descuento: '41.68'
 average: '17.49'

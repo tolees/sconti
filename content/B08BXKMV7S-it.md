@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'HHUIWIND Custodia Xiaomi Redmi Note 9 + Pellicola Vetro Temperato Cover in Pelle Magnetica Portafoglio Xiaomi Redmi Note 9 Premium Flip Case per Xiaomi Redmi Note 9-Verde01'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BXKMV7S/?tag=tolees00-21'
 descuento: '47.62'
 average: '9.9'

@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Michael Kors Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inossidabile MK3192'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B009DFSRZS/?tag=tolees00-21'
 descuento: '55.23'
 average: '124.9'

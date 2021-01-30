@@ -16,6 +16,7 @@ comparePrice: 8.45 EUR
 prodname: 'Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere vie urinarie ● Formula concentrata ● Registrato Ministero Salute Italiano'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01NAHBWE1/?tag=tolees00-21'
 descuento: '52.54'
 average: '4.01'

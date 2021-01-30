@@ -16,6 +16,7 @@ comparePrice: 11.3 EUR
 prodname: 'Pic Vedoeco Termometro con Lente - 10 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B008LVMB5M/?tag=tolees00-21'
 descuento: '30.18'
 average: '7.89'

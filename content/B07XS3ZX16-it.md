@@ -16,6 +16,7 @@ comparePrice: 1189.0 EUR
 prodname: 'Apple iPhone 11 Pro  64GB  - Verde Notte'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XS3ZX16/?tag=tolees00-21'
 descuento: '15.98'
 average: '984.0'

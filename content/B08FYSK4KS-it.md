@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'NGFF M.2 nVME - Scheda adattatore SSD per MacBook Air  2013-2016 anno  e MacBook Pro  fine 2013-2015  M.2 2280 PCIe x4 AHCI'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FYSK4KS/?tag=tolees00-21'
 descuento: '21.94'
 average: '12.49'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Motorola Moto E6S  Display MaxVision 6 1"  Processore Octa-Core  Doppia Fotocamera 13 MP  Batteria 3000 mAH  Dual SIM  2/32GB  Android 9  Cover Inclusa  Meteor Grey'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089MDBHP7/?tag=tolees00-21'
 descuento: '23.15'
 average: '99.9'

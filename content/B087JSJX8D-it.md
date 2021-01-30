@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Cuffie Gaming PS4 PC Xbox One  Maegoo Over Ear Cuffie da Gaming con Microfono Luce LED Cancellazione del Rumore da 3 5 mm Stereo Cuffie per PC PS4 Xbox One Nintendo Switch Laptop Tablet Mac Telefono'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087JSJX8D/?tag=tolees00-21'
 descuento: '32.51'
 average: '26.99'

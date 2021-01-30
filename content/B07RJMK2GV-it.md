@@ -16,6 +16,7 @@ comparePrice: 310.66 EUR
 prodname: 'DJI Osmo Action Cam  Camera Digitale con Doppio Display  Fino a 11 m  Resistente all Acqua  Foto e Video in 4K HDR  12MP  145° Camera Angolare  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RJMK2GV/?tag=tolees00-21'
 descuento: '16.28'
 average: '260.09'

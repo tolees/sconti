@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Puma Axis  Scarpe da Ginnastica Unisex-Adulto  Nero Black/Asphalt  45 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07F2PZ2Z9/?tag=tolees00-21'
 descuento: '63.69'
 average: '19.95'

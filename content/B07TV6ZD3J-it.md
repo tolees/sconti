@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Levi s Graphic Po Hoodie-B Felpa  Rosso  HM Ssnl Tonal Pop Earth Red 0107   Small Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TV6ZD3J/?tag=tolees00-21'
 descuento: '60.07'
 average: '29.95'

@@ -16,6 +16,7 @@ comparePrice: 21.72 EUR
 prodname: 'Havaianas Slim Flatform  Infradito Donna  Blu  Blue 0057   35/36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TQZB5XM/?tag=tolees00-21'
 descuento: '41.99'
 average: '12.6'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'TOPERSUN 10PCS Marcatori Evidenziatori metallici a mezzo punto Marcatori colorati per creare album di carte Album di foto in carta di pietra'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QJ1N33P/?tag=tolees00-21'
 descuento: '45.02'
 average: '10.99'

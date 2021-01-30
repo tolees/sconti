@@ -16,6 +16,7 @@ comparePrice: 51.77 EUR
 prodname: 'Marchio Amazon - find. Mocassini in Pelle con Nappine Uomo  Nero  Black   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XGF3TRT/?tag=tolees00-21'
 descuento: '19.57'
 average: '41.64'

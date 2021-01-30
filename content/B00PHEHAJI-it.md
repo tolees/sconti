@@ -16,6 +16,7 @@ comparePrice: 31.16 EUR
 prodname: 'Cabin Max Metz  Zaino da Viaggio Bagaglio a mano/da cabina  44L  55x40x20 cm   Nero/Blu Marino'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00PHEHAJI/?tag=tolees00-21'
 descuento: '19.99'
 average: '24.93'

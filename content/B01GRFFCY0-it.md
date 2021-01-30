@@ -16,6 +16,7 @@ comparePrice: 1199.99 EUR
 prodname: 'Western Digital WD My Cloud PR4100 Serie Pro Server Multimediale con Transcodifica  NAS  16 TB  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01GRFFCY0/?tag=tolees00-21'
 descuento: '20.00'
 average: '959.99'

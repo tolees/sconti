@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Fitness Tracker + Smart Watch  Vincitore 2020  | Contatore di passi  attività  sport | Contatore di calorie focalizzato sulla salute e controllo dell esercizio fisico | Contapassi per uomo e donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08D12HGP2/?tag=tolees00-21'
 descuento: '33.34'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Aigostar Ultra-Sottile Faretto Led da Esterno  50W Luce Bianca Naturale 4000K 4500lm  IP65  26 2 * 21 6 * 3 38cm  Adatto per i Cortili  Corridoi  Garage  Nero. [Classe di efficienza energetica A+]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HGLZ61K/?tag=tolees00-21'
 descuento: '20.01'
 average: '18.39'

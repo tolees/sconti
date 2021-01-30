@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Smash V2  Sneakers Unisex-Adulto  Nero Black/Hot Coral Team Gold White  38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S7QW6PX/?tag=tolees00-21'
 descuento: '34.58'
 average: '35.95'

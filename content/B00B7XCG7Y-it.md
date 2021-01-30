@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'The North Face M Drew Peak Plv HD  Felpa con Cappuccio Uomo  Nero  TNF Black   M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00B7XCG7Y/?tag=tolees00-21'
 descuento: '40.00'
 average: '48.0'

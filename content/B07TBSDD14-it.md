@@ -16,6 +16,7 @@ comparePrice: 103.05 EUR
 prodname: 'Michael Kors Bedford - Borsa da torneo  13 x 25 x 29 cm  Nero  Nero  Black    13x25x29 cm  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TBSDD14/?tag=tolees00-21'
 descuento: '15.04'
 average: '101.43'

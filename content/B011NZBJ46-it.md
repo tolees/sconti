@@ -16,6 +16,7 @@ comparePrice: 57.49 EUR
 prodname: 'Ht25N Multimetro Digitale Multifunzione Com Hr0002'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B011NZBJ46/?tag=tolees00-21'
 descuento: '30.60'
 average: '39.9'

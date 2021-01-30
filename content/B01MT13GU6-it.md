@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Lacoste Lerond BL 2 Cam  Sneaker Uomo  Blu  Navy   44.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MT13GU6/?tag=tolees00-21'
 descuento: '51.25'
 average: '39.0'

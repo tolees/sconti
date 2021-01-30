@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Desigual Bag Apolo Rotterdam Women - Borse a spalla Donna  Bianco  Crudo   15x30x31 cm  B x H T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07GT2MQ31/?tag=tolees00-21'
 descuento: '31.03'
 average: '68.94'

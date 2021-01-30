@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Birkenstock Arizona  Sandali Donna  Grigio  Metallic Anthracite   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01FI0VC58/?tag=tolees00-21'
 descuento: '20.00'
 average: '32.0'

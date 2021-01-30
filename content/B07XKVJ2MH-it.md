@@ -16,6 +16,7 @@ comparePrice: 14.57 EUR
 prodname: 'adidas Sonnenbrille AOK003 Occhiali da Sole  Grigio  Grau   51.0 Unisex-Adulto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XKVJ2MH/?tag=tolees00-21'
 descuento: '17.78'
 average: '11.98'

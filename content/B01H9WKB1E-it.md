@@ -16,6 +16,7 @@ comparePrice: 33.63 EUR
 prodname: 'Science in Sport SiS Go Energy Barretta Energetica  gusto Cioccolato - confezione da 30 x 40g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01H9WKB1E/?tag=tolees00-21'
 descuento: '19.60'
 average: '27.04'

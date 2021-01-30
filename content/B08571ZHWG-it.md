@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'SCOBUTY Turbante Asciugamano Asciugamano Assorbente Asciugamano Capelli a Turbante 2 Cappuccio per Capelli Secchi Super Assorbente  Asciugatura Rapida per Capelli Bagnati  Asciugamani da Doccia'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08571ZHWG/?tag=tolees00-21'
 descuento: '15.01'
 average: '11.04'

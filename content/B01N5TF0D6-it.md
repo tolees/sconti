@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Harry Potter 7 Pt.2  4K + Br '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21'
 descuento: '66.66'
 average: '10.0'

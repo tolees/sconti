@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Atwood  Scarpe da Ginnastica Uomo  Nero  Canvas/Black/White   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00AVZMXO0/?tag=tolees00-21'
 descuento: '53.85'
 average: '30.0'

@@ -16,6 +16,7 @@ comparePrice: 19.86 EUR
 prodname: 'Kimbo Capsule di Caffè Espresso Sublime  Kimbo UNO System  6 Pacchi da 16 Capsule  Totale 96 Capsule '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01DC80K5G/?tag=tolees00-21'
 descuento: '22.96'
 average: '15.3'

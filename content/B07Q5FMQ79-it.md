@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Samsung UE49RU8000U Smart TV 4K Ultra HD 49" Wi-Fi DVB-T2CS2  Serie RU8000 2019  3840 x 2160 Pixels  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07Q5FMQ79/?tag=tolees00-21'
 descuento: '46.60'
 average: '455.3228571428571'

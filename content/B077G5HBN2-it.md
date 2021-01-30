@@ -16,6 +16,7 @@ comparePrice: 55.76 EUR
 prodname: 'Marchio Amazon - TRUTH & FABLE Tuta Intera Donna  Rosso  Red   44  Label: M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077G5HBN2/?tag=tolees00-21'
 descuento: '68.51'
 average: '17.56'

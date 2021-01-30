@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'HUGO Dolive202 T-Shirt  Giallo  Light/Pastel Yellow 741   M Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VBBNBP7/?tag=tolees00-21'
 descuento: '50.06'
 average: '19.95'

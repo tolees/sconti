@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Orologio da uomo Tommy Hilfiger 1791309.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01JLI7MFM/?tag=tolees00-21'
 descuento: '39.74'
 average: '113.9'

@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Brother JX17FE  Fantasy Edition  - Macchina da Cucire Portatile con 17 Punti di Cucitura  Facile per Principianti  Cucitrice Automatica per Cucito Creativo  Professionale  Elettrica  Braccio Libero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W7YZJQH/?tag=tolees00-21'
 descuento: '19.98'
 average: '119.99'

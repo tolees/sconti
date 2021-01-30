@@ -16,6 +16,7 @@ comparePrice: 23.52 EUR
 prodname: 'Style - Crema Modella Ricci - Rende Elastici i Capelli Ricci Proteggendo da Crespo ed Umidità - 250 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00NOSDYDU/?tag=tolees00-21'
 descuento: '32.02'
 average: '15.99'

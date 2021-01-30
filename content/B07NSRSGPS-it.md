@@ -16,6 +16,7 @@ comparePrice: 16.84 EUR
 prodname: 'Funko- Pop Vinile: Film Gump-Forrest w/Chocolates Figura da Collezione  Multicolore  40206'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NSRSGPS/?tag=tolees00-21'
 descuento: '20.07'
 average: '13.472'

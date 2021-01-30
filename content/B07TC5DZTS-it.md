@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'TCL | 43EP641 | Android TV con Assistente Google: Risoluzione 4k HDR  Accesso a Google Play Store  Dolby Audio integrato. Colore: Titanio  43 Pollici  Classe energetica A+ '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TC5DZTS/?tag=tolees00-21'
 descuento: '25.00'
 average: '299.99'

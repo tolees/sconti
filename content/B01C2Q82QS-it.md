@@ -16,6 +16,7 @@ comparePrice: 14.7 EUR
 prodname: 'Vimar 0P32352.B Cavo Prolunga Estensibile  3G0.75  5 m  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01C2Q82QS/?tag=tolees00-21'
 descuento: '15.65'
 average: '12.4'

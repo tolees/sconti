@@ -16,6 +16,7 @@ comparePrice: 76.98 EUR
 prodname: 'Beurer 66200 EM 80 Apparecchio TENS/EMS Digitale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000NNPX3I/?tag=tolees00-21'
 descuento: '50.65'
 average: '37.99'

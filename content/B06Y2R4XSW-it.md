@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Unisex - Adulto 574v2 Core Scarpe da Ginnastica  Rosso  Burgundy   44.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06Y2R4XSW/?tag=tolees00-21'
 descuento: '39.64'
 average: '54.32'

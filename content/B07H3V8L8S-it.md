@@ -16,6 +16,7 @@ comparePrice: 100.95 EUR
 prodname: 'homcom Cyclette Elettrica Compatto Altezza Regolabile in 6 Livelli Resistenza Regolabile Display LCD Acciaio  PP  Eva Bianco 41×50×96cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07H3V8L8S/?tag=tolees00-21'
 descuento: '30.00'
 average: '70.67'

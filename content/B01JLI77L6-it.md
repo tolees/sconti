@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tommy Hilfiger - Orologio da donna  Impermeabile fino a 3 atm  30 metri  - 1781742'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01JLI77L6/?tag=tolees00-21'
 descuento: '70.00'
 average: '59.7'

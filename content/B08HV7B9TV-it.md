@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'MINI Proiettore AUN W18C Proiettore Portatile Per Smartphone  Supporto 2800 Lumen Full HD 1080P  Sistema Multimediale  Mirroring Schermo del telefono Android / IOS'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HV7B9TV/?tag=tolees00-21'
 descuento: '26.85'
 average: '109.0'

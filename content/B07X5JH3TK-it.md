@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Muzili Aspirapolvere Scopa Elettrica Senza Fili 3 in 1 con Aspirazione Potente 20Kpa e Filtrazione HEPA  Fino a 30 Minuti di Tempo di Lavoro [Classe di efficienza energetica A+++]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X5JH3TK/?tag=tolees00-21'
 descuento: '25.19'
 average: '119.69'

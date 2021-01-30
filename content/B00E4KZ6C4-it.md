@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Autan Tropical Spray Secco  Insetto Repellente e Antizanzare Tigre  Comuni e Tropicali  1 Confezione da 100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00E4KZ6C4/?tag=tolees00-21'
 descuento: '44.25'
 average: '4.99'

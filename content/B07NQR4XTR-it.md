@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Dixan Duo Caps- Detersivo Pre Dosato in Capsule - 30 Caps'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NQR4XTR/?tag=tolees00-21'
 descuento: '24.47'
 average: '6.79'

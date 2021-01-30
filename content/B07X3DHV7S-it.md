@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Vbiger Zaino Scuola Elementare Impermeabile  Rossa '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X3DHV7S/?tag=tolees00-21'
 descuento: '20.01'
 average: '23.99'

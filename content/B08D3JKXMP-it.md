@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Tmore Custodia Ultrasottile Compatibile con Samsung Galaxy Tab S6 Lite 10.4 SM-P610/SM-P615 Cover con Funzione di Supporto e Auto Sveglia/Sonno Crepuscolo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08D3JKXMP/?tag=tolees00-21'
 descuento: '27.86'
 average: '12.95'

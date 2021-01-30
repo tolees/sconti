@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Veet Strisce Depilatorie Corpo e Gambe  Ipoallergeniche  3 Confezioni da 16 Strisce'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088C7ZR7Z/?tag=tolees00-21'
 descuento: '25.01'
 average: '14.99'

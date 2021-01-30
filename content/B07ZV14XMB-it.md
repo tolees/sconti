@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Tryone Supporto Tablet Poggiatesta Auto  estensibile supporto per tablet per sedile d auto per iPad/Samsung Galaxy Tab/Amazon Kindle Fire HD/Nintendo Switch/Altri ecc di 4 7-10 5 pollici  Rosso '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZV14XMB/?tag=tolees00-21'
 descuento: '45.18'
 average: '16.99'

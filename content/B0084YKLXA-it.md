@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'Gillette Fusion ProGlide Styler Rasoio Regolabarba 3 in 1  Confezione da 1 Lametta + 3 Regolatori di Lunghezza Intercambiabili'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0084YKLXA/?tag=tolees00-21'
 descuento: '28.76'
 average: '14.89'

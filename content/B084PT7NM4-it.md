@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Me Contro Te Il Film La Vendetta Del Signor S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084PT7NM4/?tag=tolees00-21'
 descuento: '30.72'
 average: '9.0'

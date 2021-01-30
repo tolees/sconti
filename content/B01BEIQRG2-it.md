@@ -16,6 +16,7 @@ comparePrice: 16.09 EUR
 prodname: 'Eucerin Duplo Crema per le mani 2 x 75 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01BEIQRG2/?tag=tolees00-21'
 descuento: '44.38'
 average: '8.95'

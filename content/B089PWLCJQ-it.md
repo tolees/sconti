@@ -16,6 +16,7 @@ comparePrice: 35.48 EUR
 prodname: 'HD Webcam 1296P 3 MP con Microfono  USB Webcam Video Streaming PC Laptop Camera per Conferenze  Videochiamate  Streaming  Registrazione  Skype  Plug & Play  Clip Flessibile Regolabile'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089PWLCJQ/?tag=tolees00-21'
 descuento: '15.47'
 average: '32.95'

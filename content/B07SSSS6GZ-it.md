@@ -16,6 +16,7 @@ comparePrice: 6.49 EUR
 prodname: 'Filetti di tonno pescato a canna in olio d oliva 190g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SSSS6GZ/?tag=tolees00-21'
 descuento: '15.25'
 average: '5.5'

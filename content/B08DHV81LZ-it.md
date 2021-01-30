@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'i18 Auricolari wireless  Cuffie Bluetooth 5.0 stereo Hi-Fi senza fili in-ear con auricolare microfonico incorporato con custodia di ricarica Impermeabile per lavoro/viaggio/palestra'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DHV81LZ/?tag=tolees00-21'
 descuento: '17.66'
 average: '14.99'

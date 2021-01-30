@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Lunvon Materasso Gonfiabile Singolo  Pompa Elettrica Incorporata  PVC  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FPHW6SJ/?tag=tolees00-21'
 descuento: '24.79'
 average: '45.12'

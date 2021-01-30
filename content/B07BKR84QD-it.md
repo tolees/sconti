@@ -16,6 +16,7 @@ comparePrice: 26.49 EUR
 prodname: 'Goodthreads Camicia a Maniche Lunghe in Chambray a Pois Slim Fit Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BKR84QD/?tag=tolees00-21'
 descuento: '68.59'
 average: '8.32'

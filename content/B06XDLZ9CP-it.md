@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Rowenta CV5372 Studio Dry Asciugacapelli Compatto per Capelli Sani e Lucenti  2100 W'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XDLZ9CP/?tag=tolees00-21'
 descuento: '38.11'
 average: '13.626666666666667'

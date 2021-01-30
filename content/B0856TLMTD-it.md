@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: '[2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5 pollici Staffa di montaggio in metallo  2x25Rack '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0856TLMTD/?tag=tolees00-21'
 descuento: '33.37'
 average: '5.99'

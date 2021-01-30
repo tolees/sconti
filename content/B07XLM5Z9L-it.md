@@ -16,6 +16,7 @@ comparePrice: 28.25 EUR
 prodname: 'CARE OF by PUMA Slip on Court Low-Top Sneakers  Nero  Black- Black   39 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XLM5Z9L/?tag=tolees00-21'
 descuento: '16.88'
 average: '23.48'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Daniel Wellington DW00100217 Orologio Analogico Quarzo Unisex Adulto  diametro: 28 mm  con Cinturino in Acciaio Inox  Lunghezza: 22 5 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076H9D7ZJ/?tag=tolees00-21'
 descuento: '41.09'
 average: '89.69285714285714'

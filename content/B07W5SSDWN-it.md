@@ -16,6 +16,7 @@ comparePrice: 38.33 EUR
 prodname: 'Tommy Hilfiger Rope Stripe Tee Camicia Sportiva  Blu  Sail Blue   Large  Taglia Unica:  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W5SSDWN/?tag=tolees00-21'
 descuento: '50.43'
 average: '19.0'

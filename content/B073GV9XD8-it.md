@@ -16,6 +16,7 @@ comparePrice: 72.42 EUR
 prodname: 'Songmics LJB64GUK - Set di 2 sgabelli da bar regolabili in altezza  in pelle sintetica  girevole a 360°  con schienale e poggiapiedi  in acciaio cromato  colore: grigio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073GV9XD8/?tag=tolees00-21'
 descuento: '23.12'
 average: '55.68'

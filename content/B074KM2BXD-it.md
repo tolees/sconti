@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Lavazza Capsule Caffè A Modo Mio Gingseng  10 Confezioni da 12 Capsule [120 Capsule]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074KM2BXD/?tag=tolees00-21'
 descuento: '39.88'
 average: '30.619999999999997'

@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Striscia LED VITCOCO LED Strisce Bluetooth 10M 5050 RGB Nastri LED Luminose 24 Tasti Telecomando con Controller Sincronizza con la Musica Milioni Colori DIY luci led  Android e IOS Controllato da APP'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0899Q4WNY/?tag=tolees00-21'
 descuento: '23.10'
 average: '29.99'

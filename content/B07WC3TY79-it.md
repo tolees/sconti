@@ -16,6 +16,7 @@ comparePrice: 39.43 EUR
 prodname: 'Tommy Hilfiger Cheeky Side Tie Bikini Reggiseno  Blu  Laser Pink 103-580   L Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WC3TY79/?tag=tolees00-21'
 descuento: '60.01'
 average: '15.77'

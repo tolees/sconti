@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geox U WALEE A  Scarpe da Ginnastica Basse Uomo  Rosso  Red C7000   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07STLPY33/?tag=tolees00-21'
 descuento: '69.50'
 average: '27.43'

@@ -16,6 +16,7 @@ comparePrice: 62.49 EUR
 prodname: 'ASICS Patriot 11  Scarpe da Corsa Uomo  Nero  Black/White 001   44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07L346ZRD/?tag=tolees00-21'
 descuento: '47.27'
 average: '32.95'

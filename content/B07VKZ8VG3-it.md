@@ -16,6 +16,7 @@ comparePrice: 41.44 EUR
 prodname: 'Calvin Klein 3p Trunk Boxer  Nero  B-Alligator/Grey Heather/Black Bal   Medium  Pacco da 3  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VKZ8VG3/?tag=tolees00-21'
 descuento: '34.87'
 average: '26.99'

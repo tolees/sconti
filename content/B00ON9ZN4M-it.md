@@ -16,6 +16,7 @@ comparePrice: 64.0 EUR
 prodname: 'Severin SEV1071 Piastra Induzione'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00ON9ZN4M/?tag=tolees00-21'
 descuento: '29.84'
 average: '44.9'

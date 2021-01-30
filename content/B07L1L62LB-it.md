@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Diadora - Sneakers Camaro per Uomo e Donna  EU 38.5 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07L1L62LB/?tag=tolees00-21'
 descuento: '63.31'
 average: '29.35'

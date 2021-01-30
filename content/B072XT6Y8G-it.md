@@ -16,6 +16,7 @@ comparePrice: 5.79 EUR
 prodname: 'Unique Party 55856 - Palloncino Gigante - Numero 6 - 86cm - Rosso'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072XT6Y8G/?tag=tolees00-21'
 descuento: '53.02'
 average: '2.72'

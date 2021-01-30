@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'SanDisk Extreme PLUS Scheda di Memoria  SDHC da 32 GB Classe 10  U3  V30  Velocità di Lettura fino a 90MB/s'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01KLOF5I6/?tag=tolees00-21'
 descuento: '54.70'
 average: '14.49'

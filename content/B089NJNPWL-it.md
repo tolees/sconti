@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'ELUTENG Cavo Ottico Audio Digitale 5M Cavi Ottico Fibra S/PDIF Maschio a Maschio Connettore Toslink 24K Oro-Placcati Cable Compatibile con Home Cinema  Soundbar  Playstation PS3 PS4  Xbox One  TV'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089NJNPWL/?tag=tolees00-21'
 descuento: '16.68'
 average: '10.49'

@@ -16,6 +16,7 @@ comparePrice: 57.49 EUR
 prodname: 'Adidas Vs Pace  Scarpe da Ginnastica Uomo  Nero  Negbas/Azul/Ftwbla   39 1/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01I1N7CQC/?tag=tolees00-21'
 descuento: '33.71'
 average: '38.11'

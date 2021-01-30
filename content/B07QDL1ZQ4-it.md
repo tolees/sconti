@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Spazzolino Elettrici Sonic con 6 Modalità Opzionali 3 Spazzolini Testine di Ricambio Ricarica USB dello Spazzolino durare 30 Giorni Timer Interno Intelligente  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QDL1ZQ4/?tag=tolees00-21'
 descuento: '56.55'
 average: '9.49'

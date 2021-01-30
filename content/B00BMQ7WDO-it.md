@@ -16,6 +16,7 @@ comparePrice: 37.58 EUR
 prodname: 'Plein Air ZAP 30 - Sterminainsetti 30 W  Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00BMQ7WDO/?tag=tolees00-21'
 descuento: '42.82'
 average: '21.49'

@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Level Fly  Guanto da Snowboard Uomo  PK Nero  8.5 - ML'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01HI2HUCI/?tag=tolees00-21'
 descuento: '45.25'
 average: '60.22'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Braun MGK5080 Rifinitore 9-In-1 RegolaBarba Uomo  Rasoio Elettrico  Tagliacapelli  Rifinitore Corpo  Naso/Orecchie  di Precisione e Rasoio Gillette Fusion 5 ProGlide con Tecnologia Flexball  Blu/Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07M8NJK8C/?tag=tolees00-21'
 descuento: '31.25'
 average: '50.5825925925926'

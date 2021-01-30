@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Revolution 5 U  Scarpe da Corsa Mens  Nero/Bianco  48.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NLYT797/?tag=tolees00-21'
 descuento: '20.09'
 average: '43.95'

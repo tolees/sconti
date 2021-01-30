@@ -16,6 +16,7 @@ comparePrice: 35.51 EUR
 prodname: 'BAITITON 2 5 pollici SATA III Unità a Stato Solido Interno 256GB Disco SSD Lettura 550MB/s  Scrittura 530MB/s'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08F58NJFB/?tag=tolees00-21'
 descuento: '16.67'
 average: '29.59'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cintura Uomo Per Abiti Casual e Abiti  100% Pelle Vera  Type 1  115CM   30  - 40     '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076H4KVT3/?tag=tolees00-21'
 descuento: '50.02'
 average: '14.99'

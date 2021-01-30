@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Havaianas Top Logomania  Infradito Unisex-Adulto  Blu  Navy Blue 0555   43/44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RWBDZ1R/?tag=tolees00-21'
 descuento: '34.25'
 average: '13.15'

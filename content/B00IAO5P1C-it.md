@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Havaianas Flash Urban  Sandali Donna  Oro  Rose Gold 3581   35/36 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00IAO5P1C/?tag=tolees00-21'
 descuento: '31.86'
 average: '19.682968750000004'

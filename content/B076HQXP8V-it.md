@@ -16,6 +16,7 @@ comparePrice: 70.95 EUR
 prodname: 'adidas Core18 Rain Jacket  Giacca Sportiva. Uomo  Power Red/White  2XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076HQXP8V/?tag=tolees00-21'
 descuento: '59.86'
 average: '28.48'

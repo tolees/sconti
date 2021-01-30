@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Desigual Tshirt Devore Black T-Shirt  Nero  Negro 2000   46  Taglia Produttore: Large  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VGNBFQM/?tag=tolees00-21'
 descuento: '50.05'
 average: '22.95'

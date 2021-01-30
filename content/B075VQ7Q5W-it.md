@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: '3 in 1 Anticalcare - Sgrassante - Igienizzante  12 bustine - Care + Protect'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075VQ7Q5W/?tag=tolees00-21'
 descuento: '43.14'
 average: '14.21'

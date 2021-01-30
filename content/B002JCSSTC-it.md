@@ -16,6 +16,7 @@ comparePrice: 45.9 EUR
 prodname: 'Crocs Crocband Clogs  Ciabatte Unisex  Gomma – Adulto  Nero  Black   43-44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B002JCSSTC/?tag=tolees00-21'
 descuento: '34.14'
 average: '30.23'

@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Geox U Ariam D  Scarpe da Ginnastica Basse Uomo  Grigio  Anthracite/Navy C9af4   39 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0792H8KLV/?tag=tolees00-21'
 descuento: '65.00'
 average: '40.25'

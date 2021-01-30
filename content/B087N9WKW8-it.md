@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'Ventilatore Portatile  Ventilatore USB Indossabile Ricaricabile Ventilatore da Collo  Mani Libere Mini Ventilatore  Ventilatore da Tavolo  Anti-forcina  per Ufficio  Casa  Viaggi e Sport  Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087N9WKW8/?tag=tolees00-21'
 descuento: '18.84'
 average: '21.41103448275862'

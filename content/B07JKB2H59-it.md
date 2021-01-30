@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Mattel Games Uno Flip  GDR44'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JKB2H59/?tag=tolees00-21'
 descuento: '29.45'
 average: '7.9525'

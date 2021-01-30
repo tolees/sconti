@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Pennarelli a Vernice Acrilica  18 Colori Premio Impermeabile Pittura Arte Pennarello Set per Ceramica  Stoffa  Tessuti  Plastica  Vetro  Metallo  Legno  Roccia  Tela  Carta  Fotografie & DIY  0 7 mm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XSLSZGZ/?tag=tolees00-21'
 descuento: '20.01'
 average: '12.79'

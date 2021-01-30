@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Sigikid 49520 - Gioco di birilli con 6 figure di animali  Multicolore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0002HXPA8/?tag=tolees00-21'
 descuento: '32.53'
 average: '26.98'

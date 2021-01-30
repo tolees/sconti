@@ -16,6 +16,7 @@ comparePrice: 29.34 EUR
 prodname: 'Havaianas Origine III  Espadrillas Unisex-Adulto  Multicolore  Navy Blue/Beige 0716   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01L41BVYC/?tag=tolees00-21'
 descuento: '18.20'
 average: '24.0'

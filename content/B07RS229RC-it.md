@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Giochi Preziosi - L.O.L Surprise! Glitter Globe Winter Disco  LLU99000'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RS229RC/?tag=tolees00-21'
 descuento: '30.41'
 average: '14.3375'

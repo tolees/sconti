@@ -16,6 +16,7 @@ comparePrice: 39.04 EUR
 prodname: 'Parasole per Parabrezza - Tessuto 210T Il Migliore sul Mercato  Massima Protezione dai Raggi UV e dal Sole - Parasole Pieghevole per Auto  manterrà la Tua Auto più Fresca  Extra Large '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073H9DYV6/?tag=tolees00-21'
 descuento: '55.76'
 average: '17.27'

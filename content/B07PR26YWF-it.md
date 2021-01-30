@@ -16,6 +16,7 @@ comparePrice: 21.15 EUR
 prodname: 'Lark & Ro Stretch Poplin Shirt Dress-Shirts  Cruz V2 Fresh Foam  US 6  EU S - M '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PR26YWF/?tag=tolees00-21'
 descuento: '53.76'
 average: '9.78'

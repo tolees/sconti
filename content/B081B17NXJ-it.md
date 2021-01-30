@@ -16,6 +16,7 @@ comparePrice: 1.78 EUR
 prodname: 'Adesivo Nano Sticker Supporto Antiscivolo Riutilizzabile Cuscinetti in Gel PU Lavabile Avvolgicavo Phone Holder Nano Casual Paste 2 Pack  Square  Transparent '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081B17NXJ/?tag=tolees00-21'
 descuento: '43.82'
 average: '1.0'

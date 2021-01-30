@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Volante Pace Wheel PS4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21'
 descuento: '66.64'
 average: '50.0'

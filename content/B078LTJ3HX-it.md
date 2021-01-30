@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Outsunny Prato Sintetico per Giardino Set di 10pz Erba Finta Artificiale Esterno'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078LTJ3HX/?tag=tolees00-21'
 descuento: '25.01'
 average: '37.46'

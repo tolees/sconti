@@ -16,6 +16,7 @@ comparePrice: 5.9 EUR
 prodname: 'Tescoma Pinza Da Cucina'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B004I8V1SK/?tag=tolees00-21'
 descuento: '22.88'
 average: '4.55'

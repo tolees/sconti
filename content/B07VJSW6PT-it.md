@@ -16,6 +16,7 @@ comparePrice: 15.06 EUR
 prodname: 'Desigual Mone azabache Mini Zip Portafoglio da donna  Bianco  Bianco  Bianco     2x9x15 cm  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VJSW6PT/?tag=tolees00-21'
 descuento: '21.71'
 average: '11.79'

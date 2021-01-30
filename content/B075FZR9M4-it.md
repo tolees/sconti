@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'D-Link DIR-882  Router Wi-Fi AC2600 Dual band  5 Porte Gigabit  1 Porta USB 3.0 e 1 Porta 2.0  AC SmartBeam  Tecnologia MIMO  Rete Ospiti  Parental Control  Configurazione Semplice  WPS/Reset  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075FZR9M4/?tag=tolees00-21'
 descuento: '37.56'
 average: '99.9'

@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'HP LaserJet MFP 135a Stampante Bianco e Nero  solo USB  Laser Multifunzione Monocromatica  Scanner e Fotocopiatrice  Tecnologia ReCP e Risparmio Energetico  Funzionalità di Sicurezza Dinamica  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SB827NV/?tag=tolees00-21'
 descuento: '30.72'
 average: '89.99'

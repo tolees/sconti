@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Nero  Triple Black   37.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0783MLPPQ/?tag=tolees00-21'
 descuento: '15.01'
 average: '76.49'

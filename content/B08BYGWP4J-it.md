@@ -16,6 +16,7 @@ comparePrice: 149.68 EUR
 prodname: 'INNZA Epilatore Luce Pulsata IPL Hair Removal 999 000 Impulsi di Luce Epilazione Definitiva Professionale Dispositivo Indolore Permanente di Rimozione per Ascella Facciale Bikiniline'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BYGWP4J/?tag=tolees00-21'
 descuento: '42.55'
 average: '85.99'

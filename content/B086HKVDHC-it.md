@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Neewer Luce 192 LED Ultra Sottile con LCD Display  Batteria a Litio Incorporata  Dimmerabile Bicolore 3200-5600K  CRI 95+  Illuminazione Attenua per Ritratti YouTube Video ecc.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086HKVDHC/?tag=tolees00-21'
 descuento: '25.00'
 average: '44.99'

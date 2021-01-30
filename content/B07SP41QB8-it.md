@@ -16,6 +16,7 @@ comparePrice: 16.67 EUR
 prodname: 'Havaianas Brasil Logo  Infradito Unisex-Bambini  Rosa  Hollywood Rose 0064   29/30 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SP41QB8/?tag=tolees00-21'
 descuento: '51.47'
 average: '8.09'

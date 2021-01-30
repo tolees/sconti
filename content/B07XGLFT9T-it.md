@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Skechers DARLOW REMEGO  Sneaker Uomo  Blu  Denim Canvas den   39.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XGLFT9T/?tag=tolees00-21'
 descuento: '30.02'
 average: '48.95'

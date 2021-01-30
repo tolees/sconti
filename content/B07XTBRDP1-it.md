@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'FOXONU Power Bank 26800mAh  Carica Veloce Caricabatterie Portatile con 2 USB Uscite e 2 Ingressi  Compatta Caricatore Portatile Cellulare  Batteria Esterna per Smartphone  Tablet e Altri'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XTBRDP1/?tag=tolees00-21'
 descuento: '32.27'
 average: '20.99'

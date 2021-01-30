@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Dash Detersivo Lavatrice Liquido Bicarbonato  con Azione Igienizzante  Formato Convenienza 100 Lavaggi  4 Confezioni da 25 Lavaggi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086XMXF81/?tag=tolees00-21'
 descuento: '33.34'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'Pampers Sole e Luna Salviettine  540 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B017NPQ7WY/?tag=tolees00-21'
 descuento: '46.23'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Tagliaverdure Mandolina 13 in 1 Affetta Verdure Verdure Grattugiate Tritatutto da Cucina Multifunzione Con 7 Lame Regolabili per Affettare  Tagliare Verdure e grattugiare'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07XLKNTMY/?tag=tolees00-21'
 descuento: '56.02'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Asmodee 8731-Blood Rage: Dèi di Asgard  Ed. Italiana  8731'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N8OOB5J/?tag=tolees00-21'
 descuento: '44.97'
 average: '10.95'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Smash v2 L  Scarpe da Ginnastica Uomo  Bianca White White  43 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077MJHTSF/?tag=tolees00-21'
 descuento: '24.94'
 average: '37.49'

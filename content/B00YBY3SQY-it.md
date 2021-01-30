@@ -16,6 +16,7 @@ comparePrice: 7.75 EUR
 prodname: 'Maybelline New York Classic Volum  Express Mascara  Volume Naturale  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00YBY3SQY/?tag=tolees00-21'
 descuento: '49.68'
 average: '3.75'

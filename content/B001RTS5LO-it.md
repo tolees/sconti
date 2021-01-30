@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Lagostina I Cucinieri Rotella Pizza con Anello  Acciaio Inox 18/10  21 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001RTS5LO/?tag=tolees00-21'
 descuento: '46.28'
 average: '6.93'

@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato - 1 confezione da 6 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078DPBKH4/?tag=tolees00-21'
 descuento: '25.13'
 average: '1.7528571428571427'

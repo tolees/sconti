@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Verde  Olive Night   43 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: 'New Balance'
 buyurl: 'https://www.amazon.it/dp/B06XX92C5Y/?tag=tolees00-21'
 descuento: '33.33'
 average: '60.0'
@@ -27,9 +28,9 @@ average: '60.0'
 
 ℹ️:
 
+- Realizzati in materiali di alta qualità
+- Design elegante e confortevole
 - Rapido e facile da indossare
 - Suola molto morbida che offre un confort aumentato
-- Design elegante e confortevole
-- Realizzati in materiali di alta qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XX92C5Y/?tag=tolees00-21)

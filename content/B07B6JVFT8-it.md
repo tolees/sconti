@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Hilfiger X Bralette Brassière  Nero  Black 990   Medium Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21'
 descuento: '34.86'
 average: '25.99'

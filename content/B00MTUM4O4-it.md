@@ -16,6 +16,7 @@ comparePrice: 35.29 EUR
 prodname: 'Ferrari Cedar Essence Eau de Parfum spray 100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00MTUM4O4/?tag=tolees00-21'
 descuento: '19.33'
 average: '28.47'

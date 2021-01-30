@@ -16,6 +16,7 @@ comparePrice: 16.79 EUR
 prodname: 'Desigual Bols stardust Durban - Borsa a tracolla da donna  4 x 17 5 x 27 2 cm  colore: Viola'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VHW4CVJ/?tag=tolees00-21'
 descuento: '15.49'
 average: '14.19'

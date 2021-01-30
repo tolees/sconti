@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Call of Duty: Modern Warfare - Xbox One'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SC443KW/?tag=tolees00-21'
 descuento: '23.50'
 average: '53.54'

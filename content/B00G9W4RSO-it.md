@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Bosch MSM66155 Mixer a Immersione  Frullatore con 4 Accessori  600 W  Plastica  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00G9W4RSO/?tag=tolees00-21'
 descuento: '44.94'
 average: '43.99'

@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Ecovacs Robotics Deebot N79S Robot Aspirapolvere – Robot Pulisci Pavimenti con Modalità Max – Controllo Smart tramite App e Telecomando – Autoricarica – Marrone Metallizzato'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077HW9XM7/?tag=tolees00-21'
 descuento: '47.80'
 average: '129.99'

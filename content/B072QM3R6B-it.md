@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Monster Hunter: World  UK '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072QM3R6B/?tag=tolees00-21'
 descuento: '61.82'
 average: '26.69'

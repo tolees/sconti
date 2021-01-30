@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'h.koenig V5i Ferro da Stiro  2400 W  1.7 Litri  90  plastica  Metallo  Blu/Azzurro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B008DCOW6A/?tag=tolees00-21'
 descuento: '57.99'
 average: '49.99'

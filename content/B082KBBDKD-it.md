@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Aigostar Betty 31QUC – Ferro da stiro verticale 80ml  stiratore portatile con una busta inclusa. Riscaldamento veloce per una rimozione efficiente di pieghe e odori  ideale per i viaggi. 650Watt.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082KBBDKD/?tag=tolees00-21'
 descuento: '25.94'
 average: '19.99'

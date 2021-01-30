@@ -16,6 +16,7 @@ comparePrice: 32.96 EUR
 prodname: 'Eastpak The One Borsa A Tracolla  21 cm  2.5 L  Rosa  Salty Pink '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X1T5RN5/?tag=tolees00-21'
 descuento: '45.39'
 average: '18.0'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Ossimetro/pulsossimetro di precisione'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08BJC6M51/?tag=tolees00-21'
 descuento: '26.11'
 average: '22.9'

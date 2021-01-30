@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'VINCITORE 2020* BIO Crema Viso Acido Ialuronico Puro 100 ml +Ingredienti ANTIRUGHE●Crema Idratante Notte per Décolleté e Contorno Occhi con Vit C+E+Aloe - VEGANA e Illuminante●Made in Italy'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HVYPQGZ/?tag=tolees00-21'
 descuento: '26.10'
 average: '16.99'

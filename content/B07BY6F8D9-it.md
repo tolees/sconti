@@ -16,6 +16,7 @@ comparePrice: 86.13 EUR
 prodname: 'Be Quiet! BK022 Dark Rock Pro 4 - Ventola per CPU  250 W  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BY6F8D9/?tag=tolees00-21'
 descuento: '15.27'
 average: '72.98'

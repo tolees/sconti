@@ -16,6 +16,7 @@ comparePrice: 17.04 EUR
 prodname: 'ArtWay Studio - Quaderno da Disegno spiralato - Cartoncino Senza acidi - Copertina Rigida -170g/m² 50 Pagine - 1 x Quadrato  285 x 285 mm '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00KG66SZO/?tag=tolees00-21'
 descuento: '23.77'
 average: '12.99'

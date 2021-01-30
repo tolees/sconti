@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Switch Cat Quest + Cat Quest 2 Pawsome Pack [ [Edizione: Germania]'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084DVJLFP/?tag=tolees00-21'
 descuento: '17.49'
 average: '28.885'

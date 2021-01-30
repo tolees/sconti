@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'AZ Dentifricio 3D White Luxe Bianco Brillante con Azione Sbiancante 3 x 75 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WLQF2WK/?tag=tolees00-21'
 descuento: '36.40'
 average: '6.99'

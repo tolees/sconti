@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Aigostar Groom Care 32JVQ - Rifinitore per naso e orecchie， a batteria， testina di taglio in acciaio inossidabile e lama a doppio taglio， sistema di blocco da viaggio， super silenzioso，DC Motore.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077PRXXL8/?tag=tolees00-21'
 descuento: '19.55'
 average: '10.45'

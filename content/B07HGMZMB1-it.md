@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Aigostar Lora 33LNK - Asciugacapelli ionico da 2400 W con motore CC  2 velocità e 3 impostazioni  pulsante di raffreddamento  diffusore e concentratore  protezione contro il surriscaldamento  nero.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HGMZMB1/?tag=tolees00-21'
 descuento: '20.01'
 average: '19.19'

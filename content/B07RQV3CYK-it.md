@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Oral-B Testine di Ricambio KIDS Frozen per Spazzolino Elettrico Ricaricabile  Confezione da 8'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RQV3CYK/?tag=tolees00-21'
 descuento: '37.37'
 average: '24.99'

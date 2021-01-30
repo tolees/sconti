@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nike MD Runner 2  Scarpe da Running Uomo  Blu  Midnight Navy/White-Wolf Grey   47 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00PYDWYSY/?tag=tolees00-21'
 descuento: '33.08'
 average: '50.635000000000005'

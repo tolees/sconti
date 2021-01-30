@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Timberland Capri Sunset Wedge  Sandali Donna  Nero Black Nubuck  38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078SWXN8P/?tag=tolees00-21'
 descuento: '60.05'
 average: '39.95'

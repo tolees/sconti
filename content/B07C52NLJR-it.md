@@ -16,6 +16,7 @@ comparePrice: 37.77 EUR
 prodname: 'Side by Side Power Packer - Organizzatore da Viaggio a Marsupio - Custodia per Elettronica e Cavi - Borsa per Cavi e Accessori edc  Shadow '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07C52NLJR/?tag=tolees00-21'
 descuento: '22.00'
 average: '29.46'

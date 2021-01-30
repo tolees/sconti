@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Sloggi Zero Feel Bralette Corsetto  Nero  Black 04   M Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075YW9WJV/?tag=tolees00-21'
 descuento: '47.07'
 average: '18.5'

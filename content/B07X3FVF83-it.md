@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Aspirapolvere Senza Fili 9500pa Scopa Elettrica  ciclonica Aspirapolvere Ricaricabile  autonomia fino a 35 minuti  2 spazzole per Casa Peli Animali Auto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07X3FVF83/?tag=tolees00-21'
 descuento: '50.00'
 average: '59.99'

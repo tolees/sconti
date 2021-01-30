@@ -16,6 +16,7 @@ comparePrice: 20.05 EUR
 prodname: 'Pilot G207 Penna  0 7 mm   confezione da 12  colore: Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000SHQO3W/?tag=tolees00-21'
 descuento: '65.04'
 average: '7.01'

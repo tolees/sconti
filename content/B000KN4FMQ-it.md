@@ -16,6 +16,7 @@ comparePrice: 41.4 EUR
 prodname: 'Pentel BL77 EnerGel XM scatto 0 7 mm nero   12 pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000KN4FMQ/?tag=tolees00-21'
 descuento: '23.79'
 average: '24.906268656716428'

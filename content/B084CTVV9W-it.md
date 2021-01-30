@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Avvitatore a Batteria  45Nm Trapano Avvitatore 18V  180Nm Avvitatore a Impulsi  2x2.0Ah Batterie  Caricatore Rapido  Luce di lavoro a LED  38pcs Accessori  Borsa Degli Attrezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084CTVV9W/?tag=tolees00-21'
 descuento: '23.54'
 average: '129.97'

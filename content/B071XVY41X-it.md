@@ -16,6 +16,7 @@ comparePrice: 16.97 EUR
 prodname: 'VISPURA® Vitamina B Complex ad Alto Dosaggio 120 Compresse Vegan per 4 Mesi  Tutte le Vitamine del Gruppo B del Complesso  Qualità Tedesca  Integratore Alimentare senza Additivi non Necessari'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071XVY41X/?tag=tolees00-21'
 descuento: '19.98'
 average: '13.58'

@@ -16,6 +16,7 @@ comparePrice: 102.5 EUR
 prodname: 'Yves Saint Laurent e Eau de Toilette 100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072K2K3SB/?tag=tolees00-21'
 descuento: '42.44'
 average: '59.0'

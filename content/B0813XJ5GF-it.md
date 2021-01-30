@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'adidas Lite Racer 2.0  Scarpe da Corsa Uomo  Multicolore  Core Black/Core Black/Ftwr White   Fraction 46 And 2 Thirds'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0813XJ5GF/?tag=tolees00-21'
 descuento: '34.29'
 average: '36.23'

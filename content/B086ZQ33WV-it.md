@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Pistola Colla a Caldo 60W  Wiecok Pistola Incollatrice con 20pcs Trasparente Stick di Colla 200mm  Stick-Pistola a Colla per Caldo per Fai da Te Arti  Imballaggio  Mestieri Progetti  Casa Riparazioni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086ZQ33WV/?tag=tolees00-21'
 descuento: '38.48'
 average: '15.99'

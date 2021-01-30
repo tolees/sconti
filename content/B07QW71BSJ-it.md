@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Luce Posteriore per Bicicletta  Ricaricabile USB per Bicicletta a LED  Potente Faro a LED Luce Posteriore per Bici Lampada Impermeabile e Facile da installare'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QW71BSJ/?tag=tolees00-21'
 descuento: '53.37'
 average: '6.99'

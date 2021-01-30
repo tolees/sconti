@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Animali Fantastici E Dove Trovarli  4K + Br + Dig.Copy '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N53WHHU/?tag=tolees00-21'
 descuento: '56.99'
 average: '12.9'

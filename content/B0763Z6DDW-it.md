@@ -16,6 +16,7 @@ comparePrice: 30.68 EUR
 prodname: 'Chupa Chups Skull Lecca Lecca  Confezione da 100 Lollipops Monopezzi  Aroma Fragola e Lime  Ottimi da Condividere'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0763Z6DDW/?tag=tolees00-21'
 descuento: '15.29'
 average: '25.99'

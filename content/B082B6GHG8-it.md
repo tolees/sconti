@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'Brunello di Montalcino DOCG Collezione del Conte Villa da Filicaja 2015 0 75 L'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082B6GHG8/?tag=tolees00-21'
 descuento: '20.00'
 average: '21.52'

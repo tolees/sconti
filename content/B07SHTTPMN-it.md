@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Havaianas Slim Logo Metallic  Infradito Donna  Grigio  Steel Grey/Rainbow Grey Glitter 7864   39/40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SHTTPMN/?tag=tolees00-21'
 descuento: '40.00'
 average: '18.0'

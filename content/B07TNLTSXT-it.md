@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Levi s SS Battery HM Slim Camicia  Blu  Dress Blues 0001   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TNLTSXT/?tag=tolees00-21'
 descuento: '50.00'
 average: '25.0'

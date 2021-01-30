@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'adidas Continental 80  Scarpe da Ginnastica Uomo  Nero  Black G27707   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K2R9DSW/?tag=tolees00-21'
 descuento: '43.87'
 average: '56.1'

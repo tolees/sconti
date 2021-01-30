@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Desigual TS gante T-Shirt  Bianco  Blanco 1000   Small Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VDFYRDJ/?tag=tolees00-21'
 descuento: '23.11'
 average: '15.37'

@@ -16,6 +16,7 @@ comparePrice: 125.99 EUR
 prodname: 'Samsung MG23K3515AW Forno Microonde Grill Combinato  23 Litri  800 W  Grill 1100 W  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01KSB389A/?tag=tolees00-21'
 descuento: '28.57'
 average: '89.99'

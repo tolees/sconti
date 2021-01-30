@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Vans Herren Otw Raglan T-Shirt  Mehrfarbig  WHITE-BLACK YB2   Small'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00I3G46MQ/?tag=tolees00-21'
 descuento: '34.31'
 average: '22.99'

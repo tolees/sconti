@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Calvin Klein Embroidery Regular Short Shorts  Nero  CK Black Bae   42  Taglia Produttore: Medium  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VFVMLWW/?tag=tolees00-21'
 descuento: '60.00'
 average: '23.96'

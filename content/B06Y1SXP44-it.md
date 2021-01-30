@@ -16,6 +16,7 @@ comparePrice: 98.24 EUR
 prodname: 'TP-Link RE650 Ripetitore WiFi Wireless  Wifi Extender  Access Point  Velocità Dual Band 2600Mbps  Porta Gigabit  Serie di Fascia Alta con Tecnologia 4 × 4 MU-MIMO  4-Stream  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06Y1SXP44/?tag=tolees00-21'
 descuento: '19.77'
 average: '78.87333333333333'

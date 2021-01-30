@@ -16,6 +16,7 @@ comparePrice: 469.99 EUR
 prodname: 'Thrustmaster TX Racing Wheel Leather Edition  Volante inkl. 3-Pedali  Xbox One / PC '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B015ECTG9Y/?tag=tolees00-21'
 descuento: '16.17'
 average: '394.0'

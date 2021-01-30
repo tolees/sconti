@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Tristar FR-6946 Friggitrice 3 L elettrica  2000 W  3000 milliliters  Acciaio inossidabile  Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S27NHX8/?tag=tolees00-21'
 descuento: '16.67'
 average: '29.99'

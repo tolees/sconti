@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'homcom Moto da Cross Elettrica con Rotelle Bambini 107 × 53 × 70cm Verde'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07H3VR57X/?tag=tolees00-21'
 descuento: '35.00'
 average: '90.97'

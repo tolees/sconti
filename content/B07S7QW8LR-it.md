@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Puma Ascend  Scarpe da Ginnastica Unisex-Adulto  Nero Black White/High Risk Red  40.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S7QW8LR/?tag=tolees00-21'
 descuento: '62.90'
 average: '27.81'

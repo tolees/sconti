@@ -16,6 +16,7 @@ comparePrice: 479.99 EUR
 prodname: 'Shark Anti Hair Wrap IZ251EUT Scopa Elettrica senza Fili con TruePet  80 Minuti  Accessorio per Peli di Animali  Doppia Batteria  Magenta'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0839RDRFN/?tag=tolees00-21'
 descuento: '22.73'
 average: '370.88'

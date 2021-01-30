@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Aigostar Lampada Solare Giardino Esterno 24pcs LED Luci Solari Giardino Lampade da Esterno per Prato LED Lampade Solari Terra IP44 Impermeabile Solari Luce Bianca Fredda 6500K Paesaggio Strade'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0882NHRNZ/?tag=tolees00-21'
 descuento: '20.00'
 average: '36.79'

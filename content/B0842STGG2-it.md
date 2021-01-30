@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Calvin Klein Padded Zip Up Harrington Giacca  CK Black  XL Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B0842STGG2/?tag=tolees00-21'
 descuento: '62.65'
 average: '55.99'

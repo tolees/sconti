@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Matrix Reloaded  4K Ultra HD + 2 Blu-Ray '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HSGZY8T/?tag=tolees00-21'
 descuento: '50.32'
 average: '14.9'

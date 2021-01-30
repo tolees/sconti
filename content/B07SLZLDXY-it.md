@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Havaianas Twist  Sandali con Chiusura a T Donna  Verde  Mineral Green 2996   33/34 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SLZLDXY/?tag=tolees00-21'
 descuento: '35.42'
 average: '15.5'

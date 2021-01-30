@@ -16,6 +16,7 @@ comparePrice: 500.0 EUR
 prodname: 'Kenwood KVL4170S Impastatrice Planetaria Chef XL  Robot da Cucina Mixer  con Frullatore e Tritacarne  1200 W  8 velocità  6.7 Litri  Acciaio  Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076M74ZCT/?tag=tolees00-21'
 descuento: '16.00'
 average: '393.3233333333333'

@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Canon IXUS 190 Fotocamera Digitale Compatta  20 MP  1/2.3"  CCD  5152 x 3864 Pixel  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N20DLBG/?tag=tolees00-21'
 descuento: '47.10'
 average: '99.99'

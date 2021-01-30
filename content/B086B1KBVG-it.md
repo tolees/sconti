@@ -16,6 +16,7 @@ comparePrice: 899.9 EUR
 prodname: 'Xiaomi Mi 10 Smartphone  256 + 8 GB  Twilight Grey'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086B1KBVG/?tag=tolees00-21'
 descuento: '34.44'
 average: '590.0'

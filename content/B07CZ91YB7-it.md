@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Puma Epic Flip V2  Infradito Unisex – Adulto  Rosa  Winsome Orchid-Puma White 26   47 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CZ91YB7/?tag=tolees00-21'
 descuento: '34.99'
 average: '12.97'

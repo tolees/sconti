@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Smart Panda Lavagna Calendario Magnetico Frigorifero - Perfetta per Pianificare I Pasti  Segnarsi La Lista della Spesa e Aiutarsi nello Studio - Lavagnetta Magnetica - Settimanale - in Italiano'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MSD7ZP5/?tag=tolees00-21'
 descuento: '20.00'
 average: '11.96'

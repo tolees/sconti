@@ -16,6 +16,7 @@ comparePrice: 42.0 EUR
 prodname: 'Orologio da Donna Casio H5LTP-1259PD-2AEF'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00K158BMI/?tag=tolees00-21'
 descuento: '51.24'
 average: '20.48'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Coltello Santoku MOSFiATA 7 "con protezione dita e temperamatite  EN1. 4116 acciaio inossidabile tedesco ad alto tenore di carbonio con manico Micarta e confezione regalo per la casa'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T8XQ9VW/?tag=tolees00-21'
 descuento: '40.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '4 X Spray deodorante Piedi - 150 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08HQYJ7LM/?tag=tolees00-21'
 descuento: '20.01'
 average: '15.99'

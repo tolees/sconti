@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Akai AKTV410TS Televisore Led Full HD  HDMI  1080p  DVB-T2  Nero  40 Pollici'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HXCMGRQ/?tag=tolees00-21'
 descuento: '16.06'
 average: '209.0'

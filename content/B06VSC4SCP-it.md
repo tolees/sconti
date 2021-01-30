@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Sector No Limits Orologio Digitale Uomo con Cinturino in Silicone R3251571003'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06VSC4SCP/?tag=tolees00-21'
 descuento: '50.00'
 average: '34.5'

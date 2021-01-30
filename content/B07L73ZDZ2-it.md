@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'AX BOXING Sneakers Uomo Donna Scarpe da Ginnastica Sportive Running Fitness Casual Basse Trekking  41 EU  A8333-Grigio Scuro '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07L73ZDZ2/?tag=tolees00-21'
 descuento: '15.00'
 average: '28.89'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'SanDisk SDCZ33-064G-G35 Cruzer Fit da 64 GB  Chiavetta USB 2.0  Versione 2019  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MDXBTL1/?tag=tolees00-21'
 descuento: '39.06'
 average: '15.23'

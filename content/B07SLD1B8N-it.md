@@ -16,6 +16,7 @@ comparePrice: 5.9 EUR
 prodname: 'Equilibra - Pappa Reale Fresca'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SLD1B8N/?tag=tolees00-21'
 descuento: '28.98'
 average: '4.19'

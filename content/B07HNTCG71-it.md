@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'Samsung DV80N62532W/ET Asciugatrice  8 kg  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HNTCG71/?tag=tolees00-21'
 descuento: '50.04'
 average: '599.0'

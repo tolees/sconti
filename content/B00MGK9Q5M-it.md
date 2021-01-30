@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Rimmel London Brow This Way Kit Sopracciglia  Sopracciglia Perfette in 3 Step  Medium Brown  2.4 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00MGK9Q5M/?tag=tolees00-21'
 descuento: '58.95'
 average: '3.9'

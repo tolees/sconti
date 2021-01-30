@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate Soft Grip Cover Frontale Custodia Scocca Case Ricambio per Xbox One Elite Series 2 Controller Model 1797 con 2 Anelli di Levette Analogiche Bianco '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08K8FZVCV/?tag=tolees00-21'
 descuento: '40.02'
 average: '14.99'

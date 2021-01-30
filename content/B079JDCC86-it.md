@@ -16,6 +16,7 @@ comparePrice: 35.8 EUR
 prodname: 'Barbie Magia delle Feste 2018 Bambola Bionda da Collezionare per Natale  FRN69'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079JDCC86/?tag=tolees00-21'
 descuento: '29.89'
 average: '25.1'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'YAMAY Smartwatch Orologio Fitness Tracker Uomo Donna Pressione Sanguigna Smart Watch Cardiofrequenzimetro da Polso Contapassi Smartband Sportivo Activity Tracker per Android iOS Xiaomi Samsung Huawei'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VY9LDDZ/?tag=tolees00-21'
 descuento: '16.67'
 average: '24.99'

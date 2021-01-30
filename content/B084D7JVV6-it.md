@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Sega a Gattuccio Brushless  POPOMAN 18V Sega Universale con LED  4000mAh Batterie  Caricabatterie Veloce  Corsa di Taglio 28 mm  Velocità 0-2500 SPM  2 Lame per Taglio Legno e Metallo - MTW200B'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084D7JVV6/?tag=tolees00-21'
 descuento: '40.00'
 average: '119.99'

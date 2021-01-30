@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'eufy [BoostIQ RoboVac 30C  Wi-Fi  Nuova Versione  Super-Sottile  Forte Aspirazione Fino a 1500Pa  4 Metri di Strisce di Demarcazione Incluse  Aspiratore Robotico Silenzioso  con Ricarica Automatica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DBZXZBW/?tag=tolees00-21'
 descuento: '29.17'
 average: '169.99'

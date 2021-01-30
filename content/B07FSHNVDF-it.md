@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Oral-B Genius 10000N Spazzolino Elettrico  Nero Notte'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FSHNVDF/?tag=tolees00-21'
 descuento: '24.32'
 average: '230.63'

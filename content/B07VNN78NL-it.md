@@ -16,6 +16,7 @@ comparePrice: 43.07 EUR
 prodname: 'Calvin Klein Scoop One Piece-RP Reggiseno Bikini  Rosa  Pink GLO TZ7    Taglia Produttore: Small  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VNN78NL/?tag=tolees00-21'
 descuento: '26.05'
 average: '31.85'

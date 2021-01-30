@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Altoparlante portatile Beats Pill+ - Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MCQ9UI5/?tag=tolees00-21'
 descuento: '28.03'
 average: '150.514'

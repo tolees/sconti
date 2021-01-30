@@ -16,6 +16,7 @@ comparePrice: 828.74 EUR
 prodname: 'Haier HTF-456DM6  Frigorifero Cube 4 Porte  Libera installazione  ABT luce UV antibatterica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01EW6L72W/?tag=tolees00-21'
 descuento: '45.70'
 average: '450.0'

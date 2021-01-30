@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Superga 2750-cotu Classic Sneaker  Unisex – Adulto  Bianco  901 White   44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B001EAOSDK/?tag=tolees00-21'
 descuento: '52.56'
 average: '27.99'

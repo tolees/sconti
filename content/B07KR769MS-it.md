@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Under Armour UA Qualifier HeatGear Tight  Pantaloni a Compressione Uomo  Nero  Black/Black/Reflective   S'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KR769MS/?tag=tolees00-21'
 descuento: '56.76'
 average: '28.1'

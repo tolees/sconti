@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Havaianas Slim Brasil Logo  Infradito  Donna  Nero  39/40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21'
 descuento: '35.58'
 average: '16.75'

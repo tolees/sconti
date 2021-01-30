@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Gillette Fusion Proshield Chill Lamette di Ricarica per Rasoio da Uomo  11 Lame'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B018M3GD8Y/?tag=tolees00-21'
 descuento: '22.51'
 average: '30.99'

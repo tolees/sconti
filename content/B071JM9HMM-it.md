@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LowPrice2017® Caricatore Caricabatteria Alimentatore Carica Batteria Per Nintendo DSI / DSiXL e 3DS / 3DSXL Perfettamente Compatibile Con Le Console Nintendo Alimentatore Da Viaggio Caricabatteria'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071JM9HMM/?tag=tolees00-21'
 descuento: '20.02'
 average: '7.938571428571429'

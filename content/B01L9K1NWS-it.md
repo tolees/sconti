@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Pandora Anello con motivo Donna vermeil - 180880CZ-52'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01L9K1NWS/?tag=tolees00-21'
 descuento: '21.13'
 average: '54.42'

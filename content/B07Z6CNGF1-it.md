@@ -16,6 +16,7 @@ comparePrice: 83.59 EUR
 prodname: 'Controller per switch/switch Lite  controller wireless per Nintendo Switch  6 Axes Gamepad Pro Switch di gioco con Bluetooth/Turbo/doppio motore per Switch Pro  Switch Lite e PC'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07Z6CNGF1/?tag=tolees00-21'
 descuento: '57.05'
 average: '35.94'

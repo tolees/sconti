@@ -16,6 +16,7 @@ comparePrice: 13.8 EUR
 prodname: 'Olio da barba per cura totale di barba lunga e corta. Olio balsamo da barba a base di olio di Argan  Baobab e Jojoba. Olio per barba naturale bio e profumato. Confezione di vetro 30ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BKB1FS8/?tag=tolees00-21'
 descuento: '20.00'
 average: '11.04'

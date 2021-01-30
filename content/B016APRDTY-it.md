@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Singer Starlet 6680 - Macchina da cucire elettronica  80 tipi di punti   Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B016APRDTY/?tag=tolees00-21'
 descuento: '20.00'
 average: '239.99'

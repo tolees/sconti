@@ -16,6 +16,7 @@ comparePrice: 30.48 EUR
 prodname: 'Paper Mate Flexgrip Elite'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000SHUV4U/?tag=tolees00-21'
 descuento: '54.36'
 average: '13.91'

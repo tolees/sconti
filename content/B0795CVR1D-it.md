@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Puma Liga  Maglietta Uomo  Viola  Prism Violet White   XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0795CVR1D/?tag=tolees00-21'
 descuento: '20.50'
 average: '15.86'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Duronic VC8 /BK Aspirapolvere verticale senza sacco 800W Scopa elettrica con filtro HEPA per ufficio e casa'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N8U4DEJ/?tag=tolees00-21'
 descuento: '20.00'
 average: '35.99'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'ASICS GT-1000 9  Scarpe da Corsa Uomo  Electric Blue/Black  42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SMPV3FK/?tag=tolees00-21'
 descuento: '66.71'
 average: '39.95'

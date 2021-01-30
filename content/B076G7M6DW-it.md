@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA Smash v2 L Jr  Scarpe da Ginnastica Unisex-Adulto  Bianca White White  38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076G7M6DW/?tag=tolees00-21'
 descuento: '41.55'
 average: '23.35'

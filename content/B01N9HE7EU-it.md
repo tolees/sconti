@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Reebok Club C 85  Sneaker Uomo  Bianco  Int/White/Navy   44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N9HE7EU/?tag=tolees00-21'
 descuento: '40.03'
 average: '47.95'

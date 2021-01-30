@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Olimpia Splendid 01914 Dolceclima Compact 9 P Climatizzatore Portatile  9000 BTU/h  2.34 kW  Natural Gas R290  Design Prodotto in Italia'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NDRL37H/?tag=tolees00-21'
 descuento: '25.50'
 average: '259.99'

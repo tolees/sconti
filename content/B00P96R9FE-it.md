@@ -16,6 +16,7 @@ comparePrice: 400.0 EUR
 prodname: 'Kenwood KM631 Impastatrice Planetaria Classic Major  Robot da Cucina Mixer  900 W  6.7 Litri  Metallo Pressofuso  Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00P96R9FE/?tag=tolees00-21'
 descuento: '42.50'
 average: '229.99'

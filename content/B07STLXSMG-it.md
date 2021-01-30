@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Nero  Black/Lt Gold C9258   38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07STLXSMG/?tag=tolees00-21'
 descuento: '60.42'
 average: '45.52'

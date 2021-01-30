@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Ghd Air - Asciugacapelli professionale  Finish come appena uscita dal salone in metà tempo  Nero/Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00628VOEA/?tag=tolees00-21'
 descuento: '35.26'
 average: '89.99'

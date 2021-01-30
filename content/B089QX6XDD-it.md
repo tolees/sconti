@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'HP - PC 15s-eq1015nl Notebook  AMD Ryzen 3  RAM 8 GB  SSD 128 GB  Grafica AMD Radeon R3  Windows 10 Home S Mode  Schermo 15.6" FHD SVA Antiriflesso  Lettore Micro SD  HDMI  USB-C  Webcam  Grigio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089QX6XDD/?tag=tolees00-21'
 descuento: '20.00'
 average: '405.3233333333334'

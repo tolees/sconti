@@ -16,6 +16,7 @@ comparePrice: 9.96 EUR
 prodname: 'Nivea Men Dry Impact Plus  Deodorante Extra Protezione  50 ml  Confezione da 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DJNZHM3/?tag=tolees00-21'
 descuento: '40.16'
 average: '5.96'

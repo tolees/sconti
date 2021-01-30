@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'New Balance 500  Scarpe Sportive Uomo  Grigio  Grey/White Gry   42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01AZLJOD2/?tag=tolees00-21'
 descuento: '20.03'
 average: '31.45'

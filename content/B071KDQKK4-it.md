@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Tacklife Coltello Pieghevole Professionale  Lama in Acciaio Inox Maniglia  con Legno Multiuso Portabile per Attività all’Aperto  la Caccia o la Pesca - FK04'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071KDQKK4/?tag=tolees00-21'
 descuento: '26.38'
 average: '13.98'

@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Kenwood HDP404WH Mixer ad Immersione  800 W  Tritatutto da 0 5 l  Bicchiere graduato da 0 75 L  Plastica  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00MB8MS68/?tag=tolees00-21'
 descuento: '29.52'
 average: '74.0'

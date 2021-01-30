@@ -16,6 +16,7 @@ comparePrice: 113.09 EUR
 prodname: 'Thule 711100 Barre Portatutto  Alluminio  108 cm  Set di 2'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07J2H6YCV/?tag=tolees00-21'
 descuento: '21.35'
 average: '88.95'

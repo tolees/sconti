@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Relaxed Graphic Tee T-Shirt  Bianco  90 s Serif Logo D3 White 0038   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TNLY8HJ/?tag=tolees00-21'
 descuento: '48.04'
 average: '12.99'

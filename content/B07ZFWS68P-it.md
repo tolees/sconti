@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'RTP® CREATINA in Polvere ● 500g ● Creatina Monoidrata CREAPURE® Booster per lo Sviluppo Muscolare ● Ottima Solubilità  inodore  insapore'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZFWS68P/?tag=tolees00-21'
 descuento: '20.00'
 average: '13.52'

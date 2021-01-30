@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Forbici a cricchetto GARDENA SmartCut: Stabili forbici con tagliente a incudine  diametro di taglio 25 mm  con meccanismo a cricchetto e impugnature in alluminio  8798-20 '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0030BEIL8/?tag=tolees00-21'
 descuento: '29.82'
 average: '28.0'

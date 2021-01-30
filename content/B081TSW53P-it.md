@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Track SST  Giacca Donna  Black/White  40'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B081TSW53P/?tag=tolees00-21'
 descuento: '44.80'
 average: '33.09'

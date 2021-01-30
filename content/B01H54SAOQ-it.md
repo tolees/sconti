@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Philips Ferri a vapore Ferro da stiro con caldaia PerfectCare Aqua PRO  Tecnologia OptimalTEMP  Colpo Vapore 440g  Pressione 6.5 bar  2100 W  2.5 Litri  Blu/Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01H54SAOQ/?tag=tolees00-21'
 descuento: '25.38'
 average: '186.54'

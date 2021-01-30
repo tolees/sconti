@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Fossil Collana con Ciondolo da Donna  Oro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VQN7TRQ/?tag=tolees00-21'
 descuento: '40.82'
 average: '29.0'

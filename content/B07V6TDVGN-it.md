@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Enterogermina Viaggi  integratore alimentare a base di probiotici  Vitamine A  D e Vitamine del gruppo B arricchito con fibre prebiotiche. Contiene edulcorante'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V6TDVGN/?tag=tolees00-21'
 descuento: '63.38'
 average: '5.41'

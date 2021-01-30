@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The Perfect Tee T-Shirt  Logo Serie Bok Choy  XXS Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZVQQ16D/?tag=tolees00-21'
 descuento: '50.03'
 average: '14.99'

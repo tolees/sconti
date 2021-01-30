@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'LE 15W Plafoniera LED  Lampada da Soffitto LED 1400lm  Lampada da Bagno Impermeabile IP54  Bianco Caldo 3000K  Luci Lampade a Soffitto Protegge Occhi per Bagno Cucina Camera da Letto Sala  =100W '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XW84ZFT/?tag=tolees00-21'
 descuento: '77.79'
 average: '21.99'

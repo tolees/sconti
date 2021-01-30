@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Cotton CN Tee SS Icon Maglietta  Bianco  Classic White 100   M Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00UBONFGG/?tag=tolees00-21'
 descuento: '50.17'
 average: '14.9'

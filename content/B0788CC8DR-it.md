@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Track Top Ls Hwk Felpa  Blu  Navy Blazer 416   Large Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0788CC8DR/?tag=tolees00-21'
 descuento: '42.79'
 average: '39.99'

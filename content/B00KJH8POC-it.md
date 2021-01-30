@@ -16,6 +16,7 @@ comparePrice: 2.59 EUR
 prodname: 'Cif Crema Limone Detergente per Superfici Dure  500 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00KJH8POC/?tag=tolees00-21'
 descuento: '34.75'
 average: '1.52'

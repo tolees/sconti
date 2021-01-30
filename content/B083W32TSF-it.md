@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'CHOETECH Caricatore Wireless 2 Posti  Caricatore Senza Fili  Qi Ricarica Rapida 7.5W per iPhone 11/11 PRO/XS Max/XR/XS/SE 2 10W per Galaxy S20/Note 10/S10/S10 Plus/S10E/S9/S9+/S8/S8 Plus  Stand+Pad '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083W32TSF/?tag=tolees00-21'
 descuento: '15.01'
 average: '20.39'

@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Rowenta CF5712 Instant Straight Spazzola Elettrica Lisciante e Termica con Generatore di Ioni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XPCDRDW/?tag=tolees00-21'
 descuento: '42.87'
 average: '23.99'

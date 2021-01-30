@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'CRAYOLA Washimals Set Attività  per Colorare e Fare il Bagnetto ai Cuccioli  Gioco e Regalo  da 3 Anni'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079V3BXD7/?tag=tolees00-21'
 descuento: '26.42'
 average: '25.369230769230768'

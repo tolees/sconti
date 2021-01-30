@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'adidas Core18 Giacca  Uomo  Blu Dk / Bianco  M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B076HMRYMC/?tag=tolees00-21'
 descuento: '28.38'
 average: '21.48'

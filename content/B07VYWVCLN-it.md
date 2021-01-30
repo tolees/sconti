@@ -16,6 +16,7 @@ comparePrice: 43.9 EUR
 prodname: 'Massaggiatore Plantare Massaggio Piedi - Tecnologia SME Fisioterapia e Design Ergonomico Rilassamento per Casa e Ufficio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VYWVCLN/?tag=tolees00-21'
 descuento: '45.56'
 average: '23.9'

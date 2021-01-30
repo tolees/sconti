@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Lady Luck Felpa  Blu  Crew Feminine Logo Marina 0004   X-Small Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TRMTTWR/?tag=tolees00-21'
 descuento: '69.54'
 average: '19.8'

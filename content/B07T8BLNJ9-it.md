@@ -16,6 +16,7 @@ comparePrice: 11.57 EUR
 prodname: 'Ant-Man & The Wasp 10° Anniversario Marvel Studios brd   Blu Ray '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07T8BLNJ9/?tag=tolees00-21'
 descuento: '15.82'
 average: '9.74'

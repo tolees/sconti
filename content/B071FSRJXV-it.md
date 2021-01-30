@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Turtle Beach Stealth 700P Cuffie Gaming con Suono Surround per PlayStation 4  Wireless  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071FSRJXV/?tag=tolees00-21'
 descuento: '26.73'
 average: '109.9'

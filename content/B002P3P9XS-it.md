@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Fjällräven Kånken - Zaino Unisex  13 cm x 27 cm x 38 cm  16 L  Verde  Forest Green/Ox Red '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B002P3P9XS/?tag=tolees00-21'
 descuento: '36.85'
 average: '59.99'

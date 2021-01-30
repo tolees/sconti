@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'Xbox One X - Bundle Gears of War 5 - Inclusi Gears of War 2  3  4 + 14 Days Live Gold + 1m Gamepass'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VSGCNFY/?tag=tolees00-21'
 descuento: '20.20'
 average: '405.78000000000003'

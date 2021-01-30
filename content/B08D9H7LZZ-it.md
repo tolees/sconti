@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Android 10.0 TV Box 2GB RAM 16GB ROM Smart TV Box Set Top Box RK3318 USB 3.0 1080P Ultra HD 4K HDR WiFi 2.4GHz 5.8GHz BT 4.1 Streaming Media Player con Mini Tastiera Senza Fili Retro Illuminata'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08D9H7LZZ/?tag=tolees00-21'
 descuento: '18.92'
 average: '31.323333333333334'

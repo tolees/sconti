@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Vero Moda - Maglietta  Colletto Tondo  Manica Corta  Donna  Nero  Schwarz  Black    XS'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00G47NT1U/?tag=tolees00-21'
 descuento: '16.86'
 average: '12.43'

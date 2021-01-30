@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Aigostar Lampada da Comodino  Moderna Lampada da Tavolo Base in Ceramica Paralume in Stoffa  Attacco E14  Ananas d oro  Altezza 36cm '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086BQJV7K/?tag=tolees00-21'
 descuento: '20.01'
 average: '18.39'

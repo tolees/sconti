@@ -16,6 +16,7 @@ comparePrice: 103.99 EUR
 prodname: 'Logitech G604 LIGHTSPEED Mouse Gaming Wireless con 15 Controlli Programmabili  Fino a 240 Ore di Durata delle Batterie  Imballaggio dell  Europa dell  Est  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W6JKL78/?tag=tolees00-21'
 descuento: '30.77'
 average: '71.99'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'THE PROTEIN WORKS Proteine Whey 80  Concentrate  In Polvere | 82% Di Proteine | Frullato Proteico Povero Di Zuccheri | Crema alla Vaniglia | 500g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00G2A5F9S/?tag=tolees00-21'
 descuento: '32.38'
 average: '9.46'

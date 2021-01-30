@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Nike T-Lite XI  Scarpe da Ginnastica Uomo  Bianco  White/Obsidian/Black/Metallic Silver 101   40.5 EU  6.5 UK '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00BYG3TWU/?tag=tolees00-21'
 descuento: '29.60'
 average: '35.2'

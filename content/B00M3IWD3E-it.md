@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Nixon Analogico Quarzo Orologio da Polso A045-1920-00'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00M3IWD3E/?tag=tolees00-21'
 descuento: '29.39'
 average: '69.9'

@@ -16,6 +16,7 @@ comparePrice: 21.52 EUR
 prodname: 'Bud Birra  Bottiglia - Pacco da 24 x 330 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086RF8NX1/?tag=tolees00-21'
 descuento: '18.59'
 average: '17.52'

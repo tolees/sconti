@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Motast Cuffie Bluetooth  Auricolari Bluetooth 5.0 Noise Cancelling  Auricolari Wireless Stereo Bassi Profondi HIFI  Ricarica Rapida USB-C  Cuffie con Microfono Impermeabile IP7 Tocca Controllo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CXST2G2/?tag=tolees00-21'
 descuento: '37.74'
 average: '32.99'

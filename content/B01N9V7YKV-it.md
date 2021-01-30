@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Fossil Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox FTW1139'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N9V7YKV/?tag=tolees00-21'
 descuento: '50.25'
 average: '99.0'

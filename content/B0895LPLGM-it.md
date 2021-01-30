@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'ATOYX 66C RC Mini Drone con Telecomando Funzione di Sospensione Altitudine modalità Headless 3 velocità 3D Flip Protezioni a 360°per Bambini e Principianti  Verde '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0895LPLGM/?tag=tolees00-21'
 descuento: '16.67'
 average: '30.74'

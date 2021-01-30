@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'August EP650  Cuffie Bluetooth Senza Fili v4.2  Auricolare Wireless con NFC aptX  Bluetooth Headphones Pieghevole con Multipoint  August Audio App  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00F54Y6GU/?tag=tolees00-21'
 descuento: '20.00'
 average: '39.96'

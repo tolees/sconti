@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'Immunilflor - 12 Mini Drink'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DN9FT24/?tag=tolees00-21'
 descuento: '30.00'
 average: '9.427500000000002'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'HOMEVER Specchio Trucco con 21 LEDs  Specchio di Vanity Trifold Ruota di 180° Ingrandimento 1x / 2X / 3X Specchio per Il con Touchscreen per Il Trucco e la Cura della Pelle  Bianca '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087P1LNCH/?tag=tolees00-21'
 descuento: '17.40'
 average: '18.99'

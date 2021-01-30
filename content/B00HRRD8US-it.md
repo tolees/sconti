@@ -16,6 +16,7 @@ comparePrice: 82.79 EUR
 prodname: 'Sylvanian Families - Casetta per le bambole  in plastica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00HRRD8US/?tag=tolees00-21'
 descuento: '19.70'
 average: '80.77000000000001'

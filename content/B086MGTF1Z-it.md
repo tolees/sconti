@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'GoPetee Tappetino Refrigerante Rinfrescante per Cane Gatto  Tappetino in Gel Pet Caldo Estivo Tappetino Fresco Refrigerante per Animali Domestici  Pesce Mimetico  XL '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086MGTF1Z/?tag=tolees00-21'
 descuento: '36.01'
 average: '25.59'

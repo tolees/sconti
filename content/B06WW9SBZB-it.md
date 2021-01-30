@@ -16,6 +16,7 @@ comparePrice: 32.98 EUR
 prodname: 'Portapacchi Bici  Alluminio Bici posteriore Rack bicicletta portapacchi ciclismo reggisella Rack Mountain Bike Cargo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06WW9SBZB/?tag=tolees00-21'
 descuento: '22.74'
 average: '25.48'

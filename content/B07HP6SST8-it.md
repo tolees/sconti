@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Hoover AXI AWDPD 4138LH/1-S  Steel'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HP6SST8/?tag=tolees00-21'
 descuento: '26.59'
 average: '659.99'

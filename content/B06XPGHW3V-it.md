@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Kong: Skull Island  4K Ultra HD + Blu-Ray Disc + Copia Digitale   2 Blu-Ray '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XPGHW3V/?tag=tolees00-21'
 descuento: '50.32'
 average: '14.9'

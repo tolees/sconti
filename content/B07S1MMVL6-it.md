@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'New Balance 520v6  Scarpe da Corsa Uomo  Blu Blue Lv6  43 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S1MMVL6/?tag=tolees00-21'
 descuento: '31.44'
 average: '47.99'

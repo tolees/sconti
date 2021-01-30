@@ -16,6 +16,7 @@ comparePrice: 929.0 EUR
 prodname: 'Samsung Galaxy S20 Smartphone  Display 6.2" Dynamic AMOLED 2X  3 Fotocamere Posteriori  128 GB Espandibili  RAM 8 GB  Batteria 4000 mAh  Hybrid SIM/eSIM  [Versione Italiana]  Cloud Pink'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B084S7W3RJ/?tag=tolees00-21'
 descuento: '31.22'
 average: '639.0'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'BLACK+DECKER BHHV315J-QW  Aspiratore Ricaricabile Aspirabriciole Litio  18Wh  capacità Contenitore 700ml  Azione Ciclonica  con Accessori e Jack di Ricarica  12V'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PH28CRB/?tag=tolees00-21'
 descuento: '40.94'
 average: '59.0'

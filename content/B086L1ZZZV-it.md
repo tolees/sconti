@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Aigostar Otto 30RYH - Macinacaffè elettrico  potente lama in acciaio inossidabile da 200 W con grande capacità 75 g  tazza rimovibile  blocco di sicurezza  adatto anche per spezie  frutta a guscio.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086L1ZZZV/?tag=tolees00-21'
 descuento: '20.01'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Cuffie Wireless Bluetooth 5.0 Cancellazione Attiva del Rumore Srhythm NC75 Pro ANC Over Ear con CVC8.0 Microfono Stereo Hi-Fi Carica Rapida  40 ore di Lavoro per iPhone/Android/PC/TV'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BQQDSSB/?tag=tolees00-21'
 descuento: '28.24'
 average: '64.58'

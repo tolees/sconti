@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Diesel UMBX-SHAWNTHREEPACK  Slip Uomo  Blu  Dress Blues/Mazarine Blue/Dresden Blue E4974-0pawe   XS  Pacco da 3'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07RVCZHWJ/?tag=tolees00-21'
 descuento: '57.33'
 average: '17.52'

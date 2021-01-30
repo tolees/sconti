@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Lavazza Espresso Decaffeinato Ricco - 10 Confezioni da 10 Capsule'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21'
 descuento: '48.31'
 average: '12.87'

@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'Equilibra Creatina - 200 gr'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B018GHZDS2/?tag=tolees00-21'
 descuento: '21.43'
 average: '9.9'

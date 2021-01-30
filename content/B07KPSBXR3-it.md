@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Funko- Pop Vinile: Disney: The Lion King: Simba Figura da Collezione  Multicolore  38543'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KPSBXR3/?tag=tolees00-21'
 descuento: '16.67'
 average: '8.25'

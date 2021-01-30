@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'Swiffer Sweeper - Salviette asciutte/umide  kit di avvio per pavimento/parquet'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CSC1VZ6/?tag=tolees00-21'
 descuento: '22.75'
 average: '12.9'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Souke Sports - Guanti da Ciclismo Uomo Donna Guanti da Bicicletta a Dito Pieno Enduro Guanti Touchscreen per MTB Bike Bici da Corsa Escursionismo e Alpinismo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CZQ3DF2/?tag=tolees00-21'
 descuento: '42.87'
 average: '19.99'

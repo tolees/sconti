@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Merax - Sedia girevole da ufficio  in similpelle  regolabile in altezza e con funzione dondolo  colore: Nero  Nero   48 x 48 x 106 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087RP5RCM/?tag=tolees00-21'
 descuento: '20.00'
 average: '47.99'

@@ -16,6 +16,7 @@ comparePrice: 84.9 EUR
 prodname: 'find. Slouch Stivaletti  Nero Black   39 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FK47SXZ/?tag=tolees00-21'
 descuento: '34.55'
 average: '55.57'

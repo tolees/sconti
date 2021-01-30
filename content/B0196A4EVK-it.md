@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Sylvanian Families - 5234 - Boutique'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0196A4EVK/?tag=tolees00-21'
 descuento: '16.29'
 average: '49.58297297297297'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'morpilot Guinzaglio Cane  Guinzaglio per Cani Resistente e Robusto  Guinzaglio Elastico in Nylon Riflettente con Impugnatura Imbottita Morbida  Adatto per Addestramento/Corsa + Sacchetti di Spazzatura'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MTGCXK6/?tag=tolees00-21'
 descuento: '28.59'
 average: '9.99'

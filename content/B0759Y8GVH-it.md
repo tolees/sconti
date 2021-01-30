@@ -16,6 +16,7 @@ comparePrice: 13.19 EUR
 prodname: 'K19 USB Tipo C Cavo 5A 1 8m Lungo Typ C Cavo di Ricarica per Huawei Mate 9 PRO 10 PRO Porsche Design P20 PRO P10 P9 Plus Nova 2 Plus Honor View 10 Super Charge Argento'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0759Y8GVH/?tag=tolees00-21'
 descuento: '16.22'
 average: '11.05'

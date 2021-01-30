@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Cuffie Bluetooth  Auricolari Bluetooth5.0 Senza Fili Auricolari Wireless Sportivi in Ear con 3500mAh Custodia da Ricarica  Hi-Fi Stereo CVC8.0 Cancellazione di Rumore Cuffie Senza Fili con Mic   C5S+ '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0824VJ4GB/?tag=tolees00-21'
 descuento: '58.76'
 average: '32.99'

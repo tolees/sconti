@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'eXtremeRate Cover Grip per Xbox One S X Controller Model 1708  Custodia Frontale Case Scocca Copertura Impugnatura Pannelli DIY Ricambio per Xbox One S X Joystick Venatura del Legno '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08JQGPLV1/?tag=tolees00-21'
 descuento: '34.49'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'adidas Grand Court  Scarpe da Tennis Donna  Ftwr White/Platinum Met./Ftwr White  40 2/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07DNF4LNN/?tag=tolees00-21'
 descuento: '17.17'
 average: '57.94'

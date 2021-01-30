@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'DYNASONIC 025 Cassa Bluetooth Altoparlante con Karaoke 10W | Cassa portatile compatibile con computer  telefoni ecc con Microfono incluso  2 Microfoni '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PWGVNWT/?tag=tolees00-21'
 descuento: '20.00'
 average: '37.59'

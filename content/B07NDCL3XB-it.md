@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Nacon Revolution Unlimited Pro Controller - Playstation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07NDCL3XB/?tag=tolees00-21'
 descuento: '17.65'
 average: '124.42'

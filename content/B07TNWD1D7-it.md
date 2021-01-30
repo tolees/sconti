@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Havaianas Slim Flatform  Infradito Donna  Rosa  Pink Porcelain 7600   33/34 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TNWD1D7/?tag=tolees00-21'
 descuento: '55.00'
 average: '12.6'

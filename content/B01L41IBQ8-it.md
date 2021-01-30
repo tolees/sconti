@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'Caffè Borbone Cialde Miscela Rossa - Confezione da 100 Cialde - 720 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01L41IBQ8/?tag=tolees00-21'
 descuento: '30.20'
 average: '15.0'

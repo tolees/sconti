@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Friskies Purina Crocchette Cane Vitafit Balance con Pollo e Verdure Aggiunte - 6 Sacchi da 1.5 Kg Ciascuno'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01M8M4PXV/?tag=tolees00-21'
 descuento: '21.47'
 average: '18.84'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'PUMA Sneaker Plain 3p Calze sportive  Blu Navy  35/38  Pacco da 3  Unisex – Adulto'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074WD8TCF/?tag=tolees00-21'
 descuento: '44.49'
 average: '6.1866666666666665'

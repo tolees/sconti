@@ -16,6 +16,7 @@ comparePrice: 73.9 EUR
 prodname: 'Cam il Mondo del Bambino - Seggiolone Miniplus col.240'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JBSMR8P/?tag=tolees00-21'
 descuento: '18.82'
 average: '59.99'

@@ -16,6 +16,7 @@ comparePrice: 1.24 EUR
 prodname: 'Maizena - Amido di Mais  per Dolci Soffici e Leggeri - 250 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082VSVP7L/?tag=tolees00-21'
 descuento: '22.58'
 average: '0.96'

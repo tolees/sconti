@@ -16,6 +16,7 @@ comparePrice: 879.41 EUR
 prodname: 'Xiaomi Mi 10 16 9 cm  6.67"  8 GB 256 GB Doppia SIM 5G USB Tipo-C Grigio Android 10.0 4780 mAh 10  16 9 cm  6.67"   8 GB  256 GB  108 MP  Android 10.0  Twilight Gray'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086KVQMDS/?tag=tolees00-21'
 descuento: '31.89'
 average: '599.0'

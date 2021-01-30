@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Weelth Tappetino per Mouse  800x400mm Sottomano da Ufficio  Mouse Pad in Similpelle  Impermeabile  Doppia Facciata'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WNMJBNN/?tag=tolees00-21'
 descuento: '15.01'
 average: '11.89'

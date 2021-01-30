@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: '【bassi potenti】Auricolari Bluetooth  IHOUMI Cuffie Bluetooth 5.1 Senza Fili  TWS Ear-In Cuffie con Custodia Di Ricarica Portatile  Cancellazione del rumore  3D Mic-Incorporato per iPhone/Android'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088D6T1XS/?tag=tolees00-21'
 descuento: '17.50'
 average: '30.105384615384615'

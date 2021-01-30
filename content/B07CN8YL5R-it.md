@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Crocs Crocband Flip  Infradito Unisex – Adulto  Verde  Vert Armée/Blanc 37P   43-44 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CN8YL5R/?tag=tolees00-21'
 descuento: '40.18'
 average: '14.95'

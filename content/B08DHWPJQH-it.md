@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Huawei 55030701 Nano Memory Card  128 GB Con Lettore Di Scheda'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21'
 descuento: '25.38'
 average: '48.5'

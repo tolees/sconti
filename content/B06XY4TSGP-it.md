@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Audio-Technica ATHDSR7BT cuffia'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21'
 descuento: '57.31'
 average: '149.0'

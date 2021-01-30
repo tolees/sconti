@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Auricolari Bluetooth 5.0 TWS i12 Cuffie wireless stereo 3D con controllo smart touch  doppi microfoni integrati con connessione pop-up anti-rumore IPX7 accoppiamento automatico-bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FHZWXTN/?tag=tolees00-21'
 descuento: '15.01'
 average: '20.32333333333333'

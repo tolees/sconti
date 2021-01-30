@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PUMA Smash Wns v2 L  Scarpe da Ginnastica Donna  Bianca White White  40 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077M97VSW/?tag=tolees00-21'
 descuento: '21.38'
 average: '39.27'

@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Microsoft 1850 Mobile Mouse Wireless  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00JF0AR0Y/?tag=tolees00-21'
 descuento: '54.82'
 average: '8.99'

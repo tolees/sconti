@@ -16,6 +16,7 @@ comparePrice: 11.89 EUR
 prodname: 'Mini manuale tritatutto  520 ml verdure cipolla chopper con 3 lame in acciaio inox  tritacarne/frullatore/macinino  Frutta Verdura Carne Aglio Cipolle con mixer'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BWDJ362/?tag=tolees00-21'
 descuento: '16.82'
 average: '9.89'

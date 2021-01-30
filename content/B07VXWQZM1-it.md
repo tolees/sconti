@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Pepe Jeans Edison T-Shirt  Bianco  Optic White 802   SMA L L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07VXWQZM1/?tag=tolees00-21'
 descuento: '65.71'
 average: '12.0'

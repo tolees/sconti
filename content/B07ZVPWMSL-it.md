@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s Hoodie Felpa con Cappuccio  Mineral Black  L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZVPWMSL/?tag=tolees00-21'
 descuento: '30.07'
 average: '48.95'

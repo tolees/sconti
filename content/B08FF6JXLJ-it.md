@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Dixan Discs Antiodore Detersivo Lavatrice Predosato in Capsule 4 in 1  2 x 25 Lavaggi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FF6JXLJ/?tag=tolees00-21'
 descuento: '33.96'
 average: '9.9'

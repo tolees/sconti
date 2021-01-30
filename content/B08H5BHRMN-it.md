@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Genericn - Scheda di memoria Micro SD SDXC ad alta velocità classe 10 SDXC da 256 GB/512 GB/1024 GB + adattatore gratuito  1024 GB '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08H5BHRMN/?tag=tolees00-21'
 descuento: '74.38'
 average: '9.99'

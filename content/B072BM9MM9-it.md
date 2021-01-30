@@ -16,6 +16,7 @@ comparePrice: 56.95 EUR
 prodname: 'homcom Outsunny Colonnine Separacode Colonnina Segnapercorso con Nastro Nero  in Acciaio Inox  Ф32 x 90CM'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B072BM9MM9/?tag=tolees00-21'
 descuento: '29.99'
 average: '41.03666666666666'

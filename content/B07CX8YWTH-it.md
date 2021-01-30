@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'ProAction Nuts Bar  frutta  confezione da 30 barrette da 30 g '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07CX8YWTH/?tag=tolees00-21'
 descuento: '20.00'
 average: '38.4'

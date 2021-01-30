@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'LEGO Movie 2 - L astronave Sorellare di Dolce Sconquasso!  70830'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FNN146M/?tag=tolees00-21'
 descuento: '50.66'
 average: '37.0'

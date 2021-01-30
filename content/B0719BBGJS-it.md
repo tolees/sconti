@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Lacoste Sport TH0123 T-Shirt  Nero  Noir   Large  Taglia Produttore: 5  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0719BBGJS/?tag=tolees00-21'
 descuento: '33.22'
 average: '30.05'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'YAMAY Smartwatch Braccialetto Fitness Activity Tracker Smart Watch Android iOS Orologio Cardiofrequenzimetro da Polso Contapassi Calorie Notifiche Sport Donna Uomo Bambini per Samsung Xiaomi Huawei'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B074V44RLN/?tag=tolees00-21'
 descuento: '33.34'
 average: '19.99'

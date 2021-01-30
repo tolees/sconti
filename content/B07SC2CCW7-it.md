@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Smac - Sgrassatore Disinfettante Trigger - 650ml x 12 pezzi - 7800 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SC2CCW7/?tag=tolees00-21'
 descuento: '20.04'
 average: '19.99'

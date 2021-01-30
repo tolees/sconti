@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Calvin Klein underwear - RADIANT COTTON - BIKINI  Intimo da donna  bianco  white 100   XS'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00W9RSX9M/?tag=tolees00-21'
 descuento: '56.31'
 average: '6.99'

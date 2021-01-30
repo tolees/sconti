@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Havaianas Top Tiras  Infradito Donna  Oro  Rose Nude 7939   37/38 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07FXZV9K2/?tag=tolees00-21'
 descuento: '20.00'
 average: '16.73428571428572'

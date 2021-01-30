@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Creano Set di 4 Vetro Termico XXL a Doppia Parete Bulboso  Grande Bicchiere da Bere Resistente al Calore in Vetro Borosilicato | 400ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TZFVSB5/?tag=tolees00-21'
 descuento: '20.01'
 average: '20.79'

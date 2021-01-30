@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Under Armour UA Hustle 3.0  Zaino Unisex  Rosso  Red/Graphite/Silver 600   Taglia Unica'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01KLV3J82/?tag=tolees00-21'
 descuento: '58.72'
 average: '22.7'

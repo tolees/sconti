@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Zanzariera Magnetica per Porte  NASUM Tenda Zanzariera per Porte d Ingresso Porte  Cortili'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07PHXXJ74/?tag=tolees00-21'
 descuento: '25.01'
 average: '14.99'

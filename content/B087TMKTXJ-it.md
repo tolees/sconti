@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Wellue FSC20C - Pulsossimetro da Dito - Saturimetro - Ossimetro - Lettura immediata su schermo oled - Ossigeno  Frequenza del Polso e Onda Pulsazione - Dispositivo Medico CE 0123'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B087TMKTXJ/?tag=tolees00-21'
 descuento: '21.28'
 average: '22.79'

@@ -16,6 +16,7 @@ comparePrice: 20.08 EUR
 prodname: 'Pritt Colla Stick 25 x 11g  colla per bambini sicura e affidabile  colla Pritt per lavoretti e fai da te  con una tenuta forte per uso scuola e ufficio  25 stick x 11g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B005NCOD5S/?tag=tolees00-21'
 descuento: '24.35'
 average: '15.04'

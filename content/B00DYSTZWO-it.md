@@ -16,6 +16,7 @@ comparePrice: 52.46 EUR
 prodname: 'Pentole Agnelli ALSC111BSSC36 Alblack Padella Svasata Alta Saltare  in Alluminio  con Manico Tubolare in Acciaio Inossidabile ”Cool”  36 cm  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DYSTZWO/?tag=tolees00-21'
 descuento: '37.84'
 average: '32.61'

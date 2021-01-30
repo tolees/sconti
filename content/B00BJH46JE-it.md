@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'BaByliss For Men E837E X-10 Kit multiaccessoriato per rasatura e depilazione  Uomo  viso  capelli e corpo  nero  grigio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00BJH46JE/?tag=tolees00-21'
 descuento: '40.07'
 average: '35.9'

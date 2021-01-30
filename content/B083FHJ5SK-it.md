@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Lacoste L1212 Polo  Panorama  M Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083FHJ5SK/?tag=tolees00-21'
 descuento: '38.96'
 average: '57.99'

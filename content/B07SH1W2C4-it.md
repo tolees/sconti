@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s June L S  Infradito Donna  Rosa  Light Pink 81   39 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SH1W2C4/?tag=tolees00-21'
 descuento: '32.04'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Minnie - Cucina di Minnie  181694'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00TYJ4L76/?tag=tolees00-21'
 descuento: '30.19'
 average: '34.9'

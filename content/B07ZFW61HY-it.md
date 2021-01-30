@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'RTP® ● OMEGA 3 + Vit E ● 180 Capsule di Olio di Pesce Premium ● Dose da 2000mg ad Alta Biodisponibilità ● EPA e DHA ad Alta Concentrazione'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZFW61HY/?tag=tolees00-21'
 descuento: '20.00'
 average: '11.92'

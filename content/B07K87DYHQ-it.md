@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cressi Floating Mattress Lounger  Materassino Gonfiabile Mare e Nuoto Unisex – Adulto  Azzuro  70 x 183 cm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K87DYHQ/?tag=tolees00-21'
 descuento: '20.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 2.89 EUR
 prodname: 'Vetril Igienizzante  650 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21'
 descuento: '31.14'
 average: '1.99'

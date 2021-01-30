@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Multimetro Digitale Classico  Tacklife DM02A Multi Tester con Rilevamento di Voltaggio Senza Contatto  Display LCD Retroilluminato  Test per Tensione  Corrente  Resistenza e Continuità  Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B071HJR5BG/?tag=tolees00-21'
 descuento: '36.68'
 average: '18.99'

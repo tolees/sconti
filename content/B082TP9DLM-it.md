@@ -16,6 +16,7 @@ comparePrice: 45.98 EUR
 prodname: 'Emojoy Set Coltelli da Cucina  Ceppo Coltelli Cucina Professionali 6 Pezzi  Coltelli in Acciaio Inossidabile con Blocco in Legno  Razor Lama Affilata'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082TP9DLM/?tag=tolees00-21'
 descuento: '17.40'
 average: '37.98'

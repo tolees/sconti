@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Speyang Tappo Vasca da Bagno  10 PZ Tappo Lavandino Silicone Universale  Tappo di Scarico in Silicone - per Cucine  Vasche da Bagno  Sistemi di Drenaggio  Lavelli'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08GHMGT7D/?tag=tolees00-21'
 descuento: '40.02'
 average: '11.99'

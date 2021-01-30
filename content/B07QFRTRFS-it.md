@@ -16,6 +16,7 @@ comparePrice: 12.4 EUR
 prodname: 'Pesoforma Barrette Tre Cioccolati  Pasti Sostitutivi Dimagranti  Ricco In Proteine - 370 Gr'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07QFRTRFS/?tag=tolees00-21'
 descuento: '51.69'
 average: '5.99'

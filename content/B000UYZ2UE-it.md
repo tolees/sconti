@@ -16,6 +16,7 @@ comparePrice: 3082.1 EUR
 prodname: 'Makita KP312S - Cepillo 2200W 12000 rpm 18.4 kg ancho 312 mm corte hasta 3.5 mm'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B000UYZ2UE/?tag=tolees00-21'
 descuento: '40.33'
 average: '1838.95'

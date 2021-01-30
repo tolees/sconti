@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'Burton Underhill  Maglia A Maniche Corte Uomo  True Black  M'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SJHXWJN/?tag=tolees00-21'
 descuento: '33.36'
 average: '21.99'

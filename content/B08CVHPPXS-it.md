@@ -16,6 +16,7 @@ comparePrice: 87.0 EUR
 prodname: 'Hard Disk Esterno  Hard Disk 2 tb Esterno USB3.1/Type C Hard Disk per Mac  PC  PS4  Desktop  Laptop  MacBook  Xbox One  2TB Nero '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08CVHPPXS/?tag=tolees00-21'
 descuento: '26.45'
 average: '63.99'

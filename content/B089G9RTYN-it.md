@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'RAVIAD Cavo USB Tipo [2Pezzi  0.5m] Nylon Cavo USB C di Ricarica Rapida e Trasferimento Dati per Samsung Galaxy S9/ S8/ Note9/ 8  Huawei P20/Mate20  Xiaomi Mi A2  MacBook  OnePlus 6T'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089G9RTYN/?tag=tolees00-21'
 descuento: '15.02'
 average: '6.79'

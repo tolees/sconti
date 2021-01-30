@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 721 High Rise Skinny Jeans  Hyper Soft T2 Sepia Rose 0271  25W / 30L Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TT6NJSP/?tag=tolees00-21'
 descuento: '68.89'
 average: '28.0'

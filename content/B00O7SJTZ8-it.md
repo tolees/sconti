@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Garmin 010-11251-41 cinturino per orologio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00O7SJTZ8/?tag=tolees00-21'
 descuento: '20.01'
 average: '15.99'

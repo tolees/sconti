@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'goldenpoint Leggings Straight con borchie tonde Fantasia Principe di Galles'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089RZTFDB/?tag=tolees00-21'
 descuento: '50.01'
 average: '22.47'

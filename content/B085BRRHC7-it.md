@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Lampade Solari a Led da Esterno  AOPAWA 210 LED【Ultima Versione Durevole 2200 mAh】Luce Solare Sensore di Movimento 3 Modalità Luci Solari Impermeabile IP65 per Giardino -2 Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085BRRHC7/?tag=tolees00-21'
 descuento: '15.03'
 average: '21.2'

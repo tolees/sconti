@@ -16,6 +16,7 @@ comparePrice: 6.03 EUR
 prodname: 'Dove  Invisible Dry deodorante stick 40 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B006EHVDWW/?tag=tolees00-21'
 descuento: '52.74'
 average: '2.85'

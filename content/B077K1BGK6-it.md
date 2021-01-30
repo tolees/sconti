@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Justice League  4K+Br '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077K1BGK6/?tag=tolees00-21'
 descuento: '52.20'
 average: '12.9'

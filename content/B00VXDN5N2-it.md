@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'NATURANDO ENERGIA FORTE PLUS 40 PERLE Integratore alimentare per contrastare la stanchezza fisica e mentale'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00VXDN5N2/?tag=tolees00-21'
 descuento: '53.16'
 average: '8.9'

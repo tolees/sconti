@@ -16,6 +16,7 @@ comparePrice: 15.24 EUR
 prodname: 'Lysoform Detersivo Igienizzante per Bucato  Detersivo Classico 25 Lavaggi x3'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B079D86MWH/?tag=tolees00-21'
 descuento: '47.57'
 average: '7.99'

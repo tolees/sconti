@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Tommy Hilfiger Bikini Mutande  Rosa  Pale Blush 612   40  Taglia Produttore: X-Small  Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D9LVFPH/?tag=tolees00-21'
 descuento: '41.32'
 average: '12.85'

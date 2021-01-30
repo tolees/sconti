@@ -16,6 +16,7 @@ comparePrice: 32.2 EUR
 prodname: 'Apli 12115 Porta Porta Carte Polipropilene  Rosso  160 Carte x 12115'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00C6ZCVXQ/?tag=tolees00-21'
 descuento: '70.59'
 average: '9.47'

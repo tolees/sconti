@@ -16,6 +16,7 @@ comparePrice: 62.29 EUR
 prodname: 'Unità Flash Lexar JumpDrive Fingerprint F35 USB 3.0'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TFM66BV/?tag=tolees00-21'
 descuento: '23.74'
 average: '47.5'

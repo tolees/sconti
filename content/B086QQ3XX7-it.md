@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Ashleymade Anello Personalizzato Figlie Madre Anelli in Argento con Nome e Pietra Gioielli Regali per Donna San Valentino Compleanno  Argento  14.5  7  '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086QQ3XX7/?tag=tolees00-21'
 descuento: '62.52'
 average: '14.99'

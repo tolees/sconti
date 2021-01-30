@@ -16,6 +16,7 @@ comparePrice: 45.75 EUR
 prodname: 'Silent Mind ~ Campana Tibetana con Accessori ~ Modello Antico ~ Con Battente a Doppia Superficie e Cuscino di Seta ~ Favorisce la Serenità  la Guarigione dei Chakra e la Consapevolezza ~ Dono Squisito'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00XEV4WYM/?tag=tolees00-21'
 descuento: '51.19'
 average: '22.33'

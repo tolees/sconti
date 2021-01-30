@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'ELEGIANT Bastone Selfie  Asta Selfie Bluetooth Controllo Wireless Selfie Stick Treppiede Per Android iOS iPhone XS Max XR x 8s Huawei P20 P30 Mate Pro Lite 10 iPad Samsung Galaxy s10 s9+ HTC 8X LG ecc'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07HG4WJCD/?tag=tolees00-21'
 descuento: '15.40'
 average: '10.99'

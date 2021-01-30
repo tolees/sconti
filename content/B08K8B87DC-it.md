@@ -16,6 +16,7 @@ comparePrice: 105.98 EUR
 prodname: 'Echo Show 5  Nero + lampadina intelligente LIFX White  compatibile con Alexa'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08K8B87DC/?tag=tolees00-21'
 descuento: '18.87'
 average: '85.98'

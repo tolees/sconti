@@ -16,6 +16,7 @@ comparePrice: 22.4 EUR
 prodname: 'Havaianas Slim Brasil Logo  Infradito Donna  Rosa  Crocus Rose 3544   41/42 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SHTTT45/?tag=tolees00-21'
 descuento: '63.62'
 average: '8.15'

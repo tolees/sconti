@@ -16,6 +16,7 @@ comparePrice: 40.48 EUR
 prodname: 'SONGMICS LLR01L Appendiabiti Estensibile con rotelle  in Metallo  150 x 44 x 165 cm Blu'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00FDLV1EK/?tag=tolees00-21'
 descuento: '45.68'
 average: '21.99'

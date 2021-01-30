@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'Hoover Freedom Scopa Ricaricabile  0.7 Litri  76 Decibel  Blu Titanio'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B077YZ52NP/?tag=tolees00-21'
 descuento: '50.03'
 average: '84.9'

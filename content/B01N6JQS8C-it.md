@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Kingston A400 SSD SA400S37/120G Unità a Stato Solido Interne 2.5" SATA  120 GB'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01N6JQS8C/?tag=tolees00-21'
 descuento: '43.25'
 average: '20.99'

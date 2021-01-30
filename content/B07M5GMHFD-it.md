@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'HooToo Hub USB C 8 in 1 Adattatore Type C con HDMI 4K  Porte USB 3.0  Porta Ethernet da 1 Gbps  Lettori di schede SD/TF e Porta di Ricarica PD da 100W per MacBook/PRO/Air e per Laptop Type C e Altri'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07M5GMHFD/?tag=tolees00-21'
 descuento: '20.00'
 average: '40.45153846153846'

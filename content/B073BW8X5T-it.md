@@ -16,6 +16,7 @@ comparePrice: 82.14 EUR
 prodname: 'Saucony Jazz Original Vintage  Sneakers Uomo  Black White 10  41 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B073BW8X5T/?tag=tolees00-21'
 descuento: '24.62'
 average: '61.92'

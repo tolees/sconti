@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'PUMA Ralph Sampson Lo  Sneaker Unisex-Adulto  Bianco White Peacoat White  40.5 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KFYX5S4/?tag=tolees00-21'
 descuento: '58.26'
 average: '33.37'

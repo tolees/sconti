@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'adidas Backpack Club Orange'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W6QHDV4/?tag=tolees00-21'
 descuento: '22.82'
 average: '19.99'

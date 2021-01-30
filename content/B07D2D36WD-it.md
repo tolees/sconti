@@ -16,6 +16,7 @@ comparePrice: 22.21 EUR
 prodname: 'È Pura - Maschera Blonde Care - Trattamento Professionale Intensivo Antigiallo per Capelli Biondi e con Meches - 300 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07D2D36WD/?tag=tolees00-21'
 descuento: '28.01'
 average: '15.99'

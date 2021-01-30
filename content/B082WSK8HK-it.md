@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'amzdeal Pietra per Pizza con Spatola e Ricetta in Legno  Pietra Refrattaria Cucina per Pizza 38cm x 30cm x 1 5cm Adatta per Forno  Ideale per Cucinare Pizza  Pane  Torte  ECC.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B082WSK8HK/?tag=tolees00-21'
 descuento: '15.00'
 average: '28.89'

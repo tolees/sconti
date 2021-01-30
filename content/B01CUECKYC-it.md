@@ -16,6 +16,7 @@ comparePrice: 22.98 EUR
 prodname: 'Aigostar Adam 30GOM - Bollitore d acqua in vetro borosilicato con illuminazione a LED. 2200W  1.7L e Color Nero. Protezione Boil-dry. BPA FREE. Design Esclusivo.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01CUECKYC/?tag=tolees00-21'
 descuento: '19.54'
 average: '18.49'

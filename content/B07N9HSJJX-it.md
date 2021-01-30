@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'X-Bionic Invent Light Shirt Round Neck Short Sleeve Men  T Uomo  Opal Black/Arctic White  XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07N9HSJJX/?tag=tolees00-21'
 descuento: '36.76'
 average: '34.78'

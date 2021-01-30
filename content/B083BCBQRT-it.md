@@ -16,6 +16,7 @@ comparePrice: 22.98 EUR
 prodname: 'Grsta Bottiglia per Acqua in Acciaio Inox  Borraccia Termica 350ml/Cielo Blu  Borracce Isolante Sottovuoto per 24 Ore Freddo e 12 Ore Caldo  Portatile per Bambini  Scuola  Palestra  Sport e Lavoro'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B083BCBQRT/?tag=tolees00-21'
 descuento: '56.61'
 average: '9.97'

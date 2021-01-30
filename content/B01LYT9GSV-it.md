@@ -16,6 +16,7 @@ comparePrice: 2.85 EUR
 prodname: 'Rio Mare Filetti di Sgombro Grigliati al Naturale  Ricchi di Omega 3  1 Lattina da 120 g'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01LYT9GSV/?tag=tolees00-21'
 descuento: '16.14'
 average: '2.39'

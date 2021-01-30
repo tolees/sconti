@@ -16,6 +16,7 @@ comparePrice: 1204.99 EUR
 prodname: 'Samsung QE65Q60TAUXZT Serie Q60T QLED Smart TV 65"  Ultra HD 4K  Wi-Fi  Black  2020'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B086B3LLVB/?tag=tolees00-21'
 descuento: '17.51'
 average: '993.99'

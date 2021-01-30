@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Gardena Select E2 1891-20 Controllo dell irrigazione  Nero/Grigio/Arancione'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JM7NXQT/?tag=tolees00-21'
 descuento: '18.20'
 average: '49.0'

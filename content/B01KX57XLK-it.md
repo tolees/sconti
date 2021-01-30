@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: 'Bio-Oil Olio per Cicatrici e Smagliature  Trattamento per la Pelle con Azione Idratante  Cicatrizzante e Anti Smagliature  Indicata per Pelli Sensibili  200 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01KX57XLK/?tag=tolees00-21'
 descuento: '15.20'
 average: '17.79'

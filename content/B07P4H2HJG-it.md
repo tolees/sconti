@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Jump Force - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07P4H2HJG/?tag=tolees00-21'
 descuento: '29.49'
 average: '27.5'

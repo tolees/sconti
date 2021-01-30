@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Vano portaoggetti secondario da bracciolo per auto  colore nero e con tappetino antiscivolo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B078W5BK9S/?tag=tolees00-21'
 descuento: '40.02'
 average: '11.99'

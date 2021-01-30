@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'gracosy Scarpe da Acqua Sport Donna Uomo 2020 Scarpe da Corsa per Corsa Comfort Sneakers da Esterno Leggere Antiscivolo Spiaggia 37-46'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07SQ7BKMC/?tag=tolees00-21'
 descuento: '23.09'
 average: '19.99'

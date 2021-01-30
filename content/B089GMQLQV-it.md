@@ -16,6 +16,7 @@ comparePrice: 18.8 EUR
 prodname: 'SHULIANCABLE Cavo Ethernet Cat 8  di Rete Cat 8 40Gbps 2000Mhz RJ45 Cavo LAN per PC  PS4  Modem  Router  Xbox  3M '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089GMQLQV/?tag=tolees00-21'
 descuento: '41.54'
 average: '10.99'

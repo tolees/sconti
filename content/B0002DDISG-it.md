@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Braun HC5050 Tagliacapelli  Regolabarba Uomo e Rasoio Elettrico Barba con 17 Impostazioni di Lunghezza Precise e Lame Affilate di Lunga Durata  2 Accessori Inclusi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0002DDISG/?tag=tolees00-21'
 descuento: '19.52'
 average: '32.99'

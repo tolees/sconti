@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Lysoform Blocchi WC Limone- Formato Convenienza da 9 Pezzi  Più di 315 Risciacqui'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08568KLRM/?tag=tolees00-21'
 descuento: '15.63'
 average: '13.49'

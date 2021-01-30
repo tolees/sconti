@@ -16,6 +16,7 @@ comparePrice: 25.97 EUR
 prodname: 'Auricolare Bluetoot Cuffie Bluetooth touch 24h Playtime 3D stereo HD Cuffie Wireless  Binaurale Call auto Pairing Con Scatola di Ricarica Per iPhone/Samsung/Airpods/Huawei/Android'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B08FDQWS2V/?tag=tolees00-21'
 descuento: '36.47'
 average: '16.5'

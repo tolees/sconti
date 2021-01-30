@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Corporate Material Mix Runner  Scarpe da Ginnastica Basse Uomo  Bianco  White Ybs   46 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07V7XT57C/?tag=tolees00-21'
 descuento: '57.84'
 average: '37.9'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cuffie Wireless Sport IPX7  Yuanguo Auricolari Bluetooth 4.2 Stereo sostegno HSP  HFP  A2DP  AVRCP  Qualità CD Qudio Impermeabile Headset Sportive con Microfono per iPhone  Android  iPod&iPad - Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B075L7KZXQ/?tag=tolees00-21'
 descuento: '27.81'
 average: '14.43'

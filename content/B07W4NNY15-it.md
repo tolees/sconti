@@ -16,6 +16,7 @@ comparePrice: 38.33 EUR
 prodname: 'Tommy Hilfiger Rope Stripe Tee Camicia Sportiva  Blu  Desert Sky   Medium  Taglia Unica:  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07W4NNY15/?tag=tolees00-21'
 descuento: '59.17'
 average: '15.65'

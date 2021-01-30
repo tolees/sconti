@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Heritage Crew Neck Graphic Tee Maglietta  Bianco  Classic White 100   Medium Donna'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07P9RJVFB/?tag=tolees00-21'
 descuento: '19.90'
 average: '23.95'

@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'TECLAST F15 Notebook Portatile 15.6 Pollici Laptop Ultrasottile Laptop 8GB RAM 256GB SSD Window 10  Batteria Grande 41800mWh  WiFi + Bluetooth + USB3.0 + HDMI + Tastiera Illuminata'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089JZL5KC/?tag=tolees00-21'
 descuento: '15.00'
 average: '369.99'

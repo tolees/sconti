@@ -16,6 +16,7 @@ comparePrice: 11.0 EUR
 prodname: 'Multicomplex Sport - 10 Buste'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00DN9FW08/?tag=tolees00-21'
 descuento: '46.45'
 average: '5.89'

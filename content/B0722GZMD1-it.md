@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Lenor Ammorbidente Risveglio Primaverile 208 Lavaggi  Maxi Formato 8 x 26 Lavaggi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0722GZMD1/?tag=tolees00-21'
 descuento: '42.65'
 average: '11.831428571428571'

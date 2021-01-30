@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Fossil Orologio Quarzo Uomo con Cinturino in Acciaio Inox FS5236'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B01MXVB2S5/?tag=tolees00-21'
 descuento: '70.66'
 average: '61.451666666666675'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'NAPAPIJRI Aerons Stand 2 Giacca  Blu  French Blue Bb7   L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07M83W6NF/?tag=tolees00-21'
 descuento: '60.06'
 average: '79.48'

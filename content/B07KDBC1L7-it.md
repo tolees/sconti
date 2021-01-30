@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Echo Show 5 – Resta sempre in contatto con l aiuto di Alexa  Bianco'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07KDBC1L7/?tag=tolees00-21'
 descuento: '44.45'
 average: '49.99'

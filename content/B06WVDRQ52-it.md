@@ -16,6 +16,7 @@ comparePrice: 29.97 EUR
 prodname: 'Maximo Exercise Mat NBR Fitness Mat - Multi Purpose - 183 x 60 x 1.2 centimetres - Yoga  Pilates  Sit-ups  Stretching  Home  Gym Men And Women.'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B06WVDRQ52/?tag=tolees00-21'
 descuento: '90.09'
 average: '2.97'

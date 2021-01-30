@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'MKTOSASA - Set di Vini Rifinito in Legno di bambù - 16x4.9x10 bambù'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085LM5D1N/?tag=tolees00-21'
 descuento: '20.07'
 average: '23.1'

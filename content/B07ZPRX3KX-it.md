@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Hurley M Phtm Vagabond Elite  Cappelli Uomo  Dk Smoke Grey  L/XL'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07ZPRX3KX/?tag=tolees00-21'
 descuento: '41.13'
 average: '26.49'

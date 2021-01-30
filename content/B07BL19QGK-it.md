@@ -16,6 +16,7 @@ comparePrice: 71.06 EUR
 prodname: 'Prada Profumo - 50 Ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07BL19QGK/?tag=tolees00-21'
 descuento: '42.87'
 average: '40.6'

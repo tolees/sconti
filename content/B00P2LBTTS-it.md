@@ -16,6 +16,7 @@ comparePrice: 6.32 EUR
 prodname: 'Tescoma 695432 Uno Vino Collare Salvagoccia'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00P2LBTTS/?tag=tolees00-21'
 descuento: '56.33'
 average: '2.76'

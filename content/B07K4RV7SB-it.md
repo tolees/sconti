@@ -16,6 +16,7 @@ comparePrice: 32.88 EUR
 prodname: 'adidas Falcon W  Scarpe da Ginnastica Donna  Nero  Core Black/Core Black/Grey Five   36 2/3 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07K4RV7SB/?tag=tolees00-21'
 descuento: '32.09'
 average: '25.13'

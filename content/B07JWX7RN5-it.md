@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Lacoste Th3377 T-Shirt  Bianco  Blanc/Noir Au8   Medium  Taglia Produttore: 4  Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07JWX7RN5/?tag=tolees00-21'
 descuento: '39.00'
 average: '27.45'

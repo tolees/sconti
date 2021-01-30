@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4656'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0055BWXF4/?tag=tolees00-21'
 descuento: '44.38'
 average: '94.0'

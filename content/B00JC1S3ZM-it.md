@@ -16,6 +16,7 @@ comparePrice: 32.21 EUR
 prodname: 'Apli Kids 13067 Trapano Fantasia Fiore Verde  16 mm x 13067'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00JC1S3ZM/?tag=tolees00-21'
 descuento: '60.17'
 average: '12.236'

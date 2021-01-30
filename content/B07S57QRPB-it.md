@@ -16,6 +16,7 @@ comparePrice: 153.99 EUR
 prodname: 'Philips Sonicare ExpertClean 7300 HX9601/02 Spazzolino Elettrico con Tecnologia Sonica  Connesso con App  3 Modalità di Pulizia e 3 Intensità  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07S57QRPB/?tag=tolees00-21'
 descuento: '28.57'
 average: '109.99'

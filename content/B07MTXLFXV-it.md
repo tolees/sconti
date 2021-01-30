@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'Logitech G432 Cuffie Gaming Cablate  Audio Surround 7.1  Cuffie DTS: X 2.0  Driver Audio 50 mm  Jack Audio USB 3.5 mm  Microfono Flip-to-Mute  Leggere  PC/Mac/Xbox One/PS4/Nintendo Switch  Nero/Blu'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07MTXLFXV/?tag=tolees00-21'
 descuento: '26.83'
 average: '64.68230769230769'

@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Casio Orologio Analogico Quarzo Donna con Cinturino in Acciaio Inox MTP-1302D-7A1VEF'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0039UT5HC/?tag=tolees00-21'
 descuento: '24.30'
 average: '30.264615384615386'

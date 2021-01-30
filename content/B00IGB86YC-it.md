@@ -16,6 +16,7 @@ comparePrice: 93.3 EUR
 prodname: 'Hugo Boss Boss Bottled Unlimited Eau de Toilette Spray 100 ml'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B00IGB86YC/?tag=tolees00-21'
 descuento: '61.52'
 average: '35.9'

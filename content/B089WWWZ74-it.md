@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Finish Detersivo Per Lavastoviglie  100 Lavaggi  Powergel  2 Confezioni Da 50 Lavaggi  Limone'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B089WWWZ74/?tag=tolees00-21'
 descuento: '43.78'
 average: '8.99'

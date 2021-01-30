@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Kipling KiplingTopsDonnaPortafogliNero  Charcoal  7.5x10x2.5 Centimeters  B x H x T '
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B07TTP9V2G/?tag=tolees00-21'
 descuento: '54.76'
 average: '16.74'

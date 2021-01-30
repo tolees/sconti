@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lorus Orologio Analogico-Digitale Quarzo Uomo con Cinturino in Acciaio Inox RW623AX9'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B0154B6TAY/?tag=tolees00-21'
 descuento: '40.70'
 average: '60.945'

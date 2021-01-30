@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'heekpek Costume da Bagno Donna V Profonda Imbottito Swimsuit Halter Cute Beachwear Ruffles Flounce Regolabile Bikini Costumi da Bagno Due Pezzi'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B085RXSJ8C/?tag=tolees00-21'
 descuento: '25.58'
 average: '6.69'

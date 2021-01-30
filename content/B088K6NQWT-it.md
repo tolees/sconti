@@ -16,6 +16,7 @@ comparePrice: 28.62 EUR
 prodname: 'Controller per Nintendo Switch Pro Sendowtek Bluetooth Controller Wireless con Doppio Turbo Vibrazione Switch Joystick Gamepad Supporta Funzione Gyro Axis'
 country: 'it'
 flag: '🇮🇹'
+brand: ''
 buyurl: 'https://www.amazon.it/dp/B088K6NQWT/?tag=tolees00-21'
 descuento: '15.41'
 average: '24.21'
