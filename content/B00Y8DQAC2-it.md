@@ -1,31 +1,33 @@
 ---
 layout: post
-title: 'Tre Marie - Ancora Uno Frolla al cacao c al 30.00 % di sconto'
-date: 2021-01-20 09:08:07
+title: 'Tremarie - Tre Marie Ancora Uno Frolla a al 43.06 % di sconto'
+date: 2021-01-30 20:07:13
 image: 'https://m.media-amazon.com/images/I/41+S1L8dzXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y8DQAC2-it Tre Marie - Ancora Uno Frolla al cacao con gocce di...'
+slug: 'B00Y8DQAC2-it Tremarie - Tre Marie Ancora Uno Frolla al Cacao Congocce...'
+sku: 'B00Y8DQAC2-it'
 tags: [  ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19
-comparePrice: 1.7 EUR
-prodname: 'Tre Marie - Ancora Uno Frolla al cacao con gocce di cioccolato  300 g'
+comparePrice: 2.09 EUR
+prodname: 'Tremarie - Tre Marie Ancora Uno Frolla al Cacao Congocce di Cioccolato  300g'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Tremarie'
 buyurl: 'https://www.amazon.it/dp/B00Y8DQAC2/?tag=tolees00-21'
-descuento: '30.00'
-average: '1.5766666666666667'
+descuento: '43.06'
+average: '1.422'
 ---
 
-Puoi trovare [Tre Marie - Ancora Uno Frolla al cacao con gocce di cioccolato  300 g](https://www.amazon.it/dp/B00Y8DQAC2/?tag=tolees00-21) con il prezzo 1.19 EUR (originale: 1.7 EUR) 30.00 % sconto qui:
+Puoi trovare [Tremarie - Tre Marie Ancora Uno Frolla al Cacao Congocce di Cioccolato  300g](https://www.amazon.it/dp/B00Y8DQAC2/?tag=tolees00-21) con il prezzo 1.19 EUR (originale: 2.09 EUR) 43.06 % sconto qui:
 
-[![Tre Marie - Ancora Uno Frolla al cacao c](https://m.media-amazon.com/images/I/41+S1L8dzXL._SL200_.jpg)](https://www.amazon.it/dp/B00Y8DQAC2/?tag=tolees00-21)
+[![Tremarie - Tre Marie Ancora Uno Frolla a](https://m.media-amazon.com/images/I/41+S1L8dzXL._SL200_.jpg)](https://www.amazon.it/dp/B00Y8DQAC2/?tag=tolees00-21)
 
 ℹ️:
 
-- Faremo il possibile per consegnarti questo prodotto ad almeno 30 giorni dalla scadenza
+- Tre Marie Ancora Uno Frolla al Cacao Congocce di Cioccolato, 300g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00Y8DQAC2/?tag=tolees00-21)
