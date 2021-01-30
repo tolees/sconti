@@ -28,10 +28,10 @@ average: '18.7'
 
 ℹ️:
 
-- Sensore ottico 4000 dpi ad alta precisione
-- Illuminazione rgb personalizzabile
-- Tipi di dispositivi compatibili: pc, laptop
 - 10 pulsanti programmabili
 - Piattaforme software compatibili: Windows
+- Sensore ottico 4000 dpi ad alta precisione
+- Tipi di dispositivi compatibili: pc, laptop
+- Illuminazione rgb personalizzabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075F1VVQB/?tag=tolees00-21)
