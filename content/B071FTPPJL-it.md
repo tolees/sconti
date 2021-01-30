@@ -16,7 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Levi s Batwing Hoodie  cappuccio Donna  Avorio  Sportswear Hoodiee White 0001   Small'
 country: 'it'
 flag: '🇮🇹'
-brand: 'Levi's'
+brand: 'Levis'
 buyurl: 'https://www.amazon.it/dp/B071FTPPJL/?tag=tolees00-21'
 descuento: '27.71'
 average: '45.8576470588236'
