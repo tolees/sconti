@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 15.01 % su meross Ciabatta Intelligente Multipresa   '
-date: 2021-01-29 09:30:52
+date: 2021-01-30 15:20:46
 image: 'https://m.media-amazon.com/images/I/41jas1CKRML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'meross Ciabatta Intelligente Multipresa Wifi Smart 3 Prese AC 4 Porte USB  Funzione Timer Protezione da Sovraccarico 2500W 10A  Compatibile con SmartThings  Amazon Alexa  Google Assistant e IFTTT'
 country: 'it'
 flag: '🇮🇹'
+brand: 'meross'
 buyurl: 'https://www.amazon.it/dp/B07MK1VL3T/?tag=tolees00-21'
 descuento: '15.01'
 average: '24.64'
@@ -27,10 +28,10 @@ average: '24.64'
 
 ℹ️:
 
-- ★INSTALLAZIONE SEMPLICE e INTUITIVA★: basta scaricare lapp Meross e seguire i passaggi di installazione per iniziare. Il design dellapp è semplice e intuitivo e la connessione Wi-Fi è molto stabile
 - ★FUNZIONE TIMER★: Crea e imposta programmazioni on / off e una routine di timer di spegnimento automatico per ogni presa e quattro porte USB per funzionare automaticamente. Affinché i tuoi dispositivi possano accendersi e spegnersi da soli. Sunrise / Sunset è pronto. La funzione Random On / Off verrà aggiunta presto tramite laggiornamento del firmware
+- ★INSTALLAZIONE SEMPLICE e INTUITIVA★: basta scaricare lapp Meross e seguire i passaggi di installazione per iniziare. Il design dellapp è semplice e intuitivo e la connessione Wi-Fi è molto stabile
+- ★CONTROLLO VOCALE★: compatibile con Amazon Alexa, google home e IFTTT, supporto il controllo vocale. Puoi attivare / disattivare un elettrodomestico con il comando vocale tramite Echo o Google Home
 - ★APP CONTROLLO REMOTO★: questa presa multipla intelligente ha la protezione di sovratensione, ti offre più sicurezza. Con 3 smart AC e 4 porte usb, ideale per l’uso domestico e all’ufficio. Puoi accendere o spegnere ogni uscita AC e 4 porte usb in qualsiasi posti (4 porte USB non possono essere controllate separatamante)
 - ★QUALITÀ ECCELLENTE★: La ciabatta intelligente è realizzata in materiale PC ignifugo ed è stata approvata per la sicurezza e la garanzia della qualità. Qualsiasi domanda o problema, ti preghiamo di contattarci, ti aiutiamo a risolverlo sicuramente
-- ★CONTROLLO VOCALE★: compatibile con Amazon Alexa, google home e IFTTT, supporto il controllo vocale. Puoi attivare / disattivare un elettrodomestico con il comando vocale tramite Echo o Google Home
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MK1VL3T/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '60.0'
 
 ℹ️:
 
-- Suola molto morbida che offre un confort aumentato
 - Realizzati in materiali di alta qualità
+- Suola molto morbida che offre un confort aumentato
 - Rapido e facile da indossare
 - Design elegante e confortevole
 
