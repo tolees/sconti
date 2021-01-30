@@ -28,12 +28,12 @@ average: '399.0'
 
 ℹ️:
 
-- Batteria: 4200 mah
-- Tipo di connetore: USB Tipo-C
 - Sistema operativo: Android 10
 - Fotocamera: quad, 64mp + 12mp + 8mp + 2mp
-- Processore: snapdragon 865 2.84ghz
 - Schermo: 6.44", 1080 x 2400 pixel
+- Batteria: 4200 mah
+- Processore: snapdragon 865 2.84ghz
 - Tipo di schermo: LCD
+- Tipo di connetore: USB Tipo-C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085PL99KG/?tag=tolees00-21)
