@@ -28,8 +28,8 @@ average: '8.75'
 
 ℹ️:
 
-- Oral spray Unisex 15 milliliters
 - Weight: 15 milliliters
 - Oral care: oral spray
+- Oral spray Unisex 15 milliliters
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00D3HWGHM/?tag=tolees00-21)
