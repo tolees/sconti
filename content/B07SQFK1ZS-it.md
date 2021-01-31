@@ -28,10 +28,10 @@ average: '14.99'
 
 ℹ️:
 
-- PEPERONCINO E PEPERONCINO&AGLIO - L’olio extra vergine di oliva aromatizzato all’aglio e peperoncino quello aromatizzato al peperoncino sono particolarmente adatti per insalate, verdure cotte, spaghetti, cozze e bruschetta. Utilizzane solo poche gocce sui piatti già preparati per un sapore intenso
-- BASILICO - L’olio extra vergine di oliva aromatizzato al basilico è consigliato soprattutto per condire insalate, primi piatti, zuppe di verdure, bruschette, salse di pomodoro, uova sode e petti di pollo. Utilizzane solo poche gocce sui piatti già preparati per un sapore intenso
+- OLI AROMATIZZATI - Per unire sapore e praticità, abbiamo arricchito l’olio extravegine di oliva con le erbe e i profumi mediterranei. Con questo pack potrai assaggiare ben 4 diverse fragranze nate da questa matrimonio di sapori
 - TARTUFO BIANCO - L’olio extra vergine di oliva con l’aroma del tartufo bianco è molto apprezzato dagli intenditori, è adatto per insaporire bruschette, primi piatti con sugo bianco, arrosti e creazioni gourmet. Utilizzane solo poche gocce sui piatti già preparati per un sapore intenso
 - MONINI - La filosofia della famiglia Monini è da sempre quella di produrre Oli Extravergini di oliva ineccepibili, di qualità superiore e costante nel tempo, controllati e certificati dalla filiera alla tua tavola. Nella gamma di prodotti Monini è possibile trovare i sapori più autentici della cucina tradizionale italiana
-- OLI AROMATIZZATI - Per unire sapore e praticità, abbiamo arricchito l’olio extravegine di oliva con le erbe e i profumi mediterranei. Con questo pack potrai assaggiare ben 4 diverse fragranze nate da questa matrimonio di sapori
+- BASILICO - L’olio extra vergine di oliva aromatizzato al basilico è consigliato soprattutto per condire insalate, primi piatti, zuppe di verdure, bruschette, salse di pomodoro, uova sode e petti di pollo. Utilizzane solo poche gocce sui piatti già preparati per un sapore intenso
+- PEPERONCINO E PEPERONCINO&AGLIO - L’olio extra vergine di oliva aromatizzato all’aglio e peperoncino quello aromatizzato al peperoncino sono particolarmente adatti per insalate, verdure cotte, spaghetti, cozze e bruschetta. Utilizzane solo poche gocce sui piatti già preparati per un sapore intenso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SQFK1ZS/?tag=tolees00-21)
