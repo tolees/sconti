@@ -28,8 +28,8 @@ Puoi trovare [Xiaomi SSXCQ01XY  Aspiradora Mini  120 W  100 milliliters](https:/
 
 ℹ️:
 
-- Modello portatile e leggero.
 - Motore elettrico BLDC
+- Modello portatile e leggero.
 - Aspirapolvere senza cavo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MPQQJHQ/?tag=tolees00-21)

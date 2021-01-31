@@ -28,11 +28,11 @@ average: '45.8566666666667'
 
 ℹ️:
 
+- Pettini: un pettine regolabile per barba lunga (da 3 a 7 mm), due pettini per barba corta (1-2 mm), tre pettini per capelli (9-12-16 mm), due pettini per il corpo (3-5 mm)
 - Wet & Dry, utilizzabile sotto la doccia e facile da pulire
 - Kit Multifunzione impermeabile con 14 accessori per styling barba, taglio capelli e bodygroom
-- Pettini: un pettine regolabile per barba lunga (da 3 a 7 mm), due pettini per barba corta (1-2 mm), tre pettini per capelli (9-12-16 mm), due pettini per il corpo (3-5 mm)
 - Tecnologia DualCut, lame autoaffilanti che tagliano in due direzioni
-- Accessori: Rifinitore in metallo per barba, capelli e corpo; Rasoio per il corpo; Rasoio di precisione per contorni (guance, mento e collo); Rifinitore di precisione in metallo per contorni barba; Rifinitore per naso e orecchie
 - Fino a 120 minuti di autonomia con 1 ora di ricarica, funzione Quick Charge (5 minuti)
+- Accessori: Rifinitore in metallo per barba, capelli e corpo; Rasoio per il corpo; Rasoio di precisione per contorni (guance, mento e collo); Rifinitore di precisione in metallo per contorni barba; Rifinitore per naso e orecchie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H45MRCC/?tag=tolees00-21)
