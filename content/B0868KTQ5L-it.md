@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'sconto del 26.01 % su Deik Set Coltelli  Coltelli Cucina 16 Pe  '
-date: 2021-01-16 17:51:26
+date: 2021-01-31 14:19:04
 image: 'https://m.media-amazon.com/images/I/51B8SityaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868KTQ5L-it'
+slug: 'B0868KTQ5L-it Deik Set Coltelli Coltelli Cucina 16 Pezzi in Nero BO...'
+sku: 'B0868KTQ5L-it'
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99
@@ -14,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Deik Set Coltelli  Coltelli Cucina 16 Pezzi in Nero BO Oxide Acciaio Inossidabile - Antigraffio & Anticorrosivo  Ceppo Coltelli Professionali con Blocco in Acrilico  Coltelli da Cucina'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Deik'
 buyurl: 'https://www.amazon.it/dp/B0868KTQ5L/?tag=tolees00-21'
 descuento: '26.01'
 average: '36.99'

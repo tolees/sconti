@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.00 % su Vans MN Classic PO Hoodie II Felpa  Nero  '
-date: 2021-01-27 11:42:49
+date: 2021-01-31 14:41:05
 image: 'https://m.media-amazon.com/images/I/41BG3rvuqDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 65.0 EUR
 prodname: 'Vans MN Classic PO Hoodie II Felpa  Nero  Nero e Bianco Y28   L Uomo'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Vans'
 buyurl: 'https://www.amazon.it/dp/B07NRZJ31K/?tag=tolees00-21'
 descuento: '50.00'
-average: '43.0'
+average: '40.375'
 ---
 
 [Vans MN Classic PO Hoodie II Felpa  Nero  Nero e Bianco Y28   L Uomo](https://www.amazon.it/dp/B07NRZJ31K/?tag=tolees00-21) ha un prezzo di 32.5 EUR (originale: 65.0 EUR) con uno sconto del 50.00 % sconto qui:
@@ -27,8 +28,8 @@ average: '43.0'
 
 ℹ️:
 
-- Vans Nero Felpa con cappuccio classico
 - Nuovissimo e genuino. Siamo un venditore autorizzato di Vans.
 - Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
+- Vans Nero Felpa con cappuccio classico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NRZJ31K/?tag=tolees00-21)
