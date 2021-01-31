@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Tanjun Mn  Scarpe Sportive Uomo  Gr al 28.79 % di sconto'
-date: 2021-01-27 07:35:50
+date: 2021-01-31 08:27:17
 image: 'https://m.media-amazon.com/images/I/51Ns4Yj8bBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 66.0 EUR
 prodname: 'Nike Tanjun Mn  Scarpe Sportive Uomo  Grigio  Wolf Grey/White   43 EU'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Nike'
 buyurl: 'https://www.amazon.it/dp/B00XWPUIL6/?tag=tolees00-21'
 descuento: '28.79'
-average: '52.498'
+average: '51.5816666666666'
 ---
 
 Puoi trovare [Nike Tanjun Mn  Scarpe Sportive Uomo  Grigio  Wolf Grey/White   43 EU](https://www.amazon.it/dp/B00XWPUIL6/?tag=tolees00-21) con il prezzo 47.0 EUR (originale: 66.0 EUR) 28.79 % sconto qui:
@@ -27,8 +28,8 @@ Puoi trovare [Nike Tanjun Mn  Scarpe Sportive Uomo  Grigio  Wolf Grey/White   43
 
 ℹ️:
 
-- Lintersuola e cosi resistente che assume la funzione della suola
 - La suola unitaria iniettata garantisce unammortizzazione ultraleggera
+- Lintersuola e cosi resistente che assume la funzione della suola
 - La tomaia in tessuto e flessibile e traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XWPUIL6/?tag=tolees00-21)

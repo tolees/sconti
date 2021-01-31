@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 18.87 % su Pentel LR7 ricarica per penna roller Ene  '
-date: 2021-01-28 20:27:07
+date: 2021-01-31 08:53:34
 image: 'https://m.media-amazon.com/images/I/41Fj3k2k-tL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 18.6 EUR
 prodname: 'Pentel LR7 ricarica per penna roller EnerGel 0 35 mm tratto  Ø 0 7 mm  12 pezzi nero'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Pentel'
 buyurl: 'https://www.amazon.it/dp/B002IYT1QK/?tag=tolees00-21'
 descuento: '18.87'
 average: '14.3058661417323'
@@ -27,10 +28,9 @@ average: '14.3058661417323'
 
 ℹ️:
 
-- Inchiostro a rapida asciugatura, adatto anche per i mancini
-- Non macchia il foglio
-- Scrittura ultrascorrevole e massima precisione nel tratto
-- Ricarica per roller Pentel Energel punta 0,7 mm
-- Adatto per tutti i modelli Pentel Energel ricaricabili
+- Smooth writing and long lasting
+- LR7 refills last three times longer than standard gel ink
+- Ideal for Energel sterling executive pens and Lancelot executive pen collection
+- 12 black liquid gel ink refills for Energel refillable pens
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002IYT1QK/?tag=tolees00-21)

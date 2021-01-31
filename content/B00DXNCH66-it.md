@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming A4626103 Taboo  Gioco in S al 37.73 % di sconto'
-date: 2021-01-28 20:26:58
+date: 2021-01-31 08:57:02
 image: 'https://m.media-amazon.com/images/I/41EDpGVL-AL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 27.99 EUR
 prodname: 'Hasbro Gaming A4626103 Taboo  Gioco in Scatola '
 country: 'it'
 flag: '🇮🇹'
+brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.it/dp/B00DXNCH66/?tag=tolees00-21'
 descuento: '37.73'
-average: '22.5717021276596'
+average: '22.4645833333334'
 ---
 
 Puoi trovare [Hasbro Gaming A4626103 Taboo  Gioco in Scatola ](https://www.amazon.it/dp/B00DXNCH66/?tag=tolees00-21) con il prezzo 17.43 EUR (originale: 27.99 EUR) 37.73 % sconto qui:
@@ -27,11 +28,6 @@ Puoi trovare [Hasbro Gaming A4626103 Taboo  Gioco in Scatola ](https://www.amazo
 
 ℹ️:
 
-- Fai in modo che i compagni di gioco pronuncino la parola misteriosa da indovinare senza nominare le parole proibite
-- Questo Gioco divertente e frenetico è per i Giocatori una corsa contro il tempo
-- Il dado del destino permette ai Giocatori di cambiare il gioco
-- Oops! Se nomini una delle parole proibite gli avversari schiacciano il pulsante
-- Versione Italiana
-- Comprende 260 carte; oltre 1000 parole misteriose da indovinare
+- with tabooo you have to guess your friends by suggesting some words, but not using vietatissime Taboo words, just ... you know what to suggest, but you just can not find the words ... to win serve creativity, skills and readiness, but the beautiful and that there are no answers sbagliate..eta recommended 13 years on up to 4 players.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DXNCH66/?tag=tolees00-21)

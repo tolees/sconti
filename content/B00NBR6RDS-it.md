@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110AP - Cuffie on-ear con mic al 20.05 % di sconto'
-date: 2021-01-25 19:08:37
+date: 2021-01-31 08:41:53
 image: 'https://m.media-amazon.com/images/I/41jAIHFqidL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Sony MDR-ZX110AP - Cuffie on-ear con microfono  Nero'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B00NBR6RDS/?tag=tolees00-21'
 descuento: '20.05'
 average: '15.99'
@@ -27,10 +28,10 @@ Puoi trovare [Sony MDR-ZX110AP - Cuffie on-ear con microfono  Nero](https://www.
 
 ℹ️:
 
-- Ampia gamma di frequenza, da 12 Hz a 22 kHz, per alti cristallini e bassi profondi
-- Telecomando con microfono integrato per chiamate a mani libere
-- Driver dinamici al neodimio a cupola da 30 mm per un audio bilanciato
-- Magneti al neodimio ad alta potenza audio
-- Padiglioni auricolari imbottiti per la comodità di ascolto durante gli spostamenti
+- Choice of colours to suit your style
+- 30 mm dome drivers for balanced sound
+- 12-22 kHz frequency range
+- High energy neodymium magnets deliver high sound
+- Padded ear cups for comfortable listening
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NBR6RDS/?tag=tolees00-21)
