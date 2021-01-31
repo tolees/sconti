@@ -29,9 +29,9 @@ Puoi trovare [Biorepair  Collutorio Denti Sensibili 3 in 1: Antibatterico  Antic
 ℹ️:
 
 - ANTIBATTERICO: MicroRepair e Zinco PCA prevengono placca e tartaro senza clorexidina
-- ANTICARIE: I microRepair proteggono lo smalto dalla carie
 - ANTISENSIBILITÀ: I microRepair riparano la dentina scoperta donando sollievo in 30 secondi
-- MICROREPAIR: Sono cristalli di Idrossiapatite, minerale che costituisce il 90% dello smalto dei denti. Grazie alla loro capacità biomimetica sinsinuano nelle micro scalfitture del dente e lo riparano
 - AVVERTENZE: Non ingerire, I bambini possono utilizzare il collutorio Biorepair da 6 anni in su una volta raggiunto il controllo della deglutizione
+- MICROREPAIR: Sono cristalli di Idrossiapatite, minerale che costituisce il 90% dello smalto dei denti. Grazie alla loro capacità biomimetica sinsinuano nelle micro scalfitture del dente e lo riparano
+- ANTICARIE: I microRepair proteggono lo smalto dalla carie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00T5PZ32Q/?tag=tolees00-21)
