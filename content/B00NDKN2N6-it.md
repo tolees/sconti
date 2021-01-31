@@ -30,7 +30,7 @@ Puoi trovare [Kenwood KAB956PL Accessorio Sorbettiera per Impastatrice Planetari
 
 - Materiale corpo: plastica
 - Capacità: 1 L
-- Presa per movimento planetario
 - Peso: 2 kg
+- Presa per movimento planetario
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NDKN2N6/?tag=tolees00-21)
