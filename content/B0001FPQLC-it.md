@@ -28,8 +28,8 @@ average: '40.94'
 
 ℹ️:
 
-- Dispositivo guida corda incluso
 - Potatura sicura senza scala fino allaltezza di 5.50 m
 - Angolo di lavoro regolabile di 180°
+- Dispositivo guida corda incluso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0001FPQLC/?tag=tolees00-21)

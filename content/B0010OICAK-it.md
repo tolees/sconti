@@ -28,8 +28,8 @@ Puoi trovare [Leica Geosystems Lino L2 AR757225](https://www.amazon.it/dp/B0010O
 
 ℹ️:
 
-- Funziona con 3 batterie AA (incluse)
 - Struttura robusta resistente a polvere e spruzzi dacqua, IP54
+- Funziona con 3 batterie AA (incluse)
 - Portata: fino a 15 metri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0010OICAK/?tag=tolees00-21)

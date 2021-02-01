@@ -29,7 +29,7 @@ average: '2.46'
 ℹ️:
 
 - Totale da 100 ml
-- Confezione da 20 fiale
 - Ogni fiale a 5 ml
+- Confezione da 20 fiale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008K15PHE/?tag=tolees00-21)

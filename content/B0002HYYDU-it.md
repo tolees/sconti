@@ -28,11 +28,11 @@ Puoi trovare [Crayola Pennarelli Lavabili  Punta Media  per Scuola e Tempo Liber
 
 ℹ️:
 
-- Doppio tratto di scrittura: sottile o spesso a seconda dellinclinazione
-- Ottimi per bambini e adulti, Ottimi da utilizzare sia a scuola che nel tempo libero
-- Inchiostri lavabili
-- Ottimi per colorare, disegnare e per realizzare lettering, calligrafia e scrittura a mano
-- Crayola Pennarelli con punta media in fibra
 - 12 colori assortiti brillanti e vivaci
+- Ottimi per bambini e adulti, Ottimi da utilizzare sia a scuola che nel tempo libero
+- Doppio tratto di scrittura: sottile o spesso a seconda dellinclinazione
+- Crayola Pennarelli con punta media in fibra
+- Ottimi per colorare, disegnare e per realizzare lettering, calligrafia e scrittura a mano
+- Inchiostri lavabili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0002HYYDU/?tag=tolees00-21)
