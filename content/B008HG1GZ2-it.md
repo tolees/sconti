@@ -28,9 +28,9 @@ Puoi trovare [Activision Blizzard - Skylanders Giants: Gill Grunt](https://www.a
 
 ℹ️:
 
-- Data di uscita: 2012 – 11 – 27
-- Editore: ACTIVISION
 - Piattaforma: tutte le piattaforme
 - Classificazione PEGI: Ages _ 7 _ and _ over
+- Editore: ACTIVISION
+- Data di uscita: 2012 – 11 – 27
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008HG1GZ2/?tag=tolees00-21)

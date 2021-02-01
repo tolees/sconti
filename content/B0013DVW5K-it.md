@@ -28,9 +28,9 @@ average: '80.0'
 
 ℹ️:
 
-- Item Package Width: 20.5 cm
-- Item Package Length: 15.0 cm
 - Item Package Height: 27.0 cm
 - Fiamma Aqua 8 6lt 12v
+- Item Package Width: 20.5 cm
+- Item Package Length: 15.0 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0013DVW5K/?tag=tolees00-21)

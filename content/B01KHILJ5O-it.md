@@ -28,12 +28,12 @@ average: '21.425'
 
 ℹ️:
 
-- Classe efficienza energetica: A+
-- Lampadine a durata di vita elevata: fino a 15 anni
-- Potenza 4.6 W equivalenti a 50 W
-- La confezione contiene 6 faretti LED con attacco GU10
 - Luce bianca calda naturale come le lampadine ad incandescenza, 2700 K
+- Lampadine a durata di vita elevata: fino a 15 anni
+- Classe efficienza energetica: A+
 - Senza emissione di raggi UV o infrarossi
+- La confezione contiene 6 faretti LED con attacco GU10
 - Perfetta per lilluminazione daccento grazie alla sua illuminazione moderna con unemissione luminosa familiare ad angolo largo di 36 gradi
+- Potenza 4.6 W equivalenti a 50 W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KHILJ5O/?tag=tolees00-21)
