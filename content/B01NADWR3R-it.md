@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'sconto del 38.48 % su Tommy Hilfiger TH CITY MINI REPORTER  Sa  '
-date: 2021-01-18 06:22:54
+date: 2021-02-01 10:21:49
 image: 'https://m.media-amazon.com/images/I/51sD+NQLFuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NADWR3R-it'
+slug: 'B01NADWR3R-it Tommy Hilfiger TH CITY MINI REPORTER Sacchetto Uomo Nero...'
+sku: 'B01NADWR3R-it'
+tags: [  ]
 actualPrice: 43.0 EUR
 currency: EUR
 price: 43.0
@@ -14,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger TH CITY MINI REPORTER  Sacchetto Uomo  Nero  Black   6x24x29 cm  b x h x t '
 country: 'it'
 flag: '🇮🇹'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.it/dp/B01NADWR3R/?tag=tolees00-21'
 descuento: '38.48'
 average: '43.0'
@@ -25,10 +28,10 @@ average: '43.0'
 
 ℹ️:
 
+- Capacità in L. ca.: 0-10
 - Serie: City
 - Tipo di chiusura: cerniera lampo
-- Misure esterne (L x L x A): 16.5cm x 7cm x 20cm
 - Equipaggiamento: tasca cellulare, tasca esterna, tasca interna
-- Capacità in L. ca.: 0-10
+- Misure esterne (L x L x A): 16.5cm x 7cm x 20cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NADWR3R/?tag=tolees00-21)

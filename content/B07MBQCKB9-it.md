@@ -29,9 +29,9 @@ average: '28.11'
 ℹ️:
 
 - Scopri tutte le altre statuine fortnite di funko e collezionale tutte!
-- Loot llama 10" e alto 25cm ed inserita allinterno di una scatola trasparente da collezione
 - Fortnite
-- Uniconica statuina funko pop! vinyl della serie fortnite
 - Loot llama 10"
+- Loot llama 10" e alto 25cm ed inserita allinterno di una scatola trasparente da collezione
+- Uniconica statuina funko pop! vinyl della serie fortnite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MBQCKB9/?tag=tolees00-21)

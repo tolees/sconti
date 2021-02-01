@@ -28,9 +28,9 @@ average: '20.86'
 
 ℹ️:
 
-- Max Mall Outfit
 - POP! Vinyl
-- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Television: Stranger Things
+- Max Mall Outfit
+- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N5WT5SY/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '59.3810937499999'
 
 ℹ️:
 
-- Opzioni di upgrade fino a 1tb
 - Prestazioni pcie nvme a una frazione del costo
+- Opzioni di upgrade fino a 1tb
 - Ideale per dispositivi ultrabook e per sistemi pc sff (small form factor)
 - Supporto completo per le suite di sicurezza (tcg opal, xts-aes 256-bit, edrive)
 

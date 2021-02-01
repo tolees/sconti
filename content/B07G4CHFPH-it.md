@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein J 4cm Ckj Belt Cintura  Nero  Black 001   9  Taglia P
 
 ℹ️:
 
-- Stile casual
 - Vestibilità leggera
+- Stile casual
 - Fibbia con logo inciso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G4CHFPH/?tag=tolees00-21)
