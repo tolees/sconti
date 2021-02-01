@@ -28,10 +28,10 @@ Puoi trovare [THUN ® - Bracciale Pop Farfalla](https://www.amazon.it/dp/B01EZ9W
 
 ℹ️:
 
-- MATERIALI - Ottone rodiato, cordino: pelle
 - CATEGORIA - Persona, Gioielli
-- DIMENSIONI - 19 + 4 cm
-- PRODOTTO - Bracciale Pop farfalla
 - CURA DEL PRODOTTO - Usa esclusivamente un panno morbido asciutto per la pulizia; evita che venga a contatto con liquidi o prodotti aggressivi (profumo, sapone, detergenti, lozioni corpo); dopo l’utilizzo riponi con cura il tuo bijou, possibilmente in un panno morbido
+- PRODOTTO - Bracciale Pop farfalla
+- DIMENSIONI - 19 + 4 cm
+- MATERIALI - Ottone rodiato, cordino: pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EZ9W0S6/?tag=tolees00-21)
