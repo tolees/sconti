@@ -28,7 +28,7 @@ average: '16.9'
 
 ℹ️:
 
-- Cotton blend
 - Plain jeans with straighht leg
+- Cotton blend
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RNR73ZT/?tag=tolees00-21)

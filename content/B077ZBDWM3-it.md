@@ -28,10 +28,10 @@ average: '5.79'
 
 ℹ️:
 
+- 100% poliestere
 - Classico costume Bermuda con tasche laterali
 - Per tempo libero galleggiante
-- Grip esterno elastico coulisse, lunghezza lato: 41, 5 cm
-- 100% poliestere
 - Ad asciugatura rapida, materiale morbido
+- Grip esterno elastico coulisse, lunghezza lato: 41, 5 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077ZBDWM3/?tag=tolees00-21)
