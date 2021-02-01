@@ -29,9 +29,9 @@ average: '594.5'
 ℹ️:
 
 - Batteria da 4780 mAh
-- Operating system: android
 - Frequenza fino a 2.84 ghz
-- Sistema operativo miui 11
 - Processore octa-core qualcom snapdragon 865; connettività e prestazioni 5g
+- Operating system: android
+- Sistema operativo miui 11
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086B1KBVG/?tag=tolees00-21)

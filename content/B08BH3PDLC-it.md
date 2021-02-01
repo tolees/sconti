@@ -28,11 +28,11 @@ average: '89.99'
 
 ℹ️:
 
-- Uses instax mini film, print size: 54 (W) x 86 (H), image size: 46 (W) x 62 (H) mm
-- Built-in selfie lens and selfie mirror
-- Built-in Automatic exposure, for ideal pictures every time
-- Produce instant credit card size photos
-- Bundle pack containing; Camera, Camera case, 10 shot mini film, Photo Album, Display stickers, Batteries, user manual
 - This is a bundle exclusively available to Amazon
+- Bundle pack containing; Camera, Camera case, 10 shot mini film, Photo Album, Display stickers, Batteries, user manual
+- Produce instant credit card size photos
+- Built-in Automatic exposure, for ideal pictures every time
+- Built-in selfie lens and selfie mirror
+- Uses instax mini film, print size: 54 (W) x 86 (H), image size: 46 (W) x 62 (H) mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BH3PDLC/?tag=tolees00-21)
