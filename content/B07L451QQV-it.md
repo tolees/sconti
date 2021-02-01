@@ -28,8 +28,8 @@ average: '24.49'
 
 ℹ️:
 
+- Fibbia con logo inciso
 - Vestibilità leggera
 - Stile casual
-- Fibbia con logo inciso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L451QQV/?tag=tolees00-21)

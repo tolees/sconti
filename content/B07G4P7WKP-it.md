@@ -28,10 +28,10 @@ average: '114.53'
 
 ℹ️:
 
+- Larghezza del cinturino: 26 mm; Circonferenza del cinturino: 200 +/-5 mm
+- Spessore della cassa: 13 mm; Dimensioni della cassa: 51mm x 59 mm
 - Resistente AllAcqua: 5 ATM
 - Materiale del cinturino: Poliuretano
 - Confezionato nella gift box Diesel
-- Spessore della cassa: 13 mm; Dimensioni della cassa: 51mm x 59 mm
-- Larghezza del cinturino: 26 mm; Circonferenza del cinturino: 200 +/-5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G4P7WKP/?tag=tolees00-21)
