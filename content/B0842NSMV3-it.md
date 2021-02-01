@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 21.08 % su Brooks Ghost 13  Scarpe da Corsa Uomo  B  '
-date: 2021-01-31 08:34:17
+date: 2021-02-01 08:47:11
 image: 'https://m.media-amazon.com/images/I/4110G5SCp3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,16 +28,8 @@ average: '110.49'
 
 ℹ️:
 
-- smooth, stable ride: no matter how your foot lands, our segmented crash pad - an integrated system of shock absorbers - will cushion every step and stride for smooth heel-to-toe transitions.; Target gender: male
-- outer material: synthetic
-- sole material: rubber
-- this shoe is for: the ghost 13 is for runners looking for a reliable shoe thats soft and smooth. the ghost 13 offers improved transitions for zero distractions so you can focus more on what matters most: your run.
-- smooth, stable ride: no matter how your foot lands, our segmented crash pad - an integrated system of shock absorbers - will cushion every step and stride for smooth heel-to-toe transitions.Target gender: male
-- lining: manmade
-- balanced, soft cushioning: biomogo dna and dna loft cushioning work together to provide a just-right softness underfoot without losing responsiveness and durability - yet it feels lighter than ever.
-- support and cushion: the neutral support type provideds high energizing cushioning. ideal for road running, cross training, the gym or wherever you might want to take them! predecessor: ghost 12
-- closure: snare
-- heel type: low-heel
-- shoe width: medium
+- Scarpe da running
+- Ammortizzazione morbida ed equilibrata
+- Tomaia in rete
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0842NSMV3/?tag=tolees00-21)

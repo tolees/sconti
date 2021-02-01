@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 7 III | Fotocamera Mirrorless al 20.70 % di sconto'
-date: 2021-01-31 08:47:09
+date: 2021-02-01 09:13:40
 image: 'https://m.media-amazon.com/images/I/41Q3WqkjLiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21'
 descuento: '20.70'
-average: '1899.68625'
+average: '1898.13734693878'
 ---
 
 Puoi trovare [Sony Alpha 7 III | Fotocamera Mirrorless Full-Frame  AF Rapido in 0.02s  Stabilizzazione Integrata a 5 assi  4K HLG  Batteria ad alta capacità   Corpo](https://www.amazon.it/dp/B07B4L1PQ8/?tag=tolees00-21) con il prezzo 1823.79 EUR (originale: 2300.0 EUR) 20.70 % sconto qui:

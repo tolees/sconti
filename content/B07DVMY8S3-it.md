@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 27.06 % su Salewa WS Wildfire Gore-TEX  Scarpe da t  '
-date: 2021-01-31 08:39:14
+date: 2021-02-01 08:58:59
 image: 'https://m.media-amazon.com/images/I/41qMGX936FL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SALEWA'
 buyurl: 'https://www.amazon.it/dp/B07DVMY8S3/?tag=tolees00-21'
 descuento: '27.06'
-average: '129.701754385965'
+average: '129.50813559322'
 ---
 
 [Salewa WS Wildfire Gore-TEX  Scarpe da trekking e da escursionismo Donna  Nero  Black/White   39 EU](https://www.amazon.it/dp/B07DVMY8S3/?tag=tolees00-21) ha un prezzo di 123.99 EUR (originale: 170.0 EUR) con uno sconto del 27.06 % sconto qui:
@@ -28,9 +28,9 @@ average: '129.701754385965'
 
 ℹ️:
 
-- Hiking shoe category: A approach/approach
-- Attention size selection: please pay attention to our size chart and instructions to choose the right shoe size
-- Recommended use: good and less good paths, cottage paths
-- Suitable for: climbing and mountain hiking
+- Realizzate in materiali di alta qualità molto resistenti che forniscono un confort aumentato
+- Suola morbida e resistente che offre unelevata aderenza
+- Design robusto e sportivo
+- Chiusura rapida e facile con lacci rotondi molto resistenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DVMY8S3/?tag=tolees00-21)
