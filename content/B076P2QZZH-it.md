@@ -28,8 +28,8 @@ Puoi trovare [Salewa MS Crow Gore-TEX  Scarponi da trekking e da escursionismo U
 
 ℹ️:
 
+- Categoria: C Mountaineering
 - Uso consigliato: anche su sentieri e sentieri cattivi o anche fuori strada, deterioramento, arrampicata, ghiaccioli, terreni alpinici misti, fango/erba, percorsi rossi/tecnici, ramponi compatibili con ramponi.
 - Attenzione: si prega di prestare attenzione alla tabella delle taglie e alle indicazioni per scegliere la taglia adatta della scarpa.
-- Categoria: C Mountaineering
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076P2QZZH/?tag=tolees00-21)

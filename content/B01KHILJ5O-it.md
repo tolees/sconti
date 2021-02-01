@@ -28,12 +28,12 @@ average: '21.425'
 
 ℹ️:
 
-- Senza emissione di raggi UV o infrarossi
 - Classe efficienza energetica: A+
 - Lampadine a durata di vita elevata: fino a 15 anni
-- La confezione contiene 6 faretti LED con attacco GU10
 - Potenza 4.6 W equivalenti a 50 W
-- Perfetta per lilluminazione daccento grazie alla sua illuminazione moderna con unemissione luminosa familiare ad angolo largo di 36 gradi
+- La confezione contiene 6 faretti LED con attacco GU10
 - Luce bianca calda naturale come le lampadine ad incandescenza, 2700 K
+- Senza emissione di raggi UV o infrarossi
+- Perfetta per lilluminazione daccento grazie alla sua illuminazione moderna con unemissione luminosa familiare ad angolo largo di 36 gradi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KHILJ5O/?tag=tolees00-21)
