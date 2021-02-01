@@ -28,8 +28,8 @@ Puoi trovare [Superga 2790 Acotw Linea Up and Down  Sneaker Donna  Nero  996   3
 
 ℹ️:
 
-- Materiale esterno: Tela
 - Fodera: Tessuto
+- Materiale esterno: Tela
 - Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BYZFWWQ/?tag=tolees00-21)

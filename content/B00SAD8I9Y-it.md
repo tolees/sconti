@@ -28,12 +28,12 @@ average: '47.7'
 
 ℹ️:
 
+- Nome dipartimento: Unisex adulto
+- Tipo di tessuto: banda elastica
+- Battery case size: 88.8 mmx73.7 mmx26.2 mm (3.5x2.9x1)
+- Light size: 67.4 mmx55.9 mmx34.7 mm (2.7x2.2x1.4)
 - Utilizes cree xm-l2 (u2) led with a lifespan of 50.000 hours
 - 154.2 g (5.4 oz) excluding batteries
-- Tipo di tessuto: banda elastica
-- Light size: 67.4 mmx55.9 mmx34.7 mm (2.7x2.2x1.4)
-- Battery case size: 88.8 mmx73.7 mmx26.2 mm (3.5x2.9x1)
-- Nome dipartimento: Unisex adulto
 - Uses four aa batteries, either ni-mh or alkaline
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00SAD8I9Y/?tag=tolees00-21)

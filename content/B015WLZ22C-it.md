@@ -28,7 +28,7 @@ Puoi trovare [POMPEA Costa Slip  Blu  New Navy 0649   Large  Taglia Produttore:L
 
 ℹ️:
 
-- Tecnologia microfibra
 - Ultra comfort senza cuciture
+- Tecnologia microfibra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015WLZ22C/?tag=tolees00-21)

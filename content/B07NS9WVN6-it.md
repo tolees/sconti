@@ -30,8 +30,8 @@ Puoi trovare [NATURALsprint - CURCUMA e PIPERINA PLUS | ALTO DOSAGGIO | VEGAN 24
 
 - ❤ FORMULA POTENZIATA: Nuova formula potenziata con estratto di curcumina Titolato al 95% ed estratto di Piperina Titolato al 95%.
 - ❤ CURCUMA PIPERINA PLUS :240 compresse per un trattamento completo a base di curcuma, in una confezione pratica, sicura ed elegante. Questa sola confezione è sufficiente per un trattamento di 6/12 mesi!
-- ❤ CURCUMINA: è uno dei composti più potenti e bioattivi della Curcuma, aiuta a mantenere la salute di ossa ed articolazioni, supportando il funzionamento del sistema nervoso e immunitario, sostenendo al contempo le funzioni cardiache e vascolari.
-- ❤ MADE IN ITALY: Platinum Plus viene formulato e confezionato in Italia, secondo i più rigorosi disciplinari della comunità europea, per garantirti un prodotto di grande sicurezza ed efficacia.
 - ❤ PIPERINA: è dotata di proprietà fitoterapiche, la capacità di incrementare la secrezione salivare e gastrica, stimolando la digestione e migliorando lassorbimento intestinale di molti nutrienti come il coenzima Q10 ed il betacarotene. Inoltre accelera i tempi di transito intestinale e vanta proprietà antiossidanti.termogenico,brucia grassi
+- ❤ MADE IN ITALY: Platinum Plus viene formulato e confezionato in Italia, secondo i più rigorosi disciplinari della comunità europea, per garantirti un prodotto di grande sicurezza ed efficacia.
+- ❤ CURCUMINA: è uno dei composti più potenti e bioattivi della Curcuma, aiuta a mantenere la salute di ossa ed articolazioni, supportando il funzionamento del sistema nervoso e immunitario, sostenendo al contempo le funzioni cardiache e vascolari.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NS9WVN6/?tag=tolees00-21)

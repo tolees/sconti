@@ -29,8 +29,8 @@ Puoi trovare [THUN-Set 2 tazzine caffè e zuccheriera Sweetcake](https://www.ama
 ℹ️:
 
 - porcellana
-- 100 ml; Ø 6 cm; h 5 cm, piattino Ø 11,5 cm; zuccheriera ø 9,5 cm; 7 cm h + h coperchio 14 cm
 - idoneo allutilizzo in microonde e lavastoviglie; non utilizzare spugne abrasive
 - Un set ideale per assaporare il gusto di un buon caffé e condividere una pausa in compagnia con le due tazzine abbinate alla zuccheriera. Una preziosa idea regalo in porcellana sotto smalto per garantire il massimo della sicurezza e resistenza dei decori.
+- 100 ml; Ø 6 cm; h 5 cm, piattino Ø 11,5 cm; zuccheriera ø 9,5 cm; 7 cm h + h coperchio 14 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PKR2SZW/?tag=tolees00-21)

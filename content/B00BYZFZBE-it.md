@@ -28,8 +28,8 @@ Puoi trovare [Superga 2790acotw Linea Up And Down  Scarpe da Ginnastica Donna  N
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Materiale esterno: Tela
 - Fodera: Tessuto
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BYZFZBE/?tag=tolees00-21)

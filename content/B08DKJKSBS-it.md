@@ -28,10 +28,10 @@ Puoi trovare [Baci Perugina Gold Caramel Pralina di Cioccolato Bianco  150g](htt
 
 ℹ️:
 
-- Ricetta semplice e con materie prime selezionate
-- Gli iconici cioccolatini dallincarto stellato che custodiscono un messaggio damore e daffetto
-- Cioccolatini ripieni al gianduia e nocciola con una doppia copertura al cioccolato bianco al caramello
 - Scatola da 200g con 12 cioccolatini
+- Ricetta semplice e con materie prime selezionate
+- Cioccolatini ripieni al gianduia e nocciola con una doppia copertura al cioccolato bianco al caramello
+- Gli iconici cioccolatini dallincarto stellato che custodiscono un messaggio damore e daffetto
 - Senza glutine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DKJKSBS/?tag=tolees00-21)
