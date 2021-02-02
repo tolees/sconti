@@ -28,10 +28,10 @@ average: '19.52'
 
 ℹ️:
 
-- Ricaricabile con refill lr7
-- Meccanismo di fuoriuscita della punta a rotazione
-- Fusto in metallo
 - Fornita in elegante astuccio
+- Ricaricabile con refill lr7
 - Inchiostro energel, asciuga subito e non macchia
+- Fusto in metallo
+- Meccanismo di fuoriuscita della punta a rotazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DR1F31H/?tag=tolees00-21)

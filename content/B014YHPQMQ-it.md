@@ -30,8 +30,8 @@ Puoi trovare [Timberland Bradstreet Chukka Leather  Stivali Uomo  Pelle  Materia
 
 - Tipo di tacco: Senza tacco
 - Chiusura: stringata
-- Materiale suola: gomma
 - Fodera: tessuto
+- Materiale suola: gomma
 - Materiale esterno: Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014YHPQMQ/?tag=tolees00-21)
