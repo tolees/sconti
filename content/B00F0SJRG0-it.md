@@ -28,11 +28,11 @@ Puoi trovare [Baileys Chocolat Luxe  500ml](https://www.amazon.it/dp/B00F0SJRG0/
 
 ℹ️:
 
-- Baileys chocolat luxe è cioccolato nel bicchiere
 - Come servire: Liscio freddo o con Panna
-- Frutto di tre anni di lavorazione, contiene 30 g di autentico cioccolato belga per bottiglia
-- Il piacere divino del cacao amaro, con i toni intensi di caramello del Baileys originale
 - Contenuto alcolico (alc/vol): 15.7 percent_by_volume
+- Il piacere divino del cacao amaro, con i toni intensi di caramello del Baileys originale
+- Baileys chocolat luxe è cioccolato nel bicchiere
 - Servilo in stile Rococò con ghiaccio e un lampone fresco
+- Frutto di tre anni di lavorazione, contiene 30 g di autentico cioccolato belga per bottiglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00F0SJRG0/?tag=tolees00-21)

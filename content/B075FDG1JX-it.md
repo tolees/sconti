@@ -28,10 +28,10 @@ average: '33.99'
 
 ℹ️:
 
-- Dotato di protezione anti surriscaldamento e di una comoda maniglia di trasporto
 - Elegante calorifero elettrico a olio efficiente e silenzioso, che garantisce un riscaldamento rapido dellambiente
-- Provvisto di spia di funzionamento e termostato per l regolazione della temperatura tramite manopola
-- Dimensioni: larghezza 30, 5 centimetri, profondità 17 centimetri, altezza 35, 1 centimetri
 - Specifiche: potenza massima 600 watt, volume riscaldabile (indicativo) di 20 metri cubi
+- Dimensioni: larghezza 30, 5 centimetri, profondità 17 centimetri, altezza 35, 1 centimetri
+- Dotato di protezione anti surriscaldamento e di una comoda maniglia di trasporto
+- Provvisto di spia di funzionamento e termostato per l regolazione della temperatura tramite manopola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075FDG1JX/?tag=tolees00-21)

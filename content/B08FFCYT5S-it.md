@@ -30,8 +30,8 @@ average: '7.408'
 
 - Lascia il tuo sorriso pulito e fresco
 - Dentifricio sicuro sullo smalto
-- Lazione sbiancante di AZ
 - Protegge contro la formazione di macchie
 - Rimuove fino al 100 % delle macchie superficiali in 3 giorni
+- Lazione sbiancante di AZ
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FFCYT5S/?tag=tolees00-21)
