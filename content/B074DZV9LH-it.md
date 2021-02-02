@@ -28,9 +28,9 @@ average: '7.44380952380952'
 
 ℹ️:
 
-- INGREDIENTI - farina di frumento, cacao magro, latte e zucchero; senza olio di palma; sei Ringo sono pari al 14% del fabbisogno giornaliero
-- IL BISCOTTO DEI CAMPIONI - Ringo è la merenda che ti aiuta a dare il meglio, in campo e nella vita; diventa il migliore in campo e dimostra di essere un vero campione
 - PAVESI - i nostri prodotti contengono solo ingredienti di qualità; ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- IL BISCOTTO DEI CAMPIONI - Ringo è la merenda che ti aiuta a dare il meglio, in campo e nella vita; diventa il migliore in campo e dimostra di essere un vero campione
+- INGREDIENTI - farina di frumento, cacao magro, latte e zucchero; senza olio di palma; sei Ringo sono pari al 14% del fabbisogno giornaliero
 - RINGO CIOCCOLATO - gusto ed energia in ogni singolo biscotto; il biscotto Ringo al cacao è goloso e divertente da mangiare: apri le cialde, assaggia la crema e gusta il biscotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074DZV9LH/?tag=tolees00-21)
