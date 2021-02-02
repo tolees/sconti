@@ -28,8 +28,8 @@ average: '49.99'
 
 ℹ️:
 
-- Classica camicia a maniche lunghe in denim
-- Con orlo curvo
 - Tasche sul petto con due bottoni sul petto
+- Con orlo curvo
+- Classica camicia a maniche lunghe in denim
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TLFLXSB/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Vans Ward Suede/Canvas  Sneaker Uomo  Black White Car C4R  41 EU](
 
 ℹ️:
 
+- Fodera: tessuto
 - Materiale esterno: pelle
 - Chiusura: stringata
-- Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XHB7BL2/?tag=tolees00-21)

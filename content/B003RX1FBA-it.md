@@ -28,10 +28,10 @@ average: '34.0'
 
 ℹ️:
 
-- Materiale esterno: Sintetico
-- Tipo di tacco: Senza tacco
 - Fodera: Tessuto
+- Materiale esterno: Sintetico
 - Chiusura: Stringata
 - Materiale suola: Gomma
+- Tipo di tacco: Senza tacco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003RX1FBA/?tag=tolees00-21)

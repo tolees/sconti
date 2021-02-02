@@ -28,9 +28,9 @@ average: '41.6233333333333'
 
 ℹ️:
 
-- Lo zaino è progettato con cura prestando particolare attenzione agli ultimi modelli di quadricottero
-- Zaino molto spazioso, si adatta perfettamente alla serie DJI Phantom, compreso DJI Phantom 3 & 4
 - Compatibilità universale, è molto sicuro, grazie soprattutto allapertura posizionata sul retro
+- Zaino molto spazioso, si adatta perfettamente alla serie DJI Phantom, compreso DJI Phantom 3 & 4
+- Lo zaino è progettato con cura prestando particolare attenzione agli ultimi modelli di quadricottero
 - Lo zaino per droni è un prodotto innovativo, ideato per trasportare e proteggere un drone e accessori
 - Zaino ultra leggero con scomparti indipendenti consentono di organizzare facilmente lattrezzatura
 

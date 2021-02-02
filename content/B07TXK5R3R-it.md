@@ -28,10 +28,10 @@ average: '17.2953225806452'
 
 ℹ️:
 
-- Contenuto: 72 letterine; 3 casette componi-parole; 18 puzzle; 3 lavagnette scrivi e cancella; 1 pennarello segna e cancella; regolamento
+- Competenze sviluppate: prima lettura e prima scrittura; manualità fine; conoscenza degli animali
+- Origine: made in Italy
 - Leggo e scrivo con tre metodi divertenti
 - Altri plus: metodo montessori dei tre tempi; per imparare a scrivere a 3 anni
-- Origine: made in Italy
-- Competenze sviluppate: prima lettura e prima scrittura; manualità fine; conoscenza degli animali
+- Contenuto: 72 letterine; 3 casette componi-parole; 18 puzzle; 3 lavagnette scrivi e cancella; 1 pennarello segna e cancella; regolamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TXK5R3R/?tag=tolees00-21)
