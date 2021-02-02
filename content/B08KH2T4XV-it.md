@@ -28,10 +28,10 @@ Puoi trovare [CRAZYCHIC - Mascherine FFP2 Certificata CE EN149 - Maschera di Pro
 
 ℹ️:
 
+- CERTIFICATA CE: Testato, in conformità alla norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascherina monouso non riutilizzabile. Alta filtrazione.
+- IMBALLO: 1 scatola da 10 pezzi confezionati singolarmente. Confezione e istruzioni in francese.
 - DESIGN: Maschera di protezione respiratoria FFP2. Semimaschera filtrazione contro le particelle.
 - CONSEGNA VELOCE: Stock disponibile in Italia.
 - MATERIALE: 5 strati filtranti. Clip da naso in metallo. Fissaggio atriale elastica.
-- IMBALLO: 1 scatola da 10 pezzi confezionati singolarmente. Confezione e istruzioni in francese.
-- CERTIFICATA CE: Testato, in conformità alla norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascherina monouso non riutilizzabile. Alta filtrazione.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KH2T4XV/?tag=tolees00-21)
