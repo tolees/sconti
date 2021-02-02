@@ -28,9 +28,9 @@ Puoi trovare [Xiaomi Redmi Note 9 PRO -Smartphone 6.67" FHD+ DotDisplay  6GB RAM
 
 ℹ️:
 
-- Frequenza fino a 2.3 ghz
-- Sistema operativo miui 11
 - Processore octa-core qualcom snapdragon 720g; 6.67 fhd+ dotdisplay
 - Batteria da 5020 mAh; 30w fast charging
+- Frequenza fino a 2.3 ghz
+- Sistema operativo miui 11
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088CD6PSS/?tag=tolees00-21)

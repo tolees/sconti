@@ -29,11 +29,11 @@ average: '99.99'
 ℹ️:
 
 - Timer: segnala 2 minuti di spazzolamento, come raccomandato dal tuo dentista
-- Custodia da viaggio con doppio caricatore per ricaricare spazzolino e telefono con 1 sola spina
 - Testina rotonda: circonda e avvolge ogni dente per una pulizia ottima
 - Tecnologia Gum Guard: protezione gengive avverte se si sta spazzolando troppo forte
-- Durata della batteria: più di 2 settimane con 1 ricarica completa
 - Anello esterno delle setole con estremità sottili che aiutano a spazzolare delicatamente senza irritazioni
+- Durata della batteria: più di 2 settimane con 1 ricarica completa
+- Custodia da viaggio con doppio caricatore per ricaricare spazzolino e telefono con 1 sola spina
 - Rimuove fino al 100% in più di placca per gengive più sane rispetto ad uno spazzolino manuale
 - Contenuto: 1 manico bianco, 2 testine di ricambio, base di ricarica, batteria al litio, 1 custodia da viaggio Smart con caricatore USB, supporto per Smartphone, supporto Premium per testine
 
