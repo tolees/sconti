@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.50 % su SNAPTAIN SP500 1080P Drone con GPS Telec  '
-date: 2021-02-01 09:04:05
+date: 2021-02-02 09:47:14
 image: 'https://m.media-amazon.com/images/I/41ISO7gm1qL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SNAPTAIN'
 buyurl: 'https://www.amazon.it/dp/B081TVL9DR/?tag=tolees00-21'
 descuento: '20.50'
-average: '159.058411214953'
+average: '158.619724770642'
 ---
 
 [SNAPTAIN SP500 1080P Drone con GPS Telecamera FHD  Trasmissione WiFi 5G  modalità Ritorno Home  modalità Seguimi  Controllo dei Gesti  Volo Circolare  modalità Hover per i Principianti](https://www.amazon.it/dp/B081TVL9DR/?tag=tolees00-21) ha un prezzo di 135.15 EUR (originale: 169.99 EUR) con uno sconto del 20.50 % sconto qui:
@@ -29,9 +29,9 @@ average: '159.058411214953'
 ℹ️:
 
 - Ritorno automatico con GPS e volo più sicuro: il posizionamento GPS aiuta il drone SP500 a mantenere una altezza certa per catturare immagini più chiare e tornare a casa esatamente quando la batteria è scarica, il segnale viene perso o vuoi recuperarlo. Non perdere mai il tuo drone.
-- Immagini e video FHD e trasmissione 5G WiFi: telecamera 1080P FHD obiettivo grandangolare a 110 ° con angolo regolabile, che cattura video e chiare foto aeree di alta qualità. La trasmissione 5G wifi 800ft garantisce limmagine in tempo reale ad alta velocità.
 - Controllo dei gesti: il controllo gesti ti consente di posare davanti alla telecamera per attivare la presa di scattare foto e iniziare la registrazione video. Ora puoi liberare le mani e posare il tuo gesto più affascinante o ballare con la persona amata.
-- Facile da usare e doppia autonomia di volo: è più facile per i principianti, dotato di funzioni come il posizionamento del navigatore satellitare GPS, mantenimento dellaltitudine, modalità senza testa, decollo / atterraggio a un pulsante, arresto di emergenza, 2 batterie forniscono una autonomia di 30 minuti, rende il tuo volo più eccitante e interessante.
 - Goditi il tuo volo: può volare a tuo piacimento utilizzando la modalità "Seguimi" o "Traccia un percorso" nello schermo di controllo dellapp SNAPTAIN Nova. Puoi persino utilizzare lapp per impostare un cerchio attorno a un oggetto e pianificare un percorso desiderato per concentrarti sulla cattura di foto e video e divertirti allaperto.
+- Facile da usare e doppia autonomia di volo: è più facile per i principianti, dotato di funzioni come il posizionamento del navigatore satellitare GPS, mantenimento dellaltitudine, modalità senza testa, decollo / atterraggio a un pulsante, arresto di emergenza, 2 batterie forniscono una autonomia di 30 minuti, rende il tuo volo più eccitante e interessante.
+- Immagini e video FHD e trasmissione 5G WiFi: telecamera 1080P FHD obiettivo grandangolare a 110 ° con angolo regolabile, che cattura video e chiare foto aeree di alta qualità. La trasmissione 5G wifi 800ft garantisce limmagine in tempo reale ad alta velocità.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081TVL9DR/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 24.84 % su Fun Play - Playfun  Macchina delle Bugie  '
-date: 2021-01-31 14:30:49
+date: 2021-02-02 09:23:00
 image: 'https://m.media-amazon.com/images/I/51XYVlCtfhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Fun Play'
 buyurl: 'https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21'
 descuento: '24.84'
-average: '32.8451764705883'
+average: '32.7795402298851'
 ---
 
 [Fun Play - Playfun  Macchina delle Bugie  96967](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 39.9 EUR) con uno sconto del 24.84 % sconto qui:
@@ -30,9 +30,9 @@ average: '32.8451764705883'
 
 - Se dici una bugia perdi immediatamente un punto
 - Versione in italiano
-- Scegli una domanda dalle carte o inventane una al momento
 - La confezione comprende: giocattolo
-- Da 8 anni
 - IMC Toys
+- Scegli una domanda dalle carte o inventane una al momento
+- Da 8 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CTWQ7NC/?tag=tolees00-21)
