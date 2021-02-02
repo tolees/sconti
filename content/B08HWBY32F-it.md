@@ -28,8 +28,8 @@ Puoi trovare [Revlon Wonder Woman 1984 Kit Make-up Occhi e Labbra  Eyeliner Nero
 
 ℹ️:
 
-- Esprimi la tua forza col make-up Revlon ispirato al film Wonder Woman 1984 con protagonista Gal Gadot: eyeliner e rossetto Revlon a lunga durata
 - Eyeliner occhi nero, a lunga durata fino a 16 ore, formula waterproof
+- Esprimi la tua forza col make-up Revlon ispirato al film Wonder Woman 1984 con protagonista Gal Gadot: eyeliner e rossetto Revlon a lunga durata
 - Rossetto rosso Ultra HD Vinyl Lip Polish, colore intenso e luminoso, formula confortevole sulle labbra
 - Scopri la Limited Edition Revlon x Wonder Woman 1984 con il kit decorato con logo Wonder Woman
 
