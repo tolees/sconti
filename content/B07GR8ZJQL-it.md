@@ -28,10 +28,10 @@ Puoi trovare [Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero 
 
 ℹ️:
 
-- Lavaggio: lavabile in lavatrice a freddo (massimo 30°)
-- Slim Fit
-- 100% cotone
-- Colletto: girocollo
 - Logo stampato sul davanti
+- Lavaggio: lavabile in lavatrice a freddo (massimo 30°)
+- 100% cotone
+- Slim Fit
+- Colletto: girocollo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GR8ZJQL/?tag=tolees00-21)

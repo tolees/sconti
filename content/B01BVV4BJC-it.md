@@ -28,8 +28,8 @@ Puoi trovare [Salvatore Ferragamo Signorina Misteriosa Profumo - 50 ml](https://
 
 ℹ️:
 
-- Marca - Salvatore Ferragamo
 - Contenuto - 50 ml
+- Marca - Salvatore Ferragamo
 - Prodotti di salute e cura personale originali ed esclusivi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BVV4BJC/?tag=tolees00-21)

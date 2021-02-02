@@ -28,10 +28,10 @@ Puoi trovare [Sony SEL-35F18F Obiettivo a Focale Fissa 35 mm F1.8  Mirrorless Fu
 
 ℹ️:
 
-- Per fotocamere con montaggio E-Mount Full formato, compatto, leggero e maneggevole
-- Lunghezza focale: 35 mm (equivalente a APS-C: 52,5 mm), diaframma: F1.8 (apertura minima: F22)
 - Indicare il modello per assicurarsi che questo articolo sia adatto.
-- Contenuto della confezione: obiettivo Sony SEL-35F18F E-Mount Full formato, paraluce (modello): ALC-SH159, copriobiettivo anteriore: ALC-F55S, copriobiettivo posteriore: ALC-R1EM
+- Lunghezza focale: 35 mm (equivalente a APS-C: 52,5 mm), diaframma: F1.8 (apertura minima: F22)
 - Bellissimi effetti Bokeh con massima intensità luminosa di F1.8 e maggiore durata grazie alla robusta struttura in metallo
+- Contenuto della confezione: obiettivo Sony SEL-35F18F E-Mount Full formato, paraluce (modello): ALC-SH159, copriobiettivo anteriore: ALC-F55S, copriobiettivo posteriore: ALC-R1EM
+- Per fotocamere con montaggio E-Mount Full formato, compatto, leggero e maneggevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V8X4KGG/?tag=tolees00-21)

@@ -30,8 +30,8 @@ average: '16.497476635514'
 
 - Doppio Link: è possibile collegare due dispositivi contemporaneamente, si può controllare liberamente da due dispositivi per commutare la musica o rispostare le chiamate
 - Contenuto della confezione: AUKEY BR-C1 Ricevitore Bluetooth, Cavo Micro-USB, Cavo d’Audio di 3,5mm, 3,5mm a 2RCA Cavo d’Audio, Manuale dUso, Garanzia di 24 mesi per sostituzine del prodotto e servizio clienti
-- Funzione di ri-connessione automatica: dopo il recevitore e il Suo dispositivo accesi, può essere accoppiati automaticamente
 - 3,5 mm jack audio: compatibile con qualsiasi dispositivo stereo dotato di porta di ingresso da 3,5mm per trasmettere facilmente la musica in modalità wireless dal lettore (smartphone, laptop, e il sistema audio stereo per auto)
+- Funzione di ri-connessione automatica: dopo il recevitore e il Suo dispositivo accesi, può essere accoppiati automaticamente
 - Ultra lunga durata: grazia alla batteria incorporata ricaricabile, è possibile utilizzarla per riproduzione da 13 ore e fornisce il tempo di standby di 720 ore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00QQ7IVQG/?tag=tolees00-21)

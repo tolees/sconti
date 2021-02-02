@@ -30,8 +30,8 @@ Puoi trovare [Fila Disruptor Low Wmn  Scarpe da Ginnastica Basse Donna  Bianco  
 
 - Designer: FILA
 - Materiale: 100% Pelle
-- Colore: BIANCO
 - Stagione: Autunno/Inverno
 - Articolo: 1010302
+- Colore: BIANCO
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078WQF58M/?tag=tolees00-21)
