@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony HT-G700 - Soundbar TV Bluetooth a 3 al 22.44 % di sconto'
-date: 2021-01-31 14:18:35
+title: 'Sony HT-G700 - Soundbar TV Bluetooth a 3 al 23.78 % di sconto'
+date: 2021-02-02 21:30:43
 image: 'https://m.media-amazon.com/images/I/21QGALC3VmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B0886PNNMR-it Sony HT-G700 - Soundbar TV Bluetooth a 3.1 canali Dolby...'
 sku: 'B0886PNNMR-it'
 tags: [  ]
-actualPrice: 349.0 EUR
+actualPrice: 343.0 EUR
 currency: EUR
-price: 349.0
+price: 343.0
 comparePrice: 450.0 EUR
 prodname: 'Sony HT-G700 - Soundbar TV Bluetooth a 3.1 canali  Dolby Atmos  DTS:X  con Subwoofer wireless  Nero '
 country: 'it'
 flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B0886PNNMR/?tag=tolees00-21'
-descuento: '22.44'
-average: '332.769230769231'
+descuento: '23.78'
+average: '333.268292682927'
 ---
 
-Puoi trovare [Sony HT-G700 - Soundbar TV Bluetooth a 3.1 canali  Dolby Atmos  DTS:X  con Subwoofer wireless  Nero ](https://www.amazon.it/dp/B0886PNNMR/?tag=tolees00-21) con il prezzo 349.0 EUR (originale: 450.0 EUR) 22.44 % sconto qui:
+Puoi trovare [Sony HT-G700 - Soundbar TV Bluetooth a 3.1 canali  Dolby Atmos  DTS:X  con Subwoofer wireless  Nero ](https://www.amazon.it/dp/B0886PNNMR/?tag=tolees00-21) con il prezzo 343.0 EUR (originale: 450.0 EUR) 23.78 % sconto qui:
 
 [![Sony HT-G700 - Soundbar TV Bluetooth a 3](https://m.media-amazon.com/images/I/21QGALC3VmL._SL200_.jpg)](https://www.amazon.it/dp/B0886PNNMR/?tag=tolees00-21)
 

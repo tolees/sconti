@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Track Top LS HWK Felpa  B al 34.21 % di sconto'
-date: 2021-01-31 14:11:51
+date: 2021-02-02 21:24:25
 image: 'https://m.media-amazon.com/images/I/414VKUz2uxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.it/dp/B0788C6PHD/?tag=tolees00-21'
 descuento: '34.21'
-average: '61.5955681818182'
+average: '61.2487777777778'
 ---
 
 Puoi trovare [Tommy Hilfiger Track Top LS HWK Felpa  Blu  Navy Blazer 416   Medium Uomo](https://www.amazon.it/dp/B0788C6PHD/?tag=tolees00-21) con il prezzo 45.99 EUR (originale: 69.9 EUR) 34.21 % sconto qui:
