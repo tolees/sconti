@@ -28,10 +28,10 @@ Puoi trovare [Lavazza A Modo Mio  Macchina Caffé Espresso Jolie Con 64 Capsule 
 
 ℹ️:
 
-- Spegnimento automatico: in soli 9 minuti
 - Il design di Jolie - la più piccola e silenziosa di casa Lavazza A Modo Mio - è tutto italiano
-- 64 capsule Lavazza crema e gusto intensità 12 incluse nella confezione
 - Pulizia veloce con i componenti rimovibili lavabili in lavastoviglie
+- 64 capsule Lavazza crema e gusto intensità 12 incluse nella confezione
+- Spegnimento automatico: in soli 9 minuti
 - Allegra e colorata, si adatta perfettamente a ogni stile, regalando un tocco di vivacità all’arredamento e piacere intenso e profondo al palato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BMSPXB4/?tag=tolees00-21)

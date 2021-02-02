@@ -28,7 +28,7 @@ average: '13.99'
 
 ℹ️:
 
-- Knit pullover with dropped shoulders
 - Loose fit knit pullover
+- Knit pullover with dropped shoulders
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T3G4CY7/?tag=tolees00-21)

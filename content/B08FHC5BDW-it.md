@@ -28,9 +28,9 @@ average: '55.2595652173913'
 
 ℹ️:
 
-- Gioca in due: affronta la storia principale con un altro giocatore* sulla stessa console!
 - Controlla una capace truppa di minuscole creature ed esplora un pianeta ostile sfruttando sapientemente un mix di azione e strategia.
 - Atterra su un mondo ricco di avventure con Pikmin 3 Deluxe per Nintendo Switch!
+- Gioca in due: affronta la storia principale con un altro giocatore* sulla stessa console!
 - Nuove avventure: parti da solo o fai squadra con un amico per affrontare un prologo e un epilogo tutti nuovi, che hanno come protagonisti gli eroi di Pikmin e Pikmin 2, olimar e Louie!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FHC5BDW/?tag=tolees00-21)

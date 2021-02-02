@@ -28,9 +28,9 @@ average: '14.3119921875'
 
 ℹ️:
 
+- LR7 refills last three times longer than standard gel ink
 - 12 black liquid gel ink refills for Energel refillable pens
 - Ideal for Energel sterling executive pens and Lancelot executive pen collection
-- LR7 refills last three times longer than standard gel ink
 - Smooth writing and long lasting
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002IYT1QK/?tag=tolees00-21)

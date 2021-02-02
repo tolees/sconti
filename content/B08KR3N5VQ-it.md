@@ -29,8 +29,8 @@ average: '29.8710526315788'
 ℹ️:
 
 - È il momento di scaldare i motori in Need for Speed Hot Pursuit Remastered
-- Insegui e scappa
-- Comprende tutti i contenuti scaricabili principali e altri aggiornamenti
 - Multigiocatore multipiattaforma e Autolog
+- Comprende tutti i contenuti scaricabili principali e altri aggiornamenti
+- Insegui e scappa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KR3N5VQ/?tag=tolees00-21)
