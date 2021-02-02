@@ -29,8 +29,8 @@ Puoi trovare [Terre Siciliane IGT Syrah con leggero appassimento Lu Meli Li Ciur
 ℹ️:
 
 - Colore: rosso rubino carico. Profumo: ricco e suadente, note speziate di pepe nero e timo si fondono con quelle di frutti e bosco. Palato: la sensazione tannica è vellutata e piacevole.
-- Varietà di origine mediorientale che si esprime al meglio in terra siciliana grazie all’intensa luminosità e l’unicità dei terreni.
 - Si accompagna con affettati saporiti, carni rosse ai ferri, selvaggina, formaggi affumicati e alle erbe. Da provare anche con un piatto di mare particolarmente saporito come il pesce spada al rosmarino.
 - UVE: 100% Syrah. È una varietà medio - tardiva, matura intorno alla fine del mese di settembre. Raccolta delle uve a perfetta maturazione fenolica, diraspatura e fermentazione alcolica con le bucce per 10-12 giorni a 25-26°C
+- Varietà di origine mediorientale che si esprime al meglio in terra siciliana grazie all’intensa luminosità e l’unicità dei terreni.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BPG7R2X/?tag=tolees00-21)

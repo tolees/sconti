@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 23.09 % su Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53  '
-date: 2021-02-01 07:53:13
+date: 2021-02-02 15:31:24
 image: 'https://m.media-amazon.com/images/I/41Ee2PHTEVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '99.9'
 
 ℹ️:
 
-- Batteria a lunga durata da 5000mAh
-- Tripla camera AI da 13MP
-- Processore octa-core MTK Helio G35
 - Display a goccia HD+ da 6.53"
+- Processore octa-core MTK Helio G35
+- Batteria a lunga durata da 5000mAh
 - Selfie camera con Modalità Bellezza AI
+- Tripla camera AI da 13MP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F1Z5CML/?tag=tolees00-21)

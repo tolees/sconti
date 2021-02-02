@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 26.67 % su Saucony Originals - Scarpe Jazz Saucony   '
-date: 2021-01-31 14:13:56
+date: 2021-02-02 15:11:53
 image: 'https://m.media-amazon.com/images/I/31mPdcMLSzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '77.0'
 
 ℹ️:
 
-- scarpa running retro
-- profili in pelle scamosciata
 - suola in gomma al carbonio
+- profili in pelle scamosciata
 - tomaia in mesh traspirante
 - scarpe moda uomo
+- scarpa running retro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078K1SWCJ/?tag=tolees00-21)
