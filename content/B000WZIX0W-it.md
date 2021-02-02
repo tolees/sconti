@@ -28,8 +28,8 @@ Puoi trovare [Hugo Boss Femme Eau de parfum spray 75 ml donna - 75 ml](https://w
 
 ℹ️:
 
-- EDP
 - 75 ml
 - Uomo
+- EDP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000WZIX0W/?tag=tolees00-21)

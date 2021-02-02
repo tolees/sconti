@@ -28,10 +28,10 @@ Puoi trovare [THUN - Orecchini da Donna con Rondine Gaia - Gioielli Donna - Line
 
 ℹ️:
 
-- CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto. Evita il contatto con acqua e liquidi/prodotti aggressivi
+- MATERIALI - Ottone rodiato, ceramica, perno in acciaio inossidabile
+- DIMENSIONI - 1,5x1 cm
 - PRODOTTO - Orecchini con rondine
 - CATEGORIA - Persona, Gioielli
-- DIMENSIONI - 1,5x1 cm
-- MATERIALI - Ottone rodiato, ceramica, perno in acciaio inossidabile
+- CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto. Evita il contatto con acqua e liquidi/prodotti aggressivi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084QCCZVV/?tag=tolees00-21)

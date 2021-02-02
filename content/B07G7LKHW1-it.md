@@ -28,11 +28,11 @@ average: '15.99'
 
 ℹ️:
 
-- Dermatologicamente testato, con pH equilibrato e potenziato con antiossidanti
-- Lenisce il cuoio capelluto e dona sollievo dal prurito causato dalla forfora
 - Capelli visibilmente belli e fino al 100% liberi dalla forfora (con uso regolare)
-- Senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffine
+- Dermatologicamente testato, con pH equilibrato e potenziato con antiossidanti
 - La formula Derma&Pure combatte prurito, secchezza e capelli grassi
+- Lenisce il cuoio capelluto e dona sollievo dal prurito causato dalla forfora
 - A base di Eucalipto lascia una sensazione di freschezza duratura
+- Senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G7LKHW1/?tag=tolees00-21)
