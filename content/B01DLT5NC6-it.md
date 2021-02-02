@@ -28,9 +28,9 @@ Puoi trovare [Kipling - BANANA - Portapenne Piccolo - Banana Yellow -  Giallo   
 
 ℹ️:
 
-- Chiusura con zip
+- Logo Kipling rotondo
 - Logo Kipling rotondo
 - Chiusura con zip
-- Logo Kipling rotondo
+- Chiusura con zip
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DLT5NC6/?tag=tolees00-21)

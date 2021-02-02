@@ -28,9 +28,9 @@ average: '25.71'
 
 ℹ️:
 
-- Vestibilità attillata
 - Tasche laterali aperte
 - Girovita a costine
+- Vestibilità attillata
 - Pile di peso medio in robusto misto cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L9MNBD7/?tag=tolees00-21)
