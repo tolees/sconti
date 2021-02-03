@@ -28,8 +28,8 @@ Puoi trovare [Versace Dreamer - Eau de Toilette Uomo Spray  100](https://www.ama
 
 ℹ️:
 
-- Eau de toilete
 - Fragranza della casa versace
 - 100 ml
+- Eau de toilete
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000NVFM0E/?tag=tolees00-21)

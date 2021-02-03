@@ -29,8 +29,8 @@ average: '1.59'
 ℹ️:
 
 - Ideale per il tuo aperitivo con gli amici
-- Croccantezza irresistibile
 - In caso di alterazioni della funzione epatica, biliare o di calcolosi delle vie biliari, l’uso del prodotto è sconsigliato. Se si stanno assumendo farmaci è opportuno sentire il parere del medico.
+- Croccantezza irresistibile
 - Sfogliatine di patate fritte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUJ13VS/?tag=tolees00-21)

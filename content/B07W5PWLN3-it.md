@@ -28,14 +28,14 @@ average: '19.4534134615385'
 
 ℹ️:
 
-- Questo set di auto giocattolo non richiede batterie
-- Set di gioco con una Ferrari F8 Tributo dettagliata; include il kit costruibile di un auto e 1 minifigure di un pilota Ferrari
-- Questi elementi e mattoncini LEGO sono stati sottoposti a test rigorosi
-- I set di gioco offrono agli appassionati di auto la possibilità di costruire alcuni dei modelli famosi al mondo; una volta realizzati, possono esporli o organizzare gare
-- Le istruzioni passo-passo incluse semplificano la costruzione di questa splendida auto giocattolo
 - La Ferrari F8 Tributo è alta 4 cm, lunga 15 cm e larga 8 cm; tutti modelli LEGO Speed Champions 2020 sono più grandi del 25%
 - Dal 1958, i mattoncini LEGO soddisfano elevati standard del settore; sono sempre omogenei e compatibili e si montano e si smontano facilmente
+- Set di gioco con una Ferrari F8 Tributo dettagliata; include il kit costruibile di un auto e 1 minifigure di un pilota Ferrari
+- Questi elementi e mattoncini LEGO sono stati sottoposti a test rigorosi
+- Le istruzioni passo-passo incluse semplificano la costruzione di questa splendida auto giocattolo
 - Loccasione di costruire una replica di una velocissima Ferrari F8 Tributo; i bambini potranno esporla in casa o usarla per organizzare gare emozionanti con i loro amici.
 - Kit di modello di auto da 275 pezzi per bambini e bambine dagli 8 anni in su
+- Questo set di auto giocattolo non richiede batterie
+- I set di gioco offrono agli appassionati di auto la possibilità di costruire alcuni dei modelli famosi al mondo; una volta realizzati, possono esporli o organizzare gare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W5PWLN3/?tag=tolees00-21)
