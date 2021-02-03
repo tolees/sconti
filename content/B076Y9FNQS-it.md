@@ -29,7 +29,7 @@ average: '23.99'
 ℹ️:
 
 - Intramontabile logo Levis stampato
-- Indossa il nostro classico capo a maniche lunghe con un taglio standard
 - Materiale non elasticizzato
+- Indossa il nostro classico capo a maniche lunghe con un taglio standard
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076Y9FNQS/?tag=tolees00-21)
