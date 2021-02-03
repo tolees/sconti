@@ -28,11 +28,11 @@ average: '104.759230769231'
 
 ℹ️:
 
-- I bambini possono liberare la loro creatività e ingegno inventando nuove piste oppure possono trarre ispirazione dallutile manuale di progettazione, che offre 9 diversi progetti di piste da seguire e 24 divertenti sfide
-- GraviTrax è la pista di biglie del futuro di Ravensburger per bambini e bambine a partire da 8 anni, è un gioco STEM di costruzioni che assicura ore di puro divertimento da soli, con gli amici o con la famiglia
 - Con GraviTrax Starter Set XXL puoi costruire fin da subito piste ancora più grandi e con un buon numero di accessori; costruisci un elettrizzante universo di piste, assemblando più di 200 componenti tra binari, blocchi verticali e basi di cartoncino e divertiti ad abbinare i 3 accessori inclusi
-- GraviTrax XXL Big Box è compatibile con tutti gli accessori e set di espansioni GraviTrax; allinterno della confezione sono già inclusi i seguenti accessori: 1 GraviTrax Cannone Magnetico, 1 GraviTrax Looping, 1 GraviTrax Martello
-- GraviTrax è un gioco innovativo ed educativo, permette infatti ai bambini di imparare concetti legati alla gravità, cinetica e magnetismo mentre si divertono a costruire le proprie piste e percorsi
 - Versione Italiana
+- GraviTrax è la pista di biglie del futuro di Ravensburger per bambini e bambine a partire da 8 anni, è un gioco STEM di costruzioni che assicura ore di puro divertimento da soli, con gli amici o con la famiglia
+- I bambini possono liberare la loro creatività e ingegno inventando nuove piste oppure possono trarre ispirazione dallutile manuale di progettazione, che offre 9 diversi progetti di piste da seguire e 24 divertenti sfide
+- GraviTrax è un gioco innovativo ed educativo, permette infatti ai bambini di imparare concetti legati alla gravità, cinetica e magnetismo mentre si divertono a costruire le proprie piste e percorsi
+- GraviTrax XXL Big Box è compatibile con tutti gli accessori e set di espansioni GraviTrax; allinterno della confezione sono già inclusi i seguenti accessori: 1 GraviTrax Cannone Magnetico, 1 GraviTrax Looping, 1 GraviTrax Martello
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DP21JWT/?tag=tolees00-21)
