@@ -28,10 +28,10 @@ Puoi trovare [Electronic Arts - The Sims 4 Vita in Città - Espansione - PC](htt
 
 ℹ️:
 
-- Crea e controlla diversi Sims con una mente, un corpo e un cuore
-- Gioco di simulazione
-- Profondità emotiva
 - I tuoi Sims si muovono e si comportano in modo naturale
+- Crea e controlla diversi Sims con una mente, un corpo e un cuore
+- Profondità emotiva
+- Gioco di simulazione
 - Terza espansione per The Sims 4
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M68DTVG/?tag=tolees00-21)

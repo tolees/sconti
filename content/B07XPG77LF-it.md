@@ -28,10 +28,10 @@ average: '149.99'
 
 ℹ️:
 
-- Easy fastening in the car with vehicle seat belt and optionally with ISOFIX for extra stability, Machine washable (30°C), removable cover, Optional accessories available: Summer cover and cup holder
-- Maximum safety - Built-in side impact protection (L.S.P. System), 3-way adjustable headrest, Energy-absorbing shell
-- 12-way adjustable, comfortable headrest, Adjustable backrest, Extra wide and deep seat cushion, Ventilation system
 - Contents: 1x Solution S-Fix car seat with ISOFIX Connect System, Incl. ISOFIX installation aids, Cover material: 100% polyester, Dimensions (L x W x H): 40.5 x 50 x 61 cm, Weight: 6.2 kg, Colour: Granite Black
+- Easy fastening in the car with vehicle seat belt and optionally with ISOFIX for extra stability, Machine washable (30°C), removable cover, Optional accessories available: Summer cover and cup holder
+- 12-way adjustable, comfortable headrest, Adjustable backrest, Extra wide and deep seat cushion, Ventilation system
+- Maximum safety - Built-in side impact protection (L.S.P. System), 3-way adjustable headrest, Energy-absorbing shell
 - Sturdy and high-quality child car seat with long service life - For children aged approximately 3 to approximately 12 years (15-36 kg), Suitable for cars with and without ISOFIX
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XPG77LF/?tag=tolees00-21)
