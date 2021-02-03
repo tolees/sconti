@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Harry Potter: Hogwarts Express Mys al 33.58 % di sconto'
-date: 2021-01-27 13:44:08
+date: 2021-02-03 09:31:39
 image: 'https://m.media-amazon.com/images/I/51BFfKP0HKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 46.6 EUR
 prodname: 'Funko Harry Potter: Hogwarts Express Mystery Box #67  Include Sirius Black Pop! Vinile'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Funko'
 buyurl: 'https://www.amazon.it/dp/B07HGPP1X2/?tag=tolees00-21'
 descuento: '33.58'
-average: '36.4691666666667'
+average: '36.848137254902'
 ---
 
 Puoi trovare [Funko Harry Potter: Hogwarts Express Mystery Box #67  Include Sirius Black Pop! Vinile](https://www.amazon.it/dp/B07HGPP1X2/?tag=tolees00-21) con il prezzo 30.95 EUR (originale: 46.6 EUR) 33.58 % sconto qui:
