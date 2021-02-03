@@ -28,10 +28,10 @@ average: '19.19'
 
 ℹ️:
 
-- Utilizza 15 watt di energia e ha un costo di funzionamento di soli € 6.30 lanno（calcolo basato su un uso giornaliero di 5 ore e un costo energetico di 0,23 €/kWh; soggetto a variazioni in base alle tariffe e all’uso）
-- Produce 1200 lumen di luminosità istantaneamente, senza bisogno di attendere il riscaldamento della lampadina
-- Lampadina mais LED con attacco E27, luce bianca fredda 6400K, 1200 lumen. Efficienza energetica A +, risparmio energetico fino all80%
 - Perfetta per tutti i tipi di arredamento, dalla casa agli uffici. Compatibile con tutti gli attacchi E27.
+- Utilizza 15 watt di energia e ha un costo di funzionamento di soli € 6.30 lanno（calcolo basato su un uso giornaliero di 5 ore e un costo energetico di 0,23 €/kWh; soggetto a variazioni in base alle tariffe e all’uso）
+- Lampadina mais LED con attacco E27, luce bianca fredda 6400K, 1200 lumen. Efficienza energetica A +, risparmio energetico fino all80%
+- Produce 1200 lumen di luminosità istantaneamente, senza bisogno di attendere il riscaldamento della lampadina
 - Il CRI delle lampadina a led Aigostar è sempre superiore a 80, in modo che riflettono i colori in modo reale e naturale.l’angolazione del fascio di luce di 360 gradi, per un ampio campo luminoso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MQOIA17/?tag=tolees00-21)
