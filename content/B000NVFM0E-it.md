@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Versace Dreamer - Eau de Toilette Uomo S al 59.64 % di sconto'
-date: 2021-01-29 09:39:37
+date: 2021-02-03 03:27:26
 image: 'https://m.media-amazon.com/images/I/51awrQlJjwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 69.5 EUR
 prodname: 'Versace Dreamer - Eau de Toilette Uomo Spray  100'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Versace'
 buyurl: 'https://www.amazon.it/dp/B000NVFM0E/?tag=tolees00-21'
 descuento: '59.64'
 average: '28.05'
