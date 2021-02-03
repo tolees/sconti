@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
+- Brightening face oil; nourishes and softens the skin
 - Formulas enriched with organic argan oil and antioxidant vitamin E
-- For all skin types, even sensitive, dermatologically tested
 - Regenerating Lavender Illuminating Anti-Aging Set
 - Anti-wrinkle cream for younger looking skin after use
-- Brightening face oil; nourishes and softens the skin
+- For all skin types, even sensitive, dermatologically tested
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YGDWZJT/?tag=tolees00-21)

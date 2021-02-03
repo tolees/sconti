@@ -28,8 +28,8 @@ average: '1.99'
 
 ℹ️:
 
-- Pal oil free
 - Senza coloranti e aromi artificiali
+- Pal oil free
 - Croccante nel latte caldo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P939NVZ/?tag=tolees00-21)

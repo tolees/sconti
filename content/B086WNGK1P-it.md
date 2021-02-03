@@ -28,9 +28,9 @@ average: '9.69'
 
 ℹ️:
 
-- 5 Maschere diverse maschere in tessuto Garnier HydraBomb
-- Il tessuto è imbevuto di un trattamento idratante
 - Kit contenente 5 diverse maschere
+- Il tessuto è imbevuto di un trattamento idratante
 - 1 maschera per 1 settimana di trattamento in concentrazione di siero idratante
+- 5 Maschere diverse maschere in tessuto Garnier HydraBomb
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086WNGK1P/?tag=tolees00-21)
