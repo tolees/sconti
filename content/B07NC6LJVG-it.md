@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - The Sims 4 - Standard  al 87.52 % di sconto'
-date: 2021-01-31 10:13:48
+date: 2021-02-03 14:03:20
 image: 'https://m.media-amazon.com/images/I/517XhdfWw9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.it/dp/B07NC6LJVG/?tag=tolees00-21'
 descuento: '87.52'
-average: '7.49'
+average: '6.99'
 ---
 
 Puoi trovare [Electronic Arts - The Sims 4 - Standard | Codice Origin per PC](https://www.amazon.it/dp/B07NC6LJVG/?tag=tolees00-21) con il prezzo 4.99 EUR (originale: 39.99 EUR) 87.52 % sconto qui:

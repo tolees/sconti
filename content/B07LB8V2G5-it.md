@@ -28,7 +28,7 @@ average: '7.79'
 
 ℹ️:
 
-- Elegant top from Vero Moda
 - figure-hugging fit
+- Elegant top from Vero Moda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LB8V2G5/?tag=tolees00-21)

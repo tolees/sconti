@@ -28,10 +28,10 @@ Puoi trovare [Giochi Preziosi Subbuteo Playset Juventus con 2 Squadre Tappeto Gi
 
 ℹ️:
 
-- Playset completo
 - Tappeto di gioco
-- 2 porte
-- Kit di gioco con licenza ufficiale Juventus
 - 1 pallone
+- Kit di gioco con licenza ufficiale Juventus
+- Playset completo
+- 2 porte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071P4BXDY/?tag=tolees00-21)

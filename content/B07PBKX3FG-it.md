@@ -28,10 +28,10 @@ average: '20.94'
 
 ℹ️:
 
-- Relazioni profonde e Quick Time Events
 - Un sistema di combattimento flessibile
-- Lattesissimo sequel dei classici di Dreamcast Shenmue (1999) e Shenmue II (2001)
 - Free Roaming Environment che combina il gameplay d’azione del classico arcade Virtual Fighter con meccanismi (J)RPG
+- Lattesissimo sequel dei classici di Dreamcast Shenmue (1999) e Shenmue II (2001)
 - Esplora ambienti e scopri elementi chiave
+- Relazioni profonde e Quick Time Events
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PBKX3FG/?tag=tolees00-21)
