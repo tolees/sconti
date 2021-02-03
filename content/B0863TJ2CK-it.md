@@ -28,12 +28,12 @@ Puoi trovare [Apple Mac mini  Processore Intel Core i3 quad‑core di ottava ge
 
 ℹ️:
 
-- Processore Intel Core i3 quad-core di ottava generazione
 - Archiviazione SSD ultraveloce
-- Gigabit Ethernet e Wi-Fi 802.11ac
 - Intel UHD Graphics 630
-- Versione più recente di macOS
+- Processore Intel Core i3 quad-core di ottava generazione
 - 8GB di DDR4 a 2666MHz
 - Quattro porte Thunderbolt 3 (USB-C), una porta HDMI 2.0 e due porte USB 3
+- Versione più recente di macOS
+- Gigabit Ethernet e Wi-Fi 802.11ac
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0863TJ2CK/?tag=tolees00-21)

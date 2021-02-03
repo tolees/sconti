@@ -28,10 +28,10 @@ average: '20.09'
 
 ℹ️:
 
-- 5 precision blades An almost imperceptible shave
-- The lubricated strip helps your Gillette in limited edition to glide softly on your face (*vs Fusion5)
-- ProShield Limited Edition Razor with Chrome Handle + 4 Blades + Stand
-- Stylish design with rubber grip for a soft feel
 - Razor holder to give your razor the place it deserves
+- Stylish design with rubber grip for a soft feel
+- ProShield Limited Edition Razor with Chrome Handle + 4 Blades + Stand
+- The lubricated strip helps your Gillette in limited edition to glide softly on your face (*vs Fusion5)
+- 5 precision blades An almost imperceptible shave
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HJ7BDKT/?tag=tolees00-21)

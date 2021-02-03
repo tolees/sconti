@@ -28,10 +28,10 @@ average: '16.02'
 
 ℹ️:
 
-- Lies flat and opens at 180°. Reusable paperband that also features additional printed tools. The history of Moleskine is printed within all our produts
-- Elegant classic avio blue leather notepad. Take notes, write down your to-do list and tick off all your days tasks
-- Ivory-colored paper, acid-free, calibrated to meet all your creative needs and adapt to all the tools for writing and for art
-- Classic notebook with colored cover, rounded corners and ruled pages. In case of loss notice printed on the flyleaf
 - Classic design with hard cover, elastic closure and a matching bookmark ribbon takes you straight to the right page every time. Expandable back pocket for storing items like tickets or souvenirs
+- Classic notebook with colored cover, rounded corners and ruled pages. In case of loss notice printed on the flyleaf
+- Ivory-colored paper, acid-free, calibrated to meet all your creative needs and adapt to all the tools for writing and for art
+- Elegant classic avio blue leather notepad. Take notes, write down your to-do list and tick off all your days tasks
+- Lies flat and opens at 180°. Reusable paperband that also features additional printed tools. The history of Moleskine is printed within all our produts
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BKWMRKX/?tag=tolees00-21)
