@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 21.08 % su Brooks Ghost 13  Scarpe da Corsa Uomo  B  '
-date: 2021-02-02 09:39:07
+date: 2021-02-04 04:08:39
 image: 'https://m.media-amazon.com/images/I/4110G5SCp3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '110.49'
 
 ℹ️:
 
+- Tomaia in rete
 - Scarpe da running
 - Ammortizzazione morbida ed equilibrata
-- Tomaia in rete
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0842NSMV3/?tag=tolees00-21)

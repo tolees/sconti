@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Versace Dreamer - Eau de Toilette Uomo S al 59.64 % di sconto'
-date: 2021-02-03 03:27:26
+date: 2021-02-04 04:02:14
 image: 'https://m.media-amazon.com/images/I/51awrQlJjwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [Versace Dreamer - Eau de Toilette Uomo Spray  100](https://www.ama
 
 ℹ️:
 
-- Fragranza della casa versace
-- Eau de toilete
 - 100 ml
+- Eau de toilete
+- Fragranza della casa versace
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000NVFM0E/?tag=tolees00-21)

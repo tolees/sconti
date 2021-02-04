@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 16.57 % su Sylvanian Families - 5480 - Casa Grande   '
-date: 2021-02-03 03:16:34
+date: 2021-02-04 04:10:01
 image: 'https://m.media-amazon.com/images/I/51V6hkABz8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,11 @@ average: '81.7632710280374'
 
 ℹ️:
 
-- ccessabile grazie alla scala, ha un grande balcone circondato da balaustre.
-- Il piano del ripiano della scarpiera permette di creare una grande terrazza.
-- Può essere collegata con il cottage cosy del villaggio (5303).
-- Le camere possono essere illuminate.
-- Questa grande casa si può aprire a metà o addirittura totalmente.
+- Stimulates imaginative role-playing by children. Suitable for ages three years and above
+- Can be put back together to allow multiple ways to play
+- The staircase can be collapsed
+- This house has real lights, these can be turned on and off in the rooms
+- The house can be opened up for play at 90-Degrees, 180-Degrees and any angle in between, additionally, the second floor room on the left side and the roof on the right side, are removable
+- Connect to red roof cosy cottage to create a large, three-storey house (sold separately)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WVD15QP/?tag=tolees00-21)

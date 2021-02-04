@@ -28,8 +28,8 @@ average: '27.3966666666667'
 
 ℹ️:
 
+- Dark grey heather/black
 - Core18 hoody
 - Adidas apparel
-- Dark grey heather/black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQ6P5F/?tag=tolees00-21)
