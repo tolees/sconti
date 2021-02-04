@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 31.20 % su LEGO Speed Champions 1974 Porsche 911 Tu  '
-date: 2021-02-03 03:22:38
+date: 2021-02-04 09:36:26
 image: 'https://m.media-amazon.com/images/I/51FnadTjzQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07PX3WGP1/?tag=tolees00-21'
 descuento: '31.20'
-average: '38.6276470588234'
+average: '38.3175862068964'
 ---
 
 [LEGO Speed Champions 1974 Porsche 911 Turbo 30 75895](https://www.amazon.it/dp/B07PX3WGP1/?tag=tolees00-21) ha un prezzo di 25.14 EUR (originale: 36.54 EUR) con uno sconto del 31.20 % sconto qui:

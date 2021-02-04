@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 45.02 % su JACK & JONES JJECORP Logo Sweat Hood Noo  '
-date: 2021-02-03 03:22:41
+date: 2021-02-04 09:36:23
 image: 'https://m.media-amazon.com/images/I/316gjIy2o5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'JACK & JONES'
 buyurl: 'https://www.amazon.it/dp/B07B6D9JNB/?tag=tolees00-21'
 descuento: '45.02'
-average: '19.4711764705882'
+average: '19.3859999999999'
 ---
 
 [JACK & JONES JJECORP Logo Sweat Hood Noos Cappuccio  Nero  Black Detail:Reg Fit   Large Uomo](https://www.amazon.it/dp/B07B6D9JNB/?tag=tolees00-21) ha un prezzo di 16.49 EUR (originale: 29.99 EUR) con uno sconto del 45.02 % sconto qui:
