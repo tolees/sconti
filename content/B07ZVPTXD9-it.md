@@ -28,8 +28,8 @@ average: '15.99'
 
 ℹ️:
 
-- Un morbido girocollo classico che si abbina con tutto
 - Girocollo con impuntura triangolare
+- Un morbido girocollo classico che si abbina con tutto
 - Con il nostro inconfondibile logo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVPTXD9/?tag=tolees00-21)

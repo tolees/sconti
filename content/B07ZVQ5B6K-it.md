@@ -29,7 +29,7 @@ Puoi trovare [Levi s The Perfect Tee T-Shirt  Batwing Outline Bok Choy  XS Donna
 ℹ️:
 
 - Girocollo con impuntura triangolare
-- Con il nostro inconfondibile logo
 - Un morbido girocollo classico che si abbina con tutto
+- Con il nostro inconfondibile logo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQ5B6K/?tag=tolees00-21)
