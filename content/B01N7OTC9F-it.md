@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 43.71 % su Reebok Club C 85  Sneaker Uomo  Bianco    '
-date: 2021-02-03 13:57:31
+date: 2021-02-04 14:20:18
 image: 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '45.0'
 
 ℹ️:
 
-- Scarpe sportive
-- Tomaia in pelle
 - Ammortizzazione
+- Tomaia in pelle
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7OTC9F/?tag=tolees00-21)
