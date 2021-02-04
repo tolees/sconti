@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.04 % su Eastpak Padded Pak R Zaino  40 Cm  24 L   '
-date: 2021-02-03 03:13:23
+date: 2021-02-04 03:56:47
 image: 'https://m.media-amazon.com/images/I/41xlVUp8ffL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'EASTPAK'
 buyurl: 'https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21'
 descuento: '30.04'
-average: '36.28131147541'
+average: '36.2603225806453'
 ---
 
 [Eastpak Padded Pak R Zaino  40 Cm  24 L  Blu  Triple Denim ](https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21) ha un prezzo di 34.98 EUR (originale: 50.0 EUR) con uno sconto del 30.04 % sconto qui:
@@ -29,9 +29,9 @@ average: '36.28131147541'
 ℹ️:
 
 - Scomparto principale dotato di tasca frontale con zip
-- Gli spallacci potrebbero sembrare un po rigidi allinizio, ma col tempo si ammorbidiranno
-- Realizzato in poliestere 100%
 - Schienale e spallacci regolabili imbottiti
+- Realizzato in poliestere 100%
+- Gli spallacci potrebbero sembrare un po rigidi allinizio, ma col tempo si ammorbidiranno
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DP3JBCT/?tag=tolees00-21)
