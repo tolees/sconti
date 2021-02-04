@@ -28,10 +28,10 @@ average: '181.16'
 
 ℹ️:
 
-- Wet/Dry - 100% impermeabile
 - Rasoio 5 lame Nanotech con vibrazione verticale
-- Testina con curva multi adattamento
+- Wet/Dry - 100% impermeabile
 - Blocco radente omnidirezionale
+- Testina con curva multi adattamento
 - Modalità pulizia turbo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EENOC9Y/?tag=tolees00-21)
