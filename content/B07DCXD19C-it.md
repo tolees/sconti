@@ -29,8 +29,8 @@ average: '3.13615384615385'
 ℹ️:
 
 - 0% alcool; dermatologicamente testato
-- 32% di meno sudore dopo 24 h*
 - Efficacia 48 ore
+- 32% di meno sudore dopo 24 h*
 - Profumo di Borotalco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DCXD19C/?tag=tolees00-21)

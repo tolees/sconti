@@ -28,9 +28,9 @@ average: '79.88'
 
 ℹ️:
 
+- scarpe moda uomo
 - suola in gomma al carbonio
 - scarpa running retro
-- scarpe moda uomo
 - profili in pelle scamosciata
 - tomaia in mesh traspirante
 

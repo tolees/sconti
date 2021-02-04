@@ -28,9 +28,9 @@ Puoi trovare [Grandi Giochi- GG01319  Calcio Quiz  Multicolore](https://www.amaz
 
 ℹ️:
 
+- 500 domande tra: mondiali, europei, calcio italiano, grandi giocatori e curiosità calcistiche
 - Per guadagnare un punto, bisognerà rispondere in maniera corretta; sbagliando la risposta, gli avversari guadagneranno un punto
 - Versione Italiana
-- 500 domande tra: mondiali, europei, calcio italiano, grandi giocatori e curiosità calcistiche
 - Il gioco chiederà di alcuni episodi legati al mondo del calcio e i giocatori dovranno indovinare se sono veri o falsi
 - 2 modalita di gioco: bambini (7+) ragazzi e adulti (14+)
 

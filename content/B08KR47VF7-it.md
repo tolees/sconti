@@ -28,9 +28,9 @@ average: '29.2539999999999'
 
 ℹ️:
 
-- Multigiocatore multipiattaforma e Autolog
 - Insegui e scappa
-- Comprende tutti i contenuti scaricabili principali e altri aggiornamenti
+- Multigiocatore multipiattaforma e Autolog
 - È il momento di scaldare i motori in Need for Speed Hot Pursuit Remastered
+- Comprende tutti i contenuti scaricabili principali e altri aggiornamenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KR47VF7/?tag=tolees00-21)

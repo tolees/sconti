@@ -29,7 +29,7 @@ Puoi trovare [Goobay 93990 Telaio di Installazione per Hard Disk da 2  5" in 3  
 ℹ️:
 
 - Perfettamente compatibile
-- Supporta tutti gli hard disk HDD / SSD da 2,5"
 - Materiale di qualità e montaggio semplice
+- Supporta tutti gli hard disk HDD / SSD da 2,5"
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003KQZ0PG/?tag=tolees00-21)

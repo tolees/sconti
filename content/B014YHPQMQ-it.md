@@ -28,8 +28,8 @@ Puoi trovare [Timberland Bradstreet Chukka Leather  Stivali Uomo  Pelle  Materia
 
 ℹ️:
 
-- 100percent cotton laces
 - Robust rubber outsole for hard-wearing grip
 - Snug-fit padded collar
+- 100percent cotton laces
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014YHPQMQ/?tag=tolees00-21)

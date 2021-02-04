@@ -29,8 +29,8 @@ average: '1.70666666666667'
 ℹ️:
 
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
-- MERENDINE E TORTE - Ricette per tutti da gustare al mattino, per merenda o a cena. Cornetti, merendine e torte di Mulino Bianco che conquisteranno i grandi e i bambini
 - INGREDIENTI - Pane di tipo "0" con uova, olio di girasole e tavoletta di cioccolato al latte. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
+- MERENDINE E TORTE - Ricette per tutti da gustare al mattino, per merenda o a cena. Cornetti, merendine e torte di Mulino Bianco che conquisteranno i grandi e i bambini
 - PANE + CIOCCOLATO: Pane+Cioccolato nasce dall’unione di un soffice panino e di una dolce tavoletta di cioccolato al latte. Una golosa carica di energia
 - PER LA TUA MERENDA - Ideali per la tua merenda: 1 Pane+Cioccolato al latte + 1 bicchiere di latte parzialmente scremato. Per un totale di calorie pari al 10% del tuo fabbisogno energetico giornaliero
 
