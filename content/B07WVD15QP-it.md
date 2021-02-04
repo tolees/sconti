@@ -28,11 +28,11 @@ average: '81.7632710280374'
 
 ℹ️:
 
-- Stimulates imaginative role-playing by children. Suitable for ages three years and above
-- Can be put back together to allow multiple ways to play
 - The staircase can be collapsed
-- This house has real lights, these can be turned on and off in the rooms
-- The house can be opened up for play at 90-Degrees, 180-Degrees and any angle in between, additionally, the second floor room on the left side and the roof on the right side, are removable
 - Connect to red roof cosy cottage to create a large, three-storey house (sold separately)
+- Stimulates imaginative role-playing by children. Suitable for ages three years and above
+- This house has real lights, these can be turned on and off in the rooms
+- Can be put back together to allow multiple ways to play
+- The house can be opened up for play at 90-Degrees, 180-Degrees and any angle in between, additionally, the second floor room on the left side and the roof on the right side, are removable
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WVD15QP/?tag=tolees00-21)

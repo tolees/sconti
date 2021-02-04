@@ -28,8 +28,8 @@ average: '110.49'
 
 ℹ️:
 
+- Ammortizzazione morbida ed equilibrata
 - Tomaia in rete
 - Scarpe da running
-- Ammortizzazione morbida ed equilibrata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0842NSMV3/?tag=tolees00-21)
