@@ -29,8 +29,8 @@ average: '7.98'
 ℹ️:
 
 - Maniche corte con risvolto fisso
-- Ampio scollo rotondo con bordo sottile a coste
 - Cinque tasche con cuciture a contrasto ed effetti stropicciati
+- Ampio scollo rotondo con bordo sottile a coste
 - Jersey fiammato leggermente strutturato in puro cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GXSWDWN/?tag=tolees00-21)

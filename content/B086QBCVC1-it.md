@@ -28,11 +28,11 @@ average: '9.99740740740726'
 
 ℹ️:
 
-- Contiene 5 pz colori assortiti (nero, rosso, blu, verde, giallo)
 - Pennarello con punta in fibra
+- Contiene 5 pz colori assortiti (nero, rosso, blu, verde, giallo)
+- Ideale per usi grafici, per realizzare bozze
+- Confezione ecologica in cartone prodotta con materie prime sostenibili
 - Punta 2,0 mm, tratto 0,8 mm
 - Lunghezza di scrittura media 900m
-- Confezione ecologica in cartone prodotta con materie prime sostenibili
-- Ideale per usi grafici, per realizzare bozze
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086QBCVC1/?tag=tolees00-21)
