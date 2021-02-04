@@ -28,10 +28,10 @@ average: '4.75'
 
 ℹ️:
 
-- Confezione da 75 ml
+- Colore trasparente
+- Gel intimo lubrificante a base acquosa
 - Effetto idratante
 - Prodotto in Italia
-- Gel intimo lubrificante a base acquosa
-- Colore trasparente
+- Confezione da 75 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NZ825HJ/?tag=tolees00-21)

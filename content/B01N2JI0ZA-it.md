@@ -28,8 +28,8 @@ Puoi trovare [ESPRIT Collection 997eo2g802 Blazer  Blu  Navy   102 Uomo](https:/
 
 ℹ️:
 
-- Polsini con quattro bottoni
 - Tipiche tasche ad aletta sul petto e tasche con patta allaltezza dei fianchi
+- Polsini con quattro bottoni
 - Fodera in raso con due tasche interne
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N2JI0ZA/?tag=tolees00-21)

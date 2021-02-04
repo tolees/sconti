@@ -29,7 +29,7 @@ Puoi trovare [Universal - Inside Man  Br+Dv ](https://www.amazon.it/dp/B085RT6XR
 ℹ️:
 
 - Booklet
-- DVD
 - Blu-Ray
+- DVD
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085RT6XR4/?tag=tolees00-21)

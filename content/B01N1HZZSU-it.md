@@ -28,8 +28,8 @@ average: '50.98'
 
 ℹ️:
 
-- Fodera in raso con due tasche interne
 - Polsini con quattro bottoni
+- Fodera in raso con due tasche interne
 - Tipiche tasche ad aletta sul petto e tasche con patta allaltezza dei fianchi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1HZZSU/?tag=tolees00-21)

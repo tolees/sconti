@@ -31,7 +31,7 @@ average: '3.53434782608697'
 - Consigli uso: ottimale per piatti freschi e leggeri, insalate classiche o più creative arricchite con frutta fresca e secca
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
 - Ingredienti: tonno*, acqua, sale, aroma naturale di sedano e cipolla.*Thunnus (neothunnus) albacares
-- Formato: confezione da 4 lattine da 80 g ciascuna
 - Tonno al naturale preparato usando solo acqua, un pizzico di sale e odori di cucina. Un ottimo equilibrio di minerali, proteine nobili e vitamina B12
+- Formato: confezione da 4 lattine da 80 g ciascuna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082VT51VD/?tag=tolees00-21)

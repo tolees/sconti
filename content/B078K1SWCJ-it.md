@@ -28,10 +28,10 @@ average: '79.88'
 
 ℹ️:
 
-- tomaia in mesh traspirante
 - suola in gomma al carbonio
+- scarpa running retro
 - scarpe moda uomo
 - profili in pelle scamosciata
-- scarpa running retro
+- tomaia in mesh traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078K1SWCJ/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.00 % su Levi s 512 Slim Taper Jeans  Cedar Light  '
-date: 2021-02-02 09:32:13
+date: 2021-02-04 10:06:05
 image: 'https://m.media-amazon.com/images/I/41O73GO3W9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '60.0'
 
 ℹ️:
 
-- Jeans aderenti sui fianchi e stretti dal ginocchio alla caviglia
-- Denim elasticizzato
 - Aderenti sui glutei e sulle cosce
+- Denim elasticizzato
 - Cinque tasche
+- Jeans aderenti sui fianchi e stretti dal ginocchio alla caviglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RZLJCZ9/?tag=tolees00-21)

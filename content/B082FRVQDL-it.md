@@ -28,8 +28,8 @@ Puoi trovare [Funko- Pop Rocks: Queen-Freddie Mercury Radio Gaga Figura da Colle
 
 ℹ️:
 
-- Freddie mercury radio gaga e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Scopri tutte le altre statuine queen di funko e collezionale tutte
+- Freddie mercury radio gaga e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Uniconica statuina funko pop vinyl della serie queen
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082FRVQDL/?tag=tolees00-21)

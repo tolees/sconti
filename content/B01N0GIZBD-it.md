@@ -28,8 +28,8 @@ Puoi trovare [ESPRIT Collection 997eo2g802 Blazer  Blu  Navy   46 Uomo](https://
 
 ℹ️:
 
-- Tipiche tasche ad aletta sul petto e tasche con patta allaltezza dei fianchi
 - Polsini con quattro bottoni
 - Fodera in raso con due tasche interne
+- Tipiche tasche ad aletta sul petto e tasche con patta allaltezza dei fianchi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N0GIZBD/?tag=tolees00-21)
