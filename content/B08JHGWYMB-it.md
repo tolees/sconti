@@ -28,9 +28,9 @@ Puoi trovare [Maybelline New York Idea Regalo Donna Natale 2020  Pochette Occhi 
 
 ℹ️:
 
-- Mascara volume e definizione effetto ventaglio
-- Matita occhi a lunga tenuta
 - Formula leggera e fluida
+- Mascara volume e definizione effetto ventaglio
 - Pochette con mascara volumizzante e matita occhi
+- Matita occhi a lunga tenuta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JHGWYMB/?tag=tolees00-21)

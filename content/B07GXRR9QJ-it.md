@@ -28,8 +28,8 @@ average: '5.99'
 
 ℹ️:
 
-- Punta cucita a mano per evitare irritazioni.
-- Cotone pettinato morbido al tatto.
 - Modello con iconica bandiera Tommy.
+- Cotone pettinato morbido al tatto.
+- Punta cucita a mano per evitare irritazioni.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GXRR9QJ/?tag=tolees00-21)
