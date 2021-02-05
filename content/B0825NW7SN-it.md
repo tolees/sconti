@@ -28,9 +28,9 @@ average: '66.06'
 
 ℹ️:
 
-- Chiusura: Cerniera
 - Fodera: Sintetico
-- Materiale suola: Gomma
 - Materiale esterno: Pelle
+- Chiusura: Cerniera
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825NW7SN/?tag=tolees00-21)

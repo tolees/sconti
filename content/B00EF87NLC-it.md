@@ -28,10 +28,10 @@ average: '6.95428571428571'
 
 ℹ️:
 
-- Azione: usato una volta a settimana grazie alla sua formula concentrata potenzia l’azione degli enzimi e scioglie i rifiuti solidi prevenendo gli ingorghi ed evita i cattivi odori
-- Prodotto: Wc Net capsule idrosolubili è il prodotto specifico per il corretto funzionamento delle fosse biologiche
-- Modalità d’uso: aprire il barattolo tirando la linguetta sul tappo, gettare la capsula nel WC mentre il flusso dellacqua crea turbolenza
-- Dosaggio: Utilizzare 1 capsula a settimana per 1/4 persone, per 5/8 persone utilizzare 2 capsule a settimana, per 9/12 persone 3 capsule a settimana. Nel caso di fossa inattiva, nuova o appena spurgata raddoppiare il trattamento durante il primo mese
 - Fosse biologiche: la fossa biologica è una vasca di contenimento nella quale confluiscono tutte le acque nere della casa; un mancato o errato trattamento della fossa settica può provocare danni rilevanti come ingorghi, cattivi odori e deflusso non corretto
+- Dosaggio: Utilizzare 1 capsula a settimana per 1/4 persone, per 5/8 persone utilizzare 2 capsule a settimana, per 9/12 persone 3 capsule a settimana. Nel caso di fossa inattiva, nuova o appena spurgata raddoppiare il trattamento durante il primo mese
+- Azione: usato una volta a settimana grazie alla sua formula concentrata potenzia l’azione degli enzimi e scioglie i rifiuti solidi prevenendo gli ingorghi ed evita i cattivi odori
+- Modalità d’uso: aprire il barattolo tirando la linguetta sul tappo, gettare la capsula nel WC mentre il flusso dellacqua crea turbolenza
+- Prodotto: Wc Net capsule idrosolubili è il prodotto specifico per il corretto funzionamento delle fosse biologiche
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EF87NLC/?tag=tolees00-21)

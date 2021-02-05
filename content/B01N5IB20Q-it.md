@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston A400 SSD SA400S37/240G Unità a  al 38.90 % di sconto'
-date: 2021-02-04 09:44:43
+date: 2021-02-05 10:27:00
 image: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.it/dp/B01N5IB20Q/?tag=tolees00-21'
 descuento: '38.90'
-average: '29.466626506024'
+average: '29.5495294117646'
 ---
 
 Puoi trovare [Kingston A400 SSD SA400S37/240G Unità a Stato Solido Interne 2.5" SATA  240 GB](https://www.amazon.it/dp/B01N5IB20Q/?tag=tolees00-21) con il prezzo 32.99 EUR (originale: 53.99 EUR) 38.90 % sconto qui:
