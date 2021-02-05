@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 16.94 % su Pentel BL2007 roller EnerGel Philography  '
-date: 2021-02-04 03:58:10
+date: 2021-02-05 04:45:39
 image: 'https://m.media-amazon.com/images/I/318AYxTrlpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ average: '19.52'
 
 - Ricaricabile con refill lr7
 - Meccanismo di fuoriuscita della punta a rotazione
+- Fusto in metallo
 - Fornita in elegante astuccio
 - Inchiostro energel, asciuga subito e non macchia
-- Fusto in metallo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DR1F31H/?tag=tolees00-21)

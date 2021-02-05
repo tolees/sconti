@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 31.46 % su Levi s Graphic Tee B Maglia a Maniche Lu  '
-date: 2021-02-04 04:09:23
+date: 2021-02-05 04:34:48
 image: 'https://m.media-amazon.com/images/I/31yWcYFen5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ average: '23.99'
 ℹ️:
 
 - Indossa il nostro classico capo a maniche lunghe con un taglio standard
-- Materiale non elasticizzato
 - Intramontabile logo Levis stampato
+- Materiale non elasticizzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076Y9FNQS/?tag=tolees00-21)

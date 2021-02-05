@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 9S 64 + 4 Gb  Aurora B al 30.42 % di sconto'
-date: 2021-02-04 04:03:39
+date: 2021-02-05 04:46:59
 image: 'https://m.media-amazon.com/images/I/31Lpafq0wuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B085WB24LR/?tag=tolees00-21'
 descuento: '30.42'
-average: '159.953333333333'
+average: '159.9575'
 ---
 
 Puoi trovare [Xiaomi Redmi Note 9S 64 + 4 Gb  Aurora Blue](https://www.amazon.it/dp/B085WB24LR/?tag=tolees00-21) con il prezzo 159.97 EUR (originale: 229.9 EUR) 30.42 % sconto qui:
@@ -28,9 +28,9 @@ Puoi trovare [Xiaomi Redmi Note 9S 64 + 4 Gb  Aurora Blue](https://www.amazon.it
 
 ℹ️:
 
-- Sistema operativo miui 11
-- Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
 - Frequenza fino a 2.3 ghz
+- Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
 - Batteria da 5020 mAh; 18w fast charging
+- Sistema operativo miui 11
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085WB24LR/?tag=tolees00-21)
