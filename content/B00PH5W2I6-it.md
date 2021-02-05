@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Originals - Adidas Superstar J Sc al 40.00 % di sconto'
-date: 2021-02-02 09:48:07
+date: 2021-02-05 22:28:39
 image: 'https://m.media-amazon.com/images/I/31cc3Y48AbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [adidas Originals - Adidas Superstar J Scarpe da Ginnastica  Unisex
 
 ℹ️:
 
-- Scarpe sportive
 - Stile vintage
 - Tomaia in pelle
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00PH5W2I6/?tag=tolees00-21)
