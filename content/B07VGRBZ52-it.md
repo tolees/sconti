@@ -29,9 +29,9 @@ Puoi trovare [Grandi Giochi- GG01319  Calcio Quiz  Multicolore](https://www.amaz
 ℹ️:
 
 - 2 modalita di gioco: bambini (7+) ragazzi e adulti (14+)
-- Il gioco chiederà di alcuni episodi legati al mondo del calcio e i giocatori dovranno indovinare se sono veri o falsi
 - Versione Italiana
-- Per guadagnare un punto, bisognerà rispondere in maniera corretta; sbagliando la risposta, gli avversari guadagneranno un punto
+- Il gioco chiederà di alcuni episodi legati al mondo del calcio e i giocatori dovranno indovinare se sono veri o falsi
 - 500 domande tra: mondiali, europei, calcio italiano, grandi giocatori e curiosità calcistiche
+- Per guadagnare un punto, bisognerà rispondere in maniera corretta; sbagliando la risposta, gli avversari guadagneranno un punto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VGRBZ52/?tag=tolees00-21)

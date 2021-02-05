@@ -28,9 +28,9 @@ average: '30.7400000000001'
 
 ℹ️:
 
-- Spazzola rotonda da 45mm inclusa
 - Generatore di ioni per il 90% in piu per capelli liberi dalleffetto crespo
-- Colpo daria fredda per fissare la piega e funzione Turbo Boost
+- Spazzola rotonda da 45mm inclusa
 - Concentratore con design che si adatta alla forma della spazzola
+- Colpo daria fredda per fissare la piega e funzione Turbo Boost
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W34FS3Q/?tag=tolees00-21)

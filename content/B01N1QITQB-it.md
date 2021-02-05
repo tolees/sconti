@@ -28,9 +28,9 @@ average: '79.9792857142858'
 
 ℹ️:
 
+- Soletta in EVA che ammortizza e assorbe gli urti
 - Comoda fodera in mesh traspirante
 - Pregiata pelle pieno fiore proveniente da una conceria sostenibile classificata Silver da LWG
-- Soletta in EVA che ammortizza e assorbe gli urti
 - Modello stringato per la massima sicurezza
 - Collo imbottito che avvolge la caviglia
 

@@ -28,8 +28,8 @@ Puoi trovare [Joy-Con Destro Neon Rosso - Nintendo Switch](https://www.amazon.it
 
 ℹ️:
 
-- È possibile usare i due joy-con indipendentemente, Impugnando ne uno per mano, o utilizzarli insieme come se fossero un controller unico, con impugnatura joy-con (Accessorio opzionale non compreso)
 - Ogni joy-con include un accelerometro e un sensore di movimento, che permettono ai controller di eseguire movimenti indipendenti tra loro.
+- È possibile usare i due joy-con indipendentemente, Impugnando ne uno per mano, o utilizzarli insieme come se fossero un controller unico, con impugnatura joy-con (Accessorio opzionale non compreso)
 - Ognuna delle confezioni include 1 Joy Con singolo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KHFK5X4/?tag=tolees00-21)
