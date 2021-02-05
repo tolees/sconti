@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'JACK & JONES JJESHERIDAN Shirt L/S Camic al 57.51 % di sconto'
+date: 2021-02-05 07:23:15
+image: 'https://m.media-amazon.com/images/I/41NlgjMmHpL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07CCJJCW4-it JACK & JONES JJESHERIDAN Shirt L/S Camicia in Jeans Grigio...'
+sku: 'B07CCJJCW4-it'
+tags: [  ]
+actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
+comparePrice: 39.99 EUR
+prodname: 'JACK & JONES JJESHERIDAN Shirt L/S Camicia in Jeans  Grigio  Light Grey Denim Fit:Slim   Small Uomo'
+country: 'it'
+flag: '🇮🇹'
+brand: 'JACK & JONES'
+buyurl: 'https://www.amazon.it/dp/B07CCJJCW4/?tag=tolees00-21'
+descuento: '57.51'
+average: '16.99'
+---
+
+Puoi trovare [JACK & JONES JJESHERIDAN Shirt L/S Camicia in Jeans  Grigio  Light Grey Denim Fit:Slim   Small Uomo](https://www.amazon.it/dp/B07CCJJCW4/?tag=tolees00-21) con il prezzo 16.99 EUR (originale: 39.99 EUR) 57.51 % sconto qui:
+
+[![JACK & JONES JJESHERIDAN Shirt L/S Camic](https://m.media-amazon.com/images/I/41NlgjMmHpL._SL200_.jpg)](https://www.amazon.it/dp/B07CCJJCW4/?tag=tolees00-21)
+
+ℹ️:
+
+- Stagione: Primavera-Estate.
+- Articolo: 12138115 Sheridan.
+- Designer: Jack & Jones
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07CCJJCW4/?tag=tolees00-21)
