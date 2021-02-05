@@ -28,10 +28,10 @@ average: '245.318181818182'
 
 ℹ️:
 
-- Processore octa-core qualcom snapdragon 720g; 6.67 fhd+ dotdisplay
-- Sistema operativo miui 11
 - Frequenza fino a 2.3 ghz
 - NOTA! Gli auricolari non sono inclusi
+- Sistema operativo miui 11
+- Processore octa-core qualcom snapdragon 720g; 6.67 fhd+ dotdisplay
 - Batteria da 5020 mAh; 30w fast charging
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088CC6Z3Y/?tag=tolees00-21)

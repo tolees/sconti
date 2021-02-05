@@ -28,15 +28,15 @@ average: '57.7450000000001'
 
 ℹ️:
 
+- Le auto giocattolo da corsa Speed Champions sono ora più grandi del 25%; il modello Lamborghini Huracán è alto 5 cm, lungo 16 cm e largo 7 cm ed entrambe le auto hanno dimensioni ottimi
 - Questo set costruibile non richiede batterie ed è pronto per giocare non appena costruito; questi modelli di auto giocattolo sono alimentati esclusivamente dalla fantasia dei bambini
+- Le repliche LEGO della Lamborghini Huracán Super Trofeo EVO e della Lamborghini Urus ST-X vengono fornite con una linea di partenza con luci e 2 minifigure di piloti da corsa.
+- Dal 1958, i mattoncini LEGO soddisfano elevati standard del settore: sono sempre omogenei e compatibili e si montano e si smontano facilmente
 - Stai pensando di regalare questo set a un costruttore LEGO principiante? Niente paura; i mattoncini vengono forniti con istruzioni facili da seguire per iniziare immediatamente a giocare e divertirsi
 - I set di auto giocattolo LEGO Speed Champions consentono agli appassionati di corse di costruire mini-versioni delle loro auto preferite e di esporle o ricreare tutte le emozioni del circuito di gara
-- Dal 1958, i mattoncini LEGO soddisfano elevati standard del settore: sono sempre omogenei e compatibili e si montano e si smontano facilmente
-- Le repliche LEGO della Lamborghini Huracán Super Trofeo EVO e della Lamborghini Urus ST-X vengono fornite con una linea di partenza con luci e 2 minifigure di piloti da corsa.
-- Questi elementi e mattoncini LEGO sono stati sottoposti a test rigorosi e soddisfano elevati standard globali di sicurezza e qualità
-- Questo kit da 659 pezzi per la costruzione di modelli di auto Lamborghini propone una sfida appassionante ed è il regalo LEGO ottimo per tutti i bambini dagli 8 anni in su
-- Set di gioco collezionabile con 2 auto da corsa Lamborghini LEGO ricche di dettagli autentici; questo kit costruibile è ottimo per i fan delle auto da corsa che amano inscenare gare avvincenti
-- Le auto giocattolo da corsa Speed Champions sono ora più grandi del 25%; il modello Lamborghini Huracán è alto 5 cm, lungo 16 cm e largo 7 cm ed entrambe le auto hanno dimensioni ottimi
 - La Lamborghini debutta tra le LEGO Speed Champions; questo set collezionabile consente di costruire modelli di auto da esporre o utilizzare per creare storie emozionanti insieme ad altre mini-repliche
+- Questi elementi e mattoncini LEGO sono stati sottoposti a test rigorosi e soddisfano elevati standard globali di sicurezza e qualità
+- Set di gioco collezionabile con 2 auto da corsa Lamborghini LEGO ricche di dettagli autentici; questo kit costruibile è ottimo per i fan delle auto da corsa che amano inscenare gare avvincenti
+- Questo kit da 659 pezzi per la costruzione di modelli di auto Lamborghini propone una sfida appassionante ed è il regalo LEGO ottimo per tutti i bambini dagli 8 anni in su
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W6Q9G1Y/?tag=tolees00-21)

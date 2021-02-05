@@ -30,7 +30,7 @@ average: '20.3913636363637'
 
 - Capacità utilizzabile: 120 GB
 - Il CS900 SSD è la scelta migliore per gli appassionati di PC e giocatori durante laggiornamento da loro HDD lento, che offre uninstallazione semplice e relativamente a basso costo
-- Velocità di lettura sequenziale fino a 515 MB/sec e velocità di scrittura sequenziale fino a 490 MB/sec
 - Interfaccia: Serial ATA 6 Gb/s (SATA III)
+- Velocità di lettura sequenziale fino a 515 MB/sec e velocità di scrittura sequenziale fino a 490 MB/sec
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KFLH1WS/?tag=tolees00-21)
