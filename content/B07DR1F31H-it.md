@@ -28,10 +28,10 @@ average: '19.52'
 
 ℹ️:
 
+- Fornita in elegante astuccio
 - Ricaricabile con refill lr7
+- Inchiostro energel, asciuga subito e non macchia
 - Meccanismo di fuoriuscita della punta a rotazione
 - Fusto in metallo
-- Fornita in elegante astuccio
-- Inchiostro energel, asciuga subito e non macchia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DR1F31H/?tag=tolees00-21)

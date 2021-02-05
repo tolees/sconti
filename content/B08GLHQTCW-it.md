@@ -28,8 +28,8 @@ Puoi trovare [DYNIT - Weathering With You  Collector S Edition   2 Blu-Ray+Dvd+C
 
 ℹ️:
 
+- Cofanetto combo
 - Limitato
 - Numerato
-- Cofanetto combo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GLHQTCW/?tag=tolees00-21)

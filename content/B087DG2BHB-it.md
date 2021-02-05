@@ -28,11 +28,11 @@ Puoi trovare [Samsung Memorie T7 MU-PC500H SSD Esterno Portatile da 500 GB  USB 
 
 ℹ️:
 
-- Cavi inclusi nella confezione: USB tipo C a C, USB Tipo C a A
-- Velocità di trasferimento fino a 1.050 MB/s, 9.5x volte più veloce di un HDD tradizionale
-- Sicurezza: protezione con password opzionale e encription hardware AES 256 bit
 - Durevole: la scocca in metallo del T7 permette di sopportare cadute fino a 2 m di altezza
+- Sicurezza: protezione con password opzionale e encription hardware AES 256 bit
+- Velocità di trasferimento fino a 1.050 MB/s, 9.5x volte più veloce di un HDD tradizionale
 - Sistemi operativi supportati: Windows 7 e successivi, Mac OS X 10.10 e successivi, Android 5.1 (Lollipop) e successivi; versioni precedenti di Windows, Mac, e Android potrebbero non essere supportate
 - Interfaccia: USB 3.2 Gen 2 (fino a 10 Gbps), retrocompatibile
+- Cavi inclusi nella confezione: USB tipo C a C, USB Tipo C a A
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087DG2BHB/?tag=tolees00-21)
