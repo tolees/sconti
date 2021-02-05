@@ -29,7 +29,7 @@ average: '16.99'
 ℹ️:
 
 - Articolo: 12138115 Sheridan.
-- Stagione: Primavera-Estate.
 - Designer: Jack & Jones
+- Stagione: Primavera-Estate.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C61C7CW/?tag=tolees00-21)

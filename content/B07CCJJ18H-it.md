@@ -28,8 +28,8 @@ Puoi trovare [JACK & JONES JJESHERIDAN Shirt L/S Camicia in Jeans  Grigio  Light
 
 ℹ️:
 
-- Articolo: 12138115 Sheridan.
 - Stagione: Primavera-Estate.
 - Designer: Jack & Jones
+- Articolo: 12138115 Sheridan.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CCJJ18H/?tag=tolees00-21)

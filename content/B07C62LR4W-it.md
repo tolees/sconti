@@ -28,8 +28,8 @@ Puoi trovare [JACK & JONES JJESHERIDAN Shirt L/S Camicia in Jeans  Nero  Black D
 
 ℹ️:
 
-- Designer: Jack & Jones
 - Stagione: Primavera-Estate.
+- Designer: Jack & Jones
 - Articolo: 12138115 Sheridan.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C62LR4W/?tag=tolees00-21)

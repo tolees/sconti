@@ -28,8 +28,8 @@ Puoi trovare [JACK & JONES JJESHERIDAN Shirt L/S Camicia in Jeans  Blu  Medium B
 
 ℹ️:
 
+- Stagione: Primavera-Estate.
 - Designer: Jack & Jones
 - Articolo: 12138115 Sheridan.
-- Stagione: Primavera-Estate.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C61PK4R/?tag=tolees00-21)
