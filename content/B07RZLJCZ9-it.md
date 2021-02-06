@@ -28,9 +28,9 @@ average: '60.0'
 
 ℹ️:
 
-- Denim elasticizzato
-- Jeans aderenti sui fianchi e stretti dal ginocchio alla caviglia
-- Aderenti sui glutei e sulle cosce
 - Cinque tasche
+- Denim elasticizzato
+- Aderenti sui glutei e sulle cosce
+- Jeans aderenti sui fianchi e stretti dal ginocchio alla caviglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RZLJCZ9/?tag=tolees00-21)
