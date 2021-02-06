@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 21.16 % su Brooks Ghost 13  Scarpe da Corsa Uomo  B  '
-date: 2021-02-05 10:05:57
+date: 2021-02-06 16:42:24
 image: 'https://m.media-amazon.com/images/I/4110G5SCp3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Brooks'
 buyurl: 'https://www.amazon.it/dp/B0842NSMV3/?tag=tolees00-21'
 descuento: '21.16'
-average: '110.46'
+average: '110.442'
 ---
 
 [Brooks Ghost 13  Scarpe da Corsa Uomo  Black/Nightlife/White  43 EU](https://www.amazon.it/dp/B0842NSMV3/?tag=tolees00-21) ha un prezzo di 110.37 EUR (originale: 140.0 EUR) con uno sconto del 21.16 % sconto qui:
@@ -28,8 +28,8 @@ average: '110.46'
 
 ℹ️:
 
-- Ammortizzazione morbida ed equilibrata
-- Tomaia in rete
 - Scarpe da running
+- Tomaia in rete
+- Ammortizzazione morbida ed equilibrata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0842NSMV3/?tag=tolees00-21)

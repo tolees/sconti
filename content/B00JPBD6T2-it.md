@@ -29,8 +29,8 @@ Puoi trovare [Tognana Iris Breakfast Home  Porcellana](https://www.amazon.it/dp/
 ℹ️:
 
 - Tazzine capacità 210 cc; diametro piattini 15 cm
-- Possono essere lavate in lavastoviglie, senza comprometterne lestetica
 - Quattro tazze cappuccino con piattino in porcellana con decorazione a contrasto
 - Resistenti al forno a microonde
+- Possono essere lavate in lavastoviglie, senza comprometterne lestetica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00JPBD6T2/?tag=tolees00-21)

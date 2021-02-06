@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Eton Cc Flap And Coin Poc al 29.91 % di sconto'
-date: 2021-02-05 04:48:28
+date: 2021-02-06 16:31:19
 image: 'https://m.media-amazon.com/images/I/41uJ+lr7BuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.it/dp/B00X0W9Y6Q/?tag=tolees00-21'
 descuento: '29.91'
-average: '52.634'
+average: '52.0266666666667'
 ---
 
 Puoi trovare [Tommy Hilfiger Eton Cc Flap And Coin Pocket Porta Carte di Credito  75 cm  Nero](https://www.amazon.it/dp/B00X0W9Y6Q/?tag=tolees00-21) con il prezzo 48.99 EUR (originale: 69.9 EUR) 29.91 % sconto qui:
