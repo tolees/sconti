@@ -30,8 +30,8 @@ average: '26.01'
 
 - Adjustable HeatGear shoulder straps for extra comfort
 - Soft-lined laptop sleeve—holds up to 15" MacBook Pro or similarly sized laptop
-- Large, gusseted front laundry/shoe pocket placed at bottom of bag
 - UA Storm technology delivers an element-battling, highly water-resistant finish
+- Large, gusseted front laundry/shoe pocket placed at bottom of bag
 - Two water-repellent front valuables pockets to keep your stuff safe
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J3D5B9J/?tag=tolees00-21)
