@@ -28,10 +28,10 @@ average: '766.216666666667'
 
 ℹ️:
 
+- Tipologia: qled smart TV da 55"
 - connectivity_technology: Wireless, Alexa integrata
 - Processore quantum 4k: il potente processore che trasforma contenuti di ogni sorgente nella risoluzione 4k per unesperienza davvero immersiva
 - Luminosità adattiva con ia: lintelligenza artificiale regola la luminosità in base allambiente, per colori e contrasti ottimi
-- Tipologia: qled smart TV da 55"
 - Quantum hdr con dual LED: una retroilluminazione LED per colori più intensi e contrasti sempre più profondi
 - La serie q74 è una variante di colore silver della serie q70 a cui aggiunge il telecomando premium metal one remote [esclusiva ]
 

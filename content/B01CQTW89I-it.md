@@ -28,9 +28,9 @@ average: '35.25'
 
 ℹ️:
 
-- Vivi le avventure di Oceania con Vaiana vestita con abiti e accessori polinesiani
-- Bambola 35 centimetri
-- Royal Reflection eye: i suoi occhi splendono
 - Include un fiore per capelli che puoi indossare anche tu
+- Royal Reflection eye: i suoi occhi splendono
+- Bambola 35 centimetri
+- Vivi le avventure di Oceania con Vaiana vestita con abiti e accessori polinesiani
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CQTW89I/?tag=tolees00-21)

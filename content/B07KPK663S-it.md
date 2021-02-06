@@ -28,9 +28,9 @@ average: '22.8926666666667'
 
 ℹ️:
 
-- Game of thrones s10
 - Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Jon snow sitting on iron throne
+- Game of thrones s10
 - Pop! deluxe
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KPK663S/?tag=tolees00-21)

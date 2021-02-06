@@ -28,8 +28,8 @@ Puoi trovare [adidas Originals - Adidas Superstar J Scarpe da Ginnastica  Unisex
 
 ℹ️:
 
+- Scarpe sportive
 - Stile vintage
 - Tomaia in pelle
-- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00PH5W2I6/?tag=tolees00-21)

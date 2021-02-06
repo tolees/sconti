@@ -29,8 +29,8 @@ average: '12.28'
 ℹ️:
 
 - Età massima consigliata dal produttore: 1188.0
+- Uniconica statuina Funko Pop Vinyl della serie My Hero Academia
 - Toga w/Face Cover e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Scopri tutte le altre statuine My Hero Academia di Funko e collezionale tutte
-- Uniconica statuina Funko Pop Vinyl della serie My Hero Academia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083MDC5D1/?tag=tolees00-21)
