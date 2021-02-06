@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 34.92 % su Universal - Serpico  Blu-Ray   '
-date: 2021-02-05 04:22:52
+date: 2021-02-06 04:48:59
 image: 'https://m.media-amazon.com/images/I/41+1iWI-GrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '5.2'
 
 ℹ️:
 
+- Novità
 - Universal
 - Cult
-- Novità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JYRGV97/?tag=tolees00-21)

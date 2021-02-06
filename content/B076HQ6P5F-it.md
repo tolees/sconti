@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 27.53 % su Adidas Core 18 HDE  Felpa con Cappuccio   '
-date: 2021-02-05 04:24:57
+date: 2021-02-06 04:46:34
 image: 'https://m.media-amazon.com/images/I/51xLpVqJoPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'adidas'
 buyurl: 'https://www.amazon.it/dp/B076HQ6P5F/?tag=tolees00-21'
 descuento: '27.53'
-average: '27.555'
+average: '27.6845454545454'
 ---
 
 [Adidas Core 18 HDE  Felpa con Cappuccio Uomo  Grigio  Dark Grey Heather/Black   L](https://www.amazon.it/dp/B076HQ6P5F/?tag=tolees00-21) ha un prezzo di 28.98 EUR (originale: 39.99 EUR) con uno sconto del 27.53 % sconto qui:
@@ -28,8 +28,8 @@ average: '27.555'
 
 ℹ️:
 
-- Dark grey heather/black
-- Adidas apparel
 - Core18 hoody
+- Adidas apparel
+- Dark grey heather/black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQ6P5F/?tag=tolees00-21)
