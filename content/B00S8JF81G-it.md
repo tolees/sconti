@@ -28,13 +28,13 @@ average: '7.99'
 
 ℹ️:
 
-- Tabellone; Base per spinner; Freccia spinner; 16 geIoni tondi; 12 coccarde; 27 carte speciali; 4 birilotti
-- Laritmetica non è mai stata così divertente
-- Prevede 3 modalità di gioco in base alletà!
-- Un gioco di percorso a quiz per divertirsi e imparare con laritmetica.
-- Grazie ai tre livelli di gioco suddicisi per difficoltà, anche i bambini più piccoli potranno giocare con laritmetica
-- I concorrenti avanzano sul tabellone rispondendo ai quiz e superando i simpatici minigiochi sulle tabelline
-- Le domande, basate sui programmi della scuola primaria, riguardano le quattro operazioni e tanti simpatici "problemini"!
 - Tabelline e problemini è un ioco di percorso a quiz sullaritmetica basato sui programmi della scuola primaria
+- I concorrenti avanzano sul tabellone rispondendo ai quiz e superando i simpatici minigiochi sulle tabelline
+- Prevede 3 modalità di gioco in base alletà!
+- Tabellone; Base per spinner; Freccia spinner; 16 geIoni tondi; 12 coccarde; 27 carte speciali; 4 birilotti
+- Grazie ai tre livelli di gioco suddicisi per difficoltà, anche i bambini più piccoli potranno giocare con laritmetica
+- Le domande, basate sui programmi della scuola primaria, riguardano le quattro operazioni e tanti simpatici "problemini"!
+- Laritmetica non è mai stata così divertente
+- Un gioco di percorso a quiz per divertirsi e imparare con laritmetica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S8JF81G/?tag=tolees00-21)

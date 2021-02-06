@@ -28,11 +28,11 @@ Puoi trovare [Giochi Uniti GU636 Talisman - Quarta Edizione](https://www.amazon.
 
 ℹ️:
 
-- 4 ° Edizione riveduta
-- Adatto a partire dai 9+
-- Per 2-6 giocatori
 - Tempo di gioco 90 minuti
+- 4 ° Edizione riveduta
+- Per 2-6 giocatori
 - Versione Italiana
+- Adatto a partire dai 9+
 - 15 personaggi tra cui scegliere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JVVN2RQ/?tag=tolees00-21)
