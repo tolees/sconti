@@ -29,9 +29,9 @@ average: '27.96'
 ℹ️:
 
 - Progettato come un portachiavi per prevenire la perdita
+- Compatibile con USB Gen. 3.1 e versioni precedenti
 - Unità flash mobile per archiviazione estesa e trasferimenti di file semplici tra smartphone, tablet e PC
 - Proteggi i tuoi dati con 4 livelli di protezione: acqua, campi magnetici, alte temperature e urti
 - Velocità di lettura fino a 400 MB/s, le performance possono variare in base alla capacità
-- Compatibile con USB Gen. 3.1 e versioni precedenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HPZ9ZDF/?tag=tolees00-21)

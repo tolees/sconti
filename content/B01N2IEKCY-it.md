@@ -28,8 +28,8 @@ Puoi trovare [Vans Ward  Sneaker  Suede/Canvas Black/White Iju  38.5 EU](https:/
 
 ℹ️:
 
-- Materiale esterno: pelle
-- Fodera: tessuto
 - Chiusura: stringata
+- Fodera: tessuto
+- Materiale esterno: pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N2IEKCY/?tag=tolees00-21)

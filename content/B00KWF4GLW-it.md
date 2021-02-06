@@ -28,10 +28,10 @@ Puoi trovare [Columbia Woodburn II Scarpe impermeabili da uomo](https://www.amaz
 
 ℹ️:
 
-- Tipo di tacco: senza tacco
-- Materiale esterno: pelle
-- Tipo di chiusura: stringata
 - Materiale suola: gomma
+- Tipo di tacco: senza tacco
+- Tipo di chiusura: stringata
+- Materiale esterno: pelle
 - Fodera: sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KWF4GLW/?tag=tolees00-21)
