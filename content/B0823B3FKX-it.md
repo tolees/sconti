@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'sconto del 46.70 % su Levi s Housemark Graphic Tee T-Shirt  Ss  '
+date: 2021-02-06 09:09:41
+image: 'https://m.media-amazon.com/images/I/314fCcwRspL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B0823B3FKX-it Levi s Housemark Graphic Tee T-Shirt Ssnl HM Outline Jet...'
+sku: 'B0823B3FKX-it'
+tags: [  ]
+actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
+comparePrice: 30.0 EUR
+prodname: 'Levi s Housemark Graphic Tee T-Shirt  Ssnl HM Outline Jet Black  XXX-Large Uomo'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Levis'
+buyurl: 'https://www.amazon.it/dp/B0823B3FKX/?tag=tolees00-21'
+descuento: '46.70'
+average: '15.99'
+---
+
+[Levi s Housemark Graphic Tee T-Shirt  Ssnl HM Outline Jet Black  XXX-Large Uomo](https://www.amazon.it/dp/B0823B3FKX/?tag=tolees00-21) ha un prezzo di 15.99 EUR (originale: 30.0 EUR) con uno sconto del 46.70 % sconto qui:
+
+[![Levi s Housemark Graphic Tee T-Shirt  Ss](https://m.media-amazon.com/images/I/314fCcwRspL._SL200_.jpg)](https://www.amazon.it/dp/B0823B3FKX/?tag=tolees00-21)
+
+ℹ️:
+
+- Housemark Graphic Tee
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0823B3FKX/?tag=tolees00-21)

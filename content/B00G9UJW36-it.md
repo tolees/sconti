@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL-70200G Teleobiettivo con Zoom 7 al 25.35 % di sconto'
-date: 2021-02-05 10:32:19
+date: 2021-02-06 10:48:12
 image: 'https://m.media-amazon.com/images/I/41w5fWjHHJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B00G9UJW36/?tag=tolees00-21'
 descuento: '25.35'
-average: '1222.17142857143'
+average: '1232.57777777778'
 ---
 
 Puoi trovare [Sony SEL-70200G Teleobiettivo con Zoom 70-200 mm F4  Serie G  Stabilizzatore Ottico  Mirrorless Full-Frame  Attacco E  SEL70200G](https://www.amazon.it/dp/B00G9UJW36/?tag=tolees00-21) con il prezzo 1269.0 EUR (originale: 1700.0 EUR) 25.35 % sconto qui:
@@ -28,12 +28,12 @@ Puoi trovare [Sony SEL-70200G Teleobiettivo con Zoom 70-200 mm F4  Serie G  Stab
 
 ℹ️:
 
-- Il meccanismo di messa a fuoco silenzioso e fluido la rende unottica ottima per riprese video, azioni rapide e situazioni in cui bisogna cambiare messa a fuoco in modo veloce e frequente
-- Design resistente a polvere e umidità
 - Teleobiettivo con Zoom 70-200 mm F4 costante, serie G per fotocamere Sony Alpha con sensore Full-Frame
-- Messa a fuoco rapida e precisa grazie al Dual Linear Motor, comandi esterni: pulsante di blocco della messa a fuoco, limitatore della gamma di messa a fuoco, switch AF/MF
-- Dimensioni (L x A): 80 x 175 mm , peso: 840 g
+- Design resistente a polvere e umidità
 - Paraluce: ALC-SH133
 - Stabilizzazione dellimmagine con SteadyShot Ottico (OSS)
+- Il meccanismo di messa a fuoco silenzioso e fluido la rende unottica ottima per riprese video, azioni rapide e situazioni in cui bisogna cambiare messa a fuoco in modo veloce e frequente
+- Dimensioni (L x A): 80 x 175 mm , peso: 840 g
+- Messa a fuoco rapida e precisa grazie al Dual Linear Motor, comandi esterni: pulsante di blocco della messa a fuoco, limitatore della gamma di messa a fuoco, switch AF/MF
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00G9UJW36/?tag=tolees00-21)

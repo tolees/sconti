@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.01 % su EA - Need for Speed Hot Pursuit Remaster  '
-date: 2021-02-05 10:09:49
+date: 2021-02-06 10:29:35
 image: 'https://m.media-amazon.com/images/I/512w7Z-qFsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'EA'
 buyurl: 'https://www.amazon.it/dp/B08KR47VF7/?tag=tolees00-21'
 descuento: '40.01'
-average: '29.0515384615384'
+average: '28.864074074074'
 ---
 
 [EA - Need for Speed Hot Pursuit Remastered - Nintendo Switch](https://www.amazon.it/dp/B08KR47VF7/?tag=tolees00-21) ha un prezzo di 23.99 EUR (originale: 39.99 EUR) con uno sconto del 40.01 % sconto qui:
@@ -28,9 +28,9 @@ average: '29.0515384615384'
 
 ℹ️:
 
+- Comprende tutti i contenuti scaricabili principali e altri aggiornamenti
+- Insegui e scappa
 - È il momento di scaldare i motori in Need for Speed Hot Pursuit Remastered
 - Multigiocatore multipiattaforma e Autolog
-- Insegui e scappa
-- Comprende tutti i contenuti scaricabili principali e altri aggiornamenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KR47VF7/?tag=tolees00-21)

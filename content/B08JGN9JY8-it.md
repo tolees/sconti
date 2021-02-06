@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OUKITEL C21  2020  Smartphone 4G  6.4inc al 15.00 % di sconto'
-date: 2021-02-05 04:34:40
+date: 2021-02-06 10:59:55
 image: 'https://m.media-amazon.com/images/I/516FvIjPVAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'OUKITEL'
 buyurl: 'https://www.amazon.it/dp/B08JGN9JY8/?tag=tolees00-21'
 descuento: '15.00'
-average: '144.4775'
+average: '143.668571428571'
 ---
 
 Puoi trovare [OUKITEL C21  2020  Smartphone 4G  6.4inch FHD+  4000mAh Batteria Cellulari Offerte  256GB Espandibili Cellulare  Sblocco Viso  16MP+20MP  64GB ROM  Dual SIM Telefoni Cellulari  nero ](https://www.amazon.it/dp/B08JGN9JY8/?tag=tolees00-21) con il prezzo 127.49 EUR (originale: 149.99 EUR) 15.00 % sconto qui:
@@ -29,9 +29,9 @@ Puoi trovare [OUKITEL C21  2020  Smartphone 4G  6.4inch FHD+  4000mAh Batteria C
 ℹ️:
 
 - 6.41080 * 2310 FHD + display punzonatura smartphone
-- Fotocamere professionali, massima velocità
-- OUKITEL C21 Helio P60 Octa Core Processore
 - Selfie AI 20MP Fotocamera quadrupla da 16 MP
+- Fotocamere professionali, massima velocità
 - Scheda SIM: doppia SIM, doppio standby
+- OUKITEL C21 Helio P60 Octa Core Processore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JGN9JY8/?tag=tolees00-21)

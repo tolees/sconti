@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 19.81 % su Saucony Originals - Scarpe Jazz Saucony   '
-date: 2021-02-05 10:27:37
+date: 2021-02-06 10:39:12
 image: 'https://m.media-amazon.com/images/I/31mPdcMLSzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Saucony Originals'
 buyurl: 'https://www.amazon.it/dp/B078K1SWCJ/?tag=tolees00-21'
 descuento: '19.81'
-average: '81.1142857142857'
+average: '81.8'
 ---
 
 [Saucony Originals - Scarpe Jazz Saucony Original 449 Blk/Wht  42 MainApps](https://www.amazon.it/dp/B078K1SWCJ/?tag=tolees00-21) ha un prezzo di 84.2 EUR (originale: 105.0 EUR) con uno sconto del 19.81 % sconto qui:
@@ -28,10 +28,10 @@ average: '81.1142857142857'
 
 ℹ️:
 
-- scarpe moda uomo
-- suola in gomma al carbonio
-- scarpa running retro
 - profili in pelle scamosciata
+- scarpa running retro
+- scarpe moda uomo
 - tomaia in mesh traspirante
+- suola in gomma al carbonio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078K1SWCJ/?tag=tolees00-21)

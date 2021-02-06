@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 26.67 % su Seagate Technology - Seagate Game Drive   '
-date: 2021-02-05 04:15:18
+date: 2021-02-06 10:26:02
 image: 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Seagate Technology'
 buyurl: 'https://www.amazon.it/dp/B07PPNSFBK/?tag=tolees00-21'
 descuento: '26.67'
-average: '79.5254320987654'
+average: '79.4643373493975'
 ---
 
 [Seagate Technology - Seagate Game Drive per PS4  Unità Disco Esterna Portatile da 2 TB  Compatibile con PS4  STGD2000200 ](https://www.amazon.it/dp/B07PPNSFBK/?tag=tolees00-21) ha un prezzo di 76.99 EUR (originale: 104.99 EUR) con uno sconto del 26.67 % sconto qui:
