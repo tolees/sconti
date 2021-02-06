@@ -28,10 +28,10 @@ Puoi trovare [Note D Espresso Espresso Bar Miscela di Caffè Torrefatto in Capsu
 
 ℹ️:
 
-- Lo squisito sapore e aroma del caffè in pratiche capsule da 7 g
 - esclusivamente Compatibili con le macchine a capsule Nescafé* e Dolce Gusto* (* Non registrato su Amazon EU S.a.r.l.)
-- Pratico formato da 48 capsule
-- Caffè 100% naturale tostato in Italia
 - Dose raccomandata di acqua 40 ml
+- Caffè 100% naturale tostato in Italia
+- Pratico formato da 48 capsule
+- Lo squisito sapore e aroma del caffè in pratiche capsule da 7 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X25V8PK/?tag=tolees00-21)
