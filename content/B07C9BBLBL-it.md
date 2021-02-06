@@ -30,8 +30,8 @@ average: '179.99'
 
 - Porta in vetro
 - 6 ripiani + 2 portabottiglie
-- Capacità 41 bottiglie da 0,75 l (bottiglie bordolesi)
-- Intervallo temperatura da 7 a 18 gradi
 - Cantinetta vino
+- Intervallo temperatura da 7 a 18 gradi
+- Capacità 41 bottiglie da 0,75 l (bottiglie bordolesi)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C9BBLBL/?tag=tolees00-21)

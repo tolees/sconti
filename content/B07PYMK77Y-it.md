@@ -1,39 +1,39 @@
 ---
 layout: post
-title: 'sconto del 27.38 % su Apple AirPods con custodia di ricarica c  '
-date: 2021-01-10 18:56:18
+title: 'sconto del 27.44 % su Apple AirPods con custodia di ricarica t  '
+date: 2021-02-06 14:20:49
 image: 'https://m.media-amazon.com/images/I/31jBnwWr91L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYMK77Y-it'
-actualPrice: 129.99 EUR
+slug: 'B07PYMK77Y-it Apple AirPods con custodia di ricarica tramite cavo'
+sku: 'B07PYMK77Y-it'
+tags: [  ]
+actualPrice: 129.89 EUR
 currency: EUR
-price: 129.99
+price: 129.89
 comparePrice: 179.0 EUR
-prodname: 'Apple AirPods con custodia di ricarica con cavo  seconda generazione '
+prodname: 'Apple AirPods con custodia di ricarica tramite cavo'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Apple'
 buyurl: 'https://www.amazon.it/dp/B07PYMK77Y/?tag=tolees00-21'
-descuento: '27.38'
-average: '127.43608695652173'
+descuento: '27.44'
+average: '127.538333333333'
 ---
 
-[Apple AirPods con custodia di ricarica con cavo  seconda generazione ](https://www.amazon.it/dp/B07PYMK77Y/?tag=tolees00-21) ha un prezzo di 129.99 EUR (originale: 179.0 EUR) con uno sconto del 27.38 % sconto qui:
+[Apple AirPods con custodia di ricarica tramite cavo](https://www.amazon.it/dp/B07PYMK77Y/?tag=tolees00-21) ha un prezzo di 129.89 EUR (originale: 179.0 EUR) con uno sconto del 27.44 % sconto qui:
 
-[![Apple AirPods con custodia di ricarica c](https://m.media-amazon.com/images/I/31jBnwWr91L._SL200_.jpg)](https://www.amazon.it/dp/B07PYMK77Y/?tag=tolees00-21)
+[![Apple AirPods con custodia di ricarica t](https://m.media-amazon.com/images/I/31jBnwWr91L._SL200_.jpg)](https://www.amazon.it/dp/B07PYMK77Y/?tag=tolees00-21)
 
 ℹ️:
 
-- Ti basta un doppio tap per far partire un brano o passare a quello successivo
-- Siri si attiva in un attimo, basta dire “Ehi Siri”
-- Si configurano facilmente con tutti i tuoi dispositivi Apple
-- Il passaggio del suono da un dispositivo a un altro è immediato
-- Gli AirPods si ricaricano velocemente nella custodia
-- La custodia si ricarica tramite connettore Lightning
-- Si accendono automaticamente e si collegano all’istante
-- Il nuovo chip Apple H1 garantisce connessioni wireless più rapide ai tuoi dispositivi
-- Con la custodia puoi ricaricare gli AirPods più volte e avere un giorno intero di autonomia
-- Audio e voce sono di alta qualità
+- Custodia di ricarica per oltre 24 ore di autonomia
+- Attivazione rapida di Siri con il comando “Ehi Siri”
+- Setup semplicissimo su tutti i dispositivi Apple
+- Taglia unica, comodi da indossare tutto ilgiorno
+- La custodia si ricarica sia in wireless, usando un caricabatterie certificato Qi, sia tramite connettore Lightning
+- Si accendono automaticamente esicollegano all’istante
+- Connessione istantanea anche da un dispositivo all’altro
 
-[Acquista qui!!](https://www.amazon.it/dp/B07PYMK77Y/?tag=tolees00-21)
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PYMK77Y/?tag=tolees00-21)
