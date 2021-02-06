@@ -28,8 +28,8 @@ average: '5.2'
 
 ℹ️:
 
+- Cult
 - Universal
 - Novità
-- Cult
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JYRGV97/?tag=tolees00-21)
