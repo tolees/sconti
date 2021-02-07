@@ -29,7 +29,7 @@ Puoi trovare [KS Tools 116.2000 Chiave per Pilette  161 mm](https://www.amazon.i
 ℹ️:
 
 - Eclass-No. 21043010
-- EAN-Code 4042146015063
 - Numero di tariffa doganale 8203 4000
+- EAN-Code 4042146015063
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001NYUX54/?tag=tolees00-21)
