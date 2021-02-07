@@ -29,8 +29,8 @@ Puoi trovare [Startech.Com Cavo di Prolunga USB per Desktop 1.5 M  a Maschio ad 
 ℹ️:
 
 - Prodotto di ottima qualità
-- Velocità massima di trasferimento dati: 480 Mbit/s
 - Lunghezza cavo: 1.5 m
+- Velocità massima di trasferimento dati: 480 Mbit/s
 - Con due connettori USB A
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001K9BFB8/?tag=tolees00-21)

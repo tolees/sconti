@@ -29,9 +29,9 @@ Puoi trovare [Einhell GCEM1030 Tagliaerba Elettrico](https://www.amazon.it/dp/B0
 ℹ️:
 
 - Colore del prodotto: rosso
-- Velocità di rotazione: 3400 giri/min
 - Tensione di ingresso AC: 220-240
 - Peso del prodotto: 11.2 kg
+- Velocità di rotazione: 3400 giri/min
 - Potenza: 1000 W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UB70K8Y/?tag=tolees00-21)
