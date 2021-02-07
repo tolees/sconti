@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Casio Orologio Analogico al Quarzo Uomo  al 51.07 % di sconto'
-date: 2020-08-04 17:07:32
+title: 'Casio Orologio Analogico al Quarzo Uomo  al 52.34 % di sconto'
+date: 2021-02-07 14:41:43
 image: 'https://m.media-amazon.com/images/I/41ngkyEvLIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,28 @@ author: ring
 slug: 'B00JOBHGQW-it Casio Orologio Analogico al Quarzo Uomo con Cinturino in...'
 sku: 'B00JOBHGQW-it'
 tags: [  ]
-actualPrice: 30.99 EUR
+actualPrice: 30.19 EUR
 currency: EUR
-price: 30.99
+price: 30.19
 comparePrice: 63.34 EUR
 prodname: 'Casio Orologio Analogico al Quarzo Uomo con Cinturino in Nylon MTP-1314PL-8AVEF'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Casio'
 buyurl: 'https://www.amazon.it/dp/B00JOBHGQW/?tag=tolees00-21'
-descuento: '51.07'
-average: '30.99'
+descuento: '52.34'
+average: '30.59'
 ---
 
-Puoi trovare [Casio Orologio Analogico al Quarzo Uomo con Cinturino in Nylon MTP-1314PL-8AVEF](https://www.amazon.it/dp/B00JOBHGQW/?tag=tolees00-21) con il prezzo 30.99 EUR (originale: 63.34 EUR) 51.07 % sconto qui:
+Puoi trovare [Casio Orologio Analogico al Quarzo Uomo con Cinturino in Nylon MTP-1314PL-8AVEF](https://www.amazon.it/dp/B00JOBHGQW/?tag=tolees00-21) con il prezzo 30.19 EUR (originale: 63.34 EUR) 52.34 % sconto qui:
 
 [![Casio Orologio Analogico al Quarzo Uomo ](https://m.media-amazon.com/images/I/41ngkyEvLIL._SL200_.jpg)](https://www.amazon.it/dp/B00JOBHGQW/?tag=tolees00-21)
 
 ℹ️:
 
+- Resistente allacqua fino a 50 metri
+- Movimento al quarzo
+- Stile Da Sera
+- Materiale del cinturino: pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00JOBHGQW/?tag=tolees00-21)
