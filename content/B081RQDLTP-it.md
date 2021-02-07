@@ -28,10 +28,10 @@ average: '11.5833333333333'
 
 ℹ️:
 
-- Senza glutine
-- Scatola regalo da 200g 16 cioccolatini
 - Ricetta semplice con solo 8 ingredienti selezionati
 - Cioccolatini ripieni al gianduia e nocciola con una doppia copertura al cioccolato fondente
+- Scatola regalo da 200g 16 cioccolatini
+- Senza glutine
 - Gli iconici cioccolatini dallincarto stellato che custodiscono un messaggio damore e daffetto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081RQDLTP/?tag=tolees00-21)
