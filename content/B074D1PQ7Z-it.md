@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.68 % su Proraso Set Cura della Barba Azur Lime -  '
-date: 2021-02-06 12:24:43
+date: 2021-02-07 18:06:18
 image: 'https://m.media-amazon.com/images/I/51jRl3pfiGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '29.72'
 
 ℹ️:
 
-- Set per la cura della barba proraso
 - Fragranza azur lime
+- Set per la cura della barba proraso
 - Contiene: 1 shampoo barba 200ml, 1 olio da barba 30ml e un balsamo cura barba 100ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074D1PQ7Z/?tag=tolees00-21)

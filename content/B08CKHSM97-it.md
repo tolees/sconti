@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.00 % su Telecamera WiFi Esterna  Imou 1080P Tele  '
-date: 2021-02-04 12:39:15
+date: 2021-02-07 18:41:37
 image: 'https://m.media-amazon.com/images/I/41J6rMzQ1qL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
-- 【PROTEZIONE RESISTENTE ALLE INTEMPERIE & ANTIPOLVERE】: Il grado protezione certificato per l’intrusione di corpi liquidi/solidi è IP67, quindi la telecamera è ideale per l’uso esterno. Offre una registrazione continua dell’ambiente circostante a prescindere dalle condizioni atmosferiche (pioggia, sole) resistendo alla polvere.
 - 【ANTI-RUMORE & CONDIVISIONE DEGLI UTENTI】: In questa telecamera IP esterna troviamo un microfono integrato ad alta potenza che consente di ricevere i suoni in modo chiaro durante il monitoraggio , indipendentemente da dove ci troviamo. Abbiamo anche la possibilità di condividere il video con la nostra famiglia e con gli amici(Massimo 6 persone).
-- 【ARCHIVIAZIONE FLESSIBILE SU CLOUD & SHEDA SD SICURA 】: Le immagini e i video nella telecamera di sorveglianza possono essere archiviati su Cloud o scheda SD, non ci preoccupiamo della scoperta dei dati e privacy, i quali sono salvaguardati in modo sicuro.
 - 【INTELLIGENZA ARTIFICIALE RILEVAZIONE UMANA】: Gli algoritmi avanzati opzionali possono riconoscere il corpo umano da altri movimenti, eliminando notevolmente i falsi allarmi innescati da insetti volanti, animali domestici e luci e inviando immediatamente notifiche al telefono, consentendoti di concentrarti solo su ciò che conta.
+- 【PROTEZIONE RESISTENTE ALLE INTEMPERIE & ANTIPOLVERE】: Il grado protezione certificato per l’intrusione di corpi liquidi/solidi è IP67, quindi la telecamera è ideale per l’uso esterno. Offre una registrazione continua dell’ambiente circostante a prescindere dalle condizioni atmosferiche (pioggia, sole) resistendo alla polvere.
+- 【ARCHIVIAZIONE FLESSIBILE SU CLOUD & SHEDA SD SICURA 】: Le immagini e i video nella telecamera di sorveglianza possono essere archiviati su Cloud o scheda SD, non ci preoccupiamo della scoperta dei dati e privacy, i quali sono salvaguardati in modo sicuro.
 - 【1080P VISIONE NOTTURNA & SPLENDITA QUALITÀ DI VIDEO】 : Questa telecamera wifi esterna ha l’obiettivo grandangolare di 108 °, soddisfato una visione adatta durante il monitor, e della visione notturna infrarossa(fino a 30m) e gli immagini ad alta risoluzione in 1080p, visualizzato come in pieno giorno.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CKHSM97/?tag=tolees00-21)
