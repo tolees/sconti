@@ -28,10 +28,10 @@ Puoi trovare [Giochi Uniti - Descent. Viaggi nelle Tenebre. La Tana del Drago [E
 
 ℹ️:
 
+- Espansione
+- Italiano
 - Descent
 - Fantasy
 - Kit che permette di aggiornare il proprio Descent alla II Edizione
-- Espansione
-- Italiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00D49TX4I/?tag=tolees00-21)
