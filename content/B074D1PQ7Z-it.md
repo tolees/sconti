@@ -28,8 +28,8 @@ average: '29.72'
 
 ℹ️:
 
-- Fragranza azur lime
-- Set per la cura della barba proraso
 - Contiene: 1 shampoo barba 200ml, 1 olio da barba 30ml e un balsamo cura barba 100ml
+- Set per la cura della barba proraso
+- Fragranza azur lime
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074D1PQ7Z/?tag=tolees00-21)
