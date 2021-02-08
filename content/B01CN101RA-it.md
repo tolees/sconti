@@ -28,10 +28,10 @@ average: '3.39'
 
 ℹ️:
 
-- Grazie allo speciale meccanismo di erogazione easy spray, può essere utilizzato in tutte le posizioni e garantisce una nebulizzazione ottimale
+- Ammorbidisce e rimuove gli accumuli di muco con unazione meccanica
+- Care for you spray nasale isotonico è una soluzione isotonica a base di acqua di mare
 - Lacqua di mare isotonica è ricca di oligoelementi e possiede concentrazione salina identica a quella del corpo umano, potendo così svolgere unazione meccanica di rimozione degli accumuli di muco
 - Scioglie la mucosa secca e rimuove eventuali ostacoli per la respirazione, attenuando i sintomi di congestione nasale
-- Care for you spray nasale isotonico è una soluzione isotonica a base di acqua di mare
-- Ammorbidisce e rimuove gli accumuli di muco con unazione meccanica
+- Grazie allo speciale meccanismo di erogazione easy spray, può essere utilizzato in tutte le posizioni e garantisce una nebulizzazione ottimale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CN101RA/?tag=tolees00-21)
