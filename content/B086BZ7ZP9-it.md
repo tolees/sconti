@@ -28,10 +28,10 @@ average: '8.99'
 
 ℹ️:
 
-- 【Spugna Konjac Set di 3 - Carbone di Bambù Attivate/ Tè Verde/ Spugne Bianco Naturale Konjac:】 Le spugna konjac sono adatte per tutti i tipi di pelle, in particolare per pelle sensibile e grassa
-- 【Consigli per luso: sostituire la spugna ogni 2-3 mesi per ottenere i migliori risultati:】Immergere in acqua per 10 minuti prima delluso, è meglio aggiungere lolio essenziale o il detergente preferito per viso e corpo, può ottenere una migliore pulizia ed esfoliante. Risciacqualo dopo luso, ogni spugna ha una corda, può essere conservata o appesa in un luogo fresco e ben ventilato per asciugare allaria correttamente.
 - 【100% Naturale & Vegano & Biodegradabili & Rispettose Dellambiente:】 Spugna konjac è prodotta con radice vegetale konjac naturale al 100%, prive di parabeni, solfati, sostanze chimiche o indesiderabili. Konjac Spugna viso migliora le condizioni della pelle e fornisce un tocco morbido
-- 【Pulizia Profonda & Migliora la Superficie della Pelle:】 Le spugna konjac mirane a rimuovere le tossine e le impurità, rimuovone lo sporco, lolio, il trucco regolare, i punti neri e il persistente cerotto dellacne. Luso delle spugne konjac rimuove le cellule morte della pelle promuovendo la crescita di nuova pelle
+- 【Consigli per luso: sostituire la spugna ogni 2-3 mesi per ottenere i migliori risultati:】Immergere in acqua per 10 minuti prima delluso, è meglio aggiungere lolio essenziale o il detergente preferito per viso e corpo, può ottenere una migliore pulizia ed esfoliante. Risciacqualo dopo luso, ogni spugna ha una corda, può essere conservata o appesa in un luogo fresco e ben ventilato per asciugare allaria correttamente.
 - 【Bilancia il PH della tua pelle - Abbastanza Morbido per le Pelli più Sensibili e Delicata：】Spugna konjac, naturalmente alcaline, bilancia lacidità di impurità e oli della pelle, può essere utilizzata su viso, collo e persino sulla zona molto delicata degli occhi.
+- 【Pulizia Profonda & Migliora la Superficie della Pelle:】 Le spugna konjac mirane a rimuovere le tossine e le impurità, rimuovone lo sporco, lolio, il trucco regolare, i punti neri e il persistente cerotto dellacne. Luso delle spugne konjac rimuove le cellule morte della pelle promuovendo la crescita di nuova pelle
+- 【Spugna Konjac Set di 3 - Carbone di Bambù Attivate/ Tè Verde/ Spugne Bianco Naturale Konjac:】 Le spugna konjac sono adatte per tutti i tipi di pelle, in particolare per pelle sensibile e grassa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086BZ7ZP9/?tag=tolees00-21)
