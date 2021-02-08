@@ -28,11 +28,11 @@ Puoi trovare [Philips Lighting Piantana Himroo  Lampada da Terra per Soggiorno  
 
 ℹ️:
 
-- Una lampadina attacco E27, 60 W, non inclusa
 - Design moderno ed elegante adatto per soggiorno, salotto, camera da letto
-- Questa Lampada da Terra Piantana risponde alle tendenze e agli stili di arredamento più in voga
 - Materiale: metallo, di colore bianco
+- Questa Lampada da Terra Piantana risponde alle tendenze e agli stili di arredamento più in voga
 - Tensione di rete: da 220 V a 240 V, 50-60 Hz
+- Una lampadina attacco E27, 60 W, non inclusa
 - Dimensioni: A 142 x L 22,5 x L 22,5 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016IFPMF8/?tag=tolees00-21)
