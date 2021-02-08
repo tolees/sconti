@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.01 % su SanDisk Scheda MicroSDXC UHS-I per Ninte  '
-date: 2021-02-01 07:09:31
+date: 2021-02-08 13:12:11
 image: 'https://m.media-amazon.com/images/I/51Mw7Ct5imL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.it/dp/B07QD6R5L7/?tag=tolees00-21'
 descuento: '50.01'
-average: '59.718'
+average: '58.5735294117647'
 ---
 
 [SanDisk Scheda MicroSDXC UHS-I per Nintendo Switch 256 GB  Prodotto con Licenza Nintendo  256 GB  Nuova Versione  Giallo](https://www.amazon.it/dp/B07QD6R5L7/?tag=tolees00-21) ha un prezzo di 49.99 EUR (originale: 99.99 EUR) con uno sconto del 50.01 % sconto qui:

@@ -29,12 +29,12 @@ average: '10.99'
 ℹ️:
 
 - Green Collection, Day to Night Collection e Herbal Collection, 20 bustine ciascuno
-- Questo prodotto è certificato Fair for Life
-- La selezione di tisane Pukka Herbs Le Collections ti offre la migliore selezione della range Pukka
-- Confezione completamente riciclabile
-- Ingredienti 100% biologici e di provenienza etica
-- 18 varianti diverse per gustare il meglio di Pukka
 - Tutta la varietà di tisane di cui hai bisogno, il meglio di Pukka
 - Far bollire solo lacqua di cui hai bisogno aiuta a rendere ogni tazza di tè Pukka il più sostenibile possibile
+- Ingredienti 100% biologici e di provenienza etica
+- Confezione completamente riciclabile
+- La selezione di tisane Pukka Herbs Le Collections ti offre la migliore selezione della range Pukka
+- 18 varianti diverse per gustare il meglio di Pukka
+- Questo prodotto è certificato Fair for Life
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RZ3YBFN/?tag=tolees00-21)
