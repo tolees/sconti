@@ -28,7 +28,7 @@ average: '6.99'
 
 ℹ️:
 
-- Maglietta Basic con scollo rotondo
 - Cotone biologico per il massimo comfort.
+- Maglietta Basic con scollo rotondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079CHBSNJ/?tag=tolees00-21)

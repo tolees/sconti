@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES JJEPOCKET Tee SS O-Neck Noos T-Shirt  Verde  Olive Ni
 
 ℹ️:
 
-- Cotone biologico per il massimo comfort.
 - Maglietta Basic con scollo rotondo
+- Cotone biologico per il massimo comfort.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079CD8HYG/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 60.06 % su Intex 68612 - Pompa Manuale Piccola  Ner  '
-date: 2021-02-05 08:51:11
+date: 2021-02-08 08:12:28
 image: 'https://m.media-amazon.com/images/I/414juMlP1aL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '3.99'
 
 ℹ️:
 
-- Pompa manuale piccola altezza cm 29
-- Gonfia sia spingendo che tirando
 - Con tubo per gonfiaggio e sgonfiaggio e 3 adattatori
+- Gonfia sia spingendo che tirando
+- Pompa manuale piccola altezza cm 29
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0007CQDTI/?tag=tolees00-21)
