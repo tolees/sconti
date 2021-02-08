@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 36.57 % su Samsung Galaxy Buds Live Auricolari True  '
-date: 2021-02-06 16:44:50
+title: 'sconto del 36.61 % su Samsung Galaxy Buds Live Auricolari True  '
+date: 2021-02-08 05:15:26
 image: 'https://m.media-amazon.com/images/I/31hUims7zwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,29 @@ author: ring
 slug: 'B08C5HYHYB-it Samsung Galaxy Buds Live Auricolari True Wireless Open-...'
 sku: 'B08C5HYHYB-it'
 tags: [  ]
-actualPrice: 119.89 EUR
+actualPrice: 119.8 EUR
 currency: EUR
-price: 119.89
+price: 119.8
 comparePrice: 189.0 EUR
 prodname: 'Samsung Galaxy Buds Live Auricolari True Wireless Open-type senza toppi In-Ear  Tre Microfoni  Controlli Touch  Ricarica Wireless  Cancellazione attiva del rumore  Mystic Black [Versione Italiana]'
 country: 'it'
 flag: '🇮🇹'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.it/dp/B08C5HYHYB/?tag=tolees00-21'
-descuento: '36.57'
-average: '128.651428571429'
+descuento: '36.61'
+average: '128.496140350878'
 ---
 
-[Samsung Galaxy Buds Live Auricolari True Wireless Open-type senza toppi In-Ear  Tre Microfoni  Controlli Touch  Ricarica Wireless  Cancellazione attiva del rumore  Mystic Black [Versione Italiana]](https://www.amazon.it/dp/B08C5HYHYB/?tag=tolees00-21) ha un prezzo di 119.89 EUR (originale: 189.0 EUR) con uno sconto del 36.57 % sconto qui:
+[Samsung Galaxy Buds Live Auricolari True Wireless Open-type senza toppi In-Ear  Tre Microfoni  Controlli Touch  Ricarica Wireless  Cancellazione attiva del rumore  Mystic Black [Versione Italiana]](https://www.amazon.it/dp/B08C5HYHYB/?tag=tolees00-21) ha un prezzo di 119.8 EUR (originale: 189.0 EUR) con uno sconto del 36.61 % sconto qui:
 
 [![Samsung Galaxy Buds Live Auricolari True](https://m.media-amazon.com/images/I/31hUims7zwL._SL200_.jpg)](https://www.amazon.it/dp/B08C5HYHYB/?tag=tolees00-21)
 
 ℹ️:
 
-- Alcuni semplici tocchi sugli auricolari e puoi scorrere la tua playlist, rispondere alle chiamate e regolare il volume. Avrai il massimo del controllo e della libertà dallo smartphone.
-- Puoi ricaricare Galaxy Buds Live su qualsiasi caricabatterie wireless Qi, o anche tramite la Condivisione di Ricarica Rapida direttamente sul retro del tuo smartphone Galaxy.**
-- Con la batteria da 60mAh/auricolare e 472mAh/custodia, Galaxy Buds Live ti accompagneranno per tutta la giornata. E con 5 minuti di ricarica avrai unaltra ora di riproduzione musicale.*
-- Con Buds Together puoi condividere la musica con le Galaxy Buds degli amici. E con la nuova interfaccia controlli le info sulla batteria e attivi/disattivo il suono Ambientale e ANC, blocchi il touch.
-- I 3 microfoni e laccelerometro (VPU) migliorano la qualità della voce durante le chiamate. Laccelerometro migliora il segnale vocale filtrando i rumori esterni e concentrandosi sulla tua voce.
-- Godi di suoni ampi e spaziosi, come se stessi ascoltando dal vivo. Grazie al design Open-type senza cuscinetti In-Ear e con prese daria la sensazione di avere le orecchie tappate è ridotta al minimo.
-- La "Modalità gioco" nel menu Labs nellapp Galaxy Wearable migliora la latenza audio durante i giochi.
-- Con la cancellazione attiva del rumore puoi eliminare i rumori esterni e concentrarti solo su ciò che stai ascoltando. LANC permette il passaggio delle frequenze alte, come il suono della voce umana.
-- La profondità dei bassi è migliorata grazie allo speaker da 12 mm e a un canale dedicato alle basse frequenze. Galaxy Buds Live sono ottimizzati per la musica con tanti bassi.
-- Il microfono di Galaxy Buds Live è sempre attivo. Puoi richiamare Bixby in qualsiasi momento con la voce per controllare il meteo, riprodurre musica, inviare un messaggio e così via.
+- More of the music, less of the waiting. Galaxy Buds Live deliver up to 21 hours of play time1, and Fast Wireless Charging lets you power up quick and get right back to your music.1Battery must be below 30 Percent
+- With Grammy Award-winning AKG technology and Active Noise Cancellation, Galaxy Buds Live drowns out the chatter and lets you lose yourself in your music
+- Galaxy Buds Live are made for convenience. Just tap to pause, play or skip. You can even pair them to your Galaxy Watch3 and control your playlists from your wrist
+- Galaxy Buds Live come with three microphones to ensure all your calls are crystal clear. Two outer mics block external noise, so the only sound the other mic will pick up is your voice
+- Stylish. Iconic. Designed for all-day comfort and superior sound, and presented in a sleek case. The new Galaxy Buds Live are the perfect way to stand out as you lose yourself in rich bass
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C5HYHYB/?tag=tolees00-21)

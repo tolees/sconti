@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 29.60 % su Xiaomi Redmi Note 9S 128 + 6 Gb  Aurora   '
-date: 2021-02-06 16:31:29
+date: 2021-02-08 05:51:11
 image: 'https://m.media-amazon.com/images/I/31Lpafq0wuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B085W9CFBD/?tag=tolees00-21'
 descuento: '29.60'
-average: '208.525'
+average: '206.6725'
 ---
 
 [Xiaomi Redmi Note 9S 128 + 6 Gb  Aurora Blu](https://www.amazon.it/dp/B085W9CFBD/?tag=tolees00-21) ha un prezzo di 190.0 EUR (originale: 269.9 EUR) con uno sconto del 29.60 % sconto qui:
@@ -28,9 +28,9 @@ average: '208.525'
 
 ℹ️:
 
+- Frequenza fino a 2.3 ghz
 - Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
 - Sistema operativo miui 11
 - Batteria da 5020 mAh; 18w fast charging
-- Frequenza fino a 2.3 ghz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085W9CFBD/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 22.56 % su LEGO Architecture Trafalgar Square con G  '
-date: 2021-02-06 16:35:34
+date: 2021-02-08 05:23:43
 image: 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07KTK9B3Z/?tag=tolees00-21'
 descuento: '22.56'
-average: '74.6160454545455'
+average: '74.5368018018018'
 ---
 
 [LEGO Architecture Trafalgar Square con Galleria Nazionale  Modello di Monumento da Collezione  Idea Regalo  21045](https://www.amazon.it/dp/B07KTK9B3Z/?tag=tolees00-21) ha un prezzo di 65.82 EUR (originale: 84.99 EUR) con uno sconto del 22.56 % sconto qui:
@@ -28,10 +28,10 @@ average: '74.6160454545455'
 
 ℹ️:
 
-- Misura 12 cm di altezza, 24 cm di larghezza e 20 cm di profondità
-- Include una targhetta decorativa di Trafalgar Square
 - Scopri unesperienza di costruzione impegnativa ma gratificante con questo set Lego Architecture
 - Questo set include oltre 1.190 pezzi
+- Misura 12 cm di altezza, 24 cm di larghezza e 20 cm di profondità
+- Include una targhetta decorativa di Trafalgar Square
 - Interpretazione Lego Architecture di un famoso punto di riferimento architettonico londinese, Trafalgar Square
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KTK9B3Z/?tag=tolees00-21)

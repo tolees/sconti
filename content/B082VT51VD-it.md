@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.94 % su Rio Mare Tonno al Naturale Qualità Pinne  '
-date: 2021-02-06 04:45:05
+date: 2021-02-08 05:47:28
 image: 'https://m.media-amazon.com/images/I/41K8oHDRgAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,7 @@ average: '3.53500000000001'
 
 ℹ️:
 
-- Formato: confezione da 3 lattine + 1 gratis da 80 g ciascuna
-- Rio Mare; qualità Responsabile dal mare alla tua tavola
-- Ingredienti: tonno*, acqua, sale, aroma naturale di sedano e cipolla.*Thunnus (neothunnus) albacares
-- Tonno al naturale preparato usando solo acqua, un pizzico di sale e odori di cucina; un equilibrio di minerali, proteine nobili e vitamina B12
-- Consigli uso: ottimo per piatti freschi e leggeri, insalate classiche o più creative arricchite con frutta fresca e secca
+- Ideal for appetizers or for fresh and delicious dishes where tuna is the protagonist.
+- It has only one drizzle of extra virgin olive oil. * Rio Mare Leggero contains 60% less fat than Rio Mare Tuna in olive oil (fat content of Rio Mare Tuna in olive oil: 20% of the drained product)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082VT51VD/?tag=tolees00-21)
