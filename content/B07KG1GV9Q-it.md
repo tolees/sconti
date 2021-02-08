@@ -28,8 +28,8 @@ average: '46.99'
 
 ℹ️:
 
+- Materiale esterno: Pelle morbida
 - Fodera: Tessuto
 - Materiale suola: Gomma
-- Materiale esterno: Pelle morbida
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KG1GV9Q/?tag=tolees00-21)
