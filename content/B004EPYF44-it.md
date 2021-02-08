@@ -29,7 +29,7 @@ Puoi trovare [Scitec Nutrition - Whey Isolate 2000g banana AF](https://www.amazo
 ℹ️:
 
 - Codice prodotto: IAF00085587
-- Peso articolo e imballo: 2.2 grammi
 - Marchio: Scitec Nutrition
+- Peso articolo e imballo: 2.2 grammi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004EPYF44/?tag=tolees00-21)

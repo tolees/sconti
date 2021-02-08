@@ -28,10 +28,10 @@ Puoi trovare [CANDY CST G382D-S  Lavatrice Carica dall alto  8 kg  1200 rpm  Cla
 
 ℹ️:
 
-- Dimensioni (l x a x p): 60 x 40 x 85 cm
-- Connettivita NFC con programmi aggiuntivi e funzione smart check up tramite lapp candy simply-fi
-- Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui dacqua
 - Apertura della porta gentle touch
 - Display digitale
+- Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui dacqua
+- Dimensioni (l x a x p): 60 x 40 x 85 cm
+- Connettivita NFC con programmi aggiuntivi e funzione smart check up tramite lapp candy simply-fi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08128KSZZ/?tag=tolees00-21)
