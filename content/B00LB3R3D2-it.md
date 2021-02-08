@@ -28,8 +28,8 @@ Puoi trovare [Zuccari Aloevera 2 Succo Puro d Aloe - 1000 ml](https://www.amazon
 
 ℹ️:
 
+- Marchio: Zuccari
 - Peso articolo e imballo: 1.2 grammi
 - Codice prodotto: IAF00073742
-- Marchio: Zuccari
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LB3R3D2/?tag=tolees00-21)
