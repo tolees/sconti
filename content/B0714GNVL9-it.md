@@ -28,7 +28,7 @@ average: '9.99'
 
 ℹ️:
 
-- Qualità leggera.
 - Maglietta con stampa.
+- Qualità leggera.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0714GNVL9/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Oregon Scientific Gecko Hd Ge0118-13 - Action camera](https://www.
 
 ℹ️:
 
-- Formato tascabile multiuso con sistema di fissaggio semplice al polso, in berretto.
-- Angolo di 155°, risoluzione video: HD - 720 x 1280 @ 30 fps, ipx7: 1 metro sotto lacqua. Batteria 450 mAh ai polimeri di litio inclusa.
-- Descrizione del prodotto: action camera tascabile per qualsiasi terreno, portatile e alla moda
 - Incluso nella confezione: 4 colori di cover intercambiabili, cavo USB, fissaggio universale clip, fissaggio universale velcro (polso, berretto, ecc.)
+- Formato tascabile multiuso con sistema di fissaggio semplice al polso, in berretto.
+- Descrizione del prodotto: action camera tascabile per qualsiasi terreno, portatile e alla moda
 - Scheda SD (non inclusa): 32 GB MicroSD
+- Angolo di 155°, risoluzione video: HD - 720 x 1280 @ 30 fps, ipx7: 1 metro sotto lacqua. Batteria 450 mAh ai polimeri di litio inclusa.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FHNF8SE/?tag=tolees00-21)

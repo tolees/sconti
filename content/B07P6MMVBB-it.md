@@ -29,9 +29,9 @@ Puoi trovare [DJI Osmo Pocket - Stabilizzatore 3 Assi con Videocamera 4K Integra
 ℹ️:
 
 - Dissipazione silenziosa del calore: Osmo Pocket utilizza un sistema di raffreddamento passivo e senza ventole che dissipa il calore in modo uniforme
-- Osmo Pocket: può trasformare qualsiasi momento in unottima immagine, grazie al suo sensore da 1/2.3", il suo campo visivo di 80° e la sua apertura f/2.0
-- Progettato con intelligenza: Osmo Pocket ti offre laccesso a immagini fluide e qualità cinematografica
 - Mimo: Osmo Pocket è rivolto a tutti coloro che hanno una storia da raccontare e utilizzano DJI Mimo
+- Progettato con intelligenza: Osmo Pocket ti offre laccesso a immagini fluide e qualità cinematografica
 - Piccolo e fluido: Osmo Pocket incorpora il piccolo stabilizzatore portatile meccanico a tre assi di DJI
+- Osmo Pocket: può trasformare qualsiasi momento in unottima immagine, grazie al suo sensore da 1/2.3", il suo campo visivo di 80° e la sua apertura f/2.0
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P6MMVBB/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '36.99'
 
 ℹ️:
 
+- Materiale: metacrilato o MDF laminato
+- Pomoli e distanziali in materiale plastico cromato
 - Tre pomoli e viti per il fissaggio alla parete
 - Appendiabiti da parete modulare per creare molteplici combinazioni
-- Pomoli e distanziali in materiale plastico cromato
-- Materiale: metacrilato o MDF laminato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008MLT7GC/?tag=tolees00-21)
