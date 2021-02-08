@@ -28,8 +28,8 @@ Puoi trovare [Wrangler Logo Tee T-Shirt  Grigio  Mid Grey Mel X37   Small Uomo](
 
 ℹ️:
 
+- Scollatura classica a costine
 - Taglio regular fit comodo
 - Logo di grande effetto sul petto
-- Scollatura classica a costine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07M8LJRDZ/?tag=tolees00-21)

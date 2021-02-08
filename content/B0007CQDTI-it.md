@@ -28,8 +28,8 @@ average: '3.99'
 
 ℹ️:
 
+- Pompa manuale piccola altezza cm 29
 - Con tubo per gonfiaggio e sgonfiaggio e 3 adattatori
 - Gonfia sia spingendo che tirando
-- Pompa manuale piccola altezza cm 29
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0007CQDTI/?tag=tolees00-21)
