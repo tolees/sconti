@@ -29,8 +29,8 @@ average: '793.386086956522'
 ℹ️:
 
 - PORTALE SEMPRE CON TE: Con il suo design leggero e compatto lA6100 è ideale per scatti in viaggio e vlogging.
-- CATTURA I SOGGETTI DA DIVERSE ANGOLAZIONI: fotografa il tuo soggetto con semplicità scattando da diverse angolazioni grazie al monitor touch ribaltabile.
 - AUTOFOCUS VELOCE E PRECISO: sfrutta lAF in 0,02s, Real Time Eye AF e Real Time Tracking per mantenere il tuo soggeto a fuoco in ogni situazione.
+- CATTURA I SOGGETTI DA DIVERSE ANGOLAZIONI: fotografa il tuo soggetto con semplicità scattando da diverse angolazioni grazie al monitor touch ribaltabile.
 - CATTURA I MOMENTI DECISIVI: Fino a 11fps in scatto continuo con AF/AE tracking.
 - IDEALER PER: chi vuole unottica compatta per tutti i giorni e vloggers.
 

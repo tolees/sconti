@@ -28,10 +28,10 @@ average: '89.29'
 
 ℹ️:
 
-- [Comunicazione real time a due vie] Con audio bidirezionale e video in live view, questo videocitofono intelligente ti permette di visualizzare e parlare con le persone alla porta di casa anche quando non sei presente in casa utilizzando il tuo smartphone.
 - [Risoluzione HD 1080P ad ampio angolo] Metti un occhio in casa tua notte e giorno con la camera HD ad alta risoluzione con visione notturna ad infrarosso. Ampio angolo di visione grazie ad una lente panoramica.
-- [Design accattivante resistente agli agenti atmosferici] Classificato come IP65, questo videocitofono è adatto a lavorare in qualsiasi condizione atmosferica, non importa che sia estate o inverno, non importa che ci sia una bufera di neve o un forte temporale. Il design, inoltre, è all’avanguardia e la staffa di montaggio regolabile ti permetterà di avere imagine nitide evitando la caduta di foglie o riflessi fastidiosi alla visualizzazione della camera.
 - [Ricevi avvisi su ciò che conta tramite app] Il nostro campanello di videosorveglianza è compatibile al segnale Wi-Fi a 2.4GHz. Ti avviserà ogni volta che qualcuno passa davanti al campanello grazie al sensore di movimento PIR regolabile.
+- [Design accattivante resistente agli agenti atmosferici] Classificato come IP65, questo videocitofono è adatto a lavorare in qualsiasi condizione atmosferica, non importa che sia estate o inverno, non importa che ci sia una bufera di neve o un forte temporale. Il design, inoltre, è all’avanguardia e la staffa di montaggio regolabile ti permetterà di avere imagine nitide evitando la caduta di foglie o riflessi fastidiosi alla visualizzazione della camera.
 - [Salvataggio in memoria customizzabile e doppia alimentazione] Il nostro videocitofono wireless permette l’archiviazione locale su memoria microSD oppure su cloud (opzionale). Puoi inoltre scegliere di alimentare tramite batterie ricaricabili o tramite cavo per una carica costante. (il kit di cablaggio è venduto separatamente ed il rilascio richiederà del tempo)
+- [Comunicazione real time a due vie] Con audio bidirezionale e video in live view, questo videocitofono intelligente ti permette di visualizzare e parlare con le persone alla porta di casa anche quando non sei presente in casa utilizzando il tuo smartphone.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085ZY3NH1/?tag=tolees00-21)
