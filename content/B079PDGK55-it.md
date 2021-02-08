@@ -28,8 +28,8 @@ average: '139.995327868855'
 
 ℹ️:
 
-- Dimensioni: 8x20x20 cm
 - Marca: Lego
+- Dimensioni: 8x20x20 cm
 - Giocattoli e modellismo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079PDGK55/?tag=tolees00-21)
