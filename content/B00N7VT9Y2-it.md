@@ -28,9 +28,9 @@ Puoi trovare [Giochi Uniti GU210 - Hobbit Tales](https://www.amazon.it/dp/B00N7V
 
 ℹ️:
 
+- Giocabile in 20-60 minuti, per due a cinque persone
 - Utilizzabile anche con il gioco di ruolo LUnico Anello
 - Gioco di narrazione con le carte, ispirato al mondo fantastico di Tolkien
 - Edizione interamente in italiano
-- Giocabile in 20-60 minuti, per due a cinque persone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00N7VT9Y2/?tag=tolees00-21)
