@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 21.28 % su Fujifilm Instax mini 11 Ice White camera  '
-date: 2021-02-01 14:49:08
+title: 'sconto del 18.99 % su Fujifilm Instax mini 11 Ice White camera  '
+date: 2021-02-09 18:57:29
 image: 'https://m.media-amazon.com/images/I/41T4w8u7AoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,27 +12,26 @@ tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99
-comparePrice: 114.32 EUR
+comparePrice: 111.09 EUR
 prodname: 'Fujifilm Instax mini 11 Ice White camera bundle'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Fujifilm Instax'
 buyurl: 'https://www.amazon.it/dp/B08BH3PDLC/?tag=tolees00-21'
-descuento: '21.28'
+descuento: '18.99'
 average: '89.99'
 ---
 
-[Fujifilm Instax mini 11 Ice White camera bundle](https://www.amazon.it/dp/B08BH3PDLC/?tag=tolees00-21) ha un prezzo di 89.99 EUR (originale: 114.32 EUR) con uno sconto del 21.28 % sconto qui:
+[Fujifilm Instax mini 11 Ice White camera bundle](https://www.amazon.it/dp/B08BH3PDLC/?tag=tolees00-21) ha un prezzo di 89.99 EUR (originale: 111.09 EUR) con uno sconto del 18.99 % sconto qui:
 
 [![Fujifilm Instax mini 11 Ice White camera](https://m.media-amazon.com/images/I/41T4w8u7AoL._SL200_.jpg)](https://www.amazon.it/dp/B08BH3PDLC/?tag=tolees00-21)
 
 ℹ️:
 
-- This is a bundle exclusively available to Amazon
-- Bundle pack containing; Camera, Camera case, 10 shot mini film, Photo Album, Display stickers, Batteries, user manual
-- Produce instant credit card size photos
-- Built-in Automatic exposure, for ideal pictures every time
-- Built-in selfie lens and selfie mirror
-- Uses instax mini film, print size: 54 (W) x 86 (H), image size: 46 (W) x 62 (H) mm
+- Il bundle include fotocamera, custodia per fotocamera, album fotografico piccolo, confezione da 10 scatti mini film e adesivi
+- Semplicità d’uso, qualità imbattibile: la fotocamera rileva automaticamente la luce ambientale e ottimizza l’esposizione automaticamente
+- Design cool e ricercato, comoda impugnatura, curato in ogni suo dettaglio, ideale per tutti coloro che vogliono cimentarsi con la fotografia istantanea
+- Modalità Selfie: lente macro integrata nel corpo macchina per selfie e foto close-up di alta qualità. Scattare selfie istantanei non è mai stato così facile!
+- Perfetta come idea regalo per comunioni, cresime, matrimoni, eventi, feste e viaggi è adatta a tutti coloro che vogliono divertirsi scattando istantanee
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BH3PDLC/?tag=tolees00-21)
