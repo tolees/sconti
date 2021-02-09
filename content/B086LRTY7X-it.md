@@ -28,10 +28,10 @@ average: '87.854'
 
 ℹ️:
 
+- La stampante è dotata di un sistema di sicurezza dinamica, soggetto ad aggiornamenti del firmware: è progettata per l’uso di cartucce con circuiti elettronici HP originali; le cartucce con circuiti elettronici non HP o modificati potrebbero non funzionare
+- SMART WORKING: dal 27 Ottobre 2020 al 31 Gennaio 2021 scopri come ottenere 3 mesi di Instant Ink inclusi, acquistando una stampante HP compatibile con il servizio di Instant Ink
+- Esegui stampe, scansioni e copie di documenti di uso quotidiano, lavori scolastici, foto e altro ancora, grazie alla compatibilità con le cartucce 3YM62AE, 3YM63AE, 3YM60AE, 3YM61AE, 6ZA94AE
 - Pratica ed ecologica: permette di risparmiare tempo e inquinare meno, stampando su entrambi i lati del foglio grazie al fronte retro automatico
 - Cartuccia con testina integrata: ogni qual volta viene sostituita la cartuccia, la testina di stampa si rigenera, generandoun nuovo ciclo di lavoroper la stampante; stampa senza bordi
-- La stampante è dotata di un sistema di sicurezza dinamica, soggetto ad aggiornamenti del firmware: è progettata per l’uso di cartucce con circuiti elettronici HP originali; le cartucce con circuiti elettronici non HP o modificati potrebbero non funzionare
-- Esegui stampe, scansioni e copie di documenti di uso quotidiano, lavori scolastici, foto e altro ancora, grazie alla compatibilità con le cartucce 3YM62AE, 3YM63AE, 3YM60AE, 3YM61AE, 6ZA94AE
-- SMART WORKING: dal 27 Ottobre 2020 al 31 Gennaio 2021 scopri come ottenere 3 mesi di Instant Ink inclusi, acquistando una stampante HP compatibile con il servizio di Instant Ink
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086LRTY7X/?tag=tolees00-21)
