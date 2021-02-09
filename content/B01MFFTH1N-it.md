@@ -29,10 +29,10 @@ average: '118.0'
 ℹ️:
 
 - Tasche interne per piccoli oggetti.
-- Divisori pieghevoli imbottiti per il tocco.
 - Cinghie di compressione esterne per treppiede.
 - Adatto anche per laptop da 13" e tablet da 11".
 - I materiali sono tela di nylon ultraleggera 400D con rivestimento idrorepellente resistente per la resistenza agli agenti atmosferici, interni in twill misto polifilato, divisori in etilene ad alta densità stampati a compressione e pannelli di protezione, hardware in alluminio anodizzato pressofuso e stampato con finitura sabbiata e rivestimento protettivo trasparente.
+- Divisori pieghevoli imbottiti per il tocco.
 - Adatto per DSLR/mirrorless corpo e lenti 2-3.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MFFTH1N/?tag=tolees00-21)
