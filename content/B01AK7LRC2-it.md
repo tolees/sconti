@@ -28,10 +28,10 @@ Puoi trovare [Philips Lighting Phyton Lampada LED da Parete  Giardino ed Esterni
 
 ℹ️:
 
-- Lampada LED da parete giardino, acciaio spazzolato, 6W
 - IP44 Resistente allacqua
-- LED che dura 25 anni con 5 anni di garanzia
+- Lampada LED da parete giardino, acciaio spazzolato, 6W
 - non cè più bisogno di sostituire le lampadine e si risparmia fino al 90% di energia
 - materiali e rifiniture di alta qualità, pensati per durare nel tempo
+- LED che dura 25 anni con 5 anni di garanzia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AK7LRC2/?tag=tolees00-21)

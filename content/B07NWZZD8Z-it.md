@@ -29,8 +29,8 @@ Puoi trovare [BigBen Interactive - The Sinking City - Day One Special Edition - 
 ℹ️:
 
 - Sistema di investigazione aperto
-- Universo di H.P. Lovecraft
 - Mondo aperto esplorabile a piedi o in barca
+- Universo di H.P. Lovecraft
 - Azione e avventura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NWZZD8Z/?tag=tolees00-21)

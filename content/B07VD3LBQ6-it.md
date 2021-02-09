@@ -28,8 +28,8 @@ Puoi trovare [SAMSUNG EF-ZN970CSEGWW- Cover per Galaxy Note10  Argento](https://
 
 ℹ️:
 
-- Usp 3
 - USP2
+- Usp 3
 - USP1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VD3LBQ6/?tag=tolees00-21)
