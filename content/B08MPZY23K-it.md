@@ -28,8 +28,8 @@ average: '49.9'
 
 ℹ️:
 
-- Giacca da uomo
 - Con cappuccio
 - Pelliccia rimovibile
+- Giacca da uomo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MPZY23K/?tag=tolees00-21)
