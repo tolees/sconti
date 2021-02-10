@@ -28,7 +28,7 @@ Puoi trovare [Only Onlvenedig Paperbag Long Skirt Wvn Noos Gonna  Verde  Chinois
 
 ℹ️:
 
-- soft viscose
 - maxi skirt
+- soft viscose
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PFXC8FQ/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '12.99'
 
 ℹ️:
 
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Il profumo che ricorda mele appena raccolte che cuociono sul fuoco nella fresca brezza della sera
-- Ogni candela piccola è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Durata della candela: da 30 ore; peso: 104 g
+- Il profumo che ricorda mele appena raccolte che cuociono sul fuoco nella fresca brezza della sera
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- Ogni candela piccola è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BCRW1QC/?tag=tolees00-21)

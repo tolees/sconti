@@ -28,10 +28,10 @@ Puoi trovare [Hisense RT267D4AWF Frigorifero Doppia Porta a Libera Installazione
 
 ℹ️:
 
+- Illuminazione Led
+- Maniglia integrata
 - Porte reversibili
 - Frigorifero doppia porta
-- Maniglia integrata
 - Capacità 205 L
-- Illuminazione Led
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NFCNPY6/?tag=tolees00-21)
