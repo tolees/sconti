@@ -28,11 +28,11 @@ average: '179.99'
 
 ℹ️:
 
-- 1920x1080
-- Support CD, USB 3.0 Cable, Quick start guide, ASUS Smart Case
 - 15.6"(39.6cm)W (16:9)
-- 200cd/mq
 - Windows 7 with 2.4GHz Core 2 Duo
+- 1920x1080
+- 200cd/mq
 - WLED/IPS
+- Support CD, USB 3.0 Cable, Quick start guide, ASUS Smart Case
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B013XFJKGI/?tag=tolees00-21)
