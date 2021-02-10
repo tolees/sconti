@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
-- Orlo arrotondato
 - Materiale aderente
 - Logo Levis sul petto
+- Orlo arrotondato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TLFMDLB/?tag=tolees00-21)

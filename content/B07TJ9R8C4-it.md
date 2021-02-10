@@ -29,7 +29,7 @@ Puoi trovare [Levi s LS Battery HM Shirt Slim Camicia  Blue  Allure 0005   Small
 ℹ️:
 
 - Logo Levis sul petto
-- Materiale aderente
 - Orlo arrotondato
+- Materiale aderente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJ9R8C4/?tag=tolees00-21)

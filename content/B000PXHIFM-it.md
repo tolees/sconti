@@ -28,10 +28,10 @@ Puoi trovare [Bosch Home and Garden 603354000 Levigatrice Palmare  80 W  230 V  
 
 ℹ️:
 
-- Sistema Microfilter per unarea di lavoro sempre pulita, rivestimento Softgrip
-- Superficie platorello e fogli abrasivi 104 cm², attacco a Microvelcro
-- Levigatrice palmare da 80 Watt
 - In dotazione: 3 fogli abrasivi, valigetta
+- Sistema Microfilter per unarea di lavoro sempre pulita, rivestimento Softgrip
+- Levigatrice palmare da 80 Watt
 - 22500 oscillazioni/minuto, Diametro oscillazione 1,5 mm,
+- Superficie platorello e fogli abrasivi 104 cm², attacco a Microvelcro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000PXHIFM/?tag=tolees00-21)

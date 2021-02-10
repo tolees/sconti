@@ -29,8 +29,8 @@ average: '3.25291666666666'
 ℹ️:
 
 - Con il potere assorbente del microtalco dona un effetto molto asciutto
-- 0% alcool; dermatologicamente testato
 - 47% di meno macchie sui vestiti*
+- 0% alcool; dermatologicamente testato
 - Profumo di muschio bianco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08157LZGG/?tag=tolees00-21)

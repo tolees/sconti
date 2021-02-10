@@ -28,10 +28,10 @@ average: '28.0'
 
 ℹ️:
 
-- 10 confezioni da 12 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (120 capsule)
 - Aroma fragrante di orzo tostato
-- Aroma fragrante di orzo tostato, dal gusto equilibrato e persistente per un rilassante piacere
-- Originali alternativa allespresso per un delizioso break in ogni momento della giornata
 - Gusto equilibrato e persistente
+- 10 confezioni da 12 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (120 capsule)
+- Originali alternativa allespresso per un delizioso break in ogni momento della giornata
+- Aroma fragrante di orzo tostato, dal gusto equilibrato e persistente per un rilassante piacere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074N5GJ1D/?tag=tolees00-21)

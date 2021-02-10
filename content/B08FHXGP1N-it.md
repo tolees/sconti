@@ -28,10 +28,10 @@ average: '47.99'
 
 ℹ️:
 
+- 【Activity Tracker with IP68 Waterproof + Swimming Pool Ready and 14 Exercise Modes】TicExercise App track and record your workout activity in 14 work out modes including outdoor Run, Cycling and Yoga. Get exercise advise and active hour tracking from TicHealth App. IP68 waterproof ensures usage even when swimming in pools.
+- 【Fitness Smartwatch with 10 Days Battery Life】Up to 7 days of battery life with regular use, up to 10 days with Power saving mode on. Powered by the Realtime OS system instead of Wear OS.
+- 【Smart Sleep Tracking and Heart Rate Monitoring】TicSleep tracking feature measures your sleep quality. TicPulse 24HR Heart Rate Monitoring provides records such as Line chart, resting heart rate by algorithm and 7 days resting heart rate history.
 - 【Comfortable and Stylish】 lightweight wearing experience with durable 22mm TPU watch bands, 1.28 inch round screen allows you to display your style with customizable watch faces.
 - 【Call & Message Notifications】Receive notifications of incoming calls and messages from SMS, Email, Calendar, and other social media applications. Enjoy other functions like music control, Alarm stopwatch, timer, weather, torchlight and Find My Phone.
-- 【Smart Sleep Tracking and Heart Rate Monitoring】TicSleep tracking feature measures your sleep quality. TicPulse 24HR Heart Rate Monitoring provides records such as Line chart, resting heart rate by algorithm and 7 days resting heart rate history.
-- 【Fitness Smartwatch with 10 Days Battery Life】Up to 7 days of battery life with regular use, up to 10 days with Power saving mode on. Powered by the Realtime OS system instead of Wear OS.
-- 【Activity Tracker with IP68 Waterproof + Swimming Pool Ready and 14 Exercise Modes】TicExercise App track and record your workout activity in 14 work out modes including outdoor Run, Cycling and Yoga. Get exercise advise and active hour tracking from TicHealth App. IP68 waterproof ensures usage even when swimming in pools.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FHXGP1N/?tag=tolees00-21)

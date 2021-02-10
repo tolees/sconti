@@ -28,10 +28,10 @@ Puoi trovare [Bosch Professional 0611267601 Perforatore con Attacco SDS Plus GBH
 
 ℹ️:
 
-- Ottimo controllo sul trapano: Il sistema KickBack Control riconosce un improvviso blocco dellaccessorio ed arresta il motore
 - Vibration Control: per lavorare senza sforzo e senza interruzioni in caso di impieghi prolungati
-- Martello perforatore GBH 2-28 F: ottima capacità di foratura, grazie al motore da 880 Watt e alla potenza del colpo di 3.2 Joule
 - Dotazione: GBH 2-28 F, impugnatura supplementare, asta di profondità 210 mm, panno, mandrino autoserrante da 13 mm, mandrino intercambiabile SDS plus, valigetta L-BOXX
 - Il mandrino sostituibile SDS plus consente forature a percussione fino a 28 mm nel calcestruzzo e fino a 68 mm con una corona a forare
+- Martello perforatore GBH 2-28 F: ottima capacità di foratura, grazie al motore da 880 Watt e alla potenza del colpo di 3.2 Joule
+- Ottimo controllo sul trapano: Il sistema KickBack Control riconosce un improvviso blocco dellaccessorio ed arresta il motore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LDZYN6C/?tag=tolees00-21)

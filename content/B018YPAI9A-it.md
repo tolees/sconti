@@ -28,11 +28,11 @@ average: '67.2'
 
 ℹ️:
 
+- Protezione contro rearranque
+- 720 W
 - Regolazione Elettronica
 - 2. 800-11,000 Giri/Min
 - 115 mm
-- Protezione contro rearranque
-- 720 W
 - 1,9 Kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018YPAI9A/?tag=tolees00-21)

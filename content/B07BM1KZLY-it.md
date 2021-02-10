@@ -28,9 +28,9 @@ average: '3.39608695652174'
 
 ℹ️:
 
+- Efficacia fresca
 - Più 40% di profumo dopo 4h* (*sniff test con valutazione intensità del profumo, su spray vs deodorante tradizionale)
 - Profumo di sali marini
-- Efficacia fresca
 - 0% alcool; dermatologicamente testato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BM1KZLY/?tag=tolees00-21)
