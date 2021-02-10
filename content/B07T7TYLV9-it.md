@@ -28,10 +28,10 @@ average: '22.99'
 
 ℹ️:
 
-- Dona alla tua casa unatmosfera accogliente e gradevolmente profumata e aggiungi un tocco di stile allarredamento
-- Mazzo di fiori di lavanda legato a mano con aromi silvestri e spezie del mercato del contadino
-- I bastoncini di vimini naturali diffondono delicatamente una costante e autentica fragranza fino a 10 settimane
 - Contiene una bottiglia di vetro e legno con olio profumato (120 ml) e 12 bastoncini per diffusori
+- Dona alla tua casa unatmosfera accogliente e gradevolmente profumata e aggiungi un tocco di stile allarredamento
+- I bastoncini di vimini naturali diffondono delicatamente una costante e autentica fragranza fino a 10 settimane
+- Mazzo di fiori di lavanda legato a mano con aromi silvestri e spezie del mercato del contadino
 - Ideale per le zone in cui candele e fiamme libere non sono adatte, come il bagno, lufficio e larmadio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T7TYLV9/?tag=tolees00-21)
