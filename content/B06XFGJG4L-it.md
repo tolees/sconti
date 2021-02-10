@@ -28,10 +28,10 @@ Puoi trovare [Yankee Candle Candela profumata in giara piccola | Magia natalizia
 
 ℹ️:
 
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Ogni candela piccola è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Il classico profumo della tradizione di Natale, dove note balsamiche di pino si fondono in un sofisticato accordo con un tocco di betulla ed eucalipto
 - Durata della candela: da 20 a 30 ore di piacevole profumazione
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Il classico profumo della tradizione di Natale, dove note balsamiche di pino si fondono in un sofisticato accordo con un tocco di betulla ed eucalipto
+- Ogni candela piccola è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XFGJG4L/?tag=tolees00-21)

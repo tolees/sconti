@@ -28,11 +28,11 @@ Puoi trovare [Don Papa - Don Papa Rum Versione senza Astuccio  70cl](https://w
 
 ℹ️:
 
-- Volume: 0.7 liters
-- Prodotto di marca Don Papa.
 - Prodotto RON.
-- De alta calidad
 - Contenuto alcolico (alc/vol): 40.0 percent_by_volume
+- De alta calidad
+- Volume: 0.7 liters
 - Volume confezione: 0.7 liters
+- Prodotto di marca Don Papa.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00INRQ98Y/?tag=tolees00-21)

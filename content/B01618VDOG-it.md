@@ -28,10 +28,10 @@ Puoi trovare [Fujifilm Instax Mini 70 Moon White Fotocamera Istantanea per Stamp
 
 ℹ️:
 
-- Dimensione immagine: 62 mm x 46 mm
 - Fotocamera a sviluppo istantaneo
-- Tempo di scatto: otturatore controllato elettronicamente, 1/2 sec - 1/400 sec
-- Alimentazione: due batterie al litio CR2/DL CR2
+- Dimensione immagine: 62 mm x 46 mm
 - Dimensione pellicola: 86 mm x 54 mm
+- Alimentazione: due batterie al litio CR2/DL CR2
+- Tempo di scatto: otturatore controllato elettronicamente, 1/2 sec - 1/400 sec
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01618VDOG/?tag=tolees00-21)
