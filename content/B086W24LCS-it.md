@@ -28,10 +28,10 @@ Puoi trovare [Microsoft Surface Book 3 da 15"  Core i7  RAM 16 GB  SDD 256 GB  P
 
 ℹ️:
 
-- Durata della batteria: fino a 17.5 ore di autonomia e standby ottimizzato
 - Abilitato per Windows Hello
-- 3 versatili modalità di utilizzo: portatile, studio e tablet
 - GPU NVIDIA GTX GeForce, fino a 1TB di spazio di archiviazione e fino a 32 GB di RAM
+- Durata della batteria: fino a 17.5 ore di autonomia e standby ottimizzato
 - Processori Intel Core Quad-Core di decima generazione
+- 3 versatili modalità di utilizzo: portatile, studio e tablet
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086W24LCS/?tag=tolees00-21)

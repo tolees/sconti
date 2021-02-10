@@ -28,10 +28,10 @@ Puoi trovare [Pentole Agnelli ALMA10628 Cm 28 Agnelli Alluminio Professionale  6
 
 ℹ️:
 
-- Alluminio professionale 3 mm
-- Casseruola con due maniglie in inox
 - Conducibilità termica: 225 W/m°K
 - Diametro 28 cm
+- Casseruola con due maniglie in inox
+- Alluminio professionale 3 mm
 - Peso specifico: 2,7 kg/dm3
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00APXGGYQ/?tag=tolees00-21)
