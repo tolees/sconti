@@ -28,10 +28,10 @@ average: '29.6'
 
 ℹ️:
 
+- Peso specifico: 2.7 kg/dm3
+- Alluminio pur
 - Diametro: 24 cm
 - Casseruola con maniglie in inox
 - Conducibilità termica: 225 W/m°K
-- Alluminio pur
-- Peso specifico: 2.7 kg/dm3
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EZT65NI/?tag=tolees00-21)

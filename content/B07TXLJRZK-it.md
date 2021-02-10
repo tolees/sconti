@@ -28,8 +28,8 @@ average: '25.9064814814815'
 
 ℹ️:
 
-- From rick morty, king of $#+, as a stylized sound-up pop vinyl from funko
 - Figure stands 9cm and comes in a window display box
+- From rick morty, king of $#+, as a stylized sound-up pop vinyl from funko
 - Check out the other rick morty figures from funko collect them all
 - Funko pop! is the 2018 toy of the year and peoples choice award winner
 

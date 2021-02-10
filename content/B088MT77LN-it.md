@@ -28,9 +28,9 @@ average: '21.0'
 
 ℹ️:
 
-- E arrivato il forzuto mister elastic stretch armstrong
-- Da 5 anni in su
 - Tiralo per le braccia e per le gambe: ritornerà sempre alla sua forma originaria
 - Lunico, inimitabile pupazzo che si allunga a più non posso
+- Da 5 anni in su
+- E arrivato il forzuto mister elastic stretch armstrong
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088MT77LN/?tag=tolees00-21)

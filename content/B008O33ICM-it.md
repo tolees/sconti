@@ -28,9 +28,9 @@ average: '74.99'
 
 ℹ️:
 
-- Dimensioni aperto: H 24 P39 L70 cm - Chiuso H5.5 P36 L70 cm
-- Pratiche maniglie di trasporto.
 - Appoggi pieghevoli a scomparsa.
+- Pratiche maniglie di trasporto.
 - Vassoio trasformabile in leggio con piano inclinabile in varie posizioni.
+- Dimensioni aperto: H 24 P39 L70 cm - Chiuso H5.5 P36 L70 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008O33ICM/?tag=tolees00-21)

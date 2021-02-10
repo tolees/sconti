@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 24.60 % su LEGO City Fire Caserma dei Pompieri  Set  '
-date: 2021-02-08 13:12:06
+date: 2021-02-10 21:12:27
 image: 'https://m.media-amazon.com/images/I/516VNBUggAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07FNN17CM/?tag=tolees00-21'
 descuento: '24.60'
-average: '56.2605555555557'
+average: '55.8784210526318'
 ---
 
 [LEGO City Fire Caserma dei Pompieri  Set di Costruzioni con Fuoristrada Giocattolo  Scooter Acquatico  Drone e 3 Minifigure di Vigili del Fuoco più un Mattoncino Luminoso e Sonoro  60215](https://www.amazon.it/dp/B07FNN17CM/?tag=tolees00-21) ha un prezzo di 49.0 EUR (originale: 64.99 EUR) con uno sconto del 24.60 % sconto qui:
@@ -29,14 +29,14 @@ average: '56.2605555555557'
 ℹ️:
 
 - Questo set comprende anche un fuoristrada dei vigili del fuoco con mattoncino luminoso e sonoro funzionante, manichetta antincendio funzionante con leva
+- Contiene una caserma dei pompieri a 3 livelli con ufficio, sala relax e torre di avvistamento, molo e un garage con una porta apribile e piattaforma di atterraggio per il drone costruibile incluso
+- Include 4 minifigure LEGO City: il capo dei vigili del fuoco e 3 pompieri, più il cane; il garage della caserma dei pompieri è compatibile con i veicoli antincendio di altri set LEGO City Pompieri
+- Gli accessori includono un estintore spara-bottoncini, 6 elementi acqua, secchio, telefono, televisore, popcorn e telecomando per il drone
+- Il fuoristrada misura 6 cm di altezza, 12 cm di lunghezza e 5 cm di larghezza, lo scooter 6 cm di lunghezza e 3 cm di larghezza, mentre il drone 3 cm di altezza, 7 cm di lunghezza e 7 cm di larghezza
 - Carica un elemento acqua nella manichetta antincendio e nellestintore e premi le leve per lanciarlo verso lincendio e spegnerlo
 - Questo set giocattolo creativo comprende oltre 500 pezzi; la caserma dei pompieri misura 28 cm di altezza, 21 cm di larghezza e 27 cm di profondità
-- Gira rotori per avviare il drone e ruota la telecamera per cercare gli incendi; premi il mattoncino luminoso e il mattoncino sonoro sul fuoristrada per avvertire il traffico del tuo arrivo
-- Include 4 minifigure LEGO City: il capo dei vigili del fuoco e 3 pompieri, più il cane; il garage della caserma dei pompieri è compatibile con i veicoli antincendio di altri set LEGO City Pompieri
-- Contiene una caserma dei pompieri a 3 livelli con ufficio, sala relax e torre di avvistamento, molo e un garage con una porta apribile e piattaforma di atterraggio per il drone costruibile incluso
-- Gli accessori includono un estintore spara-bottoncini, 6 elementi acqua, secchio, telefono, televisore, popcorn e telecomando per il drone
 - Anche un compartimento per le attrezzature, più uno scooter acquatico con spazio per un estintore spara-bottoncini e un drone da ricognizione con rotori funzionanti e una telecamera
+- Gira rotori per avviare il drone e ruota la telecamera per cercare gli incendi; premi il mattoncino luminoso e il mattoncino sonoro sul fuoristrada per avvertire il traffico del tuo arrivo
 - Comprende anche un piccolo modello con bidone della spazzatura, pila di giornali ed elementi fiamma costruibili
-- Il fuoristrada misura 6 cm di altezza, 12 cm di lunghezza e 5 cm di larghezza, lo scooter 6 cm di lunghezza e 3 cm di larghezza, mentre il drone 3 cm di altezza, 7 cm di lunghezza e 7 cm di larghezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FNN17CM/?tag=tolees00-21)
