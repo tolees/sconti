@@ -28,9 +28,9 @@ Puoi trovare [Cartrend 96114 Guanto per raschietto per ghiaccio](https://www.ama
 
 ℹ️:
 
-- Lama 10 cm
 - Lunghezza totale 25 cm
 - Colore: Nero
+- Lama 10 cm
 - Fodera in pelliccia sintetica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002UXQZNG/?tag=tolees00-21)

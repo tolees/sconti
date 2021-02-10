@@ -28,10 +28,10 @@ Puoi trovare [Frisk Peppermint Caramelle alla Menta  Mentine Senza Zucchero e Se
 
 ℹ️:
 
-- Il gusto alla menta forte ti lascerà una piacevole sensazione di pulizia e leggerezza
-- Questa piccola mentina è perfetta per rinfrescarti istantaneamente quando sei fuori casa, a scuola, al lavoro o dove vuoi
-- Frisk è la microcompressa sugar free che dona unimmediata sferzata di freschezza e rinfresca istantaneamente lalito
-- Frisk: non temere di aprir bocca! i 12 astucci sono un formato pratico e conveniente che ti permette di portare Frisk sempre con te durante la giornata
 - Porta le tue Frisk sempre con te! Nella borsa, nello zaino oppure in tasca per averle sempre a portata di mano e condividerle con chi vuoi
+- Il gusto alla menta forte ti lascerà una piacevole sensazione di pulizia e leggerezza
+- Frisk: non temere di aprir bocca! i 12 astucci sono un formato pratico e conveniente che ti permette di portare Frisk sempre con te durante la giornata
+- Frisk è la microcompressa sugar free che dona unimmediata sferzata di freschezza e rinfresca istantaneamente lalito
+- Questa piccola mentina è perfetta per rinfrescarti istantaneamente quando sei fuori casa, a scuola, al lavoro o dove vuoi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00U8UG8BC/?tag=tolees00-21)

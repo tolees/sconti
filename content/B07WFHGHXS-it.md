@@ -28,7 +28,7 @@ average: '17.49'
 
 ℹ️:
 
-- Lavorato a maglia
 - Maniche lunghe
+- Lavorato a maglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WFHGHXS/?tag=tolees00-21)

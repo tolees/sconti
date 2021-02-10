@@ -29,9 +29,9 @@ Puoi trovare [Siku 1899 Gru a torre  colori assortiti](https://www.amazon.it/dp/
 ℹ️:
 
 - A wide range of features: Fully rotating arm with cabin and counterweight, Wide base for stability, Trolley and crane hook can be controlled separately with rope pull guide
-- Contents: 1x siku 1899 tower crane, Scale: 1:87, Material: Metal/Plastic, Dimensions: 40.0 x 22.0 x 44.0 cm, Weight: 0.787 kg, Colour: Yellow, Series: SIKU Super
-- Incredibly durable: Mostly metal construction, Suitable for tile, parquet or carpet flooring
 - True-to-original toy model of a Liebherr tower crane with large boom and weights for lifting objects during play
+- Incredibly durable: Mostly metal construction, Suitable for tile, parquet or carpet flooring
 - Ideal gift for young and old construction fans
+- Contents: 1x siku 1899 tower crane, Scale: 1:87, Material: Metal/Plastic, Dimensions: 40.0 x 22.0 x 44.0 cm, Weight: 0.787 kg, Colour: Yellow, Series: SIKU Super
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004KAARFO/?tag=tolees00-21)

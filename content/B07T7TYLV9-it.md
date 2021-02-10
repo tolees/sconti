@@ -28,8 +28,8 @@ average: '22.99'
 
 ℹ️:
 
-- Mazzo di fiori di lavanda legato a mano con aromi silvestri e spezie del mercato del contadino
 - Dona alla tua casa unatmosfera accogliente e gradevolmente profumata e aggiungi un tocco di stile allarredamento
+- Mazzo di fiori di lavanda legato a mano con aromi silvestri e spezie del mercato del contadino
 - I bastoncini di vimini naturali diffondono delicatamente una costante e autentica fragranza fino a 10 settimane
 - Contiene una bottiglia di vetro e legno con olio profumato (120 ml) e 12 bastoncini per diffusori
 - Ideale per le zone in cui candele e fiamme libere non sono adatte, come il bagno, lufficio e larmadio
