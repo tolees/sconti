@@ -28,10 +28,10 @@ average: '29.78'
 
 ℹ️:
 
-- VN0A3I6RHU01
-- Unisex
 - Old Skool III
-- Zaino
+- Unisex
+- VN0A3I6RHU01
 - Vans
+- Zaino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QLWGKHG/?tag=tolees00-21)

@@ -28,11 +28,11 @@ Puoi trovare [Barcelo Imperia Ast Rum - 700 ml](https://www.amazon.it/dp/B004EAF
 
 ℹ️:
 
+- Volume confezione: 0.7 liters
+- De alta calidad
 - Prodotto di marca Barcelo Imperial.
 - Volume: 700.0 milliliters
-- Prodotto RON.
 - Contenuto alcolico (alc/vol): 38.0 percent_by_volume
-- De alta calidad
-- Volume confezione: 0.7 liters
+- Prodotto RON.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004EAFB2E/?tag=tolees00-21)
