@@ -28,10 +28,10 @@ average: '257.395'
 
 ℹ️:
 
-- Batteria Li-Ion che offre fino a 3 settimane di rasatura (50 min). Ricarica rapida in 5 minuti per una rasatura completa
-- Include: Stazione SmartCare 4 in 1, regolabarba uomo, rifinitore effetto barba incolta
 - Rasoio barba elettrico uomo 100% impermeabile, per un utilizzo Wet&Dry
 - Rasoio elettrico barba uomo con adattamento a 360° per una rasatura profonda e uniforme anche nelle aree più difficili
+- Include: Stazione SmartCare 4 in 1, regolabarba uomo, rifinitore effetto barba incolta
+- Batteria Li-Ion che offre fino a 3 settimane di rasatura (50 min). Ricarica rapida in 5 minuti per una rasatura completa
 - La tecnologia AutoSense riconosce e adatta la potenza alla densità della tua barba. Rade anche la barba folta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085CYJVKG/?tag=tolees00-21)

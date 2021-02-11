@@ -28,7 +28,7 @@ Puoi trovare [edc by Esprit 999cc1i801 Felpa  Nero  Black 001   Small Donna](htt
 
 ℹ️:
 
-- Pullover in tinta unita in maglia fine liscia con scollo a V e bordino a coste sottile alle maniche e al fondo
 - Con pregiato cotone biologico da coltivazione che rispetta lambiente
+- Pullover in tinta unita in maglia fine liscia con scollo a V e bordino a coste sottile alle maniche e al fondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S2DY5J8/?tag=tolees00-21)

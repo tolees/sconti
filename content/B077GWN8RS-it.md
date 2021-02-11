@@ -28,8 +28,8 @@ Puoi trovare [Trust Gaming GXT 830-RW Avonn Tastiera da Gioco Illuminata  Nero [
 
 ℹ️:
 
+- Anti-ghosting: Pressione simultanea fino a 6 tasti
 - Layout integrale italiano
 - Illuminazione Rainbow Wave con luminosità regolabile
-- Anti-ghosting: Pressione simultanea fino a 6 tasti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077GWN8RS/?tag=tolees00-21)

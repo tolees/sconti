@@ -28,7 +28,7 @@ average: '9.99'
 
 ℹ️:
 
-- buttons
 - denim skirt
+- buttons
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P24B5QV/?tag=tolees00-21)

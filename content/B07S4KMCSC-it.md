@@ -28,7 +28,7 @@ Puoi trovare [edc by Esprit 999cc1i801 Felpa  Blu  Navy 400   Large Donna](https
 
 ℹ️:
 
-- Con pregiato cotone biologico da coltivazione che rispetta lambiente
 - Pullover in tinta unita in maglia fine liscia con scollo a V e bordino a coste sottile alle maniche e al fondo
+- Con pregiato cotone biologico da coltivazione che rispetta lambiente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S4KMCSC/?tag=tolees00-21)

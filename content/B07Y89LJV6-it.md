@@ -28,7 +28,7 @@ Puoi trovare [edc by Esprit 999cc1i801 Felpa  Giallo  Yellow 750   Small Donna](
 
 ℹ️:
 
-- Con pregiato cotone Biologico da coltivazione che rispetta lambiente
 - Pullover a tinta unita in maglia fine liscia con scollo a V e bordino a coste sottile alle maniche e al fondo
+- Con pregiato cotone Biologico da coltivazione che rispetta lambiente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y89LJV6/?tag=tolees00-21)
