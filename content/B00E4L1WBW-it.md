@@ -28,10 +28,10 @@ average: '1.25'
 
 ℹ️:
 
-- Azione anti umidità
-- Allinea le fibre capillari una ad una
 - Tecnologia Straight Lock e proteine della seta
 - Azione anti crespo
+- Azione anti umidità
+- Allinea le fibre capillari una ad una
 - Per capelli ottimi lisci a lungo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E4L1WBW/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Alpina A 4000 - Motosega a Scoppio  40.1 cc  1.5 kW  Giallo/Nero  
 
 ℹ️:
 
+- Barra di taglio da 40 cm (16)
 - Sistema antivibrazioni (vcs)
 - Motore a scoppio da 40.1 cc con potenza di 1.5 Kw
 - Velocità della catena di 24.4 m/s
 - Peso netto senza barra e catena di 4.6 kg
-- Barra di taglio da 40 cm (16)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ARCO548/?tag=tolees00-21)

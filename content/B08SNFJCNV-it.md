@@ -30,8 +30,8 @@ Puoi trovare [Lavazza  Roast and Ground  Crema E Gusto Classico  Caffè Macinato
 
 - Freschezza e praticità in una cialda
 - Vista: Crema dorata e colore caldo; Olfatto: Note di legno e tabacco; Gusto: Intenso e timbro marcato; Intensità: 8 Mediamente intenso
-- Un espresso cremoso dal gusto intenso, caratterizzato da un delicato profumo di legni pregiati
 - Unarmonia tra corposità e profumi, esaltata dalla preparazione con la macchina espresso
 - Miscela di Arabica di origine brasiliana e Robusta proveniente prevalentemente dall’Africa Orientale e dal Sud-Est Asiatico
+- Un espresso cremoso dal gusto intenso, caratterizzato da un delicato profumo di legni pregiati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SNFJCNV/?tag=tolees00-21)

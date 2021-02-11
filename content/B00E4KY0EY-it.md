@@ -28,9 +28,9 @@ Puoi trovare [Lysoform Spray Tutto in 1 750 ml](https://www.amazon.it/dp/B00E4KY
 
 ℹ️:
 
-- Produttore: Unilever
-- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
-- Formule dei Presidi Medico-Chirurgici
 - Formula senza risciacquo
+- Formule dei Presidi Medico-Chirurgici
+- Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
+- Produttore: Unilever
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E4KY0EY/?tag=tolees00-21)
