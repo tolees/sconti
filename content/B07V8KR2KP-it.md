@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein 35mm Essential Belt Cintura  Marrone  Dark Brown GUE 
 
 ℹ️:
 
-- Larghezza: 3.5 cm
 - Estremità con punta squadrata
+- Larghezza: 3.5 cm
 - Fibbia argentata e squadrata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V8KR2KP/?tag=tolees00-21)

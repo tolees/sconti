@@ -28,8 +28,8 @@ average: '24.42'
 
 ℹ️:
 
-- Larghezza: 3.5 cm
-- Estremità con punta squadrata
 - Fibbia argentata e squadrata
+- Estremità con punta squadrata
+- Larghezza: 3.5 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V7GDLQJ/?tag=tolees00-21)
