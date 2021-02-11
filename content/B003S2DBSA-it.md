@@ -28,10 +28,10 @@ Puoi trovare [Vans Herren Classic Vggg T-Shirt  Schwarz  BLACK-WHITE Y28   Mediu
 
 ℹ️:
 
-- 100% cotone
-- Scollo rotondo
-- Taglie: S-XXL
-- Classic Fit 155 g
 - Logo Vans sul petto
+- 100% cotone
+- Taglie: S-XXL
+- Scollo rotondo
+- Classic Fit 155 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003S2DBSA/?tag=tolees00-21)

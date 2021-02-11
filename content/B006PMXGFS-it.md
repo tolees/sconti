@@ -28,11 +28,11 @@ Puoi trovare [Laica NE2003 Aerosol a Pistone  Adatto ad ogni medicinale  230V  B
 
 ℹ️:
 
-- Adatto per il trattamento di disturbi polmonari, tracheiti, bronchiti, sinusiti, allergie e raffreddori. Il funzionamento a pistone permette una nebulizzazione ultrarapida e finissima con la maggior parte dei farmaci, anche quelli oleosi come cortisonici, oli essenziali, sospensioni
 - Utilizzabile con tutti i medicinali
-- Caratteristiche tecniche : compressore a pistone. Alimentazione a rete elettrica 230 V - 50 Hz - 150 VA. Nebulizzazione: 0,35 ml/min
-- Pressione d’esercizio: circa 0,6 bar. Capacità ampolla: min. 2 ml, max 12 ml. Peso: 1,2 kg. Dimensioni: 20 x 16 x 11,8 cm. Rumorosità a 1 metro: 58 dB
-- Laica NE2003 è prodotto in Italia
+- Adatto per il trattamento di disturbi polmonari, tracheiti, bronchiti, sinusiti, allergie e raffreddori. Il funzionamento a pistone permette una nebulizzazione ultrarapida e finissima con la maggior parte dei farmaci, anche quelli oleosi come cortisonici, oli essenziali, sospensioni
 - Accessori inclusi : 1 nebulizzatore, 1 maschera adulto, 1 maschera pediatrica, 1 forcella nasale, 1 ampolla, 1 tubo aria, 1 boccaglio, 2 filtri, 1 manuale istruzioni
+- Laica NE2003 è prodotto in Italia
+- Pressione d’esercizio: circa 0,6 bar. Capacità ampolla: min. 2 ml, max 12 ml. Peso: 1,2 kg. Dimensioni: 20 x 16 x 11,8 cm. Rumorosità a 1 metro: 58 dB
+- Caratteristiche tecniche : compressore a pistone. Alimentazione a rete elettrica 230 V - 50 Hz - 150 VA. Nebulizzazione: 0,35 ml/min
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006PMXGFS/?tag=tolees00-21)
