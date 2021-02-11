@@ -28,9 +28,9 @@ average: '11.1'
 
 ℹ️:
 
-- Un pratico formato scorta di caramelle dure senza zucchero e senza glutine, porta un astuccio in borsa, in tasca o nello zaino per gustarle quando sei fuori casa
 - Cambia prospettiva, respira Golia, una sensazione di freschezza intensa e immediata, racchiusa in una gustosa caramella al gusto menta
 - Caramelle dure ripiene di sciroppo balsamico al mentolo ed eucaliptolo, per sentirsi liberi di respirare
+- Un pratico formato scorta di caramelle dure senza zucchero e senza glutine, porta un astuccio in borsa, in tasca o nello zaino per gustarle quando sei fuori casa
 - Activ Plus è la caramella balsamica che dona una sensazione di sollievo a naso e gola, scopri la sua freschezza
 - Formato da sei confezioni con due astucci, per un totale di 12 pacchetti
 

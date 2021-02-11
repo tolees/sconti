@@ -28,8 +28,8 @@ Puoi trovare [Bahlsen Hit Kakao Tubo  220g](https://www.amazon.it/dp/B00IKBEJJE/
 
 ℹ️:
 
-- Due leggeri biscotti che racchiudono una ricca crema al cacao
 - Il classico sandwich di bahlsen da gustare da solo o in compagnia
+- Due leggeri biscotti che racchiudono una ricca crema al cacao
 - Ideale per uno spuntino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00IKBEJJE/?tag=tolees00-21)

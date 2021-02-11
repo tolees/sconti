@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 18.47 % su meross - Presa Intelligente Wifi 16A 368  '
-date: 2021-02-10 08:50:27
+date: 2021-02-11 09:50:27
 image: 'https://m.media-amazon.com/images/I/51lFElRKY+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ average: '39.94'
 ℹ️:
 
 - 【Energy Monitor】 utilizzare lapp Meross per analizzare il consumo energetico storico e in tempo reale dei dispositivi collegati. In questo modo, puoi gestire efficacemente i tuoi dispositivi ed evitare i costi inutili.
-- 【Qualità Sicura】 certificato da CE (certificato n.: SZEM1903012164COV) e RoHS e WEEE, con la protezione di sovratensione, ti offre più sicurezza. In caso di problemi con il prodotto, si prega di contattare direttamente il venditore
+- 【Comandi Vocali】 tutti i prodotti di meross smart funzionano con amazon alexa, google home e IFTTT, scaricare il skill meross da alexa, usando l’account meross per entrare, è possibile controllare la presa smart meross dai comandi vocali.
 - 【APP meross Telecomando】 con la presa intelligente meross, tramite l’applicazione meross gratis, puoi gestire i dispositivi in qualsiasi posto, e in qualsiasi momento. Grazie alla funzionalità di scenario, puoi anche controllare più le prese con un pulsante.
 - 【Routine e Funzione Timer】 puoi impostare la routine per gestire l’accensione e lo spegnimento della presa, anche è possibile programmare gli orari on off in momenti diversi, solo funziona a quando hai bisogno.
-- 【Comandi Vocali】 tutti i prodotti di meross smart funzionano con amazon alexa, google home e IFTTT, scaricare il skill meross da alexa, usando l’account meross per entrare, è possibile controllare la presa smart meross dai comandi vocali.
+- 【Qualità Sicura】 certificato da CE (certificato n.: SZEM1903012164COV) e RoHS e WEEE, con la protezione di sovratensione, ti offre più sicurezza. In caso di problemi con il prodotto, si prega di contattare direttamente il venditore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08P2VN1VB/?tag=tolees00-21)

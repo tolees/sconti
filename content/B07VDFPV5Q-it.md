@@ -28,11 +28,11 @@ average: '37.13'
 
 ℹ️:
 
-- Distrugge i documenti in strisce da 0,4 x 3,30 cm
+- 2 minuti di funzione continua con 40 minuti di tempo di raffreddamento
+- Include contenitore rimovibile per svuotarlo senza problemi
 - Distruggi documenti con taglio incrociato e capacità di 6 fogli; distrugge carte di credito (una alla volta)
 - Avvio automatico e funzioni inversa manuale per quando si incastra la carta; con protezione termica e funzione di spegnimento automatico
-- 2 minuti di funzione continua con 40 minuti di tempo di raffreddamento
+- Distrugge i documenti in strisce da 0,4 x 3,30 cm
 - Dimensioni: 35,4 x 29 x 14 cm; larghezza della fessura d’ingresso: 22,1 cm; volume del contenitore: 10 l
-- Include contenitore rimovibile per svuotarlo senza problemi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VDFPV5Q/?tag=tolees00-21)
