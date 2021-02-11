@@ -28,11 +28,11 @@ average: '24.8'
 
 ℹ️:
 
-- Pulisce in profondità
-- Disinfetta grandi e piccole superfici: pavimenti, piastrelle e tutte le superfici lavabili della casa
-- Unità: 1.0
-- Citrosil disinfettante pavimenti elimina fino al 99,9% di germi e batteri
-- E usato diluito non necessita di risciacquo
 - Lascia un piacevole profumo
+- Citrosil disinfettante pavimenti elimina fino al 99,9% di germi e batteri
+- Unità: 1.0
+- Disinfetta grandi e piccole superfici: pavimenti, piastrelle e tutte le superfici lavabili della casa
+- Pulisce in profondità
+- E usato diluito non necessita di risciacquo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0895CBKR3/?tag=tolees00-21)
