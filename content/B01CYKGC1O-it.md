@@ -28,9 +28,9 @@ average: '23.2'
 
 ℹ️:
 
-- Loghi Ricamati;
-- 100% poliestere triacetato
 - Tasche laterali
+- 100% poliestere triacetato
+- Loghi Ricamati;
 - Giacca con zip intera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CYKGC1O/?tag=tolees00-21)
