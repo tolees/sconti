@@ -28,10 +28,10 @@ Puoi trovare [Spuma di Sciampagna Ecoricarica Sapone Liquido Argan e Patchouli 1
 
 ℹ️:
 
-- Dermatologicamente testato
 - Prodotto 100% italiano
+- Rispetta il ph naturale della pelle
+- Dermatologicamente testato
 - 80% di plastica in meno
 - Con antibaterico naturale
-- Rispetta il ph naturale della pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073WV46XG/?tag=tolees00-21)

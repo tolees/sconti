@@ -28,10 +28,10 @@ average: '20.39'
 
 ℹ️:
 
-- 【Colore chiaro personalizzato】: Esprimi te stesso e rendi il tuo spazio più creativo con la lampadina intelligente TECKIN. Scegli tra 16 milioni di colori e sfumature di bianco per cambiare immediatamente laspetto e latmosfera della tua stanza. Controlla in remoto con il tuo dispositivo intelligente, crea scene personalizzate e libera la tua creatività.
 - 【Facile da installare】: Lampadine Wifi, Nessun hub richiesto, basta collegare queste lampadine a LED E27 al tuo Wi-Fi a 2,4 GHz. Non esitare a contattarci tramite Amazon in caso di problemi con i prodotti TECKIN.
 - 【Funzione timer】: Con la funzione timer per il conto alla rovescia, è sufficiente impostare un timer affinché la lampadina Smart si spenga automaticamente. Puoi creare un gruppo temporale per la tua lampadina intelligente e controllarli tutti con un solo comando.
-- 【Controllo intelligente】: Controlla la tua lampadina intelligente semplicemente eseguendo un comando vocale su Amazon Alexa o Google Assistant. Oppure usa lapp Smart Life per controllare laccensione / lo spegnimento e impostare liberamente la modalità. Il controllo intelligente della lampadina richiede una connessione Wi-Fi sicura a 2,4 GHz.
 - 【Risparmio energetico e lunga durata】: le Lampadine a LED con controlli intelligenti riducono il consumo di energia. Oltre 30.000 ore o 22,8 anni di durata, con una media di 3 ore / giorno. 800 lumen. Gamma di tensione CA 100-240 V 50/60 Hz 0,3 A Max.
+- 【Colore chiaro personalizzato】: Esprimi te stesso e rendi il tuo spazio più creativo con la lampadina intelligente TECKIN. Scegli tra 16 milioni di colori e sfumature di bianco per cambiare immediatamente laspetto e latmosfera della tua stanza. Controlla in remoto con il tuo dispositivo intelligente, crea scene personalizzate e libera la tua creatività.
+- 【Controllo intelligente】: Controlla la tua lampadina intelligente semplicemente eseguendo un comando vocale su Amazon Alexa o Google Assistant. Oppure usa lapp Smart Life per controllare laccensione / lo spegnimento e impostare liberamente la modalità. Il controllo intelligente della lampadina richiede una connessione Wi-Fi sicura a 2,4 GHz.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVTQSDY/?tag=tolees00-21)
