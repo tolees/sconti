@@ -30,7 +30,7 @@ Puoi trovare [Nescafé Dolce Gusto Infinissima PF KP173BKE Macchina per Caffè E
 
 - Macchina manuale per caffè espresso e altre bevande in capsula NESCAFÉ Dolce Gusto con pompa ad alta pressione (fino a 15 bar)
 - Dimensioni 28 x 15 x 37 cm; serbatoio rimovibile da 1.2 l con caricamento dallalto
-- Assapora le oltre 30 varietà di espressi e altre bevande originali
 - Funzione "Hot & Cold" per preparare con facilità bevande calde o fredde
+- Assapora le oltre 30 varietà di espressi e altre bevande originali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CJ4PTP2/?tag=tolees00-21)

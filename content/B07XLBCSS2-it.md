@@ -28,7 +28,7 @@ Puoi trovare [Tecmo Koei - FAIRY TAIL - PlayStation 4](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Demoni, maghi oscuri, draghi e gatti ti attendono insieme agli eccentrici membri della magica gilda di Fairy tail
 - Un nuovissimo e magico JRPG sviluppato da gust Studios, basato sull’omonimo manga best-seller creato da hiro mashima.
+- Demoni, maghi oscuri, draghi e gatti ti attendono insieme agli eccentrici membri della magica gilda di Fairy tail
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XLBCSS2/?tag=tolees00-21)

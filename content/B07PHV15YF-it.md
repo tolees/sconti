@@ -28,9 +28,9 @@ average: '99.99'
 
 ℹ️:
 
-- Programmazione tazze: per una quantità di caffè individuale più funzione "flow stop": spegnimento automatico, non fuoriesce il caffè
-- Funzione di spegnimento automatico, la macchina si spegne completamente 9 minuti dopo lultimo utilizzo (può essere esteso da 9 a 30 minuti)
-- Basso consumo energetico e funzionamento semplice con un solo pulsante
 - Pressione della pompa 19 bar, per sviluppare il gusto e laroma raffinati di ogni grand cru
+- Funzione di spegnimento automatico, la macchina si spegne completamente 9 minuti dopo lultimo utilizzo (può essere esteso da 9 a 30 minuti)
+- Programmazione tazze: per una quantità di caffè individuale più funzione "flow stop": spegnimento automatico, non fuoriesce il caffè
+- Basso consumo energetico e funzionamento semplice con un solo pulsante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PHV15YF/?tag=tolees00-21)

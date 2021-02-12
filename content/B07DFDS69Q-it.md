@@ -28,10 +28,10 @@ average: '8.31'
 
 ℹ️:
 
+- POP 15
 - Statue collezionabili
-- Fantastic Beasts 2
 - Funko Pop
 - Vinile
-- POP 15
+- Fantastic Beasts 2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DFDS69Q/?tag=tolees00-21)
