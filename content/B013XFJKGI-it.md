@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 21.05 % su ASUS MB169B+ 15.6" Monitor USB Portatile  '
-date: 2021-02-10 16:08:57
+date: 2021-02-12 01:50:46
 image: 'https://m.media-amazon.com/images/I/412qhGIiWxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ average: '179.99'
 
 ℹ️:
 
+- 200cd/mq
+- Support CD, USB 3.0 Cable, Quick start guide, ASUS Smart Case
 - 15.6"(39.6cm)W (16:9)
+- WLED/IPS
 - Windows 7 with 2.4GHz Core 2 Duo
 - 1920x1080
-- 200cd/mq
-- WLED/IPS
-- Support CD, USB 3.0 Cable, Quick start guide, ASUS Smart Case
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B013XFJKGI/?tag=tolees00-21)
