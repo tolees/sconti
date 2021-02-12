@@ -28,10 +28,10 @@ average: '24.9'
 
 ℹ️:
 
+- Contenuto della confezione: 1 cavalletto Walimex da 155 cm, custodia inclusa
 - Facile da usare e regolabile in altezza grazie alle chiusure rapide, ideale anche come cavalletto da tavolo. Altezza: circa 50 cm.
 - Max. Portata: circa 6 kg, dimensioni ridotte, massimo Altezza del treppiede: circa 155 cm.
 - Cavalletto per respirazione estremamente leggero in alluminio, peso circa 1,2 kg.
 - Per tele fino a 122 cm di altezza, ripiano e porta pennelli, piedini in gomma per una posizione sicura sia allinterno che allesterno.
-- Contenuto della confezione: 1 cavalletto Walimex da 155 cm, custodia inclusa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073CZVKVX/?tag=tolees00-21)
