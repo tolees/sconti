@@ -28,9 +28,9 @@ average: '38.85'
 
 ℹ️:
 
-- Suola in gomma
 - Morbido supporto sotto i piedi
-- Tomaia in pelle
+- Suola in gomma
 - Intersuola e tallone in schiuma EVA (acetato di etilene) per ammortizzare
+- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S2Z1NBM/?tag=tolees00-21)
