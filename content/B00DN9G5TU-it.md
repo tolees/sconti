@@ -28,9 +28,9 @@ average: '2.795'
 
 ℹ️:
 
-- Con glucosidi estratti dalla stevia, pianta tradizionalmente utilizzata dalle popolazioni sudamericane
-- Dolci senza fornire calorie
-- Propolaid propone queste caramelle gommose a base di propoli ad azione balsamica, gusto miele
 - Per il benessere della gola e delle prime vie respiratorie
+- Dolci senza fornire calorie
+- Con glucosidi estratti dalla stevia, pianta tradizionalmente utilizzata dalle popolazioni sudamericane
+- Propolaid propone queste caramelle gommose a base di propoli ad azione balsamica, gusto miele
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DN9G5TU/?tag=tolees00-21)
