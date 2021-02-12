@@ -28,12 +28,12 @@ average: '28.3042857142857'
 
 ℹ️:
 
-- Accessori: olio lubrificante, spazzolina di pulizia, forbici, pettine, cappuccio di protezione lame
 - Motore lineare con bobina in filo di rame, efficace e silenzioso
+- Utilizzo solo con cavo
 - Lame progettate per assicurare una bassa irritazione della pelle
+- Cavo extra lungo: 280 cm
+- Accessori: olio lubrificante, spazzolina di pulizia, forbici, pettine, cappuccio di protezione lame
 - Lame Tip2Tip con regolazioni precise da 0.5 a 3 mm
 - Sette pettini a lunghezza fissa (3, 6, 9, 12, 16, 19 e 25 mm)
-- Utilizzo solo con cavo
-- Cavo extra lungo: 280 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07481NPMR/?tag=tolees00-21)
