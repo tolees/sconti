@@ -28,12 +28,12 @@ average: '59.99'
 
 ℹ️:
 
+- Frequenza (Hz): 10: 24000 Hz
 - Suono stereo chiaro dinamico: altoparlanti integrati ad alte prestazioni per una gamma di frequenza estesa, correzione della distorsione, pad antirumore che ti isolano dal rumore ambientale
-- Massima potenza in entrata: 200 MW
-- Durata batteria: fino a 20 h; tecnologia batteria: Nichel-Metallo Idruro (NiMH); peso: 655 g
 - Adatto agli anziani: grazie al suo facile utilizzo e ai suoi ampi cuscinetti imbottiti e agli isolatori di rumore
+- Massima potenza in entrata: 200 MW
 - Range wireless: 100 m ; Impedenza: 24 Ohm
 - Suono vibrante senza cavi: con controllo dei bassi che consente di godere di un suono dei bassi nitido e dinamico
-- Frequenza (Hz): 10: 24000 Hz
+- Durata batteria: fino a 20 h; tecnologia batteria: Nichel-Metallo Idruro (NiMH); peso: 655 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DGR5HIY/?tag=tolees00-21)

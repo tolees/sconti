@@ -28,7 +28,7 @@ Puoi trovare [adidas Nizza  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core B
 
 ℹ️:
 
-- Ftwr white/core black
 - 100%MATERIALE TESSILE
+- Ftwr white/core black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078MNQ8G4/?tag=tolees00-21)
