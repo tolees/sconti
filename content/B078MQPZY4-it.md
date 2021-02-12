@@ -29,7 +29,7 @@ Puoi trovare [adidas Nizza  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core B
 ℹ️:
 
 - Shoe Width : medium
-- 1
 - Tessuto, Tessuto, Sintetico, Gomma, Lacci, Sneakers basse
+- 1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078MQPZY4/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '34.98'
 
 ℹ️:
 
-- Tessuto, Tessuto, Sintetico, Gomma, Lacci, Sneakers basse
-- 1
 - Shoe Width : medium
+- 1
+- Tessuto, Tessuto, Sintetico, Gomma, Lacci, Sneakers basse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078MNPXH5/?tag=tolees00-21)

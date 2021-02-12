@@ -28,10 +28,10 @@ average: '299.0'
 
 ℹ️:
 
-- ISTRUZIONI MONTAGGIO: facile da assemblare e zero manutenzione
-- MATERIALE: realizzato in plastica resistente agli agenti atmosferici, non richiede manutenzione
 - MISURE: poltrone 75 x 70 x 79 h, divano 128 x 70 x 79 h, tavolino aperto 77 x 57 x 42 h
-- ADATTA PER: set completo adatto per il tuo giardino o veranda
+- MATERIALE: realizzato in plastica resistente agli agenti atmosferici, non richiede manutenzione
+- ISTRUZIONI MONTAGGIO: facile da assemblare e zero manutenzione
 - DESIGN OTTIMO: salottino da esterno con finitura in trama rattan, cuscini inclusi; divano, 2 poltrone e tavolino incluso
+- ADATTA PER: set completo adatto per il tuo giardino o veranda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BKRML3C/?tag=tolees00-21)
