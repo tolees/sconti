@@ -28,10 +28,10 @@ Puoi trovare [Gillette Series Gel da Barba Uomo per Pelli Sensibili  Pacco da 6 
 
 ℹ️:
 
-- Con formula a tripla azione: lenisce, idrata, protegge
+- Formula con aloe vera
+- Leggera profumazione per pelli sensibili
 - Gel da barba ottimo per la protezione dalle irritazioni
 - Formato viaggio: progettato per il bagaglio a mano
-- Leggera profumazione per pelli sensibili
-- Formula con aloe vera
+- Con formula a tripla azione: lenisce, idrata, protegge
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071SDVC6Z/?tag=tolees00-21)
