@@ -28,9 +28,9 @@ Puoi trovare [Optima Naturals - OPTIMA Manuka Benefit - Gola Spray  20 ml](https
 
 ℹ️:
 
-- Codice prodotto: IAF00061057
-- Marchio: Optima
-- Peso articolo e imballo: 0.3 grammi
 - A base di olio essenziale di manuka e miele di manukadella nuova zelanda
+- Peso articolo e imballo: 0.3 grammi
+- Marchio: Optima
+- Codice prodotto: IAF00061057
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018XN6K4A/?tag=tolees00-21)
