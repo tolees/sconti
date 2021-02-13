@@ -28,9 +28,9 @@ Puoi trovare [Atlus - Catherine Full Body - Nintendo Switch  Standard](https://w
 
 ℹ️:
 
+- Supera enigmi avvincenti per sopravvivere allincubo
 - Facile da installare
 - Videogioco adatto per Nintendo Switch
 - Età consigliata dal produttore: 18 anni
-- Supera enigmi avvincenti per sopravvivere allincubo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086F5F6NQ/?tag=tolees00-21)
