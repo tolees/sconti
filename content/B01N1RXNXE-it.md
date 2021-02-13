@@ -28,10 +28,10 @@ average: '29.04'
 
 ℹ️:
 
+- STRONG & STURDY: each heavy duty shelving unit is fully tested and stable enough to hold a massive 175kg (thats 875kg per bay in total!). Plus non-slip rubber feet for optimum stability.
+- BUILT TO LAST: all G-Rack shelving systems are made with high-quality materials - 5.0mm moisture-resistant MDF shelves plus rust-resistant metal coating.
 - SINGLE PACK: 5 Tier 180cm x 90cm x 30cm Black Shelving Unit + FREE BAY CONNECTORS to connect your bays together safely & easily.
 - EASY TO ASSEMBLE: quick and easy, our innovative boltless assembly system makes it easy for you to snap the racks safely together with no bolts or screws required.
 - 5 YEAR WARRANTY: We’re the only company to offer an extended 5 year warranty. We’ll also send you a VAT invoice. If you have any questions, just ask our UK-based team and we’ll sort you out!
-- BUILT TO LAST: all G-Rack shelving systems are made with high-quality materials - 5.0mm moisture-resistant MDF shelves plus rust-resistant metal coating.
-- STRONG & STURDY: each heavy duty shelving unit is fully tested and stable enough to hold a massive 175kg (thats 875kg per bay in total!). Plus non-slip rubber feet for optimum stability.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1RXNXE/?tag=tolees00-21)
