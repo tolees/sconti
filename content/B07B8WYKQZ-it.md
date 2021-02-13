@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Core Tommy Slim Polo  Nero  Flag Black 032   XXX-La
 
 ℹ️:
 
-- Collo a listino
 - Bandierina Tommy Hilfiger ricamata sul petto
+- Collo a listino
 - Chiusura a tre bottoni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B8WYKQZ/?tag=tolees00-21)

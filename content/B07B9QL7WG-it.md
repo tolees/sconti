@@ -28,8 +28,8 @@ average: '34.0'
 
 ℹ️:
 
-- Collo a listino
-- Bandierina Tommy Hilfiger ricamata sul petto
 - Chiusura a tre bottoni
+- Bandierina Tommy Hilfiger ricamata sul petto
+- Collo a listino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B9QL7WG/?tag=tolees00-21)
