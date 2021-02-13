@@ -28,8 +28,8 @@ Puoi trovare [Franke 115.0470.669 Rubinetto ad Alta Pressione con Doccetta Estra
 
 ℹ️:
 
+- Classe di rumore I; design classico
 - Dotata di serie di rompiflusso e regolatore di getto di alta qualità
 - Gamma girevole del raccordo: 360 ; tubi flessibili di collegamento lunghi 450 mm
-- Classe di rumore I; design classico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1Z7D0Y/?tag=tolees00-21)
