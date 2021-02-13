@@ -28,10 +28,10 @@ average: '66.99'
 
 ℹ️:
 
-- 【UN HUB SERVE PER 16 VALVOLE】: PRIMA DI COMPRARE UNA VALVOLA MTS100, È NECESSARIO AVER UN MTS100H, CIOÈ IL MODELLO CON HUB, ma non bisogna ogni volta prendere il kit valvola +hub, ma solo una valvola perchè con un hub ne comandi fino a 16!
-- 【RISPARMIA ENERGIA】: grazie alla funzionalità rilevazione di finestra aperta, arresta automaticamente il riscaldamento quando rileva che la finestra è aperta. Risparmia di più sulla bolletta del riscaldamento.
-- 【CONSIGLI PRIMA DELLACQUISTO】: sostituisce i termostati convenzionali e controlla il radiatore in base alle esigenze individuali. Se smontate la testa della valvola di una valvola manuale, scoprirete che esiste un perno che può essere spinto dentro e fuori. Quindi puoi usare la valvola del termostato intelligente. Ma devi essere sicuro che il connettore sia M30 X 1.5, in caso contrario, avrai bisogno di un trans-connettore, si prega di contattarci.
 - 【CONTROLLO TELECOMANDO】: La valvola termostatica di Meross può controllare i termosifoni di casa vostra anche a distanza attraverso la Meross App utilizzata anche tramite Amazon Alexa, Google Assistant.
 - 【VITA INTELLIGENTE】: Permette di accendere/spegnere, impostare manualmente la temperatura desiderata, programmare una temperatura confort e economy. Sono necessarie 2 batterie AA (non incluse). Nella confezione: 1 * Valvola termostatica wifi (senza batteria) + 1 * istruzioni per linstallazione * + 6 * adattatore di collegamento.
+- 【UN HUB SERVE PER 16 VALVOLE】: PRIMA DI COMPRARE UNA VALVOLA MTS100, È NECESSARIO AVER UN MTS100H, CIOÈ IL MODELLO CON HUB, ma non bisogna ogni volta prendere il kit valvola +hub, ma solo una valvola perchè con un hub ne comandi fino a 16!
+- 【CONSIGLI PRIMA DELLACQUISTO】: sostituisce i termostati convenzionali e controlla il radiatore in base alle esigenze individuali. Se smontate la testa della valvola di una valvola manuale, scoprirete che esiste un perno che può essere spinto dentro e fuori. Quindi puoi usare la valvola del termostato intelligente. Ma devi essere sicuro che il connettore sia M30 X 1.5, in caso contrario, avrai bisogno di un trans-connettore, si prega di contattarci.
+- 【RISPARMIA ENERGIA】: grazie alla funzionalità rilevazione di finestra aperta, arresta automaticamente il riscaldamento quando rileva che la finestra è aperta. Risparmia di più sulla bolletta del riscaldamento.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D7C9Y5F/?tag=tolees00-21)
