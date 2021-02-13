@@ -28,8 +28,8 @@ Puoi trovare [Gillette Venus - Venus - Intimo Fresco  Unisex  200 ml](https://ww
 
 ℹ️:
 
-- Pulisce e idrata.
 - Contenuto:200 ml.
 - Sensazione di freschezza e comfort.
+- Pulisce e idrata.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LA5O2VC/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '2.99'
 
 ℹ️:
 
-- Skin Naturals Cleansing Water 400 Ml
 - 400 ml
 - Struccante della marca Garnier. Prodotti di Trucco
+- Skin Naturals Cleansing Water 400 Ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00X9U0N5K/?tag=tolees00-21)

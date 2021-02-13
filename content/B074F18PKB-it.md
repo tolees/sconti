@@ -28,8 +28,8 @@ Puoi trovare [Felce Azzurra Bagnodoccia Muschio Bianco - 650 ml](https://www.ama
 
 ℹ️:
 
-- Pelle morbida e profumata
 - Essenza di delicatezza
 - Bagnodoccia muschio bianco
+- Pelle morbida e profumata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074F18PKB/?tag=tolees00-21)
