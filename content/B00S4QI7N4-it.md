@@ -29,8 +29,8 @@ Puoi trovare [Ray-Ban Justin RB4165 Non-Polarized- Occhiali da Sole Unisex  Nero
 ℹ️:
 
 - Materiale del telaio: Nylon
-- Sono disponibili in combinazioni di colori a contrasto o con montature degradate e colori lenti corrispondenti
-- Dimensioni dellobiettivo e del ponte 55 x 16 mm
 - Ispirati agli iconici occhiali da sole Wayfarer
+- Dimensioni dellobiettivo e del ponte 55 x 16 mm
+- Sono disponibili in combinazioni di colori a contrasto o con montature degradate e colori lenti corrispondenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S4QI7N4/?tag=tolees00-21)

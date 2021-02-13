@@ -28,8 +28,8 @@ Puoi trovare [Motta Girella al Cacao Confezione da 8 Merendine](https://www.amaz
 
 ℹ️:
 
+- Girella al Cacao. Ora con una NUOVA RICETTA.
 - SENZA conservanti e coloranti. Con solo aromi NATURALI
 - Confezione da 6 merendine.
-- Girella al Cacao. Ora con una NUOVA RICETTA.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PY8SWPP/?tag=tolees00-21)

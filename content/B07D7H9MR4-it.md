@@ -28,9 +28,9 @@ Puoi trovare [L Oréal Paris Infaillible Fondotinta Liquido Coprente Lunga Tenut
 
 ℹ️:
 
-- Fondotinta impermeabile a lunga tenuta 24H
-- Colorito fresco che dura 24 H
-- Coprenza precisa
 - Formula idratante
+- Coprenza precisa
+- Colorito fresco che dura 24 H
+- Fondotinta impermeabile a lunga tenuta 24H
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D7H9MR4/?tag=tolees00-21)
