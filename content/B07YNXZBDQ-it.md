@@ -28,13 +28,13 @@ average: '109.0'
 
 ℹ️:
 
-- Dimensioni ( l x a x p ): 48,3 x 28,1 x 42,5 cm
-- Programma defrost possibilità di disattivare i principali suoni del microonde
-- Funzione crisp
-- Programma defrost
-- Griglia al quarzo
 - 6 programmi di cottura automatici per cucinare facilmente il tuo piatto preferito con il minimo sforzo
+- Funzione crisp
 - Cook-in app: applicazione per smartphone e tablet che offre consigli, trucchi, ricette e informazioni sugli alimenti
+- Dimensioni ( l x a x p ): 48,3 x 28,1 x 42,5 cm
+- Griglia al quarzo
+- Programma defrost
 - Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui dacqua
+- Programma defrost possibilità di disattivare i principali suoni del microonde
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YNXZBDQ/?tag=tolees00-21)

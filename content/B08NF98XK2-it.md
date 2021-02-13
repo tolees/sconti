@@ -28,10 +28,10 @@ Puoi trovare [Hisense Rr220D4Erf Frigorifero Monoporta Comscomparto Congelatore 
 
 ℹ️:
 
-- Capacità 164 L
-- Frigorifero monoporta
-- Colore rosso
 - Congelatore 4 stelle
+- Colore rosso
 - Ripiano porta bottiglie
+- Frigorifero monoporta
+- Capacità 164 L
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NF98XK2/?tag=tolees00-21)
