@@ -28,10 +28,10 @@ average: '34.0'
 
 ℹ️:
 
-- Colletto abbottonato
-- Vestibilità aderente
-- Cotone Oxford elasticizzato
 - Polsini con due bottoni
+- Colletto abbottonato
+- Cotone Oxford elasticizzato
+- Vestibilità aderente
 - Toppa con bandiera Tommy Jeans sul petto
 - Marchio Tommy Jeans
 - Tessuto intrecciato

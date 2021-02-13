@@ -28,12 +28,12 @@ Puoi trovare [Tommy Jeans Tjm Stretch Oxford Shirt Camicia  Bianco  White   Smal
 
 ℹ️:
 
-- Vestibilità aderente
-- Tessuto intrecciato
 - Polsini con due bottoni
-- Toppa con bandiera Tommy Jeans sul petto
-- Colletto abbottonato
-- Marchio Tommy Jeans
 - Cotone Oxford elasticizzato
+- Vestibilità aderente
+- Marchio Tommy Jeans
+- Tessuto intrecciato
+- Colletto abbottonato
+- Toppa con bandiera Tommy Jeans sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W2R5KL4/?tag=tolees00-21)
