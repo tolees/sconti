@@ -28,12 +28,12 @@ average: '10.99'
 
 ℹ️:
 
-- Shampoo capelli colorati
-- Shampoo capelli grassi
 - Con Olio di Argan
-- Shampoo Head&Shoulders, capelli vivaci e cute pulita
-- Aiuta a proteggere i capelli colorati
 - Combatte la forfora e dona nutrimento e idratazione contro le irritazioni della cute
+- Shampoo capelli grassi
+- Aiuta a proteggere i capelli colorati
+- Shampoo capelli colorati
 - 0% Parabeni, 0% Fosfati, 0% Coloranti
+- Shampoo Head&Shoulders, capelli vivaci e cute pulita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YZK82B9/?tag=tolees00-21)
