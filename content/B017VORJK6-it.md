@@ -28,10 +28,10 @@ Puoi trovare [COLUMBIA - Blackstar](https://www.amazon.it/dp/B017VORJK6/?tag=tol
 
 ℹ️:
 
-- Blackstar
-- Girl Loves Me
 - Lazarus
-- Tis a Pity She Was a Whore
+- Blackstar
 - Sue (Or in a Season of Crime)
+- Girl Loves Me
+- Tis a Pity She Was a Whore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017VORJK6/?tag=tolees00-21)
