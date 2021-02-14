@@ -28,9 +28,9 @@ average: '3.065'
 
 ℹ️:
 
-- Numero di pezzi: 1
 - La formula di nelsen: grazie alla sua nuova formula, arricchita con enzimi attivi, nelsen sgrassa a fondo e rimuove efficacemente le incrostazioni senza bisogno di strofinare
 - Nelsen argilla e melograno grazie alla sua formula sgrassa a fondo e garantisce unazione rinfrescante sulle tue stoviglie
+- Numero di pezzi: 1
 - Nelsen detersivo per piatti liquido: per una pulizia perfetta
 - Il potere sgrassante del detersivo per piatti nelsen combinato con la forza degli elementi naturali
 
