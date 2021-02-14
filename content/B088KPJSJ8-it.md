@@ -28,10 +28,10 @@ Puoi trovare [OPPO A72 Smartphone   Display 6.5   LCD  4  Fotocamere 128GB Espan
 
 ℹ️:
 
-- Design 3D Quad-Curve
 - Snapdragon + Hyper Boost, Fluidità in ogni passaggio
 - Nuovo Neo-Display 1080P, 2400×1080 FHD+
-- 4GB + 128GB, Potenza e velocità
 - Quad Camera 48MP AI, Ultra grandangolo 119°
+- Design 3D Quad-Curve
+- 4GB + 128GB, Potenza e velocità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088KPJSJ8/?tag=tolees00-21)

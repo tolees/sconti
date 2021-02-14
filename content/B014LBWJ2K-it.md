@@ -28,10 +28,10 @@ Puoi trovare [Amaro Montenegro – Liquore digestivo ottenuto da 40 erbe aromati
 
 ℹ️:
 
+- Una volta giunte in officina erboristica, le erbe aromatiche selezionate passano attraverso tre principali modalità di estrazione: bollitura, macerazione e distillazione
 - L’ultima nota, nonché la più importante, è il "premio", risultato della micro-distillazione di cinque erbe aromatiche che sugella la perfetta sinfonia degli aromi
 - Amaro Montenegro, dal 1885 icona della tradizione liquoristica italiana
-- Da questo lungo e articolato processo, si ottengono dodici essenze madre le quali, sapientemente miscelate, danno vita alle sei note aromatiche che caratterizzano il prodotto
 - La ricetta di Amaro Montenegro prevede l’utilizzo di 40 erbe aromatiche e un complesso procedimento di estrazione e miscelazione che rendono il prodotto unico e inimitabile
-- Una volta giunte in officina erboristica, le erbe aromatiche selezionate passano attraverso tre principali modalità di estrazione: bollitura, macerazione e distillazione
+- Da questo lungo e articolato processo, si ottengono dodici essenze madre le quali, sapientemente miscelate, danno vita alle sei note aromatiche che caratterizzano il prodotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014LBWJ2K/?tag=tolees00-21)
