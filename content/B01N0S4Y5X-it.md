@@ -28,10 +28,10 @@ average: '435.71'
 
 ℹ️:
 
-- Il martello perforatore a batteria ha il 50% di potenza in più rispetto al predecessore, con la forza di un dispositivo cablato
 - Grazie al KickBack Control può essere mantenuto il controllo nonostante un contratto inaspettato
+- Sistema professionale da 18 V. Massima potenza. Massima libertà. Tutte le batterie sono compatibili con strumenti professionali Bosch della stessa classe di tensione.
 - Contenuto della confezione: GBH 18 V 26 F, 2 batterie da 5,0 Ah, caricatore rapido GAL 1880 CV, arresto di profondità 210 mm, panno per macchina, impugnatura supplementare, mandrino a cambio rapido, L-BOXX 136
 - Il trapano avvitatore a percussione GBH 18 V 26 F a batteria offre maggiore potenza, comfort e meno polvere
-- Sistema professionale da 18 V. Massima potenza. Massima libertà. Tutte le batterie sono compatibili con strumenti professionali Bosch della stessa classe di tensione.
+- Il martello perforatore a batteria ha il 50% di potenza in più rispetto al predecessore, con la forza di un dispositivo cablato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N0S4Y5X/?tag=tolees00-21)
