@@ -28,8 +28,8 @@ average: '72.99'
 
 ℹ️:
 
+- Padded collar cushions the ankle
 - Lace-up style
 - Comfy breathable mesh lining
-- Padded collar cushions the ankle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21)

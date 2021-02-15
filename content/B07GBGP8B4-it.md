@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pellini Caffè Moka N 42 Tradizionale  10 al 24.13 % di sconto'
-date: 2021-02-10 08:03:28
+title: 'Pellini Caffè Moka N 42 Tradizionale  10 al 45.05 % di sconto'
+date: 2021-02-15 09:02:17
 image: 'https://m.media-amazon.com/images/I/41I5QlZKhpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B07GBGP8B4-it Pellini Caffè Moka N 42 Tradizionale 1000 g'
 sku: 'B07GBGP8B4-it'
 tags: [  ]
-actualPrice: 8.27 EUR
+actualPrice: 5.99 EUR
 currency: EUR
-price: 8.27
+price: 5.99
 comparePrice: 10.9 EUR
 prodname: 'Pellini Caffè Moka N 42 Tradizionale  1000 g'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Pellini'
 buyurl: 'https://www.amazon.it/dp/B07GBGP8B4/?tag=tolees00-21'
-descuento: '24.13'
-average: '6.20333333333334'
+descuento: '45.05'
+average: '6.17285714285715'
 ---
 
-Puoi trovare [Pellini Caffè Moka N 42 Tradizionale  1000 g](https://www.amazon.it/dp/B07GBGP8B4/?tag=tolees00-21) con il prezzo 8.27 EUR (originale: 10.9 EUR) 24.13 % sconto qui:
+Puoi trovare [Pellini Caffè Moka N 42 Tradizionale  1000 g](https://www.amazon.it/dp/B07GBGP8B4/?tag=tolees00-21) con il prezzo 5.99 EUR (originale: 10.9 EUR) 45.05 % sconto qui:
 
 [![Pellini Caffè Moka N 42 Tradizionale  10](https://m.media-amazon.com/images/I/41I5QlZKhpL._SL200_.jpg)](https://www.amazon.it/dp/B07GBGP8B4/?tag=tolees00-21)
 
 ℹ️:
 
-- 4 confezioni x 250 g
-- Tostatura specifica per ogni singola origine al fine di asaltarne il profilo aromatico
 - Caffe vigoroso e di caraterre
 - Miscele composte solo da qualità pregiate di Arabica e Robusta selezionate direttamente nei luoghi di origine
+- Tostatura specifica per ogni singola origine al fine di asaltarne il profilo aromatico
+- 4 confezioni x 250 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GBGP8B4/?tag=tolees00-21)
