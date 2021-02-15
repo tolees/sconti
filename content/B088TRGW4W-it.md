@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Zexrow Controller per Nintendo Switch  W al 24.45 % di sconto'
-date: 2021-01-31 14:38:51
+title: 'Zexrow Controller per Nintendo Switch  W al 39.57 % di sconto'
+date: 2021-02-15 07:05:01
 image: 'https://m.media-amazon.com/images/I/415b65pDBCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B088TRGW4W-it Zexrow Controller per Nintendo Switch Wireless Bluetooth...'
 sku: 'B088TRGW4W-it'
 tags: [  ]
-actualPrice: 20.39 EUR
+actualPrice: 16.31 EUR
 currency: EUR
-price: 20.39
+price: 16.31
 comparePrice: 26.99 EUR
 prodname: 'Zexrow Controller per Nintendo Switch  Wireless Bluetooth Switch Pro Controller  Switch Joystick Gamepad con Turbo Regolabile Dual Shock Gyro Axi'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Zexrow'
 buyurl: 'https://www.amazon.it/dp/B088TRGW4W/?tag=tolees00-21'
-descuento: '24.45'
-average: '21.8150000000001'
+descuento: '39.57'
+average: '22.6268000000001'
 ---
 
-Puoi trovare [Zexrow Controller per Nintendo Switch  Wireless Bluetooth Switch Pro Controller  Switch Joystick Gamepad con Turbo Regolabile Dual Shock Gyro Axi](https://www.amazon.it/dp/B088TRGW4W/?tag=tolees00-21) con il prezzo 20.39 EUR (originale: 26.99 EUR) 24.45 % sconto qui:
+Puoi trovare [Zexrow Controller per Nintendo Switch  Wireless Bluetooth Switch Pro Controller  Switch Joystick Gamepad con Turbo Regolabile Dual Shock Gyro Axi](https://www.amazon.it/dp/B088TRGW4W/?tag=tolees00-21) con il prezzo 16.31 EUR (originale: 26.99 EUR) 39.57 % sconto qui:
 
 [![Zexrow Controller per Nintendo Switch  W](https://m.media-amazon.com/images/I/415b65pDBCL._SL200_.jpg)](https://www.amazon.it/dp/B088TRGW4W/?tag=tolees00-21)
 

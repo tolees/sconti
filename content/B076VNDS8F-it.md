@@ -28,10 +28,10 @@ Puoi trovare [Sony SEL-24105G Obiettivo con Zoom 24-105 mm F4  Serie G  Stabiliz
 
 ℹ️:
 
-- La massima apertura F4, luminosa e costante per tutte le ampiezze di zoom, mantiene la luminosità anche quando viene modificata la lunghezza focale.
-- Quattro elementi asferici, due dei quali ad alta precisione AA (advanced aspherical) che vengono utilizzati nel design ottico avanzato per eliminare efficacemente la distorsione.
 - Con coperchio, modello: ALC-SH152.Tappo copriobiettivo anteriore: ALC-F77S.Tappo copriobiettivo posteriore: ALC-R1EM.Dotato di custodia.
-- Ampio zoom da 24 a 105 mm con F4 costante. Gestisce facilmente soggetti quali ritratti, istantanee, paesaggi, architettura e molto altro ancora.
 - I tre elementi in vetro ED (dispersione estremamente bassa) vengono strategicamente inseriti nel percorso ottico dellobiettivo per aumentare la risoluzione.
+- Quattro elementi asferici, due dei quali ad alta precisione AA (advanced aspherical) che vengono utilizzati nel design ottico avanzato per eliminare efficacemente la distorsione.
+- Ampio zoom da 24 a 105 mm con F4 costante. Gestisce facilmente soggetti quali ritratti, istantanee, paesaggi, architettura e molto altro ancora.
+- La massima apertura F4, luminosa e costante per tutte le ampiezze di zoom, mantiene la luminosità anche quando viene modificata la lunghezza focale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076VNDS8F/?tag=tolees00-21)

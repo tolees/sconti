@@ -28,9 +28,9 @@ Puoi trovare [GOLIATH - Cubo di Rubik Race](https://www.amazon.it/dp/B07VK9B96S/
 
 ℹ️:
 
-- 1+ giocatore
-- Tempo di gioco: illimitato
 - La confezione contiene: 1 base di gioco, 48 tessere colorate (6 colori diversi), 1 dado mischia-colori con 9 cubetti colorati
 - Età consigliata: 5+
+- 1+ giocatore
+- Tempo di gioco: illimitato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VK9B96S/?tag=tolees00-21)

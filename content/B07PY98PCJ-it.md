@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko - POP! Figura in Vinile: Animation al 23.10 % di sconto'
-date: 2021-02-08 05:13:42
+title: 'Funko - POP! Figura in Vinile: Animation al 22.92 % di sconto'
+date: 2021-02-15 07:04:45
 image: 'https://m.media-amazon.com/images/I/41O-0r782HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B07PY98PCJ-it Funko - POP! Figura in Vinile: Animation: Simpsons - Maggie'
 sku: 'B07PY98PCJ-it'
 tags: [  ]
-actualPrice: 12.95 EUR
+actualPrice: 12.98 EUR
 currency: EUR
-price: 12.95
+price: 12.98
 comparePrice: 16.84 EUR
 prodname: 'Funko - POP! Figura in Vinile: Animation: Simpsons - Maggie'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Funko'
 buyurl: 'https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21'
-descuento: '23.10'
-average: '11.7647058823528'
+descuento: '22.92'
+average: '11.8322222222221'
 ---
 
-Puoi trovare [Funko - POP! Figura in Vinile: Animation: Simpsons - Maggie](https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21) con il prezzo 12.95 EUR (originale: 16.84 EUR) 23.10 % sconto qui:
+Puoi trovare [Funko - POP! Figura in Vinile: Animation: Simpsons - Maggie](https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21) con il prezzo 12.98 EUR (originale: 16.84 EUR) 22.92 % sconto qui:
 
 [![Funko - POP! Figura in Vinile: Animation](https://m.media-amazon.com/images/I/41O-0r782HL._SL200_.jpg)](https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21)
 
 ℹ️:
 
-- Figure stands 9 cm and comes in a window display box
-- From Simpsons, Maggie, as a stylized POP vinyl from Funko
-- Check out the other Simpsons figures from Funko and collect them all
-- Funko POP. is the 2018 Toy of the Year and Peoples Choice award winner
+- Scopri tutte le altre statuine Simpsons di Funko e collezionale tutte!
+- Maggie e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Funko POP! è il giocattolo dellanno 2018!
+- Uniconica statuina Funko Pop! Vinyl della serie Simpsons
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21)

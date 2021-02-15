@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Bradstreet Chukka Leather  St al 38.58 % di sconto'
-date: 2021-02-04 10:11:11
+date: 2021-02-15 07:17:47
 image: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.it/dp/B014YHPQMQ/?tag=tolees00-21'
 descuento: '38.58'
-average: '86.9202985074625'
+average: '86.8933333333331'
 ---
 
 Puoi trovare [Timberland Bradstreet Chukka Leather  Stivali Uomo  Pelle  Materiale suola: Gomma  Larghezza scarpa: medium  Nero  Black Nubuck   45 EU](https://www.amazon.it/dp/B014YHPQMQ/?tag=tolees00-21) con il prezzo 85.99 EUR (originale: 140.0 EUR) 38.58 % sconto qui:
@@ -28,8 +28,10 @@ Puoi trovare [Timberland Bradstreet Chukka Leather  Stivali Uomo  Pelle  Materia
 
 ℹ️:
 
-- 100percent cotton laces
-- Robust rubber outsole for hard-wearing grip
-- Snug-fit padded collar
+- Tipo di tacco: Senza tacco
+- Chiusura: stringata
+- Materiale suola: gomma
+- Fodera: tessuto
+- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014YHPQMQ/?tag=tolees00-21)
