@@ -28,10 +28,10 @@ Puoi trovare [nuncas - Antitarme forte spray Lavanda](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Prodotto: anti tarme forte spray è un presidio medico chirurgico autorizzato dal ministero della salute che protegge in modo efficace e per lungo tempo i capi in lana dallattacco delle tarme
 - Come si usa: per maggior dettagli vedete dettaglio prodotto
-- Consigli: dopo aver lavato tutti i capi e rinfrescato armadi e cassetti, ricordati di proteggerli con nuncas anti tarme forte spray: li troverai lanno dopo ancora profumati di pulito e senza buchi
 - Caratteristiche: può essere utilizzato per disinfestare armadi e cassetti già invasi dalle tarme bastano alcuni giorni per eliminare tutto; al profumo fresco di lavanda provenzale
+- Consigli: dopo aver lavato tutti i capi e rinfrescato armadi e cassetti, ricordati di proteggerli con nuncas anti tarme forte spray: li troverai lanno dopo ancora profumati di pulito e senza buchi
+- Prodotto: anti tarme forte spray è un presidio medico chirurgico autorizzato dal ministero della salute che protegge in modo efficace e per lungo tempo i capi in lana dallattacco delle tarme
 - Formula: la sua formulazione elimina le tarme adulte e previene la deposizione di nuove
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FNLASSU/?tag=tolees00-21)
