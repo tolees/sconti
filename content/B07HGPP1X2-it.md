@@ -28,7 +28,7 @@ Puoi trovare [Funko Harry Potter: Hogwarts Express Mystery Box #67  Include Siri
 
 ℹ️:
 
-- Pop! ha il 50% di possibilità di inseguimento.
 - Harry Potter Mystery box con lesclusivo Sirius Black Pop! Vinile.
+- Pop! ha il 50% di possibilità di inseguimento.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGPP1X2/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '10.99'
 
 ℹ️:
 
-- Vita elastica
-- Vestibilità leggera
 - Logo ripetuto sulla vita
+- Vestibilità leggera
+- Vita elastica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GE3YXUE/?tag=tolees00-21)
