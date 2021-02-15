@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Yoda  Set di Costruzioni  al 15.00 % di sconto'
-date: 2021-02-14 08:34:25
+date: 2021-02-15 10:01:22
 image: 'https://m.media-amazon.com/images/I/5173mjtoTnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07NDB2SFH/?tag=tolees00-21'
 descuento: '15.00'
-average: '98.1059057971014'
+average: '98.0421223021583'
 ---
 
 Puoi trovare [LEGO Star Wars Yoda  Set di Costruzioni  Modello Collezionabile con Espositore  Collezione l’Attacco dei Cloni  75255](https://www.amazon.it/dp/B07NDB2SFH/?tag=tolees00-21) con il prezzo 89.24 EUR (originale: 104.99 EUR) 15.00 % sconto qui:
@@ -28,9 +28,9 @@ Puoi trovare [LEGO Star Wars Yoda  Set di Costruzioni  Modello Collezionabile 
 
 ℹ️:
 
+- Colleziona due personaggi di Yoda LEGO Star Wars in un ottimo set
+- Questo oggetto da collezione Star Wars: Lattacco dei cloni è un ottimo regalo di compleanno o di Natale o semplicemente un dono Star Wars per ogni occasione
 - Il personaggio di Yoda LEGO Star Wars Yoda con la spada laser è alto 41 cm
 - Il personaggio di Yoda è dotato di testa e sopracciglia mobili, dita delle mani e dei piedi snodabili, spada laser verde e targhetta con dettagli del Maestro Jedi, più un supporto con la spada laser
-- Questo oggetto da collezione Star Wars: Lattacco dei cloni è un ottimo regalo di compleanno o di Natale o semplicemente un dono Star Wars per ogni occasione
-- Colleziona due personaggi di Yoda LEGO Star Wars in un ottimo set
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDB2SFH/?tag=tolees00-21)

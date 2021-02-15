@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'h.koenig V5i Ferro da Stiro  2400 W  1.7 al 57.99 % di sconto'
-date: 2021-02-08 13:19:24
+date: 2021-02-15 10:46:34
 image: 'https://m.media-amazon.com/images/I/41YQsytnOVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Puoi trovare [h.koenig V5i Ferro da Stiro  2400 W  1.7 Litri  90  plastica  Meta
 
 ℹ️:
 
-- Vapore verticale
-- Manico per il trasporto
 - Emissione di vapore: 90 g / min
-- Piastra in ceramica
-- Sistema di vapore continuo, serbatoio estraibile per una ricarica durante luso
-- Grande capacitá del serbatoio: 1,7
+- Manico per il trasporto
 - Il massimo della potenza: 2 400 w; potenza vapore: 6 bars
+- Piastra in ceramica
+- Vapore verticale
+- Grande capacitá del serbatoio: 1,7
+- Sistema di vapore continuo, serbatoio estraibile per una ricarica durante luso
 - Unita centrale con compartimento per conservare il cavo elettrico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008DCOW6A/?tag=tolees00-21)

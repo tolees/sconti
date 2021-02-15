@@ -28,8 +28,8 @@ average: '8.8'
 
 ℹ️:
 
-- Minestra dOrzo
 - Confezione da 15 pezzi
+- Minestra dOrzo
 - Ideale per chi ama i sapori di una volta, le classiche Minestre di Pasta.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0864LRK5Q/?tag=tolees00-21)

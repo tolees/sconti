@@ -28,10 +28,10 @@ Puoi trovare [Ferrero Pocket Coffee Classico  400g](https://www.amazon.it/dp/B01
 
 ℹ️:
 
+- POCKET COFFEE - Pralina di cioccolato extra e cioccolato finissimo al latte ripiena di vero caffè liquido
 - INGREDIENTI - caffè liquido zuccherato 54%, cioccolato extra 23%, cioccolato finissimo al latte 14,5%, burro di cacao, pasta di cacao, lattosio, zucchero, estratto di caffè, emulsionanti.
 - POCKET COFFEE - E l’unico che ti dà, ovunque tu sia e in qualsiasi momento della giornata, una carica di piacere
-- LO SAPEVI CHE - In estate non trovate le Specialità Ferrero perché noi le ritiriamo dai punti di vendita. Il caldo, nemico del cioccolato, potrebbe danneggiare la qualità dei nostri prodotti.
 - FORMATO - Per chi vuole una piccola e grande scorta anche a casa, in ufficio, in macchina...
-- POCKET COFFEE - Pralina di cioccolato extra e cioccolato finissimo al latte ripiena di vero caffè liquido
+- LO SAPEVI CHE - In estate non trovate le Specialità Ferrero perché noi le ritiriamo dai punti di vendita. Il caldo, nemico del cioccolato, potrebbe danneggiare la qualità dei nostri prodotti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017UAB4ES/?tag=tolees00-21)
