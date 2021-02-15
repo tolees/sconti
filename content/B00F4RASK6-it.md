@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Apple Cavo da Lightning a USB  2m  al 54.31 % di sconto'
-date: 2021-02-08 05:39:31
+title: 'Apple Cavo da Lightning a USB  2m  al 57.17 % di sconto'
+date: 2021-02-15 06:36:50
 image: 'https://m.media-amazon.com/images/I/31WUTr5oiVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B00F4RASK6-it Apple Cavo da Lightning a USB 2m'
 sku: 'B00F4RASK6-it'
 tags: [  ]
-actualPrice: 15.99 EUR
+actualPrice: 14.99 EUR
 currency: EUR
-price: 15.99
+price: 14.99
 comparePrice: 35.0 EUR
 prodname: 'Apple Cavo da Lightning a USB  2m '
 country: 'it'
 flag: '🇮🇹'
 brand: 'Apple'
 buyurl: 'https://www.amazon.it/dp/B00F4RASK6/?tag=tolees00-21'
-descuento: '54.31'
-average: '15.99'
+descuento: '57.17'
+average: '15.49'
 ---
 
-Puoi trovare [Apple Cavo da Lightning a USB  2m ](https://www.amazon.it/dp/B00F4RASK6/?tag=tolees00-21) con il prezzo 15.99 EUR (originale: 35.0 EUR) 54.31 % sconto qui:
+Puoi trovare [Apple Cavo da Lightning a USB  2m ](https://www.amazon.it/dp/B00F4RASK6/?tag=tolees00-21) con il prezzo 14.99 EUR (originale: 35.0 EUR) 57.17 % sconto qui:
 
 [![Apple Cavo da Lightning a USB  2m ](https://m.media-amazon.com/images/I/31WUTr5oiVL._SL200_.jpg)](https://www.amazon.it/dp/B00F4RASK6/?tag=tolees00-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 33.11 % su Clementoni- Scienza e Gioco-Maker Lab-An  '
-date: 2021-02-08 05:42:58
+date: 2021-02-15 06:38:32
 image: 'https://m.media-amazon.com/images/I/51eJICyEHdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Clementoni'
 buyurl: 'https://www.amazon.it/dp/B07RRXJMVH/?tag=tolees00-21'
 descuento: '33.11'
-average: '19.9735897435897'
+average: '19.9740336134453'
 ---
 
 [Clementoni- Scienza e Gioco-Maker Lab-Animali in Movimento  Multicolore  19098](https://www.amazon.it/dp/B07RRXJMVH/?tag=tolees00-21) ha un prezzo di 20.0 EUR (originale: 29.9 EUR) con uno sconto del 33.11 % sconto qui:
@@ -28,13 +28,13 @@ average: '19.9735897435897'
 
 ℹ️:
 
-- Il gioco contiene 120 elementi: barre, tavolette, chiodini, cubetti, pulegge e pezzi speciali (ellissi, archi e triangoli)
-- Il modulo motorizzato ti permetterà di animare ogni modello realizzato
-- Le istruzioni ti guideranno nellassemblaggio di 5 modelli di divertenti animali: il gorilla, il leone, la foca, lo squalo e linsetto; il resto sta alla tua immaginazione!
-- Età consigliata: + 5 anni.
-- Il divertimento non ha limiti con Maker Lab: assembla, gioca, smonta e ricomincia a costruire tutti i divertenti animali del laboratorio per piccoli maker più bello che ci sia!
-- Per dare il via al movimento basta azionare il motore e; il gorilla cammina con le proprie gambe, linsetto sbatte le ali, lo squalo ti insegue, la foca avanza goffamente e il leone corre
-- Inventa, assembla, gioca! Questo è Maker Lab, il nuovo laboratorio di meccanica per i più piccoli, con tanti componenti facili da montare, per creare fantastici animali che si muovono e camminano
 - Made in Italy.
+- Età consigliata: + 5 anni.
+- Per dare il via al movimento basta azionare il motore e; il gorilla cammina con le proprie gambe, linsetto sbatte le ali, lo squalo ti insegue, la foca avanza goffamente e il leone corre
+- Il modulo motorizzato ti permetterà di animare ogni modello realizzato
+- Il gioco contiene 120 elementi: barre, tavolette, chiodini, cubetti, pulegge e pezzi speciali (ellissi, archi e triangoli)
+- Il divertimento non ha limiti con Maker Lab: assembla, gioca, smonta e ricomincia a costruire tutti i divertenti animali del laboratorio per piccoli maker più bello che ci sia!
+- Le istruzioni ti guideranno nellassemblaggio di 5 modelli di divertenti animali: il gorilla, il leone, la foca, lo squalo e linsetto; il resto sta alla tua immaginazione!
+- Inventa, assembla, gioca! Questo è Maker Lab, il nuovo laboratorio di meccanica per i più piccoli, con tanti componenti facili da montare, per creare fantastici animali che si muovono e camminano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RRXJMVH/?tag=tolees00-21)
