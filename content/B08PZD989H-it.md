@@ -28,12 +28,12 @@ average: '249.99'
 
 ℹ️:
 
-- Schermo nitido con informazioni in tempo reale
 - Dock a parete per caricare laspirapolvere e la batteria allo stesso tempo
-- Fino a 65 minuti di autonomia nella modalità ECO
-- 7*3000 mAh di potenza della batteria, Quattro modalità di aspirazione: eco, standard, massima e automatica
 - Potente e leggera: potenza di aspirazione max 150 W, Motore elettrico DC senza spazzole, Fino a 125.000 giri al minuto
-- Tasso di filtraggio totale del 99,97%, Sistema di filtraggio a 12 cicloni
 - Serbatoio rimovibile e componenti HEPA lavabili
+- Fino a 65 minuti di autonomia nella modalità ECO
+- Tasso di filtraggio totale del 99,97%, Sistema di filtraggio a 12 cicloni
+- Schermo nitido con informazioni in tempo reale
+- 7*3000 mAh di potenza della batteria, Quattro modalità di aspirazione: eco, standard, massima e automatica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PZD989H/?tag=tolees00-21)

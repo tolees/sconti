@@ -28,11 +28,11 @@ average: '157.4'
 
 ℹ️:
 
-- Caratteristiche uniche: ultracompatto, solo 176mm di lunghezza, ultraleggero, solo 1, 1 kg con batteria e perfettamente bilanciato, doppia velocità meccanica con ingranaggi in acciaio
-- Trapano avvitatore a percussione brushless, ultracompatto, pratico e ideale anche per lavorare in spazi ristretti
-- BETA UTENSILI è presente sul TERRITORIO ITALIANO con 3 STABILIMENTI PRODUTTIVI
 - Fora fino ad un diametro di 10 mm nellacciaio e 20 mm nel legno
 - I processi produttivi Beta sono conformi agli standard del Sistema di Qualità ISO 9001, certificazione che accompagna il prodotto dalla materia prima fino alla fase di assistenza post-vendita
+- Trapano avvitatore a percussione brushless, ultracompatto, pratico e ideale anche per lavorare in spazi ristretti
 - 2 batterie da 2Ah e indicatore di carica sul corpo macchina, la tripla auto protezione della batteria offre una maggiore sicurezza e garantisce prestazioni elevate nel tempo
+- BETA UTENSILI è presente sul TERRITORIO ITALIANO con 3 STABILIMENTI PRODUTTIVI
+- Caratteristiche uniche: ultracompatto, solo 176mm di lunghezza, ultraleggero, solo 1, 1 kg con batteria e perfettamente bilanciato, doppia velocità meccanica con ingranaggi in acciaio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K8NL3XM/?tag=tolees00-21)

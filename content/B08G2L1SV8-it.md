@@ -29,9 +29,9 @@ Puoi trovare [Jack Daniel s Sour Mash Tennessee Whiskey LEGACY EDITION No. 3 - G
 ℹ️:
 
 - Finitura: lunga durata
-- Olfatto: frutta dolce e matura, mele verdi, sentori di rovere tostato
-- Colore: Ambra
 - Perfetto come regalo
+- Colore: Ambra
 - Gusto: Equilibrato, note di caramello, vaniglia, legno, spezie pepate
+- Olfatto: frutta dolce e matura, mele verdi, sentori di rovere tostato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G2L1SV8/?tag=tolees00-21)

@@ -28,7 +28,7 @@ Puoi trovare [Pattex 3283015 SL 620 Serramenti ed Edilizia  Resiste alle muffe  
 
 ℹ️:
 
-- ML. 300
 - Edile Bianco Ral9016
+- ML. 300
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FFY9G92/?tag=tolees00-21)

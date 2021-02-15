@@ -29,9 +29,9 @@ average: '51.99'
 ℹ️:
 
 - Tomaia: Pelle
-- Suola: Eva
 - Fissaggio: Pizzo Up
-- Codice Produttore: 65693
+- Suola: Eva
 - Fodera: Tessile
+- Codice Produttore: 65693
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BR1Z75G/?tag=tolees00-21)
