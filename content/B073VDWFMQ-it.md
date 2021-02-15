@@ -28,9 +28,9 @@ average: '17.49'
 
 ℹ️:
 
-- Levette anaglogiche asimmetriche
-- Ideale per sparatutto in prima e in terza persona
 - Impugnatura ottimale
+- Ideale per sparatutto in prima e in terza persona
+- Levette anaglogiche asimmetriche
 - Superficie gommata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073VDWFMQ/?tag=tolees00-21)
