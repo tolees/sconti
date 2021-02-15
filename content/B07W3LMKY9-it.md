@@ -29,7 +29,7 @@ average: '7.99'
 ℹ️:
 
 - Collection Tisane Funzionali Equilibra
-- Tisane & Infusi
 - 60 Filtri
+- Tisane & Infusi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W3LMKY9/?tag=tolees00-21)

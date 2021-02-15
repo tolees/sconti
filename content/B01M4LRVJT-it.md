@@ -28,9 +28,9 @@ Puoi trovare [Foppapedretti Copertina con Mollettone Ricambio per asse da stito 
 
 ℹ️:
 
-- LaCopertina in cotone 100% con polvere di alluminio (senza utilizzo di amianto)
 - Si adattano agli assi da stiro con piano da 101 x 49 cm
 - ILMollettone Ricambio che si inserisce tra la copertina e il piano dellasse da stiro
+- LaCopertina in cotone 100% con polvere di alluminio (senza utilizzo di amianto)
 - LaCopertina e IlMollettone, Ricambi originali Foppapedretti per assi da stiro modello: Asso, Assai, LoStiro, Snello, Stiraemolla, Facile e Kosmos
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M4LRVJT/?tag=tolees00-21)

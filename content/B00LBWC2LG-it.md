@@ -28,12 +28,12 @@ Puoi trovare [Ribimex PRPER710/13 Trapano Avvitatore Elettrico 710 W  230 V](htt
 
 ℹ️:
 
-- Selettore di percussione/foratura/avvitamento-svitamento
-- Capacità di foratura: acciaio: diametro 10 mm - calcestruzzo: diametro 13 mm - legno: diametro 25 mm
-- Pulsante zigrinato di selezione della velocità incorporato
 - 230 v-240v~50 Hz
-- Percussione con funzione di foratura e avvitatura
 - Cavo elettrico 2 m circa
 - Mandrino autoserrante smontabile capacità diametro 13 mm
+- Selettore di percussione/foratura/avvitamento-svitamento
+- Percussione con funzione di foratura e avvitatura
+- Pulsante zigrinato di selezione della velocità incorporato
+- Capacità di foratura: acciaio: diametro 10 mm - calcestruzzo: diametro 13 mm - legno: diametro 25 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LBWC2LG/?tag=tolees00-21)

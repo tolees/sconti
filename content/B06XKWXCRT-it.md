@@ -28,8 +28,8 @@ Puoi trovare [Joma Bali II – Polo da Uomo  Uomo  Polo  100748.600.M  Rosso  M]
 
 ℹ️:
 
+- Apertura in i laterali di la vita
 - Polo manica corta
 - Elastico nelle maniche
-- Apertura in i laterali di la vita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XKWXCRT/?tag=tolees00-21)

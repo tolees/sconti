@@ -29,8 +29,8 @@ Puoi trovare [Skechers Men s DELSON-Antigo Oxfords  Brown  Brown Cdb   9 UK  43 
 ℹ️:
 
 - Ulteriori informazioni sulla: Skechers Men USA
-- Tipo: Sneaker Low
 - Sostanza: Pelle
+- Tipo: Sneaker Low
 - Colorazione: marrone
 - Produttore Numero di articolo: 65693 CDB
 

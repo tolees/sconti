@@ -30,11 +30,11 @@ Puoi trovare [h.koenig V5i Ferro da Stiro  2400 W  1.7 Litri  90  plastica  Meta
 
 - Unita centrale con compartimento per conservare il cavo elettrico
 - Il massimo della potenza: 2 400 w; potenza vapore: 6 bars
-- Piastra in ceramica
-- Grande capacitá del serbatoio: 1,7
 - Emissione di vapore: 90 g / min
 - Sistema di vapore continuo, serbatoio estraibile per una ricarica durante luso
 - Manico per il trasporto
 - Vapore verticale
+- Grande capacitá del serbatoio: 1,7
+- Piastra in ceramica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008DCOW6A/?tag=tolees00-21)
