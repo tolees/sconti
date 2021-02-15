@@ -28,10 +28,10 @@ Puoi trovare [Giotto 256900 - Stilnovo Bicolor Astuccio 12 Pastelli Colorati](ht
 
 ℹ️:
 
+- Facile da temperare
 - Certificato FSC
-- Facile da temperare
-- Facile da temperare
 - 12 pastelli, 24 colori.Mina doppio colore di diametro 3.3 mm
 - Certificato FSC
+- Facile da temperare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BBUUL4I/?tag=tolees00-21)
