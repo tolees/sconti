@@ -28,10 +28,10 @@ average: '38.6566666666667'
 
 ℹ️:
 
-- Confezione da 24 lattine da 50 cl di Tennents Super, Strong Lager 9% alcool
 - Temperatura ottima di servizio 5-7° C
+- Ha un gusto deciso e forte, leggermente dolce
+- Confezione da 24 lattine da 50 cl di Tennents Super, Strong Lager 9% alcool
 - Tennents Super è una birra Strong Lager, doppio malto
 - Tennents Super ha una gradazione alcolica superiore alla media delle birre, bere responsabilmente
-- Ha un gusto deciso e forte, leggermente dolce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086RB2S9W/?tag=tolees00-21)

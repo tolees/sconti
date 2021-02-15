@@ -28,9 +28,9 @@ Puoi trovare [BANDAI NAMCO Entertainment - L era glaciale: La Strampalata Avvent
 
 ℹ️:
 
-- Una nuovissima avventura in 3D con protagonista scrat, lo scoiattolo dai denti a sciabola preferito
-- Arrampicati, scava, intrufolati e fatti strada attraverso le classiche ambientazioni de lera glaciale
 - Cerca le ghiande di cristallo mancanti oltre a una miriade di abilità e tesori nascosti
+- Arrampicati, scava, intrufolati e fatti strada attraverso le classiche ambientazioni de lera glaciale
+- Una nuovissima avventura in 3D con protagonista scrat, lo scoiattolo dai denti a sciabola preferito
 - Esplora quattro divertenti scenari ricchi di momenti esilaranti, noti personaggi e battaglie contro boss giganti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TN2FRVN/?tag=tolees00-21)
