@@ -30,12 +30,12 @@ Puoi trovare [Candy All Floors 10 Caf10 011 Aspirapolvere 850w](https://www.amaz
 
 - Tubo telescopico estendibile
 - Silenziosità: 80 dBA
-- Filtro EPA lavabile + rete protettiva
-- Spazzola combinata per tappeti e pavimenti
-- Accessori 2in1 integrati: Bocchetta per fessure e Spazzola a pennello
-- Potenza 850 W
-- Tecnologia Ciclonica
-- Maniglia di trasporto combinata con il riavvolgimento automatico del cavo
 - Dimensioni Pack: 425 x 280 x 270
+- Tecnologia Ciclonica
+- Spazzola combinata per tappeti e pavimenti
+- Potenza 850 W
+- Maniglia di trasporto combinata con il riavvolgimento automatico del cavo
+- Accessori 2in1 integrati: Bocchetta per fessure e Spazzola a pennello
+- Filtro EPA lavabile + rete protettiva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XB4HWYH/?tag=tolees00-21)

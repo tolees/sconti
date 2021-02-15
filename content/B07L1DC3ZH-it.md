@@ -28,8 +28,8 @@ average: '45.0'
 
 ℹ️:
 
-- Scarpe da running
-- Tomaia in rete
 - Tecnologia gel per lassorbimento degli urti
+- Tomaia in rete
+- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L1DC3ZH/?tag=tolees00-21)

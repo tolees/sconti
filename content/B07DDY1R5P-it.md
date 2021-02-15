@@ -28,7 +28,7 @@ average: '16.99'
 
 ℹ️:
 
-- Lavorato a maglia.
 - Cardigan.
+- Lavorato a maglia.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DDY1R5P/?tag=tolees00-21)

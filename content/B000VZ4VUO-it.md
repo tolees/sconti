@@ -28,8 +28,8 @@ Puoi trovare [Polti Kalstop PAEU0094 Anticalcare per Apparecchi a Caldaia](https
 
 ℹ️:
 
-- Confezionato in fiale monouso
 - Anticalcare di origine naturale e biodegradabile studiato per prevenire la formazione del calcare e migliorare lemissione del vapore degli apparecchi a caldaia
 - Compatibile con: Polti Vaporella (apparecchi con caldaia), Polti Vaporetto (pulitori a traino), Polti Vaporetto Lecoaspira e Polti Unico
+- Confezionato in fiale monouso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000VZ4VUO/?tag=tolees00-21)
