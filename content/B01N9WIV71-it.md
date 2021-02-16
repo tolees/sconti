@@ -29,7 +29,7 @@ average: '19.911212121212'
 ℹ️:
 
 - Nastro iconico allinterno del collo
-- Logo Tommy Hilfiger sul davanti
 - Bandierina Tommy Hilfiger ricamata sulla manica
+- Logo Tommy Hilfiger sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N9WIV71/?tag=tolees00-21)
