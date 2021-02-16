@@ -28,11 +28,11 @@ average: '19.99'
 
 ℹ️:
 
-- Piedini antiscivolo per una stabilità totale del bollitore
-- Interruttore on-off con spia luminosa
-- Capacità di 1 litro
 - Vano raccogli cavo 360° alla base per un comodo e facile utilizzo del bollitore anche in funzione
+- Piedini antiscivolo per una stabilità totale del bollitore
 - Bollitore elettrico con comoda impugnatura resistente al calore
 - Dotato di protezione termica e interruzione del vapore
+- Capacità di 1 litro
+- Interruttore on-off con spia luminosa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GZG1FMQ/?tag=tolees00-21)

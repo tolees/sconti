@@ -28,11 +28,11 @@ average: '20.445'
 
 ℹ️:
 
-- Presidio Medico Chirurgico. La data indicata sulla confezione corrisponde alla data di produzione del prodotto.
 - Offre una piacevole sensazione di freschezza
-- Adatto per qualsiasi esigenza di disinfezione della pelle integra
-- Per uso esterno
-- Agisce nel rispetto del ph della pelle
 - Disinfettare la pelle sia versando direttamente lysoform medical sulla parte interessata, sia detergendo con un batuffolo ben imbevuto
+- Agisce nel rispetto del ph della pelle
+- Per uso esterno
+- Adatto per qualsiasi esigenza di disinfezione della pelle integra
+- Presidio Medico Chirurgico. La data indicata sulla confezione corrisponde alla data di produzione del prodotto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WW41JL5/?tag=tolees00-21)
