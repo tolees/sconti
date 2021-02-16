@@ -28,8 +28,8 @@ average: '38.97'
 
 ℹ️:
 
-- Tomaia in tessuto
 - Scarpe sportive
+- Tomaia in tessuto
 - Intersuola in schiuma ammortizzata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TKZ5G29/?tag=tolees00-21)

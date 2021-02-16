@@ -28,9 +28,9 @@ Puoi trovare [Funko POP Big Red - POP 3](https://www.amazon.it/dp/B08KGMC6BX/?ta
 
 ℹ️:
 
-- POP! vinile da Funko
-- La figura è alta 9 cm e viene fornita in una scatola da esposizione
 - Guarda le altre figure Funko dedicate a questa collezione
 - Collezionali tutti
+- POP! vinile da Funko
+- La figura è alta 9 cm e viene fornita in una scatola da esposizione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KGMC6BX/?tag=tolees00-21)

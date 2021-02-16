@@ -28,9 +28,9 @@ average: '33.5725'
 
 ℹ️:
 
-- Interfaccia: Serial ATA 6 Gb/s (SATA III)
-- Capacità utilizzabile: 240 GB
-- Velocità di Lettura Sequenziale fino a 535 MB/sec e velocità di scrittura sequenziale fino a 500 MB/sec
 - Il CS900 SSD è la scelta migliore per gli appassionati di PC e giocatori durante laggiornamento da loro HDD lento, che offre uninstallazione semplice e relativamente a basso costo
+- Velocità di Lettura Sequenziale fino a 535 MB/sec e velocità di scrittura sequenziale fino a 500 MB/sec
+- Capacità utilizzabile: 240 GB
+- Interfaccia: Serial ATA 6 Gb/s (SATA III)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KIUESVI/?tag=tolees00-21)
