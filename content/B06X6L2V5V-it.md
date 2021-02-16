@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 27.21 % su Timberland Adventure 2.0 Cupsole Chukka   '
-date: 2021-02-15 12:39:20
+date: 2021-02-16 13:44:54
 image: 'https://m.media-amazon.com/images/I/41k0HF3vDCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.it/dp/B06X6L2V5V/?tag=tolees00-21'
 descuento: '27.21'
-average: '89.731724137931'
+average: '90.0871910112359'
 ---
 
 [Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Giallo Yellow Wheat  43 EU](https://www.amazon.it/dp/B06X6L2V5V/?tag=tolees00-21) ha un prezzo di 105.55 EUR (originale: 145.0 EUR) con uno sconto del 27.21 % sconto qui:
@@ -29,7 +29,7 @@ average: '89.731724137931'
 ℹ️:
 
 - Materiale suola: gomma
-- Fodera: tessuto
 - Materiale esterno: pelle
+- Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06X6L2V5V/?tag=tolees00-21)

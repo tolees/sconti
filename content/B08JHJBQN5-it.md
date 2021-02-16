@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'sconto del 29.06 % su WARNER BROS - Beetlejuice Steelbook  4K   '
+date: 2021-02-16 13:26:58
+image: 'https://m.media-amazon.com/images/I/51DM37QvqKL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B08JHJBQN5-it WARNER BROS - Beetlejuice Steelbook 4K UHD + Blu Ray 2 Dischi'
+sku: 'B08JHJBQN5-it'
+tags: [  ]
+actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
+comparePrice: 29.59 EUR
+prodname: 'WARNER BROS - Beetlejuice Steelbook  4K UHD + Blu Ray   2 Dischi '
+country: 'it'
+flag: '🇮🇹'
+brand: 'WARNER BROS'
+buyurl: 'https://www.amazon.it/dp/B08JHJBQN5/?tag=tolees00-21'
+descuento: '29.06'
+average: '26.595'
+---
+
+[WARNER BROS - Beetlejuice Steelbook  4K UHD + Blu Ray   2 Dischi ](https://www.amazon.it/dp/B08JHJBQN5/?tag=tolees00-21) ha un prezzo di 20.99 EUR (originale: 29.59 EUR) con uno sconto del 29.06 % sconto qui:
+
+[![WARNER BROS - Beetlejuice Steelbook  4K ](https://m.media-amazon.com/images/I/51DM37QvqKL._SL200_.jpg)](https://www.amazon.it/dp/B08JHJBQN5/?tag=tolees00-21)
+
+ℹ️:
+
+- Beetlejuice: spiritello porcello
+- Scalmanato. Irresistibile. Una prova smagliante della straordinaria sensibilità del regista Tim Burton verso la cultura pop
+- Film in 4k Ultra HD
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08JHJBQN5/?tag=tolees00-21)

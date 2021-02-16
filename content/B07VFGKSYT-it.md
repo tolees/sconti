@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.00 % su NAPAPIJRI Elli Polo  Blu  Medieval Blue   '
-date: 2021-02-15 06:40:00
+date: 2021-02-16 13:37:27
 image: 'https://m.media-amazon.com/images/I/41L1hOd4YvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '29.5'
 
 ℹ️:
 
-- Colletto a maglia liscia
-- Polo a manica corta panama ecommerce
-- Chiusura a bottoni
-- Tinto in capo con lavaggio acido
 - Dettagli ricamati
+- Tinto in capo con lavaggio acido
+- Polo a manica corta panama ecommerce
+- Colletto a maglia liscia
+- Chiusura a bottoni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VFGKSYT/?tag=tolees00-21)
