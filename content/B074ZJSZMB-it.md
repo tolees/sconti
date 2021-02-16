@@ -28,10 +28,10 @@ Puoi trovare [Baker Ross Mini Forza 4 Giocattoli Perfetti da Regalare alle Feste
 
 ℹ️:
 
-- Classic Game: Connect four and win. These are mini versions of the classic game that can be carried around in your pocket
 - Made by experts: Baker Ross has been designing and providing the very best art and craft supplies, and toys to schools, groups and parents for over 40 years. All products conform to General Product Safety Regulations, and state age recommendation where applicable.
 - Bright Colours: The assorted multi-coloured pack contains 4 mini games with all the pieces you need. Stores flat for easy transport.
-- Perfect Size: Great for little hands and easy for children to use, each toy measures approximately 4.5cm x 7.5cm. For ages 3 and up.
 - Creative Ideas: Unisex toys are perfect for girls and boys. Use for birthday party favours, prizes, lucky dip, pinata or loot bag filler, stocking filler, Easter basket or pocket money toys, and more.
+- Perfect Size: Great for little hands and easy for children to use, each toy measures approximately 4.5cm x 7.5cm. For ages 3 and up.
+- Classic Game: Connect four and win. These are mini versions of the classic game that can be carried around in your pocket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074ZJSZMB/?tag=tolees00-21)

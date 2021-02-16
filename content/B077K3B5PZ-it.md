@@ -28,8 +28,8 @@ average: '145.0'
 
 ℹ️:
 
-- Fishfinder.
 - Navigazione semplice.
+- Fishfinder.
 - Indicatore della velocità sul display.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077K3B5PZ/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Idro Bric M0558 Cassetta WC  Alta Completa Senza Coperchio Superio
 
 ℹ️:
 
-- High
-- Without top lid
 - Made of plastic.
+- High
 - Package Weight: 1.44 kilograms
+- Without top lid
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0198QQJSS/?tag=tolees00-21)

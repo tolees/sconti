@@ -28,9 +28,9 @@ average: '13.99'
 
 ℹ️:
 
-- La mamma leonessa si diverte a giocare con i suoi cuccioli.
-- Da collezionare e ideale per ampliare il gioco con altri personaggi e playset Wild.
 - Decorato a mano nei minimi dettagli.
+- La mamma leonessa si diverte a giocare con i suoi cuccioli.
 - La confezione include 3 animali non disponibili singolarmente.
+- Da collezionare e ideale per ampliare il gioco con altri personaggi e playset Wild.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0842X9RTP/?tag=tolees00-21)

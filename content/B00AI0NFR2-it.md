@@ -28,10 +28,10 @@ Puoi trovare [FERM Banco per Fresatrice. Adatto a fresatrici con piastra base fi
 
 ℹ️:
 
-- Adatto per fresatrici con diametro della piastra di base fino a 162 mm
+- Con collegamento per aspirazione polveri e struttura in alluminio stabile e robusta
 - Interruttore stagno sincrono
 - Facile e precisa regolazione per lavori di precisione
-- Con collegamento per aspirazione polveri e struttura in alluminio stabile e robusta
+- Adatto per fresatrici con diametro della piastra di base fino a 162 mm
 - Adatto per tutte le fresatrici FERM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AI0NFR2/?tag=tolees00-21)

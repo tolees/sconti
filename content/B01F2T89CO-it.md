@@ -28,8 +28,8 @@ average: '46.49'
 
 ℹ️:
 
-- Scarpe sportive
 - Ammortizzazione
+- Scarpe sportive
 - Suola in gomma antiabrasione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01F2T89CO/?tag=tolees00-21)
