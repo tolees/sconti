@@ -28,12 +28,12 @@ average: '51.99'
 
 ℹ️:
 
+- Sole material: gomma
+- Shoe width: normale
 - Closure: stringata
 - Lining: tela
 - Material composition: sintetico
-- Shoe width: normale
 - Outer material: sintetico
 - Heel type: senza tacco
-- Sole material: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082R7B5YM/?tag=tolees00-21)

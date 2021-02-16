@@ -28,9 +28,9 @@ average: '51.99'
 
 ℹ️:
 
-- Scarpe da basket
 - Tomaia morbida e leggera
 - Prodotto di ottima qualita
 - Lintersuola è dotata di due tipi di ammortizzazione in schiuma
+- Scarpe da basket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082R5WVT3/?tag=tolees00-21)

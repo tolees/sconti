@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 38.49 % su Equilibra Cofanetto Tisane Collection  6  '
-date: 2021-02-15 10:51:43
+date: 2021-02-16 12:26:56
 image: 'https://m.media-amazon.com/images/I/51K6uwlkdLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '7.99'
 
 ℹ️:
 
-- Collection Tisane Funzionali Equilibra
-- 60 Filtri
 - Tisane & Infusi
+- 60 Filtri
+- Collection Tisane Funzionali Equilibra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W3LMKY9/?tag=tolees00-21)
