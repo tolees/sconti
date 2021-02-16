@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 28.73 % su CMP RIGEL  Scarpe da trekking medio uomo  '
-date: 2021-02-15 06:38:01
+date: 2021-02-16 07:20:29
 image: 'https://m.media-amazon.com/images/I/41mZXfEF1pL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'CMP'
 buyurl: 'https://www.amazon.it/dp/B00R57UIQM/?tag=tolees00-21'
 descuento: '28.73'
-average: '57.1050000000001'
+average: '57.0911111111112'
 ---
 
 [CMP RIGEL  Scarpe da trekking medio uomo  Grigio  Grau  GREY U862    43](https://www.amazon.it/dp/B00R57UIQM/?tag=tolees00-21) ha un prezzo di 56.98 EUR (originale: 79.95 EUR) con uno sconto del 28.73 % sconto qui:
@@ -28,8 +28,8 @@ average: '57.1050000000001'
 
 ℹ️:
 
-- Il comfort è offerto dalle solette in tessuto
 - La suola in materiale di qualità offre unottima adesione alle superfici
 - La parte superiore è prodotta in vera pelle
+- Il comfort è offerto dalle solette in tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00R57UIQM/?tag=tolees00-21)

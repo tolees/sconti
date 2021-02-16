@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 49.66 % su Timberland Adventure 2.0 Cupsole Chukka   '
-date: 2021-02-15 07:23:45
+date: 2021-02-16 08:02:12
 image: 'https://m.media-amazon.com/images/I/41V4M8u1yrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,10 @@ average: '72.99'
 
 ℹ️:
 
-- Padded collar cushions the ankle
-- Lace-up style
-- Comfy breathable mesh lining
+- Pregiata pelle pieno fiore proveniente da una conceria sostenibile classificata Silver da LWG
+- Soletta in EVA che ammortizza e assorbe gli urti
+- Collo imbottito che avvolge la caviglia
+- Modello stringato per la massima sicurezza
+- Comoda fodera in mesh traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21)

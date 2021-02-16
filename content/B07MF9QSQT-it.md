@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 28.08 % su Sony HT-S350 Soundbar 2.1 Canali con Sub  '
-date: 2021-02-15 06:45:17
+date: 2021-02-16 07:18:07
 image: 'https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21'
 descuento: '28.08'
-average: '173.6676'
+average: '174.18'
 ---
 
 [Sony HT-S350 Soundbar 2.1 Canali con Subwoofer Wireless  Bluetooth  Nero](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21) ha un prezzo di 186.99 EUR (originale: 260.0 EUR) con uno sconto del 28.08 % sconto qui:
@@ -29,10 +29,10 @@ average: '173.6676'
 ℹ️:
 
 - Scopri un sound coinvolgente con S-Force PRO Front Surround
-- Terminale di uscita e ingresso: USB tipo A solo per aggiornamenti; Bluetooth RX ricevitore; versione 5 Bluetooth
-- Audio surround avvolgente dai dettagli accurati grazie alle esclusive tencologie Sony S-Force PRO Front Surround e 5.1ch Decode
-- Ascolto della musica immediato tramite il tuo device mobile via Bluetooth
-- Potenza totale di 320 W e profondo suono surround, forti bassi grazie al suo subwoofer wireless
 - Si collega in un batter docchio a una serie di televisori; design elegante che si abbina con qualsiasi stile di aredamento; la barra puó essere montata direttamente sulla parete
+- Potenza totale di 320 W e profondo suono surround, forti bassi grazie al suo subwoofer wireless
+- Terminale di uscita e ingresso: USB tipo A solo per aggiornamenti; Bluetooth RX ricevitore; versione 5 Bluetooth
+- Ascolto della musica immediato tramite il tuo device mobile via Bluetooth
+- Audio surround avvolgente dai dettagli accurati grazie alle esclusive tencologie Sony S-Force PRO Front Surround e 5.1ch Decode
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MF9QSQT/?tag=tolees00-21)
