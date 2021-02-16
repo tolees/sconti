@@ -29,9 +29,9 @@ Puoi trovare [Moleskine - Agenda Settimanale 2021  Agenda Settimanale 12 Mesi  W
 ℹ️:
 
 - Ogni agenda presenta come inserto speciale 295 stickers adesivi colorati per personalizzare il proprio weekly planner: 1 foglietto di stickers con le lettere dellalfabeto e 2 con tante icone diverse
+- Questo planner settimanale consente di avere una visione dinsieme su tutta la settimana sulla sinistra, mentre sulla destra si trova una pagina a righe per prendere appunti come nel classico notebook
 - La confezione contiene unagenda settimanale da 12 mesi con copertina rigida, formato POCKET 9 x 14 cm da 144 pagine e nel colore nero
 - Lagenda presenta gli iconici angoli arrotondati, chiusura ad elastico, nastrino segnalibro e scritta "in case of loss" nel risguardo anteriore. La carta da 70 g/m² è color avorio e senza cloro
 - Inizia il nuovo anno con questa agenda settimanale da 12 mesi che copre tutto lanno, da gennaio a dicembre 2021, con una pagina dedicata a tutti i giorni della settimana per una visione complessiva
-- Questo planner settimanale consente di avere una visione dinsieme su tutta la settimana sulla sinistra, mentre sulla destra si trova una pagina a righe per prendere appunti come nel classico notebook
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y62MWGR/?tag=tolees00-21)
