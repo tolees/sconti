@@ -30,8 +30,8 @@ average: '23.8823863636364'
 
 - Per bambini dai 3 anni in su
 - Statuetta di circa 6 – 8 cm
+- Padre glenn, madre amanda, figlia nicola & figlio jack
 - Fantastici personaggi per casa delle bambole
 - Sylvanian families è una simpatica collezione di giocattoli di animali con braccia e gambe mobili, edifici e case dettagliati, mobili e accessori; i personaggi sono dipinti a mano e i vestiti sono fatti a mano
-- Padre glenn, madre amanda, figlia nicola & figlio jack
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NHZTY3Z/?tag=tolees00-21)

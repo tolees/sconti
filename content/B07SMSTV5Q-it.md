@@ -29,8 +29,8 @@ average: '25.6566666666666'
 ℹ️:
 
 - Enriched with a delicious jelly that makes the food tasty and tasty
-- Complete food, great for your cats daily feeding
 - Rich in Vitamin E and D, Omega 6 and Minerals
 - Created with quality meat
+- Complete food, great for your cats daily feeding
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SMSTV5Q/?tag=tolees00-21)

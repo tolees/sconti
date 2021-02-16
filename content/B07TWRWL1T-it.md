@@ -29,9 +29,9 @@ average: '29.99'
 ℹ️:
 
 - Progettato per Lego 21036,con questo kit di luci, puoi trasformare il tuo Lego Architecture Arc De Triomphe da scuro a luminoso, farlo prendere vita.
-- Si prega di notare che è incluso solo il set di luci a LED. Tutti i set LEGO mostrati nelle immagini e video non sono inclusi.
 - Se avete difficoltà con il vostro prodotto, vi preghiamo di inviarci una e-mail, siamo sempre qui per lassistenza.
-- La confezione contiene luci per bit, strip light, schede di espansione, cavi di collegamento, pacco batterie (batterie non incluse), piastre adesive, libretto di istruzioni.
+- Si prega di notare che è incluso solo il set di luci a LED. Tutti i set LEGO mostrati nelle immagini e video non sono inclusi.
 - Con istruzioni passo per passo, troverai un modo più semplice per fare un enorme upgrade al tuo kit di costruzioni preferito.
+- La confezione contiene luci per bit, strip light, schede di espansione, cavi di collegamento, pacco batterie (batterie non incluse), piastre adesive, libretto di istruzioni.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TWRWL1T/?tag=tolees00-21)

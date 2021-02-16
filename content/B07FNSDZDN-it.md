@@ -29,9 +29,9 @@ average: '41.7589610389612'
 ℹ️:
 
 - Include 3 minifigure: il pilota della Challenger, il pilota della Charger e un commissario di gara
+- La Dodge Challenger SRT Demon del 2018, costruibile e predisposta per le gare, è dotata di abitacolo per minifigure, parabrezza rimovibile, ruote con pneumatici in gomma, 2 set di cerchioni, alettone posteriore, doppio scarico, design originale e adesivi decorativi
 - La muscle car Dodge Charger R/T del 1970, anch’essa costruibile, è dotata di abitacolo per minifigure, parabrezza rimovibile, ruote con pneumatici in gomma, supercharger rimovibile e cofano del motore alternativo, fari trasparenti, design autentico e adesivi decorativi
 - Questo set con auto giocattolo include un semaforo azionato a leva e costruibile, dotato di elementi luce trasparenti
 - Rimuovi i parabrezza per posizionare ciascuna minifigure nelle vetture
-- La Dodge Challenger SRT Demon del 2018, costruibile e predisposta per le gare, è dotata di abitacolo per minifigure, parabrezza rimovibile, ruote con pneumatici in gomma, 2 set di cerchioni, alettone posteriore, doppio scarico, design originale e adesivi decorativi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FNSDZDN/?tag=tolees00-21)

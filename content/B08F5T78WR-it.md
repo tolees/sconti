@@ -28,8 +28,8 @@ Puoi trovare [Warner Bros. Interactive Entertainment - Full Metal Jacket Special
 
 ℹ️:
 
+- Miglior film di guerra mai realizzato - Toronto Globe and Mail
 - Steelbook da collezione
 - Un film di Stanley Kubrick
-- Miglior film di guerra mai realizzato - Toronto Globe and Mail
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5T78WR/?tag=tolees00-21)

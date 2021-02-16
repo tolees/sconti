@@ -28,10 +28,10 @@ average: '18.1495412844037'
 
 ℹ️:
 
-- The product does not come in a box. The box is sold separately
-- The open design adds a touch of elegance to your bracelet
-- This open heart charm is made from sterling silver and has been formed from many silver beads to form a pretty heart
 - Wear it on your favourite Pandora charm bracelet for an enchanting look
 - A charming gift idea that all your loved ones will appreciate
+- The product does not come in a box. The box is sold separately
+- This open heart charm is made from sterling silver and has been formed from many silver beads to form a pretty heart
+- The open design adds a touch of elegance to your bracelet
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JN7VMR5/?tag=tolees00-21)

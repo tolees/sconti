@@ -28,11 +28,11 @@ average: '110.018648648648'
 
 ℹ️:
 
-- Velocità di lettura sequenziale fino a 550 MB/s e velocità di scrittura sequenziale fino a 520 MB/s
-- Interfaccia SATA 6 Gb/s e retrocompatibile con SATA 3 Gb/s e SATA 1.5 Gb/s
 - SSD con tecnologia V-NAND Samsung
 - Progettato per PC e laptop tradizionali per uso personale, di gioco e aziendale
-- Capacità disponibile: fino a 4 TB
 - Fattore di forma 2.5 pollici, ottimo sia per computer portatili che fissi
+- Interfaccia SATA 6 Gb/s e retrocompatibile con SATA 3 Gb/s e SATA 1.5 Gb/s
+- Capacità disponibile: fino a 4 TB
+- Velocità di lettura sequenziale fino a 550 MB/s e velocità di scrittura sequenziale fino a 520 MB/s
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078WST5RK/?tag=tolees00-21)

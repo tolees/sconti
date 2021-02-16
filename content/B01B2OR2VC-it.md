@@ -29,9 +29,9 @@ Puoi trovare [KingDian 240GB-Disco 128 m Cache SATAIII disk SSD Solid State S280
 ℹ️:
 
 - MTBF: 1,500,000 ore; Conservazione dati: 10 anni.
-- Sequenziale lettura/scrittura (prestazioni fino a): 559,7 381/MB/S
 - Tipo interfaccia: 2,5 "SATA II TLC, 100 x 7 x 69 mm).
-- Articolo numero: sottile tipo 7 mm per S280 Ultra sottile 240GB.
+- Sequenziale lettura/scrittura (prestazioni fino a): 559,7 381/MB/S
 - Migliorano le prestazioni quotidiane computing esigenze; dotati di un anno (Garanzia limitata).
+- Articolo numero: sottile tipo 7 mm per S280 Ultra sottile 240GB.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01B2OR2VC/?tag=tolees00-21)

@@ -29,7 +29,7 @@ average: '41.3141176470588'
 ℹ️:
 
 - COLLECTOR’S EDITION
-- 8 Dischi, digibook di 32 pagine, immagini di scena, citazioni, bozzetti dei costumi e delle scenografie e tanto altro
 - Un PRODOTTO RICERCATO, con STAMPA IN ORO su materiale EFFETTO SIMIL PELLE che rende il cofanetto particolarmente elegante ed accattivante. LE GRAFICHE degli 8 DISCHI sono TUTTE NUOVE in linea con il ‘look’ del prodotto.
+- 8 Dischi, digibook di 32 pagine, immagini di scena, citazioni, bozzetti dei costumi e delle scenografie e tanto altro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083YKR9VP/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Funko- Disney: Mt Rainier-Pop 1 Figura da Collezione  Multicolore 
 
 ℹ️:
 
-- Funko POP. Is The 2018 Toy Of The Year And Peoples Choice Award Winner
-- Officially licensed Disney Product
 - From Disney Frozen 2, Elsa, as a stylized POP. vinyl from Funko
-- Check out the other Disney Frozen 2 figures from Funko and collect them all
+- Funko POP. Is The 2018 Toy Of The Year And Peoples Choice Award Winner
 - Figure stands 9 cm and comes in a window display box
+- Officially licensed Disney Product
+- Check out the other Disney Frozen 2 figures from Funko and collect them all
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QVSST4C/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Tommy Hilfiger 3p Trunk Boxer  Nero  Black/Grey Heather/White 004 
 
 ℹ️:
 
-- Tommy Hilfiger repeat logo waistband
-- Three pack
 - Stretch cotton blend
+- Three pack
+- Tommy Hilfiger repeat logo waistband
 - Signature tape on waistband
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UBOITD0/?tag=tolees00-21)
