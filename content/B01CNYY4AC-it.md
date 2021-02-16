@@ -28,10 +28,10 @@ Puoi trovare [Giotto- Schoolpack 192 Pz Stilnovo-16 X 12  Colori Assortiti  5234
 
 ℹ️:
 
-- Lunghezza 18cm
-- Verniciato nel colore della mina con spigoli argentati
 - Mina 3,3mm di ottima qualità e resa, facile da temperare
-- Pastello a sezione esagonale di 6,8mm
 - Spazio per scrivere il nome direttamente sul pastello
+- Verniciato nel colore della mina con spigoli argentati
+- Lunghezza 18cm
+- Pastello a sezione esagonale di 6,8mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CNYY4AC/?tag=tolees00-21)
