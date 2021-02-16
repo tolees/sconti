@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture New York City  Set di  al 20.98 % di sconto'
-date: 2021-02-14 21:14:04
+date: 2021-02-16 00:49:25
 image: 'https://m.media-amazon.com/images/I/51eda0bZppL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B012NOGGHQ/?tag=tolees00-21'
 descuento: '20.98'
-average: '46.7975510204082'
+average: '46.5113725490196'
 ---
 
 Puoi trovare [LEGO Architecture New York City  Set di Costruzioni  21028](https://www.amazon.it/dp/B012NOGGHQ/?tag=tolees00-21) con il prezzo 39.5 EUR (originale: 49.99 EUR) 20.98 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [LEGO Architecture New York City  Set di Costruzioni  21028](htt
 
 ℹ️:
 
-- Include una base con tegole 4x32 e la targhetta decorativa "New York City"
 - Contiene il grattacielo Flatiron, il Chrysler Building, lEmpire State Building, il One World Trade Center e la Statua della Libertà
-- Il libretto incluso contiene informazioni sul design, larchitettura e la storia di ogni edificio, più fatti storici su New York e il suo patrimonio architettonico (solo in inglese; altre lingue disponibili per il download sul sito LEGO Architecture)
+- Include una base con tegole 4x32 e la targhetta decorativa "New York City"
 - Ricrea le città più belle del mondo con la collezione LEGO Architecture Skyline
 - Interpretazione LEGO dei più famosi edifici di New York
+- Il libretto incluso contiene informazioni sul design, larchitettura e la storia di ogni edificio, più fatti storici su New York e il suo patrimonio architettonico (solo in inglese; altre lingue disponibili per il download sul sito LEGO Architecture)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B012NOGGHQ/?tag=tolees00-21)
