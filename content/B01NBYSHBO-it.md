@@ -28,10 +28,10 @@ average: '2.15'
 
 ℹ️:
 
-- Dispositivo medico con certificazione EN ISO 4074, conferisce protezione dalle malattie sessualmente trasmissibili
 - Larghezza nominale 52mm, lunghezza 180mm, spessore 0.040-0.050 mm
+- Preservativo in pure lattice di gomma naturale
 - Preservativo ultrasottile: Il 40% più sottile dei profilattici classici: con i suoi 0,045 mm di spessore garantisce una sensibilità estrema
 - Profilattico extra-lubrificato per una maggiore scorrevolezza durante il rapporto ed unelevata sensazione di piacere.
-- Preservativo in pure lattice di gomma naturale
+- Dispositivo medico con certificazione EN ISO 4074, conferisce protezione dalle malattie sessualmente trasmissibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NBYSHBO/?tag=tolees00-21)

@@ -29,9 +29,9 @@ average: '46.99'
 ℹ️:
 
 - Intensità regolabile, timer per countdown, schermo LCD con retroilluminazione blu e arresto di sicurezza
-- Per terapia del dolore, stimolazione muscolare, relax e massaggio
-- 2 canali regolabili separatamente, 64 applicazioni pre-programmate e 6 programmi individuali a frequenza programmabile
 - Include: 4 elettrodi autoadesivi di 45 x 45 mm e 3 batterie AAA
 - Corrente in uscita: 200 mA p-p per un carico di 500 Ohm
+- 2 canali regolabili separatamente, 64 applicazioni pre-programmate e 6 programmi individuali a frequenza programmabile
+- Per terapia del dolore, stimolazione muscolare, relax e massaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KUJ1VMG/?tag=tolees00-21)

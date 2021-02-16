@@ -28,15 +28,15 @@ Puoi trovare [Marchio Amazon - Lifelong - Snack per cani  senza grano  con mono 
 
 ℹ️:
 
+- Con patate, una ricca fonte di energia. A basso tenore di grassi
+- Arricchito con minerali e vitamine A e B, che supportano il sistema immunitario
+- Perfetto per laddestramento. Alimento complementare che può essere impiegato anche come premio per laddestramento
 - Sviluppato da nutrizionisti per animali e controllato da veterinari
 - Senza zucchero, aromi artificiali o coloranti
-- Arricchito con minerali e vitamine A e B, che supportano il sistema immunitario
-- Adatto a cani di tutte le taglie: piccoli, medi e grandi
-- Con biotina e zinco che supportano una pelle e un pelo in salute
-- Ipoallergenico: Singola fonte di proteine animali (agnello). Senza grano, mais, soia, uova, lattosio o glutine aggiunti
-- Perfetto per laddestramento. Alimento complementare che può essere impiegato anche come premio per laddestramento
 - 2kg (4 x 500gr)
+- Con biotina e zinco che supportano una pelle e un pelo in salute
+- Adatto a cani di tutte le taglie: piccoli, medi e grandi
+- Ipoallergenico: Singola fonte di proteine animali (agnello). Senza grano, mais, soia, uova, lattosio o glutine aggiunti
 - Arricchito con ortica e barbabietole rosse, che supportano il sistema immunitario ed il transito intestinale. Con taurina e biotina che supportano la salute di occhi e cuore
-- Con patate, una ricca fonte di energia. A basso tenore di grassi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087RR2ZTR/?tag=tolees00-21)
