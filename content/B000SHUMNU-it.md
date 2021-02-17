@@ -28,10 +28,10 @@ Puoi trovare [Pentel Pen N50 Marcatore Permanente Punta Conica Nero 12 Pezzi](ht
 
 ℹ️:
 
-- Will write on almost any surface including cardboard, plastic, metal, wood and glass
-- Vivid waterproof ink
 - Bonded fibre tips retain their shape
+- Will write on almost any surface including cardboard, plastic, metal, wood and glass
 - Robust aluminium barrel
 - One of the UKs favouriet permanent markers
+- Vivid waterproof ink
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000SHUMNU/?tag=tolees00-21)

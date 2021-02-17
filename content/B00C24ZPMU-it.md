@@ -28,8 +28,8 @@ Puoi trovare [Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   M](https://ww
 
 ℹ️:
 
-- Lavabile in lavatrice a 30 ° C
 - Stile del collo: Polo
+- Lavabile in lavatrice a 30 ° C
 - Maniche corte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00C24ZPMU/?tag=tolees00-21)

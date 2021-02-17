@@ -28,9 +28,9 @@ Puoi trovare [BANDAI NAMCO Entertainment - Cyberpunk 2077 D1 Edition - Day-One -
 
 ℹ️:
 
-- Diventa un cyberpunk, un mercenario urbano dotato di potenziamenti cibernetici, e crea la tua leggenda sulle strade di Night City.
 - Bonus digitali inclusi nella D1 Edition: colonna sonora del gioco, libretto digitale con una selezione di bozzetti del gioco, manuale di cyberpunk 2020, sfondi per desktop e dispositivi Mobile; - fumetto digitale cyberpunk 2077: la tua voce
 - Entra nellimmenso mondo aperto di Night City, un luogo che definisce nuovi standard in termini di grafica, complessità e profondità.
 - Accetta il lavoro più rischioso della tua vita e dai la caccia al prototipo di un impianto in grado di conferire limmortalità.
+- Diventa un cyberpunk, un mercenario urbano dotato di potenziamenti cibernetici, e crea la tua leggenda sulle strade di Night City.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SBWXC2Y/?tag=tolees00-21)

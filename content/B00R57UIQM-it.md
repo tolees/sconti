@@ -28,10 +28,10 @@ average: '57.0852631578948'
 
 ℹ️:
 
-- Fullon grip profile sole
-- Apro Tect ClimaLite membrane
 - Waterproof
 - Robuste toe cap
+- Apro Tect ClimaLite membrane
+- Fullon grip profile sole
 - EVA midsole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00R57UIQM/?tag=tolees00-21)

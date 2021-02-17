@@ -29,9 +29,9 @@ average: '29.5'
 ℹ️:
 
 - Tinto in capo con lavaggio acido
-- Dettagli ricamati
-- Polo a manica corta panama ecommerce
-- Colletto a maglia liscia
 - Chiusura a bottoni
+- Dettagli ricamati
+- Colletto a maglia liscia
+- Polo a manica corta panama ecommerce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VFGKSYT/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [WARNER BROS - Greenland  Blu-Ray ](https://www.amazon.it/dp/B08RFQ
 
 ℹ️:
 
-- Azione e thriller
 - Dopo Attacco al Potere 3, Gerard Butler e il regista Ric Roman Waugh collaborano nuovamente insieme in un disaster movie ad alto tasso di adrenalina
+- Azione e thriller
 - Greenland il film
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RFQWTCK/?tag=tolees00-21)

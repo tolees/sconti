@@ -28,10 +28,10 @@ average: '84.3188888888888'
 
 ℹ️:
 
-- Save up to 70 Percent on ink (HP 305 inks) with HP Instant Ink and never run out of ink; ordered by your printer, delivered to your door, 3 months trial included
 - Get rich black text and vibrant graphics for all your everyday documents and photos
-- Print, scan, and copy
 - Self-healing Wi-Fi automatically detects and resolves connectivity issues to help reduce interruptions
+- Print, scan, and copy
+- Save up to 70 Percent on ink (HP 305 inks) with HP Instant Ink and never run out of ink; ordered by your printer, delivered to your door, 3 months trial included
 - With HP Smart app, print and scan from virtually anywhere: Print documents, photos from the cloud, social media, scan with your smartphone camera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086LRTY7X/?tag=tolees00-21)
