@@ -30,8 +30,8 @@ average: '479.046153846154'
 
 - Durata della batteria: fino a 45 km
 - Velocità massima: ca. 25 km/h; sofisticato sistema di controllo della velocità di crociera e recupero dell’energia cinetica (KERS)
-- Display integrato per un comodo e veloce monitoraggio con velocità/batteria/km/modalità
 - Pneumatici antislittamento e ammortizzanti da 8.5 pollici; doppio sistema frenante
 - Peso: 14.2 kg; peso massimo supportato: 100 kg
+- Display integrato per un comodo e veloce monitoraggio con velocità/batteria/km/modalità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089WDJJ7H/?tag=tolees00-21)
