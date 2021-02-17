@@ -28,9 +28,9 @@ average: '49.99'
 
 ℹ️:
 
+- Custodia
 - 34x34x19.50
 - Avvio rapido - ventilatore a batteria estraibile
 - Pronto in 15 minuti
-- Custodia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079QWBMNS/?tag=tolees00-21)

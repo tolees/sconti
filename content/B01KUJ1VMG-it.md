@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 41.26 % su Beurer EM 49 Elettrostimolatore Digitale  '
-date: 2021-02-16 14:18:19
+date: 2021-02-17 17:58:00
 image: 'https://m.media-amazon.com/images/I/41hrsKYdHBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '46.99'
 
 ℹ️:
 
-- Intensità regolabile, timer per countdown, schermo LCD con retroilluminazione blu e arresto di sicurezza
-- Include: 4 elettrodi autoadesivi di 45 x 45 mm e 3 batterie AAA
-- Corrente in uscita: 200 mA p-p per un carico di 500 Ohm
 - 2 canali regolabili separatamente, 64 applicazioni pre-programmate e 6 programmi individuali a frequenza programmabile
+- Intensità regolabile, timer per countdown, schermo LCD con retroilluminazione blu e arresto di sicurezza
 - Per terapia del dolore, stimolazione muscolare, relax e massaggio
+- Corrente in uscita: 200 mA p-p per un carico di 500 Ohm
+- Include: 4 elettrodi autoadesivi di 45 x 45 mm e 3 batterie AAA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KUJ1VMG/?tag=tolees00-21)

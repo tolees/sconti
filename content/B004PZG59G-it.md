@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
+- Momento meccanico: 80 - 340 N·m.
+- Lunghezza cavo circa 4 m.
 - Tensione di funzionamento: 12 V corrente continua.
 - Taglio: 12,5 mm.
-- Momento meccanico: 80 - 340 N·m.
 - Potenza: 70 Watt.
-- Lunghezza cavo circa 4 m.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004PZG59G/?tag=tolees00-21)

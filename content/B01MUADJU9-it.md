@@ -28,10 +28,10 @@ average: '190.2'
 
 ℹ️:
 
-- Materiali: Acciaio, PVD Nero
+- La perfezione tecnica e la cura dei particolari, che Maserati mette in ogni sua auto, si riflettono in cronografi dallo stile inconfondibile, che riprendono gli elementi più iconici della storia e del design della casa del Tridente.
 - Funzioni: Cronografo
 - Dettaglio immancabile: la forma dellansa che ricorda il profilo della mitica 3500 GT del 1957.
 - Confezione originale Maserati
-- La perfezione tecnica e la cura dei particolari, che Maserati mette in ogni sua auto, si riflettono in cronografi dallo stile inconfondibile, che riprendono gli elementi più iconici della storia e del design della casa del Tridente.
+- Materiali: Acciaio, PVD Nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MUADJU9/?tag=tolees00-21)

@@ -29,8 +29,8 @@ average: '145.0'
 ℹ️:
 
 - Connessione Wireless
-- Per PlayStation3 e PC
 - Tecnologia di controllo analogica
+- Per PlayStation3 e PC
 - Interfaccia RF
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005PPOBQE/?tag=tolees00-21)
