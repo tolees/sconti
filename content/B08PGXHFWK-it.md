@@ -28,8 +28,8 @@ Puoi trovare [WARNER BROS - The Flash - Stagione 6  4 Blu Ray ](https://www.amaz
 
 ℹ️:
 
+- La sesta stagione completa
 - The Flash
 - Neanche Flash può fermare ciò che sta per arrivare!
-- La sesta stagione completa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PGXHFWK/?tag=tolees00-21)

@@ -29,8 +29,8 @@ average: '32.3852531645568'
 ℹ️:
 
 - Include il quad, un personaggio, un tirannosauro, un velociraptor, pietre preistoriche e ossa
-- Prodotto di ottima qualità
 - La pulizia dei pezzi si può effettuare con acqua e senza luso di prodotti chimici
+- Prodotto di ottima qualità
 - Adatto come regalo
 - Per il montaggio si raccomanda consultare il manuale distruzioni allinterno della confezione
 

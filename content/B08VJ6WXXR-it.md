@@ -29,9 +29,9 @@ Puoi trovare [eXtremeRate Tasti DTFS LED Kit per PS4 Joystick Levette Analogiche
 ℹ️:
 
 - Compatibile solo con PlayStation 4 controller di modello CUH ZCT2*, JDM-040/050/055. Verificare il modello del controller secondo la terza foto della lista prima dell’acquisto.
-- Facile da installare, smontare il tuo controller, attaccare e collegare, nessuna saldatura
 - Controllo da pulsanti, imposta il LED al volo; include dpad, L1 / R1, L2 / R2, pulsante ps, 2 levette analogiche e 4 pulsanti frontali
 - 7 singole aree LED con 10 modalità, puoi mescolare e abbinare per mostrare la tua personalità
 - Viene fornito con cacciaviti, strumento per apertura, pinzette, molle e viti. Compatibile con eXtremeRate DAWN Remap Kit e eXtremeRate Clicky Hair Trigger Kit
+- Facile da installare, smontare il tuo controller, attaccare e collegare, nessuna saldatura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VJ6WXXR/?tag=tolees00-21)
