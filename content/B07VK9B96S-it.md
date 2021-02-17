@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GOLIATH - Cubo di Rubik Race al 16.74 % di sconto'
-date: 2021-02-15 06:44:49
+date: 2021-02-17 06:38:03
 image: 'https://m.media-amazon.com/images/I/51RJD3DxxpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [GOLIATH - Cubo di Rubik Race](https://www.amazon.it/dp/B07VK9B96S/
 
 ℹ️:
 
-- Età consigliata: 5+
 - 1+ giocatore
 - La confezione contiene: 1 base di gioco, 48 tessere colorate (6 colori diversi), 1 dado mischia-colori con 9 cubetti colorati
 - Tempo di gioco: illimitato
+- Età consigliata: 5+
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VK9B96S/?tag=tolees00-21)

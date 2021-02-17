@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.95 % su POMPEA Slip Feel Intimo  Nero  S/M Donna  '
-date: 2021-02-16 06:54:20
+date: 2021-02-17 06:57:08
 image: 'https://m.media-amazon.com/images/I/31-wYLdprnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Pack 3 pezzi
-- con tassello
 - slip a vita regolare
 - in microfibra
 - senza cuciture
+- con tassello
+- Pack 3 pezzi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HRMPHMG/?tag=tolees00-21)
