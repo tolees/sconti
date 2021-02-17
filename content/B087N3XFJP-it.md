@@ -28,9 +28,9 @@ average: '27.406301369863'
 
 ℹ️:
 
-- Scopri tutte le altre statuine Star Wars di Funko e collezionale tutte!
-- Uniconica statuina Funko Pop! Vinyl della serie The Mandalorian
-- Funko POP! è il giocattolo dellanno 2018!
 - Mando Flying w/Jet Pack e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Scopri tutte le altre statuine Star Wars di Funko e collezionale tutte!
+- Funko POP! è il giocattolo dellanno 2018!
+- Uniconica statuina Funko Pop! Vinyl della serie The Mandalorian
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087N3XFJP/?tag=tolees00-21)
