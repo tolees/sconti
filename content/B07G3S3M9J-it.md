@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 17.49 % su LEGO Harry Potter La Torre dell Orologio  '
-date: 2021-02-16 10:48:02
+date: 2021-02-17 13:27:19
 image: 'https://m.media-amazon.com/images/I/51GeNtR5KJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07G3S3M9J/?tag=tolees00-21'
 descuento: '17.49'
-average: '91.026942675159'
+average: '90.9729746835441'
 ---
 
 [LEGO Harry Potter La Torre dell Orologio di Hogwarts  Giocattolo Compatibile con i Playset della Sala Grande e il Platano Picchiatore  75948](https://www.amazon.it/dp/B07G3S3M9J/?tag=tolees00-21) ha un prezzo di 82.5 EUR (originale: 99.99 EUR) con uno sconto del 17.49 % sconto qui:
@@ -28,10 +28,10 @@ average: '91.026942675159'
 
 ℹ️:
 
-- Contiene il meccanismo di cambio dell’ora dell’orologio per creare avventure di viaggio con la GiraTempo e una funzione di “danza” per portare il vita il Ballo del Ceppo.
-- Tutte i personaggi sono dotati di bacchette e dei costumi del Ballo del Ceppo
-- Include 8 minifigure Harry Potter, novità di giugno 2019: Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore e Madame Maxime
-- Questo set di gioco Harry Potter LEGO include la torre dell’orologio di Hogwarts a 3 livelli, la sala dell’ingresso, l’aula della Difesa contro le arti oscure, l’ala dellospedale, il Bagno dei Prefetti, l’ufficio di Silente e una sezione con le decorazioni ghiacciate per il Ballo del Ceppo
-- La sala dell’ingresso include una cassa e il calice di fuoco.
+- Build the 3-level LEGO Hogwarts Castle Clock Tower with iconic locations and eight minifigures from the Harry Potter movies
+- Locations include the Defense Against the Dark Arts classroom, Dumbledore’s Office, Hospital Wing, Prefects’ Bathroom and a Yule Ball scene.
+- Features a clock-changing mechanism to create Time-Turner time travel adventures, and a ‘dance’ function to get the Yule Ball really moving!
+- Includes 8 new-for-June-2019 Harry Potter minifigures: Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore and Madame Maxime.
+- All figures come with wands and their Yule Ball costumes with scene including 2 icy tables, buildable icy sculpture and a Christmas Tree.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G3S3M9J/?tag=tolees00-21)

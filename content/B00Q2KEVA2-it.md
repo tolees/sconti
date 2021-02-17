@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 7M2K - Kit Fotocamera Digital al 15.64 % di sconto'
-date: 2021-02-16 07:08:44
+date: 2021-02-17 12:44:45
 image: 'https://m.media-amazon.com/images/I/41iZvLVpirL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B00Q2KEVA2/?tag=tolees00-21'
 descuento: '15.64'
-average: '1050.01456521739'
+average: '1051.88578571429'
 ---
 
 Puoi trovare [Sony Alpha 7M2K - Kit Fotocamera Digitale Mirrorless con Obiettivo Intercambiabile SEL 28-70mm  Sensore CMOS Exmor Full-Frame da 24.3 MP  Stabilizzazione Integrata  ILCE7B + SEL2870  Nero](https://www.amazon.it/dp/B00Q2KEVA2/?tag=tolees00-21) con il prezzo 1181.0 EUR (originale: 1400.0 EUR) 15.64 % sconto qui:
@@ -28,11 +28,11 @@ Puoi trovare [Sony Alpha 7M2K - Kit Fotocamera Digitale Mirrorless con Obiettivo
 
 ℹ️:
 
-- Kit con obiettivo SEL 28-70 mm F3.5-5.6
-- Processore di immagini BIONZ X, 117 pt Fast Hybrid AF, 5 fps
 - Registrazione video FHD 1080p, stabilizzazione integrata a 5 assi
 - Fotocamera digitale Mirrorless Sony con sensore Full-Frame CMOR Exmor 24.3 megapixel
-- La breve distanza della flangia posteriore negli obiettivi con attacco E dellα7 II consente unampia compatibilità
 - ISO 100-51200, otturatore 1/8000-30 sec, batteria NPFW50 350 scatti
+- Processore di immagini BIONZ X, 117 pt Fast Hybrid AF, 5 fps
+- La breve distanza della flangia posteriore negli obiettivi con attacco E dellα7 II consente unampia compatibilità
+- Kit con obiettivo SEL 28-70 mm F3.5-5.6
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00Q2KEVA2/?tag=tolees00-21)

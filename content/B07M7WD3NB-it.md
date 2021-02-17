@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'sconto del 24.07 % su Sony UBP-X800M2 Lettore Blu-Ray 4K HDR    '
+date: 2021-02-17 13:28:12
+image: 'https://m.media-amazon.com/images/I/21DLFSZ45XL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07M7WD3NB-it Sony UBP-X800M2 Lettore Blu-Ray 4K HDR Hi-Res Audio DTS:X...'
+sku: 'B07M7WD3NB-it'
+tags: [  ]
+actualPrice: 264.99 EUR
+currency: EUR
+price: 264.99
+comparePrice: 349.0 EUR
+prodname: 'Sony UBP-X800M2 Lettore Blu-Ray 4K HDR  Hi-Res Audio  DTS:X  Dolby Vision  Hybrid-Log Gamma  USB  Bluetooth  Wi-Fi  Ethernet  Nero'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Sony'
+buyurl: 'https://www.amazon.it/dp/B07M7WD3NB/?tag=tolees00-21'
+descuento: '24.07'
+average: '284.69744680851'
+---
+
+[Sony UBP-X800M2 Lettore Blu-Ray 4K HDR  Hi-Res Audio  DTS:X  Dolby Vision  Hybrid-Log Gamma  USB  Bluetooth  Wi-Fi  Ethernet  Nero](https://www.amazon.it/dp/B07M7WD3NB/?tag=tolees00-21) ha un prezzo di 264.99 EUR (originale: 349.0 EUR) con uno sconto del 24.07 % sconto qui:
+
+[![Sony UBP-X800M2 Lettore Blu-Ray 4K HDR  ](https://m.media-amazon.com/images/I/21DLFSZ45XL._SL200_.jpg)](https://www.amazon.it/dp/B07M7WD3NB/?tag=tolees00-21)
+
+ℹ️:
+
+- Accesso a tutti i principali servizi streaming in 4K tramite la connessione Wi-Fi incorporata
+- Ampia compatibilità audio per contenuti musicali e video, tra cui Dolby Atmos e DTS: X, MPEG4, AVCHD, DSD, flac, wav, mp3 e altro
+- Audio pulito di qualità grazie a High-Resolution Audio e DSEE HX upscaling
+- Ottima esperienza di visione 4K HDR con HDR10, Dolby Vision e HLG per cogliere ogni dettaglio, colore e giusta luminosità
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07M7WD3NB/?tag=tolees00-21)

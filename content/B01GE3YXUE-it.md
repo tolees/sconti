@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.88 % su Tommy Hilfiger Microfiber Thong Iconic P  '
-date: 2021-02-16 07:33:51
+date: 2021-02-17 13:12:00
 image: 'https://m.media-amazon.com/images/I/41qWJJ5U7RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '10.99'
 
 ℹ️:
 
-- Vestibilità leggera
-- Vita elastica
 - Logo ripetuto sulla vita
+- Vita elastica
+- Vestibilità leggera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GE3YXUE/?tag=tolees00-21)
