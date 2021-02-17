@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-CH510 - Cuffie wireless on-ear   al 37.09 % di sconto'
-date: 2021-02-16 13:33:28
+date: 2021-02-17 20:00:06
 image: 'https://m.media-amazon.com/images/I/41SNAhNcaDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B07WD58H6R/?tag=tolees00-21'
 descuento: '37.09'
-average: '32.8429824561403'
+average: '32.7937288135593'
 ---
 
 Puoi trovare [Sony WH-CH510 - Cuffie wireless on-ear  Compatibile con Google Assistant e Siri  Batteria fino a 35 ore  Bluetooth  Nero](https://www.amazon.it/dp/B07WD58H6R/?tag=tolees00-21) con il prezzo 31.39 EUR (originale: 49.9 EUR) 37.09 % sconto qui:
@@ -28,9 +28,9 @@ Puoi trovare [Sony WH-CH510 - Cuffie wireless on-ear  Compatibile con Google Ass
 
 ℹ️:
 
+- Cuffie sony wireless bluetooth on-ear wh-ch510 nero
 - Voice assistant
 - Quick charge: 90 minuti di riproduzione con 10 minuti di ricarica
-- Cuffie sony wireless bluetooth on-ear wh-ch510 nero
 - Durata della batteria fino a 35 ore
 - Design on-ear compatto
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture Londra  Set di Costruz al 16.45 % di sconto'
-date: 2021-02-16 13:40:46
+date: 2021-02-17 20:09:45
 image: 'https://m.media-amazon.com/images/I/51GnSyDIy-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21'
 descuento: '16.45'
-average: '39.2746478873239'
+average: '39.25125'
 ---
 
 Puoi trovare [LEGO Architecture Londra  Set di Costruzioni Collezione Skyline con London Eye  Big Ben  Tower Bridge  Idea Regalo Collezionabile  21034](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21) con il prezzo 37.59 EUR (originale: 44.99 EUR) 16.45 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [LEGO Architecture Londra  Set di Costruzioni Collezione Skyline co
 
 ℹ️:
 
-- Contiene la National Gallery, la Colonna di Nelson, il London Eye, il Big Ben (Elizabeth Tower) e il Tower Bridge
 - Il libretto incluso contiene informazioni sul design, l’architettura e la storia di ogni edificio, più fatti storici su Londra e il suo patrimonio architettonico (solo in inglese; altre lingue disponibili per il download sul sito LEGO Architecture)
+- Contiene la National Gallery, la Colonna di Nelson, il London Eye, il Big Ben (Elizabeth Tower) e il Tower Bridge
 - Il Tower Bridge si apre per far passare le navi
-- Il fiume Tamigi è riprodotto con tegole trasparenti su base
 - Interpretazione LEGO Architecture di Londra
+- Il fiume Tamigi è riprodotto con tegole trasparenti su base
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21)

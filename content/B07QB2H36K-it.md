@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WARNER BROS - 2001: Odissea nello spazio al 59.28 % di sconto'
-date: 2021-02-16 13:26:01
+date: 2021-02-17 19:59:08
 image: 'https://m.media-amazon.com/images/I/41lPz6NH9fL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B07QB2H36K/?tag=tolees00-21'
 descuento: '59.28'
-average: '12.0286666666666'
+average: '11.9637499999999'
 ---
 
 Puoi trovare [WARNER BROS - 2001: Odissea nello spazio - Stand Pack  4K Ultra HD + Blu Ray ](https://www.amazon.it/dp/B07QB2H36K/?tag=tolees00-21) con il prezzo 10.99 EUR (originale: 26.99 EUR) 59.28 % sconto qui:

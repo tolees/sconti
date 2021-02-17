@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 18.93 % su Warner Bros - Tenet  '
-date: 2021-02-16 07:45:07
+date: 2021-02-17 20:09:43
 image: 'https://m.media-amazon.com/images/I/51q70OkvRAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Warner Bros'
 buyurl: 'https://www.amazon.it/dp/B08N5ZCXHQ/?tag=tolees00-21'
 descuento: '18.93'
-average: '19.0805882352942'
+average: '18.8533333333334'
 ---
 
 [Warner Bros - Tenet](https://www.amazon.it/dp/B08N5ZCXHQ/?tag=tolees00-21) ha un prezzo di 14.99 EUR (originale: 18.49 EUR) con uno sconto del 18.93 % sconto qui:
@@ -28,8 +28,8 @@ average: '19.0805882352942'
 
 ℹ️:
 
+- Un film con John David Washington e Robert Pattinson
 - Un film di Cristopher Nolan
 - Azione, Fantascienza, Thriller
-- Un film con John David Washington e Robert Pattinson
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5ZCXHQ/?tag=tolees00-21)

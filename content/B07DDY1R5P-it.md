@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 43.35 % su Only Onlqueen L/s Long Cardigan Knt Noos  '
-date: 2021-02-16 13:24:37
+date: 2021-02-17 20:07:20
 image: 'https://m.media-amazon.com/images/I/41-l49UTrfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '16.99'
 
 ℹ️:
 
-- Cardigan.
 - Lavorato a maglia.
+- Cardigan.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DDY1R5P/?tag=tolees00-21)
