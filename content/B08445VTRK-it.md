@@ -29,9 +29,9 @@ average: '23.745'
 ℹ️:
 
 - Una miscela classica, nata dal connubio di caffè arabica e robusta che rende il caffè equilibrato
-- Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 - La scelta giusta per chi ama un caffè vigoroso, strutturato e dal sapore inconfondibile
 - Capsule compatibili con le macchine ad uso domestico lavazza a modo mio
+- Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 - Capsula compostabile: la capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08445VTRK/?tag=tolees00-21)
