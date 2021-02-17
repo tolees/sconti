@@ -28,8 +28,8 @@ Puoi trovare [Warner Bros - Tenet  4K+Br ](https://www.amazon.it/dp/B08N5VZC6C/?
 
 ℹ️:
 
-- Azione, Fantascienza, Thriller
 - Un film di Cristopher Nolan
+- Azione, Fantascienza, Thriller
 - Un film con John David Washington e Robert Pattinson
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5VZC6C/?tag=tolees00-21)
