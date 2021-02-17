@@ -28,9 +28,9 @@ average: '449.9'
 
 ℹ️:
 
+- ASSICURAZIONE Tutela Famiglia AXA INCLUSA.
 - DISPLAY: 3.5’’ LCD integrato. BATTERIA: 36V, 7.8Ah. LUCI: a LED anteriore e posteriore. CARICABATTERIA: caricabatterie EU Standard DC 2.1, 42V 2A. TEMPO DI CARICA: 5/6 ore. AUTONOMIA: fino a 35km (percorsi a velocità media di 15km/h, soggetta a variazioni in base al peso del conducente, alle condizioni della strada, alla temperatura ecc.). TEMPERATURA DI ESERCIZIO: 0°C/45°C. LIVELLO DI PROTEZIONE: IPX4.
 - LICENZA UFFICIALE DUCATI. TELAIO: in lega di magnesio, foldabile. SOSPENSIONE: posteriore. VELOCITA’: ECO: <= 6km/h | D:<= 20km/h | S: <= 25km/h (velocità max). PENDENZA MASSIMA: 15%. FRENI: doppio freno (elettrico anteriore e a disco posteriore). POTENZA MOTORE: 350W. PNEUMATICI: 10” tubeless anteriore e posteriore. PROTEZIONE A BASSA TENSIONE: 31V +/- 0.5V. LIMITE DI CORRENTE: 13A. TIPOLOGIA MOTORE: brushless. CARICO MASSIMO: 100kg. CONDUCENTE: da 14 anni di età/140-190 cm di altezza con l’utilizzo del casco e delle protezioni.
 - PESO NETTO: 15,2 kg. PESO LORDO: 18,1kg. DIMENSIONI PRODOTTO APERTO: 1160x473x1150mm. DIMENSIONI PRODOTTO CHIUSO: 1160x473x490mm. DIMENSIONI PACKAGING: 1195 x 190 x 510mm.
-- ASSICURAZIONE Tutela Famiglia AXA INCLUSA.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D3KLX5W/?tag=tolees00-21)

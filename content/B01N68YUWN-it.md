@@ -28,11 +28,11 @@ Puoi trovare [Philips Lighting Shovel Lampada da Parete da Esterno  14 7 x 15 5 
 
 ℹ️:
 
-- In acciaio inox di alta qualità e materiali sintetici
 - Lampadina non inclusa
+- In acciaio inox di alta qualità e materiali sintetici
+- In alluminio di alta qualità ed materiali sintetici
 - Adatta ad ogni condizione climatica
 - Tensione di rete: da 220 V a 240 V, 50-60 Hz
-- In alluminio di alta qualità ed materiali sintetici
 - Larticolo viene fornito con una chiave torx
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N68YUWN/?tag=tolees00-21)
