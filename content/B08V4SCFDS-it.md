@@ -28,10 +28,10 @@ Puoi trovare [eXtremeRate JoyCon Cover Impugnatura Custodia Controller D-pad Ver
 
 ℹ️:
 
-- Cover di ricambio unica per aggiungere più personalità al tuo Switch, non più noioso colore grigio standard.
 - Lo stile retrò SFC SNES Classic EU ti riporta agli anni 90. Ottima presa liscia, morbida in mano e si sente bene; Antiscivolo, senza sudore per lunghi periodi di gioco
-- La confezione include la cover Joy-con di ricambio per Switch (nessuna parte elettronica inclusa), set di pulsanti, set di cacciaviti e viti di ricambio. Si prega di notare che linstallazione di questa cover invaliderà la garanzia dello Switch
-- Custodia di ricambio progettata per Switch Joycon. Il pulsante D-pad ergonomico può migliorare notevolmente la funzione di Joycon sinistra
+- Cover di ricambio unica per aggiungere più personalità al tuo Switch, non più noioso colore grigio standard.
 - Il processo di installazione richiede al cliente un’sperienza di modifica elettronica. Si può ottenere il video tutorial di installazione su Youtube cercando "JoyCon Dpad Guide Extremerate" o "cTajxu8ZpzI". Ti consigliamo di guardare il video a metà velocità, mettere in pausa, fare e ripetere.
+- Custodia di ricambio progettata per Switch Joycon. Il pulsante D-pad ergonomico può migliorare notevolmente la funzione di Joycon sinistra
+- La confezione include la cover Joy-con di ricambio per Switch (nessuna parte elettronica inclusa), set di pulsanti, set di cacciaviti e viti di ricambio. Si prega di notare che linstallazione di questa cover invaliderà la garanzia dello Switch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08V4SCFDS/?tag=tolees00-21)

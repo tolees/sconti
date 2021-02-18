@@ -28,10 +28,10 @@ Puoi trovare [eXtremeRate Tasto ABXY Intercambiabili Pulsanti DIY Ricambio per N
 
 ℹ️:
 
-- Pulsanti ABXY intercambiabili, personalizza la disposizione dei pulsanti ABXY in base alla tua preferenza
-- La confezione include la superficie ABXY e le relative basi per Nintendo Switch Pro controller(Nessuna parte elettronica inclusa), strumento per apertura, 2MM cacciavite PH00 e viti di ricambio
 - In resistente plastica solida; Il colore è bello, puoi combinare la cover eXtremeRate per personalizzare il tuo controller
-- Tasti di ricambio per aggiungere molta più personalità al tuo Switch Pro. I pulsanti di sostituzione renderanno il tuo controller Switch Pro distinto quando giochi con gli amici, non più noiosi colori standard
+- La confezione include la superficie ABXY e le relative basi per Nintendo Switch Pro controller(Nessuna parte elettronica inclusa), strumento per apertura, 2MM cacciavite PH00 e viti di ricambio
 - Il processo di installazione richiede cliente con esperienza di installazione elettronica. Puoi ottienere il video tutorial di installazione su YouTube cercando “ExtremeRate Switch Pro Interchangeable ABXY Guide”
+- Tasti di ricambio per aggiungere molta più personalità al tuo Switch Pro. I pulsanti di sostituzione renderanno il tuo controller Switch Pro distinto quando giochi con gli amici, non più noiosi colori standard
+- Pulsanti ABXY intercambiabili, personalizza la disposizione dei pulsanti ABXY in base alla tua preferenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VWL7V4Y/?tag=tolees00-21)

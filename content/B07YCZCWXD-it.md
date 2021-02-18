@@ -28,8 +28,8 @@ average: '5.99'
 
 ℹ️:
 
-- La convincente e intensa interpretazione di Edward Norton nei panni di Derek gli è valsa una nomination agli Oscar
-- Uno dei film più iconici degli anni 90
 - Nel cast anche, Edward Furlong, il “John
+- Uno dei film più iconici degli anni 90
+- La convincente e intensa interpretazione di Edward Norton nei panni di Derek gli è valsa una nomination agli Oscar
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YCZCWXD/?tag=tolees00-21)
