@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'sconto del 40.47 % su Dixan Classico Detersivo Liquido Lavatri  '
+date: 2021-02-18 16:46:08
+image: 'https://m.media-amazon.com/images/I/512xT6+TosL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07XYPCLWJ-it Dixan Classico Detersivo Liquido Lavatrice Tecnologia...'
+sku: 'B07XYPCLWJ-it'
+tags: [  ]
+actualPrice: 11.9 EUR
+currency: EUR
+price: 11.9
+comparePrice: 19.99 EUR
+prodname: 'Dixan Classico Detersivo Liquido Lavatrice  Tecnologia Pulito Profondo  80 Lavaggi'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Dixan'
+buyurl: 'https://www.amazon.it/dp/B07XYPCLWJ/?tag=tolees00-21'
+descuento: '40.47'
+average: '11.15'
+---
+
+[Dixan Classico Detersivo Liquido Lavatrice  Tecnologia Pulito Profondo  80 Lavaggi](https://www.amazon.it/dp/B07XYPCLWJ/?tag=tolees00-21) ha un prezzo di 11.9 EUR (originale: 19.99 EUR) con uno sconto del 40.47 % sconto qui:
+
+[![Dixan Classico Detersivo Liquido Lavatri](https://m.media-amazon.com/images/I/512xT6+TosL._SL200_.jpg)](https://www.amazon.it/dp/B07XYPCLWJ/?tag=tolees00-21)
+
+ℹ️:
+
+- Dixan Liquido si attiva anche a basse temperature (20 gradi) permettendoti di rispettare i tuoi capi
+- Dixan Liquido ti offre un profumo intenso e di lunga durata per il tuo bucato e su tutti i tuoi capi
+- Tecnologia Pulito Profondo profondo per rimuovere efficacemente anche le macchie più ostinate
+- Detersivo liquido per lavatrice, profumazione classica; confezione da 4 flaconi da 20 lavaggi profumazione classica
+- Dona ai tessuti ai tessuti brillantezza, evitando il loro ingrigimento, anche lavaggio dopo lavaggio
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYPCLWJ/?tag=tolees00-21)
