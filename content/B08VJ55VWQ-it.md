@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- I clienti devono smontare il controller per sostituire il touchpad; Richiede cliente con abilità pratica di modifica elettronica; Si può ottenere il video tutorial d’installazione su Youtube cercando “Extremerate Touchpad for PS5 Controller”
-- Si adatta completamente a tutti i lati. Touchpad personalizzato per aggiungere molta più personalità al tuo controller per ps5, facendo risaltare il tuo controller tra la folla
-- Il touchpad sostitutivo personalizzato è progettato per PS5 controller. Taglio di precisione per funzionare esattamente come il touchpad originale
-- Vari stili e design da scegliere. Il colore sakura rosa opaco sembra fantastico; Ottima presa liscia, morbida in mano e setosa; Antiscivolo, senza sudore per giocare a lungo
 - La confezione include: 1 * touchpad, 1 * cacciavite PH00, 1 * attrezzo per aprire, 24 * viti. (NOTA: il controller e altre parti NON sono inclusi!)
+- Il touchpad sostitutivo personalizzato è progettato per PS5 controller. Taglio di precisione per funzionare esattamente come il touchpad originale
+- Si adatta completamente a tutti i lati. Touchpad personalizzato per aggiungere molta più personalità al tuo controller per ps5, facendo risaltare il tuo controller tra la folla
+- I clienti devono smontare il controller per sostituire il touchpad; Richiede cliente con abilità pratica di modifica elettronica; Si può ottenere il video tutorial d’installazione su Youtube cercando “Extremerate Touchpad for PS5 Controller”
+- Vari stili e design da scegliere. Il colore sakura rosa opaco sembra fantastico; Ottima presa liscia, morbida in mano e setosa; Antiscivolo, senza sudore per giocare a lungo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VJ55VWQ/?tag=tolees00-21)
