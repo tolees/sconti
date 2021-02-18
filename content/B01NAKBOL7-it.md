@@ -28,8 +28,8 @@ average: '52.0'
 
 ℹ️:
 
+- Chiusura: stringata
 - Fodera: tessuto
 - Materiale suola: gomma
-- Chiusura: stringata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NAKBOL7/?tag=tolees00-21)
