@@ -28,8 +28,8 @@ average: '7.98'
 
 ℹ️:
 
+- Forma lunga alla moda
 - Spalline larghe
 - Ampio scollo rotondo
-- Forma lunga alla moda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075WWX3S5/?tag=tolees00-21)

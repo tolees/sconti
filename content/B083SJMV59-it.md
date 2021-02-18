@@ -28,8 +28,8 @@ average: '54.5723076923077'
 
 ℹ️:
 
-- Materiale: resina
 - Figurina
+- Materiale: resina
 - Marchio: Disney Tradition
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083SJMV59/?tag=tolees00-21)

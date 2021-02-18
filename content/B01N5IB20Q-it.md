@@ -28,9 +28,9 @@ Puoi trovare [Kingston A400 SSD SA400S37/240G Unità a Stato Solido Interne 2.5"
 
 ℹ️:
 
+- Velocità di lettura: 500 MB/s
 - Velocità di trasferimento dati: 6 Gbit/s
 - Capacità SSD: 240 GB
 - Velocità di scrittura: 350 MB/s
-- Velocità di lettura: 500 MB/s
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N5IB20Q/?tag=tolees00-21)

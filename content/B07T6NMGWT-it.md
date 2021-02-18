@@ -28,7 +28,7 @@ Puoi trovare [Only ONLVENICE L/S Rollneck Pullover Knt Noos Dolcevita  Nero  Bla
 
 ℹ️:
 
-- Soft Viscose quality
 - Rollneck knit pullover
+- Soft Viscose quality
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T6NMGWT/?tag=tolees00-21)

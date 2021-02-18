@@ -28,8 +28,8 @@ Puoi trovare [ESPRIT 997ee1k816 Vestaglia  Blu  Navy 400   X-Small Donna](https:
 
 ℹ️:
 
-- Spalline larghe
 - Ampio scollo rotondo
 - Forma lunga alla moda
+- Spalline larghe
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075VF6FQY/?tag=tolees00-21)
