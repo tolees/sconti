@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Rocks: Freddie Mercury King F al 21.08 % di sconto'
-date: 2021-02-16 07:30:43
+date: 2021-02-18 13:21:09
 image: 'https://m.media-amazon.com/images/I/41pbDdGmWlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Puoi trovare [Funko- Pop Rocks: Freddie Mercury King Figura da Collezione  Multi
 ℹ️:
 
 - Uniconica statuina Funko Pop Vinyl della serie Queen
-- Freddie Mercury King e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Scopri tutte le altre statuine Queen di Funko e collezionale tutte
+- Freddie Mercury King e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083MCJD4M/?tag=tolees00-21)

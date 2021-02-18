@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.00 % su UNIVERSAL VIDEO - Breaking Bad Collectio  '
-date: 2021-02-17 12:46:46
+date: 2021-02-18 13:01:12
 image: 'https://m.media-amazon.com/images/I/41siEWPCgrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
+- blu_ray
 - Bryan Cranston;Anna Gunn;Aaron Paul
 - Breaking Bad – Collezione Completa Stagioni 1-6 Icon Edition
-- blu_ray
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DVGP99F/?tag=tolees00-21)

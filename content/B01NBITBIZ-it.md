@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 49.66 % su Timberland Adventure 2.0 Cupsole Chukka   '
-date: 2021-02-17 13:32:41
+title: 'sconto del 47.59 % su Timberland Adventure 2.0 Cupsole Chukka   '
+date: 2021-02-18 13:45:54
 image: 'https://m.media-amazon.com/images/I/41V4M8u1yrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B01NBITBIZ-it Timberland Adventure 2.0 Cupsole Chukka Sneakers Alte Uomo...'
 sku: 'B01NBITBIZ-it'
 tags: [  ]
-actualPrice: 72.99 EUR
+actualPrice: 75.99 EUR
 currency: EUR
-price: 72.99
+price: 75.99
 comparePrice: 145.0 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Verde Dark Olive  43 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21'
-descuento: '49.66'
-average: '72.99'
+descuento: '47.59'
+average: '73.99'
 ---
 
-[Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Verde Dark Olive  43 EU](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21) ha un prezzo di 72.99 EUR (originale: 145.0 EUR) con uno sconto del 49.66 % sconto qui:
+[Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Verde Dark Olive  43 EU](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21) ha un prezzo di 75.99 EUR (originale: 145.0 EUR) con uno sconto del 47.59 % sconto qui:
 
 [![Timberland Adventure 2.0 Cupsole Chukka ](https://m.media-amazon.com/images/I/41V4M8u1yrL._SL200_.jpg)](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21)
 
 ℹ️:
 
-- Comoda fodera in mesh traspirante
-- Collo imbottito che avvolge la caviglia
 - Modello stringato per la massima sicurezza
-- Pregiata pelle pieno fiore proveniente da una conceria sostenibile classificata Silver da LWG
 - Soletta in EVA che ammortizza e assorbe gli urti
+- Pregiata pelle pieno fiore proveniente da una conceria sostenibile classificata Silver da LWG
+- Collo imbottito che avvolge la caviglia
+- Comoda fodera in mesh traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21)

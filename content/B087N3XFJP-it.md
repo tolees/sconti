@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 52.48 % su Funko- Pop Star Wars: The Mandalorian-Ma  '
-date: 2021-02-17 06:46:57
+date: 2021-02-18 13:18:02
 image: 'https://m.media-amazon.com/images/I/41CgyS3m+jL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Funko'
 buyurl: 'https://www.amazon.it/dp/B087N3XFJP/?tag=tolees00-21'
 descuento: '52.48'
-average: '27.406301369863'
+average: '27.1822666666666'
 ---
 
 [Funko- Pop Star Wars: The Mandalorian-Mando Flying w/Jet Pack Figura da Collezione  Multicolore  50959](https://www.amazon.it/dp/B087N3XFJP/?tag=tolees00-21) ha un prezzo di 19.0 EUR (originale: 39.98 EUR) con uno sconto del 52.48 % sconto qui:
@@ -29,8 +29,8 @@ average: '27.406301369863'
 ℹ️:
 
 - Mando Flying w/Jet Pack e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Uniconica statuina Funko Pop! Vinyl della serie The Mandalorian
 - Scopri tutte le altre statuine Star Wars di Funko e collezionale tutte!
 - Funko POP! è il giocattolo dellanno 2018!
-- Uniconica statuina Funko Pop! Vinyl della serie The Mandalorian
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087N3XFJP/?tag=tolees00-21)

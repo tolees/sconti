@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 9S 128 + 6 Gb  Grey al 31.83 % di sconto'
-date: 2021-02-17 07:01:32
+date: 2021-02-18 13:02:37
 image: 'https://m.media-amazon.com/images/I/41odUxRlfpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B085W9B2KH/?tag=tolees00-21'
 descuento: '31.83'
-average: '199.154328358209'
+average: '198.715072463768'
 ---
 
 Puoi trovare [Xiaomi Redmi Note 9S 128 + 6 Gb  Grey](https://www.amazon.it/dp/B085W9B2KH/?tag=tolees00-21) con il prezzo 184.0 EUR (originale: 269.9 EUR) 31.83 % sconto qui:
@@ -28,9 +28,9 @@ Puoi trovare [Xiaomi Redmi Note 9S 128 + 6 Gb  Grey](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- Batteria da 5020 mAh; 18w fast charging
-- Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
-- Frequenza fino a 2.3 ghz
 - Sistema operativo miui 11
+- Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
+- Batteria da 5020 mAh; 18w fast charging
+- Frequenza fino a 2.3 ghz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085W9B2KH/?tag=tolees00-21)

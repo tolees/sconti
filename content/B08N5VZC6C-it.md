@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros - Tenet  4K+Br  al 32.01 % di sconto'
-date: 2021-02-17 06:57:42
+date: 2021-02-18 12:50:54
 image: 'https://m.media-amazon.com/images/I/41gnZsaFCnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Puoi trovare [Warner Bros - Tenet  4K+Br ](https://www.amazon.it/dp/B08N5VZC6C/?
 ℹ️:
 
 - Un film di Cristopher Nolan
-- Azione, Fantascienza, Thriller
 - Un film con John David Washington e Robert Pattinson
+- Azione, Fantascienza, Thriller
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5VZC6C/?tag=tolees00-21)
