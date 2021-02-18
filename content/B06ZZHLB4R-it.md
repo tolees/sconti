@@ -29,8 +29,8 @@ Puoi trovare [Cressi Portofino  Infradito per Piscina Unisex – Adulto  Marrone
 ℹ️:
 
 - Rapida asciugatura
-- Tomaia infradito con logo Cressi
 - Elegante infradito da uomo per spiaggia/piscina
 - Realizzata in speciale materiale gommoso completamente idrorepellente, anallergico, lavabile, antifungo e antimuffa di lunga durata
+- Tomaia infradito con logo Cressi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06ZZHLB4R/?tag=tolees00-21)

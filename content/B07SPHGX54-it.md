@@ -29,7 +29,7 @@ Puoi trovare [Levi s Malibu Beach S  Sneaker Donna  Nero  Regular Black 59   40 
 ℹ️:
 
 - Shoe Width : medium
-- Tessuto, Sintetico, canvas, Sintetico, Lacci, Sneakers basse
 - 1
+- Tessuto, Sintetico, canvas, Sintetico, Lacci, Sneakers basse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SPHGX54/?tag=tolees00-21)

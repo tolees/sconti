@@ -29,7 +29,7 @@ average: '23.99'
 ℹ️:
 
 - Shoe Width : medium
-- 1
 - Tessuto, Sintetico, canvas, Sintetico, Lacci, Sneakers basse
+- 1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SRY9M13/?tag=tolees00-21)

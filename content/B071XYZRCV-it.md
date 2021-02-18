@@ -28,9 +28,9 @@ average: '8.49'
 
 ℹ️:
 
-- Realizzata in speciale materiale gommoso completamente idrorepellente, anallergico, lavabile, antifungo e antimuffa di lunga durata
-- Elegante infradito da uomo per spiaggia/piscina
 - Tomaia infradito con logo Cressi
 - Rapida asciugatura
+- Realizzata in speciale materiale gommoso completamente idrorepellente, anallergico, lavabile, antifungo e antimuffa di lunga durata
+- Elegante infradito da uomo per spiaggia/piscina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071XYZRCV/?tag=tolees00-21)

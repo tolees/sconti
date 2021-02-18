@@ -28,9 +28,9 @@ average: '19.0'
 
 ℹ️:
 
-- Colore: Testa di moro
-- Designer: Tommy Hilfiger
-- Articolo: am0am06600
 - Stagione: Autunno/Inverno
+- Articolo: am0am06600
+- Designer: Tommy Hilfiger
+- Colore: Testa di moro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08439NVGN/?tag=tolees00-21)

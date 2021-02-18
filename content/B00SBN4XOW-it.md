@@ -28,10 +28,10 @@ Puoi trovare [Campingaz Adelaide 4 Classic Deluxe Extra Barbecue a Gas  Nero](ht
 
 ℹ️:
 
-- Quattro bruciatori in ghisa (21 kW); uno a lato (2.3 kW) per riscaldare salse o contorni; grill con accensione piezoelettrico
-- Coperchio in acciaio con termometro (per grigliare in modo indiretto); altezza della cottura: 85 cm; consumo di gas 1.360 + 170 g/h; peso 54 kg
 - Stoccaggio e trasporto: ruote bloccabili per riporre il grill se non in uso
+- Coperchio in acciaio con termometro (per grigliare in modo indiretto); altezza della cottura: 85 cm; consumo di gas 1.360 + 170 g/h; peso 54 kg
 - Griglia non diretta: coperchio in acciaio con termometro, lampio manico facilita lapertura
+- Quattro bruciatori in ghisa (21 kW); uno a lato (2.3 kW) per riscaldare salse o contorni; grill con accensione piezoelettrico
 - Opzioni cottura: griglia e piastra in ghisa ampie smaltate per BBQ (77 x 45 cm), grata riscaldata estesa per tutta la superficie cottura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00SBN4XOW/?tag=tolees00-21)

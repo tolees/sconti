@@ -28,9 +28,9 @@ average: '8.49'
 
 ℹ️:
 
-- Tomaia infradito con logo Cressi
-- Rapida asciugatura
 - Realizzata in speciale materiale gommoso completamente idrorepellente, anallergico, lavabile, antifungo e antimuffa di lunga durata
+- Rapida asciugatura
+- Tomaia infradito con logo Cressi
 - Elegante infradito da uomo per spiaggia/piscina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06ZZS4H7Z/?tag=tolees00-21)

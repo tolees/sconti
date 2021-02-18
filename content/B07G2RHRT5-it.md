@@ -28,8 +28,8 @@ average: '13.99'
 
 ℹ️:
 
-- Adatto per PlayStation 4
 - Facile da installare
 - Con 100 creature da addomesticare, addestrare e cavalcare
+- Adatto per PlayStation 4
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G2RHRT5/?tag=tolees00-21)

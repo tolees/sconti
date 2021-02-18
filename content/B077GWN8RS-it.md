@@ -28,10 +28,10 @@ Puoi trovare [Trust Gaming GXT 830-RW Avonn Tastiera da Gioco Illuminata  Nero [
 
 ℹ️:
 
-- Adatta per PC, PC portatile, PS4 e Xbox One
 - Cavo da 140 cm
-- Tipologia alimentazione: USB
 - Tastiera con nove modalità di colore dellonda arcobaleno con luminosità regolabile
+- Adatta per PC, PC portatile, PS4 e Xbox One
 - Anti-ghosting ottimo fino a 6 pressioni simultanee di tasti
+- Tipologia alimentazione: USB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077GWN8RS/?tag=tolees00-21)
