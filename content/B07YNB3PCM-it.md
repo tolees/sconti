@@ -30,8 +30,8 @@ average: '117.7'
 
 - Movimento multifunzione
 - Quadrante a raggiera blu marino
+- Diametro della cassa: 44 mm
 - Resistente allacqua a 3 ATM
 - Bracciale in acciaio inossidabile
-- Diametro della cassa: 44 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YNB3PCM/?tag=tolees00-21)

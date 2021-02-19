@@ -28,10 +28,10 @@ average: '14.64'
 
 ℹ️:
 
-- La formula di Enterogermina Sporattiva integratore alimentare a base di Bacillus clausii (ceppo SIN), zinco e selenio, con edulcorante, è pensata per offrire una DOPPIA AZIONE
-- Il Selenio e lo Zinco contribuiscono al normale funzionamento del sistema immunitario, mentre i probiotici mantengono l’equilibrio della flora intestinale (Bacillus clausii ceppo SIN)
-- Enterogermina Sporattiva Integratore Alimentare è indicata solo per gli adulti
 - Gli integratori alimentari non vanno intesi come sostituti di una dieta variata ed equilibrata e di un sano stile di vita. Un consumo eccessivo può avere effetti lassativi
+- La formula di Enterogermina Sporattiva integratore alimentare a base di Bacillus clausii (ceppo SIN), zinco e selenio, con edulcorante, è pensata per offrire una DOPPIA AZIONE
+- Enterogermina Sporattiva Integratore Alimentare è indicata solo per gli adulti
 - Il contenuto della bustina deve essere assunto direttamente in bocca in modo semplice, pratico e veloce, senza bisogno di essere diluito in acqua
+- Il Selenio e lo Zinco contribuiscono al normale funzionamento del sistema immunitario, mentre i probiotici mantengono l’equilibrio della flora intestinale (Bacillus clausii ceppo SIN)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F7XGLPZ/?tag=tolees00-21)

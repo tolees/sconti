@@ -28,9 +28,9 @@ average: '34.99'
 
 ℹ️:
 
+- Neoprene 2.5 mm foderato sui due lati
 - Cerniera dorsale
 - Collo regolabile con chiusura a velcro
 - Ottima per snorkeling e immersioni in acque temperate
-- Neoprene 2.5 mm foderato sui due lati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XRKZDG3/?tag=tolees00-21)
