@@ -30,8 +30,8 @@ Puoi trovare [Hauck Freerider Passeggino Fratellare Tandem fino a 36 kg  Ruote G
 
 - Il Freerider è adatto dalla nascita (posizione nanna) fino a 36 kg (seduta 15 kg + 15 kg + cesto 6 kg) e si richiude in modo compatto su 97 x 61 x 38 cm e pesa solo 14.6 kg
 - Lovetto Hauck Zero Plus -disponibile separatamente: può essere fissato sul passeggino al posto della seduta principale, trasformandolo in un pratico sistema di viaggio
+- Grazie a ruote grandi e ruote avanti piroettanti e fisse, il passeggino gemellare è molto maneggevole sia su terreni scoscesi sia in città
 - La seduta principale si regola in posizione nanna e la seconda seduta in una posizione inclinata; il maniglione è regolabile allaltezza individuale di mamma e papà
 - Le sedute hanno una cintura di sicurezza a 5 punti e le ruote posteriori un parafango per proteggere le dita; omologato allo standard europeo EN 1888
-- Grazie a ruote grandi e ruote avanti piroettanti e fisse, il passeggino gemellare è molto maneggevole sia su terreni scoscesi sia in città
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009M3HZ2M/?tag=tolees00-21)
