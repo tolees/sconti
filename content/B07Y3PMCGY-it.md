@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 28.22 % su Western Digital WD My Book Desktop Hard   '
-date: 2021-02-16 11:14:42
+date: 2021-02-19 14:20:26
 image: 'https://m.media-amazon.com/images/I/31yyf+9XFuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '546.99'
 
 ℹ️:
 
-- Raid-0 pronto alluso appena estratto dalla confezione
-- Ampia capacità di archiviazione con backup automatico e di sistema
 - Supporta usb 3.1 gen 1, compatibilità usb 3.0
 - Unità wd red ottimizzate raid
+- Raid-0 pronto alluso appena estratto dalla confezione
+- Ampia capacità di archiviazione con backup automatico e di sistema
 - 2 x porte hub usb 3.0
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y3PMCGY/?tag=tolees00-21)

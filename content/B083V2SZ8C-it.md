@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'meross Lampadina Wifi Intelligente LED 9 al 15.01 % di sconto'
-date: 2021-02-18 13:38:01
+date: 2021-02-19 14:03:43
 image: 'https://m.media-amazon.com/images/I/419tdHoUWIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Puoi trovare [meross Lampadina Wifi Intelligente LED 9W Dimmerabile Multicolore 
 ℹ️:
 
 - 💡Impostazione Schedule e scena: impostare gli orari per accendere e spegnere la luce secondo il tuo schedule quotidiani. Puoi creare la scena in base alle tue abitudini comuni, Impostare in anticipo il colore e la luminosità della luce, come ad esempio: leggere, dormire, festeggiare, ecc.
-- 💡Controllo Remoto: scaricare lapp Meross, puoi controllare facilmente le luci da qualsiasi luogo e in qualsiasi momento con uno smartphone, senza limiti di distanza, Funziona solo con la rete Wi-Fi a 2,4 GHz.
 - 💡 Controllo Vocale: la lampadina smart Meross è compatibile con Amazon Alexa, Google Assistant e IFTTT, coi comandi vocali puoi accendere, spegnere, illuminare le luci, non è richiesto l’hub, molto facile da installare.
+- 💡Controllo Remoto: scaricare lapp Meross, puoi controllare facilmente le luci da qualsiasi luogo e in qualsiasi momento con uno smartphone, senza limiti di distanza, Funziona solo con la rete Wi-Fi a 2,4 GHz.
 - 💡Risparmio Energetico: meross lampadina versione nuova, 9w lampadina LED 810LMS con base E27, equivalente a 60w lampadine tradizionali a incandescenza, risparmia fino al 78,3% di energia, quindi aiuta anche risparmiare le bollette elettriche.
 - 💡Multicolore e Luminosità Regolabile: cambia latmosfera della stanza, ti offre più colori da selezionare
 

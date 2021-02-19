@@ -28,10 +28,10 @@ Puoi trovare [Cressi Ninja  Occhiali UltraFlex Sportivi da Sole Polarizzati con 
 
 ℹ️:
 
-- Design avvolgente
+- Durevole e flessibile telaio
+- Occhiali da sole polarizzati
 - 100% uv protezione
 - Design italiano
-- Occhiali da sole polarizzati
-- Durevole e flessibile telaio
+- Design avvolgente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CO4APBO/?tag=tolees00-21)
