@@ -28,8 +28,8 @@ Puoi trovare [Coccolino Concentrato Delicato e Soffice maxi formato 9 litri 360 
 
 ℹ️:
 
-- Ipoallergenico e dermatologicamente testato
 - Ammorbidente concentrato
+- Ipoallergenico e dermatologicamente testato
 - Scegli la dose giusta utilizzando il tappo dosatore
 - Lasciati coccolare da unincantevole sensazione di morbidezza
 
