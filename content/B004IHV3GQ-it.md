@@ -29,8 +29,8 @@ average: '11.9'
 ℹ️:
 
 - Piedini antiscivolo
-- Estrema precisione 100 g
 - Vetro temperato di sicurezza:
+- Estrema precisione 100 g
 - Capacità massima 150 kg
 - Tecnologia Step-on
 

@@ -28,8 +28,8 @@ average: '8.93'
 
 ℹ️:
 
-- Caffè 100% naturale tostato in Italia
 - esclusivamente Compatibili con le macchine a capsule Nescafé* e Dolce Gusto* (* Non registrato su Amazon EU S.a.r.l.)
+- Caffè 100% naturale tostato in Italia
 - Dose raccomandata di acqua 40 ml
 - Lo squisito sapore e aroma del caffè in pratiche capsule da 7 g
 - Pratico formato da 48 capsule

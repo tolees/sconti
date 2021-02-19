@@ -28,8 +28,8 @@ Puoi trovare [Hugo Boss Hugo Eau de Toilette  Uomo  75 ml](https://www.amazon.it
 
 ℹ️:
 
-- EDT
 - Uomo
+- EDT
 - 75 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BIO10NS/?tag=tolees00-21)
