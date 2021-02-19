@@ -28,7 +28,7 @@ average: '153.3'
 
 ℹ️:
 
-- 100% poliestere riciclato
 - Poliestere riciclato Imbottito in piuma Coll
+- 100% poliestere riciclato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZFW3CTJ/?tag=tolees00-21)
