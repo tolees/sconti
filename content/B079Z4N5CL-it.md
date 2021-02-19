@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
-- Geomag è il gioco di costruzione magnetico più famoso al mondo, costituito da barrette magnetizzate e sfere metalliche
-- I prodotti Geomag sono qualificabili nella categoria STEM (acronimo di Science, Technology, Engineering and Mathematics), che indica un approccio interdisciplinare all’apprendimento
+- Le barrette, tramite i magneti posizionati su entrambe le estremità, si collegano alle sfere, permettendoti di costruire tutto quello che ti viene in mente
 - Un piccolo formato per una grande immaginazione; la scatola include 61 sfere, 60 barrette nei colori azzurro, arancione, rosso, verde, 4 piattaforme quadrate e 2 pentagonali
 - Garanzia di qualità Swiss Made. Tutti i prodotti sono allineati alle più rigorose norme di sicurezza europea e internazionale
-- Le barrette, tramite i magneti posizionati su entrambe le estremità, si collegano alle sfere, permettendoti di costruire tutto quello che ti viene in mente
+- I prodotti Geomag sono qualificabili nella categoria STEM (acronimo di Science, Technology, Engineering and Mathematics), che indica un approccio interdisciplinare all’apprendimento
+- Geomag è il gioco di costruzione magnetico più famoso al mondo, costituito da barrette magnetizzate e sfere metalliche
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079Z4N5CL/?tag=tolees00-21)
