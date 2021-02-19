@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.99 % su Nike Air Max 270 React  Scarpe da Ginnas  '
-date: 2021-02-01 10:50:12
+date: 2021-02-19 11:36:30
 image: 'https://m.media-amazon.com/images/I/4195RYuV3VL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '95.0'
 
 ℹ️:
 
-- Leggerezza
 - Ammortizzazione
 - Scarpe sportive
+- Leggerezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZTTW9NV/?tag=tolees00-21)

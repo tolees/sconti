@@ -28,10 +28,10 @@ average: '67.49'
 
 ℹ️:
 
-- Datario e corona a vite con protezioni alle tre
-- Cassa in acciaio inossidabile
 - Cinturino in tessuto tecnico
+- Cassa in acciaio inossidabile
 - Ghiera contaminuti girevole unidirezionale
+- Datario e corona a vite con protezioni alle tre
 - Lancette e indici luminescenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L5HRS5J/?tag=tolees00-21)

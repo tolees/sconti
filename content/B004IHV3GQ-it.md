@@ -28,10 +28,10 @@ average: '11.9'
 
 ℹ️:
 
+- Piedini antiscivolo
+- Estrema precisione 100 g
 - Vetro temperato di sicurezza:
 - Capacità massima 150 kg
-- Estrema precisione 100 g
-- Piedini antiscivolo
 - Tecnologia Step-on
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004IHV3GQ/?tag=tolees00-21)
