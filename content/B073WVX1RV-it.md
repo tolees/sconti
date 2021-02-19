@@ -28,10 +28,10 @@ average: '1.99'
 
 ℹ️:
 
-- Dermatologicamente testato
-- Prodotto 100% italiano
 - Con antibaterico naturale
+- Dermatologicamente testato
 - Rispetta il ph naturale della pelle
+- Prodotto 100% italiano
 - 80% di plastica in meno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073WVX1RV/?tag=tolees00-21)
