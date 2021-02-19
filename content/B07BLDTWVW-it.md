@@ -28,10 +28,10 @@ average: '434.522621951219'
 
 ℹ️:
 
-- Contiene 4 minifigure: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin e Rowena Ravenclaw con una piastra di appoggio per minifigure.
 - Il lucchetto Hogwarts è alto 58 cm, largo 69 cm, profondità 43 cm.
-- Gli accessori includono la spada di Gryffindor, la tazza Helga Hufflepuffs, le bacchette magiche, le bacchette magiche, gli striscioni di casa, le fiamme, una caldaia e 2 lenti di ingrandimento.
-- Comprende un modello costruibile in miniatura di castello Hogwarts, Hagrids Hütt, il salice e 5 barche.
 - Prendete spazio nel grosso e mangiate con i professori e gli studenti di Hogwarts.
+- Contiene 4 minifigure: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin e Rowena Ravenclaw con una piastra di appoggio per minifigure.
+- Comprende un modello costruibile in miniatura di castello Hogwarts, Hagrids Hütt, il salice e 5 barche.
+- Gli accessori includono la spada di Gryffindor, la tazza Helga Hufflepuffs, le bacchette magiche, le bacchette magiche, gli striscioni di casa, le fiamme, una caldaia e 2 lenti di ingrandimento.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BLDTWVW/?tag=tolees00-21)
