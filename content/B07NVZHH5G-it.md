@@ -29,7 +29,7 @@ average: '46.8723529411765'
 ℹ️:
 
 - Grafica completamente rifatta in un particolare 3D cartoonesco, mantenendo la stessa ambientazione e la stessa storia delloriginale per Game Boy.
-- Questa nuova versione dellavventura include tanti degli elementi unici presenti nel gioco originale per Game Boy, come le stanze in stile platform 2D e apparizioni di personaggi che non fanno parte della serie The Legend of Zelda
 - Il classico per Game Boy The Legend of Zelda: Links Awakening rinasce su Nintendo Switch
+- Questa nuova versione dellavventura include tanti degli elementi unici presenti nel gioco originale per Game Boy, come le stanze in stile platform 2D e apparizioni di personaggi che non fanno parte della serie The Legend of Zelda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NVZHH5G/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Muster Kit Depilazione Scaldacera Rotolo Ceretta Titanio Miele Spa
 
 ℹ️:
 
-- 1 Rotolo Epil Prof Epilazione Professionale in TNT da circa 100MT
-- 1 Scaldacera Melcap Professionale Con Regolazione della Temperatura
 - 2 Cere 400 Professionali in 2 fragranze: Miele, Titanio,
+- 1 Scaldacera Melcap Professionale Con Regolazione della Temperatura
 - 1 Spatola In Acciaio e Manico In Legno
+- 1 Rotolo Epil Prof Epilazione Professionale in TNT da circa 100MT
 - 1 Latte Toglicera da 500ml Ritardante Lenitiva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OZL6Q80/?tag=tolees00-21)
