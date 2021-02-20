@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Dogtooth  Blu-ray    Blu Ra al 23.54 % di sconto'
-date: 2021-02-18 21:09:13
+date: 2021-02-20 03:38:47
 image: 'https://m.media-amazon.com/images/I/517yr+BXLyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.it/dp/B08LFPBZVL/?tag=tolees00-21'
 descuento: '23.54'
-average: '13.7344444444444'
+average: '13.3627272727273'
 ---
 
 Puoi trovare [Koch Media - Dogtooth  Blu-ray    Blu Ray ](https://www.amazon.it/dp/B08LFPBZVL/?tag=tolees00-21) con il prezzo 11.69 EUR (originale: 15.29 EUR) 23.54 % sconto qui:
