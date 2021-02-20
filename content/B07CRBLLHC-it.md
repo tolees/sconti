@@ -28,11 +28,11 @@ average: '399.99'
 
 ℹ️:
 
-- Autopulizia pirolitica
-- Cottura HotAir 3D: risultati perfetti di cottura grazie alla distribuzione omogenea del aria al interno della cavità, che consente di cucinare fino a 3 livelli allo stesso tempo.
 - Display digitale LED rosso: facile e comodo da utilizzare.
-- Volume cavità: 71 l
-- Classe Energetica: A
 - Programmi automatici di cottura: cucinare sarà semplicissimo grazie ai programmi con impostazioni già preselezionate.
+- Cottura HotAir 3D: risultati perfetti di cottura grazie alla distribuzione omogenea del aria al interno della cavità, che consente di cucinare fino a 3 livelli allo stesso tempo.
+- Volume cavità: 71 l
+- Autopulizia pirolitica
+- Classe Energetica: A
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CRBLLHC/?tag=tolees00-21)
