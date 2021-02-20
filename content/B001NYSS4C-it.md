@@ -28,10 +28,10 @@ Puoi trovare [Puressentiel Purificante Ambientale Spray - 200 ml](https://www.am
 
 ℹ️:
 
+- Purificante dellaria
+- Scacciare i fattori inquinanti e i cattivi odori
 - Trattare laria interna e i tessuti
 - Formula brevettata con oli essenziali 100% puri & naturali
 - Certificato da ecocert 100% origine vegetale
-- Purificante dellaria
-- Scacciare i fattori inquinanti e i cattivi odori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001NYSS4C/?tag=tolees00-21)

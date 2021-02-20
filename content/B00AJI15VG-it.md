@@ -28,10 +28,10 @@ average: '17.56'
 
 ℹ️:
 
+- Istruzioni per il lavaggio: Lavabile in lavatrice a 40° C, può essere asciugato in asciugatrice
+- Materiale: 50% cotone, 50% poliestere
+- Colore: Blu
 - Incluso: Copripiumino e due federe
 - Dimensioni: Matrimoniale: L 230cm x Lungh 220cm (copripiumino), L 50cm x Lungh 75cm (federa)
-- Colore: Blu
-- Materiale: 50% cotone, 50% poliestere
-- Istruzioni per il lavaggio: Lavabile in lavatrice a 40° C, può essere asciugato in asciugatrice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AJI15VG/?tag=tolees00-21)

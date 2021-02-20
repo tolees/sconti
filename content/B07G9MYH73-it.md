@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 39.44 % su Geox D Soleil A  Sandalo con Zeppa Donna  '
-date: 2021-02-20 09:59:29
+date: 2021-02-20 10:00:19
 image: 'https://m.media-amazon.com/images/I/41jJHo49jsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '54.44'
 
 ℹ️:
 
-- Cuoio, Cuoio, Gomma, 8.0, Fibbia, Sandali
 - Dimensioni : Altezza tacco : 8.0 cm
+- Cuoio, Cuoio, Gomma, 8.0, Fibbia, Sandali
 - Shoe Width : medium
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G9MYH73/?tag=tolees00-21)

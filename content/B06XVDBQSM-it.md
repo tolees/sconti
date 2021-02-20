@@ -28,10 +28,10 @@ Puoi trovare [Asmodee Arkham Horror LCG - Il Museo della Miskatonic 9602](https:
 
 ℹ️:
 
-- Lingua: edizione interamente in italiano
 - Durata media: 60 - 120 min
-- Numero di giocatori: 1 − 2
 - Autori: nate french, matthew newman
+- Lingua: edizione interamente in italiano
 - Età suggerita: da 14 anni in su
+- Numero di giocatori: 1 − 2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XVDBQSM/?tag=tolees00-21)

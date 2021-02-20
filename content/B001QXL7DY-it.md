@@ -28,8 +28,8 @@ average: '11.79'
 
 ℹ️:
 
+- Dotato di stop
 - Comprende un avvolgitore
 - Fino a 3 metri di cavo
-- Dotato di stop
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001QXL7DY/?tag=tolees00-21)

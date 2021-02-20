@@ -28,8 +28,8 @@ Puoi trovare [Asmodee- Jungle Speed Beach Versione Impermeabile  Colore  8226](h
 
 ℹ️:
 
-- Età consigliata: da 7 anni in su
 - Numero di giocatori: 2-10
 - Durata media: 15 minuti
+- Età consigliata: da 7 anni in su
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XH6SDJD/?tag=tolees00-21)
