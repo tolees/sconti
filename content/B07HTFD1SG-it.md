@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 24.77 % su Nintendo - Animal Crossing: New Horizons  '
-date: 2021-02-04 04:07:39
+title: 'sconto del 27.69 % su Nintendo - Animal Crossing: New Horizons  '
+date: 2021-02-20 18:31:34
 image: 'https://m.media-amazon.com/images/I/51-MpkvqkVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07HTFD1SG-it Nintendo - Animal Crossing: New Horizons'
 sku: 'B07HTFD1SG-it'
 tags: [  ]
-actualPrice: 51.9 EUR
+actualPrice: 49.89 EUR
 currency: EUR
-price: 51.9
+price: 49.89
 comparePrice: 68.99 EUR
 prodname: 'Nintendo - Animal Crossing: New Horizons'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.it/dp/B07HTFD1SG/?tag=tolees00-21'
-descuento: '24.77'
-average: '49.9747058823529'
+descuento: '27.69'
+average: '49.9730769230769'
 ---
 
-[Nintendo - Animal Crossing: New Horizons](https://www.amazon.it/dp/B07HTFD1SG/?tag=tolees00-21) ha un prezzo di 51.9 EUR (originale: 68.99 EUR) con uno sconto del 24.77 % sconto qui:
+[Nintendo - Animal Crossing: New Horizons](https://www.amazon.it/dp/B07HTFD1SG/?tag=tolees00-21) ha un prezzo di 49.89 EUR (originale: 68.99 EUR) con uno sconto del 27.69 % sconto qui:
 
 [![Nintendo - Animal Crossing: New Horizons](https://m.media-amazon.com/images/I/51-MpkvqkVL._SL200_.jpg)](https://www.amazon.it/dp/B07HTFD1SG/?tag=tolees00-21)
 

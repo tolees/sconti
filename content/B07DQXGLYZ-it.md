@@ -28,9 +28,9 @@ average: '12.5'
 
 ℹ️:
 
+- Compatibili con tutte le macchine Nescafè Dolce Gusto
 - Il cereale più antico al mondo, migliore alternativa al classico caffè espresso
 - La confezione contiene 3 sacchetti da 16 capsule ciascuno
-- Compatibili con tutte le macchine Nescafè Dolce Gusto
 - Confezione da 48 capsule compatibili Nescafè Dolce Gusto Orzo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DQXGLYZ/?tag=tolees00-21)
