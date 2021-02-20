@@ -28,10 +28,10 @@ Puoi trovare [ANSMANN Tester pile professionale universale - schermo LCD visuali
 
 ℹ️:
 
-- COMPATIBILITÀ: batterie al litio a bottone 3V - fotobatterie al litio, a bottone alcaline, a bottone zinco-aria, batterie alkaline (AA, AAA, AAA, C, D, 9V) e batterie NiCd e NiMH
-- COMPATIBILITÀ: batterie litio bottone: 3VCR1025 / CR 1216 /CR 1216 /CR 1220 /CR 1616 /CR 1620 /CR 2016 /CR 2025 /CR 2032 /CR 2320 /CR 2430 /CR 2450 // per foto: CR 2 / CR 123 A / CRV 3 / CRP-2 / 2CR 5 // batterie bottone zinco-aria: V675/V 13/V 312
 - DIAGNOSI IMMEDIATA: il tester Energy Check consente di controllare in 2-3 secondi il livello di carica della batteria. Adatto per tutti tipi di batterie e batterie ricaricabili. Funziona con batteria da 9V inclusa nella confezione.
 - FACILE DA USARE: pigiare la batteria nellalloggiamento corrispondente o utilizzare il cavetto con il puntale.
 - COMPATIBILITÀ: batterie alcaline: A 23 (12V)/AAA/AAA/AA/C/D/9V// batterie ricaricabili NiCd &NiMH: AAA/AA/AA/ C/C D // celle alcaline a bottone: LR 43 / LR 44 / LR 45 / LR 48 / LR 54 / LR 55 / LR 59 / LR 58 / LR 60 / LR 66.
+- COMPATIBILITÀ: batterie litio bottone: 3VCR1025 / CR 1216 /CR 1216 /CR 1220 /CR 1616 /CR 1620 /CR 2016 /CR 2025 /CR 2032 /CR 2320 /CR 2430 /CR 2450 // per foto: CR 2 / CR 123 A / CRV 3 / CRP-2 / 2CR 5 // batterie bottone zinco-aria: V675/V 13/V 312
+- COMPATIBILITÀ: batterie al litio a bottone 3V - fotobatterie al litio, a bottone alcaline, a bottone zinco-aria, batterie alkaline (AA, AAA, AAA, C, D, 9V) e batterie NiCd e NiMH
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000KHVKV6/?tag=tolees00-21)

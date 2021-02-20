@@ -29,8 +29,8 @@ average: '18.06'
 ℹ️:
 
 - Unità ad ottima capacità per l’archiviazione dei tuoi file preferiti
-- Design compatto per portabilità
 - Capacità: 128 GB
 - Trasferisci foto, video e altri file con facilità
+- Design compatto per portabilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00RM1EC1S/?tag=tolees00-21)
