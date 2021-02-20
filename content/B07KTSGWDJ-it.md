@@ -28,11 +28,11 @@ average: '98.0500000000001'
 
 ℹ️:
 
-- Abbassa i bracci della torre sulla base di lancio per decollare e raggiungere lo spazio a bordo del razzo
-- Include 6 minifigure LEGO City: 2 astronauti, 2 scienziati, direttore del lancio e un tecnico dellequipaggio di terra, più un robot
 - Metti un dispositivo mobile nella torre del launch control per usare le opzioni di gioco interattivo disponibili quando sei connesso allapp LEGO City Explorers
-- Punta lo scanner del robot sulla tegola nellarea di ricerca per visualizzare il simbolo segreto
 - Abbassa la barra per fermare le vetture della monorotaia lungo il percorso e aiutare il personale a salire e a scendere
+- Include 6 minifigure LEGO City: 2 astronauti, 2 scienziati, direttore del lancio e un tecnico dellequipaggio di terra, più un robot
+- Punta lo scanner del robot sulla tegola nellarea di ricerca per visualizzare il simbolo segreto
 - Gli accessori includono 2 geodi, novità di giugno 2019, 2 caschi con visiere blu, una lente dingrandimento, elemento scanner, tegola con simbolo segreto, sega circolare, chiave inglese, cellulare, 4 elementi acqua e una fotocamera, più un separatore di mattoncini
+- Abbassa i bracci della torre sulla base di lancio per decollare e raggiungere lo spazio a bordo del razzo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KTSGWDJ/?tag=tolees00-21)
