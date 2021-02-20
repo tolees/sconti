@@ -28,9 +28,9 @@ average: '99.99'
 
 ℹ️:
 
-- Connettività: HDMI, D-Sub, Flicker free
 - Colore del prodotto: nero
-- Tipo di pannello: IPS
 - Monitor full HD 1920 x 1080 pixel
+- Tipo di pannello: IPS
+- Connettività: HDMI, D-Sub, Flicker free
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07281PZWK/?tag=tolees00-21)

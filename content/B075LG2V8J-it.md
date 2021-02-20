@@ -28,10 +28,10 @@ Puoi trovare [Beurer Sanitas SWB 20 Coprimaterasso in Pile con 3 Livelli di Temp
 
 ℹ️:
 
-- Coprimaterasso termico lavabile in lavatrice fino a 30°, grazie allinterruttore rimovibile
-- Singolo, dimensioni: 150 x 80 cm
 - Facile fissaggio della coperta elettrica sottopiano sul materasso grazie agli elastici
-- 3 livelli di temperatura regolabili
 - Funzione di arresto automatico in caso di surriscaldamento
+- 3 livelli di temperatura regolabili
+- Singolo, dimensioni: 150 x 80 cm
+- Coprimaterasso termico lavabile in lavatrice fino a 30°, grazie allinterruttore rimovibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075LG2V8J/?tag=tolees00-21)

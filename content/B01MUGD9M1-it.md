@@ -28,9 +28,9 @@ average: '121.33'
 
 ℹ️:
 
-- Orologio MICHAEL KORS da Uomo - Cassa rotonda in acciaio inossidabile (diam. 44 mm) con finitura lucida color canna di fucile - Resistente alla pressione dellacqua fino a 10 ATM - Ghiera dentellata in acciaio inossidabile con finitura lucida color oro rosa
+- Quadrante color canna di fucile con indici luminosi color oro rosa e numeri romani - Movimento a cronografo con datario and 24h mode - Lancette luminose color oro rosa - Vetro minerale
 - Cinturino in acciaio inossidabile color canna di fucile con finitura lucida e opaca con al centro maglie color oro rosa - Chiusura deployante con fermaglio
 - Venduto e spedito con la Gift Box MICHAEL KORS
-- Quadrante color canna di fucile con indici luminosi color oro rosa e numeri romani - Movimento a cronografo con datario and 24h mode - Lancette luminose color oro rosa - Vetro minerale
+- Orologio MICHAEL KORS da Uomo - Cassa rotonda in acciaio inossidabile (diam. 44 mm) con finitura lucida color canna di fucile - Resistente alla pressione dellacqua fino a 10 ATM - Ghiera dentellata in acciaio inossidabile con finitura lucida color oro rosa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MUGD9M1/?tag=tolees00-21)

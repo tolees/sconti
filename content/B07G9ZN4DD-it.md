@@ -28,11 +28,11 @@ Puoi trovare [Geox D Soleil A  Sandalo con Zeppa Donna  Curry  38 EU](https://ww
 
 ℹ️:
 
-- heel type: tacco a zeppa
 - Heel Height: 8 Centimeters
 - Closure: Fibbia
-- Shoe Width: Normale
 - Sole Material: Gomma Da Cancellare
+- heel type: tacco a zeppa
+- Shoe Width: Normale
 - Outer Material: Sintetico
 - Lining: Sintetico
 

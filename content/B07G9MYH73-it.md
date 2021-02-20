@@ -28,8 +28,8 @@ average: '54.44'
 
 ℹ️:
 
-- Dimensioni : Altezza tacco : 8.0 cm
-- Cuoio, Cuoio, Gomma, 8.0, Fibbia, Sandali
 - Shoe Width : medium
+- Cuoio, Cuoio, Gomma, 8.0, Fibbia, Sandali
+- Dimensioni : Altezza tacco : 8.0 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G9MYH73/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '111.97'
 
 ℹ️:
 
-- Scarpe sportive
-- Robusta suola traxion
 - Tomaia in pelle pieno fiore
+- Robusta suola traxion
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AP9CS7Y/?tag=tolees00-21)
