@@ -28,8 +28,8 @@ average: '78.0'
 
 ℹ️:
 
+- Scarpe da running
 - Ammortizzazione
 - Flessibilità
-- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082R6WMY1/?tag=tolees00-21)
