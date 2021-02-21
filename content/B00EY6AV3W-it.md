@@ -28,10 +28,10 @@ average: '1489.0'
 
 ℹ️:
 
+- Completamente compatibile con i "Four Thirds and Micro Four Thirds standards" grazie alla funzione Dual AF VELOCE
+- La migliore qualità delle immagini di sempre per una fotocamera Olympus
 - A prova di polvere, schizzi e gelo.
 - EVF con 2,36 milioni di pixel e ingrandimento di 1.48x per una facile definizione e regolazione delle impostazioni in tempo reale.
 - Il corpo Micro Four Thirds perfettamente proporzionato, è più compatta di reflex digitali, ma solida e stabile da tenere.
-- Completamente compatibile con i "Four Thirds and Micro Four Thirds standards" grazie alla funzione Dual AF VELOCE
-- La migliore qualità delle immagini di sempre per una fotocamera Olympus
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EY6AV3W/?tag=tolees00-21)
