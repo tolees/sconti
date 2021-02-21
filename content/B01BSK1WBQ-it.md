@@ -28,9 +28,9 @@ average: '15.33'
 
 ℹ️:
 
-- 24 x ombretti, 5 x blush, 5 x lip gloss cream (vasetto
 - 1 x pettine, 1 x 8 pezzi set pennello / applicatore, 1 specchio integrato
-- Cassetta trucco / trucco di alta qualità con 51 pezzi
 - 4 x lucidalabbra crema, 2 x cipria, 1 x kohl
+- Cassetta trucco / trucco di alta qualità con 51 pezzi
+- 24 x ombretti, 5 x blush, 5 x lip gloss cream (vasetto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BSK1WBQ/?tag=tolees00-21)
