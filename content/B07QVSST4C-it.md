@@ -28,10 +28,10 @@ Puoi trovare [Funko- Disney: Mt Rainier-Pop 1 Figura da Collezione  Multicolore 
 
 ℹ️:
 
-- Elsa
 - Uniconica statuina funko pop vinyl della serie frozen 2
-- Disney frozen 2
-- Scopri tutte le altre statuine disney di funko e collezionale tutte
 - Elsa e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Scopri tutte le altre statuine disney di funko e collezionale tutte
+- Elsa
+- Disney frozen 2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QVSST4C/?tag=tolees00-21)
