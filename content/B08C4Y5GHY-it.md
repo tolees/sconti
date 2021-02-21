@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 40.02 % su Elyco Corda Saltare per Nintendo Switch   '
 date: 2020-08-19 16:24:14
-image: 'https://m.media-amazon.com/images/I/51fElVlCrdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fElVlCrdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 [Elyco Corda Saltare per Nintendo Switch Jump Rope Challenge  Regolabile Jump Rope Senza Durevole Corda per Fitness e attività Fisica per Ragazzi e Ragazze per Switch Joy-con](https://www.amazon.it/dp/B08C4Y5GHY/?tag=tolees00-21) ha un prezzo di 11.99 EUR (originale: 19.99 EUR) con uno sconto del 40.02 % sconto qui:
 
-[![Elyco Corda Saltare per Nintendo Switch ](https://m.media-amazon.com/images/I/51fElVlCrdL._SL200_.jpg)](https://www.amazon.it/dp/B08C4Y5GHY/?tag=tolees00-21)
+[![Elyco Corda Saltare per Nintendo Switch ](https://m.media-amazon.com/images/I/51fElVlCrdL._SL400_.jpg)](https://www.amazon.it/dp/B08C4Y5GHY/?tag=tolees00-21)
 
 ℹ️:
 

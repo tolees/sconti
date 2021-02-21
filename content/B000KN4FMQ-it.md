@@ -2,7 +2,7 @@
 layout: post
 title: 'Pentel BL77 EnerGel XM scatto 0 7 mm ner al 23.79 % di sconto'
 date: 2020-10-11 23:27:07
-image: 'https://m.media-amazon.com/images/I/312lAlq7qML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312lAlq7qML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.906268656716428'
 
 Puoi trovare [Pentel BL77 EnerGel XM scatto 0 7 mm nero   12 pezzi](https://www.amazon.it/dp/B000KN4FMQ/?tag=tolees00-21) con il prezzo 31.55 EUR (originale: 41.4 EUR) 23.79 % sconto qui:
 
-[![Pentel BL77 EnerGel XM scatto 0 7 mm ner](https://m.media-amazon.com/images/I/312lAlq7qML._SL200_.jpg)](https://www.amazon.it/dp/B000KN4FMQ/?tag=tolees00-21)
+[![Pentel BL77 EnerGel XM scatto 0 7 mm ner](https://m.media-amazon.com/images/I/312lAlq7qML._SL400_.jpg)](https://www.amazon.it/dp/B000KN4FMQ/?tag=tolees00-21)
 
 ℹ️:
 

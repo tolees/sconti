@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 18.32 % su HUAWEI WATCH GT 2e Smartwatch  1.39" AMO  '
 date: 2020-07-21 12:55:23
-image: 'https://m.media-amazon.com/images/I/41Z--+UyFHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z--+UyFHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '138.78'
 
 [HUAWEI WATCH GT 2e Smartwatch  1.39" AMOLED HD Touchscreen  GPS e GLONASS  Auto Rileva 6 Sport  Tracking di 15 Sport Diversi  VO2Max  Battito Cardiaco in Tempo Reale  Nero  Graphite Black ](https://www.amazon.it/dp/B085GGLLR1/?tag=tolees00-21) ha un prezzo di 138.78 EUR (originale: 169.9 EUR) con uno sconto del 18.32 % sconto qui:
 
-[![HUAWEI WATCH GT 2e Smartwatch  1.39" AMO](https://m.media-amazon.com/images/I/41Z--+UyFHL._SL200_.jpg)](https://www.amazon.it/dp/B085GGLLR1/?tag=tolees00-21)
+[![HUAWEI WATCH GT 2e Smartwatch  1.39" AMO](https://m.media-amazon.com/images/I/41Z--+UyFHL._SL400_.jpg)](https://www.amazon.it/dp/B085GGLLR1/?tag=tolees00-21)
 
 ℹ️:
 

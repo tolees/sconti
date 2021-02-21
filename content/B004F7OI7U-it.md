@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 64.76 % su Alessi AKK80/13 Mini Girotondo - Sottobi  '
 date: 2020-10-10 14:03:27
-image: 'https://m.media-amazon.com/images/I/41clySx4NnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41clySx4NnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.03'
 
 [Alessi AKK80/13 Mini Girotondo - Sottobicchiere anti-umidità in acciaio INOX 18/10 a finitura lucida](https://www.amazon.it/dp/B004F7OI7U/?tag=tolees00-21) ha un prezzo di 19.03 EUR (originale: 54.0 EUR) con uno sconto del 64.76 % sconto qui:
 
-[![Alessi AKK80/13 Mini Girotondo - Sottobi](https://m.media-amazon.com/images/I/41clySx4NnL._SL200_.jpg)](https://www.amazon.it/dp/B004F7OI7U/?tag=tolees00-21)
+[![Alessi AKK80/13 Mini Girotondo - Sottobi](https://m.media-amazon.com/images/I/41clySx4NnL._SL400_.jpg)](https://www.amazon.it/dp/B004F7OI7U/?tag=tolees00-21)
 
 ℹ️:
 

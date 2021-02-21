@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Tri Solar  Scarpe da Ginnastica B al 75.47 % di sconto'
 date: 2020-09-06 15:47:01
-image: 'https://m.media-amazon.com/images/I/31T+YKi7ioL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T+YKi7ioL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.66'
 
 Puoi trovare [Clarks Tri Solar  Scarpe da Ginnastica Basse Uomo  Nero  Black Leather Black Leather   40 EU](https://www.amazon.it/dp/B07MFM1W4Z/?tag=tolees00-21) con il prezzo 30.66 EUR (originale: 125.0 EUR) 75.47 % sconto qui:
 
-[![Clarks Tri Solar  Scarpe da Ginnastica B](https://m.media-amazon.com/images/I/31T+YKi7ioL._SL200_.jpg)](https://www.amazon.it/dp/B07MFM1W4Z/?tag=tolees00-21)
+[![Clarks Tri Solar  Scarpe da Ginnastica B](https://m.media-amazon.com/images/I/31T+YKi7ioL._SL400_.jpg)](https://www.amazon.it/dp/B07MFM1W4Z/?tag=tolees00-21)
 
 ℹ️:
 

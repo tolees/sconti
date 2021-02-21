@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenor Ammorbidente Lavanda & Camomilla 2 al 31.35 % di sconto'
 date: 2020-10-06 06:55:38
-image: 'https://m.media-amazon.com/images/I/51wz4bRpO7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wz4bRpO7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.95'
 
 Puoi trovare [Lenor Ammorbidente Lavanda & Camomilla 208 Lavaggi  Maxi Formato 8 x 26 Lavaggi](https://www.amazon.it/dp/B072HFPP4Y/?tag=tolees00-21) con il prezzo 10.29 EUR (originale: 14.99 EUR) 31.35 % sconto qui:
 
-[![Lenor Ammorbidente Lavanda & Camomilla 2](https://m.media-amazon.com/images/I/51wz4bRpO7L._SL200_.jpg)](https://www.amazon.it/dp/B072HFPP4Y/?tag=tolees00-21)
+[![Lenor Ammorbidente Lavanda & Camomilla 2](https://m.media-amazon.com/images/I/51wz4bRpO7L._SL400_.jpg)](https://www.amazon.it/dp/B072HFPP4Y/?tag=tolees00-21)
 
 ℹ️:
 

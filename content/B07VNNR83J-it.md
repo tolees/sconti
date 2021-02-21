@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 31.43 % su Calvin Klein Medium Drawstring Pantalonc  '
 date: 2020-08-10 13:13:38
-image: 'https://m.media-amazon.com/images/I/41DPJQZPAnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DPJQZPAnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.39'
 
 [Calvin Klein Medium Drawstring Pantaloncini  Bianco  PVH Classic White YCD   Large Uomo](https://www.amazon.it/dp/B07VNNR83J/?tag=tolees00-21) ha un prezzo di 40.39 EUR (originale: 58.9 EUR) con uno sconto del 31.43 % sconto qui:
 
-[![Calvin Klein Medium Drawstring Pantalonc](https://m.media-amazon.com/images/I/41DPJQZPAnL._SL200_.jpg)](https://www.amazon.it/dp/B07VNNR83J/?tag=tolees00-21)
+[![Calvin Klein Medium Drawstring Pantalonc](https://m.media-amazon.com/images/I/41DPJQZPAnL._SL400_.jpg)](https://www.amazon.it/dp/B07VNNR83J/?tag=tolees00-21)
 
 ℹ️:
 

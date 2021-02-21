@@ -2,7 +2,7 @@
 layout: post
 title: 'ONE PUNCH MAN - Tappetino per il mouse - al 18.07 % di sconto'
 date: 2020-09-21 15:28:48
-image: 'https://m.media-amazon.com/images/I/41Os1G+E6fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Os1G+E6fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.75'
 
 Puoi trovare [ONE PUNCH MAN - Tappetino per il mouse - Saitama Testa](https://www.amazon.it/dp/B01MZ484QU/?tag=tolees00-21) con il prezzo 8.75 EUR (originale: 10.68 EUR) 18.07 % sconto qui:
 
-[![ONE PUNCH MAN - Tappetino per il mouse -](https://m.media-amazon.com/images/I/41Os1G+E6fL._SL200_.jpg)](https://www.amazon.it/dp/B01MZ484QU/?tag=tolees00-21)
+[![ONE PUNCH MAN - Tappetino per il mouse -](https://m.media-amazon.com/images/I/41Os1G+E6fL._SL400_.jpg)](https://www.amazon.it/dp/B01MZ484QU/?tag=tolees00-21)
 
 ℹ️:
 

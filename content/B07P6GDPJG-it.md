@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips S6640/44 Rasoio Elettrico Uomo S al 37.50 % di sconto'
 date: 2020-08-13 15:18:42
-image: 'https://m.media-amazon.com/images/I/41GalgAVWML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GalgAVWML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Puoi trovare [Philips S6640/44 Rasoio Elettrico Uomo S6000  Wet&Dry  Testina MultiFlex 5 direzioni  Lame MultiPrecision  Modalità Skin Guard con Regolabarba Uomo Integrato](https://www.amazon.it/dp/B07P6GDPJG/?tag=tolees00-21) con il prezzo 99.99 EUR (originale: 159.99 EUR) 37.50 % sconto qui:
 
-[![Philips S6640/44 Rasoio Elettrico Uomo S](https://m.media-amazon.com/images/I/41GalgAVWML._SL200_.jpg)](https://www.amazon.it/dp/B07P6GDPJG/?tag=tolees00-21)
+[![Philips S6640/44 Rasoio Elettrico Uomo S](https://m.media-amazon.com/images/I/41GalgAVWML._SL400_.jpg)](https://www.amazon.it/dp/B07P6GDPJG/?tag=tolees00-21)
 
 ℹ️:
 

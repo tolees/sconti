@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 36.01 % su GoPetee Tappetino Refrigerante Rinfresca  '
 date: 2020-08-25 14:31:00
-image: 'https://m.media-amazon.com/images/I/51YyhdGBCPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YyhdGBCPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.59'
 
 [GoPetee Tappetino Refrigerante Rinfrescante per Cane Gatto  Tappetino in Gel Pet Caldo Estivo Tappetino Fresco Refrigerante per Animali Domestici  Pesce Mimetico  XL ](https://www.amazon.it/dp/B086MGTF1Z/?tag=tolees00-21) ha un prezzo di 25.59 EUR (originale: 39.99 EUR) con uno sconto del 36.01 % sconto qui:
 
-[![GoPetee Tappetino Refrigerante Rinfresca](https://m.media-amazon.com/images/I/51YyhdGBCPL._SL200_.jpg)](https://www.amazon.it/dp/B086MGTF1Z/?tag=tolees00-21)
+[![GoPetee Tappetino Refrigerante Rinfresca](https://m.media-amazon.com/images/I/51YyhdGBCPL._SL400_.jpg)](https://www.amazon.it/dp/B086MGTF1Z/?tag=tolees00-21)
 
 ℹ️:
 

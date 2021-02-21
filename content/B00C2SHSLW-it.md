@@ -2,7 +2,7 @@
 layout: post
 title: 'SEAC Polpone  Fucile a Molla con Fiocina al 20.01 % di sconto'
 date: 2020-09-07 12:17:23
-image: 'https://m.media-amazon.com/images/I/31JsXKRIJPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JsXKRIJPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.38'
 
 Puoi trovare [SEAC Polpone  Fucile a Molla con Fiocina per Pesca Sub Unisex Adulto  Azzurro  60 cm](https://www.amazon.it/dp/B00C2SHSLW/?tag=tolees00-21) con il prezzo 30.38 EUR (originale: 37.98 EUR) 20.01 % sconto qui:
 
-[![SEAC Polpone  Fucile a Molla con Fiocina](https://m.media-amazon.com/images/I/31JsXKRIJPL._SL200_.jpg)](https://www.amazon.it/dp/B00C2SHSLW/?tag=tolees00-21)
+[![SEAC Polpone  Fucile a Molla con Fiocina](https://m.media-amazon.com/images/I/31JsXKRIJPL._SL400_.jpg)](https://www.amazon.it/dp/B00C2SHSLW/?tag=tolees00-21)
 
 ℹ️:
 

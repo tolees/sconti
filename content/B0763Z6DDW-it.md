@@ -2,7 +2,7 @@
 layout: post
 title: 'Chupa Chups Skull Lecca Lecca  Confezion al 15.29 % di sconto'
 date: 2020-10-12 07:15:14
-image: 'https://m.media-amazon.com/images/I/517N-vJBwLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517N-vJBwLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 Puoi trovare [Chupa Chups Skull Lecca Lecca  Confezione da 100 Lollipops Monopezzi  Aroma Fragola e Lime  Ottimi da Condividere](https://www.amazon.it/dp/B0763Z6DDW/?tag=tolees00-21) con il prezzo 25.99 EUR (originale: 30.68 EUR) 15.29 % sconto qui:
 
-[![Chupa Chups Skull Lecca Lecca  Confezion](https://m.media-amazon.com/images/I/517N-vJBwLL._SL200_.jpg)](https://www.amazon.it/dp/B0763Z6DDW/?tag=tolees00-21)
+[![Chupa Chups Skull Lecca Lecca  Confezion](https://m.media-amazon.com/images/I/517N-vJBwLL._SL400_.jpg)](https://www.amazon.it/dp/B0763Z6DDW/?tag=tolees00-21)
 
 ℹ️:
 

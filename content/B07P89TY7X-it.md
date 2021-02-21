@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 15.20 % su HOMCOM Schermo di Proiezione 100 Pollici  '
 date: 2020-08-28 06:21:43
-image: 'https://m.media-amazon.com/images/I/31mn0lTxGXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mn0lTxGXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.36'
 
 [HOMCOM Schermo di Proiezione 100 Pollici Regolabile Ottimo Contrasto Tessuto Metallo 203 x 152 cm Bianco Nero](https://www.amazon.it/dp/B07P89TY7X/?tag=tolees00-21) ha un prezzo di 42.36 EUR (originale: 49.95 EUR) con uno sconto del 15.20 % sconto qui:
 
-[![HOMCOM Schermo di Proiezione 100 Pollici](https://m.media-amazon.com/images/I/31mn0lTxGXL._SL200_.jpg)](https://www.amazon.it/dp/B07P89TY7X/?tag=tolees00-21)
+[![HOMCOM Schermo di Proiezione 100 Pollici](https://m.media-amazon.com/images/I/31mn0lTxGXL._SL400_.jpg)](https://www.amazon.it/dp/B07P89TY7X/?tag=tolees00-21)
 
 ℹ️:
 

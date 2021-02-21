@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 17.52 % su Layack Coperta da Spiaggia 210x200CM  Co  '
 date: 2020-08-10 17:02:49
-image: 'https://m.media-amazon.com/images/I/51Nwol+0giL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Nwol+0giL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.79'
 
 [Layack Coperta da Spiaggia 210x200CM  Coperta da Campeggio Tappetino da Picnic Impermeabile Portatile per Campeggio  Picnic  Spiaggia  Viaggi  Escursionismo  Blu](https://www.amazon.it/dp/B089CXPY33/?tag=tolees00-21) ha un prezzo di 9.79 EUR (originale: 11.87 EUR) con uno sconto del 17.52 % sconto qui:
 
-[![Layack Coperta da Spiaggia 210x200CM  Co](https://m.media-amazon.com/images/I/51Nwol+0giL._SL200_.jpg)](https://www.amazon.it/dp/B089CXPY33/?tag=tolees00-21)
+[![Layack Coperta da Spiaggia 210x200CM  Co](https://m.media-amazon.com/images/I/51Nwol+0giL._SL400_.jpg)](https://www.amazon.it/dp/B089CXPY33/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 41.42 % su Versus Versace Dress Watch VSP490318  '
 date: 2020-10-07 12:31:10
-image: 'https://m.media-amazon.com/images/I/31zAxF-3xvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zAxF-3xvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.0'
 
 [Versus Versace Dress Watch VSP490318](https://www.amazon.it/dp/B07C931NRN/?tag=tolees00-21) ha un prezzo di 99.0 EUR (originale: 169.0 EUR) con uno sconto del 41.42 % sconto qui:
 
-[![Versus Versace Dress Watch VSP490318](https://m.media-amazon.com/images/I/31zAxF-3xvL._SL200_.jpg)](https://www.amazon.it/dp/B07C931NRN/?tag=tolees00-21)
+[![Versus Versace Dress Watch VSP490318](https://m.media-amazon.com/images/I/31zAxF-3xvL._SL400_.jpg)](https://www.amazon.it/dp/B07C931NRN/?tag=tolees00-21)
 
 ℹ️:
 

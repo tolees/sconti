@@ -2,7 +2,7 @@
 layout: post
 title: 'Boss Profumo - 100 Ml al 51.01 % di sconto'
 date: 2020-09-15 12:24:19
-image: 'https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.2'
 
 Puoi trovare [Boss Profumo - 100 Ml](https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21) con il prezzo 50.2 EUR (originale: 102.46 EUR) 51.01 % sconto qui:
 
-[![Boss Profumo - 100 Ml](https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL200_.jpg)](https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21)
+[![Boss Profumo - 100 Ml](https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL400_.jpg)](https://www.amazon.it/dp/B01BPAI78K/?tag=tolees00-21)
 
 ℹ️:
 

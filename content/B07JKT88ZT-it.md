@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Roland Backpack  Borsa U al 40.03 % di sconto'
 date: 2020-09-02 09:48:32
-image: 'https://m.media-amazon.com/images/I/41t8VcfMmKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41t8VcfMmKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Puoi trovare [Under Armour UA Roland Backpack  Borsa Unisex  Blu  OSFA](https://www.amazon.it/dp/B07JKT88ZT/?tag=tolees00-21) con il prezzo 17.99 EUR (originale: 30.0 EUR) 40.03 % sconto qui:
 
-[![Under Armour UA Roland Backpack  Borsa U](https://m.media-amazon.com/images/I/41t8VcfMmKL._SL200_.jpg)](https://www.amazon.it/dp/B07JKT88ZT/?tag=tolees00-21)
+[![Under Armour UA Roland Backpack  Borsa U](https://m.media-amazon.com/images/I/41t8VcfMmKL._SL400_.jpg)](https://www.amazon.it/dp/B07JKT88ZT/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Sims 4 - PC al 49.90 % di sconto'
 date: 2020-09-02 12:03:56
-image: 'https://m.media-amazon.com/images/I/41Fqig2vgRL._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fqig2vgRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Puoi trovare [The Sims 4 - PC](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21) con il prezzo 19.99 EUR (originale: 39.9 EUR) 49.90 % sconto qui:
 
-[![The Sims 4 - PC](https://m.media-amazon.com/images/I/41Fqig2vgRL._SL500_._SL200_.jpg)](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21)
+[![The Sims 4 - PC](https://m.media-amazon.com/images/I/41Fqig2vgRL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B00NNUZFMM/?tag=tolees00-21)
 
 ℹ️:
 

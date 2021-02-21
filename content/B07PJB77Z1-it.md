@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.01 % su Lampada Libro Led Pieghevole in Legno co  '
 date: 2020-08-11 05:37:50
-image: 'https://m.media-amazon.com/images/I/51Gf2YrulrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Gf2YrulrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 [Lampada Libro Led Pieghevole in Legno con Telecomando 12 Colori e Timer – BONNYCO | Lampada Libro Decorazioni Casa  Camera e Ufficio | Idea Regalo Originale per Compleanno e Natale  Donna e Uomo](https://www.amazon.it/dp/B07PJB77Z1/?tag=tolees00-21) ha un prezzo di 23.99 EUR (originale: 29.99 EUR) con uno sconto del 20.01 % sconto qui:
 
-[![Lampada Libro Led Pieghevole in Legno co](https://m.media-amazon.com/images/I/51Gf2YrulrL._SL200_.jpg)](https://www.amazon.it/dp/B07PJB77Z1/?tag=tolees00-21)
+[![Lampada Libro Led Pieghevole in Legno co](https://m.media-amazon.com/images/I/51Gf2YrulrL._SL400_.jpg)](https://www.amazon.it/dp/B07PJB77Z1/?tag=tolees00-21)
 
 ℹ️:
 

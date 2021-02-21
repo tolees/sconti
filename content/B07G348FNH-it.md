@@ -2,7 +2,7 @@
 layout: post
 title: 'Chicco Passeggino Ohlalà 2  Leggero  Com al 34.53 % di sconto'
 date: 2020-08-31 15:59:01
-image: 'https://m.media-amazon.com/images/I/41S-RoffTML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S-RoffTML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '91.0'
 
 Puoi trovare [Chicco Passeggino Ohlalà 2  Leggero  Compatto  Paprika  Rosso](https://www.amazon.it/dp/B07G348FNH/?tag=tolees00-21) con il prezzo 91.0 EUR (originale: 139.0 EUR) 34.53 % sconto qui:
 
-[![Chicco Passeggino Ohlalà 2  Leggero  Com](https://m.media-amazon.com/images/I/41S-RoffTML._SL200_.jpg)](https://www.amazon.it/dp/B07G348FNH/?tag=tolees00-21)
+[![Chicco Passeggino Ohlalà 2  Leggero  Com](https://m.media-amazon.com/images/I/41S-RoffTML._SL400_.jpg)](https://www.amazon.it/dp/B07G348FNH/?tag=tolees00-21)
 
 ℹ️:
 

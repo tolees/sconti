@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 69.71 % su LE 24W Plafoniera LED  Lampada da Soffit  '
 date: 2020-07-24 12:49:24
-image: 'https://m.media-amazon.com/images/I/41xU+jhwVgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xU+jhwVgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 [LE 24W Plafoniera LED  Lampada da Soffitto LED Bianco Naturale 4000K  Equivalente a 200W  2200 lumen  Impermeabile IP54  Luce da Soffitto per Cucina Sala Camera da letto Soggiorno Bagno](https://www.amazon.it/dp/B07PVH3NWS/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 99.0 EUR) con uno sconto del 69.71 % sconto qui:
 
-[![LE 24W Plafoniera LED  Lampada da Soffit](https://m.media-amazon.com/images/I/41xU+jhwVgL._SL200_.jpg)](https://www.amazon.it/dp/B07PVH3NWS/?tag=tolees00-21)
+[![LE 24W Plafoniera LED  Lampada da Soffit](https://m.media-amazon.com/images/I/41xU+jhwVgL._SL400_.jpg)](https://www.amazon.it/dp/B07PVH3NWS/?tag=tolees00-21)
 
 ℹ️:
 

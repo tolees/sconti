@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Revolution 5  Scarpe da Corsa Mens  al 26.36 % di sconto'
 date: 2020-08-23 10:39:02
-image: 'https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.5'
 
 Puoi trovare [Nike Revolution 5  Scarpe da Corsa Mens  Black/White-Anthracite  39 EU](https://www.amazon.it/dp/B07NLX68MY/?tag=tolees00-21) con il prezzo 40.5 EUR (originale: 55.0 EUR) 26.36 % sconto qui:
 
-[![Nike Revolution 5  Scarpe da Corsa Mens ](https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL200_.jpg)](https://www.amazon.it/dp/B07NLX68MY/?tag=tolees00-21)
+[![Nike Revolution 5  Scarpe da Corsa Mens ](https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL400_.jpg)](https://www.amazon.it/dp/B07NLX68MY/?tag=tolees00-21)
 
 ℹ️:
 

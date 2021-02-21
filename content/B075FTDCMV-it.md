@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.00 % su NESCAFE DOLCE GUSTO COMPATIBILE 96 capsu  '
 date: 2020-09-07 11:10:28
-image: 'https://m.media-amazon.com/images/I/415ET9RDsHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415ET9RDsHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 [NESCAFE DOLCE GUSTO COMPATIBILE 96 capsule POP CAFFÈ E-GUSTO M. 1 INTENSO cialde](https://www.amazon.it/dp/B075FTDCMV/?tag=tolees00-21) ha un prezzo di 18.0 EUR (originale: 22.5 EUR) con uno sconto del 20.00 % sconto qui:
 
-[![NESCAFE DOLCE GUSTO COMPATIBILE 96 capsu](https://m.media-amazon.com/images/I/415ET9RDsHL._SL200_.jpg)](https://www.amazon.it/dp/B075FTDCMV/?tag=tolees00-21)
+[![NESCAFE DOLCE GUSTO COMPATIBILE 96 capsu](https://m.media-amazon.com/images/I/415ET9RDsHL._SL400_.jpg)](https://www.amazon.it/dp/B075FTDCMV/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'TOFU Candele profumate Regalo Donna  Reg al 20.01 % di sconto'
 date: 2020-08-29 10:43:54
-image: 'https://m.media-amazon.com/images/I/516OBHo44uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516OBHo44uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.556666666666665'
 
 Puoi trovare [TOFU Candele profumate Regalo Donna  Regali per Donna realizzate con Cera di soia  Set di 6 fragranze Leggere  2 5 Once  Bagno Domestico  Yoga  aromaterapia  Relax  Antistress  Compleanno](https://www.amazon.it/dp/B086YNSJTQ/?tag=tolees00-21) con il prezzo 19.99 EUR (originale: 24.99 EUR) 20.01 % sconto qui:
 
-[![TOFU Candele profumate Regalo Donna  Reg](https://m.media-amazon.com/images/I/516OBHo44uL._SL200_.jpg)](https://www.amazon.it/dp/B086YNSJTQ/?tag=tolees00-21)
+[![TOFU Candele profumate Regalo Donna  Reg](https://m.media-amazon.com/images/I/516OBHo44uL._SL400_.jpg)](https://www.amazon.it/dp/B086YNSJTQ/?tag=tolees00-21)
 
 ℹ️:
 

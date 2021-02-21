@@ -2,7 +2,7 @@
 layout: post
 title: 'Neoviva - Cuscino imbottito a forma di m al 30.79 % di sconto'
 date: 2020-08-14 16:31:29
-image: 'https://m.media-amazon.com/images/I/51p9wkK7B7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51p9wkK7B7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Puoi trovare [Neoviva - Cuscino imbottito a forma di margherita  con 7 petali  Tessuto  Polka Dots Tango Rosso  Margherita](https://www.amazon.it/dp/B01D2YFNOS/?tag=tolees00-21) con il prezzo 8.99 EUR (originale: 12.99 EUR) 30.79 % sconto qui:
 
-[![Neoviva - Cuscino imbottito a forma di m](https://m.media-amazon.com/images/I/51p9wkK7B7L._SL200_.jpg)](https://www.amazon.it/dp/B01D2YFNOS/?tag=tolees00-21)
+[![Neoviva - Cuscino imbottito a forma di m](https://m.media-amazon.com/images/I/51p9wkK7B7L._SL400_.jpg)](https://www.amazon.it/dp/B01D2YFNOS/?tag=tolees00-21)
 
 ℹ️:
 

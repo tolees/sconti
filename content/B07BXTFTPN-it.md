@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 60.32 % su Ready Player One  4K+Br   '
 date: 2020-09-22 20:29:30
-image: 'https://m.media-amazon.com/images/I/51AtWixTV9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AtWixTV9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.9'
 
 [Ready Player One  4K+Br ](https://www.amazon.it/dp/B07BXTFTPN/?tag=tolees00-21) ha un prezzo di 11.9 EUR (originale: 29.99 EUR) con uno sconto del 60.32 % sconto qui:
 
-[![Ready Player One  4K+Br ](https://m.media-amazon.com/images/I/51AtWixTV9L._SL200_.jpg)](https://www.amazon.it/dp/B07BXTFTPN/?tag=tolees00-21)
+[![Ready Player One  4K+Br ](https://m.media-amazon.com/images/I/51AtWixTV9L._SL400_.jpg)](https://www.amazon.it/dp/B07BXTFTPN/?tag=tolees00-21)
 
 ℹ️:
 

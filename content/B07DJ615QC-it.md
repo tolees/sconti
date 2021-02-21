@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.00 % su New Balance 500  Scarpe Sportive Uomo  B  '
 date: 2020-08-25 12:05:36
-image: 'https://m.media-amazon.com/images/I/41wUeCZX5VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wUeCZX5VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.0'
 
 [New Balance 500  Scarpe Sportive Uomo  Bianco  Munsell White/Eclipse/Tempo Red Swb   44 EU](https://www.amazon.it/dp/B07DJ615QC/?tag=tolees00-21) ha un prezzo di 60.0 EUR (originale: 75.0 EUR) con uno sconto del 20.00 % sconto qui:
 
-[![New Balance 500  Scarpe Sportive Uomo  B](https://m.media-amazon.com/images/I/41wUeCZX5VL._SL200_.jpg)](https://www.amazon.it/dp/B07DJ615QC/?tag=tolees00-21)
+[![New Balance 500  Scarpe Sportive Uomo  B](https://m.media-amazon.com/images/I/41wUeCZX5VL._SL400_.jpg)](https://www.amazon.it/dp/B07DJ615QC/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Stanley STST1-80151 Carrello porta utens al 27.06 % di sconto'
 date: 2021-02-04 12:13:11
-image: 'https://m.media-amazon.com/images/I/41pl2JMKh3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pl2JMKh3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,14 +24,14 @@ average: '29.9'
 
 Puoi trovare [Stanley STST1-80151 Carrello porta utensili 3 in 1  3 livelli di stoccaggio  Capacità di carico 20 kg](https://www.amazon.it/dp/B06XCBPFRN/?tag=tolees00-21) con il prezzo 29.9 EUR (originale: 40.99 EUR) 27.06 % sconto qui:
 
-[![Stanley STST1-80151 Carrello porta utens](https://m.media-amazon.com/images/I/41pl2JMKh3L._SL200_.jpg)](https://www.amazon.it/dp/B06XCBPFRN/?tag=tolees00-21)
+[![Stanley STST1-80151 Carrello porta utens](https://m.media-amazon.com/images/I/41pl2JMKh3L._SL400_.jpg)](https://www.amazon.it/dp/B06XCBPFRN/?tag=tolees00-21)
 
 ℹ️:
 
-- Due organizer nel coperchio per la piccolaminuteria
+- Dimensioni cm 47,5x28,5x62,3
 - Asole per chiusura a lucchetto
 - Moduli intercambiabili. Capacità di carico kg 20
 - Cerniere di chiusura in acciaio e maniglione pieghevole per il trasporto
-- Dimensioni cm 47,5x28,5x62,3
+- Due organizer nel coperchio per la piccolaminuteria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XCBPFRN/?tag=tolees00-21)

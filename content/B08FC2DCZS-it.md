@@ -2,7 +2,7 @@
 layout: post
 title: 'Antank Batteria Sostitutiva HAC-003 per  al 20.01 % di sconto'
 date: 2020-08-24 22:52:51
-image: 'https://m.media-amazon.com/images/I/41miTW6sycL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41miTW6sycL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Puoi trovare [Antank Batteria Sostitutiva HAC-003 per Console di Gioco Nintendo Switch [2017]  Batteria 4310mAh con Kit di Strumenti di Riparazione fai-da-te](https://www.amazon.it/dp/B08FC2DCZS/?tag=tolees00-21) con il prezzo 23.99 EUR (originale: 29.99 EUR) 20.01 % sconto qui:
 
-[![Antank Batteria Sostitutiva HAC-003 per ](https://m.media-amazon.com/images/I/41miTW6sycL._SL200_.jpg)](https://www.amazon.it/dp/B08FC2DCZS/?tag=tolees00-21)
+[![Antank Batteria Sostitutiva HAC-003 per ](https://m.media-amazon.com/images/I/41miTW6sycL._SL400_.jpg)](https://www.amazon.it/dp/B08FC2DCZS/?tag=tolees00-21)
 
 ℹ️:
 

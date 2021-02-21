@@ -2,7 +2,7 @@
 layout: post
 title: 'Filetti di tonno pescato a canna in olio al 15.25 % di sconto'
 date: 2020-07-24 17:51:56
-image: 'https://m.media-amazon.com/images/I/414GgnQll3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414GgnQll3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.5'
 
 Puoi trovare [Filetti di tonno pescato a canna in olio d oliva 190g](https://www.amazon.it/dp/B07SSSS6GZ/?tag=tolees00-21) con il prezzo 5.5 EUR (originale: 6.49 EUR) 15.25 % sconto qui:
 
-[![Filetti di tonno pescato a canna in olio](https://m.media-amazon.com/images/I/414GgnQll3L._SL200_.jpg)](https://www.amazon.it/dp/B07SSSS6GZ/?tag=tolees00-21)
+[![Filetti di tonno pescato a canna in olio](https://m.media-amazon.com/images/I/414GgnQll3L._SL400_.jpg)](https://www.amazon.it/dp/B07SSSS6GZ/?tag=tolees00-21)
 
 ℹ️:
 

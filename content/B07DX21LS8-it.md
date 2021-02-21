@@ -2,7 +2,7 @@
 layout: post
 title: 'Salewa  00-0000027165  Giacca  Uomo  Blu al 61.86 % di sconto'
 date: 2020-08-26 10:13:54
-image: 'https://m.media-amazon.com/images/I/418dBChasEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418dBChasEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '83.91'
 
 Puoi trovare [Salewa  00-0000027165  Giacca  Uomo  Blu  Ombre Blue   46/S](https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21) con il prezzo 83.91 EUR (originale: 220.0 EUR) 61.86 % sconto qui:
 
-[![Salewa  00-0000027165  Giacca  Uomo  Blu](https://m.media-amazon.com/images/I/418dBChasEL._SL200_.jpg)](https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21)
+[![Salewa  00-0000027165  Giacca  Uomo  Blu](https://m.media-amazon.com/images/I/418dBChasEL._SL400_.jpg)](https://www.amazon.it/dp/B07DX21LS8/?tag=tolees00-21)
 
 ℹ️:
 

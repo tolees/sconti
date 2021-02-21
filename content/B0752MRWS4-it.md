@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Brasil Logo  Infradito Unisex- al 38.25 % di sconto'
 date: 2020-07-19 17:12:01
-image: 'https://m.media-amazon.com/images/I/41MuWkkaBoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MuWkkaBoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.82'
 
 Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Adulto  Giallo  Banana Yellow   41/42 EU](https://www.amazon.it/dp/B0752MRWS4/?tag=tolees00-21) con il prezzo 14.82 EUR (originale: 24.0 EUR) 38.25 % sconto qui:
 
-[![Havaianas Brasil Logo  Infradito Unisex-](https://m.media-amazon.com/images/I/41MuWkkaBoL._SL200_.jpg)](https://www.amazon.it/dp/B0752MRWS4/?tag=tolees00-21)
+[![Havaianas Brasil Logo  Infradito Unisex-](https://m.media-amazon.com/images/I/41MuWkkaBoL._SL400_.jpg)](https://www.amazon.it/dp/B0752MRWS4/?tag=tolees00-21)
 
 ℹ️:
 

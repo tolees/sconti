@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Wmns Court Royale AC CNV  Scarpe da al 24.73 % di sconto'
 date: 2020-09-02 16:26:16
-image: 'https://m.media-amazon.com/images/I/31Hw4tT7wIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Hw4tT7wIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.84'
 
 Puoi trovare [Nike Wmns Court Royale AC CNV  Scarpe da Tennis Donna  Black/White  38.5 EU](https://www.amazon.it/dp/B07ZTVB8CL/?tag=tolees00-21) con il prezzo 26.84 EUR (originale: 35.66 EUR) 24.73 % sconto qui:
 
-[![Nike Wmns Court Royale AC CNV  Scarpe da](https://m.media-amazon.com/images/I/31Hw4tT7wIL._SL200_.jpg)](https://www.amazon.it/dp/B07ZTVB8CL/?tag=tolees00-21)
+[![Nike Wmns Court Royale AC CNV  Scarpe da](https://m.media-amazon.com/images/I/31Hw4tT7wIL._SL400_.jpg)](https://www.amazon.it/dp/B07ZTVB8CL/?tag=tolees00-21)
 
 ℹ️:
 

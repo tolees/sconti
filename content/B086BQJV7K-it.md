@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.01 % su Aigostar Lampada da Comodino  Moderna La  '
 date: 2020-08-21 06:16:43
-image: 'https://m.media-amazon.com/images/I/41Ox24vECgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ox24vECgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.39'
 
 [Aigostar Lampada da Comodino  Moderna Lampada da Tavolo Base in Ceramica Paralume in Stoffa  Attacco E14  Ananas d oro  Altezza 36cm ](https://www.amazon.it/dp/B086BQJV7K/?tag=tolees00-21) ha un prezzo di 18.39 EUR (originale: 22.99 EUR) con uno sconto del 20.01 % sconto qui:
 
-[![Aigostar Lampada da Comodino  Moderna La](https://m.media-amazon.com/images/I/41Ox24vECgL._SL200_.jpg)](https://www.amazon.it/dp/B086BQJV7K/?tag=tolees00-21)
+[![Aigostar Lampada da Comodino  Moderna La](https://m.media-amazon.com/images/I/41Ox24vECgL._SL400_.jpg)](https://www.amazon.it/dp/B086BQJV7K/?tag=tolees00-21)
 
 ℹ️:
 

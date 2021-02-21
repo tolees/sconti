@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 36.36 % su Lacoste Pj2909 Polo  Viola  Corsaire 68t  '
 date: 2020-08-09 18:20:27
-image: 'https://m.media-amazon.com/images/I/31YVIimMqxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YVIimMqxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.0'
 
 [Lacoste Pj2909 Polo  Viola  Corsaire 68t   12 anni  Taglia Produttore: 12A  Bambino](https://www.amazon.it/dp/B07TJXNR9P/?tag=tolees00-21) ha un prezzo di 35.0 EUR (originale: 55.0 EUR) con uno sconto del 36.36 % sconto qui:
 
-[![Lacoste Pj2909 Polo  Viola  Corsaire 68t](https://m.media-amazon.com/images/I/31YVIimMqxL._SL200_.jpg)](https://www.amazon.it/dp/B07TJXNR9P/?tag=tolees00-21)
+[![Lacoste Pj2909 Polo  Viola  Corsaire 68t](https://m.media-amazon.com/images/I/31YVIimMqxL._SL400_.jpg)](https://www.amazon.it/dp/B07TJXNR9P/?tag=tolees00-21)
 
 ℹ️:
 

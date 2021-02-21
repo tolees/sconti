@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 21.17 % su Colgate Dentifricio Protezione Carie - 6  '
 date: 2020-08-05 12:53:19
-image: 'https://m.media-amazon.com/images/I/5138iwaJrtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5138iwaJrtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.9'
 
 [Colgate Dentifricio Protezione Carie - 6 pezzi da 75 ml](https://www.amazon.it/dp/B079XF3DGJ/?tag=tolees00-21) ha un prezzo di 4.32 EUR (originale: 5.48 EUR) con uno sconto del 21.17 % sconto qui:
 
-[![Colgate Dentifricio Protezione Carie - 6](https://m.media-amazon.com/images/I/5138iwaJrtL._SL200_.jpg)](https://www.amazon.it/dp/B079XF3DGJ/?tag=tolees00-21)
+[![Colgate Dentifricio Protezione Carie - 6](https://m.media-amazon.com/images/I/5138iwaJrtL._SL400_.jpg)](https://www.amazon.it/dp/B079XF3DGJ/?tag=tolees00-21)
 
 ℹ️:
 

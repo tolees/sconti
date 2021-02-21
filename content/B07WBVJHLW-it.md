@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.59 % su Hoonyer Display per iPhone 5S/SE Touch S  '
 date: 2020-09-13 06:51:32
-image: 'https://m.media-amazon.com/images/I/415w2ntBsSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415w2ntBsSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.05'
 
 [Hoonyer Display per iPhone 5S/SE Touch Screen LCD Digitizer Schermo Utensili Inclusi con Pulsante Home  Fotocamera  sensore Flex  Bianco](https://www.amazon.it/dp/B07WBVJHLW/?tag=tolees00-21) ha un prezzo di 19.05 EUR (originale: 23.99 EUR) con uno sconto del 20.59 % sconto qui:
 
-[![Hoonyer Display per iPhone 5S/SE Touch S](https://m.media-amazon.com/images/I/415w2ntBsSL._SL200_.jpg)](https://www.amazon.it/dp/B07WBVJHLW/?tag=tolees00-21)
+[![Hoonyer Display per iPhone 5S/SE Touch S](https://m.media-amazon.com/images/I/415w2ntBsSL._SL400_.jpg)](https://www.amazon.it/dp/B07WBVJHLW/?tag=tolees00-21)
 
 ℹ️:
 

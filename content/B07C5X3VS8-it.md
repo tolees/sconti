@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjeholmen Sweat Zip Hood No al 32.01 % di sconto'
 date: 2020-09-30 16:15:15
-image: 'https://m.media-amazon.com/images/I/4169c8djiwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4169c8djiwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.39'
 
 Puoi trovare [JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa  Verde  Olive Night Fit: Reg Fit   Large Uomo](https://www.amazon.it/dp/B07C5X3VS8/?tag=tolees00-21) con il prezzo 20.39 EUR (originale: 29.99 EUR) 32.01 % sconto qui:
 
-[![JACK & JONES Jjeholmen Sweat Zip Hood No](https://m.media-amazon.com/images/I/4169c8djiwL._SL200_.jpg)](https://www.amazon.it/dp/B07C5X3VS8/?tag=tolees00-21)
+[![JACK & JONES Jjeholmen Sweat Zip Hood No](https://m.media-amazon.com/images/I/4169c8djiwL._SL400_.jpg)](https://www.amazon.it/dp/B07C5X3VS8/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FIFA 20 - Champions - Xbox One  3 anni + al 77.79 % di sconto'
 date: 2020-09-24 07:55:54
-image: 'https://m.media-amazon.com/images/I/51PfHl-QVuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PfHl-QVuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Puoi trovare [FIFA 20 - Champions - Xbox One  3 anni +](https://www.amazon.it/dp/B07SJ138HC/?tag=tolees00-21) con il prezzo 19.99 EUR (originale: 89.99 EUR) 77.79 % sconto qui:
 
-[![FIFA 20 - Champions - Xbox One  3 anni +](https://m.media-amazon.com/images/I/51PfHl-QVuL._SL200_.jpg)](https://www.amazon.it/dp/B07SJ138HC/?tag=tolees00-21)
+[![FIFA 20 - Champions - Xbox One  3 anni +](https://m.media-amazon.com/images/I/51PfHl-QVuL._SL400_.jpg)](https://www.amazon.it/dp/B07SJ138HC/?tag=tolees00-21)
 
 ℹ️:
 

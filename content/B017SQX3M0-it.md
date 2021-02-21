@@ -2,7 +2,7 @@
 layout: post
 title: 'SALOMON Speedcross 4  Scarpe da Trail Ru al 41.65 % di sconto'
 date: 2020-10-02 09:13:33
-image: 'https://m.media-amazon.com/images/I/31jfeOwoYqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jfeOwoYqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.985'
 
 Puoi trovare [SALOMON Speedcross 4  Scarpe da Trail Running Uomo  Nero  Black/Black/Black Metallic   46 EU](https://www.amazon.it/dp/B017SQX3M0/?tag=tolees00-21) con il prezzo 69.99 EUR (originale: 119.95 EUR) 41.65 % sconto qui:
 
-[![SALOMON Speedcross 4  Scarpe da Trail Ru](https://m.media-amazon.com/images/I/31jfeOwoYqL._SL200_.jpg)](https://www.amazon.it/dp/B017SQX3M0/?tag=tolees00-21)
+[![SALOMON Speedcross 4  Scarpe da Trail Ru](https://m.media-amazon.com/images/I/31jfeOwoYqL._SL400_.jpg)](https://www.amazon.it/dp/B017SQX3M0/?tag=tolees00-21)
 
 ℹ️:
 

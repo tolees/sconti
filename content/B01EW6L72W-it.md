@@ -2,7 +2,7 @@
 layout: post
 title: 'Haier HTF-456DM6  Frigorifero Cube 4 Por al 45.70 % di sconto'
 date: 2020-10-08 06:55:29
-image: 'https://m.media-amazon.com/images/I/31dCB8wxkZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dCB8wxkZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '450.0'
 
 Puoi trovare [Haier HTF-456DM6  Frigorifero Cube 4 Porte  Libera installazione  ABT luce UV antibatterica](https://www.amazon.it/dp/B01EW6L72W/?tag=tolees00-21) con il prezzo 450.0 EUR (originale: 828.74 EUR) 45.70 % sconto qui:
 
-[![Haier HTF-456DM6  Frigorifero Cube 4 Por](https://m.media-amazon.com/images/I/31dCB8wxkZL._SL200_.jpg)](https://www.amazon.it/dp/B01EW6L72W/?tag=tolees00-21)
+[![Haier HTF-456DM6  Frigorifero Cube 4 Por](https://m.media-amazon.com/images/I/31dCB8wxkZL._SL400_.jpg)](https://www.amazon.it/dp/B01EW6L72W/?tag=tolees00-21)
 
 ℹ️:
 

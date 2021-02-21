@@ -2,7 +2,7 @@
 layout: post
 title: 'Enterogermina Viaggi  integratore alimen al 63.38 % di sconto'
 date: 2020-09-10 10:23:43
-image: 'https://m.media-amazon.com/images/I/51EZvH20WcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EZvH20WcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.41'
 
 Puoi trovare [Enterogermina Viaggi  integratore alimentare a base di probiotici  Vitamine A  D e Vitamine del gruppo B arricchito con fibre prebiotiche. Contiene edulcorante](https://www.amazon.it/dp/B07V6TDVGN/?tag=tolees00-21) con il prezzo 5.09 EUR (originale: 13.9 EUR) 63.38 % sconto qui:
 
-[![Enterogermina Viaggi  integratore alimen](https://m.media-amazon.com/images/I/51EZvH20WcL._SL200_.jpg)](https://www.amazon.it/dp/B07V6TDVGN/?tag=tolees00-21)
+[![Enterogermina Viaggi  integratore alimen](https://m.media-amazon.com/images/I/51EZvH20WcL._SL400_.jpg)](https://www.amazon.it/dp/B07V6TDVGN/?tag=tolees00-21)
 
 ℹ️:
 

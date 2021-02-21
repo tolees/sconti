@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Levis 168sf Mid Cut 3p Calze  Blu al 32.43 % di sconto'
 date: 2020-10-09 06:07:29
-image: 'https://m.media-amazon.com/images/I/412ib4EwZyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412ib4EwZyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.75'
 
 Puoi trovare [Levi s Levis 168sf Mid Cut 3p Calze  Blu  Navy 321   43/46  Taglia Produttore: 043  Uomo](https://www.amazon.it/dp/B07VTG86Y2/?tag=tolees00-21) con il prezzo 6.75 EUR (originale: 9.99 EUR) 32.43 % sconto qui:
 
-[![Levi s Levis 168sf Mid Cut 3p Calze  Blu](https://m.media-amazon.com/images/I/412ib4EwZyL._SL200_.jpg)](https://www.amazon.it/dp/B07VTG86Y2/?tag=tolees00-21)
+[![Levi s Levis 168sf Mid Cut 3p Calze  Blu](https://m.media-amazon.com/images/I/412ib4EwZyL._SL400_.jpg)](https://www.amazon.it/dp/B07VTG86Y2/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung WW70K5410UW Lavatrice 7 kg AddWa al 22.44 % di sconto'
 date: 2020-08-28 10:37:47
-image: 'https://m.media-amazon.com/images/I/41x1gNHjHSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x1gNHjHSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '349.0'
 
 Puoi trovare [Samsung WW70K5410UW Lavatrice 7 kg AddWash  1400 rpm  Bianco con Oblò Blu](https://www.amazon.it/dp/B06ZZ6K76P/?tag=tolees00-21) con il prezzo 349.0 EUR (originale: 449.99 EUR) 22.44 % sconto qui:
 
-[![Samsung WW70K5410UW Lavatrice 7 kg AddWa](https://m.media-amazon.com/images/I/41x1gNHjHSL._SL200_.jpg)](https://www.amazon.it/dp/B06ZZ6K76P/?tag=tolees00-21)
+[![Samsung WW70K5410UW Lavatrice 7 kg AddWa](https://m.media-amazon.com/images/I/41x1gNHjHSL._SL400_.jpg)](https://www.amazon.it/dp/B06ZZ6K76P/?tag=tolees00-21)
 
 ℹ️:
 

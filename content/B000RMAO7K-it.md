@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 50.00 % su Havaianas Brasil  Infradito Unisex – Adu  '
 date: 2020-07-18 09:55:36
-image: 'https://m.media-amazon.com/images/I/41D9Le7pkaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D9Le7pkaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.0'
 
 [Havaianas Brasil  Infradito Unisex – Adulto  Nero  Black 0090   Taglia Produttore 39/40](https://www.amazon.it/dp/B000RMAO7K/?tag=tolees00-21) ha un prezzo di 11.0 EUR (originale: 22.0 EUR) con uno sconto del 50.00 % sconto qui:
 
-[![Havaianas Brasil  Infradito Unisex – Adu](https://m.media-amazon.com/images/I/41D9Le7pkaL._SL200_.jpg)](https://www.amazon.it/dp/B000RMAO7K/?tag=tolees00-21)
+[![Havaianas Brasil  Infradito Unisex – Adu](https://m.media-amazon.com/images/I/41D9Le7pkaL._SL400_.jpg)](https://www.amazon.it/dp/B000RMAO7K/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 56.31 % su Calvin Klein underwear - RADIANT COTTON   '
 date: 2020-10-09 15:52:29
-image: 'https://m.media-amazon.com/images/I/51EW-cCQF1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EW-cCQF1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 [Calvin Klein underwear - RADIANT COTTON - BIKINI  Intimo da donna  bianco  white 100   XS](https://www.amazon.it/dp/B00W9RSX9M/?tag=tolees00-21) ha un prezzo di 6.99 EUR (originale: 16.0 EUR) con uno sconto del 56.31 % sconto qui:
 
-[![Calvin Klein underwear - RADIANT COTTON ](https://m.media-amazon.com/images/I/51EW-cCQF1L._SL200_.jpg)](https://www.amazon.it/dp/B00W9RSX9M/?tag=tolees00-21)
+[![Calvin Klein underwear - RADIANT COTTON ](https://m.media-amazon.com/images/I/51EW-cCQF1L._SL400_.jpg)](https://www.amazon.it/dp/B00W9RSX9M/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 55.06 % su Diadora - Sneakers B. Elite per Uomo e D  '
 date: 2020-07-24 06:40:45
-image: 'https://m.media-amazon.com/images/I/31agdcazYaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31agdcazYaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.95'
 
 [Diadora - Sneakers B. Elite per Uomo e Donna  EU 44.5 ](https://www.amazon.it/dp/B01CQUYQLK/?tag=tolees00-21) ha un prezzo di 35.95 EUR (originale: 80.0 EUR) con uno sconto del 55.06 % sconto qui:
 
-[![Diadora - Sneakers B. Elite per Uomo e D](https://m.media-amazon.com/images/I/31agdcazYaL._SL200_.jpg)](https://www.amazon.it/dp/B01CQUYQLK/?tag=tolees00-21)
+[![Diadora - Sneakers B. Elite per Uomo e D](https://m.media-amazon.com/images/I/31agdcazYaL._SL400_.jpg)](https://www.amazon.it/dp/B01CQUYQLK/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'HUAWEI Freebuds 3 Auricolare  Bluetooth  al 34.25 % di sconto'
 date: 2020-10-12 22:08:59
-image: 'https://m.media-amazon.com/images/I/319cPxI5VvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319cPxI5VvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.65764705882354'
 
 Puoi trovare [HUAWEI Freebuds 3 Auricolare  Bluetooth  Bianco](https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21) con il prezzo 117.7 EUR (originale: 179.0 EUR) 34.25 % sconto qui:
 
-[![HUAWEI Freebuds 3 Auricolare  Bluetooth ](https://m.media-amazon.com/images/I/319cPxI5VvL._SL200_.jpg)](https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21)
+[![HUAWEI Freebuds 3 Auricolare  Bluetooth ](https://m.media-amazon.com/images/I/319cPxI5VvL._SL400_.jpg)](https://www.amazon.it/dp/B07YXZT12X/?tag=tolees00-21)
 
 ℹ️:
 

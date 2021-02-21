@@ -2,7 +2,7 @@
 layout: post
 title: 'Maschere per il viso  confezione da 50 m al 36.11 % di sconto'
 date: 2020-08-20 12:17:19
-image: 'https://m.media-amazon.com/images/I/51aPRiJuDaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aPRiJuDaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Puoi trovare [Maschere per il viso  confezione da 50 maschere sigillate standard  per la salute  3 strati  blu](https://www.amazon.it/dp/B085XZ4DGH/?tag=tolees00-21) con il prezzo 6.99 EUR (originale: 10.94 EUR) 36.11 % sconto qui:
 
-[![Maschere per il viso  confezione da 50 m](https://m.media-amazon.com/images/I/51aPRiJuDaL._SL200_.jpg)](https://www.amazon.it/dp/B085XZ4DGH/?tag=tolees00-21)
+[![Maschere per il viso  confezione da 50 m](https://m.media-amazon.com/images/I/51aPRiJuDaL._SL400_.jpg)](https://www.amazon.it/dp/B085XZ4DGH/?tag=tolees00-21)
 
 ℹ️:
 

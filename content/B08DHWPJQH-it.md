@@ -2,7 +2,7 @@
 layout: post
 title: 'Huawei 55030701 Nano Memory Card  128 GB al 25.38 % di sconto'
 date: 2020-09-30 05:55:45
-image: 'https://m.media-amazon.com/images/I/31cpRzJAglL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cpRzJAglL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.5'
 
 Puoi trovare [Huawei 55030701 Nano Memory Card  128 GB Con Lettore Di Scheda](https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21) con il prezzo 48.5 EUR (originale: 65.0 EUR) 25.38 % sconto qui:
 
-[![Huawei 55030701 Nano Memory Card  128 GB](https://m.media-amazon.com/images/I/31cpRzJAglL._SL200_.jpg)](https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21)
+[![Huawei 55030701 Nano Memory Card  128 GB](https://m.media-amazon.com/images/I/31cpRzJAglL._SL400_.jpg)](https://www.amazon.it/dp/B08DHWPJQH/?tag=tolees00-21)
 
 ℹ️:
 

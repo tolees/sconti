@@ -2,7 +2,7 @@
 layout: post
 title: 'Pantene Pro-V Maschera Multi-Nutriente   al 33.39 % di sconto'
 date: 2020-08-15 08:48:24
-image: 'https://m.media-amazon.com/images/I/51-KZeW+fqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-KZeW+fqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Puoi trovare [Pantene Pro-V Maschera Multi-Nutriente  Protezione Cheratina  Per Capelli Deboli E Danneggiati - 300 Gr](https://www.amazon.it/dp/B0866K8YSG/?tag=tolees00-21) con il prezzo 3.99 EUR (originale: 5.99 EUR) 33.39 % sconto qui:
 
-[![Pantene Pro-V Maschera Multi-Nutriente  ](https://m.media-amazon.com/images/I/51-KZeW+fqL._SL200_.jpg)](https://www.amazon.it/dp/B0866K8YSG/?tag=tolees00-21)
+[![Pantene Pro-V Maschera Multi-Nutriente  ](https://m.media-amazon.com/images/I/51-KZeW+fqL._SL400_.jpg)](https://www.amazon.it/dp/B0866K8YSG/?tag=tolees00-21)
 
 ℹ️:
 

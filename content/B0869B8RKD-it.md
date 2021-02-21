@@ -2,7 +2,7 @@
 layout: post
 title: 'HUAWEI P40 Pro con Bluetooth Speaker  Ac al 16.28 % di sconto'
 date: 2020-10-01 15:34:56
-image: 'https://m.media-amazon.com/images/I/41n7ghr+tEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41n7ghr+tEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '879.0'
 
 Puoi trovare [HUAWEI P40 Pro con Bluetooth Speaker  Acoustic Display da 6.58”  Quattro Fotocamere Leica da 50 + 40 + 12 MP e Sensore TOF  Kirin 990 5G Octa Core  Argento  Versione Italiana](https://www.amazon.it/dp/B0869B8RKD/?tag=tolees00-21) con il prezzo 879.0 EUR (originale: 1049.9 EUR) 16.28 % sconto qui:
 
-[![HUAWEI P40 Pro con Bluetooth Speaker  Ac](https://m.media-amazon.com/images/I/41n7ghr+tEL._SL200_.jpg)](https://www.amazon.it/dp/B0869B8RKD/?tag=tolees00-21)
+[![HUAWEI P40 Pro con Bluetooth Speaker  Ac](https://m.media-amazon.com/images/I/41n7ghr+tEL._SL400_.jpg)](https://www.amazon.it/dp/B0869B8RKD/?tag=tolees00-21)
 
 ℹ️:
 

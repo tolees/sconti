@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.01 % su 4 X Spray deodorante Piedi - 150 ml  '
 date: 2020-09-29 06:17:03
-image: 'https://m.media-amazon.com/images/I/51hCYndFFkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hCYndFFkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 [4 X Spray deodorante Piedi - 150 ml](https://www.amazon.it/dp/B08HQYJ7LM/?tag=tolees00-21) ha un prezzo di 15.99 EUR (originale: 19.99 EUR) con uno sconto del 20.01 % sconto qui:
 
-[![4 X Spray deodorante Piedi - 150 ml](https://m.media-amazon.com/images/I/51hCYndFFkL._SL200_.jpg)](https://www.amazon.it/dp/B08HQYJ7LM/?tag=tolees00-21)
+[![4 X Spray deodorante Piedi - 150 ml](https://m.media-amazon.com/images/I/51hCYndFFkL._SL400_.jpg)](https://www.amazon.it/dp/B08HQYJ7LM/?tag=tolees00-21)
 
 ℹ️:
 

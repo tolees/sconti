@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein K50k505179 Cintura  Blu  Na al 59.20 % di sconto'
 date: 2020-09-28 16:55:07
-image: 'https://m.media-amazon.com/images/I/41-KDIRanmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-KDIRanmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.28'
 
 Puoi trovare [Calvin Klein K50k505179 Cintura  Blu  Navy/Black 0Gy   Unica  Taglia Produttore: 90  Uomo](https://www.amazon.it/dp/B07RJ6S4XH/?tag=tolees00-21) con il prezzo 16.28 EUR (originale: 39.9 EUR) 59.20 % sconto qui:
 
-[![Calvin Klein K50k505179 Cintura  Blu  Na](https://m.media-amazon.com/images/I/41-KDIRanmL._SL200_.jpg)](https://www.amazon.it/dp/B07RJ6S4XH/?tag=tolees00-21)
+[![Calvin Klein K50k505179 Cintura  Blu  Na](https://m.media-amazon.com/images/I/41-KDIRanmL._SL400_.jpg)](https://www.amazon.it/dp/B07RJ6S4XH/?tag=tolees00-21)
 
 ℹ️:
 

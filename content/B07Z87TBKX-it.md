@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 44.14 % su Joker  '
 date: 2020-09-21 15:34:17
-image: 'https://m.media-amazon.com/images/I/51K+z1fn-7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51K+z1fn-7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.49'
 
 [Joker](https://www.amazon.it/dp/B07Z87TBKX/?tag=tolees00-21) ha un prezzo di 9.49 EUR (originale: 16.99 EUR) con uno sconto del 44.14 % sconto qui:
 
-[![Joker](https://m.media-amazon.com/images/I/51K+z1fn-7L._SL200_.jpg)](https://www.amazon.it/dp/B07Z87TBKX/?tag=tolees00-21)
+[![Joker](https://m.media-amazon.com/images/I/51K+z1fn-7L._SL400_.jpg)](https://www.amazon.it/dp/B07Z87TBKX/?tag=tolees00-21)
 
 ℹ️:
 

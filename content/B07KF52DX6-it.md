@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s T-Shirt  Multicolore  2 Pack Tee  al 37.43 % di sconto'
 date: 2020-08-26 09:33:06
-image: 'https://m.media-amazon.com/images/I/31sIAc60nVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sIAc60nVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.73'
 
 Puoi trovare [Levi s T-Shirt  Multicolore  2 Pack Tee White +/Mineral Black 0000   Large Donna](https://www.amazon.it/dp/B07KF52DX6/?tag=tolees00-21) con il prezzo 21.9 EUR (originale: 35.0 EUR) 37.43 % sconto qui:
 
-[![Levi s T-Shirt  Multicolore  2 Pack Tee ](https://m.media-amazon.com/images/I/31sIAc60nVL._SL200_.jpg)](https://www.amazon.it/dp/B07KF52DX6/?tag=tolees00-21)
+[![Levi s T-Shirt  Multicolore  2 Pack Tee ](https://m.media-amazon.com/images/I/31sIAc60nVL._SL400_.jpg)](https://www.amazon.it/dp/B07KF52DX6/?tag=tolees00-21)
 
 ℹ️:
 

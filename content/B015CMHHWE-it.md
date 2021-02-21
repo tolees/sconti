@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 49.21 % su Rimmel London Match Perfection Foundatio  '
 date: 2020-07-24 17:27:58
-image: 'https://m.media-amazon.com/images/I/31Ei+b8q32L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Ei+b8q32L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.8'
 
 [Rimmel London Match Perfection Foundation  Fondotinta Liquido Pelle Ottima e Levigata a Lunga Tenuta  con SPF 20  200 Soft Beige  30 ml](https://www.amazon.it/dp/B015CMHHWE/?tag=tolees00-21) ha un prezzo di 5.8 EUR (originale: 11.42 EUR) con uno sconto del 49.21 % sconto qui:
 
-[![Rimmel London Match Perfection Foundatio](https://m.media-amazon.com/images/I/31Ei+b8q32L._SL200_.jpg)](https://www.amazon.it/dp/B015CMHHWE/?tag=tolees00-21)
+[![Rimmel London Match Perfection Foundatio](https://m.media-amazon.com/images/I/31Ei+b8q32L._SL400_.jpg)](https://www.amazon.it/dp/B015CMHHWE/?tag=tolees00-21)
 
 ℹ️:
 

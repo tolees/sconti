@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 29.32 % su 2 batterie per controller Xbox One/Xbox   '
 date: 2020-09-16 21:04:15
-image: 'https://m.media-amazon.com/images/I/41-IW35qCcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-IW35qCcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.91'
 
 [2 batterie per controller Xbox One/Xbox One S/Xbox One X 1200 mAh ricaricabili con cavo di ricarica.](https://www.amazon.it/dp/B07V7DXSPY/?tag=tolees00-21) ha un prezzo di 25.91 EUR (originale: 36.66 EUR) con uno sconto del 29.32 % sconto qui:
 
-[![2 batterie per controller Xbox One/Xbox ](https://m.media-amazon.com/images/I/41-IW35qCcL._SL200_.jpg)](https://www.amazon.it/dp/B07V7DXSPY/?tag=tolees00-21)
+[![2 batterie per controller Xbox One/Xbox ](https://m.media-amazon.com/images/I/41-IW35qCcL._SL400_.jpg)](https://www.amazon.it/dp/B07V7DXSPY/?tag=tolees00-21)
 
 ℹ️:
 

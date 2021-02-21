@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Tanjun Mn  Scarpe Sportive Uomo  Bl al 40.92 % di sconto'
 date: 2020-08-25 10:20:58
-image: 'https://m.media-amazon.com/images/I/41DefMB32FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DefMB32FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.99'
 
 Puoi trovare [Nike Tanjun Mn  Scarpe Sportive Uomo  Blu  Midnight Navy/White-Game Royal   44 EU](https://www.amazon.it/dp/B00XWPZ2XA/?tag=tolees00-21) con il prezzo 38.99 EUR (originale: 66.0 EUR) 40.92 % sconto qui:
 
-[![Nike Tanjun Mn  Scarpe Sportive Uomo  Bl](https://m.media-amazon.com/images/I/41DefMB32FL._SL200_.jpg)](https://www.amazon.it/dp/B00XWPZ2XA/?tag=tolees00-21)
+[![Nike Tanjun Mn  Scarpe Sportive Uomo  Bl](https://m.media-amazon.com/images/I/41DefMB32FL._SL400_.jpg)](https://www.amazon.it/dp/B00XWPZ2XA/?tag=tolees00-21)
 
 ℹ️:
 

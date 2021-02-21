@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 48.84 % su STARBUCKS HOUSE BLEND Caffè macinato dal  '
 date: 2020-09-18 13:28:26
-image: 'https://m.media-amazon.com/images/I/51xfFwPkBOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xfFwPkBOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.94'
 
 [STARBUCKS HOUSE BLEND Caffè macinato dalla tostatura media 6 sacchetti da 200g](https://www.amazon.it/dp/B07X63LCXL/?tag=tolees00-21) ha un prezzo di 11.94 EUR (originale: 23.34 EUR) con uno sconto del 48.84 % sconto qui:
 
-[![STARBUCKS HOUSE BLEND Caffè macinato dal](https://m.media-amazon.com/images/I/51xfFwPkBOL._SL200_.jpg)](https://www.amazon.it/dp/B07X63LCXL/?tag=tolees00-21)
+[![STARBUCKS HOUSE BLEND Caffè macinato dal](https://m.media-amazon.com/images/I/51xfFwPkBOL._SL400_.jpg)](https://www.amazon.it/dp/B07X63LCXL/?tag=tolees00-21)
 
 ℹ️:
 

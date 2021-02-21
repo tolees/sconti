@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour UA Tech 2.0 Short Sleeve Te al 50.02 % di sconto'
 date: 2020-07-23 06:36:18
-image: 'https://m.media-amazon.com/images/I/41spBHcdTdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41spBHcdTdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Puoi trovare [Under Armour UA Tech 2.0 Short Sleeve Tee  Maglietta Uomo  Rosso  Red/Graphite 600   S](https://www.amazon.it/dp/B077XQ3L6G/?tag=tolees00-21) con il prezzo 13.99 EUR (originale: 27.99 EUR) 50.02 % sconto qui:
 
-[![Under Armour UA Tech 2.0 Short Sleeve Te](https://m.media-amazon.com/images/I/41spBHcdTdL._SL200_.jpg)](https://www.amazon.it/dp/B077XQ3L6G/?tag=tolees00-21)
+[![Under Armour UA Tech 2.0 Short Sleeve Te](https://m.media-amazon.com/images/I/41spBHcdTdL._SL400_.jpg)](https://www.amazon.it/dp/B077XQ3L6G/?tag=tolees00-21)
 
 ℹ️:
 

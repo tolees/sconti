@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 52.27 % su Assortimento Kraftform Kompakt Micro ESD  '
 date: 2020-10-04 18:16:14
-image: 'https://m.media-amazon.com/images/I/416qatJADaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416qatJADaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '116.18'
 
 [Assortimento Kraftform Kompakt Micro ESD/20 SB  20 pezzi](https://www.amazon.it/dp/B00E8HM3JW/?tag=tolees00-21) ha un prezzo di 116.18 EUR (originale: 243.42 EUR) con uno sconto del 52.27 % sconto qui:
 
-[![Assortimento Kraftform Kompakt Micro ESD](https://m.media-amazon.com/images/I/416qatJADaL._SL200_.jpg)](https://www.amazon.it/dp/B00E8HM3JW/?tag=tolees00-21)
+[![Assortimento Kraftform Kompakt Micro ESD](https://m.media-amazon.com/images/I/416qatJADaL._SL400_.jpg)](https://www.amazon.it/dp/B00E8HM3JW/?tag=tolees00-21)
 
 ℹ️:
 

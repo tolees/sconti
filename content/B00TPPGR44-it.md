@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste Sport SH7613  Felpa Uomo  Nero   al 41.24 % di sconto'
 date: 2020-07-25 11:00:59
-image: 'https://m.media-amazon.com/images/I/31jFmpJrocL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jFmpJrocL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.95'
 
 Puoi trovare [Lacoste Sport SH7613  Felpa Uomo  Nero  Large  Taglia Produttore: 5 ](https://www.amazon.it/dp/B00TPPGR44/?tag=tolees00-21) con il prezzo 49.95 EUR (originale: 85.0 EUR) 41.24 % sconto qui:
 
-[![Lacoste Sport SH7613  Felpa Uomo  Nero  ](https://m.media-amazon.com/images/I/31jFmpJrocL._SL200_.jpg)](https://www.amazon.it/dp/B00TPPGR44/?tag=tolees00-21)
+[![Lacoste Sport SH7613  Felpa Uomo  Nero  ](https://m.media-amazon.com/images/I/31jFmpJrocL._SL400_.jpg)](https://www.amazon.it/dp/B00TPPGR44/?tag=tolees00-21)
 
 ℹ️:
 

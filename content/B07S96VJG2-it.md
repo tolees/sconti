@@ -2,7 +2,7 @@
 layout: post
 title: 'Control Chocolate  24 Profilattici al Ci al 45.96 % di sconto'
 date: 2020-07-23 08:40:19
-image: 'https://m.media-amazon.com/images/I/417cZuX757L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417cZuX757L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.78'
 
 Puoi trovare [Control Chocolate  24 Profilattici al Cioccolato  Standard](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21) con il prezzo 11.78 EUR (originale: 21.8 EUR) 45.96 % sconto qui:
 
-[![Control Chocolate  24 Profilattici al Ci](https://m.media-amazon.com/images/I/417cZuX757L._SL200_.jpg)](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21)
+[![Control Chocolate  24 Profilattici al Ci](https://m.media-amazon.com/images/I/417cZuX757L._SL400_.jpg)](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21)
 
 ℹ️:
 

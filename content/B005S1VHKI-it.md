@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 51.06 % su Aeg FDS 140 Levigatrice Orbitale  '
 date: 2020-10-11 06:34:43
-image: 'https://m.media-amazon.com/images/I/41cUHK0d9gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cUHK0d9gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.0'
 
 [Aeg FDS 140 Levigatrice Orbitale](https://www.amazon.it/dp/B005S1VHKI/?tag=tolees00-21) ha un prezzo di 69.0 EUR (originale: 140.99 EUR) con uno sconto del 51.06 % sconto qui:
 
-[![Aeg FDS 140 Levigatrice Orbitale](https://m.media-amazon.com/images/I/41cUHK0d9gL._SL200_.jpg)](https://www.amazon.it/dp/B005S1VHKI/?tag=tolees00-21)
+[![Aeg FDS 140 Levigatrice Orbitale](https://m.media-amazon.com/images/I/41cUHK0d9gL._SL400_.jpg)](https://www.amazon.it/dp/B005S1VHKI/?tag=tolees00-21)
 
 ℹ️:
 

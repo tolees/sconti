@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 39.74 % su Orologio da uomo Tommy Hilfiger 1791309.  '
 date: 2020-08-28 06:23:19
-image: 'https://m.media-amazon.com/images/I/514dnslHq-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514dnslHq-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '113.9'
 
 [Orologio da uomo Tommy Hilfiger 1791309.](https://www.amazon.it/dp/B01JLI7MFM/?tag=tolees00-21) ha un prezzo di 113.9 EUR (originale: 189.0 EUR) con uno sconto del 39.74 % sconto qui:
 
-[![Orologio da uomo Tommy Hilfiger 1791309.](https://m.media-amazon.com/images/I/514dnslHq-L._SL200_.jpg)](https://www.amazon.it/dp/B01JLI7MFM/?tag=tolees00-21)
+[![Orologio da uomo Tommy Hilfiger 1791309.](https://m.media-amazon.com/images/I/514dnslHq-L._SL400_.jpg)](https://www.amazon.it/dp/B01JLI7MFM/?tag=tolees00-21)
 
 ℹ️:
 

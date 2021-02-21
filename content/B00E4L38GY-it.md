@@ -2,7 +2,7 @@
 layout: post
 title: 'Autan Tropical Vapo  Insetto Repellente  al 27.37 % di sconto'
 date: 2020-08-25 06:20:51
-image: 'https://m.media-amazon.com/images/I/41eH+YOthAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eH+YOthAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.5'
 
 Puoi trovare [Autan Tropical Vapo  Insetto Repellente e Antizanzare Comuni e Tropicali  1 Confezione da 100 ml  Protezione Lunga Durata](https://www.amazon.it/dp/B00E4L38GY/?tag=tolees00-21) con il prezzo 6.5 EUR (originale: 8.95 EUR) 27.37 % sconto qui:
 
-[![Autan Tropical Vapo  Insetto Repellente ](https://m.media-amazon.com/images/I/41eH+YOthAL._SL200_.jpg)](https://www.amazon.it/dp/B00E4L38GY/?tag=tolees00-21)
+[![Autan Tropical Vapo  Insetto Repellente ](https://m.media-amazon.com/images/I/41eH+YOthAL._SL400_.jpg)](https://www.amazon.it/dp/B00E4L38GY/?tag=tolees00-21)
 
 ℹ️:
 

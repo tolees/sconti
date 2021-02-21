@@ -2,7 +2,7 @@
 layout: post
 title: 'Inkbird IBT-2X Bluetooth Termometro Digi al 26.84 % di sconto'
 date: 2020-08-05 08:05:57
-image: 'https://m.media-amazon.com/images/I/41GipwYfB4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GipwYfB4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Puoi trovare [Inkbird IBT-2X Bluetooth Termometro Digitale Barbecue Termometro e Timer con Sonda di Temperatura per Carne Grigliate BBQ Fumatore Forno di Cottura 2 sensori](https://www.amazon.it/dp/B06WGMDSBL/?tag=tolees00-21) con il prezzo 29.99 EUR (originale: 40.99 EUR) 26.84 % sconto qui:
 
-[![Inkbird IBT-2X Bluetooth Termometro Digi](https://m.media-amazon.com/images/I/41GipwYfB4L._SL200_.jpg)](https://www.amazon.it/dp/B06WGMDSBL/?tag=tolees00-21)
+[![Inkbird IBT-2X Bluetooth Termometro Digi](https://m.media-amazon.com/images/I/41GipwYfB4L._SL400_.jpg)](https://www.amazon.it/dp/B06WGMDSBL/?tag=tolees00-21)
 
 ℹ️:
 

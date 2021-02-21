@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 41.13 % su Hurley M Phtm Vagabond Elite  Cappelli U  '
 date: 2020-08-31 09:12:07
-image: 'https://m.media-amazon.com/images/I/31fdXz--EaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fdXz--EaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.49'
 
 [Hurley M Phtm Vagabond Elite  Cappelli Uomo  Dk Smoke Grey  L/XL](https://www.amazon.it/dp/B07ZPRX3KX/?tag=tolees00-21) ha un prezzo di 26.49 EUR (originale: 45.0 EUR) con uno sconto del 41.13 % sconto qui:
 
-[![Hurley M Phtm Vagabond Elite  Cappelli U](https://m.media-amazon.com/images/I/31fdXz--EaL._SL200_.jpg)](https://www.amazon.it/dp/B07ZPRX3KX/?tag=tolees00-21)
+[![Hurley M Phtm Vagabond Elite  Cappelli U](https://m.media-amazon.com/images/I/31fdXz--EaL._SL400_.jpg)](https://www.amazon.it/dp/B07ZPRX3KX/?tag=tolees00-21)
 
 ℹ️:
 

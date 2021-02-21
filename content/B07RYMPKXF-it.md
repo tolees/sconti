@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 40.04 % su Levi s Housemark Graphic Tee T-Shirt  Bi  '
 date: 2020-07-30 07:36:19
-image: 'https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 [Levi s Housemark Graphic Tee T-Shirt  Bianco  Ssnl HM Camo White 0249   XX-Large Uomo](https://www.amazon.it/dp/B07RYMPKXF/?tag=tolees00-21) ha un prezzo di 14.99 EUR (originale: 25.0 EUR) con uno sconto del 40.04 % sconto qui:
 
-[![Levi s Housemark Graphic Tee T-Shirt  Bi](https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL200_.jpg)](https://www.amazon.it/dp/B07RYMPKXF/?tag=tolees00-21)
+[![Levi s Housemark Graphic Tee T-Shirt  Bi](https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL400_.jpg)](https://www.amazon.it/dp/B07RYMPKXF/?tag=tolees00-21)
 
 ℹ️:
 

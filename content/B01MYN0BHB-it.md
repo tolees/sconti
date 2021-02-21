@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsonite Success Portamonete  100% Pell al 33.76 % di sconto'
 date: 2020-09-24 08:10:34
-image: 'https://m.media-amazon.com/images/I/51KIsu9SdVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KIsu9SdVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.21'
 
 Puoi trovare [Samsonite Success Portamonete  100% Pelle  10 cm  Nero](https://www.amazon.it/dp/B01MYN0BHB/?tag=tolees00-21) con il prezzo 19.21 EUR (originale: 29.0 EUR) 33.76 % sconto qui:
 
-[![Samsonite Success Portamonete  100% Pell](https://m.media-amazon.com/images/I/51KIsu9SdVL._SL200_.jpg)](https://www.amazon.it/dp/B01MYN0BHB/?tag=tolees00-21)
+[![Samsonite Success Portamonete  100% Pell](https://m.media-amazon.com/images/I/51KIsu9SdVL._SL400_.jpg)](https://www.amazon.it/dp/B01MYN0BHB/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Paco Rabanne Profumo - 100 Ml al 25.30 % di sconto'
 date: 2020-09-08 13:14:28
-image: 'https://m.media-amazon.com/images/I/417-DBq74EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417-DBq74EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.09'
 
 Puoi trovare [Paco Rabanne Profumo - 100 Ml](https://www.amazon.it/dp/B07BYWJW62/?tag=tolees00-21) con il prezzo 37.09 EUR (originale: 49.65 EUR) 25.30 % sconto qui:
 
-[![Paco Rabanne Profumo - 100 Ml](https://m.media-amazon.com/images/I/417-DBq74EL._SL200_.jpg)](https://www.amazon.it/dp/B07BYWJW62/?tag=tolees00-21)
+[![Paco Rabanne Profumo - 100 Ml](https://m.media-amazon.com/images/I/417-DBq74EL._SL400_.jpg)](https://www.amazon.it/dp/B07BYWJW62/?tag=tolees00-21)
 
 ℹ️:
 

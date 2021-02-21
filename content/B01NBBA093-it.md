@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 15.61 % su Netgear GS305P Switch Ethernet PoE 5 por  '
 date: 2020-07-31 04:56:45
-image: 'https://m.media-amazon.com/images/I/31YYmMCxjGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YYmMCxjGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.99'
 
 [Netgear GS305P Switch Ethernet PoE 5 porte Gigabit  4 porte PoE e budget energetico pari a 55W  switch unmanaged desktop  struttura in metallo senza ventole](https://www.amazon.it/dp/B01NBBA093/?tag=tolees00-21) ha un prezzo di 58.99 EUR (originale: 69.9 EUR) con uno sconto del 15.61 % sconto qui:
 
-[![Netgear GS305P Switch Ethernet PoE 5 por](https://m.media-amazon.com/images/I/31YYmMCxjGL._SL200_.jpg)](https://www.amazon.it/dp/B01NBBA093/?tag=tolees00-21)
+[![Netgear GS305P Switch Ethernet PoE 5 por](https://m.media-amazon.com/images/I/31YYmMCxjGL._SL400_.jpg)](https://www.amazon.it/dp/B01NBBA093/?tag=tolees00-21)
 
 ℹ️:
 

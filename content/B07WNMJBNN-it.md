@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 15.01 % su Weelth Tappetino per Mouse  800x400mm So  '
 date: 2020-09-24 08:40:17
-image: 'https://m.media-amazon.com/images/I/51OwxhQF6QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OwxhQF6QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.89'
 
 [Weelth Tappetino per Mouse  800x400mm Sottomano da Ufficio  Mouse Pad in Similpelle  Impermeabile  Doppia Facciata](https://www.amazon.it/dp/B07WNMJBNN/?tag=tolees00-21) ha un prezzo di 11.89 EUR (originale: 13.99 EUR) con uno sconto del 15.01 % sconto qui:
 
-[![Weelth Tappetino per Mouse  800x400mm So](https://m.media-amazon.com/images/I/51OwxhQF6QL._SL200_.jpg)](https://www.amazon.it/dp/B07WNMJBNN/?tag=tolees00-21)
+[![Weelth Tappetino per Mouse  800x400mm So](https://m.media-amazon.com/images/I/51OwxhQF6QL._SL400_.jpg)](https://www.amazon.it/dp/B07WNMJBNN/?tag=tolees00-21)
 
 ℹ️:
 

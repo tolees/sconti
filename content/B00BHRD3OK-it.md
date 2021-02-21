@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 43.94 % su Hermes Jour d Hermes Eau de Parfum  Donn  '
 date: 2020-08-10 16:20:50
-image: 'https://m.media-amazon.com/images/I/41snAAUUAWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41snAAUUAWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.29'
 
 [Hermes Jour d Hermes Eau de Parfum  Donna  50 ml](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21) ha un prezzo di 39.29 EUR (originale: 70.09 EUR) con uno sconto del 43.94 % sconto qui:
 
-[![Hermes Jour d Hermes Eau de Parfum  Donn](https://m.media-amazon.com/images/I/41snAAUUAWL._SL200_.jpg)](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21)
+[![Hermes Jour d Hermes Eau de Parfum  Donn](https://m.media-amazon.com/images/I/41snAAUUAWL._SL400_.jpg)](https://www.amazon.it/dp/B00BHRD3OK/?tag=tolees00-21)
 
 ℹ️:
 

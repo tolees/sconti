@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 27.28 % su Samsung MS23K3513AK Forno Microonde Gril  '
 date: 2020-07-31 14:46:52
-image: 'https://m.media-amazon.com/images/I/31TfpG+C3uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TfpG+C3uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.99'
 
 [Samsung MS23K3513AK Forno Microonde Grill Combinato  23 Litri  800 W  Grill 1100 W  Nero](https://www.amazon.it/dp/B07QJQCHRJ/?tag=tolees00-21) ha un prezzo di 79.99 EUR (originale: 109.99 EUR) con uno sconto del 27.28 % sconto qui:
 
-[![Samsung MS23K3513AK Forno Microonde Gril](https://m.media-amazon.com/images/I/31TfpG+C3uL._SL200_.jpg)](https://www.amazon.it/dp/B07QJQCHRJ/?tag=tolees00-21)
+[![Samsung MS23K3513AK Forno Microonde Gril](https://m.media-amazon.com/images/I/31TfpG+C3uL._SL400_.jpg)](https://www.amazon.it/dp/B07QJQCHRJ/?tag=tolees00-21)
 
 ℹ️:
 

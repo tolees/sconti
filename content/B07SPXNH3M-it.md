@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 32.43 % su Lacoste Chaymon 120 1 CMA  Sneaker Uomo   '
 date: 2020-08-31 10:41:18
-image: 'https://m.media-amazon.com/images/I/31C1vYnUsoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31C1vYnUsoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.95'
 
 [Lacoste Chaymon 120 1 CMA  Sneaker Uomo  Bianco  Wht/Grn 082   45 EU](https://www.amazon.it/dp/B07SPXNH3M/?tag=tolees00-21) ha un prezzo di 70.95 EUR (originale: 105.0 EUR) con uno sconto del 32.43 % sconto qui:
 
-[![Lacoste Chaymon 120 1 CMA  Sneaker Uomo ](https://m.media-amazon.com/images/I/31C1vYnUsoL._SL200_.jpg)](https://www.amazon.it/dp/B07SPXNH3M/?tag=tolees00-21)
+[![Lacoste Chaymon 120 1 CMA  Sneaker Uomo ](https://m.media-amazon.com/images/I/31C1vYnUsoL._SL400_.jpg)](https://www.amazon.it/dp/B07SPXNH3M/?tag=tolees00-21)
 
 ℹ️:
 

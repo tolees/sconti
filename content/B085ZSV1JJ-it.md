@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.01 % su Retevis RT628B Walkie Talkie Bambini  Ri  '
 date: 2020-10-01 05:47:11
-image: 'https://m.media-amazon.com/images/I/41wVy1bNfdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wVy1bNfdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.59'
 
 [Retevis RT628B Walkie Talkie Bambini  Ricetrasmittenti Bambini  PMR446 3 Canali Volume Regolabile Blocco Tasti  Giocattolo Regalo per Ragazzi Ragazze Campeggio  Escursionismo  Giardino Rosso  1 Paio ](https://www.amazon.it/dp/B085ZSV1JJ/?tag=tolees00-21) ha un prezzo di 17.59 EUR (originale: 21.99 EUR) con uno sconto del 20.01 % sconto qui:
 
-[![Retevis RT628B Walkie Talkie Bambini  Ri](https://m.media-amazon.com/images/I/41wVy1bNfdL._SL200_.jpg)](https://www.amazon.it/dp/B085ZSV1JJ/?tag=tolees00-21)
+[![Retevis RT628B Walkie Talkie Bambini  Ri](https://m.media-amazon.com/images/I/41wVy1bNfdL._SL400_.jpg)](https://www.amazon.it/dp/B085ZSV1JJ/?tag=tolees00-21)
 
 ℹ️:
 

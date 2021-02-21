@@ -2,7 +2,7 @@
 layout: post
 title: 'Just Dance 2020 - PlayStation 4 al 50.85 % di sconto'
 date: 2020-08-26 13:20:25
-image: 'https://m.media-amazon.com/images/I/51KL9mt7sdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KL9mt7sdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.98'
 
 Puoi trovare [Just Dance 2020 - PlayStation 4](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21) con il prezzo 24.98 EUR (originale: 50.82 EUR) 50.85 % sconto qui:
 
-[![Just Dance 2020 - PlayStation 4](https://m.media-amazon.com/images/I/51KL9mt7sdL._SL200_.jpg)](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21)
+[![Just Dance 2020 - PlayStation 4](https://m.media-amazon.com/images/I/51KL9mt7sdL._SL400_.jpg)](https://www.amazon.it/dp/B07V8VVRLK/?tag=tolees00-21)
 
 ℹ️:
 

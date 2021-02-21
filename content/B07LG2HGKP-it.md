@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox B New Balu  Boy C  Scarpe da Ginnas al 20.94 % di sconto'
 date: 2020-09-26 09:45:32
-image: 'https://m.media-amazon.com/images/I/419w3bUEqeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419w3bUEqeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.45'
 
 Puoi trovare [Geox B New Balu  Boy C  Scarpe da Ginnastica Basse Bimbo  Beige  Biscuit C5046   24 EU](https://www.amazon.it/dp/B07LG2HGKP/?tag=tolees00-21) con il prezzo 39.45 EUR (originale: 49.9 EUR) 20.94 % sconto qui:
 
-[![Geox B New Balu  Boy C  Scarpe da Ginnas](https://m.media-amazon.com/images/I/419w3bUEqeL._SL200_.jpg)](https://www.amazon.it/dp/B07LG2HGKP/?tag=tolees00-21)
+[![Geox B New Balu  Boy C  Scarpe da Ginnas](https://m.media-amazon.com/images/I/419w3bUEqeL._SL400_.jpg)](https://www.amazon.it/dp/B07LG2HGKP/?tag=tolees00-21)
 
 ℹ️:
 

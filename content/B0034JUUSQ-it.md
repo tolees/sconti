@@ -2,7 +2,7 @@
 layout: post
 title: 'Pavesi Pavesini Classici  Biscotto Legge al 61.25 % di sconto'
 date: 2020-09-10 17:21:49
-image: 'https://m.media-amazon.com/images/I/41v9PoJnxxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v9PoJnxxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.05'
 
 Puoi trovare [Pavesi Pavesini Classici  Biscotto Leggero per Colazione o Gustoso Break  Confezione da 200 g](https://www.amazon.it/dp/B0034JUUSQ/?tag=tolees00-21) con il prezzo 1.05 EUR (originale: 2.71 EUR) 61.25 % sconto qui:
 
-[![Pavesi Pavesini Classici  Biscotto Legge](https://m.media-amazon.com/images/I/41v9PoJnxxL._SL200_.jpg)](https://www.amazon.it/dp/B0034JUUSQ/?tag=tolees00-21)
+[![Pavesi Pavesini Classici  Biscotto Legge](https://m.media-amazon.com/images/I/41v9PoJnxxL._SL400_.jpg)](https://www.amazon.it/dp/B0034JUUSQ/?tag=tolees00-21)
 
 ℹ️:
 

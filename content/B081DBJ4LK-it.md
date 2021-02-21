@@ -2,7 +2,7 @@
 layout: post
 title: 'Guess Open Road Luxury Satchel  Handbag  al 15.58 % di sconto'
 date: 2020-10-05 08:37:40
-image: 'https://m.media-amazon.com/images/I/416Al-CGfuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416Al-CGfuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.0'
 
 Puoi trovare [Guess Open Road Luxury Satchel  Handbag Donna  Nero  Uni](https://www.amazon.it/dp/B081DBJ4LK/?tag=tolees00-21) con il prezzo 51.0 EUR (originale: 60.41 EUR) 15.58 % sconto qui:
 
-[![Guess Open Road Luxury Satchel  Handbag ](https://m.media-amazon.com/images/I/416Al-CGfuL._SL200_.jpg)](https://www.amazon.it/dp/B081DBJ4LK/?tag=tolees00-21)
+[![Guess Open Road Luxury Satchel  Handbag ](https://m.media-amazon.com/images/I/416Al-CGfuL._SL400_.jpg)](https://www.amazon.it/dp/B081DBJ4LK/?tag=tolees00-21)
 
 ℹ️:
 

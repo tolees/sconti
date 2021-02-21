@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 55.03 % su Cover Xiaomi Mi Note 10 Lite 360 Gradi F  '
 date: 2020-08-18 16:19:39
-image: 'https://m.media-amazon.com/images/I/51mzNkXv6wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mzNkXv6wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 [Cover Xiaomi Mi Note 10 Lite 360 Gradi Full Body Antiurto Protezione Caso [Trasparente Silicone TPU Anteriore e Rigida Plastica Back ] 2 in 1 Dual Layer Caso Cover per Xiaomi Mi Note 10 Lite](https://www.amazon.it/dp/B08D37JTSH/?tag=tolees00-21) ha un prezzo di 8.99 EUR (originale: 19.99 EUR) con uno sconto del 55.03 % sconto qui:
 
-[![Cover Xiaomi Mi Note 10 Lite 360 Gradi F](https://m.media-amazon.com/images/I/51mzNkXv6wL._SL200_.jpg)](https://www.amazon.it/dp/B08D37JTSH/?tag=tolees00-21)
+[![Cover Xiaomi Mi Note 10 Lite 360 Gradi F](https://m.media-amazon.com/images/I/51mzNkXv6wL._SL400_.jpg)](https://www.amazon.it/dp/B08D37JTSH/?tag=tolees00-21)
 
 ℹ️:
 

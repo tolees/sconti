@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 19.45 % su Fairy Platinum Detersivo in Caps per Lav  '
 date: 2020-09-07 05:01:19
-image: 'https://m.media-amazon.com/images/I/417v1zLtDoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417v1zLtDoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.99'
 
 [Fairy Platinum Detersivo in Caps per Lavastoviglie  Maxi Formato da 160 Pastiglie  Regolare](https://www.amazon.it/dp/B06XS1FCVR/?tag=tolees00-21) ha un prezzo di 28.99 EUR (originale: 35.99 EUR) con uno sconto del 19.45 % sconto qui:
 
-[![Fairy Platinum Detersivo in Caps per Lav](https://m.media-amazon.com/images/I/417v1zLtDoL._SL200_.jpg)](https://www.amazon.it/dp/B06XS1FCVR/?tag=tolees00-21)
+[![Fairy Platinum Detersivo in Caps per Lav](https://m.media-amazon.com/images/I/417v1zLtDoL._SL400_.jpg)](https://www.amazon.it/dp/B06XS1FCVR/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'HyperX HX-MICQC-BK Quadcast  Microfono S al 24.15 % di sconto'
 date: 2020-09-29 16:33:58
-image: 'https://m.media-amazon.com/images/I/41YprQvAt9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YprQvAt9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.445'
 
 Puoi trovare [HyperX HX-MICQC-BK Quadcast  Microfono Standalone per Streamer e Podcaster](https://www.amazon.it/dp/B07NZZZ746/?tag=tolees00-21) con il prezzo 106.18 EUR (originale: 139.99 EUR) 24.15 % sconto qui:
 
-[![HyperX HX-MICQC-BK Quadcast  Microfono S](https://m.media-amazon.com/images/I/41YprQvAt9L._SL200_.jpg)](https://www.amazon.it/dp/B07NZZZ746/?tag=tolees00-21)
+[![HyperX HX-MICQC-BK Quadcast  Microfono S](https://m.media-amazon.com/images/I/41YprQvAt9L._SL400_.jpg)](https://www.amazon.it/dp/B07NZZZ746/?tag=tolees00-21)
 
 ℹ️:
 

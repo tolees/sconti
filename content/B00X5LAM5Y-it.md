@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 62.52 % su Salvatore Ferragamo 70631 Acqua di Colon  '
 date: 2020-10-09 09:38:21
-image: 'https://m.media-amazon.com/images/I/51-dkKfDt4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-dkKfDt4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.61'
 
 [Salvatore Ferragamo 70631 Acqua di Colonia](https://www.amazon.it/dp/B00X5LAM5Y/?tag=tolees00-21) ha un prezzo di 29.61 EUR (originale: 79.0 EUR) con uno sconto del 62.52 % sconto qui:
 
-[![Salvatore Ferragamo 70631 Acqua di Colon](https://m.media-amazon.com/images/I/51-dkKfDt4L._SL200_.jpg)](https://www.amazon.it/dp/B00X5LAM5Y/?tag=tolees00-21)
+[![Salvatore Ferragamo 70631 Acqua di Colon](https://m.media-amazon.com/images/I/51-dkKfDt4L._SL400_.jpg)](https://www.amazon.it/dp/B00X5LAM5Y/?tag=tolees00-21)
 
 ℹ️:
 

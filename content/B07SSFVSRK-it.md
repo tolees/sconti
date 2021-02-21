@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.97 % su GRIFEMA COMPLENTO-G803 Manopola Doccia G  '
 date: 2020-10-01 16:39:07
-image: 'https://m.media-amazon.com/images/I/41Jy3NST6wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jy3NST6wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.71'
 
 [GRIFEMA COMPLENTO-G803 Manopola Doccia Grande  G1 / 2 pollici  Diametro 120 mm   Soffione Doccia con 5 modalità Spray  Argento/Cromo](https://www.amazon.it/dp/B07SSFVSRK/?tag=tolees00-21) ha un prezzo di 6.71 EUR (originale: 8.49 EUR) con uno sconto del 20.97 % sconto qui:
 
-[![GRIFEMA COMPLENTO-G803 Manopola Doccia G](https://m.media-amazon.com/images/I/41Jy3NST6wL._SL200_.jpg)](https://www.amazon.it/dp/B07SSFVSRK/?tag=tolees00-21)
+[![GRIFEMA COMPLENTO-G803 Manopola Doccia G](https://m.media-amazon.com/images/I/41Jy3NST6wL._SL400_.jpg)](https://www.amazon.it/dp/B07SSFVSRK/?tag=tolees00-21)
 
 ℹ️:
 

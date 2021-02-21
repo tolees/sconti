@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 63.61 % su Boss T-Shirt RN 24  Grigio  Medium Grey   '
 date: 2020-08-10 07:48:18
-image: 'https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.9'
 
 [Boss T-Shirt RN 24  Grigio  Medium Grey 32   Small Uomo](https://www.amazon.it/dp/B07TYFG7CS/?tag=tolees00-21) ha un prezzo di 10.9 EUR (originale: 29.95 EUR) con uno sconto del 63.61 % sconto qui:
 
-[![Boss T-Shirt RN 24  Grigio  Medium Grey ](https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL200_.jpg)](https://www.amazon.it/dp/B07TYFG7CS/?tag=tolees00-21)
+[![Boss T-Shirt RN 24  Grigio  Medium Grey ](https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL400_.jpg)](https://www.amazon.it/dp/B07TYFG7CS/?tag=tolees00-21)
 
 ℹ️:
 

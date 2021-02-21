@@ -2,7 +2,7 @@
 layout: post
 title: 'Davidoff Zino Eau de Toilette  Uomo  125 al 74.01 % di sconto'
 date: 2020-09-26 07:16:55
-image: 'https://m.media-amazon.com/images/I/510Mldk3B1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510Mldk3B1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.42709677419355'
 
 Puoi trovare [Davidoff Zino Eau de Toilette  Uomo  125 ml](https://www.amazon.it/dp/B000CNME22/?tag=tolees00-21) con il prezzo 19.99 EUR (originale: 76.92 EUR) 74.01 % sconto qui:
 
-[![Davidoff Zino Eau de Toilette  Uomo  125](https://m.media-amazon.com/images/I/510Mldk3B1L._SL200_.jpg)](https://www.amazon.it/dp/B000CNME22/?tag=tolees00-21)
+[![Davidoff Zino Eau de Toilette  Uomo  125](https://m.media-amazon.com/images/I/510Mldk3B1L._SL400_.jpg)](https://www.amazon.it/dp/B000CNME22/?tag=tolees00-21)
 
 ℹ️:
 

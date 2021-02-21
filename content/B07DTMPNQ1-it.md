@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 42.78 % su Lacoste Sport TH0123 T-Shirt  Bianco  Bl  '
 date: 2020-10-09 15:55:24
-image: 'https://m.media-amazon.com/images/I/31s-yfIlMfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31s-yfIlMfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.75'
 
 [Lacoste Sport TH0123 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo](https://www.amazon.it/dp/B07DTMPNQ1/?tag=tolees00-21) ha un prezzo di 25.75 EUR (originale: 45.0 EUR) con uno sconto del 42.78 % sconto qui:
 
-[![Lacoste Sport TH0123 T-Shirt  Bianco  Bl](https://m.media-amazon.com/images/I/31s-yfIlMfL._SL200_.jpg)](https://www.amazon.it/dp/B07DTMPNQ1/?tag=tolees00-21)
+[![Lacoste Sport TH0123 T-Shirt  Bianco  Bl](https://m.media-amazon.com/images/I/31s-yfIlMfL._SL400_.jpg)](https://www.amazon.it/dp/B07DTMPNQ1/?tag=tolees00-21)
 
 ℹ️:
 

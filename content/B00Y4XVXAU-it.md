@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste PH4012  T-shirt Polo Uomo  Bianc al 34.75 % di sconto'
 date: 2020-09-22 11:18:18
-image: 'https://m.media-amazon.com/images/I/31QVyTrKnGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QVyTrKnGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.49'
 
 Puoi trovare [Lacoste PH4012  T-shirt Polo Uomo  Bianco  Blanc   Medium  Taglia Produttore: 4 ](https://www.amazon.it/dp/B00Y4XVXAU/?tag=tolees00-21) con il prezzo 61.99 EUR (originale: 95.0 EUR) 34.75 % sconto qui:
 
-[![Lacoste PH4012  T-shirt Polo Uomo  Bianc](https://m.media-amazon.com/images/I/31QVyTrKnGL._SL200_.jpg)](https://www.amazon.it/dp/B00Y4XVXAU/?tag=tolees00-21)
+[![Lacoste PH4012  T-shirt Polo Uomo  Bianc](https://m.media-amazon.com/images/I/31QVyTrKnGL._SL400_.jpg)](https://www.amazon.it/dp/B00Y4XVXAU/?tag=tolees00-21)
 
 ℹ️:
 

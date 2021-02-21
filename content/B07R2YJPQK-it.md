@@ -2,7 +2,7 @@
 layout: post
 title: 'Under Armour Challenger III Midlayer  Ma al 48.96 % di sconto'
 date: 2020-09-17 10:14:54
-image: 'https://m.media-amazon.com/images/I/31DrKnqgE3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DrKnqgE3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.52'
 
 Puoi trovare [Under Armour Challenger III Midlayer  Maglia a Maniche Lunghe Uomo  Nero  Black - 001   LG](https://www.amazon.it/dp/B07R2YJPQK/?tag=tolees00-21) con il prezzo 25.52 EUR (originale: 50.0 EUR) 48.96 % sconto qui:
 
-[![Under Armour Challenger III Midlayer  Ma](https://m.media-amazon.com/images/I/31DrKnqgE3L._SL200_.jpg)](https://www.amazon.it/dp/B07R2YJPQK/?tag=tolees00-21)
+[![Under Armour Challenger III Midlayer  Ma](https://m.media-amazon.com/images/I/31DrKnqgE3L._SL400_.jpg)](https://www.amazon.it/dp/B07R2YJPQK/?tag=tolees00-21)
 
 ℹ️:
 

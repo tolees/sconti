@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 41.48 % su Wrangler Larston Jeans  Blu Mistral Gree  '
 date: 2020-08-12 18:17:37
-image: 'https://m.media-amazon.com/images/I/41kEGh1vddL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kEGh1vddL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.79'
 
 [Wrangler Larston Jeans  Blu Mistral Green  32W / 32L Uomo](https://www.amazon.it/dp/B07TZ21NYQ/?tag=tolees00-21) ha un prezzo di 46.79 EUR (originale: 79.95 EUR) con uno sconto del 41.48 % sconto qui:
 
-[![Wrangler Larston Jeans  Blu Mistral Gree](https://m.media-amazon.com/images/I/41kEGh1vddL._SL200_.jpg)](https://www.amazon.it/dp/B07TZ21NYQ/?tag=tolees00-21)
+[![Wrangler Larston Jeans  Blu Mistral Gree](https://m.media-amazon.com/images/I/41kEGh1vddL._SL400_.jpg)](https://www.amazon.it/dp/B07TZ21NYQ/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 50.02 % su LIGHTAILING Set di Luci per  Creator Aut  '
 date: 2020-07-23 23:40:04
-image: 'https://m.media-amazon.com/images/I/4185MgUA3OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4185MgUA3OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 [LIGHTAILING Set di Luci per  Creator Auto da Corsa  Modello da Costruire - Kit Luce LED Compatibile con Lego 31089  Non Incluso nel Modello ](https://www.amazon.it/dp/B082MHYHL9/?tag=tolees00-21) ha un prezzo di 24.99 EUR (originale: 50.0 EUR) con uno sconto del 50.02 % sconto qui:
 
-[![LIGHTAILING Set di Luci per  Creator Aut](https://m.media-amazon.com/images/I/4185MgUA3OL._SL200_.jpg)](https://www.amazon.it/dp/B082MHYHL9/?tag=tolees00-21)
+[![LIGHTAILING Set di Luci per  Creator Aut](https://m.media-amazon.com/images/I/4185MgUA3OL._SL400_.jpg)](https://www.amazon.it/dp/B082MHYHL9/?tag=tolees00-21)
 
 ℹ️:
 

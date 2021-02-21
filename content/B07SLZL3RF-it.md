@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 22.18 % su Havaianas Disney Classic II  Sandali Uni  '
 date: 2020-08-15 13:19:27
-image: 'https://m.media-amazon.com/images/I/51oihZ2wsFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oihZ2wsFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.89'
 
 [Havaianas Disney Classic II  Sandali Unisex-Bimbi  Multicolore  Green Dew 7611   19 EU](https://www.amazon.it/dp/B07SLZL3RF/?tag=tolees00-21) ha un prezzo di 17.89 EUR (originale: 22.99 EUR) con uno sconto del 22.18 % sconto qui:
 
-[![Havaianas Disney Classic II  Sandali Uni](https://m.media-amazon.com/images/I/51oihZ2wsFL._SL200_.jpg)](https://www.amazon.it/dp/B07SLZL3RF/?tag=tolees00-21)
+[![Havaianas Disney Classic II  Sandali Uni](https://m.media-amazon.com/images/I/51oihZ2wsFL._SL400_.jpg)](https://www.amazon.it/dp/B07SLZL3RF/?tag=tolees00-21)
 
 ℹ️:
 

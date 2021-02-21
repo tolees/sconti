@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 34.95 % su Calvin Klein Instit Chest Logo Reg Tee T  '
 date: 2020-08-09 18:20:27
-image: 'https://m.media-amazon.com/images/I/418jVCzoNkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418jVCzoNkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.45'
 
 [Calvin Klein Instit Chest Logo Reg Tee T-Shirt  Blu  Coastal Blue C2o   Small Uomo](https://www.amazon.it/dp/B07V7GJVWT/?tag=tolees00-21) ha un prezzo di 19.45 EUR (originale: 29.9 EUR) con uno sconto del 34.95 % sconto qui:
 
-[![Calvin Klein Instit Chest Logo Reg Tee T](https://m.media-amazon.com/images/I/418jVCzoNkL._SL200_.jpg)](https://www.amazon.it/dp/B07V7GJVWT/?tag=tolees00-21)
+[![Calvin Klein Instit Chest Logo Reg Tee T](https://m.media-amazon.com/images/I/418jVCzoNkL._SL400_.jpg)](https://www.amazon.it/dp/B07V7GJVWT/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 56.35 % su Roccobarocco White Eau De Parfum Donna -  '
 date: 2020-09-29 10:02:29
-image: 'https://m.media-amazon.com/images/I/31TM7vOviHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TM7vOviHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.83'
 
 [Roccobarocco White Eau De Parfum Donna - 100 gr](https://www.amazon.it/dp/B01M5B5GVY/?tag=tolees00-21) ha un prezzo di 19.83 EUR (originale: 45.43 EUR) con uno sconto del 56.35 % sconto qui:
 
-[![Roccobarocco White Eau De Parfum Donna -](https://m.media-amazon.com/images/I/31TM7vOviHL._SL200_.jpg)](https://www.amazon.it/dp/B01M5B5GVY/?tag=tolees00-21)
+[![Roccobarocco White Eau De Parfum Donna -](https://m.media-amazon.com/images/I/31TM7vOviHL._SL400_.jpg)](https://www.amazon.it/dp/B01M5B5GVY/?tag=tolees00-21)
 
 ℹ️:
 

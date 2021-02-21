@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 59.20 % su Nike Dri-Fit Strike  Felpa con Cappuccio  '
 date: 2020-10-08 08:14:54
-image: 'https://m.media-amazon.com/images/I/41oCFj3mKYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oCFj3mKYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.97'
 
 [Nike Dri-Fit Strike  Felpa con Cappuccio E Zip A Tutta Lunghezza Uomo  Black/Black/Black/Black  2XL](https://www.amazon.it/dp/B081PFZCCF/?tag=tolees00-21) ha un prezzo di 28.97 EUR (originale: 71.0 EUR) con uno sconto del 59.20 % sconto qui:
 
-[![Nike Dri-Fit Strike  Felpa con Cappuccio](https://m.media-amazon.com/images/I/41oCFj3mKYL._SL200_.jpg)](https://www.amazon.it/dp/B081PFZCCF/?tag=tolees00-21)
+[![Nike Dri-Fit Strike  Felpa con Cappuccio](https://m.media-amazon.com/images/I/41oCFj3mKYL._SL400_.jpg)](https://www.amazon.it/dp/B081PFZCCF/?tag=tolees00-21)
 
 ℹ️:
 

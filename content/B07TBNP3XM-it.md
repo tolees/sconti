@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 29.92 % su adidas Grand Court I  Scarpe da Ginnasti  '
 date: 2020-09-02 17:02:05
-image: 'https://m.media-amazon.com/images/I/215g7lfUCHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/215g7lfUCHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.99'
 
 [adidas Grand Court I  Scarpe da Ginnastica Unisex-Bambini  Ftwwht/coppmt/glopnk  27 EU](https://www.amazon.it/dp/B07TBNP3XM/?tag=tolees00-21) ha un prezzo di 20.99 EUR (originale: 29.95 EUR) con uno sconto del 29.92 % sconto qui:
 
-[![adidas Grand Court I  Scarpe da Ginnasti](https://m.media-amazon.com/images/I/215g7lfUCHL._SL200_.jpg)](https://www.amazon.it/dp/B07TBNP3XM/?tag=tolees00-21)
+[![adidas Grand Court I  Scarpe da Ginnasti](https://m.media-amazon.com/images/I/215g7lfUCHL._SL400_.jpg)](https://www.amazon.it/dp/B07TBNP3XM/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 26.02 % su LIGHTAILING Set di Luci per  Architectur  '
 date: 2020-09-30 02:20:04
-image: 'https://m.media-amazon.com/images/I/416Psm0SamL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416Psm0SamL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 [LIGHTAILING Set di Luci per  Architecture Buckingham Palace  Modello da Costruire - Kit Luce LED Compatibile con Lego 21029  Non Incluso nel Modello ](https://www.amazon.it/dp/B07HQD1LKF/?tag=tolees00-21) ha un prezzo di 36.99 EUR (originale: 50.0 EUR) con uno sconto del 26.02 % sconto qui:
 
-[![LIGHTAILING Set di Luci per  Architectur](https://m.media-amazon.com/images/I/416Psm0SamL._SL200_.jpg)](https://www.amazon.it/dp/B07HQD1LKF/?tag=tolees00-21)
+[![LIGHTAILING Set di Luci per  Architectur](https://m.media-amazon.com/images/I/416Psm0SamL._SL400_.jpg)](https://www.amazon.it/dp/B07HQD1LKF/?tag=tolees00-21)
 
 ℹ️:
 

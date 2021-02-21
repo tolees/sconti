@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 31.90 % su ghd platinum+ Styler Piastra per capelli  '
 date: 2020-10-10 13:15:17
-image: 'https://m.media-amazon.com/images/I/411U5Wa9aZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411U5Wa9aZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '225.3225'
 
 [ghd platinum+ Styler Piastra per capelli  Edizione Limitata con custodia abbinata  Rosso Deep Scarlet](https://www.amazon.it/dp/B0847SDDCR/?tag=tolees00-21) ha un prezzo di 189.99 EUR (originale: 279.0 EUR) con uno sconto del 31.90 % sconto qui:
 
-[![ghd platinum+ Styler Piastra per capelli](https://m.media-amazon.com/images/I/411U5Wa9aZL._SL200_.jpg)](https://www.amazon.it/dp/B0847SDDCR/?tag=tolees00-21)
+[![ghd platinum+ Styler Piastra per capelli](https://m.media-amazon.com/images/I/411U5Wa9aZL._SL400_.jpg)](https://www.amazon.it/dp/B0847SDDCR/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Slim 4000030 Infradito Donna   al 34.65 % di sconto'
 date: 2020-08-30 11:27:00
-image: 'https://m.media-amazon.com/images/I/31lPn5WxhwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lPn5WxhwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.95'
 
 Puoi trovare [Havaianas Slim 4000030 Infradito Donna  Grigio  Steel Grey   37/38 EU](https://www.amazon.it/dp/B00LM6US76/?tag=tolees00-21) con il prezzo 16.99 EUR (originale: 26.0 EUR) 34.65 % sconto qui:
 
-[![Havaianas Slim 4000030 Infradito Donna  ](https://m.media-amazon.com/images/I/31lPn5WxhwL._SL200_.jpg)](https://www.amazon.it/dp/B00LM6US76/?tag=tolees00-21)
+[![Havaianas Slim 4000030 Infradito Donna  ](https://m.media-amazon.com/images/I/31lPn5WxhwL._SL400_.jpg)](https://www.amazon.it/dp/B00LM6US76/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 37.25 % su Oral-B Pro 2 2000 Cross Action Spazzolin  '
 date: 2020-10-10 12:08:48
-image: 'https://m.media-amazon.com/images/I/41tP5odM6zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tP5odM6zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 [Oral-B Pro 2 2000 Cross Action Spazzolino Elettrico Ricaricabile   1 Spazzolino con Sensore di Pressione dello Spazzolamento Visibile  1 Testina](https://www.amazon.it/dp/B07W3LKCLW/?tag=tolees00-21) ha un prezzo di 39.99 EUR (originale: 63.73 EUR) con uno sconto del 37.25 % sconto qui:
 
-[![Oral-B Pro 2 2000 Cross Action Spazzolin](https://m.media-amazon.com/images/I/41tP5odM6zL._SL200_.jpg)](https://www.amazon.it/dp/B07W3LKCLW/?tag=tolees00-21)
+[![Oral-B Pro 2 2000 Cross Action Spazzolin](https://m.media-amazon.com/images/I/41tP5odM6zL._SL400_.jpg)](https://www.amazon.it/dp/B07W3LKCLW/?tag=tolees00-21)
 
 ℹ️:
 

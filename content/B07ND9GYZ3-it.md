@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 15.01 % su LEGO - Hidden Side Mistero nel Cimitero   '
 date: 2020-08-16 22:34:23
-image: 'https://m.media-amazon.com/images/I/51oc2sgDhTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oc2sgDhTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.49'
 
 [LEGO - Hidden Side Mistero nel Cimitero Set di Costruzione  Set per la Realtà Aumentata per iPhone/Android  70420](https://www.amazon.it/dp/B07ND9GYZ3/?tag=tolees00-21) ha un prezzo di 25.49 EUR (originale: 29.99 EUR) con uno sconto del 15.01 % sconto qui:
 
-[![LEGO - Hidden Side Mistero nel Cimitero ](https://m.media-amazon.com/images/I/51oc2sgDhTL._SL200_.jpg)](https://www.amazon.it/dp/B07ND9GYZ3/?tag=tolees00-21)
+[![LEGO - Hidden Side Mistero nel Cimitero ](https://m.media-amazon.com/images/I/51oc2sgDhTL._SL400_.jpg)](https://www.amazon.it/dp/B07ND9GYZ3/?tag=tolees00-21)
 
 ℹ️:
 

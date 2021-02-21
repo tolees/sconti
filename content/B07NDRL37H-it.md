@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 25.50 % su Olimpia Splendid 01914 Dolceclima Compac  '
 date: 2020-09-30 04:28:37
-image: 'https://m.media-amazon.com/images/I/31H07lQ7iZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31H07lQ7iZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '259.99'
 
 [Olimpia Splendid 01914 Dolceclima Compact 9 P Climatizzatore Portatile  9000 BTU/h  2.34 kW  Natural Gas R290  Design Prodotto in Italia](https://www.amazon.it/dp/B07NDRL37H/?tag=tolees00-21) ha un prezzo di 259.99 EUR (originale: 349.0 EUR) con uno sconto del 25.50 % sconto qui:
 
-[![Olimpia Splendid 01914 Dolceclima Compac](https://m.media-amazon.com/images/I/31H07lQ7iZL._SL200_.jpg)](https://www.amazon.it/dp/B07NDRL37H/?tag=tolees00-21)
+[![Olimpia Splendid 01914 Dolceclima Compac](https://m.media-amazon.com/images/I/31H07lQ7iZL._SL400_.jpg)](https://www.amazon.it/dp/B07NDRL37H/?tag=tolees00-21)
 
 ℹ️:
 

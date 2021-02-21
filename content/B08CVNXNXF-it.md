@@ -2,7 +2,7 @@
 layout: post
 title: 'TUTUO Wireless Controller per Nintendo S al 30.90 % di sconto'
 date: 2020-08-27 17:01:05
-image: 'https://m.media-amazon.com/images/I/41p0+ESyFcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p0+ESyFcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.99'
 
 Puoi trovare [TUTUO Wireless Controller per Nintendo Switch  Bluetooth Joystick Gamepad Sostituzione per JoyCon  Dual Motori Axis Gyro Compatibile con Nintendo Switch PRO  Verde e Rosa ](https://www.amazon.it/dp/B08CVNXNXF/?tag=tolees00-21) con il prezzo 37.99 EUR (originale: 54.98 EUR) 30.90 % sconto qui:
 
-[![TUTUO Wireless Controller per Nintendo S](https://m.media-amazon.com/images/I/41p0+ESyFcL._SL200_.jpg)](https://www.amazon.it/dp/B08CVNXNXF/?tag=tolees00-21)
+[![TUTUO Wireless Controller per Nintendo S](https://m.media-amazon.com/images/I/41p0+ESyFcL._SL400_.jpg)](https://www.amazon.it/dp/B08CVNXNXF/?tag=tolees00-21)
 
 ℹ️:
 

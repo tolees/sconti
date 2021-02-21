@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 40.82 % su Fossil Collana con Ciondolo da Donna  Or  '
 date: 2020-10-09 11:43:51
-image: 'https://m.media-amazon.com/images/I/31-p8GmEVRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-p8GmEVRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.0'
 
 [Fossil Collana con Ciondolo da Donna  Oro](https://www.amazon.it/dp/B07VQN7TRQ/?tag=tolees00-21) ha un prezzo di 29.0 EUR (originale: 49.0 EUR) con uno sconto del 40.82 % sconto qui:
 
-[![Fossil Collana con Ciondolo da Donna  Or](https://m.media-amazon.com/images/I/31-p8GmEVRL._SL200_.jpg)](https://www.amazon.it/dp/B07VQN7TRQ/?tag=tolees00-21)
+[![Fossil Collana con Ciondolo da Donna  Or](https://m.media-amazon.com/images/I/31-p8GmEVRL._SL400_.jpg)](https://www.amazon.it/dp/B07VQN7TRQ/?tag=tolees00-21)
 
 ℹ️:
 

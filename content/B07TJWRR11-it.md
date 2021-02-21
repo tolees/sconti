@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 33.74 % su Lacoste Ph4012 Polo  Giallo  Daba Z0a     '
 date: 2020-08-21 17:02:00
-image: 'https://m.media-amazon.com/images/I/31wOTP-7ovL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wOTP-7ovL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.95'
 
 [Lacoste Ph4012 Polo  Giallo  Daba Z0a   Large  Taglia Produttore: 5  Uomo](https://www.amazon.it/dp/B07TJWRR11/?tag=tolees00-21) ha un prezzo di 62.95 EUR (originale: 95.0 EUR) con uno sconto del 33.74 % sconto qui:
 
-[![Lacoste Ph4012 Polo  Giallo  Daba Z0a   ](https://m.media-amazon.com/images/I/31wOTP-7ovL._SL200_.jpg)](https://www.amazon.it/dp/B07TJWRR11/?tag=tolees00-21)
+[![Lacoste Ph4012 Polo  Giallo  Daba Z0a   ](https://m.media-amazon.com/images/I/31wOTP-7ovL._SL400_.jpg)](https://www.amazon.it/dp/B07TJWRR11/?tag=tolees00-21)
 
 ℹ️:
 

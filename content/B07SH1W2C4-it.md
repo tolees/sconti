@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s June L S  Infradito Donna  Rosa   al 32.04 % di sconto'
 date: 2020-08-20 18:03:46
-image: 'https://m.media-amazon.com/images/I/31vgApyAKDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vgApyAKDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Puoi trovare [Levi s June L S  Infradito Donna  Rosa  Light Pink 81   39 EU](https://www.amazon.it/dp/B07SH1W2C4/?tag=tolees00-21) con il prezzo 16.99 EUR (originale: 25.0 EUR) 32.04 % sconto qui:
 
-[![Levi s June L S  Infradito Donna  Rosa  ](https://m.media-amazon.com/images/I/31vgApyAKDL._SL200_.jpg)](https://www.amazon.it/dp/B07SH1W2C4/?tag=tolees00-21)
+[![Levi s June L S  Infradito Donna  Rosa  ](https://m.media-amazon.com/images/I/31vgApyAKDL._SL400_.jpg)](https://www.amazon.it/dp/B07SH1W2C4/?tag=tolees00-21)
 
 ℹ️:
 

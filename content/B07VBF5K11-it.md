@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 31.77 % su Desigual Bols inés Cortland - Borsa da d  '
 date: 2020-08-12 13:13:28
-image: 'https://m.media-amazon.com/images/I/31tz+tjUePL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tz+tjUePL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.96'
 
 [Desigual Bols inés Cortland - Borsa da donna  15 x 29 5 x 36 5 cm  Blu  Blu  Azul Espacial    15x29.5x36.5 cm  B x H x T ](https://www.amazon.it/dp/B07VBF5K11/?tag=tolees00-21) ha un prezzo di 24.96 EUR (originale: 36.58 EUR) con uno sconto del 31.77 % sconto qui:
 
-[![Desigual Bols inés Cortland - Borsa da d](https://m.media-amazon.com/images/I/31tz+tjUePL._SL200_.jpg)](https://www.amazon.it/dp/B07VBF5K11/?tag=tolees00-21)
+[![Desigual Bols inés Cortland - Borsa da d](https://m.media-amazon.com/images/I/31tz+tjUePL._SL400_.jpg)](https://www.amazon.it/dp/B07VBF5K11/?tag=tolees00-21)
 
 ℹ️:
 

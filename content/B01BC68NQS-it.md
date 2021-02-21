@@ -2,7 +2,7 @@
 layout: post
 title: 'Lego Star Wars: Il Risveglio della Forza al 41.99 % di sconto'
 date: 2020-09-25 06:43:45
-image: 'https://m.media-amazon.com/images/I/51QD-VOEVBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QD-VOEVBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.0'
 
 Puoi trovare [Lego Star Wars: Il Risveglio della Forza - PlayStation 3](https://www.amazon.it/dp/B01BC68NQS/?tag=tolees00-21) con il prezzo 29.0 EUR (originale: 49.99 EUR) 41.99 % sconto qui:
 
-[![Lego Star Wars: Il Risveglio della Forza](https://m.media-amazon.com/images/I/51QD-VOEVBL._SL200_.jpg)](https://www.amazon.it/dp/B01BC68NQS/?tag=tolees00-21)
+[![Lego Star Wars: Il Risveglio della Forza](https://m.media-amazon.com/images/I/51QD-VOEVBL._SL400_.jpg)](https://www.amazon.it/dp/B01BC68NQS/?tag=tolees00-21)
 
 ℹ️:
 

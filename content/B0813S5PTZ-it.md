@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 48.02 % su adidas Continental 80  Scarpe da Ginnast  '
 date: 2020-08-22 13:54:42
-image: 'https://m.media-amazon.com/images/I/31YfLWyqARL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YfLWyqARL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.95'
 
 [adidas Continental 80  Scarpe da Ginnastica Uomo  Crystal White/Collegiate Navy/Scarlet  45 1/3 EU](https://www.amazon.it/dp/B0813S5PTZ/?tag=tolees00-21) ha un prezzo di 51.95 EUR (originale: 99.95 EUR) con uno sconto del 48.02 % sconto qui:
 
-[![adidas Continental 80  Scarpe da Ginnast](https://m.media-amazon.com/images/I/31YfLWyqARL._SL200_.jpg)](https://www.amazon.it/dp/B0813S5PTZ/?tag=tolees00-21)
+[![adidas Continental 80  Scarpe da Ginnast](https://m.media-amazon.com/images/I/31YfLWyqARL._SL400_.jpg)](https://www.amazon.it/dp/B0813S5PTZ/?tag=tolees00-21)
 
 ℹ️:
 

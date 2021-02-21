@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 63.48 % su Cornice digitale  '
 date: 2020-09-28 10:31:35
-image: 'https://m.media-amazon.com/images/I/41uqATUS-aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uqATUS-aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.925'
 
 [Cornice digitale](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21) ha un prezzo di 21.87 EUR (originale: 59.88 EUR) con uno sconto del 63.48 % sconto qui:
 
-[![Cornice digitale](https://m.media-amazon.com/images/I/41uqATUS-aL._SL200_.jpg)](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21)
+[![Cornice digitale](https://m.media-amazon.com/images/I/41uqATUS-aL._SL400_.jpg)](https://www.amazon.it/dp/B07T1XNB85/?tag=tolees00-21)
 
 ℹ️:
 

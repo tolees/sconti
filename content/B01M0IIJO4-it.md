@@ -2,7 +2,7 @@
 layout: post
 title: 'Mustang Entertainment - Il Camorrista al 40.33 % di sconto'
 date: 2021-02-10 06:47:14
-image: 'https://m.media-amazon.com/images/I/51qkJwG0rjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qkJwG0rjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.2'
 
 Puoi trovare [Mustang Entertainment - Il Camorrista](https://www.amazon.it/dp/B01M0IIJO4/?tag=tolees00-21) con il prezzo 6.2 EUR (originale: 10.39 EUR) 40.33 % sconto qui:
 
-[![Mustang Entertainment - Il Camorrista](https://m.media-amazon.com/images/I/51qkJwG0rjL._SL200_.jpg)](https://www.amazon.it/dp/B01M0IIJO4/?tag=tolees00-21)
+[![Mustang Entertainment - Il Camorrista](https://m.media-amazon.com/images/I/51qkJwG0rjL._SL400_.jpg)](https://www.amazon.it/dp/B01M0IIJO4/?tag=tolees00-21)
 
 ℹ️:
 

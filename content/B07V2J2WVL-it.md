@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Lightweight Stripes Knit  al 59.92 % di sconto'
 date: 2020-09-22 09:07:33
-image: 'https://m.media-amazon.com/images/I/31KW0Gq7afL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KW0Gq7afL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.02'
 
 Puoi trovare [Tommy Hilfiger Lightweight Stripes Knit Sneaker  Scarpe da Ginnastica Basse Uomo  Blu  Desert Sky Dw5   41 EU](https://www.amazon.it/dp/B07V2J2WVL/?tag=tolees00-21) con il prezzo 30.02 EUR (originale: 74.9 EUR) 59.92 % sconto qui:
 
-[![Tommy Hilfiger Lightweight Stripes Knit ](https://m.media-amazon.com/images/I/31KW0Gq7afL._SL200_.jpg)](https://www.amazon.it/dp/B07V2J2WVL/?tag=tolees00-21)
+[![Tommy Hilfiger Lightweight Stripes Knit ](https://m.media-amazon.com/images/I/31KW0Gq7afL._SL400_.jpg)](https://www.amazon.it/dp/B07V2J2WVL/?tag=tolees00-21)
 
 ℹ️:
 

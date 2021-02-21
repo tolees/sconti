@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 26.68 % su CURCUMA E PIPERINA + ZENZERO  Formula Ex  '
 date: 2020-09-18 10:06:38
-image: 'https://m.media-amazon.com/images/I/41RXYkyZS5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RXYkyZS5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 [CURCUMA E PIPERINA + ZENZERO  Formula Extra-Forte 1500mg  Antinfiammatorio e Antiossidante Naturale - Dolori Articolari - 180 Capsule Vegan - Integratore alimentare Gluten Free WeightWorld](https://www.amazon.it/dp/B07YNVK1MB/?tag=tolees00-21) ha un prezzo di 10.99 EUR (originale: 14.99 EUR) con uno sconto del 26.68 % sconto qui:
 
-[![CURCUMA E PIPERINA + ZENZERO  Formula Ex](https://m.media-amazon.com/images/I/41RXYkyZS5L._SL200_.jpg)](https://www.amazon.it/dp/B07YNVK1MB/?tag=tolees00-21)
+[![CURCUMA E PIPERINA + ZENZERO  Formula Ex](https://m.media-amazon.com/images/I/41RXYkyZS5L._SL400_.jpg)](https://www.amazon.it/dp/B07YNVK1MB/?tag=tolees00-21)
 
 ℹ️:
 

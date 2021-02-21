@@ -2,7 +2,7 @@
 layout: post
 title: 'HyperX HX-MC004B Pulsefire Core  Mouse G al 42.51 % di sconto'
 date: 2020-08-11 06:57:24
-image: 'https://m.media-amazon.com/images/I/318mLvuVPTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318mLvuVPTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.99'
 
 Puoi trovare [HyperX HX-MC004B Pulsefire Core  Mouse Gaming RGB](https://www.amazon.it/dp/B07H3GFJJ2/?tag=tolees00-21) con il prezzo 22.99 EUR (originale: 39.99 EUR) 42.51 % sconto qui:
 
-[![HyperX HX-MC004B Pulsefire Core  Mouse G](https://m.media-amazon.com/images/I/318mLvuVPTL._SL200_.jpg)](https://www.amazon.it/dp/B07H3GFJJ2/?tag=tolees00-21)
+[![HyperX HX-MC004B Pulsefire Core  Mouse G](https://m.media-amazon.com/images/I/318mLvuVPTL._SL400_.jpg)](https://www.amazon.it/dp/B07H3GFJJ2/?tag=tolees00-21)
 
 ℹ️:
 

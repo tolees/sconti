@@ -2,7 +2,7 @@
 layout: post
 title: 'easypix Aquapix W1400 Active al 44.07 % di sconto'
 date: 2020-08-06 06:35:07
-image: 'https://m.media-amazon.com/images/I/51mgB5UA2-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mgB5UA2-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 Puoi trovare [easypix Aquapix W1400 Active](https://www.amazon.it/dp/B00KZJVETM/?tag=tolees00-21) con il prezzo 39.99 EUR (originale: 71.5 EUR) 44.07 % sconto qui:
 
-[![easypix Aquapix W1400 Active](https://m.media-amazon.com/images/I/51mgB5UA2-L._SL200_.jpg)](https://www.amazon.it/dp/B00KZJVETM/?tag=tolees00-21)
+[![easypix Aquapix W1400 Active](https://m.media-amazon.com/images/I/51mgB5UA2-L._SL400_.jpg)](https://www.amazon.it/dp/B00KZJVETM/?tag=tolees00-21)
 
 ℹ️:
 

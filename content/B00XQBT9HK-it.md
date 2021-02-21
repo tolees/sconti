@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 30.06 % su Nivea - Sun  Latte Solare Carotene -  20  '
 date: 2020-07-26 07:52:19
-image: 'https://m.media-amazon.com/images/I/311Im9fLBDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311Im9fLBDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.77'
 
 [Nivea - Sun  Latte Solare Carotene -  200 Ml](https://www.amazon.it/dp/B00XQBT9HK/?tag=tolees00-21) ha un prezzo di 5.77 EUR (originale: 8.25 EUR) con uno sconto del 30.06 % sconto qui:
 
-[![Nivea - Sun  Latte Solare Carotene -  20](https://m.media-amazon.com/images/I/311Im9fLBDL._SL200_.jpg)](https://www.amazon.it/dp/B00XQBT9HK/?tag=tolees00-21)
+[![Nivea - Sun  Latte Solare Carotene -  20](https://m.media-amazon.com/images/I/311Im9fLBDL._SL400_.jpg)](https://www.amazon.it/dp/B00XQBT9HK/?tag=tolees00-21)
 
 ℹ️:
 

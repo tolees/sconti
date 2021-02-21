@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 69.20 % su Adidas Superstar  Scarpe da Ginnastica U  '
 date: 2020-09-08 07:56:58
-image: 'https://m.media-amazon.com/images/I/31iyyw7dFBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iyyw7dFBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.87'
 
 [Adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Core Black](https://www.amazon.it/dp/B0813YSHXY/?tag=tolees00-21) ha un prezzo di 33.87 EUR (originale: 109.95 EUR) con uno sconto del 69.20 % sconto qui:
 
-[![Adidas Superstar  Scarpe da Ginnastica U](https://m.media-amazon.com/images/I/31iyyw7dFBL._SL200_.jpg)](https://www.amazon.it/dp/B0813YSHXY/?tag=tolees00-21)
+[![Adidas Superstar  Scarpe da Ginnastica U](https://m.media-amazon.com/images/I/31iyyw7dFBL._SL400_.jpg)](https://www.amazon.it/dp/B0813YSHXY/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Dixan Classico Detersivo Liquido Lavatri al 39.18 % di sconto'
 date: 2020-09-23 08:51:41
-image: 'https://m.media-amazon.com/images/I/519vaVyR67L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519vaVyR67L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.2175'
 
 Puoi trovare [Dixan Classico Detersivo Liquido Lavatrice  Tecnologia Pulito Profondo  3 X 19 Lavaggi](https://www.amazon.it/dp/B089WWC6JV/?tag=tolees00-21) con il prezzo 7.9 EUR (originale: 12.99 EUR) 39.18 % sconto qui:
 
-[![Dixan Classico Detersivo Liquido Lavatri](https://m.media-amazon.com/images/I/519vaVyR67L._SL200_.jpg)](https://www.amazon.it/dp/B089WWC6JV/?tag=tolees00-21)
+[![Dixan Classico Detersivo Liquido Lavatri](https://m.media-amazon.com/images/I/519vaVyR67L._SL400_.jpg)](https://www.amazon.it/dp/B089WWC6JV/?tag=tolees00-21)
 
 ℹ️:
 

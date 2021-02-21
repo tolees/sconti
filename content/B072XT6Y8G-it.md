@@ -2,7 +2,7 @@
 layout: post
 title: 'Unique Party 55856 - Palloncino Gigante  al 53.02 % di sconto'
 date: 2020-09-18 06:39:30
-image: 'https://m.media-amazon.com/images/I/41aOTAJepUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aOTAJepUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.72'
 
 Puoi trovare [Unique Party 55856 - Palloncino Gigante - Numero 6 - 86cm - Rosso](https://www.amazon.it/dp/B072XT6Y8G/?tag=tolees00-21) con il prezzo 2.72 EUR (originale: 5.79 EUR) 53.02 % sconto qui:
 
-[![Unique Party 55856 - Palloncino Gigante ](https://m.media-amazon.com/images/I/41aOTAJepUL._SL200_.jpg)](https://www.amazon.it/dp/B072XT6Y8G/?tag=tolees00-21)
+[![Unique Party 55856 - Palloncino Gigante ](https://m.media-amazon.com/images/I/41aOTAJepUL._SL400_.jpg)](https://www.amazon.it/dp/B072XT6Y8G/?tag=tolees00-21)
 
 ℹ️:
 

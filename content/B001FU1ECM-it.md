@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 52.56 % su Superga 2750-cotu Classic Sneaker  Unise  '
 date: 2020-07-18 18:17:29
-image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 [Superga 2750-cotu Classic Sneaker  Unisex – Adulto  Bianco  901 White   38 EU](https://www.amazon.it/dp/B001FU1ECM/?tag=tolees00-21) ha un prezzo di 27.99 EUR (originale: 59.0 EUR) con uno sconto del 52.56 % sconto qui:
 
-[![Superga 2750-cotu Classic Sneaker  Unise](https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg)](https://www.amazon.it/dp/B001FU1ECM/?tag=tolees00-21)
+[![Superga 2750-cotu Classic Sneaker  Unise](https://m.media-amazon.com/images/I/31BbJNne0HL._SL400_.jpg)](https://www.amazon.it/dp/B001FU1ECM/?tag=tolees00-21)
 
 ℹ️:
 

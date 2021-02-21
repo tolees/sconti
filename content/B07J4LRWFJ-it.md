@@ -2,7 +2,7 @@
 layout: post
 title: 'PHILIP WATCH Guarda R8253597543 al 27.17 % di sconto'
 date: 2020-07-18 08:23:45
-image: 'https://m.media-amazon.com/images/I/41AiWhJ47xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AiWhJ47xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '284.04'
 
 Puoi trovare [PHILIP WATCH Guarda R8253597543](https://www.amazon.it/dp/B07J4LRWFJ/?tag=tolees00-21) con il prezzo 284.04 EUR (originale: 390.0 EUR) 27.17 % sconto qui:
 
-[![PHILIP WATCH Guarda R8253597543](https://m.media-amazon.com/images/I/41AiWhJ47xL._SL200_.jpg)](https://www.amazon.it/dp/B07J4LRWFJ/?tag=tolees00-21)
+[![PHILIP WATCH Guarda R8253597543](https://m.media-amazon.com/images/I/41AiWhJ47xL._SL400_.jpg)](https://www.amazon.it/dp/B07J4LRWFJ/?tag=tolees00-21)
 
 ℹ️:
 

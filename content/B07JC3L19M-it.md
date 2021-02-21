@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 23.86 % su LEGO Overwatch - Osservatorio: Gibilterr  '
 date: 2020-09-04 15:21:05
-image: 'https://m.media-amazon.com/images/I/51Ck55R2z-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ck55R2z-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.94666666666667'
 
 [LEGO Overwatch - Osservatorio: Gibilterra   75975](https://www.amazon.it/dp/B07JC3L19M/?tag=tolees00-21) ha un prezzo di 79.94 EUR (originale: 104.99 EUR) con uno sconto del 23.86 % sconto qui:
 
-[![LEGO Overwatch - Osservatorio: Gibilterr](https://m.media-amazon.com/images/I/51Ck55R2z-L._SL200_.jpg)](https://www.amazon.it/dp/B07JC3L19M/?tag=tolees00-21)
+[![LEGO Overwatch - Osservatorio: Gibilterr](https://m.media-amazon.com/images/I/51Ck55R2z-L._SL400_.jpg)](https://www.amazon.it/dp/B07JC3L19M/?tag=tolees00-21)
 
 ℹ️:
 

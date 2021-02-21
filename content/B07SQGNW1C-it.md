@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 64.73 % su Geox U Kennet B  Scarpe da Ginnastica Ba  '
 date: 2020-09-26 09:52:56
-image: 'https://m.media-amazon.com/images/I/31C0rnz0jZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31C0rnz0jZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.76'
 
 [Geox U Kennet B  Scarpe da Ginnastica Basse Uomo  Blu  Navy C4064   44 EU](https://www.amazon.it/dp/B07SQGNW1C/?tag=tolees00-21) ha un prezzo di 38.76 EUR (originale: 109.9 EUR) con uno sconto del 64.73 % sconto qui:
 
-[![Geox U Kennet B  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/31C0rnz0jZL._SL200_.jpg)](https://www.amazon.it/dp/B07SQGNW1C/?tag=tolees00-21)
+[![Geox U Kennet B  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/31C0rnz0jZL._SL400_.jpg)](https://www.amazon.it/dp/B07SQGNW1C/?tag=tolees00-21)
 
 ℹ️:
 

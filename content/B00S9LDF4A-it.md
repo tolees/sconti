@@ -2,7 +2,7 @@
 layout: post
 title: 'Omega 3 A.C. - 120 Perle al 60.98 % di sconto'
 date: 2020-08-27 17:38:08
-image: 'https://m.media-amazon.com/images/I/51OHz7kvDsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OHz7kvDsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.0'
 
 Puoi trovare [Omega 3 A.C. - 120 Perle](https://www.amazon.it/dp/B00S9LDF4A/?tag=tolees00-21) con il prezzo 16.0 EUR (originale: 41.0 EUR) 60.98 % sconto qui:
 
-[![Omega 3 A.C. - 120 Perle](https://m.media-amazon.com/images/I/51OHz7kvDsL._SL200_.jpg)](https://www.amazon.it/dp/B00S9LDF4A/?tag=tolees00-21)
+[![Omega 3 A.C. - 120 Perle](https://m.media-amazon.com/images/I/51OHz7kvDsL._SL400_.jpg)](https://www.amazon.it/dp/B00S9LDF4A/?tag=tolees00-21)
 
 ℹ️:
 

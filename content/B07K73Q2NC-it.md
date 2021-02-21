@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Tank Top Canottiera Sportiva  Bia al 33.39 % di sconto'
 date: 2020-07-29 09:49:29
-image: 'https://m.media-amazon.com/images/I/41vbnBZswKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vbnBZswKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Puoi trovare [Levi s Tank Top Canottiera Sportiva  Bianco  White + 0000   Small Donna](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21) con il prezzo 11.99 EUR (originale: 18.0 EUR) 33.39 % sconto qui:
 
-[![Levi s Tank Top Canottiera Sportiva  Bia](https://m.media-amazon.com/images/I/41vbnBZswKL._SL200_.jpg)](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
+[![Levi s Tank Top Canottiera Sportiva  Bia](https://m.media-amazon.com/images/I/41vbnBZswKL._SL400_.jpg)](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
 
 ℹ️:
 

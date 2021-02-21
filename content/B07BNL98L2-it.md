@@ -2,7 +2,7 @@
 layout: post
 title: 'Cecotec - Bake&Toast  Forno elettrico da al 24.98 % di sconto'
 date: 2020-09-27 09:13:01
-image: 'https://m.media-amazon.com/images/I/411CSNQ0Z+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411CSNQ0Z+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.0'
 
 Puoi trovare [Cecotec - Bake&Toast  Forno elettrico da tavolo  capacità di 10 litri 490 bianco](https://www.amazon.it/dp/B07BNL98L2/?tag=tolees00-21) con il prezzo 30.0 EUR (originale: 39.99 EUR) 24.98 % sconto qui:
 
-[![Cecotec - Bake&Toast  Forno elettrico da](https://m.media-amazon.com/images/I/411CSNQ0Z+L._SL200_.jpg)](https://www.amazon.it/dp/B07BNL98L2/?tag=tolees00-21)
+[![Cecotec - Bake&Toast  Forno elettrico da](https://m.media-amazon.com/images/I/411CSNQ0Z+L._SL400_.jpg)](https://www.amazon.it/dp/B07BNL98L2/?tag=tolees00-21)
 
 ℹ️:
 

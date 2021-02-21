@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 52.20 % su SLOTRA Zaino per Computer Portatile 15.6  '
 date: 2020-08-04 07:53:35
-image: 'https://m.media-amazon.com/images/I/41IPDyA50XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IPDyA50XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 [SLOTRA Zaino per Computer Portatile 15.6 Pollici Zaino per PC Portatile Impermeabile da Uomo Borsa per Scuola Viaggio  Nero](https://www.amazon.it/dp/B015MM3TGC/?tag=tolees00-21) ha un prezzo di 10.99 EUR (originale: 22.99 EUR) con uno sconto del 52.20 % sconto qui:
 
-[![SLOTRA Zaino per Computer Portatile 15.6](https://m.media-amazon.com/images/I/41IPDyA50XL._SL200_.jpg)](https://www.amazon.it/dp/B015MM3TGC/?tag=tolees00-21)
+[![SLOTRA Zaino per Computer Portatile 15.6](https://m.media-amazon.com/images/I/41IPDyA50XL._SL400_.jpg)](https://www.amazon.it/dp/B015MM3TGC/?tag=tolees00-21)
 
 ℹ️:
 

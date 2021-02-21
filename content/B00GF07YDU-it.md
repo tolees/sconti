@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 34.49 % su Intex Dura Beam Plus Materasso Classic G  '
 date: 2020-09-27 10:42:08
-image: 'https://m.media-amazon.com/images/I/41KawLY0WGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KawLY0WGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.46'
 
 [Intex Dura Beam Plus Materasso Classic Gonfiabile  Comfort Plush  Tecnologia Fiber Tech  PVC-Poliestere  Multicolore  152 x 203 x 46 cm](https://www.amazon.it/dp/B00GF07YDU/?tag=tolees00-21) ha un prezzo di 49.46 EUR (originale: 75.5 EUR) con uno sconto del 34.49 % sconto qui:
 
-[![Intex Dura Beam Plus Materasso Classic G](https://m.media-amazon.com/images/I/41KawLY0WGL._SL200_.jpg)](https://www.amazon.it/dp/B00GF07YDU/?tag=tolees00-21)
+[![Intex Dura Beam Plus Materasso Classic G](https://m.media-amazon.com/images/I/41KawLY0WGL._SL400_.jpg)](https://www.amazon.it/dp/B00GF07YDU/?tag=tolees00-21)
 
 ℹ️:
 

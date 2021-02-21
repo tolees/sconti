@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 68.87 % su Wrangler Bomber Jacket  Beige  Sand 58N   '
 date: 2020-10-08 09:28:58
-image: 'https://m.media-amazon.com/images/I/41LSlknn0EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LSlknn0EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.34'
 
 [Wrangler Bomber Jacket  Beige  Sand 58N   Small Uomo](https://www.amazon.it/dp/B07TXXBSYK/?tag=tolees00-21) ha un prezzo di 37.34 EUR (originale: 119.95 EUR) con uno sconto del 68.87 % sconto qui:
 
-[![Wrangler Bomber Jacket  Beige  Sand 58N ](https://m.media-amazon.com/images/I/41LSlknn0EL._SL200_.jpg)](https://www.amazon.it/dp/B07TXXBSYK/?tag=tolees00-21)
+[![Wrangler Bomber Jacket  Beige  Sand 58N ](https://m.media-amazon.com/images/I/41LSlknn0EL._SL400_.jpg)](https://www.amazon.it/dp/B07TXXBSYK/?tag=tolees00-21)
 
 ℹ️:
 

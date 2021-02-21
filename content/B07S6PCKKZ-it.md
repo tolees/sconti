@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Smash V2 L  Sneakers Unisex-Adulto  al 37.96 % di sconto'
 date: 2020-08-12 11:55:34
-image: 'https://m.media-amazon.com/images/I/31E-st-92sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31E-st-92sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.99'
 
 Puoi trovare [PUMA Smash V2 L  Sneakers Unisex-Adulto  Weiß White High Risk Red Team Gold  46 EU](https://www.amazon.it/dp/B07S6PCKKZ/?tag=tolees00-21) con il prezzo 30.99 EUR (originale: 49.95 EUR) 37.96 % sconto qui:
 
-[![PUMA Smash V2 L  Sneakers Unisex-Adulto ](https://m.media-amazon.com/images/I/31E-st-92sL._SL200_.jpg)](https://www.amazon.it/dp/B07S6PCKKZ/?tag=tolees00-21)
+[![PUMA Smash V2 L  Sneakers Unisex-Adulto ](https://m.media-amazon.com/images/I/31E-st-92sL._SL400_.jpg)](https://www.amazon.it/dp/B07S6PCKKZ/?tag=tolees00-21)
 
 ℹ️:
 

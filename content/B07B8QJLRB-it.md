@@ -2,7 +2,7 @@
 layout: post
 title: 'Fila Disruptor Low  Scarpe da Ginnastica al 54.85 % di sconto'
 date: 2020-08-04 17:16:49
-image: 'https://m.media-amazon.com/images/I/41QdRdXr4XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QdRdXr4XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.13'
 
 Puoi trovare [Fila Disruptor Low  Scarpe da Ginnastica Basse Uomo  Bianco  White 1fg   44 EU](https://www.amazon.it/dp/B07B8QJLRB/?tag=tolees00-21) con il prezzo 45.13 EUR (originale: 99.95 EUR) 54.85 % sconto qui:
 
-[![Fila Disruptor Low  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/41QdRdXr4XL._SL200_.jpg)](https://www.amazon.it/dp/B07B8QJLRB/?tag=tolees00-21)
+[![Fila Disruptor Low  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/41QdRdXr4XL._SL400_.jpg)](https://www.amazon.it/dp/B07B8QJLRB/?tag=tolees00-21)
 
 ℹ️:
 

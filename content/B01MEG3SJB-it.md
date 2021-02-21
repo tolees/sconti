@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 50.32 % su Io Sono Leggenda  '
 date: 2020-09-22 20:29:25
-image: 'https://m.media-amazon.com/images/I/61TmL+tEV6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61TmL+tEV6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.9'
 
 [Io Sono Leggenda](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21) ha un prezzo di 14.9 EUR (originale: 29.99 EUR) con uno sconto del 50.32 % sconto qui:
 
-[![Io Sono Leggenda](https://m.media-amazon.com/images/I/61TmL+tEV6L._SL200_.jpg)](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21)
+[![Io Sono Leggenda](https://m.media-amazon.com/images/I/61TmL+tEV6L._SL400_.jpg)](https://www.amazon.it/dp/B01MEG3SJB/?tag=tolees00-21)
 
 ℹ️:
 

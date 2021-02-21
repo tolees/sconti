@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U KAVEN A  Scarpe da Ginnastica Bas al 49.95 % di sconto'
 date: 2020-08-07 06:49:57
-image: 'https://m.media-amazon.com/images/I/317lqqNtv0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317lqqNtv0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.0'
 
 Puoi trovare [Geox U KAVEN A  Scarpe da Ginnastica Basse Uomo  Bianco  Papyrus/White C1S1Z   42 EU](https://www.amazon.it/dp/B07DJ2PSPY/?tag=tolees00-21) con il prezzo 50.0 EUR (originale: 99.9 EUR) 49.95 % sconto qui:
 
-[![Geox U KAVEN A  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/317lqqNtv0L._SL200_.jpg)](https://www.amazon.it/dp/B07DJ2PSPY/?tag=tolees00-21)
+[![Geox U KAVEN A  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/317lqqNtv0L._SL400_.jpg)](https://www.amazon.it/dp/B07DJ2PSPY/?tag=tolees00-21)
 
 ℹ️:
 

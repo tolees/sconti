@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 30.01 % su Xiaomi Desk Lamp 1S  Lampada Smart a LED  '
 date: 2020-08-27 16:41:15
-image: 'https://m.media-amazon.com/images/I/21GUgKyplvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21GUgKyplvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 [Xiaomi Desk Lamp 1S  Lampada Smart a LED da Scrivania  4 Modalità di Luce  Temperatura Colore Regolabile  Controllabile in Remoto](https://www.amazon.it/dp/B07XHCDR3M/?tag=tolees00-21) ha un prezzo di 34.99 EUR (originale: 49.99 EUR) con uno sconto del 30.01 % sconto qui:
 
-[![Xiaomi Desk Lamp 1S  Lampada Smart a LED](https://m.media-amazon.com/images/I/21GUgKyplvL._SL200_.jpg)](https://www.amazon.it/dp/B07XHCDR3M/?tag=tolees00-21)
+[![Xiaomi Desk Lamp 1S  Lampada Smart a LED](https://m.media-amazon.com/images/I/21GUgKyplvL._SL400_.jpg)](https://www.amazon.it/dp/B07XHCDR3M/?tag=tolees00-21)
 
 ℹ️:
 

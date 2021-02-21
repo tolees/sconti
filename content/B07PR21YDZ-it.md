@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 66.81 % su Lark & Ro Stretch Poplin 3/4 Sleeve Shir  '
 date: 2020-10-10 17:01:15
-image: 'https://m.media-amazon.com/images/I/31qZ6160pwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qZ6160pwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.02'
 
 [Lark & Ro Stretch Poplin 3/4 Sleeve Shirt Dress-Shirts  French Blue  US 2  EU XS - S ](https://www.amazon.it/dp/B07PR21YDZ/?tag=tolees00-21) ha un prezzo di 7.02 EUR (originale: 21.15 EUR) con uno sconto del 66.81 % sconto qui:
 
-[![Lark & Ro Stretch Poplin 3/4 Sleeve Shir](https://m.media-amazon.com/images/I/31qZ6160pwL._SL200_.jpg)](https://www.amazon.it/dp/B07PR21YDZ/?tag=tolees00-21)
+[![Lark & Ro Stretch Poplin 3/4 Sleeve Shir](https://m.media-amazon.com/images/I/31qZ6160pwL._SL400_.jpg)](https://www.amazon.it/dp/B07PR21YDZ/?tag=tolees00-21)
 
 ℹ️:
 

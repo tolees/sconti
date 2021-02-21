@@ -2,7 +2,7 @@
 layout: post
 title: 'Ocean S Eight  4K+Br  al 60.72 % di sconto'
 date: 2020-09-22 20:27:34
-image: 'https://m.media-amazon.com/images/I/51Vf-DTvVsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Vf-DTvVsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.78'
 
 Puoi trovare [Ocean S Eight  4K+Br ](https://www.amazon.it/dp/B07G496PFW/?tag=tolees00-21) con il prezzo 11.78 EUR (originale: 29.99 EUR) 60.72 % sconto qui:
 
-[![Ocean S Eight  4K+Br ](https://m.media-amazon.com/images/I/51Vf-DTvVsL._SL200_.jpg)](https://www.amazon.it/dp/B07G496PFW/?tag=tolees00-21)
+[![Ocean S Eight  4K+Br ](https://m.media-amazon.com/images/I/51Vf-DTvVsL._SL400_.jpg)](https://www.amazon.it/dp/B07G496PFW/?tag=tolees00-21)
 
 ℹ️:
 

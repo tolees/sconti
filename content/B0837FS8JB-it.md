@@ -2,7 +2,7 @@
 layout: post
 title: 'Fast & Furious Crossroads - Xbox One [Ed al 15.12 % di sconto'
 date: 2020-08-19 16:30:11
-image: 'https://m.media-amazon.com/images/I/51s1ERi9xAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51s1ERi9xAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.1'
 
 Puoi trovare [Fast & Furious Crossroads - Xbox One [Edizione: Regno Unito]](https://www.amazon.it/dp/B0837FS8JB/?tag=tolees00-21) con il prezzo 51.69 EUR (originale: 60.9 EUR) 15.12 % sconto qui:
 
-[![Fast & Furious Crossroads - Xbox One [Ed](https://m.media-amazon.com/images/I/51s1ERi9xAL._SL200_.jpg)](https://www.amazon.it/dp/B0837FS8JB/?tag=tolees00-21)
+[![Fast & Furious Crossroads - Xbox One [Ed](https://m.media-amazon.com/images/I/51s1ERi9xAL._SL400_.jpg)](https://www.amazon.it/dp/B0837FS8JB/?tag=tolees00-21)
 
 ℹ️:
 

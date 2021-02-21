@@ -2,7 +2,7 @@
 layout: post
 title: 'Eridania Zucchero Tropical Bustine Gr500 al 40.80 % di sconto'
 date: 2020-07-22 11:45:19
-image: 'https://m.media-amazon.com/images/I/51qsOVlUTYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qsOVlUTYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.19'
 
 Puoi trovare [Eridania Zucchero Tropical Bustine Gr500](https://www.amazon.it/dp/B00ABJSODK/?tag=tolees00-21) con il prezzo 1.19 EUR (originale: 2.01 EUR) 40.80 % sconto qui:
 
-[![Eridania Zucchero Tropical Bustine Gr500](https://m.media-amazon.com/images/I/51qsOVlUTYL._SL200_.jpg)](https://www.amazon.it/dp/B00ABJSODK/?tag=tolees00-21)
+[![Eridania Zucchero Tropical Bustine Gr500](https://m.media-amazon.com/images/I/51qsOVlUTYL._SL400_.jpg)](https://www.amazon.it/dp/B00ABJSODK/?tag=tolees00-21)
 
 ℹ️:
 

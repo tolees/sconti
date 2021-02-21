@@ -2,7 +2,7 @@
 layout: post
 title: 'ORZLY® Gaming Keyboard And Mouse And Mou al 24.64 % di sconto'
 date: 2020-08-18 10:27:11
-image: 'https://m.media-amazon.com/images/I/51nFndZubJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nFndZubJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.83'
 
 Puoi trovare [ORZLY® Gaming Keyboard And Mouse And Mouse Pad And Gaming Headset  Wired LED RGB Backlight Bundle for PC Gamers And Xbox And PS4 Users - 4 in 1 Gift Box Edition Hornet RX-250](https://www.amazon.it/dp/B07V4NWHN4/?tag=tolees00-21) con il prezzo 59.83 EUR (originale: 79.39 EUR) 24.64 % sconto qui:
 
-[![ORZLY® Gaming Keyboard And Mouse And Mou](https://m.media-amazon.com/images/I/51nFndZubJL._SL200_.jpg)](https://www.amazon.it/dp/B07V4NWHN4/?tag=tolees00-21)
+[![ORZLY® Gaming Keyboard And Mouse And Mou](https://m.media-amazon.com/images/I/51nFndZubJL._SL400_.jpg)](https://www.amazon.it/dp/B07V4NWHN4/?tag=tolees00-21)
 
 ℹ️:
 

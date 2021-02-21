@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 35.36 % su Puma Flyer Runner  Scarpe da Corsa Unise  '
 date: 2020-08-19 07:21:54
-image: 'https://m.media-amazon.com/images/I/31soPwUIW5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31soPwUIW5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.29'
 
 [Puma Flyer Runner  Scarpe da Corsa Unisex-Adulto  Bianco White Black 24  46 EU](https://www.amazon.it/dp/B07S9RYPZX/?tag=tolees00-21) ha un prezzo di 32.29 EUR (originale: 49.95 EUR) con uno sconto del 35.36 % sconto qui:
 
-[![Puma Flyer Runner  Scarpe da Corsa Unise](https://m.media-amazon.com/images/I/31soPwUIW5L._SL200_.jpg)](https://www.amazon.it/dp/B07S9RYPZX/?tag=tolees00-21)
+[![Puma Flyer Runner  Scarpe da Corsa Unise](https://m.media-amazon.com/images/I/31soPwUIW5L._SL400_.jpg)](https://www.amazon.it/dp/B07S9RYPZX/?tag=tolees00-21)
 
 ℹ️:
 

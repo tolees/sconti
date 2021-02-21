@@ -2,7 +2,7 @@
 layout: post
 title: 'Cressi Water Shoes Scarpette per Sport A al 20.00 % di sconto'
 date: 2020-09-01 13:29:01
-image: 'https://m.media-amazon.com/images/I/41ZNPNntpZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZNPNntpZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.96'
 
 Puoi trovare [Cressi Water Shoes Scarpette per Sport Acquatici  Adulti e Bambini  Acquamarina  40](https://www.amazon.it/dp/B000O66LJO/?tag=tolees00-21) con il prezzo 9.96 EUR (originale: 12.45 EUR) 20.00 % sconto qui:
 
-[![Cressi Water Shoes Scarpette per Sport A](https://m.media-amazon.com/images/I/41ZNPNntpZL._SL200_.jpg)](https://www.amazon.it/dp/B000O66LJO/?tag=tolees00-21)
+[![Cressi Water Shoes Scarpette per Sport A](https://m.media-amazon.com/images/I/41ZNPNntpZL._SL400_.jpg)](https://www.amazon.it/dp/B000O66LJO/?tag=tolees00-21)
 
 ℹ️:
 

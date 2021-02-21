@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 41.40 % su Vans Ward Platform  Scarpe da Ginnastica  '
 date: 2020-09-28 13:32:39
-image: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.95'
 
 [Vans Ward Platform  Scarpe da Ginnastica Donna  Canvas Black/White 187  37 EU](https://www.amazon.it/dp/B07BN1QW7F/?tag=tolees00-21) ha un prezzo di 43.95 EUR (originale: 75.0 EUR) con uno sconto del 41.40 % sconto qui:
 
-[![Vans Ward Platform  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg)](https://www.amazon.it/dp/B07BN1QW7F/?tag=tolees00-21)
+[![Vans Ward Platform  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/417lQMBt12L._SL400_.jpg)](https://www.amazon.it/dp/B07BN1QW7F/?tag=tolees00-21)
 
 ℹ️:
 

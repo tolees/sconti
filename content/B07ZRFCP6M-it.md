@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Lin Duffle M  Borsa Sportiva Unis al 20.03 % di sconto'
 date: 2020-10-11 13:28:41
-image: 'https://m.media-amazon.com/images/I/41-gqZCBbcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-gqZCBbcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.95'
 
 Puoi trovare [adidas Lin Duffle M  Borsa Sportiva Unisex – Adulto  Legend Ink/Tech Indigo/White  Taglia Unica](https://www.amazon.it/dp/B07ZRFCP6M/?tag=tolees00-21) con il prezzo 23.95 EUR (originale: 29.95 EUR) 20.03 % sconto qui:
 
-[![adidas Lin Duffle M  Borsa Sportiva Unis](https://m.media-amazon.com/images/I/41-gqZCBbcL._SL200_.jpg)](https://www.amazon.it/dp/B07ZRFCP6M/?tag=tolees00-21)
+[![adidas Lin Duffle M  Borsa Sportiva Unis](https://m.media-amazon.com/images/I/41-gqZCBbcL._SL400_.jpg)](https://www.amazon.it/dp/B07ZRFCP6M/?tag=tolees00-21)
 
 ℹ️:
 

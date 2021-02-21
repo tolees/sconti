@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 51.29 % su HUAWEI Watch GT Smartwatch  Touchscreen   '
 date: 2020-07-18 09:12:33
-image: 'https://m.media-amazon.com/images/I/51NmLjdi0hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NmLjdi0hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '96.22'
 
 [HUAWEI Watch GT Smartwatch  Touchscreen 1.39"  Bluetooth 4.2  Autonomia Batteria fino a 2 Settimane  Impermeabile 5 ATM  GPS  TruSeen 3.0 Monitoraggio della Frequenza Cardiaca  Nero Graphite Black](https://www.amazon.it/dp/B07H4Y9PG7/?tag=tolees00-21) ha un prezzo di 96.22 EUR (originale: 197.54 EUR) con uno sconto del 51.29 % sconto qui:
 
-[![HUAWEI Watch GT Smartwatch  Touchscreen ](https://m.media-amazon.com/images/I/51NmLjdi0hL._SL200_.jpg)](https://www.amazon.it/dp/B07H4Y9PG7/?tag=tolees00-21)
+[![HUAWEI Watch GT Smartwatch  Touchscreen ](https://m.media-amazon.com/images/I/51NmLjdi0hL._SL400_.jpg)](https://www.amazon.it/dp/B07H4Y9PG7/?tag=tolees00-21)
 
 ℹ️:
 

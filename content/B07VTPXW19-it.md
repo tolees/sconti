@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 36.85 % su Lacoste L1212 Polo  ALIZARINE  S Uomo  '
 date: 2020-10-07 08:09:55
-image: 'https://m.media-amazon.com/images/I/416IAoWR8eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416IAoWR8eL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 [Lacoste L1212 Polo  ALIZARINE  S Uomo](https://www.amazon.it/dp/B07VTPXW19/?tag=tolees00-21) ha un prezzo di 59.99 EUR (originale: 95.0 EUR) con uno sconto del 36.85 % sconto qui:
 
-[![Lacoste L1212 Polo  ALIZARINE  S Uomo](https://m.media-amazon.com/images/I/416IAoWR8eL._SL200_.jpg)](https://www.amazon.it/dp/B07VTPXW19/?tag=tolees00-21)
+[![Lacoste L1212 Polo  ALIZARINE  S Uomo](https://m.media-amazon.com/images/I/416IAoWR8eL._SL400_.jpg)](https://www.amazon.it/dp/B07VTPXW19/?tag=tolees00-21)
 
 ℹ️:
 

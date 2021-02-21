@@ -2,7 +2,7 @@
 layout: post
 title: 'Pasante  Profilattici Extra Sensitive  1 al 15.56 % di sconto'
 date: 2020-08-28 12:17:53
-image: 'https://m.media-amazon.com/images/I/41SnvX1aF4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SnvX1aF4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.61'
 
 Puoi trovare [Pasante  Profilattici Extra Sensitive  144 Pezzi](https://www.amazon.it/dp/B00DAGWUZ4/?tag=tolees00-21) con il prezzo 18.61 EUR (originale: 22.04 EUR) 15.56 % sconto qui:
 
-[![Pasante  Profilattici Extra Sensitive  1](https://m.media-amazon.com/images/I/41SnvX1aF4L._SL200_.jpg)](https://www.amazon.it/dp/B00DAGWUZ4/?tag=tolees00-21)
+[![Pasante  Profilattici Extra Sensitive  1](https://m.media-amazon.com/images/I/41SnvX1aF4L._SL400_.jpg)](https://www.amazon.it/dp/B00DAGWUZ4/?tag=tolees00-21)
 
 ℹ️:
 

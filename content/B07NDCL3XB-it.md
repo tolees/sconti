@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 17.65 % su Nacon Revolution Unlimited Pro Controlle  '
 date: 2020-09-13 08:04:18
-image: 'https://m.media-amazon.com/images/I/41aml4aGlhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aml4aGlhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '124.42'
 
 [Nacon Revolution Unlimited Pro Controller - Playstation 4](https://www.amazon.it/dp/B07NDCL3XB/?tag=tolees00-21) ha un prezzo di 139.99 EUR (originale: 169.99 EUR) con uno sconto del 17.65 % sconto qui:
 
-[![Nacon Revolution Unlimited Pro Controlle](https://m.media-amazon.com/images/I/41aml4aGlhL._SL200_.jpg)](https://www.amazon.it/dp/B07NDCL3XB/?tag=tolees00-21)
+[![Nacon Revolution Unlimited Pro Controlle](https://m.media-amazon.com/images/I/41aml4aGlhL._SL400_.jpg)](https://www.amazon.it/dp/B07NDCL3XB/?tag=tolees00-21)
 
 ℹ️:
 

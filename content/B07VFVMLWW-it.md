@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 60.00 % su Calvin Klein Embroidery Regular Short Sh  '
 date: 2020-08-26 14:03:58
-image: 'https://m.media-amazon.com/images/I/312fuVHp3QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312fuVHp3QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.96'
 
 [Calvin Klein Embroidery Regular Short Shorts  Nero  CK Black Bae   42  Taglia Produttore: Medium  Donna](https://www.amazon.it/dp/B07VFVMLWW/?tag=tolees00-21) ha un prezzo di 23.96 EUR (originale: 59.9 EUR) con uno sconto del 60.00 % sconto qui:
 
-[![Calvin Klein Embroidery Regular Short Sh](https://m.media-amazon.com/images/I/312fuVHp3QL._SL200_.jpg)](https://www.amazon.it/dp/B07VFVMLWW/?tag=tolees00-21)
+[![Calvin Klein Embroidery Regular Short Sh](https://m.media-amazon.com/images/I/312fuVHp3QL._SL400_.jpg)](https://www.amazon.it/dp/B07VFVMLWW/?tag=tolees00-21)
 
 ℹ️:
 

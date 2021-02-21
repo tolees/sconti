@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Smash V2  Sneakers Unisex-Adulto  N al 34.58 % di sconto'
 date: 2020-08-06 15:28:12
-image: 'https://m.media-amazon.com/images/I/41f+govlM7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f+govlM7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.95'
 
 Puoi trovare [PUMA Smash V2  Sneakers Unisex-Adulto  Nero Black/Hot Coral Team Gold White  38 EU](https://www.amazon.it/dp/B07S7QW6PX/?tag=tolees00-21) con il prezzo 35.95 EUR (originale: 54.95 EUR) 34.58 % sconto qui:
 
-[![PUMA Smash V2  Sneakers Unisex-Adulto  N](https://m.media-amazon.com/images/I/41f+govlM7L._SL200_.jpg)](https://www.amazon.it/dp/B07S7QW6PX/?tag=tolees00-21)
+[![PUMA Smash V2  Sneakers Unisex-Adulto  N](https://m.media-amazon.com/images/I/41f+govlM7L._SL400_.jpg)](https://www.amazon.it/dp/B07S7QW6PX/?tag=tolees00-21)
 
 ℹ️:
 

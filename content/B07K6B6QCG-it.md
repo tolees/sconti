@@ -2,7 +2,7 @@
 layout: post
 title: 'DADYPET Fontanella per Gatti  Fontana pe al 40.01 % di sconto'
 date: 2020-08-17 15:49:27
-image: 'https://m.media-amazon.com/images/I/41XXydYK11L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XXydYK11L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Puoi trovare [DADYPET Fontanella per Gatti  Fontana per Cani e Gatti  Distributore Automatico e Silenzioso di Acqua per Gatti  Filtro Sostituibile  con Due Filtri a Carboni Attivi  2.8L ](https://www.amazon.it/dp/B07K6B6QCG/?tag=tolees00-21) con il prezzo 29.99 EUR (originale: 49.99 EUR) 40.01 % sconto qui:
 
-[![DADYPET Fontanella per Gatti  Fontana pe](https://m.media-amazon.com/images/I/41XXydYK11L._SL200_.jpg)](https://www.amazon.it/dp/B07K6B6QCG/?tag=tolees00-21)
+[![DADYPET Fontanella per Gatti  Fontana pe](https://m.media-amazon.com/images/I/41XXydYK11L._SL400_.jpg)](https://www.amazon.it/dp/B07K6B6QCG/?tag=tolees00-21)
 
 ℹ️:
 

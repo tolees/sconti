@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 22.82 % su Birra Peroni - Cassa da 24 x 33 lattine   '
 date: 2020-09-27 09:32:58
-image: 'https://m.media-amazon.com/images/I/41BD89+ZI7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BD89+ZI7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.273333333333333'
 
 [Birra Peroni - Cassa da 24 x 33 lattine  cl  7.92 litri ](https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21) ha un prezzo di 13.8 EUR (originale: 17.88 EUR) con uno sconto del 22.82 % sconto qui:
 
-[![Birra Peroni - Cassa da 24 x 33 lattine ](https://m.media-amazon.com/images/I/41BD89+ZI7L._SL200_.jpg)](https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21)
+[![Birra Peroni - Cassa da 24 x 33 lattine ](https://m.media-amazon.com/images/I/41BD89+ZI7L._SL400_.jpg)](https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21)
 
 ℹ️:
 

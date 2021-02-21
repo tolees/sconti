@@ -2,7 +2,7 @@
 layout: post
 title: 'AIA Wudy Classico 3 Wurstel di Pollo e T al 45.64 % di sconto'
 date: 2020-09-14 06:53:05
-image: 'https://m.media-amazon.com/images/I/518xh2BBk+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518xh2BBk+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.81'
 
 Puoi trovare [AIA Wudy Classico 3 Wurstel di Pollo e Tacchino  250 gr](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21) con il prezzo 0.81 EUR (originale: 1.49 EUR) 45.64 % sconto qui:
 
-[![AIA Wudy Classico 3 Wurstel di Pollo e T](https://m.media-amazon.com/images/I/518xh2BBk+L._SL200_.jpg)](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21)
+[![AIA Wudy Classico 3 Wurstel di Pollo e T](https://m.media-amazon.com/images/I/518xh2BBk+L._SL400_.jpg)](https://www.amazon.it/dp/B007MCT2QC/?tag=tolees00-21)
 
 ℹ️:
 

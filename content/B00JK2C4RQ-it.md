@@ -2,7 +2,7 @@
 layout: post
 title: 'Eda Plastiques - 13731 BR.T SX1 - Volcan al 18.40 % di sconto'
 date: 2020-09-24 07:55:13
-image: 'https://m.media-amazon.com/images/I/31HjSYFNjwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31HjSYFNjwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.13333333333333'
 
 Puoi trovare [Eda Plastiques - 13731 BR.T SX1 - Volcania  Fioriera in plastica  100 x 40 x 40 cm  Colore: Grigio  Anthrazit ](https://www.amazon.it/dp/B00JK2C4RQ/?tag=tolees00-21) con il prezzo 58.2 EUR (originale: 71.32 EUR) 18.40 % sconto qui:
 
-[![Eda Plastiques - 13731 BR.T SX1 - Volcan](https://m.media-amazon.com/images/I/31HjSYFNjwL._SL200_.jpg)](https://www.amazon.it/dp/B00JK2C4RQ/?tag=tolees00-21)
+[![Eda Plastiques - 13731 BR.T SX1 - Volcan](https://m.media-amazon.com/images/I/31HjSYFNjwL._SL400_.jpg)](https://www.amazon.it/dp/B00JK2C4RQ/?tag=tolees00-21)
 
 ℹ️:
 

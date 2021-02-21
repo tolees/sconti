@@ -2,7 +2,7 @@
 layout: post
 title: 'SGILE Macchina Telecomandata per Bambini al 15.01 % di sconto'
 date: 2020-09-30 20:01:46
-image: 'https://m.media-amazon.com/images/I/51XNWIVcRaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XNWIVcRaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.09'
 
 Puoi trovare [SGILE Macchina Telecomandata per Bambini  4WD Auto Telecomandata con Batteria Ricaricabile  RC Macchina Acronazia Rotazione a 360 Gradi Regalo](https://www.amazon.it/dp/B08BTH9WQ4/?tag=tolees00-21) con il prezzo 22.09 EUR (originale: 25.99 EUR) 15.01 % sconto qui:
 
-[![SGILE Macchina Telecomandata per Bambini](https://m.media-amazon.com/images/I/51XNWIVcRaL._SL200_.jpg)](https://www.amazon.it/dp/B08BTH9WQ4/?tag=tolees00-21)
+[![SGILE Macchina Telecomandata per Bambini](https://m.media-amazon.com/images/I/51XNWIVcRaL._SL400_.jpg)](https://www.amazon.it/dp/B08BTH9WQ4/?tag=tolees00-21)
 
 ℹ️:
 

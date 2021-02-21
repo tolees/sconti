@@ -2,7 +2,7 @@
 layout: post
 title: 'Sherlock - Complete Series 1-3  6 Dvd  [ al 18.21 % di sconto'
 date: 2020-09-13 11:38:20
-image: 'https://m.media-amazon.com/images/I/417WUDq8r1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417WUDq8r1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.38'
 
 Puoi trovare [Sherlock - Complete Series 1-3  6 Dvd  [Edizione: Regno Unito] [Edizione: Regno Unito]](https://www.amazon.it/dp/B00DSJYERA/?tag=tolees00-21) con il prezzo 6.38 EUR (originale: 7.8 EUR) 18.21 % sconto qui:
 
-[![Sherlock - Complete Series 1-3  6 Dvd  [](https://m.media-amazon.com/images/I/417WUDq8r1L._SL200_.jpg)](https://www.amazon.it/dp/B00DSJYERA/?tag=tolees00-21)
+[![Sherlock - Complete Series 1-3  6 Dvd  [](https://m.media-amazon.com/images/I/417WUDq8r1L._SL400_.jpg)](https://www.amazon.it/dp/B00DSJYERA/?tag=tolees00-21)
 
 ℹ️:
 

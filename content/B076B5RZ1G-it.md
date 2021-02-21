@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 33.10 % su Havaianas Brasil Logo 4110850  Infradito  '
 date: 2020-09-25 06:43:49
-image: 'https://m.media-amazon.com/images/I/31aPeDVh3mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aPeDVh3mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.47780487804878'
 
 [Havaianas Brasil Logo 4110850  Infradito Unisex Adulto  Nero  Black Preto   43/44 EU](https://www.amazon.it/dp/B076B5RZ1G/?tag=tolees00-21) ha un prezzo di 15.99 EUR (originale: 23.9 EUR) con uno sconto del 33.10 % sconto qui:
 
-[![Havaianas Brasil Logo 4110850  Infradito](https://m.media-amazon.com/images/I/31aPeDVh3mL._SL200_.jpg)](https://www.amazon.it/dp/B076B5RZ1G/?tag=tolees00-21)
+[![Havaianas Brasil Logo 4110850  Infradito](https://m.media-amazon.com/images/I/31aPeDVh3mL._SL400_.jpg)](https://www.amazon.it/dp/B076B5RZ1G/?tag=tolees00-21)
 
 ℹ️:
 

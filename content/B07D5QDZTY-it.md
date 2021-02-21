@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 66.41 % su GPC Image Cartucce Toner Compatibili per  '
 date: 2020-10-09 07:01:40
-image: 'https://m.media-amazon.com/images/I/51GPl75DdAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GPl75DdAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.44'
 
 [GPC Image Cartucce Toner Compatibili per HP CF244A 44A Con Chip per HP LaserJet Pro M15a  M15w  MFP M28a  MFP M28w Stampante  1 Nero ](https://www.amazon.it/dp/B07D5QDZTY/?tag=tolees00-21) ha un prezzo di 14.44 EUR (originale: 42.99 EUR) con uno sconto del 66.41 % sconto qui:
 
-[![GPC Image Cartucce Toner Compatibili per](https://m.media-amazon.com/images/I/51GPl75DdAL._SL200_.jpg)](https://www.amazon.it/dp/B07D5QDZTY/?tag=tolees00-21)
+[![GPC Image Cartucce Toner Compatibili per](https://m.media-amazon.com/images/I/51GPl75DdAL._SL400_.jpg)](https://www.amazon.it/dp/B07D5QDZTY/?tag=tolees00-21)
 
 ℹ️:
 

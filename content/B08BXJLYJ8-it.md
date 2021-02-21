@@ -2,7 +2,7 @@
 layout: post
 title: 'Lysoform On the Go Gel Detergente Igieni al 40.08 % di sconto'
 date: 2020-09-16 10:05:40
-image: 'https://m.media-amazon.com/images/I/41hQ5JoIEjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hQ5JoIEjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 Puoi trovare [Lysoform On the Go Gel Detergente Igienizzante Mani  100 ml](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21) con il prezzo 2.99 EUR (originale: 4.99 EUR) 40.08 % sconto qui:
 
-[![Lysoform On the Go Gel Detergente Igieni](https://m.media-amazon.com/images/I/41hQ5JoIEjL._SL200_.jpg)](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21)
+[![Lysoform On the Go Gel Detergente Igieni](https://m.media-amazon.com/images/I/41hQ5JoIEjL._SL400_.jpg)](https://www.amazon.it/dp/B08BXJLYJ8/?tag=tolees00-21)
 
 ℹ️:
 

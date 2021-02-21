@@ -2,7 +2,7 @@
 layout: post
 title: 'Sigikid 49520 - Gioco di birilli con 6 f al 32.53 % di sconto'
 date: 2020-10-07 21:49:19
-image: 'https://m.media-amazon.com/images/I/51EuiHHyrqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EuiHHyrqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.98'
 
 Puoi trovare [Sigikid 49520 - Gioco di birilli con 6 figure di animali  Multicolore](https://www.amazon.it/dp/B0002HXPA8/?tag=tolees00-21) con il prezzo 26.98 EUR (originale: 39.99 EUR) 32.53 % sconto qui:
 
-[![Sigikid 49520 - Gioco di birilli con 6 f](https://m.media-amazon.com/images/I/51EuiHHyrqL._SL200_.jpg)](https://www.amazon.it/dp/B0002HXPA8/?tag=tolees00-21)
+[![Sigikid 49520 - Gioco di birilli con 6 f](https://m.media-amazon.com/images/I/51EuiHHyrqL._SL400_.jpg)](https://www.amazon.it/dp/B0002HXPA8/?tag=tolees00-21)
 
 ℹ️:
 

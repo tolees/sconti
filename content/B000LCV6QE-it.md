@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Orologio Digitale Quarzo Uomo con  al 60.18 % di sconto'
 date: 2020-08-04 18:50:46
-image: 'https://m.media-amazon.com/images/I/41WdVCZ5zbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WdVCZ5zbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.5'
 
 Puoi trovare [Casio Orologio Digitale Quarzo Uomo con Cinturino in Acciaio Inox DB-360N-1AEF](https://www.amazon.it/dp/B000LCV6QE/?tag=tolees00-21) con il prezzo 31.5 EUR (originale: 79.11 EUR) 60.18 % sconto qui:
 
-[![Casio Orologio Digitale Quarzo Uomo con ](https://m.media-amazon.com/images/I/41WdVCZ5zbL._SL200_.jpg)](https://www.amazon.it/dp/B000LCV6QE/?tag=tolees00-21)
+[![Casio Orologio Digitale Quarzo Uomo con ](https://m.media-amazon.com/images/I/41WdVCZ5zbL._SL400_.jpg)](https://www.amazon.it/dp/B000LCV6QE/?tag=tolees00-21)
 
 ℹ️:
 

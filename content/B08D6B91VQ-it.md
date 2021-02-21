@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.00 % su Roero Arneis DOCG Sabaudo 2019 0 75 L  '
 date: 2020-09-24 07:53:50
-image: 'https://m.media-amazon.com/images/I/310I3K410WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310I3K410WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.8'
 
 [Roero Arneis DOCG Sabaudo 2019 0 75 L](https://www.amazon.it/dp/B08D6B91VQ/?tag=tolees00-21) ha un prezzo di 8.8 EUR (originale: 11.0 EUR) con uno sconto del 20.00 % sconto qui:
 
-[![Roero Arneis DOCG Sabaudo 2019 0 75 L](https://m.media-amazon.com/images/I/310I3K410WL._SL200_.jpg)](https://www.amazon.it/dp/B08D6B91VQ/?tag=tolees00-21)
+[![Roero Arneis DOCG Sabaudo 2019 0 75 L](https://m.media-amazon.com/images/I/310I3K410WL._SL400_.jpg)](https://www.amazon.it/dp/B08D6B91VQ/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 19.37 % su Herschel 10020-00919 Little America Mid-  '
 date: 2020-10-11 06:34:41
-image: 'https://m.media-amazon.com/images/I/41On6pTSutL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41On6pTSutL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '88.68'
 
 [Herschel 10020-00919 Little America Mid-Volume Raven Crosshatch/Black](https://www.amazon.it/dp/B01GDS3GGW/?tag=tolees00-21) ha un prezzo di 88.68 EUR (originale: 109.99 EUR) con uno sconto del 19.37 % sconto qui:
 
-[![Herschel 10020-00919 Little America Mid-](https://m.media-amazon.com/images/I/41On6pTSutL._SL200_.jpg)](https://www.amazon.it/dp/B01GDS3GGW/?tag=tolees00-21)
+[![Herschel 10020-00919 Little America Mid-](https://m.media-amazon.com/images/I/41On6pTSutL._SL400_.jpg)](https://www.amazon.it/dp/B01GDS3GGW/?tag=tolees00-21)
 
 ℹ️:
 

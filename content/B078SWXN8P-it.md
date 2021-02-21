@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Capri Sunset Wedge  Sandali D al 60.05 % di sconto'
 date: 2020-07-22 06:52:40
-image: 'https://m.media-amazon.com/images/I/41A-1hndRTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A-1hndRTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Puoi trovare [Timberland Capri Sunset Wedge  Sandali Donna  Nero Black Nubuck  38 EU](https://www.amazon.it/dp/B078SWXN8P/?tag=tolees00-21) con il prezzo 39.95 EUR (originale: 100.0 EUR) 60.05 % sconto qui:
 
-[![Timberland Capri Sunset Wedge  Sandali D](https://m.media-amazon.com/images/I/41A-1hndRTL._SL200_.jpg)](https://www.amazon.it/dp/B078SWXN8P/?tag=tolees00-21)
+[![Timberland Capri Sunset Wedge  Sandali D](https://m.media-amazon.com/images/I/41A-1hndRTL._SL400_.jpg)](https://www.amazon.it/dp/B078SWXN8P/?tag=tolees00-21)
 
 ℹ️:
 

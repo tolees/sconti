@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 51.89 % su Lampada Portatile UVC Germicida Lampada   '
 date: 2020-09-12 12:05:23
-image: 'https://m.media-amazon.com/images/I/31mcI6y-YLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mcI6y-YLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.98'
 
 [Lampada Portatile UVC Germicida Lampada UV Sterilizzazione Senza Prodotti Chimici per Mascherare Telefono Hotel](https://www.amazon.it/dp/B085DHSJ65/?tag=tolees00-21) ha un prezzo di 12.98 EUR (originale: 26.98 EUR) con uno sconto del 51.89 % sconto qui:
 
-[![Lampada Portatile UVC Germicida Lampada ](https://m.media-amazon.com/images/I/31mcI6y-YLL._SL200_.jpg)](https://www.amazon.it/dp/B085DHSJ65/?tag=tolees00-21)
+[![Lampada Portatile UVC Germicida Lampada ](https://m.media-amazon.com/images/I/31mcI6y-YLL._SL400_.jpg)](https://www.amazon.it/dp/B085DHSJ65/?tag=tolees00-21)
 
 ℹ️:
 

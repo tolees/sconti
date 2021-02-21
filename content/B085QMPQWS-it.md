@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 30.67 % su Hitachi TV LED 32" 80 01 cm Full HD con   '
 date: 2020-08-07 17:32:39
-image: 'https://m.media-amazon.com/images/I/51IX16+ZvRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IX16+ZvRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '293.945'
 
 [Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV: Netflix  Youtube  Prime/WiFi/Bluetooth/3 HDMI/PC/USB](https://www.amazon.it/dp/B085QMPQWS/?tag=tolees00-21) ha un prezzo di 293.86 EUR (originale: 423.88 EUR) con uno sconto del 30.67 % sconto qui:
 
-[![Hitachi TV LED 32" 80 01 cm Full HD con ](https://m.media-amazon.com/images/I/51IX16+ZvRL._SL200_.jpg)](https://www.amazon.it/dp/B085QMPQWS/?tag=tolees00-21)
+[![Hitachi TV LED 32" 80 01 cm Full HD con ](https://m.media-amazon.com/images/I/51IX16+ZvRL._SL400_.jpg)](https://www.amazon.it/dp/B085QMPQWS/?tag=tolees00-21)
 
 ℹ️:
 

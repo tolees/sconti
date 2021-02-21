@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 721 High Rise Skinny Jeans  Hyper al 68.89 % di sconto'
 date: 2020-09-19 13:25:29
-image: 'https://m.media-amazon.com/images/I/31z9tKXRL1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31z9tKXRL1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.0'
 
 Puoi trovare [Levi s 721 High Rise Skinny Jeans  Hyper Soft T2 Sepia Rose 0271  25W / 30L Donna](https://www.amazon.it/dp/B07TT6NJSP/?tag=tolees00-21) con il prezzo 28.0 EUR (originale: 90.0 EUR) 68.89 % sconto qui:
 
-[![Levi s 721 High Rise Skinny Jeans  Hyper](https://m.media-amazon.com/images/I/31z9tKXRL1L._SL200_.jpg)](https://www.amazon.it/dp/B07TT6NJSP/?tag=tolees00-21)
+[![Levi s 721 High Rise Skinny Jeans  Hyper](https://m.media-amazon.com/images/I/31z9tKXRL1L._SL400_.jpg)](https://www.amazon.it/dp/B07TT6NJSP/?tag=tolees00-21)
 
 ℹ️:
 

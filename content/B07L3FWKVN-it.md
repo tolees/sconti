@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 61.29 % su Tommy Hilfiger Dress Casual Leather Shoe  '
 date: 2020-09-04 15:36:44
-image: 'https://m.media-amazon.com/images/I/31-4P1x2KDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-4P1x2KDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.15'
 
 [Tommy Hilfiger Dress Casual Leather Shoe  Scarpe Stringate Oxford Uomo  Nero  Black 990   41 EU](https://www.amazon.it/dp/B07L3FWKVN/?tag=tolees00-21) ha un prezzo di 54.15 EUR (originale: 139.9 EUR) con uno sconto del 61.29 % sconto qui:
 
-[![Tommy Hilfiger Dress Casual Leather Shoe](https://m.media-amazon.com/images/I/31-4P1x2KDL._SL200_.jpg)](https://www.amazon.it/dp/B07L3FWKVN/?tag=tolees00-21)
+[![Tommy Hilfiger Dress Casual Leather Shoe](https://m.media-amazon.com/images/I/31-4P1x2KDL._SL400_.jpg)](https://www.amazon.it/dp/B07L3FWKVN/?tag=tolees00-21)
 
 ℹ️:
 

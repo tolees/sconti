@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 16.00 % su Tommy Hilfiger TH Men Quarter 2P  Calze   '
 date: 2020-09-24 16:09:38
-image: 'https://m.media-amazon.com/images/I/41963qgIOfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41963qgIOfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.4'
 
 [Tommy Hilfiger TH Men Quarter 2P  Calze Uomo  Blu  Jeans   43/46 - Confezione da 2](https://www.amazon.it/dp/B00FU4ZD5I/?tag=tolees00-21) ha un prezzo di 8.4 EUR (originale: 10.0 EUR) con uno sconto del 16.00 % sconto qui:
 
-[![Tommy Hilfiger TH Men Quarter 2P  Calze ](https://m.media-amazon.com/images/I/41963qgIOfL._SL200_.jpg)](https://www.amazon.it/dp/B00FU4ZD5I/?tag=tolees00-21)
+[![Tommy Hilfiger TH Men Quarter 2P  Calze ](https://m.media-amazon.com/images/I/41963qgIOfL._SL400_.jpg)](https://www.amazon.it/dp/B00FU4ZD5I/?tag=tolees00-21)
 
 ℹ️:
 

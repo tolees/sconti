@@ -2,7 +2,7 @@
 layout: post
 title: 'Pringles Pringles Original - 175 g al 40.89 % di sconto'
 date: 2020-09-23 11:31:33
-image: 'https://m.media-amazon.com/images/I/41cT5i445SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cT5i445SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.59'
 
 Puoi trovare [Pringles Pringles Original - 175 g](https://www.amazon.it/dp/B086L6TXTK/?tag=tolees00-21) con il prezzo 1.59 EUR (originale: 2.69 EUR) 40.89 % sconto qui:
 
-[![Pringles Pringles Original - 175 g](https://m.media-amazon.com/images/I/41cT5i445SL._SL200_.jpg)](https://www.amazon.it/dp/B086L6TXTK/?tag=tolees00-21)
+[![Pringles Pringles Original - 175 g](https://m.media-amazon.com/images/I/41cT5i445SL._SL400_.jpg)](https://www.amazon.it/dp/B086L6TXTK/?tag=tolees00-21)
 
 ℹ️:
 

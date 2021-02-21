@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.70 % su Calvin Klein Eternity Moment Eau de Parf  '
 date: 2020-10-07 13:53:56
-image: 'https://m.media-amazon.com/images/I/31BWLs9ZdzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BWLs9ZdzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.33'
 
 [Calvin Klein Eternity Moment Eau de Parfum  Donna  100 ml](https://www.amazon.it/dp/B000C1UBRO/?tag=tolees00-21) ha un prezzo di 24.33 EUR (originale: 30.68 EUR) con uno sconto del 20.70 % sconto qui:
 
-[![Calvin Klein Eternity Moment Eau de Parf](https://m.media-amazon.com/images/I/31BWLs9ZdzL._SL200_.jpg)](https://www.amazon.it/dp/B000C1UBRO/?tag=tolees00-21)
+[![Calvin Klein Eternity Moment Eau de Parf](https://m.media-amazon.com/images/I/31BWLs9ZdzL._SL400_.jpg)](https://www.amazon.it/dp/B000C1UBRO/?tag=tolees00-21)
 
 ℹ️:
 

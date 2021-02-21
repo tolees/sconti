@@ -2,7 +2,7 @@
 layout: post
 title: 'ASICS Patriot 11  Scarpe da Corsa Uomo   al 47.27 % di sconto'
 date: 2020-09-02 09:16:06
-image: 'https://m.media-amazon.com/images/I/41rjwjyKiJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rjwjyKiJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.95'
 
 Puoi trovare [ASICS Patriot 11  Scarpe da Corsa Uomo  Nero  Black/White 001   44 EU](https://www.amazon.it/dp/B07L346ZRD/?tag=tolees00-21) con il prezzo 32.95 EUR (originale: 62.49 EUR) 47.27 % sconto qui:
 
-[![ASICS Patriot 11  Scarpe da Corsa Uomo  ](https://m.media-amazon.com/images/I/41rjwjyKiJL._SL200_.jpg)](https://www.amazon.it/dp/B07L346ZRD/?tag=tolees00-21)
+[![ASICS Patriot 11  Scarpe da Corsa Uomo  ](https://m.media-amazon.com/images/I/41rjwjyKiJL._SL400_.jpg)](https://www.amazon.it/dp/B07L346ZRD/?tag=tolees00-21)
 
 ℹ️:
 

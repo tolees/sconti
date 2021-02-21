@@ -2,7 +2,7 @@
 layout: post
 title: 'Sony MDRAS210B Cuffie In-Ear Sportive  A al 50.05 % di sconto'
 date: 2020-08-25 09:25:11
-image: 'https://m.media-amazon.com/images/I/41zUw7YOXOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zUw7YOXOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Puoi trovare [Sony MDRAS210B Cuffie In-Ear Sportive  Archetti ad Anello Regolabili  Resistenti a Umidità e Spruzzi  Nero](https://www.amazon.it/dp/B01LDKH2PG/?tag=tolees00-21) con il prezzo 9.99 EUR (originale: 20.0 EUR) 50.05 % sconto qui:
 
-[![Sony MDRAS210B Cuffie In-Ear Sportive  A](https://m.media-amazon.com/images/I/41zUw7YOXOL._SL200_.jpg)](https://www.amazon.it/dp/B01LDKH2PG/?tag=tolees00-21)
+[![Sony MDRAS210B Cuffie In-Ear Sportive  A](https://m.media-amazon.com/images/I/41zUw7YOXOL._SL400_.jpg)](https://www.amazon.it/dp/B01LDKH2PG/?tag=tolees00-21)
 
 ℹ️:
 

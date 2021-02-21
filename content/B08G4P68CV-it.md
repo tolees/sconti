@@ -2,7 +2,7 @@
 layout: post
 title: 'DUDUKING Occhiali da Sole Ciclismo Polar al 41.70 % di sconto'
 date: 2020-09-23 00:49:52
-image: 'https://m.media-amazon.com/images/I/41hFWA2YxhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hFWA2YxhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.98'
 
 Puoi trovare [DUDUKING Occhiali da Sole Ciclismo Polarizzati Sportivi per Uomo e Donna con 5 Lenti Colorati Anti-UV Antivento Aviatore Specchio per Ciclismo Guida Pesca Running Golf Bici Moto](https://www.amazon.it/dp/B08G4P68CV/?tag=tolees00-21) con il prezzo 19.98 EUR (originale: 34.27 EUR) 41.70 % sconto qui:
 
-[![DUDUKING Occhiali da Sole Ciclismo Polar](https://m.media-amazon.com/images/I/41hFWA2YxhL._SL200_.jpg)](https://www.amazon.it/dp/B08G4P68CV/?tag=tolees00-21)
+[![DUDUKING Occhiali da Sole Ciclismo Polar](https://m.media-amazon.com/images/I/41hFWA2YxhL._SL400_.jpg)](https://www.amazon.it/dp/B08G4P68CV/?tag=tolees00-21)
 
 ℹ️:
 

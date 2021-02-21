@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.07 % su Funko- Pop Vinile: Film Gump-Forrest w/C  '
 date: 2020-09-27 13:55:33
-image: 'https://m.media-amazon.com/images/I/31U5qhbhG0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31U5qhbhG0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.472'
 
 [Funko- Pop Vinile: Film Gump-Forrest w/Chocolates Figura da Collezione  Multicolore  40206](https://www.amazon.it/dp/B07NSRSGPS/?tag=tolees00-21) ha un prezzo di 13.46 EUR (originale: 16.84 EUR) con uno sconto del 20.07 % sconto qui:
 
-[![Funko- Pop Vinile: Film Gump-Forrest w/C](https://m.media-amazon.com/images/I/31U5qhbhG0L._SL200_.jpg)](https://www.amazon.it/dp/B07NSRSGPS/?tag=tolees00-21)
+[![Funko- Pop Vinile: Film Gump-Forrest w/C](https://m.media-amazon.com/images/I/31U5qhbhG0L._SL400_.jpg)](https://www.amazon.it/dp/B07NSRSGPS/?tag=tolees00-21)
 
 ℹ️:
 

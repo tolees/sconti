@@ -2,7 +2,7 @@
 layout: post
 title: 'Havaianas Top  Infradito Unisex-Adulto   al 55.00 % di sconto'
 date: 2020-08-26 13:32:03
-image: 'https://m.media-amazon.com/images/I/31K4BLnNpYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31K4BLnNpYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.1'
 
 Puoi trovare [Havaianas Top  Infradito Unisex-Adulto  Bianco  White 0001   33/34 EU](https://www.amazon.it/dp/B0015Q2SYE/?tag=tolees00-21) con il prezzo 8.1 EUR (originale: 18.0 EUR) 55.00 % sconto qui:
 
-[![Havaianas Top  Infradito Unisex-Adulto  ](https://m.media-amazon.com/images/I/31K4BLnNpYL._SL200_.jpg)](https://www.amazon.it/dp/B0015Q2SYE/?tag=tolees00-21)
+[![Havaianas Top  Infradito Unisex-Adulto  ](https://m.media-amazon.com/images/I/31K4BLnNpYL._SL400_.jpg)](https://www.amazon.it/dp/B0015Q2SYE/?tag=tolees00-21)
 
 ℹ️:
 

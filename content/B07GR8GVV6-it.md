@@ -2,7 +2,7 @@
 layout: post
 title: 'Calvin Klein Core Institutional Logo Sli al 39.97 % di sconto'
 date: 2020-09-05 06:51:59
-image: 'https://m.media-amazon.com/images/I/41uz1aszbnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uz1aszbnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.97'
 
 Puoi trovare [Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero  CK Black 099   M Donna](https://www.amazon.it/dp/B07GR8GVV6/?tag=tolees00-21) con il prezzo 20.95 EUR (originale: 34.9 EUR) 39.97 % sconto qui:
 
-[![Calvin Klein Core Institutional Logo Sli](https://m.media-amazon.com/images/I/41uz1aszbnL._SL200_.jpg)](https://www.amazon.it/dp/B07GR8GVV6/?tag=tolees00-21)
+[![Calvin Klein Core Institutional Logo Sli](https://m.media-amazon.com/images/I/41uz1aszbnL._SL400_.jpg)](https://www.amazon.it/dp/B07GR8GVV6/?tag=tolees00-21)
 
 ℹ️:
 

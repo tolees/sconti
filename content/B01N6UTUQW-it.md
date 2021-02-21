@@ -2,7 +2,7 @@
 layout: post
 title: 'Sully  4K + Br + Dig.Copy  al 54.98 % di sconto'
 date: 2020-09-22 20:30:41
-image: 'https://m.media-amazon.com/images/I/51vmmw-BMeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vmmw-BMeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.5'
 
 Puoi trovare [Sully  4K + Br + Dig.Copy ](https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21) con il prezzo 13.5 EUR (originale: 29.99 EUR) 54.98 % sconto qui:
 
-[![Sully  4K + Br + Dig.Copy ](https://m.media-amazon.com/images/I/51vmmw-BMeL._SL200_.jpg)](https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21)
+[![Sully  4K + Br + Dig.Copy ](https://m.media-amazon.com/images/I/51vmmw-BMeL._SL400_.jpg)](https://www.amazon.it/dp/B01N6UTUQW/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Guanti usa e getta  in plastica  100 pez al 29.09 % di sconto'
 date: 2020-09-05 07:48:08
-image: 'https://m.media-amazon.com/images/I/51F8gTjSTAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51F8gTjSTAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.95'
 
 Puoi trovare [Guanti usa e getta  in plastica  100 pezzi  per uso alimentare  trasparenti  taglia L](https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21) con il prezzo 1.95 EUR (originale: 2.75 EUR) 29.09 % sconto qui:
 
-[![Guanti usa e getta  in plastica  100 pez](https://m.media-amazon.com/images/I/51F8gTjSTAL._SL200_.jpg)](https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21)
+[![Guanti usa e getta  in plastica  100 pez](https://m.media-amazon.com/images/I/51F8gTjSTAL._SL400_.jpg)](https://www.amazon.it/dp/B0734XLFDP/?tag=tolees00-21)
 
 ℹ️:
 

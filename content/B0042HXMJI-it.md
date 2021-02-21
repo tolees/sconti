@@ -2,7 +2,7 @@
 layout: post
 title: 'La Roche-Posay Lipikar Xerand Crema Mani al 42.92 % di sconto'
 date: 2020-10-02 16:27:44
-image: 'https://m.media-amazon.com/images/I/31tXSzByUrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tXSzByUrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Puoi trovare [La Roche-Posay Lipikar Xerand Crema Mani Riparatrice - 50 ml](https://www.amazon.it/dp/B0042HXMJI/?tag=tolees00-21) con il prezzo 3.99 EUR (originale: 6.99 EUR) 42.92 % sconto qui:
 
-[![La Roche-Posay Lipikar Xerand Crema Mani](https://m.media-amazon.com/images/I/31tXSzByUrL._SL200_.jpg)](https://www.amazon.it/dp/B0042HXMJI/?tag=tolees00-21)
+[![La Roche-Posay Lipikar Xerand Crema Mani](https://m.media-amazon.com/images/I/31tXSzByUrL._SL400_.jpg)](https://www.amazon.it/dp/B0042HXMJI/?tag=tolees00-21)
 
 ℹ️:
 

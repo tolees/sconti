@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 25.01 % su Lampada UV Aigostar Lampada sterilizzant  '
 date: 2020-10-07 07:15:40
-image: 'https://m.media-amazon.com/images/I/51qGe+Xzu4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qGe+Xzu4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 [Lampada UV Aigostar Lampada sterilizzante a raggi Ultravioletti UV  18 W  elimina batteri  acari e riduce l HCHO. Design a torre senza telecomando  fino a 40m²  uso interno. Colore nero.](https://www.amazon.it/dp/B0868CPZJ7/?tag=tolees00-21) ha un prezzo di 23.99 EUR (originale: 31.99 EUR) con uno sconto del 25.01 % sconto qui:
 
-[![Lampada UV Aigostar Lampada sterilizzant](https://m.media-amazon.com/images/I/51qGe+Xzu4L._SL200_.jpg)](https://www.amazon.it/dp/B0868CPZJ7/?tag=tolees00-21)
+[![Lampada UV Aigostar Lampada sterilizzant](https://m.media-amazon.com/images/I/51qGe+Xzu4L._SL400_.jpg)](https://www.amazon.it/dp/B0868CPZJ7/?tag=tolees00-21)
 
 ℹ️:
 

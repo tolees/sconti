@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple iPhone 11  128GB  - Verde al 15.75 % di sconto'
 date: 2020-10-03 09:50:50
-image: 'https://m.media-amazon.com/images/I/41nDbx4N7gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nDbx4N7gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '759.0'
 
 Puoi trovare [Apple iPhone 11  128GB  - Verde](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21) con il prezzo 749.0 EUR (originale: 889.0 EUR) 15.75 % sconto qui:
 
-[![Apple iPhone 11  128GB  - Verde](https://m.media-amazon.com/images/I/41nDbx4N7gL._SL200_.jpg)](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21)
+[![Apple iPhone 11  128GB  - Verde](https://m.media-amazon.com/images/I/41nDbx4N7gL._SL400_.jpg)](https://www.amazon.it/dp/B07XS5MSW4/?tag=tolees00-21)
 
 ℹ️:
 

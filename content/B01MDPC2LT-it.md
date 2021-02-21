@@ -2,7 +2,7 @@
 layout: post
 title: 'Ajax - Detersivo Crystal Clean  per Vetr al 45.82 % di sconto'
 date: 2020-08-14 14:45:54
-image: 'https://m.media-amazon.com/images/I/41veW5rJ9DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41veW5rJ9DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.94'
 
 Puoi trovare [Ajax - Detersivo Crystal Clean  per Vetri  Con Ammoniaca  100% Anti-Alone - 6 pezzi da 750 ml [4500 ml]](https://www.amazon.it/dp/B01MDPC2LT/?tag=tolees00-21) con il prezzo 8.94 EUR (originale: 16.5 EUR) 45.82 % sconto qui:
 
-[![Ajax - Detersivo Crystal Clean  per Vetr](https://m.media-amazon.com/images/I/41veW5rJ9DL._SL200_.jpg)](https://www.amazon.it/dp/B01MDPC2LT/?tag=tolees00-21)
+[![Ajax - Detersivo Crystal Clean  per Vetr](https://m.media-amazon.com/images/I/41veW5rJ9DL._SL400_.jpg)](https://www.amazon.it/dp/B01MDPC2LT/?tag=tolees00-21)
 
 ℹ️:
 

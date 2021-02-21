@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 46.23 % su Pampers Sole e Luna Salviettine  540 Pez  '
 date: 2020-08-17 10:13:36
-image: 'https://m.media-amazon.com/images/I/51gjn82ZBGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gjn82ZBGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 [Pampers Sole e Luna Salviettine  540 Pezzi](https://www.amazon.it/dp/B017NPQ7WY/?tag=tolees00-21) ha un prezzo di 6.99 EUR (originale: 13.0 EUR) con uno sconto del 46.23 % sconto qui:
 
-[![Pampers Sole e Luna Salviettine  540 Pez](https://m.media-amazon.com/images/I/51gjn82ZBGL._SL200_.jpg)](https://www.amazon.it/dp/B017NPQ7WY/?tag=tolees00-21)
+[![Pampers Sole e Luna Salviettine  540 Pez](https://m.media-amazon.com/images/I/51gjn82ZBGL._SL400_.jpg)](https://www.amazon.it/dp/B017NPQ7WY/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kenwood KVC7300S Impastatrice Planetaria al 15.50 % di sconto'
 date: 2020-10-12 22:26:25
-image: 'https://m.media-amazon.com/images/I/31mU1IBchvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mU1IBchvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '591.5'
 
 Puoi trovare [Kenwood KVC7300S Impastatrice Planetaria Chef Titanium SYSTEM PRO  Robot da Cucina Mixer  1500 W  4.6 Litri  Acciaio  Argento](https://www.amazon.it/dp/B01M0OVC8G/?tag=tolees00-21) con il prezzo 591.5 EUR (originale: 700.0 EUR) 15.50 % sconto qui:
 
-[![Kenwood KVC7300S Impastatrice Planetaria](https://m.media-amazon.com/images/I/31mU1IBchvL._SL200_.jpg)](https://www.amazon.it/dp/B01M0OVC8G/?tag=tolees00-21)
+[![Kenwood KVC7300S Impastatrice Planetaria](https://m.media-amazon.com/images/I/31mU1IBchvL._SL400_.jpg)](https://www.amazon.it/dp/B01M0OVC8G/?tag=tolees00-21)
 
 ℹ️:
 

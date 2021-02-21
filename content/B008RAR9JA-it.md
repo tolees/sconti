@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 62.58 % su Max Factor Matita Occhi Kohl Pencil  Eye  '
 date: 2020-08-29 13:30:56
-image: 'https://m.media-amazon.com/images/I/31JBOxwKP-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JBOxwKP-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.9'
 
 [Max Factor Matita Occhi Kohl Pencil  Eyeliner con Texture Morbida Facile da Sfumare  070 Olive](https://www.amazon.it/dp/B008RAR9JA/?tag=tolees00-21) ha un prezzo di 2.9 EUR (originale: 7.75 EUR) con uno sconto del 62.58 % sconto qui:
 
-[![Max Factor Matita Occhi Kohl Pencil  Eye](https://m.media-amazon.com/images/I/31JBOxwKP-L._SL200_.jpg)](https://www.amazon.it/dp/B008RAR9JA/?tag=tolees00-21)
+[![Max Factor Matita Occhi Kohl Pencil  Eye](https://m.media-amazon.com/images/I/31JBOxwKP-L._SL400_.jpg)](https://www.amazon.it/dp/B008RAR9JA/?tag=tolees00-21)
 
 ℹ️:
 

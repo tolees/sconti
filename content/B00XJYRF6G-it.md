@@ -2,7 +2,7 @@
 layout: post
 title: 'Reebok CL LTHR  Scarpe da Ginnastica Don al 53.75 % di sconto'
 date: 2020-09-09 10:50:42
-image: 'https://m.media-amazon.com/images/I/313ClchY2nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313ClchY2nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.6'
 
 Puoi trovare [Reebok CL LTHR  Scarpe da Ginnastica Donna  Bianco  White/Gum   36 EU](https://www.amazon.it/dp/B00XJYRF6G/?tag=tolees00-21) con il prezzo 41.6 EUR (originale: 89.95 EUR) 53.75 % sconto qui:
 
-[![Reebok CL LTHR  Scarpe da Ginnastica Don](https://m.media-amazon.com/images/I/313ClchY2nL._SL200_.jpg)](https://www.amazon.it/dp/B00XJYRF6G/?tag=tolees00-21)
+[![Reebok CL LTHR  Scarpe da Ginnastica Don](https://m.media-amazon.com/images/I/313ClchY2nL._SL400_.jpg)](https://www.amazon.it/dp/B00XJYRF6G/?tag=tolees00-21)
 
 ℹ️:
 

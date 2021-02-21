@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA ST Runner V2 NL  Scarpe da Ginnasti al 33.81 % di sconto'
 date: 2020-08-16 18:28:38
-image: 'https://m.media-amazon.com/images/I/41L2UylOeiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L2UylOeiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.37'
 
 Puoi trovare [PUMA ST Runner V2 NL  Scarpe da Ginnastica Unisex-Adulto  High Rise White/Castlerock  46 EU](https://www.amazon.it/dp/B07S8PV6JR/?tag=tolees00-21) con il prezzo 36.37 EUR (originale: 54.95 EUR) 33.81 % sconto qui:
 
-[![PUMA ST Runner V2 NL  Scarpe da Ginnasti](https://m.media-amazon.com/images/I/41L2UylOeiL._SL200_.jpg)](https://www.amazon.it/dp/B07S8PV6JR/?tag=tolees00-21)
+[![PUMA ST Runner V2 NL  Scarpe da Ginnasti](https://m.media-amazon.com/images/I/41L2UylOeiL._SL400_.jpg)](https://www.amazon.it/dp/B07S8PV6JR/?tag=tolees00-21)
 
 ℹ️:
 

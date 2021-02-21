@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Rainforest Pocket Giacca Uomo  al 61.53 % di sconto'
 date: 2020-07-24 06:04:49
-image: 'https://m.media-amazon.com/images/I/318DmmNCywL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318DmmNCywL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '91.95'
 
 Puoi trovare [Napapijri Rainforest Pocket Giacca Uomo  100% Poliammide  Verde  Green Forest 2 GE3   M](https://www.amazon.it/dp/B07MCSPMX4/?tag=tolees00-21) con il prezzo 91.95 EUR (originale: 239.0 EUR) 61.53 % sconto qui:
 
-[![Napapijri Rainforest Pocket Giacca Uomo ](https://m.media-amazon.com/images/I/318DmmNCywL._SL200_.jpg)](https://www.amazon.it/dp/B07MCSPMX4/?tag=tolees00-21)
+[![Napapijri Rainforest Pocket Giacca Uomo ](https://m.media-amazon.com/images/I/318DmmNCywL._SL400_.jpg)](https://www.amazon.it/dp/B07MCSPMX4/?tag=tolees00-21)
 
 ℹ️:
 

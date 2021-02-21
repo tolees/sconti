@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 31.69 % su Funko- Pop Games: Dungeons & Dragons-Min  '
 date: 2020-07-23 17:38:41
-image: 'https://m.media-amazon.com/images/I/41NSevJnxqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NSevJnxqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.74625'
 
 [Funko- Pop Games: Dungeons & Dragons-Minsc & Boo Collectible Toy  Multicolore  45115](https://www.amazon.it/dp/B07TVDNVS5/?tag=tolees00-21) ha un prezzo di 10.24 EUR (originale: 14.99 EUR) con uno sconto del 31.69 % sconto qui:
 
-[![Funko- Pop Games: Dungeons & Dragons-Min](https://m.media-amazon.com/images/I/41NSevJnxqL._SL200_.jpg)](https://www.amazon.it/dp/B07TVDNVS5/?tag=tolees00-21)
+[![Funko- Pop Games: Dungeons & Dragons-Min](https://m.media-amazon.com/images/I/41NSevJnxqL._SL400_.jpg)](https://www.amazon.it/dp/B07TVDNVS5/?tag=tolees00-21)
 
 ℹ️:
 

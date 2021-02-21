@@ -2,7 +2,7 @@
 layout: post
 title: 'Orzly Volante Nintendo Switch  Confezion al 20.01 % di sconto'
 date: 2020-07-30 15:06:18
-image: 'https://m.media-amazon.com/images/I/51TZXITtEeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TZXITtEeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Puoi trovare [Orzly Volante Nintendo Switch  Confezione Doppia  – Confezione di Accessori Neri per i Telecomandi Joy-con del Nintendo Switch](https://www.amazon.it/dp/B01NCZO2LK/?tag=tolees00-21) con il prezzo 11.99 EUR (originale: 14.99 EUR) 20.01 % sconto qui:
 
-[![Orzly Volante Nintendo Switch  Confezion](https://m.media-amazon.com/images/I/51TZXITtEeL._SL200_.jpg)](https://www.amazon.it/dp/B01NCZO2LK/?tag=tolees00-21)
+[![Orzly Volante Nintendo Switch  Confezion](https://m.media-amazon.com/images/I/51TZXITtEeL._SL400_.jpg)](https://www.amazon.it/dp/B01NCZO2LK/?tag=tolees00-21)
 
 ℹ️:
 

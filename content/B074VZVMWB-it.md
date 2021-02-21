@@ -2,7 +2,7 @@
 layout: post
 title: 'Michael Kors Orologio Analogico Quarzo D al 74.92 % di sconto'
 date: 2020-09-01 06:36:02
-image: 'https://m.media-amazon.com/images/I/41DwAAloXUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DwAAloXUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.32333333333334'
 
 Puoi trovare [Michael Kors Orologio Analogico Quarzo Da Uomo Con Cinturino In Silicone Mkt4010](https://www.amazon.it/dp/B074VZVMWB/?tag=tolees00-21) con il prezzo 74.99 EUR (originale: 299.0 EUR) 74.92 % sconto qui:
 
-[![Michael Kors Orologio Analogico Quarzo D](https://m.media-amazon.com/images/I/41DwAAloXUL._SL200_.jpg)](https://www.amazon.it/dp/B074VZVMWB/?tag=tolees00-21)
+[![Michael Kors Orologio Analogico Quarzo D](https://m.media-amazon.com/images/I/41DwAAloXUL._SL400_.jpg)](https://www.amazon.it/dp/B074VZVMWB/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA Vikky Stacked L  Sneakers Donna  Gr al 44.05 % di sconto'
 date: 2020-08-31 16:21:39
-image: 'https://m.media-amazon.com/images/I/31DGxc0CHML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DGxc0CHML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.54'
 
 Puoi trovare [PUMA Vikky Stacked L  Sneakers Donna  Grigio  Silver Cloud-Rosewater   42 EU](https://www.amazon.it/dp/B07S8PVHTR/?tag=tolees00-21) con il prezzo 33.54 EUR (originale: 59.95 EUR) 44.05 % sconto qui:
 
-[![PUMA Vikky Stacked L  Sneakers Donna  Gr](https://m.media-amazon.com/images/I/31DGxc0CHML._SL200_.jpg)](https://www.amazon.it/dp/B07S8PVHTR/?tag=tolees00-21)
+[![PUMA Vikky Stacked L  Sneakers Donna  Gr](https://m.media-amazon.com/images/I/31DGxc0CHML._SL400_.jpg)](https://www.amazon.it/dp/B07S8PVHTR/?tag=tolees00-21)
 
 ℹ️:
 

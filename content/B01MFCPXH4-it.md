@@ -2,7 +2,7 @@
 layout: post
 title: 'Excelsa Tazze & Co. Confezione 6 Tazze c al 29.48 % di sconto'
 date: 2020-10-02 16:27:30
-image: 'https://m.media-amazon.com/images/I/31u4ply9yaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31u4ply9yaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.69'
 
 Puoi trovare [Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9  Multicolore  6.5x6.5x5.6 cm  6 unità](https://www.amazon.it/dp/B01MFCPXH4/?tag=tolees00-21) con il prezzo 15.69 EUR (originale: 22.25 EUR) 29.48 % sconto qui:
 
-[![Excelsa Tazze & Co. Confezione 6 Tazze c](https://m.media-amazon.com/images/I/31u4ply9yaL._SL200_.jpg)](https://www.amazon.it/dp/B01MFCPXH4/?tag=tolees00-21)
+[![Excelsa Tazze & Co. Confezione 6 Tazze c](https://m.media-amazon.com/images/I/31u4ply9yaL._SL400_.jpg)](https://www.amazon.it/dp/B01MFCPXH4/?tag=tolees00-21)
 
 ℹ️:
 

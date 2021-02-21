@@ -2,7 +2,7 @@
 layout: post
 title: 'Viakal Detersivo Anticalcare Spray Aceto al 19.10 % di sconto'
 date: 2020-10-08 13:17:48
-image: 'https://m.media-amazon.com/images/I/51JdDI-xxOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JdDI-xxOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.79'
 
 Puoi trovare [Viakal Detersivo Anticalcare Spray Aceto  Maxi Formato 10 Pezzi da 515 ml](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21) con il prezzo 17.79 EUR (originale: 21.99 EUR) 19.10 % sconto qui:
 
-[![Viakal Detersivo Anticalcare Spray Aceto](https://m.media-amazon.com/images/I/51JdDI-xxOL._SL200_.jpg)](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21)
+[![Viakal Detersivo Anticalcare Spray Aceto](https://m.media-amazon.com/images/I/51JdDI-xxOL._SL400_.jpg)](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21)
 
 ℹ️:
 

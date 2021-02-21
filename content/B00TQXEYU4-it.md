@@ -2,7 +2,7 @@
 layout: post
 title: 'Fjällräven Kaipak 28 Zaino Casual  57 cm al 50.17 % di sconto'
 date: 2020-09-22 07:41:57
-image: 'https://m.media-amazon.com/images/I/41Liq5QcoxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Liq5QcoxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.74'
 
 Puoi trovare [Fjällräven Kaipak 28 Zaino Casual  57 cm  liters  Rosso  Redwood ](https://www.amazon.it/dp/B00TQXEYU4/?tag=tolees00-21) con il prezzo 74.74 EUR (originale: 149.99 EUR) 50.17 % sconto qui:
 
-[![Fjällräven Kaipak 28 Zaino Casual  57 cm](https://m.media-amazon.com/images/I/41Liq5QcoxL._SL200_.jpg)](https://www.amazon.it/dp/B00TQXEYU4/?tag=tolees00-21)
+[![Fjällräven Kaipak 28 Zaino Casual  57 cm](https://m.media-amazon.com/images/I/41Liq5QcoxL._SL400_.jpg)](https://www.amazon.it/dp/B00TQXEYU4/?tag=tolees00-21)
 
 ℹ️:
 

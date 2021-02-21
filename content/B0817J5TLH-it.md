@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 58.53 % su Columbia Silver Ridge II  Pantaloni Carg  '
 date: 2020-09-09 18:08:19
-image: 'https://m.media-amazon.com/images/I/31V9xqIig9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V9xqIig9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.95'
 
 [Columbia Silver Ridge II  Pantaloni Cargo Uomo  Blu  Collegiate Navy   W28/L32](https://www.amazon.it/dp/B0817J5TLH/?tag=tolees00-21) ha un prezzo di 26.95 EUR (originale: 64.99 EUR) con uno sconto del 58.53 % sconto qui:
 
-[![Columbia Silver Ridge II  Pantaloni Carg](https://m.media-amazon.com/images/I/31V9xqIig9L._SL200_.jpg)](https://www.amazon.it/dp/B0817J5TLH/?tag=tolees00-21)
+[![Columbia Silver Ridge II  Pantaloni Carg](https://m.media-amazon.com/images/I/31V9xqIig9L._SL400_.jpg)](https://www.amazon.it/dp/B0817J5TLH/?tag=tolees00-21)
 
 ℹ️:
 

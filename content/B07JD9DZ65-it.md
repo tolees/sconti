@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 43.86 % su Cesar Cuore di Verdure Tenero Cibo per C  '
 date: 2020-07-28 12:20:45
-image: 'https://m.media-amazon.com/images/I/41kKEVQ-yUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kKEVQ-yUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.96'
 
 [Cesar Cuore di Verdure Tenero Cibo per Cane  Paté con Delizioso Manzo e Cuore di Verdure 150 g - 14 Vaschette](https://www.amazon.it/dp/B07JD9DZ65/?tag=tolees00-21) ha un prezzo di 8.96 EUR (originale: 15.96 EUR) con uno sconto del 43.86 % sconto qui:
 
-[![Cesar Cuore di Verdure Tenero Cibo per C](https://m.media-amazon.com/images/I/41kKEVQ-yUL._SL200_.jpg)](https://www.amazon.it/dp/B07JD9DZ65/?tag=tolees00-21)
+[![Cesar Cuore di Verdure Tenero Cibo per C](https://m.media-amazon.com/images/I/41kKEVQ-yUL._SL400_.jpg)](https://www.amazon.it/dp/B07JD9DZ65/?tag=tolees00-21)
 
 ℹ️:
 

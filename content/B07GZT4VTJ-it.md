@@ -2,7 +2,7 @@
 layout: post
 title: 'Marchio Amazon - MERAKI Blazer Casual Uo al 45.88 % di sconto'
 date: 2020-09-30 12:31:59
-image: 'https://m.media-amazon.com/images/I/41ezjmeBRWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ezjmeBRWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.77'
 
 Puoi trovare [Marchio Amazon - MERAKI Blazer Casual Uomo  Grigio  Grey Marl   48  Label: 38](https://www.amazon.it/dp/B07GZT4VTJ/?tag=tolees00-21) con il prezzo 14.77 EUR (originale: 27.29 EUR) 45.88 % sconto qui:
 
-[![Marchio Amazon - MERAKI Blazer Casual Uo](https://m.media-amazon.com/images/I/41ezjmeBRWL._SL200_.jpg)](https://www.amazon.it/dp/B07GZT4VTJ/?tag=tolees00-21)
+[![Marchio Amazon - MERAKI Blazer Casual Uo](https://m.media-amazon.com/images/I/41ezjmeBRWL._SL400_.jpg)](https://www.amazon.it/dp/B07GZT4VTJ/?tag=tolees00-21)
 
 ℹ️:
 

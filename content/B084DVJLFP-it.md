@@ -2,7 +2,7 @@
 layout: post
 title: 'Switch Cat Quest + Cat Quest 2 Pawsome P al 17.49 % di sconto'
 date: 2020-08-09 05:38:07
-image: 'https://m.media-amazon.com/images/I/51CXSWAmFwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CXSWAmFwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.885'
 
 Puoi trovare [Switch Cat Quest + Cat Quest 2 Pawsome Pack [ [Edizione: Germania]](https://www.amazon.it/dp/B084DVJLFP/?tag=tolees00-21) con il prezzo 28.87 EUR (originale: 34.99 EUR) 17.49 % sconto qui:
 
-[![Switch Cat Quest + Cat Quest 2 Pawsome P](https://m.media-amazon.com/images/I/51CXSWAmFwL._SL200_.jpg)](https://www.amazon.it/dp/B084DVJLFP/?tag=tolees00-21)
+[![Switch Cat Quest + Cat Quest 2 Pawsome P](https://m.media-amazon.com/images/I/51CXSWAmFwL._SL400_.jpg)](https://www.amazon.it/dp/B084DVJLFP/?tag=tolees00-21)
 
 ℹ️:
 

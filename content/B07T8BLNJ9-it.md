@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 15.82 % su Ant-Man & The Wasp 10° Anniversario Marv  '
 date: 2020-09-21 15:34:56
-image: 'https://m.media-amazon.com/images/I/51bCyKwqBiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bCyKwqBiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.74'
 
 [Ant-Man & The Wasp 10° Anniversario Marvel Studios brd   Blu Ray ](https://www.amazon.it/dp/B07T8BLNJ9/?tag=tolees00-21) ha un prezzo di 9.74 EUR (originale: 11.57 EUR) con uno sconto del 15.82 % sconto qui:
 
-[![Ant-Man & The Wasp 10° Anniversario Marv](https://m.media-amazon.com/images/I/51bCyKwqBiL._SL200_.jpg)](https://www.amazon.it/dp/B07T8BLNJ9/?tag=tolees00-21)
+[![Ant-Man & The Wasp 10° Anniversario Marv](https://m.media-amazon.com/images/I/51bCyKwqBiL._SL400_.jpg)](https://www.amazon.it/dp/B07T8BLNJ9/?tag=tolees00-21)
 
 ℹ️:
 

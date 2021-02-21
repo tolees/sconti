@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 57.68 % su BOSS Brief 3p Co/El Boxer  Multicolore    '
 date: 2020-07-22 13:51:27
-image: 'https://m.media-amazon.com/images/I/41OCcT9REcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OCcT9REcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.06'
 
 [BOSS Brief 3p Co/El Boxer  Multicolore  Open Miscellaneous   S  Pacco da 3  Uomo](https://www.amazon.it/dp/B07TYFGXBC/?tag=tolees00-21) ha un prezzo di 16.06 EUR (originale: 37.95 EUR) con uno sconto del 57.68 % sconto qui:
 
-[![BOSS Brief 3p Co/El Boxer  Multicolore  ](https://m.media-amazon.com/images/I/41OCcT9REcL._SL200_.jpg)](https://www.amazon.it/dp/B07TYFGXBC/?tag=tolees00-21)
+[![BOSS Brief 3p Co/El Boxer  Multicolore  ](https://m.media-amazon.com/images/I/41OCcT9REcL._SL400_.jpg)](https://www.amazon.it/dp/B07TYFGXBC/?tag=tolees00-21)
 
 ℹ️:
 

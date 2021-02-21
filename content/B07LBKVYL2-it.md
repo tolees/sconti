@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Medium Drawstring Pantalo al 43.51 % di sconto'
 date: 2020-07-19 14:12:19
-image: 'https://m.media-amazon.com/images/I/41H5IBOPHoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H5IBOPHoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.49'
 
 Puoi trovare [Tommy Hilfiger Medium Drawstring Pantaloncini  Rosso  Red 611   X-Large Uomo](https://www.amazon.it/dp/B07LBKVYL2/?tag=tolees00-21) con il prezzo 39.49 EUR (originale: 69.9 EUR) 43.51 % sconto qui:
 
-[![Tommy Hilfiger Medium Drawstring Pantalo](https://m.media-amazon.com/images/I/41H5IBOPHoL._SL200_.jpg)](https://www.amazon.it/dp/B07LBKVYL2/?tag=tolees00-21)
+[![Tommy Hilfiger Medium Drawstring Pantalo](https://m.media-amazon.com/images/I/41H5IBOPHoL._SL400_.jpg)](https://www.amazon.it/dp/B07LBKVYL2/?tag=tolees00-21)
 
 ℹ️:
 

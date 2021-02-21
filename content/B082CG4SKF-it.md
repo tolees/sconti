@@ -2,7 +2,7 @@
 layout: post
 title: 'ONLYOILY Glitter Powder trucco opaco luc al 31.60 % di sconto'
 date: 2020-09-02 10:35:38
-image: 'https://m.media-amazon.com/images/I/51acRYAKygL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51acRYAKygL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Puoi trovare [ONLYOILY Glitter Powder trucco opaco lucido a prova di sbavatura impermeabile Makeup Palette Professional – Lunga Durata  Palette di Ombretti Shimmer Face Makeup Kit  35 Colori ](https://www.amazon.it/dp/B082CG4SKF/?tag=tolees00-21) con il prezzo 12.99 EUR (originale: 18.99 EUR) 31.60 % sconto qui:
 
-[![ONLYOILY Glitter Powder trucco opaco luc](https://m.media-amazon.com/images/I/51acRYAKygL._SL200_.jpg)](https://www.amazon.it/dp/B082CG4SKF/?tag=tolees00-21)
+[![ONLYOILY Glitter Powder trucco opaco luc](https://m.media-amazon.com/images/I/51acRYAKygL._SL400_.jpg)](https://www.amazon.it/dp/B082CG4SKF/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 37.84 % su Campingaz Y980000000 Regolatore di Press  '
 date: 2020-10-05 15:19:30
-image: 'https://m.media-amazon.com/images/I/412vGSYHpiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412vGSYHpiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.37'
 
 [Campingaz Y980000000 Regolatore di Pressione del Gas Accessorio per Barbecue/Grill](https://www.amazon.it/dp/B00CG5KG7E/?tag=tolees00-21) ha un prezzo di 12.37 EUR (originale: 19.9 EUR) con uno sconto del 37.84 % sconto qui:
 
-[![Campingaz Y980000000 Regolatore di Press](https://m.media-amazon.com/images/I/412vGSYHpiL._SL200_.jpg)](https://www.amazon.it/dp/B00CG5KG7E/?tag=tolees00-21)
+[![Campingaz Y980000000 Regolatore di Press](https://m.media-amazon.com/images/I/412vGSYHpiL._SL400_.jpg)](https://www.amazon.it/dp/B00CG5KG7E/?tag=tolees00-21)
 
 ℹ️:
 

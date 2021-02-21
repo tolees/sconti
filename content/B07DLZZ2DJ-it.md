@@ -2,7 +2,7 @@
 layout: post
 title: 'Toolove Lampada da Lettura a LED USB Ric al 45.02 % di sconto'
 date: 2020-08-03 09:20:31
-image: 'https://m.media-amazon.com/images/I/41+LdmytWzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+LdmytWzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Puoi trovare [Toolove Lampada da Lettura a LED USB Ricaricabile  Luce Lettura Regolabile e Portatile Con Clip  Lampada da Libro Pieghevole per Studio  Letto  Viaggi  Tablet](https://www.amazon.it/dp/B07DLZZ2DJ/?tag=tolees00-21) con il prezzo 10.99 EUR (originale: 19.99 EUR) 45.02 % sconto qui:
 
-[![Toolove Lampada da Lettura a LED USB Ric](https://m.media-amazon.com/images/I/41+LdmytWzL._SL200_.jpg)](https://www.amazon.it/dp/B07DLZZ2DJ/?tag=tolees00-21)
+[![Toolove Lampada da Lettura a LED USB Ric](https://m.media-amazon.com/images/I/41+LdmytWzL._SL400_.jpg)](https://www.amazon.it/dp/B07DLZZ2DJ/?tag=tolees00-21)
 
 ℹ️:
 

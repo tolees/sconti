@@ -2,7 +2,7 @@
 layout: post
 title: 'Monster Hunter: World  UK  al 61.82 % di sconto'
 date: 2020-09-17 11:09:32
-image: 'https://m.media-amazon.com/images/I/51UCCdWACOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UCCdWACOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.69'
 
 Puoi trovare [Monster Hunter: World  UK ](https://www.amazon.it/dp/B072QM3R6B/?tag=tolees00-21) con il prezzo 26.69 EUR (originale: 69.9 EUR) 61.82 % sconto qui:
 
-[![Monster Hunter: World  UK ](https://m.media-amazon.com/images/I/51UCCdWACOL._SL200_.jpg)](https://www.amazon.it/dp/B072QM3R6B/?tag=tolees00-21)
+[![Monster Hunter: World  UK ](https://m.media-amazon.com/images/I/51UCCdWACOL._SL400_.jpg)](https://www.amazon.it/dp/B072QM3R6B/?tag=tolees00-21)
 
 ℹ️:
 

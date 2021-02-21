@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 23.50 % su Call of Duty: Modern Warfare - Xbox One  '
 date: 2020-08-14 23:53:13
-image: 'https://m.media-amazon.com/images/I/51aeuYLgt1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aeuYLgt1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.54'
 
 [Call of Duty: Modern Warfare - Xbox One](https://www.amazon.it/dp/B07SC443KW/?tag=tolees00-21) ha un prezzo di 53.54 EUR (originale: 69.99 EUR) con uno sconto del 23.50 % sconto qui:
 
-[![Call of Duty: Modern Warfare - Xbox One](https://m.media-amazon.com/images/I/51aeuYLgt1L._SL200_.jpg)](https://www.amazon.it/dp/B07SC443KW/?tag=tolees00-21)
+[![Call of Duty: Modern Warfare - Xbox One](https://m.media-amazon.com/images/I/51aeuYLgt1L._SL400_.jpg)](https://www.amazon.it/dp/B07SC443KW/?tag=tolees00-21)
 
 ℹ️:
 

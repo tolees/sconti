@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 16.14 % su Rio Mare Filetti di Sgombro Grigliati al  '
 date: 2020-08-05 06:09:06
-image: 'https://m.media-amazon.com/images/I/41YmeVV6jOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YmeVV6jOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.39'
 
 [Rio Mare Filetti di Sgombro Grigliati al Naturale  Ricchi di Omega 3  1 Lattina da 120 g](https://www.amazon.it/dp/B01LYT9GSV/?tag=tolees00-21) ha un prezzo di 2.39 EUR (originale: 2.85 EUR) con uno sconto del 16.14 % sconto qui:
 
-[![Rio Mare Filetti di Sgombro Grigliati al](https://m.media-amazon.com/images/I/41YmeVV6jOL._SL200_.jpg)](https://www.amazon.it/dp/B01LYT9GSV/?tag=tolees00-21)
+[![Rio Mare Filetti di Sgombro Grigliati al](https://m.media-amazon.com/images/I/41YmeVV6jOL._SL400_.jpg)](https://www.amazon.it/dp/B01LYT9GSV/?tag=tolees00-21)
 
 ℹ️:
 

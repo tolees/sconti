@@ -2,7 +2,7 @@
 layout: post
 title: 'Mini Bluetooth WiFi Proiettore TOPTRO Pr al 56.67 % di sconto'
 date: 2020-08-02 06:33:43
-image: 'https://m.media-amazon.com/images/I/41Ust+QECdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ust+QECdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.98'
 
 Puoi trovare [Mini Bluetooth WiFi Proiettore TOPTRO Proiettore Aggiornato con Mirroring Wireless da 5800 lumen 200" Proiettore Portatile da Home Theater Compatibile con TV Stick/ TVbox/Smartphone/PC/Laptop/PS4](https://www.amazon.it/dp/B08BL8YM46/?tag=tolees00-21) con il prezzo 129.98 EUR (originale: 299.99 EUR) 56.67 % sconto qui:
 
-[![Mini Bluetooth WiFi Proiettore TOPTRO Pr](https://m.media-amazon.com/images/I/41Ust+QECdL._SL200_.jpg)](https://www.amazon.it/dp/B08BL8YM46/?tag=tolees00-21)
+[![Mini Bluetooth WiFi Proiettore TOPTRO Pr](https://m.media-amazon.com/images/I/41Ust+QECdL._SL400_.jpg)](https://www.amazon.it/dp/B08BL8YM46/?tag=tolees00-21)
 
 ℹ️:
 

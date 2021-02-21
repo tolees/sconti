@@ -2,7 +2,7 @@
 layout: post
 title: 'Fruittella Good For You Mix Sport Bio  S al 38.50 % di sconto'
 date: 2020-10-07 13:02:54
-image: 'https://m.media-amazon.com/images/I/51HkryQICKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HkryQICKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Puoi trovare [Fruittella Good For You Mix Sport Bio  Snack di Frutta Secca e Disidratata Biologico - 20 Pacchetti Monodose da 32 gr](https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21) con il prezzo 15.99 EUR (originale: 26.0 EUR) 38.50 % sconto qui:
 
-[![Fruittella Good For You Mix Sport Bio  S](https://m.media-amazon.com/images/I/51HkryQICKL._SL200_.jpg)](https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21)
+[![Fruittella Good For You Mix Sport Bio  S](https://m.media-amazon.com/images/I/51HkryQICKL._SL400_.jpg)](https://www.amazon.it/dp/B07SYM63V8/?tag=tolees00-21)
 
 ℹ️:
 

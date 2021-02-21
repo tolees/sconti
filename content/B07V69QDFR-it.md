@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 15.43 % su Imetec SM3 900 Tostiera  Piastre XL Riga  '
 date: 2020-08-20 08:20:13
-image: 'https://m.media-amazon.com/images/I/41ZYphL1QfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZYphL1QfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.9'
 
 [Imetec SM3 900 Tostiera  Piastre XL Rigate e Antiaderenti  Interruttore ON/OFF  Spia Riscaldamento Piastre  Gancio Chiusura  Avvolgicavo  Tostapane Compatto  900 W](https://www.amazon.it/dp/B07V69QDFR/?tag=tolees00-21) ha un prezzo di 27.9 EUR (originale: 32.99 EUR) con uno sconto del 15.43 % sconto qui:
 
-[![Imetec SM3 900 Tostiera  Piastre XL Riga](https://m.media-amazon.com/images/I/41ZYphL1QfL._SL200_.jpg)](https://www.amazon.it/dp/B07V69QDFR/?tag=tolees00-21)
+[![Imetec SM3 900 Tostiera  Piastre XL Riga](https://m.media-amazon.com/images/I/41ZYphL1QfL._SL400_.jpg)](https://www.amazon.it/dp/B07V69QDFR/?tag=tolees00-21)
 
 ℹ️:
 

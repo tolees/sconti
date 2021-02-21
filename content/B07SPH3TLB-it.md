@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 36.26 % su Lacoste Bayliss 220 1 CMA  Sneaker Uomo   '
 date: 2020-07-24 15:09:08
-image: 'https://m.media-amazon.com/images/I/31i7YF5UJQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31i7YF5UJQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.99'
 
 [Lacoste Bayliss 220 1 CMA  Sneaker Uomo  Bianco  Wht/Nvy/Red 407   41 EU](https://www.amazon.it/dp/B07SPH3TLB/?tag=tolees00-21) ha un prezzo di 50.99 EUR (originale: 80.0 EUR) con uno sconto del 36.26 % sconto qui:
 
-[![Lacoste Bayliss 220 1 CMA  Sneaker Uomo ](https://m.media-amazon.com/images/I/31i7YF5UJQL._SL200_.jpg)](https://www.amazon.it/dp/B07SPH3TLB/?tag=tolees00-21)
+[![Lacoste Bayliss 220 1 CMA  Sneaker Uomo ](https://m.media-amazon.com/images/I/31i7YF5UJQL._SL400_.jpg)](https://www.amazon.it/dp/B07SPH3TLB/?tag=tolees00-21)
 
 ℹ️:
 

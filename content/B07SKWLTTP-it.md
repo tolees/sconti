@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 55.00 % su Havaianas Top Nautical  Infradito Uomo    '
 date: 2020-08-24 11:22:55
-image: 'https://m.media-amazon.com/images/I/41wG47GjcqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wG47GjcqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.9'
 
 [Havaianas Top Nautical  Infradito Uomo  Multicolore  White/Navy/White 5035   37/38 EU](https://www.amazon.it/dp/B07SKWLTTP/?tag=tolees00-21) ha un prezzo di 9.9 EUR (originale: 22.0 EUR) con uno sconto del 55.00 % sconto qui:
 
-[![Havaianas Top Nautical  Infradito Uomo  ](https://m.media-amazon.com/images/I/41wG47GjcqL._SL200_.jpg)](https://www.amazon.it/dp/B07SKWLTTP/?tag=tolees00-21)
+[![Havaianas Top Nautical  Infradito Uomo  ](https://m.media-amazon.com/images/I/41wG47GjcqL._SL400_.jpg)](https://www.amazon.it/dp/B07SKWLTTP/?tag=tolees00-21)
 
 ℹ️:
 

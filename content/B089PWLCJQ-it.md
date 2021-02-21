@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 15.47 % su HD Webcam 1296P 3 MP con Microfono  USB   '
 date: 2020-09-23 07:21:23
-image: 'https://m.media-amazon.com/images/I/41dMVjJtTdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dMVjJtTdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.95'
 
 [HD Webcam 1296P 3 MP con Microfono  USB Webcam Video Streaming PC Laptop Camera per Conferenze  Videochiamate  Streaming  Registrazione  Skype  Plug & Play  Clip Flessibile Regolabile](https://www.amazon.it/dp/B089PWLCJQ/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 35.48 EUR) con uno sconto del 15.47 % sconto qui:
 
-[![HD Webcam 1296P 3 MP con Microfono  USB ](https://m.media-amazon.com/images/I/41dMVjJtTdL._SL200_.jpg)](https://www.amazon.it/dp/B089PWLCJQ/?tag=tolees00-21)
+[![HD Webcam 1296P 3 MP con Microfono  USB ](https://m.media-amazon.com/images/I/41dMVjJtTdL._SL400_.jpg)](https://www.amazon.it/dp/B089PWLCJQ/?tag=tolees00-21)
 
 ℹ️:
 

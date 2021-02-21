@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox U Ariam D  Scarpe da Ginnastica Bas al 65.00 % di sconto'
 date: 2020-09-14 17:32:15
-image: 'https://m.media-amazon.com/images/I/31DbL0AtbnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DbL0AtbnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.25'
 
 Puoi trovare [Geox U Ariam D  Scarpe da Ginnastica Basse Uomo  Grigio  Anthracite/Navy C9af4   39 EU](https://www.amazon.it/dp/B0792H8KLV/?tag=tolees00-21) con il prezzo 40.25 EUR (originale: 115.0 EUR) 65.00 % sconto qui:
 
-[![Geox U Ariam D  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/31DbL0AtbnL._SL200_.jpg)](https://www.amazon.it/dp/B0792H8KLV/?tag=tolees00-21)
+[![Geox U Ariam D  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/31DbL0AtbnL._SL400_.jpg)](https://www.amazon.it/dp/B0792H8KLV/?tag=tolees00-21)
 
 ℹ️:
 

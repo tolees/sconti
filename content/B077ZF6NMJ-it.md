@@ -2,7 +2,7 @@
 layout: post
 title: 'Tristar Crispy Mini Friggitrice ad aria  al 24.00 % di sconto'
 date: 2020-09-05 07:09:40
-image: 'https://m.media-amazon.com/images/I/41TfNRiL0iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TfNRiL0iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.99'
 
 Puoi trovare [Tristar Crispy Mini Friggitrice ad aria calda  1000 W  2 Liters  Plastic  Nero](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21) con il prezzo 37.99 EUR (originale: 49.99 EUR) 24.00 % sconto qui:
 
-[![Tristar Crispy Mini Friggitrice ad aria ](https://m.media-amazon.com/images/I/41TfNRiL0iL._SL200_.jpg)](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21)
+[![Tristar Crispy Mini Friggitrice ad aria ](https://m.media-amazon.com/images/I/41TfNRiL0iL._SL400_.jpg)](https://www.amazon.it/dp/B077ZF6NMJ/?tag=tolees00-21)
 
 ℹ️:
 

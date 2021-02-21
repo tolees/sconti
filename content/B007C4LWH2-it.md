@@ -2,7 +2,7 @@
 layout: post
 title: 'Binary Domain al 60.06 % di sconto'
 date: 2020-09-16 05:53:32
-image: 'https://m.media-amazon.com/images/I/512gLX1KHOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512gLX1KHOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Puoi trovare [Binary Domain](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21) con il prezzo 3.99 EUR (originale: 9.99 EUR) 60.06 % sconto qui:
 
-[![Binary Domain](https://m.media-amazon.com/images/I/512gLX1KHOL._SL200_.jpg)](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21)
+[![Binary Domain](https://m.media-amazon.com/images/I/512gLX1KHOL._SL400_.jpg)](https://www.amazon.it/dp/B007C4LWH2/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 28.62 % su Candy CMG2071DS Microonde 20L  700W  Arg  '
 date: 2020-09-10 17:01:09
-image: 'https://m.media-amazon.com/images/I/41VuNtBBW5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VuNtBBW5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.99'
 
 [Candy CMG2071DS Microonde 20L  700W  Argento](https://www.amazon.it/dp/B00CIUC5IU/?tag=tolees00-21) ha un prezzo di 64.99 EUR (originale: 91.05 EUR) con uno sconto del 28.62 % sconto qui:
 
-[![Candy CMG2071DS Microonde 20L  700W  Arg](https://m.media-amazon.com/images/I/41VuNtBBW5L._SL200_.jpg)](https://www.amazon.it/dp/B00CIUC5IU/?tag=tolees00-21)
+[![Candy CMG2071DS Microonde 20L  700W  Arg](https://m.media-amazon.com/images/I/41VuNtBBW5L._SL400_.jpg)](https://www.amazon.it/dp/B00CIUC5IU/?tag=tolees00-21)
 
 ℹ️:
 

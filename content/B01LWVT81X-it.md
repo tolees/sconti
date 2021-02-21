@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 41.38 % su Western Digital WD My Book Hard Disk Des  '
 date: 2020-09-24 02:43:20
-image: 'https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vHFVN70bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '170.0'
 
 [Western Digital WD My Book Hard Disk Desktop USB 3.0  Software di Backup Automatico  Protezione con Password  1 Disco  8 TB  Nero](https://www.amazon.it/dp/B01LWVT81X/?tag=tolees00-21) ha un prezzo di 170.0 EUR (originale: 289.99 EUR) con uno sconto del 41.38 % sconto qui:
 
-[![Western Digital WD My Book Hard Disk Des](https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg)](https://www.amazon.it/dp/B01LWVT81X/?tag=tolees00-21)
+[![Western Digital WD My Book Hard Disk Des](https://m.media-amazon.com/images/I/31vHFVN70bL._SL400_.jpg)](https://www.amazon.it/dp/B01LWVT81X/?tag=tolees00-21)
 
 ℹ️:
 

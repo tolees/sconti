@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 44.97 % su Asmodee 8731-Blood Rage: Dèi di Asgard    '
 date: 2020-09-25 17:08:24
-image: 'https://m.media-amazon.com/images/I/51N4hO+aBLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51N4hO+aBLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.95'
 
 [Asmodee 8731-Blood Rage: Dèi di Asgard  Ed. Italiana  8731](https://www.amazon.it/dp/B01N8OOB5J/?tag=tolees00-21) ha un prezzo di 10.95 EUR (originale: 19.9 EUR) con uno sconto del 44.97 % sconto qui:
 
-[![Asmodee 8731-Blood Rage: Dèi di Asgard  ](https://m.media-amazon.com/images/I/51N4hO+aBLL._SL200_.jpg)](https://www.amazon.it/dp/B01N8OOB5J/?tag=tolees00-21)
+[![Asmodee 8731-Blood Rage: Dèi di Asgard  ](https://m.media-amazon.com/images/I/51N4hO+aBLL._SL400_.jpg)](https://www.amazon.it/dp/B01N8OOB5J/?tag=tolees00-21)
 
 ℹ️:
 

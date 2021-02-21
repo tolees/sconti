@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple iPhone 11  128GB  - Rosso al 17.32 % di sconto'
 date: 2020-08-20 10:26:12
-image: 'https://m.media-amazon.com/images/I/41lGEyQIgOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lGEyQIgOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '735.0'
 
 Puoi trovare [Apple iPhone 11  128GB  - Rosso](https://www.amazon.it/dp/B07XS4MGQL/?tag=tolees00-21) con il prezzo 735.0 EUR (originale: 889.0 EUR) 17.32 % sconto qui:
 
-[![Apple iPhone 11  128GB  - Rosso](https://m.media-amazon.com/images/I/41lGEyQIgOL._SL200_.jpg)](https://www.amazon.it/dp/B07XS4MGQL/?tag=tolees00-21)
+[![Apple iPhone 11  128GB  - Rosso](https://m.media-amazon.com/images/I/41lGEyQIgOL._SL400_.jpg)](https://www.amazon.it/dp/B07XS4MGQL/?tag=tolees00-21)
 
 ℹ️:
 

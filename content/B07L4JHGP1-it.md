@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 15.04 % su Luce Solare Esterno  Trswyop 82 LED Lamp  '
 date: 2020-09-18 16:01:36
-image: 'https://m.media-amazon.com/images/I/51CA1ycgNML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CA1ycgNML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.95'
 
 [Luce Solare Esterno  Trswyop 82 LED Lampada Solare con Sensore di Movimento 2000mAh Illuminazione Solare LED Impermeabile Luci Solari da Parete con 3 modalità per Giardino【2 Pezzi】](https://www.amazon.it/dp/B07L4JHGP1/?tag=tolees00-21) ha un prezzo di 16.95 EUR (originale: 19.95 EUR) con uno sconto del 15.04 % sconto qui:
 
-[![Luce Solare Esterno  Trswyop 82 LED Lamp](https://m.media-amazon.com/images/I/51CA1ycgNML._SL200_.jpg)](https://www.amazon.it/dp/B07L4JHGP1/?tag=tolees00-21)
+[![Luce Solare Esterno  Trswyop 82 LED Lamp](https://m.media-amazon.com/images/I/51CA1ycgNML._SL400_.jpg)](https://www.amazon.it/dp/B07L4JHGP1/?tag=tolees00-21)
 
 ℹ️:
 

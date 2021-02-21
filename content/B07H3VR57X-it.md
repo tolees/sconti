@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 35.00 % su homcom Moto da Cross Elettrica con Rotel  '
 date: 2020-08-04 06:41:09
-image: 'https://m.media-amazon.com/images/I/51AixFUEsxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AixFUEsxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.97'
 
 [homcom Moto da Cross Elettrica con Rotelle Bambini 107 × 53 × 70cm Verde](https://www.amazon.it/dp/B07H3VR57X/?tag=tolees00-21) ha un prezzo di 90.97 EUR (originale: 139.95 EUR) con uno sconto del 35.00 % sconto qui:
 
-[![homcom Moto da Cross Elettrica con Rotel](https://m.media-amazon.com/images/I/51AixFUEsxL._SL200_.jpg)](https://www.amazon.it/dp/B07H3VR57X/?tag=tolees00-21)
+[![homcom Moto da Cross Elettrica con Rotel](https://m.media-amazon.com/images/I/51AixFUEsxL._SL400_.jpg)](https://www.amazon.it/dp/B07H3VR57X/?tag=tolees00-21)
 
 ℹ️:
 

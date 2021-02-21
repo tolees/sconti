@@ -2,7 +2,7 @@
 layout: post
 title: 'HP - Gaming Omen 400 Mouse Gaming  6 Tas al 49.98 % di sconto'
 date: 2020-08-20 13:23:08
-image: 'https://m.media-amazon.com/images/I/31ra3U628NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ra3U628NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.0'
 
 Puoi trovare [HP - Gaming Omen 400 Mouse Gaming  6 Tasti Programmabili  DPI da 1600 a 5000  Funzione Sniper Mode  Rotella di Scorrimento con 24 Denti  LED Personalizzabile  Cavo USB Cablato  Nero](https://www.amazon.it/dp/B07DZ62JRZ/?tag=tolees00-21) con il prezzo 15.0 EUR (originale: 29.99 EUR) 49.98 % sconto qui:
 
-[![HP - Gaming Omen 400 Mouse Gaming  6 Tas](https://m.media-amazon.com/images/I/31ra3U628NL._SL200_.jpg)](https://www.amazon.it/dp/B07DZ62JRZ/?tag=tolees00-21)
+[![HP - Gaming Omen 400 Mouse Gaming  6 Tas](https://m.media-amazon.com/images/I/31ra3U628NL._SL400_.jpg)](https://www.amazon.it/dp/B07DZ62JRZ/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'EGV [2 Pezzi Pellicola Fotocamera per Xi al 18.20 % di sconto'
 date: 2020-08-15 11:41:34
-image: 'https://m.media-amazon.com/images/I/51Ec4jzEneL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ec4jzEneL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Puoi trovare [EGV [2 Pezzi Pellicola Fotocamera per Xiaomi Redmi Note 9S + [2 Pezzi] Vetro Temperato per Xiaomi Redmi Note 9S Pellicola Protettiva [Protezione Completa] Compatible con Xiaomi Redmi Note 9S](https://www.amazon.it/dp/B08CK3JZC6/?tag=tolees00-21) con il prezzo 8.99 EUR (originale: 10.99 EUR) 18.20 % sconto qui:
 
-[![EGV [2 Pezzi Pellicola Fotocamera per Xi](https://m.media-amazon.com/images/I/51Ec4jzEneL._SL200_.jpg)](https://www.amazon.it/dp/B08CK3JZC6/?tag=tolees00-21)
+[![EGV [2 Pezzi Pellicola Fotocamera per Xi](https://m.media-amazon.com/images/I/51Ec4jzEneL._SL400_.jpg)](https://www.amazon.it/dp/B08CK3JZC6/?tag=tolees00-21)
 
 ℹ️:
 

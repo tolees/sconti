@@ -2,7 +2,7 @@
 layout: post
 title: 'Satechi Adattatore Multiporta Sottile Ti al 40.01 % di sconto'
 date: 2020-09-21 11:55:01
-image: 'https://m.media-amazon.com/images/I/41FbppoK18L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FbppoK18L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.99'
 
 Puoi trovare [Satechi Adattatore Multiporta Sottile Tipo-C in Alluminio con porta di ricarica USB-C  uscita video 4K HDMI  2 porte USB 3.0  Grigio Siderale ](https://www.amazon.it/dp/B01J4BO0X8/?tag=tolees00-21) con il prezzo 41.99 EUR (originale: 69.99 EUR) 40.01 % sconto qui:
 
-[![Satechi Adattatore Multiporta Sottile Ti](https://m.media-amazon.com/images/I/41FbppoK18L._SL200_.jpg)](https://www.amazon.it/dp/B01J4BO0X8/?tag=tolees00-21)
+[![Satechi Adattatore Multiporta Sottile Ti](https://m.media-amazon.com/images/I/41FbppoK18L._SL400_.jpg)](https://www.amazon.it/dp/B01J4BO0X8/?tag=tolees00-21)
 
 ℹ️:
 

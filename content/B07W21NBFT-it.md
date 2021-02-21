@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 15.01 % su Plafoniera LED Soffitto Moderna  Faretti  '
 date: 2020-09-28 09:25:20
-image: 'https://m.media-amazon.com/images/I/412130-vdzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412130-vdzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.79'
 
 [Plafoniera LED Soffitto Moderna  Faretti a LED per interni  10W  3000K Bianco Caldo  Applique da Parete Interno e Esterno Moderno  Adatto per Soggiorno Corridoio Pareti Interne ed Esterne Davanzale](https://www.amazon.it/dp/B07W21NBFT/?tag=tolees00-21) ha un prezzo di 23.79 EUR (originale: 27.99 EUR) con uno sconto del 15.01 % sconto qui:
 
-[![Plafoniera LED Soffitto Moderna  Faretti](https://m.media-amazon.com/images/I/412130-vdzL._SL200_.jpg)](https://www.amazon.it/dp/B07W21NBFT/?tag=tolees00-21)
+[![Plafoniera LED Soffitto Moderna  Faretti](https://m.media-amazon.com/images/I/412130-vdzL._SL400_.jpg)](https://www.amazon.it/dp/B07W21NBFT/?tag=tolees00-21)
 
 ℹ️:
 

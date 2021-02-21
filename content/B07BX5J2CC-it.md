@@ -2,7 +2,7 @@
 layout: post
 title: 'Volante Pace Wheel PS4 al 66.64 % di sconto'
 date: 2020-10-07 06:31:48
-image: 'https://m.media-amazon.com/images/I/51SxAju4dFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SxAju4dFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.0'
 
 Puoi trovare [Volante Pace Wheel PS4](https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21) con il prezzo 50.0 EUR (originale: 149.9 EUR) 66.64 % sconto qui:
 
-[![Volante Pace Wheel PS4](https://m.media-amazon.com/images/I/51SxAju4dFL._SL200_.jpg)](https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21)
+[![Volante Pace Wheel PS4](https://m.media-amazon.com/images/I/51SxAju4dFL._SL400_.jpg)](https://www.amazon.it/dp/B07BX5J2CC/?tag=tolees00-21)
 
 ℹ️:
 

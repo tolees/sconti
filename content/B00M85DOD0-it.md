@@ -2,7 +2,7 @@
 layout: post
 title: 'BLACK+DECKER ASD184KB-QW Trapano/avvitat al 33.38 % di sconto'
 date: 2020-07-24 17:43:29
-image: 'https://m.media-amazon.com/images/I/41FteOkzfSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FteOkzfSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.9'
 
 Puoi trovare [BLACK+DECKER ASD184KB-QW Trapano/avvitatore Autosense 18V - 1.5AH  con doppia batteria in valigetta](https://www.amazon.it/dp/B00M85DOD0/?tag=tolees00-21) con il prezzo 99.9 EUR (originale: 149.95 EUR) 33.38 % sconto qui:
 
-[![BLACK+DECKER ASD184KB-QW Trapano/avvitat](https://m.media-amazon.com/images/I/41FteOkzfSL._SL200_.jpg)](https://www.amazon.it/dp/B00M85DOD0/?tag=tolees00-21)
+[![BLACK+DECKER ASD184KB-QW Trapano/avvitat](https://m.media-amazon.com/images/I/41FteOkzfSL._SL400_.jpg)](https://www.amazon.it/dp/B00M85DOD0/?tag=tolees00-21)
 
 ℹ️:
 

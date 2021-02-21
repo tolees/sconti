@@ -2,7 +2,7 @@
 layout: post
 title: 'Satya assortimento di Inciensos 12 scato al 26.91 % di sconto'
 date: 2020-09-23 23:28:30
-image: 'https://m.media-amazon.com/images/I/51BU1K7zXJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BU1K7zXJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.125'
 
 Puoi trovare [Satya assortimento di Inciensos 12 scatole da 15 g](https://www.amazon.it/dp/B0095LYRK4/?tag=tolees00-21) con il prezzo 11.11 EUR (originale: 15.2 EUR) 26.91 % sconto qui:
 
-[![Satya assortimento di Inciensos 12 scato](https://m.media-amazon.com/images/I/51BU1K7zXJL._SL200_.jpg)](https://www.amazon.it/dp/B0095LYRK4/?tag=tolees00-21)
+[![Satya assortimento di Inciensos 12 scato](https://m.media-amazon.com/images/I/51BU1K7zXJL._SL400_.jpg)](https://www.amazon.it/dp/B0095LYRK4/?tag=tolees00-21)
 
 ℹ️:
 

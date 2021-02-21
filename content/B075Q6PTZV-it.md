@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Atticus Lace  Scarpe Stringate De al 50.05 % di sconto'
 date: 2020-10-09 07:58:24
-image: 'https://m.media-amazon.com/images/I/31C5Es4LrTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31C5Es4LrTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.95'
 
 Puoi trovare [Clarks Atticus Lace  Scarpe Stringate Derby Uomo  Blu  Navy Nubuck -   41 EU](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21) con il prezzo 54.95 EUR (originale: 110.0 EUR) 50.05 % sconto qui:
 
-[![Clarks Atticus Lace  Scarpe Stringate De](https://m.media-amazon.com/images/I/31C5Es4LrTL._SL200_.jpg)](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21)
+[![Clarks Atticus Lace  Scarpe Stringate De](https://m.media-amazon.com/images/I/31C5Es4LrTL._SL400_.jpg)](https://www.amazon.it/dp/B075Q6PTZV/?tag=tolees00-21)
 
 ℹ️:
 

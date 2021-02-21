@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.01 % su Cressi Floating Mattress Lounger  Matera  '
 date: 2020-09-05 07:10:50
-image: 'https://m.media-amazon.com/images/I/41GOq6XdMfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GOq6XdMfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 [Cressi Floating Mattress Lounger  Materassino Gonfiabile Mare e Nuoto Unisex – Adulto  Azzuro  70 x 183 cm](https://www.amazon.it/dp/B07K87DYHQ/?tag=tolees00-21) ha un prezzo di 15.99 EUR (originale: 19.99 EUR) con uno sconto del 20.01 % sconto qui:
 
-[![Cressi Floating Mattress Lounger  Matera](https://m.media-amazon.com/images/I/41GOq6XdMfL._SL200_.jpg)](https://www.amazon.it/dp/B07K87DYHQ/?tag=tolees00-21)
+[![Cressi Floating Mattress Lounger  Matera](https://m.media-amazon.com/images/I/41GOq6XdMfL._SL400_.jpg)](https://www.amazon.it/dp/B07K87DYHQ/?tag=tolees00-21)
 
 ℹ️:
 

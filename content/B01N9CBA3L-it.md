@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 36.99 % su Lower East impermeable Uomo  Nero  Schwa  '
 date: 2020-10-12 12:10:44
-image: 'https://m.media-amazon.com/images/I/41-i1W6eODL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-i1W6eODL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.24'
 
 [Lower East impermeable Uomo  Nero  Schwarz   Large](https://www.amazon.it/dp/B01N9CBA3L/?tag=tolees00-21) ha un prezzo di 18.24 EUR (originale: 28.95 EUR) con uno sconto del 36.99 % sconto qui:
 
-[![Lower East impermeable Uomo  Nero  Schwa](https://m.media-amazon.com/images/I/41-i1W6eODL._SL200_.jpg)](https://www.amazon.it/dp/B01N9CBA3L/?tag=tolees00-21)
+[![Lower East impermeable Uomo  Nero  Schwa](https://m.media-amazon.com/images/I/41-i1W6eODL._SL400_.jpg)](https://www.amazon.it/dp/B01N9CBA3L/?tag=tolees00-21)
 
 ℹ️:
 

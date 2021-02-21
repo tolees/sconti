@@ -2,7 +2,7 @@
 layout: post
 title: 'Carioca Set Back To School | Set Cancell al 25.01 % di sconto'
 date: 2020-09-17 11:36:38
-image: 'https://m.media-amazon.com/images/I/51ggF3XXcvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ggF3XXcvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.42'
 
 Puoi trovare [Carioca Set Back To School | Set Cancelleria Scuola con Matite Colorate e da Disegno  Acquerelli con Pennello  Pennarelli  Penne Cancellabili Oops  Pastelli  Gomme  Forbici  Colla Stick  100 Pezzi](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21) con il prezzo 28.42 EUR (originale: 37.9 EUR) 25.01 % sconto qui:
 
-[![Carioca Set Back To School | Set Cancell](https://m.media-amazon.com/images/I/51ggF3XXcvL._SL200_.jpg)](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21)
+[![Carioca Set Back To School | Set Cancell](https://m.media-amazon.com/images/I/51ggF3XXcvL._SL400_.jpg)](https://www.amazon.it/dp/B07VSRMC2V/?tag=tolees00-21)
 
 ℹ️:
 

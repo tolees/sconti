@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 47.80 % su Ecovacs Robotics Deebot N79S Robot Aspir  '
 date: 2020-08-04 13:47:38
-image: 'https://m.media-amazon.com/images/I/41bRjVGVycL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bRjVGVycL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.99'
 
 [Ecovacs Robotics Deebot N79S Robot Aspirapolvere – Robot Pulisci Pavimenti con Modalità Max – Controllo Smart tramite App e Telecomando – Autoricarica – Marrone Metallizzato](https://www.amazon.it/dp/B077HW9XM7/?tag=tolees00-21) ha un prezzo di 129.99 EUR (originale: 249.0 EUR) con uno sconto del 47.80 % sconto qui:
 
-[![Ecovacs Robotics Deebot N79S Robot Aspir](https://m.media-amazon.com/images/I/41bRjVGVycL._SL200_.jpg)](https://www.amazon.it/dp/B077HW9XM7/?tag=tolees00-21)
+[![Ecovacs Robotics Deebot N79S Robot Aspir](https://m.media-amazon.com/images/I/41bRjVGVycL._SL400_.jpg)](https://www.amazon.it/dp/B077HW9XM7/?tag=tolees00-21)
 
 ℹ️:
 

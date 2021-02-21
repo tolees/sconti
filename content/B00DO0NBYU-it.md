@@ -2,7 +2,7 @@
 layout: post
 title: 'Brooks - Scarpe sportive - Running  Uomo al 41.43 % di sconto'
 date: 2020-09-23 23:28:13
-image: 'https://m.media-amazon.com/images/I/41I9BkbzvUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I9BkbzvUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.0'
 
 Puoi trovare [Brooks - Scarpe sportive - Running  Uomo  Nero  Black   45.5](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21) con il prezzo 82.0 EUR (originale: 140.0 EUR) 41.43 % sconto qui:
 
-[![Brooks - Scarpe sportive - Running  Uomo](https://m.media-amazon.com/images/I/41I9BkbzvUL._SL200_.jpg)](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)
+[![Brooks - Scarpe sportive - Running  Uomo](https://m.media-amazon.com/images/I/41I9BkbzvUL._SL400_.jpg)](https://www.amazon.it/dp/B00DO0NBYU/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 66.64 % su FEIMUOSI Webcam con Microfono  Webcam St  '
 date: 2020-10-10 05:13:21
-image: 'https://m.media-amazon.com/images/I/4113Fbx05sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4113Fbx05sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.49'
 
 [FEIMUOSI Webcam con Microfono  Webcam Streaming 1080P HD con Treppiede per PC Laptop Mac Videocamera Web Girevole Plug And Play USB per Videochiamate Registrazione Conferenze Supporta i Giochi](https://www.amazon.it/dp/B08JLQ1RBV/?tag=tolees00-21) ha un prezzo di 25.99 EUR (originale: 77.91 EUR) con uno sconto del 66.64 % sconto qui:
 
-[![FEIMUOSI Webcam con Microfono  Webcam St](https://m.media-amazon.com/images/I/4113Fbx05sL._SL200_.jpg)](https://www.amazon.it/dp/B08JLQ1RBV/?tag=tolees00-21)
+[![FEIMUOSI Webcam con Microfono  Webcam St](https://m.media-amazon.com/images/I/4113Fbx05sL._SL400_.jpg)](https://www.amazon.it/dp/B08JLQ1RBV/?tag=tolees00-21)
 
 ℹ️:
 

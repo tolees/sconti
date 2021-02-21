@@ -2,7 +2,7 @@
 layout: post
 title: 'Pampero Rum Aniversario Ml.700 al 15.97 % di sconto'
 date: 2020-08-05 13:35:26
-image: 'https://m.media-amazon.com/images/I/413Q1Q+pc9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413Q1Q+pc9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.47'
 
 Puoi trovare [Pampero Rum Aniversario Ml.700](https://www.amazon.it/dp/B003WIHR44/?tag=tolees00-21) con il prezzo 16.47 EUR (originale: 19.6 EUR) 15.97 % sconto qui:
 
-[![Pampero Rum Aniversario Ml.700](https://m.media-amazon.com/images/I/413Q1Q+pc9L._SL200_.jpg)](https://www.amazon.it/dp/B003WIHR44/?tag=tolees00-21)
+[![Pampero Rum Aniversario Ml.700](https://m.media-amazon.com/images/I/413Q1Q+pc9L._SL400_.jpg)](https://www.amazon.it/dp/B003WIHR44/?tag=tolees00-21)
 
 ℹ️:
 

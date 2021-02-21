@@ -2,7 +2,7 @@
 layout: post
 title: 'Hugo Boss Boss Bottled Unlimited Eau de  al 61.52 % di sconto'
 date: 2020-07-21 10:44:37
-image: 'https://m.media-amazon.com/images/I/31XxjnM4RAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XxjnM4RAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.9'
 
 Puoi trovare [Hugo Boss Boss Bottled Unlimited Eau de Toilette Spray 100 ml](https://www.amazon.it/dp/B00IGB86YC/?tag=tolees00-21) con il prezzo 35.9 EUR (originale: 93.3 EUR) 61.52 % sconto qui:
 
-[![Hugo Boss Boss Bottled Unlimited Eau de ](https://m.media-amazon.com/images/I/31XxjnM4RAL._SL200_.jpg)](https://www.amazon.it/dp/B00IGB86YC/?tag=tolees00-21)
+[![Hugo Boss Boss Bottled Unlimited Eau de ](https://m.media-amazon.com/images/I/31XxjnM4RAL._SL400_.jpg)](https://www.amazon.it/dp/B00IGB86YC/?tag=tolees00-21)
 
 ℹ️:
 

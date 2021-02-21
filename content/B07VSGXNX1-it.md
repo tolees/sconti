@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 31.06 % su Pesoforma Biscotti Lampone e Mela - Past  '
 date: 2020-09-14 11:05:39
-image: 'https://m.media-amazon.com/images/I/51RiV2Uvm5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RiV2Uvm5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.59'
 
 [Pesoforma Biscotti Lampone e Mela - Pasto sostitutivo dimagrante - SOLO 236 Kcal - Ricco in proteine - 8 pasti](https://www.amazon.it/dp/B07VSGXNX1/?tag=tolees00-21) ha un prezzo di 7.59 EUR (originale: 11.01 EUR) con uno sconto del 31.06 % sconto qui:
 
-[![Pesoforma Biscotti Lampone e Mela - Past](https://m.media-amazon.com/images/I/51RiV2Uvm5L._SL200_.jpg)](https://www.amazon.it/dp/B07VSGXNX1/?tag=tolees00-21)
+[![Pesoforma Biscotti Lampone e Mela - Past](https://m.media-amazon.com/images/I/51RiV2Uvm5L._SL400_.jpg)](https://www.amazon.it/dp/B07VSGXNX1/?tag=tolees00-21)
 
 ℹ️:
 

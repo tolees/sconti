@@ -2,7 +2,7 @@
 layout: post
 title: 'YAMAMAY® Pigiama Lungo Donna - Love al 40.00 % di sconto'
 date: 2020-09-04 05:01:41
-image: 'https://m.media-amazon.com/images/I/31sg02DxTsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sg02DxTsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.97'
 
 Puoi trovare [YAMAMAY® Pigiama Lungo Donna - Love](https://www.amazon.it/dp/B081FF8CV4/?tag=tolees00-21) con il prezzo 17.97 EUR (originale: 29.95 EUR) 40.00 % sconto qui:
 
-[![YAMAMAY® Pigiama Lungo Donna - Love](https://m.media-amazon.com/images/I/31sg02DxTsL._SL200_.jpg)](https://www.amazon.it/dp/B081FF8CV4/?tag=tolees00-21)
+[![YAMAMAY® Pigiama Lungo Donna - Love](https://m.media-amazon.com/images/I/31sg02DxTsL._SL400_.jpg)](https://www.amazon.it/dp/B081FF8CV4/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 49.99 % su CARPISA® Borsa a secchiello - Jordy  '
 date: 2020-07-21 18:18:55
-image: 'https://m.media-amazon.com/images/I/31Wt1PRN3yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Wt1PRN3yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.98'
 
 [CARPISA® Borsa a secchiello - Jordy](https://www.amazon.it/dp/B07XRXBXP9/?tag=tolees00-21) ha un prezzo di 19.98 EUR (originale: 39.95 EUR) con uno sconto del 49.99 % sconto qui:
 
-[![CARPISA® Borsa a secchiello - Jordy](https://m.media-amazon.com/images/I/31Wt1PRN3yL._SL200_.jpg)](https://www.amazon.it/dp/B07XRXBXP9/?tag=tolees00-21)
+[![CARPISA® Borsa a secchiello - Jordy](https://m.media-amazon.com/images/I/31Wt1PRN3yL._SL400_.jpg)](https://www.amazon.it/dp/B07XRXBXP9/?tag=tolees00-21)
 
 ℹ️:
 

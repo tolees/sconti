@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 45.30 % su De Cecco Pasta Integrale Fusilli - 500 g  '
 date: 2020-07-27 12:46:58
-image: 'https://m.media-amazon.com/images/I/51JvkCth4hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JvkCth4hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.99'
 
 [De Cecco Pasta Integrale Fusilli - 500 g](https://www.amazon.it/dp/B07YSFQLQK/?tag=tolees00-21) ha un prezzo di 0.99 EUR (originale: 1.81 EUR) con uno sconto del 45.30 % sconto qui:
 
-[![De Cecco Pasta Integrale Fusilli - 500 g](https://m.media-amazon.com/images/I/51JvkCth4hL._SL200_.jpg)](https://www.amazon.it/dp/B07YSFQLQK/?tag=tolees00-21)
+[![De Cecco Pasta Integrale Fusilli - 500 g](https://m.media-amazon.com/images/I/51JvkCth4hL._SL400_.jpg)](https://www.amazon.it/dp/B07YSFQLQK/?tag=tolees00-21)
 
 ℹ️:
 

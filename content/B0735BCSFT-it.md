@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 49.77 % su Napapijri Rainforest Winter - Giacca con  '
 date: 2020-09-02 08:33:25
-image: 'https://m.media-amazon.com/images/I/412IfEvjfvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412IfEvjfvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.95'
 
 [Napapijri Rainforest Winter - Giacca con cappuccio  100 % Poliammide  Tasca a marsupio  Manica lunga  Bianco  Bright White 002   Large Uomo](https://www.amazon.it/dp/B0735BCSFT/?tag=tolees00-21) ha un prezzo di 99.95 EUR (originale: 199.0 EUR) con uno sconto del 49.77 % sconto qui:
 
-[![Napapijri Rainforest Winter - Giacca con](https://m.media-amazon.com/images/I/412IfEvjfvL._SL200_.jpg)](https://www.amazon.it/dp/B0735BCSFT/?tag=tolees00-21)
+[![Napapijri Rainforest Winter - Giacca con](https://m.media-amazon.com/images/I/412IfEvjfvL._SL400_.jpg)](https://www.amazon.it/dp/B0735BCSFT/?tag=tolees00-21)
 
 ℹ️:
 

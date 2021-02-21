@@ -2,7 +2,7 @@
 layout: post
 title: 'JACK & JONES Jjimarco Jjbowie Sa Pantalo al 57.51 % di sconto'
 date: 2020-09-04 16:23:01
-image: 'https://m.media-amazon.com/images/I/31UefeCXIdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UefeCXIdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Puoi trovare [JACK & JONES Jjimarco Jjbowie Sa Pantaloni  Beige  Beige Beige   W30/L30  Taglia Produttore: 30  Uomo](https://www.amazon.it/dp/B07JPX38HL/?tag=tolees00-21) con il prezzo 16.99 EUR (originale: 39.99 EUR) 57.51 % sconto qui:
 
-[![JACK & JONES Jjimarco Jjbowie Sa Pantalo](https://m.media-amazon.com/images/I/31UefeCXIdL._SL200_.jpg)](https://www.amazon.it/dp/B07JPX38HL/?tag=tolees00-21)
+[![JACK & JONES Jjimarco Jjbowie Sa Pantalo](https://m.media-amazon.com/images/I/31UefeCXIdL._SL400_.jpg)](https://www.amazon.it/dp/B07JPX38HL/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.01 % su VicTsing Tastiera e Mouse Wireless PC  K  '
 date: 2020-09-22 13:09:09
-image: 'https://m.media-amazon.com/images/I/41mB+7gWXwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mB+7gWXwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.79'
 
 [VicTsing Tastiera e Mouse Wireless PC  Kit Tastiera Mouse Wireless  Tastiera Wireless Tasti Cioccolati  Mouse Ultra Silenzioso  Ricevitore 2-in-1 per PC  Notebook  Laptop](https://www.amazon.it/dp/B07TDCFVTG/?tag=tolees00-21) ha un prezzo di 20.79 EUR (originale: 25.99 EUR) con uno sconto del 20.01 % sconto qui:
 
-[![VicTsing Tastiera e Mouse Wireless PC  K](https://m.media-amazon.com/images/I/41mB+7gWXwL._SL200_.jpg)](https://www.amazon.it/dp/B07TDCFVTG/?tag=tolees00-21)
+[![VicTsing Tastiera e Mouse Wireless PC  K](https://m.media-amazon.com/images/I/41mB+7gWXwL._SL400_.jpg)](https://www.amazon.it/dp/B07TDCFVTG/?tag=tolees00-21)
 
 ℹ️:
 

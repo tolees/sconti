@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 54.69 % su Puma CB  Giacca A Vento Uomo  Black  L  '
 date: 2020-08-31 15:33:50
-image: 'https://m.media-amazon.com/images/I/417Mn4+s1aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417Mn4+s1aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.2'
 
 [Puma CB  Giacca A Vento Uomo  Black  L](https://www.amazon.it/dp/B07XDZLS1F/?tag=tolees00-21) ha un prezzo di 17.2 EUR (originale: 37.96 EUR) con uno sconto del 54.69 % sconto qui:
 
-[![Puma CB  Giacca A Vento Uomo  Black  L](https://m.media-amazon.com/images/I/417Mn4+s1aL._SL200_.jpg)](https://www.amazon.it/dp/B07XDZLS1F/?tag=tolees00-21)
+[![Puma CB  Giacca A Vento Uomo  Black  L](https://m.media-amazon.com/images/I/417Mn4+s1aL._SL400_.jpg)](https://www.amazon.it/dp/B07XDZLS1F/?tag=tolees00-21)
 
 ℹ️:
 

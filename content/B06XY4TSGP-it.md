@@ -2,7 +2,7 @@
 layout: post
 title: 'Audio-Technica ATHDSR7BT cuffia al 57.31 % di sconto'
 date: 2020-10-12 20:27:57
-image: 'https://m.media-amazon.com/images/I/41H1iD34pmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H1iD34pmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.0'
 
 Puoi trovare [Audio-Technica ATHDSR7BT cuffia](https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21) con il prezzo 149.0 EUR (originale: 349.0 EUR) 57.31 % sconto qui:
 
-[![Audio-Technica ATHDSR7BT cuffia](https://m.media-amazon.com/images/I/41H1iD34pmL._SL200_.jpg)](https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21)
+[![Audio-Technica ATHDSR7BT cuffia](https://m.media-amazon.com/images/I/41H1iD34pmL._SL400_.jpg)](https://www.amazon.it/dp/B06XY4TSGP/?tag=tolees00-21)
 
 ℹ️:
 

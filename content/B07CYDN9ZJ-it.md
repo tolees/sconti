@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 19.69 % su Salomon XA PRO 3D J  Scarpe da Trail Run  '
 date: 2020-08-26 21:54:15
-image: 'https://m.media-amazon.com/images/I/41wTcsTOaqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wTcsTOaqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.16'
 
 [Salomon XA PRO 3D J  Scarpe da Trail Running Unisex – Bambini  Rosso/Arancione  Cerise/Dubarry/Peach Amber   36 EU](https://www.amazon.it/dp/B07CYDN9ZJ/?tag=tolees00-21) ha un prezzo di 52.16 EUR (originale: 64.95 EUR) con uno sconto del 19.69 % sconto qui:
 
-[![Salomon XA PRO 3D J  Scarpe da Trail Run](https://m.media-amazon.com/images/I/41wTcsTOaqL._SL200_.jpg)](https://www.amazon.it/dp/B07CYDN9ZJ/?tag=tolees00-21)
+[![Salomon XA PRO 3D J  Scarpe da Trail Run](https://m.media-amazon.com/images/I/41wTcsTOaqL._SL400_.jpg)](https://www.amazon.it/dp/B07CYDN9ZJ/?tag=tolees00-21)
 
 ℹ️:
 

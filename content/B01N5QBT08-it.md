@@ -2,7 +2,7 @@
 layout: post
 title: 'Hori Volante RWO Racing Wheel Overdrive  al 23.21 % di sconto'
 date: 2020-08-27 16:51:56
-image: 'https://m.media-amazon.com/images/I/51rvbcdlzxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rvbcdlzxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.922'
 
 Puoi trovare [Hori Volante RWO Racing Wheel Overdrive  Xbox One ](https://www.amazon.it/dp/B01N5QBT08/?tag=tolees00-21) con il prezzo 95.99 EUR (originale: 125.0 EUR) 23.21 % sconto qui:
 
-[![Hori Volante RWO Racing Wheel Overdrive ](https://m.media-amazon.com/images/I/51rvbcdlzxL._SL200_.jpg)](https://www.amazon.it/dp/B01N5QBT08/?tag=tolees00-21)
+[![Hori Volante RWO Racing Wheel Overdrive ](https://m.media-amazon.com/images/I/51rvbcdlzxL._SL400_.jpg)](https://www.amazon.it/dp/B01N5QBT08/?tag=tolees00-21)
 
 ℹ️:
 

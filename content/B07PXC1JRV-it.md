@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 39.99 % su Controller wireless PS4 per laptop Plays  '
 date: 2020-08-06 23:50:06
-image: 'https://m.media-amazon.com/images/I/21MGhAh6A4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21MGhAh6A4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.35285714285713'
 
 [Controller wireless PS4 per laptop Playstation 4 / Pro/Slim/PC  pannello a sfioramento Joypad con doppia vibrazione  modo tempestivo per condividere il joystick](https://www.amazon.it/dp/B07PXC1JRV/?tag=tolees00-21) ha un prezzo di 36.0 EUR (originale: 59.99 EUR) con uno sconto del 39.99 % sconto qui:
 
-[![Controller wireless PS4 per laptop Plays](https://m.media-amazon.com/images/I/21MGhAh6A4L._SL200_.jpg)](https://www.amazon.it/dp/B07PXC1JRV/?tag=tolees00-21)
+[![Controller wireless PS4 per laptop Plays](https://m.media-amazon.com/images/I/21MGhAh6A4L._SL400_.jpg)](https://www.amazon.it/dp/B07PXC1JRV/?tag=tolees00-21)
 
 ℹ️:
 

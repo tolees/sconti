@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 41.99 % su Havaianas Slim Flatform  Infradito Donna  '
 date: 2020-08-29 11:04:30
-image: 'https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.6'
 
 [Havaianas Slim Flatform  Infradito Donna  Blu  Blue 0057   35/36 EU](https://www.amazon.it/dp/B07TQZB5XM/?tag=tolees00-21) ha un prezzo di 12.6 EUR (originale: 21.72 EUR) con uno sconto del 41.99 % sconto qui:
 
-[![Havaianas Slim Flatform  Infradito Donna](https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL200_.jpg)](https://www.amazon.it/dp/B07TQZB5XM/?tag=tolees00-21)
+[![Havaianas Slim Flatform  Infradito Donna](https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL400_.jpg)](https://www.amazon.it/dp/B07TQZB5XM/?tag=tolees00-21)
 
 ℹ️:
 

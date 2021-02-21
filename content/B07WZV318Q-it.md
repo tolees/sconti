@@ -2,7 +2,7 @@
 layout: post
 title: 'STARBUCKS SINGLE-ORIGIN COLOMBIA by NESC al 47.53 % di sconto'
 date: 2020-09-10 17:27:10
-image: 'https://m.media-amazon.com/images/I/41TlWshpbdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TlWshpbdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.5'
 
 Puoi trovare [STARBUCKS SINGLE-ORIGIN COLOMBIA by NESCAFÉ DOLCE GUSTO Caffè dalla tostatura media 6 confezioni da 12 capsule  72 capsule ](https://www.amazon.it/dp/B07WZV318Q/?tag=tolees00-21) con il prezzo 13.5 EUR (originale: 25.73 EUR) 47.53 % sconto qui:
 
-[![STARBUCKS SINGLE-ORIGIN COLOMBIA by NESC](https://m.media-amazon.com/images/I/41TlWshpbdL._SL200_.jpg)](https://www.amazon.it/dp/B07WZV318Q/?tag=tolees00-21)
+[![STARBUCKS SINGLE-ORIGIN COLOMBIA by NESC](https://m.media-amazon.com/images/I/41TlWshpbdL._SL400_.jpg)](https://www.amazon.it/dp/B07WZV318Q/?tag=tolees00-21)
 
 ℹ️:
 

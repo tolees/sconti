@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox D BIBBIANA A  Scarpe con Tacco Donn al 81.64 % di sconto'
 date: 2020-09-07 09:52:13
-image: 'https://m.media-amazon.com/images/I/31sqD9v5wVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sqD9v5wVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.01'
 
 Puoi trovare [Geox D BIBBIANA A  Scarpe con Tacco Donna  Nero  Black C9997   35 EU](https://www.amazon.it/dp/B07LFZC6JC/?tag=tolees00-21) con il prezzo 22.01 EUR (originale: 119.9 EUR) 81.64 % sconto qui:
 
-[![Geox D BIBBIANA A  Scarpe con Tacco Donn](https://m.media-amazon.com/images/I/31sqD9v5wVL._SL200_.jpg)](https://www.amazon.it/dp/B07LFZC6JC/?tag=tolees00-21)
+[![Geox D BIBBIANA A  Scarpe con Tacco Donn](https://m.media-amazon.com/images/I/31sqD9v5wVL._SL400_.jpg)](https://www.amazon.it/dp/B07LFZC6JC/?tag=tolees00-21)
 
 ℹ️:
 

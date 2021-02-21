@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas Ripple TS  Maglietta Uomo  Bianco al 34.27 % di sconto'
 date: 2020-09-11 08:02:52
-image: 'https://m.media-amazon.com/images/I/31qTAqYx61L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31qTAqYx61L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.98'
 
 Puoi trovare [adidas Ripple TS  Maglietta Uomo  Bianco  White/Shock Pink   M](https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21) con il prezzo 13.98 EUR (originale: 21.27 EUR) 34.27 % sconto qui:
 
-[![adidas Ripple TS  Maglietta Uomo  Bianco](https://m.media-amazon.com/images/I/31qTAqYx61L._SL200_.jpg)](https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21)
+[![adidas Ripple TS  Maglietta Uomo  Bianco](https://m.media-amazon.com/images/I/31qTAqYx61L._SL400_.jpg)](https://www.amazon.it/dp/B081TPT8VY/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 21.98 % su Vans Ward Sneaker  Unisex – Bambini  Sue  '
 date: 2020-08-19 17:48:20
-image: 'https://m.media-amazon.com/images/I/41WOWQsjVGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WOWQsjVGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.11'
 
 [Vans Ward Sneaker  Unisex – Bambini  Suede/Canvas Black/White Iju  39 EU](https://www.amazon.it/dp/B01MRLZ9T1/?tag=tolees00-21) ha un prezzo di 35.11 EUR (originale: 45.0 EUR) con uno sconto del 21.98 % sconto qui:
 
-[![Vans Ward Sneaker  Unisex – Bambini  Sue](https://m.media-amazon.com/images/I/41WOWQsjVGL._SL200_.jpg)](https://www.amazon.it/dp/B01MRLZ9T1/?tag=tolees00-21)
+[![Vans Ward Sneaker  Unisex – Bambini  Sue](https://m.media-amazon.com/images/I/41WOWQsjVGL._SL400_.jpg)](https://www.amazon.it/dp/B01MRLZ9T1/?tag=tolees00-21)
 
 ℹ️:
 

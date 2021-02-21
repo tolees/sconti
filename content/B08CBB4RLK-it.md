@@ -2,7 +2,7 @@
 layout: post
 title: 'Tau-Marin Spazzolino Professional 27 Med al 28.99 % di sconto'
 date: 2020-07-27 22:26:32
-image: 'https://m.media-amazon.com/images/I/41Il6mJgF7L._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Il6mJgF7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.9'
 
 Puoi trovare [Tau-Marin Spazzolino Professional 27 Medio Edizione Limitata by Alessandro Enriquez  Giallo ](https://www.amazon.it/dp/B08CBB4RLK/?tag=tolees00-21) con il prezzo 4.9 EUR (originale: 6.9 EUR) 28.99 % sconto qui:
 
-[![Tau-Marin Spazzolino Professional 27 Med](https://m.media-amazon.com/images/I/41Il6mJgF7L._SL500_._SL200_.jpg)](https://www.amazon.it/dp/B08CBB4RLK/?tag=tolees00-21)
+[![Tau-Marin Spazzolino Professional 27 Med](https://m.media-amazon.com/images/I/41Il6mJgF7L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08CBB4RLK/?tag=tolees00-21)
 
 ℹ️:
 

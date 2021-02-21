@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 49.41 % su PUMA Ralph Sampson Lo  Scarpe da Ginnast  '
 date: 2020-08-17 06:25:51
-image: 'https://m.media-amazon.com/images/I/41kVoONHRgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kVoONHRgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.45'
 
 [PUMA Ralph Sampson Lo  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black White  47 EU](https://www.amazon.it/dp/B07S9RTWLP/?tag=tolees00-21) ha un prezzo di 40.45 EUR (originale: 79.95 EUR) con uno sconto del 49.41 % sconto qui:
 
-[![PUMA Ralph Sampson Lo  Scarpe da Ginnast](https://m.media-amazon.com/images/I/41kVoONHRgL._SL200_.jpg)](https://www.amazon.it/dp/B07S9RTWLP/?tag=tolees00-21)
+[![PUMA Ralph Sampson Lo  Scarpe da Ginnast](https://m.media-amazon.com/images/I/41kVoONHRgL._SL400_.jpg)](https://www.amazon.it/dp/B07S9RTWLP/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 17.12 % su HOMCOM Porta Scorrevole Interna in Vetro  '
 date: 2020-09-28 06:33:33
-image: 'https://m.media-amazon.com/images/I/31AXI5C+QWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AXI5C+QWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '138.36'
 
 [HOMCOM Porta Scorrevole Interna in Vetro Smerigliato e Satinato con Binario B1 e Maniglia per Bagno Cucina Studio Vetro 210x 75x 0 8cm](https://www.amazon.it/dp/B07H3T3VXD/?tag=tolees00-21) ha un prezzo di 138.36 EUR (originale: 166.95 EUR) con uno sconto del 17.12 % sconto qui:
 
-[![HOMCOM Porta Scorrevole Interna in Vetro](https://m.media-amazon.com/images/I/31AXI5C+QWL._SL200_.jpg)](https://www.amazon.it/dp/B07H3T3VXD/?tag=tolees00-21)
+[![HOMCOM Porta Scorrevole Interna in Vetro](https://m.media-amazon.com/images/I/31AXI5C+QWL._SL400_.jpg)](https://www.amazon.it/dp/B07H3T3VXD/?tag=tolees00-21)
 
 ℹ️:
 

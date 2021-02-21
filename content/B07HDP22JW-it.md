@@ -2,7 +2,7 @@
 layout: post
 title: 'Only Onltia DNM Jacket BB MB Bex02 Noos  al 45.01 % di sconto'
 date: 2020-10-09 15:20:28
-image: 'https://m.media-amazon.com/images/I/51u7tSNxSxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51u7tSNxSxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Puoi trovare [Only Onltia DNM Jacket BB MB Bex02 Noos Giacca in Jeans  Blu  Medium Blue Denim Medium Blue Denim   46  Taglia Produttore: 42  Donna](https://www.amazon.it/dp/B07HDP22JW/?tag=tolees00-21) con il prezzo 21.99 EUR (originale: 39.99 EUR) 45.01 % sconto qui:
 
-[![Only Onltia DNM Jacket BB MB Bex02 Noos ](https://m.media-amazon.com/images/I/51u7tSNxSxL._SL200_.jpg)](https://www.amazon.it/dp/B07HDP22JW/?tag=tolees00-21)
+[![Only Onltia DNM Jacket BB MB Bex02 Noos ](https://m.media-amazon.com/images/I/51u7tSNxSxL._SL400_.jpg)](https://www.amazon.it/dp/B07HDP22JW/?tag=tolees00-21)
 
 ℹ️:
 

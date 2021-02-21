@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 35.19 % su Kingston Canvas Select Plus SDCS2/128GB   '
 date: 2020-09-17 19:05:23
-image: 'https://m.media-amazon.com/images/I/41iqLNmpPWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iqLNmpPWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.9'
 
 [Kingston Canvas Select Plus SDCS2/128GB Scheda microSD Classe 10 con Adattatore SD Incluso  128 GB](https://www.amazon.it/dp/B07YGZ7JD5/?tag=tolees00-21) ha un prezzo di 14.9 EUR (originale: 22.99 EUR) con uno sconto del 35.19 % sconto qui:
 
-[![Kingston Canvas Select Plus SDCS2/128GB ](https://m.media-amazon.com/images/I/41iqLNmpPWL._SL200_.jpg)](https://www.amazon.it/dp/B07YGZ7JD5/?tag=tolees00-21)
+[![Kingston Canvas Select Plus SDCS2/128GB ](https://m.media-amazon.com/images/I/41iqLNmpPWL._SL400_.jpg)](https://www.amazon.it/dp/B07YGZ7JD5/?tag=tolees00-21)
 
 ℹ️:
 

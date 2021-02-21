@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 38.49 % su Aerku Cover Silicone per Samsung Galaxy   '
 date: 2020-10-02 20:19:28
-image: 'https://m.media-amazon.com/images/I/41A4BKjG+ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A4BKjG+ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 [Aerku Cover Silicone per Samsung Galaxy M51  Morbido Silicone Gel TPU Cover Cristallo [Trasparente] [Sottile] Slim Anti Scivolo Antiurto Custodie Protettivo Case TPU Cover per Samsung Galaxy M51](https://www.amazon.it/dp/B08H56H7WV/?tag=tolees00-21) ha un prezzo di 7.99 EUR (originale: 12.99 EUR) con uno sconto del 38.49 % sconto qui:
 
-[![Aerku Cover Silicone per Samsung Galaxy ](https://m.media-amazon.com/images/I/41A4BKjG+ML._SL200_.jpg)](https://www.amazon.it/dp/B08H56H7WV/?tag=tolees00-21)
+[![Aerku Cover Silicone per Samsung Galaxy ](https://m.media-amazon.com/images/I/41A4BKjG+ML._SL400_.jpg)](https://www.amazon.it/dp/B08H56H7WV/?tag=tolees00-21)
 
 ℹ️:
 

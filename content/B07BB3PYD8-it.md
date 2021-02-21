@@ -2,7 +2,7 @@
 layout: post
 title: 'HyperX HX-HSCSC-BK Cloud Stinger Core  C al 42.46 % di sconto'
 date: 2020-10-10 06:28:45
-image: 'https://m.media-amazon.com/images/I/416CKAoDGTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416CKAoDGTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.455000000000002'
 
 Puoi trovare [HyperX HX-HSCSC-BK Cloud Stinger Core  Cuffie Gaming per Console PlayStation 4/4 Pro](https://www.amazon.it/dp/B07BB3PYD8/?tag=tolees00-21) con il prezzo 23.01 EUR (originale: 39.99 EUR) 42.46 % sconto qui:
 
-[![HyperX HX-HSCSC-BK Cloud Stinger Core  C](https://m.media-amazon.com/images/I/416CKAoDGTL._SL200_.jpg)](https://www.amazon.it/dp/B07BB3PYD8/?tag=tolees00-21)
+[![HyperX HX-HSCSC-BK Cloud Stinger Core  C](https://m.media-amazon.com/images/I/416CKAoDGTL._SL400_.jpg)](https://www.amazon.it/dp/B07BB3PYD8/?tag=tolees00-21)
 
 ℹ️:
 

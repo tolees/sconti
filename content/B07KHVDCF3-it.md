@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 57.15 % su ALLPOWERS Caricabatterie Solare 24000mAh  '
 date: 2020-08-28 18:30:35
-image: 'https://m.media-amazon.com/images/I/41eFMKlkMCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eFMKlkMCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 [ALLPOWERS Caricabatterie Solare 24000mAh Solare Powerbank Batteria Esterna con USB C Uscite e Ingressi 3 Porte USB Power per Cellulare iPhone Samsung Huawei Smartphone Campeggio Esterno](https://www.amazon.it/dp/B07KHVDCF3/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 69.99 EUR) con uno sconto del 57.15 % sconto qui:
 
-[![ALLPOWERS Caricabatterie Solare 24000mAh](https://m.media-amazon.com/images/I/41eFMKlkMCL._SL200_.jpg)](https://www.amazon.it/dp/B07KHVDCF3/?tag=tolees00-21)
+[![ALLPOWERS Caricabatterie Solare 24000mAh](https://m.media-amazon.com/images/I/41eFMKlkMCL._SL400_.jpg)](https://www.amazon.it/dp/B07KHVDCF3/?tag=tolees00-21)
 
 ℹ️:
 

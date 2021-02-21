@@ -2,7 +2,7 @@
 layout: post
 title: 'eXtremeRate Soft Grip Cover Copertura Fr al 43.50 % di sconto'
 date: 2020-09-26 13:57:21
-image: 'https://m.media-amazon.com/images/I/41s4lPC3AxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s4lPC3AxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Puoi trovare [eXtremeRate Soft Grip Cover Copertura Frontale Joystick Custodia Guscio Case Ricambio per Xbox One S X Controller Model 1708 Rosso Nero ](https://www.amazon.it/dp/B08HYZKK14/?tag=tolees00-21) con il prezzo 12.99 EUR (originale: 22.99 EUR) 43.50 % sconto qui:
 
-[![eXtremeRate Soft Grip Cover Copertura Fr](https://m.media-amazon.com/images/I/41s4lPC3AxL._SL200_.jpg)](https://www.amazon.it/dp/B08HYZKK14/?tag=tolees00-21)
+[![eXtremeRate Soft Grip Cover Copertura Fr](https://m.media-amazon.com/images/I/41s4lPC3AxL._SL400_.jpg)](https://www.amazon.it/dp/B08HYZKK14/?tag=tolees00-21)
 
 ℹ️:
 

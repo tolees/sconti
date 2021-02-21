@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 25.08 % su Meliconi Vision Line 300 Mobile Porta TV  '
 date: 2020-09-13 11:38:05
-image: 'https://m.media-amazon.com/images/I/416I2CdeITL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416I2CdeITL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.86'
 
 [Meliconi Vision Line 300 Mobile Porta TV con 3 Ripiani in Vetro Temperato Flat  Nero](https://www.amazon.it/dp/B010UH5QJM/?tag=tolees00-21) ha un prezzo di 119.86 EUR (originale: 159.99 EUR) con uno sconto del 25.08 % sconto qui:
 
-[![Meliconi Vision Line 300 Mobile Porta TV](https://m.media-amazon.com/images/I/416I2CdeITL._SL200_.jpg)](https://www.amazon.it/dp/B010UH5QJM/?tag=tolees00-21)
+[![Meliconi Vision Line 300 Mobile Porta TV](https://m.media-amazon.com/images/I/416I2CdeITL._SL400_.jpg)](https://www.amazon.it/dp/B010UH5QJM/?tag=tolees00-21)
 
 ℹ️:
 

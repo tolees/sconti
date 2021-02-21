@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Light Weight Hooded Jacke al 79.06 % di sconto'
 date: 2020-08-11 14:35:31
-image: 'https://m.media-amazon.com/images/I/41o-eG+wbTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41o-eG+wbTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.67'
 
 Puoi trovare [Tommy Hilfiger Light Weight Hooded Jacket Bomber  Blu  Blue Dw5   Large Uomo](https://www.amazon.it/dp/B07RHGHV6H/?tag=tolees00-21) con il prezzo 41.67 EUR (originale: 199.0 EUR) 79.06 % sconto qui:
 
-[![Tommy Hilfiger Light Weight Hooded Jacke](https://m.media-amazon.com/images/I/41o-eG+wbTL._SL200_.jpg)](https://www.amazon.it/dp/B07RHGHV6H/?tag=tolees00-21)
+[![Tommy Hilfiger Light Weight Hooded Jacke](https://m.media-amazon.com/images/I/41o-eG+wbTL._SL400_.jpg)](https://www.amazon.it/dp/B07RHGHV6H/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Batcombe Wing  Scarpe Stringate D al 27.95 % di sconto'
 date: 2020-09-12 15:38:00
-image: 'https://m.media-amazon.com/images/I/41e0MuPoRhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e0MuPoRhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.25'
 
 Puoi trovare [Clarks Batcombe Wing  Scarpe Stringate Derby Uomo  Nero  Black Leather-   41.5 EU](https://www.amazon.it/dp/B074N6SCSD/?tag=tolees00-21) con il prezzo 79.25 EUR (originale: 110.0 EUR) 27.95 % sconto qui:
 
-[![Clarks Batcombe Wing  Scarpe Stringate D](https://m.media-amazon.com/images/I/41e0MuPoRhL._SL200_.jpg)](https://www.amazon.it/dp/B074N6SCSD/?tag=tolees00-21)
+[![Clarks Batcombe Wing  Scarpe Stringate D](https://m.media-amazon.com/images/I/41e0MuPoRhL._SL400_.jpg)](https://www.amazon.it/dp/B074N6SCSD/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 16.88 % su CARE OF by PUMA Slip on Court Low-Top Sn  '
 date: 2020-09-03 07:36:05
-image: 'https://m.media-amazon.com/images/I/31P+oGn8piL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P+oGn8piL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.48'
 
 [CARE OF by PUMA Slip on Court Low-Top Sneakers  Nero  Black- Black   39 EU](https://www.amazon.it/dp/B07XLM5Z9L/?tag=tolees00-21) ha un prezzo di 23.48 EUR (originale: 28.25 EUR) con uno sconto del 16.88 % sconto qui:
 
-[![CARE OF by PUMA Slip on Court Low-Top Sn](https://m.media-amazon.com/images/I/31P+oGn8piL._SL200_.jpg)](https://www.amazon.it/dp/B07XLM5Z9L/?tag=tolees00-21)
+[![CARE OF by PUMA Slip on Court Low-Top Sn](https://m.media-amazon.com/images/I/31P+oGn8piL._SL400_.jpg)](https://www.amazon.it/dp/B07XLM5Z9L/?tag=tolees00-21)
 
 ℹ️:
 

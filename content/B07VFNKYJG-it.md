@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.04 % su Desigual Bols rhapsody Durban - Borsa a   '
 date: 2020-09-29 09:44:22
-image: 'https://m.media-amazon.com/images/I/31BgUFcuAvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BgUFcuAvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.44'
 
 [Desigual Bols rhapsody Durban - Borsa a tracolla  4 x 17 5 x 27 2 cm  colore: marrone/beige](https://www.amazon.it/dp/B07VFNKYJG/?tag=tolees00-21) ha un prezzo di 14.44 EUR (originale: 18.06 EUR) con uno sconto del 20.04 % sconto qui:
 
-[![Desigual Bols rhapsody Durban - Borsa a ](https://m.media-amazon.com/images/I/31BgUFcuAvL._SL200_.jpg)](https://www.amazon.it/dp/B07VFNKYJG/?tag=tolees00-21)
+[![Desigual Bols rhapsody Durban - Borsa a ](https://m.media-amazon.com/images/I/31BgUFcuAvL._SL400_.jpg)](https://www.amazon.it/dp/B07VFNKYJG/?tag=tolees00-21)
 
 ℹ️:
 

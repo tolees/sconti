@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Nautical Print Beach Sand al 20.97 % di sconto'
 date: 2020-08-28 09:58:26
-image: 'https://m.media-amazon.com/images/I/41Eag16QUcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Eag16QUcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.63'
 
 Puoi trovare [Tommy Hilfiger Nautical Print Beach Sandal  Punta Aperta Uomo  Nero  Black Bds   41 EU](https://www.amazon.it/dp/B07V2J2WVP/?tag=tolees00-21) con il prezzo 23.63 EUR (originale: 29.9 EUR) 20.97 % sconto qui:
 
-[![Tommy Hilfiger Nautical Print Beach Sand](https://m.media-amazon.com/images/I/41Eag16QUcL._SL200_.jpg)](https://www.amazon.it/dp/B07V2J2WVP/?tag=tolees00-21)
+[![Tommy Hilfiger Nautical Print Beach Sand](https://m.media-amazon.com/images/I/41Eag16QUcL._SL400_.jpg)](https://www.amazon.it/dp/B07V2J2WVP/?tag=tolees00-21)
 
 ℹ️:
 

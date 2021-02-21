@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 44.01 % su Amazon Echo  3ª generazione   Tessuto gr  '
 date: 2020-08-06 08:09:27
-image: 'https://m.media-amazon.com/images/I/41D4sQfl-NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D4sQfl-NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.98'
 
 [Amazon Echo  3ª generazione   Tessuto grigio mélange + Amazon Smart Plug  presa intelligente con connettività Wi-Fi   compatibile con Alexa](https://www.amazon.it/dp/B08D1KWX1J/?tag=tolees00-21) ha un prezzo di 69.98 EUR (originale: 124.98 EUR) con uno sconto del 44.01 % sconto qui:
 
-[![Amazon Echo  3ª generazione   Tessuto gr](https://m.media-amazon.com/images/I/41D4sQfl-NL._SL200_.jpg)](https://www.amazon.it/dp/B08D1KWX1J/?tag=tolees00-21)
+[![Amazon Echo  3ª generazione   Tessuto gr](https://m.media-amazon.com/images/I/41D4sQfl-NL._SL400_.jpg)](https://www.amazon.it/dp/B08D1KWX1J/?tag=tolees00-21)
 
 ℹ️:
 

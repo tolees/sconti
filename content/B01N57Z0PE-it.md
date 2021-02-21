@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste L1212  T-Shirt Polo  Uomo  Blu   al 20.54 % di sconto'
 date: 2020-08-14 23:45:40
-image: 'https://m.media-amazon.com/images/I/31H2gNzg9FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31H2gNzg9FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.49'
 
 Puoi trovare [Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   FR 10](https://www.amazon.it/dp/B01N57Z0PE/?tag=tolees00-21) con il prezzo 75.49 EUR (originale: 95.0 EUR) 20.54 % sconto qui:
 
-[![Lacoste L1212  T-Shirt Polo  Uomo  Blu  ](https://m.media-amazon.com/images/I/31H2gNzg9FL._SL200_.jpg)](https://www.amazon.it/dp/B01N57Z0PE/?tag=tolees00-21)
+[![Lacoste L1212  T-Shirt Polo  Uomo  Blu  ](https://m.media-amazon.com/images/I/31H2gNzg9FL._SL400_.jpg)](https://www.amazon.it/dp/B01N57Z0PE/?tag=tolees00-21)
 
 ℹ️:
 

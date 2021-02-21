@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 47.07 % su adidas Adilette  Ciabatte Donna  Nero  C  '
 date: 2020-09-24 11:28:32
-image: 'https://m.media-amazon.com/images/I/410pX+3RSCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410pX+3RSCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.5'
 
 [adidas Adilette  Ciabatte Donna  Nero  Core Black/Blue Glow/Core Black   44.5 EU](https://www.amazon.it/dp/B0813XYGL9/?tag=tolees00-21) ha un prezzo di 18.5 EUR (originale: 34.95 EUR) con uno sconto del 47.07 % sconto qui:
 
-[![adidas Adilette  Ciabatte Donna  Nero  C](https://m.media-amazon.com/images/I/410pX+3RSCL._SL200_.jpg)](https://www.amazon.it/dp/B0813XYGL9/?tag=tolees00-21)
+[![adidas Adilette  Ciabatte Donna  Nero  C](https://m.media-amazon.com/images/I/410pX+3RSCL._SL400_.jpg)](https://www.amazon.it/dp/B0813XYGL9/?tag=tolees00-21)
 
 ℹ️:
 

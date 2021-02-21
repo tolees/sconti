@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 22.74 % su Portapacchi Bici  Alluminio Bici posteri  '
 date: 2020-09-19 05:29:36
-image: 'https://m.media-amazon.com/images/I/41H71GhNqIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H71GhNqIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.48'
 
 [Portapacchi Bici  Alluminio Bici posteriore Rack bicicletta portapacchi ciclismo reggisella Rack Mountain Bike Cargo](https://www.amazon.it/dp/B06WW9SBZB/?tag=tolees00-21) ha un prezzo di 25.48 EUR (originale: 32.98 EUR) con uno sconto del 22.74 % sconto qui:
 
-[![Portapacchi Bici  Alluminio Bici posteri](https://m.media-amazon.com/images/I/41H71GhNqIL._SL200_.jpg)](https://www.amazon.it/dp/B06WW9SBZB/?tag=tolees00-21)
+[![Portapacchi Bici  Alluminio Bici posteri](https://m.media-amazon.com/images/I/41H71GhNqIL._SL400_.jpg)](https://www.amazon.it/dp/B06WW9SBZB/?tag=tolees00-21)
 
 ℹ️:
 

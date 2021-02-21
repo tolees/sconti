@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 59.52 % su Tommy Hilfiger Tropical Print Maglietta   '
 date: 2020-08-22 07:15:26
-image: 'https://m.media-amazon.com/images/I/51LAJKndiHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LAJKndiHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 [Tommy Hilfiger Tropical Print Maglietta  Blu  Faded Indigo   L Uomo](https://www.amazon.it/dp/B07W91YJTJ/?tag=tolees00-21) ha un prezzo di 19.95 EUR (originale: 49.28 EUR) con uno sconto del 59.52 % sconto qui:
 
-[![Tommy Hilfiger Tropical Print Maglietta ](https://m.media-amazon.com/images/I/51LAJKndiHL._SL200_.jpg)](https://www.amazon.it/dp/B07W91YJTJ/?tag=tolees00-21)
+[![Tommy Hilfiger Tropical Print Maglietta ](https://m.media-amazon.com/images/I/51LAJKndiHL._SL400_.jpg)](https://www.amazon.it/dp/B07W91YJTJ/?tag=tolees00-21)
 
 ℹ️:
 

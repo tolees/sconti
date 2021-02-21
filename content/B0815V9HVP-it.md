@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 40.95 % su Hdmi Switch  mrocioa 3 porte ingresso 1   '
 date: 2020-10-03 02:09:34
-image: 'https://m.media-amazon.com/images/I/411TTg9EGIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411TTg9EGIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.69'
 
 [Hdmi Switch  mrocioa 3 porte ingresso 1 out 4K Hdmi Switcher Box con telecomando. Hdmi Splitter 4K Hub. Supporto PS4/Xbox One/Fire TV/Apple TV/SKY BOX/STB/DVD/Laptop/Roku.](https://www.amazon.it/dp/B0815V9HVP/?tag=tolees00-21) ha un prezzo di 17.69 EUR (originale: 29.96 EUR) con uno sconto del 40.95 % sconto qui:
 
-[![Hdmi Switch  mrocioa 3 porte ingresso 1 ](https://m.media-amazon.com/images/I/411TTg9EGIL._SL200_.jpg)](https://www.amazon.it/dp/B0815V9HVP/?tag=tolees00-21)
+[![Hdmi Switch  mrocioa 3 porte ingresso 1 ](https://m.media-amazon.com/images/I/411TTg9EGIL._SL400_.jpg)](https://www.amazon.it/dp/B0815V9HVP/?tag=tolees00-21)
 
 ℹ️:
 

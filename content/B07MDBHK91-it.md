@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 48.14 % su G-STAR RAW 3301 Slim Shirt Camicia in Je  '
 date: 2020-09-07 10:31:32
-image: 'https://m.media-amazon.com/images/I/41webrYi8jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41webrYi8jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.46'
 
 [G-STAR RAW 3301 Slim Shirt Camicia in Jeans  Nero  Rinsed 082   Medium Uomo](https://www.amazon.it/dp/B07MDBHK91/?tag=tolees00-21) ha un prezzo di 41.46 EUR (originale: 79.95 EUR) con uno sconto del 48.14 % sconto qui:
 
-[![G-STAR RAW 3301 Slim Shirt Camicia in Je](https://m.media-amazon.com/images/I/41webrYi8jL._SL200_.jpg)](https://www.amazon.it/dp/B07MDBHK91/?tag=tolees00-21)
+[![G-STAR RAW 3301 Slim Shirt Camicia in Je](https://m.media-amazon.com/images/I/41webrYi8jL._SL400_.jpg)](https://www.amazon.it/dp/B07MDBHK91/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 26.70 % su Sola Scriptura  '
 date: 2020-10-05 11:44:21
-image: 'https://m.media-amazon.com/images/I/41kN5Kd2JZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kN5Kd2JZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 [Sola Scriptura](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21) ha un prezzo di 7.99 EUR (originale: 10.9 EUR) con uno sconto del 26.70 % sconto qui:
 
-[![Sola Scriptura](https://m.media-amazon.com/images/I/41kN5Kd2JZL._SL200_.jpg)](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21)
+[![Sola Scriptura](https://m.media-amazon.com/images/I/41kN5Kd2JZL._SL400_.jpg)](https://www.amazon.it/dp/B0035KGWWW/?tag=tolees00-21)
 
 ℹ️:
 

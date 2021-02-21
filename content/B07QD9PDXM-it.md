@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 25.25 % su Adidas EC Org  Apparel Accessories Uomo   '
 date: 2020-09-06 06:52:47
-image: 'https://m.media-amazon.com/images/I/41tpdatJU7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tpdatJU7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 [Adidas EC Org  Apparel Accessories Uomo  Black  Taglia Unica](https://www.amazon.it/dp/B07QD9PDXM/?tag=tolees00-21) ha un prezzo di 14.95 EUR (originale: 20.0 EUR) con uno sconto del 25.25 % sconto qui:
 
-[![Adidas EC Org  Apparel Accessories Uomo ](https://m.media-amazon.com/images/I/41tpdatJU7L._SL200_.jpg)](https://www.amazon.it/dp/B07QD9PDXM/?tag=tolees00-21)
+[![Adidas EC Org  Apparel Accessories Uomo ](https://m.media-amazon.com/images/I/41tpdatJU7L._SL400_.jpg)](https://www.amazon.it/dp/B07QD9PDXM/?tag=tolees00-21)
 
 ℹ️:
 

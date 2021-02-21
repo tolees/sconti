@@ -2,7 +2,7 @@
 layout: post
 title: 'Boss Tee 4 T-Shirt  Blu  Navy 410   X-La al 55.71 % di sconto'
 date: 2020-09-19 07:36:45
-image: 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.55'
 
 Puoi trovare [Boss Tee 4 T-Shirt  Blu  Navy 410   X-Large Uomo](https://www.amazon.it/dp/B07V8HJ3N2/?tag=tolees00-21) con il prezzo 26.55 EUR (originale: 59.95 EUR) 55.71 % sconto qui:
 
-[![Boss Tee 4 T-Shirt  Blu  Navy 410   X-La](https://m.media-amazon.com/images/I/41RJZoCGmwL._SL200_.jpg)](https://www.amazon.it/dp/B07V8HJ3N2/?tag=tolees00-21)
+[![Boss Tee 4 T-Shirt  Blu  Navy 410   X-La](https://m.media-amazon.com/images/I/41RJZoCGmwL._SL400_.jpg)](https://www.amazon.it/dp/B07V8HJ3N2/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 27.32 % su RoC Doposole 200 ml  '
 date: 2020-07-22 11:37:15
-image: 'https://m.media-amazon.com/images/I/31aoDI+CruL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aoDI+CruL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 [RoC Doposole 200 ml](https://www.amazon.it/dp/B00ZY5YWNC/?tag=tolees00-21) ha un prezzo di 3.99 EUR (originale: 5.49 EUR) con uno sconto del 27.32 % sconto qui:
 
-[![RoC Doposole 200 ml](https://m.media-amazon.com/images/I/31aoDI+CruL._SL200_.jpg)](https://www.amazon.it/dp/B00ZY5YWNC/?tag=tolees00-21)
+[![RoC Doposole 200 ml](https://m.media-amazon.com/images/I/31aoDI+CruL._SL400_.jpg)](https://www.amazon.it/dp/B00ZY5YWNC/?tag=tolees00-21)
 
 ℹ️:
 

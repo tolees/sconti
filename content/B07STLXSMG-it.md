@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 60.42 % su Geox D PONTOISE D  Scarpe da Ginnastica   '
 date: 2020-08-27 17:02:25
-image: 'https://m.media-amazon.com/images/I/31DFRh25GSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DFRh25GSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '45.52'
 
 [Geox D PONTOISE D  Scarpe da Ginnastica Basse Donna  Nero  Black/Lt Gold C9258   38 EU](https://www.amazon.it/dp/B07STLXSMG/?tag=tolees00-21) ha un prezzo di 45.52 EUR (originale: 115.0 EUR) con uno sconto del 60.42 % sconto qui:
 
-[![Geox D PONTOISE D  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/31DFRh25GSL._SL200_.jpg)](https://www.amazon.it/dp/B07STLXSMG/?tag=tolees00-21)
+[![Geox D PONTOISE D  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/31DFRh25GSL._SL400_.jpg)](https://www.amazon.it/dp/B07STLXSMG/?tag=tolees00-21)
 
 ℹ️:
 

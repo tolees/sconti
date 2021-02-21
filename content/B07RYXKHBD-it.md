@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 60.00 % su Pepe Jeans Hatch Jeans  Medium Used Hb6   '
 date: 2020-09-05 16:14:06
-image: 'https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.0'
 
 [Pepe Jeans Hatch Jeans  Medium Used Hb6  29 W - 32 L Uomo](https://www.amazon.it/dp/B07RYXKHBD/?tag=tolees00-21) ha un prezzo di 34.0 EUR (originale: 85.0 EUR) con uno sconto del 60.00 % sconto qui:
 
-[![Pepe Jeans Hatch Jeans  Medium Used Hb6 ](https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL200_.jpg)](https://www.amazon.it/dp/B07RYXKHBD/?tag=tolees00-21)
+[![Pepe Jeans Hatch Jeans  Medium Used Hb6 ](https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL400_.jpg)](https://www.amazon.it/dp/B07RYXKHBD/?tag=tolees00-21)
 
 ℹ️:
 

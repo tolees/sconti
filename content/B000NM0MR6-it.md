@@ -2,7 +2,7 @@
 layout: post
 title: 'Casio Orologio Analogico al Quarzo Donna al 69.37 % di sconto'
 date: 2020-08-25 15:56:00
-image: 'https://m.media-amazon.com/images/I/51wjdeIS0hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wjdeIS0hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Puoi trovare [Casio Orologio Analogico al Quarzo Donna con Cinturino in Acciaio Inox LTP-2069D-2AVEF](https://www.amazon.it/dp/B000NM0MR6/?tag=tolees00-21) con il prezzo 29.99 EUR (originale: 97.9 EUR) 69.37 % sconto qui:
 
-[![Casio Orologio Analogico al Quarzo Donna](https://m.media-amazon.com/images/I/51wjdeIS0hL._SL200_.jpg)](https://www.amazon.it/dp/B000NM0MR6/?tag=tolees00-21)
+[![Casio Orologio Analogico al Quarzo Donna](https://m.media-amazon.com/images/I/51wjdeIS0hL._SL400_.jpg)](https://www.amazon.it/dp/B000NM0MR6/?tag=tolees00-21)
 
 ℹ️:
 

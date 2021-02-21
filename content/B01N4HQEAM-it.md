@@ -2,7 +2,7 @@
 layout: post
 title: 'Multicentrum Uomo Integratore - 30 Compr al 34.91 % di sconto'
 date: 2020-09-18 10:03:26
-image: 'https://m.media-amazon.com/images/I/51+X0g7hkvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+X0g7hkvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.35'
 
 Puoi trovare [Multicentrum Uomo Integratore - 30 Compresse](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21) con il prezzo 10.35 EUR (originale: 15.9 EUR) 34.91 % sconto qui:
 
-[![Multicentrum Uomo Integratore - 30 Compr](https://m.media-amazon.com/images/I/51+X0g7hkvL._SL200_.jpg)](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21)
+[![Multicentrum Uomo Integratore - 30 Compr](https://m.media-amazon.com/images/I/51+X0g7hkvL._SL400_.jpg)](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21)
 
 ℹ️:
 

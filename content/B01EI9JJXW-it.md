@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 47.46 % su adidas Gazelle  Scarpe da Ginnastica Bas  '
 date: 2020-08-27 11:36:33
-image: 'https://m.media-amazon.com/images/I/4152AllJu5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4152AllJu5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '52.4'
 
 [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Nero  Core Black/White/Gold Met   39 1/3 EU](https://www.amazon.it/dp/B01EI9JJXW/?tag=tolees00-21) ha un prezzo di 52.4 EUR (originale: 99.74 EUR) con uno sconto del 47.46 % sconto qui:
 
-[![adidas Gazelle  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/4152AllJu5L._SL200_.jpg)](https://www.amazon.it/dp/B01EI9JJXW/?tag=tolees00-21)
+[![adidas Gazelle  Scarpe da Ginnastica Bas](https://m.media-amazon.com/images/I/4152AllJu5L._SL400_.jpg)](https://www.amazon.it/dp/B01EI9JJXW/?tag=tolees00-21)
 
 ℹ️:
 

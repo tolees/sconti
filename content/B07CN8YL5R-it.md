@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 40.18 % su Crocs Crocband Flip  Infradito Unisex –   '
 date: 2020-10-09 10:35:54
-image: 'https://m.media-amazon.com/images/I/31yh1i9aIBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yh1i9aIBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 [Crocs Crocband Flip  Infradito Unisex – Adulto  Verde  Vert Armée/Blanc 37P   43-44 EU](https://www.amazon.it/dp/B07CN8YL5R/?tag=tolees00-21) ha un prezzo di 14.95 EUR (originale: 24.99 EUR) con uno sconto del 40.18 % sconto qui:
 
-[![Crocs Crocband Flip  Infradito Unisex – ](https://m.media-amazon.com/images/I/31yh1i9aIBL._SL200_.jpg)](https://www.amazon.it/dp/B07CN8YL5R/?tag=tolees00-21)
+[![Crocs Crocband Flip  Infradito Unisex – ](https://m.media-amazon.com/images/I/31yh1i9aIBL._SL400_.jpg)](https://www.amazon.it/dp/B07CN8YL5R/?tag=tolees00-21)
 
 ℹ️:
 

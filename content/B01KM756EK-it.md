@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Killington Chukka  Scarpe Alt al 52.34 % di sconto'
 date: 2020-09-05 13:06:37
-image: 'https://m.media-amazon.com/images/I/41yDB1CBWaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yDB1CBWaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.96'
 
 Puoi trovare [Timberland Killington Chukka  Scarpe Alte Uomo  Beige  Wheat Nubuck   41 EU](https://www.amazon.it/dp/B01KM756EK/?tag=tolees00-21) con il prezzo 66.73 EUR (originale: 140.0 EUR) 52.34 % sconto qui:
 
-[![Timberland Killington Chukka  Scarpe Alt](https://m.media-amazon.com/images/I/41yDB1CBWaL._SL200_.jpg)](https://www.amazon.it/dp/B01KM756EK/?tag=tolees00-21)
+[![Timberland Killington Chukka  Scarpe Alt](https://m.media-amazon.com/images/I/41yDB1CBWaL._SL400_.jpg)](https://www.amazon.it/dp/B01KM756EK/?tag=tolees00-21)
 
 ℹ️:
 

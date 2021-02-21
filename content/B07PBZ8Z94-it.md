@@ -2,7 +2,7 @@
 layout: post
 title: 'American Tourister Disney Legends - Spin al 47.58 % di sconto'
 date: 2020-07-25 13:33:48
-image: 'https://m.media-amazon.com/images/I/41RoexLx3cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RoexLx3cL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.61'
 
 Puoi trovare [American Tourister Disney Legends - Spinner S Valigia per Bambini  S  55 cm - 36 L   Blu  Take Me Away Mickey London ](https://www.amazon.it/dp/B07PBZ8Z94/?tag=tolees00-21) con il prezzo 57.61 EUR (originale: 109.9 EUR) 47.58 % sconto qui:
 
-[![American Tourister Disney Legends - Spin](https://m.media-amazon.com/images/I/41RoexLx3cL._SL200_.jpg)](https://www.amazon.it/dp/B07PBZ8Z94/?tag=tolees00-21)
+[![American Tourister Disney Legends - Spin](https://m.media-amazon.com/images/I/41RoexLx3cL._SL400_.jpg)](https://www.amazon.it/dp/B07PBZ8Z94/?tag=tolees00-21)
 
 ℹ️:
 

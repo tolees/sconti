@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 21.57 % su IKOHS CUTBOT - Rasaerba robotizzato Auto  '
 date: 2020-09-26 05:32:15
-image: 'https://m.media-amazon.com/images/I/4162DHAQMGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4162DHAQMGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '499.95'
 
 [IKOHS CUTBOT - Rasaerba robotizzato Automatico con Batteria  Superficie del Prato Fino a 500 m²  Pendenza Massima Fino al 30%  4 Lame orientabili per Un Taglio del Prato preciso e Silenzioso  Nero ](https://www.amazon.it/dp/B07ZPC87CS/?tag=tolees00-21) ha un prezzo di 499.95 EUR (originale: 637.44 EUR) con uno sconto del 21.57 % sconto qui:
 
-[![IKOHS CUTBOT - Rasaerba robotizzato Auto](https://m.media-amazon.com/images/I/4162DHAQMGL._SL200_.jpg)](https://www.amazon.it/dp/B07ZPC87CS/?tag=tolees00-21)
+[![IKOHS CUTBOT - Rasaerba robotizzato Auto](https://m.media-amazon.com/images/I/4162DHAQMGL._SL400_.jpg)](https://www.amazon.it/dp/B07ZPC87CS/?tag=tolees00-21)
 
 ℹ️:
 

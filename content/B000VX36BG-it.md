@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Classic 2 Eye  Scarpe da Barc al 33.09 % di sconto'
 date: 2020-09-11 08:14:58
-image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.52'
 
 Puoi trovare [Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone Rootbeer Smooth  44.5 EU](https://www.amazon.it/dp/B000VX36BG/?tag=tolees00-21) con il prezzo 97.02 EUR (originale: 145.0 EUR) 33.09 % sconto qui:
 
-[![Timberland Classic 2 Eye  Scarpe da Barc](https://m.media-amazon.com/images/I/41rlmDu11XL._SL200_.jpg)](https://www.amazon.it/dp/B000VX36BG/?tag=tolees00-21)
+[![Timberland Classic 2 Eye  Scarpe da Barc](https://m.media-amazon.com/images/I/41rlmDu11XL._SL400_.jpg)](https://www.amazon.it/dp/B000VX36BG/?tag=tolees00-21)
 
 ℹ️:
 

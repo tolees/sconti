@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 30.10 % su Paranoia Airlines  '
 date: 2020-10-12 20:28:43
-image: 'https://m.media-amazon.com/images/I/51fuV8Gc7dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fuV8Gc7dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.89'
 
 [Paranoia Airlines](https://www.amazon.it/dp/B07KWHHFJ9/?tag=tolees00-21) ha un prezzo di 10.89 EUR (originale: 15.58 EUR) con uno sconto del 30.10 % sconto qui:
 
-[![Paranoia Airlines](https://m.media-amazon.com/images/I/51fuV8Gc7dL._SL200_.jpg)](https://www.amazon.it/dp/B07KWHHFJ9/?tag=tolees00-21)
+[![Paranoia Airlines](https://m.media-amazon.com/images/I/51fuV8Gc7dL._SL400_.jpg)](https://www.amazon.it/dp/B07KWHHFJ9/?tag=tolees00-21)
 
 ℹ️:
 

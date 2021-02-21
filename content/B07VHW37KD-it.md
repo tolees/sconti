@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 36.10 % su Desigual Bols Luna Rock Loverty - Borsa   '
 date: 2020-08-07 09:35:43
-image: 'https://m.media-amazon.com/images/I/41U+e-wgarL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U+e-wgarL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.95'
 
 [Desigual Bols Luna Rock Loverty - Borsa con manico  14 x 24 x 33 cm  Blu  Blu  Marino    14x24x33 cm  B x H x T ](https://www.amazon.it/dp/B07VHW37KD/?tag=tolees00-21) ha un prezzo di 31.95 EUR (originale: 50.0 EUR) con uno sconto del 36.10 % sconto qui:
 
-[![Desigual Bols Luna Rock Loverty - Borsa ](https://m.media-amazon.com/images/I/41U+e-wgarL._SL200_.jpg)](https://www.amazon.it/dp/B07VHW37KD/?tag=tolees00-21)
+[![Desigual Bols Luna Rock Loverty - Borsa ](https://m.media-amazon.com/images/I/41U+e-wgarL._SL400_.jpg)](https://www.amazon.it/dp/B07VHW37KD/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Wmns Revolution 5  Scarpe da Corsa  al 30.00 % di sconto'
 date: 2020-08-24 09:18:59
-image: 'https://m.media-amazon.com/images/I/3184Lf90BgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3184Lf90BgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.5'
 
 Puoi trovare [Nike Wmns Revolution 5  Scarpe da Corsa Womens  Black/White-Anthracite  40.5 EU](https://www.amazon.it/dp/B07NLVRH2Z/?tag=tolees00-21) con il prezzo 38.5 EUR (originale: 55.0 EUR) 30.00 % sconto qui:
 
-[![Nike Wmns Revolution 5  Scarpe da Corsa ](https://m.media-amazon.com/images/I/3184Lf90BgL._SL200_.jpg)](https://www.amazon.it/dp/B07NLVRH2Z/?tag=tolees00-21)
+[![Nike Wmns Revolution 5  Scarpe da Corsa ](https://m.media-amazon.com/images/I/3184Lf90BgL._SL400_.jpg)](https://www.amazon.it/dp/B07NLVRH2Z/?tag=tolees00-21)
 
 ℹ️:
 

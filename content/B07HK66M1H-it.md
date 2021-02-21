@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 59.12 % su Levi s Type 3 Giacca in Jeans  Blu  Ston  '
 date: 2020-08-29 11:35:45
-image: 'https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414YtyOsCtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.23'
 
 [Levi s Type 3 Giacca in Jeans  Blu  Stonebridge Sherpa Trucker 0070   XXX-Large Uomo](https://www.amazon.it/dp/B07HK66M1H/?tag=tolees00-21) ha un prezzo di 57.23 EUR (originale: 140.0 EUR) con uno sconto del 59.12 % sconto qui:
 
-[![Levi s Type 3 Giacca in Jeans  Blu  Ston](https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg)](https://www.amazon.it/dp/B07HK66M1H/?tag=tolees00-21)
+[![Levi s Type 3 Giacca in Jeans  Blu  Ston](https://m.media-amazon.com/images/I/414YtyOsCtL._SL400_.jpg)](https://www.amazon.it/dp/B07HK66M1H/?tag=tolees00-21)
 
 ℹ️:
 

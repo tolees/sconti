@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 51.82 % su Havaianas Slim Animals  Infradito Donna   '
 date: 2020-09-27 15:10:38
-image: 'https://m.media-amazon.com/images/I/41NophGzsKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NophGzsKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.49'
 
 [Havaianas Slim Animals  Infradito Donna  Multicolore  Ballet Rose 0076   33/34 EU](https://www.amazon.it/dp/B07SP52B7K/?tag=tolees00-21) ha un prezzo di 13.49 EUR (originale: 28.0 EUR) con uno sconto del 51.82 % sconto qui:
 
-[![Havaianas Slim Animals  Infradito Donna ](https://m.media-amazon.com/images/I/41NophGzsKL._SL200_.jpg)](https://www.amazon.it/dp/B07SP52B7K/?tag=tolees00-21)
+[![Havaianas Slim Animals  Infradito Donna ](https://m.media-amazon.com/images/I/41NophGzsKL._SL400_.jpg)](https://www.amazon.it/dp/B07SP52B7K/?tag=tolees00-21)
 
 ℹ️:
 

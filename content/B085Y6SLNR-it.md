@@ -2,7 +2,7 @@
 layout: post
 title: 'FlowerDas Termometro Frontale  Letture i al 43.17 % di sconto'
 date: 2020-07-19 18:01:19
-image: 'https://m.media-amazon.com/images/I/31oHtC80JyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oHtC80JyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.9'
 
 Puoi trovare [FlowerDas Termometro Frontale  Letture istantanee Accurate  Termometro Digitale a infrarossi Professionale Senza Contatto  per Neonati  Bambini  Adulti](https://www.amazon.it/dp/B085Y6SLNR/?tag=tolees00-21) con il prezzo 7.9 EUR (originale: 13.9 EUR) 43.17 % sconto qui:
 
-[![FlowerDas Termometro Frontale  Letture i](https://m.media-amazon.com/images/I/31oHtC80JyL._SL200_.jpg)](https://www.amazon.it/dp/B085Y6SLNR/?tag=tolees00-21)
+[![FlowerDas Termometro Frontale  Letture i](https://m.media-amazon.com/images/I/31oHtC80JyL._SL400_.jpg)](https://www.amazon.it/dp/B085Y6SLNR/?tag=tolees00-21)
 
 ℹ️:
 

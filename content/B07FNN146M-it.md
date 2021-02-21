@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Movie 2 - L astronave Sorellare di  al 50.66 % di sconto'
 date: 2020-09-01 13:05:33
-image: 'https://m.media-amazon.com/images/I/51DtbXoaDvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DtbXoaDvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.0'
 
 Puoi trovare [LEGO Movie 2 - L astronave Sorellare di Dolce Sconquasso!  70830](https://www.amazon.it/dp/B07FNN146M/?tag=tolees00-21) con il prezzo 37.0 EUR (originale: 74.99 EUR) 50.66 % sconto qui:
 
-[![LEGO Movie 2 - L astronave Sorellare di ](https://m.media-amazon.com/images/I/51DtbXoaDvL._SL200_.jpg)](https://www.amazon.it/dp/B07FNN146M/?tag=tolees00-21)
+[![LEGO Movie 2 - L astronave Sorellare di ](https://m.media-amazon.com/images/I/51DtbXoaDvL._SL400_.jpg)](https://www.amazon.it/dp/B07FNN146M/?tag=tolees00-21)
 
 ℹ️:
 

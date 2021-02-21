@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 24.32 % su Oral-B Genius 10000N Spazzolino Elettric  '
 date: 2020-08-27 08:33:17
-image: 'https://m.media-amazon.com/images/I/51H4DiagkDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51H4DiagkDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '230.63'
 
 [Oral-B Genius 10000N Spazzolino Elettrico  Nero Notte](https://www.amazon.it/dp/B07FSHNVDF/?tag=tolees00-21) ha un prezzo di 226.28 EUR (originale: 299.0 EUR) con uno sconto del 24.32 % sconto qui:
 
-[![Oral-B Genius 10000N Spazzolino Elettric](https://m.media-amazon.com/images/I/51H4DiagkDL._SL200_.jpg)](https://www.amazon.it/dp/B07FSHNVDF/?tag=tolees00-21)
+[![Oral-B Genius 10000N Spazzolino Elettric](https://m.media-amazon.com/images/I/51H4DiagkDL._SL400_.jpg)](https://www.amazon.it/dp/B07FSHNVDF/?tag=tolees00-21)
 
 ℹ️:
 

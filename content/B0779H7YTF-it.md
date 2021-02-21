@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 57.30 % su Kappa Taino Authentic - Felpa da Uomo co  '
 date: 2020-08-07 07:52:22
-image: 'https://m.media-amazon.com/images/I/4123CNj5xJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4123CNj5xJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.06'
 
 [Kappa Taino Authentic - Felpa da Uomo con Cappuccio  Stile retrò  a Maniche Lunghe  Taglia S-XXL  Uomo  705322  001 Bianco  XXL](https://www.amazon.it/dp/B0779H7YTF/?tag=tolees00-21) ha un prezzo di 17.06 EUR (originale: 39.95 EUR) con uno sconto del 57.30 % sconto qui:
 
-[![Kappa Taino Authentic - Felpa da Uomo co](https://m.media-amazon.com/images/I/4123CNj5xJL._SL200_.jpg)](https://www.amazon.it/dp/B0779H7YTF/?tag=tolees00-21)
+[![Kappa Taino Authentic - Felpa da Uomo co](https://m.media-amazon.com/images/I/4123CNj5xJL._SL400_.jpg)](https://www.amazon.it/dp/B0779H7YTF/?tag=tolees00-21)
 
 ℹ️:
 

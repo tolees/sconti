@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.07 % su Lacoste Sport L1230 Polo Sport Ultralegg  '
 date: 2020-10-01 14:10:48
-image: 'https://m.media-amazon.com/images/I/41s0iY9AZvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s0iY9AZvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.1390909090909'
 
 [Lacoste Sport L1230 Polo Sport Ultraleggera  Blu  Marine 166   Medium Uomo](https://www.amazon.it/dp/B00FBAF93W/?tag=tolees00-21) ha un prezzo di 55.95 EUR (originale: 70.0 EUR) con uno sconto del 20.07 % sconto qui:
 
-[![Lacoste Sport L1230 Polo Sport Ultralegg](https://m.media-amazon.com/images/I/41s0iY9AZvL._SL200_.jpg)](https://www.amazon.it/dp/B00FBAF93W/?tag=tolees00-21)
+[![Lacoste Sport L1230 Polo Sport Ultralegg](https://m.media-amazon.com/images/I/41s0iY9AZvL._SL400_.jpg)](https://www.amazon.it/dp/B00FBAF93W/?tag=tolees00-21)
 
 ℹ️:
 

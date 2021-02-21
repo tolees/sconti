@@ -2,7 +2,7 @@
 layout: post
 title: 'MKTOSASA - Supporto di Stampa con Batter al 20.05 % di sconto'
 date: 2020-08-18 08:14:22
-image: 'https://m.media-amazon.com/images/I/21fKer8IZuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21fKer8IZuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.1'
 
 Puoi trovare [MKTOSASA - Supporto di Stampa con Batteria di ricarica-10.000 mAh. con Display Rinforzato di Dimensioni 15x21.5cm  Finitura in Acrilico Trasparente per l inserimento di Poster - 16x27.5x7.8](https://www.amazon.it/dp/B085LKRJY2/?tag=tolees00-21) con il prezzo 31.1 EUR (originale: 38.9 EUR) 20.05 % sconto qui:
 
-[![MKTOSASA - Supporto di Stampa con Batter](https://m.media-amazon.com/images/I/21fKer8IZuL._SL200_.jpg)](https://www.amazon.it/dp/B085LKRJY2/?tag=tolees00-21)
+[![MKTOSASA - Supporto di Stampa con Batter](https://m.media-amazon.com/images/I/21fKer8IZuL._SL400_.jpg)](https://www.amazon.it/dp/B085LKRJY2/?tag=tolees00-21)
 
 ℹ️:
 

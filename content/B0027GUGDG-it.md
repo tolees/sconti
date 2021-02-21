@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 17.52 % su Netgear JGS524 Switch Ethernet Gigabit 2  '
 date: 2020-08-27 16:47:07
-image: 'https://m.media-amazon.com/images/I/311cCXsVXGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311cCXsVXGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '122.89'
 
 [Netgear JGS524 Switch Ethernet Gigabit 24 Porte  Switch Unmanaged  Assistenza a vita ProSafe  Versione Rack in metallo](https://www.amazon.it/dp/B0027GUGDG/?tag=tolees00-21) ha un prezzo di 122.89 EUR (originale: 149.0 EUR) con uno sconto del 17.52 % sconto qui:
 
-[![Netgear JGS524 Switch Ethernet Gigabit 2](https://m.media-amazon.com/images/I/311cCXsVXGL._SL200_.jpg)](https://www.amazon.it/dp/B0027GUGDG/?tag=tolees00-21)
+[![Netgear JGS524 Switch Ethernet Gigabit 2](https://m.media-amazon.com/images/I/311cCXsVXGL._SL400_.jpg)](https://www.amazon.it/dp/B0027GUGDG/?tag=tolees00-21)
 
 ℹ️:
 

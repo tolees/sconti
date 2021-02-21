@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 30.04 % su Dragon Ball Xenoverse 2 - Xbox One  '
 date: 2020-09-17 05:33:04
-image: 'https://m.media-amazon.com/images/I/61KLeJOBVzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61KLeJOBVzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.98'
 
 [Dragon Ball Xenoverse 2 - Xbox One](https://www.amazon.it/dp/B01HZN09VO/?tag=tolees00-21) ha un prezzo di 20.98 EUR (originale: 29.99 EUR) con uno sconto del 30.04 % sconto qui:
 
-[![Dragon Ball Xenoverse 2 - Xbox One](https://m.media-amazon.com/images/I/61KLeJOBVzL._SL200_.jpg)](https://www.amazon.it/dp/B01HZN09VO/?tag=tolees00-21)
+[![Dragon Ball Xenoverse 2 - Xbox One](https://m.media-amazon.com/images/I/61KLeJOBVzL._SL400_.jpg)](https://www.amazon.it/dp/B01HZN09VO/?tag=tolees00-21)
 
 ℹ️:
 

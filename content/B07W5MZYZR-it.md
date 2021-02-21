@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 60.01 % su Tommy Hilfiger Tommy Tipped Slim Polo  B  '
 date: 2020-08-24 18:29:18
-image: 'https://m.media-amazon.com/images/I/31BFErOnsEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31BFErOnsEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.66'
 
 [Tommy Hilfiger Tommy Tipped Slim Polo  Blu  Sail Blue   Small  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07W5MZYZR/?tag=tolees00-21) ha un prezzo di 30.66 EUR (originale: 76.66 EUR) con uno sconto del 60.01 % sconto qui:
 
-[![Tommy Hilfiger Tommy Tipped Slim Polo  B](https://m.media-amazon.com/images/I/31BFErOnsEL._SL200_.jpg)](https://www.amazon.it/dp/B07W5MZYZR/?tag=tolees00-21)
+[![Tommy Hilfiger Tommy Tipped Slim Polo  B](https://m.media-amazon.com/images/I/31BFErOnsEL._SL400_.jpg)](https://www.amazon.it/dp/B07W5MZYZR/?tag=tolees00-21)
 
 ℹ️:
 

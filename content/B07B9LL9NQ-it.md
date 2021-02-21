@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 50.01 % su JBL CLIP 3 Speaker Wireless Bluetooth  A  '
 date: 2020-10-01 06:54:25
-image: 'https://m.media-amazon.com/images/I/41IHvp0cp0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IHvp0cp0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 [JBL CLIP 3 Speaker Wireless Bluetooth  Altoparlante Portatile Impermeabile  IPX7  con moschettone integrato  Microfono con cancellazione di eco e rumori  Rosso](https://www.amazon.it/dp/B07B9LL9NQ/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 59.99 EUR) con uno sconto del 50.01 % sconto qui:
 
-[![JBL CLIP 3 Speaker Wireless Bluetooth  A](https://m.media-amazon.com/images/I/41IHvp0cp0L._SL200_.jpg)](https://www.amazon.it/dp/B07B9LL9NQ/?tag=tolees00-21)
+[![JBL CLIP 3 Speaker Wireless Bluetooth  A](https://m.media-amazon.com/images/I/41IHvp0cp0L._SL400_.jpg)](https://www.amazon.it/dp/B07B9LL9NQ/?tag=tolees00-21)
 
 ℹ️:
 

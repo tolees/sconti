@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 52.00 % su Polaroid POP 2.0 – Fotocamera digitale a  '
 date: 2020-08-28 14:55:01
-image: 'https://m.media-amazon.com/images/I/41vb9FhFoaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vb9FhFoaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.99'
 
 [Polaroid POP 2.0 – Fotocamera digitale a stampa istantanea  con display touchscreen da 3 97"  Wi-Fi integrato  video HD da 1080p  tecnologia zero inchiostro Zink e nuova app  blu](https://www.amazon.it/dp/B07FDL3FSP/?tag=tolees00-21) ha un prezzo di 119.99 EUR (originale: 249.99 EUR) con uno sconto del 52.00 % sconto qui:
 
-[![Polaroid POP 2.0 – Fotocamera digitale a](https://m.media-amazon.com/images/I/41vb9FhFoaL._SL200_.jpg)](https://www.amazon.it/dp/B07FDL3FSP/?tag=tolees00-21)
+[![Polaroid POP 2.0 – Fotocamera digitale a](https://m.media-amazon.com/images/I/41vb9FhFoaL._SL400_.jpg)](https://www.amazon.it/dp/B07FDL3FSP/?tag=tolees00-21)
 
 ℹ️:
 

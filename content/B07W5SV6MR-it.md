@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Squares Tee Maglietta  Bl al 43.16 % di sconto'
 date: 2020-09-03 09:09:14
-image: 'https://m.media-amazon.com/images/I/31OY44R2OKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OY44R2OKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.9'
 
 Puoi trovare [Tommy Hilfiger Squares Tee Maglietta  Blu  Sail Blue   Small Uomo](https://www.amazon.it/dp/B07W5SV6MR/?tag=tolees00-21) con il prezzo 24.9 EUR (originale: 43.81 EUR) 43.16 % sconto qui:
 
-[![Tommy Hilfiger Squares Tee Maglietta  Bl](https://m.media-amazon.com/images/I/31OY44R2OKL._SL200_.jpg)](https://www.amazon.it/dp/B07W5SV6MR/?tag=tolees00-21)
+[![Tommy Hilfiger Squares Tee Maglietta  Bl](https://m.media-amazon.com/images/I/31OY44R2OKL._SL400_.jpg)](https://www.amazon.it/dp/B07W5SV6MR/?tag=tolees00-21)
 
 ℹ️:
 

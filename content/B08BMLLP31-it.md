@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 38.80 % su OUPOD Controller wireless  Bluetooth  pe  '
 date: 2020-08-07 17:28:16
-image: 'https://m.media-amazon.com/images/I/41mGdhSWCEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mGdhSWCEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 [OUPOD Controller wireless  Bluetooth  per Nintendo Switch Pro collegato all host Switch supporta le funzioni NFC  l induzione del personaggio Amiibo e la funzione di sveglia.  giallo ](https://www.amazon.it/dp/B08BMLLP31/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 49.0 EUR) con uno sconto del 38.80 % sconto qui:
 
-[![OUPOD Controller wireless  Bluetooth  pe](https://m.media-amazon.com/images/I/41mGdhSWCEL._SL200_.jpg)](https://www.amazon.it/dp/B08BMLLP31/?tag=tolees00-21)
+[![OUPOD Controller wireless  Bluetooth  pe](https://m.media-amazon.com/images/I/41mGdhSWCEL._SL400_.jpg)](https://www.amazon.it/dp/B08BMLLP31/?tag=tolees00-21)
 
 ℹ️:
 

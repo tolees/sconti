@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 29.01 % su Columbia Fast Trek II  Giacca in pile co  '
 date: 2020-09-03 11:04:26
-image: 'https://m.media-amazon.com/images/I/31ROJkDabSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ROJkDabSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.49'
 
 [Columbia Fast Trek II  Giacca in pile con cerniera  Uomo](https://www.amazon.it/dp/B07V6N7MRF/?tag=tolees00-21) ha un prezzo di 35.49 EUR (originale: 49.99 EUR) con uno sconto del 29.01 % sconto qui:
 
-[![Columbia Fast Trek II  Giacca in pile co](https://m.media-amazon.com/images/I/31ROJkDabSL._SL200_.jpg)](https://www.amazon.it/dp/B07V6N7MRF/?tag=tolees00-21)
+[![Columbia Fast Trek II  Giacca in pile co](https://m.media-amazon.com/images/I/31ROJkDabSL._SL400_.jpg)](https://www.amazon.it/dp/B07V6N7MRF/?tag=tolees00-21)
 
 ℹ️:
 

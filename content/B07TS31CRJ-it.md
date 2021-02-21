@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 26.70 % su Levi s Housemark Graphic Tee T-Shirt  Ro  '
 date: 2020-10-04 06:32:15
-image: 'https://m.media-amazon.com/images/I/418xZBNbb3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418xZBNbb3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 [Levi s Housemark Graphic Tee T-Shirt  Rosso  HM Ssnl Tonal Earth Red 0276   Medium Uomo](https://www.amazon.it/dp/B07TS31CRJ/?tag=tolees00-21) ha un prezzo di 21.99 EUR (originale: 30.0 EUR) con uno sconto del 26.70 % sconto qui:
 
-[![Levi s Housemark Graphic Tee T-Shirt  Ro](https://m.media-amazon.com/images/I/418xZBNbb3L._SL200_.jpg)](https://www.amazon.it/dp/B07TS31CRJ/?tag=tolees00-21)
+[![Levi s Housemark Graphic Tee T-Shirt  Ro](https://m.media-amazon.com/images/I/418xZBNbb3L._SL400_.jpg)](https://www.amazon.it/dp/B07TS31CRJ/?tag=tolees00-21)
 
 ℹ️:
 

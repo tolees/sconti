@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 40.04 % su adidas Superstar  Scarpe da Ginnastica U  '
 date: 2020-08-17 07:14:58
-image: 'https://m.media-amazon.com/images/I/41bGJMrkaTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bGJMrkaTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.8'
 
 [adidas Superstar  Scarpe da Ginnastica Unisex Adulto  Nero  Core Black/Ftwr White/Core Black   44 EU](https://www.amazon.it/dp/B00PNUI5CC/?tag=tolees00-21) ha un prezzo di 59.8 EUR (originale: 99.74 EUR) con uno sconto del 40.04 % sconto qui:
 
-[![adidas Superstar  Scarpe da Ginnastica U](https://m.media-amazon.com/images/I/41bGJMrkaTL._SL200_.jpg)](https://www.amazon.it/dp/B00PNUI5CC/?tag=tolees00-21)
+[![adidas Superstar  Scarpe da Ginnastica U](https://m.media-amazon.com/images/I/41bGJMrkaTL._SL400_.jpg)](https://www.amazon.it/dp/B00PNUI5CC/?tag=tolees00-21)
 
 ℹ️:
 

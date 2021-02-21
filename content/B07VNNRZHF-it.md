@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 60.00 % su Calvin Klein Medium Drawstring Pantalonc  '
 date: 2020-08-28 07:11:27
-image: 'https://m.media-amazon.com/images/I/41sMGSdKOZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sMGSdKOZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.74'
 
 [Calvin Klein Medium Drawstring Pantaloncini  Blu  Black Iris CBK   Uomo](https://www.amazon.it/dp/B07VNNRZHF/?tag=tolees00-21) ha un prezzo di 25.74 EUR (originale: 64.35 EUR) con uno sconto del 60.00 % sconto qui:
 
-[![Calvin Klein Medium Drawstring Pantalonc](https://m.media-amazon.com/images/I/41sMGSdKOZL._SL200_.jpg)](https://www.amazon.it/dp/B07VNNRZHF/?tag=tolees00-21)
+[![Calvin Klein Medium Drawstring Pantalonc](https://m.media-amazon.com/images/I/41sMGSdKOZL._SL400_.jpg)](https://www.amazon.it/dp/B07VNNRZHF/?tag=tolees00-21)
 
 ℹ️:
 

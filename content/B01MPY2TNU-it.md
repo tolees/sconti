@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste TH6712 T-Shirt  Grigio  Argent C al 28.68 % di sconto'
 date: 2020-08-13 11:35:41
-image: 'https://m.media-amazon.com/images/I/41M0dufIv8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41M0dufIv8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.36'
 
 Puoi trovare [Lacoste TH6712 T-Shirt  Grigio  Argent Chine   XX-Large  Taglia Produttore: 7  Uomo](https://www.amazon.it/dp/B01MPY2TNU/?tag=tolees00-21) con il prezzo 46.36 EUR (originale: 65.0 EUR) 28.68 % sconto qui:
 
-[![Lacoste TH6712 T-Shirt  Grigio  Argent C](https://m.media-amazon.com/images/I/41M0dufIv8L._SL200_.jpg)](https://www.amazon.it/dp/B01MPY2TNU/?tag=tolees00-21)
+[![Lacoste TH6712 T-Shirt  Grigio  Argent C](https://m.media-amazon.com/images/I/41M0dufIv8L._SL400_.jpg)](https://www.amazon.it/dp/B01MPY2TNU/?tag=tolees00-21)
 
 ℹ️:
 

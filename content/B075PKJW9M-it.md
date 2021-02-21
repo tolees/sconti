@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 37.41 % su Havaianas Logo Metallic  Infradito Donna  '
 date: 2020-08-21 07:08:17
-image: 'https://m.media-amazon.com/images/I/31IHjVhZi9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IHjVhZi9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.77'
 
 [Havaianas Logo Metallic  Infradito Donna Nero  Black/Black 1069   Taglia Produttore 33/34](https://www.amazon.it/dp/B075PKJW9M/?tag=tolees00-21) ha un prezzo di 13.77 EUR (originale: 22.0 EUR) con uno sconto del 37.41 % sconto qui:
 
-[![Havaianas Logo Metallic  Infradito Donna](https://m.media-amazon.com/images/I/31IHjVhZi9L._SL200_.jpg)](https://www.amazon.it/dp/B075PKJW9M/?tag=tolees00-21)
+[![Havaianas Logo Metallic  Infradito Donna](https://m.media-amazon.com/images/I/31IHjVhZi9L._SL400_.jpg)](https://www.amazon.it/dp/B075PKJW9M/?tag=tolees00-21)
 
 ℹ️:
 

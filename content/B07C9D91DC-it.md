@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 30.82 % su Atelier Fontana - Le Sorelle Della Moda   '
 date: 2020-08-22 10:19:02
-image: 'https://m.media-amazon.com/images/I/51V+8SkOgdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51V+8SkOgdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.68'
 
 [Atelier Fontana - Le Sorelle Della Moda  2 Dvd ](https://www.amazon.it/dp/B07C9D91DC/?tag=tolees00-21) ha un prezzo di 10.37 EUR (originale: 14.99 EUR) con uno sconto del 30.82 % sconto qui:
 
-[![Atelier Fontana - Le Sorelle Della Moda ](https://m.media-amazon.com/images/I/51V+8SkOgdL._SL200_.jpg)](https://www.amazon.it/dp/B07C9D91DC/?tag=tolees00-21)
+[![Atelier Fontana - Le Sorelle Della Moda ](https://m.media-amazon.com/images/I/51V+8SkOgdL._SL400_.jpg)](https://www.amazon.it/dp/B07C9D91DC/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 49.97 % su YAMAMAY® Slip Costume con Lacci Regolabi  '
 date: 2020-07-24 14:59:33
-image: 'https://m.media-amazon.com/images/I/41e-X64bzxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e-X64bzxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.48'
 
 [YAMAMAY® Slip Costume con Lacci Regolabili  Tinta Unita con Inserti in Lurex- Mirage](https://www.amazon.it/dp/B07V3F2VB1/?tag=tolees00-21) ha un prezzo di 8.48 EUR (originale: 16.95 EUR) con uno sconto del 49.97 % sconto qui:
 
-[![YAMAMAY® Slip Costume con Lacci Regolabi](https://m.media-amazon.com/images/I/41e-X64bzxL._SL200_.jpg)](https://www.amazon.it/dp/B07V3F2VB1/?tag=tolees00-21)
+[![YAMAMAY® Slip Costume con Lacci Regolabi](https://m.media-amazon.com/images/I/41e-X64bzxL._SL400_.jpg)](https://www.amazon.it/dp/B07V3F2VB1/?tag=tolees00-21)
 
 ℹ️:
 

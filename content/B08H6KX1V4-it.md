@@ -2,7 +2,7 @@
 layout: post
 title: 'Echo  4ª generazione   Bianco ghiaccio + al 16.63 % di sconto'
 date: 2020-09-25 14:40:50
-image: 'https://m.media-amazon.com/images/I/513xDCVbsPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513xDCVbsPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Puoi trovare [Echo  4ª generazione   Bianco ghiaccio + Philips Hue White Lampadina](https://www.amazon.it/dp/B08H6KX1V4/?tag=tolees00-21) con il prezzo 99.99 EUR (originale: 119.94 EUR) 16.63 % sconto qui:
 
-[![Echo  4ª generazione   Bianco ghiaccio +](https://m.media-amazon.com/images/I/513xDCVbsPL._SL200_.jpg)](https://www.amazon.it/dp/B08H6KX1V4/?tag=tolees00-21)
+[![Echo  4ª generazione   Bianco ghiaccio +](https://m.media-amazon.com/images/I/513xDCVbsPL._SL400_.jpg)](https://www.amazon.it/dp/B08H6KX1V4/?tag=tolees00-21)
 
 ℹ️:
 

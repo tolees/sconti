@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.01 % su Aigostar Rubik 30JVU - 750W Black Sandwi  '
 date: 2020-08-05 07:33:53
-image: 'https://m.media-amazon.com/images/I/51n7iKL3BwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51n7iKL3BwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 [Aigostar Rubik 30JVU - 750W Black Sandwich Maker/Grill/Waffle 3 IN 1. Dimensioni compatte con sistema automatico termostatico  piastre antiaderenti e rimovibili. Design esclusivo](https://www.amazon.it/dp/B077VKLTBP/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 37.49 EUR) con uno sconto del 20.01 % sconto qui:
 
-[![Aigostar Rubik 30JVU - 750W Black Sandwi](https://m.media-amazon.com/images/I/51n7iKL3BwL._SL200_.jpg)](https://www.amazon.it/dp/B077VKLTBP/?tag=tolees00-21)
+[![Aigostar Rubik 30JVU - 750W Black Sandwi](https://m.media-amazon.com/images/I/51n7iKL3BwL._SL400_.jpg)](https://www.amazon.it/dp/B077VKLTBP/?tag=tolees00-21)
 
 ℹ️:
 

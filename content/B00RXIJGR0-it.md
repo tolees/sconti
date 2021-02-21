@@ -2,7 +2,7 @@
 layout: post
 title: 'Pyrex Irresistible Teglia rettangolare i al 46.23 % di sconto'
 date: 2020-09-17 11:08:53
-image: 'https://m.media-amazon.com/images/I/415JHT7vUfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415JHT7vUfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.24'
 
 Puoi trovare [Pyrex Irresistible Teglia rettangolare in vetro borosilicato  31x20x6 5cm - 2 2 L](https://www.amazon.it/dp/B00RXIJGR0/?tag=tolees00-21) con il prezzo 6.99 EUR (originale: 13.0 EUR) 46.23 % sconto qui:
 
-[![Pyrex Irresistible Teglia rettangolare i](https://m.media-amazon.com/images/I/415JHT7vUfL._SL200_.jpg)](https://www.amazon.it/dp/B00RXIJGR0/?tag=tolees00-21)
+[![Pyrex Irresistible Teglia rettangolare i](https://m.media-amazon.com/images/I/415JHT7vUfL._SL400_.jpg)](https://www.amazon.it/dp/B00RXIJGR0/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.04 % su TANYO Cover per Xiaomi Redmi 9  Custodia  '
 date: 2020-09-27 13:50:14
-image: 'https://m.media-amazon.com/images/I/41vQk-aFrOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vQk-aFrOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 [TANYO Cover per Xiaomi Redmi 9  Custodia TPU/PC Hybrid Custodie con 360° Supporto  Antiurto Guscio Protezione Bumper Case Caso  Rosso](https://www.amazon.it/dp/B08CV6FT55/?tag=tolees00-21) ha un prezzo di 7.98 EUR (originale: 9.98 EUR) con uno sconto del 20.04 % sconto qui:
 
-[![TANYO Cover per Xiaomi Redmi 9  Custodia](https://m.media-amazon.com/images/I/41vQk-aFrOL._SL200_.jpg)](https://www.amazon.it/dp/B08CV6FT55/?tag=tolees00-21)
+[![TANYO Cover per Xiaomi Redmi 9  Custodia](https://m.media-amazon.com/images/I/41vQk-aFrOL._SL400_.jpg)](https://www.amazon.it/dp/B08CV6FT55/?tag=tolees00-21)
 
 ℹ️:
 

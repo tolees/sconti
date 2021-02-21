@@ -2,7 +2,7 @@
 layout: post
 title: 'Rimmel London Cipria Compatta Stay Matte al 42.44 % di sconto'
 date: 2020-08-29 07:07:18
-image: 'https://m.media-amazon.com/images/I/51jCU-1jE+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jCU-1jE+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.95'
 
 Puoi trovare [Rimmel London Cipria Compatta Stay Matte  Polvere Opacizzante a Lunga Tenuta per Pelli Grasse e Miste  009 Amber  14 g](https://www.amazon.it/dp/B00CQ3KRR0/?tag=tolees00-21) con il prezzo 4.95 EUR (originale: 8.6 EUR) 42.44 % sconto qui:
 
-[![Rimmel London Cipria Compatta Stay Matte](https://m.media-amazon.com/images/I/51jCU-1jE+L._SL200_.jpg)](https://www.amazon.it/dp/B00CQ3KRR0/?tag=tolees00-21)
+[![Rimmel London Cipria Compatta Stay Matte](https://m.media-amazon.com/images/I/51jCU-1jE+L._SL400_.jpg)](https://www.amazon.it/dp/B00CQ3KRR0/?tag=tolees00-21)
 
 ℹ️:
 

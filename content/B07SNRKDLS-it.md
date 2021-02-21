@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 20.00 % su DFNT Spray antizanzare per Ambienti Repe  '
 date: 2020-08-21 13:05:04
-image: 'https://m.media-amazon.com/images/I/31OrMg4yupL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OrMg4yupL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.92'
 
 [DFNT Spray antizanzare per Ambienti Repellente zanzare biodegradabile 250 ml | Repellente zanzare Tropicali e domestiche Fino a 3 Mesi Protezione](https://www.amazon.it/dp/B07SNRKDLS/?tag=tolees00-21) ha un prezzo di 15.92 EUR (originale: 19.9 EUR) con uno sconto del 20.00 % sconto qui:
 
-[![DFNT Spray antizanzare per Ambienti Repe](https://m.media-amazon.com/images/I/31OrMg4yupL._SL200_.jpg)](https://www.amazon.it/dp/B07SNRKDLS/?tag=tolees00-21)
+[![DFNT Spray antizanzare per Ambienti Repe](https://m.media-amazon.com/images/I/31OrMg4yupL._SL400_.jpg)](https://www.amazon.it/dp/B07SNRKDLS/?tag=tolees00-21)
 
 ℹ️:
 

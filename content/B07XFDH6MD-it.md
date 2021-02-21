@@ -2,7 +2,7 @@
 layout: post
 title: 'HUAWEI Watch GT 2 Smartwatch 46 mm  Dura al 39.98 % di sconto'
 date: 2020-08-23 16:53:13
-image: 'https://m.media-amazon.com/images/I/41wUtK7kVbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wUtK7kVbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.99'
 
 Puoi trovare [HUAWEI Watch GT 2 Smartwatch 46 mm  Durata Batteria fino a 2 Settimane  GPS  15 Modalità di Allenamento  Display del Quadrante in Vetro 3D  Chiamata Tramite Bluetooth  Pebble Brown](https://www.amazon.it/dp/B07XFDH6MD/?tag=tolees00-21) con il prezzo 149.99 EUR (originale: 249.9 EUR) 39.98 % sconto qui:
 
-[![HUAWEI Watch GT 2 Smartwatch 46 mm  Dura](https://m.media-amazon.com/images/I/41wUtK7kVbL._SL200_.jpg)](https://www.amazon.it/dp/B07XFDH6MD/?tag=tolees00-21)
+[![HUAWEI Watch GT 2 Smartwatch 46 mm  Dura](https://m.media-amazon.com/images/I/41wUtK7kVbL._SL400_.jpg)](https://www.amazon.it/dp/B07XFDH6MD/?tag=tolees00-21)
 
 ℹ️:
 

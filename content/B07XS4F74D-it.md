@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple iPhone 11  128GB  - Bianco al 15.75 % di sconto'
 date: 2020-10-04 12:10:29
-image: 'https://m.media-amazon.com/images/I/41TS0WBcr0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TS0WBcr0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '784.0'
 
 Puoi trovare [Apple iPhone 11  128GB  - Bianco](https://www.amazon.it/dp/B07XS4F74D/?tag=tolees00-21) con il prezzo 749.0 EUR (originale: 889.0 EUR) 15.75 % sconto qui:
 
-[![Apple iPhone 11  128GB  - Bianco](https://m.media-amazon.com/images/I/41TS0WBcr0L._SL200_.jpg)](https://www.amazon.it/dp/B07XS4F74D/?tag=tolees00-21)
+[![Apple iPhone 11  128GB  - Bianco](https://m.media-amazon.com/images/I/41TS0WBcr0L._SL400_.jpg)](https://www.amazon.it/dp/B07XS4F74D/?tag=tolees00-21)
 
 ℹ️:
 

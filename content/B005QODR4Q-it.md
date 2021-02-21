@@ -2,7 +2,7 @@
 layout: post
 title: 'Stefanplast Tom Contenitore salvafresche al 15.46 % di sconto'
 date: 2020-09-14 07:00:29
-image: 'https://m.media-amazon.com/images/I/31JDwdKcvrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JDwdKcvrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Puoi trovare [Stefanplast Tom Contenitore salvafreschezza per Cibo per Animali  Verde  46 Litri](https://www.amazon.it/dp/B005QODR4Q/?tag=tolees00-21) con il prezzo 10.99 EUR (originale: 13.0 EUR) 15.46 % sconto qui:
 
-[![Stefanplast Tom Contenitore salvafresche](https://m.media-amazon.com/images/I/31JDwdKcvrL._SL200_.jpg)](https://www.amazon.it/dp/B005QODR4Q/?tag=tolees00-21)
+[![Stefanplast Tom Contenitore salvafresche](https://m.media-amazon.com/images/I/31JDwdKcvrL._SL400_.jpg)](https://www.amazon.it/dp/B005QODR4Q/?tag=tolees00-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 25.00 % su TCL | 43EP641 | Android TV con Assistent  '
 date: 2020-08-05 17:43:02
-image: 'https://m.media-amazon.com/images/I/41nMfkTsHrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nMfkTsHrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '299.99'
 
 [TCL | 43EP641 | Android TV con Assistente Google: Risoluzione 4k HDR  Accesso a Google Play Store  Dolby Audio integrato. Colore: Titanio  43 Pollici  Classe energetica A+ ](https://www.amazon.it/dp/B07TC5DZTS/?tag=tolees00-21) ha un prezzo di 299.99 EUR (originale: 399.99 EUR) con uno sconto del 25.00 % sconto qui:
 
-[![TCL | 43EP641 | Android TV con Assistent](https://m.media-amazon.com/images/I/41nMfkTsHrL._SL200_.jpg)](https://www.amazon.it/dp/B07TC5DZTS/?tag=tolees00-21)
+[![TCL | 43EP641 | Android TV con Assistent](https://m.media-amazon.com/images/I/41nMfkTsHrL._SL400_.jpg)](https://www.amazon.it/dp/B07TC5DZTS/?tag=tolees00-21)
 
 ℹ️:
 

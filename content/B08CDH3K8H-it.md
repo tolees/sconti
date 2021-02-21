@@ -2,7 +2,7 @@
 layout: post
 title: 'BAITITON NVME 1TB Unità SSD M.2 2280 PCI al 26.99 % di sconto'
 date: 2020-09-22 19:00:28
-image: 'https://m.media-amazon.com/images/I/41v1vwCm2+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v1vwCm2+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '91.99'
 
 Puoi trovare [BAITITON NVME 1TB Unità SSD M.2 2280 PCIe Express GEN3.0x4 Unità a Stato Solido Interno](https://www.amazon.it/dp/B08CDH3K8H/?tag=tolees00-21) con il prezzo 91.99 EUR (originale: 125.99 EUR) 26.99 % sconto qui:
 
-[![BAITITON NVME 1TB Unità SSD M.2 2280 PCI](https://m.media-amazon.com/images/I/41v1vwCm2+L._SL200_.jpg)](https://www.amazon.it/dp/B08CDH3K8H/?tag=tolees00-21)
+[![BAITITON NVME 1TB Unità SSD M.2 2280 PCI](https://m.media-amazon.com/images/I/41v1vwCm2+L._SL400_.jpg)](https://www.amazon.it/dp/B08CDH3K8H/?tag=tolees00-21)
 
 ℹ️:
 

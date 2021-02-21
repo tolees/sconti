@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 50.11 % su Tommy Hilfiger Stretch V Neck 3 Pack Pre  '
 date: 2020-09-18 02:54:37
-image: 'https://m.media-amazon.com/images/I/31wKpYZLZ0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wKpYZLZ0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.4'
 
 [Tommy Hilfiger Stretch V Neck 3 Pack Premium Ess Maglietta  Nero  Black 990   Medium  Pacco da 3  Uomo](https://www.amazon.it/dp/B00K5R9XAQ/?tag=tolees00-21) ha un prezzo di 22.4 EUR (originale: 44.9 EUR) con uno sconto del 50.11 % sconto qui:
 
-[![Tommy Hilfiger Stretch V Neck 3 Pack Pre](https://m.media-amazon.com/images/I/31wKpYZLZ0L._SL200_.jpg)](https://www.amazon.it/dp/B00K5R9XAQ/?tag=tolees00-21)
+[![Tommy Hilfiger Stretch V Neck 3 Pack Pre](https://m.media-amazon.com/images/I/31wKpYZLZ0L._SL400_.jpg)](https://www.amazon.it/dp/B00K5R9XAQ/?tag=tolees00-21)
 
 ℹ️:
 

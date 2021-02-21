@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Innovation Super Skinny Jeans  Bl al 55.66 % di sconto'
 date: 2020-10-01 02:03:51
-image: 'https://m.media-amazon.com/images/I/31I948RB7kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31I948RB7kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.99'
 
 Puoi trovare [Levi s Innovation Super Skinny Jeans  Blu  Globe Trotter 0065   25W / 32L Donna](https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21) con il prezzo 50.99 EUR (originale: 115.0 EUR) 55.66 % sconto qui:
 
-[![Levi s Innovation Super Skinny Jeans  Bl](https://m.media-amazon.com/images/I/31I948RB7kL._SL200_.jpg)](https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21)
+[![Levi s Innovation Super Skinny Jeans  Bl](https://m.media-amazon.com/images/I/31I948RB7kL._SL400_.jpg)](https://www.amazon.it/dp/B07QW4QYFV/?tag=tolees00-21)
 
 ℹ️:
 

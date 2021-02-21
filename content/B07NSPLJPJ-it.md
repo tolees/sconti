@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 30.09 % su Funko 39454 POP! Vinyl: Movies: Ghostbus  '
 date: 2020-08-05 06:01:32
-image: 'https://m.media-amazon.com/images/I/41GOi5tdJZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GOi5tdJZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.39'
 
 [Funko 39454 POP! Vinyl: Movies: Ghostbusters: Peter w/House Town Statuetta da collezione  multicolore](https://www.amazon.it/dp/B07NSPLJPJ/?tag=tolees00-21) ha un prezzo di 31.39 EUR (originale: 44.9 EUR) con uno sconto del 30.09 % sconto qui:
 
-[![Funko 39454 POP! Vinyl: Movies: Ghostbus](https://m.media-amazon.com/images/I/41GOi5tdJZL._SL200_.jpg)](https://www.amazon.it/dp/B07NSPLJPJ/?tag=tolees00-21)
+[![Funko 39454 POP! Vinyl: Movies: Ghostbus](https://m.media-amazon.com/images/I/41GOi5tdJZL._SL400_.jpg)](https://www.amazon.it/dp/B07NSPLJPJ/?tag=tolees00-21)
 
 ℹ️:
 

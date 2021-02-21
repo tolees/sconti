@@ -2,7 +2,7 @@
 layout: post
 title: 'VERO MODA Vmava Plain Ss Top Ga Noos  T- al 43.36 % di sconto'
 date: 2020-08-27 16:59:12
-image: 'https://m.media-amazon.com/images/I/41Eov7TdHOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Eov7TdHOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.49'
 
 Puoi trovare [VERO MODA Vmava Plain Ss Top Ga Noos  T-Shirt Donna  Bianco  Snow White Snow White   38  Taglia Produttore: Medium ](https://www.amazon.it/dp/B0736TYXK4/?tag=tolees00-21) con il prezzo 8.49 EUR (originale: 14.99 EUR) 43.36 % sconto qui:
 
-[![VERO MODA Vmava Plain Ss Top Ga Noos  T-](https://m.media-amazon.com/images/I/41Eov7TdHOL._SL200_.jpg)](https://www.amazon.it/dp/B0736TYXK4/?tag=tolees00-21)
+[![VERO MODA Vmava Plain Ss Top Ga Noos  T-](https://m.media-amazon.com/images/I/41Eov7TdHOL._SL400_.jpg)](https://www.amazon.it/dp/B0736TYXK4/?tag=tolees00-21)
 
 ℹ️:
 

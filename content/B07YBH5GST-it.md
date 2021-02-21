@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 28.04 % su Vans Colorblock Tee T-Shirt  Multicolore  '
 date: 2020-08-10 05:21:31
-image: 'https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 [Vans Colorblock Tee T-Shirt  Multicolore  Sulphur Spring/Black Ynd   Medium Uomo](https://www.amazon.it/dp/B07YBH5GST/?tag=tolees00-21) ha un prezzo di 17.99 EUR (originale: 25.0 EUR) con uno sconto del 28.04 % sconto qui:
 
-[![Vans Colorblock Tee T-Shirt  Multicolore](https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL200_.jpg)](https://www.amazon.it/dp/B07YBH5GST/?tag=tolees00-21)
+[![Vans Colorblock Tee T-Shirt  Multicolore](https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL400_.jpg)](https://www.amazon.it/dp/B07YBH5GST/?tag=tolees00-21)
 
 ℹ️:
 

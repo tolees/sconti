@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Housemark Graphic Tee T-Shirt  Ne al 50.17 % di sconto'
 date: 2020-10-08 09:33:25
-image: 'https://m.media-amazon.com/images/I/41jpBteEkBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jpBteEkBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.95'
 
 Puoi trovare [Levi s Housemark Graphic Tee T-Shirt  Nero  Ssnl HM Forge Iron 0248   Small Uomo](https://www.amazon.it/dp/B07RZM8BJR/?tag=tolees00-21) con il prezzo 14.95 EUR (originale: 30.0 EUR) 50.17 % sconto qui:
 
-[![Levi s Housemark Graphic Tee T-Shirt  Ne](https://m.media-amazon.com/images/I/41jpBteEkBL._SL200_.jpg)](https://www.amazon.it/dp/B07RZM8BJR/?tag=tolees00-21)
+[![Levi s Housemark Graphic Tee T-Shirt  Ne](https://m.media-amazon.com/images/I/41jpBteEkBL._SL400_.jpg)](https://www.amazon.it/dp/B07RZM8BJR/?tag=tolees00-21)
 
 ℹ️:
 

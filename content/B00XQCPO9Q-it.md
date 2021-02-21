@@ -2,7 +2,7 @@
 layout: post
 title: 'sconto del 19.62 % su Gillette Series Schiuma Da Barba Pelli S  '
 date: 2020-09-14 17:39:32
-image: 'https://m.media-amazon.com/images/I/41XvQJUHRHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XvQJUHRHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.09'
 
 [Gillette Series Schiuma Da Barba Pelli Sensibili - 200+50 ml](https://www.amazon.it/dp/B00XQCPO9Q/?tag=tolees00-21) ha un prezzo di 2.09 EUR (originale: 2.6 EUR) con uno sconto del 19.62 % sconto qui:
 
-[![Gillette Series Schiuma Da Barba Pelli S](https://m.media-amazon.com/images/I/41XvQJUHRHL._SL200_.jpg)](https://www.amazon.it/dp/B00XQCPO9Q/?tag=tolees00-21)
+[![Gillette Series Schiuma Da Barba Pelli S](https://m.media-amazon.com/images/I/41XvQJUHRHL._SL400_.jpg)](https://www.amazon.it/dp/B00XQCPO9Q/?tag=tolees00-21)
 
 ℹ️:
 

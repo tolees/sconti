@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste YH4801 Polo  Bianco  Blanc   X-S al 34.73 % di sconto'
 date: 2020-07-20 17:15:22
-image: 'https://m.media-amazon.com/images/I/31zWCEYZ8pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zWCEYZ8pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.95'
 
 Puoi trovare [Lacoste YH4801 Polo  Bianco  Blanc   X-Small  Taglia Produttore: 2  Uomo](https://www.amazon.it/dp/B00XFB12GC/?tag=tolees00-21) con il prezzo 48.95 EUR (originale: 75.0 EUR) 34.73 % sconto qui:
 
-[![Lacoste YH4801 Polo  Bianco  Blanc   X-S](https://m.media-amazon.com/images/I/31zWCEYZ8pL._SL200_.jpg)](https://www.amazon.it/dp/B00XFB12GC/?tag=tolees00-21)
+[![Lacoste YH4801 Polo  Bianco  Blanc   X-S](https://m.media-amazon.com/images/I/31zWCEYZ8pL._SL400_.jpg)](https://www.amazon.it/dp/B00XFB12GC/?tag=tolees00-21)
 
 ℹ️:
 

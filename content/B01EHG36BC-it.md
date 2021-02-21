@@ -2,7 +2,7 @@
 layout: post
 title: 'STM Bags Dux Plus Cover per iPad PRO 9.7 al 36.01 % di sconto'
 date: 2020-10-01 11:05:03
-image: 'https://m.media-amazon.com/images/I/41w1iNlmSXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w1iNlmSXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.36'
 
 Puoi trovare [STM Bags Dux Plus Cover per iPad PRO 9.7  Nero](https://www.amazon.it/dp/B01EHG36BC/?tag=tolees00-21) con il prezzo 38.36 EUR (originale: 59.95 EUR) 36.01 % sconto qui:
 
-[![STM Bags Dux Plus Cover per iPad PRO 9.7](https://m.media-amazon.com/images/I/41w1iNlmSXL._SL200_.jpg)](https://www.amazon.it/dp/B01EHG36BC/?tag=tolees00-21)
+[![STM Bags Dux Plus Cover per iPad PRO 9.7](https://m.media-amazon.com/images/I/41w1iNlmSXL._SL400_.jpg)](https://www.amazon.it/dp/B01EHG36BC/?tag=tolees00-21)
 
 ℹ️:
 
