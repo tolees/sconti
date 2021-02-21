@@ -28,9 +28,9 @@ average: '19.1686238532108'
 
 ℹ️:
 
-- Uniconica statuina funko pop vinyl della serie mandalorian
-- Funko pop è il giocattolo dellanno 2018
 - Scopri tutte le altre statuine mandalorian di star wars e collezionale tutte
 - The child e alto 9cm ed inserita allinterno di una scatola trarente da collezione
+- Funko pop è il giocattolo dellanno 2018
+- Uniconica statuina funko pop vinyl della serie mandalorian
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0828JCKS9/?tag=tolees00-21)

@@ -31,7 +31,7 @@ average: '6.95617647058824'
 - Sviluppa la memoria tattile, lautonomia, la concentrazione, la logica, la manualità fine e la coordinazione occhio-mano
 - Contiene alfabetiere, lettere sagomate, scatola tattile e istruzioni
 - Made in Italy
-- Inspirato al metodo Montessori
 - Con la speciale scatola tattile ricomponi lallegro alfabetiere e cerca le letterine usando solo il tatto
+- Inspirato al metodo Montessori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NSJYQCB/?tag=tolees00-21)

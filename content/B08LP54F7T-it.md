@@ -28,11 +28,11 @@ average: '14.4159183673472'
 
 ℹ️:
 
-- Il gioco ufficiale della famiglia gbr: 30 sfide per divertirsi insieme, da 2 a 6 giocatori
 - Sfida i tuoi compagni di gioco e occhio alle carte azione: può succedere di tutto
-- Prova ogni volta unesperienza nuova: le carte sono le caselle e quando le mescoli crei un percorso diverso
-- Scegli un pollicione e muoviti lanciando i dadi numero e challenge
-- Numero di giocatori: 2-6
 - Porta la scatola sempre con te, anche in viaggio con gli amici e inquadra il tappo con lapp la scatola dei giochi: sorpresa
+- Scegli un pollicione e muoviti lanciando i dadi numero e challenge
+- Il gioco ufficiale della famiglia gbr: 30 sfide per divertirsi insieme, da 2 a 6 giocatori
+- Numero di giocatori: 2-6
+- Prova ogni volta unesperienza nuova: le carte sono le caselle e quando le mescoli crei un percorso diverso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LP54F7T/?tag=tolees00-21)

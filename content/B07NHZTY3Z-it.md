@@ -28,10 +28,10 @@ average: '23.7543956043957'
 
 ℹ️:
 
-- New family for 2019
-- The figurines can be posed by moving the head, arms and legs
-- Brand new figure shape and baby styling
 - Good for stimulating imaginative role-play in children
+- Brand new figure shape and baby styling
 - Well-made with fine attention to detail
+- The figurines can be posed by moving the head, arms and legs
+- New family for 2019
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NHZTY3Z/?tag=tolees00-21)

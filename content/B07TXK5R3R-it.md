@@ -28,10 +28,10 @@ average: '17.2570802919707'
 
 ℹ️:
 
+- Altri plus: metodo montessori dei tre tempi; per imparare a scrivere a 3 anni
 - Contenuto: 72 letterine; 3 casette componi-parole; 18 puzzle; 3 lavagnette scrivi e cancella; 1 pennarello segna e cancella; regolamento
 - Origine: made in Italy
-- Competenze sviluppate: prima lettura e prima scrittura; manualità fine; conoscenza degli animali
 - Leggo e scrivo con tre metodi divertenti
-- Altri plus: metodo montessori dei tre tempi; per imparare a scrivere a 3 anni
+- Competenze sviluppate: prima lettura e prima scrittura; manualità fine; conoscenza degli animali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TXK5R3R/?tag=tolees00-21)

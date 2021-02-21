@@ -29,9 +29,9 @@ Puoi trovare [PlayVital Copri Levette Analogiche Gommini Ergonomici per PS5 PS4 
 ℹ️:
 
 - Adding 3 different heights on your thumbsticks (1.67mm/6.08mm/11.56mm), getting faster target acquisition and increase precision as well as better control movements
-- Convex and Concave outlines grips are both taken considerations and included in a set to choose (10pcs totally as picture shown)
 - Compatibility: Fits for PS5, PS4, Xbox Series X, Xbox One, switch pro controller, but NOT for Nintendo Switch joy-con or Switch Lite console
-- Comfort improved, made by non-slip sweet free silicone, reduces hand and thumb fatigue to control
+- Convex and Concave outlines grips are both taken considerations and included in a set to choose (10pcs totally as picture shown)
 - Exclusive Raised Dots & Studded design on the top of grips with textured surface to center thumbs while increase resistance to prevent fingers slipping in playing games
+- Comfort improved, made by non-slip sweet free silicone, reduces hand and thumb fatigue to control
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VS8SRPW/?tag=tolees00-21)

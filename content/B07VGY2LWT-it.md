@@ -29,7 +29,7 @@ Puoi trovare [Nintendo Controller Nintendo Switch Set da 2 Joystick  Viola Neon 
 ℹ️:
 
 - Compatibile con Nintendo Switch lite
-- Accelerometro e Giroscopio integrati, sistema "HD rumble" Integrato.
 - Il set contiene un Joy-Con destro (arancione neon), un Joy-Con sinistro (viola neon) e un set laccetti per Joy-Con
+- Accelerometro e Giroscopio integrati, sistema "HD rumble" Integrato.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VGY2LWT/?tag=tolees00-21)

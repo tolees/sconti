@@ -28,10 +28,10 @@ average: '14.5646153846154'
 
 ℹ️:
 
-- Numero di giocatori: 2-8
-- Edizione in lingua italiana
-- Dobble è un divertente gioco di colpo d’occhio e velocità. 5 mini-giochi in cui i giocatori dovranno essere i più rapidi a trovare il simbolo identico tra due carte. In questa nuova versione, immergiti nella atmosfera fantastica di Hogwarts, con le immagini di Harry Potter, Hermione e Ron, bacchette e creature magiche!
-- Durata media: 15 minuti
 - Età consigliata: da 6 anni in su
+- Edizione in lingua italiana
+- Numero di giocatori: 2-8
+- Durata media: 15 minuti
+- Dobble è un divertente gioco di colpo d’occhio e velocità. 5 mini-giochi in cui i giocatori dovranno essere i più rapidi a trovare il simbolo identico tra due carte. In questa nuova versione, immergiti nella atmosfera fantastica di Hogwarts, con le immagini di Harry Potter, Hermione e Ron, bacchette e creature magiche!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZKXNFPW/?tag=tolees00-21)

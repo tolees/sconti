@@ -28,9 +28,9 @@ average: '20.3240740740743'
 
 ℹ️:
 
-- Altezza in pollici: 3-3/4
-- Scopri le Action Figure di Harry Potter di Funko
 - Ideale per abbellire il vostro ufficio o la vostra casa
+- Altezza in pollici: 3-3/4
 - Collezionali tutti
+- Scopri le Action Figure di Harry Potter di Funko
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00TQ5KPNC/?tag=tolees00-21)

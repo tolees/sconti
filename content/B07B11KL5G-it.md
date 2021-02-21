@@ -28,9 +28,9 @@ average: '48.99'
 
 ℹ️:
 
-- Griglia Small/Large: Rimovibile per un caffè espresso o un caffè lungo
 - Caricamento Facile: per inserire la capsula con un semplice gesto
-- Pulsante Stop&Go: per scegliere ogni volta la quantità di espresso desiderata
+- Griglia Small/Large: Rimovibile per un caffè espresso o un caffè lungo
 - Serbatioio Trasparente (0.75 Lt): completamente trasparente, per controllare il livello dellacqua
+- Pulsante Stop&Go: per scegliere ogni volta la quantità di espresso desiderata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B11KL5G/?tag=tolees00-21)

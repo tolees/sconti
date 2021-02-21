@@ -28,11 +28,11 @@ Puoi trovare [Samsung Memorie T7 MU-PC1T0H SSD Esterno Portatile da 1 TB  USB 3.
 
 ℹ️:
 
-- Velocità di trasferimento fino a 1.050 MB/s, 9.5x volte più veloce di un HDD tradizionale
 - Interfaccia: USB 3.2 Gen 2 (fino a 10 Gbps), retrocompatibile
 - Sicurezza: protezione con password opzionale e encription hardware AES 256 bit
-- Sistemi operativi supportati: Windows 7 e successivi, Mac OS X 10.10 e successivi, Android 5.1 (Lollipop) e successivi; versioni precedenti di Windows, Mac, e Android potrebbero non essere supportate
 - Durevole: la scocca in metallo del T7 permette di sopportare cadute fino a 2 m di altezza
+- Sistemi operativi supportati: Windows 7 e successivi, Mac OS X 10.10 e successivi, Android 5.1 (Lollipop) e successivi; versioni precedenti di Windows, Mac, e Android potrebbero non essere supportate
+- Velocità di trasferimento fino a 1.050 MB/s, 9.5x volte più veloce di un HDD tradizionale
 - Cavi inclusi nella confezione: USB tipo C a C, USB Tipo C a A
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087DF1L2J/?tag=tolees00-21)

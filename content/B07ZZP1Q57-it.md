@@ -28,9 +28,9 @@ average: '18.0892000000002'
 
 ℹ️:
 
-- Joker w/Hat w/Chase e alto 9cm ed inserita allinterno di una scatola trarente da collezione
-- Uniconica statuina Funko Pop Vinyl della serie Batman
 - limmagine non é sempre rappresentativa del prodotto
+- Joker w/Hat w/Chase e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Scopri tutte le altre statuine Batman di Funko e collezionale tutte
+- Uniconica statuina Funko Pop Vinyl della serie Batman
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZZP1Q57/?tag=tolees00-21)

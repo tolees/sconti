@@ -30,8 +30,8 @@ Puoi trovare [Vans Atwood  Sneaker Uomo  Nero Canvas/Black/Black  44 EU](https:/
 
 - Chiusura: Stringata
 - Tipo di tacco: Senza tacco
-- Materiale esterno: Sintetico
 - Materiale suola: Gomma
+- Materiale esterno: Sintetico
 - Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B4GB2SS/?tag=tolees00-21)

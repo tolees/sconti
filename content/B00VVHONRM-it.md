@@ -28,11 +28,11 @@ Puoi trovare [TP-Link TL-WR940N Router Ethernet Wi-Fi N450 Mbps a 2.4 GHz  5 10/
 
 ℹ️:
 
-- Hardware Version 5
-- IP-based bandwidth control enables optimal allocation of performance capacity per user
-- Easy wireless security encryption by pressing the WPS button
-- Up to 450Mbps wireless speed, ideal for interruption-sensitive applications such as HD video streaming
 - Three external antennas provide optimum wireless coverage and range
 - Box contents: TP-Link TL-WR940N WLAN router, voltage adapters, quick installation instructions (cannot guarantee instructions are in English)
+- IP-based bandwidth control enables optimal allocation of performance capacity per user
+- Easy wireless security encryption by pressing the WPS button
+- Hardware Version 5
+- Up to 450Mbps wireless speed, ideal for interruption-sensitive applications such as HD video streaming
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00VVHONRM/?tag=tolees00-21)
