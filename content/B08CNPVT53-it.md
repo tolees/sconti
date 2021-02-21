@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 31.31 % su WARNER BROS - Shazam 4K UHD Comic Art St  '
-date: 2021-02-18 21:10:35
+date: 2021-02-20 23:28:27
 image: 'https://m.media-amazon.com/images/I/51t5yBq1xAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '22.99'
 
 ℹ️:
 
+- Esclusivo film in 4k
 - Un superoe da non perder
 - Formato Steelbook
-- Esclusivo film in 4k
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CNPVT53/?tag=tolees00-21)

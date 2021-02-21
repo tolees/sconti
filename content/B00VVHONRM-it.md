@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WR940N Router Ethernet Wi-Fi  al 30.01 % di sconto'
-date: 2021-02-17 13:32:03
+date: 2021-02-20 23:55:49
 image: 'https://m.media-amazon.com/images/I/31FzFYNy4lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,11 @@ Puoi trovare [TP-Link TL-WR940N Router Ethernet Wi-Fi N450 Mbps a 2.4 GHz  5 10/
 
 ℹ️:
 
-- Controllo della larghezza di banda sulla base dellIP che consente agli amministratori di rete di determinare la quantità di banda assegnata a ciascun PC
-- Facile configurazione della crittografia di sicurezza wireless semplicemente premendo il tasto WPS
-- Frequenza: 2.4-2.4835 GHz
-- Tre antenne wireless per incrementare la robustezza e la stabilità della rete wireless
-- Il prodotto non ha funzione modem
-- Attenzione: verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP
-- Velocità wireless di 450 Mbps, ottimale per le applicazioni sensibili alle interruzioni come lo streaming video HD
-- Modalità wireless: Router Mode, Range Extender, Access Point Mode
+- Hardware Version 5
+- IP-based bandwidth control enables optimal allocation of performance capacity per user
+- Easy wireless security encryption by pressing the WPS button
+- Up to 450Mbps wireless speed, ideal for interruption-sensitive applications such as HD video streaming
+- Three external antennas provide optimum wireless coverage and range
+- Box contents: TP-Link TL-WR940N WLAN router, voltage adapters, quick installation instructions (cannot guarantee instructions are in English)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00VVHONRM/?tag=tolees00-21)

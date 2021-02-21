@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 47.69 % su Vans Atwood  Sneaker Uomo  Nero Canvas/B  '
-date: 2021-02-17 20:09:26
+date: 2021-02-20 23:05:12
 image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '34.0'
 
 ℹ️:
 
+- Tipo di tacco: Senza tacco
 - Materiale suola: Gomma
-- Chiusura: Stringata
 - Materiale esterno: Sintetico
 - Fodera: Tessuto
-- Tipo di tacco: Senza tacco
+- Chiusura: Stringata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003RX1FBA/?tag=tolees00-21)

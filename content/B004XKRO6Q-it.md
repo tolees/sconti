@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medusa Video - The Lord of the Rings - T al 28.09 % di sconto'
-date: 2021-02-18 12:58:36
+date: 2021-02-20 23:13:29
 image: 'https://m.media-amazon.com/images/I/51EV8+o7F-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Medusa Video'
 buyurl: 'https://www.amazon.it/dp/B004XKRO6Q/?tag=tolees00-21'
 descuento: '28.09'
-average: '41.2218478260869'
+average: '41.262659574468'
 ---
 
 Puoi trovare [Medusa Video - The Lord of the Rings - The Motion Picture Trilogy  Extended Edition  6 Blu-Ray+9 DVD ](https://www.amazon.it/dp/B004XKRO6Q/?tag=tolees00-21) con il prezzo 43.14 EUR (originale: 59.99 EUR) 28.09 % sconto qui:

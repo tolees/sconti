@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 47.69 % su Vans Atwood  Sneaker Uomo  Nero Canvas/B  '
-date: 2021-02-17 20:09:48
+date: 2021-02-20 23:08:24
 image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Vans'
 buyurl: 'https://www.amazon.it/dp/B003RX5NOK/?tag=tolees00-21'
 descuento: '47.69'
-average: '38.8947368421052'
+average: '38.8521739130434'
 ---
 
 [Vans Atwood  Sneaker Uomo  Nero Canvas/Black/Black  41 EU](https://www.amazon.it/dp/B003RX5NOK/?tag=tolees00-21) ha un prezzo di 34.0 EUR (originale: 65.0 EUR) con uno sconto del 47.69 % sconto qui:
@@ -28,10 +28,10 @@ average: '38.8947368421052'
 
 ℹ️:
 
-- Tipo di tacco: Senza tacco
 - Chiusura: Stringata
 - Materiale esterno: Sintetico
-- Fodera: Tessuto
+- Tipo di tacco: Senza tacco
 - Materiale suola: Gomma
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003RX5NOK/?tag=tolees00-21)

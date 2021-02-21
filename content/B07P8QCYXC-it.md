@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SuperZings Serie 4  50 Display di Figura al 40.36 % di sconto'
-date: 2021-02-17 13:30:15
+title: 'SuperZings Serie 4  50 Display di Figura al 40.40 % di sconto'
+date: 2021-02-21 00:22:00
 image: 'https://m.media-amazon.com/images/I/51Flx-wLqDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07P8QCYXC-it SuperZings Serie 4 50 Display di Figura Collezionabile...'
 sku: 'B07P8QCYXC-it'
 tags: [  ]
-actualPrice: 29.82 EUR
+actualPrice: 29.8 EUR
 currency: EUR
-price: 29.82
+price: 29.8
 comparePrice: 50.0 EUR
 prodname: 'SuperZings Serie 4  50 Display di Figura Collezionabile  PSZ4D850IN00   Colore e Modello Assortito'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Superzings'
 buyurl: 'https://www.amazon.it/dp/B07P8QCYXC/?tag=tolees00-21'
-descuento: '40.36'
-average: '36.2342105263157'
+descuento: '40.40'
+average: '35.6214285714285'
 ---
 
-Puoi trovare [SuperZings Serie 4  50 Display di Figura Collezionabile  PSZ4D850IN00   Colore e Modello Assortito](https://www.amazon.it/dp/B07P8QCYXC/?tag=tolees00-21) con il prezzo 29.82 EUR (originale: 50.0 EUR) 40.36 % sconto qui:
+Puoi trovare [SuperZings Serie 4  50 Display di Figura Collezionabile  PSZ4D850IN00   Colore e Modello Assortito](https://www.amazon.it/dp/B07P8QCYXC/?tag=tolees00-21) con il prezzo 29.8 EUR (originale: 50.0 EUR) 40.40 % sconto qui:
 
 [![SuperZings Serie 4  50 Display di Figura](https://m.media-amazon.com/images/I/51Flx-wLqDL._SL200_.jpg)](https://www.amazon.it/dp/B07P8QCYXC/?tag=tolees00-21)
 

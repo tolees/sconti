@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.00 % su Buena Vista - Star Wars L Ascesa Di Skyw  '
-date: 2021-02-19 09:25:53
+date: 2021-02-21 00:02:33
 image: 'https://m.media-amazon.com/images/I/51Lq4Tj8TfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Buena Vista'
 buyurl: 'https://www.amazon.it/dp/B082WN3LLR/?tag=tolees00-21'
 descuento: '40.00'
-average: '19.8823529411765'
+average: '19.7428571428572'
 ---
 
 [Buena Vista - Star Wars L Ascesa Di Skywalker 3D Steelbook  Limited Edition   3 Blu Ray ](https://www.amazon.it/dp/B082WN3LLR/?tag=tolees00-21) ha un prezzo di 15.0 EUR (originale: 25.0 EUR) con uno sconto del 40.00 % sconto qui:

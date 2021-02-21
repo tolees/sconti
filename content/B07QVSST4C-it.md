@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Disney: Mt Rainier-Pop 1 Figura d al 22.36 % di sconto'
-date: 2021-02-16 07:59:23
+date: 2021-02-21 00:13:25
 image: 'https://m.media-amazon.com/images/I/31xnUoYPb8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Funko'
 buyurl: 'https://www.amazon.it/dp/B07QVSST4C/?tag=tolees00-21'
 descuento: '22.36'
-average: '10.7843999999999'
+average: '10.7403921568626'
 ---
 
 Puoi trovare [Funko- Disney: Mt Rainier-Pop 1 Figura da Collezione  Multicolore  40884](https://www.amazon.it/dp/B07QVSST4C/?tag=tolees00-21) con il prezzo 8.54 EUR (originale: 11.0 EUR) 22.36 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [Funko- Disney: Mt Rainier-Pop 1 Figura da Collezione  Multicolore 
 
 ℹ️:
 
-- From Disney Frozen 2, Elsa, as a stylized POP. vinyl from Funko
-- Funko POP. Is The 2018 Toy Of The Year And Peoples Choice Award Winner
-- Figure stands 9 cm and comes in a window display box
-- Officially licensed Disney Product
-- Check out the other Disney Frozen 2 figures from Funko and collect them all
+- Disney frozen 2
+- Uniconica statuina funko pop vinyl della serie frozen 2
+- Elsa
+- Elsa e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Scopri tutte le altre statuine disney di funko e collezionale tutte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QVSST4C/?tag=tolees00-21)

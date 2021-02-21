@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Warner Bros - Tenet   Steelbook   4K+Br  al 26.73 % di sconto'
-date: 2021-02-17 13:48:27
+title: 'Warner Bros - Tenet   Steelbook   4K+Br  al 20.67 % di sconto'
+date: 2021-02-20 23:40:32
 image: 'https://m.media-amazon.com/images/I/51ZC6WPI+zL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19
-comparePrice: 26.19 EUR
+comparePrice: 24.19 EUR
 prodname: 'Warner Bros - Tenet   Steelbook   4K+Br '
 country: 'it'
 flag: '🇮🇹'
 brand: 'Warner Bros'
 buyurl: 'https://www.amazon.it/dp/B08N5XB6HF/?tag=tolees00-21'
-descuento: '26.73'
-average: '22.19'
+descuento: '20.67'
+average: '21.815'
 ---
 
-Puoi trovare [Warner Bros - Tenet   Steelbook   4K+Br ](https://www.amazon.it/dp/B08N5XB6HF/?tag=tolees00-21) con il prezzo 19.19 EUR (originale: 26.19 EUR) 26.73 % sconto qui:
+Puoi trovare [Warner Bros - Tenet   Steelbook   4K+Br ](https://www.amazon.it/dp/B08N5XB6HF/?tag=tolees00-21) con il prezzo 19.19 EUR (originale: 24.19 EUR) 20.67 % sconto qui:
 
 [![Warner Bros - Tenet   Steelbook   4K+Br ](https://m.media-amazon.com/images/I/51ZC6WPI+zL._SL200_.jpg)](https://www.amazon.it/dp/B08N5XB6HF/?tag=tolees00-21)
 
 ℹ️:
 
+- Azione, Fantascienza, Thriller
 - Un film con John David Washington e Robert Pattinson
 - Un film di Cristopher Nolan
-- Azione, Fantascienza, Thriller
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5XB6HF/?tag=tolees00-21)
