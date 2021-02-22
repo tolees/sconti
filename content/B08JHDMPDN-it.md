@@ -28,10 +28,10 @@ Puoi trovare [L Oréal Paris Idea Regalo Donna Natale 2020  Zainetto con Mascara
 
 ℹ️:
 
-- Formula opaca, texture impercettibile sulle labbra
-- Per ciglia dispiegate alle estremità; scovolino in elastomero
 - Zainetto blu effetto martellato incluso
 - Mascara nero effetto volumizzante e incurvante Ciglia Finte Farfalla
 - Tinta Labbra Rouge Signature 115 I Am Worth It
+- Per ciglia dispiegate alle estremità; scovolino in elastomero
+- Formula opaca, texture impercettibile sulle labbra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JHDMPDN/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Tratto Video - Evidenziatore  Barattolo da 20 Pezzi  Colori Assort
 
 ℹ️:
 
-- Ottimo per carta normale, autoricalcante, da fotocopie e fax
-- Evidenziatore punta scalpello, made in Italy
 - Inchiostro universale a base acqua ad elevata fluorescenza e che asciuga rapidamente
+- Ottimo per carta normale, autoricalcante, da fotocopie e fax
 - Il barattolo contiene: 8x giallo, 4x verde, 2x arancione, 2x fucsia, 2x azzurro e 2x lilla
+- Evidenziatore punta scalpello, made in Italy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085TK8QKL/?tag=tolees00-21)

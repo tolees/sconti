@@ -28,9 +28,9 @@ average: '24.8'
 
 ℹ️:
 
-- Ganci orientabili, ottimo per tenere in ordine numerose cravatte
-- Portacravatte per armadi, applicabile allanta interna dellarmadio
-- Struttura in legno massiccio di faggio verniciato e alluminio
 - Dimensioni aperto 41 x 4.5 x 7 mm
+- Ganci orientabili, ottimo per tenere in ordine numerose cravatte
+- Struttura in legno massiccio di faggio verniciato e alluminio
+- Portacravatte per armadi, applicabile allanta interna dellarmadio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B019QHUUHU/?tag=tolees00-21)

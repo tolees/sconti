@@ -31,8 +31,8 @@ Puoi trovare [Russell Hobbs Classics 22760-56 Spremiagrumi  60 Watt  Acciaio Ino
 - Dimensioni prodotto: 27.6 x 17.4 x 16.8 cm
 - Potenza: 60 W
 - 2 coni intercambiabili: standard per arance/pompelmi e piccolo per limoni/lime (cono piccolo allinterno di quello grande)
-- Rotazione bidirezionale che si attiva facendo pressione sul cono stesso
 - Rivestimento esterno in acciaio inox spazzolato
 - Avvolgicavo alla base
+- Rotazione bidirezionale che si attiva facendo pressione sul cono stesso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XVRL0WG/?tag=tolees00-21)

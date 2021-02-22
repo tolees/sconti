@@ -28,11 +28,11 @@ average: '9.34'
 
 ℹ️:
 
-- Numero di pezzi: 1; unità di misura: grammo
-- Gel disinfettante pratico in tutte le occasioni in cui non è possibile lavarsi le mani con acqua
-- Registrazione ministero della salute n. 19015 (è pmc - presidio medico chirurgico)
 - Contiene il 70% di alcool
+- Gel disinfettante pratico in tutte le occasioni in cui non è possibile lavarsi le mani con acqua
 - Contiene “betaine”, che in modo più efficiente della glicerina: umidifica, protegge contro la meccanica e chimica irritazione e mantiene la pelle perfettamente soffice e morbida
+- Registrazione ministero della salute n. 19015 (è pmc - presidio medico chirurgico)
+- Numero di pezzi: 1; unità di misura: grammo
 - Formato 70 ml da usare "on the go" e formato 500 ml da usare come ricarica (non è presente erogatore)
 - Efficace nei confronti di batteri e virus compresi hiv, hbv, hcv, mycobacterium tuberculosis, candida albicans
 
