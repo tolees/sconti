@@ -28,7 +28,7 @@ Puoi trovare [Only ONLCAVIAR L/S Pullover Knt Noos Felpa  Giallo  Golden Yellow 
 
 ℹ️:
 
-- Knit pullover with rib detail
 - Pullover with loose fit
+- Knit pullover with rib detail
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJL14K4/?tag=tolees00-21)

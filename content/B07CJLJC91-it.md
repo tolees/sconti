@@ -28,7 +28,7 @@ average: '10.0'
 
 ℹ️:
 
-- Pullover with loose fit
 - Knit pullover with rib detail
+- Pullover with loose fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJLJC91/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '32.81'
 
 ℹ️:
 
-- Design compatto per rendere la cucina più bella e pulita.
-- Lunghezza: 55 cm, larghezza: 36 cm; altezza: 46 cm; peso: 2,3 kg.
 - -
+- Lunghezza: 55 cm, larghezza: 36 cm; altezza: 46 cm; peso: 2,3 kg.
+- Design compatto per rendere la cucina più bella e pulita.
 - I cibi possono essere posizionati nella parte superiore della piattaforma per rendere più comodo l’uso del forno a microonde.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B019ZE11AE/?tag=tolees00-21)
