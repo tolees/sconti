@@ -28,8 +28,8 @@ average: '5.62'
 
 ℹ️:
 
-- Slip fianco alto
 - Tessuto di pizzo macramé e microfibra
+- Slip fianco alto
 - Disponibile in taglia I-II-III-IV
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FDMS7HN/?tag=tolees00-21)

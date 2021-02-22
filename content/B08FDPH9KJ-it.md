@@ -28,8 +28,8 @@ average: '5.62'
 
 ℹ️:
 
-- Tessuto di pizzo macramé e microfibra
 - Disponibile in taglia I-II-III-IV
 - Slip Brasiliana
+- Tessuto di pizzo macramé e microfibra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FDPH9KJ/?tag=tolees00-21)

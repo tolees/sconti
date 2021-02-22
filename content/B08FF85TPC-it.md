@@ -28,10 +28,10 @@ average: '17.8'
 
 ℹ️:
 
-- Con formula con 80% di ingredienti di origine naturale: 0% Coloranti, Fosfati, Profumo
-- Confezione risparmio multi pacco da 4 flaconi da 58 lavaggi per un totale di 232 lavaggi
-- Efficace anche nei cicli brevi ed è già attivo a basse temperature (40 gradi) aiutandoti a rispettare lambiente
 - Azione salva vetro: Pril Gel Green tutto in 1 include una funzione protettiva per le stoviglie in vetro
 - Pril Gel Green tutto in 1 è il detersivo per lavastoviglie multi azione in gel con funzione detergente e brillantante per il lavaggio delle tue stoviglie, efficace grazie alla sua azione contro lo sporco difficile
+- Efficace anche nei cicli brevi ed è già attivo a basse temperature (40 gradi) aiutandoti a rispettare lambiente
+- Confezione risparmio multi pacco da 4 flaconi da 58 lavaggi per un totale di 232 lavaggi
+- Con formula con 80% di ingredienti di origine naturale: 0% Coloranti, Fosfati, Profumo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FF85TPC/?tag=tolees00-21)
