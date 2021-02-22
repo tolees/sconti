@@ -28,12 +28,12 @@ average: '69.9'
 
 ℹ️:
 
-- Prodotto destinato alluso domestico
-- Prepara una o due tazze alla volta di caffè macinato
 - Macchina da caffè manuale con portafiltro pressurizzato
-- Design compatto ed ergonomico, serbatoio acqua e vassoio raccogligocce estraibili; griglia non inclusa
-- Pannarello classico: eroga vapore per emulsionare il latte oppure acqua calda per tè e tisane
-- 2 filtri inclusi: 1 filtro per caffè macinato, per 1 o 2 tazze e 1 filtro per cialde di carta monoporzione, con adattatore
 - Interfaccia semplice con manopola centrale
+- 2 filtri inclusi: 1 filtro per caffè macinato, per 1 o 2 tazze e 1 filtro per cialde di carta monoporzione, con adattatore
+- Prodotto destinato alluso domestico
+- Pannarello classico: eroga vapore per emulsionare il latte oppure acqua calda per tè e tisane
+- Design compatto ed ergonomico, serbatoio acqua e vassoio raccogligocce estraibili; griglia non inclusa
+- Prepara una o due tazze alla volta di caffè macinato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B3RPKD7/?tag=tolees00-21)

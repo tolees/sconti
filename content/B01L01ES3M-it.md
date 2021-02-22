@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 30.04 % su Caffè Borbone Respresso Miscela Nera  Co  '
-date: 2021-02-18 19:07:41
-image: 'https://m.media-amazon.com/images/I/41E5I9gQOJL._SL200_.jpg'
+date: 2021-02-22 08:42:37
+image: 'https://m.media-amazon.com/images/I/41E5I9gQOJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 [Caffè Borbone Respresso Miscela Nera  Compatibili con le Macchine Nespresso  100 Capsule](https://www.amazon.it/dp/B01L01ES3M/?tag=tolees00-21) ha un prezzo di 18.0 EUR (originale: 25.73 EUR) con uno sconto del 30.04 % sconto qui:
 
-[![Caffè Borbone Respresso Miscela Nera  Co](https://m.media-amazon.com/images/I/41E5I9gQOJL._SL200_.jpg)](https://www.amazon.it/dp/B01L01ES3M/?tag=tolees00-21)
+[![Caffè Borbone Respresso Miscela Nera  Co](https://m.media-amazon.com/images/I/41E5I9gQOJL._SL400_.jpg)](https://www.amazon.it/dp/B01L01ES3M/?tag=tolees00-21)
 
 ℹ️:
 

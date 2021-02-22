@@ -28,11 +28,11 @@ Puoi trovare [Nike MD Valiant  GS   Scarpe da Corsa  Particle Grey/White  36.5 E
 
 ℹ️:
 
-- Nome dipartimento: Bambino
 - Closure: stringata
+- Shoe width: normale
+- Nome dipartimento: Bambino
+- Outer material: sintetico
 - Sole material: gomma
 - Lining: tela
-- Outer material: sintetico
-- Shoe width: normale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CXSJ8HH/?tag=tolees00-21)
