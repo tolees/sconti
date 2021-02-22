@@ -28,10 +28,10 @@ Puoi trovare [Tacklife HD60m Telemetro Laser Distanziometro in M / In / Ft con 2
 
 ℹ️:
 
-- ▲【Alta precisione: Campo di misurazione】: 0,05 - 60m; Precisione: ± 1.5 mm (accurate a 3 cifre decimali); Peso: 110g; possibilità di cambiare tra m / in / ft, il misuratore di distanza laser può misurare precisamente fino a 60 m per facilitare i lavori di costruzione Bullet Point
 - ▲【Riduzione del carico di lavoro】: 30 gruppi di dati memorizzati; 4 unità per la selezione; 2 punti di riferimento e funzione autocalibrata; addizione e sottrazione; autospegnimento tra 150s, tutte queste versatili funzioni garantiscono una misurazione semplice e veloce e può migliorare lefficienza di lavoro
 - ▲【Misurazione multifunzione】: Può misurare velocemente e facilmente la lunghezza, i calcoli di aree e di volume. Inoltre, la misurazione indiretta (teorema di pitagora) e misurazione continua (distanza minima, massima e corrente), dati mantenimento e display LCD retroilluminato offrono anche unulteriore necessità Bullet Point
 - ▲【Confezione include】: 1x Tacklife metro laser HD 60m, 2x pila AAA, 1x cinturino, 1x custodia prottetiva in nylon, 1x manuale d’istruzione
 - ▲【L’unica funzione muto】: Durante la manipolazione viene emesso un segnale acustico, ma se il silenzio è necessario, il dispositivo può anche essere muto, ad esempio in biblioteca, aula o altro ambiente tranquillo, tra l’altro puo’ anche essere amplicato a casa, costruzioni e industrie, soprattutto in grandi aree come camere, appartamenti, edifici, fattorie, fabbriche, magazzini, ecc
+- ▲【Alta precisione: Campo di misurazione】: 0,05 - 60m; Precisione: ± 1.5 mm (accurate a 3 cifre decimali); Peso: 110g; possibilità di cambiare tra m / in / ft, il misuratore di distanza laser può misurare precisamente fino a 60 m per facilitare i lavori di costruzione Bullet Point
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N9TMIC0/?tag=tolees00-21)
