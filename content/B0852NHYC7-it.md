@@ -28,11 +28,11 @@ average: '217.070909090909'
 
 ℹ️:
 
-- Componenti inclusi: robot aspirapolvere, stazione di ricarica, spazzola principale e laterale, spazzola per la pulizia, salviette, contenitore per la polvere, serbatoio dellacqua, cavo di alimentazione, manuale utente (lingua italiana non garantita).
-- Ricaricare automaticamente al di sotto del 15%, quando la batteria viene caricata all80%, tornerà automaticamente al punto di interruzione per continuare la scansione.
-- Dotato di un serbatoio di acqua intelligente a controllo elettronico da 200 ml, lacqua viene controllata automaticamente durante tutto il processo, trascinamento più uniformemente bagnato, scopa sospesa vicino al terreno.
 - Con lapp Mi Home,Corpo sottile 8,2 cm, camminando più liberamente a casa, altezza ostacolo in salita di 20 mm.
+- Ricaricare automaticamente al di sotto del 15%, quando la batteria viene caricata all80%, tornerà automaticamente al punto di interruzione per continuare la scansione.
 - Navigazione visiva dinamica, dotata di un sistema di navigazione visiva ad alta velocità per aiutare a catturare rapidamente informazioni coordinate, estrarre complesse funzioni spaziali e creare mappe più rapide e accurate.
 - La fusoliera è dotata di 15 tipi di sensori ad alta precisione, che hanno una maggiore capacità di adattamento allambiente, il che aiuta a eseguire azioni migliori come anticaduta, infrarosso, anticollisione, rilievo ed evitamento di ostacoli.
+- Dotato di un serbatoio di acqua intelligente a controllo elettronico da 200 ml, lacqua viene controllata automaticamente durante tutto il processo, trascinamento più uniformemente bagnato, scopa sospesa vicino al terreno.
+- Componenti inclusi: robot aspirapolvere, stazione di ricarica, spazzola principale e laterale, spazzola per la pulizia, salviette, contenitore per la polvere, serbatoio dellacqua, cavo di alimentazione, manuale utente (lingua italiana non garantita).
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0852NHYC7/?tag=tolees00-21)

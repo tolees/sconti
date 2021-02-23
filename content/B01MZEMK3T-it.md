@@ -29,7 +29,7 @@ average: '19.8725'
 ℹ️:
 
 - Brand New and Genuine. We are an authorised seller of Tommy Hilfiger.
-- Tommy Hilfiger Blue Arched Logo T-Shirt
 - See product description below for more information.
+- Tommy Hilfiger Blue Arched Logo T-Shirt
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZEMK3T/?tag=tolees00-21)

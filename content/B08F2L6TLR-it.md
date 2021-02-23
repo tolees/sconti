@@ -28,10 +28,10 @@ Puoi trovare [Western Digital WD My Passport SSD Portatile con Tecnologia NVMe  
 
 ℹ️:
 
-- Tecnologia NVMe straordinariamente rapida con velocità fino a 1.050 MB/sec e velocità di scrittura fino a 1.000 MB/sec
-- Design elegante e compatto. Compatibile con USB 3.2 Gen-2 e USB-C (USB-A per sistemi precedenti)
-- Resistente a urti e vibrazioni. Resistente a cadute da altezze fino a 2 metri
 - Backup semplice
+- Design elegante e compatto. Compatibile con USB 3.2 Gen-2 e USB-C (USB-A per sistemi precedenti)
 - Crittografia hardware AES a 256 bit abilitata tramite password
+- Tecnologia NVMe straordinariamente rapida con velocità fino a 1.050 MB/sec e velocità di scrittura fino a 1.000 MB/sec
+- Resistente a urti e vibrazioni. Resistente a cadute da altezze fino a 2 metri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F2L6TLR/?tag=tolees00-21)

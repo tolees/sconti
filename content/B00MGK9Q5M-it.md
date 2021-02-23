@@ -30,8 +30,8 @@ average: '3.7'
 
 - Effetti e Benefici - Sopracciglia ordinate, piene e definite a lungo con un unico prodotto
 - Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
-- Formula - Texture leggere a lunga tenuta. Tonalità marrone chiaro
-- Brow This Way - Palette sopracciglia compatto da borsetta con cera fissativa e polvere colorata
 - Applicazione - Pettinino e pennello angolato in dotazione per modellare le sopracciglia e stendere il prodotto
+- Brow This Way - Palette sopracciglia compatto da borsetta con cera fissativa e polvere colorata
+- Formula - Texture leggere a lunga tenuta. Tonalità marrone chiaro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MGK9Q5M/?tag=tolees00-21)

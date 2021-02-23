@@ -29,7 +29,7 @@ Puoi trovare [Warner Bros - Tenet   Steelbook   4K+Br ](https://www.amazon.it/dp
 ℹ️:
 
 - Azione, Fantascienza, Thriller
-- Un film di Cristopher Nolan
 - Un film con John David Washington e Robert Pattinson
+- Un film di Cristopher Nolan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5XB6HF/?tag=tolees00-21)

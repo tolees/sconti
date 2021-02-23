@@ -28,8 +28,8 @@ average: '25.7399999999999'
 
 ℹ️:
 
-- Ricco di Vitamina E e D, Omega 6 e Minerali
 - Creato con carni di qualità
+- Ricco di Vitamina E e D, Omega 6 e Minerali
 - Arricchito di una deliziosa gelatina che rende lalimento gustoso ed appetibile
 - Alimento completo, ottimo per lalimentazione quotidiana del tuo gatto
 

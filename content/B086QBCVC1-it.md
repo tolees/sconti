@@ -28,11 +28,11 @@ average: '9.88181818181804'
 
 ℹ️:
 
+- Punta 2,0 mm, tratto 0,8 mm
+- Contiene 5 pz colori assortiti (nero, rosso, blu, verde, giallo)
 - Ideale per usi grafici, per realizzare bozze
 - Lunghezza di scrittura media 900m
-- Punta 2,0 mm, tratto 0,8 mm
-- Pennarello con punta in fibra
 - Confezione ecologica in cartone prodotta con materie prime sostenibili
-- Contiene 5 pz colori assortiti (nero, rosso, blu, verde, giallo)
+- Pennarello con punta in fibra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086QBCVC1/?tag=tolees00-21)
