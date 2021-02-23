@@ -28,8 +28,8 @@ Puoi trovare [PUMA Popcat 20 TS  Scarpe da Spiaggia e Piscina Unisex-Adulto  Blu
 
 ℹ️:
 
-- Materiale suola: Gomma
-- Materiale esterno: Sintetico
 - Fodera: Sintetico
+- Materiale esterno: Sintetico
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S6NRWDN/?tag=tolees00-21)

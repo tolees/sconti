@@ -28,8 +28,8 @@ average: '12.99'
 
 ℹ️:
 
-- Materiale suola: Gomma
-- Materiale esterno: Sintetico
 - Fodera: Sintetico
+- Materiale esterno: Sintetico
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8PWBJ9/?tag=tolees00-21)
