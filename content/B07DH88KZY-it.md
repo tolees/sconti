@@ -28,9 +28,9 @@ Puoi trovare [Nero Giardini - NeroGiardini A807075D Tronchetti Donna in Pelle - 
 
 ℹ️:
 
-- Calzata: Comoda
 - Tacco: 8 cm
 - Qualità: Made in Italy
+- Calzata: Comoda
 - Materiale Esterno: Pelle
 - Materiale Interno: pelle
 

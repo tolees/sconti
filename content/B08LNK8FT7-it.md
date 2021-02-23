@@ -29,7 +29,7 @@ average: '74.99'
 ℹ️:
 
 - Scarpe sportive
-- Stile casual
 - Ammortizzazione Nike Air
+- Stile casual
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LNK8FT7/?tag=tolees00-21)

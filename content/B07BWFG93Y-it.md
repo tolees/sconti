@@ -29,9 +29,9 @@ average: '17.9'
 ℹ️:
 
 - Espresso dallaroma avvolgente grazie al mix di chicchi di Robusta e con le note aromatiche fruttate di Arabica, per un gusto deciso e persistente
-- Il caffè espresso conserva lessenza di ogni miscela in una capsula di alluminio ideata per conservare tutto il suo aroma e sprigionarlo in tazzina
-- Splendid dal 1969 con il suo caffè macinato e le capsule in alluminio ti regala, ogni giorno, laroma di un giorno splendido!
-- Miscela di caffè torrefatto e macinato in capsule. Confezionato in atmosfera protettiva
 - Le capsule Classico ti offriranno un gusto intenso dallinizio alla fine per una pausa caffe gustosa e rigenerante
+- Splendid dal 1969 con il suo caffè macinato e le capsule in alluminio ti regala, ogni giorno, laroma di un giorno splendido!
+- Il caffè espresso conserva lessenza di ogni miscela in una capsula di alluminio ideata per conservare tutto il suo aroma e sprigionarlo in tazzina
+- Miscela di caffè torrefatto e macinato in capsule. Confezionato in atmosfera protettiva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BWFG93Y/?tag=tolees00-21)

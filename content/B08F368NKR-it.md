@@ -28,8 +28,8 @@ Puoi trovare [Nike Air Max Exosense  Scarpe da Corsa Donna  Barely Rose/Metallic
 
 ℹ️:
 
-- Scarpe sportive
-- Ammortizzazione Nike Air
 - Stile casual
+- Ammortizzazione Nike Air
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F368NKR/?tag=tolees00-21)

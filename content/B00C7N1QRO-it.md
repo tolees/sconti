@@ -28,10 +28,10 @@ average: '23.94'
 
 ℹ️:
 
-- Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
-- Caffè torrefatto e macinato
-- Un caffè intenso, dalla tostatura medio-scura, da gustare in tazza corta; intensità 7/13
-- Unequilibrata miscela di Robusta e fruttata Arabica Sud-americana
 - 6 confezioni da 16 capsule: 96 capsule (96 tazze di Espresso Intenso)
+- Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
+- Unequilibrata miscela di Robusta e fruttata Arabica Sud-americana
+- Un caffè intenso, dalla tostatura medio-scura, da gustare in tazza corta; intensità 7/13
+- Caffè torrefatto e macinato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00C7N1QRO/?tag=tolees00-21)
