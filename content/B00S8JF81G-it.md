@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 20.02 % su Liscianigiochi - Lisciani Giochi- Tabell  '
-date: 2021-02-20 23:22:00
-image: 'https://m.media-amazon.com/images/I/61OI1sqT10L._SL200_.jpg'
+date: 2021-02-23 17:15:24
+image: 'https://m.media-amazon.com/images/I/61ygS75Z7nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,10 +24,17 @@ average: '7.99'
 
 [Liscianigiochi - Lisciani Giochi- Tabelline e Problemini Giochi Educativi  Multicolore  48885](https://www.amazon.it/dp/B00S8JF81G/?tag=tolees00-21) ha un prezzo di 7.99 EUR (originale: 9.99 EUR) con uno sconto del 20.02 % sconto qui:
 
-[![Liscianigiochi - Lisciani Giochi- Tabell](https://m.media-amazon.com/images/I/61OI1sqT10L._SL200_.jpg)](https://www.amazon.it/dp/B00S8JF81G/?tag=tolees00-21)
+[![Liscianigiochi - Lisciani Giochi- Tabell](https://m.media-amazon.com/images/I/61ygS75Z7nL._SL400_.jpg)](https://www.amazon.it/dp/B00S8JF81G/?tag=tolees00-21)
 
 ℹ️:
 
-- Lisciani
+- Tabellone; Base per spinner; Freccia spinner; 16 geIoni tondi; 12 coccarde; 27 carte speciali; 4 birilotti
+- Le domande, basate sui programmi della scuola primaria, riguardano le quattro operazioni e tanti simpatici "problemini"!
+- Tabelline e problemini è un ioco di percorso a quiz sullaritmetica basato sui programmi della scuola primaria
+- Prevede 3 modalità di gioco in base alletà!
+- Grazie ai tre livelli di gioco suddicisi per difficoltà, anche i bambini più piccoli potranno giocare con laritmetica
+- Laritmetica non è mai stata così divertente
+- Un gioco di percorso a quiz per divertirsi e imparare con laritmetica.
+- I concorrenti avanzano sul tabellone rispondendo ai quiz e superando i simpatici minigiochi sulle tabelline
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S8JF81G/?tag=tolees00-21)

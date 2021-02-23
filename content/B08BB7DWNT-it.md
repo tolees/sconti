@@ -1,29 +1,30 @@
 ---
 layout: post
-title: 'sconto del 37.29 % su Electronic Arts - Fifa 21- Xbox One  inc  '
-date: 2021-01-27 13:47:24
-image: 'https://m.media-amazon.com/images/I/51xHu+YhuIL._SL200_.jpg'
+title: 'sconto del 37.86 % su Electronic Arts - Fifa 21- Xbox One  inc  '
+date: 2021-02-23 17:18:18
+image: 'https://m.media-amazon.com/images/I/51xHu+YhuIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08BB7DWNT-it Electronic Arts - Fifa 21- Xbox One include upgrade per...'
 sku: 'B08BB7DWNT-it'
 tags: [  ]
-actualPrice: 43.89 EUR
+actualPrice: 43.49 EUR
 currency: EUR
-price: 43.89
+price: 43.49
 comparePrice: 69.99 EUR
 prodname: 'Electronic Arts - Fifa 21- Xbox One  include upgrade per Xbox Series X'
 country: 'it'
 flag: '🇮🇹'
+brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.it/dp/B08BB7DWNT/?tag=tolees00-21'
-descuento: '37.29'
-average: '51.04875'
+descuento: '37.86'
+average: '50.8803333333334'
 ---
 
-[Electronic Arts - Fifa 21- Xbox One  include upgrade per Xbox Series X](https://www.amazon.it/dp/B08BB7DWNT/?tag=tolees00-21) ha un prezzo di 43.89 EUR (originale: 69.99 EUR) con uno sconto del 37.29 % sconto qui:
+[Electronic Arts - Fifa 21- Xbox One  include upgrade per Xbox Series X](https://www.amazon.it/dp/B08BB7DWNT/?tag=tolees00-21) ha un prezzo di 43.49 EUR (originale: 69.99 EUR) con uno sconto del 37.86 % sconto qui:
 
-[![Electronic Arts - Fifa 21- Xbox One  inc](https://m.media-amazon.com/images/I/51xHu+YhuIL._SL200_.jpg)](https://www.amazon.it/dp/B08BB7DWNT/?tag=tolees00-21)
+[![Electronic Arts - Fifa 21- Xbox One  inc](https://m.media-amazon.com/images/I/51xHu+YhuIL._SL400_.jpg)](https://www.amazon.it/dp/B08BB7DWNT/?tag=tolees00-21)
 
 ℹ️:
 

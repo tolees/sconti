@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Warner Bros - Animali Fantastici E I Cri al 19.53 % di sconto'
-date: 2021-02-20 23:27:56
-image: 'https://m.media-amazon.com/images/I/51DciObVT7L._SL200_.jpg'
+date: 2021-02-23 17:34:03
+image: 'https://m.media-amazon.com/images/I/51DciObVT7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇮🇹'
 brand: 'Warner Bros'
 buyurl: 'https://www.amazon.it/dp/B07KKTQS8X/?tag=tolees00-21'
 descuento: '19.53'
-average: '9.2830612244898'
+average: '9.23078431372549'
 ---
 
 Puoi trovare [Warner Bros - Animali Fantastici E I Crimini Di Grindelwald](https://www.amazon.it/dp/B07KKTQS8X/?tag=tolees00-21) con il prezzo 7.95 EUR (originale: 9.88 EUR) 19.53 % sconto qui:
 
-[![Warner Bros - Animali Fantastici E I Cri](https://m.media-amazon.com/images/I/51DciObVT7L._SL200_.jpg)](https://www.amazon.it/dp/B07KKTQS8X/?tag=tolees00-21)
+[![Warner Bros - Animali Fantastici E I Cri](https://m.media-amazon.com/images/I/51DciObVT7L._SL400_.jpg)](https://www.amazon.it/dp/B07KKTQS8X/?tag=tolees00-21)
 
 ℹ️:
 

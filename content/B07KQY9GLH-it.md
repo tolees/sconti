@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 17.40 % su RenFox - Bruciatori da Cucina Torcia Cuc  '
-date: 2021-02-20 23:38:49
-image: 'https://m.media-amazon.com/images/I/51JczPLufGL._SL200_.jpg'
+date: 2021-02-23 17:40:43
+image: 'https://m.media-amazon.com/images/I/51JczPLufGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,14 +24,14 @@ average: '17.6742105263159'
 
 [RenFox - Bruciatori da Cucina Torcia Cucina  Cucina cannello per Saldatura Blocco di Sicurezza & Fiamma Regolabile & Riempibile per Cucina  Dolci  Barbecue brasatura Saldatura  Butano Non Incluso ](https://www.amazon.it/dp/B07KQY9GLH/?tag=tolees00-21) ha un prezzo di 18.99 EUR (originale: 22.99 EUR) con uno sconto del 17.40 % sconto qui:
 
-[![RenFox - Bruciatori da Cucina Torcia Cuc](https://m.media-amazon.com/images/I/51JczPLufGL._SL200_.jpg)](https://www.amazon.it/dp/B07KQY9GLH/?tag=tolees00-21)
+[![RenFox - Bruciatori da Cucina Torcia Cuc](https://m.media-amazon.com/images/I/51JczPLufGL._SL400_.jpg)](https://www.amazon.it/dp/B07KQY9GLH/?tag=tolees00-21)
 
 ℹ️:
 
-- 【PORTATILE BLOW TORCIA ACCENDINO】 Sicurezza e la prova di perdite. Realizzato con materiale Heavy Duty per la massima durata e un uso prolungato. Il design ergonomico offre comfort per la tua mano e protegge le dita di essere bruciato. Viene fornito con un blocco di sicurezza che impedisce laccensione accidentale e luso improprio da parte dei bambini.
-- 【MULTI-USI 】Non solo per fare creme brulée, accendere il fuoco (campeggio / camino), sigari, tocchi, il campeggio barbecue esterno, la piccola fiamma ossidrica anche un bene per hobby, arti e progetti di artigianato, creazione di gioielli e per il mestiere e artista di lavoro come la resina darte. E grande anche per la lavorazione e la saldatura, riscaldamento locale plastica e piegatura ecc migliore regalo di Natale per gli appassionati di cucina.
-- 【TORCIA DA CUCINA RICARICABILE】Riempi la torcia di cottura adatta per tutti i gas butano, il nostro accendino può essere ricaricato facilmente e funzionando a lungo. IL GAS NON È INCLUSO. Nota: è necessario il contenitore di butano con SUGGERIMENTO PER LA RICARICA UNIVERSALE LUNGA. Si prega di accendere il fuoco di accensione verso "CLOSE" e regolatore di temperatura melodia più basso, quando non lo si utilizza.
-- 【FIAMMA REGOLABILE】 La torcia regolabile è concentrata in un piccolo getto costante, la temperatura massima fino a 1300 ℃ / 2500 ℃. Il dispositivo di scorrimento sul lato della torcia colpo può aiutare a controllare la fiamma dal basso riscaldato-piccola fiamma a fiamma alta riscaldato a lungo. In modo che è possibile personalizzare in base alle applicazioni previste.
-- 【TORCIA BUTANA PROFESSIONALE FACILE DA USARE】Fai scorrere il BLOCCO di sicurezza verso sinistra, quindi premi il pulsante di accensione per accenderlo (premi il pulsante di accensione e fai scorrere il fermo di sicurezza verso destra per creare una fiamma continua, quindi rilasci la mano, il fuoco sarà ancora tenere accensione, dito libero); Far scorrere il regolatore del gas sul lato per controllare la potenza della fiamma e spostare il BLOCCO di sicurezza verso destra per spegnere la fiamma.
+- ❤【Refillable gift kitchen torch】Fit for all butane gas, our flame lighter can be refilled easily and running long time. Your torch arrives in a deluxe gift box, so there’s no need for wrapping. Whether you are celebrating the marriage of close friends, or welcoming a family member to their new home, the RenFox Torch is sure to be a memorable and appreciated gift for many meals to come. Note: the butane canister with the LONG UNIVERSAL REFILL TIP needed.
+- ❤【Multi-functional】Portable design makes it perfect for indoor home and outdoor camping cooking activities, its great for sous vide, flambe, searing meat, bar cocktails, lighting a fire, cigars, dabs, BBQ grills, for camping, and for craft and artist work such as art resin. It is also great for soldering, brazing jewellery or metal.
+- ❤【Safe & Durable Blow Torch】Coming with unique security lock, this cooking torch prevents against accidental ignition even in kids hand. The built in finger guard protects you from burns and extreme heat while torching and browning; torch is constructed with TUV CE certified aluminum and ABS plastic to ensure ergonomic comfort.
+- ❤【Adjustable Flame to Meet Your Demands】This culinary butane blow torch comes with a gas flow regulator dial, which makes it easily adjust flame from 0 to 2370°F/1300°C and create a continuous flame up to 6 inches long. Press the button to light fire, clockwise rotation at the same time, then it will keep fire, turn the button counterclockwise, the flame goes out.
+- ❤【Professional Cooking Torch】Ideal for BBQ, creating the finishing touch to a variety of dishes, desserts such as caramelizing sugar toppings, browning meringues and crisping joints of meat. Our amazing torch will let you transform simple recipes into dishes that look & taste as if they came from a professional chefs kitchen. Piezo press ignition allows for fast, safe, immediate lighting.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KQY9GLH/?tag=tolees00-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 53.89 % su WARNER BROS - American History X  '
-date: 2021-02-21 00:19:19
-image: 'https://m.media-amazon.com/images/I/51eHd90OBVL._SL200_.jpg'
+date: 2021-02-23 17:18:14
+image: 'https://m.media-amazon.com/images/I/51eHd90OBVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 [WARNER BROS - American History X](https://www.amazon.it/dp/B07YCZCWXD/?tag=tolees00-21) ha un prezzo di 5.99 EUR (originale: 12.99 EUR) con uno sconto del 53.89 % sconto qui:
 
-[![WARNER BROS - American History X](https://m.media-amazon.com/images/I/51eHd90OBVL._SL200_.jpg)](https://www.amazon.it/dp/B07YCZCWXD/?tag=tolees00-21)
+[![WARNER BROS - American History X](https://m.media-amazon.com/images/I/51eHd90OBVL._SL400_.jpg)](https://www.amazon.it/dp/B07YCZCWXD/?tag=tolees00-21)
 
 ℹ️:
 

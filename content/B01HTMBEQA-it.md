@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 18.20 % su Salewa MS Mountain Trainer Mid Gore-TEX   '
-date: 2021-02-20 23:56:07
-image: 'https://m.media-amazon.com/images/I/51S0uwF-VVL._SL200_.jpg'
+date: 2021-02-23 17:51:38
+image: 'https://m.media-amazon.com/images/I/51S0uwF-VVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇮🇹'
 brand: 'SALEWA'
 buyurl: 'https://www.amazon.it/dp/B01HTMBEQA/?tag=tolees00-21'
 descuento: '18.20'
-average: '184.445238095238'
+average: '184.306923076923'
 ---
 
 [Salewa MS Mountain Trainer Mid Gore-TEX  Scarponi da trekking e da escursionismo Uomo  Grigio  Charcoal/Papavero   44 EU](https://www.amazon.it/dp/B01HTMBEQA/?tag=tolees00-21) ha un prezzo di 179.95 EUR (originale: 220.0 EUR) con uno sconto del 18.20 % sconto qui:
 
-[![Salewa MS Mountain Trainer Mid Gore-TEX ](https://m.media-amazon.com/images/I/51S0uwF-VVL._SL200_.jpg)](https://www.amazon.it/dp/B01HTMBEQA/?tag=tolees00-21)
+[![Salewa MS Mountain Trainer Mid Gore-TEX ](https://m.media-amazon.com/images/I/51S0uwF-VVL._SL400_.jpg)](https://www.amazon.it/dp/B01HTMBEQA/?tag=tolees00-21)
 
 ℹ️:
 
-- Chiusura rapida e facile con lacci rotondi molto resistenti
+- Design robusto e sportivo
 - Suola morbida e resistente che offre unelevata aderenza
 - Realizzate in materiali di alta qualità molto resistenti che forniscono un confort aumentato
-- Design robusto e sportivo
+- Chiusura rapida e facile con lacci rotondi molto resistenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HTMBEQA/?tag=tolees00-21)

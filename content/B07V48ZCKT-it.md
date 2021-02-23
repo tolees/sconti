@@ -28,10 +28,10 @@ Puoi trovare [BLACK+DECKER BXJB500E Frullatore con caraffa  1 5 lt. in plastica 
 
 ℹ️:
 
-- 2 velocita + pulse: inserite gli alimenti e scegliere fra una delle due velocità; la velocità 1 ti aiuterà a miscelare e frullare, mentre la 2 omogeneizzerà; se ha necessità di potenza extra, selezionando la funzione "pulse" potrai sminuzzare anche gli alimenti più duri
-- Caraffa graduata 1,5 lt.: capacità della caraffa bxjb500e di 1,5 lt; graduata sia in millilitri che in grammi in modo da poter eseguire qualsiasi ricetta senza bisogno di conversioni
 - Base antiscivolo stabilità totale: la base del frullatore bxjb500e è supportata da 4 ventose che lo stabilizzano alla base di appoggio, riducendo così le vibrazioni, garantendo la massima sicurezza
+- Caraffa graduata 1,5 lt.: capacità della caraffa bxjb500e di 1,5 lt; graduata sia in millilitri che in grammi in modo da poter eseguire qualsiasi ricetta senza bisogno di conversioni
 - Lame in acciaio inossidabile rimovibili: bxjb500e ha 4 lame in acciaio inossidabile, due inclinate verso lalto e le altre due inclinate verso il basso; questa disposizione genera una corretta rotazione e flusso degli alimenti, assicurando un risultato omogeneo
 - Filtro di spillatura nel coperchio: puoi scegliere se avere frullati o frappè, con o senza polpa; se vuoi escludere la polpa puoi ottenere solo il succo utilizzando la griglia filtrante posta sul coperchio; tratterrà la polpa e le fibre degli alimenti allinterno della caraffa
+- 2 velocita + pulse: inserite gli alimenti e scegliere fra una delle due velocità; la velocità 1 ti aiuterà a miscelare e frullare, mentre la 2 omogeneizzerà; se ha necessità di potenza extra, selezionando la funzione "pulse" potrai sminuzzare anche gli alimenti più duri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V48ZCKT/?tag=tolees00-21)

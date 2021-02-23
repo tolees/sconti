@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 21.59 % su Buena Vista - Avengers Infinity War 10°   '
-date: 2021-02-16 18:59:40
-image: 'https://m.media-amazon.com/images/I/51oKjMpH4DL._SL200_.jpg'
+date: 2021-02-23 17:58:52
+image: 'https://m.media-amazon.com/images/I/51oKjMpH4DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇮🇹'
 brand: 'Buena Vista'
 buyurl: 'https://www.amazon.it/dp/B07TGPBG7D/?tag=tolees00-21'
 descuento: '21.59'
-average: '12.2617391304348'
+average: '12.0800000000001'
 ---
 
 [Buena Vista - Avengers Infinity War 10° Anniversario Marvel Studios brd   Blu Ray ](https://www.amazon.it/dp/B07TGPBG7D/?tag=tolees00-21) ha un prezzo di 9.99 EUR (originale: 12.74 EUR) con uno sconto del 21.59 % sconto qui:
 
-[![Buena Vista - Avengers Infinity War 10° ](https://m.media-amazon.com/images/I/51oKjMpH4DL._SL200_.jpg)](https://www.amazon.it/dp/B07TGPBG7D/?tag=tolees00-21)
+[![Buena Vista - Avengers Infinity War 10° ](https://m.media-amazon.com/images/I/51oKjMpH4DL._SL400_.jpg)](https://www.amazon.it/dp/B07TGPBG7D/?tag=tolees00-21)
 
 ℹ️:
 
