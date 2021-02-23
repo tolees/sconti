@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 40.04 % su Warner Home Video - The Prestige  '
-date: 2021-02-17 20:12:09
-image: 'https://m.media-amazon.com/images/I/519eldOnzpL._SL200_.jpg'
+date: 2021-02-23 11:24:40
+image: 'https://m.media-amazon.com/images/I/519eldOnzpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 [Warner Home Video - The Prestige](https://www.amazon.it/dp/B0041KW7GK/?tag=tolees00-21) ha un prezzo di 5.99 EUR (originale: 9.99 EUR) con uno sconto del 40.04 % sconto qui:
 
-[![Warner Home Video - The Prestige](https://m.media-amazon.com/images/I/519eldOnzpL._SL200_.jpg)](https://www.amazon.it/dp/B0041KW7GK/?tag=tolees00-21)
+[![Warner Home Video - The Prestige](https://m.media-amazon.com/images/I/519eldOnzpL._SL400_.jpg)](https://www.amazon.it/dp/B0041KW7GK/?tag=tolees00-21)
 
 ℹ️:
 
