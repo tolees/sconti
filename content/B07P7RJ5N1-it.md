@@ -29,7 +29,7 @@ average: '48.994'
 ℹ️:
 
 - Pokémon Spada e Pokémon Scudo sono ambientati a Galar, una vasta regione con una gran varietà di paesaggi: zone rurali idilliache, città moderne, vaste pianure e montagne rocciose e innevate.
-- Lingua dialogo, sottotitoli e manuale in italiano
 - I giocatori dovranno scegliere il loro compagno di viaggio fra tre nuovi Pokémon: Il Pokémon Scimpanzé Grookey , il Pokémon Coniglio Scorbunny e il Pokémon Acquacertola Sobble.
+- Lingua dialogo, sottotitoli e manuale in italiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P7RJ5N1/?tag=tolees00-21)

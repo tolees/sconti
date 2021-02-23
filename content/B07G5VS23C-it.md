@@ -28,11 +28,11 @@ average: '34.9'
 
 ℹ️:
 
-- Suitable for children from 8 years
 - Enjoy combining models created by a true designer in more than 500 ways
+- Italian Version
+- Suitable for children from 8 years
 - Draw your models on a beautiful portable light table, unleash your creativity wherever you are
 - Box dimensions: 43x33x7.5 cm
-- Italian Version
 - With Ravensburger shape your ideas and create your own fashion collection
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G5VS23C/?tag=tolees00-21)

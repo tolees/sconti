@@ -28,10 +28,10 @@ Puoi trovare [Rowenta RH9021 Air Force 360 Max Scopa Ricaricabile Senza Fili  Au
 
 ℹ️:
 
-- Ultra-light design with brushless power boost motor for optimal performance in a compact vacuum cleaner and increased durability
 - LED head lights for easy cleaning in low-light areas or under furniture, advanced cyclonic technology for deep cleaning and long-lasting performance
 - Motorized suction head "power slim vision" (up to 6,500 rpm) for high performance on all types of floors (tile, hardwood, carpets)
 - Ergonomic trigger without the need to press continuously
+- Ultra-light design with brushless power boost motor for optimal performance in a compact vacuum cleaner and increased durability
 - The versatile air force 360 max broom vacuum transforms into a handheld vacuum cleaner or a reach tool for high areas with a single gesture
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082FRBL24/?tag=tolees00-21)
