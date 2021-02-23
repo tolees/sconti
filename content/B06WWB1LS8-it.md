@@ -29,9 +29,9 @@ Puoi trovare [Omino Bianco – Additivo Igienizzante Idrocaps  Tecnologia Deo+  
 ℹ️:
 
 - Prodotto: Omino Bianco additivo igienizzante idrocaps, indicato per capi bianchi e colorati, dona in un solo gesto un bucato igienizzato e libero dai cattivi odori
+- Come usarlo: inserire il prodotto direttamente nel cestello sul fondo della lavatrice prima dei capi, senza aprire e forare la caps; aggiungere i capi e dosare il detersivo come d’abitudine; infine scegliere il programma desiderato e procedere con il lavaggio
+- Caps idrosolubili: le caps Omino Bianco si dissolvono completamente durante il lavaggio senza lasciare residui o aloni
 - Formula: grazie alla sua formula dermatologicamente testata, è adatto per il bucato tutta la famiglia, dai bambini agli adulti, e ottimale per gli sportivi e gli amanti degli animali
 - Azione: il prodotto grazie alla tecnologia Deo+ agisce nel cuore del bucato, neutralizza i cattivi odori e rimuove germi e batteri con un’azione già a 30°C
-- Caps idrosolubili: le caps Omino Bianco si dissolvono completamente durante il lavaggio senza lasciare residui o aloni
-- Come usarlo: inserire il prodotto direttamente nel cestello sul fondo della lavatrice prima dei capi, senza aprire e forare la caps; aggiungere i capi e dosare il detersivo come d’abitudine; infine scegliere il programma desiderato e procedere con il lavaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WWB1LS8/?tag=tolees00-21)

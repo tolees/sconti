@@ -28,10 +28,10 @@ Puoi trovare [Samsung Memorie MZ-N6E1T0 860 EVO SSD Interno da 1 TB  SATA  M.2](
 
 ℹ️:
 
-- Velocità di lettura sequenziale fino a 550 MB/s e velocità di scrittura sequenziale fino a 520 MB/s
 - Fattore di forma: M.2
 - Progettato per PC e laptop tradizionali per uso personale, di gioco e aziendale
 - Interfaccia SATA 6 Gb/s compatibile con interfacce SATA 3 Gb/s e SATA 1.5 Gb/s
+- Velocità di lettura sequenziale fino a 550 MB/s e velocità di scrittura sequenziale fino a 520 MB/s
 - Capacità disponibile: fino a 2 TB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078WQT6SB/?tag=tolees00-21)
