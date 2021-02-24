@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
-- blu_ray
-- Bryan Cranston;Anna Gunn;Aaron Paul
 - Breaking Bad – Collezione Completa Stagioni 1-6 Icon Edition
+- Bryan Cranston;Anna Gunn;Aaron Paul
+- blu_ray
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DVGP99F/?tag=tolees00-21)

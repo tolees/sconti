@@ -28,8 +28,8 @@ Puoi trovare [adidas Puremotion Men  Scarpe da Corsa Uomo  Core Black/Ftwr White
 
 ℹ️:
 
-- Ammortizzazione morbida
 - Tomaia in mesh traspirante
+- Ammortizzazione morbida
 - Scarpe da corsa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089QQS4GJ/?tag=tolees00-21)
