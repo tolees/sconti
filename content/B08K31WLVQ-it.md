@@ -28,10 +28,10 @@ average: '27.74'
 
 ℹ️:
 
-- [Funzioni straordinari] Con la funzione Circle Fly, questo piccolo drone vola in cerchio ad alta velocità, portando ai bambini una nuova esperienza fantastica. Inoltre, le velocità possono essere regolate a piacimento (bassa / media / alta), e puoi trovare tanto divetimento anche con 3D Filp.
 - [21 minuti autonomia di volo] con 3 potenti batterie, Il tempo di volo del drone può essere prolungato fino a 21 minuti. Divertiti con le sue mini dimensioni. L‘indicatore LED fornirà le indicazioni sulla direzione.
-- [Operazione facile] Modalità hovering consente al drone di librarsi automaticamente, garantendo un volo più stabile. Con un semplice tocco, i bambini possono facilmente terminare il decollo / latterraggio di un tasto, il ritorno di un tasto, la modalità senza testa e larresto di emergenza di questo drone. Facile per bambini e principianti.
+- [Funzioni straordinari] Con la funzione Circle Fly, questo piccolo drone vola in cerchio ad alta velocità, portando ai bambini una nuova esperienza fantastica. Inoltre, le velocità possono essere regolate a piacimento (bassa / media / alta), e puoi trovare tanto divetimento anche con 3D Filp.
 - [La qualità durevole e sicuro da manovrare] protezioni multiple possono evitare alcuni problemi come un consumo eccessivo del motore notevolmente, perdita o fuori controllo, prolungando la durata dell’uso di drone. 4 anelli di protezione proteggono le eliche da collisioni.
 - [Funzione lancia&vola] nessun telecomando richiesto per decollare. Basta mettere in mano questo mini drone, quindi lanciarlo delicatamente in aria per iniziare rapidamente. Super facile da imparare.
+- [Operazione facile] Modalità hovering consente al drone di librarsi automaticamente, garantendo un volo più stabile. Con un semplice tocco, i bambini possono facilmente terminare il decollo / latterraggio di un tasto, il ritorno di un tasto, la modalità senza testa e larresto di emergenza di questo drone. Facile per bambini e principianti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08K31WLVQ/?tag=tolees00-21)

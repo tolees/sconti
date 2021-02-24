@@ -28,8 +28,8 @@ average: '73.99'
 
 ℹ️:
 
-- Pregiata pelle pieno fiore proveniente da una conceria sostenibile classificata Silver da LWG
 - Modello stringato per la massima sicurezza
+- Pregiata pelle pieno fiore proveniente da una conceria sostenibile classificata Silver da LWG
 - Soletta in EVA che ammortizza e assorbe gli urti
 - Collo imbottito che avvolge la caviglia
 - Comoda fodera in mesh traspirante

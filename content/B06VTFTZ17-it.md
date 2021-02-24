@@ -28,8 +28,8 @@ average: '468.5225'
 
 ℹ️:
 
-- Doppio sistema lineare motorizzato per una messa a fuoco veloce, precisa e silenziosa
 - Distanza minima di focus: 0,8 m
+- Doppio sistema lineare motorizzato per una messa a fuoco veloce, precisa e silenziosa
 - Obiettivo con focale fissa 85 mm f 1.8 per fotocamere Sony alpha con sensore full-frame
 - Nitidezza da angolo ad angolo e morbido bokeh
 
