@@ -28,8 +28,8 @@ average: '46.99'
 
 ℹ️:
 
-- Pulsante Stop&Go: per scegliere ogni volta la quantità di espresso desiderata
 - Griglia Small/Large: Rimovibile per un caffè espresso o un caffè lungo
+- Pulsante Stop&Go: per scegliere ogni volta la quantità di espresso desiderata
 - Caricamento Facile: per inserire la capsula con un semplice gesto
 - Serbatioio Trasparente (0.75 Lt): completamente trasparente, per controllare il livello dellacqua
 

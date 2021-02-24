@@ -29,8 +29,8 @@ Puoi trovare [Barilla Pasta Spaghetti Integrali  Pasta Lunga di Semola Integrale
 ℹ️:
 
 - BARILLA: Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- INGREDIENTI: pasta di semola di grano duro e acqua; alla base della dieta mediterranea, la pasta è una fonte di cereali ed è povera di sodio e grassi
 - SPAGHETTI INTEGRALI: ancora spessi, sono studiati per esaltare il carattere dei tuoi piatti; il metodo di macinazione delicata preserva tutta la bontà del grano, 100% italiano
+- INGREDIENTI: pasta di semola di grano duro e acqua; alla base della dieta mediterranea, la pasta è una fonte di cereali ed è povera di sodio e grassi
 - OTTIMI CON: un formato di pasta che sa come esaltare con maestria i condimenti elaborati come quelli di pesce; provali con pomodoro fresco, cozze, vongole e prezzemolo
 - CARATTERISTICHE: pasta lunga con consistenza sempre al dente grazie ad unaccurata selezione di grani duri, con tempo di cottura di 11 minuti
 

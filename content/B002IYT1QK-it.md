@@ -28,9 +28,9 @@ average: '14.1083882783884'
 
 ℹ️:
 
+- Ricarica per roller Pentel Energel punta 0,7 mm
 - Adatto per tutti i modelli Pentel Energel ricaricabili
 - Inchiostro a rapida asciugatura, adatto anche per i mancini
-- Ricarica per roller Pentel Energel punta 0,7 mm
 - Scrittura ultrascorrevole e massima precisione nel tratto
 - Non macchia il foglio
 
