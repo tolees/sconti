@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 53.89 % su WARNER BROS - American History X  '
-date: 2021-02-23 17:18:14
+date: 2021-02-24 17:25:40
 image: 'https://m.media-amazon.com/images/I/51eHd90OBVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '5.99'
 
 ℹ️:
 
-- Uno dei film più iconici degli anni 90
 - La convincente e intensa interpretazione di Edward Norton nei panni di Derek gli è valsa una nomination agli Oscar
 - Nel cast anche, Edward Furlong, il “John
+- Uno dei film più iconici degli anni 90
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YCZCWXD/?tag=tolees00-21)

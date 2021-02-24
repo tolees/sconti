@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 43.35 % su Only Onlqueen L/s Long Cardigan Knt Noos  '
-date: 2021-02-17 20:07:20
-image: 'https://m.media-amazon.com/images/I/41-l49UTrfL._SL200_.jpg'
+date: 2021-02-24 17:34:45
+image: 'https://m.media-amazon.com/images/I/41-l49UTrfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,11 +24,11 @@ average: '16.99'
 
 [Only Onlqueen L/s Long Cardigan Knt Noos  Multicolore  Misty Rose Stripes:W. MGM/Cloud Pink Melange   46  Taglia Produttore: Large  Donna](https://www.amazon.it/dp/B07DDY1R5P/?tag=tolees00-21) ha un prezzo di 16.99 EUR (originale: 29.99 EUR) con uno sconto del 43.35 % sconto qui:
 
-[![Only Onlqueen L/s Long Cardigan Knt Noos](https://m.media-amazon.com/images/I/41-l49UTrfL._SL200_.jpg)](https://www.amazon.it/dp/B07DDY1R5P/?tag=tolees00-21)
+[![Only Onlqueen L/s Long Cardigan Knt Noos](https://m.media-amazon.com/images/I/41-l49UTrfL._SL400_.jpg)](https://www.amazon.it/dp/B07DDY1R5P/?tag=tolees00-21)
 
 ℹ️:
 
-- Lavorato a maglia.
 - Cardigan.
+- Lavorato a maglia.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DDY1R5P/?tag=tolees00-21)
