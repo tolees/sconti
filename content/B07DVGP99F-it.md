@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 20.00 % su UNIVERSAL VIDEO - Breaking Bad Collectio  '
-date: 2021-02-21 11:04:24
-image: 'https://m.media-amazon.com/images/I/41siEWPCgrL._SL200_.jpg'
+date: 2021-02-24 05:31:18
+image: 'https://m.media-amazon.com/images/I/41siEWPCgrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 [UNIVERSAL VIDEO - Breaking Bad Collection 1-6  2018   Box Set   16 Blu Ray  - Icon Edition](https://www.amazon.it/dp/B07DVGP99F/?tag=tolees00-21) ha un prezzo di 35.99 EUR (originale: 44.99 EUR) con uno sconto del 20.00 % sconto qui:
 
-[![UNIVERSAL VIDEO - Breaking Bad Collectio](https://m.media-amazon.com/images/I/41siEWPCgrL._SL200_.jpg)](https://www.amazon.it/dp/B07DVGP99F/?tag=tolees00-21)
+[![UNIVERSAL VIDEO - Breaking Bad Collectio](https://m.media-amazon.com/images/I/41siEWPCgrL._SL400_.jpg)](https://www.amazon.it/dp/B07DVGP99F/?tag=tolees00-21)
 
 ℹ️:
 

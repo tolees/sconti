@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'WARNER BROS - Batman V Superman - Theatr al 40.02 % di sconto'
-date: 2021-02-16 01:57:56
-image: 'https://m.media-amazon.com/images/I/51IzzOkky3L._SL200_.jpg'
+date: 2021-02-24 05:22:38
+image: 'https://m.media-amazon.com/images/I/51IzzOkky3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Puoi trovare [WARNER BROS - Batman V Superman - Theatrical & Ultimate Ed. – Mondo Steelbook   2 Blu Ray ](https://www.amazon.it/dp/B07K3KPL14/?tag=tolees00-21) con il prezzo 14.99 EUR (originale: 24.99 EUR) 40.02 % sconto qui:
 
-[![WARNER BROS - Batman V Superman - Theatr](https://m.media-amazon.com/images/I/51IzzOkky3L._SL200_.jpg)](https://www.amazon.it/dp/B07K3KPL14/?tag=tolees00-21)
+[![WARNER BROS - Batman V Superman - Theatr](https://m.media-amazon.com/images/I/51IzzOkky3L._SL400_.jpg)](https://www.amazon.it/dp/B07K3KPL14/?tag=tolees00-21)
 
 ℹ️:
 
