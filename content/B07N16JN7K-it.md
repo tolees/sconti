@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 53.89 % su WARNER BROS - Creed 2  Blu-Ray   '
-date: 2021-02-17 12:44:44
-image: 'https://m.media-amazon.com/images/I/514LgFfagvL._SL200_.jpg'
+date: 2021-02-23 23:23:06
+image: 'https://m.media-amazon.com/images/I/514LgFfagvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 [WARNER BROS - Creed 2  Blu-Ray ](https://www.amazon.it/dp/B07N16JN7K/?tag=tolees00-21) ha un prezzo di 5.99 EUR (originale: 12.99 EUR) con uno sconto del 53.89 % sconto qui:
 
-[![WARNER BROS - Creed 2  Blu-Ray ](https://m.media-amazon.com/images/I/514LgFfagvL._SL200_.jpg)](https://www.amazon.it/dp/B07N16JN7K/?tag=tolees00-21)
+[![WARNER BROS - Creed 2  Blu-Ray ](https://m.media-amazon.com/images/I/514LgFfagvL._SL400_.jpg)](https://www.amazon.it/dp/B07N16JN7K/?tag=tolees00-21)
 
 ℹ️:
 

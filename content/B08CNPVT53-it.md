@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 31.31 % su WARNER BROS - Shazam 4K UHD Comic Art St  '
-date: 2021-02-20 23:28:27
-image: 'https://m.media-amazon.com/images/I/51t5yBq1xAL._SL200_.jpg'
+date: 2021-02-23 23:38:36
+image: 'https://m.media-amazon.com/images/I/51t5yBq1xAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,12 +24,12 @@ average: '22.99'
 
 [WARNER BROS - Shazam 4K UHD Comic Art Steelbook  2 dischi ](https://www.amazon.it/dp/B08CNPVT53/?tag=tolees00-21) ha un prezzo di 22.99 EUR (originale: 33.47 EUR) con uno sconto del 31.31 % sconto qui:
 
-[![WARNER BROS - Shazam 4K UHD Comic Art St](https://m.media-amazon.com/images/I/51t5yBq1xAL._SL200_.jpg)](https://www.amazon.it/dp/B08CNPVT53/?tag=tolees00-21)
+[![WARNER BROS - Shazam 4K UHD Comic Art St](https://m.media-amazon.com/images/I/51t5yBq1xAL._SL400_.jpg)](https://www.amazon.it/dp/B08CNPVT53/?tag=tolees00-21)
 
 ℹ️:
 
-- Un superoe da non perder
 - Esclusivo film in 4k
 - Formato Steelbook
+- Un superoe da non perder
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CNPVT53/?tag=tolees00-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'TP-Link Telecamera Wi-Fi Interno  Videoc al 24.84 % di sconto'
-date: 2021-02-20 23:51:32
-image: 'https://m.media-amazon.com/images/I/41RbG9g-HOL._SL200_.jpg'
+date: 2021-02-23 23:36:18
+image: 'https://m.media-amazon.com/images/I/41RbG9g-HOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,22 +19,22 @@ flag: '🇮🇹'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.it/dp/B07XLML2YS/?tag=tolees00-21'
 descuento: '24.84'
-average: '29.988'
+average: '29.9883333333333'
 ---
 
 Puoi trovare [TP-Link Telecamera Wi-Fi Interno  Videocamera sorveglianza 1080P  Visione Notturna  Audio Bidirezionale  Notifiche in tempo reale del sensore di movimento Tapo C200 ](https://www.amazon.it/dp/B07XLML2YS/?tag=tolees00-21) con il prezzo 29.99 EUR (originale: 39.9 EUR) 24.84 % sconto qui:
 
-[![TP-Link Telecamera Wi-Fi Interno  Videoc](https://m.media-amazon.com/images/I/41RbG9g-HOL._SL200_.jpg)](https://www.amazon.it/dp/B07XLML2YS/?tag=tolees00-21)
+[![TP-Link Telecamera Wi-Fi Interno  Videoc](https://m.media-amazon.com/images/I/41RbG9g-HOL._SL400_.jpg)](https://www.amazon.it/dp/B07XLML2YS/?tag=tolees00-21)
 
 ℹ️:
 
-- Allarme acustico e luminoso integrato: innesca un effetto sonoro o luminoso per scoraggiare eventuali visitatori indesiderati
-- Compatibile con alexa echo show: puoi provare il comando come “alexa, mostra la telecamera della porta principale”; assicurarsi che il firmware sia stato aggiornato allultimo
-- Video di alta qualità: visione notturna fino a 8 metri, risoluzione 1080p per immagini nitide e chiare; ottieni una visione dettagliata della stanza - movimento orizzontale fino a 360° e movimento verticale fino a 114°
 - Hai difficoltà nella configurazione? puoi risolverlo facilmente guardando il video di unboxing e configurazione pubblicato da tp-link in questa pagina
 - Rilevazione movimento e notifiche istantanee: ricevi istantaneamente notifiche push dallapp quando viene intercettato un movimento; tp-link ha anche fornito una funzione avanzata di impostazione del tempo di registrazione specifico
-- Supporta la registrazione in loop: supporto per microsd card fino a 128 gb; e supporta la registrazione in loop: la nuova registrazione sovrascriverà quella vecchia quando la memoria è piena; puoi guardare il video per sapere come abilitare questa funzione
 - Two-way audio: audio bidirezionale per comunicare con chi si trova in prossimità della telecamera
 - Supporto tecnico locale: tp-link italia fornisce supporto tecnico gratuito per gli utenti in italia. è possibile trovare le informazioni di contatto sul sito web tp-link
+- Compatibile con alexa echo show: puoi provare il comando come “alexa, mostra la telecamera della porta principale”; assicurarsi che il firmware sia stato aggiornato allultimo
+- Allarme acustico e luminoso integrato: innesca un effetto sonoro o luminoso per scoraggiare eventuali visitatori indesiderati
+- Supporta la registrazione in loop: supporto per microsd card fino a 128 gb; e supporta la registrazione in loop: la nuova registrazione sovrascriverà quella vecchia quando la memoria è piena; puoi guardare il video per sapere come abilitare questa funzione
+- Video di alta qualità: visione notturna fino a 8 metri, risoluzione 1080p per immagini nitide e chiare; ottieni una visione dettagliata della stanza - movimento orizzontale fino a 360° e movimento verticale fino a 114°
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XLML2YS/?tag=tolees00-21)

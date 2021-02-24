@@ -28,7 +28,7 @@ average: '35.74'
 
 ℹ️:
 
-- Biker Jacket
 - Season Jacket
+- Biker Jacket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JZVFMHD/?tag=tolees00-21)
