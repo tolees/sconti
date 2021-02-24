@@ -28,9 +28,9 @@ average: '49.99'
 
 ℹ️:
 
-- In spagnolo questo prodotto si chiama: "Jamón serrano reserva".
 - Tempo di stagionatura: almeno 14 mesi.
 - Il prosciutto serrano riserva è un prosciutto di maiale serrano semigrasso di media-alta stagionatura.
 - Questo prodotto deve il nome "serrano" allusanza di stagionare il prosciutto nella Sierra (la montagna), dove le basse temperature facilitano la stagionatura.
+- In spagnolo questo prodotto si chiama: "Jamón serrano reserva".
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00Y79THOK/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '2.3'
 
 ℹ️:
 
-- Spoane liquido talco e iris in busta maxiricarica universale
-- Mil mil sapone liquido talco iris, ricarica universale, 2000 ml
 - di qualita
 - Prodotto ottimo
+- Mil mil sapone liquido talco iris, ricarica universale, 2000 ml
+- Spoane liquido talco e iris in busta maxiricarica universale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00WQ1IVXE/?tag=tolees00-21)
