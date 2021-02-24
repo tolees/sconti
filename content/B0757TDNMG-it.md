@@ -28,10 +28,10 @@ average: '23.89'
 
 ℹ️:
 
-- Aiuta a rimuovere germi e batteri da tutti i capi
-- Classico
-- 18 lavaggi da 65ml cad
 - Detersivo liquido per lavatrice e a mano
+- 18 lavaggi da 65ml cad
 - Smacchia e igienizza
+- Classico
+- Aiuta a rimuovere germi e batteri da tutti i capi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0757TDNMG/?tag=tolees00-21)

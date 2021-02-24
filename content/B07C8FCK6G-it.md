@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Home Video - Harry Potter Collect al 45.73 % di sconto'
-date: 2021-02-23 11:08:39
+date: 2021-02-24 11:34:07
 image: 'https://m.media-amazon.com/images/I/51pRf18DdEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Warner Home Video'
 buyurl: 'https://www.amazon.it/dp/B07C8FCK6G/?tag=tolees00-21'
 descuento: '45.73'
-average: '19.1718181818182'
+average: '19.1438461538462'
 ---
 
 Puoi trovare [Warner Home Video - Harry Potter Collection  Standard Edition   8 Dvd ](https://www.amazon.it/dp/B07C8FCK6G/?tag=tolees00-21) con il prezzo 18.99 EUR (originale: 34.99 EUR) 45.73 % sconto qui:
