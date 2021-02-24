@@ -28,10 +28,10 @@ average: '23.89'
 
 ℹ️:
 
-- Detersivo liquido per lavatrice e a mano
-- Smacchia e igienizza
 - Aiuta a rimuovere germi e batteri da tutti i capi
 - Classico
 - 18 lavaggi da 65ml cad
+- Detersivo liquido per lavatrice e a mano
+- Smacchia e igienizza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0757TDNMG/?tag=tolees00-21)
