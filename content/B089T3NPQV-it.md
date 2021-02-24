@@ -28,8 +28,8 @@ average: '11.99'
 
 ℹ️:
 
-- Maglia.
 - Cardigan.
 - Maglione.
+- Maglia.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089T3NPQV/?tag=tolees00-21)

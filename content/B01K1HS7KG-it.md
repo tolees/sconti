@@ -29,7 +29,7 @@ average: '3.45'
 ℹ️:
 
 - Non screpola - Non ritira
-- Facile da livellare
 - Facile da carteggiare
+- Facile da livellare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01K1HS7KG/?tag=tolees00-21)
