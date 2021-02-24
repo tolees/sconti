@@ -28,10 +28,10 @@ Puoi trovare [eXtremeRate PlayVital RGB LED Striscia Luminosa per Xbox Series X 
 
 ℹ️:
 
-- NOTA: il prodotto è alimentato dall’interfaccia USB della console DC 5V, non collegarlo all’interfaccia di alimentazione DC più grande. Per problema del prodotto, per favore contattici.
-- Questo kit di LED strisce luminose include 1x flessibile striscia di luci LED, 1x telecomando IR a 6x tasti, 1x manuale utente e 2x set di salviettine per la pulizia. (Console e altre parti non sono incluse.) Video Tutorial “eXtremeRate XSX LED Strip” o “24cTWeJQfyc” su Youtube.
 - Compatibile solo con Xbox Series X console, NON compatibile con altre console.
 - La striscia luminosa a LED ha 7 colori (rosso, bianco freddo, giallo, rosa, ciano, verde, blu). 29 modalità da scegliere, puoi personalizzare la tua console per Xbox Series X con i colori preferiti
 - Facile da installare, basta pulire la superficie adesiva della console e incollare la striscia di luci del nastro, senza passaggi aggiuntivi. Il telecomando confezionato può regolare rapidamente la modalità di illuminazione, e ha una funzione di memoria
+- NOTA: il prodotto è alimentato dall’interfaccia USB della console DC 5V, non collegarlo all’interfaccia di alimentazione DC più grande. Per problema del prodotto, per favore contattici.
+- Questo kit di LED strisce luminose include 1x flessibile striscia di luci LED, 1x telecomando IR a 6x tasti, 1x manuale utente e 2x set di salviettine per la pulizia. (Console e altre parti non sono incluse.) Video Tutorial “eXtremeRate XSX LED Strip” o “24cTWeJQfyc” su Youtube.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VWQ74JZ/?tag=tolees00-21)

@@ -29,7 +29,7 @@ average: '24.818'
 ℹ️:
 
 - Un film di Zack Snyder
-- 300 spartani contro lesercito persiano
 - Lepico graphic novel di Frank Miller
+- 300 spartani contro lesercito persiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5SZQQZ/?tag=tolees00-21)

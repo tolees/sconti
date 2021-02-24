@@ -28,13 +28,13 @@ average: '10.1900000000001'
 
 ℹ️:
 
-- Amazon Frustration-Free Setup (FFS) - Linstallazione è più veloce che mai con Alexa. Usa il tuo dispositivo Echo per configurare la presa tramite comando vocale
-- Carico massimo - 2300 w, 10 a; sotto severi controlli di qualità da parte del laboratorio di tp-link e certificazione da parte dellautorità globale
+- ATTENZIONE - nessuna presa europea presa di terra, solo per una presa femmina di tipo C (o prese)
 - Nessun hub richiesto - connettersi al router Wi-Fi esistente
 - Modalità assenza - accensione e spegnimento dei tuoi dispositivi a intervalli di tempo programmati per simulare la presenza in casa
-- Pianificazione - programma lo smart plug per fornire automaticamente energia a seconda della necessità, come impostare le luci al crepuscolo e spegnerle allalba
-- ATTENZIONE - nessuna presa europea presa di terra, solo per una presa femmina di tipo C (o prese)
+- Carico massimo - 2300 w, 10 a; sotto severi controlli di qualità da parte del laboratorio di tp-link e certificazione da parte dellautorità globale
 - Controllo vocale - compatibile con alexa e google assistant per controllare lo smart plug semplicemente usando la voce
 - Accesso remoto - controlla i dispositivi connessi allo smart plug ovunque ci sia internet utilizzando la app tapo sul tuo smartphone
+- Amazon Frustration-Free Setup (FFS) - Linstallazione è più veloce che mai con Alexa. Usa il tuo dispositivo Echo per configurare la presa tramite comando vocale
+- Pianificazione - programma lo smart plug per fornire automaticamente energia a seconda della necessità, come impostare le luci al crepuscolo e spegnerle allalba
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FSJD59S/?tag=tolees00-21)
