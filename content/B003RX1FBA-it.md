@@ -28,9 +28,9 @@ average: '34.0'
 
 ℹ️:
 
-- Fodera: Tessuto
 - Materiale esterno: Sintetico
 - Tipo di tacco: Senza tacco
+- Fodera: Tessuto
 - Chiusura: Stringata
 - Materiale suola: Gomma
 

@@ -28,9 +28,9 @@ average: '468.5225'
 
 ℹ️:
 
-- Distanza minima di focus: 0,8 m
 - Doppio sistema lineare motorizzato per una messa a fuoco veloce, precisa e silenziosa
-- Obiettivo con focale fissa 85 mm f 1.8 per fotocamere Sony alpha con sensore full-frame
 - Nitidezza da angolo ad angolo e morbido bokeh
+- Distanza minima di focus: 0,8 m
+- Obiettivo con focale fissa 85 mm f 1.8 per fotocamere Sony alpha con sensore full-frame
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06VTFTZ17/?tag=tolees00-21)
