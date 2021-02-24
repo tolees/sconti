@@ -29,8 +29,8 @@ Puoi trovare [Huawei AI Cube Router 4G  Speaker con LTE Cat-6  Amazon Alexa Inte
 ℹ️:
 
 - Aspetto CMF (colore, materiale e finish): bianco opaco elegante, tessuto leggero con tessitura 3D senza cuciture visibili, l’aspetto del prodotto è ricercato e si integra con qualsiasi arredamento
+- Supporta lo standard 4G LTE CAT6, fino a 300 Mbps e Wi-Fi 802.11ac 2.4 GHz/5 GHz fino a 1200 Mbps, basta inserire la SIM per una connessione Internet 4G ad alta velocità in ogni momento e dovunque
 - Software di riconoscimento vocale a distanza rispetta il timbro originale Huawei Histen e integrazione Alexa: più di 50.000 funzionalità disponibili, supporta più di 2000 brand compatibili
 - Sound System potente: cavità sonora da 400 ml, il diaframma in alluminio rende limpidi gli alti e i medi, mentre i radiatori passivi potenziano i bassi vibranti
-- Supporta lo standard 4G LTE CAT6, fino a 300 Mbps e Wi-Fi 802.11ac 2.4 GHz/5 GHz fino a 1200 Mbps, basta inserire la SIM per una connessione Internet 4G ad alta velocità in ogni momento e dovunque
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TSY8XHC/?tag=tolees00-21)
