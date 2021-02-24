@@ -30,8 +30,8 @@ Puoi trovare [Medisana BS 444 Connect  Bilancia Digitale per Analisi Corporea 18
 
 - Pieno di funzioni: potete commutare tra le unità di misura KG, LB e ST. La bilancia riconosce automaticamente fino a 8 utenti, non appena salite a piedi nudi sulla bilancia
 - VitaDock+app: per un controllo sostenibile i valori del corpo rilevati possono essere trasmessi tramite Bluetooth alla VitaDock+app, salvati ed analizzati.
-- Nota: Si prega di camminare solo a piedi nudi e di stare in piedi su tutti e 4 gli elettrodi. Pesare solo su terreno piano e duro. I primi risultati possono differire, perché la bilancia deve calibrarsi da sola
 - Analisi corporea:il pesapersone misura il peso, il grasso corporeo, l’acqua nel corpo, i muscoli e il peso osseo, calcola il BMI e ha un’analisi integrata del fabbisogno calorico
+- Nota: Si prega di camminare solo a piedi nudi e di stare in piedi su tutti e 4 gli elettrodi. Pesare solo su terreno piano e duro. I primi risultati possono differire, perché la bilancia deve calibrarsi da sola
 - Design moderno: con la sua superficie splendente bianchissima e i qualitativi elettrodi in acciaio inox è in design moderno. Il grande display LCD garantisce una lettura facile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DPJSOT6/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Maalox RefluRAPID - Dispositivo medico per il Trattamento del Refl
 
 ℹ️:
 
-- Maalox reflurapid aiuta a prevenire e ridurre bruciore, pirosi gastrica in gravidanza, esofagite da reflusso,cattiva digestione, sintomi notturni da reflusso, tosse e infiammazione laringo-faringea
-- Il carbonato di calcio e il bicarbonato di sodio sono sali di origine minerale con azione tamponante contro liperacidità; alzano il ph del contenuto gastrico riducendo il livello di acidità
-- Maalox reflurapid può essere assunto anche per la pirosi gastrica in gravidanza
-- Maalox reflurapid è indicato anche in caso di reflusso notturno, una delle più frequenti cause di un sonno disturbato
 - Lalginato di sodio forma una barriera visco-elastica che ostacola la risalita degli acidi gastrici verso lesofago.e un alginato di nuova generazione che agisce molto rapidamente
+- Maalox reflurapid aiuta a prevenire e ridurre bruciore, pirosi gastrica in gravidanza, esofagite da reflusso,cattiva digestione, sintomi notturni da reflusso, tosse e infiammazione laringo-faringea
+- Maalox reflurapid è indicato anche in caso di reflusso notturno, una delle più frequenti cause di un sonno disturbato
+- Maalox reflurapid può essere assunto anche per la pirosi gastrica in gravidanza
+- Il carbonato di calcio e il bicarbonato di sodio sono sali di origine minerale con azione tamponante contro liperacidità; alzano il ph del contenuto gastrico riducendo il livello di acidità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088RS2DVG/?tag=tolees00-21)
