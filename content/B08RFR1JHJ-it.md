@@ -28,8 +28,8 @@ average: '16.99'
 
 ℹ️:
 
-- Azione e thriller
-- Greenland il film
 - Dopo Attacco al Potere 3, Gerard Butler e il regista Ric Roman Waugh collaborano nuovamente insieme in un disaster movie ad alto tasso di adrenalina
+- Greenland il film
+- Azione e thriller
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RFR1JHJ/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '18.14'
 
 ℹ️:
 
+- Un film di Cristopher Nolan
 - Un film con John David Washington e Robert Pattinson
 - Azione, Fantascienza, Thriller
-- Un film di Cristopher Nolan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5ZCXHQ/?tag=tolees00-21)

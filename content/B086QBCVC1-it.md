@@ -29,10 +29,10 @@ average: '9.85373134328344'
 ℹ️:
 
 - Contains 5 pcs assorted colours (black, red, blue, green, yellow)
-- 2.0 mm tip, 0.8 mm line
-- 900m average writing length
-- Ideal for graphic uses for drafting
-- Eco-friendly cardboard packaging made from sustainable raw materials
 - Fibre Tip Marker Pen
+- Ideal for graphic uses for drafting
+- 900m average writing length
+- Eco-friendly cardboard packaging made from sustainable raw materials
+- 2.0 mm tip, 0.8 mm line
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086QBCVC1/?tag=tolees00-21)

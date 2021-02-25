@@ -28,8 +28,8 @@ Puoi trovare [AUKEY Tastiera Gaming Meccanica con Retroilluminazione RGB Persona
 
 ℹ️:
 
-- Rollover N-Key completo: 105-key rollover con anti-ghosting permetteranno alla tastiera di non perdere neanche un tasto digitato né di confondere i tuoi comandi in qualsiasi occasione d’uso
 - Switch AUKEY Red: Interruttori lineari con resistenza minima senza sensazione di impatto tattile. Richiedono meno forza per premere e i tasti sembrano più lisci e più facili da usare
+- Rollover N-Key completo: 105-key rollover con anti-ghosting permetteranno alla tastiera di non perdere neanche un tasto digitato né di confondere i tuoi comandi in qualsiasi occasione d’uso
 - La confezione include: Tastiera meccanica RGB AUKEY KM-G12 RGB, manuale utente
 - Retroilluminazione RGB: KM-G12 è dotato di 7 colori preimpostati e 12 configurazioni di illuminazione preimpostate
 - Struttura durevole: I keycap in ABS stampato a doppio scatto e la struttura in acciaio sono estremamente durevoli e resistenti allabrasione
