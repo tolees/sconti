@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WARNER BROS - Trono Di Spade Stagione 8  al 54.02 % di sconto'
-date: 2021-02-23 17:37:42
+date: 2021-02-24 23:45:57
 image: 'https://m.media-amazon.com/images/I/51CGwSM01WL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21'
 descuento: '54.02'
-average: '23.3741975308641'
+average: '23.3649397590361'
 ---
 
 Puoi trovare [WARNER BROS - Trono Di Spade Stagione 8  3 Blu Ray ](https://www.amazon.it/dp/B07SLFS58R/?tag=tolees00-21) con il prezzo 22.99 EUR (originale: 50.0 EUR) 54.02 % sconto qui:

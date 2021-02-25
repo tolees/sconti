@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 35.64 % su Lavazza A Modo Mio - Lavazza 18000173 a   '
-date: 2021-02-23 23:36:35
+date: 2021-02-24 23:40:51
 image: 'https://m.media-amazon.com/images/I/41TEm4kSKiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Lavazza A Modo Mio'
 buyurl: 'https://www.amazon.it/dp/B07B11KL5G/?tag=tolees00-21'
 descuento: '35.64'
-average: '46.99'
+average: '46.3233333333333'
 ---
 
 [Lavazza A Modo Mio - Lavazza 18000173 a Modo Mio Tiny Macchina caffè  1450 W  0.75 Litri  Nero](https://www.amazon.it/dp/B07B11KL5G/?tag=tolees00-21) ha un prezzo di 44.99 EUR (originale: 69.9 EUR) con uno sconto del 35.64 % sconto qui:
@@ -28,9 +28,9 @@ average: '46.99'
 
 ℹ️:
 
-- Pulsante Stop&Go: per scegliere ogni volta la quantità di espresso desiderata
-- Serbatioio Trasparente (0.75 Lt): completamente trasparente, per controllare il livello dellacqua
-- Griglia Small/Large: Rimovibile per un caffè espresso o un caffè lungo
 - Caricamento Facile: per inserire la capsula con un semplice gesto
+- Pulsante Stop&Go: per scegliere ogni volta la quantità di espresso desiderata
+- Griglia Small/Large: Rimovibile per un caffè espresso o un caffè lungo
+- Serbatioio Trasparente (0.75 Lt): completamente trasparente, per controllare il livello dellacqua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B11KL5G/?tag=tolees00-21)

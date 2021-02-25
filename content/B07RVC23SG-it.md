@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 38.40 % su Sony Wh-Xb900N - Cuffie Wireless Over-Ea  '
-date: 2021-02-17 13:46:05
-image: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg'
+date: 2021-02-24 23:40:01
+image: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21'
 descuento: '38.40'
-average: '172.947538461538'
+average: '172.381641791045'
 ---
 
 [Sony Wh-Xb900N - Cuffie Wireless Over-Ear con Noise Cancellig Ed Extra Bass  Alexa Built-In  Compatibile con Google Assistant E Siri  Batteria Fino a 30 Ore  Bluetooth  Nfc  Nero](https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21) ha un prezzo di 153.99 EUR (originale: 250.0 EUR) con uno sconto del 38.40 % sconto qui:
 
-[![Sony Wh-Xb900N - Cuffie Wireless Over-Ea](https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg)](https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21)
+[![Sony Wh-Xb900N - Cuffie Wireless Over-Ea](https://m.media-amazon.com/images/I/31V4mUj6maL._SL400_.jpg)](https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21)
 
 ℹ️:
 
-- Cuffia wireless con sistema di eliminazione del rumore
-- Design raffinato e confortevole per un lungo ascolto
-- Ottimizzata per google assistant e alexa
-- Fino a 35 ore di riproduzione musicale wireless
 - Bassi intensi grazie alla tecnologia extra bass
+- Fino a 35 ore di riproduzione musicale wireless
+- Cuffia wireless con sistema di eliminazione del rumore
+- Ottimizzata per google assistant e alexa
+- Design raffinato e confortevole per un lungo ascolto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RVC23SG/?tag=tolees00-21)

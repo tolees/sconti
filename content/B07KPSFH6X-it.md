@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Deluxe: Game of Thrones S10:  al 50.67 % di sconto'
-date: 2021-02-23 23:27:45
+date: 2021-02-24 23:40:40
 image: 'https://m.media-amazon.com/images/I/41wdgS3MlqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Funko'
 buyurl: 'https://www.amazon.it/dp/B07KPSFH6X/?tag=tolees00-21'
 descuento: '50.67'
-average: '20.135'
+average: '20.2075'
 ---
 
 Puoi trovare [Funko- Pop Deluxe: Game of Thrones S10: Cersei Lannister Sitting on Iron Throne Figura da Collezione  Multicolore  37796](https://www.amazon.it/dp/B07KPSFH6X/?tag=tolees00-21) con il prezzo 20.28 EUR (originale: 41.11 EUR) 50.67 % sconto qui:

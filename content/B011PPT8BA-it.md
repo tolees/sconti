@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Home Video - Nightmare - La Colle al 52.18 % di sconto'
-date: 2021-02-23 17:56:33
+date: 2021-02-24 23:51:55
 image: 'https://m.media-amazon.com/images/I/6106vKhXVNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Warner Home Video'
 buyurl: 'https://www.amazon.it/dp/B011PPT8BA/?tag=tolees00-21'
 descuento: '52.18'
-average: '11.0466666666667'
+average: '11.041'
 ---
 
 Puoi trovare [Warner Home Video - Nightmare - La Collezione Completa  4 Blu-Ray ](https://www.amazon.it/dp/B011PPT8BA/?tag=tolees00-21) con il prezzo 10.99 EUR (originale: 22.98 EUR) 52.18 % sconto qui:
