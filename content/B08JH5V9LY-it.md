@@ -28,9 +28,9 @@ average: '227.4'
 
 ℹ️:
 
-- Produttore OPPO
 - Dimensione schermo 6.5 Pollici
 - Capacità memoria digitale 128 GB
+- Produttore OPPO
 - Smartphone 5G
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JH5V9LY/?tag=tolees00-21)
