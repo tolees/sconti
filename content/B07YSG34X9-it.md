@@ -28,8 +28,8 @@ average: '0.99'
 
 ℹ️:
 
-- Metodo De Cecco
 - Pasta di Semola di Grano Duro Integrale
 - Lavorazione tradizionale secondo la ricetta di oltre 125 anni
+- Metodo De Cecco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YSG34X9/?tag=tolees00-21)

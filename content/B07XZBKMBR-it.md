@@ -30,8 +30,8 @@ average: '427.01'
 
 - Gentlecare system: grazie alla pompa di calore, asciuga i tuoi capi a temperature dimezzate rispetto alle asciugatrici tradizionali
 - Tecnologia sensicare: regola il ciclo di lavaggio in base al carico, riducendo tempo, usura e consumi di acqua ed energia
+- Programma lana certificato woolmark blue
 - Opzione reverse plus: grazie alle inversioni del cesto asciuga ancora più delicatamente i tessuti sensibili alle alte temperature, riducendo le pieghe
 - Capi puliti quando si desidera con la funzione di partenza ritardata delay start
-- Programma lana certificato woolmark blue
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XZBKMBR/?tag=tolees00-21)
