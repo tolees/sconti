@@ -28,9 +28,9 @@ Puoi trovare [Funko- Pop Deluxe: Game of Thrones S10: Cersei Lannister Sitting o
 
 ℹ️:
 
-- Game of Thrones S10
 - POP! Deluxe
-- Cersei Lannister Sitting on Iron Throne
 - Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Game of Thrones S10
+- Cersei Lannister Sitting on Iron Throne
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KPSFH6X/?tag=tolees00-21)

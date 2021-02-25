@@ -28,8 +28,8 @@ average: '49.0952631578949'
 
 ℹ️:
 
-- Tasche sul petto con due bottoni sul petto
-- Classica camicia a maniche lunghe in denim
 - Con orlo curvo
+- Classica camicia a maniche lunghe in denim
+- Tasche sul petto con due bottoni sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TLFLXSB/?tag=tolees00-21)

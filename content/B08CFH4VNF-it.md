@@ -28,8 +28,8 @@ Puoi trovare [WARNER BROS - Il Trono di Spade 1-8 - Limited Deluxe Steelbook Edi
 
 ℹ️:
 
-- Trono di spade
 - Game of thrones
+- Trono di spade
 - Serie di successo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CFH4VNF/?tag=tolees00-21)
