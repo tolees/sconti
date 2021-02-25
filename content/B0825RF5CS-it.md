@@ -29,8 +29,8 @@ average: '56.91'
 ℹ️:
 
 - Larghezza scarpa: Normale
-- Fodera: Pelle
 - Chiusura: Senza chiusura
+- Fodera: Pelle
 - Materiale esterno: Pelle
 - Materiale suola: Gomma
 

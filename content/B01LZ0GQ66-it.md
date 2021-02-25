@@ -28,9 +28,9 @@ Puoi trovare [Ferrero Fiesta Merenda  10 x 36g](https://www.amazon.it/dp/B01LZ0G
 
 ℹ️:
 
-- Fiesta, uno spettacolo di gusto, perfetta per recuperare lentusiasmo a ogni pausa
-- Fiesta ferrero-soffice pan di spagna, delicato aroma allarancia e una golosa copertura al cacao
-- Lo sapevi che: fiesta è uno dei primo prodotti da forno nizialmente prodotta come torta per i giorni di festa si trasforma negli anni 70 in una merendina ideale per ogni break
 - Formato - pratico formato da 10 merendine confezionate singolarmente
+- Fiesta, uno spettacolo di gusto, perfetta per recuperare lentusiasmo a ogni pausa
+- Lo sapevi che: fiesta è uno dei primo prodotti da forno nizialmente prodotta come torta per i giorni di festa si trasforma negli anni 70 in una merendina ideale per ogni break
+- Fiesta ferrero-soffice pan di spagna, delicato aroma allarancia e una golosa copertura al cacao
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LZ0GQ66/?tag=tolees00-21)

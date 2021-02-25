@@ -28,10 +28,10 @@ average: '34.95'
 
 ℹ️:
 
+- Materiale esterno: Pelle
+- Fodera: Pelle
 - Materiale suola: Gomma
 - Larghezza scarpa: Normale
-- Fodera: Pelle
-- Materiale esterno: Pelle
 - Chiusura: Senza chiusura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825RH3DL/?tag=tolees00-21)

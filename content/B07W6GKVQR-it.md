@@ -28,10 +28,10 @@ Puoi trovare [BRESSER - Stazione meteorologica 5 in 1](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Stazione meteo radiocontrollata con multisensore 5 in 1
-- Contenuto della conf.: stazione base, multisensore, materiale per il fissaggio
-- Umidità, precipitazioni con memoria
 - 120x190x22 mm; 310 g und 344x394x136 mm; 682 g
 - Per misurare temperatura, velocità del vento, pressione dellaria
+- Umidità, precipitazioni con memoria
+- Contenuto della conf.: stazione base, multisensore, materiale per il fissaggio
+- Stazione meteo radiocontrollata con multisensore 5 in 1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W6GKVQR/?tag=tolees00-21)
