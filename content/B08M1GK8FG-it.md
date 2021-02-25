@@ -30,10 +30,10 @@ Puoi trovare [Lysoform Medical Gel Disinfettante Mani 70 ml + Lysoform Medical S
 
 - Formato soap 300 ml (con erogatore) + gel 70 ml
 - Gel disinfettante + sapone liquido detergente disinfettante
-- Elevato grado di tollerabilità cutanea
-- Attività battericida
-- Riduzione significativa della flora microbica cutanea
-- Numero di pezzi: 1
 - Soap: registrazione ministero della salute n. 18950 (è pmc - presidio medico chirurgico); gel: registrazione ministero della salute n. 19015 (è pmc - presidio medico chirurgico)
+- Attività battericida
+- Elevato grado di tollerabilità cutanea
+- Numero di pezzi: 1
+- Riduzione significativa della flora microbica cutanea
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M1GK8FG/?tag=tolees00-21)

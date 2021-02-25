@@ -28,9 +28,9 @@ average: '17.36'
 
 ℹ️:
 
-- Pril Gel All in One è in confezione risparmio multi pacco da 4 flaconi da 58 lavaggi per un totale di 232 lavaggi
 - Pril Gel All in One è efficace anche nei cicli brevi ed è già attivo a basse temperature (40 gradi) aiutandoti a rispettare lambiente
 - Prill All in one gel con profumazione Lime e Limone per donare alle tue stoviglie una ottimale profumazione al limone
+- Pril Gel All in One è in confezione risparmio multi pacco da 4 flaconi da 58 lavaggi per un totale di 232 lavaggi
 - Pril Gel All in one è il detersivo per lavastoviglie multi azione in gel con funzione detergente e brillantante per il lavaggio delle tue stoviglie, efficace grazie alla sua azione contro lo sporco difficile
 - Azione salva vetro: Pril gel All in one include una funzione protettiva per le stoviglie in vetro
 
