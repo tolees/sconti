@@ -28,10 +28,10 @@ average: '32.4893292682926'
 
 ℹ️:
 
-- La pulizia dei pezzi si può effettuare con acqua e senza luso di prodotti chimici
-- Include il quad, un personaggio, un tirannosauro, un velociraptor, pietre preistoriche e ossa
-- Adatto come regalo
 - Per il montaggio si raccomanda consultare il manuale distruzioni allinterno della confezione
+- Include il quad, un personaggio, un tirannosauro, un velociraptor, pietre preistoriche e ossa
 - Prodotto di ottima qualità
+- Adatto come regalo
+- La pulizia dei pezzi si può effettuare con acqua e senza luso di prodotti chimici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085FLRDYW/?tag=tolees00-21)

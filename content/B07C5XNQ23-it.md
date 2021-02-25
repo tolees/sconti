@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 63.35 % su WARNER BROS - Matrix  4K+Br   '
-date: 2021-02-21 00:22:44
-image: 'https://m.media-amazon.com/images/I/51MffoPtHBL._SL200_.jpg'
+date: 2021-02-25 00:15:00
+image: 'https://m.media-amazon.com/images/I/51MffoPtHBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 [WARNER BROS - Matrix  4K+Br ](https://www.amazon.it/dp/B07C5XNQ23/?tag=tolees00-21) ha un prezzo di 10.99 EUR (originale: 29.99 EUR) con uno sconto del 63.35 % sconto qui:
 
-[![WARNER BROS - Matrix  4K+Br ](https://m.media-amazon.com/images/I/51MffoPtHBL._SL200_.jpg)](https://www.amazon.it/dp/B07C5XNQ23/?tag=tolees00-21)
+[![WARNER BROS - Matrix  4K+Br ](https://m.media-amazon.com/images/I/51MffoPtHBL._SL400_.jpg)](https://www.amazon.it/dp/B07C5XNQ23/?tag=tolees00-21)
 
 ℹ️:
 

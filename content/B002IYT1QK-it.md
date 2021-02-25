@@ -28,10 +28,10 @@ average: '14.1141454545456'
 
 ℹ️:
 
+- Inchiostro a rapida asciugatura, adatto anche per i mancini
+- Adatto per tutti i modelli Pentel Energel ricaricabili
 - Non macchia il foglio
 - Scrittura ultrascorrevole e massima precisione nel tratto
 - Ricarica per roller Pentel Energel punta 0,7 mm
-- Adatto per tutti i modelli Pentel Energel ricaricabili
-- Inchiostro a rapida asciugatura, adatto anche per i mancini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002IYT1QK/?tag=tolees00-21)

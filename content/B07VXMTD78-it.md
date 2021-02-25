@@ -29,8 +29,8 @@ Puoi trovare [Bqeel Android 10.0 TV Box R2 PLUS 4GB +64GB CPU RK3318 64bit Dual 
 ℹ️:
 
 - 【Facile da installare e usare 】 Il dispositivo è totalmente facile da configurare. Collega il TV box android R1 PLUS alla TV tramite il cavo HDMI, attacca alla corrente e connette alla rete(via wifi o cavo di rete), sei già pronto all’uso!
-- 【Android 10.0 + Smartcast 】 L’android TV Box R2 PLUS ha lultimo sistema Android 10.0, più intuitivo e più veloce, è la scelta ideale per rendere smart la tua TV. Supporta Miracast/DLNA/Airplay, ti permette inoltre di vedere i contenuti multimediali inviati o da pc o da smartphone senza problemi.
 - 【4G RAM + 64G ROM】Il TV Box R1 PLUS ha sopratutto 4 gb di ram, che assicurano una ottima fluidità del sistema. Grazie ai vari ingressi Usb/Micro Sd(supporta USB frash driv/U HDD fino a 2TB e SD/TF Scheda fino a 128 G), puoi vedere direttamente nella nostra TV tutto ciò che abbiamo: film, video, immagini ecc…
+- 【Android 10.0 + Smartcast 】 L’android TV Box R2 PLUS ha lultimo sistema Android 10.0, più intuitivo e più veloce, è la scelta ideale per rendere smart la tua TV. Supporta Miracast/DLNA/Airplay, ti permette inoltre di vedere i contenuti multimediali inviati o da pc o da smartphone senza problemi.
 - 【Forte capacità di decodifica】 Il 64bit processore RK3318 Quad-Core Cortex-A53 altamente personalizzato assicura lo streaming video senza buffering; 4k2k H.265 Hardware Video Decode e loutput 4k2k non solo precedono immagini impressionanti realistiche, ma anche risparmiano risorse di larghezza di banda del 50% per eseguire più velocemente.
 - 【Ottima connettività】Supporta LAN (Ethernet: 100M, Wi-Fi (HS2734C 2.4G/5G, segnale forte) e bluetooth 4.0 sono disponibili su questo box TV android, garantiscendo una connessione internet stabile e fluida. Con anche gli utili porte USB, puoi collegare i dispsotivi esterni.
 

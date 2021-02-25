@@ -29,9 +29,9 @@ average: '181.913846153847'
 ℹ️:
 
 - Accessori: bicchiere frullatore, disco per patatine fritte, disco grattugia, affetta grosso, fine, gancio per impastare, disco per affettare spesso e fine, pestello, misuratore universale, minitritatutto, spremiagrumi
-- 1250 Watt per extra potenza
 - Ciotola XXL da 3.9 L per fino a 1.5 Kg di impasto e bicchiere frullatore in Tritan di alta qualità da 1.5 L
-- Multifunzione: fino a 50 funzioni diverse per miscelare, tritare, impastare, grattugiare, fare puree e molto altro ancora
 - Smart tool detection: il robot imposta automaticamente la velocità corretta per ogni accessorio
+- 1250 Watt per extra potenza
+- Multifunzione: fino a 50 funzioni diverse per miscelare, tritare, impastare, grattugiare, fare puree e molto altro ancora
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HPRQJL1/?tag=tolees00-21)

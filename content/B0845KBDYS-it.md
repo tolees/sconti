@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 33.37 % su Sony KD55X7055PBAEP  Smart Tv 55 Pollici  '
-date: 2021-02-23 23:30:08
+date: 2021-02-25 00:10:27
 image: 'https://m.media-amazon.com/images/I/416vNwLGFlL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B0845KBDYS/?tag=tolees00-21'
 descuento: '33.37'
-average: '639.826785714286'
+average: '638.418965517242'
 ---
 
 [Sony KD55X7055PBAEP  Smart Tv 55 Pollici  Tv 4K Hdr Led Ultra Hd  Nero  Modello 2020   compatibile con Alexa](https://www.amazon.it/dp/B0845KBDYS/?tag=tolees00-21) ha un prezzo di 599.0 EUR (originale: 899.0 EUR) con uno sconto del 33.37 % sconto qui:

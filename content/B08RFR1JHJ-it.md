@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 31.74 % su WARNER BROS - Greenland 4K Ultra HD + Bl  '
-date: 2021-02-23 18:00:39
-image: ''
+date: 2021-02-25 00:08:21
+image: 'https://m.media-amazon.com/images/I/51ZJmpITpnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,12 +24,12 @@ average: '16.99'
 
 [WARNER BROS - Greenland 4K Ultra HD + Blu-Ray  2 dischi](https://www.amazon.it/dp/B08RFR1JHJ/?tag=tolees00-21) ha un prezzo di 16.99 EUR (originale: 24.89 EUR) con uno sconto del 31.74 % sconto qui:
 
-[![WARNER BROS - Greenland 4K Ultra HD + Bl]()](https://www.amazon.it/dp/B08RFR1JHJ/?tag=tolees00-21)
+[![WARNER BROS - Greenland 4K Ultra HD + Bl](https://m.media-amazon.com/images/I/51ZJmpITpnL._SL400_.jpg)](https://www.amazon.it/dp/B08RFR1JHJ/?tag=tolees00-21)
 
 ℹ️:
 
+- Dopo Attacco al Potere 3, Gerard Butler e il regista Ric Roman Waugh collaborano nuovamente insieme in un disaster movie ad alto tasso di adrenalina
 - Greenland il film
 - Azione e thriller
-- Dopo Attacco al Potere 3, Gerard Butler e il regista Ric Roman Waugh collaborano nuovamente insieme in un disaster movie ad alto tasso di adrenalina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RFR1JHJ/?tag=tolees00-21)
