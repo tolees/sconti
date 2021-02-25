@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Dimensione pellicola: 108 (L) x 86 (H) mm
 - Le foto asciugano in pochi minuti
+- Pellicola instax wide, finitura Lucida
 - Tempo di sviluppo massimo di 5 m (tra 5 ° e 40 ° C)
 - Dimensione foto: 99 (L) x 62 (H) mm
-- Pellicola instax wide, finitura Lucida
+- Dimensione pellicola: 108 (L) x 86 (H) mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00005NPPQ/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '19.7175'
 
 ℹ️:
 
-- Formato Square ottimo nella fotografia artistica: dimensione dell’immagine quadrata 62 x 62 mm, dimensione della stampa 86 mm x 72 mm compreso bordo bianco
-- Pellicola a sviluppo istantaneo, guarda la foto scivolare fuori e limmagine svilupparsi davanti ai tuoi occhi
-- Utilizzabile con tutte le Fotocamere Fujifilm Instax Square e le Stampanti Fujifilm Instax SHARE Square SP-3
-- Sensibilità ISO 800: con una qualità della grana ottima, la pellicola Instax assicura una foto nitida, una riproduzione chiara, colori vivaci e tonalità di pelle naturali
 - La confezione contiene due cartucce da 10 fogli fotografici ciascuna e progettate per un facile caricamento
+- Pellicola a sviluppo istantaneo, guarda la foto scivolare fuori e limmagine svilupparsi davanti ai tuoi occhi
+- Sensibilità ISO 800: con una qualità della grana ottima, la pellicola Instax assicura una foto nitida, una riproduzione chiara, colori vivaci e tonalità di pelle naturali
+- Formato Square ottimo nella fotografia artistica: dimensione dell’immagine quadrata 62 x 62 mm, dimensione della stampa 86 mm x 72 mm compreso bordo bianco
+- Utilizzabile con tutte le Fotocamere Fujifilm Instax Square e le Stampanti Fujifilm Instax SHARE Square SP-3
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D2H5XKY/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Pigna Monocromo 02298874M  Quaderno Formato A4  Rigatura 4M  Quadr
 
 ℹ️:
 
-- Contiene: 10 pezzi
 - Fogliazione: 42 fogli
-- Rigatura: quadretti 4 mm, senza margine
+- Contiene: 10 pezzi
 - Carta interna: 80 gr/mq
+- Rigatura: quadretti 4 mm, senza margine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BR2CR6Y/?tag=tolees00-21)

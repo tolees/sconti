@@ -28,9 +28,9 @@ Puoi trovare [Compo Verdure 1143102004 Sana e Palm Terra  10L](https://www.amazo
 
 ℹ️:
 
-- Assorbimento ottimale dacqua grazie ai fiocchi respiratori di Perlite da roccia vulcanica
 - Apporto di nutrienti grazie al fertilizzante starter incluso
-- Per tutte le piante sempreverdi da interno e da balcone, nonché per palme e felci
+- Assorbimento ottimale dacqua grazie ai fiocchi respiratori di Perlite da roccia vulcanica
 - Crescita sana delle piante
+- Per tutte le piante sempreverdi da interno e da balcone, nonché per palme e felci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HPXVHCA/?tag=tolees00-21)

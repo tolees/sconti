@@ -28,7 +28,7 @@ average: '17.5'
 
 ℹ️:
 
-- T-shirt fidanzato in jersey di cotone pesante con grafica sul davanti
 - 100% cotone
+- T-shirt fidanzato in jersey di cotone pesante con grafica sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VSLX9MQ/?tag=tolees00-21)
