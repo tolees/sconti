@@ -30,8 +30,8 @@ Puoi trovare [Equilibra Multivitamine & Minerali 50+  30 compresse triplo strato
 
 - Compresse triplostrato con rilascio differenziato
 - 13 vitamine + 11 minerali; oltre 50 benefici per il benessere globale
-- Strato retard per il mantenimento di ossa normali grazie a calcio, fosforo e vitamina d; con vitamina a per la normale capacità visiva; con luteina
-- Strato fast utile per la normale funzione cognitiva grazie a ferro, iodio e zinco; ferro, rame, selenio e zinco contribuiscono inoltre alla normale funzione del sistema immunitario
 - Strato super fast – alto dosaggio di vitamine del gruppo b - formulato per contribuire al normale metabolismo energetico
+- Strato fast utile per la normale funzione cognitiva grazie a ferro, iodio e zinco; ferro, rame, selenio e zinco contribuiscono inoltre alla normale funzione del sistema immunitario
+- Strato retard per il mantenimento di ossa normali grazie a calcio, fosforo e vitamina d; con vitamina a per la normale capacità visiva; con luteina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088RKRR6Q/?tag=tolees00-21)

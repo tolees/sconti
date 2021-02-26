@@ -28,9 +28,9 @@ Puoi trovare [Nike Tanjun Mn  Scarpe Sportive Uomo  Nero  Black/White   38.5 EU]
 
 ℹ️:
 
-- Suola in gomma a trazione
 - Marca: Nike
 - Comodo da indossare
+- Suola in gomma a trazione
 - Soletta leggermente imbottita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XWPWJZE/?tag=tolees00-21)
