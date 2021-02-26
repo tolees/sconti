@@ -28,11 +28,11 @@ average: '16.1'
 
 ℹ️:
 
+- Gusto morbido e vellutato, questa è la nostra tostatura più leggera
 - I caffè STARBUCKS dalla tostatura leggera sono delicati e leggermente corposi
 - Questa speciale miscela di chicchi provenienti dallAmerica Latina è stata accuratamente tostata per sprigionare note dolci e vibranti
-- Gusto morbido e vellutato, questa è la nostra tostatura più leggera
 - STARBUCKS chicchi di caffè interi con note dolci e vellutate
-- Goditi STARBUCKS comodamente a casa tua. Il caffè che ami senza dover uscire di casa
 - STARBUCKS si impegna al 100% per un approvvigionamento etico di caffè, in collaborazione con Conservation International
+- Goditi STARBUCKS comodamente a casa tua. Il caffè che ami senza dover uscire di casa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X63LCXC/?tag=tolees00-21)
