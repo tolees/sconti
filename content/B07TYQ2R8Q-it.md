@@ -28,8 +28,8 @@ Puoi trovare [Superga 2750 Cotu Classic  Scarpe da Ginnastica Uomo  Blu Lt Sky  
 
 ℹ️:
 
-- Materiale esterno: Tela
 - Fodera: Tessuto
+- Materiale esterno: Tela
 - Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TYQ2R8Q/?tag=tolees00-21)

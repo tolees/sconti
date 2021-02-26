@@ -28,9 +28,9 @@ average: '15.27'
 
 ℹ️:
 
-- Manica corta
-- Vestibilità normale
 - Collo rotondo
+- Manica corta
 - Cotone jersey
+- Vestibilità normale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DCSJPQM/?tag=tolees00-21)

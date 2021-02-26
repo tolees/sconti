@@ -28,11 +28,11 @@ average: '21.76'
 
 ℹ️:
 
-- Descrizione Miscela: Caffè 100% Arabica composto da origini pregiate, lavati tramite processo naturale, provenienti dalle piantagioni di altura di Africa, Centro e Sud America; tostatura: Medio
-- Sostenibilità: le capsule sono realizzate in materiale vegetale proveniente dalla fermentazione di vegetali; certificato da OK compost
-- Metodo di decaffeinizzazione: La caffeina viene estratta dai chicchi di caffè in modo selettivo per mezzo dellanidride carbonica, in questo modo il profilo aromatico del caffè rimane inalterato
 - Composizione Miscela: 100% Caffè Arabica lavati e naturali; livello di tostatura: Medio
+- Descrizione Miscela: Caffè 100% Arabica composto da origini pregiate, lavati tramite processo naturale, provenienti dalle piantagioni di altura di Africa, Centro e Sud America; tostatura: Medio
 - Note Aromatiche: Blend avvolgente con un fresco bouquet di note caramellate e cioccolatose
+- Metodo di decaffeinizzazione: La caffeina viene estratta dai chicchi di caffè in modo selettivo per mezzo dellanidride carbonica, in questo modo il profilo aromatico del caffè rimane inalterato
 - Prodotto: Pellini Top Arabica 100% decaffeinato naturale. Le capsule sono 100% compostabili e autoprotette; si smaltiscono nellumido
+- Sostenibilità: le capsule sono realizzate in materiale vegetale proveniente dalla fermentazione di vegetali; certificato da OK compost
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01IBTZMBI/?tag=tolees00-21)

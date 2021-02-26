@@ -28,12 +28,12 @@ average: '9.34'
 
 ℹ️:
 
-- Contiene il 70% di alcool
-- Efficace nei confronti di batteri e virus compresi hiv, hbv, hcv, mycobacterium tuberculosis, candida albicans
+- Numero di pezzi: 1; unità di misura: grammo
+- Contiene “betaine”, che in modo più efficiente della glicerina: umidifica, protegge contro la meccanica e chimica irritazione e mantiene la pelle perfettamente soffice e morbida
 - Formato 70 ml da usare "on the go" e formato 500 ml da usare come ricarica (non è presente erogatore)
 - Registrazione ministero della salute n. 19015 (è pmc - presidio medico chirurgico)
-- Numero di pezzi: 1; unità di misura: grammo
+- Efficace nei confronti di batteri e virus compresi hiv, hbv, hcv, mycobacterium tuberculosis, candida albicans
+- Contiene il 70% di alcool
 - Gel disinfettante pratico in tutte le occasioni in cui non è possibile lavarsi le mani con acqua
-- Contiene “betaine”, che in modo più efficiente della glicerina: umidifica, protegge contro la meccanica e chimica irritazione e mantiene la pelle perfettamente soffice e morbida
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M1GJLWY/?tag=tolees00-21)

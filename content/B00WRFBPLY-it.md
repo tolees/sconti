@@ -29,8 +29,8 @@ Puoi trovare [BTicino 317013 Kit Videocitofono 2 Fili Monofamiliare  predisposto
 ℹ️:
 
 - Può diventare compatibile con villetta bifamiliare in quanto espandibile con fino a 2 postazioni interne aggiuntive, con funzione interfono audio
+- Kit videocitofonico ideale per villetta monofamiliare, composto da posto esterno e display interno a specchio da 7" a colori
 - Compatibile con telecamera IP da esterno per videosorveglianza (cod. 391438)
 - Il display aggiuntivo per bifamiliare può essere di 4,3" (cod. 332253) oppure di 7" (cod. 332353)
-- Kit videocitofonico ideale per villetta monofamiliare, composto da posto esterno e display interno a specchio da 7" a colori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00WRFBPLY/?tag=tolees00-21)

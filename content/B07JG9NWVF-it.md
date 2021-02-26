@@ -28,10 +28,10 @@ average: '151.2'
 
 ℹ️:
 
+- Altezza Memory Foam 2 cm - un materiale innovativo completamente ecologico, anallergico ed antiacaro. Elevato livello di traspirabilità, termoregolatore (tiepido dinverno e fresco destate), si automodella grazie al calore corporeo e segue in maniera ergonomica ogni curva del corpo, 100% made in Italy.
+- Marchiato CE - Certificato Presidio Medico Classe I dal Ministero della salute con detrazione fiscale del 19%
 - Materasso in Memory Foam a 11 Zone Differenziate - Altezza 22 cm
 - Garanzia 20 anni - Le materie prime impiegate per la realizzazione dei nostri materassi sono interamente fabbricate in Italia da aziende italiane altamente specializzate.
 - Rivestimento 100% anallergico in tessuto tecnico altamente traspirante
-- Altezza Memory Foam 2 cm - un materiale innovativo completamente ecologico, anallergico ed antiacaro. Elevato livello di traspirabilità, termoregolatore (tiepido dinverno e fresco destate), si automodella grazie al calore corporeo e segue in maniera ergonomica ogni curva del corpo, 100% made in Italy.
-- Marchiato CE - Certificato Presidio Medico Classe I dal Ministero della salute con detrazione fiscale del 19%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JG9NWVF/?tag=tolees00-21)
