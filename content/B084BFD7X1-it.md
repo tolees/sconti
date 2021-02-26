@@ -28,8 +28,8 @@ average: '29.0'
 
 ℹ️:
 
-- Fit regular con collo a giro e maniche lunghe
 - La texture in jersey di puro cotone è piacevole e leggera a contatto con la pelle
+- Fit regular con collo a giro e maniche lunghe
 - Il maxi logo North Sails è la firma distintiva del look
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084BFD7X1/?tag=tolees00-21)

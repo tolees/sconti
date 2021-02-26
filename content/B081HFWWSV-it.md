@@ -29,9 +29,9 @@ average: '22.09'
 ℹ️:
 
 - Dual band 2.4ghz a 300mbps e 5ghz a 433mbps per un segnale più stabile
-- Amplifica la connessione Wi-Fi in zone difficili da raggiungere
 - Per connettere il tuo range extender al network Wi-Fi in pochi secondi, premi il pulsante wps del tuo router e il tasto re di re190, la configurazione può essere completata anche dalla pagina di gestione web
-- Smart LED - ti aiuta a trovare la posizione migliore per una copertura ottimale
 - Senza porta: se si desidera la porta ethernet, si consiglia il modello re200
+- Amplifica la connessione Wi-Fi in zone difficili da raggiungere
+- Smart LED - ti aiuta a trovare la posizione migliore per una copertura ottimale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081HFWWSV/?tag=tolees00-21)
