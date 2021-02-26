@@ -28,8 +28,8 @@ Puoi trovare [NORTH SAILS T-Shirt in Jersey di Cotone in S](https://www.amazon.i
 
 ℹ️:
 
-- Il maxi logo North Sails è la firma distintiva del look
 - Fit regular con collo a giro e maniche lunghe
+- Il maxi logo North Sails è la firma distintiva del look
 - La texture in jersey di puro cotone è piacevole e leggera a contatto con la pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084BFBXJP/?tag=tolees00-21)

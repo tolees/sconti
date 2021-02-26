@@ -28,8 +28,8 @@ Puoi trovare [NORTH SAILS T-Shirt in Jersey di Cotone in M](https://www.amazon.i
 
 ℹ️:
 
-- Fit regular con collo a giro e maniche lunghe
-- La texture in jersey di puro cotone è piacevole e leggera a contatto con la pelle
 - Il maxi logo North Sails è la firma distintiva del look
+- La texture in jersey di puro cotone è piacevole e leggera a contatto con la pelle
+- Fit regular con collo a giro e maniche lunghe
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084BFS2VT/?tag=tolees00-21)

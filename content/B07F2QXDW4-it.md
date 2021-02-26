@@ -28,8 +28,8 @@ Puoi trovare [Vans Left Chest Logo Tee T-Shirt Uomo  Nero  Black White Grey Mela
 
 ℹ️:
 
-- T-shirt 185 g ringspun
 - Vestibilità aderente
+- T-shirt 185 g ringspun
 - 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2QXDW4/?tag=tolees00-21)

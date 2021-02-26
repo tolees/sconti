@@ -28,8 +28,8 @@ average: '2.05'
 
 ℹ️:
 
+- Di marca carefree
 - Plasters and bandages-gauzes
 - Prodotti di bellezza
-- Di marca carefree
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XAEXV1I/?tag=tolees00-21)
