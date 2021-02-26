@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 24.00 % su PANDORA Bead Charm Donna argento - 79785  '
-date: 2021-02-24 23:44:54
+date: 2021-02-26 03:18:09
 image: 'https://m.media-amazon.com/images/I/51EM9D2zoHL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ average: '19.0'
 
 ℹ️:
 
-- Charms.
-- Charm
-- Argento sterling.
-- Nessun altro materiale.
-- Moments (Charm Concept).
+- Moments (charm concept)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NF2N25S/?tag=tolees00-21)

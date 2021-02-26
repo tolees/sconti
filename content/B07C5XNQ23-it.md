@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 63.35 % su WARNER BROS - Matrix  4K+Br   '
-date: 2021-02-25 00:15:00
+date: 2021-02-26 03:21:00
 image: 'https://m.media-amazon.com/images/I/51MffoPtHBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,8 @@ average: '10.99'
 
 ℹ️:
 
-- Attributi: Blu-Ray, Fantascienza
+- Warner Bros
+- Warner Bros
+- Warner Bros
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C5XNQ23/?tag=tolees00-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 61.92 % su Thq Nordic - Drone Championship League -  '
-date: 2021-02-20 23:39:28
-image: 'https://m.media-amazon.com/images/I/51lcAGWvJwL._SL200_.jpg'
+date: 2021-02-26 03:24:23
+image: 'https://m.media-amazon.com/images/I/51lcAGWvJwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,16 +19,16 @@ flag: '🇮🇹'
 brand: 'Thq Nordic'
 buyurl: 'https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21'
 descuento: '61.92'
-average: '27.6187999999999'
+average: '27.3758823529411'
 ---
 
 [Thq Nordic - Drone Championship League - The Game - PlayStation 4](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21) ha un prezzo di 15.23 EUR (originale: 39.99 EUR) con uno sconto del 61.92 % sconto qui:
 
-[![Thq Nordic - Drone Championship League -](https://m.media-amazon.com/images/I/51lcAGWvJwL._SL200_.jpg)](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21)
+[![Thq Nordic - Drone Championship League -](https://m.media-amazon.com/images/I/51lcAGWvJwL._SL400_.jpg)](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21)
 
 ℹ️:
 
-- Dcl the game è stato creato studiando il comportamento di volo dei droni nella realtà
 - Quattro modalità di volo distinte
+- Dcl the game è stato creato studiando il comportamento di volo dei droni nella realtà
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21)
