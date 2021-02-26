@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
+- Batteria al litio ricaribabile con cavo USB incluso in dotazione. Indicatori LED per livello batteria, ricarica e segnale
+- Design ergonomico. Ricevitore USB Wireless RF 2.4 GHz riponibile a scomparsa in uno scompartimento della tastiera
 - Retroilluminazione a LED. Tasti multimediali e tasti speciali per le applicazioni. Tasti in gomma antiscivolo
 - Mini tastiera wireless retroilluminata con layout ITALIANO. LUNICA E ORIGINALE, DIFFIDATE DALLE IMITAZIONI CINESI
 - Mouse touchpad multi-touch con sensibilità regolabile e funzione scorrimento pagina
-- Batteria al litio ricaribabile con cavo USB incluso in dotazione. Indicatori LED per livello batteria, ricarica e segnale
-- Design ergonomico. Ricevitore USB Wireless RF 2.4 GHz riponibile a scomparsa in uno scompartimento della tastiera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00SKI1FJY/?tag=tolees00-21)

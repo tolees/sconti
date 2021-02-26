@@ -28,9 +28,9 @@ Puoi trovare [LE Lampadina LED RGBW E27 WiFi Alexa 9W  Lampadina Intelligente 16
 
 ℹ️:
 
-- 【Facile da Usare】: Nessun hub necessario, questa lampadina smart alexa A60 è facile da installare nella presa E27 esistente, basta accenderla, scaricare lapp gratuita e sei pronto per partire. Con la funzione timer nellAPP, la lampadina viene impostata ad accendersi o spegnersi automaticamente in stanze diverse in un momento prestabilito.
 - 【Lampadina Intelligente Controllo da APP】: Controlla le tue lampadine intelligenti con facilità ovunque e in qualsiasi momento, tramite lapp "Lepro LampUX" o "Smart Life" sul tuo smartphone o tablet.
 - 【Ampie Applicazioni】: Ideale per illuminazione domestica all’interno, hotel, ristorante, bar, caffetteria, decorazione di feste o compleanno. Compatibile con qualsiasi WiFi da 2.4 GHz, senza hub e senza costi mensili. (non compatibile con WiFi 5GHz)
+- 【Facile da Usare】: Nessun hub necessario, questa lampadina smart alexa A60 è facile da installare nella presa E27 esistente, basta accenderla, scaricare lapp gratuita e sei pronto per partire. Con la funzione timer nellAPP, la lampadina viene impostata ad accendersi o spegnersi automaticamente in stanze diverse in un momento prestabilito.
 - 【Controllo da Voce】: Funziona con Google Home e Alexa (incluso Echo, Echo Dot), ti consente di controllare le lampadine wifi a mani libere con un solo comando vocale.
 - 【Luce Dimmerabile RGB + Bianca】: Scegli tra 16 milioni di colori per adattarsi al tuo umore o crea latmosfera desiderata con luce bianca calda a fredda 2700-6500 kelvin, la luminosità è fino a 806lm (equivalente a incandescenza da 60 watt) e completamente dimmerabile, molto energia-efficiente.
 

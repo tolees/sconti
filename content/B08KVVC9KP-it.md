@@ -28,10 +28,10 @@ average: '38.1033333333333'
 
 ℹ️:
 
-- Iconic, retro design
-- Accessible boot
 - Includes 3 figures
-- Introducing the classic VW Beetle in PLAYMOBIL style!
 - Removable roof and roof rack
+- Iconic, retro design
+- Introducing the classic VW Beetle in PLAYMOBIL style!
+- Accessible boot
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KVVC9KP/?tag=tolees00-21)

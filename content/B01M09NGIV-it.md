@@ -28,9 +28,9 @@ average: '25.0294736842106'
 
 ℹ️:
 
+- Simplify the design with 180 ° rotatable earphones: Elegant design allows comfortable use. 180 ° adjustable earbud fits perfectly for your right or left ear
 - Connect two devices simultaneously: Allow two Bluetooth smartphones to connect at the same time
 - Advanced CSR Chip: The premium CSR chip brings amazing stereo sound quality. Ensure stable signal transmission for conversation without problems and enjoyable music. It also supports mute function
-- Simplify the design with 180 ° rotatable earphones: Elegant design allows comfortable use. 180 ° adjustable earbud fits perfectly for your right or left ear
 - Bluetooth 4.1 technology: Quick and easy pairing with smartphones, tablets and other Bluetooth-enabled devices. Enjoy audio quality with greater clarity
 - Long battery life: Up to 6 hours of continuous play and 5.5 hours of music playing time keep connected socially and musically. Powerful of lithium ensures up to 280 hours long standby time
 

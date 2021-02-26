@@ -29,10 +29,10 @@ Puoi trovare [Sony Wi-C200 - Cuffie Wireless In-Ear  Compatibile con Google Assi
 ℹ️:
 
 - Cuffie Wireless Auricolari Neckband Sony, colore Nero
-- 15 ore di riproduzione musicale wireless
-- Quick Charge: 10 minuti di ricarica rapida per 1 ora di utilizzo
 - Cavo USB type-C per la ricarica, per ricarica incluso
 - Driver da 9mm per qualità audio senza compromessi
 - Controllo direttamente dalla cuffia e microfono integrato per chiamate telefoniche
+- Quick Charge: 10 minuti di ricarica rapida per 1 ora di utilizzo
+- 15 ore di riproduzione musicale wireless
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QYWD718/?tag=tolees00-21)
