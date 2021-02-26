@@ -28,10 +28,10 @@ Puoi trovare [Aigostar Kenny - Friggitrice ad Olio in Acciaio Inox 3 Litri con T
 
 ℹ️:
 
-- DESIGN COMODO - Il coperchio della friggitrice è progettato con un sistema a doppio filtro integrato per aiutare a ridurre gli odori e gli schizzi dolio. La finestra di visualizzazione è comoda per controllare il cibo ed evitare una cottura eccessiva.
 - FACILE DA PULIRE - Il contenitore è facilmente rimovibile per una pulizia anche in lavastoviglie, evitando le parti elettriche.
-- Per ulteriori info e domande, non esitate a contattarci via messaggistica Amazon. Si prega di consultare attentamente il manuale dellutente prima delluso.
+- DESIGN COMODO - Il coperchio della friggitrice è progettato con un sistema a doppio filtro integrato per aiutare a ridurre gli odori e gli schizzi dolio. La finestra di visualizzazione è comoda per controllare il cibo ed evitare una cottura eccessiva.
 - GRANDE FRIGGITRICE PER CAPACITÀ - Con 3L di capacità per 2-4 persone. Il livello massimo e minimo dellolio sono indicati sul lato interno del serbatoio. Perfetto per friggere patatine, pesce, pollo, patatine fritte ecc
 - TIMER E TEMPERATURA REGOLABILI - Il timer può essere impostato da 0 a 60 minuti, con spegnimento automatico e segnale acustico, fornendo una frittura facile e precisa.
+- Per ulteriori info e domande, non esitate a contattarci via messaggistica Amazon. Si prega di consultare attentamente il manuale dellutente prima delluso.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z4GZGHD/?tag=tolees00-21)
