@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 33.24 % su Lysoform Medical Gel Disinfettante Mani   '
-date: 2021-02-22 14:42:11
+date: 2021-02-26 13:43:30
 image: 'https://m.media-amazon.com/images/I/414TxMUeScL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,11 +29,11 @@ average: '9.34'
 ℹ️:
 
 - Contiene il 70% di alcool
-- Gel disinfettante pratico in tutte le occasioni in cui non è possibile lavarsi le mani con acqua
-- Contiene “betaine”, che in modo più efficiente della glicerina: umidifica, protegge contro la meccanica e chimica irritazione e mantiene la pelle perfettamente soffice e morbida
+- Efficace nei confronti di batteri e virus compresi hiv, hbv, hcv, mycobacterium tuberculosis, candida albicans
+- Formato 70 ml da usare "on the go" e formato 500 ml da usare come ricarica (non è presente erogatore)
 - Registrazione ministero della salute n. 19015 (è pmc - presidio medico chirurgico)
 - Numero di pezzi: 1; unità di misura: grammo
-- Formato 70 ml da usare "on the go" e formato 500 ml da usare come ricarica (non è presente erogatore)
-- Efficace nei confronti di batteri e virus compresi hiv, hbv, hcv, mycobacterium tuberculosis, candida albicans
+- Gel disinfettante pratico in tutte le occasioni in cui non è possibile lavarsi le mani con acqua
+- Contiene “betaine”, che in modo più efficiente della glicerina: umidifica, protegge contro la meccanica e chimica irritazione e mantiene la pelle perfettamente soffice e morbida
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M1GJLWY/?tag=tolees00-21)
