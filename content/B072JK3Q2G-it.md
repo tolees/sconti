@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Saucony Shadow Original donna  pelle sca al 18.40 % di sconto'
-date: 2021-02-23 17:47:25
+date: 2021-02-26 22:12:02
 image: 'https://m.media-amazon.com/images/I/31kHmR38NBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Saucony'
 buyurl: 'https://www.amazon.it/dp/B072JK3Q2G/?tag=tolees00-21'
 descuento: '18.40'
-average: '89.9940740740742'
+average: '90.4228571428573'
 ---
 
 Puoi trovare [Saucony Shadow Original donna  pelle scamosciata  sneaker bassa  38 EU](https://www.amazon.it/dp/B072JK3Q2G/?tag=tolees00-21) con il prezzo 102.0 EUR (originale: 125.0 EUR) 18.40 % sconto qui:

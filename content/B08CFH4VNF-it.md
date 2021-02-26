@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WARNER BROS - Il Trono di Spade 1-8 - Li al 26.36 % di sconto'
-date: 2021-02-25 00:06:31
+date: 2021-02-26 22:03:51
 image: 'https://m.media-amazon.com/images/I/41lhtyKTA1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [WARNER BROS - Il Trono di Spade 1-8 - Limited Deluxe Steelbook Edi
 
 ℹ️:
 
-- Serie di successo
 - Trono di spade
+- Serie di successo
 - Game of thrones
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CFH4VNF/?tag=tolees00-21)
