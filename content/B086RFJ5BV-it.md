@@ -29,9 +29,9 @@ average: '29.8525'
 ℹ️:
 
 - Si abbina ottimamente a una grande varietà di piatti, specialmente carni rosse, formaggi freschi e morbidi e anche alcuni dolci
+- Ha un retrogusto forte e sorprendente, con un accenno di arancia amara
 - Confezione da 24 bottiglie da 33 cl di Leffe Blonde, birra dabbazia Belga 6.6% alcool
 - Servire ad una temperatura tra 6-8°C preferibilmente nel tradizionale calice Leffe
 - Leffe Blonde è unautentica birra bionda d´abbazia con una leggera punta di amaro e un aroma pieno, gradevole e fruttato
-- Ha un retrogusto forte e sorprendente, con un accenno di arancia amara
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086RFJ5BV/?tag=tolees00-21)
