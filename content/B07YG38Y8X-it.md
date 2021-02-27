@@ -29,9 +29,9 @@ Puoi trovare [Bosch Elettrodomestico - Bosch Elettrodomestici WTH83007II Asciuga
 ℹ️:
 
 - Cestello Sensitive: grazie alla sua speciale forma è in grado di asciugare i capi mantenendoli morbidi e curati.
-- Capacità di Carico: 7 kg
 - Sensitive Drying System Asciugatura leggera sui tessuti grazie al Sensitive Drying System. Con il Sensitive Drying System, il bucato viene asciugato da aria calda e leggera proveniente da tutte le direzioni e miscelata delicatamente dai vettori di curvatura Soft, anziché restare piatta sulla struttura a tamburo delicata sui tessuti. Il risultato è un bucato morbido senza pieghe.
 - AutoDry Basta premere un tasto per avere lasciugatura desiderata. Noi di Bosch sappiamo che garantire risultati di asciugatura delicati ma perfetti può essere difficile. Le asciugatrici e le lavasciuga con il sistema AutoDry di Bosch ci riescono perfettamente. I sensori presenti misurano costantemente il livello di temperatura e di umidità e proteggono il bucato dalle temperature troppo elevate e da tempi di asciugatura eccessiva che stressano i tessuti e aumentano i consumi. Per ottenere unasciugatura delicata e perfetta, sia per riporre i capi direttamente nellarmadio che per poterli stirare con estrema facilità. Basta premere il tasto apposito e lasciare che AutoDry faccio il resto.
 - Classe Energetica: A+
+- Capacità di Carico: 7 kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YG38Y8X/?tag=tolees00-21)
