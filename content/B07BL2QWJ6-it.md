@@ -28,8 +28,8 @@ Puoi trovare [New Balance 997H Core  Scarpe da Ginnastica Uomo  Nero  Black   43
 
 ℹ️:
 
+- Brand New and Genuine. We are an authorised seller of New Balance.
 - See product description below for more information.
 - New Balance Black 977 Suede Trainers
-- Brand New and Genuine. We are an authorised seller of New Balance.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BL2QWJ6/?tag=tolees00-21)

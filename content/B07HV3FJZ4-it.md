@@ -28,10 +28,10 @@ Puoi trovare [Perugina Nero Tavoletta di Cioccolato Fondente con 95% di Cacao ;8
 
 ℹ️:
 
-- Gusto forte e deciso
 - Senza glutine
-- Tavoletta di cioccolato fondente extra con 95% di cacao
 - Confezione da 85 g
+- Gusto forte e deciso
+- Tavoletta di cioccolato fondente extra con 95% di cacao
 - Ottimo per la degustazione e per abbinamenti con cibi e bevande
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HV3FJZ4/?tag=tolees00-21)
