@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 19.85 % su Sylvanian Families - 5272 - Famiglia Can  '
-date: 2021-02-26 03:14:58
+date: 2021-02-27 05:09:03
 image: 'https://m.media-amazon.com/images/I/51E4Ipr9ehL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.it/dp/B06XNZFS9R/?tag=tolees00-21'
 descuento: '19.85'
-average: '22.4840522875817'
+average: '22.4523870967742'
 ---
 
 [Sylvanian Families - 5272 - Famiglia Canguro](https://www.amazon.it/dp/B06XNZFS9R/?tag=tolees00-21) ha un prezzo di 20.03 EUR (originale: 24.99 EUR) con uno sconto del 19.85 % sconto qui:

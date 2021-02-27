@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.01 % su Rii Mini i8+ Wireless  layout ITALIANO    '
-date: 2021-02-26 03:28:59
+date: 2021-02-27 04:36:28
 image: 'https://m.media-amazon.com/images/I/51TmT2bX6ML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- Batteria al litio ricaribabile con cavo USB incluso in dotazione. Indicatori LED per livello batteria, ricarica e segnale
-- Design ergonomico. Ricevitore USB Wireless RF 2.4 GHz riponibile a scomparsa in uno scompartimento della tastiera
-- Retroilluminazione a LED. Tasti multimediali e tasti speciali per le applicazioni. Tasti in gomma antiscivolo
 - Mini tastiera wireless retroilluminata con layout ITALIANO. LUNICA E ORIGINALE, DIFFIDATE DALLE IMITAZIONI CINESI
+- Design ergonomico. Ricevitore USB Wireless RF 2.4 GHz riponibile a scomparsa in uno scompartimento della tastiera
+- Batteria al litio ricaribabile con cavo USB incluso in dotazione. Indicatori LED per livello batteria, ricarica e segnale
+- Retroilluminazione a LED. Tasti multimediali e tasti speciali per le applicazioni. Tasti in gomma antiscivolo
 - Mouse touchpad multi-touch con sensibilità regolabile e funzione scorrimento pagina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00SKI1FJY/?tag=tolees00-21)

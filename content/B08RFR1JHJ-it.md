@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 31.74 % su WARNER BROS - Greenland 4K Ultra HD + Bl  '
-date: 2021-02-25 00:08:21
+date: 2021-02-27 04:49:44
 image: 'https://m.media-amazon.com/images/I/51ZJmpITpnL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '16.99'
 
 ℹ️:
 
-- Dopo Attacco al Potere 3, Gerard Butler e il regista Ric Roman Waugh collaborano nuovamente insieme in un disaster movie ad alto tasso di adrenalina
 - Greenland il film
+- Dopo Attacco al Potere 3, Gerard Butler e il regista Ric Roman Waugh collaborano nuovamente insieme in un disaster movie ad alto tasso di adrenalina
 - Azione e thriller
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RFR1JHJ/?tag=tolees00-21)

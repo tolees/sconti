@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LE Lampadina LED RGBW E27 WiFi Alexa 9W  al 15.02 % di sconto'
-date: 2021-02-26 03:38:56
+date: 2021-02-27 04:42:36
 image: 'https://m.media-amazon.com/images/I/418DlIcZbkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [LE Lampadina LED RGBW E27 WiFi Alexa 9W  Lampadina Intelligente 16
 
 ℹ️:
 
-- 【Lampadina Intelligente Controllo da APP】: Controlla le tue lampadine intelligenti con facilità ovunque e in qualsiasi momento, tramite lapp "Lepro LampUX" o "Smart Life" sul tuo smartphone o tablet.
-- 【Ampie Applicazioni】: Ideale per illuminazione domestica all’interno, hotel, ristorante, bar, caffetteria, decorazione di feste o compleanno. Compatibile con qualsiasi WiFi da 2.4 GHz, senza hub e senza costi mensili. (non compatibile con WiFi 5GHz)
-- 【Facile da Usare】: Nessun hub necessario, questa lampadina smart alexa A60 è facile da installare nella presa E27 esistente, basta accenderla, scaricare lapp gratuita e sei pronto per partire. Con la funzione timer nellAPP, la lampadina viene impostata ad accendersi o spegnersi automaticamente in stanze diverse in un momento prestabilito.
-- 【Controllo da Voce】: Funziona con Google Home e Alexa (incluso Echo, Echo Dot), ti consente di controllare le lampadine wifi a mani libere con un solo comando vocale.
-- 【Luce Dimmerabile RGB + Bianca】: Scegli tra 16 milioni di colori per adattarsi al tuo umore o crea latmosfera desiderata con luce bianca calda a fredda 2700-6500 kelvin, la luminosità è fino a 806lm (equivalente a incandescenza da 60 watt) e completamente dimmerabile, molto energia-efficiente.
+- 【Easy to Setup】- No hub or gateway required, just connect these E27 LED bulbs to 2.4GHz WiFi router via app, and then youre ready to go.
+- 【Set Timers & Schedules】- Schedule your bulbs to turn on or off automatically at pre-set time (e.g. lights on when you came home every evening.)
+- 【APP Remote Control Smart Bulb】- Control your bulbs with ease anywhere any time, through the "Lepro LampUX" or "Smart Life" app on your smart phone or tablet.
+- 【Dimmable RGB + White Light】- Choose from 16 million colours to fit your mood, or create desired ambiance with 2700-6500 kelvin warm to cool white light, the brightness is up to 806lm (60W Incandescent equivalent), brightness adjustable.
+- 【Simple Voice Control】- Works with Alexa (including Echo, Echo Dot) and Google Home, allows you to control lights hands-free with a single voice command.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L3S2XLB/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 32.27 % su Buena Vista - Star Wars L Ascesa Di Skyw  '
-date: 2021-02-26 03:48:24
+date: 2021-02-27 04:26:41
 image: 'https://m.media-amazon.com/images/I/51JrYRlyuAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Buena Vista'
 buyurl: 'https://www.amazon.it/dp/B082WN19ZR/?tag=tolees00-21'
 descuento: '32.27'
-average: '14.0795180722893'
+average: '14.0030588235296'
 ---
 
 [Buena Vista - Star Wars L Ascesa Di Skywalker Bluray  2 Blu Ray ](https://www.amazon.it/dp/B082WN19ZR/?tag=tolees00-21) ha un prezzo di 10.83 EUR (originale: 15.99 EUR) con uno sconto del 32.27 % sconto qui:
