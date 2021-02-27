@@ -30,7 +30,7 @@ average: '11.87'
 
 - Funko pop è il giocattolo dellanno 2018
 - Uniconica statuina funko pop vinyl della serie greys anatomy
-- Derek shepherd e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Scopri tutte le altre statuine greys anatomy di funko e collezionale tutte
+- Derek shepherd e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085PGXCDZ/?tag=tolees00-21)
