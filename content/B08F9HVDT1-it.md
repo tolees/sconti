@@ -28,15 +28,15 @@ average: '1099.0'
 
 ℹ️:
 
-- Wi-Fi 802.11ac e Bluetooth 4.2
-- Quattro porte USB-A
-- Processore IntelCore i5 dual-core dis ettima generazione
-- Archiviazione SSD ultraveloce
-- Porta Gigabit Ethernet
 - Due porte Thunderbolt 3 (USB‐C)
-- Intel Iris Plus Graphics 640
+- Quattro porte USB-A
+- Archiviazione SSD ultraveloce
+- Wi-Fi 802.11ac e Bluetooth 4.2
 - Videocamera FaceTime HD
+- Intel Iris Plus Graphics 640
+- Processore IntelCore i5 dual-core dis ettima generazione
 - iMac, Magic Keyboard, Magic Mouse 2, Cavo di alimentazione, Cavo da Lightning a USB, Panno per la pulizia
 - Schermo da 21,5"(diagonale) con risoluzione 1920 × 1080
+- Porta Gigabit Ethernet
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F9HVDT1/?tag=tolees00-21)
