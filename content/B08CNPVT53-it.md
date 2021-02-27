@@ -29,7 +29,7 @@ average: '22.99'
 ℹ️:
 
 - Formato Steelbook
-- Esclusivo film in 4k
 - Un superoe da non perder
+- Esclusivo film in 4k
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CNPVT53/?tag=tolees00-21)

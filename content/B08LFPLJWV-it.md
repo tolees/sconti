@@ -29,7 +29,7 @@ Puoi trovare [Square Enix - Hitman 3  Free Upgrade Xbox Series X  - Xbox One](ht
 ℹ️:
 
 - I bersagli esclusivi sono la sfida definitiva di Hitman, progettati per offrire unesperienza emozionante e al cardiopalma
-- La modalità campagna ti porterà in unavventura in giro per il mondo in vaste località sandbox
 - Una volta completato il contratto da solo, Sfida gli amici a competere per il miglior punteggio nelle classifiche
+- La modalità campagna ti porterà in unavventura in giro per il mondo in vaste località sandbox
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LFPLJWV/?tag=tolees00-21)

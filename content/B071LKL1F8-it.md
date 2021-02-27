@@ -28,7 +28,7 @@ Puoi trovare [Only Onlsedona Light Coat Otw Noos  Giubbotto Donna  Grigio  42  T
 
 ℹ️:
 
-- Cappotto lungo per mezza stagione.
 - Cappotto di lana con cappuccio.
+- Cappotto lungo per mezza stagione.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071LKL1F8/?tag=tolees00-21)

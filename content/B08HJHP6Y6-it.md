@@ -29,8 +29,8 @@ Puoi trovare [Xiaomi - Mi 10T - Smartphone 6+128GB  display 6 67” Full HD+  Sn
 ℹ️:
 
 - Display: 6.67 ", 1080 x 2400 pixels
+- Camera: Triple, 64MP + 13MP + 5MP
 - Battery: 5000 mAh
 - Processor: Snapdragon 865 2.84GHz
-- Camera: Triple, 64MP + 13MP + 5MP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HJHP6Y6/?tag=tolees00-21)

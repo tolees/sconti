@@ -28,10 +28,10 @@ average: '19.0'
 
 ℹ️:
 
-- Charms.
+- Moments (Charm Concept).
 - Nessun altro materiale.
 - Charm
 - Argento sterling.
-- Moments (Charm Concept).
+- Charms.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NF2N25S/?tag=tolees00-21)

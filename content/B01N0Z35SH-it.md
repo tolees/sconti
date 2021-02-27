@@ -28,10 +28,10 @@ average: '73.382'
 
 ℹ️:
 
-- Risposta di frequenza da 10 Hz a 22.000 Hz
 - Sistema di cancellazione del rumore per un suono più chiaro, il driver da 40 mm offre unampia gamma di frequenze
-- Inclusi nella consegna: cuffie stereo cordless, unità trasmettitore stereo RF, alimentatore, mini-cavo stereo 1,5 m, batteria ibrida metallo nichel
 - Tempo di ricarica: ca. 7 ore (carica completa) per un massimo di 20 ore di durata della batteria
+- Inclusi nella consegna: cuffie stereo cordless, unità trasmettitore stereo RF, alimentatore, mini-cavo stereo 1,5 m, batteria ibrida metallo nichel
+- Risposta di frequenza da 10 Hz a 22.000 Hz
 - Ricerca automatica della frequenza per una trasmissione di alta qualità
 - Cuffie wireless per la casa con una gamma di 100 metri
 

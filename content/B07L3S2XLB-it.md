@@ -29,9 +29,9 @@ Puoi trovare [LE Lampadina LED RGBW E27 WiFi Alexa 9W  Lampadina Intelligente 16
 ℹ️:
 
 - 【Easy to Setup】- No hub or gateway required, just connect these E27 LED bulbs to 2.4GHz WiFi router via app, and then youre ready to go.
-- 【Set Timers & Schedules】- Schedule your bulbs to turn on or off automatically at pre-set time (e.g. lights on when you came home every evening.)
-- 【APP Remote Control Smart Bulb】- Control your bulbs with ease anywhere any time, through the "Lepro LampUX" or "Smart Life" app on your smart phone or tablet.
-- 【Dimmable RGB + White Light】- Choose from 16 million colours to fit your mood, or create desired ambiance with 2700-6500 kelvin warm to cool white light, the brightness is up to 806lm (60W Incandescent equivalent), brightness adjustable.
 - 【Simple Voice Control】- Works with Alexa (including Echo, Echo Dot) and Google Home, allows you to control lights hands-free with a single voice command.
+- 【Dimmable RGB + White Light】- Choose from 16 million colours to fit your mood, or create desired ambiance with 2700-6500 kelvin warm to cool white light, the brightness is up to 806lm (60W Incandescent equivalent), brightness adjustable.
+- 【APP Remote Control Smart Bulb】- Control your bulbs with ease anywhere any time, through the "Lepro LampUX" or "Smart Life" app on your smart phone or tablet.
+- 【Set Timers & Schedules】- Schedule your bulbs to turn on or off automatically at pre-set time (e.g. lights on when you came home every evening.)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L3S2XLB/?tag=tolees00-21)
