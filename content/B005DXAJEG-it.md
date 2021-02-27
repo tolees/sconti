@@ -28,8 +28,8 @@ average: '62.39'
 
 ℹ️:
 
+- Shoe Width : medium
 - Cuoio, Cuoio, Cuoio, Gomma, Nessuno, Mocassini
 - 1
-- Shoe Width : medium
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005DXAJEG/?tag=tolees00-21)

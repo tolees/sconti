@@ -28,8 +28,8 @@ Puoi trovare [Focus - The Surge - PlayStation 4](https://www.amazon.it/dp/B06WPB
 
 ℹ️:
 
-- Combattimenti serrati e viscerali dove ogni decisione e ogni mossa avrà un peso
 - Spettacolare Action RPG ambientato in un futuro distopico caratterizzato da guerre, carestie, malattie e cambiamenti climatici
 - Sistema di smembramento e di upgrade, unico e coinvolgente
+- Combattimenti serrati e viscerali dove ogni decisione e ogni mossa avrà un peso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WPBMY6L/?tag=tolees00-21)
