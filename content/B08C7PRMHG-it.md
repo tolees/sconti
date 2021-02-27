@@ -28,8 +28,8 @@ average: '49.5'
 
 ℹ️:
 
-- Scarpe sportive
 - Tomaia in pelle
+- Scarpe sportive
 - Punta in gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C7PRMHG/?tag=tolees00-21)

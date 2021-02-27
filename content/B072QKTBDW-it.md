@@ -29,9 +29,9 @@ Puoi trovare [Rio Mare - Filetto di Salmone con Olio Extravergine di Oliva  Cott
 ℹ️:
 
 - Filetti di salmone ben puliti da pelle e lische, delicatamente cotti al vapore, ricchi di Omega 3
-- Ingredienti: salmone (Salmo salar crudo introdotto 95%), olio extra vergine di oliva 3%, sale
 - Formato: confezione da 1 lattina da 125 g
-- Consigli uso: ottimo per preparare secondi delicati e sfiziosi, Provalo con una insalatina di cuori di carciofo
 - Rio Mare, Qualità Responsabile dal mare alla tua tavola
+- Ingredienti: salmone (Salmo salar crudo introdotto 95%), olio extra vergine di oliva 3%, sale
+- Consigli uso: ottimo per preparare secondi delicati e sfiziosi, Provalo con una insalatina di cuori di carciofo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072QKTBDW/?tag=tolees00-21)
