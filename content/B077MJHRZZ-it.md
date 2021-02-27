@@ -28,8 +28,8 @@ average: '38.2408333333333'
 
 ℹ️:
 
-- Pelle
 - Materiale suola: gomma
+- Pelle
 - Materiale esterno: pelle
 - Fodera: maglia
 

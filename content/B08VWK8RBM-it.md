@@ -29,9 +29,9 @@ Puoi trovare [Xiaomi Redmi 9T con NFC Fotocamera quadrupla da 48 MP con IA 6000 
 ℹ️:
 
 - Batteria da 6000 mAh (typ) Energia duratura senza peso extra
-- Fotocamera quadrupla da 48 MPTutto ciò di cui hai bisogno per scattare foto professionali
 - NFC* multifunzione è compatibile con Google Pay
 - Processore Snapdragon 662 rapido ed efficace
 - Sensore di impronte sul lato per un facile e veloce sblocco
+- Fotocamera quadrupla da 48 MPTutto ciò di cui hai bisogno per scattare foto professionali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VWK8RBM/?tag=tolees00-21)

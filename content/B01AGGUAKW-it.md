@@ -28,10 +28,10 @@ average: '24.66'
 
 ℹ️:
 
+- Età consigliata: dai 10 anni in poi
 - Durata di gioco circa 75 minuti
-- Dimensioni del prodotto: 7 x 30 x 30 cm
 - Ottimo per 3-4 giocatori
 - Versione Italiana
-- Età consigliata: dai 10 anni in poi
+- Dimensioni del prodotto: 7 x 30 x 30 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AGGUAKW/?tag=tolees00-21)
