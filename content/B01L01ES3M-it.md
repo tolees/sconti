@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.04 % su Caffè Borbone Respresso Miscela Nera  Co  '
-date: 2021-02-22 08:42:37
+date: 2021-02-28 07:38:36
 image: 'https://m.media-amazon.com/images/I/41E5I9gQOJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '18.0'
 
 ℹ️:
 
+- Miscela Nera
+- Compatibili Nespresso*
 - *Nespresso e *Nescafé *Dolce Gusto sono marchi registrati di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico Nespresso - Nescafé Dolce Gusto .
 - Confezione da 100 Capsule
-- Compatibili Nespresso*
-- Miscela Nera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01L01ES3M/?tag=tolees00-21)

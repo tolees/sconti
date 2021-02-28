@@ -28,9 +28,9 @@ average: '13.11'
 
 ℹ️:
 
-- Capacità: 32 GB
-- Con cappuccio protettivo a scorrimento
 - Interfaccia dispositivo: USB tipo A
+- Capacità: 32 GB
 - Velocità di lettura: 100 MB/s
+- Con cappuccio protettivo a scorrimento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081PJQRYS/?tag=tolees00-21)

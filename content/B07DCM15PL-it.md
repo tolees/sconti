@@ -28,9 +28,9 @@ average: '22.99'
 
 ℹ️:
 
-- Supporta HDD e SSD con interfaccia SATA I/II/III fino a 6 Gbps, tutte le capacità di archiviazione, i sistemi operativi Windows e MacOS e HotSwap e Plug & Play
-- Alloggiamento esterno in silicone, alluminio e plastica adatto per 1 disco rigido da 2,5 pollici o SSD con altezza massima di 9,5 mm
 - Connessione USB 3.1 (Gen-2, UASP) per trasferimento dati ultra veloce fino a 10 Gbps e connettore USB Type-C anti-torsione, compatibile anche con Thunderbolt 3
+- Alloggiamento esterno in silicone, alluminio e plastica adatto per 1 disco rigido da 2,5 pollici o SSD con altezza massima di 9,5 mm
+- Supporta HDD e SSD con interfaccia SATA I/II/III fino a 6 Gbps, tutte le capacità di archiviazione, i sistemi operativi Windows e MacOS e HotSwap e Plug & Play
 - Cavo USB di tipo C fisso integrato (circa 35 cm di lunghezza) con un apposito cavo intorno allalloggiamento
 - Il rivestimento in silicone impermeabile protegge da acqua e polvere – conforme alla classe di protezione IP66: antipolvere (6) e resistente ai getti dacqua (6)
 

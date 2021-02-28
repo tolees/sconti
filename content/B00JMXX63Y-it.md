@@ -29,8 +29,8 @@ average: '61.08'
 ℹ️:
 
 - Potenza in movimento | le pinne lunghe seac motus sono apprezzate da apneisti e pescatori subacquei anche alle prime esperienze grazie alla comodità della scarpetta e alla facilità di pinneggiata; angolo di 22° tra pala e scarpetta ottimizzano la spinta con poca fatica
-- Utilizzo prolungato | la sensazione di grande comfort permette di utilizzare le pinne lunghe seac motus per molto tempo rendendole ideali anche per le immersioni subacquee con bombola e durante lallenamento intensivo della pinneggiata per apnea dinamica
 - Pala flessibile e reattiva | le ply delle pinne lunghe seac motus offrono unottima reattività e tanta forza propulsiva anche ai divers meno allenati; le ply sono intercambiabili e disponibili in nero + 5 colori camouflage perfetti per ogni esigenza di pesca subacquea: verde, marrone, rosso, blu e grigio
+- Utilizzo prolungato | la sensazione di grande comfort permette di utilizzare le pinne lunghe seac motus per molto tempo rendendole ideali anche per le immersioni subacquee con bombola e durante lallenamento intensivo della pinneggiata per apnea dinamica
 - Ampio range di taglie | le pinne a pala intercambiabile seac motus sono disponibili nelle taglie 36/38, 39/40, 41/42, 43/44, 45/46 e 47/48 per per tutte le donne e gli uomini appassionati di pesca subacquea, apnea e immersioni ricreative con bombola
 - Calzata perfetta | le pinne per apnea e pesca subacquea seac motus sono facili da calzare grazie alla scarpetta chiusa in doppio materiale termoplastico: una gomma più dura per la suola e una più morbida per il dorso del piede; per una calzata ottimale si consiglia lutilizzo di calzini in neoprene da 2-3 mm di spessore con pinne seac motus della stessa taglia delle scarpe utilizzate quotidianamente
 
