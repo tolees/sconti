@@ -28,10 +28,10 @@ average: '62.87'
 
 ℹ️:
 
-- Impermeabile,si pulisce con una spugna bagnata
-- Colore Antracite
 - Dimensioni 203 x 224 x 66 cm
-- Portata due posti a sedere
+- Colore Antracite
+- Impermeabile,si pulisce con una spugna bagnata
 - Include portabicchieri
+- Portata due posti a sedere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W343FDL/?tag=tolees00-21)
