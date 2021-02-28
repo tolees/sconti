@@ -28,10 +28,10 @@ average: '1.49'
 
 ℹ️:
 
-- IL PAVESINO: Pavesini è il biscotto leggero nato dalla tradizione dei biscottini di Novara, reso famoso dall’esperienza Pavesi e ancora oggi cotto su carta da forno
 - PAVESINI DOUBLE: Tutta la croccantezza dei Pavesini e l’indulgenza del cioccolato fondente per un’esperienza di golosa leggerezza
 - INGREDIENTI PRINCIPALI: Cioccolato, farina di frumento, zucchero e uova fresche; I tuoi Pavesini di sempre con un sorprendente lato fondente
-- GOLOSA LEGGEREZZA: Pavesino classico sopra e cioccolato fondente sotto; Uno snack adatto ad ogni momento della giornata, con sole 145 kcal per porzione (30 gr)
+- IL PAVESINO: Pavesini è il biscotto leggero nato dalla tradizione dei biscottini di Novara, reso famoso dall’esperienza Pavesi e ancora oggi cotto su carta da forno
 - PAVESI: I nostri prodotti contengono solo ingredienti di qualità; Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- GOLOSA LEGGEREZZA: Pavesino classico sopra e cioccolato fondente sotto; Uno snack adatto ad ogni momento della giornata, con sole 145 kcal per porzione (30 gr)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SK9JVRR/?tag=tolees00-21)
