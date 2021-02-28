@@ -28,8 +28,8 @@ Puoi trovare [PARLOPHONE - Tour De France  180 Gr. Vinyl Red & Blue Remaster ](h
 
 ℹ️:
 
-- De
 - Tour
+- De
 - Kraftwerk
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085KT94YX/?tag=tolees00-21)

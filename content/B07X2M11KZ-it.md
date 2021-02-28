@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Young, Neil
 - Colorado
 - &
+- Young, Neil
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X2M11KZ/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '4.83'
 
 ℹ️:
 
+- Formato 1000 ml
 - Prodotto di qualità
 - Liquido disinfettante ad elevato potere igienizzante per disinfettare biberon, tettarelle, succhietti, giochi, stoviglie, massaggia gengive
-- Formato 1000 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007UPGVCO/?tag=tolees00-21)

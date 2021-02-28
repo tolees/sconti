@@ -28,9 +28,9 @@ Puoi trovare [Stanley 1-11-300 Lame a Spezzare  9 mm  Set di 100 pz](https://www
 
 ℹ️:
 
-- The name of a pro
 - With straight edge
 - Content: 100 pieces
 - Length: 9mm
+- The name of a pro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0001IW8RE/?tag=tolees00-21)
