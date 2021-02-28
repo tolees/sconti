@@ -28,12 +28,12 @@ Puoi trovare [Pantene Pro-V Ricci Perfetti  Set Composto da 2 Balsamo Capelli 60
 
 ℹ️:
 
-- Maschera Capelli testata dallo Swiss Vitamin Institute
-- Maschera Capelli e Balsamo Capelli per ricci perfetti
-- Balsamo capelli ricci, crespi e ribelli
-- Aiutano a rendere i capelli resistenti contro i danni dello styling
 - Balsamo 0% olio minerale, 0% coloranti
+- Balsamo capelli ricci, crespi e ribelli
+- Maschera Capelli testata dallo Swiss Vitamin Institute
+- Aiutano a rendere i capelli resistenti contro i danni dello styling
 - Maschera Capelli fino a 72 ore di ricci perfetti con 1 utilizzo
 - Trasformano le onde ribelli in ricci luminosi, corposi e perfettamente definiti
+- Maschera Capelli e Balsamo Capelli per ricci perfetti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085LYGBX8/?tag=tolees00-21)

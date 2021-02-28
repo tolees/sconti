@@ -28,10 +28,10 @@ Puoi trovare [Behringer Graphic Equalizer Eq700 - Equalizzatore Grafico A 7 Band
 
 ℹ️:
 
-- Ampia gamma di frequenze, da 100 Hz a 6,4 kHz con 15dB boost/cut per banda
-- Switch elettronico On/Off per lintegrità del segnale in modalità bypass
-- Modella il tuo suono ed elimina il feedback con 7 bande di equalizzazione
-- LED di stato On/Off e controllo batteria
 - Funziona con batteria 9V o alimentatore Behringer PSU-SB (non incluso)
+- Ampia gamma di frequenze, da 100 Hz a 6,4 kHz con 15dB boost/cut per banda
+- Modella il tuo suono ed elimina il feedback con 7 bande di equalizzazione
+- Switch elettronico On/Off per lintegrità del segnale in modalità bypass
+- LED di stato On/Off e controllo batteria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000KIRT6A/?tag=tolees00-21)
