@@ -28,8 +28,8 @@ average: '44.99'
 
 ℹ️:
 
-- Eyewear
 - Uvex lgl 21
 - Black mat red mirror red
+- Eyewear
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UIM11EO/?tag=tolees00-21)

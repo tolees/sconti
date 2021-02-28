@@ -28,11 +28,11 @@ average: '44.99'
 
 ℹ️:
 
+- kit mouse e tastiera personalizzabile: tastiera Wireless meccanica ‎con tasti dedicati pratici e accesso diretto a dispositivi multimediali, ‎calcolatrice e funzioni di controllo batteria
+- Il kit mouse e tastiera Logitech MK540 è waterproof, ha tasti resistenti ad ‎abrasioni, durata delle batterie fino a 36 mesi.
+- Libertà Wireless: plug-And-Play per tastiera e mouse con il mini ricevitore USB Logitech ‎Unifying, con connessione Wireless affidabile e crittografata fino a 10 m di distanza dal ‎PC o dal laptop
 - Prova Logitech MK850 Combo Mouse e Tastiera: produttività alle stelle; bluetooth/USB, supporto di diversi dispositivi, supporto per i polsi imbottito, mouse sagomato con scorrimento veloce
 - Mouse Wireless e waterproof, forma sagomata, morbide impugnature in gomma si adattano ottimalemente a entrambe le ‎mani; controllo del cursore preciso e ‎tracciamento ottimizzato
-- Il kit mouse e tastiera Logitech MK540 è waterproof, ha tasti resistenti ad ‎abrasioni, durata delle batterie fino a 36 mesi.
-- kit mouse e tastiera personalizzabile: tastiera Wireless meccanica ‎con tasti dedicati pratici e accesso diretto a dispositivi multimediali, ‎calcolatrice e funzioni di controllo batteria
-- Libertà Wireless: plug-And-Play per tastiera e mouse con il mini ricevitore USB Logitech ‎Unifying, con connessione Wireless affidabile e crittografata fino a 10 m di distanza dal ‎PC o dal laptop
 - Tastiera Wireless di precisione, affidabilità e ottimizzata per la riduzione del rumore; supporto per polsi e ‎piedini regolabili per un comfort continuativo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0797FYB3K/?tag=tolees00-21)
