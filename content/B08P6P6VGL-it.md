@@ -28,10 +28,10 @@ Puoi trovare [CRDLIGHT - 25 pz Mascherine FFP2 Certificate CE Protettive  Masche
 
 ℹ️:
 
-- Classe di Protezione FFP2 NR. 94 % di Filtrazione delle Particelle
 - Dotazione: 25 pezzi maschera di protezione per il naso e la bocca. Colore bianco. Durata di conservazione delle maschere respiratorie 3 anni (BBD: novembre 2023). Utilizzabile una volta
-- Dispositivo FFP2 e Notificato Presso la Banca dati del Universal Certification Certificate Nr 2163-PPE-834
-- 25 maschere FFP2 per scatola dispenser. Tutte le maschere in confezione singola in foglio di alluminio. Per bambini e adulti (uomini e donne). I passanti per le orecchie sono in gomma e garantiscono una vestibilità rapida e aderente con una vestibilità confortevole.
+- Classe di Protezione FFP2 NR. 94 % di Filtrazione delle Particelle
 - Conforme alla Norma UNI EN 149:2001+A1:2009. Dichiarazione di Conformità CE Secondo il Regolamento DPI (UE) 2016/425
+- 25 maschere FFP2 per scatola dispenser. Tutte le maschere in confezione singola in foglio di alluminio. Per bambini e adulti (uomini e donne). I passanti per le orecchie sono in gomma e garantiscono una vestibilità rapida e aderente con una vestibilità confortevole.
+- Dispositivo FFP2 e Notificato Presso la Banca dati del Universal Certification Certificate Nr 2163-PPE-834
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08P6P6VGL/?tag=tolees00-21)
