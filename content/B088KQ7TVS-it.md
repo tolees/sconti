@@ -28,10 +28,10 @@ average: '169.51'
 
 ℹ️:
 
-- Nuovo Neo-Display 1080P, 2400×1080 FHD+
 - Quad Camera 48MP AI, Ultra grandangolo 119°
+- Design 3D Quad-Curve
 - 4GB + 128GB, Potenza e velocità
 - Snapdragon + Hyper Boost, Fluidità in ogni passaggio
-- Design 3D Quad-Curve
+- Nuovo Neo-Display 1080P, 2400×1080 FHD+
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088KQ7TVS/?tag=tolees00-21)
