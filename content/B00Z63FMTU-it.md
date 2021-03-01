@@ -28,9 +28,9 @@ average: '13.35'
 
 ℹ️:
 
-- Vaschetta asportabile
 - In polipropilene, con due scomparti porta minuteria nel coperchio
 - Dimensioni cm 48,2x25,4x25
+- Vaschetta asportabile
 - Cerniere di chiusura in plastica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00Z63FMTU/?tag=tolees00-21)
