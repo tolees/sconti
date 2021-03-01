@@ -28,8 +28,8 @@ Puoi trovare [Kärcher SP 2 Flat Elettropompa Sommersa - 6000 L/H  0.5 m/Bar  Ma
 
 ℹ️:
 
-- Sensore di livello a galleggiante
-- Anello di tenuta in ceramica per una maggiore affidabilità e durata. Garanzia 5 anni
 - Aspirazione in piano fino a 1 mm
+- Anello di tenuta in ceramica per una maggiore affidabilità e durata. Garanzia 5 anni
+- Sensore di livello a galleggiante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017XAFKT0/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '11.3'
 
 ℹ️:
 
+- Composizione: 100% pes
+- Tipologia prodotto: pantaloni
 - Sesso: man
 - Marca: adidas
-- Tipologia prodotto: pantaloni
-- Composizione: 100% pes
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081TSXT77/?tag=tolees00-21)

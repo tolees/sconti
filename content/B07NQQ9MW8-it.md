@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES Jacvictor Leather Belt Noos Cintura  Nero  Black Blac
 
 ℹ️:
 
-- casual belt
 - leather belt
+- casual belt
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NQQ9MW8/?tag=tolees00-21)

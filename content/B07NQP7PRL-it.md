@@ -28,7 +28,7 @@ average: '13.99'
 
 ℹ️:
 
-- casual belt
 - leather belt
+- casual belt
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NQP7PRL/?tag=tolees00-21)

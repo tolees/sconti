@@ -28,10 +28,10 @@ average: '59.9'
 
 ℹ️:
 
-- Batteria estraibile e seconda batteria di ricambio come accessorio opzionale: in questo modo non ci sono interruzioni.
 - Leggero, facile e maneggevole: adatto a pulire rapidamente anche angoli e bordi. Grazie alla bocchetta intercambiabile ? possibile modulare la macchina alle esigenze di pulizia
-- Resa per ricarica 105m? (35 finestre)
-- Tempo durata batteria: 35 minuti
 - Serbatoio dellacqua sporca: 100ml
+- Tempo durata batteria: 35 minuti
+- Batteria estraibile e seconda batteria di ricambio come accessorio opzionale: in questo modo non ci sono interruzioni.
+- Resa per ricarica 105m? (35 finestre)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N5I45TE/?tag=tolees00-21)
