@@ -28,9 +28,9 @@ average: '132.1'
 
 ℹ️:
 
-- Forma Orologio: Rotonda
 - Dimensione della Cassa: 30mm
 - Materiale Cassa: Acciaio
+- Forma Orologio: Rotonda
 - Colore del Cinturino: Rosa
 - Indici: Numeri Romani
 

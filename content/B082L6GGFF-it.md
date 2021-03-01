@@ -28,10 +28,10 @@ Puoi trovare [DadVu Soul & Technology - Sistema di Allarme casa Kit wireless sen
 
 ℹ️:
 
-- Blocco Tastiera e spegnimento display
 - Kit Allarme Antifurto 100 - Wireless 433mhz, Wifi 2.4Ghz, GSM con alloggio Sim telefonica, Tastiera Touch e Display
+- Memorizza fino a 100 zone, 10 Telecomandi, 10 Trasponder Rfid
+- Blocco Tastiera e spegnimento display
 - Notifiche push in App per Allarmi, SOS, Batteria Scarica dei Sensori, Porta - finestra Aperta
 - Gestibile Da App DadVu (Smart Life - tuya), compatibile Google Home ed Alexa)
-- Memorizza fino a 100 zone, 10 Telecomandi, 10 Trasponder Rfid
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082L6GGFF/?tag=tolees00-21)
