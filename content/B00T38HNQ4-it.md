@@ -30,8 +30,8 @@ Puoi trovare [Einhell 3400150 GC-Em 1536 Tagliaerba Elettrico  1500 W  240 V  Ro
 
 - Potenza: 1500 W
 - Larghezza di taglio: 36 centimetri
-- Peso: 10 kg
 - Alimentazione: 220 -240 V, 50 Hz
+- Peso: 10 kg
 - Giri a vuoto: 3400 giri / min
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00T38HNQ4/?tag=tolees00-21)
