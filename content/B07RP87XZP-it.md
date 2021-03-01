@@ -28,8 +28,8 @@ average: '36.99'
 
 ℹ️:
 
-- Vestibilità leggera
-- Larghezza: 3.5 cm
 - Fibbia in metallo spazzolato
+- Larghezza: 3.5 cm
+- Vestibilità leggera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RP87XZP/?tag=tolees00-21)

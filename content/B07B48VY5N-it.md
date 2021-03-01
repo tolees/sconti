@@ -28,10 +28,10 @@ average: '23.55'
 
 ℹ️:
 
-- A great gift and souvenir for boys and girls aged 8 and over
-- Each of the nine cubes has a different pattern! Spin, turn and check where and how each cube needs to be placed
-- Rotate and arrange the nine coloured cubes in the 3x3 field game grid so that each of the six colours in each row and each column appears only once
 - This is not an ordinary Sudoku puzzle. It is three-dimensional, colourful and shows no numbers. Colour Cube Sudoku is an intelligent logic game for clever minds. To win, you must skilfully turn the cubes until – both horizontally and vertically – no colour repeats
 - With Color Cube Sudoku, a player from 8 years tries to solve the solution. You can keep an eye on time and then challenge other players or try on the other tasks "No diagonals", "Diamond", "Das X" or "Long Jumper Path" for more variants
+- Each of the nine cubes has a different pattern! Spin, turn and check where and how each cube needs to be placed
+- A great gift and souvenir for boys and girls aged 8 and over
+- Rotate and arrange the nine coloured cubes in the 3x3 field game grid so that each of the six colours in each row and each column appears only once
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B48VY5N/?tag=tolees00-21)
