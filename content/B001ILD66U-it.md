@@ -28,7 +28,7 @@ Puoi trovare [BGS 3069 - Filo Stencil 52 foglie  colore Grigio 0 25 - 6 mm](http
 
 ℹ️:
 
-- Componenti inclusi: 3069, doppio taglio filettato, 52 fogli, metrico, 0,25 – 6,0 mm, Whitworth 4G – 62G
 - Imballareage Dimensioni: 7.6 L x 2.0 H x 5.0 W (centimeters)
+- Componenti inclusi: 3069, doppio taglio filettato, 52 fogli, metrico, 0,25 – 6,0 mm, Whitworth 4G – 62G
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001ILD66U/?tag=tolees00-21)
