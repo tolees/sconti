@@ -28,7 +28,7 @@ average: '160.22'
 
 ℹ️:
 
-- MICHAEL MICHAEL KORS Mercer belted satchel with a compact design. Realizzato in pelle di pebbled. Top zip fastening with a lined interno. Tasca interna con cerniera, tasca per slip e clip per chiave. Tasche sul davanti e sul retro. Due manici per il trasporto.
 - Prodotto originale.
+- MICHAEL MICHAEL KORS Mercer belted satchel with a compact design. Realizzato in pelle di pebbled. Top zip fastening with a lined interno. Tasca interna con cerniera, tasca per slip e clip per chiave. Tasche sul davanti e sul retro. Due manici per il trasporto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QG1NQTZ/?tag=tolees00-21)

@@ -29,8 +29,8 @@ Puoi trovare [adidas Tierro Gk 34  Pantaloni Uomo  Nero  XL](https://www.amazon.
 ℹ️:
 
 - Tipologia prodotto: pantaloni
-- Composizione: 100% pes
 - Marca: adidas
 - Sesso: man
+- Composizione: 100% pes
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081TSX7V6/?tag=tolees00-21)
