@@ -28,10 +28,10 @@ average: '8.25'
 
 ℹ️:
 
+- Formula in gel per un effetto soft confortevole
+- Arricchito con olio di camelia per comfort e idratazione e con olio di jojoba per una durata ottima
 - Il prodotto arriva senza sigillo di sicurezza
 - Rossetto a lunga durata effetto matte
-- Arricchito con olio di camelia per comfort e idratazione e con olio di jojoba per una durata ottima
 - Colore pieno e tinte vibranti, per colori dai nude ai audaci
-- Formula in gel per un effetto soft confortevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MUDMZS9/?tag=tolees00-21)
