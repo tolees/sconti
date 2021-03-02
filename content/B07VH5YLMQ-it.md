@@ -29,9 +29,9 @@ average: '52.76'
 ℹ️:
 
 - Lolio di cocco biologico MonteNativo è un olio di cocco naturale senza additivi, è un alimento molto versatile.
-- Lolio di cocco MonteNativo è 100% biologico e si ottiene dalla prima spremitura a freddo delle noci di cocco crude.
 - Prodotto di altissima qualità, olio non lavorato, vegano, senza glutine e senza lattosio, senza grassi idrogenati, non raffinato, senza aggiunta di profumi né fragranze.
-- Perfetto per cucinare, friggere e cuocere al forno, per la cura della persona, per il trattamento della pelle e come maschera per capelli.
 - Lolio di cocco biologico MonteNativo contiene fino al 53% di acido laurico.
+- Lolio di cocco MonteNativo è 100% biologico e si ottiene dalla prima spremitura a freddo delle noci di cocco crude.
+- Perfetto per cucinare, friggere e cuocere al forno, per la cura della persona, per il trattamento della pelle e come maschera per capelli.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VH5YLMQ/?tag=tolees00-21)

@@ -28,11 +28,11 @@ Puoi trovare [Garnier Olio Viso Notte Bio  Olio Notte Multi Riparatore con Olio 
 
 ℹ️:
 
+- Lenisce, nutre e leviga le prime rughe; per pelli stressate, anche sensibili
+- Formula vegana (nessun ingrediente o derivato di origine animale)
+- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
+- Olio notte multi riparatore con olio di semi di canapa biologico + vitamina E
 - Lolio di semi di canapa biologico spremuto a freddo e senza solventi, per ottenere lestratto puro, ricco di acidi grassi, omega 3 e 6
 - Il nostro prodotto è certificato biologico; Cosmos Organic certificato da Ecocert Greenlife secondo il disciplinare Cosmos
-- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
-- Formula vegana (nessun ingrediente o derivato di origine animale)
-- Lenisce, nutre e leviga le prime rughe; per pelli stressate, anche sensibili
-- Olio notte multi riparatore con olio di semi di canapa biologico + vitamina E
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FCZGT8R/?tag=tolees00-21)

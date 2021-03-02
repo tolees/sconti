@@ -28,10 +28,10 @@ average: '5.19'
 
 ℹ️:
 
-- PROTEZIONE --- Questo interruttore automatico supporta perdite, sovraccarico, protezione da corto circuito, tre modalità di protezione
 - GARANZIA DI QUALITÀ --- Ogni interruttore automatico viene esaminato prima di essere in vendita.Non esitate a contattarci in caso di problemi con il nostro prodotto
-- ASPETTO --- Modello: DZ47LE-63 3P C40; Numero di poli: 3P; Tensione nominale: 400V; Corrente nominale del rilascio: 40A; Potere di interruzione: 6KA; Materiale: materiale ignifugo PC
 - BUONE PRESTAZIONI --- Linterruttore di circuito corrente è composto da componenti elettronici di alta qualità, con prestazioni stabili e affidabili e linvolucro esterno del prodotto è realizzato in materiale ignifugo per PC ed è più sicuro da usare
+- PROTEZIONE --- Questo interruttore automatico supporta perdite, sovraccarico, protezione da corto circuito, tre modalità di protezione
 - APPLICAZIONE --- Gli interruttori di protezione dalle perdite sono adatti per decorazioni domestiche, costruzioni di ingegneria, trasformazione di reti rurali e altri progetti
+- ASPETTO --- Modello: DZ47LE-63 3P C40; Numero di poli: 3P; Tensione nominale: 400V; Corrente nominale del rilascio: 40A; Potere di interruzione: 6KA; Materiale: materiale ignifugo PC
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SC9QGYW/?tag=tolees00-21)
