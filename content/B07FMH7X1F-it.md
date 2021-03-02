@@ -28,8 +28,8 @@ average: '55.0'
 
 ℹ️:
 
-- 3 strisce sui lati
-- Tomaia in similpelle
 - Scarpe sportive
+- Tomaia in similpelle
+- 3 strisce sui lati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FMH7X1F/?tag=tolees00-21)
