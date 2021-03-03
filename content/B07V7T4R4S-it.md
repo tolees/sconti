@@ -28,7 +28,7 @@ Puoi trovare [yespresso BIALETTI compatibili  CREMOSO  - 240 capsule](https://ww
 
 ℹ️:
 
-- Compatibile Bialetti
 - Miscela caffè Cremoso
+- Compatibile Bialetti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V7T4R4S/?tag=tolees00-21)
