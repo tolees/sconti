@@ -28,8 +28,8 @@ average: '14.3233333333333'
 
 ℹ️:
 
-- Questa custodia disegnata da apple avvolge le curve del tuo iPhone senza appesantirne il profilo; è realizzata in pelle pregiata, conciata con procedure speciali: gradevolmente morbida al tatto, col tempo acquista unaffascinante patina naturale
-- La fodera interna in microfibra protegge il telefono, e i tasti a rilievo in alluminio fanno pendant con il colore della custodia; e non devi nemmeno toglierla per ricaricare in wireless
 - Come ogni custodia progettata da apple, ha superato migliaia di ore di test in fase di produzione: oltre che bella, è anche fatta apposta per proteggere il tuo iPhone da graffi e cadute
+- La fodera interna in microfibra protegge il telefono, e i tasti a rilievo in alluminio fanno pendant con il colore della custodia; e non devi nemmeno toglierla per ricaricare in wireless
+- Questa custodia disegnata da apple avvolge le curve del tuo iPhone senza appesantirne il profilo; è realizzata in pelle pregiata, conciata con procedure speciali: gradevolmente morbida al tatto, col tempo acquista unaffascinante patina naturale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XR9V7SB/?tag=tolees00-21)
