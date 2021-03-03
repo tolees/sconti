@@ -29,9 +29,9 @@ average: '6.71'
 ℹ️:
 
 - Benefici: previene il rischio di infezioni, fluidifica e rimuove le secrezioni nasali in eccesso, libera la congestione nasale
-- Frequenza dutilizzo: da 2 a 3 applicazioni di 1 secondo per narice, anche quotidianamente
 - Destinatari: bambini e nenonati da 1 mese di età
-- Ingredienti: acqua di mare con una concentrazione di sali minerali, pH adattato alla mucosa nasale
 - Modalità dutilizzo: inclinare la testa del bambino, introdurre il beccuccio nella narice, premere lerogatore, lasciare agire per qualche secondo, sollevare la narice il pulire il naso
+- Frequenza dutilizzo: da 2 a 3 applicazioni di 1 secondo per narice, anche quotidianamente
+- Ingredienti: acqua di mare con una concentrazione di sali minerali, pH adattato alla mucosa nasale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00J5ETUOY/?tag=tolees00-21)

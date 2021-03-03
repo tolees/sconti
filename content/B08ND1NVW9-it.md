@@ -28,10 +28,10 @@ average: '12.99'
 
 ℹ️:
 
+- I vestiti sono stampati da computer e può essere lavato in lavatrice, E la stampa non si sbiadirà o cadere.
 - E adatto come un regalo per i vostri bambini, in particolare quelli che amano tra di noi.
 - Il prodotto è fatto di cotone 70%, confortevole e traspirante, adatto per la pelle dei bambini.
-- Se avete tutte le domande, È possibile contattare noi in qualsiasi momento e vi risponderemo al più presto come possibile.
 - Prima di effettuare un ordine, ti suggeriamo di scegliere la taglia in base allaltezza consigliata nei “dettagli del prodotto”.
-- I vestiti sono stampati da computer e può essere lavato in lavatrice, E la stampa non si sbiadirà o cadere.
+- Se avete tutte le domande, È possibile contattare noi in qualsiasi momento e vi risponderemo al più presto come possibile.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08ND1NVW9/?tag=tolees00-21)
