@@ -28,11 +28,11 @@ Puoi trovare [BLACK+DECKER GSL200-QW Cesoia a Batteria Litio 3.6 V-1.1 Ah](https
 
 ℹ️:
 
-- Larghezza lama: 10 cm
-- Batteria Litio integrata, 3.6 V - 1.1 Ah
-- Led indicatore di ricarica
-- Passo lama: 23 mm
 - Ideale per regolare aiuole ed effettuare bordature
+- Passo lama: 23 mm
+- Led indicatore di ricarica
+- Batteria Litio integrata, 3.6 V - 1.1 Ah
+- Larghezza lama: 10 cm
 - Design leggero ed ergonomico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003BU4LT2/?tag=tolees00-21)

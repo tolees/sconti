@@ -29,7 +29,7 @@ Puoi trovare [LINK LKMP04USB Multipresa 4 Prese Universali ITA 10/16 A a Spina 1
 ℹ️:
 
 - Lunghezza cavo mt. 1,5
-- Con interruttore di accensione illuminato
 - Con spina 16A Italiana Tripolare
+- Con interruttore di accensione illuminato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06VTMSNFJ/?tag=tolees00-21)

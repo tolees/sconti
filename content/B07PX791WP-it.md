@@ -28,10 +28,10 @@ average: '75.0'
 
 ℹ️:
 
-- In dotazione 6 accessori agganciabili dopo luso agli appositi supporti integrati sul retro della macchina
+- Dotata di funzione autoadescante: se non è possibile collegarla alla rete idrica, lidropulitrice è in grado di aspirare acqua da un serbatoio
 - Idropulitrice ideale per la pulizia dello sporco resistente presente su medie superfici domestiche esterne, cancellate, panchine, mobili e attrezzi da giardino, auto, biciclette, moto, scale e piscine
 - Attacco rapido ingresso acqua con filtro ispezionabile che trattiene le impurità e garantisce il perfetto funzionamento dellidropulitrice
-- Dotata di funzione autoadescante: se non è possibile collegarla alla rete idrica, lidropulitrice è in grado di aspirare acqua da un serbatoio
+- In dotazione 6 accessori agganciabili dopo luso agli appositi supporti integrati sul retro della macchina
 - Pressione (bar) max. 125; potenza assorbita (kw) 1, 6; portata (l/h) max. 420; temperatura di alimentazione (°c) max. 50
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PX791WP/?tag=tolees00-21)

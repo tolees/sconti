@@ -28,10 +28,10 @@ average: '269.99'
 
 ℹ️:
 
-- Cavità XL 71 L
 - Pulizia con programma AcquaClean
-- 3 programmi di cottura vapore
 - 11 funzioni di cottura
+- Cavità XL 71 L
 - Cottura multilivello
+- 3 programmi di cottura vapore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JZCB7QB/?tag=tolees00-21)

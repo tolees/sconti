@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'sconto del 49.99 % su adidas Nizza  Scarpe da Ginnastica Uomo   '
-date: 2021-02-12 08:12:22
-image: 'https://m.media-amazon.com/images/I/41+XDP2qPKL._SL200_.jpg'
+title: 'sconto del 61.00 % su adidas Nizza  Scarpe da Ginnastica Uomo   '
+date: 2021-03-03 14:34:43
+image: 'https://m.media-amazon.com/images/I/41+XDP2qPKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B078MNXJQ3-it adidas Nizza Scarpe da Ginnastica Uomo Bianco Ftwr...'
 sku: 'B078MNXJQ3-it'
 tags: [  ]
-actualPrice: 34.98 EUR
+actualPrice: 27.28 EUR
 currency: EUR
-price: 34.98
+price: 27.28
 comparePrice: 69.95 EUR
 prodname: 'adidas Nizza  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core Black/Ftwr White Ftwr White/Core Black/Ftwr White   42 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'adidas'
 buyurl: 'https://www.amazon.it/dp/B078MNXJQ3/?tag=tolees00-21'
-descuento: '49.99'
-average: '34.98'
+descuento: '61.00'
+average: '31.13'
 ---
 
-[adidas Nizza  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core Black/Ftwr White Ftwr White/Core Black/Ftwr White   42 EU](https://www.amazon.it/dp/B078MNXJQ3/?tag=tolees00-21) ha un prezzo di 34.98 EUR (originale: 69.95 EUR) con uno sconto del 49.99 % sconto qui:
+[adidas Nizza  Scarpe da Ginnastica Uomo  Bianco  Ftwr White/Core Black/Ftwr White Ftwr White/Core Black/Ftwr White   42 EU](https://www.amazon.it/dp/B078MNXJQ3/?tag=tolees00-21) ha un prezzo di 27.28 EUR (originale: 69.95 EUR) con uno sconto del 61.00 % sconto qui:
 
-[![adidas Nizza  Scarpe da Ginnastica Uomo ](https://m.media-amazon.com/images/I/41+XDP2qPKL._SL200_.jpg)](https://www.amazon.it/dp/B078MNXJQ3/?tag=tolees00-21)
+[![adidas Nizza  Scarpe da Ginnastica Uomo ](https://m.media-amazon.com/images/I/41+XDP2qPKL._SL400_.jpg)](https://www.amazon.it/dp/B078MNXJQ3/?tag=tolees00-21)
 
 ℹ️:
 
