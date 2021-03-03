@@ -29,8 +29,8 @@ Puoi trovare [Clarks Ronnie Walk  Scarpe Stringate Derby Uomo  Marrone  British 
 ℹ️:
 
 - Adatta: (g) Standard
-- Tomaia: Pelle
-- Suola: Tr
 - Fodera: Tessile
+- Suola: Tr
+- Tomaia: Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MQ2GHXX/?tag=tolees00-21)

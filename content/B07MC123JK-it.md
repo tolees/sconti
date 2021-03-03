@@ -28,7 +28,7 @@ average: '53.34'
 
 ℹ️:
 
-- Colore esatto: pelle marrone britannica.
 - Materiale suola: TR.
+- Colore esatto: pelle marrone britannica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MC123JK/?tag=tolees00-21)

@@ -28,7 +28,7 @@ Puoi trovare [Clarks Ronnie Walk  Scarpe Stringate Derby Uomo  Marrone  British 
 
 ℹ️:
 
-- Materiale suola: TR.
 - Colore esatto: pelle marrone britannica.
+- Materiale suola: TR.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MFM2LM8/?tag=tolees00-21)
