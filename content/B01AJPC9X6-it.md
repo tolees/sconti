@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil City Action 6919 - Prigione e  al 16.66 % di sconto'
-date: 2021-02-27 05:20:03
+date: 2021-03-03 11:00:22
 image: 'https://m.media-amazon.com/images/I/61CON5uaqGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.it/dp/B01AJPC9X6/?tag=tolees00-21'
 descuento: '16.66'
-average: '78.0464341085272'
+average: '77.9999236641222'
 ---
 
 Puoi trovare [Playmobil City Action 6919 - Prigione e Stazione di Polizia  dai 4 anni](https://www.amazon.it/dp/B01AJPC9X6/?tag=tolees00-21) con il prezzo 75.0 EUR (originale: 89.99 EUR) 16.66 % sconto qui:
@@ -29,8 +29,8 @@ Puoi trovare [Playmobil City Action 6919 - Prigione e Stazione di Polizia  dai 4
 ℹ️:
 
 - Divertimento per piccoli poliziotti: stazione di polizia Playmobil con prigione, poliziotti e delinquente, tanti accessori per un gioco realistico
-- Play set che contiene personaggi adatti ai bambini a partire da 5 anni: ottimi per le loro mani grazie alle dimensioni adeguate alletà, alla superficie piacevole al tatto e con bordi arrotondati
 - Per il montaggio consultare il manuale distruzioni; alta qualità e struttura solida; è possibile una pulizia dei pezzi avendo cura di utilizzare soltanto acqua e senza luso di prodotti chimici
+- Play set che contiene personaggi adatti ai bambini a partire da 5 anni: ottimi per le loro mani grazie alle dimensioni adeguate alletà, alla superficie piacevole al tatto e con bordi arrotondati
 - 3 personaggi, 2 celle, con centro di comando, impianto telefonico, eliporto, cortile interno con parcheggio per auto della polizia (6920)
 - Contenuto: 1 x play set da 256 pezzi con istruzioni: 1 stazione di polizia, 3 personaggi, 252 accessori, materiale: plastica, L x P x A: 63 x 45 x 26 cm
 
