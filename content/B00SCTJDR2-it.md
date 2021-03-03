@@ -28,10 +28,10 @@ Puoi trovare [Einhell GC-RT 7530 Elettro Zappatrice  750 W  230 V  Rosso  Nero](
 
 ℹ️:
 
+- Potenza: 750 W
+- Clip porta cavo antistrappo
+- Larghezza di lavoro: 30 cm
 - Frese 4 pezzi
 - Doppio interruttore di sicurezza
-- Potenza: 750 W
-- Larghezza di lavoro: 30 cm
-- Clip porta cavo antistrappo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00SCTJDR2/?tag=tolees00-21)

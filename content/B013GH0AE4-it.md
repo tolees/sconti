@@ -28,10 +28,10 @@ Puoi trovare [Remington HC5035 Colour Cut Tagliacapelli 11 pettinini  forbici  p
 
 ℹ️:
 
-- Funzionamento a rete
+- Leva laterale (0.5-2mm)
 - 9 pettini per una facile individuazione (1.5-25mm) fra cui Pettini guida per le orecchie
 - Lame in acciaio inox auto-affilanti
-- Leva laterale (0.5-2mm)
+- Funzionamento a rete
 - INCLUDE: Spazzolina per la pulizia; Spazzolina per il collo; Forbici; Pettine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B013GH0AE4/?tag=tolees00-21)

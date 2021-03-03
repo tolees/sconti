@@ -28,7 +28,7 @@ average: '16.89'
 
 ℹ️:
 
-- Business-look pants
 - Elegant Chino pants
+- Business-look pants
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RCCF25F/?tag=tolees00-21)

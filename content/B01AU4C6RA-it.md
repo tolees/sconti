@@ -28,10 +28,10 @@ Puoi trovare [Einhell 3402022 Tagliabordi Elettrico GC-Et 4530  Ampiezza Taglio:
 
 ℹ️:
 
+- Girevole di 180 °, telescopico e regolabile
 - Giri di 8800 rpm
+- Il prodotto ha una potenza di 450 W
 - Doppio filo automatico di 1,4 mm/2 x 5 m
 - Capacità taglio di 30 cm
-- Girevole di 180 °, telescopico e regolabile
-- Il prodotto ha una potenza di 450 W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AU4C6RA/?tag=tolees00-21)

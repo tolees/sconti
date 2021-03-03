@@ -28,10 +28,10 @@ average: '60.66'
 
 ℹ️:
 
+- Pompa autoadescante GC-GP 1046 N (1050 W, prevalenza max 48 m)
 - Altezza aspirazione max: 8 m
+- Portata max: 4.600 l/h
 - Potenza: 1050 W
 - Prevalenza max: 48 m
-- Pompa autoadescante GC-GP 1046 N (1050 W, prevalenza max 48 m)
-- Portata max: 4.600 l/h
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7G1N3U/?tag=tolees00-21)
