@@ -28,10 +28,10 @@ average: '27.6566666666667'
 
 ℹ️:
 
-- Compact Secure Fit Design: Designed and tested for a secure fit, Mpow MDots feature a smaller & lightweight earbud design for wearing comfort and stability, whether you’re running or dancing to your favorite tunes. Comes with earwings(S/M/L) to ensured the best possible fit.
-- IPX6-Waterproof & 20Hrs Playback: Earbuds supports 4hrs playback and the case supports up to 4 full charges. Featuring IPX6 waterproof technology for daily use, splashes and sweat will not damage the earbuds.[Attention] Not support swimming, heavy rain.
 - Switch Modes and Share: Each earbud can be used individually according to your needs. Use either earbud solo as you like. Pass one earphone to a friend to enjoy a song together and bounce along to the beat. Also,unlike others, MDots is a thoughtful product. If you lose one earbud, just simply purchase the exact one instead of a new pair.
+- Compact Secure Fit Design: Designed and tested for a secure fit, Mpow MDots feature a smaller & lightweight earbud design for wearing comfort and stability, whether you’re running or dancing to your favorite tunes. Comes with earwings(S/M/L) to ensured the best possible fit.
 - Wireless to Fullest: Power up to power on, open the charging case to steady connect to any Bluetooth enabled devices in seconds. Take full control of your calls and music with single intuitive button control. One key to volume, tracks, turn on & off control.
 - No Audio Dropouts: Mpow MDots provide a balanced and natural sound with superb dynamic range and exceptional accuracy, enjoy conversations and music with no audio dropouts and interruptions. Be sure choose suitable eartips(S/M/L) and earwings(S/M/L) for better sealing.
+- IPX6-Waterproof & 20Hrs Playback: Earbuds supports 4hrs playback and the case supports up to 4 full charges. Featuring IPX6 waterproof technology for daily use, splashes and sweat will not damage the earbuds.[Attention] Not support swimming, heavy rain.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KWJ9YND/?tag=tolees00-21)

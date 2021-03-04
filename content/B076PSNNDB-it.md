@@ -28,13 +28,13 @@ Puoi trovare [Brother MFCL2710DW Stampante Multifunzione Laser 4 in 1 Bianco e N
 
 ℹ️:
 
-- Connettivita: Rete cablata, WiFi (stampa da smartphone e tablet) e WiFi Direct
 - Stampa fronte/retro automatica (la copia e la scansione non possono essere effettuate automaticamente in fronte/retro)
-- Cavo USB NON INCLUSO
-- Tempo di riproduzione della prima stampa meno di 8,5 secondi a 23 °C / 230 V - Tempo di riproduzione della prima copia meno di 10 secondi a 23 °C / 230 V
 - Toner in dotazione da 700 pagine a norma ISO/IEC 19752; toner aggiuntivi, da acquistare separatamente, TN2410 (da 1200 pagine) e TN2420 (da 3000 pagine)
-- Velocità fino a 30 pagine al minuto; cassetto carta da 250 fogli e alimentatore automatico (ADF) da 50 fogli
+- Cavo USB NON INCLUSO
+- Connettivita: Rete cablata, WiFi (stampa da smartphone e tablet) e WiFi Direct
 - Multifunzione Laser Monocromatico (solo bianco e nero) dotato delle funzionalità di stampa, copia, scansione e fax
 - Le durate dei toner sono espresse in base alla norma ISO/IEC19752 (per ulteriori informazioni premere: Visualizza altri dettagli prodotto)
+- Velocità fino a 30 pagine al minuto; cassetto carta da 250 fogli e alimentatore automatico (ADF) da 50 fogli
+- Tempo di riproduzione della prima stampa meno di 8,5 secondi a 23 °C / 230 V - Tempo di riproduzione della prima copia meno di 10 secondi a 23 °C / 230 V
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076PSNNDB/?tag=tolees00-21)

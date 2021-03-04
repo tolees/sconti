@@ -28,8 +28,8 @@ average: '49.99'
 
 ℹ️:
 
-- Autonomia in uso: fino a 7 ore
 - Ricevitore Bluetooth USB per giocare in modalità wireless e utilizzare le funzionalità audio e chat del controller
+- Autonomia in uso: fino a 7 ore
 - Portata fino a 7 metri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PBXYYRK/?tag=tolees00-21)

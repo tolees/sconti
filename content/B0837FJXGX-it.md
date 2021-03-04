@@ -29,8 +29,8 @@ average: '17.52'
 ℹ️:
 
 - Personaggi con altri occhi, volti, accessori e capelli
+- Alti 8 cm
 - Pack con due personaggi pinypon new look e due pinypon bebè
 - Con molti accessori
-- Alti 8 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0837FJXGX/?tag=tolees00-21)

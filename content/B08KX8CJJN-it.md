@@ -28,10 +28,10 @@ Puoi trovare [HARIBO Fr!Zzi Mix Novità 2020 Caramelle Morbide Gommose Frizzanti
 
 ℹ️:
 
-- Le originali: le caramelle gommose per eccellenza: uniche, originali, travolgenti, colorate e irresistibilmente gustose!
-- Qualita’: materie prime di prima classe e un controllo meticoloso dell’intero processo di produzione con tecnologia ai massimi livelli: ecco la filosofia haribo!
 - Sciroppo di glucosio, zucchero e destrosio, agenti gelificanti
-- Lunga tradizione: in italia dai primi anni 70 è oggi simbolo di gusto e qualità e conosciuta a livello mondiale
+- Le originali: le caramelle gommose per eccellenza: uniche, originali, travolgenti, colorate e irresistibilmente gustose!
 - Ingredienti: INGREDIENTI e ALLERGENI: sciroppo di glucosio, zucchero e destrosio, oltre che da agenti gelificanti per garantire consistenze differenti, amido e infine coloranti vegetali e alla frutta, aromi, amido e acido citrico; aLLERGENI: glutine e lattosio
+- Lunga tradizione: in italia dai primi anni 70 è oggi simbolo di gusto e qualità e conosciuta a livello mondiale
+- Qualita’: materie prime di prima classe e un controllo meticoloso dell’intero processo di produzione con tecnologia ai massimi livelli: ecco la filosofia haribo!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KX8CJJN/?tag=tolees00-21)
