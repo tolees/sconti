@@ -28,7 +28,7 @@ average: '50.01'
 
 ℹ️:
 
-- 41814
 - CWR
+- 41814
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0055BJBCM/?tag=tolees00-21)

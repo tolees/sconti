@@ -30,7 +30,7 @@ Puoi trovare [Chicco Triciclo Bambini Pellicano  Triciclo Bimba e Bimbo con Mani
 
 - Pedalata libera: rimuovendo il maniglione, il bambino può pedalare in libertà
 - I pedali hanno la forma delle zampine del pellicano
-- Sistema di bloccaggio dello sterzo
 - Con ampio e comodo sellino
+- Sistema di bloccaggio dello sterzo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HYZIPX8/?tag=tolees00-21)

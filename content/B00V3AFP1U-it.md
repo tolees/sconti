@@ -29,8 +29,8 @@ average: '34.9'
 ℹ️:
 
 - Sistema Anti Drip System per evitare la fuoriuscita spontanea di gocce
-- Autospegnimento per una maggiore sicurezza
-- Potente emissione vapore: 45 g/min e con la funzione turbo: 190 g/min
 - Regolazione del vapore su 4 livelli di intensità
+- Potente emissione vapore: 45 g/min e con la funzione turbo: 190 g/min
+- Autospegnimento per una maggiore sicurezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00V3AFP1U/?tag=tolees00-21)

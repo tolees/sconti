@@ -28,10 +28,10 @@ Puoi trovare [Peugeot - Paris Schokolade  u Select  - 22 cm - Pfeffermühle](htt
 
 ℹ️:
 
+- mulino elettrico
 - macinapepe
+- Pepiera
 - Mulino sale
 - Mulino pepe
-- Pepiera
-- mulino elettrico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000RADVJ0/?tag=tolees00-21)

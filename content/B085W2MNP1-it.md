@@ -28,10 +28,10 @@ average: '7.99'
 
 ℹ️:
 
-- Ecologico e trasparente: il dispenser per sapone senza contatto è realizzato in materiale ABS atossico e insapore. Grazie al colore trasparente, è possibile controllare la quantità di residui di sapone in qualsiasi momento. È possibile ricaricare il sapone comodamente e sostituirlo in tempo.
+- Buona tollerabilità: il dispenser di sapone in schiuma è adatto a tutti i tipi di liquidi di sapone come sapone per le mani, shampoo, gel doccia, detergente, anche per lozioni mani o corpo e disinfettanti. Si consiglia luso di liquidi che generano leggermente schiuma e diluire il liquido con acqua in rapporto 1: 4 o 1: 5.
 - 1 anno di garanzia: Ordina ora! Riceverete 1 anno di garanzia sul servizio di ricambio. Se avete problemi, non esitate a contattarci.
 - Dispenser di sapone automatico: il nostro prodotto è dotato di un sensore a infrarossi super-infrarossi, che non deve essere premuto a mano. È possibile ottenere il sapone automaticamente quando si mette la mano sotto il sensore. Riduce efficacemente il rischio di contatto con batteri ed evita infezioni incrociate.
 - Ampiamente utilizzato: la base del dispenser di sapone è antiscivolo, impermeabile e progettato per luso in ambienti umidi. È adatto per la vostra famiglia, il bagno, la cucina, il lavandino, il caffè, l’ufficio, la scuola, l’hotel e il ristorante.
-- Buona tollerabilità: il dispenser di sapone in schiuma è adatto a tutti i tipi di liquidi di sapone come sapone per le mani, shampoo, gel doccia, detergente, anche per lozioni mani o corpo e disinfettanti. Si consiglia luso di liquidi che generano leggermente schiuma e diluire il liquido con acqua in rapporto 1: 4 o 1: 5.
+- Ecologico e trasparente: il dispenser per sapone senza contatto è realizzato in materiale ABS atossico e insapore. Grazie al colore trasparente, è possibile controllare la quantità di residui di sapone in qualsiasi momento. È possibile ricaricare il sapone comodamente e sostituirlo in tempo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085W2MNP1/?tag=tolees00-21)

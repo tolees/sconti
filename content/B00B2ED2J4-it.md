@@ -28,9 +28,9 @@ Puoi trovare [Herschel 10066-00006 Retreat Grey/Tan Synthetic Leather](https://w
 
 ℹ️:
 
-- Dimensioni: l 30,48xl 15,24xa 43,18 (cm) 19.5l
-- Fodera in tessuto a righe firmato
 - Zaino
+- Fodera in tessuto a righe firmato
 - Tasca laterale interna, tracolle contornate
+- Dimensioni: l 30,48xl 15,24xa 43,18 (cm) 19.5l
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B2ED2J4/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '16.9'
 
 ℹ️:
 
+- Corpo esterno e impugnatura supplementare in materiale plastico antiurto
 - Supporto antistrappo per cavo elettrico
+- Guida a due mani grazie all’impugnatura supplementare
 - Tagli a doppio filo
 - Robusto motore elettrico
-- Corpo esterno e impugnatura supplementare in materiale plastico antiurto
-- Guida a due mani grazie all’impugnatura supplementare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MU7LLJF/?tag=tolees00-21)
