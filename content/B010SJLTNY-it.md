@@ -28,10 +28,10 @@ Puoi trovare [BLACK+DECKER KS801SEK-QS Seghetto Alternativo AUTOSELECT ad Azione
 
 ℹ️:
 
+- Potenza 550w - velocità variabile 1.500-3.000 corse/min - autoselect
+- Contenuto confezione: seghetto alternativo 550W, 1 lama per taglio legno, 1 protezione antischegge, valigetta
 - Max capacità di taglio: alluminio 15mm, acciaio 5mm, legno 80mm
 - Attacco rapido della lama - soffiaggio ed estrazione della polvere
 - Azione pendolare - taglio inclinato 22.5° & 45°
-- Potenza 550w - velocità variabile 1.500-3.000 corse/min - autoselect
-- Contenuto confezione: seghetto alternativo 550W, 1 lama per taglio legno, 1 protezione antischegge, valigetta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B010SJLTNY/?tag=tolees00-21)

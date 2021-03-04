@@ -28,9 +28,9 @@ average: '16.3303636363637'
 
 ℹ️:
 
-- Gioco elettronico, manuale di istruzioni
 - Grande alfabetiere touch
 - con le lettere smerigliate: lettere e parole, suoni e filastrocche, quiz
 - Vista, tatto, udito
+- Gioco elettronico, manuale di istruzioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084MY5WLJ/?tag=tolees00-21)

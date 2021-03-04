@@ -28,8 +28,8 @@ average: '19.796'
 
 ℹ️:
 
-- Bandierina Tommy Hilfiger ricamata sulla manica
 - Logo Tommy Hilfiger sul davanti
 - Nastro iconico allinterno del collo
+- Bandierina Tommy Hilfiger ricamata sulla manica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZEMK3T/?tag=tolees00-21)
