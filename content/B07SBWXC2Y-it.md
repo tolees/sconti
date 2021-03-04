@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment - Cyberpunk 2 al 29.99 % di sconto'
-date: 2021-02-20 23:12:20
-image: 'https://m.media-amazon.com/images/I/51oojh9ERhL._SL200_.jpg'
+date: 2021-03-04 11:11:59
+image: 'https://m.media-amazon.com/images/I/51oojh9ERhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇮🇹'
 brand: 'BANDAI NAMCO Entertainment'
 buyurl: 'https://www.amazon.it/dp/B07SBWXC2Y/?tag=tolees00-21'
 descuento: '29.99'
-average: '59.7721739130434'
+average: '58.9104'
 ---
 
 Puoi trovare [BANDAI NAMCO Entertainment - Cyberpunk 2077 D1 Edition - Day-One - Xbox One](https://www.amazon.it/dp/B07SBWXC2Y/?tag=tolees00-21) con il prezzo 49.0 EUR (originale: 69.99 EUR) 29.99 % sconto qui:
 
-[![BANDAI NAMCO Entertainment - Cyberpunk 2](https://m.media-amazon.com/images/I/51oojh9ERhL._SL200_.jpg)](https://www.amazon.it/dp/B07SBWXC2Y/?tag=tolees00-21)
+[![BANDAI NAMCO Entertainment - Cyberpunk 2](https://m.media-amazon.com/images/I/51oojh9ERhL._SL400_.jpg)](https://www.amazon.it/dp/B07SBWXC2Y/?tag=tolees00-21)
 
 ℹ️:
 
-- Diventa un cyberpunk, un mercenario urbano dotato di potenziamenti cibernetici, e crea la tua leggenda sulle strade di Night City.
-- Accetta il lavoro più rischioso della tua vita e dai la caccia al prototipo di un impianto in grado di conferire limmortalità.
-- Bonus digitali inclusi nella D1 Edition: colonna sonora del gioco, libretto digitale con una selezione di bozzetti del gioco, manuale di cyberpunk 2020, sfondi per desktop e dispositivi Mobile; - fumetto digitale cyberpunk 2077: la tua voce
 - Entra nellimmenso mondo aperto di Night City, un luogo che definisce nuovi standard in termini di grafica, complessità e profondità.
+- Accetta il lavoro più rischioso della tua vita e dai la caccia al prototipo di un impianto in grado di conferire limmortalità.
+- Diventa un cyberpunk, un mercenario urbano dotato di potenziamenti cibernetici, e crea la tua leggenda sulle strade di Night City.
+- Bonus digitali inclusi nella D1 Edition: colonna sonora del gioco, libretto digitale con una selezione di bozzetti del gioco, manuale di cyberpunk 2020, sfondi per desktop e dispositivi Mobile; - fumetto digitale cyberpunk 2077: la tua voce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SBWXC2Y/?tag=tolees00-21)

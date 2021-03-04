@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'sconto del 21.26 % su Flybiz Adattatore WiFi 1200Mpbs  Adattat  '
-date: 2021-02-20 23:10:24
-image: 'https://m.media-amazon.com/images/I/41TrFMVjopL._SL200_.jpg'
+title: 'sconto del 18.70 % su Flybiz Adattatore WiFi 1200Mpbs  Adattat  '
+date: 2021-03-04 11:04:26
+image: 'https://m.media-amazon.com/images/I/41TrFMVjopL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07S23DBBY-it Flybiz Adattatore WiFi 1200Mpbs Adattatore USB 3.0 WiFi...'
 sku: 'B07S23DBBY-it'
 tags: [  ]
-actualPrice: 12.59 EUR
+actualPrice: 13.0 EUR
 currency: EUR
-price: 12.59
+price: 13.0
 comparePrice: 15.99 EUR
 prodname: 'Flybiz Adattatore WiFi 1200Mpbs  Adattatore USB 3.0 WiFi  Dual Band Wireless Adapter WiFi con Antenna 5dBi  300Mbps/2.4GHZ  867Mbps/5.8GHZ  802.11ac  per Windows XP/Vista/7/8/10  Linx2.6X; Mac OS X'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Flybiz'
 buyurl: 'https://www.amazon.it/dp/B07S23DBBY/?tag=tolees00-21'
-descuento: '21.26'
-average: '13.61'
+descuento: '18.70'
+average: '14.5156249999999'
 ---
 
-[Flybiz Adattatore WiFi 1200Mpbs  Adattatore USB 3.0 WiFi  Dual Band Wireless Adapter WiFi con Antenna 5dBi  300Mbps/2.4GHZ  867Mbps/5.8GHZ  802.11ac  per Windows XP/Vista/7/8/10  Linx2.6X; Mac OS X](https://www.amazon.it/dp/B07S23DBBY/?tag=tolees00-21) ha un prezzo di 12.59 EUR (originale: 15.99 EUR) con uno sconto del 21.26 % sconto qui:
+[Flybiz Adattatore WiFi 1200Mpbs  Adattatore USB 3.0 WiFi  Dual Band Wireless Adapter WiFi con Antenna 5dBi  300Mbps/2.4GHZ  867Mbps/5.8GHZ  802.11ac  per Windows XP/Vista/7/8/10  Linx2.6X; Mac OS X](https://www.amazon.it/dp/B07S23DBBY/?tag=tolees00-21) ha un prezzo di 13.0 EUR (originale: 15.99 EUR) con uno sconto del 18.70 % sconto qui:
 
-[![Flybiz Adattatore WiFi 1200Mpbs  Adattat](https://m.media-amazon.com/images/I/41TrFMVjopL._SL200_.jpg)](https://www.amazon.it/dp/B07S23DBBY/?tag=tolees00-21)
+[![Flybiz Adattatore WiFi 1200Mpbs  Adattat](https://m.media-amazon.com/images/I/41TrFMVjopL._SL400_.jpg)](https://www.amazon.it/dp/B07S23DBBY/?tag=tolees00-21)
 
 ℹ️:
 
