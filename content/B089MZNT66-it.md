@@ -28,10 +28,10 @@ Puoi trovare [Bialetti New Moka Induction Caffettiera Adatta all Induzione  2 Ta
 
 ℹ️:
 
-- Try it with perfect ground coffee Moka Bialetti
-- 2 cup coffee maker (90 ml coffee)
-- Like the coffee of the classic Moka: the aluminium binder, the material of which the classic Moka is made, combined with the bi-layer boiler ensures a coffee and pleasant as the coffee prepared with the traditional Moka
 - Bi-layer technology for perfect coffee: the outer steel layer of the boiler ensures operation even on induction hobs, while the internal aluminum layer ensures even heat distribution
+- 2 cup coffee maker (90 ml coffee)
 - Moka Induction Coffee Maker suitable for induction (suitable for all hobs)
+- Try it with perfect ground coffee Moka Bialetti
+- Like the coffee of the classic Moka: the aluminium binder, the material of which the classic Moka is made, combined with the bi-layer boiler ensures a coffee and pleasant as the coffee prepared with the traditional Moka
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089MZNT66/?tag=tolees00-21)

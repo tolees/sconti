@@ -28,11 +28,11 @@ average: '239.99'
 
 ℹ️:
 
-- Attacco Vesa 100x100, dimensioni con stand: 688.1 x 209.4 x 406.6 mm
-- Monitor 29" UltraWide 21:9, Wide Full HD 2560x1080, Flicker Safe, Anti Glare
-- Connessioni: 2x HMDI, 1x Display Port 1.4, uscita audio (Jack)
 - Pannello IPS per una visione ottimale da qualsiasi angolazione (16.7M colori - sRGB 99%)
+- Connessioni: 2x HMDI, 1x Display Port 1.4, uscita audio (Jack)
+- Attacco Vesa 100x100, dimensioni con stand: 688.1 x 209.4 x 406.6 mm
 - Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light), Speaker Stereo 14Watt
+- Monitor 29" UltraWide 21:9, Wide Full HD 2560x1080, Flicker Safe, Anti Glare
 - HDR 10 (High Dynamic Range), 250 cd/m2, colore Calibrato
 - Radeon FreeSync 75Hz, Black Stabilizer, Dynamic Action Sync (DAS), Crosshair, Tempo di Risposta 5ms
 
