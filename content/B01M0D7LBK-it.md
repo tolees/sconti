@@ -28,7 +28,7 @@ average: '36.0'
 
 ℹ️:
 
-- Peso leggero.
 - Suola flessibile
+- Peso leggero.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0D7LBK/?tag=tolees00-21)

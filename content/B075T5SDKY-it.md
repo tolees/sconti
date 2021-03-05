@@ -28,9 +28,9 @@ average: '16.7993706293707'
 
 ℹ️:
 
-- Dispone dell inchiostro Energel per un comfort di scrittura e un asciugatura rapida
-- Roller gel elegante Energel bl2007
 - Corpo opaco nero, anello e clip in metallo.
+- Roller gel elegante Energel bl2007
+- Dispone dell inchiostro Energel per un comfort di scrittura e un asciugatura rapida
 - Punta media 0,7 mm, inchiostro nero
 - Consegnato sotto cofanetto
 

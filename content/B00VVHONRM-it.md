@@ -28,11 +28,11 @@ Puoi trovare [TP-Link TL-WR940N Router Ethernet Wi-Fi N450 Mbps a 2.4 GHz  5 10/
 
 ℹ️:
 
-- Tre antenne wireless per incrementare la robustezza e la stabilità della rete wireless
 - Facile configurazione della crittografia di sicurezza wireless semplicemente premendo il tasto WPS
-- Frequenza: 2.4-2.4835 GHz
 - Controllo della larghezza di banda sulla base dellIP che consente agli amministratori di rete di determinare la quantità di banda assegnata a ciascun PC
 - Attenzione: verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP
+- Tre antenne wireless per incrementare la robustezza e la stabilità della rete wireless
+- Frequenza: 2.4-2.4835 GHz
 - Modalità wireless: Router Mode, Range Extender, Access Point Mode
 - Il prodotto non ha funzione modem
 - Velocità wireless di 450 Mbps, ottimale per le applicazioni sensibili alle interruzioni come lo streaming video HD

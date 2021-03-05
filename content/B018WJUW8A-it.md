@@ -28,9 +28,9 @@ Puoi trovare [Manfrotto MB BP-D1 Zaino per Droni ed Accessori  Nero](https://www
 
 ℹ️:
 
-- Trasporta un drone con i controlli remoti e tutti gli accessori
-- Vano superiore per fotocamera DSLR con obiettivo zoom montato
 - Tasca dedicata a laptop e tablet
 - Attacco esterno per drone con eliche montate
+- Trasporta un drone con i controlli remoti e tutti gli accessori
+- Vano superiore per fotocamera DSLR con obiettivo zoom montato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018WJUW8A/?tag=tolees00-21)

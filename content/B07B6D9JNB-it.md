@@ -28,7 +28,7 @@ average: '18.7228089887638'
 
 ℹ️:
 
-- misto cotone.
 - Felpa con logo.
+- misto cotone.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B6D9JNB/?tag=tolees00-21)
