@@ -28,8 +28,8 @@ average: '9.88609302325581'
 
 ℹ️:
 
-- Non adatto ai bambini di età inferiore ai 36 mesi
 - Più di 60 giochi in un’unica confezione
+- Non adatto ai bambini di età inferiore ai 36 mesi
 - Batterie non necessarie
 - Ottimi per tutta la famiglia
 - Conforme alle normative sulla sicurezza

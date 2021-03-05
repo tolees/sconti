@@ -28,10 +28,10 @@ average: '16.74'
 
 ℹ️:
 
-- Bb-8 e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Scopri tutte le altre statuine disney star wars di funko e collezionale tutte
 - Disney star wars
-- Uniconica statuina funko pop vinyl della serie star wars the rise of skywalker
 - Bb-8.
+- Uniconica statuina funko pop vinyl della serie star wars the rise of skywalker
+- Bb-8 e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QSBWR95/?tag=tolees00-21)

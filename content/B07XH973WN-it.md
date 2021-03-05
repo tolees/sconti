@@ -28,10 +28,10 @@ average: '27.9777777777778'
 
 ℹ️:
 
-- Include tanti accessori
 - Include poliziotto e ladro alti 7 cm
-- Mix & Match; parti ed accessori del corpo removibili per creare una collezione infinita
 - La stazione di polizia su 3 piani
 - Ha luci ed allarmi sonori; tanti ambienti di gioco: dal laboratorio alla tana del supereroe, ma anche molte trappole per catturare i cattivi
+- Mix & Match; parti ed accessori del corpo removibili per creare una collezione infinita
+- Include tanti accessori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XH973WN/?tag=tolees00-21)
