@@ -28,10 +28,10 @@ Puoi trovare [Gezimetie Joystick PS3  Bluetooth Controller con cavo di caricabat
 
 ℹ️:
 
-- 【Double Vibrazione doppia incorporata】i due motori elettrici rendono il gioco più realistico, che nei controller vibra quando si slitta o viene sparato per rendere il gioco eccitante ed elettrizzante. Rilassati ogni colpo, incidente ed esplosione con la doppia vibrazione vibrante della mano.
-- 【Compatibile con la console PS3】 Compatibile con la console Sony Playstation 3. Controller di terze parti, realizzato da una società di terze parti Gezimetie Brand,non prodotto da Sony.
 - 【Prestazioni elevate】Batteria ricaricabile di grande capacità incorporata nel controller Playstation 3. Questo controller PS3 può eseguire fino a 8 ore di gioco continuo. NOTA: non utilizzare il caricatore del cellulare per caricarlo, poiché la tensione del cellulare è molto più alta, potrebbe danneggiare il controller.
+- 【Double Vibrazione doppia incorporata】i due motori elettrici rendono il gioco più realistico, che nei controller vibra quando si slitta o viene sparato per rendere il gioco eccitante ed elettrizzante. Rilassati ogni colpo, incidente ed esplosione con la doppia vibrazione vibrante della mano.
 - 【Connessione senza fili】La connessione Bluetooth elimina eventuali ritardi e ritardi, Controller wireless Bluetooth ad alte prestazioni con 10 metri di distanza wireless. Assicura una connessione stabile senza ritardi e ritardi.Non soffrirai di perdita di dati o interferenze di segnale.
 - 【Design ergonomico】Controller dalla forma perfettamente ergonomica per PS3 che si adatta perfettamente ai palmi, tutti i pulsanti e i controlli rendono la tua mano molto confortevole per lunghi periodi di gioco.Deve essere una grande sorpresa quando i tuoi figli o i tuoi amici ricevono questi bellissimi controller.
+- 【Compatibile con la console PS3】 Compatibile con la console Sony Playstation 3. Controller di terze parti, realizzato da una società di terze parti Gezimetie Brand,non prodotto da Sony.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Q7HK8FN/?tag=tolees00-21)
