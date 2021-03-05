@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 19.98 % su Sylvanian Families - 5316 - Asilo Nido  '
-date: 2021-03-04 10:51:28
+date: 2021-03-05 18:56:12
 image: 'https://m.media-amazon.com/images/I/51OabBNLdWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.it/dp/B07CVKM1WJ/?tag=tolees00-21'
 descuento: '19.98'
-average: '35.7314788732392'
+average: '35.6463194444442'
 ---
 
 [Sylvanian Families - 5316 - Asilo Nido](https://www.amazon.it/dp/B07CVKM1WJ/?tag=tolees00-21) ha un prezzo di 29.6 EUR (originale: 36.99 EUR) con uno sconto del 19.98 % sconto qui:
