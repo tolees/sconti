@@ -29,7 +29,7 @@ Puoi trovare [New Balance 500  Scarpe Sportive Uomo  Bianco  Munsell White/Eclip
 ℹ️:
 
 - Tipo di chiusura: stringata
-- Materiale suola: gomma
 - Materiale esterno: sintetico
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ4XBJ6/?tag=tolees00-21)

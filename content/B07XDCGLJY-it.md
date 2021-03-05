@@ -28,7 +28,7 @@ average: '26.4925454545453'
 
 ℹ️:
 
-- Dcl the game è stato creato studiando il comportamento di volo dei droni nella realtà
 - Quattro modalità di volo distinte
+- Dcl the game è stato creato studiando il comportamento di volo dei droni nella realtà
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21)
