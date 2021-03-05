@@ -29,9 +29,9 @@ average: '44.9'
 ℹ️:
 
 - Maniglia di trasporto
-- Filtro lavabile
-- Raggio dazione: 5 m
 - Spazzola per pavimenti e tappeti
+- Filtro lavabile
 - Leggera e maneggevole
+- Raggio dazione: 5 m
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06VSV1SS1/?tag=tolees00-21)

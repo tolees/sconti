@@ -28,11 +28,11 @@ average: '5.87'
 
 ℹ️:
 
-- Soluzione disinfettante concentrata
-- Prodotto in Italia
-- Concentrato
-- 1000 ml
-- Indicato per la disinfezione di frutta e verdura e per gli oggetti del neonato
 - Clorossidante elettrolitico
+- Concentrato
+- Soluzione disinfettante concentrata
+- 1000 ml
+- Prodotto in Italia
+- Indicato per la disinfezione di frutta e verdura e per gli oggetti del neonato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007IFNYYE/?tag=tolees00-21)
