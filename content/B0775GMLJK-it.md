@@ -28,7 +28,7 @@ average: '28.69'
 
 ℹ️:
 
-- Logo del marchio Nationalx.
 - Maglietta a maniche corte con girocollo.
+- Logo del marchio Nationalx.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0775GMLJK/?tag=tolees00-21)
