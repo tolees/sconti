@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.02 % su TP-Link Lampadina WiFi Intelligente LED   '
-date: 2021-02-27 18:12:57
+date: 2021-03-04 23:10:06
 image: 'https://m.media-amazon.com/images/I/31yPUui36xL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,11 +29,11 @@ average: '10.49'
 ℹ️:
 
 - Modalità Assente – Simula automaticamente che qualcuno sia a casa per spaventare i visitatori indesiderati
-- Controllo da remoto – Controlla le tue luci ovunque tu sia, tramite lapp gratuita tapo(ios, android) per smartphone e tablet
-- Senza hub richiesto – Collega la luce L530E al Wi-Fi di casa, quindi sei pronto
 - Controllo vocale – Funziona con alexa e google assistant per liberare le mani. "alexa, accendi la luce" o "ok google, oscura le luci della mia camera"
+- Controllo da remoto – Controlla le tue luci ovunque tu sia, tramite lapp gratuita tapo(ios, android) per smartphone e tablet
 - Consumo energetico classe a+ – la lampadina smart è progettata per ridurre i consumi energetici pur mantenendo sempre il massimo delle prestazioni
-- Scenari e programmazione – Crea programmi da accendere / spegnere con la luminosità / il colore che hai impostato
 - Multicolore – Progetta facilmente scenari per la tua routine o attività quotidiana personalizzando luminosità, temperatura della luce e colori, con 16.000.000 di tonalità tra cui scegliere
+- Scenari e programmazione – Crea programmi da accendere / spegnere con la luminosità / il colore che hai impostato
+- Senza hub richiesto – Collega la luce L530E al Wi-Fi di casa, quindi sei pronto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GDC99PX/?tag=tolees00-21)

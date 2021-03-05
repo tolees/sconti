@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 38.82 % su Lacoste Lerond BL 1 Cam  Sneaker Uomo  B  '
-date: 2021-02-27 04:55:08
+date: 2021-03-04 23:28:55
 image: 'https://m.media-amazon.com/images/I/31qz6VCvOJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ average: '52.0'
 ℹ️:
 
 - Materiale suola: gomma
-- Fodera: tessuto
 - Chiusura: stringata
+- Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NAKBOL7/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-SF1005D Switch Desktop  5 Por al 46.19 % di sconto'
-date: 2021-02-27 04:56:45
+date: 2021-03-04 23:23:51
 image: 'https://m.media-amazon.com/images/I/31DRzr1MWGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21'
 descuento: '46.19'
-average: '6.98861538461541'
+average: '6.9886259541985'
 ---
 
 Puoi trovare [TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug & Play](https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21) con il prezzo 6.99 EUR (originale: 12.99 EUR) 46.19 % sconto qui:
@@ -29,9 +29,9 @@ Puoi trovare [TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug 
 ℹ️:
 
 - Controllo di flusso IEEE 802.3x per un trasferimento dati affidabile
-- Telaio in plastica, predisposto per linstallazione su scrivania
-- Nessuna configurazione richiesta
 - Con auto-negoziazione, supporta auto MDI/MDIX
+- Nessuna configurazione richiesta
+- Telaio in plastica, predisposto per linstallazione su scrivania
 - ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21)

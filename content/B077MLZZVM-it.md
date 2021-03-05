@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 15.94 % su PUMA Smash v2 L  Scarpe da Ginnastica Un  '
-date: 2021-02-16 07:47:05
-image: 'https://m.media-amazon.com/images/I/41pvb4b-LAL._SL200_.jpg'
+date: 2021-03-04 23:13:21
+image: 'https://m.media-amazon.com/images/I/41pvb4b-LAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇮🇹'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.it/dp/B077MLZZVM/?tag=tolees00-21'
 descuento: '15.94'
-average: '38.9933333333334'
+average: '39.293'
 ---
 
 [PUMA Smash v2 L  Scarpe da Ginnastica Unisex-Adulto  Nero Black Black  43 EU](https://www.amazon.it/dp/B077MLZZVM/?tag=tolees00-21) ha un prezzo di 41.99 EUR (originale: 49.95 EUR) con uno sconto del 15.94 % sconto qui:
 
-[![PUMA Smash v2 L  Scarpe da Ginnastica Un](https://m.media-amazon.com/images/I/41pvb4b-LAL._SL200_.jpg)](https://www.amazon.it/dp/B077MLZZVM/?tag=tolees00-21)
+[![PUMA Smash v2 L  Scarpe da Ginnastica Un](https://m.media-amazon.com/images/I/41pvb4b-LAL._SL400_.jpg)](https://www.amazon.it/dp/B077MLZZVM/?tag=tolees00-21)
 
 ℹ️:
 
 - Le calzature di puma sono la perfetta alternativa sportiva ad ogni look nel tempo libero; per calcio, pallavolo, fitness o altri sport: queste scarpe sportive migliorano sempre la performance
+- Materiale esterno: pelle
 - Materiale suola: gomma
 - Fodera: maglia
-- Materiale esterno: pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077MLZZVM/?tag=tolees00-21)
