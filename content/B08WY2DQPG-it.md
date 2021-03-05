@@ -28,8 +28,8 @@ Puoi trovare [WARNER BROS - Tenet V2  4K Ultra HD + Blu Ray ](https://www.amazon
 
 ℹ️:
 
-- azione
 - Azione, fantascienza, thriller
+- azione
 - Christopher Nolan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WY2DQPG/?tag=tolees00-21)

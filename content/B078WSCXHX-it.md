@@ -28,10 +28,10 @@ Puoi trovare [Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi-Res Audio  Dolby Vision  
 
 ℹ️:
 
-- 5 W (in funzione), 0,35 W (in standby)
 - Servizi streaming 4K
+- Blu-ray Disc, con Dolby Vision
 - Funzioni Blocco di sicurezza per bambini, BRAVIA Sync, Controllo genitori, Spegnimento automatico (Stand-by automatico)
 - Connettività Wireless Multi-room
-- Blu-ray Disc, con Dolby Vision
+- 5 W (in funzione), 0,35 W (in standby)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21)

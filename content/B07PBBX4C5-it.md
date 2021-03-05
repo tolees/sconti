@@ -28,10 +28,10 @@ average: '14.206'
 
 ℹ️:
 
-- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
-- Uniconica statuina funko pop! vinyl della serie harry potter
 - Harry potter s7 - harry potter (yule)
-- Funko pop
 - Pop! vinile harry potter s7 - harry potter (yule)
+- Uniconica statuina funko pop! vinyl della serie harry potter
+- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Funko pop
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PBBX4C5/?tag=tolees00-21)

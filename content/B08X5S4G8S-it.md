@@ -28,9 +28,9 @@ Puoi trovare [Mario Golf: Super Rush  Nintendo Switch ](https://www.amazon.it/dp
 
 ℹ️:
 
-- Proprio come nella realtà, dovrai studiare il vento e il terreno, ma puoi anche contare su comode funzioni per realizzare colpi da maestro
-- Scegli se giocare con i pulsanti o con i comandi di movimento, Impugnando il controller joy-con come se fosse una Mazza
 - Puoi anche giocare in multiplayer insieme a un massimo di altri tre giocatori, sia in locale sia online
 - Unisciti ai tuoi personaggi preferiti del regno dei Funghi e dai il via ad avvincenti partite su campi immersi nella natura.
+- Scegli se giocare con i pulsanti o con i comandi di movimento, Impugnando il controller joy-con come se fosse una Mazza
+- Proprio come nella realtà, dovrai studiare il vento e il terreno, ma puoi anche contare su comode funzioni per realizzare colpi da maestro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08X5S4G8S/?tag=tolees00-21)

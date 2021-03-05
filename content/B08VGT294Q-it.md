@@ -28,10 +28,10 @@ Puoi trovare [eXtremeRate Tasti Ricambio per DualSense PS5 Controller Trigger R1
 
 ℹ️:
 
-- Unique replacement buttons to add much more personality to your PS5, making your controller stand out in the crowd
-- Required customers to take apart the controller to replace these full set buttons; Required customers handy with controller installation; Get installation video guide on Youtube by searching “Extremerate PS5 Controller Buttons”
 - Custom replacement buttons are specially designed for PS5 Controller. Precision cut to work exactly like the original buttons
-- Made of premium ABS material, durable and practical. A variety of colors are available, you can combine eXtremeRate decorative shell and touchpad to customize your PS5 controller
 - Package includes: 1*Direction pad, 1* Action buttons set, 1* R1 L1 R2 L2 triggers, 1* Share Options buttons, 1* PH00 screwdriver, 1* Open shell tool, 24* screws (The controller, thumbstick and other parts are not included.)
+- Required customers to take apart the controller to replace these full set buttons; Required customers handy with controller installation; Get installation video guide on Youtube by searching “Extremerate PS5 Controller Buttons”
+- Made of premium ABS material, durable and practical. A variety of colors are available, you can combine eXtremeRate decorative shell and touchpad to customize your PS5 controller
+- Unique replacement buttons to add much more personality to your PS5, making your controller stand out in the crowd
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VGT294Q/?tag=tolees00-21)
