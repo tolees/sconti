@@ -28,8 +28,8 @@ Puoi trovare [Square Enix - Hitman 3  Free Upgrade PlayStation 5  - PlayStation 
 
 ℹ️:
 
-- Una volta completato il contratto da solo, Sfida gli amici a competere per il miglior punteggio nelle classifiche
 - I bersagli esclusivi sono la sfida definitiva di Hitman, progettati per offrire unesperienza emozionante e al cardiopalma
 - La modalità campagna ti porterà in unavventura in giro per il mondo in vaste località sandbox
+- Una volta completato il contratto da solo, Sfida gli amici a competere per il miglior punteggio nelle classifiche
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LFNLRSC/?tag=tolees00-21)

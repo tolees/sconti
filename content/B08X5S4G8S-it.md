@@ -28,8 +28,8 @@ Puoi trovare [Mario Golf: Super Rush  Nintendo Switch ](https://www.amazon.it/dp
 
 ℹ️:
 
-- Puoi anche giocare in multiplayer insieme a un massimo di altri tre giocatori, sia in locale sia online
 - Unisciti ai tuoi personaggi preferiti del regno dei Funghi e dai il via ad avvincenti partite su campi immersi nella natura.
+- Puoi anche giocare in multiplayer insieme a un massimo di altri tre giocatori, sia in locale sia online
 - Scegli se giocare con i pulsanti o con i comandi di movimento, Impugnando il controller joy-con come se fosse una Mazza
 - Proprio come nella realtà, dovrai studiare il vento e il terreno, ma puoi anche contare su comode funzioni per realizzare colpi da maestro
 

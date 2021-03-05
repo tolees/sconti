@@ -28,7 +28,7 @@ Puoi trovare [ACTIVISION - Crash Bandicoot 4 - It s About Time - Xbox One](https
 
 ℹ️:
 
-- Il nuovissimo gioco di Crash Bandicoot! Parti per unavventura oltre i confini del tempo in compagnia dei tuoi marsupiali preferiti.
 - Neo cortex e n. Tropy sono tornati e questa volta non hanno preso di mira solo questo universo, ma lintero Multiverso!
+- Il nuovissimo gioco di Crash Bandicoot! Parti per unavventura oltre i confini del tempo in compagnia dei tuoi marsupiali preferiti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BPSP6CY/?tag=tolees00-21)
