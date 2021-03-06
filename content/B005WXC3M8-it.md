@@ -28,10 +28,10 @@ Puoi trovare [Pentole Agnelli ALMA15030 Rostiera Rettangolare Alta con Maniglie 
 
 ℹ️:
 
-- Altezza 7 cm
-- Conducibilità termica: 225 W/m°K
-- Alluminio professionale 3 mm
 - Peso specifico: 2,7 kg/dm3
+- Altezza 7 cm
 - Rostiera rettangolare alta con maniglie snodate
+- Alluminio professionale 3 mm
+- Conducibilità termica: 225 W/m°K
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005WXC3M8/?tag=tolees00-21)
