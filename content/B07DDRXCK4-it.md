@@ -28,7 +28,7 @@ Puoi trovare [Only Onlvida Faux Fur Jacket Otw Giacca  Nero  Black   46  Taglia 
 
 ℹ️:
 
-- Faux fur jacket with zipper
 - Faux fur jacket with standing collar
+- Faux fur jacket with zipper
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DDRXCK4/?tag=tolees00-21)

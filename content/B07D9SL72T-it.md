@@ -28,8 +28,8 @@ Puoi trovare [adidas SAMBAROSE W  Scarpe da Fitness Donna  Bianco  Ftwbla/Negbá
 
 ℹ️:
 
-- Suola platform aggiunge 3 cm di altezza
-- Tomaia in pelle
 - Scarpe sportive
+- Tomaia in pelle
+- Suola platform aggiunge 3 cm di altezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D9SL72T/?tag=tolees00-21)
