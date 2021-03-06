@@ -30,8 +30,8 @@ average: '59.49'
 
 - Tomaia in pelle
 - Marca: Nike
-- Unammortizzazione leggera
 - Lintersuola in schiuma di phylon
 - Una suola in gomma
+- Unammortizzazione leggera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004QH89OC/?tag=tolees00-21)
