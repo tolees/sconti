@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- La lonza di Duroc è fatta con ingredienti naturali: carne magra di maiale, paprica La Vera, aglio e sale. La lonza Duroc è il risultato di un lungo e lento processo di stagionatura, maturato gradualmente fino a raggiungere il suo peculiare colore rosa, il delicato aroma e il gusto leggermente salato. Ha una consistenza solida, omogenea e compatta al tatto.
 - Il prosciutto serrano spagnolo stagionato è un prodotto elaborato a partire dalle parti migliori del maiale, che vengono selezionate per ottenere un prodotto completamente naturale dopo il processo di salatura e stagionatura e, di conseguenza, laroma e il sapore migliore.
 - La Chorizo (salsiccia) è elaborata con ingredienti naturali: carne suina magra, paprica spagnola, aglio e sale.
-- La Salchichón (salsiccia) semi cular è una salsiccia di media stagionatura prodotto con carne magra di maiale e condito con sale e pepe. In spagnolo questo prodotto si chiama: Salchichón Serrano Extra.
+- La lonza di Duroc è fatta con ingredienti naturali: carne magra di maiale, paprica La Vera, aglio e sale. La lonza Duroc è il risultato di un lungo e lento processo di stagionatura, maturato gradualmente fino a raggiungere il suo peculiare colore rosa, il delicato aroma e il gusto leggermente salato. Ha una consistenza solida, omogenea e compatta al tatto.
 - Possiede un colore caratteristico che varia dal rosa al rosso porpora nella parte magra e un aspetto brillante del grasso. Presenta un sapore delicato, poco salato, e un aroma piacevole e caratteristico. La sua consistenza è omogenea e poco fibrosa. Include un porta prosciutto e un coltello. In spagnolo questo prodotto si chiama: jamón serrano curado.
+- La Salchichón (salsiccia) semi cular è una salsiccia di media stagionatura prodotto con carne magra di maiale e condito con sale e pepe. In spagnolo questo prodotto si chiama: Salchichón Serrano Extra.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JMCXGN9/?tag=tolees00-21)
