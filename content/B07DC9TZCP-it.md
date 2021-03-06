@@ -29,7 +29,7 @@ average: '49.95'
 ℹ️:
 
 - Scarpe sportive
-- Suola platform aggiunge 3 cm di altezza
 - Tomaia in pelle
+- Suola platform aggiunge 3 cm di altezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DC9TZCP/?tag=tolees00-21)
