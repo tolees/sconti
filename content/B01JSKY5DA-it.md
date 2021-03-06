@@ -29,9 +29,9 @@ average: '424.99'
 ℹ️:
 
 - Fino a 12 programmi di allenamento pre-impostati e modalità START & STOP
+- Motore elettrico da 1,5 hp di potenza continua, velocità regolabile fino a 12 km/h, livello di inclinazione regolabile e sistema richiudibile salvaspazio.
 - Manubri con tasti a scelta rapida collegati al computer di bordo
 - Dotato di cardiofrequenzimetro e display LCD per un costante controllo della frequenza cardiaca, della durata dellallenamento, della distanza percorsa e delle calorie bruciate.
-- Motore elettrico da 1,5 hp di potenza continua, velocità regolabile fino a 12 km/h, livello di inclinazione regolabile e sistema richiudibile salvaspazio.
 - Con 2 Speakers, Porta borraccia e MP3 (cavo AUX incluso nella confezione)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01JSKY5DA/?tag=tolees00-21)
