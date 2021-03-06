@@ -28,10 +28,10 @@ Puoi trovare [Rio Mare - ConGusto Piselli e Tonno  Piatto Pronto da Gustare anch
 
 ℹ️:
 
-- Secondo piatto pronto a base di tonno e piselli preprato secondo lantica ricetta del tonno in umido, dove il dolce sapore dei piselli si lega con quello del tonno
-- Ingredienti: piselli 36%, tonno* 26%, acqua, olio di semi di mais, doppio concentrato di pomodoro, sale, marsala, fecola di patate, senape, aromi naturali di pepe e cipolla, zucchero. * Euthynnus (Katsuwonus) pelamis
-- Rio Mare; qualità responsabile dal mare alla tua tavola
 - Consigli uso: ideale con del riso lessato o insieme a delle uova strapazzate
 - Formato: confezione da 2 lattine da 160 g ciascuna
+- Ingredienti: piselli 36%, tonno* 26%, acqua, olio di semi di mais, doppio concentrato di pomodoro, sale, marsala, fecola di patate, senape, aromi naturali di pepe e cipolla, zucchero. * Euthynnus (Katsuwonus) pelamis
+- Secondo piatto pronto a base di tonno e piselli preprato secondo lantica ricetta del tonno in umido, dove il dolce sapore dei piselli si lega con quello del tonno
+- Rio Mare; qualità responsabile dal mare alla tua tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LWVUR6P/?tag=tolees00-21)

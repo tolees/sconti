@@ -28,10 +28,10 @@ average: '2.99'
 
 ℹ️:
 
-- Formato: confezione da 1 vasetto da 180 g
-- Rio Mare. Qualità Responsabile dal mare alla tua tavola
-- Filetti di tonno lavorati a mano secondo le più antiche tradizioni, conditi con olio extra vergine doliva
-- Consigli uso: ottimali per insalate dal sapore deciso come tonno fagioli e cipolla, realizzate con ingredienti per palati esigenti
 - Ingredienti: filetti di tonno*, olio extra vergine di oliva, sale. * Euthynnus (Katsuwonus) pelamis
+- Rio Mare. Qualità Responsabile dal mare alla tua tavola
+- Formato: confezione da 1 vasetto da 180 g
+- Consigli uso: ottimali per insalate dal sapore deciso come tonno fagioli e cipolla, realizzate con ingredienti per palati esigenti
+- Filetti di tonno lavorati a mano secondo le più antiche tradizioni, conditi con olio extra vergine doliva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LYT9HRX/?tag=tolees00-21)
