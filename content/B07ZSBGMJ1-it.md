@@ -28,10 +28,10 @@ average: '79.99'
 
 ℹ️:
 
-- Modalità cinematografiche professionali dotate: modalità Pan, modalità Lock, modalità Follow e modalità POV. Cambia con facilità e libera la creatività sempre e ovunque. Crea scatti cinematografici con funzioni più avanzate: tracciamento oggetti, panorama, time-lapse, motion-lapse, ecc.
 - Controllo zoom integrato: sono inclusi un dispositivo di scorrimento dello zoom e un joystick a 4 direzioni. Quando è collegato con "ZY App" da ZHIYUN, C11 consente di ingrandire / rimpicciolire istantaneamente la fotocamera del telefono. Puoi controllare perfettamente zoom, panoramica e inclinazione.
+- Modalità cinematografiche professionali dotate: modalità Pan, modalità Lock, modalità Follow e modalità POV. Cambia con facilità e libera la creatività sempre e ovunque. Crea scatti cinematografici con funzioni più avanzate: tracciamento oggetti, panorama, time-lapse, motion-lapse, ecc.
 - Durata della batteria extra-lunga: progettato con batterie integrate da 4000 mAh e una porta USB-A standard, C11 supporta unautonomia fino a 12 ore e può caricare i tuoi dispositivi con una potenza di 5 V / 2 A.
-- Supporto modalità ritratto: passa semplicemente dalla modalità orizzontale a quella verticale per catturare ogni movimento che ti piace. La registrazione di video in diretta può essere più fluida e semplice di prima.
 - Carico utile valido: massimo 200g. Cattura video stabili in movimento: il sistema di stabilizzazione a 3 assi C11 ottimizzato fornisce riprese ultra fluide mentre registri video in movimento.
+- Supporto modalità ritratto: passa semplicemente dalla modalità orizzontale a quella verticale per catturare ogni movimento che ti piace. La registrazione di video in diretta può essere più fluida e semplice di prima.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZSBGMJ1/?tag=tolees00-21)
