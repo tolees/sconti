@@ -28,9 +28,9 @@ average: '21.5466666666667'
 
 ℹ️:
 
-- Child w/ Bag e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
-- Scopri tutte le altre statuine Star Wars di Funko e collezionale tutte!
-- Uniconica statuina Funko Pop! Vinyl della serie The Mandalorian
 - Funko POP! è il giocattolo dellanno 2018!
+- Uniconica statuina Funko Pop! Vinyl della serie The Mandalorian
+- Scopri tutte le altre statuine Star Wars di Funko e collezionale tutte!
+- Child w/ Bag e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087N3XFJY/?tag=tolees00-21)
