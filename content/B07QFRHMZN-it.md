@@ -28,9 +28,9 @@ average: '15.6566666666667'
 
 ℹ️:
 
-- Il set contiene: un mousse doccia, un body scrub esfoliante, una crema corpo, un docciaschiuma ed un agenda
-- Quattro prodotti per prenderti cura di te e della tua pelle
 - Offrono una pelle idratata e fresca
 - Regala una routine di bellezza unica con un quarto di crema idratante e tre quarti di vero amore
+- Il set contiene: un mousse doccia, un body scrub esfoliante, una crema corpo, un docciaschiuma ed un agenda
+- Quattro prodotti per prenderti cura di te e della tua pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QFRHMZN/?tag=tolees00-21)

@@ -29,7 +29,7 @@ Puoi trovare [DC Comics - DC Comic Superman Logo-T-shirt Uomo  Azul Royal  Large
 ℹ️:
 
 - Prodotto ufficiale DC Comics.
-- Materiale: 100% cotone.
 - Stile: maglia da uomo normale.
+- Materiale: 100% cotone.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I95Z2MY/?tag=tolees00-21)
