@@ -28,10 +28,10 @@ average: '33.0444680851064'
 
 ℹ️:
 
+- La minifigure da pilota di Luke Skywalker è una rappresentazione fedele della versione originale del 1999 e include un logo del 20esimo anniversario
+- Questo classico giocattolo da costruzione, una reinterpretazione dello Sguscio di Anakin 7131 del 1999, è un ottimo regalo LEGO Star Wars per i costruttori di ogni età
 - Le armi includono la spada laser blu di Luke Skywalker e il blaster di Padmé
 - Include 3 minifigure LEGO Star Wars: Anakin Skywalker, Padmé Amidala e Luke Skywalker da anniversario nella sua tuta di pilota di X-wing su un espositore staccabile
-- Questo classico giocattolo da costruzione, una reinterpretazione dello Sguscio di Anakin 7131 del 1999, è un ottimo regalo LEGO Star Wars per i costruttori di ogni età
-- La minifigure da pilota di Luke Skywalker è una rappresentazione fedele della versione originale del 1999 e include un logo del 20esimo anniversario
 - Il giocattolo da costruzione LEGO Star Wars è dotato di grandi motori, flap estensibili, una cabina per minifigure apribile e una pratica maniglia di gioco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FNMXK7Z/?tag=tolees00-21)
