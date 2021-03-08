@@ -28,8 +28,8 @@ Puoi trovare [Xiaomi Redmi Note 9T 5G Smartphone  4GB+64GB  6 53” FHD+ DotDisp
 
 ℹ️:
 
-- Supportata da hardware e algoritmi di elaborazione ottimi, la fotocamera principale da 48 MP ti consente di catturare i tuoi ricordi in dettaglio, giorno e notte
 - Il luminoso display offre un ampio campo visivo, permettendoti di guardare comodamente i video o di navigare sui social media
+- Supportata da hardware e algoritmi di elaborazione ottimi, la fotocamera principale da 48 MP ti consente di catturare i tuoi ricordi in dettaglio, giorno e notte
 - La doppia SIM 5G + 5G ti consente di vivere unesperienza 5G completa, sia per il lavoro che per lintrattenimento; Redmi Note 9T include NFC, che consente il pagamento contactless tramite Google Pay
 - La batteria da 5000 mAh (typ) non ti deluderà con le sue 15 ore di navigazione, 18 ore di riproduzione video o 11 ore di gioco
 - Il processore octa-core MediaTek Dimensity 800U supporta le tue esigenze quotidiane, sia che tu stia chattando con gli amici, trasmettendo video in streaming o partecipando a riunioni online
