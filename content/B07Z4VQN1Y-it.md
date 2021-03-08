@@ -28,9 +28,9 @@ average: '138.48'
 
 ℹ️:
 
-- Attenzione alla scelta delle taglie: si prega di fare attenzione alla nostra tabella delle taglie e alle indicazioni per scegliere la taglia giusta.
+- Adatto per: arrampicata, trekking, escursioni in montagna.
 - Categoria: B Trekking e Hiking.
 - Uso consigliato: anche in condizioni difficili, in pendenza.
-- Adatto per: arrampicata, trekking, escursioni in montagna.
+- Attenzione alla scelta delle taglie: si prega di fare attenzione alla nostra tabella delle taglie e alle indicazioni per scegliere la taglia giusta.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z4VQN1Y/?tag=tolees00-21)
