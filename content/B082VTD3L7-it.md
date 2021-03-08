@@ -28,10 +28,10 @@ average: '4.79'
 
 ℹ️:
 
+- Contenuto confezione – Pril Gold Gel Sciogli Grasso in confezione da 2, detersivo lavastoviglie gel con sgrassatore attivo, elimina lo sporco ostinato, 2 x 900 ml
 - Nuovo formato – Il sapone piatti ha unesclusiva bottiglia con doppia camera che permette la combinazione di due formule che garantiscono una forte azione sgrassante.
 - Gel sciogligrasso – Pril lavastoviglie gel con sgrassatore attivo penetra nei residui di sporco ostinato, rimuovendo anche lo sporco bruciato o incrostato.
-- Extra-azione – La formula multifunzione del prodotto lavastoviglie offre un potere pulente completo grazie alle sue 12 azioni: detergente, brillantante, salva vetro, ecc.
 - Rapido ed efficace – Il detersivo piatti in formula gel è efficace anche nei cicli di lavaggio brevi e si dissolve completamente senza lasciare residui sulle stoviglie.
-- Contenuto confezione – Pril Gold Gel Sciogli Grasso in confezione da 2, detersivo lavastoviglie gel con sgrassatore attivo, elimina lo sporco ostinato, 2 x 900 ml
+- Extra-azione – La formula multifunzione del prodotto lavastoviglie offre un potere pulente completo grazie alle sue 12 azioni: detergente, brillantante, salva vetro, ecc.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082VTD3L7/?tag=tolees00-21)
