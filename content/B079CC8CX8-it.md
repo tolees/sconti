@@ -28,9 +28,9 @@ Puoi trovare [JACK & JONES JJECORP Logo Tee SS Crew Neck Noos T-Shirt  Bianco  W
 
 ℹ️:
 
-- Tipo di manica: maniche corte.
 - Maglietta da uomo Jack & Jones.
 - Vestibilità: attillata.
+- Tipo di manica: maniche corte.
 - Scollo: a girocollo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079CC8CX8/?tag=tolees00-21)

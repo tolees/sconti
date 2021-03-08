@@ -30,7 +30,7 @@ average: '4.99'
 
 - Maglietta da uomo Jack & Jones.
 - Tipo di manica: maniche corte.
-- Scollo: a girocollo.
 - Vestibilità: attillata.
+- Scollo: a girocollo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079C79JPK/?tag=tolees00-21)
