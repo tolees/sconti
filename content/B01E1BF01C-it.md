@@ -28,7 +28,7 @@ average: '7.99'
 
 ℹ️:
 
-- Questa t-shirt del marchio Jack & Jones è ridotta allessenziale; il modello è realizzato in un morbido cotone e dotato di un girocollo.
 - Grazie al design minimalista la maglia a maniche corte può essere abbinata a tutto.
+- Questa t-shirt del marchio Jack & Jones è ridotta allessenziale; il modello è realizzato in un morbido cotone e dotato di un girocollo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01E1BF01C/?tag=tolees00-21)

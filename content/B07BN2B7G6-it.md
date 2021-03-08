@@ -28,8 +28,8 @@ Puoi trovare [Vans Ward  Sneaker Uomo  Blu   Canvas  Dress Blues/White Jy3   43 
 
 ℹ️:
 
-- Fodera: tessuto
-- Materiale suola: gomma
 - Materiale esterno: tela
+- Materiale suola: gomma
+- Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BN2B7G6/?tag=tolees00-21)

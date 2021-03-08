@@ -28,7 +28,7 @@ average: '13.99'
 
 ℹ️:
 
-- Blouse with button closure
 - Blouse with all over print
+- Blouse with button closure
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F7PKRN1/?tag=tolees00-21)
