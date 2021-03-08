@@ -28,12 +28,12 @@ average: '86.0'
 
 ℹ️:
 
-- Accessori: Bocchetta per fessure e Lancia flessibile
 - Stato batteria ricarica con luce led
-- Batteria: 22V litio
-- Autonomia: 25 minuti
-- Spazzola motorizzata per tutte le superfici
+- Accessori: Bocchetta per fessure e Lancia flessibile
 - Tecnologia: ciclonica
+- Spazzola motorizzata per tutte le superfici
+- Autonomia: 25 minuti
+- Batteria: 22V litio
 - Scopa Ricaricabile senza filo e senza sacco
 - Capacità del contenitore: 0,7 l
 

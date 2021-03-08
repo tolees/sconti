@@ -28,13 +28,13 @@ average: '38.11'
 
 ℹ️:
 
-- Essse Caffè ha previsto un sistema di illuminazione della bevanda per permetterti di apprezzare al meglio la resa del prodotto durante la fase di erogazione
-- La macchina S.12 ti permette di estrarre il caffè nella modalità che preferisci grazie alla tecnologia ma anche alla griglia progettata per essere disponibile in più altezze
-- La gamma di prodotti in capsula Sistema Espresso è composta da sette differenti blend di caffè e cinque gustose bevande calde
-- La tecnologia della macchina da caffè S.12 è stata studiata per offrire lerogazione ottimale di un espresso a regola darte con un semplice tocco e comodamente da casa tua
-- Il stile e le linee sono stati studiate e ideate da Giugiaro Design: il risultato è una macchina elegante ma dalle linee semplici ed accattivanti
 - La macchina S.12 di Essse Caffè è utilizzabile esclusivamente con capsule Essse Caffè Sistema Espresso
 - Le dimensioni compatte e la disponibilità in tre colori differenti rendono S.12 Essse Caffè la macchina ottima per ogni tipo di ambiente e stile di arredamento
+- La macchina S.12 ti permette di estrarre il caffè nella modalità che preferisci grazie alla tecnologia ma anche alla griglia progettata per essere disponibile in più altezze
 - Componenti inclusi: Depliant avvertenze
+- La gamma di prodotti in capsula Sistema Espresso è composta da sette differenti blend di caffè e cinque gustose bevande calde
+- La tecnologia della macchina da caffè S.12 è stata studiata per offrire lerogazione ottimale di un espresso a regola darte con un semplice tocco e comodamente da casa tua
+- Essse Caffè ha previsto un sistema di illuminazione della bevanda per permetterti di apprezzare al meglio la resa del prodotto durante la fase di erogazione
+- Il stile e le linee sono stati studiate e ideate da Giugiaro Design: il risultato è una macchina elegante ma dalle linee semplici ed accattivanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079K9XW7X/?tag=tolees00-21)

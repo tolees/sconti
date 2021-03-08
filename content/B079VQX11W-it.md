@@ -30,8 +30,8 @@ average: '11.49'
 
 - GIRA PER CREARE: KumiKreator di Cool Maker è unottima macchina per braccialetti, con cui puoi creare facilmente braccialetti dellamicizia senza bisogno di annodarli
 - CREA FINO A 12 BRACCIALETTI: il set moda Kumi di Cool Maker include ciò di cui hai bisogno per creare fino a 12 braccialetti utilizzando la macchina per braccialetti KumiKreator venduta separatamente
-- Include: 52 rocchetti, 6 fermagli, 12 tappi terminali, 1 ciondolo con nappa, 1 base della nappa, 2 fogli adesivi con fibbia, 2 Libretti di design
-- Il set moda Kumi di Cool Maker è un kit per la creazione di gioielli per Cool Maker dagli 8 anni in su; rendi le tue creazioni fai da te e gira per creare ottimi braccialetti dellamicizia
 - 52 ROCCHETTI DI QUALITÀ: i 52 rocchetti di filo pre-caricati del set moda Kumi entrano con facilità in KumiKreator (venduto separatamente)
+- Il set moda Kumi di Cool Maker è un kit per la creazione di gioielli per Cool Maker dagli 8 anni in su; rendi le tue creazioni fai da te e gira per creare ottimi braccialetti dellamicizia
+- Include: 52 rocchetti, 6 fermagli, 12 tappi terminali, 1 ciondolo con nappa, 1 base della nappa, 2 fogli adesivi con fibbia, 2 Libretti di design
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079VQX11W/?tag=tolees00-21)

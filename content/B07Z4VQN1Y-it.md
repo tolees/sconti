@@ -28,8 +28,8 @@ average: '138.48'
 
 ℹ️:
 
-- Adatto per: arrampicata, trekking, escursioni in montagna.
 - Categoria: B Trekking e Hiking.
+- Adatto per: arrampicata, trekking, escursioni in montagna.
 - Uso consigliato: anche in condizioni difficili, in pendenza.
 - Attenzione alla scelta delle taglie: si prega di fare attenzione alla nostra tabella delle taglie e alle indicazioni per scegliere la taglia giusta.
 

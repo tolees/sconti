@@ -30,8 +30,8 @@ average: '90.77'
 
 - Dimensioni 94x28x81,8 cm (L - P -A)
 - questa scrivania ad angolo ti permette di approfittare dello spazio della stanza
-- Montaggio rapido e semplice grazie alle istruzioni complete
 - scrivania angolare con una pratica alzatina portaoggetti, e scaffali ripiani laterali
 - Made in France
+- Montaggio rapido e semplice grazie alle istruzioni complete
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HSD9KDZ/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Aigostar - Campanello Senza Fili  Campanello Wireless Impermeabile
 
 ℹ️:
 
-- 【Facile da installare】: può essere fissato al telaio della porta con viti o con nastro biadesivo e inserire le spine del ricevitore direttamente nella presa.
 - Adatto a tutto: Dotato di diverse opzioni di suoneria, pratico controllo del volume e lunga distanza di portata, il campanello wireless è un accessorio indispensabile per la casa, lufficio, il negozio ecc
 - 【IP44 Impermeabile】: Il campanello impermeabile può resistere alla pioggia e alle variazioni di temperatura, contro i giorni di pioggia o linverno.
+- 【Facile da installare】: può essere fissato al telaio della porta con viti o con nastro biadesivo e inserire le spine del ricevitore direttamente nella presa.
 - 【Riceverai nella confezione】: 1x trasmettitore (batteria inclusa), 2x ricevitore, 1x manuale utente, ogni ricevitore necessita di batterie 3*AA, la confezione non include la batteria del ricevitore.
 - 【Ampia portata da 150m】: il campanello wireless ha un forte potere penetrante e una forte capacità anti-interferenza senza perdita di segnale e interferenza, che è completamente adatto per luso domestico.
 
