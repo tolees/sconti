@@ -28,13 +28,13 @@ average: '86.0'
 
 ℹ️:
 
-- Stato batteria ricarica con luce led
 - Accessori: Bocchetta per fessure e Lancia flessibile
+- Scopa Ricaricabile senza filo e senza sacco
+- Stato batteria ricarica con luce led
+- Autonomia: 25 minuti
 - Tecnologia: ciclonica
 - Spazzola motorizzata per tutte le superfici
-- Autonomia: 25 minuti
 - Batteria: 22V litio
-- Scopa Ricaricabile senza filo e senza sacco
 - Capacità del contenitore: 0,7 l
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XD7DD9S/?tag=tolees00-21)
