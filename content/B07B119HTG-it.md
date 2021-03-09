@@ -28,10 +28,10 @@ average: '8.41'
 
 ℹ️:
 
+- Colore argento
 - Ciondolo 2,2 x 1,9 cm
 - Lunghezza totale 14 cm
 - Segnalibro di Harry Potter con licenza ufficiale
-- Colore argento
 - Con ciondolo di fascino di Harry Potter Chibi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B119HTG/?tag=tolees00-21)

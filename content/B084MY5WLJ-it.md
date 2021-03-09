@@ -28,9 +28,9 @@ average: '16.1225000000001'
 
 ℹ️:
 
-- Vista, tatto, udito
 - con le lettere smerigliate: lettere e parole, suoni e filastrocche, quiz
-- Grande alfabetiere touch
+- Vista, tatto, udito
 - Gioco elettronico, manuale di istruzioni
+- Grande alfabetiere touch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084MY5WLJ/?tag=tolees00-21)

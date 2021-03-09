@@ -28,12 +28,12 @@ Puoi trovare [Amazon - Echo Show 5  Bianco + Philips Hue White Lampadina Conness
 
 ℹ️:
 
-- Controlla la tua privacy con l’apposito pulsante Microfono/telecamera (on/off) o il copri-telecamera integrato.
 - Gestisci calendari, crea una Lista di cose da fare, controlla il meteo e la situazione del traffico e segui una ricetta in video.
-- Fai una chiamata vocale o una videochiamata con amici e familiari che possiedono un dispositivo Echo compatibile o l’App Alexa.
-- Personalizzalo scegliendo il tuo quadrante preferito o una foto. Crea delle Routine e imposta una sveglia per iniziare la giornata.
 - Guarda film, serie TV e notiziari. Ascolta brani musicali, stazioni radio e audiolibri.
+- Fai una chiamata vocale o una videochiamata con amici e familiari che possiedono un dispositivo Echo compatibile o l’App Alexa.
+- Controlla la tua privacy con l’apposito pulsante Microfono/telecamera (on/off) o il copri-telecamera integrato.
 - Schermo compatto e intelligente da 5,5”, con Alexa sempre pronta ad aiutarti.
+- Personalizzalo scegliendo il tuo quadrante preferito o una foto. Crea delle Routine e imposta una sveglia per iniziare la giornata.
 - Questo bundle è formato da un Echo Show 5 e una Philips Hue White Lampadina Connessa (E27) – tutto ciò che ti serve per creare la tua Casa Intelligente.
 - Controlla dispositivi per Casa Intelligente compatibili con la voce o dallo schermo.
 
