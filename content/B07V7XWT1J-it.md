@@ -29,9 +29,9 @@ average: '77.7'
 ℹ️:
 
 - Calzata: Comoda
-- Materiale Interno: Pelle
 - Materiale Esterno: Pelle
-- Altezza Tacco: 4.5 cm
 - Qualità: Made in Italy
+- Materiale Interno: Pelle
+- Altezza Tacco: 4.5 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V7XWT1J/?tag=tolees00-21)

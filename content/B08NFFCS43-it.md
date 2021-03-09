@@ -28,10 +28,10 @@ average: '229.99'
 
 ℹ️:
 
-- Ripiano porta bottiglie
-- Frigorifero monoporta
 - Congelatore 4 stelle
+- Ripiano porta bottiglie
 - Colore crema
 - Capacità 164 L
+- Frigorifero monoporta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NFFCS43/?tag=tolees00-21)

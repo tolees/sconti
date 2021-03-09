@@ -29,14 +29,14 @@ average: '1125.88'
 ℹ️:
 
 - Connettore USB-C per ricarica e accessori
-- Display Liquid Retina edge-to-edge da 11" con tecnologia ProMotion, True Tone e ampia gamma cromatica P3
-- Fino a 10 ore di autonomia
-- Chip A12Z Bionic con Neural Engine
 - Wi-Fi 6 802.11ax
-- Face ID per l’autenticazione sicura e Apple Pay
-- Compatibilità con Magic Keyboard, Smart Keyboard Folio e Apple Pencil
-- Audio a quattro altoparlanti e cinque microfoni di qualità professionale
+- Display Liquid Retina edge-to-edge da 11" con tecnologia ProMotion, True Tone e ampia gamma cromatica P3
 - Fotocamera anteriore TrueDepth da 7MP
+- Audio a quattro altoparlanti e cinque microfoni di qualità professionale
 - Grandangolo da 12MP, ultra-grandangolo da 10MP, scanner LiDAR
+- Chip A12Z Bionic con Neural Engine
+- Compatibilità con Magic Keyboard, Smart Keyboard Folio e Apple Pencil
+- Fino a 10 ore di autonomia
+- Face ID per l’autenticazione sicura e Apple Pay
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0863L1FCK/?tag=tolees00-21)
