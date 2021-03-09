@@ -28,8 +28,8 @@ average: '38.99'
 
 ℹ️:
 
-- 【Controllo da Voce】: Funziona con Alexa Echo e Google Home (Skill: LE LampUX), così puoi controllare la lampada da tavolo con la tua voce per accenderla o spegnerla, illuminarla o attenuarla alla luminosità desiderata.
 - 【Ampie Applicazioni】: Protezione degli occhi / paura delloscurità / allattamento al seno di notte / lettura notturna prima di dormirsi. Questa lampada da tavolo intelligente LE è una perfetta scelta per lilluminazione interna, regalo delle feste o del compleanno. (NOTA: La lampada ha certificazione CE, ROHS. Se non sei soddisfatto al 100% della nostra luce notturna, puoi contattarci in qualsiasi momento. In caso di problemi di qualità entro 24 mesi, ne invieremo uno nuovo per te.)
+- 【Controllo da Voce】: Funziona con Alexa Echo e Google Home (Skill: LE LampUX), così puoi controllare la lampada da tavolo con la tua voce per accenderla o spegnerla, illuminarla o attenuarla alla luminosità desiderata.
 - 【Colore e Luminosità Dimmerabile】: Premere pulsante per impostare modalità di illuminazione con luminosità di 2000K / 3000K / 6000K, 16 milioni di colori da regolare in modo continuo tramite APP.
 - 【Controllo da App】: E possibile controllare questa lampada notturna LED con lApp "Lepro LampUX" che compatibile con sistema iOS e Android. Supporta solo Wi-Fi (2.4 GHz).
 - 【Funzione Timer】: Impostare un timer e creare un programma per accendere / spegnere automaticamente la lampada da tavolo LED senza preoccuparsi di spegnere le luci. È perfetto come lampada da comodino, luce notturna per i bambini, luce fissa, luce datmosfera per unatmosfera romantica, lampada da notte per camera da letto, ecc.

@@ -29,7 +29,7 @@ Puoi trovare [Calvin Klein Bralette  Corsetto Donna  53% Cotone  35% Modal  12% 
 ℹ️:
 
 - Reggiseno sportivo nero
-- Logo Calvin Klein in vita
 - Supporto leggero
+- Logo Calvin Klein in vita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00L4BA4O6/?tag=tolees00-21)

@@ -28,11 +28,11 @@ Puoi trovare [NETGEAR Ripetitore WiFi Mesh AC1750 EX6250  Wifi Extender Dual Ban
 
 ℹ️:
 
-- WiFi AC1750: fino a 1750 MBps di velocità wireless dual band e tecnologia Fastlane per video streaming in HD e gaming online
-- AMPLIFICATORE SEGNALE Wi-Fi: aumenta la copertura wifi fino a 110 mq e collega fino a 20 dispositivi quali laptop, smartphone, tablet, telecamere wifi, dispositivi iot e molto altro
 - PORTA GIGABIT ETHERNET: collega in modo semplice console di gioco, decoder o qualsiasi altro dispositivo tramite la porta Ethernet gigabit
+- AMPLIFICATORE SEGNALE Wi-Fi: aumenta la copertura wifi fino a 110 mq e collega fino a 20 dispositivi quali laptop, smartphone, tablet, telecamere wifi, dispositivi iot e molto altro
 - COMPATIBILITA MESH UNIVERSALE: la funzione Mesh si abilita con qualsiasi modem Fibra/ADSL, router e access point
-- FUNZIONALITA WIFI MESH: utilizza lo stesso nome di rete del tuo modem router per avere connessioni stabili anche quando ti sposti da una stanza allaltra della casa
 - INSTALLAZIONE FACILE: utilizza app Nighthawk per installare, configurare, visualizzare i dispositivi collegati e le impostazione WiFi dellextender, disponibile per Android e iOS
+- FUNZIONALITA WIFI MESH: utilizza lo stesso nome di rete del tuo modem router per avere connessioni stabili anche quando ti sposti da una stanza allaltra della casa
+- WiFi AC1750: fino a 1750 MBps di velocità wireless dual band e tecnologia Fastlane per video streaming in HD e gaming online
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W8GZGP2/?tag=tolees00-21)

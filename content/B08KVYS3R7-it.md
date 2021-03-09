@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'sconto del 22.00 % su Playmobil 70176 - Veicolo Modello Volksw  '
-date: 2021-02-26 21:58:22
+title: 'sconto del 22.00 % su PLAYMOBIL Volkswagen 70176 - Bulli T1  D  '
+date: 2021-03-09 17:20:25
 image: 'https://m.media-amazon.com/images/I/516C9WGPvaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08KVYS3R7-it Playmobil 70176 - Veicolo Modello Volkswagen Bulli T1'
+slug: 'B08KVYS3R7-it PLAYMOBIL Volkswagen 70176 - Bulli T1 Dai 5 anni'
 sku: 'B08KVYS3R7-it'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99
 comparePrice: 49.99 EUR
-prodname: 'Playmobil 70176 - Veicolo Modello Volkswagen Bulli T1'
+prodname: 'PLAYMOBIL Volkswagen 70176 - Bulli T1  Dai 5 anni'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.it/dp/B08KVYS3R7/?tag=tolees00-21'
 descuento: '22.00'
-average: '48.0626315789474'
+average: '47.1985714285714'
 ---
 
-[Playmobil 70176 - Veicolo Modello Volkswagen Bulli T1](https://www.amazon.it/dp/B08KVYS3R7/?tag=tolees00-21) ha un prezzo di 38.99 EUR (originale: 49.99 EUR) con uno sconto del 22.00 % sconto qui:
+[PLAYMOBIL Volkswagen 70176 - Bulli T1  Dai 5 anni](https://www.amazon.it/dp/B08KVYS3R7/?tag=tolees00-21) ha un prezzo di 38.99 EUR (originale: 49.99 EUR) con uno sconto del 22.00 % sconto qui:
 
-[![Playmobil 70176 - Veicolo Modello Volksw](https://m.media-amazon.com/images/I/516C9WGPvaL._SL400_.jpg)](https://www.amazon.it/dp/B08KVYS3R7/?tag=tolees00-21)
+[![PLAYMOBIL Volkswagen 70176 - Bulli T1  D](https://m.media-amazon.com/images/I/516C9WGPvaL._SL400_.jpg)](https://www.amazon.it/dp/B08KVYS3R7/?tag=tolees00-21)
 
 ℹ️:
 
-- Contenuto: 1x PLAYMOBIL Volkswagen Bulli T1, set di 74 pezzi giocattolo con istruzioni di montaggio: 1 bus VW, 2 personaggi, 71 accessori. Materiale: plastica, veicolo LxPxH incluso portapacchi: 11x25x13 cm, scala (modello di auto): circa 1: 17, peso: 486 g, 70176
-- Viaggia in campeggio con il PLAYMOBIL Volkswagen Bulli T1, il Camping Bus cult con 2 personaggi e numerosi accessori da assemblare e collezionare
-- Divertimento per tutti i giorni: istruzioni per il montaggio da consultare con i genitori; design robusto e di alta qualità; pulizia delle parti (senza adesivi) sotto lacqua corrente senza agenti chimici
-- Tetto removibile arrotondato, cofano posteriore e porte laterali apribili, portapacchi con cinghie per il fissaggio, panca posteriore ribaltabile, tavolo pieghevole e molto altro
-- Set di personaggi giocattolo per bambini dai 5 anni: ideale per le mani dei bambini grazie alle sue dimensioni adeguate alletà e alla piacevole sensazione al tatto con i bordi arrotondati
+- Tetto removibile, Cofano posteriore e porte laterali apribili, Portapacchi con cinghie da fissare, Sedile posteriore reclinabile, Tavolo pieghevole e molto altro
+- Viaggio in campeggio con liconico minibus: Volkswagen Bulli T1 PLAYMOBIL con 2 personaggi e numerosi accessori da collezionare per un gioco realistico
+- Per il montaggio consultare il libretto di istruzioni allinterno della confezione, Alta qualità e struttura solida, È possibile effettuare una pulizia dei pezzi avendo cura di utilizzare esclusivamente acqua e senza luso di prodotti chimici
+- Contenuto: 1x PLAYMOBIL Volkswagen Bulli T1, Play set da 74 pezzi con istruzioni: 1 minibus VW, 2 personaggi, 71 accessori, Materiale: Plastica, Dimensioni (LxPxA) veicolo incl. portapacchi: 11x25x13 cm, Scala (modellino auto): ca. 1:17, Peso: 486 g, 70176
+- Play set che contiene personaggi PLAYMOBIL adatti ai bambini a partire da 5 anni: perfetti per le loro mani grazie alle dimensioni adeguate alletà, alla superficie piacevole al tatto e con bordi arrotondati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KVYS3R7/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '54.2976923076923'
 
 ℹ️:
 
-- Un mondo completamente open-world che potrai esplorare liberamente
 - Compatibile con amiibo serie "The Legend of Zelda 30th Anniversary", amiibo Link lupo e amiibo serie "The Legend of Zelda: Breath of the Wild"
+- Un mondo completamente open-world che potrai esplorare liberamente
 - Il clima influenza lavventura e tenuta ed equipaggiamento adatto saranno necessari per sopravvivere.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7QUSQ3/?tag=tolees00-21)

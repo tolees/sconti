@@ -28,8 +28,8 @@ average: '33.828888888889'
 
 ℹ️:
 
-- Un film con John David Washington e Robert Pattinson
 - Un film di Cristopher Nolan
 - Azione, Fantascienza, Thriller
+- Un film con John David Washington e Robert Pattinson
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PQQ6S53/?tag=tolees00-21)

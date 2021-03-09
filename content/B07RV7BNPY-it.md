@@ -28,10 +28,10 @@ average: '10.99'
 
 ℹ️:
 
+- 100% brand new and authentic merchandise
+- Includes all original tags/packaging straight from the manufacturer/distributor
 - Perfect for fans of Harry Potter
 - Great gift idea for anyone who loves Keychains
-- Includes all original tags/packaging straight from the manufacturer/distributor
-- 100% brand new and authentic merchandise
 - Officially Licensed from Funko
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RV7BNPY/?tag=tolees00-21)

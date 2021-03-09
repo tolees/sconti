@@ -28,10 +28,10 @@ Puoi trovare [Bialetti New Moka Induction Caffettiera Adatta all Induzione  6 Ta
 
 ℹ️:
 
-- Caffettiera da 6 tazze (280 ml di caffè)
 - Come il caffè della classica Moka: il raccoglitore in alluminio, materiale di cui è fatta la classica Moka, combinato con la caldaia bi-layer assicura un caffè e piacevole come il caffè preparato con la Moka tradizionale
-- Moka Induction, caffettiera adatta anche allinduzione (adatta a tutti i piani di cottura)
 - Provala con il caffè macinato Perfetto Moka Bialetti
 - Tecnologia bi-layer, per un caffè a regola darte: lo strato di acciaio esterno della caldaia garantisce il funzionamento anche sui piani di cottura ad induzione, mentre lo strato di alluminio interno assicura una distribuzione omogenea del calore
+- Caffettiera da 6 tazze (280 ml di caffè)
+- Moka Induction, caffettiera adatta anche allinduzione (adatta a tutti i piani di cottura)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BPBBK8B/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Playmobil 5648 - Valigetta Polizia](https://www.amazon.it/dp/B01AT
 
 ℹ️:
 
-- Polizia VALIGETTA 5648
-- Dimensioni del pacchetto: 5.994 L x 21.996 H x 17.602 W (centimetri)
-- Avvertenza: Contiene giocattolo; si raccomanda la sorveglianza di un adulto
 - Avvertenza: Non adatto a bambini di età inferiore a 3 anni; da usare sotto la sorveglianza di un adulto
+- Polizia VALIGETTA 5648
+- Avvertenza: Contiene giocattolo; si raccomanda la sorveglianza di un adulto
+- Dimensioni del pacchetto: 5.994 L x 21.996 H x 17.602 W (centimetri)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01ATBW8XG/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lampadina Alexa TECKIN LED Lampadina Sma al 15.00 % di sconto'
-date: 2021-03-08 07:34:23
+date: 2021-03-09 17:00:17
 image: 'https://m.media-amazon.com/images/I/41RPa9NkcfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'TECKIN'
 buyurl: 'https://www.amazon.it/dp/B0823NFWR6/?tag=tolees00-21'
 descuento: '15.00'
-average: '44.99'
+average: '44.6328571428571'
 ---
 
 Puoi trovare [Lampadina Alexa TECKIN LED Lampadina Smart RGBCW E27 A19  Compatibile con Alexa  Google Home  Multicolore Dimmerabile 7.5W 800LM  2800K-6000K lampadina WiFi  4 Pack](https://www.amazon.it/dp/B0823NFWR6/?tag=tolees00-21) con il prezzo 42.49 EUR (originale: 49.99 EUR) 15.00 % sconto qui:
