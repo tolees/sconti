@@ -28,8 +28,8 @@ Puoi trovare [Nike Wmns Venture Runner  Scarpe da Corsa Donna  Black/White-Black
 
 ℹ️:
 
-- NICI è unazienda affidabile
 - Ammortizzazione leggera
+- NICI è unazienda affidabile
 - Scarpe da running
 - Tomaia in mesh traspirante
 
