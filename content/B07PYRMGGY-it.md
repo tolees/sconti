@@ -28,7 +28,7 @@ average: '9.99'
 
 ℹ️:
 
-- detail at back
 - top with adjustable straps
+- detail at back
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PYRMGGY/?tag=tolees00-21)
