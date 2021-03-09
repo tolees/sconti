@@ -29,7 +29,7 @@ Puoi trovare [Gianni Versace Red Jeans Eau de Toilette  Donna  75 ml](https://ww
 ℹ️:
 
 - EDT
-- 75 ml
 - Donna
+- 75 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000C1W6UE/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Reebok CL Nylon  Scarpe da Ginnastica Donna  Midnight Shadow/White
 
 ℹ️:
 
-- Ammortizzazione
 - Scarpe sportive
+- Ammortizzazione
 - Tomaia in suede e nylon
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089P1CTV2/?tag=tolees00-21)
