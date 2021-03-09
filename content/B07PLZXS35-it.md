@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 24.18 % su Sapientino- Mimo  Carte da Gioco per Bam  '
-date: 2021-03-07 15:54:08
+date: 2021-03-09 16:23:31
 image: 'https://m.media-amazon.com/images/I/411KuCz6eSL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sapientino'
 buyurl: 'https://www.amazon.it/dp/B07PLZXS35/?tag=tolees00-21'
 descuento: '24.18'
-average: '5.96'
+average: '5.972'
 ---
 
 [Sapientino- Mimo  Carte da Gioco per Bambini  Multicolore  16174](https://www.amazon.it/dp/B07PLZXS35/?tag=tolees00-21) ha un prezzo di 5.99 EUR (originale: 7.9 EUR) con uno sconto del 24.18 % sconto qui:
@@ -28,11 +28,11 @@ average: '5.96'
 
 ℹ️:
 
-- Il tradizionale gioco del mimo fatto su misura per i bambini in età prescolare!
-- Età consigliata: 4 - 99 anni.
-- Scopo del gioco è imitare lazione o lanimale illustrato nella carta cercando di farla indovinare agli altri
 - Made in Italy.
 - Il gioco contiene 50 carte con simpatici personaggi raffigurati in buffe smorfie e pose
+- Scopo del gioco è imitare lazione o lanimale illustrato nella carta cercando di farla indovinare agli altri
+- Età consigliata: 4 - 99 anni.
 - il vincitore sarà chi riuscirà a indovinare il maggior numero di imitazioni.
+- Il tradizionale gioco del mimo fatto su misura per i bambini in età prescolare!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PLZXS35/?tag=tolees00-21)
