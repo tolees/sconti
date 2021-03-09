@@ -28,12 +28,12 @@ average: '315.54'
 
 ℹ️:
 
-- 6 programmi(autoflex, 1 ora, 30 min)
-- Tecnologia airdry
 - Consegna su strada gratuita per i prodotti con un peso inferiore a 60 kg e consegna al piano gratuita per i prodotti con un peso superiore ai 60 kg
-- Lavastoviglie inverter
-- Partenza ritardata da 1 a 24 ore
 - Lavastoviglie 13 coperti a++
+- Tecnologia airdry
+- Lavastoviglie inverter
+- 6 programmi(autoflex, 1 ora, 30 min)
 - Grazie al programma partenza ritardata decidi tu quando far partire il lavaggio delle stoviglie
+- Partenza ritardata da 1 a 24 ore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076DC1RCF/?tag=tolees00-21)
