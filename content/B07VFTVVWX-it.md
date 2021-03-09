@@ -28,8 +28,8 @@ average: '66.6491025641025'
 
 ℹ️:
 
-- Compatibile con Nintendo Switch lite
-- Accelerometro e Giroscopio integrati, sistema "HD rumble" Integrato.
 - Il set contiene un Joy-Con destro (Giallo Neon ), un Joy-Con sinistro (Blu) e un set laccetti per Joy-Con
+- Accelerometro e Giroscopio integrati, sistema "HD rumble" Integrato.
+- Compatibile con Nintendo Switch lite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VFTVVWX/?tag=tolees00-21)

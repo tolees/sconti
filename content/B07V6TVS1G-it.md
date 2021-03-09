@@ -28,9 +28,9 @@ average: '33.7884'
 
 ℹ️:
 
-- Grazie alla popolare modalità Kids, anche i più piccoli possono divertirsi
 - Amplifica il divertimento con gli amici nella modalità co-op, che torna appositamente per Just Dance 2020
 - Riunisci amici e familiari e lasciati trasportare dalla febbre del ballo con Just Dance 2020
+- Grazie alla popolare modalità Kids, anche i più piccoli possono divertirsi
 - Just Dance 2020 festeggia 10 anni di condivisione e divertimento con nuovi, esaltanti contenuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V6TVS1G/?tag=tolees00-21)

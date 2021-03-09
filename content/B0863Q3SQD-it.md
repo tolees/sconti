@@ -28,8 +28,8 @@ average: '13.252'
 
 ℹ️:
 
+- Non superare la dose giornaliera raccomandata
 - Gli integratori non vanno intesi come sostituti di una dieta variata
 - Tenere fuori dalla portata dei bambini al di sotto dei tre anni di età
-- Non superare la dose giornaliera raccomandata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0863Q3SQD/?tag=tolees00-21)
