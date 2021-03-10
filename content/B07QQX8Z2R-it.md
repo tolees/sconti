@@ -28,10 +28,10 @@ Puoi trovare [Versus Versace Dress Watch VSPLL0219](https://www.amazon.it/dp/B07
 
 ℹ️:
 
-- Water resistant to 30 meters (100 feet, 3 ATM): in general, withstands splashes or brief immersion in water, but not suitable for swimming or bathing
+- Jewelry bracelet with 3D lion head and immediately adjustable jewelry buckles
 - Silver Tone dial enriched with Versus Versace logo
 - Quartz movement with 2 hand analogue display; mineral crystal face
-- Jewelry bracelet with 3D lion head and immediately adjustable jewelry buckles
+- Water resistant to 30 meters (100 feet, 3 ATM): in general, withstands splashes or brief immersion in water, but not suitable for swimming or bathing
 - 36 mm Yellow Gold case in Stainless Steel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QQX8Z2R/?tag=tolees00-21)

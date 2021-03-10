@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein Sport Brief 2pk Boxer  Nero  Black/Black 001   Small 
 
 ℹ️:
 
-- Jersey in microfibra.
-- Design sportivo.
 - Vita media.
+- Design sportivo.
+- Jersey in microfibra.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DFX74CG/?tag=tolees00-21)
