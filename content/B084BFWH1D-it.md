@@ -28,9 +28,9 @@ average: '48.0'
 
 ℹ️:
 
-- La patch logata sulla spalla è la firma distintiva del look
-- Il filato in misto cotone e lana è leggero e caldo sulla pelle
 - Il fit regular con collo a giro e maniche lunghe rende il modello versatile e disinvolto
+- Il filato in misto cotone e lana è leggero e caldo sulla pelle
+- La patch logata sulla spalla è la firma distintiva del look
 - I bordi rifiniti a costine garantiscono massima aderenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084BFWH1D/?tag=tolees00-21)

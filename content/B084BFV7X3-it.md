@@ -28,9 +28,9 @@ average: '48.0'
 
 ℹ️:
 
+- Il filato in misto cotone e lana è leggero e caldo sulla pelle
+- Il fit regular con collo a giro e maniche lunghe rende il modello versatile e disinvolto
 - I bordi rifiniti a costine garantiscono massima aderenza
 - La patch logata sulla spalla è la firma distintiva del look
-- Il fit regular con collo a giro e maniche lunghe rende il modello versatile e disinvolto
-- Il filato in misto cotone e lana è leggero e caldo sulla pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084BFV7X3/?tag=tolees00-21)

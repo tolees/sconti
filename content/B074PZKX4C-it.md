@@ -28,11 +28,11 @@ Puoi trovare [Osram Smart+ Lampadina LED Zigbee con Riflettore PAR16  GU10  50 W
 
 ℹ️:
 
-- Protocolli supportati: Lightify, SmartThings, numerosi altri sistemi con protocollo ZigBee
-- La gamma Osram Smart+ Zigbee si integra con le piattaforme partner basate su protocollo Zigbee; le luci sono gestite tramite centralina Zigbee (gateway / hub / bridge) e controllate dallutilizzatore attraverso lapp partner
 - Luce bianca e colorata; tonalità di luce regolabile da bianco caldo (2700 K) a bianco freddo (6500 K); dimmerabile
+- Protocolli supportati: Lightify, SmartThings, numerosi altri sistemi con protocollo ZigBee
 - Lampadina LED smart Zigbee con riflettore PAR16, attacco GU10, 50 W equivalenti
-- In alternativa possono essere gestite direttamente tramite i telecomandi SMART+ Switch o SMART+ Switch Mini
 - Gestibile direttamente con Amazon Echo Plus, senza bisogno di gateway o skill; per la gestione con Amazon Echo Dot / Echo Spot, Google Home / Home Mini e altri sistemi basati su protocollo Zigbee è necessaria una centralina Zigbee (gateway / hub / bridge)
+- La gamma Osram Smart+ Zigbee si integra con le piattaforme partner basate su protocollo Zigbee; le luci sono gestite tramite centralina Zigbee (gateway / hub / bridge) e controllate dallutilizzatore attraverso lapp partner
+- In alternativa possono essere gestite direttamente tramite i telecomandi SMART+ Switch o SMART+ Switch Mini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074PZKX4C/?tag=tolees00-21)
