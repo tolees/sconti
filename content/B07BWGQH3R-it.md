@@ -30,8 +30,8 @@ average: '25.0733333333333'
 
 - ❂ Funzione: Fitness Tracker ( Contapassi , Calorie , Distanza), Cardiofrequenzimetro, 14 Modalità Sportive, GPS Condiviso, Monitoraggio del Sonno, Notifiche di Chiamata, SMS e Messaggi APP ( WhatsAPP, Facebook, Messenger, Instagram. ..), Controllo della Fotocamera, Promemoria Sedentari, Sveglia, Sensore Polso, Pulsante Touch, Schermo a Colori.
 - ❂ Questo orologio fitness può essere utilizzato come pedometro, per monitorare la frequenza cardiaca, per contare le calorie, per misurare distanza percorsa, la qualità del sonno. Inoltre è possibile controllare tutti i dati relativi alle proprie attività sportive in qualsiasi momento tramite la APP, e ciò rende questo orologio fitness un perfetto assistente alla propria salute, adatto per uomini, donne, bambini e anziani.
-- ❂ Impermeabile IP68: È possibile indossare il smartwatch liberamente durante l’attività fisica, nuoto in piscina, lavaggio delle mani, ecc. , in modo da soddisfare completamente le tue esigenze quotidiane. (lorologio fitness non ha la modalità di nuoto.)
-- ❂ Vibrazione di Notifiche il smartwatch vibra per avvisare nel caso in cui il vostro smartphone riceva una chiamate, SMS oppure messaggi da parte delle APP come Facebook, WhatsApp, Instagram, Messenger, ecc. Il nome del chiamante e parte del contenuto verranno visualizzati sullo schermo dello fitness tracker.
 - ❂ Dispositivi compatibili: Lo smartwatch compatibile con Android 4.4 / iOS 8.1 o versioni successive.
+- ❂ Vibrazione di Notifiche il smartwatch vibra per avvisare nel caso in cui il vostro smartphone riceva una chiamate, SMS oppure messaggi da parte delle APP come Facebook, WhatsApp, Instagram, Messenger, ecc. Il nome del chiamante e parte del contenuto verranno visualizzati sullo schermo dello fitness tracker.
+- ❂ Impermeabile IP68: È possibile indossare il smartwatch liberamente durante l’attività fisica, nuoto in piscina, lavaggio delle mani, ecc. , in modo da soddisfare completamente le tue esigenze quotidiane. (lorologio fitness non ha la modalità di nuoto.)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BWGQH3R/?tag=tolees00-21)
