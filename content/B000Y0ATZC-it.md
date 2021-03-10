@@ -28,8 +28,8 @@ Puoi trovare [Blundstone 500 - Stivaletti Unisex-Adulto  Marrone  Stout Brown   
 
 ℹ️:
 
-- Resistenti ed impermeabili
 - Tomaia in pelle
+- Resistenti ed impermeabili
 - Stivaletti Blundstone classici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000Y0ATZC/?tag=tolees00-21)
