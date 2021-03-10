@@ -28,8 +28,8 @@ Puoi trovare [Reebok Club C 85  Scarpe da Ginnastica Donna  Bianco  White   38 E
 
 ℹ️:
 
-- Ammortizzazione
 - Scarpe sportive
 - Tomaia in pelle
+- Ammortizzazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071WCN46B/?tag=tolees00-21)

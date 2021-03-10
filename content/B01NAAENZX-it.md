@@ -29,9 +29,9 @@ average: '25.99'
 ℹ️:
 
 - Modello halow 1d
-- Punta abgerundetete
-- Allacciatura a 7 fori
-- Logo ricamato sul tallone
 - Patch logo sul lato
+- Punta abgerundetete
+- Logo ricamato sul tallone
+- Allacciatura a 7 fori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NAAENZX/?tag=tolees00-21)

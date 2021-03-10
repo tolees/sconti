@@ -28,10 +28,10 @@ Puoi trovare [Foppapedretti Il Cantiniere Wenge -Alluminio](https://www.amazon.i
 
 ℹ️:
 
-- Dotato di spinotti di congiunzione in alluminio, possibilità di molteplici configurazioni
-- Portabottiglie modulare
 - Struttura in legno massiccio di faggio, tubetti in alluminio
 - Set base da 12 bottiglie
+- Dotato di spinotti di congiunzione in alluminio, possibilità di molteplici configurazioni
 - Dimensioni aperto: 33,5x28x33,5mm
+- Portabottiglie modulare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009NT6QWA/?tag=tolees00-21)

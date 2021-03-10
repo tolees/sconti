@@ -28,8 +28,8 @@ average: '14.79'
 
 ℹ️:
 
-- Con l’inconfondibile logo Levis
 - Vestibilità comoda
 - Una canotta casual e leggera, in jersey di cotone
+- Con l’inconfondibile logo Levis
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K75ZHVX/?tag=tolees00-21)

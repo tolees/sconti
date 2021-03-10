@@ -29,9 +29,9 @@ average: '33.0'
 ℹ️:
 
 - materiale superiore morbido.
-- Elastico.
-- Funzione Memory foam.
 - suola flessibile.
+- Funzione Memory foam.
+- Elastico.
 - Leggera suola.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LG9QQFR/?tag=tolees00-21)
