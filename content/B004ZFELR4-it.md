@@ -29,8 +29,8 @@ Puoi trovare [Hultafors PV120 - Bolla professionale  120 cm](https://www.amazon.
 ℹ️:
 
 - Fiala di messa a fuoco con marcature a colori per una facile lettura e con un raggio di 200 mm per una sensibilità di 10 mm/m
+- La tolleranza in posizione normale è ±0,5 mm/m, capovolta ±0,5 mm/m
 - La fiala si illumina al buio
 - Lunghezza: 120 cm
-- La tolleranza in posizione normale è ±0,5 mm/m, capovolta ±0,5 mm/m
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004ZFELR4/?tag=tolees00-21)

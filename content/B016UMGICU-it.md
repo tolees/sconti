@@ -28,10 +28,10 @@ Puoi trovare [EUROLUB ADBLUE - Urea sintetica  10 L](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- Utilizzabile per: AUS 32 secondo ISO 22241.
-- Temperatura di stoccaggio consigliata tra 0 °C e + 30 °C.
-- Evitare lesposizione diretta al sole.
 - EUROLUB AdBlue SCR Soluzione di urea ad elevata purezza, prodotta in Germania.
 - Per il trattamento dei gas di scarico dei motori diesel di automobili con tecnologia SCR.
+- Temperatura di stoccaggio consigliata tra 0 °C e + 30 °C.
+- Utilizzabile per: AUS 32 secondo ISO 22241.
+- Evitare lesposizione diretta al sole.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016UMGICU/?tag=tolees00-21)
