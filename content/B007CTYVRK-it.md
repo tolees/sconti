@@ -28,10 +28,10 @@ average: '4.23'
 
 ℹ️:
 
+- Fiocco in Microfibra
 - Lavabile in lavatrice a 60°C
 - Adatto ai pavimenti più delicati
-- Ottimo per pulire anche solo con acqua
-- Fiocco in Microfibra
 - Utilizzabile anche con il Sistema Electro Easy Wring & Clean
+- Ottimo per pulire anche solo con acqua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007CTYVRK/?tag=tolees00-21)

@@ -29,9 +29,9 @@ Puoi trovare [Coravin Model Two Sistema di Mescita](https://www.amazon.it/dp/B01
 ℹ️:
 
 - Due (2) capsule Coravin (gas argon pressurizzato)
-- Dispositivo di estrazione dellago
-- Contenuto della confezione:
 - Guida rapida di Coravin
 - Coravin Model Two (ago standard incluso)
+- Dispositivo di estrazione dellago
+- Contenuto della confezione:
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01C7GCZ48/?tag=tolees00-21)
