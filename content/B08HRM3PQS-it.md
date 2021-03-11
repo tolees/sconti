@@ -28,11 +28,11 @@ average: '19.99'
 
 ℹ️:
 
-- Balsamo per una barba morbida, preparato con ricco burro di cacao, olio di argan e burro di karité, 100 ml
-- Include un detergente viso e barba, un balsamo per la barba e un regolatore di lunghezza
 - Regala il kit da barba King C. Gillette per prendersi cura della barba con prodotti di qualità Premium
-- Astuccio in omaggio
 - Aiuta a sentirti e ad essere al meglio ogni giorno
+- Astuccio in omaggio
+- Include un detergente viso e barba, un balsamo per la barba e un regolatore di lunghezza
+- Balsamo per una barba morbida, preparato con ricco burro di cacao, olio di argan e burro di karité, 100 ml
 - Detergente viso e barba che rinfresca, con acqua di cocco, olio di argan e olio di avocado, 350 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HRM3PQS/?tag=tolees00-21)

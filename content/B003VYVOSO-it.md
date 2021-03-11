@@ -28,8 +28,8 @@ average: '0.99'
 
 ℹ️:
 
-- Senza glutammato
 - Produttore: Unilever
 - Con ingredienti naturali
+- Senza glutammato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003VYVOSO/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Gender: Uomo
-- Colore: BordoWht
-- Articolo: T-Shirt
 - Brand: Vans
+- Colore: BordoWht
+- Gender: Uomo
+- Articolo: T-Shirt
 - Modello: VN0A3CZE
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YBGGN5V/?tag=tolees00-21)

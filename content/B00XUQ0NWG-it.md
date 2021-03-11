@@ -28,10 +28,10 @@ Puoi trovare [Rio Mare - Filetti di Sgombro Grigliati all Olio Extravergine di O
 
 ℹ️:
 
+- Consigli uso: da provare con verdure miste grigliate, insaporite con un filo di olio extravergine e un trito abbondante di erbe aromatiche
 - Rio Mare, Qualità Responsabile dal mare alla tua tavola
 - Formato: confezione da 1 lattina da 120 g
 - Ingredienti: sgombro* 87%, olio extra vergine di oliva 10%, sale *Scomber scombrus
 - Filetti di sgombro lavorati accuratamente a mano, cotti alla griglia e insaportiti con un filo dolio extra vergine doliva
-- Consigli uso: da provare con verdure miste grigliate, insaporite con un filo di olio extravergine e un trito abbondante di erbe aromatiche
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUQ0NWG/?tag=tolees00-21)
