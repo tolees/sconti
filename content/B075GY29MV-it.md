@@ -28,9 +28,9 @@ average: '89.99'
 
 ℹ️:
 
-- Dotato di schermo protettivo
-- Flash automatico - Obiettivo a fuoco fisso - Cursore Lighten / Darken
-- Polaroid Originals - 4715 - Macchina Fotografica Istantanea 600 One Step Close up - Nero
 - Ricondizionato da Polaroid Originals - potrebbe mostrare piccoli segni di usura - garanzia limitata di 1 anno
+- Dotato di schermo protettivo
+- Polaroid Originals - 4715 - Macchina Fotografica Istantanea 600 One Step Close up - Nero
+- Flash automatico - Obiettivo a fuoco fisso - Cursore Lighten / Darken
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075GY29MV/?tag=tolees00-21)

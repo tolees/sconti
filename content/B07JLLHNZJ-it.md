@@ -30,8 +30,8 @@ average: '38.44'
 
 - ■ Contenuto della confezione: 2 pietre per affilare, 1 pietra per affilare, 2 supporti in silicone, 1 legno resistente alla corrosione, 1 guida angolare.
 - ■ Materiale: realizzato in corindone bianco professionale, resistente alla corrosione, al calore e allusura.
-- ■ Design di affilatura su entrambi i lati – la superficie di levigatura grossa grana 400, la superficie di affilatura fine grana 1000, grana fine 3000, per lucidare grana 8000.
 - ■ Affilatura di sicurezza: la base in bambù mantiene la pietra in modo sicuro e il supporto per coltelli garantisce il giusto angolo durante la levigatura.
+- ■ Design di affilatura su entrambi i lati – la superficie di levigatura grossa grana 400, la superficie di affilatura fine grana 1000, grana fine 3000, per lucidare grana 8000.
 - ■ Applicazione – Per affilare coltelli da cucina, attrezzi da giardino, rasoi e tagli, attrezzi per la lavorazione del legno, ecc. (non per lame dentate e coltelli in ceramica).
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JLLHNZJ/?tag=tolees00-21)
