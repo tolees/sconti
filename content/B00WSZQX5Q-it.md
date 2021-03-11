@@ -28,9 +28,9 @@ average: '12.1'
 
 ℹ️:
 
-- e il LED è acceso in modo permanente, si tratta di un modello slave e non è possibile codificare i telecomandi del portale
-- Se il LED lampeggia una volta e poi si accende in modo permanente, si tratta di un modello master.
 - Tipo di programmazione auto apprendimento Tipo di pile CR2032
 - il modello qui presentato ha un bordo grigio e una frequenza di 433 MHz. Questo modello non va confuso con lo stesso telecomando (FAAC XT2 868 SLH), ma con una cornice nera per chiavi.
+- Se il LED lampeggia una volta e poi si accende in modo permanente, si tratta di un modello master.
+- e il LED è acceso in modo permanente, si tratta di un modello slave e non è possibile codificare i telecomandi del portale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00WSZQX5Q/?tag=tolees00-21)
