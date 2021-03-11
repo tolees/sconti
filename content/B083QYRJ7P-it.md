@@ -28,7 +28,7 @@ average: '46.19'
 
 ℹ️:
 
-- Grafica di ultima generazione e un incantevole stile artistico da libro illustrato
 - Il gioco è basato sui classici della serie Pokémon mystery dungeon, Pokémon mystery dungeon: squadra Rossa e Pokémon mystery dungeon: squadra blu, usciti per la prima volta in Europa nel 2006
+- Grafica di ultima generazione e un incantevole stile artistico da libro illustrato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083QYRJ7P/?tag=tolees00-21)
