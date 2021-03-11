@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rio Mare - Filetti di Sgombro Grigliati  al 27.12 % di sconto'
-date: 2021-03-09 16:28:57
+date: 2021-03-11 10:58:57
 image: 'https://m.media-amazon.com/images/I/41DzTj5xjEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Rio Mare'
 buyurl: 'https://www.amazon.it/dp/B081DF8LXG/?tag=tolees00-21'
 descuento: '27.12'
-average: '2.11986301369862'
+average: '2.12066666666666'
 ---
 
 Puoi trovare [Rio Mare - Filetti di Sgombro Grigliati Piccanti con Olio di Oliva  Ricchi di Omega 3  1 lattina da 120g](https://www.amazon.it/dp/B081DF8LXG/?tag=tolees00-21) con il prezzo 2.15 EUR (originale: 2.95 EUR) 27.12 % sconto qui:
@@ -29,9 +29,9 @@ Puoi trovare [Rio Mare - Filetti di Sgombro Grigliati Piccanti con Olio di Oliva
 ℹ️:
 
 - Rio Mare, Qualità Responsabile dal mare alla tua tavola
+- Ingredienti: sgombro* 84%, olio di oliva 10%, peperoncino 5%, sale, aroma *Scomber scombrus
 - Filetti di sgombro lavorati accuratamente a mano, cotti alla griglia e conditi con pezzetti di peperoncino per un gusto intenso e sfizioso
 - Formato: confezione da 1 lattina da 120 g
-- Ingredienti: sgombro* 84%, olio di oliva 10%, peperoncino 5%, sale, aroma *Scomber scombrus
 - Consigli uso: da provare con un contorno di broccoli spadellati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081DF8LXG/?tag=tolees00-21)
