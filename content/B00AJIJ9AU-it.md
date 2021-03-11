@@ -28,9 +28,9 @@ average: '15.9'
 
 ℹ️:
 
-- Placche per interruttori
+- Senza viti
 - Prodotto ottimo
 - Acciaio inossidabile
-- Senza viti
+- Placche per interruttori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AJIJ9AU/?tag=tolees00-21)
