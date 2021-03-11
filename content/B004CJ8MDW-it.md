@@ -29,9 +29,9 @@ Puoi trovare [Wera - Kraftform Kompakt 27 RA 1 SB  7 pezzi](https://www.amazon.i
 ℹ️:
 
 - Coppia massima fino a 50 Nm
-- Kraftform multicomponente con protezione antirotolamento e caricatore
 - Dentatura fine per un ridotto angolo di ripresa; ghiera di reversibilità (destra, fisso, sinistra)
-- Lama esagonale con attacco esagonale femmina da 1/4", manicotto in acciaio inox, potente magnete permanente
 - Kraftform Kompakt con funzione di cricchetto per lavorare in maniera ancora più veloce
+- Lama esagonale con attacco esagonale femmina da 1/4", manicotto in acciaio inox, potente magnete permanente
+- Kraftform multicomponente con protezione antirotolamento e caricatore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004CJ8MDW/?tag=tolees00-21)

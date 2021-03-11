@@ -28,10 +28,10 @@ average: '44.0'
 
 ℹ️:
 
-- Predisposizione Bluetooth
-- Ricaricabile (batteria integrata e potente)
-- È possibile collegare e controllare contemporaneamente fino a 30.000 candele
 - Luminosità regolabile, temperatura di colore calda (luce a lume di candela)
+- È possibile collegare e controllare contemporaneamente fino a 30.000 candele
+- Ricaricabile (batteria integrata e potente)
 - Controllo tramite lapp Yeelight (Bluetooth)
+- Predisposizione Bluetooth
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0777MMZZH/?tag=tolees00-21)
