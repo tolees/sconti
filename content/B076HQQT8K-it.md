@@ -30,7 +30,7 @@ Puoi trovare [Adidas Regista18 Track Top  Giacca Sportiva  Uomo  Blu  Bold Blue/
 
 - Logo adidas Badge of Sport in tessuto sul petto
 - Dotata di zip integrale e collo alla coreana, per regolare il livello di copertura in base alle condizioni climatiche
-- Realizzata in tessuto Aeroready che allontana lumidità dalla pelle
 - Le 3 strisce lungo i fianchi mostrano tutta la tua ambizione
+- Realizzata in tessuto Aeroready che allontana lumidità dalla pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQQT8K/?tag=tolees00-21)

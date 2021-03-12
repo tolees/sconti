@@ -28,9 +28,9 @@ average: '25.0'
 
 ℹ️:
 
-- Un involucro di plastica singolo in box da 20 pezzi
 - Confezione da 20 pezzi
 - Mascherine ffp2
 - Colore: bianco
+- Un involucro di plastica singolo in box da 20 pezzi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CRN5WHF/?tag=tolees00-21)
