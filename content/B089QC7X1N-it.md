@@ -28,10 +28,10 @@ average: '6.9'
 
 ℹ️:
 
-- Confezione da 50 pezzi.
 - Certificati Normativa UNE 0064-1:2020 // Non Uso Medico
-- Maschera a 3 strati. Filtrazione ≥ 95%. Materiale filtro e non-woven Dimensioni: 17 x 9,5 cm. Taglia adulto standard.
 - 4 ore di utilizzo continuo massimo
+- Maschera a 3 strati. Filtrazione ≥ 95%. Materiale filtro e non-woven Dimensioni: 17 x 9,5 cm. Taglia adulto standard.
+- Confezione da 50 pezzi.
 - Strati 3 strati/BFE ≥ 95% di filtrazione.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089QC7X1N/?tag=tolees00-21)
