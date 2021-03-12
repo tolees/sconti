@@ -28,10 +28,10 @@ Puoi trovare [BABY JOGGER - Navicella City Mini2/GT2 Single Pram](https://www.am
 
 ℹ️:
 
-- Coprigambe per proteggere il bimbo dal sole o dal freddo; materassino con rivestimento lavabile in lavatrice
 - Omologata da 0 a 6 mesi o fino a un peso massimo di 9 kg
 - Adattatori per aggancio sul passeggino inclusi
-- Ampia capotta estensibile con protezione uv50; pratica maniglia per trasportarla facilmente; visore parasole; cerniera per una miglior circolazione dellaria
 - Si ripiega in maniera compatta per occupare meno spazio quando non utilizzata
+- Ampia capotta estensibile con protezione uv50; pratica maniglia per trasportarla facilmente; visore parasole; cerniera per una miglior circolazione dellaria
+- Coprigambe per proteggere il bimbo dal sole o dal freddo; materassino con rivestimento lavabile in lavatrice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TDBV9F2/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '17.33'
 
 ℹ️:
 
+- Impermeabili, lavabili, antistrappo
 - Robusti occhielli in policarbonato - angoli rinforzati
 - Trattamento contro i raggi uv
-- Impermeabili, lavabili, antistrappo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FASB5ZG/?tag=tolees00-21)

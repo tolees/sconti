@@ -28,9 +28,9 @@ average: '16.44'
 
 ℹ️:
 
-- Senza manico
 - Lunghezza delle setole: 85 mm. Materiale delle setole: filo di acciaio
 - Colore delle setole: metallo
 - Supporto manico: metallo anodizzato argento, base in legno di faggio non verniciato
+- Senza manico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005VVWVBE/?tag=tolees00-21)
