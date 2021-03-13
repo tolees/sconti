@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 21.26 % su CMP Rigel Low Trekking Shoe Wp  Scarpe d  '
-date: 2021-03-10 16:22:07
+date: 2021-03-13 11:35:21
 image: 'https://m.media-amazon.com/images/I/41S3S53xprL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'CMP'
 buyurl: 'https://www.amazon.it/dp/B07K7S9CL7/?tag=tolees00-21'
 descuento: '21.26'
-average: '58.97'
+average: '59.5385714285714'
 ---
 
 [CMP Rigel Low Trekking Shoe Wp  Scarpe da Trekking Basse Uomo  Nero  Negro-Grey 73uc   43 EU](https://www.amazon.it/dp/B07K7S9CL7/?tag=tolees00-21) ha un prezzo di 62.95 EUR (originale: 79.95 EUR) con uno sconto del 21.26 % sconto qui:

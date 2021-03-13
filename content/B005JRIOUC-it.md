@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 27.13 % su Clementoni - Dell Oca Gioco Da Tavolo Co  '
-date: 2021-03-10 16:21:08
+date: 2021-03-13 11:45:20
 image: 'https://m.media-amazon.com/images/I/51ibN1C-onL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '9.4'
 
 ℹ️:
 
+- Un grande classico dei giochi da tavolo, un evergreen che ancora oggi coinvolge nel gioco grandi e piccoli. Lunico con paperelle in legno.
 - Età minima: 6 anni
 - Codice prodotto 12927
 - Dimensioni: 5,00 x 28,10 x 37,00 cm
-- Un grande classico dei giochi da tavolo, un evergreen che ancora oggi coinvolge nel gioco grandi e piccoli. Lunico con paperelle in legno.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005JRIOUC/?tag=tolees00-21)
