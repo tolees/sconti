@@ -28,9 +28,9 @@ average: '14.49'
 
 ℹ️:
 
+- Formato scorta con 6 Confezioni composte da 1 tubo e 6 dischetti
 - Duck Fresh Discs sono dischi in gel che aderiscono alla parete del tuo WC, più igienici e discreti rispetto alle classiche tavolette solide
 - Pulisce e rinfresca il WC ad ogni risciacquo fino a 8 settimane
-- Formato scorta con 6 Confezioni composte da 1 tubo e 6 dischetti
 - Esclusiva fragranza Jasmine Jump, floreale ed energizzante, una vera esplosione di fragranza!
 - Grazie allinnovativa tecnologia "Barriera Antiodore" neutralizza gli odori, rilasciando un piacevole profumo con ogni scarico
 
