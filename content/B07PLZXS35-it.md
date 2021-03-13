@@ -28,11 +28,11 @@ average: '5.97714285714286'
 
 ℹ️:
 
-- Scopo del gioco è imitare lazione o lanimale illustrato nella carta cercando di farla indovinare agli altri
+- Il gioco contiene 50 carte con simpatici personaggi raffigurati in buffe smorfie e pose
+- Made in Italy.
 - il vincitore sarà chi riuscirà a indovinare il maggior numero di imitazioni.
 - Il tradizionale gioco del mimo fatto su misura per i bambini in età prescolare!
+- Scopo del gioco è imitare lazione o lanimale illustrato nella carta cercando di farla indovinare agli altri
 - Età consigliata: 4 - 99 anni.
-- Made in Italy.
-- Il gioco contiene 50 carte con simpatici personaggi raffigurati in buffe smorfie e pose
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PLZXS35/?tag=tolees00-21)
