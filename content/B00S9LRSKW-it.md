@@ -29,7 +29,7 @@ average: '9.25'
 ℹ️:
 
 - Codice prodotto: IAF00080153
-- Marchio: Specchiasol
 - Peso articolo e imballo: 0.1 grammi
+- Marchio: Specchiasol
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S9LRSKW/?tag=tolees00-21)

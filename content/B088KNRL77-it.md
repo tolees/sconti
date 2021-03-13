@@ -29,9 +29,9 @@ average: '149.090769230769'
 ℹ️:
 
 - Operating system: Android 10.0
-- Battery: 5000 mAh
 - Display: 6.5 ", 1080 x 2400 pixels
-- Camera: Quad, 12MP + 8MP + 2MP + 2MP
 - Processor: Snapdragon 665 2GHz
+- Battery: 5000 mAh
+- Camera: Quad, 12MP + 8MP + 2MP + 2MP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088KNRL77/?tag=tolees00-21)

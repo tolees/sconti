@@ -28,8 +28,8 @@ Puoi trovare [Lacoste L1212  T-Shirt Polo  Uomo  Blu  Marine 166   FR 7](https:/
 
 ℹ️:
 
+- Machine-washable at 40 °C
 - Long sleeves
 - 100% cotton
-- Machine-washable at 40 °C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0028C8SDO/?tag=tolees00-21)

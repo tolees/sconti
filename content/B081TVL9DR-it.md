@@ -28,10 +28,10 @@ average: '152.23'
 
 ℹ️:
 
-- Facile da usare e doppia autonomia di volo: è più facile per i principianti, dotato di funzioni come il posizionamento del navigatore satellitare GPS, mantenimento dellaltitudine, modalità senza testa, decollo / atterraggio a un pulsante, arresto di emergenza, 2 batterie forniscono una autonomia di 30 minuti, rende il tuo volo più eccitante e interessante.
-- Immagini e video FHD e trasmissione 5G WiFi: telecamera 1080P FHD obiettivo grandangolare a 110 ° con angolo regolabile, che cattura video e chiare foto aeree di alta qualità. La trasmissione 5G wifi 800ft garantisce limmagine in tempo reale ad alta velocità.
 - Controllo dei gesti: il controllo gesti ti consente di posare davanti alla telecamera per attivare la presa di scattare foto e iniziare la registrazione video. Ora puoi liberare le mani e posare il tuo gesto più affascinante o ballare con la persona amata.
 - Ritorno automatico con GPS e volo più sicuro: il posizionamento GPS aiuta il drone SP500 a mantenere una altezza certa per catturare immagini più chiare e tornare a casa esatamente quando la batteria è scarica, il segnale viene perso o vuoi recuperarlo. Non perdere mai il tuo drone.
 - Goditi il tuo volo: può volare a tuo piacimento utilizzando la modalità "Seguimi" o "Traccia un percorso" nello schermo di controllo dellapp SNAPTAIN Nova. Puoi persino utilizzare lapp per impostare un cerchio attorno a un oggetto e pianificare un percorso desiderato per concentrarti sulla cattura di foto e video e divertirti allaperto.
+- Immagini e video FHD e trasmissione 5G WiFi: telecamera 1080P FHD obiettivo grandangolare a 110 ° con angolo regolabile, che cattura video e chiare foto aeree di alta qualità. La trasmissione 5G wifi 800ft garantisce limmagine in tempo reale ad alta velocità.
+- Facile da usare e doppia autonomia di volo: è più facile per i principianti, dotato di funzioni come il posizionamento del navigatore satellitare GPS, mantenimento dellaltitudine, modalità senza testa, decollo / atterraggio a un pulsante, arresto di emergenza, 2 batterie forniscono una autonomia di 30 minuti, rende il tuo volo più eccitante e interessante.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081TVL9DR/?tag=tolees00-21)

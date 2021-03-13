@@ -28,7 +28,7 @@ average: '16.9766666666667'
 
 ℹ️:
 
-- Realizzata in tessuto, comprende pellicola protezione schermo
 - Custodia a chiusura, avvolge interamente e grazie alla protezione della parte superiore copre Nintendo Switch lite
+- Realizzata in tessuto, comprende pellicola protezione schermo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZRL65YK/?tag=tolees00-21)

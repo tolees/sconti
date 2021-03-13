@@ -28,8 +28,8 @@ average: '37.69'
 
 ℹ️:
 
+- Stabilising element in the midfoot area gives you even more support and stability while you run
 - Responsive Cloudfoam midsole for optimal cushioning and comfort
 - Mesh upper is very light and breathable, which ensures an ideal temperature balance
-- Stabilising element in the midfoot area gives you even more support and stability while you run
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082SZGCH9/?tag=tolees00-21)
