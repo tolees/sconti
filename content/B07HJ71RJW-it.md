@@ -28,9 +28,9 @@ average: '7.80321428571429'
 
 ℹ️:
 
-- Portachiavi tascabile
 - Presentato in una scatola con finestra
-- Ottima idea regalo
 - Licenza ufficiale da Funko
+- Ottima idea regalo
+- Portachiavi tascabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HJ71RJW/?tag=tolees00-21)
