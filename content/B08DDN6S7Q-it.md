@@ -28,11 +28,11 @@ average: '15.988'
 
 ℹ️:
 
-- Facile da dosare
-- Dalla combinazione di sostanze ad alto potere pulente
-- Si dissolve veloce durante il lavaggio
-- Colori ottimi lavaggio dopo lavaggio
 - Ottimale per lavare i capi colorati
 - Detersivo liquido che può essere usato per pre-trattare
+- Si dissolve veloce durante il lavaggio
+- Colori ottimi lavaggio dopo lavaggio
+- Dalla combinazione di sostanze ad alto potere pulente
+- Facile da dosare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DDN6S7Q/?tag=tolees00-21)

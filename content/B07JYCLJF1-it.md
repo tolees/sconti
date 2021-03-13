@@ -28,10 +28,10 @@ average: '17.0'
 
 ℹ️:
 
-- Brand: TOMMY HILFIGER
-- Articolo: T-SHIRT
 - Colore: Bianco
+- Brand: TOMMY HILFIGER
 - Modello: DM0DM04792
+- Articolo: T-SHIRT
 - Tipologia: UOMO
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JYCLJF1/?tag=tolees00-21)

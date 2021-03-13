@@ -28,13 +28,13 @@ Puoi trovare [Eastpak Orbit Mini Zaino  34 cm  10 L  Nero  Brize Leave Black ](h
 
 ℹ️:
 
-- Crafted from 100 Percent polyester
 - Padded back panel and adjustable shoulder straps
-- Main compartment with a zip-fastening front pocket
-- The shoulder straps may seem slightly stiff at first but will become more flexible over time
 - In Eastpak Brize Leaves Black colourway
-- Height: 33.5 cm, Width: 23 cm, Depth: 15 cm
+- Main compartment with a zip-fastening front pocket
+- Crafted from 100 Percent polyester
 - No animal products are used to make this 100 Percent vegan product
 - This miniature version of our iconic backpack is smaller in size than your average backpack
+- Height: 33.5 cm, Width: 23 cm, Depth: 15 cm
+- The shoulder straps may seem slightly stiff at first but will become more flexible over time
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0815FX4ZC/?tag=tolees00-21)

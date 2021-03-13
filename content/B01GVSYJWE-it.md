@@ -28,8 +28,8 @@ average: '9.83'
 
 ℹ️:
 
-- Infanzia e premaman
-- Marca: Lulabi
 - Dimensioni: 28x41x14 cm
+- Marca: Lulabi
+- Infanzia e premaman
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GVSYJWE/?tag=tolees00-21)

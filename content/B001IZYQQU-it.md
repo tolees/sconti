@@ -31,7 +31,7 @@ average: '2.7'
 - Oftalmologicamente testato e adatto alluso con lenti a contatto
 - Kohl Pencil: sufficientemente dura per una definizione straordinaria e abbastanza morbida da creare lʼeffetto smokey eye
 - Effetti e benefici: ideale per marcare la rima inferiore dell’occhio e dare profondità allo sguardo
-- Applicazione: traccia una riga precisa lungo la rima inferiore e/o superiore delle ciglia se desideri usarla come eyeliner
 - Formula: ideale per chi ha occhi sensibili e indicata anche come protezione dal riverbero solare
+- Applicazione: traccia una riga precisa lungo la rima inferiore e/o superiore delle ciglia se desideri usarla come eyeliner
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001IZYQQU/?tag=tolees00-21)
