@@ -28,10 +28,10 @@ average: '7.32'
 
 ℹ️:
 
-- MODO DUSO: Usa il dentifricio BlanX O₃X prima e dopo i trattamenti sbiancanti per mantenere sempre uno smalto bianco e splendente
 - FORMULA ESCLUSIVA: combina la nuova tecnologia sbiancante O₃X a base di Ossigeno Attivo con Perlite e Licheni Artici naturali. O₃X libera ossigeno non aggressivo sullo smalto rimuovendo le macchie
-- PERLITE E LICHENI NATURALI: agente lucidante naturale e delicato sullo smalto, usato dai professionisti, combinato con licheni che combattono la placca e i batteri cromogeni che macchiano lo smalto
 - BIANCO NATURALE: Blanx Sbiancante è il dentifricio a base di licheni artici e ossigeno attivo che restituisce ai denti il loro bianco naturale, rende i denti più lucidi e luminosi
 - BLANX: dentifricio a base di Licheni Artici che restituisce ai denti il loro bianco naturale. Le sue silici di alta qualità puliscono in profondità e delicatamente lo smalto senza danneggiarlo
+- PERLITE E LICHENI NATURALI: agente lucidante naturale e delicato sullo smalto, usato dai professionisti, combinato con licheni che combattono la placca e i batteri cromogeni che macchiano lo smalto
+- MODO DUSO: Usa il dentifricio BlanX O₃X prima e dopo i trattamenti sbiancanti per mantenere sempre uno smalto bianco e splendente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z9NMBFC/?tag=tolees00-21)
