@@ -28,8 +28,8 @@ Puoi trovare [Adidas Continental 80 J  Scarpe da Ginnastica Unisex Bambini  Bian
 
 ℹ️:
 
-- Scarpe sportive
 - Stile vintage
 - Tomaia in pelle liscia
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGPPZD8/?tag=tolees00-21)

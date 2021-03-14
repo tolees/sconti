@@ -30,8 +30,8 @@ Puoi trovare [Maybelline New York Mascara The Colossal Big Shot  Maxi Scovolino 
 
 - Contenuto: 1x Mascara Waterproof The Colossal Big Shot Maybelline New York, Colore: Nero, Quantità: 9,5 ml
 - Mascara volumizzante waterproof per ciglia folte e un mega volume
-- Ciglia volumizzate dalle radici alle punte in una sola passata, Per uno sguardo dimpatto, Le ciglia sono rivestite per un volume senza limiti
-- Applica il mascara dalla radice alla punta per allungare le ciglia al massimo, Ripassa più volte per un effetto più evidente e di maggiore impatto
 - Applicatore mega volume con setole a onda che caricano e rilasciano più formula, Formula waterproof al collagene volumizzante, Oftalmologicamente testato, Adatto a occhi sensibili e portatori di lenti a contatto
+- Applica il mascara dalla radice alla punta per allungare le ciglia al massimo, Ripassa più volte per un effetto più evidente e di maggiore impatto
+- Ciglia volumizzate dalle radici alle punte in una sola passata, Per uno sguardo dimpatto, Le ciglia sono rivestite per un volume senza limiti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071YWJM2Y/?tag=tolees00-21)

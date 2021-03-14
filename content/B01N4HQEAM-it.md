@@ -28,9 +28,9 @@ Puoi trovare [MULTICENTRUM Uomo Integratore  Confezione da 30 Pezzi](https://www
 
 ℹ️:
 
-- Foruato capsule
-- Codice del prodotto: mul0100014/2
-- Scopri la nostra vasta gamma di prodotti
 - Multicentrum uomo è un integratore alimentare multivitaminico multiminerale, appositamente formulato per supportare le esigenze degli uomini
+- Foruato capsule
+- Scopri la nostra vasta gamma di prodotti
+- Codice del prodotto: mul0100014/2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21)
