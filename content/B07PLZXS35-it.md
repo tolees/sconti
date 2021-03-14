@@ -28,11 +28,11 @@ average: '5.98'
 
 ℹ️:
 
-- Il gioco contiene 50 carte con simpatici personaggi raffigurati in buffe smorfie e pose
 - Made in Italy.
 - Età consigliata: 4 - 99 anni.
-- Il tradizionale gioco del mimo fatto su misura per i bambini in età prescolare!
 - il vincitore sarà chi riuscirà a indovinare il maggior numero di imitazioni.
+- Il gioco contiene 50 carte con simpatici personaggi raffigurati in buffe smorfie e pose
 - Scopo del gioco è imitare lazione o lanimale illustrato nella carta cercando di farla indovinare agli altri
+- Il tradizionale gioco del mimo fatto su misura per i bambini in età prescolare!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PLZXS35/?tag=tolees00-21)

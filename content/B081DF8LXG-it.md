@@ -29,9 +29,9 @@ Puoi trovare [Rio Mare - Filetti di Sgombro Grigliati Piccanti con Olio di Oliva
 ℹ️:
 
 - Consigli uso: da provare con un contorno di broccoli spadellati
+- Ingredienti: sgombro* 84%, olio di oliva 10%, peperoncino 5%, sale, aroma *Scomber scombrus
+- Filetti di sgombro lavorati accuratamente a mano, cotti alla griglia e conditi con pezzetti di peperoncino per un gusto intenso e sfizioso
 - Formato: confezione da 1 lattina da 120 g
 - Rio Mare, Qualità Responsabile dal mare alla tua tavola
-- Filetti di sgombro lavorati accuratamente a mano, cotti alla griglia e conditi con pezzetti di peperoncino per un gusto intenso e sfizioso
-- Ingredienti: sgombro* 84%, olio di oliva 10%, peperoncino 5%, sale, aroma *Scomber scombrus
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081DF8LXG/?tag=tolees00-21)

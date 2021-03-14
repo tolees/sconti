@@ -29,7 +29,7 @@ average: '19.49'
 ℹ️:
 
 - 4K Ultra HD
-- Alfred Hitchcock
 - Classici
+- Alfred Hitchcock
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5TYCT3/?tag=tolees00-21)

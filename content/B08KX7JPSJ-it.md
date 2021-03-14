@@ -29,9 +29,9 @@ average: '45.0982352941177'
 ℹ️:
 
 - Scegli la tua musica e i tuoi scenari preferiti e dacci dentro con gli esercizi.
-- Scegli il tuo istruttore preferito fra i nove disponibili. Ce ne sono anche 3 nuovi: janice, hiro e Karen.
 - Personalizza labbigliamento del tuo istruttore per rendere gli allenamenti ancora più vari!
-- Se ami tenerti in forma e la musica ti accompagna sempre nei tuoi allenamenti Con Fitness Boxing 2: Rhythm & Exercise potrai combinare esercizio fisico e divertimento.
+- Scegli il tuo istruttore preferito fra i nove disponibili. Ce ne sono anche 3 nuovi: janice, hiro e Karen.
 - Questo capitolo include diverse funzioni, tra cui una modalità per due giocatori, una funzione di avviso e la possibilità di eliminare alcune mosse di boxe.
+- Se ami tenerti in forma e la musica ti accompagna sempre nei tuoi allenamenti Con Fitness Boxing 2: Rhythm & Exercise potrai combinare esercizio fisico e divertimento.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KX7JPSJ/?tag=tolees00-21)

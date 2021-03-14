@@ -28,11 +28,11 @@ Puoi trovare [Meliconi Control TV.1 Telecomando Universale  per TV standard e pe
 
 ℹ️:
 
-- Design curato nei dettagli e ottima usabilità (tasti grandi)
-- Dimensioni (cm): 16 x 4,3
-- Supporto anche via SMS
-- Facile da programmare (guida veloce inclusa nella confezione)
 - Supporto web completo (programma di ricerca codici, videoguide, istruzioni complete) consultabile da PC Smartphone e Tablet
+- Supporto anche via SMS
+- Dimensioni (cm): 16 x 4,3
+- Design curato nei dettagli e ottima usabilità (tasti grandi)
 - Assistenza tecnica telefonica 100% italiana - specializzata nei telecomandi e nei prodotti elettronici Meliconi
+- Facile da programmare (guida veloce inclusa nella confezione)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MVWQ54J/?tag=tolees00-21)
