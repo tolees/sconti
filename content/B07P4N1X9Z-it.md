@@ -28,9 +28,9 @@ average: '64.18'
 
 ℹ️:
 
-- Pezzi di sostituto - Viti e rotelle aggiuntive sono previste per sostituire. Tutte le viti sono anti-allentati, confezionati e numerate
-- Stabile e affidabile - I pezzi di braccioli, supporto della seduta, rotelle, pistone di gas e la base di ∅ 70 cm sono passati la verificazione TÜV Rheinland
 - Design ergonomico - La curvatura dello schienale adatta al corpo, laltezza totale è 107-117 cm, laltezza dello schienale è 70 cm (è più adatta a persone fino a 175 cm di altezza), laltezza della seduta è 45-55 cm, rotazione 360°
+- Stabile e affidabile - I pezzi di braccioli, supporto della seduta, rotelle, pistone di gas e la base di ∅ 70 cm sono passati la verificazione TÜV Rheinland
+- Pezzi di sostituto - Viti e rotelle aggiuntive sono previste per sostituire. Tutte le viti sono anti-allentati, confezionati e numerate
 - Alta qualità - La copertura similpelle è di PU, facile da pulire; la seduta è imbottita da spugna di alta densità con buona elasticità, è anche resistente a deformazione
 - Rotelle di PU - Basso rumore, non si usura pavimento. Le rotelle sono adatte per il pavimento duro
 

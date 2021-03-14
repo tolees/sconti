@@ -28,10 +28,10 @@ Puoi trovare [Maegoo Wireless Controller PC PS3  2.4GHz Bluetooth Wireless Andro
 
 ℹ️:
 
-- Disegno ergonomico: Il design soddisfa perfettamente lergonomia. Il cappuccio del rocker termoplastico si adatta al tuo dito, per evitare che il dito scivoloso.
 - Servizio: Se avete domande circa il gamepad o le operazioni, non esitate a contattarci, siamo sempre qui per voi. Garanzia 12 mesi.
+- Disegno ergonomico: Il design soddisfa perfettamente lergonomia. Il cappuccio del rocker termoplastico si adatta al tuo dito, per evitare che il dito scivoloso.
+- Supporto aggiuntivo: Il nostro controller di gioco dispone di una staffa per tenere il tuo smartphone android.
 - Multi-Compatibilità: Il gamepad è compatibile con lo smartphone Android (Huawei / Samsung / Doogee / Cubot ecc.), PC (Windows), PS3, Smart TV.
 - Multi-connessioni: collegato tramite Bluetooth / 2.4GHz dongle. La connessione Bluetooth è per smartphone android / tablet, connessione 2.4GHz è per windows pc / ps3 / smart tv.
-- Supporto aggiuntivo: Il nostro controller di gioco dispone di una staffa per tenere il tuo smartphone android.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Y5LX2CB/?tag=tolees00-21)

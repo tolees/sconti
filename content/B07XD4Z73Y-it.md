@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Black Widow (White Suit) e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Scopri tutte le altre statuine Black Widow di funko e collezionale tutte
+- Black Widow (White Suit) e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Funko pop è il giocattolo dellanno 2018
 - Uniconica statuina funko pop vinyl della serie Black Widow
 

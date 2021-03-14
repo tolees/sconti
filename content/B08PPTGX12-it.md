@@ -28,10 +28,10 @@ Puoi trovare [Samsung Cover in silicone con S Pen per Galaxy S21 Ultra 5G  2021 
 
 ℹ️:
 
-- Colore: nero
-- Realizzata in morbido silicone, questa custodia fornisce al tuo smartphone una protezione a tutto tondo
 - E grazie al design sottile, che non aggiunge volume, oltre a prevenire danni, mantiene compatte le dimensioni del tuo smartphone
-- Marchio: Samsung
+- Realizzata in morbido silicone, questa custodia fornisce al tuo smartphone una protezione a tutto tondo
+- Colore: nero
 - Elegante alla vista e morbida al tatto, la cover in silicone aggiunge una nota di morbidezza all’esterno del tuo smartphone, con una finitura opaca dal grip confortevole
+- Marchio: Samsung
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PPTGX12/?tag=tolees00-21)

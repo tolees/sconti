@@ -28,10 +28,10 @@ average: '25.75'
 
 ℹ️:
 
-- Materiale e vestibilità – Under Armour Mojo scarpe jogging, ammortizzate e aderenti al terreno, materiale: tessuto e gomma, altezza suola: 8 mm
-- Chiusura: Stringata
 - Materiale esterno: Pelle sintetica
 - Materiale suola: Sintetico
+- Chiusura: Stringata
+- Materiale e vestibilità – Under Armour Mojo scarpe jogging, ammortizzate e aderenti al terreno, materiale: tessuto e gomma, altezza suola: 8 mm
 - Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0777WVV1S/?tag=tolees00-21)

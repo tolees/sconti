@@ -28,9 +28,9 @@ Puoi trovare [LEGO Architecture La Casa Bianca  Collezione Monumenti per Adult
 
 ℹ️:
 
-- Una sfida di costruzione pratica e coinvolgente, ottimo per rilassarsi e rigenerarsi
 - I dettagli autentici rendono questo modello adatto da esporre a casa o in ufficio
 - Il modello da esposizione La Casa Bianca LEGO Architecture è molto dettagliato
+- Una sfida di costruzione pratica e coinvolgente, ottimo per rilassarsi e rigenerarsi
 - Il modello è suddiviso in 3 sezioni per semplificare la visualizzazione dei dettagli architettonici
 - Divertiti a riprodurre la residenza esecutiva, l’ala ovest, l’ala est, il Giardino delle rose e le altri parti della struttura
 
