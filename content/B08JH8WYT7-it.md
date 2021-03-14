@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 16.90 % su Sony - Sackboy: A Big Adventure - PS5  '
-date: 2021-03-13 11:49:36
+date: 2021-03-14 12:12:43
 image: 'https://m.media-amazon.com/images/I/51hL9hHdesL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B08JH8WYT7/?tag=tolees00-21'
 descuento: '16.90'
-average: '58.5523529411765'
+average: '58.5766666666667'
 ---
 
 [Sony - Sackboy: A Big Adventure - PS5](https://www.amazon.it/dp/B08JH8WYT7/?tag=tolees00-21) ha un prezzo di 58.99 EUR (originale: 70.99 EUR) con uno sconto del 16.90 % sconto qui:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 53.18 % su Under Armour UA Mojo  Scarpe da Corsa Uo  '
-date: 2021-03-12 14:45:25
+date: 2021-03-14 11:19:04
 image: 'https://m.media-amazon.com/images/I/31GTmp2fcvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '25.75'
 
 ℹ️:
 
-- Fodera: Tessuto
-- Materiale esterno: Pelle sintetica
-- Chiusura: Stringata
 - Materiale e vestibilità – Under Armour Mojo scarpe jogging, ammortizzate e aderenti al terreno, materiale: tessuto e gomma, altezza suola: 8 mm
+- Chiusura: Stringata
+- Materiale esterno: Pelle sintetica
 - Materiale suola: Sintetico
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0777WVV1S/?tag=tolees00-21)

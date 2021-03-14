@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 23.08 % su Tablet Android 10 TECLAST P80 Tablet da   '
-date: 2021-03-09 17:26:50
+date: 2021-03-14 12:03:23
 image: 'https://m.media-amazon.com/images/I/31LDsNe6CEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '99.99'
 
 ℹ️:
 
-- 【 Multifunzione 】 È dotato di Wi-Fi ad alta velocità dual-band e Bluetooth 5.0, con connettività per tastiera Bluetooth; Batteira da 4000mAh.
 - 【 Veloce e Reattivo 】 Il tablet è dotato del potente processore Quad-core da 2 GB di RAM, con processore grafico GE8300 , che fornisce sia dettagli dellimmagine di alta qualità che migliora leffetto colore dellimmagine per creare la visione ottimale finale.
-- 【 Schermo IPS 】 Il tablet da 8.0 pollici ha uno schermo IPS 1280 x 800. Il tablet Android è inoltre dotato di 2GB di memoria RAM e 32GB di memoria ROM, e supporta le schede TF per espandere la capacità di memoria, in modo da poter utilizzare e scaricare software più popolari in condizioni di rapida operatività.
 - 【 Comodo da trasportare 】 Il tablet con design laterale stretto da 6 mm e dimensioni compatte da 8 pollici, pesa solo 310 grammi, possiamo controllare facilmente il tablet con una mano.
 - 【 Android 10.0 】 Il tablet è dotato del sistema operativo Android 10.0, sbarazzati di annunci inaspettati e scarica app da Google Play come SkyGo, NetFlix, YouTube e altro ancora!
+- 【 Multifunzione 】 È dotato di Wi-Fi ad alta velocità dual-band e Bluetooth 5.0, con connettività per tastiera Bluetooth; Batteira da 4000mAh.
+- 【 Schermo IPS 】 Il tablet da 8.0 pollici ha uno schermo IPS 1280 x 800. Il tablet Android è inoltre dotato di 2GB di memoria RAM e 32GB di memoria ROM, e supporta le schede TF per espandere la capacità di memoria, in modo da poter utilizzare e scaricare software più popolari in condizioni di rapida operatività.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08S2YM1VC/?tag=tolees00-21)

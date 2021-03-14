@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 35.62 % su Xiaomi - Redmi 9 Samartphone - 4Gb 64Gb   '
-date: 2021-03-13 05:29:25
+title: 'sconto del 35.89 % su Xiaomi - Redmi 9 Samartphone - 4Gb 64Gb   '
+date: 2021-03-14 12:16:31
 image: 'https://m.media-amazon.com/images/I/41wcXQ95grL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B089WCSTLY-it Xiaomi - Redmi 9 Samartphone - 4Gb 64Gb Ai Quad Kamera...'
 sku: 'B089WCSTLY-it'
 tags: [  ]
-actualPrice: 117.99 EUR
+actualPrice: 117.48 EUR
 currency: EUR
-price: 117.99
+price: 117.48
 comparePrice: 183.26 EUR
 prodname: 'Xiaomi - Redmi 9 Samartphone - 4Gb 64Gb Ai Quad Kamera 6.53" Full Hd + Display 5020Mah  Typ  Nero [Versione Globale]'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B089WCSTLY/?tag=tolees00-21'
-descuento: '35.62'
-average: '140.697755102041'
+descuento: '35.89'
+average: '140.2334'
 ---
 
-[Xiaomi - Redmi 9 Samartphone - 4Gb 64Gb Ai Quad Kamera 6.53" Full Hd + Display 5020Mah  Typ  Nero [Versione Globale]](https://www.amazon.it/dp/B089WCSTLY/?tag=tolees00-21) ha un prezzo di 117.99 EUR (originale: 183.26 EUR) con uno sconto del 35.62 % sconto qui:
+[Xiaomi - Redmi 9 Samartphone - 4Gb 64Gb Ai Quad Kamera 6.53" Full Hd + Display 5020Mah  Typ  Nero [Versione Globale]](https://www.amazon.it/dp/B089WCSTLY/?tag=tolees00-21) ha un prezzo di 117.48 EUR (originale: 183.26 EUR) con uno sconto del 35.89 % sconto qui:
 
 [![Xiaomi - Redmi 9 Samartphone - 4Gb 64Gb ](https://m.media-amazon.com/images/I/41wcXQ95grL._SL400_.jpg)](https://www.amazon.it/dp/B089WCSTLY/?tag=tolees00-21)
 
 ℹ️:
 
 - Con una batteria di dimensioni ridotte e una tecnologia di ricarica rapida da 18 watt, sia che tu passi il tempo a guardare film, giocare o fare telefonate, ti fornirà tutta la potenza di cui hai bisogno.
-- Nuovo look fresco. Lesclusivo design circolare attorno al modulo della fotocamera offre una sensazione di equilibrio ed eleganza. La parte posteriore presenta un design strutturato che impedisce le impronte digitali e mantiene il dispositivo sempre come nuovo.
-- Più potenza per il tuo divertimento. Prestazioni potenti e stabili, multitasking fluido, esperienza audiovisiva e di gioco senza interruzioni.
 - FOTOCAMERA AI QUAD. Passa liberamente da una modalità allaltra per catturare vari tipi di scenari con la AI Quad Camera.
+- Più potenza per il tuo divertimento. Prestazioni potenti e stabili, multitasking fluido, esperienza audiovisiva e di gioco senza interruzioni.
+- Nuovo look fresco. Lesclusivo design circolare attorno al modulo della fotocamera offre una sensazione di equilibrio ed eleganza. La parte posteriore presenta un design strutturato che impedisce le impronte digitali e mantiene il dispositivo sempre come nuovo.
 - Espandi i tuoi orizzonti. La risoluzione Full HD + 2340x1080 garantisce unesperienza visiva coinvolgente e offre una visione chiara del mondo che ti circonda.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089WCSTLY/?tag=tolees00-21)

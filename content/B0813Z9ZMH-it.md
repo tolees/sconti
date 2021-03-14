@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.04 % su adidas Superstar J  Scarpe da Ginnastica  '
-date: 2021-03-13 11:26:06
+date: 2021-03-14 12:06:14
 image: 'https://m.media-amazon.com/images/I/41knYdxedsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '41.97'
 
 ℹ️:
 
-- Stile vintage
-- Scarpe sportive
 - Tomaia in pelle
+- Scarpe sportive
+- Stile vintage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813Z9ZMH/?tag=tolees00-21)
