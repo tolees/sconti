@@ -28,7 +28,7 @@ average: '14.235'
 
 ℹ️:
 
-- Fibra naturale
 - Filo di scozia
+- Fibra naturale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B9JMSVQ/?tag=tolees00-21)

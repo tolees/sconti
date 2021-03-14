@@ -28,10 +28,10 @@ average: '43.015'
 
 ℹ️:
 
-- Tipo di meccanismo: quarzo
+- Pressione massima: 5 bar
 - Modello con data display
 - Bracciale in acciaio inox
-- Pressione massima: 5 bar
+- Tipo di meccanismo: quarzo
 - Tipo di vetro: minerale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GBK7PLQ/?tag=tolees00-21)
