@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- Include 3 personaggi LEGO DUPLO: un pilota, un papà e un bambino
-- Contiene un terminale aeroportuale con scivolo per bagagli, cancello di imbarco e torre di controllo girevole, più un aereo costruibile con ruote
 - Recati all’aeroporto e fai il check-in mettendo il bagaglio sullo scivolo
-- Gli accessori includono una valigia e un mattoncino regalo
+- Contiene un terminale aeroportuale con scivolo per bagagli, cancello di imbarco e torre di controllo girevole, più un aereo costruibile con ruote
+- Include 3 personaggi LEGO DUPLO: un pilota, un papà e un bambino
 - Aiuta il pilota a effettuare i controlli di sicurezza sull’aereo prima del decollo
+- Gli accessori includono una valigia e un mattoncino regalo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00T7SAYSO/?tag=tolees00-21)
