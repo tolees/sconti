@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.75 % su Tommy Hilfiger Eton CC And Coin Pocket    '
-date: 2021-03-09 16:59:55
+date: 2021-03-13 23:09:38
 image: 'https://m.media-amazon.com/images/I/41s1kLcu19L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.it/dp/B00X0W9WZY/?tag=tolees00-21'
 descuento: '36.75'
-average: '55.8640625'
+average: '55.1785294117647'
 ---
 
 [Tommy Hilfiger Eton CC And Coin Pocket  Portafoglio Uomo  Nero  75 cm](https://www.amazon.it/dp/B00X0W9WZY/?tag=tolees00-21) ha un prezzo di 44.21 EUR (originale: 69.9 EUR) con uno sconto del 36.75 % sconto qui:
