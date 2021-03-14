@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 59.99 % su adidas Grand Court  Scarpe Sportive Mens  '
-date: 2021-03-02 07:10:28
+date: 2021-03-14 14:08:29
 image: 'https://m.media-amazon.com/images/I/41AhkZ3rwtL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '27.99'
 
 ℹ️:
 
+- Tomaia in similpelle
 - 3 strisce sui lati
 - Scarpe sportive
-- Tomaia in similpelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FMG1NVN/?tag=tolees00-21)

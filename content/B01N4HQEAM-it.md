@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Multicentrum Uomo Integratore - 30 Compr al 34.91 % di sconto'
-date: 2020-09-18 10:03:26
-image: 'https://m.media-amazon.com/images/I/51+X0g7hkvL._SL400_.jpg'
+title: 'MULTICENTRUM Uomo Integratore  Confezion al 25.22 % di sconto'
+date: 2021-03-14 14:55:02
+image: 'https://m.media-amazon.com/images/I/51Km6wfrmIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4HQEAM-it Multicentrum Uomo Integratore - 30 Compresse'
+slug: 'B01N4HQEAM-it MULTICENTRUM Uomo Integratore Confezione da 30 Pezzi'
 sku: 'B01N4HQEAM-it'
 tags: [  ]
-actualPrice: 10.35 EUR
+actualPrice: 11.89 EUR
 currency: EUR
-price: 10.35
+price: 11.89
 comparePrice: 15.9 EUR
-prodname: 'Multicentrum Uomo Integratore - 30 Compresse'
+prodname: 'MULTICENTRUM Uomo Integratore  Confezione da 30 Pezzi'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'MULTICENTRUM'
 buyurl: 'https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21'
-descuento: '34.91'
-average: '10.35'
+descuento: '25.22'
+average: '10.79'
 ---
 
-Puoi trovare [Multicentrum Uomo Integratore - 30 Compresse](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21) con il prezzo 10.35 EUR (originale: 15.9 EUR) 34.91 % sconto qui:
+Puoi trovare [MULTICENTRUM Uomo Integratore  Confezione da 30 Pezzi](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21) con il prezzo 11.89 EUR (originale: 15.9 EUR) 25.22 % sconto qui:
 
-[![Multicentrum Uomo Integratore - 30 Compr](https://m.media-amazon.com/images/I/51+X0g7hkvL._SL400_.jpg)](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21)
+[![MULTICENTRUM Uomo Integratore  Confezion](https://m.media-amazon.com/images/I/51Km6wfrmIL._SL400_.jpg)](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21)
 
 ℹ️:
 
+- Foruato capsule
+- Codice del prodotto: mul0100014/2
+- Scopri la nostra vasta gamma di prodotti
+- Multicentrum uomo è un integratore alimentare multivitaminico multiminerale, appositamente formulato per supportare le esigenze degli uomini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21)
