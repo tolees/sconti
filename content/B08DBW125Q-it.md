@@ -28,8 +28,8 @@ average: '7.46'
 
 ℹ️:
 
-- The
-- Skillet
 - Victorious:
+- Skillet
+- The
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DBW125Q/?tag=tolees00-21)
