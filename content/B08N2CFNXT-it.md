@@ -29,8 +29,8 @@ Puoi trovare [Equilibra Più Propoli con Vitamina C  20 Compresse](https://www.a
 ℹ️:
 
 - 1 compressa effervescente apporta 50 mg di estratto di propoli e 1000 mg di vitamina c
-- Gusto arancia
-- Per favorire la normale funzione del sistema immunitario
 - 20 compresse effervescenti
+- Per favorire la normale funzione del sistema immunitario
+- Gusto arancia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N2CFNXT/?tag=tolees00-21)

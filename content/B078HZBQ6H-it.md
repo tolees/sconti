@@ -28,9 +28,9 @@ Puoi trovare [Herschel 10014-02232 Little America Woodland Camo](https://www.ama
 
 ℹ️:
 
-- Tasca laterale interna, tracolle contornate
-- Dimensioni: l 29,21xl 17,78xa 48,9 (cm) 25l
 - Zaino
 - Fodera in tessuto a righe firmato
+- Dimensioni: l 29,21xl 17,78xa 48,9 (cm) 25l
+- Tasca laterale interna, tracolle contornate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078HZBQ6H/?tag=tolees00-21)

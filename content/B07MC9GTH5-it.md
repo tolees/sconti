@@ -28,10 +28,10 @@ average: '40.97'
 
 ℹ️:
 
-- Tons of content - Includes all previously released extra content, DLC and the Dark Arisen expansion content. Features the highly praised combat experience and rich customization, plus a huge underground realm to explore with terrifying monsters.
-- Adapted User Interface - Revamped user interface offers improved screen visibility.
-- Online Functionality - The iconic Pawn system comes to Nintendo Switch with online sharing abilities between Nintendo Accounts. (A Nintendo Switch Online membership is not required for online features).
-- Dynamic combat experience - Cut off the four heads of a Hydra, climb atop griffins and fight airborne, or defeat dragons and other creatures by finding out their weaknesses.
 - Customization options galore - Nine different vocations for players to choose from with a variety of skill and magick options for each, armor that can be upgraded and enhanced, plus Pawn companions that can be trained to fit your desired combat style.
+- Tons of content - Includes all previously released extra content, DLC and the Dark Arisen expansion content. Features the highly praised combat experience and rich customization, plus a huge underground realm to explore with terrifying monsters.
+- Dynamic combat experience - Cut off the four heads of a Hydra, climb atop griffins and fight airborne, or defeat dragons and other creatures by finding out their weaknesses.
+- Online Functionality - The iconic Pawn system comes to Nintendo Switch with online sharing abilities between Nintendo Accounts. (A Nintendo Switch Online membership is not required for online features).
+- Adapted User Interface - Revamped user interface offers improved screen visibility.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MC9GTH5/?tag=tolees00-21)

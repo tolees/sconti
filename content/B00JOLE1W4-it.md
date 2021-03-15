@@ -28,9 +28,9 @@ Puoi trovare [Giochi Uniti - Exodus Espansione per Battlestar Galactica](https:/
 
 ℹ️:
 
+- Età consigliata: 14 anni in su
 - Numero giocatori: da tre fino a sette
 - Adatto come regalo
 - Durata del gioco: 120-240 minuti
-- Età consigliata: 14 anni in su
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00JOLE1W4/?tag=tolees00-21)

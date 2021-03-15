@@ -28,11 +28,11 @@ average: '218.75'
 
 ℹ️:
 
-- Poggiatesta regolabile in altezza in 12 posizioni, schienale reclinabile con una mano, facilmente trasformabile nel seggiolino auto Solution M-Fix per bambini dai 3 anni (Gruppo 2/3) rimuovendo il cuscino di sicurezza e la base, sistema di aerazione
-- Su questo seggiolino Cybex prevede l’utilizzo del dispositivo antiabbandono Tippy Pad per minori da 0 a 4 anni
 - Contenuto: 1 seggiolino auto Pallas M-Fix con sistema ISOFIX Connect, Incl. guide ISOFIX, materiale rivestimento: 100% Poliestere, dimensioni (LxPxA): 43 x 54 x 70 cm, peso: 9,3 kg, colore: Rumba Red
+- Su questo seggiolino Cybex prevede l’utilizzo del dispositivo antiabbandono Tippy Pad per minori da 0 a 4 anni
+- Seggiolino auto di qualità stabile e durevole: per bambini dai 9 mesi ai 12 anni circa 9-36 kg, adatto per auto con e senza ISOFIX, verificare compatibilità sul sito Cybex
+- Poggiatesta regolabile in altezza in 12 posizioni, schienale reclinabile con una mano, facilmente trasformabile nel seggiolino auto Solution M-Fix per bambini dai 3 anni (Gruppo 2/3) rimuovendo il cuscino di sicurezza e la base, sistema di aerazione
 - Facile da fissare al sedile dellauto con la cintura di sicurezza e opzionalmente con il sistema ISOFIX per una maggiore stabilità, rivestimento sfoderabile e lavabile in lavatrice (30°C), accessori disponibili: rivestimento estivo e portabicchieri
 - Sicurezza: cuscino di sicurezza ad ampiezza regolabile, poggiatesta reclinabile in 3 posizioni, protezione dagli impatti laterali integrata (Sistema L.S.P.), scocca ad alto assorbimento durto
-- Seggiolino auto di qualità stabile e durevole: per bambini dai 9 mesi ai 12 anni circa 9-36 kg, adatto per auto con e senza ISOFIX, verificare compatibilità sul sito Cybex
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HYMCCLG/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '13.0'
 
 ℹ️:
 
+- Dimensioni: 147 x 135 cm
+- Stampa realistica
 - 2 maniglie per afferrare in sicurezza il tuo materassino
 - Kit di riparazione in caso di forature
-- Stampa realistica
-- Dimensioni: 147 x 135 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HKSZGBT/?tag=tolees00-21)
