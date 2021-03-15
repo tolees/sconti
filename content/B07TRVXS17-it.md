@@ -28,10 +28,10 @@ average: '40.89'
 
 ℹ️:
 
-- Apertura OneTouch per pulire il rasoio con facilità
 - Indicatore batteria a 1 livelli
 - Autonomia di 45minuti con 1 ora di ricarica
 - Lame PowerCut per tagliare con la massima precisione
+- Apertura OneTouch per pulire il rasoio con facilità
 - Utilizzo con e senza filo
 - Testine Flex 4D per addattarsi alle curve del viso
 

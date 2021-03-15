@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 45.01 % su Thq Nordic - Drone Championship League -  '
-date: 2021-03-13 17:51:55
+date: 2021-03-15 11:13:46
 image: 'https://m.media-amazon.com/images/I/517QuIBXxsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Thq Nordic'
 buyurl: 'https://www.amazon.it/dp/B07XC8H1FN/?tag=tolees00-21'
 descuento: '45.01'
-average: '34.0484905660378'
+average: '33.61'
 ---
 
 [Thq Nordic - Drone Championship League - The Game - Xbox One](https://www.amazon.it/dp/B07XC8H1FN/?tag=tolees00-21) ha un prezzo di 21.99 EUR (originale: 39.99 EUR) con uno sconto del 45.01 % sconto qui:
@@ -28,7 +28,7 @@ average: '34.0484905660378'
 
 ℹ️:
 
-- Quattro modalità di volo distinte
 - Dcl the game è stato creato studiando il comportamento di volo dei droni nella realtà
+- Quattro modalità di volo distinte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XC8H1FN/?tag=tolees00-21)
