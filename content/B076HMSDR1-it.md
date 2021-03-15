@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 32.63 % su adidas Football App Generic Hooded Sweat  '
-date: 2021-03-14 05:40:09
+date: 2021-03-15 10:59:36
 image: 'https://m.media-amazon.com/images/I/31hURDLdC3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'adidas'
 buyurl: 'https://www.amazon.it/dp/B076HMSDR1/?tag=tolees00-21'
 descuento: '32.63'
-average: '28.0821487603306'
+average: '28.0635772357724'
 ---
 
 [adidas Football App Generic Hooded Sweat  Uomo  Black/White  M](https://www.amazon.it/dp/B076HMSDR1/?tag=tolees00-21) ha un prezzo di 26.94 EUR (originale: 39.99 EUR) con uno sconto del 32.63 % sconto qui:
@@ -28,8 +28,8 @@ average: '28.0821487603306'
 
 ℹ️:
 
-- Core18 hoody
 - Adidas apparel
+- Core18 hoody
 - Black/white
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HMSDR1/?tag=tolees00-21)

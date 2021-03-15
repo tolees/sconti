@@ -28,7 +28,7 @@ Puoi trovare [ONLY & Sons Onsgarson Wash Crew Neck Noos Felpa  Grigio  Griffin G
 
 ℹ️:
 
-- Neckline: Crew Neck
 - Mens Jumpers by Only & Sons
+- Neckline: Crew Neck
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MYGQNI2/?tag=tolees00-21)
