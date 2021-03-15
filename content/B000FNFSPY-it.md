@@ -28,10 +28,10 @@ Puoi trovare [TP-Link TL-SF1005D Switch Desktop  5 Porte RJ45 10/100 Mbps  Plug 
 
 ℹ️:
 
-- Con auto-negoziazione, supporta auto MDI/MDIX
-- Telaio in plastica, predisposto per linstallazione su scrivania
-- ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
 - Nessuna configurazione richiesta
+- ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
+- Telaio in plastica, predisposto per linstallazione su scrivania
+- Con auto-negoziazione, supporta auto MDI/MDIX
 - Controllo di flusso IEEE 802.3x per un trasferimento dati affidabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000FNFSPY/?tag=tolees00-21)

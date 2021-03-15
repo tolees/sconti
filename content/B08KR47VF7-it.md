@@ -28,9 +28,9 @@ average: '28.1776923076923'
 
 ℹ️:
 
-- Multigiocatore multipiattaforma e Autolog
 - Comprende tutti i contenuti scaricabili principali e altri aggiornamenti
-- È il momento di scaldare i motori in Need for Speed Hot Pursuit Remastered
 - Insegui e scappa
+- È il momento di scaldare i motori in Need for Speed Hot Pursuit Remastered
+- Multigiocatore multipiattaforma e Autolog
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KR47VF7/?tag=tolees00-21)
