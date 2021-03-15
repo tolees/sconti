@@ -28,10 +28,10 @@ average: '68.14'
 
 ℹ️:
 
-- Il telaio principale è realizzato in acciaio rinforzato e ha un carico statico massimo di 400 kg e un carico dinamico di 200 kg.
-- Lo schienale e i poggiapiedi sono regolabili in quattro posizioni, in posizione orizzontale o 90 °, normale o rivolto verso lalto, con una varietà di opzioni per aumentare la libertà di movimento.
 - Adatto per palestre domestiche e professionali, puoi eseguire una varietà di esercizi come addominali e allenamento con i pesi. Per lavorare su petto, spalle, schiena, pancia, gambe e altro. CONSIGLI CALOROSI: NON SPEDIAMO IN SARDEGNA.
-- Il tappetino è realizzato in pelle sintetica di alta qualità, è resistente al sudore e traspirante, morbido e confortevole, riduce gli effetti dei movimenti e allevia il dolore.
+- Lo schienale e i poggiapiedi sono regolabili in quattro posizioni, in posizione orizzontale o 90 °, normale o rivolto verso lalto, con una varietà di opzioni per aumentare la libertà di movimento.
 - Dimensioni del prodotto (cuscino schienale piatto): 138 x 63 x 46 cm (L / P / H) Dimensioni cuscino sedile: 36 x 28 x 5 cm (L / P / H) Dimensioni cuscino schienale: 75 x 28 x 5 cm (L / P / H)
+- Il telaio principale è realizzato in acciaio rinforzato e ha un carico statico massimo di 400 kg e un carico dinamico di 200 kg.
+- Il tappetino è realizzato in pelle sintetica di alta qualità, è resistente al sudore e traspirante, morbido e confortevole, riduce gli effetti dei movimenti e allevia il dolore.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KD9BFRG/?tag=tolees00-21)

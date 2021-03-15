@@ -28,9 +28,9 @@ average: '35.99'
 
 ℹ️:
 
-- Pressione regolabile (10 impostazioni): la pressione dellacqua può variare da 20-150 psi, così ogni membro della famiglia può trovare facilmente la pressione più adatta e confortevole.
-- 8 Punte Multifunzione: le diverse punte consentono di soddisfare ogni esigenza (3x punta classiche, 1x punta parodontale, 1x punta ortodontica, 1x punta per placca dentale, 1x punta pulisci lingua, 1x punta per getto nasale).
 - Pulizia Efficace: questo idropulsore dentale rimuove 5 volte più batteri e residui dannosi nascosti in profondità tra i denti e sotto la linea gengivale, dove spazzolatura tradizionale e filo interdentale non riescono ad arrivare. Ideale per persone con implanti, corone, ponti e tasche parodontali.
+- 8 Punte Multifunzione: le diverse punte consentono di soddisfare ogni esigenza (3x punta classiche, 1x punta parodontale, 1x punta ortodontica, 1x punta per placca dentale, 1x punta pulisci lingua, 1x punta per getto nasale).
+- Pressione regolabile (10 impostazioni): la pressione dellacqua può variare da 20-150 psi, così ogni membro della famiglia può trovare facilmente la pressione più adatta e confortevole.
 - FUNZIONAMENTO PIÙ SICURO: Privo di BPA. Design estremamente silenzioso e impermeabile IPX7.
 - Ampia capacità: è dotato di un serbatoio da 600ml, che permette di estendere il tempo di utilizzo. Riempire con acqua tiepida per denti sensibili o aggiungere un collutorio per ottenere un risultato migliore.
 
