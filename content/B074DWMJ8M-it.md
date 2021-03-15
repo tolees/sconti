@@ -28,9 +28,9 @@ Puoi trovare [Cora 000120794 Set Custodie per Pneumatici  62-74 cm  Set di 4](ht
 
 ℹ️:
 
+- Su ogni custodia è raffigurata la posizione sullauto della gomma contenuta
 - In poliestere
 - Per pneumatici di diametro minimo 62 massimo 74 cm
-- Su ogni custodia è raffigurata la posizione sullauto della gomma contenuta
 - Con sacchetto in dotazione per bulloni e dadi ruota
 - Set 4 custodie per il rimessaggio degli pneumatici estivi/invernali
 

@@ -29,7 +29,7 @@ Puoi trovare [Geox U Timothy A  Oxford Flat. Uomo  Blu Navy  42 EU](https://www.
 ℹ️:
 
 - Suola: sintetica
-- Materiale esterno: pelle liscia
 - Materiale interno: mesh
+- Materiale esterno: pelle liscia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825P6VNX/?tag=tolees00-21)
