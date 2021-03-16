@@ -28,10 +28,10 @@ average: '32.0'
 
 ℹ️:
 
-- Conforme allo standard europeo EN 149:2001+A1:2009
-- Mascherina FFP2 50pz confezionata singolarmente, per una maggiore protezione da agenti esterni,
-- Prodotto di qualità ad alta efficienza di filtraggio a bassa resistenza respiratoria
-- Stiamo aggiornando la confezione, potresti ricevere buste trasparenti e stampate a lato della scatola, sono tutte prodotte dal produttore CMM e con la stessa qualità.
 - Mascherine FFP2 italiane dotate di rivestimento esterno idrorepellente e rivestimento interno
+- Stiamo aggiornando la confezione, potresti ricevere buste trasparenti e stampate a lato della scatola, sono tutte prodotte dal produttore CMM e con la stessa qualità.
+- Mascherina FFP2 50pz confezionata singolarmente, per una maggiore protezione da agenti esterni,
+- Conforme allo standard europeo EN 149:2001+A1:2009
+- Prodotto di qualità ad alta efficienza di filtraggio a bassa resistenza respiratoria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R3TGNGT/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [SUPERGA 2905-COTW Linea UP And Down  Sneaker Donna  Grigio  Grey S
 
 ℹ️:
 
+- Materiale esterno: Tela
 - Materiale suola: Gomma
 - Fodera: Tessuto
-- Materiale esterno: Tela
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TS8WCPG/?tag=tolees00-21)
