@@ -29,9 +29,9 @@ average: '14.76'
 ℹ️:
 
 - Comfort ottimale grazie al tessuto jersey 100% cotone
-- Design con logo Columbia
 - Contiene: 1x Columbia CSC Basic Logo, Maglia a maniche corte, Uomo, Colore: Blu (NavyBlue), Taglia: M, 1680053
 - Disponibile in vari colori alla moda
+- Design con logo Columbia
 - T-shirt a maniche corte da uomo, Ideale da usare tutto lanno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087RSYLMZ/?tag=tolees00-21)
