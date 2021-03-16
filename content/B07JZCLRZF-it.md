@@ -28,8 +28,8 @@ average: '25.0'
 
 ℹ️:
 
-- Misure: Complete Length: 400 mm + 50 mm
 - Materiale: Acciaio inossidabile
+- Misure: Complete Length: 400 mm + 50 mm
 - Colore principale: Argento
 - Chiusura: Chiusura a moschettone
 - Confezionato nella gift box Fossil.

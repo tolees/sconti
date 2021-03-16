@@ -29,9 +29,9 @@ Puoi trovare [Rimmel London  Confezione Regalo Donna Gold & Shock Collection  Po
 ℹ️:
 
 - Pochette: originale, effetto metalizzato su base oro dagli abbinamenti inediti, con puller personalizzato e catenina dorata
-- Soft Kohl Kajal: matita occhi kajal per un trucco intenso e audace. La sua texture morbida a lunga tenuta si sfuma facilmente ed è ultra confortevole
-- ScandalEyes Reloaded: Un mascara nero volumizzante a tenuta estrema per un effetto ciglia finte. Il maxi applicatore dalla forma conica cattura anche le ciglia più corte alla prima passata
 - Confezione regalo Gold & Shock Collection: unoriginale pochette con effetto metalizzato contenente il mascara ScandalEyes Reloaded e la matita occhi Soft Kohl Kajal
 - Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
+- ScandalEyes Reloaded: Un mascara nero volumizzante a tenuta estrema per un effetto ciglia finte. Il maxi applicatore dalla forma conica cattura anche le ciglia più corte alla prima passata
+- Soft Kohl Kajal: matita occhi kajal per un trucco intenso e audace. La sua texture morbida a lunga tenuta si sfuma facilmente ed è ultra confortevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FD18NV2/?tag=tolees00-21)
