@@ -5,7 +5,7 @@ date: 2020-10-04 06:32:15
 image: 'https://m.media-amazon.com/images/I/418xZBNbb3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS31CRJ-it Levi s Housemark Graphic Tee T-Shirt Rosso HM Ssnl Tonal...'
 sku: 'B07TS31CRJ-it'
 tags: [  ]

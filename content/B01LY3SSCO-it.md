@@ -5,7 +5,7 @@ date: 2020-07-30 09:45:26
 image: 'https://m.media-amazon.com/images/I/417G3nWXnvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY3SSCO-it Foppapedretti Babyroad - Seggiolino Auto Gruppo 1-2-3 9-36...'
 sku: 'B01LY3SSCO-it'
 tags: [  ]

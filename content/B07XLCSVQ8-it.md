@@ -5,7 +5,7 @@ date: 2020-08-05 13:41:46
 image: 'https://m.media-amazon.com/images/I/41GTF3mKZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLCSVQ8-it Apple Watch Series 5 GPS + Cellular 44 mm Cassa in...'
 sku: 'B07XLCSVQ8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 14:05:41
 image: 'https://m.media-amazon.com/images/I/41gyiPjEnAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CHGQ4SM-it Microsoft Sculpt Comfort Mouse Windows Connettività...'
 sku: 'B00CHGQ4SM-it'
 tags: [  ]

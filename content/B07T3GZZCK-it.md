@@ -5,7 +5,7 @@ date: 2020-08-28 08:10:38
 image: 'https://m.media-amazon.com/images/I/31Lqf384daL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3GZZCK-it Timberland Boroughs Project Leather Oxford Sneaker Uomo...'
 sku: 'B07T3GZZCK-it'
 tags: [  ]

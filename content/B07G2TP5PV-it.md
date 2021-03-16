@@ -5,7 +5,7 @@ date: 2020-08-31 14:01:00
 image: 'https://m.media-amazon.com/images/I/31VCNDeC7XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2TP5PV-it Armani Exchange Orologio Analogico Quarzo Donna con...'
 sku: 'B07G2TP5PV-it'
 tags: [  ]

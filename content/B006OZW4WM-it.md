@@ -5,7 +5,7 @@ date: 2020-08-11 09:51:10
 image: 'https://m.media-amazon.com/images/I/415T7-25vGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006OZW4WM-it Speedo Solid Leis 16 Wsht Am Pantaloncini da Bagno Uomo...'
 sku: 'B006OZW4WM-it'
 tags: [  ]

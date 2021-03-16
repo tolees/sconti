@@ -5,7 +5,7 @@ date: 2020-08-05 05:57:46
 image: 'https://m.media-amazon.com/images/I/41plmffiVVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MXXTR8-it Cuffie Bluetooth 5.0 Senza Fili 30H Playtime 3D Stereo HD...'
 sku: 'B083MXXTR8-it'
 tags: [  ]

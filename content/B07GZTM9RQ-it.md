@@ -5,7 +5,7 @@ date: 2020-08-03 07:10:46
 image: 'https://m.media-amazon.com/images/I/41tK06OFZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZTM9RQ-it HP Tango X Stampante a Colori Wi-Fi Multifunzione per...'
 sku: 'B07GZTM9RQ-it'
 tags: [  ]

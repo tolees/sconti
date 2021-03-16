@@ -5,7 +5,7 @@ date: 2020-09-28 06:33:33
 image: 'https://m.media-amazon.com/images/I/31AXI5C+QWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3T3VXD-it HOMCOM Porta Scorrevole Interna in Vetro Smerigliato e...'
 sku: 'B07H3T3VXD-it'
 tags: [  ]

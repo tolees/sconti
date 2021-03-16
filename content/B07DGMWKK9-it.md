@@ -5,7 +5,7 @@ date: 2020-09-30 11:08:41
 image: 'https://m.media-amazon.com/images/I/41JXEOPPWEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGMWKK9-it Oral-B Vitality 100 Spazzolino Elettrico Ricaricabile 1...'
 sku: 'B07DGMWKK9-it'
 tags: [  ]

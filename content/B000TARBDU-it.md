@@ -5,7 +5,7 @@ date: 2020-10-09 00:12:13
 image: 'https://m.media-amazon.com/images/I/31sLj-BBebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000TARBDU-it Pyrex Essentials Tegame Rettangolare 40x27cm'
 sku: 'B000TARBDU-it'
 tags: [  ]

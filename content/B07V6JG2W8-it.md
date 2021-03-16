@@ -5,7 +5,7 @@ date: 2020-07-20 09:59:45
 image: 'https://m.media-amazon.com/images/I/51FBsoltdOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6JG2W8-it YAMAMAY® Costume da Bagno Slip Mare Tinta Unita - Essential'
 sku: 'B07V6JG2W8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:28:07
 image: 'https://m.media-amazon.com/images/I/41dyQJ0djTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK4LGVP-it Thomas & Friends Il Trenino Thomas Fuga dal Dragone...'
 sku: 'B07DK4LGVP-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 07:44:29
 image: 'https://m.media-amazon.com/images/I/41WwW+Eo2IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXXGDJL-it Wrangler SS Sign off Tee T-Shirt Verde Peacock Green 382...'
 sku: 'B07TXXGDJL-it'
 tags: [  ]

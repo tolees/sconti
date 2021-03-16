@@ -5,7 +5,7 @@ date: 2020-10-03 02:09:34
 image: 'https://m.media-amazon.com/images/I/411TTg9EGIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0815V9HVP-it Hdmi Switch mrocioa 3 porte ingresso 1 out 4K Hdmi...'
 sku: 'B0815V9HVP-it'
 tags: [  ]

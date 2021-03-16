@@ -5,7 +5,7 @@ date: 2020-09-23 07:33:55
 image: 'https://m.media-amazon.com/images/I/31adzg6Zg+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8VL7VV-it Tommy Hilfiger Lightweight Stripes Knit Sneaker Scarpe da...'
 sku: 'B07V8VL7VV-it'
 tags: [  ]

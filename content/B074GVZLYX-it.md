@@ -5,7 +5,7 @@ date: 2020-10-06 08:08:28
 image: 'https://m.media-amazon.com/images/I/31s-yfIlMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074GVZLYX-it Lacoste Sport TH0123 T-Shirt Bianco Blanc X-Small Taglia...'
 sku: 'B074GVZLYX-it'
 tags: [  ]

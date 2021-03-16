@@ -5,7 +5,7 @@ date: 2020-08-10 14:34:46
 image: 'https://m.media-amazon.com/images/I/51PTa9Vo8ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKK4WG2-it Tablet Bambini 9.0 Pollici con Wifi Offerte Android 9.0...'
 sku: 'B08CKK4WG2-it'
 tags: [  ]

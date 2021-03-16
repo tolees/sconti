@@ -5,7 +5,7 @@ date: 2020-08-19 10:23:21
 image: 'https://m.media-amazon.com/images/I/511UaZ7ED7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F7LKV3D-it Tablet Bambini 7 Pollici con Wifi Offerte Android 9.0...'
 sku: 'B08F7LKV3D-it'
 tags: [  ]

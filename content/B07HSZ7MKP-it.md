@@ -5,7 +5,7 @@ date: 2020-08-08 06:33:23
 image: 'https://m.media-amazon.com/images/I/418JaUJ7MZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSZ7MKP-it ANSIO Ventilatore a torre oscillante con telecomando e 3...'
 sku: 'B07HSZ7MKP-it'
 tags: [  ]

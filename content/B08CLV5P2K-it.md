@@ -5,7 +5,7 @@ date: 2020-10-11 09:14:43
 image: 'https://m.media-amazon.com/images/I/31DSL6cnr+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CLV5P2K-it Philips Cuffie Sovrauricolari On Ear H4105RD/00 con...'
 sku: 'B08CLV5P2K-it'
 tags: [  ]

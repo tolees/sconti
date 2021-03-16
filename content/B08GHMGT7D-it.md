@@ -5,7 +5,7 @@ date: 2020-09-08 18:52:54
 image: 'https://m.media-amazon.com/images/I/41WPKHiYxML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GHMGT7D-it Speyang Tappo Vasca da Bagno 10 PZ Tappo Lavandino...'
 sku: 'B08GHMGT7D-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 06:21:43
 image: 'https://m.media-amazon.com/images/I/31mn0lTxGXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P89TY7X-it HOMCOM Schermo di Proiezione 100 Pollici Regolabile Ottimo...'
 sku: 'B07P89TY7X-it'
 tags: [  ]

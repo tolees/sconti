@@ -5,7 +5,7 @@ date: 2020-10-05 23:36:05
 image: 'https://m.media-amazon.com/images/I/41WbEF0jxsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0030BEIL8-it Forbici a cricchetto GARDENA SmartCut: Stabili forbici con...'
 sku: 'B0030BEIL8-it'
 tags: [  ]

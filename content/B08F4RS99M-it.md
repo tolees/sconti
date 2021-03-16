@@ -5,7 +5,7 @@ date: 2020-08-21 04:27:17
 image: 'https://m.media-amazon.com/images/I/51ImGGY65nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F4RS99M-it ELYCO Go Swing Topless Apriscatole Bar Tool Senza Bordi...'
 sku: 'B08F4RS99M-it'
 tags: [  ]

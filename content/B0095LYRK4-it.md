@@ -5,7 +5,7 @@ date: 2020-09-23 23:28:30
 image: 'https://m.media-amazon.com/images/I/51BU1K7zXJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0095LYRK4-it Satya assortimento di Inciensos 12 scatole da 15 g'
 sku: 'B0095LYRK4-it'
 tags: [  ]

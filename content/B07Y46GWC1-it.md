@@ -5,7 +5,7 @@ date: 2020-07-30 15:25:14
 image: 'https://m.media-amazon.com/images/I/51e17JVC1FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y46GWC1-it BOZHZO Togli Peli Animali e Guanto Spazzola Animali...'
 sku: 'B07Y46GWC1-it'
 tags: [  ]

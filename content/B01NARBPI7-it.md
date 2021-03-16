@@ -5,7 +5,7 @@ date: 2020-09-11 09:10:06
 image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NARBPI7-it Sandisk Extreme Go Sdcz800 064G G46 Chiavetta USB 3.1 64 GB'
 sku: 'B01NARBPI7-it'
 tags: [  ]

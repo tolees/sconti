@@ -5,7 +5,7 @@ date: 2020-07-24 08:22:10
 image: 'https://m.media-amazon.com/images/I/31UZPuWEnlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQN625L-it Bimar Silente VPS40 - Ventilatore a Piantana con...'
 sku: 'B07NQN625L-it'
 tags: [  ]

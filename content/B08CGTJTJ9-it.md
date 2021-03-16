@@ -5,7 +5,7 @@ date: 2020-08-19 10:17:39
 image: 'https://m.media-amazon.com/images/I/41v2QwJe-dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CGTJTJ9-it YQHbe Apriscatole Manuale Go Swing apriscatole Manuale di...'
 sku: 'B08CGTJTJ9-it'
 tags: [  ]

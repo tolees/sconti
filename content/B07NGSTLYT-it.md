@@ -5,7 +5,7 @@ date: 2020-09-23 09:03:16
 image: 'https://m.media-amazon.com/images/I/41nXeex+4YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGSTLYT-it Medion E4271 Portatile da 14 Full HD Celeron 2.6ghz 64gb...'
 sku: 'B07NGSTLYT-it'
 tags: [  ]

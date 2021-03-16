@@ -5,7 +5,7 @@ date: 2020-09-30 18:11:53
 image: 'https://m.media-amazon.com/images/I/41gf8tXzDWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FF211RQ-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna...'
 sku: 'B07FF211RQ-it'
 tags: [  ]

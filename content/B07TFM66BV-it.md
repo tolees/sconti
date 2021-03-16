@@ -5,7 +5,7 @@ date: 2020-10-03 07:03:39
 image: 'https://m.media-amazon.com/images/I/31EKNW-DdkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFM66BV-it Unità Flash Lexar JumpDrive Fingerprint F35 USB 3.0'
 sku: 'B07TFM66BV-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 12:47:22
 image: 'https://m.media-amazon.com/images/I/41V-cV5dVUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WX2W2F7-it Niré Beauty Essential Glow Set Pennelli Make up...'
 sku: 'B07WX2W2F7-it'
 tags: [  ]

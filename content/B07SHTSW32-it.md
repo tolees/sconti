@@ -5,7 +5,7 @@ date: 2020-08-25 07:49:28
 image: 'https://m.media-amazon.com/images/I/31+tdPlABFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHTSW32-it Havaianas Urban Basic II Infradito Uomo Marrone Dark Brown...'
 sku: 'B07SHTSW32-it'
 tags: [  ]

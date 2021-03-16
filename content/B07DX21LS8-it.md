@@ -5,7 +5,7 @@ date: 2020-08-26 10:13:54
 image: 'https://m.media-amazon.com/images/I/418dBChasEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX21LS8-it Salewa 00-0000027165 Giacca Uomo Blu Ombre Blue 46/S'
 sku: 'B07DX21LS8-it'
 tags: [  ]

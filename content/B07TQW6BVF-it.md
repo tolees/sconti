@@ -5,7 +5,7 @@ date: 2020-10-09 21:45:11
 image: 'https://m.media-amazon.com/images/I/41FTu+FDpYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQW6BVF-it Clarks Hero Limit Scarpe Stringate Derby Uomo Marrone...'
 sku: 'B07TQW6BVF-it'
 tags: [  ]

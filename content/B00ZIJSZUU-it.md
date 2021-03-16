@@ -5,7 +5,7 @@ date: 2020-10-09 03:52:38
 image: 'https://m.media-amazon.com/images/I/41AxYDhJD2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZIJSZUU-it Trust GXT 363 Cuffie da Gioco Surround 7.1 con Vibrazioni...'
 sku: 'B00ZIJSZUU-it'
 tags: [  ]

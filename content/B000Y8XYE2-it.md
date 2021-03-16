@@ -5,7 +5,7 @@ date: 2020-09-10 17:27:29
 image: 'https://m.media-amazon.com/images/I/5167a3kHvXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Y8XYE2-it STANLEY - 1-93-330 Borsa porta utensili 30 x 25 x 13 cm il...'
 sku: 'B000Y8XYE2-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 06:20:41
 image: 'https://m.media-amazon.com/images/I/41qvIoQ-sbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9V7YKV-it Fossil Orologio Analogico Quarzo Uomo con Cinturino in...'
 sku: 'B01N9V7YKV-it'
 tags: [  ]

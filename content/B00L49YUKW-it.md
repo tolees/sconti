@@ -5,7 +5,7 @@ date: 2020-09-15 05:22:49
 image: 'https://m.media-amazon.com/images/I/417GWPAAw2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L49YUKW-it Poly Pool PP1615 Racchetta Elettronica Fulmina Insetti'
 sku: 'B00L49YUKW-it'
 tags: [  ]

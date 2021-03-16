@@ -5,7 +5,7 @@ date: 2020-10-01 11:05:18
 image: 'https://m.media-amazon.com/images/I/51JKbl5WP3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O7SJTZ8-it Garmin 010-11251-41 cinturino per orologio'
 sku: 'B00O7SJTZ8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-31 11:14:49
 image: 'https://m.media-amazon.com/images/I/51yfh7dhbbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS65JT4-it Tritacarne 【Upgraded】AICOK 3-IN-1 Tritacarne Elettrico con...'
 sku: 'B07VS65JT4-it'
 tags: [  ]

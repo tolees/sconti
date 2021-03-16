@@ -5,7 +5,7 @@ date: 2020-09-14 11:20:04
 image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZX030M-it New Balance 373 Core U Scarpe Trainers Uomo Rosso Burgundy...'
 sku: 'B01MZX030M-it'
 tags: [  ]

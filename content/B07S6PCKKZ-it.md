@@ -5,7 +5,7 @@ date: 2020-08-12 11:55:34
 image: 'https://m.media-amazon.com/images/I/31E-st-92sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6PCKKZ-it PUMA Smash V2 L Sneakers Unisex-Adulto Weiß White High...'
 sku: 'B07S6PCKKZ-it'
 tags: [  ]

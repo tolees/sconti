@@ -5,7 +5,7 @@ date: 2020-09-16 02:13:24
 image: 'https://m.media-amazon.com/images/I/41CTDpbs0GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLYRC41-it eXtremeRate Tasti Pulsanti Ricambio per Xbox One Elite...'
 sku: 'B08HLYRC41-it'
 tags: [  ]

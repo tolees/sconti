@@ -5,7 +5,7 @@ date: 2020-09-04 00:51:30
 image: 'https://m.media-amazon.com/images/I/51F-A0WvkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ECANXVM-it Macdue Essere Multicolore 32538'
 sku: 'B00ECANXVM-it'
 tags: [  ]

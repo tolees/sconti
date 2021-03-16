@@ -5,7 +5,7 @@ date: 2020-08-05 13:35:00
 image: 'https://m.media-amazon.com/images/I/31cWP5NwwFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6NDVVS-it Tommy Hilfiger Uomo Bleecker Th Flex Satin Chino Gmd Loose...'
 sku: 'B07W6NDVVS-it'
 tags: [  ]

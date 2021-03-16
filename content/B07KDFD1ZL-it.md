@@ -5,7 +5,7 @@ date: 2020-09-01 13:36:58
 image: 'https://m.media-amazon.com/images/I/31NB+IIbr9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KDFD1ZL-it adidas Regista 18 Giacca da Rappresentanza Uomo Black/White S'
 sku: 'B07KDFD1ZL-it'
 tags: [  ]

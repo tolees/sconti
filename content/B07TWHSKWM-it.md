@@ -5,7 +5,7 @@ date: 2020-09-24 08:06:41
 image: 'https://m.media-amazon.com/images/I/41WLPZcNpnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWHSKWM-it SUPERGA 2750 Cotu Classic Scarpe da Ginnastica Uomo Blu...'
 sku: 'B07TWHSKWM-it'
 tags: [  ]

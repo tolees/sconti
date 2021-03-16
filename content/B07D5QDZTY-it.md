@@ -5,7 +5,7 @@ date: 2020-10-09 07:01:40
 image: 'https://m.media-amazon.com/images/I/51GPl75DdAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5QDZTY-it GPC Image Cartucce Toner Compatibili per HP CF244A 44A Con...'
 sku: 'B07D5QDZTY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 12:06:06
 image: 'https://m.media-amazon.com/images/I/51YSKfwXeSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYCLSHY-it NESQUIK ALL NATURAL Cacao Solubile per Latte 168 g'
 sku: 'B07QYCLSHY-it'
 tags: [  ]

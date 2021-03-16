@@ -5,7 +5,7 @@ date: 2020-10-11 06:34:07
 image: 'https://m.media-amazon.com/images/I/51DBxEeblML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UYZ2UE-it Makita KP312S - Cepillo 2200W 12000 rpm 18.4 kg ancho 312...'
 sku: 'B000UYZ2UE-it'
 tags: [  ]

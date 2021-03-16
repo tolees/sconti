@@ -5,7 +5,7 @@ date: 2020-08-12 06:58:24
 image: 'https://m.media-amazon.com/images/I/41LgyN7cxCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D538TWK-it BEAUTURAL Manicure e Pedicure Elettrico Professionale Kit...'
 sku: 'B07D538TWK-it'
 tags: [  ]

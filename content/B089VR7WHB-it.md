@@ -5,7 +5,7 @@ date: 2020-08-18 04:30:55
 image: 'https://m.media-amazon.com/images/I/41SzdU0iltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089VR7WHB-it ANWEN per Xiaomi Poco F2 PRO Cover Ultra Sottile Cover con...'
 sku: 'B089VR7WHB-it'
 tags: [  ]

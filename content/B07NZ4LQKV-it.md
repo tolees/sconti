@@ -5,7 +5,7 @@ date: 2020-09-06 13:43:55
 image: 'https://m.media-amazon.com/images/I/41nF5gzTl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ4LQKV-it Tendina Parasole Auto otumixx 2 Pezzi Tendine Parasole...'
 sku: 'B07NZ4LQKV-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-12 10:09:44
 image: 'https://m.media-amazon.com/images/I/31Esv6hLKiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYY7VL5-it G-STAR RAW Eyben Slim V T Wmn S/s T-Shirt Bianco White 110...'
 sku: 'B01MYY7VL5-it'
 tags: [  ]

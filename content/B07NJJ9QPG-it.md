@@ -5,7 +5,7 @@ date: 2020-09-28 19:50:04
 image: 'https://m.media-amazon.com/images/I/512X+GsbMjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJJ9QPG-it Assassin s Creed III Liberation Remastered - Xbox One'
 sku: 'B07NJJ9QPG-it'
 tags: [  ]

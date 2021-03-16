@@ -5,7 +5,7 @@ date: 2020-07-29 09:01:59
 image: 'https://m.media-amazon.com/images/I/31INl2aodfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH1L68Y-it Levi s Woodward L Sneaker Uomo Blu Navy Blue 17 42 EU'
 sku: 'B07SH1L68Y-it'
 tags: [  ]

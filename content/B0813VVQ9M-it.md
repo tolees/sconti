@@ -5,7 +5,7 @@ date: 2020-08-29 09:39:24
 image: 'https://m.media-amazon.com/images/I/316C4tGqnML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813VVQ9M-it adidas Stan Smith Scarpe Uomo Bianco Cloud White/Cloud...'
 sku: 'B0813VVQ9M-it'
 tags: [  ]

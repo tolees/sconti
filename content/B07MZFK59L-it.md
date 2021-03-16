@@ -5,7 +5,7 @@ date: 2020-08-17 06:57:51
 image: 'https://m.media-amazon.com/images/I/31HBuc5Z-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZFK59L-it Severin FR 2460 friggitrice ad aria calda Cestello 2 6...'
 sku: 'B07MZFK59L-it'
 tags: [  ]

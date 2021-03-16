@@ -5,7 +5,7 @@ date: 2020-09-27 19:40:21
 image: 'https://m.media-amazon.com/images/I/51qkhpAslkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKB2H59-it Mattel Games Uno Flip GDR44'
 sku: 'B07JKB2H59-it'
 tags: [  ]

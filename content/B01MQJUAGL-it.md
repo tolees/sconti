@@ -5,7 +5,7 @@ date: 2020-09-07 08:53:11
 image: 'https://m.media-amazon.com/images/I/41lWp7re8TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQJUAGL-it Girmi TR02 Tritatutto 250 W Plastic Bianco'
 sku: 'B01MQJUAGL-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 14:22:40
 image: 'https://m.media-amazon.com/images/I/41Lrkidea-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKKQKDW-it Superdry VL Shirt Shop Bonded Tee T Avorio Desert Bone 7so...'
 sku: 'B07TKKQKDW-it'
 tags: [  ]

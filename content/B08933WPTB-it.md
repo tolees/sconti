@@ -5,7 +5,7 @@ date: 2020-08-26 21:34:25
 image: 'https://m.media-amazon.com/images/I/51t1LuGDtwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08933WPTB-it EZONTEQ Tastiera da Gioco RGB LED Retroilluminazione...'
 sku: 'B08933WPTB-it'
 tags: [  ]

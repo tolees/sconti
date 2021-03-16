@@ -5,7 +5,7 @@ date: 2020-08-24 10:29:11
 image: 'https://m.media-amazon.com/images/I/41NgNrYeYrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NABTGY2-it AmazonBasics - Sacchetti per bisogni dei cani con...'
 sku: 'B00NABTGY2-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 06:07:02
 image: 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK42B2C-it Under Armour Sportstyle Terry Logo Felpa Uomo Nero XXL'
 sku: 'B07MK42B2C-it'
 tags: [  ]

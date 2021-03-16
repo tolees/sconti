@@ -5,7 +5,7 @@ date: 2020-08-21 06:29:06
 image: 'https://m.media-amazon.com/images/I/415cqwW3XPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTQ3DX2-it Wrangler SS Logo Tee T-Shirt Blu Directoire Blue XKL Small...'
 sku: 'B07TTQ3DX2-it'
 tags: [  ]

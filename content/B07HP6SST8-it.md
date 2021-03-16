@@ -5,7 +5,7 @@ date: 2020-08-09 13:39:22
 image: 'https://m.media-amazon.com/images/I/41paFHnAqAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP6SST8-it Hoover AXI AWDPD 4138LH/1-S Steel'
 sku: 'B07HP6SST8-it'
 tags: [  ]

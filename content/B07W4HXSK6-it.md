@@ -5,7 +5,7 @@ date: 2020-08-29 08:34:08
 image: 'https://m.media-amazon.com/images/I/41fJQ0XICeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4HXSK6-it Tommy Hilfiger Basic Embroidered Hoody Felpa Verde Faded...'
 sku: 'B07W4HXSK6-it'
 tags: [  ]

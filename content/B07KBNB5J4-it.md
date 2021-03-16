@@ -5,7 +5,7 @@ date: 2020-10-12 20:29:31
 image: 'https://m.media-amazon.com/images/I/41WqEaqPOgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBNB5J4-it Airoh AVIATOR 2.3 BIGGER BLUE GLOSS M'
 sku: 'B07KBNB5J4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 08:33:17
 image: 'https://m.media-amazon.com/images/I/51H4DiagkDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSHNVDF-it Oral-B Genius 10000N Spazzolino Elettrico Nero Notte'
 sku: 'B07FSHNVDF-it'
 tags: [  ]

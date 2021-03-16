@@ -5,7 +5,7 @@ date: 2020-08-24 14:04:08
 image: 'https://m.media-amazon.com/images/I/41UkRwusnfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KWH52P8-it Geox J Sandal Karly Girl D Punta Aperta Bambina Bianco...'
 sku: 'B01KWH52P8-it'
 tags: [  ]

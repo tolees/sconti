@@ -5,7 +5,7 @@ date: 2020-10-06 12:13:05
 image: 'https://m.media-amazon.com/images/I/31kMfBWKQaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFY8W5Z-it Béaba Set Pranzo in Silicone con Robusta Ventosa Composto...'
 sku: 'B07LFY8W5Z-it'
 tags: [  ]

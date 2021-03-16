@@ -5,7 +5,7 @@ date: 2020-09-11 08:19:19
 image: 'https://m.media-amazon.com/images/I/41ZSXMhdi0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VE6BSA-it Kitchen Craft Glacette Grande 47 cm x 28 cm x 23 cm...'
 sku: 'B000VE6BSA-it'
 tags: [  ]

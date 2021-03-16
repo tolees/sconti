@@ -5,7 +5,7 @@ date: 2020-07-24 13:23:48
 image: 'https://m.media-amazon.com/images/I/41901LYNaoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085YCMSPZ-it YAMAMAY® Cardigan Aperto Donna Loves LA'
 sku: 'B085YCMSPZ-it'
 tags: [  ]

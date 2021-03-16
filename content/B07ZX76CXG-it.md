@@ -5,7 +5,7 @@ date: 2020-08-04 01:15:05
 image: 'https://m.media-amazon.com/images/I/51IT4KpjfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZX76CXG-it 24pz Pompon Pelliccia Volpe Sintetica per Fai da Te PON...'
 sku: 'B07ZX76CXG-it'
 tags: [  ]

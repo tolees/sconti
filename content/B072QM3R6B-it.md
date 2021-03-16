@@ -5,7 +5,7 @@ date: 2020-09-17 11:09:32
 image: 'https://m.media-amazon.com/images/I/51UCCdWACOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072QM3R6B-it Monster Hunter: World UK'
 sku: 'B072QM3R6B-it'
 tags: [  ]

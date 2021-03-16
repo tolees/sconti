@@ -5,7 +5,7 @@ date: 2020-10-06 06:55:34
 image: 'https://m.media-amazon.com/images/I/51X4RJrQetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B93YYQF-it Dash Pods Allin1 Detersivo Lavatrice in Capsule Ambra Maxi...'
 sku: 'B08B93YYQF-it'
 tags: [  ]

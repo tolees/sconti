@@ -5,7 +5,7 @@ date: 2020-10-04 09:00:47
 image: 'https://m.media-amazon.com/images/I/51hQ-LqTs+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XY4N2S-it Electrolux PA91-404GY Purificatore d aria connesso con...'
 sku: 'B085XY4N2S-it'
 tags: [  ]

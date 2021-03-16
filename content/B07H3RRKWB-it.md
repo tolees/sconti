@@ -5,7 +5,7 @@ date: 2020-10-12 13:40:22
 image: 'https://m.media-amazon.com/images/I/41YrOkNQvdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3RRKWB-it Gillette Mach3 Rasoio Uomo + 7 Lamette di Ricarica Con...'
 sku: 'B07H3RRKWB-it'
 tags: [  ]

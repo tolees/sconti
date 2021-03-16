@@ -5,7 +5,7 @@ date: 2020-09-03 07:23:11
 image: 'https://m.media-amazon.com/images/I/41DATVQ-xsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWL8M1L-it Tommy Jeans Tjm Chest Logo Tee Maglietta Grigio Lt Grey...'
 sku: 'B07VWL8M1L-it'
 tags: [  ]

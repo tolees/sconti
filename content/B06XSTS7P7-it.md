@@ -5,7 +5,7 @@ date: 2020-09-06 10:39:07
 image: 'https://m.media-amazon.com/images/I/51T-b7MFTzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSTS7P7-it Phd Barrette Diet Smart Bar Lampone Al Cioccolato Fondente...'
 sku: 'B06XSTS7P7-it'
 tags: [  ]

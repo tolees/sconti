@@ -5,7 +5,7 @@ date: 2020-08-20 17:43:29
 image: 'https://m.media-amazon.com/images/I/41WnIQTcC9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HWWDK1-it Aigostar Multipresa Ciabatta Elettrica Polivalente a 9...'
 sku: 'B072HWWDK1-it'
 tags: [  ]

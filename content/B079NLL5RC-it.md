@@ -5,7 +5,7 @@ date: 2020-09-12 10:19:25
 image: 'https://m.media-amazon.com/images/I/41zx0FrvyFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NLL5RC-it Hape- Race to The Finish Marble Run Game Multicolore E6021'
 sku: 'B079NLL5RC-it'
 tags: [  ]

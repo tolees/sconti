@@ -5,7 +5,7 @@ date: 2020-08-04 06:54:04
 image: 'https://m.media-amazon.com/images/I/41jyKDVphWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPN563F-it Soundcore Strike 1 Cuffie per videogiochi Anker cuffie per...'
 sku: 'B07ZPN563F-it'
 tags: [  ]

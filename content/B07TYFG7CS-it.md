@@ -5,7 +5,7 @@ date: 2020-08-10 07:48:18
 image: 'https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYFG7CS-it Boss T-Shirt RN 24 Grigio Medium Grey 32 Small Uomo'
 sku: 'B07TYFG7CS-it'
 tags: [  ]

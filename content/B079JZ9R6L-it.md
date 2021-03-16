@@ -5,7 +5,7 @@ date: 2020-09-21 15:30:39
 image: 'https://m.media-amazon.com/images/I/41Dr8qLmSgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JZ9R6L-it Philips Serie 5000 EP5310/10 Macchina da Caffè Automatica...'
 sku: 'B079JZ9R6L-it'
 tags: [  ]

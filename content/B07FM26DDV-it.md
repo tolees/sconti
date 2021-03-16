@@ -5,7 +5,7 @@ date: 2020-09-21 06:53:44
 image: 'https://m.media-amazon.com/images/I/41p9vEBzoyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM26DDV-it Aigostar Pure 30LDV – Caraffa filtrante per l acqua da...'
 sku: 'B07FM26DDV-it'
 tags: [  ]

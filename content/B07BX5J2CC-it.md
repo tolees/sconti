@@ -5,7 +5,7 @@ date: 2020-10-07 06:31:48
 image: 'https://m.media-amazon.com/images/I/51SxAju4dFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BX5J2CC-it Volante Pace Wheel PS4'
 sku: 'B07BX5J2CC-it'
 tags: [  ]

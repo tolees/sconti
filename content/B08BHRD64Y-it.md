@@ -5,7 +5,7 @@ date: 2020-07-22 11:46:41
 image: 'https://m.media-amazon.com/images/I/419m2OqqcDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHRD64Y-it Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per PC Mac...'
 sku: 'B08BHRD64Y-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 06:37:30
 image: 'https://m.media-amazon.com/images/I/41ysx+FD2HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4C8N1-it Levi s HR Decon Iconic BF Skirt Gonna Blu Meer in The...'
 sku: 'B07KF4C8N1-it'
 tags: [  ]

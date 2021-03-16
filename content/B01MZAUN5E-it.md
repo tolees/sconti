@@ -5,7 +5,7 @@ date: 2020-09-15 12:32:39
 image: 'https://m.media-amazon.com/images/I/41ffvUZyNuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZAUN5E-it Hori Stand di Ricarica per 4 Joy-con - Nintendo Switch'
 sku: 'B01MZAUN5E-it'
 tags: [  ]

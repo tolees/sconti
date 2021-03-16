@@ -5,7 +5,7 @@ date: 2020-10-08 16:07:44
 image: 'https://m.media-amazon.com/images/I/41ujFE7uYTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HM5QSZN-it homcom Panca per Addominali Pieghevole per Allenarsi a...'
 sku: 'B08HM5QSZN-it'
 tags: [  ]

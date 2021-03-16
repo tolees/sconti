@@ -5,7 +5,7 @@ date: 2020-07-24 14:29:13
 image: 'https://m.media-amazon.com/images/I/41ZWcUJ8DZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHDG7ZJ-it PUMA Axis Sneakers Unisex-Adulto Bianco White/Peacoat 43 EU'
 sku: 'B07FHDG7ZJ-it'
 tags: [  ]

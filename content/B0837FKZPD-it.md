@@ -5,7 +5,7 @@ date: 2020-08-24 04:21:07
 image: 'https://m.media-amazon.com/images/I/51ozgaB24ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0837FKZPD-it Fast & Furious: Crossroads PS4 - PlayStation 4 [versione UK]'
 sku: 'B0837FKZPD-it'
 tags: [  ]

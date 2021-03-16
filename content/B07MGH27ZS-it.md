@@ -5,7 +5,7 @@ date: 2020-08-08 11:06:23
 image: 'https://m.media-amazon.com/images/I/51CbHq5bPsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGH27ZS-it Morstone Trasportino per Cani e Gatti Gabbietta Morbida...'
 sku: 'B07MGH27ZS-it'
 tags: [  ]

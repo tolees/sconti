@@ -5,7 +5,7 @@ date: 2020-08-12 11:41:04
 image: 'https://m.media-amazon.com/images/I/41ssgKOoz+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009AYB4WA-it Enerzona Enervit Integratore Alimentare per il Controllo...'
 sku: 'B009AYB4WA-it'
 tags: [  ]

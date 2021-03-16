@@ -5,7 +5,7 @@ date: 2020-09-14 02:22:24
 image: 'https://m.media-amazon.com/images/I/31fsgk0rCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ3Z5H3-it Yagte Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per...'
 sku: 'B08DJ3Z5H3-it'
 tags: [  ]

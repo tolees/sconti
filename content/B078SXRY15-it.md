@@ -5,7 +5,7 @@ date: 2020-07-23 18:07:10
 image: 'https://m.media-amazon.com/images/I/31S-g3NCJ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SXRY15-it Timberland Union Wharf Lace Oxford Sneakers Basse Uomo...'
 sku: 'B078SXRY15-it'
 tags: [  ]

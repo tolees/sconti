@@ -5,7 +5,7 @@ date: 2020-08-09 05:40:35
 image: 'https://m.media-amazon.com/images/I/51iv0RgMHtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QCFTG2-it Auricolari bluetooth Orit Cuffie Bluetooth 5.0 Senza Fili...'
 sku: 'B087QCFTG2-it'
 tags: [  ]

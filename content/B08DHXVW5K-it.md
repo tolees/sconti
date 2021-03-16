@@ -5,7 +5,7 @@ date: 2020-08-01 22:59:41
 image: 'https://m.media-amazon.com/images/I/41VWDZlxQIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHXVW5K-it PENG Auricolare Bluetooth Cuffie Senza Fili Cuffie...'
 sku: 'B08DHXVW5K-it'
 tags: [  ]

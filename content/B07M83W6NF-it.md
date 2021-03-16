@@ -5,7 +5,7 @@ date: 2020-08-29 09:16:16
 image: 'https://m.media-amazon.com/images/I/413JGea+WVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83W6NF-it NAPAPIJRI Aerons Stand 2 Giacca Blu French Blue Bb7 L Uomo'
 sku: 'B07M83W6NF-it'
 tags: [  ]

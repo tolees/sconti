@@ -5,7 +5,7 @@ date: 2020-10-01 08:53:34
 image: 'https://m.media-amazon.com/images/I/31ZvMbdrojL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK496SC-it find. Slouch Stivaletti Marrone Caramel 38 EU'
 sku: 'B07FK496SC-it'
 tags: [  ]

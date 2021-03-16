@@ -5,7 +5,7 @@ date: 2020-10-02 09:12:09
 image: 'https://m.media-amazon.com/images/I/411OM2pF8bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008RHZFNA-it STONELINE 10865 Set di Stoviglie in Alluminio con...'
 sku: 'B008RHZFNA-it'
 tags: [  ]

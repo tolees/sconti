@@ -5,7 +5,7 @@ date: 2020-08-31 17:44:20
 image: 'https://m.media-amazon.com/images/I/31ZLDzaEEhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU6NK0Z-it Tommy Hilfiger New Denton 3.5 Belt Cintura Marrone Dark...'
 sku: 'B01MU6NK0Z-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 10:19:45
 image: 'https://m.media-amazon.com/images/I/31NlvbX+PZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQVSVTQ-it Clarks Sheer Rose Scarpe con Tacco Donna Beige Navy Suede...'
 sku: 'B07TQVSVTQ-it'
 tags: [  ]

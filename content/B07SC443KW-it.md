@@ -5,7 +5,7 @@ date: 2020-08-14 23:53:13
 image: 'https://m.media-amazon.com/images/I/51aeuYLgt1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC443KW-it Call of Duty: Modern Warfare - Xbox One'
 sku: 'B07SC443KW-it'
 tags: [  ]

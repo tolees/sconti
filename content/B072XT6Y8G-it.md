@@ -5,7 +5,7 @@ date: 2020-09-18 06:39:30
 image: 'https://m.media-amazon.com/images/I/41aOTAJepUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072XT6Y8G-it Unique Party 55856 - Palloncino Gigante - Numero 6 - 86cm...'
 sku: 'B072XT6Y8G-it'
 tags: [  ]

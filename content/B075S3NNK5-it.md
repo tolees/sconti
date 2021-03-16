@@ -5,7 +5,7 @@ date: 2020-10-12 20:28:35
 image: 'https://m.media-amazon.com/images/I/41Bm9RmNKvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S3NNK5-it GORE WEAR C5 Giacca da ciclismo per uomo GORE-TEX S...'
 sku: 'B075S3NNK5-it'
 tags: [  ]

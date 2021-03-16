@@ -5,7 +5,7 @@ date: 2020-08-13 18:00:35
 image: 'https://m.media-amazon.com/images/I/41w+Eft7F-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DDD91HT-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari...'
 sku: 'B08DDD91HT-it'
 tags: [  ]

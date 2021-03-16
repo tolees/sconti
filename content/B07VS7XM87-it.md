@@ -5,7 +5,7 @@ date: 2020-08-28 08:15:08
 image: 'https://m.media-amazon.com/images/I/41y-8Aa-FBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS7XM87-it Laelr Digitale Sveglia LED 12 Ore Sveglia in Formato 24...'
 sku: 'B07VS7XM87-it'
 tags: [  ]

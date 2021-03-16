@@ -5,7 +5,7 @@ date: 2020-09-08 16:52:50
 image: 'https://m.media-amazon.com/images/I/4162J4EnENL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089JZL5KC-it TECLAST F15 Notebook Portatile 15.6 Pollici Laptop...'
 sku: 'B089JZL5KC-it'
 tags: [  ]

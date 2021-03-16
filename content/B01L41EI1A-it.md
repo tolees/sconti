@@ -5,7 +5,7 @@ date: 2021-03-15 19:56:36
 image: 'https://m.media-amazon.com/images/I/31dVoA1CdOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L41EI1A-it Havaianas Origine III Espadrillas Unisex Adulto Verde...'
 sku: 'B01L41EI1A-it'
 tags: [ 'havaianas', ]

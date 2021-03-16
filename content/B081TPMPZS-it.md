@@ -5,7 +5,7 @@ date: 2020-09-14 11:19:36
 image: 'https://m.media-amazon.com/images/I/413jZzeAeUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TPMPZS-it adidas 3stripe Wrap TT Felpa Uomo Black/White S'
 sku: 'B081TPMPZS-it'
 tags: [  ]

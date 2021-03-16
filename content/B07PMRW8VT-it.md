@@ -5,7 +5,7 @@ date: 2020-08-27 06:05:20
 image: 'https://m.media-amazon.com/images/I/51AiuqaqeiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMRW8VT-it rolimate Pista da Corsa Pista di rampa in Legno a 5...'
 sku: 'B07PMRW8VT-it'
 tags: [  ]

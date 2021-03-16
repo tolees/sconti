@@ -5,7 +5,7 @@ date: 2020-09-24 07:55:21
 image: 'https://m.media-amazon.com/images/I/41Wywb5vJ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZSKHQY-it 4Moms MO0170080900 Sdraietta 6.6 kg Nero'
 sku: 'B075ZSKHQY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 17:50:28
 image: 'https://m.media-amazon.com/images/I/41ICBYBHchL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KDQKK4-it Tacklife Coltello Pieghevole Professionale Lama in Acciaio...'
 sku: 'B071KDQKK4-it'
 tags: [  ]

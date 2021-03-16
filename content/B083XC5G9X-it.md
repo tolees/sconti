@@ -5,7 +5,7 @@ date: 2020-09-30 05:55:40
 image: 'https://m.media-amazon.com/images/I/31mepO3El+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XC5G9X-it Manfrotto Befree Advanced Camo Kit Treppiede Advanced...'
 sku: 'B083XC5G9X-it'
 tags: [  ]

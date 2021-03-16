@@ -5,7 +5,7 @@ date: 2020-09-08 09:34:05
 image: 'https://m.media-amazon.com/images/I/410uP5qq2tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KD9OSG-it Casio Orologio Digitale al Quarzo Uomo con Cinturino in...'
 sku: 'B000KD9OSG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 18:45:20
 image: 'https://m.media-amazon.com/images/I/51WhwD22dmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWSTZV6-it YINSAN TM5 Cuffie Gaming per PS4 Cuffie PS4 Over Ear con...'
 sku: 'B07QWSTZV6-it'
 tags: [  ]

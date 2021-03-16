@@ -5,7 +5,7 @@ date: 2020-08-26 21:48:18
 image: 'https://m.media-amazon.com/images/I/41dP36QalyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779PQD5P-it Timberland Union Wharf 2 Eye Oxford Mocassini Uomo Blu...'
 sku: 'B0779PQD5P-it'
 tags: [  ]

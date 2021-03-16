@@ -5,7 +5,7 @@ date: 2020-08-09 18:20:27
 image: 'https://m.media-amazon.com/images/I/31YVIimMqxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJXNR9P-it Lacoste Pj2909 Polo Viola Corsaire 68t 12 anni Taglia...'
 sku: 'B07TJXNR9P-it'
 tags: [  ]

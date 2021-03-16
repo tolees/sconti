@@ -5,7 +5,7 @@ date: 2020-08-27 16:46:50
 image: 'https://m.media-amazon.com/images/I/418s75rZ9rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J51FGQ6-it SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV...'
 sku: 'B07J51FGQ6-it'
 tags: [  ]

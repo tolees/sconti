@@ -5,7 +5,7 @@ date: 2020-08-14 10:27:08
 image: 'https://m.media-amazon.com/images/I/5114Uwp4QDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVNZ3KZ-it Evergreenweb - Brandina Pieghevole con Materasso Memory...'
 sku: 'B07JVNZ3KZ-it'
 tags: [  ]

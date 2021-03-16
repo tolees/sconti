@@ -5,7 +5,7 @@ date: 2020-09-07 09:18:21
 image: 'https://m.media-amazon.com/images/I/41XU4RFLhhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSLL6WL-it Wrangler LS 1 Pkt Shirt Camicia Bianco Real White Xw1...'
 sku: 'B07TSLL6WL-it'
 tags: [  ]

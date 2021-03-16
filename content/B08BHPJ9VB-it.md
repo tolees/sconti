@@ -5,7 +5,7 @@ date: 2020-07-20 11:35:58
 image: 'https://m.media-amazon.com/images/I/317A9Kb3OiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHPJ9VB-it FFTH Hard Disk 2 TB Esterno Portatile USB-C Hard Disk...'
 sku: 'B08BHPJ9VB-it'
 tags: [  ]

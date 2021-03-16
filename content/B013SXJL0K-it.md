@@ -5,7 +5,7 @@ date: 2020-08-03 18:12:18
 image: 'https://m.media-amazon.com/images/I/41fkvOlYExL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013SXJL0K-it Calvin Klein Eternity for Men Eau de Toilette 30 ml'
 sku: 'B013SXJL0K-it'
 tags: [  ]

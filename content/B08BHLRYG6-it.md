@@ -5,7 +5,7 @@ date: 2020-07-20 05:17:54
 image: 'https://m.media-amazon.com/images/I/41cqDf3Yy7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHLRYG6-it Hard Disk 2 TB Esterno Hard Disk Esterno per PC Mac Xbox...'
 sku: 'B08BHLRYG6-it'
 tags: [  ]

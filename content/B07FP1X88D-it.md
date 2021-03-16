@@ -5,7 +5,7 @@ date: 2020-08-20 18:12:10
 image: 'https://m.media-amazon.com/images/I/51bo8TEJGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP1X88D-it LEGO Movie 2 - La scatola "costruisci quello che vuoi"...'
 sku: 'B07FP1X88D-it'
 tags: [  ]

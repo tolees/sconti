@@ -5,7 +5,7 @@ date: 2020-10-11 06:34:42
 image: 'https://m.media-amazon.com/images/I/31i0QcfwZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003IX0DOO-it Wenko Portarotolo di Riserva a Parete O Indipendente per 3...'
 sku: 'B003IX0DOO-it'
 tags: [  ]

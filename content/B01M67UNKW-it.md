@@ -5,7 +5,7 @@ date: 2020-08-09 16:27:18
 image: 'https://m.media-amazon.com/images/I/51xiyJLecSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M67UNKW-it PURINA GOURMET DIAMANT Umido Gatto Squisite Falde di Polpa...'
 sku: 'B01M67UNKW-it'
 tags: [  ]

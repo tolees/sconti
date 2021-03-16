@@ -5,7 +5,7 @@ date: 2020-08-21 08:07:02
 image: 'https://m.media-amazon.com/images/I/41W9dlnzI4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ILIVD9U-it Keter Porta Attrezzi Store It Out Arc Beige In Resina Cm...'
 sku: 'B00ILIVD9U-it'
 tags: [  ]

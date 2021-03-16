@@ -5,7 +5,7 @@ date: 2020-09-23 00:46:03
 image: 'https://m.media-amazon.com/images/I/414a1stRnVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HYMQ94Z-it eXtremeRate Cover con Pulsanti per Nintendo Switch Scocca...'
 sku: 'B08HYMQ94Z-it'
 tags: [  ]

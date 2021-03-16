@@ -5,7 +5,7 @@ date: 2020-09-23 09:36:30
 image: 'https://m.media-amazon.com/images/I/31wH3k8gLuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GK98YE8-it Sandisk Ultra Dual USB Drive 3.0 16GB Velocità di lettura...'
 sku: 'B01GK98YE8-it'
 tags: [  ]

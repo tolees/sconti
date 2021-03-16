@@ -5,7 +5,7 @@ date: 2020-08-01 16:06:35
 image: 'https://m.media-amazon.com/images/I/21R1FihfB8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8KGNY1-it HISENSE APC12 Climatizzatore d’Aria Portatile da 12000 BTU...'
 sku: 'B07Q8KGNY1-it'
 tags: [  ]

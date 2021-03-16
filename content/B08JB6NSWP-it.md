@@ -5,7 +5,7 @@ date: 2020-10-07 19:08:41
 image: 'https://m.media-amazon.com/images/I/31+c2nBM6qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JB6NSWP-it Termometro senza contatto LCD Display digitale...'
 sku: 'B08JB6NSWP-it'
 tags: [  ]

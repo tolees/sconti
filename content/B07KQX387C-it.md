@@ -5,7 +5,7 @@ date: 2020-07-27 16:43:16
 image: 'https://m.media-amazon.com/images/I/41x8ReaM9eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQX387C-it Piastra Capelli Kealive Piastra per Capelli for Styling...'
 sku: 'B07KQX387C-it'
 tags: [  ]

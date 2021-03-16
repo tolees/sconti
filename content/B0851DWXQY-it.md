@@ -5,7 +5,7 @@ date: 2020-08-22 10:19:51
 image: 'https://m.media-amazon.com/images/I/51vCrW3K5FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0851DWXQY-it HERSITY Cucina Giocattolo per Bambini Piano Cottura con...'
 sku: 'B0851DWXQY-it'
 tags: [  ]

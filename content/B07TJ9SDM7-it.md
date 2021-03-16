@@ -5,7 +5,7 @@ date: 2020-10-07 06:17:12
 image: 'https://m.media-amazon.com/images/I/41roCUEXYzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9SDM7-it Levi s LS Battery HM Shirt Slim Camicia Blu Redcast Stone...'
 sku: 'B07TJ9SDM7-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 14:36:47
 image: 'https://m.media-amazon.com/images/I/41NSb4WgJML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ET0D2O-it NIVEA Soft Crema Idratante Multiuso per Viso Mani e Corpo...'
 sku: 'B003ET0D2O-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-27 12:05:31
 image: 'https://m.media-amazon.com/images/I/51BPByQFT+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKW3T3Y-it DIYARTS Tirare Indietro Il Modello di Auto Kit Mini...'
 sku: 'B07TKW3T3Y-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 06:00:34
 image: 'https://m.media-amazon.com/images/I/41TXzvAwIgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CUECKYC-it Aigostar Adam 30GOM - Bollitore d acqua in vetro...'
 sku: 'B01CUECKYC-it'
 tags: [  ]

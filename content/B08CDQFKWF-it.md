@@ -5,7 +5,7 @@ date: 2020-08-24 04:19:38
 image: 'https://m.media-amazon.com/images/I/31Di5TMYsZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDQFKWF-it FFTH Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1...'
 sku: 'B08CDQFKWF-it'
 tags: [  ]

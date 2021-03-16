@@ -5,7 +5,7 @@ date: 2020-07-22 10:35:59
 image: 'https://m.media-amazon.com/images/I/51dCvGGcZoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Z5HYBR-it Set di 3 valigie rigide con manico estraibile e comode...'
 sku: 'B084Z5HYBR-it'
 tags: [  ]

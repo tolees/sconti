@@ -5,7 +5,7 @@ date: 2020-09-05 17:06:13
 image: 'https://m.media-amazon.com/images/I/41ww-kfxg1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E4KZ6C4-it Autan Tropical Spray Secco Insetto Repellente e...'
 sku: 'B00E4KZ6C4-it'
 tags: [  ]

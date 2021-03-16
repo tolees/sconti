@@ -5,7 +5,7 @@ date: 2020-09-22 12:30:46
 image: 'https://m.media-amazon.com/images/I/41U21qowstL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7ND4YH-it Etekcity Bilancia Pesapersone Digitale Bilancia...'
 sku: 'B07D7ND4YH-it'
 tags: [  ]

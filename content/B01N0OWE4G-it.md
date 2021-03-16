@@ -5,7 +5,7 @@ date: 2020-08-18 11:25:49
 image: 'https://m.media-amazon.com/images/I/41mzJstHMmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0OWE4G-it Reebok Club C 85 Sneaker Uomo Bianco Int/White/Navy 42 EU'
 sku: 'B01N0OWE4G-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 02:14:56
 image: 'https://m.media-amazon.com/images/I/51wLNZfha7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GSBRNLM-it Syxinn Anello Castone per Samsung Galaxy Watch 3 45mm...'
 sku: 'B08GSBRNLM-it'
 tags: [  ]

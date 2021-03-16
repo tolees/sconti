@@ -5,7 +5,7 @@ date: 2020-10-07 15:44:28
 image: 'https://m.media-amazon.com/images/I/31jWMFx3JvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MJGVS9-it Puma Puma Smash v2 L Scarpe da Ginnastica Basse Unisex -...'
 sku: 'B077MJGVS9-it'
 tags: [  ]

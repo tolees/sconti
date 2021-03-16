@@ -5,7 +5,7 @@ date: 2020-08-05 06:12:22
 image: 'https://m.media-amazon.com/images/I/51pSUxOlB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BZ3SML-it Tablet 10 Pollici con Wifi Offerte Tablet PC Android 9.0...'
 sku: 'B088BZ3SML-it'
 tags: [  ]

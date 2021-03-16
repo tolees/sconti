@@ -5,7 +5,7 @@ date: 2020-07-24 06:06:59
 image: 'https://m.media-amazon.com/images/I/41xyO+p8mcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQ1V1IG-it Lacoste Sport Sh2128 Felpa con Cappuccio Grigio Argent...'
 sku: 'B01MQ1V1IG-it'
 tags: [  ]

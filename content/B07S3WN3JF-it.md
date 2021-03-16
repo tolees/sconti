@@ -5,7 +5,7 @@ date: 2020-08-25 22:44:53
 image: 'https://m.media-amazon.com/images/I/41H3YT38SpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3WN3JF-it Levi s 501 Original Short Pantaloncini Nero Eat Your Words...'
 sku: 'B07S3WN3JF-it'
 tags: [  ]

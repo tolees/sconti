@@ -5,7 +5,7 @@ date: 2020-09-02 16:26:16
 image: 'https://m.media-amazon.com/images/I/31Hw4tT7wIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTVB8CL-it Nike Wmns Court Royale AC CNV Scarpe da Tennis Donna...'
 sku: 'B07ZTVB8CL-it'
 tags: [  ]

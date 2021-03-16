@@ -5,7 +5,7 @@ date: 2020-09-03 12:06:40
 image: 'https://m.media-amazon.com/images/I/41RffqQEeJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHP2H7J-it BaByliss 668E Smooth Boost - Spazzola ad Aria Calda cavo...'
 sku: 'B07ZHP2H7J-it'
 tags: [  ]

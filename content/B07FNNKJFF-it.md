@@ -5,7 +5,7 @@ date: 2020-09-27 10:24:16
 image: 'https://m.media-amazon.com/images/I/51T5yXkfh7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNNKJFF-it K-Cheratina - Trattamento Professionale Capelli Deboli e...'
 sku: 'B07FNNKJFF-it'
 tags: [  ]

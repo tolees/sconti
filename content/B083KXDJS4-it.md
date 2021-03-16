@@ -5,7 +5,7 @@ date: 2020-07-24 12:20:22
 image: 'https://m.media-amazon.com/images/I/41UzJArEZ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KXDJS4-it Samsung Galaxy S10 Lite Smartphone Display 6.7" Super...'
 sku: 'B083KXDJS4-it'
 tags: [  ]

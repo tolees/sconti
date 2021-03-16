@@ -5,7 +5,7 @@ date: 2020-09-13 14:32:43
 image: 'https://m.media-amazon.com/images/I/51REyHOH2XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VM9V59H-it Asus ROG Strix GeForce RTX 2080 SUPER Advanced Edition 8...'
 sku: 'B07VM9V59H-it'
 tags: [  ]

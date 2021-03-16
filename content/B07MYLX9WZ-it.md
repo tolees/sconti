@@ -5,7 +5,7 @@ date: 2020-10-08 09:48:24
 image: 'https://m.media-amazon.com/images/I/41RebqgF3CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYLX9WZ-it Birkenstock Arizona Sandali a Punta Aperta Donna Nero...'
 sku: 'B07MYLX9WZ-it'
 tags: [  ]

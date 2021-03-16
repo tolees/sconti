@@ -5,7 +5,7 @@ date: 2020-08-12 11:42:43
 image: 'https://m.media-amazon.com/images/I/41DucvF3P2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JS48WT0-it APLI 13580-Feltro nero A4 10 fogli'
 sku: 'B00JS48WT0-it'
 tags: [  ]

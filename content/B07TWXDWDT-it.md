@@ -5,7 +5,7 @@ date: 2020-09-01 15:50:38
 image: 'https://m.media-amazon.com/images/I/31u2DtmTRoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWXDWDT-it Sony FDR-AX53V Kit Videocamera 4K Ultra HD con Sensore...'
 sku: 'B07TWXDWDT-it'
 tags: [  ]

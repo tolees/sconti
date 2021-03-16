@@ -5,7 +5,7 @@ date: 2020-09-11 19:45:50
 image: 'https://m.media-amazon.com/images/I/41YYUnjMCQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJ7X37Y-it SPIRIT OF GAMER - MY-JOY PLUS - Controllore Bluetooth...'
 sku: 'B08BJ7X37Y-it'
 tags: [  ]

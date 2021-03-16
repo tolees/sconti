@@ -5,7 +5,7 @@ date: 2020-08-24 11:50:46
 image: 'https://m.media-amazon.com/images/I/31V6Pk8iqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJCXG47-it L Oréal Paris Rossetto Matte Liquido Tinta Labbra a Lunga...'
 sku: 'B07CJCXG47-it'
 tags: [  ]

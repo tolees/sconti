@@ -5,7 +5,7 @@ date: 2020-08-16 16:20:57
 image: 'https://m.media-amazon.com/images/I/41E33h1qSYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BYG3WIQ-it Nike T-Lite XI Scarpe da Ginnastica Uomo Bianco...'
 sku: 'B00BYG3WIQ-it'
 tags: [  ]

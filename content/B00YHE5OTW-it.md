@@ -5,7 +5,7 @@ date: 2020-10-02 09:43:11
 image: 'https://m.media-amazon.com/images/I/515sV-ObKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YHE5OTW-it Smac - Sgrassatore Trigger Cucina Limone - 650ml x 12...'
 sku: 'B00YHE5OTW-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 10:30:49
 image: 'https://m.media-amazon.com/images/I/41s+XbQBhtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FCKSQPK-it Tapis Roulant Elettrico Pieghevole da 2200W con...'
 sku: 'B08FCKSQPK-it'
 tags: [  ]

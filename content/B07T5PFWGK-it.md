@@ -5,7 +5,7 @@ date: 2020-08-24 12:48:17
 image: 'https://m.media-amazon.com/images/I/31nGc7M2w7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5PFWGK-it Timberland Union Wharf Plain Toe Slip On Sneaker Infilare...'
 sku: 'B07T5PFWGK-it'
 tags: [  ]

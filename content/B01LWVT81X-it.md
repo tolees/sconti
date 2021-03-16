@@ -5,7 +5,7 @@ date: 2020-09-24 02:43:20
 image: 'https://m.media-amazon.com/images/I/31vHFVN70bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWVT81X-it Western Digital WD My Book Hard Disk Desktop USB 3.0...'
 sku: 'B01LWVT81X-it'
 tags: [  ]

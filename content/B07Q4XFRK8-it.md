@@ -5,7 +5,7 @@ date: 2020-08-25 13:46:26
 image: 'https://m.media-amazon.com/images/I/41jAOP-V0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4XFRK8-it Trolley Fit Seven Colorflower Nero 35 Lt 2in1 Zaino con...'
 sku: 'B07Q4XFRK8-it'
 tags: [  ]

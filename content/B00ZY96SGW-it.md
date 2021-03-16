@@ -5,7 +5,7 @@ date: 2020-09-04 13:08:41
 image: 'https://m.media-amazon.com/images/I/31DNbbV3t-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZY96SGW-it Givova Visa Tuta Da Ginnastica Uomo Multicolore...'
 sku: 'B00ZY96SGW-it'
 tags: [  ]

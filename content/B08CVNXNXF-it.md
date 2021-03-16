@@ -5,7 +5,7 @@ date: 2020-08-27 17:01:05
 image: 'https://m.media-amazon.com/images/I/41p0+ESyFcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVNXNXF-it TUTUO Wireless Controller per Nintendo Switch Bluetooth...'
 sku: 'B08CVNXNXF-it'
 tags: [  ]

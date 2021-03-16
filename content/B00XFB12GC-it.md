@@ -5,7 +5,7 @@ date: 2020-07-20 17:15:22
 image: 'https://m.media-amazon.com/images/I/31zWCEYZ8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XFB12GC-it Lacoste YH4801 Polo Bianco Blanc X-Small Taglia...'
 sku: 'B00XFB12GC-it'
 tags: [  ]

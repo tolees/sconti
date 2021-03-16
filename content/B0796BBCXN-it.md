@@ -5,7 +5,7 @@ date: 2020-09-08 14:10:28
 image: 'https://m.media-amazon.com/images/I/31Yp1W2jEzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0796BBCXN-it NAPAPIJRI Rainforest M Sum 1 Giacca Nero Black 041 Small Uomo'
 sku: 'B0796BBCXN-it'
 tags: [  ]

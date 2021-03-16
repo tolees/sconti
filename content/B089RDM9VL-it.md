@@ -5,7 +5,7 @@ date: 2020-09-29 07:37:42
 image: 'https://m.media-amazon.com/images/I/41S27ict-bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089RDM9VL-it TOSING Q9 microfono wireless per karaoke Bluetooth luci a...'
 sku: 'B089RDM9VL-it'
 tags: [  ]

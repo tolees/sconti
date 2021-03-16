@@ -5,7 +5,7 @@ date: 2020-10-01 08:56:04
 image: 'https://m.media-amazon.com/images/I/31vBcop+87L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK356YN-it find. Slouch Stivaletti Nero Black 40 EU'
 sku: 'B07FK356YN-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 17:02:07
 image: 'https://m.media-amazon.com/images/I/51YUO+OPrRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GB9WJ6-it Tommy Hilfiger Bikini Slip Bianco White 100 42 Taglia...'
 sku: 'B078GB9WJ6-it'
 tags: [  ]

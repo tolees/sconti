@@ -5,7 +5,7 @@ date: 2020-09-22 07:36:19
 image: 'https://m.media-amazon.com/images/I/41bK01sA1pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8YWTFL-it Xiaomi Redmi Note 8 Pro 64 + 6 GB Mineral Grey'
 sku: 'B07Y8YWTFL-it'
 tags: [  ]

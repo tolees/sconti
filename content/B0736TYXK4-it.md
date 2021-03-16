@@ -5,7 +5,7 @@ date: 2020-08-27 16:59:12
 image: 'https://m.media-amazon.com/images/I/41Eov7TdHOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0736TYXK4-it VERO MODA Vmava Plain Ss Top Ga Noos T-Shirt Donna Bianco...'
 sku: 'B0736TYXK4-it'
 tags: [  ]

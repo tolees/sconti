@@ -5,7 +5,7 @@ date: 2020-10-04 14:15:37
 image: 'https://m.media-amazon.com/images/I/51ZvcVJZjQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZQ3DF2-it Souke Sports - Guanti da Ciclismo Uomo Donna Guanti da...'
 sku: 'B08CZQ3DF2-it'
 tags: [  ]

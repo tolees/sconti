@@ -5,7 +5,7 @@ date: 2020-09-30 12:02:41
 image: 'https://m.media-amazon.com/images/I/31MZx4O-IPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMSM1GD-it find. Round Toe Block Heel Leather Court Scarpe con Tacco...'
 sku: 'B07KMSM1GD-it'
 tags: [  ]

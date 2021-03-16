@@ -5,7 +5,7 @@ date: 2020-08-22 16:23:47
 image: 'https://m.media-amazon.com/images/I/31mElUVVsPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0856TLMTD-it [2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5...'
 sku: 'B0856TLMTD-it'
 tags: [  ]

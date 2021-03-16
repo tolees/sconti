@@ -5,7 +5,7 @@ date: 2020-09-30 12:31:59
 image: 'https://m.media-amazon.com/images/I/41ezjmeBRWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZT4VTJ-it Marchio Amazon - MERAKI Blazer Casual Uomo Grigio Grey...'
 sku: 'B07GZT4VTJ-it'
 tags: [  ]

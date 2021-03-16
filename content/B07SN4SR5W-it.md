@@ -5,7 +5,7 @@ date: 2020-08-28 11:41:12
 image: 'https://m.media-amazon.com/images/I/31-vhvQNDnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SN4SR5W-it Havaianas Top Animals Infradito Donna Multicolore Sand...'
 sku: 'B07SN4SR5W-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 18:17:23
 image: 'https://m.media-amazon.com/images/I/31Bh5HBRjWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JNZJDM-it United Colors of Benetton 6HEDUB0A2 Cintura Nero Nero 901...'
 sku: 'B075JNZJDM-it'
 tags: [  ]

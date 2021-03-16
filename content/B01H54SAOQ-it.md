@@ -5,7 +5,7 @@ date: 2020-07-20 07:57:55
 image: 'https://m.media-amazon.com/images/I/41hgDzVBbPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H54SAOQ-it Philips Ferri a vapore Ferro da stiro con caldaia...'
 sku: 'B01H54SAOQ-it'
 tags: [  ]

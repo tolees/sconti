@@ -5,7 +5,7 @@ date: 2020-09-21 09:07:28
 image: 'https://m.media-amazon.com/images/I/41UBLSRUUcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DPH9J6-it Lampada da Scrivania lampada da tavolo con funzione di...'
 sku: 'B085DPH9J6-it'
 tags: [  ]

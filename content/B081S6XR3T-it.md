@@ -5,7 +5,7 @@ date: 2020-08-20 08:08:22
 image: 'https://m.media-amazon.com/images/I/51amPYBGZwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081S6XR3T-it Burro di Arachidi Loaded Nuts | Senza Olio di Palma |...'
 sku: 'B081S6XR3T-it'
 tags: [  ]

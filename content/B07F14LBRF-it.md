@@ -5,7 +5,7 @@ date: 2020-09-22 14:46:22
 image: 'https://m.media-amazon.com/images/I/31WwKjTcZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F14LBRF-it Havaianas Brasil Logo Infradito Unisex-Adulto Blu...'
 sku: 'B07F14LBRF-it'
 tags: [  ]

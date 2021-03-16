@@ -5,7 +5,7 @@ date: 2020-08-20 04:05:28
 image: 'https://m.media-amazon.com/images/I/41CfHrLA4fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC4HYPF-it eXtremeRate Soft Grip Cover Custodia Anteriore Copertura...'
 sku: 'B08FC4HYPF-it'
 tags: [  ]

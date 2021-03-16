@@ -5,7 +5,7 @@ date: 2020-09-29 09:05:00
 image: 'https://m.media-amazon.com/images/I/5129qQtl2yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKR84QD-it Goodthreads Camicia a Maniche Lunghe in Chambray a Pois...'
 sku: 'B07BKR84QD-it'
 tags: [  ]

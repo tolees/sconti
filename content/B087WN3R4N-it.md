@@ -5,7 +5,7 @@ date: 2020-09-26 09:04:31
 image: 'https://m.media-amazon.com/images/I/41ar-ha6e+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WN3R4N-it Smartwatch YONMIG Orologio Fitness Uomo Donna Smart Watch...'
 sku: 'B087WN3R4N-it'
 tags: [  ]

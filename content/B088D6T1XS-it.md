@@ -5,7 +5,7 @@ date: 2020-09-26 07:39:30
 image: 'https://m.media-amazon.com/images/I/41HehIXLzzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D6T1XS-it 【bassi potenti】Auricolari Bluetooth IHOUMI Cuffie...'
 sku: 'B088D6T1XS-it'
 tags: [  ]

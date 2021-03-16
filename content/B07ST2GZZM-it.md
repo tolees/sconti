@@ -5,7 +5,7 @@ date: 2020-07-17 12:03:03
 image: 'https://m.media-amazon.com/images/I/51LZq+NkHXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ST2GZZM-it eFootball PES 2020 - Playstation 4'
 sku: 'B07ST2GZZM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 07:44:27
 image: 'https://m.media-amazon.com/images/I/51RqVzsqZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFQYD1D-it Altoparlante Bluetooth Tribit XSound Go 12W Altoparlante...'
 sku: 'B07HFQYD1D-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 07:55:54
 image: 'https://m.media-amazon.com/images/I/51PfHl-QVuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ138HC-it FIFA 20 - Champions - Xbox One 3 anni +'
 sku: 'B07SJ138HC-it'
 tags: [  ]

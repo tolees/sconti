@@ -5,7 +5,7 @@ date: 2020-09-30 11:08:23
 image: 'https://m.media-amazon.com/images/I/41mBh8LRNIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGK94PD-it Oral-B SmartSeries Teen Sensi Ultrathin Spazzolino...'
 sku: 'B07DGK94PD-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-20 17:39:12
 image: 'https://m.media-amazon.com/images/I/21qMZ0Z-FnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002NPBRDE-it Maybelline New York Color Sensational Matita Labbra 47...'
 sku: 'B002NPBRDE-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 09:40:55
 image: 'https://m.media-amazon.com/images/I/31TlgqARK+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YG3NCBN-it Lierac Teint Perfect Skin Fondotinta Fluido con Acido...'
 sku: 'B07YG3NCBN-it'
 tags: [  ]

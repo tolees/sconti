@@ -5,7 +5,7 @@ date: 2020-07-21 18:58:52
 image: 'https://m.media-amazon.com/images/I/3142PfoZvXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AVZMXO0-it Vans Atwood Scarpe da Ginnastica Uomo Nero...'
 sku: 'B00AVZMXO0-it'
 tags: [  ]

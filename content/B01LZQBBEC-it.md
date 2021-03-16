@@ -5,7 +5,7 @@ date: 2020-09-24 16:14:05
 image: 'https://m.media-amazon.com/images/I/41SvkgFgbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZQBBEC-it Foppapedretti Go! Evolution Seggiolino auto Gruppo 0/1...'
 sku: 'B01LZQBBEC-it'
 tags: [  ]

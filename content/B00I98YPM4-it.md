@@ -5,7 +5,7 @@ date: 2020-08-29 16:09:55
 image: 'https://m.media-amazon.com/images/I/315c7WyWHuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I98YPM4-it Max Factor Lipfinity Lip Colour Rossetto Lunga Durata e...'
 sku: 'B00I98YPM4-it'
 tags: [  ]

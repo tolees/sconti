@@ -5,7 +5,7 @@ date: 2020-09-13 07:58:20
 image: 'https://m.media-amazon.com/images/I/319DcUp9QUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ2S5GL-it Riyth Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1...'
 sku: 'B08DJ2S5GL-it'
 tags: [  ]

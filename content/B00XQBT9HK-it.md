@@ -5,7 +5,7 @@ date: 2020-07-26 07:52:19
 image: 'https://m.media-amazon.com/images/I/311Im9fLBDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XQBT9HK-it Nivea - Sun Latte Solare Carotene - 200 Ml'
 sku: 'B00XQBT9HK-it'
 tags: [  ]

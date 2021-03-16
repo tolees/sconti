@@ -5,7 +5,7 @@ date: 2020-08-26 08:05:26
 image: 'https://m.media-amazon.com/images/I/41O6PIBT9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XFAPGWE-it Lacoste L1230 Polo Sport Ultraleggera Uomo Grigio Argent...'
 sku: 'B00XFAPGWE-it'
 tags: [  ]

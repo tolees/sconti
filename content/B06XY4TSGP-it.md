@@ -5,7 +5,7 @@ date: 2020-10-12 20:27:57
 image: 'https://m.media-amazon.com/images/I/41H1iD34pmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XY4TSGP-it Audio-Technica ATHDSR7BT cuffia'
 sku: 'B06XY4TSGP-it'
 tags: [  ]

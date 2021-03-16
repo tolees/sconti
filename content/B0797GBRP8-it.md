@@ -5,7 +5,7 @@ date: 2020-08-30 07:01:48
 image: 'https://m.media-amazon.com/images/I/41zZXabBTjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797GBRP8-it Lampada UV LED Unghie Carttiya Asciuga Unghie per Smalto...'
 sku: 'B0797GBRP8-it'
 tags: [  ]

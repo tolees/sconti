@@ -5,7 +5,7 @@ date: 2020-08-19 16:45:52
 image: 'https://m.media-amazon.com/images/I/51V330RJANL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRZ4MWC-it Tigullio GranPesto Pomodori Secchi e Pistacchi - 190 g'
 sku: 'B07GRZ4MWC-it'
 tags: [  ]

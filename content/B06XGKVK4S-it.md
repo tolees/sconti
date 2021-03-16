@@ -5,7 +5,7 @@ date: 2020-08-02 15:09:21
 image: 'https://m.media-amazon.com/images/I/51R0hSwiTVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGKVK4S-it Guess Orologio Analogico Quarzo Donna con Cinturino in...'
 sku: 'B06XGKVK4S-it'
 tags: [  ]

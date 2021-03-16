@@ -5,7 +5,7 @@ date: 2020-09-10 06:17:48
 image: 'https://m.media-amazon.com/images/I/413FtrnC2wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJLQKK-it NAPAPIJRI Semiury 2 Cuffia Blu Blu Marine 176 Taglia...'
 sku: 'B07MVJLQKK-it'
 tags: [  ]

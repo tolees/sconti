@@ -5,7 +5,7 @@ date: 2020-08-14 16:06:21
 image: 'https://m.media-amazon.com/images/I/41YY0GKnrJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0VQTHY-it Candy CS 1292D3-01 Lavatrice 9 kg 1200 rpm Bianco'
 sku: 'B01H0VQTHY-it'
 tags: [  ]

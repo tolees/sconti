@@ -5,7 +5,7 @@ date: 2020-09-23 10:38:35
 image: 'https://m.media-amazon.com/images/I/51KZJHtjXFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ST9MM7Q-it Sottovuoto Macchina ZUZPAO Cibo professionale per macchine...'
 sku: 'B07ST9MM7Q-it'
 tags: [  ]

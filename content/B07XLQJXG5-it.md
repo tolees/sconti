@@ -5,7 +5,7 @@ date: 2020-10-06 21:40:23
 image: 'https://m.media-amazon.com/images/I/41raMgThH7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLQJXG5-it Tristar FR-6998 Forno per friggere 1500 W 10 Litri Plastica'
 sku: 'B07XLQJXG5-it'
 tags: [  ]

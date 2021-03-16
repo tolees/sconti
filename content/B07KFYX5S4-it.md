@@ -5,7 +5,7 @@ date: 2020-07-28 09:20:54
 image: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYX5S4-it PUMA Ralph Sampson Lo Sneaker Unisex-Adulto Bianco White...'
 sku: 'B07KFYX5S4-it'
 tags: [  ]

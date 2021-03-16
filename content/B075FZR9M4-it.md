@@ -5,7 +5,7 @@ date: 2020-08-20 06:17:30
 image: 'https://m.media-amazon.com/images/I/31I73sMGpeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FZR9M4-it D-Link DIR-882 Router Wi-Fi AC2600 Dual band 5 Porte...'
 sku: 'B075FZR9M4-it'
 tags: [  ]

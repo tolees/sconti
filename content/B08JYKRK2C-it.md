@@ -5,7 +5,7 @@ date: 2020-10-09 22:54:09
 image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JYKRK2C-it Hard Disk 2 TB Esterno Hard Disk Esterno 2 5" Ultrasottile...'
 sku: 'B08JYKRK2C-it'
 tags: [  ]

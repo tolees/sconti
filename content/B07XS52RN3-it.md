@@ -5,7 +5,7 @@ date: 2020-08-24 20:02:10
 image: 'https://m.media-amazon.com/images/I/41nsEL61+zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS52RN3-it Apple iPhone 11 Pro Max 64GB - Grigio Siderale'
 sku: 'B07XS52RN3-it'
 tags: [  ]

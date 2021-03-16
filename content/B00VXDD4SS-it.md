@@ -5,7 +5,7 @@ date: 2020-08-11 10:31:24
 image: 'https://m.media-amazon.com/images/I/51-1CIrzWWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VXDD4SS-it Pesoforma Barrette Cioccolato Cuore Cocco- Pasti...'
 sku: 'B00VXDD4SS-it'
 tags: [  ]

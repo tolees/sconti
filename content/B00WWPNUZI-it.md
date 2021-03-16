@@ -5,7 +5,7 @@ date: 2020-10-04 07:35:13
 image: 'https://m.media-amazon.com/images/I/41inqWZ9M6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WWPNUZI-it JACK & JONES Jjglenn Original Jj 887 Noos Jeans Blu Denim...'
 sku: 'B00WWPNUZI-it'
 tags: [  ]

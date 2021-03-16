@@ -5,7 +5,7 @@ date: 2020-10-07 09:49:18
 image: 'https://m.media-amazon.com/images/I/41aJ1ph+F-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004JY0KP8-it Seiko Orologio Cronografo Quarzo Uomo con Cinturino in...'
 sku: 'B004JY0KP8-it'
 tags: [  ]

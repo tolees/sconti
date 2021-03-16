@@ -5,7 +5,7 @@ date: 2020-10-08 13:17:48
 image: 'https://m.media-amazon.com/images/I/51JdDI-xxOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088C62FFQ-it Viakal Detersivo Anticalcare Spray Aceto Maxi Formato 10...'
 sku: 'B088C62FFQ-it'
 tags: [  ]

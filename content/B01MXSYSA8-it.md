@@ -5,7 +5,7 @@ date: 2020-10-12 12:12:24
 image: 'https://m.media-amazon.com/images/I/41-i1W6eODL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXSYSA8-it Lower East impermeable Uomo Nero Schwarz X-Large'
 sku: 'B01MXSYSA8-it'
 tags: [  ]

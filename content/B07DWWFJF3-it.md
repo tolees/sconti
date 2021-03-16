@@ -5,7 +5,7 @@ date: 2020-09-17 06:28:21
 image: 'https://m.media-amazon.com/images/I/41cSjM5Bn2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWWFJF3-it Salewa Fanes 2 Ptx/Tw Clt M Jkt Giacca Uomo Nero Black Out...'
 sku: 'B07DWWFJF3-it'
 tags: [  ]

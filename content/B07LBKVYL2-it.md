@@ -5,7 +5,7 @@ date: 2020-07-19 14:12:19
 image: 'https://m.media-amazon.com/images/I/41H5IBOPHoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBKVYL2-it Tommy Hilfiger Medium Drawstring Pantaloncini Rosso Red...'
 sku: 'B07LBKVYL2-it'
 tags: [  ]

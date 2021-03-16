@@ -5,7 +5,7 @@ date: 2020-08-06 15:08:25
 image: 'https://m.media-amazon.com/images/I/41e1z10GCSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081ZFCFHM-it Kimbo Capsule di Caffè Armonia 100% Arabica Compatibile...'
 sku: 'B081ZFCFHM-it'
 tags: [  ]

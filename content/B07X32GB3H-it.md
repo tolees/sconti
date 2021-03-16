@@ -5,7 +5,7 @@ date: 2020-10-06 21:39:56
 image: 'https://m.media-amazon.com/images/I/31SyTkKMiJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X32GB3H-it MILLET Extreme RUTOR Shield PT Pantaloni Uomo Orion Blue...'
 sku: 'B07X32GB3H-it'
 tags: [  ]

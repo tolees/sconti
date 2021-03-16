@@ -5,7 +5,7 @@ date: 2020-08-19 09:21:55
 image: 'https://m.media-amazon.com/images/I/417Q6-PuKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2PZ2Z9-it Puma Axis Scarpe da Ginnastica Unisex-Adulto Nero...'
 sku: 'B07F2PZ2Z9-it'
 tags: [  ]

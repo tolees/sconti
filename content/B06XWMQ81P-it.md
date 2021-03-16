@@ -5,7 +5,7 @@ date: 2020-10-02 09:14:21
 image: 'https://m.media-amazon.com/images/I/41RGfU1iKlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWMQ81P-it SanDisk Extreme Scheda di Memoria microSDHC da 32 GB e...'
 sku: 'B06XWMQ81P-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 21:37:48
 image: 'https://m.media-amazon.com/images/I/41Fm712y+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGLV44J-it HyperX Impact DDR4 HX432S20IB2K2/16 Memoria 3200 MHz CL20...'
 sku: 'B07BGLV44J-it'
 tags: [  ]

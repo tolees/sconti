@@ -5,7 +5,7 @@ date: 2020-08-23 08:29:19
 image: 'https://m.media-amazon.com/images/I/41f9LdKY0xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RXSJ8C-it heekpek Costume da Bagno Donna V Profonda Imbottito...'
 sku: 'B085RXSJ8C-it'
 tags: [  ]

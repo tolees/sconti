@@ -5,7 +5,7 @@ date: 2020-09-04 16:01:44
 image: 'https://m.media-amazon.com/images/I/413Hxb9-0FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFDYTWF-it Levi s Francine Down Pckble Jkt Giacca Nero Meteorite 0000...'
 sku: 'B07LFDYTWF-it'
 tags: [  ]

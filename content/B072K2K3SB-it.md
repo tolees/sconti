@@ -5,7 +5,7 @@ date: 2020-09-24 06:49:32
 image: 'https://m.media-amazon.com/images/I/412b5kAcPCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K2K3SB-it Yves Saint Laurent e Eau de Toilette 100 ml'
 sku: 'B072K2K3SB-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 07:14:06
 image: 'https://m.media-amazon.com/images/I/51ynClzW3jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0088XO7IW-it Frisk Peppermint Caramelle al Gusto Menta Senza Zucchero e...'
 sku: 'B0088XO7IW-it'
 tags: [  ]

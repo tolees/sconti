@@ -5,7 +5,7 @@ date: 2020-08-22 09:22:41
 image: 'https://m.media-amazon.com/images/I/41oedUdiI6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBC1RBB-it Cowin E7 Active Noise Cancelling Cuffie Bluetooth con...'
 sku: 'B07LBC1RBB-it'
 tags: [  ]

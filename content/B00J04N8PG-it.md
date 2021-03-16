@@ -5,7 +5,7 @@ date: 2020-10-05 15:20:20
 image: 'https://m.media-amazon.com/images/I/41hUGrDc-CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J04N8PG-it Hazet 9012M Avvitatore Ad Impulso Extra Corto Multicolore...'
 sku: 'B00J04N8PG-it'
 tags: [  ]

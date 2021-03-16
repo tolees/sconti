@@ -5,7 +5,7 @@ date: 2020-08-30 17:47:39
 image: 'https://m.media-amazon.com/images/I/413F-j4XDhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKM18P7-it Riyth Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per...'
 sku: 'B08CKM18P7-it'
 tags: [  ]

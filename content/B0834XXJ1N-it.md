@@ -5,7 +5,7 @@ date: 2020-09-05 20:00:51
 image: 'https://m.media-amazon.com/images/I/31c9TB-hmML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0834XXJ1N-it Cuscino da viaggio gonfiabile ultraleggero da campeggio...'
 sku: 'B0834XXJ1N-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 14:37:08
 image: 'https://m.media-amazon.com/images/I/411lJMLLVpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5I46XF-it Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control...'
 sku: 'B01N5I46XF-it'
 tags: [  ]

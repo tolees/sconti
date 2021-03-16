@@ -5,7 +5,7 @@ date: 2020-09-02 17:02:05
 image: 'https://m.media-amazon.com/images/I/215g7lfUCHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBNP3XM-it adidas Grand Court I Scarpe da Ginnastica Unisex-Bambini...'
 sku: 'B07TBNP3XM-it'
 tags: [  ]

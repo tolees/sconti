@@ -5,7 +5,7 @@ date: 2020-07-30 15:06:18
 image: 'https://m.media-amazon.com/images/I/51TZXITtEeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCZO2LK-it Orzly Volante Nintendo Switch Confezione Doppia –...'
 sku: 'B01NCZO2LK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 12:57:27
 image: 'https://m.media-amazon.com/images/I/41w-TN+TisL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDGXSM9-it Control Xtra Lube 24 Profilattici Extra Lubrificati Standard'
 sku: 'B07SDGXSM9-it'
 tags: [  ]

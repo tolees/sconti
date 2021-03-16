@@ -5,7 +5,7 @@ date: 2020-09-10 07:03:50
 image: 'https://m.media-amazon.com/images/I/41cyoORHvkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKB1FS8-it Olio da barba per cura totale di barba lunga e corta. Olio...'
 sku: 'B07BKB1FS8-it'
 tags: [  ]

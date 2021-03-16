@@ -5,7 +5,7 @@ date: 2020-09-21 09:37:00
 image: 'https://m.media-amazon.com/images/I/41qY1aS624L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BEIQRG2-it Eucerin Duplo Crema per le mani 2 x 75 ml'
 sku: 'B01BEIQRG2-it'
 tags: [  ]

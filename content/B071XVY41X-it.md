@@ -5,7 +5,7 @@ date: 2020-07-18 14:28:39
 image: 'https://m.media-amazon.com/images/I/51fbiK5WVBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XVY41X-it VISPURA® Vitamina B Complex ad Alto Dosaggio 120 Compresse...'
 sku: 'B071XVY41X-it'
 tags: [  ]

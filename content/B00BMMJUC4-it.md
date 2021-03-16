@@ -5,7 +5,7 @@ date: 2020-08-28 13:44:01
 image: 'https://m.media-amazon.com/images/I/41ZKmK54V2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BMMJUC4-it Geox U Dublin B Scarpe Stringate Basse Brogue Uomo Nero...'
 sku: 'B00BMMJUC4-it'
 tags: [  ]

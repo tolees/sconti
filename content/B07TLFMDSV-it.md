@@ -5,7 +5,7 @@ date: 2020-08-20 16:46:17
 image: 'https://m.media-amazon.com/images/I/41FHpGRbyuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLFMDSV-it Levi s Crewneck 1 T-Shirt Blu 2pk Slim Crew Dress Blues X...'
 sku: 'B07TLFMDSV-it'
 tags: [  ]

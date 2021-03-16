@@ -5,7 +5,7 @@ date: 2020-08-12 13:18:18
 image: 'https://m.media-amazon.com/images/I/41Yhue41ufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UCUJDVU-it Samsung Galaxy A51 Smartphone Display 6.5" Super AMOLED 4...'
 sku: 'B00UCUJDVU-it'
 tags: [  ]

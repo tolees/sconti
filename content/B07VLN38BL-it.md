@@ -5,7 +5,7 @@ date: 2020-09-28 11:25:27
 image: 'https://m.media-amazon.com/images/I/21-C+UonP1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLN38BL-it Xiaomi Mi Smart Scale 2 Bilancia Pesa Persona bianco'
 sku: 'B07VLN38BL-it'
 tags: [  ]

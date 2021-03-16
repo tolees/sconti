@@ -5,7 +5,7 @@ date: 2020-08-09 17:25:21
 image: 'https://m.media-amazon.com/images/I/51GQ6VP9lAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5PSTCF-it OSOYOO Robot Car Starter Kit for Arduino UNO | STEM Remote...'
 sku: 'B07Z5PSTCF-it'
 tags: [  ]

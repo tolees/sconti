@@ -5,7 +5,7 @@ date: 2020-09-17 07:09:12
 image: 'https://m.media-amazon.com/images/I/41bz-Eels7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTMGQ1P-it EXCITE Detergente Disinfettante coppetta mestruale e...'
 sku: 'B07MTMGQ1P-it'
 tags: [  ]

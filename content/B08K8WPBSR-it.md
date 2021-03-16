@@ -5,7 +5,7 @@ date: 2020-10-04 10:12:32
 image: 'https://m.media-amazon.com/images/I/41ODVf1IZ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K8WPBSR-it eXtremeRate Cover Scocca Custodia Pulsanti Tasti ABXY...'
 sku: 'B08K8WPBSR-it'
 tags: [  ]

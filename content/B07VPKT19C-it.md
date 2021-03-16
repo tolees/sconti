@@ -5,7 +5,7 @@ date: 2020-09-10 12:29:38
 image: 'https://m.media-amazon.com/images/I/41jooVwdHjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPKT19C-it Fossil Donna Acciaio Inossidabile Orecchini a Pendolo e...'
 sku: 'B07VPKT19C-it'
 tags: [  ]

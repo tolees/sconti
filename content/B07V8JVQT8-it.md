@@ -5,7 +5,7 @@ date: 2020-10-07 09:46:45
 image: 'https://m.media-amazon.com/images/I/41PWFJh8sGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8JVQT8-it Diadora - Sneakers Camaro per Uomo e Donna EU 40'
 sku: 'B07V8JVQT8-it'
 tags: [  ]

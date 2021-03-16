@@ -5,7 +5,7 @@ date: 2020-08-28 06:31:29
 image: 'https://m.media-amazon.com/images/I/41sjkmV+N7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075LWD4Q6-it Lavazza Espresso Decaffeinato Ricco - 10 Confezioni da 10...'
 sku: 'B075LWD4Q6-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-29 06:38:21
 image: 'https://m.media-amazon.com/images/I/41NBePs9BzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT6TQ12-it Motorola One Action Display CinemaVision 6.3" FHD+ 128 GB...'
 sku: 'B07TT6TQ12-it'
 tags: [  ]

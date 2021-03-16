@@ -5,7 +5,7 @@ date: 2020-08-23 12:51:28
 image: 'https://m.media-amazon.com/images/I/41oeg5K5VxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTPCZ7D-it KiplingIaka L WristletDonnaPortamoneteMulticolore Speckled...'
 sku: 'B07TTPCZ7D-it'
 tags: [  ]

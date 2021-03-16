@@ -5,7 +5,7 @@ date: 2020-09-03 16:50:48
 image: 'https://m.media-amazon.com/images/I/31ebueOGTAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQCCZRP-it MORELLATO Bracciale con Charm Donna argento - SAHP04'
 sku: 'B01MQCCZRP-it'
 tags: [  ]

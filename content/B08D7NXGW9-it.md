@@ -5,7 +5,7 @@ date: 2020-08-05 11:56:08
 image: 'https://m.media-amazon.com/images/I/515pEtxbkIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D7NXGW9-it eXtremeRate Lofty Remap Kit Programmabile&Trigger Stop per...'
 sku: 'B08D7NXGW9-it'
 tags: [  ]

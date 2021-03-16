@@ -5,7 +5,7 @@ date: 2020-07-18 23:24:15
 image: 'https://m.media-amazon.com/images/I/31ERiY0hshL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3RJ5NR-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1...'
 sku: 'B08B3RJ5NR-it'
 tags: [  ]

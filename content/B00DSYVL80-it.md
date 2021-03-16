@@ -5,7 +5,7 @@ date: 2020-09-18 02:41:52
 image: 'https://m.media-amazon.com/images/I/51cby0RJUFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DSYVL80-it Casio Orologio Digitale al Quarzo Donna con Cinturino in...'
 sku: 'B00DSYVL80-it'
 tags: [  ]

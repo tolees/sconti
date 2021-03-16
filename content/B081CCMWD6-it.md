@@ -5,7 +5,7 @@ date: 2020-09-24 16:01:21
 image: 'https://m.media-amazon.com/images/I/311JiPUerKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CCMWD6-it DADYPET Giocattolo per Gatti Automatico Giocattolo per...'
 sku: 'B081CCMWD6-it'
 tags: [  ]

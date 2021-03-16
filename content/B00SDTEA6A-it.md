@@ -5,7 +5,7 @@ date: 2020-08-10 13:07:08
 image: 'https://m.media-amazon.com/images/I/51oxJHY1YgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SDTEA6A-it LEGO-Duplo Disney Il Trenino di Topolino e Minnie...'
 sku: 'B00SDTEA6A-it'
 tags: [  ]

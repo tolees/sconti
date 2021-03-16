@@ -5,7 +5,7 @@ date: 2020-09-01 12:08:58
 image: 'https://m.media-amazon.com/images/I/31JPq8etomL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLL8H1T-it Havaianas Logo Metallic Infradito Donna Bianco White 0001...'
 sku: 'B06WLL8H1T-it'
 tags: [  ]

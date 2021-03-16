@@ -5,7 +5,7 @@ date: 2020-08-26 09:48:47
 image: 'https://m.media-amazon.com/images/I/51cv3O0oaFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F54RHWM-it Cerchietto Per Capelli Donna 10 Pezzi Antiscivolo Pelle...'
 sku: 'B08F54RHWM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 20:29:08
 image: 'https://m.media-amazon.com/images/I/41pU+q9xbDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBB5YQR-it SanDisk Extreme micro SDSQXA1-128G-GN6AA per Action Camera...'
 sku: 'B07HBB5YQR-it'
 tags: [  ]

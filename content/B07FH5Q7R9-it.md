@@ -5,7 +5,7 @@ date: 2020-08-28 12:14:47
 image: 'https://m.media-amazon.com/images/I/31jCLspw6cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH5Q7R9-it Havaianas Slim Brasil Logo Infradito Donna Rosa Rose Nude...'
 sku: 'B07FH5Q7R9-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 15:23:32
 image: 'https://m.media-amazon.com/images/I/51+Z23rU6sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825PCMHG-it NWOUIIAY Kit Tosatrice Professionale per Cani...'
 sku: 'B0825PCMHG-it'
 tags: [  ]

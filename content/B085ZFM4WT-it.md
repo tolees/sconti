@@ -5,7 +5,7 @@ date: 2020-07-22 05:28:15
 image: 'https://m.media-amazon.com/images/I/51BRw-kaolL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZFM4WT-it VATOS Set di Costruzioni 568 Pezzi Castello da Principessa...'
 sku: 'B085ZFM4WT-it'
 tags: [  ]

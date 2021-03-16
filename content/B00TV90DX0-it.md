@@ -5,7 +5,7 @@ date: 2020-09-26 07:40:10
 image: 'https://m.media-amazon.com/images/I/41H9b5-W0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TV90DX0-it Rode RODELink Filmmaker Kit con Ricevitore RX-CAM...'
 sku: 'B00TV90DX0-it'
 tags: [  ]

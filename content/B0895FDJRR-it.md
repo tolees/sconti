@@ -5,7 +5,7 @@ date: 2020-07-27 08:26:39
 image: 'https://m.media-amazon.com/images/I/31qVl3kErSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895FDJRR-it Automatico Dispenser di Sapone JUSTDOLIFE Erogatore di...'
 sku: 'B0895FDJRR-it'
 tags: [  ]

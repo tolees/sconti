@@ -5,7 +5,7 @@ date: 2020-08-28 08:10:43
 image: 'https://m.media-amazon.com/images/I/41CHwC5rzQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7YZJQH-it Brother JX17FE Fantasy Edition - Macchina da Cucire...'
 sku: 'B07W7YZJQH-it'
 tags: [  ]

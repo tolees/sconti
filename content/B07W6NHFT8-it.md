@@ -5,7 +5,7 @@ date: 2020-08-29 12:52:37
 image: 'https://m.media-amazon.com/images/I/41JndGPqR3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6NHFT8-it Tommy Hilfiger Slim F in Puro Cotone M Maglietta Polo...'
 sku: 'B07W6NHFT8-it'
 tags: [  ]

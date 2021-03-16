@@ -5,7 +5,7 @@ date: 2020-09-18 02:44:10
 image: 'https://m.media-amazon.com/images/I/41Ap0CQTfKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXST2G2-it Motast Cuffie Bluetooth Auricolari Bluetooth 5.0 Noise...'
 sku: 'B08CXST2G2-it'
 tags: [  ]

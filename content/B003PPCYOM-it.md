@@ -5,7 +5,7 @@ date: 2020-09-24 08:18:29
 image: 'https://m.media-amazon.com/images/I/41Nvm0aGiLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003PPCYOM-it Eastpak Jr Borsa A Tracolla 33 cm 11.5 L Grigio Sunday Grey'
 sku: 'B003PPCYOM-it'
 tags: [  ]

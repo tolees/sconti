@@ -5,7 +5,7 @@ date: 2020-07-27 16:47:20
 image: 'https://m.media-amazon.com/images/I/31sEb+GvWsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4RV7SB-it adidas Falcon W Scarpe da Ginnastica Donna Nero Core...'
 sku: 'B07K4RV7SB-it'
 tags: [  ]

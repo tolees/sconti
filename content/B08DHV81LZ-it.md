@@ -5,7 +5,7 @@ date: 2020-08-18 04:22:39
 image: 'https://m.media-amazon.com/images/I/41PGTcMM2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHV81LZ-it i18 Auricolari wireless Cuffie Bluetooth 5.0 stereo Hi-Fi...'
 sku: 'B08DHV81LZ-it'
 tags: [  ]

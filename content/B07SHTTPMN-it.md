@@ -5,7 +5,7 @@ date: 2020-08-18 19:10:11
 image: 'https://m.media-amazon.com/images/I/315fe7nvBXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHTTPMN-it Havaianas Slim Logo Metallic Infradito Donna Grigio Steel...'
 sku: 'B07SHTTPMN-it'
 tags: [  ]

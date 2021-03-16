@@ -5,7 +5,7 @@ date: 2020-08-29 09:50:26
 image: 'https://m.media-amazon.com/images/I/31CZThSvpsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W39NJGL-it Dischetti Struccanti Lavabili in Bamboo 10 Pezzi -...'
 sku: 'B07W39NJGL-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 17:36:13
 image: 'https://m.media-amazon.com/images/I/31nntkSmf6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VAWFFPM-it HP - HP Stampanti Office Jet Pro 9022 Stampante...'
 sku: 'B00VAWFFPM-it'
 tags: [  ]

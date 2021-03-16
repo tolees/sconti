@@ -5,7 +5,7 @@ date: 2020-08-20 07:40:12
 image: 'https://m.media-amazon.com/images/I/41iQLL0KlqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FX93CG2-it Set Manicure e Pedicure Elettrico TOUCHBeauty Kit di lime...'
 sku: 'B07FX93CG2-it'
 tags: [  ]

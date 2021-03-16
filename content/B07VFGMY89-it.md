@@ -5,7 +5,7 @@ date: 2020-08-19 16:35:02
 image: 'https://m.media-amazon.com/images/I/41BK4WmclyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFGMY89-it NAPAPIJRI Eovico Polo Bianco Bright White 0021 X-Large Uomo'
 sku: 'B07VFGMY89-it'
 tags: [  ]

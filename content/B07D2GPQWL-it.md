@@ -5,7 +5,7 @@ date: 2020-07-23 08:08:01
 image: 'https://m.media-amazon.com/images/I/516aChTFHqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2GPQWL-it DYNASONIC - Altoparlante Bluetooth 10W portatile Lettore...'
 sku: 'B07D2GPQWL-it'
 tags: [  ]

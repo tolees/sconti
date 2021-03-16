@@ -5,7 +5,7 @@ date: 2020-09-27 19:43:10
 image: 'https://m.media-amazon.com/images/I/41hV24iS0pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XWPX6E2-it Nike Tanjun Mn Scarpe Sportive Uomo Nero Black/White 44.5 EU'
 sku: 'B00XWPX6E2-it'
 tags: [  ]

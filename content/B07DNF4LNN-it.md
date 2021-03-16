@@ -5,7 +5,7 @@ date: 2020-08-18 15:48:09
 image: 'https://m.media-amazon.com/images/I/41e-CxV50AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNF4LNN-it adidas Grand Court Scarpe da Tennis Donna Ftwr...'
 sku: 'B07DNF4LNN-it'
 tags: [  ]

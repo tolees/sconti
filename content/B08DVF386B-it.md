@@ -5,7 +5,7 @@ date: 2020-10-11 13:29:59
 image: 'https://m.media-amazon.com/images/I/41YvCKCxluL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DVF386B-it Windows 10 Professional 32/64 bit | Chiave di licenza...'
 sku: 'B08DVF386B-it'
 tags: [  ]

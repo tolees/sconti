@@ -5,7 +5,7 @@ date: 2020-08-02 08:34:47
 image: 'https://m.media-amazon.com/images/I/41UeLqjyliL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL3LH9P-it Adidas Must Haves Badge of Sport Tee T-Shirts Uomo...'
 sku: 'B07KL3LH9P-it'
 tags: [  ]

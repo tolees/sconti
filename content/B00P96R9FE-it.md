@@ -5,7 +5,7 @@ date: 2020-09-07 16:58:27
 image: 'https://m.media-amazon.com/images/I/31aEerff7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P96R9FE-it Kenwood KM631 Impastatrice Planetaria Classic Major Robot...'
 sku: 'B00P96R9FE-it'
 tags: [  ]

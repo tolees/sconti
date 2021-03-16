@@ -5,7 +5,7 @@ date: 2020-09-08 10:14:00
 image: 'https://m.media-amazon.com/images/I/414N-NLQYHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002P3P9XS-it Fjällräven Kånken - Zaino Unisex 13 cm x 27 cm x 38 cm 16...'
 sku: 'B002P3P9XS-it'
 tags: [  ]

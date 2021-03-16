@@ -5,7 +5,7 @@ date: 2020-09-29 10:57:40
 image: 'https://m.media-amazon.com/images/I/318kPZ0PelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJTJRQ5-it Momo Design Monaco 65 Monopattino Elettrico Velocità...'
 sku: 'B07PJTJRQ5-it'
 tags: [  ]

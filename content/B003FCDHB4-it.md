@@ -5,7 +5,7 @@ date: 2020-08-25 07:12:14
 image: 'https://m.media-amazon.com/images/I/31fDVZH8LnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003FCDHB4-it Havaianas Brasil Logo Infradito Unisex-Bambini Blu Navy...'
 sku: 'B003FCDHB4-it'
 tags: [  ]

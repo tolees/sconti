@@ -5,7 +5,7 @@ date: 2020-08-02 08:14:10
 image: 'https://m.media-amazon.com/images/I/41SQ7qtakWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1H3NWF-it Ciabatta Intelligente Multipresa Wifi 4 Prese AC 4 Porte...'
 sku: 'B07X1H3NWF-it'
 tags: [  ]

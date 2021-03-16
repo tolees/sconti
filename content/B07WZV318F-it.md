@@ -5,7 +5,7 @@ date: 2020-08-09 13:32:50
 image: 'https://m.media-amazon.com/images/I/417j9bcUwlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZV318F-it Starbucks Cappuccino by Nescafé Dolce Gusto 6 Confezioni...'
 sku: 'B07WZV318F-it'
 tags: [  ]

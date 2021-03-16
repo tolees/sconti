@@ -5,7 +5,7 @@ date: 2020-09-30 02:11:57
 image: 'https://m.media-amazon.com/images/I/41s2SMMbTyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QM56RW-it Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta...'
 sku: 'B016QM56RW-it'
 tags: [  ]

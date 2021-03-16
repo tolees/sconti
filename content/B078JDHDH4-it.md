@@ -5,7 +5,7 @@ date: 2020-09-24 12:05:43
 image: 'https://m.media-amazon.com/images/I/41CjQyivGeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078JDHDH4-it Tommy Hilfiger New Adan Belt 3.5cm Cintura Blu Sky Captain...'
 sku: 'B078JDHDH4-it'
 tags: [  ]

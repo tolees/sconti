@@ -5,7 +5,7 @@ date: 2020-08-14 16:05:15
 image: 'https://m.media-amazon.com/images/I/41lJkl4McbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073CK1WR9-it Calibro Digitale Tacklife DC02 Precisione Micrometro in...'
 sku: 'B073CK1WR9-it'
 tags: [  ]

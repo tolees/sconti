@@ -5,7 +5,7 @@ date: 2020-10-06 06:48:36
 image: 'https://m.media-amazon.com/images/I/31PYaJj-5qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F86XFF7-it Superdry Low PRO Sneaker Uomo Blu Navy 11s 44 EU'
 sku: 'B07F86XFF7-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 10:01:20
 image: 'https://m.media-amazon.com/images/I/31fdwqrTjJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TPFVHS-it adidas W SL Graph Tee Canottiera Sportiva Donna Black XS'
 sku: 'B081TPFVHS-it'
 tags: [  ]

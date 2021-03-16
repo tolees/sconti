@@ -5,7 +5,7 @@ date: 2020-08-26 12:20:07
 image: 'https://m.media-amazon.com/images/I/41SGit1RqOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC3TY79-it Tommy Hilfiger Cheeky Side Tie Bikini Reggiseno Blu Laser...'
 sku: 'B07WC3TY79-it'
 tags: [  ]

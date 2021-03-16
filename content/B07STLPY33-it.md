@@ -5,7 +5,7 @@ date: 2020-10-07 09:46:44
 image: 'https://m.media-amazon.com/images/I/41z1WqvTGUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLPY33-it Geox U WALEE A Scarpe da Ginnastica Basse Uomo Rosso Red...'
 sku: 'B07STLPY33-it'
 tags: [  ]

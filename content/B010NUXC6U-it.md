@@ -5,7 +5,7 @@ date: 2020-07-28 13:20:10
 image: 'https://m.media-amazon.com/images/I/41k82YBELiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010NUXC6U-it Max Factor Mascara Volumizzante False Lash Effect Velvet...'
 sku: 'B010NUXC6U-it'
 tags: [  ]

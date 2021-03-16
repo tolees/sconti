@@ -5,7 +5,7 @@ date: 2020-09-09 17:53:11
 image: 'https://m.media-amazon.com/images/I/41YL5eVcsnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ7B9D4-it ESPRIT 999ee2i803 Felpa Grigio Grey 030 Large Uomo'
 sku: 'B07RZ7B9D4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 06:45:08
 image: 'https://m.media-amazon.com/images/I/21LiAu4zjcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLVGP1F-it FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB-C 3.1...'
 sku: 'B08HLVGP1F-it'
 tags: [  ]

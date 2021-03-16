@@ -5,7 +5,7 @@ date: 2020-08-12 14:31:05
 image: 'https://m.media-amazon.com/images/I/41-gDgqXVEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086HKVDHC-it Neewer Luce 192 LED Ultra Sottile con LCD Display Batteria...'
 sku: 'B086HKVDHC-it'
 tags: [  ]

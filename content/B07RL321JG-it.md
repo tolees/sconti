@@ -5,7 +5,7 @@ date: 2020-07-29 09:52:34
 image: 'https://m.media-amazon.com/images/I/31iWCCFM3GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RL321JG-it American Tourister Urban Groove Zaino Porta PC 15.6...'
 sku: 'B07RL321JG-it'
 tags: [  ]

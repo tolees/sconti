@@ -5,7 +5,7 @@ date: 2020-08-27 06:05:32
 image: 'https://m.media-amazon.com/images/I/41lESgrE7DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFW628M-it RTP® ● BCAA 4:1:1 + Vit B6 ● 200 Compresse da 1000 mg ●...'
 sku: 'B07ZFW628M-it'
 tags: [  ]

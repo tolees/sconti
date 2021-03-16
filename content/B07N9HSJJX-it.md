@@ -5,7 +5,7 @@ date: 2020-09-13 10:06:51
 image: 'https://m.media-amazon.com/images/I/411o7oxAJCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9HSJJX-it X-Bionic Invent Light Shirt Round Neck Short Sleeve Men T...'
 sku: 'B07N9HSJJX-it'
 tags: [  ]

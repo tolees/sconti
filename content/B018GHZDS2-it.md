@@ -5,7 +5,7 @@ date: 2020-07-24 06:54:12
 image: 'https://m.media-amazon.com/images/I/51xvahJPcLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018GHZDS2-it Equilibra Creatina - 200 gr'
 sku: 'B018GHZDS2-it'
 tags: [  ]

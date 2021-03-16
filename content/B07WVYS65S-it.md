@@ -5,7 +5,7 @@ date: 2020-09-21 08:03:21
 image: 'https://m.media-amazon.com/images/I/415wPVYdyHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVYS65S-it Cere Easy Wax Kit Natural Inspirations Fiore Tiarè & Argan...'
 sku: 'B07WVYS65S-it'
 tags: [  ]

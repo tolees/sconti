@@ -5,7 +5,7 @@ date: 2020-08-25 22:42:44
 image: 'https://m.media-amazon.com/images/I/51QCTDc7yPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQ26KXD-it L.O.L Surprise! - LOL Lils Winter Disco Series con 5...'
 sku: 'B07RQ26KXD-it'
 tags: [  ]

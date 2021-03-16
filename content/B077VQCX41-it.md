@@ -5,7 +5,7 @@ date: 2020-08-27 17:01:06
 image: 'https://m.media-amazon.com/images/I/41NADDb3KHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VQCX41-it Levi s The Perfect Tee T-shirt Donna Bianco White Cn 0006...'
 sku: 'B077VQCX41-it'
 tags: [  ]

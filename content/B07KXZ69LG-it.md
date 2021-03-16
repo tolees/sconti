@@ -5,7 +5,7 @@ date: 2020-09-02 16:43:19
 image: 'https://m.media-amazon.com/images/I/51Gd5Q8xhDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXZ69LG-it Curcuma e Piperiana Plus zenzero limone vitamina C- 130...'
 sku: 'B07KXZ69LG-it'
 tags: [  ]

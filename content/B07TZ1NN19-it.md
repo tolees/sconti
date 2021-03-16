@@ -5,7 +5,7 @@ date: 2020-10-03 13:22:07
 image: 'https://m.media-amazon.com/images/I/41EXrG83KEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ1NN19-it Kipling KiplingTotepackDonnaBorse a secchielloVerde Fro...'
 sku: 'B07TZ1NN19-it'
 tags: [  ]

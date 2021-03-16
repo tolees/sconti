@@ -5,7 +5,7 @@ date: 2020-10-08 15:09:28
 image: 'https://m.media-amazon.com/images/I/41tPAyvQ2CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0198J4WVQ-it Vans Otw Raglan Maglietta Bianco White/Black X-Small Uomo'
 sku: 'B0198J4WVQ-it'
 tags: [  ]

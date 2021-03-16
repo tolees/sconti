@@ -5,7 +5,7 @@ date: 2020-08-27 16:52:20
 image: 'https://m.media-amazon.com/images/I/21qEp8GPAML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004I8V1SK-it Tescoma Pinza Da Cucina'
 sku: 'B004I8V1SK-it'
 tags: [  ]

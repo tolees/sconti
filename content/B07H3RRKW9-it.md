@@ -5,7 +5,7 @@ date: 2020-09-01 12:09:10
 image: 'https://m.media-amazon.com/images/I/51NkWd6zsDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3RRKW9-it Gillette Fusion5 ProGlide 1 Rasoio da Uomo + 5 Lamette...'
 sku: 'B07H3RRKW9-it'
 tags: [  ]

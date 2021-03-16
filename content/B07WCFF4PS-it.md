@@ -5,7 +5,7 @@ date: 2020-10-07 15:23:12
 image: 'https://m.media-amazon.com/images/I/51JwcjpVB3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCFF4PS-it Az Ricerca Dentifricio Pro-Expert Prevenzione Superiore 3...'
 sku: 'B07WCFF4PS-it'
 tags: [  ]

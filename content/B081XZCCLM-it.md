@@ -5,7 +5,7 @@ date: 2020-10-07 11:20:58
 image: 'https://m.media-amazon.com/images/I/41gd6uxiusL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081XZCCLM-it XINFENGDI Samsung Galaxy A20S Cover Custodia Protettiva in...'
 sku: 'B081XZCCLM-it'
 tags: [  ]

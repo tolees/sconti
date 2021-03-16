@@ -5,7 +5,7 @@ date: 2020-09-21 15:23:41
 image: 'https://m.media-amazon.com/images/I/51cV1croI2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLOF5I6-it SanDisk Extreme PLUS Scheda di Memoria SDHC da 32 GB...'
 sku: 'B01KLOF5I6-it'
 tags: [  ]

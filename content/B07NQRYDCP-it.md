@@ -5,7 +5,7 @@ date: 2020-09-25 06:46:01
 image: 'https://m.media-amazon.com/images/I/51v+WYY6tmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQRYDCP-it SYLVANIAN FAMILIES - Casa Grande con Luci Sistema di Gioco...'
 sku: 'B07NQRYDCP-it'
 tags: [  ]

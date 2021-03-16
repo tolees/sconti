@@ -5,7 +5,7 @@ date: 2020-09-22 19:03:49
 image: 'https://m.media-amazon.com/images/I/41VdPRyJ-iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HS2JQQ1-it eXtremeRate Pulsante ABXY D-pad Croci Direzionali Tasti ZR...'
 sku: 'B08HS2JQQ1-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-29 14:12:38
 image: 'https://m.media-amazon.com/images/I/5196x7RdNwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FDLU6U4-it Red Bull Energy Drink Gusto Frutti Rossi e Agrumi 12...'
 sku: 'B01FDLU6U4-it'
 tags: [  ]

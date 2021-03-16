@@ -5,7 +5,7 @@ date: 2020-08-29 13:30:55
 image: 'https://m.media-amazon.com/images/I/31BHNjNhHFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VN1B3K-it Maybelline New York Tinta per Sopracciglia Peel-off Tattoo...'
 sku: 'B073VN1B3K-it'
 tags: [  ]

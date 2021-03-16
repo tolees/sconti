@@ -5,7 +5,7 @@ date: 2020-08-11 16:45:49
 image: 'https://m.media-amazon.com/images/I/416DaSXCYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E36ZKXE-it Trussardi My Name Eau de parfum spray 100 ml donna'
 sku: 'B00E36ZKXE-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 08:43:51
 image: 'https://m.media-amazon.com/images/I/51ADXD9DaPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087GMS8PH-it Ambi Pur Car Deodorante Auto Usa e Getta Anti Tabacco Mega...'
 sku: 'B087GMS8PH-it'
 tags: [  ]

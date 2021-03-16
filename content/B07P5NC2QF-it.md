@@ -5,7 +5,7 @@ date: 2020-08-07 15:22:00
 image: 'https://m.media-amazon.com/images/I/41RWi2GJlIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5NC2QF-it Philips Regolabarba Uomo BT5509/16 S5000 Utilizzo Con e...'
 sku: 'B07P5NC2QF-it'
 tags: [  ]

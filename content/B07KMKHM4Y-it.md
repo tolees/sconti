@@ -5,7 +5,7 @@ date: 2020-10-09 08:48:27
 image: 'https://m.media-amazon.com/images/I/41c-sLD0uEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMKHM4Y-it ARMANI EXCHANGE Icon Project Felpa Nero Black 1200 Small Uomo'
 sku: 'B07KMKHM4Y-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 07:16:55
 image: 'https://m.media-amazon.com/images/I/510Mldk3B1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CNME22-it Davidoff Zino Eau de Toilette Uomo 125 ml'
 sku: 'B000CNME22-it'
 tags: [  ]

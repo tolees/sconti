@@ -5,7 +5,7 @@ date: 2020-07-23 08:24:40
 image: 'https://m.media-amazon.com/images/I/31YDjKW8KTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813SDCB8-it adidas Continental 80 Scarpe da Ginnastica Uomo Crystal...'
 sku: 'B0813SDCB8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 12:13:12
 image: 'https://m.media-amazon.com/images/I/311c2z75wiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z7TT7RG-it OtterBox Defender Series Custodia per iPad 5th Gen Nero'
 sku: 'B00Z7TT7RG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 12:19:46
 image: 'https://m.media-amazon.com/images/I/411P6ONIDBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9Z4JP3-it NACHO LIBRE - POP FUNKO VINYL FIGURE 647 NACHO 9CM'
 sku: 'B07H9Z4JP3-it'
 tags: [  ]

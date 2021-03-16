@@ -5,7 +5,7 @@ date: 2020-09-26 01:27:00
 image: 'https://m.media-amazon.com/images/I/31Zy7fyEu2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXZV9K2-it Havaianas Top Tiras Infradito Donna Oro Rose Nude 7939...'
 sku: 'B07FXZV9K2-it'
 tags: [  ]

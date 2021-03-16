@@ -5,7 +5,7 @@ date: 2020-07-29 07:49:26
 image: 'https://m.media-amazon.com/images/I/414xpPJe2DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AWNSNEE-it Listerine - Collutorio Advanced white 2 pezzi 500 ml x 2'
 sku: 'B01AWNSNEE-it'
 tags: [  ]

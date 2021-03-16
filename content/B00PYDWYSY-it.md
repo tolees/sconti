@@ -5,7 +5,7 @@ date: 2020-08-26 11:29:59
 image: 'https://m.media-amazon.com/images/I/419G6zWttPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PYDWYSY-it Nike MD Runner 2 Scarpe da Running Uomo Blu Midnight...'
 sku: 'B00PYDWYSY-it'
 tags: [  ]

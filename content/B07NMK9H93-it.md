@@ -5,7 +5,7 @@ date: 2020-09-25 08:30:46
 image: 'https://m.media-amazon.com/images/I/41PZcxWVIVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NMK9H93-it Pawhut Pollaio da Giardino con Corsa e Tetto Impermeabile...'
 sku: 'B07NMK9H93-it'
 tags: [  ]

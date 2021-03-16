@@ -5,7 +5,7 @@ date: 2020-07-26 11:39:06
 image: 'https://m.media-amazon.com/images/I/51EveWljFgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E4L0GZK-it Nuvenia - Assorbenti con Ali Normali con SecureFit - 16 Pezzi'
 sku: 'B00E4L0GZK-it'
 tags: [  ]

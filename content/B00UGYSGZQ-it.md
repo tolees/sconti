@@ -5,7 +5,7 @@ date: 2020-08-26 16:42:01
 image: 'https://m.media-amazon.com/images/I/41Tlpf9e8XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UGYSGZQ-it Anself Diffusore di Aromi Umidificatore - 160 ML Diffusore...'
 sku: 'B00UGYSGZQ-it'
 tags: [  ]

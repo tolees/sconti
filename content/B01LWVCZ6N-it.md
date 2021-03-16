@@ -5,7 +5,7 @@ date: 2020-09-16 09:54:20
 image: 'https://m.media-amazon.com/images/I/41cQt5LLy3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWVCZ6N-it Seagate IronWolf Unità SATA da 6 Gbit/s da 2 TB HDD CMR 3...'
 sku: 'B01LWVCZ6N-it'
 tags: [  ]

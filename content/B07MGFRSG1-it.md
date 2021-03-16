@@ -5,7 +5,7 @@ date: 2020-09-09 16:54:42
 image: 'https://m.media-amazon.com/images/I/41WRw9MWSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRSG1-it NAPAPIJRI Burgee 2 Felpa con Cappuccio Viola Purple Wine...'
 sku: 'B07MGFRSG1-it'
 tags: [  ]

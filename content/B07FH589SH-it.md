@@ -5,7 +5,7 @@ date: 2020-09-28 18:04:41
 image: 'https://m.media-amazon.com/images/I/31KvSSiE30L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH589SH-it Havaianas Slim 4000030 Infradito Donna Rosa Hollywood Rose...'
 sku: 'B07FH589SH-it'
 tags: [  ]

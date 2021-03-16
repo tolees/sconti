@@ -5,7 +5,7 @@ date: 2020-09-25 19:28:04
 image: 'https://m.media-amazon.com/images/I/413GgaNl5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QSRYZMS-it Briksmax Kit di Illuminazione a Led Per Architecture...'
 sku: 'B07QSRYZMS-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 20:16:48
 image: 'https://m.media-amazon.com/images/I/41AEU+dcbkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G89N8KJ-it Veetop Case Hard Disk SSD Esterno M2 NVME USB 3.1 Gen 2...'
 sku: 'B08G89N8KJ-it'
 tags: [  ]

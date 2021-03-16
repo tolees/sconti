@@ -5,7 +5,7 @@ date: 2020-09-27 09:32:58
 image: 'https://m.media-amazon.com/images/I/41BD89+ZI7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZHHNHC-it Birra Peroni - Cassa da 24 x 33 lattine cl 7.92 litri'
 sku: 'B07XZHHNHC-it'
 tags: [  ]

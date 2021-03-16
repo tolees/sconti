@@ -5,7 +5,7 @@ date: 2020-08-29 18:23:41
 image: 'https://m.media-amazon.com/images/I/51aeg0NtlOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFGC93K-it Only onlSKY Reg DNM Skirt BB PIM992 Noos Gonna Blu Light...'
 sku: 'B07HFGC93K-it'
 tags: [  ]

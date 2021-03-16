@@ -5,7 +5,7 @@ date: 2020-09-22 19:05:54
 image: 'https://m.media-amazon.com/images/I/41keMWIO-3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GSS1M86-it eXtremeRate Lofty Remap Kit Programmabile&Trigger Stop per...'
 sku: 'B08GSS1M86-it'
 tags: [  ]

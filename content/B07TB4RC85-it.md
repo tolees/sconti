@@ -5,7 +5,7 @@ date: 2020-08-06 15:04:46
 image: 'https://m.media-amazon.com/images/I/51l6bLnV4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB4RC85-it Avvitatore ad Impulsi TECCPO 350Nm Avvitatori a Massa...'
 sku: 'B07TB4RC85-it'
 tags: [  ]

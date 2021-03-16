@@ -5,7 +5,7 @@ date: 2020-09-10 17:01:09
 image: 'https://m.media-amazon.com/images/I/41VuNtBBW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CIUC5IU-it Candy CMG2071DS Microonde 20L 700W Argento'
 sku: 'B00CIUC5IU-it'
 tags: [  ]

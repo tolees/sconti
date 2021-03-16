@@ -5,7 +5,7 @@ date: 2020-09-23 23:28:33
 image: 'https://m.media-amazon.com/images/I/61JaTXmCKlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00423BDXY-it Inuyasha The Movies Collection Box 5 Dvd'
 sku: 'B00423BDXY-it'
 tags: [  ]

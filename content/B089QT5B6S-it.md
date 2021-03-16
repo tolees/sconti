@@ -5,7 +5,7 @@ date: 2020-09-21 15:00:30
 image: 'https://m.media-amazon.com/images/I/41sd82wdMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089QT5B6S-it takestop® Barbecue Tondo 36x55cm GRIGLIA Rimovibile...'
 sku: 'B089QT5B6S-it'
 tags: [  ]

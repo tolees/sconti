@@ -5,7 +5,7 @@ date: 2020-09-11 01:02:46
 image: 'https://m.media-amazon.com/images/I/41719Lw5vbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FDQWS2V-it Auricolare Bluetoot Cuffie Bluetooth touch 24h Playtime 3D...'
 sku: 'B08FDQWS2V-it'
 tags: [  ]

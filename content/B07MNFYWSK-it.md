@@ -5,7 +5,7 @@ date: 2020-07-21 23:29:30
 image: 'https://m.media-amazon.com/images/I/51YOn8FTWHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNFYWSK-it Gebildet 3 pezzi Interruttore a Levetta con Luce a LED...'
 sku: 'B07MNFYWSK-it'
 tags: [  ]

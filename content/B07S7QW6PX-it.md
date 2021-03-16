@@ -5,7 +5,7 @@ date: 2020-08-06 15:28:12
 image: 'https://m.media-amazon.com/images/I/41f+govlM7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QW6PX-it PUMA Smash V2 Sneakers Unisex-Adulto Nero Black/Hot Coral...'
 sku: 'B07S7QW6PX-it'
 tags: [  ]

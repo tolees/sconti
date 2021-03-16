@@ -5,7 +5,7 @@ date: 2020-09-26 07:23:06
 image: 'https://m.media-amazon.com/images/I/51OpbaD-hrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5KZR9J-it Custodia per Samsung Galaxy Tab A 10.1 T510 / T515 / T517...'
 sku: 'B07T5KZR9J-it'
 tags: [  ]

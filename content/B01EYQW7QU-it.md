@@ -5,7 +5,7 @@ date: 2020-08-17 08:37:18
 image: 'https://m.media-amazon.com/images/I/41cqHfqNp7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYQW7QU-it Bilboa Carrot Plus Latte Spf 6-200 ml'
 sku: 'B01EYQW7QU-it'
 tags: [  ]

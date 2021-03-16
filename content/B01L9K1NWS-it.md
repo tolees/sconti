@@ -5,7 +5,7 @@ date: 2020-10-02 15:26:00
 image: 'https://m.media-amazon.com/images/I/41EvvYqwkhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L9K1NWS-it Pandora Anello con motivo Donna vermeil - 180880CZ-52'
 sku: 'B01L9K1NWS-it'
 tags: [  ]

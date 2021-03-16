@@ -5,7 +5,7 @@ date: 2020-09-01 07:53:47
 image: 'https://m.media-amazon.com/images/I/416tJyU0rFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008OHVIY8-it Foppapedretti Go Up Carrello Portaspesa Black'
 sku: 'B008OHVIY8-it'
 tags: [  ]

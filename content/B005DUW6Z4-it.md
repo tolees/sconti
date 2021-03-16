@@ -5,7 +5,7 @@ date: 2020-07-19 15:35:15
 image: 'https://m.media-amazon.com/images/I/31BUdm9tvoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DUW6Z4-it Intex 28003 Deluxe Kit di Pulizia per Piscine fino a 5.49...'
 sku: 'B005DUW6Z4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-29 07:22:43
 image: 'https://m.media-amazon.com/images/I/519LZYObgmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXPKBF9-it HOMIEE Zaino da Trekking 45 Litri Resistente all Acqua...'
 sku: 'B07YXPKBF9-it'
 tags: [  ]

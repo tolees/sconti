@@ -5,7 +5,7 @@ date: 2020-08-29 07:07:52
 image: 'https://m.media-amazon.com/images/I/31s1cxKcmzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001V9LBAM-it Rimmel Matita Occhi Automatica Exaggerate Matita...'
 sku: 'B001V9LBAM-it'
 tags: [  ]

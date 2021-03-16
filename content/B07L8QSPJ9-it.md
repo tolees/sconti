@@ -5,7 +5,7 @@ date: 2020-09-28 08:51:30
 image: 'https://m.media-amazon.com/images/I/51XVPt7xr2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8QSPJ9-it Readaeer AB Roller Ruota per Addominali Rullo Abdominal...'
 sku: 'B07L8QSPJ9-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-10 05:16:37
 image: 'https://m.media-amazon.com/images/I/51ID96mx78L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ6YNW3-it NEWHEY Borsa Donna Borsa Porta PC 15.6 Pollici Grande...'
 sku: 'B08DJ6YNW3-it'
 tags: [  ]

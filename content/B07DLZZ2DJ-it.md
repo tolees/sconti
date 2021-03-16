@@ -5,7 +5,7 @@ date: 2020-08-03 09:20:31
 image: 'https://m.media-amazon.com/images/I/41+LdmytWzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLZZ2DJ-it Toolove Lampada da Lettura a LED USB Ricaricabile Luce...'
 sku: 'B07DLZZ2DJ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 18:34:57
 image: 'https://m.media-amazon.com/images/I/41Hp9CeBNWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFLGTKL-it adidas 2018 Borsone 45 cm 25 Liters Multicolore Blabas/Negro'
 sku: 'B07DFLGTKL-it'
 tags: [  ]

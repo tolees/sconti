@@ -5,7 +5,7 @@ date: 2020-09-28 10:04:26
 image: 'https://m.media-amazon.com/images/I/41Zbk767pqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGT3YH6-it Calvin Klein Hip Brief 3pk Boxer Uomo Confezione da 3 Nero...'
 sku: 'B07NGT3YH6-it'
 tags: [  ]

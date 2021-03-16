@@ -5,7 +5,7 @@ date: 2020-09-19 11:15:52
 image: 'https://m.media-amazon.com/images/I/41O6VBdL2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZLPHGD-it Head & Shoulders Shampoo Antiforfora Suprême Ripara con...'
 sku: 'B07MZLPHGD-it'
 tags: [  ]

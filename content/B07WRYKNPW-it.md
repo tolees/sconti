@@ -5,7 +5,7 @@ date: 2020-08-28 14:02:01
 image: 'https://m.media-amazon.com/images/I/41sb9kccCeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRYKNPW-it Gricol Mensola da Doccia Angolare Senza Foratura in...'
 sku: 'B07WRYKNPW-it'
 tags: [  ]

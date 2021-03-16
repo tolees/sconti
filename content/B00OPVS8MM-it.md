@@ -5,7 +5,7 @@ date: 2020-08-12 13:10:57
 image: 'https://m.media-amazon.com/images/I/51zB2V06ZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OPVS8MM-it Grey L Acchiappacolore Fogli Cattura Colore Lavatrice...'
 sku: 'B00OPVS8MM-it'
 tags: [  ]

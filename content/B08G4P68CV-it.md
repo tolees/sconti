@@ -5,7 +5,7 @@ date: 2020-09-23 00:49:52
 image: 'https://m.media-amazon.com/images/I/41hFWA2YxhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4P68CV-it DUDUKING Occhiali da Sole Ciclismo Polarizzati Sportivi...'
 sku: 'B08G4P68CV-it'
 tags: [  ]

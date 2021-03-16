@@ -5,7 +5,7 @@ date: 2020-09-25 15:11:01
 image: 'https://m.media-amazon.com/images/I/316f9jH19BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084YQPQ5M-it Huawei P40 Lite Crush Green 6.4" 6gb/128gb Dual Sim'
 sku: 'B084YQPQ5M-it'
 tags: [  ]

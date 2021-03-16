@@ -5,7 +5,7 @@ date: 2020-08-29 14:11:32
 image: 'https://m.media-amazon.com/images/I/417UP3hKZwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKY9SNZ-it Imetec ZeroCalc Ferro da Stiro Z1 2500 Tecnologia...'
 sku: 'B07CKY9SNZ-it'
 tags: [  ]

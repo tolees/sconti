@@ -5,7 +5,7 @@ date: 2020-09-05 16:41:50
 image: 'https://m.media-amazon.com/images/I/41cMpPuYycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF663SN-it Levi s HR Decon Iconic BF Skirt Gonna Nero Left Behind...'
 sku: 'B07KF663SN-it'
 tags: [  ]

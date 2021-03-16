@@ -5,7 +5,7 @@ date: 2020-08-04 14:01:06
 image: 'https://m.media-amazon.com/images/I/41ULI4vF3EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZ1DNBN-it TACKLIFE Utensile Multifunzione Rotante 4V Cordless...'
 sku: 'B07YZ1DNBN-it'
 tags: [  ]

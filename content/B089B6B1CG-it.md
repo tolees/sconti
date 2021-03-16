@@ -5,7 +5,7 @@ date: 2020-09-04 17:22:33
 image: 'https://m.media-amazon.com/images/I/41c9N4L3G1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089B6B1CG-it CARPISA® Borsa a sacca con manici e tracolla - Nantes'
 sku: 'B089B6B1CG-it'
 tags: [  ]

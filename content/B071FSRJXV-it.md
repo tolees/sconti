@@ -5,7 +5,7 @@ date: 2020-08-06 11:39:37
 image: 'https://m.media-amazon.com/images/I/41+qpWFiebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FSRJXV-it Turtle Beach Stealth 700P Cuffie Gaming con Suono Surround...'
 sku: 'B071FSRJXV-it'
 tags: [  ]

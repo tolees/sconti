@@ -5,7 +5,7 @@ date: 2020-10-07 12:31:10
 image: 'https://m.media-amazon.com/images/I/31zAxF-3xvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C931NRN-it Versus Versace Dress Watch VSP490318'
 sku: 'B07C931NRN-it'
 tags: [  ]

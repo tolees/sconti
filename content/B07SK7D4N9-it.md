@@ -5,7 +5,7 @@ date: 2020-08-15 05:31:31
 image: 'https://m.media-amazon.com/images/I/51TpeIwdZ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK7D4N9-it Winnes - Smartwatch per bambini con 7 giochi funzione...'
 sku: 'B07SK7D4N9-it'
 tags: [  ]

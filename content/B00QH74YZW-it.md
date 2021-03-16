@@ -5,7 +5,7 @@ date: 2020-09-26 14:29:30
 image: 'https://m.media-amazon.com/images/I/410oJv55dTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QH74YZW-it adidas Stan Smith J Scarpe da Basket Unisex-Adulto Nero...'
 sku: 'B00QH74YZW-it'
 tags: [  ]

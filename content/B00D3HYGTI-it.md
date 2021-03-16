@@ -5,7 +5,7 @@ date: 2020-09-26 09:47:24
 image: 'https://m.media-amazon.com/images/I/515iFp0DFNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3HYGTI-it Scholl Talloniera Comfort in Gel Large - 1 Prodotto'
 sku: 'B00D3HYGTI-it'
 tags: [  ]

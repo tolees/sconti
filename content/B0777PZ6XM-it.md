@@ -5,7 +5,7 @@ date: 2020-08-20 10:42:42
 image: 'https://m.media-amazon.com/images/I/41mppO0L3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777PZ6XM-it Tommy Hilfiger Original Triblend V Neck T-Shirt Rosso...'
 sku: 'B0777PZ6XM-it'
 tags: [  ]

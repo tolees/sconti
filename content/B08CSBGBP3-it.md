@@ -5,7 +5,7 @@ date: 2020-08-11 05:37:01
 image: 'https://m.media-amazon.com/images/I/41Pjxs8McbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CSBGBP3-it Controller wireless per Nintendo Switch Maegoo Mini...'
 sku: 'B08CSBGBP3-it'
 tags: [  ]

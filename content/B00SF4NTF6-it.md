@@ -5,7 +5,7 @@ date: 2020-08-19 13:23:11
 image: 'https://m.media-amazon.com/images/I/51kWj1Vs7wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SF4NTF6-it STAEDTLER matite colorate Noris Colour confezione da 24...'
 sku: 'B00SF4NTF6-it'
 tags: [  ]

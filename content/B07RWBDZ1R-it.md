@@ -5,7 +5,7 @@ date: 2020-07-22 06:46:19
 image: 'https://m.media-amazon.com/images/I/51m72wukMqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWBDZ1R-it Havaianas Top Logomania Infradito Unisex-Adulto Blu Navy...'
 sku: 'B07RWBDZ1R-it'
 tags: [  ]

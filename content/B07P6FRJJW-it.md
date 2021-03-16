@@ -5,7 +5,7 @@ date: 2020-08-12 08:10:51
 image: 'https://m.media-amazon.com/images/I/5186zU0H5IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6FRJJW-it Sony KD-43XG7005 TV Smart da 43" 4K Ultra HD HDR Slim...'
 sku: 'B07P6FRJJW-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 14:33:46
 image: 'https://m.media-amazon.com/images/I/41shONY+LaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VK7Y3CK-it Integratore Acido Ialuronico in Capsule ad Alto Dosaggio...'
 sku: 'B07VK7Y3CK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 04:45:23
 image: 'https://m.media-amazon.com/images/I/51EhOnT3SgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNNFHWX-it Xbox One S - 1TB Bundle Gears of War 5 - Inclusi Gears of...'
 sku: 'B07VNNFHWX-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 10:52:32
 image: 'https://m.media-amazon.com/images/I/41NxxShMUmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WG40MCO-it Voiello Pasta Spaghetti Scanalati N.107 Pasta Lunga di...'
 sku: 'B00WG40MCO-it'
 tags: [  ]

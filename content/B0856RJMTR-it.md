@@ -5,7 +5,7 @@ date: 2020-08-10 06:51:35
 image: 'https://m.media-amazon.com/images/I/41Z7jx47ItL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0856RJMTR-it Aigostar Archer 30RKN - 1200W Frullatore con brocca in...'
 sku: 'B0856RJMTR-it'
 tags: [  ]

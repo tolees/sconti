@@ -5,7 +5,7 @@ date: 2020-09-17 12:50:19
 image: 'https://m.media-amazon.com/images/I/417W2t3iVKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVHX3PK-it RAVPower Cavo USB C a Lightning [90cm Certificato Apple...'
 sku: 'B07RVHX3PK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 16:11:20
 image: 'https://m.media-amazon.com/images/I/515505qnVxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082CZ9BFV-it Macchina Sottovuoto per Alimenti Automatica Blusmart 80Kpa...'
 sku: 'B082CZ9BFV-it'
 tags: [  ]

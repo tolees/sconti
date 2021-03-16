@@ -5,7 +5,7 @@ date: 2020-10-08 09:07:53
 image: 'https://m.media-amazon.com/images/I/41PMaSSNrzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EAA6IZW-it Rowenta CF4132 Ferro Arricciacapelli Multistyler 14-in-1...'
 sku: 'B00EAA6IZW-it'
 tags: [  ]

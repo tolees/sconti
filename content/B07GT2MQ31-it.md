@@ -5,7 +5,7 @@ date: 2020-08-26 09:48:23
 image: 'https://m.media-amazon.com/images/I/51ZnWwkzY5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT2MQ31-it Desigual Bag Apolo Rotterdam Women - Borse a spalla Donna...'
 sku: 'B07GT2MQ31-it'
 tags: [  ]

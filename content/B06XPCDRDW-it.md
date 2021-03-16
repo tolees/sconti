@@ -5,7 +5,7 @@ date: 2020-10-09 06:31:04
 image: 'https://m.media-amazon.com/images/I/31vblALq29L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPCDRDW-it Rowenta CF5712 Instant Straight Spazzola Elettrica...'
 sku: 'B06XPCDRDW-it'
 tags: [  ]

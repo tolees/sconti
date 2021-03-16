@@ -5,7 +5,7 @@ date: 2020-08-11 14:35:31
 image: 'https://m.media-amazon.com/images/I/41o-eG+wbTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHGHV6H-it Tommy Hilfiger Light Weight Hooded Jacket Bomber Blu Blue...'
 sku: 'B07RHGHV6H-it'
 tags: [  ]

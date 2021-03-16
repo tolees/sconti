@@ -5,7 +5,7 @@ date: 2020-09-07 10:23:49
 image: 'https://m.media-amazon.com/images/I/419W-QhT9RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5MYFLT-it Tommy Hilfiger Basic Embroidered Hoody Felpa Blu Desert...'
 sku: 'B07W5MYFLT-it'
 tags: [  ]

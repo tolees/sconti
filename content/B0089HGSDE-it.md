@@ -5,7 +5,7 @@ date: 2020-08-31 13:56:03
 image: 'https://m.media-amazon.com/images/I/31VN++LbZcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0089HGSDE-it Burberry Acqua di profumo per le donne 100 ml'
 sku: 'B0089HGSDE-it'
 tags: [  ]

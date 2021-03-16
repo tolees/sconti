@@ -5,7 +5,7 @@ date: 2020-09-13 11:38:05
 image: 'https://m.media-amazon.com/images/I/416I2CdeITL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010UH5QJM-it Meliconi Vision Line 300 Mobile Porta TV con 3 Ripiani in...'
 sku: 'B010UH5QJM-it'
 tags: [  ]

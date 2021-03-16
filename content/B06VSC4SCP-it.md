@@ -5,7 +5,7 @@ date: 2020-07-27 12:19:18
 image: 'https://m.media-amazon.com/images/I/513y7Dp+qWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VSC4SCP-it Sector No Limits Orologio Digitale Uomo con Cinturino in...'
 sku: 'B06VSC4SCP-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 05:53:22
 image: 'https://m.media-amazon.com/images/I/4119VOhGquL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00INX005Q-it Kärcher K 4 - Idropulitrice a Freddo 130 Bar 420 L/H 30...'
 sku: 'B00INX005Q-it'
 tags: [  ]

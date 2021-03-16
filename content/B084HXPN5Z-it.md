@@ -5,7 +5,7 @@ date: 2020-10-02 12:32:43
 image: 'https://m.media-amazon.com/images/I/51y6Mqbm5uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HXPN5Z-it Fallout 76 Wastelanders PlayStation 4'
 sku: 'B084HXPN5Z-it'
 tags: [  ]

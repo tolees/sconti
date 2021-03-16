@@ -5,7 +5,7 @@ date: 2020-09-16 05:53:39
 image: 'https://m.media-amazon.com/images/I/31wKuXTQ1QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003D8ZT0C-it Logitech M90 Mouse USB Cablato 1000 DPI Mouse Ambidestro...'
 sku: 'B003D8ZT0C-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 09:49:27
 image: 'https://m.media-amazon.com/images/I/41Jk9+JiZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822CFMZ8-it Hosome Aspirapolvere Senza Fili 12000pa Potente Scopa...'
 sku: 'B0822CFMZ8-it'
 tags: [  ]

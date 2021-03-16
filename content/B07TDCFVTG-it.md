@@ -5,7 +5,7 @@ date: 2020-09-22 13:09:09
 image: 'https://m.media-amazon.com/images/I/41mB+7gWXwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDCFVTG-it VicTsing Tastiera e Mouse Wireless PC Kit Tastiera Mouse...'
 sku: 'B07TDCFVTG-it'
 tags: [  ]

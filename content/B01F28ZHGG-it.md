@@ -5,7 +5,7 @@ date: 2020-09-04 16:39:13
 image: 'https://m.media-amazon.com/images/I/51ugBK-qJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F28ZHGG-it Call of Duty: Infinite Warfare - Legacy Edition -...'
 sku: 'B01F28ZHGG-it'
 tags: [  ]

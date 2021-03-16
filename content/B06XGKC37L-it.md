@@ -5,7 +5,7 @@ date: 2020-07-30 06:43:13
 image: 'https://m.media-amazon.com/images/I/51V3OUiCsKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGKC37L-it Garnier Ultra Dolce Bagnodoccia Fico e Zucchero di Canna...'
 sku: 'B06XGKC37L-it'
 tags: [  ]

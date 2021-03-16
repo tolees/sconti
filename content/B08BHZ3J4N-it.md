@@ -5,7 +5,7 @@ date: 2020-09-01 10:50:37
 image: 'https://m.media-amazon.com/images/I/41h0K0TqalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHZ3J4N-it Ring Light 10 LED Luce ad Anello di Luce Treppiedi con 3...'
 sku: 'B08BHZ3J4N-it'
 tags: [  ]

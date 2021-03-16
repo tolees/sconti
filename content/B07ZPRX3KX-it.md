@@ -5,7 +5,7 @@ date: 2020-08-31 09:12:07
 image: 'https://m.media-amazon.com/images/I/31fdXz--EaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPRX3KX-it Hurley M Phtm Vagabond Elite Cappelli Uomo Dk Smoke Grey L/XL'
 sku: 'B07ZPRX3KX-it'
 tags: [  ]

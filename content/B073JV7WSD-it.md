@@ -5,7 +5,7 @@ date: 2020-10-12 09:50:29
 image: 'https://m.media-amazon.com/images/I/417RRYdDRLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JV7WSD-it Marchio Amazon - find. Bomber Imbottito Uomo Blu Navy M...'
 sku: 'B073JV7WSD-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 16:20:37
 image: 'https://m.media-amazon.com/images/I/51bMkQa92fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KDQP4K-it LK Pellicola Protettiva per Xiaomi Mi Note 10 Lite...'
 sku: 'B088KDQP4K-it'
 tags: [  ]

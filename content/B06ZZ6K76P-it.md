@@ -5,7 +5,7 @@ date: 2020-08-28 10:37:47
 image: 'https://m.media-amazon.com/images/I/41x1gNHjHSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZ6K76P-it Samsung WW70K5410UW Lavatrice 7 kg AddWash 1400 rpm Bianco...'
 sku: 'B06ZZ6K76P-it'
 tags: [  ]

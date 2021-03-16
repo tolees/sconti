@@ -5,7 +5,7 @@ date: 2020-09-28 06:33:37
 image: 'https://m.media-amazon.com/images/I/511U9RhaBML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVDP9XB-it Mystic Color - Colore Biondo Scuro Rame 6.4 - Tinta per...'
 sku: 'B07SVDP9XB-it'
 tags: [  ]

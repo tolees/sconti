@@ -5,7 +5,7 @@ date: 2020-09-30 18:11:52
 image: 'https://m.media-amazon.com/images/I/31V1KppPp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077G34GKQ-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna Rosso Red...'
 sku: 'B077G34GKQ-it'
 tags: [  ]

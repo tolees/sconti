@@ -5,7 +5,7 @@ date: 2020-07-17 09:05:37
 image: 'https://m.media-amazon.com/images/I/31WxGa-8I9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001AO0OXI-it Honeywell HO-5500RE4 Ventilatore a Torre'
 sku: 'B001AO0OXI-it'
 tags: [  ]

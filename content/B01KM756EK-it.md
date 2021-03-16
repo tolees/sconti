@@ -5,7 +5,7 @@ date: 2020-09-05 13:06:37
 image: 'https://m.media-amazon.com/images/I/41yDB1CBWaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KM756EK-it Timberland Killington Chukka Scarpe Alte Uomo Beige Wheat...'
 sku: 'B01KM756EK-it'
 tags: [  ]

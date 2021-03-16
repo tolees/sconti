@@ -5,7 +5,7 @@ date: 2020-08-23 12:46:30
 image: 'https://m.media-amazon.com/images/I/31fOz6o0XzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SP4FQKM-it Havaianas Slim Floral Infradito Donna Multicolore Blue...'
 sku: 'B07SP4FQKM-it'
 tags: [  ]

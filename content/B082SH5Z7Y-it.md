@@ -5,7 +5,7 @@ date: 2020-09-29 20:18:37
 image: 'https://m.media-amazon.com/images/I/411YR7P0wXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SH5Z7Y-it HolyHigh Auricolari Bluetooth Sport Wireless Cuffie...'
 sku: 'B082SH5Z7Y-it'
 tags: [  ]

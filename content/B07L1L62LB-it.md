@@ -5,7 +5,7 @@ date: 2020-09-21 13:31:37
 image: 'https://m.media-amazon.com/images/I/41nQ1lSJ3pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1L62LB-it Diadora - Sneakers Camaro per Uomo e Donna EU 38.5'
 sku: 'B07L1L62LB-it'
 tags: [  ]

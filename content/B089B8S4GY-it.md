@@ -5,7 +5,7 @@ date: 2020-07-21 09:32:14
 image: 'https://m.media-amazon.com/images/I/41MPqYpglQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089B8S4GY-it CARPISA® Borsa shopping a spalla bicolore - Nantes'
 sku: 'B089B8S4GY-it'
 tags: [  ]

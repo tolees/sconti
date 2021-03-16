@@ -5,7 +5,7 @@ date: 2020-08-01 15:45:12
 image: 'https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLYT797-it Nike Revolution 5 U Scarpe da Corsa Mens Nero/Bianco 48.5 EU'
 sku: 'B07NLYT797-it'
 tags: [  ]

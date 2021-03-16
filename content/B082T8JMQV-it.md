@@ -5,7 +5,7 @@ date: 2020-10-07 06:17:19
 image: 'https://m.media-amazon.com/images/I/41eSoHkn7qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082T8JMQV-it Big Babol Mega Stick Gomme da Masticare Chewing Gum...'
 sku: 'B082T8JMQV-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 12:20:45
 image: 'https://m.media-amazon.com/images/I/41kKEVQ-yUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JD9DZ65-it Cesar Cuore di Verdure Tenero Cibo per Cane Paté con...'
 sku: 'B07JD9DZ65-it'
 tags: [  ]

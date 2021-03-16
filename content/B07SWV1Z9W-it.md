@@ -5,7 +5,7 @@ date: 2020-08-26 07:46:16
 image: 'https://m.media-amazon.com/images/I/51shrYEkrtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWV1Z9W-it Geox D Sozy Plus B Sandali Punta Aperta Donna Marrone 36 EU'
 sku: 'B07SWV1Z9W-it'
 tags: [  ]

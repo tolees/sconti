@@ -5,7 +5,7 @@ date: 2020-10-11 13:46:53
 image: 'https://m.media-amazon.com/images/I/416co+MttFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XUQY9GM-it Skipper - Succo Di Ananas Da Concentrato - 1000 Ml'
 sku: 'B00XUQY9GM-it'
 tags: [  ]

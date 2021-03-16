@@ -5,7 +5,7 @@ date: 2020-09-29 10:02:29
 image: 'https://m.media-amazon.com/images/I/31TM7vOviHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5B5GVY-it Roccobarocco White Eau De Parfum Donna - 100 gr'
 sku: 'B01M5B5GVY-it'
 tags: [  ]

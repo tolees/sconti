@@ -5,7 +5,7 @@ date: 2020-08-27 06:05:21
 image: 'https://m.media-amazon.com/images/I/41OMbJOYV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0183NE8JY-it Jivo Technology-Kit di parti GoGear Xtra-Spare per GoPro'
 sku: 'B0183NE8JY-it'
 tags: [  ]

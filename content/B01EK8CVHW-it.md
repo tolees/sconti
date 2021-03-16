@@ -5,7 +5,7 @@ date: 2020-09-17 00:05:37
 image: 'https://m.media-amazon.com/images/I/41DGkbWVMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EK8CVHW-it TP-Link M7350 Mobile Router Hotspot Portatile 4G LTE Cat4...'
 sku: 'B01EK8CVHW-it'
 tags: [  ]

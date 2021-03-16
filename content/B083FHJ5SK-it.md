@@ -5,7 +5,7 @@ date: 2020-09-26 09:13:05
 image: 'https://m.media-amazon.com/images/I/410Yl-zZHhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FHJ5SK-it Lacoste L1212 Polo Panorama M Uomo'
 sku: 'B083FHJ5SK-it'
 tags: [  ]

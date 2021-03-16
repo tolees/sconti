@@ -5,7 +5,7 @@ date: 2020-08-22 11:47:26
 image: 'https://m.media-amazon.com/images/I/31NszVUZu7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L41BVYC-it Havaianas Origine III Espadrillas Unisex-Adulto...'
 sku: 'B01L41BVYC-it'
 tags: [  ]

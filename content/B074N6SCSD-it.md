@@ -5,7 +5,7 @@ date: 2020-09-12 15:38:00
 image: 'https://m.media-amazon.com/images/I/41e0MuPoRhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074N6SCSD-it Clarks Batcombe Wing Scarpe Stringate Derby Uomo Nero...'
 sku: 'B074N6SCSD-it'
 tags: [  ]

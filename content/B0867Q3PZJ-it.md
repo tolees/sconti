@@ -5,7 +5,7 @@ date: 2020-10-10 12:35:34
 image: 'https://m.media-amazon.com/images/I/31-1h6Vaw1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0867Q3PZJ-it StillCool Dispenser per sapone da 700 ml con sensore...'
 sku: 'B0867Q3PZJ-it'
 tags: [  ]

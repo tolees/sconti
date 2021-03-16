@@ -5,7 +5,7 @@ date: 2020-10-03 19:14:18
 image: 'https://m.media-amazon.com/images/I/41emv50xPvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2HLPFF-it Motorola Moto Z3 Play Smartphone Android 9 Pie Display...'
 sku: 'B07D2HLPFF-it'
 tags: [  ]

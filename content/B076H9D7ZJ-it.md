@@ -5,7 +5,7 @@ date: 2020-09-28 01:29:18
 image: 'https://m.media-amazon.com/images/I/41JTBQOcLeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H9D7ZJ-it Daniel Wellington DW00100217 Orologio Analogico Quarzo...'
 sku: 'B076H9D7ZJ-it'
 tags: [  ]

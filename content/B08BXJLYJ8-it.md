@@ -5,7 +5,7 @@ date: 2020-09-16 10:05:40
 image: 'https://m.media-amazon.com/images/I/41hQ5JoIEjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BXJLYJ8-it Lysoform On the Go Gel Detergente Igienizzante Mani 100 ml'
 sku: 'B08BXJLYJ8-it'
 tags: [  ]

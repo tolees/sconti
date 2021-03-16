@@ -5,7 +5,7 @@ date: 2020-10-07 08:05:53
 image: 'https://m.media-amazon.com/images/I/414KFTZTWpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7MDKR-it Levi s Perfect Vneck T-Shirt Multicolore Annalise Stripe...'
 sku: 'B07TV7MDKR-it'
 tags: [  ]

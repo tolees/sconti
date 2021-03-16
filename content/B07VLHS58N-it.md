@@ -5,7 +5,7 @@ date: 2020-09-06 12:01:19
 image: 'https://m.media-amazon.com/images/I/41vFoyXsS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLHS58N-it Calvin Klein Racer Back One Piece Reggiseno Bikini Rosso...'
 sku: 'B07VLHS58N-it'
 tags: [  ]

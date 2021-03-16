@@ -5,7 +5,7 @@ date: 2020-09-15 13:30:55
 image: 'https://m.media-amazon.com/images/I/418h65W7IKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVDRQ52-it Maximo Exercise Mat NBR Fitness Mat - Multi Purpose - 183...'
 sku: 'B06WVDRQ52-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 00:05:34
 image: 'https://m.media-amazon.com/images/I/41gm7055HvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008CFT81M-it Zig Zag Insetticida Habitat Multinsetto Inodore Ideale per...'
 sku: 'B008CFT81M-it'
 tags: [  ]

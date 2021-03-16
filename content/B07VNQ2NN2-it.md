@@ -5,7 +5,7 @@ date: 2020-08-19 13:23:10
 image: 'https://m.media-amazon.com/images/I/41dllfHogJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNQ2NN2-it Astuccio Scuola con 3 Scomparti lunaoo Grande...'
 sku: 'B07VNQ2NN2-it'
 tags: [  ]

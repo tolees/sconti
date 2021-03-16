@@ -5,7 +5,7 @@ date: 2020-07-27 12:46:58
 image: 'https://m.media-amazon.com/images/I/51JvkCth4hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSFQLQK-it De Cecco Pasta Integrale Fusilli - 500 g'
 sku: 'B07YSFQLQK-it'
 tags: [  ]

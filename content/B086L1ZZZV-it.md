@@ -5,7 +5,7 @@ date: 2020-08-13 07:20:50
 image: 'https://m.media-amazon.com/images/I/41WXogCvVvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086L1ZZZV-it Aigostar Otto 30RYH - Macinacaffè elettrico potente lama...'
 sku: 'B086L1ZZZV-it'
 tags: [  ]

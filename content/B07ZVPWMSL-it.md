@@ -5,7 +5,7 @@ date: 2020-10-12 22:24:56
 image: 'https://m.media-amazon.com/images/I/41M4WkH2xOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVPWMSL-it Levi s Hoodie Felpa con Cappuccio Mineral Black L Uomo'
 sku: 'B07ZVPWMSL-it'
 tags: [  ]

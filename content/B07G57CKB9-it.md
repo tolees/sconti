@@ -5,7 +5,7 @@ date: 2020-10-01 17:09:16
 image: 'https://m.media-amazon.com/images/I/31YxfBUC0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G57CKB9-it Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo...'
 sku: 'B07G57CKB9-it'
 tags: [  ]

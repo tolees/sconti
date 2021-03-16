@@ -5,7 +5,7 @@ date: 2020-08-28 04:32:55
 image: 'https://m.media-amazon.com/images/I/51N8pFm4sdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F25GS9X-it UniqueMe [3 Pack] Pellicola Protettiva per Xiaomi Mi Note...'
 sku: 'B08F25GS9X-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 10:18:09
 image: 'https://m.media-amazon.com/images/I/41xr+7quJ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NRQV16-it Levi s Graphic Maglietta Bianco 84 Sportswear Logo White...'
 sku: 'B071NRQV16-it'
 tags: [  ]

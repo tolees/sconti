@@ -5,7 +5,7 @@ date: 2020-10-03 06:27:58
 image: 'https://m.media-amazon.com/images/I/31+laN0t4kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WMN4PW-it Termometro digitale a infrarossi Cloc'
 sku: 'B086WMN4PW-it'
 tags: [  ]

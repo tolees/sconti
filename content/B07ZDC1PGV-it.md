@@ -5,7 +5,7 @@ date: 2020-07-24 08:50:15
 image: 'https://m.media-amazon.com/images/I/31hEDx+JRUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZDC1PGV-it IKOHS ION CERAMIC COMPACT - Asciugacapelli portatile a...'
 sku: 'B07ZDC1PGV-it'
 tags: [  ]

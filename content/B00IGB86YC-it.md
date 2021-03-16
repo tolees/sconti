@@ -5,7 +5,7 @@ date: 2020-07-21 10:44:37
 image: 'https://m.media-amazon.com/images/I/31XxjnM4RAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IGB86YC-it Hugo Boss Boss Bottled Unlimited Eau de Toilette Spray 100 ml'
 sku: 'B00IGB86YC-it'
 tags: [  ]

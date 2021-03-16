@@ -5,7 +5,7 @@ date: 2020-09-05 16:14:06
 image: 'https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYXKHBD-it Pepe Jeans Hatch Jeans Medium Used Hb6 29 W - 32 L Uomo'
 sku: 'B07RYXKHBD-it'
 tags: [  ]

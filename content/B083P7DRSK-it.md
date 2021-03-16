@@ -5,7 +5,7 @@ date: 2020-08-26 17:44:26
 image: 'https://m.media-amazon.com/images/I/51V2rtMfkOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083P7DRSK-it MSI Optix G271 Monitor Gaming 27" Display 16:9 FHD...'
 sku: 'B083P7DRSK-it'
 tags: [  ]

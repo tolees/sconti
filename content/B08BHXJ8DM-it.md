@@ -5,7 +5,7 @@ date: 2020-08-07 23:55:45
 image: 'https://m.media-amazon.com/images/I/41w+Eft7F-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHXJ8DM-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari...'
 sku: 'B08BHXJ8DM-it'
 tags: [  ]

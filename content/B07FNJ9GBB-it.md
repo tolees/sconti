@@ -5,7 +5,7 @@ date: 2020-09-07 14:04:52
 image: 'https://m.media-amazon.com/images/I/41mLLxJ3pPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNJ9GBB-it The North Face W TBL Sport Jkt Piumino Donna Blu Urban...'
 sku: 'B07FNJ9GBB-it'
 tags: [  ]

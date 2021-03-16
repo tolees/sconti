@@ -5,7 +5,7 @@ date: 2020-09-04 15:36:44
 image: 'https://m.media-amazon.com/images/I/31-4P1x2KDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3FWKVN-it Tommy Hilfiger Dress Casual Leather Shoe Scarpe Stringate...'
 sku: 'B07L3FWKVN-it'
 tags: [  ]

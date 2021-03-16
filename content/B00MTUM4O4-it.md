@@ -5,7 +5,7 @@ date: 2020-09-18 07:20:40
 image: 'https://m.media-amazon.com/images/I/41mvnJ1MFcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MTUM4O4-it Ferrari Cedar Essence Eau de Parfum spray 100 ml'
 sku: 'B00MTUM4O4-it'
 tags: [  ]

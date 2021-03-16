@@ -5,7 +5,7 @@ date: 2020-09-18 07:13:59
 image: 'https://m.media-amazon.com/images/I/3199-HJzN9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Y03GVQ-it BLUNDSTONE Classic Stivali Unisex Nero Black Premium 45 EU'
 sku: 'B000Y03GVQ-it'
 tags: [  ]

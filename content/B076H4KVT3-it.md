@@ -5,7 +5,7 @@ date: 2020-09-19 09:08:31
 image: 'https://m.media-amazon.com/images/I/51OGQ2tZfXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H4KVT3-it Cintura Uomo Per Abiti Casual e Abiti 100% Pelle Vera Type...'
 sku: 'B076H4KVT3-it'
 tags: [  ]

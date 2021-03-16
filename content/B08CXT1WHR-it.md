@@ -5,7 +5,7 @@ date: 2020-08-24 22:55:05
 image: 'https://m.media-amazon.com/images/I/515TszzLZVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXT1WHR-it LK Custodia per Xiaomi Redmi 9 Morbida Silicone TPU...'
 sku: 'B08CXT1WHR-it'
 tags: [  ]

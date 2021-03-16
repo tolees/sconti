@@ -5,7 +5,7 @@ date: 2020-09-24 07:53:50
 image: 'https://m.media-amazon.com/images/I/310I3K410WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6B91VQ-it Roero Arneis DOCG Sabaudo 2019 0 75 L'
 sku: 'B08D6B91VQ-it'
 tags: [  ]

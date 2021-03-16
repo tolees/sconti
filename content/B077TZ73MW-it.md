@@ -5,7 +5,7 @@ date: 2020-10-04 22:38:16
 image: 'https://m.media-amazon.com/images/I/41oHDPC2T5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TZ73MW-it Kipling City Pack S - Zaini Donna Nero True Black...'
 sku: 'B077TZ73MW-it'
 tags: [  ]

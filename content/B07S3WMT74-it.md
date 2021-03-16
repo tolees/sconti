@@ -5,7 +5,7 @@ date: 2020-07-20 19:08:54
 image: 'https://m.media-amazon.com/images/I/418556TOzzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3WMT74-it Levi s LS Baby Tee Maglia a Maniche Lunghe Multicolore...'
 sku: 'B07S3WMT74-it'
 tags: [  ]

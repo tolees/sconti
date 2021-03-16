@@ -5,7 +5,7 @@ date: 2020-08-02 07:15:10
 image: 'https://m.media-amazon.com/images/I/31eybdXmXbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SZ1LHJ-it Melchioni Family Melchioni Baretto Plus Mini frigo Bar...'
 sku: 'B089SZ1LHJ-it'
 tags: [  ]

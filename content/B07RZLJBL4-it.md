@@ -5,7 +5,7 @@ date: 2020-09-25 08:58:52
 image: 'https://m.media-amazon.com/images/I/51YIqiwqqtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLJBL4-it Levi s Type 3 Giacca in Jeans Blu Firework Sherpa Trucker...'
 sku: 'B07RZLJBL4-it'
 tags: [  ]

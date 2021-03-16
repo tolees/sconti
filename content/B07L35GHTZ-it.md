@@ -5,7 +5,7 @@ date: 2020-09-24 08:00:40
 image: 'https://m.media-amazon.com/images/I/41xGm43j0pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L35GHTZ-it Eastpak Oval Zippl r Astuccio 22 cm Grigio Sunday Grey'
 sku: 'B07L35GHTZ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 09:53:11
 image: 'https://m.media-amazon.com/images/I/41ODjMF-28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8JT6FT-it rabbitgoo Pettorina Cane Taglia Grande Regolabile No-Pull...'
 sku: 'B01M8JT6FT-it'
 tags: [  ]

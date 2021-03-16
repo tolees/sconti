@@ -5,7 +5,7 @@ date: 2020-09-16 16:40:28
 image: 'https://m.media-amazon.com/images/I/51DzgBzRhAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZWLKUZ2-it Disney Infinity 3.0: EU Han Solo Figurina'
 sku: 'B00ZWLKUZ2-it'
 tags: [  ]

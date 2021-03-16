@@ -5,7 +5,7 @@ date: 2020-10-07 13:53:48
 image: 'https://m.media-amazon.com/images/I/51l+vcVHLkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9PSJGV-it Fitbit Versa Edizione Speciale con Rilevazione del Battito...'
 sku: 'B07B9PSJGV-it'
 tags: [  ]

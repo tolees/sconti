@@ -5,7 +5,7 @@ date: 2020-08-29 08:14:32
 image: 'https://m.media-amazon.com/images/I/41kVoONHRgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCZW915-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Unisex-Adulto...'
 sku: 'B07SCZW915-it'
 tags: [  ]

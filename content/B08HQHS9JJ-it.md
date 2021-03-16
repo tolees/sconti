@@ -5,7 +5,7 @@ date: 2020-10-01 14:12:05
 image: 'https://m.media-amazon.com/images/I/31IovzseMbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HQHS9JJ-it Cuffie Bluetooth 5.0 3D Stereo Cuffie Auricolare Senza...'
 sku: 'B08HQHS9JJ-it'
 tags: [  ]

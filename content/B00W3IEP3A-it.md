@@ -5,7 +5,7 @@ date: 2020-08-24 09:18:16
 image: 'https://m.media-amazon.com/images/I/51CqNrv-iDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W3IEP3A-it Fairy Additivo Cura Lavastoviglie Maxi Formato 7...'
 sku: 'B00W3IEP3A-it'
 tags: [  ]

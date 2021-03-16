@@ -5,7 +5,7 @@ date: 2020-10-07 08:48:30
 image: 'https://m.media-amazon.com/images/I/51fPXojSlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MPQ7Y2E-it LEITZ Borsa Messenger 15 6 - Smart Traveller - Nero -...'
 sku: 'B00MPQ7Y2E-it'
 tags: [  ]

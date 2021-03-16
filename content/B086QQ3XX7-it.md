@@ -5,7 +5,7 @@ date: 2020-08-18 07:07:20
 image: 'https://m.media-amazon.com/images/I/41fsucXkLEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QQ3XX7-it Ashleymade Anello Personalizzato Figlie Madre Anelli in...'
 sku: 'B086QQ3XX7-it'
 tags: [  ]

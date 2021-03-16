@@ -5,7 +5,7 @@ date: 2020-09-03 16:06:18
 image: 'https://m.media-amazon.com/images/I/41OSij5uaEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BHDHR5-it LG 34WN750 Monitor 34" QuadHD UltraWide 21:9 LED IPS HDR...'
 sku: 'B086BHDHR5-it'
 tags: [  ]

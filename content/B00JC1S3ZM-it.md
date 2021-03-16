@@ -5,7 +5,7 @@ date: 2020-08-09 05:29:18
 image: 'https://m.media-amazon.com/images/I/51MvK7hBOBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JC1S3ZM-it Apli Kids 13067 Trapano Fantasia Fiore Verde 16 mm x 13067'
 sku: 'B00JC1S3ZM-it'
 tags: [  ]

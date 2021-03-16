@@ -5,7 +5,7 @@ date: 2020-09-29 09:04:18
 image: 'https://m.media-amazon.com/images/I/41BWAAQt+bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055R2CKO-it Sodastream 1047200490 Caraffe in vetro per gasatore d...'
 sku: 'B0055R2CKO-it'
 tags: [  ]

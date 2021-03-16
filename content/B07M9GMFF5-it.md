@@ -5,7 +5,7 @@ date: 2020-09-23 11:51:32
 image: 'https://m.media-amazon.com/images/I/412S1JlFoQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9GMFF5-it Spigen SteadiBoost Caricatore Wireless Veloce 15W Qi...'
 sku: 'B07M9GMFF5-it'
 tags: [  ]

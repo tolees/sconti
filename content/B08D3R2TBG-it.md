@@ -5,7 +5,7 @@ date: 2020-10-07 19:19:43
 image: 'https://m.media-amazon.com/images/I/41qWyagDmdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3R2TBG-it Scrambler Ducati Monopattino elettrico Cross-E nero e...'
 sku: 'B08D3R2TBG-it'
 tags: [  ]

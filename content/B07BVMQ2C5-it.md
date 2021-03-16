@@ -5,7 +5,7 @@ date: 2020-08-20 15:22:28
 image: 'https://m.media-amazon.com/images/I/51KRpcHnUUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVMQ2C5-it Frontline | TriAct Spot On Cani| Protezione da pulci...'
 sku: 'B07BVMQ2C5-it'
 tags: [  ]

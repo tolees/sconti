@@ -5,7 +5,7 @@ date: 2020-08-24 13:21:10
 image: 'https://m.media-amazon.com/images/I/41isho77bPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNN78NL-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini Rosa Pink...'
 sku: 'B07VNN78NL-it'
 tags: [  ]

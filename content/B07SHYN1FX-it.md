@@ -5,7 +5,7 @@ date: 2020-08-17 14:40:55
 image: 'https://m.media-amazon.com/images/I/31lBfuXIEYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHYN1FX-it Levi s Pillsbury Sneaker Uomo Bianco Regular White 51 42 EU'
 sku: 'B07SHYN1FX-it'
 tags: [  ]

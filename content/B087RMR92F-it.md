@@ -5,7 +5,7 @@ date: 2020-09-26 19:26:55
 image: 'https://m.media-amazon.com/images/I/51KES7K5QAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RMR92F-it Akokie Giocattoli Puzzle di Animali in Legno Giochi...'
 sku: 'B087RMR92F-it'
 tags: [  ]

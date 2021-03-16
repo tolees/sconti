@@ -5,7 +5,7 @@ date: 2020-08-23 16:53:38
 image: 'https://m.media-amazon.com/images/I/31ztLd-T+ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNXRK23-it [FORZA ITALIA] HolyHigh Auricolari Cuffie Sportive Senza...'
 sku: 'B07ZNXRK23-it'
 tags: [  ]

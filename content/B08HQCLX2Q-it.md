@@ -5,7 +5,7 @@ date: 2020-09-23 18:51:54
 image: 'https://m.media-amazon.com/images/I/31PN-7fHbYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HQCLX2Q-it eXtremeRate Soft Grip Cover Copertura Frontale Joystick...'
 sku: 'B08HQCLX2Q-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 20:30:47
 image: 'https://m.media-amazon.com/images/I/51cWLlJHi5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNJNRQ5-it Tomb Raider 4K+Br'
 sku: 'B07BNJNRQ5-it'
 tags: [  ]

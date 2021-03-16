@@ -5,7 +5,7 @@ date: 2020-09-28 09:51:07
 image: 'https://m.media-amazon.com/images/I/41iEVypmerL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009RUMT76-it Pampero Especial Rum L 1'
 sku: 'B009RUMT76-it'
 tags: [  ]

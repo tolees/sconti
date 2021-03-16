@@ -5,7 +5,7 @@ date: 2020-09-28 13:17:06
 image: 'https://m.media-amazon.com/images/I/41C8GLGq9nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0764FT1HY-it Neato Robotics D7 Robot Aspirapolvere Intelligente...'
 sku: 'B0764FT1HY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 16:18:48
 image: 'https://m.media-amazon.com/images/I/31LLdmP08DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3Q8DH3-it Superdry Classic Trunk Triple Pack Boxer Arancione Orange...'
 sku: 'B07V3Q8DH3-it'
 tags: [  ]

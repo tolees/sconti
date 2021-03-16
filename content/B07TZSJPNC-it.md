@@ -5,7 +5,7 @@ date: 2020-10-06 12:14:05
 image: 'https://m.media-amazon.com/images/I/31BZa65uABL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZSJPNC-it Vimar RI.00316.B Adattatore elettrico multiplo verticale 3...'
 sku: 'B07TZSJPNC-it'
 tags: [  ]

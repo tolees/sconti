@@ -5,7 +5,7 @@ date: 2020-08-05 22:22:49
 image: 'https://m.media-amazon.com/images/I/41v+k85is2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1RGKLN-it OnNuvo Materasso New Gel Memory Foam Alta Densità 60-65...'
 sku: 'B07Y1RGKLN-it'
 tags: [  ]

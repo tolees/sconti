@@ -5,7 +5,7 @@ date: 2020-08-09 10:54:42
 image: 'https://m.media-amazon.com/images/I/311rtBDiA9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRPDQPB-it Bica 9017.4 Set Salottino Colorado 4 Posti 119x64x57 cm...'
 sku: 'B06XRPDQPB-it'
 tags: [  ]

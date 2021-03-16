@@ -5,7 +5,7 @@ date: 2020-08-28 06:23:19
 image: 'https://m.media-amazon.com/images/I/514dnslHq-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLI7MFM-it Orologio da uomo Tommy Hilfiger 1791309.'
 sku: 'B01JLI7MFM-it'
 tags: [  ]

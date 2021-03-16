@@ -5,7 +5,7 @@ date: 2020-08-28 07:08:27
 image: 'https://m.media-amazon.com/images/I/319rxhNyc9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBFZN4P-it Vans Ward Canvas Sneaker Unisex – Bambini Multicolore Otw...'
 sku: 'B07VBFZN4P-it'
 tags: [  ]

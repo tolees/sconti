@@ -5,7 +5,7 @@ date: 2020-07-23 15:00:59
 image: 'https://m.media-amazon.com/images/I/41d3f-9fPxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCMXKZG-it TACKLIFE Tagliabordi 350W Tagliabordi Elettrico 25 cm...'
 sku: 'B07YCMXKZG-it'
 tags: [  ]

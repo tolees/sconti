@@ -5,7 +5,7 @@ date: 2020-09-03 07:41:15
 image: 'https://m.media-amazon.com/images/I/41Wmpa9AN3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D4YG5I4-it Science in Sport SiS Rego Rapid Recovery Polvere Proteica 1kg'
 sku: 'B01D4YG5I4-it'
 tags: [  ]

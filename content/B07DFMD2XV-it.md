@@ -5,7 +5,7 @@ date: 2020-09-08 05:56:18
 image: 'https://m.media-amazon.com/images/I/41V3Z6zf5FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFMD2XV-it Guess Vikky Slg Large Zip Around Portamonete Donna Nero...'
 sku: 'B07DFMD2XV-it'
 tags: [  ]

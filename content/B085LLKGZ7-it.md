@@ -5,7 +5,7 @@ date: 2020-07-24 09:18:09
 image: 'https://m.media-amazon.com/images/I/31Zxjk4O1SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LLKGZ7-it MKTOSASA - Zaino in nylon resistente 600D con chiusura...'
 sku: 'B085LLKGZ7-it'
 tags: [  ]

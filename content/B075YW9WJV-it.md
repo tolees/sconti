@@ -5,7 +5,7 @@ date: 2020-08-11 11:41:14
 image: 'https://m.media-amazon.com/images/I/41xX8W8pTRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YW9WJV-it Sloggi Zero Feel Bralette Corsetto Nero Black 04 M Donna'
 sku: 'B075YW9WJV-it'
 tags: [  ]

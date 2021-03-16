@@ -5,7 +5,7 @@ date: 2020-09-28 06:33:27
 image: 'https://m.media-amazon.com/images/I/31FEIOWoC5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000ATAD5-it D-Link DUB-E100 Adattatore di Rete con Porta USB 2.0 e...'
 sku: 'B0000ATAD5-it'
 tags: [  ]

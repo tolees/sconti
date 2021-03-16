@@ -5,7 +5,7 @@ date: 2020-09-26 09:52:58
 image: 'https://m.media-amazon.com/images/I/31CzzrxvFZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRK2W5Q-it Geox U Kennet B Scarpe da Ginnastica Basse Uomo Grigio Lt...'
 sku: 'B07SRK2W5Q-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 19:19:14
 image: 'https://m.media-amazon.com/images/I/417JCcFqtvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073PYY3T4-it Timberland Allington 6 inch Lace Up Stivali Donna Giallo...'
 sku: 'B073PYY3T4-it'
 tags: [  ]

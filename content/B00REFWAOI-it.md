@@ -5,7 +5,7 @@ date: 2020-09-01 09:34:21
 image: 'https://m.media-amazon.com/images/I/41uVy5qTHkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00REFWAOI-it Reebok Classic Leather Scarpe da Ginnastica Uomo Nero 42 EU'
 sku: 'B00REFWAOI-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 07:41:55
 image: 'https://m.media-amazon.com/images/I/418EGxfzKZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DBR2S3A-it Clementoni- Banchetto Svita Avvita Gioco per Bambini...'
 sku: 'B01DBR2S3A-it'
 tags: [  ]

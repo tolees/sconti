@@ -5,7 +5,7 @@ date: 2020-09-18 13:50:47
 image: 'https://m.media-amazon.com/images/I/41ooomWylWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WP37GQZ-it LE Lampada Frontale LED da Testa 2 Pezzi Torcia Frontale...'
 sku: 'B07WP37GQZ-it'
 tags: [  ]

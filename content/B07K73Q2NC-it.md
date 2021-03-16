@@ -5,7 +5,7 @@ date: 2020-07-29 09:49:29
 image: 'https://m.media-amazon.com/images/I/41vbnBZswKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K73Q2NC-it Levi s Tank Top Canottiera Sportiva Bianco White + 0000...'
 sku: 'B07K73Q2NC-it'
 tags: [  ]

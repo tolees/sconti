@@ -5,7 +5,7 @@ date: 2020-09-29 22:57:29
 image: 'https://m.media-amazon.com/images/I/41gcejGY7ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F231RGC-it Timberland Classic 2 Eye Scarpe da Barca Uomo Marrone...'
 sku: 'B07F231RGC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 23:43:18
 image: 'https://m.media-amazon.com/images/I/51R1SZvHESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWP8H1R-it flintronic® Sacchetti di Frutta e Verdura Borse per...'
 sku: 'B07VWP8H1R-it'
 tags: [  ]

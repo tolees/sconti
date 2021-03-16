@@ -5,7 +5,7 @@ date: 2020-09-24 16:31:11
 image: 'https://m.media-amazon.com/images/I/51W8o+BQwBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDL1ZQ4-it Spazzolino Elettrici Sonic con 6 Modalità Opzionali 3...'
 sku: 'B07QDL1ZQ4-it'
 tags: [  ]

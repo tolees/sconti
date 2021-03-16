@@ -5,7 +5,7 @@ date: 2020-09-06 10:26:42
 image: 'https://m.media-amazon.com/images/I/31T+YKi7ioL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFM444Y-it Clarks Tri Solar Scarpe da Ginnastica Basse Uomo Nero...'
 sku: 'B07MFM444Y-it'
 tags: [  ]

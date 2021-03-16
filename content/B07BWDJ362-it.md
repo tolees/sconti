@@ -5,7 +5,7 @@ date: 2020-07-23 10:51:12
 image: 'https://m.media-amazon.com/images/I/51ZGNWZImBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BWDJ362-it Mini manuale tritatutto 520 ml verdure cipolla chopper con...'
 sku: 'B07BWDJ362-it'
 tags: [  ]

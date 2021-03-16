@@ -5,7 +5,7 @@ date: 2020-09-15 11:05:40
 image: 'https://m.media-amazon.com/images/I/41oRDw8HMqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WKHGS4-it Lenor Ammorbidente Oro & Fiori di Vaniglia Maxi Formato da...'
 sku: 'B071WKHGS4-it'
 tags: [  ]

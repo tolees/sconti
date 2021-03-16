@@ -5,7 +5,7 @@ date: 2020-08-26 15:07:03
 image: 'https://m.media-amazon.com/images/I/411Yzgx2gWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4HWC77-it Tommy Hilfiger Shoulder GS Insert Slim Polo Maglietta Blu...'
 sku: 'B07W4HWC77-it'
 tags: [  ]

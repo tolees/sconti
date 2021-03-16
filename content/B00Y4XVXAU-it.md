@@ -5,7 +5,7 @@ date: 2020-09-22 11:18:18
 image: 'https://m.media-amazon.com/images/I/31QVyTrKnGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y4XVXAU-it Lacoste PH4012 T-shirt Polo Uomo Bianco Blanc Medium...'
 sku: 'B00Y4XVXAU-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 08:46:11
 image: 'https://m.media-amazon.com/images/I/41nw2bO6-CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STTRMSW-it Lysoform Casa Pavimenti - 1250 Ml Classico'
 sku: 'B07STTRMSW-it'
 tags: [  ]

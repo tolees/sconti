@@ -5,7 +5,7 @@ date: 2020-08-11 17:47:19
 image: 'https://m.media-amazon.com/images/I/41a1uDQkQ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DYDB2VG-it Auricolare Bluetooth Senza Fili Cuffie Wireless Stereo 3D...'
 sku: 'B08DYDB2VG-it'
 tags: [  ]

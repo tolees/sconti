@@ -5,7 +5,7 @@ date: 2020-10-08 06:37:47
 image: 'https://m.media-amazon.com/images/I/41xlZ+DojvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGCWSKQ-it Pulitore ad Ultrasuoni TACKLIFE MUC02 Lavatrice ad...'
 sku: 'B07HGCWSKQ-it'
 tags: [  ]

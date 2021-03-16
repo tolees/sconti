@@ -5,7 +5,7 @@ date: 2020-08-26 15:10:53
 image: 'https://m.media-amazon.com/images/I/41wOaIPK5LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NZYDDM-it Cudy AX3000 WiFi 6 Adattatore PCIe Bluetooth 5.0 PCIe Card...'
 sku: 'B082NZYDDM-it'
 tags: [  ]

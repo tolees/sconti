@@ -5,7 +5,7 @@ date: 2020-10-12 08:15:17
 image: 'https://m.media-amazon.com/images/I/41rT38HJkcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVHTNK9-it Palmolive Sapone Liquido Latte e Miele Erogatore - Pacco...'
 sku: 'B06WVHTNK9-it'
 tags: [  ]

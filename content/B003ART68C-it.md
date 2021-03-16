@@ -5,7 +5,7 @@ date: 2020-08-31 04:15:20
 image: 'https://m.media-amazon.com/images/I/41quod7-LCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ART68C-it Birkenstock Gizeh Birko-Flor Sandali Unisex - Adulto Nero...'
 sku: 'B003ART68C-it'
 tags: [  ]

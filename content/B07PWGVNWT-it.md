@@ -5,7 +5,7 @@ date: 2020-09-16 06:26:40
 image: 'https://m.media-amazon.com/images/I/51jIuxKfbcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWGVNWT-it DYNASONIC 025 Cassa Bluetooth Altoparlante con Karaoke 10W...'
 sku: 'B07PWGVNWT-it'
 tags: [  ]

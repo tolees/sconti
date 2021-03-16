@@ -5,7 +5,7 @@ date: 2020-09-29 06:19:13
 image: 'https://m.media-amazon.com/images/I/51DfJ6wm1XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H5W4MKZ-it SUN CITY Grembiule Bing Bambina Bambino da 2 a 6 Anni 6...'
 sku: 'B08H5W4MKZ-it'
 tags: [  ]

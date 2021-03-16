@@ -5,7 +5,7 @@ date: 2020-09-15 10:12:08
 image: 'https://m.media-amazon.com/images/I/4189++zenKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013BTPZ6K-it Hauck Duett 2 Passeggino Doppio - Fratelli Età Diversa...'
 sku: 'B013BTPZ6K-it'
 tags: [  ]

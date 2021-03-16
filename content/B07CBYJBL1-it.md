@@ -5,7 +5,7 @@ date: 2020-10-02 21:22:33
 image: 'https://m.media-amazon.com/images/I/31uYc7bBVuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBYJBL1-it Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato...'
 sku: 'B07CBYJBL1-it'
 tags: [  ]

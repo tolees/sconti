@@ -5,7 +5,7 @@ date: 2020-08-16 09:14:24
 image: 'https://m.media-amazon.com/images/I/513xxCT64RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074MK8ZWJ-it Havaianas Slim Brasil Logo Infradito Donna Nero 39/40 EU'
 sku: 'B074MK8ZWJ-it'
 tags: [  ]

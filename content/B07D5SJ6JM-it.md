@@ -5,7 +5,7 @@ date: 2020-10-12 11:37:30
 image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5SJ6JM-it PUMA Essentials Logo Pantaloni Compressione Donna Nero...'
 sku: 'B07D5SJ6JM-it'
 tags: [  ]

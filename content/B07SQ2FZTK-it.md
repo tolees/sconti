@@ -5,7 +5,7 @@ date: 2020-10-03 10:44:01
 image: 'https://m.media-amazon.com/images/I/31LXIcpOrNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ2FZTK-it Philips Lighting Hue Go White and Color Ambiance Lampada...'
 sku: 'B07SQ2FZTK-it'
 tags: [  ]

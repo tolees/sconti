@@ -5,7 +5,7 @@ date: 2020-08-02 04:55:38
 image: 'https://m.media-amazon.com/images/I/31Zw6XWm2bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GBULIIG-it Netgear GS116E Switch Smart Managed Plus a 16 Porte...'
 sku: 'B00GBULIIG-it'
 tags: [  ]

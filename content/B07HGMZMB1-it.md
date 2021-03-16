@@ -5,7 +5,7 @@ date: 2020-09-09 07:53:05
 image: 'https://m.media-amazon.com/images/I/41PH1LIulVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGMZMB1-it Aigostar Lora 33LNK - Asciugacapelli ionico da 2400 W con...'
 sku: 'B07HGMZMB1-it'
 tags: [  ]

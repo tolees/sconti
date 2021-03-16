@@ -5,7 +5,7 @@ date: 2020-07-23 09:06:41
 image: 'https://m.media-amazon.com/images/I/41Prul88fGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBDQ1W1-it Pulsar Orologio Cronografo Quarzo Donna con Cinturino in...'
 sku: 'B07GBDQ1W1-it'
 tags: [  ]

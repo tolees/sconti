@@ -5,7 +5,7 @@ date: 2020-10-04 09:00:40
 image: 'https://m.media-amazon.com/images/I/41Ea64a7uPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLJ6M95-it Tina @ Wii Nunchuck Controller 2 confezioni di ricambio...'
 sku: 'B08HLJ6M95-it'
 tags: [  ]

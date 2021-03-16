@@ -5,7 +5,7 @@ date: 2020-08-06 11:49:45
 image: 'https://m.media-amazon.com/images/I/41tnmepwZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFFC18T-it 4G Tablet 10 Pollici con Wifi Offerte Android 9.0...'
 sku: 'B08DFFC18T-it'
 tags: [  ]

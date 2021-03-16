@@ -5,7 +5,7 @@ date: 2020-08-23 12:03:15
 image: 'https://m.media-amazon.com/images/I/31J2IleEK7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLZKL9Q-it Havaianas Twist Sandali con Chiusura a T Donna Beige Sand...'
 sku: 'B07SLZKL9Q-it'
 tags: [  ]

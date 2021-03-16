@@ -5,7 +5,7 @@ date: 2020-08-28 08:00:45
 image: 'https://m.media-amazon.com/images/I/51mUArTDWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BL57DFP-it Striscia LED RGB 5M 8 Colori 18 Modalità Più Colori...'
 sku: 'B08BL57DFP-it'
 tags: [  ]

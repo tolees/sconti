@@ -5,7 +5,7 @@ date: 2020-10-11 23:27:07
 image: 'https://m.media-amazon.com/images/I/312lAlq7qML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KN4FMQ-it Pentel BL77 EnerGel XM scatto 0 7 mm nero 12 pezzi'
 sku: 'B000KN4FMQ-it'
 tags: [  ]

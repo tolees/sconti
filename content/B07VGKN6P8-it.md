@@ -5,7 +5,7 @@ date: 2020-08-19 12:21:01
 image: 'https://m.media-amazon.com/images/I/41L1hOd4YvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGKN6P8-it NAPAPIJRI Elli Polo Blu Medieval Blue Bb61 Large Uomo'
 sku: 'B07VGKN6P8-it'
 tags: [  ]

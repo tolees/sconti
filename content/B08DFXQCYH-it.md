@@ -5,7 +5,7 @@ date: 2020-09-13 02:00:20
 image: 'https://m.media-amazon.com/images/I/41dqohEtHOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFXQCYH-it IWAVION Caricatore USB C da Muro con Cavo USB Type C 2M...'
 sku: 'B08DFXQCYH-it'
 tags: [  ]

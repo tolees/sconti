@@ -5,7 +5,7 @@ date: 2020-09-17 16:31:37
 image: 'https://m.media-amazon.com/images/I/51p3+N1OQ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RP5RCM-it Merax - Sedia girevole da ufficio in similpelle regolabile...'
 sku: 'B087RP5RCM-it'
 tags: [  ]

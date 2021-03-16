@@ -5,7 +5,7 @@ date: 2020-08-14 08:28:57
 image: 'https://m.media-amazon.com/images/I/41iLUI3YhLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IQ3Q73M-it Campingaz 4 Series Woody L Grill con 4 Bruciatore 12.8 kW...'
 sku: 'B00IQ3Q73M-it'
 tags: [  ]

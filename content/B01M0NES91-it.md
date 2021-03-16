@@ -5,7 +5,7 @@ date: 2020-09-15 09:04:41
 image: 'https://m.media-amazon.com/images/I/31N1j9wJjnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0NES91-it Parker 1931664 IM Penna Roller Punta Fine e Ricarica di...'
 sku: 'B01M0NES91-it'
 tags: [  ]

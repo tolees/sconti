@@ -5,7 +5,7 @@ date: 2020-09-07 10:49:34
 image: 'https://m.media-amazon.com/images/I/41CGOF+FpiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YPDPT3-it Vileda Mixer 4 Stendibiancheria a Torre Ripiegabile con...'
 sku: 'B071YPDPT3-it'
 tags: [  ]

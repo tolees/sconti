@@ -5,7 +5,7 @@ date: 2020-08-29 17:27:30
 image: 'https://m.media-amazon.com/images/I/512n7e2M8RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKNMXX6-it Havaianas Slim Animals Infradito Donna Multicolore...'
 sku: 'B07TKNMXX6-it'
 tags: [  ]

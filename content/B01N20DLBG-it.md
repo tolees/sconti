@@ -5,7 +5,7 @@ date: 2020-09-01 14:26:09
 image: 'https://m.media-amazon.com/images/I/41aFxqugXdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N20DLBG-it Canon IXUS 190 Fotocamera Digitale Compatta 20 MP 1/2.3"...'
 sku: 'B01N20DLBG-it'
 tags: [  ]

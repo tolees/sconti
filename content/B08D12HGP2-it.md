@@ -5,7 +5,7 @@ date: 2020-09-20 16:50:04
 image: 'https://m.media-amazon.com/images/I/31krEY-ivzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D12HGP2-it Fitness Tracker + Smart Watch Vincitore 2020 | Contatore...'
 sku: 'B08D12HGP2-it'
 tags: [  ]

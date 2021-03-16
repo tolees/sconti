@@ -5,7 +5,7 @@ date: 2020-08-11 16:45:13
 image: 'https://m.media-amazon.com/images/I/41P7nV9YP9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKPTWCH-it Levi s 502 Regular Taper Jeans Blu Stonewash 34W / 36L Uomo'
 sku: 'B07GKPTWCH-it'
 tags: [  ]

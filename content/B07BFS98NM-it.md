@@ -5,7 +5,7 @@ date: 2020-08-26 11:28:41
 image: 'https://m.media-amazon.com/images/I/31g7g6nlONL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFS98NM-it AUKEY Caricatore Wireless in Grafite - Caricabatterie...'
 sku: 'B07BFS98NM-it'
 tags: [  ]

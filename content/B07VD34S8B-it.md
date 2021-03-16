@@ -5,7 +5,7 @@ date: 2020-10-05 14:17:06
 image: 'https://m.media-amazon.com/images/I/41KYqwjkDCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD34S8B-it Calvin Klein Ckj Uniform Workman Belt 35mm Cintura Marrone...'
 sku: 'B07VD34S8B-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 05:42:42
 image: 'https://m.media-amazon.com/images/I/31gx-jcmUFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813XL4XS-it adidas Lite Racer 2.0 Scarpe da Corsa Uomo Multicolore...'
 sku: 'B0813XL4XS-it'
 tags: [  ]

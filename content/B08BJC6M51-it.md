@@ -5,7 +5,7 @@ date: 2020-10-05 05:53:33
 image: 'https://m.media-amazon.com/images/I/41iqK+d0MxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJC6M51-it Ossimetro/pulsossimetro di precisione'
 sku: 'B08BJC6M51-it'
 tags: [  ]

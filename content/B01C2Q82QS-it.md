@@ -5,7 +5,7 @@ date: 2020-10-06 21:37:38
 image: 'https://m.media-amazon.com/images/I/415m6QNXadL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C2Q82QS-it Vimar 0P32352.B Cavo Prolunga Estensibile 3G0.75 5 m Bianco'
 sku: 'B01C2Q82QS-it'
 tags: [  ]

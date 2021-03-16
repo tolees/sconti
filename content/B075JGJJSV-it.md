@@ -5,7 +5,7 @@ date: 2020-08-08 08:12:54
 image: 'https://m.media-amazon.com/images/I/41TxxQPVW6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JGJJSV-it Philips Sonicare HX9903/13 DiamondClean Smart Spazzolino...'
 sku: 'B075JGJJSV-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 17:51:15
 image: 'https://m.media-amazon.com/images/I/41Egz42sqsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC4WGP1-it Calvin Klein Instit Chest Logo Reg Tee T-Shirt Rosso Fiery...'
 sku: 'B07VC4WGP1-it'
 tags: [  ]

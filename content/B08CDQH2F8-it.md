@@ -5,7 +5,7 @@ date: 2020-08-02 16:56:32
 image: 'https://m.media-amazon.com/images/I/41ECABb6Z8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDQH2F8-it Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per PC Mac...'
 sku: 'B08CDQH2F8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 10:34:56
 image: 'https://m.media-amazon.com/images/I/31fNn1nMsUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AIHY66I-it UGG Female Classic Short II Classic Boot Black 5 UK'
 sku: 'B01AIHY66I-it'
 tags: [  ]

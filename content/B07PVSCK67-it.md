@@ -5,7 +5,7 @@ date: 2020-08-11 19:12:42
 image: 'https://m.media-amazon.com/images/I/31JXUMxEaML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVSCK67-it INPHIC Tappetino per Mouse Gaming Keyboard Mouse Pad da...'
 sku: 'B07PVSCK67-it'
 tags: [  ]

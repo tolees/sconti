@@ -5,7 +5,7 @@ date: 2020-08-15 05:35:42
 image: 'https://m.media-amazon.com/images/I/41ukwSSmHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNXDV12-it RIIMUHIR Tempered Glass Screen Protector for Xiaomi Mi...'
 sku: 'B08DNXDV12-it'
 tags: [  ]

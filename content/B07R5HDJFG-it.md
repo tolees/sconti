@@ -5,7 +5,7 @@ date: 2020-08-12 17:45:45
 image: 'https://m.media-amazon.com/images/I/41vOUckr-tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5HDJFG-it VAVA Hub USB C 8 in 1 Hub Type C Adattatore con HDMI 4K...'
 sku: 'B07R5HDJFG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 16:51:00
 image: 'https://m.media-amazon.com/images/I/41PVfusxnUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086DR9XCL-it Mcafee Mobile Security With Vpn 1 Dispositivo 1 Anno...'
 sku: 'B086DR9XCL-it'
 tags: [  ]

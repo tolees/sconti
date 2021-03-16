@@ -5,7 +5,7 @@ date: 2020-09-23 14:12:51
 image: 'https://m.media-amazon.com/images/I/31fFHO50keL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VLG99N-it Bialetti Fiammetta Bialetti Moka Fiammetta Caffettiera 1...'
 sku: 'B072VLG99N-it'
 tags: [  ]

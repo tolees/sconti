@@ -5,7 +5,7 @@ date: 2020-09-29 09:03:26
 image: 'https://m.media-amazon.com/images/I/41yBhQ6RwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004TTTOLO-it Design Toscano WU67877 Statua Anubi Dio del Regno Egiziano...'
 sku: 'B004TTTOLO-it'
 tags: [  ]

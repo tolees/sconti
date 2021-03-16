@@ -5,7 +5,7 @@ date: 2020-09-22 20:29:30
 image: 'https://m.media-amazon.com/images/I/51AtWixTV9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXTFTPN-it Ready Player One 4K+Br'
 sku: 'B07BXTFTPN-it'
 tags: [  ]

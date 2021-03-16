@@ -5,7 +5,7 @@ date: 2020-09-15 06:52:02
 image: 'https://m.media-amazon.com/images/I/41NX+3eyMQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085C4D3DS-it Aigostar Baron – Frullatore portatile 2 in 1 per frutta e...'
 sku: 'B085C4D3DS-it'
 tags: [  ]

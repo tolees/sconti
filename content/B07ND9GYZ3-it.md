@@ -5,7 +5,7 @@ date: 2020-08-16 22:34:23
 image: 'https://m.media-amazon.com/images/I/51oc2sgDhTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND9GYZ3-it LEGO - Hidden Side Mistero nel Cimitero Set di Costruzione...'
 sku: 'B07ND9GYZ3-it'
 tags: [  ]

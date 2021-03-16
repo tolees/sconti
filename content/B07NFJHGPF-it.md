@@ -5,7 +5,7 @@ date: 2020-09-01 07:46:29
 image: 'https://m.media-amazon.com/images/I/51ZmI3+7b5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFJHGPF-it Vigorsol Air Action Gomme da Masticare Senza Zucchero...'
 sku: 'B07NFJHGPF-it'
 tags: [  ]

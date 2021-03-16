@@ -5,7 +5,7 @@ date: 2020-10-07 13:02:59
 image: 'https://m.media-amazon.com/images/I/51137uzMCNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VT4G8BD-it Kanzy Tea Tree Oil 60ml Olio di Albero Del Tè per Viso...'
 sku: 'B06VT4G8BD-it'
 tags: [  ]

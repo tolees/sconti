@@ -5,7 +5,7 @@ date: 2020-09-24 01:10:43
 image: 'https://m.media-amazon.com/images/I/41svulRR7HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GWVLPXW-it Aerku Fotocamera Posteriore Pellicola Vetro Temperato per...'
 sku: 'B08GWVLPXW-it'
 tags: [  ]

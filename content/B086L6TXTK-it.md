@@ -5,7 +5,7 @@ date: 2020-09-23 11:31:33
 image: 'https://m.media-amazon.com/images/I/41cT5i445SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086L6TXTK-it Pringles Pringles Original - 175 g'
 sku: 'B086L6TXTK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 09:33:25
 image: 'https://m.media-amazon.com/images/I/41jpBteEkBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZM8BJR-it Levi s Housemark Graphic Tee T-Shirt Nero Ssnl HM Forge...'
 sku: 'B07RZM8BJR-it'
 tags: [  ]

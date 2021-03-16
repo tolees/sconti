@@ -5,7 +5,7 @@ date: 2020-08-26 21:37:22
 image: 'https://m.media-amazon.com/images/I/51HurAa-cRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHMWNYQ-it Proiettore WiFi WiMiUS 7200 Lumen Videoproiettore Full HD...'
 sku: 'B08BHMWNYQ-it'
 tags: [  ]

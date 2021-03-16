@@ -5,7 +5,7 @@ date: 2020-07-19 08:29:46
 image: 'https://m.media-amazon.com/images/I/310bpbkZ3kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JP68HW4-it JACK & JONES Jjimarco Jjbowie Sa Noos Pantaloni Blu Navy...'
 sku: 'B07JP68HW4-it'
 tags: [  ]

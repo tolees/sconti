@@ -5,7 +5,7 @@ date: 2020-09-16 14:50:34
 image: 'https://m.media-amazon.com/images/I/41HVuHm0jeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWJ31Z6-it Hauck Citi Neo II Passeggino da 0 Mesi a 25 kg con 2 Porta...'
 sku: 'B07GWJ31Z6-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 08:35:24
 image: 'https://m.media-amazon.com/images/I/41y14yT4-XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFNKR2N-it Desigual Bols Intra Durban Borsa a tracolla da donna beige...'
 sku: 'B07VFNKR2N-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 00:10:49
 image: 'https://m.media-amazon.com/images/I/41oJU8xG5oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ART3UI-it Birkenstock Arizona Birko-Flor Nubuck Sandali Unisex-...'
 sku: 'B003ART3UI-it'
 tags: [  ]

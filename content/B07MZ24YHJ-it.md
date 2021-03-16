@@ -5,7 +5,7 @@ date: 2020-07-21 13:50:27
 image: 'https://m.media-amazon.com/images/I/41oxEs5vKnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ24YHJ-it Petfu Zaino per Computer Portatile 15.6 Pollici Zaino Uomo...'
 sku: 'B07MZ24YHJ-it'
 tags: [  ]

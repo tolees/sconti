@@ -5,7 +5,7 @@ date: 2020-08-27 11:31:22
 image: 'https://m.media-amazon.com/images/I/3100oTQBAaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTV1BWD-it Nike Air Max 270 React Scarpe da Ginnastica Uomo Nero...'
 sku: 'B07ZTV1BWD-it'
 tags: [  ]

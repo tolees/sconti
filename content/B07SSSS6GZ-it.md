@@ -5,7 +5,7 @@ date: 2020-07-24 17:51:56
 image: 'https://m.media-amazon.com/images/I/414GgnQll3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSSS6GZ-it Filetti di tonno pescato a canna in olio d oliva 190g'
 sku: 'B07SSSS6GZ-it'
 tags: [  ]

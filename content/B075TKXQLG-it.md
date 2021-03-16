@@ -5,7 +5,7 @@ date: 2020-08-28 06:21:46
 image: 'https://m.media-amazon.com/images/I/41Sic5CInCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TKXQLG-it Contorno Occhi Antirughe Vovees Theia Gel con Acido...'
 sku: 'B075TKXQLG-it'
 tags: [  ]

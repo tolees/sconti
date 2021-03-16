@@ -5,7 +5,7 @@ date: 2020-08-27 15:20:42
 image: 'https://m.media-amazon.com/images/I/51+mIf8QNlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZYPFDT-it TACKLIFE RTD37AC Utensile Multifunzione 200W Ad Alte...'
 sku: 'B07WZYPFDT-it'
 tags: [  ]

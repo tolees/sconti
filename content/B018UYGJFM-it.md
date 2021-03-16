@@ -5,7 +5,7 @@ date: 2020-08-28 10:57:43
 image: 'https://m.media-amazon.com/images/I/31jn2YGsFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018UYGJFM-it Guess Orologio Analogico Quarzo Donna con Cinturino in...'
 sku: 'B018UYGJFM-it'
 tags: [  ]

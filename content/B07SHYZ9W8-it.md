@@ -5,7 +5,7 @@ date: 2020-07-29 09:02:04
 image: 'https://m.media-amazon.com/images/I/31nneb4yYAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHYZ9W8-it Levi s Woodward L Sneaker Uomo Grigio Regular Grey 55 45 EU'
 sku: 'B07SHYZ9W8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 15:02:47
 image: 'https://m.media-amazon.com/images/I/41pfFM2JiXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084KTTGTQ-it Bosch Home and Garden 0600833300 Cesoie da giardinaggio'
 sku: 'B084KTTGTQ-it'
 tags: [  ]

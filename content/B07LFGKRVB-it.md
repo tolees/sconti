@@ -5,7 +5,7 @@ date: 2020-09-28 11:08:36
 image: 'https://m.media-amazon.com/images/I/31xNkWhiwIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFGKRVB-it Levi s 2pk Crewneck Graphic T-Shirt Multicolore 2 Pack SW...'
 sku: 'B07LFGKRVB-it'
 tags: [  ]

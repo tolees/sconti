@@ -5,7 +5,7 @@ date: 2020-08-31 07:40:04
 image: 'https://m.media-amazon.com/images/I/51aLELdQGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AA2YOEQ-it Goleador Maxi Shock la Doppia Caramella Gommosa Ricoperta...'
 sku: 'B00AA2YOEQ-it'
 tags: [  ]

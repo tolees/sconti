@@ -5,7 +5,7 @@ date: 2020-09-05 17:10:22
 image: 'https://m.media-amazon.com/images/I/41ZbcYg8NZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KM8QF58-it Nike Sportswear Zaino Sportivo Unisex Adulto Nero...'
 sku: 'B07KM8QF58-it'
 tags: [  ]

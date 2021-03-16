@@ -5,7 +5,7 @@ date: 2020-09-03 07:44:27
 image: 'https://m.media-amazon.com/images/I/31NKJptiqeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP38CYB-it adidas MTS WV Light Tuta Uomo Legend Ink/Legend Ink S'
 sku: 'B07KP38CYB-it'
 tags: [  ]

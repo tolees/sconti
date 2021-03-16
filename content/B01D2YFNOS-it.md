@@ -5,7 +5,7 @@ date: 2020-08-14 16:31:29
 image: 'https://m.media-amazon.com/images/I/51p9wkK7B7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D2YFNOS-it Neoviva - Cuscino imbottito a forma di margherita con 7...'
 sku: 'B01D2YFNOS-it'
 tags: [  ]

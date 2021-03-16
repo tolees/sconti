@@ -5,7 +5,7 @@ date: 2020-09-21 09:17:28
 image: 'https://m.media-amazon.com/images/I/41L8Mlu1DjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LZUAFM-it Orologio Emporio Armani AR2434'
 sku: 'B002LZUAFM-it'
 tags: [  ]

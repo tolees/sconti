@@ -5,7 +5,7 @@ date: 2020-07-19 13:43:07
 image: 'https://m.media-amazon.com/images/I/41WfG3mwrcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ3W5XN-it Clarks Step Allena Go Scarpe da Ginnastica Basse Donna...'
 sku: 'B07TQ3W5XN-it'
 tags: [  ]

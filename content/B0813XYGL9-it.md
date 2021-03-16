@@ -5,7 +5,7 @@ date: 2020-09-24 11:28:32
 image: 'https://m.media-amazon.com/images/I/410pX+3RSCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813XYGL9-it adidas Adilette Ciabatte Donna Nero Core Black/Blue...'
 sku: 'B0813XYGL9-it'
 tags: [  ]

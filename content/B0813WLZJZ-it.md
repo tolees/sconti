@@ -5,7 +5,7 @@ date: 2020-08-31 19:11:25
 image: 'https://m.media-amazon.com/images/I/31trdVqeGNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813WLZJZ-it adidas Superstar J Scarpe da Ginnastica Unisex-Baby Ftwr...'
 sku: 'B0813WLZJZ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 09:55:22
 image: 'https://m.media-amazon.com/images/I/51y7cU-qawL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OK7A9KA-it Worx WX372 Trapano Avvitatore con Percussione Mandrino in...'
 sku: 'B00OK7A9KA-it'
 tags: [  ]

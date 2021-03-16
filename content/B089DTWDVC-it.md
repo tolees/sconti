@@ -5,7 +5,7 @@ date: 2020-09-26 19:29:03
 image: 'https://m.media-amazon.com/images/I/51VNrlIn8LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DTWDVC-it Superzings. blu Blu - M744'
 sku: 'B089DTWDVC-it'
 tags: [  ]

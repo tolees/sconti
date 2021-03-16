@@ -5,7 +5,7 @@ date: 2020-10-01 06:40:12
 image: 'https://m.media-amazon.com/images/I/31+mMQHbcNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGRWW7J-it Desigual Mone rhapsody Zip Around Portafoglio da donna...'
 sku: 'B07VGRWW7J-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 09:18:59
 image: 'https://m.media-amazon.com/images/I/3184Lf90BgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLVRH2Z-it Nike Wmns Revolution 5 Scarpe da Corsa Womens Black/White-...'
 sku: 'B07NLVRH2Z-it'
 tags: [  ]

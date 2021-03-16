@@ -5,7 +5,7 @@ date: 2020-09-08 17:31:55
 image: 'https://m.media-amazon.com/images/I/51uXAZ682AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRY2C4X-it Curcuma Bio 1440 mg con Piperina e Zenzero - 180 Capsule...'
 sku: 'B07PRY2C4X-it'
 tags: [  ]

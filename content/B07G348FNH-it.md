@@ -5,7 +5,7 @@ date: 2020-08-31 15:59:01
 image: 'https://m.media-amazon.com/images/I/41S-RoffTML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G348FNH-it Chicco Passeggino Ohlalà 2 Leggero Compatto Paprika Rosso'
 sku: 'B07G348FNH-it'
 tags: [  ]

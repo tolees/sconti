@@ -5,7 +5,7 @@ date: 2020-08-08 07:08:22
 image: 'https://m.media-amazon.com/images/I/41tnHwF5LmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QLXNKK-it Kodak Pixpro FZ102-BK Fotocamera digitale 16.44 megapixel...'
 sku: 'B075QLXNKK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 08:02:32
 image: 'https://m.media-amazon.com/images/I/51t95ah6PlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071Y1DHLY-it Integratore Probiotici con Prebiotici - 16 Ceppi Batterici...'
 sku: 'B071Y1DHLY-it'
 tags: [  ]

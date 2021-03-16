@@ -5,7 +5,7 @@ date: 2020-07-19 10:40:57
 image: 'https://m.media-amazon.com/images/I/41Fd+9U-MqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813ZFVTK-it adidas Superstar C Scarpe da Ginnastica Unisex-Bambini...'
 sku: 'B0813ZFVTK-it'
 tags: [  ]

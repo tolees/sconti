@@ -5,7 +5,7 @@ date: 2020-09-25 05:40:21
 image: 'https://m.media-amazon.com/images/I/414o1wta4GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PHEHAJI-it Cabin Max Metz Zaino da Viaggio Bagaglio a mano/da cabina...'
 sku: 'B00PHEHAJI-it'
 tags: [  ]

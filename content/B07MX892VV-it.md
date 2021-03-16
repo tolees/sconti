@@ -5,7 +5,7 @@ date: 2020-10-03 07:03:45
 image: 'https://m.media-amazon.com/images/I/216QzJbwocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MX892VV-it Apple Smart Battery Case for iPhone XR - Black'
 sku: 'B07MX892VV-it'
 tags: [  ]

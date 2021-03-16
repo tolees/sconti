@@ -5,7 +5,7 @@ date: 2020-09-19 16:25:10
 image: 'https://m.media-amazon.com/images/I/51X2sP+rv8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1BXHNS-it Hasbro Monopoly - Voice Banking Gioco in Scatola Elettronico'
 sku: 'B07S1BXHNS-it'
 tags: [  ]

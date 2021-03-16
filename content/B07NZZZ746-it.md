@@ -5,7 +5,7 @@ date: 2020-09-29 16:33:58
 image: 'https://m.media-amazon.com/images/I/41YprQvAt9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZZZ746-it HyperX HX-MICQC-BK Quadcast Microfono Standalone per...'
 sku: 'B07NZZZ746-it'
 tags: [  ]

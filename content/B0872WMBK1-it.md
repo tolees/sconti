@@ -5,7 +5,7 @@ date: 2020-07-21 23:24:33
 image: 'https://m.media-amazon.com/images/I/51biHF-nA-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872WMBK1-it L3 Tech Custodia Rigida per SSD SanDisk Extreme PRO da 1...'
 sku: 'B0872WMBK1-it'
 tags: [  ]

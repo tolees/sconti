@@ -5,7 +5,7 @@ date: 2020-08-30 17:44:16
 image: 'https://m.media-amazon.com/images/I/41LAwr3ipYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C5CG7H8-it VBIGER Guanti Invernali Uomo Donna Guanti Ciclismo Guanti...'
 sku: 'B08C5CG7H8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 16:19:32
 image: 'https://m.media-amazon.com/images/I/51JFHGFIQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FBDD37B-it Rybozen Switch KVM 4K HDMI Switch 2 Port Box Tastiera...'
 sku: 'B08FBDD37B-it'
 tags: [  ]

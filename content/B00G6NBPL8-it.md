@@ -5,7 +5,7 @@ date: 2020-09-10 17:06:05
 image: 'https://m.media-amazon.com/images/I/51glVJqcwOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G6NBPL8-it EVERGREENWEB ❤️ Materasso Singolo 80x190 in Waterfoam Alto...'
 sku: 'B00G6NBPL8-it'
 tags: [  ]

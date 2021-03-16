@@ -5,7 +5,7 @@ date: 2020-08-05 22:19:50
 image: 'https://m.media-amazon.com/images/I/511AmZ3Kq1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGX67T5-it Autan Active Vapo Bipacco Insetto Repellente e Antizanzare...'
 sku: 'B06XGX67T5-it'
 tags: [  ]

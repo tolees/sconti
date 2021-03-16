@@ -5,7 +5,7 @@ date: 2020-10-10 12:08:48
 image: 'https://m.media-amazon.com/images/I/41tP5odM6zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W3LKCLW-it Oral-B Pro 2 2000 Cross Action Spazzolino Elettrico...'
 sku: 'B07W3LKCLW-it'
 tags: [  ]

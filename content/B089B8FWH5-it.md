@@ -5,7 +5,7 @@ date: 2020-07-24 12:41:06
 image: 'https://m.media-amazon.com/images/I/31fpluvnrJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089B8FWH5-it CARPISA® Borsa lavoro con doppi manici - Soya'
 sku: 'B089B8FWH5-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-10 10:59:19
 image: 'https://m.media-amazon.com/images/I/51zR3walT6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DN9FW08-it Multicomplex Sport - 10 Buste'
 sku: 'B00DN9FW08-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 10:14:39
 image: 'https://m.media-amazon.com/images/I/41PLKQ9nF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXZ8W76-it Garmin Forerunner 45s Orologio Smart GPS per la Corsa e...'
 sku: 'B07PXZ8W76-it'
 tags: [  ]

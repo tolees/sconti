@@ -5,7 +5,7 @@ date: 2020-08-24 10:20:09
 image: 'https://m.media-amazon.com/images/I/51MPQ7F13jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751RGXLR-it Barbie la Pizzeria con Bambola Tavolo per Le Pizze Forno e...'
 sku: 'B0751RGXLR-it'
 tags: [  ]

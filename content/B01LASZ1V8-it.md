@@ -5,7 +5,7 @@ date: 2020-09-22 20:26:55
 image: 'https://m.media-amazon.com/images/I/51Pt77yFSHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LASZ1V8-it Pacific Rim 4K Ultra HD + Blu-Ray'
 sku: 'B01LASZ1V8-it'
 tags: [  ]

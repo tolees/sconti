@@ -5,7 +5,7 @@ date: 2020-09-03 13:49:33
 image: 'https://m.media-amazon.com/images/I/41M5m830JqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081FGS43D-it HP Color LaserJet Pro M283fdw Stampante Wi-Fi...'
 sku: 'B081FGS43D-it'
 tags: [  ]

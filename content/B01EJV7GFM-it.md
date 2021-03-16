@@ -5,7 +5,7 @@ date: 2020-10-05 07:18:25
 image: 'https://m.media-amazon.com/images/I/41I97ricodL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EJV7GFM-it Omino Bianco - IdroCaps Detersivo in Dosi con Ammorbidente...'
 sku: 'B01EJV7GFM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 13:17:18
 image: 'https://m.media-amazon.com/images/I/41TNvGs9ACL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6VZYD3-it ghd Glide hot brush la 1° spazzola professionale ghd per...'
 sku: 'B07N6VZYD3-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 00:11:53
 image: 'https://m.media-amazon.com/images/I/51N3Di2pGBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GRFFCY0-it Western Digital WD My Cloud PR4100 Serie Pro Server...'
 sku: 'B01GRFFCY0-it'
 tags: [  ]

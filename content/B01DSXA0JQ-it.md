@@ -5,7 +5,7 @@ date: 2020-09-03 16:46:33
 image: 'https://m.media-amazon.com/images/I/41M39243QkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DSXA0JQ-it SONGMICS Appendiabiti Metallo Nero 68.8 x 35.2 x 187 cm'
 sku: 'B01DSXA0JQ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 08:52:06
 image: 'https://m.media-amazon.com/images/I/51waC7lqK0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GXNF26-it Vileda Ultramat Turbo Sistema Lavapavimenti con Secchio...'
 sku: 'B078GXNF26-it'
 tags: [  ]

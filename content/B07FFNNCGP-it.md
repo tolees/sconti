@@ -5,7 +5,7 @@ date: 2020-08-17 06:57:55
 image: 'https://m.media-amazon.com/images/I/517XOPLdEeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFNNCGP-it KKmoon Finder Digitale Satellitare DVB-S2 V8 con Display...'
 sku: 'B07FFNNCGP-it'
 tags: [  ]

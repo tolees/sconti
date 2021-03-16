@@ -5,7 +5,7 @@ date: 2020-09-25 22:11:16
 image: 'https://m.media-amazon.com/images/I/51JFDicI+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003O2ZRRM-it K&N 99-5003EU Filtri Aria Set di 2'
 sku: 'B003O2ZRRM-it'
 tags: [  ]

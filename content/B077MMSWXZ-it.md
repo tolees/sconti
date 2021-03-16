@@ -5,7 +5,7 @@ date: 2020-08-27 17:02:33
 image: 'https://m.media-amazon.com/images/I/41q1l59z5eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MMSWXZ-it PUMA Ignite Flash Evoknit Scarpe da Corsa Uomo Nero Black-...'
 sku: 'B077MMSWXZ-it'
 tags: [  ]

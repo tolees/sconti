@@ -5,7 +5,7 @@ date: 2020-09-23 06:41:54
 image: 'https://m.media-amazon.com/images/I/4158s9d3yeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FU4ZEQG-it Tommy Hilfiger TH Men Quarter 2P Calze Uomo Nero 43/46 -...'
 sku: 'B00FU4ZEQG-it'
 tags: [  ]

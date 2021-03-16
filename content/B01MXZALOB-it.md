@@ -5,7 +5,7 @@ date: 2020-09-26 09:07:37
 image: 'https://m.media-amazon.com/images/I/51rozrVf1IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXZALOB-it Garmin Fenix 5s Orologio Sportivo Argento/Turchese'
 sku: 'B01MXZALOB-it'
 tags: [  ]

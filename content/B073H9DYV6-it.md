@@ -5,7 +5,7 @@ date: 2020-08-12 09:04:41
 image: 'https://m.media-amazon.com/images/I/41qI2nbD++L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073H9DYV6-it Parasole per Parabrezza - Tessuto 210T Il Migliore sul...'
 sku: 'B073H9DYV6-it'
 tags: [  ]

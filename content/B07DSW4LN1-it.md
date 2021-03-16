@@ -5,7 +5,7 @@ date: 2020-10-02 15:24:04
 image: 'https://m.media-amazon.com/images/I/318Uey7xdjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DSW4LN1-it L Oréal Paris Unlimited Mascara Allungante Scovolino...'
 sku: 'B07DSW4LN1-it'
 tags: [  ]

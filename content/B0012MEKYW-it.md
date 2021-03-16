@@ -5,7 +5,7 @@ date: 2020-09-11 08:28:18
 image: 'https://m.media-amazon.com/images/I/41UWvGAmsnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0012MEKYW-it Laser 2420 Manichetta Autoadescante'
 sku: 'B0012MEKYW-it'
 tags: [  ]

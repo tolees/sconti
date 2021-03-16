@@ -5,7 +5,7 @@ date: 2020-08-20 15:35:27
 image: 'https://m.media-amazon.com/images/I/41bjQdAMhzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBZVV9G-it Joop! Cortina Tea Handbag ShzDonnaBorsa a manoRosa Rose...'
 sku: 'B07WBZVV9G-it'
 tags: [  ]

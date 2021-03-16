@@ -5,7 +5,7 @@ date: 2020-09-06 09:05:08
 image: 'https://m.media-amazon.com/images/I/412+LyZU+pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBGJY7J-it Newdora Calzini Uomo 8 Paia Unisex Calze Lavoro per...'
 sku: 'B07XBGJY7J-it'
 tags: [  ]

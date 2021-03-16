@@ -5,7 +5,7 @@ date: 2020-08-18 07:07:46
 image: 'https://m.media-amazon.com/images/I/413dbn1lkKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G43Q9DX-it Tommy Hilfiger Orologio Multi-quadrante Quarzo Uomo con...'
 sku: 'B07G43Q9DX-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-31 04:56:45
 image: 'https://m.media-amazon.com/images/I/31YYmMCxjGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBBA093-it Netgear GS305P Switch Ethernet PoE 5 porte Gigabit 4 porte...'
 sku: 'B01NBBA093-it'
 tags: [  ]

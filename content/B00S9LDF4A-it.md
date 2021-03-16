@@ -5,7 +5,7 @@ date: 2020-08-27 17:38:08
 image: 'https://m.media-amazon.com/images/I/51OHz7kvDsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S9LDF4A-it Omega 3 A.C. - 120 Perle'
 sku: 'B00S9LDF4A-it'
 tags: [  ]

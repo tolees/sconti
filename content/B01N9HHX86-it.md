@@ -5,7 +5,7 @@ date: 2020-08-17 12:35:55
 image: 'https://m.media-amazon.com/images/I/51wrtGD0yxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9HHX86-it Aquafresh Clean Spazzolino e flex Medium 12 confezioni da...'
 sku: 'B01N9HHX86-it'
 tags: [  ]

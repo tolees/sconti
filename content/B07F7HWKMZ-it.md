@@ -5,7 +5,7 @@ date: 2020-08-16 17:01:56
 image: 'https://m.media-amazon.com/images/I/31vU8O0uHPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7HWKMZ-it Yamaha MusicCast BAR 400 YAS-408 Soundbar e Subwoofer –...'
 sku: 'B07F7HWKMZ-it'
 tags: [  ]

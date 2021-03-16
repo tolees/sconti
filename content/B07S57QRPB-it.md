@@ -5,7 +5,7 @@ date: 2020-08-09 09:12:25
 image: 'https://m.media-amazon.com/images/I/41sm82p6olL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S57QRPB-it Philips Sonicare ExpertClean 7300 HX9601/02 Spazzolino...'
 sku: 'B07S57QRPB-it'
 tags: [  ]

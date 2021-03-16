@@ -5,7 +5,7 @@ date: 2020-08-31 11:22:22
 image: 'https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQCVHQ6-it Echo Dot 3ª generazione - Altoparlante intelligente con...'
 sku: 'B07NQCVHQ6-it'
 tags: [  ]

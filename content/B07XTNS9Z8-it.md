@@ -5,7 +5,7 @@ date: 2020-09-11 13:40:39
 image: 'https://m.media-amazon.com/images/I/41rlIkXCiSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTNS9Z8-it Integratore Completo 4 in 1 per Capelli Pelle Unghie e...'
 sku: 'B07XTNS9Z8-it'
 tags: [  ]

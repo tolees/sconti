@@ -5,7 +5,7 @@ date: 2020-08-26 10:58:19
 image: 'https://m.media-amazon.com/images/I/51A-4lp7q2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDMV722-it XIDU Tour Pro 12 5" Notebook Portatile 4K Touchscreen...'
 sku: 'B08CDMV722-it'
 tags: [  ]

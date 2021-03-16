@@ -5,7 +5,7 @@ date: 2020-07-18 10:30:57
 image: 'https://m.media-amazon.com/images/I/41kI0AL2ypL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRNFZ9S-it Michael Kors Voyager Crossgrain Leather Tote - Borse Donna...'
 sku: 'B07DRNFZ9S-it'
 tags: [  ]

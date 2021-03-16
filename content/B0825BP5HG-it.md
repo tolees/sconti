@@ -5,7 +5,7 @@ date: 2020-09-01 10:02:54
 image: 'https://m.media-amazon.com/images/I/51-YMSjwglL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825BP5HG-it National Geographic Travel Kit Treppiede con Monopiede...'
 sku: 'B0825BP5HG-it'
 tags: [  ]

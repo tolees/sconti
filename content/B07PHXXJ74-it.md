@@ -5,7 +5,7 @@ date: 2020-08-27 09:31:19
 image: 'https://m.media-amazon.com/images/I/51yfxrhIXeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHXXJ74-it Zanzariera Magnetica per Porte NASUM Tenda Zanzariera per...'
 sku: 'B07PHXXJ74-it'
 tags: [  ]

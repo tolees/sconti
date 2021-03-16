@@ -5,7 +5,7 @@ date: 2020-07-22 09:31:10
 image: 'https://m.media-amazon.com/images/I/51mKAI49hxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TGF9YR2-it QUADRANT ITEMS Kit da Palestra Borraccia da 500ml Telo...'
 sku: 'B07TGF9YR2-it'
 tags: [  ]

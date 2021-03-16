@@ -5,7 +5,7 @@ date: 2020-09-27 15:44:14
 image: 'https://m.media-amazon.com/images/I/51T772p4ftL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCM8SMW-it Omino Bianco - Idrocaps White Sbianca E Smacchia Ultra...'
 sku: 'B01NCM8SMW-it'
 tags: [  ]

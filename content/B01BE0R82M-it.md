@@ -5,7 +5,7 @@ date: 2020-09-08 09:29:29
 image: 'https://m.media-amazon.com/images/I/41F2Y3vqM3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BE0R82M-it Bosch Professional 0.601.9F2.000 Smerigliatrice Angolare...'
 sku: 'B01BE0R82M-it'
 tags: [  ]

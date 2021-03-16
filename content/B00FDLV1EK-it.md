@@ -5,7 +5,7 @@ date: 2020-09-01 13:35:23
 image: 'https://m.media-amazon.com/images/I/31mMbPpxU4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FDLV1EK-it SONGMICS LLR01L Appendiabiti Estensibile con rotelle in...'
 sku: 'B00FDLV1EK-it'
 tags: [  ]

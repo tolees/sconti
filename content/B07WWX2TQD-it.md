@@ -5,7 +5,7 @@ date: 2020-08-11 12:16:41
 image: 'https://m.media-amazon.com/images/I/51+UCUWAldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWX2TQD-it Cuscino Da Viaggio Memory Foam Sidias Cuscino Cervicale...'
 sku: 'B07WWX2TQD-it'
 tags: [  ]

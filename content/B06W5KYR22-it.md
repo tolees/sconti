@@ -5,7 +5,7 @@ date: 2020-10-02 15:41:11
 image: 'https://m.media-amazon.com/images/I/31l+FPg5SWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W5KYR22-it Kenwood KMX750WH Impastatrice Planetaria Kitchen Machine...'
 sku: 'B06W5KYR22-it'
 tags: [  ]

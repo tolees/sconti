@@ -5,7 +5,7 @@ date: 2020-10-01 16:39:54
 image: 'https://m.media-amazon.com/images/I/31BzCq1B4pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FDM6N6H-it OTHA Scheda di acquisizione Video Dispositivo di...'
 sku: 'B08FDM6N6H-it'
 tags: [  ]

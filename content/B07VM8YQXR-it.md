@@ -5,7 +5,7 @@ date: 2020-09-03 18:01:30
 image: 'https://m.media-amazon.com/images/I/51q4gone1OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VM8YQXR-it TECCPO 120 Pezzi Dischi Abrasivi ø125 mm Carta Abrasiva...'
 sku: 'B07VM8YQXR-it'
 tags: [  ]

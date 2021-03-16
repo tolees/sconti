@@ -5,7 +5,7 @@ date: 2020-10-01 11:46:25
 image: 'https://m.media-amazon.com/images/I/41u7w0XC6yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LESVKG4-it Havaianas Luna Sandali Donna Multicolore Navy Blue/Silver...'
 sku: 'B01LESVKG4-it'
 tags: [  ]

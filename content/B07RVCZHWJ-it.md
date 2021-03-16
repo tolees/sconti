@@ -5,7 +5,7 @@ date: 2020-09-25 17:28:57
 image: 'https://m.media-amazon.com/images/I/419BoH0YfiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVCZHWJ-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Blu Dress...'
 sku: 'B07RVCZHWJ-it'
 tags: [  ]

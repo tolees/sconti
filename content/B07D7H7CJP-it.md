@@ -5,7 +5,7 @@ date: 2020-08-25 10:46:19
 image: 'https://m.media-amazon.com/images/I/31gcU-Ap+0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7H7CJP-it Havaianas Slim Tropical Infradito Donna Salmon Nude 7183...'
 sku: 'B07D7H7CJP-it'
 tags: [  ]

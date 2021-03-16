@@ -5,7 +5,7 @@ date: 2020-09-07 12:26:13
 image: 'https://m.media-amazon.com/images/I/51IDg1gC-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRKD92X-it X-DRAGON Caricabatterie Portatile 20000mAh 3 Porte USB...'
 sku: 'B07NRKD92X-it'
 tags: [  ]

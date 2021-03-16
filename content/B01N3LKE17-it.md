@@ -5,7 +5,7 @@ date: 2020-09-02 06:04:37
 image: 'https://m.media-amazon.com/images/I/41c7y5-UeUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3LKE17-it Aigostar Lampadina LED E27 6W Luce Bianca Fredda 6400K 500...'
 sku: 'B01N3LKE17-it'
 tags: [  ]

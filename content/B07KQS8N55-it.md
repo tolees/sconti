@@ -5,7 +5,7 @@ date: 2020-07-29 14:18:09
 image: 'https://m.media-amazon.com/images/I/4130y0OGb1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQS8N55-it Vileda Steam XXL Scopa a Vapore Rosso/Nero'
 sku: 'B07KQS8N55-it'
 tags: [  ]

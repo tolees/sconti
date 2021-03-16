@@ -5,7 +5,7 @@ date: 2020-10-07 09:03:16
 image: 'https://m.media-amazon.com/images/I/31XXcQhPLwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006OZF4KG-it Revlon ColorStay colore per sopracciglia'
 sku: 'B006OZF4KG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2021-02-25 17:40:06
 image: 'https://m.media-amazon.com/images/I/319DVsty5uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZDWYZ1-it Reality Leuchten r50351001 lampada da tavolo in ceramica...'
 sku: 'B01MZDWYZ1-it'
 tags: [ 'reality leuchten', ]
@@ -29,7 +29,7 @@ average: '9.9'
 ℹ️:
 
 - Tessuto chreme schermo in tessuto, base in ceramica marrone
-- 1 X E14 max. 40 W, lampadine non incluse
 - Con interruttore
+- 1 X E14 max. 40 W, lampadine non incluse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZDWYZ1/?tag=tolees00-21)

@@ -5,7 +5,7 @@ date: 2020-09-17 11:09:01
 image: 'https://m.media-amazon.com/images/I/51Z49yrbt1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073Q6JYPL-it Saucony Jazz Original Vintage Sneakers Uomo Blue Navy...'
 sku: 'B073Q6JYPL-it'
 tags: [  ]

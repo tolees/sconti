@@ -5,7 +5,7 @@ date: 2020-10-10 06:28:45
 image: 'https://m.media-amazon.com/images/I/416CKAoDGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB3PYD8-it HyperX HX-HSCSC-BK Cloud Stinger Core Cuffie Gaming per...'
 sku: 'B07BB3PYD8-it'
 tags: [  ]

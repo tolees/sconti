@@ -5,7 +5,7 @@ date: 2020-09-27 13:50:14
 image: 'https://m.media-amazon.com/images/I/41vQk-aFrOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CV6FT55-it TANYO Cover per Xiaomi Redmi 9 Custodia TPU/PC Hybrid...'
 sku: 'B08CV6FT55-it'
 tags: [  ]

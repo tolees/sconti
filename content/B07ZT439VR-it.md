@@ -5,7 +5,7 @@ date: 2020-08-27 14:01:40
 image: 'https://m.media-amazon.com/images/I/41-sCcBxrCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZT439VR-it TACKLIFE-Cacciavite cacciavite di precisione 12 in 1 con...'
 sku: 'B07ZT439VR-it'
 tags: [  ]

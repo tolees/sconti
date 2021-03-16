@@ -5,7 +5,7 @@ date: 2020-09-14 12:28:31
 image: 'https://m.media-amazon.com/images/I/41EV-+gUduL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VDJ06O-it Claber 87335 Inter. POZZETTO Grande 90510...'
 sku: 'B007VDJ06O-it'
 tags: [  ]

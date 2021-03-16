@@ -5,7 +5,7 @@ date: 2020-09-01 07:40:58
 image: 'https://m.media-amazon.com/images/I/51uvo06h-aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXJG9M3-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Blu...'
 sku: 'B07PXJG9M3-it'
 tags: [  ]

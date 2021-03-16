@@ -5,7 +5,7 @@ date: 2020-08-04 05:15:30
 image: 'https://m.media-amazon.com/images/I/41CcqWH1YqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082TD3DHX-it Bébé Confort - Maxi Cosi E-Safety Dispositivo Anti...'
 sku: 'B082TD3DHX-it'
 tags: [  ]

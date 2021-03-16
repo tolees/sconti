@@ -5,7 +5,7 @@ date: 2020-07-31 07:17:06
 image: 'https://m.media-amazon.com/images/I/318LEnIJmrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X51FGHF-it Eastpak Springer Marsupio portasoldi 23 cm 2 L Nero...'
 sku: 'B07X51FGHF-it'
 tags: [  ]

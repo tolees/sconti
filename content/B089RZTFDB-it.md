@@ -5,7 +5,7 @@ date: 2020-07-26 18:21:15
 image: 'https://m.media-amazon.com/images/I/41ZBVdE0pSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089RZTFDB-it goldenpoint Leggings Straight con borchie tonde Fantasia...'
 sku: 'B089RZTFDB-it'
 tags: [  ]

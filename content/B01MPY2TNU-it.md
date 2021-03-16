@@ -5,7 +5,7 @@ date: 2020-08-13 11:35:41
 image: 'https://m.media-amazon.com/images/I/41M0dufIv8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MPY2TNU-it Lacoste TH6712 T-Shirt Grigio Argent Chine XX-Large Taglia...'
 sku: 'B01MPY2TNU-it'
 tags: [  ]

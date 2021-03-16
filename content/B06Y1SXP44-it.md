@@ -5,7 +5,7 @@ date: 2020-10-09 00:11:25
 image: 'https://m.media-amazon.com/images/I/31mU8CyoQqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1SXP44-it TP-Link RE650 Ripetitore WiFi Wireless Wifi Extender...'
 sku: 'B06Y1SXP44-it'
 tags: [  ]

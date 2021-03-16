@@ -5,7 +5,7 @@ date: 2020-09-14 06:38:41
 image: 'https://m.media-amazon.com/images/I/41Wd99ao9ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084GPXHM3-it Svelto Expert Pastiglie per Lavastoviglie Extra...'
 sku: 'B084GPXHM3-it'
 tags: [  ]

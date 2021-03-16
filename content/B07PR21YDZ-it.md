@@ -5,7 +5,7 @@ date: 2020-10-10 17:01:15
 image: 'https://m.media-amazon.com/images/I/31qZ6160pwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR21YDZ-it Lark & Ro Stretch Poplin 3/4 Sleeve Shirt Dress-Shirts...'
 sku: 'B07PR21YDZ-it'
 tags: [  ]

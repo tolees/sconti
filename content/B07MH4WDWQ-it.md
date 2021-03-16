@@ -5,7 +5,7 @@ date: 2020-10-06 13:34:14
 image: 'https://m.media-amazon.com/images/I/41UW6GA-vSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH4WDWQ-it Garnier Bio Crema Contorno Occhi Naturale Bio Lavanda...'
 sku: 'B07MH4WDWQ-it'
 tags: [  ]

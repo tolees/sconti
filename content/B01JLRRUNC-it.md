@@ -5,7 +5,7 @@ date: 2020-08-13 06:05:30
 image: 'https://m.media-amazon.com/images/I/41a1yO8ehwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLRRUNC-it Hotpoint AQ97D 49D IT Lavatrice a Carica Frontale 9 kg...'
 sku: 'B01JLRRUNC-it'
 tags: [  ]

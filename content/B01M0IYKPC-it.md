@@ -5,7 +5,7 @@ date: 2020-09-20 08:34:40
 image: 'https://m.media-amazon.com/images/I/41WX6PTtXNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0IYKPC-it K-Way Le Vrai 3.0 Victor Unisex Felpa Rosso Small Taglia...'
 sku: 'B01M0IYKPC-it'
 tags: [  ]

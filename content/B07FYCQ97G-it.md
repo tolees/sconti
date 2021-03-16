@@ -5,7 +5,7 @@ date: 2020-09-22 14:46:26
 image: 'https://m.media-amazon.com/images/I/31WwKjTcZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYCQ97G-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto Blu...'
 sku: 'B07FYCQ97G-it'
 tags: [  ]

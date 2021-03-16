@@ -5,7 +5,7 @@ date: 2020-09-02 09:01:52
 image: 'https://m.media-amazon.com/images/I/415zTxPFnfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZS4HYD-it SanDisk Ultra Fit Unità Flash USB 3.1 da 512 GB con...'
 sku: 'B083ZS4HYD-it'
 tags: [  ]

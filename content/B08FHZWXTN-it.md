@@ -5,7 +5,7 @@ date: 2020-09-24 12:54:18
 image: 'https://m.media-amazon.com/images/I/41UZP0Y1QSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FHZWXTN-it Auricolari Bluetooth 5.0 TWS i12 Cuffie wireless stereo 3D...'
 sku: 'B08FHZWXTN-it'
 tags: [  ]

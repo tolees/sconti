@@ -5,7 +5,7 @@ date: 2020-08-19 10:34:13
 image: 'https://m.media-amazon.com/images/I/51oAnfbE8IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8M4PXV-it Friskies Purina Crocchette Cane Vitafit Balance con Pollo...'
 sku: 'B01M8M4PXV-it'
 tags: [  ]

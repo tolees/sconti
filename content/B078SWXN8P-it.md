@@ -5,7 +5,7 @@ date: 2020-07-22 06:52:40
 image: 'https://m.media-amazon.com/images/I/41A-1hndRTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SWXN8P-it Timberland Capri Sunset Wedge Sandali Donna Nero Black...'
 sku: 'B078SWXN8P-it'
 tags: [  ]

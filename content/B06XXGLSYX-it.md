@@ -5,7 +5,7 @@ date: 2020-09-15 10:58:48
 image: 'https://m.media-amazon.com/images/I/41Esz8t+uOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXGLSYX-it New Balance 574v2 Core Scarpa da Tennis Donna Grigio Grey...'
 sku: 'B06XXGLSYX-it'
 tags: [  ]

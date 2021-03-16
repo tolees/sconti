@@ -5,7 +5,7 @@ date: 2020-08-31 10:41:17
 image: 'https://m.media-amazon.com/images/I/31sQFyGMWQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCKK4C3-it Desigual Borsa a mano Donna Oro Oro DORADO 8010 14x24x33...'
 sku: 'B07VCKK4C3-it'
 tags: [  ]

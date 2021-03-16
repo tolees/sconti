@@ -5,7 +5,7 @@ date: 2020-09-28 12:43:41
 image: 'https://m.media-amazon.com/images/I/31NsoHwsMGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2QMJHR-it Vans Left Chest Logo Tee T-Shirt Uomo Bianco White X-Large...'
 sku: 'B07F2QMJHR-it'
 tags: [  ]

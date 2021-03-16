@@ -5,7 +5,7 @@ date: 2020-10-06 07:47:53
 image: 'https://m.media-amazon.com/images/I/41FtK52AF9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDKJ7TJ-it Desigual Bols Black White Coro - Borsa da donna 1 x 40 5 x...'
 sku: 'B07VDKJ7TJ-it'
 tags: [  ]

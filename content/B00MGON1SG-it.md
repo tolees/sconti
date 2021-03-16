@@ -5,7 +5,7 @@ date: 2020-10-02 20:06:17
 image: 'https://m.media-amazon.com/images/I/415VujhAwYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MGON1SG-it Eastpak Padded Pak r Zaino 40 cm 24 L Grigio Black Denim'
 sku: 'B00MGON1SG-it'
 tags: [  ]

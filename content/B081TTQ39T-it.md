@@ -5,7 +5,7 @@ date: 2020-10-01 13:25:47
 image: 'https://m.media-amazon.com/images/I/31tNFSLzu-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TTQ39T-it adidas Tight T Maglietta Donna Nero Black/White 40'
 sku: 'B081TTQ39T-it'
 tags: [  ]

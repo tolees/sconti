@@ -5,7 +5,7 @@ date: 2020-08-21 15:12:42
 image: 'https://m.media-amazon.com/images/I/319FzoFDIAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076TDRLR4-it Skechers Og 85-Old School Cool-699 Scarpe da Ginnastica...'
 sku: 'B076TDRLR4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 07:00:23
 image: 'https://m.media-amazon.com/images/I/31B5A3RqZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015OK3DQS-it PUMA Leadcat Scarpe da Spiaggia e Piscina Unisex-Adulto...'
 sku: 'B015OK3DQS-it'
 tags: [  ]

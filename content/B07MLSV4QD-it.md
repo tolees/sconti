@@ -5,7 +5,7 @@ date: 2020-08-01 10:52:33
 image: 'https://m.media-amazon.com/images/I/41znhCe54iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLSV4QD-it Clarks Step Welt Free Scarpe da Ginnastica Uomo Verde Kaki...'
 sku: 'B07MLSV4QD-it'
 tags: [  ]

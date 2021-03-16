@@ -5,7 +5,7 @@ date: 2020-09-19 13:18:00
 image: 'https://m.media-amazon.com/images/I/41itQBHhpdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSZDAE2-it Fabuloso Ammorbidente Concentrato 1000 Vaniglia -...'
 sku: 'B01MSZDAE2-it'
 tags: [  ]

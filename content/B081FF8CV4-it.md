@@ -5,7 +5,7 @@ date: 2020-09-04 05:01:41
 image: 'https://m.media-amazon.com/images/I/31sg02DxTsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081FF8CV4-it YAMAMAY® Pigiama Lungo Donna - Love'
 sku: 'B081FF8CV4-it'
 tags: [  ]

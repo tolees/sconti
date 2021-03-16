@@ -5,7 +5,7 @@ date: 2020-09-15 13:05:15
 image: 'https://m.media-amazon.com/images/I/41m2WX5r66L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8U4DEJ-it Duronic VC8 /BK Aspirapolvere verticale senza sacco 800W...'
 sku: 'B01N8U4DEJ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 08:29:33
 image: 'https://m.media-amazon.com/images/I/41C4fLAXvpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085M2K4ZM-it Motorola Moto G8 Power Lite Batteria 5000 mAh Tripla...'
 sku: 'B085M2K4ZM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 18:15:52
 image: 'https://m.media-amazon.com/images/I/418P9f71W+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0096NE9NQ-it Lampa 32106 6899'
 sku: 'B0096NE9NQ-it'
 tags: [  ]

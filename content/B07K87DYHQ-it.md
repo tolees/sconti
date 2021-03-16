@@ -5,7 +5,7 @@ date: 2020-09-05 07:10:50
 image: 'https://m.media-amazon.com/images/I/41GOq6XdMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K87DYHQ-it Cressi Floating Mattress Lounger Materassino Gonfiabile...'
 sku: 'B07K87DYHQ-it'
 tags: [  ]

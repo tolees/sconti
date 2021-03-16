@@ -5,7 +5,7 @@ date: 2020-09-16 16:49:41
 image: 'https://m.media-amazon.com/images/I/31FrMm7MKrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074QQZ9JV-it Telecomando sostitutivo per TV TELEFUNKEN di One For All –...'
 sku: 'B074QQZ9JV-it'
 tags: [  ]

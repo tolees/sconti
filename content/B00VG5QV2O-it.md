@@ -5,7 +5,7 @@ date: 2020-08-30 06:41:28
 image: 'https://m.media-amazon.com/images/I/51V-Mu6PW0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VG5QV2O-it Tè bianco imperiale dell’Himalaya in foglie – Il tè più...'
 sku: 'B00VG5QV2O-it'
 tags: [  ]

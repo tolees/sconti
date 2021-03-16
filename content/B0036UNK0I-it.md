@@ -5,7 +5,7 @@ date: 2020-08-08 12:21:36
 image: 'https://m.media-amazon.com/images/I/31bCAmIybiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036UNK0I-it ParkTool Supporto Montaggio PRS-25 Team Issue Blu Blau 119...'
 sku: 'B0036UNK0I-it'
 tags: [  ]

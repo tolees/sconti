@@ -5,7 +5,7 @@ date: 2020-09-16 06:26:34
 image: 'https://m.media-amazon.com/images/I/31IM38hZ3uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2D36WD-it È Pura - Maschera Blonde Care - Trattamento Professionale...'
 sku: 'B07D2D36WD-it'
 tags: [  ]

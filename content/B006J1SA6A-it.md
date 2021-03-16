@@ -5,7 +5,7 @@ date: 2020-09-30 10:33:45
 image: 'https://m.media-amazon.com/images/I/41TvOuQc-EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006J1SA6A-it Braun 3-270 Silk-épil 3 Epilatore con Cavo e 3 Accessori Rosa'
 sku: 'B006J1SA6A-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 14:44:11
 image: 'https://m.media-amazon.com/images/I/41X5fglsvmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6BNLF7-it ZFYQ Coperta da Spiaggia 210x200cm Anti Sabbia...'
 sku: 'B07S6BNLF7-it'
 tags: [  ]

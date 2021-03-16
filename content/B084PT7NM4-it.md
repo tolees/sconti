@@ -5,7 +5,7 @@ date: 2020-08-07 09:43:04
 image: 'https://m.media-amazon.com/images/I/51wO06cnRmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084PT7NM4-it Me Contro Te Il Film La Vendetta Del Signor S'
 sku: 'B084PT7NM4-it'
 tags: [  ]

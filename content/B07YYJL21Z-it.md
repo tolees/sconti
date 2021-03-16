@@ -5,7 +5,7 @@ date: 2020-10-12 20:29:25
 image: 'https://m.media-amazon.com/images/I/41lvqU9lySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYJL21Z-it SanDisk Ultra Dual Drive Go Unità USB Flash Type-C 256 GB...'
 sku: 'B07YYJL21Z-it'
 tags: [  ]

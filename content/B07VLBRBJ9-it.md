@@ -5,7 +5,7 @@ date: 2020-09-28 08:51:32
 image: 'https://m.media-amazon.com/images/I/513wEconh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLBRBJ9-it ARTEZA Penne a Sfera Roller con Inchiostro a Gel Nero Set...'
 sku: 'B07VLBRBJ9-it'
 tags: [  ]

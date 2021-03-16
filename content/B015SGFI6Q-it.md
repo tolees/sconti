@@ -5,7 +5,7 @@ date: 2020-10-07 09:48:43
 image: 'https://m.media-amazon.com/images/I/41tFxkAlE3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015SGFI6Q-it Havaianas Luna Sandali Donna Oro Rose Gold/Rose Gold 5282...'
 sku: 'B015SGFI6Q-it'
 tags: [  ]

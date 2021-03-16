@@ -5,7 +5,7 @@ date: 2020-08-15 14:17:18
 image: 'https://m.media-amazon.com/images/I/41zAWcJunNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086CHG93T-it Samsung Smartphone Galaxy A71 + Pellicola Protettiva...'
 sku: 'B086CHG93T-it'
 tags: [  ]

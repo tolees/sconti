@@ -5,7 +5,7 @@ date: 2020-07-21 16:38:34
 image: 'https://m.media-amazon.com/images/I/413oRD-2AOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CQ7LMZM-it Optimum Nutrition Olio di Pesce con Capsule Omega 3 non...'
 sku: 'B00CQ7LMZM-it'
 tags: [  ]

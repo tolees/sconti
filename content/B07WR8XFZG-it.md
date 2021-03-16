@@ -5,7 +5,7 @@ date: 2020-08-05 14:01:28
 image: 'https://m.media-amazon.com/images/I/51JuEXz+PSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WR8XFZG-it TACKLIFE Sega Circolare Avanzata 750 W 6 Velocità 125 mm e...'
 sku: 'B07WR8XFZG-it'
 tags: [  ]

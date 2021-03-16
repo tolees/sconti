@@ -5,7 +5,7 @@ date: 2020-10-12 12:08:17
 image: 'https://m.media-amazon.com/images/I/41bUPSnasKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXSYPZM-it Lower East impermeable Uomo Blu Navy Medium'
 sku: 'B01MXSYPZM-it'
 tags: [  ]

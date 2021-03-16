@@ -5,7 +5,7 @@ date: 2020-08-13 11:47:56
 image: 'https://m.media-amazon.com/images/I/41o3j-PbVjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PWTF44-it Maegoo Controller PC PS3 TV Wireless 2.4GHz Wireless...'
 sku: 'B087PWTF44-it'
 tags: [  ]

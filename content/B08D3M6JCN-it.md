@@ -5,7 +5,7 @@ date: 2020-09-08 15:18:19
 image: 'https://m.media-amazon.com/images/I/61+v4A69BxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3M6JCN-it INTEY Porte da Calcio 2 Pezzi Gabbia di Calcio Bambino Pop...'
 sku: 'B08D3M6JCN-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 12:56:26
 image: 'https://m.media-amazon.com/images/I/5199hzPX2wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XR7Y8W-it Head & Shoulders Men Ultra Anticaduta Shampoo Antiforfora...'
 sku: 'B073XR7Y8W-it'
 tags: [  ]

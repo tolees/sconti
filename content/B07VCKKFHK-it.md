@@ -5,7 +5,7 @@ date: 2020-08-10 07:08:40
 image: 'https://m.media-amazon.com/images/I/411gULdIwML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCKKFHK-it Desigual Back tribal Nazca Mini zaino da donna 12 5 x 29 x...'
 sku: 'B07VCKKFHK-it'
 tags: [  ]

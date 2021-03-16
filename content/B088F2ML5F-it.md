@@ -5,7 +5,7 @@ date: 2020-07-22 17:44:48
 image: 'https://m.media-amazon.com/images/I/410-WUtFcyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088F2ML5F-it QHOHQ Cover per Xiaomi Redmi 9 con 2 Pezzi Pellicola...'
 sku: 'B088F2ML5F-it'
 tags: [  ]

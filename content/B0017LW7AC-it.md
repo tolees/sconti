@@ -5,7 +5,7 @@ date: 2020-07-28 16:49:32
 image: 'https://m.media-amazon.com/images/I/41svMMx2f3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0017LW7AC-it Guerlain Habit Rouge 21867 Acqua di Colonia spray 100 ml'
 sku: 'B0017LW7AC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 05:55:43
 image: 'https://m.media-amazon.com/images/I/31ONRxeIreL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJQSPZF-it DYNASONIC - Supporto robusto per Altoparlante Treppiede...'
 sku: 'B07XJQSPZF-it'
 tags: [  ]

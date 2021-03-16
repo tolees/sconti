@@ -5,7 +5,7 @@ date: 2020-10-05 05:53:37
 image: 'https://m.media-amazon.com/images/I/41SuCZsIyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085GB9WN7-it Aigostar Lampada Solare Giardino Esterno LED Luci Solari...'
 sku: 'B085GB9WN7-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 04:57:00
 image: 'https://m.media-amazon.com/images/I/312GDrUk3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FCNDMNN-it Ankermann BRIX NUC 15-Watt Mini Office Work PC 8GB RAM 480...'
 sku: 'B08FCNDMNN-it'
 tags: [  ]

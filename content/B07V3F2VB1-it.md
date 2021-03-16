@@ -5,7 +5,7 @@ date: 2020-07-24 14:59:33
 image: 'https://m.media-amazon.com/images/I/41e-X64bzxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3F2VB1-it YAMAMAY® Slip Costume con Lacci Regolabili Tinta Unita con...'
 sku: 'B07V3F2VB1-it'
 tags: [  ]

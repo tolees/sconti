@@ -5,7 +5,7 @@ date: 2020-08-27 07:07:29
 image: 'https://m.media-amazon.com/images/I/41DgcOfV3PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SP3SK7W-it Havaianas Brasil Logo Infradito Unisex-Bambini Rosa...'
 sku: 'B07SP3SK7W-it'
 tags: [  ]

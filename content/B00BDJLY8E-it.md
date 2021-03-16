@@ -5,7 +5,7 @@ date: 2020-09-30 12:13:37
 image: 'https://m.media-amazon.com/images/I/41xbSJrAOIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BDJLY8E-it Accurist Orologio Analogico Quarzo Donna con Cinturino in...'
 sku: 'B00BDJLY8E-it'
 tags: [  ]

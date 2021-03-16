@@ -5,7 +5,7 @@ date: 2020-09-07 17:55:45
 image: 'https://m.media-amazon.com/images/I/317WXpOOkOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KVQMDS-it Xiaomi Mi 10 16 9 cm 6.67" 8 GB 256 GB Doppia SIM 5G USB...'
 sku: 'B086KVQMDS-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 10:36:31
 image: 'https://m.media-amazon.com/images/I/41FxT9pMo5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085D2LW6M-it Pantene Pro-V Shampoo Ricci Perfetti per Ricci Luminosi e...'
 sku: 'B085D2LW6M-it'
 tags: [  ]

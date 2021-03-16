@@ -5,7 +5,7 @@ date: 2020-07-19 12:08:01
 image: 'https://m.media-amazon.com/images/I/31lnyeMArVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FLJ44K-it PUMA Active Brief 2p Packed Intimo Sportivo Grigio Grey...'
 sku: 'B072FLJ44K-it'
 tags: [  ]

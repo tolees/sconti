@@ -5,7 +5,7 @@ date: 2020-07-17 11:56:45
 image: 'https://m.media-amazon.com/images/I/31AkeKB1faL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTVDMC3-it SmartDevil Hub USB 3.0 4 Porte 5Gbps con Cavo USB 3.0 da...'
 sku: 'B07WTVDMC3-it'
 tags: [  ]

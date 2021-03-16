@@ -5,7 +5,7 @@ date: 2020-07-30 15:47:34
 image: 'https://m.media-amazon.com/images/I/412JlK9lQ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMPV3FK-it ASICS GT-1000 9 Scarpe da Corsa Uomo Electric Blue/Black...'
 sku: 'B07SMPV3FK-it'
 tags: [  ]

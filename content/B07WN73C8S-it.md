@@ -5,7 +5,7 @@ date: 2020-09-01 09:57:05
 image: 'https://m.media-amazon.com/images/I/414EMuBhw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WN73C8S-it HONGDA Cavo Phone [4Pezzi 0.3m 1m 2m 3m] Cavo Phone di...'
 sku: 'B07WN73C8S-it'
 tags: [  ]

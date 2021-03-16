@@ -5,7 +5,7 @@ date: 2020-08-25 12:31:48
 image: 'https://m.media-amazon.com/images/I/41ZFwiX4taL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY3RJ2L-it Superdry Denim Goods Co Tee T-Shirt Blu True Indigo BDM M...'
 sku: 'B07NY3RJ2L-it'
 tags: [  ]

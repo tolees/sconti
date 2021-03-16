@@ -5,7 +5,7 @@ date: 2020-10-01 06:51:26
 image: 'https://m.media-amazon.com/images/I/31-CmdZ4S6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRXD3NN-it Lacoste Gripshot 120 2 CMA Sneaker Uomo Bianco Wht/Grn 082...'
 sku: 'B07SRXD3NN-it'
 tags: [  ]

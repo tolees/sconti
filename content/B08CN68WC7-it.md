@@ -5,7 +5,7 @@ date: 2020-09-17 07:09:48
 image: 'https://m.media-amazon.com/images/I/31DQKp7fkoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CN68WC7-it Collio DOC Ribolla Gialla Ronco del Frassino 2019 0 75 L'
 sku: 'B08CN68WC7-it'
 tags: [  ]

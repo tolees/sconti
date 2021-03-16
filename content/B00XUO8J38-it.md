@@ -5,7 +5,7 @@ date: 2020-07-22 12:51:39
 image: 'https://m.media-amazon.com/images/I/41sd2I5g5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XUO8J38-it Bonaventura Maschio la Grappa 903 Barrique - 350 ml'
 sku: 'B00XUO8J38-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 05:47:11
 image: 'https://m.media-amazon.com/images/I/41wVy1bNfdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZSV1JJ-it Retevis RT628B Walkie Talkie Bambini Ricetrasmittenti...'
 sku: 'B085ZSV1JJ-it'
 tags: [  ]

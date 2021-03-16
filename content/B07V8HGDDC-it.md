@@ -5,7 +5,7 @@ date: 2020-09-19 07:36:43
 image: 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8HGDDC-it Boss Tee 4 T-Shirt Blu Navy 410 Medium Uomo'
 sku: 'B07V8HGDDC-it'
 tags: [  ]

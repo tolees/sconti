@@ -5,7 +5,7 @@ date: 2020-09-18 09:39:49
 image: 'https://m.media-amazon.com/images/I/41Pg4vWwWTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFNN2GY-it Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in...'
 sku: 'B07VFNN2GY-it'
 tags: [  ]

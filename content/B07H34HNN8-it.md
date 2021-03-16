@@ -5,7 +5,7 @@ date: 2020-08-24 07:26:18
 image: 'https://m.media-amazon.com/images/I/417G1wSadRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H34HNN8-it Deik Bilancia Pesa Persona Digitale Bluetooth Bilancia...'
 sku: 'B07H34HNN8-it'
 tags: [  ]

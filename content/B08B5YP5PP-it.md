@@ -5,7 +5,7 @@ date: 2020-09-01 14:02:30
 image: 'https://m.media-amazon.com/images/I/41GDuQbAx+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5YP5PP-it Echo Plus 2ª generazione - Tessuto antracite + Philips Hue...'
 sku: 'B08B5YP5PP-it'
 tags: [  ]

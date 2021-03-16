@@ -5,7 +5,7 @@ date: 2020-09-19 07:18:12
 image: 'https://m.media-amazon.com/images/I/41yLp9RCU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9M74TB-it Vans Herren Colorblock Tee T - Shirt Schwarz...'
 sku: 'B06W9M74TB-it'
 tags: [  ]

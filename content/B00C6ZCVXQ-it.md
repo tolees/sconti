@@ -5,7 +5,7 @@ date: 2020-08-12 17:29:10
 image: 'https://m.media-amazon.com/images/I/31ptnqAbmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C6ZCVXQ-it Apli 12115 Porta Porta Carte Polipropilene Rosso 160 Carte...'
 sku: 'B00C6ZCVXQ-it'
 tags: [  ]

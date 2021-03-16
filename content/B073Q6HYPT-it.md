@@ -5,7 +5,7 @@ date: 2020-09-02 07:08:32
 image: 'https://m.media-amazon.com/images/I/51Z49yrbt1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073Q6HYPT-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Blue...'
 sku: 'B073Q6HYPT-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 21:49:19
 image: 'https://m.media-amazon.com/images/I/51EuiHHyrqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002HXPA8-it Sigikid 49520 - Gioco di birilli con 6 figure di animali...'
 sku: 'B0002HXPA8-it'
 tags: [  ]

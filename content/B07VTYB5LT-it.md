@@ -5,7 +5,7 @@ date: 2020-09-02 13:01:26
 image: 'https://m.media-amazon.com/images/I/31dM7sQQoRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTYB5LT-it Lee Luke Pantaloni Blu Dark Marine 37 W30/L34 Taglia...'
 sku: 'B07VTYB5LT-it'
 tags: [  ]

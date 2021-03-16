@@ -5,7 +5,7 @@ date: 2020-08-02 08:26:49
 image: 'https://m.media-amazon.com/images/I/419GnxOrjeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBCLSVH-it Souke Sports Pantaloncini da Ciclismo da Uomo Bici Mutande...'
 sku: 'B07TBCLSVH-it'
 tags: [  ]

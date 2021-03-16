@@ -5,7 +5,7 @@ date: 2020-10-03 19:15:16
 image: 'https://m.media-amazon.com/images/I/41I5Vg7g1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K919BLJ-it POC Omne Air Spin Helmet Unisex – Adulto Zink Orange Avip...'
 sku: 'B07K919BLJ-it'
 tags: [  ]

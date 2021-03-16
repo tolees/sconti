@@ -5,7 +5,7 @@ date: 2020-10-08 10:09:14
 image: 'https://m.media-amazon.com/images/I/419mBbidUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSK31DX-it Geox D Ophira C Scarpe da Ginnastica Basse Donna Argento...'
 sku: 'B07SSK31DX-it'
 tags: [  ]

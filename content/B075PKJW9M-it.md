@@ -5,7 +5,7 @@ date: 2020-08-21 07:08:17
 image: 'https://m.media-amazon.com/images/I/31IHjVhZi9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075PKJW9M-it Havaianas Logo Metallic Infradito Donna Nero Black/Black...'
 sku: 'B075PKJW9M-it'
 tags: [  ]

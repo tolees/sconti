@@ -5,7 +5,7 @@ date: 2020-09-21 15:22:17
 image: 'https://m.media-amazon.com/images/I/414QUwyFqzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013IFPXVY-it Level Trend Suburban Line Guanto Uomo Nero 10'
 sku: 'B013IFPXVY-it'
 tags: [  ]

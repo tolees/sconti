@@ -5,7 +5,7 @@ date: 2020-08-28 18:27:56
 image: 'https://m.media-amazon.com/images/I/41-cBHTeVEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T6BXX6-it Tommy Hilfiger Essential TH Beach Sandal Infradito Uomo...'
 sku: 'B078T6BXX6-it'
 tags: [  ]

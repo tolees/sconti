@@ -5,7 +5,7 @@ date: 2020-10-02 08:31:41
 image: 'https://m.media-amazon.com/images/I/31cYrCeMjJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBXW3S9-it Philips BHC010/10 DryCare EssentialCare Asciugacapelli...'
 sku: 'B07PBXW3S9-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 17:28:11
 image: 'https://m.media-amazon.com/images/I/41qaIcIRkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0869FYWLL-it Gimdumasa Occhiali Da Computer Luce Blu Anti Filtro Blue...'
 sku: 'B0869FYWLL-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 19:14:56
 image: 'https://m.media-amazon.com/images/I/41AGPgRjGVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1WL24Y-it ALLPOWERS 45W Portable Power Bank 26800mAh PD USB C...'
 sku: 'B07T1WL24Y-it'
 tags: [  ]

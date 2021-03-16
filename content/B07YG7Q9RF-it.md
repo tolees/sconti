@@ -5,7 +5,7 @@ date: 2020-09-06 10:05:27
 image: 'https://m.media-amazon.com/images/I/51w6tRxgFVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YG7Q9RF-it Pillars of Eternity II: Deadfire Ultimate Collector s...'
 sku: 'B07YG7Q9RF-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 00:59:44
 image: 'https://m.media-amazon.com/images/I/316upk7s1nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C635HZZ-it JACK & JONES Jjebasic Knit Crew Neck Noos Felpa Blu Navy...'
 sku: 'B07C635HZZ-it'
 tags: [  ]

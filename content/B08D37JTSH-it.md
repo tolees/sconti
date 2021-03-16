@@ -5,7 +5,7 @@ date: 2020-08-18 16:19:39
 image: 'https://m.media-amazon.com/images/I/51mzNkXv6wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D37JTSH-it Cover Xiaomi Mi Note 10 Lite 360 Gradi Full Body Antiurto...'
 sku: 'B08D37JTSH-it'
 tags: [  ]

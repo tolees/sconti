@@ -5,7 +5,7 @@ date: 2020-09-03 08:47:58
 image: 'https://m.media-amazon.com/images/I/41LT8KcTOzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMHQW88-it Black+Decker BXPW2500DTS Idropulitrice ad Alta Pressione...'
 sku: 'B07SMHQW88-it'
 tags: [  ]

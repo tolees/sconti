@@ -5,7 +5,7 @@ date: 2020-09-29 06:51:58
 image: 'https://m.media-amazon.com/images/I/41pfLCIoWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPWWLMG-it United Colors of Benetton 2BA2535T5 Giacca Turchese...'
 sku: 'B07TPWWLMG-it'
 tags: [  ]

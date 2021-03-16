@@ -5,7 +5,7 @@ date: 2020-10-08 10:01:45
 image: 'https://m.media-amazon.com/images/I/41dL5hi7BcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TQP4L2-it adidas W SL Graph Tee Canottiera Sportiva Donna White L'
 sku: 'B081TQP4L2-it'
 tags: [  ]

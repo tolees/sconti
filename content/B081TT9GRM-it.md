@@ -5,7 +5,7 @@ date: 2020-09-10 19:40:53
 image: 'https://m.media-amazon.com/images/I/41OVjd7peiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TT9GRM-it adidas Cropped Hood'
 sku: 'B081TT9GRM-it'
 tags: [  ]

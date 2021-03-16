@@ -5,7 +5,7 @@ date: 2020-08-14 11:42:26
 image: 'https://m.media-amazon.com/images/I/41MfWnjJz6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3DNYG2-it BOMIZI Cover Xiaomi Mi 9T Mi9T PRO Custodia Trasparente...'
 sku: 'B08D3DNYG2-it'
 tags: [  ]

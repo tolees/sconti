@@ -5,7 +5,7 @@ date: 2020-08-18 10:57:16
 image: 'https://m.media-amazon.com/images/I/41YMbNjdQJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MF6VFCE-it New Balance 373 Core U Scarpe Trainers Uomo Nero Black...'
 sku: 'B01MF6VFCE-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-12 11:48:14
 image: 'https://m.media-amazon.com/images/I/51oeqBli15L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RJTX8G-it BRIKSMAX Kit di Illuminazione a LED per Lego Technic Land...'
 sku: 'B081RJTX8G-it'
 tags: [  ]

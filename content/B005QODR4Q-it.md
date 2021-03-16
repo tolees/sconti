@@ -5,7 +5,7 @@ date: 2020-09-14 07:00:29
 image: 'https://m.media-amazon.com/images/I/31JDwdKcvrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005QODR4Q-it Stefanplast Tom Contenitore salvafreschezza per Cibo per...'
 sku: 'B005QODR4Q-it'
 tags: [  ]

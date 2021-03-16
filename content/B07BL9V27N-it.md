@@ -5,7 +5,7 @@ date: 2020-10-02 15:32:41
 image: 'https://m.media-amazon.com/images/I/51o4vJ4KFKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL9V27N-it FRANCK PROVOST Expert Protection Cura professionale 230°C...'
 sku: 'B07BL9V27N-it'
 tags: [  ]

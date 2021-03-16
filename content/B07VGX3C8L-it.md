@@ -5,7 +5,7 @@ date: 2020-09-02 10:39:33
 image: 'https://m.media-amazon.com/images/I/311Z1fMVJVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGX3C8L-it Mellerware - Rider Lithium - Aspirapolvere Senza Fili...'
 sku: 'B07VGX3C8L-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 22:55:17
 image: 'https://m.media-amazon.com/images/I/41avfrO3HEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JGD6D6L-it Lasuki Supporto per Tablet Regolabile a 360° con Braccio...'
 sku: 'B08JGD6D6L-it'
 tags: [  ]

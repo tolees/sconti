@@ -5,7 +5,7 @@ date: 2020-08-09 19:07:46
 image: 'https://m.media-amazon.com/images/I/41o3NvI09uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KMB5XPS-it Pecute Spazzola Autopulente per Cani Gatti Conigli per...'
 sku: 'B01KMB5XPS-it'
 tags: [  ]

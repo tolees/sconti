@@ -5,7 +5,7 @@ date: 2020-08-24 04:12:12
 image: 'https://m.media-amazon.com/images/I/51fZ1GalHML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS229RC-it Giochi Preziosi - L.O.L Surprise! Glitter Globe Winter...'
 sku: 'B07RS229RC-it'
 tags: [  ]

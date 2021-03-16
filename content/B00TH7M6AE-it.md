@@ -5,7 +5,7 @@ date: 2020-08-04 01:00:35
 image: 'https://m.media-amazon.com/images/I/3151lBxmWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TH7M6AE-it I-Can 3900S Decoder digitale satellitare ad Alta...'
 sku: 'B00TH7M6AE-it'
 tags: [  ]

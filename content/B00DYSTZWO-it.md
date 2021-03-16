@@ -5,7 +5,7 @@ date: 2020-09-17 11:06:57
 image: 'https://m.media-amazon.com/images/I/31mMdmauivL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DYSTZWO-it Pentole Agnelli ALSC111BSSC36 Alblack Padella Svasata Alta...'
 sku: 'B00DYSTZWO-it'
 tags: [  ]

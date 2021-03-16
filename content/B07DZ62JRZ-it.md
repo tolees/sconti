@@ -5,7 +5,7 @@ date: 2020-08-20 13:23:08
 image: 'https://m.media-amazon.com/images/I/31ra3U628NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZ62JRZ-it HP - Gaming Omen 400 Mouse Gaming 6 Tasti Programmabili...'
 sku: 'B07DZ62JRZ-it'
 tags: [  ]

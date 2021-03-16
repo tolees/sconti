@@ -5,7 +5,7 @@ date: 2020-10-03 16:47:27
 image: 'https://m.media-amazon.com/images/I/31JukfLYPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVQQ16D-it Levi s The Perfect Tee T-Shirt Logo Serie Bok Choy XXS Donna'
 sku: 'B07ZVQQ16D-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 05:43:08
 image: 'https://m.media-amazon.com/images/I/41x5DCdd94L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002WGIY2G-it Superga 2750-cotu Classic Sneaker Uomo Grigio Full Grey...'
 sku: 'B002WGIY2G-it'
 tags: [  ]

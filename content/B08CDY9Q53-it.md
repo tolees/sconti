@@ -5,7 +5,7 @@ date: 2020-09-04 08:31:52
 image: 'https://m.media-amazon.com/images/I/51MUJs0GSaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDY9Q53-it Set Pittura ad Acquerello 36 Colori professionale...'
 sku: 'B08CDY9Q53-it'
 tags: [  ]

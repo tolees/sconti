@@ -5,7 +5,7 @@ date: 2020-08-16 19:54:14
 image: 'https://m.media-amazon.com/images/I/31cmvMSzJTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFKNR7C-it Adidas Grand Court Scarpe Sportive Mens Bianco Cloud...'
 sku: 'B07KFKNR7C-it'
 tags: [  ]

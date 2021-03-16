@@ -5,7 +5,7 @@ date: 2020-08-28 16:13:16
 image: 'https://m.media-amazon.com/images/I/41YVlTFwlIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G47NT1U-it Vero Moda - Maglietta Colletto Tondo Manica Corta Donna...'
 sku: 'B00G47NT1U-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 22:55:58
 image: 'https://m.media-amazon.com/images/I/41VO4P47J5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089QX6XDD-it HP - PC 15s-eq1015nl Notebook AMD Ryzen 3 RAM 8 GB SSD 128...'
 sku: 'B089QX6XDD-it'
 tags: [  ]

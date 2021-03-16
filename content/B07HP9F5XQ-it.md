@@ -5,7 +5,7 @@ date: 2020-10-10 06:29:43
 image: 'https://m.media-amazon.com/images/I/41icFjJxzEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP9F5XQ-it Skechers Men s STATUS 2.0- PEXTON Trainers Blue Navy NVY...'
 sku: 'B07HP9F5XQ-it'
 tags: [  ]

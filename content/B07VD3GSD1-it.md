@@ -5,7 +5,7 @@ date: 2020-09-01 09:02:21
 image: 'https://m.media-amazon.com/images/I/41-k7tLe3VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD3GSD1-it Calvin Klein Upscale Monogram Crew Neck Felpa Bianco...'
 sku: 'B07VD3GSD1-it'
 tags: [  ]

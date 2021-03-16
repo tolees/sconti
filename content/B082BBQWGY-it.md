@@ -5,7 +5,7 @@ date: 2020-09-17 09:43:30
 image: 'https://m.media-amazon.com/images/I/51+RD0nALhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BBQWGY-it Geographical Norway Pile da uomo RIAKOLO Blu navy XL'
 sku: 'B082BBQWGY-it'
 tags: [  ]

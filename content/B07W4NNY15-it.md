@@ -5,7 +5,7 @@ date: 2020-09-08 08:05:19
 image: 'https://m.media-amazon.com/images/I/41O+aTXT42L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4NNY15-it Tommy Hilfiger Rope Stripe Tee Camicia Sportiva Blu Desert...'
 sku: 'B07W4NNY15-it'
 tags: [  ]

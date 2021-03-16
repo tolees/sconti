@@ -5,7 +5,7 @@ date: 2020-08-19 13:23:10
 image: 'https://m.media-amazon.com/images/I/51O+97wZhSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0773V1LRK-it 72 Matite Colorate Numerato con Scatola in Metallo da...'
 sku: 'B0773V1LRK-it'
 tags: [  ]

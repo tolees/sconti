@@ -5,7 +5,7 @@ date: 2020-08-18 12:05:25
 image: 'https://m.media-amazon.com/images/I/41PJDLpWFNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BN1XGD6-it Vans Filmore Scarpe da Ginnastica Uomo Suede Canvas Dress...'
 sku: 'B07BN1XGD6-it'
 tags: [  ]

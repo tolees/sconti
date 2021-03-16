@@ -5,7 +5,7 @@ date: 2020-08-28 17:30:21
 image: 'https://m.media-amazon.com/images/I/31et6v8dNCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M841QNF-it Powerbank ALLPOWERS 24000mAh Batteria Esterna Portatile...'
 sku: 'B07M841QNF-it'
 tags: [  ]

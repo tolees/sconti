@@ -5,7 +5,7 @@ date: 2020-10-02 20:11:14
 image: 'https://m.media-amazon.com/images/I/41RzYFDZv3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GP45TMZ-it Cuffie Wireless TV con Trasmissione Senza Fili Cuffia con...'
 sku: 'B08GP45TMZ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 09:43:34
 image: 'https://m.media-amazon.com/images/I/51TsIwG5SDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9BJ8YX-it ACE Wc Gel Disincrostante 2 Confezioni da 700 ml'
 sku: 'B06X9BJ8YX-it'
 tags: [  ]

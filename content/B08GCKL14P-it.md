@@ -5,7 +5,7 @@ date: 2020-09-13 01:57:31
 image: 'https://m.media-amazon.com/images/I/414Ooe9BtfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GCKL14P-it HNOOM Supporto Telefono Supporto Tablet da Tavolo Supporto...'
 sku: 'B08GCKL14P-it'
 tags: [  ]

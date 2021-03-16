@@ -5,7 +5,7 @@ date: 2020-07-31 15:08:20
 image: 'https://m.media-amazon.com/images/I/41Xe92pM03L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVQN53P-it Wrangler SS Logo Tee T-Shirt Rosso Formula Red XWO X-Large...'
 sku: 'B07TVQN53P-it'
 tags: [  ]

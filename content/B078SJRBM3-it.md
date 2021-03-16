@@ -5,7 +5,7 @@ date: 2020-08-29 11:00:47
 image: 'https://m.media-amazon.com/images/I/41rP1peLO2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SJRBM3-it Santa Teresa 1796 Rum Ambrato Scuro 700 ml'
 sku: 'B078SJRBM3-it'
 tags: [  ]

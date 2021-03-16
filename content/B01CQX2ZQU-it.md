@@ -5,7 +5,7 @@ date: 2020-08-05 22:06:57
 image: 'https://m.media-amazon.com/images/I/41m1Le8c9xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQX2ZQU-it Moulinex OX4448 Optimo Forno Elettrico con Capacità di 19...'
 sku: 'B01CQX2ZQU-it'
 tags: [  ]

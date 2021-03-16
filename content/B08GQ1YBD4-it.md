@@ -5,7 +5,7 @@ date: 2020-09-14 02:24:16
 image: 'https://m.media-amazon.com/images/I/41nraYqZt-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GQ1YBD4-it QHOHQ Cover per Samsung Galaxy M31S con 2 Pezzi Pellicola...'
 sku: 'B08GQ1YBD4-it'
 tags: [  ]

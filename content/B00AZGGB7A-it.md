@@ -5,7 +5,7 @@ date: 2020-09-18 16:21:17
 image: 'https://m.media-amazon.com/images/I/41uH-dI0mSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AZGGB7A-it SMIFFYS Maschera da gorilla nero con capelli schiuma di...'
 sku: 'B00AZGGB7A-it'
 tags: [  ]

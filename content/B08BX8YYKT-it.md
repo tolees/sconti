@@ -5,7 +5,7 @@ date: 2020-09-01 15:32:49
 image: 'https://m.media-amazon.com/images/I/31TARUnStSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BX8YYKT-it Microsoft Surface GO 2 8Gb RAM - 128Gb SSD Dual-Core Intel...'
 sku: 'B08BX8YYKT-it'
 tags: [  ]

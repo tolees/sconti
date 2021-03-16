@@ -5,7 +5,7 @@ date: 2020-09-22 20:27:17
 image: 'https://m.media-amazon.com/images/I/61c0ZdpUdWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N53WHHU-it Animali Fantastici E Dove Trovarli 4K + Br + Dig.Copy'
 sku: 'B01N53WHHU-it'
 tags: [  ]

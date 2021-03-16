@@ -5,7 +5,7 @@ date: 2020-07-29 05:28:55
 image: 'https://m.media-amazon.com/images/I/31jFteJvLxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJCCBN3-it Calvin Klein Core Institutional Logo Slim Tee Maglietta...'
 sku: 'B07DJCCBN3-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 21:49:13
 image: 'https://m.media-amazon.com/images/I/517A+dzuGwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012PKOBIE-it Lexar 64GB 3500x Pro CFast Compact Flash Card -...'
 sku: 'B012PKOBIE-it'
 tags: [  ]

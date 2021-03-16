@@ -5,7 +5,7 @@ date: 2020-09-27 19:32:21
 image: 'https://m.media-amazon.com/images/I/41tZJdExv6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYFEM9T-it Tommy Hilfiger 3p Brief Slip-pacco da 3 Multicolore...'
 sku: 'B01MYFEM9T-it'
 tags: [  ]

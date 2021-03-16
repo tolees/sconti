@@ -5,7 +5,7 @@ date: 2020-10-01 06:29:47
 image: 'https://m.media-amazon.com/images/I/41py1bo92aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EAACFQM-it Miele XXL-Pack FJM HyClean 3D Sacchetto per Aspirapolvere'
 sku: 'B01EAACFQM-it'
 tags: [  ]

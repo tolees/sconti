@@ -5,7 +5,7 @@ date: 2020-08-22 07:42:32
 image: 'https://m.media-amazon.com/images/I/512bApbwyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPSMWCH-it 4D Silk Fiber Eyelash Mascara Mascara Waterproof Mascara...'
 sku: 'B07PPSMWCH-it'
 tags: [  ]

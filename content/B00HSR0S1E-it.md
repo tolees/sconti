@@ -5,7 +5,7 @@ date: 2020-09-08 13:01:18
 image: 'https://m.media-amazon.com/images/I/41nOFZT50EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HSR0S1E-it BURBERRY Brit Rhythm for Her Eau de Toilette Femme 90 ml...'
 sku: 'B00HSR0S1E-it'
 tags: [  ]

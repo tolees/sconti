@@ -5,7 +5,7 @@ date: 2020-08-08 13:34:10
 image: 'https://m.media-amazon.com/images/I/51BrvKiGreL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCFBPYJ-it Zaino Mamma Multifunzione neonato Fasciatoio Bambino...'
 sku: 'B07YCFBPYJ-it'
 tags: [  ]

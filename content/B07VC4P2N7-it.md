@@ -5,7 +5,7 @@ date: 2020-07-19 10:04:19
 image: 'https://m.media-amazon.com/images/I/31DFMrHBcZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC4P2N7-it Calvin Klein 35mm Essential Belt Cintura Nero Black BAX 8...'
 sku: 'B07VC4P2N7-it'
 tags: [  ]

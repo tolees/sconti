@@ -5,7 +5,7 @@ date: 2020-09-28 06:33:41
 image: 'https://m.media-amazon.com/images/I/41v5au-aeFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BS97UUA-it Philips HD9240/90 Airfryer XL Friggitrice Low-Oil e...'
 sku: 'B00BS97UUA-it'
 tags: [  ]

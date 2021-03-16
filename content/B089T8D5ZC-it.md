@@ -5,7 +5,7 @@ date: 2020-08-27 06:05:20
 image: 'https://m.media-amazon.com/images/I/31k9TnhdjUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089T8D5ZC-it Maremma Toscana Vermentino DOC Campo al Faro 2019 0 75 L'
 sku: 'B089T8D5ZC-it'
 tags: [  ]

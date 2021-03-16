@@ -5,7 +5,7 @@ date: 2020-08-30 06:53:35
 image: 'https://m.media-amazon.com/images/I/31iAbDOz1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MPJSTT-it PUMA ST Runner v2 NL Scarpe da Ginnastica Unisex-Adulto...'
 sku: 'B077MPJSTT-it'
 tags: [  ]

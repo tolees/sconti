@@ -5,7 +5,7 @@ date: 2020-09-03 13:31:20
 image: 'https://m.media-amazon.com/images/I/41SWWVLFcqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015EFQX42-it LEONE 1947 Flash Guantoni Nero 12 Oz'
 sku: 'B015EFQX42-it'
 tags: [  ]

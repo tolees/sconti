@@ -5,7 +5,7 @@ date: 2020-09-22 06:03:21
 image: 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQXQY86-it Under Armour Sportstyle Terry Logo Felpa Uomo Nero SM'
 sku: 'B07MQXQY86-it'
 tags: [  ]

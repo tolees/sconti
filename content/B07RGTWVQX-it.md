@@ -5,7 +5,7 @@ date: 2020-09-20 17:09:52
 image: 'https://m.media-amazon.com/images/I/41xkexEf9pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGTWVQX-it New Balance 410v6 Trail Scarpe Sportive Indoor Uomo Nero...'
 sku: 'B07RGTWVQX-it'
 tags: [  ]

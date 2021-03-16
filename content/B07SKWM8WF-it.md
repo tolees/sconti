@@ -5,7 +5,7 @@ date: 2020-08-04 07:49:20
 image: 'https://m.media-amazon.com/images/I/31N7BQpFJAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKWM8WF-it Havaianas Top Nautical Infradito Uomo Multicolore Navy...'
 sku: 'B07SKWM8WF-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-10 13:08:49
 image: 'https://m.media-amazon.com/images/I/51ankox4nyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGR4QPH-it Whiskas Selezione in Salsa 84 Buste da 100 gr al Gusto di...'
 sku: 'B07HGR4QPH-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-17 17:18:23
 image: 'https://m.media-amazon.com/images/I/41MS3yvobOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN8DQNT-it Funko POP! Games: Laguna POP 2'
 sku: 'B07RN8DQNT-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 06:07:29
 image: 'https://m.media-amazon.com/images/I/412ib4EwZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTG86Y2-it Levi s Levis 168sf Mid Cut 3p Calze Blu Navy 321 43/46...'
 sku: 'B07VTG86Y2-it'
 tags: [  ]

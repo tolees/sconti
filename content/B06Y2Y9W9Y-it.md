@@ -5,7 +5,7 @@ date: 2020-08-27 08:32:59
 image: 'https://m.media-amazon.com/images/I/41vmanq4rNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2Y9W9Y-it New Balance 574v2 Core Scarpe da Ginnastica Unisex-Adulto...'
 sku: 'B06Y2Y9W9Y-it'
 tags: [  ]

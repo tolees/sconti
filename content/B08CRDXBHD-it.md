@@ -5,7 +5,7 @@ date: 2020-08-18 10:31:02
 image: 'https://m.media-amazon.com/images/I/41yqOdMkn-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRDXBHD-it Cuffie senza fili per TV con stazione di ricarica digitale...'
 sku: 'B08CRDXBHD-it'
 tags: [  ]

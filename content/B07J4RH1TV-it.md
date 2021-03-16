@@ -5,7 +5,7 @@ date: 2020-09-03 10:52:28
 image: 'https://m.media-amazon.com/images/I/51MLM9KFuuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4RH1TV-it Optimum Nutrition 100% Plant Gold Standard senza Gluten...'
 sku: 'B07J4RH1TV-it'
 tags: [  ]

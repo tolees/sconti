@@ -5,7 +5,7 @@ date: 2020-07-29 15:26:05
 image: 'https://m.media-amazon.com/images/I/41L1bsh+6AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KKFCLF2-it SONGMICS 2 x Sgabelli da Bar e da Cucina in Similpelle...'
 sku: 'B00KKFCLF2-it'
 tags: [  ]

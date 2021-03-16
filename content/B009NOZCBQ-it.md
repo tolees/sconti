@@ -5,7 +5,7 @@ date: 2020-10-04 12:56:17
 image: 'https://m.media-amazon.com/images/I/41g7cPS1sPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009NOZCBQ-it Craghoppers Kiwi Pro Action Pantaloni Uomo Nero 56 EU 40...'
 sku: 'B009NOZCBQ-it'
 tags: [  ]

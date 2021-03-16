@@ -5,7 +5,7 @@ date: 2020-08-07 07:52:22
 image: 'https://m.media-amazon.com/images/I/4123CNj5xJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779H7YTF-it Kappa Taino Authentic - Felpa da Uomo con Cappuccio Stile...'
 sku: 'B0779H7YTF-it'
 tags: [  ]

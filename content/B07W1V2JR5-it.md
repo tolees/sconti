@@ -5,7 +5,7 @@ date: 2020-08-26 13:20:09
 image: 'https://m.media-amazon.com/images/I/5107-3YZqjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1V2JR5-it Concrete Genie - PlayStation 4'
 sku: 'B07W1V2JR5-it'
 tags: [  ]

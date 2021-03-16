@@ -5,7 +5,7 @@ date: 2020-09-26 19:21:26
 image: 'https://m.media-amazon.com/images/I/415oIh6x89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FHSSV53-it YUES Controller Wireless per Nintendo Switch Pro/Lite...'
 sku: 'B08FHSSV53-it'
 tags: [  ]

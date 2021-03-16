@@ -5,7 +5,7 @@ date: 2020-07-31 08:16:55
 image: 'https://m.media-amazon.com/images/I/413gX14RmrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVB69PS-it adidas Superstar J Scarpe da Ginnastica Basse Unisex -...'
 sku: 'B07VVB69PS-it'
 tags: [  ]

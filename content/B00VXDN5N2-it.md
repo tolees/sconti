@@ -5,7 +5,7 @@ date: 2020-09-03 12:06:41
 image: 'https://m.media-amazon.com/images/I/51Wz5oA+GwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VXDN5N2-it NATURANDO ENERGIA FORTE PLUS 40 PERLE Integratore...'
 sku: 'B00VXDN5N2-it'
 tags: [  ]

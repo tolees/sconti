@@ -5,7 +5,7 @@ date: 2020-08-04 19:20:20
 image: 'https://m.media-amazon.com/images/I/51SLuKwEoeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ST8LWT-it TACKLIFE Sega Circolare Compatta 6 Lame 120 mm e 115 mm...'
 sku: 'B084ST8LWT-it'
 tags: [  ]

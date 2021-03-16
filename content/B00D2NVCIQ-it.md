@@ -5,7 +5,7 @@ date: 2020-09-03 15:24:05
 image: 'https://m.media-amazon.com/images/I/41dL+rdjgiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D2NVCIQ-it Panasonic KX-TG6811JTB Telefono Cordless DECT Schermo LCD...'
 sku: 'B00D2NVCIQ-it'
 tags: [  ]

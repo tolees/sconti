@@ -5,7 +5,7 @@ date: 2020-09-07 16:16:22
 image: 'https://m.media-amazon.com/images/I/41vRb0pyPIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZWXDYQ-it Purificatore d Aria Portatile con Filtro HEPA USB Desktop...'
 sku: 'B07WZWXDYQ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 15:21:05
 image: 'https://m.media-amazon.com/images/I/51Ck55R2z-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC3L19M-it LEGO Overwatch - Osservatorio: Gibilterra 75975'
 sku: 'B07JC3L19M-it'
 tags: [  ]

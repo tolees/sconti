@@ -5,7 +5,7 @@ date: 2020-08-26 13:20:25
 image: 'https://m.media-amazon.com/images/I/51KL9mt7sdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8VVRLK-it Just Dance 2020 - PlayStation 4'
 sku: 'B07V8VVRLK-it'
 tags: [  ]

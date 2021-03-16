@@ -5,7 +5,7 @@ date: 2020-10-11 06:47:41
 image: 'https://m.media-amazon.com/images/I/41QsPnEmTRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC8CBW9-it Puma Studio Yogini Lux Tight Leggins Donna Medium Gray...'
 sku: 'B07QC8CBW9-it'
 tags: [  ]

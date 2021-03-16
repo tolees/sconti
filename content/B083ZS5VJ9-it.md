@@ -5,7 +5,7 @@ date: 2020-08-12 16:46:46
 image: 'https://m.media-amazon.com/images/I/31r-dovkUoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZS5VJ9-it JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini...'
 sku: 'B083ZS5VJ9-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 14:04:41
 image: 'https://m.media-amazon.com/images/I/31WUUoxcNKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073HBNC2D-it Maybelline New York Superstay Matte Ink Rossetto Matte...'
 sku: 'B073HBNC2D-it'
 tags: [  ]

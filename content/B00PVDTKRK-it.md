@@ -5,7 +5,7 @@ date: 2020-09-29 06:18:08
 image: 'https://m.media-amazon.com/images/I/41u2TQaF-ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PVDTKRK-it D-Link DIR-809 Router Wireless Tecnologia AC750 4 Porte...'
 sku: 'B00PVDTKRK-it'
 tags: [  ]

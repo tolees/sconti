@@ -5,7 +5,7 @@ date: 2020-09-30 16:15:15
 image: 'https://m.media-amazon.com/images/I/4169c8djiwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5X3VS8-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa Verde...'
 sku: 'B07C5X3VS8-it'
 tags: [  ]

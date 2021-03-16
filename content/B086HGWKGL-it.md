@@ -5,7 +5,7 @@ date: 2020-10-10 07:15:00
 image: 'https://m.media-amazon.com/images/I/41gRwT9En+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086HGWKGL-it HP - Gaming OMEN 15-dh0052nl Notebook Intel Core i7-9750H...'
 sku: 'B086HGWKGL-it'
 tags: [  ]

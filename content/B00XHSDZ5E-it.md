@@ -5,7 +5,7 @@ date: 2020-10-07 15:23:34
 image: 'https://m.media-amazon.com/images/I/41tCAvFqgzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XHSDZ5E-it Det. Liquido Yogurt Aloe 300 Ml'
 sku: 'B00XHSDZ5E-it'
 tags: [  ]

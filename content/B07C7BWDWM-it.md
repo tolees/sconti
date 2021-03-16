@@ -5,7 +5,7 @@ date: 2020-07-22 10:28:01
 image: 'https://m.media-amazon.com/images/I/41fQ0LozceL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C7BWDWM-it HP Sprocket Z3Z92A Stampante Fotografica Istantanea...'
 sku: 'B07C7BWDWM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 12:28:33
 image: 'https://m.media-amazon.com/images/I/41hUtN89CVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793DGSR5-it Saucony Jazz Original Vintage Sneakers Uomo Blu Nvy Gld 22...'
 sku: 'B0793DGSR5-it'
 tags: [  ]

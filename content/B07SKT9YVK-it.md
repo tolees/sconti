@@ -5,7 +5,7 @@ date: 2020-08-24 22:41:23
 image: 'https://m.media-amazon.com/images/I/41Fo+6XM2bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKT9YVK-it YAMAY Smartwatch Orologio Fitness Uomo Donna Impermeabile...'
 sku: 'B07SKT9YVK-it'
 tags: [  ]

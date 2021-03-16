@@ -5,7 +5,7 @@ date: 2020-08-14 18:07:48
 image: 'https://m.media-amazon.com/images/I/41-HFGCrDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085FJNGLK-it realme 6i EU Smartphone 4 GB + 128 GB Bianco White Milk'
 sku: 'B085FJNGLK-it'
 tags: [  ]

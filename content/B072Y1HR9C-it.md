@@ -5,7 +5,7 @@ date: 2020-09-21 15:28:59
 image: 'https://m.media-amazon.com/images/I/41QvChjub9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072Y1HR9C-it Level Guanto Suburban Uomo Verde 9.5-XL'
 sku: 'B072Y1HR9C-it'
 tags: [  ]

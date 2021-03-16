@@ -5,7 +5,7 @@ date: 2020-08-11 10:10:14
 image: 'https://m.media-amazon.com/images/I/51xtFNXhbhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MX34V9B-it Far Cry New Dawn - Xbox One'
 sku: 'B07MX34V9B-it'
 tags: [  ]

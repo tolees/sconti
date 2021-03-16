@@ -5,7 +5,7 @@ date: 2020-08-07 14:52:17
 image: 'https://m.media-amazon.com/images/I/51DTpZEcoAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08532TMZS-it AVIWIS Multi Cavo di Ricarica 3 in 1 Cavo USB Multiplo...'
 sku: 'B08532TMZS-it'
 tags: [  ]

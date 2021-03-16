@@ -5,7 +5,7 @@ date: 2020-09-28 09:03:46
 image: 'https://m.media-amazon.com/images/I/317PzBaxVdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWFXY5Z-it find. Hiking Style Sneaker a Collo Alto Nero Black 41 EU'
 sku: 'B07DWFXY5Z-it'
 tags: [  ]

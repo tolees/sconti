@@ -5,7 +5,7 @@ date: 2020-10-02 08:05:15
 image: 'https://m.media-amazon.com/images/I/41fvsOIAERL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3P47PP-it etguuds Cavo USB C Corto [ 30cm/0.3m 2Pezzi ] Ricarica...'
 sku: 'B08B3P47PP-it'
 tags: [  ]

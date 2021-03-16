@@ -5,7 +5,7 @@ date: 2020-09-07 00:52:07
 image: 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077M97VSW-it PUMA Smash Wns v2 L Scarpe da Ginnastica Donna Bianca...'
 sku: 'B077M97VSW-it'
 tags: [  ]

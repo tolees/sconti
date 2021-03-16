@@ -5,7 +5,7 @@ date: 2020-10-10 09:55:40
 image: 'https://m.media-amazon.com/images/I/51XFzZJgzdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07639RBVJ-it Swiffer Panni di Ricambio per Scopa Maxi Formato da 120...'
 sku: 'B07639RBVJ-it'
 tags: [  ]

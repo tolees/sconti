@@ -5,7 +5,7 @@ date: 2020-08-25 06:19:05
 image: 'https://m.media-amazon.com/images/I/31udnIDVprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KRG9D4-it Südtirol - Alto Adige Valle Isarco DOC Riesling Adler von...'
 sku: 'B088KRG9D4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-20 12:21:21
 image: 'https://m.media-amazon.com/images/I/41M+2xWUUUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGFSVCJ-it Superdry Uomo Giubbotto Ripiegabile Offshore True Red L'
 sku: 'B07SGFSVCJ-it'
 tags: [  ]

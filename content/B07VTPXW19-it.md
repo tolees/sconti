@@ -5,7 +5,7 @@ date: 2020-10-07 08:09:55
 image: 'https://m.media-amazon.com/images/I/416IAoWR8eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTPXW19-it Lacoste L1212 Polo ALIZARINE S Uomo'
 sku: 'B07VTPXW19-it'
 tags: [  ]

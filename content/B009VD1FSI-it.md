@@ -5,7 +5,7 @@ date: 2020-08-10 15:22:55
 image: 'https://m.media-amazon.com/images/I/41aL0sHFFQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009VD1FSI-it Intex 68579 Sedia gonfiabile Grigio 107 x 104 x 69 cm Vinile'
 sku: 'B009VD1FSI-it'
 tags: [  ]

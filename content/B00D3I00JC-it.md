@@ -5,7 +5,7 @@ date: 2020-10-05 15:20:09
 image: 'https://m.media-amazon.com/images/I/41rsZSRirrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3I00JC-it Narhinel Aspiratore Nasale e Ricambi Soft - 70 Gr'
 sku: 'B00D3I00JC-it'
 tags: [  ]

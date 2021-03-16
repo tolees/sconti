@@ -5,7 +5,7 @@ date: 2020-07-20 10:32:34
 image: 'https://m.media-amazon.com/images/I/31rQhQ+O+7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVZ47WQ-it Lagostina Ingenio Essential Batteria di Pentole 10 Pezzi...'
 sku: 'B07ZVZ47WQ-it'
 tags: [  ]

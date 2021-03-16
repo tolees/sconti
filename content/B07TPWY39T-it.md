@@ -5,7 +5,7 @@ date: 2020-09-29 09:20:34
 image: 'https://m.media-amazon.com/images/I/41s1MS7b3tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPWY39T-it United Colors of Benetton 2GK653EH8 Cappotto Nero Nero 100...'
 sku: 'B07TPWY39T-it'
 tags: [  ]

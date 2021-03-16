@@ -5,7 +5,7 @@ date: 2020-10-03 19:14:10
 image: 'https://m.media-amazon.com/images/I/31CJKT1IZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0759Y8GVH-it K19 USB Tipo C Cavo 5A 1 8m Lungo Typ C Cavo di Ricarica...'
 sku: 'B0759Y8GVH-it'
 tags: [  ]

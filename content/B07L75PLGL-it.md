@@ -5,7 +5,7 @@ date: 2020-08-27 16:44:47
 image: 'https://m.media-amazon.com/images/I/31exMw7z+HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L75PLGL-it GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina...'
 sku: 'B07L75PLGL-it'
 tags: [  ]

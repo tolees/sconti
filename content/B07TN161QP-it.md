@@ -5,7 +5,7 @@ date: 2020-07-24 07:45:15
 image: 'https://m.media-amazon.com/images/I/41GhiwXE+jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TN161QP-it Binocolo 10x22 Kktick Compatto e Portabile Telescopio...'
 sku: 'B07TN161QP-it'
 tags: [  ]

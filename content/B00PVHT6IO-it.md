@@ -5,7 +5,7 @@ date: 2020-08-28 11:39:33
 image: 'https://m.media-amazon.com/images/I/41I0OZOvMeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PVHT6IO-it Burberry - Eau de Toilette Volume: 90 ml'
 sku: 'B00PVHT6IO-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 18:01:37
 image: 'https://m.media-amazon.com/images/I/31kU7Qfm2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLY1LK-it Geox D PONTOISE D Scarpe da Ginnastica Basse Donna Bianco...'
 sku: 'B07STLY1LK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 16:38:45
 image: 'https://m.media-amazon.com/images/I/51TCwfiZKGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BRRHC7-it Lampade Solari a Led da Esterno AOPAWA 210 LED【Ultima...'
 sku: 'B085BRRHC7-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 06:58:11
 image: 'https://m.media-amazon.com/images/I/41QUq2Rh7KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083RFLG8C-it Telami - Sedia Tripolina - Collezione Ducale - Pieghevole...'
 sku: 'B083RFLG8C-it'
 tags: [  ]

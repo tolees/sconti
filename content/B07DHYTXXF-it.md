@@ -5,7 +5,7 @@ date: 2020-09-16 11:03:06
 image: 'https://m.media-amazon.com/images/I/31ax-y6mJQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHYTXXF-it Lacoste Lerond 119 Scarpe da Ginnastica Basse Uomo Bianco...'
 sku: 'B07DHYTXXF-it'
 tags: [  ]

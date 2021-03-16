@@ -5,7 +5,7 @@ date: 2020-09-03 13:04:27
 image: 'https://m.media-amazon.com/images/I/41umqZgZbdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SHT12R-it Yankee Candle candela profumata in giara media Un luogo...'
 sku: 'B077SHT12R-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 08:10:22
 image: 'https://m.media-amazon.com/images/I/51cAyKIWvCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHF66L7-it Gillette Fusion ProGlide Styler Rasoio Regolabarba 3 in 1...'
 sku: 'B07WHF66L7-it'
 tags: [  ]

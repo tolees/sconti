@@ -5,7 +5,7 @@ date: 2020-08-16 13:30:12
 image: 'https://m.media-amazon.com/images/I/31dMdT0U19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2DBL1W-it Timberland Los Angeles Wind Slingbac Sandali Donna Marrone...'
 sku: 'B07F2DBL1W-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-06 08:32:02
 image: 'https://m.media-amazon.com/images/I/51ZzVx-PWrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP8TC24-it Oral-B Kids Spazzolino Elettrico Ricaricabile 1 Manico con...'
 sku: 'B07RP8TC24-it'
 tags: [  ]

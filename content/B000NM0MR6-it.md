@@ -5,7 +5,7 @@ date: 2020-08-25 15:56:00
 image: 'https://m.media-amazon.com/images/I/51wjdeIS0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NM0MR6-it Casio Orologio Analogico al Quarzo Donna con Cinturino in...'
 sku: 'B000NM0MR6-it'
 tags: [  ]

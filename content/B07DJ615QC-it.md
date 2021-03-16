@@ -5,7 +5,7 @@ date: 2020-08-25 12:05:36
 image: 'https://m.media-amazon.com/images/I/41wUeCZX5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ615QC-it New Balance 500 Scarpe Sportive Uomo Bianco Munsell...'
 sku: 'B07DJ615QC-it'
 tags: [  ]

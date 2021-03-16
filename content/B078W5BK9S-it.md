@@ -5,7 +5,7 @@ date: 2020-09-03 10:31:52
 image: 'https://m.media-amazon.com/images/I/51c9dDBpAwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078W5BK9S-it Vano portaoggetti secondario da bracciolo per auto colore...'
 sku: 'B078W5BK9S-it'
 tags: [  ]

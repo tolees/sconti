@@ -5,7 +5,7 @@ date: 2020-08-29 08:38:06
 image: 'https://m.media-amazon.com/images/I/41qVSBW8l9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y7T9KY-it HIKARO T-Shirt con Logo Uomo Nero Black 52 Taglia...'
 sku: 'B077Y7T9KY-it'
 tags: [  ]

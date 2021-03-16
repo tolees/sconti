@@ -5,7 +5,7 @@ date: 2020-09-18 06:00:47
 image: 'https://m.media-amazon.com/images/I/41LsX2VukoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3B9QPP-it homcom Carrello per Bicicletta Rimorchio Cargo Bici...'
 sku: 'B07K3B9QPP-it'
 tags: [  ]

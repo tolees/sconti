@@ -5,7 +5,7 @@ date: 2020-08-29 06:43:12
 image: 'https://m.media-amazon.com/images/I/51esaM0-TmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYP4ZHZ-it Crema Termogenica Anticellulite Vovees Reducto Lipocream -...'
 sku: 'B07FYP4ZHZ-it'
 tags: [  ]

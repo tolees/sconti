@@ -5,7 +5,7 @@ date: 2020-10-03 20:42:24
 image: 'https://m.media-amazon.com/images/I/417r9k5oUcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZCVCZN-it Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta...'
 sku: 'B073ZCVCZN-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-06 13:50:44
 image: 'https://m.media-amazon.com/images/I/41w+WPi2i4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZQ33WV-it Pistola Colla a Caldo 60W Wiecok Pistola Incollatrice con...'
 sku: 'B086ZQ33WV-it'
 tags: [  ]

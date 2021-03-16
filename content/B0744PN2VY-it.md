@@ -5,7 +5,7 @@ date: 2020-09-21 07:41:29
 image: 'https://m.media-amazon.com/images/I/41KKsYfYVaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0744PN2VY-it Ardes AR6230B Forno Elettrico Ventilato Gustavo Black 30...'
 sku: 'B0744PN2VY-it'
 tags: [  ]

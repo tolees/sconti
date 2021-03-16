@@ -5,7 +5,7 @@ date: 2020-08-05 06:11:01
 image: 'https://m.media-amazon.com/images/I/517uIMkXTCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088B4BXYT-it Dittzz Technic Fuoristrada Set di Costruzioni 1:10 2 4Ghz...'
 sku: 'B088B4BXYT-it'
 tags: [  ]

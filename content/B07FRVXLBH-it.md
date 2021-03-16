@@ -5,7 +5,7 @@ date: 2020-08-02 14:38:45
 image: 'https://m.media-amazon.com/images/I/41YFLErnoVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FRVXLBH-it VEESUN Zaino Porta PC 15.6 Pollici Zaino Computer...'
 sku: 'B07FRVXLBH-it'
 tags: [  ]

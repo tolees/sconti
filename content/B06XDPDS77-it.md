@@ -5,7 +5,7 @@ date: 2020-09-25 17:59:02
 image: 'https://m.media-amazon.com/images/I/41nKDJDAYjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDPDS77-it Samsung WW80K5210VW Lavatrice Slim 8 kg AddWash Profondità...'
 sku: 'B06XDPDS77-it'
 tags: [  ]

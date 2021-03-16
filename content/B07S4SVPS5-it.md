@@ -5,7 +5,7 @@ date: 2020-08-10 14:57:43
 image: 'https://m.media-amazon.com/images/I/41lV4mrOrhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4SVPS5-it New Balance 997h Sneaker Uomo Rosso Red Hbs 42 EU'
 sku: 'B07S4SVPS5-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 06:49:35
 image: 'https://m.media-amazon.com/images/I/41tVnYcFC0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TMKTXJ-it Wellue FSC20C - Pulsossimetro da Dito - Saturimetro -...'
 sku: 'B087TMKTXJ-it'
 tags: [  ]

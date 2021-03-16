@@ -5,7 +5,7 @@ date: 2020-09-24 08:10:34
 image: 'https://m.media-amazon.com/images/I/51KIsu9SdVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYN0BHB-it Samsonite Success Portamonete 100% Pelle 10 cm Nero'
 sku: 'B01MYN0BHB-it'
 tags: [  ]

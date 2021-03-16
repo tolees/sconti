@@ -5,7 +5,7 @@ date: 2020-09-28 12:20:03
 image: 'https://m.media-amazon.com/images/I/41Wz7q0rBYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJSF4FG-it Desigual - Borsa da donna Bols Logo Patch Merlo con manico...'
 sku: 'B07VJSF4FG-it'
 tags: [  ]

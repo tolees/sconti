@@ -5,7 +5,7 @@ date: 2020-08-01 13:43:48
 image: 'https://m.media-amazon.com/images/I/31MJuV6AriL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HLKLMM-it Vape Piastrine Verdessenza Protezione contro le Zanzare...'
 sku: 'B072HLKLMM-it'
 tags: [  ]

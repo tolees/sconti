@@ -5,7 +5,7 @@ date: 2020-08-05 12:53:19
 image: 'https://m.media-amazon.com/images/I/5138iwaJrtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079XF3DGJ-it Colgate Dentifricio Protezione Carie - 6 pezzi da 75 ml'
 sku: 'B079XF3DGJ-it'
 tags: [  ]

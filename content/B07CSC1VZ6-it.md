@@ -5,7 +5,7 @@ date: 2020-07-22 12:05:58
 image: 'https://m.media-amazon.com/images/I/41rmMsWnyoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSC1VZ6-it Swiffer Sweeper - Salviette asciutte/umide kit di avvio...'
 sku: 'B07CSC1VZ6-it'
 tags: [  ]

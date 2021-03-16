@@ -5,7 +5,7 @@ date: 2020-08-06 17:27:43
 image: 'https://m.media-amazon.com/images/I/41Eui+kKjVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXL1BTV-it Levi s Sunset 1 Pkt Slim Camicia Blu Alfonso Indigo 0006...'
 sku: 'B07RXL1BTV-it'
 tags: [  ]

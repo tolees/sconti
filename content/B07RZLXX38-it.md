@@ -5,7 +5,7 @@ date: 2020-08-29 14:36:53
 image: 'https://m.media-amazon.com/images/I/41-HaHfchzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLXX38-it New Balance 373 Core Sneaker Uomo Blu Navy/White Cc2'
 sku: 'B07RZLXX38-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 19:51:28
 image: 'https://m.media-amazon.com/images/I/41JTYXjheYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1MOJG5-it Reebok Club C 85 Sneaker Uomo Nero Int/Black/Charcoal 47 EU'
 sku: 'B01N1MOJG5-it'
 tags: [  ]

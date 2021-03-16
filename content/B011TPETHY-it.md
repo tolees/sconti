@@ -5,7 +5,7 @@ date: 2020-10-02 06:06:32
 image: 'https://m.media-amazon.com/images/I/41yYbWUNlIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011TPETHY-it Outsunny HOMCOM Cavalletto Supporto Manutenzione per...'
 sku: 'B011TPETHY-it'
 tags: [  ]

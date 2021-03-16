@@ -5,7 +5,7 @@ date: 2020-09-10 06:32:41
 image: 'https://m.media-amazon.com/images/I/41ErJSrwJOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QP9C8F-it Pritt Colla Stick 5 x 11g colla per bambini sicura e...'
 sku: 'B076QP9C8F-it'
 tags: [  ]

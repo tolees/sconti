@@ -5,7 +5,7 @@ date: 2020-10-12 07:01:27
 image: 'https://m.media-amazon.com/images/I/31WqamNVXOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4GSHM8-it Acqua Di Parma Colonia Club Eau de Cologne 20 ml'
 sku: 'B07D4GSHM8-it'
 tags: [  ]

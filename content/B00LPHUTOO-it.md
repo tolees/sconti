@@ -5,7 +5,7 @@ date: 2020-07-29 14:15:41
 image: 'https://m.media-amazon.com/images/I/41lHpx2vOkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LPHUTOO-it Vileda Steam Scopa a Vapore con 2 Panni in Microfibra Filo...'
 sku: 'B00LPHUTOO-it'
 tags: [  ]

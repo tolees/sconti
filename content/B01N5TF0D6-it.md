@@ -5,7 +5,7 @@ date: 2020-09-22 20:29:47
 image: 'https://m.media-amazon.com/images/I/51krmgozbwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5TF0D6-it Harry Potter 7 Pt.2 4K + Br'
 sku: 'B01N5TF0D6-it'
 tags: [  ]

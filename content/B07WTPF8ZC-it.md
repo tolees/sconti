@@ -5,7 +5,7 @@ date: 2020-09-30 07:09:19
 image: 'https://m.media-amazon.com/images/I/414zlBMxSKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTPF8ZC-it Simple Modern Wanderer Zaino Donna Uomo o Bambini con...'
 sku: 'B07WTPF8ZC-it'
 tags: [  ]

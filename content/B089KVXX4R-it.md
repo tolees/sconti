@@ -5,7 +5,7 @@ date: 2020-10-12 06:55:24
 image: 'https://m.media-amazon.com/images/I/41LgMSHMLyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089KVXX4R-it Oral-B CrossAction Testine di Ricambio per Spazzolino...'
 sku: 'B089KVXX4R-it'
 tags: [  ]

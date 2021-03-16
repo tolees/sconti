@@ -5,7 +5,7 @@ date: 2020-08-04 17:16:49
 image: 'https://m.media-amazon.com/images/I/41QdRdXr4XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8PWKC7-it Fila Disruptor Low Scarpe da Ginnastica Basse Uomo Nero...'
 sku: 'B07B8PWKC7-it'
 tags: [  ]

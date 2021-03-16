@@ -5,7 +5,7 @@ date: 2020-08-29 13:30:56
 image: 'https://m.media-amazon.com/images/I/31JBOxwKP-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008RAR9JA-it Max Factor Matita Occhi Kohl Pencil Eyeliner con Texture...'
 sku: 'B008RAR9JA-it'
 tags: [  ]

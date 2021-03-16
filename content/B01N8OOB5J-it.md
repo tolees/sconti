@@ -5,7 +5,7 @@ date: 2020-09-25 17:08:24
 image: 'https://m.media-amazon.com/images/I/51N4hO+aBLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8OOB5J-it Asmodee 8731-Blood Rage: Dèi di Asgard Ed. Italiana 8731'
 sku: 'B01N8OOB5J-it'
 tags: [  ]

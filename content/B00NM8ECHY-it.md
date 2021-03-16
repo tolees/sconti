@@ -5,7 +5,7 @@ date: 2020-08-11 09:08:38
 image: 'https://m.media-amazon.com/images/I/41FIuNtYFcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NM8ECHY-it Diadora Fitness Forty Tapis Roulant Magnetico'
 sku: 'B00NM8ECHY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 14:56:30
 image: 'https://m.media-amazon.com/images/I/311YDR5TuvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1KPJZK-it Moleskine ID Collection Zaino da Lavoro Professionale...'
 sku: 'B06Y1KPJZK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2021-03-16 15:48:25
 image: 'https://m.media-amazon.com/images/I/412vTSvwmAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZSBBVR-it ESPRIT 090ee2i301 Maglione Blu 404 / Blu Marino 5 M Uomo'
 sku: 'B084ZSBBVR-it'
 tags: [ 'esprit', ]

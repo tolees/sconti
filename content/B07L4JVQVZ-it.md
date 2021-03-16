@@ -5,7 +5,7 @@ date: 2020-07-20 23:28:46
 image: 'https://m.media-amazon.com/images/I/517qBmAj48L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4JVQVZ-it Funko-36025 Fortnite Valor Multicolore 36025'
 sku: 'B07L4JVQVZ-it'
 tags: [  ]

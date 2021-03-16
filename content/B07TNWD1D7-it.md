@@ -5,7 +5,7 @@ date: 2020-08-27 11:31:56
 image: 'https://m.media-amazon.com/images/I/31Ye9wqp5hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNWD1D7-it Havaianas Slim Flatform Infradito Donna Rosa Pink...'
 sku: 'B07TNWD1D7-it'
 tags: [  ]

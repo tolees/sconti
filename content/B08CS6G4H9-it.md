@@ -5,7 +5,7 @@ date: 2020-08-04 05:29:56
 image: 'https://m.media-amazon.com/images/I/41344XTNq3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CS6G4H9-it eXtremeRate DAWN Remap Kit Programmabile per Playstation 4...'
 sku: 'B08CS6G4H9-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 16:33:11
 image: 'https://m.media-amazon.com/images/I/41khHn3m1lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D36JV1P-it BOMIZI Cover Xiaomi Mi 9 Custodia Trasparente TPU Morbido...'
 sku: 'B08D36JV1P-it'
 tags: [  ]

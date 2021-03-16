@@ -5,7 +5,7 @@ date: 2020-10-01 13:01:55
 image: 'https://m.media-amazon.com/images/I/31soZElWUGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB3BHS3-it Lacoste L1212 Polo Uomo Beige Viennois 02S S'
 sku: 'B07GB3BHS3-it'
 tags: [  ]

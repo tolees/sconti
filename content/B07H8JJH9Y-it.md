@@ -5,7 +5,7 @@ date: 2020-09-30 04:28:34
 image: 'https://m.media-amazon.com/images/I/41+uJAOGSCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8JJH9Y-it Epson Expression Premium XP-7100 Stampante Multifunzionale...'
 sku: 'B07H8JJH9Y-it'
 tags: [  ]

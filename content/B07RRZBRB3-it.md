@@ -5,7 +5,7 @@ date: 2020-10-05 15:09:32
 image: 'https://m.media-amazon.com/images/I/51h4N7a+srL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRZBRB3-it Oral-B Genius X Luxe Edition Spazzolino Elettrico...'
 sku: 'B07RRZBRB3-it'
 tags: [  ]

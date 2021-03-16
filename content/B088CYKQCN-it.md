@@ -5,7 +5,7 @@ date: 2020-08-24 22:32:22
 image: 'https://m.media-amazon.com/images/I/41quLeFtJVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088CYKQCN-it XLTOK Cavo USB Type C [3Pezzi 1m+1m+2m] Cavo tipo C di...'
 sku: 'B088CYKQCN-it'
 tags: [  ]

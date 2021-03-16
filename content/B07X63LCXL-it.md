@@ -5,7 +5,7 @@ date: 2020-09-18 13:28:26
 image: 'https://m.media-amazon.com/images/I/51xfFwPkBOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X63LCXL-it STARBUCKS HOUSE BLEND Caffè macinato dalla tostatura media...'
 sku: 'B07X63LCXL-it'
 tags: [  ]

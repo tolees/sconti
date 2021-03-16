@@ -5,7 +5,7 @@ date: 2020-08-02 06:33:43
 image: 'https://m.media-amazon.com/images/I/41Ust+QECdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BL8YM46-it Mini Bluetooth WiFi Proiettore TOPTRO Proiettore...'
 sku: 'B08BL8YM46-it'
 tags: [  ]

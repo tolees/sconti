@@ -5,7 +5,7 @@ date: 2020-09-16 06:26:32
 image: 'https://m.media-amazon.com/images/I/41jz70TY0ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XFV1N2R-it TOUCHBeauty AG-0602AP Kit manicure/pedicure da donna...'
 sku: 'B06XFV1N2R-it'
 tags: [  ]

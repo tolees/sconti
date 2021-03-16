@@ -5,7 +5,7 @@ date: 2020-09-24 02:43:00
 image: 'https://m.media-amazon.com/images/I/414vK03NVfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0022SHYYS-it Konus - Bussola KONUSTAR-10 Grigia 4074'
 sku: 'B0022SHYYS-it'
 tags: [  ]

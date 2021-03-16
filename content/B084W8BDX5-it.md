@@ -5,7 +5,7 @@ date: 2020-09-03 08:29:21
 image: 'https://m.media-amazon.com/images/I/41KkXO0EZ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084W8BDX5-it Pantene Pro-V Balsamo Rigenera e Protegge per Capelli...'
 sku: 'B084W8BDX5-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 22:42:48
 image: 'https://m.media-amazon.com/images/I/51gTdZUbQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDL3BD2-it VZATT Go Swing Topless Can Opener 2020 Nuova Apriscatole...'
 sku: 'B08CDL3BD2-it'
 tags: [  ]

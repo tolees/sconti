@@ -5,7 +5,7 @@ date: 2020-09-30 09:30:38
 image: 'https://m.media-amazon.com/images/I/41RlTTHdR1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7CL5M9-it Inglesina AA30L6MAR System Zippy Pro Sistema Trio 3 in 1...'
 sku: 'B07N7CL5M9-it'
 tags: [  ]

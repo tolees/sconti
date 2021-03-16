@@ -5,7 +5,7 @@ date: 2020-08-18 08:14:16
 image: 'https://m.media-amazon.com/images/I/41aiR+rwbOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5E9QYE-it Singer hzb-12/A Macchina per ghiaccioli plastica Rosso'
 sku: 'B01M5E9QYE-it'
 tags: [  ]

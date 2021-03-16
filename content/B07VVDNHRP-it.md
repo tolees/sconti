@@ -5,7 +5,7 @@ date: 2020-07-27 10:41:52
 image: 'https://m.media-amazon.com/images/I/41kbQwDqbJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVDNHRP-it TACKLIFE Tagliabordi a Batteria 40 V 2 5 Ah Motore...'
 sku: 'B07VVDNHRP-it'
 tags: [  ]

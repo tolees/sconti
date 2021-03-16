@@ -5,7 +5,7 @@ date: 2020-07-31 14:46:52
 image: 'https://m.media-amazon.com/images/I/31TfpG+C3uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJQCHRJ-it Samsung MS23K3513AK Forno Microonde Grill Combinato 23...'
 sku: 'B07QJQCHRJ-it'
 tags: [  ]

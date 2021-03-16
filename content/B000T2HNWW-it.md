@@ -5,7 +5,7 @@ date: 2020-10-09 03:53:07
 image: 'https://m.media-amazon.com/images/I/419pd4kXEXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000T2HNWW-it Metaltex Babatex - Cestello sottoripiano - 363840'
 sku: 'B000T2HNWW-it'
 tags: [  ]

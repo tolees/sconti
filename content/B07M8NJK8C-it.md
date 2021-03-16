@@ -5,7 +5,7 @@ date: 2020-09-28 01:33:19
 image: 'https://m.media-amazon.com/images/I/41GMmwZh0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8NJK8C-it Braun MGK5080 Rifinitore 9-In-1 RegolaBarba Uomo Rasoio...'
 sku: 'B07M8NJK8C-it'
 tags: [  ]

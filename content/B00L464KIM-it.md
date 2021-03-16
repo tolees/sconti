@@ -5,7 +5,7 @@ date: 2020-08-07 15:07:43
 image: 'https://m.media-amazon.com/images/I/41em3CPaH0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L464KIM-it Matt Le Mais Bio - 130 gr Senza glutine'
 sku: 'B00L464KIM-it'
 tags: [  ]

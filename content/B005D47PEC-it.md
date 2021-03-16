@@ -5,7 +5,7 @@ date: 2020-09-01 07:56:22
 image: 'https://m.media-amazon.com/images/I/319BysO5SrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005D47PEC-it Foppapedretti Gulliver Stendibiancheria Pieghevole Bianco'
 sku: 'B005D47PEC-it'
 tags: [  ]

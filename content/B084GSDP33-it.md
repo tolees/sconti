@@ -5,7 +5,7 @@ date: 2020-10-10 06:28:52
 image: 'https://m.media-amazon.com/images/I/51n+iZiNMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084GSDP33-it Ori And The Will of The Wisps - Xbox One'
 sku: 'B084GSDP33-it'
 tags: [  ]

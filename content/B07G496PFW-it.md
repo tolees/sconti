@@ -5,7 +5,7 @@ date: 2020-09-22 20:27:34
 image: 'https://m.media-amazon.com/images/I/51Vf-DTvVsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G496PFW-it Ocean S Eight 4K+Br'
 sku: 'B07G496PFW-it'
 tags: [  ]

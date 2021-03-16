@@ -5,7 +5,7 @@ date: 2020-07-30 17:24:30
 image: 'https://m.media-amazon.com/images/I/41jWyzriBnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKQBB6B-it Chiave del prodotto Office Professional Plus 2019 a 32/64...'
 sku: 'B07XKQBB6B-it'
 tags: [  ]

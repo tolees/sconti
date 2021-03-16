@@ -5,7 +5,7 @@ date: 2020-08-27 15:43:23
 image: 'https://m.media-amazon.com/images/I/41FAcUCJjkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDFSMXJ-it The North Face M Quest L/S Maglia a Maniche Corte Uomo Blu...'
 sku: 'B07TDFSMXJ-it'
 tags: [  ]

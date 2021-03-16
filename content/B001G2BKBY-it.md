@@ -5,7 +5,7 @@ date: 2020-08-28 10:33:55
 image: 'https://m.media-amazon.com/images/I/41vouQmk9FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001G2BKBY-it Birkenstock Mayari 71791 Infradito donna - Nero 39 EU'
 sku: 'B001G2BKBY-it'
 tags: [  ]

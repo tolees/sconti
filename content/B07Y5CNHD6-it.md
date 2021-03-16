@@ -5,7 +5,7 @@ date: 2020-09-19 17:03:31
 image: 'https://m.media-amazon.com/images/I/41fG81GtyoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5CNHD6-it Geographical Norway Felpa da uomo GYMCLASS A Grigio Scuro M'
 sku: 'B07Y5CNHD6-it'
 tags: [  ]

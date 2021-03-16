@@ -5,7 +5,7 @@ date: 2020-10-09 14:33:59
 image: 'https://m.media-amazon.com/images/I/41viIb+SIlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018YPAKS4-it Bosch Professional Smerigliatrice Angolare GWS 7-125 Ø...'
 sku: 'B018YPAKS4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 13:31:03
 image: 'https://m.media-amazon.com/images/I/31X36qzrDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ6YYBC-it PBN Siero di Latte in Polvere 2.27 Kg Gusto Cioccolato'
 sku: 'B07KZ6YYBC-it'
 tags: [  ]

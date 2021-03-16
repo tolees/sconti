@@ -5,7 +5,7 @@ date: 2020-09-05 07:17:25
 image: 'https://m.media-amazon.com/images/I/31lvhOMZxgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQNBWBX-it WHCREAT da Uomo con Pantaloncini da Running Tasche con...'
 sku: 'B07RQNBWBX-it'
 tags: [  ]

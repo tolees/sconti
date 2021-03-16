@@ -5,7 +5,7 @@ date: 2020-08-13 07:29:27
 image: 'https://m.media-amazon.com/images/I/31ecwZnX02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CJH9IT0-it Diadora - Sneakers B. Elite per Uomo e Donna EU 40'
 sku: 'B01CJH9IT0-it'
 tags: [  ]

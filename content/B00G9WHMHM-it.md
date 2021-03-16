@@ -5,7 +5,7 @@ date: 2020-10-11 06:34:12
 image: 'https://m.media-amazon.com/images/I/31XuIG7963L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G9WHMHM-it Kingston DataTraveler G4 DTIG4/128GB PenDrive USB 3.0 128...'
 sku: 'B00G9WHMHM-it'
 tags: [  ]

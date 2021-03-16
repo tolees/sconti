@@ -5,7 +5,7 @@ date: 2020-08-24 16:12:06
 image: 'https://m.media-amazon.com/images/I/41j1UYufEaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A8IEG2G-it Cavo Micro USB [ 1M - 2Pezzi ] Rampow Trasferimento Dati e...'
 sku: 'B01A8IEG2G-it'
 tags: [  ]

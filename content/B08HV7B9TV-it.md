@@ -5,7 +5,7 @@ date: 2020-09-24 07:55:55
 image: 'https://m.media-amazon.com/images/I/319SZInaM5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HV7B9TV-it MINI Proiettore AUN W18C Proiettore Portatile Per...'
 sku: 'B08HV7B9TV-it'
 tags: [  ]

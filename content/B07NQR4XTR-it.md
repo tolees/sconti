@@ -5,7 +5,7 @@ date: 2020-09-15 15:55:46
 image: 'https://m.media-amazon.com/images/I/51prgAAqjOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQR4XTR-it Dixan Duo Caps- Detersivo Pre Dosato in Capsule - 30 Caps'
 sku: 'B07NQR4XTR-it'
 tags: [  ]

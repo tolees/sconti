@@ -5,7 +5,7 @@ date: 2020-08-17 17:43:27
 image: 'https://m.media-amazon.com/images/I/41cYIujQK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVKRLQ4-it Bosch Elettrodomestici WAT28749IT Serie 6 Lavatrice Active...'
 sku: 'B07VVKRLQ4-it'
 tags: [  ]

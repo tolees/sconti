@@ -5,7 +5,7 @@ date: 2020-09-22 20:27:08
 image: 'https://m.media-amazon.com/images/I/61lLUoxGRDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FRP3OR8-it The Amazing Spiderman 2 4K'
 sku: 'B01FRP3OR8-it'
 tags: [  ]

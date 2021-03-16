@@ -5,7 +5,7 @@ date: 2020-07-27 08:59:05
 image: 'https://m.media-amazon.com/images/I/415bw9FOYjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6F69QX-it HolyHigh Cuffie Bluetooth Senza Fili Auricolari in Ear...'
 sku: 'B07X6F69QX-it'
 tags: [  ]

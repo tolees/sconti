@@ -5,7 +5,7 @@ date: 2020-08-07 06:49:57
 image: 'https://m.media-amazon.com/images/I/317lqqNtv0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2PSPY-it Geox U KAVEN A Scarpe da Ginnastica Basse Uomo Bianco...'
 sku: 'B07DJ2PSPY-it'
 tags: [  ]

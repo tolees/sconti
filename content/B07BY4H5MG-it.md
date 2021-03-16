@@ -5,7 +5,7 @@ date: 2020-08-05 06:09:10
 image: 'https://m.media-amazon.com/images/I/413JSbVkcKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BY4H5MG-it Trevi XFEST XF 450 Altoparlante Amplificato Portatile con...'
 sku: 'B07BY4H5MG-it'
 tags: [  ]

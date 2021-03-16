@@ -5,7 +5,7 @@ date: 2020-09-02 16:02:20
 image: 'https://m.media-amazon.com/images/I/31XSKd5n4BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7PBCS2-it Fitbit Ace 2 Activity Tracker Unisex Bambino Rosso...'
 sku: 'B07M7PBCS2-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 20:27:31
 image: 'https://m.media-amazon.com/images/I/518PghpMywL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPGHW3V-it Kong: Skull Island 4K Ultra HD + Blu-Ray Disc + Copia...'
 sku: 'B06XPGHW3V-it'
 tags: [  ]

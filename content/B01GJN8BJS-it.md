@@ -5,7 +5,7 @@ date: 2020-09-01 15:03:52
 image: 'https://m.media-amazon.com/images/I/619LfjxK+tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GJN8BJS-it Ravensburger- Labirinto Glow in The Dark Gioco di società...'
 sku: 'B01GJN8BJS-it'
 tags: [  ]

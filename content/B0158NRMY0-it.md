@@ -5,7 +5,7 @@ date: 2020-09-30 11:42:30
 image: 'https://m.media-amazon.com/images/I/41nNB3D6C3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0158NRMY0-it Listerine Collutorio Total Care Gusto Delicato 6 Benefici...'
 sku: 'B0158NRMY0-it'
 tags: [  ]

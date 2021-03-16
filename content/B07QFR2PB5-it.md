@@ -5,7 +5,7 @@ date: 2020-08-23 06:53:43
 image: 'https://m.media-amazon.com/images/I/41r683RvE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFR2PB5-it Luce Solare Esterno 2 pezzi GIANTARM 30 LED Lampada Solari...'
 sku: 'B07QFR2PB5-it'
 tags: [  ]

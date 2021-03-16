@@ -5,7 +5,7 @@ date: 2020-10-12 22:08:59
 image: 'https://m.media-amazon.com/images/I/319cPxI5VvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXZT12X-it HUAWEI Freebuds 3 Auricolare Bluetooth Bianco'
 sku: 'B07YXZT12X-it'
 tags: [  ]

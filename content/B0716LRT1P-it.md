@@ -5,7 +5,7 @@ date: 2020-09-17 07:40:02
 image: 'https://m.media-amazon.com/images/I/41AIA4jn6EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716LRT1P-it Levi s Relaxed Graphic Crew Felpa Donna Grigio Medium'
 sku: 'B0716LRT1P-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 09:11:47
 image: 'https://m.media-amazon.com/images/I/31NDO10DbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074Y8VV6B-it Panasonic NN-GD38HSSUG Forno a Microonde 1000 W 23 Litri...'
 sku: 'B074Y8VV6B-it'
 tags: [  ]

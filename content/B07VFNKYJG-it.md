@@ -5,7 +5,7 @@ date: 2020-09-29 09:44:22
 image: 'https://m.media-amazon.com/images/I/31BgUFcuAvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFNKYJG-it Desigual Bols rhapsody Durban - Borsa a tracolla 4 x 17 5...'
 sku: 'B07VFNKYJG-it'
 tags: [  ]

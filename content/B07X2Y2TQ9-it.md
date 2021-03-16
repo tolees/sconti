@@ -5,7 +5,7 @@ date: 2020-10-02 13:06:27
 image: 'https://m.media-amazon.com/images/I/41Y8Iz-at6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2Y2TQ9-it Rimmel London Confezione Regalo Velvet Revolution...'
 sku: 'B07X2Y2TQ9-it'
 tags: [  ]

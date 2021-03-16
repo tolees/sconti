@@ -5,7 +5,7 @@ date: 2020-07-18 17:46:04
 image: 'https://m.media-amazon.com/images/I/41DL4N6QgVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0888BML8X-it Auricolari Bluetooth Cuffie Bluetooth Senza Fili Wireless...'
 sku: 'B0888BML8X-it'
 tags: [  ]

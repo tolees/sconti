@@ -5,7 +5,7 @@ date: 2020-10-03 13:22:28
 image: 'https://m.media-amazon.com/images/I/41w13Jp1inL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLYBLN-it Geox D NYDAME D Scarpe da Ginnastica Basse Donna Bianco...'
 sku: 'B07STLYBLN-it'
 tags: [  ]

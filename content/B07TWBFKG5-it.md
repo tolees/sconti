@@ -5,7 +5,7 @@ date: 2020-08-23 10:27:29
 image: 'https://m.media-amazon.com/images/I/41OaZAZakpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWBFKG5-it Levi s Deconstructed PL Gonna Blu Gateway Skirt Plus 0013...'
 sku: 'B07TWBFKG5-it'
 tags: [  ]

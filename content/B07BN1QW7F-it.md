@@ -5,7 +5,7 @@ date: 2020-09-28 13:32:39
 image: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BN1QW7F-it Vans Ward Platform Scarpe da Ginnastica Donna Canvas...'
 sku: 'B07BN1QW7F-it'
 tags: [  ]

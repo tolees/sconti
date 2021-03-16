@@ -5,7 +5,7 @@ date: 2020-09-01 12:12:44
 image: 'https://m.media-amazon.com/images/I/41WLPZcNpnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS8X42C-it SUPERGA 2750 Cotu Classic Scarpe da Ginnastica Unisex...'
 sku: 'B07TS8X42C-it'
 tags: [  ]

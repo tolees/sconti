@@ -5,7 +5,7 @@ date: 2020-09-11 08:23:09
 image: 'https://m.media-amazon.com/images/I/61NN5AtrKML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002SK89SU-it Tovagliette all Americana Parisian Scenes di Pimpernel -...'
 sku: 'B002SK89SU-it'
 tags: [  ]

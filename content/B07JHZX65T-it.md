@@ -5,7 +5,7 @@ date: 2020-08-18 07:00:47
 image: 'https://m.media-amazon.com/images/I/417JugIe+qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHZX65T-it LUKO 12L Deumidificatore Portatile e Elettrico con...'
 sku: 'B07JHZX65T-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 15:45:21
 image: 'https://m.media-amazon.com/images/I/41pd4WO2SFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QK8PB6Z-it Videoproiettore WiMiUS 6800 Lumen Nativa 1080P LED...'
 sku: 'B07QK8PB6Z-it'
 tags: [  ]

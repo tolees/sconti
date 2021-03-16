@@ -5,7 +5,7 @@ date: 2020-09-29 16:19:51
 image: 'https://m.media-amazon.com/images/I/31GGv6DGrwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9XSQYS-it Marchio Amazon - Iris & Lilly Mutande Donna Pacco da 3...'
 sku: 'B06X9XSQYS-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-10 08:55:15
 image: 'https://m.media-amazon.com/images/I/41bEqw25ghL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRF5YWN-it Pawhut Tiragraffi a Colonna per Gatti su più Livelli con...'
 sku: 'B08CRF5YWN-it'
 tags: [  ]

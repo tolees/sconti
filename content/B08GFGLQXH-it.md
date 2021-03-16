@@ -5,7 +5,7 @@ date: 2020-09-15 02:15:54
 image: 'https://m.media-amazon.com/images/I/41Xt+Qd3eXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFGLQXH-it E-Hamii [3 Pezzi Vetro Temperato Infrangibile 9H...'
 sku: 'B08GFGLQXH-it'
 tags: [  ]

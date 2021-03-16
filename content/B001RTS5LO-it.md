@@ -5,7 +5,7 @@ date: 2020-08-10 14:37:38
 image: 'https://m.media-amazon.com/images/I/21vL823qFCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001RTS5LO-it Lagostina I Cucinieri Rotella Pizza con Anello Acciaio...'
 sku: 'B001RTS5LO-it'
 tags: [  ]

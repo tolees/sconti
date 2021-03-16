@@ -5,7 +5,7 @@ date: 2020-09-12 13:23:04
 image: 'https://m.media-amazon.com/images/I/41-kVuTIfeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084W8DMJT-it Viakal Detersivo Anticalcare Spray Fresco Profumo Maxi...'
 sku: 'B084W8DMJT-it'
 tags: [  ]

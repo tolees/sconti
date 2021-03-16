@@ -5,7 +5,7 @@ date: 2020-09-18 14:38:44
 image: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MJHTSF-it PUMA Smash v2 L Scarpe da Ginnastica Uomo Bianca White...'
 sku: 'B077MJHTSF-it'
 tags: [  ]

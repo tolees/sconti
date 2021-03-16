@@ -5,7 +5,7 @@ date: 2020-09-23 16:34:51
 image: 'https://m.media-amazon.com/images/I/31e5oe4wLOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMTLQV7-it Under Armour Challenger III Knit Pantaloncini Uomo Nero...'
 sku: 'B07PMTLQV7-it'
 tags: [  ]

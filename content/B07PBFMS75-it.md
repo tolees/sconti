@@ -5,7 +5,7 @@ date: 2020-08-07 13:07:59
 image: 'https://m.media-amazon.com/images/I/31vQUalMHyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBFMS75-it INPHIC Mouse Wireless Ricaricabile Mouse Senza Fili...'
 sku: 'B07PBFMS75-it'
 tags: [  ]

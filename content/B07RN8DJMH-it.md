@@ -5,7 +5,7 @@ date: 2020-07-24 12:46:02
 image: 'https://m.media-amazon.com/images/I/316TlXxSx1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN8DJMH-it Funko- Pop Holiday-Mayor Patty Noble Figura da Collezione...'
 sku: 'B07RN8DJMH-it'
 tags: [  ]

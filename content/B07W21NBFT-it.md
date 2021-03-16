@@ -5,7 +5,7 @@ date: 2020-09-28 09:25:20
 image: 'https://m.media-amazon.com/images/I/412130-vdzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W21NBFT-it Plafoniera LED Soffitto Moderna Faretti a LED per interni...'
 sku: 'B07W21NBFT-it'
 tags: [  ]

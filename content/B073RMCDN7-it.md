@@ -5,7 +5,7 @@ date: 2020-08-24 19:22:17
 image: 'https://m.media-amazon.com/images/I/418KRMmGkCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RMCDN7-it Reebok Club C 85 Sneaker Uomo Bianco Intense White/Royal-...'
 sku: 'B073RMCDN7-it'
 tags: [  ]

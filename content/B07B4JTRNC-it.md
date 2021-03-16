@@ -5,7 +5,7 @@ date: 2020-09-18 07:58:27
 image: 'https://m.media-amazon.com/images/I/31PXdWykVrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4JTRNC-it Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker Uomo Blu...'
 sku: 'B07B4JTRNC-it'
 tags: [  ]

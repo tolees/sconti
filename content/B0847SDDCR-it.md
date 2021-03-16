@@ -5,7 +5,7 @@ date: 2020-10-10 13:15:17
 image: 'https://m.media-amazon.com/images/I/411U5Wa9aZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0847SDDCR-it ghd platinum+ Styler Piastra per capelli Edizione Limitata...'
 sku: 'B0847SDDCR-it'
 tags: [  ]

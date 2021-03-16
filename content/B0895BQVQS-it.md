@@ -5,7 +5,7 @@ date: 2020-09-21 17:40:29
 image: 'https://m.media-amazon.com/images/I/5171HjLAXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895BQVQS-it Smac - Express Pavimenti Freschezza Intensa - 1000ml x 12...'
 sku: 'B0895BQVQS-it'
 tags: [  ]

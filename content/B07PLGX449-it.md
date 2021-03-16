@@ -5,7 +5,7 @@ date: 2020-08-28 16:08:50
 image: 'https://m.media-amazon.com/images/I/41gLdAVJPCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLGX449-it BLADE HAWKS Tappetino Mouse Gaming RGB Gaming Tappetino...'
 sku: 'B07PLGX449-it'
 tags: [  ]

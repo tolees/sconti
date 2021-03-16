@@ -5,7 +5,7 @@ date: 2020-08-09 15:25:22
 image: 'https://m.media-amazon.com/images/I/41niappdmmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MB8MHLO-it Kenwood FDM780BA MultiPro Classic Food Processor Robot da...'
 sku: 'B00MB8MHLO-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 06:18:59
 image: 'https://m.media-amazon.com/images/I/51AisPMTD2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089KZ9XR3-it Oral-B Precision Clean Testine di Ricambio per Spazzolino...'
 sku: 'B089KZ9XR3-it'
 tags: [  ]

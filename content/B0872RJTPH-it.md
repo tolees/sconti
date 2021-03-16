@@ -5,7 +5,7 @@ date: 2020-08-08 11:22:52
 image: 'https://m.media-amazon.com/images/I/31w6bJ7sicL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872RJTPH-it Auricolare Bluetooth Senza Fili Cuffie Wireless Stereo 3D...'
 sku: 'B0872RJTPH-it'
 tags: [  ]

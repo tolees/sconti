@@ -5,7 +5,7 @@ date: 2020-07-21 08:45:08
 image: 'https://m.media-amazon.com/images/I/51zrkTpIVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071V5GPX7-it Lenor Ammorbidente Ametista & Bouquet 208 Lavaggi Maxi...'
 sku: 'B071V5GPX7-it'
 tags: [  ]

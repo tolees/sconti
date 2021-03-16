@@ -5,7 +5,7 @@ date: 2020-09-04 11:43:15
 image: 'https://m.media-amazon.com/images/I/41ujhYttgfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087DW7SN3-it Lampade Solari da Giardino Gonfiabili Stella Luci Piscina...'
 sku: 'B087DW7SN3-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 06:52:03
 image: 'https://m.media-amazon.com/images/I/41YP2zA-NyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089M5BFNV-it Campanello Senza Fili da Esterno Impermeabile IP55...'
 sku: 'B089M5BFNV-it'
 tags: [  ]

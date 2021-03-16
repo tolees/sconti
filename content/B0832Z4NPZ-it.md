@@ -5,7 +5,7 @@ date: 2020-08-25 06:19:16
 image: 'https://m.media-amazon.com/images/I/41TuNuefGgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0832Z4NPZ-it Taylor Swoden Aladin - 1 7L Retro Bollitore elettrico...'
 sku: 'B0832Z4NPZ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 12:42:00
 image: 'https://m.media-amazon.com/images/I/41lX9MFhgsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I8J0CJ4-it Optima Capelli Pelle e Unghie 60 Compresse Taglia Unica'
 sku: 'B00I8J0CJ4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 11:21:40
 image: 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E8K9ZJ4-it Ayotu Custodia in Pelle PU per Kindle Paperwhite-Custodia...'
 sku: 'B01E8K9ZJ4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 10:06:04
 image: 'https://m.media-amazon.com/images/I/41vpqvBZw+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B61GCWZ-it MOONESS Custodia Xiaomi Redmi Note 9s Pelle + Vetro...'
 sku: 'B08B61GCWZ-it'
 tags: [  ]

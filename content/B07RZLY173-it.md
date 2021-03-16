@@ -5,7 +5,7 @@ date: 2020-08-22 08:58:27
 image: 'https://m.media-amazon.com/images/I/31NVAQaF4UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLY173-it New Balance 373 Core Sneaker Uomo Rosso Red/White Cd2'
 sku: 'B07RZLY173-it'
 tags: [  ]

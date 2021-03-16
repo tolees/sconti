@@ -5,7 +5,7 @@ date: 2020-08-10 06:23:20
 image: 'https://m.media-amazon.com/images/I/41pfSo4pbDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015T9KBXC-it Aigostar Lampadina LED GU10 8W 600 Lumen Luce Bianca...'
 sku: 'B015T9KBXC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 11:44:53
 image: 'https://m.media-amazon.com/images/I/41geBB9NrcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N0E1KDE-it Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0 Micro...'
 sku: 'B00N0E1KDE-it'
 tags: [  ]

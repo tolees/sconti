@@ -5,7 +5,7 @@ date: 2020-08-11 06:57:24
 image: 'https://m.media-amazon.com/images/I/318mLvuVPTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3GFJJ2-it HyperX HX-MC004B Pulsefire Core Mouse Gaming RGB'
 sku: 'B07H3GFJJ2-it'
 tags: [  ]

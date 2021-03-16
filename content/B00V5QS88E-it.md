@@ -5,7 +5,7 @@ date: 2020-08-15 17:11:00
 image: 'https://m.media-amazon.com/images/I/41mKc8C+iBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V5QS88E-it Umidificatore Ambiente Ultrasuoni TaoTronics Purificatore...'
 sku: 'B00V5QS88E-it'
 tags: [  ]

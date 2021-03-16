@@ -5,7 +5,7 @@ date: 2020-08-26 08:20:06
 image: 'https://m.media-amazon.com/images/I/31ivhKHEiAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ70QJB-it BONTEC Braccio Monitor Singolo per Schermo LED LCD da 13 a...'
 sku: 'B01MZ70QJB-it'
 tags: [  ]

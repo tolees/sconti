@@ -5,7 +5,7 @@ date: 2020-09-02 17:11:01
 image: 'https://m.media-amazon.com/images/I/21brYC41CCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXG89S3-it Samsung HW-R530/ZF Soundbar da 290 W 2.1 Canali Nero'
 sku: 'B07RXG89S3-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 16:20:53
 image: 'https://m.media-amazon.com/images/I/41q7OX04KyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DR275MQ-it Rybozen Audio Video Scheda di acquisizione HDMI con Loop...'
 sku: 'B08DR275MQ-it'
 tags: [  ]

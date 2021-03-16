@@ -5,7 +5,7 @@ date: 2020-08-04 23:21:57
 image: 'https://m.media-amazon.com/images/I/41Q4LrGyU5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMN4LR7-it SanDisk Extreme PRO SSD Portatile 500 GB Resistente e...'
 sku: 'B07TMN4LR7-it'
 tags: [  ]

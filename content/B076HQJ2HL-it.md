@@ -5,7 +5,7 @@ date: 2020-09-19 14:54:54
 image: 'https://m.media-amazon.com/images/I/41SMXQ4WpYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQJ2HL-it Adidas Football App Generic Tracksuit Jacket Uomo Blu...'
 sku: 'B076HQJ2HL-it'
 tags: [  ]

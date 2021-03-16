@@ -5,7 +5,7 @@ date: 2020-09-11 20:53:43
 image: 'https://m.media-amazon.com/images/I/21Ubi9LkTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB827NV-it HP LaserJet MFP 135a Stampante Bianco e Nero solo USB...'
 sku: 'B07SB827NV-it'
 tags: [  ]

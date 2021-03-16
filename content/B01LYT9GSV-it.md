@@ -5,7 +5,7 @@ date: 2020-08-05 06:09:06
 image: 'https://m.media-amazon.com/images/I/41YmeVV6jOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYT9GSV-it Rio Mare Filetti di Sgombro Grigliati al Naturale Ricchi...'
 sku: 'B01LYT9GSV-it'
 tags: [  ]

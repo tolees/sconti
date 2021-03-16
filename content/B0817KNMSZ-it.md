@@ -5,7 +5,7 @@ date: 2020-09-01 16:40:52
 image: 'https://m.media-amazon.com/images/I/31yvczd+uBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817KNMSZ-it HP Envy Urban Sleeve per Notebook fino a 15.6" Vano...'
 sku: 'B0817KNMSZ-it'
 tags: [  ]

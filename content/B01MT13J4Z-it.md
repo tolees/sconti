@@ -5,7 +5,7 @@ date: 2020-07-20 16:20:04
 image: 'https://m.media-amazon.com/images/I/31Ril9qCLTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT13J4Z-it Lacoste Lerond BL 2 Cam Sneaker Uomo Nero Black 39.5 EU'
 sku: 'B01MT13J4Z-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 13:29:01
 image: 'https://m.media-amazon.com/images/I/41ZNPNntpZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000O66LJO-it Cressi Water Shoes Scarpette per Sport Acquatici Adulti e...'
 sku: 'B000O66LJO-it'
 tags: [  ]

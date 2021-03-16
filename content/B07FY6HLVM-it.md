@@ -5,7 +5,7 @@ date: 2020-07-29 06:52:43
 image: 'https://m.media-amazon.com/images/I/514Yt-ZH5kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY6HLVM-it Havaianas Slim 4000030 Infradito Donna Arancione Bronze...'
 sku: 'B07FY6HLVM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 13:06:56
 image: 'https://m.media-amazon.com/images/I/411msKFKPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0038EV1LW-it Homedics SP-39HW-EU Cuscino Massaggiante Shiatsu a Due...'
 sku: 'B0038EV1LW-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-30 06:42:46
 image: 'https://m.media-amazon.com/images/I/51HF0lkuGIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017N0AY3C-it 100 Cialde Capsule caffè ROSSOMOKA Espresso compatibili...'
 sku: 'B017N0AY3C-it'
 tags: [  ]

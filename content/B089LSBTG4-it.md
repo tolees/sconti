@@ -5,7 +5,7 @@ date: 2020-08-30 04:42:37
 image: 'https://m.media-amazon.com/images/I/41MAJ2sSqnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089LSBTG4-it Puzzle in Legno Forme Geometriche Tangram Puzzles...'
 sku: 'B089LSBTG4-it'
 tags: [  ]

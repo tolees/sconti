@@ -5,7 +5,7 @@ date: 2020-08-15 07:31:59
 image: 'https://m.media-amazon.com/images/I/51JPbPYIueL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1FNTF7-it Havaianas Slim Animals Infradito Donna White/Coralnew 6577...'
 sku: 'B07F1FNTF7-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 05:31:05
 image: 'https://m.media-amazon.com/images/I/41FojHiRzTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GOB7JI4-it Aigostar Acciaio Blu 31HGB - Ferro a vapore 2200W con base...'
 sku: 'B01GOB7JI4-it'
 tags: [  ]

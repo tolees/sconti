@@ -5,7 +5,7 @@ date: 2020-08-22 11:32:41
 image: 'https://m.media-amazon.com/images/I/416Hiw+K0rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QW8LR-it Puma Ascend Scarpe da Ginnastica Unisex-Adulto Nero Black...'
 sku: 'B07S7QW8LR-it'
 tags: [  ]

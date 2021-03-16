@@ -5,7 +5,7 @@ date: 2020-07-20 16:39:47
 image: 'https://m.media-amazon.com/images/I/41lqOPfWxvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W9LRB2J-it BenQ GL2480 Monitor da Gioco LED da 24 Pollici FHD 1080p...'
 sku: 'B07W9LRB2J-it'
 tags: [  ]

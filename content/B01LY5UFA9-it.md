@@ -5,7 +5,7 @@ date: 2020-09-09 15:31:16
 image: 'https://m.media-amazon.com/images/I/41dmqPL3YhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY5UFA9-it Rio Mare Paté di Salmone Rosa Cremoso e Spalmabile 1...'
 sku: 'B01LY5UFA9-it'
 tags: [  ]

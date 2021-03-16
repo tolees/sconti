@@ -5,7 +5,7 @@ date: 2020-08-29 06:43:11
 image: 'https://m.media-amazon.com/images/I/51dSc0jejML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GV6TQ86-it Mocio e Secchio in Microfibra per La Pulizia del Pavimenti...'
 sku: 'B07GV6TQ86-it'
 tags: [  ]

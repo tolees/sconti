@@ -5,7 +5,7 @@ date: 2020-08-28 12:17:53
 image: 'https://m.media-amazon.com/images/I/41SnvX1aF4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DAGWUZ4-it Pasante Profilattici Extra Sensitive 144 Pezzi'
 sku: 'B00DAGWUZ4-it'
 tags: [  ]

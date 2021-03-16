@@ -5,7 +5,7 @@ date: 2020-09-04 07:30:29
 image: 'https://m.media-amazon.com/images/I/51mZya5hKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3HW68L-it GALAX PRO 20V Utensile Multifunzione 5000-18000OPM...'
 sku: 'B07Z3HW68L-it'
 tags: [  ]

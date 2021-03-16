@@ -5,7 +5,7 @@ date: 2020-08-15 08:48:26
 image: 'https://m.media-amazon.com/images/I/51B2hpnd+nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLQF2WK-it AZ Dentifricio 3D White Luxe Bianco Brillante con Azione...'
 sku: 'B07WLQF2WK-it'
 tags: [  ]

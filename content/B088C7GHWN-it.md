@@ -5,7 +5,7 @@ date: 2020-10-08 13:44:14
 image: 'https://m.media-amazon.com/images/I/41N14hcaYsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088C7GHWN-it Lenor Ammorbidente Diamante & Fiori di Loto 336 Lavaggi...'
 sku: 'B088C7GHWN-it'
 tags: [  ]

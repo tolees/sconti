@@ -5,7 +5,7 @@ date: 2020-09-11 14:38:04
 image: 'https://m.media-amazon.com/images/I/51lMb2c2iSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089WWWZ74-it Finish Detersivo Per Lavastoviglie 100 Lavaggi Powergel 2...'
 sku: 'B089WWWZ74-it'
 tags: [  ]

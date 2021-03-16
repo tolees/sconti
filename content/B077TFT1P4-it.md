@@ -5,7 +5,7 @@ date: 2020-10-10 06:29:19
 image: 'https://m.media-amazon.com/images/I/51YAehY2YCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TFT1P4-it Bosch UniversalChain 18 Sega a Catena a Batteria senza...'
 sku: 'B077TFT1P4-it'
 tags: [  ]

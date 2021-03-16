@@ -5,7 +5,7 @@ date: 2020-08-31 08:06:01
 image: 'https://m.media-amazon.com/images/I/41gu-Ix0VrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFC5FBP-it MROTY Italia | Orologio Fitness Uomo Donna Fitness Tracker...'
 sku: 'B07XFC5FBP-it'
 tags: [  ]

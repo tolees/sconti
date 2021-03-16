@@ -5,7 +5,7 @@ date: 2020-08-26 21:32:42
 image: 'https://m.media-amazon.com/images/I/41hmFBZXKmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP81SDF-it adidas Falcon W Sneaker Donna Multicolore Black...'
 sku: 'B07DP81SDF-it'
 tags: [  ]

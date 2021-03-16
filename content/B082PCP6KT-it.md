@@ -5,7 +5,7 @@ date: 2020-07-19 12:46:14
 image: 'https://m.media-amazon.com/images/I/41JzckifYrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PCP6KT-it Honor Magicwatch 2 Smart Watch Da 46 Mm Con...'
 sku: 'B082PCP6KT-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 15:34:28
 image: 'https://m.media-amazon.com/images/I/31PHDp7vY0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN1WYB7-it Calvin Klein Layered Waistbag - Borse a spalla Uomo Blu...'
 sku: 'B07RN1WYB7-it'
 tags: [  ]

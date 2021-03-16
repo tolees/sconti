@@ -5,7 +5,7 @@ date: 2020-08-07 10:09:40
 image: 'https://m.media-amazon.com/images/I/31mY10BurZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078LJX5GY-it Imetec Bellissima Zero Pro Compact Epilatore a Luce...'
 sku: 'B078LJX5GY-it'
 tags: [  ]

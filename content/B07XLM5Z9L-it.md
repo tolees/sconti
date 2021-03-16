@@ -5,7 +5,7 @@ date: 2020-09-03 07:36:05
 image: 'https://m.media-amazon.com/images/I/31P+oGn8piL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLM5Z9L-it CARE OF by PUMA Slip on Court Low-Top Sneakers Nero Black-...'
 sku: 'B07XLM5Z9L-it'
 tags: [  ]

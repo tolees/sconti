@@ -5,7 +5,7 @@ date: 2020-09-09 07:43:22
 image: 'https://m.media-amazon.com/images/I/31Q5ZbRK9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRXBPMB-it Lenovo Tab E7 TB-7104F Tablet Display 7" 1024 x 600 pixels...'
 sku: 'B07HRXBPMB-it'
 tags: [  ]

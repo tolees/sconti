@@ -5,7 +5,7 @@ date: 2020-07-23 23:32:37
 image: 'https://m.media-amazon.com/images/I/41uKNg9aybL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLH53TV-it Smartphone Offerta del Giorno Cellulari Offerte 4G...'
 sku: 'B08BLH53TV-it'
 tags: [  ]

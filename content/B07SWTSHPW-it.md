@@ -5,7 +5,7 @@ date: 2020-09-26 09:52:51
 image: 'https://m.media-amazon.com/images/I/31C0rnz0jZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTSHPW-it Geox U Kennet B Scarpe da Ginnastica Basse Uomo Blu Navy...'
 sku: 'B07SWTSHPW-it'
 tags: [  ]

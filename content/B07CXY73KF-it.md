@@ -5,7 +5,7 @@ date: 2020-10-09 07:57:26
 image: 'https://m.media-amazon.com/images/I/31LOfp8sv5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXY73KF-it Samsung Memorie MB-ME64GA EVO Select Scheda microSD da 64...'
 sku: 'B07CXY73KF-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 09:48:32
 image: 'https://m.media-amazon.com/images/I/41t8VcfMmKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKT88ZT-it Under Armour UA Roland Backpack Borsa Unisex Blu OSFA'
 sku: 'B07JKT88ZT-it'
 tags: [  ]

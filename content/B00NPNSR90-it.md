@@ -5,7 +5,7 @@ date: 2020-09-05 09:04:19
 image: 'https://m.media-amazon.com/images/I/41bQ8U1bh8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NPNSR90-it Kenzo Jungle Eau de Toilette da uomo 100 ml'
 sku: 'B00NPNSR90-it'
 tags: [  ]

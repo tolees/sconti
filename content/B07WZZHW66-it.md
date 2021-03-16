@@ -5,7 +5,7 @@ date: 2020-08-25 06:19:32
 image: 'https://m.media-amazon.com/images/I/41Z3434L0lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZZHW66-it 【2020 Ultimo Modello】Arbily Cuffie Bluetooth in Ear...'
 sku: 'B07WZZHW66-it'
 tags: [  ]

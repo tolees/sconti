@@ -5,7 +5,7 @@ date: 2020-08-19 16:24:14
 image: 'https://m.media-amazon.com/images/I/51fElVlCrdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4Y5GHY-it Elyco Corda Saltare per Nintendo Switch Jump Rope...'
 sku: 'B08C4Y5GHY-it'
 tags: [  ]

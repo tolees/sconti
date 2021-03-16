@@ -5,7 +5,7 @@ date: 2020-08-18 13:46:58
 image: 'https://m.media-amazon.com/images/I/413diibxGnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084GPR4BW-it Svelto Expert Pastiglie per Lavastoviglie Extra Igiene...'
 sku: 'B084GPR4BW-it'
 tags: [  ]

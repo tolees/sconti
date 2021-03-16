@@ -5,7 +5,7 @@ date: 2020-08-20 13:01:57
 image: 'https://m.media-amazon.com/images/I/51FoRSdri6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0799BQJWX-it ESDDI Studio Fotografico Kit di Illuminazione 3x2.6M con...'
 sku: 'B0799BQJWX-it'
 tags: [  ]

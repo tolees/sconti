@@ -5,7 +5,7 @@ date: 2020-10-05 15:08:29
 image: 'https://m.media-amazon.com/images/I/51RB0roTPiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0054Y5JLW-it GIOTTO TURBO MAXI PUNTA 2 8MM PENNARELLI 36 PEZZI'
 sku: 'B0054Y5JLW-it'
 tags: [  ]

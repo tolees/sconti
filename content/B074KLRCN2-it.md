@@ -5,7 +5,7 @@ date: 2020-09-28 07:00:57
 image: 'https://m.media-amazon.com/images/I/51n+LXbJdHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KLRCN2-it Olimpia Splendid 99447 Caldodesign Termoventilatore...'
 sku: 'B074KLRCN2-it'
 tags: [  ]

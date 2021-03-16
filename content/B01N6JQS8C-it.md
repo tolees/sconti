@@ -5,7 +5,7 @@ date: 2020-09-23 20:12:00
 image: 'https://m.media-amazon.com/images/I/41xE5H4zsSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6JQS8C-it Kingston A400 SSD SA400S37/120G Unità a Stato Solido...'
 sku: 'B01N6JQS8C-it'
 tags: [  ]

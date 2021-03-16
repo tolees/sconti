@@ -5,7 +5,7 @@ date: 2020-09-07 10:28:40
 image: 'https://m.media-amazon.com/images/I/51Ady5PXalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D9H7LZZ-it Android 10.0 TV Box 2GB RAM 16GB ROM Smart TV Box Set Top...'
 sku: 'B08D9H7LZZ-it'
 tags: [  ]

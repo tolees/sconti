@@ -5,7 +5,7 @@ date: 2020-08-16 22:35:51
 image: 'https://m.media-amazon.com/images/I/310IxWSfrmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6KGRJ4-it Cover Redmi Note 9s Custodia TPU Morbido Flessibile...'
 sku: 'B08D6KGRJ4-it'
 tags: [  ]

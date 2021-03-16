@@ -5,7 +5,7 @@ date: 2020-09-12 11:05:27
 image: 'https://m.media-amazon.com/images/I/41egJC6qkUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2O4XLF-it FLOUREON Ricetrasmittente PMR Radio Ricetrasmittenti 8...'
 sku: 'B01N2O4XLF-it'
 tags: [  ]

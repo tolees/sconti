@@ -5,7 +5,7 @@ date: 2020-08-23 08:38:25
 image: 'https://m.media-amazon.com/images/I/41aXJJ5q9EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082TP9DLM-it Emojoy Set Coltelli da Cucina Ceppo Coltelli Cucina...'
 sku: 'B082TP9DLM-it'
 tags: [  ]

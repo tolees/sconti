@@ -5,7 +5,7 @@ date: 2020-08-14 14:50:58
 image: 'https://m.media-amazon.com/images/I/41B-p2v2XML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3RZZ3X-it VBIGER Zaino Porta PC Uomo 17.3 Pollici Impermeabile con...'
 sku: 'B07V3RZZ3X-it'
 tags: [  ]

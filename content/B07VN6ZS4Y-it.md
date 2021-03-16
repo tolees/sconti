@@ -5,7 +5,7 @@ date: 2020-09-04 07:08:37
 image: 'https://m.media-amazon.com/images/I/419ve9eu8dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN6ZS4Y-it YAMAMAY® Slip Costume Brasiliana Tinta Unita con Inserti...'
 sku: 'B07VN6ZS4Y-it'
 tags: [  ]

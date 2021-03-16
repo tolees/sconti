@@ -5,7 +5,7 @@ date: 2020-07-22 11:47:56
 image: 'https://m.media-amazon.com/images/I/41ybknuFZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y51JJF6-it TUTUO Wireless Controller per Nintendo Switch Bluetooth...'
 sku: 'B07Y51JJF6-it'
 tags: [  ]

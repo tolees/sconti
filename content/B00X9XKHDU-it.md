@@ -5,7 +5,7 @@ date: 2020-10-11 17:53:25
 image: 'https://m.media-amazon.com/images/I/31HOMf5hTXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9XKHDU-it Maybelline New York Ciglia Sensazionali Mascara...'
 sku: 'B00X9XKHDU-it'
 tags: [  ]

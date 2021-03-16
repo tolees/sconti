@@ -5,7 +5,7 @@ date: 2020-08-20 15:28:48
 image: 'https://m.media-amazon.com/images/I/41eRUVxWqBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYHM67R-it Levi s Lady Luck Felpa Blu Crew Feminine Logo Marina 0004...'
 sku: 'B07TYHM67R-it'
 tags: [  ]

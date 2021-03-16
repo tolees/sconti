@@ -5,7 +5,7 @@ date: 2020-08-21 22:26:20
 image: 'https://m.media-amazon.com/images/I/51q7sIsuzML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0896WS3TH-it Wimypet Giochi per Cani durevoli Giocattolo Palla per Cane...'
 sku: 'B0896WS3TH-it'
 tags: [  ]

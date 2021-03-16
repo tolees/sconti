@@ -5,7 +5,7 @@ date: 2020-08-19 07:26:03
 image: 'https://m.media-amazon.com/images/I/41QrVGy0r8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AZLJOD2-it New Balance 500 Scarpe Sportive Uomo Grigio Grey/White Gry...'
 sku: 'B01AZLJOD2-it'
 tags: [  ]

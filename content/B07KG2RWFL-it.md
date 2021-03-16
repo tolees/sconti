@@ -5,7 +5,7 @@ date: 2020-08-28 08:33:16
 image: 'https://m.media-amazon.com/images/I/31CE8QYoYsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG2RWFL-it Puma Ralph Sampson Lo Scarpe da Ginnastica Unisex-Adulto...'
 sku: 'B07KG2RWFL-it'
 tags: [  ]

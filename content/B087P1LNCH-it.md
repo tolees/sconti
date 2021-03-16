@@ -5,7 +5,7 @@ date: 2020-08-06 14:18:53
 image: 'https://m.media-amazon.com/images/I/41uMyneimyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087P1LNCH-it HOMEVER Specchio Trucco con 21 LEDs Specchio di Vanity...'
 sku: 'B087P1LNCH-it'
 tags: [  ]

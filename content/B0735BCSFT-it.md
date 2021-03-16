@@ -5,7 +5,7 @@ date: 2020-09-02 08:33:25
 image: 'https://m.media-amazon.com/images/I/412IfEvjfvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0735BCSFT-it Napapijri Rainforest Winter - Giacca con cappuccio 100 %...'
 sku: 'B0735BCSFT-it'
 tags: [  ]

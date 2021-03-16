@@ -5,7 +5,7 @@ date: 2020-08-28 04:26:55
 image: 'https://m.media-amazon.com/images/I/515fzcFMtcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX8PXML-it New Balance Unisex - Adulto 574v2 Core Scarpe da...'
 sku: 'B06XX8PXML-it'
 tags: [  ]

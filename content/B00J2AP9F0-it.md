@@ -5,7 +5,7 @@ date: 2020-08-09 14:01:49
 image: 'https://m.media-amazon.com/images/I/41gy3uBbMrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J2AP9F0-it Gillette Fusion Proglide Flexball Rasatura'
 sku: 'B00J2AP9F0-it'
 tags: [  ]

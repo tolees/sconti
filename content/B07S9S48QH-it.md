@@ -5,7 +5,7 @@ date: 2020-08-28 07:50:52
 image: 'https://m.media-amazon.com/images/I/31DGxc0CHML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9S48QH-it PUMA Vikky Stacked L Sneakers Donna Grigio Silver Cloud-...'
 sku: 'B07S9S48QH-it'
 tags: [  ]

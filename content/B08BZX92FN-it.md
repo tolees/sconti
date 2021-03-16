@@ -5,7 +5,7 @@ date: 2020-09-13 06:51:18
 image: 'https://m.media-amazon.com/images/I/41Ngf3iFYGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZX92FN-it homcom Poltrona Girevole 360° in Stile Chesterfield con...'
 sku: 'B08BZX92FN-it'
 tags: [  ]

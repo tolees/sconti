@@ -5,7 +5,7 @@ date: 2020-09-16 08:50:07
 image: 'https://m.media-amazon.com/images/I/31b8ycmf7FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DVM67LK-it AVM FRITZ!Repeater 310 International Range Extender...'
 sku: 'B00DVM67LK-it'
 tags: [  ]

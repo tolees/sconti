@@ -5,7 +5,7 @@ date: 2020-10-02 07:18:47
 image: 'https://m.media-amazon.com/images/I/31xbQmR0riL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLQ4P8W-it Panasonic RP-HTX90N Cuffie Bluetooth a Padiglione Bassi...'
 sku: 'B07NLQ4P8W-it'
 tags: [  ]

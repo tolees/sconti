@@ -5,7 +5,7 @@ date: 2020-08-09 10:45:00
 image: 'https://m.media-amazon.com/images/I/31WTAe-TdYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BZ62QS-it TP-Link Deco M5 Wifi Mesh - Pacchetto da 3 Unità Fino a...'
 sku: 'B072BZ62QS-it'
 tags: [  ]

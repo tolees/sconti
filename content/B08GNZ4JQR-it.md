@@ -5,7 +5,7 @@ date: 2020-09-17 20:39:01
 image: 'https://m.media-amazon.com/images/I/41Z8PTTPwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GNZ4JQR-it X-Dision [3 Pezzi Compatibile con Sony Xperia X Compact...'
 sku: 'B08GNZ4JQR-it'
 tags: [  ]

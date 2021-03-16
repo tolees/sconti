@@ -5,7 +5,7 @@ date: 2020-09-26 10:42:11
 image: 'https://m.media-amazon.com/images/I/31LcOCXiH-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XN8CV3-it Under Armour Recovery Sleepwear Crew Maglietta a Maniche...'
 sku: 'B077XN8CV3-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2021-02-01 15:55:10
 image: 'https://m.media-amazon.com/images/I/31qQwc5OIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CPCCWZ-it THUN - Set 3 Vasi per Piantine con Decorazione Colorata -...'
 sku: 'B087CPCCWZ-it'
 tags: [ 'thun', ]
@@ -28,10 +28,10 @@ average: '14.95'
 
 ℹ️:
 
-- CATEGORIA - Living, Arredare la casa
-- CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
-- MATERIALI - Ceramica
 - DIMENSIONI - Ø 10 cm; 8 h cm
+- CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
+- CATEGORIA - Living, Arredare la casa
 - PRODOTTO - Set di 3 vasetti formato piccolo, per piantine e piante grasse, con decorazione colorata
+- MATERIALI - Ceramica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087CPCCWZ/?tag=tolees00-21)

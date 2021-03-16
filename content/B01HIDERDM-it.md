@@ -5,7 +5,7 @@ date: 2020-08-18 06:10:11
 image: 'https://m.media-amazon.com/images/I/41DAs6pZW4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HIDERDM-it Aigostar Monique 32HIE – Asciugacapelli Ionico...'
 sku: 'B01HIDERDM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 12:39:50
 image: 'https://m.media-amazon.com/images/I/31B0xT9dytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078FHCYYZ-it Puma Liga Zaino Unisex-Adulto Nero Black Taglia Unica'
 sku: 'B078FHCYYZ-it'
 tags: [  ]

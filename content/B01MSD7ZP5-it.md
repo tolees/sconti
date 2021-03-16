@@ -5,7 +5,7 @@ date: 2020-08-19 23:28:39
 image: 'https://m.media-amazon.com/images/I/51FmCuh-HxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSD7ZP5-it Smart Panda Lavagna Calendario Magnetico Frigorifero -...'
 sku: 'B01MSD7ZP5-it'
 tags: [  ]

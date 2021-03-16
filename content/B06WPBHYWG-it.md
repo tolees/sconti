@@ -5,7 +5,7 @@ date: 2020-09-26 09:09:57
 image: 'https://m.media-amazon.com/images/I/41cghj9IuwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WPBHYWG-it Adidas Vs Pace Scarpe da Ginnastica Uomo Blu...'
 sku: 'B06WPBHYWG-it'
 tags: [  ]

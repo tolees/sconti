@@ -5,7 +5,7 @@ date: 2020-08-07 23:56:26
 image: 'https://m.media-amazon.com/images/I/51DgDX0JV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006ZVD3IY-it SYLVANIAN FAMILIES Accessori Multicolore 2745'
 sku: 'B006ZVD3IY-it'
 tags: [  ]

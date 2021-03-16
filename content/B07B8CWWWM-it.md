@@ -5,7 +5,7 @@ date: 2020-08-05 08:02:56
 image: 'https://m.media-amazon.com/images/I/51DpFdTvciL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8CWWWM-it Lifewit 15L Borsa Termica Manutenzione di Freddo e Caldo...'
 sku: 'B07B8CWWWM-it'
 tags: [  ]

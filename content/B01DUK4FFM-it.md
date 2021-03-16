@@ -5,7 +5,7 @@ date: 2020-08-24 04:03:47
 image: 'https://m.media-amazon.com/images/I/41MRwa-O8UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DUK4FFM-it Barbie-la Casa di Malibu per Bambole con Accessori e...'
 sku: 'B01DUK4FFM-it'
 tags: [  ]

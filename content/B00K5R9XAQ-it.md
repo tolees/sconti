@@ -5,7 +5,7 @@ date: 2020-09-18 02:54:37
 image: 'https://m.media-amazon.com/images/I/31wKpYZLZ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5R9XAQ-it Tommy Hilfiger Stretch V Neck 3 Pack Premium Ess Maglietta...'
 sku: 'B00K5R9XAQ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 08:13:42
 image: 'https://m.media-amazon.com/images/I/51bHixkka9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XEV4WYM-it Silent Mind ~ Campana Tibetana con Accessori ~ Modello...'
 sku: 'B00XEV4WYM-it'
 tags: [  ]

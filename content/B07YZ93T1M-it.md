@@ -5,7 +5,7 @@ date: 2020-07-28 07:00:47
 image: 'https://m.media-amazon.com/images/I/31oR+xP8evL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZ93T1M-it Oxford Street Cuscino Cervicale Memory Foam Cuscini...'
 sku: 'B07YZ93T1M-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 10:36:16
 image: 'https://m.media-amazon.com/images/I/41pqqfZb3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M64XEO4-it Jungle Formula Molto Forte Spray Anti-Zanzare Repellente...'
 sku: 'B01M64XEO4-it'
 tags: [  ]

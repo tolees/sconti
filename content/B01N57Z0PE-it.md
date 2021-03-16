@@ -5,7 +5,7 @@ date: 2020-08-14 23:45:40
 image: 'https://m.media-amazon.com/images/I/31H2gNzg9FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N57Z0PE-it Lacoste L1212 T-Shirt Polo Uomo Blu Marine 166 FR 10'
 sku: 'B01N57Z0PE-it'
 tags: [  ]

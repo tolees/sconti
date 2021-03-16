@@ -5,7 +5,7 @@ date: 2020-10-01 08:58:05
 image: 'https://m.media-amazon.com/images/I/31o8J5XejSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B67ZK2P-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa Nero...'
 sku: 'B07B67ZK2P-it'
 tags: [  ]

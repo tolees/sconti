@@ -5,7 +5,7 @@ date: 2020-09-01 16:43:25
 image: 'https://m.media-amazon.com/images/I/41AX0QMBfJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLI77L6-it Tommy Hilfiger - Orologio da donna Impermeabile fino a 3...'
 sku: 'B01JLI77L6-it'
 tags: [  ]

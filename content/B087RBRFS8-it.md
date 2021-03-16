@@ -5,7 +5,7 @@ date: 2020-08-11 05:37:44
 image: 'https://m.media-amazon.com/images/I/41AKa8QsylL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RBRFS8-it Aigostar York 30RUM - Panini Maker/Griglia elettrica e...'
 sku: 'B087RBRFS8-it'
 tags: [  ]

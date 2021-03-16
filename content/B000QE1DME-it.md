@@ -5,7 +5,7 @@ date: 2020-09-21 15:17:26
 image: 'https://m.media-amazon.com/images/I/31EnT2RdE2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000QE1DME-it Birkenstock Arizona Birko-Flor ciabatte unisex per adulti...'
 sku: 'B000QE1DME-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-06 23:50:06
 image: 'https://m.media-amazon.com/images/I/21MGhAh6A4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXC1JRV-it Controller wireless PS4 per laptop Playstation 4 /...'
 sku: 'B07PXC1JRV-it'
 tags: [  ]

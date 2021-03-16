@@ -5,7 +5,7 @@ date: 2020-09-21 15:32:03
 image: 'https://m.media-amazon.com/images/I/315EpASn9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2H6YCV-it Thule 711100 Barre Portatutto Alluminio 108 cm Set di 2'
 sku: 'B07J2H6YCV-it'
 tags: [  ]

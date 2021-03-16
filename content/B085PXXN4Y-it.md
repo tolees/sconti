@@ -5,7 +5,7 @@ date: 2020-09-16 06:26:36
 image: 'https://m.media-amazon.com/images/I/31HlF8dADqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085PXXN4Y-it Südtirol - Alto Adige DOC Goldmuskateller Blumenfeld 2019...'
 sku: 'B085PXXN4Y-it'
 tags: [  ]

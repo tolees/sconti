@@ -5,7 +5,7 @@ date: 2020-10-10 09:55:35
 image: 'https://m.media-amazon.com/images/I/41B8KCFvvnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BD7GM00-it Swiffer Kit con 1 Scopa + 8 Panni per Pavimenti e 1...'
 sku: 'B01BD7GM00-it'
 tags: [  ]

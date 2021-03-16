@@ -5,7 +5,7 @@ date: 2020-08-13 05:36:22
 image: 'https://m.media-amazon.com/images/I/41c8S1fi+HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F7J2GPS-it eXtremeRate Dawn 2.0 Remap kit Trigger Stop per...'
 sku: 'B08F7J2GPS-it'
 tags: [  ]

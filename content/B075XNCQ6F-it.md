@@ -5,7 +5,7 @@ date: 2020-08-10 16:48:18
 image: 'https://m.media-amazon.com/images/I/41eFgGV+QgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XNCQ6F-it AhaStyle - Supporto per cellulare 3 in 1 in silicone...'
 sku: 'B075XNCQ6F-it'
 tags: [  ]

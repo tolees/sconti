@@ -5,7 +5,7 @@ date: 2020-09-26 09:10:21
 image: 'https://m.media-amazon.com/images/I/51zpD9ODRtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0EZ4YA-it Skyrim - Special Edition'
 sku: 'B01H0EZ4YA-it'
 tags: [  ]

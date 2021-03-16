@@ -5,7 +5,7 @@ date: 2020-09-21 07:01:53
 image: 'https://m.media-amazon.com/images/I/41QhbcKaxjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085SNQKJX-it Neutro Roberts Sapone Liquido Antibatterico Bipacco 2x6...'
 sku: 'B085SNQKJX-it'
 tags: [  ]

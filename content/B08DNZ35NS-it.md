@@ -5,7 +5,7 @@ date: 2020-08-15 05:35:59
 image: 'https://m.media-amazon.com/images/I/51ktB1CXsBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNZ35NS-it EasySMX Switch Controller Switch Controller Controller Pro...'
 sku: 'B08DNZ35NS-it'
 tags: [  ]

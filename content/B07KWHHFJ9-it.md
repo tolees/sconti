@@ -5,7 +5,7 @@ date: 2020-10-12 20:28:43
 image: 'https://m.media-amazon.com/images/I/51fuV8Gc7dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWHHFJ9-it Paranoia Airlines'
 sku: 'B07KWHHFJ9-it'
 tags: [  ]

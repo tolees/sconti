@@ -5,7 +5,7 @@ date: 2020-10-06 12:13:22
 image: 'https://m.media-amazon.com/images/I/51dSP0a8zGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVBK5ZM-it Procos- Pignatta 30 cm Cars 3 Multicolore 5PR87933'
 sku: 'B06WVBK5ZM-it'
 tags: [  ]

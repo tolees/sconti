@@ -5,7 +5,7 @@ date: 2020-09-01 11:20:33
 image: 'https://m.media-amazon.com/images/I/41M7WBC2UDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVK5QD6-it KLAS REMO Dispenser di Sapone Automatico 400ML Erogatore...'
 sku: 'B08CVK5QD6-it'
 tags: [  ]

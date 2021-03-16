@@ -5,7 +5,7 @@ date: 2020-07-23 10:01:59
 image: 'https://m.media-amazon.com/images/I/41vRVKAehQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQSDFVC-it Infreecs Mini Ventilatore USB Ventilatore Palmare USB 2 in...'
 sku: 'B07TQSDFVC-it'
 tags: [  ]

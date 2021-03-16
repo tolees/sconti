@@ -5,7 +5,7 @@ date: 2020-07-31 17:15:44
 image: 'https://m.media-amazon.com/images/I/31wQYHGMTtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTDPBJ4-it Samsung DV80M5010KW Asciugatrice 8 kg 1200 rpm Bianco'
 sku: 'B07TTDPBJ4-it'
 tags: [  ]

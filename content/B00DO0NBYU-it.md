@@ -5,7 +5,7 @@ date: 2020-09-23 23:28:13
 image: 'https://m.media-amazon.com/images/I/41I9BkbzvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DO0NBYU-it Brooks - Scarpe sportive - Running Uomo Nero Black 45.5'
 sku: 'B00DO0NBYU-it'
 tags: [  ]

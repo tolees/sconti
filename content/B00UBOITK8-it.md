@@ -5,7 +5,7 @@ date: 2020-09-26 19:25:44
 image: 'https://m.media-amazon.com/images/I/41j9-P2V4oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBOITK8-it Tommy Hilfiger 3p Trunk Boxer Nero Black/Grey...'
 sku: 'B00UBOITK8-it'
 tags: [  ]

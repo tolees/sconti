@@ -5,7 +5,7 @@ date: 2020-08-19 14:42:48
 image: 'https://m.media-amazon.com/images/I/41wqIZg8OfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFX94L6-it Puma Amplified Crew Sweat TR Felpa Donna Black L'
 sku: 'B07XFX94L6-it'
 tags: [  ]

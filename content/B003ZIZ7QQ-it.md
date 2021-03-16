@@ -5,7 +5,7 @@ date: 2020-09-11 08:22:19
 image: 'https://m.media-amazon.com/images/I/41QEDXZWz-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ZIZ7QQ-it Panasonic WER160L2504 - Batteria per rasoio professionale...'
 sku: 'B003ZIZ7QQ-it'
 tags: [  ]

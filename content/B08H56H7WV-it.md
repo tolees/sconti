@@ -5,7 +5,7 @@ date: 2020-10-02 20:19:28
 image: 'https://m.media-amazon.com/images/I/41A4BKjG+ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H56H7WV-it Aerku Cover Silicone per Samsung Galaxy M51 Morbido...'
 sku: 'B08H56H7WV-it'
 tags: [  ]

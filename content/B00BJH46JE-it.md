@@ -5,7 +5,7 @@ date: 2020-09-27 15:45:14
 image: 'https://m.media-amazon.com/images/I/41sSH+GJmjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BJH46JE-it BaByliss For Men E837E X-10 Kit multiaccessoriato per...'
 sku: 'B00BJH46JE-it'
 tags: [  ]

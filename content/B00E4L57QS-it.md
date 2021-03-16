@@ -5,7 +5,7 @@ date: 2020-08-24 06:32:25
 image: 'https://m.media-amazon.com/images/I/41EtRrCkoSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E4L57QS-it Svelto Piatti a Mano Aceto 1 l'
 sku: 'B00E4L57QS-it'
 tags: [  ]

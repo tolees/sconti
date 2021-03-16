@@ -5,7 +5,7 @@ date: 2020-08-30 18:48:30
 image: 'https://m.media-amazon.com/images/I/31h3WExj2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SN5G8QW-it Under Armour Rush HeatGear Compression Maglietta A Maniche...'
 sku: 'B07SN5G8QW-it'
 tags: [  ]

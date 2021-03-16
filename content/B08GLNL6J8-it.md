@@ -5,7 +5,7 @@ date: 2020-09-18 14:50:30
 image: 'https://m.media-amazon.com/images/I/51PIVGdk7hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLNL6J8-it UniqueMe [3 Pezzi] Pellicola Fotocamera per Xiaomi Mi Note...'
 sku: 'B08GLNL6J8-it'
 tags: [  ]

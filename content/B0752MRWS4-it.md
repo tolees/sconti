@@ -5,7 +5,7 @@ date: 2020-07-19 17:12:01
 image: 'https://m.media-amazon.com/images/I/41MuWkkaBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752MRWS4-it Havaianas Brasil Logo Infradito Unisex-Adulto Giallo...'
 sku: 'B0752MRWS4-it'
 tags: [  ]

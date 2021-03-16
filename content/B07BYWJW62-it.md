@@ -5,7 +5,7 @@ date: 2020-09-08 13:14:28
 image: 'https://m.media-amazon.com/images/I/417-DBq74EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BYWJW62-it Paco Rabanne Profumo - 100 Ml'
 sku: 'B07BYWJW62-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:26:28
 image: 'https://m.media-amazon.com/images/I/41Sz6WXnxsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078PHCHSW-it Pioneer Ts-Wx130Da Subwoofer per Macchina Nero'
 sku: 'B078PHCHSW-it'
 tags: [  ]

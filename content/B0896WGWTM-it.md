@@ -5,7 +5,7 @@ date: 2020-08-19 16:25:58
 image: 'https://m.media-amazon.com/images/I/5163GJl1pCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0896WGWTM-it iLink Kids Montessori Wooden Tangram Shape Puzzle Toys...'
 sku: 'B0896WGWTM-it'
 tags: [  ]

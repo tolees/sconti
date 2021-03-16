@@ -5,7 +5,7 @@ date: 2020-08-10 00:05:00
 image: 'https://m.media-amazon.com/images/I/41knqliBOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0871WXNWD-it Laelr Ultimi controller wireless per Nintendo Switch Mini...'
 sku: 'B0871WXNWD-it'
 tags: [  ]

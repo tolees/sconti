@@ -5,7 +5,7 @@ date: 2020-09-22 06:20:10
 image: 'https://m.media-amazon.com/images/I/41HRKwcUFJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4R75DP-it Cuffie per giochi per PS4 Cuffie per giocatori a LED blu...'
 sku: 'B07R4R75DP-it'
 tags: [  ]

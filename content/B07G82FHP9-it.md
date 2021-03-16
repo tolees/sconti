@@ -5,7 +5,7 @@ date: 2020-09-02 09:23:16
 image: 'https://m.media-amazon.com/images/I/41nm6JpNjtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G82FHP9-it Polar Vantage M Sportwatch per Allenamenti Multisport...'
 sku: 'B07G82FHP9-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-17 12:01:14
 image: 'https://m.media-amazon.com/images/I/41eampUqXsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9TJPGP-it eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY...'
 sku: 'B08C9TJPGP-it'
 tags: [  ]

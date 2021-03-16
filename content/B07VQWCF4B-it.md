@@ -5,7 +5,7 @@ date: 2020-09-15 12:40:27
 image: 'https://m.media-amazon.com/images/I/41tSW0z4I1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQWCF4B-it Calvin Klein Medium Drawstring Pantaloncini Blu Air Blue...'
 sku: 'B07VQWCF4B-it'
 tags: [  ]

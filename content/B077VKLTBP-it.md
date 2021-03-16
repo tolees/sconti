@@ -5,7 +5,7 @@ date: 2020-08-05 07:33:53
 image: 'https://m.media-amazon.com/images/I/51n7iKL3BwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VKLTBP-it Aigostar Rubik 30JVU - 750W Black Sandwich...'
 sku: 'B077VKLTBP-it'
 tags: [  ]

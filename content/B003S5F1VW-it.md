@@ -5,7 +5,7 @@ date: 2020-08-23 16:14:49
 image: 'https://m.media-amazon.com/images/I/314SLVkj1oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003S5F1VW-it Lacoste Sport L1230 Polo Sport Ultraleggera Bianco White...'
 sku: 'B003S5F1VW-it'
 tags: [  ]

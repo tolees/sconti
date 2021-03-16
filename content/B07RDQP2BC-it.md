@@ -5,7 +5,7 @@ date: 2020-08-20 17:45:41
 image: 'https://m.media-amazon.com/images/I/31m2hoN65rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDQP2BC-it Tommy Hilfiger Tjw Waffle Hybrid Longsleeve Maglia...'
 sku: 'B07RDQP2BC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 12:47:49
 image: 'https://m.media-amazon.com/images/I/41RNwrR5X7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2J2D6S-it Tommy Hilfiger Corporate Material Mix Runner Scarpe da...'
 sku: 'B07V2J2D6S-it'
 tags: [  ]

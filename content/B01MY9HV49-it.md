@@ -5,7 +5,7 @@ date: 2020-09-27 07:44:58
 image: 'https://m.media-amazon.com/images/I/51s6mTQGGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY9HV49-it B.Catcher Collana con pendenti gemelli in zircone cubico...'
 sku: 'B01MY9HV49-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-07 11:02:53
 image: 'https://m.media-amazon.com/images/I/41aA-3vlNZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNBK93B-it Collana con ciondolo rosa Swarovski zircone gioielli per...'
 sku: 'B07DNBK93B-it'
 tags: [  ]

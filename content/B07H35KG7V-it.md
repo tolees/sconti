@@ -5,7 +5,7 @@ date: 2020-09-10 08:04:57
 image: 'https://m.media-amazon.com/images/I/41ItQrE66pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H35KG7V-it Pastaza Stivali da Neve Uomo Donna Trekking Scarpe Inverno...'
 sku: 'B07H35KG7V-it'
 tags: [  ]

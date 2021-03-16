@@ -5,7 +5,7 @@ date: 2020-08-20 18:20:31
 image: 'https://m.media-amazon.com/images/I/51GoV9bXalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYZ8DWS-it Ginocchiera a Compressione unisex 1 Paio Ginocchiere...'
 sku: 'B07QYZ8DWS-it'
 tags: [  ]

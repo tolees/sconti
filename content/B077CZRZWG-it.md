@@ -5,7 +5,7 @@ date: 2020-08-29 18:30:44
 image: 'https://m.media-amazon.com/images/I/41+eLYO5xzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077CZRZWG-it Anjou Trucco Ricaricabile Luce LED Touchscreen Regolabile...'
 sku: 'B077CZRZWG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 14:21:27
 image: 'https://m.media-amazon.com/images/I/51TX3sze4IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1MMH3I-it Nikon D5600 + AF-S DX NIKKOR 18-105 mm VR Fotocamera...'
 sku: 'B01N1MMH3I-it'
 tags: [  ]

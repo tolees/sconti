@@ -5,7 +5,7 @@ date: 2020-08-31 10:26:04
 image: 'https://m.media-amazon.com/images/I/41bv93LQrTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKQT54A-it Daniel Wellington Classic Cambridge Orologio da polso Uomo...'
 sku: 'B00BKQT54A-it'
 tags: [  ]

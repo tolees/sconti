@@ -5,7 +5,7 @@ date: 2020-09-05 17:01:01
 image: 'https://m.media-amazon.com/images/I/41Jk3iY878L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W3Z9S2D-it GIARIDE Cavo HDMI a VGA HDMI D-Sub 15 Pin M/M Adattatore...'
 sku: 'B07W3Z9S2D-it'
 tags: [  ]

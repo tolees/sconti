@@ -5,7 +5,7 @@ date: 2020-10-01 06:29:41
 image: 'https://m.media-amazon.com/images/I/41a0DFo-bYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004PBZIA2-it Seiko Orologio Analogico Automatico Uomo con Cinturino in...'
 sku: 'B004PBZIA2-it'
 tags: [  ]

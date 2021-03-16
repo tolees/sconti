@@ -5,7 +5,7 @@ date: 2020-08-29 12:07:29
 image: 'https://m.media-amazon.com/images/I/41ADof5hP3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXJD9P2-it New Balance 373 Core Sneaker Uomo Verde Green/White Cb2'
 sku: 'B07RXJD9P2-it'
 tags: [  ]

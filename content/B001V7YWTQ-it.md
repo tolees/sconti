@@ -5,7 +5,7 @@ date: 2020-09-29 09:03:14
 image: 'https://m.media-amazon.com/images/I/61XmbMoriGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001V7YWTQ-it Live From Madison Square Garden'
 sku: 'B001V7YWTQ-it'
 tags: [  ]

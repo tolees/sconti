@@ -5,7 +5,7 @@ date: 2020-10-11 11:17:15
 image: 'https://m.media-amazon.com/images/I/61U6vdkAfWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GSS4M3B-it HEYB Cover Xiaomi Redmi 9C Custodia Premium Vera Pelle...'
 sku: 'B08GSS4M3B-it'
 tags: [  ]

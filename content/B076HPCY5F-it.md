@@ -5,7 +5,7 @@ date: 2020-10-08 11:39:27
 image: 'https://m.media-amazon.com/images/I/41VH4rmh-NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HPCY5F-it adidas Condivo 18 Jacket Giacca Uomo Blu Blu...'
 sku: 'B076HPCY5F-it'
 tags: [  ]

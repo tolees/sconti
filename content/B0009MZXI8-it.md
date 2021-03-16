@@ -5,7 +5,7 @@ date: 2020-09-16 06:27:25
 image: 'https://m.media-amazon.com/images/I/41zCPbRiy4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009MZXI8-it Thorlo Thorlos Crew-Calzini da tennis taglia M colore:...'
 sku: 'B0009MZXI8-it'
 tags: [  ]

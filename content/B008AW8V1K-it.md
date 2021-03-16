@@ -5,7 +5,7 @@ date: 2020-10-06 06:59:02
 image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008AW8V1K-it Lacoste Sport L1230 Polo Sport Ultraleggera Nero Black 031...'
 sku: 'B008AW8V1K-it'
 tags: [  ]

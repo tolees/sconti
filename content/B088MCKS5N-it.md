@@ -5,7 +5,7 @@ date: 2020-08-30 06:43:02
 image: 'https://m.media-amazon.com/images/I/41gyloEAEFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088MCKS5N-it Isincer Streaming Webcam HD 1080p con Microfono a...'
 sku: 'B088MCKS5N-it'
 tags: [  ]

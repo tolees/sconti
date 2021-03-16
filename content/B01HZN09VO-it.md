@@ -5,7 +5,7 @@ date: 2020-09-17 05:33:04
 image: 'https://m.media-amazon.com/images/I/61KLeJOBVzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HZN09VO-it Dragon Ball Xenoverse 2 - Xbox One'
 sku: 'B01HZN09VO-it'
 tags: [  ]

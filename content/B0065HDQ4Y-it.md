@@ -5,7 +5,7 @@ date: 2020-08-02 12:29:06
 image: 'https://m.media-amazon.com/images/I/51ac-EppCWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0065HDQ4Y-it Intex 56942GS Piscina Rotonda con Pompa 305 x 76 cm'
 sku: 'B0065HDQ4Y-it'
 tags: [  ]

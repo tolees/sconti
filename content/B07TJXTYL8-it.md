@@ -5,7 +5,7 @@ date: 2020-08-19 09:21:54
 image: 'https://m.media-amazon.com/images/I/41G5ARudixL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJXTYL8-it Lacoste L1212 Polo Blu Cicer Yzk 2XL Uomo'
 sku: 'B07TJXTYL8-it'
 tags: [  ]

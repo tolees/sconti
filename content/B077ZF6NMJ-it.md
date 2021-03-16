@@ -5,7 +5,7 @@ date: 2020-09-05 07:09:40
 image: 'https://m.media-amazon.com/images/I/41TfNRiL0iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZF6NMJ-it Tristar Crispy Mini Friggitrice ad aria calda 1000 W 2...'
 sku: 'B077ZF6NMJ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 08:41:39
 image: 'https://m.media-amazon.com/images/I/41cwQNaAxrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DC80K5G-it Kimbo Capsule di Caffè Espresso Sublime Kimbo UNO System 6...'
 sku: 'B01DC80K5G-it'
 tags: [  ]

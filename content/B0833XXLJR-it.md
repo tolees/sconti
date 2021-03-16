@@ -5,7 +5,7 @@ date: 2020-08-01 11:29:08
 image: 'https://m.media-amazon.com/images/I/41sgeFonMGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833XXLJR-it Netac 32G Scheda Micro SD Scheda di Memoria A1 U1 C10 V10...'
 sku: 'B0833XXLJR-it'
 tags: [  ]

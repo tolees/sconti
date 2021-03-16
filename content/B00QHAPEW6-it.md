@@ -5,7 +5,7 @@ date: 2020-10-01 09:58:19
 image: 'https://m.media-amazon.com/images/I/31LTKENqybL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QHAPEW6-it Under Armour ColdGear Armour Mock Maglia Uomo Blanco White M'
 sku: 'B00QHAPEW6-it'
 tags: [  ]

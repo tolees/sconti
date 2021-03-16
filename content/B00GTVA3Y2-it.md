@@ -5,7 +5,7 @@ date: 2020-07-21 10:36:16
 image: 'https://m.media-amazon.com/images/I/51aTsBJIVSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GTVA3Y2-it Vape Diffusore Elettrico con Filo contro Zanzare Durata 12...'
 sku: 'B00GTVA3Y2-it'
 tags: [  ]

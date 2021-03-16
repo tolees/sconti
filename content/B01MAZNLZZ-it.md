@@ -5,7 +5,7 @@ date: 2020-09-28 11:24:21
 image: 'https://m.media-amazon.com/images/I/31BPBUxSpQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MAZNLZZ-it Redford Nizza Camicia Uomo Blu Blau Misura Collo: 44 cm...'
 sku: 'B01MAZNLZZ-it'
 tags: [  ]

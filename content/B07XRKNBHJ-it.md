@@ -5,7 +5,7 @@ date: 2020-08-19 08:56:23
 image: 'https://m.media-amazon.com/images/I/41FIhFIWFyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRKNBHJ-it Bilancia Pesapersone Digitali Vigorun Bilance Grassa...'
 sku: 'B07XRKNBHJ-it'
 tags: [  ]

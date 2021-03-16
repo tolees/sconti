@@ -5,7 +5,7 @@ date: 2020-09-24 07:53:45
 image: 'https://m.media-amazon.com/images/I/31O+YkFKBAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJ3ZDTN-it Aigostar - Lampada da scrivania con protezione degli occhi...'
 sku: 'B08BJ3ZDTN-it'
 tags: [  ]

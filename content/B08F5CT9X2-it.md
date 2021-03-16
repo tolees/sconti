@@ -5,7 +5,7 @@ date: 2020-08-29 22:54:44
 image: 'https://m.media-amazon.com/images/I/31le5LwUxHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F5CT9X2-it Cuffie Bluetooth 5.0 cuffie wireless cuffie stereo 3D con...'
 sku: 'B08F5CT9X2-it'
 tags: [  ]

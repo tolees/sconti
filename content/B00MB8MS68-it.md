@@ -5,7 +5,7 @@ date: 2020-10-12 22:20:57
 image: 'https://m.media-amazon.com/images/I/41qLau8EFhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MB8MS68-it Kenwood HDP404WH Mixer ad Immersione 800 W Tritatutto da 0...'
 sku: 'B00MB8MS68-it'
 tags: [  ]

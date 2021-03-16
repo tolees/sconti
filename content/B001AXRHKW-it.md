@@ -5,7 +5,7 @@ date: 2020-10-11 06:35:10
 image: 'https://m.media-amazon.com/images/I/31TQ9pEaZdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001AXRHKW-it Peugeot Tahiti Set macina Sale e macina Pepe 20 cm Colore:...'
 sku: 'B001AXRHKW-it'
 tags: [  ]

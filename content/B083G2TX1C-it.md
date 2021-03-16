@@ -5,7 +5,7 @@ date: 2020-10-09 08:50:54
 image: 'https://m.media-amazon.com/images/I/31-uWzsXGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083G2TX1C-it PISEN ColorPower PRO Portable Power Bank 10000mAh Oro...'
 sku: 'B083G2TX1C-it'
 tags: [  ]

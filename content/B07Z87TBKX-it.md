@@ -5,7 +5,7 @@ date: 2020-09-21 15:34:17
 image: 'https://m.media-amazon.com/images/I/51K+z1fn-7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z87TBKX-it Joker'
 sku: 'B07Z87TBKX-it'
 tags: [  ]

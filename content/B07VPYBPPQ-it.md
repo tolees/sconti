@@ -5,7 +5,7 @@ date: 2020-08-02 16:27:38
 image: 'https://m.media-amazon.com/images/I/31qNvnt2RWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPYBPPQ-it Calvin Klein 3p Trunk Boxer Blu Lost Blue/Wild Fern/Raisin...'
 sku: 'B07VPYBPPQ-it'
 tags: [  ]

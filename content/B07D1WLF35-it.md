@@ -5,7 +5,7 @@ date: 2020-09-09 11:11:53
 image: 'https://m.media-amazon.com/images/I/516t3kBVf2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1WLF35-it Stream System TV LED 40 BM40L'
 sku: 'B07D1WLF35-it'
 tags: [  ]

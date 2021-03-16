@@ -5,7 +5,7 @@ date: 2020-09-17 19:05:23
 image: 'https://m.media-amazon.com/images/I/41iqLNmpPWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGZ7JD5-it Kingston Canvas Select Plus SDCS2/128GB Scheda microSD...'
 sku: 'B07YGZ7JD5-it'
 tags: [  ]

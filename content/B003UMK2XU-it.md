@@ -5,7 +5,7 @@ date: 2020-10-10 15:02:30
 image: 'https://m.media-amazon.com/images/I/413hFTfZOwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003UMK2XU-it Mulino Bianco Merendine Flauti al Cioccolato Snack Dolce...'
 sku: 'B003UMK2XU-it'
 tags: [  ]

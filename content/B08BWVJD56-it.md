@@ -5,7 +5,7 @@ date: 2020-07-17 11:57:21
 image: 'https://m.media-amazon.com/images/I/316IX89I8SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BWVJD56-it eXtremeRate Tasti Ricambio per Playstation 4 PS4 Pro Slim...'
 sku: 'B08BWVJD56-it'
 tags: [  ]

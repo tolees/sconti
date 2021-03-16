@@ -5,7 +5,7 @@ date: 2020-08-26 13:31:51
 image: 'https://m.media-amazon.com/images/I/41iXdiYzcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLFMP1V-it Levi s Crewneck 1 T-Shirt Multicolore 2pk Slim Crew...'
 sku: 'B07TLFMP1V-it'
 tags: [  ]

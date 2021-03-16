@@ -5,7 +5,7 @@ date: 2020-09-23 17:33:24
 image: 'https://m.media-amazon.com/images/I/41DpqHef6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKMMK3Y-it Pepe Jeans Jude T-Shirt Blu Indigo 561 Medium Uomo'
 sku: 'B07WKMMK3Y-it'
 tags: [  ]

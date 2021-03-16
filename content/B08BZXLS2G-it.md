@@ -5,7 +5,7 @@ date: 2020-07-29 07:32:15
 image: 'https://m.media-amazon.com/images/I/41EaB6wU8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZXLS2G-it Melchioni ARTIC47LT Mini frigo bar con congelatore A+...'
 sku: 'B08BZXLS2G-it'
 tags: [  ]

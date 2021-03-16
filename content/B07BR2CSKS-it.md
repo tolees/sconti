@@ -5,7 +5,7 @@ date: 2020-09-08 07:49:31
 image: 'https://m.media-amazon.com/images/I/41f1+pkBcmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR2CSKS-it Pigna Monocromo 02298871R Quaderno Formato A4 Rigatura 1R...'
 sku: 'B07BR2CSKS-it'
 tags: [  ]

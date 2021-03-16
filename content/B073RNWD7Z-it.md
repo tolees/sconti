@@ -5,7 +5,7 @@ date: 2020-07-29 07:11:47
 image: 'https://m.media-amazon.com/images/I/31lb5zLbN4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RNWD7Z-it Columbia SANTIAM 2 Strap Sandali Uomo Grigio Dark Grey...'
 sku: 'B073RNWD7Z-it'
 tags: [  ]

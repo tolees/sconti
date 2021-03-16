@@ -5,7 +5,7 @@ date: 2020-09-29 07:00:52
 image: 'https://m.media-amazon.com/images/I/41D-R9jyKyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JYBHMKH-it Aigostar Lampadine LED E27 12W Equivalenti a 100W 1020...'
 sku: 'B08JYBHMKH-it'
 tags: [  ]

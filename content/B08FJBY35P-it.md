@@ -5,7 +5,7 @@ date: 2020-08-24 04:16:32
 image: 'https://m.media-amazon.com/images/I/31dlq3gw-hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FJBY35P-it OUPOD Controller wireless Bluetooth per Nintendo Switch...'
 sku: 'B08FJBY35P-it'
 tags: [  ]

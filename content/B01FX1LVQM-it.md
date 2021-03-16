@@ -5,7 +5,7 @@ date: 2020-08-20 06:10:09
 image: 'https://m.media-amazon.com/images/I/41SKswpcoRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FX1LVQM-it Vangold Muto Frameless Grande Orologio a Muro 3D Specchio...'
 sku: 'B01FX1LVQM-it'
 tags: [  ]

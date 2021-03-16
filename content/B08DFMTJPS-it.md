@@ -5,7 +5,7 @@ date: 2020-09-13 14:31:23
 image: 'https://m.media-amazon.com/images/I/51G7xzgkMOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFMTJPS-it MOONESS Custodia Samsung Galaxy A21s Blu Custodia Flip...'
 sku: 'B08DFMTJPS-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-10 10:23:43
 image: 'https://m.media-amazon.com/images/I/51EZvH20WcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6TDVGN-it Enterogermina Viaggi integratore alimentare a base di...'
 sku: 'B07V6TDVGN-it'
 tags: [  ]

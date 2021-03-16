@@ -5,7 +5,7 @@ date: 2020-09-24 02:43:33
 image: 'https://m.media-amazon.com/images/I/41gXMG5ff-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003OWVC0S-it Claber 87271 Tubo Innaffio Estensibile Kit 3/4" 9034...'
 sku: 'B003OWVC0S-it'
 tags: [  ]

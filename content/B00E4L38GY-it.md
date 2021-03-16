@@ -5,7 +5,7 @@ date: 2020-08-25 06:20:51
 image: 'https://m.media-amazon.com/images/I/41eH+YOthAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E4L38GY-it Autan Tropical Vapo Insetto Repellente e Antizanzare...'
 sku: 'B00E4L38GY-it'
 tags: [  ]

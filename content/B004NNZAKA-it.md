@@ -5,7 +5,7 @@ date: 2020-09-18 07:46:37
 image: 'https://m.media-amazon.com/images/I/31tZb107sHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004NNZAKA-it My.Size - Profilattici 69 mm 36 pezzi'
 sku: 'B004NNZAKA-it'
 tags: [  ]

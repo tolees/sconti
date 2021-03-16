@@ -5,7 +5,7 @@ date: 2020-08-04 05:31:38
 image: 'https://m.media-amazon.com/images/I/41+DBulEFqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9NR8S4-it Singer M3505 Macchina da Cucire Professionale Cucitrice...'
 sku: 'B07X9NR8S4-it'
 tags: [  ]

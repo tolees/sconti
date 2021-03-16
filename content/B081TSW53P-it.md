@@ -5,7 +5,7 @@ date: 2020-09-07 08:35:49
 image: 'https://m.media-amazon.com/images/I/41N0v-Vv+GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TSW53P-it adidas Track SST Giacca Donna Black/White 40'
 sku: 'B081TSW53P-it'
 tags: [  ]

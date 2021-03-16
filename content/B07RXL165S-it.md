@@ -5,7 +5,7 @@ date: 2020-08-05 13:45:09
 image: 'https://m.media-amazon.com/images/I/41iybT-KIoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXL165S-it Levi s The Jacket Giacca Blu Pale Shade Indigo Stretch...'
 sku: 'B07RXL165S-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 06:15:21
 image: 'https://m.media-amazon.com/images/I/51wq7ntanjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC3FB37-it LEGO Juniors Buzz e Woody e La Mania del Carnevale Gioco...'
 sku: 'B07JC3FB37-it'
 tags: [  ]

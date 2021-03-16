@@ -5,7 +5,7 @@ date: 2020-09-17 20:39:07
 image: 'https://m.media-amazon.com/images/I/41IgSKjBWyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KQKRHC-it Samsung Galaxy S10 Lite Smartphone Display 6.7" Super...'
 sku: 'B083KQKRHC-it'
 tags: [  ]

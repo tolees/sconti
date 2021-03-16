@@ -5,7 +5,7 @@ date: 2020-09-24 19:03:15
 image: 'https://m.media-amazon.com/images/I/51HlINM-CzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086HFZPVW-it Xenoblade Chronicles: Definitive Edition - Nintendo Switch'
 sku: 'B086HFZPVW-it'
 tags: [  ]

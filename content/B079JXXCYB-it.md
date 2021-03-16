@@ -5,7 +5,7 @@ date: 2020-08-15 16:52:42
 image: 'https://m.media-amazon.com/images/I/31a-7uPGzkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JXXCYB-it Napapijri Rainforest Pocket Giacca Uomo 100% Poliammide...'
 sku: 'B079JXXCYB-it'
 tags: [  ]

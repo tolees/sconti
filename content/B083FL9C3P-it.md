@@ -5,7 +5,7 @@ date: 2020-08-19 10:23:14
 image: 'https://m.media-amazon.com/images/I/51EUUq8GQAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FL9C3P-it Proiettore WiFi 2020 Aggiornato Videoproiettore HD...'
 sku: 'B083FL9C3P-it'
 tags: [  ]

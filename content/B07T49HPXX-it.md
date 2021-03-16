@@ -5,7 +5,7 @@ date: 2020-09-27 19:51:34
 image: 'https://m.media-amazon.com/images/I/51-jPQT6LmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T49HPXX-it Rimila Auto telecomandata 4WD Macchina Telecomandata Stunt...'
 sku: 'B07T49HPXX-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 16:19:15
 image: 'https://m.media-amazon.com/images/I/31jtKFvyESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVJD1BJ-it Hard Disk Esterno Hard Disk 1 tb Esterno USB3.1/Type C...'
 sku: 'B08CVJD1BJ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 14:59:37
 image: 'https://m.media-amazon.com/images/I/31WlmEfW2XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBDGSYC-it Auricolari Bluetooth 5.0 Auricolari in TOUCH Cuffie...'
 sku: 'B07SBDGSYC-it'
 tags: [  ]

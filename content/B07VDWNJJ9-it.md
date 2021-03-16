@@ -5,7 +5,7 @@ date: 2020-08-21 06:16:41
 image: 'https://m.media-amazon.com/images/I/51GpbqvXJkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDWNJJ9-it Altoparlante Bluetooth portatile Tribit StormBox 24W...'
 sku: 'B07VDWNJJ9-it'
 tags: [  ]

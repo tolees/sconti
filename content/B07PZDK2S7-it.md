@@ -5,7 +5,7 @@ date: 2020-09-04 15:23:47
 image: 'https://m.media-amazon.com/images/I/31yVz4L0qlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZDK2S7-it Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai...'
 sku: 'B07PZDK2S7-it'
 tags: [  ]

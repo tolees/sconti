@@ -5,7 +5,7 @@ date: 2020-09-22 20:27:55
 image: 'https://m.media-amazon.com/images/I/51DfoQ3LN+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSH796G-it Matrix Revolutions 4K Ultra HD + 2 Blu-Ray'
 sku: 'B07HSH796G-it'
 tags: [  ]

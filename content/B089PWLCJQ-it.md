@@ -5,7 +5,7 @@ date: 2020-09-23 07:21:23
 image: 'https://m.media-amazon.com/images/I/41dMVjJtTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089PWLCJQ-it HD Webcam 1296P 3 MP con Microfono USB Webcam Video...'
 sku: 'B089PWLCJQ-it'
 tags: [  ]

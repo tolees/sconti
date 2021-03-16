@@ -5,7 +5,7 @@ date: 2020-09-16 20:48:53
 image: 'https://m.media-amazon.com/images/I/31-pyXjnrQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JM9HMM-it LowPrice2017® Caricatore Caricabatteria Alimentatore...'
 sku: 'B071JM9HMM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-10 14:35:48
 image: 'https://m.media-amazon.com/images/I/31KwQyYN+UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ORVWN8-it Max Factor Rossetto Lipfinity 190 Indulgent - 4.2 gr'
 sku: 'B000ORVWN8-it'
 tags: [  ]

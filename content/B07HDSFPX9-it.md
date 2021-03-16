@@ -5,7 +5,7 @@ date: 2020-08-14 23:43:39
 image: 'https://m.media-amazon.com/images/I/41D9mlLxaBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HDSFPX9-it Libenar Soluzione Fisiologica Flaconcini Isotonici...'
 sku: 'B07HDSFPX9-it'
 tags: [  ]

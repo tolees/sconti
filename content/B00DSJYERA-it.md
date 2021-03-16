@@ -5,7 +5,7 @@ date: 2020-09-13 11:38:20
 image: 'https://m.media-amazon.com/images/I/417WUDq8r1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DSJYERA-it Sherlock - Complete Series 1-3 6 Dvd [Edizione: Regno...'
 sku: 'B00DSJYERA-it'
 tags: [  ]

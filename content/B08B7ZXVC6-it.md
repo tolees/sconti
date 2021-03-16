@@ -5,7 +5,7 @@ date: 2020-08-22 04:08:33
 image: 'https://m.media-amazon.com/images/I/41X5GV--X8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B7ZXVC6-it Clip di Cavi in silicone Adesivo Organizzatore di Cavi...'
 sku: 'B08B7ZXVC6-it'
 tags: [  ]

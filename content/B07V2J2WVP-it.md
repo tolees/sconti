@@ -5,7 +5,7 @@ date: 2020-08-28 09:58:26
 image: 'https://m.media-amazon.com/images/I/41Eag16QUcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2J2WVP-it Tommy Hilfiger Nautical Print Beach Sandal Punta Aperta...'
 sku: 'B07V2J2WVP-it'
 tags: [  ]

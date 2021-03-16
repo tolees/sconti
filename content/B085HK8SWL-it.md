@@ -5,7 +5,7 @@ date: 2020-10-09 14:15:56
 image: 'https://m.media-amazon.com/images/I/412smAVumWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HK8SWL-it Slip a Vita Bassa Donna Mutande Invisibile Senza Cuciture...'
 sku: 'B085HK8SWL-it'
 tags: [  ]

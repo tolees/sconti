@@ -5,7 +5,7 @@ date: 2020-08-07 13:08:09
 image: 'https://m.media-amazon.com/images/I/41iXziyIOmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2FVRZ2-it Seanshow - Set di 3 trolley in ABS di alta qualità con...'
 sku: 'B07X2FVRZ2-it'
 tags: [  ]

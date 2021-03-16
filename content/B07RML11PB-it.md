@@ -5,7 +5,7 @@ date: 2020-08-24 04:08:19
 image: 'https://m.media-amazon.com/images/I/51flhxuStfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RML11PB-it L.O.L Surprise! - LOL Sparkle con Sorprese e Accessori -...'
 sku: 'B07RML11PB-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 09:50:50
 image: 'https://m.media-amazon.com/images/I/41nDbx4N7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS5MSW4-it Apple iPhone 11 128GB - Verde'
 sku: 'B07XS5MSW4-it'
 tags: [  ]

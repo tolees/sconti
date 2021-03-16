@@ -5,7 +5,7 @@ date: 2020-10-10 09:55:36
 image: 'https://m.media-amazon.com/images/I/41NXdtB3KWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B4VRFM0-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
 sku: 'B00B4VRFM0-it'
 tags: [  ]

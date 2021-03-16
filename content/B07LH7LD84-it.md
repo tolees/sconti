@@ -5,7 +5,7 @@ date: 2020-09-02 12:41:55
 image: 'https://m.media-amazon.com/images/I/41WzdXD1EkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LH7LD84-it The North Face M TBL Sport HD Piumino Uomo Rosso Salsa...'
 sku: 'B07LH7LD84-it'
 tags: [  ]

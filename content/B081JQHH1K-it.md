@@ -5,7 +5,7 @@ date: 2020-09-13 09:22:29
 image: 'https://m.media-amazon.com/images/I/41bNQGJQ0bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JQHH1K-it Moleskine Classic Match Portafoglio in Pelle Pochette con...'
 sku: 'B081JQHH1K-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 23:02:34
 image: 'https://m.media-amazon.com/images/I/51JbK6YUt-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088CXQGWN-it Reshias Cover per Sony Xperia L4 Morbido Trasparente TPU...'
 sku: 'B088CXQGWN-it'
 tags: [  ]

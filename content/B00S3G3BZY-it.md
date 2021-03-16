@@ -5,7 +5,7 @@ date: 2020-09-18 11:54:04
 image: 'https://m.media-amazon.com/images/I/41YRLAf7IQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S3G3BZY-it Philips NT3160/10 Serie 3000 Rifinitore di Precisione per...'
 sku: 'B00S3G3BZY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-07 09:40:30
 image: 'https://m.media-amazon.com/images/I/41Mon3sndML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1J82XS-it Boss Identity T-Shirt RN Blu Dark Blue 403 Medium Uomo'
 sku: 'B07V1J82XS-it'
 tags: [  ]

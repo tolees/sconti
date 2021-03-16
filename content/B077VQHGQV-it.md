@@ -5,7 +5,7 @@ date: 2020-09-05 15:18:42
 image: 'https://m.media-amazon.com/images/I/41i3wjqkZlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VQHGQV-it adidas VL Court 2.0 Scarpe da Fitness Uomo Blu...'
 sku: 'B077VQHGQV-it'
 tags: [  ]

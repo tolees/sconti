@@ -5,7 +5,7 @@ date: 2020-08-24 18:29:18
 image: 'https://m.media-amazon.com/images/I/31BFErOnsEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5MZYZR-it Tommy Hilfiger Tommy Tipped Slim Polo Blu Sail Blue Small...'
 sku: 'B07W5MZYZR-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 10:35:13
 image: 'https://m.media-amazon.com/images/I/31Gx5uN7k1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNT2VTP-it Oacvien 2L Umidificatore Ambiente Ultrasonicos 7 Colori...'
 sku: 'B07ZNT2VTP-it'
 tags: [  ]

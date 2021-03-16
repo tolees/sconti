@@ -5,7 +5,7 @@ date: 2020-08-15 17:47:41
 image: 'https://m.media-amazon.com/images/I/51BKQTpVIvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D32P8LT-it Cover Xiaomi Redmi 8 360 Gradi Full Body Antiurto...'
 sku: 'B08D32P8LT-it'
 tags: [  ]

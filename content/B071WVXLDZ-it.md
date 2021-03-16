@@ -5,7 +5,7 @@ date: 2020-09-29 07:23:41
 image: 'https://m.media-amazon.com/images/I/51+SRGsTnhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WVXLDZ-it Braun Series 5 5147s Rasoio da Barba Elettrico...'
 sku: 'B071WVXLDZ-it'
 tags: [  ]

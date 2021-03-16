@@ -5,7 +5,7 @@ date: 2020-10-09 17:08:04
 image: 'https://m.media-amazon.com/images/I/41VUNMWC+PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW6ZPIM-it Beats EP Cuffie con filo – Senza batteria per ascoltare...'
 sku: 'B01LW6ZPIM-it'
 tags: [  ]

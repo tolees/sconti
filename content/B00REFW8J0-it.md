@@ -5,7 +5,7 @@ date: 2020-08-29 13:12:21
 image: 'https://m.media-amazon.com/images/I/41fL8zQKIML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00REFW8J0-it Reebok Classic Leather Scarpe da Ginnastica Uomo Nero...'
 sku: 'B00REFW8J0-it'
 tags: [  ]

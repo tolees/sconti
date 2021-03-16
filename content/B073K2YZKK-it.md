@@ -5,7 +5,7 @@ date: 2020-08-22 11:33:41
 image: 'https://m.media-amazon.com/images/I/41xQbLUGwcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073K2YZKK-it Casio Orologio Analogico Quarzo Uomo con Cinturino in...'
 sku: 'B073K2YZKK-it'
 tags: [  ]

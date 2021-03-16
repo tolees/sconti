@@ -5,7 +5,7 @@ date: 2020-09-22 14:06:20
 image: 'https://m.media-amazon.com/images/I/41JnBWElRxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774RL3NQ-it AICOK Friggitrice Ad Aria Calda Friggitrice Senza Olio...'
 sku: 'B0774RL3NQ-it'
 tags: [  ]

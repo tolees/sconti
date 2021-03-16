@@ -5,7 +5,7 @@ date: 2020-09-21 06:47:13
 image: 'https://m.media-amazon.com/images/I/41YZeDhfS6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4TFQF-it Levi s Ex-Boyfriend Trucker Giacca in Jeans Blu for Real...'
 sku: 'B07KF4TFQF-it'
 tags: [  ]

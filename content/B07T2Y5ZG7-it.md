@@ -5,7 +5,7 @@ date: 2020-09-21 08:05:12
 image: 'https://m.media-amazon.com/images/I/41bP8tyR85L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2Y5ZG7-it Samsung C27RG50 Monitor Gaming Curvo 27 Pollici 240 Hz...'
 sku: 'B07T2Y5ZG7-it'
 tags: [  ]

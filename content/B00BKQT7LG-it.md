@@ -5,7 +5,7 @@ date: 2020-08-31 16:01:38
 image: 'https://m.media-amazon.com/images/I/41eJi3W84SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKQT7LG-it Daniel Wellington Analogico Quarzo Giapponese Orologio da...'
 sku: 'B00BKQT7LG-it'
 tags: [  ]

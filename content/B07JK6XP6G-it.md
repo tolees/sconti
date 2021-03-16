@@ -5,7 +5,7 @@ date: 2020-09-25 08:53:24
 image: 'https://m.media-amazon.com/images/I/41+qnM1PyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JK6XP6G-it Under Armour UA Undeniable SP 2.0 Borsa Unisex Nero OSFA'
 sku: 'B07JK6XP6G-it'
 tags: [  ]

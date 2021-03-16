@@ -5,7 +5,7 @@ date: 2020-10-07 06:16:58
 image: 'https://m.media-amazon.com/images/I/41VRvoRAmgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHH9TRW-it Cuffie per bambini Mpow CH6S con stereo funzione di...'
 sku: 'B07XHH9TRW-it'
 tags: [  ]

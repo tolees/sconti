@@ -5,7 +5,7 @@ date: 2020-10-09 15:55:24
 image: 'https://m.media-amazon.com/images/I/31s-yfIlMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DTMPNQ1-it Lacoste Sport TH0123 T-Shirt Bianco Blanc XXXX-Large...'
 sku: 'B07DTMPNQ1-it'
 tags: [  ]

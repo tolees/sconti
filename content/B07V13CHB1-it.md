@@ -5,7 +5,7 @@ date: 2020-09-05 08:15:28
 image: 'https://m.media-amazon.com/images/I/4144WGYhg1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V13CHB1-it Lee Wobbly Logo Tee T-Shirt Blu Navy Drop EE Large Uomo'
 sku: 'B07V13CHB1-it'
 tags: [  ]

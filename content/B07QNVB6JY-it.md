@@ -5,7 +5,7 @@ date: 2020-09-22 10:20:32
 image: 'https://m.media-amazon.com/images/I/51gAGREP-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNVB6JY-it Set da Bagno o Doccia Donna Regali in 8 Pezzi Bagnoschiuma...'
 sku: 'B07QNVB6JY-it'
 tags: [  ]

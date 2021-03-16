@@ -5,7 +5,7 @@ date: 2020-09-15 11:35:38
 image: 'https://m.media-amazon.com/images/I/61brZG5EzIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BLDTWVZ-it LEGO Classic Steinebox 10717 classico gioco di costruzione...'
 sku: 'B07BLDTWVZ-it'
 tags: [  ]

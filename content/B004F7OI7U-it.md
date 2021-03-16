@@ -5,7 +5,7 @@ date: 2020-10-10 14:03:27
 image: 'https://m.media-amazon.com/images/I/41clySx4NnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004F7OI7U-it Alessi AKK80/13 Mini Girotondo - Sottobicchiere anti-...'
 sku: 'B004F7OI7U-it'
 tags: [  ]

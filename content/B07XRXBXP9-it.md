@@ -5,7 +5,7 @@ date: 2020-07-21 18:18:55
 image: 'https://m.media-amazon.com/images/I/31Wt1PRN3yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRXBXP9-it CARPISA® Borsa a secchiello - Jordy'
 sku: 'B07XRXBXP9-it'
 tags: [  ]

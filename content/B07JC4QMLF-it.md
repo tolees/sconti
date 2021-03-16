@@ -5,7 +5,7 @@ date: 2020-10-01 08:57:41
 image: 'https://m.media-amazon.com/images/I/41WsJ70eKOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC4QMLF-it InkJello Compatibile Toner Cartuccia Sostituzione Per HP...'
 sku: 'B07JC4QMLF-it'
 tags: [  ]

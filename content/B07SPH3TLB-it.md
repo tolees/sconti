@@ -5,7 +5,7 @@ date: 2020-07-24 15:09:08
 image: 'https://m.media-amazon.com/images/I/31i7YF5UJQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPH3TLB-it Lacoste Bayliss 220 1 CMA Sneaker Uomo Bianco Wht/Nvy/Red...'
 sku: 'B07SPH3TLB-it'
 tags: [  ]

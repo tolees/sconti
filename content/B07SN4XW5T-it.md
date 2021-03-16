@@ -5,7 +5,7 @@ date: 2020-08-29 16:12:49
 image: 'https://m.media-amazon.com/images/I/31xH9X-Z6UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SN4XW5T-it Havaianas Top Mix Infradito Unisex Adulto Grigio [Silver...'
 sku: 'B07SN4XW5T-it'
 tags: [  ]

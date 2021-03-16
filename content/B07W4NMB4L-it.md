@@ -5,7 +5,7 @@ date: 2020-09-15 07:41:28
 image: 'https://m.media-amazon.com/images/I/31CPgD4nrZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4NMB4L-it Tommy Hilfiger Squares Tee Maglietta Blu Blue Ink XX-Large...'
 sku: 'B07W4NMB4L-it'
 tags: [  ]

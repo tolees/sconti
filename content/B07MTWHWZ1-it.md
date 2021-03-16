@@ -5,7 +5,7 @@ date: 2020-10-12 22:28:23
 image: 'https://m.media-amazon.com/images/I/410A1YNFh-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTWHWZ1-it Logitech G332 Cuffie Gaming Cablate Audio Stereo Driver da...'
 sku: 'B07MTWHWZ1-it'
 tags: [  ]

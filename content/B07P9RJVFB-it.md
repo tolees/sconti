@@ -5,7 +5,7 @@ date: 2020-10-11 11:18:17
 image: 'https://m.media-amazon.com/images/I/31-JC+MdxkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9RJVFB-it Tommy Hilfiger Heritage Crew Neck Graphic Tee Maglietta...'
 sku: 'B07P9RJVFB-it'
 tags: [  ]

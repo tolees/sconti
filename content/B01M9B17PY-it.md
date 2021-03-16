@@ -5,7 +5,7 @@ date: 2020-09-13 11:39:07
 image: 'https://m.media-amazon.com/images/I/31F063SWhgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9B17PY-it Lagostina Ingenio Induction Coperchio in Vetro 24 cm...'
 sku: 'B01M9B17PY-it'
 tags: [  ]

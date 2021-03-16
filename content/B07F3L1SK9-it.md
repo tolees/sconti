@@ -5,7 +5,7 @@ date: 2020-09-29 01:42:10
 image: 'https://m.media-amazon.com/images/I/31MP1IW1JIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3L1SK9-it Tommy Hilfiger Boys Basic CN Knit S/s Maglietta Bianco...'
 sku: 'B07F3L1SK9-it'
 tags: [  ]

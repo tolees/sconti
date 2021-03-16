@@ -5,7 +5,7 @@ date: 2020-08-12 18:17:37
 image: 'https://m.media-amazon.com/images/I/41kEGh1vddL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ21NYQ-it Wrangler Larston Jeans Blu Mistral Green 32W / 32L Uomo'
 sku: 'B07TZ21NYQ-it'
 tags: [  ]

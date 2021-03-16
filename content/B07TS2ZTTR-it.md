@@ -5,7 +5,7 @@ date: 2020-09-19 08:48:05
 image: 'https://m.media-amazon.com/images/I/31KKm1u58nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS2ZTTR-it Levi s Graphic Tee T-Shirt Bianco Boxtab SS T2 White 0000...'
 sku: 'B07TS2ZTTR-it'
 tags: [  ]

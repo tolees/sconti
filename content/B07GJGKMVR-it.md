@@ -5,7 +5,7 @@ date: 2020-09-12 18:19:37
 image: 'https://m.media-amazon.com/images/I/41maWoNvOFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJGKMVR-it Chicco Next2Me Dream Culla Fianco Letto 0 m+ Grigio'
 sku: 'B07GJGKMVR-it'
 tags: [  ]

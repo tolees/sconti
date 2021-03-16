@@ -5,7 +5,7 @@ date: 2020-08-31 18:28:16
 image: 'https://m.media-amazon.com/images/I/311E+BCXRFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN382GQ-it Timberland Adventure 2.0 Cupsole Modern Oxford Sneaker...'
 sku: 'B07JN382GQ-it'
 tags: [  ]

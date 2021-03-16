@@ -5,7 +5,7 @@ date: 2020-09-26 06:36:49
 image: 'https://m.media-amazon.com/images/I/41x40ETE9ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TP417MD-it Superdry Desert Alchemy Quilted Hoody Giacca Arancione...'
 sku: 'B07TP417MD-it'
 tags: [  ]

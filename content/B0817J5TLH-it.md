@@ -5,7 +5,7 @@ date: 2020-09-09 18:08:19
 image: 'https://m.media-amazon.com/images/I/31V9xqIig9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817J5TLH-it Columbia Silver Ridge II Pantaloni Cargo Uomo Blu...'
 sku: 'B0817J5TLH-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 14:54:21
 image: 'https://m.media-amazon.com/images/I/31FTyr4k6WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5DL3F6-it Timberland Adventure 2.0 Cupsole Chukka Stivali Uomo Nero...'
 sku: 'B01N5DL3F6-it'
 tags: [  ]

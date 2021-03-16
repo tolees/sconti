@@ -5,7 +5,7 @@ date: 2020-09-30 12:31:44
 image: 'https://m.media-amazon.com/images/I/31Qhs0TsyhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZB4JRV-it Marchio Amazon - MERAKI Blazer Casual Uomo Nero Black 48...'
 sku: 'B07GZB4JRV-it'
 tags: [  ]

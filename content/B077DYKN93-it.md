@@ -5,7 +5,7 @@ date: 2020-08-06 08:47:29
 image: 'https://m.media-amazon.com/images/I/3112hjSyM5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077DYKN93-it Aigostar Multipresa Ciabatta Elettrica a 5 Posti...'
 sku: 'B077DYKN93-it'
 tags: [  ]

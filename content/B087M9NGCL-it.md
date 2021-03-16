@@ -5,7 +5,7 @@ date: 2020-08-27 16:56:29
 image: 'https://m.media-amazon.com/images/I/41mVasFYmjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M9NGCL-it CHEREEKI Controller per Nintendo Switch Controller...'
 sku: 'B087M9NGCL-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 15:34:52
 image: 'https://m.media-amazon.com/images/I/41NUBga9nOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VIFVA6Y-it Tescoma 630496 Beccucci Decoratori per Sac a Poche 21...'
 sku: 'B00VIFVA6Y-it'
 tags: [  ]

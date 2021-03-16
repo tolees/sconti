@@ -5,7 +5,7 @@ date: 2020-08-06 09:10:39
 image: 'https://m.media-amazon.com/images/I/31wf0FteVXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MHPCTC8-it adidas Originals Stan Smith Sneakers Unisex - Adulto...'
 sku: 'B00MHPCTC8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 13:14:21
 image: 'https://m.media-amazon.com/images/I/31F1xPQx1OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ32ZFC-it Crocs Swiftwater Molded Expedition Sandal Punta Aperta...'
 sku: 'B07SQ32ZFC-it'
 tags: [  ]

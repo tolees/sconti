@@ -5,7 +5,7 @@ date: 2020-09-29 11:12:35
 image: 'https://m.media-amazon.com/images/I/415uVCj9lNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXS3BD8-it Swarovski Orecchini Stud Nice Bianco Placcato Oro'
 sku: 'B07TXS3BD8-it'
 tags: [  ]

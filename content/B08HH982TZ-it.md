@@ -5,7 +5,7 @@ date: 2020-09-10 06:08:16
 image: 'https://m.media-amazon.com/images/I/41bK0mjsFKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HH982TZ-it BOUDECH Space 1800 - Tapis Roulant Elettrico 1800W...'
 sku: 'B08HH982TZ-it'
 tags: [  ]

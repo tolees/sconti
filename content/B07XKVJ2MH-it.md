@@ -5,7 +5,7 @@ date: 2020-08-31 14:13:28
 image: 'https://m.media-amazon.com/images/I/31VUaO-q1hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKVJ2MH-it adidas Sonnenbrille AOK003 Occhiali da Sole Grigio Grau...'
 sku: 'B07XKVJ2MH-it'
 tags: [  ]

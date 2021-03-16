@@ -5,7 +5,7 @@ date: 2020-07-21 12:55:23
 image: 'https://m.media-amazon.com/images/I/41Z--+UyFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085GGLLR1-it HUAWEI WATCH GT 2e Smartwatch 1.39" AMOLED HD Touchscreen...'
 sku: 'B085GGLLR1-it'
 tags: [  ]

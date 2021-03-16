@@ -5,7 +5,7 @@ date: 2020-10-03 06:26:48
 image: 'https://m.media-amazon.com/images/I/41667yXq1qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016APRDTY-it Singer Starlet 6680 - Macchina da cucire elettronica 80...'
 sku: 'B016APRDTY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 10:36:16
 image: 'https://m.media-amazon.com/images/I/51uuqisHsmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HO0UD78-it Vape Piastrine Extra Protezione Rapida contro le Zanzare...'
 sku: 'B01HO0UD78-it'
 tags: [  ]

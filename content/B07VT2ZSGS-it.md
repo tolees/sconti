@@ -5,7 +5,7 @@ date: 2020-10-05 13:47:51
 image: 'https://m.media-amazon.com/images/I/31qNvnt2RWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VT2ZSGS-it Calvin Klein 3p Trunk Boxer Multicolore Lost Blue/Wild...'
 sku: 'B07VT2ZSGS-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-17 14:38:38
 image: 'https://m.media-amazon.com/images/I/41371kvLkoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086B3LLVB-it Samsung QE65Q60TAUXZT Serie Q60T QLED Smart TV 65" Ultra...'
 sku: 'B086B3LLVB-it'
 tags: [  ]

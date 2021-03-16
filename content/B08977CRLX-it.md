@@ -5,7 +5,7 @@ date: 2020-10-01 05:47:55
 image: 'https://m.media-amazon.com/images/I/4151Bxx0yFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08977CRLX-it Hot Mom Barriera letto extra-large 150 cm dark green'
 sku: 'B08977CRLX-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 11:28:25
 image: 'https://m.media-amazon.com/images/I/41uzSm3vMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BFQ8KW-it 18W Caricabatterie Caricatore Per Xiaomi Redmi Note 7 8 9S...'
 sku: 'B085BFQ8KW-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 08:17:40
 image: 'https://m.media-amazon.com/images/I/31b6y9rijZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0029ZCLOC-it Campari Bitter Ml.1000'
 sku: 'B0029ZCLOC-it'
 tags: [  ]

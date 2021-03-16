@@ -5,7 +5,7 @@ date: 2020-08-11 05:46:18
 image: 'https://m.media-amazon.com/images/I/41cwwuDyJRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FBWQK5X-it Auricolare Bluetooth Touch Cuffie Bluetooth 5.0 24h...'
 sku: 'B08FBWQK5X-it'
 tags: [  ]

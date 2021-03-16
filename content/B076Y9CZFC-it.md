@@ -5,7 +5,7 @@ date: 2020-08-21 13:05:04
 image: 'https://m.media-amazon.com/images/I/31yWcYFen5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076Y9CZFC-it Levi s LS Graphic Tee - B Maglia a Maniche Lunghe Bianco...'
 sku: 'B076Y9CZFC-it'
 tags: [  ]

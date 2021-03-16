@@ -5,7 +5,7 @@ date: 2020-09-20 09:51:09
 image: 'https://m.media-amazon.com/images/I/51LRaH+4zoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZDGP54-it sunvito Set 24 Matite Colorate Color Pencils con Soft Core...'
 sku: 'B08BZDGP54-it'
 tags: [  ]

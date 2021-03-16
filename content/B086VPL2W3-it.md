@@ -5,7 +5,7 @@ date: 2020-09-22 10:41:48
 image: 'https://m.media-amazon.com/images/I/41EKqXBnGOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086VPL2W3-it HUAWEI P40 Lite con Cover Display Punch FullView da 6.4”...'
 sku: 'B086VPL2W3-it'
 tags: [  ]

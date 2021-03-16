@@ -5,7 +5,7 @@ date: 2020-08-26 14:03:58
 image: 'https://m.media-amazon.com/images/I/312fuVHp3QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFVMLWW-it Calvin Klein Embroidery Regular Short Shorts Nero CK Black...'
 sku: 'B07VFVMLWW-it'
 tags: [  ]

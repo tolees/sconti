@@ -5,7 +5,7 @@ date: 2020-08-20 22:39:05
 image: 'https://m.media-amazon.com/images/I/31TYK107uHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGG1XTS-it JBL Tune500BT Cuffie Wireless Sovraurali con funzione...'
 sku: 'B07HGG1XTS-it'
 tags: [  ]

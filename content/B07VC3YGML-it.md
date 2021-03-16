@@ -5,7 +5,7 @@ date: 2020-09-22 14:15:49
 image: 'https://m.media-amazon.com/images/I/31P6VUdNdCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC3YGML-it Calvin Klein 35mm Essential Belt Cintura Marrone Dark Tan...'
 sku: 'B07VC3YGML-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-03 06:44:56
 image: 'https://m.media-amazon.com/images/I/41Z9UlbkrQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L73ZDZ2-it AX BOXING Sneakers Uomo Donna Scarpe da Ginnastica...'
 sku: 'B07L73ZDZ2-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 17:39:32
 image: 'https://m.media-amazon.com/images/I/41XvQJUHRHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XQCPO9Q-it Gillette Series Schiuma Da Barba Pelli Sensibili - 200+50 ml'
 sku: 'B00XQCPO9Q-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 13:02:07
 image: 'https://m.media-amazon.com/images/I/41-ZLlgHMxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XXGHP7-it McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento...'
 sku: 'B078XXGHP7-it'
 tags: [  ]

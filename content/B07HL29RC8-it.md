@@ -5,7 +5,7 @@ date: 2020-10-01 05:01:05
 image: 'https://m.media-amazon.com/images/I/31czLgg9sOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL29RC8-it Amazon Essentials - Confezione da 3 camicie da notte per...'
 sku: 'B07HL29RC8-it'
 tags: [  ]

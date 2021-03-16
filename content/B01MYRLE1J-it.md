@@ -5,7 +5,7 @@ date: 2020-10-02 06:07:54
 image: 'https://m.media-amazon.com/images/I/41yVtx5v4WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYRLE1J-it Bimar PAA1 Aspirapolvere Bidone Aspiratutto Aspira liquidi...'
 sku: 'B01MYRLE1J-it'
 tags: [  ]

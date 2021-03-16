@@ -5,7 +5,7 @@ date: 2020-10-11 04:54:54
 image: 'https://m.media-amazon.com/images/I/41WpzG--e9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I9X2KLW-it Sony DSC-HX60 Fotocamera Digitale Compatta Travel con...'
 sku: 'B00I9X2KLW-it'
 tags: [  ]

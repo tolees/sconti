@@ -5,7 +5,7 @@ date: 2020-10-01 14:10:48
 image: 'https://m.media-amazon.com/images/I/41s0iY9AZvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FBAF93W-it Lacoste Sport L1230 Polo Sport Ultraleggera Blu Marine 166...'
 sku: 'B00FBAF93W-it'
 tags: [  ]

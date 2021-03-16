@@ -5,7 +5,7 @@ date: 2020-09-02 17:32:38
 image: 'https://m.media-amazon.com/images/I/41Tx12WQg9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0021V6QCC-it Giotto Stilnovo - Astuccio 12 Pastelli Multicolore'
 sku: 'B0021V6QCC-it'
 tags: [  ]

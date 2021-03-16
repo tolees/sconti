@@ -5,7 +5,7 @@ date: 2020-07-21 16:20:01
 image: 'https://m.media-amazon.com/images/I/41Cu7bMyPWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXGCYZY-it Rowenta CV7920 Silence AC Premium Care Asciugacapelli...'
 sku: 'B06XXGCYZY-it'
 tags: [  ]

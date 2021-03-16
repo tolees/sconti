@@ -5,7 +5,7 @@ date: 2020-09-12 10:19:26
 image: 'https://m.media-amazon.com/images/I/31-W2WR60KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MEEHC5G-it Lagostina Ingenio Induction Coperchio in Vetro 28 cm...'
 sku: 'B01MEEHC5G-it'
 tags: [  ]

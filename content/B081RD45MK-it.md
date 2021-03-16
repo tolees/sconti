@@ -5,7 +5,7 @@ date: 2020-08-05 08:30:41
 image: 'https://m.media-amazon.com/images/I/41MHyYSdV0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RD45MK-it Neewer Treppiedi per Smartphone 137cm da Viaggio con...'
 sku: 'B081RD45MK-it'
 tags: [  ]

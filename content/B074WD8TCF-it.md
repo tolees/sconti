@@ -5,7 +5,7 @@ date: 2020-10-08 13:17:47
 image: 'https://m.media-amazon.com/images/I/41C4Tf7fg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WD8TCF-it PUMA Sneaker Plain 3p Calze sportive Blu Navy 35/38 Pacco...'
 sku: 'B074WD8TCF-it'
 tags: [  ]

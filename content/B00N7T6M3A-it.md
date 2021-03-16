@@ -5,7 +5,7 @@ date: 2020-09-14 12:16:01
 image: 'https://m.media-amazon.com/images/I/41avtRwhv4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N7T6M3A-it TESMED TE780 PLUS elettrostimolatore muscolare: sport...'
 sku: 'B00N7T6M3A-it'
 tags: [  ]

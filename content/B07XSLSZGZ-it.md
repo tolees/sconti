@@ -5,7 +5,7 @@ date: 2020-08-04 06:28:27
 image: 'https://m.media-amazon.com/images/I/61BvlG1BA4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XSLSZGZ-it Pennarelli a Vernice Acrilica 18 Colori Premio...'
 sku: 'B07XSLSZGZ-it'
 tags: [  ]

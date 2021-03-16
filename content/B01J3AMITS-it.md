@@ -5,7 +5,7 @@ date: 2020-09-15 09:55:22
 image: 'https://m.media-amazon.com/images/I/41dlv8MPNuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J3AMITS-it iAmotus Adattatore Bluetooth USB Bluetooth Stick 4.0 + EDR...'
 sku: 'B01J3AMITS-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 15:48:50
 image: 'https://m.media-amazon.com/images/I/41szXycsaaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008LVMB5M-it Pic Vedoeco Termometro con Lente - 10 ml'
 sku: 'B008LVMB5M-it'
 tags: [  ]

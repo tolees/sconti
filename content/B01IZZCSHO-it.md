@@ -5,7 +5,7 @@ date: 2020-10-10 09:55:33
 image: 'https://m.media-amazon.com/images/I/41yDiCgTkbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IZZCSHO-it Swiffer Starter Kit XXL Scopa con 1 Manico + 8 Panni di...'
 sku: 'B01IZZCSHO-it'
 tags: [  ]

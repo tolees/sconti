@@ -5,7 +5,7 @@ date: 2020-08-18 08:14:22
 image: 'https://m.media-amazon.com/images/I/21fKer8IZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LKRJY2-it MKTOSASA - Supporto di Stampa con Batteria di...'
 sku: 'B085LKRJY2-it'
 tags: [  ]

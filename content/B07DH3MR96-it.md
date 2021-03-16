@@ -5,7 +5,7 @@ date: 2020-09-24 07:53:56
 image: 'https://m.media-amazon.com/images/I/61QrNU0tl2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DH3MR96-it Zilong - tappetino antiaderente in Teflon per griglia del...'
 sku: 'B07DH3MR96-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 13:40:18
 image: 'https://m.media-amazon.com/images/I/31dTj1bdE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833XJ2KJ-it Netac 64G Chiavetta USB 3.0，Rotazione a 360 ° Pen...'
 sku: 'B0833XJ2KJ-it'
 tags: [  ]

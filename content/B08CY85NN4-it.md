@@ -5,7 +5,7 @@ date: 2020-08-24 06:13:22
 image: 'https://m.media-amazon.com/images/I/31UNo3JaBqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CY85NN4-it homcom Libreria Scaffale Portagiochi per Cameretta Bimbi e...'
 sku: 'B08CY85NN4-it'
 tags: [  ]

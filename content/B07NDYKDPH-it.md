@@ -5,7 +5,7 @@ date: 2020-10-06 21:39:57
 image: 'https://m.media-amazon.com/images/I/31q+q+37WkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDYKDPH-it Game of Thronos - Replica Figura Drogon 33 cm multicolore...'
 sku: 'B07NDYKDPH-it'
 tags: [  ]

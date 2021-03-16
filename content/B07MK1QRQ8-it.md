@@ -5,7 +5,7 @@ date: 2020-10-10 17:42:01
 image: 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QRQ8-it NAPAPIJRI Avio Giacca Rosso Red Scarlet R01 XL Uomo'
 sku: 'B07MK1QRQ8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 09:33:06
 image: 'https://m.media-amazon.com/images/I/31sIAc60nVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF52DX6-it Levi s T-Shirt Multicolore 2 Pack Tee White +/Mineral...'
 sku: 'B07KF52DX6-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 14:37:03
 image: 'https://m.media-amazon.com/images/I/31aVavceNSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003F26IPG-it Lacoste L1212 T-Shirt Polo Uomo Rosa Flamant T03 FR 2'
 sku: 'B003F26IPG-it'
 tags: [  ]

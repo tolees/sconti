@@ -5,7 +5,7 @@ date: 2020-10-06 12:36:40
 image: 'https://m.media-amazon.com/images/I/51cQYt0OfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JK81MT-it Marchio Amazon - find. Blusa in Velluto con Punto Smock...'
 sku: 'B073JK81MT-it'
 tags: [  ]

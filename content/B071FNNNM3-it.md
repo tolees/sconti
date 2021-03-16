@@ -5,7 +5,7 @@ date: 2020-08-25 15:22:25
 image: 'https://m.media-amazon.com/images/I/31Ml5Jxn8LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FNNNM3-it Tommy Hilfiger O2285TIS 1C Scarpe da Ginnastica Basse Uomo...'
 sku: 'B071FNNNM3-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 05:17:10
 image: 'https://m.media-amazon.com/images/I/51jVdMOkqVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZJHD85-it TOPTRO Bluetooth Proiettore Nativo 1080P e 350 ” 7000 Lux...'
 sku: 'B086ZJHD85-it'
 tags: [  ]

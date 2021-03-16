@@ -5,7 +5,7 @@ date: 2020-08-27 06:05:34
 image: 'https://m.media-amazon.com/images/I/41rOQ-eTdFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL29N3N-it Kids cuffie Riwbox ct-7s 85DB volume Limiting cuffie...'
 sku: 'B07HL29N3N-it'
 tags: [  ]

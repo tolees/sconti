@@ -5,7 +5,7 @@ date: 2020-08-30 17:47:18
 image: 'https://m.media-amazon.com/images/I/41GVh3hzzGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG39N6X-it Puma Axis Sneaker Unisex-Adulto Blu Peacoat-Puma White 07...'
 sku: 'B07KG39N6X-it'
 tags: [  ]

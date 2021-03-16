@@ -5,7 +5,7 @@ date: 2020-10-08 13:20:16
 image: 'https://m.media-amazon.com/images/I/5189fm3Z7EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084PS5N3L-it Mastrolindo Detersivo Pavimenti Superfici Delicate Maxi...'
 sku: 'B084PS5N3L-it'
 tags: [  ]

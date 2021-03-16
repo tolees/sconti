@@ -5,7 +5,7 @@ date: 2020-09-13 09:13:08
 image: 'https://m.media-amazon.com/images/I/41xRgyskFML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFP7B1B-it PUMA Rebel Up Hoody FL Sweatshirt Uomo Dark Gray Heather M'
 sku: 'B07DFP7B1B-it'
 tags: [  ]

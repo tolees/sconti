@@ -5,7 +5,7 @@ date: 2020-10-10 09:59:48
 image: 'https://m.media-amazon.com/images/I/41RSn1ZXdEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXVB2S5-it Fossil Orologio Quarzo Uomo con Cinturino in Acciaio Inox...'
 sku: 'B01MXVB2S5-it'
 tags: [  ]

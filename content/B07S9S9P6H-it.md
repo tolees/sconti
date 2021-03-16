@@ -5,7 +5,7 @@ date: 2020-07-23 12:09:11
 image: 'https://m.media-amazon.com/images/I/41IHnNvwHOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9S9P6H-it PUMA Cilia Lux Sneakers Donna Nero Black/Plein Air/Bright...'
 sku: 'B07S9S9P6H-it'
 tags: [  ]

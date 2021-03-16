@@ -5,7 +5,7 @@ date: 2020-07-31 12:01:33
 image: 'https://m.media-amazon.com/images/I/41LtNa67ocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZS5WP7-it Lenovo TAB M10 Tablet Display 10.1" HD Processore Qualcomm...'
 sku: 'B07TZS5WP7-it'
 tags: [  ]

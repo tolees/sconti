@@ -5,7 +5,7 @@ date: 2020-09-01 12:08:40
 image: 'https://m.media-amazon.com/images/I/41kVmuPIFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMCV39D-it Chicco Salviettine Detergenti Multiuso con Placchetta 12...'
 sku: 'B07FMCV39D-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-06 06:52:47
 image: 'https://m.media-amazon.com/images/I/41tpdatJU7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD9PDXM-it Adidas EC Org Apparel Accessories Uomo Black Taglia Unica'
 sku: 'B07QD9PDXM-it'
 tags: [  ]

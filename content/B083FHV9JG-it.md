@@ -5,7 +5,7 @@ date: 2020-10-12 08:45:45
 image: 'https://m.media-amazon.com/images/I/41zikNHTxqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FHV9JG-it Lacoste 5h1803 Intimo THYM/Marine-Blanc M Uomo'
 sku: 'B083FHV9JG-it'
 tags: [  ]

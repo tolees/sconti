@@ -5,7 +5,7 @@ date: 2020-10-06 13:35:56
 image: 'https://m.media-amazon.com/images/I/416YpkssGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ESXJXFI-it BIC Comfort 2 - Rasoio da uomo 1 confezione da 10+5 pezzi'
 sku: 'B00ESXJXFI-it'
 tags: [  ]

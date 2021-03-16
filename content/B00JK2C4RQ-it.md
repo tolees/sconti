@@ -5,7 +5,7 @@ date: 2020-09-24 07:55:13
 image: 'https://m.media-amazon.com/images/I/31HjSYFNjwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JK2C4RQ-it Eda Plastiques - 13731 BR.T SX1 - Volcania Fioriera in...'
 sku: 'B00JK2C4RQ-it'
 tags: [  ]

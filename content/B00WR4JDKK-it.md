@@ -5,7 +5,7 @@ date: 2020-07-23 07:15:26
 image: 'https://m.media-amazon.com/images/I/41fxkXxtDRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WR4JDKK-it Garnier Ambre Solaire Crema Protezione Solare UV Sport...'
 sku: 'B00WR4JDKK-it'
 tags: [  ]

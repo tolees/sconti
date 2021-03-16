@@ -5,7 +5,7 @@ date: 2020-08-07 17:28:16
 image: 'https://m.media-amazon.com/images/I/41mGdhSWCEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BMLLP31-it OUPOD Controller wireless Bluetooth per Nintendo Switch...'
 sku: 'B08BMLLP31-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-24 05:17:58
 image: 'https://m.media-amazon.com/images/I/61EQ8gjtT2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z6YGB94-it Pinypon Famosa Casa delle Favole 700012406'
 sku: 'B00Z6YGB94-it'
 tags: [  ]

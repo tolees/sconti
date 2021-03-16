@@ -5,7 +5,7 @@ date: 2020-10-11 14:23:00
 image: 'https://m.media-amazon.com/images/I/41dqoFne9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071L7VDVM-it Lacoste Sport TH0123 T-Shirt Nero Noir Small Taglia...'
 sku: 'B071L7VDVM-it'
 tags: [  ]

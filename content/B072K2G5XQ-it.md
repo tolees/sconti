@@ -5,7 +5,7 @@ date: 2020-09-18 10:08:18
 image: 'https://m.media-amazon.com/images/I/4166LObQdHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K2G5XQ-it Philips SHQ1255TBK/00 Cuffie Auricolari Sportive in Ear...'
 sku: 'B072K2G5XQ-it'
 tags: [  ]

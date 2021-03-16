@@ -5,7 +5,7 @@ date: 2020-09-03 08:19:45
 image: 'https://m.media-amazon.com/images/I/41td60tG3IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXC9QMH-it Kingston A2000 SA2000M8/1000G NVMe PCIe SSD 1000G'
 sku: 'B07VXC9QMH-it'
 tags: [  ]

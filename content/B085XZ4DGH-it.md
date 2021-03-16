@@ -5,7 +5,7 @@ date: 2020-08-20 12:17:19
 image: 'https://m.media-amazon.com/images/I/51aPRiJuDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XZ4DGH-it Maschere per il viso confezione da 50 maschere sigillate...'
 sku: 'B085XZ4DGH-it'
 tags: [  ]

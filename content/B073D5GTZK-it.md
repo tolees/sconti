@@ -5,7 +5,7 @@ date: 2020-09-07 13:23:46
 image: 'https://m.media-amazon.com/images/I/41Z6CyZyyML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073D5GTZK-it Napapijri Voyage Zaino Unisex Adulto Grau Dark Grey Solid...'
 sku: 'B073D5GTZK-it'
 tags: [  ]

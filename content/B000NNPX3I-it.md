@@ -5,7 +5,7 @@ date: 2020-07-21 15:20:33
 image: 'https://m.media-amazon.com/images/I/41iLjZ4eLcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NNPX3I-it Beurer 66200 EM 80 Apparecchio TENS/EMS Digitale'
 sku: 'B000NNPX3I-it'
 tags: [  ]

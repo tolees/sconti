@@ -5,7 +5,7 @@ date: 2020-09-06 17:01:55
 image: 'https://m.media-amazon.com/images/I/41l-GZcZTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016FGLFOC-it Chicco 00001166000300 Guaina Post Parto Regolabile 3 Bianco'
 sku: 'B016FGLFOC-it'
 tags: [  ]

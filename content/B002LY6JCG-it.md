@@ -5,7 +5,7 @@ date: 2020-08-20 14:18:25
 image: 'https://m.media-amazon.com/images/I/513vr6AwhOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LY6JCG-it Star GranPesto alla Genovese senza Aglio - 190 g'
 sku: 'B002LY6JCG-it'
 tags: [  ]

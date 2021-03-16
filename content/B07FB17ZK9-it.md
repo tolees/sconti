@@ -5,7 +5,7 @@ date: 2020-09-30 04:27:53
 image: 'https://m.media-amazon.com/images/I/61SMbcgC-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB17ZK9-it Assassin s Creed 4 Black Flag - Hits-PlayStation 4'
 sku: 'B07FB17ZK9-it'
 tags: [  ]

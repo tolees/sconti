@@ -5,7 +5,7 @@ date: 2020-09-06 06:07:06
 image: 'https://m.media-amazon.com/images/I/418YVHjLMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCPPQSW-it Burton Formula Guanti Uomo True Black L'
 sku: 'B06XCPPQSW-it'
 tags: [  ]

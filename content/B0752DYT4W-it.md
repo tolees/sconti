@@ -5,7 +5,7 @@ date: 2020-10-09 16:02:18
 image: 'https://m.media-amazon.com/images/I/41C1lWT47cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752DYT4W-it Fanta Original 330 ml - 4 lattine'
 sku: 'B0752DYT4W-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 14:38:55
 image: 'https://m.media-amazon.com/images/I/416tg1CN4DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QTVA3GK-it Kappa Polo Uomo Peleot Blu Navy M'
 sku: 'B00QTVA3GK-it'
 tags: [  ]

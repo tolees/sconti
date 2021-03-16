@@ -5,7 +5,7 @@ date: 2020-09-20 12:39:12
 image: 'https://m.media-amazon.com/images/I/41l6SgdNcfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S18SUGY-it Restivoil Olio-Shampoo Azione Rinforzante - 150 ml'
 sku: 'B00S18SUGY-it'
 tags: [  ]

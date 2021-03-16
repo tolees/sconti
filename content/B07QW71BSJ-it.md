@@ -5,7 +5,7 @@ date: 2020-09-23 11:29:12
 image: 'https://m.media-amazon.com/images/I/51zinEHXJbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QW71BSJ-it Luce Posteriore per Bicicletta Ricaricabile USB per...'
 sku: 'B07QW71BSJ-it'
 tags: [  ]

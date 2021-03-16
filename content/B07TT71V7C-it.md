@@ -5,7 +5,7 @@ date: 2020-09-29 07:29:30
 image: 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT71V7C-it Levi s The Perfect Tee Maglietta Bianco Floral Filled...'
 sku: 'B07TT71V7C-it'
 tags: [  ]

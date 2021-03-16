@@ -5,7 +5,7 @@ date: 2020-08-20 06:17:42
 image: 'https://m.media-amazon.com/images/I/51guXiXrA-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGBWPBP-it Macchina Sottovuoto per Alimenti Professionale Aobosi 5 in...'
 sku: 'B07VGBWPBP-it'
 tags: [  ]

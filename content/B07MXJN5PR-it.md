@@ -5,7 +5,7 @@ date: 2020-07-21 13:55:41
 image: 'https://m.media-amazon.com/images/I/5124p1I-fML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXJN5PR-it Dixan Duo Caps Lavanda Detersivo Lavatrice Capsule Pre-...'
 sku: 'B07MXJN5PR-it'
 tags: [  ]

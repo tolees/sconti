@@ -5,7 +5,7 @@ date: 2020-09-16 21:04:15
 image: 'https://m.media-amazon.com/images/I/41-IW35qCcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7DXSPY-it 2 batterie per controller Xbox One/Xbox One S/Xbox One X...'
 sku: 'B07V7DXSPY-it'
 tags: [  ]

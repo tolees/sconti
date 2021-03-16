@@ -5,7 +5,7 @@ date: 2020-10-07 04:46:35
 image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLTPTFT-it Yagte Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per...'
 sku: 'B08HLTPTFT-it'
 tags: [  ]

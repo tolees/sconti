@@ -5,7 +5,7 @@ date: 2020-09-15 17:46:26
 image: 'https://m.media-amazon.com/images/I/313zX4qti6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KDBC1L7-it Echo Show 5 – Resta sempre in contatto con l aiuto di...'
 sku: 'B07KDBC1L7-it'
 tags: [  ]

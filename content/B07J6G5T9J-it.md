@@ -5,7 +5,7 @@ date: 2020-09-06 17:50:23
 image: 'https://m.media-amazon.com/images/I/31QEfiXEbvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6G5T9J-it Apple iPhone XR 64GB - Nero'
 sku: 'B07J6G5T9J-it'
 tags: [  ]

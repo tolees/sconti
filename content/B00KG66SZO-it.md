@@ -5,7 +5,7 @@ date: 2020-10-02 09:13:38
 image: 'https://m.media-amazon.com/images/I/31w9mqowc9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KG66SZO-it ArtWay Studio - Quaderno da Disegno spiralato - Cartoncino...'
 sku: 'B00KG66SZO-it'
 tags: [  ]

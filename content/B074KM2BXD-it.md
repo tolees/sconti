@@ -5,7 +5,7 @@ date: 2020-08-12 23:32:36
 image: 'https://m.media-amazon.com/images/I/51jJ8rkTugL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KM2BXD-it Lavazza Capsule Caffè A Modo Mio Gingseng 10 Confezioni da...'
 sku: 'B074KM2BXD-it'
 tags: [  ]

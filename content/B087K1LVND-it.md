@@ -5,7 +5,7 @@ date: 2020-07-22 09:12:22
 image: 'https://m.media-amazon.com/images/I/41GmraUUR7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087K1LVND-it Mag Ricarica 24 Ore Integratore Alimentare Contro la...'
 sku: 'B087K1LVND-it'
 tags: [  ]

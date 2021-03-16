@@ -5,7 +5,7 @@ date: 2020-09-04 08:17:39
 image: 'https://m.media-amazon.com/images/I/31-iaSg2qPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089N7XB2H-it JACK & JONES JJEPAULOS Polo SS Noos Port Royale M Uomo'
 sku: 'B089N7XB2H-it'
 tags: [  ]

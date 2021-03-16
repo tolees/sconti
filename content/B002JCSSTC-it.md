@@ -5,7 +5,7 @@ date: 2020-10-03 20:17:31
 image: 'https://m.media-amazon.com/images/I/41bQk1C11xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JCSSTC-it Crocs Crocband Clogs Ciabatte Unisex Gomma – Adulto Nero...'
 sku: 'B002JCSSTC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 13:53:19
 image: 'https://m.media-amazon.com/images/I/41mGUijXFmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LJOYVQ-it Alessi Mediterraneo ESI01/29 Fruttiera di Design in...'
 sku: 'B000LJOYVQ-it'
 tags: [  ]

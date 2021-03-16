@@ -5,7 +5,7 @@ date: 2020-09-06 09:56:29
 image: 'https://m.media-amazon.com/images/I/51M0qymqmDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQV3CYK-it Oral-B Testine di Ricambio KIDS Frozen per Spazzolino...'
 sku: 'B07RQV3CYK-it'
 tags: [  ]

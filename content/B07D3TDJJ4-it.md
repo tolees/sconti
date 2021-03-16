@@ -5,7 +5,7 @@ date: 2020-10-03 19:14:21
 image: 'https://m.media-amazon.com/images/I/51TtFD8MDSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3TDJJ4-it Quercetti- Gioco con Palline Colorate Multi-Colore 1015'
 sku: 'B07D3TDJJ4-it'
 tags: [  ]

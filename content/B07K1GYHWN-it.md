@@ -5,7 +5,7 @@ date: 2020-10-03 14:47:55
 image: 'https://m.media-amazon.com/images/I/41tq68h7FmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1GYHWN-it adidas Continental 80 Scarpe da Ginnastica Uomo Bianco...'
 sku: 'B07K1GYHWN-it'
 tags: [  ]

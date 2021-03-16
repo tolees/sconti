@@ -5,7 +5,7 @@ date: 2020-09-26 09:07:17
 image: 'https://m.media-amazon.com/images/I/310DouInsML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HNWFIB4-it Exponent T10200 Tetrax Smart Supporto per Auto Nero'
 sku: 'B00HNWFIB4-it'
 tags: [  ]

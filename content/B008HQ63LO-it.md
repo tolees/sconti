@@ -5,7 +5,7 @@ date: 2020-09-22 09:58:17
 image: 'https://m.media-amazon.com/images/I/312Jp+0ROhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008HQ63LO-it Russell Hobbs 18780 2fetta/e Grigio tostapane'
 sku: 'B008HQ63LO-it'
 tags: [  ]

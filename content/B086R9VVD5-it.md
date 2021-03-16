@@ -5,7 +5,7 @@ date: 2020-08-14 14:53:04
 image: 'https://m.media-amazon.com/images/I/41YfbijpNzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086R9VVD5-it Tennent s Super Birra - Pacco da 24 x 355 ml'
 sku: 'B086R9VVD5-it'
 tags: [  ]

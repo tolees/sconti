@@ -5,7 +5,7 @@ date: 2020-09-24 10:14:48
 image: 'https://m.media-amazon.com/images/I/41RiU7nrl1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y69YLKS-it Antica Erboristeria Dentifricio Antibatterico Totale...'
 sku: 'B06Y69YLKS-it'
 tags: [  ]

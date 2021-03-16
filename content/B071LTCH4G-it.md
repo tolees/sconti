@@ -5,7 +5,7 @@ date: 2020-08-31 12:06:37
 image: 'https://m.media-amazon.com/images/I/41Iz28xxaUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LTCH4G-it New Balance Pc574v1 Sneaker Unisex - Bambini Nero...'
 sku: 'B071LTCH4G-it'
 tags: [  ]

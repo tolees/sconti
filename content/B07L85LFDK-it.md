@@ -5,7 +5,7 @@ date: 2020-08-25 14:19:05
 image: 'https://m.media-amazon.com/images/I/51ygdVTAmFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L85LFDK-it HuaNuo Supporto per Laptop con Cuscino su Letto & Divano...'
 sku: 'B07L85LFDK-it'
 tags: [  ]

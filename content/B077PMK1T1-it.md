@@ -5,7 +5,7 @@ date: 2020-09-18 03:57:49
 image: 'https://m.media-amazon.com/images/I/31ceNBVSiqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PMK1T1-it HP Custodia Sleeve Reversibile in Neoprene per Notebook...'
 sku: 'B077PMK1T1-it'
 tags: [  ]

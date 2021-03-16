@@ -5,7 +5,7 @@ date: 2020-08-27 12:16:07
 image: 'https://m.media-amazon.com/images/I/41MwYbr2IYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N9BOOZ4-it Beurer MP 62 Manicure/Pedicure Professionale con LED'
 sku: 'B00N9BOOZ4-it'
 tags: [  ]

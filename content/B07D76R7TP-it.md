@@ -5,7 +5,7 @@ date: 2020-10-11 04:59:45
 image: 'https://m.media-amazon.com/images/I/41vMA+HQQ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D76R7TP-it Levi s Type 3 Sherpa Trucker Giacca Nero Black Cord Better...'
 sku: 'B07D76R7TP-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 02:43:21
 image: 'https://m.media-amazon.com/images/I/51MfbMo+HBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0143IIP4W-it SanDisk Ultra Scheda di Memoria SDXC Traditional Velocità...'
 sku: 'B0143IIP4W-it'
 tags: [  ]

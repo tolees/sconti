@@ -5,7 +5,7 @@ date: 2020-10-05 15:20:16
 image: 'https://m.media-amazon.com/images/I/41HdGhS3FwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VDIZTW-it Claber 87321 Inter. IRR. TURBINA 670 mq 90478...'
 sku: 'B007VDIZTW-it'
 tags: [  ]

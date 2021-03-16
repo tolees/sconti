@@ -5,7 +5,7 @@ date: 2020-08-24 04:15:17
 image: 'https://m.media-amazon.com/images/I/51Z3AeWcwaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKRVXXG-it QHOHQ Cinturino Metallo per Xiaomi Mi Band 5 Sostituibile...'
 sku: 'B08DKRVXXG-it'
 tags: [  ]

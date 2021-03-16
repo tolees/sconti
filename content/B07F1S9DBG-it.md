@@ -5,7 +5,7 @@ date: 2020-08-05 09:41:54
 image: 'https://m.media-amazon.com/images/I/514Z+215kcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1S9DBG-it EVERGREENWEB Kit Rete e Materasso Singolo 80x190 Alto 20...'
 sku: 'B07F1S9DBG-it'
 tags: [  ]

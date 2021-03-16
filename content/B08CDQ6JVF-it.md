@@ -5,7 +5,7 @@ date: 2020-08-26 21:45:11
 image: 'https://m.media-amazon.com/images/I/319DcUp9QUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDQ6JVF-it FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1...'
 sku: 'B08CDQ6JVF-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 07:19:07
 image: 'https://m.media-amazon.com/images/I/41W4wtULbRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7XNT8H-it Columbia Lake 22 Piumino lungo con Cappuccio Donna Blu...'
 sku: 'B07R7XNT8H-it'
 tags: [  ]

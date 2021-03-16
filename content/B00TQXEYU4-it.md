@@ -5,7 +5,7 @@ date: 2020-09-22 07:41:57
 image: 'https://m.media-amazon.com/images/I/41Liq5QcoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TQXEYU4-it Fjällräven Kaipak 28 Zaino Casual 57 cm liters Rosso Redwood'
 sku: 'B00TQXEYU4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 12:24:19
 image: 'https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BPAI78K-it Boss Profumo - 100 Ml'
 sku: 'B01BPAI78K-it'
 tags: [  ]

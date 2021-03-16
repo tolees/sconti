@@ -5,7 +5,7 @@ date: 2020-09-29 16:09:58
 image: 'https://m.media-amazon.com/images/I/41jKutXijlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009DFSRZS-it Michael Kors Orologio Analogico Quarzo Donna con Cinturino...'
 sku: 'B009DFSRZS-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 10:01:26
 image: 'https://m.media-amazon.com/images/I/51QZfVt-YKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DO5SYH8-it Scottex Balsam Fazzoletti 1 Confezione da 24 Pezzi'
 sku: 'B01DO5SYH8-it'
 tags: [  ]

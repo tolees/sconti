@@ -5,7 +5,7 @@ date: 2020-10-09 00:11:14
 image: 'https://m.media-amazon.com/images/I/31rPrtM8okL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016APUM7O-it Funko- Disney Toy Story-Woody Figurina in Vinile...'
 sku: 'B016APUM7O-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 04:38:46
 image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZRYRN2-it YUCUN 2 5 pollici SATA III Unità a Stato Solido Interno...'
 sku: 'B077ZRYRN2-it'
 tags: [  ]

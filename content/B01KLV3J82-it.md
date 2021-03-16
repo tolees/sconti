@@ -5,7 +5,7 @@ date: 2020-07-17 09:26:07
 image: 'https://m.media-amazon.com/images/I/41cz9VPEKlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLV3J82-it Under Armour UA Hustle 3.0 Zaino Unisex Rosso...'
 sku: 'B01KLV3J82-it'
 tags: [  ]

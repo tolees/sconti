@@ -5,7 +5,7 @@ date: 2020-09-17 11:07:40
 image: 'https://m.media-amazon.com/images/I/41SCpcNQXUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NQYXXCE-it MANN-FILTER HU7020Z Filtro Olio'
 sku: 'B00NQYXXCE-it'
 tags: [  ]

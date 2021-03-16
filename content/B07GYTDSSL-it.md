@@ -5,7 +5,7 @@ date: 2020-08-24 15:54:26
 image: 'https://m.media-amazon.com/images/I/31xqVSmH1jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GYTDSSL-it Landove Donna A spalle Ruffle allentato Batwing Mantello...'
 sku: 'B07GYTDSSL-it'
 tags: [  ]

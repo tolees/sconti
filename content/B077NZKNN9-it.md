@@ -5,7 +5,7 @@ date: 2020-09-22 20:26:54
 image: 'https://m.media-amazon.com/images/I/51p4KWufQZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NZKNN9-it Batman Begins 4K+Br'
 sku: 'B077NZKNN9-it'
 tags: [  ]

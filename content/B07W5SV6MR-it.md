@@ -5,7 +5,7 @@ date: 2020-09-03 09:09:14
 image: 'https://m.media-amazon.com/images/I/31OY44R2OKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5SV6MR-it Tommy Hilfiger Squares Tee Maglietta Blu Sail Blue Small Uomo'
 sku: 'B07W5SV6MR-it'
 tags: [  ]

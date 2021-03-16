@@ -5,7 +5,7 @@ date: 2020-08-18 14:55:37
 image: 'https://m.media-amazon.com/images/I/41WUyQ9DkFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EI9HCGS-it adidas Gazelle Scarpe da Ginnastica Basse Uomo Blu...'
 sku: 'B01EI9HCGS-it'
 tags: [  ]

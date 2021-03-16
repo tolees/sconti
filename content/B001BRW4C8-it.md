@@ -5,7 +5,7 @@ date: 2020-09-26 13:46:34
 image: 'https://m.media-amazon.com/images/I/41upJAsV-XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BRW4C8-it Calvin Klein 3P Hip Brief Intimo Multicolore Black White &...'
 sku: 'B001BRW4C8-it'
 tags: [  ]

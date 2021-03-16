@@ -5,7 +5,7 @@ date: 2020-08-12 23:28:47
 image: 'https://m.media-amazon.com/images/I/41ZyX-3Wt2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JYG8J1-it OMEN by HP Omen 800 Cuffia Gaming con Microfono Regolabile...'
 sku: 'B072JYG8J1-it'
 tags: [  ]

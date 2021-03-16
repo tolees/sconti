@@ -5,7 +5,7 @@ date: 2020-07-23 07:50:44
 image: 'https://m.media-amazon.com/images/I/41cyOVJiB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VFLZW1-it Contenitori per Sottovuoto Aicok Set Universale con 2...'
 sku: 'B076VFLZW1-it'
 tags: [  ]

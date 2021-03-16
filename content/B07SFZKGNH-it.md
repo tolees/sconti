@@ -5,7 +5,7 @@ date: 2020-09-30 00:05:38
 image: 'https://m.media-amazon.com/images/I/41Xx5yofx3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFZKGNH-it ssc napoli Maglia Gara Home 2019/2020 Uomo Blu M'
 sku: 'B07SFZKGNH-it'
 tags: [  ]

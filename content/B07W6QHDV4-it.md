@@ -5,7 +5,7 @@ date: 2020-08-05 07:22:09
 image: 'https://m.media-amazon.com/images/I/51wq3FU-YcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6QHDV4-it adidas Backpack Club Orange'
 sku: 'B07W6QHDV4-it'
 tags: [  ]

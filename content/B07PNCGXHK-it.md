@@ -5,7 +5,7 @@ date: 2020-09-30 00:05:26
 image: 'https://m.media-amazon.com/images/I/51kqv0yRyTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNCGXHK-it Ardes Penny AR5AM40 Ventilatore da Tavolo 3 Pale 40 cm con...'
 sku: 'B07PNCGXHK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-18 07:50:32
 image: 'https://m.media-amazon.com/images/I/31GscbsGc6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9ZLXC7-it Nike Air Max Excee U Scarpe da Corsa Uomo Bianco...'
 sku: 'B07T9ZLXC7-it'
 tags: [  ]

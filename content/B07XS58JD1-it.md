@@ -5,7 +5,7 @@ date: 2020-07-23 08:41:18
 image: 'https://m.media-amazon.com/images/I/41Q0PRqeavL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS58JD1-it Apple iPhone 11 Pro 512GB - Verde Notte'
 sku: 'B07XS58JD1-it'
 tags: [  ]

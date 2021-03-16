@@ -5,7 +5,7 @@ date: 2020-10-10 17:41:33
 image: 'https://m.media-amazon.com/images/I/41EHkQ5Hi+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VR2JLP8-it Lee Rider Jeans Slim Bleu Lt Vintage Worn Lp 32W / 30L Uomo'
 sku: 'B07VR2JLP8-it'
 tags: [  ]

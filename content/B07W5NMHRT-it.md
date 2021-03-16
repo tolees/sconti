@@ -5,7 +5,7 @@ date: 2020-09-24 13:44:17
 image: 'https://m.media-amazon.com/images/I/41APThh7O-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5NMHRT-it TQGOLD Scarpe Antinfortunistica Uomo Donna S3 Estive...'
 sku: 'B07W5NMHRT-it'
 tags: [  ]

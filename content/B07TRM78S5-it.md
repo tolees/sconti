@@ -5,7 +5,7 @@ date: 2020-07-26 17:03:44
 image: 'https://m.media-amazon.com/images/I/41ec8cP+XxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRM78S5-it Levi s Graphic Tee T-Shirt Nero Boxtab SS T2 Mineral Black...'
 sku: 'B07TRM78S5-it'
 tags: [  ]

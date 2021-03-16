@@ -5,7 +5,7 @@ date: 2020-07-27 17:12:21
 image: 'https://m.media-amazon.com/images/I/21gdY8ARWoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OLVQ6M-it Converse Chuck Taylor All Star Sneakers Unisex - Adulto...'
 sku: 'B000OLVQ6M-it'
 tags: [  ]

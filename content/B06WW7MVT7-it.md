@@ -5,7 +5,7 @@ date: 2020-09-30 15:30:02
 image: 'https://m.media-amazon.com/images/I/41P07uTxQnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WW7MVT7-it Wc Net - Tavoletta Solida Profumoso Lavanda - 4 pezzi x 12...'
 sku: 'B06WW7MVT7-it'
 tags: [  ]

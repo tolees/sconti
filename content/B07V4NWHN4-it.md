@@ -5,7 +5,7 @@ date: 2020-08-18 10:27:11
 image: 'https://m.media-amazon.com/images/I/51nFndZubJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4NWHN4-it ORZLY® Gaming Keyboard And Mouse And Mouse Pad And Gaming...'
 sku: 'B07V4NWHN4-it'
 tags: [  ]

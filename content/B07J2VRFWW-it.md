@@ -5,7 +5,7 @@ date: 2020-09-29 17:50:06
 image: 'https://m.media-amazon.com/images/I/4148sZRBc7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2VRFWW-it Marchio Amazon - Goodthreads giacca aderente in twill...'
 sku: 'B07J2VRFWW-it'
 tags: [  ]

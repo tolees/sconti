@@ -5,7 +5,7 @@ date: 2020-07-26 08:34:25
 image: 'https://m.media-amazon.com/images/I/41vsbtIjQ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7H5S6R-it TACKLIFE Pistola da Giardino 10 modalità di Spruzzo...'
 sku: 'B07K7H5S6R-it'
 tags: [  ]

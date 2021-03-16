@@ -5,7 +5,7 @@ date: 2020-09-13 14:25:21
 image: 'https://m.media-amazon.com/images/I/31ikk2OoUCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009OAHEQ-it Joop! JOOP! Homme Eau de Toilette Uomo 125 ml'
 sku: 'B0009OAHEQ-it'
 tags: [  ]

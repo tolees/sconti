@@ -5,7 +5,7 @@ date: 2020-09-21 15:31:59
 image: 'https://m.media-amazon.com/images/I/4137CixWctL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCF7PTB-it Columbia Lay D Down II Giacca da Sci Donna Bianco White M'
 sku: 'B07JCF7PTB-it'
 tags: [  ]

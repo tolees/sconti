@@ -5,7 +5,7 @@ date: 2020-07-25 11:00:59
 image: 'https://m.media-amazon.com/images/I/31jFmpJrocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPPGR44-it Lacoste Sport SH7613 Felpa Uomo Nero Large Taglia...'
 sku: 'B00TPPGR44-it'
 tags: [  ]

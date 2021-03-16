@@ -5,7 +5,7 @@ date: 2020-07-19 11:32:15
 image: 'https://m.media-amazon.com/images/I/41HGP0K4zvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5WBCCQ-it ORICO Case Esterno per Disco Rigido 2 5 Custodia Esterna...'
 sku: 'B08B5WBCCQ-it'
 tags: [  ]

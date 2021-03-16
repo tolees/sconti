@@ -5,7 +5,7 @@ date: 2020-10-10 23:12:06
 image: 'https://m.media-amazon.com/images/I/41F+saEY5cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPMSWBG-it LIGE Orologi Donna Moda Impermeabile Quarzo Orologio da...'
 sku: 'B07VPMSWBG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-16 05:53:32
 image: 'https://m.media-amazon.com/images/I/512gLX1KHOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007C4LWH2-it Binary Domain'
 sku: 'B007C4LWH2-it'
 tags: [  ]

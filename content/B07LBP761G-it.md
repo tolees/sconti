@@ -5,7 +5,7 @@ date: 2020-08-21 12:57:11
 image: 'https://m.media-amazon.com/images/I/41CKVQNnMAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBP761G-it YOOFAN Borsa da Spiaggia-Borsa Grande a Rete da Spiaggia -...'
 sku: 'B07LBP761G-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 08:48:13
 image: 'https://m.media-amazon.com/images/I/51Na5C5whML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009C7ZV8I-it JBL biocondizionatore per Pesci Rossi Biotopol R...'
 sku: 'B009C7ZV8I-it'
 tags: [  ]

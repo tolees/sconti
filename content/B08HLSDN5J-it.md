@@ -5,7 +5,7 @@ date: 2020-09-27 13:51:01
 image: 'https://m.media-amazon.com/images/I/514IwO1R-LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLSDN5J-it Didisky Pellicola Protettiva in Vetro Temperato per Xiaomi...'
 sku: 'B08HLSDN5J-it'
 tags: [  ]

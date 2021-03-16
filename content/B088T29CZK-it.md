@@ -5,7 +5,7 @@ date: 2020-08-16 16:01:50
 image: 'https://m.media-amazon.com/images/I/413hXbX5kxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088T29CZK-it Tablet Android 8.1 Tablet da 10 pollici con processore...'
 sku: 'B088T29CZK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 14:42:25
 image: 'https://m.media-amazon.com/images/I/51zKxqJdHJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001OHWAA6-it Gran Cereale Biscotti Gran Cereale al Cioccolato Biscotti...'
 sku: 'B001OHWAA6-it'
 tags: [  ]

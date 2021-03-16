@@ -5,7 +5,7 @@ date: 2020-10-07 04:54:59
 image: 'https://m.media-amazon.com/images/I/41tKXupS0AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HRJ7SCF-it RIIMUHIR Vetro Temperato per Xiaomi Mi 10/10 PRO [2 Pezzi]...'
 sku: 'B08HRJ7SCF-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 13:31:28
 image: 'https://m.media-amazon.com/images/I/31DPOZNcULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5QRPHS-it Tommy Jeans Essential Scarpe da Ginnastica Basse Uomo Blu...'
 sku: 'B07V5QRPHS-it'
 tags: [  ]

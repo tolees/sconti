@@ -5,7 +5,7 @@ date: 2020-09-03 09:34:27
 image: 'https://m.media-amazon.com/images/I/41YJOlYFzWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7GEA3O-it Logitech M330 Silent Plus Mouse Wireless 2.4 GHz con...'
 sku: 'B01K7GEA3O-it'
 tags: [  ]

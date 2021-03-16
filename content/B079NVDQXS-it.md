@@ -5,7 +5,7 @@ date: 2020-09-04 07:07:58
 image: 'https://m.media-amazon.com/images/I/31pZGK4hGoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NVDQXS-it Samsung VC05K51F0VP Aspirapolvere a Traino Senza Sacco...'
 sku: 'B079NVDQXS-it'
 tags: [  ]

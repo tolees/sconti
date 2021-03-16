@@ -5,7 +5,7 @@ date: 2020-09-29 09:03:22
 image: 'https://m.media-amazon.com/images/I/41ZZ7yemDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CZYOEUU-it Disney Princess - Vaiana Fashion Doll'
 sku: 'B01CZYOEUU-it'
 tags: [  ]

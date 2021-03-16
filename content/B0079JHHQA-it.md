@@ -5,7 +5,7 @@ date: 2020-08-04 14:15:06
 image: 'https://m.media-amazon.com/images/I/31O46rIlDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0079JHHQA-it Arena Classic Silicone Cuffia Unisex Adulto Grigio...'
 sku: 'B0079JHHQA-it'
 tags: [  ]

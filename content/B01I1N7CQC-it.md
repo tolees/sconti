@@ -5,7 +5,7 @@ date: 2020-09-22 11:29:13
 image: 'https://m.media-amazon.com/images/I/41aIvEQbFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I1N7CQC-it Adidas Vs Pace Scarpe da Ginnastica Uomo Nero...'
 sku: 'B01I1N7CQC-it'
 tags: [  ]

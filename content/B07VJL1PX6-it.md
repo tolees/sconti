@@ -5,7 +5,7 @@ date: 2020-09-08 12:57:16
 image: 'https://m.media-amazon.com/images/I/41IzZDDkRLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJL1PX6-it Calvin Klein Boxer Brief 2pk Nero Black with/White WB Bnm...'
 sku: 'B07VJL1PX6-it'
 tags: [  ]

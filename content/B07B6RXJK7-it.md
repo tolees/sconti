@@ -5,7 +5,7 @@ date: 2020-09-15 13:54:11
 image: 'https://m.media-amazon.com/images/I/41ZlM0x6sIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6RXJK7-it Garnier Skinactive Acqua Micellare Detergente Per Pelli...'
 sku: 'B07B6RXJK7-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 18:54:40
 image: 'https://m.media-amazon.com/images/I/41f4RWRmqnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0020MMDHO-it Dolce&Gabbana The One for Men Eau de Toilette Uomo 50 ml'
 sku: 'B0020MMDHO-it'
 tags: [  ]

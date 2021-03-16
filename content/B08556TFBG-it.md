@@ -5,7 +5,7 @@ date: 2020-08-29 10:48:29
 image: 'https://m.media-amazon.com/images/I/519zon94O4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08556TFBG-it Spirits In The Forest'
 sku: 'B08556TFBG-it'
 tags: [  ]

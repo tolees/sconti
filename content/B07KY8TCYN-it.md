@@ -5,7 +5,7 @@ date: 2020-10-09 12:12:32
 image: 'https://m.media-amazon.com/images/I/41uK6+FsLbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KY8TCYN-it Eastpak OUT OF OFFICE Zaino Casual 44 cm 27 liters...'
 sku: 'B07KY8TCYN-it'
 tags: [  ]

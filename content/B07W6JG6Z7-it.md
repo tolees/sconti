@@ -5,7 +5,7 @@ date: 2020-08-10 12:58:54
 image: 'https://m.media-amazon.com/images/I/41a-hd-W1LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6JG6Z7-it Logitech MX Master 3 Mouse Wireless Avanzato Ricevitore...'
 sku: 'B07W6JG6Z7-it'
 tags: [  ]

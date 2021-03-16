@@ -5,7 +5,7 @@ date: 2020-09-15 20:38:43
 image: 'https://m.media-amazon.com/images/I/410uY1kc9NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HDJKYLF-it eXtremeRate Cover Grip per Xbox One S X Controller Model...'
 sku: 'B08HDJKYLF-it'
 tags: [  ]

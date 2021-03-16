@@ -5,7 +5,7 @@ date: 2020-08-15 11:41:34
 image: 'https://m.media-amazon.com/images/I/51Ec4jzEneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CK3JZC6-it EGV [2 Pezzi Pellicola Fotocamera per Xiaomi Redmi Note 9S...'
 sku: 'B08CK3JZC6-it'
 tags: [  ]

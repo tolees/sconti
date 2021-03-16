@@ -5,7 +5,7 @@ date: 2020-08-13 11:54:05
 image: 'https://m.media-amazon.com/images/I/51wKRNULo3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BXKMV7S-it HHUIWIND Custodia Xiaomi Redmi Note 9 + Pellicola Vetro...'
 sku: 'B08BXKMV7S-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-30 12:52:18
 image: 'https://m.media-amazon.com/images/I/41EvjFnWbOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7SRGWN-it adidas Juve H JSY Maglia Gara Home 2018/2019 Cristiano...'
 sku: 'B07K7SRGWN-it'
 tags: [  ]

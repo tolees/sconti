@@ -5,7 +5,7 @@ date: 2020-09-05 15:05:54
 image: 'https://m.media-amazon.com/images/I/31vgg-0aItL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNJT5N5-it Kenwood KHC29.H0WH Impastatrice Planetaria Prospero 1000 W...'
 sku: 'B07YNJT5N5-it'
 tags: [  ]

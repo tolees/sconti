@@ -5,7 +5,7 @@ date: 2020-07-19 08:00:41
 image: 'https://m.media-amazon.com/images/I/41+uPJ2cPAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PYXFSC-it Mpow H10 Cuffie Noise Cancelling Attiva ANC Autonomia 30...'
 sku: 'B087PYXFSC-it'
 tags: [  ]

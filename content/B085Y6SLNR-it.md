@@ -5,7 +5,7 @@ date: 2020-07-19 18:01:19
 image: 'https://m.media-amazon.com/images/I/31oHtC80JyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085Y6SLNR-it FlowerDas Termometro Frontale Letture istantanee Accurate...'
 sku: 'B085Y6SLNR-it'
 tags: [  ]

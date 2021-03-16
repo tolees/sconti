@@ -5,7 +5,7 @@ date: 2020-08-09 17:50:29
 image: 'https://m.media-amazon.com/images/I/41jKv+4vspL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMP29T-it G-STAR RAW Arctic Expedition Giacca Nero Dk Black 6484...'
 sku: 'B07NDMP29T-it'
 tags: [  ]

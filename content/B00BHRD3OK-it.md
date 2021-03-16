@@ -5,7 +5,7 @@ date: 2020-08-10 16:20:50
 image: 'https://m.media-amazon.com/images/I/41snAAUUAWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BHRD3OK-it Hermes Jour d Hermes Eau de Parfum Donna 50 ml'
 sku: 'B00BHRD3OK-it'
 tags: [  ]

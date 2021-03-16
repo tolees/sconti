@@ -5,7 +5,7 @@ date: 2020-10-09 15:06:39
 image: 'https://m.media-amazon.com/images/I/41hDYD4xYKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I060RAY-it givova Visa Fluo Tuta da Ginnastica Uomo Nero/Bianco L'
 sku: 'B00I060RAY-it'
 tags: [  ]

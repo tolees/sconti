@@ -5,7 +5,7 @@ date: 2020-08-29 22:44:46
 image: 'https://m.media-amazon.com/images/I/51ec-UtOI9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TYJ4L76-it Minnie - Cucina di Minnie 181694'
 sku: 'B00TYJ4L76-it'
 tags: [  ]

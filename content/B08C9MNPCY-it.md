@@ -5,7 +5,7 @@ date: 2020-08-24 04:16:16
 image: 'https://m.media-amazon.com/images/I/41C-HgbrMwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9MNPCY-it ZIYOULANG Mouse da gioco cablato 69G a nido d ape leggero...'
 sku: 'B08C9MNPCY-it'
 tags: [  ]

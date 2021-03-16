@@ -5,7 +5,7 @@ date: 2020-08-09 07:27:27
 image: 'https://m.media-amazon.com/images/I/31uibP6Yk1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5HN88W-it Xiaomi - Ripetitore di rete WiFi WiFi Extender di...'
 sku: 'B07W5HN88W-it'
 tags: [  ]

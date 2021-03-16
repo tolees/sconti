@@ -5,7 +5,7 @@ date: 2020-08-19 16:19:40
 image: 'https://m.media-amazon.com/images/I/415ewLQkriL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BFZ8BZ-it Elyco Propeller per DJI Mavic Air 2 2pcs Low Noise Volo...'
 sku: 'B088BFZ8BZ-it'
 tags: [  ]

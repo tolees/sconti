@@ -5,7 +5,7 @@ date: 2020-09-06 07:01:30
 image: 'https://m.media-amazon.com/images/I/41ixTKQnBNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WH2MWJ-it DeniseM117 Cuffie Bluetooth Auricolari Bluetooth Senza...'
 sku: 'B088WH2MWJ-it'
 tags: [  ]

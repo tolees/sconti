@@ -5,7 +5,7 @@ date: 2020-08-18 04:25:50
 image: 'https://m.media-amazon.com/images/I/510QoAv45mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFFH3WY-it UniqueMe [6 Pack Pellicola Protettiva per Xiaomi Mi Band 5...'
 sku: 'B08FFFH3WY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 16:34:00
 image: 'https://m.media-amazon.com/images/I/41VBf9clpFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011ANOGP0-it Philips Monitor 243V5LHSB Gaming Monitor per PC Desktop...'
 sku: 'B011ANOGP0-it'
 tags: [  ]

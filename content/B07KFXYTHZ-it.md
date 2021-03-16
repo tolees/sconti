@@ -5,7 +5,7 @@ date: 2020-07-26 13:28:47
 image: 'https://m.media-amazon.com/images/I/31AplAfeF2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFXYTHZ-it Puma Caracal Scarpe da Ginnastica Unisex-Adulto Bianco...'
 sku: 'B07KFXYTHZ-it'
 tags: [  ]

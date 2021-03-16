@@ -5,7 +5,7 @@ date: 2020-10-01 06:59:47
 image: 'https://m.media-amazon.com/images/I/41MpP98VMQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTGCBMN-it Levi s Levis 168ndl Mid Cut Sprtwr Logo 2p Calze...'
 sku: 'B07VTGCBMN-it'
 tags: [  ]

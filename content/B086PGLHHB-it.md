@@ -5,7 +5,7 @@ date: 2020-08-15 05:39:56
 image: 'https://m.media-amazon.com/images/I/519A8Tn6vhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PGLHHB-it Smartwatch Orologio con Auricolare Sportivo Bluetooth...'
 sku: 'B086PGLHHB-it'
 tags: [  ]

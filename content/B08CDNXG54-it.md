@@ -5,7 +5,7 @@ date: 2020-08-23 04:15:11
 image: 'https://m.media-amazon.com/images/I/31iChg-93yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDNXG54-it FFTH Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1...'
 sku: 'B08CDNXG54-it'
 tags: [  ]

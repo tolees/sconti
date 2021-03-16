@@ -5,7 +5,7 @@ date: 2020-08-25 12:49:05
 image: 'https://m.media-amazon.com/images/I/41qUpy45dCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MF68GX-it GoPetee Tappetino Refrigerante Rinfrescante per Cane Gatto...'
 sku: 'B086MF68GX-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 07:53:28
 image: 'https://m.media-amazon.com/images/I/41kCkaDagwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8HL7TJ-it Philips BRE275/00 Satinelle Essential Epilatore Elettrico...'
 sku: 'B07M8HL7TJ-it'
 tags: [  ]

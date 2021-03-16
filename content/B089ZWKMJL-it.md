@@ -5,7 +5,7 @@ date: 2020-10-01 16:55:58
 image: 'https://m.media-amazon.com/images/I/518NsisctvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ZWKMJL-it Tastiera meccanica da gioco a basso profilo ultra sottile...'
 sku: 'B089ZWKMJL-it'
 tags: [  ]

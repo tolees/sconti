@@ -5,7 +5,7 @@ date: 2020-10-02 21:41:26
 image: 'https://m.media-amazon.com/images/I/41zxY7Txa+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ5Y6GY-it G-STAR RAW Premium Basic Felpa Grigio Lt Grey Htr...'
 sku: 'B07RJ5Y6GY-it'
 tags: [  ]

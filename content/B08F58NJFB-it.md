@@ -5,7 +5,7 @@ date: 2020-08-27 10:57:12
 image: 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F58NJFB-it BAITITON 2 5 pollici SATA III Unità a Stato Solido Interno...'
 sku: 'B08F58NJFB-it'
 tags: [  ]

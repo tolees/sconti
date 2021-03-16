@@ -5,7 +5,7 @@ date: 2020-09-15 15:19:30
 image: 'https://m.media-amazon.com/images/I/41OwVDJCWAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6ZTDN4-it Levi s Type 3 Sherpa Trucker Giacca Beige True Chino Cord...'
 sku: 'B07D6ZTDN4-it'
 tags: [  ]

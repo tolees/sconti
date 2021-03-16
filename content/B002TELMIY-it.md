@@ -5,7 +5,7 @@ date: 2020-09-19 10:08:34
 image: 'https://m.media-amazon.com/images/I/41Uk-5XprPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002TELMIY-it Calvin Klein CK Free Eau de Toilette da uomo 50 ml'
 sku: 'B002TELMIY-it'
 tags: [  ]

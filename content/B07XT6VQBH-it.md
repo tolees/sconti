@@ -5,7 +5,7 @@ date: 2020-07-30 14:26:21
 image: 'https://m.media-amazon.com/images/I/41-KIkTa5+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XT6VQBH-it YOUNGDO Idropulsore Dentale Professionale da capacità...'
 sku: 'B07XT6VQBH-it'
 tags: [  ]

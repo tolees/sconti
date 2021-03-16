@@ -5,7 +5,7 @@ date: 2020-07-27 07:19:57
 image: 'https://m.media-amazon.com/images/I/315vR3Dvu2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT13GU6-it Lacoste Lerond BL 2 Cam Sneaker Uomo Blu Navy 44.5 EU'
 sku: 'B01MT13GU6-it'
 tags: [  ]

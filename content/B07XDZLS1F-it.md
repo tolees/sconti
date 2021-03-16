@@ -5,7 +5,7 @@ date: 2020-08-31 15:33:50
 image: 'https://m.media-amazon.com/images/I/417Mn4+s1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDZLS1F-it Puma CB Giacca A Vento Uomo Black L'
 sku: 'B07XDZLS1F-it'
 tags: [  ]

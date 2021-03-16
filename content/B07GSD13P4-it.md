@@ -5,7 +5,7 @@ date: 2020-07-20 07:03:38
 image: 'https://m.media-amazon.com/images/I/51dG5hIeGKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSD13P4-it Einhell 4513914 Trapano Avvitatore a Batteria'
 sku: 'B07GSD13P4-it'
 tags: [  ]

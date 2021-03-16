@@ -5,7 +5,7 @@ date: 2020-08-20 08:20:13
 image: 'https://m.media-amazon.com/images/I/41ZYphL1QfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V69QDFR-it Imetec SM3 900 Tostiera Piastre XL Rigate e Antiaderenti...'
 sku: 'B07V69QDFR-it'
 tags: [  ]

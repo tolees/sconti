@@ -5,7 +5,7 @@ date: 2020-08-25 18:27:49
 image: 'https://m.media-amazon.com/images/I/31eI2HpObrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SP4FRB3-it Havaianas Urban Basic Ii Infradito Uomo Nero Black 0090...'
 sku: 'B07SP4FRB3-it'
 tags: [  ]

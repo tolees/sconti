@@ -5,7 +5,7 @@ date: 2020-08-20 16:46:47
 image: 'https://m.media-amazon.com/images/I/311DXpHYKhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8QCC9N-it PUMA Smash V2 L Scarpe da Ginnastica Unisex-Adulto Blu...'
 sku: 'B07S8QCC9N-it'
 tags: [  ]

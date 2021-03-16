@@ -5,7 +5,7 @@ date: 2020-08-24 14:12:36
 image: 'https://m.media-amazon.com/images/I/41izXxjClOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBBTK65-it Havaianas Slim Tropical Infradito Donna Multicolore Beige...'
 sku: 'B07TBBTK65-it'
 tags: [  ]

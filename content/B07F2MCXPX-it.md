@@ -5,7 +5,7 @@ date: 2020-09-18 02:48:55
 image: 'https://m.media-amazon.com/images/I/31Vwq0m0KzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2MCXPX-it Vans Left Chest Logo Tee T-Shirt Uomo Nero Black White...'
 sku: 'B07F2MCXPX-it'
 tags: [  ]

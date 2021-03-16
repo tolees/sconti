@@ -5,7 +5,7 @@ date: 2020-10-07 09:22:53
 image: 'https://m.media-amazon.com/images/I/41JHyF5-auL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QV74JX6-it Marchio Amazon - TRUTH & FABLE Mini Tubino in Pizzo Donna...'
 sku: 'B07QV74JX6-it'
 tags: [  ]

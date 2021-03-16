@@ -5,7 +5,7 @@ date: 2020-10-03 02:11:07
 image: 'https://m.media-amazon.com/images/I/518YMWOaxFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078DPBKH4-it Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato -...'
 sku: 'B078DPBKH4-it'
 tags: [  ]

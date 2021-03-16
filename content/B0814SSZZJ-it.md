@@ -5,7 +5,7 @@ date: 2020-12-05 14:59:34
 image: 'https://m.media-amazon.com/images/I/31P5H3k54aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814SSZZJ-it Under Armour UA Tech Pantaloni Uomo Blu Taglia Unica'
 sku: 'B0814SSZZJ-it'
 tags: [  ]

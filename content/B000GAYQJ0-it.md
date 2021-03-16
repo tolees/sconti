@@ -5,7 +5,7 @@ date: 2020-09-24 01:00:00
 image: 'https://m.media-amazon.com/images/I/41x15maipiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GAYQJ0-it Casio Vintage A158WA-1CR - Orologio da Polso Digitale Argento'
 sku: 'B000GAYQJ0-it'
 tags: [  ]

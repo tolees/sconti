@@ -5,7 +5,7 @@ date: 2020-08-22 16:26:09
 image: 'https://m.media-amazon.com/images/I/31soPwUIW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9RTJRG-it Puma Flyer Runner Scarpe da Corsa Unisex-Adulto White...'
 sku: 'B07S9RTJRG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 10:40:54
 image: 'https://m.media-amazon.com/images/I/41I4ThwjQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LTNQCH-it SoundPEATS Auricolari Wireless TrueCapsule Nuova Versione...'
 sku: 'B083LTNQCH-it'
 tags: [  ]

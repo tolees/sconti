@@ -5,7 +5,7 @@ date: 2020-09-30 16:13:06
 image: 'https://m.media-amazon.com/images/I/41SC2BfUzjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBWT8PV-it Luce Solare da Esterno 35 LED Luci di sicurezza per...'
 sku: 'B07KBWT8PV-it'
 tags: [  ]

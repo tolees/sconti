@@ -5,7 +5,7 @@ date: 2020-09-17 20:46:04
 image: 'https://m.media-amazon.com/images/I/61+B0RYQpzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0196A4EVK-it Sylvanian Families - 5234 - Boutique'
 sku: 'B0196A4EVK-it'
 tags: [  ]

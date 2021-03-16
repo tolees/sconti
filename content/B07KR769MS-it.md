@@ -5,7 +5,7 @@ date: 2020-09-21 15:30:04
 image: 'https://m.media-amazon.com/images/I/41jr+WdjXiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR769MS-it Under Armour UA Qualifier HeatGear Tight Pantaloni a...'
 sku: 'B07KR769MS-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 05:47:10
 image: 'https://m.media-amazon.com/images/I/41A+6oR9cEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0882NHRNZ-it Aigostar Lampada Solare Giardino Esterno 24pcs LED Luci...'
 sku: 'B0882NHRNZ-it'
 tags: [  ]

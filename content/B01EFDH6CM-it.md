@@ -5,7 +5,7 @@ date: 2020-10-01 20:14:07
 image: 'https://m.media-amazon.com/images/I/31nlq8dPN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EFDH6CM-it Vero Moda Vmjulia Ls Dnm Noos Blazer Donna 38 Nero Black...'
 sku: 'B01EFDH6CM-it'
 tags: [  ]

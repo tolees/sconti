@@ -5,7 +5,7 @@ date: 2020-09-14 07:00:28
 image: 'https://m.media-amazon.com/images/I/51gKctEQXSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BMQ7WDO-it Plein Air ZAP 30 - Sterminainsetti 30 W Argento'
 sku: 'B00BMQ7WDO-it'
 tags: [  ]

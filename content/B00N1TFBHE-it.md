@@ -5,7 +5,7 @@ date: 2020-08-09 13:26:57
 image: 'https://m.media-amazon.com/images/I/310VKhOulDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N1TFBHE-it Tescoma 642773 Vitamino Oliera Vetro Verde 500 ml 1 Pezzo'
 sku: 'B00N1TFBHE-it'
 tags: [  ]

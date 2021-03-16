@@ -5,7 +5,7 @@ date: 2020-09-25 17:52:34
 image: 'https://m.media-amazon.com/images/I/31WNSkjvRvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SJ1LM4-it adidas Urban Rain.RDY Giacca Sportiva Uomo Black M'
 sku: 'B081SJ1LM4-it'
 tags: [  ]

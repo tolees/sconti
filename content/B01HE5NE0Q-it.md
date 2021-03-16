@@ -5,7 +5,7 @@ date: 2020-08-19 15:54:43
 image: 'https://m.media-amazon.com/images/I/41rW6oDtBSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HE5NE0Q-it Adidas Vs Pace Scarpe da Ginnastica Uomo Bianco...'
 sku: 'B01HE5NE0Q-it'
 tags: [  ]

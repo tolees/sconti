@@ -5,7 +5,7 @@ date: 2020-08-23 18:40:45
 image: 'https://m.media-amazon.com/images/I/41vJV2BZigL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BY3H53B-it PARTU Purificatore d Aria HEPA Filtro con Filtro Aria a...'
 sku: 'B07BY3H53B-it'
 tags: [  ]

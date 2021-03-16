@@ -5,7 +5,7 @@ date: 2020-09-26 09:10:20
 image: 'https://m.media-amazon.com/images/I/31lJmsSLN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRKBF7S-it Geox D Jaysen A Scarpe da Ginnastica Basse Donna Bianco...'
 sku: 'B07SRKBF7S-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:30:22
 image: 'https://m.media-amazon.com/images/I/41UDTU5pjvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVCLWQX-it 4x Spazzolini da denti in bamboo naturale ecologico l...'
 sku: 'B07PVCLWQX-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-06 15:26:34
 image: 'https://m.media-amazon.com/images/I/41Qd7Zh06hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YP4N7XT-it Motorola Moto E6 Play Display Max Vision HD+ da 5 5"...'
 sku: 'B07YP4N7XT-it'
 tags: [  ]

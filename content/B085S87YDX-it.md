@@ -5,7 +5,7 @@ date: 2020-09-04 06:53:30
 image: 'https://m.media-amazon.com/images/I/31j7ufMVeTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085S87YDX-it Synology DiskStation DS220j - Server NAS a 2 vani e 2...'
 sku: 'B085S87YDX-it'
 tags: [  ]

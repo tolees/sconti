@@ -5,7 +5,7 @@ date: 2020-09-21 17:41:08
 image: 'https://m.media-amazon.com/images/I/51ElwRoIJnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC2CCW7-it Smac - Sgrassatore Disinfettante Trigger - 650ml x 12...'
 sku: 'B07SC2CCW7-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-05 15:05:54
 image: 'https://m.media-amazon.com/images/I/416k5y+p6RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCCJHG6-it NAPAPIJRI Rainforest S Pkt 1 Giacca Turchese Reef...'
 sku: 'B07VCCJHG6-it'
 tags: [  ]

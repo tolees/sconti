@@ -5,7 +5,7 @@ date: 2020-08-03 06:28:55
 image: 'https://m.media-amazon.com/images/I/31N9g5w81VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007UZNDCU-it Pasta del Capitano Spazzolino Whitening Medio'
 sku: 'B007UZNDCU-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 08:30:55
 image: 'https://m.media-amazon.com/images/I/51ECAPn5p1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8SNV9R-it Misuratore Laser 50m USB Carica Rapida TECCPO telemetro...'
 sku: 'B07S8SNV9R-it'
 tags: [  ]

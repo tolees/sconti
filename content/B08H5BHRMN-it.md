@@ -5,7 +5,7 @@ date: 2020-09-27 16:53:42
 image: 'https://m.media-amazon.com/images/I/41eew9NIY6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H5BHRMN-it Genericn - Scheda di memoria Micro SD SDXC ad alta...'
 sku: 'B08H5BHRMN-it'
 tags: [  ]

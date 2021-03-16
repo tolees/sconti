@@ -5,7 +5,7 @@ date: 2020-07-23 08:40:19
 image: 'https://m.media-amazon.com/images/I/417cZuX757L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S96VJG2-it Control Chocolate 24 Profilattici al Cioccolato Standard'
 sku: 'B07S96VJG2-it'
 tags: [  ]

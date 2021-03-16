@@ -5,7 +5,7 @@ date: 2020-09-01 06:35:16
 image: 'https://m.media-amazon.com/images/I/3145I-jAbKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCF1SDV-it Philips Sonicare HX9911/03 DiamondClean 9000 Spazzolino...'
 sku: 'B07YCF1SDV-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 10:31:29
 image: 'https://m.media-amazon.com/images/I/41UJ+cognyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W5DHZDT-it Tommy Hilfiger Bralette Corsetto Bianco White 100 Small Donna'
 sku: 'B06W5DHZDT-it'
 tags: [  ]

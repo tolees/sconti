@@ -5,7 +5,7 @@ date: 2020-09-05 17:24:55
 image: 'https://m.media-amazon.com/images/I/51ufzWCPEgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GBZCK9Z-it 50PC Usa e getta Blu a 3 Strati Blu'
 sku: 'B08GBZCK9Z-it'
 tags: [  ]

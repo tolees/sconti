@@ -5,7 +5,7 @@ date: 2020-10-12 07:15:14
 image: 'https://m.media-amazon.com/images/I/517N-vJBwLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0763Z6DDW-it Chupa Chups Skull Lecca Lecca Confezione da 100 Lollipops...'
 sku: 'B0763Z6DDW-it'
 tags: [  ]

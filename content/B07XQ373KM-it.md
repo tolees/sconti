@@ -5,7 +5,7 @@ date: 2020-09-09 12:02:05
 image: 'https://m.media-amazon.com/images/I/61OxChj70nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQ373KM-it Catena Luminosa Effetto Fiamma Tomshine 8pc 10M Catene...'
 sku: 'B07XQ373KM-it'
 tags: [  ]

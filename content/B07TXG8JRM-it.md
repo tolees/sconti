@@ -5,7 +5,7 @@ date: 2020-08-27 07:30:30
 image: 'https://m.media-amazon.com/images/I/41RdaEOMvNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXG8JRM-it HolyHigh Smartwatch Orologio Fitness GPS Impermeabile IP68...'
 sku: 'B07TXG8JRM-it'
 tags: [  ]

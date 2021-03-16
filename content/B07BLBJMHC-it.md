@@ -5,7 +5,7 @@ date: 2020-08-12 17:26:46
 image: 'https://m.media-amazon.com/images/I/41SYPztiOwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BLBJMHC-it Fanta Original 660 ml - 4 bottiglie PET riciclabile'
 sku: 'B07BLBJMHC-it'
 tags: [  ]

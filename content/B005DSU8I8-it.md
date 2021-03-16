@@ -5,7 +5,7 @@ date: 2020-09-05 11:56:01
 image: 'https://m.media-amazon.com/images/I/51RqL3V3oDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DSU8I8-it Giotto Stilnovo pastelli colorati in astuccio 36 colori'
 sku: 'B005DSU8I8-it'
 tags: [  ]

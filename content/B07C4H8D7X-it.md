@@ -5,7 +5,7 @@ date: 2020-08-21 13:17:30
 image: 'https://m.media-amazon.com/images/I/51a0xH3IJZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C4H8D7X-it TENS Pulse Stimulator Il massaggiatore EMS...'
 sku: 'B07C4H8D7X-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 11:22:17
 image: 'https://m.media-amazon.com/images/I/41UcWvIecSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00368ONYC-it adidas Adilette Ciabatte Unisex – Adulto Blu Adiblue...'
 sku: 'B00368ONYC-it'
 tags: [  ]

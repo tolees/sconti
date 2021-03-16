@@ -5,7 +5,7 @@ date: 2020-09-30 04:28:10
 image: 'https://m.media-amazon.com/images/I/41GcxiwO-+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0HISEA-it Dainese Snow Team Jr Evo Casco da Sci Vibrant-Yellow JS'
 sku: 'B01M0HISEA-it'
 tags: [  ]

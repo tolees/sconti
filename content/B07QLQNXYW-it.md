@@ -5,7 +5,7 @@ date: 2020-08-02 13:40:30
 image: 'https://m.media-amazon.com/images/I/51jAwTlqaJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLQNXYW-it Bedsure Piumino Matrimoniale Primaverile/Estivo 250 x 200...'
 sku: 'B07QLQNXYW-it'
 tags: [  ]

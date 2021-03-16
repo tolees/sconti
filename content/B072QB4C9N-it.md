@@ -5,7 +5,7 @@ date: 2020-09-09 13:21:04
 image: 'https://m.media-amazon.com/images/I/41ajGa8LPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072QB4C9N-it VINCITORE 06/20* BIO Siero Viso all’Acido Ialuronico Puro...'
 sku: 'B072QB4C9N-it'
 tags: [  ]

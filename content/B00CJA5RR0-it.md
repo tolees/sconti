@@ -5,7 +5,7 @@ date: 2020-09-28 12:32:23
 image: 'https://m.media-amazon.com/images/I/41ZP4ELvVXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CJA5RR0-it Fila Orologio Analogico Quarzo Unisex Adulto con Cinturino...'
 sku: 'B00CJA5RR0-it'
 tags: [  ]

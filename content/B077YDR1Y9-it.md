@@ -5,7 +5,7 @@ date: 2020-09-19 10:08:03
 image: 'https://m.media-amazon.com/images/I/41la3KnVx0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDR1Y9-it Accurist Orologio Analogico-Digitale Quarzo Uomo con...'
 sku: 'B077YDR1Y9-it'
 tags: [  ]

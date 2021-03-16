@@ -5,7 +5,7 @@ date: 2020-09-08 09:34:05
 image: 'https://m.media-amazon.com/images/I/41MFf269mcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYWVCLN-it Massaggiatore Plantare Massaggio Piedi - Tecnologia SME...'
 sku: 'B07VYWVCLN-it'
 tags: [  ]

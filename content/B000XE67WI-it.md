@@ -5,7 +5,7 @@ date: 2020-07-31 17:32:54
 image: 'https://m.media-amazon.com/images/I/41K1O62FjDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XE67WI-it Dolce&Gabbana The One Eau de Parfum Donna 50 ml'
 sku: 'B000XE67WI-it'
 tags: [  ]

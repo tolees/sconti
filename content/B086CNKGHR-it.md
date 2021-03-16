@@ -5,7 +5,7 @@ date: 2020-09-12 12:43:09
 image: 'https://m.media-amazon.com/images/I/41GJOt+HSAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086CNKGHR-it VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido Maxi...'
 sku: 'B086CNKGHR-it'
 tags: [  ]

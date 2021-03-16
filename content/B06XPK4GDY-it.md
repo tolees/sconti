@@ -5,7 +5,7 @@ date: 2020-09-01 07:20:52
 image: 'https://m.media-amazon.com/images/I/31gqkF09qgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPK4GDY-it La Crema del Caffè - Aroma e Gusto 12 Astucci da 10...'
 sku: 'B06XPK4GDY-it'
 tags: [  ]

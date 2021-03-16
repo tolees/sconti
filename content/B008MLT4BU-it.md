@@ -5,7 +5,7 @@ date: 2020-08-27 08:07:01
 image: 'https://m.media-amazon.com/images/I/31qoHOG6oGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008MLT4BU-it Foppapedretti Assai Asse da Stiro Bianco'
 sku: 'B008MLT4BU-it'
 tags: [  ]

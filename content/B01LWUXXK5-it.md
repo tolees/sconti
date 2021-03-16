@@ -5,7 +5,7 @@ date: 2020-08-26 09:41:05
 image: 'https://m.media-amazon.com/images/I/41QslcH3h-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWUXXK5-it Nivea Clear-up Stip Zona T Pelli da Normali a Miste'
 sku: 'B01LWUXXK5-it'
 tags: [  ]

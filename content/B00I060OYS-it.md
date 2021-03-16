@@ -5,7 +5,7 @@ date: 2020-09-27 16:43:48
 image: 'https://m.media-amazon.com/images/I/41ikwJuTRgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I060OYS-it Givova Visa Tuta Da Ginnastica Uomo Multicolore Nero/Rosso XS'
 sku: 'B00I060OYS-it'
 tags: [  ]

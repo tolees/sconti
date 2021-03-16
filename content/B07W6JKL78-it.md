@@ -5,7 +5,7 @@ date: 2020-08-22 05:08:25
 image: 'https://m.media-amazon.com/images/I/41G+zo7Hq8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6JKL78-it Logitech G604 LIGHTSPEED Mouse Gaming Wireless con 15...'
 sku: 'B07W6JKL78-it'
 tags: [  ]

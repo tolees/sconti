@@ -5,7 +5,7 @@ date: 2020-09-03 10:41:26
 image: 'https://m.media-amazon.com/images/I/51GrtVqpcGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP17HNY-it Sega Universale TECCPO 1050W Seghe a Gattuccio...'
 sku: 'B07FP17HNY-it'
 tags: [  ]

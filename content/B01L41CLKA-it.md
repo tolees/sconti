@@ -5,7 +5,7 @@ date: 2020-08-20 14:55:42
 image: 'https://m.media-amazon.com/images/I/31ZCvl3AhOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L41CLKA-it Havaianas Origine III Espadrillas Unisex-Adulto Bianco...'
 sku: 'B01L41CLKA-it'
 tags: [  ]

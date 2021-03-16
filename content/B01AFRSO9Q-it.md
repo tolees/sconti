@@ -5,7 +5,7 @@ date: 2020-09-22 15:14:28
 image: 'https://m.media-amazon.com/images/I/41pdpoR41nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AFRSO9Q-it Bormioli Kaleido Confezione Bicchieri 6 unità'
 sku: 'B01AFRSO9Q-it'
 tags: [  ]

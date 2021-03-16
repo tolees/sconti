@@ -5,7 +5,7 @@ date: 2020-08-08 16:29:33
 image: 'https://m.media-amazon.com/images/I/41OQE1fxwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081ZFNLLZ-it Kimbo Capsule di Caffè Intenso Compatibile con Nespresso...'
 sku: 'B081ZFNLLZ-it'
 tags: [  ]

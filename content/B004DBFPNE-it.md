@@ -5,7 +5,7 @@ date: 2020-09-12 13:22:41
 image: 'https://m.media-amazon.com/images/I/51t8p2QSHEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004DBFPNE-it BIC Cristal Original Penne A Sfera Punta Media 1 0 mm Blu...'
 sku: 'B004DBFPNE-it'
 tags: [  ]

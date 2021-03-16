@@ -5,7 +5,7 @@ date: 2020-09-18 14:45:25
 image: 'https://m.media-amazon.com/images/I/31arOv8sQoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G8Q8FNX-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari...'
 sku: 'B08G8Q8FNX-it'
 tags: [  ]

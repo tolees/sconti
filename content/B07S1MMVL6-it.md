@@ -5,7 +5,7 @@ date: 2020-07-28 05:28:18
 image: 'https://m.media-amazon.com/images/I/41XlAU4DBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1MMVL6-it New Balance 520v6 Scarpe da Corsa Uomo Blu Blue Lv6 43 EU'
 sku: 'B07S1MMVL6-it'
 tags: [  ]

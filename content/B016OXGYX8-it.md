@@ -5,7 +5,7 @@ date: 2020-09-03 11:24:40
 image: 'https://m.media-amazon.com/images/I/41mXD40lyLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016OXGYX8-it Ferrino Skykline Tenda a Cupola Campeggio Blu 3 Persone'
 sku: 'B016OXGYX8-it'
 tags: [  ]

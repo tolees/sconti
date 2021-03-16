@@ -5,7 +5,7 @@ date: 2020-10-05 08:06:53
 image: 'https://m.media-amazon.com/images/I/41XVoTHvfnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7YL5QX-it adidas TIRO BP Zaino Unisex-Adulto Blu Azul/Maruni/Blanco...'
 sku: 'B01M7YL5QX-it'
 tags: [  ]

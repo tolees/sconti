@@ -5,7 +5,7 @@ date: 2020-09-25 08:23:40
 image: 'https://m.media-amazon.com/images/I/41iJWZFDIhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFNNDJQ-it Nike Downshifter 9 Scarpe da Corsa Uomo...'
 sku: 'B07RFNNDJQ-it'
 tags: [  ]

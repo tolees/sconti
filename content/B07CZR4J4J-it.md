@@ -5,7 +5,7 @@ date: 2020-09-07 13:16:15
 image: 'https://m.media-amazon.com/images/I/4181w3LeoVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZR4J4J-it NEUTRO ROBERTS Doccia Shampoo Tonificante - 6 Confezioni...'
 sku: 'B07CZR4J4J-it'
 tags: [  ]

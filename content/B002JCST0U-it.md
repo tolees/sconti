@@ -5,7 +5,7 @@ date: 2020-10-12 05:13:47
 image: 'https://m.media-amazon.com/images/I/31BoZ-DftuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JCST0U-it Crocs Crocband Clogs Ciabatte Unisex – Adulto Blu Navy...'
 sku: 'B002JCST0U-it'
 tags: [  ]

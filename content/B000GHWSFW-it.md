@@ -5,7 +5,7 @@ date: 2020-07-26 09:37:28
 image: 'https://m.media-amazon.com/images/I/31EBePN8g5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GHWSFW-it Chanel Coco - Eau De Toilette Spray Donna 100 ml'
 sku: 'B000GHWSFW-it'
 tags: [  ]

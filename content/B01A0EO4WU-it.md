@@ -5,7 +5,7 @@ date: 2020-09-11 13:36:49
 image: 'https://m.media-amazon.com/images/I/31ATHyG4x4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A0EO4WU-it Hotpoint CS1A 300 H Congelatore Orizziontale Libera...'
 sku: 'B01A0EO4WU-it'
 tags: [  ]

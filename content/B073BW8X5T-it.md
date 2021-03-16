@@ -5,7 +5,7 @@ date: 2020-09-26 19:15:52
 image: 'https://m.media-amazon.com/images/I/41MymK4cI6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073BW8X5T-it Saucony Jazz Original Vintage Sneakers Uomo Black White 10...'
 sku: 'B073BW8X5T-it'
 tags: [  ]

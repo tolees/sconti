@@ -5,7 +5,7 @@ date: 2020-09-11 08:14:58
 image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VX36BG-it Timberland Classic 2 Eye Scarpe da Barca Uomo Marrone...'
 sku: 'B000VX36BG-it'
 tags: [  ]

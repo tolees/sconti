@@ -5,7 +5,7 @@ date: 2020-08-29 08:15:25
 image: 'https://m.media-amazon.com/images/I/41ZKKiwnfVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZYCDKQ-it Cuffie Wireless Over-Ear Mixcder HD901 Cuffie Senza Fili...'
 sku: 'B07MZYCDKQ-it'
 tags: [  ]

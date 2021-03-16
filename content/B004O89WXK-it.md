@@ -5,7 +5,7 @@ date: 2020-09-11 08:30:29
 image: 'https://m.media-amazon.com/images/I/51ws2B5yRiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004O89WXK-it Vallejo Model Air - Set di Colori Acrilici per Aerografo...'
 sku: 'B004O89WXK-it'
 tags: [  ]

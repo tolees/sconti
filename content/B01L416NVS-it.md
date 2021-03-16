@@ -5,7 +5,7 @@ date: 2020-07-29 06:52:28
 image: 'https://m.media-amazon.com/images/I/41FGqhK3ikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L416NVS-it Havaianas Flash Urban Sandali Donna Multicolor...'
 sku: 'B01L416NVS-it'
 tags: [  ]

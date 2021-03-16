@@ -5,7 +5,7 @@ date: 2020-07-31 16:22:02
 image: 'https://m.media-amazon.com/images/I/31XhdkfidxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M76NBB4-it Plafoniera LED Lampada a Soffitto Bianco Naturale 4000K...'
 sku: 'B07M76NBB4-it'
 tags: [  ]

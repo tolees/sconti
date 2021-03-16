@@ -5,7 +5,7 @@ date: 2020-08-29 10:43:54
 image: 'https://m.media-amazon.com/images/I/516OBHo44uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YNSJTQ-it TOFU Candele profumate Regalo Donna Regali per Donna...'
 sku: 'B086YNSJTQ-it'
 tags: [  ]

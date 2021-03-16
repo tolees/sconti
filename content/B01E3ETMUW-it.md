@@ -5,7 +5,7 @@ date: 2020-10-11 17:53:11
 image: 'https://m.media-amazon.com/images/I/31akYcnm1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E3ETMUW-it Maybelline New York Mascara Ciglia Sensazionali...'
 sku: 'B01E3ETMUW-it'
 tags: [  ]

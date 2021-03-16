@@ -5,7 +5,7 @@ date: 2020-10-09 06:31:58
 image: 'https://m.media-amazon.com/images/I/516LSr5GB7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DQ2W6X-it TACKLIFE SEB04A Estrattore di Viti Danneggiate 4 Pezzi...'
 sku: 'B079DQ2W6X-it'
 tags: [  ]

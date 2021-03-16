@@ -5,7 +5,7 @@ date: 2020-09-16 21:06:30
 image: 'https://m.media-amazon.com/images/I/41Kbw2Mrx4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VGXK9G-it CASIO A158 - Orologio da polso cinturino in acciaio...'
 sku: 'B000VGXK9G-it'
 tags: [  ]

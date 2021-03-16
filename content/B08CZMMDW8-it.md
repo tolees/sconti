@@ -5,7 +5,7 @@ date: 2020-09-16 08:15:39
 image: 'https://m.media-amazon.com/images/I/417N942GkQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZMMDW8-it YAMAY Smartwatch con Saturimetro Misuratore Pressione...'
 sku: 'B08CZMMDW8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 09:32:49
 image: 'https://m.media-amazon.com/images/I/41Fzh--RroL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCCHFBL-it NAPAPIJRI Elbas 3 Polo Verde Green Way Gw11 Medium Uomo'
 sku: 'B07VCCHFBL-it'
 tags: [  ]

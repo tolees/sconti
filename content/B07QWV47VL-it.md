@@ -5,7 +5,7 @@ date: 2020-08-25 22:53:52
 image: 'https://m.media-amazon.com/images/I/31xV9dW8BvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWV47VL-it Calvin Klein CK Adj.Logo Belt 3.5cm Cintura Nero Black...'
 sku: 'B07QWV47VL-it'
 tags: [  ]

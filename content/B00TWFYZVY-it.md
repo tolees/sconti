@@ -5,7 +5,7 @@ date: 2020-08-30 23:00:28
 image: 'https://m.media-amazon.com/images/I/51Qnw5-aUmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TWFYZVY-it Clementoni-Baby Gli Animali Tocca e Impara 6+ Mesi...'
 sku: 'B00TWFYZVY-it'
 tags: [  ]

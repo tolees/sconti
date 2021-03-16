@@ -5,7 +5,7 @@ date: 2020-08-23 10:39:02
 image: 'https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLX68MY-it Nike Revolution 5 Scarpe da Corsa Mens Black/White-...'
 sku: 'B07NLX68MY-it'
 tags: [  ]

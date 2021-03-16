@@ -5,7 +5,7 @@ date: 2020-08-14 23:57:19
 image: 'https://m.media-amazon.com/images/I/41rchMJWMxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811JH6KQ-it Maegoo Controller PC PS3 Wireless 2.4GHz Remoto Wireless...'
 sku: 'B0811JH6KQ-it'
 tags: [  ]

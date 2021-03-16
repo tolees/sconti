@@ -5,7 +5,7 @@ date: 2020-10-07 11:23:19
 image: 'https://m.media-amazon.com/images/I/31DFf03ohKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWWXB7T-it Telecamera IP di sicurezza da interni Imou per...'
 sku: 'B07RWWXB7T-it'
 tags: [  ]

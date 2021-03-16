@@ -5,7 +5,7 @@ date: 2020-07-19 09:38:41
 image: 'https://m.media-amazon.com/images/I/316XDEolrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018MBDIE8-it AVM FRITZ! Box 7430 International Modem Router Wireless...'
 sku: 'B018MBDIE8-it'
 tags: [  ]

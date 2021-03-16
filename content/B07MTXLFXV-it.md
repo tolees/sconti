@@ -5,7 +5,7 @@ date: 2020-09-06 11:21:50
 image: 'https://m.media-amazon.com/images/I/41uAh7q0AlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTXLFXV-it Logitech G432 Cuffie Gaming Cablate Audio Surround 7.1...'
 sku: 'B07MTXLFXV-it'
 tags: [  ]

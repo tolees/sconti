@@ -5,7 +5,7 @@ date: 2020-09-24 17:08:28
 image: 'https://m.media-amazon.com/images/I/31pU19ry3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KTGH3Z-it Rimmel London Stay Matte Rossetto Opaco Lunga Durata...'
 sku: 'B071KTGH3Z-it'
 tags: [  ]

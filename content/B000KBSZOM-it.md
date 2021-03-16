@@ -5,7 +5,7 @@ date: 2020-10-10 01:55:20
 image: 'https://m.media-amazon.com/images/I/41et3huLwzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KBSZOM-it Birkenstock Classic Milano Birko-Flor Softfootbed -...'
 sku: 'B000KBSZOM-it'
 tags: [  ]

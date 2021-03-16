@@ -5,7 +5,7 @@ date: 2020-08-07 06:55:23
 image: 'https://m.media-amazon.com/images/I/312qEEJ1wYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TTQGRZ-it Superga 2750-NAPPALEAU Sneaker Unisex Adulto Nero...'
 sku: 'B077TTQGRZ-it'
 tags: [  ]

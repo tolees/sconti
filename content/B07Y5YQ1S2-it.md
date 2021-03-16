@@ -5,7 +5,7 @@ date: 2020-08-30 19:39:51
 image: 'https://m.media-amazon.com/images/I/41fZwgJZxZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5YQ1S2-it WESCO Avvitatore Trapano 12V Avvitatore a Batteria Li-ion...'
 sku: 'B07Y5YQ1S2-it'
 tags: [  ]

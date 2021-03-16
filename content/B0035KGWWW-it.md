@@ -5,7 +5,7 @@ date: 2020-10-05 11:44:21
 image: 'https://m.media-amazon.com/images/I/41kN5Kd2JZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0035KGWWW-it Sola Scriptura'
 sku: 'B0035KGWWW-it'
 tags: [  ]

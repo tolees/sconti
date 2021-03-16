@@ -5,7 +5,7 @@ date: 2020-09-24 07:53:39
 image: 'https://m.media-amazon.com/images/I/5140VPudTlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NT3SZKJ-it 3 Pack 7 Gallon Sacchetto di piantatura Patata Zilong...'
 sku: 'B07NT3SZKJ-it'
 tags: [  ]

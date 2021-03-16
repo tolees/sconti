@@ -5,7 +5,7 @@ date: 2020-07-20 14:41:18
 image: 'https://m.media-amazon.com/images/I/51lPKPasa9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMF8QB1-it Optimum Nutrition Protein Bar 10 Barrette Proteiche con...'
 sku: 'B07PMF8QB1-it'
 tags: [  ]

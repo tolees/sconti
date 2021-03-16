@@ -5,7 +5,7 @@ date: 2021-02-10 06:47:14
 image: 'https://m.media-amazon.com/images/I/51qkJwG0rjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0IIJO4-it Mustang Entertainment - Il Camorrista'
 sku: 'B01M0IIJO4-it'
 tags: [ 'mustang entertainment', ]

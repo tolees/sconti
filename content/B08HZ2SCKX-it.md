@@ -5,7 +5,7 @@ date: 2020-10-03 20:13:04
 image: 'https://m.media-amazon.com/images/I/41dndfM6dTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZ2SCKX-it Hunty Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per...'
 sku: 'B08HZ2SCKX-it'
 tags: [  ]

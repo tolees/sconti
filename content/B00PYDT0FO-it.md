@@ -5,7 +5,7 @@ date: 2020-08-17 12:05:44
 image: 'https://m.media-amazon.com/images/I/41natsFFydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PYDT0FO-it Nike MD Runner 2 Scarpe da Running Uomo Nero...'
 sku: 'B00PYDT0FO-it'
 tags: [  ]

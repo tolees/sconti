@@ -5,7 +5,7 @@ date: 2020-09-11 08:35:46
 image: 'https://m.media-amazon.com/images/I/51Xor1muGVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IX5YNV6-it Brother Cabldp1 Scan-N-Cut - Punta da Taglio per Taglio...'
 sku: 'B00IX5YNV6-it'
 tags: [  ]

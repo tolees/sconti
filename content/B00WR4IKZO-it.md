@@ -5,7 +5,7 @@ date: 2020-07-20 09:44:44
 image: 'https://m.media-amazon.com/images/I/41W4yEHaEpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WR4IKZO-it L Oréal Paris Sublime Sun Cellular Protect Latte Solare...'
 sku: 'B00WR4IKZO-it'
 tags: [  ]

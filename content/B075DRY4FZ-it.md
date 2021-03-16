@@ -5,7 +5,7 @@ date: 2020-10-09 17:22:35
 image: 'https://m.media-amazon.com/images/I/51wE-cHyTrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DRY4FZ-it homcom Tavolo Multi Gioco 4 in 1 con Calcio Balilla Hockey...'
 sku: 'B075DRY4FZ-it'
 tags: [  ]

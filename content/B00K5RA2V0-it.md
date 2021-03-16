@@ -5,7 +5,7 @@ date: 2020-09-22 06:53:04
 image: 'https://m.media-amazon.com/images/I/41MlHkxoCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5RA2V0-it Tommy Hilfiger 3p Brief Boxer-pacco da 3 Bianco White 100...'
 sku: 'B00K5RA2V0-it'
 tags: [  ]

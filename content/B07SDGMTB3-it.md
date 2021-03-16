@@ -5,7 +5,7 @@ date: 2020-10-12 17:21:42
 image: 'https://m.media-amazon.com/images/I/41odBMS+YuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDGMTB3-it Levi s Woodward L Sneaker Uomo Bianco Regular White 51 43 EU'
 sku: 'B07SDGMTB3-it'
 tags: [  ]

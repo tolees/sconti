@@ -5,7 +5,7 @@ date: 2020-08-04 15:56:09
 image: 'https://m.media-amazon.com/images/I/51FbilWSTCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073FH44BN-it KLIM™ Breeze – Ventola da Tavolo dalle Alte Performance –...'
 sku: 'B073FH44BN-it'
 tags: [  ]

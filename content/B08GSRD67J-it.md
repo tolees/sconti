@@ -5,7 +5,7 @@ date: 2020-09-21 13:26:22
 image: 'https://m.media-amazon.com/images/I/31aJJocvR9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GSRD67J-it Entweg Sensore a infrarossi IR Senza Contatto Fronte...'
 sku: 'B08GSRD67J-it'
 tags: [  ]

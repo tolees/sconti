@@ -5,7 +5,7 @@ date: 2020-07-19 05:22:42
 image: 'https://m.media-amazon.com/images/I/41BwbEPJOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089RCNRTZ-it Auricolare Bluetooth 5.0 Auricolare Wireless Microfono e...'
 sku: 'B089RCNRTZ-it'
 tags: [  ]

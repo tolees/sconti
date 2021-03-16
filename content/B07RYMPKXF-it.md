@@ -5,7 +5,7 @@ date: 2020-07-30 07:36:19
 image: 'https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMPKXF-it Levi s Housemark Graphic Tee T-Shirt Bianco Ssnl HM Camo...'
 sku: 'B07RYMPKXF-it'
 tags: [  ]

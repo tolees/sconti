@@ -5,7 +5,7 @@ date: 2020-08-31 08:49:59
 image: 'https://m.media-amazon.com/images/I/41qWWA1BUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXWXSWX-it Champion Performance Crew Calze Sport Uomo Multicolore...'
 sku: 'B07FXWXSWX-it'
 tags: [  ]

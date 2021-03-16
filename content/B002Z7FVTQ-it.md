@@ -5,7 +5,7 @@ date: 2020-10-05 13:29:39
 image: 'https://m.media-amazon.com/images/I/31ovFz1OxEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002Z7FVTQ-it D&G 3 L IMPERATRICE EDT 100ML'
 sku: 'B002Z7FVTQ-it'
 tags: [  ]

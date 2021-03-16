@@ -5,7 +5,7 @@ date: 2020-09-07 09:28:31
 image: 'https://m.media-amazon.com/images/I/41HSD0nvpvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9R8C8-it Levi s T-Shirt Multicolore Authentic Colorblock Tee...'
 sku: 'B07TJ9R8C8-it'
 tags: [  ]

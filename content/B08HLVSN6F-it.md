@@ -5,7 +5,7 @@ date: 2020-09-27 07:38:14
 image: 'https://m.media-amazon.com/images/I/31hp3pGsnqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLVSN6F-it FFTH Hard Disk 2 TB Esterno Hard Disk Esterno USB-C 3.1...'
 sku: 'B08HLVSN6F-it'
 tags: [  ]

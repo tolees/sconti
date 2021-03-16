@@ -5,7 +5,7 @@ date: 2020-08-11 11:09:43
 image: 'https://m.media-amazon.com/images/I/41Cf0ivKPAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4WBTY1-it Levi s Relaxed Graphic Felpa Bianco Crew Box Tab White+...'
 sku: 'B07S4WBTY1-it'
 tags: [  ]

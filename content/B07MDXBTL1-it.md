@@ -5,7 +5,7 @@ date: 2020-09-15 12:32:46
 image: 'https://m.media-amazon.com/images/I/31F2H5cuB7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDXBTL1-it SanDisk SDCZ33-064G-G35 Cruzer Fit da 64 GB Chiavetta USB...'
 sku: 'B07MDXBTL1-it'
 tags: [  ]

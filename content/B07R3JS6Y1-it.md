@@ -5,7 +5,7 @@ date: 2020-07-17 18:20:35
 image: 'https://m.media-amazon.com/images/I/41cAtG2az1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3JS6Y1-it Lecone Mini Ventilatore USB Portatile con LED Colorate...'
 sku: 'B07R3JS6Y1-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 16:51:45
 image: 'https://m.media-amazon.com/images/I/41ZYzCmvFCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011UKF70Q-it Dal Negro-Dal Negro-21043 Ramino Italia 21043'
 sku: 'B011UKF70Q-it'
 tags: [  ]

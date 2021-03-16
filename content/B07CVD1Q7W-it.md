@@ -5,7 +5,7 @@ date: 2020-10-07 08:15:36
 image: 'https://m.media-amazon.com/images/I/51mvfCgHGSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVD1Q7W-it Felix AS Good AS it Looks Misto varietà Cat Food 100 g...'
 sku: 'B07CVD1Q7W-it'
 tags: [  ]

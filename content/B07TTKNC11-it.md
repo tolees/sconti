@@ -5,7 +5,7 @@ date: 2020-08-31 12:39:28
 image: 'https://m.media-amazon.com/images/I/31SqlJHe9HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTKNC11-it Swarovski Braccialetto Nice Pearl Bianco Placcatura Rodio'
 sku: 'B07TTKNC11-it'
 tags: [  ]

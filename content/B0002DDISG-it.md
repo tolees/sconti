@@ -5,7 +5,7 @@ date: 2020-08-24 06:13:42
 image: 'https://m.media-amazon.com/images/I/31sLZ5stAJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002DDISG-it Braun HC5050 Tagliacapelli Regolabarba Uomo e Rasoio...'
 sku: 'B0002DDISG-it'
 tags: [  ]

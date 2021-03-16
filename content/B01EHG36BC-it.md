@@ -5,7 +5,7 @@ date: 2020-10-01 11:05:03
 image: 'https://m.media-amazon.com/images/I/41w1iNlmSXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EHG36BC-it STM Bags Dux Plus Cover per iPad PRO 9.7 Nero'
 sku: 'B01EHG36BC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 07:56:39
 image: 'https://m.media-amazon.com/images/I/41qCZJn-VnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082LGWKT8-it Asics Gel-Quantum 90 2 Scarpe da Corsa Uomo'
 sku: 'B082LGWKT8-it'
 tags: [  ]

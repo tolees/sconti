@@ -5,7 +5,7 @@ date: 2020-07-21 11:25:53
 image: 'https://m.media-amazon.com/images/I/317A9Kb3OiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJ32XDT-it FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk...'
 sku: 'B08BJ32XDT-it'
 tags: [  ]

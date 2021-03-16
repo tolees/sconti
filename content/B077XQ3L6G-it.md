@@ -5,7 +5,7 @@ date: 2020-07-23 06:36:18
 image: 'https://m.media-amazon.com/images/I/41spBHcdTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XQ3L6G-it Under Armour UA Tech 2.0 Short Sleeve Tee Maglietta Uomo...'
 sku: 'B077XQ3L6G-it'
 tags: [  ]

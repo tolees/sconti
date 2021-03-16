@@ -5,7 +5,7 @@ date: 2020-09-06 07:46:20
 image: 'https://m.media-amazon.com/images/I/41TPL9gtEXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDTQ6PH-it 10.1“ pollici Tablet Android 8.1 Phablet Octa Core 4 GB...'
 sku: 'B07YDTQ6PH-it'
 tags: [  ]

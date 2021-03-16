@@ -5,7 +5,7 @@ date: 2020-08-16 11:06:18
 image: 'https://m.media-amazon.com/images/I/41+AhMKpgbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLPWVT3-it Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva...'
 sku: 'B07WLPWVT3-it'
 tags: [  ]

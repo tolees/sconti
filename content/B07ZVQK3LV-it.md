@@ -5,7 +5,7 @@ date: 2020-09-26 09:00:58
 image: 'https://m.media-amazon.com/images/I/41ZX4sRL1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVQK3LV-it Levi s Housemark Graphic Tee T-Shirt Ssnl HM Outline White...'
 sku: 'B07ZVQK3LV-it'
 tags: [  ]

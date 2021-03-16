@@ -5,7 +5,7 @@ date: 2020-09-24 07:53:51
 image: 'https://m.media-amazon.com/images/I/61AeGyLu5mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078LTJ3HX-it Outsunny Prato Sintetico per Giardino Set di 10pz Erba...'
 sku: 'B078LTJ3HX-it'
 tags: [  ]

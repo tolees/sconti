@@ -5,7 +5,7 @@ date: 2020-10-01 05:47:23
 image: 'https://m.media-amazon.com/images/I/317nzD7ELOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PRXXL8-it Aigostar Groom Care 32JVQ - Rifinitore per naso e...'
 sku: 'B077PRXXL8-it'
 tags: [  ]

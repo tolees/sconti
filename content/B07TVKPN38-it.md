@@ -5,7 +5,7 @@ date: 2020-09-21 12:04:46
 image: 'https://m.media-amazon.com/images/I/31wJraogBcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVKPN38-it Samsung WW12R641U0M Lavatrice 12 kg Arno 1400 rpm Bianco'
 sku: 'B07TVKPN38-it'
 tags: [  ]

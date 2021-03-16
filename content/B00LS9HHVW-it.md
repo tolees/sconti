@@ -5,7 +5,7 @@ date: 2020-08-13 13:56:39
 image: 'https://m.media-amazon.com/images/I/41Wm3ti+doL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LS9HHVW-it K-Way le Vrai 3.0 Claude Giacca Impermeabile Uomo Nero...'
 sku: 'B00LS9HHVW-it'
 tags: [  ]

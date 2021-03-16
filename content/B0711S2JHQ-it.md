@@ -5,7 +5,7 @@ date: 2020-09-16 12:05:50
 image: 'https://m.media-amazon.com/images/I/41UZcPl+K-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711S2JHQ-it Samsung U28H750 Monitor 28 4K Ultra HD 3840 x 2160...'
 sku: 'B0711S2JHQ-it'
 tags: [  ]

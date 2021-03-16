@@ -5,7 +5,7 @@ date: 2020-08-10 18:12:11
 image: 'https://m.media-amazon.com/images/I/41sMHD-Bg3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KJVRP1-it PUPPY KITTY Distributore Automatico di Cibo per Gatti Cani...'
 sku: 'B088KJVRP1-it'
 tags: [  ]

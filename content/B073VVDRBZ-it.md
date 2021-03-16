@@ -5,7 +5,7 @@ date: 2020-09-22 20:27:13
 image: 'https://m.media-amazon.com/images/I/51JNOr9BLiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VVDRBZ-it Blade Runner - The Final Cut 4K+Br'
 sku: 'B073VVDRBZ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 14:24:28
 image: 'https://m.media-amazon.com/images/I/31SqoflMoCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKPH74V-it Tommy Hilfiger Leeds 10a2 Scarpe da Ginnastica Uomo Beige...'
 sku: 'B07RKPH74V-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-14 11:19:49
 image: 'https://m.media-amazon.com/images/I/51vaubhsoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08968MJWN-it Acqua alle Rose Tonico Rinfrescante - 4 x 300 ml'
 sku: 'B08968MJWN-it'
 tags: [  ]

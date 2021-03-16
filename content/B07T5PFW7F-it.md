@@ -5,7 +5,7 @@ date: 2020-09-25 07:16:06
 image: 'https://m.media-amazon.com/images/I/41m67k3OvKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5PFW7F-it Timberland Boroughs Project Mixed Super Oxford Sneaker...'
 sku: 'B07T5PFW7F-it'
 tags: [  ]

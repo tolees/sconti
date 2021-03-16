@@ -5,7 +5,7 @@ date: 2020-08-05 10:31:19
 image: 'https://m.media-amazon.com/images/I/510nbFa1mpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MD5C5HK-it TOPERSUN pastelli set di matite colorate 72 colori...'
 sku: 'B07MD5C5HK-it'
 tags: [  ]

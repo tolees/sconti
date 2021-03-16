@@ -5,7 +5,7 @@ date: 2020-09-15 10:24:21
 image: 'https://m.media-amazon.com/images/I/51br+6nyJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRZ6W99-it Ipae-Progarden Set Tree Antracite C/Cuscini'
 sku: 'B06XRZ6W99-it'
 tags: [  ]

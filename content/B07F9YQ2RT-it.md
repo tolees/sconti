@@ -5,7 +5,7 @@ date: 2020-09-07 14:14:51
 image: 'https://m.media-amazon.com/images/I/51xjVqOL1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9YQ2RT-it Porta Cellulare Bici Wiecok Supporto Fotocamera Bici 360°...'
 sku: 'B07F9YQ2RT-it'
 tags: [  ]

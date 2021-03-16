@@ -5,7 +5,7 @@ date: 2020-07-24 08:12:58
 image: 'https://m.media-amazon.com/images/I/418JlPcpezL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYF5YHS-it Regina Wish Carta Cucina | Confezione da 24 Rotoli | 150...'
 sku: 'B07JYF5YHS-it'
 tags: [  ]

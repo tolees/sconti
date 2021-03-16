@@ -5,7 +5,7 @@ date: 2020-09-20 12:04:33
 image: 'https://m.media-amazon.com/images/I/41Mx6ZBPGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078JJ8VNS-it Huion Inspiroy H430P Tavoletta grafica da disegno...'
 sku: 'B078JJ8VNS-it'
 tags: [  ]

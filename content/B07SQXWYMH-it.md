@@ -5,7 +5,7 @@ date: 2020-08-30 11:39:18
 image: 'https://m.media-amazon.com/images/I/41Mb9y8crdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQXWYMH-it Lacoste Chaymon 120 1 CMA Sneaker Uomo Nero Blk/Grn 1b4 42 EU'
 sku: 'B07SQXWYMH-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 13:31:51
 image: 'https://m.media-amazon.com/images/I/41Ogu1IOrxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8PPNMT-it PUMA Carina L Scarpe da Ginnastica Donna Nero Black White...'
 sku: 'B07S8PPNMT-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 09:52:36
 image: 'https://m.media-amazon.com/images/I/414BfHxIZiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS5MSS2-it Apple iPhone 11 Pro 64GB - Oro'
 sku: 'B07XS5MSS2-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 06:16:49
 image: 'https://m.media-amazon.com/images/I/41xsKTk76yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B1JTP8N-it jpantech Smartwatch Orologio Fitness Uomo Donna...'
 sku: 'B08B1JTP8N-it'
 tags: [  ]

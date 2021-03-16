@@ -5,7 +5,7 @@ date: 2020-08-05 05:55:46
 image: 'https://m.media-amazon.com/images/I/41vMEUv+ifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NP1HQZ-it Cuffie Bluetooth Cuffie Wireless IPX7 Cuffie Stereo HiFi...'
 sku: 'B089NP1HQZ-it'
 tags: [  ]

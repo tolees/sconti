@@ -5,7 +5,7 @@ date: 2020-08-24 16:52:16
 image: 'https://m.media-amazon.com/images/I/41cP-hzrbLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLJLGX-it Levi s Down Dehon Pkbl Puffer Giacca Nero Mineral Black...'
 sku: 'B07RZLJLGX-it'
 tags: [  ]

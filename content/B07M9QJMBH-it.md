@@ -5,7 +5,7 @@ date: 2020-08-14 12:08:52
 image: 'https://m.media-amazon.com/images/I/51Wfsaa-xjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9QJMBH-it Uten Barbecue Griglia a Carbone Professionale per 5-10...'
 sku: 'B07M9QJMBH-it'
 tags: [  ]

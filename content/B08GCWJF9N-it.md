@@ -5,7 +5,7 @@ date: 2020-10-10 09:05:14
 image: 'https://m.media-amazon.com/images/I/51XG0MNOpTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GCWJF9N-it Outsunny Carrello Pieghevole per Giardinaggio Campeggio...'
 sku: 'B08GCWJF9N-it'
 tags: [  ]

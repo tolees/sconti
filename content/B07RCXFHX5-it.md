@@ -5,7 +5,7 @@ date: 2020-09-21 07:19:06
 image: 'https://m.media-amazon.com/images/I/41tqnAjOPML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCXFHX5-it Columbia Marquam Peak Jacket Giacca Uomo Blu Collegiate...'
 sku: 'B07RCXFHX5-it'
 tags: [  ]

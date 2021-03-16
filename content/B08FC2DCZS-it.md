@@ -5,7 +5,7 @@ date: 2020-08-24 22:52:51
 image: 'https://m.media-amazon.com/images/I/41miTW6sycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC2DCZS-it Antank Batteria Sostitutiva HAC-003 per Console di Gioco...'
 sku: 'B08FC2DCZS-it'
 tags: [  ]

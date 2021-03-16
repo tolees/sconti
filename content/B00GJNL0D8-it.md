@@ -5,7 +5,7 @@ date: 2020-07-28 19:38:40
 image: 'https://m.media-amazon.com/images/I/41svzmTh4RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GJNL0D8-it Michael Kors Orologio Cronografo Quarzo Uomo con Cinturino...'
 sku: 'B00GJNL0D8-it'
 tags: [  ]

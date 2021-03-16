@@ -5,7 +5,7 @@ date: 2020-10-10 11:15:09
 image: 'https://m.media-amazon.com/images/I/41Lmj2UoYPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7NZLD2-it The North Face M Croda Rossa FLC Pile Uomo Grigio Asphalt...'
 sku: 'B07T7NZLD2-it'
 tags: [  ]

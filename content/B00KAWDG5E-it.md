@@ -5,7 +5,7 @@ date: 2020-09-10 06:02:07
 image: 'https://m.media-amazon.com/images/I/41QOjUzJxdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KAWDG5E-it Burton Powerstretch Liner Guanti Uomo Nero ML'
 sku: 'B00KAWDG5E-it'
 tags: [  ]

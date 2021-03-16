@@ -5,7 +5,7 @@ date: 2020-08-25 07:11:21
 image: 'https://m.media-amazon.com/images/I/31Kkzr2dyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081FZZ8N3-it Apple MacBook Pro 16" 16GB RAM Archiviazione 512GB - Argento'
 sku: 'B081FZZ8N3-it'
 tags: [  ]

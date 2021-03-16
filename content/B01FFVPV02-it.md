@@ -5,7 +5,7 @@ date: 2020-07-30 06:43:14
 image: 'https://m.media-amazon.com/images/I/41+O6BQ18KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFVPV02-it Garnier Ultra Dolce Olio d Argan e di Camelia Bagnodoccia...'
 sku: 'B01FFVPV02-it'
 tags: [  ]

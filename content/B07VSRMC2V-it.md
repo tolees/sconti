@@ -5,7 +5,7 @@ date: 2020-09-17 11:36:38
 image: 'https://m.media-amazon.com/images/I/51ggF3XXcvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSRMC2V-it Carioca Set Back To School | Set Cancelleria Scuola con...'
 sku: 'B07VSRMC2V-it'
 tags: [  ]

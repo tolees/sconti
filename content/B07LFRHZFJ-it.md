@@ -5,7 +5,7 @@ date: 2020-09-09 10:56:51
 image: 'https://m.media-amazon.com/images/I/31c5wmPyjzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFRHZFJ-it Geox U Jaylon E Stivali Classici Uomo Marrone Dk Coffee...'
 sku: 'B07LFRHZFJ-it'
 tags: [  ]

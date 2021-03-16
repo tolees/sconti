@@ -5,7 +5,7 @@ date: 2020-08-13 11:39:25
 image: 'https://m.media-amazon.com/images/I/51cIQMwrPML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKKNK5J-it STN Compatibile con Xiaomi Mi Band 5 Smart Strap Cinturini...'
 sku: 'B08CKKNK5J-it'
 tags: [  ]

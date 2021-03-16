@@ -5,7 +5,7 @@ date: 2020-07-21 17:50:53
 image: 'https://m.media-amazon.com/images/I/51G4nTDueLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4H2HJG-it Jump Force - PlayStation 4'
 sku: 'B07P4H2HJG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 04:13:23
 image: 'https://m.media-amazon.com/images/I/41ufn+BgVML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BY95SGF-it LYITP Cavo per Hard Drive SATA da USB 3.0 a SSD/2 5...'
 sku: 'B08BY95SGF-it'
 tags: [  ]

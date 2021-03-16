@@ -5,7 +5,7 @@ date: 2020-07-19 08:45:14
 image: 'https://m.media-amazon.com/images/I/31-ZO1dkfcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813SHLHH-it adidas Falcon W Scarpe da Ginnastica Donna off White/Raw...'
 sku: 'B0813SHLHH-it'
 tags: [  ]

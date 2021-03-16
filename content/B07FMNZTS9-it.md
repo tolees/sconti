@@ -5,7 +5,7 @@ date: 2020-09-11 15:17:48
 image: 'https://m.media-amazon.com/images/I/41wpm5TQYwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMNZTS9-it Calvin Klein 3p Low Rise Trunk Boxer Blu Black/Blue...'
 sku: 'B07FMNZTS9-it'
 tags: [  ]

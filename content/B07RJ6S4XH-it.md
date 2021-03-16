@@ -5,7 +5,7 @@ date: 2020-09-28 16:55:07
 image: 'https://m.media-amazon.com/images/I/41-KDIRanmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ6S4XH-it Calvin Klein K50k505179 Cintura Blu Navy/Black 0Gy Unica...'
 sku: 'B07RJ6S4XH-it'
 tags: [  ]

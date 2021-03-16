@@ -5,7 +5,7 @@ date: 2020-10-12 20:29:01
 image: 'https://m.media-amazon.com/images/I/31VAlyzc+9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7RSQMT-it Beggars Banquet Remastered 50Th Annyversary...'
 sku: 'B07F7RSQMT-it'
 tags: [  ]

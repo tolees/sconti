@@ -5,7 +5,7 @@ date: 2020-08-19 16:21:35
 image: 'https://m.media-amazon.com/images/I/41XCGenUuSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D63K7FN-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per...'
 sku: 'B08D63K7FN-it'
 tags: [  ]

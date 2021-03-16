@@ -5,7 +5,7 @@ date: 2020-09-07 12:53:38
 image: 'https://m.media-amazon.com/images/I/41jozfR9+LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ZIPKJY-it Helly Hansen New Driftline Maglia T-Shirt con UPF 30+ e...'
 sku: 'B004ZIPKJY-it'
 tags: [  ]

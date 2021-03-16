@@ -5,7 +5,7 @@ date: 2020-07-23 09:09:21
 image: 'https://m.media-amazon.com/images/I/41J7SD5olWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015SGHERM-it Havaianas You Metallic Infradito Donna Sand Grey/Light...'
 sku: 'B015SGHERM-it'
 tags: [  ]

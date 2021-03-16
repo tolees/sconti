@@ -5,7 +5,7 @@ date: 2020-09-02 15:20:39
 image: 'https://m.media-amazon.com/images/I/41wh0BC1vyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086RGZF7P-it Pistola Massaggio Muscolare Massage Gun Rarurko Pistola a...'
 sku: 'B086RGZF7P-it'
 tags: [  ]

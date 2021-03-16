@@ -5,7 +5,7 @@ date: 2020-08-31 08:28:08
 image: 'https://m.media-amazon.com/images/I/41TSb6tFtVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0867PLS4Z-it Alcatel 3L 2020 6.22” 4G 64 GB ROM + 4 GB RAM tripla...'
 sku: 'B0867PLS4Z-it'
 tags: [  ]

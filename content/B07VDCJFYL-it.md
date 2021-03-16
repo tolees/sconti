@@ -5,7 +5,7 @@ date: 2020-10-03 06:55:58
 image: 'https://m.media-amazon.com/images/I/41RLFs5gOQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDCJFYL-it NAPAPIJRI Bishop Fzh Cappuccio Rosso Bright Red R471 Small...'
 sku: 'B07VDCJFYL-it'
 tags: [  ]

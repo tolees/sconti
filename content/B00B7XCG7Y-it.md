@@ -5,7 +5,7 @@ date: 2020-10-07 23:03:38
 image: 'https://m.media-amazon.com/images/I/41LWGHKtN9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B7XCG7Y-it The North Face M Drew Peak Plv HD Felpa con Cappuccio Uomo...'
 sku: 'B00B7XCG7Y-it'
 tags: [  ]

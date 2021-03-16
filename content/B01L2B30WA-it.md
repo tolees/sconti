@@ -5,7 +5,7 @@ date: 2020-09-15 10:39:46
 image: 'https://m.media-amazon.com/images/I/51RD-8b7itL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L2B30WA-it Caffè Borbone Respresso Miscela Decaffeinata - Confezione...'
 sku: 'B01L2B30WA-it'
 tags: [  ]

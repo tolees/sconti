@@ -5,7 +5,7 @@ date: 2020-08-05 22:28:59
 image: 'https://m.media-amazon.com/images/I/415kRpVr7fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFWS68P-it RTP® CREATINA in Polvere ● 500g ● Creatina Monoidrata...'
 sku: 'B07ZFWS68P-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 14:56:41
 image: 'https://m.media-amazon.com/images/I/31UC+kjDDYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752PV1MM-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto...'
 sku: 'B0752PV1MM-it'
 tags: [  ]

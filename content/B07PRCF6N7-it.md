@@ -5,7 +5,7 @@ date: 2020-08-25 16:07:39
 image: 'https://m.media-amazon.com/images/I/411Uvp-UX4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCF6N7-it Kipling Myrte - Borse a tracolla Donna Multicolore Camo...'
 sku: 'B07PRCF6N7-it'
 tags: [  ]

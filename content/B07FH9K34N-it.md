@@ -5,7 +5,7 @@ date: 2020-08-30 17:47:41
 image: 'https://m.media-amazon.com/images/I/31jJZ7OqmWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH9K34N-it Timberland Union Wharf Plain Toe Sneaker Infilare Uomo...'
 sku: 'B07FH9K34N-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 08:19:49
 image: 'https://m.media-amazon.com/images/I/41uepb+rC5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJX8L8L-it Lacoste L1212 Polo Verde Aucuba Xzd 3XL Uomo'
 sku: 'B07TJX8L8L-it'
 tags: [  ]

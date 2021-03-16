@@ -5,7 +5,7 @@ date: 2020-07-19 16:22:45
 image: 'https://m.media-amazon.com/images/I/41rJI7GkqOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBRLTRH-it BenQ EW3270U Monitor PC per Intrattenimento Video HDR UHD...'
 sku: 'B07BBRLTRH-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 03:10:55
 image: 'https://m.media-amazon.com/images/I/41B6F7vWfiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074GJL4BW-it Funko- Pop Vinile MLP Movie Twilight Sparkle Sea Pony 9 cm...'
 sku: 'B074GJL4BW-it'
 tags: [  ]

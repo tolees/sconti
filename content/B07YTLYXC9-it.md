@@ -5,7 +5,7 @@ date: 2020-08-31 12:34:10
 image: 'https://m.media-amazon.com/images/I/41FIjX9N7-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTLYXC9-it Pulsossimetro Bluetooth monitor di saturazione di ossigeno...'
 sku: 'B07YTLYXC9-it'
 tags: [  ]

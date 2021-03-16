@@ -5,7 +5,7 @@ date: 2020-09-19 14:34:07
 image: 'https://m.media-amazon.com/images/I/41Htld-2j-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0035AQPOM-it Pavesi Ringo Biscotti Farciti con Crema al Gusto Vaniglia...'
 sku: 'B0035AQPOM-it'
 tags: [  ]

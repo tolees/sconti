@@ -5,7 +5,7 @@ date: 2020-08-20 10:22:39
 image: 'https://m.media-amazon.com/images/I/41lY9Rhz8wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1H9FSZ-it Clarks Sheer Rose Scarpe con Tacco Donna Multicolore...'
 sku: 'B07N1H9FSZ-it'
 tags: [  ]

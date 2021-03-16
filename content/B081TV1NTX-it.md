@@ -5,7 +5,7 @@ date: 2020-08-25 17:10:36
 image: 'https://m.media-amazon.com/images/I/31Y+nuGw1pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TV1NTX-it adidas Lock Up TP Pantaloni Sportivi Uomo Black S'
 sku: 'B081TV1NTX-it'
 tags: [  ]

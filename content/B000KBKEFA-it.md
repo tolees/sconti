@@ -5,7 +5,7 @@ date: 2020-09-03 12:24:59
 image: 'https://m.media-amazon.com/images/I/41hpQZ8ofOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KBKEFA-it Birkenstock Madrid BS 0040793 Sandali Donna Nero 35 EU'
 sku: 'B000KBKEFA-it'
 tags: [  ]

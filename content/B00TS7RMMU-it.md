@@ -5,7 +5,7 @@ date: 2020-09-25 08:30:38
 image: 'https://m.media-amazon.com/images/I/514tpPkGn8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TS7RMMU-it Outsunny PawHut Recinto Recinzione Box per Animali Cani...'
 sku: 'B00TS7RMMU-it'
 tags: [  ]

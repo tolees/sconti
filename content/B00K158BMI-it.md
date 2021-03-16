@@ -5,7 +5,7 @@ date: 2020-08-27 16:54:16
 image: 'https://m.media-amazon.com/images/I/41mG55DDTmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K158BMI-it Orologio da Donna Casio H5LTP-1259PD-2AEF'
 sku: 'B00K158BMI-it'
 tags: [  ]

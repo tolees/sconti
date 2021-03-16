@@ -5,7 +5,7 @@ date: 2020-09-03 08:13:58
 image: 'https://m.media-amazon.com/images/I/51LYSYMhK0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PL5FYBX-it Scottonelle Carta Igienica Soffice e Trapuntata Confezione...'
 sku: 'B07PL5FYBX-it'
 tags: [  ]

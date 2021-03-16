@@ -5,7 +5,7 @@ date: 2020-09-25 14:18:13
 image: 'https://m.media-amazon.com/images/I/51TWX2eOdOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBFW1S8-it Estrattore di Succo a Freddo Aicok Estrattore di Frutta e...'
 sku: 'B07BBFW1S8-it'
 tags: [  ]

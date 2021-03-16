@@ -5,7 +5,7 @@ date: 2020-10-09 07:57:49
 image: 'https://m.media-amazon.com/images/I/51S8T21wP9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4LQ1CT-it Hasbro Gaming Pierino il Porcospino Gioco in Scatola con...'
 sku: 'B07S4LQ1CT-it'
 tags: [  ]

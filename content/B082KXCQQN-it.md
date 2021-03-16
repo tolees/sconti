@@ -5,7 +5,7 @@ date: 2020-08-05 07:38:35
 image: 'https://m.media-amazon.com/images/I/41p5EvKm4RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KXCQQN-it QARFEE Chiavetta USB 3.0 per iPhone USB Memoria Stick...'
 sku: 'B082KXCQQN-it'
 tags: [  ]

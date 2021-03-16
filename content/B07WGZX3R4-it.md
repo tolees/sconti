@@ -5,7 +5,7 @@ date: 2020-09-25 16:32:05
 image: 'https://m.media-amazon.com/images/I/51Ck8w1426L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGZX3R4-it LIEBE721 Giacche Giacca Donna Manica Lunga Cardigan...'
 sku: 'B07WGZX3R4-it'
 tags: [  ]

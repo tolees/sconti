@@ -5,7 +5,7 @@ date: 2021-03-16 14:55:26
 image: 'https://m.media-amazon.com/images/I/31wVKQcyL9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08233KPVG-it Qshino by UnipolSai Assicurazioni Dispositivo...'
 sku: 'B08233KPVG-it'
 tags: [ 'qshino', ]
@@ -28,13 +28,13 @@ average: '32.6779999999999'
 
 ℹ️:
 
-- Dispositivo antiabbandono universale: si adatta a tutti i modelli di seggiolino auto
+- Conforme alle prescrizioni tecniche costruttive/funzionali del decreto 2 Ottobre 2019, n. 122
+- Interazione utente limitata alla registrazione e alla prima associazione smartphone-Qshino
 - Rivestimento in tessuto resistente all’acqua, rimovibile e lavabile
-- Facile da installare, si collega alla Qshino App ed è subito attivo
+- Dispositivo antiabbandono universale: si adatta a tutti i modelli di seggiolino auto
 - Fino a 3 Qshino gestibili con l’utenza principale
+- Facile da installare, si collega alla Qshino App ed è subito attivo
 - Fino a 5 utenti delegati associabili (nonni, zii, babysitter...)
 - Batteria del tipo CR2450 già pre-installata (sostituibile e reperibile ovunque)
-- Interazione utente limitata alla registrazione e alla prima associazione smartphone-Qshino
-- Conforme alle prescrizioni tecniche costruttive/funzionali del decreto 2 Ottobre 2019, n. 122
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08233KPVG/?tag=tolees00-21)

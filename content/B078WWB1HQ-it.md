@@ -5,7 +5,7 @@ date: 2020-10-10 14:18:12
 image: 'https://m.media-amazon.com/images/I/41i2wpJCDtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WWB1HQ-it Nike Wmns Internationalist Scarpe Running Donna...'
 sku: 'B078WWB1HQ-it'
 tags: [  ]

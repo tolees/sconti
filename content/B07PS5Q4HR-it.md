@@ -5,7 +5,7 @@ date: 2020-10-08 09:04:16
 image: 'https://m.media-amazon.com/images/I/51NGqUpAxyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PS5Q4HR-it Finish All in 1 Max Kit Pastiglie Lavastoviglie 110 Tabs +...'
 sku: 'B07PS5Q4HR-it'
 tags: [  ]

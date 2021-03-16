@@ -5,7 +5,7 @@ date: 2020-09-25 16:05:04
 image: 'https://m.media-amazon.com/images/I/31LY6PZ-TvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJMK2GV-it DJI Osmo Action Cam Camera Digitale con Doppio Display...'
 sku: 'B07RJMK2GV-it'
 tags: [  ]

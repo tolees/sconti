@@ -5,7 +5,7 @@ date: 2020-09-24 16:34:36
 image: 'https://m.media-amazon.com/images/I/41hwJ0K-3pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZM2MDM-it Philips Frullatore a Immersione HR2543/00 nuova Daily+...'
 sku: 'B084ZM2MDM-it'
 tags: [  ]

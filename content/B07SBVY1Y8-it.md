@@ -5,7 +5,7 @@ date: 2020-08-04 06:37:19
 image: 'https://m.media-amazon.com/images/I/41CqDtp63BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVY1Y8-it Puma Vista Sneaker Unisex - Adulto Grigio High Rise-Puma...'
 sku: 'B07SBVY1Y8-it'
 tags: [  ]

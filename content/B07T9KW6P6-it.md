@@ -5,7 +5,7 @@ date: 2020-08-04 08:15:19
 image: 'https://m.media-amazon.com/images/I/414OeiISOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9KW6P6-it Dustgo Tester PH/TDS&EC 4 in 1 Set Misuratore Digitale...'
 sku: 'B07T9KW6P6-it'
 tags: [  ]

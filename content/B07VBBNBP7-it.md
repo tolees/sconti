@@ -5,7 +5,7 @@ date: 2020-08-06 15:47:23
 image: 'https://m.media-amazon.com/images/I/41HSrTQkf7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBBNBP7-it HUGO Dolive202 T-Shirt Giallo Light/Pastel Yellow 741 M Uomo'
 sku: 'B07VBBNBP7-it'
 tags: [  ]

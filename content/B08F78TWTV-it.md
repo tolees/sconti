@@ -5,7 +5,7 @@ date: 2020-08-18 16:19:16
 image: 'https://m.media-amazon.com/images/I/51FimsgVHPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F78TWTV-it eXtremeRate Dawn 2.0 Remap kit Trigger Stop per...'
 sku: 'B08F78TWTV-it'
 tags: [  ]

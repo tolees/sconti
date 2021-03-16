@@ -5,7 +5,7 @@ date: 2020-08-17 11:37:53
 image: 'https://m.media-amazon.com/images/I/4124qe2iamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DZZLG8C-it Keter Casetta Manor 6X5 Dd Grigia In Resina Cm 185X152X226 H'
 sku: 'B00DZZLG8C-it'
 tags: [  ]

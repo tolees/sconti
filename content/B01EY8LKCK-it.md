@@ -5,7 +5,7 @@ date: 2020-09-30 23:06:43
 image: 'https://m.media-amazon.com/images/I/51eh-5RTU4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EY8LKCK-it Oral-B Genius 8900 Spazzolini Elettrici Ricaricabili con...'
 sku: 'B01EY8LKCK-it'
 tags: [  ]

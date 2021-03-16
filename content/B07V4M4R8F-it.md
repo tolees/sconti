@@ -5,7 +5,7 @@ date: 2020-10-12 12:55:31
 image: 'https://m.media-amazon.com/images/I/31aAYjJWD2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4M4R8F-it Love Moschino Jc4256pp0a Borsa Tote Donna Avorio Ivory...'
 sku: 'B07V4M4R8F-it'
 tags: [  ]

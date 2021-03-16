@@ -5,7 +5,7 @@ date: 2020-08-13 07:05:28
 image: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDNGQ9-it Levi s The Original T-Shirt Verde HM Patch Og HM Tee Olive...'
 sku: 'B07TKDNGQ9-it'
 tags: [  ]

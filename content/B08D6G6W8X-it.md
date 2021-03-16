@@ -5,7 +5,7 @@ date: 2020-08-19 03:58:14
 image: 'https://m.media-amazon.com/images/I/41ECABb6Z8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6G6W8X-it Hunty Hard Disk 1 TB Esterno USB 3.0 per PC Mac Xbox...'
 sku: 'B08D6G6W8X-it'
 tags: [  ]

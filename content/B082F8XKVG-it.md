@@ -5,7 +5,7 @@ date: 2020-07-29 16:10:29
 image: 'https://m.media-amazon.com/images/I/41hFn8clLGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082F8XKVG-it Tavoletta Grafica LCD Scrittura 8 5 Pollici Elettronica...'
 sku: 'B082F8XKVG-it'
 tags: [  ]

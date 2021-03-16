@@ -5,7 +5,7 @@ date: 2020-08-07 13:34:11
 image: 'https://m.media-amazon.com/images/I/41qtUmhIN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMY64WY-it Crema Viso Donna Bava di Lumaca Acido Ialuronico Biologica...'
 sku: 'B07YMY64WY-it'
 tags: [  ]

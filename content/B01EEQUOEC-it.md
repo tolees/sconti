@@ -5,7 +5,7 @@ date: 2020-08-13 15:23:41
 image: 'https://m.media-amazon.com/images/I/413+2vTtj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EEQUOEC-it Arena M Fundamentals Logo Pantaloncini da Bagno Uomo Blu...'
 sku: 'B01EEQUOEC-it'
 tags: [  ]

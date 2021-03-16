@@ -5,7 +5,7 @@ date: 2020-08-10 17:02:49
 image: 'https://m.media-amazon.com/images/I/51Nwol+0giL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089CXPY33-it Layack Coperta da Spiaggia 210x200CM Coperta da Campeggio...'
 sku: 'B089CXPY33-it'
 tags: [  ]

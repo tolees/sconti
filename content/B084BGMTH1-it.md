@@ -5,7 +5,7 @@ date: 2020-07-20 08:37:34
 image: 'https://m.media-amazon.com/images/I/51oYOChdAeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084BGMTH1-it Antica Erboristeria Dentifricio Totale Antiplacca con...'
 sku: 'B084BGMTH1-it'
 tags: [  ]

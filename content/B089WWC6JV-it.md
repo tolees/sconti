@@ -5,7 +5,7 @@ date: 2020-09-23 08:51:41
 image: 'https://m.media-amazon.com/images/I/519vaVyR67L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089WWC6JV-it Dixan Classico Detersivo Liquido Lavatrice Tecnologia...'
 sku: 'B089WWC6JV-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 05:36:06
 image: 'https://m.media-amazon.com/images/I/51FgUYcv9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNZNLZV-it EasySMX Controller per Switch / Switch Lite Controller...'
 sku: 'B08DNZNLZV-it'
 tags: [  ]

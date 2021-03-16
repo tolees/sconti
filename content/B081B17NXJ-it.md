@@ -5,7 +5,7 @@ date: 2020-07-27 17:37:06
 image: 'https://m.media-amazon.com/images/I/31mNs1diseL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B17NXJ-it Adesivo Nano Sticker Supporto Antiscivolo Riutilizzabile...'
 sku: 'B081B17NXJ-it'
 tags: [  ]

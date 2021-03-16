@@ -5,7 +5,7 @@ date: 2020-08-03 10:05:48
 image: 'https://m.media-amazon.com/images/I/31edaq8RneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PB121XL-it Samsung Galaxy Buds 2019 Auricolari Wireless Bluetooth5.0...'
 sku: 'B07PB121XL-it'
 tags: [  ]

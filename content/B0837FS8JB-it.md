@@ -5,7 +5,7 @@ date: 2020-08-19 16:30:11
 image: 'https://m.media-amazon.com/images/I/51s1ERi9xAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0837FS8JB-it Fast & Furious Crossroads - Xbox One [Edizione: Regno Unito]'
 sku: 'B0837FS8JB-it'
 tags: [  ]

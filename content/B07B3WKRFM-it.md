@@ -5,7 +5,7 @@ date: 2020-09-05 18:05:44
 image: 'https://m.media-amazon.com/images/I/31rZSyIO66L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3WKRFM-it Polaroid Eyewear PLD 2062/S Occhiali da Sole Matt HVNA 50...'
 sku: 'B07B3WKRFM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:34:56
 image: 'https://m.media-amazon.com/images/I/51bCyKwqBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8BLNJ9-it Ant-Man & The Wasp 10° Anniversario Marvel Studios brd Blu...'
 sku: 'B07T8BLNJ9-it'
 tags: [  ]

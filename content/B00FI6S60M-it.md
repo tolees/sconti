@@ -5,7 +5,7 @@ date: 2020-09-28 13:01:24
 image: 'https://m.media-amazon.com/images/I/41wveZ9AIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FI6S60M-it Catwalk Collection Handbags - Vera Pelle - Grande Borsa a...'
 sku: 'B00FI6S60M-it'
 tags: [  ]

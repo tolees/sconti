@@ -5,7 +5,7 @@ date: 2020-08-09 05:39:03
 image: 'https://m.media-amazon.com/images/I/41uLFamgJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087J7WMF4-it Cuffie Bluetooth Sport Auricolari Bluetooth Senza Fili 5.0...'
 sku: 'B087J7WMF4-it'
 tags: [  ]

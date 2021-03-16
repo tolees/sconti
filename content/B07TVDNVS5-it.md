@@ -5,7 +5,7 @@ date: 2020-07-23 17:38:41
 image: 'https://m.media-amazon.com/images/I/41NSevJnxqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVDNVS5-it Funko- Pop Games: Dungeons & Dragons-Minsc & Boo...'
 sku: 'B07TVDNVS5-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 11:58:26
 image: 'https://m.media-amazon.com/images/I/312BTHL3jJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXZFPV6-it Olimpia Splendid 99409 Caldo Crystal Termoventilatore...'
 sku: 'B07GXZFPV6-it'
 tags: [  ]

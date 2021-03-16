@@ -5,7 +5,7 @@ date: 2020-08-15 17:47:20
 image: 'https://m.media-amazon.com/images/I/51gflQyvF3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZP3HKGW-it Gioco impilabile in legno Torre traballante Pisa Tower...'
 sku: 'B07ZP3HKGW-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 14:35:28
 image: 'https://m.media-amazon.com/images/I/41yNt8SoZUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8T5F8G-it Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta Blu...'
 sku: 'B07V8T5F8G-it'
 tags: [  ]

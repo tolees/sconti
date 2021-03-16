@@ -5,7 +5,7 @@ date: 2020-10-09 15:20:28
 image: 'https://m.media-amazon.com/images/I/51u7tSNxSxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HDP22JW-it Only Onltia DNM Jacket BB MB Bex02 Noos Giacca in Jeans...'
 sku: 'B07HDP22JW-it'
 tags: [  ]

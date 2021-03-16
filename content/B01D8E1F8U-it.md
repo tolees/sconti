@@ -5,7 +5,7 @@ date: 2020-08-27 16:45:10
 image: 'https://m.media-amazon.com/images/I/31QyfhgpxKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D8E1F8U-it PowerA Kit Gioca E Ricarica Per Xbox One - Day-One - Xbox One'
 sku: 'B01D8E1F8U-it'
 tags: [  ]

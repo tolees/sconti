@@ -5,7 +5,7 @@ date: 2020-09-21 07:42:21
 image: 'https://m.media-amazon.com/images/I/51ilDkiTVZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2F9T8V-it SHAN ZU Coltelli Santoku Coltello da Cucina Damasco...'
 sku: 'B07X2F9T8V-it'
 tags: [  ]

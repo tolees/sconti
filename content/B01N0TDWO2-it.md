@@ -5,7 +5,7 @@ date: 2020-09-05 06:55:57
 image: 'https://m.media-amazon.com/images/I/31JjCWG9f6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0TDWO2-it HOMCOM Schermo Proiezione Motorizzato Home Cinema 120...'
 sku: 'B01N0TDWO2-it'
 tags: [  ]

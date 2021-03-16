@@ -5,7 +5,7 @@ date: 2020-09-21 15:24:36
 image: 'https://m.media-amazon.com/images/I/41ZOTzoypYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HI2HUCI-it Level Fly Guanto da Snowboard Uomo PK Nero 8.5 - ML'
 sku: 'B01HI2HUCI-it'
 tags: [  ]

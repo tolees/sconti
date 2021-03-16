@@ -5,7 +5,7 @@ date: 2020-07-20 17:21:32
 image: 'https://m.media-amazon.com/images/I/41yHucCdtOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5YNH4X-it Webbb Cuffie Bluetooth Auricolari Bluetooth Senza Fili TWS...'
 sku: 'B08B5YNH4X-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 07:15:52
 image: 'https://m.media-amazon.com/images/I/51wziUPtWaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X1D31QX-it Imetec CH 1000 Tritatutto 4 Lame in Acciaio Inox Capiente...'
 sku: 'B06X1D31QX-it'
 tags: [  ]

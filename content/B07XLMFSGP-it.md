@@ -5,7 +5,7 @@ date: 2020-08-14 19:58:17
 image: 'https://m.media-amazon.com/images/I/313sLmkESkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLMFSGP-it CARE OF by PUMA Slip on Court Low-Top Sneakers Blu Navy...'
 sku: 'B07XLMFSGP-it'
 tags: [  ]

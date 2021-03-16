@@ -5,7 +5,7 @@ date: 2020-09-23 00:38:54
 image: 'https://m.media-amazon.com/images/I/41d9lkn7JIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079BWLFL2-it JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt...'
 sku: 'B079BWLFL2-it'
 tags: [  ]

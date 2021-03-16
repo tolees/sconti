@@ -5,7 +5,7 @@ date: 2020-07-31 06:20:17
 image: 'https://m.media-amazon.com/images/I/51FzEyseF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797TLSGC-it Dardaruga VENTILATORE DIGITALE WFD a Piantana con...'
 sku: 'B0797TLSGC-it'
 tags: [  ]

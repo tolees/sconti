@@ -5,7 +5,7 @@ date: 2020-07-18 09:12:33
 image: 'https://m.media-amazon.com/images/I/51NmLjdi0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4Y9PG7-it HUAWEI Watch GT Smartwatch Touchscreen 1.39" Bluetooth 4.2...'
 sku: 'B07H4Y9PG7-it'
 tags: [  ]

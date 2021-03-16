@@ -5,7 +5,7 @@ date: 2020-09-02 12:03:56
 image: 'https://m.media-amazon.com/images/I/41Fqig2vgRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NNUZFMM-it The Sims 4 - PC'
 sku: 'B00NNUZFMM-it'
 tags: [  ]

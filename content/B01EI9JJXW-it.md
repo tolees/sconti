@@ -5,7 +5,7 @@ date: 2020-08-27 11:36:33
 image: 'https://m.media-amazon.com/images/I/4152AllJu5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EI9JJXW-it adidas Gazelle Scarpe da Ginnastica Basse Uomo Nero Core...'
 sku: 'B01EI9JJXW-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-29 16:20:48
 image: 'https://m.media-amazon.com/images/I/41ffwTw0MqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P26M4QA-it 【Doppia EQ】 Auricolari Wireless Sport Mpow Cuffie...'
 sku: 'B00P26M4QA-it'
 tags: [  ]

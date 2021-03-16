@@ -5,7 +5,7 @@ date: 2020-07-31 10:11:42
 image: 'https://m.media-amazon.com/images/I/617-pO4Cy0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JT5MSJ-it EKKONG Zanzariera Magnetica per Porte - Dimensioni 90 x...'
 sku: 'B072JT5MSJ-it'
 tags: [  ]

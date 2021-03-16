@@ -5,7 +5,7 @@ date: 2020-10-12 22:12:55
 image: 'https://m.media-amazon.com/images/I/31Ra9rqyR4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076M74ZCT-it Kenwood KVL4170S Impastatrice Planetaria Chef XL Robot da...'
 sku: 'B076M74ZCT-it'
 tags: [  ]

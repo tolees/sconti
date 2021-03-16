@@ -5,7 +5,7 @@ date: 2020-08-29 11:04:30
 image: 'https://m.media-amazon.com/images/I/31Vn9VV1OAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQZB5XM-it Havaianas Slim Flatform Infradito Donna Blu Blue 0057...'
 sku: 'B07TQZB5XM-it'
 tags: [  ]

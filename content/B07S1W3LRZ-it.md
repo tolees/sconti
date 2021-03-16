@@ -5,7 +5,7 @@ date: 2020-10-02 13:18:27
 image: 'https://m.media-amazon.com/images/I/31vxMeO3fiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1W3LRZ-it New Balance 373 Core Sneaker Uomo Nero Black/White Ca2'
 sku: 'B07S1W3LRZ-it'
 tags: [  ]

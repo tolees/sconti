@@ -5,7 +5,7 @@ date: 2020-09-08 14:31:43
 image: 'https://m.media-amazon.com/images/I/51I98OpIZnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BT9YKMM-it WHATLEES Whatless Gilet Slim Elegante Uomo - Doppio Petto...'
 sku: 'B07BT9YKMM-it'
 tags: [  ]

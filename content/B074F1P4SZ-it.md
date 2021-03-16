@@ -5,7 +5,7 @@ date: 2020-09-29 05:29:41
 image: 'https://m.media-amazon.com/images/I/41k48LlaVdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074F1P4SZ-it Colgate Dentifricio Expert White - Pacco da 12 x 75 ml -...'
 sku: 'B074F1P4SZ-it'
 tags: [  ]

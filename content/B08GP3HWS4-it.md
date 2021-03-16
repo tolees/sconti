@@ -5,7 +5,7 @@ date: 2020-09-23 18:54:23
 image: 'https://m.media-amazon.com/images/I/41T20caHIuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GP3HWS4-it CLEEFUN - Cavo USB C corto da 0 3 m confezione da 2 pezzi...'
 sku: 'B08GP3HWS4-it'
 tags: [  ]

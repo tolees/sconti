@@ -5,7 +5,7 @@ date: 2020-07-19 10:33:23
 image: 'https://m.media-amazon.com/images/I/31EbcECwlJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMLGC45-it Calvin Klein Punched Lrg Dbl Ziparound - Portafogli Donna...'
 sku: 'B07RMLGC45-it'
 tags: [  ]

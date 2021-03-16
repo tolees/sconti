@@ -5,7 +5,7 @@ date: 2020-09-15 10:26:57
 image: 'https://m.media-amazon.com/images/I/41QfnVTHs9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNTFHD5-it WD BLACK P10 Game Drive 5 TB HDD portatile per accesso in...'
 sku: 'B07VNTFHD5-it'
 tags: [  ]

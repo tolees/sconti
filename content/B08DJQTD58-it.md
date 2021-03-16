@@ -5,7 +5,7 @@ date: 2020-08-01 04:58:58
 image: 'https://m.media-amazon.com/images/I/51noiVXPGBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJQTD58-it Shadow of Mordor Hits Collection - PS4 - Other -...'
 sku: 'B08DJQTD58-it'
 tags: [  ]

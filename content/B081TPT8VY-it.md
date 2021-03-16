@@ -5,7 +5,7 @@ date: 2020-09-11 08:02:52
 image: 'https://m.media-amazon.com/images/I/31qTAqYx61L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TPT8VY-it adidas Ripple TS Maglietta Uomo Bianco White/Shock Pink M'
 sku: 'B081TPT8VY-it'
 tags: [  ]

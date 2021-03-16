@@ -5,7 +5,7 @@ date: 2020-08-28 07:48:08
 image: 'https://m.media-amazon.com/images/I/41uDjLTdVxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4K1BQ6-it David Jones - Borsa Tracolla Piccola Donna - Borsa a...'
 sku: 'B07H4K1BQ6-it'
 tags: [  ]

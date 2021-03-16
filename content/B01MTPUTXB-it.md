@@ -5,7 +5,7 @@ date: 2020-09-04 13:10:29
 image: 'https://m.media-amazon.com/images/I/41amlnfpDqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTPUTXB-it AMANKA 3-in-1 Mini DisplayPort a VGA/DVI/HDMI Adattatore...'
 sku: 'B01MTPUTXB-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-24 12:02:54
 image: 'https://m.media-amazon.com/images/I/41xZlorxWgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A8LGG86-it Intex 28101 My First Easy Cm 183X51 Piscina Gioco Estivo...'
 sku: 'B00A8LGG86-it'
 tags: [  ]

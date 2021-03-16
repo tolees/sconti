@@ -5,7 +5,7 @@ date: 2020-09-22 08:46:03
 image: 'https://m.media-amazon.com/images/I/512t-OSs4VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TWWL3K-it Claber Tubo Collettore da 50m'
 sku: 'B003TWWL3K-it'
 tags: [  ]

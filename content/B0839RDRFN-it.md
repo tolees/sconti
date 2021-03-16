@@ -5,7 +5,7 @@ date: 2020-08-17 09:09:35
 image: 'https://m.media-amazon.com/images/I/31P9NUtVrfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0839RDRFN-it Shark Anti Hair Wrap IZ251EUT Scopa Elettrica senza Fili...'
 sku: 'B0839RDRFN-it'
 tags: [  ]

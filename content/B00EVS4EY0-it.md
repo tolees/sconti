@@ -5,7 +5,7 @@ date: 2020-09-16 05:53:46
 image: 'https://m.media-amazon.com/images/I/61y-9yMzdqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EVS4EY0-it LEGO Friends'
 sku: 'B00EVS4EY0-it'
 tags: [  ]

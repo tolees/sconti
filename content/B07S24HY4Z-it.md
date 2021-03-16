@@ -5,7 +5,7 @@ date: 2020-09-21 06:37:00
 image: 'https://m.media-amazon.com/images/I/319a0xbK9XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S24HY4Z-it MSI GS75 Stealth 9SE-493IT Notebook Gaming 17.3" FHD Intel...'
 sku: 'B07S24HY4Z-it'
 tags: [  ]

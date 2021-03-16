@@ -5,7 +5,7 @@ date: 2020-08-10 18:05:19
 image: 'https://m.media-amazon.com/images/I/41Q0uC5mrCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNH4RW5-it Auricolari Bluetooth Cuffie Bluetooth 5.0 Auricolari Del...'
 sku: 'B08BNH4RW5-it'
 tags: [  ]

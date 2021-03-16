@@ -5,7 +5,7 @@ date: 2020-09-13 08:05:54
 image: 'https://m.media-amazon.com/images/I/41sCHbaY9nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008JVQ8RG-it VidaXL 40426 Barbecue Zona cottura Gas 2900W Nero Acciaio...'
 sku: 'B008JVQ8RG-it'
 tags: [  ]

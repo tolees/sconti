@@ -5,7 +5,7 @@ date: 2020-08-01 15:23:23
 image: 'https://m.media-amazon.com/images/I/4152mDU284L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VRFGGP-it MS Windows 10 Pro 32 bit e 64 bit - Chiave di Licenza...'
 sku: 'B084VRFGGP-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 14:48:46
 image: 'https://m.media-amazon.com/images/I/41uwsISsh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793N9ZKZ-it Rimmel London Smalto Flip Flop Fashion Be Red-Y - 8 ml'
 sku: 'B0793N9ZKZ-it'
 tags: [  ]

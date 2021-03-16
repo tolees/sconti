@@ -5,7 +5,7 @@ date: 2020-09-18 17:28:42
 image: 'https://m.media-amazon.com/images/I/41k6EaSb-wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087MZ6WB8-it Uarter 50pcs bambino Formato Faccia Libera USA e Getta Blu...'
 sku: 'B087MZ6WB8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 17:01:15
 image: 'https://m.media-amazon.com/images/I/41NshMj5FIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089KRXLF6-it Auricolari Bluetooth 5.0 Cuffie Wireless Cuffia Microfono...'
 sku: 'B089KRXLF6-it'
 tags: [  ]

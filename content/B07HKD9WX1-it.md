@@ -5,7 +5,7 @@ date: 2020-10-10 06:28:56
 image: 'https://m.media-amazon.com/images/I/41ezaSVVY-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKD9WX1-it National Geographic Multi Colour Stazione meteorologica...'
 sku: 'B07HKD9WX1-it'
 tags: [  ]

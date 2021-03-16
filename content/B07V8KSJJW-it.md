@@ -5,7 +5,7 @@ date: 2020-09-22 13:12:32
 image: 'https://m.media-amazon.com/images/I/41epx0dDIzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8KSJJW-it Calvin Klein Monogram Modern Straight Crop T-Shirt Grigio...'
 sku: 'B07V8KSJJW-it'
 tags: [  ]

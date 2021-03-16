@@ -5,7 +5,7 @@ date: 2020-09-30 04:28:20
 image: 'https://m.media-amazon.com/images/I/31mo3aG892L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBSMR8P-it Cam il Mondo del Bambino - Seggiolone Miniplus col.240'
 sku: 'B07JBSMR8P-it'
 tags: [  ]

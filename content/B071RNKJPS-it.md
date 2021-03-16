@@ -5,7 +5,7 @@ date: 2020-08-22 16:13:13
 image: 'https://m.media-amazon.com/images/I/41TLzp6Of+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RNKJPS-it Funko Pop! TV Il trono di spade Game of Thrones - Tyrion...'
 sku: 'B071RNKJPS-it'
 tags: [  ]

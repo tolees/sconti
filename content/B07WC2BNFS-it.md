@@ -5,7 +5,7 @@ date: 2020-07-26 16:21:56
 image: 'https://m.media-amazon.com/images/I/41NZEfzp6wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC2BNFS-it Powerbeats Pro Wireless Auricolari – Chip per cuffie Apple...'
 sku: 'B07WC2BNFS-it'
 tags: [  ]

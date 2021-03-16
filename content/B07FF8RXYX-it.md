@@ -5,7 +5,7 @@ date: 2020-10-06 21:40:01
 image: 'https://m.media-amazon.com/images/I/41czNc9etvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FF8RXYX-it HUAWEI Mediapad T5 Custodia Protettiva Nero'
 sku: 'B07FF8RXYX-it'
 tags: [  ]

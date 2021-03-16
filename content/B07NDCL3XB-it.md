@@ -5,7 +5,7 @@ date: 2020-09-13 08:04:18
 image: 'https://m.media-amazon.com/images/I/41aml4aGlhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDCL3XB-it Nacon Revolution Unlimited Pro Controller - Playstation 4'
 sku: 'B07NDCL3XB-it'
 tags: [  ]

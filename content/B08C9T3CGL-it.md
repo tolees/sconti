@@ -5,7 +5,7 @@ date: 2020-07-19 05:21:26
 image: 'https://m.media-amazon.com/images/I/41PV2-xpfWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9T3CGL-it eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con...'
 sku: 'B08C9T3CGL-it'
 tags: [  ]

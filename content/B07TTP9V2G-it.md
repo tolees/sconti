@@ -5,7 +5,7 @@ date: 2020-10-06 06:31:32
 image: 'https://m.media-amazon.com/images/I/51WwwZ0xQOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTP9V2G-it Kipling KiplingTopsDonnaPortafogliNero Charcoal 7.5x10x2.5...'
 sku: 'B07TTP9V2G-it'
 tags: [  ]

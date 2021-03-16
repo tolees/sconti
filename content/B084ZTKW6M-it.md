@@ -5,7 +5,7 @@ date: 2020-09-30 05:55:40
 image: 'https://m.media-amazon.com/images/I/41FyB7KO7FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZTKW6M-it Kit 3x Durex Pleasuremax Preservativi Stimolanti con...'
 sku: 'B084ZTKW6M-it'
 tags: [  ]

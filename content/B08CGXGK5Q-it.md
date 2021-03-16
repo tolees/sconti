@@ -5,7 +5,7 @@ date: 2020-08-19 10:18:33
 image: 'https://m.media-amazon.com/images/I/41uv-V2BRLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CGXGK5Q-it Auricolari Bluetooth 5.0 Senza Fili Wireless Sportivi in...'
 sku: 'B08CGXGK5Q-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 04:07:22
 image: 'https://m.media-amazon.com/images/I/41dndfM6dTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6G7HHM-it Hunty Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per...'
 sku: 'B08D6G7HHM-it'
 tags: [  ]

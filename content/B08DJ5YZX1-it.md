@@ -5,7 +5,7 @@ date: 2020-08-15 05:35:47
 image: 'https://m.media-amazon.com/images/I/518saZ4PBGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ5YZX1-it Ferilinso Bracciale 8 Pezzi Cinturini per Xiaomi Mi Band...'
 sku: 'B08DJ5YZX1-it'
 tags: [  ]

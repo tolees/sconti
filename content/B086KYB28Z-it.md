@@ -5,7 +5,7 @@ date: 2020-10-06 06:28:50
 image: 'https://m.media-amazon.com/images/I/51JlqoGA8KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KYB28Z-it Aigostar Doreen 300109LYD - Macchina sottovuoto per...'
 sku: 'B086KYB28Z-it'
 tags: [  ]

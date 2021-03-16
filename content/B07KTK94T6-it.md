@@ -5,7 +5,7 @@ date: 2020-09-07 14:05:17
 image: 'https://m.media-amazon.com/images/I/51Z6FRvVQoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTK94T6-it LEGO La Festa In Piscina Di Andrea Costruzioni Piccole'
 sku: 'B07KTK94T6-it'
 tags: [  ]

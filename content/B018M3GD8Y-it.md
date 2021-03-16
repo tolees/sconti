@@ -5,7 +5,7 @@ date: 2020-09-05 09:14:19
 image: 'https://m.media-amazon.com/images/I/51M2bBo+uxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018M3GD8Y-it Gillette Fusion Proshield Chill Lamette di Ricarica per...'
 sku: 'B018M3GD8Y-it'
 tags: [  ]

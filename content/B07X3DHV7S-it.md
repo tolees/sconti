@@ -5,7 +5,7 @@ date: 2020-07-21 13:00:57
 image: 'https://m.media-amazon.com/images/I/51NWIdjJIhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3DHV7S-it Vbiger Zaino Scuola Elementare Impermeabile Rossa'
 sku: 'B07X3DHV7S-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 08:20:51
 image: 'https://m.media-amazon.com/images/I/41uUEGuFzKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VHDHQ4-it Aicok Sacchetti per Sottovuoto Alimenti Sottovuoto...'
 sku: 'B076VHDHQ4-it'
 tags: [  ]

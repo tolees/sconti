@@ -5,7 +5,7 @@ date: 2020-08-23 15:37:25
 image: 'https://m.media-amazon.com/images/I/3161qRaSrAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ91YB7-it Puma Epic Flip V2 Infradito Unisex – Adulto Rosa Winsome...'
 sku: 'B07CZ91YB7-it'
 tags: [  ]

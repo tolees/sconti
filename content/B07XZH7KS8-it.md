@@ -5,7 +5,7 @@ date: 2020-08-08 13:45:30
 image: 'https://m.media-amazon.com/images/I/517mS79VMOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZH7KS8-it HUAWEI T5 Mediapad 10 Tablet LTE con Display Full HD 1920...'
 sku: 'B07XZH7KS8-it'
 tags: [  ]

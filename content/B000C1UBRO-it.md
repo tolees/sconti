@@ -5,7 +5,7 @@ date: 2020-10-07 13:53:56
 image: 'https://m.media-amazon.com/images/I/31BWLs9ZdzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000C1UBRO-it Calvin Klein Eternity Moment Eau de Parfum Donna 100 ml'
 sku: 'B000C1UBRO-it'
 tags: [  ]

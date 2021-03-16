@@ -5,7 +5,7 @@ date: 2020-09-30 07:17:49
 image: 'https://m.media-amazon.com/images/I/416uSUxfpuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXJICO0-it BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori...'
 sku: 'B01LXJICO0-it'
 tags: [  ]

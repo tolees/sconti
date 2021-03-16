@@ -5,7 +5,7 @@ date: 2020-09-30 07:18:03
 image: 'https://m.media-amazon.com/images/I/41fvj8noJIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007JTBONC-it Fineliner - STABILO point 88 - Pack da 3 - Nero/Blu/Rosso'
 sku: 'B007JTBONC-it'
 tags: [  ]

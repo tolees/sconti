@@ -5,7 +5,7 @@ date: 2020-09-26 09:07:27
 image: 'https://m.media-amazon.com/images/I/41O7JRJmMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HIWHN0-it SanDisk Scheda di Memoria MicroSDHC 32 GB Classe 4'
 sku: 'B003HIWHN0-it'
 tags: [  ]

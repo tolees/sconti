@@ -5,7 +5,7 @@ date: 2020-09-11 08:32:41
 image: 'https://m.media-amazon.com/images/I/41Es1rH5JZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ABXA5QA-it Arena Racing Goggles Strap Kit di Cinturini per Occhialini...'
 sku: 'B00ABXA5QA-it'
 tags: [  ]

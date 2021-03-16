@@ -5,7 +5,7 @@ date: 2020-09-18 10:06:38
 image: 'https://m.media-amazon.com/images/I/41RXYkyZS5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNVK1MB-it CURCUMA E PIPERINA + ZENZERO Formula Extra-Forte 1500mg...'
 sku: 'B07YNVK1MB-it'
 tags: [  ]

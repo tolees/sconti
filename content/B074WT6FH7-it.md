@@ -5,7 +5,7 @@ date: 2020-08-26 14:01:53
 image: 'https://m.media-amazon.com/images/I/41BTGxnKoRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WT6FH7-it TACKLIFE Attrezzi da Giardino Cesoie Potatura Pala...'
 sku: 'B074WT6FH7-it'
 tags: [  ]

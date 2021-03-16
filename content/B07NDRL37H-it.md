@@ -5,7 +5,7 @@ date: 2020-09-30 04:28:37
 image: 'https://m.media-amazon.com/images/I/31H07lQ7iZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDRL37H-it Olimpia Splendid 01914 Dolceclima Compact 9 P...'
 sku: 'B07NDRL37H-it'
 tags: [  ]

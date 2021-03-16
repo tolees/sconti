@@ -5,7 +5,7 @@ date: 2020-10-09 11:05:09
 image: 'https://m.media-amazon.com/images/I/41mEEBqGAJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BNRNK-it Tommy Hilfiger Logo Tape HD Felpa con Cappuccio Grigio...'
 sku: 'B0788BNRNK-it'
 tags: [  ]

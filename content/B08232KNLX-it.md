@@ -5,7 +5,7 @@ date: 2020-09-27 10:05:43
 image: 'https://m.media-amazon.com/images/I/41zOnbSkB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08232KNLX-it The Protein Works Matrix Massa Totale Extreme Tiramisu...'
 sku: 'B08232KNLX-it'
 tags: [  ]

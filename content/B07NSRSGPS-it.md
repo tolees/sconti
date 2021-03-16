@@ -5,7 +5,7 @@ date: 2020-09-27 13:55:33
 image: 'https://m.media-amazon.com/images/I/31U5qhbhG0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSRSGPS-it Funko- Pop Vinile: Film Gump-Forrest w/Chocolates Figura...'
 sku: 'B07NSRSGPS-it'
 tags: [  ]

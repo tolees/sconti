@@ -5,7 +5,7 @@ date: 2020-10-06 07:29:28
 image: 'https://m.media-amazon.com/images/I/21WxQlWuuDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLYPH2P-it DJI Osmo Pocket Adapter - Adattatore Audio da 3.5 mm di...'
 sku: 'B07PLYPH2P-it'
 tags: [  ]

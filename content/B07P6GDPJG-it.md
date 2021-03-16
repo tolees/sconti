@@ -5,7 +5,7 @@ date: 2020-08-13 15:18:42
 image: 'https://m.media-amazon.com/images/I/41GalgAVWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6GDPJG-it Philips S6640/44 Rasoio Elettrico Uomo S6000 Wet&Dry...'
 sku: 'B07P6GDPJG-it'
 tags: [  ]

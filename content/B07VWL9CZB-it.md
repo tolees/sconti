@@ -5,7 +5,7 @@ date: 2020-08-25 17:50:41
 image: 'https://m.media-amazon.com/images/I/41wawVi-S4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWL9CZB-it Tommy Jeans Tjm Corp Logo Tee Camicia Sportiva Blu...'
 sku: 'B07VWL9CZB-it'
 tags: [  ]

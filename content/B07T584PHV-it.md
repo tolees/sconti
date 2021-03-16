@@ -5,7 +5,7 @@ date: 2020-08-10 16:58:27
 image: 'https://m.media-amazon.com/images/I/51OiKxcviYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T584PHV-it Seghetto Alternativo a Batteria TECCPO Sega Elettrico...'
 sku: 'B07T584PHV-it'
 tags: [  ]

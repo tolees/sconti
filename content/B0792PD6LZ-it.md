@@ -5,7 +5,7 @@ date: 2020-09-07 17:03:23
 image: 'https://m.media-amazon.com/images/I/31HRWlZwcyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792PD6LZ-it Diesel UMBR-ANDRETHREEPACK Slip Uomo Multicolore Dark Grey...'
 sku: 'B0792PD6LZ-it'
 tags: [  ]

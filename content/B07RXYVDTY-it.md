@@ -5,7 +5,7 @@ date: 2020-10-10 16:16:00
 image: 'https://m.media-amazon.com/images/I/41h742gsXGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXYVDTY-it adidas Cush CRW 3pp Calzini Uomo Multicolore...'
 sku: 'B07RXYVDTY-it'
 tags: [  ]

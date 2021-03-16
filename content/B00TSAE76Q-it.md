@@ -5,7 +5,7 @@ date: 2020-10-09 00:11:23
 image: 'https://m.media-amazon.com/images/I/51cP4Lp6lLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TSAE76Q-it Scholl Gel Activ Sport Solette Sportive per Donna 35-40.5...'
 sku: 'B00TSAE76Q-it'
 tags: [  ]

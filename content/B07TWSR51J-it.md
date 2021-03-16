@@ -5,7 +5,7 @@ date: 2020-08-31 14:33:22
 image: 'https://m.media-amazon.com/images/I/419TSAyQhNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWSR51J-it KiplingImaliDonnaPortafogliArgento Metallic Glow 19x10x1...'
 sku: 'B07TWSR51J-it'
 tags: [  ]

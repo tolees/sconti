@@ -5,7 +5,7 @@ date: 2020-09-25 17:40:55
 image: 'https://m.media-amazon.com/images/I/41a4wwk0PfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MAZM7SY-it Misura Fette Integrali - 8 pezzi da 320 g [2560 g]'
 sku: 'B01MAZM7SY-it'
 tags: [  ]

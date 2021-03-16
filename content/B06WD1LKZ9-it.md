@@ -5,7 +5,7 @@ date: 2020-09-17 23:03:01
 image: 'https://m.media-amazon.com/images/I/31lX+0ntHEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WD1LKZ9-it Diadora - Sneakers Game L Low Waxed per Uomo e Donna EU 36.5'
 sku: 'B06WD1LKZ9-it'
 tags: [  ]

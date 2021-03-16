@@ -5,7 +5,7 @@ date: 2020-10-09 06:41:29
 image: 'https://m.media-amazon.com/images/I/41zUM+KV9oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2DBKZG-it Timberland Gateway Pier Casual Scarpe Oxford Uomo Grigio...'
 sku: 'B07F2DBKZG-it'
 tags: [  ]

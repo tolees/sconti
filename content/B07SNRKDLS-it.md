@@ -5,7 +5,7 @@ date: 2020-08-21 13:05:04
 image: 'https://m.media-amazon.com/images/I/31OrMg4yupL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNRKDLS-it DFNT Spray antizanzare per Ambienti Repellente zanzare...'
 sku: 'B07SNRKDLS-it'
 tags: [  ]

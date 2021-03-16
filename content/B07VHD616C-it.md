@@ -5,7 +5,7 @@ date: 2020-10-05 23:36:27
 image: 'https://m.media-amazon.com/images/I/41tDJiXQzHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHD616C-it Kaspersky Internet Security 2020 5 User'
 sku: 'B07VHD616C-it'
 tags: [  ]

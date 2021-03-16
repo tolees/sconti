@@ -5,7 +5,7 @@ date: 2020-07-18 05:15:47
 image: 'https://m.media-amazon.com/images/I/41gjM0LUMAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F34SPD2-it CAVO AV COMPOSITO VIDEO AUDIO 1 8MT RCA PER Nintendo Wii'
 sku: 'B00F34SPD2-it'
 tags: [  ]

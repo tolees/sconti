@@ -5,7 +5,7 @@ date: 2020-09-02 17:42:35
 image: 'https://m.media-amazon.com/images/I/41rjwjyKiJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2VY6R7-it ASICS Patriot 11 Scarpe da Corsa Uomo Nero Black/White 001...'
 sku: 'B07L2VY6R7-it'
 tags: [  ]

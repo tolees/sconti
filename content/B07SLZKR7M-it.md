@@ -5,7 +5,7 @@ date: 2020-08-25 15:35:00
 image: 'https://m.media-amazon.com/images/I/41D-UDNu8AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLZKR7M-it Havaianas Urban Basic II Infradito Uomo Blu Marine/Blue...'
 sku: 'B07SLZKR7M-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 16:33:28
 image: 'https://m.media-amazon.com/images/I/51xP2CqgEHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LPZ7IWG-it SanDisk Extreme Scheda di Memoria SDHC da 32 GB Doppio...'
 sku: 'B01LPZ7IWG-it'
 tags: [  ]

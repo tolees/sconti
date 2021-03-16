@@ -5,7 +5,7 @@ date: 2020-07-23 23:40:04
 image: 'https://m.media-amazon.com/images/I/4185MgUA3OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MHYHL9-it LIGHTAILING Set di Luci per Creator Auto da Corsa Modello...'
 sku: 'B082MHYHL9-it'
 tags: [  ]

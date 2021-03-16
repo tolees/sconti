@@ -5,7 +5,7 @@ date: 2020-10-08 07:14:17
 image: 'https://m.media-amazon.com/images/I/31GPLQ5aweL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K3KYCV3-it BTRONGROUP Caricatore per iPhone 11 XS XR X 8 7 Plus 6s 6...'
 sku: 'B08K3KYCV3-it'
 tags: [  ]

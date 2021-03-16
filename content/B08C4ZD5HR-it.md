@@ -5,7 +5,7 @@ date: 2020-09-06 10:01:25
 image: 'https://m.media-amazon.com/images/I/41HoATHyT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4ZD5HR-it JFDSD 50/100 Pezzi 3 Strati Traspiranti 100 Pezzi Blu'
 sku: 'B08C4ZD5HR-it'
 tags: [  ]

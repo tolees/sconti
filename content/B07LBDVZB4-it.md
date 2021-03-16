@@ -5,7 +5,7 @@ date: 2020-09-27 08:35:41
 image: 'https://m.media-amazon.com/images/I/41lMG1-mwvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBDVZB4-it Calvin Klein Brazilian Brasiliana Rosa Nymph s Coscia 2nt...'
 sku: 'B07LBDVZB4-it'
 tags: [  ]

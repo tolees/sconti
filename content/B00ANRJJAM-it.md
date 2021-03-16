@@ -5,7 +5,7 @@ date: 2020-09-29 09:03:31
 image: 'https://m.media-amazon.com/images/I/413ELbxQI8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ANRJJAM-it Pedrini 9081 Caffettiera Kaffettiera 1 tazza'
 sku: 'B00ANRJJAM-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 06:32:02
 image: 'https://m.media-amazon.com/images/I/514kTew7xDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ7BKMC-it gracosy Scarpe da Acqua Sport Donna Uomo 2020 Scarpe da...'
 sku: 'B07SQ7BKMC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 10:20:58
 image: 'https://m.media-amazon.com/images/I/41DefMB32FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XWPZ2XA-it Nike Tanjun Mn Scarpe Sportive Uomo Blu Midnight...'
 sku: 'B00XWPZ2XA-it'
 tags: [  ]

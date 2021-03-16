@@ -5,7 +5,7 @@ date: 2020-08-21 13:02:16
 image: 'https://m.media-amazon.com/images/I/41JS1xawMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086V35ZFV-it Corda per Saltare Calorie Conta Aerb Corda Salto...'
 sku: 'B086V35ZFV-it'
 tags: [  ]

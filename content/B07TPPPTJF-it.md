@@ -5,7 +5,7 @@ date: 2020-08-07 09:34:59
 image: 'https://m.media-amazon.com/images/I/41mJfKd4JvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPPTJF-it Levi s Original Batwing Maglietta Multicolore HM Patch...'
 sku: 'B07TPPPTJF-it'
 tags: [  ]

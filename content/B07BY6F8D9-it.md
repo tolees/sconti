@@ -5,7 +5,7 @@ date: 2020-09-15 05:22:44
 image: 'https://m.media-amazon.com/images/I/41VulWus2zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BY6F8D9-it Be Quiet! BK022 Dark Rock Pro 4 - Ventola per CPU 250 W Nero'
 sku: 'B07BY6F8D9-it'
 tags: [  ]

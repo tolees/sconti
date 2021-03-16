@@ -5,7 +5,7 @@ date: 2020-09-14 13:05:24
 image: 'https://m.media-amazon.com/images/I/41Cb1meWViL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006EHVDWW-it Dove Invisible Dry deodorante stick 40 ml'
 sku: 'B006EHVDWW-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-05 12:52:45
 image: 'https://m.media-amazon.com/images/I/31vExCmQhfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C1WG8J4-it Generico Mascherina Lavabile 2 Pezzi Nera + Blu Regolabili'
 sku: 'B08C1WG8J4-it'
 tags: [  ]

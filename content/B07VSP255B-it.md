@@ -5,7 +5,7 @@ date: 2020-08-27 08:46:43
 image: 'https://m.media-amazon.com/images/I/41frnZ53OpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSP255B-it Bonio 360° Girevole Seggiolino Auto ISOFIX Gruppo 0+/1/2/3...'
 sku: 'B07VSP255B-it'
 tags: [  ]

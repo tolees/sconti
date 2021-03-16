@@ -5,7 +5,7 @@ date: 2020-08-13 10:30:57
 image: 'https://m.media-amazon.com/images/I/41hSzCv8BUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GQ75CH8-it New Balance 574v2 Sneaker Uomo Nero Black Black 43 EU'
 sku: 'B07GQ75CH8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 10:13:22
 image: 'https://m.media-amazon.com/images/I/41T1FYesxiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FRBZYDL-it eXtremeRate 2 Pellicole Protettive Vetro Temperato...'
 sku: 'B08FRBZYDL-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-29 06:19:11
 image: 'https://m.media-amazon.com/images/I/41w0YEGjxoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZFVSB5-it Creano Set di 4 Vetro Termico XXL a Doppia Parete Bulboso...'
 sku: 'B07TZFVSB5-it'
 tags: [  ]

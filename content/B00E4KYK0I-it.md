@@ -5,7 +5,7 @@ date: 2020-07-21 08:18:45
 image: 'https://m.media-amazon.com/images/I/41pj1N5VIWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E4KYK0I-it Neutro Roberts Deodorante Dermazero Stick - 40 ml'
 sku: 'B00E4KYK0I-it'
 tags: [  ]

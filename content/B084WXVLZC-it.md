@@ -5,7 +5,7 @@ date: 2020-08-22 07:41:02
 image: 'https://m.media-amazon.com/images/I/51fGC54ThwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084WXVLZC-it Aigostar Lamo 30RFU – Tostapane Sandwich da 800W con...'
 sku: 'B084WXVLZC-it'
 tags: [  ]

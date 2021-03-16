@@ -5,7 +5,7 @@ date: 2020-08-08 15:04:32
 image: 'https://m.media-amazon.com/images/I/31Uv-4QxTuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2JXBBT-it Lacoste L1264 Polo Vite Cinese S Uomo'
 sku: 'B07V2JXBBT-it'
 tags: [  ]

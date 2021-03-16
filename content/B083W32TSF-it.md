@@ -5,7 +5,7 @@ date: 2020-08-27 12:43:37
 image: 'https://m.media-amazon.com/images/I/41EIZ8c68hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083W32TSF-it CHOETECH Caricatore Wireless 2 Posti Caricatore Senza Fili...'
 sku: 'B083W32TSF-it'
 tags: [  ]

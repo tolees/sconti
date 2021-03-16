@@ -5,7 +5,7 @@ date: 2020-09-30 06:40:37
 image: 'https://m.media-amazon.com/images/I/51TSCUBMcqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074CSGVHT-it Orient Orologio Analogico Automatico Uomo con Cinturino in...'
 sku: 'B074CSGVHT-it'
 tags: [  ]

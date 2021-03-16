@@ -5,7 +5,7 @@ date: 2020-08-25 10:35:16
 image: 'https://m.media-amazon.com/images/I/51IZWsLB0eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BQZVNLT-it ELUTENG Ventola 80mm Silenziosa Ventole 80 mm USB 5V con...'
 sku: 'B08BQZVNLT-it'
 tags: [  ]

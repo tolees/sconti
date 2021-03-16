@@ -5,7 +5,7 @@ date: 2020-08-05 11:51:53
 image: 'https://m.media-amazon.com/images/I/41bW0WStItL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XSV7KT-it Autoradio Bluetooth RDS Stereo ieGeek Luce dei Tasti a 7...'
 sku: 'B082XSV7KT-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 13:35:24
 image: 'https://m.media-amazon.com/images/I/515bULzqJjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084PSFFBT-it Mastro Lindo Detersivo Multiuso Candeggina Maxi Formato 6...'
 sku: 'B084PSFFBT-it'
 tags: [  ]

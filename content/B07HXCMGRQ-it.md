@@ -5,7 +5,7 @@ date: 2020-08-12 11:40:34
 image: 'https://m.media-amazon.com/images/I/41Vz7p5KqmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HXCMGRQ-it Akai AKTV410TS Televisore Led Full HD HDMI 1080p DVB-T2...'
 sku: 'B07HXCMGRQ-it'
 tags: [  ]

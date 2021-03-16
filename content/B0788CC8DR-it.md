@@ -5,7 +5,7 @@ date: 2020-09-08 06:28:30
 image: 'https://m.media-amazon.com/images/I/414VKUz2uxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788CC8DR-it Tommy Hilfiger Track Top Ls Hwk Felpa Blu Navy Blazer 416...'
 sku: 'B0788CC8DR-it'
 tags: [  ]

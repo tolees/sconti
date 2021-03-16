@@ -5,7 +5,7 @@ date: 2020-10-09 06:56:57
 image: 'https://m.media-amazon.com/images/I/31rBSEV5dVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VKSDYT-it Aeternum Titanium Induction Piastra Multiuso Crepiere...'
 sku: 'B072VKSDYT-it'
 tags: [  ]

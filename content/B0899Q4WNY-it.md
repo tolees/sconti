@@ -5,7 +5,7 @@ date: 2020-08-28 10:32:58
 image: 'https://m.media-amazon.com/images/I/51Z27xiJfOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899Q4WNY-it Striscia LED VITCOCO LED Strisce Bluetooth 10M 5050 RGB...'
 sku: 'B0899Q4WNY-it'
 tags: [  ]

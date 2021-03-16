@@ -5,7 +5,7 @@ date: 2020-10-05 18:06:23
 image: 'https://m.media-amazon.com/images/I/41en2ctmL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QDJ9XL-it realme Band 1 Smartwatch con Ampio Display a Colori...'
 sku: 'B087QDJ9XL-it'
 tags: [  ]

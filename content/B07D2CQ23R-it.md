@@ -5,7 +5,7 @@ date: 2020-08-28 06:21:54
 image: 'https://m.media-amazon.com/images/I/31GXCSmH4dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2CQ23R-it Rejane Oil - Gocce di Splendore dell Amazzonia -...'
 sku: 'B07D2CQ23R-it'
 tags: [  ]

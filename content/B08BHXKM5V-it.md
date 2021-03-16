@@ -5,7 +5,7 @@ date: 2020-09-06 14:25:00
 image: 'https://m.media-amazon.com/images/I/31+c2nBM6qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHXKM5V-it Grborn TER-mometro a infrarossi Senza Contatto LCD per la...'
 sku: 'B08BHXKM5V-it'
 tags: [  ]

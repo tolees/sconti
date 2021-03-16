@@ -5,7 +5,7 @@ date: 2020-09-14 12:33:26
 image: 'https://m.media-amazon.com/images/I/41VVXb7KizL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSJW3GG-it Geox U EOLO B Scarpe da Ginnastica Basse Uomo Grigio...'
 sku: 'B07SSJW3GG-it'
 tags: [  ]

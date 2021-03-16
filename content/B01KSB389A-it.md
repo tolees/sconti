@@ -5,7 +5,7 @@ date: 2020-08-25 17:10:45
 image: 'https://m.media-amazon.com/images/I/318VZkYZ4QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KSB389A-it Samsung MG23K3515AW Forno Microonde Grill Combinato 23...'
 sku: 'B01KSB389A-it'
 tags: [  ]

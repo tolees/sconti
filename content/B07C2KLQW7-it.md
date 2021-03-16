@@ -5,7 +5,7 @@ date: 2020-09-15 06:03:31
 image: 'https://m.media-amazon.com/images/I/41FzEJe+GGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2KLQW7-it TOUCHBeauty - Spazzola per la pulizia del viso set di...'
 sku: 'B07C2KLQW7-it'
 tags: [  ]

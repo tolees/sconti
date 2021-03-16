@@ -5,7 +5,7 @@ date: 2020-09-07 05:01:19
 image: 'https://m.media-amazon.com/images/I/417v1zLtDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XS1FCVR-it Fairy Platinum Detersivo in Caps per Lavastoviglie Maxi...'
 sku: 'B06XS1FCVR-it'
 tags: [  ]

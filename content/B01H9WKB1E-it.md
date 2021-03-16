@@ -5,7 +5,7 @@ date: 2020-09-06 09:14:19
 image: 'https://m.media-amazon.com/images/I/41oQ2wdBj1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H9WKB1E-it Science in Sport SiS Go Energy Barretta Energetica gusto...'
 sku: 'B01H9WKB1E-it'
 tags: [  ]

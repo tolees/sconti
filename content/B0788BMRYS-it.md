@@ -5,7 +5,7 @@ date: 2020-08-13 14:01:32
 image: 'https://m.media-amazon.com/images/I/41sQj-72PSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BMRYS-it Tommy Hilfiger RN Tee SS Maglietta Bianco White 100...'
 sku: 'B0788BMRYS-it'
 tags: [  ]

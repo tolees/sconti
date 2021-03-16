@@ -5,7 +5,7 @@ date: 2020-10-01 06:54:25
 image: 'https://m.media-amazon.com/images/I/41IHvp0cp0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9LL9NQ-it JBL CLIP 3 Speaker Wireless Bluetooth Altoparlante...'
 sku: 'B07B9LL9NQ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 02:20:04
 image: 'https://m.media-amazon.com/images/I/416Psm0SamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQD1LKF-it LIGHTAILING Set di Luci per Architecture Buckingham Palace...'
 sku: 'B07HQD1LKF-it'
 tags: [  ]

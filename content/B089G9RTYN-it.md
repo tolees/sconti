@@ -5,7 +5,7 @@ date: 2020-09-16 20:56:26
 image: 'https://m.media-amazon.com/images/I/4121TiRJP0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089G9RTYN-it RAVIAD Cavo USB Tipo [2Pezzi 0.5m] Nylon Cavo USB C di...'
 sku: 'B089G9RTYN-it'
 tags: [  ]

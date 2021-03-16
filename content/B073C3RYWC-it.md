@@ -5,7 +5,7 @@ date: 2020-09-16 20:57:28
 image: 'https://m.media-amazon.com/images/I/31w-ScZUJ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073C3RYWC-it Converse Chuck Taylor Ctas Lift Ox Canvas Scarpe da...'
 sku: 'B073C3RYWC-it'
 tags: [  ]

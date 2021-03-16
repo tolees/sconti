@@ -5,7 +5,7 @@ date: 2020-09-05 12:33:50
 image: 'https://m.media-amazon.com/images/I/41x9fDMiYFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FC9HBHX-it Homever Coltelli da cucina Ceppo Coltelli Coltelli da Chef...'
 sku: 'B07FC9HBHX-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 15:19:33
 image: 'https://m.media-amazon.com/images/I/41xNluaZZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00588YUKA-it Kleenex 6789 Asciugamani piegati 15 confezioni da 186...'
 sku: 'B00588YUKA-it'
 tags: [  ]

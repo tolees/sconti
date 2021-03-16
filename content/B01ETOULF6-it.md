@@ -5,7 +5,7 @@ date: 2020-09-26 09:08:44
 image: 'https://m.media-amazon.com/images/I/51tbizpfsTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ETOULF6-it Jolly pastelli Crazy scatola in cartone 3000-0503...'
 sku: 'B01ETOULF6-it'
 tags: [  ]

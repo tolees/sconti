@@ -5,7 +5,7 @@ date: 2020-09-24 13:51:51
 image: 'https://m.media-amazon.com/images/I/41T1w7uXCKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0039UT5HW-it Casio Orologio Analogico al Quarzo Uomo con Cinturino in...'
 sku: 'B0039UT5HW-it'
 tags: [  ]

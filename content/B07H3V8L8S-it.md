@@ -5,7 +5,7 @@ date: 2020-08-22 07:42:32
 image: 'https://m.media-amazon.com/images/I/31GTY-zQDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3V8L8S-it homcom Cyclette Elettrica Compatto Altezza Regolabile in 6...'
 sku: 'B07H3V8L8S-it'
 tags: [  ]

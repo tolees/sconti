@@ -5,7 +5,7 @@ date: 2020-09-16 16:17:19
 image: 'https://m.media-amazon.com/images/I/31XlgaQtV-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6B2LP1-it Brita Aluna - Caraffa Filtrante per Acqua 2.4 Litri 1...'
 sku: 'B01N6B2LP1-it'
 tags: [  ]

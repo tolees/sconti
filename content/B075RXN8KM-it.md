@@ -5,7 +5,7 @@ date: 2020-08-02 06:35:10
 image: 'https://m.media-amazon.com/images/I/31KmvgQZe0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RXN8KM-it De Longhi XL130.21 Colombina Class Scopa Elettrica con Sacco'
 sku: 'B075RXN8KM-it'
 tags: [  ]

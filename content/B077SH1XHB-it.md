@@ -5,7 +5,7 @@ date: 2020-08-21 14:13:10
 image: 'https://m.media-amazon.com/images/I/31wlqJlEkiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SH1XHB-it Lacoste L1212 T-Shirt Polo Uomo Blu Electrique Z7Z FR 2'
 sku: 'B077SH1XHB-it'
 tags: [  ]

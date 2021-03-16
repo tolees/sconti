@@ -5,7 +5,7 @@ date: 2020-08-18 08:14:47
 image: 'https://m.media-amazon.com/images/I/31ZbgF-EuvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086Z5SXX5-it FARMAMED Aerosol Nebulizzatore Mesh Silenzioso Portatile...'
 sku: 'B086Z5SXX5-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 07:18:40
 image: 'https://m.media-amazon.com/images/I/41-JZFZxzGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JGFDLH8-it Bourjois Ombretti le Palette les Nude - 4.5 g'
 sku: 'B01JGFDLH8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 20:26:58
 image: 'https://m.media-amazon.com/images/I/51Cfqsm7b6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYSS22Q-it Creed Nato Per Combattere 4K Ultra Hd + Blu-Ray + Copia...'
 sku: 'B01EYSS22Q-it'
 tags: [  ]

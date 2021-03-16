@@ -5,7 +5,7 @@ date: 2020-09-04 10:50:36
 image: 'https://m.media-amazon.com/images/I/31E1Ii4UGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RKHYWZ-it Hosome Plafoniera LED Soffitto Lampada da Soffitto 36W...'
 sku: 'B087RKHYWZ-it'
 tags: [  ]

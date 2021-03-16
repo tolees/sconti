@@ -5,7 +5,7 @@ date: 2020-09-17 07:09:55
 image: 'https://m.media-amazon.com/images/I/31dsKeo-3BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S69F4HC-it Logitech G403 HERO 16K Mouse Gaming Lightsync RGB Leggero...'
 sku: 'B07S69F4HC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-27 14:51:33
 image: 'https://m.media-amazon.com/images/I/31IlbLFCWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085C3JNXJ-it Auricolari Bluetooth 5.0 Senza Fili Cancellazione del...'
 sku: 'B085C3JNXJ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 06:34:18
 image: 'https://m.media-amazon.com/images/I/61OH+VUDlsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JJ23CI6-it Elegoo Scheda Starter Ultimate Kit Piu Completo per...'
 sku: 'B01JJ23CI6-it'
 tags: [  ]

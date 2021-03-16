@@ -5,7 +5,7 @@ date: 2020-10-09 15:21:45
 image: 'https://m.media-amazon.com/images/I/31Woz+bDbRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STV2Q4N-it Geox D Genova Moc A Mocassini Donna Blu Navy C4002 40 EU'
 sku: 'B07STV2Q4N-it'
 tags: [  ]

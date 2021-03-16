@@ -5,7 +5,7 @@ date: 2020-09-11 09:10:30
 image: 'https://m.media-amazon.com/images/I/51i5Zw631zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLJ574S-it TRENINO THOMAS- Mega DXH55'
 sku: 'B01KLJ574S-it'
 tags: [  ]

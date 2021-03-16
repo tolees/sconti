@@ -5,7 +5,7 @@ date: 2020-08-14 17:39:42
 image: 'https://m.media-amazon.com/images/I/51rpJG88wHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KMF7RL-it Fajiabao Giochi Montessori Banco da Martellare in Legno...'
 sku: 'B082KMF7RL-it'
 tags: [  ]

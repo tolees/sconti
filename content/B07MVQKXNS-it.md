@@ -5,7 +5,7 @@ date: 2020-09-28 14:52:30
 image: 'https://m.media-amazon.com/images/I/31an05mRSwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVQKXNS-it Marchio Amazon - MERAKI Slip a Vita Bassa in Cotone Uomo...'
 sku: 'B07MVQKXNS-it'
 tags: [  ]

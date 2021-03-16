@@ -5,7 +5,7 @@ date: 2020-09-26 09:36:40
 image: 'https://m.media-amazon.com/images/I/41kbIdjuK5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IAQ3BCA-it Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano...'
 sku: 'B00IAQ3BCA-it'
 tags: [  ]

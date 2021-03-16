@@ -5,7 +5,7 @@ date: 2020-09-11 08:33:39
 image: 'https://m.media-amazon.com/images/I/419YW6oBlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NIDY9ZS-it PowerWalker VI 850SE LCD / IEC UPS 850 VA 4 AC AC...'
 sku: 'B00NIDY9ZS-it'
 tags: [  ]

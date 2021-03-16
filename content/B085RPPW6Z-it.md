@@ -5,7 +5,7 @@ date: 2020-07-22 10:26:54
 image: 'https://m.media-amazon.com/images/I/41r91w0nU3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RPPW6Z-it Condizionatore Portatile Raffreddatore d Aria Silenzioso...'
 sku: 'B085RPPW6Z-it'
 tags: [  ]

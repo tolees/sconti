@@ -5,7 +5,7 @@ date: 2020-09-10 11:40:41
 image: 'https://m.media-amazon.com/images/I/41mLvraOB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDFYRDJ-it Desigual TS gante T-Shirt Bianco Blanco 1000 Small Donna'
 sku: 'B07VDFYRDJ-it'
 tags: [  ]

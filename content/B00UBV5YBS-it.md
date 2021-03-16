@@ -5,7 +5,7 @@ date: 2020-08-21 08:33:38
 image: 'https://m.media-amazon.com/images/I/41wfJT9R5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBV5YBS-it adidas Superstar Scarpe da Ginnastica Unisex Adulto Nero...'
 sku: 'B00UBV5YBS-it'
 tags: [  ]

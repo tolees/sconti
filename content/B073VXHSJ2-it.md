@@ -5,7 +5,7 @@ date: 2020-08-20 16:46:13
 image: 'https://m.media-amazon.com/images/I/414lQWiI11L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VXHSJ2-it Havaianas Slim 4000030 Infradito Donna Giallo Banana...'
 sku: 'B073VXHSJ2-it'
 tags: [  ]

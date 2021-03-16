@@ -5,7 +5,7 @@ date: 2020-09-19 07:36:28
 image: 'https://m.media-amazon.com/images/I/41RJZoCGmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7D4XJW-it Boss Tee 4 T-Shirt Blu Navy 410 Small Uomo'
 sku: 'B07V7D4XJW-it'
 tags: [  ]

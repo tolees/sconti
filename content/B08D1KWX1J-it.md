@@ -5,7 +5,7 @@ date: 2020-08-06 08:09:27
 image: 'https://m.media-amazon.com/images/I/41D4sQfl-NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D1KWX1J-it Amazon Echo 3ª generazione Tessuto grigio mélange + Amazon...'
 sku: 'B08D1KWX1J-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 18:20:27
 image: 'https://m.media-amazon.com/images/I/418jVCzoNkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7GJVWT-it Calvin Klein Instit Chest Logo Reg Tee T-Shirt Blu Coastal...'
 sku: 'B07V7GJVWT-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 16:24:08
 image: 'https://m.media-amazon.com/images/I/41QvudVIphL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0040HFEV4-it Gucci Guilty Eau de Toilette Donna 50 ml'
 sku: 'B0040HFEV4-it'
 tags: [  ]

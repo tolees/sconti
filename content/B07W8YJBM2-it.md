@@ -5,7 +5,7 @@ date: 2020-07-17 09:01:11
 image: 'https://m.media-amazon.com/images/I/51n1vqpZmeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8YJBM2-it LEGO Minecraft L Incursione della Bestia Set di...'
 sku: 'B07W8YJBM2-it'
 tags: [  ]

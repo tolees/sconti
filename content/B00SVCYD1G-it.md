@@ -5,7 +5,7 @@ date: 2020-09-29 09:03:25
 image: 'https://m.media-amazon.com/images/I/51A+oaa+kOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SVCYD1G-it Poupy 1006.6 Libretto Sonoro Colori Assortiti'
 sku: 'B00SVCYD1G-it'
 tags: [  ]

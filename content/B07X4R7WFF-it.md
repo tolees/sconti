@@ -5,7 +5,7 @@ date: 2020-10-10 09:55:43
 image: 'https://m.media-amazon.com/images/I/518dP-dLhIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4R7WFF-it Swiffer Duster Ricariche per Piumino Catturapolvere 63 Pezzi'
 sku: 'B07X4R7WFF-it'
 tags: [  ]

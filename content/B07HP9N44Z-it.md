@@ -5,7 +5,7 @@ date: 2020-08-04 13:22:15
 image: 'https://m.media-amazon.com/images/I/41IRggikW9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP9N44Z-it Brondi Amico Fedele Telefono cellulare GSM per anziani con...'
 sku: 'B07HP9N44Z-it'
 tags: [  ]

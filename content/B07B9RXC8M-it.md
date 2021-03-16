@@ -5,7 +5,7 @@ date: 2020-09-10 17:17:28
 image: 'https://m.media-amazon.com/images/I/41nf+YsL8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9RXC8M-it Canon Italia EOS 4000D + EF-S DC III Fotocamera Reflex...'
 sku: 'B07B9RXC8M-it'
 tags: [  ]

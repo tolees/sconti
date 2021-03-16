@@ -5,7 +5,7 @@ date: 2020-09-26 01:35:27
 image: 'https://m.media-amazon.com/images/I/41FXux8T3EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6CNGF1-it Controller per switch/switch Lite controller wireless per...'
 sku: 'B07Z6CNGF1-it'
 tags: [  ]

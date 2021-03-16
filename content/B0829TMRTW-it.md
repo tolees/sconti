@@ -5,7 +5,7 @@ date: 2020-08-24 19:12:26
 image: 'https://m.media-amazon.com/images/I/41+jLV9m91L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829TMRTW-it Feagar Cuscino per Sedile Cuscino per Emorroidi di Schiena...'
 sku: 'B0829TMRTW-it'
 tags: [  ]

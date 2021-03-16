@@ -5,7 +5,7 @@ date: 2020-10-11 02:11:00
 image: 'https://m.media-amazon.com/images/I/41uMfxnNmYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CH1PJU-it Sandisk Ultra Flair 128 GB Chiavetta USB 3.0 Velocità di...'
 sku: 'B015CH1PJU-it'
 tags: [  ]

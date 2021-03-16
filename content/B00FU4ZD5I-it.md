@@ -5,7 +5,7 @@ date: 2020-09-24 16:09:38
 image: 'https://m.media-amazon.com/images/I/41963qgIOfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FU4ZD5I-it Tommy Hilfiger TH Men Quarter 2P Calze Uomo Blu Jeans...'
 sku: 'B00FU4ZD5I-it'
 tags: [  ]

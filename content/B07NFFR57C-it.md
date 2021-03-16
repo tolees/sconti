@@ -5,7 +5,7 @@ date: 2020-10-12 06:48:43
 image: 'https://m.media-amazon.com/images/I/51nPSAnG3bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFFR57C-it Daygum Protex Gomme da Masticare Senza Zucchero Chewing...'
 sku: 'B07NFFR57C-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 07:47:40
 image: 'https://m.media-amazon.com/images/I/41XV6U+sMjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQW1MF-it adidas Core18 Pes Giacca Uomo Nero/Bianco L'
 sku: 'B076HQW1MF-it'
 tags: [  ]

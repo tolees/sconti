@@ -5,7 +5,7 @@ date: 2020-09-13 07:06:48
 image: 'https://m.media-amazon.com/images/I/31LU8iZl6gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089MFLCL9-it Meller - Kendi All Black - Sunglasses for Men and Women'
 sku: 'B089MFLCL9-it'
 tags: [  ]

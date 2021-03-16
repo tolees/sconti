@@ -5,7 +5,7 @@ date: 2020-09-05 13:20:44
 image: 'https://m.media-amazon.com/images/I/51OAYSgfnoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDV236P-it MROTY Italia | Striscia LED RGB Strisce LED 10mt Luci LED...'
 sku: 'B07VDV236P-it'
 tags: [  ]

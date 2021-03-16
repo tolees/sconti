@@ -5,7 +5,7 @@ date: 2020-09-24 17:12:07
 image: 'https://m.media-amazon.com/images/I/41hd3dOXZdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGMP3G4-it viakal Profumo Fresco anticalcare Spray – 700 ML'
 sku: 'B07LGMP3G4-it'
 tags: [  ]

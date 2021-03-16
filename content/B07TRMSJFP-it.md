@@ -5,7 +5,7 @@ date: 2020-08-26 21:36:14
 image: 'https://m.media-amazon.com/images/I/51Ve0o6gWLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRMSJFP-it Levi s 501 Long Pantaloncini Blu Montgomery Mended Short...'
 sku: 'B07TRMSJFP-it'
 tags: [  ]

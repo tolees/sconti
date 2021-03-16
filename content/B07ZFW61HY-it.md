@@ -5,7 +5,7 @@ date: 2020-07-22 07:32:24
 image: 'https://m.media-amazon.com/images/I/41jT8nMZCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFW61HY-it RTP® ● OMEGA 3 + Vit E ● 180 Capsule di Olio di Pesce...'
 sku: 'B07ZFW61HY-it'
 tags: [  ]

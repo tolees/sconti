@@ -5,7 +5,7 @@ date: 2020-08-21 17:02:00
 image: 'https://m.media-amazon.com/images/I/31wOTP-7ovL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJWRR11-it Lacoste Ph4012 Polo Giallo Daba Z0a Large Taglia...'
 sku: 'B07TJWRR11-it'
 tags: [  ]

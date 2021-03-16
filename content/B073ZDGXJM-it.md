@@ -5,7 +5,7 @@ date: 2020-08-05 15:53:57
 image: 'https://m.media-amazon.com/images/I/51Koo0+fAFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZDGXJM-it Remington Nano Series NE3870 Tagliapeli Igienico per Naso...'
 sku: 'B073ZDGXJM-it'
 tags: [  ]

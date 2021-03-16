@@ -5,7 +5,7 @@ date: 2020-10-03 06:27:52
 image: 'https://m.media-amazon.com/images/I/317W9GEcRbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GDQ8DFS-it homcom Stazione da Fitness Barra per trazioni 4 ventise...'
 sku: 'B08GDQ8DFS-it'
 tags: [  ]

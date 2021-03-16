@@ -5,7 +5,7 @@ date: 2020-08-13 06:46:25
 image: 'https://m.media-amazon.com/images/I/41SFelCy2qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZF5TNX6-it Beautural Ferro da Stiro Verticale Stiratrice a Vapore...'
 sku: 'B07ZF5TNX6-it'
 tags: [  ]

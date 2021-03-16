@@ -5,7 +5,7 @@ date: 2020-08-13 08:29:13
 image: 'https://m.media-amazon.com/images/I/41IHcgt5H3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JVNYNR-it Napapijri Rainforest Winter - Giacca con cappuccio 100 %...'
 sku: 'B079JVNYNR-it'
 tags: [  ]

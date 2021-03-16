@@ -5,7 +5,7 @@ date: 2020-08-22 22:20:35
 image: 'https://m.media-amazon.com/images/I/4135+Dl1fFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT4GTR9-it Giochi Preziosi - L.O.L. Surprise! Glamper - Veicolo per...'
 sku: 'B07PT4GTR9-it'
 tags: [  ]

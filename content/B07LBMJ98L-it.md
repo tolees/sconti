@@ -5,7 +5,7 @@ date: 2020-07-19 18:00:52
 image: 'https://m.media-amazon.com/images/I/41bh1g0HKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBMJ98L-it Soundcore Icon Mini di Anker Altoparlante Bluetooth...'
 sku: 'B07LBMJ98L-it'
 tags: [  ]

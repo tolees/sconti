@@ -5,7 +5,7 @@ date: 2020-07-24 17:43:29
 image: 'https://m.media-amazon.com/images/I/41FteOkzfSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M85DOD0-it BLACK+DECKER ASD184KB-QW Trapano/avvitatore Autosense 18V...'
 sku: 'B00M85DOD0-it'
 tags: [  ]

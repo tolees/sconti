@@ -5,7 +5,7 @@ date: 2020-07-24 15:48:52
 image: 'https://m.media-amazon.com/images/I/51QdmYwUoeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083J8YRHH-it LED Luce Solari Giardino Esterno MUZEY 4 Pezzi 8Led...'
 sku: 'B083J8YRHH-it'
 tags: [  ]

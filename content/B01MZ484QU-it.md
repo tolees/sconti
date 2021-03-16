@@ -5,7 +5,7 @@ date: 2020-09-21 15:28:48
 image: 'https://m.media-amazon.com/images/I/41Os1G+E6fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ484QU-it ONE PUNCH MAN - Tappetino per il mouse - Saitama Testa'
 sku: 'B01MZ484QU-it'
 tags: [  ]

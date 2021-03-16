@@ -5,7 +5,7 @@ date: 2020-08-30 11:27:00
 image: 'https://m.media-amazon.com/images/I/31lPn5WxhwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LM6US76-it Havaianas Slim 4000030 Infradito Donna Grigio Steel Grey...'
 sku: 'B00LM6US76-it'
 tags: [  ]

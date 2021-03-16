@@ -5,7 +5,7 @@ date: 2020-08-06 10:16:37
 image: 'https://m.media-amazon.com/images/I/41KNitaaI6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084LF8C3T-it Samsung Galaxy S20 Smartphone Display 6.2" Dynamic AMOLED...'
 sku: 'B084LF8C3T-it'
 tags: [  ]

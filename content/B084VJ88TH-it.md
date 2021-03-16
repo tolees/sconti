@@ -5,7 +5,7 @@ date: 2020-08-04 00:20:28
 image: 'https://m.media-amazon.com/images/I/519OhuacHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VJ88TH-it Motast Cassa Bluetooth Portatile 10W Speaker Bluetooth con...'
 sku: 'B084VJ88TH-it'
 tags: [  ]

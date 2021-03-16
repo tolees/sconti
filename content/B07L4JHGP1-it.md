@@ -5,7 +5,7 @@ date: 2020-09-18 16:01:36
 image: 'https://m.media-amazon.com/images/I/51CA1ycgNML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4JHGP1-it Luce Solare Esterno Trswyop 82 LED Lampada Solare con...'
 sku: 'B07L4JHGP1-it'
 tags: [  ]

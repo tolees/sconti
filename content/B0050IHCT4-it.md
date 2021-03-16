@@ -5,7 +5,7 @@ date: 2020-08-19 12:44:40
 image: 'https://m.media-amazon.com/images/I/31uS1VrczhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0050IHCT4-it Imetec Dolcevita HB2 Frullatore a Immersione Lame in...'
 sku: 'B0050IHCT4-it'
 tags: [  ]

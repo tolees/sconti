@@ -5,7 +5,7 @@ date: 2020-07-20 13:52:23
 image: 'https://m.media-amazon.com/images/I/51Od8WeIjSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP2KPWS-it LEGO Classic 11003 Mattoncini e Occhi Set di Costruzioni...'
 sku: 'B07FP2KPWS-it'
 tags: [  ]

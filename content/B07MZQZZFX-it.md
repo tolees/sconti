@@ -5,7 +5,7 @@ date: 2020-08-27 12:13:59
 image: 'https://m.media-amazon.com/images/I/41h9RuSvfcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQZZFX-it Vans Doheny Scarpe da Ginnastica Uomo Checkerboard Black...'
 sku: 'B07MZQZZFX-it'
 tags: [  ]

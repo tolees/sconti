@@ -5,7 +5,7 @@ date: 2020-09-02 11:23:02
 image: 'https://m.media-amazon.com/images/I/417W0FrjcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DR5XDX8-it Saucony Shadow Original Vintage Scarpe da Ginnastica Basse...'
 sku: 'B07DR5XDX8-it'
 tags: [  ]

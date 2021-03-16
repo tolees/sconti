@@ -5,7 +5,7 @@ date: 2020-08-26 10:44:19
 image: 'https://m.media-amazon.com/images/I/31ftX3yhmDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVQMRQ6-it Havaianas Top Mix Infradito Unisex-Adulto Nero Black/Steel...'
 sku: 'B07PVQMRQ6-it'
 tags: [  ]

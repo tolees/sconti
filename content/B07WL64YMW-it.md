@@ -5,7 +5,7 @@ date: 2020-08-19 15:07:44
 image: 'https://m.media-amazon.com/images/I/41prtQZujDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WL64YMW-it Vetril Igienizzante 650 ml'
 sku: 'B07WL64YMW-it'
 tags: [  ]

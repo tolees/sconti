@@ -5,7 +5,7 @@ date: 2020-09-22 00:31:50
 image: 'https://m.media-amazon.com/images/I/4180BWixmgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4SZFTZ-it It 2017 + Funko Keychain'
 sku: 'B07G4SZFTZ-it'
 tags: [  ]

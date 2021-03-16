@@ -5,7 +5,7 @@ date: 2020-10-10 14:03:00
 image: 'https://m.media-amazon.com/images/I/31MRrMTEPDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HD52QGK-it Osram Lampadina LED Star Pin con attacco G4 =28W luce...'
 sku: 'B01HD52QGK-it'
 tags: [  ]

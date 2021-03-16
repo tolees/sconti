@@ -5,7 +5,7 @@ date: 2020-09-17 10:14:54
 image: 'https://m.media-amazon.com/images/I/31DrKnqgE3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2YJPQK-it Under Armour Challenger III Midlayer Maglia a Maniche...'
 sku: 'B07R2YJPQK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 07:50:33
 image: 'https://m.media-amazon.com/images/I/31c5HtM2spL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C9X1VU8-it Diadora - Sneakers Game P per Uomo e Donna EU 42'
 sku: 'B01C9X1VU8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 06:49:32
 image: 'https://m.media-amazon.com/images/I/31S+z8DqEsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGQ4K85-it adidas Streetcheck Scarpe da Basketball Uomo Multicolore...'
 sku: 'B07RGQ4K85-it'
 tags: [  ]

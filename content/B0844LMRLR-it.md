@@ -5,7 +5,7 @@ date: 2020-08-30 04:33:55
 image: 'https://m.media-amazon.com/images/I/51umk-qeCkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0844LMRLR-it Desigual Borsa Donna bols ada rotterdam 20saxpae unica...'
 sku: 'B0844LMRLR-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 18:16:14
 image: 'https://m.media-amazon.com/images/I/416qatJADaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E8HM3JW-it Assortimento Kraftform Kompakt Micro ESD/20 SB 20 pezzi'
 sku: 'B00E8HM3JW-it'
 tags: [  ]

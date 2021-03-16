@@ -5,7 +5,7 @@ date: 2020-08-21 10:20:04
 image: 'https://m.media-amazon.com/images/I/41UzXuMLY4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JSJX8D-it Cuffie Gaming PS4 PC Xbox One Maegoo Over Ear Cuffie da...'
 sku: 'B087JSJX8D-it'
 tags: [  ]

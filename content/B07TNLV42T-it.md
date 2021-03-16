@@ -5,7 +5,7 @@ date: 2020-08-07 09:34:38
 image: 'https://m.media-amazon.com/images/I/31dILJsFibL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNLV42T-it Levi s Original Batwing Maglietta Bianco HM Patch Polo...'
 sku: 'B07TNLV42T-it'
 tags: [  ]

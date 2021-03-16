@@ -5,7 +5,7 @@ date: 2020-08-18 12:02:55
 image: 'https://m.media-amazon.com/images/I/41oXr0OtKDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J9RU4LO-it INBIKE Occhiali da Sole polarizzati da Ciclismo per Uomo Nero'
 sku: 'B01J9RU4LO-it'
 tags: [  ]

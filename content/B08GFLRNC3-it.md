@@ -5,7 +5,7 @@ date: 2020-09-24 17:34:07
 image: 'https://m.media-amazon.com/images/I/41u27sO527L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFLRNC3-it Scheda Micro SD 512 GB ad alta velocità classe 10 Micro SD...'
 sku: 'B08GFLRNC3-it'
 tags: [  ]

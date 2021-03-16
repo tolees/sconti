@@ -5,7 +5,7 @@ date: 2020-09-23 06:45:32
 image: 'https://m.media-amazon.com/images/I/31ewhyibNoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E2B4WWY-it VERO MODA VMJULIA LS BLAZER DNM NOOS Blazer Donna Blu...'
 sku: 'B01E2B4WWY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 07:15:40
 image: 'https://m.media-amazon.com/images/I/51qGe+Xzu4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868CPZJ7-it Lampada UV Aigostar Lampada sterilizzante a raggi...'
 sku: 'B0868CPZJ7-it'
 tags: [  ]

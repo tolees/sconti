@@ -5,7 +5,7 @@ date: 2020-08-27 06:49:40
 image: 'https://m.media-amazon.com/images/I/41+kPTjb7zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9LVFPH-it Tommy Hilfiger Bikini Mutande Rosa Pale Blush 612 40...'
 sku: 'B07D9LVFPH-it'
 tags: [  ]

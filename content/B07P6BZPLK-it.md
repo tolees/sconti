@@ -5,7 +5,7 @@ date: 2020-09-11 07:42:19
 image: 'https://m.media-amazon.com/images/I/41xePkKZdzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6BZPLK-it Lenor Natural Ammorbidente Fiori di Seta 210 Lavaggi Maxi...'
 sku: 'B07P6BZPLK-it'
 tags: [  ]

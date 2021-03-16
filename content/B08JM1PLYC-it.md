@@ -5,7 +5,7 @@ date: 2020-10-10 05:14:27
 image: 'https://m.media-amazon.com/images/I/51G8iTpo-TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JM1PLYC-it [2+3 pezzi] UniqueMe Vetro Temperato per Xiaomi Poco X3...'
 sku: 'B08JM1PLYC-it'
 tags: [  ]

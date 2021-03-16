@@ -5,7 +5,7 @@ date: 2020-08-04 05:24:01
 image: 'https://m.media-amazon.com/images/I/51uYz3fV-sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H1HYVGG-it Cuffie da Gioco per PS4 Cuffie Gaming con 3.5mm Jack LED...'
 sku: 'B07H1HYVGG-it'
 tags: [  ]

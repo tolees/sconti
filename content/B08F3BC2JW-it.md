@@ -5,7 +5,7 @@ date: 2020-09-08 18:42:28
 image: 'https://m.media-amazon.com/images/I/415o0-fZxxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F3BC2JW-it alvorog Specchio Trucco con Luce LED e Ingrandimento 1x /...'
 sku: 'B08F3BC2JW-it'
 tags: [  ]

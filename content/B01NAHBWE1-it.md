@@ -5,7 +5,7 @@ date: 2020-08-22 11:59:23
 image: 'https://m.media-amazon.com/images/I/417Xp02r+vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAHBWE1-it Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere...'
 sku: 'B01NAHBWE1-it'
 tags: [  ]

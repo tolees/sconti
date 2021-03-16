@@ -5,7 +5,7 @@ date: 2020-09-22 17:25:20
 image: 'https://m.media-amazon.com/images/I/416e2iVYfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D12PW3F-it Aigostar Apollo 33LCF - Termoventilatore ceramico PTC 4...'
 sku: 'B07D12PW3F-it'
 tags: [  ]

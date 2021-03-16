@@ -5,7 +5,7 @@ date: 2020-08-26 15:13:14
 image: 'https://m.media-amazon.com/images/I/41nMAhjwMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCJCZZD-it Desigual Chaq whaii Giubbotto Blu Jeans Bleach 5058 44...'
 sku: 'B07VCJCZZD-it'
 tags: [  ]

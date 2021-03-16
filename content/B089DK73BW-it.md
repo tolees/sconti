@@ -5,7 +5,7 @@ date: 2020-08-20 12:17:20
 image: 'https://m.media-amazon.com/images/I/414ZfrcPkfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DK73BW-it Visiera Protettiva di Sicurezza dalla Francia via DHL...'
 sku: 'B089DK73BW-it'
 tags: [  ]

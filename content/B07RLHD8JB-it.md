@@ -5,7 +5,7 @@ date: 2020-09-13 14:34:10
 image: 'https://m.media-amazon.com/images/I/41W+wq3EHYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLHD8JB-it Levi s 501 Crop Jeans Boyfriend Jive Stonewash 0073 27W /...'
 sku: 'B07RLHD8JB-it'
 tags: [  ]

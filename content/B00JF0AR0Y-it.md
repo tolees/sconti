@@ -5,7 +5,7 @@ date: 2020-09-22 13:08:23
 image: 'https://m.media-amazon.com/images/I/31-5LLKOr2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JF0AR0Y-it Microsoft 1850 Mobile Mouse Wireless Nero'
 sku: 'B00JF0AR0Y-it'
 tags: [  ]

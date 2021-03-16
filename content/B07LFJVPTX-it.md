@@ -5,7 +5,7 @@ date: 2020-09-04 17:02:39
 image: 'https://m.media-amazon.com/images/I/41Go0iSNpKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFJVPTX-it Levi s Ex-BF Sherpa Trucker Giacca in Jeans Nero Forever...'
 sku: 'B07LFJVPTX-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 13:05:48
 image: 'https://m.media-amazon.com/images/I/51lbUpI3NOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T38WPD1-it Pepe Jeans Daniela Zaino Casual 32 Centimeters 9.6...'
 sku: 'B07T38WPD1-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 10:32:38
 image: 'https://m.media-amazon.com/images/I/41RkE-1zS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6JVFT8-it Tommy Hilfiger X Bralette Brassière Nero Black 990 Medium...'
 sku: 'B07B6JVFT8-it'
 tags: [  ]

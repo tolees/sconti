@@ -5,7 +5,7 @@ date: 2020-10-09 09:50:39
 image: 'https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQTY7P2-it Superdry Zip Hood Cappuccio Grigio Collective Dark Grey...'
 sku: 'B07TQTY7P2-it'
 tags: [  ]

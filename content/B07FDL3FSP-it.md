@@ -5,7 +5,7 @@ date: 2020-08-28 14:55:01
 image: 'https://m.media-amazon.com/images/I/41vb9FhFoaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDL3FSP-it Polaroid POP 2.0 – Fotocamera digitale a stampa istantanea...'
 sku: 'B07FDL3FSP-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 21:49:30
 image: 'https://m.media-amazon.com/images/I/51SyXhLK+2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0010MJVQG-it Casio Sveglia Collection TQ-369-1EF'
 sku: 'B0010MJVQG-it'
 tags: [  ]

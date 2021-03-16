@@ -5,7 +5,7 @@ date: 2020-09-12 12:05:23
 image: 'https://m.media-amazon.com/images/I/31mcI6y-YLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DHSJ65-it Lampada Portatile UVC Germicida Lampada UV Sterilizzazione...'
 sku: 'B085DHSJ65-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 10:41:02
 image: 'https://m.media-amazon.com/images/I/41nC7ZvLl0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VSPTY7-it Coccolino - Ammorbidente Concentrato Delicato e Soffice -...'
 sku: 'B082VSPTY7-it'
 tags: [  ]

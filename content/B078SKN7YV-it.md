@@ -5,7 +5,7 @@ date: 2020-09-17 14:34:08
 image: 'https://m.media-amazon.com/images/I/51WmjJh8+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SKN7YV-it Diesel Orologio Cronografo Da Uomo Quarzo Con Cinturino In...'
 sku: 'B078SKN7YV-it'
 tags: [  ]

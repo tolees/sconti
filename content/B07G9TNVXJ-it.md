@@ -5,7 +5,7 @@ date: 2020-10-02 11:11:22
 image: 'https://m.media-amazon.com/images/I/31z-mOhX7ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9TNVXJ-it Moleskine Borsa Porta PC per Laptop Tablet iPad e Notebook...'
 sku: 'B07G9TNVXJ-it'
 tags: [  ]

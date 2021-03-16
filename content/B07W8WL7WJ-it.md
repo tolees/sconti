@@ -5,7 +5,7 @@ date: 2020-09-17 19:05:23
 image: 'https://m.media-amazon.com/images/I/318EbNz9BlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8WL7WJ-it Cooler Master MM710 Mouse Gaming Ultraleggero 53g Cavo...'
 sku: 'B07W8WL7WJ-it'
 tags: [  ]

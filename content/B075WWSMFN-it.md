@@ -5,7 +5,7 @@ date: 2020-09-19 08:31:51
 image: 'https://m.media-amazon.com/images/I/31rLOOfbldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WWSMFN-it Kodak PRINTOMATIC Fotocamera istantanea Grigio Foto a...'
 sku: 'B075WWSMFN-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 12:48:26
 image: 'https://m.media-amazon.com/images/I/31hcDY-FVJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078W8BBFK-it TIPPY PAD dispositivo anti abbandono'
 sku: 'B078W8BBFK-it'
 tags: [  ]

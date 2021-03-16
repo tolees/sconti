@@ -5,7 +5,7 @@ date: 2020-10-04 16:37:09
 image: 'https://m.media-amazon.com/images/I/31p129kASvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K8FZVCV-it eXtremeRate Soft Grip Cover Frontale Custodia Scocca Case...'
 sku: 'B08K8FZVCV-it'
 tags: [  ]

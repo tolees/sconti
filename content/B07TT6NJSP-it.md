@@ -5,7 +5,7 @@ date: 2020-09-19 13:25:29
 image: 'https://m.media-amazon.com/images/I/31z9tKXRL1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT6NJSP-it Levi s 721 High Rise Skinny Jeans Hyper Soft T2 Sepia Rose...'
 sku: 'B07TT6NJSP-it'
 tags: [  ]

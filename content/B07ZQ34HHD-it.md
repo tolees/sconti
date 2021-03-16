@@ -5,7 +5,7 @@ date: 2020-08-05 09:30:57
 image: 'https://m.media-amazon.com/images/I/51QeuMZJ+LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQ34HHD-it Telecamera di Sorveglianza WiFi 1080P Littlelf Telecamera...'
 sku: 'B07ZQ34HHD-it'
 tags: [  ]

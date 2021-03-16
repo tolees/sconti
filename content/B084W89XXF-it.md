@@ -5,7 +5,7 @@ date: 2020-08-17 15:06:35
 image: 'https://m.media-amazon.com/images/I/41up4LR9fVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084W89XXF-it Viakal Detersivo Anticalcare Liquido Aceto Maxi Formato 2...'
 sku: 'B084W89XXF-it'
 tags: [  ]

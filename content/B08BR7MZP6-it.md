@@ -5,7 +5,7 @@ date: 2020-09-09 20:00:46
 image: 'https://m.media-amazon.com/images/I/51Wbg875sGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BR7MZP6-it Yoofoss Set di 5 Asciugamani Viso-Mani in Microfibra in...'
 sku: 'B08BR7MZP6-it'
 tags: [  ]

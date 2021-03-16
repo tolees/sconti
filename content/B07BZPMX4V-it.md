@@ -5,7 +5,7 @@ date: 2020-08-07 17:52:55
 image: 'https://m.media-amazon.com/images/I/51EgAvStsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZPMX4V-it Hasbro Pistola Laser Modello: Nerf Ops Alphapoint...'
 sku: 'B07BZPMX4V-it'
 tags: [  ]

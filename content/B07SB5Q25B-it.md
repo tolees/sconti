@@ -5,7 +5,7 @@ date: 2020-08-15 13:46:11
 image: 'https://m.media-amazon.com/images/I/41JemqGylAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB5Q25B-it Amazfit Verge Smartwatch Men s Gray Normal'
 sku: 'B07SB5Q25B-it'
 tags: [  ]

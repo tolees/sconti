@@ -5,7 +5,7 @@ date: 2020-09-17 05:33:06
 image: 'https://m.media-amazon.com/images/I/51Eg8Bx6YxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XRQ8UQ-it Master Lock 8285EURDPRO Catena U Ottima per Bicicletta...'
 sku: 'B000XRQ8UQ-it'
 tags: [  ]

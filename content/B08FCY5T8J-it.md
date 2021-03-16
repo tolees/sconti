@@ -5,7 +5,7 @@ date: 2020-09-17 07:09:15
 image: 'https://m.media-amazon.com/images/I/41djZBW0Q6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FCY5T8J-it Pawhut Divano per Animali Cuscino Rivestito in gommapiuma...'
 sku: 'B08FCY5T8J-it'
 tags: [  ]

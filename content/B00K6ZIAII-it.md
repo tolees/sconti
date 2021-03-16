@@ -5,7 +5,7 @@ date: 2020-08-31 08:31:09
 image: 'https://m.media-amazon.com/images/I/51r-0X6i2+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K6ZIAII-it De Longhi Icona Eco 311.BK Macchina da Caffè Espresso...'
 sku: 'B00K6ZIAII-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-12 06:16:39
 image: 'https://m.media-amazon.com/images/I/51-cfEBPlWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ18X3Z-it Jade Roller Rose Quarzo Viso Giada Roller Gua Sha...'
 sku: 'B07JZ18X3Z-it'
 tags: [  ]

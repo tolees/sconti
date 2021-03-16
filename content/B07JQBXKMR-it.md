@@ -5,7 +5,7 @@ date: 2020-07-24 12:45:17
 image: 'https://m.media-amazon.com/images/I/31TGC9k2FNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQBXKMR-it JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny Blu...'
 sku: 'B07JQBXKMR-it'
 tags: [  ]

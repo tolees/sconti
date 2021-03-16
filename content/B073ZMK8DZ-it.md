@@ -5,7 +5,7 @@ date: 2020-08-13 14:51:49
 image: 'https://m.media-amazon.com/images/I/41zj9Mvb6DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZMK8DZ-it Nespresso Essenza Mini De Longhi EN85.L Macchine del Caffe...'
 sku: 'B073ZMK8DZ-it'
 tags: [  ]

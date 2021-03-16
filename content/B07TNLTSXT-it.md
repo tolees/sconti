@@ -5,7 +5,7 @@ date: 2020-08-08 11:36:38
 image: 'https://m.media-amazon.com/images/I/41k6FLCFGaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNLTSXT-it Levi s SS Battery HM Slim Camicia Blu Dress Blues 0001...'
 sku: 'B07TNLTSXT-it'
 tags: [  ]

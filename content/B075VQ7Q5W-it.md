@@ -5,7 +5,7 @@ date: 2020-09-24 16:58:40
 image: 'https://m.media-amazon.com/images/I/51nTPpREi9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075VQ7Q5W-it 3 in 1 Anticalcare - Sgrassante - Igienizzante 12 bustine...'
 sku: 'B075VQ7Q5W-it'
 tags: [  ]

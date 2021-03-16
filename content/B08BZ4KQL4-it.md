@@ -5,7 +5,7 @@ date: 2020-07-21 14:20:43
 image: 'https://m.media-amazon.com/images/I/311XIneEttL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZ4KQL4-it Borraccia Acciaio Inox 450ml Bottiglia Termica...'
 sku: 'B08BZ4KQL4-it'
 tags: [  ]

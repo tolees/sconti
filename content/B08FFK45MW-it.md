@@ -5,7 +5,7 @@ date: 2020-08-24 10:23:17
 image: 'https://m.media-amazon.com/images/I/41xjAXdR5lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFK45MW-it Pellicola Xiaomi Mi Note 10 Lite Vetro Temperato 9H...'
 sku: 'B08FFK45MW-it'
 tags: [  ]

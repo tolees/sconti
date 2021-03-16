@@ -5,7 +5,7 @@ date: 2020-09-24 18:49:38
 image: 'https://m.media-amazon.com/images/I/41+4KZEY4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LD5BR84-it Nivea Men Doccia Shampoo Energy 250 ml'
 sku: 'B01LD5BR84-it'
 tags: [  ]

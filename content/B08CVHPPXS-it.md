@@ -5,7 +5,7 @@ date: 2020-08-20 04:04:35
 image: 'https://m.media-amazon.com/images/I/21-o91unJHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVHPPXS-it Hard Disk Esterno Hard Disk 2 tb Esterno USB3.1/Type C...'
 sku: 'B08CVHPPXS-it'
 tags: [  ]

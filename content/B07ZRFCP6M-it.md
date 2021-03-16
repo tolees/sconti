@@ -5,7 +5,7 @@ date: 2020-10-11 13:28:41
 image: 'https://m.media-amazon.com/images/I/41-gqZCBbcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRFCP6M-it adidas Lin Duffle M Borsa Sportiva Unisex – Adulto Legend...'
 sku: 'B07ZRFCP6M-it'
 tags: [  ]

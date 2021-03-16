@@ -5,7 +5,7 @@ date: 2020-09-08 15:01:10
 image: 'https://m.media-amazon.com/images/I/41bgMkLP6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BYGWP4J-it INNZA Epilatore Luce Pulsata IPL Hair Removal 999 000...'
 sku: 'B08BYGWP4J-it'
 tags: [  ]

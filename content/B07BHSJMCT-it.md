@@ -5,7 +5,7 @@ date: 2020-08-01 16:26:56
 image: 'https://m.media-amazon.com/images/I/411suCf1IHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHSJMCT-it Black+Decker BESTA530C10-QS Tagliabordi a filo 550W 30cm +...'
 sku: 'B07BHSJMCT-it'
 tags: [  ]

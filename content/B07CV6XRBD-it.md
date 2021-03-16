@@ -5,7 +5,7 @@ date: 2020-08-07 15:17:26
 image: 'https://m.media-amazon.com/images/I/517CHo+5X6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CV6XRBD-it Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto...'
 sku: 'B07CV6XRBD-it'
 tags: [  ]

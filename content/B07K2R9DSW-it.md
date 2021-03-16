@@ -5,7 +5,7 @@ date: 2020-10-04 13:11:50
 image: 'https://m.media-amazon.com/images/I/31aR0HHDziL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2R9DSW-it adidas Continental 80 Scarpe da Ginnastica Uomo Nero Black...'
 sku: 'B07K2R9DSW-it'
 tags: [  ]

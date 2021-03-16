@@ -5,7 +5,7 @@ date: 2020-10-02 15:34:08
 image: 'https://m.media-amazon.com/images/I/41Q0PRqeavL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS3ZX16-it Apple iPhone 11 Pro 64GB - Verde Notte'
 sku: 'B07XS3ZX16-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 13:27:17
 image: 'https://m.media-amazon.com/images/I/51yknCYr8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ISYHUSA-it Set Accessori Aria Compressa Kit 8 Pneumatic Stanley'
 sku: 'B00ISYHUSA-it'
 tags: [  ]

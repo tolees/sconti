@@ -5,7 +5,7 @@ date: 2020-08-12 18:30:57
 image: 'https://m.media-amazon.com/images/I/41ThI7XnMOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRZB9NR-it Aspirapolvere Auto Aitsite Aspirapolvere Portatile Senza...'
 sku: 'B07WRZB9NR-it'
 tags: [  ]

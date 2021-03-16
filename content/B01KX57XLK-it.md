@@ -5,7 +5,7 @@ date: 2020-10-05 16:54:57
 image: 'https://m.media-amazon.com/images/I/41UK9EdwDSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KX57XLK-it Bio-Oil Olio per Cicatrici e Smagliature Trattamento per...'
 sku: 'B01KX57XLK-it'
 tags: [  ]

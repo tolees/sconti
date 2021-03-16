@@ -5,7 +5,7 @@ date: 2020-08-26 08:20:32
 image: 'https://m.media-amazon.com/images/I/31CO+3K5-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NOSDYDU-it Style - Crema Modella Ricci - Rende Elastici i Capelli...'
 sku: 'B00NOSDYDU-it'
 tags: [  ]

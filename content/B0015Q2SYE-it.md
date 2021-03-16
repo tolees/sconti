@@ -5,7 +5,7 @@ date: 2020-08-26 13:32:03
 image: 'https://m.media-amazon.com/images/I/31K4BLnNpYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0015Q2SYE-it Havaianas Top Infradito Unisex-Adulto Bianco White 0001...'
 sku: 'B0015Q2SYE-it'
 tags: [  ]

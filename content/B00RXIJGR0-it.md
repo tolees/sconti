@@ -5,7 +5,7 @@ date: 2020-09-17 11:08:53
 image: 'https://m.media-amazon.com/images/I/415JHT7vUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RXIJGR0-it Pyrex Irresistible Teglia rettangolare in vetro...'
 sku: 'B00RXIJGR0-it'
 tags: [  ]

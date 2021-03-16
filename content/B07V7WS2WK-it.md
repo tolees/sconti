@@ -5,7 +5,7 @@ date: 2020-10-08 08:17:20
 image: 'https://m.media-amazon.com/images/I/41c7TnhkgkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7WS2WK-it Love Moschino Jc4252pp0a Pochette da Giorno Donna Nero...'
 sku: 'B07V7WS2WK-it'
 tags: [  ]

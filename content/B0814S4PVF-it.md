@@ -5,7 +5,7 @@ date: 2020-09-17 10:14:48
 image: 'https://m.media-amazon.com/images/I/31whiVyycrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814S4PVF-it Under Armour Challenger III Midlayer Maglia a maniche...'
 sku: 'B0814S4PVF-it'
 tags: [  ]

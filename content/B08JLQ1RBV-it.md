@@ -5,7 +5,7 @@ date: 2020-10-10 05:13:21
 image: 'https://m.media-amazon.com/images/I/4113Fbx05sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JLQ1RBV-it FEIMUOSI Webcam con Microfono Webcam Streaming 1080P HD...'
 sku: 'B08JLQ1RBV-it'
 tags: [  ]

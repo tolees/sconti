@@ -5,7 +5,7 @@ date: 2020-08-28 07:37:37
 image: 'https://m.media-amazon.com/images/I/51u04H5POIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWS9V3M-it HUAWEI T5 Mediapad Tablet Display da 10.1" 1080p Full HD...'
 sku: 'B07VWS9V3M-it'
 tags: [  ]

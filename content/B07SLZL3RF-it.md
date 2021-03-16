@@ -5,7 +5,7 @@ date: 2020-08-15 13:19:27
 image: 'https://m.media-amazon.com/images/I/51oihZ2wsFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLZL3RF-it Havaianas Disney Classic II Sandali Unisex-Bimbi...'
 sku: 'B07SLZL3RF-it'
 tags: [  ]

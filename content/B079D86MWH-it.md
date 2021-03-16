@@ -5,7 +5,7 @@ date: 2020-08-15 07:30:56
 image: 'https://m.media-amazon.com/images/I/51XQZzUiV9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079D86MWH-it Lysoform Detersivo Igienizzante per Bucato Detersivo...'
 sku: 'B079D86MWH-it'
 tags: [  ]

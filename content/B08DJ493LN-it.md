@@ -5,7 +5,7 @@ date: 2020-09-16 14:45:35
 image: 'https://m.media-amazon.com/images/I/41gkg3cH5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ493LN-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno per PC Mac...'
 sku: 'B08DJ493LN-it'
 tags: [  ]

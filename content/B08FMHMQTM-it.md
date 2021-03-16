@@ -5,7 +5,7 @@ date: 2020-09-23 18:47:10
 image: 'https://m.media-amazon.com/images/I/51GZIUaTvSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FMHMQTM-it TANSUNG Coltello da Cucina Coltello da Chef e Cuoco Lama...'
 sku: 'B08FMHMQTM-it'
 tags: [  ]

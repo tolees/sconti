@@ -5,7 +5,7 @@ date: 2020-09-29 10:32:52
 image: 'https://m.media-amazon.com/images/I/51bP-gycutL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRHNDFC-it TEAMO Rosa Bella e La Bestia La Rosa della Bella e La...'
 sku: 'B07WRHNDFC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-01 15:41:04
 image: 'https://m.media-amazon.com/images/I/41rAqdtCJbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYPCXVL-it ARMANI EXCHANGE Icon T T-Shirt Bianco White W/Saint Tropez...'
 sku: 'B07SYPCXVL-it'
 tags: [  ]

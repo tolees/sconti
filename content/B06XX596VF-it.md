@@ -5,7 +5,7 @@ date: 2020-09-26 09:16:06
 image: 'https://m.media-amazon.com/images/I/41cGa5shehL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX596VF-it New Balance 574v2 Core Scarpa da Tennis Donna Bianco White...'
 sku: 'B06XX596VF-it'
 tags: [  ]

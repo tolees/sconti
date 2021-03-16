@@ -5,7 +5,7 @@ date: 2020-09-02 09:16:50
 image: 'https://m.media-amazon.com/images/I/31m82bU902L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005EFV53C-it Havaianas Brasil Logo Infradito Unisex-Bambini Giallo...'
 sku: 'B005EFV53C-it'
 tags: [  ]

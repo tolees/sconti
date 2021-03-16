@@ -5,7 +5,7 @@ date: 2020-09-08 07:11:18
 image: 'https://m.media-amazon.com/images/I/517npSect5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXXPZCH-it Capsule LAVAZZA A MODO MIO compatibili CREMOSO 100 CAPSULE'
 sku: 'B07KXXPZCH-it'
 tags: [  ]

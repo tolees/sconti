@@ -5,7 +5,7 @@ date: 2020-08-21 14:44:43
 image: 'https://m.media-amazon.com/images/I/61fdJ4rKymL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLKNTMY-it Tagliaverdure Mandolina 13 in 1 Affetta Verdure Verdure...'
 sku: 'B07XLKNTMY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 10:47:58
 image: 'https://m.media-amazon.com/images/I/21GVwLZKw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TY5P2Q-it Oclean X Spazzolino elettrico Touchscreen a colori 2 ore...'
 sku: 'B087TY5P2Q-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 13:56:18
 image: 'https://m.media-amazon.com/images/I/31mVoTXnlbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0100BX2WQ-it Dyson AM09 Hot+Cool 2000 W 64 Decibel Metall Plastik...'
 sku: 'B0100BX2WQ-it'
 tags: [  ]

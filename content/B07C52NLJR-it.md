@@ -5,7 +5,7 @@ date: 2020-07-20 07:07:37
 image: 'https://m.media-amazon.com/images/I/41R47vMx2ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C52NLJR-it Side by Side Power Packer - Organizzatore da Viaggio a...'
 sku: 'B07C52NLJR-it'
 tags: [  ]

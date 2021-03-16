@@ -5,7 +5,7 @@ date: 2020-08-20 06:17:28
 image: 'https://m.media-amazon.com/images/I/41pgVbvfc1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UC8OFJW-it homcom - Tapis roulant Elettrico Attrezzo Ginnico...'
 sku: 'B00UC8OFJW-it'
 tags: [  ]

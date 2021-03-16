@@ -5,7 +5,7 @@ date: 2020-09-07 12:17:23
 image: 'https://m.media-amazon.com/images/I/31JsXKRIJPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C2SHSLW-it SEAC Polpone Fucile a Molla con Fiocina per Pesca Sub...'
 sku: 'B00C2SHSLW-it'
 tags: [  ]

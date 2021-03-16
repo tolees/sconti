@@ -5,7 +5,7 @@ date: 2020-10-09 13:28:31
 image: 'https://m.media-amazon.com/images/I/41IfjIofoIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TXSA6R2-it Boucheron Quatre pour Femme Eau de Parfum spray 100 ml'
 sku: 'B00TXSA6R2-it'
 tags: [  ]

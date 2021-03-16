@@ -5,7 +5,7 @@ date: 2020-08-28 04:21:07
 image: 'https://m.media-amazon.com/images/I/41iQhoFOMwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTK3HKQ-it Wrangler Larston Slim Jeans Blu Spaced out 324 27W / 32L Uomo'
 sku: 'B07TTK3HKQ-it'
 tags: [  ]

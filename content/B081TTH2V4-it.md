@@ -5,7 +5,7 @@ date: 2020-09-11 13:45:42
 image: 'https://m.media-amazon.com/images/I/41OVjd7peiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TTH2V4-it adidas Cropped Hood'
 sku: 'B081TTH2V4-it'
 tags: [  ]

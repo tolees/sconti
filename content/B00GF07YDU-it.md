@@ -5,7 +5,7 @@ date: 2020-09-27 10:42:08
 image: 'https://m.media-amazon.com/images/I/41KawLY0WGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GF07YDU-it Intex Dura Beam Plus Materasso Classic Gonfiabile Comfort...'
 sku: 'B00GF07YDU-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 09:49:55
 image: 'https://m.media-amazon.com/images/I/216ZBdIw8gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VSNXD4-it MacBook 12" Intel Core i5 dual-core a 1 3GHz 512GB - Oro'
 sku: 'B072VSNXD4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 17:11:34
 image: 'https://m.media-amazon.com/images/I/31Vd3BOnbUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFQYZV2-it Puma Luxe Mesh Tight Pants Donna Fig-Puma Black M'
 sku: 'B07DFQYZV2-it'
 tags: [  ]

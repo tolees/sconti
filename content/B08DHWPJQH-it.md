@@ -5,7 +5,7 @@ date: 2020-09-30 05:55:45
 image: 'https://m.media-amazon.com/images/I/31cpRzJAglL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHWPJQH-it Huawei 55030701 Nano Memory Card 128 GB Con Lettore Di Scheda'
 sku: 'B08DHWPJQH-it'
 tags: [  ]

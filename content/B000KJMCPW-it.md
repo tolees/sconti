@@ -5,7 +5,7 @@ date: 2020-08-12 11:42:44
 image: 'https://m.media-amazon.com/images/I/511oyW1X5KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJMCPW-it APLI 809741 Etichetta Poliestere Confezione da 20 Pezzi'
 sku: 'B000KJMCPW-it'
 tags: [  ]

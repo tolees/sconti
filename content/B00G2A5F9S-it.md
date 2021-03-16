@@ -5,7 +5,7 @@ date: 2020-08-22 13:21:40
 image: 'https://m.media-amazon.com/images/I/41owmBuJhPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G2A5F9S-it THE PROTEIN WORKS Proteine Whey 80 Concentrate In Polvere...'
 sku: 'B00G2A5F9S-it'
 tags: [  ]

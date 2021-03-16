@@ -5,7 +5,7 @@ date: 2020-10-02 16:27:44
 image: 'https://m.media-amazon.com/images/I/31tXSzByUrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0042HXMJI-it La Roche-Posay Lipikar Xerand Crema Mani Riparatrice - 50 ml'
 sku: 'B0042HXMJI-it'
 tags: [  ]

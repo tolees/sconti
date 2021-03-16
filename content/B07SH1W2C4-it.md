@@ -5,7 +5,7 @@ date: 2020-08-20 18:03:46
 image: 'https://m.media-amazon.com/images/I/31vgApyAKDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH1W2C4-it Levi s June L S Infradito Donna Rosa Light Pink 81 39 EU'
 sku: 'B07SH1W2C4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 11:44:40
 image: 'https://m.media-amazon.com/images/I/31fjuE6y+wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9S3JC-it Levi s Relaxed Graphic Hoodie Felpa Bianco Boxtab Pop...'
 sku: 'B07TJ9S3JC-it'
 tags: [  ]

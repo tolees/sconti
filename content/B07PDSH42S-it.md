@@ -5,7 +5,7 @@ date: 2020-09-17 12:36:44
 image: 'https://m.media-amazon.com/images/I/416H6fxGHpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDSH42S-it AmazonBasics - Evidenziatori a forma piatta allungata...'
 sku: 'B07PDSH42S-it'
 tags: [  ]

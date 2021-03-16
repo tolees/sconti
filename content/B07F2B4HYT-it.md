@@ -5,7 +5,7 @@ date: 2020-09-21 15:30:10
 image: 'https://m.media-amazon.com/images/I/41gcejGY7ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2B4HYT-it Timberland Classic 2 Eye Scarpe da Barca Uomo Marrone MD...'
 sku: 'B07F2B4HYT-it'
 tags: [  ]

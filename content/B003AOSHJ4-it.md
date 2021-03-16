@@ -5,7 +5,7 @@ date: 2020-08-01 22:55:52
 image: 'https://m.media-amazon.com/images/I/51p1Ks6P6SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003AOSHJ4-it Havaianas Top Infradito Unisex-Adulto Rosso Ruby Red 2090...'
 sku: 'B003AOSHJ4-it'
 tags: [  ]

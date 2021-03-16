@@ -5,7 +5,7 @@ date: 2020-08-29 07:07:18
 image: 'https://m.media-amazon.com/images/I/51jCU-1jE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CQ3KRR0-it Rimmel London Cipria Compatta Stay Matte Polvere...'
 sku: 'B00CQ3KRR0-it'
 tags: [  ]

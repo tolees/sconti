@@ -5,7 +5,7 @@ date: 2020-08-24 06:25:48
 image: 'https://m.media-amazon.com/images/I/41GhHkBNZWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZST12F-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Red...'
 sku: 'B07PZST12F-it'
 tags: [  ]

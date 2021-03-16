@@ -5,7 +5,7 @@ date: 2020-07-20 15:08:30
 image: 'https://m.media-amazon.com/images/I/41hzrI+PijL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL19QGK-it Prada Profumo - 50 Ml'
 sku: 'B07BL19QGK-it'
 tags: [  ]

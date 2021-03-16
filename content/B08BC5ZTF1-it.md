@@ -5,7 +5,7 @@ date: 2020-09-18 13:10:11
 image: 'https://m.media-amazon.com/images/I/41HZ+0ecelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BC5ZTF1-it VBIGER Guanti Invernali Caldi per Bambini Guanti da...'
 sku: 'B08BC5ZTF1-it'
 tags: [  ]

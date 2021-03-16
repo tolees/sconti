@@ -5,7 +5,7 @@ date: 2020-09-30 02:05:00
 image: 'https://m.media-amazon.com/images/I/41igbEO33NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R9M3BK-it Vero Moda Vmava Plain SS Top Ga Noos T-Shirt Grigio...'
 sku: 'B075R9M3BK-it'
 tags: [  ]

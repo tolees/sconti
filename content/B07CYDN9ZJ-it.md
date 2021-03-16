@@ -5,7 +5,7 @@ date: 2020-08-26 21:54:15
 image: 'https://m.media-amazon.com/images/I/41wTcsTOaqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYDN9ZJ-it Salomon XA PRO 3D J Scarpe da Trail Running Unisex –...'
 sku: 'B07CYDN9ZJ-it'
 tags: [  ]

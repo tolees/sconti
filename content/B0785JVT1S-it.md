@@ -5,7 +5,7 @@ date: 2020-09-03 11:16:59
 image: 'https://m.media-amazon.com/images/I/51rh3fl31dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785JVT1S-it Canna per giardino Flexi Hose estendibile fino a 15 metri...'
 sku: 'B0785JVT1S-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 10:59:11
 image: 'https://m.media-amazon.com/images/I/51En5nnoIYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFRTRFS-it Pesoforma Barrette Tre Cioccolati Pasti Sostitutivi...'
 sku: 'B07QFRTRFS-it'
 tags: [  ]

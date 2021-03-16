@@ -5,7 +5,7 @@ date: 2020-09-05 06:51:59
 image: 'https://m.media-amazon.com/images/I/41uz1aszbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GR8GVV6-it Calvin Klein Core Institutional Logo Slim Fit Tee...'
 sku: 'B07GR8GVV6-it'
 tags: [  ]

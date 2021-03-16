@@ -5,7 +5,7 @@ date: 2020-07-19 06:36:01
 image: 'https://m.media-amazon.com/images/I/41dF6fEesoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHTTT45-it Havaianas Slim Brasil Logo Infradito Donna Rosa Crocus...'
 sku: 'B07SHTTT45-it'
 tags: [  ]

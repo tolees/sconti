@@ -5,7 +5,7 @@ date: 2020-09-29 09:04:06
 image: 'https://m.media-amazon.com/images/I/41B8JlstFUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BKUA0XK-it Birkenstock Arizona - Sandali a Punta Aperta Uomo Grigio...'
 sku: 'B01BKUA0XK-it'
 tags: [  ]

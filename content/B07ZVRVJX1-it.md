@@ -5,7 +5,7 @@ date: 2020-09-23 06:54:11
 image: 'https://m.media-amazon.com/images/I/31qmMfJsYrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVRVJX1-it Levi s Graphic Crewneck Tee T-Shirt Ssnl Serif White L Uomo'
 sku: 'B07ZVRVJX1-it'
 tags: [  ]

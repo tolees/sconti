@@ -5,7 +5,7 @@ date: 2020-08-22 07:42:16
 image: 'https://m.media-amazon.com/images/I/51jvbP2n-3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZCNJZH-it Bastone Selfie Treppiede -BlitzWolf 3 in 1 Estensibile...'
 sku: 'B073ZCNJZH-it'
 tags: [  ]

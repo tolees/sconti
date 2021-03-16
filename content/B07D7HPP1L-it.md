@@ -5,7 +5,7 @@ date: 2020-08-16 14:12:24
 image: 'https://m.media-amazon.com/images/I/51DCyUTteVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7HPP1L-it Havaianas Slim Tropical Infradito Donna Black/Graphite...'
 sku: 'B07D7HPP1L-it'
 tags: [  ]

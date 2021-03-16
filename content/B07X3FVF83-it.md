@@ -5,7 +5,7 @@ date: 2020-08-03 06:51:22
 image: 'https://m.media-amazon.com/images/I/41mZ2QbnGkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3FVF83-it Aspirapolvere Senza Fili 9500pa Scopa Elettrica ciclonica...'
 sku: 'B07X3FVF83-it'
 tags: [  ]

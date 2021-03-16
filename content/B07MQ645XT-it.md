@@ -5,7 +5,7 @@ date: 2020-08-23 13:41:22
 image: 'https://m.media-amazon.com/images/I/316TpbbUX5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ645XT-it Urban Classics Block Swim Shorts Costume Uomo con Tasche...'
 sku: 'B07MQ645XT-it'
 tags: [  ]

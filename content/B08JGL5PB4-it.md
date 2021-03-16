@@ -5,7 +5,7 @@ date: 2020-09-28 13:01:28
 image: 'https://m.media-amazon.com/images/I/41isaE+nYPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JGL5PB4-it Ajcoflt Smartwatch Braccialetto Intelligente Braccialetto...'
 sku: 'B08JGL5PB4-it'
 tags: [  ]

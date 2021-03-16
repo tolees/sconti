@@ -5,7 +5,7 @@ date: 2020-07-31 10:20:49
 image: 'https://m.media-amazon.com/images/I/41oYr3PuitL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SPY65G-it MOSFiATA Set di Attrezzi da Giardino Kit di Attrezzi da...'
 sku: 'B089SPY65G-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 10:59:01
 image: 'https://m.media-amazon.com/images/I/51iLpkEyryL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNZX4SS-it Power Theory Vetro Temperato per Nintendo Switch [2 Pezzi]...'
 sku: 'B08DNZX4SS-it'
 tags: [  ]

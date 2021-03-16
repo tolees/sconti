@@ -5,7 +5,7 @@ date: 2020-07-30 07:26:37
 image: 'https://m.media-amazon.com/images/I/51CotKJOYkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015SGFGWC-it Havaianas Luna Sandali Donna Blu Navy Blue 0555 37/38 EU'
 sku: 'B015SGFGWC-it'
 tags: [  ]

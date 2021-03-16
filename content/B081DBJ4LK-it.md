@@ -5,7 +5,7 @@ date: 2020-10-05 08:37:40
 image: 'https://m.media-amazon.com/images/I/416Al-CGfuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DBJ4LK-it Guess Open Road Luxury Satchel Handbag Donna Nero Uni'
 sku: 'B081DBJ4LK-it'
 tags: [  ]

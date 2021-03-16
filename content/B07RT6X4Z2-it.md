@@ -5,7 +5,7 @@ date: 2020-07-18 07:29:58
 image: 'https://m.media-amazon.com/images/I/41hV07+wxKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT6X4Z2-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Multicolore...'
 sku: 'B07RT6X4Z2-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 06:30:10
 image: 'https://m.media-amazon.com/images/I/41p7k+PYeJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08425HJRB-it THE G-LAB Korp HELIUM - Auricolari In-ear di alta qualità...'
 sku: 'B08425HJRB-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 07:30:06
 image: 'https://m.media-amazon.com/images/I/41cVUxGnyIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HVYPQGZ-it VINCITORE 2020* BIO Crema Viso Acido Ialuronico Puro 100...'
 sku: 'B07HVYPQGZ-it'
 tags: [  ]

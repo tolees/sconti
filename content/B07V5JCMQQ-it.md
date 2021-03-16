@@ -5,7 +5,7 @@ date: 2020-08-10 23:37:16
 image: 'https://m.media-amazon.com/images/I/41PufpgtMIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5JCMQQ-it PS4 Joystick Controller PS4 Wireless Controller Dualshock...'
 sku: 'B07V5JCMQQ-it'
 tags: [  ]

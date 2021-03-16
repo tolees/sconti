@@ -5,7 +5,7 @@ date: 2020-08-10 07:01:43
 image: 'https://m.media-amazon.com/images/I/51Zb52qXIbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CPHRSYQ-it keeeper Set da 5 Contenitori per Congelare Alimenti...'
 sku: 'B01CPHRSYQ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 07:52:52
 image: 'https://m.media-amazon.com/images/I/31t6aGRqnWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGKQXGX-it NAPAPIJRI Rainforest M Sum 1 Giacca Grigio Dove Grey H361...'
 sku: 'B07VGKQXGX-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 11:08:47
 image: 'https://m.media-amazon.com/images/I/31m1P6QL-xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G5CWWRG-it AVM FRITZ!DECT 100 International Ripetitore DECT per...'
 sku: 'B00G5CWWRG-it'
 tags: [  ]

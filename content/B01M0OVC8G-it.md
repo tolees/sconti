@@ -5,7 +5,7 @@ date: 2020-10-12 22:26:25
 image: 'https://m.media-amazon.com/images/I/31mU1IBchvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0OVC8G-it Kenwood KVC7300S Impastatrice Planetaria Chef Titanium...'
 sku: 'B01M0OVC8G-it'
 tags: [  ]

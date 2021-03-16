@@ -5,7 +5,7 @@ date: 2020-08-27 16:49:09
 image: 'https://m.media-amazon.com/images/I/41cZEYZGNZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6ZWGCT-it Clementoni- Baby Garden Multicolore 17277'
 sku: 'B07M6ZWGCT-it'
 tags: [  ]

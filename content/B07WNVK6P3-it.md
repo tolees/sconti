@@ -5,7 +5,7 @@ date: 2020-08-24 11:09:14
 image: 'https://m.media-amazon.com/images/I/41SkjscRTeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNVK6P3-it Mini Telecamera Spia Nascosta NIYPS Full HD 1080P...'
 sku: 'B07WNVK6P3-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-27 10:16:26
 image: 'https://m.media-amazon.com/images/I/41e3TQIHibL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMGRT3V-it Hasbro Nerf Super Soaker - Barracuda Blaster Spruzza Acqua...'
 sku: 'B07FMGRT3V-it'
 tags: [  ]

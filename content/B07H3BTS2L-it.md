@@ -5,7 +5,7 @@ date: 2020-08-17 13:32:26
 image: 'https://m.media-amazon.com/images/I/51-LWDC5-xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3BTS2L-it Havaianas Hype Infradito Uomo Multicolore Sand Grey/Dark...'
 sku: 'B07H3BTS2L-it'
 tags: [  ]

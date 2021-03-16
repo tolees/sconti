@@ -5,7 +5,7 @@ date: 2020-10-01 11:30:51
 image: 'https://m.media-amazon.com/images/I/41bgyprsmJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089F2XN7G-it Coca-Cola Original Taste 330ml x24 Lattina'
 sku: 'B089F2XN7G-it'
 tags: [  ]

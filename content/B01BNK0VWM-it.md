@@ -5,7 +5,7 @@ date: 2020-10-09 14:49:01
 image: 'https://m.media-amazon.com/images/I/41f1K+uFpSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNK0VWM-it Rimmel Smalto Unghie Super Gel Nail Polish Effetto Gel a...'
 sku: 'B01BNK0VWM-it'
 tags: [  ]

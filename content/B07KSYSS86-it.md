@@ -5,7 +5,7 @@ date: 2020-09-27 08:38:51
 image: 'https://m.media-amazon.com/images/I/41MrOkWzh8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSYSS86-it Electrolux E7TB1-4GB Explore 7 Blender Nero Granite'
 sku: 'B07KSYSS86-it'
 tags: [  ]

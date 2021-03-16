@@ -5,7 +5,7 @@ date: 2020-09-13 14:21:44
 image: 'https://m.media-amazon.com/images/I/31LM7C67crL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073J5HF8C-it Tommy Hilfiger Not Applicable'
 sku: 'B073J5HF8C-it'
 tags: [  ]

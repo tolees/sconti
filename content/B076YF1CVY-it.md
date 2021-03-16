@@ -5,7 +5,7 @@ date: 2020-09-28 01:31:28
 image: 'https://m.media-amazon.com/images/I/410je8eT8BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076YF1CVY-it Levi s LS Graphic Tee-B Maglietta a Maniche Lunghe Nero...'
 sku: 'B076YF1CVY-it'
 tags: [  ]

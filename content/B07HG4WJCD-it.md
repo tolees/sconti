@@ -5,7 +5,7 @@ date: 2020-09-03 11:03:27
 image: 'https://m.media-amazon.com/images/I/41UVvXVgjNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG4WJCD-it ELEGIANT Bastone Selfie Asta Selfie Bluetooth Controllo...'
 sku: 'B07HG4WJCD-it'
 tags: [  ]

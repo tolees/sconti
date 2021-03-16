@@ -5,7 +5,7 @@ date: 2020-08-20 15:10:55
 image: 'https://m.media-amazon.com/images/I/41Xlrxg4u5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBSBW2P-it LOVABLE Sublim Reggiseno con Ferretto Blu Blu 007 4D IT...'
 sku: 'B07WBSBW2P-it'
 tags: [  ]

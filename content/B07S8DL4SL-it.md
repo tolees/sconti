@@ -5,7 +5,7 @@ date: 2020-09-26 05:31:10
 image: 'https://m.media-amazon.com/images/I/41o3zRvxXQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8DL4SL-it homcom Panca Fitness Esercizi Allenamento Regolabile da...'
 sku: 'B07S8DL4SL-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 15:04:42
 image: 'https://m.media-amazon.com/images/I/41-pIR5gJnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXWQZM1-it Pepe Jeans Edison T-Shirt Bianco Optic White 802 SMA L L Uomo'
 sku: 'B07VXWQZM1-it'
 tags: [  ]

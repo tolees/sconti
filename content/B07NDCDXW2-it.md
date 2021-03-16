@@ -5,7 +5,7 @@ date: 2020-08-05 17:31:02
 image: 'https://m.media-amazon.com/images/I/51U9vTxh6AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDCDXW2-it Hisense H32AE5720 TV Smart TV LED HD 1366 x 768 pixel 32"...'
 sku: 'B07NDCDXW2-it'
 tags: [  ]

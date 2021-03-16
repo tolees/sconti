@@ -5,7 +5,7 @@ date: 2020-09-30 17:47:24
 image: 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCW4KCX-it Under Armour Sportstyle Terry Logo Felpa Uomo Nero LG'
 sku: 'B07MCW4KCX-it'
 tags: [  ]

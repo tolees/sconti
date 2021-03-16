@@ -5,7 +5,7 @@ date: 2020-10-09 07:58:09
 image: 'https://m.media-amazon.com/images/I/41ziyKz8iDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PY5RY8-it Crocs Winter Puff Boot K Stivaletti Unisex - bambino Blu...'
 sku: 'B007PY5RY8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 07:45:37
 image: 'https://m.media-amazon.com/images/I/41v3J-LRsiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085FXNRB5-it TACKLIFE 2000W Sega da Tavolo 4800 giri/min Lama per Sega...'
 sku: 'B085FXNRB5-it'
 tags: [  ]

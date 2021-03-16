@@ -5,7 +5,7 @@ date: 2020-08-07 17:32:39
 image: 'https://m.media-amazon.com/images/I/51IX16+ZvRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085QMPQWS-it Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV:...'
 sku: 'B085QMPQWS-it'
 tags: [  ]

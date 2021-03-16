@@ -5,7 +5,7 @@ date: 2020-08-18 14:13:23
 image: 'https://m.media-amazon.com/images/I/41vORn4-18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGLBPYP-it Timberland Adv 2.0 Cupsole Modern Oxford Sneaker Uomo...'
 sku: 'B07PGLBPYP-it'
 tags: [  ]

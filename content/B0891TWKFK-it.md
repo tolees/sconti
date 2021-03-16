@@ -5,7 +5,7 @@ date: 2020-09-11 08:03:35
 image: 'https://m.media-amazon.com/images/I/413diAQFmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0891TWKFK-it Aigostar Lampada da Comodino Moderna Lampada da Tavolo...'
 sku: 'B0891TWKFK-it'
 tags: [  ]

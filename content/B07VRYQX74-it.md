@@ -5,7 +5,7 @@ date: 2020-09-22 14:53:56
 image: 'https://m.media-amazon.com/images/I/41A-mKx98bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRYQX74-it Calvin Klein Hip Brief 2pk Slip Nero Black with/White WB...'
 sku: 'B07VRYQX74-it'
 tags: [  ]

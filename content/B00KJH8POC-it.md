@@ -5,7 +5,7 @@ date: 2020-08-30 06:32:39
 image: 'https://m.media-amazon.com/images/I/41olZ4wFe4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KJH8POC-it Cif Crema Limone Detergente per Superfici Dure 500 ml'
 sku: 'B00KJH8POC-it'
 tags: [  ]

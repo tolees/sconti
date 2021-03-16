@@ -5,7 +5,7 @@ date: 2020-08-18 17:04:38
 image: 'https://m.media-amazon.com/images/I/41Pb5zvS16L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FHCVRP-it Lacoste Ph4012 Polo Sphere XS Uomo'
 sku: 'B083FHCVRP-it'
 tags: [  ]

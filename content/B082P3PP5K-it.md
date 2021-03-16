@@ -5,7 +5,7 @@ date: 2020-08-08 13:34:18
 image: 'https://m.media-amazon.com/images/I/41mDM9b30rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082P3PP5K-it #Cervezanía Kit per Fare la Birra Artigianale. Stile Pale...'
 sku: 'B082P3PP5K-it'
 tags: [  ]

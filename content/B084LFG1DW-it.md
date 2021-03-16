@@ -5,7 +5,7 @@ date: 2020-10-09 18:37:16
 image: 'https://m.media-amazon.com/images/I/41incevJDXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084LFG1DW-it Samsung Galaxy S20+ Smartphone 4G Display 6.7" Dynamic...'
 sku: 'B084LFG1DW-it'
 tags: [  ]

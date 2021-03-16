@@ -5,7 +5,7 @@ date: 2020-09-16 10:02:57
 image: 'https://m.media-amazon.com/images/I/31QEydtPY0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZZG5DZ-it Levi s Turner Sneaker Uomo Nero Regular Black 159 44 EU'
 sku: 'B07DZZG5DZ-it'
 tags: [  ]

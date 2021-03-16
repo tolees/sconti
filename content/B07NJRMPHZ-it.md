@@ -5,7 +5,7 @@ date: 2020-09-22 11:42:59
 image: 'https://m.media-amazon.com/images/I/313zX4qti6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJRMPHZ-it Echo Show 5 Ricondizionato Certificato Schermo compatto e...'
 sku: 'B07NJRMPHZ-it'
 tags: [  ]

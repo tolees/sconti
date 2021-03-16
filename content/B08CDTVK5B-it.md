@@ -5,7 +5,7 @@ date: 2020-09-17 14:23:37
 image: 'https://m.media-amazon.com/images/I/51BNFF2h27L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDTVK5B-it Lampada Proiettore Stelle Luce Notturna Bambini con...'
 sku: 'B08CDTVK5B-it'
 tags: [  ]

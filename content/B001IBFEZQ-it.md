@@ -5,7 +5,7 @@ date: 2020-10-08 13:07:37
 image: 'https://m.media-amazon.com/images/I/411Bqv8UVgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001IBFEZQ-it STANLEY 1-93-968 Carrello porta utensili "2 in 1"'
 sku: 'B001IBFEZQ-it'
 tags: [  ]

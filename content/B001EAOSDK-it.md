@@ -5,7 +5,7 @@ date: 2020-08-28 13:56:27
 image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001EAOSDK-it Superga 2750-cotu Classic Sneaker Unisex – Adulto Bianco...'
 sku: 'B001EAOSDK-it'
 tags: [  ]

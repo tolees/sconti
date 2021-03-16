@@ -5,7 +5,7 @@ date: 2020-08-11 05:37:50
 image: 'https://m.media-amazon.com/images/I/51Gf2YrulrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJB77Z1-it Lampada Libro Led Pieghevole in Legno con Telecomando 12...'
 sku: 'B07PJB77Z1-it'
 tags: [  ]

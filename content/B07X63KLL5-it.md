@@ -5,7 +5,7 @@ date: 2020-10-11 16:33:36
 image: 'https://m.media-amazon.com/images/I/51dUtSTuEnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X63KLL5-it Starbucks CAFFÈ VERONA Caffè macinato dalla tostatura...'
 sku: 'B07X63KLL5-it'
 tags: [  ]

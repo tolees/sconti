@@ -5,7 +5,7 @@ date: 2020-08-25 16:09:42
 image: 'https://m.media-amazon.com/images/I/41TyZLapp7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XKLHVVK-it ORICO Stazione di Ricarica Mobile USB Dock di Ricarica USB...'
 sku: 'B06XKLHVVK-it'
 tags: [  ]

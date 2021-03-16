@@ -5,7 +5,7 @@ date: 2020-09-15 10:14:41
 image: 'https://m.media-amazon.com/images/I/41KZEDo6EWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGN6ND2-it Timberland 6 in Double Collar Waterproof Stivali Classici...'
 sku: 'B07DGN6ND2-it'
 tags: [  ]

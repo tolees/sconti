@@ -5,7 +5,7 @@ date: 2020-10-02 16:44:37
 image: 'https://m.media-amazon.com/images/I/41H8U6gniNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQXP8V-it adidas Core18 Rain Jacket Giacca Sportiva. Uomo Power...'
 sku: 'B076HQXP8V-it'
 tags: [  ]

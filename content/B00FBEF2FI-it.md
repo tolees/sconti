@@ -5,7 +5,7 @@ date: 2020-10-07 07:55:44
 image: 'https://m.media-amazon.com/images/I/41as4xr0g9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FBEF2FI-it TERRY 1000955 Scaffale Modulare a 5 Ripiani da Interno...'
 sku: 'B00FBEF2FI-it'
 tags: [  ]

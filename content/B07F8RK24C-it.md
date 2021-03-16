@@ -5,7 +5,7 @@ date: 2020-08-08 17:58:55
 image: 'https://m.media-amazon.com/images/I/51xUea4gEGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8RK24C-it Android 9.0 RAM 2 G + 16G Rom TV Box x96 Mini amlogic...'
 sku: 'B07F8RK24C-it'
 tags: [  ]

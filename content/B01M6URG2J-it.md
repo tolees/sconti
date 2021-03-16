@@ -5,7 +5,7 @@ date: 2020-08-27 03:10:53
 image: 'https://m.media-amazon.com/images/I/41q+HyzNh1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6URG2J-it New Balance 373 Core Trainers Uomo Verde Olive 44.5 EU'
 sku: 'B01M6URG2J-it'
 tags: [  ]

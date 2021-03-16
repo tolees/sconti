@@ -5,7 +5,7 @@ date: 2020-08-05 17:43:02
 image: 'https://m.media-amazon.com/images/I/41nMfkTsHrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TC5DZTS-it TCL | 43EP641 | Android TV con Assistente Google:...'
 sku: 'B07TC5DZTS-it'
 tags: [  ]

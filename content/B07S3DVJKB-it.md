@@ -5,7 +5,7 @@ date: 2020-08-17 22:02:12
 image: 'https://m.media-amazon.com/images/I/51Ct3+tbWiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3DVJKB-it Epilatore Sopracciglia Donna Rasoio Sopracciglia Eyebrow...'
 sku: 'B07S3DVJKB-it'
 tags: [  ]

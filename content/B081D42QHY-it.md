@@ -5,7 +5,7 @@ date: 2020-09-25 08:30:59
 image: 'https://m.media-amazon.com/images/I/31Mp6+G7R3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081D42QHY-it MPOW S16 Auricolari Wireless Sport 12H Playtime Cuffie...'
 sku: 'B081D42QHY-it'
 tags: [  ]

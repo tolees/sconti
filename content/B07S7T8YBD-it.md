@@ -5,7 +5,7 @@ date: 2020-08-08 14:08:11
 image: 'https://m.media-amazon.com/images/I/51MRT9PCjzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7T8YBD-it Beschoi Specchio Trucco con Luci LED Specchio Ingranditore...'
 sku: 'B07S7T8YBD-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-07 13:22:31
 image: 'https://m.media-amazon.com/images/I/41tgj6nSVvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZLXWCS-it Neutro Roberts Doccia Shampoo Energizzante - 6 Confezioni...'
 sku: 'B07CZLXWCS-it'
 tags: [  ]

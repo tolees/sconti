@@ -5,7 +5,7 @@ date: 2020-08-03 05:05:55
 image: 'https://m.media-amazon.com/images/I/51OrShIq1fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZTWW56-it Cocoda Termometro Cucina Digitale Termometro Forno a...'
 sku: 'B085ZTWW56-it'
 tags: [  ]

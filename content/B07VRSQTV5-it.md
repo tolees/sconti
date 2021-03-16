@@ -5,7 +5,7 @@ date: 2020-09-16 11:01:24
 image: 'https://m.media-amazon.com/images/I/41s80gqoFUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRSQTV5-it Lampada Solare Campeggio Lanterne USB Ricaricabile LED...'
 sku: 'B07VRSQTV5-it'
 tags: [  ]

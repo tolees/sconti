@@ -5,7 +5,7 @@ date: 2020-08-07 18:33:15
 image: 'https://m.media-amazon.com/images/I/41kFMyfyw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7HG3WK-it TACKLIFE Pistola da Giardino Pistola per Innaffiamento...'
 sku: 'B07K7HG3WK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 10:29:31
 image: 'https://m.media-amazon.com/images/I/31lw8w085BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QVV6N-it PUMA Epic Flip v2 Scarpe da Spiaggia e Piscina Unisex-...'
 sku: 'B07S7QVV6N-it'
 tags: [  ]

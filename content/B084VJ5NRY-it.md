@@ -5,7 +5,7 @@ date: 2020-08-05 06:04:55
 image: 'https://m.media-amazon.com/images/I/51C3VJPtNqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VJ5NRY-it Cassa Bluetooth Portatile 20W Motast Speaker Bluetooth...'
 sku: 'B084VJ5NRY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 17:31:22
 image: 'https://m.media-amazon.com/images/I/41EHEf2OdyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824VJ4GB-it Cuffie Bluetooth Auricolari Bluetooth5.0 Senza Fili...'
 sku: 'B0824VJ4GB-it'
 tags: [  ]

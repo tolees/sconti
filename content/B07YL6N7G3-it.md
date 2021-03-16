@@ -5,7 +5,7 @@ date: 2020-09-06 16:44:37
 image: 'https://m.media-amazon.com/images/I/312hwNSsQcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YL6N7G3-it Wrangler SS Small Logo Tee T-Shirt Blu Blue Graphite X15 Uomo'
 sku: 'B07YL6N7G3-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 22:54:33
 image: 'https://m.media-amazon.com/images/I/61J4g8BwJML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7H2W4Q-it Kingdom Hearts: The Story so far - PlayStation 4...'
 sku: 'B07P7H2W4Q-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-10 08:38:39
 image: 'https://m.media-amazon.com/images/I/412B9D2QHEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V61GN2L-it Oral-B Pro 2 2000 Spazzolino Elettrico Ricaricabile 1...'
 sku: 'B07V61GN2L-it'
 tags: [  ]

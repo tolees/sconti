@@ -5,7 +5,7 @@ date: 2020-09-22 20:29:38
 image: 'https://m.media-amazon.com/images/I/51MIvEv2tAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2M1W2Y-it Trafficanti-War Dogs 4K+Br+Copia Dig.'
 sku: 'B01N2M1W2Y-it'
 tags: [  ]

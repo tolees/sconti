@@ -5,7 +5,7 @@ date: 2020-09-25 19:22:08
 image: 'https://m.media-amazon.com/images/I/41E-ZhArYLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GPHDV1C-it BAITITON NVME 240GB Unità SSD M.2 2280 PCIe Express...'
 sku: 'B08GPHDV1C-it'
 tags: [  ]

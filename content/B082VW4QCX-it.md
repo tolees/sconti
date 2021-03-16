@@ -5,7 +5,7 @@ date: 2020-08-27 10:52:32
 image: 'https://m.media-amazon.com/images/I/31ytZOGDfUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VW4QCX-it Samsung Memorie T7 Touch MU-PC1T0K SSD Esterno Portatile...'
 sku: 'B082VW4QCX-it'
 tags: [  ]

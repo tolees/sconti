@@ -5,7 +5,7 @@ date: 2020-07-31 15:19:55
 image: 'https://m.media-amazon.com/images/I/51nHx-PHnyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5KFS34-it Gnceei Power Bank 24000mAh Caricabatterie Portatile Solare...'
 sku: 'B07L5KFS34-it'
 tags: [  ]

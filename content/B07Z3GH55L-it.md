@@ -5,7 +5,7 @@ date: 2020-09-03 07:01:03
 image: 'https://m.media-amazon.com/images/I/41VdEWxVBBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3GH55L-it Bidet Portatile Dalmo DDB01S3 Bidet da Viaggio con 2...'
 sku: 'B07Z3GH55L-it'
 tags: [  ]

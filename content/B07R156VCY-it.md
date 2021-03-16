@@ -5,7 +5,7 @@ date: 2020-08-04 00:44:26
 image: 'https://m.media-amazon.com/images/I/41MUGQzPuyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R156VCY-it Marchio Amazon - Happy Belly Pistacchi tostati e salati...'
 sku: 'B07R156VCY-it'
 tags: [  ]

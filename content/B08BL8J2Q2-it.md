@@ -5,7 +5,7 @@ date: 2020-07-23 23:32:55
 image: 'https://m.media-amazon.com/images/I/31tsVje8SiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BL8J2Q2-it Cuffie Bluetooth Auricolari Bluetooth 5.0 Senza Fili...'
 sku: 'B08BL8J2Q2-it'
 tags: [  ]

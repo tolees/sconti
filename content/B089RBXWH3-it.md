@@ -5,7 +5,7 @@ date: 2020-10-04 02:09:57
 image: 'https://m.media-amazon.com/images/I/41m5Zq-LsXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089RBXWH3-it Widamin 2Pezzi Vetro temperato Compatibile con Galaxy A21s...'
 sku: 'B089RBXWH3-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 20:25:25
 image: 'https://m.media-amazon.com/images/I/41PTBAffmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HH4Y9QL-it YUES Controller per PS4 DUALSHOCK 4 Wireless Controller...'
 sku: 'B08HH4Y9QL-it'
 tags: [  ]

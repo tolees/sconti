@@ -5,7 +5,7 @@ date: 2020-09-09 15:06:13
 image: 'https://m.media-amazon.com/images/I/515M0w+qumL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGDYVJK-it Nba 2K20 - Standard - PlayStation 4'
 sku: 'B07XGDYVJK-it'
 tags: [  ]

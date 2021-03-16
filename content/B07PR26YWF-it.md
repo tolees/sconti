@@ -5,7 +5,7 @@ date: 2020-09-30 11:10:52
 image: 'https://m.media-amazon.com/images/I/31S-t5pA3ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR26YWF-it Lark & Ro Stretch Poplin Shirt Dress-Shirts Cruz V2 Fresh...'
 sku: 'B07PR26YWF-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 10:15:18
 image: 'https://m.media-amazon.com/images/I/51Q3fXHpihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SFJTCX-it TZAMLI - Scarpiera con 10 Ganci in Metallo per Closet Pantry'
 sku: 'B083SFJTCX-it'
 tags: [  ]

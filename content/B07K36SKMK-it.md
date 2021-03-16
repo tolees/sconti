@@ -5,7 +5,7 @@ date: 2020-10-07 09:29:49
 image: 'https://m.media-amazon.com/images/I/51b5ij0AGXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K36SKMK-it Durex Contatto Comfort Preservativi Sottili ad Alta...'
 sku: 'B07K36SKMK-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 10:43:12
 image: 'https://m.media-amazon.com/images/I/41Wb8ojor1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QAKTXK-it Adidas Parma 16 SHO Pantaloncini Uomo Giallo Yellow/Black...'
 sku: 'B016QAKTXK-it'
 tags: [  ]

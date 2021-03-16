@@ -5,7 +5,7 @@ date: 2020-10-07 06:54:46
 image: 'https://m.media-amazon.com/images/I/31pmRG4OJxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT4N11S-it Razer Mamba Wireless Mouse da Gaming Nero'
 sku: 'B07GT4N11S-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 17:50:03
 image: 'https://m.media-amazon.com/images/I/51Dei3ld7rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z69CZLT-it Pennelli Trucco oro Rosa 18 Pezzi Pennelli Trucco Premium...'
 sku: 'B07Z69CZLT-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 05:59:01
 image: 'https://m.media-amazon.com/images/I/411dPFJH-AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CZUVM36-it American Tourister - Funshine Spinner Bagaglio a mano...'
 sku: 'B01CZUVM36-it'
 tags: [  ]

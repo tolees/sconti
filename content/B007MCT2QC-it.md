@@ -5,7 +5,7 @@ date: 2020-09-14 06:53:05
 image: 'https://m.media-amazon.com/images/I/518xh2BBk+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007MCT2QC-it AIA Wudy Classico 3 Wurstel di Pollo e Tacchino 250 gr'
 sku: 'B007MCT2QC-it'
 tags: [  ]

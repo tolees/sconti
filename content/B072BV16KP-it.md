@@ -5,7 +5,7 @@ date: 2020-09-15 12:33:17
 image: 'https://m.media-amazon.com/images/I/51fGiKNNywL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BV16KP-it Columbia Boubioz Giacche e Maglioni in Pile Uomo Grigio...'
 sku: 'B072BV16KP-it'
 tags: [  ]

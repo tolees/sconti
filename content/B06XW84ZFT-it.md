@@ -5,7 +5,7 @@ date: 2020-08-05 16:05:28
 image: 'https://m.media-amazon.com/images/I/41W48mkcrYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XW84ZFT-it LE 15W Plafoniera LED Lampada da Soffitto LED 1400lm...'
 sku: 'B06XW84ZFT-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 17:50:24
 image: 'https://m.media-amazon.com/images/I/414QNjkCgxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001MZWNWK-it Ferplast Cuccia in Plastica per Cani e Gatti SIESTA DELUXE...'
 sku: 'B001MZWNWK-it'
 tags: [  ]

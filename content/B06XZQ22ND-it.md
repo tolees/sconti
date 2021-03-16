@@ -5,7 +5,7 @@ date: 2020-08-31 17:43:36
 image: 'https://m.media-amazon.com/images/I/41yid9amjCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XZQ22ND-it Tognana Mythos Batteria 9 Pezzi Alluminio Nero 24 cm'
 sku: 'B06XZQ22ND-it'
 tags: [  ]

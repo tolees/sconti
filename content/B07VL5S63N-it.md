@@ -5,7 +5,7 @@ date: 2020-09-04 06:27:29
 image: 'https://m.media-amazon.com/images/I/51R5nC2E1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VL5S63N-it YAMAMAY® Costume Push Push up Tinta Unita Mare Donna con...'
 sku: 'B07VL5S63N-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 23:49:53
 image: 'https://m.media-amazon.com/images/I/41haQ7GLIEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZ43WW9-it Elyco Wireless Controller per Nintendo Switch Bluetooth...'
 sku: 'B08CZ43WW9-it'
 tags: [  ]

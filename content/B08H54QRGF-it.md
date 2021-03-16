@@ -5,7 +5,7 @@ date: 2020-09-08 17:46:35
 image: 'https://m.media-amazon.com/images/I/41OiOSQpe+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H54QRGF-it MMLsure 6 Pezzi indossabili all Interno e all Esterno 6...'
 sku: 'B08H54QRGF-it'
 tags: [  ]

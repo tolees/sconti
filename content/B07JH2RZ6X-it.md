@@ -5,7 +5,7 @@ date: 2020-08-18 17:44:29
 image: 'https://m.media-amazon.com/images/I/31dame8epKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH2RZ6X-it PUMA Carina L Scarpe da Ginnastica Donna Bianco White...'
 sku: 'B07JH2RZ6X-it'
 tags: [  ]

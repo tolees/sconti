@@ -5,7 +5,7 @@ date: 2020-09-25 06:49:43
 image: 'https://m.media-amazon.com/images/I/41W8l5WqDLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ29NSG-it Sylvanian Families - 5324 - Pizzeria'
 sku: 'B07MQ29NSG-it'
 tags: [  ]

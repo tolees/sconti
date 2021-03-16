@@ -5,7 +5,7 @@ date: 2020-09-29 20:18:20
 image: 'https://m.media-amazon.com/images/I/3108lPXRybL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLJDB9-it Levi s Relaxed Graphic Tee T-Shirt Bianco 90 s Serif Logo...'
 sku: 'B07RZLJDB9-it'
 tags: [  ]

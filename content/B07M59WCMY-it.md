@@ -5,7 +5,7 @@ date: 2020-08-24 16:18:21
 image: 'https://m.media-amazon.com/images/I/51T-zh+WOmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M59WCMY-it Disney Frozen 2 - Castello di Arendelle Pieghevole Casa...'
 sku: 'B07M59WCMY-it'
 tags: [  ]

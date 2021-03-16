@@ -5,7 +5,7 @@ date: 2020-07-18 10:38:04
 image: 'https://m.media-amazon.com/images/I/41EuWqI5AtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084KBCQFS-it Motorola Moto G8 Power Smartphone Batteria 5000 mAh...'
 sku: 'B084KBCQFS-it'
 tags: [  ]

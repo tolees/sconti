@@ -5,7 +5,7 @@ date: 2020-10-04 13:54:36
 image: 'https://m.media-amazon.com/images/I/21JqKcrm2ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2XFG2X-it Cecotec - Bake&Toast Forno elettrico da tavolo capacità di...'
 sku: 'B07C2XFG2X-it'
 tags: [  ]

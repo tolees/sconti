@@ -5,7 +5,7 @@ date: 2020-09-18 17:28:10
 image: 'https://m.media-amazon.com/images/I/31dB529+laL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLXUIPM-it Gillette Series - Gel da barba per pelli sensibili 200 ml...'
 sku: 'B01KLXUIPM-it'
 tags: [  ]

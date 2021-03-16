@@ -5,7 +5,7 @@ date: 2020-07-23 14:01:41
 image: 'https://m.media-amazon.com/images/I/515H0DTl01L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5M6L1C-it Tester di Rete e Cavi Telefonici Tacklife CT03 Rilevatore...'
 sku: 'B07R5M6L1C-it'
 tags: [  ]

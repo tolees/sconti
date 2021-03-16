@@ -5,7 +5,7 @@ date: 2020-08-03 18:42:26
 image: 'https://m.media-amazon.com/images/I/41-EUB0pXhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VR3XRHX-it Tommy Hilfiger TH Ess Skinny Rib Tee LS Maglia a Maniche...'
 sku: 'B07VR3XRHX-it'
 tags: [  ]

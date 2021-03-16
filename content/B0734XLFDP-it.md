@@ -5,7 +5,7 @@ date: 2020-09-05 07:48:08
 image: 'https://m.media-amazon.com/images/I/51F8gTjSTAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0734XLFDP-it Guanti usa e getta in plastica 100 pezzi per uso...'
 sku: 'B0734XLFDP-it'
 tags: [  ]

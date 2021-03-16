@@ -5,7 +5,7 @@ date: 2020-08-20 06:05:10
 image: 'https://m.media-amazon.com/images/I/41ervVdQC3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083B8TB9K-it Aigostar Diane 32QYD – Asciugacapelli professionale 1800...'
 sku: 'B083B8TB9K-it'
 tags: [  ]

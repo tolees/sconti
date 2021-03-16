@@ -5,7 +5,7 @@ date: 2020-10-10 23:25:39
 image: 'https://m.media-amazon.com/images/I/41pghLFps9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FT7RQF-it Moschino Donna Borsa Nero MOD. MOS4085'
 sku: 'B082FT7RQF-it'
 tags: [  ]

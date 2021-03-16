@@ -5,7 +5,7 @@ date: 2020-10-06 06:28:24
 image: 'https://m.media-amazon.com/images/I/51hzxvEr69L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FXRXSKH-it DURHAND 44pz Contenitore Portautensile scatole regolabili...'
 sku: 'B08FXRXSKH-it'
 tags: [  ]

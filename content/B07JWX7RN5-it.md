@@ -5,7 +5,7 @@ date: 2020-09-28 12:21:26
 image: 'https://m.media-amazon.com/images/I/31LZF54bnuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWX7RN5-it Lacoste Th3377 T-Shirt Bianco Blanc/Noir Au8 Medium Taglia...'
 sku: 'B07JWX7RN5-it'
 tags: [  ]

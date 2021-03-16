@@ -5,7 +5,7 @@ date: 2020-08-05 06:08:06
 image: 'https://m.media-amazon.com/images/I/515wp7XgzHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFYK7ND-it Tablet 10 Pollici con Wifi Offerte RAM da 3GB 32GB ROM...'
 sku: 'B07YFYK7ND-it'
 tags: [  ]

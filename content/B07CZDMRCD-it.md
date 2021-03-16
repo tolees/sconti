@@ -5,7 +5,7 @@ date: 2020-09-01 05:44:46
 image: 'https://m.media-amazon.com/images/I/41dQiMa5V4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZDMRCD-it PUMA BASKET HEART PATENT WN S Sneakers Donna Grigio IRON...'
 sku: 'B07CZDMRCD-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 06:21:50
 image: 'https://m.media-amazon.com/images/I/31HfXWTiE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK98LL6-it riverso - Pantaloncini Cargo da Uomo RIVAnton con Cintura...'
 sku: 'B07RK98LL6-it'
 tags: [  ]

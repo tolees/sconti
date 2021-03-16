@@ -5,7 +5,7 @@ date: 2020-10-04 12:56:53
 image: 'https://m.media-amazon.com/images/I/513ZN8NZAUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NIOFWS-it Paderno 11161-28 Coperchio in Acciaio Inox 28 cm'
 sku: 'B000NIOFWS-it'
 tags: [  ]

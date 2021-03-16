@@ -5,7 +5,7 @@ date: 2020-07-21 18:15:34
 image: 'https://m.media-amazon.com/images/I/31T2fN5a7CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KKYCGK-it Ticpods 2 Auricolari Wireless Rilevazione nell’Orecchio...'
 sku: 'B082KKYCGK-it'
 tags: [  ]

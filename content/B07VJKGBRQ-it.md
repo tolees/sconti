@@ -5,7 +5,7 @@ date: 2020-08-21 12:53:45
 image: 'https://m.media-amazon.com/images/I/31bzqpVgvTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJKGBRQ-it Calvin Klein 3p Trunk Boxer Nero B-Alligator/Grey...'
 sku: 'B07VJKGBRQ-it'
 tags: [  ]

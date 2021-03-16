@@ -5,7 +5,7 @@ date: 2020-09-25 14:40:50
 image: 'https://m.media-amazon.com/images/I/513xDCVbsPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H6KX1V4-it Echo 4ª generazione Bianco ghiaccio + Philips Hue White...'
 sku: 'B08H6KX1V4-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 11:56:27
 image: 'https://m.media-amazon.com/images/I/41wXaFYB3SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB1B4T3-it AUTO HIGH - Coprisedili Universali per Auto Set Completo...'
 sku: 'B07HB1B4T3-it'
 tags: [  ]

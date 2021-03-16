@@ -5,7 +5,7 @@ date: 2020-08-25 18:45:48
 image: 'https://m.media-amazon.com/images/I/41pBrOw5OZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KY834KG-it Eastpak Rusher Borsa A Tracolla 23 cm Verde Crafty Moss'
 sku: 'B07KY834KG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 10:02:22
 image: 'https://m.media-amazon.com/images/I/51gTaDmJ2aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWCJ341-it Zaino Donna COOFIT Borsa Zainetto Donna Universita...'
 sku: 'B07RWCJ341-it'
 tags: [  ]

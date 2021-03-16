@@ -5,7 +5,7 @@ date: 2020-08-18 04:39:47
 image: 'https://m.media-amazon.com/images/I/515W2XVik4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZ9QVT4-it UniqueMe [3 Pezzi] Vetro Temperato per Xiaomi Redmi 9...'
 sku: 'B08CZ9QVT4-it'
 tags: [  ]

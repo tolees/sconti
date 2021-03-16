@@ -5,7 +5,7 @@ date: 2020-09-23 09:12:13
 image: 'https://m.media-amazon.com/images/I/319emt2hUuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VSV1KX8-it Hoover La71 La10011 Lander - Aspirapolvere a Traino Senza...'
 sku: 'B06VSV1KX8-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 01:19:28
 image: 'https://m.media-amazon.com/images/I/41o8oQGo60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMPWY4-it Levi s 502 Regular Taper Jeans Blu Stonewash Stretch T2...'
 sku: 'B07RYMPWY4-it'
 tags: [  ]

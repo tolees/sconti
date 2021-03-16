@@ -5,7 +5,7 @@ date: 2020-09-30 12:38:07
 image: 'https://m.media-amazon.com/images/I/51YbClvgL4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXGB1GQ-it DEIK Frullatore Blender 6 In 1 con 3 Bottiglie Portatili...'
 sku: 'B07BXGB1GQ-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 16:03:39
 image: 'https://m.media-amazon.com/images/I/411TpcPeJdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG6Z71S-it PUMA Ralph Sampson Lo Sneakers Unisex-Adulto Nero Schwarz...'
 sku: 'B07KG6Z71S-it'
 tags: [  ]

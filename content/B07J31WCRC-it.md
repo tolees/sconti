@@ -5,7 +5,7 @@ date: 2020-10-03 11:26:23
 image: 'https://m.media-amazon.com/images/I/41m7XNq3t2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J31WCRC-it Under Armour Undeniable Duffel 4.0 LG Borsa Unisex Blu...'
 sku: 'B07J31WCRC-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 13:29:58
 image: 'https://m.media-amazon.com/images/I/313-GVuY-sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJXXJKM-it Lacoste L1230 Polo Blu Cuba Aaf Medium Taglia Unica: 4 Uomo'
 sku: 'B07TJXXJKM-it'
 tags: [  ]

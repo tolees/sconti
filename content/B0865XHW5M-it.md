@@ -5,7 +5,7 @@ date: 2020-08-21 04:20:36
 image: 'https://m.media-amazon.com/images/I/51RKebfJsOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0865XHW5M-it MMCRRX M.2 Nvme SSD Ultraspeed Adapter Pcie'
 sku: 'B0865XHW5M-it'
 tags: [  ]

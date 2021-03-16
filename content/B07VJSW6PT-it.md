@@ -5,7 +5,7 @@ date: 2020-08-20 15:23:52
 image: 'https://m.media-amazon.com/images/I/312uMHLzeCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJSW6PT-it Desigual Mone azabache Mini Zip Portafoglio da donna...'
 sku: 'B07VJSW6PT-it'
 tags: [  ]

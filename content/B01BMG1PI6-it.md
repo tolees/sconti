@@ -5,7 +5,7 @@ date: 2020-08-10 15:53:26
 image: 'https://m.media-amazon.com/images/I/410hfosSEoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BMG1PI6-it Casio Orologio Analogico Quarzo Uomo con Cinturino in...'
 sku: 'B01BMG1PI6-it'
 tags: [  ]

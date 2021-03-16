@@ -5,7 +5,7 @@ date: 2020-10-12 16:01:26
 image: 'https://m.media-amazon.com/images/I/418g6Kj-VmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FDLH4TP-it Cuffie Bluetooth Sport Auricolari Bluetooth 5.0 Auricolari...'
 sku: 'B08FDLH4TP-it'
 tags: [  ]

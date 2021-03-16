@@ -5,7 +5,7 @@ date: 2020-09-16 02:25:25
 image: 'https://m.media-amazon.com/images/I/61c516aZhBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VG8Y9C7-it eFootball PES 2020 - Playstation 4 [Versione EU Multilingua]'
 sku: 'B07VG8Y9C7-it'
 tags: [  ]

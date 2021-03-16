@@ -5,7 +5,7 @@ date: 2020-08-03 15:05:51
 image: 'https://m.media-amazon.com/images/I/41xkUpevxIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4ZXZX5-it Philips 276E9QDSB Monitor Gaming 27" LED IPS Freesync FHD...'
 sku: 'B07B4ZXZX5-it'
 tags: [  ]

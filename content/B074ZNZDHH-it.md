@@ -5,7 +5,7 @@ date: 2020-10-02 20:01:32
 image: 'https://m.media-amazon.com/images/I/41FpqteCKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZNZDHH-it Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Giacca Nero...'
 sku: 'B074ZNZDHH-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 14:10:54
 image: 'https://m.media-amazon.com/images/I/41IEQYtu0TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6JK2FB-it Russell Hobbs Bicchiere in Vetro Frullatore Professionale...'
 sku: 'B07W6JK2FB-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 15:44:28
 image: 'https://m.media-amazon.com/images/I/41uH+4c8+CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGLFT9T-it Skechers DARLOW REMEGO Sneaker Uomo Blu Denim Canvas den...'
 sku: 'B07XGLFT9T-it'
 tags: [  ]

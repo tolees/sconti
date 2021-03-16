@@ -5,7 +5,7 @@ date: 2020-08-28 18:30:35
 image: 'https://m.media-amazon.com/images/I/41eFMKlkMCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KHVDCF3-it ALLPOWERS Caricabatterie Solare 24000mAh Solare Powerbank...'
 sku: 'B07KHVDCF3-it'
 tags: [  ]

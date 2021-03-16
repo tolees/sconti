@@ -5,7 +5,7 @@ date: 2020-08-24 13:21:04
 image: 'https://m.media-amazon.com/images/I/31rdqtwMVtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQVXQ77-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini Nero PVH...'
 sku: 'B07VQVXQ77-it'
 tags: [  ]

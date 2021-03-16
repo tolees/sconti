@@ -5,7 +5,7 @@ date: 2020-10-09 03:53:12
 image: 'https://m.media-amazon.com/images/I/51t3qyHSjBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C7QSI1S-it Rapid 40107334 Set di ugelli con Le incollatrici 240 V Blu...'
 sku: 'B00C7QSI1S-it'
 tags: [  ]

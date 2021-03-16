@@ -5,7 +5,7 @@ date: 2020-10-03 07:02:49
 image: 'https://m.media-amazon.com/images/I/411y1wBQsSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JDCC86-it Barbie Magia delle Feste 2018 Bambola Bionda da...'
 sku: 'B079JDCC86-it'
 tags: [  ]

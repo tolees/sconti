@@ -5,7 +5,7 @@ date: 2020-10-07 09:49:07
 image: 'https://m.media-amazon.com/images/I/51m9z+vk3fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ALKLR2-it Learning Resources Playfoam Combo Pack of 8'
 sku: 'B004ALKLR2-it'
 tags: [  ]

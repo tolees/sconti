@@ -5,7 +5,7 @@ date: 2020-09-29 09:03:49
 image: 'https://m.media-amazon.com/images/I/413psjCvyVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KWWYJXO-it Philips AC2887/10 Purificatore d Aria con Tecnologia...'
 sku: 'B01KWWYJXO-it'
 tags: [  ]

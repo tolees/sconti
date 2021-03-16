@@ -5,7 +5,7 @@ date: 2020-08-08 05:18:46
 image: 'https://m.media-amazon.com/images/I/41mgauRZXKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDK41VS-it Auricolari Bluetooth 5.0 Cuffie Wireless In Ear con Mic-...'
 sku: 'B08CDK41VS-it'
 tags: [  ]

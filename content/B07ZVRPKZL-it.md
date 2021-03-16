@@ -5,7 +5,7 @@ date: 2020-09-01 07:36:49
 image: 'https://m.media-amazon.com/images/I/51xAw27AeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVRPKZL-it G-Color Supporto per PC Portatile Angolazione Regolabile...'
 sku: 'B07ZVRPKZL-it'
 tags: [  ]

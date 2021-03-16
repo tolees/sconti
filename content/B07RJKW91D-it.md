@@ -5,7 +5,7 @@ date: 2020-09-04 07:50:00
 image: 'https://m.media-amazon.com/images/I/41abwx2EEJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJKW91D-it Tommy Hilfiger Colorblocked Hooded Zip Through Felpa...'
 sku: 'B07RJKW91D-it'
 tags: [  ]

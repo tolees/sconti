@@ -5,7 +5,7 @@ date: 2020-09-17 13:07:40
 image: 'https://m.media-amazon.com/images/I/51cn3DXDZ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYP4VD6-it Act Omega 3 con 1 gr Olio di Pesce - 60 Perle'
 sku: 'B07MYP4VD6-it'
 tags: [  ]

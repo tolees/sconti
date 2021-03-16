@@ -5,7 +5,7 @@ date: 2020-10-05 04:08:38
 image: 'https://m.media-amazon.com/images/I/41JUiFjwxxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077B63VMG-it Calvin Klein 3p Low Rise Trunk Boxer Nero Black W. Black...'
 sku: 'B077B63VMG-it'
 tags: [  ]

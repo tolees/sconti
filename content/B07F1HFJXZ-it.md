@@ -5,7 +5,7 @@ date: 2020-08-26 19:52:53
 image: 'https://m.media-amazon.com/images/I/31TjOpVOMyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1HFJXZ-it Havaianas Slim Crystal Glamour SW Infradito Donna Bianco...'
 sku: 'B07F1HFJXZ-it'
 tags: [  ]

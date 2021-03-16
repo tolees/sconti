@@ -5,7 +5,7 @@ date: 2020-09-30 20:01:46
 image: 'https://m.media-amazon.com/images/I/51XNWIVcRaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTH9WQ4-it SGILE Macchina Telecomandata per Bambini 4WD Auto...'
 sku: 'B08BTH9WQ4-it'
 tags: [  ]

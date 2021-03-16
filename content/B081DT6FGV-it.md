@@ -5,7 +5,7 @@ date: 2020-07-24 12:34:46
 image: 'https://m.media-amazon.com/images/I/41n7M4patxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DT6FGV-it Dalmo Soffione Doccia Ad Alta Pressione Soffione Per...'
 sku: 'B081DT6FGV-it'
 tags: [  ]

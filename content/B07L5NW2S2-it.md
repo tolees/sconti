@@ -5,7 +5,7 @@ date: 2020-10-01 11:08:51
 image: 'https://m.media-amazon.com/images/I/51Lvrmv4j1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5NW2S2-it Timberland NEWBURYPORT Sacca 38 cm 15 liters Nero Black'
 sku: 'B07L5NW2S2-it'
 tags: [  ]

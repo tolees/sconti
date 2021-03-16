@@ -5,7 +5,7 @@ date: 2020-08-25 09:39:00
 image: 'https://m.media-amazon.com/images/I/31y5GZR4DeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LH37K3Y-it Intex 64765 Materasso Matrimoniale Classic Downy...'
 sku: 'B07LH37K3Y-it'
 tags: [  ]

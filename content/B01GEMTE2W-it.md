@@ -5,7 +5,7 @@ date: 2020-10-01 08:58:15
 image: 'https://m.media-amazon.com/images/I/51CRKNburfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GEMTE2W-it Pan di Stelle Torta Pronta da Gustare al Gusto di...'
 sku: 'B01GEMTE2W-it'
 tags: [  ]

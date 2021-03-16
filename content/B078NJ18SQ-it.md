@@ -5,7 +5,7 @@ date: 2020-10-02 18:54:55
 image: 'https://m.media-amazon.com/images/I/410B0ddBeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NJ18SQ-it Puma Liga Casuals Hoody Felpa con Cappuccio Uomo Blu...'
 sku: 'B078NJ18SQ-it'
 tags: [  ]

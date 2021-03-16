@@ -5,7 +5,7 @@ date: 2020-09-17 11:08:56
 image: 'https://m.media-amazon.com/images/I/21FzsQnn4VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WI75MEW-it ArtWay - Piegatore in Osso Vero - per Piegare con...'
 sku: 'B00WI75MEW-it'
 tags: [  ]

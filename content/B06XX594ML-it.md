@@ -5,7 +5,7 @@ date: 2020-08-29 11:56:30
 image: 'https://m.media-amazon.com/images/I/41I9H5draFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX594ML-it New Balance 574v2 Core Scarpa da Tennis Donna Blu Navy 40 EU'
 sku: 'B06XX594ML-it'
 tags: [  ]

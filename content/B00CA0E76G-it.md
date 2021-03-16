@@ -5,7 +5,7 @@ date: 2020-09-13 11:02:31
 image: 'https://m.media-amazon.com/images/I/31bOz06WqpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CA0E76G-it Superga 2750-cotu Classic Sneaker Uomo Nero Full Black...'
 sku: 'B00CA0E76G-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 19:09:01
 image: 'https://m.media-amazon.com/images/I/41k26gXY0cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MQD4L4-it Puma Smash V2 Scape per Sport Outdoor Unisex - Adulto Nero...'
 sku: 'B077MQD4L4-it'
 tags: [  ]

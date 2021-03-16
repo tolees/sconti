@@ -5,7 +5,7 @@ date: 2020-09-25 06:43:45
 image: 'https://m.media-amazon.com/images/I/51QD-VOEVBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BC68NQS-it Lego Star Wars: Il Risveglio della Forza - PlayStation 3'
 sku: 'B01BC68NQS-it'
 tags: [  ]

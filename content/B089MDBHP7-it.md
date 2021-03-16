@@ -5,7 +5,7 @@ date: 2020-09-10 10:43:01
 image: 'https://m.media-amazon.com/images/I/41KJf-zlauL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089MDBHP7-it Motorola Moto E6S Display MaxVision 6 1" Processore Octa-...'
 sku: 'B089MDBHP7-it'
 tags: [  ]

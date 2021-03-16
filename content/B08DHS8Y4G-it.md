@@ -5,7 +5,7 @@ date: 2020-09-11 01:05:10
 image: 'https://m.media-amazon.com/images/I/51yMtJP4oyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHS8Y4G-it Smartphone Offerta 4G DOOGEE N20 Pro Cellulari Offerte...'
 sku: 'B08DHS8Y4G-it'
 tags: [  ]

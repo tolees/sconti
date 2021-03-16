@@ -5,7 +5,7 @@ date: 2020-08-30 17:39:06
 image: 'https://m.media-amazon.com/images/I/5149CtxO6vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B1SYCBI-it Brandit Savage Vintage Shorts Pantaloncini Schwarz M Uomo'
 sku: 'B00B1SYCBI-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 14:38:33
 image: 'https://m.media-amazon.com/images/I/31DqWF+XtEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009RJLWR0-it Max Factor Facefinity All Day Flawless 3 in 1 Fondotinta...'
 sku: 'B009RJLWR0-it'
 tags: [  ]

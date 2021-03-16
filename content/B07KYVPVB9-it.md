@@ -5,7 +5,7 @@ date: 2020-09-22 06:25:20
 image: 'https://m.media-amazon.com/images/I/41LfQDTqnwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYVPVB9-it Outsunny Casetta Porta Utensili Porta Attrezzi da Giardino...'
 sku: 'B07KYVPVB9-it'
 tags: [  ]

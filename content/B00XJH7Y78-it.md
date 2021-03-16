@@ -5,7 +5,7 @@ date: 2020-10-11 06:34:50
 image: 'https://m.media-amazon.com/images/I/31eEu-Ly78L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XJH7Y78-it Panasonic KX-TGFA30 Telefoni domestici'
 sku: 'B00XJH7Y78-it'
 tags: [  ]

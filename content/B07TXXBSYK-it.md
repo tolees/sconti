@@ -5,7 +5,7 @@ date: 2020-10-08 09:28:58
 image: 'https://m.media-amazon.com/images/I/41LSlknn0EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXXBSYK-it Wrangler Bomber Jacket Beige Sand 58N Small Uomo'
 sku: 'B07TXXBSYK-it'
 tags: [  ]

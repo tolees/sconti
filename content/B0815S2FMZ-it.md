@@ -5,7 +5,7 @@ date: 2020-07-20 07:59:14
 image: 'https://m.media-amazon.com/images/I/41OkhqwuycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0815S2FMZ-it GERYON Macchina Sottovuoto per Alimenti Sigillatore a...'
 sku: 'B0815S2FMZ-it'
 tags: [  ]

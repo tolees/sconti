@@ -5,7 +5,7 @@ date: 2020-09-20 13:01:44
 image: 'https://m.media-amazon.com/images/I/41Cy6igjrmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084S8WTY3-it Dash Liquido 50 lavaggi Detersivo Lavatrice Lavanda...'
 sku: 'B084S8WTY3-it'
 tags: [  ]

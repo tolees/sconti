@@ -5,7 +5,7 @@ date: 2020-09-02 16:11:48
 image: 'https://m.media-amazon.com/images/I/41ohOEUP7rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083B7VQJR-it Grsta Borraccia Termica Isolante in Acciaio Inox per Acqua...'
 sku: 'B083B7VQJR-it'
 tags: [  ]

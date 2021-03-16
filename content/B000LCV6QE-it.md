@@ -5,7 +5,7 @@ date: 2020-08-04 18:50:46
 image: 'https://m.media-amazon.com/images/I/41WdVCZ5zbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LCV6QE-it Casio Orologio Digitale Quarzo Uomo con Cinturino in...'
 sku: 'B000LCV6QE-it'
 tags: [  ]

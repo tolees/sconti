@@ -5,7 +5,7 @@ date: 2020-09-02 15:01:19
 image: 'https://m.media-amazon.com/images/I/41rQSBIY6GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWV18FS-it Geox D LEELU E Scarpe da Ginnastica Basse Donna Bianco...'
 sku: 'B07SWV18FS-it'
 tags: [  ]

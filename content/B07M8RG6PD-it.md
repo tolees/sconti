@@ -5,7 +5,7 @@ date: 2020-09-28 09:18:35
 image: 'https://m.media-amazon.com/images/I/41x5DJdt8JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8RG6PD-it Hasbro Spider-Man Marvel - Far From Home Titan Hero Power...'
 sku: 'B07M8RG6PD-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 10:40:43
 image: 'https://m.media-amazon.com/images/I/418e5aUJ98L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073BVR44C-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Black...'
 sku: 'B073BVR44C-it'
 tags: [  ]

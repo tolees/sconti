@@ -5,7 +5,7 @@ date: 2020-08-26 16:39:59
 image: 'https://m.media-amazon.com/images/I/41ZVQlJPT3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TT4QHR-it Massaggiatore Cervicale cervicale massaggiatore homedics...'
 sku: 'B088TT4QHR-it'
 tags: [  ]

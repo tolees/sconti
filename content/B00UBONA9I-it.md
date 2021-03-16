@@ -5,7 +5,7 @@ date: 2020-09-05 09:25:03
 image: 'https://m.media-amazon.com/images/I/315ibfZYlGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBONA9I-it Tommy Hilfiger Cotton CN Tee SS Icon Maglietta Bianco...'
 sku: 'B00UBONA9I-it'
 tags: [  ]

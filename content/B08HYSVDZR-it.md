@@ -5,7 +5,7 @@ date: 2020-09-22 15:19:03
 image: 'https://m.media-amazon.com/images/I/4114jdwCo7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HYSVDZR-it Entweg Termometro Termometro Frontale Senza Contatto...'
 sku: 'B08HYSVDZR-it'
 tags: [  ]

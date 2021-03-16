@@ -5,7 +5,7 @@ date: 2020-09-22 20:27:17
 image: 'https://m.media-amazon.com/images/I/51l7SJl0L0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSGZY8T-it Matrix Reloaded 4K Ultra HD + 2 Blu-Ray'
 sku: 'B07HSGZY8T-it'
 tags: [  ]

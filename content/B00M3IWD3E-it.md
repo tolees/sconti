@@ -5,7 +5,7 @@ date: 2020-10-09 00:12:22
 image: 'https://m.media-amazon.com/images/I/41NJ7OY99JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M3IWD3E-it Nixon Analogico Quarzo Orologio da Polso A045-1920-00'
 sku: 'B00M3IWD3E-it'
 tags: [  ]

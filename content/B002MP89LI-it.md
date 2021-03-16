@@ -5,7 +5,7 @@ date: 2020-07-19 07:36:08
 image: 'https://m.media-amazon.com/images/I/51ympZ2ObxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002MP89LI-it Gillette Mach 3 Set Di Lame Di Ricambio Per Rasoio - 20 Gr'
 sku: 'B002MP89LI-it'
 tags: [  ]

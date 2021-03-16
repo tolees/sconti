@@ -5,7 +5,7 @@ date: 2020-08-10 00:02:27
 image: 'https://m.media-amazon.com/images/I/511SC+UT1KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5FMQ79-it Samsung UE49RU8000U Smart TV 4K Ultra HD 49" Wi-Fi...'
 sku: 'B07Q5FMQ79-it'
 tags: [  ]

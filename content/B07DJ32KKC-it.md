@@ -5,7 +5,7 @@ date: 2020-08-07 17:26:20
 image: 'https://m.media-amazon.com/images/I/51cD6zxY2TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ32KKC-it Set da Ping Pong Set Racchette Ping Pong 2 Racchette Ping...'
 sku: 'B07DJ32KKC-it'
 tags: [  ]

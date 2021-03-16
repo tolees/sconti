@@ -5,7 +5,7 @@ date: 2020-08-10 13:20:08
 image: 'https://m.media-amazon.com/images/I/41BCjQ7MgAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S83K7FG-it ATMOKO Massaggiatore Plantare Impastamento Shiatu Profondo...'
 sku: 'B07S83K7FG-it'
 tags: [  ]

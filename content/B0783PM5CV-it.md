@@ -5,7 +5,7 @@ date: 2020-08-14 09:13:07
 image: 'https://m.media-amazon.com/images/I/41+BEP4zcuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0783PM5CV-it PUMA Smash Wns V2 L Scarpe da Ginnastica Donna Nero Black...'
 sku: 'B0783PM5CV-it'
 tags: [  ]

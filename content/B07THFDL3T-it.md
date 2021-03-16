@@ -5,7 +5,7 @@ date: 2020-07-30 07:56:32
 image: 'https://m.media-amazon.com/images/I/51tg-pwWsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THFDL3T-it YABER Avviatore Batteria per Moto/Auto 1000A 13800mAh...'
 sku: 'B07THFDL3T-it'
 tags: [  ]

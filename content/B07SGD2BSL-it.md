@@ -5,7 +5,7 @@ date: 2020-10-07 16:02:01
 image: 'https://m.media-amazon.com/images/I/41gJhnbSfAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGD2BSL-it Compressore Portatile per Auto Aria Compressa Pompa...'
 sku: 'B07SGD2BSL-it'
 tags: [  ]

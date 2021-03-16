@@ -5,7 +5,7 @@ date: 2020-08-31 17:20:03
 image: 'https://m.media-amazon.com/images/I/31jEOyCO3DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TLPH3R-it Epilatore Luce Pulsata 999 999 Flash IPL Apparecchi...'
 sku: 'B085TLPH3R-it'
 tags: [  ]

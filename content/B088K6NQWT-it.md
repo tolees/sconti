@@ -5,7 +5,7 @@ date: 2020-08-13 23:41:15
 image: 'https://m.media-amazon.com/images/I/41DXRiDZRZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088K6NQWT-it Controller per Nintendo Switch Pro Sendowtek Bluetooth...'
 sku: 'B088K6NQWT-it'
 tags: [  ]

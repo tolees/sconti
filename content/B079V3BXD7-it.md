@@ -5,7 +5,7 @@ date: 2020-08-23 22:35:02
 image: 'https://m.media-amazon.com/images/I/51CTBbU7OEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079V3BXD7-it CRAYOLA Washimals Set Attività per Colorare e Fare il...'
 sku: 'B079V3BXD7-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 12:10:44
 image: 'https://m.media-amazon.com/images/I/41-i1W6eODL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9CBA3L-it Lower East impermeable Uomo Nero Schwarz Large'
 sku: 'B01N9CBA3L-it'
 tags: [  ]

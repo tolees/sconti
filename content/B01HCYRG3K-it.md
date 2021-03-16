@@ -5,7 +5,7 @@ date: 2020-08-16 13:28:18
 image: 'https://m.media-amazon.com/images/I/41QaUfiaRtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HCYRG3K-it JACK & JONES Sense Trunks 3-Pack Boxer Multicolore...'
 sku: 'B01HCYRG3K-it'
 tags: [  ]

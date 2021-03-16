@@ -5,7 +5,7 @@ date: 2020-09-17 18:06:34
 image: 'https://m.media-amazon.com/images/I/41JoH8u6AYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHW4CVJ-it Desigual Bols stardust Durban - Borsa a tracolla da donna...'
 sku: 'B07VHW4CVJ-it'
 tags: [  ]

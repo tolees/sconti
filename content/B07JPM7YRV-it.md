@@ -5,7 +5,7 @@ date: 2020-10-08 12:18:08
 image: 'https://m.media-amazon.com/images/I/41px9bichTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPM7YRV-it adidas Tiro 19 Maglia da Allenamento Uomo Dark Blue/Bold...'
 sku: 'B07JPM7YRV-it'
 tags: [  ]

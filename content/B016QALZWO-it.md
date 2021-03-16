@@ -5,7 +5,7 @@ date: 2020-09-28 07:49:43
 image: 'https://m.media-amazon.com/images/I/31fnd4U5UsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QALZWO-it Adidas Parma 16 SHO Pantaloncini Uomo Nero Black/White M'
 sku: 'B016QALZWO-it'
 tags: [  ]

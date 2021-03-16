@@ -5,7 +5,7 @@ date: 2020-09-07 09:26:49
 image: 'https://m.media-amazon.com/images/I/51HD55Up9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S54F4ZF-it Diesel Umbx-damienthreepack Slip Multicolore Bright...'
 sku: 'B07S54F4ZF-it'
 tags: [  ]

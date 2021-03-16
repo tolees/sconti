@@ -5,7 +5,7 @@ date: 2020-10-06 06:55:38
 image: 'https://m.media-amazon.com/images/I/51wz4bRpO7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HFPP4Y-it Lenor Ammorbidente Lavanda & Camomilla 208 Lavaggi Maxi...'
 sku: 'B072HFPP4Y-it'
 tags: [  ]

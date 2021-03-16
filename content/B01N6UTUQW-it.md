@@ -5,7 +5,7 @@ date: 2020-09-22 20:30:41
 image: 'https://m.media-amazon.com/images/I/51vmmw-BMeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6UTUQW-it Sully 4K + Br + Dig.Copy'
 sku: 'B01N6UTUQW-it'
 tags: [  ]

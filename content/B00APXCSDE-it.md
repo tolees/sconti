@@ -5,7 +5,7 @@ date: 2020-09-16 05:53:36
 image: 'https://m.media-amazon.com/images/I/312vHxSQ8CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00APXCSDE-it Pentole Agnelli ALMA111B38 Padella Alta per Saltare Manico...'
 sku: 'B00APXCSDE-it'
 tags: [  ]

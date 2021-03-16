@@ -5,7 +5,7 @@ date: 2020-08-27 12:08:37
 image: 'https://m.media-amazon.com/images/I/41Cp+cyoqnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXXT7G1-it Pistola ad Aria Calda 2000W Ginour Pistola Termica...'
 sku: 'B07QXXT7G1-it'
 tags: [  ]

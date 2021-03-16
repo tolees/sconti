@@ -5,7 +5,7 @@ date: 2020-08-27 08:22:49
 image: 'https://m.media-amazon.com/images/I/41tQhZRFNgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XB761HW-it EasySMX ESM-9100-Gray Joystick controller con cavo...'
 sku: 'B06XB761HW-it'
 tags: [  ]

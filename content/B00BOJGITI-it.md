@@ -5,7 +5,7 @@ date: 2020-09-19 16:25:10
 image: 'https://m.media-amazon.com/images/I/419LTeyRH5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BOJGITI-it Burberry Weekend Edp 100 Ml'
 sku: 'B00BOJGITI-it'
 tags: [  ]

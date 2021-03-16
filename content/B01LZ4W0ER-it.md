@@ -5,7 +5,7 @@ date: 2020-07-19 05:19:56
 image: 'https://m.media-amazon.com/images/I/41ukD1hvryL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ4W0ER-it Barilla - Sugo Ragù alla Bolognese - Salsa Pronta al...'
 sku: 'B01LZ4W0ER-it'
 tags: [  ]

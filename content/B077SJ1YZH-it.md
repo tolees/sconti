@@ -5,7 +5,7 @@ date: 2020-09-04 15:52:47
 image: 'https://m.media-amazon.com/images/I/41cCMIgTfaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SJ1YZH-it Puma Liga Casuals Hoody Felpa con Cappuccio Uomo Rosso Red...'
 sku: 'B077SJ1YZH-it'
 tags: [  ]

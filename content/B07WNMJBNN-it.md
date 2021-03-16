@@ -5,7 +5,7 @@ date: 2020-09-24 08:40:17
 image: 'https://m.media-amazon.com/images/I/51OwxhQF6QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNMJBNN-it Weelth Tappetino per Mouse 800x400mm Sottomano da Ufficio...'
 sku: 'B07WNMJBNN-it'
 tags: [  ]

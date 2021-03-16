@@ -5,7 +5,7 @@ date: 2020-08-12 23:40:12
 image: 'https://m.media-amazon.com/images/I/51aIzPNX7qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYWGXG6-it WisFox Utensili Cucina Set Set di Utensili da Cucina in...'
 sku: 'B07MYWGXG6-it'
 tags: [  ]

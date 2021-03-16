@@ -5,7 +5,7 @@ date: 2020-08-09 08:50:59
 image: 'https://m.media-amazon.com/images/I/418VJyzI3QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5ERYEW-it De Longhi EDG 250.W Macchina per caffè Espresso e Altre...'
 sku: 'B00J5ERYEW-it'
 tags: [  ]

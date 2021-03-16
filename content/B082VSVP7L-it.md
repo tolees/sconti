@@ -5,7 +5,7 @@ date: 2020-08-22 10:04:41
 image: 'https://m.media-amazon.com/images/I/51qMi0gXUrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VSVP7L-it Maizena - Amido di Mais per Dolci Soffici e Leggeri - 250 g'
 sku: 'B082VSVP7L-it'
 tags: [  ]

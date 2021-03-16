@@ -5,7 +5,7 @@ date: 2020-09-16 13:46:28
 image: 'https://m.media-amazon.com/images/I/41diYD0f3VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QAKLII-it Adidas Parma 16 SHO Pantaloncini Uomo Blu Dark Blue/White M'
 sku: 'B016QAKLII-it'
 tags: [  ]

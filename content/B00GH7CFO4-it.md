@@ -5,7 +5,7 @@ date: 2020-09-11 08:30:21
 image: 'https://m.media-amazon.com/images/I/41-Lk9iL+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GH7CFO4-it Kleenex 8826 Scatole di fazzoletti ovali 10 scatole da 64...'
 sku: 'B00GH7CFO4-it'
 tags: [  ]

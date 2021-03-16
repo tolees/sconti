@@ -5,7 +5,7 @@ date: 2020-10-02 20:16:12
 image: 'https://m.media-amazon.com/images/I/31Di5TMYsZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZ4BW9H-it Hard Disk 1 TB Esterno Hard Disk Esterno USB 3.1 Type-C...'
 sku: 'B08HZ4BW9H-it'
 tags: [  ]

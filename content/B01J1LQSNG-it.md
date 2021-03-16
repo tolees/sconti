@@ -5,7 +5,7 @@ date: 2020-10-08 19:49:29
 image: 'https://m.media-amazon.com/images/I/41R5Ns+kP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J1LQSNG-it Crocs Crocband Kids Sandali con Cinturino alla Caviglia...'
 sku: 'B01J1LQSNG-it'
 tags: [  ]

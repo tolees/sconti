@@ -5,7 +5,7 @@ date: 2020-07-24 14:06:18
 image: 'https://m.media-amazon.com/images/I/512bO0vgAXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDN8GVM-it Body & Earth Set Crema Mani in 6 Pezzi Confezione Regalo...'
 sku: 'B07GDN8GVM-it'
 tags: [  ]

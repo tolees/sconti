@@ -5,7 +5,7 @@ date: 2020-07-27 22:26:32
 image: 'https://m.media-amazon.com/images/I/41Il6mJgF7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CBB4RLK-it Tau-Marin Spazzolino Professional 27 Medio Edizione...'
 sku: 'B08CBB4RLK-it'
 tags: [  ]

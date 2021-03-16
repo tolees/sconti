@@ -5,7 +5,7 @@ date: 2020-09-09 07:11:54
 image: 'https://m.media-amazon.com/images/I/41n3WMBkBAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W49FGYS-it Imetec Piuma Extreme++ SC3-600 Aspirapolvere con...'
 sku: 'B07W49FGYS-it'
 tags: [  ]

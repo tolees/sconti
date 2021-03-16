@@ -5,7 +5,7 @@ date: 2020-10-11 13:36:43
 image: 'https://m.media-amazon.com/images/I/51yP5U7LmtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PHBNH2-it Newdora Coperchi in Silicone Estensibile 13 Pezzi 7...'
 sku: 'B082PHBNH2-it'
 tags: [  ]

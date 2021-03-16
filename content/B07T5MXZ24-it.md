@@ -5,7 +5,7 @@ date: 2020-08-30 16:12:39
 image: 'https://m.media-amazon.com/images/I/313MEKTLvVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5MXZ24-it Geox U Nebula Y A Scarpe da Ginnastica Basse Uomo Blu Navy...'
 sku: 'B07T5MXZ24-it'
 tags: [  ]

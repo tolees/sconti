@@ -5,7 +5,7 @@ date: 2020-10-10 05:13:28
 image: 'https://m.media-amazon.com/images/I/31DzN9FQ2nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J2NYVXF-it Jvchengxi Custodia per Samsung Galaxy Buds Live Placcatura...'
 sku: 'B08J2NYVXF-it'
 tags: [  ]

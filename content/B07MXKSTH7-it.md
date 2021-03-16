@@ -5,7 +5,7 @@ date: 2020-10-03 19:15:14
 image: 'https://m.media-amazon.com/images/I/41uDvZ7EFTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXKSTH7-it Buffalo London 1339-14 2.0 V Scarpe da Ginnastica Donna...'
 sku: 'B07MXKSTH7-it'
 tags: [  ]

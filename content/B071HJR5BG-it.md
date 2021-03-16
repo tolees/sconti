@@ -5,7 +5,7 @@ date: 2020-07-29 09:50:26
 image: 'https://m.media-amazon.com/images/I/51009D76R-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HJR5BG-it Multimetro Digitale Classico Tacklife DM02A Multi Tester...'
 sku: 'B071HJR5BG-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 07:42:19
 image: 'https://m.media-amazon.com/images/I/51XSA9RP28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BDN2QP-it Vernel Supreme Rosa Romance Ammorbidente Concentrato...'
 sku: 'B081BDN2QP-it'
 tags: [  ]

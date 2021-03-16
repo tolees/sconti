@@ -5,7 +5,7 @@ date: 2020-09-23 21:48:23
 image: 'https://m.media-amazon.com/images/I/31tOPTthVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQYCGX7-it Apple Custodia folio in pelle per iPhone 11 Pro - Melanzana'
 sku: 'B07XQYCGX7-it'
 tags: [  ]

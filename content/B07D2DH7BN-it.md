@@ -5,7 +5,7 @@ date: 2020-09-16 07:20:37
 image: 'https://m.media-amazon.com/images/I/31J8lbhDCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2DH7BN-it È Pura - Maschera Salt Free Care - Trattamento...'
 sku: 'B07D2DH7BN-it'
 tags: [  ]

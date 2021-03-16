@@ -5,7 +5,7 @@ date: 2020-07-19 08:16:11
 image: 'https://m.media-amazon.com/images/I/41MnQX1D7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K19SP6G-it Supradyn Magnesio e Potassio - Integratore Multiminerali...'
 sku: 'B00K19SP6G-it'
 tags: [  ]

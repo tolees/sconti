@@ -5,7 +5,7 @@ date: 2020-10-09 04:46:59
 image: 'https://m.media-amazon.com/images/I/51FWNuJdtlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKJ14BY-it Navigare 324 Slip Uomo Multicolore...'
 sku: 'B00BKJ14BY-it'
 tags: [  ]

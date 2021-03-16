@@ -5,7 +5,7 @@ date: 2020-08-06 16:21:40
 image: 'https://m.media-amazon.com/images/I/41Iqr353UZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1YTW46-it Diadora - Sneakers Titan II per Uomo e Donna EU 40'
 sku: 'B07N1YTW46-it'
 tags: [  ]

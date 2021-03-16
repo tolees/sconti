@@ -5,7 +5,7 @@ date: 2020-08-28 10:36:48
 image: 'https://m.media-amazon.com/images/I/41indAXuaoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC4WC5Q-it Calvin Klein Nylon Harrington Giacca sportiva Nero Ck...'
 sku: 'B07VC4WC5Q-it'
 tags: [  ]

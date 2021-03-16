@@ -5,7 +5,7 @@ date: 2020-10-11 15:40:32
 image: 'https://m.media-amazon.com/images/I/41ecIW9PxjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FVJD8Z2-it AMANKA Luce Bici Luci LED per Bicicletta Ricaricabili USB...'
 sku: 'B07FVJD8Z2-it'
 tags: [  ]

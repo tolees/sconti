@@ -5,7 +5,7 @@ date: 2020-09-17 12:05:14
 image: 'https://m.media-amazon.com/images/I/51zEKZ3nJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CTH0A1Q-it Mattel W2085 Uno - Gioco di Carte Versione Standard'
 sku: 'B00CTH0A1Q-it'
 tags: [  ]

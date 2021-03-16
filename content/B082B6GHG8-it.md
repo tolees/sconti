@@ -5,7 +5,7 @@ date: 2020-09-14 06:24:18
 image: 'https://m.media-amazon.com/images/I/31Qq3MWrNjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082B6GHG8-it Brunello di Montalcino DOCG Collezione del Conte Villa da...'
 sku: 'B082B6GHG8-it'
 tags: [  ]

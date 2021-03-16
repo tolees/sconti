@@ -5,7 +5,7 @@ date: 2020-08-05 17:34:12
 image: 'https://m.media-amazon.com/images/I/51vLOFATVTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089K6YSYT-it ORICO Adattatore Trasparente Esterno M.2 Custodia USB3.1...'
 sku: 'B089K6YSYT-it'
 tags: [  ]

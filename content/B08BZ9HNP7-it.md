@@ -5,7 +5,7 @@ date: 2020-08-21 04:19:26
 image: 'https://m.media-amazon.com/images/I/313cIGGH3WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZ9HNP7-it Vansuny Ultra Slim Super Mini Portable SSD 1 TB 550 MB/s...'
 sku: 'B08BZ9HNP7-it'
 tags: [  ]

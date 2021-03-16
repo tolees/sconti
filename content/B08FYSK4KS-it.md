@@ -5,7 +5,7 @@ date: 2020-09-12 07:44:54
 image: 'https://m.media-amazon.com/images/I/51mCqjEA9wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FYSK4KS-it NGFF M.2 nVME - Scheda adattatore SSD per MacBook Air...'
 sku: 'B08FYSK4KS-it'
 tags: [  ]

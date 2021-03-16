@@ -5,7 +5,7 @@ date: 2020-10-02 16:27:30
 image: 'https://m.media-amazon.com/images/I/31u4ply9yaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFCPXH4-it Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9...'
 sku: 'B01MFCPXH4-it'
 tags: [  ]

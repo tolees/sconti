@@ -5,7 +5,7 @@ date: 2020-08-11 15:15:46
 image: 'https://m.media-amazon.com/images/I/51kdoaDdYuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721MMXN6-it Assassin S Creed Origins'
 sku: 'B0721MMXN6-it'
 tags: [  ]

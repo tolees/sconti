@@ -5,7 +5,7 @@ date: 2020-07-22 11:45:19
 image: 'https://m.media-amazon.com/images/I/51qsOVlUTYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ABJSODK-it Eridania Zucchero Tropical Bustine Gr500'
 sku: 'B00ABJSODK-it'
 tags: [  ]

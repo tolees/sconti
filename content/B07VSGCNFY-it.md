@@ -5,7 +5,7 @@ date: 2020-08-09 17:24:05
 image: 'https://m.media-amazon.com/images/I/51eCqLSpGOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSGCNFY-it Xbox One X - Bundle Gears of War 5 - Inclusi Gears of War...'
 sku: 'B07VSGCNFY-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 11:43:51
 image: 'https://m.media-amazon.com/images/I/31-p8GmEVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQN7TRQ-it Fossil Collana con Ciondolo da Donna Oro'
 sku: 'B07VQN7TRQ-it'
 tags: [  ]

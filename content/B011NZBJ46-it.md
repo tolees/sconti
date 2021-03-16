@@ -5,7 +5,7 @@ date: 2020-10-07 09:49:11
 image: 'https://m.media-amazon.com/images/I/41LOEG-O-cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011NZBJ46-it Ht25N Multimetro Digitale Multifunzione Com Hr0002'
 sku: 'B011NZBJ46-it'
 tags: [  ]

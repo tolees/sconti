@@ -5,7 +5,7 @@ date: 2020-10-01 02:03:51
 image: 'https://m.media-amazon.com/images/I/31I948RB7kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QW4QYFV-it Levi s Innovation Super Skinny Jeans Blu Globe Trotter...'
 sku: 'B07QW4QYFV-it'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 14:05:30
 image: 'https://m.media-amazon.com/images/I/311p6Jv2vUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAASQ6C-it Swarovski Pendente Iconic Swan Multicolore Placcatura Rodio'
 sku: 'B01NAASQ6C-it'
 tags: [  ]

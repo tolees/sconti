@@ -5,7 +5,7 @@ date: 2020-08-27 09:58:36
 image: 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF51VXY-it Levi s Type 3 Giacca in Jeans Nero Berk Sherpa Trucker...'
 sku: 'B07KF51VXY-it'
 tags: [  ]

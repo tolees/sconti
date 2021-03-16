@@ -5,7 +5,7 @@ date: 2020-09-12 07:07:31
 image: 'https://m.media-amazon.com/images/I/31503Yp1jnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLZQ1XP-it adidas Forest Grove Scarpe da Ginnastica Uomo Gris Blanc...'
 sku: 'B07SLZQ1XP-it'
 tags: [  ]

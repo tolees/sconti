@@ -5,7 +5,7 @@ date: 2020-10-12 20:29:43
 image: 'https://m.media-amazon.com/images/I/61732WtpEsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCP2C3S-it Ravensburger Puzzle - Krypt Gold 631 Pezzi 15152 3'
 sku: 'B06XCP2C3S-it'
 tags: [  ]

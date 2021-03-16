@@ -5,7 +5,7 @@ date: 2020-07-22 23:31:33
 image: 'https://m.media-amazon.com/images/I/51Vq42-DxCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MF4SHNM-it De Cecco Casareccia n° 88 Pasta di Semola di Grano Duro -...'
 sku: 'B01MF4SHNM-it'
 tags: [  ]

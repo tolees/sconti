@@ -5,7 +5,7 @@ date: 2020-09-01 06:36:02
 image: 'https://m.media-amazon.com/images/I/41DwAAloXUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074VZVMWB-it Michael Kors Orologio Analogico Quarzo Da Uomo Con...'
 sku: 'B074VZVMWB-it'
 tags: [  ]

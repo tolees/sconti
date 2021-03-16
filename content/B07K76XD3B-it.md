@@ -5,7 +5,7 @@ date: 2020-08-04 09:23:26
 image: 'https://m.media-amazon.com/images/I/41ySA9fIzEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K76XD3B-it Levi s SS Original HM Tee T-Shirt Blu Cotton + Patch Dress...'
 sku: 'B07K76XD3B-it'
 tags: [  ]

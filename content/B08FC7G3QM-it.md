@@ -5,7 +5,7 @@ date: 2020-08-30 17:39:47
 image: 'https://m.media-amazon.com/images/I/51EGtUN2rZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC7G3QM-it LK Pellicola Protettiva per Xiaomi Mi 10 Lite 5G Vetro...'
 sku: 'B08FC7G3QM-it'
 tags: [  ]

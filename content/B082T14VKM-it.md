@@ -5,7 +5,7 @@ date: 2020-08-17 07:14:21
 image: 'https://m.media-amazon.com/images/I/31c6siQsjqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082T14VKM-it ANSIO Ventilatore a torre oscillante con telecomando e 3...'
 sku: 'B082T14VKM-it'
 tags: [  ]
