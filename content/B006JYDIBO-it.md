@@ -28,9 +28,9 @@ Puoi trovare [Elite99 - Elite  Novo Force - Rullo per allenamento](https://www.a
 
 ℹ️:
 
-- Bloccaggio fast fixing: è possibile agganciare e sganciare la bicicletta con un sola rapida operazione
-- 5 livelli di resistenza magnetica
-- Nuovo sistema di supporto regolabile dell’unità che consente un’idonea e costante pressione tra rullino dell’unità e pneumatico
 - Modello 2016
+- Bloccaggio fast fixing: è possibile agganciare e sganciare la bicicletta con un sola rapida operazione
+- Nuovo sistema di supporto regolabile dell’unità che consente un’idonea e costante pressione tra rullino dell’unità e pneumatico
+- 5 livelli di resistenza magnetica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006JYDIBO/?tag=tolees00-21)
