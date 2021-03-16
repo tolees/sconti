@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B0041KW3LY-it Warner Home Video - Invictus Blu-Ray'
 sku: 'B0041KW3LY-it'
-tags: [  ]
+tags: [ 'warner home video', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99
@@ -28,7 +28,7 @@ average: '2.99'
 
 ℹ️:
 
-- Warner Home Video
 - Elettronica
+- Warner Home Video
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0041KW3LY/?tag=tolees00-21)

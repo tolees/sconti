@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01M0IIJO4-it Mustang Entertainment - Il Camorrista'
 sku: 'B01M0IIJO4-it'
-tags: [  ]
+tags: [ 'mustang entertainment', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

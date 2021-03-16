@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00F4RASK6-it Apple Cavo da Lightning a USB 2m'
 sku: 'B00F4RASK6-it'
-tags: [  ]
+tags: [ 'apple', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
