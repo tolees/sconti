@@ -28,9 +28,9 @@ average: '14.67'
 
 ℹ️:
 
-- Getto daria fredda per fissare la piega
-- Potenza 2100 W
-- Concentratore Triple Air Precision per un flusso daria preciso
 - Tre impostazioni di velocità/temperatura per adattare il flusso daria e il calore durante lasciugatura
+- Concentratore Triple Air Precision per un flusso daria preciso
+- Potenza 2100 W
+- Getto daria fredda per fissare la piega
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XDLZ9CP/?tag=tolees00-21)
