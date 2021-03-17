@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 38.00 % su CCLIFE Panca Multifunzionale Casa Fitnes  '
-date: 2021-03-15 15:00:03
+date: 2021-03-17 11:05:45
 image: 'https://m.media-amazon.com/images/I/41dTks32aCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08KD9BFRG-it CCLIFE Panca Multifunzionale Casa Fitness Panca Regolabile...'
 sku: 'B08KD9BFRG-it'
-tags: [  ]
+tags: [ 'Alimentari e cura della casa','Allenamento con manubri','Bilance da cucina','Caramelle alla frutta','Caramelle morbide','Caramelle, cioccolata e gomme da masticare','Casa e cucina','Dispositivi archiviazione dati','Dispositivi archiviazione dati esterni','Elettrodomestici','Fitness e palestra','Giochi e giocattoli','Informatica','Infradito uomo','Panche','Panche standard','Personaggi giocattolo','Playset con pupazzetti per bambini','Potenziamento muscolare','Scarpe','Scarpe e borse','Scarpe uomo','Snack dolci e salati','Sport e tempo libero','Unità a stato solido esterne','cclife', ]
 actualPrice: 68.14 EUR
 currency: EUR
 price: 68.14
@@ -28,10 +28,10 @@ average: '68.14'
 
 ℹ️:
 
-- Adatto per palestre domestiche e professionali, puoi eseguire una varietà di esercizi come addominali e allenamento con i pesi. Per lavorare su petto, spalle, schiena, pancia, gambe e altro. CONSIGLI CALOROSI: NON SPEDIAMO IN SARDEGNA.
-- Lo schienale e i poggiapiedi sono regolabili in quattro posizioni, in posizione orizzontale o 90 °, normale o rivolto verso lalto, con una varietà di opzioni per aumentare la libertà di movimento.
 - Dimensioni del prodotto (cuscino schienale piatto): 138 x 63 x 46 cm (L / P / H) Dimensioni cuscino sedile: 36 x 28 x 5 cm (L / P / H) Dimensioni cuscino schienale: 75 x 28 x 5 cm (L / P / H)
-- Il telaio principale è realizzato in acciaio rinforzato e ha un carico statico massimo di 400 kg e un carico dinamico di 200 kg.
 - Il tappetino è realizzato in pelle sintetica di alta qualità, è resistente al sudore e traspirante, morbido e confortevole, riduce gli effetti dei movimenti e allevia il dolore.
+- Il telaio principale è realizzato in acciaio rinforzato e ha un carico statico massimo di 400 kg e un carico dinamico di 200 kg.
+- Lo schienale e i poggiapiedi sono regolabili in quattro posizioni, in posizione orizzontale o 90 °, normale o rivolto verso lalto, con una varietà di opzioni per aumentare la libertà di movimento.
+- Adatto per palestre domestiche e professionali, puoi eseguire una varietà di esercizi come addominali e allenamento con i pesi. Per lavorare su petto, spalle, schiena, pancia, gambe e altro. CONSIGLI CALOROSI: NON SPEDIAMO IN SARDEGNA.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KD9BFRG/?tag=tolees00-21)
