@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 17.32 % su TP-Link Ripetitore WiFi Wireless  Veloci  '
-date: 2021-03-14 17:24:33
+date: 2021-03-17 17:39:44
 image: 'https://m.media-amazon.com/images/I/31Ds+55JQXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MD1SKLL-it TP-Link Ripetitore WiFi Wireless Velocità Dual Band AC1200...'
 sku: 'B01MD1SKLL-it'
-tags: [  ]
+tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Classici','Costruzioni','DVD','Fantascienza','Fantascienza e Fantasy','Featured Categories','Film','Film e TV','Giochi e giocattoli','Illuminazione','Illuminazione per interni','Informatica','Lampade','Lampade da tavolo e abat-jour','Letteratura e narrativa','Libri','Periferiche di rete','Ripetitori per PC','Scarpe','Scarpe bambine e ragazze','Scarpe bambini e ragazzi','Scarpe da ginnastica per bambine e ragazze','Scarpe da ginnastica per bambini e ragazzi','Scarpe e borse','Scarpe indoor multisport uomo','Scarpe sportive da uomo','Scarpe sportive per bambine e ragazze','Scarpe sportive per bambini e ragazzi','Scarpe uomo','Sciarpe da donna','Sciarpe e stole da donna','Sneaker casual da bambina','Sneaker casual da bambino','Sneaker casual da uomo','Sneaker e scarpe sportive da bambina','Sneaker e scarpe sportive da bambino','Sneaker e scarpe sportive da uomo','tp-link', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.it/dp/B01MD1SKLL/?tag=tolees00-21'
 descuento: '17.32'
-average: '32.2976923076922'
+average: '32.3233333333332'
 ---
 
 [TP-Link Ripetitore WiFi Wireless  Velocità Dual Band AC1200  WiFi Extender e Access Point  Compatibile con Modem Fibra e ADSL  fino a 1.2Gbps  RE305   Bianco](https://www.amazon.it/dp/B01MD1SKLL/?tag=tolees00-21) ha un prezzo di 32.99 EUR (originale: 39.9 EUR) con uno sconto del 17.32 % sconto qui:
@@ -28,13 +28,13 @@ average: '32.2976923076922'
 
 ℹ️:
 
-- ATTENZIONE! Prima di acquistare il prodotto, contatta il tuo ISP per confermare la compatibilità con i suoi servizi!
-- 【Antenne esterne e Connessioni migliori】Possiede due antenne esterne che migliorano la copertura wireless e supporta la connessione di più dispositivi contemporaneamente: si può utilizzare la banda 2.4GHz per le attività semplici come linvio di e-mail e la navigazione web e sfruttare la banda 5GHz per lo streaming video in HD/4K e il gioco online
-- 【Facile Installazione】RE305 è compatibile con tutti i tipi di modem/router e basta premere il pulsante WPS del router e il tasto WPS del prodotto per configurarlo; altrimenti è sempre possibile completare la configurazione tramite la pagina WEB o con lapp Tether. È compatibile con tutti gli operatori come TIM, FASTWEB, WIND, Vodafone, Tiscali ecc
 - 【Dove posizionare il prodotto?】Il prodotto possiede un indicatore del segnale che aiuta lutente a trovare il posto migliore per RE305: luce blu sta per buona connessione; luce rossa per troppo lontano dal router; n.B: la modalità notturna è disponibile nella pagina Gestione per chi trova la luce infastidita di notte
 - 【Supporto tecnico locale】TP-Link Italia fornisce supporto tecnico locale gratuito per gli utenti in Italia; puoi trovare le informazioni di contatto sul sito web TP-Link.it
 - 【Range Extender a velocità combinata】Il Range Extender RE305 si connette al modem via wireless, rafforzandone ed espandendone il segnale Wi-Fi alle aree che la rete del modem non riesce a raggiungere, fino alla velocità di 300Mbps a 2,4GHz e 867Mbps a 5GHz
-- 【Modalità AP integrata】Il dispositivo trasforma la connessione ad Internet via cavo in un access point wireless dual band con linserimento di un cavo Ethernet nellapposita porta
 - Supporta Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX o Linux
+- 【Facile Installazione】RE305 è compatibile con tutti i tipi di modem/router e basta premere il pulsante WPS del router e il tasto WPS del prodotto per configurarlo; altrimenti è sempre possibile completare la configurazione tramite la pagina WEB o con lapp Tether. È compatibile con tutti gli operatori come TIM, FASTWEB, WIND, Vodafone, Tiscali ecc
+- ATTENZIONE! Prima di acquistare il prodotto, contatta il tuo ISP per confermare la compatibilità con i suoi servizi!
+- 【Antenne esterne e Connessioni migliori】Possiede due antenne esterne che migliorano la copertura wireless e supporta la connessione di più dispositivi contemporaneamente: si può utilizzare la banda 2.4GHz per le attività semplici come linvio di e-mail e la navigazione web e sfruttare la banda 5GHz per lo streaming video in HD/4K e il gioco online
+- 【Modalità AP integrata】Il dispositivo trasforma la connessione ad Internet via cavo in un access point wireless dual band con linserimento di un cavo Ethernet nellapposita porta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MD1SKLL/?tag=tolees00-21)

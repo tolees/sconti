@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'General Video - Solaris  1972  al 47.86 % di sconto'
-date: 2021-03-15 11:02:53
+date: 2021-03-17 17:41:46
 image: 'https://m.media-amazon.com/images/I/51j4nqTAIEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GD8PPEY-it General Video - Solaris 1972'
 sku: 'B00GD8PPEY-it'
-tags: [  ]
+tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Classici','Costruzioni','DVD','Fantascienza','Fantascienza e Fantasy','Featured Categories','Film','Film e TV','Giochi e giocattoli','Letteratura e narrativa','Libri','Sciarpe da donna','Sciarpe e stole da donna','general video', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2
