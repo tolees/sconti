@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CN5MLT7-it Desigual Fou BLUADALAI Moda Sciarpa Blu U Donna'
 sku: 'B08CN5MLT7-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Fai da te','Materiale elettrico','Prese elettriche ed accessori','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate','desigual', ]
+tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate','desigual', ]
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19
