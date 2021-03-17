@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '505 Games - Bloodstained Ritual of the N al 39.73 % di sconto'
-date: 2021-03-15 13:27:53
+date: 2021-03-17 01:10:06
 image: 'https://m.media-amazon.com/images/I/51ql5JJFptL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKX4XJS-it 505 Games - Bloodstained Ritual of the Night - Nintendo...'
 sku: 'B07PKX4XJS-it'
-tags: [  ]
+tags: [ '505 games', ]
 actualPrice: 24.1 EUR
 currency: EUR
 price: 24.1
@@ -28,9 +28,9 @@ Puoi trovare [505 Games - Bloodstained Ritual of the Night - Nintendo Switch](ht
 
 ℹ️:
 
-- GAMEPLAY PROFONDO E VARIO
-- IL PIÙ GRANDE CASTELLO MAI APPARSO IN UN VIDEOGIOCO DI IGA
 - L’INCONFONDIBILE STILE “IGAVANIA” realizzzato da Koji Igarashi
 - GRAFICA HD 2.5 e FANTASTICA COLONNA SONORA
+- GAMEPLAY PROFONDO E VARIO
+- IL PIÙ GRANDE CASTELLO MAI APPARSO IN UN VIDEOGIOCO DI IGA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PKX4XJS/?tag=tolees00-21)

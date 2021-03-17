@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 21.53 % su Orient Orologio Automatico RA-AK0508S10B  '
-date: 2021-03-15 13:27:20
+date: 2021-03-17 01:10:47
 image: 'https://m.media-amazon.com/images/I/414x5Ofhy5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814QX7ZM-it Orient Orologio Automatico RA-AK0508S10B'
 sku: 'B0814QX7ZM-it'
-tags: [  ]
+tags: [ 'orient', ]
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0
@@ -28,10 +28,10 @@ average: '88.0'
 
 ℹ️:
 
+- Quadrante Grigio e cinturino Marrone
+- Water resistant
 - Analogico in Pelle genuina da Uomo
 - Movimento Automatico
-- Water resistant
-- Quadrante Grigio e cinturino Marrone
 - Stile casual/ lifestyle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0814QX7ZM/?tag=tolees00-21)
