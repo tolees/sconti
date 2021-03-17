@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ABOBRWU-it Bosch Professional 0601868109 GSR 12V - Trapano Avvitatore...'
 sku: 'B00ABOBRWU-it'
-tags: [ 'bosch professional', ]
+tags: [ 'Abbigliamento','Abbigliamento Fitness','Abbigliamento bambini e ragazzi','Abbigliamento da escursonismo','Abbigliamento per bambine e ragazze da escursionismo','Abbigliamento per fitness e palestra da uomo','Abbigliamento uomo','Accessori da uomo','Accessori di emergenza per auto','Accessori per auto','Accessori per gatti','Aeronautica e spazio per bambini','Alimentari e cura della casa','Astronomia per bambini','Auto e Moto','Avviatori di emergenza per batteria auto','Azione e avventura','Biscotti','Biscotti al cioccolato','Caffè','Caffè macinati','Caffè, tè e bevande','Camere daria','Camping e outdoor','Casa e cucina','Cellulari e Smartphone','Cellulari e accessori','Centrifughe e spremiagrumi','Centrifughe ed estrattori di succo','Ciclismo','Cinture da uomo','Componenti e parti per bicicletta','Contenitori per lettiere e cassette igieniche per gatti','Costruzioni','DVD','Drammatici','Elettrodomestici','Elettronica','Epilatori','Epilatori e accessori','Erotismo e contraccezione','Fai da te','Fantascienza','Fantascienza e Fantasy','Fantascienza, horror e fantasy per bambini','Fantascienza per bambini','Fantasy per bambini','Featured Categories','Film','Film e TV','Fitness e palestra','Giacche 3 in 1 da escursionismo per bambine','Giacche bambini e ragazzi','Giacche da escursionismo per bambine','Giacche e cappotti per bambini e ragazzi','Giardinaggio','Giardino e giardinaggio','Giochi e giocattoli','Giochi per Nintendo Switch','Giochi, console e accessori per Nintendo Switch','Illuminazione','Illuminazione per interni','Infradito uomo','Lampade','Lampade da tavolo e abat-jour','Letteratura e narrativa per bambini','Lettiere e accessori per gatti','Libri','Libri per bambini','Lubrificanti e gel stimolanti','Maglie e T-shirt sportivi da uomo','Magliette sportive da uomo','Pasticceria','Pasticceria e prodotti da forno','Prodotti per animali domestici','Prodotti per igiene e ausilio erotico','Rasatura e rimozione peli','Rimozione peli','Salute e cura della persona','Scarpe','Scarpe e borse','Scarpe uomo','Scienze, natura e tecnologia per bambini','Set di attrezzi a mano','Sport e tempo libero','Trapani','Trapani avvitatori elettrici','Utensili a mano','Utensili elettrici','Utensili elettrici e a mano','Vasi e accessori per piante','Vasi tradizionali da giardino','Videogiochi','bosch professional', ]
 actualPrice: 146.48 EUR
 currency: EUR
 price: 146.48
@@ -28,10 +28,10 @@ Puoi trovare [Bosch Professional 0601868109 GSR 12V - Trapano Avvitatore Edizion
 
 ℹ️:
 
+- Electronic cell protection (ecp bosch: protegge l batteria dal sovraccarico, dal surriscaldamento e dallo scaricamento completo
 - Potenza professionale: gli ingranaggi a 2 velocità garantiscono una potente coppia di 15 nm (avvitamento in materiale elastico nei lavori di foratura (fino a 19 mm e avvitamento (fino a 7 mm
 - Pratica indicazione del livello di carica della batteria con 3 led
-- Electronic cell protection (ecp bosch: protegge l batteria dal sovraccarico, dal surriscaldamento e dallo scaricamento completo
-- Con i suoi soli 169 mm vanta una struttura straordinariamente compatta per una maneggevolezza ottimale, soprattutto nei lavori di foratura e avvitamento sopra testa e in luoghi stretti
 - Robusto mandrino autolock da 10 mm
+- Con i suoi soli 169 mm vanta una struttura straordinariamente compatta per una maneggevolezza ottimale, soprattutto nei lavori di foratura e avvitamento sopra testa e in luoghi stretti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ABOBRWU/?tag=tolees00-21)
