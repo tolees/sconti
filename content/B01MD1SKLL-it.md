@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MD1SKLL-it TP-Link Ripetitore WiFi Wireless Velocità Dual Band AC1200...'
 sku: 'B01MD1SKLL-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Classici','Costruzioni','DVD','Fantascienza','Fantascienza e Fantasy','Featured Categories','Film','Film e TV','Giochi e giocattoli','Illuminazione','Illuminazione per interni','Informatica','Lampade','Lampade da tavolo e abat-jour','Letteratura e narrativa','Libri','Periferiche di rete','Ripetitori per PC','Scarpe','Scarpe bambine e ragazze','Scarpe bambini e ragazzi','Scarpe da ginnastica per bambine e ragazze','Scarpe da ginnastica per bambini e ragazzi','Scarpe e borse','Scarpe indoor multisport uomo','Scarpe sportive da uomo','Scarpe sportive per bambine e ragazze','Scarpe sportive per bambini e ragazzi','Scarpe uomo','Sciarpe da donna','Sciarpe e stole da donna','Sneaker casual da bambina','Sneaker casual da bambino','Sneaker casual da uomo','Sneaker e scarpe sportive da bambina','Sneaker e scarpe sportive da bambino','Sneaker e scarpe sportive da uomo','tp-link', ]
+tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Classici','Costruzioni','DVD','Fai da te','Fantascienza','Fantascienza e Fantasy','Featured Categories','Film','Film e TV','Giochi e giocattoli','Illuminazione','Illuminazione per interni','Informatica','Lampade','Lampade da tavolo e abat-jour','Letteratura e narrativa','Libri','Materiale elettrico','Periferiche di rete','Prese elettriche ed accessori','Ripetitori per PC','Scarpe','Scarpe bambine e ragazze','Scarpe bambini e ragazzi','Scarpe da ginnastica per bambine e ragazze','Scarpe da ginnastica per bambini e ragazzi','Scarpe e borse','Scarpe indoor multisport uomo','Scarpe sportive da uomo','Scarpe sportive per bambine e ragazze','Scarpe sportive per bambini e ragazzi','Scarpe uomo','Sciarpe da donna','Sciarpe e stole da donna','Sneaker casual da bambina','Sneaker casual da bambino','Sneaker casual da uomo','Sneaker e scarpe sportive da bambina','Sneaker e scarpe sportive da bambino','Sneaker e scarpe sportive da uomo','Spine intelligenti e telecomandate','tp-link', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99
@@ -28,13 +28,13 @@ average: '32.3233333333332'
 
 ℹ️:
 
-- 【Dove posizionare il prodotto?】Il prodotto possiede un indicatore del segnale che aiuta lutente a trovare il posto migliore per RE305: luce blu sta per buona connessione; luce rossa per troppo lontano dal router; n.B: la modalità notturna è disponibile nella pagina Gestione per chi trova la luce infastidita di notte
 - 【Supporto tecnico locale】TP-Link Italia fornisce supporto tecnico locale gratuito per gli utenti in Italia; puoi trovare le informazioni di contatto sul sito web TP-Link.it
-- 【Range Extender a velocità combinata】Il Range Extender RE305 si connette al modem via wireless, rafforzandone ed espandendone il segnale Wi-Fi alle aree che la rete del modem non riesce a raggiungere, fino alla velocità di 300Mbps a 2,4GHz e 867Mbps a 5GHz
-- Supporta Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX o Linux
+- 【Dove posizionare il prodotto?】Il prodotto possiede un indicatore del segnale che aiuta lutente a trovare il posto migliore per RE305: luce blu sta per buona connessione; luce rossa per troppo lontano dal router; n.B: la modalità notturna è disponibile nella pagina Gestione per chi trova la luce infastidita di notte
 - 【Facile Installazione】RE305 è compatibile con tutti i tipi di modem/router e basta premere il pulsante WPS del router e il tasto WPS del prodotto per configurarlo; altrimenti è sempre possibile completare la configurazione tramite la pagina WEB o con lapp Tether. È compatibile con tutti gli operatori come TIM, FASTWEB, WIND, Vodafone, Tiscali ecc
-- ATTENZIONE! Prima di acquistare il prodotto, contatta il tuo ISP per confermare la compatibilità con i suoi servizi!
+- Supporta Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX o Linux
 - 【Antenne esterne e Connessioni migliori】Possiede due antenne esterne che migliorano la copertura wireless e supporta la connessione di più dispositivi contemporaneamente: si può utilizzare la banda 2.4GHz per le attività semplici come linvio di e-mail e la navigazione web e sfruttare la banda 5GHz per lo streaming video in HD/4K e il gioco online
+- ATTENZIONE! Prima di acquistare il prodotto, contatta il tuo ISP per confermare la compatibilità con i suoi servizi!
+- 【Range Extender a velocità combinata】Il Range Extender RE305 si connette al modem via wireless, rafforzandone ed espandendone il segnale Wi-Fi alle aree che la rete del modem non riesce a raggiungere, fino alla velocità di 300Mbps a 2,4GHz e 867Mbps a 5GHz
 - 【Modalità AP integrata】Il dispositivo trasforma la connessione ad Internet via cavo in un access point wireless dual band con linserimento di un cavo Ethernet nellapposita porta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MD1SKLL/?tag=tolees00-21)
