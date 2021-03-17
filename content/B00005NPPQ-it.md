@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 29.21 % su Fujifilm Instax Wide Film Pellicole Inst  '
-date: 2021-02-25 12:38:51
+date: 2021-03-17 16:11:17
 image: 'https://m.media-amazon.com/images/I/51hK-RG-LdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005NPPQ-it Fujifilm Instax Wide Film Pellicole Instantanee per...'
 sku: 'B00005NPPQ-it'
-tags: [  ]
+tags: [ 'Abbigliamento protettivo da moto','Accessori foto e videocamere','Auto e Moto','Caschi da moto','Caschi jet e demi-jet','Costruzioni','Elettronica','Foto e videocamere','Giochi e giocattoli','Moto, accessori e componenti','Pellicole','Pellicole istantanea','fujifilm instax', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Le foto asciugano in pochi minuti
-- Dimensione pellicola: 108 (L) x 86 (H) mm
 - Dimensione foto: 99 (L) x 62 (H) mm
 - Tempo di sviluppo massimo di 5 m (tra 5 ° e 40 ° C)
 - Pellicola instax wide, finitura Lucida
+- Le foto asciugano in pochi minuti
+- Dimensione pellicola: 108 (L) x 86 (H) mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00005NPPQ/?tag=tolees00-21)
