@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HD6RHTK-it Salomon Xa Pro 3D Gtx Scarpe da Corsa Uomo Nero 47 1/3 EU'
 sku: 'B01HD6RHTK-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate', ]
+tags: [ 'Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate', ]
 actualPrice: 94.48 EUR
 currency: EUR
 price: 94.48

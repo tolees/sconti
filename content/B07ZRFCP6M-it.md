@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRFCP6M-it adidas Lin Duffle M Borsa Sportiva Unisex – Adulto Legend...'
 sku: 'B07ZRFCP6M-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate', ]
+tags: [ 'Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBB5YQR-it SanDisk Extreme micro SDSQXA1-128G-GN6AA per Action Camera...'
 sku: 'B07HBB5YQR-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate', ]
+tags: [ 'Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate', ]
 actualPrice: 20.34 EUR
 currency: EUR
 price: 20.34

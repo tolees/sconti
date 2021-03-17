@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0751RGXLR-it Barbie la Pizzeria con Bambola Tavolo per Le Pizze Forno e...'
 sku: 'B0751RGXLR-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate', ]
+tags: [ 'Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate', ]
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

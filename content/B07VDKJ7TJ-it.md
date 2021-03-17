@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDKJ7TJ-it Desigual Bols Black White Coro - Borsa da donna 1 x 40 5 x...'
 sku: 'B07VDKJ7TJ-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate', ]
+tags: [ 'Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate', ]
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

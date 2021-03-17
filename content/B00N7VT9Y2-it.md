@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N7VT9Y2-it Giochi Uniti GU210 - Hobbit Tales'
 sku: 'B00N7VT9Y2-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate', ]
+tags: [ 'Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
@@ -28,9 +28,9 @@ Puoi trovare [Giochi Uniti GU210 - Hobbit Tales](https://www.amazon.it/dp/B00N7V
 
 ℹ️:
 
-- Giocabile in 20-60 minuti, per due a cinque persone
 - Gioco di narrazione con le carte, ispirato al mondo fantastico di Tolkien
-- Edizione interamente in italiano
+- Giocabile in 20-60 minuti, per due a cinque persone
 - Utilizzabile anche con il gioco di ruolo LUnico Anello
+- Edizione interamente in italiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00N7VT9Y2/?tag=tolees00-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0IIJO4-it Mustang Entertainment - Il Camorrista'
 sku: 'B01M0IIJO4-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Accessori di emergenza per auto','Accessori per auto','Auto e Moto','Avviatori di emergenza per batteria auto','Azione e avventura','Costruzioni','DVD','Drammatici','Epilatori','Epilatori e accessori','Fai da te','Featured Categories','Film','Film e TV','Giardinaggio','Giardino e giardinaggio','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Rasatura e rimozione peli','Rimozione peli','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate','Vasi e accessori per piante','Vasi tradizionali da giardino','mustang entertainment', ]
+tags: [ 'Accessori di emergenza per auto','Accessori per auto','Auto e Moto','Avviatori di emergenza per batteria auto','Azione e avventura','Costruzioni','DVD','Drammatici','Epilatori','Epilatori e accessori','Fai da te','Featured Categories','Film','Film e TV','Giardinaggio','Giardino e giardinaggio','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Rasatura e rimozione peli','Rimozione peli','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate','Vasi e accessori per piante','Vasi tradizionali da giardino','mustang entertainment', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

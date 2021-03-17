@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ABOBRWU-it Bosch Professional 0601868109 GSR 12V - Trapano Avvitatore...'
 sku: 'B00ABOBRWU-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Accessori di emergenza per auto','Accessori per auto','Auto e Moto','Avviatori di emergenza per batteria auto','Azione e avventura','Costruzioni','DVD','Drammatici','Epilatori','Epilatori e accessori','Erotismo e contraccezione','Fai da te','Featured Categories','Film','Film e TV','Giardinaggio','Giardino e giardinaggio','Giochi e giocattoli','Giochi per Nintendo Switch','Giochi, console e accessori per Nintendo Switch','Illuminazione','Illuminazione per interni','Lampade','Lampade da tavolo e abat-jour','Lubrificanti e gel stimolanti','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Prodotti per igiene e ausilio erotico','Rasatura e rimozione peli','Rimozione peli','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate','Trapani','Trapani avvitatori elettrici','Utensili elettrici','Utensili elettrici e a mano','Vasi e accessori per piante','Vasi tradizionali da giardino','Videogiochi','bosch professional', ]
+tags: [ 'Accessori di emergenza per auto','Accessori per auto','Auto e Moto','Avviatori di emergenza per batteria auto','Azione e avventura','Costruzioni','DVD','Drammatici','Epilatori','Epilatori e accessori','Erotismo e contraccezione','Fai da te','Featured Categories','Film','Film e TV','Giardinaggio','Giardino e giardinaggio','Giochi e giocattoli','Giochi per Nintendo Switch','Giochi, console e accessori per Nintendo Switch','Illuminazione','Illuminazione per interni','Lampade','Lampade da tavolo e abat-jour','Lubrificanti e gel stimolanti','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Prodotti per igiene e ausilio erotico','Rasatura e rimozione peli','Rimozione peli','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate','Trapani','Trapani avvitatori elettrici','Utensili elettrici','Utensili elettrici e a mano','Vasi e accessori per piante','Vasi tradizionali da giardino','Videogiochi','bosch professional', ]
 actualPrice: 146.48 EUR
 currency: EUR
 price: 146.48
@@ -28,10 +28,10 @@ Puoi trovare [Bosch Professional 0601868109 GSR 12V - Trapano Avvitatore Edizion
 
 ℹ️:
 
-- Pratica indicazione del livello di carica della batteria con 3 led
 - Robusto mandrino autolock da 10 mm
-- Con i suoi soli 169 mm vanta una struttura straordinariamente compatta per una maneggevolezza ottimale, soprattutto nei lavori di foratura e avvitamento sopra testa e in luoghi stretti
 - Electronic cell protection (ecp bosch: protegge l batteria dal sovraccarico, dal surriscaldamento e dallo scaricamento completo
+- Con i suoi soli 169 mm vanta una struttura straordinariamente compatta per una maneggevolezza ottimale, soprattutto nei lavori di foratura e avvitamento sopra testa e in luoghi stretti
 - Potenza professionale: gli ingranaggi a 2 velocità garantiscono una potente coppia di 15 nm (avvitamento in materiale elastico nei lavori di foratura (fino a 19 mm e avvitamento (fino a 7 mm
+- Pratica indicazione del livello di carica della batteria con 3 led
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ABOBRWU/?tag=tolees00-21)

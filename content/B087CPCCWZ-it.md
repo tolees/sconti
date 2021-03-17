@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087CPCCWZ-it THUN - Set 3 Vasi per Piantine con Decorazione Colorata -...'
 sku: 'B087CPCCWZ-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Costruzioni','Fai da te','Giardinaggio','Giardino e giardinaggio','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate','Vasi e accessori per piante','Vasi tradizionali da giardino','thun', ]
+tags: [ 'Costruzioni','Fai da te','Giardinaggio','Giardino e giardinaggio','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate','Vasi e accessori per piante','Vasi tradizionali da giardino','thun', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95
@@ -28,10 +28,10 @@ average: '14.95'
 
 ℹ️:
 
-- CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
-- MATERIALI - Ceramica
 - DIMENSIONI - Ø 10 cm; 8 h cm
-- CATEGORIA - Living, Arredare la casa
+- MATERIALI - Ceramica
 - PRODOTTO - Set di 3 vasetti formato piccolo, per piantine e piante grasse, con decorazione colorata
+- CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
+- CATEGORIA - Living, Arredare la casa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087CPCCWZ/?tag=tolees00-21)
