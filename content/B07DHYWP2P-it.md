@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHYWP2P-it Geox U Calgary C Scarpe Stringate Derby Uomo Black C9999...'
 sku: 'B07DHYWP2P-it'
-tags: [ 'Azione e avventura','Cellulari e accessori','Costruzioni','DVD','Drammatici','Elettronica','Fai da te','Fantascienza','Featured Categories','Film','Film e TV','Giochi e giocattoli','Materiale elettrico','Prese a muro','Prese elettriche ed accessori','Scarpe','Scarpe e borse','Scarpe stringate basse uomo','Scarpe uomo','Smartwatch','Spine intelligenti e telecomandate','Thriller','geox', ]
+tags: [ 'Accessori decorativi per la casa','Azione e avventura','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Cellulari e accessori','Costruzioni','DVD','Decorazioni per interni','Drammatici','Elettronica','Fai da te','Fantascienza','Featured Categories','Film','Film e TV','Frontoni','Giochi e giocattoli','Materiale elettrico','Prese a muro','Prese elettriche ed accessori','Scarpe','Scarpe e borse','Scarpe stringate basse uomo','Scarpe uomo','Smartwatch','Spine intelligenti e telecomandate','Stoviglie','Thriller','geox', ]
 actualPrice: 82.87 EUR
 currency: EUR
 price: 82.87

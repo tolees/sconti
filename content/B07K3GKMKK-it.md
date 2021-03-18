@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K3GKMKK-it WARNER BROS - V per Vendetta – Mondo Steelbook Blu Ray'
 sku: 'B07K3GKMKK-it'
-tags: [ 'Azione e avventura','Cellulari e accessori','Costruzioni','DVD','Drammatici','Elettronica','Fai da te','Fantascienza','Featured Categories','Film','Film e TV','Giochi e giocattoli','Materiale elettrico','Prese a muro','Prese elettriche ed accessori','Smartwatch','Spine intelligenti e telecomandate','Thriller','warner bros', ]
+tags: [ 'Accessori decorativi per la casa','Azione e avventura','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Cellulari e accessori','Costruzioni','DVD','Decorazioni per interni','Drammatici','Elettronica','Fai da te','Fantascienza','Featured Categories','Film','Film e TV','Frontoni','Giochi e giocattoli','Materiale elettrico','Prese a muro','Prese elettriche ed accessori','Smartwatch','Spine intelligenti e telecomandate','Stoviglie','Thriller','warner bros', ]
 actualPrice: 17.61 EUR
 currency: EUR
 price: 17.61
