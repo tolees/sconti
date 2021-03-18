@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'sconto del 43.13 % su Philips HR2345/29 Viva Collection Pastam  '
-date: 2021-02-23 21:19:36
+title: 'sconto del 35.07 % su Philips HR2345/29 Pastamaker  150 W  Pla  '
+date: 2021-03-18 15:52:07
 image: 'https://m.media-amazon.com/images/I/410Nd+BgL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B06XC555NN-it Philips HR2345/29 Viva Collection Pastamaker - Macchina...'
+author: 'tole.es'
+slug: 'B06XC555NN-it Philips HR2345/29 Pastamaker 150 W Plastic Nero'
 sku: 'B06XC555NN-it'
-actualPrice: 119.99 EUR
+tags: [ 'Casa e cucina','Elettrodomestici','Elettrodomestici speciali','Macchine per la pasta elettriche','philips', ]
+actualPrice: 136.99 EUR
 currency: EUR
-price: 119.99
+price: 136.99
 comparePrice: 210.99 EUR
-prodname: 'Philips HR2345/29 Viva Collection Pastamaker - Macchina con 4 trafile per preparare da zero pasta e spaghetti  150 W  Nero'
+prodname: 'Philips HR2345/29 Pastamaker  150 W  Plastic  Nero'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Philips'
 buyurl: 'https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21'
-descuento: '43.13'
-average: '124.7425'
+descuento: '35.07'
+average: '127.192'
 ---
 
-[Philips HR2345/29 Viva Collection Pastamaker - Macchina con 4 trafile per preparare da zero pasta e spaghetti  150 W  Nero](https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21) ha un prezzo di 119.99 EUR (originale: 210.99 EUR) con uno sconto del 43.13 % sconto qui:
+[Philips HR2345/29 Pastamaker  150 W  Plastic  Nero](https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21) ha un prezzo di 136.99 EUR (originale: 210.99 EUR) con uno sconto del 35.07 % sconto qui:
 
-[![Philips HR2345/29 Viva Collection Pastam](https://m.media-amazon.com/images/I/410Nd+BgL-L._SL400_.jpg)](https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21)
+[![Philips HR2345/29 Pastamaker  150 W  Pla](https://m.media-amazon.com/images/I/410Nd+BgL-L._SL400_.jpg)](https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21)
 
 ℹ️:
 
-- Tipi di pasta: farina di grano duro, senza glutine, di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
 - Comodo vano porta accessori per avere sempre riporti ed in ordine i dischi e gli strumenti di pulizia
+- 4 dischi: spaghetti, penne, fettuccine, lasagne per realizzare: maccheroni, penne, rigatoni, lasagne, ravioli, cannelloni, maltagliati, pizzoccheri
+- Tipi di pasta: farina di grano duro, senza glutine, di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
 - Programmi completamente automatici per limpasto e lestrusione nel tempo in cui lacqua bolle: 10 minuti per 250 g di farina
 - Largo solo 13,5 cm per un minor ingombro nella tua cucina
-- 4 dischi: spaghetti, penne, fettuccine, lasagne per realizzare: maccheroni, penne, rigatoni, lasagne, ravioli, cannelloni, maltagliati, pizzoccheri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21)

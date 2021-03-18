@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Havaianas Top Camu  Infradito Uomo  Beig al 55.05 % di sconto'
-date: 2021-03-17 11:33:34
+date: 2021-03-18 15:35:54
 image: 'https://m.media-amazon.com/images/I/31LV9g+EMDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07FXYJW6T-it Havaianas Top Camu Infradito Uomo Beige Beige/Black 43/44'
 sku: 'B07FXYJW6T-it'
+tags: [ 'Infradito uomo','Scarpe','Scarpe e borse','Scarpe uomo','havaianas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
