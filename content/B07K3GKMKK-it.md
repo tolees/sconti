@@ -1,28 +1,28 @@
 ---
 layout: post
-title: 'sconto del 48.02 % su WARNER BROS - V per Vendetta – Mondo Ste  '
-date: 2021-02-27 05:12:12
+title: 'sconto del 29.53 % su WARNER BROS - V per Vendetta – Mondo Ste  '
+date: 2021-03-17 23:32:32
 image: 'https://m.media-amazon.com/images/I/51iFrmY5LHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3GKMKK-it WARNER BROS - V per Vendetta – Mondo Steelbook Blu Ray'
 sku: 'B07K3GKMKK-it'
-tags: [  ]
-actualPrice: 12.99 EUR
+tags: [ 'Azione e avventura','Cellulari e accessori','Costruzioni','DVD','Drammatici','Elettronica','Fai da te','Fantascienza','Featured Categories','Film','Film e TV','Giochi e giocattoli','Materiale elettrico','Prese a muro','Prese elettriche ed accessori','Smartwatch','Spine intelligenti e telecomandate','Thriller','warner bros', ]
+actualPrice: 17.61 EUR
 currency: EUR
-price: 12.99
+price: 17.61
 comparePrice: 24.99 EUR
 prodname: 'WARNER BROS - V per Vendetta – Mondo Steelbook   Blu Ray '
 country: 'it'
 flag: '🇮🇹'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B07K3GKMKK/?tag=tolees00-21'
-descuento: '48.02'
-average: '15.0460000000001'
+descuento: '29.53'
+average: '15.2062500000001'
 ---
 
-[WARNER BROS - V per Vendetta – Mondo Steelbook   Blu Ray ](https://www.amazon.it/dp/B07K3GKMKK/?tag=tolees00-21) ha un prezzo di 12.99 EUR (originale: 24.99 EUR) con uno sconto del 48.02 % sconto qui:
+[WARNER BROS - V per Vendetta – Mondo Steelbook   Blu Ray ](https://www.amazon.it/dp/B07K3GKMKK/?tag=tolees00-21) ha un prezzo di 17.61 EUR (originale: 24.99 EUR) con uno sconto del 29.53 % sconto qui:
 
 [![WARNER BROS - V per Vendetta – Mondo Ste](https://m.media-amazon.com/images/I/51iFrmY5LHL._SL400_.jpg)](https://www.amazon.it/dp/B07K3GKMKK/?tag=tolees00-21)
 
