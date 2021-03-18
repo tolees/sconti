@@ -28,10 +28,10 @@ Puoi trovare [Kimbo Aroma Italiano Deciso Caffè Macinato  4 X 250 Gr  1000 g ](
 
 ℹ️:
 
-- Aroma 4 su 6
-- Adatto per utilizzo con Moka
 - Tostatura Medio Scura
+- Aroma 4 su 6
 - Corpo 12 su 13
 - Confezione da 4 pacchetti da 250 grammi sottovuoto
+- Adatto per utilizzo con Moka
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014PSU5K2/?tag=tolees00-21)

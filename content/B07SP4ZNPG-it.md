@@ -28,10 +28,10 @@ Puoi trovare [Havaianas Flash Urban  Sandali Bassi Donna  Rosa  Lilac Lavender  
 
 ℹ️:
 
-- Materiale suola: Gomma
-- Chiusura: Senza chiusura
-- Materiale esterno: Gomma
-- Fodera: Senza rivestimento interno
 - Larghezza scarpa: Normale
+- Chiusura: Senza chiusura
+- Fodera: Senza rivestimento interno
+- Materiale suola: Gomma
+- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SP4ZNPG/?tag=tolees00-21)

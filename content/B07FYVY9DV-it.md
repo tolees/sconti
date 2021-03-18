@@ -30,8 +30,8 @@ average: '10.13'
 
 - Aroma ricco e pieno di gusto ma senza caffeina
 - Capsule avvolte una ad una in un sacchetto speciale che mantiene intatto l aroma e il profumo del caffè
-- Capsule compatibili con le macchine ad uso domestico a marchio Nespresso
-- Decaffeinato: miscela di caffè decaffeinato
 - Le capsule LEspresso garantiscono lassoluta freschezza del caffè perchè sono confezionate singolarmente in atmosfera protettiva
+- Decaffeinato: miscela di caffè decaffeinato
+- Capsule compatibili con le macchine ad uso domestico a marchio Nespresso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FYVY9DV/?tag=tolees00-21)
