@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tiksounds - [2020 Ultimo Modello] Cuffie al 16.67 % di sconto'
-date: 2021-03-16 11:16:53
+date: 2021-03-18 06:51:53
 image: 'https://m.media-amazon.com/images/I/51FTJu41gnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3QSV16-it Tiksounds - [2020 Ultimo Modello] Cuffie Bluetooth 5.0...'
 sku: 'B08B3QSV16-it'
-tags: [ 'tiksounds', ]
+tags: [ 'Cuffie','Cuffie In-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','Elettronica','tiksounds', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Tiksounds'
 buyurl: 'https://www.amazon.it/dp/B08B3QSV16/?tag=tolees00-21'
 descuento: '16.67'
-average: '29.0471428571428'
+average: '28.9899999999999'
 ---
 
 Puoi trovare [Tiksounds - [2020 Ultimo Modello] Cuffie Bluetooth 5.0 Auricolari Bluetooth Senza Fili  150H Ore  CVC 8.0  Cuffie Wireless Sport in Ear con Display LED e Touch Control  IPX7 Impermeabile  Custodia Di Ricarica](https://www.amazon.it/dp/B08B3QSV16/?tag=tolees00-21) con il prezzo 24.99 EUR (originale: 29.99 EUR) 16.67 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [Tiksounds - [2020 Ultimo Modello] Cuffie Bluetooth 5.0 Auricolari 
 
 ℹ️:
 
-- Antenna FPC e Bluetooth 5.0: Lantenna FPC integrata in combinazione con Bluetooth 5.0 garantisce una connessione stabile tra gli auricolari bluetooth S20 e lo Apple Airpods smartphone. Non si disconnette nemmeno su metropolitane affollate.
-- Powerbank e 150 ore di riproduzione: Gli cuffie senza filo S20 possono ascoltare musica fino a 5-6 ore con una singola carica e fino a 150 ore con la custodia di ricarica. Con la ricarica rapida USB, bastano 1,5 ore per caricare la custodia. caricare il telefono immediatamente allaperto o in caso di emergenza.
-- Design ergonomico e IPX7 impermeabile: Un singolo auricolare ha solo 4,9 g, forma ergonomica 120 ° per una perfetta aderenza in ciascun orecchio. Anche se lo indossi per molto tempo, non ti sentirai a disagio. Quando ti alleni, non si strofina e non cade. S20 bluetooth cuffie con una perfetta struttura impermeabile resistono perfettamente agli schizzi quotidiani di acqua, sudore, pioggia.
-- Aumento del 43% dei bassi: Gli auricolari wireless S20 utilizzano altoparlanti di grandi dimensioni da 10 mm e decodificatore ad alta risoluzione per aumentare i bassi del 43%. Progettato per gli amanti della musica.
-- Accurata visualizzazione della potenza e aspetto raffinato: Le cuffie senza fili S20 true utilizzano lesclusiva tecnologia di visualizzazione a LED per visualizzare con precisione la potenza residua negli auricolari e nella custodia di ricarica. Laspetto è spray lucido al 100%, Crea un tocco morbido e un aspetto raffinato.
+- Hi-Fi Stereo: Bluetooth earphones with 10mm graphene diaphragm，perfect support for APE, FLAC and other formats, allowing you to enjoy Apple Airpods lossless sound quality.
+- Waterproof IPX7: Wireless earphones are nano-coated to resist daily splashes, sweat, and rain.
+- 150H Playtime: Bluetooth earbuds get 6 hours playtime from single charge. With 3500 mA high-capacity charging case, it can last up to 150 hours.
+- LED Digital Display: Separated LED wireless headphones battery display design, You can clearly see the charge level of each earbud and charging case.
+- Portability: Charging case has a streamlined design that fits easily in your pocket and comes with a lanyard that can be strapped to your backpack to keep it handy.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3QSV16/?tag=tolees00-21)

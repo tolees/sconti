@@ -1,38 +1,38 @@
 ---
 layout: post
-title: 'Samsung Galaxy A12  Smartphone  Display  al 19.83 % di sconto'
-date: 2021-03-15 10:59:22
+title: 'Samsung Galaxy A12  Smartphone  Display  al 19.27 % di sconto'
+date: 2021-03-18 05:48:59
 image: 'https://m.media-amazon.com/images/I/41VjxovaX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08Q8KKQ6H-it Samsung Galaxy A12 Smartphone Display 6.5" HD+ 4...'
 sku: 'B08Q8KKQ6H-it'
-tags: [  ]
-actualPrice: 143.5 EUR
+tags: [ 'Abbigliamento','Abbigliamento da notte, lingerie e intimo donna','Abbigliamento donna','Abbigliamento uomo','Accessori da uomo','Accessori di gioco per PC','Accessori e parti per cerchioni e pneumatici','Accessori per Nintendo Switch','Accessori per PlayStation 4','Accessori per PlayStation 5','Accessori per Tablet PC','Accessori per Xbox One','Accessori per audio e video portatili','Accessori per cellulari','Accessori per computer','Accessori per puzzle','Accessori styling capelli','Activity tracker','Adattatori USB wireless','Adolescenti e ragazzi','Affilacoltelli','Affilacoltelli manuali','Altoparlanti','Altoparlanti e display smart Echo','Altoparlanti portatili e Docking Station con altoparlanti','Altoparlanti smart','Anime','Antenne e amplificatori per PC','Apparecchiature di registrazione','Archivio ufficio e accessori per scrivania','Audio e video portatile','Auto e Moto','Azione e avventura','Bambini e ragazzi','Bellezza','Bilance da cucina','Borse a mano e a spalla','Borse uomo','Bruciatori da cucina','Calzature da escursionismo uomo','Calze da donna','Calze e collant da donna','Cancelleria e prodotti per ufficio','Cappelli e cappellini da uomo','Cappellini da baseball da uomo','Caricabatterie a induzione','Caricabatterie per cellulari','Carte da gioco','Casa e cucina','Casse portatili Bluetooth','Cellulari e Smartphone','Cellulari e accessori','Ceppi portacoltelli','Cerchioni e pneumatici per veicoli','Cinture da uomo','Client Streaming','Coltelli da cucina','Compressori portatili','Console per Nintendo Switch','Contenitori e barattoli','Controller e telecomandi per Nintendo Switch','Controller e telecomandi per PlayStation 4','Controller e telecomandi per PlayStation 5','Controller standard e gamepads per PlayStation 4','Costruzioni','Cuffie','Cuffie Bluetooth monoaurali','Cuffie In-Ear','Cuffie On-Ear','Cuffie Over-Ear','Cuffie da studio','Cuffie gaming per PC','Cuffie, auricolari e accessori','Cura dei capelli','Custodie morbide e rigide per Tablet PC','Custodie rigide per Tablet PC','DVD','Decorazioni per interni','Detergenti per bucato','Detersivi liquidi per bucato','Detersivo per lavastoviglie','Display smart','Dispositivi Amazon','Dispositivi Amazon & Accessori','Dispositivi archiviazione dati','Dispositivi archiviazione dati interni','Dispositivi elettronici','Dispositivi per lo Streaming','Dispositivi – Set','Droni telecomandati','Elettrodomestici','Elettronica','Elettronica per bambini','Elicotteri telecomandati e quadricotteri','Energia solare','Famiglia e relazioni','Famiglia, problemi personali e sociali per bambini','Famiglia, salute e benessere','Fantascienza','Fantasy','Featured Categories','Felpe da uomo','Felpe senza cappuccio da uomo','Fermagli per capelli','Film','Film di guerra','Film e TV','Foto e videocamere','Game Boy Color: Giochi, console e accessori','Giacche da donna','Giacche e cappotti da donna','Giocattoli da collezione','Giochi da pavimento','Giochi da tavola, di società e accessori','Giochi da tavolo','Giochi di carte da accoppiare','Giochi di società','Giochi e accessori per PC','Giochi e giocattoli','Giochi educativi e scientifici','Giochi per Nintendo 3DS e 2DS','Giochi per Nintendo Switch','Giochi per PlayStation 4','Giochi per Xbox One','Giochi, console e accessori per Nintendo Switch','Giochi, console e accessori per PlayStation 4','Giochi, console e accessori per PlayStation 5','Giochi, console e accessori per Xbox One','Home Audio e Hi-Fi','Home Cinema, TV e video','Hub di rete e switch','Illuminazione','Illuminazione per interni','Illuminazione speciale','Informatica','Internet Key','Kit e esperimenti di scienze','Lampadine','Lampadine Wi-Fi','Lampadine a LED','Lampadine fluorescenti compatte','Lettori Blu-ray','Lettori e registratori Blu-ray','Libri','Libri per bambini','Libri su babysitting per bambini','Libri su famiglia e relazioni per bambini','Libri sui genitori bambini','Lingerie & Intimo da donna','Macchine per pulire apparecchiature ufficio','Marcatori ed evidenziatori','Mutande da donna','Nastri LED','Nintendo 3DS e 2DS','Orologi','Orologi da polso da donna','Orologi da polso da uomo','Orologi donna','Orologi uomo','Pennarelli indelebili e marcatori','Penne, matite, scrittura e correzione','Periferiche di rete','Perizomi, string e tanga da donna','Personaggi bobblehead da collezione','Personaggi giocattolo','Personaggi giocattolo dazione','Personaggi sproporzionati da collezione','Pezzi da collezione','Playset con personaggi per bambini','Playset con pupazzetti per bambini','Porta carta da cucina','Portafogli e porta documenti','Portafogli e porta documenti da uomo','Portafogli uomo','Portaoggetti e supporti','Problemi familiari per ragazzi','Problemi sociali e familiari per ragazzi','Prodotti per lavare le stoviglie','Pulizia e cura della casa','Pupazzetti di animali','Puzzle','Radiocomandati e telecomandati','Rasatura e rimozione peli','Rasoi per il corpo','Regolabarba, tagliacapelli e rasoi per il corpo','Relazioni genitori-figli per ragazzi','Retrogaming e micro console','Ripetitori per PC','Robot da cucina','Robot da cucina grandi','Robot da cucina, frullatori e impastatrici','Robots per bambini','Rotoli di carta da cucina, carta igienica e fazzoletti','Rotoli di carta igienica','Router','Salute e cura della persona','Scarpe','Scarpe bambini e ragazzi','Scarpe da atletica leggera uomo','Scarpe da corsa su strada uomo','Scarpe da corsa uomo','Scarpe da escursionismo uomo','Scarpe donna','Scarpe e borse','Scarpe sportive da uomo','Scarpe uomo','Sicurezza e illuminazione per Casa Intelligente','Sistemi di rete WiFi Mesh','Smartwatch','Sneaker casual da bambino','Sneaker casual da donna','Sneaker casual da uomo','Sneaker e scarpe sportive da bambino','Sneaker e scarpe sportive da donna','Sneaker e scarpe sportive da uomo','Soundbar','Sport e tempo libero','Statuette, repliche e busti da collezione','Statuette, sculture e busti da collezione','Statuine da collezione','Stereo compatti','Stivali uomo','Strumenti Musicali','Strumenti musicali','T-shirt da donna','T-shirt, top e bluse da donna','Tablet PC','Tagliacapelli','Televisori','Termometri da carne','Termometri da cucina','Thriller','Unità a stato solido interne','Unità di memoria e Hard-disk per Xbox One','Utensili da cucina','Valigeria','Veicoli giocattolo','Velivoli telecomandati','Videocamere di sorveglianza','Videogiochi','samsung', ]
+actualPrice: 144.5 EUR
 currency: EUR
-price: 143.5
+price: 144.5
 comparePrice: 179.0 EUR
 prodname: 'Samsung Galaxy A12  Smartphone  Display 6.5" HD+  4 Fotocamere Posteriori  64 GB Espandibili  RAM 4 GB  Batteria 5000 mAh  4G  Dual Sim  Android 10  205 g  Ricarica Rapida [Versione Italiana]  Nero'
 country: 'it'
 flag: '🇮🇹'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.it/dp/B08Q8KKQ6H/?tag=tolees00-21'
-descuento: '19.83'
-average: '153.471621621622'
+descuento: '19.27'
+average: '153.23552631579'
 ---
 
-Puoi trovare [Samsung Galaxy A12  Smartphone  Display 6.5" HD+  4 Fotocamere Posteriori  64 GB Espandibili  RAM 4 GB  Batteria 5000 mAh  4G  Dual Sim  Android 10  205 g  Ricarica Rapida [Versione Italiana]  Nero](https://www.amazon.it/dp/B08Q8KKQ6H/?tag=tolees00-21) con il prezzo 143.5 EUR (originale: 179.0 EUR) 19.83 % sconto qui:
+Puoi trovare [Samsung Galaxy A12  Smartphone  Display 6.5" HD+  4 Fotocamere Posteriori  64 GB Espandibili  RAM 4 GB  Batteria 5000 mAh  4G  Dual Sim  Android 10  205 g  Ricarica Rapida [Versione Italiana]  Nero](https://www.amazon.it/dp/B08Q8KKQ6H/?tag=tolees00-21) con il prezzo 144.5 EUR (originale: 179.0 EUR) 19.27 % sconto qui:
 
 [![Samsung Galaxy A12  Smartphone  Display ](https://m.media-amazon.com/images/I/41VjxovaX7L._SL400_.jpg)](https://www.amazon.it/dp/B08Q8KKQ6H/?tag=tolees00-21)
 
 ℹ️:
 
-- Quattro fotocamere posteriori per permetterti di scattare fotografie chiare e nitide da 48 MP, immortalare panorami sconfinati o mettere in risalto il tuo soggetto grazie alleffetto Fuoco Live.
-- Grazie alla sua batteria da 5.000 mAh, Galaxy A12 ti supporta per tutta la giornata. Sfrutta la tecnologia di Ricarica Rapida da 15W per riportare il tuo smartphone al 100% più velocemente.
 - La confezione contiene: smartphone Galaxy A12, Caricatore, Cavo USB, Estrattore metallico, Guida di avviamento rapido
-- Con il display Infinity-V da 6,5" di Galaxy A12 puoi guardare video, streaming e giocare in qualità HD+. E grazie al rapporto di forma 20:9 la tua esperienza sarà a livello cinematografico.
 - Per prestazioni fluide ed efficienti, il processore Octa Core con 4 GB di RAM fa al caso tuo. Espandi fino a 1 TB la memoria interna da 64 GB per conservare tutti i tuoi ricordi.
 - Il design ergonomico ed elegante di Galaxy A12 e le sue linee arrotondate ti offrono una presa confortevole. Lasciati conquistare dai colori e dalla finitura opaca per uno stile unico e alla moda.
+- Quattro fotocamere posteriori per permetterti di scattare fotografie chiare e nitide da 48 MP, immortalare panorami sconfinati o mettere in risalto il tuo soggetto grazie alleffetto Fuoco Live.
+- Con il display Infinity-V da 6,5" di Galaxy A12 puoi guardare video, streaming e giocare in qualità HD+. E grazie al rapporto di forma 20:9 la tua esperienza sarà a livello cinematografico.
+- Grazie alla sua batteria da 5.000 mAh, Galaxy A12 ti supporta per tutta la giornata. Sfrutta la tecnologia di Ricarica Rapida da 15W per riportare il tuo smartphone al 100% più velocemente.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Q8KKQ6H/?tag=tolees00-21)

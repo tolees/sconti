@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'sconto del 48.79 % su Timberland Adventure 2.0 Cupsole Chukka   '
-date: 2021-03-13 18:09:48
+title: 'sconto del 46.90 % su Timberland Adventure 2.0 Cupsole Chukka   '
+date: 2021-03-18 06:14:01
 image: 'https://m.media-amazon.com/images/I/41V4M8u1yrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBITBIZ-it Timberland Adventure 2.0 Cupsole Chukka Sneakers Alte Uomo...'
 sku: 'B01NBITBIZ-it'
-tags: [  ]
-actualPrice: 74.25 EUR
+tags: [ 'Abbigliamento','Abbigliamento donna','Abbigliamento uomo','Accessori da uomo','Accessori e parti per cerchioni e pneumatici','Accessori per Xbox One','Accessori per audio e video portatili','Accessori per cellulari','Accessori per puzzle','Accessori styling capelli','Activity tracker','Adolescenti e ragazzi','Affilacoltelli','Affilacoltelli manuali','Altoparlanti','Altoparlanti e display smart Echo','Altoparlanti portatili e Docking Station con altoparlanti','Altoparlanti smart','Anime','Audio e video portatile','Auto e Moto','Azione e avventura','Bambini e ragazzi','Bellezza','Bilance da cucina','Cappelli e cappellini da uomo','Cappellini da baseball da uomo','Casa e cucina','Casse portatili Bluetooth','Cellulari e Smartphone','Cellulari e accessori','Ceppi portacoltelli','Cerchioni e pneumatici per veicoli','Cinture da uomo','Client Streaming','Coltelli da cucina','Compressori portatili','Console per Nintendo Switch','Contenitori e barattoli','Costruzioni','Cuffie','Cuffie In-Ear','Cuffie On-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','Cura dei capelli','DVD','Decorazioni per interni','Display smart','Dispositivi Amazon','Dispositivi Amazon & Accessori','Dispositivi archiviazione dati','Dispositivi archiviazione dati interni','Dispositivi elettronici','Dispositivi per lo Streaming','Dispositivi – Set','Droni telecomandati','Elettrodomestici','Elettronica','Elettronica per bambini','Energia solare','Famiglia e relazioni','Famiglia, problemi personali e sociali per bambini','Famiglia, salute e benessere','Fantascienza','Fantasy','Featured Categories','Fermagli per capelli','Film','Film di guerra','Film e TV','Foto e videocamere','Game Boy Color: Giochi, console e accessori','Giacche da donna','Giacche e cappotti da donna','Giocattoli da collezione','Giochi da tavola, di società e accessori','Giochi da tavolo','Giochi di società','Giochi e giocattoli','Giochi educativi e scientifici','Giochi per Nintendo 3DS e 2DS','Giochi per Nintendo Switch','Giochi per Xbox One','Giochi, console e accessori per Nintendo Switch','Giochi, console e accessori per Xbox One','Home Audio e Hi-Fi','Home Cinema, TV e video','Illuminazione','Illuminazione per interni','Illuminazione speciale','Informatica','Internet Key','Kit e esperimenti di scienze','Lampadine','Lampadine a LED','Lettori Blu-ray','Lettori e registratori Blu-ray','Libri','Libri per bambini','Libri su babysitting per bambini','Libri su famiglia e relazioni per bambini','Libri sui genitori bambini','Nastri LED','Nintendo 3DS e 2DS','Orologi','Orologi da polso da donna','Orologi da polso da uomo','Orologi donna','Orologi uomo','Periferiche di rete','Personaggi bobblehead da collezione','Personaggi giocattolo','Personaggi giocattolo dazione','Personaggi sproporzionati da collezione','Pezzi da collezione','Playset con personaggi per bambini','Playset con pupazzetti per bambini','Porta carta da cucina','Portafogli e porta documenti','Portafogli e porta documenti da uomo','Portafogli uomo','Portaoggetti e supporti','Problemi familiari per ragazzi','Problemi sociali e familiari per ragazzi','Pulizia e cura della casa','Pupazzetti di animali','Puzzle','Radiocomandati e telecomandati','Relazioni genitori-figli per ragazzi','Retrogaming e micro console','Ripetitori per PC','Robot da cucina','Robot da cucina grandi','Robot da cucina, frullatori e impastatrici','Robots per bambini','Rotoli di carta da cucina, carta igienica e fazzoletti','Rotoli di carta igienica','Salute e cura della persona','Scarpe','Scarpe bambini e ragazzi','Scarpe da atletica leggera uomo','Scarpe da corsa su strada uomo','Scarpe da corsa uomo','Scarpe e borse','Scarpe sportive da uomo','Scarpe uomo','Sicurezza e illuminazione per Casa Intelligente','Sistemi di rete WiFi Mesh','Smartwatch','Sneaker casual da bambino','Sneaker casual da uomo','Sneaker e scarpe sportive da bambino','Sneaker e scarpe sportive da uomo','Soundbar','Sport e tempo libero','Statuette, repliche e busti da collezione','Statuette, sculture e busti da collezione','Statuine da collezione','Stivali uomo','Tablet PC','Televisori','Termometri da carne','Termometri da cucina','Thriller','Unità a stato solido interne','Unità di memoria e Hard-disk per Xbox One','Utensili da cucina','Valigeria','Veicoli giocattolo','Velivoli telecomandati','Videocamere di sorveglianza','Videogiochi','timberland', ]
+actualPrice: 76.99 EUR
 currency: EUR
-price: 74.25
+price: 76.99
 comparePrice: 145.0 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Verde Dark Olive  43 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21'
-descuento: '48.79'
-average: '73.33'
+descuento: '46.90'
+average: '73.5333333333333'
 ---
 
-[Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Verde Dark Olive  43 EU](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21) ha un prezzo di 74.25 EUR (originale: 145.0 EUR) con uno sconto del 48.79 % sconto qui:
+[Timberland Adventure 2.0 Cupsole Chukka  Sneakers Alte Uomo  Verde Dark Olive  43 EU](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21) ha un prezzo di 76.99 EUR (originale: 145.0 EUR) con uno sconto del 46.90 % sconto qui:
 
 [![Timberland Adventure 2.0 Cupsole Chukka ](https://m.media-amazon.com/images/I/41V4M8u1yrL._SL400_.jpg)](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21)
 
 ℹ️:
 
 - Soletta in EVA che ammortizza e assorbe gli urti
-- Comoda fodera in mesh traspirante
-- Pregiata pelle pieno fiore proveniente da una conceria sostenibile classificata Silver da LWG
-- Collo imbottito che avvolge la caviglia
 - Modello stringato per la massima sicurezza
+- Pregiata pelle pieno fiore proveniente da una conceria sostenibile classificata Silver da LWG
+- Comoda fodera in mesh traspirante
+- Collo imbottito che avvolge la caviglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21)
