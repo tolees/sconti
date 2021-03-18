@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLGX449-it BLADE HAWKS Tappetino Mouse Gaming RGB Gaming Tappetino...'
 sku: 'B07PLGX449-it'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

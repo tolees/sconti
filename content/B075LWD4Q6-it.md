@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075LWD4Q6-it Lavazza Espresso Decaffeinato Ricco - 10 Confezioni da 10...'
 sku: 'B075LWD4Q6-it'
+tags: [  ]
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

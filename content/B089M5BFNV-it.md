@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089M5BFNV-it Campanello Senza Fili da Esterno Impermeabile IP55...'
 sku: 'B089M5BFNV-it'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

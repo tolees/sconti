@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015MM3TGC-it SLOTRA Zaino per Computer Portatile 15.6 Pollici Zaino per...'
 sku: 'B015MM3TGC-it'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

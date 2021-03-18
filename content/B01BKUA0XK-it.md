@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BKUA0XK-it Birkenstock Arizona - Sandali a Punta Aperta Uomo Grigio...'
 sku: 'B01BKUA0XK-it'
+tags: [  ]
 actualPrice: 43.1 EUR
 currency: EUR
 price: 43.1

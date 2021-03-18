@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRLZ9T1-it Vans Ward Sneaker Unisex – Bambini Suede/Canvas...'
 sku: 'B01MRLZ9T1-it'
+tags: [  ]
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

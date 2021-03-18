@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6QJCQ4-it Melchioni ARTIC47LT Mini frigo bar con congelatore A+...'
 sku: 'B07K6QJCQ4-it'
+tags: [  ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

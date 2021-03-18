@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DN9FT24-it Immunilflor - 12 Mini Drink'
 sku: 'B00DN9FT24-it'
+tags: [  ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

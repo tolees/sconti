@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MBIJ9LU-it Ferrolin C - 24 Pocket Drink'
 sku: 'B00MBIJ9LU-it'
+tags: [  ]
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

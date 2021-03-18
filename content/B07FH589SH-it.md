@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FH589SH-it Havaianas Slim 4000030 Infradito Donna Rosa Hollywood Rose...'
 sku: 'B07FH589SH-it'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

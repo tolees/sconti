@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2CSKF3-it Timberland Adventure 2.0 Cupsole Modern Oxford Sneaker...'
 sku: 'B07K2CSKF3-it'
+tags: [  ]
 actualPrice: 50.98 EUR
 currency: EUR
 price: 50.98

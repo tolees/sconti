@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WVXLDZ-it Braun Series 5 5147s Rasoio da Barba Elettrico...'
 sku: 'B071WVXLDZ-it'
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

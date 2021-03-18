@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CGTJTJ9-it YQHbe Apriscatole Manuale Go Swing apriscatole Manuale di...'
 sku: 'B08CGTJTJ9-it'
+tags: [  ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

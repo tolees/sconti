@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IAQ3BCA-it Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano...'
 sku: 'B00IAQ3BCA-it'
+tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4TFQF-it Levi s Ex-Boyfriend Trucker Giacca in Jeans Blu for Real...'
 sku: 'B07KF4TFQF-it'
+tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HP9F5XQ-it Skechers Men s STATUS 2.0- PEXTON Trainers Blue Navy NVY...'
 sku: 'B07HP9F5XQ-it'
+tags: [  ]
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BX8YYKT-it Microsoft Surface GO 2 8Gb RAM - 128Gb SSD Dual-Core Intel...'
 sku: 'B08BX8YYKT-it'
+tags: [  ]
 actualPrice: 549.0 EUR
 currency: EUR
 price: 549.0

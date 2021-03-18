@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089JZL5KC-it TECLAST F15 Notebook Portatile 15.6 Pollici Laptop...'
 sku: 'B089JZL5KC-it'
+tags: [  ]
 actualPrice: 339.99 EUR
 currency: EUR
 price: 339.99

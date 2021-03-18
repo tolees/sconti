@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6JG6Z7-it Logitech MX Master 3 Mouse Wireless Avanzato Ricevitore...'
 sku: 'B07W6JG6Z7-it'
+tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BL57DFP-it Striscia LED RGB 5M 8 Colori 18 Modalità Più Colori...'
 sku: 'B08BL57DFP-it'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L2B30WA-it Caffè Borbone Respresso Miscela Decaffeinata - Confezione...'
 sku: 'B01L2B30WA-it'
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

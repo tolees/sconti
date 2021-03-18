@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JSLWZF3-it HANMUN Sonagli per Bambini Giocattoli Giochi Neonati...'
 sku: 'B08JSLWZF3-it'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

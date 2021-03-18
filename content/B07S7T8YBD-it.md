@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7T8YBD-it Beschoi Specchio Trucco con Luci LED Specchio Ingranditore...'
 sku: 'B07S7T8YBD-it'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

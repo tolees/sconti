@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0026J2LQO-it Giotto Stilnovo pastelli colorati in astuccio 24 colori'
 sku: 'B0026J2LQO-it'
+tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004ZIPKJY-it Helly Hansen New Driftline Maglia T-Shirt con UPF 30+ e...'
 sku: 'B004ZIPKJY-it'
+tags: [  ]
 actualPrice: 33.53 EUR
 currency: EUR
 price: 33.53

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007PY5RY8-it Crocs Winter Puff Boot K Stivaletti Unisex - bambino Blu...'
 sku: 'B007PY5RY8-it'
+tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

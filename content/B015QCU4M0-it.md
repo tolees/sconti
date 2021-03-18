@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015QCU4M0-it Resident Evil Origins Collection - PlayStation 4'
 sku: 'B015QCU4M0-it'
+tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

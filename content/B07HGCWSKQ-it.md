@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGCWSKQ-it Pulitore ad Ultrasuoni TACKLIFE MUC02 Lavatrice ad...'
 sku: 'B07HGCWSKQ-it'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQJVCWM-it INPHIC Mouse Wireless Ricaricabile Mouse Senza Fili...'
 sku: 'B07YQJVCWM-it'
+tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

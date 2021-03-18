@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BMMJUA6-it Geox U DUBLIN B Scarpe Stringate Basse Brogue Uomo Nero...'
 sku: 'B00BMMJUA6-it'
+tags: [  ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

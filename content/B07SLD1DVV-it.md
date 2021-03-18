@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLD1DVV-it Vitalis muesli croccante frutta secca - 300 g'
 sku: 'B07SLD1DVV-it'
+tags: [  ]
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005S1VHKI-it Aeg FDS 140 Levigatrice Orbitale'
 sku: 'B005S1VHKI-it'
+tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

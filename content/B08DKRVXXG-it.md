@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKRVXXG-it QHOHQ Cinturino Metallo per Xiaomi Mi Band 5 Sostituibile...'
 sku: 'B08DKRVXXG-it'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

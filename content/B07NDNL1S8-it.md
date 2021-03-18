@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDNL1S8-it Olimpia Splendid 01913 Dolceclima Compact 8 P...'
 sku: 'B07NDNL1S8-it'
+tags: [  ]
 actualPrice: 225.99 EUR
 currency: EUR
 price: 225.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MPY2TNU-it Lacoste TH6712 T-Shirt Grigio Argent Chine XX-Large Taglia...'
 sku: 'B01MPY2TNU-it'
+tags: [  ]
 actualPrice: 46.36 EUR
 currency: EUR
 price: 46.36

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZDWYZ1-it Reality Leuchten r50351001 lampada da tavolo in ceramica...'
 sku: 'B01MZDWYZ1-it'
+tags: [ 'Illuminazione','Illuminazione per interni','Lampade','Lampade da tavolo e abat-jour','reality leuchten', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9
@@ -27,8 +28,8 @@ average: '9.9'
 
 ℹ️:
 
-- 1 X E14 max. 40 W, lampadine non incluse
-- Tessuto chreme schermo in tessuto, base in ceramica marrone
 - Con interruttore
+- Tessuto chreme schermo in tessuto, base in ceramica marrone
+- 1 X E14 max. 40 W, lampadine non incluse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZDWYZ1/?tag=tolees00-21)

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ8XBBK-it Timberland Boroughs Project Leather Oxford Sneaker Uomo...'
 sku: 'B07SZ8XBBK-it'
+tags: [  ]
 actualPrice: 55.66 EUR
 currency: EUR
 price: 55.66

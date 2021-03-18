@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ138HC-it FIFA 20 - Champions - Xbox One 3 anni +'
 sku: 'B07SJ138HC-it'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

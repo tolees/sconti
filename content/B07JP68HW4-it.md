@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JP68HW4-it JACK & JONES Jjimarco Jjbowie Sa Noos Pantaloni Blu Navy...'
 sku: 'B07JP68HW4-it'
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

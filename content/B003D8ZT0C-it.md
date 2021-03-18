@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003D8ZT0C-it Logitech M90 Mouse USB Cablato 1000 DPI Mouse Ambidestro...'
 sku: 'B003D8ZT0C-it'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

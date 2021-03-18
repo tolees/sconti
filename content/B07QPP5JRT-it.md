@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPP5JRT-it Durex Love Collection Preservativi Assortiti Stimolanti e...'
 sku: 'B07QPP5JRT-it'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

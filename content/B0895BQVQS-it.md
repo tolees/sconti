@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895BQVQS-it Smac - Express Pavimenti Freschezza Intensa - 1000ml x 12...'
 sku: 'B0895BQVQS-it'
+tags: [  ]
 actualPrice: 19.1 EUR
 currency: EUR
 price: 19.1

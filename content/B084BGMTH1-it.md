@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084BGMTH1-it Antica Erboristeria Dentifricio Totale Antiplacca con...'
 sku: 'B084BGMTH1-it'
+tags: [  ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

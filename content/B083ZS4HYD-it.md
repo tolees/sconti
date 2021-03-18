@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZS4HYD-it SanDisk Ultra Fit Unità Flash USB 3.1 da 512 GB con...'
 sku: 'B083ZS4HYD-it'
+tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

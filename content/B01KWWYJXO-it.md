@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KWWYJXO-it Philips AC2887/10 Purificatore d Aria con Tecnologia...'
 sku: 'B01KWWYJXO-it'
+tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

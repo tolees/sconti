@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IY4G9WQ-it Reebok Exofit Lo Clean Logo Int Scarpe da Ginnastica Basse...'
 sku: 'B01IY4G9WQ-it'
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

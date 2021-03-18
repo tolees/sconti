@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVJD8Z2-it AMANKA Luce Bici Luci LED per Bicicletta Ricaricabili USB...'
 sku: 'B07FVJD8Z2-it'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

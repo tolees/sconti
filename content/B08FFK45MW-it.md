@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFK45MW-it Pellicola Xiaomi Mi Note 10 Lite Vetro Temperato 9H...'
 sku: 'B08FFK45MW-it'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

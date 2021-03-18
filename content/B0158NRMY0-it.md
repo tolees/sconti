@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0158NRMY0-it Listerine Collutorio Total Care Gusto Delicato 6 Benefici...'
 sku: 'B0158NRMY0-it'
+tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002Z7FVTQ-it D&G 3 L IMPERATRICE EDT 100ML'
 sku: 'B002Z7FVTQ-it'
+tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YDR1Y9-it Accurist Orologio Analogico-Digitale Quarzo Uomo con...'
 sku: 'B077YDR1Y9-it'
+tags: [  ]
 actualPrice: 82.23 EUR
 currency: EUR
 price: 82.23

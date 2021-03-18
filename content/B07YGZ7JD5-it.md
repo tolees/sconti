@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGZ7JD5-it Kingston Canvas Select Plus SDCS2/128GB Scheda microSD...'
 sku: 'B07YGZ7JD5-it'
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

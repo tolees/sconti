@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XKLHVVK-it ORICO Stazione di Ricarica Mobile USB Dock di Ricarica USB...'
 sku: 'B06XKLHVVK-it'
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

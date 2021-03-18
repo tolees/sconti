@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCST0U-it Crocs Crocband Clogs Ciabatte Unisex – Adulto Blu Navy...'
 sku: 'B002JCST0U-it'
+tags: [  ]
 actualPrice: 30.75 EUR
 currency: EUR
 price: 30.75

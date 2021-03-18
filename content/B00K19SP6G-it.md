@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K19SP6G-it Supradyn Magnesio e Potassio - Integratore Multiminerali...'
 sku: 'B00K19SP6G-it'
+tags: [  ]
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJRMPHZ-it Echo Show 5 Ricondizionato Certificato Schermo compatto e...'
 sku: 'B07NJRMPHZ-it'
+tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

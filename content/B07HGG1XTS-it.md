@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGG1XTS-it JBL Tune500BT Cuffie Wireless Sovraurali con funzione...'
 sku: 'B07HGG1XTS-it'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

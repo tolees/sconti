@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A8LGG86-it Intex 28101 My First Easy Cm 183X51 Piscina Gioco Estivo...'
 sku: 'B00A8LGG86-it'
+tags: [  ]
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

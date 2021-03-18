@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089F2XN7G-it Coca-Cola Original Taste 330ml x24 Lattina'
 sku: 'B089F2XN7G-it'
+tags: [  ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

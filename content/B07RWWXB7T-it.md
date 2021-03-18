@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWWXB7T-it Telecamera IP di sicurezza da interni Imou per...'
 sku: 'B07RWWXB7T-it'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076H9D7ZJ-it Daniel Wellington DW00100217 Orologio Analogico Quarzo...'
 sku: 'B076H9D7ZJ-it'
+tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

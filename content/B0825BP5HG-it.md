@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825BP5HG-it National Geographic Travel Kit Treppiede con Monopiede...'
 sku: 'B0825BP5HG-it'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

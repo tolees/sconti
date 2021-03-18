@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XWPZ2XA-it Nike Tanjun Mn Scarpe Sportive Uomo Blu Midnight...'
 sku: 'B00XWPZ2XA-it'
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

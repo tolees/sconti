@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I060RAY-it givova Visa Fluo Tuta da Ginnastica Uomo Nero/Bianco L'
 sku: 'B00I060RAY-it'
+tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFYX5S4-it PUMA Ralph Sampson Lo Sneaker Unisex-Adulto Bianco White...'
 sku: 'B07KFYX5S4-it'
+tags: [  ]
 actualPrice: 33.37 EUR
 currency: EUR
 price: 33.37

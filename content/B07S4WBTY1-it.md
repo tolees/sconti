@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4WBTY1-it Levi s Relaxed Graphic Felpa Bianco Crew Box Tab White+...'
 sku: 'B07S4WBTY1-it'
+tags: [  ]
 actualPrice: 27.66 EUR
 currency: EUR
 price: 27.66

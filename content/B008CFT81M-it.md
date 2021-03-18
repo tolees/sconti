@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CFT81M-it Zig Zag Insetticida Habitat Multinsetto Inodore Ideale per...'
 sku: 'B008CFT81M-it'
+tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

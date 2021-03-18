@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087K1LVND-it Mag Ricarica 24 Ore Integratore Alimentare Contro la...'
 sku: 'B087K1LVND-it'
+tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

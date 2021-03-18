@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DKXSCPE-it Capsule Lavazza A Modo Mio Espresso Intenso - Confezione...'
 sku: 'B00DKXSCPE-it'
+tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

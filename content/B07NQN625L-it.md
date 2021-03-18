@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQN625L-it Bimar Silente VPS40 - Ventilatore a Piantana con...'
 sku: 'B07NQN625L-it'
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

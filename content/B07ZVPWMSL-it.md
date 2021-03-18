@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVPWMSL-it Levi s Hoodie Felpa con Cappuccio Mineral Black L Uomo'
 sku: 'B07ZVPWMSL-it'
+tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

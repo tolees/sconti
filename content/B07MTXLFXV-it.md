@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTXLFXV-it Logitech G432 Cuffie Gaming Cablate Audio Surround 7.1...'
 sku: 'B07MTXLFXV-it'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

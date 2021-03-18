@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFQCY7L-it Moulinex FP2461 Easy Force Robot da Cucina All-in-One 6...'
 sku: 'B07PFQCY7L-it'
+tags: [  ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

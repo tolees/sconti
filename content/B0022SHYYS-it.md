@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0022SHYYS-it Konus - Bussola KONUSTAR-10 Grigia 4074'
 sku: 'B0022SHYYS-it'
+tags: [  ]
 actualPrice: 50.57 EUR
 currency: EUR
 price: 50.57

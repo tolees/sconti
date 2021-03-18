@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXGB1GQ-it DEIK Frullatore Blender 6 In 1 con 3 Bottiglie Portatili...'
 sku: 'B07BXGB1GQ-it'
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

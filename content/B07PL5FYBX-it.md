@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PL5FYBX-it Scottonelle Carta Igienica Soffice e Trapuntata Confezione...'
 sku: 'B07PL5FYBX-it'
+tags: [  ]
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

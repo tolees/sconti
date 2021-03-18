@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H34HNN8-it Deik Bilancia Pesa Persona Digitale Bluetooth Bilancia...'
 sku: 'B07H34HNN8-it'
+tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

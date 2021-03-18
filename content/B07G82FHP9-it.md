@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G82FHP9-it Polar Vantage M Sportwatch per Allenamenti Multisport...'
 sku: 'B07G82FHP9-it'
+tags: [  ]
 actualPrice: 189.9 EUR
 currency: EUR
 price: 189.9

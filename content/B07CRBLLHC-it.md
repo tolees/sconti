@@ -1,37 +1,38 @@
 ---
 layout: post
-title: 'sconto del 42.78 % su Bosch HBA574BR0 Forno  3600 W  71 Litri   '
-date: 2021-02-20 10:32:08
-image: 'https://m.media-amazon.com/images/I/41j2MAoXRxL._SL200_.jpg'
+title: 'sconto del 42.49 % su Bosch HBA574BR0 Forno  3600 W  71 Litri   '
+date: 2021-03-18 14:37:15
+image: 'https://m.media-amazon.com/images/I/41j2MAoXRxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRBLLHC-it Bosch HBA574BR0 Forno 3600 W 71 Litri Acciaio Inossidabile'
 sku: 'B07CRBLLHC-it'
-actualPrice: 399.99 EUR
+tags: [ 'Cucine, forni e piani cottura','Forni','Grandi elettrodomestici','bosch', ]
+actualPrice: 402.0 EUR
 currency: EUR
-price: 399.99
+price: 402.0
 comparePrice: 699.0 EUR
 prodname: 'Bosch HBA574BR0 Forno  3600 W  71 Litri  Acciaio Inossidabile'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Bosch'
 buyurl: 'https://www.amazon.it/dp/B07CRBLLHC/?tag=tolees00-21'
-descuento: '42.78'
-average: '399.99'
+descuento: '42.49'
+average: '400.995'
 ---
 
-[Bosch HBA574BR0 Forno  3600 W  71 Litri  Acciaio Inossidabile](https://www.amazon.it/dp/B07CRBLLHC/?tag=tolees00-21) ha un prezzo di 399.99 EUR (originale: 699.0 EUR) con uno sconto del 42.78 % sconto qui:
+[Bosch HBA574BR0 Forno  3600 W  71 Litri  Acciaio Inossidabile](https://www.amazon.it/dp/B07CRBLLHC/?tag=tolees00-21) ha un prezzo di 402.0 EUR (originale: 699.0 EUR) con uno sconto del 42.49 % sconto qui:
 
-[![Bosch HBA574BR0 Forno  3600 W  71 Litri ](https://m.media-amazon.com/images/I/41j2MAoXRxL._SL200_.jpg)](https://www.amazon.it/dp/B07CRBLLHC/?tag=tolees00-21)
+[![Bosch HBA574BR0 Forno  3600 W  71 Litri ](https://m.media-amazon.com/images/I/41j2MAoXRxL._SL400_.jpg)](https://www.amazon.it/dp/B07CRBLLHC/?tag=tolees00-21)
 
 ℹ️:
 
-- Display digitale LED rosso: facile e comodo da utilizzare.
-- Programmi automatici di cottura: cucinare sarà semplicissimo grazie ai programmi con impostazioni già preselezionate.
-- Cottura HotAir 3D: risultati perfetti di cottura grazie alla distribuzione omogenea del aria al interno della cavità, che consente di cucinare fino a 3 livelli allo stesso tempo.
 - Volume cavità: 71 l
 - Autopulizia pirolitica
+- Cottura HotAir 3D: risultati perfetti di cottura grazie alla distribuzione omogenea del aria al interno della cavità, che consente di cucinare fino a 3 livelli allo stesso tempo.
 - Classe Energetica: A
+- Programmi automatici di cottura: cucinare sarà semplicissimo grazie ai programmi con impostazioni già preselezionate.
+- Display digitale LED rosso: facile e comodo da utilizzare.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CRBLLHC/?tag=tolees00-21)

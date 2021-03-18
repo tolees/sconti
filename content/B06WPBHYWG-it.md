@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WPBHYWG-it Adidas Vs Pace Scarpe da Ginnastica Uomo Blu...'
 sku: 'B06WPBHYWG-it'
+tags: [  ]
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

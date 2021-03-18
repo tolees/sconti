@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZJHD85-it TOPTRO Bluetooth Proiettore Nativo 1080P e 350 ” 7000 Lux...'
 sku: 'B086ZJHD85-it'
+tags: [  ]
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KM2BXD-it Lavazza Capsule Caffè A Modo Mio Gingseng 10 Confezioni da...'
 sku: 'B074KM2BXD-it'
+tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

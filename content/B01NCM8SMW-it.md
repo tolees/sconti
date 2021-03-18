@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCM8SMW-it Omino Bianco - Idrocaps White Sbianca E Smacchia Ultra...'
 sku: 'B01NCM8SMW-it'
+tags: [  ]
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

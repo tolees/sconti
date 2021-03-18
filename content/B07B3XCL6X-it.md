@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3XCL6X-it Polaroid Eyewear PLD 6041/S Occhiali da Sole Black 56...'
 sku: 'B07B3XCL6X-it'
+tags: [  ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

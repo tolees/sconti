@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077B63VMG-it Calvin Klein 3p Low Rise Trunk Boxer Nero Black W. Black...'
 sku: 'B077B63VMG-it'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

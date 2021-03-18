@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MEG3SJB-it Io Sono Leggenda'
 sku: 'B01MEG3SJB-it'
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

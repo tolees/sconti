@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CY85NN4-it homcom Libreria Scaffale Portagiochi per Cameretta Bimbi e...'
 sku: 'B08CY85NN4-it'
+tags: [  ]
 actualPrice: 83.96 EUR
 currency: EUR
 price: 83.96

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073J5HF8C-it Tommy Hilfiger Not Applicable'
 sku: 'B073J5HF8C-it'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

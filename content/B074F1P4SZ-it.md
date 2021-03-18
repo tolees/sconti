@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074F1P4SZ-it Colgate Dentifricio Expert White - Pacco da 12 x 75 ml -...'
 sku: 'B074F1P4SZ-it'
+tags: [  ]
 actualPrice: 35.88 EUR
 currency: EUR
 price: 35.88

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXZT12X-it HUAWEI Freebuds 3 Auricolare Bluetooth Bianco'
 sku: 'B07YXZT12X-it'
+tags: [  ]
 actualPrice: 117.7 EUR
 currency: EUR
 price: 117.7

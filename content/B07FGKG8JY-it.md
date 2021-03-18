@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FGKG8JY-it Spazzolino Elettrico Ricaricabile Braun Oral-B Vitality...'
 sku: 'B07FGKG8JY-it'
+tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

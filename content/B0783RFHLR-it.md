@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0783RFHLR-it PUMA Ignite Flash Evoknit Scarpe da Corsa Uomo Nero Black...'
 sku: 'B0783RFHLR-it'
+tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

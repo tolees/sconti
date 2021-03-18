@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGDYVJK-it Nba 2K20 - Standard - PlayStation 4'
 sku: 'B07XGDYVJK-it'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

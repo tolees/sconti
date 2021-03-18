@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8WL7WJ-it Cooler Master MM710 Mouse Gaming Ultraleggero 53g Cavo...'
 sku: 'B07W8WL7WJ-it'
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086SR1KML-it Asciugacapelli Slopehill 1800W AC Phon Professionale Ioni...'
 sku: 'B086SR1KML-it'
+tags: [  ]
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077K1BGK6-it Justice League 4K+Br'
 sku: 'B077K1BGK6-it'
+tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017KE8OG0-it Seagate Expansion Unità Disco Esterna Portatile da 4 TB -...'
 sku: 'B017KE8OG0-it'
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

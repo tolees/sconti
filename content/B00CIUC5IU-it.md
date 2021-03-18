@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CIUC5IU-it Candy CMG2071DS Microonde 20L 700W Argento'
 sku: 'B00CIUC5IU-it'
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJ3ZDTN-it Aigostar - Lampada da scrivania con protezione degli occhi...'
 sku: 'B08BJ3ZDTN-it'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

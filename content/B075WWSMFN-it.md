@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WWSMFN-it Kodak PRINTOMATIC Fotocamera istantanea Grigio Foto a...'
 sku: 'B075WWSMFN-it'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QM56RW-it Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta...'
 sku: 'B016QM56RW-it'
+tags: [  ]
 actualPrice: 21.17 EUR
 currency: EUR
 price: 21.17

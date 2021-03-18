@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00588YUKA-it Kleenex 6789 Asciugamani piegati 15 confezioni da 186...'
 sku: 'B00588YUKA-it'
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

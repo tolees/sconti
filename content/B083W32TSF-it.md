@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083W32TSF-it CHOETECH Caricatore Wireless 2 Posti Caricatore Senza Fili...'
 sku: 'B083W32TSF-it'
+tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

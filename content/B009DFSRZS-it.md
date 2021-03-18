@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009DFSRZS-it Michael Kors Orologio Analogico Quarzo Donna con Cinturino...'
 sku: 'B009DFSRZS-it'
+tags: [  ]
 actualPrice: 124.9 EUR
 currency: EUR
 price: 124.9

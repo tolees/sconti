@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N7HMGFJ-it Inglesina Zippy System Pro Sistema Trio 3 in 1 con...'
 sku: 'B07N7HMGFJ-it'
+tags: [  ]
 actualPrice: 445.0 EUR
 currency: EUR
 price: 445.0

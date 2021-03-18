@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBQ6M8L-it JBL Flip Essential Speaker Bluetooth Portatile – Cassa...'
 sku: 'B07YBQ6M8L-it'
+tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

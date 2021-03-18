@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WPOB2O-it Havaianas Brasil Logo Infradito Unisex-Adulto Blu Marine...'
 sku: 'B007WPOB2O-it'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

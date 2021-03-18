@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZTM9RQ-it HP Tango X Stampante a Colori Wi-Fi Multifunzione per...'
 sku: 'B07GZTM9RQ-it'
+tags: [  ]
 actualPrice: 31.57 EUR
 currency: EUR
 price: 31.57

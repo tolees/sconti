@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8P6NYP-it Playmobil - Grande Castello di Novelmore Set di figurine...'
 sku: 'B07P8P6NYP-it'
+tags: [  ]
 actualPrice: 135.9 EUR
 currency: EUR
 price: 135.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086KVQMDS-it Xiaomi Mi 10 16 9 cm 6.67" 8 GB 256 GB Doppia SIM 5G USB...'
 sku: 'B086KVQMDS-it'
+tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

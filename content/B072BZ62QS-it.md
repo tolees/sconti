@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BZ62QS-it TP-Link Deco M5 Wifi Mesh - Pacchetto da 3 Unità Fino a...'
 sku: 'B072BZ62QS-it'
+tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

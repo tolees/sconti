@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4L38GY-it Autan Tropical Vapo Insetto Repellente e Antizanzare...'
 sku: 'B00E4L38GY-it'
+tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

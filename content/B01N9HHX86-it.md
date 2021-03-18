@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9HHX86-it Aquafresh Clean Spazzolino e flex Medium 12 confezioni da...'
 sku: 'B01N9HHX86-it'
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

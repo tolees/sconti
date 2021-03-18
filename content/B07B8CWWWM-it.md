@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8CWWWM-it Lifewit 15L Borsa Termica Manutenzione di Freddo e Caldo...'
 sku: 'B07B8CWWWM-it'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

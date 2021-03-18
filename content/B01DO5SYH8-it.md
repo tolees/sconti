@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DO5SYH8-it Scottex Balsam Fazzoletti 1 Confezione da 24 Pezzi'
 sku: 'B01DO5SYH8-it'
+tags: [  ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

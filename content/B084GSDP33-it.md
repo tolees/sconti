@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084GSDP33-it Ori And The Will of The Wisps - Xbox One'
 sku: 'B084GSDP33-it'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

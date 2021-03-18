@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L49YUKW-it Poly Pool PP1615 Racchetta Elettronica Fulmina Insetti'
 sku: 'B00L49YUKW-it'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

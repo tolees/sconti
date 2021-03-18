@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFNFJQQ-it Lampada a LED con sensore di movimento per illuminazione...'
 sku: 'B07BFNFJQQ-it'
+tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

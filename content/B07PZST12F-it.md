@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZST12F-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Red...'
 sku: 'B07PZST12F-it'
+tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0
