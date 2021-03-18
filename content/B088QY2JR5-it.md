@@ -29,9 +29,9 @@ average: '10.8319354838707'
 ℹ️:
 
 - Facile da pulire: la bilancia è in acciaio inossidabile e si pulisce in un attimo; non devi preoccuparti di impronte, macchie o residui di cibo.
-- Facile da usare: con pulsanti TARE e UNIT, tara veloce e conversione tra g, kg, ml, libbre:once e once fluide; display LCD grande e retroilluminato facile da leggere.
+- Soddisfazione garantita: alimentata con 2 pile AAA (incluse), certificata CE/FCC/RoHS, soddisfatti o rimborsati entro 90 giorni e 15 anni di garanzia.
 - Misure precise: la bilancia da cucina Eono con 4 sensori di precisione pesa fino a 10 kg/22 libbre con una precisione di 1 g/0,1 once; peso minimo rilevabile: 6 - 10 g.
 - Con piatto grande: leggera ma pratica, grande 21 x 14,5 cm e fatta per occupare poco spazio.
-- Soddisfazione garantita: alimentata con 2 pile AAA (incluse), certificata CE/FCC/RoHS, soddisfatti o rimborsati entro 90 giorni e 15 anni di garanzia.
+- Facile da usare: con pulsanti TARE e UNIT, tara veloce e conversione tra g, kg, ml, libbre:once e once fluide; display LCD grande e retroilluminato facile da leggere.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088QY2JR5/?tag=tolees00-21)

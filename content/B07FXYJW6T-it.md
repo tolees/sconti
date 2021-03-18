@@ -28,7 +28,7 @@ Puoi trovare [Havaianas Top Camu  Infradito Uomo  Beige  Beige/Black   43/44](ht
 
 ℹ️:
 
-- Fodera: Senza fodera
 - Materiale esterno: Gomma
+- Fodera: Senza fodera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FXYJW6T/?tag=tolees00-21)
